@@ -11,7 +11,7 @@ end_date: 2022-06-08 16:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - cx
+  - customer-experience
   - design
   - user-research
   - accessibility

@@ -11,8 +11,7 @@ topics:
   - monthly-theme
   - social-media
   - user-experience
-  - cx
-  - cx
+  - customer-experience
   - firstnet
   - social-media
   - the-content-corner

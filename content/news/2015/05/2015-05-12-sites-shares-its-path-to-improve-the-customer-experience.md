@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - our-work
   - CMS
-  - cx
+  - customer-experience
   - customer-service
 ---
 

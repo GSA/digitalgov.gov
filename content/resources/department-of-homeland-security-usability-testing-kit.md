@@ -10,7 +10,7 @@ topics:
   - usability
   - user-experience
   - user-research
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - department-of-homeland-security

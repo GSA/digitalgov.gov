@@ -7,7 +7,7 @@ summary: GSA has developed the Digital Lifecycle Program, with tools and guidanc
 # See all topics at https://digital.gov/topics
 topics:
   - 21st-century-idea
-  - cx
+  - customer-experience
   - design
   - governance
   - performance

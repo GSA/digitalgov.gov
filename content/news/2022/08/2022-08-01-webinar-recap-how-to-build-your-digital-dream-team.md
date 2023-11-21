@@ -4,16 +4,21 @@ kicker: ""
 title: "Webinar Recap: How to Build Your Digital Dream Team"
 deck: 
 summary: Highlights from the Web Managers Community of Practice panel that shared how to get the right team in place to create a trusted, seamless online experience for all your customers.
+
 # See all topics at https://digital.gov/topics
 topics:
   - governance
   - professional-development
   - project-management
   - recaps
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - gabby-fratanduono-king
+
 slug: webinar-recap-how-to-build-your-digital-dream-team
+
 primary_image: "ajijchan-istock-getty-images-1357830750"
 
 # Controls how this page appears across the site

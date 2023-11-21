@@ -12,8 +12,7 @@ topics:
   - policy
   - user-testing-and-research
   - analytics
-  - cx
-  - cx
+  - customer-experience
   - metrics
   - usa-gov
   - usability-testing

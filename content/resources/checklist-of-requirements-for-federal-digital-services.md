@@ -105,7 +105,7 @@ Understand the needs of your customers, collect and address customer feedback, a
 - [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 
 <p class="more">
-  <a href="{{< ref "/topics/cx" >}}">More on Customer Experience
+  <a href="{{< ref "/topics/customer-experience" >}}">More on Customer Experience
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>

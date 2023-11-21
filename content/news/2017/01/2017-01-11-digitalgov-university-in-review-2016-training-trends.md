@@ -3,7 +3,9 @@ slug: digitalgov-university-in-review-2016-training-trends
 date: 2017-01-11 12:00:02 -0400
 title: 'DigitalGov University in Review: 2016 Training Trends'
 summary: 'Thanks to your participation, DigitalGov University (DGU), the events platform for DigitalGov, hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.'
+
 authors:
+
   - jthalls
 topics:
   - accessibility
@@ -27,33 +29,22 @@ topics:
   - ai
   - analytics
   - api
-  - artificial intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - challenges-and-prizes-community-of-practice
+  - artificial-intelligence
   - chatbots
   - cloud
   - cloud-gov
   - content
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
   - dap
   - digital-analytics-program
-  - fedramp
   - metrics
-  - mobile-gov
-  - OCSIT
-  - Office of Citizen Services and Innovative Technology
-  - office-of-products-and-programs
+  - mobile
   - open-data
   - open-opportunities-program
   - social-media
-  - socialgov-community
-  - technology-transformation-services
   - training
-  - tts
   - virtual-reality
   - virtual-augmented-reality-community
-  - webinar
 
 ---
 
@@ -65,7 +56,7 @@ DGU strives to provide training throughout the year that is useful and relevant 
 
 ## Analytics and new communications technologies, anyone? {#4299.graf.graf--h4.graf-after--p}
 
-Some of our most popular training topics throughout the year focused on using programs such as analytics trainings offered through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) and trainings on how to use the [DigitalGov Search]({{< ref "service_search.md" >}}) program. Other popular events were from the various [DigitalGov Communities]({{< ref "/communities" >}}) like the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}}), [Challenge and Prizes Community of Practice]({{< ref "challenges-prizes.md" >}}), and the [Government Customer Experience Community of Practice]({{< ref "customer-experience.md" >}}) where best practices, case studies, and innovations were shared.
+Some of our most popular training topics throughout the year focused on using programs such as analytics trainings offered through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) and trainings on how to use the [DigitalGov Search]({{< ref "service_search.md" >}}) program. Other popular events were from the various [DigitalGov Communities]({{< ref "/communities" >}}) like the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}}), [Challenge and Prizes Community of Practice]({{< ref "challenges-prizes.md" >}}), and the [Government Customer Experience Community of Practice](https://digital.gov/communities/customer-experience/) where best practices, case studies, and innovations were shared.
 
 We heard that you are interested in the latest tools and trends and how federal agencies are using those products, which is why “[Snaps and Stripes: Sharing Public Service Stories with SnapChat](https://www.youtube.com/watch?v=G82jBHxE4Tk)” was a popular webinar this year. Also, you wanted to know how tools like social listening to address and better understand your audience and their needs so many of you attended the “[Listening Before We Speak: Understanding Our Audience in Times of Disaster](https://www.youtube.com/watch?v=YWhRLCxTYxk)” webinar.
 

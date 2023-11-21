@@ -6,7 +6,7 @@ summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares he
 
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - presentations
   - audio-video
   - professional-development

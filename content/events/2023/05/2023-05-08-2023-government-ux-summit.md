@@ -21,7 +21,7 @@ topics:
   - user-experience
   - user-research
   - design
-  - cx
+  - customer-experience
   - accessibility
   - mobile-apps
 

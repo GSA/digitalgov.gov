@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - monthly-theme
-  - cx
+  - customer-experience
   - digitalgov-user-experience-program
   - user-experience
   

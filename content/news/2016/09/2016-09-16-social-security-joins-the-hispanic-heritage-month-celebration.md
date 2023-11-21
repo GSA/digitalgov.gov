@@ -9,9 +9,8 @@ topics:
   - content
   - product-management
   - content
-  - cx
+  - customer-experience
   - customer-service
-  - cx
   - multilingual
   - SSA
   - the-united-states-social-security-administration

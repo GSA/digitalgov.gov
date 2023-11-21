@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - our-work
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
   - search

@@ -14,7 +14,7 @@ summary: "This week, we’re exploring what it means to promote continuity, and 
 topics: 
   - 21st-century-idea
   - content-strategy
-  - cx
+  - customer-experience
   - uswds
   - user-experience
   

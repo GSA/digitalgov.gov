@@ -13,7 +13,7 @@ end_date: 2023-10-19 15:00:00 -0500
 topics:
   - design
   - accessibility
-  - cx
+  - customer-experience
   - user-research
   - user-experience
   - content

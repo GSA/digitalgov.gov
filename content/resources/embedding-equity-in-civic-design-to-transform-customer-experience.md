@@ -5,7 +5,7 @@ deck:
 summary: This case study describes how two civic designers at different agencies embed equity in civic design to transform federal customer experience.
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - design
   - strategy
   - diversity-equity-inclusion-accessibility-deia

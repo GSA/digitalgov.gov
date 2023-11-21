@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - cx
+  - customer-experience
   - Government Contact Center Council
   - government-contact-centers
   - mobile-gov-community-of-practice
