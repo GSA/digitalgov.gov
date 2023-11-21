@@ -3,8 +3,10 @@ slug: ux-vs-cx-whats-the-dif-part-2
 date: 2015-11-20 11:10:26 -0400
 title: 'UX vs. CX: What&#8217;s the Dif? Part 2'
 summary: 'In honor of World Usability Day, which happened on November 12, we’d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery.'
+
 authors:
   - rflagg
+
 topics:
   - monthly-theme
   - 18f
@@ -19,18 +21,20 @@ In honor of [World Usability Day](http://www.worldusabilityday.org/), which happ
 
 ## The New Landscape
 
-{{< legacy-img src="2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a part of Customer Experience (C X)." >}}We first discussed this issue in the summer of 2014, in our [UX vs. CX article]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), but a lot has changed in this space across government in the past year or so.
+{{< legacy-img-right src="2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a part of Customer Experience (C X)." >}}
 
-  * The White House has taken a number of steps to improve government customer service, including:
-      * Issuing a [Cross-Agency Priority (CAP) Goal](http://www.performance.gov/node/3400/view?view=public#overview) to deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a positive experience with government;
-      * Standing up a new [Social and Behavioral Sciences Team](https://sbst.gov/) to translate findings and methods from the social and behavioral sciences into improvements in federal policies and programs;
-      * Creating the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) to use the best of product design and engineering practices to transform the way government works.
-  * Though the DigitalGov UX program (and its roots as the First Fridays Usability Program) has sadly gone away, [GSA’s 18F team](https://18f.gsa.gov/) is helping agencies adopt [agile](https://digital.gov/tag/agile/) design and testing methods to speed delivery and improve customer interactions with government. (The program may have ended, but the [usability case studies]({{< ref "government-usability-case-studies.md" >}}) and [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) are still very much alive!)
-  * Finally, the government UX and CX communities continue to grow. The UX community now has almost 800 people, and the CX community has grown to over 500 members since it launched in April 2015.
+We first discussed this issue in the summer of 2014, in our [UX vs. CX article]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), but a lot has changed in this space across government in the past year or so.
+
+* The White House has taken a number of steps to improve government customer service, including:
+   * Issuing a [Cross-Agency Priority (CAP) Goal](http://www.performance.gov/node/3400/view?view=public#overview) to deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a positive experience with government;
+   * Standing up a new [Social and Behavioral Sciences Team](https://sbst.gov/) to translate findings and methods from the social and behavioral sciences into improvements in federal policies and programs;
+   * Creating the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) to use the best of product design and engineering practices to transform the way government works.
+* Though the DigitalGov UX program (and its roots as the First Fridays Usability Program) has sadly gone away, [GSA’s 18F team](https://18f.gsa.gov/) is helping agencies adopt [agile](https://digital.gov/tag/agile/) design and testing methods to speed delivery and improve customer interactions with government. (The program may have ended, but the [usability case studies]({{< ref "government-usability-case-studies.md" >}}) and [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) are still very much alive!)
+* Finally, the government UX and CX communities continue to grow. The UX community now has almost 800 people, and the CX community has grown to over 500 members since it launched in April 2015.
 
 ## Exploring the Terms
 
-Like the pronunciation of “gif”—you should be skeptical of anyone who is TOO confident about the “right” or “only” definition of CX vs. UX. Though it can be a great conversation-starter, it’s usually most helpful to talk specifically about how organizations implement these two disciplines to improve customer service.
+Like the pronunciation of “gif” <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> &mdash;you should be skeptical of anyone who is TOO confident about the “right” or “only” definition of CX vs. UX. Though it can be a great conversation-starter, it’s usually most helpful to talk specifically about how organizations implement these two disciplines to improve customer service.
 
 **UX** can mean many things—sometimes narrow in terms of tools, sometimes broader to mean all audience-related info and services. The UX community includes user researchers, designers, marketers, content creators, and strategists. Common discussion topics include accessibility, UI design, research techniques, tools, and the endless search for precedent (Has anyone successfully used heatmapping? Do we have a case study about the value of user testing?)
 
@@ -46,16 +50,23 @@ For example, at GSA, our Customer Team helps program offices learn to approach t
 
 CX and UX are everywhere in government now. However you define them, agencies are making huge strides to improve our products and services, making it easier for citizens and businesses to work with us. Both the UX and CX communities offer content and training to help you improve the customer experience at your agency. Check out these resources:
 
-  * Join a community
-      * [Customer Experience](https://digital.gov/communities/customer-experience/)
-      * [User Experience]({{< ref "communities/user-experience.md" >}})
-  * Take some training
-      * [Upcoming events from DigitalGov University]({{< ref "/events" >}})
-      * [CX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW)
-      * [UX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nGAp5rEv5-9qfkCMlgohUMr)
-  * Read through the [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and contribute a case study or resource
-  * A CX Toolkit is also in development; look for it in December 2015.
+* Join a community
+   * [Customer Experience](https://digital.gov/communities/customer-experience/)
+   * [User Experience]({{< ref "communities/user-experience.md" >}})
+* Take some training
+   * [Upcoming events from DigitalGov University]({{< ref "/events" >}})
+   * [CX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW)
+   * [UX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nGAp5rEv5-9qfkCMlgohUMr)
+* Read through the [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and contribute a case study or resource
+* A CX Toolkit is also in development; look for it in December 2015.
 
 How has your agency embraced CX and UX? Tell us in the comments.
 
-_Thanks to members of the [UX]({{< ref "communities/user-experience.md" >}}) and [CX](https://digital.gov/communities/customer-experience/) communities for their contributions to this article._
+_Thanks to members of the [UX](https://digital.gov/communities/user-experience/) and the [CX](https://digital.gov/communities/customer-experience/) communities for their contributions to this article._
+
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+<ol>
+<li id="fn1">CNN, By Doug Gross. n.d. “It’s Settled! Creator Tells Us How to Pronounce ‘GIF.’” CNN. <https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+</ol>
+</footer>
