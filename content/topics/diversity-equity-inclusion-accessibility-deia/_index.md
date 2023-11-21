@@ -4,6 +4,10 @@
 
 slug: "diversity-equity-inclusion-accessibility-deia"
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /topics/diversity-equity-and-inclusion/
+
 # Topic Title
 title: "DEIA"
 deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility (DEIA) into digital experiences."
