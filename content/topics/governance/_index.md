@@ -35,7 +35,7 @@ featured_links:
     summary: "Get an overview of the internal systems and processes used to manage digital presence."
     href: "https://digital.gov/resources/an-introduction-to-digital-governance/"
   - title: "What are agency reporting requirements?"
-    summary: "Learn what the Office of Management and Budget (OMB) requires federal executive agencies to complete by September 2024 (one year after  M-23-22 issuance)."
+    summary: "Learn what the Office of Management and Budget (OMB) requires federal executive agencies to complete by September 2024; one year after  M-23-22 issuance."
     href: "https://digital.gov/resources/21st-century-integrated-digital-experience-act/#what-are-the-agency-reporting-requirements"
   - title: "Who’s on your digital dream team?"
     summary: "Learn about the various roles your agency could include on your web teams."
