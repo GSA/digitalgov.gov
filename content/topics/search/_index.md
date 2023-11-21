@@ -6,7 +6,7 @@ slug: "search"
 
 # Topic Title
 title: "Search"
-deck: "Good search functionality helps the public find what they're looking for quickly and easily."
+deck: "Good search functionality helps the public find exactly what they're looking for."
 
 summary: "The search function is an essential component of any government website. It is a critical part of providing a positive user experience. Search is especially important for federal agencies which often have complex websites with large amounts of information. A well-designed search function can help users navigate this complexity and find the information they need quickly and easily."
 
