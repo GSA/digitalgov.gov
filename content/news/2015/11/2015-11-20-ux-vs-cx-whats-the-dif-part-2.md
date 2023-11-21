@@ -69,6 +69,6 @@ _Thanks to members of the [UX](https://digital.gov/communities/user-experience/)
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">CNN, By Doug Gross. n.d. “It’s Settled! Creator Tells Us How to Pronounce ‘GIF.’” CNN. [https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/](https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/). <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">CNN, By Doug Gross. n.d. “It’s Settled! Creator Tells Us How to Pronounce ‘GIF.’” CNN. https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/ <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
