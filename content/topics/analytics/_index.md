@@ -8,7 +8,7 @@ slug: "analytics"
 title: "Analytics"
 deck: "Measure and plan your site performance with analytics best practices and tools"
 
-summary: "Web analytics provide valuable insights into how users interact with a website. Use the data gained from web analytics to identify areas for improvement and make data-driven decisions. This can lead to a more user-friendly and engaging website, which can enhance trust and overall site performance. "
+summary: "Web analytics provide valuable insights into how users interact with a website. Use the data gained from web analytics to identify areas for improvement and make data-driven decisions. This can lead to a more user-friendly and engaging website, which can enhance trust and overall site performance."
 
 # Weight
 weight: 2
@@ -33,7 +33,7 @@ featured_links:
   title: "Analytics: essential knowledge"
   resources:
   - title: "How to build an analytics strategy"
-    summary: "The Digital Analytics Program (DAP) provides a start-to-finish approach for assessing, reporting, and taking action using Digital.gov in a case study with videos."
+    summary: "The Digital Analytics Program (DAP) provides a start-to-finish approach for assessing, reporting, and taking action using Digital.gov in a case study."
     href: "https://digital.gov/resources/how-to-build-an-analytics-strategy/"
   - title: "Video: Continuously improve your website by using customer feedback and web analytics: An IRS case study (length: 31:27)"
     summary: "Learn how you can use web analytics to make improvements to user experience."
@@ -41,7 +41,7 @@ featured_links:
   - title: "An introduction to search"
     summary: "Follow search engine optimization (SEO) best practices to help search engines discover your content."
     href: "https://digital.gov/resources/an-introduction-to-search/"
-  - title: "How to use web analytics to uncover  cybersecurity incidents: A USAGov case study"
+  - title: "How to use web analytics to uncover cybersecurity incidents: A USAGov case study"
     summary: "Learn how you can take a deep dive into analytics and uncover phishing attempts or other improper use of your agency’s content, logo, or brand."
     href: "https://digital.gov/2020/10/26/true-crime-detectives-how-we-used-free-web-metrics-tools-to-uncover-a-cybersecurity-incident/"
   - title: "How to track performance"
