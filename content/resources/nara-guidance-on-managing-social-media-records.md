@@ -8,6 +8,7 @@ topics:
   - policy
 authors:
   - andreanocesigritz
+expirydate: "2023-11-21"
 ---
 
 This Bulletin provides high-level record keeping requirements and best practices for capturing records created when federal agencies use social media.
