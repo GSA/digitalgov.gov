@@ -7,21 +7,27 @@ event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/how-to-build-your-digital-dream-team-tickets-333717627407
 date: 2022-05-17 14:00:00 -0500
 end_date: 2022-05-17 15:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
   - governance
   - professional-development
   - training
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - ruxi-giura
   - tori-garten
   - laura-larrimore
   - victoria-mcfadden
+
 slug: how-to-build-your-digital-dream-team
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 ---
 
 [Read the Event Recap](https://digital.gov/2022/08/01/webinar-recap-how-to-build-your-digital-dream-team/)

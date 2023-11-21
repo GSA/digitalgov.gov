@@ -9,7 +9,7 @@ title: "Design"
 deck: "Understand how and why design impacts user experience"
 
 summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
-
+primary_image: "topics-og-primary-image"
 # Weight
 weight: 2
 
