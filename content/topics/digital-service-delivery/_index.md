@@ -8,7 +8,7 @@ slug: "digital-service-delivery"
 title: "Digital Service Delivery"
 deck: "Make it easier for the public to access the information and services that they count on each and every day."
 
-summary: "For millions, access to digital services isn’t a luxury&mdash;it’s critical. And the public’s experiences using government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food can dramatically affect how they feel about the federal government. Digital service delivery is the primary subject of 21st Century IDEA as well as the policy guidance in OMB M-23-22, which require government agencies to enact best practices."
+summary: "For millions, access to digital services isn’t a luxury&mdash;it’s critical. The public’s experiences using government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food can dramatically affect how they feel about the federal government. Digital service delivery is the primary subject of 21st Century IDEA and its policy guidance in OMB M-23-22, which require government agencies to enact best practices."
 
 # Weight
 weight: 2
@@ -49,5 +49,5 @@ featured_links:
     href: "https://digital.gov/resources/an-introduction-to-digital-governance/"
   - title: "Test websites for accessibility"
     summary: "Design and deliver digital services with everyone in mind. Use both manual and automated testing methods to create accessible websites."
-    href: "https://digital.gov/resources/how-test-websites-for-accessibility/ "
+    href: "https://digital.gov/resources/how-test-websites-for-accessibility/"
 ---
