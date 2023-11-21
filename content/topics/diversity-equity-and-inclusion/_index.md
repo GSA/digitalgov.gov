@@ -3,6 +3,8 @@
 # https://digital.gov/topics/diversity-equity-and-inclusion
 
 slug: "diversity-equity-and-inclusion"
+aliases:
+  - /topics/diversity-equity-inclusion-accessibility-deia/
 
 # Topic Title
 title: "Diversity, Equity, and Inclusion"
