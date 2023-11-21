@@ -49,7 +49,9 @@ The Nationals developed a TEAM Service Playbook which has everything employees n
 
 Stahl said that the rule of thumb is to “do anything that is ethical and legal to take care of guests.” This attitude empowers employees to do any reasonable thing they can to meet and exceed customer expectations.
 
-## Rewards and Recognition Matter {{< legacy-img src="2015/07/600-x-400-Winning-Team-Brian-Jackson-iStock-Thinkstock-108791935.jpg" alt="Winning Team" caption="" >}} 
+## Rewards and Recognition Matter
+
+{{< legacy-img src="2015/07/600-x-400-Winning-Team-Brian-Jackson-iStock-Thinkstock-108791935.jpg" alt="Winning Team" caption="Brian Jackson/iStock/Thinkstock" >}} 
 
 The Nationals created a very visible recognition program so that employees would understand what it means to deliver world-class service. Sharing awards and recognition with all employees removes perceptions of favoritism because everyone can participate and be recognized.
 
