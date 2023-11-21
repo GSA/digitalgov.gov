@@ -3,7 +3,7 @@ url: /resources/federal-compatible-terms-of-service-agreements/
 date: 2014-01-09 2:40:58 -0400
 aliases:
   - /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
-  - resources/antideficiency-act-implications-of-rtain-online-terms-of-service-agreements/
+  - /resources/antideficiency-act-implications-of-rtain-online-terms-of-service-agreements/
 
 title: "Federal-Compatible Terms of Service Agreements"
 summary: "Agreements negotiated between the federal government and vendors who offer digital tools and services."
