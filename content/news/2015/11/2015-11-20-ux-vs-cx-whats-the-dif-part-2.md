@@ -40,7 +40,9 @@ Like the pronunciation of “gif” <sup><a aria-describedby="footnote-label" hr
 
 **CX** is generally broader—often synonymous with service design, and frequently involves more general user research activities like [journey mapping]({{< ref "2015-08-12-journey-mapping-the-customer-experience-a-usa-gov-case-study.md" >}}) and [personas]({{< ref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}), but often not product-specific ones like usability tests. CX is an emerging discipline, particularly in government, with many agencies in the early stages of implementing program- or agency-wide customer experience initiatives. Several agencies now have a Chief Customer Officer, responsible for the overall experience the public has with agency programs and services.
 
-## Defining the Disciplines {{< legacy-img src="2015/11/600-400-Dictionary-Series-Experience-bernie_photo-iStock-Thinkstock-487291716.jpg" alt="Dictionary entry for the word, experience." caption="" >}}
+## Defining the Disciplines
+
+{{< legacy-img src="2015/11/600-400-Dictionary-Series-Experience-bernie_photo-iStock-Thinkstock-487291716.jpg" alt="Dictionary entry for the word, experience." caption="bernie_photo/iStock/Thinkstock" >}}
 
 Every agency across the federal government has embraced UX and CX in different ways. At some agencies, user-centeredness is the currency in which people work, and everyone wants more of it. There is a growing interest in “user research.” Service design, or CX, looks at the entire experience, and narrows to UX when discussing UI elements. But even when the talk is more about research activities than spending time classifying these activities, they’re all about user-centricity, no matter which term you use.
 
@@ -67,6 +69,6 @@ _Thanks to members of the [UX](https://digital.gov/communities/user-experience/)
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">CNN, By Doug Gross. n.d. “It’s Settled! Creator Tells Us How to Pronounce ‘GIF.’” CNN. <https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">CNN, By Doug Gross. n.d. “It’s Settled! Creator Tells Us How to Pronounce ‘GIF.’” CNN. [https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/](https://www.cnn.com/2013/05/22/tech/web/pronounce-gif/). <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
