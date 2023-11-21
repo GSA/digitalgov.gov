@@ -3,9 +3,11 @@ slug: connecting-with-the-social-and-behavioral-sciences-team
 date: 2015-12-09 1:40:55 -0400
 title: Connecting with the Social and Behavioral Sciences Team
 summary: 'The new Social and Behavioral Sciences Team (SBST) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on.'
+
 authors:
   - jsnee
   - rflagg
+
 topics:
   - product-management
   - monthly-theme
