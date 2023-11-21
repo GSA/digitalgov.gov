@@ -15,7 +15,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "21st Century Integrated Digital Experience Act (21st Century IDEA) & M-23-22"
+  title: "21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22"
   link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
 # Featured resource to at the top of the page
