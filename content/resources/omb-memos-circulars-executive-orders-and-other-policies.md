@@ -15,7 +15,7 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Memos
 
-[**M-23-22:** "Delivering a Digital-First Public Experience."](https://digital.gov/resources/delivering-digital-first-public-experience/) M-23-22 rescinds M-17-06
+[**M-23-22:** "Delivering a Digital-First Public Experience"](https://digital.gov/resources/delivering-digital-first-public-experience/) M-23-22 rescinds M-17-06
 
 [**M-23-13:** “No TikTok on Government Devices” Implementation Guidance (288 KB, 4 pages, February 27, 2023)](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-13-No-TikTok-on-Government-Devices-Implementation-Guidance_final.pdf)
 
