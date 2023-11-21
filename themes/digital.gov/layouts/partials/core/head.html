@@ -12,6 +12,16 @@
   {{- end -}}
 {{- end -}}
 
+{{/* Set primary_image from topics/_index.md if not set on individual topic */}}
+{{ if eq .Type "topics" }}
+  {{ if .Params.primary_image }}
+    {{ $primary_image = .Params.primary_image }}
+  {{ else }}
+    {{ $topics_page := .Site.GetPage "topics" }}
+    {{ $primary_image = $topics_page.Params.primary_image }}
+  {{ end }}
+{{ end }}
+
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $featImg := index $.Site.Data.images (default "digitalgov-2022-card-v3" $primary_image) -}}
 {{- $featImgBase := $featImg.uid -}}
