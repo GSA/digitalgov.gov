@@ -11,7 +11,7 @@ topics:
   - our-work
   - challenges-and-prize-competitions
   - customer-experience
-  - ecpic
+  - budgeting-and-performance
   - mobile-gov
   - open-opportunities-program
   - socialgov
