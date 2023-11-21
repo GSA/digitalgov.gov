@@ -41,7 +41,7 @@ featured_links:
     summary: "Learn about the various roles your agency could include on your web teams."
     href: "https://digital.gov/2020/05/27/whos-on-your-digital-dream-team/"
   - title: "Required web content and links"
-    summary: "Learn what links and text are required and the purposes they serve."
+    summary: "For executive branch websites, various policies require us to provide certain content, and provide links to content from specific places."
     href: "https://digital.gov/resources/required-web-content-and-links/"
   - title: "Checklist of requirements for federal websites and digital services"
     summary: "Learn about high-level policies that cover basic requirements for all websites and digital services."
