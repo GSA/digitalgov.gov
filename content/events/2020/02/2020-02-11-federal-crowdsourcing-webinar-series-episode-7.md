@@ -20,6 +20,7 @@ end_date: 2020-02-11 15:00:00 -0500
 topics:
   - code
   - innovation
+  - software-engineering
   - open
   - open-source
   - crowdsourcing
