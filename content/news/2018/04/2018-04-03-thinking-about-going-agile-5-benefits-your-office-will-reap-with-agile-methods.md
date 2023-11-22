@@ -11,7 +11,7 @@ topics:
   - product-management
   - agile
   - sprint
-  - christophertdumond
+  - software-engineering
 
 featured_image:
   uid: agile-project-planning
