@@ -3,6 +3,7 @@
   {{ $communities := (where (where .Site.Pages "Section" "communities").ByTitle ".Params.weight" "ge" 1) }}
   {{ $other_communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
+
   <main class="grid-container-desktop" id="main-content">
     {{/* Digital.gov Communities of Practice */}}
     {{ partial "core/featured-communities.html" (dict "context" . "layout" "list") }}

@@ -1,9 +1,9 @@
 {{ define "content" }}
   <main role="main" id="main-content">
-    <div class="grid-container grid-container-desktop">
+    <section class="grid-container grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
-          <header class="page-head page-head-{{- .Type -}}">
+          <div class="page-head page-head-{{- .Type -}}">
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}}</h1>
 
@@ -11,10 +11,10 @@
             {{- if .Params.deck -}}
               <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
-          </header>
+          </div>
         </div>
       </div>
-    </div>
+    </section>
 
     <section class="services-list">
       <div class="grid-container grid-container-desktop">
