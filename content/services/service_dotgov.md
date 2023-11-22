@@ -29,6 +29,7 @@ weight: 2
 topics:
   - design
   - domain-management
+  - social-media
   - code
   - strategy
   - product-management
