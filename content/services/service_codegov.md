@@ -30,6 +30,7 @@ authors:
 # Topics that best describe this product or service
 topics:
   - open-source
+  - software-engineering
   - code
   - data
   - api
