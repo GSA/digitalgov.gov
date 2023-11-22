@@ -12,7 +12,6 @@ topics:
   - social-media
   - cdc
   - centers-for-disease-control-and-prevention
-  - facebook
   - federal-emergency-management-agency
   - fema
   - GobiernoUSAgov
@@ -21,7 +20,6 @@ topics:
   - recaps
   - SBA
   - social-media
-  - Twitter
   - us-small-business-administration
   - usa-gov
   - usagov

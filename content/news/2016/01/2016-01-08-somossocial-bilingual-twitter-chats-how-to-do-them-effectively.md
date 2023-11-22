@@ -11,7 +11,6 @@ topics:
   - multilingual-community
   - recaps
   - social-media
-  - Twitter
   - usagov
 ---
 

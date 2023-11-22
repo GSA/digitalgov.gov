@@ -10,7 +10,7 @@ topics:
   - user-research
   - writing
   - recaps
-  - public-safety
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

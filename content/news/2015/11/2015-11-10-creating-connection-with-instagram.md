@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - DOI
-  - instagram
   - national-institutes-of-health
   - nih
   - transportation-security-administration

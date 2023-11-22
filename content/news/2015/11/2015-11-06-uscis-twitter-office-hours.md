@@ -12,7 +12,6 @@ topics:
   - FAFSA
   - federal-emergency-management-agency
   - fema
-  - Twitter
   - US Citizenship and Immigration Service
   - us-department-of-education
   - us-environmental-protection-agency

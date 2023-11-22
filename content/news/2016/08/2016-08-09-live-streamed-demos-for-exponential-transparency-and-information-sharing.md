@@ -15,7 +15,7 @@ topics:
   - 18f
   - audio
   - audio-video
-  - digital-audio-video-community
+  - multimedia
   - video
 
 ---

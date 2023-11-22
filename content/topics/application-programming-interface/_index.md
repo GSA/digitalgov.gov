@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/pinterest
+# https://digital.gov/topics/application-programming-interface
 
-slug: "pinterest"
+slug: "application-programming-interface"
 
 # Topic Title
-title: "Pinterest"
+title: "Application Programming Interface"
 
 # description — keep it short and clear
 summary: ""

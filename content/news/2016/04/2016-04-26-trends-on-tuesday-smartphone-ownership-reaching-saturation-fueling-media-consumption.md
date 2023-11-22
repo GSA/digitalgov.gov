@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - social-media
-  - facebook
-  - instagram
-  - linkedin
   - mobile
   - social-media
   - trends-on-tuesday

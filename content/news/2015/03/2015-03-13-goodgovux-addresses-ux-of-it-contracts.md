@@ -9,7 +9,7 @@ topics:
   - accessibility
   - design
   - user-testing-and-research
-  - RFP
+  - acquisition
   - usability
   - user-experience
 ---

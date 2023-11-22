@@ -11,9 +11,7 @@ authors:
 topics:
   - social-media
   - epa
-  - facebook
   - gsa
-  - instagram
   - nasa
   - national-institutes-of-health
   - National Zoological Park
@@ -22,7 +20,6 @@ topics:
   - nsf
   - office-of-naval-research
   - peace-corps
-  - Twitter
 ---
 
 On this Earth Day, federal social media managers are hard at work, sharing and promoting what government and citizens can do to protect the environment. We’ve compiled a sample of the activities that also show how different agencies are using different social media tools in support of a common goal.

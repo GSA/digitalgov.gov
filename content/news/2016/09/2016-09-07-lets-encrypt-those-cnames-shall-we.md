@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - our-work
-  - aws
+  - cloud-and-infrastructure
   - search
   - infrastructure
 ---

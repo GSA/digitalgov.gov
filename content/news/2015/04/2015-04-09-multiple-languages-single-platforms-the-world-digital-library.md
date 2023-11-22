@@ -16,7 +16,6 @@ topics:
   - multilingual
   - responsive-web-design
   - social-media
-  - Twitter
 ---
 
 {{< legacy-img src="2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, Welcome, in various languages" caption="" >}} 

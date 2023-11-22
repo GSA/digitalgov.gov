@@ -22,7 +22,7 @@ topics:
   - customer-experience
   - metadata
   - search-engine-optimization
-  - public-safety
+  - communication
 
 authors:
   - matt-harmon

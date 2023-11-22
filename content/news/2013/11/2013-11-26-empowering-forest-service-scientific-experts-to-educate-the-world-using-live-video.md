@@ -9,7 +9,6 @@ topics:
   - content
   - social-media
   - video
-  - YouTube
 ---
 
 <p>

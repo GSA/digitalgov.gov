@@ -12,7 +12,7 @@ topics:
   - customer-service
   - dap
   - digital-analytics-program
-  - ecpic
+  - budgeting-and-performance
   - fedramp
   - tos
 

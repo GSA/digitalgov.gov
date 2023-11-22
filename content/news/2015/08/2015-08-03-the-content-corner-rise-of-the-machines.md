@@ -9,7 +9,7 @@ topics:
   - content
   - administrative-office-of-the-united-states-courts
   - blog
-  - natural language generation
+  - artificial-intelligence
   - the-content-corner
 ---
 

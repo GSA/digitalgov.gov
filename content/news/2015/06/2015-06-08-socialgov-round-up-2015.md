@@ -14,7 +14,6 @@ topics:
   - search
   - DOI
   - epa
-  - facebook
   - fda
   - GAO
   - HHS

@@ -17,8 +17,8 @@ topics:
   - cloud-gov
   - code
   - data
-  - data-act
-  - digital-accountability-and-transparency-act
+  - budgeting-and-performance
+  - budgeting-and-performance
   - FAS
   - federal-acquisition-service
   - fedramp

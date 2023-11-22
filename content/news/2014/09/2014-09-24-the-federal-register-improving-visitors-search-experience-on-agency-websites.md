@@ -12,13 +12,11 @@ topics:
   - api
   - search
   - federal-register
-  - instagram
+  - social-media
   - NLM
   - OSHA
   - SEC
-  - Twitter
   - us-securities-and-exchange-commission
-  - YouTube
 ---
 
 The [Office of the Federal Register](https://www.federalregister.gov/policy/about-us)’s mission “informs citizens of their rights and obligations, documents the actions of Federal agencies, and provides a forum for public participation in the democratic process.”

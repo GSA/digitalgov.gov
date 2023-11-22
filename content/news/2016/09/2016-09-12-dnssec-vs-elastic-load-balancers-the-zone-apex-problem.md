@@ -11,7 +11,7 @@ topics:
   - our-work
   - strategy
   - policy
-  - aws
+  - cloud-and-infrastructure
   - search
   - infrastructure
   - security

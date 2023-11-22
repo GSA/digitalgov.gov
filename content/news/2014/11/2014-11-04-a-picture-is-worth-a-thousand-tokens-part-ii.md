@@ -9,7 +9,6 @@ topics:
   - content
   - our-work
   - social-media
-  - instagram
   - open-government
   - usagov
 ---

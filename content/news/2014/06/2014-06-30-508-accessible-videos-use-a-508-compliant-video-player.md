@@ -12,7 +12,7 @@ topics:
   - video
   - section-508
   - us-access-board
-  - YouTube
+  - social-media
 ---
 
 {{< legacy-img src="2014/07/480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions.jpg" alt="480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions" >}}

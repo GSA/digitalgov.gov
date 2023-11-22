@@ -21,7 +21,6 @@ topics:
   - data
   - firstnet
   - mobile
-  - public-safety
   - tribal-government
   - us-national-park-service
   - nps
