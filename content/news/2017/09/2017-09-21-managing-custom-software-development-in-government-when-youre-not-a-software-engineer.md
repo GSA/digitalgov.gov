@@ -3,19 +3,23 @@ slug: managing-custom-software-development-in-government-when-youre-not-a-softwa
 date: 2017-09-21 16:10:00 -0400
 title: Managing Custom Software Development in Government When You're Not a Software Engineer
 summary: "As custom software development becomes integral to accomplishing any program's mission, many managers in government find themselves faced with handling the unfamiliar: overseeing the design and implementation of a digital product that is functional, user-friendly, and necessary for realizing your program’s mission."
+
 authors:
   - kaitlin-devine
+
 topics:
   - product-management
   - strategy
+  - software-engineering
   - policy
-  - 18f
   - agile
   - project-management
   - user-centered-design
+
 featured_image:
   uid: featured-18f-new-logo-black-bg
   alt: '18F logo'
+
 ---
 
 > _This post was originally published on the [18F blog](https://18f.gsa.gov/2017/09/20/managing-custom-software-development-in-government-when-youre-not-a-software-engineer/). It is the first in a series that will share effective and efficient ways to manage software development, even if one doesn’t have a background in software engineering._
