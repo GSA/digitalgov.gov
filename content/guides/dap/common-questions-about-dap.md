@@ -87,7 +87,7 @@ A. Currently, DAP uses Google Analytics 360 to collect and analyze the Web traff
 
 **Q. Does this tool have to go on all websites? Or just top-level domains?**
 
-A. On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP javascript code on all public facing federal websites. Please see the `Adding Your Site to DAP` page for more information.
+A. On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience), which requires federal agencies to implement the DAP javascript code on all public facing federal websites. Please see the `Adding Your Site to DAP` page for more information.
 
 **Q. Can the DAP code be implemented with other Google Analytics and/or other web analytics tools?**
 
