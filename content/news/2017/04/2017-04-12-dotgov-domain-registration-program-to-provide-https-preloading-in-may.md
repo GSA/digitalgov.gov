@@ -2,7 +2,7 @@
 slug: dotgov-domain-registration-program-to-provide-https-preloading-in-may
 date: 2017-04-12 14:19:47 -0400
 title: DotGov Domain Registration Program to Provide HTTPS Preloading in May
-summary: 'Effective May 15, 2017, GSA’s DotGov Domain Registration Program will begin providing HSTS Preloading services for federal agencies. his new service helps ensure that visitor communication with .gov websites is not modified or compromised, and hostile networks cannot inject malware, tracking beacons, or otherwise monitor or change visitor interactions online.'
+summary: 'Effective May 15, 2017, GSA’s DotGov Domain Registration Program will begin providing HSTS Preloading services for federal agencies. This new service helps ensure that visitor communication with .gov websites is not modified or compromised, and hostile networks cannot inject malware, tracking beacons, or otherwise monitor or change visitor interactions online.'
 
 authors:
   - marina-fox
@@ -15,6 +15,8 @@ topics:
   - policy
   - https
   - security
+
+primary_image: "https-padlock-weerapatkiatdumrong-istock-thinkstock-520737069-comp"
 
 ---
 

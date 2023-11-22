@@ -1,7 +1,7 @@
 ---
 slug: automatic-https-enforcement-for-new-executive-branch-gov-domains
 date: 2017-01-19 12:00:30 -0400
-title: Automatic HTTPS Enforcement for New Executive Branch .Gov Domains
+title: Automatic HTTPS Enforcement for New Executive Branch .gov Domains
 summary: HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.
 
 authors:
@@ -22,11 +22,11 @@ topics:
   - search-engine-optimization
   - security
 
+primary_image: "dot-gov-tld-wood-block-marekuliasz-istock-gettyimages-476434043-1-comp"
+
 ---
 
 HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.
-
-{{< legacy-img src="2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="weerapatkiatdumrong/iStock/Thinkstock" >}}
 
 In June 2015, the White House required all new federal web services to [support and enforce HTTPS connections over the public internet](https://https.cio.gov/#guidelines), and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a [public HTTPS monitoring dashboard](https://pulse.cio.gov/) and [thorough policy guidance and technical assistance](https://https.cio.gov/).
 
@@ -66,4 +66,6 @@ Additionally, GSA’s DigitalGov University and 18F teams have partnered to prod
   * [Implementing HTTPS](https://www.youtube.com/watch?v=rnM2qAfEG-M) (advanced, more technical detail)
   * [Migrating to HTTPS](https://www.youtube.com/watch?v=X5H8JRULDOo) (advanced, focused on HSTS, certificates, and mixed content)
 
-_Learn more about [security]({{< ref "/topics/security" >}}) and [HTTPS]({{< ref "/topics/https" >}}) — including why [switching to HTTPS will make your analytics better]({{< ref "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}}) and how [HTTPS can impact the SEO of government websites]({{< ref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}}). If you have a .gov or .mil email address, consider joining our [communities]({{< ref "/communities" >}}) to connect with other feds working on web and digital projects._
+_Learn more about [security]({{< ref "/topics/security" >}}) and [HTTPS]({{< ref "/topics/https" >}}) — including why [switching to HTTPS will make your analytics better]({{< ref "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}}) and how [HTTPS can impact the SEO of government websites]({{< ref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}})._
+
+_If you have a .gov or .mil email address, consider joining our [communities](https://digital.gov/communities/) to connect with other U.S. government employees and contractors working on web and digital projects._

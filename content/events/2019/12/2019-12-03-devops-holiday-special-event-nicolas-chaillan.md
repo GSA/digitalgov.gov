@@ -19,6 +19,7 @@ end_date: 2019-12-03 14:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - devops
+  - software-engineering
   - big-data
   - cloud
   - dod
@@ -30,7 +31,7 @@ authors:
   - nicolas-chaillan
 
 # YouTube ID
-youtube_id: RB7s9xCW2CM
+youtube_id: 
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

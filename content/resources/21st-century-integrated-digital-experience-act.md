@@ -17,6 +17,7 @@ summary: "Learn how to implement 21st Century IDEA to design and deliver better 
 topics:
   - digital-service-delivery
   - governance
+  - software-engineering
   - trust
   - accessibility
   - user-experience

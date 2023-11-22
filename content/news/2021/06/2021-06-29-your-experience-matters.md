@@ -17,7 +17,7 @@ deck: "**Your Experience Matters**&mdash;The National Archives and Records
 summary: summary
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
 slug: your-experience-matters

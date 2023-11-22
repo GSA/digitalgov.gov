@@ -10,7 +10,7 @@ summary: A more simple, seamless, and secure customer experience for the America
 # See all topics at https://digital.gov/topics
 topics:
   - trust
-  - cx
+  - customer-experience
 
 slug: executive-order-14058-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government
 

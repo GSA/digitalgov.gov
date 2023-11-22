@@ -13,7 +13,7 @@ topics:
   - mobile
   - audio-video
   - data
-  - digital-audio-video-community
+  - multimedia
   - mobile
   - mobile-friendly
   - mobile-gov

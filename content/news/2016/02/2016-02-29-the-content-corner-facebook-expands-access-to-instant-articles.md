@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - social-media
   - content-models
-  - facebook
   - open-and-structured-content-models
   - social-media
   - structured-content

@@ -9,7 +9,6 @@ topics:
   - social-media
   - federal-student-aid
   - FSA
-  - Twitter
   - us-department-of-veterans-affairs
   - VA
 ---

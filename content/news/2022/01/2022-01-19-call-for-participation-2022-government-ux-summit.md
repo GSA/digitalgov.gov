@@ -8,7 +8,7 @@ summary: "Learn more about the User Experience Summit submission process, and su
 topics:
   - community-ux
   - user-experience
-  - cx
+  - customer-experience
   - research
   - user-research
 # See all authors at https://digital.gov/authors

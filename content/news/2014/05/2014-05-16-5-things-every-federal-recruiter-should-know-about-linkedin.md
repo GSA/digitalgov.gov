@@ -7,7 +7,6 @@ authors:
   - erika-brown
 topics:
   - social-media
-  - linkedin
   - peace-corps
 ---
 

@@ -12,7 +12,7 @@ topics:
   - user-experience
   - 18f
   - api
-  - api-keys
+  - application-programming-interface
   - digitalgov-user-experience-program
   - federal-emergency-management-agency
   - fema

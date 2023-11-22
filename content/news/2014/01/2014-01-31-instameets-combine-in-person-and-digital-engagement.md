@@ -7,8 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - facebook
-  - instagram
   - National Zoological Park
 ---
 

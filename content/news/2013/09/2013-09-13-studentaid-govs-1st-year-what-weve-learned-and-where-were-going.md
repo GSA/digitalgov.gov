@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - user-experience
-  - cx
+  - customer-experience
   - FAFSA
   - FSA
   - us-department-of-education

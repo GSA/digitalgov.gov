@@ -4,7 +4,7 @@ date: 2016-01-07 5:52:31 -0400
 title: Customer Experience Toolkit
 summary: "This Toolkit is intended to help government agencies improve how we deliver services and information to the public."
 topics:
-  - cx
+  - customer-experience
 authors:
   - rflagg
 

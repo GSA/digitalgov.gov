@@ -14,7 +14,7 @@ topics:
   - lep
   - content
   - accessibility
-  - cx
+  - customer-experience
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

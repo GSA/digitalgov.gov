@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - product-management
-  - cx
+  - customer-experience
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - us-department-of-veterans-affairs

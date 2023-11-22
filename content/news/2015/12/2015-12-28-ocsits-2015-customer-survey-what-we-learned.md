@@ -7,12 +7,12 @@ authors:
   - rflagg
 topics:
   - our-work
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
   - dap
   - digital-analytics-program
-  - ecpic
+  - budgeting-and-performance
   - fedramp
   - tos
 

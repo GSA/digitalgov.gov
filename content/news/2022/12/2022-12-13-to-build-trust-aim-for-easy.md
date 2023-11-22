@@ -7,7 +7,7 @@ summary: "Trust is earned through consistency and commitment. Build sites that b
 topics:
   - 21st-century-idea
   - plain-language
-  - cx
+  - customer-experience
   - usability
   - accessibility
   - trust

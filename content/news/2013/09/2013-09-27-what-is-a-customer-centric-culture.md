@@ -7,7 +7,7 @@ authors:
   - martha-dorris
 topics:
   - product-management
-  - cx
+  - customer-experience
   - customer-satisfaction
 ---
 

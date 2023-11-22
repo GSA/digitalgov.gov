@@ -17,7 +17,7 @@ topics:
   - content-strategy
   - user-experience
   - plain-language
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - katina-stapleton

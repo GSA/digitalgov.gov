@@ -10,7 +10,6 @@ topics:
   - communities
   - social-media
   - aids-gov
-  - Americans with Disabilities Act
   - aoi
   - DOL
   - FCC

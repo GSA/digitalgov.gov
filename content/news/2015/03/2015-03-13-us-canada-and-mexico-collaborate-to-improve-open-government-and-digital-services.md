@@ -12,7 +12,7 @@ topics:
   - policy
   - 18f
   - data-gov
-  - FOIA
+  - open-government
   - gsa
   - metadata
   - open-data

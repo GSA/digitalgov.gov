@@ -14,7 +14,6 @@ topics:
   - 18f
   - DOJ
   - epa
-  - FOIA
   - Office of Management and Budget
   - OMB
   - open-government

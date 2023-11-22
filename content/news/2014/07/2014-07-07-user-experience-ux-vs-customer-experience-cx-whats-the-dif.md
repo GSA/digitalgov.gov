@@ -9,7 +9,7 @@ topics:
   - communities
   - monthly-theme
   - aoi
-  - cx
+  - customer-experience
   - digitalgov-user-experience-program
   - search-engine-optimization
   - user-experience

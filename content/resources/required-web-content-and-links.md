@@ -14,7 +14,7 @@ topics:
   - governance
   - content
   - content-strategy
-  - cx
+  - customer-experience
   - user-experience
 
 weight: 2

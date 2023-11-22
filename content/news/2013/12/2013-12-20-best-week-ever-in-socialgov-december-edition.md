@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - DoD
-  - facebook
   - united-states-department-of-defense
 ---
 

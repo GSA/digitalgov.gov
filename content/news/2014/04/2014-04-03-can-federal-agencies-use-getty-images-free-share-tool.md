@@ -8,12 +8,9 @@ authors:
 topics:
   - social-media
   - DoD
-  - facebook
-  - instagram
   - Library of Congress
   - LOC
   - national-archives-and-records-administration
-  - Twitter
   - us-department-of-state
   - united-states-department-of-defense
 

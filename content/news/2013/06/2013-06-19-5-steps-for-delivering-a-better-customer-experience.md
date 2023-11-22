@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - user-experience
-  - cx
+  - customer-experience
   - gsa
   - top-tasks
 ---

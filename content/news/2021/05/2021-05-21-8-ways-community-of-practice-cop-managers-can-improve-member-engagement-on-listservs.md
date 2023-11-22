@@ -8,7 +8,7 @@ summary: Are you a Digital.gov Community of Practice (CoP) lead? Find yourself p
 # See all topics at https://digital.gov/topics
 topics:
   - content
-  - cx
+  - customer-experience
   - governance
   - professional-development
   - user-experience

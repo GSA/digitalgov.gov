@@ -9,10 +9,8 @@
 
 {{/* Checks if there are topics applied to this page */}}
 {{- if .Params.topics -}}
-  <div class="list-topics">
-    <header>
-      <h3>Related Topics</h3>
-    </header>
+  <article class="list-topics">
+    <h3 class="dg-promos__heading">Related Topics</h3>
     {{/* Sets the taxonomy we're pulling here */}}
     {{- $taxonomy := "topics" -}}
     {{- $topics := .Param $taxonomy -}}
@@ -36,5 +34,5 @@
         >
       {{- end -}}
     {{- end -}}
-  </div>
+  </article>
 {{- end -}}

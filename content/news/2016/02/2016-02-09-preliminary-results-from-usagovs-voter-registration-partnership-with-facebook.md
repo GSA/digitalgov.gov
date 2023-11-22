@@ -10,7 +10,6 @@ topics:
   - social-media
   - analytics
   - analytics-usa-gov
-  - facebook
   - social-media
   - social-media-metrics
   - usagov

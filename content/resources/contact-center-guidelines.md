@@ -9,7 +9,7 @@ authors:
 
 topics:
   - contact-centers
-  - cx
+  - customer-experience
 
 ---
 

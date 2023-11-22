@@ -54,7 +54,7 @@ aliases:
 
 ## Customer Experience
 
-- [Customer Experience Community of Practice (CX-COP)]({{< ref "customer-experience.md" >}})
+- [Customer Experience Community of Practice (CX-COP)]({{< ref "/communities/customer-experience.md" >}})
 - [Customer Experience Toolkit]({{< ref "customer-experience-toolkit.md" >}})
 - [Government Customer Service Policies & Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 - [Paperwork Reduction Act Fast Track Process]({{< ref "paperwork-reduction-act-fast-track-process.md" >}})

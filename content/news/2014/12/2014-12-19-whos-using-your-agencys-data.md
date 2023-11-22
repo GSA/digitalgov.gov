@@ -7,7 +7,7 @@ authors:
   - myehsha-boone
 topics:
   - data
-  - FOIA
+  - open-government
   - open-data
 ---
 

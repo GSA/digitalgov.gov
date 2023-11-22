@@ -15,7 +15,7 @@ end_date: 2022-01-13 15:00:00 -0500
 topics:
   - metrics
   - user-experience
-  - cx
+  - customer-experience
   - analytics
 # See all authors at https://digital.gov/authors
 authors:

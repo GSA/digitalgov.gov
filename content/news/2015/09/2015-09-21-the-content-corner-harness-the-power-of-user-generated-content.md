@@ -8,12 +8,10 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - instagram
   - NARA
   - national-archives-and-records-administration
   - social-media
   - the-content-corner
-  - Twitter
   - UGC
   - white-house
 ---

@@ -4,6 +4,9 @@
 
 slug: "diversity-equity-inclusion-accessibility-deia"
 
+# Archive - see Trello board
+expirydate: "2023-11-20"
+
 # Topic Title
 title: "DEIA"
 deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility (DEIA) into digital experiences."

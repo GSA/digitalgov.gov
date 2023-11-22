@@ -6,7 +6,7 @@ summary: The Benefits Studio is seeking feedback and collaboration as it explore
 topics:
   - sms
   - mobile
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - amy-ashida

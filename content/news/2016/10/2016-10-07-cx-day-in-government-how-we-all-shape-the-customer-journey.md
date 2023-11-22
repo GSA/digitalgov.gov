@@ -8,9 +8,8 @@ authors:
 topics:
   - strategy
   - policy
-  - cx
   - customer-service
-  - cx
+  - customer-experience
   - FAS
   - Federal Acquisition Service
   - gsa
