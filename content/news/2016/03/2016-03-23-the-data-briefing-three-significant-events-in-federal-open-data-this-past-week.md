@@ -2,28 +2,23 @@
 slug: the-data-briefing-three-significant-events-in-federal-open-data-this-past-week
 date: 2016-03-23 10:00:52 -0400
 title: 'The Data Briefing: Three Significant Events in Federal Open Data This Past Week'
-summary: Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. In its Second Open Government National Action Plan (PDF, 639 KB, 5 pages, September 2014), the White House called for a government-wide policy on
+summary: Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public.
+
 authors:
   - bbrantley
 topics:
   - api
+  - software-engineering
   - data
   - monthly-theme
   - agile
   - api
   - dhs
   - national-action-plan-on-open-government
-  - Office of Management and Budget
-  - OMB
   - open-data
   - open-source
   - the-data-briefing
-  - us-department-of-veterans-affairs
-  - united-states-department-of-homeland-security
-  - United States Patent and Trademark Office
-  - USPTO
-  - VA
-  - white-house
+
 ---
 
 Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. {{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}} 
