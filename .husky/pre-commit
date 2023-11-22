@@ -1,10 +1,10 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-npm run lint:markdown
-npm run lint:styles
-npm run lint:js
+npm run lint:markdown:fix
+npm run lint:styles:fix
+npm run lint:js:fix
 
-npm run prettier:templates
-npm run prettier:styles
-npm run prettier:js
+npm run prettier:templates:fix
+npm run prettier:styles:fix
+npm run prettier:js:fix
