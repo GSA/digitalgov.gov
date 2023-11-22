@@ -4,6 +4,9 @@
 
 slug: "diversity-equity-and-inclusion"
 
+aliases:
+  - /topics/diversity-equity-inclusion-accessibility-deia/
+
 # Topic Title
 title: "Diversity, Equity, and Inclusion"
 deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility (DEIA) into digital experiences."
