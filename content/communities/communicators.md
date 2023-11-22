@@ -7,7 +7,6 @@ summary: "Improve communication and make government more effective."
 aliases:
   - /communities/federal-communicators-network/
 
-
 # See all topics at https://digital.gov/topics
 topics:
   - content
@@ -47,7 +46,6 @@ dg_logo: communities-communicators.svg
 kicker: "Join the Communicators Community"
 
 primary_image: "white-bg-digital-gov-card-community"
-
 ---
 
 The Communicators community was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
