@@ -3,25 +3,20 @@
   {{ $communities := (where (where .Site.Pages "Section" "communities").ByTitle ".Params.weight" "ge" 1) }}
   {{ $other_communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
-
-  <main role="main" class="grid-container-desktop" id="main-content">
+  <main class="grid-container-desktop" id="main-content">
     {{/* Digital.gov Communities of Practice */}}
-    <section class="usa-section">
-      {{ partial "core/featured-communities.html" (dict "context" . "layout" "list") }}
-    </section>
+    {{ partial "core/featured-communities.html" (dict "context" . "layout" "list") }}
 
     {{/* Other Communities of Practice */}}
-    <header class="page-head">
+    <div class="page-head">
       <h2>Other Communities of Practice</h2>
       <div class="deck">
         These communities are not managed by Digital.gov, but are listed here
         <br />because they overlap with
         <a class="usa-link" href="{{- "/about/" | relURL -}}">our mission</a>.
       </div>
-    </header>
+    </div>
 
-    <section class="usa-section">
-      {{ partial "core/collection/collection-grid-list.html" (dict "list_data" $other_communities) }}
-    </section>
+    {{ partial "core/collection/collection-grid-list.html" (dict "list_data" $other_communities) }}
   </main>
 {{ end }}
