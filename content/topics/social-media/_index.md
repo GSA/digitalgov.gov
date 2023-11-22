@@ -45,10 +45,6 @@ featured_links:
     summary: "Follow these guidelines from the Federal CIO Council and use social media in a manner that minimizes risk."
     href: "https://digital.gov/resources/guidelines-for-secure-use-of-social-media"
 
-  - title: "Guidance on managing social media records (NARA Bulletin 2014-02)"
-    summary: "Understand the high-level recordkeeping requirements and best practices for capturing social media records."
-    href: "https://digital.gov/resources/nara-guidance-on-managing-social-media-records/"
-
   - title: "How to start and sustain a federal podcast"
     summary: "Discover how to create and maintain a successful podcast at your federal agency."
     href: "https://digital.gov/resources/how-to-start-and-sustain-a-federal-podcast"
