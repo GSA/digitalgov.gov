@@ -7,9 +7,6 @@ slug: "diversity-equity-inclusion-accessibility-deia"
 # Archive - see Trello board
 expirydate: "2023-11-20"
 
-# Redirects: enter the URL of the page that you want to redirect this page to
-redirectto: https://digital.gov/topics/diversity-equity-and-inclusion/
-
 # Topic Title
 title: "DEIA"
 deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility (DEIA) into digital experiences."
