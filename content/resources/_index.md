@@ -157,5 +157,5 @@ aliases:
 - [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 KB, 92 pages, June 2004)
     - [ICGI Report Attachments]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 KB, 7 pages, June 2004)
     - [ICGI Summary and Background]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 KB, 6 pages, June 2004)
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
+- [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience) 
 - [Style Guides by Government Agencies]({{< ref "style-guides-by-government-agencies.md" >}})
