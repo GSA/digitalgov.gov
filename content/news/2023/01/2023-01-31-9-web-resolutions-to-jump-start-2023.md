@@ -66,7 +66,7 @@ Have you checked out the [USWDS maturity model](https://designsystem.digital.gov
 
 How is your metrics and analytics program? Are you focused on upgrading to a new version of your analytics service and making more of the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP)? What insights can you take from your data to drive your next steps in improving your site? Who or what might these insights influence?
 
-DAP is [required](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/) on all public-facing federal websites by [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
+DAP is [required](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/) on all public-facing federal websites by [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/delivering-digital-first-public-experience).
 
 ## Resolution 8. Storytelling and communications
 
