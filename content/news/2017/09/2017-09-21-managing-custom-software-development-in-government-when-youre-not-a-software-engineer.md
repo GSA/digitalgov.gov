@@ -20,6 +20,8 @@ featured_image:
   uid: featured-18f-new-logo-black-bg
   alt: '18F logo'
 
+primary_image: "software-developer-augemented-reality-screen-nicoelnino-istock-gettyimages-844536006"
+
 ---
 
 > _This post was originally published on the [18F blog](https://18f.gsa.gov/2017/09/20/managing-custom-software-development-in-government-when-youre-not-a-software-engineer/). It is the first in a series that will share effective and efficient ways to manage software development, even if one doesn’t have a background in software engineering._
@@ -30,7 +32,7 @@ Running a program in government is already tough; taking on software development
 
 This post is part of a series that will introduce you to the things you need to think about to manage software development effectively, even if you don’t have a background in software engineering. Future posts will cover issues such as: how to convince your peers in government to use agile methods; getting through the security and assessment process with your product; battling procurement constraints; melding agile with other government processes; and building a high-functioning development team.
 
-{{< img src="Coding-with-software-developer-touching-AR-screen-icons-agile-debug-NicoElaNino-iStock-Thinkstock-844536006" alt="A developer touches an augmented reality screen of tech icons." caption="NicoElaNino/iStock/Thinkstock" >}}
+{{< img src="software-developer-augemented-reality-screen-nicoelnino-istock-gettyimages-844536006" >}}
 
 You might think to yourself, “My job is policy, not software. I can outsource this technology stuff.” Or, “I don’t need to spend a lot of time and attention on developing a great software product to enable my mission.” Every failed project I’ve seen has started with such attitudes. Focusing your attention on building a great product lets the software get out of the way of your team’s work.
 
