@@ -52,6 +52,21 @@ $communities-of-practice: (
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 
+  // Separate home and community page styles.
+  // @TODO: Create a variant to separate component with icons vs without.
+  .home & {
+    text-align: center;
+  }
+
+  .communities & {
+    .usa-card__media {
+      align-items: start;
+      padding-left: units(3);
+      padding-right: units(3);
+      padding-top: units(4);
+    }
+  }
+
   @include at-media("tablet") {
     grid-template-columns: repeat(3, 1fr);
   }
