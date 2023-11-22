@@ -10,9 +10,9 @@ aliases:
   - /guide/dap/add-your-site-dap/
 ---
 
-**DAP is required:** On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
+**DAP is required:** On September 22, 2023, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
 
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-policy src="https://digital.gov/resources/delivering-digital-first-public-experience" kicker="Policy" title="**OMB M-23-22**: Delivering a Digital-First Public Experience" >}}
 
 **2. Use Analytics and User Feedback to Manage Websites and Digital Services**
 
