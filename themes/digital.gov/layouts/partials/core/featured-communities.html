@@ -19,14 +19,14 @@
 {{ $dg_communities = union $featured_community $dg_communities }}
 
 
-<header class="page-head">
+<div class="page-head">
   {{ with $page_header }}
     <h1>{{- .Title | markdownify -}}</h1>
     {{- if .Params.deck -}}
       <div class="deck">{{- .Params.deck | markdownify -}}</div>
     {{- end -}}
   {{ end }}
-</header>
+</div>
 
 <div class="dg-featured-communities">
   {{ range $dg_communities }}
