@@ -38,6 +38,7 @@ preserveTaxonomyNames: true
 
 taxonomies:
   topic: "topics"
+  og_image: "topics-og-primary-image"
   author: "authors"
 
 outputs:
@@ -154,5 +155,5 @@ menu:
       Weight: 2
     - Name: "Contact Us"
       Identifier: "contact"
-      URL: "/about/contact/"  
+      URL: "/about/contact/"
       Weight: 3
