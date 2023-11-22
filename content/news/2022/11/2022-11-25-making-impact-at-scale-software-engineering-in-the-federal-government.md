@@ -18,9 +18,12 @@ topics:
   - tts
   - 10x
   - devops
+  - software-engineering
   - usagov
+
 slug: making-impact-at-scale-software-engineering-in-the-federal-government
 primary_image: usdc-making-impact-at-scale
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

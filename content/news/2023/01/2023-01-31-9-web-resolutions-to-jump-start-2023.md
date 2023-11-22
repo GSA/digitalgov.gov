@@ -10,6 +10,8 @@ topics:
   - accessibility
   - analytics
   - customer-service
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - tori-garten

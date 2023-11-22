@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/go-live-checklist-for-federal-websites-and-digital-services-nov2023.xlsx
+  # File shortcode: {{< asset-static file="go-live-checklist-for-federal-websites-and-digital-services-nov2023.xlsx" label="go-live-checklist-for-federal-websites-and-digital-services-nov2023 (PDF, 4 pages, 2MB)">}}
+  date     :  2023-11-17 19:56:52 -0400
+  uid      :  go-live-checklist-for-federal-websites-and-digital-services-nov2023
+  format   :  xlsx
+  

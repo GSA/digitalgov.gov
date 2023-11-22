@@ -8,8 +8,6 @@ authors:
 topics:
   - social-media
   - Census
-  - Defense Commissary Agency
-  - Defense Logistics Agency
   - department-of-commerce
   - dhs
   - DOL
@@ -23,22 +21,17 @@ topics:
   - Firstnet
   - FWS
   - gsa
-  - International Trade Administration
-  - ITA
   - Library of Congress
   - LOC
   - nasa
   - National Defense University
   - national-institutes-of-health
   - National Library of Medicine
-  - Navy Army Community Credit Union
-  - NDU
   - nih
   - NLM
   - NPS
   - ODNI
   - Office of Management and Budget
-  - Office of the Director of National Intelligence
   - OMB
   - open-government
   - OSTP
@@ -51,7 +44,6 @@ topics:
   - us-department-of-state
   - us-environmental-protection-agency
   - us-food-and-drug-administration
-  - US Global Change Research Program
   - us-national-park-service
   - us-small-business-administration
   - united-states-army

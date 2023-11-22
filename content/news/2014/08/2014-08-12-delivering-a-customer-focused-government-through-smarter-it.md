@@ -12,8 +12,7 @@ topics:
   - data
   - mobile
   - 18f
-  - cx
-  - Digital Services Playbook
+  - customer-experience
   - us-digital-service
   - USDS
 ---

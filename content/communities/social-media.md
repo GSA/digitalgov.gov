@@ -36,7 +36,7 @@ community_list:
     subscribe_email: "sm-cop-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Social Media Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 1,332
+    members: 1,386
     join_cop_button: "Social Media community members"
     
 kicker: "Join the Social Media Community"
@@ -58,7 +58,6 @@ The CoP includes social media communicators of all specialties and experience le
 ## Related Resources
 
 - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)
-- [U.S. Public Participation Playbook](https://participation.usa.gov)
+- [U.S. Public Participation Playbook](https://digital.gov/guides/public-participation/)
 - [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit](https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/)
-- [Federal Social Media Analytics Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
 - [Federal Social Media Accessibility Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)

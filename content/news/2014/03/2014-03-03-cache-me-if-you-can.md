@@ -9,7 +9,7 @@ topics:
   - content
   - data
   - our-work
-  - cx
+  - customer-experience
   - search
   - GitHub
 ---

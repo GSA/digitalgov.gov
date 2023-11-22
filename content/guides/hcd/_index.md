@@ -16,7 +16,7 @@ topics:
   - user-research
   - web-content-managers-forum
   - user-experience-community-of-practice
-  - cx
+  - customer-experience
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

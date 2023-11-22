@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - aoi
-  - cx
+  - customer-experience
   - customer-satisfaction
   - Government Contact Center Council
   - government-contact-centers

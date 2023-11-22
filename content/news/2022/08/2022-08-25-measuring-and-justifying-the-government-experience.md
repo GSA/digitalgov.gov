@@ -20,7 +20,6 @@ summary: "Private sector organizations use revenue as the primary measurement to
   users, and saving time for employees."
 # See all topics at https://digital.gov/topics
 topics:
-  - onrr
   - doi
   - policy
   - governance
@@ -28,12 +27,12 @@ topics:
   - data
   - 21st-century-idea
   - open
-  - cx
+  - customer-experience
   - accessibility
   - analytics
   - research
   - user-research
-  - foia
+  - open-government
   - section-508
   - design
 slug: measuring-and-justifying-the-government-experience

@@ -13,7 +13,7 @@ end_date: 2022-09-28 15:00:00 -0500
 topics:
   - content
   - user-experience
-  - cx
+  - customer-experience
   - user-testing-and-research
 # See all authors at https://digital.gov/authors
 authors:

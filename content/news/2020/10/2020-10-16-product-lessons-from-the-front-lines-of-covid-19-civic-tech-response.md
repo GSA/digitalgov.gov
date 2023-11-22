@@ -9,7 +9,7 @@ topics:
   - product-management
   - user-research
   - presidential-innovation-fellows
-  - public-safety
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

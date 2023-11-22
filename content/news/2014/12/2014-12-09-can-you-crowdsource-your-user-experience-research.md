@@ -14,7 +14,6 @@ topics:
   - crowdsourcing
   - data-gov
   - Federal CrowdSource Mobile Testing Program
-  - National Renewable Energy Laboratory
   - NREL
   - usability
   - usability-case-study

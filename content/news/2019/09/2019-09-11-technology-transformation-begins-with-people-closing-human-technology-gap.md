@@ -13,7 +13,6 @@ categories:
   - strategy-and-policy
 tag:
   - customer-experience
-  - cx
   - professional-development
 featured_image:
   uid: pif-people-transformation-1

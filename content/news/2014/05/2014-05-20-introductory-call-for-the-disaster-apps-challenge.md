@@ -9,7 +9,6 @@ topics:
   - challenges
   - challenges-and-prize-competitions
   - National Defense University
-  - NDU
   - open-source
 ---
 

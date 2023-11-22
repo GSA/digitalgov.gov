@@ -14,7 +14,7 @@ end_date: 2021-07-14 15:30:00 -0500
 topics:
   - content
   - content-strategy
-  - cx
+  - customer-experience
   - plain-language-community-of-practice
   - plain-language
   - writing

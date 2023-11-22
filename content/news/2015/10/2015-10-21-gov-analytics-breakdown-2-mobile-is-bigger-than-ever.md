@@ -10,7 +10,7 @@ topics:
   - metrics
   - mobile
   - analytics
-  - cx
+  - customer-experience
   - dap
   - data
   - digital-analytics-program

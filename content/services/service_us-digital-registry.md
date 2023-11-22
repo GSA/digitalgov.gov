@@ -35,6 +35,9 @@ topics:
   - mobile
   - product-management
   - us-digital-registry
+  - native-app
+  - native-apps
+  - mobile-apps
 
 aliases:
   - /services/social-media-registry/

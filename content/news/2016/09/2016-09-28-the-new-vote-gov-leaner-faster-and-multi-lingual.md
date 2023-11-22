@@ -17,8 +17,7 @@ topics:
   - cloud-gov
   - content
   - content-strategy
-  - cx
-  - cx
+  - customer-experience
   - draft-web-design-standards
   - gsa
   - metrics

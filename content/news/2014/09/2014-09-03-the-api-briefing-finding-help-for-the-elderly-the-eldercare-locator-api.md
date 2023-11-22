@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - administration-on-aging
   - api
   - HHS
   - OPM

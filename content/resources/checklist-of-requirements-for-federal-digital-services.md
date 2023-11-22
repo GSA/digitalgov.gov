@@ -25,7 +25,7 @@ You should regularly review your agency's websites and other digital products an
 
 ## Overarching policies
 
-These high-level policies cover basic requirements for all websites and digital services. Use this handy {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 69 KB, 14 tabs)" >}} to ensure you've addressed all critical requirements.
+These high-level policies cover basic requirements for all websites and digital services. Use this {{< asset-static file="go-live-checklist-for-federal-websites-and-digital-services-nov2023.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 59.4KB, 13 tabs)" >}} to ensure you've addressed all critical requirements. If you have difficulty viewing this file, please [reach out to us](https://digital.gov/about/contact/).
 
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 - [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience) 
@@ -70,7 +70,6 @@ Understand customer needs, set performance standards, collect and address custom
 - [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
     - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government.
 
-
 <p class="more">
   <a href="{{< ref "/topics/metrics" >}}">More on Metrics
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -102,10 +101,10 @@ Understand the needs of your customers, collect and address customer feedback, a
 - [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
 - [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 - See all [Government Customer Service Policies and Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
-- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
+- [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (PDF, 196 kb, 4 pages)
 
 <p class="more">
-  <a href="{{< ref "/topics/cx" >}}">More on Customer Experience
+  <a href="{{< ref "/topics/customer-experience" >}}">More on Customer Experience
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
@@ -239,9 +238,9 @@ Publish information in ways that make it easy to find, access, share, distribute
 
 - [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
 - [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)
-- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
-- [OMB M-10-06, Open Government Directive](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf) (December 2009)
-- [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
+- [OMB M-13-13 Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013)
+- [OMB M-10-06, Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) (December 2009)
+- [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-11.pdf) (PDF, 92.5 kb, 12 pages, March 2010)
 - [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
 ## Paperwork reduction
@@ -250,7 +249,7 @@ Information you collect from the public should minimize burden and maximize publ
 
 - [Paperwork Reduction Act (44 U.S.C. 3501 et seq.)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm)
 - [Federal Collection of Information](https://obamawhitehouse.archives.gov/omb/inforeg_infocoll/)
-- [OMB M-11-26, Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (PDF, 196 kb, 4 pages, June 2011)
+- [OMB M-11-26, New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf) (PDF, 196 kb, 4 pages, June 2011)
 - [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act](http://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 kb, 7 pages, April 2010)
 - [Government Paperwork Elimination Act (GPEA)](http://obamawhitehouse.archives.gov/omb/fedreg_gpea2/) (1998)
 - [Small Business Paperwork Relief Act of 2002](https://www.gpo.gov/fdsys/pkg/STATUTE-116/pdf/STATUTE-116-Pg729.pdf) (PDF, 49 kb, 5 pages, June 2002)
@@ -268,7 +267,7 @@ Federal executive branch agencies are required to write all new or significantly
 - [OMB Memo on Testing and Simplifying Federal Forms](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf) (PDF, 94 kb, 2 pages, August 2012)
 - [Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) (PDF, 153 kb, 3 pages, January 2010)
 - [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
-- [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
+- [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 kb, 6 pages, April 2011)
 
 ## Privacy and identity management
 
@@ -295,7 +294,7 @@ Work with your agency Records Officer and follow NARA guidance to establish and 
 
 - [OMB M-19-21: Transition of Electronic Records (PDF, 239 KB, 4 pages)](https://www.whitehouse.gov/wp-content/uploads/2019/08/M-19-21-new-2.pdf) (June 28, 2019)
     - [OMB M-23-07: Update to Transition to Electronic Records (PDF, 325 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022)
-- [Code of Federal Regulations (CFR), Parts 1220-1238](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=194bdc93344a881d5119af1e8f66a2a9&rgn=div5&view=text&node=36:3.0.10.2.10&idno=36)
+- [Code of Federal Regulations (CFR), Parts 1220-1238](https://www.ecfr.gov/current/title-36/chapter-XII/subchapter-B/part-1220)
 - [NARA guidance for implementing Section 207(e) of the E-Gov Act](https://www.archives.gov/records-mgmt/bulletins/2010/2010-02.html)
 - [NARA guidance on managing Web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
 - [NARA guidance on managing social media records](https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html)

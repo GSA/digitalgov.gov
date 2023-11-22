@@ -12,7 +12,7 @@ end_date: 2022-07-13 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - content
-  - cx
+  - customer-experience
   - plain-language
   - plain-language-community-of-practice
   - usability

@@ -15,7 +15,7 @@ summary: Today, the Office of Management and Budget (OMB) released its latest
   where we are with this PMA priority.
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
 slug: quarterly-pma-updates-lead-the-way-for-improved-service-delivery-and-trust-building
 # Controls how this page appears across the site
 # 0 -- hidden

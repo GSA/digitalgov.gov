@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/accessibility-section-508
+# View this page at https://digital.gov/communities/it-accessibility-section-508
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: it-accessibility-section-508

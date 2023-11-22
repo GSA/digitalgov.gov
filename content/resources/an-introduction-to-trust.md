@@ -11,6 +11,7 @@ topics:
   - content-strategy
   - governance
   - plain-language
+  - digital-service-delivery
 
 # Controls how this page appears across the site
 # 0 -- hidden

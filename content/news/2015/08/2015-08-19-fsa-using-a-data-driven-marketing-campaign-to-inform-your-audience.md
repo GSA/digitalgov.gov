@@ -10,7 +10,6 @@ topics:
   - FAFSA
   - federal-student-aid
   - us-department-of-education
-  - YouTube
 ---
 
 {{< legacy-img src="2015/08/600-x-337-Matt-and-Mike-Awkward-Restaurant-Moment-video-FSA-FAFSA-Using-a-Data-Driven-Marketing-Campaign-to-Inform-Your-Audience.jpg" alt="Video screenshot from Matt and Mike ad for Awkward Restaurant Moment" >}}

@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
   - Office of Management and Budget

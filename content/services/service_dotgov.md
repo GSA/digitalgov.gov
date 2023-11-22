@@ -28,9 +28,10 @@ weight: 2
 # Topics that best describe this product or service
 topics:
   - design
+  - domain-management
+  - social-media
   - code
   - strategy
   - product-management
-  - gsa
 
 ---

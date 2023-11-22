@@ -8,7 +8,7 @@ summary: Explore key metrics to optimize your agency's intranet to foster improv
 topics:
   - metrics
   - performance
-  - cx
+  - customer-experience
   - strategy
 # See all authors at https://digital.gov/authors
 authors:

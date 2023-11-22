@@ -7,7 +7,7 @@ authors:
   - jparcell
   - apiazza
 topics:
-  - cx
+  - customer-experience
   - our-work
   - digitalgov-summit
   - Ex-Im Bank

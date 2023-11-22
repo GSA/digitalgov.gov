@@ -16,9 +16,9 @@ topics:
   - cloud
   - cloud-gov
   - data
-  - data-act
+  - budgeting-and-performance
   - login-gov
-  - digital-accountability-and-transparency-act
+  - budgeting-and-performance
   - FAS
   - Federal Acquisition Service
   - fedramp
@@ -26,8 +26,6 @@ topics:
   - OCSIT
   - office-of-citizen-services-and-innovative-technology
   - office-of-products-and-programs
-  - summit
-  - technology-industry-day
   - tts
 
 ---

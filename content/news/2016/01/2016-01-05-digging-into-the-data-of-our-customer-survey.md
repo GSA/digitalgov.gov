@@ -2,22 +2,25 @@
 slug: digging-into-the-data-of-our-customer-survey
 date: 2016-01-05 9:00:06 -0400
 title: Digging Into the Data of Our Customer Survey
-summary: 'As a followup to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services. Background: For the past three years, GSA’s Office of Citizen'
+summary: 'As a follow-up to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results to give you some more insights into how we’re using your feedback to improve our programs and services.'
+
 authors:
   - rflagg
+
 topics:
   - our-work
   - challenges-and-prize-competitions
-  - cx
-  - ecpic
+  - customer-experience
+  - budgeting-and-performance
   - mobile-gov
   - open-opportunities-program
   - socialgov
   - user-experience
   - web-content-managers-forum
+
 ---
 
-As a followup to the [recent post about our annual customer satisfaction survey]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services.
+As a follow-up to the [recent post about our annual customer satisfaction survey]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results to give you some more insights into how we’re using your feedback to improve our programs and services.
 
 {{< legacy-img src="2015/05/600-x-362-Satisfied-Customer-Concept-olm26250-iStock-Thinkstock-454049039.jpg" alt="The question, Are you satisfied? appears on a console above 3 rating buttons; 1 star to indicate not satisfied, 2 stars to indicate somewhat satisfied, and 3 stars, which has been selected, to indicate very satisfied." caption="olm26250, iStock, Thinkstock" >}} 
 
@@ -136,38 +139,38 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
 
 ### Ease of Use
 
-  * We added an “Ease of Use” question to the 2015 survey, to gauge whether customers find our products customer-friendly.
-  * We learned that customers found some of our more technical programs hard to use, so we’ve responded by offering additional training, office hours and one-on-one consultations with agencies.
+* We added an “Ease of Use” question to the 2015 survey, to gauge whether customers find our products customer-friendly.
+* We learned that customers found some of our more technical programs hard to use, so we’ve responded by offering additional training, office hours and one-on-one consultations with agencies.
 
 ### Satisfaction
 
-  * The percentage of programs rated “Very Good” (38%) far outpaced the 2015 Forrester Customer Experience Index industry rankings (1%).
-  * Eleven out of 18 programs received an Overall Satisfaction rating of 4 or 5 (“Satisfied” or “Very Satisfied”), including: 
-      * Challenges & Prizes
-      * DigitalGov University
-      * G3C
-      * Mobile Gov
-      * Open Opportunities
-      * Publications
-      * SocialGov
-      * USA Contact (Contact Center Contract Vehicle)
-      * USA.gov Contact Center Services
-      * User Experience
-      * Web Content Managers Forum
+* The percentage of programs rated “Very Good” (38%) far outpaced the 2015 Forrester Customer Experience Index industry rankings (1%).
+* Eleven out of 18 programs received an Overall Satisfaction rating of 4 or 5 (“Satisfied” or “Very Satisfied”), including: 
+   * Challenges & Prizes
+   * DigitalGov University
+   * G3C
+   * Mobile Gov
+   * Open Opportunities
+   * Publications
+   * SocialGov
+   * USA Contact (Contact Center Contract Vehicle)
+   * USA.gov Contact Center Services
+   * User Experience
+   * Web Content Managers Forum
 
 ### Participation
 
-  * We received a larger number of responses in 2015 than any prior year, with an overall response rate of 7.3%. However, several programs received much greater participation: 
-      * Contact Center programs—100% participation
-      * eCPIC program—54% participation
-      * Citizen Outreach and Engagement program—50% participation
+* We received a larger number of responses in 2015 than any prior year, with an overall response rate of 7.3%. However, several programs received much greater participation: 
+   * Contact Center programs—100% participation
+   * eCPIC program—54% participation
+   * Citizen Outreach and Engagement program—50% participation
 
 ### Overall Ratings
 
-  * The Publications program received a perfect score of 100.
-  * The Government Contact Center Council Community of Practice (G3C) and Publication Distribution programs have maintained “Very Good” ratings three years running, as have DigitalGov University, the User Experience Community of Practice, the SocialGov Community of Practice and the Web Content Managers Forum (which were rated collectively in 2013).
-  * The Challenges & Prizes program has seen an 18% increase in their overall rating since 2013.
+* The Publications program received a perfect score of 100.
+* The Government Contact Center Council Community of Practice (G3C) and Publication Distribution programs have maintained “Very Good” ratings three years running, as have DigitalGov University, the User Experience Community of Practice, the SocialGov Community of Practice and the Web Content Managers Forum (which were rated collectively in 2013).
+* The Challenges & Prizes program has seen an 18% increase in their overall rating since 2013.
 
 We’re just starting work on this year’s GCXi, and have plans to streamline and simplify the process, to make it easier for you to provide your feedback. When you see a request from our team to take the survey, please share your thoughts. We take your comments to heart.
 
-_Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!_
+_Interested in more great content like this? Sign up for our [DigitalGov newsletter](https://digital.gov/about/subscribe/)!_

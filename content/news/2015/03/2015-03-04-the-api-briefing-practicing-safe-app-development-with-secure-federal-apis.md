@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - api
-  - api-keys
+  - application-programming-interface
   - security
   - US Department of Agriculture
   - USDA

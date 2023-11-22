@@ -13,7 +13,7 @@ aliases:
   - /hawaii-wildfires/
 
 # Archive - see Trello board
-# expirydate: "YYYY-MM-DD"
+expirydate: "2023-11-13"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

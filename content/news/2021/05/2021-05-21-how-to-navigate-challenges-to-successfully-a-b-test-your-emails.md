@@ -7,7 +7,7 @@ summary: "The article will go over some best practices of implementing A/B
 # See all topics at https://digital.gov/topics
 topics:
   - a-b-testing
-  - cx
+  - customer-experience
   - design
   - usability
   - user-research

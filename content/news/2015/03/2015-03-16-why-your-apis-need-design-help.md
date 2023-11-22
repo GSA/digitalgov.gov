@@ -10,7 +10,7 @@ topics:
   - code
   - monthly-theme
   - api
-  - api-keys
+  - application-programming-interface
   - CFPB
   - Consumer Financial Protection Bureau
   - fda

@@ -9,9 +9,7 @@ topics:
   - content
   - content-syndication
   - HHS
-  - National Institute of Heart Lung and Blood Diseases
   - national-institutes-of-health
-  - NHLBI
   - nih
   - united-states-department-of-health-and-human-services
 ---

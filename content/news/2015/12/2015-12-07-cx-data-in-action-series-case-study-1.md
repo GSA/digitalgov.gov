@@ -2,14 +2,15 @@
 slug: cx-data-in-action-series-case-study-1
 date: 2015-12-07 11:10:18 -0400
 title: 'CX Data in Action Series: Case Study #1'
-summary: 'It’s not new that agencies are inundated with data, but what data should you collect to improve your agency’s programs and enhance the customer experience? The Department of Labor’s Employee Benefit Security Administration’s (EBSA) has been perfecting their process to collect actionable data for the past 14 years. EBSA is a regulatory agency that develops'
+summary: 'It’s not new that agencies are inundated with data, but what data should you collect to improve your agency’s programs and enhance the customer experience? The Department of Labor’s Employee Benefit Security Administration’s (EBSA) has been perfecting their process to collect actionable data for the past 14 years.'
+
 authors:
   - jacqueline-snee
   - rflagg
+
 topics:
   - product-management
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
   - DOL
   - recaps
 
@@ -37,16 +38,16 @@ EBSA runs an ongoing customer satisfaction survey for their Benefits Advisors pr
 
 ### How the Questionnaire Works
 
-  * Conducted by telephone (over 90% of inquiries come in by phone)
-  * Timely delivery (within 2 weeks of closing the inquiry)
-  * 33 questions (one open-ended)
-  * 1-5 rating scale
-  * Survey measures: 
-      * Overall satisfaction
-      * Customer engagement (proprietary)
-      * Performance attributes
-  * Select participants at random
-  * Timing is key &#8211; schedule immediately so respondents remember the interaction
+* Conducted by telephone (over 90% of inquiries come in by phone)
+* Timely delivery (within 2 weeks of closing the inquiry)
+* 33 questions (one open-ended)
+* 1-5 rating scale
+* Survey measures: 
+   * Overall satisfaction
+   * Customer engagement (proprietary)
+   * Performance attributes
+* Select participants at random
+* Timing is key &#8211; schedule immediately so respondents remember the interaction
 
 {{< legacy-img src="2015/11/600-x-400-Customer-Survey-Chad-McDermott-iStock-Thinkstock-105094436.jpg" alt="A customer survey" caption="Chad McDermott, iStock, Thinkstock" >}} 
 
@@ -79,6 +80,4 @@ EBSA runs an ongoing customer satisfaction survey for their Benefits Advisors pr
 
 Watch the webinar to hear Terri’s full presentation.
 
-{{< youtube fI6o7hxSJQw >}}
-
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) (U.S. government (.gov, .mil, etc.) email address required), [visiting the Community page]({{< ref "customer-experience.md" >}}), and [viewing our playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) of on-demand training videos.
+Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://digital.gov/communities/customer-experience/) (U.S. government (.gov, .mil, etc.) email address required), [visiting the Community page](https://digital.gov/communities/customer-experience/), and [viewing our playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) of on-demand training videos.

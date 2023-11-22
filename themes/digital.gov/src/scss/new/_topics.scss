@@ -1,0 +1,30 @@
+@use "uswds-core" as *;
+
+.dg-topic {
+  &__header-title {
+    font-weight: 800;
+
+    &--collection {
+      font-weight: 900;
+    }
+  }
+
+  &__deck {
+    @include u-font("sans", "lg");
+    font-weight: 200;
+
+    @include at-media("desktop") {
+      @include u-font("sans", "xl");
+    }
+  }
+
+  &__featured {
+    .dg-featured-resource {
+      max-width: none;
+    }
+
+    .dg-featured-resource__body {
+      margin: units(3) 0;
+    }
+  }
+}

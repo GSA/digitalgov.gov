@@ -17,7 +17,7 @@ source: pra-guide
 
 # see all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - pra
   - policy
   - research

@@ -2,9 +2,11 @@
 slug: the-data-briefing-innovating-processes-the-lean-and-agile-way
 date: 2016-06-29 11:00:41 -0400
 title: 'The Data Briefing: Innovating Processes the Lean and Agile Way'
-summary: Business processes have fascinated me since I took an undergraduate philosophy course in modern business management. A part-time professor who was a management consultant by day taught this unusual class. Perhaps business management thinking was first experimenting with ideas that would later lead to the agile and lean movement today. From this class I learned
+summary: 'In today’s world of big data, cloud computing, the Internet of Things (IoT), and the rise of smarter artificial intelligence (AI) applications, processes have become even more vital.'
+
 authors:
   - bbrantley
+
 topics:
   - data
   - product-management
@@ -17,9 +19,12 @@ topics:
   - internet-of-things
   - lean
   - the-data-briefing
+
 ---
 
-Business processes have fascinated me since I took an undergraduate philosophy course in modern business management. A part-time professor who was a management consultant by day taught this unusual class. Perhaps business management thinking was first experimenting with ideas that would later lead to the agile and lean movement today. From this class I learned that nearly all organizational issues could be traced back to bad processes rather than poor workers. Bad processes could ruin even the most effective and engaged workforce. {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
+Business processes have fascinated me since I took an undergraduate philosophy course in modern business management. A part-time professor who was a management consultant by day taught this unusual class. Perhaps business management thinking was first experimenting with ideas that would later lead to the agile and lean movement today. From this class I learned that nearly all organizational issues could be traced back to bad processes rather than poor workers. Bad processes could ruin even the most effective and engaged workforce.
+
+{{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="Rawpixel Ltd/iStock/Thinkstock" >}} 
 
 In today’s world of [big data]({{< ref "2016-06-22-the-data-briefing-nasas-new-big-data-strategy.md" >}}), [cloud computing]({{< ref "2013-10-17-cloud-computing-in-the-federal-government.md" >}}), the [Internet of Things]({{< ref "2015-11-03-trends-on-tuesday-forecasting-the-internet-of-things.md" >}}) (IoT), and the rise of smarter [artificial intelligence (AI) applications]({{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}), processes have become even more vital. Processes are how work is done. The great benefits of big data, cloud computing, IoT, and AI are realized through good processes. Conversely, bad processes can ruin the value of the above-listed innovations. However, this is not the first time that organizations realized the need to innovate processes.
 
