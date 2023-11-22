@@ -17,7 +17,7 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Memos
 
-[**M-23-22:** "Delivering a Digital-First Public Experience"](https://digital.gov/resources/delivering-digital-first-public-experience/) &mdash; This memorandum rescinds OMB's 2016 Memorandum M-17-06, "Policies for Federal Agency Public Websites and Digital Services," and supersedes any guidance provided in the 2012 Digital Government Strategy, "Digital Government: Building a 21st Century Platform to Better Serve the American People."
+[**M-23-22:** "Delivering a Digital-First Public Experience"](https://digital.gov/resources/delivering-digital-first-public-experience/) (September 22, 2023) &mdash; This memorandum rescinds OMB's 2016 Memorandum M-17-06, "Policies for Federal Agency Public Websites and Digital Services," and supersedes any guidance provided in the 2012 Digital Government Strategy, "Digital Government: Building a 21st Century Platform to Better Serve the American People."
 
 [**M-23-13:** “No TikTok on Government Devices” Implementation Guidance (288 KB, 4 pages, February 27, 2023)](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-13-No-TikTok-on-Government-Devices-Implementation-Guidance_final.pdf)
 
