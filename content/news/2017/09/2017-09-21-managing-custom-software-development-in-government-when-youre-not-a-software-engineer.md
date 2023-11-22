@@ -12,7 +12,6 @@ topics:
   - strategy
   - software-engineering
   - policy
-  - 18f
   - agile
   - project-management
   - user-centered-design
