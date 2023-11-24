@@ -10,21 +10,29 @@ cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsceupqj0pE-Dt8ojRN1yCeZHcM0jWgO8#/registration
 date: 2023-11-16 14:00:00 -0500
 end_date: 2023-11-16 15:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - diversity-equity-inclusion-accessibility-deia
+  - diversity-equity-and-inclusion
   - user-research
   - user-experience
   - customer-experience
   - content-strategy
   - product-management
+
 slug: uswds-monthly-call-november-2023
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 primary_image: 2023-uswds-monthly-call-nov-title-card
+
 ---
+
 {{< asset-static file="uswds-monthly-call-november-2023.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 63 pages)" >}}
+
+---
 
 During the [October 2023 monthly call](https://digital.gov/event/2023/10/19/uswds-monthly-call-october-2023/), the U.S. Web Design System team shared the progress we’re making on usability research with people who have disabilities.
 
