@@ -47,7 +47,7 @@ Examples of how to define and apply metadata include:
 Popular search engines also provide helpful tips on how to use structured data to mark up your content: 
 
 - [Introduction to structured data markup in Google Search](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170&topic=21997&ctx=topic) - Produce richer search results
-- [Marking up your site with structured data in Bing Webmaster Tools] (https://www.bing.com/webmasters/help/marking-up-your-site-with-structured-data-3a93e731) - Annotate structured content to stand out in search results
+- [Marking up your site with structured data in Bing Webmaster Tools](https://www.bing.com/webmasters/help/marking-up-your-site-with-structured-data-3a93e731) - Annotate structured content to stand out in search results
 
 To understand how structured data can affect search results, read this case study on [how USA.gov added SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find on search engines. 
 
