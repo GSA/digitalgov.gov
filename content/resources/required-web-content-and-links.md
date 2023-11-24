@@ -3,6 +3,7 @@ date: 2011-12-05 12:37:26 -0400
 title: "Required web content and links"
 deck: "A list of required links that all federal websites need to have."
 summary: "Various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website."
+
 authors:
   - ndavidson
   - rflagg
@@ -81,28 +82,6 @@ Secondary agency sites also need an "About" page that describes your site and li
 ##### Required by:
 
 - [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience) {{< / box >}}
-
-{{< card-policy src="https://digital.gov/resources/delivering-digital-first-public-experience" kicker="Policy" title="**OMB M-23-22**: Delivering a Digital-First Public Experience" >}}
-**16. Ensure Access to Mandatory Content**
-
-Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
-
-At a minimum, {{< highlight >}}agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site{{< /highlight >}}:
-
-- **A.** USA.gov;
-- **B.** the website’s privacy policy;
-- **C.** the agency’s Freedom of Information Act webpage;
-- {{< highlight >}}**D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:{{< /highlight >}}
-
-1. the agency’s strategic plan and annual performance plans;
-2. the agency’s Privacy Program Page;
-3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
-4. the agency’s Open Government Page;
-5. the agency’s Plain Writing Page;
-6. information as required under the No Fear Act of 2002;
-7. information associated with the agency’s implementation of the Information Quality Act.
-
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
 
 ## Accessibility Statement
 
