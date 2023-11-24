@@ -7,6 +7,7 @@ slug: delivering-digital-first-public-experience
 
 aliases:
   - /resources/21st-century-integrated-digital-experience-act/
+  - /resources/omb-m-17-06
   
 date: 2019-11-01 3:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
