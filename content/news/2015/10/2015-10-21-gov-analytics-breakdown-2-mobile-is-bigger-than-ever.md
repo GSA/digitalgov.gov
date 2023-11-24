@@ -33,7 +33,9 @@ Three things are evident when looking at the breakdown of sessions on federal go
 
 Within the last year, we saw the combined mobile and tablet percentage exceed one-third of all sessions. **A third of the time, content on DAP-participating websites is viewed via mobile or tablet**, which has significant implications for Web design, responsiveness and mobile websites.
 
-## Brands and Devices_Note: In an effort to make things simpler, the term “mobile” is used in the following paragraphs to refer to both handheld mobile devices and tablets._
+## Brands and Devices
+
+_Note: In an effort to make things simpler, the term “mobile” is used in the following paragraphs to refer to both handheld mobile devices and tablets._
 
 If we look at mobile sessions on their own (not compared to desktop), Apple devices account for almost half of the total mobile share in 2015. The iPhone (34% of mobile sessions) and the iPad (15%) combine to make Apple the most used mobile brand. That said, sessions viewed on one of the many versions of the Samsung Galaxy add up to make it the number two device, contributing about 21% of the share of total mobile sessions. As evidenced in the chart below, after that, there’s quite a dropoff. LG and Motorola represent about 8% of mobile sessions combined; HTC, Sony, Nokia and Amazon all have slightly over 1% each (not shown in chart).
 
