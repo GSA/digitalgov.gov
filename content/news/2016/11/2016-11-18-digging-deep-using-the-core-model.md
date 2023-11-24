@@ -2,32 +2,30 @@
 slug: digging-deep-using-the-core-model
 date: 2016-11-18 10:00:34 -0400
 title: Digging Deep Using the Core Model
-summary: 'Recently, OMB released M 17-06, Policies for Federal Agency Public Websites and Digital Services, which provides agencies with requirements, standards, and best practices for federal websites and digital services. This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the'
+summary: 'The core model is a thinking tool that can be used to get all different disciplines (stakeholders, developers, editors, etc.) to start thinking collaboratively. The end goal is that the group will have a common understanding of user needs, business goals, and how different pages should be connected.'
+
 authors:
   - christen-geiler
+
 topics:
   - content
   - product-management
   - strategy
   - policy
-  - content
   - content-strategy
   - core
   - metrics
-  - Office of Management and Budget
-  - OMB
   - structured-content
-  - white-house
 
 ---
 
-Recently, [OMB](https://www.whitehouse.gov/omb) released M 17-06, [Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/delivering-digital-first-public-experience), which provides agencies with [requirements, standards, and best practices for federal websites and digital services]({{< ref "/resources/_index.md" >}}). This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the following methodology might just serve as a much needed guide.
+Recently, [OMB](https://www.whitehouse.gov/omb) released M 17-06, [Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06), which provides agencies with [requirements, standards, and best practices for federal websites and digital services](https://digital.gov/resources/). This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the following methodology might just serve as a much needed guide.
 
 Recently, [we interviewed Sara Wachter-Boettcher]({{< ref "2016-10-25-expert-insight-on-content-strategy-and-structure-for-future-ready-content.md" >}}), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. She discussed the concept of using the Core Model to design and structure web content and applications. The Core Model allows an organization to design from the inside out, with the primary focus on the on the core tasks its users need to accomplish.
 
 ## Core Model Basics
 
-The [Core Model](http://www.slideshare.net/aregh/core-model-workshop) was created by information architect, Are Halland in 2007. The core model a thinking tool that can be used to get all different disciplines (stakeholders, developers, editors, etc.) to start thinking collaboratively. The end goal is that the group will have a common understanding of user needs, business goals, and how different pages should be connected.
+The [Core Model](http://www.slideshare.net/aregh/core-model-workshop) was created by information architect, Are Halland in 2007. The core model is a thinking tool that can be used to get all different disciplines (stakeholders, developers, editors, etc.) to start thinking collaboratively. The end goal is that the group will have a common understanding of user needs, business goals, and how different pages should be connected.
 
 ## Getting Started
 
