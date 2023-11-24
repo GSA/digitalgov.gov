@@ -74,7 +74,7 @@ Understand customer needs, set performance standards, collect and address custom
 - [Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/download/attachments/636161243/8_2_DGS_Implementation_Instructions_v_final.docx?version=1&modificationDate=1350935840136)</a> (OMB guidance accessible to federal employees on the OMB MAX wiki)
 - [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
 - [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
-    - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government.
+   - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government.
 
 <p class="more">
   <a href="{{< ref "/topics/metrics" >}}">More on Metrics
@@ -299,7 +299,7 @@ Comply with existing laws that prohibit federal public websites from being used 
 Work with your agency Records Officer and follow NARA guidance to establish and maintain inventories, priorities, and records schedules, and regularly delete or archive content that is obsolete and is not required by law or regulation. Create content inventories which identify categories of information (e.g., press releases or publications), not specific documents. Post inventories, priorities, and schedules for posting additional content on the website for comment.
 
 - [OMB M-19-21: Transition of Electronic Records (PDF, 239 KB, 4 pages)](https://www.whitehouse.gov/wp-content/uploads/2019/08/M-19-21-new-2.pdf) (June 28, 2019)
-    - [OMB M-23-07: Update to Transition to Electronic Records (PDF, 325 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022)
+   - [OMB M-23-07: Update to Transition to Electronic Records (PDF, 325 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022)
 - [Code of Federal Regulations (CFR), Parts 1220-1238](https://www.ecfr.gov/current/title-36/chapter-XII/subchapter-B/part-1220)
 - [NARA guidance for implementing Section 207(e) of the E-Gov Act](https://www.archives.gov/records-mgmt/bulletins/2010/2010-02.html)
 - [NARA guidance on managing Web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
