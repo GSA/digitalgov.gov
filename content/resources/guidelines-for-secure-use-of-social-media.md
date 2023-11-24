@@ -7,6 +7,7 @@ summary: "Guidelines and recommendations for using social media technologies in 
 topics:
   - social-media
   - policy
+
 authors:
   - andreanocesigritz
 
@@ -20,7 +21,7 @@ The use of social media for federal services and interactions is growing tremend
 
 - [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements (PDF, 1.1 MB, 17 pages, April 2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf)
 - [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo) (PDF, 83 KB, 7 pages, April 2010)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)
-- [Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
+- [OMB Memo M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
 
 ---
 
