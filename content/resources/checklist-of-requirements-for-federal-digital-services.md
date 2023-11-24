@@ -70,7 +70,6 @@ Understand customer needs, set performance standards, collect and address custom
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
     - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
-
 <p class="more">
   <a href="{{< ref "/topics/metrics" >}}">More on Metrics
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
