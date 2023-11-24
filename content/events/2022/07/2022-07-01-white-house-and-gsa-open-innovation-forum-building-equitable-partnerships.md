@@ -43,6 +43,8 @@ primary_image: white-house-gsa-open-innovation-forum-title-card
 
 {{< asset-static file="ostp-gsa-open-innovation-forum-building-equitable-partnerships.pptx" label="View the slides (PowerPoint presentation, 11 MB, 18 pages)" >}}
 
+---
+
 *This event is co-hosted by the Open Innovation Program within the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions) (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP), in partnership with Digital.gov.*
 
 Join General Services Administration Administrator Robin Carnahan, Head of White House Office of Science and Technology Policy Dr. Alondra Nelson, and federal citizen science and prize competition and challenge practitioners to celebrate public engagement, the role of community-led partnerships, and equitable forms of participation in innovation and scientific discovery.
