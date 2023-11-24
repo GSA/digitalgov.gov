@@ -13,7 +13,7 @@ end_date: 2023-11-16 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - diversity-equity-inclusion-accessibility-deia
+  - diversity-equity-and-inclusion
   - user-research
   - user-experience
   - customer-experience
