@@ -2,22 +2,28 @@
 date: 2023-11-24 14:50:00 -0500
 title: An introduction to analytics
 deck: Use metrics and data to understand how people use your website
-summary: Learn how to set performance goals, and identify specific KPIs and
-  targets to measure and meet them, using web analytics.
+summary: Learn how to set performance goals, and identify specific KPIs and targets to measure and meet them, using web analytics.
+
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
   - digital-service-delivery
   - budgeting-and-performance
+
 # See all authors at https://digital.gov/authors
-authors: []
+authors:
+  - rflagg
+
 slug: an-introduction-to-analytics
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 ## What are web analytics?
 
 Web analytics are the collection, analysis, and reporting of website metrics and data.
@@ -57,17 +63,17 @@ Don’t focus on traffic alone. More visits, more pageviews or low bounce rates 
 
 ## What can I do next?
 
-It’s a good idea to understand what your agency’s top-visited websites and webpages are. You may need to report your top sites and pages periodically. But more importantly, this data can help you prioritize how you improve the user experience on the sites you manage. 
+It’s a good idea to understand what your agency’s top-visited websites and webpages are. You may need to report your top sites and pages periodically. But more importantly, this data can help you prioritize how you improve the user experience on the sites you manage.
 
-The Digital Analytics Program (DAP) at GSA provides this reporting at no cost to federal agencies. [Add your site to DAP](https://digital.gov/guides/dap/add-your-site-dap/) and then follow the steps below to get access to your agency’s top website data. 
+The Digital Analytics Program (DAP) at GSA provides this reporting at no cost to federal agencies. [Add your site to DAP](https://digital.gov/guides/dap/add-your-site-dap/) and then follow the steps below to get access to your agency’s top website data.
 
-1. [Install DAP](https://digital.gov/guides/dap/add-your-site-dap/). Make sure to install the code at least 30 days ahead of when you will need the report. 
+1. [Install DAP](https://digital.gov/guides/dap/add-your-site-dap/). Make sure to install the code at least 30 days ahead of when you will need the report.
 2. With DAP installed, go to [analytics.usa.gov](https://analytics.usa.gov/).
 3. Select your agency from the dropdown.
 4. Select '30 Days' under the Top Web Pages and App Screens section.
 5. Select "Download the full dataset."
-6. Open the .CSV file and analyze the dataset in a spreadsheet.
+6. Open the .csv file and analyze the dataset in a spreadsheet.
 
-You can also review more detailed data (such as the top webpages) in Google Analytics at [analytics.google.com](https://analytics.google.com). 
+You can also review more detailed data (such as the top webpages) in Google Analytics at [analytics.google.com](https://analytics.google.com).
 
 **If you have any questions, please email the DAP team at [dap@gsa.gov](mailto:dap@gsa.gov).**
