@@ -15,6 +15,7 @@ end_date: 2022-05-03 12:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
+  - diversity-equity-and-inclusion
   - acquisition
   - us-access-board
   - product-management
