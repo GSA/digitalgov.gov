@@ -1,7 +1,7 @@
 ---
 slug: gov-domain-registration-process-final-rule
 date: 2015-12-01 9:17:58 -0400
-title: GOV Domain Registration Process Final Rule
+title: "GOV Domain Registration Process Final Rule"
 summary: "This final rule provided a new policy for the .GOV domain that will be included in the Federal Management Regulation."
 
 topics:
