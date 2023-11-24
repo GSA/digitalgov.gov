@@ -38,11 +38,11 @@ Follow the framework below to create objectives and calls to action, and identif
 
 | Measurement                       | Definition                                                                       | Example                                                                                                                                        |
 | --------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Goals                             | Explains the purpose of your website and what it’s supposed to accomplish        | \- Educate the public about safe handling of food.                                                                                             |
-| Objectives                        | Defines how you will achieve your goals                                          | \- Reach online users looking for information on food safety and convert them into site visitors.                                              |
-| Calls to action (CTA)             | Tasks that visitors must complete as part of your website's goals and objectives | \- Online users come to the website because it was listed on search engines as a credible source for food safety content.                      |
-| Key performance indicators (KPIs) | Metrics that measure each CTA                                                    | \- Website’s search clickthrough rate for keywords related to food safety. \- Search visits to the website for keywords related to food safety. |
-| Targets                           | Thresholds that determine whether you’re meeting your KPIs                       | \- Search clickthrough rate in queries for food safety should be no less than 10%.  \- Search visits show an increasing trend.                  |
+| Goals                             | Explains the purpose of your website and what it’s supposed to accomplish        | <ul> <li> Educate the public about safe handling of food. </ul>                                                                                            |
+| Objectives                        | Defines how you will achieve your goals                                          | <ul> <li> Reach online users looking for information on food safety and convert them into site </ul> visitors.                                              |
+| Calls to action (CTA)             | Tasks that visitors must complete as part of your website's goals and objectives | <ul> <li> Online users come to the website because it was listed on search engines as a credible source for food safety content. </ul>                       |
+| Key performance indicators (KPIs) | Metrics that measure each CTA                                                    | <ul> <li> Website’s search clickthrough rate for keywords related to food safety. <li> Search visits to the website for keywords related to food safety. </ul>  |
+| Targets                           | Thresholds that determine whether you’re meeting your KPIs                       | <ul> <li> Search clickthrough rate in queries for food safety should be no less than 10%.  <li> Search visits show an increasing trend. </ul> |
 
 
 
