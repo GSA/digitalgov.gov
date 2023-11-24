@@ -1,6 +1,6 @@
 ---
 date: 2023-02-10 14:30:00 -0500
-title: Introduction to design systems
+title: An introduction to design systems
 deck: Learn how and why to use design systems
 summary: If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started.
 
