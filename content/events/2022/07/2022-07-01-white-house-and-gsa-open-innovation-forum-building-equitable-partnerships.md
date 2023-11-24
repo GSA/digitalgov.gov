@@ -11,18 +11,12 @@ end_date: 2022-07-20 16:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
-  - challenges-and-prizes-community-of-practice
   - challenges
+  - diversity-equity-and-inclusion
   - crowdsourcing
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - white-house-office-of-science-and-technology-policy
-  - white-house
   - open
   - innovation
-  - tts
-  - gsa
-  - technology-transformation-services
   - citizen-science
 
 # See all authors at https://digital.gov/authors
