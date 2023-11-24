@@ -66,7 +66,7 @@ Regardless, what that means is that in 2015, only around **2% of all recorded no
 
 This data is not exhaustive, and represents only the sites that participated in DAP at the time of the records, but it is interesting, nonetheless. We hope it proves useful for insights about the federal websites you work on. Check back next week, when we’ll dive deeper into the shift in mobile usage on federal websites over the last few years.
 
-_* For all DAP figures cited, the date range of August 16 &#8211; September 15 was used in the three consecutive years (2013, 2014, and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight to the public’s behavior trends._
+_* For all DAP figures cited, the date range of August 16 - September 15 was used in the three consecutive years (2013, 2014, and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight to the public’s behavior trends._
 
 _**Correction**: This was incorrectly first reported as 98%, which actually referred to the percentage of mobile sessions using Safari on either an iPhone or iPad. We regret the error._
 
