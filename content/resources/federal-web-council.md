@@ -5,7 +5,7 @@
 # slug (url path) — changing this requires a redirect
 slug: federal-web-council
 date: 2019-06-25 9:00:00 -0500
-title: "Federal Web Council"
+title: "An introduction to the Federal Web Council"
 deck: "A cross-agency group that is working to improve the delivery of government information and digital services."
 summary: "A cross-agency group that is working together to improve the delivery of U.S. government information and services online."
 
