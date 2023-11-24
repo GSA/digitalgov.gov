@@ -16,7 +16,6 @@ topics:
   - challenges-and-prize-competitions
   - challenges
   - challenge-gov
-  - challenges-and-prizes-community-of-practice
 
 # See all authors at https://digital.gov/authors
 authors:
