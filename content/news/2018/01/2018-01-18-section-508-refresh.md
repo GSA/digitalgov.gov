@@ -24,11 +24,12 @@ featured_image:
 
 In January 2017, the [U.S. Access Board](https://www.access-board.gov/) published a [final rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) updating information technology (IT)accessibility requirements covered by Section 508 of the [Rehabilitation Act of 1973](https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973), which includes IT that is developed, procured, maintained, or used by federal agencies. The Rehabilitation Act is a federal law which requires programs and activities funded by federal agencies to be accessible to people with disabilities, including federal employees and members of the public. [Here’s a recap of the changes](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule).
 
-Compliance with the [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) is also a requirement of [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/delivering-digital-first-public-experience). They went into effect on January 18, 2018. [Watch this video to learn more](https://www.youtube.com/watch?v%3DKw4jEGmaXbw).
+Compliance with the [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) is also a requirement of [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06). They went into effect on January 18, 2018. [Watch this video to learn more](https://www.youtube.com/watch?v%3DKw4jEGmaXbw).
 
 {{< youtube Kw4jEGmaXbw >}}
 
 ## What’s New
+
 Notable changes to the Standards include:
 
 *   Incorporation of the [W3C’s Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/), to harmonize with other accessibility standards worldwide.
