@@ -4,8 +4,10 @@ date: 2018-06-25 9:00:00 -0400
 title: "Connected Government Act"
 summary: "Resources to help your agency comply with the Connected Government Act."
 deck: "As of July of 2018, all new and redesigned agency websites are required to be mobile-friendly."
+
 featured_image:
   uid: hr2331-connected-govt-act
+
 topics:
   - product-management
   - mobile
@@ -18,7 +20,7 @@ topics:
 
 The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/house-bill/2331) (H.R.2331) was signed into law on January 10, 2018, and requires new and redesigned federal agency public websites to be mobile-friendly. The [General Services Administration](https://www.gsa.gov/) (GSA) and [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) submitted a report to Congress in 2019 that describes how agencies can implement the law and assess their compliance.
 
-The law codified OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
+The law codified OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06).
 
 The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law.
 
