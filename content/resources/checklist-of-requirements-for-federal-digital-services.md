@@ -4,19 +4,25 @@ date: 2014-01-09 1:20:11 -0400
 title: "Checklist of requirements for federal websites and digital services"
 deck: "The relevant laws, policies, and regulations for federal agencies."
 summary: "Links to relevant laws, policies, and regulations for federal agencies."
+
 authors:
   - rflagg
   - ammie-farraj-feijoo
+
 aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
+
 weight: 2
+
 topics:
   - product-management
   - policy
   - governance
+
 primary_image: "checklist-topics"
+
 ---
 
 {{< note >}}
@@ -29,8 +35,8 @@ These high-level policies cover basic requirements for all websites and digital 
 
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
 - [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience) 
-- [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
-- [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
+- [OMB Circular A-130, Revised, Managing Information as a Strategic Resource (PDF, 550 KB, 85 pages, 7/28/2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf)
+- [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html), May 2012
 - [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 - See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
 - See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist)
