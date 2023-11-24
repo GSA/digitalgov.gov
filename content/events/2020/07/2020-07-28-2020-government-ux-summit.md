@@ -21,6 +21,9 @@ end_date: 2020-07-30 14:30:00 -0500
 topics: 
   - agile
   - usability
+  - design
+  - product-management
+  - project-management
   - user-experience
   - user-research
   - usability-testing
