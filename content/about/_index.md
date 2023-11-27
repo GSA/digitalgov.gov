@@ -17,4 +17,4 @@ We envision a world where the U.S. government leads in creating world-class digi
 
 ## Contact Us
 
-Visit [Contact Us](https://digital.gov/about/contact/) to learn how connect with us across different channels.
+[Contact Us](https://digital.gov/about/contact/) to learn how connect with us across different channels.
