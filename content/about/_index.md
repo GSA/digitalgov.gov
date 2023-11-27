@@ -15,6 +15,6 @@ We connect our federal colleagues to the knowledge they need to build outstandin
 
 We envision a world where the U.S. government leads in creating world-class digital experiences for the public. We strive to establish Digital.gov as the resource that federal web and digital service practitioners view as essential to this work.
 
-## Contact Us
+## Contact us
 
-[Contact Us](https://digital.gov/about/contact/) to learn how connect with us across different channels.
+Find out how to [connect with us](https://digital.gov/about/contact/) across different channels.
