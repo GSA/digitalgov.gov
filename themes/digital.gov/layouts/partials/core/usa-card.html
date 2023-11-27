@@ -28,7 +28,7 @@
 
 <div
   data-edit-this="{{- $path -}}"
-  class="usa-card__container {{ if $is_home }}usa-card__container-home{{ end }}"
+  class="usa-card__container{{ if $is_home }}usa-card__container-home{{ end }}"
 >
   {{ if $header }}
     <div class="usa-card__header">
@@ -55,7 +55,7 @@
   {{ if $link_title }}
     <div class="usa-card__footer">
       <a
-        class="usa-button {{ if $is_home }}usa-button--outline{{ end }}"
+        class="usa-button{{ if $is_home }}usa-button--outline{{ end }}"
         href="{{- $link -}}"
         title="{{- $link_title | markdownify -}}"
       >

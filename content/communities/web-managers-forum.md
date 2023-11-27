@@ -5,7 +5,7 @@
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: "Web Managers"
-summary: "Brings together government web content managers to create a better online experience for the public."
+summary: "Create a better online experience for the public alongside government web content managers."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:

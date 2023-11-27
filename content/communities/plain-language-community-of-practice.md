@@ -5,7 +5,7 @@
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: "Plain Language"
-summary: "Promote use of plain language, providing better service to the public."
+summary: "Promote the use of plain language to provide better service to the public."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
