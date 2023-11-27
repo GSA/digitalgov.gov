@@ -29,9 +29,9 @@
 </div>
 
 <div
-  class="dg-featured-communities dg-featured-communities--{{ if $layout }}
+  class="dg-featured-communities dg-featured-communities--{{- if $layout -}}
     {{ $layout }}
-  {{ end }}"
+  {{- end -}}"
 >
   {{ range $dg_communities }}
     {{ $path := "" }}
