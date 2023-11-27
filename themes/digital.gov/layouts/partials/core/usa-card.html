@@ -8,7 +8,7 @@
   @param {string} [image] - String passed into the "src" field of the image displayed at the top of the card
   @param {string} [alt] - String passed into the "alt" field of the image displayed at the top of the card
   @param {string} [path] - String passed into the "data-edit-this" field so that the card can be edited
-  @param {string} [layout] - String used to adjust styles for home page
+  @param {string} [layout] - String used to adjust styles for home and communities page
 */}}
 
 {{- $header := default "" .card_data.header -}}
@@ -52,7 +52,7 @@
   {{ if $link_title }}
     <div class="usa-card__footer">
       <a
-        class="usa-button{{ if $is_home }}usa-button--outline{{ end }}"
+        class="usa-button {{ if $is_home }}usa-button--outline{{ end }}"
         href="{{- $link -}}"
         title="{{- $link_title | markdownify -}}"
       >
