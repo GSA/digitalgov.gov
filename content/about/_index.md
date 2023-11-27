@@ -1,17 +1,17 @@
 ---
-title: "Digital.gov's mission"
+title: "About us"
 deck: 'We help the government community deliver better digital services.'
-summary: 'Welcome to Digital.gov. Learn more about what we&#39;re working on'
+summary: 'Welcome to Digital.gov. Learn more about who we are.'
 aliases:
   - /contact-us/
 
 ---
 
-## Digital.gov's mission
+## Mission
 
 We connect our federal colleagues to the knowledge they need to build outstanding websites and digital services. 
 
-## Digital.gov's vision
+## Vision
 
 We envision a world where the U.S. government leads in creating world-class digital experiences for the public. We strive to establish Digital.gov as the resource that federal web and digital service practitioners view as essential to this work.
 
