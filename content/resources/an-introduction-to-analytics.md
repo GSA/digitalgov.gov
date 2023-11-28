@@ -42,7 +42,7 @@ Before you begin collecting data, determine what your website is ultimately tryi
 
 Follow the framework in the table below to create objectives and calls-to-action, and identify key performance indicators to measure their success or failure.
 
-<table class="usa-table usa-table--striped">
+<table class="usa-table usa-table--borderless">
   <thead>
     <tr>
       <th scope="col">Measurement</th>
