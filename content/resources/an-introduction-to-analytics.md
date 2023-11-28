@@ -54,7 +54,7 @@ Follow the framework below to create objectives and calls to action, and identif
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Goals/th>
+      <th scope="row">Goals</th>
       <td>
         Explains the purpose of your website and what it’s supposed to accomplish
       </td>
