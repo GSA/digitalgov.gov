@@ -74,6 +74,10 @@ $communities-of-practice: (
     grid-template-columns: repeat(4, 1fr);
   }
 
+  h2 {
+    font-size: size("sans", "2-xl");
+  }
+
   .usa-card {
     max-width: none !important;
 
@@ -94,6 +98,15 @@ $communities-of-practice: (
     display: none;
   }
 
+  p {
+    font-size: size("sans", "sm");
+  }
+
+  .usa-button {
+    font-size: size("sans", "xs");
+    line-height: 1.3;
+  }
+
   // has-image variant has svg icon, left justified text, and alternate button styles
   &--has-image {
     text-align: left;
@@ -111,15 +124,6 @@ $communities-of-practice: (
       background-color: transparent;
       max-width: 4rem;
     }
-  }
-
-  p {
-    font-size: size("sans", "sm");
-  }
-
-  .usa-button {
-    font-size: size("sans", "xs");
-    line-height: 1.3;
   }
 }
 
