@@ -486,7 +486,7 @@ For questions on reporting actions, please email the Office of the Federal CIO a
 
 ### Action 1. Identify digital experience delivery lead
 
-Within `30 days` of issuance
+Within `30 days` of issuance (deadline extended to January 19, 2024)
 
 - **Purpose:** Each agency must identify a single lead. This lead will be responsible for communicating information to the relevant stakeholders across the agency, providing requested information to OMB, engaging with other agencies to share best practices for implementation, and overseeing delivery of the requirements and recommendations of this memorandum. Once designated, leads from larger agencies may work with OMB to designate secondary points of contact for agency subcomponents, but the overall lead will remain responsible for the above.
 
@@ -494,7 +494,11 @@ Within `30 days` of issuance
 
 ### Action 2. Identify public-facing websites
 
-Within `90 days` of issuance; additional details and instructions are forthcoming.
+Within `90 days` of issuance (deadline extended to January 19, 2024)
+
+**Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
+
+**Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
 ### Action 3. Identify and assess top websites
 
