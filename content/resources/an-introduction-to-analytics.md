@@ -44,7 +44,6 @@ Follow the framework below to create objectives and calls to action, and identif
 
 <table class="usa-table">
   <caption>
-    Bordered table
   </caption>
   <thead>
     <tr>
