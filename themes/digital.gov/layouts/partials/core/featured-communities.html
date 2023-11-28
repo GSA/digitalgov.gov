@@ -2,9 +2,8 @@
   Renders a list of Digital.gov communities on both the home page and communities page
 
   @param {object} context - Parent scope context object
-  @param {string} layout  - Set the styles for the cards depending if displayed on the home or communities page
-  - Values can be "home" for homepage styles or "communities" for communities page
-  - "communities" layout displays community image logo and button outline styles
+  @param {string} layout - Optional variant setting for card styles
+  - "has_media" variant displays an image, full background colors on buttons, and left justified copy
 */}}
 
 {{ $context := .context }}
@@ -29,9 +28,9 @@
 </div>
 
 <div
-  class="dg-featured-communities dg-featured-communities--{{- if $layout -}}
-    {{ $layout }}
-  {{- end -}}"
+  class="dg-featured-communities {{ if $layout }}
+    dg-featured-communities--{{ $layout }}
+  {{ end }}"
 >
   {{ range $dg_communities }}
     {{ $path := "" }}

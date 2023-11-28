@@ -64,6 +64,7 @@ $communities-of-practice: (
 .dg-featured-communities {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  text-align: center;
 
   @include at-media("tablet") {
     grid-template-columns: repeat(3, 1fr);
@@ -73,9 +74,12 @@ $communities-of-practice: (
     grid-template-columns: repeat(4, 1fr);
   }
 
-  // home variant has no icon and emphasises button border color to match brand
-  &--home {
-    .usa-card:first-child {
+  .usa-card {
+    max-width: none !important;
+
+    // Make the first card wider for emphasis
+    &:first-child {
+      grid-column: 1 / 3;
       .usa-button--outline {
         box-shadow: inset 0 0 0 2px map.get($communities-of-practice, "WCM");
         color: map.get($communities-of-practice, "WCM");
@@ -84,40 +88,29 @@ $communities-of-practice: (
         }
       }
     }
-
-    .usa-card__media {
-      display: none;
-    }
   }
 
-  // communities variant has svg icon
-  &--communities {
+  .usa-card__media {
+    display: none;
+  }
+
+  // has-image variant has svg icon, left justified text, and alternate button styles
+  &--has-image {
+    text-align: left;
+
     .usa-card__media {
       align-items: start;
+      display: flex;
+      flex-direction: column;
       padding-left: units(3);
       padding-right: units(3);
       padding-top: units(4);
     }
-  }
 
-  .usa-card {
-    max-width: none !important;
-
-    // Make the first card wider for emphasis
-    &:first-child {
-      grid-column: 1 / 3;
+    .usa-card__img {
+      background-color: transparent;
+      max-width: 4rem;
     }
-  }
-
-  .usa-card__media {
-    display: flex;
-    flex-direction: column;
-    padding-top: 1rem;
-  }
-
-  .usa-card__img {
-    background-color: transparent;
-    max-width: 4rem;
   }
 
   p {

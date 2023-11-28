@@ -8,7 +8,7 @@
   @param {string} [image] - String passed into the "src" field of the image displayed at the top of the card
   @param {string} [alt] - String passed into the "alt" field of the image displayed at the top of the card
   @param {string} [path] - String passed into the "data-edit-this" field so that the card can be edited
-  @param {string} [layout] - String used to adjust styles for home and communities page
+  @param {string} [layout] - String used to adjust styles for variants
 */}}
 
 {{- $header := default "" .card_data.header -}}
@@ -19,11 +19,11 @@
 {{- $alt := default "" .card_data.alt -}}
 {{- $path := default "" .card_data.path -}}
 {{- $layout := default "" .card_data.layout -}}
-{{- $is_home := "" -}}
+{{- $has_image := false -}}
 
-{{- if eq $layout "home" -}}
-  {{ $is_home = true }}
-{{- end -}}
+{{ if eq $layout "has-image" }}
+  {{ $has_image = true }}
+{{ end }}
 
 
 <div data-edit-this="{{- $path -}}" class="usa-card__container">
@@ -34,8 +34,8 @@
       </h2>
     </div>
   {{ end }}
-  {{ if not (eq $image "") }}
-    {{ if not $is_home }}
+  {{ if $has_image }}
+    {{ if not (eq $image "") }}
       <div class="usa-card__media">
         <div class="usa-card__img">
           {{ $image_path := (printf "%s/%s" "/img" $image | relURL) }}
@@ -52,7 +52,7 @@
   {{ if $link_title }}
     <div class="usa-card__footer">
       <a
-        class="usa-button {{ if $is_home }}usa-button--outline{{ end }}"
+        class="usa-button {{ if $has_image }}usa-button--outline{{ end }}"
         href="{{- $link -}}"
         title="{{- $link_title | markdownify -}}"
       >
