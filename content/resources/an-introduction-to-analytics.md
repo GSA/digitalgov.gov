@@ -42,15 +42,55 @@ Before you begin collecting data, determine what your website is ultimately tryi
 
 Follow the framework below to create objectives and calls to action, and identify key performance indicators to measure their success or failure.
 
-| Measurement                       | Definition                                                                       | Example                                                                                                                                        |
-| --------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Goals                             | Explains the purpose of your website and what it’s supposed to accomplish        | <ul> <li> Educate the public about safe handling of food. </ul>                                                                                            |
-| Objectives                        | Defines how you will achieve your goals                                          | <ul> <li> Reach online users looking for information on food safety and convert them into site visitors.</ul>                                               |
-| Calls to action (CTA)             | Tasks that visitors must complete as part of your website's goals and objectives | <ul> <li> Online users come to the website because it was listed on search engines as a credible source for food safety content. </ul>                       |
-| Key performance indicators (KPIs) | Metrics that measure each CTA                                                    | <ul> <li> Website’s search clickthrough rate for keywords related to food safety. <li> Search visits to the website for keywords related to food safety. </ul>  |
-| Targets                           | Thresholds that determine whether you’re meeting your KPIs                       | <ul> <li> Search clickthrough rate in queries for food safety should be no less than 10%.  <li> Search visits show an increasing trend. </ul> |
-
-
+<table class="usa-table">
+  <caption>
+    Bordered table
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Measurement</th>
+      <th scope="col">Definition</th>
+      <th scope="col">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Goals/th>
+      <td>
+        Explains the purpose of your website and what it’s supposed to accomplish
+      </td>
+      <td><ul> <li> Educate the public about safe handling of food. </li></ul> </td>
+    </tr>
+    <tr>
+      <th scope="row">Objectives</th>
+      <td>
+        Defines how you will achieve your goals
+      </td>
+      <td><ul> <li> Reach online users looking for information on food safety and convert them into site visitors.</li></ul></td>
+    </tr>
+    <tr>
+      <th scope="row">Calls to action (CTA)</th>
+      <td>
+        Tasks that visitors must complete as part of your website’s goals and objectives
+      </td>
+      <td><ul> <li> Online users come to the website because it was listed on search engines as a credible source for food safety content.</li></ul></td>
+    </tr>
+    <tr>
+      <th scope="row">Key performance indicators (KPIs)</th>
+      <td>
+        Metrics that measure each CTA
+      </td>
+      <td> <ul> <li> Website’s search clickthrough rate for keywords related to food safety.</li> <li> Search visits to the website for keywords related to food safety.</li> </ul></td>
+    </tr>
+    <tr>
+      <th scope="row">Targets</th>
+      <td>
+        Thresholds that determine whether you’re meeting your KPIs
+      </td>
+      <td> <ul> <li> Search clickthrough rate in queries for food safety should be no less than 10%.</li><li> Search visits show an increasing trend.</li> </ul> </td>
+    </tr>
+  </tbody>
+</table>
 
 Using a framework like this can help you identify exactly what data you need to assess whether or not you’re meeting your goals. Appropriate research methods and clear KPIs can help you measure only what matters, to focus on the insights you need to meet your targets. There are lots of tools out there. Which ones you’ll need will depend on your KPIs and targets. For example:
 
