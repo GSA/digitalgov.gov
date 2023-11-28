@@ -42,7 +42,7 @@ Before you begin collecting data, determine what your website is ultimately tryi
 
 Follow the framework in the table below to create objectives and calls-to-action, and identify key performance indicators to measure their success or failure.
 
-<table class="usa-table usa-table--borderless">
+<table class="usa-table">
   <thead>
     <tr>
       <th scope="col">Measurement</th>
@@ -54,27 +54,27 @@ Follow the framework in the table below to create objectives and calls-to-action
     <tr>
       <th scope="row">Goals</th>
       <td>Explains the purpose of your website and what it’s supposed to accomplish</td>
-      <td><ul><li>Educate the public about safe handling of food.</li></ul></td>
+      <td>Educate the public about safe handling of food.</td>
     </tr>
     <tr>
       <th scope="row">Objectives</th>
       <td>Defines how you will achieve your goals</td>
-      <td><ul><li>Reach online users looking for information on food safety and convert them into site visitors.</li></ul></td>
+      <td>Reach online users looking for information on food safety and convert them into site visitors.</td>
     </tr>
     <tr>
       <th scope="row">Calls to action (CTA)</th>
       <td>Tasks that visitors must complete as part of your website’s goals and objectives</td>
-      <td><ul><li> Online users come to the website because it was listed on search engines as a credible source for food safety content.</li></ul></td>
+      <td>Online users come to the website because it was listed on search engines as a credible source for food safety content.</td>
     </tr>
     <tr>
       <th scope="row">Key performance indicators (KPIs)</th>
       <td>Metrics that measure each CTA</td>
-      <td><ul><li>Website’s search clickthrough rate for keywords related to food safety.</li><li>Search visits to the website for keywords related to food safety.</li></ul></td>
+      <td>Website’s search clickthrough rate for keywords related to food safety.<br />Search visits to the website for keywords related to food safety.</td>
     </tr>
     <tr>
       <th scope="row">Targets</th>
       <td>Thresholds that determine whether you’re meeting your KPIs</td>
-      <td><ul><li>Search clickthrough rate in queries for food safety should be no less than 10%.</li><li>Search visits show an increasing trend.</li></ul></td>
+      <td>Search clickthrough rate in queries for food safety should be no less than 10%.<br />Search visits show an increasing trend.</td>
     </tr>
   </tbody>
 </table>
