@@ -16,6 +16,7 @@ aliases:
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
+  - diversity-equity-and-inclusion
   - product-management
   - plain-language
   - content

@@ -12,13 +12,16 @@ authors:
 topics:
   - accessibility
   - 21st-century-idea
+  - diversity-equity-and-inclusion
 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 2
+
 slug: an-introduction-to-accessibility
+
 ---
 
 ## What is accessibility?

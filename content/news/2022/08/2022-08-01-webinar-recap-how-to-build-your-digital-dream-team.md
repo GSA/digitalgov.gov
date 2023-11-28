@@ -9,6 +9,7 @@ summary: Highlights from the Web Managers Community of Practice panel that share
 topics:
   - governance
   - professional-development
+  - diversity-equity-and-inclusion
   - project-management
   - recaps
   - digital-service-delivery
