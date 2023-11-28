@@ -1,8 +1,6 @@
 ---
 date: 2023-11-28 08:52:00 -0500
-kicker: 
 title: Delivering on 21st Century IDEA: A case study from the GSA SmartPay team (Part 1)
-deck: 
 summary: The GSA SmartPay program, the largest government charge card and commercial payment solutions program in the world, celebrated their 25th anniversary by launching three new websites with a user-centered, agile approach.
 
 # See all topics at https://digital.gov/topics
