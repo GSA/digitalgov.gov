@@ -40,11 +40,9 @@ Sharing data from and about the real people who use your products and services i
 
 Before you begin collecting data, determine what your website is ultimately trying to accomplish. Establishing goals and objectives will help you identify the data you need to understand whether or not you’re meeting those overarching goals.
 
-Follow the framework below to create objectives and calls to action, and identify key performance indicators to measure their success or failure.
+Follow the framework in the table below to create objectives and calls-to-action, and identify key performance indicators to measure their success or failure.
 
 <table class="usa-table">
-  <caption>
-  </caption>
   <thead>
     <tr>
       <th scope="col">Measurement</th>
