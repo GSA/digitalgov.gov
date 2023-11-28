@@ -1,29 +1,33 @@
 ---
 date: 2023-11-28 08:52:00 -0500
-kicker: kicker
-title: Part 1 Delivering on 21st Century IDEA A case study from the GSA SmartPay team
-deck: deck
-summary: The GSA SmartPay program, the largest government charge card and
-  commercial payment solutions program in the world, celebrated their 25th
-  anniversary by launching three new websites with a user-centered, agile
-  approach.
+kicker: 
+title: Delivering on 21st Century IDEA: A case study from the GSA SmartPay team (Part 1)
+deck: 
+summary: The GSA SmartPay program, the largest government charge card and commercial payment solutions program in the world, celebrated their 25th anniversary by launching three new websites with a user-centered, agile approach.
+
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
   - digital-service-delivery
   - product-management
   - project-management
-  - customer-experience
+  - user-experience
+
 # See all authors at https://digital.gov/authors
 authors:
   - ryan-johnson
+
 slug: part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team
+
 primary_image: three-gsa-smartpay-screens
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 *The U.S. General Service Administration (GSA) Center for Charge Card Management (CCCM) administers the GSA SmartPay®️ program, providing services to more than 560 federal agencies, organizations, and Native American tribal governments. Watch this [1-minute video celebrating the program’s 25th anniversary](https://www.youtube.com/watch?v=3kcvidn5ikc), which will be November 30, 2023. To date, GSA SmartPay has handled $643 billion dollars in total spend and provided $5.6 billion in refunds to agencies to invest in their mission.*
 
 Late in fiscal year 2022, the [GSA SmartPay program](https://smartpay.gsa.gov/) — the largest government charge card and commercial payment solutions program in the world — was experiencing challenges with one of its websites.
@@ -34,7 +38,7 @@ Thousands of card and account holders are required to complete training courses 
 
 The GSA SmartPay team reached out to GSA’s [Service Delivery team](https://github.com/GSA/service-delivery), a cross-functional team with product management, user-experience design, content strategy, engineering, and acquisition skills.
 
-Through research, we discovered the program’s main website — composed of general program information, resources for agency program coordinators and card/account holders, and important program updates — suffered from design and operational challenges. It was hosted and maintained by the vendor, and didn’t align with many of the requirements of the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA), including the use of the [U.S. Web Design System](https://designsystem.digital.gov/).
+Through research, we discovered the program’s main website — composed of general program information, resources for agency program coordinators and card and account holders, and important program updates — suffered from design and operational challenges. It was hosted and maintained by the vendor, and didn’t align with many of the requirements of the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA), including the use of the [U.S. Web Design System](https://designsystem.digital.gov/).
 
 The two teams interviewed users to identify their goals and pain points. We also reviewed the websites’ analytics, collected and made available to federal agencies by the government’s [Digital Analytics Program](https://digital.gov/guides/dap/).
 
@@ -73,7 +77,7 @@ The audit revealed several opportunities to consolidate content; remove redundan
 
 ## A new opportunity emerges
 
-With the two teams working toward a path for the training and program websites, a new opportunity emerged. Because GSA SmartPay is widely used for federal procurement, card/account holders must comply with federal laws and regulations that govern purchasing goods and services for government use. This includes the fiscal year 2019 [National Defense Authorization Act (NDAA)](https://www.congress.gov/115/bills/hr5515/BILLS-115hr5515enr.pdf), and [Section 889](https://www.acquisition.gov/Section-889-Policies), which prohibits the purchase of certain telecommunications equipment and services from vendors who sell products containing spyware.
+With the two teams working toward a path for the training and program websites, a new opportunity emerged. Because GSA SmartPay is widely used for federal procurement, card and account holders must comply with federal laws and regulations that govern purchasing goods and services for government use. This includes the fiscal year 2019 [National Defense Authorization Act (NDAA)](https://www.congress.gov/115/bills/hr5515/BILLS-115hr5515enr.pdf), and [Section 889](https://www.acquisition.gov/Section-889-Policies), which prohibits the purchase of certain telecommunications equipment and services from vendors who sell products containing spyware.
 
 While it was possible to search for the Section 889 status of a given vendor, the tools were difficult for users to find and use, or required back-and-forth email requests.
 
@@ -105,8 +109,7 @@ Through the use of these methods, the Center for Charge Card Management awarded 
 
 In the end, the GSA SmartPay team launched three websites that embody the spirit of and deliver on the 21st Century IDEA. The sites are accessible to all users, leverage the U.S. Web Design System, and were built with and for users.
 
-Many thanks to everyone involved:
+**Many thanks to everyone involved**:
 
-* NASA – Tracy Hall, Benjamin Jensen, Godfrey Sauti, Emilie Siochi
-* GSA – Andrew Lee, Rebekah Perillo, Erin VanDagna, Tri Thai, David Shea, Rosalind Cherry, Bo Berlas, Arpan Patel, Jessica Marine, Mark Meyer, Wei Wang, Jeff Fredrickson, Ryan Johnson, Kristen Lohman, Jenn Noinaj, Ashley Owens, Mel Choyce
-
+* **NASA** – *Tracy Hall, Benjamin Jensen, Godfrey Sauti, and Emilie Siochi*
+* **GSA** – *Andrew Lee, Rebekah Perillo, Erin VanDagna, Tri Thai, David Shea, Rosalind Cherry, Bo Berlas, Arpan Patel, Jessica Marine, Mark Meyer, Wei Wang, Jeff Fredrickson, Ryan Johnson, Kristen Lohman, Jenn Noinaj, Ashley Owens, and Mel Choyce*
