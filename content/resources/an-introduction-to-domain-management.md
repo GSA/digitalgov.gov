@@ -35,13 +35,13 @@ When you use .gov, it increases security because the [Cybersecurity and Infrastr
 
 ## How to manage your domains well
 
-Choose your domain name in a way that is consistent with your agency’s overall branding and marketing goals. Work with your communications or marketing department to select the most straightforward representation of your agency’s name.
+**Choose** your domain name in a way that is consistent with your agency’s overall branding and marketing goals. Work with your communications or marketing department to select the most straightforward representation of your agency’s name.
 
-Measure by using analytics tools to track how your domain names are performing in search engines and other online channels. 
+**Measure** by using analytics tools to track how your domain names are performing in search engines and other online channels. 
 
-Protect your domain and your users by keeping domain registrations up to date and Domain Name System (DNS) records accurate. You should also be monitoring your domain name to protect against similar but fraudulent domains. Encrypt all web traffic across their websites and “preload” all  registered .gov or .mil domains as HTTPS-only in modern web browsers.
+**Protect** your domain and your users by keeping domain registrations up to date and Domain Name System (DNS) records accurate. You should also be monitoring your domain name to protect against similar but fraudulent domains. Encrypt all web traffic across their websites and “preload” all  registered .gov or .mil domains as HTTPS-only in modern web browsers.
 
-Simplify the user experience by maintaining as few domains and subdomains as possible. It can be tempting to add new domains for new projects, but keep in mind that more domains means more risk and more to manage as your agency grows. 
+**Simplify** the user experience by maintaining as few domains and subdomains as possible. It can be tempting to add new domains for new projects, but keep in mind that more domains means more risk and more to manage as your agency grows. 
 
 ## What can I do next?
 
