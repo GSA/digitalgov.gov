@@ -53,8 +53,8 @@ Domain management is about more than just DNS. It’s also about ensuring a safe
 
 For example, having a security contact for .gov domains makes it easier for the public to tell you of a potential security issue with your online services. It is relatively easy to 
 
-1. Check CISA’s [published domain data](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv), 
+1. Check CISA’s [published domain data](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv). 
 2. Type your domain in the \`Domain name\` to filter the data and display the record for your domain. 
 3. Scroll over to confirm if an email for a security contact is listed.
 
-**Follow the instructions to [update or add a security contact](https://get.gov/help/security-best-practices/)if needed.**
+Follow the instructions to [update or add a security contact](https://get.gov/help/security-best-practices/) if needed.
