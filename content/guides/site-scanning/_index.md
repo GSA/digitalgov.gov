@@ -19,13 +19,13 @@ layout: single
 
 **The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices.
 
-The program is a shared service provided at no cost for federal agencies and the public to use. At its core is the [Federal Website Index](https://github.com/gsa/federal-website-index), a reference dataset listing all public federal .gov sites by agency/department. Daily scans generate over 1.5 million fields of data about 26,000 federal .gov websites, made publicly available via API and bulk download.
+The program is a shared service provided at no cost for federal agencies and the public to use. At its core is the [Federal Website Index](https://github.com/gsa/federal-website-index), a reference dataset listing all public-facing federal .gov and .mil sites by agency and bureau. Daily scans generate over 1.5 million fields of data about 26,000 federal .gov websites, made publicly available via API and bulk download.
 
 **We scan federal domains for:**
 
 - The presence of agency websites and subdomains
-- Digital Analytics Program participation
-- Use of the US Web Design System
+- [Digital Analytics Program](https://digital.gov/guides/dap/) participation
+- Use of the [US Web Design System](https://designsystem.digital.gov/)
 - Search engine optimization
 - Third party services
 - IPv6 compliance
