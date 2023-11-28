@@ -4,17 +4,15 @@ title: "From Fellowship To Full-time: How a CFPB Software Engineer Helped Protec
 summary: Anselm Bradford, a front-end engineer at the Consumer Financial Protection Bureau (CFPB), is using his tech skills to protect American consumers.
 # See all topics at https://digital.gov/topics
 topics:
-  - cfpb
-  - consumer-financial-protection-bureau
   - professional-development
-  - cx
+  - customer-experience
+  - software-engineering
   - user-experience
   - accessibility
   - 21st-century-idea
   - uswds
   - design
   - communities
-  - tts
 
 # See all authors at https://digital.gov/authors
 authors:

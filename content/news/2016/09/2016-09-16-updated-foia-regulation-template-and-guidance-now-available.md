@@ -10,12 +10,8 @@ topics:
   - strategy
   - policy
   - DOJ
-  - FOIA
-  - freedom-of-information-act
-  - Office of Government Information Services
+  - open-government
   - office-of-information-policy
-  - OGIS
-  - OIP
   - us-department-of-justice
 ---
 

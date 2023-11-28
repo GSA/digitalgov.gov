@@ -16,16 +16,14 @@ topics:
   - cloud
   - cloud-gov
   - data
-  - data-act
+  - budgeting-and-performance
   - login-gov
-  - digital-accountability-and-transparency-act
+  - budgeting-and-performance
   - FAS
   - federal-acquisition-service
   - fedramp
   - innovation
   - security
-  - summit
-  - technology-industry-day
   - tts
 
 ---

@@ -9,8 +9,7 @@ topics:
   - our-work
   - agile
   - analytics
-  - connect-gov
-  - cx
+  - customer-experience
   - digitalgov-summit
   - privacy
 

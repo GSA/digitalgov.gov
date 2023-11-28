@@ -11,10 +11,8 @@ topics:
   - strategy
   - policy
   - DOJ
-  - FOIA
-  - freedom-of-information-act
+  - open-government
   - office-of-information-policy
-  - OIP
   - training
   - us-department-of-justice
 ---

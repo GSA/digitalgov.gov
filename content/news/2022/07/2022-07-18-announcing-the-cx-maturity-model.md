@@ -18,7 +18,7 @@ deck: "**Announcing the CX Maturity Model**&mdash;A recent executive order on
 summary: 
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
 slug: announcing-the-cx-maturity-model
 # Controls how this page appears across the site
 # 0 -- hidden

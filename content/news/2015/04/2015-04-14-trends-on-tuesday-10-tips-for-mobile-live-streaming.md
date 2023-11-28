@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile-ux-guideline-1
   - trends-on-tuesday
-  - Twitter
+  - social-media
 ---
 
 {{< legacy-img src="2015/04/600-x-360-ADI\_Video\_2.jpg" alt="Adobe Digital Index: Device share of online video starts" >}}

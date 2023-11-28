@@ -9,7 +9,6 @@ topics:
   - product-management
   - social-media
   - gsa
-  - instagram
   - socialgov
   - terms-of-service
   - white-house

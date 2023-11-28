@@ -15,7 +15,7 @@ authors:
   - lindsay-young
 
 slug: an-introduction-to-security-and-privacy-controls
-primary_image: 
+primary_image: "intro-security-privacy-controls-nist-800-53-rabbit-photo-istock-getty-images-1203479919"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -29,7 +29,7 @@ weight: 1
 
 Federal security compliance is based on evaluating security criteria. Those criteria are a wide-ranging set of considerations called controls. The National Institute for Standards and Technology (NIST) defines these controls in a special publication (SP) called [NIST SP 800-53 (Revision 5), Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final).
 
-To use, buy, or build software for the government, you need authorization to operate (ATO). A huge part of that process is documenting how you are addressing the controls in your system security and privacy plan (SSPP). During the ATO process, assessors determine what controls apply to a given system. The higher the risk of the system, the more controls. Then, that system needs to document those considerations and prove that they have taken those security measures into account. 
+To use, buy, or build software for the government, you need authorization to operate (ATO). A huge part of that process is documenting how you are addressing the controls in your system security and privacy plan (SSPP). During the ATO process, assessors determine what controls apply to a given system. The higher the risk of the system, the more controls. Then, that system needs to document those considerations and prove that they have taken those security measures into account.
 
 For an overview of ATOs, read [An introduction to ATOs](https://digital.gov/resources/an-introduction-to-ato/).
 
@@ -164,8 +164,8 @@ You may have noticed that many of the controls require the efforts of your whole
 
 * [FedRAMP: Understanding the Transition from NIST SP 800-53 Rev. 4 to Rev. 5](https://www.fedramp.gov/rev5-transition/)
 * [NIST SP 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
-  * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
-  * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
+    * Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+    * Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 * [NIST Computer Security Resource Center Glossary](https://csrc.nist.gov/glossary)
 
 {{< /ring >}}

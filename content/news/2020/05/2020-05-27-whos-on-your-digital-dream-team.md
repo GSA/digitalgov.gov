@@ -16,6 +16,7 @@ topics:
   - professional-development
   - training
   - this-weeks-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors: 

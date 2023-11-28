@@ -14,7 +14,6 @@ topics:
   - CMS
   - code
   - Consumer Product Safety Commission
-  - CPSC
   - data
   - mobile
   - open

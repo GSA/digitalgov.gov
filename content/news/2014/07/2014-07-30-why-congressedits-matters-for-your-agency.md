@@ -12,7 +12,6 @@ topics:
   - NARA
   - national-archives-and-records-administration
   - open-government
-  - Twitter
   - united-states-department-of-health-and-human-services
 ---
 

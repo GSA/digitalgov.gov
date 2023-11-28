@@ -3,17 +3,16 @@ slug: connecting-with-the-social-and-behavioral-sciences-team
 date: 2015-12-09 1:40:55 -0400
 title: Connecting with the Social and Behavioral Sciences Team
 summary: 'The new Social and Behavioral Sciences Team (SBST) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on.'
+
 authors:
   - jsnee
   - rflagg
+
 topics:
   - product-management
   - monthly-theme
-  - cx
-  - customer-experience-community-of-practice
-  - cx
+  - customer-experience
   - recaps
-  - SBST
   - social-and-behavioral-sciences-team
   - user-experience
 
@@ -49,4 +48,4 @@ How can CX, UX and social and behavioral sciences collaborate to improve the pub
 
 Each group asks a different but important question. By combining these disciplines, you can develop a great product.
 
-Keep up with all that’s happening in government customer experience by [joining the CX Community]({{< ref "customer-experience.md" >}}) and by [viewing our government customer experience playlist of on-demand training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW).
+Keep up with all that’s happening in government customer experience by [joining the CX Community](https://digital.gov/communities/customer-experience/) and by [viewing our government customer experience playlist of on-demand training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW).

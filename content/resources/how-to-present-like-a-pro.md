@@ -3,10 +3,11 @@ date: 2021-03-25 12:09:00 -0500
 title: How to Present Like a Pro
 deck: Presenting and Instructing via Streaming Video Using TV Pros’ Techniques
 summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares her tips and tricks for presenting virtually.
+
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
-  - plain-language
+  - customer-experience
+  - presentations
   - audio-video
   - professional-development
   - video
@@ -14,12 +15,15 @@ topics:
 authors:
   - wendy-wagner-smith
   - katherine-spivey
+
 slug: how-to-present-like-a-pro
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
 
 When you are presenting on streaming video, you are essentially doing the same thing as a television news anchor. Try these common methods that television presenters use daily to improve your presentation skills in the “zoom” era:

@@ -21,6 +21,7 @@ end_date: 2019-11-08 14:30:00 -0500
 topics: 
   - agile
   - project-management
+  - software-engineering
   - agile-lean-community-of-practice
   - scrum
 

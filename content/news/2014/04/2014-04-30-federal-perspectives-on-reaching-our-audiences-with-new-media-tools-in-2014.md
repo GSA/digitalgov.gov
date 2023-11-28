@@ -9,7 +9,6 @@ topics:
   - product-management
   - mobile
   - social-media
-  - National Institute of Allergy and Infectious Diseases
   - social-media
   - white-house
 ---

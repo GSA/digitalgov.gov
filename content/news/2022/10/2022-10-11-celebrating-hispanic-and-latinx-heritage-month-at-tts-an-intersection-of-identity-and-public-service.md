@@ -7,7 +7,7 @@ summary: "In this blog, six Technology Transformation Services (TTS) employees s
 # See all topics at https://digital.gov/topics
 topics:
   - tts
-  - diversity-equity-inclusion-accessibility-deia
+  - diversity-equity-and-inclusion
 
 # See all authors at https://digital.gov/authors
 authors:

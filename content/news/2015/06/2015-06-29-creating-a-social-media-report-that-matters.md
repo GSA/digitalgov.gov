@@ -12,7 +12,6 @@ topics:
   - data
   - data-visualization
   - infographic
-  - national-institute-of-justice
   - social-media-metrics
 ---
 

@@ -9,7 +9,7 @@ topics:
   - content
   - product-management
   - ANLE
-  - cx
+  - customer-experience
   - GobiernoUSAgov
   - LEP
   - multilingual

@@ -18,15 +18,12 @@ topics:
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
   - blockchain
-  - cx
-  - customer-experience-community-of-practice
+  - customer-experience
   - customer-service
-  - cx
   - Human Resources
   - infrastructure
   - innovation
   - internet-of-things
-  - skills
   - virtual-reality
   - virtual-augmented-reality-community
 ---

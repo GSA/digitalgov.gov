@@ -28,9 +28,13 @@ authors:
   - mari-nakano
 
 # YouTube ID
-youtube_id: oo774vjqRjk
+youtube_id: 
 
 # Make it better ♥
+
+---
+
+**NOTE**: This event will be held over YouTube LIVE. To ask questions during the event, you will need to [create a YouTube channel (profile)](https://support.google.com/youtube/answer/1646861?hl=en) prior to the event.
 
 ---
 
@@ -56,5 +60,3 @@ Caroline’s diverse background has had her working with nonprofits, city agenci
 Emily is a design strategist with a practice grounded in curiosity and context. She has designed policy solutions for criminal justice reform, supported international open government initiatives through co-design, and collaborated with municipalities to design human-centered approaches to open data. Prior to joining the team at the Civic Service Design Studio, she worked as a service designer for the research and design consulting firm, Reboot where she dabbled between the lines of communications design and service delivery. A Midwestern transplant, Emily graduated from Illinois State University with dual BAs in Graphic Design and Arts Technology and holds an MFA in Design for Social Innovation from the School of Visual Arts.
 
 _The Service Design Studio was founded with support from our partners at Citi Community Development and the Mayor’s Fund to Advance New York City._
-
-**NOTE**: This event will be held over YouTube LIVE. To ask questions during the event, you will need to [create a YouTube channel (profile)](https://support.google.com/youtube/answer/1646861?hl=en) prior to the event.

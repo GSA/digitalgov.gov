@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - 18f
   - api
-  - National Institute of Allergy and Infectious Diseases
   - national-institutes-of-health
   - National Library of Medicine
   - NIAID

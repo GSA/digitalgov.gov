@@ -17,7 +17,6 @@ topics:
   - gsa
   - innovation
   - Office of Products and Programs
-  - OPP
   - social-media
   - socialgov
   - socialgov-community

@@ -10,7 +10,7 @@ topics:
   - product-management
   - innovation
   - OSTP
-  - Twitter
+  - social-media
   - white-house
   - white-house-office-of-science-and-technology-policy
 primary_image: white-house-back-to-the-future-day-2015-social-graphic-cropped

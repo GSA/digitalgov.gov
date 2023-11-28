@@ -8,14 +8,10 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - BLM
-  - instagram
   - NARA
   - national-archives-and-records-administration
   - social-media
-  - The Bureau of Land Management
   - the-content-corner
-  - Twitter
   - UGC
   - white-house
 ---

@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - product-management
-  - cx
+  - customer-experience
   - customer-satisfaction
   - customer-service
   - podcast

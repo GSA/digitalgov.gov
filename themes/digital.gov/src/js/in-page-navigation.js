@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const relatedItems = document.querySelector(".content__related-items");
+  const relatedItems = document.querySelector("[data-related-items]");
   const inPageNav = document.querySelector(".usa-in-page-nav__nav");
   const inPageNavHeader = document.querySelector(".usa-in-page-nav__heading");
   const navItems = document.querySelectorAll(

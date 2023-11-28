@@ -15,7 +15,7 @@ topics:
   - video
   - communities
   - content
-  - digital-audio-video-community
+  - multimedia
   - video
 ---
 

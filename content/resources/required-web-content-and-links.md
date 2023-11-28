@@ -14,7 +14,7 @@ topics:
   - governance
   - content
   - content-strategy
-  - cx
+  - customer-experience
   - user-experience
 
 weight: 2
@@ -119,7 +119,7 @@ The accessibility statement should, at a minimum, include:
 - date of the last update, and
 - the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.
 
-Sample and best-in-practice accessibility statements can be found at [Section508.gov](https://www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/tools/playbooks/exec-guide-accessibility).
+Sample and best-in-practice accessibility statements can be found at [Section508.gov](https://www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies/#accessibility-statements), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/manage/playbooks/exec-guide-accessibility/#policy).
 
 {{< box >}}
 

@@ -13,8 +13,6 @@ topics:
   - challenges-and-prize-competitions
   - data-visualization
   - DOJ
-  - national-institute-of-justice
-  - NIJ
   - open-data
   - us-department-of-justice
 ---

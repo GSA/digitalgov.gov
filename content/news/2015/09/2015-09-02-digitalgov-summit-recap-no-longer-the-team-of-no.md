@@ -7,7 +7,7 @@ summary: "During a panel discussion at the second annual DigitalGov Citizen Serv
 authors:
   - andreanocesigritz
 topics:
-  - cx
+  - customer-experience
   - our-work
   - digitalgov-summit
 

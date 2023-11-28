@@ -14,7 +14,7 @@ topics:
   - policy
   - api
   - Census
-  - cx
+  - customer-experience
   - DOL
   - innovation
   - mobile

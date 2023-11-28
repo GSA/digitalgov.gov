@@ -26,7 +26,7 @@ topics:
   - product-management
   - cloud
   - cloud-gov
-  - fitara
+  - budgeting-and-performance
   - gsa
   - infrastructure
   - tts

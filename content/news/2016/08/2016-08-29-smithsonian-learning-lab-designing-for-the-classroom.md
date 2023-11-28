@@ -11,8 +11,6 @@ topics:
   - user-testing-and-research
   - content
   - prototype
-  - SCLDA
-  - Smithsonian Center for Learning and Digital Access
   - smithsonian-institution
   - user-centered-design
   - user-experience

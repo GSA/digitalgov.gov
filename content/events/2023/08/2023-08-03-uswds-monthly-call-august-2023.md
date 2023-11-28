@@ -57,7 +57,7 @@ We'll be leaving time for Q&A at the end so stick around!
 
 **Slide 4:** So let's jump into it with a nice site launch.
 
-**Slide 5:** This month we're looking at a new site launch from NASA, [gcn.nasa.gov](gcn.nasa.gov), a new site for NASA’s General Coordinates Network. Once known as the Gamma-Ray Coordinates Network, GCN distributes alerts between space- and ground-based observatories, physics experiments, and thousands of astronomers around the world — sharing real-time observations, discoveries, and follow-up of gamma-ray bursts, gravitational-wave compact binary mergers, and high-energy neutrinos. If a star goes supernova, you'll hear about it on GCN.
+**Slide 5:** This month we're looking at a new site launch from NASA, [gcn.nasa.gov](https://gcn.nasa.gov/), a new site for NASA’s General Coordinates Network. Once known as the Gamma-Ray Coordinates Network, GCN distributes alerts between space- and ground-based observatories, physics experiments, and thousands of astronomers around the world — sharing real-time observations, discoveries, and follow-up of gamma-ray bursts, gravitational-wave compact binary mergers, and high-energy neutrinos. If a star goes supernova, you'll hear about it on GCN.
 
 The GCN homepage features a simple black header with the NASA logo, a hero section with a diagram of relationships between observatories, experiments, and astronomers, and the words GCN: NASA's Time-Domain and Multimessenger Alert System.
 

@@ -169,3 +169,22 @@
   padding: units(7);
   text-align: center;
 }
+
+// topics page card-legislation
+.dg-card-legislation {
+  .usa-card-group {
+    margin: 0;
+
+    .usa-card__img {
+      background-color: white;
+    }
+
+    .usa-card__heading {
+      @include u-font("sans", "md");
+    }
+
+    img {
+      object-fit: contain;
+    }
+  }
+}

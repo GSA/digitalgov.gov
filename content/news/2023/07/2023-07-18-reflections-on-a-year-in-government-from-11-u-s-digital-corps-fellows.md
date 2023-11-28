@@ -10,7 +10,7 @@ topics:
   - professional-development
   - innovation
   - design
-  - cx
+  - customer-experience
   - user-experience
   - data
 

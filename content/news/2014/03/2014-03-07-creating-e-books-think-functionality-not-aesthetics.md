@@ -12,7 +12,6 @@ topics:
   - design
   - mobile
   - writing
-  - consumer-action-handbook
   - usagov
 
 ---

@@ -12,7 +12,6 @@ topics:
   - data
   - data-visualization
   - social-media
-  - Twitter
   - united-states-geological-survey
   - USGS
 ---

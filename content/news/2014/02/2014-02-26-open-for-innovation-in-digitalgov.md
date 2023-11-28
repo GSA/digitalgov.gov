@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - our-work
-  - cx
+  - customer-experience
   - innovation
 ---
 

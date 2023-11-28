@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - nasa
   - the-content-corner
-  - Twitter
+  - social-media
 ---
 
 {{< legacy-img src="2015/03/600-x-434-Calendar-with-magnifying-glass-Violka08-iStock-Thinkstock-GettyImages_184629674.jpg" alt="Calendar with magnifying glass" caption="" >}} 

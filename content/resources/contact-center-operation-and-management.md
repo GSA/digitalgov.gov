@@ -2,9 +2,14 @@
 slug: contact-center-guidelines/contact-center-operation-and-management
 date: 2014-02-05 10:36:45 -0400
 title: "Contact Center Operation and Management"
-summary: "Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance. Control Contact Center Costs Monitor Quality Avoid Fraudulent Pay Phone Calls Call Calibration IVR Call Flow Basics Disaster Planning and"
+summary: "Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance."
+
+authors:
+  - tonya-beres
+
 topics:
   - contact-centers
+
 ---
 
 Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.
@@ -32,7 +37,7 @@ Without this strategic reassessment, cost control efforts may end up at odds wit
 
 Also assess overall cross-cutting measures to find overall cost and operational efficiencies throughout your agency, instead of focusing only on specific improvements to the contact center.
 
-After this assessment, you can identify potential cost reduction areas, select and prioritize target activities, and implement actions to achieve the reductions. Check out these [Contact Center Lean and Mean Cost Reduction Strategies](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/contact-center-lean-and-mean-cost-reduction-strategies.pdf) (PDF, 43 KB, 6 pages, October 2009).
+After this assessment, you can identify potential cost reduction areas, select and prioritize target activities, and implement actions to achieve the reductions. Check out these [Contact Center Lean and Mean Cost Reduction Strategies (PDF, 43 KB, 6 pages, October 2009)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/contact-center-lean-and-mean-cost-reduction-strategies.pdf).
 
 ### Four Major Contact Center Cost Drivers
 
@@ -60,10 +65,10 @@ Pay attention to the per-call charge levied by the toll-free telephone service p
 
 Quality monitoring allows you to observe an agent’s phone calls, email and web chats, and score those interactions against an agreed-upon definition of great customer interaction. The quality monitoring lifecycle is about process improvement and involves the following steps:
 
-- The lifecycle begins during hiring and training, when a prospective agent’s performance is monitored and evaluated to identify weaknesses and skills gaps.
-- After training is successfully completed, the agent begins handling customer interactions and is monitored regularly to identify issues and performance gaps. Distinguish between deficient agent performance and deficiencies in the elements being evaluated or in the service process.
-- Evaluate agent performance against established standards and for any performance that merits action, note, record, and refer to the responsible component (HR, QA, Training, etc.). Ensure the agent gets both positive and negative feedback to improve their performance. Provide ongoing training and coaching. Repeat this process continuously throughout the agent’s tenure.
-- Process and system improvement issues, as well as needed training curriculum revisions, are often identified through monitoring sessions. These issues are fed back to the responsible component for action.
+1. The lifecycle begins during hiring and training, when a prospective agent’s performance is monitored and evaluated to identify weaknesses and skills gaps.
+2. After training is successfully completed, the agent begins handling customer interactions and is monitored regularly to identify issues and performance gaps. Distinguish between deficient agent performance and deficiencies in the elements being evaluated or in the service process.
+3. Evaluate agent performance against established standards and for any performance that merits action, note, record, and refer to the responsible component (HR, QA, Training, etc.). Ensure the agent gets both positive and negative feedback to improve their performance. Provide ongoing training and coaching. Repeat this process continuously throughout the agent’s tenure.
+4. Process and system improvement issues, as well as needed training curriculum revisions, are often identified through monitoring sessions. These issues are fed back to the responsible component for action.
 
 Traditional quality monitoring involves reviewing a random sample of interactions, assessing them for general quality standards, and then generating monthly reports based on average scores. Most contact centers only evaluate a very small percentage of their calls this way. Quality monitoring tools will increase the efficiency of these evaluation processes by reducing the administrative effort in recording agent interactions by storing, analyzing, and scoring the interactions for quality.
 Some quality monitoring solutions combine call–recording functionality with performance management, speech analytics and e-learning capabilities to address skills gaps. These tools help formalize and add substance to quality transactions and make the quality-monitoring process more efficient and effective.
@@ -72,15 +77,15 @@ The lifecycle begins during hiring and training, when a prospective agent’s pe
 
 ### Nine Steps to Effective Quality Monitoring
 
-- Identifying the key performance criteria that result in successful interactions.
-- Selecting and defining measurable attributes that support each of the criteria.
-- Determining the weight for each criterion in the total call score.
-- Selecting the scoring method for each criterion and creating a uniform monitoring form that will be used by all.
-- Defining the monitoring process and performance benchmarks.
-- Training all contact center members (both quality monitors and agents) about the performance criteria and benchmarks.
-- Conducting trial monitoring sessions to work out any bugs before you begin live monitoring.
-- Recording results of the monitoring sessions and producing reports showing performance trends by individual agent and the whole team.
-- Integrating calibration into the quality monitoring process.
+1. Identifying the key performance criteria that result in successful interactions.
+2. Selecting and defining measurable attributes that support each of the criteria.
+3. Determining the weight for each criterion in the total call score.
+4. Selecting the scoring method for each criterion and creating a uniform monitoring form that will be used by all.
+5. Defining the monitoring process and performance benchmarks.
+6. Training all contact center members (both quality monitors and agents) about the performance criteria and benchmarks.
+7. Conducting trial monitoring sessions to work out any bugs before you begin live monitoring.
+8. Recording results of the monitoring sessions and producing reports showing performance trends by individual agent and the whole team.
+9. Integrating calibration into the quality monitoring process.
 
 ## Avoid Fraudulent Pay Phone Calls {#avoid}
 
@@ -90,7 +95,7 @@ According to Federal Communications Commission (FCC) regulations, owners of pay 
 
 However, this practice can create opportunities for fraud. Pay phone owners can attach automated equipment to registered pay phone lines to make repeated, short calls to toll-free numbers, and collect 50 to 75 cents per call in “dial around compensation” fees.
 
-As a result of an investigation conducted by the General Services Administration, Office of Inspector General, and the Internal Revenue Service, Criminal Investigation Division, the Department of Justice charged two individuals in Wisconsin for participating in such a [pay phone compensation fraud scheme](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/contact-center-pay-phone-fraud-scheme.pdf) (PDF, 65 KB, 2 pages, April 2011).
+As a result of an investigation conducted by the General Services Administration, Office of Inspector General, and the Internal Revenue Service, Criminal Investigation Division, the Department of Justice charged two individuals in Wisconsin for participating in such a [pay phone compensation fraud scheme (PDF, 65 KB, 2 pages, April 2011)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/contact-center-pay-phone-fraud-scheme.pdf).
 
 ### How To Identify and Prevent Fraudulent Calls
 

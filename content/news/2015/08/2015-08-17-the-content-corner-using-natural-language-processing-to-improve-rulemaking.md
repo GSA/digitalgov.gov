@@ -14,7 +14,7 @@ topics:
   - FCC
   - federal-communications-commission
   - HHS
-  - natural language generation
+  - artificial-intelligence
   - open-government
   - structured-content
   - the-content-corner

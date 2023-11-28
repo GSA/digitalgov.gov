@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - user-experience
-  - cx
+  - customer-experience
   - design
   - content
   - plain-language

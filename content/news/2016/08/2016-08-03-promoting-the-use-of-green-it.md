@@ -9,9 +9,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - Federal Information Technology Acquisition Reform Act
-  - FITARA
-  - green IT
+  - budgeting-and-performance
   - Office of Management and Budget
   - OMB
 ---

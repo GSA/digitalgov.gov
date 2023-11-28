@@ -28,7 +28,7 @@ authors:
   - mina-hanna
 
 # YouTube ID
-youtube_id: 8b2i7H63rzc
+youtube_id: 
 
 # Make it better ♥
 ---

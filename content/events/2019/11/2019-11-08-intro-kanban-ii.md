@@ -20,6 +20,7 @@ end_date: 2019-11-14 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - agile
+  - software-engineering
   - agile-lean-community-of-practice
   - kanban
   - project-management

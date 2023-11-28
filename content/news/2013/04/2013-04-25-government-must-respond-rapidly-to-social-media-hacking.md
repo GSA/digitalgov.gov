@@ -10,7 +10,6 @@ topics:
   - security
   - social-media
   - socialgov
-  - Twitter
 ---
 
 <p>
