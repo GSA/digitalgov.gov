@@ -6,7 +6,7 @@ summary: "How to contact the Digital.gov team."
 
 **Digital.gov** is made up of a cross-functional team of writers, editors, strategists, technologists, and designers who all work at the Technology Transformation Services (TTS) at the General Services Administration (GSA).
 
-:envelope: **Questions or feedback?** send an email to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
+:envelope: **Questions or feedback?** Send an email to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 
 :video_camera: For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
