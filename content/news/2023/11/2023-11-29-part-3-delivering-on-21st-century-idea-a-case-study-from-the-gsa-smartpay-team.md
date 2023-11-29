@@ -1,5 +1,5 @@
 ---
-date: 2023-11-29 23:54:00 -0500
+date: 2023-11-29 08:04:00 -0500
 title: "Delivering on 21st Century IDEA: A case study from the GSA SmartPay team (Part 3)"
 summary: "A GSA SmartPay product owner shares her experience designing user-centered, accessible content for multiple audiences."
 
@@ -92,3 +92,7 @@ _**Ryan Johnson**: Do you have advice for other government programs who want to 
 _**Ryan Johnson**: The new GSA SmartPay websites launched in early October. How’s it going so far?_
 
 **Rebekah Perillo**: So far, so good! It’s been very boring—we haven’t discovered many bugs or had significant complaints from users—which is the biggest compliment to the team. Customers seem to be happy! They’re able to access content and training to do their jobs. And, now that the MVP (minimum viable product) is launched, we’re focusing on how to build the websites to further meet user needs.
+
+---
+
+*For more information about the GSA SmartPay project, please visit [part 1](https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and [part 2](https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/).*
