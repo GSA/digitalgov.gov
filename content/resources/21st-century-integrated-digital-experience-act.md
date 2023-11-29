@@ -502,20 +502,20 @@ Within `90 days` of issuance (originally due December 23, 2023; deadline extende
 
 ### Action 3. Identify and assess top websites 
 
-Within `180 days` of issuance; additional details and instructions are forthcoming (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
-Within `180 days` of issuance; additional details and instructions are forthcoming (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance; (due March 20, 2024; additional details and instructions are forthcoming)
 
 
 ### Action 5. Assess top tasks for self-service optimization
 
-Within `180 days` of issuance; additional details and instructions are forthcoming (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
 
 ### Action 6. Inventory public services
 
-Within `180 days` of the launch of the Federal Services Index; additional details and instructions are forthcoming (date to be determined; additional details and instructions are forthcoming)
+Within `180 days` of the launch of the Federal Services Index (date to be determined; additional details and instructions are forthcoming)
 
 
 {{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, [view the full policy guidance as a web page](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/).*
