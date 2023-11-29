@@ -113,3 +113,7 @@ In the end, the GSA SmartPay team launched three websites that embody the spirit
 
 * **NASA** – *Tracy Hall, Benjamin Jensen, Godfrey Sauti, and Emilie Siochi*
 * **GSA** – *Andrew Lee, Rebekah Perillo, Erin VanDagna, Tri Thai, David Shea, Rosalind Cherry, Bo Berlas, Arpan Patel, Jessica Marine, Mark Meyer, Wei Wang, Jeff Fredrickson, Ryan Johnson, Kristen Lohman, Jenn Noinaj, Ashley Owens, and Mel Choyce*
+
+---
+
+*For more information about the GSA SmartPay project, please visit [part 2](https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and [part 3](https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/).*
