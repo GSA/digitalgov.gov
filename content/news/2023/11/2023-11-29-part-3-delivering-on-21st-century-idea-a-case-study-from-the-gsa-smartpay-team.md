@@ -31,7 +31,7 @@ weight: 1
 
 {{< box >}}*This is Part 3 in a three-part series with the U.S. General Service Administration (GSA) Center for Charge Card Management (CCCM) about building their new, open-source [program](http://smartpay.gsa.gov) and [training](http://training.smartpay.gsa.gov) websites, and the new [Section 889](https://889.smartpay.gsa.gov/) web app.*
 
-*For this post, Ryan Johnson, a content strategist on the [GSA Service Delivery](https://github.com/GSA/service-delivery) team, chatted with product owner, Rebekah Perillo. Rebekah is a lead business management analyst with CCCM.*{{< /box >}}
+*For this post, Ryan Johnson, a content strategist on the GSA Service Delivery team, chatted with product owner, Rebekah Perillo. Rebekah is a lead business management analyst with CCCM.*{{< /box >}}
 
 {{< img src="three-gsa-smartpay-screens-part-3" >}}
 
@@ -43,7 +43,7 @@ _**Ryan Johnson**: Can you tell us about your role at the Center for Charge Card
 
 **Rebekah Perillo**: I serve as a Team Lead on the communications side of the house within the Center for Charge Card Management (CCCM). My colleagues and I work on tasks involving customer outreach, social media, training (including our yearly forum), and our websites. Several months into the website project, I was pulled in to help vet, reduce, and standardize content for the new program and training websites. When they approached me, little did I know or understand what that involved.
 
-_**Ryan Johnson**: When you joined the website projects, our team (Service Delivery) had completed a content audit of the main GSA SmartPay website. What were your initial thoughts about the content audit?_
+_**Ryan Johnson**: When you joined the website projects, our team ([Service Delivery](https://github.com/GSA/service-delivery)) had completed a content audit of the main GSA SmartPay website. What were your initial thoughts about the content audit?_
 
 **Rebekah Perillo**: First, I was amazed by the sheer amount of content that was residing on the program website. There were over 500 pages, PDFs, and spreadsheet reports. That’s a lot of content! Second, the corresponding [analytics](https://digital.gov/topics/analytics) showed that most of that content really wasn’t being viewed by users. By examining the results of the content audit, it started to tell the story of the current state of our website and where we needed to go.
 
