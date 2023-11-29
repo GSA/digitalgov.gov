@@ -144,6 +144,6 @@ Also, the ability to work through different needs and prioritize. When everythin
 
 **Andrew Lee**: Thank you for having me! I was fortunate to be part of an amazing, patient, and collaborative team with incredibly supportive management and leadership. It was a very busy but rewarding process, and I am happy to have shared my experiences as someone new to agile product ownership.
 
-- - -
+---
 
 *For more information about the GSA SmartPay project, please visit [part 1](https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and part 3.*
