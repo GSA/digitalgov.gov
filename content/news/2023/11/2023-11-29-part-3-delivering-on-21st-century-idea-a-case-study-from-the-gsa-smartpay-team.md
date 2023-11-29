@@ -20,7 +20,7 @@ authors:
 
 slug: part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team
 
-primary_image: three-gsa-smartpay-screens-part-2
+primary_image: three-gsa-smartpay-screens-part-3
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -32,6 +32,8 @@ weight: 1
 {{< box >}}*This is Part 3 in a three-part series with the U.S. General Service Administration (GSA) Center for Charge Card Management (CCCM) about building their new, open-source [program](http://smartpay.gsa.gov) and [training](http://training.smartpay.gsa.gov) websites, and the new [Section 889](https://889.smartpay.gsa.gov/) web app.*
 
 *For this post, Ryan Johnson, a content strategist on the [GSA Service Delivery](https://github.com/GSA/service-delivery) team, chatted with product owner, Rebekah Perillo. Rebekah is a lead business management analyst with CCCM.*{{< /box >}}
+
+{{< img src="three-gsa-smartpay-screens-part-3" >}}
 
 _**Ryan Johnson**: Hi Rebekah! Thank you for joining me to talk about our work together to modernize GSA SmartPay’s websites._
 
