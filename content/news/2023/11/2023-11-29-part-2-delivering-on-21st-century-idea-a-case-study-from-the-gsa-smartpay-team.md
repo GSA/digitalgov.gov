@@ -32,6 +32,8 @@ weight: 1
 
 *For this post, Jessica Marine, a product manager on the GSA Service Delivery team, chatted with product owner, Andrew Lee. Andrew is a business management specialist with CCCM.*{{< /box >}}
 
+{{< img src="three-gsa-smartpay-screens-part-2" >}}
+
 ***Jessica Marine**: So, thanks for taking the time to chat with us, Andrew. Let’s jump right in. How did you find yourself in the role of product owner at CCCM to lead the GSA SmartPay modernization effort?*
 
 **Andrew Lee**: I’ve been a project manager for more than a decade. I worked on non-technology projects such as acquisitions and policy development. Since joining the GSA SmartPay team, I’ve had several different roles, including the project lead and contracting officer’s representative for the GSA SmartPay website. I had never led a technology project before, and it was like a new world.
