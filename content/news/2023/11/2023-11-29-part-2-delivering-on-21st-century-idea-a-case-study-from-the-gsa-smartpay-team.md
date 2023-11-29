@@ -148,4 +148,4 @@ Also, the ability to work through different needs and prioritize. When everythin
 
 ---
 
-*For more information about the GSA SmartPay project, please visit [part 1](https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and part 3.*
+*For more information about the GSA SmartPay project, please visit [part 1](https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and [part 3](https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/).*
