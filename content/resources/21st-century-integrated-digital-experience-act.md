@@ -486,7 +486,7 @@ For questions on reporting actions, please email the Office of the Federal CIO a
 
 ### Action 1. Identify digital experience delivery lead
 
-Within `30 days` of issuance
+Within `30 days` of issuance (due October 22, 2023; submit overdue information as soon as possible)
 
 - **Purpose:** Each agency must identify a single lead. This lead will be responsible for communicating information to the relevant stakeholders across the agency, providing requested information to OMB, engaging with other agencies to share best practices for implementation, and overseeing delivery of the requirements and recommendations of this memorandum. Once designated, leads from larger agencies may work with OMB to designate secondary points of contact for agency subcomponents, but the overall lead will remain responsible for the above.
 
@@ -494,23 +494,28 @@ Within `30 days` of issuance
 
 ### Action 2. Identify public-facing websites
 
-Within `90 days` of issuance; additional details and instructions are forthcoming.
+Within `90 days` of issuance (originally due December 23, 2023; deadline extended to January 19, 2024)
 
-### Action 3. Identify and assess top websites
+**Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
 
-Within `180 days` of issuance; additional details and instructions are forthcoming.
+**Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
+
+### Action 3. Identify and assess top websites 
+
+Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
-Within `180 days` of issuance; additional details and instructions are forthcoming.
+Within `180 days` of issuance; (due March 20, 2024; additional details and instructions are forthcoming)
+
 
 ### Action 5. Assess top tasks for self-service optimization
 
-Within `180 days` of issuance; additional details and instructions are forthcoming.
+Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
 
 ### Action 6. Inventory public services
 
-Within `180 days` of the launch of the Federal Services Index; additional details and instructions are forthcoming.
+Within `180 days` of the launch of the Federal Services Index (date to be determined; additional details and instructions are forthcoming)
 
 
 {{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, [view the full policy guidance as a web page](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/).*
