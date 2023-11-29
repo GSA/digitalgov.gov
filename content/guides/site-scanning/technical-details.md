@@ -39,10 +39,11 @@ The Site Scanning program maintains a number of automated processes that, togeth
 
 - Other useful information
   - [Schedule for the above processes is the schedule](https://github.com/GSA/site-scanning-documentation/blob/main/pages/schedule.md) for the above, automated processes.
-  - [Description of how the list of websites is filtered down at each step](https://github.com/GSA/site-scanning-documentation/blob/main/pages/index_narrowing_steps.md)
+  - [Description of how the list of websites is filtered down at each step](https://github.com/GSA/site-scanning-documentation/blob/main/pages/index_narrowing_steps.md).
   - [Sample dataset that represents different edge cases](https://github.com/GSA/site-scanning-documentation/blob/main/data/Representative_Sample_Dataset.csv).
   - [List of proposed but not yet built scans](https://github.com/GSA/site-scanning-documentation/blob/main/pages/candidate-scans.md).
   - [Archive of historical snapshots](https://github.com/GSA/site-scanning-snapshots/tree/main/snapshots).
+  - [Examples of each snapshot, uploaded to Google Sheets](https://docs.google.com/spreadsheets/d/1eZS7-9i_s4z1ZpsDxkLlGfdyjVz4M7_eFq28PXK8AK0/edit#gid=1451048475)
   - [Description of the federal web presence](https://github.com/GSA/federal-website-index/blob/main/criteria/federal-web-presence.md)
   - [Program issue tracker](https://github.com/GSA/site-scanning/issues).
   - [Program website](https://digital.gov/site-scanning/).
