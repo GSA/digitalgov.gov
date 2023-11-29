@@ -23,12 +23,11 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://digital.gov/resources/customer-experience-toolkit/"
+  - link: "https://digital.gov/resources/customer-experience-toolkit/"
 
 # Featured community to display at the top of the page
 featured_communities:
   - "user-experience"
-  - "[Customer Experience Community](https://coe.gsa.gov/communities/cx.html)
 
 # Curated list of content, can be internal or external links
 featured_links:
