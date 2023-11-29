@@ -1,5 +1,5 @@
 ---
-date: 2023-11-28 22:46:00 -0500
+date: 2023-11-29 08:02:00 -0500
 title: "Delivering on 21st Century IDEA: A case study from the GSA SmartPay team (Part 2)"
 summary: "A GSA SmartPay product owner shares his experiences as a first-time product owner in a government agile development project."
 
