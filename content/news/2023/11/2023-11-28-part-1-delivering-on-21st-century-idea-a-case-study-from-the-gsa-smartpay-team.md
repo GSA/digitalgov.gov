@@ -116,4 +116,4 @@ In the end, the GSA SmartPay team launched three websites that embody the spirit
 
 ---
 
-*For more information about the GSA SmartPay project, please visit [part 2](https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and [part 3](https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/).*
+*Read [part 2](https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and [part 3](https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) for more information about the GSA SmartPay project.*
