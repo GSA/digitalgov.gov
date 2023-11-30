@@ -10,9 +10,7 @@ authors:
 
 topics:
   - accessibility
-  - section-508
   - software-engineering
-  - content
   - content-strategy
   - design
 
@@ -24,7 +22,7 @@ featured_image:
 
 In January 2017, the [U.S. Access Board](https://www.access-board.gov/) published a [final rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) updating information technology (IT)accessibility requirements covered by Section 508 of the [Rehabilitation Act of 1973](https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973), which includes IT that is developed, procured, maintained, or used by federal agencies. The Rehabilitation Act is a federal law which requires programs and activities funded by federal agencies to be accessible to people with disabilities, including federal employees and members of the public. [Here’s a recap of the changes](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule).
 
-Compliance with the [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) is also a requirement of [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06). They went into effect on January 18, 2018. [Watch this video, New Requirements: Section 508 Refresh, to learn more](https://www.youtube.com/watch?v%3DKw4jEGmaXbw).
+The [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) went into effect on January 18, 2018. [Watch this video, New Requirements: Section 508 Refresh, to learn more](https://www.youtube.com/watch?v%3DKw4jEGmaXbw).
 
 {{< youtube Kw4jEGmaXbw >}}
 
@@ -73,4 +71,4 @@ These tools will help your agency comply with the management responsibilities th
 
 _If you need help, connect with your [Agency Section 508 Coordinator](https://www.section508.gov/508-coordinator-listing)._
 
-_[GSA’s Office of Government-wide Policy (OGP)](https://www.gsa.gov/about-us/organization/office-of-governmentwide-policy/information-integrity-and-access) provides technical assistance to help federal agencies implement accessible IT policies and programs. [Contact us by email](mailto:section.508@gsa.gov) with questions._
+_[GSA’s Office of Government-wide Policy (OGP)](https://www.gsa.gov/about-us/organization/office-of-governmentwide-policy/information-integrity-and-access) provides technical assistance to help federal agencies implement accessible IT policies and programs. [Contact them by email](mailto:section.508@gsa.gov) with questions._
