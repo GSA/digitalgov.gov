@@ -10,7 +10,7 @@ aliases:
   - /guide/dap/add-your-site-dap/
 ---
 
-**DAP is required:** On September 22, 2023, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
+**DAP is required:** On September 22, 2023, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience), which requires federal agencies to implement the DAP JavaScript code on all public-facing federal websites. 
 
 {{< card-policy src="https://digital.gov/resources/delivering-digital-first-public-experience" kicker="Policy" title="**OMB M-23-22**: Delivering a Digital-First Public Experience" >}}
 
