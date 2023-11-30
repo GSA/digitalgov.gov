@@ -36,13 +36,11 @@ layout: single
 **DAP is required:**
 On September 22, 2023, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience), which requires executive branch federal agencies to implement the DAP JavaScript code on all public facing federal websites.
 
-{{< card-policy src="https://digital.gov/resources/delivering-digital-first-public-experience" kicker="Policy" title="**OMB M-23-22**: Delivering a Digital-First Public Experience" >}}
-
 **2. Use Analytics and User Feedback to Manage Websites and Digital Services**
 
 All public facing websites and digital services should be designed around user needs with data driven analysis influencing management and development decisions. Agencies should use qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test websites and digital services to ensure that user needs are addressed.
 
-- A. {{< highlight >}}All agencies must participate in the General Service Administration’s (GSA) Digital Analytics Program (DAP) and deploy the DAP tracking code on all public facing agency websites.{{< /highlight >}} The DAP provides agencies with free quantitative analytics to inform website management. Participation in the DAP does not preclude agencies from using other analytics programs.
+- A. {{< highlight >}}All agencies must participate in the General Service Administration’s (GSA) Digital Analytics Program (DAP) and deploy the DAP tracking code on all public-facing agency websites.{{< /highlight >}} The DAP provides agencies with free quantitative analytics to inform website management. Participation in the DAP does not preclude agencies from using other analytics programs.
 - B. GSA will maintain a public listing of the domains participating in the DAP and track agency compliance on the DotGov Dashboard.{{< /card-policy >}}
 
 ## We Provide Insights Across Agencies
