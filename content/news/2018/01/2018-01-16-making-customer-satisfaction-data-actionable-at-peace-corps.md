@@ -8,17 +8,11 @@ authors:
   - chris-rottler
 
 topics:
-  - data
-  - metrics
   - strategy
-  - policy
   - design
-  - user-testing-and-research
-  - metrics
+  - user-research
   - analytics
-  - data
   - customer-experience
-  - customer-service
 
 featured_image:
   uid: peace-corps
@@ -32,7 +26,7 @@ For the past couple of years, the [Peace Corps](https://www.peacecorps.gov/) has
 
 In order to get more out of the user satisfaction data, we developed a framework that applies statistical models to the data collected that identify key performance indicators (KPIs) that have the greatest likelihood to increase overall user satisfaction. We hope that this framework will help our team prioritize website changes and enhancements that have the greatest return on investment.
 
-In June 2016, the Peace Corps launched a redesigned website in order to improve user experience and enhance our storytelling capabilities. As part of the project, we began capturing survey data to measure the impact of the redesign on a handful of KPIs pre- and post-launch. We decided to continue to conduct surveys since the launch to monitor user satisfaction over time, and to comply with the Office of Management and Budget’s (OMB) [Memorandum M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06) that encourages use of analytics and user feedback to manage websites and digital services.
+In June 2016, the Peace Corps launched a redesigned website in order to improve user experience and enhance our storytelling capabilities. As part of the project, we began capturing survey data to measure the impact of the redesign on a handful of KPIs pre- and post-launch. We decided to continue to conduct surveys since the launch to monitor user satisfaction over time.
 
 Our main KPIs that are tracked in the survey include overall satisfaction, content comprehension, task completion, likelihood to return to the website, net promoter score, and the primary purpose for the visit (i.e., find volunteer opportunities, learn about the agency, learn about a specific topic, contact an appropriate representative, use a site tool, and other).
 
