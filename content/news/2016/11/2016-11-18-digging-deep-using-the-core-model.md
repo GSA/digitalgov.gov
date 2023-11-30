@@ -11,15 +11,11 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - content-strategy
-  - core
-  - metrics
+  - analytics
   - structured-content
 
 ---
-
-Recently, [OMB](https://www.whitehouse.gov/omb) released M 17-06, [Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06), which provides agencies with [requirements, standards, and best practices for federal websites and digital services](https://digital.gov/resources/). This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the following methodology might just serve as a much needed guide.
 
 Recently, [we interviewed Sara Wachter-Boettcher]({{< ref "2016-10-25-expert-insight-on-content-strategy-and-structure-for-future-ready-content.md" >}}), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. She discussed the concept of using the Core Model to design and structure web content and applications. The Core Model allows an organization to design from the inside out, with the primary focus on the on the core tasks its users need to accomplish.
 
