@@ -13,7 +13,7 @@ aliases:
 ---
 
 {{< box >}}
-**Have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov) and we’ll get back to you.
+**Do you have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov) and they’ll get back to you.
 {{< /box >}}
 
 ---
@@ -85,10 +85,6 @@ A. By logging in and accessing the Digital Analytics Program account, you unders
 
 A. Currently, DAP uses Google Analytics 360 to collect and analyze the Web traffic data.
 
-**Q. Does this tool have to go on all websites? Or just top-level domains?**
-
-A. On September 22, 2023, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience), which requires federal agencies to implement the DAP javascript code on all public facing federal websites. Please see the [Adding Your Site to DAP](https://digital.gov/guides/dap/add-your-site-dap/) page for more information.
-
 **Q. Can the DAP code be implemented with other Google Analytics and/or other web analytics tools?**
 
 A. Yes. The DAP account script tag does not interfere with your existing analytics tools script tags and should not affect any data. The DAP team encourages all participating sites to implement their own web analytics tools in addition to the DAP tool.
@@ -155,7 +151,7 @@ A. No. None of the federal government data tracked as part of the Digital Analyt
 
 A. IP anonymization/masking takes place as soon as data is received by Google Analytics and before any storage or takes place. At no time is the full IP address written to disk as all anonymization happens in memory nearly instantaneously after the request has been received. The full IP address is never written to disk when the anonymization flag is turned on as it is with GSA’s account. [Read more about IP Anonymization in Google Analytics](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2763052). 
 
-**Q. Does my agency need a TOS with Google to use the services provided under GSA’s Digital Analytics Program?**
+**Q. Does my agency need a terms of service with Google to use the services provided under DAP?**
 
 GSA has negotiated a federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics 360, it can use the DAP TOS as a starting point, but will need to sign a separate agreement. Please contact [dap@gsa.gov](mailto:dap@gsa.gov) to request a copy of the terms.
 
