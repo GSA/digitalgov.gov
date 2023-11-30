@@ -16,4 +16,3 @@ This quick reference guide will help you meet Web Content Accessibility Guidelin
 - [Section 508 Standards for Electronic and Information Technology (29 USC § 794d)](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
 - [Section 508 Laws – Section508.gov](http://www.section508.gov/)
 - [Web Content Accessibility Guidelines 2.0 (WCAG 2.0) – W3C](http://www.w3.org/WAI/intro/wcag.php)
-- [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
