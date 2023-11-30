@@ -70,8 +70,6 @@ Have you checked out the [USWDS maturity model](https://designsystem.digital.gov
 
 How is your metrics and analytics program? Are you focused on upgrading to a new version of your analytics service and making more of the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP)? What insights can you take from your data to drive your next steps in improving your site? Who or what might these insights influence?
 
-DAP is [required](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/) on all public-facing federal websites by [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06).
-
 ## Resolution 8. Storytelling and communications
 
 Sometimes we leave our own needs for last, but it can be paramount to communicate with organization leadership what the value of the website or service is, and a future vision. Managing a website or being on a web team might mean more networking and communication across the organization than you might have first imagined. Forming relationships and partnerships across an organization can go a long way to help you succeed with the first seven resolutions. Sometimes your biggest critics can become your biggest advocates. This can take a lot of energy but also have a big payoff. 
