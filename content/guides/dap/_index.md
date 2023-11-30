@@ -20,7 +20,7 @@ layout: single
 
 Agencies should use web analytics to better understand user behavior for the purpose of improving public-facing websites and digital services. 
 
-Federal agencies are required to participate in the Digital Analytics Program (DAP). Learn more about the [requirements for delivering a digital-first public experience](/resources/delivering-digital-first-public-experience/) to understand the policy framework in 21st Century Integrated Digital Experience Act and OMB Memo M-23-22.
+Federal agencies are required to participate in the Digital Analytics Program (DAP). Learn more about the [requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) to understand the policy framework in 21st Century Integrated Digital Experience Act and OMB Memo M-23-22.
 
 DAP offers a web analytics tool, training, and support to federal agencies. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov) (GSA).
 
@@ -31,7 +31,7 @@ Participation in DAP does not preclude you from using other web analytics servic
 - Free web analytics tools for public-facing federal websites that are comprehensive and easy-to-use
 - Scalable infrastructure for measuring a broad range of .gov sites (large and small)
 - Training on analytics tools and reporting
-  - [View upcoming trainings and talks »](/events/)
+  - [View upcoming trainings and talks »](https://digital.gov/events/)
   - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba)
   - Ongoing help-desk support around implementation, data, and reporting
 
