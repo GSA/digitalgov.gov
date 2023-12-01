@@ -13,7 +13,6 @@ This overview provides reference to and legal analysis of court decisions interp
 
 ## Related Resources
 
-- [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
 - [OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services (PDF, 258 KB, 5 pages, June 2015)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-13.pdf)
 - [Requirements for Accepting Externally Issued Identity Credentials (PDF, 166 KB, 4 pages, October 2011)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/egov_docs/ombreqforacceptingexternally_issuedidcred10-6-2011.pdf)
 - [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 130 KB, 9 pages, June 2010)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-22.pdf)
@@ -22,7 +21,3 @@ This overview provides reference to and legal analysis of court decisions interp
 - [OMB Circular A–130, Appendix 1](https://obamawhitehouse.archives.gov/omb/circulars_a130_a130appendix_i)
 - [Children’s Online Privacy Protection Act of 1998 (COPPA)](http://www.ftc.gov/ogc/coppa1.htm)
 - [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
-
----
-
-See more [DigitalGov Resources]({{< ref "/resources" >}})
