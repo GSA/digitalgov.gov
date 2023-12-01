@@ -32,7 +32,7 @@ Agencies rely on customer experience surveys to collect critical feedback about 
 
 The customer experience data we have collected under A-11 resembles an iceberg. The more visible, structured data at the tip of the iceberg can offer insight, but the massive, unstructured data below the surface holds great potential for developing a deeper understanding of customer experiences.
 
-{{< img-right src="nlp-cx-customer-experience-large-iceberg-in-water-simon-lee-unsplash-comp" >}}
+{{< img src="nlp-cx-customer-experience-large-iceberg-in-water-simon-lee-unsplash-comp" >}}
 
 When customers answer survey questions like “Were you satisfied?”, the structured response data helps us gauge whether we are providing an effective service. But it doesn’t do much to shed light on why that service was effective (or not), or how we can improve that service. Those insights are more likely to exist in the free-text data, where individuals have an opportunity to explain their service experience.
 
