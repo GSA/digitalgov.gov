@@ -1,30 +1,38 @@
 ---
 date: 2023-12-01 11:03:00 -0500
-title: Amplifying customer voices
-deck: A guide to natural language processing (NLP) in customer experience data
-  analysis
-summary: Natural language processing and advanced analytics help gain insights
-  on high-impact service performance and survey design.
+title: "Amplifying customer voices"
+deck: "A guide to natural language processing (NLP) in customer experience data analysis"
+summary: "Natural language processing and advanced analytics help gain insights on high-impact service performance and survey design."
+
 # See all topics at https://digital.gov/topics
 topics:
   - data
   - code
   - product-management
+  - customer-experience
+
 # See all authors at https://digital.gov/authors
 authors:
   - isabel-izzy-metzger
+
 slug: amplifying-customer-voices
+
 primary_image: green-structured-unstructured-data-iceberg-chavapong-prateep-na-thalang-istock-getty-images-1353745656
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Agencies rely on customer experience surveys to collect critical feedback about how their services and products are working for the American people. Some public-facing services across the government have been designated as “high impact” because they have an extensive customer base and/or profound impact on the individuals they serve. OMB [Circular A-11 Section 280](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf) guidance requires [High Impact Service Providers](https://www.performance.gov/cx/hisps/) (HISPs) to collect feedback after each transaction across seven indicator measures of experience. Customers are asked to rate different aspects of their experience on a 5-point scale, ranging from very negative (1) to very positive (5); these ratings generate structured data. The survey design also includes an optional open-ended response allowing customers to describe their experiences in their own words, which creates unstructured data. The A-11 mandate has resulted in a large collection of structured and unstructured data on the performance of high-impact services.
 
 ## Bridging the gap: From structured to unstructured data
 
 The customer experience data we have collected under A-11 resembles an iceberg. The more visible, structured data at the tip of the iceberg can offer insight, but the massive, unstructured data below the surface holds great potential for developing a deeper understanding of customer experiences.
+
+{{< img src="nlp-cx-customer-experience-large-iceberg-in-water-simon-lee-unsplash-comp" >}}
 
 When customers answer survey questions like “Were you satisfied?”, the structured response data helps us gauge whether we are providing an effective service. But it doesn’t do much to shed light on why that service was effective (or not), or how we can improve that service. Those insights are more likely to exist in the free-text data, where individuals have an opportunity to explain their service experience.
 
@@ -51,6 +59,7 @@ Additionally, our analysis uncovered a critical issue with survey design that im
 
 In response to this finding, we propose a survey redesign to accurately capture customer experience. We suggest rephrasing the questions in the following formats:
 
+{{< box >}}
 1. Do you agree or disagree with the following statement:<br />"The information I needed to complete \[service] was easy to find and understand."
 
 * Strongly Agree
@@ -66,6 +75,7 @@ In response to this finding, we propose a survey redesign to accurately capture 
 * 3
 * 4
 * 5 (very easy)
+{{< /box >}}
 
 By clarifying the phrasing of the question and explicitly labeling the rating scale, these questions aim to prevent misunderstandings and improve the quality of the data collected.
 
@@ -77,8 +87,8 @@ As mentioned earlier, GSA’s Analytics and Decision Support Division within the
 
 Highlights from the in-person service deep dive analysis
 
-* Understanding high satisfaction drivers: Customers reported overwhelmingly high satisfaction, with the majority of survey respondents rating the service at 4 or 5. Free-text offered important context because there was a lack of variation in the numerical customer ratings. Sentiment analysis highlighted employee interactions (people factor) and the perceived service quality as the primary drivers behind positive customer experience. Customer free-text responses praised DoL personnel for their helpfulness, dedication, and competence.
-* Efficiency challenges: Despite the high satisfaction ratings, analysis of the free-text responses revealed issues with the speed and efficiency of the service. In particular, customers highlighted delays in the notification process. Additional analysis revealed that certain industry sectors felt these pain points more acutely than others. Based on these findings, we recommended that the service 1) establish clear benchmarks for each stage of the process to identify and address inefficiencies, and 2) notify customers upfront about expected timeframes (particularly if lengthy) to set accurate expectations and alleviate user anxieties.
+* **Understanding high satisfaction drivers**: Customers reported overwhelmingly high satisfaction, with the majority of survey respondents rating the service at 4 or 5. Free-text offered important context because there was a lack of variation in the numerical customer ratings. Sentiment analysis highlighted employee interactions (people factor) and the perceived service quality as the primary drivers behind positive customer experience. Customer free-text responses praised DoL personnel for their helpfulness, dedication, and competence.
+* **Efficiency challenges**: Despite the high satisfaction ratings, analysis of the free-text responses revealed issues with the speed and efficiency of the service. In particular, customers highlighted delays in the notification process. Additional analysis revealed that certain industry sectors felt these pain points more acutely than others. Based on these findings, we recommended that the service 1) establish clear benchmarks for each stage of the process to identify and address inefficiencies, and 2) notify customers upfront about expected timeframes (particularly if lengthy) to set accurate expectations and alleviate user anxieties.
 
 Highlights from the website service deep dive analysis
 
