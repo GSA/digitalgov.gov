@@ -1,5 +1,4 @@
 ---
-url: /quick-reference-to-web-content-accessibility-guidelines-2-0-requirements/
 date: 2015-11-24 10:23:16 -0400
 title: Quick Reference to Web Content Accessibility Guidelines 2.0 requirements
 summary: "This quick reference guide will help you meet Web Content Accessibility Guidelines (WCAG) 2.0. It is a customizable quick reference to the requirements, success criteria and techniques. View Quick Reference Guide to WCAG 2.0 Related Resources Section 508 Standards for Electronic and Information Technology (29 USC &sect; 794d) Section 508 Laws &ndash; Section508.gov Web Content"
@@ -9,7 +8,7 @@ authors:
 
 This quick reference guide will help you meet Web Content Accessibility Guidelines (WCAG) 2.0. It is a customizable quick reference to the requirements, success criteria and techniques.
 
-<a class="button" style="color: #000000" href="http://www.w3.org/WAI/WCAG20/quickref/">View Quick Reference Guide to WCAG 2.0</a>
+{{< button href="http://www.w3.org/WAI/WCAG20/quickref/" text="View Quick Reference Guide to WCAG 2.0" >}}
 
 ## Related Resources
 
