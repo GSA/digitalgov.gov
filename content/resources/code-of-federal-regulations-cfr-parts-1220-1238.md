@@ -18,7 +18,6 @@ Subchapter B of the CFR specifies polices for federal agencies records managemen
 - [NARA guidance for implementing Section 207(e) of the E-Gov Act](http://www.archives.gov/records-mgmt/bulletins/2006/2006-02.html)
 - [NARA guidance on managing web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
 - [NARA Bulletin 2014-02 Guidance on managing social media records](http://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html) (October 2013)
-- [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
 - [E-Government Act of 2002](http://www.archives.gov/about/laws/egov-act-section-207.html) (Section 207)
 
 ---
