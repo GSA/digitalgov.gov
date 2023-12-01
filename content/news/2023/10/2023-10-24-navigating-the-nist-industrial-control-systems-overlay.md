@@ -56,6 +56,8 @@ NIST guidance can often be daunting to digest; the ICS guidebook is nearly 250 p
 
 {{< disclaimer >}}
 
-{{< custom-disclaimer >}}
-  This is text to show the custom disclaimer
-{{< /custom-disclaimer >}}
+
+
+
+
+
