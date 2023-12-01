@@ -2,7 +2,7 @@
 slug: gov-domain-registration-process-final-rule
 date: 2015-12-01 9:17:58 -0400
 title: "GOV Domain Registration Process Final Rule"
-summary: "This final rule provided a new policy for the .GOV domain that will be included in the Federal Management Regulation."
+summary: "This final rule provided a new policy for the .gov domain that will be included in the Federal Management Regulation."
 
 topics:
   - policy
@@ -18,10 +18,4 @@ This final rule provided a new policy for the .GOV domain that will be included 
 
 ## Related Resources
 
-- [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
 - [GOV Domain Name Registration Service](https://www.get.gov)
-- [OMB M-11-24, Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service (PDF, 2 MB, 6 pages, June 2011)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-24.pdf)
-
----
-
-See more [DigitalGov Resources]({{< ref "/resources" >}})
