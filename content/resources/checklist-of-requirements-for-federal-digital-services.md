@@ -4,25 +4,19 @@ date: 2014-01-09 1:20:11 -0400
 title: "Checklist of requirements for federal websites and digital services"
 deck: "The relevant laws, policies, and regulations for federal agencies."
 summary: "Links to relevant laws, policies, and regulations for federal agencies."
-
 authors:
   - rflagg
   - ammie-farraj-feijoo
-
 aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
-
 weight: 2
-
 topics:
   - product-management
   - policy
   - governance
-
 primary_image: "checklist-topics"
-
 ---
 
 {{< note >}}
@@ -34,9 +28,9 @@ You should regularly review your agency's websites and other digital products an
 These high-level policies cover basic requirements for all websites and digital services. Use this {{< asset-static file="go-live-checklist-for-federal-websites-and-digital-services-nov2023.xlsx" label="Requirements and Go-Live Checklist for Federal Public Websites and Digital Services (Excel spreadsheet, 59.4KB, 13 tabs)" >}} to ensure you've addressed all critical requirements. If you have difficulty viewing this file, please [reach out to us](https://digital.gov/about/contact/).
 
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018
-- [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience) 
-- [OMB Circular A-130, Revised, Managing Information as a Strategic Resource (PDF, 550 KB, 85 pages, 7/28/2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf)
-- [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html), May 2012
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
+- [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.federalregister.gov/documents/2016/07/28/2016-17872/revision-of-omb-circular-no-a-130-managing-information-as-a-strategic-resource) (July 28, 2016)
+- [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 - [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 - See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
 - See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist)
@@ -72,9 +66,9 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 Understand customer needs, set performance standards, collect and address customer feedback, and use data to continuously improve your programs.
 
 - [Implementing Performance and Customer Satisfaction Tools](https://max.omb.gov/community/download/attachments/636161243/8_2_DGS_Implementation_Instructions_v_final.docx?version=1&modificationDate=1350935840136)</a> (OMB guidance accessible to federal employees on the OMB MAX wiki)
-- [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf)
-- [OMB M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience)
-   - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government.
+- [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 kb, 9 pages, June 2010)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-22.pdf)
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages, November 2016)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf)
+    - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
 <p class="more">
   <a href="{{< ref "/topics/metrics" >}}">More on Metrics
@@ -299,7 +293,7 @@ Comply with existing laws that prohibit federal public websites from being used 
 Work with your agency Records Officer and follow NARA guidance to establish and maintain inventories, priorities, and records schedules, and regularly delete or archive content that is obsolete and is not required by law or regulation. Create content inventories which identify categories of information (e.g., press releases or publications), not specific documents. Post inventories, priorities, and schedules for posting additional content on the website for comment.
 
 - [OMB M-19-21: Transition of Electronic Records (PDF, 239 KB, 4 pages)](https://www.whitehouse.gov/wp-content/uploads/2019/08/M-19-21-new-2.pdf) (June 28, 2019)
-   - [OMB M-23-07: Update to Transition to Electronic Records (PDF, 325 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022)
+    - [OMB M-23-07: Update to Transition to Electronic Records (PDF, 325 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/12/M_23_07-M-Memo-Electronic-Records_final.pdf) (December 23, 2022)
 - [Code of Federal Regulations (CFR), Parts 1220-1238](https://www.ecfr.gov/current/title-36/chapter-XII/subchapter-B/part-1220)
 - [NARA guidance for implementing Section 207(e) of the E-Gov Act](https://www.archives.gov/records-mgmt/bulletins/2010/2010-02.html)
 - [NARA guidance on managing Web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
