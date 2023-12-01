@@ -11,7 +11,7 @@ authors:
 
 The World Wide Web (WWW) is a system for exchanging information over the Internet. At the most basic level, the Web can be divided into two principal components: Web servers, which are applications that make information available over the Internet (in essence, publish information), and Web browsers (clients), which are used to access and display the information stored on the Web servers. This document focuses on the security issues of Web servers.
 
-<a class="button" style="color: #000000" href="http://csrc.nist.gov/publications/nistpubs/800-44-ver2/SP800-44v2.pdf">Guidelines on Securing Public Web Servers</a><a><br /> </a>
+{{< button href="https://csrc.nist.gov/pubs/sp/800/44/ver2/final" text="Guidelines on Securing Public Web Servers" >}}
 
 ## Related Links
 
