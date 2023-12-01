@@ -11,7 +11,7 @@ authors:
 
 Subchapter B of the CFR specifies polices for federal agencies records management programs relating to proper records creation and maintenance, adequate documentation, and records disposition.
 
-<a class="button" style="color: #000000" href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=194bdc93344a881d5119af1e8f66a2a9&rgn=div5&view=text&node=36:3.0.10.2.10&idno=36">View Code of Federal Regulations (CFR), Parts 1220-1238</a>
+{{< button href="https://www.ecfr.gov/current/title-36/chapter-XII/subchapter-B" text="View Code of Federal Regulations (CFR), Parts 1220-1238" >}}
 
 ## Related Links
 
