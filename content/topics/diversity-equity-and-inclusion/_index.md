@@ -48,5 +48,7 @@ featured_links:
   - title: "Accessibility for Teams"
     summary: "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow."
     href: "https://accessibility.digital.gov"
-
+  - title: "Office of Personnel Management (OPM) | Diversity, Equity, Inclusion, and Accessibility"
+    summary: "Use these strategies and actions to meet your diversity, equity, and inclusion goals."
+    href: "https://www.opm.gov/services-for-agencies/diversity-equity-inclusion-and-accessibility/"
 ---
