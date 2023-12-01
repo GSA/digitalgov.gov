@@ -51,7 +51,7 @@ Before diving into our findings, it's worth specifying the three natural languag
 * **Topic modeling**: This technique automatically identifies the themes or topics that are prevalent in a large collection of texts. In the context of customer feedback, it clusters similar comments together to highlight recurring issues or strengths. For example, if multiple respondents mention phrases like "long wait times" or "slow service," this technique will cluster these together under a broader topic like "Efficiency." It offers a scalable alternative to manual categorization and ensures that no major themes are overlooked. This was incredibly important when analyzing digital services that often capture thousands of survey responses per quarter.
 * **Named entity recognition (NER)**: This technique identifies and classifies named entities such as organizations, persons, dates, and even specialized terms, like programs, within the text. The approach allows us to track mentions of specific entities within the customer feedback.
 
-## Rethinking survey design: The role of sentiment analysis 
+## Rethinking survey design: The role of sentiment analysis
 
 Incorporating program-specific questions into your surveys can significantly enhance the depth and relevance of the insights you gather. Specifically, asking questions about the user can enable a more granular and effective analysis of customer segments and their unique needs. For example, a service that supports the private sector might benefit from asking questions about the user’s specific industry sector. Asking at least one user-type question not only enriches your analysis but helps identify which customer segments are currently well-served and which may be lacking attention.
 
@@ -62,19 +62,19 @@ In response to this finding, we propose a survey redesign to accurately capture 
 {{< box >}}
 1. Do you agree or disagree with the following statement:<br />"The information I needed to complete \[service] was easy to find and understand."
 
-  * Strongly Agree
-  * Agree
-  * Neutral
-  * Disagree
-  * Strongly Disagree
+* Strongly Agree
+* Agree
+* Neutral
+* Disagree
+* Strongly Disagree
 
 2. On a scale of 1-5 (with 1 being very difficult and 5 being very easy), please rate your ease of finding the information you needed to complete \[service].
 
-  * 1 (very difficult)
-  * 2
-  * 3
-  * 4
-  * 5 (very easy)
+* 1 (very difficult)
+* 2
+* 3
+* 4
+* 5 (very easy)
 {{< /box >}}
 
 By clarifying the phrasing of the question and explicitly labeling the rating scale, these questions aim to prevent misunderstandings and improve the quality of the data collected.
@@ -85,12 +85,12 @@ As mentioned earlier, GSA’s Analytics and Decision Support Division within the
 
 {{< card-quote text="... [GSA] was able to look at the data we had collected, along with additional data they collected, and provide us insights into our program that gave us a roadmap to really improve the customer experience..[Their analysis] provided us with an excellent summary of their findings, and some concrete actions we could take to improve our interactions with both our internal and external stakeholders. At the same time that [GSA] was analyzing our processes and data, we were working on a project to modernize our program. The recommendations from [the analysis] dovetailed well with our own discoveries during this process and provided support for making changes...we intend to investigate those recommendations further and incorporate them in the upcoming fiscal year, where we can." cite="Department of Labor HISP CX manager (in-person service)" >}}
 
-Highlights from the in-person service deep dive analysis
+**Highlights from the in-person service deep dive analysis**
 
 * **Understanding high satisfaction drivers**: Customers reported overwhelmingly high satisfaction, with the majority of survey respondents rating the service at 4 or 5. Free-text offered important context because there was a lack of variation in the numerical customer ratings. Sentiment analysis highlighted employee interactions (people factor) and the perceived service quality as the primary drivers behind positive customer experience. Customer free-text responses praised DoL personnel for their helpfulness, dedication, and competence.
 * **Efficiency challenges**: Despite the high satisfaction ratings, analysis of the free-text responses revealed issues with the speed and efficiency of the service. In particular, customers highlighted delays in the notification process. Additional analysis revealed that certain industry sectors felt these pain points more acutely than others. Based on these findings, we recommended that the service 1) establish clear benchmarks for each stage of the process to identify and address inefficiencies, and 2) notify customers upfront about expected timeframes (particularly if lengthy) to set accurate expectations and alleviate user anxieties.
 
-Highlights from the website service deep dive analysis
+**Highlights from the website service deep dive analysis**
 
 * **Varied experience across customer segments**: Customer segments interacted with the platform differently, leading to remarkably varied feedback scores. One customer segment in particular reported a less satisfactory experience across most of the A-11 survey prompts. Their main pain points revolved around the perceived absence of required services in certain geographic areas, and the platform's complexity. The insight indicates that they may require a user-specific interface or website page to address a perceived lack of clear information and/or service availability. Other customer segments had much more positive experiences in comparison. Testimonials such as, “*I have been using this website for a couple of years... It has been very helpful*,” highlighted their positive journey. They expressed genuine appreciation for the resources provided, often citing specific tools and pages the platform offers.
 * **Emotion as a key dimension**: For users with complex information needs, such as searching for information on federal disaster assistance and unemployment benefits, emotion played a pivotal role in their customer experience. When these users didn’t find solutions to their challenges, they often expressed stronger negative emotions and broader frustrations that went beyond the platform to include the entire U.S. government. This aligns with the [Recovering from a Disaster](https://www.performance.gov/cx/life-experiences/recovering-from-a-disaster) project on Performance.gov, which focuses on developing trauma-informed communication guidelines. The project aims to provide agency staff with the knowledge, skills, and support for a trauma-informed approach, enhancing the recovery experience for disaster-impacted individuals. It also introduces a holistic methodology to calculate the end-to-end burden on users, considering psychological and learning costs. Adopting these practices in customer service is highly recommended, especially for federal services that are helping users in challenging situations.
