@@ -67,7 +67,7 @@ Please reach out to your agency’s Web Council member with questions. If your a
 - Department of Justice (DOJ) — Ashley McGowan
 - Department of Labor — Ed McCarthy
 - Department of State — Monica Perry
-- Department of Transportation (DOT) — Kellie Korzen
+- Department of Transportation (DOT) — Bernetta Reese
 - Department of the Treasury — Teri Greene
 - Department of Veterans Affairs (VA) — Joshua Tuscher
 - Environmental Protection Agency (EPA) — Lin Darlington
