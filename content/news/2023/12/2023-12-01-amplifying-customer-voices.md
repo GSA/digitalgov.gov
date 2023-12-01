@@ -62,19 +62,19 @@ In response to this finding, we propose a survey redesign to accurately capture 
 {{< box >}}
 1. Do you agree or disagree with the following statement:<br />"The information I needed to complete \[service] was easy to find and understand."
 
-* Strongly Agree
-* Agree
-* Neutral
-* Disagree
-* Strongly Disagree
+  * Strongly Agree
+  * Agree
+  * Neutral
+  * Disagree
+  * Strongly Disagree
 
 2. On a scale of 1-5 (with 1 being very difficult and 5 being very easy), please rate your ease of finding the information you needed to complete \[service].
 
-* 1 (very difficult)
-* 2
-* 3
-* 4
-* 5 (very easy)
+  * 1 (very difficult)
+  * 2
+  * 3
+  * 4
+  * 5 (very easy)
 {{< /box >}}
 
 By clarifying the phrasing of the question and explicitly labeling the rating scale, these questions aim to prevent misunderstandings and improve the quality of the data collected.
