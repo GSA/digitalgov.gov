@@ -30,10 +30,6 @@ In the img yml code: "credit" text is italicized, and is added to the _end_ of a
 
 {{< img src="very-large-array-nm" >}}
 
-The image below is to be used in upcoming blog post. The title of artwork and source are entered in the caption field, while a description of it is in the alt text. The photog and image ID, also required to be visible in a caption line, is set in the credit field.
-
-{{< img src="screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith" >}}
-
 ---
 
 **Lorem ipsum** dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
