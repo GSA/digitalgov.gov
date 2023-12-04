@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - product-management
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - content-strategy
   - GobiernoUSAgov

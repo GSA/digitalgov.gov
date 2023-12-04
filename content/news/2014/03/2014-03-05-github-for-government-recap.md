@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - data
-  - CFPB
+  
   - GitHub
   - open-data
   - recaps

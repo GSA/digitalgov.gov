@@ -10,7 +10,7 @@ topics:
   - data
   - api
   
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - department-of-commerce
   - epa

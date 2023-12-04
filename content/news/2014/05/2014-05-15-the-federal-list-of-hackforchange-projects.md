@@ -9,7 +9,7 @@ topics:
   - challenges
   - 18f
   
-  - CFPB
+  
   - challenge-gov
   - Consumer Financial Protection Bureau
   - data-gov

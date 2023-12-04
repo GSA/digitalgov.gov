@@ -9,7 +9,7 @@ topics:
   - challenges
   - data
   
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - data-gov
   - DOL

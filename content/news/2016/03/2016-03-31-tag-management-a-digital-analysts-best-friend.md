@@ -10,7 +10,7 @@ topics:
   - data
   - monthly-theme
   - analytics
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - data
   - user-experience

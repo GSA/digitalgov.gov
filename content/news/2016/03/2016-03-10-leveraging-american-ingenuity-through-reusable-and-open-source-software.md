@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - 18f
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - data-gov
   - Education

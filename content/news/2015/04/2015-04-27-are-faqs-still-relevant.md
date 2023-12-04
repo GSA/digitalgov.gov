@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - monthly-theme
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - customer-service
   - Ex-Im Bank

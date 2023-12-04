@@ -11,7 +11,7 @@ topics:
   - mobile
   - content
   - accessibility
-  - cfpb
+  
   - consumer-financial-protection-bureau
   - federal-reserve-board
   - frb

@@ -18,7 +18,7 @@ topics:
   - aoi
   
   
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - content-models
   - DOL

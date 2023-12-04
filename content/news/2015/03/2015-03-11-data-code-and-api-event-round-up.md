@@ -10,7 +10,7 @@ topics:
   - our-work
   - 18f
   - api
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - content-management-system
   - data

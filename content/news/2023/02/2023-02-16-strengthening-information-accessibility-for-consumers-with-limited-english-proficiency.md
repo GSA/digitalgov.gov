@@ -14,7 +14,7 @@ topics:
   - content
   - multilingual
   - consumer-financial-protection-bureau
-  - cfpb
+  
 
 slug: strengthening-information-accessibility-for-consumers-with-limited-english-proficiency
 

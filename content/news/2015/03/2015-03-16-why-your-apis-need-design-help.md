@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - api
   - application-programming-interface
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - fda
   - GitHub

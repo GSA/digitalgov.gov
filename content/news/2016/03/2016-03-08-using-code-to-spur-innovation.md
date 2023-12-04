@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - monthly-theme
-  - CFPB
+  
   - data
   - Education
   - FEC

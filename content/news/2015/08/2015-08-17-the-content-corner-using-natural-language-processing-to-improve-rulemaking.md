@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   
-  - CFPB
+  
   - Consumer Financial Protection Bureau
   - epa
   - FCC
