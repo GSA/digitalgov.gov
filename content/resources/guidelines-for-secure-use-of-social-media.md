@@ -16,7 +16,7 @@ The use of social media for federal services and interactions is growing tremend
 
 {{< button href="https://www.cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf" text="View Guidelines for Secure Use of Social Media" >}}
 
-## Related Links
+## Related links
 
 - [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements (PDF, 1.1 MB, 17 pages, April 2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf)
 - [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo) (PDF, 83 KB, 7 pages, April 2010)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf)
