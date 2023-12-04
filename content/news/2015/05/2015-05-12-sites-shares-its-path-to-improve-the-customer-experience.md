@@ -9,7 +9,7 @@ topics:
   - product-management
   - monthly-theme
   - our-work
-  - CMS
+  
   - customer-experience
   - customer-service
 ---

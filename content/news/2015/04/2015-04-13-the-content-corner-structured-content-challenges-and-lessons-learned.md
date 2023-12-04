@@ -9,7 +9,7 @@ topics:
   - content
   - monthly-theme
   - api
-  - CMS
+  
   - content-models
   - content-strategy
   - COPE

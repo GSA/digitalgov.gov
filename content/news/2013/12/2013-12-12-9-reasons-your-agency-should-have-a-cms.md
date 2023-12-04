@@ -10,7 +10,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - CMS
+  
   - content-management-system
 ---
 

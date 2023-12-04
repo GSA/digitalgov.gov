@@ -9,7 +9,7 @@ topics:
   - content
   - design
   
-  - CMS
+  
   - content-management-system
   - content-strategy
   - the-content-corner

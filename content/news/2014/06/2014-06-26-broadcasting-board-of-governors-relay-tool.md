@@ -9,7 +9,7 @@ topics:
   - content
   - mobile
   - monthly-theme
-  - CMS
+  
   - GitHub
   - multilingual
   - open-source

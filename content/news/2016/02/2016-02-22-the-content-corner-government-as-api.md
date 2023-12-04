@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   
   - api
-  - CMS
+  
   - content-management-system
   - content-models
   - COPE

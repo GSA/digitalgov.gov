@@ -20,7 +20,7 @@ summary: "Medicare Open Enrollment kicks off this Saturday, October 15 and runs
 topics:
   - social-media
   - multilingual
-  - cms
+  
   - hhs
 slug: medicare-open-enrollment-period-outreach-media-materials
 # Controls how this page appears across the site

@@ -10,7 +10,7 @@ authors:
 topics:
   - data
   - cloud
-  - CMS
+  
   - data
   - data-visualization
   - FCC

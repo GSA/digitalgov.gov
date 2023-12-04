@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - CMS
+  
   - content
   - content-management-system
   - content-models

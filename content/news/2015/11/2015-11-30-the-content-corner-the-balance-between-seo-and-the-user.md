@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   
-  - CMS
+  
   - https
   - metadata
   - search-engine-optimization

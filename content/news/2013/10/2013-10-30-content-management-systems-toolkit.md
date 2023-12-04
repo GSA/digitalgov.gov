@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - content
-  - CMS
+  
   - content-management-system
   - content-strategy
   - metadata

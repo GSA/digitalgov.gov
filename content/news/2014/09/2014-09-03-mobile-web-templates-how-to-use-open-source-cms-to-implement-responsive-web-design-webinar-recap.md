@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - api
-  - CMS
+  
   - content-management-system
   - content-models
   - drupal
