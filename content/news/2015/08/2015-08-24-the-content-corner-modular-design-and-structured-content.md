@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - administrative-office-of-the-united-states-courts
+  
   - content-models
   - mobile-ux-guideline-1
   - structured-content

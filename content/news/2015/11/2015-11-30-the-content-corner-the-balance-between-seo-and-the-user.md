@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
+  
   - CMS
   - https
   - metadata

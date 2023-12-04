@@ -8,7 +8,6 @@ authors:
 topics:
   - communities
   - content
-  - administrative-office-of-the-united-states-courts
   - aoi
   - content-strategy
   - the-content-corner

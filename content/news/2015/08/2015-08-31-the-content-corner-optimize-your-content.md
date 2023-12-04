@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - writing
-  - administrative-office-of-the-united-states-courts
+  
   - infographic
   - search-engine-optimization
   - the-content-corner
