@@ -29,7 +29,7 @@ A design system is a pre-built set of visual styles, features, and functions for
 
 There are a lot of good reasons to use a design system. Many organizations use them to unify different brands with distinct but unified aesthetics. Using a design system can take the guesswork out of making your site:
 
-- **Trustworthy** — Your users can easily trust that your site is the one they need if you are using recognizable, standardized designs and features. 
+- **Trustworthy** — Your users can easily trust that your site is the one they need if you are using recognizable, standardized designs and features.
 - **Accessible** — If you’re using an [accessibility-tested](https://www.section508.gov/test/) design system, you can trust that you have the tools to build accessible websites, because the creators of the system have already done much of the testing for you.
 - **Compliant** — The [website standards](https://designsystem.digital.gov/website-standards/) say that agencies should use the U.S. Web Design System (USWDS), which was created to meet the unique needs of federal websites and digital services.
 - **Efficient** — Well-maintained design systems are usually tested for speed, efficiency, and compatibility with recent technology. You can usually find statistics and information about a design system’s size and performance on their website.
@@ -46,7 +46,7 @@ Although using a design system can take a lot of guesswork out of building the b
 
 - **Plan.** Consider planning incremental (or paced) adoption of the design system so that you are not overwhelmed with all of the choices at once.
 
-- **Prioritize.** Focus on the most important or required elements you’ll need. Find out if you can incorporate those priority elements first. 
+- **Prioritize.** Focus on the most important or required elements you’ll need. Find out if you can incorporate those priority elements first.
 
 - **Evaluate.** Make sure the design system meets [accessibility standards](https://www.access-board.gov/ict/) and your agency’s usability requirements, such as publishing an [accessibility statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/).
 
@@ -59,4 +59,4 @@ Making these important decisions and communicating ahead of adopting a design sy
 ## What can I do next?
 
 If you manage a federal website, be sure you understand the [requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
-Also, learn how to use the U.S. Web Design System. For example, at GSA, many web teams get started by using the Design System’s [Banner](https://designsystem.digital.gov/components/banner/) and [Identifier](https://designsystem.digital.gov/components/identifier/) components to identify their site as an official government site. 
+Also, learn how to use the U.S. Web Design System. For example, at GSA, many web teams get started by using the Design System’s [Banner](https://designsystem.digital.gov/components/banner/) and [Identifier](https://designsystem.digital.gov/components/identifier/) components to identify their site as an official government site.
