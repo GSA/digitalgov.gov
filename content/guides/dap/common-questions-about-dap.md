@@ -153,7 +153,7 @@ A. IP anonymization/masking takes place as soon as data is received by Google An
 
 **Q. Does my agency need a terms of service with Google to use the services provided under DAP?**
 
-GSA has negotiated a federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics 360, it can use the DAP TOS as a starting point, but will need to sign a separate agreement. Please contact [dap@gsa.gov](mailto:dap@gsa.gov) to request a copy of the terms.
+GSA has negotiated a federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics 360, it can use the DAP terms of service as a starting point, but will need to sign a separate agreement. Please contact [dap@gsa.gov](mailto:dap@gsa.gov) to request a copy of the terms.
 
 **Q. Is a new privacy notice needed on my agency website if we add Google Analytics 360?**
 
