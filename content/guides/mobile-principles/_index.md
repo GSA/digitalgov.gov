@@ -30,7 +30,7 @@ It is important to design mobile-friendly and device-agnostic websites and digit
 
 In 2017, Digital.gov's Mobile [community of practice](https://digital.gov/communities/) tested the top federal websites most visited on mobile devices (smartphones and tablets). The results of the automated tests, [A Guide to To Creating Mobile-Friendly Web Sites](https://digital.gov/resources/guide-create-mobile-friendly-websites/), showed us that a few common practices greatly affect the usability of a site on a mobile device.
 
-Building on 2019 results, we are back at it again &mdash; but this time we examined the automated testing tools themselves. During this review, we found there are eight principles of mobile-friendliness. And if you follow them, they will make your site more usable and user-friendly.
+Building on 2019 results, we examined the automated testing tools themselves. During this review, we found there are eight principles of mobile-friendliness. And if you follow them, they will make your site more usable and user-friendly.
 
 Use these eight principles improve the mobile-friendliness of your sites. 
 
