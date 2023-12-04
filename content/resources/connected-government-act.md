@@ -164,7 +164,7 @@ Should you focus your efforts on either of these two options?
 - **Progressive Web Applications, Part 1: the New Pack Mule of the Internet** <br />Progressive Web Apps have been able to take the best of native and web applications and combine them into a hybrid application that is fast (with or without a fast network connection), can work across devices, and does not need to be distributed through a store as it is as linkable and shareable as a web page. <br />https://www.digitalgov.gov/2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/
 - **Progressive Web Applications, Part 2: Pros, Cons, and Looking Ahead** <br />Along with the advantages, PWAs bring challenges, and these may be deal breakers for some. <br />https://www.digitalgov.gov/2016/10/13/progressive-web-applications-part-2-pros-cons-and-looking-ahead/
 
-### Initiatives, Security, and Privacy
+### Initiatives, security, and privacy
 
 When you are building an app or creating a mobile-friendly site, there are certain requirements to be aware of.
 
