@@ -9,7 +9,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - abmc
   - american-battle-monuments-commission
   - mobile-apps
   - thursday-mobile-products
