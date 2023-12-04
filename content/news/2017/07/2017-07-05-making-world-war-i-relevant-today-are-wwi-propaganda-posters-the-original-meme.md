@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - social-media
-  - american-battle-monuments-commission
   - content
   - content-strategy
   - infographic
