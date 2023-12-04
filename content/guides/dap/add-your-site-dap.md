@@ -17,7 +17,6 @@ Any federal agency can sign up to use the Digital Analytics Program (DAP) web an
 - Agencies define a DAP point of contact.
 - The DAP team will send the agency point of contact a short registration form to register their agency, and work with them to implement the common page tag code.
 - The DAP team will provide implementation support, access to training, and other resources to the agency point of contact.
-- If you don’t have an identified point of contact, [send the DAP team an email](mailto:dap@gsa.gov).
 
 ## Where to place the DAP script
 
