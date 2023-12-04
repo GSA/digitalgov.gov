@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - aids-gov
-  - cdc
+  
   - centers-for-disease-control-and-prevention
   - data
   - data-visualization

@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - cdc
+  
   - centers-for-disease-control-and-prevention
   - content-strategy
   - gsa

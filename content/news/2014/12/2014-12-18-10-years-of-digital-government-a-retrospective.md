@@ -13,7 +13,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - cdc
+  
   - centers-for-disease-control-and-prevention
   - HHS
   - NARA

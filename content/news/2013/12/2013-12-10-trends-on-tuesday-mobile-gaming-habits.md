@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - cdc
+  
   - gamification
   - mobile
   - mobile-apps

@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - cdc
+  
   - Census
   - centers-for-disease-control-and-prevention
   - mobile-apps

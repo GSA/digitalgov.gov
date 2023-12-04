@@ -7,7 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - cdc
+  
   - gamification
   - mobile
   - mobile-first

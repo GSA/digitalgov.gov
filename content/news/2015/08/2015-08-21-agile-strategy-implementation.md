@@ -8,7 +8,7 @@ authors:
 topics:
   - governance
   - agile
-  - cdc
+  
   - sprint
   - centers-for-disease-control-and-prevention
 ---

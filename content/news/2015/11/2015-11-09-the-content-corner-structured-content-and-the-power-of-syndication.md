@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - api
-  - cdc
+  
   - centers-for-disease-control-and-prevention
   - content-syndication
   - COPE

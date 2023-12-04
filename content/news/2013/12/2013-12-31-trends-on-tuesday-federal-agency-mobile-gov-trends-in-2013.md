@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - cdc
+  
   - Census
   - content-models
   - department-of-commerce

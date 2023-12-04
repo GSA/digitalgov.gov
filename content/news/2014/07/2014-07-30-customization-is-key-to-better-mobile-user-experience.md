@@ -7,7 +7,7 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - cdc
+  
   - centers-for-disease-control-and-prevention
   - gps
   - hhs

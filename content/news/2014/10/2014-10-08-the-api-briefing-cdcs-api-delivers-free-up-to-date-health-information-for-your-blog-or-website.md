@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - api
-  - cdc
+  
   - centers-for-disease-control-and-prevention
   - content-syndication
   - OPM

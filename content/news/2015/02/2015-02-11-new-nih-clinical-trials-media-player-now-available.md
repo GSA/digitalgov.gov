@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - cdc
+  
   - centers-for-disease-control-and-prevention
   - national-institutes-of-health
   - nih

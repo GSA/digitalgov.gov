@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - ANLE
-  - cdc
+  
   - Census
   - centers-for-disease-control-and-prevention
   - DOJ

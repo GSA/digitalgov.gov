@@ -16,7 +16,7 @@ topics:
   - social-media
   
   - aoi
-  - cdc
+  
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
