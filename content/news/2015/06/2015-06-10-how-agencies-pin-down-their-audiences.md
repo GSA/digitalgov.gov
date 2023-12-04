@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - social-media
   
-  - centers-for-disease-control-and-prevention
+  
   - content-strategy
   - gsa
   - nasa

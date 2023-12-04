@@ -10,7 +10,7 @@ topics:
   - writing
   - 18f
   
-  - centers-for-disease-control-and-prevention
+  
   - plain-language
   - plain-writing-act-of-2010
   - user-experience

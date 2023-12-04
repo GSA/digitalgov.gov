@@ -10,7 +10,7 @@ topics:
   - api
   
   
-  - centers-for-disease-control-and-prevention
+  
   - thursday-mobile-products
   - US Department of Agriculture
   - united-states-census-bureau

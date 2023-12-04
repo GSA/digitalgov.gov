@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - api
   
-  - centers-for-disease-control-and-prevention
+  
   - content-syndication
   - COPE
   - fda

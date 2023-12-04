@@ -6,7 +6,7 @@ summary: 'The Centers for Disease Control has added another tool to its suite of
 topics:
   - mobile
   
-  - centers-for-disease-control-and-prevention
+  
   - native-app
   - thursday-mobile-products
  

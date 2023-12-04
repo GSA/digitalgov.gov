@@ -7,7 +7,7 @@ topics:
   - design
   - mobile
   
-  - centers-for-disease-control-and-prevention
+  
   - HHS
   - mobile-gov
   - mobile-ux-guideline-1

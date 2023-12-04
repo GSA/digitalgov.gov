@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   
-  - centers-for-disease-control-and-prevention
+  
   - mobile
   - mobile-ux-guideline-5
   - mobile-first

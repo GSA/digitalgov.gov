@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   
-  - centers-for-disease-control-and-prevention
+  
   - national-institutes-of-health
   - nih
 ---

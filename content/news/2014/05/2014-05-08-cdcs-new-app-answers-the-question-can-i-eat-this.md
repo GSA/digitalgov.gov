@@ -6,7 +6,7 @@ summary: 'I&#8217;ll be honest: When I had only heard the name of the new mobile
 topics:
   - mobile
   
-  - centers-for-disease-control-and-prevention
+  
   - mobile-apps
   - thursday-mobile-products
  

@@ -14,7 +14,7 @@ topics:
   - social-media
   - user-experience
   
-  - centers-for-disease-control-and-prevention
+  
   - HHS
   - NARA
   - nasa

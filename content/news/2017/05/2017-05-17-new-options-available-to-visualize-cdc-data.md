@@ -9,7 +9,7 @@ topics:
   - data
   - aids-gov
   
-  - centers-for-disease-control-and-prevention
+  
   - data
   - data-visualization
   - open-data

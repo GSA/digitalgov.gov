@@ -9,7 +9,7 @@ topics:
   - challenges
   - monthly-theme
   
-  - centers-for-disease-control-and-prevention
+  
   - challenge-gov
   - HHS
   - united-states-department-of-health-and-human-services

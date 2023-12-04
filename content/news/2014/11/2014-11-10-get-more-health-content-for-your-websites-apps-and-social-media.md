@@ -10,7 +10,7 @@ topics:
   - mobile
   - video
   
-  - centers-for-disease-control-and-prevention
+  
   - content-syndication
   - fda
   - HHS

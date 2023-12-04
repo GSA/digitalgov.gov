@@ -9,7 +9,7 @@ topics:
   - content
   - product-management
   
-  - centers-for-disease-control-and-prevention
+  
   - content
   - content-strategy
   - content-syndication

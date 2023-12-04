@@ -9,7 +9,7 @@ topics:
   - content
   - api
   
-  - centers-for-disease-control-and-prevention
+  
   - DOT
   - GobiernoUSAgov
   - united-states-department-of-transportation

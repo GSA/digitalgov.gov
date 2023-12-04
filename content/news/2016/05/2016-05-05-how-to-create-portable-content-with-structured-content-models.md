@@ -6,7 +6,7 @@ summary: Structuring your content for portability across media platforms gives y
 topics:
   - content
   
-  - centers-for-disease-control-and-prevention
+  
   - content-syndication
   - HHS
   - mobile-gov-community-of-practice

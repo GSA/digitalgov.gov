@@ -9,7 +9,7 @@ topics:
   - mobile
   
   
-  - centers-for-disease-control-and-prevention
+  
   - mobile-apps
   - trends-on-tuesday
   - united-states-census-bureau

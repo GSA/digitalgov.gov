@@ -10,7 +10,7 @@ topics:
   - video
   - writing
   
-  - centers-for-disease-control-and-prevention
+  
   - content-strategy
   - infographic
   - the-content-corner

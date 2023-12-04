@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   
-  - centers-for-disease-control-and-prevention
+  
   - gps
   - hhs
   - loc

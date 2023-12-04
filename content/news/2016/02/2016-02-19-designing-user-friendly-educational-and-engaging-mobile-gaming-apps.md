@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   
-  - centers-for-disease-control-and-prevention
+  
   - gamification
   - mobile
   - mobile-apps

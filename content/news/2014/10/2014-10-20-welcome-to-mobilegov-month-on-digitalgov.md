@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   
-  - centers-for-disease-control-and-prevention
+  
   - Defense Finance and Accounting Services
   - DFAS
   - DOE

@@ -9,7 +9,7 @@ topics:
   - content
   - monthly-theme
   
-  - centers-for-disease-control-and-prevention
+  
   - content-syndication
 ---
 

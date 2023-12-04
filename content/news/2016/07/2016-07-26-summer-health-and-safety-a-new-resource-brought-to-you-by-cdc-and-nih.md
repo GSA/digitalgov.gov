@@ -10,7 +10,7 @@ topics:
   - product-management
   - user-experience
   
-  - centers-for-disease-control-and-prevention
+  
   - content
   - content-models
   - content-strategy

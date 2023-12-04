@@ -10,7 +10,7 @@ topics:
   - code
   - api
   
-  - centers-for-disease-control-and-prevention
+  
   - content-syndication
   - OPM
   - united-states-office-of-personnel-management

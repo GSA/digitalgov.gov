@@ -6,7 +6,7 @@ summary: 'You don&#8217;t have to try too hard to get people into the water duri
 topics:
   - mobile
   
-  - centers-for-disease-control-and-prevention
+  
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
   - NOAA
