@@ -2,7 +2,7 @@
 date: 2018-10-09 12:30:00 -0500
 title: "Eight principles of mobile-friendliness"
 deck: "How to improve a site's accessibility to mobile devices"
-summary: "We're sharing eight principles of mobile-friendliness to help you greatly improve your sites."
+summary: "We're sharing eight principles of mobile-friendliness to help you improve your sites."
 guide: mobile-principles
 layout: single
 
