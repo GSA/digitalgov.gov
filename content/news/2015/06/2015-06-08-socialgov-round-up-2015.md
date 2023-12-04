@@ -9,7 +9,6 @@ topics:
   - monthly-theme
   - social-media
   - analytics
-  - bbg
   - broadcasting-board-of-governors
   - search
   - DOI

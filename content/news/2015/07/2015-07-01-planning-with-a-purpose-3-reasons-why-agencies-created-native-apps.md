@@ -7,7 +7,6 @@ authors:
   - byrhonda-lyons
 topics:
   - mobile
-  - bbg
   - broadcasting-board-of-governors
   - ICE
   - mobile
