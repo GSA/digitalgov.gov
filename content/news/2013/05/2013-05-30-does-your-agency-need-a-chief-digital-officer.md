@@ -8,7 +8,6 @@ authors:
 topics:
   - governance
   - product-management
-  - american-red-cross
   - api
   - Census
   - department-of-commerce
