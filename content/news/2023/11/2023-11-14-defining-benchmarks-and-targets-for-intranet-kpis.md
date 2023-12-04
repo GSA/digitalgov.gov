@@ -26,21 +26,26 @@ weight: 1
 
 ---
 
-In the img yml code: "credit" text is italicized, and is added to the _end_ of a photo's "caption" line; the two portions are separated by the addition of an _m-dash_, which is triggered when the credit field is filled in. Our initial test image: 
+Our initial test image setting up `alt text`, `caption`, and `credit`:
 
 {{< img src="very-large-array-nm" >}}
 
+The caption area below the image can contain 1) text in the `caption` field, and 2) text in the `credit` field.
 
-The image below is to be used in upcoming blog post. The title of artwork and source are required to be below the image (entered in the `caption` field), while a _description_ of it is in the `alt text`. The photog (and image ID), also required to be visible below the image in a caption line, is set in the `credit` field.
+If supplied, the `credit` field triggers: 1) the addition of an m-dash with 1 space before and 1 space after it, 2) the copy gets italicized, and 3) it's added to the _end_ of the caption line beneath the image.
 
-{{< img src="screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith" >}}
+---
 
-
-The image below was created using a stock photo. 
+The image below was created using a stock photo.
 
 {{< img src="title-card-who-controls-your-control-systems-chor-muang-istock-getty-images-1423481986-comp" >}}
 
-Only the attribution goes in the `caption` line. If it were in the `credit` field, it would look like this:
+The `alt text` has the description, as required for accessibility. Only the attribution goes in the `caption` line. If the attribution were in the `credit` field, it would look like this:
 
-> &mdash; _Chor Muang/iStock via Getty Images_
+&mdash; _Chor Muang/iStock via Getty Images_
 
+---
+
+The image below is to be used in upcoming blog post. The _title_ of artwork and _source_ are required to be in a caption line below the image (entered in the `caption` field), while a short _description_ of it is in the `alt text`. The photog and image ID are also required to be visible below the image in a caption line, and is set in the `credit` field.
+
+{{< img src="screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith" >}}
