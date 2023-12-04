@@ -54,7 +54,7 @@ The accounts in the registry are independently updated by federal employees acro
 **To register and manage accounts on the U.S. Digital Registry** you must have a [Login.gov](http://login.gov/) account, which is available to federal government employees and contractors with a valid .gov or .mil email address.
 
 1. Go to the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry).
-2. In the top navigation bar, far right, access the "`Log In`" link. You'll be brought to the [Login.gov](http://login.gov/) log-in page for the U.S. Digital Registry.
+2. In the top navigation bar, access the "`Sign in with Login.gov`" link. You'll be brought to the [Login.gov](http://login.gov/) login page for the U.S. Digital Registry.
 
 If you already have a [Login.gov](http://login.gov/) account with your government email address, you won't have to do anything else. Just use that account information to access the registry.
 
