@@ -9,7 +9,6 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - monthly-theme
-  - Bureau of Reclamation
   - CFPB
   - challenge-gov
   - challenges-and-prize-competitions
