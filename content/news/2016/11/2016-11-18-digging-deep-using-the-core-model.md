@@ -2,7 +2,7 @@
 slug: digging-deep-using-the-core-model
 date: 2016-11-18 10:00:34 -0400
 title: "Digging Deep Using the Core Model"
-summary: "The core model is a thinking tool that can be used to get all different disciplines (stakeholders, developers, editors, etc.) to start thinking collaboratively. The end goal is that the group will have a common understanding of user needs, business goals, and how different pages should be connected."
+summary: "The core model is a thinking tool that can be used to get team members from different perspectives (stakeholders, developers, editors, etc.) to start thinking collaboratively. The end goal is that the group will have a common understanding of user needs, business goals, and how different pages should be connected."
 
 authors:
   - christen-geiler
