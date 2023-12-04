@@ -9,7 +9,6 @@ authors:
 topics:
   - challenges
   - monthly-theme
-  - Bureau of Justice Statistics
   - challenges-and-prize-competitions
   - data-visualization
   - DOJ
