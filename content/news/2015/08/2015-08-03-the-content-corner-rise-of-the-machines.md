@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
-  - blog
   - artificial-intelligence
   - the-content-corner
 ---

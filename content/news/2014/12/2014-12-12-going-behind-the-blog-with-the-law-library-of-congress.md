@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - social-media
-  - blog
   - Law Library of Congress
   - social-media
 ---

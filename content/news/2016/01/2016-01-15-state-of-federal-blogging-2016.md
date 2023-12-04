@@ -7,7 +7,6 @@ authors:
   - danielle-brigida
 topics:
   - content
-  - blog
   - FWS
   - nasa
   - us-department-of-the-interior
