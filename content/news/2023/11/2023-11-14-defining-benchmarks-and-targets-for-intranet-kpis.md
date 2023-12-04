@@ -26,10 +26,21 @@ weight: 1
 
 ---
 
-In the img yml code: "credit" text is italicized, and is added to the _end_ of a photo's "caption" line; the two portions are separated by the addition of an _m-dash_, which is triggered when the credit field is filled in.
+In the img yml code: "credit" text is italicized, and is added to the _end_ of a photo's "caption" line; the two portions are separated by the addition of an _m-dash_, which is triggered when the credit field is filled in. Our initial test image: 
 
 {{< img src="very-large-array-nm" >}}
 
-The image below is to be used in upcoming blog post. The title of artwork and source are entered in the caption field, while a description of it is in the alt text. The photog and image ID, also required to be visible in a caption line, is set in the credit field.
+
+The image below is to be used in upcoming blog post. The title of artwork and source are required to be below the image (entered in the `caption` field), while a _description_ of it is in the `alt text`. The photog (and image ID), also required to be visible below the image in a caption line, is set in the `credit` field.
 
 {{< img src="screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith" >}}
+
+
+The image below was created using a stock photo. 
+
+{{< img src="title-card-who-controls-your-control-systems-chor-muang-istock-getty-images-1423481986-comp" >}}
+
+Only the attribution goes in the `caption` line. If it were in the `credit` field, it would look like this:
+
+> &mdash; _Chor Muang/iStock via Getty Images_
+
