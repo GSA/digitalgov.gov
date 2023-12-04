@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - monthly-theme
-  - analytics-usa-gov
   - CFPB
   - data
   - Education

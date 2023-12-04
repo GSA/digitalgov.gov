@@ -9,7 +9,6 @@ topics:
   - our-work
   - 18f
   - accessibility
-  - analytics-usa-gov
   - api
   - cloud
   - dap

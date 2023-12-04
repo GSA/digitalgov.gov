@@ -11,7 +11,6 @@ topics:
   - mobile
   - social-media
   - analytics
-  - analytics-usa-gov
   - content
   - dap
   - digital-analytics-program

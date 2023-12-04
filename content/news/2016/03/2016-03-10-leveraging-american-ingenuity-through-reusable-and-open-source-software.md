@@ -10,7 +10,6 @@ topics:
   - product-management
   - monthly-theme
   - 18f
-  - analytics-usa-gov
   - CFPB
   - Consumer Financial Protection Bureau
   - data-gov

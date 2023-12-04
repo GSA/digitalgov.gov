@@ -9,7 +9,6 @@ topics:
   - metrics
   - social-media
   - analytics
-  - analytics-usa-gov
   - social-media
   - social-media-metrics
   - usagov

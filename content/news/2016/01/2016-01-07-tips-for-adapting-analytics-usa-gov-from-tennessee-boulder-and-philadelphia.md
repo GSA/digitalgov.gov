@@ -10,7 +10,6 @@ topics:
   - our-work
   - 18f
   - analytics
-  - analytics-usa-gov
   - dap
   - digital-analytics-program
 ---
