@@ -26,7 +26,7 @@ weight: 1
 
 ---
 
-In the img yml code: "credit" text is italicized, and is added to the _end_ of a photo's "caption" line; the two portions are separated by the addition of an _m-dash_.
+In the img yml code: "credit" text is italicized, and is added to the _end_ of a photo's "caption" line; the two portions are separated by the addition of an _m-dash_, the addition of which is triggered when the credit field is filled in.
 
 {{< img src="very-large-array-nm" >}}
 
