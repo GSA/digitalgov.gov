@@ -13,7 +13,7 @@ aliases:
 ---
 
 {{< box >}}
-**Do you have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov) and they’ll get back to you.
+**Do you have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov).
 {{< /box >}}
 
 ---
