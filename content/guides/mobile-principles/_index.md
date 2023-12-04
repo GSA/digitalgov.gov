@@ -34,4 +34,3 @@ Building on 2019 results, we are back at it again &mdash; but this time we exami
 
 Use these eight principles improve the mobile-friendliness of your sites. 
 
-Let’s get started!
