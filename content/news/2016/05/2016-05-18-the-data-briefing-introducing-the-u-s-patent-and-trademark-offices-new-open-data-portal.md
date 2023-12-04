@@ -9,7 +9,6 @@ topics:
   - api
   - data
   - api
-  - BLS
   - Census
   - Commerce
   - data

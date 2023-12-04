@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - data
-  - BLS
   - data
   - data-visualization
   - infographic

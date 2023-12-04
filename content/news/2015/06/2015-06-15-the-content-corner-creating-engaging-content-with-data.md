@@ -7,9 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
   - big-data
-  - BLS
   - Census
   - content-strategy
   - data

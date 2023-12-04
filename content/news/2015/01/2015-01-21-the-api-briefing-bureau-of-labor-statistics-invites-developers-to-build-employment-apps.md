@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - BLS
   - Census
   - SEC
   - us-bureau-of-labor-statistics

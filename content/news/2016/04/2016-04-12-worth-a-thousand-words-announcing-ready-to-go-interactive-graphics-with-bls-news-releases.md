@@ -9,7 +9,6 @@ topics:
   - content
   - data
   - user-experience
-  - BLS
   - content-strategy
   - data
   - data-visualization

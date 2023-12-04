@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - user-testing-and-research
-  - BLS
   - multilingual
   - national-cancer-institute
   - NCI
