@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - broadcasting-board-of-governors
   - Federal Mobile Products Registry
   - federal-student-aid
   - FSA

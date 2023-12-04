@@ -9,7 +9,6 @@ topics:
   - content
   - mobile
   - monthly-theme
-  - broadcasting-board-of-governors
   - CMS
   - GitHub
   - multilingual

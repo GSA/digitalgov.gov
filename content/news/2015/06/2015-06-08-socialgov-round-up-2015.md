@@ -9,7 +9,6 @@ topics:
   - monthly-theme
   - social-media
   - analytics
-  - broadcasting-board-of-governors
   - search
   - DOI
   - epa

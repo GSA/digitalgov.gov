@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - video
-  - broadcasting-board-of-governors
   - DOI
   - us-department-of-the-interior
 ---

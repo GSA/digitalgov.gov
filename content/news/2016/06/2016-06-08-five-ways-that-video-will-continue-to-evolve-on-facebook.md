@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - social-media
   - video
-  - broadcasting-board-of-governors
   - content
   - social-media
 ---
