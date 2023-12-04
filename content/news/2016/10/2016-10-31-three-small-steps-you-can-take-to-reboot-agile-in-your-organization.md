@@ -13,7 +13,6 @@ topics:
   - user-testing-and-research
   - 18f
   - agile
-  - best-practices
   - Commerce
   - department-of-commerce
   - kanban

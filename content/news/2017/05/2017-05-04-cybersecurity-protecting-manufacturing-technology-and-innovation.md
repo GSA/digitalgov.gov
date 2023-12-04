@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - best-practices
   - Commerce
   - data
   - department-of-commerce

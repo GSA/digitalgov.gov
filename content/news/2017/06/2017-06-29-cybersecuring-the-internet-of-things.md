@@ -10,7 +10,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - best-practices
   - infrastructure
   - internet-of-things
   - IoT
