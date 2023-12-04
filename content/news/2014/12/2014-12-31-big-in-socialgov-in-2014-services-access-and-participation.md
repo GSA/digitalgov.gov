@@ -9,7 +9,6 @@ topics:
   - communities
   - social-media
   - aoi
-  - Central Intelligence Agency
   - CIA
   - DOI
   - fda
