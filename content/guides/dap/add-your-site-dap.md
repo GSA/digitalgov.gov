@@ -14,7 +14,7 @@ aliases:
 
 Any federal agency can sign up to use the Digital Analytics Program (DAP) web analytics tool. Here’s how it works: 
 
-- Agencies define a DAP point of contact.
+- Agencies define a DAP point of contact. If you don’t have an identified point of contact, [email the DAP team](mailto:dap@gsa.gov).
 - The DAP team will send the agency point of contact a short registration form to register their agency, and work with them to implement the common page tag code.
 - The DAP team will provide implementation support, access to training, and other resources to the agency point of contact.
 
