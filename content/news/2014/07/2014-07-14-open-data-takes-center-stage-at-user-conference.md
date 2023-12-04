@@ -7,7 +7,7 @@ authors:
   - lauren-lipovic
 topics:
   - data
-  - Census
+  
   - data
   - data-visualization
   - department-of-commerce

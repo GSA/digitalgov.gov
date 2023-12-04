@@ -11,7 +11,7 @@ topics:
   - mobile
   - monthly-theme
   - aoi
-  - Census
+  
   - COPE
   - crowdsourcing
   - Defense Finance and Accounting Services

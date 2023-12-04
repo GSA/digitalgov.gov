@@ -10,7 +10,7 @@ topics:
   - content
   - ANLE
   
-  - Census
+  
   - centers-for-disease-control-and-prevention
   - DOJ
   - GobiernoUSAgov

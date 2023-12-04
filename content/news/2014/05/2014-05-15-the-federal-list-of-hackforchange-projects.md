@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - 18f
-  - Census
+  
   - CFPB
   - challenge-gov
   - Consumer Financial Protection Bureau

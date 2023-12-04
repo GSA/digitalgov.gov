@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - Census
+  
   - department-of-commerce
   - dhs
   - DOL

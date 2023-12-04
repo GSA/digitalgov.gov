@@ -9,7 +9,7 @@ authors:
   - kristen-honey
 topics:
   - data
-  - Census
+  
   - Commerce
   - data-gov
   - department-of-commerce

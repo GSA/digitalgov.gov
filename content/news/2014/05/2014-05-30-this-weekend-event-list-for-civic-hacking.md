@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - data
-  - Census
+  
   - CFPB
   - Consumer Financial Protection Bureau
   - data-gov

@@ -6,7 +6,7 @@ summary: ' Those cutting edge folks over at Census have raised the bar again! No
 topics:
   - mobile
   - api
-  - Census
+  
   - Federal Mobile Products Registry
   - mobile-apps
   - mobile-gov-community-of-practice

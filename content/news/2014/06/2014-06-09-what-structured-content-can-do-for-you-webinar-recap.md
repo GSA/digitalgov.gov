@@ -11,7 +11,7 @@ topics:
   - content
   - aoi
   - api
-  - Census
+  
   - content-models
   - GitHub
   - gsa

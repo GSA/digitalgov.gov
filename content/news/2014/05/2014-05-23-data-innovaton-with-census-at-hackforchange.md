@@ -9,7 +9,7 @@ topics:
   - challenges
   - data
   - api
-  - Census
+  
   - CFPB
   - Consumer Financial Protection Bureau
   - department-of-commerce

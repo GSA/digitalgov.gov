@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   
-  - Census
+  
   - centers-for-disease-control-and-prevention
   - mobile-apps
   - trends-on-tuesday

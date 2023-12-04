@@ -9,7 +9,7 @@ topics:
   - challenges
   - mobile
   - apps-challenges
-  - Census
+  
   - challenges-and-prize-competitions
   - epa
   - mobile-ux-guideline-5

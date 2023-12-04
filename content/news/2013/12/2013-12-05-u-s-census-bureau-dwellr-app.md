@@ -9,7 +9,7 @@ topics:
   - code
   - mobile
   - api
-  - Census
+  
   - mobile-apps
   - thursday-mobile-products
   - united-states-census-bureau

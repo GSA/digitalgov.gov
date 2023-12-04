@@ -9,7 +9,7 @@ topics:
   - api
   - data
   - api
-  - Census
+  
   - data
   - department-of-commerce
   - national-oceanic-and-atmospheric-administration

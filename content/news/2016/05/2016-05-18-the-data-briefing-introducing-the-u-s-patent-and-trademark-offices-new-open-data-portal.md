@@ -9,7 +9,7 @@ topics:
   - api
   - data
   - api
-  - Census
+  
   - Commerce
   - data
   - data-visualization

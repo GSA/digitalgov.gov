@@ -13,7 +13,7 @@ topics:
   - strategy
   - policy
   - api
-  - Census
+  
   - customer-experience
   - DOL
   - innovation

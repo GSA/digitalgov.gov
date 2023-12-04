@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - monthly-theme
-  - Census
+  
   - challenge-gov
   - challenges-and-prize-competitions
   - open-data

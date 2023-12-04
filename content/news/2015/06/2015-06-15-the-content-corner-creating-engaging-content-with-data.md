@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - big-data
-  - Census
+  
   - content-strategy
   - data
   - open-data

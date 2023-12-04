@@ -10,7 +10,7 @@ topics:
   - data
   - metrics
   - api
-  - Census
+  
   - data-gov
   - epa
   - metadata

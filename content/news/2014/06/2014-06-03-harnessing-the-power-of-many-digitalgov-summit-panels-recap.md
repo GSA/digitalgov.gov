@@ -14,7 +14,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - Census
+  
   - DOL
   - epa
   - fda

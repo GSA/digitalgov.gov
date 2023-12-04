@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Census
+  
   - SEC
   - us-bureau-of-labor-statistics
   - US Department of Agriculture

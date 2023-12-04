@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - data
-  - Census
+  
   - FCC
   - fda
   - federal-communications-commission
