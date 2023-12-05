@@ -80,6 +80,14 @@ $communities-of-practice: (
     // Make the first card wider for emphasis
     &:first-child {
       grid-column: 1 / 3;
+
+      .usa-button--outline {
+        box-shadow: inset 0 0 0 2px map.get($communities-of-practice, "WCM");
+        color: map.get($communities-of-practice, "WCM");
+        &:hover {
+          color: #fff;
+        }
+      }
     }
   }
 
