@@ -8,7 +8,6 @@ authors:
 topics:
   - monthly-theme
   - customer-service
-  - Export-Import Bank of the United States
   - government-contact-centers
   - peace-corps
   - us-digital-service

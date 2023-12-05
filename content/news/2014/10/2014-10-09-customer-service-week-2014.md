@@ -11,7 +11,6 @@ topics:
   - 18f
   - customer-experience
   - customer-service
-  - Export-Import Bank of the United States
   - national-cancer-institute
   - NCI
   - Office of Child Support Enforcement

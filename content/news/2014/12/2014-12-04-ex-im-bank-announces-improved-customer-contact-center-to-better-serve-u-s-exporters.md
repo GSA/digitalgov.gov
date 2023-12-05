@@ -7,7 +7,6 @@ authors:
   - lawton-king
 topics:
   - product-management
-  - Export-Import Bank of the United States
   - government-contact-centers
 ---
 
