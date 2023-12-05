@@ -18,12 +18,10 @@ topics:
   - video
   - audio-video
   - records-management
-  - executive-office-of-the-president
   - NARA
   - national-archives-and-records-administration
   - open-source
   - white-house
-
 ---
 
 President Obama is the first “social media president”: the first to have [@POTUS on Twitter](https://twitter.com/potus/status/600324682190053376?lang=en), the first to [go live on Facebook](https://www.facebook.com/potus/videos/443819269141252) from the Oval Office, the first to answer questions [from citizens on YouTube](https://www.youtube.com/watch?v=0pqzNJYzh7I), the first to use a [filter on Snapchat](https://www.youtube.com/watch?v=OIDEGN4Js40). Over the past eight years, the President, Vice President, First Lady, and the White House have used social media and technology to engage with people around the country and the world on the most important issues of our time (while having some [fun along the way](https://twitter.com/POTUS/status/763744742072913920)).
