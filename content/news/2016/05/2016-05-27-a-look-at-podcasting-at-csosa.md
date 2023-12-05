@@ -7,7 +7,6 @@ authors:
   - leonard-sipes
 topics:
   - content
-  - CSOSA
   - podcast
 
 ---
