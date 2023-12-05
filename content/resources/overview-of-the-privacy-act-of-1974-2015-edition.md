@@ -4,6 +4,9 @@ date: 2015-12-03 2:46:53 -0400
 title: Overview of the Privacy Act of 1974 (2015 Edition)
 summary: "This overview provides reference to and legal analysis of court decisions interpreting the Privacy Act&#8217;s provisions."
 
+aliases:
+  - /overview-of-the-privacy-act-of-1974-2015-edition
+
 topics:
   - security
 
