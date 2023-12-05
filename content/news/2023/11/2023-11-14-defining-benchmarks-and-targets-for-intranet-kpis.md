@@ -26,26 +26,28 @@ weight: 1
 
 ---
 
-Our initial test image setting up `alt text`, `caption`, and `credit`:
+The initial test image setting up `alt text`, `caption`, and `credit`:
 
 {{< img src="very-large-array-nm" >}}
 
-The caption area below the image can contain 1) text in the `caption` field, and 2) text in the `credit` field.
-
-If supplied, the `credit` field triggers: 1) the addition of an m-dash with 1 space before and 1 space after it, 2) the copy gets italicized, and 3) it's added to the _end_ of the caption line beneath the image.
+The caption line below the image displays the text in the `caption` field, followed by the text in the `credit` field -- which includes an m-dash with a space before and after it, and the text is italicized.
 
 ---
 
 The image below was created using a stock photo.
 
-{{< img src="title-card-who-controls-your-control-systems-chor-muang-istock-getty-images-1423481986-comp" >}}
+{{< img src="dashboard-templates-dmitry-kostrov-istock-getty-images-1145665438-comp" >}}
 
-The `alt text` has the description, as required for accessibility. Only the attribution goes in the `caption` line. If the attribution were in the `credit` field, it would look like this:
+The `alt text` has the description, as required for accessibility. Caption text [to describe what it is] isn't necessary. 
 
-&mdash; _Chor Muang/iStock via Getty Images_
+Only the attribution goes in the `caption` field. If it were in the `credit` field, it would display like this:
+
+&mdash; _Dmitry Kostrov/iStock via Getty Images_
 
 ---
 
-The image below is to be used in upcoming blog post. The _title_ of artwork and _source_ are required to be in a caption line below the image (entered in the `caption` field), while a short _description_ of it is in the `alt text`. The photog and image ID are also required to be visible below the image in a caption line, and is set in the `credit` field.
+The image below is from a collection with specific attribution requirements. 
+
+A short _description_ of it is in the `alt text`, but the _title_ of the artwork and _source_ are required to be in a caption line below the image (entered in the `caption` field). The attribution -- photog name and image ID -- are also required to be visible in a caption line, and is set in the `credit` field.
 
 {{< img src="screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith" >}}
