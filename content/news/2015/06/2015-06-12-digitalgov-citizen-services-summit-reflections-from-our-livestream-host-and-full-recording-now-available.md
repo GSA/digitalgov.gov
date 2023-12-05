@@ -10,7 +10,7 @@ topics:
   - agile
   - analytics
   - customer-experience
-  - digitalgov-summit
+  
   - privacy
 
 ---

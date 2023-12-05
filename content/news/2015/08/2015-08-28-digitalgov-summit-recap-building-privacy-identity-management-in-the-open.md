@@ -9,7 +9,7 @@ authors:
 topics:
   - security
   - our-work
-  - digitalgov-summit
+  
   - DOT
   - NIST
   - recaps

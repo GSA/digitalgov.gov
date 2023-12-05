@@ -18,7 +18,7 @@ topics:
   - social-media
   - user-experience
   - crowdsourcing
-  - digitalgov-summit
+  
 
 ---
 

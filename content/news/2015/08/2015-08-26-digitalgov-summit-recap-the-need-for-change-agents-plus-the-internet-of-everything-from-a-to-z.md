@@ -9,7 +9,7 @@ authors:
 topics:
   - emerging-tech
   - our-work
-  - digitalgov-summit
+  
   - FCC
   - federal-communications-commission
   - internet-of-things

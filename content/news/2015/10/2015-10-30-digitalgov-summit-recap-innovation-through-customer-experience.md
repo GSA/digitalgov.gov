@@ -10,7 +10,7 @@ topics:
   - our-work
   - customer-experience
   - customer-service
-  - digitalgov-summit
+  
   - recaps
 
 ---

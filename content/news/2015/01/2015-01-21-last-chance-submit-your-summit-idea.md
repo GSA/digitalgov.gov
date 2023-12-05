@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - our-work
-  - digitalgov-summit
+  
 
 ---
 

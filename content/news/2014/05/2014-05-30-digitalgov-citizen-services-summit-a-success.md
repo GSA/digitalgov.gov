@@ -14,7 +14,7 @@ topics:
   - mobile
   - our-work
   - social-media
-  - digitalgov-summit
+  
   - recaps
   - user-experience
 

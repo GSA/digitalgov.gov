@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - digitalgov-summit
+  
   - FTC
   - internet-of-things
   - mobile-gov-community-of-practice
