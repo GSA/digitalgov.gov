@@ -9,7 +9,6 @@ topics:
   - code
   - mobile
   - code
-  - Defense Finance and Accounting Services
   - DFAS
   - DOL
   - HHS

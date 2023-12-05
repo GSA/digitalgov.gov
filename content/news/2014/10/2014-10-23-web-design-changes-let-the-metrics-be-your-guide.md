@@ -10,7 +10,6 @@ topics:
   - metrics
   - mobile
   - monthly-theme
-  - Defense Finance and Accounting Services
   - DFAS
   - epa
   - Federal CrowdSource Mobile Testing Program

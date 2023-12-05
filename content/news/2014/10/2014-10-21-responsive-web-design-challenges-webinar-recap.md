@@ -10,7 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - analytics
-  - Defense Finance and Accounting Services
   - DFAS
   - DOE
   - mobile

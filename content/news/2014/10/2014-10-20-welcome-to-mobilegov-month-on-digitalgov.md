@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  
-  
-  - Defense Finance and Accounting Services
   - DFAS
   - DOE
   - Federal CrowdSource Mobile Testing Program

@@ -9,7 +9,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - Defense Finance and Accounting Services
   - DFAS
   - DOE
   - HHS
