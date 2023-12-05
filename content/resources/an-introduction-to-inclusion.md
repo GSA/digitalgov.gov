@@ -56,7 +56,7 @@ While not an exhaustive list, ways to be more inclusive include:
 * Showing up to events and trainings where different perspectives are presented; even your presence and active listening can demonstrate an effort to be inclusive
 * Forgiving yourself, apologizing, and growing
 
-{{< ring title="Case study">}}
+{{< ring title="Case study: TTS Values">}}
 
 At Technology Transformation Services (TTS), inclusion is key to [our values](https://handbook.tts.gsa.gov/about-us/tts-history/#our-values-2). We believe that [DEIA is vital to a successful organization](https://handbook.tts.gsa.gov/about-us/deia/) and that we must reflect the diversity of the public we serve. 
 
@@ -70,7 +70,7 @@ We work to increase inclusivity through efforts such as:
 * Conducting an annual survey on inclusion and belonging, which guides action items.
 * Building products for the public and the rest of the government which follow [18F's inclusive language principles](https://content-guide.18f.gov/our-style/inclusive-language/) and other inclusive approaches, such as the [U.S. Web Design System’s inclusive design patterns](https://designsystem.digital.gov/together/) and leading [GSA’s equity study on identity proofing](https://www.gsa.gov/governmentwide-initiatives/diversity-equity-inclusion-and-accessibility/equity-study-on-remote-identity-proofing).
 * Speaking publicly about how and why we work inclusively. Watch some of the presentations on Digital.gov’s YouTube channel:
-* * [Designing metaphors, designing collaboration](https://www.youtube.com/watch?v=4Fz9xqu89XU) (12 min)
+  * [Designing metaphors, designing collaboration](https://www.youtube.com/watch?v=4Fz9xqu89XU) (12 min)
   * [Designing with people of all abilities](https://www.youtube.com/watch?v=_QjXiQOa33Y) (52 min)
   * [Equity-centered design: Challenges in government](https://www.youtube.com/watch?v=j1ZJO8maV7s) (38 min)
   * [Increasing public participation in user research](https://www.youtube.com/watch?v=LI0uhEi70gc) (34 min)
