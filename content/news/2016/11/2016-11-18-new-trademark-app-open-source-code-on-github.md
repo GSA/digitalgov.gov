@@ -13,7 +13,7 @@ topics:
   - api
   - code
   - data
-  - department-of-commerce
+  
   - GitHub
   - innovation
   - mobile

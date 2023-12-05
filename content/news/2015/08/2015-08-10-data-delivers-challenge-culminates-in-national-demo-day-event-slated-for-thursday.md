@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - department-of-commerce
+  
   - united-states-census-bureau
 ---
 

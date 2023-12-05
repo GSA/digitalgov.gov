@@ -11,7 +11,7 @@ topics:
   - api
   - data
   - data-visualization
-  - department-of-commerce
+  
   - open-data
   - the-data-briefing
   - us-bureau-of-labor-statistics

@@ -6,7 +6,7 @@ summary: 'The U.S. Census Bureau today released Census PoP Quiz, a new interacti
 topics:
   - mobile
   
-  - department-of-commerce
+  
   - mobile-apps
   - open-data
   - thursday-mobile-products

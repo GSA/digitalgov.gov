@@ -10,7 +10,7 @@ topics:
   
   - data
   - data-visualization
-  - department-of-commerce
+  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - united-states-census-bureau

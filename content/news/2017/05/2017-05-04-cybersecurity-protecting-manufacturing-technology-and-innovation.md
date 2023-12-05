@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - data
-  - department-of-commerce
+  
   - innovation
   - internet-of-things
   - IoT

@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   
-  - department-of-commerce
+  
   - dhs
   - DOL
   - DOT

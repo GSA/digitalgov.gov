@@ -10,7 +10,7 @@ authors:
 topics:
   - data
   - data-gov
-  - department-of-commerce
+  
   - national-institute-of-standards-and-technology
   - national-oceanic-and-atmospheric-administration
   - NIST

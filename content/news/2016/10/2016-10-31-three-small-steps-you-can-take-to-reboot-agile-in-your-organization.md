@@ -13,7 +13,7 @@ topics:
   - user-testing-and-research
   - 18f
   - agile
-  - department-of-commerce
+  
   - kanban
   - lean
   - sprint

@@ -9,7 +9,7 @@ topics:
   - data
   - mobile
   - data
-  - department-of-commerce
+  
   - innovation
   - internet-of-things
   - IoT
