@@ -9,7 +9,6 @@ topics:
   - product-management
   - monthly-theme
   - customer-experience
-  - Ex-Im Bank
   - Export-Import Bank of the United States
   - metrics
 ---

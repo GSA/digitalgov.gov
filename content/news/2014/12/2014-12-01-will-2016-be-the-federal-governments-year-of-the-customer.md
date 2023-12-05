@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - Ex-Im Bank
   - Export-Import Bank of the United States
   - us-department-of-veterans-affairs
   - VA

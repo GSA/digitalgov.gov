@@ -7,10 +7,7 @@ authors:
   - awichman
 topics:
   - monthly-theme
-  
-  
   - customer-service
-  - Ex-Im Bank
   - Export-Import Bank of the United States
   - government-contact-centers
   - peace-corps

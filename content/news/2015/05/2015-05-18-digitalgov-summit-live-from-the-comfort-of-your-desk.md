@@ -9,8 +9,6 @@ authors:
 topics:
   - customer-experience
   - our-work
-  
-  - Ex-Im Bank
   - Export-Import Bank of the United States
   - gsa
   - HHS
