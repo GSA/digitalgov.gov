@@ -11,7 +11,6 @@ topics:
   - big-data
   - data
   - emerging-tech
-  - defense-advanced-research-projects-agency
   - hhs
   - nasa
   - national-aeronautics-and-space-administration
