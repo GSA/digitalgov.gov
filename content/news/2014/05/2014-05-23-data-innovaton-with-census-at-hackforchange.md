@@ -13,7 +13,7 @@ topics:
   
   
   
-  - epa
+  
   - mobile-apps
   - national-day-of-civic-hacking
   - national-science-foundation

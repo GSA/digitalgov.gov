@@ -11,7 +11,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing
   
-  - epa
+  
   - gsa
   - mobile-apps
 ---

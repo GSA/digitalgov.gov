@@ -8,7 +8,7 @@ topics:
   - mobile
   
   
-  - epa
+  
   - executive-office-of-the-president
   - HHS
   - mobile-ux-guideline-5

@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - epa
+  
   - nasa
 ---
 

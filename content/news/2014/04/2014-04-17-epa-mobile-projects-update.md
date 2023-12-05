@@ -9,7 +9,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - epa
+  
   - mobile-apps
   - thursday-mobile-products
   - us-environmental-protection-agency

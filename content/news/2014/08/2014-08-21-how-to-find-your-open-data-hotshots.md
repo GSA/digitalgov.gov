@@ -12,7 +12,7 @@ topics:
   - api
   
   - data-gov
-  - epa
+  
   - metadata
   - mobile-apps
   - national-oceanic-and-atmospheric-administration

@@ -23,7 +23,7 @@ topics:
   - crowdsourcing
   - data
   - data-visualization
-  - epa
+  
   - gsa
   - innovation
   - mobile-apps

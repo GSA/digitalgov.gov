@@ -10,7 +10,7 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - epa
+  
   - nasa
   - NPS
   - the-data-briefing

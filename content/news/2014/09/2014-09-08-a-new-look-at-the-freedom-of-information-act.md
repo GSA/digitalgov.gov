@@ -13,7 +13,7 @@ topics:
   - code
   - 18f
   
-  - epa
+  
   - Office of Management and Budget
   - OMB
   - open-government

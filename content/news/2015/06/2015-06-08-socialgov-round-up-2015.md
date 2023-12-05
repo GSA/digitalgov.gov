@@ -11,7 +11,7 @@ topics:
   - analytics
   - search
   
-  - epa
+  
   - fda
   - GAO
   - HHS

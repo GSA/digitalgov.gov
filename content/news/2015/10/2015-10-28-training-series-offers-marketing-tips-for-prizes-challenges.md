@@ -9,7 +9,7 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prizes-community-of-practice
-  - epa
+  
   - recaps
   - us-department-of-education
   - us-environmental-protection-agency

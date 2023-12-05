@@ -11,7 +11,7 @@ topics:
   - apps-challenges
   
   - challenges-and-prize-competitions
-  - epa
+  
   - mobile-ux-guideline-5
   - national-institute-of-standards-and-technology
   - native-apps

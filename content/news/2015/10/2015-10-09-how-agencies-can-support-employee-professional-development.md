@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   
-  - epa
+  
   - open-opportunities-program
   - transportation-security-administration
   - TSA

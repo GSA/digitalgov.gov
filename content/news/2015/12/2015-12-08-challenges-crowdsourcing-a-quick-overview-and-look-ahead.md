@@ -16,7 +16,7 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdfunding
   - crowdsourcing
-  - epa
+  
   - FCPCCS
   - national-institute-of-standards-and-technology
   - national-science-foundation

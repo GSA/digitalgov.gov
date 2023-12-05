@@ -21,7 +21,7 @@ topics:
   - social-media
   - user-experience
   
-  - epa
+  
   - FCC
   - federal-communications-commission
   - GAO

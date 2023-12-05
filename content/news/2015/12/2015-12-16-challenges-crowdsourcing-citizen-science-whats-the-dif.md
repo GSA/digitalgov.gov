@@ -18,7 +18,7 @@ topics:
   
   - crowdfunding
   - crowdsourcing
-  - epa
+  
   - FCPCCS
   - gsa
   - HHS

@@ -10,7 +10,7 @@ topics:
   - analytics
   - dap
   - data-gov
-  - epa
+  
   - GAO
   - NPS
   - open-data

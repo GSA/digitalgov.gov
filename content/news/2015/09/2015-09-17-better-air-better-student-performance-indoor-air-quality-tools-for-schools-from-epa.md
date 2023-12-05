@@ -7,7 +7,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - epa
+  
   - mobile
   - mobile-apps
   - thursday-mobile-products

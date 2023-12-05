@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - social-media
-  - epa
+  
   - HHS
   - national-cancer-institute
   - national-institutes-of-health

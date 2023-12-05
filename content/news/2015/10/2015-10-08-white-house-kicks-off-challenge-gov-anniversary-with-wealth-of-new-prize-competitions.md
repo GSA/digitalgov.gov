@@ -11,7 +11,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   
-  - epa
+  
   - nasa
   - NPS
   - OSTP

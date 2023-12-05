@@ -10,7 +10,7 @@ topics:
   - metrics
   - mobile
   - monthly-theme
-  - epa
+  
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5
   - nasa

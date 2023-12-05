@@ -10,7 +10,7 @@ topics:
   - product-management
   - content
   - data
-  - epa
+  
   - nasa
   - National Aeronautics and Space Administration
   - national-institutes-of-health
