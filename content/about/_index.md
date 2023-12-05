@@ -9,7 +9,7 @@ aliases:
 
 ## Mission
 
-To connect our federal colleagues with the knowledge they need to create outstanding websites and digital services. 
+To connect our federal colleagues with the knowledge they need to build outstanding websites and digital services. 
 
 ## Vision
 
