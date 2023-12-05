@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - data
   - data-visualization
-  - FAA
   - Federal Aviation Administration
   - nasa
   - research

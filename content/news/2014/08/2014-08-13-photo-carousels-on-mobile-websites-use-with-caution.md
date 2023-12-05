@@ -9,13 +9,11 @@ topics:
   - mobile
   - monthly-theme
   - user-testing-and-research
-  - FAA
   - Federal Aviation Administration
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - web-content-managers-forum
-
 ---
 
 {{< legacy-img-right src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="Screencapture of a GSA mobile site photo carousel." >}}

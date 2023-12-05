@@ -8,9 +8,6 @@ authors:
 topics:
   - api
   - data
-  
-  
-  - FAA
   - Federal Aviation Administration
   - mobile-apps
   - mobile-code-catalog

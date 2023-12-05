@@ -7,13 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  
-  
-  
-  
-  
-  
-  - FAA
   - FCC
   - fda
   - Federal Aviation Administration
