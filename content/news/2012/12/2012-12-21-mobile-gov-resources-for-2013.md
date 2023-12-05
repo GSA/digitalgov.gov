@@ -6,7 +6,7 @@ summary: 'With mobile use growing exponentially and federal agencies implementin
 topics:
   - mobile
   - api
-  - dhs
+  
   - DOL
   - gsa
   - HHS

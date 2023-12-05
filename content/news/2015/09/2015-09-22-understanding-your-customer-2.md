@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - dhs
+  
   - HHS
   - HUD
   - US Department of Agriculture

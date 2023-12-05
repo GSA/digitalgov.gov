@@ -10,7 +10,7 @@ topics:
   - product-management
   - user-experience
   - accessibility
-  - dhs
+  
   - DOL
   - HHS
   - section-508

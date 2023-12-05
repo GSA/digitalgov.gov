@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - us-customs-and-border-protection
-  - dhs
+  
   - ICE
   - thursday-mobile-products
   - US Customs and Border Protection

@@ -14,7 +14,7 @@ topics:
   - video
   - audio-video
   - augmented-reality
-  - dhs
+  
   - Gamification
   - research
   - Security

@@ -10,7 +10,7 @@ topics:
   - writing
   
   - content-strategy
-  - dhs
+  
   - metrics
   - plain-writing-act-of-2010
   - social-media
