@@ -7,7 +7,6 @@ authors:
   - uscis-staff
 topics:
   - social-media
-  - Education
   - epa
   - FAFSA
   - federal-emergency-management-agency

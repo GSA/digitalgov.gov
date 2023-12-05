@@ -10,9 +10,6 @@ topics:
   - product-management
   - content
   - data
-  
-  
-  - Education
   - epa
   - nasa
   - National Aeronautics and Space Administration

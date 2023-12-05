@@ -8,9 +8,7 @@ authors:
 topics:
   - code
   - monthly-theme
-  
   - data
-  - Education
   - FEC
   - federal-election-commission
   - HHS

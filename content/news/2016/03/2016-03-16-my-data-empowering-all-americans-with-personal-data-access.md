@@ -12,7 +12,6 @@ topics:
   - monthly-theme
   - 18f
   - data-gov
-  - Education
   - HHS
   - open-government
   - SSA

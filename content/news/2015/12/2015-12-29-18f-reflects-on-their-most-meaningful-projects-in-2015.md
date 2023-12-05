@@ -14,8 +14,6 @@ topics:
   - dap
   - data
   - digital-analytics-program
-  
-  - Education
   - FEC
   - federal-election-commission
   - gsa
