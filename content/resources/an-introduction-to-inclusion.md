@@ -1,6 +1,12 @@
 ---
 date: 2023-12-05 16:20:00 -0500
 title: An introduction to inclusion
+authors:
+  - anne-petersen
+topics:
+  - diversity-equity-and-inclusion
+  - project-management
+  - professional-development
 deck: Understand why and how to create an inclusive culture
 summary: "An inclusive culture contributes to a sense of belonging, promotes a
   healthier and more empowering workplace, respects differences, and optimizes
@@ -50,7 +56,7 @@ While not an exhaustive list, ways to be more inclusive include:
 * Showing up to events and trainings where different perspectives are presented; even your presence and active listening can demonstrate an effort to be inclusive
 * Forgiving yourself, apologizing, and growing
 
-{{< ring title="Case study: TTS Values">}}
+{{< ring title="Case study">}}
 
 At Technology Transformation Services (TTS), inclusion is key to [our values](https://handbook.tts.gsa.gov/about-us/tts-history/#our-values-2). We believe that [DEIA is vital to a successful organization](https://handbook.tts.gsa.gov/about-us/deia/) and that we must reflect the diversity of the public we serve. 
 
