@@ -23,7 +23,7 @@ authors:
 
 ---
 
-## What is the Federal Web Council? 
+## What is the Federal Web Council?
 
 The Federal Web Council was launched in January 2004 as an interagency group of federal web managers who work together to improve the online delivery of U.S. government information and services. It provides a forum for high-level cross-agency collaboration, and recommends policies and guidelines for all public-facing U.S. federal websites.
 

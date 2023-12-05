@@ -3,6 +3,7 @@ date: 2023-01-31 17:26:00 -0500
 title: 9 web resolutions to jump-start 2023
 deck: Try one, try all
 summary: Nine areas to focus on in the coming year to take your digital sites and services to the next level.
+
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
@@ -17,6 +18,7 @@ authors:
   - tori-garten
 
 slug: 9-web-resolutions-to-jump-start-2023
+
 primary_image: "start-2023-road-sakorn-sukkasemsakorn-istock-getty-images-1446850843-copy"
 
 # Controls how this page appears across the site
@@ -67,8 +69,6 @@ Have you checked out the [USWDS maturity model](https://designsystem.digital.gov
 ## Resolution 7. Metrics and analytics
 
 How is your metrics and analytics program? Are you focused on upgrading to a new version of your analytics service and making more of the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP)? What insights can you take from your data to drive your next steps in improving your site? Who or what might these insights influence?
-
-DAP is [required](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/) on all public-facing federal websites by [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
 
 ## Resolution 8. Storytelling and communications
 
