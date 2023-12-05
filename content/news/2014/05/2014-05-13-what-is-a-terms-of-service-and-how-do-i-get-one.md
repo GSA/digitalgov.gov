@@ -9,7 +9,7 @@ topics:
   - product-management
   - social-media
   - user-experience
-  - DOJ
+  
   - terms-of-service
   - tos
   - us-department-of-justice

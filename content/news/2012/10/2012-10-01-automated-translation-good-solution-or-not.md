@@ -9,7 +9,7 @@ topics:
   - content
   - product-management
   
-  - DOJ
+  
   - HHS
   - LEP
   - multilingual

@@ -10,7 +10,7 @@ topics:
   - 18f
   - data-gov
   
-  - DOJ
+  
   - FEC
   - federal-election-commission
   - open-government

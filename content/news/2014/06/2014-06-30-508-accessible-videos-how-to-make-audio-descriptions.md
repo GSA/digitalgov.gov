@@ -10,7 +10,7 @@ authors:
 topics:
   - accessibility
   - video
-  - DOJ
+  
   - nasa
   - section-508
   - us-department-of-justice

@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - challenges-and-prize-competitions
   - data-visualization
-  - DOJ
+  
   - open-data
   - us-department-of-justice
 ---

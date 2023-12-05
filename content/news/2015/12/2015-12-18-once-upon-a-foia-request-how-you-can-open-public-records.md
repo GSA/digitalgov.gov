@@ -9,7 +9,7 @@ authors:
 topics:
   - product-management
   - social-media
-  - DOJ
+  
   - FBI
   - Federal Bureau of Investigation
   - national-action-plan-on-open-government

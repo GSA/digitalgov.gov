@@ -7,7 +7,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - DOJ
+  
   - ICE
   - thursday-mobile-products
   - us-department-of-justice
