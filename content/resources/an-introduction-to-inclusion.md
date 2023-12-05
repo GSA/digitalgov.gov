@@ -1,8 +1,6 @@
 ---
 date: 2023-12-05 16:20:00 -0500
 title: An introduction to inclusion
-authors:
-  - anne-petersen
 topics:
   - diversity-equity-and-inclusion
   - project-management
