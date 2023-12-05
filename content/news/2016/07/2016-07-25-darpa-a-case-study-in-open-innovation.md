@@ -14,7 +14,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - DARPA
   - defense-advanced-research-projects-agency
   - DoD
   - innovation
