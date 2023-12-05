@@ -11,9 +11,7 @@ topics:
   - strategy
   - policy
   - api
-  
   - code
-  - Consumer Product Safety Commission
   - data
   - mobile
   - open
