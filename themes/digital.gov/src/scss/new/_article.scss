@@ -104,3 +104,14 @@ article {
     }
   }
 }
+
+// hides authors list on desktop, shows on mobile
+// header {
+//   .authors-list-short {
+//     @include u-display("flex");
+
+//     @include at-media("tablet-lg") {
+//       @include u-display("none");
+//     }
+//   }
+// }

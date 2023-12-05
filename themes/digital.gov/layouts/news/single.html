@@ -5,98 +5,70 @@
     {{ $path = .Path }}
   {{ end }}
 
-
-  <main role="main" id="main-content">
-    {{ partial "core/blog-date-warning.html" . }}
-    <article
-      {{ if .Params.short_url -}}
-        data-short_url="{{- .Params.short_url -}}"
+  {{ partial "core/blog-date-warning.html" . }}
+  <article class="grid-container-desktop">
+    {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+    <header data-gh-edit-page="{{- $path -}}">
+      {{- if .Params.kicker -}}
+        <p class="kicker">{{- .Params.kicker -}}</p>
       {{- end -}}
-    >
-      <header>
-        <div
-          class="grid-container grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
-          {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-          <div class="grid-row">
-            <div class="grid-col-12">
-              {{- if .Params.kicker -}}
-                <p class="kicker">{{- .Params.kicker -}}</p>
-              {{- end -}}
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}}</h1>
+      {{/* Page Title */}}
+      <h1>{{- .Title | markdownify -}}</h1>
 
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-                <div class="deck">{{- .Params.deck | markdownify -}}</div>
-              {{- end -}}
+      {{/* Deck */}}
+      {{- if .Params.deck -}}
+        <div class="deck">{{- .Params.deck | markdownify -}}</div>
+      {{- end -}}
 
-              {{- partial "core/get_authors_short.html" . -}}
+      {{- partial "core/get_authors_short.html" . -}}
 
 
-              <div class="meta">
-                <div class="date">
-                  <span title="{{- .Title | markdownify -}} "
-                    >{{- .Date.Format "Jan _2, 2006" -}}</span
-                  >
-                </div>
-              </div>
-            </div>
+      <div class="meta">
+        <div class="date">
+          <span title="{{- .Title | markdownify -}} "
+            >{{- .Date.Format "Jan _2, 2006" -}}</span
+          >
+        </div>
+      </div>
+    </header>
+
+    <section class="grid-row tablet-lg:grid-gap-6">
+      <main
+        id="main-content"
+        class="tablet-lg:grid-col-9"
+        data-gh-edit-page="{{- $path -}}"
+      >
+        <div class="content usa-prose">
+          {{- .Content -}}
+        </div>
+
+        {{- partial "core/gh-commit-info.html" . -}}
+        {{- partial "core/touchpoints-form.html" . -}}
+      </main>
+
+      <aside class="dg-sidebar tablet-lg:grid-col-3">
+        {{- partial "core/get_authors.html" . -}}
+
+
+        <div class="meta">
+          <div class="date">
+            <span title="{{- .Title | markdownify -}} "
+              >{{- .Date.Format "Jan _2, 2006" -}}
+            </span>
           </div>
         </div>
-      </header>
 
-      <section>
-        <div
-          class="grid-container grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
-          <div class="grid-row tablet-lg:grid-gap-6">
-            <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">
-              {{/* Content */}}
-              <div class="content usa-prose">
-                {{- .Content -}}
-              </div>
+        {{/* Related Communities and Services */}}
+        {{- partial "core/get_related.html" . -}}
 
-              {{- partial "core/gh-commit-info.html" . -}}
+        {{/* Topics */}}
+        {{- partial "core/list-topics.html" . -}}
 
-              {{/* Touchpoints Form */}}
-              {{- partial "core/touchpoints-form.html" . -}}
-            </div>
-
-            <div class="dg-sidebar grid-col-12 tablet-lg:grid-col-3">
-              {{/* Authors */}}
-              {{- partial "core/get_authors.html" . -}}
-
-
-              <div class="meta">
-                {{/* Date */}}
-                <div class="date">
-                  <span title="{{- .Title | markdownify -}} "
-                    >{{- .Date.Format "Jan _2, 2006" -}}
-                  </span>
-                </div>
-              </div>
-
-              {{/* Last updated */}}
-              {{/* {{- partial "last-updated.html" . -}} */}}
-              {{/* Related Communities and Services */}}
-              {{- partial "core/get_related.html" . -}}
-
-              {{/* Topics */}}
-              {{- partial "core/list-topics.html" . -}}
-
-              {{/* Share Tools */}}
-              {{- partial "core/get_sharetools.html" . -}}
-
-            </div>
-          </div>
-        </div>
-      </section>
-    </article>
-  </main>
+        {{/* Share Tools */}}
+        {{- partial "core/get_sharetools.html" . -}}
+      </aside>
+    </section>
+  </article>
 
   {{- partial "core/overlay.html" . -}}
-
 {{- end -}}
