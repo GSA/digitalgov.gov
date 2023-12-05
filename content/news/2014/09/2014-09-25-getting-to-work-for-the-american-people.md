@@ -9,7 +9,7 @@ topics:
   - code
   - 18f
   - data-gov
-  - DOI
+  
   - DOJ
   - FEC
   - federal-election-commission

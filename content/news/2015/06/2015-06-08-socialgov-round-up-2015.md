@@ -10,7 +10,7 @@ topics:
   - social-media
   - analytics
   - search
-  - DOI
+  
   - epa
   - fda
   - GAO

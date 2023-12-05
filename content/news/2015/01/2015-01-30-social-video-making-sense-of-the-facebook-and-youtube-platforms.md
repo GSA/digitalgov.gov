@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - video
-  - DOI
+  
   - us-department-of-the-interior
 ---
 

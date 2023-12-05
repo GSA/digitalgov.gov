@@ -9,7 +9,7 @@ topics:
   - communities
   - social-media
   - aoi
-  - DOI
+  
   - fda
   - federal-register
   - FSA
