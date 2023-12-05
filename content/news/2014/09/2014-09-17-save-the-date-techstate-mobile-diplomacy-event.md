@@ -9,7 +9,7 @@ topics:
   - mobile
   
   
-  - DOL
+  
   - mobile-gov-community-of-practice
   - us-department-of-labor
   - us-department-of-state

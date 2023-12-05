@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - mobile
-  - DOL
+  
   - mobile-apps
   - OSHA
   - us-department-of-labor

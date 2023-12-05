@@ -9,7 +9,7 @@ topics:
   - communities
   - user-testing-and-research
   - aoi
-  - DOL
+  
   - us-bureau-of-labor-statistics
   - us-department-of-labor
   - usability-testing

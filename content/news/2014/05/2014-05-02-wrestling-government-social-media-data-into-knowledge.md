@@ -7,7 +7,7 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - DOL
+  
   - social-media
   - socialgov-community
   - us-department-of-labor

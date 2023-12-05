@@ -15,7 +15,7 @@ topics:
   - social-media
   - user-experience
   
-  - DOL
+  
   - epa
   - fda
   - GAO

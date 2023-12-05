@@ -20,7 +20,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - DOL
+  
   - epa
   - FCC
   - federal-communications-commission

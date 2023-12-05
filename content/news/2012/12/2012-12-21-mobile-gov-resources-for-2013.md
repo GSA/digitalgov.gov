@@ -7,7 +7,7 @@ topics:
   - mobile
   - api
   
-  - DOL
+  
   - gsa
   - HHS
   - IRS

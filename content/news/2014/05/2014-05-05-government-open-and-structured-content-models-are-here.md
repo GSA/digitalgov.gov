@@ -21,7 +21,7 @@ topics:
   
   
   - content-models
-  - DOL
+  
   - fda
   - GitHub
   - gsa

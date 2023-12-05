@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - DOL
+  
   - mobile-apps
   - mobile-gov-community-of-practice
   - nih

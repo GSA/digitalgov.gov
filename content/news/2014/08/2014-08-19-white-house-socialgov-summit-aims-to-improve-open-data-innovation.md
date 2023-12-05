@@ -9,7 +9,7 @@ topics:
   - code
   - social-media
   - data-gov
-  - DOL
+  
   - open-data
   - recaps
   - socialgov-community

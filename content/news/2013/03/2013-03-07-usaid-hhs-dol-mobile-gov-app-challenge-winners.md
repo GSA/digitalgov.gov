@@ -6,7 +6,7 @@ summary: One way federal agencies create Mobile Gov products is through third pa
 topics:
   - challenges
   - mobile
-  - DOL
+  
   - HHS
   - mobile-apps
   - mobile-gov

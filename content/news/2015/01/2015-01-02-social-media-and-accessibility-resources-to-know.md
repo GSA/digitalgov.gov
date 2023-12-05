@@ -11,7 +11,7 @@ topics:
   - social-media
   - aids-gov
   - aoi
-  - DOL
+  
   - FCC
   - federal-communications-commission
   - HHS

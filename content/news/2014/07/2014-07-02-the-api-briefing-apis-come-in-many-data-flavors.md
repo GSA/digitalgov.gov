@@ -9,7 +9,7 @@ topics:
   - api
   - data
   
-  - DOL
+  
   - FAA
   - Federal Aviation Administration
   - mobile-apps

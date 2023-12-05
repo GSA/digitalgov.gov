@@ -9,7 +9,7 @@ topics:
   - code
   - mobile
   - code
-  - DOL
+  
   - HHS
   - mobile
   - mobile-code-catalog

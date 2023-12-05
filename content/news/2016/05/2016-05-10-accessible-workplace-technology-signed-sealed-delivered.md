@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - accessibility
-  - DOL
+  
   - us-department-of-labor
   - user-centered-design
   - user-experience

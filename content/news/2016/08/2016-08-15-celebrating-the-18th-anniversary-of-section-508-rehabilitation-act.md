@@ -11,7 +11,7 @@ topics:
   - user-experience
   - accessibility
   
-  - DOL
+  
   - HHS
   - section-508
   - SSA

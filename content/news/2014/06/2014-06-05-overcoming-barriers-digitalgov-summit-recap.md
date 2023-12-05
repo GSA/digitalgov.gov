@@ -16,7 +16,7 @@ topics:
   - user-experience
   - challenge-gov
   - data-gov
-  - DOL
+  
   - GitHub
   - recaps
   - SBA

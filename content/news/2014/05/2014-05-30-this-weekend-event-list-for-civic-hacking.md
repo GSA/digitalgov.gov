@@ -12,7 +12,7 @@ topics:
   
   
   - data-gov
-  - DOL
+  
   - DOT
   - epa
   - FCC

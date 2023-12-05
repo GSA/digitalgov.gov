@@ -9,7 +9,7 @@ authors:
 topics:
   - code
   - mobile
-  - DOL
+  
   - mobile-apps
   - mobile-code-catalog
   - mobile-gov

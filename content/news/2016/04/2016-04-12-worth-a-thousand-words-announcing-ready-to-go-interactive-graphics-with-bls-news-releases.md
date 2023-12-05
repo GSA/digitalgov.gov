@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - data
   - data-visualization
-  - DOL
+  
   - us-bureau-of-labor-statistics
   - us-department-of-labor
 ---

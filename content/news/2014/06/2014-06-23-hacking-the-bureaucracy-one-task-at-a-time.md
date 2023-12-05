@@ -8,7 +8,7 @@ authors:
 topics:
   - governance
   - product-management
-  - DOL
+  
   - mobile-code-catalog
   - open-and-structured-content-models
   - open-opportunities-program

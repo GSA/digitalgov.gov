@@ -11,7 +11,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - DOL
+  
   - recaps
 
 ---

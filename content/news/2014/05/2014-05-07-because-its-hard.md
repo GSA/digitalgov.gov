@@ -15,7 +15,7 @@ topics:
   - api
   
   - customer-experience
-  - DOL
+  
   - innovation
   - mobile
   - open-and-structured-content-models
