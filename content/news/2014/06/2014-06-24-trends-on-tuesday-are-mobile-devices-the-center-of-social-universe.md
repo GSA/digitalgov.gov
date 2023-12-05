@@ -10,7 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - social-media
-  - Corporation for National and Community Service
   - crowdsourcing
   - DOT
   - internet-of-things
