@@ -7,8 +7,6 @@ authors:
   - uscis-staff
 topics:
   - social-media
-  
-  - FAFSA
   - federal-emergency-management-agency
   - fema
   - US Citizenship and Immigration Service

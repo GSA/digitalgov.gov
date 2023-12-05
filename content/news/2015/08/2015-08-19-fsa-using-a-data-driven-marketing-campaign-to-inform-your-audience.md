@@ -7,7 +7,6 @@ authors:
   - kdaniel
 topics:
   - social-media
-  - FAFSA
   - federal-student-aid
   - us-department-of-education
 ---

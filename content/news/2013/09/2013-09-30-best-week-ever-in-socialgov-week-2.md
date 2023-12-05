@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - accessibility
-  - FAFSA
   - nasa
   - socialgov
 ---
