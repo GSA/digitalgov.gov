@@ -19,7 +19,7 @@ topics:
   - crowdfunding
   - crowdsourcing
   - data
-  - DoD
+  
   - DOE
   - DOT
   - epa

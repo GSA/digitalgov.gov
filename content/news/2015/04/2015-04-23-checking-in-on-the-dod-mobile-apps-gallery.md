@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - DoD
+  
   - thursday-mobile-products
   - united-states-department-of-defense
  

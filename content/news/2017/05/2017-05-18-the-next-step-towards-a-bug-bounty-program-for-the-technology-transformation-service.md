@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - 18f
-  - DoD
+  
   - security
   - technology-transformation-services
   - tts

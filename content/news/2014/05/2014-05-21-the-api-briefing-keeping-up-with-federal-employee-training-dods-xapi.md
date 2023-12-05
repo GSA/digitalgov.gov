@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - api
-  - DoD
+  
   - united-states-department-of-defense
   - wednesday-api-briefing
 ---

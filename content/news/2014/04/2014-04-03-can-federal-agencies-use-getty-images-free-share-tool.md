@@ -7,7 +7,7 @@ authors:
   - judith-snyderman
 topics:
   - social-media
-  - DoD
+  
   - Library of Congress
   - LOC
   - national-archives-and-records-administration

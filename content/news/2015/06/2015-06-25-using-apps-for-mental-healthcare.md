@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - DoD
+  
   - mobile-apps
   - mobile-ux-guideline-2
   - mobile-ux-guideline-5

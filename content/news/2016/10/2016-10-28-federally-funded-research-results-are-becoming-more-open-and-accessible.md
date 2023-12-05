@@ -10,7 +10,7 @@ topics:
   - product-management
   - content
   - data
-  - DoD
+  
   - DOT
   - Education
   - epa

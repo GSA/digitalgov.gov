@@ -14,7 +14,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - DoD
+  
   - innovation
   - open-government
   - prizes-and-competitions

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   
-  - DoD
+  
   - DOL
   - mobile-gov-community-of-practice
   - us-department-of-labor

@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - DoD
+  
   - united-states-department-of-defense
 ---
 

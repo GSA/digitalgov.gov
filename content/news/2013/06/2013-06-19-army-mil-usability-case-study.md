@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - DoD
+  
   - united-states-army
   - united-states-department-of-defense
   - usability

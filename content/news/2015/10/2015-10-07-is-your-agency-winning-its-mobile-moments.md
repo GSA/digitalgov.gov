@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - DoD
+  
   - Federal CrowdSource Mobile Testing Program
   - Internal Revenue Service
   - IRS
