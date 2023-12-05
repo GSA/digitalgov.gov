@@ -9,7 +9,7 @@ topics:
   - api
   - data
   - data-gov
-  - DOT
+  
   - GitHub
   - open-data
   - US Department of Agriculture

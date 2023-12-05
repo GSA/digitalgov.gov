@@ -10,7 +10,7 @@ topics:
   - security
   - our-work
   
-  - DOT
+  
   - NIST
   - recaps
   - united-states-department-of-transportation

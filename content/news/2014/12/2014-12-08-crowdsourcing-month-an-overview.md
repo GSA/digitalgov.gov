@@ -21,7 +21,7 @@ topics:
   - data
   
   
-  - DOT
+  
   - epa
   - FCPCCS
   - Federal Trade Commission

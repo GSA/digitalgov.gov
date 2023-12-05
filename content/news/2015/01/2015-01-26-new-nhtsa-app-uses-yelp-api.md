@@ -9,7 +9,7 @@ topics:
   - code
   - mobile
   - social-media
-  - DOT
+  
   - mobile-apps
   - National Highway Traffic Safety Administration
   - NHTSA

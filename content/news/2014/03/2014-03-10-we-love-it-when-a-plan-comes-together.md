@@ -12,7 +12,7 @@ topics:
   - social-media
   
   - challenges-and-prize-competitions
-  - DOT
+  
   - HHS
   - nasa
   - open-government

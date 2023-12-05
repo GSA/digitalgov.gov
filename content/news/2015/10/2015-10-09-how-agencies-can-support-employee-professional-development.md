@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - our-work
-  - DOT
+  
   - epa
   - open-opportunities-program
   - transportation-security-administration

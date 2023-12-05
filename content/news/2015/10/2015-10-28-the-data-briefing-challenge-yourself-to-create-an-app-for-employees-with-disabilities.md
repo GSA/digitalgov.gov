@@ -13,7 +13,7 @@ topics:
   - api
   - data
   - data-gov
-  - DOT
+  
   - FCC
   - federal-communications-commission
   - gsa

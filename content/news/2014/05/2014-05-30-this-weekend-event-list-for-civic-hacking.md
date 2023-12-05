@@ -13,7 +13,7 @@ topics:
   
   - data-gov
   
-  - DOT
+  
   - epa
   - FCC
   - federal-emergency-management-agency

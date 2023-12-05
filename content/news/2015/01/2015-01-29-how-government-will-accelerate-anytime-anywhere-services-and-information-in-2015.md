@@ -13,7 +13,7 @@ topics:
   - aoi
   - COPE
   - crowdsourcing
-  - DOT
+  
   - government-contact-centers
   - HHS
   - internet-of-things

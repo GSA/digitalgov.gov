@@ -11,7 +11,7 @@ topics:
   - content
   - data
   
-  - DOT
+  
   - Education
   - epa
   - nasa

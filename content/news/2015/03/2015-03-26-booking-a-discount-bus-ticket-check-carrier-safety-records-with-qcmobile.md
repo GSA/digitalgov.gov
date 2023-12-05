@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - DOT
+  
   - mobile
   - mobile-apps
   - thursday-mobile-products
