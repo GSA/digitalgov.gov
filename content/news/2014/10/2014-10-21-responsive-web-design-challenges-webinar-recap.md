@@ -10,7 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - analytics
-  - DFAS
   - DOE
   - mobile
   - mobile-ux-guideline-1

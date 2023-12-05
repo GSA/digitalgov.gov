@@ -13,7 +13,6 @@ topics:
   - aoi
   - COPE
   - crowdsourcing
-  - DFAS
   - DOT
   - government-contact-centers
   - HHS

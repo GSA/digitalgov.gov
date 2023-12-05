@@ -10,7 +10,6 @@ topics:
   - metrics
   - mobile
   - monthly-theme
-  - DFAS
   - epa
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5

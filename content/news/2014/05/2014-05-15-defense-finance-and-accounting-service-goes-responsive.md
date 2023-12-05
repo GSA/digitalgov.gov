@@ -6,7 +6,6 @@ summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And a
 topics:
   - design
   - mobile
-  - DFAS
   - DoD
   - DOE
   - epa

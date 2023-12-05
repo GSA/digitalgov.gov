@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - DFAS
   - DOE
   - Federal CrowdSource Mobile Testing Program
   - HHS

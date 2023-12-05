@@ -9,7 +9,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - DFAS
   - DOE
   - HHS
   - mobile-gov-community-of-practice
