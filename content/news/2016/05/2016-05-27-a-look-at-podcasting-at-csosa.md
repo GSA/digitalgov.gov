@@ -7,7 +7,6 @@ authors:
   - leonard-sipes
 topics:
   - content
-  - Court Services and Offender Supervision Agency
   - CSOSA
   - podcast
 
