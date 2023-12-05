@@ -24,7 +24,7 @@ slug: an-introduction-to-domain-management
 
 It should be easy to identify governments on the internet, and using a **.gov** top-level domain (TLD) shows that you’re official. The public shouldn’t have to guess whether the site they’re on or the email that hits their inbox is genuine.
 
-A domain uniquely identifies areas on the internet, like websites or email services. For example, `Digital.gov` is a domain, consitig of 1) the secondary domain `digital`, and 2) the top-level domain `.gov`. [Domain management](https://digital.gov/topics/domain-management/) is the process of overseeing and maintaining a domain or related domains so that they are consistent and safe.
+A domain uniquely identifies areas on the internet, like websites or email services. For example, `Digital.gov` is a domain, consitig of 1) the second-level domain `digital`, and 2) the top-level domain `.gov`. [Domain management](https://digital.gov/topics/domain-management/) is the process of overseeing and maintaining a domain or related domains so that they are consistent and safe.
 
 Domain management and web hosting are often confused for one another. However, domain management is different from web hosting in the same way that a street address is different from the house it leads to. A domain is a location and a name, like Digital.gov. Digital.gov is a web address, but it is also the name of an organization. Web hosting, by contrast, happens only behind the scenes; as an online service, a web host provides the physical ("dedicated") and/or virtual servers needed to publish a discoverable website on the internet.
 
