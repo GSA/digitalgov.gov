@@ -9,8 +9,6 @@ authors:
   - kristen-honey
 topics:
   - data
-  
-  - Commerce
   - data-gov
   - department-of-commerce
   - national-institute-of-standards-and-technology

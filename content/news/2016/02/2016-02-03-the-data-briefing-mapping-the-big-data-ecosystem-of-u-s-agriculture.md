@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - big-data
-  - Commerce
   - data
   - department-of-commerce
   - Library of Congress

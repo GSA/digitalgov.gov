@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - mobile
-  - Commerce
   - data
   - department-of-commerce
   - innovation

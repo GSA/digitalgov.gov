@@ -11,7 +11,6 @@ topics:
   - social-media
   - strategy
   - policy
-  - Commerce
   - content
   - content-strategy
   - department-of-commerce

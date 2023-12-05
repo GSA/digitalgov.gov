@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - Commerce
   - data
   - department-of-commerce
   - innovation

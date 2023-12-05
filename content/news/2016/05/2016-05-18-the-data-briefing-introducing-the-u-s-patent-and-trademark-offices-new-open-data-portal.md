@@ -9,8 +9,6 @@ topics:
   - api
   - data
   - api
-  
-  - Commerce
   - data
   - data-visualization
   - department-of-commerce
