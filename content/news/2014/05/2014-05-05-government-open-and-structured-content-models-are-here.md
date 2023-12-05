@@ -19,7 +19,7 @@ topics:
   
   
   
-  - Consumer Financial Protection Bureau
+  
   - content-models
   - DOL
   - fda

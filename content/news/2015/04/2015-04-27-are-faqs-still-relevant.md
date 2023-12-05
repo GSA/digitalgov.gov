@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   
-  - Consumer Financial Protection Bureau
+  
   - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States

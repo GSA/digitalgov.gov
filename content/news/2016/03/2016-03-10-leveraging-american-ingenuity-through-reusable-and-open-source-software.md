@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - 18f
   
-  - Consumer Financial Protection Bureau
+  
   - data-gov
   - Education
   - HUD

@@ -11,8 +11,6 @@ topics:
   - mobile
   - content
   - accessibility
-  
-  - consumer-financial-protection-bureau
   - federal-reserve-board
   - frb
   - united-states-patent-and-trademark-office

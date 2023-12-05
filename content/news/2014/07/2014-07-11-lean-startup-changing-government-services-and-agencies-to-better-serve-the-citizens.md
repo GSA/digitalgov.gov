@@ -10,7 +10,7 @@ topics:
   - policy
   - 18f
   
-  - Consumer Financial Protection Bureau
+  
   - fda
   - OPM
   - us-food-and-drug-administration

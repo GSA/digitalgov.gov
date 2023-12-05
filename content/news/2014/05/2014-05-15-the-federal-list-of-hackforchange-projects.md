@@ -11,7 +11,7 @@ topics:
   
   
   - challenge-gov
-  - Consumer Financial Protection Bureau
+  
   - data-gov
   - federal-emergency-management-agency
   - fema

@@ -9,7 +9,7 @@ topics:
   - content
   - product-management
   
-  - Consumer Financial Protection Bureau
+  
   - content-strategy
   - GobiernoUSAgov
   - multilingual

@@ -9,7 +9,7 @@ topics:
   - content
   
   
-  - Consumer Financial Protection Bureau
+  
   - epa
   - FCC
   - federal-communications-commission

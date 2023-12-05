@@ -13,7 +13,7 @@ topics:
   - design
   - user-experience
   
-  - Consumer Financial Protection Bureau
+  
   - content
   - content-strategy
   - multilingual

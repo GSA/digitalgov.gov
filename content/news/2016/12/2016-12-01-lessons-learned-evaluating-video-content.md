@@ -12,7 +12,7 @@ topics:
   - video
   - audio-video
   
-  - Consumer Financial Protection Bureau
+  
   - content
   - content-strategy
   - multimedia

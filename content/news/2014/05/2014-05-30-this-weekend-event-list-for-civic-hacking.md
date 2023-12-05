@@ -10,7 +10,7 @@ topics:
   - data
   
   
-  - Consumer Financial Protection Bureau
+  
   - data-gov
   - DOL
   - DOT

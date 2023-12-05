@@ -11,7 +11,7 @@ topics:
   - api
   
   
-  - Consumer Financial Protection Bureau
+  
   - department-of-commerce
   - epa
   - mobile-apps

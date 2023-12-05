@@ -11,7 +11,7 @@ topics:
   - 18f
   - api
   
-  - Consumer Financial Protection Bureau
+  
   - content-management-system
   - data
   - data-gov

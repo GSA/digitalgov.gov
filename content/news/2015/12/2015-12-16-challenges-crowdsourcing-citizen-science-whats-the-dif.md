@@ -15,7 +15,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - Consumer Financial Protection Bureau
+  
   - crowdfunding
   - crowdsourcing
   - epa

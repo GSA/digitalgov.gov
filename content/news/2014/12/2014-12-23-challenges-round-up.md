@@ -12,7 +12,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - Consumer Financial Protection Bureau
+  
   - crowdsourcing
   - nasa
   - open-source

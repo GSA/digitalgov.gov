@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - analytics
   
-  - Consumer Financial Protection Bureau
+  
   - data
   - data-visualization
   - google-analytics

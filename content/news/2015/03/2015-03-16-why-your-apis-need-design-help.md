@@ -12,7 +12,7 @@ topics:
   - api
   - application-programming-interface
   
-  - Consumer Financial Protection Bureau
+  
   - fda
   - GitHub
   - json
