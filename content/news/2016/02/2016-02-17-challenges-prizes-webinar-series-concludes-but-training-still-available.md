@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - DOE
+  
   - HHS
   - HUD
   - nasa

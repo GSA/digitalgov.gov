@@ -7,7 +7,7 @@ topics:
   - design
   - mobile
   
-  - DOE
+  
   - epa
   - executive-office-of-the-president
   - HHS

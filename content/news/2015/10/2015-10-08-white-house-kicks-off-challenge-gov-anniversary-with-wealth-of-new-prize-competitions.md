@@ -10,7 +10,7 @@ topics:
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - DOE
+  
   - epa
   - nasa
   - NPS

@@ -12,7 +12,7 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - DOE
+  
   - FCPCCS
   - federal-emergency-management-agency
   - fema

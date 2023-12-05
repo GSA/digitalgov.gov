@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - DOE
+  
   - Federal CrowdSource Mobile Testing Program
   - HHS
   - mobile

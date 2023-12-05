@@ -20,7 +20,7 @@ topics:
   - crowdsourcing
   - data
   
-  - DOE
+  
   - DOT
   - epa
   - FCPCCS

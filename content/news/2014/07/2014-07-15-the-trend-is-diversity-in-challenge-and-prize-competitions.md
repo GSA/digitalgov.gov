@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - challenge-gov
   - challenges-and-prizes-community-of-practice
-  - DOE
+  
   - HHS
   - innovation
   - nasa

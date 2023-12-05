@@ -9,7 +9,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - DOE
+  
   - HHS
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1

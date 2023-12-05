@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - monthly-theme
-  - DOE
+  
   - united-states-department-of-energy
 ---
 

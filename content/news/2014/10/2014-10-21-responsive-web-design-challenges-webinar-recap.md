@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - analytics
-  - DOE
+  
   - mobile
   - mobile-ux-guideline-1
   - recaps
