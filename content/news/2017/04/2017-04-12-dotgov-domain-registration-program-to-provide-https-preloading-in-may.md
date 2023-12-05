@@ -30,7 +30,7 @@ Once new .gov executive branch federal domains are registered as HTTPS-only, age
 
 For more details about the HSTS Preloading Service, check out the links below:
 
-  * [HSTS Preloading FAQs on dotgov.gov](https://www.dotgov.gov/portal/web/dotgov/support#HSTS_Preloading)
+  * [HSTS Preloading best practices on dotgov.gov](https://get.gov/help/security-best-practices/#preload-your-domain)
   * [The original public announcement of this change](https://www.cio.gov/2017/01/19/automatic-https-enforcement-new-executive-branch-gov-domains/)
   * [GSA’s guidance on HTTPS, HSTS, and preloading](https://https.cio.gov/hsts)
 
