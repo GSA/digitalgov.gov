@@ -8,8 +8,6 @@ authors:
 topics:
   - data
   - data-gov
-  
-  - FWS
   - us-department-of-the-interior
   - us-fish-and-wildlife-service
 ---

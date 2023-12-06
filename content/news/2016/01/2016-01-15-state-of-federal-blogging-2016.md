@@ -7,7 +7,6 @@ authors:
   - danielle-brigida
 topics:
   - content
-  - FWS
   - nasa
   - us-department-of-the-interior
   - us-fish-and-wildlife-service

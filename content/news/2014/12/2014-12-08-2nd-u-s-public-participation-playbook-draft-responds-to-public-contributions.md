@@ -7,7 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - FWS
   - gsa
   - Library of Congress
   - LOC
