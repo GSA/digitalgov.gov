@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - aoi
-  - HHS
+  
   - national-institutes-of-health
   - NCI
   - nih

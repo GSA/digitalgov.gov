@@ -9,7 +9,7 @@ topics:
   - api
   - data
   
-  - HHS
+  
   - national-institutes-of-health
   - National Library of Medicine
   - nih

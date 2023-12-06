@@ -11,7 +11,7 @@ topics:
   - big-data
   - data
   - emerging-tech
-  - hhs
+  
   - nasa
   - national-aeronautics-and-space-administration
   - trends-on-tuesday

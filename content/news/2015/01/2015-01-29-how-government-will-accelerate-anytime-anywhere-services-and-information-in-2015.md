@@ -15,7 +15,7 @@ topics:
   - crowdsourcing
   
   - government-contact-centers
-  - HHS
+  
   - internet-of-things
   - mobile-code-catalog
   - mobile-gov-community-of-practice

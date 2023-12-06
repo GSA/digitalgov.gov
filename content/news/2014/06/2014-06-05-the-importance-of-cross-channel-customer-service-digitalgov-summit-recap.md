@@ -15,7 +15,7 @@ topics:
   - social-media
   - user-experience
   - 18f
-  - HHS
+  
   - NCI
   - recaps
   - us-department-of-education

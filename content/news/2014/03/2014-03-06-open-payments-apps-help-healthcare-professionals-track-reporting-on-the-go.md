@@ -6,7 +6,7 @@ summary: The Affordable Care Act (ACA) is bringing lots of change to the traditi
 topics:
   - mobile
   
-  - HHS
+  
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

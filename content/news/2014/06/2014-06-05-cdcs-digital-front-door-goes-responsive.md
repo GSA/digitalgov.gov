@@ -8,7 +8,7 @@ topics:
   - mobile
   
   
-  - HHS
+  
   - mobile-gov
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4

@@ -9,7 +9,7 @@ topics:
   - product-management
   - social-media
   
-  - HHS
+  
   - national-cancer-institute
   - national-institutes-of-health
   - NCI

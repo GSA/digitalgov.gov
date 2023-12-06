@@ -7,7 +7,7 @@ authors:
   - courtney-greenley
 topics:
   - mobile
-  - HHS
+  
   - mobile-apps
   - NARA
   - national-archives-and-records-administration

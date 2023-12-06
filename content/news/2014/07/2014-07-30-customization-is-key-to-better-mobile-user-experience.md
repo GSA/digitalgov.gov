@@ -10,7 +10,7 @@ topics:
   
   
   - gps
-  - hhs
+  
   - loc
   - mobile-apps
   - mobile-gov-community-of-practice

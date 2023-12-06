@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - api
   - data
-  - HHS
+  
   - nasa
   - open-data
   - the-data-briefing

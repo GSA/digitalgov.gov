@@ -6,7 +6,7 @@ summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And a
 topics:
   - design
   - mobile
-  - HHS
+  
   - mobile-ux-guideline-5
   - responsive-web-design
   - thursday-mobile-products

@@ -12,7 +12,7 @@ topics:
   - customer-experience
   - Federal CrowdSource Mobile Testing Program
   - gsa
-  - HHS
+  
   - ICE
   - mobile-gov
   - NCI

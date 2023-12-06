@@ -13,7 +13,7 @@ topics:
   - api
   - data
   - data-gov
-  - HHS
+  
   - internet-of-things
   - json
   - open-government

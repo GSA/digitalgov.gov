@@ -6,7 +6,7 @@ summary: 'Need a last minute Valentine&#8217;s Day gift idea? We&#8217;ve put to
 topics:
   - mobile
   
-  - HHS
+  
   - mobile-apps
   - smithsonian-institution
   - thursday-mobile-products

@@ -7,7 +7,7 @@ authors:
   - genevieve-contey
 topics:
   - mobile
-  - HHS
+  
   - mobile-apps
   - mobile-gov
   - nasa

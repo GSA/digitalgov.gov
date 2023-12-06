@@ -10,7 +10,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   
-  - HHS
+  
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
 ---

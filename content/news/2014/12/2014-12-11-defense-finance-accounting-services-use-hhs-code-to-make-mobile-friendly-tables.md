@@ -10,7 +10,7 @@ topics:
   - mobile
   - code
   
-  - HHS
+  
   - mobile
   - mobile-code-catalog
   - mobile-ux-guideline-1

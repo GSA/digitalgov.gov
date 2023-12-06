@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - product-management
-  - HHS
+  
   - innovation
 ---
 

@@ -7,7 +7,7 @@ topics:
   - challenges
   - mobile
   
-  - HHS
+  
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

@@ -11,7 +11,7 @@ topics:
   - challenge-gov
   - challenges-and-prizes-community-of-practice
   
-  - HHS
+  
   - innovation
   - nasa
   - SBA

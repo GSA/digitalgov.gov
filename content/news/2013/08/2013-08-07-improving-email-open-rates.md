@@ -9,7 +9,7 @@ authors:
 topics:
   - user-testing-and-research
   - customer-experience
-  - HHS
+  
   - USDA
 ---
 

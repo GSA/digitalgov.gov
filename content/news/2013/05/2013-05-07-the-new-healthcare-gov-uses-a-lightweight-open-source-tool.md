@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - content-strategy
-  - HHS
+  
   - open-data
   - open-source
   - united-states-department-of-health-and-human-services

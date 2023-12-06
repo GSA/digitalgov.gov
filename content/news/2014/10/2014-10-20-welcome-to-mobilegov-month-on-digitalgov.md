@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   
   - Federal CrowdSource Mobile Testing Program
-  - HHS
+  
   - mobile
   - mobile-ux-guideline-1
   - native-app

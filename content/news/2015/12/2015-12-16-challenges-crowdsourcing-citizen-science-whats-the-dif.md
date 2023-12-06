@@ -21,7 +21,7 @@ topics:
   
   - FCPCCS
   - gsa
-  - HHS
+  
   - innovation
   - nasa
   - national-oceanic-and-atmospheric-administration

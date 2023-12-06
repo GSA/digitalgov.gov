@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   - monthly-theme
-  - HHS
+  
   - mobile-gov
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4

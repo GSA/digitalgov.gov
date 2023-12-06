@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - analytics
-  - HHS
+  
   - mobile
   - mobile-testing
   - mobile-ux-guideline-4

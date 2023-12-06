@@ -13,7 +13,7 @@ topics:
   - content-models
   - content-syndication
   - drupal
-  - HHS
+  
   - open-and-structured-content-models
   - united-states-department-of-health-and-human-services
 ---

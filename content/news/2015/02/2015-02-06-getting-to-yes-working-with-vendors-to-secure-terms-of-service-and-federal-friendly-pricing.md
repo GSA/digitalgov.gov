@@ -10,7 +10,7 @@ topics:
   - communities
   - social-media
   - aoi
-  - HHS
+  
   - recaps
   - socialgov-community
   - terms-of-service

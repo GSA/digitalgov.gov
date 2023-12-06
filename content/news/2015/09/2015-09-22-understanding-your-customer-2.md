@@ -9,7 +9,7 @@ topics:
   - product-management
   - customer-experience
   
-  - HHS
+  
   - HUD
   - US Department of Agriculture
   - united-states-department-of-health-and-human-services

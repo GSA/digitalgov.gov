@@ -15,7 +15,7 @@ topics:
   - data-gov
   
   
-  - HHS
+  
   - HUD
   - nasa
   - national-day-of-civic-hacking

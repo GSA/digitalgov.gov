@@ -12,7 +12,7 @@ topics:
   - accessibility
   
   
-  - HHS
+  
   - section-508
   - SSA
 ---

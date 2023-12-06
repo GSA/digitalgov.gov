@@ -9,7 +9,7 @@ topics:
   - challenges
   - challenge-gov
   
-  - HHS
+  
   - HUD
   - nasa
   - recaps

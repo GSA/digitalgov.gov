@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - content-models
   - COPE
-  - HHS
+  
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
   - nasa

@@ -11,7 +11,7 @@ topics:
   - data
   - data-visualization
   
-  - HHS
+  
   - open-data
   - the-data-briefing
   - us-department-of-labor

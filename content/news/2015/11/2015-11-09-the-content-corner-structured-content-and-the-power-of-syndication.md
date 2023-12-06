@@ -15,7 +15,7 @@ topics:
   - content-syndication
   - COPE
   
-  - HHS
+  
   - mobile
   - mobile-ux-guideline-1
   - national-institutes-of-health

@@ -21,7 +21,7 @@ topics:
   - social-media
   - multilingual
   
-  - hhs
+  
 slug: medicare-open-enrollment-period-outreach-media-materials
 # Controls how this page appears across the site
 # 0 -- hidden

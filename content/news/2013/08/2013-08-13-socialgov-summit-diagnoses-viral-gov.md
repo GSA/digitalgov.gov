@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - gsa
-  - HHS
+  
   - mobile-gov
   - nasa
   - socialgov

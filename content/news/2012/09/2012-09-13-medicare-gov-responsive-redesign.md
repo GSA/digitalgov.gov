@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   
-  - HHS
+  
   - mobile-gov-experience
   - responsive-web-design
 ---

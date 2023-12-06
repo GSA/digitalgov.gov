@@ -13,7 +13,7 @@ topics:
   
   - challenges-and-prize-competitions
   
-  - HHS
+  
   - nasa
   - open-government
 ---

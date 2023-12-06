@@ -13,7 +13,7 @@ topics:
   
   
   
-  - HHS
+  
   - artificial-intelligence
   - open-government
   - structured-content

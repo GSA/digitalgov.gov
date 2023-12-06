@@ -10,7 +10,7 @@ topics:
   - customer-experience
   - our-work
   - gsa
-  - HHS
+  
   - Internal Revenue Service
   - IRS
   - open-and-structured-content-models

@@ -12,7 +12,7 @@ topics:
   - monthly-theme
   - social-media
   - GobiernoUSAgov
-  - HHS
+  
   - multilingual
   - social-media
   - united-states-department-of-health-and-human-services

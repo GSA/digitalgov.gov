@@ -12,7 +12,7 @@ topics:
   - monthly-theme
   - 18f
   - data-gov
-  - HHS
+  
   - open-government
   - SSA
   - the-united-states-social-security-administration

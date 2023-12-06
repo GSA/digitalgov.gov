@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - HHS
+  
   - NARA
   - national-archives-and-records-administration
   - open-government

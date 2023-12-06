@@ -8,7 +8,7 @@ topics:
   
   
   - content-syndication
-  - HHS
+  
   - mobile-gov-community-of-practice
   - mobile-gov
   - national-institutes-of-health

@@ -9,7 +9,7 @@ topics:
   - code
   - monthly-theme
   - data
-  - HHS
+  
   - MCC
   - nasa
   - open-data

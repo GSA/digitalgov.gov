@@ -7,7 +7,7 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - HHS
+  
   - mobile-apps
   - mobile-gov
   - mobile-gov-community-of-practice
