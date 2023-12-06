@@ -9,7 +9,7 @@ topics:
   - challenges
   - data
   - data-gov
-  - fema
+  
   - HHS
   - HUD
   - nasa

@@ -16,7 +16,7 @@ topics:
   - content-strategy
   
   - Federal Mobile Products Registry
-  - fema
+  
   - firstnet
   - mobile
   - National Weather Service

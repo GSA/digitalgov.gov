@@ -15,7 +15,7 @@ topics:
   - application-programming-interface
   - digitalgov-user-experience-program
   
-  - fema
+  
   - OPM
   - US Department of Agriculture
   - united-states-office-of-personnel-management

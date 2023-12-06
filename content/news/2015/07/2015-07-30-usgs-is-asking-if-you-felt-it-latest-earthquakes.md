@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   
-  - fema
+  
   - mobile-apps
   - SSA
   - the-united-states-social-security-administration

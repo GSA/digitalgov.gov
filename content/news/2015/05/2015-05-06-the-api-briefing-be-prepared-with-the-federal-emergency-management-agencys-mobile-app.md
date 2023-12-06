@@ -11,7 +11,7 @@ topics:
   - api
   - data
   
-  - fema
+  
   - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5

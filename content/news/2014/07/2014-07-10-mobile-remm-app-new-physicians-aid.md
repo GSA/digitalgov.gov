@@ -12,7 +12,7 @@ topics:
   
   
   
-  - fema
+  
   - HHS
   - mobile-apps
   - mobile-gov

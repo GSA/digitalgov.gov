@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   
-  - fema
+  
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

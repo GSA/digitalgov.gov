@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   
-  - fema
+  
   - US Citizenship and Immigration Service
   - us-department-of-education
   - us-environmental-protection-agency

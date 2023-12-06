@@ -6,7 +6,7 @@ summary: ' Hurricane Arthur, the first named storm of the 2014 Atlantic hurrican
 topics:
   - mobile
   
-  - fema
+  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - responsive-web-design

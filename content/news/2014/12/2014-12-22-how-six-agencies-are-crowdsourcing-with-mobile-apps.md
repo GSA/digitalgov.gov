@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - crowdsourcing
   
-  - fema
+  
   - nasa
   - national-oceanic-and-atmospheric-administration
   - NOAA

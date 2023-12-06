@@ -12,7 +12,7 @@ topics:
   - user-experience
   
   
-  - fema
+  
   - mobile-ux-guideline-5
   - National Weather Service
   - NOAA

@@ -14,7 +14,7 @@ topics:
   
   - data-gov
   
-  - fema
+  
   - HHS
   - HUD
   - nasa

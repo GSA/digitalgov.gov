@@ -16,7 +16,7 @@ topics:
   - customer-service
   - digital-analytics-program
   
-  - fema
+  
   - mobile
   - mobile-apps
   - national-oceanic-and-atmospheric-administration

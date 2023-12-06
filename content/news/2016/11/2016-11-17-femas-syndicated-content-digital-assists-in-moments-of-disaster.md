@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - content-syndication
   
-  - fema
+  
   - mobile-apps
   - multilingual
 ---

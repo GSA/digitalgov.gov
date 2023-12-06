@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   
-  - fema
+  
   - mobile
   - mobile-apps
   - National Weather Service

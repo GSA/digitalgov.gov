@@ -10,7 +10,7 @@ topics:
   - mobile
   - data
   
-  - fema
+  
   - mobile
   - mobile-apps
   - the-data-briefing
