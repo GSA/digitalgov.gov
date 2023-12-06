@@ -14,7 +14,7 @@ topics:
   - policy
   - content
   - content-strategy
-  - federal-emergency-management-agency
+  
   - Federal Mobile Products Registry
   - fema
   - firstnet

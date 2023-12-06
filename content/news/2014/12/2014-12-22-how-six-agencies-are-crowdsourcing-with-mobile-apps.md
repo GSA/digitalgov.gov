@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - crowdsourcing
-  - federal-emergency-management-agency
+  
   - fema
   - nasa
   - national-oceanic-and-atmospheric-administration

@@ -7,7 +7,7 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  - federal-emergency-management-agency
+  
   - fema
   - mobile-apps
   - SSA

@@ -7,7 +7,7 @@ authors:
   - uscis-staff
 topics:
   - social-media
-  - federal-emergency-management-agency
+  
   - fema
   - US Citizenship and Immigration Service
   - us-department-of-education

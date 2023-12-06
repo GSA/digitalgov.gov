@@ -9,7 +9,7 @@ topics:
   - data
   - mobile
   - data
-  - federal-emergency-management-agency
+  
   - fema
   - mobile
   - mobile-apps

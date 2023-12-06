@@ -5,7 +5,7 @@ title: '#PrepareAthon 2014: Disaster Preparedness in the Palm of Your Hand'
 summary: "If there was one thing we learned on September 11, 2001, it's that you can never be too prepared for a disaster of any magnitude. September is aptly named National Preparedness Month and the government's #PrepareAthon campaign&mdash;led by the Federal Emergency Management Administration (FEMA)&mdash;is under way, culminating in National PrepareAthon! Day, September 30."
 topics:
   - mobile
-  - federal-emergency-management-agency
+  
   - fema
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
