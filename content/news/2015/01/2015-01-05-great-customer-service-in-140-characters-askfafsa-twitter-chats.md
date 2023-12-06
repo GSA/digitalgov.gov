@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  - federal-student-aid
   - FSA
   - us-department-of-veterans-affairs
   - VA

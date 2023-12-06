@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - Federal Mobile Products Registry
-  - federal-student-aid
   - FSA
   - GobiernoUSAgov
   - Internal Revenue Service

@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - federal-student-aid
   - mobile
   - mobile-testing
   - mobile-user-experience-guidelines

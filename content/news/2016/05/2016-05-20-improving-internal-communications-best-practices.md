@@ -9,7 +9,6 @@ topics:
   - product-management
   - monthly-theme
   - customer-experience
-  - federal-student-aid
   - FSA
   - SSA
   - the-united-states-social-security-administration
