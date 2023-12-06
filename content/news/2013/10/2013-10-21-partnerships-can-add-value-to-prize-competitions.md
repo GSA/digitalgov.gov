@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - HUD
+  
   - nasa
   - OSTP
   - us-agency-for-international-development

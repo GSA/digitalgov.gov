@@ -12,7 +12,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - crowdsourcing
-  - HUD
+  
   - recaps
   - united-states-department-of-housing-and-urban-development
 ---

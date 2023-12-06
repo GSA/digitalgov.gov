@@ -11,7 +11,7 @@ topics:
   - data-gov
   
   
-  - HUD
+  
   - nasa
   - national-day-of-civic-hacking
   - national-institutes-of-health

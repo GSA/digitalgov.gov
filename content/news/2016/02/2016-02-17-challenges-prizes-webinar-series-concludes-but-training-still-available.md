@@ -10,7 +10,7 @@ topics:
   - challenge-gov
   
   
-  - HUD
+  
   - nasa
   - recaps
   - us-agency-for-international-development

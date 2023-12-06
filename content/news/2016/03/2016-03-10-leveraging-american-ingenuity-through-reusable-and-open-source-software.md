@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - 18f
   - data-gov
-  - HUD
+  
   - open-source
   - us-department-of-education
   - united-states-department-of-housing-and-urban-development

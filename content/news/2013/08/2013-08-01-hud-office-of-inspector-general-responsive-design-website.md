@@ -9,7 +9,7 @@ topics:
   - code
   - mobile
   - drupal
-  - HUD
+  
   - mobile-gov
   - responsive-web-design
   - thursday-mobile-products

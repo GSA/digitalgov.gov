@@ -11,7 +11,7 @@ topics:
   - challenge-gov
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
-  - HUD
+  
   - innovation
   - nasa
   - National Eye Institute

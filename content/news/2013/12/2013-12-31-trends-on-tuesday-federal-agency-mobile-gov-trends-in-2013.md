@@ -14,7 +14,7 @@ topics:
   
   
   
-  - HUD
+  
   - mobile
   - mobile-code-catalog
   - mobile-gov

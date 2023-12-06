@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - HUD
+  
   - nasa
   - national-institute-of-standards-and-technology
   - NIST
