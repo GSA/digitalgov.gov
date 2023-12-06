@@ -9,7 +9,6 @@ topics:
   - mobile
   - monthly-theme
   - user-testing-and-research
-  - Federal Aviation Administration
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4

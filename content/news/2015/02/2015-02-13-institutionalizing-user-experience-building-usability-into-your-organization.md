@@ -10,7 +10,6 @@ topics:
   - analytics
   - aoi
   - digitalgov-user-experience-program
-  - Federal Aviation Administration
   - gsa
   - personas
   - prototype

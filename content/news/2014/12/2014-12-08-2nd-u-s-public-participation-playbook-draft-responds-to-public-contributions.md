@@ -7,9 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  
-  
-  - Federal Aviation Administration
   - federal-communications-commission
   - Firstnet
   - FWS

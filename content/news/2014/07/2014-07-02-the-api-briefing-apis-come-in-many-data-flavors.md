@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - data
-  - Federal Aviation Administration
   - mobile-apps
   - mobile-code-catalog
   - OPM
