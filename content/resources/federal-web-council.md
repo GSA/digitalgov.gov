@@ -69,7 +69,7 @@ Please reach out to your agency’s Web Council member with questions. If your a
 - Department of State — Monica Perry
 - Department of Transportation (DOT) — Bernetta Reese
 - Department of the Treasury — Teri Greene
-- Department of Veterans Affairs (VA) — Joshua Tuscher
+- Department of Veterans Affairs (VA) — Stephen Walker
 - Environmental Protection Agency (EPA) — Lin Darlington
 - General Services Administration (GSA) — Sarah Bryant
 - National Aeronautics and Space Administration (NASA) — Abby Bowman
