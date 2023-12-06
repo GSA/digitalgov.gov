@@ -14,7 +14,7 @@ topics:
   - data
   - data-gov
   
-  - FCC
+  
   - federal-communications-commission
   - gsa
   - mobile-apps

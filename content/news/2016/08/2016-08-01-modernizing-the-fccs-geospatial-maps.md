@@ -13,7 +13,7 @@ topics:
   
   - data
   - data-visualization
-  - FCC
+  
   - federal-communications-commission
   - open-data
 ---

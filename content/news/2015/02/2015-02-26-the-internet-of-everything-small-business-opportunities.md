@@ -8,7 +8,7 @@ authors:
   - g-nagesh-rao
 topics:
   - product-management
-  - FCC
+  
   - federal-communications-commission
   - privacy
   - SBA

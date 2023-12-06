@@ -8,7 +8,7 @@ authors:
   - david-a-bray
 topics:
   - data
-  - FCC
+  
   - federal-communications-commission
 ---
 

@@ -9,7 +9,7 @@ topics:
   - api
   - data
   
-  - FCC
+  
   - fda
   - federal-communications-commission
   - GPS

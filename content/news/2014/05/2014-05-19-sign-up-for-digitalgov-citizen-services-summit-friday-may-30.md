@@ -22,7 +22,7 @@ topics:
   - user-experience
   
   
-  - FCC
+  
   - federal-communications-commission
   - GAO
   - SBA

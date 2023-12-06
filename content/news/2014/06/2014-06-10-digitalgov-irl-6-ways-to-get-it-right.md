@@ -11,7 +11,7 @@ topics:
   - mobile
   - user-experience
   
-  - FCC
+  
   - fema
   - mobile-ux-guideline-5
   - National Weather Service

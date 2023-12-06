@@ -12,7 +12,7 @@ topics:
   - aids-gov
   - aoi
   
-  - FCC
+  
   - federal-communications-commission
   - HHS
   - section-508

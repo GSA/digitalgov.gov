@@ -10,7 +10,7 @@ topics:
   - emerging-tech
   - our-work
   
-  - FCC
+  
   - federal-communications-commission
   - internet-of-things
   - recaps
