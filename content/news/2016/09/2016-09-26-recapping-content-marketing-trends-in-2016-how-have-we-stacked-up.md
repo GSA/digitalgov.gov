@@ -13,8 +13,6 @@ topics:
   - content
   - content-strategy
   - content-syndication
-  
-  - HRSA
   - mobile
   - mobile-first
   - mobile-friendly

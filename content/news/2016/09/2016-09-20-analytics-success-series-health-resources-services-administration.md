@@ -17,8 +17,6 @@ topics:
   - dap
   - data
   - digital-analytics-program
-  
-  - HRSA
   - metrics
   - user-experience
 ---
