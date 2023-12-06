@@ -8,16 +8,7 @@ authors:
 topics:
   - challenges
   - data
-  
-  
-  
   - data-gov
-  
-  
-  
-  
-  
-  - federal-register
   - fema
   - HHS
   - HUD

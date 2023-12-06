@@ -11,7 +11,6 @@ topics:
   - our-work
   - api
   - search
-  - federal-register
   - social-media
   - NLM
   - OSHA

@@ -13,9 +13,6 @@ topics:
   - governance
   - strategy
   - policy
-  
-  
-  - federal-register
   - OSTP
   - US Department of Agriculture
   - us-environmental-protection-agency

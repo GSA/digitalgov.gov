@@ -9,9 +9,6 @@ topics:
   - communities
   - social-media
   - aoi
-  
-  
-  - federal-register
   - FSA
   - HHS
   - NARA

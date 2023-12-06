@@ -12,7 +12,6 @@ topics:
   - content-management-system
   - content-models
   - data
-  - federal-register
   - metadata
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
