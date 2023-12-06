@@ -11,7 +11,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - FSA
   - gsa
   - personas
   - us-department-of-the-treasury

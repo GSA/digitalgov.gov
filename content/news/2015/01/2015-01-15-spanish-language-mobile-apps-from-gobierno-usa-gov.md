@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - Federal Mobile Products Registry
-  - FSA
   - GobiernoUSAgov
   - Internal Revenue Service
   - IRS

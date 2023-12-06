@@ -12,7 +12,6 @@ topics:
   - customer-satisfaction
   - customer-service
   - data
-  - FSA
   - mobile-friendly
   - user-experience
 ---

@@ -15,8 +15,6 @@ topics:
   - social-media
   - user-experience
   - 18f
-  
-  - FSA
   - HHS
   - NCI
   - recaps

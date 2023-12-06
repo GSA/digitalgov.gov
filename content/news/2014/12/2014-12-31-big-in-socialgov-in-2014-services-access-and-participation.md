@@ -9,7 +9,6 @@ topics:
   - communities
   - social-media
   - aoi
-  - FSA
   - HHS
   - NARA
   - nasa

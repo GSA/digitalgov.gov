@@ -9,7 +9,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - customer-experience
-  - FSA
   - us-department-of-education
 ---
 
