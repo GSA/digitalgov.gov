@@ -10,7 +10,6 @@ topics:
   - policy
   - customer-service
   - customer-experience
-  - FAS
   - Federal Acquisition Service
   - gsa
   - IT Schedule 70

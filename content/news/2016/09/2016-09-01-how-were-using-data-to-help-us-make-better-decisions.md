@@ -9,7 +9,6 @@ topics:
   - data
   - cloud
   - data
-  - FAS
   - Federal Acquisition Service
   - gsa
   - Office of Governmentwide Policy

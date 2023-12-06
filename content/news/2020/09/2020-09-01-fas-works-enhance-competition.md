@@ -19,7 +19,6 @@ summary: "**FAS Works to Enhance Competition**—Have you heard? The Federal Acq
 # see all topics at https://digital.gov/topics
 topics: 
   - acquisition
-  - fas
   - federal-acquisition-service
 
 # Page weight: controls how this page appears across the site

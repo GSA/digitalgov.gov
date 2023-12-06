@@ -19,7 +19,6 @@ topics:
   - budgeting-and-performance
   - login-gov
   - budgeting-and-performance
-  - FAS
   - Federal Acquisition Service
   - fedramp
   - innovation
