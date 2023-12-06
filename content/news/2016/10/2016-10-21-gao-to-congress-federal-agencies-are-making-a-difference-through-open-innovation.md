@@ -19,7 +19,7 @@ topics:
   - crowdsourcing
   
   
-  - GAO
+  
   - innovation
   - nasa
   - open-data

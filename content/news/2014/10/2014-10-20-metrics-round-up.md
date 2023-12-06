@@ -11,7 +11,7 @@ topics:
   - dap
   - data-gov
   
-  - GAO
+  
   - NPS
   - open-data
   - social-media-metrics

@@ -8,7 +8,7 @@ authors:
 topics:
   - user-experience
   - customer-experience
-  - GAO
+  
   - us-government-accountability-office
 ---
 

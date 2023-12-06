@@ -11,7 +11,7 @@ topics:
   - analytics
   - big-data
   - data
-  - GAO
+  
   - metrics
   - transportation-security-administration
   - TSA

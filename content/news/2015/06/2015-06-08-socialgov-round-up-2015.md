@@ -13,7 +13,7 @@ topics:
   
   
   
-  - GAO
+  
   - HHS
   - social-media
   - social-media-metrics

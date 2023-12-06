@@ -9,7 +9,7 @@ topics:
   - content
   - monthly-theme
   - social-media
-  - GAO
+  
   - nasa
   - peace-corps
   - plain-language

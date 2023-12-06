@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - social-media
-  - GAO
+  
   - open-source
   - us-government-accountability-office
 
