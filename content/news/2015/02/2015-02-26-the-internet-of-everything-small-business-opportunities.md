@@ -9,7 +9,7 @@ authors:
 topics:
   - product-management
   
-  - federal-communications-commission
+  
   - privacy
   - SBA
   - security

@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - federal-communications-commission
+  
   - Firstnet
   - FWS
   - gsa

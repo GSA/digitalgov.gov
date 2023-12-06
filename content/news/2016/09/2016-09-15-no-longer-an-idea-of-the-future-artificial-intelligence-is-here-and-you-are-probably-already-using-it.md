@@ -19,7 +19,7 @@ topics:
   - customer-experience
   - data
   
-  - federal-communications-commission
+  
   - innovation
   - privacy
   - regulation

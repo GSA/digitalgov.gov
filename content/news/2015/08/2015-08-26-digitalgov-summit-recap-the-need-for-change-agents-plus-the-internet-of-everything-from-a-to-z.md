@@ -11,7 +11,7 @@ topics:
   - our-work
   
   
-  - federal-communications-commission
+  
   - internet-of-things
   - recaps
 

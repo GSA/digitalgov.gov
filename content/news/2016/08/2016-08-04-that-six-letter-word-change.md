@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   
-  - federal-communications-commission
+  
   - gsa
   - innovation
   - project-management

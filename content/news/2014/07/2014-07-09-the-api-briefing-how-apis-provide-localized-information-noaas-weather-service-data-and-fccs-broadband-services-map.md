@@ -11,7 +11,7 @@ topics:
   
   
   
-  - federal-communications-commission
+  
   - GPS
   - mobile-apps
   - national-oceanic-and-atmospheric-administration

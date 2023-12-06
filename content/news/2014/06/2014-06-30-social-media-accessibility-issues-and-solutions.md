@@ -14,7 +14,7 @@ topics:
   - accessibility
   - crowdsourcing
   
-  - federal-communications-commission
+  
   - infographic
   - plain-language
   - social-media
