@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - writing
-  - Federal Trade Commission
   - FTC
   - multilingual
 ---

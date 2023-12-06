@@ -8,9 +8,8 @@ authors:
 topics:
   - data
   - data
-  - Federal Trade Commission
   - FTC
-  - 'National Telecommunications and Information Administration'
+  - National Telecommunications and Information Administration
   - open-data
   - security
   - white-house

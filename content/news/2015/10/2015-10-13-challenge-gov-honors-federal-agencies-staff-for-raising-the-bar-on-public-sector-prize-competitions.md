@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - Federal Trade Commission
   - FTC
   - HUD
   - nasa

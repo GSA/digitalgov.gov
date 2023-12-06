@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - crowdsourcing
-  - Federal Trade Commission
   - FTC
   - National Eye Institute
   - OSTP

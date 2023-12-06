@@ -7,7 +7,6 @@ authors:
   - rosario-mendez
 topics:
   - content
-  - Federal Trade Commission
   - FTC
 ---
 

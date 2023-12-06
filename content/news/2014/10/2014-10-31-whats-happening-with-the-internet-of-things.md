@@ -10,8 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - our-work
-  
-  - Federal Trade Commission
   - FTC
   - internet-of-things
   - NIST
