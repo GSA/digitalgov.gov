@@ -14,7 +14,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - 18f
-  - fbi
   - fec
   - federal-bureau-of-investigation
   - federal-election-commission

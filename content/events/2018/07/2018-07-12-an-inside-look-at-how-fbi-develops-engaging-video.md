@@ -20,7 +20,6 @@ end_date: 2018-07-12 16:00:00 -0500
 topics: 
   - audio-video
   - video
-  - fbi
   - federal-bureau-of-investigation
   - video-production-pros-community
 
