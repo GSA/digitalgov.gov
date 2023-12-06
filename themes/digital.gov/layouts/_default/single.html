@@ -4,56 +4,40 @@
   {{ else }}
     {{ $path = .Path }}
   {{ end }}
-  <main role="main" id="main-content">
-    <article>
-      <header>
-        <div
-          class="grid-container grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
-          <div class="grid-row">
-            <div class="grid-col-12">
-              {{/* Breadcrumbs */}}
-              {{- if .Parent -}}
-                {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-              {{- end -}}
+  <section id="main-content" class="grid-container-desktop">
+    <header data-gh-edit-page="{{- $path -}}">
+      {{- if .Parent -}}
+        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+      {{- end -}}
 
-              {{- if .Params.kicker -}}
-                <p class="kicker">{{- .Params.kicker -}}</p>
-              {{- end -}}
+      {{- if .Params.kicker -}}
+        <p class="kicker">{{- .Params.kicker -}}</p>
+      {{- end -}}
 
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}}</h1>
 
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-                <div class="deck">{{- .Params.deck | markdownify -}}</div>
-              {{- end -}}
-            </div>
-          </div>
+      <h1>{{- .Title | markdownify -}}</h1>
+
+      {{- if .Params.deck -}}
+        <div class="deck">{{- .Params.deck | markdownify -}}</div>
+      {{- end -}}
+    </header>
+
+    <section class="usa-in-page-nav-container">
+      <main data-gh-edit-page="{{- $path -}}">
+        <div class="content usa-prose">
+          {{- .Content -}}
         </div>
-      </header>
-
-      <section class="grid-container grid-container-desktop">
-        <div class="usa-in-page-nav-container">
-          <!-- 
-        data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
-        the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
-       -->
-          <aside
-            class="usa-in-page-nav"
-            data-title-heading-level="h3"
-            data-root-margin="-350px 0px -350px 0px"
-          ></aside>
-          <div class="">
-            {{/* Content */}}
-            <div class="content usa-prose">
-              {{- .Content -}}
-            </div>
-            {{- partial "core/gh-commit-info.html" . -}}
-          </div>
-        </div>
-      </section>
-    </article>
-  </main>
+        {{- partial "core/gh-commit-info.html" . -}}
+      </main>
+      <!-- 
+          data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
+          the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
+        -->
+      <aside
+        class="usa-in-page-nav"
+        data-title-heading-level="h3"
+        data-root-margin="-350px 0px -350px 0px"
+      ></aside>
+    </section>
+  </section>
 {{- end -}}
