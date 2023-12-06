@@ -4,52 +4,45 @@
   {{ else }}
     {{ $path = .Path }}
   {{ end }}
-  <main role="main" id="main-content">
-    <article class="grid-container grid-container-desktop">
-      <header>
-        <div data-gh-edit-page="{{- $path -}}">
-          {{- if .Parent -}}
-            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-          {{- end -}}
+  <section id="main-content" class="grid-container-desktop">
+    {{- if .Parent -}}
+      {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+    {{- end -}}
+    <header data-gh-edit-page="{{- $path -}}">
+      {{- if .Params.kicker -}}
+        <p class="kicker">{{- .Params.kicker -}}</p>
+      {{- end -}}
 
-          {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-          {{- end -}}
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}}</h1>
 
-          {{/* Deck */}}
-          {{- if .Params.summary -}}
-            <div class="deck">{{- .Params.summary | markdownify -}}</div>
-          {{- end -}}
+      <h1>{{- .Title | markdownify -}}</h1>
 
-          {{- if .Params.source_url -}}
-            <p>
-              <a
-                href="{{- .Params.source_url -}}"
-                title="Go to: {{- .Title | markdownify -}}"
-                >{{- .Params.source_url -}}</a
-              >
-            </p>
-          {{- end -}}
+      {{- if .Params.summary -}}
+        <div class="deck">{{- .Params.summary | markdownify -}}</div>
+      {{- end -}}
+
+      {{- if .Params.source_url -}}
+        <p>
+          <a
+            href="{{- .Params.source_url -}}"
+            title="Go to: {{- .Title | markdownify -}}"
+            >{{- .Params.source_url -}}</a
+          >
+        </p>
+      {{- end -}}
+    </header>
+
+    <section class="usa-in-page-nav-container">
+      <main>
+        <div class="content" data-gh-edit-page="{{- $path -}}">
+          {{- .Content -}}
         </div>
-      </header>
-
-      <div class="usa-in-page-nav-container">
-        <aside
-          class="usa-in-page-nav"
-          data-title-heading-level="h3"
-          data-root-margin="-350px 0px -350px 0px"
-        ></aside>
-        <div>
-          {{/* Content */}}
-          <div class="content" data-gh-edit-page="{{- $path -}}">
-            {{- .Content -}}
-          </div>
-
-          {{- partial "core/gh-commit-info.html" . -}}
-        </div>
-      </div>
-    </article>
-  </main>
+        {{- partial "core/gh-commit-info.html" . -}}
+      </main>
+      <aside
+        class="usa-in-page-nav"
+        data-title-heading-level="h3"
+        data-root-margin="-350px 0px -350px 0px"
+      ></aside>
+    </section>
+  </section>
 {{- end -}}
