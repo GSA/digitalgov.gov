@@ -22,7 +22,7 @@ topics:
   
   - content-models
   
-  - fda
+  
   - GitHub
   - gsa
   - mobile-ux-guideline-1

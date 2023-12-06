@@ -10,7 +10,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - fda
+  
   - HHS
   - innovation
   - us-food-and-drug-administration

@@ -12,7 +12,7 @@ topics:
   - user-experience
   - api
   - digitalgov-user-experience-program
-  - fda
+  
   - us-food-and-drug-administration
   - usability-testing
 ---

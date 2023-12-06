@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - our-work
-  - fda
+  
   - mobile-apps
   - open-opportunities-program
   - SSA

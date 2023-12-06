@@ -12,7 +12,7 @@ topics:
   - search
   
   
-  - fda
+  
   - GAO
   - HHS
   - social-media

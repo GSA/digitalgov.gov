@@ -10,7 +10,7 @@ topics:
   - data
   
   
-  - fda
+  
   - federal-communications-commission
   - GPS
   - mobile-apps

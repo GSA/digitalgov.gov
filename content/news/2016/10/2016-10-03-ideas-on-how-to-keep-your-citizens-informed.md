@@ -13,7 +13,7 @@ topics:
   - content
   - content-strategy
   - content-syndication
-  - fda
+  
   - HHS
   - national-institutes-of-health
   - nih

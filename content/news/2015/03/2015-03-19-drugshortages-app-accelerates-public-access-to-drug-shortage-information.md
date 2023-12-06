@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - fda
+  
   - mobile
   - thursday-mobile-products
   - us-food-and-drug-administration

@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   
-  - fda
+  
   - Federal Aviation Administration
   - federal-communications-commission
   - Firstnet

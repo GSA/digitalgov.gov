@@ -10,7 +10,7 @@ topics:
   - data
   - api
   - cloud
-  - fda
+  
   - mobile-first
 ---
 

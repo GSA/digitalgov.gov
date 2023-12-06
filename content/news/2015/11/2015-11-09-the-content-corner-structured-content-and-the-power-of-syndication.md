@@ -14,7 +14,7 @@ topics:
   
   - content-syndication
   - COPE
-  - fda
+  
   - HHS
   - mobile
   - mobile-ux-guideline-1

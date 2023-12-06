@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - data
-  - fda
+  
   - HHS
   - national-institutes-of-health
   - National Library of Medicine

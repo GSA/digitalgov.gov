@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - social-media
-  - fda
+  
   - socialgov-community
   - us-food-and-drug-administration
 ---

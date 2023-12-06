@@ -11,7 +11,7 @@ topics:
   - 18f
   
   
-  - fda
+  
   - OPM
   - us-food-and-drug-administration
   - united-states-office-of-personnel-management

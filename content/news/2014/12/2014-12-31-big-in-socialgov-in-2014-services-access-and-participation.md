@@ -10,7 +10,7 @@ topics:
   - social-media
   - aoi
   
-  - fda
+  
   - federal-register
   - FSA
   - HHS

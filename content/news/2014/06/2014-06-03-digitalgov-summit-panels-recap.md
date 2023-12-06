@@ -17,7 +17,7 @@ topics:
   
   
   
-  - fda
+  
   - GAO
   - HHS
   - national-institutes-of-health

@@ -14,7 +14,7 @@ topics:
   - strategy
   - policy
   
-  - fda
+  
   - federal-register
   - OSTP
   - US Department of Agriculture

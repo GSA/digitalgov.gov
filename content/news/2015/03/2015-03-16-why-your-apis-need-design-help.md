@@ -13,7 +13,7 @@ topics:
   - application-programming-interface
   
   
-  - fda
+  
   - GitHub
   - json
   - us-food-and-drug-administration
