@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - accessibility
-  
-  - firstnet
   - National Weather Service
   - NWS
   - social-media

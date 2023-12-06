@@ -7,8 +7,6 @@ authors:
   - kyle-s-richardson
 topics:
   - content
-  
-  - firstnet
   - the-content-corner
   - us-department-of-veterans-affairs
   - united-states-department-of-homeland-security

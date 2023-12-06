@@ -7,8 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  
-  - Firstnet
   - FWS
   - gsa
   - Library of Congress
