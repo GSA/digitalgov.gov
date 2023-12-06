@@ -9,7 +9,6 @@ topics:
   - code
   - 18f
   - data-gov
-  - federal-election-commission
   - open-government
   - peace-corps
   - US Citizenship and Immigration Service

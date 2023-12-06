@@ -9,7 +9,6 @@ topics:
   - code
   - monthly-theme
   - data
-  - federal-election-commission
   - HHS
   - MCC
   - nasa

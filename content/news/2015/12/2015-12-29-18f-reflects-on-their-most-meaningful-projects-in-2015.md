@@ -14,7 +14,6 @@ topics:
   - dap
   - data
   - digital-analytics-program
-  - federal-election-commission
   - gsa
   - https
   - Office of Management and Budget

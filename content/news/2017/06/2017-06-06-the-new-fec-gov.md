@@ -15,7 +15,6 @@ topics:
   - api
   - content
   - data
-  - federal-election-commission
   - GitHub
   - plain-language
   - responsive-web-design
