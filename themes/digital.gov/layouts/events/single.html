@@ -63,116 +63,117 @@
       {{- end -}}
     </header>
 
-    <main id="main-content">
-      {{/* EVENT Actions — REGISTER and Add to Calendar */}}
-      {{/* If is a Future Event */}}
-      {{- if eq $future_event true -}}
-        <div class="actions">
-          {{/* Register */}}
-          <a
-            aria-label="Register for {{- .Params.title -}}"
-            class="btn btn-register"
-            href="{{- .Params.registration_url -}}"
-            onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
-            >Register</a
-          >
-        </div>
-      {{- end -}}
-
-      {{/* EVENT Stages —
-        Depending on the type of event, different "event stages" appear on the page.
-        - Only for upcomming events
-        ====================================
-      */}}
-
-      {{/* YouTube LIVE Stage */}}
-      {{- if eq .Params.event_platform "youtube_live" -}}
+    <section
+      class="grid-row tablet-lg:grid-gap-4 margin-bottom-4"
+      data-gh-edit-page="{{- $path -}}"
+    >
+      <main id="main-content" class="tablet-lg:grid-col-9">
+        {{/* EVENT Actions — REGISTER and Add to Calendar */}}
         {{/* If is a Future Event */}}
         {{- if eq $future_event true -}}
-          {{- .Render "stage-youtube-live" -}}
+          <div class="actions">
+            {{/* Register */}}
+            <a
+              aria-label="Register for {{- .Params.title -}}"
+              class="btn btn-register"
+              href="{{- .Params.registration_url -}}"
+              onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+              >Register</a
+            >
+          </div>
         {{- end -}}
 
-      {{- end -}}
+        {{/* EVENT Stages —
+          Depending on the type of event, different "event stages" appear on the page.
+          - Only for upcomming events
+          ====================================
+        */}}
 
-      {{/* PAST EVENT / Video  -------------------- */}}
-      {{/* If is NOT a Future Event (Past event) */}}
-      {{- if eq $future_event false -}}
-        {{- .Render "stage-youtube" -}}
-      {{- end -}}
-
-
-      <section
-        class="grid-row tablet-lg:grid-gap-4 margin-bottom-4"
-        data-gh-edit-page="{{- $path -}}"
-      >
-        <div class="tablet:grid-col-9">
-          {{/* ZOOM Stage */}}
-          {{- if eq .Params.event_platform "zoom" -}}
-            {{/* If is a Future Event */}}
-            {{- if eq $future_event true -}}
-              {{- .Render "stage-zoom" -}}
-            {{- end -}}
+        {{/* YouTube LIVE Stage */}}
+        {{- if eq .Params.event_platform "youtube_live" -}}
+          {{/* If is a Future Event */}}
+          {{- if eq $future_event true -}}
+            {{- .Render "stage-youtube-live" -}}
           {{- end -}}
 
-          {{/* Adobe Connect Stage */}}
-          {{- if eq .Params.event_platform "adobe_connect" -}}
-            {{/* If is a Future Event */}}
-            {{- if eq $future_event true -}}
-              {{- .Render "stage-adobe_connect" -}}
-            {{- end -}}
-          {{- end -}}
+        {{- end -}}
 
-          {{/* Google Stage */}}
-          {{- if eq .Params.event_platform "google" -}}
-            {{/* If is a Future Event */}}
-            {{- if eq $future_event true -}}
-              {{- .Render "stage-google" -}}
-            {{- end -}}
-          {{- end -}}
+        {{/* PAST EVENT / Video  -------------------- */}}
+        {{/* If is NOT a Future Event (Past event) */}}
+        {{- if eq $future_event false -}}
+          {{- .Render "stage-youtube" -}}
+        {{- end -}}
 
-          {{/* Content */}}
-          <div class="content usa-prose">
-            {{- .Content -}}
+
+        <section>
+          <div>
+            {{/* ZOOM Stage */}}
+            {{- if eq .Params.event_platform "zoom" -}}
+              {{/* If is a Future Event */}}
+              {{- if eq $future_event true -}}
+                {{- .Render "stage-zoom" -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{/* Adobe Connect Stage */}}
+            {{- if eq .Params.event_platform "adobe_connect" -}}
+              {{/* If is a Future Event */}}
+              {{- if eq $future_event true -}}
+                {{- .Render "stage-adobe_connect" -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{/* Google Stage */}}
+            {{- if eq .Params.event_platform "google" -}}
+              {{/* If is a Future Event */}}
+              {{- if eq $future_event true -}}
+                {{- .Render "stage-google" -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{/* Content */}}
+            <div class="content usa-prose">
+              {{- .Content -}}
+            </div>
+
+            {{- partial "core/gh-commit-info.html" . -}}
+
+            {{/* Touchpoints Form */}}
+            {{- partial "core/touchpoints-form.html" . -}}
           </div>
+        </section>
+      </main>
+      <aside class="dg-sidebar tablet-lg:grid-col-3">
+        {{/* Authors */}}
+        {{- if .Params.authors -}}
+          <h4>In this talk</h4>
+          {{- partial "core/get_authors.html" . -}}
+        {{- end -}}
 
-          {{- partial "core/gh-commit-info.html" . -}}
-
-          {{/* Touchpoints Form */}}
-          {{- partial "core/touchpoints-form.html" . -}}
-        </div>
-
-        <aside class="dg-sidebar tablet:grid-col-3">
-          {{/* Authors */}}
-          {{- if .Params.authors -}}
-            <h4>In this talk</h4>
-            {{- partial "core/get_authors.html" . -}}
+        {{- if eq .Params.event_platform "youtube_live" -}}
+          {{- if eq $future_event true -}}
+            <div class="actions actions-stacked">
+              {{/* Register */}}
+              <a
+                aria-label="Register for {{- .Params.title -}}"
+                class="btn btn-register"
+                href="{{- .Params.registration_url -}}"
+                onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+                >Register</a
+              >
+            </div>
           {{- end -}}
+        {{- end -}}
 
-          {{- if eq .Params.event_platform "youtube_live" -}}
-            {{- if eq $future_event true -}}
-              <div class="actions actions-stacked">
-                {{/* Register */}}
-                <a
-                  aria-label="Register for {{- .Params.title -}}"
-                  class="btn btn-register"
-                  href="{{- .Params.registration_url -}}"
-                  onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
-                  >Register</a
-                >
-              </div>
-            {{- end -}}
-          {{- end -}}
+        {{/* Related Communities and Services */}}
+        {{- partial "core/get_related.html" . -}}
 
-          {{/* Related Communities and Services */}}
-          {{- partial "core/get_related.html" . -}}
+        {{/* Topics */}}
+        {{- partial "core/list-topics.html" . -}}
 
-          {{/* Topics */}}
-          {{- partial "core/list-topics.html" . -}}
-
-          {{/* Share Tools */}}
-          {{- partial "core/get_sharetools.html" . -}}
-        </aside>
-      </section>
-    </main>
+        {{/* Share Tools */}}
+        {{- partial "core/get_sharetools.html" . -}}
+      </aside>
+    </section>
   </section>
 {{- end -}}
