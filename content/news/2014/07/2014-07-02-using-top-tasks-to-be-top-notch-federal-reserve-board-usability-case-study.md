@@ -12,7 +12,6 @@ topics:
   - aoi
   - digitalgov-user-experience-program
   - first-click testing
-  - FRB
   - top-tasks
   - user-experience-community-of-practice
 

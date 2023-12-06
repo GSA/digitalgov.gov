@@ -11,7 +11,6 @@ topics:
   - mobile
   - content
   - accessibility
-  - frb
   - united-states-patent-and-trademark-office
   - uspto
   - user-experience

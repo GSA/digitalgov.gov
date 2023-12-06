@@ -10,7 +10,6 @@ topics:
   - design
   - user-testing-and-research
   - aoi
-  - FRB
   - top-tasks
   - usability
   - usability-testing

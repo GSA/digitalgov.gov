@@ -9,7 +9,6 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - frb
 featured_image:
   uid: money-adventure-welcome-screen
   alt:

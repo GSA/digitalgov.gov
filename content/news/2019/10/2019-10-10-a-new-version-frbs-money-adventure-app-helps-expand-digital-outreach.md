@@ -8,7 +8,6 @@ authors:
 categories:
   - mobile
 tag:
-  - frb
   - mobile-apps
 featured_image:
   uid: money-adventure-welcome-screen

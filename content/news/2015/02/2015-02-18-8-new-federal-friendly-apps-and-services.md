@@ -8,7 +8,6 @@ authors:
   - dan-kenny
 topics:
   - social-media
-  - FRB
   - gsa
   - open-data
   - terms-of-service
