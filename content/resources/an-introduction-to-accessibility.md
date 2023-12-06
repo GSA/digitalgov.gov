@@ -1,7 +1,7 @@
 ---
 date: 2023-10-27 15:06:00 -0500
 title: An introduction to accessibility
-deck: Understand why your websites and digital services must be accessible to all
+deck: Understand how to approach web digital service and web accessibility for all
 summary: An overview of how to design and deliver accessible digital products and services in the federal government
 
 # see all authors at https://digital.gov/authors
