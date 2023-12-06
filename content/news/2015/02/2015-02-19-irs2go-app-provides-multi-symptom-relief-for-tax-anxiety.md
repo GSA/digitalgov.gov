@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - Federal Mobile Products Registry
-  - ICE
   - Internal Revenue Service
   - IRS
   - mobile-apps

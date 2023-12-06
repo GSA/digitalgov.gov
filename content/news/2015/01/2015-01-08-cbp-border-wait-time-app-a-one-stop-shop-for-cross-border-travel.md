@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - us-customs-and-border-protection
-  
-  - ICE
   - thursday-mobile-products
   - US Customs and Border Protection
   - us-immigration-and-customs-enforcement

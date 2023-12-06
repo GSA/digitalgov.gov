@@ -7,7 +7,6 @@ authors:
   - byrhonda-lyons
 topics:
   - mobile
-  - ICE
   - mobile
   - mobile-apps
   - mobile-ux-guideline-1

@@ -12,8 +12,6 @@ topics:
   - customer-experience
   - Federal CrowdSource Mobile Testing Program
   - gsa
-  
-  - ICE
   - mobile-gov
   - NCI
   - nih
