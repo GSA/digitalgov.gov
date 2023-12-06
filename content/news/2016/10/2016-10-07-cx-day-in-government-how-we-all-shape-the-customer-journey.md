@@ -10,7 +10,6 @@ topics:
   - policy
   - customer-service
   - customer-experience
-  - Federal Acquisition Service
   - gsa
   - IT Schedule 70
   - PBS

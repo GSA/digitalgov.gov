@@ -14,7 +14,6 @@ topics:
   - content-strategy
   - Contingency Contracting Corps
   - FAR
-  - Federal Acquisition Service
   - gsa
   - mobile
   - Office of Governmentwide Policy

@@ -11,7 +11,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - Federal Acquisition Service
   - gsa
   - infrastructure
   - innovation

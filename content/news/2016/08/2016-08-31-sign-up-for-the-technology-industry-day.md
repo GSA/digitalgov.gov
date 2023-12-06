@@ -19,7 +19,6 @@ topics:
   - data
   - budgeting-and-performance
   - budgeting-and-performance
-  - federal-acquisition-service
   - fedramp
   - innovation
   - OCSIT

@@ -9,7 +9,6 @@ topics:
   - data
   - cloud
   - data
-  - Federal Acquisition Service
   - gsa
   - Office of Governmentwide Policy
   - OGP
