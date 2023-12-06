@@ -12,7 +12,6 @@ topics:
   - policy
   - user-testing-and-research
   - 18f
-  - FTC
   - usability-testing
   - user-centered-design
   - user-experience

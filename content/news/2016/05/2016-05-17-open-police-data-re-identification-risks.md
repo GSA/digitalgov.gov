@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - data
-  - FTC
   - National Telecommunications and Information Administration
   - open-data
   - security

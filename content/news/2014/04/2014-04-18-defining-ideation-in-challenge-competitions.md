@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - crowdsourcing
-  - FTC
   - National Eye Institute
   - OSTP
   - white-house-office-of-science-and-technology-policy

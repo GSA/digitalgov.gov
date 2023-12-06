@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  
-  - FTC
   - internet-of-things
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-6

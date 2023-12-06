@@ -13,7 +13,6 @@ topics:
   - dap
   - data
   - digital-analytics-program
-  - FTC
   - metrics
   - user-experience
   

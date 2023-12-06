@@ -18,7 +18,6 @@ topics:
   - crowdsourcing
   - data
   - FCPCCS
-  - FTC
   - HHS
   - NARA
   - nasa

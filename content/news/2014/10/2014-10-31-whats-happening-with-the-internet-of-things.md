@@ -10,7 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - our-work
-  - FTC
   - internet-of-things
   - NIST
   - united-states-department-of-transportation
