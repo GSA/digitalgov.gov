@@ -8,7 +8,6 @@ authors:
   - dan-kenny
 topics:
   - social-media
-  - Federal Reserve Board
   - FRB
   - gsa
   - open-data

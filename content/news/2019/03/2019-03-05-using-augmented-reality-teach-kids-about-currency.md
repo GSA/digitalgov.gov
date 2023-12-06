@@ -10,7 +10,6 @@ topics:
   - mobile
   - mobile-apps
   - frb
-  - federal-reserve-board
 featured_image:
   uid: money-adventure-welcome-screen
   alt:

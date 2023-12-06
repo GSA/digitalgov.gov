@@ -8,7 +8,6 @@ authors:
 categories:
   - mobile
 tag:
-  - federal-reserve-board
   - frb
   - mobile-apps
 featured_image:

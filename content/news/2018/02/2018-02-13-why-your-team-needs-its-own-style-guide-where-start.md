@@ -11,7 +11,6 @@ topics:
   - mobile
   - content
   - accessibility
-  - federal-reserve-board
   - frb
   - united-states-patent-and-trademark-office
   - uspto
