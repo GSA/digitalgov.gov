@@ -39,35 +39,33 @@ Comment —
 */}}
 
 <!-- Current structure -->
-div.note
-  h4
-    svg
-    {{ string heading }}
-  …Markdownify everything else
+div.note h4 svg
+{{ string heading }}
+…Markdownify everything else
 
 <!-- Proposed with BEM -->
-article.dg-note
-  h4.dg-note__title
-    svg.dg-note__icon
-  .dg-note__content
+article.dg-note h4.dg-note__title svg.dg-note__icon .dg-note__content
 
 <!-- Adds clarity with styling -->
 <style>
   /* With old format */
   /* If I change headers this will break. */
-  .note h4 {}
+  .note h4 {
+  }
   /* Can't target body content. */
 
   /* As opposed to BEM. */
-  .dg-note {}
+  .dg-note {
+  }
 
   /* This can be anything. */
-  .dg-note__title {}
+  .dg-note__title {
+  }
 
   /* Doesn't depend on markup. */
-  .dg-note__icon {}
+  .dg-note__icon {
+  }
 </style>
-
 
 <div class="note {{ if .Get 0 }}{{- .Get 0 -}}{{ end }}">
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
