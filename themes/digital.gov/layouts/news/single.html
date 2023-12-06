@@ -12,10 +12,8 @@
       {{- if .Params.kicker -}}
         <p class="kicker">{{- .Params.kicker -}}</p>
       {{- end -}}
-      {{/* Page Title */}}
       <h1>{{- .Title | markdownify -}}</h1>
 
-      {{/* Deck */}}
       {{- if .Params.deck -}}
         <div class="deck">{{- .Params.deck | markdownify -}}</div>
       {{- end -}}
