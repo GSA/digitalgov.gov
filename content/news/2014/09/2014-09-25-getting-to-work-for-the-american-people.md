@@ -9,9 +9,6 @@ topics:
   - code
   - 18f
   - data-gov
-  
-  
-  - FEC
   - federal-election-commission
   - open-government
   - peace-corps

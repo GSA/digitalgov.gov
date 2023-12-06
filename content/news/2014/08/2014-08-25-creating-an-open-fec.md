@@ -12,7 +12,6 @@ authors:
 topics:
   - data
   - 18f
-  - FEC
   - federal-election-commission
   - open-data
 ---

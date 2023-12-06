@@ -9,7 +9,6 @@ topics:
   - content
   - 18f
   - api
-  - FEC
   - federal-election-commission
 ---
 
