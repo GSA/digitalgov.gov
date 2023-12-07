@@ -1,6 +1,6 @@
 ---
 date: 2023-12-07 10:29:00 -0500
-kicker: Kicker goes here
+kicker: "UPDATE: Kicker goes here"
 title: "TEST: Test News Post"
 deck: Deck
 summary: Summary
