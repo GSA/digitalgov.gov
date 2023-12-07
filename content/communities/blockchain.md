@@ -1,37 +1,29 @@
 ---
-# View this page at https://digital.gov/communities/blockchain
-# Learn how to edit our pages at https://workflow.digital.gov
-
-slug: blockchain
-date: 2019-12-12 19:00:00 -0500
-title: "Blockchain"
-deck: ""
-summary: "This community is no longer active."
-# set date archived. page will not publish if after date
 expirydate: 2021-12-10
-
-# see all topics at https://digital.gov/topics
+date: 2019-12-12 19:00:00 -0500
+title: "TEST: Blockchain"
+deck: ""
+summary: This community is no longer active.
+# See all topics at https://digital.gov/topics
 topics:
   - blockchain
-
-# Page weight: controls how this page appears across the site
+slug: blockchain
+# Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 0
-
+# Enter the path of the URL that you want redirected to this page
 community_list:
   - platform: listserv
     type: government
-    subscribe_email: "BLOCKCHAIN-subscribe-request@listserv.gsa.gov"
-    terms: "Only federal employees are eligible to join."
+    subscribe_email: BLOCKCHAIN-subscribe-request@listserv.gsa.gov
+    terms: Only federal employees are eligible to join.
     members: 695
-
-  - platform: "listserv"
+  - platform: listserv
     type: public
-    subscribe_email: "BLOCKCHAINPUBLIC-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone is eligible to join."
+    subscribe_email: BLOCKCHAINPUBLIC-subscribe-request@listserv.gsa.gov
+    terms: Anyone is eligible to join.
     members: 688
-
 ---
 
 Federal agencies are eager to better evaluate and adopt distributed ledger technologies (like blockchain) that use encryption and coding to improve transparency, efficiency and trust in information sharing. Blockchain use cases that agencies submit for exploration touch many parts and processes of an organization, including:
