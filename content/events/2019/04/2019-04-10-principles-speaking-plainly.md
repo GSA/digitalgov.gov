@@ -1,45 +1,28 @@
 ---
-# View this page at https://digital.gov/event/2019/04/principles-speaking-plainly
-# Learn how to edit our pages at https://workflow.digital.gov
-slug: principles-speaking-plainly
-title: "Principles of Speaking Plainly"
-deck: ""
-summary: "This seminar adapts principles of plain language to the context of speaking, covering not only wording but also structure and integration with visual aids."
-host: "Plain language"
-event_organizer: "DigitalGov University"
+title: Principles of Speaking Plainly
+deck: "TEST: added a deck"
+summary: This seminar adapts principles of plain language to the context of
+  speaking, covering not only wording but also structure and integration with
+  visual aids.
+host: Plain language
+event_organizer: DigitalGov University
 registration_url: https://www.eventbrite.com/e/principles-of-speaking-plainly-registration-59398898705
-captions: 
-
-# start date
+captions: null
 date: 2019-04-10 15:00:00 -0500
-
-# end date
 end_date: 2019-04-10 16:00:00 -0500
-
-# see all topics at https://digital.gov/topics
-topics: 
+# See all topics at https://digital.gov/topics
+topics:
   - plain-language
   - writing
   - plain-language-community-of-practice
-
-# see all authors at https://digital.gov/authors
-authors: 
+# See all authors at https://digital.gov/authors
+authors:
   - christopher-chip-crane
   - katherine-spivey
-
-# YouTube ID
+slug: principles-speaking-plainly
 youtube_id: VTXJoHara-4
-
-# Primary Image (for social media)
-primary_image: "plain-language"
-
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
 weight: 0
-
-# Make it better ♥
-
+primary_image: plain-language
 ---
 
 
