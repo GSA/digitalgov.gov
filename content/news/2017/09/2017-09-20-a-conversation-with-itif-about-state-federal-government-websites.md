@@ -15,7 +15,6 @@ topics:
   - communities
   - content
   - content-strategy
-  - itif
   - metrics
   - mobile
   - mobile-first

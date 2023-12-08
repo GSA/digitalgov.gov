@@ -23,7 +23,6 @@ topics:
   - content
   - content-strategy
   - https
-  - ITIF
   - metrics
   - mobile
   - mobile-first
