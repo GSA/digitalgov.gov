@@ -1,7 +1,7 @@
 ---
 title: "About us"
-deck: 'We help the government community deliver better digital services.'
-summary: 'Welcome to Digital.gov. Learn more about who we are.'
+deck: "We help the government community deliver better digital services."
+summary: "Welcome to Digital.gov. Learn more about who we are."
 aliases:
   - /contact-us/
 
@@ -9,7 +9,7 @@ aliases:
 
 ## Mission
 
-To connect our federal colleagues with the knowledge they need to build outstanding websites and digital services.
+To connect our federal colleagues with the knowledge they need to create outstanding websites and digital services.
 
 ## Vision
 

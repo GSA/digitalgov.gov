@@ -2,11 +2,10 @@
 slug: communicators
 date: 2021-02-24 18:49:00 -0500
 title: Communicators
-summary: "Brings together government communicators to improve communication and make government more effective."
+summary: "Improve written and verbal communication to make government more effective."
 
 aliases:
   - /communities/federal-communicators-network/
-
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -42,12 +41,11 @@ weight: 1
 dg_highlight: true
 dg_shortname: Communicators
 dg_acronym: FCN
+dg_logo: communities-communicators.svg
 
 kicker: "Join the Communicators Community"
 
-
 primary_image: "white-bg-digital-gov-card-community"
-
 ---
 
 The Communicators community was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.

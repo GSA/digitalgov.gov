@@ -1,27 +1,20 @@
 @use "uswds-core" as *;
 
-header.page-head {
-  @include u-padding-bottom(2);
-  @include u-text("indigo-warm-80");
+.page-head {
+  @include u-padding-y(5);
+  @include u-text("center");
 
   h1,
   h2 {
-    @include u-margin-y(1);
-    @include u-text("heavy");
     @include u-text("center");
-    @include u-line-height("sans", 2);
-    @include u-font("sans", "xl");
-
-    @include at-media("tablet") {
-      @include u-font("sans", "2xl");
-    }
+    @include u-text("heavy");
+    margin-bottom: units(1);
   }
 
   .deck,
   p {
     @include u-margin(0);
     @include u-text("light");
-    @include u-text("center");
     @include u-maxw("none");
     @include u-font("sans", "md");
     @include u-line-height("sans", 3);
