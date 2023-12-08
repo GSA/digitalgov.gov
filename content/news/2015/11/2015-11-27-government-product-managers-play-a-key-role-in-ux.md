@@ -10,8 +10,6 @@ topics:
   - product-management
   - monthly-theme
   - user-testing-and-research
-  
-  - Internal Revenue Service
   - IRS
   - personas
   - united-states-office-of-personnel-management

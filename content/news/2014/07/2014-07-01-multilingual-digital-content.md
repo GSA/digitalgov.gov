@@ -9,13 +9,7 @@ authors:
 topics:
   - content
   - ANLE
-  
-  
-  
-  
   - GobiernoUSAgov
-  
-  - Internal Revenue Service
   - IRS
   - LEP
   - multilingual

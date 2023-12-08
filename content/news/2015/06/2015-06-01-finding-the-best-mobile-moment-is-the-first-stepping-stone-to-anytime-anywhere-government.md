@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - Internal Revenue Service
   - ios
   - IRS
   - mobile-ux-guideline-5

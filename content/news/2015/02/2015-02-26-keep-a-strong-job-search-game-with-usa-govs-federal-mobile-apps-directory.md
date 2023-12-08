@@ -7,7 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Internal Revenue Service
   - IRS
   - thursday-mobile-products
   - us-department-of-justice

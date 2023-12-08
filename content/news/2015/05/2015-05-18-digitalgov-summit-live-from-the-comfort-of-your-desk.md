@@ -10,8 +10,6 @@ topics:
   - customer-experience
   - our-work
   - gsa
-  
-  - Internal Revenue Service
   - IRS
   - open-and-structured-content-models
   - US Citizenship and Immigration Service

@@ -9,7 +9,6 @@ topics:
   - mobile
   - Federal Mobile Products Registry
   - GobiernoUSAgov
-  - Internal Revenue Service
   - IRS
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5

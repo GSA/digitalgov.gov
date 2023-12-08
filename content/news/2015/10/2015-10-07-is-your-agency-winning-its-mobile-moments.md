@@ -8,9 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  
   - Federal CrowdSource Mobile Testing Program
-  - Internal Revenue Service
   - IRS
   - national-oceanic-and-atmospheric-administration
   - NOAA

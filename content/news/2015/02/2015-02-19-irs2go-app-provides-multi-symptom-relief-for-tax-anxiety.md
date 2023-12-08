@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - Federal Mobile Products Registry
-  - Internal Revenue Service
   - IRS
   - mobile-apps
   - native-app
