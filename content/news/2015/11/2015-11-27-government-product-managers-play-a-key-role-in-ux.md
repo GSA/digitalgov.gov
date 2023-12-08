@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - user-testing-and-research
-  - IRS
+  
   - personas
   - united-states-office-of-personnel-management
   - user-experience

@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - Federal CrowdSource Mobile Testing Program
-  - IRS
+  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - transportation-security-administration

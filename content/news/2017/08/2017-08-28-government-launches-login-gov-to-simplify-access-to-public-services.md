@@ -17,7 +17,7 @@ topics:
   - customer-service
   - customer-experience
   - gsa
-  - IRS
+  
   - security
   - SSA
   - State

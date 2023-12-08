@@ -10,7 +10,7 @@ topics:
   - customer-experience
   - our-work
   - gsa
-  - IRS
+  
   - open-and-structured-content-models
   - US Citizenship and Immigration Service
   - US Department of Agriculture

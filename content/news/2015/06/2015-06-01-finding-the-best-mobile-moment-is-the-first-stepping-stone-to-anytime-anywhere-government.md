@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - ios
-  - IRS
+  
   - mobile-ux-guideline-5
   - national-oceanic-and-atmospheric-administration
   - NOAA

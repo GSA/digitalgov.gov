@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - Federal Mobile Products Registry
-  - IRS
+  
   - mobile-apps
   - native-app
   - thursday-mobile-products

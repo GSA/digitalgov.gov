@@ -10,7 +10,7 @@ topics:
   
   - gsa
   
-  - IRS
+  
   - mobile-apps
   - mobile-gov
   - mobile-first
