@@ -46,15 +46,18 @@ Comment —
       aria-hidden="true"
       focusable="false"
     >
-      <use  xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}"></use>
-      <!-- <use  xlink:href="{{ "uswds/img/sprite.svg#{{.noteIcon}}" | relURL }}"></use> -->
-      
+      <use
+        xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}"
+      ></use>
+      <!-- <use  xlink:href="{{ "uswds/img/sprite.svg#{{.noteIcon }}
+      " | relURL }}"></use> -->
     </svg>
     <!-- Activity -->
-    {{.noteTitle}}
+    {{ .noteTitle }}
   </h4>
   <p class="dg-note__content"></p>
-{{ end}}
+{{ end }}
+
 
 <!-- xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}" -->
 
@@ -63,29 +66,25 @@ Comment —
   {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
     {{ partial "note" (dict "noteTitle" "Activity") }}
   {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
-    {{ partial "note" (dict "noteTitle" "Action")}}
+    {{ partial "note" (dict "noteTitle" "Action") }}
   {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
-    {{ partial "note" (dict "noteTitle" "Alert")}}
+    {{ partial "note" (dict "noteTitle" "Alert") }}
   {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
-    {{ partial "note" (dict "noteTitle" "Comment")}}
+    {{ partial "note" (dict "noteTitle" "Comment") }}
   {{- else if and (.Get 0) (eq (.Get 0) "video") -}}
-    {{ partial "note" (dict "noteTitle" "Video")}}
+    {{ partial "note" (dict "noteTitle" "Video") }}
   {{- else if and (.Get 0) (eq (.Get 0) "group") -}}
-    {{ partial "note" (dict "noteTitle" "Who can join?")}}
+    {{ partial "note" (dict "noteTitle" "Who can join?") }}
   {{- else if and (.Get 0) (eq (.Get 0) "plain") -}}
-    {{ partial "note" (dict "noteTitle" "Note")}}
+    {{ partial "note" (dict "noteTitle" "Note") }}
   {{- else if and (.Get 0) (eq (.Get 0) "disclaimer") -}}
-    {{ partial "note" (dict "noteTitle" "Disclaimer")}}
-    All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
-{{ end }}
+    {{ partial "note" (dict "noteTitle" "Disclaimer") }}
+    All references to specific brands, products, and/or companies are used only
+    for illustrative purposes and do not imply endorsement by the U.S. federal
+    government or any federal government agency.
+  {{ end }}
   {{- .Inner | markdownify -}}
-
 </article>
-
-
-
-
-
 
 <!-- Current structure -->
 <!-- div.note h4 svg
