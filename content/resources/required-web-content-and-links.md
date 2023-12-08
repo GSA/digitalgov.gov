@@ -78,6 +78,24 @@ Learn more about what content helps provide your users with clear, contextualize
 
 {{< / box >}}
 
+## Accessibility Statement
+
+Federal agencies must:
+
+- develop an accessibility statement,
+- add it as an “Accessibility” page on the agency’s main website and provide a link to it,
+- link to it on all secondary public-facing websites, and
+- link to it on the agency’s Intranet website.
+
+The accessibility statement should, at a minimum, include:
+
+- contact information for the agency Section 508 program,
+- date of the last update, and
+- the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.
+
+Sample and best-in-practice accessibility statements can be found at [Section508.gov](https://www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies/#accessibility-statements), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/manage/playbooks/exec-guide-accessibility/#policy).
+
+{{< box >}}
 ##### Suggested link text:
 
 `Accessibility`
