@@ -1,7 +1,6 @@
 ---
 date: 2023-12-08 10:11:00 -0500
 # Originally published at the following URL
-source_url: https://18f.gsa.gov/2019/04/01/
 source: census
 title: "TEST: New Resource"
 deck: Deck
