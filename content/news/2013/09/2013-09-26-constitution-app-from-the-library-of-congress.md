@@ -6,7 +6,7 @@ summary: 'The Library of Congress recently released  The U.S. Constitution: Anal
 topics:
   - mobile
   
-  - LOC
+  
   - mobile-apps
   - thursday-mobile-products
 ---

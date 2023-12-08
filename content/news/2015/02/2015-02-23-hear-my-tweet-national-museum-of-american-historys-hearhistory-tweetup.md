@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   
-  - LOC
+  
   - smithsonian-institution
 ---
 

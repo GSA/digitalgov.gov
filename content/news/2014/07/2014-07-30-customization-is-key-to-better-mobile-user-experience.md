@@ -11,7 +11,7 @@ topics:
   
   - gps
   
-  - loc
+  
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-user-experience-guidelines

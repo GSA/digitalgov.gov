@@ -12,7 +12,7 @@ topics:
   - user-experience
   - analytics
   
-  - LOC
+  
   - NARA
   - national-archives-and-records-administration
   - open-opportunities-program

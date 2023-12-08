@@ -11,7 +11,7 @@ topics:
   - analytics
   - content-strategy
   
-  - LOC
+  
   - metadata
   - multilingual
   - responsive-web-design

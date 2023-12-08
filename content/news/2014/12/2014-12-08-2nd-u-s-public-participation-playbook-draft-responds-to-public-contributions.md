@@ -9,7 +9,7 @@ topics:
   - social-media
   - gsa
   
-  - LOC
+  
   - nasa
   - National Defense University
   - national-institutes-of-health

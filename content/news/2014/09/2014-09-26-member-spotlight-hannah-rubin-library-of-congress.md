@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
   
-  - LOC
+  
   - open-opportunities-program
 ---
 

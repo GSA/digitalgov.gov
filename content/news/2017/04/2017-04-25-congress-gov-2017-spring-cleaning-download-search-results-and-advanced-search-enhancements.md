@@ -10,7 +10,7 @@ topics:
   - design
   - product-management
   
-  - LOC
+  
 ---
 
 Spring is a beautiful time of year in Washington, D.C. The temperature warms up; the [cherry blossoms](http://blogs.loc.gov/law/2011/03/cherry-blossoms-at-the-library-of-congress/?loclr=bloglaw) are out; and we frequently have an update of [Congress.gov](https://congress.gov/?loclr=bloglaw) to share. In 2015 we added [treaties and web-friendly bill text](http://blogs.loc.gov/law/2015/03/treaties-text-and-timely-updates-congress-gov-spring-cleaning/?loclr=bloglaw), and in 2016 we [expanded the quick search](http://blogs.loc.gov/law/2016/04/congress-gov-spring-cleaning-expanded-quick-search/?loclr=bloglaw) feature. Today there is another round of enhancements to the Library of Congress website for tracking Congressional activity.

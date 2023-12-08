@@ -11,7 +11,7 @@ topics:
   - product-management
   - user-testing-and-research
   - crowdsourcing
-  - LOC
+  
   - metadata
   - NARA
   - national-archives-and-records-administration

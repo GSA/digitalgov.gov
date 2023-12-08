@@ -6,7 +6,7 @@ summary: Congress.gov ushered in the new fiscal year by removing the beta label 
 topics:
   - mobile
   
-  - LOC
+  
   - mobile
   - responsive-web-design
   - thursday-mobile-products
