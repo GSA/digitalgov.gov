@@ -1,6 +1,6 @@
 ---
 title: Test Service
-summary: Description
+summary: "UPDATE: Description"
 # Images must be uploaded in the /static/logos/ folder before they can be used here.
 logo: digitalgov.png
 source: aousc
@@ -8,6 +8,11 @@ contact: digitalgov@gsa.gov
 # See all topics at https://digital.gov/topics
 topics:
   - 18f
+  - 18f-methods
+  - a-b-testing
+# See all authors at https://digital.gov/authors
+authors:
+  - abigail-noonan
 slug: test-service
 # Controls how this page appears across the site
 # 0 -- hides this service from all pages, but URL is still public
