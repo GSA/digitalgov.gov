@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   
-  - Library of Congress
+  
   - LOC
   - national-archives-and-records-administration
   - us-department-of-state

@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - product-management
-  - Library of Congress
+  
   - LOC
 ---
 

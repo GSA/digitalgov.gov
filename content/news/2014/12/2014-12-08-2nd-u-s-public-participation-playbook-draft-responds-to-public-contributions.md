@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - gsa
-  - Library of Congress
+  
   - LOC
   - nasa
   - National Defense University

@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - social-media
-  - Library of Congress
+  
   - LOC
   - smithsonian-institution
 ---

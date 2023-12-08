@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - analytics
-  - Library of Congress
+  
   - LOC
   - NARA
   - national-archives-and-records-administration

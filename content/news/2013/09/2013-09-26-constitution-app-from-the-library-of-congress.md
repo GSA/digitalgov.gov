@@ -5,7 +5,7 @@ title: Constitution App from the Library of Congress
 summary: 'The Library of Congress recently released  The U.S. Constitution: Analysis and Interpretation app, an iOS version of the &#8220;Constitution of the United States of America: Analysis and Interpretation.&#8221; This is a comprehensive analytical legal treatise prepared by attorneys'
 topics:
   - mobile
-  - Library of Congress
+  
   - LOC
   - mobile-apps
   - thursday-mobile-products

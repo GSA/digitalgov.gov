@@ -10,7 +10,7 @@ topics:
   - big-data
   - data
   
-  - Library of Congress
+  
   - LOC
   - open-data
   - the-data-briefing

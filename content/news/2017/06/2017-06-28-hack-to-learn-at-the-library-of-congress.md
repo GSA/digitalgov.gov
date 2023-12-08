@@ -9,7 +9,7 @@ topics:
   - data
   - data
   - hackathon
-  - Library of Congress
+  
   - LOC
 ---
 
