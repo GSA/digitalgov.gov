@@ -48,80 +48,35 @@ Together, these two components are the most recognizable and standardized design
 
 ## About Page
 
-You are required to have an "About" page on your site.
+You need to have an "About" page on your site.
 
-On your primary agency site, you would include information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
+On your primary agency site, include information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
 
 - the agency’s strategic plan and annual performance plans
 - the agency’s privacy policy page _([more on this below](#privacy-policy))_
-- the agency’s Small Business point of contact, as required by the Small Business Paperwork Relief Act of 2002
+- the agency’s Small Business point of contact, as described by the Small Business Paperwork Relief Act of 2002
 - the agency’s Open Government page
 - the agency’s Plain Writing page
 - information as required under the No Fear Act of 2002 _([more on this below](#equal-employment))_
 - information associated with the agency’s implementation of the Information Quality Act
 
-Secondary agency sites also need an "About" page that describes your site and links to your own website policies. It should also links to the primary agency's "About" page. For example, our Digital.gov About page has:
-
-- text about our program
-- a link to our own website policies (which includes links GSA’s policy page)
-- a link to GSA’s About page
+Secondary agency sites also need an "About" page that describes your site and links to your own website policies. It should also link to the primary agency's "About" page. 
 
 {{< box >}}
 
 ##### Suggested link text:
 
-`About` or `About Us`
+`About` or `About us`
 
-##### Required on:
+##### 'About us" links should appear on:
 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-##### Required by:
+Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
-**16. Ensure Access to Mandatory Content**
-
-Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
-
-At a minimum, {{< highlight >}}agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site{{< /highlight >}}:
-
-- **A.** USA.gov;
-- **B.** the website’s privacy policy;
-- **C.** the agency’s Freedom of Information Act webpage;
-- {{< highlight >}}**D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:{{< /highlight >}}
-
-1. the agency’s strategic plan and annual performance plans;
-2. the agency’s Privacy Program Page;
-3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
-4. the agency’s Open Government Page;
-5. the agency’s Plain Writing Page;
-6. information as required under the No Fear Act of 2002;
-7. information associated with the agency’s implementation of the Information Quality Act.
-
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
-
-## Accessibility Statement
-
-Federal agencies must:
-
-- develop an accessibility statement,
-- add it as an “Accessibility” page on the agency’s main website and provide a link to it,
-- link to it on all secondary public-facing websites, and
-- link to it on the agency’s Intranet website.
-
-The accessibility statement should, at a minimum, include:
-
-- contact information for the agency Section 508 program,
-- date of the last update, and
-- the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.
-
-Sample and best-in-practice accessibility statements can be found at [Section508.gov](https://www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies/#accessibility-statements), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/manage/playbooks/exec-guide-accessibility/#policy).
-
-{{< box >}}
+{{< / box >}}
 
 ##### Suggested link text:
 
@@ -129,41 +84,12 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 
 ##### Required on:
 
-- All agency websites, internal and external. Secondary sites can link to the accessibility statement on the domain website.
+- All agency websites, internal and external.
+- Secondary sites can link to the accessibility statement on the domain website.
 
-##### Required by:
+Learn more about what content helps provide your users with accessible digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and the [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013)
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013){{< / box >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
-**12. Ensure Accessibility for Individuals with Disabilities**
-
-Section 508 of the Rehabilitation Act was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage the development of technologies that will help achieve these goals. <sup>28</sup> The law applies to all Federal departments and agencies when they develop, procure, maintain, or use electronic and information technology. <sup>29</sup> Under Section 508, departments and agencies must ensure that employees and members of the public with disabilities have access to information and data that is comparable to access available to others unless an undue burden would be imposed on the department or agency.
-
-**A.** Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards. <sup>30</sup> Additionally, agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>31</sup>; <br />**B.** Section 508 technical and EIT Accessibility requirements must be included in the requirements document for the procurement of EIT products and services and planned for and built into the development, operations and management lifecycle of a Federal website or digital service. Any new functionality must be regularly tested to ensure it meets the EIT Accessibility Standards and is accessible for persons with disabilities.; <br />**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator {{< highlight >}}as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>{{< /highlight >}}. <sup>[32](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
-
----
-
-{{< footnote >}}
-<sup>28</sup> _See_ 29 U.S.C. &sect; 794d <br />
-<sup>29</sup> Section 508 does not apply to national security systems, as that term is defined in section 11103(a) of title 40. 29 U.S.C. &sect; 794d(a)(5). <br />
-<sup>30</sup> 36 CFR Part 1194 <br />
-<sup>31</sup> 29 U.S.C. &sect; 794d(g) <br />
-<sup>32</sup> [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013)
-{{< /footnote >}}
-
-{{< /card-policy >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
-
-Transparency of Federal programs, performance, and spending facilitates increases in accountability and citizen engagement. To support increased transparency, the Accessibility Committee has expanded on information available to agencies by creating a best practices library. The library may be found at [https://cio.gov/2011/05/](https://cio.gov/2011/05/) and contains examples of best practices in policy and procedures that can increase transparency. Feedback from the listening sessions and the national dialogue indicates several areas that would benefit from more transparency. Specific areas include opportunities for public engagement, inter-agency collaboration, and standardizing agency approaches to Section 508 implementation.
-
-Transparency of agency Section 508 practices and application will be improved through two key actions: (1) providing the public with a standard feedback mechanism and statement available on agency websites, and (2) making [www.section508.gov](https://www.section508.gov) the one-stop information resource for agencies with respect to successful Section 508 management and implementation. Specifically, within 180 days of the release of this strategic plan:
-
-1. the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle.
-2. {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov).
-   {{< /card-policy >}}
+{{< / box >}}
 
 ## Budget and Performance Reports
 
@@ -185,9 +111,9 @@ Agencies are required to have a page on their website that has the following inf
 
 - The homepage of your agency's principal website
 
-##### Required by:
+Learn more about  transparency around budgeting and performance reoports in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf), Part 6.
 
-- [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf), Part 6{{< / box >}}
+{{< / box >}}
 
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210.6" >}}
 
@@ -256,22 +182,10 @@ Agencies should choose the best approach to identify external links to users in 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
+  
+Learn more about what links provide your users with clear, trustworthy digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
 
-##### Required by:
-
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
-**11. Ensure Information Quality and Accuracy**
-
-The Internet enables agencies to communicate information quickly and easily to a wide audience, which, while of great benefit to society, also increases the potential harm that can result from disseminating incorrect information. Taking this into account, information disseminated from Federal Government websites and digital services, or from third-party services on behalf of the Government, is expected to be authoritative and reliable.
-
-The Information Quality Act applies to all information disseminated from Federal websites, and in certain cases, to information published to third-party sites on behalf of the Government. OMB has published Information Quality Guidelines to help agencies meet this requirement. <sup>26</sup>
-
-**E.** Agencies must clearly identify external links from their websites, and to the extent practicable update or remove the links when the external information is no longer sufficiently accurate, relevant, timely, necessary or complete.
-
-1. {{< highlight >}}Agency websites must clearly state that the content of external links to non-Federal Agency websites is not endorsed by the Federal Government and is not subject to Federal information quality, privacy, security, and related guidelines.{{< /highlight >}}
-2. {{< highlight >}}Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services.{{< /highlight >}}{{< /card-policy >}}
+{{< / box >}}
 
 ## Freedom of Information Act (FOIA)
 
@@ -296,31 +210,9 @@ Organizations should review the FOIA and implementation guidance to ensure that 
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-##### Required by:
+Learn more about what content helps provide your users with necessary information in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
-**16. Ensure Access to Mandatory Content**
-
-Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
-
-At a minimum, {{< highlight >}}agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site{{< /highlight >}}:
-
-- **A.** USA.gov;
-- **B.** the website’s privacy policy;
-- {{< highlight >}}**C.** the agency’s Freedom of Information Act webpage{{< / highlight >}};
-- **D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
-
-1. the agency’s strategic plan and annual performance plans;
-2. the agency’s Privacy Program Page;
-3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
-4. the agency’s Open Government Page;
-5. the agency’s Plain Writing Page;
-6. information as required under the No Fear Act of 2002;
-7. information associated with the agency’s implementation of the Information Quality Act.
-
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
+{{< / box >}}
 
 ## Government Customer Support
 
@@ -348,31 +240,9 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-##### Required by:
+Learn more about providing straightforward customer support in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
 
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
-**16. Ensure Access to Mandatory Content**
-
-Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
-
-At a minimum, {{< highlight >}}agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site{{< /highlight >}}:
-
-- {{< highlight >}}**A.** USA.gov{{< /highlight >}};
-- **B.** the website’s privacy policy;
-- **C.** the agency’s Freedom of Information Act webpage;
-- **D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
-
-1. the agency’s strategic plan and annual performance plans;
-2. the agency’s Privacy Program Page;
-3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
-4. the agency’s Open Government Page;
-5. the agency’s Plain Writing Page;
-6. information as required under the No Fear Act of 2002;
-7. information associated with the agency’s implementation of the Information Quality Act.
-
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
+{{< / box >}}
 
 ## Privacy Policy
 
@@ -396,32 +266,7 @@ All federal public websites must comply with existing laws and directives that a
 - Any known major entry points to your sites
 - Any web page that collects substantial information in identifiable form
 
-##### Required by:
-
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
-**16. Ensure Access to Mandatory Content**
-
-Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
-
-At a minimum, {{< highlight >}}agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site{{< /highlight >}}:
-
-- **A.** USA.gov;
-- {{< highlight >}}**B.** the website’s privacy policy{{< /highlight >}};
-- **C.** the agency’s Freedom of Information Act webpage;
-- **D.** a page about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
-
-1. the agency’s strategic plan and annual performance plans;
-2. the agency’s Privacy Program Page;
-3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
-4. the agency’s Open Government Page;
-5. the agency’s Plain Writing Page;
-6. information as required under the No Fear Act of 2002;
-7. information associated with the agency’s implementation of the Information Quality Act.
-
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
+Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and in [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
 
 {{< card-policy src="https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/" kicker="Policy" title="**OMB M-03-22:** Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002" >}}**III. Privacy Policies on Agency Websites**
 
