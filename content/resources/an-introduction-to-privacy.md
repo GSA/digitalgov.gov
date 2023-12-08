@@ -9,6 +9,7 @@ topics:
   - privacy
   - analytics
   - trust
+  - user-experience
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
