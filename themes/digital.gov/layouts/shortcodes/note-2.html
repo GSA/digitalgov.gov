@@ -1,0 +1,117 @@
+{{/* Note Shortcode — the following are all the iterations of the "note" shortcode and how to use them.
+
+  Note —
+  {{< note
+>}}
+text goes here...
+{{< /note >}}
+
+Activity —
+{{< note "activity" >}}
+Activity text goes here...
+{{< /note >}}
+
+Alert —
+{{< note "alert" >}}
+Alert text goes here...
+{{< /note >}}
+
+Action —
+{{< note "action" >}}
+Action text goes here...
+{{< /note >}}
+
+Video —
+{{< note "video" >}}
+Video text goes here...
+{{< /note >}}
+
+Group —
+{{< note "group" >}}
+Group text goes here...
+{{< /note >}}
+
+Comment —
+{{< note "alert" >}}
+> Comment goes here as a blockquote additional text goes here...
+{{< /note >}}
+
+*/}}
+<!-- setting up the template that can be reused -->
+<!-- need to set the title and svg to be dynamic -->
+{{ define "partials/note.html" }}
+  <h4 class="dg-note__title">
+    <svg
+      class=" dg-note__icon usa-icon dg-icon dg-icon--large margin-bottom-05"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <use  xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}"></use>
+      <!-- <use  xlink:href="{{ "uswds/img/sprite.svg#{{.noteIcon}}" | relURL }}"></use> -->
+      
+    </svg>
+    <!-- Activity -->
+    {{.noteTitle}}
+  </h4>
+  <p class="dg-note__content"></p>
+{{ end}}
+
+<!-- xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}" -->
+
+<!-- doing the short code with all the options... -->
+<article class="dg-note {{ if .Get 0 }}{{- .Get 0 -}}{{ end }}">
+  {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
+    {{ partial "note" (dict "noteTitle" "Activity") }}
+  {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
+    {{ partial "note" (dict "noteTitle" "Action")}}
+  {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
+    {{ partial "note" (dict "noteTitle" "Alert")}}
+  {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
+    {{ partial "note" (dict "noteTitle" "Comment")}}
+  {{- else if and (.Get 0) (eq (.Get 0) "video") -}}
+    {{ partial "note" (dict "noteTitle" "Video")}}
+  {{- else if and (.Get 0) (eq (.Get 0) "group") -}}
+    {{ partial "note" (dict "noteTitle" "Who can join?")}}
+  {{- else if and (.Get 0) (eq (.Get 0) "plain") -}}
+    {{ partial "note" (dict "noteTitle" "Note")}}
+  {{- else if and (.Get 0) (eq (.Get 0) "disclaimer") -}}
+    {{ partial "note" (dict "noteTitle" "Disclaimer")}}
+    All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+{{ end }}
+  {{- .Inner | markdownify -}}
+
+</article>
+
+
+
+
+
+
+<!-- Current structure -->
+<!-- div.note h4 svg
+
+…Markdownify everything else -->
+
+<!-- Proposed with BEM -->
+<!-- article.dg-note h4.dg-note__title svg.dg-note__icon .dg-note__content -->
+
+<!-- Adds clarity with styling
+<style>
+  /* With old format */
+  /* If I change headers this will break. */
+  .note h4 {
+  }
+  /* Can't target body content. */
+
+  /* As opposed to BEM. */
+  .dg-note {
+  }
+
+  /* This can be anything. */
+  .dg-note__title {
+  }
+
+  /* Doesn't depend on markup. */
+  .dg-note__icon {
+  }
+</style> -->
