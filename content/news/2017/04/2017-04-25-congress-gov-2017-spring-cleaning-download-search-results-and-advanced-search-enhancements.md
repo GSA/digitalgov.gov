@@ -9,7 +9,6 @@ topics:
   - content
   - design
   - product-management
-  - Law Library of Congress
   - Library of Congress
   - LOC
 ---

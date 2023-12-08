@@ -7,7 +7,6 @@ authors:
   - charlotte-stichter
 topics:
   - content
-  - Law Library of Congress
   - Library of Congress
   - LOC
 ---

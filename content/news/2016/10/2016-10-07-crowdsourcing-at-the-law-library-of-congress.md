@@ -11,7 +11,6 @@ topics:
   - product-management
   - user-testing-and-research
   - crowdsourcing
-  - Law Library of Congress
   - LOC
   - metadata
   - NARA
