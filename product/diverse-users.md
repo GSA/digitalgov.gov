@@ -15,7 +15,7 @@ sidebar: product
 - Set a regular cadence for testing accessibility scenarios.
 
 #### Resources
-[Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
+[Personas for Accessible UX](https://prod.rm.gfolkdev.net/a-web-for-everyone/personas-for-accessible-ux/)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/product/project-workflow/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
