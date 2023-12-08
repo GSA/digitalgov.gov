@@ -9,8 +9,6 @@ topics:
   - code
   - monthly-theme
   - data
-  
-  - MCC
   - nasa
   - open-data
   - us-department-of-education
