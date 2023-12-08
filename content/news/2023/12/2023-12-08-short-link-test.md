@@ -2,8 +2,8 @@
 source: cloudgov
 date: 2023-12-08 11:04:00 -0500
 title: short link test
-deck: deck
-summary: summary goes here
+deck: deck [update copy goes here]
+summary: summary goes here [updated copy goes here]
 # See all topics at https://digital.gov/topics
 topics:
   - 18f-methods
