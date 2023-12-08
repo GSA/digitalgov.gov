@@ -276,3 +276,9 @@ li .note {
     @include u-font("serif", "lg");
   }
 }
+
+.note.disclaimer {
+  @include u-bg("gray-cool-3");
+  @include u-text("gray-warm-90");
+  @include u-border-left("05", "solid", "gray-cool-20");
+}

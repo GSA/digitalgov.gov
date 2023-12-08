@@ -1,129 +1,37 @@
-{{/* Note Shortcode — the following are all the iterations of the "note" shortcode and how to use them.
+{{ $variant := (.Get "variant") }}
+{{ $icon := "" }}
 
-  Note —
-  {{< note
->}}
-text goes here...
-{{< /note >}}
+{{ if eq $variant "Activity" }}
+  {{ $icon = "assessment" }}
+{{ else if eq $variant "Action" }}
+  {{ $icon = "campaign" }}
+{{ else if eq $variant "Alert" }}
+  {{ $icon = "report" }}
+{{ else if eq $variant "Comment" }}
+  {{ $icon = "comment" }}
+{{ else if eq $variant "Video" }}
+  {{ $icon = "fast_forward" }}
+{{ else if eq $variant "Who can Join?" }}
+  {{ $icon = "groups" }}
+{{ else if eq $variant "Note" }}
+  {{ $icon = "notifications" }}
+{{ else if eq $variant "Disclaimer" }}
+  {{ $icon = "info" }}
+{{ end }}
 
-Activity —
-{{< note "activity" >}}
-Activity text goes here...
-{{< /note >}}
+{{- $iconPath := (printf "uswds/img/sprite.svg#%s" $icon) -}}
 
-Alert —
-{{< note "alert" >}}
-Alert text goes here...
-{{< /note >}}
 
-Action —
-{{< note "action" >}}
-Action text goes here...
-{{< /note >}}
-
-Video —
-{{< note "video" >}}
-Video text goes here...
-{{< /note >}}
-
-Group —
-{{< note "group" >}}
-Group text goes here...
-{{< /note >}}
-
-Comment —
-{{< note "alert" >}}
-> Comment goes here as a blockquote additional text goes here...
-{{< /note >}}
-
-*/}}
-
-<div class="note {{ if .Get 0 }}{{- .Get 0 -}}{{ end }}">
-  {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
-    <h4>
-      <svg
-        class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <use
-          xlink:href="{{ "uswds/img/sprite.svg#assessment" | relURL }}"
-        ></use>
-      </svg>
-      Activity
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
-    <h4>
-      <svg
-        class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <use xlink:href="{{ "uswds/img/sprite.svg#campaign" | relURL }}"></use>
-      </svg>
-      Action
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
-    <h4>
-      <svg
-        class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <use xlink:href="{{ "uswds/img/sprite.svg#report" | relURL }}"></use>
-      </svg>
-      Alert
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
-    <h4>
-      <svg
-        class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <use xlink:href="{{ "uswds/img/sprite.svg#comment" | relURL }}"></use>
-      </svg>
-      Comment
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "video") -}}
-    <h4>
-      <svg
-        class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <use
-          xlink:href="{{ "uswds/img/sprite.svg#fast_forward" | relURL }}"
-        ></use>
-      </svg>
-      Video
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "group") -}}
-    <h4>
-      <svg
-        class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
-      </svg>
-      Who can join?
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "plain") -}}
-  {{- else -}}
-    <h4>
-      <svg
-        class="usa-icon dg-icon dg-icon--large margin-bottom-05"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <use
-          xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}"
-        ></use>
-      </svg>
-      Note
-    </h4>
-  {{- end -}}
-
+<article class="dg-note {{ if $variant }}{{- $variant | lower -}}{{ end }}">
+  <h4 class="dg-note__title">
+    <svg
+      class=" dg-note__icon usa-icon dg-icon dg-icon--large margin-bottom-05"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <use xlink:href="{{ $iconPath | relURL }}"></use>
+    </svg>
+    {{ $variant }}
+  </h4>
   {{- .Inner | markdownify -}}
-</div>
+</article>
