@@ -1,24 +1,30 @@
 ---
 date: 2023-12-08 23:30:00 -0500
-title: Making GSA public art collection more accessible
-deck: A case study on how we updated art.gsa.gov
-summary: GSA’s Fine Arts team recently leveraged modern product development
-  practices to launch the new collection website.
+title: "Making GSA's public art collection more accessible"
+deck: "A case study on how we updated art.gsa.gov"
+summary: "GSA’s Fine Arts team recently leveraged modern product development practices to launch the new collection website."
+
 # See all topics at https://digital.gov/topics
 topics:
   - design
   - code
-  - user-experience-community-of-practice
+  - user-experience
+
 # See all authors at https://digital.gov/authors
 authors:
   - jenn-noinaj
+
 slug: making-gsa-public-art-collection-more-accessible
+
 primary_image: screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-highsmith
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Imagine if the Louvre’s vast collection of masterpieces was hidden away from public view, or the museum was accessible to only 5,000 visitors a year! The GSA Fine Arts Program faced this very challenge: How do you share one of the largest U.S. public art collections with the world without them having to visit every federal building?
 
 Follow along on our journey to make one of the oldest and largest public art collections in the United States on [art.gsa.gov](https://art.gsa.gov/) **accessible to all**.
@@ -32,8 +38,6 @@ The U.S. General Services Administration’s (GSA) Fine Arts Collection traces i
 Today, the GSA Fine Arts Program team maintains this collection. Much of the artwork owned by GSA lives in our federal buildings and courthouses. Pieces from the collection are also on long-term loan to museums and other non-profit organizations.
 
 Last year, GSA celebrated the [50th anniversary of the Art in Architecture program](https://www.gsa.gov/real-estate/design-and-construction/art-in-architecturefine-arts/art-in-architecture-50). Launched in 1972 under the recommendations of President John F. Kennedy's Ad Hoc Committee on Federal Office Space, the program proposed:
-
-{{< note "comment">}}  > Where appropriate, fine art should be incorporated into the designs of federal buildings with emphasis on the work of living American artists. {{< /note >}}
 
 {{< card-quote text="Where appropriate, fine art should be incorporated into the designs of federal buildings with emphasis on the work of living American artists." cite="" >}}
 
@@ -154,4 +158,4 @@ The GSA Service Delivery team delivers digital services focused on user needs. W
 
 ### D﻿isclaimer
 
-All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
