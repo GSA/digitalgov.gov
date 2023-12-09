@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/gsa-fine-arts-figure-1-prototypes.png
+  # Image shortcode: {{< img src=gsa-fine-arts-figure-1-prototypes >}}'
+  date     :  2023-12-09 03:15:43 -0400
+  uid      :  gsa-fine-arts-figure-1-prototypes
+  width    :  1200
+  height   :  580
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "Screenshots of the 3 versions of the homepage; the initial prototype, changes made after the first sprint, and changes made after the second sprint."
+  
