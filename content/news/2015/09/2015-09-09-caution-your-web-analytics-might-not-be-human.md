@@ -9,7 +9,7 @@ topics:
   - metrics
   - monthly-theme
   - analytics
-  - dap
+  - analytics
   - data
   - digital-analytics-program
 ---

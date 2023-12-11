@@ -16,7 +16,7 @@ topics:
   - 18f
   - analytics
   - analytics-usa-gov
-  - dap
+  - analytics
   - digital-analytics-program
 
 ---

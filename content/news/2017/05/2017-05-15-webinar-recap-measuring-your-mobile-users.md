@@ -12,7 +12,7 @@ topics:
   - mobile
   - analytics
   - best-practices
-  - dap
+  - analytics
   - digital-analytics-program
 
 ---

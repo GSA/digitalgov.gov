@@ -13,7 +13,7 @@ topics:
   - mobile
   - analytics
   - customer-experience
-  - dap
+  - analytics
   - data
   - digital-analytics-program
   - mobile

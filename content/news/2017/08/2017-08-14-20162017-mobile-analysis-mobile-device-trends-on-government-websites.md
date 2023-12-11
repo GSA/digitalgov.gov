@@ -9,7 +9,7 @@ topics:
   - metrics
   - mobile
   - analytics
-  - dap
+  - analytics
   - metrics
   - mobile
 

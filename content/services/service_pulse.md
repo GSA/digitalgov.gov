@@ -12,7 +12,7 @@ topics:
   - https
   - product-management
   - security
-  - dap
+  - analytics
   - analytics
 # See all authors at https://digital.gov/authors
 authors:

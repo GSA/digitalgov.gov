@@ -9,7 +9,7 @@ topics:
   - content
   - social-media
   - video
-  - dap
+  - analytics
   - multimedia
   - section-508
   - us-department-of-state

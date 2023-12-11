@@ -24,7 +24,7 @@ topics:
   - multilingual
   - performance
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
 
 # Page weight: controls how this page appears across the site

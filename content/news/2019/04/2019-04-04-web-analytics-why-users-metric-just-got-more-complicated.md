@@ -10,7 +10,7 @@ categories:
   - metrics
 tag:
   - analytics
-  - dap
+  - analytics
 featured_image:
   uid: dap-new-returning
   alt: ''

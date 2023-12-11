@@ -11,7 +11,7 @@ topics:
   - 18f
   - analytics
   - customer-service
-  - dap
+  - analytics
   - open-opportunities-program
 ---
 

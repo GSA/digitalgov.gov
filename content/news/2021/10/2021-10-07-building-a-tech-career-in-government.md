@@ -11,7 +11,7 @@ topics:
   - tts
   - 18f
   - cloud-gov
-  - dap
+  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - dahianna-salazar-foreman

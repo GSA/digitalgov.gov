@@ -22,7 +22,7 @@ topics:
   - analytics
   - contact-centers
   - content-strategy
-  - dap
+  - analytics
   - data
   - metrics
   - multilingual

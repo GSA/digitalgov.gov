@@ -29,7 +29,7 @@ topics:
   - multilingual
   - plain-language
   - product-management
-  - dap
+  - analytics
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors 

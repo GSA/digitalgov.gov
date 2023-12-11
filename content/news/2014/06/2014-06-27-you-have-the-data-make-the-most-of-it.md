@@ -7,7 +7,7 @@ authors:
   - sarah-kaczmarek
 topics:
   - metrics
-  - dap
+  - analytics
   - digital-analytics-program
   - GAO
 ---

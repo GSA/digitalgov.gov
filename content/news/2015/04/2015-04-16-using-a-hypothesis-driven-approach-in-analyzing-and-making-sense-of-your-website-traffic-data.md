@@ -8,7 +8,7 @@ authors:
 topics:
   - metrics
   - analytics
-  - dap
+  - analytics
   - data
   - digital-analytics-program
 ---

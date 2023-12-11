@@ -9,7 +9,7 @@ topics:
   - content
   - product-management
   - api
-  - dap
+  - analytics
   - digital-analytics-program
   - drupal
   - GobiernoUSAgov

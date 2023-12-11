@@ -35,7 +35,7 @@ topics:
   - cloud-gov
   - content
   - customer-experience
-  - dap
+  - analytics
   - digital-analytics-program
   - metrics
   - mobile

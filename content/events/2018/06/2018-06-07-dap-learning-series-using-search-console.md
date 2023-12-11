@@ -22,7 +22,7 @@ topics:
   - digital-analytics-program
   - google-analytics
   - metrics
-  - dap
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

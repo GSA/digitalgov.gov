@@ -7,7 +7,7 @@ authors:
   - eric-mill
 topics:
   - metrics
-  - dap
+  - analytics
   - digital-analytics-program
   - https
 ---

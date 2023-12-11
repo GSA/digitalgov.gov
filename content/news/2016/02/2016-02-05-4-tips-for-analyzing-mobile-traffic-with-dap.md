@@ -9,7 +9,7 @@ topics:
   - metrics
   - mobile
   - our-work
-  - dap
+  - analytics
   - digital-analytics-program
   - mobile-gov
   - mobile-gov-community-of-practice

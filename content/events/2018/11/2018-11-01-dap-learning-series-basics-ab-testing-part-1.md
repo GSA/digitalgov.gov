@@ -21,7 +21,7 @@ topics:
   - a-b-testing
   - analytics
   - cfpb
-  - dap
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

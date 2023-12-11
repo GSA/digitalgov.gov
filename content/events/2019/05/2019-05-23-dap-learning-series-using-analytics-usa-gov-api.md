@@ -22,7 +22,7 @@ topics:
   - metrics
   - analytics
   - analytics-usa-gov
-  - dap
+  - analytics
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors

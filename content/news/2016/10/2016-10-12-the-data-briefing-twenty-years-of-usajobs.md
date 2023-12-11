@@ -15,7 +15,7 @@ topics:
   - user-experience
   - agile
   - blockchain
-  - dap
+  - analytics
   - data
   - digital-analytics-program
   - gsa

@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - monthly-theme
-  - dap
+  - analytics
   - digital-analytics-program
   - United States Postal Service
   - USPS

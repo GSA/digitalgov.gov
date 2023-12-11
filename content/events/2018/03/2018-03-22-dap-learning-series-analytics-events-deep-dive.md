@@ -21,7 +21,7 @@ end_date: 2018-03-22 15:00:00 -0500
 topics:
   - data
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors

@@ -10,7 +10,7 @@ topics:
   - metrics
   - our-work
   - analytics
-  - dap
+  - analytics
   - data
   - digital-analytics-program
   - Federal Trade Commission

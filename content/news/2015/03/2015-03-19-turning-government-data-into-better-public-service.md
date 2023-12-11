@@ -13,7 +13,7 @@ topics:
   - monthly-theme
   - our-work
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
 
 ---

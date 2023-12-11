@@ -12,7 +12,7 @@ topics:
   - metrics
   - monthly-theme
   - analytics
-  - dap
+  - analytics
   - nasa
   - social-media-metrics
 

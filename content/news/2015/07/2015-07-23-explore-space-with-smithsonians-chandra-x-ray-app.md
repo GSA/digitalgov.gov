@@ -7,7 +7,7 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  - dap
+  - analytics
   - digital-analytics-program
   - ios
   - mobile-apps

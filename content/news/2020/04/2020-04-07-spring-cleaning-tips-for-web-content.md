@@ -18,7 +18,7 @@ topics:
   - plain-language
   - 508
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
   - section-508
   - seo

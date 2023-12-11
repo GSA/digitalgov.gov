@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - metrics
-  - dap
+  - analytics
   - digital-analytics-program
   - mobile
   - nasa

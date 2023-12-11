@@ -13,7 +13,7 @@ topics:
   - our-work
   - analytics
   - code
-  - dap
+  - analytics
   - data
   - digital-analytics-program
   - metrics

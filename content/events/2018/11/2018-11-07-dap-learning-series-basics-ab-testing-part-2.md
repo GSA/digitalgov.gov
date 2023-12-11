@@ -23,7 +23,7 @@ topics:
   - analytics
   - cfpb
   - consumer-financial-protection-bureau
-  - dap
+  - analytics
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors

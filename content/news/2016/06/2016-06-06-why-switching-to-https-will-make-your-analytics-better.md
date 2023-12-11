@@ -9,7 +9,7 @@ topics:
   - product-management
   - metrics
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
   - google-analytics
   - https

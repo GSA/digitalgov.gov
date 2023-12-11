@@ -11,7 +11,7 @@ topics:
   - our-work
   - analytics
   - customer-satisfaction
-  - dap
+  - analytics
   - digital-analytics-program
 ---
 

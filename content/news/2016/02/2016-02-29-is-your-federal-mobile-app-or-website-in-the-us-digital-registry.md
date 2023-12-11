@@ -9,7 +9,7 @@ topics:
   - mobile
   - social-media
   - api
-  - dap
+  - analytics
   - digital-analytics-program
   - mobile-apps
   - mobile-friendly

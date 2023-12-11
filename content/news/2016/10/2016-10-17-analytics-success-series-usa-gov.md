@@ -9,7 +9,7 @@ topics:
   - metrics
   - our-work
   - analytics
-  - dap
+  - analytics
   - data
   - digital-analytics-program
   - gsa

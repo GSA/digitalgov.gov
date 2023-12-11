@@ -22,7 +22,7 @@ topics:
   - metrics
   - user-experience
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors

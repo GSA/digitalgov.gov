@@ -10,7 +10,7 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - dap
+  - analytics
   - digital-analytics-program
   - budgeting-and-performance
   - fedramp

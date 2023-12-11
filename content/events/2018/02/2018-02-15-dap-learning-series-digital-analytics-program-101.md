@@ -20,7 +20,7 @@ end_date: 2018-02-15 16:00:00 -0500
 topics: 
   - metrics
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
 
 # see all authors at https://digital.gov/authors

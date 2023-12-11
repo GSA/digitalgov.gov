@@ -12,7 +12,7 @@ topics:
   - analytics-usa-gov
   - api
   - cloud
-  - dap
+  - analytics
   - data
   - digital-analytics-program
   - DOI

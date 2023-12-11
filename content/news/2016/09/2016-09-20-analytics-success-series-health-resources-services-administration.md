@@ -14,7 +14,7 @@ topics:
   - analytics
   - content
   - content-strategy
-  - dap
+  - analytics
   - data
   - digital-analytics-program
   - HHS

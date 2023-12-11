@@ -9,7 +9,7 @@ authors:
 topics:
   - product-management
   - cloud
-  - dap
+  - analytics
   - digital-analytics-program
   - fedramp
   - gsa

@@ -12,7 +12,7 @@ topics:
   - our-work
   - user-testing-and-research
   - analytics
-  - dap
+  - analytics
   - digital-analytics-program
   - metrics
   - OPM

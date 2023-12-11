@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - dap
+  - analytics
   - digital-analytics-program
   - Federal CrowdSource Mobile Testing Program
   - mobile
