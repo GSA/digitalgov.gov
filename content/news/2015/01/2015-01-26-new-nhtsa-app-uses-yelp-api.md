@@ -10,7 +10,6 @@ topics:
   - mobile
   - social-media
   - mobile-apps
-  - NHTSA
   - terms-of-service
   - tos
   - us-department-of-state
