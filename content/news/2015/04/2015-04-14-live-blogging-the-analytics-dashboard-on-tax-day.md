@@ -9,7 +9,6 @@ topics:
   - metrics
   - our-work
   - analytics
-  - analytics
 ---
 
 ## 2 a.m. EDT, April 16

@@ -14,7 +14,6 @@ topics:
   - cloud
   - analytics
   - data
-  - analytics
   - DOI
   - Education
   - FEC

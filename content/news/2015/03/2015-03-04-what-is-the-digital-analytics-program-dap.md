@@ -11,8 +11,6 @@ topics:
   - our-work
   - analytics
   - customer-satisfaction
-  - analytics
-  - analytics
 ---
 
 {{< legacy-img src="2015/03/352-x-250-DAP-Realtime-Users.jpg" alt="An example of the real-time reporting in DAP's Web analytics tool where a count of visitors reads 181,221." >}}

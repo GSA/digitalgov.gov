@@ -17,7 +17,6 @@ topics:
   - blockchain
   - analytics
   - data
-  - analytics
   - gsa
   - lean
   - the-data-briefing

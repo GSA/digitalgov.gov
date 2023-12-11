@@ -22,7 +22,6 @@ topics:
   - analytics
   - contact-centers
   - content-strategy
-  - analytics
   - data
   - metrics
   - multilingual

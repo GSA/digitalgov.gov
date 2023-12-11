@@ -8,8 +8,6 @@ authors:
 topics:
   - metrics
   - monthly-theme
-  - analytics
-  - analytics
   - data
   - analytics
 ---

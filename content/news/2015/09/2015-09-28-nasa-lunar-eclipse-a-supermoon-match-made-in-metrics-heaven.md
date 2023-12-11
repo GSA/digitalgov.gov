@@ -12,7 +12,6 @@ topics:
   - metrics
   - monthly-theme
   - analytics
-  - analytics
   - nasa
   - social-media-metrics
 

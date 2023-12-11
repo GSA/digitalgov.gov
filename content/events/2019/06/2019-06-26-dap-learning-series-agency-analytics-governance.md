@@ -16,8 +16,6 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-agency-analyt
 topics:
   - metrics
   - analytics
-  - analytics
-  - analytics
   - governance
 
 ---

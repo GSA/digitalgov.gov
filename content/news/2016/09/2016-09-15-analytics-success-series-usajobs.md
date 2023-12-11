@@ -12,8 +12,6 @@ topics:
   - our-work
   - user-testing-and-research
   - analytics
-  - analytics
-  - analytics
   - metrics
   - OPM
   - united-states-office-of-personnel-management

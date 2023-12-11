@@ -9,8 +9,6 @@ topics:
   - data
   - metrics
   - our-work
-  - analytics
-  - analytics
   - data
   - analytics
   - Federal Trade Commission

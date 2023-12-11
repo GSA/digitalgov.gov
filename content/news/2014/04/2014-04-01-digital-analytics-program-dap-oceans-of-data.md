@@ -9,7 +9,6 @@ topics:
   - data
   - metrics
   - analytics
-  - analytics
   - mobile
   - nasa
   - NPS

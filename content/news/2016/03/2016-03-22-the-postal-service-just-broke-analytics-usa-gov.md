@@ -9,7 +9,6 @@ topics:
   - data
   - monthly-theme
   - analytics
-  - analytics
   - United States Postal Service
   - USPS
 ---

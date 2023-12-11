@@ -23,7 +23,6 @@ topics:
   - analytics
   - analytics-usa-gov
   - customer-service
-  - analytics
   - usa-gov
 
 # see all authors at https://digital.gov/authors

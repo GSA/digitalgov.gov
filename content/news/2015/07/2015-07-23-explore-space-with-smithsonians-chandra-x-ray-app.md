@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - analytics
-  - analytics
   - ios
   - mobile-apps
   - nasa

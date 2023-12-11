@@ -29,8 +29,6 @@ topics:
   - multilingual
   - plain-language
   - product-management
-  - analytics
-  - analytics
 
 # see all authors at https://digital.gov/authors 
 authors:

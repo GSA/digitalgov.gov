@@ -16,7 +16,6 @@ topics:
   - 18f
   - analytics
   - data
-  - analytics
   - metrics
 ---
 

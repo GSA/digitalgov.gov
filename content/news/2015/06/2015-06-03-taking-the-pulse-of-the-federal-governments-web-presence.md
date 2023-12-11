@@ -13,7 +13,6 @@ topics:
   - our-work
   - 18f
   - analytics
-  - analytics
   - gsa
   - https
 ---

@@ -8,9 +8,6 @@ authors:
 topics:
   - metrics
   - analytics
-  - analytics
-  - analytics
-  - analytics
   - metrics
   - recaps
   - webinar

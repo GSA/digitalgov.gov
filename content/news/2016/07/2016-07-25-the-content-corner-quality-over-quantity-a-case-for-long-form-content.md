@@ -13,8 +13,6 @@ topics:
   - analytics
   - analytics-usa-gov
   - content
-  - analytics
-  - analytics
   - mobile
   - social-media
   - social-media-metrics

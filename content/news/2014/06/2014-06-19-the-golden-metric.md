@@ -11,7 +11,6 @@ topics:
   - big-data
   - analytics
   - data-gov
-  - analytics
   - nasa
   - usagov
 ---

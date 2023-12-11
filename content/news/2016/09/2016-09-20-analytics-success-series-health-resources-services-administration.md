@@ -14,9 +14,7 @@ topics:
   - analytics
   - content
   - content-strategy
-  - analytics
   - data
-  - analytics
   - HHS
   - HRSA
   - metrics

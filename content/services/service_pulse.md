@@ -13,7 +13,6 @@ topics:
   - product-management
   - security
   - analytics
-  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - marina-fox

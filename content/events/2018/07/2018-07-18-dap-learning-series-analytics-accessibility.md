@@ -21,8 +21,6 @@ topics:
   - accessibility
   - metrics
   - analytics
-  - analytics
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

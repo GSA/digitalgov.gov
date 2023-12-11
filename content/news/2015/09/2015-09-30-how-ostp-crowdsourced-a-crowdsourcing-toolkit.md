@@ -14,7 +14,6 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - analytics
-  - analytics
   - search
   - FCPCCS
   - open-opportunities-program

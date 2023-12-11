@@ -12,8 +12,6 @@ topics:
   - mobile
   - analytics
   - best-practices
-  - analytics
-  - analytics
 
 ---
 

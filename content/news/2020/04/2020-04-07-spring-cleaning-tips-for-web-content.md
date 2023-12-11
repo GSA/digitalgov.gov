@@ -18,8 +18,6 @@ topics:
   - plain-language
   - 508
   - analytics
-  - analytics
-  - analytics
   - section-508
   - seo
   - this-weeks-idea

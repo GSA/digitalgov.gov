@@ -9,8 +9,6 @@ topics:
   - metrics
   - social-media
   - analytics
-  - analytics
-  - analytics
   - social-media
   - social-media-metrics
 ---

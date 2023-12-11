@@ -26,8 +26,6 @@ topics:
   - metrics
   - user-experience
   - analytics
-  - analytics
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors:

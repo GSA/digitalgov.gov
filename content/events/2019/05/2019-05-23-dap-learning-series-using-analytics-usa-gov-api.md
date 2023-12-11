@@ -22,8 +22,6 @@ topics:
   - metrics
   - analytics
   - analytics-usa-gov
-  - analytics
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

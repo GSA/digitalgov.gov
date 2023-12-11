@@ -13,8 +13,6 @@ topics:
   - monthly-theme
   - our-work
   - analytics
-  - analytics
-  - analytics
 
 ---
 

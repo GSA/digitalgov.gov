@@ -9,9 +9,6 @@ topics:
   - product-management
   - metrics
   - analytics
-  - analytics
-  - analytics
-  - analytics
   - https
   - metrics
 ---

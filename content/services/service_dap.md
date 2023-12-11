@@ -33,6 +33,4 @@ topics:
   - product-management
   - analytics
   - analytics-usa-gov
-  - analytics
-  - analytics
 ---

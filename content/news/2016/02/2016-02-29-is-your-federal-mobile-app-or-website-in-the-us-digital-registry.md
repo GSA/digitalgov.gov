@@ -10,7 +10,6 @@ topics:
   - social-media
   - api
   - analytics
-  - analytics
   - mobile-apps
   - mobile-friendly
   - mobile-gov

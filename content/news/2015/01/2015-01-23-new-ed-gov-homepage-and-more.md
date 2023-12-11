@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - analytics
-  - analytics
   - responsive-web-design
   - us-department-of-education
 ---

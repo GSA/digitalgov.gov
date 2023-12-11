@@ -9,8 +9,6 @@ topics:
   - data
   - metrics
   - analytics
-  - analytics
-  - analytics
   - nasa
 ---
 

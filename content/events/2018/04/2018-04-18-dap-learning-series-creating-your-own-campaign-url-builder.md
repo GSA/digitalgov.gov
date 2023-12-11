@@ -20,7 +20,6 @@ end_date: 2018-04-18 16:00:00 -0500
 topics: 
   - data
   - analytics
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -9,7 +9,6 @@ topics:
   - metrics
   - social-media
   - analytics
-  - analytics
   - GAO
   - us-government-accountability-office
 ---

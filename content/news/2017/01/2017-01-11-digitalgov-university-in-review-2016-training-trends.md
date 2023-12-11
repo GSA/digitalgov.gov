@@ -35,8 +35,6 @@ topics:
   - cloud-gov
   - content
   - customer-experience
-  - analytics
-  - analytics
   - metrics
   - mobile
   - open-data

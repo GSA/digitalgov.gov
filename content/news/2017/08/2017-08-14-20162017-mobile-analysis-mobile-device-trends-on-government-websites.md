@@ -9,7 +9,6 @@ topics:
   - metrics
   - mobile
   - analytics
-  - analytics
   - metrics
   - mobile
 

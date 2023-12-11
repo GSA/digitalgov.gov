@@ -9,7 +9,6 @@ topics:
   - metrics
   - our-work
   - analytics
-  - analytics
   - mobile
   - nasa
 

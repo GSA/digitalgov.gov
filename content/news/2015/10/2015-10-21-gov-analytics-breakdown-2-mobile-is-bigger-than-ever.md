@@ -13,9 +13,7 @@ topics:
   - mobile
   - analytics
   - customer-experience
-  - analytics
   - data
-  - analytics
   - mobile
   - user-experience
 

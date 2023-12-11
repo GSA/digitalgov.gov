@@ -8,8 +8,6 @@ authors:
 topics:
   - metrics
   - our-work
-  - analytics
-  - analytics
   - data
   - analytics
   - gsa

@@ -13,8 +13,6 @@ topics:
   - metrics
   - data
   - performance
-  - analytics
-  - analytics
   - project-management
   - analytics
 # Controls how this page appears across the site

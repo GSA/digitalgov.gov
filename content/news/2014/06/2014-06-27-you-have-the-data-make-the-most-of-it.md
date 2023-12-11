@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - analytics
-  - analytics
   - GAO
 ---
 

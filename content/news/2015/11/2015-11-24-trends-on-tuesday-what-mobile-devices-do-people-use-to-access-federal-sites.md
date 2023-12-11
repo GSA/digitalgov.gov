@@ -9,8 +9,6 @@ topics:
   - metrics
   - mobile
   - analytics
-  - analytics
-  - analytics
   - ios
   - trends-on-tuesday
 ---

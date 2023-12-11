@@ -16,8 +16,6 @@ topics:
   - 18f
   - analytics
   - analytics-usa-gov
-  - analytics
-  - analytics
 
 ---
 

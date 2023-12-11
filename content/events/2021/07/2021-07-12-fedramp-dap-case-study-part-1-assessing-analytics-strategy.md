@@ -15,7 +15,6 @@ end_date: 2021-07-28 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-  - analytics
   - usability-case-study
   - metrics
   - strategy

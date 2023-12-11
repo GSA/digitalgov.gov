@@ -8,8 +8,6 @@ authors:
 topics:
   - metrics
   - analytics
-  - analytics
-  - analytics
   - metrics
 ---
 
