@@ -10,7 +10,7 @@ topics:
   
   - mobile-apps
   - mobile-gov
-  - nasa
+  
   - nih
   - thursday-mobile-products
   - TSA

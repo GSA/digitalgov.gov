@@ -11,7 +11,7 @@ topics:
   - digital-analytics-program
   - ios
   - mobile-apps
-  - nasa
+  
   - smithsonian-institution
   - thursday-mobile-products
 ---

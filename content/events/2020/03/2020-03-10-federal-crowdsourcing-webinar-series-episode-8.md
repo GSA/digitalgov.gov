@@ -21,7 +21,7 @@ topics:
   - challenges
   - crowdsourcing
   - innovation
-  - nasa
+  
 
 # see all authors at https://digital.gov/authors
 authors: 

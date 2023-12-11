@@ -13,7 +13,7 @@ topics:
   
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5
-  - nasa
+  
   - national-institutes-of-health
   - nih
   - responsive-web-design

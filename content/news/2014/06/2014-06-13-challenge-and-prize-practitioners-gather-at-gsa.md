@@ -13,7 +13,7 @@ topics:
   - crowdsourcing
   
   - innovation
-  - nasa
+  
   - National Eye Institute
   - national-science-foundation
   - nsf

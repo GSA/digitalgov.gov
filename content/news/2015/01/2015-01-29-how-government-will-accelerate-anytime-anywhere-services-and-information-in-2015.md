@@ -22,7 +22,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - mobile-first
-  - nasa
+  
   - open-and-structured-content-models
   - trends-on-tuesday
   - united-states-census-bureau

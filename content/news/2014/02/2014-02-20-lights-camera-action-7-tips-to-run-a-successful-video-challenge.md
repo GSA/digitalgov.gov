@@ -10,7 +10,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - innovation
-  - nasa
+  
   - recaps
   - social-media
 

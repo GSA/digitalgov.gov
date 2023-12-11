@@ -12,7 +12,7 @@ topics:
   
   
   
-  - nasa
+  
   - national-day-of-civic-hacking
   - national-institutes-of-health
   - national-oceanic-and-atmospheric-administration

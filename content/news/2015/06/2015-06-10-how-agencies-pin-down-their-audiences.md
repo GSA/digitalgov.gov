@@ -12,7 +12,7 @@ topics:
   
   - content-strategy
   - gsa
-  - nasa
+  
   - national-institutes-of-health
   - nih
   - social-media

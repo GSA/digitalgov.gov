@@ -12,7 +12,7 @@ topics:
   - customer-experience
   
   - innovation
-  - nasa
+  
   - united-states-department-of-energy
   - user-experience
 ---

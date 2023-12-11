@@ -14,7 +14,7 @@ topics:
   - data-gov
   - digital-analytics-program
   - innovation
-  - nasa
+  
   - open-data
   - transportation-security-administration
   - TSA

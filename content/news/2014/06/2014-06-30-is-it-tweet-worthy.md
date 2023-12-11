@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - social-media
   
-  - nasa
+  
   - peace-corps
   - plain-language
   - socialgov-community

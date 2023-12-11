@@ -7,7 +7,7 @@ authors:
   - danielle-brigida
 topics:
   - content
-  - nasa
+  
   - us-department-of-the-interior
   - us-fish-and-wildlife-service
   - white-house

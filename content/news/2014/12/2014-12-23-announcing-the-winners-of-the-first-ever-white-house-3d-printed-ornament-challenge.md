@@ -9,7 +9,7 @@ authors:
 topics:
   - challenges
   - monthly-theme
-  - nasa
+  
   - national-institutes-of-health
   - nih
   - smithsonian-institution

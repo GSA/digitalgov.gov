@@ -11,7 +11,7 @@ topics:
   - content
   - data
   
-  - nasa
+  
   - National Aeronautics and Space Administration
   - national-institutes-of-health
   - National Library of Medicine

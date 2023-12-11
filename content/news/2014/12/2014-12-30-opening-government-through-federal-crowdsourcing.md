@@ -17,7 +17,7 @@ topics:
   - crowdsourcing
   - FCPCCS
   
-  - nasa
+  
   - national-archives-and-records-administration
   - OSTP
   - white-house-office-of-science-and-technology-policy

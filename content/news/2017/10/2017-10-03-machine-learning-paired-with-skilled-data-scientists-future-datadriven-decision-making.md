@@ -12,7 +12,7 @@ topics:
   - data
   - emerging-tech
   
-  - nasa
+  
   - national-aeronautics-and-space-administration
   - trends-on-tuesday
   - united-states-department-of-health-and-human-services

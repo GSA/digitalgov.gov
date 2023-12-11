@@ -9,7 +9,7 @@ topics:
   - challenges
   - challenge-gov
   
-  - nasa
+  
   - national-institute-of-standards-and-technology
   - NIST
   - prizes-and-competitions

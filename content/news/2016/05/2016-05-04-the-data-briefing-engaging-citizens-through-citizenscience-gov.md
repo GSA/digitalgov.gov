@@ -11,7 +11,7 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   
-  - nasa
+  
   - NPS
   - the-data-briefing
   - US Department of Agriculture

@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - data
   - data-visualization
-  - nasa
+  
   - research
 ---
 

@@ -10,7 +10,7 @@ topics:
   - gsa
   
   
-  - nasa
+  
   - National Defense University
   - national-institutes-of-health
   - National Library of Medicine

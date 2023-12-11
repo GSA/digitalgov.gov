@@ -23,7 +23,7 @@ topics:
   - gsa
   
   - innovation
-  - nasa
+  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - prizes-and-competitions

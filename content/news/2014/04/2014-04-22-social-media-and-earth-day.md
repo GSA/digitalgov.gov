@@ -12,7 +12,7 @@ topics:
   - social-media
   
   - gsa
-  - nasa
+  
   - national-institutes-of-health
   - National Zoological Park
   - nih

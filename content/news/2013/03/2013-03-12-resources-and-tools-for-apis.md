@@ -12,7 +12,7 @@ topics:
   
   - gsa
   
-  - nasa
+  
   - SBA
   - us-department-of-labor
 ---

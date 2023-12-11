@@ -13,7 +13,7 @@ topics:
   
   
   - innovation
-  - nasa
+  
   - SBA
   - sitesusagov
   - us-small-business-administration

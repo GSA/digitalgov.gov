@@ -12,7 +12,7 @@ topics:
   - dap
   - data-gov
   - digital-analytics-program
-  - nasa
+  
   - usagov
 ---
 

@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - nasa
+  
   - thursday-mobile-products
 ---
 

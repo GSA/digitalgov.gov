@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - api
-  - nasa
+  
   - wednesday-api-briefing
 ---
 

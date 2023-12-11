@@ -10,7 +10,7 @@ topics:
   - gsa
   
   - mobile-gov
-  - nasa
+  
   - socialgov
 ---
 

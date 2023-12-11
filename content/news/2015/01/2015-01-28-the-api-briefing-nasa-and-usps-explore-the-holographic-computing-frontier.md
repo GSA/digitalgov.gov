@@ -9,7 +9,7 @@ topics:
   - api
   - augmented-reality
   - mobile-apps
-  - nasa
+  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - US Department of Agriculture

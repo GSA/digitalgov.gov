@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - content-strategy
-  - nasa
+  
   - the-content-corner
   - social-media
 ---

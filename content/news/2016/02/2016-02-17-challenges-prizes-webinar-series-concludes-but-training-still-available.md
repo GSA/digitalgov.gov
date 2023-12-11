@@ -11,7 +11,7 @@ topics:
   
   
   
-  - nasa
+  
   - recaps
   - us-agency-for-international-development
   - united-states-department-of-energy

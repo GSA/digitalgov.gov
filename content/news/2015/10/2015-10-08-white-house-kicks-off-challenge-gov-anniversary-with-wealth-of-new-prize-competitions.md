@@ -12,7 +12,7 @@ topics:
   - challenges-and-prize-competitions
   
   
-  - nasa
+  
   - NPS
   - OSTP
   - us-department-of-education

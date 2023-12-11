@@ -14,7 +14,7 @@ topics:
   - challenges-and-prize-competitions
   
   
-  - nasa
+  
   - open-government
 ---
 

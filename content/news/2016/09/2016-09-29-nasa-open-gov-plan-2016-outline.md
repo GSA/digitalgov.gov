@@ -23,7 +23,7 @@ topics:
   - data
   - innovation
   - mobile-apps
-  - nasa
+  
   - open
   - open-data
   - open-government

@@ -11,7 +11,7 @@ topics:
   - api
   - data
   
-  - nasa
+  
   - open-data
   - the-data-briefing
   - united-states-department-of-health-and-human-services

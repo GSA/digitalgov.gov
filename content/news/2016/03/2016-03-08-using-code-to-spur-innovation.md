@@ -9,7 +9,7 @@ topics:
   - code
   - monthly-theme
   - data
-  - nasa
+  
   - open-data
   - us-department-of-education
   - us-department-of-labor

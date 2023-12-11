@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - mobile-apps
-  - nasa
+  
   - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO

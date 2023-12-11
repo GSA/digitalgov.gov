@@ -14,7 +14,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   
   - crowdsourcing
-  - nasa
+  
   - open-source
   - OSTP
   - recaps
