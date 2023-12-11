@@ -7,9 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
-  
-  - national-archives-and-records-administration
   - social-media
   - the-content-corner
   - UGC

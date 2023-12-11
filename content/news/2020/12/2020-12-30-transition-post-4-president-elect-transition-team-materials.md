@@ -16,8 +16,6 @@ summary: "**Transition Post 4: President-Elect Transition Team
 # See all topics at https://digital.gov/topics
 topics:
   - records-management
-  
-  - national-archives-and-records-administration
 slug: transition-post-4-president-elect-transition-team-materials
 # Controls how this page appears across the site
 # 0 -- hidden

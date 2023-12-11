@@ -18,8 +18,6 @@ topics:
   - video
   - audio-video
   - records-management
-  
-  - national-archives-and-records-administration
   - open-source
   - white-house
 ---

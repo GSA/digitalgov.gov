@@ -10,8 +10,6 @@ topics:
   - code
   - api
   - code
-  
-  - national-archives-and-records-administration
   - OPM
   - united-states-office-of-personnel-management
   - wednesday-api-briefing

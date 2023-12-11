@@ -7,10 +7,6 @@ authors:
   - judith-snyderman
 topics:
   - social-media
-  
-  
-  
-  - national-archives-and-records-administration
   - us-department-of-state
   - united-states-department-of-defense
 

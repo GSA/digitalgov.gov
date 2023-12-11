@@ -16,9 +16,6 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - FCPCCS
-  
-  
-  - national-archives-and-records-administration
   - OSTP
   - white-house-office-of-science-and-technology-policy
 ---

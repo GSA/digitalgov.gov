@@ -12,8 +12,6 @@ topics:
   - product-management
   - social-media
   - content
-  
-  - national-archives-and-records-administration
   - smithsonian-institution
   - social-media
   - terms-of-service

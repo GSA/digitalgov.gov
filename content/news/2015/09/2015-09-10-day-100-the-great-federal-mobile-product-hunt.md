@@ -7,10 +7,7 @@ authors:
   - courtney-greenley
 topics:
   - mobile
-  
   - mobile-apps
-  
-  - national-archives-and-records-administration
   - national-institutes-of-health
   - nih
   - thursday-mobile-products

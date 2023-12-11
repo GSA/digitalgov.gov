@@ -8,9 +8,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - mobile
-  
-  - national-archives-and-records-administration
   - native-apps
   - smithsonian-institution
   - thursday-mobile-products
