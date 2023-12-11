@@ -8,9 +8,6 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  
-  
-  - national-institute-of-standards-and-technology
   - NIST
   - prizes-and-competitions
   - us-agency-for-international-development

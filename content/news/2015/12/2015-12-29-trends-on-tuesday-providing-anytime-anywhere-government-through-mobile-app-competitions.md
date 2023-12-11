@@ -12,9 +12,7 @@ topics:
   - apps-challenges
   - challenges-and-prize-competitions
   - data
-  
   - mobile-apps
-  - national-institute-of-standards-and-technology
   - National Institute on Drug Abuse
   - NIST
   - trends-on-tuesday

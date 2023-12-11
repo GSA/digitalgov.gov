@@ -9,8 +9,6 @@ topics:
   - data
   - apps-challenges
   - data
-  
-  - national-institute-of-standards-and-technology
   - NIST
   - open-data
   - open-source
