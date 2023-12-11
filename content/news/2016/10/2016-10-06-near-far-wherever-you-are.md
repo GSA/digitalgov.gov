@@ -12,7 +12,6 @@ topics:
   - acquisition
   - cloud
   - content-strategy
-  - FAR
   - FAS
   - Federal Acquisition Service
   - gsa

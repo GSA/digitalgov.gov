@@ -12,7 +12,7 @@ summary: This subpart implements section 508 of the Rehabilitation Act of 1973
 topics:
   - accessibility
   - section-508
-  - far
+  - acquisition
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
