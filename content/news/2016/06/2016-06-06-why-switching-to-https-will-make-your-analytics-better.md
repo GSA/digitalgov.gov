@@ -11,7 +11,7 @@ topics:
   - analytics
   - analytics
   - analytics
-  - google-analytics
+  - analytics
   - https
   - metrics
 ---

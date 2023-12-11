@@ -20,7 +20,7 @@ end_date: 2018-06-07 15:00:00 -0500
 topics: 
   - analytics
   - analytics
-  - google-analytics
+  - analytics
   - metrics
   - analytics
 

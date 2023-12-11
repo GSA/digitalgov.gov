@@ -10,7 +10,7 @@ topics:
   - social-media
   - analytics
   - analytics
-  - google-analytics
+  - analytics
   - social-media
   - social-media-metrics
 ---

@@ -10,7 +10,7 @@ topics:
   - analytics
   - analytics
   - analytics
-  - google-analytics
+  - analytics
   - metrics
   - recaps
   - webinar

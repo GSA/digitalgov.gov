@@ -9,7 +9,7 @@ topics:
   - metrics
   - our-work
   - analytics
-  - google-analytics
+  - analytics
 ---
 
 [{{< legacy-img src="2014/08/250-x-151-DAP-2.jpg" alt="DAP screen capture" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/DAP-2.jpg)The <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program (DAP)</a> is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation.

@@ -14,7 +14,7 @@ topics:
   - Consumer Financial Protection Bureau
   - data
   - data-visualization
-  - google-analytics
+  - analytics
 ---
 
 One large issue my team has run into when analyzing and reporting data across different states is knowing whether sessions within an area are higher due to more interest, or a larger population. Time after time, we see the states with the largest populations show up with the largest amount of traffic, like the graph below.
