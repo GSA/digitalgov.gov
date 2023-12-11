@@ -11,7 +11,7 @@ topics:
   - customer-satisfaction
   - customer-service
   - analytics
-  - digital-analytics-program
+  - analytics
   - budgeting-and-performance
   - fedramp
   - tos

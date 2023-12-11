@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - analytics
-  - digital-analytics-program
+  - analytics
   - responsive-web-design
   - us-department-of-education
 ---

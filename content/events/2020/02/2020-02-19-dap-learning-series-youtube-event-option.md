@@ -26,7 +26,7 @@ topics:
   - user-experience
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors:

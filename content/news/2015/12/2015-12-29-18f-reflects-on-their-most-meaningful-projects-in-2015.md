@@ -14,7 +14,7 @@ topics:
   - cloud
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - DOI
   - Education
   - FEC

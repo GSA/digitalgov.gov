@@ -23,7 +23,7 @@ topics:
   - ai
   - analytics
   - artificial-intelligence
-  - digital-analytics-program
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors:

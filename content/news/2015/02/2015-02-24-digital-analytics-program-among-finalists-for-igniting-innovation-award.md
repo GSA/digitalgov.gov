@@ -12,7 +12,7 @@ topics:
   - analytics
   - customer-experience
   - data-gov
-  - digital-analytics-program
+  - analytics
   - innovation
   - nasa
   - open-data

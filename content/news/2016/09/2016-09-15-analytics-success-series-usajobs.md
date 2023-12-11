@@ -13,7 +13,7 @@ topics:
   - user-testing-and-research
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
   - metrics
   - OPM
   - united-states-office-of-personnel-management

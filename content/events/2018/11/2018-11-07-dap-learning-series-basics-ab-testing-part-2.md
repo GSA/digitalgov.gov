@@ -24,7 +24,7 @@ topics:
   - cfpb
   - consumer-financial-protection-bureau
   - analytics
-  - digital-analytics-program
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

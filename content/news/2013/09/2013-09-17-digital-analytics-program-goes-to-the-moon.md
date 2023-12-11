@@ -9,7 +9,7 @@ topics:
   - metrics
   - our-work
   - analytics
-  - digital-analytics-program
+  - analytics
   - mobile
   - nasa
 

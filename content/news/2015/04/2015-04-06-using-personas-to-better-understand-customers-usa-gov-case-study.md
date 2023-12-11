@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - analytics
   - customer-service
-  - digital-analytics-program
+  - analytics
   - search
   - GobiernoUSAgov
   - personas

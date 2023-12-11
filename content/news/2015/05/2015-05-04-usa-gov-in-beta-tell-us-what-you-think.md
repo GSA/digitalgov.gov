@@ -10,7 +10,7 @@ topics:
   - product-management
   - api
   - analytics
-  - digital-analytics-program
+  - analytics
   - drupal
   - GobiernoUSAgov
   - government-contact-centers

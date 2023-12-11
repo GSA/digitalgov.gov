@@ -11,7 +11,7 @@ topics:
   - analytics
   - big-data
   - data
-  - digital-analytics-program
+  - analytics
 ---
 
 The [Digital Analytics Program (DAP)]({{< ref "/guides/dap/_index.md" >}}) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own custom reports and segments is the way to go.

@@ -15,7 +15,7 @@ topics:
   - customer-experience
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - mobile
   - user-experience
 

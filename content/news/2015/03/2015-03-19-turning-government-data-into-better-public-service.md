@@ -14,7 +14,7 @@ topics:
   - our-work
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
 
 ---
 

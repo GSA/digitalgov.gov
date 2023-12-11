@@ -12,7 +12,7 @@ topics:
   - analytics
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - Federal Trade Commission
   - FTC
   - metrics

@@ -8,7 +8,7 @@ authors:
 topics:
   - metrics
   - analytics
-  - digital-analytics-program
+  - analytics
   - https
 ---
 

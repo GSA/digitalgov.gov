@@ -19,7 +19,7 @@ end_date: 2018-05-23 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - analytics
-  - digital-analytics-program
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

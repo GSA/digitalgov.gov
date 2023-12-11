@@ -21,7 +21,7 @@ topics:
   - analytics
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - metrics
 
 # see all authors at https://digital.gov/authors

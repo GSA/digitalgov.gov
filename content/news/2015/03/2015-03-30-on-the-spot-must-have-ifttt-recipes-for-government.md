@@ -11,7 +11,7 @@ topics:
   - social-media
   - 18f
   - api
-  - digital-analytics-program
+  - analytics
   - social-media
   - socialgov
 ---

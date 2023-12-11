@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - analytics
-  - digital-analytics-program
+  - analytics
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile-gov-community-of-practice

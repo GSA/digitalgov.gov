@@ -10,7 +10,7 @@ topics:
   - mobile
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
   - ios
   - trends-on-tuesday
 ---

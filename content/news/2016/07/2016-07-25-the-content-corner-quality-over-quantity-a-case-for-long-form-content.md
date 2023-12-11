@@ -14,7 +14,7 @@ topics:
   - analytics-usa-gov
   - content
   - analytics
-  - digital-analytics-program
+  - analytics
   - mobile
   - social-media
   - social-media-metrics

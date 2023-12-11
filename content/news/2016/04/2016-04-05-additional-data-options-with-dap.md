@@ -15,7 +15,7 @@ topics:
   - code
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - metrics
 ---
 

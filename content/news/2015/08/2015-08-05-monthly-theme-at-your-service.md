@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - our-work
-  - digital-analytics-program
+  - analytics
   - search
   - Federal CrowdSource Mobile Testing Program
 ---

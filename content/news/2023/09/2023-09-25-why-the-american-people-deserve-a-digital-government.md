@@ -27,7 +27,7 @@ topics:
   - plain-language
   - social-media
   - communication
-  - digital-analytics-program
+  - analytics
   - analytics
   - metrics
   - privacy

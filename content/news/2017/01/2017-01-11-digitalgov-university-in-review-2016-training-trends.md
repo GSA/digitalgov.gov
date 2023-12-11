@@ -36,7 +36,7 @@ topics:
   - content
   - customer-experience
   - analytics
-  - digital-analytics-program
+  - analytics
   - metrics
   - mobile
   - open-data

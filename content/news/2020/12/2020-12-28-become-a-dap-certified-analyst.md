@@ -19,7 +19,7 @@ summary: "**Become a DAP Certified Analyst**&mdash;The Digital Analytics Program
 topics:
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden

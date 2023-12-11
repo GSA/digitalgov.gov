@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - monthly-theme
-  - digital-analytics-program
+  - analytics
   - open-opportunities-program
   - social-media
   - web-content-managers-forum

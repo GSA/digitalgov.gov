@@ -14,7 +14,7 @@ topics:
   - api
   - Census
   - department-of-commerce
-  - digital-analytics-program
+  - analytics
   - HHS
   - USDA
 ---

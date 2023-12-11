@@ -16,7 +16,7 @@ topics:
   - 18f
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - metrics
 ---
 

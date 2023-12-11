@@ -13,7 +13,7 @@ topics:
   - our-work
   - 18f
   - analytics
-  - digital-analytics-program
+  - analytics
   - gsa
   - https
 ---

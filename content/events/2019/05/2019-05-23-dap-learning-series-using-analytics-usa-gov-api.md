@@ -23,7 +23,7 @@ topics:
   - analytics
   - analytics-usa-gov
   - analytics
-  - digital-analytics-program
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

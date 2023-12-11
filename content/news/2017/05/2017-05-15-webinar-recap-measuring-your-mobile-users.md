@@ -13,7 +13,7 @@ topics:
   - analytics
   - best-practices
   - analytics
-  - digital-analytics-program
+  - analytics
 
 ---
 

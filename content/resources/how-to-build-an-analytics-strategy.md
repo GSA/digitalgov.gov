@@ -16,7 +16,7 @@ topics:
   - analytics
   - analytics
   - project-management
-  - digital-analytics-program
+  - analytics
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

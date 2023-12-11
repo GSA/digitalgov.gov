@@ -16,7 +16,7 @@ topics:
   - content-strategy
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - HHS
   - HRSA
   - metrics

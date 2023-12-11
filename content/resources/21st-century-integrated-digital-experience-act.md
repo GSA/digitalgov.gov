@@ -30,7 +30,7 @@ topics:
   - plain-language
   - product-management
   - analytics
-  - digital-analytics-program
+  - analytics
 
 # see all authors at https://digital.gov/authors 
 authors:

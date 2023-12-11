@@ -19,7 +19,7 @@ topics:
   - 508
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
   - section-508
   - seo
   - this-weeks-idea

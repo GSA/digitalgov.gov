@@ -14,7 +14,7 @@ topics:
   - user-experience
   - analytics
   - browsers
-  - digital-analytics-program
+  - analytics
 
 ---
 

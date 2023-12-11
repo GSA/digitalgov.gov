@@ -9,7 +9,7 @@ topics:
   - metrics
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
   - metrics
 ---
 

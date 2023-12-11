@@ -10,7 +10,7 @@ topics:
   - our-work
   - analytics
   - analytics
-  - digital-analytics-program
+  - analytics
   - podcast
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 

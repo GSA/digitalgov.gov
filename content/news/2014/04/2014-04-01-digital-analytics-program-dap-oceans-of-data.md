@@ -9,7 +9,7 @@ topics:
   - data
   - metrics
   - analytics
-  - digital-analytics-program
+  - analytics
   - mobile
   - nasa
   - NPS

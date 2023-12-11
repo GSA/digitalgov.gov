@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - analytics
-  - digital-analytics-program
+  - analytics
   - ios
   - mobile-apps
   - nasa

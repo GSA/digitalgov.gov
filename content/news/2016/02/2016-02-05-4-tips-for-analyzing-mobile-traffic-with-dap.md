@@ -10,7 +10,7 @@ topics:
   - mobile
   - our-work
   - analytics
-  - digital-analytics-program
+  - analytics
   - mobile-gov
   - mobile-gov-community-of-practice
 ---

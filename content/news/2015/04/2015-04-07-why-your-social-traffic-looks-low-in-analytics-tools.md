@@ -9,7 +9,7 @@ topics:
   - metrics
   - social-media
   - analytics
-  - digital-analytics-program
+  - analytics
   - google-analytics
   - social-media
   - social-media-metrics

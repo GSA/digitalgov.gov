@@ -34,5 +34,5 @@ topics:
   - analytics
   - analytics-usa-gov
   - analytics
-  - digital-analytics-program
+  - analytics
 ---

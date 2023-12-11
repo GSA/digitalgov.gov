@@ -11,7 +11,7 @@ topics:
   - analytics
   - analytics
   - data
-  - digital-analytics-program
+  - analytics
   - gsa
   - usability
   - usagov

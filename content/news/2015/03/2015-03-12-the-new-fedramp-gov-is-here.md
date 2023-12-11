@@ -10,7 +10,7 @@ topics:
   - product-management
   - cloud
   - analytics
-  - digital-analytics-program
+  - analytics
   - fedramp
   - gsa
   - responsive-web-design

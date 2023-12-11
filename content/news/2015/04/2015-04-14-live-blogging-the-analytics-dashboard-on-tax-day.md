@@ -9,7 +9,7 @@ topics:
   - metrics
   - our-work
   - analytics
-  - digital-analytics-program
+  - analytics
 ---
 
 ## 2 a.m. EDT, April 16

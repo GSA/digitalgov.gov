@@ -8,7 +8,7 @@ authors:
 topics:
   - metrics
   - our-work
-  - digital-analytics-program
+  - analytics
   - google-analytics
 ---
 
