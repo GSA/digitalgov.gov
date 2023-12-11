@@ -14,7 +14,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5
   
-  - national-institutes-of-health
+  
   - nih
   - responsive-web-design
   - US Department of Agriculture

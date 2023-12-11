@@ -9,7 +9,7 @@ authors:
 topics:
   - product-management
   - social-media
-  - national-institutes-of-health
+  
   - nih
 ---
 

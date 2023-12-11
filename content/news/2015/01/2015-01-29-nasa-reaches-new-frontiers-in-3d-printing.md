@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - challenges-and-prize-competitions
   
-  - national-institutes-of-health
+  
   - nih
   - small-business-innovation-research
 ---

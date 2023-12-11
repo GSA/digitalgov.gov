@@ -12,7 +12,7 @@ topics:
   - social-media
   - video
   - audio-video
-  - national-institutes-of-health
+  
   - NCCIH
   - nih
   - social-media

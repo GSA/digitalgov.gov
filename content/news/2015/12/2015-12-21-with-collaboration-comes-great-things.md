@@ -9,7 +9,7 @@ topics:
   - code
   - content-syndication
   
-  - national-institutes-of-health
+  
   - nih
   - open-and-structured-content-models
   - structured-content

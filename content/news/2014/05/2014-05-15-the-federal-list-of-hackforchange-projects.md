@@ -19,7 +19,7 @@ topics:
   
   
   - national-day-of-civic-hacking
-  - national-institutes-of-health
+  
   - national-science-foundation
   - nih
   - nsf

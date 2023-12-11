@@ -9,7 +9,7 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - national-institutes-of-health
+  
   - nih
 ---
 

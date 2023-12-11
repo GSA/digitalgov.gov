@@ -16,7 +16,7 @@ topics:
   - GitHub
   - gsa
   - metadata
-  - national-institutes-of-health
+  
   - nih
   - open-and-structured-content-models
   - recaps

@@ -11,7 +11,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   
-  - national-institutes-of-health
+  
   - nih
   - us-agency-for-international-development
   - us-food-and-drug-administration

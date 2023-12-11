@@ -15,7 +15,7 @@ topics:
   - content-management-system
   - content-models
   - COPE
-  - national-institutes-of-health
+  
   - nih
   - open-and-structured-content-models
   - sites

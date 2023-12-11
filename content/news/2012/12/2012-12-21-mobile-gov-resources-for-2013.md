@@ -15,7 +15,7 @@ topics:
   - mobile-gov
   - mobile-first
   - mobile-gov
-  - national-institutes-of-health
+  
   - nih
   - thursday-mobile-products
   - TSA

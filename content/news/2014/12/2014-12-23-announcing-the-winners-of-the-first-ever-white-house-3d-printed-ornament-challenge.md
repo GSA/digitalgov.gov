@@ -10,7 +10,7 @@ topics:
   - challenges
   - monthly-theme
   
-  - national-institutes-of-health
+  
   - nih
   - smithsonian-institution
 ---

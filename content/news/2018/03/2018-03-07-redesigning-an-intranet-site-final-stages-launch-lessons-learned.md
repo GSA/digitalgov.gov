@@ -16,7 +16,7 @@ topics:
   - content
   - content-strategy
   - customer-experience
-  - national-institutes-of-health
+  
   - nccih
   - nih
   - prototype

@@ -9,7 +9,7 @@ topics:
   - social-media
   
   
-  - national-institutes-of-health
+  
   - nih
   - recaps
   - social-media

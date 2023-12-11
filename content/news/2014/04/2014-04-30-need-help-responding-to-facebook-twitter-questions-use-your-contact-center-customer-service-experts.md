@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - aoi
   
-  - national-institutes-of-health
+  
   - NCI
   - nih
   - social-media

@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-5
   - multilingual
   - multilingual-community
-  - national-institutes-of-health
+  
   - nih
   - SSA
   - the-united-states-social-security-administration

@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   
-  - national-institutes-of-health
+  
   - nih
   - transportation-security-administration
   - TSA

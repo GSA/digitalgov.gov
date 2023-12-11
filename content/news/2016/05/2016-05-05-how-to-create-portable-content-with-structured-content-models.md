@@ -11,7 +11,7 @@ topics:
   
   - mobile-gov-community-of-practice
   - mobile-gov
-  - national-institutes-of-health
+  
   - nih
   - open-and-structured-content-models
   - recaps

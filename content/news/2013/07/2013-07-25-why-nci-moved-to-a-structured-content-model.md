@@ -9,7 +9,7 @@ topics:
   - content
   - content-management-system
   - metadata
-  - national-institutes-of-health
+  
   - NCI
   - nih
   - open-and-structured-content-models

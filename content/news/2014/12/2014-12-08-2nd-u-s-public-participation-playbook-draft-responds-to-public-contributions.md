@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - gsa
-  - national-institutes-of-health
+  
   - National Library of Medicine
   - nih
   - NLM

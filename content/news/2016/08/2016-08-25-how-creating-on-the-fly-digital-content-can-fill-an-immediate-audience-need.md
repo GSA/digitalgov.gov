@@ -12,7 +12,7 @@ topics:
   - policy
   - content
   - content-strategy
-  - national-institutes-of-health
+  
   - NCCIH
   - nih
 ---

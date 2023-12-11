@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - social-media
-  - national-institutes-of-health
+  
   - NCI
   - nih
   - US Department of Agriculture

@@ -13,7 +13,7 @@ topics:
   - content-strategy
   - gsa
   
-  - national-institutes-of-health
+  
   - nih
   - social-media
 ---
