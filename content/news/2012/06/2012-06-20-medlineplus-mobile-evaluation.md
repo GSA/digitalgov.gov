@@ -8,9 +8,7 @@ authors:
 topics:
   - metrics
   - mobile
-  
   - mobile-gov-experience
-  - National Library of Medicine
   - nih
 ---
 

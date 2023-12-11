@@ -12,7 +12,6 @@ topics:
   - social-media
   - video
   - search
-  - National Library of Medicine
   - NLM
   - recaps
   - socialgov-community

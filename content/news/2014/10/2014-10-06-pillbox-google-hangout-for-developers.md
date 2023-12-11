@@ -8,10 +8,6 @@ authors:
 topics:
   - api
   - data
-  
-  
-  
-  - National Library of Medicine
   - nih
   - NLM
   - open-source

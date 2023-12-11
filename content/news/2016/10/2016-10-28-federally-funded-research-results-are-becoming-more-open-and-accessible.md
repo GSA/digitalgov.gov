@@ -10,8 +10,6 @@ topics:
   - product-management
   - content
   - data
-  
-  - National Library of Medicine
   - national-oceanic-and-atmospheric-administration
   - national-science-foundation
   - nih

@@ -9,7 +9,6 @@ topics:
   - content
   - social-media
   - search
-  - National Library of Medicine
   - social-media
   - transportation-security-administration
   - TSA

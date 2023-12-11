@@ -9,7 +9,6 @@ topics:
   - communities
   - social-media
   - aoi
-  - National Library of Medicine
   - national-oceanic-and-atmospheric-administration
   - NLM
   - NOAA

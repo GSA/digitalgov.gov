@@ -10,8 +10,6 @@ topics:
   - monthly-theme
   - 18f
   - api
-  
-  - National Library of Medicine
   - NIAID
   - nih
   - NLM

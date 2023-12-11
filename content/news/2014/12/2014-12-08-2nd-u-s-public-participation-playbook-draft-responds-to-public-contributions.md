@@ -8,8 +8,6 @@ authors:
 topics:
   - social-media
   - gsa
-  
-  - National Library of Medicine
   - nih
   - NLM
   - NPS
