@@ -12,7 +12,6 @@ topics:
   - policy
   - content
   - content-strategy
-  - National Center for Complementary and Integrative Health
   - national-institutes-of-health
   - NCCIH
   - nih
