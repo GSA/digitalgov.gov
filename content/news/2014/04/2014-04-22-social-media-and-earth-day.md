@@ -10,11 +10,7 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  
   - gsa
-  
-  
-  - National Zoological Park
   - nih
   - NOAA
   - nsf
