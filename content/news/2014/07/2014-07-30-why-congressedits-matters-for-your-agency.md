@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - social-media
   
-  - NARA
+  
   - national-archives-and-records-administration
   - open-government
   - united-states-department-of-health-and-human-services

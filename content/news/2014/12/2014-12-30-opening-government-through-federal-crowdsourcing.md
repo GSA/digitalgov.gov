@@ -16,7 +16,7 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - FCPCCS
-  - NARA
+  
   - nasa
   - national-archives-and-records-administration
   - OSTP

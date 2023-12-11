@@ -9,7 +9,7 @@ topics:
   - content
   - social-media
   
-  - NARA
+  
   - national-archives-and-records-administration
   - united-states-department-of-defense
 ---

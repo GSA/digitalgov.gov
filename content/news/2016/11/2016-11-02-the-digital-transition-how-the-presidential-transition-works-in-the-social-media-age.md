@@ -18,7 +18,7 @@ topics:
   - video
   - audio-video
   - records-management
-  - NARA
+  
   - national-archives-and-records-administration
   - open-source
   - white-house

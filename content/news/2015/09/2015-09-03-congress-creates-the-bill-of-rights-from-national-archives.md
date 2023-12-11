@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - NARA
+  
   - national-archives-and-records-administration
   - thursday-mobile-products
  

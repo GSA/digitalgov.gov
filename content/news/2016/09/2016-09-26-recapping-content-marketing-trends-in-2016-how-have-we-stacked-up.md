@@ -17,7 +17,7 @@ topics:
   - mobile-first
   - mobile-friendly
   - multilingual
-  - NARA
+  
   - national-archives-and-records-administration
   - social-media
   - the-content-corner

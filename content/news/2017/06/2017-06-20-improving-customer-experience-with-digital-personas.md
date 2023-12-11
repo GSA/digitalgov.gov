@@ -10,7 +10,7 @@ topics:
   - design
   - user-experience
   - customer-experience
-  - NARA
+  
   - national-archives-and-records-administration
   - personas
   - user-centered-design

@@ -9,7 +9,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - NARA
+  
   - national-archives-and-records-administration
   - native-apps
   - smithsonian-institution

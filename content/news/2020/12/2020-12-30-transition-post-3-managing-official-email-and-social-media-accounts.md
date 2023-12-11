@@ -22,7 +22,7 @@ summary: "**Transition Post 3: Managing Official Email and Social Media
 # See all topics at https://digital.gov/topics
 topics:
   - records-management
-  - nara
+  
   - national-archives-and-records-administration
 slug: transition-post-3-managing-official-email-and-social-media-accounts
 # Controls how this page appears across the site

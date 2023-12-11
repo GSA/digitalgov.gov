@@ -24,7 +24,7 @@ summary: "**Transition Post 2: Entrance and Exit Checklists for Senior
 # See all topics at https://digital.gov/topics
 topics:
   - records-management
-  - nara
+  
   - national-archives-and-records-administration
 slug: transition-post-2-entrance-and-exit-checklists-for-senior-officials
 # Controls how this page appears across the site

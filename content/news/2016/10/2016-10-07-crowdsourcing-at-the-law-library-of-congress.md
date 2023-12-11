@@ -13,7 +13,7 @@ topics:
   - crowdsourcing
   
   - metadata
-  - NARA
+  
   - national-archives-and-records-administration
   - research
   - smithsonian-institution
