@@ -11,7 +11,6 @@ topics:
   - policy
   - acquisition
   - gsa
-  - IT Schedule 70
   - Office of Management and Budget
   - OMB
   - security

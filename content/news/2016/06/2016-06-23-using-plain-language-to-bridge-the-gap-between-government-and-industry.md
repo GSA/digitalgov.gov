@@ -15,7 +15,7 @@ topics:
   - cloud
   - content
   - gsa
-  - IT Schedule 70
+  - acquisition
   - plain-language
   - us-general-services-administration
   - user-experience

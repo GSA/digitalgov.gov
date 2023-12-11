@@ -13,7 +13,7 @@ topics:
   - FAS
   - Federal Acquisition Service
   - gsa
-  - IT Schedule 70
+  - acquisition
   - PBS
   - Public Buildings Service
   - us-general-services-administration

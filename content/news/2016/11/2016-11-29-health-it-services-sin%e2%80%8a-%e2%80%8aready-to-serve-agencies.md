@@ -11,7 +11,7 @@ topics:
   - policy
   - Federal Health IT Strategic Plan
   - gsa
-  - IT Schedule 70
+  - acquisition
   - us-general-services-administration
 ---
 
