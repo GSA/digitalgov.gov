@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - data
-  - National Telecommunications and Information Administration
   - open-data
   - security
   - white-house
