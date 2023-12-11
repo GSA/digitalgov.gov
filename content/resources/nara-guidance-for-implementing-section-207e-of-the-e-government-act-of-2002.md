@@ -1,7 +1,10 @@
 ---
 slug: nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002
 date: 2015-11-23 3:27:49 -0400
-title: NARA Guidance for Implementing Section 207(e) of the E-Government Act of 2002
+
+expirydate: "2023-11-21"
+
+title: "NARA Guidance for Implementing Section 207(e) of the E-Government Act of 2002"
 summary: "This bulletin provides Federal agencies with the National Archives and Records Administration&#8217;s (NARA) approach to improve the management of electronic records, including web records, as directed by Section 207(e) of the E-Government Act of 2002."
 
 topics:
