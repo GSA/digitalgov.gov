@@ -9,7 +9,6 @@ topics:
   - mobile
   - Federal Mobile Products Registry
   - mobile-apps
-  - National Center for Telehealth and Technology
   - OSHA
   - SAMHSA
   - thursday-mobile-products
