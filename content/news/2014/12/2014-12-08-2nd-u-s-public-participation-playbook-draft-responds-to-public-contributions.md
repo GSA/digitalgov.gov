@@ -8,10 +8,6 @@ authors:
 topics:
   - social-media
   - gsa
-  
-  
-  
-  - National Defense University
   - national-institutes-of-health
   - National Library of Medicine
   - nih
