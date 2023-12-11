@@ -9,9 +9,7 @@ topics:
   - mobile
   - user-testing-and-research
   - digitalgov-user-experience-program
-  
   - mobile-app-development-program
-  - NCI
   - OMB
   - pra
   - user-experience

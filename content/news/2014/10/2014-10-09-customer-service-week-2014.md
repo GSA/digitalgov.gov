@@ -11,7 +11,6 @@ topics:
   - 18f
   - customer-experience
   - customer-service
-  - NCI
   - Office of Child Support Enforcement
   - user-experience
 ---

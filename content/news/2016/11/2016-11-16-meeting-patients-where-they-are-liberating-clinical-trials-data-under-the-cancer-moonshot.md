@@ -17,8 +17,6 @@ topics:
   - content
   - data
   - innovation
-  
-  - NCI
   - nih
   - PIF
   - Presidential Innovation Fellows

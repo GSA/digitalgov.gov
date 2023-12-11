@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - customer-service
   - government-contact-centers
-  - NCI
   - thursday-mobile-products
 ---
 

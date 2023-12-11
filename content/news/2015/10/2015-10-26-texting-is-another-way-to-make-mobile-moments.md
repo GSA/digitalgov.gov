@@ -12,7 +12,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5
-  - NCI
   - responsive-web-design
  
 ---

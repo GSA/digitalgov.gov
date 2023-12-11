@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - social-media
-  
-  - NCI
   - nih
   - US Department of Agriculture
   - us-environmental-protection-agency

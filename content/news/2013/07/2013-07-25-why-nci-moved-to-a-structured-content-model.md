@@ -9,8 +9,6 @@ topics:
   - content
   - content-management-system
   - metadata
-  
-  - NCI
   - nih
   - open-and-structured-content-models
 ---

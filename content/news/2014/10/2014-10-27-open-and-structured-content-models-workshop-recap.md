@@ -13,7 +13,6 @@ topics:
   - COPE
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
-  - NCI
   - open-and-structured-content-models
   - recaps
   - SEC

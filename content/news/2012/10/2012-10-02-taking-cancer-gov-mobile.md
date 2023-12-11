@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - mobile-gov-experience
-  - NCI
   - nih
 ---
 
