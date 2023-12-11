@@ -12,7 +12,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - innovation
-  - national-science-foundation
   - nsf
   - recaps
   - united-states-department-of-housing-and-urban-development

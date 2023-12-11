@@ -17,7 +17,6 @@ topics:
   - crowdfunding
   - crowdsourcing
   - FCPCCS
-  - national-science-foundation
   - NIST
   - NPS
   - nsf

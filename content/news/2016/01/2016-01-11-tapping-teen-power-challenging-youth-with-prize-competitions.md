@@ -10,8 +10,6 @@ topics:
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  
-  - national-science-foundation
   - nsf
 ---
 

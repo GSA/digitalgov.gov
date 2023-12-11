@@ -18,7 +18,6 @@ topics:
   - crowdsourcing
   - data
   - FCPCCS
-  - national-science-foundation
   - nsf
   - us-agency-for-international-development
   - us-department-of-state
