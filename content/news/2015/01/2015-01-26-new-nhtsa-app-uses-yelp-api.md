@@ -9,9 +9,7 @@ topics:
   - code
   - mobile
   - social-media
-  
   - mobile-apps
-  - National Highway Traffic Safety Administration
   - NHTSA
   - terms-of-service
   - tos

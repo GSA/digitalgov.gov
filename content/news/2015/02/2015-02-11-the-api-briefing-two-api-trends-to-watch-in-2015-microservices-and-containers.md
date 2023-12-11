@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - api
-  - National Highway Traffic Safety Administration
   - NHTSA
   - wednesday-api-briefing
 ---

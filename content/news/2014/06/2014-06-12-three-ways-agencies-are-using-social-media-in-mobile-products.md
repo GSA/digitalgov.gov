@@ -16,7 +16,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5
-  - National Highway Traffic Safety Administration
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - socialgov-community
