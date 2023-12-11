@@ -12,8 +12,6 @@ topics:
   - api
   - apps-challenges
   - data
-  
-  - National Aeronautics and Space Administration
   - open
   - open-data
   - open-government

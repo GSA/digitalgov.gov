@@ -11,9 +11,6 @@ topics:
   - big-data
   - data
   - emerging-tech
-  
-  
-  - national-aeronautics-and-space-administration
   - trends-on-tuesday
   - united-states-department-of-health-and-human-services
   - rpa

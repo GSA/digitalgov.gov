@@ -13,8 +13,6 @@ topics:
   - api
   - code
   - content
-  
-  - National Aeronautics and Space Administration
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - open
