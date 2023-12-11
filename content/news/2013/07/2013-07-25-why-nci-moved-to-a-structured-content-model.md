@@ -7,10 +7,8 @@ authors:
   - lakshmi-grama
 topics:
   - content
-  
   - content-management-system
   - metadata
-  - national-cancer-institute
   - national-institutes-of-health
   - NCI
   - nih

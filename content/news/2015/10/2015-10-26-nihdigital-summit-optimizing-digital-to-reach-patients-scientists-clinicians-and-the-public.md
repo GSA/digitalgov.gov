@@ -8,9 +8,6 @@ authors:
 topics:
   - product-management
   - social-media
-  
-  
-  - national-cancer-institute
   - national-institutes-of-health
   - NCI
   - nih

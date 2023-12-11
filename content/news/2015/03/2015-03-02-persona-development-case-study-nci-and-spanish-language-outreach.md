@@ -8,7 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - multilingual
-  - national-cancer-institute
   - NCI
   - personas
   - us-bureau-of-labor-statistics
