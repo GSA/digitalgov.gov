@@ -12,8 +12,6 @@ topics:
   - social-media
   - video
   - audio-video
-  
-  - NCCIH
   - nih
   - social-media
   - social-media-metrics

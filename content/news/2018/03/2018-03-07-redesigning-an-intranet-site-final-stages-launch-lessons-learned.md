@@ -16,8 +16,6 @@ topics:
   - content
   - content-strategy
   - customer-experience
-  
-  - nccih
   - nih
   - prototype
   - usability
