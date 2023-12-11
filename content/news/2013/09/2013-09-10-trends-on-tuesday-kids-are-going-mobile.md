@@ -7,11 +7,8 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  
   - gamification
-  - mobile
   - mobile-first
-  - national-gallery-of-art
   - smithsonian-institution
   - trends-on-tuesday
 ---
