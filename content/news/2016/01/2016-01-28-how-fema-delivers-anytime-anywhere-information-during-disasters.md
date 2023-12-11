@@ -8,11 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  
-  
-  - mobile
   - mobile-apps
-  - National Weather Service
   - NWS
 ---
 

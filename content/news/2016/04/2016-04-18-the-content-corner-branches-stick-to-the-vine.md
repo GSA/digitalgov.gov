@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - accessibility
-  - National Weather Service
   - NWS
   - social-media
   - socialgov

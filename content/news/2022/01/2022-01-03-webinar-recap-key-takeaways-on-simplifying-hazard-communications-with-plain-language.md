@@ -9,7 +9,6 @@ topics:
   - nws
   - noaa
   - national-oceanic-and-atmospheric-administration
-  - national-weather-service
   - plain-language
   - user-research
   - user-experience

@@ -11,7 +11,6 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-5
   - national-oceanic-and-atmospheric-administration
-  - National Weather Service
   - NOAA
   - NWS
   - trends-on-tuesday
