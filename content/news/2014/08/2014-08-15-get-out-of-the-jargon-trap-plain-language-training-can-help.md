@@ -6,7 +6,7 @@ summary: The Plain Language Action and Information Network (PLAIN) is the offici
 authors:
   - wendy-wagner-smith
 topics:
-  - writing
+  - communication
   - plain-language
   - plain-writing-act-of-2010
 ---

@@ -20,7 +20,7 @@ end_date: 2020-05-13 15:00:00 -0500
 topics:
   - content
   - plain-language
-  - writing
+  - communication
   - communication
 
 # see all authors at https://digital.gov/authors

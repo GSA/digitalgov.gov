@@ -22,7 +22,7 @@ topics:
   - content
   - content-strategy
   - plain-language
-  - writing
+  - communication
 
 # see all authors at https://digital.gov/authors
 authors: 

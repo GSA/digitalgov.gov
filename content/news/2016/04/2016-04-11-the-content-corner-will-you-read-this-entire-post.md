@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - writing
+  - communication
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - dhs

@@ -7,7 +7,7 @@ authors:
   - alvaro-puig
 topics:
   - content
-  - writing
+  - communication
   - Federal Trade Commission
   - FTC
   - multilingual

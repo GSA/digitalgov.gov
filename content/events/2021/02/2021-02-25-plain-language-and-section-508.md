@@ -17,7 +17,7 @@ topics:
   - accessibility
   - plain-language
   - training
-  - writing
+  - communication
   - plain-language-community-of-practice
 # See all authors at https://digital.gov/authors
 authors:

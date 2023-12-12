@@ -10,7 +10,7 @@ summary: A resource to help federal employees write in plain language and comply
 # See all topics at https://digital.gov/topics
 topics:
   - content
-  - writing
+  - communication
   - plain-language
   - accessibility
 slug: plainlanguage-gov

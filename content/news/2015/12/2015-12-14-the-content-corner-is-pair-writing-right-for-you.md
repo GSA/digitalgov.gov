@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - user-testing-and-research
-  - writing
+  - communication
   - administrative-office-of-the-united-states-courts
   - agile
   - the-content-corner

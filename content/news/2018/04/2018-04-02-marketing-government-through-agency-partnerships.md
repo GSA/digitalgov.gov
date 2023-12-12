@@ -12,7 +12,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - writing
+  - communication
   - accessibility
   - accessibility
   - analytics

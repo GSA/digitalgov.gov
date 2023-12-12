@@ -7,7 +7,7 @@ authors:
   - cynthia-baur
 topics:
   - content
-  - writing
+  - communication
   - 18f
   - cdc
   - centers-for-disease-control-and-prevention

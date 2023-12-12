@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - social-media
   - video
-  - writing
+  - communication
   - usagov
 
 ---

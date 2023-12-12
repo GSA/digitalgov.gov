@@ -17,7 +17,7 @@ topics:
   - customer-experience
   - plain-language-community-of-practice
   - plain-language
-  - writing
+  - communication
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

@@ -6,7 +6,7 @@ summary: 'In the circle of Web content life, FAQ sections are an endangered spec
 authors:
   - awichman
 topics:
-  - writing
+  - communication
   - plain-language
   - transportation-security-administration
   - TSA

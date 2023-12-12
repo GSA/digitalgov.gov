@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - writing
+  - communication
   - blog
   - podcast
   - the-content-corner

@@ -16,7 +16,7 @@ topics:
   - plain-language
   - plain-language-community-of-practice
   - usability
-  - writing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - daniel-yi

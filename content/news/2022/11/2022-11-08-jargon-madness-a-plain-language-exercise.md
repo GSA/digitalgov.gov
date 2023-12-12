@@ -7,7 +7,7 @@ summary: During the 2022 Plain Language Summit, Laura Rabuck of the Veterans Hea
 topics:
   - plain-language
   - training
-  - writing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - joshua-hardy

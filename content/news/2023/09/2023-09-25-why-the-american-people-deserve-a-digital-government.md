@@ -36,7 +36,7 @@ topics:
   - governance
   - mobile
   - pra
-  - writing
+  - communication
   - budgeting-and-performance
   - best-practices
   - usability

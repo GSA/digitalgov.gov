@@ -10,7 +10,7 @@ topics:
   - research
   - user-research
   - usability
-  - writing
+  - communication
   - training
 # See all authors at https://digital.gov/authors
 authors:

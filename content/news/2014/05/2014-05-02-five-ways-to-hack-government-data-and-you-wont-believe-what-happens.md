@@ -9,7 +9,7 @@ topics:
   - challenges
   - code
   - data
-  - writing
+  - communication
   - Census
   - challenge-gov
   - data-gov

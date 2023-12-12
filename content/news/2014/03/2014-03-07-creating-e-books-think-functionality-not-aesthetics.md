@@ -11,7 +11,7 @@ topics:
   - content
   - design
   - mobile
-  - writing
+  - communication
   - usagov
 
 ---

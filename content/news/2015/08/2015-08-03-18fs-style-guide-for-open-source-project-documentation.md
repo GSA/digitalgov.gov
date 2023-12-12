@@ -7,7 +7,7 @@ authors:
   - melody-kramer
 topics:
   - code
-  - writing
+  - communication
   - 18f
   - GitHub
   - open-source

@@ -11,7 +11,7 @@ topics:
   - personas
   - social-media
   - the-content-corner
-  - writing
+  - communication
 
 ---
 

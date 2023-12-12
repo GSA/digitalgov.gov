@@ -23,7 +23,7 @@ topics:
   - content-strategy
   - plain-language
   - user-experience
-  - writing
+  - communication
   - plain-language-community-of-practice
 
 # see all authors at https://digital.gov/authors

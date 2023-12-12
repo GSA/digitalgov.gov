@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - video
-  - writing
+  - communication
   - cdc
   - centers-for-disease-control-and-prevention
   - content-strategy

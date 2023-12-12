@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - social-media
   - video
-  - writing
+  - communication
   - accessibility
   - crowdsourcing
   - FCC

@@ -13,7 +13,7 @@ end_date: 2022-08-24 15:45:00 -0500
 topics:
   - content
   - accessibility
-  - writing
+  - communication
   - content-strategy
   - user-experience
   - plain-language

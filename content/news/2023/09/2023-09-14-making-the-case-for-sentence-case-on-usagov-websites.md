@@ -10,7 +10,7 @@ summary: "What is the best case style to use for titles and headings? For the ne
 topics:
   - content
   - design
-  - writing
+  - communication
 slug: making-the-case-for-sentence-case-on-usagov-websites
 # Controls how this page appears across the site
 # 0 -- hidden

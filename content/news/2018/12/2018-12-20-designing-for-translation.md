@@ -8,7 +8,7 @@ authors:
   - lgodfrey
 topics:
   - content
-  - writing
+  - communication
   - content
   - multilingual
 featured_image:

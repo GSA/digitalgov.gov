@@ -13,7 +13,7 @@ topics:
   - governance
   - budgeting-and-performance
   - professional-development
-  - writing
+  - communication
   - digital-service-delivery
 
 # See all authors at https://digital.gov/authors

@@ -10,7 +10,7 @@ topics:
   - accessibility
   - content
   - social media
-  - writing
+  - communication
   - plain-language
   - communication
   - crowdsourcing

@@ -10,7 +10,7 @@ topics:
   - communication
   - content
   - content-strategy
-  - writing
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

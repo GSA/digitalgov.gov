@@ -12,7 +12,7 @@ topics:
   - governance
   - professional-development
   - user-experience
-  - writing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

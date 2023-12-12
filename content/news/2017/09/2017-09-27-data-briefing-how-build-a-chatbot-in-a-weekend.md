@@ -15,7 +15,7 @@ topics:
   - personas
   - social-media
   - training
-  - writing
+  - communication
   - rpa
   
 featured_image:

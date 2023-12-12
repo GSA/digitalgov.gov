@@ -5,7 +5,7 @@ title: "Style Guides by Government Agencies"
 summary: "This page is a collection of style guides created by government agencies."
 topics:
   - plain-language
-  - writing
+  - communication
   - content
 ---
 

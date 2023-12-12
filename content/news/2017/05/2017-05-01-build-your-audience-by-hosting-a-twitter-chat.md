@@ -11,7 +11,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - writing
+  - communication
   - aids-gov
   - content-strategy
   - customer-service

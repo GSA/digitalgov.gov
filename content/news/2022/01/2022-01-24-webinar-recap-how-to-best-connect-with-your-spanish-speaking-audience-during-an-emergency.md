@@ -11,7 +11,7 @@ topics:
   - multilingual
   - multilingual-community
   - recaps
-  - writing
+  - communication
   - plain-language
   - content
   - content-strategy

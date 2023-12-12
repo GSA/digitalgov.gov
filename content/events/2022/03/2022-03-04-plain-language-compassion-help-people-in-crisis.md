@@ -18,7 +18,7 @@ topics:
   - strategy
   - usability
   - user-experience
-  - writing
+  - communication
   - user-research
 # See all authors at https://digital.gov/authors
 authors:

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - user-experience
-  - writing
+  - communication
   - plain-language
 ---
 

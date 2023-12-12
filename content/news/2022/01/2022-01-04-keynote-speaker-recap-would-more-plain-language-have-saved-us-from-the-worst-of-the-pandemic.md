@@ -8,7 +8,7 @@ topics:
   - plain-language
   - user-experience
   - user-research
-  - writing
+  - communication
   - recaps
   - communication
 

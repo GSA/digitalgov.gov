@@ -17,7 +17,7 @@ topics:
   - professional-development
   - training
   - user-experience
-  - writing
+  - communication
   - plain-language
   - plain-language-community-of-practice
 # See all authors at https://digital.gov/authors

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - product-management
-  - writing
+  - communication
   - content-strategy
   - GobiernoUSAgov
   - multilingual

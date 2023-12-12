@@ -18,7 +18,7 @@ topics:
   - plain-language
   - plain-writing-act-of-2010
   - user-experience
-  - writing
+  - communication
   - design
   - content
   - accessibility

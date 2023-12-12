@@ -15,7 +15,7 @@ topics:
   - plain-language-community-of-practice
   - plain-writing-act-of-2010
   - training
-  - writing
+  - communication
   - user-experience
   - content
 # See all authors at https://digital.gov/authors

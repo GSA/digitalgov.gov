@@ -7,7 +7,7 @@ authors:
   - katherine-spivey
 topics:
   - content
-  - writing
+  - communication
   - plain-language
   - social-media
 

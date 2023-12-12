@@ -9,7 +9,7 @@ topics:
   - content
   - strategy
   - policy
-  - writing
+  - communication
   - content-strategy
   - plain-language
   - plain-language-community-of-practice

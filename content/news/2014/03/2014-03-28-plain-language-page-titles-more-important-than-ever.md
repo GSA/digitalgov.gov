@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - content
-  - writing
+  - communication
   - analytics
   - search-engine-optimization
 ---

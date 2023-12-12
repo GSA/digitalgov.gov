@@ -23,7 +23,7 @@ topics:
   - accessibility
   - content
   - plain-language
-  - writing
+  - communication
 
 event_cop:
   - plain-language

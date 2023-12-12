@@ -11,7 +11,7 @@ topics:
   - social-media
   - accessibility
   - user-experience
-  - writing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - celia-a-terrazas

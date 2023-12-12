@@ -10,7 +10,7 @@ authors:
 topics:
   - content
   - user-testing-and-research
-  - writing
+  - communication
   - accessibility
   - content
   - plain-language
