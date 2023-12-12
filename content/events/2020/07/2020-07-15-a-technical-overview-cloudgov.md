@@ -21,7 +21,6 @@ end_date: 2020-07-15 15:00:00 -0500
 topics: 
   - devops
   - cloud-and-infrastructure
-  - cloud-gov
 
 # see all authors at https://digital.gov/authors
 authors: 

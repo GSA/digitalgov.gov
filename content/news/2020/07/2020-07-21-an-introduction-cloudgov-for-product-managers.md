@@ -13,7 +13,6 @@ topics:
   - devops
   - product-management
   - cloud-and-infrastructure
-  - cloud-gov
 
 # see all authors at https://digital.gov/authors
 authors: 

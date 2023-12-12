@@ -10,7 +10,7 @@ topics:
   - gsa
   - tts
   - 18f
-  - cloud-gov
+  - cloud-and-infrastructure
   - analytics
 # See all authors at https://digital.gov/authors
 authors:

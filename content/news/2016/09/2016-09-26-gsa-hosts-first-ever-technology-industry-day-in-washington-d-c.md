@@ -14,7 +14,6 @@ topics:
   - 18f
   - agile
   - cloud-and-infrastructure
-  - cloud-gov
   - data
   - budgeting-and-performance
   - login-gov

@@ -24,7 +24,6 @@ topics:
   - open-source
   - product-management
   - cloud-and-infrastructure
-  - cloud-gov
   - budgeting-and-performance
   - gsa
   - infrastructure

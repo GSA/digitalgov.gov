@@ -30,7 +30,6 @@ topics:
   - application-programming-interface
   - artificial-intelligence
   - cloud-and-infrastructure
-  - cloud-gov
   - content
   - customer-experience
   - analytics

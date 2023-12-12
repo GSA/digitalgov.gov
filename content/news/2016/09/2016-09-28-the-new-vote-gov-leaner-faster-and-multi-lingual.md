@@ -14,7 +14,6 @@ topics:
   - 18f
   - analytics
   - cloud-and-infrastructure
-  - cloud-gov
   - content
   - content-strategy
   - customer-experience

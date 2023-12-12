@@ -12,7 +12,6 @@ topics:
   - product-management
   - 18f
   - cloud-and-infrastructure
-  - cloud-gov
   - CMS
   - content-management-system
   - fedramp
