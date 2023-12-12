@@ -15,7 +15,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
   - Consumer Financial Protection Bureau
-  - crowdfunding
+  - crowdsourcing-and-citizen-science
   - crowdsourcing
   - data
   - DoD

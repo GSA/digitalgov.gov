@@ -14,7 +14,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - crowdfunding
+  - crowdsourcing-and-citizen-science
   - crowdsourcing
   - epa
   - FCPCCS

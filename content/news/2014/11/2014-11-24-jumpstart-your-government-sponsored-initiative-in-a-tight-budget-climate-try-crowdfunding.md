@@ -9,7 +9,7 @@ topics:
   - challenges
   - product-management
   - social-media
-  - crowdfunding
+  - crowdsourcing-and-citizen-science
   - us-department-of-state
 ---
 
