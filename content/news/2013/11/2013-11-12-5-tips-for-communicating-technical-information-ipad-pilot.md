@@ -9,7 +9,7 @@ topics:
   - content
   - product-management
   - user-experience
-  - FCN
+  - communication
   - mobile
 ---
 
