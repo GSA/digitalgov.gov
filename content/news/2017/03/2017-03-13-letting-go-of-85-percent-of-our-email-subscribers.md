@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - analytics
-  - email marketing
+  - communication
   - analytics
 ---
 
