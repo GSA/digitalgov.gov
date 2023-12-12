@@ -13,7 +13,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - Consumer Financial Protection Bureau
   - crowdfunding
   - crowdsourcing

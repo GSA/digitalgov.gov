@@ -21,7 +21,7 @@ topics:
   - crowdsourcing
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
 
 # see all authors at https://digital.gov/authors
 authors: 

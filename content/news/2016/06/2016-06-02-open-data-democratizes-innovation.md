@@ -19,7 +19,7 @@ topics:
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - crowdsourcing
   - data
   - data-visualization

@@ -14,7 +14,7 @@ topics:
   - crowdsourcing
   - open-data
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
 
 # See all authors at https://digital.gov/authors
 authors:

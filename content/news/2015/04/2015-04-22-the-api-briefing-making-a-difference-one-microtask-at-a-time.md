@@ -10,7 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - crowdsourcing
   - DOE
   - FCPCCS

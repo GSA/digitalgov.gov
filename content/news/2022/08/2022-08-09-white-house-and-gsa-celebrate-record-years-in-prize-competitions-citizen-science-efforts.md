@@ -16,7 +16,7 @@ summary: none
 # See all topics at https://digital.gov/topics
 topics:
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - challenges-and-prizes-community-of-practice
   - challenge-gov
   - crowdsourcing

@@ -13,7 +13,7 @@ topics:
   - aoi
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - Consumer Product Safety Commission
   - crowdsourcing
   - FCPCCS

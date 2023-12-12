@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - crowdsourcing
   - epa
   - nasa

@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - 18f
   - application-programming-interface
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - communities
   - content-strategy
   - mobile

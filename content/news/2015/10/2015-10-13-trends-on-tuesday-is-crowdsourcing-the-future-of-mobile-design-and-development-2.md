@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - apps-challenges
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
   - crowdsourcing
   - FCPCCS
   - mobile
