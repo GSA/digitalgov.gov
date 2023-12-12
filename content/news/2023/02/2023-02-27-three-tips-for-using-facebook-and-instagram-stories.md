@@ -24,7 +24,7 @@ topics:
   - multilingual
   - design
   - analytics
-  - performance
+  - budgeting-and-performance
 slug: three-tips-for-using-facebook-and-instagram-stories
 # Controls how this page appears across the site
 # 0 -- hidden

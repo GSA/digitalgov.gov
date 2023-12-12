@@ -22,7 +22,7 @@ topics:
   - design
   - analytics
   - multilingual
-  - performance
+  - budgeting-and-performance
   - analytics
 
 # Page weight: controls how this page appears across the site

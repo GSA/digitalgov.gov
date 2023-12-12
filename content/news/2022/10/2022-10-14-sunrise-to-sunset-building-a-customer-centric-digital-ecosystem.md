@@ -10,7 +10,7 @@ topics:
   - customer-experience
   - design
   - governance
-  - performance
+  - budgeting-and-performance
 # See all authors at https://digital.gov/authors
 authors:
   - ana-monroe

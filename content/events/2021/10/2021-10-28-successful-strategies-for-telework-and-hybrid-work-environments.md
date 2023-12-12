@@ -16,7 +16,7 @@ end_date: 2021-11-03 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - strategy
-  - performance
+  - budgeting-and-performance
   - training
   - professional-development
 # See all authors at https://digital.gov/authors

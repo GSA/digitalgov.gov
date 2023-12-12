@@ -12,7 +12,7 @@ authors:
 topics:
   - analytics
   - data
-  - performance
+  - budgeting-and-performance
   - project-management
   - analytics
 # Controls how this page appears across the site

@@ -11,7 +11,7 @@ topics:
   - content
   - content-strategy
   - governance
-  - performance
+  - budgeting-and-performance
   - professional-development
   - writing
   - digital-service-delivery

@@ -8,7 +8,7 @@ summary: Discover the keys to intranet success by harmonizing objectives, metric
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-  - performance
+  - budgeting-and-performance
   - strategy
 
 # See all authors at https://digital.gov/authors

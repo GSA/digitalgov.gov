@@ -23,7 +23,7 @@ topics:
   - content
   - design
   - multilingual
-  - performance
+  - budgeting-and-performance
   - analytics
 slug: building-beta-the-foundation
 # Controls how this page appears across the site

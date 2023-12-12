@@ -22,7 +22,6 @@ topics:
   - devops
   - analytics
   - open-source
-  - performance
   - product-management
   - cloud
   - cloud-gov
