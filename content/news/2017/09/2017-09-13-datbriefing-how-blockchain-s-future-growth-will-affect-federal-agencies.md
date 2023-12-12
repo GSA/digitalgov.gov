@@ -14,7 +14,6 @@ topics:
   - data
   - artificial-intelligence
   - blockchain
-  - chatbots
   - data
   - security
   - the-data-briefing

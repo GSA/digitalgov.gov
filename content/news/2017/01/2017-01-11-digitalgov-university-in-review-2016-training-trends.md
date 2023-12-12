@@ -29,7 +29,6 @@ topics:
   - analytics
   - application-programming-interface
   - artificial-intelligence
-  - chatbots
   - cloud
   - cloud-gov
   - content

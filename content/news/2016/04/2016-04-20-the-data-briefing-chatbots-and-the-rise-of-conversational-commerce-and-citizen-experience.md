@@ -10,7 +10,7 @@ topics:
   - data
   - application-programming-interface
   - augmented-reality
-  - chatbots
+  - artificial-intelligence
   - customer-experience
   - customer-service
   - data

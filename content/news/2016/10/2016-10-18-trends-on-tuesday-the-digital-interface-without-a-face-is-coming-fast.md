@@ -9,7 +9,6 @@ topics:
   - product-management
   - mobile
   - artificial intelligence
-  - chatbots
   - mobile
   - trends-on-tuesday
   - voice

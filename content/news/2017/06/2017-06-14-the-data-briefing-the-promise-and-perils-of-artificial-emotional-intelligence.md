@@ -14,7 +14,6 @@ topics:
   - data
   - mobile
   - artificial intelligence
-  - chatbots
   - innovation
   - internet-of-things
   - IoT

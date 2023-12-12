@@ -11,7 +11,6 @@ topics:
   - social-media
   - emerging-tech
   - artificial-intelligence
-  - chatbots
   - content
   - personas
   - social-media

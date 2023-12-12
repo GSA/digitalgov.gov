@@ -12,7 +12,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - chatbots
+  - artificial-intelligence
   - mobile
   - mobile-apps
   - sms

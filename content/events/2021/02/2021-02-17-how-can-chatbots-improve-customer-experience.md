@@ -11,7 +11,6 @@ date: 2021-02-23 14:30:00 -0500
 end_date: 2021-02-23 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - chatbots
   - customer-experience
   - 21st-century-idea
   - artificial-intelligence

@@ -7,7 +7,6 @@ summary: "Three federal teams showcase their success using chatbots to improve c
 
 # See all topics at https://digital.gov/topics
 topics:
-  - chatbots
   - artificial-intelligence
   - social-media
   - customer-experience

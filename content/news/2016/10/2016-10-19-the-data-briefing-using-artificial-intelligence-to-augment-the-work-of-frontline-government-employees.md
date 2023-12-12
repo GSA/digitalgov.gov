@@ -10,7 +10,6 @@ topics:
   - strategy
   - policy
   - artificial intelligence
-  - chatbots
   - the-data-briefing
 ---
 

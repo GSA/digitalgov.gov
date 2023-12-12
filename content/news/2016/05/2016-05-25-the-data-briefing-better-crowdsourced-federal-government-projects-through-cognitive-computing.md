@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - data
-  - chatbots
   - crowdsourcing
   - internet-of-things
   - artificial-intelligence

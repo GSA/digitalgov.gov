@@ -19,7 +19,7 @@ topics:
   - best-practices
   - analytics
   - blockchain
-  - chatbots
+  - artificial-intelligence
   - customer-experience
   - customer-service
   - data

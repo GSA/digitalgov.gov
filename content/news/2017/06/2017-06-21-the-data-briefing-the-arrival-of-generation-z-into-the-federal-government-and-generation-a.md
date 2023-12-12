@@ -9,7 +9,6 @@ topics:
   - product-management
   - artificial-intelligence
   - augmented-reality
-  - chatbots
   - human-resources
   - social-media
 ---

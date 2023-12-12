@@ -11,7 +11,6 @@ topics:
   - social-media
   - artificial intelligence
   - best-practices
-  - chatbots
   - data
   - innovation
   - mobile-apps
