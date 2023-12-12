@@ -9,7 +9,7 @@ topics:
   - design
   - user-testing-and-research
   - fda
-  - infographic
+  - data-visualization
   - us-food-and-drug-administration
   - usability
   - usability-case-study

@@ -12,7 +12,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - content-strategy
-  - infographic
+  - data-visualization
   - content-strategy
 ---
 

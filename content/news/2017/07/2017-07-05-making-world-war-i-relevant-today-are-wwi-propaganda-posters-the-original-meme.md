@@ -12,7 +12,7 @@ topics:
   - american-battle-monuments-commission
   - content-strategy
   - content-strategy
-  - infographic
+  - data-visualization
   - social-media
 ---
 

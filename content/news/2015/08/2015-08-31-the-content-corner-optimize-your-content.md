@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - communication
   - administrative-office-of-the-united-states-courts
-  - infographic
+  - data-visualization
   - search-engine-optimization
   - content-strategy
 ---

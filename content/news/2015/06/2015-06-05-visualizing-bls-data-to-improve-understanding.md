@@ -11,7 +11,7 @@ topics:
   - BLS
   - data
   - data-visualization
-  - infographic
+  - data-visualization
   - us-bureau-of-labor-statistics
 ---
 

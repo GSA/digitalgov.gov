@@ -11,7 +11,7 @@ topics:
   - analytics
   - data
   - data-visualization
-  - infographic
+  - data-visualization
   - social-media-metrics
 ---
 

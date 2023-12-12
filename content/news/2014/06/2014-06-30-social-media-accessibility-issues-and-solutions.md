@@ -15,7 +15,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - FCC
   - federal-communications-commission
-  - infographic
+  - data-visualization
   - plain-language
   - social-media
 

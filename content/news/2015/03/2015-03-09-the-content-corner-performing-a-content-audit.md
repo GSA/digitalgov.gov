@@ -10,7 +10,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - analytics
   - content-strategy
-  - infographic
+  - data-visualization
   - metadata
   - content-strategy
   - usability

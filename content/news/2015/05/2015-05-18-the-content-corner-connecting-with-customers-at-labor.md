@@ -10,7 +10,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - customer-experience
-  - infographic
+  - data-visualization
   - personas
   - plain-language
   - social-media

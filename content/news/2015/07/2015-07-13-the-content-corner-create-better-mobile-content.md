@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - mobile
   - administrative-office-of-the-united-states-courts
-  - infographic
+  - data-visualization
   - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3

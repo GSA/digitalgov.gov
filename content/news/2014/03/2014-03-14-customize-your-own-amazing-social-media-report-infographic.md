@@ -9,7 +9,7 @@ topics:
   - analytics
   - social-media
   - GAO
-  - infographic
+  - data-visualization
   - social-media-metrics
   - socialgov
   - socialgov-community

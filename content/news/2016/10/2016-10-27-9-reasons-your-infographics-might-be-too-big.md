@@ -12,7 +12,7 @@ topics:
   - product-management
   - social-media
   - content-strategy
-  - infographic
+  - data-visualization
   - multimedia
   - social-media
 ---

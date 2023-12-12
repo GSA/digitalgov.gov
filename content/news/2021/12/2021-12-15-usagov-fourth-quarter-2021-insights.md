@@ -14,7 +14,7 @@ topics:
   - data
   - usa-gov
   - analytics
-  - infographic
+  - data-visualization
 slug: usagov-fourth-quarter-2021-insights
 # Controls how this page appears across the site
 # 0 -- hidden
