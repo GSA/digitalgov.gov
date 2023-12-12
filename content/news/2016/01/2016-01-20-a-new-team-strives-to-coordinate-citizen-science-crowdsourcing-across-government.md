@@ -7,7 +7,7 @@ authors:
   - eric-beidel
 topics:
   - crowdsourcing-and-citizen-science
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - FCPCCS

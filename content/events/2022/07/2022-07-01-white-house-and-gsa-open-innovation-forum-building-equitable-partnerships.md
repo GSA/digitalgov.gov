@@ -17,7 +17,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - open
   - innovation
-  - citizen-science
 
 # See all authors at https://digital.gov/authors
 authors:

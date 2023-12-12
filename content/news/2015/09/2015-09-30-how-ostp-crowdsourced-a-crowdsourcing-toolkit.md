@@ -10,7 +10,7 @@ topics:
   - product-management
   - our-work
   - accessibility
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - analytics

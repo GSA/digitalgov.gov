@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - crowdsourcing-and-citizen-science
   - mobile
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - DOE

@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - code
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - epa

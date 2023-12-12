@@ -9,7 +9,7 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prizes-community-of-practice
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - FCPCCS
   - open-opportunities-program

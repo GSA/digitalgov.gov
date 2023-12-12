@@ -15,7 +15,7 @@ deck: "**White House & GSA Celebrate Record Years in Prize Competitions, Citizen
 summary: none
 # See all topics at https://digital.gov/topics
 topics:
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - challenges-and-prizes-community-of-practice
   - challenge-gov

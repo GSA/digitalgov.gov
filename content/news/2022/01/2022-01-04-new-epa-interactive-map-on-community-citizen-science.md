@@ -9,7 +9,7 @@ summary:
 topics:
   - epa
   - us-environmental-protection-agency
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - crowdsourcing
   - crowdsourcing-and-citizen-science
 # Controls how this page appears across the site

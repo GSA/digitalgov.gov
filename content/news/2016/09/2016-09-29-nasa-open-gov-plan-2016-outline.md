@@ -18,7 +18,7 @@ topics:
   - content-strategy
   - policy
   - challenges-and-prize-competitions
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - code
   - data
   - innovation

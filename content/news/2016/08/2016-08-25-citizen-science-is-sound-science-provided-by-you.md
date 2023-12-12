@@ -7,7 +7,7 @@ authors:
   - stephanie-dromerick
 topics:
   - crowdsourcing-and-citizen-science
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
 ---
 

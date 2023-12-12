@@ -18,7 +18,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - data

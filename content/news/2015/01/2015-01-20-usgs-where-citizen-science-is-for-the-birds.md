@@ -9,7 +9,6 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - challenge-gov
-  - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - FCPCCS

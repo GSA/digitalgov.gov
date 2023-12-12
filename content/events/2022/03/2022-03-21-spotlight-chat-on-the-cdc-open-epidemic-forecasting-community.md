@@ -13,7 +13,7 @@ end_date: 2022-04-07 14:00:00 -0500
 topics:
   - crowdsourcing
   - open-data
-  - citizen-science
+  - crowdsourcing-and-citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
 
 # See all authors at https://digital.gov/authors
