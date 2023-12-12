@@ -7,7 +7,7 @@ topics:
   - mobile
   - application-programming-interface
   - Census
-  - Federal Mobile Products Registry
+  - mobile
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5

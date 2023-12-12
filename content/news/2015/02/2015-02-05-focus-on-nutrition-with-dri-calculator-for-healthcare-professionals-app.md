@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Federal Mobile Products Registry
+  - mobile
   - ICE
   - native-app
   - thursday-mobile-products

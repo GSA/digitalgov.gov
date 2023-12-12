@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - monthly-theme
   - aoi
-  - federal-mobile-products-registry
+  - mobile
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - native-apps

@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - crowdsourcing-and-citizen-science
-  - Federal Mobile Products Registry
+  - mobile
   - native-app
   - thursday-mobile-products
   - united-states-geological-survey

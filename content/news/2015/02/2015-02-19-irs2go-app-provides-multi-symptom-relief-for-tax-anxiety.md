@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Federal Mobile Products Registry
+  - mobile
   - ICE
   - Internal Revenue Service
   - IRS

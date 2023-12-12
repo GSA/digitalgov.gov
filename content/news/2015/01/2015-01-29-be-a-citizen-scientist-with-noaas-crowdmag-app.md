@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Federal Mobile Products Registry
+  - mobile
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
   - NOAA

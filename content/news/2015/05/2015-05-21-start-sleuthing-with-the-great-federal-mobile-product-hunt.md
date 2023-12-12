@@ -9,7 +9,7 @@ topics:
   - mobile
   - our-work
   - digitalgov-summit
-  - Federal Mobile Products Registry
+  - mobile
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-friendly

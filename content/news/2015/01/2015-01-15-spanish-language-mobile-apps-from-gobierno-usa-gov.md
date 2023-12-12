@@ -9,7 +9,7 @@ topics:
   - mobile
   - bbg
   - broadcasting-board-of-governors
-  - Federal Mobile Products Registry
+  - mobile
   - federal-student-aid
   - FSA
   - GobiernoUSAgov

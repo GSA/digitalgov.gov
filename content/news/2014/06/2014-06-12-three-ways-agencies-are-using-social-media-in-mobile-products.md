@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - social-media
   - crowdsourcing-and-citizen-science
-  - Federal Mobile Products Registry
+  - mobile
   - GPS
   - mobile-apps
   - mobile-gov

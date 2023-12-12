@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - broadcasting-board-of-governors
-  - Federal Mobile Products Registry
+  - mobile
   - mobile-apps
   - National Center for Telehealth and Technology
   - OSHA
