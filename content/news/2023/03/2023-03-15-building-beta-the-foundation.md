@@ -18,7 +18,7 @@ summary: "The USAGov program has been developing a new iteration of our
   content creation, analytics, and outreach. "
 # See all topics at https://digital.gov/topics
 topics:
-  - marketing
+  - communication
   - user-experience
   - content
   - design

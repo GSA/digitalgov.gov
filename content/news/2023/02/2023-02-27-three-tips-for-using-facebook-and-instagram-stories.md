@@ -18,7 +18,7 @@ summary: At USA.gov and USAGov en Español, we’re always looking for better wa
   started.
 # See all topics at https://digital.gov/topics
 topics:
-  - marketing
+  - communication
   - social-media
   - content
   - multilingual

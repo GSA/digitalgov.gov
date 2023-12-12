@@ -18,7 +18,7 @@ topics:
   - analytics
   - content
   - design
-  - marketing
+  - communication
   - multilingual
   - user-experience
 featured_image:

@@ -8,7 +8,6 @@ topics:
   - communication
   - analytics
   - social-media
-  - marketing
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry

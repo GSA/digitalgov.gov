@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - social-media
   - writing
-  - marketing
+  - communication
   - customer-experience
 # See all authors at https://digital.gov/authors
 authors:

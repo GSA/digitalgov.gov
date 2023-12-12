@@ -10,7 +10,7 @@ topics:
   - content
   - content-strategy
   - content-syndication
-  - marketing
+  - communication
   - analytics
   - multilingual
   - multimedia
