@@ -9,7 +9,6 @@ topics:
   - mobile
   - monthly-theme
   - social-media
-  - GPS
   - mobile-ux-guideline-5
   - NPS
   - emerging-tech

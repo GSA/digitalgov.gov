@@ -12,7 +12,7 @@ topics:
   - FCC
   - fda
   - federal-communications-commission
-  - GPS
+  - mobile
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
   - NOAA

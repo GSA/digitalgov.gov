@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - customer-experience
-  - GPS
   - mobile
   - mobile-apps
   - mobile-ux-guideline-5

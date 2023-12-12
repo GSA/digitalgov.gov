@@ -12,7 +12,6 @@ topics:
   - social-media
   - crowdsourcing-and-citizen-science
   - mobile
-  - GPS
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5

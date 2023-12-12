@@ -12,7 +12,6 @@ topics:
   - content-strategy
   - policy
   - aoi
-  - GPS
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
   - emerging-tech

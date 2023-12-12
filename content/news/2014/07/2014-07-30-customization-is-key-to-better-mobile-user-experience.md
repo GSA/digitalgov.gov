@@ -9,7 +9,6 @@ topics:
   - mobile
   - cdc
   - centers-for-disease-control-and-prevention
-  - gps
   - hhs
   - loc
   - mobile-apps
