@@ -23,7 +23,6 @@ topics:
   - sites
   - sitesusagov
   - us-department-of-veterans-affairs
-  - VA
   
 ---
 

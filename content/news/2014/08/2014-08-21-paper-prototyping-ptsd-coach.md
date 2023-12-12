@@ -14,7 +14,6 @@ topics:
   - recaps
   - thursday-mobile-products
   - us-department-of-veterans-affairs
-  - VA
 
 ---
 

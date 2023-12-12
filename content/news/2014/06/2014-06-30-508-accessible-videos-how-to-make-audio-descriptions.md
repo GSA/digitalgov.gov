@@ -10,12 +10,9 @@ authors:
 topics:
   - accessibility
   - video
-  
-  
   - section-508
   - us-department-of-justice
   - us-department-of-veterans-affairs
-  - VA
   - social-media
 
 ---

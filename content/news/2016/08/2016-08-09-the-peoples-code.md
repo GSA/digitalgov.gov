@@ -19,7 +19,6 @@ topics:
   - open
   - open-data
   - us-department-of-veterans-affairs
-  - VA
 
 ---
 

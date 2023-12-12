@@ -9,7 +9,6 @@ topics:
   - data
   - mobile
   - data
-  
   - innovation
   - internet-of-things
   - IoT
@@ -17,9 +16,6 @@ topics:
   - open-data
   - the-data-briefing
   - us-department-of-veterans-affairs
-  - VA
-  - va-center-for-innovation
-  - VACI
 ---
 
 Two significant items in federal government data in the last few weeks:

@@ -26,7 +26,6 @@ topics:
   - united-states-department-of-defense
   - united-states-department-of-energy
   - united-states-department-of-transportation
-  - VA
 ---
 
 > _Summary: Significant strides in improving public access to scholarly publications and digital data help usher in an era of open science._
