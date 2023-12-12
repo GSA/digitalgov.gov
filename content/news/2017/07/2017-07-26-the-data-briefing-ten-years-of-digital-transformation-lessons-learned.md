@@ -16,7 +16,6 @@ topics:
   - emerging-tech
   - artificial-intelligence
   - emerging-tech
-  - blockchain
   - customer-experience
   - customer-experience
   - Human Resources

@@ -13,7 +13,6 @@ authors:
 topics:
   - data
   - artificial-intelligence
-  - blockchain
   - data
   - security
   - the-data-briefing

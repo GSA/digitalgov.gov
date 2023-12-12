@@ -18,7 +18,6 @@ topics:
   - emerging-tech
   - best-practices
   - analytics
-  - blockchain
   - artificial-intelligence
   - customer-experience
   - customer-experience

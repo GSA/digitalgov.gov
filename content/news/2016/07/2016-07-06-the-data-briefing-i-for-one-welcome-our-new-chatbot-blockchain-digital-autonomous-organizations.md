@@ -12,7 +12,7 @@ topics:
   - product-management
   - content-strategy
   - policy
-  - blockchain
+  - emerging-tech
   - artificial-intelligence
   - customer-experience
   - customer-experience

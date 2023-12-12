@@ -19,10 +19,7 @@ end_date: 2018-08-06 13:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - emerging-tech
-
   - artificial-intelligence
-  - emerging-tech
-  - blockchain
   - virtual-reality
   - virtual-augmented-reality-community
 

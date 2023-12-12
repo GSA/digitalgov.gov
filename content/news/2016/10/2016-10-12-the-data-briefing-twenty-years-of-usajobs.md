@@ -14,7 +14,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - agile
-  - blockchain
+  - emerging-tech
   - analytics
   - data
   - gsa
