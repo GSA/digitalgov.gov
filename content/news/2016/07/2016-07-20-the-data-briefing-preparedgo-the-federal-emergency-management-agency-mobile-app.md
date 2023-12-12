@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile-apps
   - the-data-briefing
-  - user-generated-content
+  - content-strategy
 ---
 
 While you are outside [hunting Pokemon]({{< ref "2016-07-12-catch-the-mall-with-pokemon-and-public-services.md" >}}) or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The [Federal Emergency Management Agency (FEMA) mobile app](https://www.fema.gov/mobile-app) alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA for immediate assistance. A feature you won’t find in many other apps is the ability for users to crowdsource photos of disaster areas to help first responders.

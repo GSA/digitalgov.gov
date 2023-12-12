@@ -24,7 +24,6 @@ topics:
   - social-media
   - socialgov
   - content-strategy
-  - user-generated-content
 
 ---
 

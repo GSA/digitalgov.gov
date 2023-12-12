@@ -19,7 +19,6 @@ topics:
   - analytics
   - mobile
   - recaps
-  - user-generated-content
   - video
   - virtual-reality
   - virtual-augmented-reality-community
