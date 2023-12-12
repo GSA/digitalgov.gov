@@ -13,7 +13,7 @@ topics:
   - innovation
   - mobile
   - mobile-gov
-  - white-house
+
   - wireless
 ---
 

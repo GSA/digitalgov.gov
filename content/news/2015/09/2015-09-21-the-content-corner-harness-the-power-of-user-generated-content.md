@@ -10,7 +10,7 @@ topics:
   - social-media
   - the-content-corner
   - UGC
-  - white-house
+
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Internet-Life-Wahyu-b-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}} 

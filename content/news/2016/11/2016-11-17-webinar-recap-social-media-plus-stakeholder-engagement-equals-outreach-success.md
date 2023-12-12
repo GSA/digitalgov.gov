@@ -19,7 +19,7 @@ topics:
   - social-media
   - usagov
   - user research
-  - webinar
+
 ---
 
 > _Summary: How to leverage your resources to reach Spanish-dominant Hispanics online._

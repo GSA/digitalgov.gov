@@ -14,7 +14,7 @@ topics:
   
   - nih
   - OSTP
-  - white-house-office-of-science-and-technology-policy
+  
 ---
 
 {{< legacy-img src="2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" >}}

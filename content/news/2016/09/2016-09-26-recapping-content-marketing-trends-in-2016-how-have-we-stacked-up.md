@@ -22,7 +22,7 @@ topics:
   - us-department-of-the-interior
   - us-department-of-the-treasury
   - united-states-department-of-health-and-human-services
-  - white-house
+
 ---
 
 Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}} 

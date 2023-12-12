@@ -8,7 +8,7 @@ authors:
 topics:
   - video
   - smithsonian-institution
-  - white-house
+
 ---
 
 {{< legacy-img src="2014/05/600-x-400-KidsGov-video-interviews-2-DSC_9939.jpg" alt="Kids.gov staff interviews a Zoo Keeper for its STEM Careers Spotlight series" >}}

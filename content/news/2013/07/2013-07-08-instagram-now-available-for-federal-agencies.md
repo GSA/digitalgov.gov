@@ -11,7 +11,7 @@ topics:
   - gsa
   - socialgov
   - terms-of-service
-  - white-house
+
 ---
 
 <p>

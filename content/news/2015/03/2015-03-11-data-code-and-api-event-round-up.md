@@ -25,7 +25,7 @@ topics:
   - recaps
   - responsive-web-design
   - us-department-of-state
-  - white-house
+
 ---
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< ref "/events" >}})

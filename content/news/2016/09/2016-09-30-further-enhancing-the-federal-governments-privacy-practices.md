@@ -12,7 +12,7 @@ topics:
   - Office of Management and Budget
   - OMB
   - security
-  - white-house
+
 ---
 
 > _Summary: The Office of Management and Budget is releasing updated guidance on the role and designation of Senior Agency Officials for Privacy._

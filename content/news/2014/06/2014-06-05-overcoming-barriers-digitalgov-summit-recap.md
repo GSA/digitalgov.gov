@@ -22,7 +22,7 @@ topics:
   - SBA
   - us-department-of-labor
   - us-small-business-administration
-  - white-house-office-of-science-and-technology-policy
+  
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Justin-Herman-Panel-3-Public-Private-Partnerships-toni470-flickr-20140530_112350.jpg" alt="DigitalGov Citizen Services Summit and Expo - Justin Herman, GSA - Panel 3: Public Private Partnerships - Jack Bienko, SBA; Phil Ashlock, DataGov; Lynn Overmann, White House OSTP; Mike Reardon, DOL" caption="" >}} 
