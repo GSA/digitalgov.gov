@@ -11,7 +11,7 @@ topics:
   - gsa
   - infrastructure
   - innovation
-  - M3 Framework
+  - budgeting-and-performance
   - Modernization and Migration Management Framework
   - Office of Management and Budget
   - OMB
