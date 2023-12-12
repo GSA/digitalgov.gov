@@ -18,7 +18,7 @@ topics:
   - FCPCCS
   - open-opportunities-program
   - OSTP
-  - sites
+  - content-strategy
   - sitesusagov
   - us-department-of-veterans-affairs
   - VA

@@ -16,7 +16,7 @@ topics:
   - mobile-friendly
   - mobile-gov
   - responsive-web-design
-  - sites
+  - content-strategy
   - trends-on-tuesday
 ---
 

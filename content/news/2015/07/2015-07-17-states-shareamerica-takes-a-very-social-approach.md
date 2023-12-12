@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - our-work
-  - sites
   - sitesusagov
   - State
   - us-department-of-state

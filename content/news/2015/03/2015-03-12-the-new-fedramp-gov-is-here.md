@@ -13,7 +13,7 @@ topics:
   - fedramp
   - gsa
   - responsive-web-design
-  - sites
+  - content-strategy
   - thursday-mobile-products
   - user-experience
   
