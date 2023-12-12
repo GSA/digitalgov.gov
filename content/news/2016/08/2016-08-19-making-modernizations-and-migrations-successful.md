@@ -12,7 +12,6 @@ topics:
   - infrastructure
   - innovation
   - budgeting-and-performance
-  - Modernization and Migration Management Framework
   - Office of Management and Budget
   - OMB
   - us-general-services-administration
