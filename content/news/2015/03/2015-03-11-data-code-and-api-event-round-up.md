@@ -15,7 +15,6 @@ topics:
   - content-strategy
   - data
   - data-gov
-  - drupal
   - GitHub
   - json
   - metadata

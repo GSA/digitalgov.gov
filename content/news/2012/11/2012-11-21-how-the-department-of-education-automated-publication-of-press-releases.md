@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - CMS
-  - drupal
   - structured-content
   - us-department-of-education
 ---

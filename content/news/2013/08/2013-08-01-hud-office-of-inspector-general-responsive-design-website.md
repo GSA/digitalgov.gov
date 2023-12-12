@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - mobile
-  - drupal
+  - content-strategy
   - HUD
   - mobile-gov
   - responsive-web-design

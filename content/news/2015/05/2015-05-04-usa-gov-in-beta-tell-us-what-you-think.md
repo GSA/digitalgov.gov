@@ -10,7 +10,6 @@ topics:
   - product-management
   - application-programming-interface
   - analytics
-  - drupal
   - GobiernoUSAgov
   - government-contact-centers
   - personas

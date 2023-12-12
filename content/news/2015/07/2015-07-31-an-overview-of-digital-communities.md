@@ -12,7 +12,7 @@ topics:
   - application-programming-interface
   - citizen-science-and-crowdsourcing-community-of-practice
   - communities
-  - drupal
+  - content-strategy
   - mobile
   - open-data
   - open-opportunities-program

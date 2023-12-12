@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - CMS
-  - drupal
   - HHS
   - open-and-structured-content-models
   - united-states-department-of-health-and-human-services
