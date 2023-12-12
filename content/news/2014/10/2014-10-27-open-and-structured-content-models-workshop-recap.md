@@ -9,7 +9,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - content-models
+  - content-strategy
   - COPE
   - HHS
   - mobile-ux-guideline-1

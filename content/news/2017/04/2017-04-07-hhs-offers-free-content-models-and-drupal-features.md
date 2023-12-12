@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - CMS
   - content-strategy
-  - content-models
   - content-syndication
   - drupal
   - HHS
@@ -23,7 +22,7 @@ topics:
 
 The [U.S. Department of Health & Human Services](https://www.hhs.gov/) (HHS) is sharing its content models and their related Drupal features for you to use on your sites.
 
-A [content model]({{< ref "/topics/content-models" >}}) is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes.
+A [content model]({{< ref "/topics/content-strategy" >}}) is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes.
 
 [Open and structured content models]({{< ref "/topics/open-and-structured-content-models" >}}) can help you create content that is platform-agnostic, format-free, and device independent. We need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable. In the age of smartphones, tablets, social media tools, [syndication]({{< ref "2016-02-04-does-content-syndication-work.md" >}}), and websites, [the need for modular content is growing]({{< ref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).
 

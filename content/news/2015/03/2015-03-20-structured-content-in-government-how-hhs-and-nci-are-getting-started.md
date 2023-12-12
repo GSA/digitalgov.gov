@@ -10,7 +10,6 @@ topics:
   - data
   - mobile
   - monthly-theme
-  - content-models
   - content-strategy
   - metadata
   - mobile-ux-guideline-1

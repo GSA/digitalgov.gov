@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - content-strategy
-  - content-models
   - content-strategy
   - COPE
   - internet-of-things

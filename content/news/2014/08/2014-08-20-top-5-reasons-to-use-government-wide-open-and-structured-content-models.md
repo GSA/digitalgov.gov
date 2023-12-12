@@ -9,7 +9,6 @@ topics:
   - application-programming-interface
   - content-strategy
   - application-programming-interface
-  - content-models
   - metadata
   - national-institutes-of-health
   - nih

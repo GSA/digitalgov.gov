@@ -1,3 +1,5 @@
+
+
 ---
 slug: the-content-corner-location-aware-content
 date: 2016-02-08 11:00:00 -0400
@@ -9,7 +11,6 @@ topics:
   - content-strategy
   - monthly-theme
   - administrative-office-of-the-united-states-courts
-  - content-models
   - federal-emergency-management-agency
   - fema
   - the-content-corner

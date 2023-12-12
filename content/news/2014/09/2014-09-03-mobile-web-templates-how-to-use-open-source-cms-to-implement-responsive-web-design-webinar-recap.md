@@ -10,7 +10,6 @@ topics:
   - application-programming-interface
   - CMS
   - content-strategy
-  - content-models
   - drupal
   - mobile-ux-guideline-1
   - open-and-structured-content-models

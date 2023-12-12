@@ -11,7 +11,6 @@ topics:
   - administrative-office-of-the-united-states-courts
   - application-programming-interface
   - CMS
-  - content-models
   - content-strategy
   - COPE
   - government-contact-centers

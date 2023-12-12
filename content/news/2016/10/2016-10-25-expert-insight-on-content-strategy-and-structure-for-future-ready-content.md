@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - content-strategy
-  - content-models
   - content-strategy
   - open-and-structured-content-models
   - structured-content

@@ -12,7 +12,6 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - content-strategy
-  - content-models
   - content-strategy
   - content-syndication
   - national-institutes-of-health

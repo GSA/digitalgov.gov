@@ -10,7 +10,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - content-models
+  - content-strategy
   - mobile
   - mobile-code-catalog
   - mobile-gov

@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
   - CMS
-  - content-models
   - content-strategy
   - metadata
   - open-and-structured-content-models

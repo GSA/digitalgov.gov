@@ -1,3 +1,4 @@
+
 ---
 slug: web-metadata-publishing-using-xml
 date: 2015-03-23 11:00:18 -0400
@@ -10,7 +11,6 @@ topics:
   - mobile
   - monthly-theme
   - content-strategy
-  - content-models
   - data
   - federal-register
   - metadata
