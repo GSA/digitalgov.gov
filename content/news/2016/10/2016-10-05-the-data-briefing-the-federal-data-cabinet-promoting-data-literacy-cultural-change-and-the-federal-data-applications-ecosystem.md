@@ -9,7 +9,7 @@ topics:
   - data
   - analytics
   - data
-  - infrastructure
+  - cloud-and-infrastructure
   - analytics
   - open-data
   - the-data-briefing

@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - architecture
-  - infrastructure
+  - cloud-and-infrastructure
   - SSA
   - the-united-states-social-security-administration
 ---

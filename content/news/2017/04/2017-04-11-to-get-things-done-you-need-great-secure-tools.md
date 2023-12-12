@@ -12,7 +12,7 @@ topics:
   - 18f
   - fedramp
   - gsa
-  - infrastructure
+  - cloud-and-infrastructure
   - our-work
   - SaaS
   - security

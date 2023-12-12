@@ -11,7 +11,7 @@ summary: "In fall 2023, we’ll launch a new registrar: a better way to get and
 # See all topics at https://digital.gov/topics
 topics:
   - web-based
-  - infrastructure
+  - cloud-and-infrastructure
   - github
 slug: infrastructure-as-a-public-service
 # Controls how this page appears across the site

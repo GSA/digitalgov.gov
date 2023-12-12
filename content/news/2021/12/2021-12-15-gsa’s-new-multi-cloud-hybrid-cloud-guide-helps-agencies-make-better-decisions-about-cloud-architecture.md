@@ -19,7 +19,6 @@ deck: "**GSA’s New Multi-Cloud & Hybrid Cloud Guide Helps Agencies Make Better
 topics:
   - cloud-and-infrastructure
   - data
-  - infrastructure
   - gsa
   - us-general-services-administration
 # Controls how this page appears across the site

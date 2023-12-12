@@ -20,7 +20,7 @@ topics:
   - customer-experience
   - customer-service
   - Human Resources
-  - infrastructure
+  - cloud-and-infrastructure
   - innovation
   - internet-of-things
   - virtual-reality

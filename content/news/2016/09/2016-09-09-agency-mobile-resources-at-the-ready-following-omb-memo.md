@@ -14,7 +14,7 @@ topics:
   - FAS
   - Federal Acquisition Service
   - gsa
-  - infrastructure
+  - cloud-and-infrastructure
   - innovation
   - mobile
   - mobile-gov

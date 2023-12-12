@@ -15,7 +15,7 @@ topics:
   - strategy
   - policy
   - search
-  - infrastructure
+  - cloud-and-infrastructure
 ---
 
 _This is post 2 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< ref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})._

@@ -9,7 +9,7 @@ authors:
 topics:
   - product-management
   - gsa
-  - infrastructure
+  - cloud-and-infrastructure
   - innovation
   - budgeting-and-performance
   - Office of Management and Budget

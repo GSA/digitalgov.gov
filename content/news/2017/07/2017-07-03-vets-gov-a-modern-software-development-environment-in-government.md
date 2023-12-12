@@ -14,7 +14,6 @@ topics:
   - cloud-and-infrastructure
   - code
   - GitHub
-  - infrastructure
   - open-source
   - user-centered-design
   - user-experience

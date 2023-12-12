@@ -15,7 +15,6 @@ topics:
   - cloud-and-infrastructure
   - Cybersecurity National Action Plan
   - gsa
-  - infrastructure
   - innovation
   - budgeting-and-performance
   - budgeting-and-performance

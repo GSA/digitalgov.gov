@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - best-practices
-  - infrastructure
+  - cloud-and-infrastructure
   - internet-of-things
   - IoT
   - national-institute-of-standards-and-technology

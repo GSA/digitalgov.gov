@@ -13,7 +13,6 @@ topics:
   - policy
   - cloud-and-infrastructure
   - search
-  - infrastructure
   - security
 ---
 

@@ -19,7 +19,6 @@ topics:
   - fedramp
   - cloud-and-infrastructure
   - security
-  - infrastructure
 slug: gsas-fedramp-celebrates-10-years-of-impact-on-cloud-security
 # Controls how this page appears across the site
 # 0 -- hidden

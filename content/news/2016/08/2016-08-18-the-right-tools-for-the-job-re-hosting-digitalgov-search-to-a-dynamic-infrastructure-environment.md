@@ -13,7 +13,6 @@ topics:
   - policy
   - cloud-and-infrastructure
   - search
-  - infrastructure
 ---
 
 > _This is the first post of a 5-part series._
