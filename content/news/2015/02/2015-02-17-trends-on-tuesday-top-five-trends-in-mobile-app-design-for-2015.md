@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - mobile
-  - customer-service
+  - customer-experience
   - internet-of-things
   - mobile-apps
   - mobile-ux-guideline-1

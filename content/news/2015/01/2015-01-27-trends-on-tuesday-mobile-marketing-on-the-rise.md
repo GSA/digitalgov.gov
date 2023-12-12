@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - customer-service
+  - customer-experience
   - GPS
   - mobile
   - mobile-apps

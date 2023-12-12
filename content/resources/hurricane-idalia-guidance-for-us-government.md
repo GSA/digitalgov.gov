@@ -25,7 +25,7 @@ topics:
   - content-strategy
   - design
   - social-media
-  - customer-service
+  - customer-experience
   - multilingual
   - communication
 

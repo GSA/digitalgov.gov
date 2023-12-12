@@ -10,7 +10,7 @@ topics:
   - social-media
   - analytics
   - customer-experience
-  - customer-service
+  - customer-experience
   - government-contact-centers
   - social-media
 ---

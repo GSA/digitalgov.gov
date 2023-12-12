@@ -12,7 +12,7 @@ topics:
   - our-work
   - user-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - government-contact-centers
   - personas
 ---

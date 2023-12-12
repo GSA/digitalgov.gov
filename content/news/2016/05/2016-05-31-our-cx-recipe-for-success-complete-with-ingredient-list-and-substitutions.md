@@ -10,7 +10,7 @@ topics:
   - accessibility
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - user-experience
   
 ---

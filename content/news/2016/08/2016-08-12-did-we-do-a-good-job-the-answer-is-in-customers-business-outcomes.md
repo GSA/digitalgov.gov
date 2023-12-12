@@ -9,7 +9,7 @@ topics:
   - product-management
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - Ex-Im Bank
   - Export-Import Bank of the United States
 ---

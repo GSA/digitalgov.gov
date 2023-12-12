@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - customer-service
+  - customer-experience
   - government-contact-centers
   - national-cancer-institute
   - NCI

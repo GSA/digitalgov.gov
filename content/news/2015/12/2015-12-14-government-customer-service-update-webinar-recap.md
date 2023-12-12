@@ -9,7 +9,7 @@ topics:
   - product-management
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - Office of Management and Budget
   - OMB
   - recaps

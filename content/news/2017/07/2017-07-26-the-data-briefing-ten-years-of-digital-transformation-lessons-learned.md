@@ -18,7 +18,7 @@ topics:
   - augmented-reality
   - blockchain
   - customer-experience
-  - customer-service
+  - customer-experience
   - Human Resources
   - cloud-and-infrastructure
   - innovation

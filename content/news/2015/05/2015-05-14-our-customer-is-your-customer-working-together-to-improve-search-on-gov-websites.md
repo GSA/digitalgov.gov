@@ -10,7 +10,7 @@ topics:
   - our-work
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - search
   - search-engine-optimization
 ---

@@ -9,7 +9,7 @@ topics:
   - product-management
   - our-work
   - customer-experience
-  - customer-service
+  - customer-experience
   - digitalgov-summit
   - recaps
 

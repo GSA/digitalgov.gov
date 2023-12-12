@@ -7,7 +7,7 @@ authors:
   - va-center-for-innovation
 topics:
   - customer-experience
-  - customer-service
+  - customer-experience
   - personas
   - user-centered-design
   - user-experience

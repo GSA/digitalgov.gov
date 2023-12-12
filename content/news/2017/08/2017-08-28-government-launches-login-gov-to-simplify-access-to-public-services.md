@@ -14,7 +14,7 @@ topics:
   - 18f
   - us-customs-and-border-protection
   - login-gov
-  - customer-service
+  - customer-experience
   - customer-experience
   - gsa
   - Internal Revenue Service

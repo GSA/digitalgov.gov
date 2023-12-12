@@ -14,7 +14,7 @@ topics:
   - communication
   - aids-gov
   - content-strategy
-  - customer-service
+  - customer-experience
   - social-media
 ---
 

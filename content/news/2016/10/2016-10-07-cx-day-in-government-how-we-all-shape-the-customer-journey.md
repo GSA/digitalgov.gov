@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - policy
-  - customer-service
+  - customer-experience
   - customer-experience
   - FAS
   - Federal Acquisition Service

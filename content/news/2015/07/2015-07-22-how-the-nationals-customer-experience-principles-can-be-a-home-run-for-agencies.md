@@ -13,7 +13,7 @@ topics:
   - monthly-theme
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - recaps
 
 ---

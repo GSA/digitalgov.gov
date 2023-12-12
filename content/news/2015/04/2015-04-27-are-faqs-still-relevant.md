@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - CFPB
   - Consumer Financial Protection Bureau
-  - customer-service
+  - customer-experience
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - government-contact-centers

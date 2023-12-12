@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - data
   - FAFSA
   - federal-student-aid

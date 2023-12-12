@@ -11,7 +11,7 @@ topics:
   - our-work
   - CMS
   - customer-experience
-  - customer-service
+  - customer-experience
 ---
 
 As the product manager of [Sites](https://sites.usa.gov/), my job is to make sure that our service delivers what we offer: provide an easy, fast and cost‐effective solution for federal agencies that want to create a secure government website to reach the public.

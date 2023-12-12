@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - customer-service
+  - customer-experience
   - government-contact-center-council/
   - government-contact-centers
 

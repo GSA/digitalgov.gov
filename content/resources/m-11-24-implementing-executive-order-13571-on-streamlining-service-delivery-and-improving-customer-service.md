@@ -5,7 +5,7 @@ title: M-11-24 Implementing Executive Order 13571 on Streamlining Service Delive
 summary: "Memo M-11-24 is guidance to Implement Executive Order 13571."
 topics:
   - policy
-  - customer-service
+  - customer-experience
 authors:
   - andreanocesigritz
 

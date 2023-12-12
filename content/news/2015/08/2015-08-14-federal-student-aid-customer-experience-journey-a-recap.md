@@ -9,7 +9,7 @@ topics:
   - product-management
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - federal-student-aid
   - recaps
   - us-department-of-education

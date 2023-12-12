@@ -9,7 +9,7 @@ topics:
   - product-management
   - monthly-theme
   - customer-experience
-  - customer-service
+  - customer-experience
   - Government Contact Center Council
   - government-contact-centers
 ---

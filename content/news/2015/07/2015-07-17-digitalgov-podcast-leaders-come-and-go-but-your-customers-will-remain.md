@@ -9,7 +9,7 @@ topics:
   - product-management
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - podcast
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 

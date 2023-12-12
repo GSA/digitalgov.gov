@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
-  - customer-service
+  - customer-experience
   - infographic
   - personas
   - plain-language

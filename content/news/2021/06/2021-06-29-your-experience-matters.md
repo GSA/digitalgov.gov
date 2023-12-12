@@ -19,7 +19,7 @@ summary: summary
 topics:
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
 slug: your-experience-matters
 # Controls how this page appears across the site
 # 0 -- hidden

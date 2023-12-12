@@ -10,7 +10,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-service
+  - customer-experience
 
 ---
 

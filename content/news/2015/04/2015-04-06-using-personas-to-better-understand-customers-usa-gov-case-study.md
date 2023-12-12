@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - analytics
-  - customer-service
+  - customer-experience
   - search
   - GobiernoUSAgov
   - personas

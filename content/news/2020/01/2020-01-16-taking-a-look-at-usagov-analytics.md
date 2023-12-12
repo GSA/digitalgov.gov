@@ -22,7 +22,7 @@ topics:
   - multilingual
   - analytics
   - analytics-usa-gov
-  - customer-service
+  - customer-experience
   - usa-gov
 
 # see all authors at https://digital.gov/authors

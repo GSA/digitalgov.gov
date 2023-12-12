@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - analytics
   - federal-emergency-management-agency
   - fema

@@ -12,7 +12,7 @@ topics:
   - augmented-reality
   - artificial-intelligence
   - customer-experience
-  - customer-service
+  - customer-experience
   - data
   - internet-of-things
   - the-data-briefing

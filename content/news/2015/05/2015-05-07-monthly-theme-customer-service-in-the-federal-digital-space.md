@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
 ---
 
 “The customer is king.” “The customer is always right.”

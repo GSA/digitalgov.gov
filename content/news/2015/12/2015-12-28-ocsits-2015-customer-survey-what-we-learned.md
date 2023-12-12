@@ -9,7 +9,7 @@ topics:
   - our-work
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - analytics
   - budgeting-and-performance
   - fedramp

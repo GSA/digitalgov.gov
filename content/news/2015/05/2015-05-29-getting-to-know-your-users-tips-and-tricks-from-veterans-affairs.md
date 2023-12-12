@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
   - personas
   - us-department-of-veterans-affairs
   - user-centered-design

@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - customer-experience
   - customer-experience
-  - customer-service
+  - customer-experience
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Mail-PashaIgnatov-iStock-Thinkstock-133940537.jpg" alt="Email icons, with an open one highlighted in orange" caption="" >}} 
