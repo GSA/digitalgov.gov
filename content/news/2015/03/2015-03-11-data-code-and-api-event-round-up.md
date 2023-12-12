@@ -12,7 +12,7 @@ topics:
   - application-programming-interface
   - CFPB
   - Consumer Financial Protection Bureau
-  - content-management-system
+  - content-strategy
   - data
   - data-gov
   - drupal

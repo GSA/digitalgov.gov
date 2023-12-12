@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - CMS
-  - content-management-system
   - metadata
   - national-cancer-institute
   - national-institutes-of-health

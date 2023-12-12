@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - analytics
-  - content-management-system
+  - content-strategy
   - mobile-ux-guideline-1
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4

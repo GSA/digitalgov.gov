@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - content-management-system
   - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1

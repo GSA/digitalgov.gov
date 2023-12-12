@@ -9,7 +9,7 @@ topics:
   - mobile
   - application-programming-interface
   - CMS
-  - content-management-system
+  - content-strategy
   - content-models
   - drupal
   - mobile-ux-guideline-1

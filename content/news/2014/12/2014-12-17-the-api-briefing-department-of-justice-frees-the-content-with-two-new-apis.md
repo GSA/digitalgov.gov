@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - content-management-system
+  - content-strategy
   - DOJ
   - us-department-of-justice
   - application-programming-interface

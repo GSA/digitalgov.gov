@@ -27,7 +27,6 @@ weight: 2
 topics:
   - cloud-and-infrastructure
   - content-strategy
-  - content-management-system
   - github
 
 # see all authors at https://digital.gov/authors

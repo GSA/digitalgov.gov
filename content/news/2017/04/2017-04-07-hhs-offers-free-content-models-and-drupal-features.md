@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - CMS
   - content-strategy
-  - content-management-system
   - content-models
   - content-syndication
   - drupal

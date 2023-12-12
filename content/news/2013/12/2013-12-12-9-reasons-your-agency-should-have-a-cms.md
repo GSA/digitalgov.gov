@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - CMS
-  - content-management-system
 ---
 
 **[{{< legacy-img src="2013/12/nine-250x250.png" alt="Highway 9 sign" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/nine.png)Why Invest in a Content Management System?**

@@ -9,7 +9,7 @@ topics:
   - data
   - mobile
   - monthly-theme
-  - content-management-system
+  - content-strategy
   - content-models
   - data
   - federal-register

@@ -13,7 +13,7 @@ topics:
   - 18f
   - cloud-and-infrastructure
   - CMS
-  - content-management-system
+  - content-strategy
   - fedramp
   - gsa
   - security

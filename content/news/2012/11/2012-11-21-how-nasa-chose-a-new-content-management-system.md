@@ -12,7 +12,6 @@ topics:
   - strategy
   - policy
   - CMS
-  - content-management-system
   - nasa
 ---
 

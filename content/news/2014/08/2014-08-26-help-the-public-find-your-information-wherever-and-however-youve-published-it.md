@@ -13,7 +13,6 @@ topics:
   - social-media
   - 18f
   - CMS
-  - content-management-system
   - search
   - federal-register
   - open-data

@@ -11,7 +11,7 @@ topics:
   - mobile
   - user-testing-and-research
   - CMS
-  - content-management-system
+  - content-strategy
   - draft-web-design-standards
   - mobile
   - mobile-friendly

@@ -9,7 +9,6 @@ topics:
   - application-programming-interface
   - content-strategy
   - CMS
-  - content-management-system
   - content-strategy
   - metadata
   - open-source
