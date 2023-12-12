@@ -11,7 +11,7 @@ topics:
   - policy
   - accessibility
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - personas
   - user-experience

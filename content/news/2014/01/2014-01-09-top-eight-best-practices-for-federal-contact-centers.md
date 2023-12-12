@@ -13,7 +13,7 @@ topics:
   - analytics
   - aoi
   - content-strategy
-  - customer-satisfaction
+  - customer-experience
   - government-contact-centers
   - top-tasks
 ---

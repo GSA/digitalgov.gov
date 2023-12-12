@@ -12,7 +12,7 @@ topics:
   - communities
   - monthly-theme
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - recaps
 

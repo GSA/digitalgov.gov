@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - aoi
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - Government Contact Center Council
   - government-contact-centers
   - HHS

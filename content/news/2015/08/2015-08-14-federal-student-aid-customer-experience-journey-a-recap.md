@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - federal-student-aid
   - recaps

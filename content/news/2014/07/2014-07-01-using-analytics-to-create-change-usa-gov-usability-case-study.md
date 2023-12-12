@@ -11,7 +11,7 @@ topics:
   - analytics
   - user-testing-and-research
   - user-experience
-  - customer-satisfaction
+  - customer-experience
   - GobiernoUSAgov
   - responsive-web-design
   - usability-case-study

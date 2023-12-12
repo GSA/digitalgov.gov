@@ -8,7 +8,7 @@ authors:
   - rflagg
 topics:
   - product-management
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - customer-experience
 

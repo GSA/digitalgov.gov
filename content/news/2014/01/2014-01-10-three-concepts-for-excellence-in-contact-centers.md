@@ -10,7 +10,7 @@ topics:
   - product-management
   - aoi
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - government-contact-centers
 ---
 

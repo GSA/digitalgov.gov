@@ -11,7 +11,7 @@ topics:
   - agile
   - content-strategy
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - analytics
   - federal-emergency-management-agency

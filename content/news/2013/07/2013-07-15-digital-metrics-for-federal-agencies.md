@@ -8,7 +8,7 @@ authors:
 topics:
   - analytics
   - our-work
-  - customer-satisfaction
+  - customer-experience
   - mobile
   - social-media
   - usability

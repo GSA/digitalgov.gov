@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States

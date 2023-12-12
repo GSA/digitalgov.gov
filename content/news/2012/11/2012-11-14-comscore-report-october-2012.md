@@ -7,7 +7,7 @@ authors:
   - marina-fox
 topics:
   - analytics
-  - customer-satisfaction
+  - customer-experience
   - analytics
 ---
 

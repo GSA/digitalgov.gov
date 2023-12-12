@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - accessibility
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - user-experience
   

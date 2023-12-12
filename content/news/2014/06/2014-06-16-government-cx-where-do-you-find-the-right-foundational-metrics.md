@@ -9,7 +9,7 @@ topics:
   - product-management
   - analytics
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - Export-Import Bank of the United States
 ---
 

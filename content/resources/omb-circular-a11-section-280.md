@@ -19,7 +19,7 @@ source: performancegov
 topics:
   - customer-experience
   - policy
-  - customer-satisfaction
+  - customer-experience
   - customer-service
 
 # Page weight: controls how this page appears across the site

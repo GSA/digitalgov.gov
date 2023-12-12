@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - analytics
   - budgeting-and-performance

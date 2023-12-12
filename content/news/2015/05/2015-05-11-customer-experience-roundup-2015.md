@@ -11,7 +11,7 @@ topics:
   - product-management
   - diversity-equity-and-inclusion
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - personas
 
 ---

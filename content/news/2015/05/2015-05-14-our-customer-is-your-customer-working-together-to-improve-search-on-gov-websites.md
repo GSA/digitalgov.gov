@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - our-work
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - customer-service
   - search
   - search-engine-optimization
