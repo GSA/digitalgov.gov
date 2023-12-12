@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - user-testing-and-research
   - application-programming-interface
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - data-gov
   - Federal CrowdSource Mobile Testing Program
   - NREL

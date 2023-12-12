@@ -10,7 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - monthly-theme
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - epa
   - us-environmental-protection-agency
 ---

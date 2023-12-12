@@ -15,7 +15,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - Consumer Product Safety Commission
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - FCPCCS
   - NARA
   - nasa

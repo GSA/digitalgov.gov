@@ -13,7 +13,7 @@ topics:
   - communication
   - plain-language
   - communication
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 # See all authors at https://digital.gov/authors
 authors:
   - frances-carden

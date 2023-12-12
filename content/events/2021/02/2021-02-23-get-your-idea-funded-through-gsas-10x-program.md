@@ -14,7 +14,7 @@ end_date: 2021-03-02 15:00:00 -0500
 topics:
   - 10x
   - innovation
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 # See all authors at https://digital.gov/authors
 authors:
   - will-cahoe

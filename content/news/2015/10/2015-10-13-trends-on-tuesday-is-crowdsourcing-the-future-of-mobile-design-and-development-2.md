@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - apps-challenges
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - FCPCCS
   - mobile
   - nasa

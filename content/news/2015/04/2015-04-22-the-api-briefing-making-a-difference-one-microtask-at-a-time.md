@@ -11,7 +11,7 @@ topics:
   - mobile
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - DOE
   - FCPCCS
   - federal-emergency-management-agency

@@ -10,7 +10,7 @@ topics:
   - challenge-gov
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - OSTP
 ---
 

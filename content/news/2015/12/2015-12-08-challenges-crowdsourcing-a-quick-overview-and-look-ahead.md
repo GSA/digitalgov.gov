@@ -15,7 +15,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - epa
   - FCPCCS
   - national-institute-of-standards-and-technology

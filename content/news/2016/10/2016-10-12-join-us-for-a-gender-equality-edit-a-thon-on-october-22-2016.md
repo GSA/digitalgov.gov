@@ -12,7 +12,7 @@ topics:
   - mobile
   - user-testing-and-research
   - content-strategy
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - NARA
   - national-archives-and-records-administration
   - research

@@ -9,12 +9,12 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - the-data-briefing
 
 ---
 
-The [open source]({{< ref "/topics/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< ref "/topics/crowdsourcing" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform.
+The [open source]({{< ref "/topics/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< ref "/topics/crowdsourcing-and-citizen-science" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform.
 
 {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="nevarpp/iStock/Thinkstock" >}} 
 

@@ -9,7 +9,7 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - challenge-gov
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - dhs
   - recaps
   - united-states-department-of-homeland-security

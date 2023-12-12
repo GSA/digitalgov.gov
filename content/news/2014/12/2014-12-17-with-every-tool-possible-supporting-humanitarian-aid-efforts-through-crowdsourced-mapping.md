@@ -8,7 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - monthly-theme
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - data
   - open-data
   - peace-corps

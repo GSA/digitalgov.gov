@@ -12,7 +12,7 @@ topics:
   - video
   - communication
   - accessibility
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - FCC
   - federal-communications-commission
   - infographic

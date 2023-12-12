@@ -9,7 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - challenge-gov
   - content-strategy
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - recaps
 # See all authors at https://digital.gov/authors
 authors:

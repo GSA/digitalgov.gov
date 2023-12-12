@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - internet-of-things
   - artificial-intelligence
   - the-data-briefing

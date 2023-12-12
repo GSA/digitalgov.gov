@@ -13,7 +13,7 @@ topics:
   - aoi
   - Census
   - content-strategy
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - Defense Finance and Accounting Services
   - DFAS
   - DOT

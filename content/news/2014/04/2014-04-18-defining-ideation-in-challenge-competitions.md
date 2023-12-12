@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - Federal Trade Commission
   - FTC
   - National Eye Institute

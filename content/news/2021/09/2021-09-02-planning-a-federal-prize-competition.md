@@ -10,7 +10,7 @@ topics:
   - challenges-and-prize-competitions
   - challenge-gov
   - content-strategy
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 # See all authors at https://digital.gov/authors
 authors:
   - quinn-slayton

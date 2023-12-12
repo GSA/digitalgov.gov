@@ -23,7 +23,7 @@ topics:
   - software-engineering
   - open
   - open-source
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 
 # see all authors at https://digital.gov/authors
 authors:

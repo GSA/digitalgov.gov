@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - monthly-theme
   - 18f
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - HHS
   - open-opportunities-program
   - us-department-of-state

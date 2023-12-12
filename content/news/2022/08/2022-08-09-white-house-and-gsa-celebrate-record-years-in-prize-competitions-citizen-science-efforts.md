@@ -19,7 +19,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - challenges-and-prizes-community-of-practice
   - challenge-gov
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - white-house-office-of-science-and-technology-policy
   - white-house

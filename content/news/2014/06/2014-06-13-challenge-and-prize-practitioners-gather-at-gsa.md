@@ -10,7 +10,7 @@ topics:
   - code
   - challenge-gov
   - challenges-and-prizes-community-of-practice
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - HUD
   - innovation
   - nasa

@@ -12,7 +12,7 @@ topics:
   - social-media
   - CNCS
   - Corporation for National and Community Service
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - DOT
   - internet-of-things
   - mobile

@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - FCPCCS
   - NARA
   - OSTP

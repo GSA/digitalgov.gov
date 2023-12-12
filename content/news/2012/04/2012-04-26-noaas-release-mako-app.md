@@ -6,7 +6,7 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - mobile-apps
   - mobile-gov-experience
   - NOAA

@@ -13,7 +13,7 @@ end_date: 2022-07-20 16:00:00 -0500
 topics:
   - challenges
   - diversity-equity-and-inclusion
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - open
   - innovation

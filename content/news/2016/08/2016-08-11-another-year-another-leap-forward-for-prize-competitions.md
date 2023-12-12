@@ -12,7 +12,7 @@ topics:
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - gsa
   - OSTP
   - white-house

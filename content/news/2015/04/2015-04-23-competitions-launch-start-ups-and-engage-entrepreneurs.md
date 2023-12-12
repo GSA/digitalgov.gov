@@ -10,7 +10,7 @@ topics:
   - communities
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - national-institutes-of-health
   - nih
   - OSTP

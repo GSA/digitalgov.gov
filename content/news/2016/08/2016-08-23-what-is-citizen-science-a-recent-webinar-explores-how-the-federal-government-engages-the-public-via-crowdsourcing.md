@@ -10,7 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - communities
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - recaps
 
 ---

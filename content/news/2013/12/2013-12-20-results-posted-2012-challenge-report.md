@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - our-work
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - OSTP
   - white-house
 ---

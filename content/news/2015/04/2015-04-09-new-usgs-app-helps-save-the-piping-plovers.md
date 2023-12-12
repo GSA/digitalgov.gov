@@ -8,7 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - Federal Mobile Products Registry
   - native-app
   - thursday-mobile-products

@@ -13,7 +13,7 @@ topics:
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - Consumer Financial Protection Bureau
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - nasa
   - open-source
   - OSTP

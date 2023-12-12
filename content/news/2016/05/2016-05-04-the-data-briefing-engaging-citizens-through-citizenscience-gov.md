@@ -9,7 +9,7 @@ topics:
   - code
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - epa
   - nasa
   - NPS

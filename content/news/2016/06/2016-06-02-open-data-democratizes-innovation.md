@@ -20,7 +20,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - data
   - data-visualization
   - epa

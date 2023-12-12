@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - monthly-theme
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - federal-emergency-management-agency
   - fema
   - nasa

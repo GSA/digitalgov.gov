@@ -17,7 +17,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - content-strategy
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - mobile
   - mobile-apps
   - mobile-gov

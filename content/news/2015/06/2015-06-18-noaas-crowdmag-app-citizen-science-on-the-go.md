@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - user-testing-and-research
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - Federal CrowdSource Mobile Testing Program
   - content-strategy
   - ios

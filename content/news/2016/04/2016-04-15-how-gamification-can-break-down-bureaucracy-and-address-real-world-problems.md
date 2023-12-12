@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - product-management
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - content-strategy
   - office-of-naval-research
   - united-states-navy

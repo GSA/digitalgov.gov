@@ -10,7 +10,7 @@ topics:
   - data
   - product-management
   - user-testing-and-research
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - Law Library of Congress
   - LOC
   - metadata

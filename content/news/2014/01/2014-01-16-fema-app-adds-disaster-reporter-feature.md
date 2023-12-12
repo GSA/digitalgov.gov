@@ -7,7 +7,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - social-media
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

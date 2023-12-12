@@ -18,7 +18,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - Consumer Financial Protection Bureau
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - epa
   - FCPCCS
   - gsa

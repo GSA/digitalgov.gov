@@ -17,7 +17,7 @@ topics:
   - our-work
   - social-media
   - user-experience
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - digitalgov-summit
 
 ---

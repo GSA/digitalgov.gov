@@ -30,7 +30,7 @@ authors:
 # Topics that best describe this product or service
 topics:
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
 
 ---

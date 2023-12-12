@@ -18,7 +18,7 @@ end_date: 2019-04-09 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science

@@ -26,7 +26,7 @@ authors:
 # see all topics at https://digital.gov/topics
 topics: 
   - challenges
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - innovation
   - open
 

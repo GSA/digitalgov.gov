@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - challenge-gov
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - HUD
   - recaps
   - united-states-department-of-housing-and-urban-development
