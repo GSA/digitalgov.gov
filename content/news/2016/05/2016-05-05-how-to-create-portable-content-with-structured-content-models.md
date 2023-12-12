@@ -7,7 +7,6 @@ topics:
   - content-strategy
   - cdc
   - centers-for-disease-control-and-prevention
-  - content-syndication
   - HHS
   - mobile-gov-community-of-practice
   - mobile-gov

@@ -8,8 +8,6 @@ authors:
 topics:
   - content-strategy
   - CMS
-  - content-strategy
-  - content-syndication
   - drupal
   - HHS
   - open-and-structured-content-models

@@ -11,7 +11,7 @@ topics:
   - application-programming-interface
   - cdc
   - centers-for-disease-control-and-prevention
-  - content-syndication
+  - content-strategy
   - OPM
   - united-states-office-of-personnel-management
   - application-programming-interface

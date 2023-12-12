@@ -7,9 +7,6 @@ authors:
   - victoria-wales
 topics:
   - content-strategy
-  - content-strategy
-  - content-strategy
-  - content-syndication
   - communication
   - analytics
   - multilingual

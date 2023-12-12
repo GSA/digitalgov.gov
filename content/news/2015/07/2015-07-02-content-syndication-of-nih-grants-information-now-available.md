@@ -7,7 +7,6 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
-  - content-syndication
   - HHS
   - national-institutes-of-health
   - nih

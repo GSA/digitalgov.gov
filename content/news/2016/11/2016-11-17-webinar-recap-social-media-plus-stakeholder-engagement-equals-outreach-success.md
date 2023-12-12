@@ -11,9 +11,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - cdc
-  - content-strategy
-  - content-strategy
-  - content-syndication
   - multilingual
   - recaps
   - social-media

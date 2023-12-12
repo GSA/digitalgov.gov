@@ -11,8 +11,6 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - content-strategy
-  - content-strategy
-  - content-syndication
   - fda
   - HHS
   - national-institutes-of-health
@@ -74,4 +72,4 @@ These resources are offered through federal digital media syndication sites that
 
 <div class="Divider3">
   If you need additional information or have any feedback, please contact the Syndication team <a href="mailto:Syndication@nih.gov">via email</a>. <a href="https://digitalmedia.hhs.gov/storefront/usageGuidelines">Usage guidelines</a> for the HHS Syndication Storefront are also available.
-</div>_This post was originally published on the [ICMA blog](http://icma.org/en/icma/knowledge_network/blogs/blog/26/ICMA__blog) and shared on DigitalGov.gov with permission of the author._ _Check out our recent DigitalGov articles on the benefits of [content syndication]({{< ref "/topics/content-syndication" >}}) and effective [content strategies]({{< ref "/topics/content-strategy" >}})._
+</div>_This post was originally published on the [ICMA blog](http://icma.org/en/icma/knowledge_network/blogs/blog/26/ICMA__blog) and shared on DigitalGov.gov with permission of the author._ _Check out our recent DigitalGov articles on the benefits of [content syndication]({{< ref "/topics/content-strategy" >}}) and effective [content strategies]({{< ref "/topics/content-strategy" >}})._

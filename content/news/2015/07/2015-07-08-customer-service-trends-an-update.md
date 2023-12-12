@@ -9,7 +9,7 @@ topics:
   - product-management
   - user-experience
   - agile
-  - content-syndication
+  - content-strategy
   - COPE
   - customer-experience
   - customer-satisfaction

@@ -1,3 +1,4 @@
+
 ---
 slug: grow-your-content-base-with-new-contributions-to-the-hhs-syndication-storefront
 date: 2016-06-01 10:00:39 -0400
@@ -7,7 +8,6 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
-  - content-syndication
   - HHS
   - national-institutes-of-health
   - nih

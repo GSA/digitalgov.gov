@@ -11,8 +11,7 @@ topics:
   - strategy
   - policy
   - content-strategy
-  - content-strategy
-  - content-syndication
+
   - HHS
   - HRSA
   - mobile

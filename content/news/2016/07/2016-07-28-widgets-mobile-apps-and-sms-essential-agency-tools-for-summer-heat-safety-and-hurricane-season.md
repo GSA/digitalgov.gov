@@ -12,7 +12,6 @@ topics:
   - mobile
   - social-media
   - content-strategy
-  - content-syndication
   - mobile
   - mobile-apps
   - multilingual
