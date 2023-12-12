@@ -9,7 +9,7 @@ topics:
   - code
   - design
   - monthly-theme
-  - the-data-briefing
+  - emerging-tech
   - US Department of Agriculture
   - USDA
   - user-experience
@@ -47,5 +47,5 @@ From the iTunes description: “Ask Karen provides 24/7 assistance and tips on p
 
 Good UX design is essential to unlocking the value of federal government data. Understanding the neuroscience and communication theory behind how people process information will help the developers, agency communicators and data scientists best present and deliver vitally-needed data products and services to the American public.
 
-{{< legacy-img src="2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" alt="Support and food allergies screens of the USDA Ask Karen iPhone app." >}}_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+{{< legacy-img src="2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" alt="Support and food allergies screens of the USDA Ask Karen iPhone app." >}}_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

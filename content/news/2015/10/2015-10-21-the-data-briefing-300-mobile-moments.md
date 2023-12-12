@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - data
   - mobile
-  - the-data-briefing
+  - emerging-tech
  
 
 ---
@@ -37,6 +37,6 @@ The list of more than 300 federal mobile apps is a great snapshot of the various
 
 _Is your agency&#8217;s app missing from the [USA.gov Mobile Apps Directory](https://www.usa.gov/mobile-apps)? Join the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}) and learn how you can add it._
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

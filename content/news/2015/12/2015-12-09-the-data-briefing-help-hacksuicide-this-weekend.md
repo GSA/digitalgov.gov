@@ -13,7 +13,7 @@ topics:
   - data-gov
   - mobile-apps
   - open-data
-  - the-data-briefing
+  - emerging-tech
   - us-department-of-veterans-affairs
   - United States Patent and Trademark Office
   - USPTO
@@ -31,5 +31,5 @@ In **Boston**, the Department of Veterans Affairs Healthcare System, in Jamaica 
 
 **New York** is the fifth city to hold a hackathon. The Crisis Text Line will host the event with the goal of creating an open API that all suicide prevention services can use for reporting suicide prevention efforts. By enabling the aggregation of suicide reporting on a national basis, better decisions about resource allocation and assigning services where they are most needed, can be done much more rapidly—and more important—effectively.
 
-Please visit the <a href="http://www.innovation.va.gov/suicideprevention/" target="_blank">Open Data and Innovations for Suicide Prevention</a> page to register. Space is limited, so register early. If you are not able to attend the hackathons, there will be other opportunities to help #HackSuicide._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+Please visit the <a href="http://www.innovation.va.gov/suicideprevention/" target="_blank">Open Data and Innovations for Suicide Prevention</a> page to register. Space is limited, so register early. If you are not able to attend the hackathons, there will be other opportunities to help #HackSuicide._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

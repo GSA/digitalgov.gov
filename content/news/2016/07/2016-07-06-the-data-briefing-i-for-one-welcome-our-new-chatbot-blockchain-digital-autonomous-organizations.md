@@ -19,7 +19,7 @@ topics:
   - data
   - emerging-tech
   - security
-  - the-data-briefing
+  - emerging-tech
   - user-experience
   
 ---

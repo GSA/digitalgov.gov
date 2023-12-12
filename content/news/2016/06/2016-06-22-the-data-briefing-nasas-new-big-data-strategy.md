@@ -13,7 +13,7 @@ topics:
   - analytics
   - data
   - nasa
-  - the-data-briefing
+  - emerging-tech
 ---
 
 Few other federal agencies deal with as much data as the National Aeronautics and Space Administration (NASA). Big science creates big data, and NASA manages many of the biggest science projects in world history. Even in the early days of NASA’s history, NASA pioneered new ways to create and store data. So, in the world of the [cloud]({{< ref "2013-10-17-cloud-computing-in-the-federal-government.md" >}}), [Internet of Things]({{< ref "2015-11-03-trends-on-tuesday-forecasting-the-internet-of-things.md" >}}), and [intelligent agents]({{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}), how does NASA deal with its big data needs? {{< legacy-img src="2016/06/600-x-400-NASA-Expedition-46-Soyuz-Approaches-Space-Station-for-Docking-23682901352\_488a786d26\_o.jpg" alt="Expedition 46 of the Soyuz spacecraft as it approaches the International Space Station (I.S.S.) for docking." caption="" >}} 
@@ -35,5 +35,5 @@ The second prong of NASA’s data strategy is to create a Data Analytics Lab and
 
 The third prong is the Data Stewards program. NASA already has informal data stewards who oversee the proper management of data assets. However, by formalizing the data steward role, NASA is sending a clear message to the rest of the organization about proper data management. The Data Stewards program is a great concept that other agencies should establish.
 
-NASA is a pioneering agency with a lot of firsts. This data strategy may not be as exciting as landing people on the Moon, populating Mars with robots, and [flying by Pluto]({{< ref "2015-07-16-dwarf-planet-giant-numbers-nasas-mission-to-pluto-goes-global.md" >}}). However, good data management was and still is the key to these amazing triumphs. NASA’s data strategy is a good example of how to journey through the new world of big data management._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+NASA is a pioneering agency with a lot of firsts. This data strategy may not be as exciting as landing people on the Moon, populating Mars with robots, and [flying by Pluto]({{< ref "2015-07-16-dwarf-planet-giant-numbers-nasas-mission-to-pluto-goes-global.md" >}}). However, good data management was and still is the key to these amazing triumphs. NASA’s data strategy is a good example of how to journey through the new world of big data management._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

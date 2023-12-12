@@ -11,7 +11,7 @@ topics:
   - data
   - emerging-tech
   - product-management
-  - the-data-briefing
+  - emerging-tech
   - user-experience
   - emerging-tech
   - artificial-intelligence

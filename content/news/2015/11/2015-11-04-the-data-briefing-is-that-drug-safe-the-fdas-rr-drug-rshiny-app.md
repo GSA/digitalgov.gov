@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - fda
-  - the-data-briefing
+  - emerging-tech
   - us-food-and-drug-administration
   - United States Patent and Trademark Office
   - USPTO

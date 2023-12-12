@@ -13,7 +13,7 @@ topics:
   - HHS
   - nasa
   - open-data
-  - the-data-briefing
+  - emerging-tech
   - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office
   - USPTO
@@ -38,5 +38,5 @@ You can see two examples of the ecosystem approach in the federal government. Fi
 A second example is the Department of Health and Human Services’s (HHS) <a href="http://ddod.healthdata.gov/wiki/Main_Page" target="_blank">Demand-Driven Open Data (DDOD)</a>. <a href="{{< ref "2016-02-17-the-data-briefing-demand-driven-open-data-at-health-and-human-services.md" >}}" target="_blank">As I wrote in a previous column</a>, users create a “use case” when requesting data. A use case describes not only the data requested but also how the data will be used and who will benefit from the open data. The use cases are compiled into a library that is searched by other potential requestors. The goal is to create a community around released open datasets and APIs. Add the communities together and HHS has an ecosystem around all of its open data.
 
 As more federal agencies adopt an ecosystem approach to open data, a larger federal ecosystem of ecosystems can be created. The benefits of a federal ecosystem is that it will be easier to share open data; open data products and applications; and open data development best practices. Also, I can see how easily Human-Centered Design (HCD) and Agile Development can be incorporated into the ecosystem approach. However, the most beneficial advantage to the ecosystem approach is that good customer service is built in through the robust feedback loops between the open data providers, the open data users, and open data beneficiaries._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

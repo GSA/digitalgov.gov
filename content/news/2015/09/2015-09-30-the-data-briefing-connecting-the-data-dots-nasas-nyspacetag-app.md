@@ -11,7 +11,7 @@ topics:
   - mobile-apps
   - nasa
   - open-data
-  - the-data-briefing
+  - emerging-tech
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -32,7 +32,7 @@ This is a great solution not only for NASA’s data but for all federal agencies
 
 Not just the keyword search or even the “related to” conceptual searching is enough. A tool that can display how data from one agency could be connected to another agency’s dataset to derive a complete picture of the subject would be ideal: for example, how the Department of Transportation (DOT) road maintenance grant information can be connected to Bureau of Labor Statistics survey data. This combination of data can demonstrate the link between DOT grant funding and optimal hiring levels in the local construction industry.
 
-Open data is a great start, but the real promise lies in the innovations that are created when developers and citizens can create insights by connecting the dots between the federal government’s datasets._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+Open data is a great start, but the real promise lies in the innovations that are created when developers and citizens can create insights by connecting the dots between the federal government’s datasets._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
 Want to read more great content like this? Sign up for our <a href="https://public.govdelivery.com/accounts/USHOWTO/subscriber/new" target="_blank">daily or weekly DigitalGov newsletter</a>!

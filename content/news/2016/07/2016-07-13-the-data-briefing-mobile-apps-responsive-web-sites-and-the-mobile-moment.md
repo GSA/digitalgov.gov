@@ -17,7 +17,7 @@ topics:
   - native-apps
   - open-data
   - responsive-web-design
-  - the-data-briefing
+  - emerging-tech
 
 ---
 
@@ -36,5 +36,5 @@ I also wonder if [chatbots]({{< ref "2016-07-06-the-data-briefing-i-for-one-welc
 **On a related note**: The National Oceanic and Atmospheric Administration (NOAA) just [released a data set of rain data reaching back to 1991](https://www.meritalk.com/articles/noaa-encourages-apps-from-big-data-sets/). What is unique about this release is that NOAA’s Big Data Project released the data set to the clouds provided by Amazon, Google, IBM, Microsoft, and the Open Cloud Consortium. The purpose is to encourage mobile app developers to create third-party applications based on the data set. According to NOAA, there will be more data sets released, including data from a planned joint NOAA-NASA (National Aeronautics and Space Administration) environmental satellite project.
 
 Whether it is through mobile apps, responsive websites, or large data sets, the U.S. federal government is still committed to using its vast data assets for the benefit of the American public._(GovInsider, Government Computing News, Amazon, Google, IBM, Microsoft, and the Open Cloud Consortium were used only for illustrative purposes and did not imply endorsement by the General Services Administration and the U.S. Federal Government.)_
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

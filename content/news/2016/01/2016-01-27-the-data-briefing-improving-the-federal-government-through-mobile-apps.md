@@ -11,7 +11,7 @@ topics:
   - code
   - mobile-apps
   - nasa
-  - the-data-briefing
+  - emerging-tech
 
 ---
 

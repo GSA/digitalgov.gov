@@ -13,7 +13,7 @@ topics:
   - epa
   - nasa
   - NPS
-  - the-data-briefing
+  - emerging-tech
   - US Department of Agriculture
   - us-environmental-protection-agency
   - us-national-park-service

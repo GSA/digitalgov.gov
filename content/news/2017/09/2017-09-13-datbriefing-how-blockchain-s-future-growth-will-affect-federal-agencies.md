@@ -15,7 +15,7 @@ topics:
   - artificial-intelligence
   - data
   - security
-  - the-data-briefing
+  - emerging-tech
   - emerging-tech
   - rpa
 

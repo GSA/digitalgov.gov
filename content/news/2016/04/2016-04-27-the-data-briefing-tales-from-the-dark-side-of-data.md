@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - the-data-briefing
+  - emerging-tech
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -26,4 +26,4 @@ Sometimes, data science reads like an Edgar Allen Poe story. Datasets are locked
 
 Data has to be managed, stored and used carefully and effectively. The ability to create and collect data has become a blessing to the government as it helps us to make better-informed decisions and is a [major component of today’s global economy]({{< ref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}). However, data can also be a curse because of bad decisions based on expired data or lost data. The key is to have clear objectives for collecting and using the data while having a management plan for the lifecycle of the data. Data horror stories are not good for government or the American public.
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -11,7 +11,7 @@ topics:
   - data
   - data-visualization
   - open-data
-  - the-data-briefing
+  - emerging-tech
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -32,5 +32,5 @@ You can combine the PatentsView data with Census data such as a community’s ag
 
 I like the concept of code halos, and I believe they play a vital role in the economy now and in the future. I also think that a major source of digital information for many code halos is produced by the federal government. We will explore this thought in further columns about federal government data._ (The term “code halos” is trademarked by Cognizant Technology Solutions U.S. Corporation. The use of Code Halo or Google are for illustrative purposes only and should not be construed as an endorsement by the U.S. federal government or its agencies.)_ 
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

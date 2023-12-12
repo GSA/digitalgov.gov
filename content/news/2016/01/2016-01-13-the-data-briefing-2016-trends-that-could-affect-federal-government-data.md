@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - emerging-tech
-  - the-data-briefing
+  - emerging-tech
   - United States Patent and Trademark Office
   - USPTO
 ---

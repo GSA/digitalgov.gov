@@ -11,7 +11,7 @@ topics:
   - data-visualization
   - open-data
   - State
-  - the-data-briefing
+  - emerging-tech
   - us-department-of-state
 ---
 
@@ -29,5 +29,5 @@ On the upper-right side at the top of the chart, I can create an image of the ch
 
 The design is well-done because it makes creating the data visualizations simple and intuitive. It took some clicking around to figure out basic features such as the Year Slider functionality. Realizing that the primary audience will be scholars and global development specialists, it would be helpful to have tutorials and other aids to help general users make sense of the visualizations they create. Why would a scatter chart be useful in visualizing two indicators? What kind of measures work best with specific chart types?
 
-Sites like FIND are a welcome trend as more agencies release data visualization tools in Beta. First, agencies are not just releasing data but are making the data more useful and user-friendly. Second, the data visualization tools are showcasing innovative programming by the agencies. And third, data visualization sites are great ways to engage the American public. Letting citizens explore the data on their own helps educate users about the issues around the data and provides a better customer experience in using government services._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+Sites like FIND are a welcome trend as more agencies release data visualization tools in Beta. First, agencies are not just releasing data but are making the data more useful and user-friendly. Second, the data visualization tools are showcasing innovative programming by the agencies. And third, data visualization sites are great ways to engage the American public. Letting citizens explore the data on their own helps educate users about the issues around the data and provides a better customer experience in using government services._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -13,7 +13,7 @@ topics:
   - DOL
   - HHS
   - open-data
-  - the-data-briefing
+  - emerging-tech
   - us-department-of-labor
   - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office
@@ -81,5 +81,5 @@ I do not know the answer to that question, but I do know some federal agencies d
 
 The Developer Portal at the Department of Labor (DOL) is also a well-designed site to help users more effectively use labor datasets and APIs. On the Developer Portal homepage, users can choose the “Beginner” or “Experienced” path through the DOL site. There is a <a href="http://developer.dol.gov/beginners-guide/" target="_blank">tutorial on how the DOL APIs work</a> and extensive documentation in <a href="http://developer.dol.gov/beginner/" target="_blank">eight different programming languages for the DOL APIs</a>. The datasets catalog is well-organized with good descriptions of the datasets and how to use them.
 
-There was, and still may be, an expectation that users who access federal government data would know how to use the data properly. However, this may no longer be true given the great value of federal data; the increasing number of datasets and APIs being published; and the new tools that make it easy to access datasets and APIs. In the interests of public safety, economic innovation and increasing trust in government, maybe federal agencies should increase their training efforts in how to use federal government open data._Answers to the pop quiz: 1.B; 2. B; 3. D_._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+There was, and still may be, an expectation that users who access federal government data would know how to use the data properly. However, this may no longer be true given the great value of federal data; the increasing number of datasets and APIs being published; and the new tools that make it easy to access datasets and APIs. In the interests of public safety, economic innovation and increasing trust in government, maybe federal agencies should increase their training efforts in how to use federal government open data._Answers to the pop quiz: 1.B; 2. B; 3. D_._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

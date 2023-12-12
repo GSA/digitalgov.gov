@@ -12,7 +12,7 @@ topics:
   - policy
   - analytics
   - data
-  - the-data-briefing
+  - emerging-tech
 ---
 
 A [recent study of big data initiatives in 65 cities](http://www.businessofgovernment.org/report/ten-actions-implement-big-data-initiatives-study-65-cities) has interesting guidance for Federal big data initiatives. The researchers studied how data is collected and then used for decision making in what they called “the framework for Big Data initiatives.” There are two major cycles in the framework:

@@ -11,7 +11,7 @@ topics:
   - indian-health-service
   - innovation
   - open-data
-  - the-data-briefing
+  - emerging-tech
 
 ---
 

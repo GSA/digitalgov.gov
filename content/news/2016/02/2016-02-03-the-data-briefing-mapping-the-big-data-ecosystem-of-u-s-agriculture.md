@@ -14,7 +14,7 @@ topics:
   - Library of Congress
   - LOC
   - open-data
-  - the-data-briefing
+  - emerging-tech
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -38,5 +38,5 @@ The same could be said of any industry touched by big data that is a combination
 
 The <a href="{{< ref "2015-12-16-the-data-briefing-does-the-federal-government-have-an-obligation-to-educate-open-data-users.md" >}}">December 16, 2015, Data Briefing</a> dealt with the question of the U.S. government’s responsibility to educate users of federal open data. Recently, the Department of Commerce released the <a href="https://www.commerce.gov/datausability/">Commerce Data Usability Project</a> (CDUP), which is a series of tutorials on how to use various Commerce datasets. You can read more about it on <a href="{{< ref "2016-01-29-moving-from-open-data-to-open-knowledge-announcing-the-commerce-data-usability-project.md" >}}">DigitalGov</a>. The CDUP is a great example of how to provide tutorials for using federal open data sources.
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office (USPTO)’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

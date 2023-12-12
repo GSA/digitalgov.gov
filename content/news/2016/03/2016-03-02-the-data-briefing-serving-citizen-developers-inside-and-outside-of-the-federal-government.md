@@ -11,7 +11,7 @@ topics:
   - application-programming-interface
   - data
   - open-data
-  - the-data-briefing
+  - emerging-tech
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -28,5 +28,5 @@ What about citizen developers inside the federal government? I was not able to f
 
 As agencies continue to build APIs and release datasets, agencies should consider how citizen developers may use the federal government’s open data. Although app developers are an important audience, the increasing importance of citizen developers requires just as much consideration when agencies design APIs and associated training materials._*API – Application Programming Interface are how software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 _(IFTTT, Quickbase, Microsoft Excel, Gartner, and IBM were used illustrative purposes and did not imply endorsement by the federal government or any specific federal agency.)_
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

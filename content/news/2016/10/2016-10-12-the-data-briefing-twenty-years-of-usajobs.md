@@ -19,7 +19,7 @@ topics:
   - data
   - gsa
   - lean
-  - the-data-briefing
+  - emerging-tech
   - us-general-services-administration
   - user-centered-design
 ---

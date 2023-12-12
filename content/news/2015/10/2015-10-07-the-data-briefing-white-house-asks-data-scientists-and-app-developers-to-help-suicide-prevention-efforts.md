@@ -10,7 +10,7 @@ topics:
   - mobile-apps
   - native-apps
   - open-data
-  - the-data-briefing
+  - emerging-tech
 
 ---
 
@@ -34,7 +34,7 @@ The Centers for Disease Control and Prevention’s (CDC) <a href="http://www.cdc
 
 Effective suicide prevention relies on helping individuals find the support they need, helping friends and families spot the warning signs and linking community resources to immediate mental health needs. If you are a data scientist, an app developer, or just have a good idea, please consider helping in making people’s lives better by reducing the risk of suicide in American society.
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 

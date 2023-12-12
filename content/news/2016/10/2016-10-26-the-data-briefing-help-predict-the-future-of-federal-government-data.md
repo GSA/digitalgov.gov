@@ -28,7 +28,7 @@ topics:
   - privacy
   - research
   - security
-  - the-data-briefing
+  - emerging-tech
   - virtual-reality
   - virtual-augmented-reality-community
 ---
