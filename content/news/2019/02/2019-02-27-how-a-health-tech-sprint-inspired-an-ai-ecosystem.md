@@ -11,9 +11,7 @@ authors:
 topics:
   - code
   - pif
-  
   - mobile
-  - va
   - open-data
   - artificial-intelligence
   - innovation
