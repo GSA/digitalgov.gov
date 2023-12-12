@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - COPE
   - metadata
   - open-and-structured-content-models
   - responsive-web-design

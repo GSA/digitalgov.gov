@@ -10,7 +10,6 @@ topics:
   - user-experience
   - agile
   - content-strategy
-  - COPE
   - customer-experience
   - customer-satisfaction
   - customer-service

@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - cdc
   - centers-for-disease-control-and-prevention
-  - COPE
   - open-and-structured-content-models
 ---
 

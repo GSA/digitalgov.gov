@@ -10,7 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - content-strategy
-  - COPE
   - HHS
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5

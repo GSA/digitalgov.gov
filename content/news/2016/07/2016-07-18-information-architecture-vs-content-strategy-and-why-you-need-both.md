@@ -10,9 +10,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - content-strategy
-  - content-strategy
-  - COPE
+
   - internet-of-things
   - open-and-structured-content-models
 ---

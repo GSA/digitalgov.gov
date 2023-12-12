@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - COPE
   - mobile
   - mobile-ux-guideline-1
   - mobile-first

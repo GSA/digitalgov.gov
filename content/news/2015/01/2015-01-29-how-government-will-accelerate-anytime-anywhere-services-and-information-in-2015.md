@@ -12,7 +12,7 @@ topics:
   - monthly-theme
   - aoi
   - Census
-  - COPE
+  - content-strategy
   - crowdsourcing
   - Defense Finance and Accounting Services
   - DFAS

@@ -12,7 +12,6 @@ topics:
   - application-programming-interface
   - CMS
   - content-strategy
-  - COPE
   - government-contact-centers
   - the-content-corner
   - usa-gov

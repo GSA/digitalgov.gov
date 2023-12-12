@@ -12,8 +12,6 @@ topics:
   - administrative-office-of-the-united-states-courts
   - application-programming-interface
   - CMS
-  - content-strategy
-  - COPE
   - national-institutes-of-health
   - nih
   - open-and-structured-content-models

@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - user-testing-and-research
-  - COPE
+  - content-strategy
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile-apps

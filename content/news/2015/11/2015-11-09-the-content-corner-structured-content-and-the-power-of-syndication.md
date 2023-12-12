@@ -12,7 +12,6 @@ topics:
   - application-programming-interface
   - cdc
   - centers-for-disease-control-and-prevention
-  - COPE
   - fda
   - HHS
   - mobile
