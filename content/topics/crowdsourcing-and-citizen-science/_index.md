@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/citizen-science
+# https://digital.gov/topics/crowdsourcing-and-citizen-science
 
-slug: "citizen-science"
+slug: "crowdsourcing-and-citizen-science"
 
 # Topic Title
-title: "Citizen Science"
+title: "Crowdsourcing and Citizen Science"
 
 # description — keep it short and clear
 summary: ""
