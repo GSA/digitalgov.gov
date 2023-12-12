@@ -13,7 +13,6 @@ topics:
   - best-practices
   - cloud-and-infrastructure
   - emerging-tech
-  - IoT
   - national-institute-of-standards-and-technology
   - NIST
   - security

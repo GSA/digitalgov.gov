@@ -13,7 +13,6 @@ topics:
   - department-of-commerce
   - innovation
   - emerging-tech
-  - IoT
   - mobile
   - open-data
   - the-data-briefing

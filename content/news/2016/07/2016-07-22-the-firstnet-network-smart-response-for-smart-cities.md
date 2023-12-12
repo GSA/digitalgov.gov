@@ -11,7 +11,6 @@ topics:
   - mobile
   - firstnet
   - emerging-tech
-  - IoT
   - mobile
 ---
 

@@ -16,7 +16,6 @@ topics:
   - artificial intelligence
   - innovation
   - emerging-tech
-  - IoT
   - mobile
 
 ---

@@ -24,7 +24,6 @@ topics:
   - data
   - innovation
   - emerging-tech
-  - IoT
   - open-data
   - privacy
   - research

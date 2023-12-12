@@ -10,7 +10,6 @@ topics:
   - content-strategy
   - policy
   - emerging-tech
-  - IoT
   - national-institute-of-standards-and-technology
   - NIST
   - security

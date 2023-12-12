@@ -15,7 +15,6 @@ topics:
   - department-of-commerce
   - innovation
   - emerging-tech
-  - IoT
   - national-institute-of-standards-and-technology
   - NIST
   - security
