@@ -18,7 +18,7 @@ topics:
   - infrastructure
   - innovation
   - budgeting-and-performance
-  - ITMF
+  - budgeting-and-performance
   - National Cyber Security Awareness Month
   - Office of Management and Budget
   - OMB
