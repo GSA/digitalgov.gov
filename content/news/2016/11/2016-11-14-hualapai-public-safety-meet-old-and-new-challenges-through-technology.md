@@ -17,7 +17,6 @@ topics:
   - user-testing-and-research
   - video
   - audio-video
-  - broadband
   - data
   - firstnet
   - mobile

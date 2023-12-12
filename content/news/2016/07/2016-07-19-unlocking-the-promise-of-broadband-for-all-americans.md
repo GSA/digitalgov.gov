@@ -8,8 +8,6 @@ authors:
   - jason-furman
 topics:
   - mobile
-  - mobile
-  - broadband
   - innovation
   - mobile
   - mobile-gov
