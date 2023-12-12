@@ -13,7 +13,7 @@ topics:
   - application-programming-interface
   - data
   - open-data
-  - prototype
+  - design
   - us-department-of-education
   - us-digital-service
   - user-experience

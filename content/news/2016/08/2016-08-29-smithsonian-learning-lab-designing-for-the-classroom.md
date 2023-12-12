@@ -10,7 +10,7 @@ topics:
   - product-management
   - user-testing-and-research
   - content-strategy
-  - prototype
+  - design
   - smithsonian-institution
   - user-centered-design
   - user-experience

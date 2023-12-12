@@ -20,7 +20,7 @@ end_date: 2018-01-26 12:30:00 -0500
 topics: 
   - design
   - uswds
-  - draft-web-design-standards
+  - design
 
 # see all authors at https://digital.gov/authors
 authors: 

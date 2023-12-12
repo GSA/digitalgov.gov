@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
-  - prototype
+  - design
   - usability
   - user-experience
   - user-experience-community-of-practice

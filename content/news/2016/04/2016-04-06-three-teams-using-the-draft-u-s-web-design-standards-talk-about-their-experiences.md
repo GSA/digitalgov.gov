@@ -13,7 +13,7 @@ topics:
   - policy
   - 18f
   - code
-  - draft-web-design-standards
+  - design
   - open-source
   - us-digital-service
   - user-experience

@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - user-experience
   - 18f
-  - draft-web-design-standards
+  - design
   - user-centered-design
   - VA
 ---

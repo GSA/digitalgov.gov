@@ -17,7 +17,7 @@ topics:
   - content-strategy
   - content-strategy
   - customer-experience
-  - draft-web-design-standards
+  - design
   - gsa
   - analytics
   - multilingual

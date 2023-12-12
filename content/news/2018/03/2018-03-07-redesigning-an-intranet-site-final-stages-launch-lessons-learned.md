@@ -20,7 +20,7 @@ topics:
   - national-institutes-of-health
   - nccih
   - nih
-  - prototype
+  - design
   - usability
   - usability-testing
   - user-experience

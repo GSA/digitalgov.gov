@@ -10,7 +10,7 @@ topics:
   - user-experience
   - open-source
   - user-research
-  - prototype
+  - design
   - recaps
 # See all authors at https://digital.gov/authors
 authors:

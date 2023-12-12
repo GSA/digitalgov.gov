@@ -14,7 +14,7 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
-  - prototype
+  - design
   - user-experience
 ---
 

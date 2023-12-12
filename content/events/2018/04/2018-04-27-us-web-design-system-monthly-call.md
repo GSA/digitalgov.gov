@@ -16,7 +16,7 @@ registration_url: https://www.eventbrite.com/e/april-us-web-design-system-call-t
 topics:
   - design
   - uswds
-  - draft-web-design-standards
+  - design
 
 ---
 

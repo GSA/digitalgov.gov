@@ -13,7 +13,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-gov
   - native-apps
-  - prototype
+  - design
   - recaps
 
 ---

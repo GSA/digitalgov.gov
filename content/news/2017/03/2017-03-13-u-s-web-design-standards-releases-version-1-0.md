@@ -14,7 +14,7 @@ topics:
   - policy
   - 18f
   - accessibility
-  - draft-web-design-standards
+  - design
   - responsive-web-design
   - uswds
   - usability

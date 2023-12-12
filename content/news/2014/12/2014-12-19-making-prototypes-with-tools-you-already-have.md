@@ -9,7 +9,7 @@ topics:
   - design
   - user-testing-and-research
   - BLS
-  - prototype
+  - design
   - us-bureau-of-labor-statistics
   - usability-testing
   - user-experience

@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - CMS
   - content-strategy
-  - draft-web-design-standards
+  - design
   - mobile
   - mobile-friendly
   - US Department of Agriculture

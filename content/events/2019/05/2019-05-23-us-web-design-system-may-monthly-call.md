@@ -12,7 +12,7 @@ topics:
   - design
   - product-management
   - uswds
-  - public-sans
+  - design
 
 # see all authors at https://digital.gov/authors
 authors:

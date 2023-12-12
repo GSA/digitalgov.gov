@@ -14,7 +14,7 @@ topics:
   - design
   - product-management
   - uswds
-  - public-sans
+  - design
   - 21st-century-idea
 
 # see all authors at https://digital.gov/authors

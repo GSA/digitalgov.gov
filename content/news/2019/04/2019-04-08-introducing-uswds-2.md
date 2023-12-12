@@ -15,7 +15,7 @@ topics:
   - user-experience
   - accessibility
   - uswds
-  - public-sans
+  - design
 featured_image:
   uid: uswds-2-illio-feature-image-black
   alt: 'A colorful collection of screens and interface components'

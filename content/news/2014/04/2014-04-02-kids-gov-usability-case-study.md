@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - first-click testing
-  - prototype
+  - design
   - usability-case-study
   - user-experience
 ---

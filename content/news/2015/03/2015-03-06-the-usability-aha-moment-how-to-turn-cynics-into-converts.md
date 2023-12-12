@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - National Library of Medicine
   - NLM
-  - prototype
+  - design
   - usability
   - usability-testing
   - user-experience

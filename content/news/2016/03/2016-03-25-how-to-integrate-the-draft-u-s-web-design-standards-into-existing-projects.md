@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - user-experience
   - 18f
-  - draft-web-design-standards
+  - design
 ---
 
 One of the most common questions we receive is: Should I integrate the Draft U.S. Web Design Standards into my existing project?
