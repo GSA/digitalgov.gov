@@ -12,7 +12,7 @@ topics:
   - apps-challenges
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - FCPCCS
+  - crowdsourcing-and-citizen-science
   - mobile
   - nasa
   - trends-on-tuesday

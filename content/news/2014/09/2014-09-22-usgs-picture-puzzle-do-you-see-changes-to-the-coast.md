@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - FCPCCS
+  - crowdsourcing-and-citizen-science
   - GitHub
   - united-states-geological-survey
   - USGS

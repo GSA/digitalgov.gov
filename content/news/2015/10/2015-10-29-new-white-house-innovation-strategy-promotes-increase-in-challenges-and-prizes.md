@@ -11,7 +11,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - FCPCCS
+  - crowdsourcing-and-citizen-science
   - open-opportunities-program
   - OSTP
   - white-house-office-of-science-and-technology-policy

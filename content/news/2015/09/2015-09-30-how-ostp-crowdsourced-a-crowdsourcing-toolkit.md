@@ -15,7 +15,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - analytics
   - search
-  - FCPCCS
+  - crowdsourcing-and-citizen-science
   - open-opportunities-program
   - OSTP
   - content-strategy
