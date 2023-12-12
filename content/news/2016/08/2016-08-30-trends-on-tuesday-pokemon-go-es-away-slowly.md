@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - augmented-reality
-  - gamification
+  - content-strategy
   - mobile
   - mobile-apps
   - trends-on-tuesday

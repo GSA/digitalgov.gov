@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - department-of-commerce
-  - gamification
+  - content-strategy
   - mobile
   - social-media
 ---

@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - crowdsourcing
-  - gamification
+  - content-strategy
   - office-of-naval-research
   - united-states-navy
 ---

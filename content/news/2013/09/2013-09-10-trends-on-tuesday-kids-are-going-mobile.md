@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - cdc
-  - gamification
+  - content-strategy
   - mobile
   - mobile-first
   - national-gallery-of-art

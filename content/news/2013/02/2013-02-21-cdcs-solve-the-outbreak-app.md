@@ -6,7 +6,7 @@ summary: 'The Centers for Disease Control has launched a new table app Solve the
 topics:
   - mobile
   - cdc
-  - gamification
+  - content-strategy
   - mobile-apps
   - thursday-mobile-products
 ---

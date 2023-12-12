@@ -15,7 +15,7 @@ topics:
   - audio-video
   - augmented-reality
   - dhs
-  - Gamification
+  - content-strategy
   - research
   - Security
   - Training

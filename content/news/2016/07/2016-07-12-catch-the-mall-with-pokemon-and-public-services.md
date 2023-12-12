@@ -11,7 +11,7 @@ topics:
   - mobile
   - social-media
   - augmented-reality
-  - gamification
+  - content-strategy
   - mobile
   - mobile-apps
   - NPS

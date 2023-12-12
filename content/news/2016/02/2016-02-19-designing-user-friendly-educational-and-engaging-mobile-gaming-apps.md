@@ -10,7 +10,7 @@ topics:
   - mobile
   - cdc
   - centers-for-disease-control-and-prevention
-  - gamification
+  - content-strategy
   - mobile
   - mobile-apps
   - user-centered-design

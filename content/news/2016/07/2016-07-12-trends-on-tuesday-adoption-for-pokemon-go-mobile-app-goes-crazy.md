@@ -9,7 +9,7 @@ topics:
   - mobile
   - social-media
   - analytics
-  - gamification
+  - content-strategy
   - analytics
   - mobile
   - security

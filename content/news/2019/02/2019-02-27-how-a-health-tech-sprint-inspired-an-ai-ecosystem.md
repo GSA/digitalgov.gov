@@ -19,7 +19,7 @@ topics:
   - innovation
   - emerging-tech
   - mobile-apps
-  - gamification
+  - content-strategy
 featured_image:
   uid: pif-ai-open-data
   alt: 'A graphic that reads: Artificial Intelligence and Open Data Innovation for Health, brought to you by the Presidential Innovation Fellows and the U.S. Department of Health and Human Services.'

@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - gamification
+  - content-strategy
   - gsa
   - usability-testing
   - user-experience

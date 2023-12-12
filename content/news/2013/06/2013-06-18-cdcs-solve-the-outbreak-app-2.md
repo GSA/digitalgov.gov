@@ -9,7 +9,6 @@ topics:
   - mobile
   - user-experience
   - cdc
-  - gamification
   - mobile-apps
   - mobile-gov-experience
 ---

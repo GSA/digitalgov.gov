@@ -13,7 +13,7 @@ topics:
   - citizen-science
   - crowdsourcing
   - Federal CrowdSource Mobile Testing Program
-  - gamification
+  - content-strategy
   - ios
   - mobile-ux-guideline-5
   - national-oceanic-and-atmospheric-administration
