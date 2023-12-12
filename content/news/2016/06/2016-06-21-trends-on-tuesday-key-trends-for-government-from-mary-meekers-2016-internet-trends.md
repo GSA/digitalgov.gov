@@ -9,7 +9,7 @@ topics:
   - product-management
   - mobile
   - data
-  - internet-of-things
+  - emerging-tech
   - mobile
   - open-data
   - privacy

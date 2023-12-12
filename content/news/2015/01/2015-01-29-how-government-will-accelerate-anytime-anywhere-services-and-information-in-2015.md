@@ -19,7 +19,7 @@ topics:
   - DOT
   - government-contact-centers
   - HHS
-  - internet-of-things
+  - emerging-tech
   - mobile-code-catalog
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
@@ -73,7 +73,7 @@ Agencies have shared code for native apps and mobile websites in the [Mobile Cod
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
-As wearables and other [Internet of Things]({{< ref "/topics/internet-of-things" >}}) implementations become more prevalent, government will need to develop use cases for their outreach efforts. The big question agencies will ask (in addition to those about [Big Data]({{< ref "2015-01-20-trends-big-data-and-gov-in-2015.md" >}}) and identity management) is: Does it make sense to implement physical Internet of Things for public-facing purposes? The answer will most likely be no, but structured data like Application Programming Interfaces (APIs) will be the key to entry in this space.
+As wearables and other [Internet of Things]({{< ref "/topics/emerging-tech" >}}) implementations become more prevalent, government will need to develop use cases for their outreach efforts. The big question agencies will ask (in addition to those about [Big Data]({{< ref "2015-01-20-trends-big-data-and-gov-in-2015.md" >}}) and identity management) is: Does it make sense to implement physical Internet of Things for public-facing purposes? The answer will most likely be no, but structured data like Application Programming Interfaces (APIs) will be the key to entry in this space.
 
 In a recent DigitalGov.gov API Briefing, Bill Brantley wrote [about the work that NASA and the U.S. Postal Service have done]({{< ref "2015-01-28-the-api-briefing-nasa-and-usps-explore-the-holographic-computing-frontier.md" >}}) with holograms & augmented reality. Brantley argues these agencies’ new form factors were possible due to APIs each had developed. Agencies will need to adopt open data approaches that allow their information to be available and leveraged on new devices and sensors.
 

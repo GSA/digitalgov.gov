@@ -14,7 +14,7 @@ topics:
   - Corporation for National and Community Service
   - crowdsourcing-and-citizen-science
   - DOT
-  - internet-of-things
+  - emerging-tech
   - mobile
   - mobile-apps
   - national-oceanic-and-atmospheric-administration

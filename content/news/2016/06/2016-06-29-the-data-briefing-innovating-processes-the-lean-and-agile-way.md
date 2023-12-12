@@ -15,7 +15,7 @@ topics:
   - analytics
   - cloud-and-infrastructure
   - data
-  - internet-of-things
+  - emerging-tech
   - lean
   - the-data-briefing
 

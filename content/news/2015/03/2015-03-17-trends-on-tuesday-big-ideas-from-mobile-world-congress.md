@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - internet-of-things
+  - emerging-tech
   - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6

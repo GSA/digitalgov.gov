@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - application-programming-interface
   - data
-  - internet-of-things
+  - emerging-tech
   - open-data
   - the-data-briefing
   - United States Patent and Trademark Office

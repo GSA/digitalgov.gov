@@ -10,7 +10,7 @@ topics:
   - product-management
   - mobile
   - firstnet
-  - internet-of-things
+  - emerging-tech
   - IoT
   - mobile
 ---

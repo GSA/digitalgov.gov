@@ -23,7 +23,7 @@ topics:
   - customer-experience
   - data
   - innovation
-  - internet-of-things
+  - emerging-tech
   - IoT
   - open-data
   - privacy

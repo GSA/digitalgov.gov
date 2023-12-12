@@ -9,7 +9,7 @@ topics:
   - mobile
   - content-strategy
   - policy
-  - internet-of-things
+  - emerging-tech
   - IoT
   - national-institute-of-standards-and-technology
   - NIST

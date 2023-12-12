@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - application-programming-interface
-  - internet-of-things
+  - emerging-tech
   - US Department of Agriculture
   - USDA
   - application-programming-interface

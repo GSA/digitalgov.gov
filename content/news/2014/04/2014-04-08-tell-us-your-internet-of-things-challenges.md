@@ -10,7 +10,7 @@ topics:
   - mobile
   - social-media
   - Federal Trade Commission
-  - internet-of-things
+  - emerging-tech
 ---
 
 

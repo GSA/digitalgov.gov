@@ -10,7 +10,7 @@ topics:
   - mobile
   - digitalgov-summit
   - FTC
-  - internet-of-things
+  - emerging-tech
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-6
   - privacy

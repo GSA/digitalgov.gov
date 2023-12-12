@@ -14,7 +14,7 @@ topics:
   - data
   - department-of-commerce
   - innovation
-  - internet-of-things
+  - emerging-tech
   - IoT
   - national-institute-of-standards-and-technology
   - NIST

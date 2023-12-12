@@ -14,7 +14,7 @@ topics:
   - customer-experience
   - customer-experience
   - data
-  - internet-of-things
+  - emerging-tech
   - the-data-briefing
   - United States Patent and Trademark Office
   - user-experience

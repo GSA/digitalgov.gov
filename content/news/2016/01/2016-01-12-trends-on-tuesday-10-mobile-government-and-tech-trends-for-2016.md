@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - https
-  - internet-of-things
+  - emerging-tech
   - mobile
   - mobile-apps
   - mobile-first

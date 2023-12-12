@@ -21,7 +21,7 @@ topics:
   - Human Resources
   - cloud-and-infrastructure
   - innovation
-  - internet-of-things
+  - emerging-tech
   - virtual-reality
   - virtual-augmented-reality-community
 ---

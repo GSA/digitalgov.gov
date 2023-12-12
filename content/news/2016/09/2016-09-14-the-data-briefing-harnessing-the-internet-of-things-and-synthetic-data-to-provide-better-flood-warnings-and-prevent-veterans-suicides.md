@@ -12,7 +12,7 @@ topics:
   - data
   - department-of-commerce
   - innovation
-  - internet-of-things
+  - emerging-tech
   - IoT
   - mobile
   - open-data

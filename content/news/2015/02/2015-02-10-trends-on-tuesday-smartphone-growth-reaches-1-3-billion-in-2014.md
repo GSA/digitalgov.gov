@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - policy
   - Federal CrowdSource Mobile Testing Program
-  - internet-of-things
+  - emerging-tech
   - open-data
   - responsive-web-design
   - trends-on-tuesday

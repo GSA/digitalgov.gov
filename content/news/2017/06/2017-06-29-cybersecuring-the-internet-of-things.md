@@ -12,7 +12,7 @@ topics:
   - policy
   - best-practices
   - cloud-and-infrastructure
-  - internet-of-things
+  - emerging-tech
   - IoT
   - national-institute-of-standards-and-technology
   - NIST

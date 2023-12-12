@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - crowdsourcing-and-citizen-science
-  - internet-of-things
+  - emerging-tech
   - artificial-intelligence
   - the-data-briefing
   - United States Patent and Trademark Office

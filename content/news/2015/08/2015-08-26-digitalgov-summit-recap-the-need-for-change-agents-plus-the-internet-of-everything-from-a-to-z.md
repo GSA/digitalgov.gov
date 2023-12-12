@@ -12,7 +12,7 @@ topics:
   - digitalgov-summit
   - FCC
   - federal-communications-commission
-  - internet-of-things
+  - emerging-tech
   - recaps
 
 ---

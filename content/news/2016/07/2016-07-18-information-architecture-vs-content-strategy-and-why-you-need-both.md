@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - policy
 
-  - internet-of-things
+  - emerging-tech
   - content-strategy
 ---
 

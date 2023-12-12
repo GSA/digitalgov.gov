@@ -10,7 +10,7 @@ topics:
   - Census
   - content-strategy
   - DOL
-  - internet-of-things
+  - emerging-tech
   - mobile-code-catalog
   - mobile-first
   - NOAA

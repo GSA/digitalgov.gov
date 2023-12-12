@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - monthly-theme
-  - internet-of-things
+  - emerging-tech
   - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO

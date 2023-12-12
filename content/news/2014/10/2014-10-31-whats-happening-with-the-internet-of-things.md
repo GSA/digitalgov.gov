@@ -13,7 +13,7 @@ topics:
   - DOT
   - Federal Trade Commission
   - FTC
-  - internet-of-things
+  - emerging-tech
   - NIST
   - united-states-department-of-transportation
 ---

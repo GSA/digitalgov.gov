@@ -14,7 +14,7 @@ topics:
   - data
   - data-gov
   - HHS
-  - internet-of-things
+  - emerging-tech
   - json
   - open-government
   - united-states-department-of-health-and-human-services

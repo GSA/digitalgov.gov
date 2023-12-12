@@ -17,7 +17,7 @@ topics:
   - customer-experience
   - customer-experience
   - data
-  - internet-of-things
+  - emerging-tech
   - security
   - the-data-briefing
   - user-experience

@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - analytics
   - epa
-  - internet-of-things
+  - emerging-tech
   - trends-on-tuesday
   - us-environmental-protection-agency
 ---

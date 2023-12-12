@@ -23,7 +23,7 @@ topics:
   - analytics
   - cloud-and-infrastructure
   - dod
-  - internet-of-things
+  - emerging-tech
   - virtual-reality
 
 # see all authors at https://digital.gov/authors

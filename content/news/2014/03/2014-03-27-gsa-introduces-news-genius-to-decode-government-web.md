@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - application-programming-interface
-  - internet-of-things
+  - emerging-tech
   - mobile-gov
   - socialgov
   - us-small-business-administration

@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   - customer-experience
-  - internet-of-things
+  - emerging-tech
   - mobile-apps
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3
