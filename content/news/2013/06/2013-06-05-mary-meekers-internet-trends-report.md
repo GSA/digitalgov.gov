@@ -12,7 +12,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - making-mobile-gov
+  - mobile
 
 ---
 
