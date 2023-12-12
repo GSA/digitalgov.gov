@@ -6,9 +6,9 @@ summary: Social Security joins you and your family in celebrating Hispanic Herit
 authors:
   - doug-walker
 topics:
-  - content
+  - content-strategy
   - product-management
-  - content
+  - content-strategy
   - customer-experience
   - customer-service
   - multilingual

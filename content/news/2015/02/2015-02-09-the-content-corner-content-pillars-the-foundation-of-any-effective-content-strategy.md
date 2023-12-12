@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - communities
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - aoi
   - content-strategy

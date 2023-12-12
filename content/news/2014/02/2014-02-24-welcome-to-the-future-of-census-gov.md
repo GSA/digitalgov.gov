@@ -7,7 +7,7 @@ authors:
   - lisa-wolfisch
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - product-management
   - mobile
   - application-programming-interface

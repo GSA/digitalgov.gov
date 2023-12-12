@@ -6,7 +6,7 @@ summary: 'This morning I was walking down 18th Street, crossing Pennsylvania Ave
 authors:
   - gwynne-kostin
 topics:
-  - content
+  - content-strategy
   - data
   - mobile
   - user-experience

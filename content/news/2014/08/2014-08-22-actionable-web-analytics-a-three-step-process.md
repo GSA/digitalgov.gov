@@ -6,7 +6,7 @@ summary: As Web analysts, your customers and their needs can vary greatly. One m
 authors:
   - sam-bronson
 topics:
-  - content
+  - content-strategy
   - analytics
   - analytics
   - epa

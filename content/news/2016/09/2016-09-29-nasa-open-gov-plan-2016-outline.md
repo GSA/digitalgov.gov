@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - challenges
   - code
-  - content
+  - content-strategy
   - crowdsourcing-and-citizen-science
   - data
   - governance

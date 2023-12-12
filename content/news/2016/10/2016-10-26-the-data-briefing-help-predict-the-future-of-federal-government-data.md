@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - code
-  - content
+  - content-strategy
   - data
   - product-management
   - mobile

@@ -6,10 +6,10 @@ summary: 'The interactive team at the National Museum of the American Indian saw
 authors:
   - ben-bloom
 topics:
-  - content
+  - content-strategy
   - design
   - user-testing-and-research
-  - content
+  - content-strategy
   - gamification
   - software-engineering
   - smithsonian-institution

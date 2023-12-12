@@ -11,7 +11,7 @@ summary: "Multilingual resources to standardize the use of various languages acr
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - multilingual
   - plain-language
   - multilingual-community

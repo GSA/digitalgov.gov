@@ -8,7 +8,7 @@ authors:
   - gray-brooks
 topics:
   - code
-  - content
+  - content-strategy
   - 18f
   - recaps
 ---

@@ -8,7 +8,7 @@ authors:
 
 topics:
   - accessibility
-  - content
+  - content-strategy
   - product-management
   - social-media
   - strategy
@@ -16,7 +16,7 @@ topics:
   - video
   - accessibility
   - best-practices
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - recaps

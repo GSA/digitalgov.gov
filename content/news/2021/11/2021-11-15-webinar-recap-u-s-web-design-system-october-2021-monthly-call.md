@@ -12,7 +12,7 @@ topics:
   - uswds
   - code
   - usability
-  - content
+  - content-strategy
   - open-source
 # See all authors at https://digital.gov/authors
 authors:

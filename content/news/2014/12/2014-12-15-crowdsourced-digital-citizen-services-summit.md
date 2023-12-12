@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - code
-  - content
+  - content-strategy
   - crowdsourcing-and-citizen-science
   - product-management
   - analytics

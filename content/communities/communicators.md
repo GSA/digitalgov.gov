@@ -9,7 +9,7 @@ aliases:
 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - plain-language
   - social-media
   - communication

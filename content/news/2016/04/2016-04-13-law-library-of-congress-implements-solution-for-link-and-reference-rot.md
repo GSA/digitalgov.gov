@@ -6,7 +6,7 @@ summary: 'Last fall, the Law Library of Congress implemented an external archivi
 authors:
   - charlotte-stichter
 topics:
-  - content
+  - content-strategy
   - Law Library of Congress
   - Library of Congress
   - LOC

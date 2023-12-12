@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - code
-  - content
+  - content-strategy
   - data
   - design
   - product-management
@@ -20,7 +20,7 @@ topics:
   - accessibility
   - analytics
   - communities
-  - content
+  - content-strategy
   - content-strategy
   - https
   - ITIF

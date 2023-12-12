@@ -13,7 +13,7 @@ topics:
   - user-testing-and-research
   - accessibility
   - communities
-  - content
+  - content-strategy
   - content-strategy
   - itif
   - analytics

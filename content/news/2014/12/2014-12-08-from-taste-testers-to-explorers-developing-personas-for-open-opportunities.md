@@ -11,7 +11,7 @@ summary: "Being customer-focused means doing the gumshoe work of research and ro
 
 # see all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - open-opportunities-program
   - our-work
   - personas

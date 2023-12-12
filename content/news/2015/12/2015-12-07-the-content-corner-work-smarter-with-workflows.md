@@ -6,7 +6,7 @@ summary: 'I noticed recently that I have spent a decent amount of time discussin
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - product-management
   - administrative-office-of-the-united-states-courts
   - CMS

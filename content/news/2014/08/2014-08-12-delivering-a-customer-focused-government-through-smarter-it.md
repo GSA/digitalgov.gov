@@ -8,7 +8,7 @@ authors:
   - todd-park
   - beth-cobert
 topics:
-  - content
+  - content-strategy
   - data
   - mobile
   - 18f

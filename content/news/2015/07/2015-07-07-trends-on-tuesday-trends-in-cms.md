@@ -6,7 +6,7 @@ summary: 'A Content Management System (CMS) allows people to easily publish, mai
 authors:
   - kdaniel
 topics:
-  - content
+  - content-strategy
   - mobile
   - CMS
   - mobile-ux-guideline-1

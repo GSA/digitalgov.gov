@@ -6,7 +6,7 @@ summary: 'Several federal agencies and offices have worked together to create a 
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - mobile
   - video
   - cdc

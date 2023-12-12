@@ -6,8 +6,8 @@ summary: Anyone engaged in content marketing or content production probably owns
 authors:
   - victoria-wales
 topics:
-  - content
-  - content
+  - content-strategy
+  - content-strategy
   - content-strategy
   - content-syndication
   - communication

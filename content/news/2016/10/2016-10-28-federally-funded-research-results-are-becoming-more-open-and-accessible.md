@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - product-management
-  - content
+  - content-strategy
   - data
   - DoD
   - DOT

@@ -24,7 +24,7 @@ weight: 4
 topics:
   - web-content-managers-forum
   - design
-  - content
+  - content-strategy
   - social media
   - content strategy
   - strategy

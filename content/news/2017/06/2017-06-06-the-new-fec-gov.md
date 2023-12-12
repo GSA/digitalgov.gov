@@ -8,12 +8,12 @@ authors:
   - jennifer-thibault
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - data
   - design
   - 18f
   - application-programming-interface
-  - content
+  - content-strategy
   - data
   - FEC
   - federal-election-commission

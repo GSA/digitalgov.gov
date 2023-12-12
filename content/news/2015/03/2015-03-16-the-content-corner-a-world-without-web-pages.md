@@ -6,7 +6,7 @@ summary: Imagine a world without Web pages, only intelligent, self-assembling ch
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - CMS
   - content-management-system
@@ -31,7 +31,7 @@ The origins of the post-Web page world can be found in the works of [William W. 
 
 {{< legacy-img src="2015/03/600-x-350-Ty-Manuel-page-and-content-models-graphic.jpg" alt="Content graphic" >}}
 
-This full separation is inherent in the concept of [adaptive design]({{< ref "/topics/content" >}}) and the much-referenced [COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) developed by NPR. The article on COPE was published in 2009, so just as with the initial advances of the content and presentation layer concepts, these changes take time. Sometimes a change in perspective—looking at what is being taken away (the website) as opposed to what needs to be added (structure)—can help a concept&#8217;s progress.
+This full separation is inherent in the concept of [adaptive design]({{< ref "/topics/content-strategy" >}}) and the much-referenced [COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) developed by NPR. The article on COPE was published in 2009, so just as with the initial advances of the content and presentation layer concepts, these changes take time. Sometimes a change in perspective—looking at what is being taken away (the website) as opposed to what needs to be added (structure)—can help a concept&#8217;s progress.
 
 Jumping ahead and visualizing the natural course of today&#8217;s trends can also help to shift our efforts and focus away from building new or better websites and towards building better content.
 

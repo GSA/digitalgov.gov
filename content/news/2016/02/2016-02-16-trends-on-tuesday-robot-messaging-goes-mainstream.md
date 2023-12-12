@@ -6,7 +6,7 @@ summary: 'John Connor can&#8217;t save you. Robots are here to take over the wor
 authors:
   - wsullivan
 topics:
-  - content
+  - content-strategy
   - mobile
   - monthly-theme
   - mobile

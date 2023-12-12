@@ -11,7 +11,7 @@ topics:
   - social-media
   - emerging-tech
   - artificial-intelligence
-  - content
+  - content-strategy
   - personas
   - social-media
   - training

@@ -6,7 +6,7 @@ summary: 'Podcasting is growing significantly. Per Pew, the percentage of Americ
 authors:
   - leonard-sipes
 topics:
-  - content
+  - content-strategy
   - Court Services and Offender Supervision Agency
   - CSOSA
   - podcast

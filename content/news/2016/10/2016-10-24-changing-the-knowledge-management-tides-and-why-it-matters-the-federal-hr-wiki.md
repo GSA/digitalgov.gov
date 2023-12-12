@@ -8,11 +8,11 @@ authors:
   - matt-gieseke
   - kelley-smith
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
-  - content
+  - content-strategy
   - content-strategy
   - innovation
   - knowledge management

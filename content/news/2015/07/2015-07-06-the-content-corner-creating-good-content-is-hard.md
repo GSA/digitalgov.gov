@@ -6,7 +6,7 @@ summary: Throughout my five-plus months so far on this blog, I have focused a gr
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - the-content-corner
 ---

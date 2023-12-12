@@ -6,14 +6,14 @@ summary: 'Suddenly, digital video is everywhere on your social timelines. As a g
 authors:
   - randy-abramson
 topics:
-  - content
+  - content-strategy
   - product-management
   - analytics
   - mobile
   - video
   - analytics
   - audio-video
-  - content
+  - content-strategy
   - content-strategy
   - multimedia
   - analytics

@@ -6,7 +6,7 @@ summary: 'Twitter is more than just a platform for sharing news and updates: it 
 authors:
   - aids-gov
 topics:
-  - content
+  - content-strategy
   - product-management
   - social-media
   - strategy

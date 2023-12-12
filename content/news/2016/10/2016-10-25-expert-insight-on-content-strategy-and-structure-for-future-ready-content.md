@@ -6,11 +6,11 @@ summary: 'We recently interviewed Sara Wachter-Boettcher, author of Content Ever
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
-  - content
+  - content-strategy
   - content-models
   - content-strategy
   - open-and-structured-content-models

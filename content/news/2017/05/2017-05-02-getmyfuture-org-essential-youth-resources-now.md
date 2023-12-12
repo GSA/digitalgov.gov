@@ -6,7 +6,7 @@ summary: 'They say that life can be summed up as the process of a series of door
 authors:
   - gay-gilbert
 topics:
-  - content
+  - content-strategy
   - data
   - design
   - product-management

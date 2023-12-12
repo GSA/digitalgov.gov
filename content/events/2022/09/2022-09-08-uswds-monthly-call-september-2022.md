@@ -14,7 +14,7 @@ topics:
   - user-experience
   - multilingual
   - multilingual-community
-  - content
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

@@ -6,7 +6,7 @@ summary: 'Are you measuring Twitter followers and press release downloads withou
 authors:
   - david-hebert
 topics:
-  - content
+  - content-strategy
   - analytics
   - social-media
   - HHS

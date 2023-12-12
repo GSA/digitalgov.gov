@@ -6,7 +6,7 @@ summary: 'I’ve recently been required to focus more attention on social media 
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - analytics
   - social-media
   - administrative-office-of-the-united-states-courts

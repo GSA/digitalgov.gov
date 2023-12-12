@@ -8,7 +8,7 @@ authors:
   - kori-schulman
 topics:
   - code
-  - content
+  - content-strategy
   - data
   - product-management
   - mobile

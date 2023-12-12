@@ -6,7 +6,7 @@ summary: ' As the 2016 presidential election heats up, here at 18F we’ve been 
 authors:
   - emileigh-barnes
 topics:
-  - content
+  - content-strategy
   - 18f
   - application-programming-interface
   - FEC

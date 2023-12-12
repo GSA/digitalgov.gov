@@ -6,7 +6,7 @@ summary: "The Smithsonian Institution’s Office of Policy and Analysis has anot
 authors:
   - ben-bloom
 topics:
-  - content
+  - content-strategy
   - design
   - mobile
   - augmented-reality
@@ -81,6 +81,6 @@ _[Benjamin Bloom]({{< ref "/authors/ben-bloom" >}}) is a Web Developer at the [S
 
 _An archive of the Smithsonian's original IPOP page can be found here: https://web.archive.org/web/20151010001849/https://www.si.edu/opanda/IPOP. The Office of Policy and Analysis (OP&A) is now known as [Smithsonian Organization and Audience Research](https://soar.si.edu/) (SOAR)_
 
-_Learn what other federal agencies are working on in [UX]({{< ref "/topics/user-experience" >}}), [design]({{< ref "/topics/design" >}}), [content development and strategies]({{< ref "/topics/content" >}}), [augmented reality]({{< ref "/topics/augmented-reality" >}}), and [mobile]({{< ref "/topics/mobile" >}})._
+_Learn what other federal agencies are working on in [UX]({{< ref "/topics/user-experience" >}}), [design]({{< ref "/topics/design" >}}), [content development and strategies]({{< ref "/topics/content-strategy" >}}), [augmented reality]({{< ref "/topics/augmented-reality" >}}), and [mobile]({{< ref "/topics/mobile" >}})._
 
 _[Visit our Communities page]({{< ref "/communities" >}}) to find out how to join groups like the Federal User Experience Community, MobileGov, Virtual/Augmented Reality, and Digital Audio/Video Production and Strategy._

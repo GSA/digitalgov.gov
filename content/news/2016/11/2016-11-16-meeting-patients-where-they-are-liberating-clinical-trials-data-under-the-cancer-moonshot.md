@@ -9,12 +9,12 @@ authors:
 topics:
   - application-programming-interface
   - code
-  - content
+  - content-strategy
   - data
   - user-experience
   - application-programming-interface
   - code
-  - content
+  - content-strategy
   - data
   - innovation
   - national-cancer-institute

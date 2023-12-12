@@ -10,9 +10,9 @@ featured_image:
   alt: 'USDA Foodkeeper app held in front of a refrigerator.'
 
 topics:
-  - content
+  - content-strategy
   - mobile
-  - content
+  - content-strategy
   - mobile-apps
   - multilingual
 

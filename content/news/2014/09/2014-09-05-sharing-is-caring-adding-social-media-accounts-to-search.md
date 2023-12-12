@@ -6,7 +6,7 @@ summary: 'Content is no longer limited to your .gov website. Social media accoun
 authors:
   - rachel-mundstock
 topics:
-  - content
+  - content-strategy
   - social-media
   - search
   - federal-register

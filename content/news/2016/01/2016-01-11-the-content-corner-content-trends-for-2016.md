@@ -6,7 +6,7 @@ summary: The beginning of a new year is generally a time where people on a perso
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - monthly-theme
   - social-media
   - the-content-corner

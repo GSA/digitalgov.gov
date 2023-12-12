@@ -6,12 +6,12 @@ summary: 'We have previously written about microsites in the federal government.
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - product-management
   - user-experience
   - cdc
   - centers-for-disease-control-and-prevention
-  - content
+  - content-strategy
   - content-models
   - content-strategy
   - content-syndication

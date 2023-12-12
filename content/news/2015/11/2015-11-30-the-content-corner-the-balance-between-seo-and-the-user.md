@@ -6,7 +6,7 @@ summary: 'I always think of SEO like the dentist&mdash;no one really likes it, b
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - CMS
   - https

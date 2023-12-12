@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - code
-  - content
+  - content-strategy
   - search
   - open-source
   - recaps

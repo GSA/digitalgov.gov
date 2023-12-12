@@ -6,7 +6,7 @@ summary: 'If you aren’t currently including email marketing in your digital ou
 authors:
   - nicholas-garlow
 topics:
-  - content
+  - content-strategy
   - analytics
   - social-media
   - a-b-testing

@@ -7,10 +7,10 @@ authors:
   - jessica-milcetich
 
 topics:
-  - content
+  - content-strategy
   - analytics
   - analytics
-  - content
+  - content-strategy
   - gobiernousagov
   - analytics
   - usagov

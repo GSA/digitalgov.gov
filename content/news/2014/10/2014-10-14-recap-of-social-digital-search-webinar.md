@@ -7,7 +7,7 @@ authors:
   - rachel-mundstock
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - our-work
   - social-media
   - video

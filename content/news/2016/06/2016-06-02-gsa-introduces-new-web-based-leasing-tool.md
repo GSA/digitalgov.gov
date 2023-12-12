@@ -6,7 +6,7 @@ summary: 'Recently, Regional Administrator Sara Manzano-D&iacute;az of the U.S. 
 authors:
   - sherrie-taylor
 topics:
-  - content
+  - content-strategy
   - design
   - product-management
   - user-experience

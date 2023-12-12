@@ -7,7 +7,7 @@ authors:
   - lgodfrey
 topics:
   - accessibility
-  - content
+  - content-strategy
   - video
   - GobiernoUSAgov
   - multilingual

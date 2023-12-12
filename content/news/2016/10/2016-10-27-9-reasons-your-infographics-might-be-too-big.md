@@ -7,11 +7,11 @@ authors:
   - sara-smith
   - anne-rancourt
 topics:
-  - content
+  - content-strategy
   - design
   - product-management
   - social-media
-  - content
+  - content-strategy
   - infographic
   - multimedia
   - social-media

@@ -7,7 +7,7 @@ authors:
   - lindy-dreyer
   - torey-vanek
 topics:
-  - content
+  - content-strategy
   - mobile
   - social-media
   - strategy

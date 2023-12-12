@@ -7,7 +7,7 @@ authors:
   - sean-herron
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - fda
   - HHS
   - us-food-and-drug-administration

@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - code
-  - content
+  - content-strategy
   - monthly-theme
   - administrative-office-of-the-united-states-courts
   - code

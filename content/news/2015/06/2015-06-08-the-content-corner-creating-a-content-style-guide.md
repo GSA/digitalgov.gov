@@ -6,7 +6,7 @@ summary: One of the more commonly overlooked pieces of any effective content str
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - the-content-corner

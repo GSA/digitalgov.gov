@@ -7,7 +7,7 @@ authors:
   - katie-steffy
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - application-programming-interface
   - content-models
   - metadata

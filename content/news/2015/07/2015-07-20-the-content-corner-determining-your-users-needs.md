@@ -6,7 +6,7 @@ summary: 'I recently wrapped up a series of user interviews as part of a review 
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - user-experience
   - administrative-office-of-the-united-states-courts
   - analytics

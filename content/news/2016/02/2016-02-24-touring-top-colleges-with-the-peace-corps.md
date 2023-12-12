@@ -6,7 +6,7 @@ summary: I wanted to share our first dabble with data storytelling, a visualizat
 authors:
   - chris-rottler
 topics:
-  - content
+  - content-strategy
   - data
   - data-visualization
   - peace-corps

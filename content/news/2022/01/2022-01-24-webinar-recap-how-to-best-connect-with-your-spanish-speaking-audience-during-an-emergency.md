@@ -13,7 +13,7 @@ topics:
   - recaps
   - communication
   - plain-language
-  - content
+  - content-strategy
   - content-strategy
   - social-media
 # See all authors at https://digital.gov/authors

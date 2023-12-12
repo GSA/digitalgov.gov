@@ -7,14 +7,14 @@ authors:
   - j-todd-breasseale
 topics:
   - accessibility
-  - content
+  - content-strategy
   - design
   - product-management
   - mobile
   - strategy
   - policy
   - accessibility
-  - content
+  - content-strategy
   - content-strategy
   - dhs
   - mobile

@@ -10,7 +10,7 @@ topics:
   - user-experience
   - customer-experience
   - design
-  - content
+  - content-strategy
   - plain-language
   - analytics
   - mobile

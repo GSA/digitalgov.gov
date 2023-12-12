@@ -6,7 +6,7 @@ summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests W
 authors:
   - andreanocesigritz
 topics:
-  - content
+  - content-strategy
   - go-usa-gov
   - NIAID
   - United States Patent and Trademark Office

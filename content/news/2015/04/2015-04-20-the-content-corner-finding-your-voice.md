@@ -6,7 +6,7 @@ summary: 'No, this is not another post about podcasting but about a different vo
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - content-strategy
   - personas
   - social-media

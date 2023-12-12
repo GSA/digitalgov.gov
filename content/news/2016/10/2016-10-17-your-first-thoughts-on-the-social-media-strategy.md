@@ -8,11 +8,11 @@ authors:
   - jeannie-chen
   - hilary-parkinson
 topics:
-  - content
+  - content-strategy
   - social-media
   - strategy
   - policy
-  - content
+  - content-strategy
   - content-strategy
   - NARA
   - national-archives-and-records-administration

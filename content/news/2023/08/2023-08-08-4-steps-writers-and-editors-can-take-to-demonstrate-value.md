@@ -8,7 +8,7 @@ summary: As plain language writers and editors, we need to demonstrate the value
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - content
+  - content-strategy
   - content-strategy
   - governance
   - budgeting-and-performance

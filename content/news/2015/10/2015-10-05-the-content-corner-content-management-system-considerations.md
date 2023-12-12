@@ -6,7 +6,7 @@ summary: 'These days you couldn’t be faulted for thinking your content managem
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-management-system
   - mobile-ux-guideline-1

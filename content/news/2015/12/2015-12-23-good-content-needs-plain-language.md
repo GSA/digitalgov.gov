@@ -6,7 +6,7 @@ summary: 'If good content is essential to good user experience, as Tyrus Manuel 
 authors:
   - cynthia-baur
 topics:
-  - content
+  - content-strategy
   - communication
   - 18f
   - cdc

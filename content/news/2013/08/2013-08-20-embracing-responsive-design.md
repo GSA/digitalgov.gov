@@ -7,7 +7,7 @@ authors:
   - lgodfrey
 topics:
   - code
-  - content
+  - content-strategy
   - design
   - mobile
   - accessibility

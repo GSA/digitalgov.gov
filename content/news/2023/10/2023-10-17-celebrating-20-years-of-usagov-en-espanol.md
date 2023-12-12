@@ -12,7 +12,7 @@ summary: USAGov en Español is excited to celebrate their 20th anniversary this 
 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - multilingual
   - accessibility
   - content-strategy

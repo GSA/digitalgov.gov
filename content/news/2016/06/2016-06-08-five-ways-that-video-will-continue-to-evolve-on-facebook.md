@@ -6,13 +6,13 @@ summary: 'The medium is the message. Marshall McLuhan In a little over a year, F
 authors:
   - randy-abramson
 topics:
-  - content
+  - content-strategy
   - monthly-theme
   - social-media
   - video
   - bbg
   - broadcasting-board-of-governors
-  - content
+  - content-strategy
   - social-media
 ---
 

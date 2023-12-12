@@ -15,7 +15,7 @@ featured_image:
 
 topics:
   - code
-  - content
+  - content-strategy
   - mobile
   - accessibility
   - uswds

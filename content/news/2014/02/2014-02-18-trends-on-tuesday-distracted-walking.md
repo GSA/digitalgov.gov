@@ -6,7 +6,7 @@ summary: 'Piggybacking on one of my earlier posts, People are Crazy about Mobile
 authors:
   - lisa-wilcox
 topics:
-  - content
+  - content-strategy
   - product-management
   - mobile
   - mobile

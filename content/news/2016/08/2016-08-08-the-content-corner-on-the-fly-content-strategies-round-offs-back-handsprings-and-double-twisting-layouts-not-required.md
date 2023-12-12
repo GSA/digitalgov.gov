@@ -6,13 +6,13 @@ summary: 'As effective marketers and communicators, we are constantly seeking ne
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - product-management
   - social-media
   - strategy
   - policy
   - Commerce
-  - content
+  - content-strategy
   - content-strategy
   - department-of-commerce
   - the-content-corner

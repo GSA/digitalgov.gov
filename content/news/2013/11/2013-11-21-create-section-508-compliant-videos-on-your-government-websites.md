@@ -7,7 +7,7 @@ authors:
   - ryan-leisinger
 topics:
   - accessibility
-  - content
+  - content-strategy
   - video
 
 ---

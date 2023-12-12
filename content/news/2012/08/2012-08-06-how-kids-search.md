@@ -7,7 +7,7 @@ authors:
   - david-kaufmann
   - michelle-chronister
 topics:
-  - content
+  - content-strategy
   - user-experience
   - social-media-metrics
   - usagov

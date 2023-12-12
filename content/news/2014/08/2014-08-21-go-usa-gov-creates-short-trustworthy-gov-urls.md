@@ -7,7 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - monthly-theme
   - our-work
   - go-usa-gov

@@ -7,7 +7,7 @@ authors:
   - lgodfrey
 topics:
   - accessibility
-  - content
+  - content-strategy
   - design
   - product-management
   - strategy

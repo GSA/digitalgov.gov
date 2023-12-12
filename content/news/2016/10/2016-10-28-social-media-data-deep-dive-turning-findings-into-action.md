@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - analytics
-  - content
+  - content-strategy
   - content-strategy
   - data
   - GobiernoUSAgov

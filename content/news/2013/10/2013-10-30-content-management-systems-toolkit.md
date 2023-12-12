@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - CMS
   - content-management-system
   - content-strategy

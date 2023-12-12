@@ -6,7 +6,7 @@ summary: 'Nearly half of companies recently surveyed said that automating conten
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - structured-content
   - the-content-corner

@@ -16,7 +16,7 @@ topics:
   - customer-experience
   - user-research
   - user-experience
-  - content
+  - content-strategy
   - strategy
   - project-management
   - product-management

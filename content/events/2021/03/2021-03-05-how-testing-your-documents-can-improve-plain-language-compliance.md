@@ -16,7 +16,7 @@ topics:
   - plain-language-community-of-practice
   - usability-testing
   - usability
-  - content
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - ginny-redish

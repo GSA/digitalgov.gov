@@ -20,7 +20,7 @@ summary: At USA.gov and USAGov en Español, we’re always looking for better wa
 topics:
   - communication
   - social-media
-  - content
+  - content-strategy
   - multilingual
   - design
   - analytics

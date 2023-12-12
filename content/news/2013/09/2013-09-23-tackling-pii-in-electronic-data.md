@@ -6,7 +6,7 @@ summary: 'As non-lawyers peering into the legal world, be advised this post is n
 authors:
   - tlowden
 topics:
-  - content
+  - content-strategy
   - social-media
   - strategy
   - policy

@@ -8,10 +8,10 @@ authors:
   - toni-bonitto
 topics:
   - code
-  - content
+  - content-strategy
   - mobile
   - social-media
-  - content
+  - content-strategy
   - content-syndication
   - mobile
   - mobile-apps

@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - monthly-theme
   - our-work
   - social-media

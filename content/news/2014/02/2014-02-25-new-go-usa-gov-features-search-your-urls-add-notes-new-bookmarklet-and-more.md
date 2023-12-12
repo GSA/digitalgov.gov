@@ -6,7 +6,7 @@ summary: 'You can now log in to Go.USA.gov with your username or email address, 
 authors:
   - michelle-chronister
 topics:
-  - content
+  - content-strategy
   - our-work
   - application-programming-interface
   - usagov

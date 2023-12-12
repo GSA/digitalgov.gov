@@ -16,7 +16,7 @@ topics:
   - customer-experience
   - trust
   - user-experience
-  - content
+  - content-strategy
   - content-strategy
   - strategy
   - user-centered-design

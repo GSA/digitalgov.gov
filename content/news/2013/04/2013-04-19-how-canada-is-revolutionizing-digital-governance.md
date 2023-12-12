@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - code
-  - content
+  - content-strategy
   - GitHub
 ---
 

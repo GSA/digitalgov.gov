@@ -6,7 +6,7 @@ summary: 'Metadata, tagging, content modeling ... they’re not identical concep
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - content
+  - content-strategy
   - data
   - mobile
   - monthly-theme

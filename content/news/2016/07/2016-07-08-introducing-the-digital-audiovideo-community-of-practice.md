@@ -7,14 +7,14 @@ authors:
   - randy-abramson
 topics:
   - communities
-  - content
+  - content-strategy
   - product-management
   - mobile
   - social-media
   - user-experience
   - video
   - communities
-  - content
+  - content-strategy
   - multimedia
   - video
 ---

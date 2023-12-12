@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - code
-  - content
+  - content-strategy
   - analytics
   - our-work
   - application-programming-interface

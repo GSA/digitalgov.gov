@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - code
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy

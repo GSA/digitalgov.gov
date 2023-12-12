@@ -12,7 +12,7 @@ topics:
   - analytics
   - our-work
   - analytics
-  - content
+  - content-strategy
   - content-strategy
   - data
   - HHS

@@ -6,7 +6,7 @@ summary: 'Two years ago, federal agencies were set on a fast track to create a 2
 authors:
   - gwynne-kostin
 topics:
-  - content
+  - content-strategy
   - product-management
   - monthly-theme
   - our-work

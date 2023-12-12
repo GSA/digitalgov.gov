@@ -6,7 +6,7 @@ summary: 'With January, and the tearing off of the old calendar, comes the annua
 authors:
   - andreanocesigritz
 topics:
-  - content
+  - content-strategy
   - mobile
   - monthly-theme
   - accessibility

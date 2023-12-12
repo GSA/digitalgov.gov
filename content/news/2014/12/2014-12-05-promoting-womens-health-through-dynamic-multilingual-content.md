@@ -6,7 +6,7 @@ summary: Sonia stands at the pharmacy counter, flashing her most brilliant smile
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
   - video
   - fda

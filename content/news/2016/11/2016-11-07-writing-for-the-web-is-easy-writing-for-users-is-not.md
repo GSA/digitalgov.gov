@@ -8,11 +8,11 @@ authors:
   - emileigh-barnes
   - phoebe-espiritu
 topics:
-  - content
+  - content-strategy
   - user-testing-and-research
   - communication
   - accessibility
-  - content
+  - content-strategy
   - plain-language
   - user-centered-design
   - user research

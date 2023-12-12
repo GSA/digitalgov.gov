@@ -6,7 +6,7 @@ summary: ' One of the most important rights of American citizens is the right to
 authors:
   - sarah-crane
 topics:
-  - content
+  - content-strategy
   - gsa
   - usa-gov
 ---

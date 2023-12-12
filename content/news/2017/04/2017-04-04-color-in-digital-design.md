@@ -6,7 +6,7 @@ summary: 'How do we choose color in digital design? In print, we have the Panton
 authors:
   - angela-smithers
 topics:
-  - content
+  - content-strategy
   - design
   - product-management
   - communities

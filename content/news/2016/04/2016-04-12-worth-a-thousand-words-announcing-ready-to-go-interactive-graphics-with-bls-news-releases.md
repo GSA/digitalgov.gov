@@ -6,7 +6,7 @@ summary: 'Last spring I wrote about how we’ve been using more and better chart
 authors:
   - erica-groshen
 topics:
-  - content
+  - content-strategy
   - data
   - user-experience
   - BLS

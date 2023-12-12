@@ -6,7 +6,7 @@ summary: 'When discussing trends for 2016, I made some mention of the content ov
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - video
   - communication
   - cdc

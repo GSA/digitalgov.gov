@@ -6,7 +6,7 @@ summary: 'Structured content refers to the concept of organizing and treating di
 authors:
   - rflagg
 topics:
-  - content
+  - content-strategy
   - product-management
   - content-models
   - COPE

@@ -7,7 +7,7 @@ authors:
   - sarah-crane
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - product-management
   - monthly-theme
   - application-programming-interface

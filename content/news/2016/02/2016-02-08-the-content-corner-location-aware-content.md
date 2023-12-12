@@ -6,7 +6,7 @@ summary: 'While January was about looking ahead, February is focused on content 
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - monthly-theme
   - administrative-office-of-the-united-states-courts
   - content-models

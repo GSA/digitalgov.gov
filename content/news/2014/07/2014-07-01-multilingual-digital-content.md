@@ -7,7 +7,7 @@ authors:
   - lgodfrey
   - lmartinez
 topics:
-  - content
+  - content-strategy
   - ANLE
   - cdc
   - Census

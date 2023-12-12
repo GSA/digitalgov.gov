@@ -6,7 +6,7 @@ summary: 'It is very refreshing to see the large contingent of government commun
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - dhs
   - firstnet
   - the-content-corner

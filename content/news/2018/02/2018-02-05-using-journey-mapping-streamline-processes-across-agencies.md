@@ -9,7 +9,7 @@ authors:
 topics: 
   - design
   - analytics
-  - content
+  - content-strategy
   - analytics
   - analytics
   - user-experience

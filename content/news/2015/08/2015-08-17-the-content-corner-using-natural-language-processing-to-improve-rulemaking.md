@@ -6,7 +6,7 @@ summary: For the past several weeks, I have been inflicting you with my recent d
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - CFPB
   - Consumer Financial Protection Bureau

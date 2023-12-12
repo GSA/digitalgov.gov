@@ -6,7 +6,7 @@ summary: Through the course of this blog, I have frequently mentioned the need t
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - social-media
   - content-strategy
   - social-media

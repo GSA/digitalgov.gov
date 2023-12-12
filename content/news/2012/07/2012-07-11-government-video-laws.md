@@ -6,7 +6,7 @@ summary: 'Government videos need to follow two main laws: People with disabiliti
 authors:
   - jonathan-rubin
 topics:
-  - content
+  - content-strategy
   - video
   - accessibility
   - privacy

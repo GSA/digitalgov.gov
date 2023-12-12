@@ -11,7 +11,7 @@ contact: lab@opm.gov
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - content
+  - content-strategy
   - user-centered-design
   - training
 # Controls how this page appears across the site

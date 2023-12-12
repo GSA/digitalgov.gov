@@ -6,11 +6,11 @@ summary: 'When some U.S. athletes at this month’s Olympic Games started showin
 authors:
   - yasmine-kloth
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
-  - content
+  - content-strategy
   - content-strategy
   - National Center for Complementary and Integrative Health
   - national-institutes-of-health

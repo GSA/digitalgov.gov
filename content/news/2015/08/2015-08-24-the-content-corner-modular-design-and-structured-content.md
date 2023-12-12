@@ -6,7 +6,7 @@ summary: 'Several months ago I discussed the concept of a world without Web page
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - design
   - administrative-office-of-the-united-states-courts
   - content-models

@@ -13,7 +13,7 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - national-center-for-complementary-and-integrative-health

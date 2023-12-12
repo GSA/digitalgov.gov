@@ -7,7 +7,7 @@ authors:
   - david-fern
 topics:
   - code
-  - content
+  - content-strategy
   - design
   - mobile
   - user-experience

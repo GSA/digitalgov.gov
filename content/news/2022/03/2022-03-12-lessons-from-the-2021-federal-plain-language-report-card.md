@@ -20,7 +20,7 @@ topics:
   - user-experience
   - communication
   - design
-  - content
+  - content-strategy
   - accessibility
 slug: lessons-from-the-2021-federal-plain-language-report-card
 

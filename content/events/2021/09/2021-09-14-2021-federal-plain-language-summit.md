@@ -19,7 +19,7 @@ topics:
   - plain-language
   - accessibility
   - content-strategy
-  - content
+  - content-strategy
   - customer-experience
   - professional-development
   - social-media

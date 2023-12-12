@@ -12,7 +12,7 @@ topics:
   - multilingual
   - multilingual-community
   - lep
-  - content
+  - content-strategy
   - accessibility
   - customer-experience
   - user-experience

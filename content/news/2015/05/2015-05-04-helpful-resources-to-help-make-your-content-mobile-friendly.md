@@ -6,7 +6,7 @@ summary: 'Smartphones make up 75% of the mobile market&mdash;which makes mobile-
 authors:
   - kdaniel
 topics:
-  - content
+  - content-strategy
   - mobile
   - content-management-system
   - mobile

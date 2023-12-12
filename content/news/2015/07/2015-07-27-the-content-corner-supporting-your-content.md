@@ -6,7 +6,7 @@ summary: 'This column revolves mostly around content creation and strategy, but 
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - the-content-corner

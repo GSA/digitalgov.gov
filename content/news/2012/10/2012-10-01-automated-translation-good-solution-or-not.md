@@ -6,7 +6,7 @@ summary: 'Automated translation is touted as a one click solution. But is it? Fr
 authors:
   - lgodfrey
 topics:
-  - content
+  - content-strategy
   - product-management
   - cdc
   - DOJ

@@ -8,7 +8,7 @@ authors:
   - melody-kramer
   - maya-benari
 topics:
-  - content
+  - content-strategy
   - user-experience
   - 18f
   - draft-web-design-standards

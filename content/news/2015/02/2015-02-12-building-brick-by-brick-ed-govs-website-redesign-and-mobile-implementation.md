@@ -6,7 +6,7 @@ summary: 'Rome wasn&#8217;t built in a day. Neither are website redesigns. In li
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - mobile
   - monthly-theme
   - CMS

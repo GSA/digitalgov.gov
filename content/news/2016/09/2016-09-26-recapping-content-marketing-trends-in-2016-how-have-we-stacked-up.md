@@ -6,11 +6,11 @@ summary: 'Earlier this year, it was predicted that content marketing would becom
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
-  - content
+  - content-strategy
   - content-strategy
   - content-syndication
   - HHS

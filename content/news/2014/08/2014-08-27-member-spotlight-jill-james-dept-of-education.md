@@ -6,7 +6,7 @@ summary: 'Welcome to the first edition of a new series of articles spotlighting 
 authors:
   - rflagg
 topics:
-  - content
+  - content-strategy
   - monthly-theme
   - responsive-web-design
   - us-department-of-education

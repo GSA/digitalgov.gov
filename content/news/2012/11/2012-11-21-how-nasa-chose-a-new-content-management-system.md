@@ -7,7 +7,7 @@ authors:
   - brian-dunbar
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - governance
   - strategy
   - policy

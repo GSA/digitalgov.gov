@@ -6,7 +6,7 @@ summary: 'Storytelling plays an important role in helping to establish the human
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - the-content-corner
   - us-department-of-labor

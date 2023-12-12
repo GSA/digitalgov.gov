@@ -6,7 +6,7 @@ summary: On June 10, 2014, the Metrics Community of Practice of the Federal Web 
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
+  - content-strategy
   - analytics
   - our-work
   - search

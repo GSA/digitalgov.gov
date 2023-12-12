@@ -6,7 +6,7 @@ summary: "This page is a collection of style guides created by government agenci
 topics:
   - plain-language
   - communication
-  - content
+  - content-strategy
 ---
 
 Style guides are used to set the tone and guidelines for how an agency communicates with the public. This page is a collection of style guides created by government agencies.

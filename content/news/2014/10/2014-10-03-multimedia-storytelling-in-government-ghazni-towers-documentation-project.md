@@ -6,7 +6,7 @@ summary: '&#8220;Content is king&#8221; is a generally accepted truth for those 
 authors:
   - stephanie-sharpe
 topics:
-  - content
+  - content-strategy
   - social-media
   - video
   - analytics

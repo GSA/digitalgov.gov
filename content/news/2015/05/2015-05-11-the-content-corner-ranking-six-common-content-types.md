@@ -6,7 +6,7 @@ summary: 'In last week&#8217;s column, I went back to a frequent theme of mine a
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - podcast
   - the-content-corner

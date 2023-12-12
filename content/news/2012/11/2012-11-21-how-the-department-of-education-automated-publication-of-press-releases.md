@@ -6,7 +6,7 @@ summary: A case study on how the Department of Education used the Drupal content
 authors:
   - jennifer-reeves
 topics:
-  - content
+  - content-strategy
   - CMS
   - content-management-system
   - drupal

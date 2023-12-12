@@ -17,7 +17,7 @@ summary: ""
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - content
+  - content-strategy
   - data
   - design
   - analytics

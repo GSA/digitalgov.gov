@@ -7,7 +7,7 @@ authors:
   - jacqueline-snee
   - jessica-milcetich
 topics:
-  - content
+  - content-strategy
   - analytics
   - usagov
 ---

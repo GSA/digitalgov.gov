@@ -11,7 +11,7 @@ end_date: 2021-08-26 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
-  - content
+  - content-strategy
   - regulation
 # See all authors at https://digital.gov/authors
 authors:

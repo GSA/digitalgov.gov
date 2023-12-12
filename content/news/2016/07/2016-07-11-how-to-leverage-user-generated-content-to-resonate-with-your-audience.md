@@ -6,7 +6,7 @@ summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized rec
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - mobile
   - social-media
   - user-experience
@@ -16,7 +16,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - content
+  - content-strategy
   - crowdsourcing
   - mobile
   - mobile-apps

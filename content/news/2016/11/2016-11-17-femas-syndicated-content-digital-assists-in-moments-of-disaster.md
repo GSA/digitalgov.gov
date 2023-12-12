@@ -7,10 +7,10 @@ authors:
   - christen-geiler
 topics:
   - code
-  - content
+  - content-strategy
   - product-management
   - mobile
-  - content
+  - content-strategy
   - content-strategy
   - content-syndication
   - federal-emergency-management-agency

@@ -6,7 +6,7 @@ summary: Multilingual does not always mean multiple accounts or websites. Increa
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
   - analytics
   - content-strategy

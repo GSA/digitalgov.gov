@@ -6,7 +6,7 @@ summary: 'While composing email on mobile phones is still a tricky feat, email r
 authors:
   - lisa-wilcox
 topics:
-  - content
+  - content-strategy
   - mobile
   - mobile
   - social-media

@@ -6,7 +6,7 @@ summary: ' USDA has been looking for ways to improve content delivery to our cus
 authors:
   - peter-rhee
 topics:
-  - content
+  - content-strategy
   - 18f
   - USDA
 ---

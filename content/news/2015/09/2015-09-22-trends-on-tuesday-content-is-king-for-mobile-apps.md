@@ -6,7 +6,7 @@ summary: 'Yahoo’s mobile analytics service, Flurry, released a new and provoca
 authors:
   - wsullivan
 topics:
-  - content
+  - content-strategy
   - mobile
   - mobile-apps
   - mobile-ux-guideline-4

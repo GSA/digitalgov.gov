@@ -7,7 +7,7 @@ authors:
   - jparcell
   - katie-steffy
 topics:
-  - content
+  - content-strategy
   - mobile
   - monthly-theme
   - gsa

@@ -6,7 +6,7 @@ summary: 'Lately, we have been hearing a lot about microsites&mdash;CDC’s Zika
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - application-programming-interface
   - cdc
   - centers-for-disease-control-and-prevention

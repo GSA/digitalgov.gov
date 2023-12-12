@@ -6,7 +6,7 @@ summary: Helping patients manage chronic pain has become an increasing challenge
 authors:
   - yasmine-kloth
 topics:
-  - content
+  - content-strategy
   - analytics
   - mobile
   - social-media

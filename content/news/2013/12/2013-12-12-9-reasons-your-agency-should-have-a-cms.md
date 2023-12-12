@@ -6,7 +6,7 @@ summary: 'Why Invest in a Content Management System? Does it take too long to up
 authors:
   - rflagg
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy

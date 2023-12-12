@@ -6,11 +6,11 @@ summary: 'As part of USAGov’s efforts to provide our audience with the reliabl
 authors:
   - andrea-m-castelluccio
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
-  - content
+  - content-strategy
   - usagov
 ---
 

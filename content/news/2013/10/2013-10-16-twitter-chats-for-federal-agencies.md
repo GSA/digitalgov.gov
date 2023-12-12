@@ -6,7 +6,7 @@ summary: A Twitter town hall, or Twitter chat, is an event where agencies invite
 authors:
   - jherman
 topics:
-  - content
+  - content-strategy
   - product-management
   - social-media
   - HHS

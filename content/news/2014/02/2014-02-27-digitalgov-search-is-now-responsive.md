@@ -6,7 +6,7 @@ summary: 'We&#8217;ve redesigned our mobile search results page. It now uses a c
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
+  - content-strategy
   - mobile
   - our-work
   - search

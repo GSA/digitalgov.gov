@@ -16,7 +16,7 @@ topics:
   - multilingual-community
   - user-experience
   - customer-experience
-  - content
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - willa

@@ -10,7 +10,7 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - content
+  - content-strategy
   - design
   - agile
   - content-strategy

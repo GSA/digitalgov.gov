@@ -7,7 +7,7 @@ authors:
   - barbara-walton
 topics:
   - communities
-  - content
+  - content-strategy
   - data
   - product-management
   - analytics

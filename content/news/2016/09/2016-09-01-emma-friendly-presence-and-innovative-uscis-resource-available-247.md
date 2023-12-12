@@ -7,7 +7,7 @@ authors:
   - andrea-sanchez
   - limary-suarez-pacheco
 topics:
-  - content
+  - content-strategy
   - product-management
   - artificial intelligence
   - customer-experience

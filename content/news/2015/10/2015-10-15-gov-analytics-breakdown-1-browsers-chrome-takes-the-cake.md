@@ -8,7 +8,7 @@ authors:
   - tlowden
 
 topics:
-  - content
+  - content-strategy
   - data
   - analytics
   - user-experience

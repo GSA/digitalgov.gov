@@ -6,7 +6,7 @@ summary: 'During a recent DigitalGov University webinar, Jeremy Vanderlan, Techn
 authors:
   - jparcell
 topics:
-  - content
+  - content-strategy
   - mobile
   - monthly-theme
   - analytics

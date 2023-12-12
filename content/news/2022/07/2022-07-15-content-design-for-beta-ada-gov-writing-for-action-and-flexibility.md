@@ -12,7 +12,7 @@ deck: "**Content Design for beta.ADA.gov: Writing for Action and
 topics:
   - 18f
   - design
-  - content
+  - content-strategy
   - research
   - user-centered-design
   - communication

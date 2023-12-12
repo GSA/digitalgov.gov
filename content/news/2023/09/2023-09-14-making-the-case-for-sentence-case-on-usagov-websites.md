@@ -8,7 +8,7 @@ deck: "What is the best case style to use for titles and headings? For the new U
 summary: "What is the best case style to use for titles and headings? For the new USAGov websites, we discuss the decision to use sentence case on USAGov products."
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - design
   - communication
 slug: making-the-case-for-sentence-case-on-usagov-websites

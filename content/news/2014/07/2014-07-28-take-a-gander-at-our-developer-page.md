@@ -7,7 +7,7 @@ authors:
   - gray-brooks
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - 18f
 ---
 

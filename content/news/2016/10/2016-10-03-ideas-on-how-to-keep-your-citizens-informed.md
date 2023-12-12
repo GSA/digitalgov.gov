@@ -6,11 +6,11 @@ summary: As localities struggle with issues such as the Zika virus and the Opioi
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - product-management
   - cdc
   - centers-for-disease-control-and-prevention
-  - content
+  - content-strategy
   - content-strategy
   - content-syndication
   - fda

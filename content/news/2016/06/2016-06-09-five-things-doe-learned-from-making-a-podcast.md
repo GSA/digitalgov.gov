@@ -6,7 +6,7 @@ summary: 'The Energy Department launched Direct Current, our first podcast, on M
 authors:
   - allison-lantero
 topics:
-  - content
+  - content-strategy
   - DOE
   - podcast
   - united-states-department-of-energy

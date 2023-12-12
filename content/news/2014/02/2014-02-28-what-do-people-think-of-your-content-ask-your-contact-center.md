@@ -7,7 +7,7 @@ authors:
   - tonya-beres
 topics:
   - communities
-  - content
+  - content-strategy
   - product-management
   - social-media
   - user-experience

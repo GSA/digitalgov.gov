@@ -8,7 +8,7 @@ summary: Engaging readers who receive hundreds of emails a day is not easy, but
   it starts with the most critical starting point—empathy for their time.
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - content-strategy
   - social-media
   - communication

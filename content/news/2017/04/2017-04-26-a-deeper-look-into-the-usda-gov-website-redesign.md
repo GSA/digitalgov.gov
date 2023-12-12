@@ -14,7 +14,7 @@ topics:
   - policy
   - accessibility
   - architecture
-  - content
+  - content-strategy
   - mobile-friendly
   - US Department of Agriculture
   - uswds

@@ -19,7 +19,7 @@ topics:
   - usability-testing
   - usability
   - design
-  - content
+  - content-strategy
 slug: accessibility-testing-for-onrr-gov
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -6,7 +6,7 @@ summary: 'Over the years, the staff intranet at the National Archives and Record
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - content
+  - content-strategy
   - design
   - user-testing-and-research
   - user-experience

@@ -6,7 +6,7 @@ summary: ' A (possibly infamous) blog post from last Friday and the discussion/d
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - infographic

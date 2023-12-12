@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - code
-  - content
+  - content-strategy
   - data
   - product-management
   - analytics

@@ -6,7 +6,7 @@ summary: Covering the breadth of federal web policy, the new downloadable checkl
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - content-strategy
   - user-experience
   - design

@@ -16,7 +16,7 @@ deck: "**Creating a New Way for People To Discover Government
 summary: summ
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - user-experience
   - customer-experience
   - accessibility

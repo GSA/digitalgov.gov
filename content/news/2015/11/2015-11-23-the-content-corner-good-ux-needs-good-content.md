@@ -6,7 +6,7 @@ summary: 'As DigitalGov focuses on user experience this month it is good to reme
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - design
   - monthly-theme
   - administrative-office-of-the-united-states-courts

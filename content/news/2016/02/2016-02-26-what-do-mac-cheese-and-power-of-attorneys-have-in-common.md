@@ -6,7 +6,7 @@ summary: 'They ranked among our top three most popular emails in 2015. At USAGov
 authors:
   - victoria-wales
 topics:
-  - content
+  - content-strategy
   - content-strategy
   - GobiernoUSAgov
   - usa-gov

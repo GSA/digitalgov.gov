@@ -6,7 +6,7 @@ summary: 'As of 2015, Millennials spent 30% of their time consuming user-generat
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - NARA
   - national-archives-and-records-administration

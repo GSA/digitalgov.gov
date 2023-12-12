@@ -20,7 +20,7 @@ summary: "The USAGov program has been developing a new iteration of our
 topics:
   - communication
   - user-experience
-  - content
+  - content-strategy
   - design
   - multilingual
   - budgeting-and-performance

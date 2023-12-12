@@ -6,7 +6,7 @@ summary: Many of us depend a great deal on subject matter experts (SMEs) to gene
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - Federal CrowdSource Mobile Testing Program

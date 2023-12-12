@@ -6,7 +6,7 @@ summary: Following the recent OMB memo that all publicly available federal websi
 authors:
   - dmccleskey
 topics:
-  - content
+  - content-strategy
   - our-work
   - search
   - https

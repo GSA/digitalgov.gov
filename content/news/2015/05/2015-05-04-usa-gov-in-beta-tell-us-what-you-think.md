@@ -6,7 +6,7 @@ summary: ' Thirteen years in digital is an eon, and on the eve of its 13th birth
 authors:
   - sarah-crane
 topics:
-  - content
+  - content-strategy
   - product-management
   - application-programming-interface
   - analytics

@@ -7,7 +7,7 @@ authors:
   - kate-garklavs
   - nicole-fenton
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy

@@ -6,10 +6,10 @@ summary: 'As any experienced retailer will tell you, the customer experience beg
 authors:
   - ben-bloom
 topics:
-  - content
+  - content-strategy
   - design
   - user-testing-and-research
-  - content
+  - content-strategy
   - content-strategy
   - mobile
   - mobile-apps

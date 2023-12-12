@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - communities
-  - content
+  - content-strategy
   - product-management
   - mobile
   - monthly-theme

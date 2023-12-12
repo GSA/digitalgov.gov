@@ -6,7 +6,7 @@ summary: 'If you have a website, then you most likely have cornerstone content&m
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - NPS
   - seo
@@ -22,7 +22,7 @@ Properly developed (and frequently maintained) cornerstone content pages can hel
 
 As I said before, even minimal websites have or should have at least a few pages of cornerstone content. The most common of these include the About and Contact pages. These are great basic examples of what cornerstone content is. In my opinion, no professional (or probably even personal) site should exist without these two pages if the site is open to the public and you are sharing content with users. For public sector agencies, these pages are even more critical.
 
-These two pages are your site’s version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="{{< ref "/topics/content" >}}" target="_blank">content</a> or even <a href="{{< ref "/topics/the-content-corner" >}}" target="_blank">The Content Corner</a>.
+These two pages are your site’s version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="{{< ref "/topics/content-strategy" >}}" target="_blank">content</a> or even <a href="{{< ref "/topics/the-content-corner" >}}" target="_blank">The Content Corner</a>.
 
 ## The Anatomy of a Cornerstone Page
 

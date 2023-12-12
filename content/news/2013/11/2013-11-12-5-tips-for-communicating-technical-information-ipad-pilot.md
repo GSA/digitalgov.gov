@@ -6,7 +6,7 @@ summary: '&#8220;The difference between the right word and the almost right word
 authors:
   - alan-greilsamer
 topics:
-  - content
+  - content-strategy
   - product-management
   - user-experience
   - communication

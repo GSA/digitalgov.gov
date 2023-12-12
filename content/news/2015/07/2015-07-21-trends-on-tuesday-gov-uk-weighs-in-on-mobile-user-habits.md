@@ -6,7 +6,7 @@ summary: ' England’s Government Digital Service (similar to our own U.S. Digit
 authors:
   - wsullivan
 topics:
-  - content
+  - content-strategy
   - mobile
   - COPE
   - mobile

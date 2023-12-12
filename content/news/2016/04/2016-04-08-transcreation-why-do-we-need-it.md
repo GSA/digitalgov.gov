@@ -6,7 +6,7 @@ summary: Transcreation is a relatively new term that blends the words translatio
 authors:
   - andrea-m-castelluccio
 topics:
-  - content
+  - content-strategy
   - product-management
   - communication
   - content-strategy

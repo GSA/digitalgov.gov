@@ -13,7 +13,7 @@ authors:
 topics:
   - application-programming-interface
   - challenges
-  - content
+  - content-strategy
   - data
   - product-management
   - analytics

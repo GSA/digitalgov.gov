@@ -6,7 +6,7 @@ summary: Communication professionals pride themselves on coming up with big idea
 authors:
   - katie-gorscak
 topics:
-  - content
+  - content-strategy
   - video
   - HHS
   - united-states-department-of-health-and-human-services

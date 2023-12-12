@@ -8,10 +8,10 @@ authors:
   - mary-king
   - kristen-albrittain
 topics:
-  - content
+  - content-strategy
   - product-management
   - social-media
-  - content
+  - content-strategy
   - NARA
   - national-archives-and-records-administration
   - smithsonian-institution

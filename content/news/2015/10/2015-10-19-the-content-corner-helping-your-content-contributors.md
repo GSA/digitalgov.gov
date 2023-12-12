@@ -6,7 +6,7 @@ summary: 'Recently, I shared some suggestions and personal lessons learned for a
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - design
   - administrative-office-of-the-united-states-courts
   - CMS

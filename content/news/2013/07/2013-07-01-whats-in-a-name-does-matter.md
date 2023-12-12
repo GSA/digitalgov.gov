@@ -6,7 +6,7 @@ summary: Can you imagine how frustrating and confusing it would be to find sever
 authors:
   - lgodfrey
 topics:
-  - content
+  - content-strategy
   - product-management
   - ANLE
   - customer-experience

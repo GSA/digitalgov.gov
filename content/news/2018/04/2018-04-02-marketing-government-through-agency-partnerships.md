@@ -6,7 +6,7 @@ summary: 'The Outreach and Marketing team from USAGov helps agencies amplify the
 authors:
   - claire-loxsom
 topics:
-  - content
+  - content-strategy
   - design
   - analytics
   - social-media
@@ -16,7 +16,7 @@ topics:
   - accessibility
   - accessibility
   - analytics
-  - content
+  - content-strategy
   - design
   - communication
   - multilingual

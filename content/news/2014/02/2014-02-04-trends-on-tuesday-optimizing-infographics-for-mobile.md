@@ -6,7 +6,7 @@ summary: 'Mobile first means more than just focusing on text content; it’s als
 authors:
   - lisa-wilcox
 topics:
-  - content
+  - content-strategy
   - mobile
   - mobile
   - mobile-first

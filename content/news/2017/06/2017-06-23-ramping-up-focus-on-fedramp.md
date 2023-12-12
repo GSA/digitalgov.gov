@@ -7,7 +7,7 @@ summary: 'After recently celebrating our Fifth Birthday and logo update, the Fed
 authors:
   - fedramp
 topics:
-  - content
+  - content-strategy
   - fedramp
 ---
 

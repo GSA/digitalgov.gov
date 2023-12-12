@@ -7,7 +7,7 @@ authors:
   - apiazza
   - gwynne-kostin
 topics:
-  - content
+  - content-strategy
   - product-management
   - our-work
   - social-media

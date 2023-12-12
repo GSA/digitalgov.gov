@@ -6,7 +6,7 @@ summary: Content is one of the most important things about your site. After all,
 authors:
   - kdaniel
 topics:
-  - content
+  - content-strategy
   - monthly-theme
   - agile
   - office-of-the-us-foreign-assistance-resources

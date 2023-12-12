@@ -11,7 +11,7 @@ summary: "Implementing a few easy steps for research and search engine optimizat
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - content
+  - content-strategy
   - content-strategy
   - search-engine-optimization
   - seo

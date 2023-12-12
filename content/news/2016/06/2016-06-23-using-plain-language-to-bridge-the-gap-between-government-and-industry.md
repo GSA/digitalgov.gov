@@ -6,14 +6,14 @@ summary: Much of our work with government partners to deliver better digital ser
 authors:
   - ryan-sibley
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
   - 18f
   - agile
   - cloud-and-infrastructure
-  - content
+  - content-strategy
   - gsa
   - acquisition
   - plain-language

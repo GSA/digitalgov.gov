@@ -8,7 +8,7 @@ summary: Combined with technology and audience awareness, our increasingly
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - social media
   - communication
   - plain-language

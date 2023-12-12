@@ -6,7 +6,7 @@ summary: 'It’s a well-known fact that the Hispanic population is growing at a 
 authors:
   - victoria-wales
 topics:
-  - content
+  - content-strategy
   - social-media
   - GobiernoUSAgov
   - multilingual

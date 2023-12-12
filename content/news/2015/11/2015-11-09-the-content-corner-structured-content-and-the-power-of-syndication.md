@@ -6,7 +6,7 @@ summary: 'A recent DigitalGov webinar on syndicated content and the recent achie
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - mobile
   - monthly-theme
   - application-programming-interface

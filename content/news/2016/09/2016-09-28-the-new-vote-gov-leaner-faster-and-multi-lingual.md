@@ -7,14 +7,14 @@ authors:
   - yoz-grahame
 topics:
   - code
-  - content
+  - content-strategy
   - design
   - user-testing-and-research
   - user-experience
   - 18f
   - analytics
   - cloud-and-infrastructure
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - draft-web-design-standards

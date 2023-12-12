@@ -6,7 +6,7 @@ summary: ' Over the last several years, continuing advances in computer processi
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - analytics
   - BLS

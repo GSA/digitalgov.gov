@@ -6,7 +6,7 @@ summary: In the span of two days, I received as many emails from respectable con
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - blog
   - artificial-intelligence

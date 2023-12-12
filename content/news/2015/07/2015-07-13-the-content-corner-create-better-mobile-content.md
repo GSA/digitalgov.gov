@@ -6,7 +6,7 @@ summary: 'All content needs to be developed with a mobile-first strategy, from h
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - mobile
   - administrative-office-of-the-united-states-courts
   - infographic

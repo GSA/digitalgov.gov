@@ -6,7 +6,7 @@ summary: 'We have written about syndication and its successes before. The conten
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - content-syndication
   - HHS
   - national-institutes-of-health

@@ -8,7 +8,7 @@ authors:
   - carolyn-cihelka
 
 topics:
-  - content
+  - content-strategy
   - design
   - mobile
   - communication

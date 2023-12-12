@@ -6,7 +6,7 @@ summary: 'If you&#8217;re creating video, stock footage can be your best friend.
 authors:
   - jonathan-rubin
 topics:
-  - content
+  - content-strategy
   - user-experience
   - video
 

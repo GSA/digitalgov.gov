@@ -6,7 +6,7 @@ summary: A branch that does not stick to its source of nutrition will wither awa
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - accessibility
   - DOE
   - firstnet

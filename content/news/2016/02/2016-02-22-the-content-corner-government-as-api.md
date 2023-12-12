@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - monthly-theme
   - administrative-office-of-the-united-states-courts
   - application-programming-interface

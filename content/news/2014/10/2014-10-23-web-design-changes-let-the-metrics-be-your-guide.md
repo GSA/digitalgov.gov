@@ -6,7 +6,7 @@ summary: 'On September 6, 2013 at 11:27 p.m., EDT., viewers tuned in through the
 authors:
   - byrhonda-lyons
 topics:
-  - content
+  - content-strategy
   - analytics
   - mobile
   - monthly-theme

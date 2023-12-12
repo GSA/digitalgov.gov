@@ -8,7 +8,7 @@ authors:
   - christen-geiler
 
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - content-strategy

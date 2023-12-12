@@ -7,7 +7,7 @@ authors:
   - edgardo-morales
   - phat-nguyen
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy

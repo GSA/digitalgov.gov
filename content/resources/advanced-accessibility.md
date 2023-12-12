@@ -19,7 +19,7 @@ topics:
   - diversity-equity-and-inclusion
   - product-management
   - plain-language
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - user-experience

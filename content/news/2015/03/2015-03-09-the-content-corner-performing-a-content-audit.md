@@ -6,7 +6,7 @@ summary: 'Audit. It&#8217;s a word that generally has no positive connotations w
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - analytics
   - content-strategy

@@ -6,7 +6,7 @@ summary: Government Web pages are found mainly through search engines. Google re
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
+  - content-strategy
   - communication
   - analytics
   - search-engine-optimization

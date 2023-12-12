@@ -8,7 +8,7 @@ summary: What is translation technology? This introductory resource will help yo
 topics:
   - multilingual
   - communication
-  - content
+  - content-strategy
   - content-strategy
   - communication
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - communities
-  - content
+  - content-strategy
   - aoi
   - application-programming-interface
   - Census

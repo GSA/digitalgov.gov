@@ -7,11 +7,11 @@ authors:
   - victoria-wales
   - darren-b-lurie
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
-  - content
+  - content-strategy
   - communication
 ---
 

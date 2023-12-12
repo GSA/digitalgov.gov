@@ -26,7 +26,7 @@ weight: 2
 # Topics that best describe this product or service
 topics:
   - cloud-and-infrastructure
-  - content
+  - content-strategy
   - content-management-system
   - github
 

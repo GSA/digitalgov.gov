@@ -6,7 +6,7 @@ summary: 'In July 2013, U.S. Forest Service fisheries biologist Pete Schneider l
 authors:
   - donavan-albert
 topics:
-  - content
+  - content-strategy
   - social-media
   - video
 ---

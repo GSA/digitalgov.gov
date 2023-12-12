@@ -7,7 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - code
-  - content
+  - content-strategy
   - usagov
 
 ---

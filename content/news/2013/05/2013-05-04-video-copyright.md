@@ -6,7 +6,7 @@ summary: ' Don&#8217;t include Internet music, video, or graphics in your video 
 authors:
   - jonathan-rubin
 topics:
-  - content
+  - content-strategy
   - video
 ---
 

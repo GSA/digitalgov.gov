@@ -12,7 +12,7 @@ topics:
   - application-programming-interface
   - challenges
   - communities
-  - content
+  - content-strategy
   - data
   - design
   - governance
@@ -30,7 +30,7 @@ topics:
   - application-programming-interface
   - artificial-intelligence
   - cloud-and-infrastructure
-  - content
+  - content-strategy
   - customer-experience
   - analytics
   - mobile

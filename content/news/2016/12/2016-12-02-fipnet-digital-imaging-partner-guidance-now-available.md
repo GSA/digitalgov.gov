@@ -6,11 +6,11 @@ summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now av
 authors:
   - federal-depository-library-program
 topics:
-  - content
+  - content-strategy
   - product-management
   - strategy
   - policy
-  - content
+  - content-strategy
   - content-strategy
 ---
 

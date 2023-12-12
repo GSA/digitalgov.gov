@@ -6,7 +6,7 @@ summary: 'Do you scratch your head trying to figure out the latest trends to rea
 authors:
   - alberto-navas
 topics:
-  - content
+  - content-strategy
   - monthly-theme
   - GobiernoUSAgov
   - multilingual

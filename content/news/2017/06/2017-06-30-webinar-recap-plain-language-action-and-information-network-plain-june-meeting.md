@@ -6,7 +6,7 @@ summary: 'This month&#8217;s Plain Language of Community Practice meeting featur
 authors:
   - samantha-hinz
 topics:
-  - content
+  - content-strategy
   - strategy
   - policy
   - communication

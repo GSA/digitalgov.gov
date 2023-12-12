@@ -7,14 +7,14 @@ authors:
   - karla-blaine
 topics:
   - accessibility
-  - content
+  - content-strategy
   - data
   - design
   - product-management
   - strategy
   - policy
   - user-testing-and-research
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - National Center for Complementary and Integrative Health

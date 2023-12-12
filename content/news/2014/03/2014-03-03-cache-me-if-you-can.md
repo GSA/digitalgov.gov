@@ -6,7 +6,7 @@ summary: 'Slowness Hurts Web Pages Have you ever been frustrated when visiting a
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
+  - content-strategy
   - data
   - our-work
   - customer-experience

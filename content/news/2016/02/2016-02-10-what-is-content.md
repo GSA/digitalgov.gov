@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
   - andreanocesigritz
 topics:
-  - content
+  - content-strategy
   - monthly-theme
   - content-strategy
   - content-syndication

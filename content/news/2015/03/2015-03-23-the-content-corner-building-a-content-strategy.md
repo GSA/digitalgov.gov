@@ -6,7 +6,7 @@ summary: 'I recently read a disheartening statistic which stated that only 32% o
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - the-content-corner

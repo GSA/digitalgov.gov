@@ -15,7 +15,7 @@ end_date: 2022-10-20 15:00:00 -0500
 topics:
   - uswds
   - user-experience
-  - content
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

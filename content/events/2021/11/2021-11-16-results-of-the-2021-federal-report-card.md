@@ -17,7 +17,7 @@ topics:
   - training
   - communication
   - user-experience
-  - content
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

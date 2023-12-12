@@ -7,7 +7,7 @@ authors:
   - dominic-mcdevitt-parks
 topics:
   - application-programming-interface
-  - content
+  - content-strategy
   - data
   - NARA
   - national-archives-and-records-administration

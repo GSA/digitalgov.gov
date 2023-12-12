@@ -6,7 +6,7 @@ summary: 'Good communicators are always&hellip;well&hellip;evaluating the way th
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - product-management
   - monthly-theme
   - social-media

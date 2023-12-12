@@ -12,7 +12,7 @@ summary: In this special report, we discuss a website redesign’s nine phases a
 topics:
   - search
   - design
-  - content
+  - content-strategy
   - content-strategy
   - search-engine-optimization
   - seo

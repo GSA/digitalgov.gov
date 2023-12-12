@@ -12,7 +12,7 @@ topics:
   - multilingual
   - social-media
   - content-strategy
-  - content
+  - content-strategy
   - strategy
   - communication
   - communication

@@ -6,7 +6,7 @@ summary: Content audits can be tedious. Two content designers discuss why we do 
 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - content-strategy
   - seo
   - accessibility

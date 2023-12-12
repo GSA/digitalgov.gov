@@ -7,7 +7,7 @@ authors:
   - carolyn-dew
   - melody-kramer
 topics:
-  - content
+  - content-strategy
   - user-experience
   - 18f
   - draft-web-design-standards
