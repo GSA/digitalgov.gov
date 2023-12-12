@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - api
+  - application-programming-interface
   - analytics
   - mobile-apps
   - mobile-friendly

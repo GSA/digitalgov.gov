@@ -10,7 +10,7 @@ topics:
   - mobile
   - our-work
   - accessibility
-  - api
+  - application-programming-interface
   - mobile-app-development-program
   - mobile-gov
   - mobile-apps

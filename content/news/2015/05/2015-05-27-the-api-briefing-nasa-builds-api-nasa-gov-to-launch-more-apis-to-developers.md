@@ -6,8 +6,8 @@ summary: ' NASA has been busy since we last visited their collection of APIs bac
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - nasa
   - wednesday-api-briefing
 ---

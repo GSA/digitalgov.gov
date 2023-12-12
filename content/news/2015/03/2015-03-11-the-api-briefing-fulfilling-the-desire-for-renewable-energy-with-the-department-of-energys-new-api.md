@@ -6,8 +6,8 @@ summary: ' The Database of State Incentives for Renewables and Efficiency&reg; (
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - data
   - json
   - united-states-department-of-energy

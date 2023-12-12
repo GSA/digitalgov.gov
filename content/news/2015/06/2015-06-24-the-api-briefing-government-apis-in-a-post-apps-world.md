@@ -6,8 +6,8 @@ summary: Take out your smartphone and count the number of apps that you have. Ho
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - data
   - mobile-apps
   - open-data

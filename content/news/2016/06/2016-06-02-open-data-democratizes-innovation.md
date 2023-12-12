@@ -7,13 +7,13 @@ authors:
   - robin-thottungal
   - kris-rowley
 topics:
-  - api
+  - application-programming-interface
   - challenges
   - crowdsourcing-and-citizen-science
   - data
   - strategy
   - policy
-  - api
+  - application-programming-interface
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions

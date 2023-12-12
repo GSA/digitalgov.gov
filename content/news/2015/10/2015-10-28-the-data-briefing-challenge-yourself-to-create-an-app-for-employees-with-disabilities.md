@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - accessibility
-  - api
+  - application-programming-interface
   - data
   - data-gov
   - DOT

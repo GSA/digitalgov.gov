@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - data
-  - api
+  - application-programming-interface
   - Census
   - CFPB
   - Consumer Financial Protection Bureau

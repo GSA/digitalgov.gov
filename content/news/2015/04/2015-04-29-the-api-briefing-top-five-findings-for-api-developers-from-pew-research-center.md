@@ -6,7 +6,7 @@ summary: 'The Pew Research Center just released a report on how Americans view o
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - data
   - mobile

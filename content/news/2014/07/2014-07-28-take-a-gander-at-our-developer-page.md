@@ -6,7 +6,7 @@ summary: 'A growing trend both inside government and outside is to have a simple
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - content
   - 18f
 ---

@@ -32,7 +32,7 @@ authors:
 # Topics that best describe this product or service
 topics:
   - data
-  - api
+  - application-programming-interface
   - code
   - policy
   - open-source

@@ -6,7 +6,7 @@ summary: 'I recently found an app that provides a great service through crowdsou
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - crowdsourcing-and-citizen-science
   - mobile
   - citizen-science

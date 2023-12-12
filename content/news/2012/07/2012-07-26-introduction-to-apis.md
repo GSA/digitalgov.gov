@@ -6,10 +6,10 @@ summary: 'There&#8217;s an easier way to get content and data into the hands of 
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - code
   - mobile
-  - api
+  - application-programming-interface
   - cdc
   - mobile-gov
   - nasa

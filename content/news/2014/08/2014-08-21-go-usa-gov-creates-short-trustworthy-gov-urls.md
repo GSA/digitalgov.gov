@@ -6,7 +6,7 @@ summary: 'Short URLs are useful for tracking clicks, but they can create a poor 
 authors:
   - michelle-chronister
 topics:
-  - api
+  - application-programming-interface
   - content
   - monthly-theme
   - our-work

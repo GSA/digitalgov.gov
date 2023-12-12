@@ -7,12 +7,12 @@ authors:
   - sheila-prindiville
   - michael-balint
 topics:
-  - api
+  - application-programming-interface
   - code
   - content
   - data
   - user-experience
-  - api
+  - application-programming-interface
   - code
   - content
   - data

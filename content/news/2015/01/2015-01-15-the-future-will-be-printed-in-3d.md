@@ -9,7 +9,7 @@ topics:
   - code
   - monthly-theme
   - 18f
-  - api
+  - application-programming-interface
   - national-institutes-of-health
   - National Library of Medicine
   - NIAID

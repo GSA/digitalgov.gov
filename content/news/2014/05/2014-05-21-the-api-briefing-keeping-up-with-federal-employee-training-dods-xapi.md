@@ -6,8 +6,8 @@ summary: 'Federal employee training is about to receive a much-needed boost in t
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - DoD
   - united-states-department-of-defense
   - wednesday-api-briefing

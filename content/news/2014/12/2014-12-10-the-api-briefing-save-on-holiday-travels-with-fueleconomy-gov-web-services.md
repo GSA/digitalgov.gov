@@ -6,7 +6,7 @@ summary: We are in the middle of the holidays, and that means much driving to vi
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - mobile
   - DOE
   - US Department of Agriculture

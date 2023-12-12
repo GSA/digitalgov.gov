@@ -7,7 +7,7 @@ authors:
   - ellen-arnold-losey
 topics:
   - mobile
-  - api
+  - application-programming-interface
   - CMS
   - content-management-system
   - content-models

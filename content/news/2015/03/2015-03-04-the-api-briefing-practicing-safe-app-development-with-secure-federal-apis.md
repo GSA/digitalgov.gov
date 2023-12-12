@@ -6,8 +6,8 @@ summary: ' When browsing the various APIs offered by the federal government, you
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - application-programming-interface
   - security
   - US Department of Agriculture

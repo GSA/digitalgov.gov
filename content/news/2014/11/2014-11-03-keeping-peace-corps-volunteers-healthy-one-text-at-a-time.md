@@ -7,7 +7,7 @@ authors:
   - brian-forde
   - carrie-hessler-radelet
 topics:
-  - api
+  - application-programming-interface
   - mobile
   - GitHub
   - mobile-ux-guideline-5

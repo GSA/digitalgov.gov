@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - api
+  - application-programming-interface
   - data
   - data-visualization
   - social-media

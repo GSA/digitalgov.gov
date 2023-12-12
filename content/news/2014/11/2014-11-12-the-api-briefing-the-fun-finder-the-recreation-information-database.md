@@ -6,7 +6,7 @@ summary: Back in 2000, I worked at a dot-com building website applications such 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - US Department of Agriculture
   - USDA
   - wednesday-api-briefing

@@ -6,7 +6,7 @@ summary: 'By now, you are familiar with &ldquo;big data&rdquo; or datasets that 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - analytics
   - data
   - data-gov

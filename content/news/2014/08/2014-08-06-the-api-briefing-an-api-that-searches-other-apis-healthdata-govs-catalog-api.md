@@ -6,9 +6,9 @@ summary: 'As federal agencies release APIs on an almost daily basis, keeping tra
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - code
-  - api
+  - application-programming-interface
   - data-gov
   - HHS
   - united-states-department-of-health-and-human-services

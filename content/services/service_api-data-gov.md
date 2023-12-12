@@ -30,6 +30,6 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - api
+  - application-programming-interface
   - data
 ---

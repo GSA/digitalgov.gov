@@ -7,9 +7,9 @@ authors:
   - awichman
   - leo-yang
 topics:
-  - api
+  - application-programming-interface
   - mobile
-  - api
+  - application-programming-interface
   - mobile
   - NPS
   - us-national-park-service

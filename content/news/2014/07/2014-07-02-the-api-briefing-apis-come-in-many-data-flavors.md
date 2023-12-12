@@ -6,7 +6,7 @@ summary: This week, we will look at three different APIs that demonstrate how ag
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - Census
   - DOL

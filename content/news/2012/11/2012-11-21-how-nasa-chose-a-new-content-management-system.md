@@ -6,7 +6,7 @@ summary: 'A case study on how NASA is choosing a new enterprise content manageme
 authors:
   - brian-dunbar
 topics:
-  - api
+  - application-programming-interface
   - content
   - governance
   - strategy

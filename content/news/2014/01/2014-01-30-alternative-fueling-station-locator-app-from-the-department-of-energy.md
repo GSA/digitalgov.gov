@@ -6,7 +6,7 @@ summary: 'So: You decided to purchase a car that takes advantage of more environ
 topics:
   - code
   - mobile
-  - api
+  - application-programming-interface
   - mobile-apps
   - NREL
   - open-source

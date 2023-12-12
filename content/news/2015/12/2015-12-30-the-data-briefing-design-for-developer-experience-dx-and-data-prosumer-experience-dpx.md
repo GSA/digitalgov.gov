@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - api
+  - application-programming-interface
   - data
   - the-data-briefing
   - United States Patent and Trademark Office

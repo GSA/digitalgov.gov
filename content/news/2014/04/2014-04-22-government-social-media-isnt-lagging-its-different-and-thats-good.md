@@ -10,7 +10,7 @@ topics:
   - product-management
   - social-media
   - aoi
-  - api
+  - application-programming-interface
   - national-archives-and-records-administration
   - socialgov
   - socialgov-community

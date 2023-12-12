@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - data
-  - api
+  - application-programming-interface
   - data-visualization
   - data-gov
   - mobile-apps

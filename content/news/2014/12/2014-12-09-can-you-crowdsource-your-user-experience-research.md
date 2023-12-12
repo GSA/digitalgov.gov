@@ -10,7 +10,7 @@ topics:
   - design
   - monthly-theme
   - user-testing-and-research
-  - api
+  - application-programming-interface
   - crowdsourcing
   - data-gov
   - Federal CrowdSource Mobile Testing Program

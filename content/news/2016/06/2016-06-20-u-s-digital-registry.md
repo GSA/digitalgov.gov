@@ -6,7 +6,7 @@ summary: The National Archives is pleased to participate in the U.S. Digital Reg
 authors:
   - david-s-ferriero
 topics:
-  - api
+  - application-programming-interface
   - product-management
   - monthly-theme
   - social-media

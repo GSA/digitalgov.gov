@@ -6,9 +6,9 @@ summary: The recent Ebola outbreaks demonstrate the need for current and authori
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - code
-  - api
+  - application-programming-interface
   - cdc
   - centers-for-disease-control-and-prevention
   - content-syndication

@@ -6,10 +6,10 @@ summary: 'The increasing sophistication of mobile devices has created many oppor
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - mobile
-  - api
+  - application-programming-interface
   - mobile
   - mobile-apps
   - native-apps

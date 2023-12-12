@@ -9,7 +9,7 @@ authors:
   - jthalls
 topics:
   - accessibility
-  - api
+  - application-programming-interface
   - challenges
   - communities
   - content
@@ -28,7 +28,7 @@ topics:
   - 18f
   - ai
   - analytics
-  - api
+  - application-programming-interface
   - artificial-intelligence
   - chatbots
   - cloud

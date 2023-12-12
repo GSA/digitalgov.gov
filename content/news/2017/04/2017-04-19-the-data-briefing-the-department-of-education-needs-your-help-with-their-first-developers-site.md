@@ -6,9 +6,9 @@ summary: 'The Department of Education (ED) launched its first developer site. Th
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
-  - api
+  - application-programming-interface
   - data
   - Education
   - GitHub

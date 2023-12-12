@@ -6,9 +6,9 @@ summary: 'Not sure how to get your datasets into Data.gov? We’ve put together 
 authors:
   - hyon-kim
 topics:
-  - api
+  - application-programming-interface
   - data
-  - api
+  - application-programming-interface
   - data-gov
   - metadata
 ---

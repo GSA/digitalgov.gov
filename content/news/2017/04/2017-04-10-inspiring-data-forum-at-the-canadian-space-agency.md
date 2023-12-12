@@ -6,10 +6,10 @@ summary: 'Last [month], NASA Open Innovation Program Manager Dr. Beth Beck and h
 authors:
   - jason-duley
 topics:
-  - api
+  - application-programming-interface
   - code
   - data
-  - api
+  - application-programming-interface
   - apps-challenges
   - data
   - nasa

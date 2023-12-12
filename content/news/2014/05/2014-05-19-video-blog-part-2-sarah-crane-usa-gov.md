@@ -6,10 +6,10 @@ summary: 'Part 2 of our interview with Sarah Crane from USA.gov shares how the U
 authors:
   - sarah-crane
 topics:
-  - api
+  - application-programming-interface
   - content
   - product-management
-  - api
+  - application-programming-interface
   - usagov
 ---
 

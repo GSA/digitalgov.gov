@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - 18f
-  - api
+  - application-programming-interface
   - FEC
   - federal-election-commission
 ---

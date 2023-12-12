@@ -11,7 +11,7 @@ authors:
 topics:
   - data
   - monthly-theme
-  - api
+  - application-programming-interface
   - data
   - https
   - metadata

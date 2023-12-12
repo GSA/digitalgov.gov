@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - api
+  - application-programming-interface
   - cdc
   - Census
   - centers-for-disease-control-and-prevention

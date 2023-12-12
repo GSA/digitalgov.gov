@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - our-work
-  - api
+  - application-programming-interface
   - usagov
 
 ---

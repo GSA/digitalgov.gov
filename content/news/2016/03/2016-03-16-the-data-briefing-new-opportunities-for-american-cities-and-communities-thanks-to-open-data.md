@@ -6,10 +6,10 @@ summary: 'Open data and APIs* have not only transformed the federal government; 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - monthly-theme
-  - api
+  - application-programming-interface
   - data
   - internet-of-things
   - open-data

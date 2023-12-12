@@ -9,7 +9,7 @@ topics:
   - content
   - product-management
   - our-work
-  - api
+  - application-programming-interface
   - search
   - federal-register
   - social-media

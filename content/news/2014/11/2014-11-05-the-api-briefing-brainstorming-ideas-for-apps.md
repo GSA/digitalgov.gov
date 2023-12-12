@@ -6,7 +6,7 @@ summary: 'Data.gov has 130,000+ datasets (as of November 3, 2014) many of which 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - mobile
   - data-gov

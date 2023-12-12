@@ -6,9 +6,9 @@ summary: ' You have the right to a safe workplace&mdash;and so do the employees 
 authors:
   - michael-pulsifer
 topics:
-  - api
+  - application-programming-interface
   - data
-  - api
+  - application-programming-interface
   - data
   - open-data
   - OSHA

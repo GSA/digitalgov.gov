@@ -7,7 +7,7 @@ authors:
   - anthony-calabrese
 topics:
   - code
-  - api
+  - application-programming-interface
   - CMS
   - content-strategy
   - GitHub

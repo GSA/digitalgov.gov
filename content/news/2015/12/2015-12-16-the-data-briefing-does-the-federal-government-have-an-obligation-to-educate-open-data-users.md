@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - api
+  - application-programming-interface
   - data
   - data-visualization
   - DOL

@@ -9,7 +9,7 @@ topics:
   - governance
   - product-management
   - american-red-cross
-  - api
+  - application-programming-interface
   - Census
   - department-of-commerce
 ---

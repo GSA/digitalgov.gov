@@ -6,11 +6,11 @@ summary: 'Daily imagery data taken by the Earth Polychromatic Imaging Camera is 
 authors:
   - veronica-phillips
 topics:
-  - api
+  - application-programming-interface
   - code
   - content
   - data
-  - api
+  - application-programming-interface
   - code
   - content
   - nasa

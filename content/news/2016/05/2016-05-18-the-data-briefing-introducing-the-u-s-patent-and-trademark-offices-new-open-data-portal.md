@@ -6,9 +6,9 @@ summary: 'My first column when I came back from last year’s summer sabbatical 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
-  - api
+  - application-programming-interface
   - BLS
   - Census
   - Commerce

@@ -6,7 +6,7 @@ summary: 'Improving the federal government’s ability to deliver digital inform
 authors:
   - rflagg
 topics:
-  - api
+  - application-programming-interface
   - content
   - CMS
   - content-management-system
@@ -74,7 +74,7 @@ See how [EPA uses Dublin Core metadata to structure content]({{< legacy-file "20
 
 [Metadata](http://en.wikipedia.org/wiki/Metadata) is essentially “data about data,” and consists of machine-readable descriptions that tell other computers important facts about your digital content. It provides a standardized system to label and classify content. It also:
 
-  * Enables content aggregation, re-use, and syndication via Really Simple Syndication (RSS), [Application Programming Interfaces (APIs)]({{< ref "/topics/api" >}}), and other technologies
+  * Enables content aggregation, re-use, and syndication via Really Simple Syndication (RSS), [Application Programming Interfaces (APIs)]({{< ref "/topics/application-programming-interface" >}}), and other technologies
   * Provides an audit trail, with information about who created the information, and when
   * Helps identify redundant, duplicative, and possibly obsolete content
 

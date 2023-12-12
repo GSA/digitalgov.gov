@@ -6,7 +6,7 @@ summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Resea
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - code
   - content
   - fda

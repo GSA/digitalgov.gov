@@ -6,9 +6,9 @@ summary: This page is about what an Application Programming Interface or API is 
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - code
-  - api
+  - application-programming-interface
   - open-data
 ---
 

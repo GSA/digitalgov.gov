@@ -14,7 +14,7 @@ topics:
   - plain-language
   - analytics
   - mobile
-  - api
+  - application-programming-interface
   - contact-centers
   - open-data
 

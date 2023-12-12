@@ -14,7 +14,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - api
+  - application-programming-interface
   - Census
   - innovation
   - mobile-apps

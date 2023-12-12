@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - api
+  - application-programming-interface
   - DOT
   - socialgov
   - terms-of-service

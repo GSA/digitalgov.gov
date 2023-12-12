@@ -6,8 +6,8 @@ summary: 'The spring semesters are winding down at the universities where I teac
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - search
   - mobile-apps
   - wednesday-api-briefing

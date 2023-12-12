@@ -6,10 +6,10 @@ summary: ' Anything built should be built right. It doesn&#8217;t matter if itâ€
 authors:
   - jonathan-rubin
 topics:
-  - api
+  - application-programming-interface
   - code
   - monthly-theme
-  - api
+  - application-programming-interface
   - application-programming-interface
   - CFPB
   - Consumer Financial Protection Bureau

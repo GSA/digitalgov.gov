@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - code
-  - api
+  - application-programming-interface
   - open-data
   - the-data-briefing
 ---

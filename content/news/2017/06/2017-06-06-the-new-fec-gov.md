@@ -7,12 +7,12 @@ authors:
   - noah-manger
   - jennifer-thibault
 topics:
-  - api
+  - application-programming-interface
   - content
   - data
   - design
   - 18f
-  - api
+  - application-programming-interface
   - content
   - data
   - FEC

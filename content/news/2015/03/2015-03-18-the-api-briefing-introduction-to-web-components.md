@@ -6,8 +6,8 @@ summary: ' Instead of writing about a specific federal API this week, I want to 
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - wednesday-api-briefing
 ---
 

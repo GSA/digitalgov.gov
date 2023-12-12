@@ -6,9 +6,9 @@ summary: 'Before coming to DC in late 2008, I lived in Louisville, Kentucky. Lou
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - mobile
-  - api
+  - application-programming-interface
   - data
   - federal-emergency-management-agency
   - fema

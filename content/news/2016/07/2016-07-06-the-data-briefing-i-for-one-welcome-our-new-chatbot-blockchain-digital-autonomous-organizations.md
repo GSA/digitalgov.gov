@@ -6,13 +6,13 @@ summary: 'It is at the intersections of fields where you find the most fascinati
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - code
   - data
   - product-management
   - strategy
   - policy
-  - api
+  - application-programming-interface
   - blockchain
   - chatbots
   - customer-experience

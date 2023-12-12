@@ -11,7 +11,7 @@ authors:
   - apiazza
   - jonathan-rubin
 topics:
-  - api
+  - application-programming-interface
   - challenges
   - content
   - data

@@ -6,7 +6,7 @@ summary: 'It’s been a while since I’ve checked in on enterprise architecture
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - product-management
   - strategy

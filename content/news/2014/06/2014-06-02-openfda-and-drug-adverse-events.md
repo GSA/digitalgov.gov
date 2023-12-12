@@ -6,7 +6,7 @@ summary: 'openFDA launched today and with it the first publicly available datase
 authors:
   - sean-herron
 topics:
-  - api
+  - application-programming-interface
   - content
   - fda
   - HHS

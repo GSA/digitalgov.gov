@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - api
+  - application-programming-interface
   - internet-of-things
   - mobile-gov
   - socialgov

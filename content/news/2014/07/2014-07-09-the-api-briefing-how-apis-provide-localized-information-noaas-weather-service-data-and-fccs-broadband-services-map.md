@@ -6,7 +6,7 @@ summary: 'The two featured APIs this week are excellent demonstrations of person
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - Census
   - FCC

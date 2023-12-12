@@ -7,7 +7,7 @@ authors:
   - alan-delevie
   - eric-mill
 topics:
-  - api
+  - application-programming-interface
   - 18f
   - white-house
 ---

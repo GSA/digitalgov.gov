@@ -9,7 +9,7 @@ topics:
   - content
   - mobile
   - monthly-theme
-  - api
+  - application-programming-interface
   - cdc
   - centers-for-disease-control-and-prevention
   - content-syndication

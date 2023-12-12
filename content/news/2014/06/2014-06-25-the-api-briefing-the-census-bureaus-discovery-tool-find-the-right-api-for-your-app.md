@@ -6,11 +6,11 @@ summary: 'The Census Bureau recently released a &ldquo;machine-readable dataset 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - code
   - product-management
   - mobile
-  - api
+  - application-programming-interface
   - mobile-apps
   - native-app
   - responsive-web-design

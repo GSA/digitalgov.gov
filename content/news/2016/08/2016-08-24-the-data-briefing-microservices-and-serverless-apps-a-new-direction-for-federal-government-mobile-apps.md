@@ -6,7 +6,7 @@ summary: 'Continuing from last week’s column on DevOps and containers, I will 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
   - devops
   - mobile

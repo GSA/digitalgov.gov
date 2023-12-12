@@ -6,9 +6,9 @@ summary: Around the D.C. area, one of the first signs of spring are the numerous
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
-  - api
+  - application-programming-interface
   - OPM
   - US Department of Agriculture
   - united-states-office-of-personnel-management

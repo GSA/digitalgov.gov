@@ -9,7 +9,7 @@ topics:
   - data
   - monthly-theme
   - agile
-  - api
+  - application-programming-interface
   - data
   - data-visualization
   - OPM

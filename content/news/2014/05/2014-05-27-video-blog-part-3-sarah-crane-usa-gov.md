@@ -6,11 +6,11 @@ summary: 'In our final video interview with Sarah Crane of USA.gov, she talks ab
 authors:
   - sarah-crane
 topics:
-  - api
+  - application-programming-interface
   - content
   - product-management
   - monthly-theme
-  - api
+  - application-programming-interface
   - usagov
 ---
 

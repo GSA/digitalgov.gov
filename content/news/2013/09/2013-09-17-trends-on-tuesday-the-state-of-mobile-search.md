@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - api
+  - application-programming-interface
   - trends-on-tuesday
 ---
 

@@ -6,12 +6,12 @@ summary: 'APIs and User Experience go together like gummi bears and ice cream. A
 authors:
   - jonathan-rubin
 topics:
-  - api
+  - application-programming-interface
   - code
   - user-testing-and-research
   - user-experience
   - 18f
-  - api
+  - application-programming-interface
   - application-programming-interface
   - digitalgov-user-experience-program
   - federal-emergency-management-agency

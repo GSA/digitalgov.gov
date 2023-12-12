@@ -6,12 +6,12 @@ summary: 'The Food and Drug Administration collects drug labeling information fo
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - code
   - data
   - strategy
   - policy
-  - api
+  - application-programming-interface
   - GitHub
   - national-institutes-of-health
   - National Library of Medicine

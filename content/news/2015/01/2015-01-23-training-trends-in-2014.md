@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - our-work
-  - api
+  - application-programming-interface
   - digitalgov-user-experience-program
   - recaps
   - social-media

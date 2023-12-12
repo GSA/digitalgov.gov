@@ -6,7 +6,7 @@ summary: The federal government collects an amazing amount of economic data. Sev
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - BLS
   - Census
   - SEC

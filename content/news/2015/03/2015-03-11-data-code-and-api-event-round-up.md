@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - our-work
   - 18f
-  - api
+  - application-programming-interface
   - CFPB
   - Consumer Financial Protection Bureau
   - content-management-system
@@ -56,7 +56,7 @@ DGU has also supported the [Structured and Open Content Models working group](ht
 
 ## APIs {{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}}
 
-We also hosted some great in-person workshops around [APIs]({{< ref "/topics/api" >}}). In July we hosted [Working with APIs for Non-Coders]({{< ref "2014-07-14-working-with-apis-for-non-coders-recap.md" >}} "Working with APIs for Non-Coders Recap"). This event, hosted by Eric Mill, a key developer on GSA’s 18F team, was especially targeted to non-developers and explored the basics of APIs, using [the Congress API](http://sunlightlabs.github.io/congress/), offered by the Sunlight Foundation, as an example. The purpose of the event was to showcase that anybody of any skill level can understand and use APIs without any coding knowledge!
+We also hosted some great in-person workshops around [APIs]({{< ref "/topics/application-programming-interface" >}}). In July we hosted [Working with APIs for Non-Coders]({{< ref "2014-07-14-working-with-apis-for-non-coders-recap.md" >}} "Working with APIs for Non-Coders Recap"). This event, hosted by Eric Mill, a key developer on GSA’s 18F team, was especially targeted to non-developers and explored the basics of APIs, using [the Congress API](http://sunlightlabs.github.io/congress/), offered by the Sunlight Foundation, as an example. The purpose of the event was to showcase that anybody of any skill level can understand and use APIs without any coding knowledge!
 
 You can also take a look at the [API video recording series](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM).
 

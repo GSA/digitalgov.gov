@@ -6,12 +6,12 @@ summary: 'Agencies have been working away at building better digital services an
 authors:
   - gwynne-kostin
 topics:
-  - api
+  - application-programming-interface
   - code
   - content
   - analytics
   - our-work
-  - api
+  - application-programming-interface
   - Census
   - department-of-commerce
   - analytics

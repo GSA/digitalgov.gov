@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - api
+  - application-programming-interface
   - cdc
   - centers-for-disease-control-and-prevention
   - DOT

@@ -7,12 +7,12 @@ summary: Three recent stories demonstrate how opening up federal government data
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
   - data
   - monthly-theme
   - agile
-  - api
+  - application-programming-interface
   - dhs
   - national-action-plan-on-open-government
   - open-data

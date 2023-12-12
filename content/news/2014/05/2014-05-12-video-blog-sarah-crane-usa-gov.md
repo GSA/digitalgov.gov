@@ -7,7 +7,7 @@ authors:
   - sarah-crane
 topics:
   - product-management
-  - api
+  - application-programming-interface
   - usagov
 ---
 

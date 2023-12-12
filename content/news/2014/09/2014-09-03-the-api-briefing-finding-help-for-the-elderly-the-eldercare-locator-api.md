@@ -6,8 +6,8 @@ summary: If you have ever been a caregiver for an elderly family member or frien
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - HHS
   - OPM
   - united-states-department-of-health-and-human-services

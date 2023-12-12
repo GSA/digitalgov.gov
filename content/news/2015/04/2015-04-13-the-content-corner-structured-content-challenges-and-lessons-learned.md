@@ -9,7 +9,7 @@ topics:
   - content
   - monthly-theme
   - administrative-office-of-the-united-states-courts
-  - api
+  - application-programming-interface
   - CMS
   - content-models
   - content-strategy

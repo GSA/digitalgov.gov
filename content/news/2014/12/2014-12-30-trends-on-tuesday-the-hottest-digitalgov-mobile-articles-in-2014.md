@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - api
+  - application-programming-interface
   - mobile-gov-community-of-practice
   - trends-on-tuesday
 ---

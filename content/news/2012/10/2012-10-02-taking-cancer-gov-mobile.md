@@ -54,7 +54,7 @@ We are also thrilled that m.cancer.gov was named among the top 10 government mob
 
 ## What&#8217;s Next
 
-Were working with content owners to bring more content into the structure for mobile, and we plan to turn our structured XML content in an [API]({{< ref "/topics/api" >}})-based feed.
+Were working with content owners to bring more content into the structure for mobile, and we plan to turn our structured XML content in an [API]({{< ref "/topics/application-programming-interface" >}})-based feed.
 
 ## Contact
 

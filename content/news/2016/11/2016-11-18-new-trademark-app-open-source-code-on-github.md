@@ -10,7 +10,7 @@ topics:
   - data
   - product-management
   - mobile
-  - api
+  - application-programming-interface
   - code
   - Commerce
   - data

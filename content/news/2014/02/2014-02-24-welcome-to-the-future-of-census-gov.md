@@ -6,11 +6,11 @@ summary: 'If you have ever visited census.gov, you know that sorting through the
 authors:
   - lisa-wolfisch
 topics:
-  - api
+  - application-programming-interface
   - content
   - product-management
   - mobile
-  - api
+  - application-programming-interface
   - Census
 ---
 

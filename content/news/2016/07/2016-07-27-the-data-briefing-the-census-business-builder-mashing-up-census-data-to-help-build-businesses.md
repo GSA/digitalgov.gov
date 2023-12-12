@@ -6,9 +6,9 @@ summary: 'The Census Bureau conducts more surveys than just the Constitutionally
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
-  - api
+  - application-programming-interface
   - Census
   - data
   - open-data

@@ -8,7 +8,7 @@ authors:
 topics:
   - governance
   - product-management
-  - api
+  - application-programming-interface
   - department-of-commerce
 ---
 

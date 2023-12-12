@@ -6,7 +6,7 @@ summary: Introduction Transparency in coding makes code more secure. Open-source
 authors:
   - dr-robert-read
 topics:
-  - api
+  - application-programming-interface
   - code
   - 18f
   - GitHub

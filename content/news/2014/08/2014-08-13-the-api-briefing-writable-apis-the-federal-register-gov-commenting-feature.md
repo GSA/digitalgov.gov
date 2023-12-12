@@ -6,10 +6,10 @@ summary: 'FederalRegister.gov just released a writable API that allows citizens 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - strategy
   - policy
-  - api
+  - application-programming-interface
   - federal-register
   - OPM
   - united-states-office-of-personnel-management

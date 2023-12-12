@@ -6,7 +6,7 @@ summary: Developers, do you want to bring more detailed economic data to your ne
 authors:
   - bea-team
 topics:
-  - api
+  - application-programming-interface
   - data
 ---
 

@@ -9,7 +9,7 @@ topics:
   - communities
   - monthly-theme
   - 18f
-  - api
+  - application-programming-interface
   - citizen-science-and-crowdsourcing-community-of-practice
   - communities
   - drupal

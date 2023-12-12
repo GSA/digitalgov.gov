@@ -12,7 +12,7 @@ topics:
   - our-work
   - strategy
   - policy
-  - api
+  - application-programming-interface
   - Census
   - customer-experience
   - DOL

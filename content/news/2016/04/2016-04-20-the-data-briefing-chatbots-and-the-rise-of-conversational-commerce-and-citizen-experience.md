@@ -6,9 +6,9 @@ summary: 'Ten months ago, I wrote about the rise of the post-app world in which 
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - data
-  - api
+  - application-programming-interface
   - augmented-reality
   - chatbots
   - customer-experience

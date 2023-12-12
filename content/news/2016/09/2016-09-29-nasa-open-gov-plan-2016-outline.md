@@ -6,7 +6,7 @@ summary: "Here is the outline for our 2016 Open Government Plan. Let us know wha
 authors:
   - beth-beck
 topics:
-  - api
+  - application-programming-interface
   - challenges
   - code
   - content
