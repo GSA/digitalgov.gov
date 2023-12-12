@@ -21,7 +21,6 @@ topics:
   - OSTP
   - section-508
   - sites
-  - sitesusagov
   - us-department-of-veterans-affairs
   
 ---

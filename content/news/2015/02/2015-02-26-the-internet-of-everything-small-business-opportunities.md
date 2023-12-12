@@ -8,12 +8,8 @@ authors:
   - g-nagesh-rao
 topics:
   - product-management
-  
-  
   - privacy
-  - SBA
   - security
-  - small-business-innovation-research
   - us-small-business-administration
 ---
 

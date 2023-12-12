@@ -13,7 +13,6 @@ topics:
   - LEP
   - multilingual
   - multilingual-community
-  - SSA
   - us-department-of-justice
   - united-states-census-bureau
   - united-states-department-of-housing-and-urban-development

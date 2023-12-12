@@ -18,8 +18,6 @@ topics:
   - customer-experience
   - gsa
   - security
-  - SSA
-  - State
   - us-citizenship-and-immigration-service
   - us-customs-and-border-protection
   - us-department-of-labor

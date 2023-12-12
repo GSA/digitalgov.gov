@@ -9,7 +9,6 @@ topics:
   - mobile
   - gamification
   - mobile-first
-  - smithsonian-institution
   - trends-on-tuesday
 ---
 

@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - analytics
-  - SSA
   - user-experience
 ---
 

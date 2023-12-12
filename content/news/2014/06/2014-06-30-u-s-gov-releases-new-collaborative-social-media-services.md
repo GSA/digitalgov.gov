@@ -11,7 +11,6 @@ topics:
   - our-work
   - social-media
   - accessibility
-  - SBA
   - social-media
   - socialgov
   - socialgov-community

@@ -8,12 +8,10 @@ authors:
 topics:
   - api
   - content
-  
   - content-management-system
   - content-strategy
   - metadata
   - open-source
-  - sitesusagov
 ---
 
 Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.

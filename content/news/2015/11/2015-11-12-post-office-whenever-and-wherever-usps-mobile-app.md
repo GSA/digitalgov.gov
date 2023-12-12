@@ -9,7 +9,6 @@ topics:
   - mobile
   - ios
   - mobile-apps
-  - SSA
   - thursday-mobile-products
   - United States Postal Service
   - USPS

@@ -15,7 +15,6 @@ topics:
   - NOAA
   - NREL
   - nsf
-  - smithsonian-institution
   - us-department-of-education
   - us-department-of-labor
   - us-environmental-protection-agency

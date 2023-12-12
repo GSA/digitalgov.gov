@@ -17,7 +17,6 @@ topics:
   - mobile-ux-guideline-6
   - open-and-structured-content-models
   - open-data
-  - SEC
   - us-securities-and-exchange-commission
 ---
 

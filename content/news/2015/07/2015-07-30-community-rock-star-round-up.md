@@ -17,7 +17,6 @@ topics:
   - open-and-structured-content-models
   - OPM
   - socialgov-community
-  - SSA
   - trends-on-tuesday
   - us-department-of-state
   - us-food-and-drug-administration

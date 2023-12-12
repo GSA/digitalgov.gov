@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - api
-  
   - content-management-system
   - content-models
   - drupal
@@ -17,7 +16,6 @@ topics:
   - open-source
   - recaps
   - responsive-web-design
-  - sitesusagov
   - us-department-of-state
 ---
 

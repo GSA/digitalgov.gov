@@ -16,10 +16,8 @@ topics:
   - user-experience
   - challenge-gov
   - data-gov
-  
   - GitHub
   - recaps
-  - SBA
   - us-department-of-labor
   - us-small-business-administration
   

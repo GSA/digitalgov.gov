@@ -8,7 +8,6 @@ topics:
   
   - mobile
   - mobile-apps
-  - SAMHSA
   - thursday-mobile-products
   - united-states-department-of-health-and-human-services
  

@@ -5,10 +5,7 @@ title: 'Mobile Gov for Valentine&#8217;s Day!'
 summary: 'Need a last minute Valentine&#8217;s Day gift idea? We&#8217;ve put together some last minute anytime, anywhere government Valentine&#8217;s ideas for your special'
 topics:
   - mobile
-  
-  
   - mobile-apps
-  - smithsonian-institution
   - thursday-mobile-products
 ---
 

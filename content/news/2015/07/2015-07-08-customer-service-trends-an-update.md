@@ -20,7 +20,6 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - personas
-  - smithsonian-institution
   - social-media
   - us-department-of-veterans-affairs
   - user-centered-design

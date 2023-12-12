@@ -23,7 +23,6 @@ topics:
   - crowdsourcing
   - data
   - data-visualization
-  
   - gsa
   - innovation
   - mobile-apps
@@ -31,7 +30,6 @@ topics:
   - open-data
   - open-government
   - OSTP
-  - SBA
   - us-agency-for-international-development
   - US Department of Agriculture
   - us-environmental-protection-agency

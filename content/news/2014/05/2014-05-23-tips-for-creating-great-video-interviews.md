@@ -7,7 +7,6 @@ authors:
   - arlene-hernandez
 topics:
   - video
-  - smithsonian-institution
 
 ---
 

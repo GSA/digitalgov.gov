@@ -9,7 +9,6 @@ authors:
 topics:
   - mobile
   - native-apps
-  - smithsonian-institution
   - thursday-mobile-products
  
 ---

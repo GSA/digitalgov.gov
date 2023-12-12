@@ -12,7 +12,6 @@ topics:
   - customer-experience
   - customer-service
   - multilingual
-  - SSA
   - user-experience
   
 ---

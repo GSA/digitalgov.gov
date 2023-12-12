@@ -8,7 +8,6 @@ authors:
 topics:
   - accessibility
   - section-508
-  - SSA
   - usability
   - user-experience
 ---

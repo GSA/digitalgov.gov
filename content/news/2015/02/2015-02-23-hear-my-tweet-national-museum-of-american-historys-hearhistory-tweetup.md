@@ -7,9 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  
-  
-  - smithsonian-institution
 ---
 
 [{{< legacy-img src="2015/02/600-x-399-Smithsonian-National-Museum-of-American-History-NMAH-Glass-disc-recorded-in-November-1884.-It-features-a-voice-saying-barometer.jpg" alt="Glass disc recorded in November 1884. It features a voice saying ba-ro-me-ter." >}}](https://twitter.com/amhistorymuseum/status/559765339815555073/photo/1)

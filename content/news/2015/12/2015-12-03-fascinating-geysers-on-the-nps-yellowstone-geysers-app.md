@@ -11,7 +11,6 @@ topics:
   - mobile-apps
   - NPS
   - social-media
-  - SSA
   - thursday-mobile-products
   - us-national-park-service
 ---

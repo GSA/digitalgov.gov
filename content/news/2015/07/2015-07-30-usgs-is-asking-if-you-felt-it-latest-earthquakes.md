@@ -7,13 +7,9 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  
-  
   - mobile-apps
-  - SSA
   - thursday-mobile-products
   - united-states-geological-survey
- 
   - USGS
 ---
 

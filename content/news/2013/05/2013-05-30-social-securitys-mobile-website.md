@@ -10,7 +10,6 @@ topics:
   - mobile
   - mobile-apps
   - multilingual
-  - SSA
   - thursday-mobile-products
 
 ---

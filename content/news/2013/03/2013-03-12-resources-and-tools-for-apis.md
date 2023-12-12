@@ -9,11 +9,7 @@ topics:
   - api
   - code
   - api
-  
   - gsa
-  
-  
-  - SBA
   - us-department-of-labor
 ---
 

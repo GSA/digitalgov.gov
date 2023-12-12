@@ -14,7 +14,6 @@ topics:
   - social-media
   - NLM
   - OSHA
-  - SEC
   - us-securities-and-exchange-commission
 ---
 

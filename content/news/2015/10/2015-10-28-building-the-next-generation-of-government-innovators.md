@@ -7,10 +7,8 @@ authors:
   - awichman
 topics:
   - our-work
-  
   - mobile-apps
   - open-opportunities-program
-  - SSA
   - US Department of Agriculture
   - us-food-and-drug-administration
   - USDA

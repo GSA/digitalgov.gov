@@ -12,7 +12,6 @@ topics:
   - product-management
   - social-media
   - content
-  - smithsonian-institution
   - social-media
   - terms-of-service
   - tos
