@@ -9,7 +9,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - Federal Health IT Strategic Plan
+  - content-strategy
   - gsa
   - acquisition
   - us-general-services-administration
