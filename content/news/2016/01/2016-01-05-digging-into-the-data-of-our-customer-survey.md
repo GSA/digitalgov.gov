@@ -16,7 +16,7 @@ topics:
   - open-opportunities-program
   - socialgov
   - user-experience
-  - web-content-managers-forum
+  - content-strategy
 
 ---
 

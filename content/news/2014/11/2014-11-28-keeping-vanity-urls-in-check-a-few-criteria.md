@@ -11,7 +11,6 @@ topics:
   - NIAID
   - United States Patent and Trademark Office
   - USPTO
-  - web-content-managers-forum
 ---
 
 {{< legacy-img src="2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" >}}

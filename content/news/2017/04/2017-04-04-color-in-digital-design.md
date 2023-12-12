@@ -13,7 +13,6 @@ topics:
   - uswds
   - user-experience
   - user-experience-community-of-practice
-  - web-content-managers-forum
 ---
 
 How do we choose color in digital design? In print, we have the Pantone fan and what you see is what you get — as long as your printer is color calibrated. With computer monitors, one does not get such precision, even within one office. So how much time and effort do you spend on color selection? What you select could be your agency or office standard for the next five, ten or one hundred years! No pressure.

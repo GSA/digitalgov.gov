@@ -14,7 +14,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
-  - web-content-managers-forum
+  - content-strategy
 
 ---
 

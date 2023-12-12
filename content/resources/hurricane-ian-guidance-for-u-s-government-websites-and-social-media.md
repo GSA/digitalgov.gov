@@ -22,12 +22,9 @@ expirydate: "2022-12-01"
 weight: 4
 
 topics:
-  - web-content-managers-forum
+  - content-strategy
   - design
-  - content-strategy
   - social media
-  - content strategy
-  - content-strategy
   - customer service
 
 # Primary Image (for social media)

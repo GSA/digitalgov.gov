@@ -23,7 +23,7 @@ topics:
   - design
   - mobile
   - user-experience
-  - web-content-managers-forum
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -12,7 +12,7 @@ topics:
   - user-experience
   - user-centered-design
   - recaps
-  - web-content-managers-forum
+  - content-strategy
   - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
