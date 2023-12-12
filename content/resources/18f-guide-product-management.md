@@ -12,7 +12,7 @@ authors:
 topics:
   - design
   - product-management
-  - strategy
+  - content-strategy
   - agile
   - project-management
   - 18f

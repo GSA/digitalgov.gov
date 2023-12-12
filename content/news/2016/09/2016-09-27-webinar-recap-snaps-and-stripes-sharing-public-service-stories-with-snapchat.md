@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - product-management
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - video
   - accessibility

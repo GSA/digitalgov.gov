@@ -12,7 +12,7 @@ layout: directory
 
 # Topics that best describe this product or service
 topics:
-  - strategy
+  - content-strategy
   - design
   - product-management
 

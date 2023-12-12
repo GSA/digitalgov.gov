@@ -8,7 +8,7 @@ authors:
 topics:
   - governance
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - fda
   - HHS

@@ -14,7 +14,7 @@ topics:
   - agile
   - emerging-tech
   - budgeting-and-performance
-  - strategy
+  - content-strategy
   - rpa
 
 # see all authors at https://digital.gov/authors

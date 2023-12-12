@@ -8,7 +8,7 @@ authors:
 topics:
   - governance
   - monthly-theme
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - data-gov

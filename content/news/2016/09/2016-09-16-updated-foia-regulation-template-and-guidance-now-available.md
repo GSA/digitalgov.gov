@@ -7,7 +7,7 @@ authors:
   - office-of-information-policy
 topics:
   - governance
-  - strategy
+  - content-strategy
   - policy
   - DOJ
   - open-government

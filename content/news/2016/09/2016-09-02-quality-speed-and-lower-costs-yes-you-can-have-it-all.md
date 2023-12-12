@@ -12,7 +12,7 @@ topics:
   - product-management
   - monthly-theme
   - our-work
-  - strategy
+  - content-strategy
   - policy
   - search
   - cloud-and-infrastructure

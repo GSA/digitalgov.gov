@@ -7,7 +7,7 @@ authors:
   - pat-toth
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - best-practices
   - Commerce

@@ -11,7 +11,7 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - data
-  - strategy
+  - content-strategy
   - policy
   - application-programming-interface
   - apps-challenges

@@ -9,7 +9,7 @@ topics:
   - analytics
   - budgeting-and-performance
   - customer-experience
-  - strategy
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - jessica-dunbar

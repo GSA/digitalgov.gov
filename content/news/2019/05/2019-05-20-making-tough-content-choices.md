@@ -20,7 +20,7 @@ topics:
   - content-strategy
   - product-management
   - content-strategy
-  - strategy
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - our-work
-  - strategy
+  - content-strategy
   - policy
   - application-programming-interface
   - Census

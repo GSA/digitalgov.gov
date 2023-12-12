@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - agile

@@ -7,7 +7,7 @@ authors:
   - noah-manger
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - agile

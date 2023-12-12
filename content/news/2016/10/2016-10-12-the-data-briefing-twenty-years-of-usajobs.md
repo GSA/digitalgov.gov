@@ -9,7 +9,7 @@ topics:
   - data
   - product-management
   - analytics
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - user-experience

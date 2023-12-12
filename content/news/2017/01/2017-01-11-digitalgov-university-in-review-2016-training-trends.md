@@ -21,7 +21,7 @@ topics:
   - mobile
   - our-work
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - user-experience

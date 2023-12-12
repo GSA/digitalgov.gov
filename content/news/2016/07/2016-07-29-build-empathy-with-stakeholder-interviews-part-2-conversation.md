@@ -8,7 +8,7 @@ authors:
   - andrew-maier
 topics:
   - design
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - State

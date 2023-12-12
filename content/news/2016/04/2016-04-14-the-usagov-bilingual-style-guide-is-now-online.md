@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - design
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - accessibility
   - multilingual

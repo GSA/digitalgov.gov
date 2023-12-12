@@ -18,7 +18,7 @@ topics:
   - user-experience
   - content-strategy
   - content-strategy
-  - strategy
+  - content-strategy
   - user-centered-design
   - multilingual
   - search

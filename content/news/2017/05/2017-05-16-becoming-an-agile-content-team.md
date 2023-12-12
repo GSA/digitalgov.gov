@@ -7,7 +7,7 @@ authors:
   - jessica-milcetich
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - agile
   - agile-lean-community-of-practice

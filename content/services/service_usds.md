@@ -26,7 +26,7 @@ topics:
   - us-digital-service
   - design
   - code
-  - strategy
+  - content-strategy
   - product-management
 
 ---

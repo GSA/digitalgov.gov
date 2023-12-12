@@ -7,7 +7,7 @@ authors:
   - marc-groman
 topics:
   - governance
-  - strategy
+  - content-strategy
   - policy
   - Office of Management and Budget
   - OMB

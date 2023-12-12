@@ -27,7 +27,7 @@ topics:
   - content-strategy
   - social media
   - content strategy
-  - strategy
+  - content-strategy
   - customer service
 
 # Primary Image (for social media)

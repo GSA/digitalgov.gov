@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - department-of-commerce
   - content-strategy

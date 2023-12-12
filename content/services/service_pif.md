@@ -25,7 +25,7 @@ weight: 1
 topics:
   - design
   - code
-  - strategy
+  - content-strategy
   - product-management
   - gsa
   - presidential-innovation-fellows

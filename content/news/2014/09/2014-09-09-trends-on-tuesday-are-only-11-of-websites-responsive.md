@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - Defense Finance and Accounting Services
   - DFAS

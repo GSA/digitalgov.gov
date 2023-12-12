@@ -19,7 +19,7 @@ topics:
   - acquisition
   - us-access-board
   - product-management
-  - strategy
+  - content-strategy
   - best-practices
 
 # See all authors at https://digital.gov/authors

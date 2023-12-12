@@ -9,7 +9,7 @@ topics:
   - code
   - data
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - agile
   - architecture

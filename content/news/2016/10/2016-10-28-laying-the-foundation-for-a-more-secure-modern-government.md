@@ -9,7 +9,7 @@ topics:
   - data
   - governance
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - best-practices
   - cloud-and-infrastructure

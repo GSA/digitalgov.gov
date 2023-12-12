@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - strategy
+  - content-strategy
   - policy
   - application-programming-interface
   - federal-register

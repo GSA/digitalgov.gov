@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - artificial intelligence
   - the-data-briefing

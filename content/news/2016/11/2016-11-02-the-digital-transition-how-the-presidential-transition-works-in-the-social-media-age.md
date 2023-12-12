@@ -13,7 +13,7 @@ topics:
   - product-management
   - mobile
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - video
   - audio-video

@@ -12,7 +12,7 @@ topics:
   - governance
   - domain-management
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - analytics
   - gsa

@@ -31,7 +31,7 @@ topics:
   - domain-management
   - social-media
   - code
-  - strategy
+  - content-strategy
   - product-management
 
 ---

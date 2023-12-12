@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - epa
   - mobile-apps

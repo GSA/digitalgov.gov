@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - analytics
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - analytics

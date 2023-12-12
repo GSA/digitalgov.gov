@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - analytics
   - apps-challenges

@@ -7,7 +7,7 @@ authors:
   - logan-powell
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - Census
   - united-states-census-bureau

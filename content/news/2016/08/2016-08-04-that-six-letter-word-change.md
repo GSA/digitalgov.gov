@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - FCC
   - federal-communications-commission

@@ -10,7 +10,7 @@ topics:
   - customer-experience
   - project-management
   - 21st-century-idea
-  - strategy
+  - content-strategy
 primary_image: "abstract-background-question-marks-talangart-istock-getty-images-1280616526-edit"
 
 # See all authors at https://digital.gov/authors

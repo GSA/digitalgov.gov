@@ -12,7 +12,7 @@ authors:
 topics:
   - acquisition
   - product-management
-  - strategy
+  - content-strategy
   - agile
   - project-management
   - 18f

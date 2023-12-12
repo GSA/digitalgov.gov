@@ -8,7 +8,7 @@ summary: Black history is American history. In this blog, TTS employees share ho
 topics:
   - tts
   - professional-development
-  - strategy
+  - content-strategy
   - innovation
   - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors

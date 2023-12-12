@@ -7,7 +7,7 @@ authors:
   - duane-rollins
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - acquisition

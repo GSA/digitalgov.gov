@@ -9,7 +9,7 @@ topics:
   - governance
   - product-management
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - FAS
   - Federal Acquisition Service

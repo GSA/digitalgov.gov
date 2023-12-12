@@ -10,7 +10,7 @@ topics:
   - communities
   - crowdsourcing-and-citizen-science
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice

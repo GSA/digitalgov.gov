@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - content-strategy
   - governance
-  - strategy
+  - content-strategy
   - policy
   - CMS
   - nasa

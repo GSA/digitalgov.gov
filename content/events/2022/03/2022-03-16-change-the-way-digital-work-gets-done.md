@@ -13,7 +13,7 @@ topics:
   - customer-experience
   - emerging-tech
   - acquisition
-  - strategy
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

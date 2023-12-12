@@ -7,7 +7,7 @@ authors:
   - communications-community-office-government-of-canada
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - social-media
 ---

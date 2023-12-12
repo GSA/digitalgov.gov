@@ -7,7 +7,7 @@ authors:
   - cliff-tyllick
 topics:
   - content-strategy
-  - strategy
+  - content-strategy
   - policy
   - search-engine-optimization
 

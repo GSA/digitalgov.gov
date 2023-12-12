@@ -11,7 +11,7 @@ topics:
   - code
   - product-management
   - software-engineering
-  - strategy
+  - content-strategy
   - policy
   - code
 

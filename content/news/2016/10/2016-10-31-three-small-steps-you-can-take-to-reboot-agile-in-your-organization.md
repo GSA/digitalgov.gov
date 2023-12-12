@@ -8,7 +8,7 @@ authors:
   - michael-torres
   - kristy-singletary
 topics:
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - 18f

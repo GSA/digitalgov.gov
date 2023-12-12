@@ -10,7 +10,7 @@ deck: "**The Weekly Ship: What It Is, Why It's Useful, and How To Create Your
 summary: summary
 # See all topics at https://digital.gov/topics
 topics:
-  - strategy
+  - content-strategy
   - policy
   - product-management
   - agile

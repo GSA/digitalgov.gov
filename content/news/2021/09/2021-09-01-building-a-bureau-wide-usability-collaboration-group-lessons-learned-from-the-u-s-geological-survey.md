@@ -10,7 +10,7 @@ summary: Learn about the U.S. Geological Survey’s Usability Collaboration Area
 topics:
   - usability
   - user-experience
-  - strategy
+  - content-strategy
   - communities
   - user-testing-and-research
 # See all authors at https://digital.gov/authors

@@ -7,7 +7,7 @@ authors:
   - office-of-information-policy-doj
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - 18f

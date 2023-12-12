@@ -20,7 +20,7 @@ summary: "**What’s Next for the U.S. Web Design System**&mdash;In 2020, we
 # See all topics at https://digital.gov/topics
 topics:
   - uswds
-  - strategy
+  - content-strategy
   - design
   - research
   - policy

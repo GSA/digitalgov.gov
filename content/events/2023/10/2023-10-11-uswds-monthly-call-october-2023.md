@@ -17,7 +17,7 @@ topics:
   - user-research
   - user-experience
   - content-strategy
-  - strategy
+  - content-strategy
   - project-management
   - product-management
   - uswds

@@ -9,7 +9,7 @@ topics:
   - code
   - design
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - code

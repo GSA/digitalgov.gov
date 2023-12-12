@@ -8,7 +8,7 @@ authors:
   - chris-rottler
 
 topics:
-  - strategy
+  - content-strategy
   - design
   - user-research
   - analytics

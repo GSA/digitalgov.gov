@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - software-engineering
-  - strategy
+  - content-strategy
   - policy
   - agile
   - lean

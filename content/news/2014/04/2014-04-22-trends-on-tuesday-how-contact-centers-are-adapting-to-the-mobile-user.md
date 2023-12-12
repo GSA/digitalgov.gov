@@ -9,7 +9,7 @@ topics:
   - communities
   - mobile
   - monthly-theme
-  - strategy
+  - content-strategy
   - policy
   - aoi
   - GPS

@@ -7,7 +7,7 @@ summary: This case study describes how two civic designers at different agencies
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - strategy
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

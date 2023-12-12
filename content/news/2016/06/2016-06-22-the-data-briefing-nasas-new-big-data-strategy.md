@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - analytics
   - data

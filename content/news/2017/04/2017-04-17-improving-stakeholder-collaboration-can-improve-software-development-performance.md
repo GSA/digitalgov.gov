@@ -6,7 +6,7 @@ summary: 'It’s important for software development organizations to make it as 
 authors:
   - brian-fox
 topics:
-  - strategy
+  - content-strategy
   - policy
   - best-practices
   - communication

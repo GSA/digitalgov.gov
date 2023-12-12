@@ -7,7 +7,7 @@ authors:
   - karim-said
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - dhs

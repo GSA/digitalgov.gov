@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - product-management
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - communication
   - aids-gov

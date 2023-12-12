@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - Privacy Impact Assessment
   - social-media

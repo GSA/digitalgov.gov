@@ -10,7 +10,7 @@ topics:
   - product-management
   - mobile
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - content-strategy
   - content-strategy

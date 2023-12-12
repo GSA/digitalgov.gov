@@ -12,7 +12,7 @@ topics:
   - product-management
   - innovation
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - video

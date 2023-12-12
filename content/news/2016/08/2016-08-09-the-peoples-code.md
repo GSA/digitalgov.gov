@@ -10,7 +10,7 @@ topics:
   - data
   - governance
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - code
   - innovation

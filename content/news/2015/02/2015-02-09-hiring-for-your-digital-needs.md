@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - national-oceanic-and-atmospheric-administration
   - noaa

@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - dhs
   - mobile

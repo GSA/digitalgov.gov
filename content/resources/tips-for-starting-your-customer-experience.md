@@ -21,7 +21,7 @@ topics:
   - customer-experience
   - product-management
   - contact-centers
-  - strategy
+  - content-strategy
   - user-research
   - customer-service
 

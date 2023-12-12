@@ -11,7 +11,7 @@ authors:
 topics:
   - product-management
   - domain-management
-  - strategy
+  - content-strategy
   - policy
   - https
   - security

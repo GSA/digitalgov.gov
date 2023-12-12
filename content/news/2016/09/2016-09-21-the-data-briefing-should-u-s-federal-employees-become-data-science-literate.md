@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - strategy
+  - content-strategy
   - policy
   - data
   - open-data

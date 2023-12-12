@@ -7,7 +7,7 @@ authors:
   - department-of-homeland-security
 
 topics:
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - user-experience

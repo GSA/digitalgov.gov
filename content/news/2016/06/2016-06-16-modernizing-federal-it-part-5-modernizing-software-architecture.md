@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - architecture
   - cloud-and-infrastructure

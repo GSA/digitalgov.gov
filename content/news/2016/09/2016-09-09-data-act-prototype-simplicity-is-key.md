@@ -11,7 +11,7 @@ topics:
   - data
   - governance
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - best-practices

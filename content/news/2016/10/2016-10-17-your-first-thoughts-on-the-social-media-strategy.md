@@ -10,7 +10,7 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - content-strategy
   - content-strategy

@@ -26,7 +26,7 @@ topics:
   - analytics
   - multilingual
   - social-media
-  - strategy
+  - content-strategy
   - multilingual-community
   - usagov
 

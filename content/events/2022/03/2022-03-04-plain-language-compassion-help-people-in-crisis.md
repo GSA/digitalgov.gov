@@ -15,7 +15,7 @@ topics:
   - plain-language
   - plain-language-community-of-practice
   - research
-  - strategy
+  - content-strategy
   - usability
   - user-experience
   - communication

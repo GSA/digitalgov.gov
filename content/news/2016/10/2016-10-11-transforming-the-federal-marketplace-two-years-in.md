@@ -6,7 +6,7 @@ summary: 'Summary: It’s been two years since we laid out the Administration’
 authors:
   - anne-rung
 topics:
-  - strategy
+  - content-strategy
   - policy
   - acquisition
   - agile

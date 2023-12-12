@@ -9,7 +9,7 @@ topics:
   - communities
   - mobile
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - aoi
   - mobile

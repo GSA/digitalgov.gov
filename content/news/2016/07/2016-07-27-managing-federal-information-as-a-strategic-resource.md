@@ -10,7 +10,7 @@ authors:
   - marc-groman
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - acquisition
   - Office of Management and Budget

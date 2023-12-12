@@ -13,7 +13,7 @@ topics:
   - social-media
   - content-strategy
   - content-strategy
-  - strategy
+  - content-strategy
   - communication
   - communication
 slug: three-ways-usagov-outreach-can-help-with-your-agencys-next-campaign

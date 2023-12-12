@@ -7,7 +7,7 @@ authors:
   - mary-davie
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - acquisition
   - gsa

@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - abmc
   - american-battle-monuments-commission

@@ -7,7 +7,7 @@ authors:
   - gao-watchblog
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - security
 ---

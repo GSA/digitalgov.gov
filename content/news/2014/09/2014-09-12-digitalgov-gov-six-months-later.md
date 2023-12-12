@@ -11,7 +11,7 @@ topics:
   - product-management
   - our-work
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - analytics
   - content-strategy

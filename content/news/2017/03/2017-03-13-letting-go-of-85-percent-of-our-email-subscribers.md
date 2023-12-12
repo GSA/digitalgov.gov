@@ -7,7 +7,7 @@ authors:
   - victoria-wales
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - analytics
   - communication

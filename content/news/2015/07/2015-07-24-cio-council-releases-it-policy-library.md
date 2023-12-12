@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - governance
-  - strategy
+  - content-strategy
   - policy
 ---
 

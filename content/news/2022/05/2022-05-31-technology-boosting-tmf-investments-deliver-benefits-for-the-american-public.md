@@ -13,7 +13,7 @@ topics:
   - innovation
   - security
   - user-experience
-  - strategy
+  - content-strategy
   - data
   - acquisition
 

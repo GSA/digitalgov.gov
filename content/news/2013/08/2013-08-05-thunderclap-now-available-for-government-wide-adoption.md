@@ -7,7 +7,7 @@ authors:
   - bsteele
 topics:
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - social-media
   - terms-of-service

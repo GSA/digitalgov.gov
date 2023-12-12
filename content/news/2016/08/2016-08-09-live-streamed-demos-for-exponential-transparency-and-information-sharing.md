@@ -9,7 +9,7 @@ topics:
   - code
   - content-strategy
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - video
   - 18f

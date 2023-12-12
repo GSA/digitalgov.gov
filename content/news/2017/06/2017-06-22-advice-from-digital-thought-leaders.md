@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - mobile
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - data
   - HHS

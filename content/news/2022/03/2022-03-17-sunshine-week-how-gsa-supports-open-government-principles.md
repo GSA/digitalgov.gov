@@ -13,7 +13,7 @@ topics:
   - tts
   - open-government
   - accessibility
-  - strategy
+  - content-strategy
   - communities
   - customer-experience
 

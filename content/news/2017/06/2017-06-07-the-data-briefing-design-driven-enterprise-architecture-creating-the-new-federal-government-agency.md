@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - data
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - agile
   - agile-lean-community-of-practice

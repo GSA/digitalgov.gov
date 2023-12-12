@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - code
   - data
-  - strategy
+  - content-strategy
   - policy
   - application-programming-interface
   - GitHub

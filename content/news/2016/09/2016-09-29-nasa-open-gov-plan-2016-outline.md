@@ -15,7 +15,7 @@ topics:
   - governance
   - product-management
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - challenges-and-prize-competitions
   - citizen-science

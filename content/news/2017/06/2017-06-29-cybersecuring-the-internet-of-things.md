@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - best-practices
   - cloud-and-infrastructure

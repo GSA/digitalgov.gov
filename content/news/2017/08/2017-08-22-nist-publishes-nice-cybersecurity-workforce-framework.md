@@ -6,7 +6,7 @@ summary: 'Categorizing and Describing Cybersecurity Work for the Nation The Nati
 topics:
   - data
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - data
   - security

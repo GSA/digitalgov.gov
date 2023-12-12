@@ -12,7 +12,7 @@ summary: If you're moving to .gov from another top-level domain, like .com,
 topics:
   - domain-management
   - best-practices
-  - strategy
+  - content-strategy
   - project-management
 slug: moving-to-gov
 # Controls how this page appears across the site

@@ -8,7 +8,7 @@ authors:
   - gsa-blog-team
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - gsa

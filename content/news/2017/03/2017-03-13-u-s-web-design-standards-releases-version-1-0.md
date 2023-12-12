@@ -10,7 +10,7 @@ topics:
   - design
   - product-management
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - accessibility

@@ -10,7 +10,7 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - strategy
+  - content-strategy
   - content-strategy
   - analytics
   - structured-content

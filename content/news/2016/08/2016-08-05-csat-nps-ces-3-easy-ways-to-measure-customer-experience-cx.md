@@ -7,7 +7,7 @@ authors:
   - craig-chavez
 topics:
   - analytics
-  - strategy
+  - content-strategy
   - policy
   - analytics
   - customer-experience

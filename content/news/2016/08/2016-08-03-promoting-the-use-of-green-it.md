@@ -7,7 +7,7 @@ authors:
   - tony-scott
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - budgeting-and-performance
   - Office of Management and Budget

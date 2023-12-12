@@ -15,7 +15,7 @@ date: 2021-11-03 13:00:00 -0500
 end_date: 2021-11-03 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - strategy
+  - content-strategy
   - budgeting-and-performance
   - training
   - professional-development

@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - mobile
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - artificial-intelligence
   - mobile

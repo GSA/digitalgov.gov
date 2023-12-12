@@ -7,7 +7,7 @@ authors:
   - alan-brouilette
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - 18f

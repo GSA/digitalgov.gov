@@ -9,7 +9,7 @@ topics:
   - governance
   - project-management
   - 21st-century-idea
-  - strategy
+  - content-strategy
   - customer-experience
 
 # See all authors at https://digital.gov/authors

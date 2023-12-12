@@ -12,7 +12,7 @@ end_date: 2021-10-14 15:00:00 -0500
 topics:
   - multilingual
   - social-media
-  - strategy
+  - content-strategy
   - content-strategy
   - multilingual-community
 # See all authors at https://digital.gov/authors

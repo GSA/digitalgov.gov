@@ -6,7 +6,7 @@ summary: Mobile First is the idea that web sites should first be designed for mo
 topics:
   - design
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - user-experience
   - mobile

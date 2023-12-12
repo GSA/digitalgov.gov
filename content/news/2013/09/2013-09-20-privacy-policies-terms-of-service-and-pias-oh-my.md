@@ -6,7 +6,7 @@ summary: Guest post by Cheryl Hackley who works in the Office of Public Affairs 
 authors:
   - cheryl-hackley
 topics:
-  - strategy
+  - content-strategy
   - policy
   - privacy
   - Privacy Impact Assessment

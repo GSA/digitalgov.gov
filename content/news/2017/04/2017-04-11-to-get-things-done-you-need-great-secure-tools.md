@@ -7,7 +7,7 @@ authors:
   - v-david-zvenyach
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - fedramp

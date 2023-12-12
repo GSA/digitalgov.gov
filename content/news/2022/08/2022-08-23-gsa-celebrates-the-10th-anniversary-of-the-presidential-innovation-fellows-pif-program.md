@@ -29,7 +29,7 @@ topics:
   - user-centered-design
   - professional-development
   - pif
-  - strategy
+  - content-strategy
 slug: gsa-celebrates-the-10th-anniversary-of-the-presidential-innovation-fellows-pif-program
 # Controls how this page appears across the site
 # 0 -- hidden

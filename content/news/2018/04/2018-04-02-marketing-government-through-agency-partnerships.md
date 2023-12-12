@@ -10,7 +10,7 @@ topics:
   - design
   - analytics
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - communication
   - accessibility

@@ -9,7 +9,7 @@ authors:
   - waldo-jaquith
 topics:
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - DoD

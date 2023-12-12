@@ -8,7 +8,7 @@ summary: Leaders of the Lab-to-Market (L2M) Inclusive Innovation Ecosystem Prize
 topics:
   - challenges-and-prize-competitions
   - challenge-gov
-  - strategy
+  - content-strategy
   - crowdsourcing
   - recaps
 # See all authors at https://digital.gov/authors

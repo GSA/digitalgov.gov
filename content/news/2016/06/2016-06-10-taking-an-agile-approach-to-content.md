@@ -9,7 +9,7 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - 18f
   - agile

@@ -8,7 +8,7 @@ featured_image:
   uid: army-mobile
 topics:
   - mobile
-  - strategy
+  - content-strategy
   - mobile-gov
   - mobile-gov-community-of-practice
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - design
-  - strategy
+  - content-strategy
   - policy
   - user-experience
   - 18f

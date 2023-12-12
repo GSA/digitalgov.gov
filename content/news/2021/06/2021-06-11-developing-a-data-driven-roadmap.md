@@ -9,7 +9,7 @@ topics:
   - data
   - pif
   - presidential-innovation-fellows
-  - strategy
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - babatunde-oguntade

@@ -8,7 +8,7 @@ authors:
 topics:
   - governance
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - DOJ
   - open-government

@@ -13,7 +13,7 @@ summary: "Presidential Innovation Fellows believe that representation, communica
 topics: 
   - data
   - research
-  - strategy
+  - content-strategy
   - pif
 
 # see all authors at https://digital.gov/authors

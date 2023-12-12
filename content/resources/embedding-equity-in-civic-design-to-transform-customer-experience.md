@@ -7,7 +7,7 @@ summary: This case study describes how two civic designers at different agencies
 topics:
   - customer-experience
   - design
-  - strategy
+  - content-strategy
   - diversity-equity-inclusion-accessibility-deia
   - trust
 # See all authors at https://digital.gov/authors

@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - content-strategy
   - content-strategy

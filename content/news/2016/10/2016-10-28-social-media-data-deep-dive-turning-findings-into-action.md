@@ -7,7 +7,7 @@ authors:
   - victoria-wales
 topics:
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - analytics
   - content-strategy

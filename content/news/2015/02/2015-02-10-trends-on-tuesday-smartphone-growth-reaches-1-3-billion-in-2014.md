@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - Federal CrowdSource Mobile Testing Program
   - internet-of-things

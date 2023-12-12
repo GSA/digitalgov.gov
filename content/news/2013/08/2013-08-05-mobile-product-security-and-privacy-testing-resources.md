@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - mobile
-  - strategy
+  - content-strategy
   - policy
   - user-testing-and-research
   - GitHub

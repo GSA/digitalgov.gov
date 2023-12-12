@@ -11,7 +11,7 @@ authors:
   - james-kim
 topics:
   - governance
-  - strategy
+  - content-strategy
   - policy
   - epa
   - fda

@@ -9,7 +9,7 @@ authors:
 topics:
   - governance
   - product-management
-  - strategy
+  - content-strategy
   - policy
   - innovation
   - OSTP

@@ -17,7 +17,7 @@ topics:
   - analytics
   - usability-case-study
   - analytics
-  - strategy
+  - content-strategy
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

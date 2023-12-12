@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - monthly-theme
   - social-media
-  - strategy
+  - content-strategy
   - policy
   - aids-gov
   - content-strategy
