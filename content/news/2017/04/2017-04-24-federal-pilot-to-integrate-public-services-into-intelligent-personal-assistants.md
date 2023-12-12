@@ -10,7 +10,6 @@ topics:
   - emerging-tech
   - product-management
   - our-work
-  - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - communities

@@ -13,7 +13,6 @@ primary_image: "creative-brain-concept-thanaphiphat-istock-thinkstock-494897999"
 topics:
   - data
   - mobile
-  - ai
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
   - chatbots

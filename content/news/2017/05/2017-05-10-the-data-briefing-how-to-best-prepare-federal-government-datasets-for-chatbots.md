@@ -9,7 +9,6 @@ topics:
   - data
   - mobile
   - social-media
-  - ai
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
   - best-practices

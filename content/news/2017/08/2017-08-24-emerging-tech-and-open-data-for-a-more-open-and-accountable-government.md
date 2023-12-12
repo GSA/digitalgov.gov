@@ -11,7 +11,6 @@ topics:
   - data
   - emerging-tech
   - our-work
-  - ai
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
   - innovation

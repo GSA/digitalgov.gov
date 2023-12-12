@@ -1,3 +1,4 @@
+
 ---
 slug: the-data-briefing-how-blockchains-future-growth-will-affect-federal-agencies
 date: 2017-09-13 09:01:00 -0400
@@ -11,7 +12,6 @@ authors:
 
 topics:
   - data
-  - ai
   - artificial-intelligence
   - blockchain
   - chatbots

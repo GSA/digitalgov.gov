@@ -23,7 +23,7 @@ topics:
   - devops
   - mobile
   - social-media
-  - ai
+  - artificial-intelligence
   - software-engineering
   
 # see all authors at https://digital.gov/authors

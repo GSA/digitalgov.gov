@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - ai
   - artificial intelligence
   - chatbots
   - mobile

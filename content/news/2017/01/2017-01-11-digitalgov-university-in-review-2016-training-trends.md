@@ -26,7 +26,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - 18f
-  - ai
   - analytics
   - application-programming-interface
   - artificial-intelligence

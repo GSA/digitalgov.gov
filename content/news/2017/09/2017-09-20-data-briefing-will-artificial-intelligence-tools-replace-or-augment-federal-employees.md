@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - product-management
-  - ai
   - artificial-intelligence
   - human-resources
 featured_image:

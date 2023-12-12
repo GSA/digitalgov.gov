@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - product-management
-  - ai
   - artificial-intelligence
   - augmented-reality
   - chatbots

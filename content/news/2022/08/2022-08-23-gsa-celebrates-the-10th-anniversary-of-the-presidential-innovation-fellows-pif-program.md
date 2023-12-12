@@ -24,7 +24,7 @@ summary: Since 2012, over 200 Presidential Innovation Fellows have supported
   program’s impact and community since it launched.
 # See all topics at https://digital.gov/topics
 topics:
-  - ai
+  - artificial-intelligence
   - design
   - user-centered-design
   - professional-development

@@ -9,7 +9,6 @@ authors:
 topics:
   - content
   - product-management
-  - ai
   - artificial intelligence
   - customer-experience
   - multilingual

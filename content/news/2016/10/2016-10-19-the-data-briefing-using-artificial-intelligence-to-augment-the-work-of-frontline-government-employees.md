@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - ai
   - artificial intelligence
   - chatbots
   - the-data-briefing

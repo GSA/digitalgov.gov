@@ -11,7 +11,6 @@ topics:
   - data
   - product-management
   - agile
-  - ai
   - artificial intelligence
   - analytics
   - cloud

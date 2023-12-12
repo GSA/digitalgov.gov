@@ -20,7 +20,6 @@ end_date: 2020-03-25 15:00:00 -0500
 topics:
   - data
   - acquisition
-  - ai
   - analytics
   - artificial-intelligence
 

@@ -1,3 +1,4 @@
+
 ---
 date: 2021-04-07 20:33:00 -0500
 kicker: Artificial Intelligence
@@ -7,7 +8,6 @@ summary: "Three federal teams showcase their success using chatbots to improve c
 # See all topics at https://digital.gov/topics
 topics:
   - chatbots
-  - ai
   - artificial-intelligence
   - social-media
   - customer-experience

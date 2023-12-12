@@ -12,7 +12,7 @@ topics:
   - product-management
   - analytics
   - user-testing-and-research
-  - ai
+
   - analytics
   - artificial intelligence
   - chatbots
