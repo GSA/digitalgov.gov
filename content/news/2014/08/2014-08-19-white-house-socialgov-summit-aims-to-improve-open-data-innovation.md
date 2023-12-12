@@ -10,7 +10,6 @@ topics:
   - social-media
   - data-gov
   - open-data
-  - recaps
   - socialgov-community
   - us-department-of-labor
   - us-department-of-state

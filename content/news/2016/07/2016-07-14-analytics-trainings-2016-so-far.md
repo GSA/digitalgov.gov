@@ -12,7 +12,6 @@ topics:
   - digital-analytics-program
   - google-analytics
   - metrics
-  - recaps
 
 
 ---

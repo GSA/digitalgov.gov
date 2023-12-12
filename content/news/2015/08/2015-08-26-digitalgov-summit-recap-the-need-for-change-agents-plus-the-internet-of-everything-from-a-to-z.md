@@ -13,7 +13,6 @@ topics:
   
   
   - internet-of-things
-  - recaps
 
 ---
 

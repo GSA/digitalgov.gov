@@ -22,7 +22,6 @@ topics:
   
   - innovation
   - privacy
-  - regulation
   - research
   - security
   - user-experience

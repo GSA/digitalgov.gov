@@ -12,7 +12,6 @@ topics:
   - product-management
   - customer-experience
   
-  - recaps
 
 ---
 

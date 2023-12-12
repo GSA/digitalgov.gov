@@ -14,7 +14,6 @@ topics:
   
   - nih
   - open-and-structured-content-models
-  - recaps
   - structured-content
 ---
 

@@ -10,7 +10,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - recaps
   - us-department-of-education
 ---
 

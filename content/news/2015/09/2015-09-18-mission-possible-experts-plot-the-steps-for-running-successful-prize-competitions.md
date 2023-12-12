@@ -10,7 +10,6 @@ topics:
   - challenge-gov
   
   - prizes-and-competitions
-  - recaps
   - united-states-department-of-health-and-human-services
 ---
 

@@ -13,7 +13,6 @@ topics:
   - crowdsourcing
   - innovation
   - nsf
-  - recaps
   - united-states-department-of-housing-and-urban-development
   
 ---

@@ -14,7 +14,6 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
   - open-and-structured-content-models
-  - recaps
   - us-securities-and-exchange-commission
   - united-states-department-of-health-and-human-services
 ---

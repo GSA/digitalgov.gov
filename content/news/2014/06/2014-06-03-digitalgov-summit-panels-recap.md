@@ -15,7 +15,6 @@ topics:
   - social-media
   - user-experience
   - nih
-  - recaps
   - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration

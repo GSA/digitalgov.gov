@@ -7,7 +7,6 @@ authors:
   - judith-snyderman
 topics:
   - social-media
-  - recaps
   - social-media
 ---
 

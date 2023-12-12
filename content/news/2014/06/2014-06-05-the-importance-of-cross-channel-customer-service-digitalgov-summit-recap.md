@@ -15,7 +15,6 @@ topics:
   - social-media
   - user-experience
   - 18f
-  - recaps
   - us-department-of-education
   - united-states-department-of-health-and-human-services
 ---

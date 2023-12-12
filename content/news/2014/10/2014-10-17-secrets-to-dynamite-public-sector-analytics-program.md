@@ -12,7 +12,6 @@ topics:
   - analytics
   - data
   
-  - recaps
   - us-environmental-protection-agency
 ---
 

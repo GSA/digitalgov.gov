@@ -11,7 +11,6 @@ topics:
   - challenge-gov
   - crowdsourcing
   
-  - recaps
   - united-states-department-of-homeland-security
 
 ---

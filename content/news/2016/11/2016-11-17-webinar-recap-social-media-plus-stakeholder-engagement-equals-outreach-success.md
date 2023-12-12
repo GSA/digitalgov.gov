@@ -15,7 +15,6 @@ topics:
   - content-strategy
   - content-syndication
   - multilingual
-  - recaps
   - social-media
   - usagov
   - user research

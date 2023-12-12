@@ -11,7 +11,6 @@ topics:
   - social-media
   - aoi
   
-  - recaps
   - socialgov-community
   - terms-of-service
   - tos

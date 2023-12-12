@@ -13,7 +13,6 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing
   
-  - recaps
   - united-states-department-of-housing-and-urban-development
 ---
 

@@ -11,7 +11,6 @@ topics:
   - challenges-and-prize-competitions
   - innovation
   
-  - recaps
   - social-media
 
 ---

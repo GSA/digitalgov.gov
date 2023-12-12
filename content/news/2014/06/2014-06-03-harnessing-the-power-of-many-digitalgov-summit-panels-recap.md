@@ -14,7 +14,6 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - recaps
   - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration

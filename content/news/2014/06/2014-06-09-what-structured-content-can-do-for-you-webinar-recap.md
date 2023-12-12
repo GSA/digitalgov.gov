@@ -19,7 +19,6 @@ topics:
   
   - nih
   - open-and-structured-content-models
-  - recaps
   - structured-content
   - united-states-census-bureau
 ---

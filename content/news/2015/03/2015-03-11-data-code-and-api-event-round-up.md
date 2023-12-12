@@ -22,7 +22,6 @@ topics:
   - mobile-gov-community-of-practice
   - open-and-structured-content-models
   - open-data
-  - recaps
   - responsive-web-design
   - us-department-of-state
 

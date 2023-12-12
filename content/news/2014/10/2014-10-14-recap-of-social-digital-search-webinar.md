@@ -13,7 +13,6 @@ topics:
   - video
   - search
   - NLM
-  - recaps
   - socialgov-community
 ---
 

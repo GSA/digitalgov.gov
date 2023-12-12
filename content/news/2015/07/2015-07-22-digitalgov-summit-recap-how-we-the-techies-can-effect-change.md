@@ -10,7 +10,6 @@ topics:
   - product-management
   - our-work
   
-  - recaps
 
 ---
 

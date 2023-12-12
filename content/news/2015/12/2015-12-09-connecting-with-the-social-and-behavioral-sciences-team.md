@@ -12,7 +12,6 @@ topics:
   - product-management
   - monthly-theme
   - customer-experience
-  - recaps
   - user-experience
 
 ---

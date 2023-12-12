@@ -13,7 +13,6 @@ topics:
   - GobiernoUSAgov
   - multilingual
   - peace-corps
-  - recaps
   - social-media
   - us-small-business-administration
   - usa-gov

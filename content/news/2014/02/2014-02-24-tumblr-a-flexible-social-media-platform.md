@@ -7,7 +7,6 @@ authors:
   - jessica-milcetich
 topics:
   - social-media
-  - recaps
   - united-states-department-of-health-and-human-services
 ---
 

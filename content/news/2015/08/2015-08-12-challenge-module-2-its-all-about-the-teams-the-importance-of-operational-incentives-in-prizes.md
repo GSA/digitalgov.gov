@@ -9,7 +9,6 @@ topics:
   - challenges
   - challenge-gov
   
-  - recaps
 ---
 
 {{< legacy-img src="2015/08/600-x-319-Sam-Ortega-NASA-and-Christopher-Frangione-XPRIZE-Foundation.jpg" alt="NASA’s Sam Ortega and XPRIZE Foundation’s Christopher Frangione discuss the importance of incentives for teams in challenges and competitions." >}}

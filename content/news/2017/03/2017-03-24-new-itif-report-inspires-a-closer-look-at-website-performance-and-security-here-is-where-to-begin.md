@@ -27,7 +27,6 @@ topics:
   - mobile
   - mobile-first
   - plain-language
-  - resource
   - responsive-web-design
   - search-engine-optimization
   - section-508

@@ -12,7 +12,6 @@ end_date: 2021-08-26 15:00:00 -0500
 topics:
   - social-media
   - content
-  - regulation
 # See all authors at https://digital.gov/authors
 authors:
   - david-j-taube

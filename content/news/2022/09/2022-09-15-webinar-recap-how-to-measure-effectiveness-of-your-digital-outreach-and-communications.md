@@ -7,7 +7,6 @@ topics:
   - communication
   - metrics
   - data
-  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry

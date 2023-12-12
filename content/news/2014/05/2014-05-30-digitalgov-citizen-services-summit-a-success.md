@@ -15,7 +15,6 @@ topics:
   - our-work
   - social-media
   
-  - recaps
   - user-experience
 
 ---

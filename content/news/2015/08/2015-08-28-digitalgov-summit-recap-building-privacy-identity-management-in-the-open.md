@@ -12,7 +12,6 @@ topics:
   
   
   - NIST
-  - recaps
   - united-states-department-of-transportation
 
 ---

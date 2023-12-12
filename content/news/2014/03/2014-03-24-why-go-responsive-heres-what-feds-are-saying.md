@@ -11,7 +11,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - recaps
   - responsive-web-design
   - us-department-of-education
 ---

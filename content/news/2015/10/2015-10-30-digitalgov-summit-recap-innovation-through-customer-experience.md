@@ -11,7 +11,6 @@ topics:
   - customer-experience
   - customer-service
   
-  - recaps
 
 ---
 

@@ -17,7 +17,6 @@ topics:
   - challenge-gov
   - data-gov
   - GitHub
-  - recaps
   - us-department-of-labor
   - us-small-business-administration
   

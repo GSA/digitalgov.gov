@@ -14,7 +14,6 @@ topics:
   - mobile-ux-guideline-1
   - open-and-structured-content-models
   - open-source
-  - recaps
   - responsive-web-design
   - us-department-of-state
 ---

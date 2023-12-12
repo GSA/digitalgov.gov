@@ -13,7 +13,6 @@ topics:
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
-  - recaps
 ---
 
 Let the mic drop!
