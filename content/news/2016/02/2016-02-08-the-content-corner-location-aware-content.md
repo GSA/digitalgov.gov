@@ -13,7 +13,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - federal-emergency-management-agency
   - fema
-  - the-content-corner
+  - content-strategy
 ---
 
 While January was about looking ahead, February is focused on content and many of the new possibilities and challenges that will face us as content creators over the next year and beyond. At the intersection of these two themes lies the genesis of my topic today: location-aware content. {{< legacy-img src="2015/11/600-x-400-Mobile-phone-gps-navigation-travel-destination-location-and-positioning-concept-cybrain-iStock-Thinkstock-493553122.jpg" alt="Mobile phone gps navigation, travel destination, location and positioning concept of a map and single marker over a smart phone" caption="" >}} 
@@ -42,4 +42,4 @@ Another item of note is the clear importance that FEMA assigns to the user’s l
 
 As we do so much these days, a user must weigh the benefits of a feature versus its privacy concerns. Technology will not prove to be the barrier to greater adoption of location-aware content, but ethical concerns may.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

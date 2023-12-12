@@ -15,7 +15,7 @@ topics:
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5
   - responsive-web-design
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/07/600-x-436-Mobile-phone-Nik_Merkulov-iStock-Thinkstock-466186589.jpg" alt="Mobile devices with question marks on the screens" caption="" >}} 
@@ -72,4 +72,4 @@ I like Neil Patel’s description of paragraphs as “[speed bumps](http://conte
 
 Short bursts have greater impact.
 
-Most of what I’ve covered in this post should sound pretty familiar. Having a mobile first mindset when it comes to generating content helps you stay focused on the efficiency of each word you write. As opposed to envisioning the large canvas that a desktop browser represents, picturing a smaller smartphone screen helps drive home the importance of each word. Remember that creating great mobile content equals great content._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Most of what I’ve covered in this post should sound pretty familiar. Having a mobile first mindset when it comes to generating content helps you stay focused on the efficiency of each word you write. As opposed to envisioning the large canvas that a desktop browser represents, picturing a smaller smartphone screen helps drive home the importance of each word. Remember that creating great mobile content equals great content._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

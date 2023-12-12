@@ -14,7 +14,7 @@ topics:
   - analytics
   - plain-writing-act-of-2010
   - social-media
-  - the-content-corner
+  - content-strategy
   - united-states-department-of-homeland-security
 ---
 
@@ -46,7 +46,7 @@ When I say we don’t, I don’t mean we throw up our hands and become Luddites.
 
 When you think about it, a large influence on how we write for the Web was Nielsen’s 20% estimate that crystallized how people’s reading habits changed as the medium shifted online.
 
-Writing for this 20% includes [tips I have mentioned before]({{< ref "/topics/the-content-corner" >}}):
+Writing for this 20% includes [tips I have mentioned before]({{< ref "/topics/content-strategy" >}}):
 
   * Clear and concise headlines are critical to grabbing a user’s attention
   * Bulleted lists are easily ingested by a scanning reader
@@ -120,4 +120,4 @@ When I discuss topics like this I wonder if our own concern for voice or style i
 
 Did you make it this far? If so, I hope it was worth your while and hopefully you can strike that balance between straightforward content that is scannable, but is also rich enough to attract and maintain a more invested reader base. Always think about stripping away 80% of anything you post and look at whether or not what’s left gets your main point across. If it doesn’t, revisit the techniques shared here. See if you can improve your summary or key points—or just keep warning people about the monster at the end of your post.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Businessman-choosing-no-instead-yes-button-BernardaSv-iStock-Thinktock-516619561.jpg" alt="Businessman choosing no instead yes button" caption="" >}} 
@@ -42,4 +42,4 @@ Doing a proper analysis assumes that specific goals and metrics were established
 
 In both our personal and professional life, [saying no is hard](http://lifehacker.com/how-people-pleasers-can-learn-to-say-no-more-often-1524324151) (or perhaps saying &#8220;yes&#8221; is just so much easier), but in both realms it is extremely important. As digital media professionals, we all feel the draw and allure of a new and exciting content delivery mechanism on a constant basis. But before diving in we need to again lean upon our content strategy and also be honest about the resources we have to support a new venture and the potential impact on our already established and successful efforts. We also will need to establish clear success criteria, be honest when reviewing against those criteria, and be strong enough to kill a channel if it isn&#8217;t performing as hoped.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -10,7 +10,7 @@ topics:
   - design
   - monthly-theme
   - administrative-office-of-the-united-states-courts
-  - the-content-corner
+  - content-strategy
   - user-experience
   
 ---
@@ -41,4 +41,4 @@ The image below helps to demonstrate both the dangers of filler content and a us
 
 Be sure that real content (even if it&#8217;s not final content, just as close to reality as possible) is at the center of any UX consideration such as a redesign. One good way to facilitate this is to have all the members of the design team working closely together: the content expert, the UX designer, and the programmers. This close and frequent interaction helps to organically generate questions and conversation among the team members to give everyone a better understanding of the role content plays in the site and more important, how the user interacts with the content.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

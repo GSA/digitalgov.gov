@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - CMS
   - content-strategy
-  - the-content-corner
+  - content-strategy
   - user-experience
 ---
 
@@ -75,4 +75,4 @@ This type of attention to [content formatting]({{< ref "2015-07-27-the-content-c
 
 Be sure to treat your CMS as you would any Web content or product and always seek feedback from your users. Make changes, as needed, to make their jobs a little easier and make your CMS an even greater aid in implementing a consistent [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

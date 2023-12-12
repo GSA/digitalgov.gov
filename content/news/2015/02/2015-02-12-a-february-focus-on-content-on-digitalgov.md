@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - office-of-the-us-foreign-assistance-resources
-  - the-content-corner
+  - content-strategy
   - us-department-of-education
 ---
 

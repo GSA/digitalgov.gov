@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - analytics
   - government-contact-centers
-  - the-content-corner
+  - content-strategy
   - usability
 ---
 
@@ -68,4 +68,4 @@ My suggestion is to not discount user stories and their place within the review 
 
 One point worth making is that the most important thing to do is to talk to your users. The methods, strategies, and format of these discussions can vary. I again recommend using the DigitalGov resources to help get you started, but have that conversation with as many varied users as possible. Remember that the only bad conversation with your users is the one that never happens.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

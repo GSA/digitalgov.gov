@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - infographic
   - social-media
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}
@@ -48,4 +48,4 @@ All the other stuff I write about is important:
 
 and I will keep writing about it, but every so often I need to go to [Smithsonian&#8217;s Tumblr](http://smithsonianlibraries.tumblr.com/tagged/gif) and remind myself how much fun this can and should be.
 
-We have to always remember that our main mission is reaching out and building community and making people&#8217;s lives better. That&#8217;s a wonderful responsibility and we have so many exciting [tools]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}) (with more popping up all the time) to play with and try and fail when needed. Animated gifs, kinetic infographics, live-streamed video: whatever it takes to make that connection, because that&#8217;s why we&#8217;re doing this. If you need to increase your comfort level with at least one of these visual platforms, then sign-up for [Essentials of Animated Gifs for Government]({{< tmp "events/essentials-of-animated-gifs-for-government.md" >}} "Essentials of Animated Gifs for Government")._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+We have to always remember that our main mission is reaching out and building community and making people&#8217;s lives better. That&#8217;s a wonderful responsibility and we have so many exciting [tools]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}) (with more popping up all the time) to play with and try and fail when needed. Animated gifs, kinetic infographics, live-streamed video: whatever it takes to make that connection, because that&#8217;s why we&#8217;re doing this. If you need to increase your comfort level with at least one of these visual platforms, then sign-up for [Essentials of Animated Gifs for Government]({{< tmp "events/essentials-of-animated-gifs-for-government.md" >}} "Essentials of Animated Gifs for Government")._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

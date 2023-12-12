@@ -14,7 +14,7 @@ topics:
   - NWS
   - social-media
   - socialgov
-  - the-content-corner
+  - content-strategy
   - us-digital-service
   - united-states-department-of-energy
   - USDS
@@ -50,4 +50,4 @@ _I’m no expert at this stuff; I simply want to provide my perspective. Us cont
 
 --- 
 
-_You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._ 
+_You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/content-strategy" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._ 

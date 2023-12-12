@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - infographic
   - search-engine-optimization
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/08/600-x-400-OPTIMIZATION-annatodica-iStock-Thinkstock-482812846.jpg" alt="A word cloud for optimization and related website terms." caption="annatodica/iStock/Thinkstock" >}} 
@@ -58,4 +58,4 @@ More shareable content can also take the form of infographics or [animated gifs]
 
 If you are reading this column (thanks!), then you care about the quality of the content you are creating and want it to be found and be helpful to as many people as possible. Don&#8217;t fall prey to fallacies about agency content: We can&#8217;t assume the public knows every agency and knows where to go for information; the “build it and they will come” philosophy has never worked. We all need to make sure our content is not only concise and easy-to-read, we also need to be mindful of search engine rankings. You can apply some of the SEO strategies I’ve briefly shared today.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

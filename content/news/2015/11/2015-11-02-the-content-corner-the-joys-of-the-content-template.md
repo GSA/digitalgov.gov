@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/08/600-x-400-featured-301-x-212-Website-wireframe-sketch-on-digital-tablet-screen-ronstick-iStock-Thinkstock-456037107.jpg" alt="Website wireframe sketch on digital tablet screen" caption="" >}} 
@@ -54,4 +54,4 @@ It also helps each person involved to remember to review all the critical aspect
 
 Finally, I would be remiss to not point out how templates at this stage also help to improve consistency of your content and its structure. Just as a CMS will help provide structure to your content, content templates serve as a type of proto-CMS and help SMEs place their content in the appropriate blank or box. This consistency is valuable when their content is later being sliced and diced and possibly served up in a variety of ways based on [open and structured content]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}) practices, such as providing an [API]({{< ref "/topics/application-programming-interface" >}}).
 
-Your SME took the time to develop the content; I’m sure they’d enjoy having it seen and used in as many ways as possible._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Your SME took the time to develop the content; I’m sure they’d enjoy having it seen and used in as many ways as possible._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

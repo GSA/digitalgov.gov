@@ -15,7 +15,7 @@ topics:
   - content-strategy
   - content-strategy
   - department-of-commerce
-  - the-content-corner
+  - content-strategy
   - United States Patent and Trademark Office
   - USPTO
 

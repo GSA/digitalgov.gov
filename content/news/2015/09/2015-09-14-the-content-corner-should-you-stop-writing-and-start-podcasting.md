@@ -10,7 +10,7 @@ topics:
   - communication
   - blog
   - podcast
-  - the-content-corner
+  - content-strategy
 
 ---
 
@@ -55,4 +55,4 @@ So, as is often the case, the final answer to whether you should stop writing an
 
 As podcasts&#8217; popularity continues to rise and they become more and more mainstream, I predict a resurgence in government podcasting. However, they will remain only another tool along with written and video content to reach and assist as many customers as possible.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

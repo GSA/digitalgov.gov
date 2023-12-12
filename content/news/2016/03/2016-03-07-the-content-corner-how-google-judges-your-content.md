@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - search-engine-optimization
   - seo
-  - the-content-corner
+  - content-strategy
 ---
 
 Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content.
@@ -38,7 +38,7 @@ Also be sure to review site areas regularly (probably as part of an audit or con
 
 # Engaging Content
 
-I could almost just add links to several of my previous posts of [The Content Corner]({{< ref "/topics/the-content-corner" >}}), but I also want to look at this topic through the lens of SEO and how you appear on SERPs.
+I could almost just add links to several of my previous posts of [The Content Corner]({{< ref "/topics/content-strategy" >}}), but I also want to look at this topic through the lens of SEO and how you appear on SERPs.
 
 There is a lot of discussion about “quality content” and I like to toss around the term “efficient content” but what many of us don’t do a great job of is trying to help you find ways to quantify or define what that is. Google prefers the term “[valuable content](https://support.google.com/webmasters/answer/6001093?hl=en)”, so of course one of the first steps is to have as great an understanding as possible of what the user is looking for or what they will find value in.
 

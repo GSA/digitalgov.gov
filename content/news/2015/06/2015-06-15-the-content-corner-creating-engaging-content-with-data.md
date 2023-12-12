@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - data
   - open-data
-  - the-content-corner
+  - content-strategy
   - us-bureau-of-labor-statistics
   - united-states-census-bureau
 ---
@@ -51,4 +51,4 @@ The popularity of [infographics]({{< ref "2014-03-14-customize-your-own-amazing-
 
 In our constant struggle to feed the content beast, data can provide one more method to generate content. During your next content or editorial meeting, take a look at all the data that your agency generates and ask yourself: **what stories should and could we be telling?**
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

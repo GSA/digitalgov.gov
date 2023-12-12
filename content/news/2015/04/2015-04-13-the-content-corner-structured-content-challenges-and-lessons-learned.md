@@ -13,7 +13,7 @@ topics:
   - CMS
   - content-strategy
   - government-contact-centers
-  - the-content-corner
+  - content-strategy
   - usa-gov
 ---
 
@@ -57,4 +57,4 @@ A final challenge Sarah discovered was not directly content-related but more abo
 
 For Sarah and USA.gov, the work goes on as they continue to make amazing progress on what was a significant undertaking. As with all projects, you learn and adjust as you go, and Sarah is already working towards solutions to the challenges she shared, including staffing and realizing the importance of final review in the content creation process. I hope the lessons she is learning are instructive for any of you heading down this road, and if you have additional experiences to share, please don’t hesitate to leave a comment. I might ask you for an interview next!
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

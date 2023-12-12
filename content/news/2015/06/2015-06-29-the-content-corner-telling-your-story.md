@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
-  - the-content-corner
+  - content-strategy
   - us-department-of-labor
 ---
 
@@ -54,4 +54,4 @@ Hopefully, this example has helped show you far more than my minor interest in S
 
 For most of us, there is some aspect of Luke or Deric’s journey that we have experienced either directly or via a loved one (Star Wars’ popularity isn’t just due to special effects). Sharing stories, whether it is Deric’s story and the stories of many others via the Labor blog or the White House’s [Faces of Health Care](https://www.whitehouse.gov/health-care-in-america#faces) section, helps people more directly see the impact a government service could have on their own lives. Customer stories form a portion of the larger story that you should be telling about your agency as a whole.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -16,7 +16,7 @@ topics:
   - mobile
   - social-media
   - social-media-metrics
-  - the-content-corner
+  - content-strategy
 ---
 
 ****Content can be categorized in many ways. While breaking down your [website analytics]({{< ref "/topics/analytics" >}}), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.

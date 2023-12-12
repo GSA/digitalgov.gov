@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - metadata
   - content-strategy
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/03/600-x-415-Global-Communication-and-Data-Concept-Symbols-Robert-Churchill-iStock-Thinkstock-493540889.jpg" alt="Global Communication and Data Concept Symbols" caption="" >}} 
@@ -47,4 +47,4 @@ We are not there yet, but the day is rapidly approaching where almost all conten
 
 Fairly new features such as [Twitter Cards](https://dev.twitter.com/cards/overview) are just another example of the continued irrelevance of an actual website. By adding the Twitter card code to your existing site, you are actually improving your site&#8217;s ability to be irrelevant and setting your content free. It must be able to live on its own and move freely through whatever platform it encounters and needs to be displayed upon. Maybe that platform and display will be a Web page, but most likely in the near future it won’t be.
 
-If you want to learn more about surviving in the post Web page world, I recommend this [upcoming webinar on structured content]({{< tmp "events/where-to-start-with-structured-data-and-content.md" >}}). If you want to share your own experiences or continue this conversation (or suggest future topics for The Content Corner), leave a comment below or find me on Twitter [@tyrusman](https://twitter.com/tyrusman)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+If you want to learn more about surviving in the post Web page world, I recommend this [upcoming webinar on structured content]({{< tmp "events/where-to-start-with-structured-data-and-content.md" >}}). If you want to share your own experiences or continue this conversation (or suggest future topics for The Content Corner), leave a comment below or find me on Twitter [@tyrusman](https://twitter.com/tyrusman)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

@@ -22,7 +22,7 @@ topics:
   - National Weather Service
   - NWS
   - social-media
-  - the-content-corner
+  - content-strategy
   - us-digital-registry
  
 ---

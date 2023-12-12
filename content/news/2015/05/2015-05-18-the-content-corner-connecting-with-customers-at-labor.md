@@ -14,13 +14,13 @@ topics:
   - personas
   - plain-language
   - social-media
-  - the-content-corner
+  - content-strategy
   - us-department-of-labor
 ---
 
 {{< legacy-img src="2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 
 
-Here at DigitalGov, [customer service is a focal theme]({{< ref "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" >}}) during the month of May, and by some type of cosmic chance, I was invited to share my insights on [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}} "The Content Corner: Building a Content Strategy") and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here in [The Content Corner]({{< ref "/topics/the-content-corner" >}}), such as efficient and interesting content and how better content translates into better customer service.
+Here at DigitalGov, [customer service is a focal theme]({{< ref "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" >}}) during the month of May, and by some type of cosmic chance, I was invited to share my insights on [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}} "The Content Corner: Building a Content Strategy") and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here in [The Content Corner]({{< ref "/topics/content-strategy" >}}), such as efficient and interesting content and how better content translates into better customer service.
 
 ## **Content = Customer Service**
 
@@ -48,4 +48,4 @@ Another method discussed was to leverage the successful campaigns of other organ
 
 I want to thank Erica Roberts for inviting me to speak to her colleagues at Labor as they strive to take up the challenge of a more customer-centric digital government. It is always great to get together with others involved in digital media within the government, especially with folks that are as passionate about it as I am. Laura and her Labor colleague Renee Tajudeen continue to pursue innovative ways to increase transparency and to [support those with disabilities](http://www.dol.gov/odep/). And Leonard, with his 35 years of experience in media, was a source of deep knowledge, and his passion should be an inspiration to all of us involved in customer service.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

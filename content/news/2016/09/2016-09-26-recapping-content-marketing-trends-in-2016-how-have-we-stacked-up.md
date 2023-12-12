@@ -21,7 +21,7 @@ topics:
   - NARA
   - national-archives-and-records-administration
   - social-media
-  - the-content-corner
+  - content-strategy
   - us-department-of-the-interior
   - us-department-of-the-treasury
   - united-states-department-of-health-and-human-services
@@ -83,4 +83,4 @@ In an effort to continue to improve the user experience, [USAJobs is leveraging 
 Additionally, with [40 percent of Americans](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) using smartphones to look up government services or information, [Apps and SMS]({{< ref "2016-07-28-widgets-mobile-apps-and-sms-essential-agency-tools-for-summer-heat-safety-and-hurricane-season.md" >}}) are also essential tools for an agency to consider when seeking to provide the public with digital content.
 
 _Looking for help planning or releasing a mobile product or service? Contact DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}). Also, visit the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._
-_You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_]({{< ref "/topics/the-content-corner" >}})_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_]({{< ref "/topics/content-strategy" >}})_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

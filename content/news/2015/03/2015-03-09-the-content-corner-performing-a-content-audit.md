@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - infographic
   - metadata
-  - the-content-corner
+  - content-strategy
   - usability
   - user-experience
 
@@ -49,4 +49,4 @@ The items in this list also remind us that when dealing with existing content, w
 
 By looking at content audits as a chance to improve your site and the user’s experience, it takes on a much different feel as compared to just cleaning up old content on your site. It is a great opportunity to make sure that the content you are providing is optimized for your overall content strategy, which also means it is helping your users/customers as efficiently and effectively as possible. And that’s what its all about, right?
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

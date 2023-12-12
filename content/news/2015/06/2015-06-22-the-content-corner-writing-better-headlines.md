@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/06/600-x-455-3D-Quotation-Marks-Gold-Sign-mariusz_prusaczyk-iStock-Thinkstock-177759854.jpg" alt="Gold quotation marks in 3-D" caption="" >}} 
@@ -50,4 +50,4 @@ Headline length is also important for search engines: 65 characters is the thres
 
 Headline writing has become a serious topic, especially among content marketers, and continues to spawn headlines that border on clickbait themselves ([5 Easy Tricks to Write Catchy Headlines](http://goinswriter.com/catchy-headlines/)). As with most things, there is no simple answer. The one thing that is not in question is the power of the headline and whether or not a customer thinks there is value enough to engage with a piece of your content. Your headlines or content titles are like the cover of a book or magazine: will they encourage a user to pick it up?
 
-The report from Outbrain and Hubspot, along with the various Copyblogger pieces and other links I have referenced here, should all be seen as guides. I would even use the [Ultimate Headline Formula](https://bufferblog-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-27-at-1.34.44-PM.png) with caution. Test, experiment, and find what works for your agency&#8217;s content. Pay attention to your analytics and to how you structure your headlines until you find a happy medium of length and effectiveness. I’m still trying to find mine here at DigitalGov (this article had four previous titles!) so let’s keep learning together._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+The report from Outbrain and Hubspot, along with the various Copyblogger pieces and other links I have referenced here, should all be seen as guides. I would even use the [Ultimate Headline Formula](https://bufferblog-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-27-at-1.34.44-PM.png) with caution. Test, experiment, and find what works for your agency&#8217;s content. Pay attention to your analytics and to how you structure your headlines until you find a happy medium of length and effectiveness. I’m still trying to find mine here at DigitalGov (this article had four previous titles!) so let’s keep learning together._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

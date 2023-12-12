@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - monthly-theme
   - administrative-office-of-the-united-states-courts
-  - the-content-corner
+  - content-strategy
   - user-experience
 ---
 

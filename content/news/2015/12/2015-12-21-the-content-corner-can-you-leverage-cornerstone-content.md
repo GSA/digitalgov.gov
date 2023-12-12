@@ -10,7 +10,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - NPS
   - seo
-  - the-content-corner
+  - content-strategy
   - us-national-park-service
 ---
 
@@ -22,7 +22,7 @@ Properly developed (and frequently maintained) cornerstone content pages can hel
 
 As I said before, even minimal websites have or should have at least a few pages of cornerstone content. The most common of these include the About and Contact pages. These are great basic examples of what cornerstone content is. In my opinion, no professional (or probably even personal) site should exist without these two pages if the site is open to the public and you are sharing content with users. For public sector agencies, these pages are even more critical.
 
-These two pages are your site’s version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="{{< ref "/topics/content-strategy" >}}" target="_blank">content</a> or even <a href="{{< ref "/topics/the-content-corner" >}}" target="_blank">The Content Corner</a>.
+These two pages are your site’s version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="{{< ref "/topics/content-strategy" >}}" target="_blank">content</a> or even <a href="{{< ref "/topics/content-strategy" >}}" target="_blank">The Content Corner</a>.
 
 ## The Anatomy of a Cornerstone Page
 
@@ -50,4 +50,4 @@ So you took the effort to build several fabulous cornerstone content pages based
 
 You should also promote these pages as you would any of your other content by linking to them where appropriate (email newsletters, social media) and cross-linking to them within your own content. I cross-link my Content Corner posts frequently, not as a humblebrag, but to hopefully help users find additional resources on topics of interest. Cornerstone pages perform that same function—but better—because they can provide a user a full range of content based around a single topic.
 
-By following the SEO guidelines as discussed above, these cornerstone pages should also begin to appear more prominently in [search engine results pages (SERP)]({{< ref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}). Again, this allows more users to find your resources and also helps them quickly solve their problems or answer their questions. Have you had success with cornerstone content? Share with us in the comments section._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+By following the SEO guidelines as discussed above, these cornerstone pages should also begin to appear more prominently in [search engine results pages (SERP)]({{< ref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}). Again, this allows more users to find your resources and also helps them quickly solve their problems or answer their questions. Have you had success with cornerstone content? Share with us in the comments section._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
