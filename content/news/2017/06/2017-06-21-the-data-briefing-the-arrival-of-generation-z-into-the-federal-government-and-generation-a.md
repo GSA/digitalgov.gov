@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - artificial-intelligence
-  - augmented-reality
+  - emerging-tech
   - human-resources
   - social-media
 ---

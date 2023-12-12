@@ -15,7 +15,7 @@ topics:
   - user-experience
   - emerging-tech
   - artificial intelligence
-  - augmented-reality
+  - emerging-tech
   - best-practices
   - analytics
   - blockchain

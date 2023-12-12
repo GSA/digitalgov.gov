@@ -10,7 +10,7 @@ topics:
   - emerging-tech
   - mobile
   - social-media
-  - augmented-reality
+  - emerging-tech
   - content-strategy
   - mobile
   - mobile-apps

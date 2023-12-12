@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - data
   - application-programming-interface
-  - augmented-reality
+  - emerging-tech
   - artificial-intelligence
   - customer-experience
   - customer-experience

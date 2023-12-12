@@ -21,7 +21,7 @@ topics:
   - emerging-tech
 
   - artificial-intelligence
-  - augmented-reality
+  - emerging-tech
   - blockchain
   - virtual-reality
   - virtual-augmented-reality-community

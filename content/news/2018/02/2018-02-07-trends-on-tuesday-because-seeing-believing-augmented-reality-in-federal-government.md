@@ -7,7 +7,7 @@ authors:
   - jada-jones
 topics:
   - product-management
-  - augmented-reality
+  - emerging-tech
   - virtual-augmented-reality-community
   - Trends On Tuesday
 featured_image:

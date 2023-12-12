@@ -10,7 +10,7 @@ topics:
   - user-experience
   - video
   - audio-video
-  - augmented-reality
+  - emerging-tech
   - video
   - video-production-pros-community
   - virtual-reality

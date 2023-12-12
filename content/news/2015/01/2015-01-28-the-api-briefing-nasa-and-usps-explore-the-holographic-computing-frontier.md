@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - augmented-reality
+  - emerging-tech
   - mobile-apps
   - nasa
   - national-oceanic-and-atmospheric-administration

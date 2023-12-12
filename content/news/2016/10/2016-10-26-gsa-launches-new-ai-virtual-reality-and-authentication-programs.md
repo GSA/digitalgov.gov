@@ -13,7 +13,7 @@ topics:
   - our-work
   - social-media
   - artificial-intelligence
-  - augmented-reality
+  - emerging-tech
   - communities
   - innovation
   - multilingual

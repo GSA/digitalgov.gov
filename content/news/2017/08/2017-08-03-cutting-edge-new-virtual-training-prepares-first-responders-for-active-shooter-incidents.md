@@ -13,7 +13,7 @@ topics:
   - user-experience
   - video
   - audio-video
-  - augmented-reality
+  - emerging-tech
   - dhs
   - content-strategy
   - research

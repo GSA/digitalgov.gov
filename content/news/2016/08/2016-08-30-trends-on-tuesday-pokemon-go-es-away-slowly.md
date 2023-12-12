@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - augmented-reality
+  - emerging-tech
   - content-strategy
   - mobile
   - mobile-apps

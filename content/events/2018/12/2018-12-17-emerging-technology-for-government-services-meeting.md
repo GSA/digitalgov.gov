@@ -15,7 +15,7 @@ topics:
   - social-media
   - artificial-intelligence
   - emerging-tech
-  - augmented-reality
+  - emerging-tech
   - blockchain
   - social-media
   - virtual-augmented-reality-community
