@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - big-data
+  - analytics
   - BLS
   - Census
   - content-strategy
@@ -21,7 +21,7 @@ topics:
 
 {{< legacy-img src="2015/04/600-x-556-192579-users-analytics-usa-gov-tax-time.jpg" alt="A screen capture showing that there were 192,579 people visiting government websites at that moment." >}}
 
-Over the last several years, continuing advances in computer processing power and storage have brought about the growth of what some call [big data]({{< ref "/topics/big-data" >}}). Mobile and wearable devices now also generate large amounts of data via our interaction with various apps and our geographic location. This endless stream of information is being harnessed to create extremely informative dashboards like [analytics.usa.gov](https://analytics.usa.gov/) and helping make advances in [medicine]({{< ref "2014-03-19-hhs-uses-crowdsourcing-in-booming-mhealth-industry.md" >}}) and even [farming](http://www.wired.com/2015/05/farmers-business-network/) possible. And while big data holds the power to shift our technological age into an even higher gear, it also needs to be mined for the great stories and content that live among the statistics and percentages.
+Over the last several years, continuing advances in computer processing power and storage have brought about the growth of what some call [big data]({{< ref "/topics/analytics" >}}). Mobile and wearable devices now also generate large amounts of data via our interaction with various apps and our geographic location. This endless stream of information is being harnessed to create extremely informative dashboards like [analytics.usa.gov](https://analytics.usa.gov/) and helping make advances in [medicine]({{< ref "2014-03-19-hhs-uses-crowdsourcing-in-booming-mhealth-industry.md" >}}) and even [farming](http://www.wired.com/2015/05/farmers-business-network/) possible. And while big data holds the power to shift our technological age into an even higher gear, it also needs to be mined for the great stories and content that live among the statistics and percentages.
 
 # Letting it All Hang Out {{< legacy-img src="2015/06/600-x-400-Social-alexskopje-iStock-Thinkstock-177106293.jpg" alt="Social data concept graphic; the word social on a card that is surrounded by binary ones and zeroes" caption="" >}}
 

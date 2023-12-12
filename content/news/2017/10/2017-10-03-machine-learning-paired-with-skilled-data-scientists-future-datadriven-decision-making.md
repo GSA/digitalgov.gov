@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - artificial-intelligence
-  - big-data
+  - analytics
   - darpa
   - data
   - emerging-tech

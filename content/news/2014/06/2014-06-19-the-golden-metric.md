@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - metrics
-  - big-data
   - analytics
   - data-gov
   - nasa

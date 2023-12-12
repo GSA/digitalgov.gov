@@ -9,7 +9,7 @@ topics:
   - metrics
   - monthly-theme
   - analytics
-  - big-data
+
   - data
 ---
 

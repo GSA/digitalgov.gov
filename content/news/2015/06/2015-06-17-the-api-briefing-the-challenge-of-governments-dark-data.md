@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - big-data
+  - analytics
   - data
   - data-gov
   - wednesday-api-briefing

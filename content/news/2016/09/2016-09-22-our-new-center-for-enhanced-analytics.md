@@ -9,7 +9,6 @@ topics:
   - data
   - metrics
   - analytics
-  - big-data
   - data
   - GAO
   - metrics

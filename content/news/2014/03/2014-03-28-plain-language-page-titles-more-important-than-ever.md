@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - writing
-  - big-data
+  - analytics
   - search-engine-optimization
 ---
 

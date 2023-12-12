@@ -13,7 +13,7 @@ topics:
   - agile
   - ai
   - artificial intelligence
-  - big-data
+  - analytics
   - cloud
   - data
   - internet-of-things

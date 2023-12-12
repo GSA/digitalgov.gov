@@ -13,7 +13,7 @@ topics:
   - mobile
   - monthly-theme
   - aoi
-  - big-data
+  - analytics
   - challenges-and-prize-competitions
   - customer-experience
   - mobile-gov

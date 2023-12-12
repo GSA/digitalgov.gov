@@ -20,7 +20,7 @@ end_date: 2019-12-03 14:30:00 -0500
 topics: 
   - devops
   - software-engineering
-  - big-data
+  - analytics
   - cloud
   - dod
   - internet-of-things

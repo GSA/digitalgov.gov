@@ -8,7 +8,7 @@ authors:
   - nicole-wong
 topics:
   - data
-  - big-data
+  - analytics
   - data
   - open-data
   - OSTP

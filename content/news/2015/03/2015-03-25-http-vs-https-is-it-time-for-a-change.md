@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - monthly-theme
-  - big-data
+  - analytics
   - https
   - privacy
   - security

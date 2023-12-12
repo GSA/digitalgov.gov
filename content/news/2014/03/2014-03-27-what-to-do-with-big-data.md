@@ -8,7 +8,7 @@ authors:
   - erin-twamley
 topics:
   - data
-  - big-data
+  - analytics
   - data
   - data-gov
   - DOE

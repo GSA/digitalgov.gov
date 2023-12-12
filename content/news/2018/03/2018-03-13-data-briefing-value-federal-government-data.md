@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - metrics
-  - big-data
   - analytics
 featured_image:
   uid: analytics-data-reports
