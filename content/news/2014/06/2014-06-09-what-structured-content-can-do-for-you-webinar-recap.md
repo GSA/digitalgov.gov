@@ -1,3 +1,4 @@
+
 ---
 slug: what-structured-content-can-do-for-you-webinar-recap
 date: 2014-06-09 10:00:42 -0400
@@ -12,7 +13,6 @@ topics:
   - aoi
   - application-programming-interface
   - Census
-  - content-models
   - GitHub
   - gsa
   - metadata

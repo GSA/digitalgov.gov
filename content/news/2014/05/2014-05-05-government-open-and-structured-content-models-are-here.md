@@ -20,7 +20,6 @@ topics:
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
-  - content-models
   - DOL
   - fda
   - GitHub
