@@ -5,7 +5,7 @@ summary: "Trust is earned through consistency and commitment. Build sites that b
 
 # See all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - plain-language
   - customer-experience
   - usability

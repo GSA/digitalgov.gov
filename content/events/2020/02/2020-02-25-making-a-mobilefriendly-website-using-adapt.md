@@ -18,7 +18,7 @@ end_date: 2020-02-25 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 21st-century-idea
+  - digital-service-delivery
   - customer-experience
   - design
   - mobile

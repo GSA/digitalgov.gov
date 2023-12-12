@@ -12,7 +12,7 @@ summary: "Launched in January 2004, the Federal Web Council is a cross-agency gr
 # see all topics at https://digital.gov/topics
 topics:
   - product-management
-  - 21st-century-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

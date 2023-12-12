@@ -8,7 +8,7 @@ summary: A peek into GSA’s internal processes for managing their websites and 
 topics:
   - governance
   - project-management
-  - 21st-century-idea
+  - digital-service-delivery
   - content-strategy
   - customer-experience
 

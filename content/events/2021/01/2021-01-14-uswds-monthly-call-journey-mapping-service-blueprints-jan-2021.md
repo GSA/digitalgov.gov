@@ -12,7 +12,7 @@ end_date: 2021-01-21 15:30:00 -0500
 topics:
   - uswds
   - design
-  - 21st-century-idea
+  - digital-service-delivery
   - user-centered-design
   - customer-experience
   - user-experience

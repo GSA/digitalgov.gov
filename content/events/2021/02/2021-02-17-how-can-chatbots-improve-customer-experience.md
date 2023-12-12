@@ -12,7 +12,7 @@ end_date: 2021-02-23 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - 21st-century-idea
+  - digital-service-delivery
   - artificial-intelligence
   - 10x
 # See all authors at https://digital.gov/authors

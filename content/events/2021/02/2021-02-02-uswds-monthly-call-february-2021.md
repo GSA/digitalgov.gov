@@ -14,7 +14,7 @@ end_date: 2021-02-18 15:30:00 -0500
 topics:
   - uswds
   - design
-  - 21st-century-idea
+  - digital-service-delivery
   - product-management
 # See all authors at https://digital.gov/authors
 authors:

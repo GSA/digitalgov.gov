@@ -12,7 +12,7 @@ summary: "This week, we’re exploring what it means to promote continuity, and 
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 21st-century-idea
+  - digital-service-delivery
   - content-strategy
   - customer-experience
   - uswds

@@ -16,7 +16,7 @@ topics:
   - multilingual
   - accessibility
   - content-strategy
-  - 21st-century-idea
+  - digital-service-delivery
 
 slug: celebrating-20-years-of-usagov-en-espanol
 

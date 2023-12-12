@@ -14,7 +14,7 @@ end_date: 2020-09-17 15:30:00 -0500
 topics:
   - design
   - uswds
-  - 21st-century-idea
+  - digital-service-delivery
   - user-centered-design
 # See all authors at https://digital.gov/authors
 authors:

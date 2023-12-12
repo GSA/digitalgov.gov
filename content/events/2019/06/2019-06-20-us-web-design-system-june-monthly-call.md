@@ -15,7 +15,7 @@ topics:
   - product-management
   - uswds
   - design
-  - 21st-century-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

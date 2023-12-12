@@ -11,7 +11,7 @@ summary: "OMB recently released new policy guidance for government that includes
 topics:
   - white-house
   - omb
-  - 21st-century-idea
+  - digital-service-delivery
   - design
   - customer-experience
   - trust

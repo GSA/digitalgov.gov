@@ -18,7 +18,7 @@ topics:
   - search
   - privacy
   - security
-  - 21st-century-idea
+  - digital-service-delivery
   - resource
 # See all authors at https://digital.gov/authors
 authors:

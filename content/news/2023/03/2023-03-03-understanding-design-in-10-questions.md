@@ -9,7 +9,7 @@ topics:
   - design
   - customer-experience
   - project-management
-  - 21st-century-idea
+  - digital-service-delivery
   - content-strategy
 primary_image: "abstract-background-question-marks-talangart-istock-getty-images-1280616526-edit"
 

@@ -11,7 +11,7 @@ summary: "This week, we’re exploring what it means to establish effective gove
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 21st-century-idea
+  - digital-service-delivery
   - governance
   - professional-development
   - training

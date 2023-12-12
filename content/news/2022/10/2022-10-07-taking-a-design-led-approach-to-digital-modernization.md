@@ -11,7 +11,7 @@ topics:
   - governance
   - budgeting-and-performance
   - customer-experience
-  - 21st-century-idea
+  - digital-service-delivery
 
 # See all authors at https://digital.gov/authors
 authors:

@@ -11,7 +11,7 @@ summary: "This week, we’re providing a few tips for tidying up redundant, outd
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - content-strategy
   - content-strategy
   - analytics

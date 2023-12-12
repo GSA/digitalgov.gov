@@ -12,7 +12,7 @@ summary: "We've been working on a new version of Digital.gov, and we’re ready 
 topics:
   - our-work
   - uswds
-  - 21st-century-idea
+  - digital-service-delivery
   - design
 
 # see all authors at https://digital.gov/authors

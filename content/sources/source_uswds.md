@@ -35,7 +35,7 @@ logo: uswds
 # Topics that best describe this product or service
 topics:
   - design
-  - 21st-century-idea
+  - digital-service-delivery
 
 # Make it better ♥
 

@@ -20,7 +20,7 @@ topics:
   - code
   - design
   - uswds
-  - 21st-century-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

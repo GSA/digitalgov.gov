@@ -15,7 +15,7 @@ end_date: 2020-10-15 15:30:00 -0500
 topics:
   - design
   - uswds
-  - 21st-century-idea
+  - digital-service-delivery
   - user-centered-design
   - content-strategy
   - user-experience

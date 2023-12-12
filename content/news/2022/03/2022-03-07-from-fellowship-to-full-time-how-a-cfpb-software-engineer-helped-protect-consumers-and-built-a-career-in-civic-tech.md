@@ -9,7 +9,7 @@ topics:
   - software-engineering
   - user-experience
   - accessibility
-  - 21st-century-idea
+  - digital-service-delivery
   - uswds
   - design
   - communities

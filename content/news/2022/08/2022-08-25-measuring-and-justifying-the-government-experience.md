@@ -25,7 +25,7 @@ topics:
   - governance
   - analytics
   - data
-  - 21st-century-idea
+  - digital-service-delivery
   - open
   - customer-experience
   - accessibility

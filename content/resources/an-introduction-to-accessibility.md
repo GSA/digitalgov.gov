@@ -11,7 +11,7 @@ authors:
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - 21st-century-idea
+  - digital-service-delivery
   - diversity-equity-and-inclusion
 
 # Controls how this page appears across the site

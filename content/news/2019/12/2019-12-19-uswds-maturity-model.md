@@ -19,7 +19,7 @@ source: uswds
 # see all topics at https://digital.gov/topics
 topics:
   - uswds
-  - 21st-century-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:
