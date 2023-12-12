@@ -6,7 +6,7 @@ summary: A guide for government employees and contractors to understand and use
   pronouns in the workplace.
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
   - communication
 # See all authors at https://digital.gov/authors
 authors:

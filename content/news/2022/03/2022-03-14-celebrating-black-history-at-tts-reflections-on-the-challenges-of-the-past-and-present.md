@@ -5,7 +5,7 @@ summary: "Technology Transformation Services (TTS) has a vision for a government
 # See all topics at https://digital.gov/topics
 topics:
   - tts
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - patrick-kigongo

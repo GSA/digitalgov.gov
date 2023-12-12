@@ -8,7 +8,7 @@ topics:
   - customer-experience
   - design
   - content-strategy
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
   - trust
 # See all authors at https://digital.gov/authors
 authors:

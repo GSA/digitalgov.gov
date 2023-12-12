@@ -14,7 +14,7 @@ topics:
   - accessibility
   - gsa
   - us-general-services-administration
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

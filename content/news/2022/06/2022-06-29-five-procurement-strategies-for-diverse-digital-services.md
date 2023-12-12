@@ -9,7 +9,7 @@ topics:
   - acquisition
   - accessibility
   - policy
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
   - diversity-equity-and-inclusion
 
 # See all authors at https://digital.gov/authors

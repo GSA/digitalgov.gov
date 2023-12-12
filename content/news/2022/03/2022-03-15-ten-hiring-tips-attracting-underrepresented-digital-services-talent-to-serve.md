@@ -8,7 +8,7 @@ topics:
   - professional-development
   - content-strategy
   - training
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - victoria-wales
