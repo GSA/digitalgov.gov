@@ -13,7 +13,6 @@ authors:
 topics:
   - product-management
   - digital-service-delivery
-  - this-weeks-idea
   - trust
 
 featured_image:

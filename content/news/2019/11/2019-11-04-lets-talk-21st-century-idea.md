@@ -15,7 +15,6 @@ authors:
 topics:
   - product-management
   - digital-service-delivery
-  - this-weeks-idea
 
 ---
 

@@ -19,7 +19,7 @@ topics:
   - analytics
   - accessibility
   - seo
-  - this-weeks-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

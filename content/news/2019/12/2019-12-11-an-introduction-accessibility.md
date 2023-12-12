@@ -11,7 +11,6 @@ authors:
 topics:
   - accessibility
   - digital-service-delivery
-  - this-weeks-idea
 
 featured_image:
   uid: this-weeks-idea-card

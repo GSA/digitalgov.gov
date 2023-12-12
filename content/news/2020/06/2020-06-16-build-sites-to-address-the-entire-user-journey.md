@@ -15,7 +15,6 @@ topics:
   - customer-experience
   - design
   - user-experience
-  - this-weeks-idea
 
 # see all authors at https://digital.gov/authors
 authors: 

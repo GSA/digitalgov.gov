@@ -1,3 +1,4 @@
+
 ---
 # View this page at https://digital.gov/2020/05/12/promote-continuity-better-support-customer-journeys
 # Learn how to edit our pages at https://workflow.digital.gov
@@ -17,8 +18,6 @@ topics:
   - customer-experience
   - uswds
   - user-experience
-  
-  - this-weeks-idea
 
 # see all authors at https://digital.gov/authors
 authors: 

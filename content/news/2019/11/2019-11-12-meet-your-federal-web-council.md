@@ -12,7 +12,6 @@ authors:
 topics:
   - product-management
   - digital-service-delivery
-  - this-weeks-idea
 
 featured_image:
   uid: this-weeks-idea-card-wk2
