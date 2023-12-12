@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - data
   - application-programming-interface
-  - cloud
+  - cloud-and-infrastructure
   - fda
   - mobile-first
 ---

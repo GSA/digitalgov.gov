@@ -13,7 +13,7 @@ topics:
   - user-experience
   - 18f
   - analytics
-  - cloud
+  - cloud-and-infrastructure
   - cloud-gov
   - content
   - content-strategy

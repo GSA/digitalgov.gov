@@ -9,7 +9,7 @@ authors:
 topics:
   - data
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - data
   - fedramp
 ---

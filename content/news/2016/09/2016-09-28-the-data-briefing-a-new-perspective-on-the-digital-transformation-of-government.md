@@ -13,7 +13,7 @@ topics:
   - policy
   - agile
   - architecture
-  - cloud
+  - cloud-and-infrastructure
   - code
   - data
   - innovation

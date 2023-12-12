@@ -12,7 +12,7 @@ summary: "Essential information that government product managers should know abo
 topics: 
   - devops
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - cloud-gov
 
 # see all authors at https://digital.gov/authors

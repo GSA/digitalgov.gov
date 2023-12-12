@@ -23,7 +23,7 @@ topics:
   - analytics
   - open-source
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - cloud-gov
   - budgeting-and-performance
   - gsa

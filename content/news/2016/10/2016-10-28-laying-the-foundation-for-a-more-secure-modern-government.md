@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - best-practices
-  - cloud
+  - cloud-and-infrastructure
   - Cybersecurity National Action Plan
   - gsa
   - infrastructure

@@ -11,7 +11,7 @@ topics:
   - design
   - product-management
   - 18f
-  - cloud
+  - cloud-and-infrastructure
   - cloud-gov
   - CMS
   - content-management-system

@@ -12,7 +12,7 @@ topics:
   - policy
   - 18f
   - agile
-  - cloud
+  - cloud-and-infrastructure
   - content
   - gsa
   - acquisition

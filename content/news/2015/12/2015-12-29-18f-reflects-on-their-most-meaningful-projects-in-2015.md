@@ -11,7 +11,7 @@ topics:
   - accessibility
   - analytics-usa-gov
   - application-programming-interface
-  - cloud
+  - cloud-and-infrastructure
   - analytics
   - data
   - DOI

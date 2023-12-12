@@ -21,7 +21,7 @@ topics:
   - devops
   - software-engineering
   - analytics
-  - cloud
+  - cloud-and-infrastructure
   - dod
   - internet-of-things
   - virtual-reality

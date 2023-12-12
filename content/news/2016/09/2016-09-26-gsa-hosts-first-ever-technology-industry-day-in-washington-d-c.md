@@ -13,7 +13,7 @@ topics:
   - policy
   - 18f
   - agile
-  - cloud
+  - cloud-and-infrastructure
   - cloud-gov
   - data
   - budgeting-and-performance

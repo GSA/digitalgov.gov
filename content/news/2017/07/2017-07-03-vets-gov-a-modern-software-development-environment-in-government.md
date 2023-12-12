@@ -11,7 +11,7 @@ topics:
   - software-engineering
   - design
   - user-testing-and-research
-  - cloud
+  - cloud-and-infrastructure
   - code
   - GitHub
   - infrastructure

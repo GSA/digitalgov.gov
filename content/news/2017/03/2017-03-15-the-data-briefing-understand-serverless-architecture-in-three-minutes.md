@@ -9,7 +9,7 @@ topics:
   - data
   - product-management
   - architecture
-  - cloud
+  - cloud-and-infrastructure
   - data
   - the-data-briefing
 ---

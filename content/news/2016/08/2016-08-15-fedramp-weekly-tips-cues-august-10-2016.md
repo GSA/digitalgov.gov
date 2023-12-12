@@ -8,7 +8,7 @@ authors:
   - fedramp
 topics:
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - data
   - Federal Risk and Authorization Management Program
   - fedramp

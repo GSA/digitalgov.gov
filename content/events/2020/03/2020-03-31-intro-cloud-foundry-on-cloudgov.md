@@ -21,7 +21,7 @@ end_date: 2020-03-31 16:00:00 -0500
 topics: 
   - code
   - open-source
-  - cloud
+  - cloud-and-infrastructure
   - cloud-gov
 
 # see all authors at https://digital.gov/authors

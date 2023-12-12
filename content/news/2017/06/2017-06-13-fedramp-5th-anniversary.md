@@ -7,7 +7,7 @@ authors:
   - fedramp
 topics:
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - fedramp
 
 ---

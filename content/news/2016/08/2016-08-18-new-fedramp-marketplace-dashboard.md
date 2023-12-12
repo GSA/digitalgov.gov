@@ -10,7 +10,7 @@ topics:
   - data
   - product-management
   - 18f
-  - cloud
+  - cloud-and-infrastructure
   - data
   - Federal Risk and Authorization Management Program
   - fedramp

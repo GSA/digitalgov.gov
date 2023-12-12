@@ -9,7 +9,7 @@ authors:
 topics:
   - code
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - fedramp
   - security
 ---

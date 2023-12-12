@@ -8,7 +8,7 @@ topics:
   - accessibility
   - design
   - code
-  - cloud
+  - cloud-and-infrastructure
   - policy
 authors:
   - jeremyzilar

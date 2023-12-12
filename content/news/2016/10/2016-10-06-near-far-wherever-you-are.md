@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - acquisition
-  - cloud
+  - cloud-and-infrastructure
   - content-strategy
   - FAS
   - Federal Acquisition Service

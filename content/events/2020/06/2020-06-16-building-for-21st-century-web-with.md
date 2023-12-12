@@ -20,7 +20,7 @@ end_date: 2020-06-16 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - security
-  - cloud
+  - cloud-and-infrastructure
   - cloud-gov
 
 # see all authors at https://digital.gov/authors

@@ -14,7 +14,7 @@ topics:
   - customer-experience
   - data
   - artificial-intelligence
-  - cloud
+  - cloud-and-infrastructure
 
 # see all authors at https://digital.gov/authors
 authors:

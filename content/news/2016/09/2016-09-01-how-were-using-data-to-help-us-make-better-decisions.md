@@ -7,7 +7,7 @@ authors:
   - david-shive
 topics:
   - data
-  - cloud
+  - cloud-and-infrastructure
   - data
   - FAS
   - Federal Acquisition Service

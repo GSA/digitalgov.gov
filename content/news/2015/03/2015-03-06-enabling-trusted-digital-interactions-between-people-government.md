@@ -8,7 +8,7 @@ authors:
   - jonathan-prisby
 topics:
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - trust
   - privacy
   - security

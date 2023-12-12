@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - monthly-theme
-  - cloud
+  - cloud-and-infrastructure
   - data
 ---
 

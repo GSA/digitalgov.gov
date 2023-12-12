@@ -11,7 +11,7 @@ summary: "**The New FedRAMP.gov**&mdash;FedRAMP is excited to announce the launc
 topics:
   - fedramp
   - design
-  - cloud
+  - cloud-and-infrastructure
 slug: the-new-fedramp-gov
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -9,7 +9,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - cloud
+  - cloud-and-infrastructure
   - gsa
   - security
   - us-general-services-administration

@@ -8,7 +8,7 @@ authors:
   - matt-goodrich
 topics:
   - product-management
-  - cloud
+  - cloud-and-infrastructure
   - analytics
   - fedramp
   - gsa

@@ -9,7 +9,7 @@ authors:
   - perryn-ashmore
 topics:
   - data
-  - cloud
+  - cloud-and-infrastructure
   - CMS
   - data
   - data-visualization
