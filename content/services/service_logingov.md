@@ -32,7 +32,7 @@ topics:
   - product-management
   - security
   - authentication
-  - online-proofing
+  - content-strategy
 
 
 ---

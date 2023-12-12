@@ -39,7 +39,7 @@ topics:
   - product-management
   - security
   - authentication
-  - online-proofing
+  - content-strategy
 
 # Make it better ♥
 ---
