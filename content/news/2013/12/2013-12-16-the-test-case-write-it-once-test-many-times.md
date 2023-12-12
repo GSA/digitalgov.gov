@@ -6,7 +6,7 @@ summary: 'What if Thomas Edison Didn’t Use Test Cases? &ldquo;I have not faile
 topics:
   - mobile
   - user-testing-and-research
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile-testing
 
 ---

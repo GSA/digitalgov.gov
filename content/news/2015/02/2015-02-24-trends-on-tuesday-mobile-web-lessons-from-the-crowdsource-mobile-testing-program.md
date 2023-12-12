@@ -10,7 +10,7 @@ topics:
   - our-work
   - user-experience
   - Defense Finance and Accounting Services
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4

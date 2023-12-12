@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - content-strategy
   - ios
   - mobile-ux-guideline-5

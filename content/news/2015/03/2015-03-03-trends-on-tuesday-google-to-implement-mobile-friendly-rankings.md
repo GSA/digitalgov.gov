@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile
   - mobile-ux-guideline-4
   - responsive-web-design

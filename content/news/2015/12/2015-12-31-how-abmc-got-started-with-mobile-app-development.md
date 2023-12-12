@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - federal-crowdsource-mobile-testing-program
   - mobile-testing
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4

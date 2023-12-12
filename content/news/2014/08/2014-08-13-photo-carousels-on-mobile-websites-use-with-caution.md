@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - FAA
   - Federal Aviation Administration
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - content-strategy

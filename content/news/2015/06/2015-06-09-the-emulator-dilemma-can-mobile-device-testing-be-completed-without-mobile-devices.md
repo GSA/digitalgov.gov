@@ -9,7 +9,7 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile
   - mobile-testing
   - mobile-ux-guideline-1

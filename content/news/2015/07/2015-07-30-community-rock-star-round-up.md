@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - 18f
   - customer-experience
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - gsa
   - HHS
   - ICE

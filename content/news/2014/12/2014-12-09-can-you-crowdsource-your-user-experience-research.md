@@ -13,7 +13,7 @@ topics:
   - application-programming-interface
   - crowdsourcing-and-citizen-science
   - data-gov
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - NREL
   - usability
   - usability-case-study

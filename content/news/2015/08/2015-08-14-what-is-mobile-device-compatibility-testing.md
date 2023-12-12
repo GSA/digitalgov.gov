@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4

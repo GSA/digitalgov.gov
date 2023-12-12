@@ -13,7 +13,7 @@ topics:
   - Defense Finance and Accounting Services
   - DFAS
   - DOE
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - HHS
   - mobile
   - mobile-ux-guideline-1

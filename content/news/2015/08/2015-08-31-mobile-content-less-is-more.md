@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - user-testing-and-research
   - content-strategy
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile
   - mobile-apps
   - mobile-ux-guideline-1

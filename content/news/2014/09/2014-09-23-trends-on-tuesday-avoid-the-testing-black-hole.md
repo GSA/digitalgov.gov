@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile-testing
   - mobile-ux-guideline-4
   - responsive-web-design

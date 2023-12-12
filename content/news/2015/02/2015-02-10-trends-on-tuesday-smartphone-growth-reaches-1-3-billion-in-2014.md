@@ -9,7 +9,7 @@ topics:
   - mobile
   - content-strategy
   - policy
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - emerging-tech
   - open-data
   - responsive-web-design

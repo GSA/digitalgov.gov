@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - analytics
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
