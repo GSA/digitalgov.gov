@@ -20,7 +20,7 @@ end_date: 2018-06-08 13:00:00 -0500
 topics: 
   - emerging-tech
   - product-management
-  - it-modernization-fund
+  - budgeting-and-performance
   - rpa
 
 # see all authors at https://digital.gov/authors
