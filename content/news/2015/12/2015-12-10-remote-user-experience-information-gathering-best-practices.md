@@ -9,7 +9,6 @@ topics:
   - design
   - analytics
   - SSA
-  - the-united-states-social-security-administration
   - user-experience
 ---
 

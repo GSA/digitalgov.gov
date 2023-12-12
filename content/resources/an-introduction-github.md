@@ -11,7 +11,6 @@ summary: "Steps for managing website content in GitHub."
 
 # see all topics at https://digital.gov/topics
 topics:
-  - training
   - github
   - code
 

@@ -11,7 +11,6 @@ topics:
   
   - mobile-apps
   - SSA
-  - the-united-states-social-security-administration
   - thursday-mobile-products
   - united-states-geological-survey
  

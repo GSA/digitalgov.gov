@@ -22,7 +22,6 @@ topics:
   - fedramp
   - innovation
   - security
-  - tts
 
 ---
 

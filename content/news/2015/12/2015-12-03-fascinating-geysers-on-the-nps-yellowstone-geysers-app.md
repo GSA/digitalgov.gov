@@ -12,7 +12,6 @@ topics:
   - NPS
   - social-media
   - SSA
-  - the-united-states-social-security-administration
   - thursday-mobile-products
   - us-national-park-service
 ---

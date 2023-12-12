@@ -14,7 +14,6 @@ topics:
   - multilingual
   - multilingual-community
   - SSA
-  - the-united-states-social-security-administration
   - us-department-of-justice
   - united-states-census-bureau
   - united-states-department-of-housing-and-urban-development

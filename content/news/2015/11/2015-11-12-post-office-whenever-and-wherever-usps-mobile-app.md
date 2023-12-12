@@ -10,7 +10,6 @@ topics:
   - ios
   - mobile-apps
   - SSA
-  - the-united-states-social-security-administration
   - thursday-mobile-products
   - United States Postal Service
   - USPS

@@ -7,7 +7,6 @@ summary: As we focus on Diversity, Equity, Inclusion, and Accessibility (DEIA) a
 topics:
   - professional-development
   - strategy
-  - training
   - diversity-equity-inclusion-accessibility-deia
 # See all authors at https://digital.gov/authors
 authors:

@@ -29,7 +29,6 @@ topics:
   - budgeting-and-performance
   - gsa
   - infrastructure
-  - tts
 
 # see all authors at https://digital.gov/authors
 authors: 

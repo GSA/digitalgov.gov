@@ -10,8 +10,6 @@ topics:
   
   
   - nih
-  - transportation-security-administration
-  - TSA
   - us-department-of-the-interior
 ---
 

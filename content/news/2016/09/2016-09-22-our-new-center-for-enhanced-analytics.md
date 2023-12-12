@@ -13,8 +13,6 @@ topics:
   - data
   
   - metrics
-  - transportation-security-administration
-  - TSA
   - us-government-accountability-office
   - united-states-department-of-transportation
 ---

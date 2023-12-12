@@ -13,7 +13,6 @@ topics:
   - customer-experience
   - governance
   - professional-development
-  - training
   - digital-service-delivery
 
 # See all authors at https://digital.gov/authors

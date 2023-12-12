@@ -33,7 +33,6 @@ topics:
   - section-508
   - security
   - seo
-  - training
   - usability
   - user-centered-design
   - user-experience

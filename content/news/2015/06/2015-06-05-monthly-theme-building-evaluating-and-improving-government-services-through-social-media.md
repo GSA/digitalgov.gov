@@ -15,8 +15,6 @@ topics:
   - NOAA
   - social-media
   - socialgov
-  - transportation-security-administration
-  - TSA
   - united-states-geological-survey
   - USGS
 ---

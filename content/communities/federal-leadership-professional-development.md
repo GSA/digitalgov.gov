@@ -13,7 +13,6 @@ redirectto: https://community.max.gov/x/bWSvgQ
 topics:
   - product-management
   - professional-development
-  - training
   - innovation
 
 # Page weight: controls how this page appears across the site

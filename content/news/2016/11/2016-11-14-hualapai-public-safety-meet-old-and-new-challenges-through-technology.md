@@ -20,7 +20,6 @@ topics:
   - broadband
   - data
   - mobile
-  - tribal-government
   - us-national-park-service
   - nps
   - user-research

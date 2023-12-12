@@ -13,7 +13,6 @@ topics:
   - customer-service
   - multilingual
   - SSA
-  - the-united-states-social-security-administration
   - user-experience
   
 ---

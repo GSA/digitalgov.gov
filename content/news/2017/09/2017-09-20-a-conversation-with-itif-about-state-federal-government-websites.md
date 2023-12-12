@@ -24,7 +24,6 @@ topics:
   - section-508
   - security
   - seo
-  - training
   - usability
   - user-experience
   - user-research

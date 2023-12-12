@@ -24,7 +24,6 @@ topics:
   - OCSIT
   - office-of-citizen-services-and-innovative-technology
   - office-of-products-and-programs
-  - tts
 
 ---
 

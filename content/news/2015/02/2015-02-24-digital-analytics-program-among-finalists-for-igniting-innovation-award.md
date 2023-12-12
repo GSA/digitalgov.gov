@@ -16,8 +16,6 @@ topics:
   - innovation
   
   - open-data
-  - transportation-security-administration
-  - TSA
 
 ---
 

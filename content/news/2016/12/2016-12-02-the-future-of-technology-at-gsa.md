@@ -13,8 +13,6 @@ topics:
   - 18f
   - gsa
   - innovation
-  - technology-transformation-services
-  - tts
   - us-general-services-administration
   - USDS
   - us-digital-service

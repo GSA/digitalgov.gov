@@ -12,8 +12,6 @@ topics:
   
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - transportation-security-administration
-  - TSA
   - united-states-department-of-defense
 ---
 
