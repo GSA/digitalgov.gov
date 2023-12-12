@@ -8,7 +8,6 @@ authors:
 topics:
   - accessibility
   - mobile
-  - "508"
   - accessibility
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3

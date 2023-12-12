@@ -7,7 +7,6 @@ authors:
   - tanya-mcilravy
 topics:
   - monthly-theme
-  - "508"
   - accessibility
   - customer-experience
   - customer-satisfaction

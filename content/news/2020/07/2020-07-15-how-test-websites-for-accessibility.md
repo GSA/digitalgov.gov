@@ -20,7 +20,6 @@ summary: ""
 topics: 
   - 21st-century-idea
   - accessibility
-  - 508
   - section-508
 
 # see all authors at https://digital.gov/authors

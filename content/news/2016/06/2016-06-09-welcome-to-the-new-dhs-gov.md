@@ -13,7 +13,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - "508"
   - accessibility
   - content
   - content-strategy

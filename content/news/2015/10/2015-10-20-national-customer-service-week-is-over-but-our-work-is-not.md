@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - "508"
   - accessibility
   - customer-experience
   - customer-satisfaction

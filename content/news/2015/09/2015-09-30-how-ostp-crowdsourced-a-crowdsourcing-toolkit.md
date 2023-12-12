@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - product-management
   - our-work
-  - "508"
+  - accessibility
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing

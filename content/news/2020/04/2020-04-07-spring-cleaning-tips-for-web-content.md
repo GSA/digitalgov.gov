@@ -16,7 +16,6 @@ topics:
   - content-strategy
   - metrics
   - plain-language
-  - 508
   - analytics
   - section-508
   - seo

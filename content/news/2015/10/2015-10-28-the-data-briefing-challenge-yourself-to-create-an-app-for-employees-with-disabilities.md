@@ -9,7 +9,7 @@ topics:
   - data
   - mobile
   - monthly-theme
-  - "508"
+  - accessibility
   - api
   - data
   - data-gov
