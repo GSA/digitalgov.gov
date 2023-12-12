@@ -10,7 +10,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
   - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/smartphones-600-x-400.jpg)159.8 million people in the U.S. over the age of 13 owned smartphones during the three months ending in January, up 7 percent since October, [according to ComScore](http://www.comscore.com/Insights/Press_Releases/2014/3/comScore_Reports_January_2014_US_Smartphone_Subscriber_Market_Share).

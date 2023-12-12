@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-1
   - social-media
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< ref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}).

@@ -17,7 +17,7 @@ topics:
   - mobile-friendly
   - responsive-web-design
   - security
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government:

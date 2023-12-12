@@ -15,7 +15,7 @@ topics:
   - mobile
   - mobile-apps
   - social-media
-  - trends-on-tuesday
+  - emerging-tech
   - video
 
 ---

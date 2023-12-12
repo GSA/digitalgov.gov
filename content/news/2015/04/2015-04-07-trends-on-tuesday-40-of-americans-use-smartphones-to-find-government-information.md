@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile-ux-guideline-5
   - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 The [Pew Research Center released a deep research dive into “U.S. Smartphone Use in 2015”](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) that provided three big ideas and data points for government agencies to consider when planning their digital strategies.

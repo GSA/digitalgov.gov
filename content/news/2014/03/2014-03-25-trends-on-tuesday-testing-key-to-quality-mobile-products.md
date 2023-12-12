@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - mobile
   - mobile-testing
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img-right src="2013/12/mobile-devices-testing-app.jpeg" alt="Many smartphones and tablets on a table displaying the same app." >}}

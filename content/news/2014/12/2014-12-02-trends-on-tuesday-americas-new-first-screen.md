@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-app-development-program
   - mobile-apps
-  - trends-on-tuesday
+  - emerging-tech
   - us-bureau-of-labor-statistics
 ---
 

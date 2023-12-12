@@ -11,7 +11,7 @@ topics:
   - Census
   - centers-for-disease-control-and-prevention
   - mobile-apps
-  - trends-on-tuesday
+  - emerging-tech
   - united-states-census-bureau
 ---
 

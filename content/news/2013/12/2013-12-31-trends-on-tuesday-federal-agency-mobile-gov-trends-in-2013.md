@@ -17,7 +17,7 @@ topics:
   - national-gallery-of-art
   - NOAA
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
   - user-experience
 
 ---

@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5
   - native-app
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/06/600-x-289-Localytics-2015-App-User-Retention-Rate-United-States.jpg" alt="Chart showing the App User Retention Rate in the United States, comparing the years 2013, 2014 and 2015." >}}

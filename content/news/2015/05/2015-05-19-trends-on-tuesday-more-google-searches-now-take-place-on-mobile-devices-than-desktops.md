@@ -11,7 +11,7 @@ topics:
   - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}The drum beat of the [continuing]({{< ref "2014-12-02-trends-on-tuesday-americas-new-first-screen.md" >}}) and [quick]({{< ref "2015-01-27-trends-on-tuesday-mobile-marketing-on-the-rise.md" >}}) cultural shift to [mobile device dominance]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}} "Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must") continues to grow—[Google announced that more searches take place on mobile devices than desktops in 10 countries](http://adwords.blogspot.com/2015/05/building-for-next-moment.html), including the U.S. and Japan.

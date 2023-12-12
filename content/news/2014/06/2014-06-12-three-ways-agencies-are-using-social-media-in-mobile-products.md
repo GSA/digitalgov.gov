@@ -20,7 +20,7 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - socialgov-community
-  - trends-on-tuesday
+  - emerging-tech
   - US Department of Agriculture
   - USDA
 ---

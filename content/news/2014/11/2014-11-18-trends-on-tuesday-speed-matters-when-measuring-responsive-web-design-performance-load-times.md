@@ -14,7 +14,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
   - united-states-department-of-health-and-human-services
   - user-experience
 

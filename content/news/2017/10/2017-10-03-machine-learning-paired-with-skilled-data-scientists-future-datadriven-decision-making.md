@@ -16,7 +16,7 @@ topics:
   - hhs
   - nasa
   - national-aeronautics-and-space-administration
-  - trends-on-tuesday
+  - emerging-tech
   - united-states-department-of-health-and-human-services
   - rpa
 featured_image:

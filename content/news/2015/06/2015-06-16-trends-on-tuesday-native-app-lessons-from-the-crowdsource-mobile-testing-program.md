@@ -15,7 +15,7 @@ topics:
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4
   - native-app
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

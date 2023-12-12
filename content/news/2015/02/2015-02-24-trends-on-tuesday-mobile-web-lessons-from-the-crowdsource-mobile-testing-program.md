@@ -15,7 +15,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
   - united-states-department-of-energy
 ---
 

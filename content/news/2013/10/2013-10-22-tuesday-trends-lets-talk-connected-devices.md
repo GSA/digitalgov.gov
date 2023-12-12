@@ -9,7 +9,7 @@ topics:
   - mobile
   - social-media
   - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/10/connected-devices-infographic.jpg" alt="Infographic shows 99% of everything will be connected to the internet" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/connected-devices-infographic.jpg)Mobile Future recently released this infographic about the proliferation of connected devices. Among the key data points:

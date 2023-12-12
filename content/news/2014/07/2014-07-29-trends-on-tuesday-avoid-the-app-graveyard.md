@@ -13,7 +13,7 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4
-  - trends-on-tuesday
+  - emerging-tech
   - user-experience
 
 ---

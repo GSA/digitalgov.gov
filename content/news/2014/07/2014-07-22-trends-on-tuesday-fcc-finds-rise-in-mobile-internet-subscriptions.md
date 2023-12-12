@@ -11,7 +11,7 @@ topics:
   - federal-communications-commission
   - mobile-apps
   - mobile-gov-community-of-practice
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/03/speed-dial.png" alt="speed dial" >}}Approximately 70% of American households have a fixed Internet source of [0.2 megabits per second or greater](http://en.wikipedia.org/wiki/Megabit), according to the U.S. Federal Communications Commission&#8217;s (FCC) [Measuring Broadband Across America Report](https://www.fcc.gov/reports/measuring-broadband-america-2014) that analyzes the digital divide in the U.S. Up 15% in the last decade, this increase in Internet subscription source has significant impact on how citizens are receiving, utilizing, and sharing vital information.

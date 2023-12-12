@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
   - open-source
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/07/250-x-250-Modern-digital-media-website-connection-1-sphere-abstract-scheme-tovovan-iStock-Thinkstock-468874585.jpg" alt="A wire sphere of connected content type or pages of a website" caption="" >}}

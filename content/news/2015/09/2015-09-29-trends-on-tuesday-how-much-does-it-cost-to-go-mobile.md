@@ -17,7 +17,7 @@ topics:
   - native-apps
   - responsive-web-design
   - terms-of-service
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

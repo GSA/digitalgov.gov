@@ -27,7 +27,7 @@ topics:
   - mobile-first
   - nasa
   - content-strategy
-  - trends-on-tuesday
+  - emerging-tech
   - united-states-census-bureau
   - united-states-department-of-health-and-human-services
   - united-states-department-of-transportation
@@ -37,7 +37,7 @@ topics:
 
 {{< legacy-img src="2015/01/600-x-341-Earth-and-electronics-cherezoff-iStock-Thinkstock-495813521.jpg" alt="Earth and electronics" caption="cherezoff, iStock, Thinkstock" >}}
 
-Innovative [wearables](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-two), [stronger wifi](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-one) and more [3D printing]({{< ref "2015-01-15-the-future-will-be-printed-in-3d.md" >}} "The Future Will Be Printed – in 3D") have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop [new habits and desires]({{< ref "2015-01-27-trends-on-tuesday-mobile-marketing-on-the-rise.md" >}}) based on [new trends]({{< ref "/topics/trends-on-tuesday" >}}).
+Innovative [wearables](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-two), [stronger wifi](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-one) and more [3D printing]({{< ref "2015-01-15-the-future-will-be-printed-in-3d.md" >}} "The Future Will Be Printed – in 3D") have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop [new habits and desires]({{< ref "2015-01-27-trends-on-tuesday-mobile-marketing-on-the-rise.md" >}}) based on [new trends]({{< ref "/topics/emerging-tech" >}}).
 
 Government must accelerate its [customer service approach]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}) with anytime, anywhere efforts to keep up. Here’s what I see agencies will have to do to keep up and&#8211;just maybe get ahead&#8211;in 2015.
 

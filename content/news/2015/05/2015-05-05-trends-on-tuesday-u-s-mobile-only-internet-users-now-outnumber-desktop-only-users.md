@@ -11,7 +11,7 @@ topics:
   - mobile-first
   - mobile-friendly
   - native-app
-  - trends-on-tuesday
+  - emerging-tech
   - us-national-park-service
 ---
 

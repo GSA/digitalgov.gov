@@ -13,7 +13,7 @@ topics:
   - emerging-tech
   - open-data
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
   - user-centered-design
 ---
 

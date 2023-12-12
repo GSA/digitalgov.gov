@@ -16,7 +16,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
 ---

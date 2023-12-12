@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-5
   - mobile-friendly
   - native-apps
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

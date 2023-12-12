@@ -11,7 +11,7 @@ topics:
   - video
   - mobile
   - mobile-ux-guideline-1
-  - trends-on-tuesday
+  - emerging-tech
   - social-media
 ---
 

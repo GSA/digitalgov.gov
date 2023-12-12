@@ -15,7 +15,7 @@ topics:
   - GPS
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
-  - trends-on-tuesday
+  - emerging-tech
   - us-department-of-veterans-affairs
 ---
 

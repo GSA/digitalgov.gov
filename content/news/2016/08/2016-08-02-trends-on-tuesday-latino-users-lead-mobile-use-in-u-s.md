@@ -11,7 +11,7 @@ topics:
   - mobile-first
   - mobile-friendly
   - multilingual
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 The Pew Research Center released a report in July that shows </span><span style="font-weight: 400"><a href="http://www.pewhispanic.org/2016/07/20/digital-divide-narrows-for-latinos-as-more-spanish-speakers-and-immigrants-go-online/">people of Latino descent are heavily reliant on mobile phones for their Internet access</a>, more than other ethnicities</span><span style="font-weight: 400">. </p> 

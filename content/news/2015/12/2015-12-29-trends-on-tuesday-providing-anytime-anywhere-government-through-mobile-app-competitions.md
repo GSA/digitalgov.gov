@@ -17,7 +17,7 @@ topics:
   - national-institute-of-standards-and-technology
   - National Institute on Drug Abuse
   - NIST
-  - trends-on-tuesday
+  - emerging-tech
   - us-environmental-protection-agency
 ---
 

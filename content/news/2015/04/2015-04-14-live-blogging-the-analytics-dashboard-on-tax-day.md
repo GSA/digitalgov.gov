@@ -278,7 +278,7 @@ Number of IRS pages that are in the Top 20 pages: **10**
 
 ### Fun Facts:
 
-  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< ref "/topics/trends-on-tuesday" >}}), so take a peek and learn how federal agencies are becoming future-ready.
+  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< ref "/topics/emerging-tech" >}}), so take a peek and learn how federal agencies are becoming future-ready.
   * In fact, while we are talking about the IRS, [IRS2Go was recently updated]({{< ref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}}) and is available on Android and iOS.
   * There were **581,281 visits to government websites at midnight** (Eastern time, early this morning). Were you one of the night owls?_-Ashley Wichman, DigitalGov Team_
 

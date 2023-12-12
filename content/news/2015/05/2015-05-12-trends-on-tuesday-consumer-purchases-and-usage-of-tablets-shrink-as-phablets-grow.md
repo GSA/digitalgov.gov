@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - mobile-ux-guideline-1
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/05/500-x-348-Android-chart-tumblr\_inline\_nnkzc31AAT1tpd7xq_500.jpg" alt="Distribution of Android Device Models by Form Factor from Flurry Analytics." >}}

@@ -11,7 +11,7 @@ topics:
   - analytics
   - epa
   - emerging-tech
-  - trends-on-tuesday
+  - emerging-tech
   - us-environmental-protection-agency
 ---
 

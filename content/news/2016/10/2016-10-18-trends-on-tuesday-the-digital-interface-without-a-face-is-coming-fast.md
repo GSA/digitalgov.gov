@@ -10,7 +10,7 @@ topics:
   - mobile
   - artificial intelligence
   - mobile
-  - trends-on-tuesday
+  - emerging-tech
   - voice
 ---
 

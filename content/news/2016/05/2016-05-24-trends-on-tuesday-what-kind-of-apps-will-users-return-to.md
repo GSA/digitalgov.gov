@@ -11,7 +11,7 @@ topics:
   - analytics
   - mobile
   - mobile-apps
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 Flurry Analytics, a mobile application analytics company owned by Yahoo!, released a [new report about app retention](http://flurrymobile.tumblr.com/post/144245637325/appmatrix). Unless your app usage is around &#8220;gambling&#8221;—with cards (game apps), with your money (finance apps), with whether or not to bring an umbrella (weather apps), or with your health (fitness apps)—user retention and re-engagement is often a steep wall to climb. {{< legacy-img src="2016/02/600-x-400-Woman-using-her-Mobile-Phone-Night-Light-Background-LDProd-iStock-Thinkstock-450947285.jpg" alt="Woman using her mobile phone, outside at night." caption="" >}} 

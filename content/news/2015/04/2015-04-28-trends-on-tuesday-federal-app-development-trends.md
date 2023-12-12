@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - mobile-ux-guideline-6
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/04/600-x-250-Apple-App-Store-and-Android-Google-Play-icons.jpg" alt="Apple App Store and Android Google Play icons" >}}Mobile apps meet real world needs. App development is not a homogenous process, however.
@@ -23,7 +23,7 @@ Apple and Android devices are overwhelmingly dominant in device ownership and ap
 
 So, we wondered: what makes federal app development iOS-centric? Does it match general trends?
 
-We contacted Will Sullivan, Director of Mobile for the Broadcasting Board of Governors and current [Trends on Tuesday]({{< ref "/topics/trends-on-tuesday" >}}) contributor, to hear his thoughts on iOS and Android development on the federal level. He posited several theories, and we researched the buzz going around in the tech world.
+We contacted Will Sullivan, Director of Mobile for the Broadcasting Board of Governors and current [Trends on Tuesday]({{< ref "/topics/emerging-tech" >}}) contributor, to hear his thoughts on iOS and Android development on the federal level. He posited several theories, and we researched the buzz going around in the tech world.
 
 ## Everyone else is doing iOS
 

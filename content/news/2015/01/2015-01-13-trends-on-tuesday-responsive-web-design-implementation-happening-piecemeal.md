@@ -13,7 +13,7 @@ topics:
   - national-cancer-institute
   - NCI
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

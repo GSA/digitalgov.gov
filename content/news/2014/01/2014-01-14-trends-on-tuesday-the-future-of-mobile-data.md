@@ -10,7 +10,7 @@ topics:
   - social-media
   - mobile
   - mobile-apps
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2014/01/infographic-319x300.jpg" alt="Infographic by Wefi on the future of mobile data use" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/infographic.jpg)This infographic from [Light Reading](http://www.lightreading.com/document.asp?doc_id=705440) addresses recent trends in mobile data use. We are struck by how much data was transferred via a WiFi connection vs. cellular. People are using WiFi connections way more than cellular ones.

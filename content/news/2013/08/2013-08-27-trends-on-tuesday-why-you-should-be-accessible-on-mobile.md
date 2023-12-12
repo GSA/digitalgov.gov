@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

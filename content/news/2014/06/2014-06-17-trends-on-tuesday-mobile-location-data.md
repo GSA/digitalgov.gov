@@ -12,7 +12,7 @@ topics:
   - GPS
   - mobile-ux-guideline-5
   - NPS
-  - trends-on-tuesday
+  - emerging-tech
   - us-national-park-service
   - united-states-department-of-energy
   - United States Postal Service

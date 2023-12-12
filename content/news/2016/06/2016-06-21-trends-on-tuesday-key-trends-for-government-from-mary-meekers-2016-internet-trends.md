@@ -14,7 +14,7 @@ topics:
   - open-data
   - privacy
   - security
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 Internet strategist Mary Meeker delivered her  [2016 Internet Trends report](http://www.slideshare.net/kleinerperkins/2016-internet-trends-report) this month, and there are several key takeaways for government agencies to consider and continue tracking as our connected world continues to evolve:

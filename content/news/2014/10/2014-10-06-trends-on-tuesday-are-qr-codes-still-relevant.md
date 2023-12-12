@@ -14,7 +14,7 @@ topics:
   - aoi
   - mobile
   - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

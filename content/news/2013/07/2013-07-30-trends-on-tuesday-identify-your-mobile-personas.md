@@ -9,7 +9,7 @@ topics:
   - mobile
   - Making Mobile Gov
   - mobile-gov
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [Sparksheet](https://web.archive.org/web/20130813141158/http://www.sparksheet.com/creating-mobile-personas-to-guide-your-mobile-strategy/) recently posted an article by Greg Hickman, where he explains how to create mobile personas for your consumers when developing a mobile strategy.

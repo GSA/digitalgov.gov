@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3
   - native-apps
-  - trends-on-tuesday
+  - emerging-tech
   - us-access-board
 ---
 

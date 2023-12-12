@@ -11,7 +11,7 @@ topics:
   - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 In July, comScore released a research paper, [The Global Mobile Report: How Multi-Platform Audiences & Engagement Compare in the U.S., Canada, UK and Beyond,](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-Global-Mobile-Report) covering a lot of areas from [smartphone penetration]({{< ref "2015-05-26-trends-on-tuesday-186-3-million-people-own-smartphones-in-the-u-s.md" >}}) to Android vs. Apple preferences.

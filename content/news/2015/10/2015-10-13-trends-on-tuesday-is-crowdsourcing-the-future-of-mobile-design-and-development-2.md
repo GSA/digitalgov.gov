@@ -15,7 +15,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - nasa
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Smart-watch.-Smartwatch-concept-scyther5-iStock-Thinkstock-482564012.jpg" alt="Smart watch concept" caption="" >}} 

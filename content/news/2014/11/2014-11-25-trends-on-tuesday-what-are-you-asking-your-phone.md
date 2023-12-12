@@ -10,7 +10,7 @@ topics:
   - DOI
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - emerging-tech
   - us-department-of-the-interior
 ---
 

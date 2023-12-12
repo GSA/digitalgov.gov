@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
   - user-centered-design
   - user-experience
 

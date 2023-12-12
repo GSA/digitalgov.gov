@@ -19,7 +19,7 @@ topics:
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - trends-on-tuesday
+  - emerging-tech
   - US Department of Agriculture
   - USDA
 ---

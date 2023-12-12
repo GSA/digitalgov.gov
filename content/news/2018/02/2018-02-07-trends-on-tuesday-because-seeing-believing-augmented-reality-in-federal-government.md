@@ -9,7 +9,7 @@ topics:
   - product-management
   - emerging-tech
   - virtual-augmented-reality-community
-  - Trends On Tuesday
+  - emerging-tech
 featured_image:
   uid: augmented-reality-marketing
   alt: 'Augmented reality glasses technology concept.'

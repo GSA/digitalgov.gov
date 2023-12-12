@@ -13,7 +13,7 @@ topics:
   - mobile-first
   - national-gallery-of-art
   - smithsonian-institution
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024-212x300.jpg" alt="Infographic about children's adoption of mobile technology." >}} From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds—particularly our smartphones and tablets.

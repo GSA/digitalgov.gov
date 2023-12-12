@@ -15,7 +15,7 @@ topics:
   - mobile-ux-guideline-6
   - privacy
   - security
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

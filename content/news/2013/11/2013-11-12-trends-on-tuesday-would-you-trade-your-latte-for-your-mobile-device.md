@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/11/Sprint-Wireless-Infographic.jpg" alt="Infographic showing how business executives use their smartphones." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Sprint-Wireless-Infographic.jpg)

@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-3
   - native-app
   - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/01/250-x-250-Mobile-phone-with-message-icon-tkacchuk-iStock-Thinkstock-183957481.jpg" alt="Mobile phone with message icon" caption="" >}} 
