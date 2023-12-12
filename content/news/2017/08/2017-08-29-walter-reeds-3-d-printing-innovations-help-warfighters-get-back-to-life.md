@@ -12,7 +12,7 @@ topics:
   - code
   - design
   - user-testing-and-research
-  - 3d-printing
+  - emerging-tech
   - DoD
   - us-department-of-veterans-affairs
   - united-states-department-of-defense

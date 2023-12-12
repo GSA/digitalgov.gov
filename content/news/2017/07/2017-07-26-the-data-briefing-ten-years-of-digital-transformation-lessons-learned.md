@@ -13,7 +13,7 @@ topics:
   - product-management
   - the-data-briefing
   - user-experience
-  - 3d-printing
+  - emerging-tech
   - artificial-intelligence
   - augmented-reality
   - blockchain

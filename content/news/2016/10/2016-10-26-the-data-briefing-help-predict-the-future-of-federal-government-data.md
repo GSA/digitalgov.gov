@@ -13,7 +13,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - 3d-printing
+  - emerging-tech
   - artificial intelligence
   - augmented-reality
   - best-practices
