@@ -187,8 +187,8 @@ When you are building an app or creating a mobile-friendly site, there are certa
 #### Privacy
 
 - **Mobile SOW and Developer Qualifications** <br />We are providing sample Statement of Work (SOW) language for the procurement of customer or external-facing mobile products, skills, testing and mobile code sharing. This language is also included in the RFP-EZ contracting tool. Here are some guidelines for its use. <br />https://www.digitalgov.gov/resources/mobile-sow-and-developer-qualifications/
-- **Policies for Federal Agency Public Websites and Digital Services** <br />The review of privacy risks should begin at the earliest planning and development stages of agency actions and policies that involve PII, and should continue throughout the life cycle of the information. (See page 6) <br />https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf (PDF, 1.2 MB, 18 pages, November 2016)
+- **Policies for Federal Agency Public Websites and Digital Services** The review of privacy risks should begin at the earliest planning and development stages of agency actions and policies that involve PII, and should continue throughout both the development and information lifecycles. See [Delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/). 
 
 ### U.S. Digital Registry
 
-Resource to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites. <br />[https://digital.gov/services/u-s-digital-registry/](https://digital.gov/services/u-s-digital-registry/)
+Resource to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites: [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)
