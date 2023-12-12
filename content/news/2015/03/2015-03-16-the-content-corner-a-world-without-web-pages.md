@@ -11,7 +11,7 @@ topics:
   - CMS
   - content-strategy
   - metadata
-  - open-and-structured-content-models
+  - content-strategy
   - the-content-corner
 ---
 

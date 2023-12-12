@@ -16,7 +16,7 @@ topics:
   - HHS
   - Internal Revenue Service
   - IRS
-  - open-and-structured-content-models
+  - content-strategy
   - US Citizenship and Immigration Service
   - US Department of Agriculture
   - united-states-department-of-health-and-human-services

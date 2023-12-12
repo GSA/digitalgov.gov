@@ -26,7 +26,7 @@ topics:
   - mobile-ux-guideline-4
   - mobile-first
   - nasa
-  - open-and-structured-content-models
+  - content-strategy
   - trends-on-tuesday
   - united-states-census-bureau
   - united-states-department-of-health-and-human-services

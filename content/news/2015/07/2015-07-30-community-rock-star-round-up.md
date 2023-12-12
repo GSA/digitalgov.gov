@@ -17,7 +17,7 @@ topics:
   - mobile-gov
   - NCI
   - nih
-  - open-and-structured-content-models
+  - content-strategy
   - OPM
   - socialgov-community
   - SSA

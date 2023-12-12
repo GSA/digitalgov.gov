@@ -18,7 +18,7 @@ topics:
   - DOL
   - innovation
   - mobile
-  - open-and-structured-content-models
+  - content-strategy
   - responsive-web-design
   - us-department-of-labor
   - user-experience

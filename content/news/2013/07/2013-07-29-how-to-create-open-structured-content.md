@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - product-management
   - metadata
-  - open-and-structured-content-models
+  - content-strategy
   - responsive-web-design
   - structured-content
 ---

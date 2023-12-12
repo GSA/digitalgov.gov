@@ -18,7 +18,7 @@ topics:
   - mobile
   - mobile-ux-guideline-1
   - native-app
-  - open-and-structured-content-models
+  - content-strategy
   - responsive-web-design
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services

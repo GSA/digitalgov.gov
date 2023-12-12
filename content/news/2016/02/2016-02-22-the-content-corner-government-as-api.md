@@ -14,7 +14,7 @@ topics:
   - CMS
   - national-institutes-of-health
   - nih
-  - open-and-structured-content-models
+  - content-strategy
   - sites
   - the-content-corner
 ---

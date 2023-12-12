@@ -14,7 +14,7 @@ topics:
   - metadata
   - mobile-ux-guideline-1
   - national-cancer-institute
-  - open-and-structured-content-models
+  - content-strategy
 
 ---
 

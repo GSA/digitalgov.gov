@@ -11,7 +11,7 @@ topics:
   - CMS
   - content-strategy
   - mobile-ux-guideline-1
-  - open-and-structured-content-models
+  - content-strategy
   - open-source
   - recaps
   - responsive-web-design

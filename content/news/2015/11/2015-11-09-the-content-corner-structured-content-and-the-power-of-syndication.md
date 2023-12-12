@@ -18,14 +18,14 @@ topics:
   - mobile-ux-guideline-1
   - national-institutes-of-health
   - nih
-  - open-and-structured-content-models
+  - content-strategy
   - structured-content
   - the-content-corner
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 
-A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{< ref "/topics/open-and-structured-content-models" >}}). By offering critical health information via [syndication]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
+A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{< ref "/topics/content-strategy" >}}). By offering critical health information via [syndication]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
 
 <p>
   {{< legacy-img src="2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" >}}

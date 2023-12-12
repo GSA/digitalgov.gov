@@ -18,7 +18,7 @@ topics:
   - metadata
   - national-institutes-of-health
   - nih
-  - open-and-structured-content-models
+  - content-strategy
   - recaps
   - structured-content
   - united-states-census-bureau

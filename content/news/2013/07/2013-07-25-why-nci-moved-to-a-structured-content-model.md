@@ -13,7 +13,7 @@ topics:
   - national-institutes-of-health
   - NCI
   - nih
-  - open-and-structured-content-models
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}

@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - monthly-theme
   - social-media
-  - open-and-structured-content-models
+  - content-strategy
   - social-media
   - structured-content
   - the-content-corner

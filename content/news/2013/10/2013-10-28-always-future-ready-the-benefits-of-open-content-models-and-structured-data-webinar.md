@@ -9,7 +9,7 @@ topics:
   - data
   - mobile
   - mobile-ux-guideline-1
-  - open-and-structured-content-models
+  - content-strategy
   - recaps
 ---
 

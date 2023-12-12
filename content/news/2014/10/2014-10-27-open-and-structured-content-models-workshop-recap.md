@@ -16,7 +16,7 @@ topics:
   - nasa
   - national-cancer-institute
   - NCI
-  - open-and-structured-content-models
+  - content-strategy
   - recaps
   - SEC
   - us-securities-and-exchange-commission

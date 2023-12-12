@@ -19,7 +19,7 @@ topics:
   - json
   - metadata
   - mobile-gov-community-of-practice
-  - open-and-structured-content-models
+  - content-strategy
   - open-data
   - recaps
   - responsive-web-design

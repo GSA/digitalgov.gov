@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - cdc
   - centers-for-disease-control-and-prevention
-  - open-and-structured-content-models
+  - content-strategy
 ---
 
 Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for [modular content is growing]({{< ref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).

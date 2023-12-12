@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
-  - open-and-structured-content-models
+  - content-strategy
   - structured-content
   - the-content-corner
 ---

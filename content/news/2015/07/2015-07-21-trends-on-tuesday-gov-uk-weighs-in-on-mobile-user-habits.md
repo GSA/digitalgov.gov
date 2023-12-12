@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-first
   - mobile-friendly
-  - open-and-structured-content-models
+  - content-strategy
   - structured-content
   - trends-on-tuesday
 ---

@@ -10,7 +10,7 @@ topics:
   - product-management
   - DOL
   - mobile-code-catalog
-  - open-and-structured-content-models
+  - content-strategy
   - open-opportunities-program
   - us-department-of-labor
   - us-department-of-state
