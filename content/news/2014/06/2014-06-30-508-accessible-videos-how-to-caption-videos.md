@@ -10,7 +10,6 @@ authors:
 topics:
   - accessibility
   - video
-  - section-508
   - social-media
 ---
 

@@ -11,7 +11,6 @@ topics:
   - video
   - GobiernoUSAgov
   - multilingual
-  - section-508
   - us-access-board
   - usa-gov
 ---

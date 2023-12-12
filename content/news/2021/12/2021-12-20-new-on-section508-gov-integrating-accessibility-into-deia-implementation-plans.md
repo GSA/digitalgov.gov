@@ -11,7 +11,6 @@ deck: |
 
 # See all topics at https://digital.gov/topics
 topics:
-  - section-508
   - accessibility
   - gsa
   - us-general-services-administration

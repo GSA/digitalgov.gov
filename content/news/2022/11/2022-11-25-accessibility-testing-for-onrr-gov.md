@@ -17,7 +17,6 @@ topics:
   - accessibility
   - doi
   - usability-testing
-  - section-508
   - usability
   - design
   - content

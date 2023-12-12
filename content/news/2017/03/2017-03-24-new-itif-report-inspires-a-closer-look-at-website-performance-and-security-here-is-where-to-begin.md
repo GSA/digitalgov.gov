@@ -31,7 +31,6 @@ topics:
   - resource
   - responsive-web-design
   - search-engine-optimization
-  - section-508
   - security
   - seo
   - training

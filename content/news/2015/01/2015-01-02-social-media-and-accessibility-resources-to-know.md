@@ -15,7 +15,6 @@ topics:
   - FCC
   - federal-communications-commission
   - HHS
-  - section-508
   - socialgov-community
   - us-department-of-labor
   - united-states-department-of-health-and-human-services

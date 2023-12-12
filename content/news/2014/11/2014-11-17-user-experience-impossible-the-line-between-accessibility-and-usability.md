@@ -12,7 +12,6 @@ topics:
   - user-testing-and-research
   - accessibility
   - SBA
-  - section-508
   - us-small-business-administration
   - usability
   - usagov

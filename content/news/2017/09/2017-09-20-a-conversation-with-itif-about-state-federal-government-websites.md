@@ -22,7 +22,6 @@ topics:
   - plain-language
   - responsive-web-design
   - search-engine-optimization
-  - section-508
   - security
   - seo
   - training

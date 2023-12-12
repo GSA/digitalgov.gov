@@ -19,7 +19,6 @@ topics:
   - acquisition
   - us-access-board
   - product-management
-  - section-508
   - strategy
   - best-practices
 

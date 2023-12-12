@@ -17,7 +17,7 @@ topics:
   - metrics
   - plain-language
   - analytics
-  - section-508
+  - accessibility
   - seo
   - this-weeks-idea
 

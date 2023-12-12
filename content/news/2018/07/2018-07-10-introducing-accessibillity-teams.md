@@ -11,7 +11,6 @@ topics:
   - design
   - user-experience
   - methodology
-  - section-508
 featured_image:
   uid: accessibility-for-teams-2
   alt: Colorful graphic of a group of handicapped symbols

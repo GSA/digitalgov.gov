@@ -13,7 +13,6 @@ topics:
   - dhs
   - DOL
   - HHS
-  - section-508
   - SSA
 ---
 

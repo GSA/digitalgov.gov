@@ -8,7 +8,6 @@ summary: These FAR Council updates are effective as of September 10, 2021.
 topics:
   - accessibility
   - acquisition
-  - section-508
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

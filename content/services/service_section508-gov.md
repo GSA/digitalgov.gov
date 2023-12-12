@@ -30,6 +30,5 @@ topics:
   - accessibility
   - governance
   - policy
-  - section-508
 
 ---

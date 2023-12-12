@@ -9,7 +9,6 @@ topics:
   - accessibility
   - content
   - video
-  - section-508
 
 ---
 

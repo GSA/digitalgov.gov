@@ -13,7 +13,6 @@ summary: "Use both manual and automated testing methods to create accessible web
 topics:
   - 21st-century-idea
   - accessibility
-  - section-508
 
 # see all authors at https://digital.gov/authors
 authors:

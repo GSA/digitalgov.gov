@@ -18,7 +18,6 @@ topics:
   - user-centered-design
   - design
   - accessibility
-  - section-508
 slug: modernizing-a-federal-government-website-with-user-centered-design
 # Controls how this page appears across the site
 # 0 -- hidden

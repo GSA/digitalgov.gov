@@ -33,7 +33,6 @@ topics:
   - research
   - user-research
   - open-government
-  - section-508
   - design
 slug: measuring-and-justifying-the-government-experience
 # Controls how this page appears across the site

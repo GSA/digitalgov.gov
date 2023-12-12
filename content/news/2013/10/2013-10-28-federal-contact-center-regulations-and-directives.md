@@ -9,7 +9,7 @@ topics:
   - product-management
   - government-contact-centers
   - privacy
-  - section-508
+  - accessibility
 ---
 
 {{< legacy-img src="2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}}

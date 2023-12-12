@@ -11,7 +11,6 @@ topics:
   - accessibility
   - user-experience
   - video
-  - section-508
   - social-media
 ---
 

@@ -11,7 +11,6 @@ topics:
   - video
   - analytics
   - multimedia
-  - section-508
   - us-department-of-state
 ---
 

@@ -20,7 +20,6 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3
-  - section-508
   - the-data-briefing
   - united-states-department-of-transportation
 ---
