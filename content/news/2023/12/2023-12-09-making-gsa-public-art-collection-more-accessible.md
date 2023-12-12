@@ -156,7 +156,7 @@ To summarize the impact of the new site on the art community, an executive direc
 
 ---
 
-*The GSA Service Delivery team delivers digital services focused on user needs. We're a cross-functional team of product managers, designers, engineers, and acquisition professionals, and we help GSA teams deliver solutions that are simple, effective, and accessible.*
+_The GSA Service Delivery team delivers digital services focused on user needs. We're a cross-functional team of product managers, designers, engineers, and acquisition professionals, and we help GSA teams deliver solutions that are simple, effective, and accessible._
 
 ---
 
