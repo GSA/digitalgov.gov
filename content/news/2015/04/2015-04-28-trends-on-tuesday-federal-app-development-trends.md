@@ -7,8 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - mobile
-  - mobile-app-development-program
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1

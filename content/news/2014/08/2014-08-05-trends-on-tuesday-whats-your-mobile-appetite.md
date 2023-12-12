@@ -8,8 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - mobile
-  - mobile-app-development-program
   - mobile-ux-guideline-5
   - emerging-tech
   - user-experience

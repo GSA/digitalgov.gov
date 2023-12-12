@@ -11,7 +11,6 @@ topics:
   - our-work
   - accessibility
   - application-programming-interface
-  - mobile-app-development-program
   - mobile-gov
   - mobile-apps
 

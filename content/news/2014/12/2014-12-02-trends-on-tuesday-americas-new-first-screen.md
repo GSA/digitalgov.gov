@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - BLS
-  - mobile
-  - mobile-app-development-program
   - mobile-apps
   - emerging-tech
   - us-bureau-of-labor-statistics
