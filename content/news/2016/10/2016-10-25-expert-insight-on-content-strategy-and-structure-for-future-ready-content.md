@@ -10,10 +10,7 @@ topics:
   - product-management
   - content-strategy
   - policy
-  - content-strategy
-  - content-strategy
-  - content-strategy
-  - structured-content
+
 ---
 
 We recently interviewed [Sara Wachter-Boettcher](http://www.sarawb.com/), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. Sara, a frequent conference speaker, runs a content strategy consultancy, and is the co-author of _Design for Real Life_. She has extensive experience consulting with major brands, universities, agencies, nonprofits, and others to make their content more memorable, manageable, and sustainable.
@@ -31,6 +28,7 @@ An organization determines its content strategy by defining its capability areas
 An organization can’t have [content strategy]({{< ref "/topics/content-strategy" >}}) and [structured content]({{< ref "/topics/content-strategy" >}}) until it learns to operate in a structured way.
 
 ## The Broader Story
+
 
 **What is the biggest challenge for Federal agencies in adopting the practice of content strategy?**
 

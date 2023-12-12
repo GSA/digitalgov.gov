@@ -20,7 +20,6 @@ topics:
   - nih
   - content-strategy
   - recaps
-  - structured-content
   - united-states-census-bureau
 ---
 

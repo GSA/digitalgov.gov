@@ -13,7 +13,6 @@ topics:
   - mobile-first
   - mobile-friendly
   - content-strategy
-  - structured-content
   - trends-on-tuesday
 ---
 

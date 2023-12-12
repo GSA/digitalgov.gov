@@ -11,7 +11,6 @@ topics:
   - social-media
   - content-strategy
   - social-media
-  - structured-content
   - the-content-corner
 ---
 

@@ -13,7 +13,6 @@ topics:
   - content-strategy
   - content-strategy
   - analytics
-  - structured-content
 
 ---
 

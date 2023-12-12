@@ -12,7 +12,6 @@ topics:
   - national-institutes-of-health
   - nih
   - content-strategy
-  - structured-content
   - united-states-department-of-health-and-human-services
 ---
 

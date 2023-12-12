@@ -10,7 +10,6 @@ topics:
   - design
   - administrative-office-of-the-united-states-courts
   - mobile-ux-guideline-1
-  - structured-content
   - the-content-corner
 ---
 

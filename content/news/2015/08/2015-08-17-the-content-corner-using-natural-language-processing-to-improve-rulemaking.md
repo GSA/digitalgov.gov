@@ -16,7 +16,6 @@ topics:
   - HHS
   - artificial-intelligence
   - open-government
-  - structured-content
   - the-content-corner
   - us-environmental-protection-agency
   - united-states-department-of-health-and-human-services

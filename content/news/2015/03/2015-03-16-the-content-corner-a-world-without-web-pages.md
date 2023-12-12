@@ -37,7 +37,7 @@ Jumping ahead and visualizing the natural course of today&#8217;s trends can als
 
 If we embrace the post-Web page world then we have to fully concentrate on structure and content because we realize that those items are all we will have. In fact, this future makes it easier to agree, as [some have suggested](http://www.markboulton.co.uk/journal/structure-first-content-always), that structure should be given a higher priority than the content itself.
 
-Speaking of structure, I am not purposefully glossing over it in this column, but deferring to those who have already given us all a good foundation. Holly Irving at the National Institutes of Health and [so many of our other peers]({{< ref "/topics/structured-content" >}}) have done some fabulous work in this area, stressing the importance of using:
+Speaking of structure, I am not purposefully glossing over it in this column, but deferring to those who have already given us all a good foundation. Holly Irving at the National Institutes of Health and [so many of our other peers]({{< ref "/topics/content-strategy" >}}) have done some fabulous work in this area, stressing the importance of using:
 
   * Metadata,
   * [Open and structured content models](http://gsa.github.io/Open-And-Structured-Content-Models/index.html), and

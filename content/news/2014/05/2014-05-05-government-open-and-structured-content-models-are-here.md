@@ -30,7 +30,6 @@ topics:
   - content-strategy
   - SEC
   - SSA
-  - structured-content
   - the-united-states-social-security-administration
   - US Department of Agriculture
   - us-department-of-education

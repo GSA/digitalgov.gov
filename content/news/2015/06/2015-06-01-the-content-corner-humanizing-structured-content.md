@@ -1,3 +1,4 @@
+
 ---
 slug: the-content-corner-humanizing-structured-content
 date: 2015-06-01 10:00:43 -0400
@@ -9,7 +10,6 @@ topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
   - content-strategy
-  - structured-content
   - the-content-corner
 ---
 
