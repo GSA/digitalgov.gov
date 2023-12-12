@@ -10,7 +10,7 @@ topics:
   - application-programming-interface
   - Census
   - united-states-census-bureau
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/07/600-x-400-Capitol-Building-U.S.-Congress-flySnow-iStock-Thinkstock-488669037.jpg" alt="Capitol Building U.S. Congress" caption="" >}} 
@@ -24,4 +24,4 @@ This is why the Census Bureau should consider creating an API for the data. Curr
 One idea is to make the data available as an <a href="{{< ref "2015-03-25-the-api-briefing-free-federal-energy-and-economic-information-delivered-straight-to-your-spreadsheet.md" >}}" target="_blank">Excel plug-in like the Federal Reserve of St. Louis and the U.S. Energy Information Administration</a> did with their data. That way, researchers can perform in-depth data mining to determine trends in state and local tax revenues, spending on public education, or the differences in local governments among the states. The Census of Governments data is also ideal for mashing up with other data to produce community profiles or profiles of state public educational programs.
 
 The Census of Governments data is just another serendipitous discovery among the thousands of federal data sources that should be APIs but aren’t. For now&#8230;_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

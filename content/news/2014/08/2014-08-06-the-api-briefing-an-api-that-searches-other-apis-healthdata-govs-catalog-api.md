@@ -12,7 +12,7 @@ topics:
   - data-gov
   - HHS
   - united-states-department-of-health-and-human-services
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="API letter blocks" caption="" >}} 

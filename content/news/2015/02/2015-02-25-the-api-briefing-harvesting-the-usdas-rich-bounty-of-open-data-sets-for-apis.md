@@ -11,7 +11,7 @@ topics:
   - internet-of-things
   - US Department of Agriculture
   - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="Data Center" caption="" >}} 

@@ -12,7 +12,7 @@ topics:
   - US Department of Agriculture
   - united-states-department-of-energy
   - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 We are in the middle of the holidays, and that means much driving to visit friends and relatives. I was just in Kentucky this past weekend where I spent a total of eight hours driving. I am sure many of you will spend even more time driving in the next three weeks. So, where do you find the best gas prices and how can you maximize your vehicle’s fuel mileage?

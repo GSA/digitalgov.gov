@@ -17,7 +17,7 @@ topics:
   - USDA
   - USPS
   - virtual-augmented-reality-community
-  - wednesday-api-briefing
+  - application-programming-interface
 
 ---
 

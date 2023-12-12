@@ -11,7 +11,7 @@ topics:
   - US Department of Agriculture
   - united-states-department-of-housing-and-urban-development
   - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591" >}}

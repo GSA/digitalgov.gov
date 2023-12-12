@@ -10,7 +10,7 @@ topics:
   - application-programming-interface
   - search
   - mobile-apps
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}} 
@@ -31,4 +31,4 @@ So, as you can see, my proposed government jobs finder mobile app would take the
 
 (_Twitter, Facebook, LinkedIn, and Google Calendar are only used for illustrative purposes and does not imply endorsement by the U.S. government)_
 _*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

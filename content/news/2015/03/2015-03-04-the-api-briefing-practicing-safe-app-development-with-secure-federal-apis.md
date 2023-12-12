@@ -12,7 +12,7 @@ topics:
   - security
   - US Department of Agriculture
   - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/03/FDAgov-API-Key.jpg" alt="FDAgov-API-Key" >}}

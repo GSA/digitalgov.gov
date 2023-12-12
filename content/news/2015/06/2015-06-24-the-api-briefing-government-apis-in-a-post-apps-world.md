@@ -11,7 +11,7 @@ topics:
   - data
   - mobile-apps
   - open-data
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/06/250-x-235-Travel-mobile-apprication-nnnnae-iStock-Thinkstock-473901020-Converted.jpg" alt="Illustration of six travel- and entertainment-related icons with lines connected to a smart phone that reads, One app to rule them all?" caption="" >}} 
@@ -32,4 +32,4 @@ First, government APIs must be able to communicate with the mobile personal assi
 
 On a personal note: this is my last posting for the API Briefing. I am taking a two-month sabbatical this summer to work on some personal projects. After my sabbatical, I may come back to work for the federal government or may go into the private sector. I have greatly enjoyed writing the column, and I hope you have enjoyed reading about the great work in federal government APIs. Thank you._(Disclaimer: Any tech companies mentioned in this posting are for illustrative purposes only and does not imply an endorsement by the GSA, USDA, or the federal government.)_
 _*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

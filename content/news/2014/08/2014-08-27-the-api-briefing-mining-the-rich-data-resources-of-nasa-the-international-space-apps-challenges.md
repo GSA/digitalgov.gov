@@ -14,7 +14,7 @@ topics:
   - nasa
   - OPM
   - united-states-office-of-personnel-management
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/08/600-x-466-Spacecraft-Soyuz-And-Space-Station-3DSculptor-iStock-Thinkstock-480050411.jpg" alt="Spacecraft Soyuz and Space Station" caption="" >}} 

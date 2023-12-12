@@ -12,7 +12,7 @@ topics:
   - application-programming-interface
   - US Department of Agriculture
   - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/05/600-x-450-Winter-Park-Florida-Farmers-Market-Meagan-Perosha-CC-BY-Aug8th2012-7740419238\_edb40b4b7e\_o.jpg" alt="Shoppers and produce at a Winter Park, Florida Farmers Market" caption="" >}} 

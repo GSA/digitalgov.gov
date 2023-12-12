@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - application-programming-interface
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/03/512-x-400-Web-Components-light-logo.jpg" alt="Web Components light logo" >}}
@@ -34,4 +34,4 @@ If you would like to learn more about Web Components, you can start with these r
   * <a href="http://webdesign.tutsplus.com/articles/how-to-create-your-own-html-elements-with-web-components--cms-21524" target="_blank">How to create your HTML elements using Web Components</a>
 
 Web Components present another way that federal agencies can package and distribute their APIs. Maybe a possible new project is to create a federal Web Components library for website developers and mobile app developers?_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

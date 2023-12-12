@@ -15,7 +15,7 @@ topics:
   - OPM
   - us-food-and-drug-administration
   - united-states-office-of-personnel-management
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/06/250-x-289-Open-Data-Open-Source-Open-community-openFDA.jpg" alt="250-x-289-Open-Data-Open-Source-Open-community-openFDA" >}}The Food and Drug Administration (FDA) just released the <a href="https://open.fda.gov/" target="_blank">OpenFDA Research Project</a>. At the heart of the project is the <a href="https://open.fda.gov/about/" target="_blank">OpenFDA API</a>, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the <a href="https://open.fda.gov/api/reference/" target="_blank">FDA’s API Basics</a> page to learn how to access OpenFDA including interactive sample queries. The FDA’s API documentation is a great example of how to create detailed guidance for developers.

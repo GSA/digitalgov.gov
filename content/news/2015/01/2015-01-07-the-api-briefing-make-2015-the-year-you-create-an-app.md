@@ -16,7 +16,7 @@ topics:
   - innovation
   - mobile
   - mobile-apps
-  - wednesday-api-briefing
+  - application-programming-interface
 
 ---
 

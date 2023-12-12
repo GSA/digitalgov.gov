@@ -16,7 +16,7 @@ topics:
   - us-securities-and-exchange-commission
   - united-states-census-bureau
   - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}} 
