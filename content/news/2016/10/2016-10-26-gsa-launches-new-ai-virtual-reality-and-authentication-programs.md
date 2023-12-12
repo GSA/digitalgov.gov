@@ -13,7 +13,6 @@ topics:
   - our-work
   - social-media
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
   - augmented-reality
   - communities
   - innovation

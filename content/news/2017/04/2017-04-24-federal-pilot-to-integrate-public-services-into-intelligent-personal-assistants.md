@@ -11,7 +11,6 @@ topics:
   - product-management
   - our-work
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
   - communities
   - gsa
   - innovation

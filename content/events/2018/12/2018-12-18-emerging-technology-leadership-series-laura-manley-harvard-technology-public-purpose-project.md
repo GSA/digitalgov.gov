@@ -20,7 +20,6 @@ end_date: 2018-12-18 15:00:00 -0500
 topics: 
   - emerging-tech
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
   - augmented-reality
   - blockchain
   - virtual-reality

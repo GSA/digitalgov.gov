@@ -10,7 +10,6 @@ topics:
   - emerging-tech
   - product-management
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
   - communities
   - innovation
   - virtual-reality

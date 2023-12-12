@@ -14,7 +14,6 @@ topics:
   - data
   - mobile
   - artificial intelligence
-  - artificial-intelligence-for-citizen-services-community
   - chatbots
   - innovation
   - internet-of-things

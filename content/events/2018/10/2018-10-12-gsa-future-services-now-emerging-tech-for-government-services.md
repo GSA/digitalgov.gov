@@ -24,7 +24,6 @@ venue:
 topics:
   - emerging-tech
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
   - emerging-tech
   - augmented-reality
   - blockchain

@@ -21,7 +21,6 @@ topics:
   - emerging-tech
 
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
   - augmented-reality
   - blockchain
   - virtual-reality
