@@ -20,7 +20,7 @@ topics:
   - content
   - data
   - design
-  - metrics
+  - analytics
   - multilingual
   - performance
   - analytics

@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - data
-  - metrics
+  - analytics
   - analytics
   - data
   - data-visualization

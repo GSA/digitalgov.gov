@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - product-management
-  - metrics
+  - analytics
   - social-media
   - national-action-plan-on-open-government
 ---

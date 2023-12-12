@@ -12,7 +12,7 @@ topics:
   - data
   - design
   - product-management
-  - metrics
+  - analytics
   - mobile
   - strategy
   - policy
@@ -24,7 +24,7 @@ topics:
   - content-strategy
   - https
   - ITIF
-  - metrics
+  - analytics
   - mobile
   - mobile-first
   - plain-language

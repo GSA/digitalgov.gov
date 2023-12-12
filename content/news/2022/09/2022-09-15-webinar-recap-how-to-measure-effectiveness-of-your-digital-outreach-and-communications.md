@@ -5,7 +5,7 @@ summary: Panelists shared their experiences, lessons learned, and best practices
 # See all topics at https://digital.gov/topics
 topics:
   - communication
-  - metrics
+  - analytics
   - training
   - data
   - recaps

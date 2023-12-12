@@ -6,7 +6,7 @@ summary: Part of my job as an analyst on the Digital Analytics Program (DAP) tea
 authors:
   - tlowden
 topics:
-  - metrics
+  - analytics
   - social-media
   - analytics
   - social-media

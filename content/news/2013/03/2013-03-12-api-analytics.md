@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - code
-  - metrics
+  - analytics
   - api
 ---
 

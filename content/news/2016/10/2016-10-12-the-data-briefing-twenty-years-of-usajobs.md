@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - product-management
-  - metrics
+  - analytics
   - strategy
   - policy
   - user-testing-and-research

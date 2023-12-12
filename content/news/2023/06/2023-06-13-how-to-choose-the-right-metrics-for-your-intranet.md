@@ -6,7 +6,7 @@ deck: Establish performance metrics to meet the website’s goals
 summary: Explore key metrics to optimize your agency's intranet to foster improved user engagement, experience, and overall satisfaction.
 # See all topics at https://digital.gov/topics
 topics:
-  - metrics
+  - analytics
   - performance
   - customer-experience
   - strategy

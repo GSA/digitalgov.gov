@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - metrics
+  - analytics
   - user-testing-and-research
   - user-experience
   - customer-satisfaction

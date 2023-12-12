@@ -11,7 +11,7 @@ authors:
   - gabriel-ramirez
 topics:
   - data
-  - metrics
+  - analytics
   - 18f
   - analytics
   - data

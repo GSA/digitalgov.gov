@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - communities
-  - metrics
+  - analytics
   - social-media
   - aoi
   - socialgov

@@ -6,10 +6,10 @@ summary: 'Now that we have seen the top level shift from desktop to mobile, let 
 authors:
   - freddie-blicher
 topics:
-  - metrics
+  - analytics
   - mobile
   - analytics
-  - metrics
+  - analytics
   - mobile
 
 ---

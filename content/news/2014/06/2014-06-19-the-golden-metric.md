@@ -7,7 +7,7 @@ authors:
   - marina-fox
 topics:
   - data
-  - metrics
+  - analytics
   - analytics
   - data-gov
   - nasa

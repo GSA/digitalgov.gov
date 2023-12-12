@@ -19,7 +19,7 @@ end_date: 2019-05-23 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - metrics
+  - analytics
   - analytics
   - analytics-usa-gov
 

@@ -6,7 +6,7 @@ summary: "Even on a slow day, NASA is a pretty cool place to work, but the cool 
 authors:
   - jim-wilson
 topics:
-  - metrics
+  - analytics
   - analytics
 
 ---

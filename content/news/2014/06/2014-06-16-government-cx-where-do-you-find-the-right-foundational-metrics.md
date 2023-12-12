@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - product-management
-  - metrics
+  - analytics
   - customer-experience
   - customer-satisfaction
   - Export-Import Bank of the United States

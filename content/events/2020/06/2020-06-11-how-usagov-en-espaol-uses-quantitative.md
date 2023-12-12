@@ -23,7 +23,7 @@ topics:
   - contact-centers
   - content-strategy
   - data
-  - metrics
+  - analytics
   - multilingual
   - social-media
   - strategy

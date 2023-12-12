@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - design
-  - metrics
+  - analytics
   - user-testing-and-research
   - user-experience
   - digitalgov-user-experience-program

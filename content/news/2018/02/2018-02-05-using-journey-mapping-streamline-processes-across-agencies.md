@@ -8,9 +8,9 @@ authors:
   - lgodfrey
 topics: 
   - design
-  - metrics
+  - analytics
   - content
-  - metrics
+  - analytics
   - analytics
   - user-experience
   - accessibility

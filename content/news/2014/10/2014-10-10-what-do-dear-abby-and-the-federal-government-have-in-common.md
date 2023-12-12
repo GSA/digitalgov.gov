@@ -8,7 +8,7 @@ authors:
   - jessica-milcetich
 topics:
   - content
-  - metrics
+  - analytics
   - usagov
 ---
 

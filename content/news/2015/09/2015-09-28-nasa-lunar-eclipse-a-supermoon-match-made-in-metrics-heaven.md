@@ -9,7 +9,7 @@ authors:
   - toni-bonitto
 
 topics:
-  - metrics
+  - analytics
   - monthly-theme
   - analytics
   - nasa

@@ -10,7 +10,7 @@ authors:
   - freddie-blicher
 # See all topics at https://digital.gov/topics
 topics:
-  - metrics
+  - analytics
   - data
   - performance
   - project-management

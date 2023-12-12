@@ -6,7 +6,7 @@ summary: 'USA.gov’s Analytics Success: using analytics data to inform design a
 authors:
   - david-kaufmann
 topics:
-  - metrics
+  - analytics
   - our-work
   - data
   - analytics

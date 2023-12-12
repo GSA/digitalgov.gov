@@ -13,7 +13,7 @@ topics:
   - plain-language
   - plain-language-community-of-practice
   - web-content-managers-forum
-  - metrics
+  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - michelle-rago

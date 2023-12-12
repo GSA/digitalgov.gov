@@ -6,7 +6,7 @@ summary: 'It’s not a secret that mobile Internet viewership is booming, but ac
 authors:
   - ilee
 topics:
-  - metrics
+  - analytics
   - mobile
   - our-work
   - analytics

@@ -6,7 +6,7 @@ summary: 'Mobile users of government websites are growing in double digit percen
 authors:
   - wsullivan
 topics:
-  - metrics
+  - analytics
   - mobile
   - analytics
   - ios

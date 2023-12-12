@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - content
-  - metrics
+  - analytics
   - user-testing-and-research
   - digitalgov-user-experience-program
   - Library of Congress

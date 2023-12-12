@@ -9,7 +9,7 @@ authors:
   - richard-morey
 topics:
   - data
-  - metrics
+  - analytics
   - our-work
   - analytics
   - content
@@ -17,7 +17,7 @@ topics:
   - data
   - HHS
   - HRSA
-  - metrics
+  - analytics
   - user-experience
 ---
 

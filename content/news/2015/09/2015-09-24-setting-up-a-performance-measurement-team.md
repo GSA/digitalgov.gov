@@ -6,7 +6,7 @@ summary: 'As part of an organizational shift to functional teams at GSA’s Fede
 authors:
   - marybeth-murphy
 topics:
-  - metrics
+  - analytics
   - monthly-theme
   - analytics
 ---

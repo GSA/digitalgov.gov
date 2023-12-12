@@ -17,7 +17,7 @@ topics:
   - analytics
   - gsa
   - https
-  - metrics
+  - analytics
   - policy
   - search-engine-optimization
   - security

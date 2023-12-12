@@ -29,7 +29,7 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - metrics
+  - analytics
   - product-management
   - analytics
   - analytics-usa-gov

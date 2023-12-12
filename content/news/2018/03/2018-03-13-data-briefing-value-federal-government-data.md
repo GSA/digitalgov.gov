@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - metrics
+  - analytics
   - analytics
 featured_image:
   uid: analytics-data-reports

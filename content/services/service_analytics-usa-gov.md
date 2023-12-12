@@ -30,6 +30,6 @@ weight: 2
 # Topics that best describe this product or service
 topics:
   - analytics
-  - metrics
+  - analytics
 
 ---

@@ -23,7 +23,7 @@ topics:
   - doi
   - policy
   - governance
-  - metrics
+  - analytics
   - data
   - 21st-century-idea
   - open

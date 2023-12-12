@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - metrics
+  - analytics
   - mobile
   - mobile-apps
   - responsive-web-design

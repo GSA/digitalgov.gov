@@ -14,7 +14,7 @@ topics:
   - policy
   - governance
   - analytics
-  - metrics
+  - analytics
   - search
   - privacy
   - security

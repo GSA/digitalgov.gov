@@ -10,7 +10,7 @@ topics:
   - code
   - content
   - product-management
-  - metrics
+  - analytics
   - mobile
   - social-media
   - user-experience

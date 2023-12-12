@@ -19,7 +19,7 @@ topics:
   - the-content-corner
 ---
 
-****Content can be categorized in many ways. While breaking down your [website analytics]({{< ref "/topics/metrics" >}}), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
+****Content can be categorized in many ways. While breaking down your [website analytics]({{< ref "/topics/analytics" >}}), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
 
 Let&#8217;s first define the two terms:
 

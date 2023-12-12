@@ -7,7 +7,7 @@ authors:
   - sam-bronson
 topics:
   - content
-  - metrics
+  - analytics
   - analytics
   - epa
   - us-environmental-protection-agency

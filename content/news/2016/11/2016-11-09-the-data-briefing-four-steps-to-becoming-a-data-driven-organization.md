@@ -8,13 +8,13 @@ authors:
 topics:
   - data
   - product-management
-  - metrics
+  - analytics
   - strategy
   - policy
   - analytics
   - data
   - innovation
-  - metrics
+  - analytics
   - the-data-briefing
 ---
 

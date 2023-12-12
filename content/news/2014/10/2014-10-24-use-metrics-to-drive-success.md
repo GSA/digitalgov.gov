@@ -6,7 +6,7 @@ summary: 'Would federal employees work on tasks outside their agency in order to
 authors:
   - lnelson
 topics:
-  - metrics
+  - analytics
   - our-work
   - open-opportunities-program
 ---

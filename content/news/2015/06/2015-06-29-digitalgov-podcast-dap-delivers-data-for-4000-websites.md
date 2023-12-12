@@ -6,7 +6,7 @@ summary: 'You cannot improve your digital outreach without data. Since 2012, the
 authors:
   - awichman
 topics:
-  - metrics
+  - analytics
   - our-work
   - analytics
   - podcast

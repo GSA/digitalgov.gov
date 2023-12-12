@@ -7,7 +7,7 @@ authors:
   - david-hebert
 topics:
   - content
-  - metrics
+  - analytics
   - social-media
   - HHS
   - recaps

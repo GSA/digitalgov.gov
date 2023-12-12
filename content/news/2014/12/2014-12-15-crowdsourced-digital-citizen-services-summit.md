@@ -11,7 +11,7 @@ topics:
   - content
   - crowdsourcing-and-citizen-science
   - product-management
-  - metrics
+  - analytics
   - mobile
   - monthly-theme
   - our-work

@@ -7,7 +7,7 @@ authors:
   - martha-dorris
 topics:
   - product-management
-  - metrics
+  - analytics
   - monthly-theme
   - our-work
   - user-experience

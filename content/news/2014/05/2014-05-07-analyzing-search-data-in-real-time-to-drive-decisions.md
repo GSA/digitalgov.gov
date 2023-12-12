@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - data
-  - metrics
+  - analytics
   - our-work
   - search
   - open-source

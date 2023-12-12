@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - data
-  - metrics
+  - analytics
   - analytics
   - nasa
 ---

@@ -7,7 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - code
-  - metrics
+  - analytics
   - social-media
   - social-media-metrics
   - usagov

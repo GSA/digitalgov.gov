@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - accessibility
-  - metrics
+  - analytics
   - our-work
   - social-media
   - accessibility

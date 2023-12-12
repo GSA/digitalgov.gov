@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - content
-  - metrics
+  - analytics
   - our-work
   - api
   - Census

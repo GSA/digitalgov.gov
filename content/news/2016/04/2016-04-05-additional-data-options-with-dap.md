@@ -8,13 +8,13 @@ authors:
 topics:
   - code
   - data
-  - metrics
+  - analytics
   - monthly-theme
   - our-work
   - analytics
   - code
   - data
-  - metrics
+  - analytics
 ---
 
 Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP:

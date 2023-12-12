@@ -13,7 +13,7 @@ summary: summ
 topics:
   - data
   - usa-gov
-  - metrics
+  - analytics
   - infographic
 slug: usagov-fourth-quarter-2021-insights
 # Controls how this page appears across the site

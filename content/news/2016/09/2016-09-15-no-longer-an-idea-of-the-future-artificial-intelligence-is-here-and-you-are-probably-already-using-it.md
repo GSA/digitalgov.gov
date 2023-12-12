@@ -10,7 +10,7 @@ topics:
   - content
   - data
   - product-management
-  - metrics
+  - analytics
   - user-testing-and-research
   - ai
   - analytics

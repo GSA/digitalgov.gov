@@ -6,7 +6,7 @@ summary: 'A Digital Analytics Program (DAP) user recently contacted me with an o
 authors:
   - tlowden
 topics:
-  - metrics
+  - analytics
   - monthly-theme
   - data
   - analytics

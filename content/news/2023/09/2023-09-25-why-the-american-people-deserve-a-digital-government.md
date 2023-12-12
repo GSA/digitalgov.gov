@@ -28,7 +28,7 @@ topics:
   - social-media
   - communication
   - analytics
-  - metrics
+  - analytics
   - privacy
   - security
   - policy

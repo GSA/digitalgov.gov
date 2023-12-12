@@ -14,7 +14,7 @@ topics:
   - 21st-century-idea
   - content
   - content-strategy
-  - metrics
+  - analytics
   - plain-language
   - analytics
   - accessibility

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - product-management
-  - metrics
+  - analytics
   - mobile
   - video
   - analytics
@@ -16,7 +16,7 @@ topics:
   - content
   - content-strategy
   - multimedia
-  - metrics
+  - analytics
   - mobile
   - recaps
   - user-generated-content

@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - design
-  - metrics
+  - analytics
   - mobile
   - user-testing-and-research
   - accessibility
@@ -16,7 +16,7 @@ topics:
   - content
   - content-strategy
   - itif
-  - metrics
+  - analytics
   - mobile
   - mobile-first
   - plain-language

@@ -6,7 +6,7 @@ summary: In large agencies, lots of Web teams touch digital analytics in one way
 authors:
   - hhs-digital-analytics-team
 topics:
-  - metrics
+  - analytics
   - analytics
   - data
 ---

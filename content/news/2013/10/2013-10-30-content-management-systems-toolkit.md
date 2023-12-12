@@ -57,7 +57,7 @@ Once you’ve built it, you should continue to update and maintain it, tracking 
 Before implementing a CMS, you should get rid of “ROT” (Redundant, Outdated, Trivial) content. Your completed content inventory can help you spot the ROT.
 
   * Look for pages with similar content, and review to see if you can combine them and delete one of the pages.
-  * [Examine your metrics]({{< ref "/topics/metrics" >}}). Do you have pages that are only getting a few visits a month? Those pages may not be worth keeping, if no one is looking at them.
+  * [Examine your metrics]({{< ref "/topics/analytics" >}}). Do you have pages that are only getting a few visits a month? Those pages may not be worth keeping, if no one is looking at them.
   * Review search terms and compare your IA to the topics and terms people search for on your site. If a topic or page has low search traffic, and low visits, review to see if it’s a candidate for removal.
 
 ### Determine Content Structure

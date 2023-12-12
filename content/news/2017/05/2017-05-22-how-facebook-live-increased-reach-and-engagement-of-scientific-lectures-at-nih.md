@@ -7,7 +7,7 @@ authors:
   - yasmine-kloth
 topics:
   - content
-  - metrics
+  - analytics
   - mobile
   - social-media
   - video

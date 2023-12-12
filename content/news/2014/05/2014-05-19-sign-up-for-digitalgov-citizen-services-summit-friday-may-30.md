@@ -16,7 +16,7 @@ topics:
   - content
   - data
   - product-management
-  - metrics
+  - analytics
   - mobile
   - social-media
   - user-experience

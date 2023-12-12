@@ -18,7 +18,7 @@ summary: "**The USA.gov's team launched a new analytics dashboard** that shows t
 
 # see all topics at https://digital.gov/topics
 topics:
-  - metrics
+  - analytics
   - multilingual
   - analytics
   - analytics-usa-gov

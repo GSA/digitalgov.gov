@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - metrics
+  - analytics
   - social-media
   - administrative-office-of-the-united-states-courts
   - analytics

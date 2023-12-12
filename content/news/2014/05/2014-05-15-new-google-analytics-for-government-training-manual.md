@@ -6,7 +6,7 @@ summary: 'Looking for a training manual on how to use Google Analytics for your 
 authors:
   - sarah-kaczmarek
 topics:
-  - metrics
+  - analytics
   - social-media
   - analytics
   - GAO

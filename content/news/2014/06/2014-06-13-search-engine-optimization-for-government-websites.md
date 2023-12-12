@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - content
-  - metrics
+  - analytics
   - our-work
   - search
   - recaps

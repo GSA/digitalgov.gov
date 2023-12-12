@@ -17,7 +17,7 @@ topics:
   - content
   - design
   - multilingual
-  - metrics
+  - analytics
   - analytics
   - usa-gov
   - go-usa-gov

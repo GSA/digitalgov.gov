@@ -6,7 +6,7 @@ summary: 'The Digital Analytics Program (DAP) provides a wealth of standard Web 
 authors:
   - ilee
 topics:
-  - metrics
+  - analytics
   - monthly-theme
   - analytics
 

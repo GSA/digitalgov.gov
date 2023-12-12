@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - data
-  - metrics
+  - analytics
   - api
   - Census
   - data-gov

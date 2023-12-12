@@ -8,11 +8,11 @@ authors:
   - dywane-boyd
 topics:
   - data
-  - metrics
+  - analytics
   - our-work
   - user-testing-and-research
   - analytics
-  - metrics
+  - analytics
   - OPM
   - united-states-office-of-personnel-management
   - user-experience

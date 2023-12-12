@@ -7,7 +7,7 @@ authors:
   - byrhonda-lyons
 topics:
   - content
-  - metrics
+  - analytics
   - mobile
   - monthly-theme
   - Defense Finance and Accounting Services

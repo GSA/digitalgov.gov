@@ -7,10 +7,10 @@ authors:
   - bbrantley
 topics:
   - data
-  - metrics
+  - analytics
   - data
   - infrastructure
-  - metrics
+  - analytics
   - open-data
   - the-data-briefing
 ---

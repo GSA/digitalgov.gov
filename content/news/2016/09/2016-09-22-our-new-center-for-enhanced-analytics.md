@@ -7,11 +7,11 @@ authors:
   - gao-watchblog
 topics:
   - data
-  - metrics
+  - analytics
   - analytics
   - data
   - GAO
-  - metrics
+  - analytics
   - transportation-security-administration
   - TSA
   - us-government-accountability-office

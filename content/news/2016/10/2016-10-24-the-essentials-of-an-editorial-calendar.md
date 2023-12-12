@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - content-syndication
   - marketing
-  - metrics
+  - analytics
   - multilingual
   - multimedia
   - social-media

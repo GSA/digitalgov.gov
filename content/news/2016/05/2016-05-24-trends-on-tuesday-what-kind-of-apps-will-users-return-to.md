@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - analytics
-  - metrics
+  - analytics
   - mobile
   - mobile-apps
   - trends-on-tuesday

@@ -7,7 +7,7 @@ authors:
   - tlowden
   - marina-fox
 topics:
-  - metrics
+  - analytics
   - our-work
   - analytics
   - customer-satisfaction

@@ -9,7 +9,7 @@ authors:
 
 topics:
   - data
-  - metrics
+  - analytics
   - mobile
   - analytics
   - customer-experience

@@ -14,7 +14,7 @@ aliases:
 
 # see all topics at https://digital.gov/topics
 topics:
-  - metrics
+  - analytics
   - product-management
   - user-experience
   - content-strategy

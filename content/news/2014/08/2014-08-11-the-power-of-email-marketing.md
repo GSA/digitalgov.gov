@@ -7,7 +7,7 @@ authors:
   - nicholas-garlow
 topics:
   - content
-  - metrics
+  - analytics
   - social-media
   - a-b-testing
   - HHS

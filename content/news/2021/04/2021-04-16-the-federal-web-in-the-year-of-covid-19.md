@@ -6,7 +6,7 @@ summary: The past year was like no other. We take a look at how it affected fede
 # See all topics at https://digital.gov/topics
 topics:
   - data
-  - metrics
+  - analytics
   - analytics
   - search
 # See all authors at https://digital.gov/authors

@@ -9,7 +9,7 @@ topics:
   - content
   - data
   - product-management
-  - metrics
+  - analytics
   - search
 ---
 

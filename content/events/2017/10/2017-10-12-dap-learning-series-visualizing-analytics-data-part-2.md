@@ -20,7 +20,7 @@ end_date: 2017-10-12 15:00:00 -0500
 topics: 
   - data
   - analytics
-  - metrics
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -10,7 +10,7 @@ topics:
   - social-media
   - analytics
   - gamification
-  - metrics
+  - analytics
   - mobile
   - security
   - social-media

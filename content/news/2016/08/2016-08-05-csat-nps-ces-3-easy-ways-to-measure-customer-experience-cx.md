@@ -6,12 +6,12 @@ summary: 'Have you ever wondered how to measure a customer’s experience? I’v
 authors:
   - craig-chavez
 topics:
-  - metrics
+  - analytics
   - strategy
   - policy
   - analytics
   - customer-experience
-  - metrics
+  - analytics
 
 ---
 

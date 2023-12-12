@@ -6,9 +6,9 @@ summary: "There are over 200 native applications in the federal government with 
 authors:
   - jparcell
 topics:
-  - metrics
+  - analytics
   - mobile
-  - metrics
+  - analytics
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-gov

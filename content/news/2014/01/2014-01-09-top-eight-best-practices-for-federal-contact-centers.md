@@ -10,7 +10,7 @@ topics:
   - content
   - data
   - product-management
-  - metrics
+  - analytics
   - aoi
   - content-strategy
   - customer-satisfaction

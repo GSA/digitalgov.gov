@@ -7,13 +7,13 @@ authors:
   - chris-noonan-sturm
 topics:
   - data
-  - metrics
+  - analytics
   - our-work
   - data
   - analytics
   - Federal Trade Commission
   - FTC
-  - metrics
+  - analytics
   - user-experience
   
 ---

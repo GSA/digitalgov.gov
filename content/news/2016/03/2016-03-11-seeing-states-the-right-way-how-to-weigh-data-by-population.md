@@ -7,7 +7,7 @@ authors:
   - kelley-holden
 topics:
   - data
-  - metrics
+  - analytics
   - monthly-theme
   - analytics
   - CFPB

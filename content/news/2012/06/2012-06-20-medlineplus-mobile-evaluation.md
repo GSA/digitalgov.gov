@@ -6,7 +6,7 @@ summary: Mobile Gov Experiences are agency stories about creating anytime, anywh
 authors:
   - jparcell
 topics:
-  - metrics
+  - analytics
   - mobile
   - HHS
   - mobile-gov-experience

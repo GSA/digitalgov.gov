@@ -6,7 +6,7 @@ summary: '2 a.m. EDT, April 16 Looks like the traffic peak for #TaxDay was aroun
 authors:
   - awichman
 topics:
-  - metrics
+  - analytics
   - our-work
   - analytics
 ---

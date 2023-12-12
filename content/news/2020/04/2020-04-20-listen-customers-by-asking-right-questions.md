@@ -13,7 +13,7 @@ summary: "This week, we’re exploring what it means to listen, and we’re taki
 topics:
   - 21st-century-idea
   - content-strategy
-  - metrics
+  - analytics
   - uswds
   - analytics
   - this-weeks-idea

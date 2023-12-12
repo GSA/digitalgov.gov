@@ -14,7 +14,7 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-agency-analytics-governance-registration-59346733678
 topics:
-  - metrics
+  - analytics
   - analytics
   - governance
 

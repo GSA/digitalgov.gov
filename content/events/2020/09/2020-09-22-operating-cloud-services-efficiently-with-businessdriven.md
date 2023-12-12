@@ -20,7 +20,7 @@ end_date: 2020-09-22 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - devops
-  - metrics
+  - analytics
   - open-source
   - performance
   - product-management

@@ -9,7 +9,7 @@ authors:
   - ryan-panchadsaram
   - charles-worthington
 topics:
-  - metrics
+  - analytics
   - monthly-theme
   - our-work
   - analytics

@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - data
   - GobiernoUSAgov
-  - metrics
+  - analytics
   - multilingual
   - social-media
   - social-media-metrics

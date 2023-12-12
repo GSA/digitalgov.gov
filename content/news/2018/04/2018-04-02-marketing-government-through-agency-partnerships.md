@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - metrics
+  - analytics
   - social-media
   - strategy
   - policy

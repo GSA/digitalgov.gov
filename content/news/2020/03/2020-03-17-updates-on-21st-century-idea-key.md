@@ -12,7 +12,7 @@ summary: "We spoke to Ammie Farraj Feijoo, GSA’s 21st Century IDEA implementat
 topics:
   - 21st-century-idea
   - design
-  - metrics
+  - analytics
   - uswds
   - user-experience
   

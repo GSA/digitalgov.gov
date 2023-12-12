@@ -17,7 +17,7 @@ topics:
   - design
   - governance
   - product-management
-  - metrics
+  - analytics
   - mobile
   - our-work
   - social-media
@@ -35,7 +35,7 @@ topics:
   - cloud-gov
   - content
   - customer-experience
-  - metrics
+  - analytics
   - mobile
   - open-data
   - open-opportunities-program

@@ -12,7 +12,7 @@ topics:
   - analytics
   - customer-experience
   - data
-  - metrics
+  - analytics
 
 ---
 

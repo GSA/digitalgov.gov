@@ -6,7 +6,7 @@ summary: We are all collecting a lot of performance data across our digital prop
 authors:
   - apiazza
 topics:
-  - metrics
+  - analytics
   - analytics
   - data-gov
   - epa

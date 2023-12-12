@@ -6,7 +6,7 @@ summary: Collecting visitor, engagement, and traffic data for your digital chann
 authors:
   - sarah-kaczmarek
 topics:
-  - metrics
+  - analytics
   - social-media
   - user-testing-and-research
   - analytics

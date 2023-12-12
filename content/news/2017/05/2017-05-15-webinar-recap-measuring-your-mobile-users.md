@@ -8,7 +8,7 @@ authors:
   - lisa-bari
 
 topics:
-  - metrics
+  - analytics
   - mobile
   - analytics
   - best-practices

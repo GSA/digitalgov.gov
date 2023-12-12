@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - dhs
-  - metrics
+  - analytics
   - plain-writing-act-of-2010
   - social-media
   - the-content-corner

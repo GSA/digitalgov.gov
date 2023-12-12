@@ -6,7 +6,7 @@ summary: Welcome to the first Dear Search article, an occasional series where th
 authors:
   - dmccleskey
 topics:
-  - metrics
+  - analytics
   - our-work
   - analytics
   - search

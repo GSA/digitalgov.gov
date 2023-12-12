@@ -56,7 +56,7 @@ This is done by evaluating the business objectives and user tasks.  Participants
 
 ### 2) Determine Inward Paths
 
-How are people getting to your site? Use data to support assumptions. This [metrics]({{< ref "/topics/metrics" >}}) data should be pulled and evaluated prior to the workshop.
+How are people getting to your site? Use data to support assumptions. This [metrics]({{< ref "/topics/analytics" >}}) data should be pulled and evaluated prior to the workshop.
 
 ### 3) Determine Core Content
 

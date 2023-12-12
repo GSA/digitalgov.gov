@@ -6,7 +6,7 @@ summary: 'When we launched analytics.usa.gov with the Digital Analytics Program,
 authors:
   - melody-kramer
 topics:
-  - metrics
+  - analytics
   - our-work
   - 18f
   - analytics

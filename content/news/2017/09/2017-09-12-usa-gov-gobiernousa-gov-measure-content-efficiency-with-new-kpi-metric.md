@@ -8,11 +8,11 @@ authors:
 
 topics:
   - content
-  - metrics
+  - analytics
   - analytics
   - content
   - gobiernousagov
-  - metrics
+  - analytics
   - usagov
 
 ---

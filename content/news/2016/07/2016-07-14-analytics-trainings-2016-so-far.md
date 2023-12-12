@@ -6,9 +6,9 @@ summary: 'In 2016, the Digital Analytics Program (DAP) team has ramped up our tr
 authors:
   - ilee
 topics:
-  - metrics
   - analytics
-  - metrics
+  - analytics
+  - analytics
   - recaps
   - webinar
 

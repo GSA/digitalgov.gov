@@ -9,7 +9,7 @@ topics:
   - code
   - communities
   - product-management
-  - metrics
+  - analytics
   - social-media
   - aoi
   - GitHub

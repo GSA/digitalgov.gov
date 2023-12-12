@@ -6,7 +6,7 @@ summary: 'What exactly does being &ldquo;data-driven&rdquo; mean for digital mar
 authors:
   - chris-rottler
 topics:
-  - metrics
+  - analytics
   - a-b-testing
   - peace-corps
 

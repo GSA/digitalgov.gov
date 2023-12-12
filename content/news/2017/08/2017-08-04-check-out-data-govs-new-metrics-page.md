@@ -7,11 +7,11 @@ authors:
   - data-gov-team
 topics:
   - data
-  - metrics
+  - analytics
   - analytics
   - data
   - data-gov
-  - metrics
+  - analytics
 ---
 
 Data.gov recently updated its [Metrics](https://www.data.gov/metrics){.local-link} page to provide greater detail and transparency to the progress of the Data.gov catalog.

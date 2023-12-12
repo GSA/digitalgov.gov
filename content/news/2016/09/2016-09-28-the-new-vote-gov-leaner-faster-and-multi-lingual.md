@@ -20,7 +20,7 @@ topics:
   - customer-experience
   - draft-web-design-standards
   - gsa
-  - metrics
+  - analytics
   - multilingual
   - open-source
   - social-media
