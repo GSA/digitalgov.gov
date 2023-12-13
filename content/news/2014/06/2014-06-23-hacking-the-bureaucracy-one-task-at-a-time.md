@@ -11,7 +11,7 @@ topics:
   - DOL
   - mobile
   - content-strategy
-  - open-opportunities-program
+  - professional-development
   - us-department-of-labor
   - us-department-of-state
 ---

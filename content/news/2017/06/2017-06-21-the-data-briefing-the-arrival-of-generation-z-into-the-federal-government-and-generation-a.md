@@ -9,7 +9,7 @@ topics:
   - product-management
   - artificial-intelligence
   - emerging-tech
-  - human-resources
+  - professional-development
   - social-media
 ---
 

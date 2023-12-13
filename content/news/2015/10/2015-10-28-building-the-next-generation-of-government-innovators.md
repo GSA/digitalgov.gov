@@ -9,7 +9,7 @@ topics:
   - our-work
   - fda
   - mobile
-  - open-opportunities-program
+  - professional-development
   - SSA
   - the-united-states-social-security-administration
   - US Department of Agriculture

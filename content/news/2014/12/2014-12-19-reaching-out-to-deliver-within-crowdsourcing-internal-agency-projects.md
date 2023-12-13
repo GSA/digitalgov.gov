@@ -11,7 +11,7 @@ topics:
   - 18f
   - crowdsourcing-and-citizen-science
   - HHS
-  - open-opportunities-program
+  - professional-development
   - us-department-of-state
   - united-states-department-of-health-and-human-services
 ---

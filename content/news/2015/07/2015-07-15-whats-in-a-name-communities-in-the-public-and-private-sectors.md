@@ -9,7 +9,7 @@ topics:
   - communities
   - monthly-theme
   - analytics
-  - open-opportunities-program
+  - professional-development
   - social-media
   - content-strategy
 

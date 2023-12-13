@@ -9,7 +9,7 @@ topics:
   - code
   - our-work
   - code
-  - open-opportunities-program
+  - professional-development
   - open-source
   - us-department-of-veterans-affairs
   - VA

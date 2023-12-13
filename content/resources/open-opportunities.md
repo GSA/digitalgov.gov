@@ -4,7 +4,7 @@ date: 2014-05-12 1:41:02 -0400
 title: Open Opportunities
 summary: "Open Opportunities is a government wide program offering professional development opportunities and facilitating collaboration and knowledge sharing across the Federal Government."
 topics:
-  - open-opportunities-program
+  - professional-development
 authors:
   - apiazza
 aliases:

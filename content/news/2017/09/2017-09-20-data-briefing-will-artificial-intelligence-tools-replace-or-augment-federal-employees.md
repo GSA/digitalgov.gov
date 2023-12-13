@@ -9,7 +9,7 @@ topics:
   - data
   - product-management
   - artificial-intelligence
-  - human-resources
+  - professional-development
 featured_image:
   uid: automation-of-business-workflows-and-processes-with-businessman-nicoelnino-istock-thinkstock-612012708
   alt:

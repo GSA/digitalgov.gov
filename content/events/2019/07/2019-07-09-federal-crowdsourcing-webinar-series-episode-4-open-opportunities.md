@@ -19,7 +19,7 @@ end_date: 2019-07-09 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - crowdsourcing-and-citizen-science
-  - open-opportunities-program
+  - professional-development
 
 # see all authors at https://digital.gov/authors
 authors: 

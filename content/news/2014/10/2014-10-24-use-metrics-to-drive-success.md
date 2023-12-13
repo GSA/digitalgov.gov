@@ -8,7 +8,7 @@ authors:
 topics:
   - analytics
   - our-work
-  - open-opportunities-program
+  - professional-development
 ---
 
 Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program]({{< ref "open-opportunities.md" >}}).

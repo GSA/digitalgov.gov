@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile
   - NPS
-  - open-opportunities-program
+  - professional-development
   - open-source
   - us-department-of-labor
   - us-national-park-service

@@ -18,7 +18,7 @@ topics:
   - emerging-tech
   - customer-experience
   - customer-experience
-  - Human Resources
+  - professional-development
   - cloud-and-infrastructure
   - innovation
   - emerging-tech

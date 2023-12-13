@@ -15,7 +15,7 @@ topics:
   - content-strategy
   - mobile
   - open-data
-  - open-opportunities-program
+  - professional-development
   - plain-language
 ---
 

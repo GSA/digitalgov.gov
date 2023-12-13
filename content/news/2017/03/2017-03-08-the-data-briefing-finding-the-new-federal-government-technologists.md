@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - acquisition
-  - human resources
+  - professional-development
   - emerging-tech
   - training
 ---

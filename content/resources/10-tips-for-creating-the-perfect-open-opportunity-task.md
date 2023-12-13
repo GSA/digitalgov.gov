@@ -4,7 +4,7 @@ date: 2015-04-24 4:12:26 -0400
 title: 10 Tips for Creating the Perfect Open Opportunity Task
 summary: "Ten tips for creating tasks in Open Opportunities on USAJOBS."
 topics:
-  - open-opportunities-program
+  - professional-development
 authors:
   - lnelson
 ---

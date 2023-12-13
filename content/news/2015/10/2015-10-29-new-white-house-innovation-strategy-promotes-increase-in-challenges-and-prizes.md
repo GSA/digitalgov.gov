@@ -12,7 +12,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - open-opportunities-program
+  - professional-development
   - OSTP
   - white-house-office-of-science-and-technology-policy
 ---

@@ -9,7 +9,7 @@ topics:
   - our-work
   - 18f
   - agile
-  - open-opportunities-program
+  - professional-development
   - open-source
 ---
 

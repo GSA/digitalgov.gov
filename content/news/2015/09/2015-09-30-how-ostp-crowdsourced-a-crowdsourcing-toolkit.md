@@ -16,7 +16,7 @@ topics:
   - analytics
   - search
   - crowdsourcing-and-citizen-science
-  - open-opportunities-program
+  - professional-development
   - OSTP
   - content-strategy
   - sitesusagov
