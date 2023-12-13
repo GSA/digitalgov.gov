@@ -21,7 +21,7 @@ topics:
   - HHS
   - emerging-tech
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-4
   - mobile
   - nasa

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile
   - emerging-tech
 ---

@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - CMS
-  - mobile-ux-guideline-1
+  - mobile
   - responsive-web-design
   - thursday-mobile-products
   - us-department-of-education

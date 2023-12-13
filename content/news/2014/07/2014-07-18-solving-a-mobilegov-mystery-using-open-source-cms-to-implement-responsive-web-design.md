@@ -13,7 +13,7 @@ topics:
   - gsa
   - mobile
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile
   - responsive-web-design
   - us-department-of-state

@@ -10,7 +10,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - HHS
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-4
   - responsive-web-design
   - thursday-mobile-products

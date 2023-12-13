@@ -12,7 +12,7 @@ topics:
   - Defense Finance and Accounting Services
   - mobile
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-4
   - responsive-web-design
   - emerging-tech

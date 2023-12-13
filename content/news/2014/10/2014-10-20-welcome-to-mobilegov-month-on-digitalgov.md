@@ -16,7 +16,7 @@ topics:
   - mobile
   - HHS
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - native-app
   - content-strategy
   - responsive-web-design

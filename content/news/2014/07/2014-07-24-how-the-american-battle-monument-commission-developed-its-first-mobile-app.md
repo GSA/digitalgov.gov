@@ -12,7 +12,7 @@ topics:
   - american-battle-monuments-commission
   - mobile
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-3
   - thursday-mobile-products
   - user-experience

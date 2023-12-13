@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4
   - responsive-web-design

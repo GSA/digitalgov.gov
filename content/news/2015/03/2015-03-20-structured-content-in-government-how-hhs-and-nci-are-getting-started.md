@@ -12,7 +12,7 @@ topics:
   - monthly-theme
   - content-strategy
   - metadata
-  - mobile-ux-guideline-1
+  - mobile
   - national-cancer-institute
   - content-strategy
 

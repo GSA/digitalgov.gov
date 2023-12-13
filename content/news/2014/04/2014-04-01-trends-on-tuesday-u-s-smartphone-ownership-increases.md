@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-5
   - mobile
   - emerging-tech

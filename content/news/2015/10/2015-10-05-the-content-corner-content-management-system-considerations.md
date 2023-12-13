@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - administrative-office-of-the-united-states-courts
-  - mobile-ux-guideline-1
+  - mobile
   - content-strategy
 ---
 

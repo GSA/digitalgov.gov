@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - content-strategy
-  - mobile-ux-guideline-1
+  - mobile
   - mobile
   - content-strategy
   - emerging-tech

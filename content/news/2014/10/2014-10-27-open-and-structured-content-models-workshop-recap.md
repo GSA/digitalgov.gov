@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - content-strategy
   - HHS
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-5
   - nasa
   - national-cancer-institute

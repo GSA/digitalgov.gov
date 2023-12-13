@@ -6,7 +6,7 @@ summary: 'In April, comScore released new mobile data, and it pointed to the con
 authors:
   - wsullivan
 topics:
-  - mobile-ux-guideline-1
+  - mobile
   - mobile
   - emerging-tech
 ---

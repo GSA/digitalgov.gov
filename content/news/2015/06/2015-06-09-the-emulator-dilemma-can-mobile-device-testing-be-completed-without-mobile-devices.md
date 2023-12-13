@@ -10,7 +10,7 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-4
   - native-app
   - responsive-web-design

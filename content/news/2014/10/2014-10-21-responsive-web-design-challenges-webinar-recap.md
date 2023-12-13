@@ -14,7 +14,7 @@ topics:
   - DFAS
   - DOE
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - recaps
   - responsive-web-design
   - united-states-department-of-energy

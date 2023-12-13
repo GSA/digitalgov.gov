@@ -11,7 +11,7 @@ topics:
   - customer-experience
   - emerging-tech
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-3
   - emerging-tech
 ---

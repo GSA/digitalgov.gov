@@ -14,7 +14,7 @@ topics:
   - ICE
   - mobile
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-2
   - mobile-ux-guideline-5
   - national-oceanic-and-atmospheric-administration

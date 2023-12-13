@@ -10,7 +10,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - content-strategy
 ---
 

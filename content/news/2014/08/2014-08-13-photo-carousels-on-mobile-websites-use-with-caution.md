@@ -12,7 +12,7 @@ topics:
   - FAA
   - Federal Aviation Administration
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-4
   - content-strategy
 

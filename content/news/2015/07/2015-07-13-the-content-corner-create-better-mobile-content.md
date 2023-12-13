@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - data-visualization
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5
   - responsive-web-design

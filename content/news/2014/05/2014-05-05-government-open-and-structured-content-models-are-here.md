@@ -24,7 +24,7 @@ topics:
   - fda
   - GitHub
   - gsa
-  - mobile-ux-guideline-1
+  - mobile
   - national-institutes-of-health
   - nih
   - content-strategy

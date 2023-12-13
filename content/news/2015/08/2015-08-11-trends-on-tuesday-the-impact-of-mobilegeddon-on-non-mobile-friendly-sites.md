@@ -9,7 +9,7 @@ topics:
   - mobile
   - search
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - mobile
   - search-engine-optimization
   - emerging-tech

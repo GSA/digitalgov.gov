@@ -12,7 +12,7 @@ topics:
   - mobile
   - monthly-theme
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - responsive-web-design
 
 ---

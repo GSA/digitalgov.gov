@@ -14,7 +14,7 @@ topics:
   - DOE
   - HHS
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - responsive-web-design
   - emerging-tech
   - united-states-department-of-energy

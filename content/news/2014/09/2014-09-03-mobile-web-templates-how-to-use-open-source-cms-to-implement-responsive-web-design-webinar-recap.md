@@ -10,7 +10,7 @@ topics:
   - application-programming-interface
   - CMS
   - content-strategy
-  - mobile-ux-guideline-1
+  - mobile
   - content-strategy
   - open-source
   - recaps

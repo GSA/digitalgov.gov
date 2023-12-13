@@ -8,7 +8,7 @@ topics:
   - content-strategy
   - data
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - content-strategy
   - recaps
 ---

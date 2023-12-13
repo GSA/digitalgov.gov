@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - mobile
   - CMS
-  - mobile-ux-guideline-1
+  - mobile
   - mobile-ux-guideline-6
   - open-source
   - emerging-tech

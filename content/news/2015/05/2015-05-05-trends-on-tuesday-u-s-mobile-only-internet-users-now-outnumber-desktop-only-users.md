@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile-ux-guideline-1
+  - mobile
   - native-app
   - emerging-tech
   - us-national-park-service
