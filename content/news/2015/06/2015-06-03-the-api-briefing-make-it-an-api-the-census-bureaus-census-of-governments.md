@@ -9,7 +9,6 @@ topics:
   - api
   - api
   - Census
-  
   - wednesday-api-briefing
 ---
 
