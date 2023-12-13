@@ -6,8 +6,7 @@ summary: Interested in building an app that incorporates biofeedback data from m
 topics:
   - code
   - mobile
-  - DoD
-  
+  - DoD  
 ---
 
 [{{< legacy-img src="2013/10/codesharing.png" alt="The same computer code shown on a smartphone screen, a tablet screen and a desktop screen" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/codesharing.png)Interested in building an app that incorporates biofeedback data from multiple wearable body sensors?
