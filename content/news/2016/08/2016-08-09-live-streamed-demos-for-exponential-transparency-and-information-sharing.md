@@ -13,7 +13,6 @@ topics:
   - policy
   - video
   - 18f
-  - audio
   - audio-video
   - multimedia
   - video
