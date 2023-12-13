@@ -11,7 +11,6 @@ authors:
 topics:
   - product-management
   - 18f
-  - pif
 featured_image:
   uid: pif-lightning-talks
   alt: 'Angela Colter of 18F meeting with the new cohort of PIFs, January 2019&#46;'

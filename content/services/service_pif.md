@@ -28,5 +28,4 @@ topics:
   - strategy
   - product-management
   - gsa
-  - presidential-innovation-fellows
 ---

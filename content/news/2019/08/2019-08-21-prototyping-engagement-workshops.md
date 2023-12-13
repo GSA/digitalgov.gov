@@ -16,10 +16,8 @@ tag:
   - customer-experience
   - policy
   - workforce
-  - pif
   - artificial-intelligence
   - data
-  - presidential-innovation-fellows
 
 featured_image:
   uid: pif-prototyping-engagement-01

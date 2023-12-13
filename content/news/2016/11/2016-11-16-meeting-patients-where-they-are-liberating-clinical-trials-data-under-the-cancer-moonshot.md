@@ -21,8 +21,6 @@ topics:
   - national-institutes-of-health
   - NCI
   - nih
-  - PIF
-  - Presidential Innovation Fellows
 ---
 
 Cancer clinical trials are a critically important step on the pathway for new or improved treatments to make their way to patients in clinics and hospitals in towns and cities across the country.

@@ -14,8 +14,6 @@ topics:
   - Federal Acquisition Service
   - gsa
   - IT Schedule 70
-  - PBS
-  - Public Buildings Service
   - us-general-services-administration
 ---
 

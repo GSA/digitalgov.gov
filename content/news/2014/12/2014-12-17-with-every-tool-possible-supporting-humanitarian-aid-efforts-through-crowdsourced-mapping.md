@@ -11,7 +11,6 @@ topics:
   - crowdsourcing
   - data
   - open-data
-  - peace-corps
   - us-department-of-state
 ---
 

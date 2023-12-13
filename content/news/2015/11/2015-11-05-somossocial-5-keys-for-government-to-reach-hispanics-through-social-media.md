@@ -16,9 +16,6 @@ topics:
   - fema
   - GobiernoUSAgov
   - multilingual
-  - peace-corps
-  - recaps
-  - SBA
   - social-media
   - us-small-business-administration
   - usa-gov

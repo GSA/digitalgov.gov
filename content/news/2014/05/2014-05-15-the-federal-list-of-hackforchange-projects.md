@@ -23,8 +23,6 @@ topics:
   - national-science-foundation
   - nih
   - nsf
-  - peace-corps
-  - SBA
   - us-agency-for-international-development
   - united-states-census-bureau
   - united-states-department-of-health-and-human-services

@@ -35,9 +35,6 @@ topics:
   - OMB
   - open-government
   - OSTP
-  - peace-corps
-  - SBA
-  - smithsonian-institution
   - us-coast-guard
   - us-department-of-education
   - us-department-of-labor

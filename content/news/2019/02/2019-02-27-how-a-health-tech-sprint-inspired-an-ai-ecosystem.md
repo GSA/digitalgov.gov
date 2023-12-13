@@ -10,8 +10,6 @@ authors:
   - kristen-honey
 topics:
   - code
-  - pif
-  - hhs
   - mobile
   - va
   - open-data

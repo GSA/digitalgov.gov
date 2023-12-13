@@ -14,9 +14,6 @@ authors:
 topics:
   - innovation
   - gsa
-  - pif
-  - presidential-innovation-fellows
-  - tts
 featured_image:
   uid: pif-card-alt
   alt:

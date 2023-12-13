@@ -10,7 +10,8 @@ authors:
 topics:
   - strategy
   - design
-  - user-research
+  - user-testing-and-research
+  - metrics
   - analytics
   - customer-experience
 

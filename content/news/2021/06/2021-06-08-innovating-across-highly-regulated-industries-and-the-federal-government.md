@@ -8,8 +8,6 @@ summary: Four lessons learned from the similarities and differences between
 # See all topics at https://digital.gov/topics
 topics:
   - data
-  - pif
-  - presidential-innovation-fellows
 # See all authors at https://digital.gov/authors
 authors:
   - wanmei-ou

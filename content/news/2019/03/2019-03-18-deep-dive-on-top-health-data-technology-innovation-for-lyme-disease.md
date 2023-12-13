@@ -14,7 +14,6 @@ topics:
   - innovation
   - mobile-apps
   - open-data
-  - pif
 featured_image:
   uid: pif-ai-open-data
   alt: 'A graphic that reads&#58; Artificial Intelligence and Open Data Innovation for Health, brought to you by the Presidential Innovation Fellows and the U&#46;S&#46; Department of Health and Human Services&#46;'
