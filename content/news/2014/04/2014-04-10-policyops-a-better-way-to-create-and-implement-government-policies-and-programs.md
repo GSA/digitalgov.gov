@@ -10,7 +10,6 @@ topics:
   - governance
   - product-management
   - analytics
-  - data
   - OPM
   - united-states-office-of-personnel-management
 

@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - api
   - OPM
   - US Department of Agriculture

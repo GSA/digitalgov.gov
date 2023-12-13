@@ -12,7 +12,6 @@ topics:
   - digitalgov-summit
   - Ex-Im Bank
   - Export-Import Bank of the United States
-  - gsa
   - HHS
   - Internal Revenue Service
   - IRS

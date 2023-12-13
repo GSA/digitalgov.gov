@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - social-media
-  - 18f
   - accessibility
   - GobiernoUSAgov
   - multimedia

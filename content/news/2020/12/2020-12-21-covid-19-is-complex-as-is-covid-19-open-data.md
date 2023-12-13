@@ -12,7 +12,6 @@ summary: "**COVID-19 Is Complex, as Is COVID-19 Open Data**&mdash;HHS recently
   accelerate scientific and public health insights."
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - open-data
   - hhs
   - united-states-department-of-health-and-human-services

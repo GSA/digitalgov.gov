@@ -7,7 +7,6 @@ authors:
   - sarah-crane
 topics:
   - content
-  - gsa
   - usa-gov
 ---
 

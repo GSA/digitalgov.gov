@@ -9,7 +9,6 @@ topics:
   - api
   - content
   - product-management
-  - monthly-theme
   - api
   - usagov
 ---

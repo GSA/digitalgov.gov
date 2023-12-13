@@ -12,7 +12,6 @@ topics:
   - strategy
   - policy
   - video
-  - 18f
   - audio
   - audio-video
   - multimedia

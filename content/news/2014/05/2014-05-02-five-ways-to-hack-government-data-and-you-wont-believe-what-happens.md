@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - code
-  - data
   - writing
   - Census
   - challenge-gov

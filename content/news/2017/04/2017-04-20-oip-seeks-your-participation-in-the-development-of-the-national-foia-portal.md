@@ -10,9 +10,7 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - 18f
   - open-government
-  - gsa
   - us-department-of-justice
   - us-general-services-administration
 ---

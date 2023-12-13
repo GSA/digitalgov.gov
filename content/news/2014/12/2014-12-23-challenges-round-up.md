@@ -7,7 +7,6 @@ authors:
   - apiazza
 topics:
   - challenges
-  - monthly-theme
   - CFPB
   - challenge-gov
   - challenges-and-prize-competitions

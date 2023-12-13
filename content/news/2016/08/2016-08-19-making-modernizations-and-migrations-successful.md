@@ -8,7 +8,6 @@ authors:
   - david-mader
 topics:
   - product-management
-  - gsa
   - infrastructure
   - innovation
   - M3 Framework

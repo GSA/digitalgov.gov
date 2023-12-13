@@ -9,7 +9,6 @@ topics:
   - accessibility
   - code
   - content
-  - data
   - design
   - product-management
   - metrics
@@ -19,7 +18,6 @@ topics:
   - user-testing-and-research
   - accessibility
   - analytics
-  - communities
   - content
   - content-strategy
   - https

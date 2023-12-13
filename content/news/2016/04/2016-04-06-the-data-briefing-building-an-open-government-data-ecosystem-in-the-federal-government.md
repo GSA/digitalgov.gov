@@ -6,10 +6,7 @@ summary: It has been over seven years since President Obama signed the executive
 authors:
   - bbrantley
 topics:
-  - data
-  - monthly-theme
   - api
-  - data
   - HHS
   - nasa
   - open-data

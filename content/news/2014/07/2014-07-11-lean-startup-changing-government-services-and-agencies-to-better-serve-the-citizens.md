@@ -8,7 +8,6 @@ authors:
 topics:
   - strategy
   - policy
-  - 18f
   - CFPB
   - Consumer Financial Protection Bureau
   - fda

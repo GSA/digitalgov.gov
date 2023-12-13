@@ -7,7 +7,6 @@ authors:
   - theresa-summa
 topics:
   - code
-  - 18f
   - code
   - open-source
 ---

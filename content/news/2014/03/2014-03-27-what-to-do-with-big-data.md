@@ -7,9 +7,7 @@ authors:
   - lauren-caldwell
   - erin-twamley
 topics:
-  - data
   - big-data
-  - data
   - data-gov
   - DOE
   - open-government

@@ -14,7 +14,6 @@ topics:
   - CMS
   - code
   - Consumer Product Safety Commission
-  - data
   - mobile
   - open
   - open-source

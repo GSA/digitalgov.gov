@@ -6,7 +6,6 @@ summary: 'In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara Na
 authors:
   - richard-easterbrook
 topics:
-  - data
   - data-gov
   - DOI
   - FWS

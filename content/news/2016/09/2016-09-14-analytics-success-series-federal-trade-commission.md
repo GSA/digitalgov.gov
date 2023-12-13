@@ -6,12 +6,10 @@ summary: 'FTC’s Analytics Success: Making mission-related tasks easier for the
 authors:
   - chris-noonan-sturm
 topics:
-  - data
   - metrics
   - our-work
   - analytics
   - dap
-  - data
   - digital-analytics-program
   - Federal Trade Commission
   - FTC

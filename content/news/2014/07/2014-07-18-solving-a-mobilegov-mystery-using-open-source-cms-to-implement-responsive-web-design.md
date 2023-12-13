@@ -9,8 +9,6 @@ authors:
 topics:
   - content
   - mobile
-  - monthly-theme
-  - gsa
   - mobile
   - mobile-gov
   - mobile-ux-guideline-1

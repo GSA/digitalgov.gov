@@ -9,7 +9,6 @@ topics:
   - accessibility
   - challenges
   - crowdsourcing-and-citizen-science
-  - monthly-theme
   - accessibility
   - challenge-gov
   - challenges-and-prize-competitions

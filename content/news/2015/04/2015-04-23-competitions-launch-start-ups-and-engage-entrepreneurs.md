@@ -7,7 +7,6 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - communities
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - crowdsourcing

@@ -7,7 +7,6 @@ authors:
   - alice-chen
 topics:
   - content
-  - monthly-theme
   - plain-language
   - plain-language-community-of-practice
   - US Citizenship and Immigration Service

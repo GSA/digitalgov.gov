@@ -12,7 +12,6 @@ topics:
   - 21st-century-idea
   - uswds
   - design
-  - communities
 
 # See all authors at https://digital.gov/authors
 authors:

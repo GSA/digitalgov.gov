@@ -6,9 +6,7 @@ summary: While it does provide challenges, anytime, anywhere digital government 
 authors:
   - jparcell
 topics:
-  - communities
   - mobile
-  - monthly-theme
   - strategy
   - policy
   - aoi

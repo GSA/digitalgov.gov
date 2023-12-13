@@ -9,9 +9,7 @@ authors:
   - beth-cobert
 topics:
   - content
-  - data
   - mobile
-  - 18f
   - customer-experience
   - us-digital-service
   - USDS

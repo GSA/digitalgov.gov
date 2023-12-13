@@ -6,11 +6,9 @@ summary: ML can provide high-value services for data management and analytics, s
 authors:
   - jada-jones
 topics:
-  - data
   - artificial-intelligence
   - big-data
   - darpa
-  - data
   - emerging-tech
   - defense-advanced-research-projects-agency
   - hhs

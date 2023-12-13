@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - mobile
-  - monthly-theme
   - mobile
   - trends-on-tuesday
   - user-experience

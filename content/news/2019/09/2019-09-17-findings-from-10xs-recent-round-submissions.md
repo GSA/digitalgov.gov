@@ -7,8 +7,6 @@ authors:
   - nico-papafil
 categories:
   - managing-digital
-tag:
-  - 10x
 featured_image:
   uid: 10x-projects-report-1
   alt: ''

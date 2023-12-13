@@ -7,11 +7,8 @@ authors:
   - lisa-gelobter
 topics:
   - code
-  - data
-  - 18f
   - agile
   - api
-  - data
   - open-data
   - prototype
   - us-department-of-education

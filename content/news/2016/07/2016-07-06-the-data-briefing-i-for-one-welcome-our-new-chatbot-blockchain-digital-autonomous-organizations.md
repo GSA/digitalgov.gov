@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - code
-  - data
   - product-management
   - strategy
   - policy
@@ -17,7 +16,6 @@ topics:
   - chatbots
   - customer-experience
   - customer-service
-  - data
   - internet-of-things
   - security
   - the-data-briefing

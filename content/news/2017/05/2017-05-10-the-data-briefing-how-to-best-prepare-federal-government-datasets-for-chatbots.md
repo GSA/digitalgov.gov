@@ -6,15 +6,12 @@ summary: Forbes magazine recently ran an article showcasing six handy mobile app
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
   - social-media
   - ai
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
-  - best-practices
   - chatbots
-  - data
   - innovation
   - mobile-apps
   - open-data

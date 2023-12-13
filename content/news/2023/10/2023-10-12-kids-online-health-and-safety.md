@@ -16,7 +16,6 @@ summary: As part of the Biden-Harris Administration’s Task Force on Kids Onlin
   potential benefits, and efforts to mitigate harms.
 # See all topics at https://digital.gov/topics
 topics:
-  - best-practices
   - social-media
   - samhsa
 slug: kids-online-health-and-safety

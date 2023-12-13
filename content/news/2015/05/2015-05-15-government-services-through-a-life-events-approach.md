@@ -7,14 +7,12 @@ authors:
   - mary-ann-monroe
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-satisfaction
   - customer-service
   - FAFSA
   - federal-student-aid
   - FSA
-  - gsa
   - personas
   - us-department-of-the-treasury
   - usa-gov

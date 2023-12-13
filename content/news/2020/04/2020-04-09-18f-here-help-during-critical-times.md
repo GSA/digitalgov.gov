@@ -18,7 +18,7 @@ summary: "<strong>Government agencies are seeing their systems and staff stretch
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 18f
+  - agile
 
 # see all authors at https://digital.gov/authors
 authors:

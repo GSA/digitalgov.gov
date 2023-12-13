@@ -7,7 +7,6 @@ authors:
   - gwynne-kostin
 topics:
   - content
-  - data
   - mobile
   - user-experience
   - department-of-commerce

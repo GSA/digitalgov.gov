@@ -7,14 +7,12 @@ authors:
   - kristen-onell
 topics:
   - api
-  - communities
   - content
   - aoi
   - api
   - Census
   - content-models
   - GitHub
-  - gsa
   - metadata
   - national-institutes-of-health
   - nih

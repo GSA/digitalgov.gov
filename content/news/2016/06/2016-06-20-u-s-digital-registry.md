@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - product-management
-  - monthly-theme
   - social-media
   - NARA
   - national-archives-and-records-administration

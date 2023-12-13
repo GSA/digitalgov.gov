@@ -13,7 +13,7 @@ deck: "If you’re one of the many federal employees carrying out your mission
 summary:
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
+  - agile
 slug: finding-post-award-balance-with-quality-assurance
 # Controls how this page appears across the site
 # 0 -- hidden

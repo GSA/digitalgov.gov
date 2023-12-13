@@ -8,10 +8,7 @@ authors:
 topics:
   - api
   - code
-  - data
-  - monthly-theme
   - api
-  - data
   - data-gov
   - HHS
   - internet-of-things

@@ -7,11 +7,9 @@ authors:
   - brenda-wensil
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - data
   - FAFSA
   - federal-student-aid
   - FSA

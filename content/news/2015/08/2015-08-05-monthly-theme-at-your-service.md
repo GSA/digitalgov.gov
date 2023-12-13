@@ -6,7 +6,6 @@ summary: 'In this digital age, we know customers expect their government interac
 authors:
   - andreanocesigritz
 topics:
-  - monthly-theme
   - our-work
   - digital-analytics-program
   - search

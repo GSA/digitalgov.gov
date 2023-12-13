@@ -7,7 +7,6 @@ authors:
   - julia-elman
 topics:
   - design
-  - 18f
   - accessibility
   - us-customs-and-border-protection
   - dhs

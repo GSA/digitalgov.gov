@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - governance
-  - gsa
   - us-department-of-education
   - us-department-of-veterans-affairs
   - USDA

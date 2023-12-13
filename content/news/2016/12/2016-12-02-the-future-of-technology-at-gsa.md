@@ -10,8 +10,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
-  - gsa
   - innovation
   - technology-transformation-services
   - tts

@@ -6,11 +6,9 @@ summary: 'Analytics and &ldquo;big data&rdquo; seem to be the next frontier in a
 authors:
   - gao-watchblog
 topics:
-  - data
   - metrics
   - analytics
   - big-data
-  - data
   - GAO
   - metrics
   - transportation-security-administration

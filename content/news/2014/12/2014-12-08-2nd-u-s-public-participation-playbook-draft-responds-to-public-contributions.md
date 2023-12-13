@@ -20,7 +20,6 @@ topics:
   - federal-communications-commission
   - Firstnet
   - FWS
-  - gsa
   - Library of Congress
   - LOC
   - nasa

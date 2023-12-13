@@ -11,10 +11,8 @@ authors:
 topics:
   - product-management
   - our-work
-  - 18f
   - analytics
   - digital-analytics-program
-  - gsa
   - https
 ---
 

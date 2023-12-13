@@ -8,7 +8,6 @@ topics:
   - api
   - dhs
   - DOL
-  - gsa
   - HHS
   - IRS
   - mobile-apps

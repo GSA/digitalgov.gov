@@ -11,14 +11,12 @@ authors:
 categories:
   - managing-digital
 tag:
-  - data
   - design
   - customer-experience
   - policy
   - workforce
   - pif
   - artificial-intelligence
-  - data
   - presidential-innovation-fellows
 
 featured_image:

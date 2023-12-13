@@ -7,12 +7,10 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - api
   - BLS
   - Census
   - Commerce
-  - data
   - data-visualization
   - department-of-commerce
   - open-data

@@ -11,7 +11,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
   - DoD
   - security
   - technology-transformation-services

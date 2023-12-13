@@ -12,7 +12,6 @@ topics:
   - crowdsourcing
   - department-of-commerce
   - epa
-  - gsa
   - mobile-apps
 ---
 

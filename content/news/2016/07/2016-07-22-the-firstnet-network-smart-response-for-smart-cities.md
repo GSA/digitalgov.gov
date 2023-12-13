@@ -6,7 +6,6 @@ summary: '&#8220;Smart City&#8221; is an emerging term to describe how a communi
 authors:
   - jeanette-kennedy
 topics:
-  - data
   - product-management
   - mobile
   - firstnet

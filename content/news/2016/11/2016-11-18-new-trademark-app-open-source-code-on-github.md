@@ -7,13 +7,11 @@ authors:
   - david-chiles
 topics:
   - code
-  - data
   - product-management
   - mobile
   - api
   - code
   - Commerce
-  - data
   - department-of-commerce
   - GitHub
   - innovation

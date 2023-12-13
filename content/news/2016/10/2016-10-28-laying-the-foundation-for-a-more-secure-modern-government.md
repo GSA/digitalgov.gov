@@ -6,15 +6,12 @@ summary: 'Summary: Building on efforts to boost Federal cybersecurity & as part 
 authors:
   - tony-scott
 topics:
-  - data
   - governance
   - product-management
   - strategy
   - policy
-  - best-practices
   - cloud
   - Cybersecurity National Action Plan
-  - gsa
   - infrastructure
   - innovation
   - it-modernization-fund

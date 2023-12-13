@@ -7,7 +7,6 @@ authors:
   - zhanrui-kuang
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-satisfaction
   - customer-service

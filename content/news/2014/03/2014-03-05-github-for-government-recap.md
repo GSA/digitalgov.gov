@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - code
-  - data
   - CFPB
   - GitHub
   - open-data

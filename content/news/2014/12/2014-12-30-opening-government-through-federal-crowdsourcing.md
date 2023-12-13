@@ -7,9 +7,7 @@ authors:
   - awichman
 topics:
   - challenges
-  - communities
   - crowdsourcing-and-citizen-science
-  - monthly-theme
   - aoi
   - challenges-and-prizes-community-of-practice
   - citizen-science

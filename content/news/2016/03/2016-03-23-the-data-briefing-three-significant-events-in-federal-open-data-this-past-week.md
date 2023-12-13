@@ -9,8 +9,6 @@ authors:
 topics:
   - api
   - software-engineering
-  - data
-  - monthly-theme
   - agile
   - api
   - dhs

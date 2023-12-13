@@ -6,7 +6,6 @@ deck: How co-production methods increase the usefulness of scientific results, p
 summary: How co-production methods increase the usefulness of scientific results, products, and tools
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - data-visualization
   - research
   - usability

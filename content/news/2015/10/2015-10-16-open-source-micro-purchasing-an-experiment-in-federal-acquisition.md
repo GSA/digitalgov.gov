@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - product-management
-  - 18f
   - GitHub
   - open-source
 ---

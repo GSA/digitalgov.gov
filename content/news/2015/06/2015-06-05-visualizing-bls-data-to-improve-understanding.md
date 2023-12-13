@@ -7,9 +7,7 @@ authors:
   - erica-groshen
 topics:
   - content
-  - data
   - BLS
-  - data
   - data-visualization
   - infographic
   - us-bureau-of-labor-statistics

@@ -13,7 +13,6 @@ topics:
   - product-management
   - metrics
   - mobile
-  - monthly-theme
   - our-work
   - social-media
   - user-experience

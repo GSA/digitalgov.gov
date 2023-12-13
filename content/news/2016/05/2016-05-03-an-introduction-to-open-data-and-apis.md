@@ -8,8 +8,6 @@ authors:
 topics:
   - api
   - code
-  - data
-  - 18f
   - analytics-usa-gov
   - api
   - data-gov

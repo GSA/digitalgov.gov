@@ -8,7 +8,6 @@ authors:
 topics:
   - strategy
   - policy
-  - 18f
   - agile
   - agile-lean-community-of-practice
   - kanban

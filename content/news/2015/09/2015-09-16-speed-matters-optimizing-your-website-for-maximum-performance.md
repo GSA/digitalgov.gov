@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - mobile
-  - monthly-theme
   - analytics
   - HHS
   - mobile

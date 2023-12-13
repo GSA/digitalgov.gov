@@ -7,7 +7,6 @@ authors:
   - cynthia-giles
 topics:
   - product-management
-  - data
   - epa
   - open-data
   - us-environmental-protection-agency

@@ -14,7 +14,6 @@ summary: In December 2020, the United States Tax Court  introduced DAWSON, a
   way the public interacts with the Court.
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - open-source
 slug: 18f-checks-in-with-the-dawson-project-at-the-u-s-tax-court
 # Controls how this page appears across the site

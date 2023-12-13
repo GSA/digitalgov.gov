@@ -8,7 +8,6 @@ authors:
   - ryan-xue
 topics:
   - challenges
-  - monthly-theme
   - nasa
   - national-institutes-of-health
   - nih

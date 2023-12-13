@@ -7,9 +7,7 @@ authors:
   - deb-lebel
 topics:
   - accessibility
-  - communities
   - social-media
-  - aids-gov
   - aoi
   - DOL
   - FCC

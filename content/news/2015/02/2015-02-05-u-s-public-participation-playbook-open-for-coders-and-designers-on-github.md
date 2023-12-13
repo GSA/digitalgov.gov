@@ -7,7 +7,6 @@ authors:
   - jherman
 topics:
   - code
-  - communities
   - product-management
   - metrics
   - social-media

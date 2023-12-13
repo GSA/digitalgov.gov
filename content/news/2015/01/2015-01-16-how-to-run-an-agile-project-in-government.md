@@ -7,8 +7,6 @@ authors:
   - kdaniel
 topics:
   - user-experience
-  - 18f
-  - gsa
   - recaps
   
 ---

@@ -33,6 +33,4 @@ topics:
   - code
   - strategy
   - product-management
-  - gsa
-  - 18f
 ---

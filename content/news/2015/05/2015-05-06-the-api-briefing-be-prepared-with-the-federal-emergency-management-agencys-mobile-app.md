@@ -9,7 +9,6 @@ topics:
   - api
   - mobile
   - api
-  - data
   - federal-emergency-management-agency
   - fema
   - mobile

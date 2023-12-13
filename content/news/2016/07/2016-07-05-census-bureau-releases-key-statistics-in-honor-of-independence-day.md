@@ -6,9 +6,7 @@ summary: 'On July 4, 1776, the Continental Congress approved the Declaration of 
 authors:
   - the-commerce-blog
 topics:
-  - data
   - Census
-  - data
   - united-states-census-bureau
 ---
 

@@ -7,7 +7,6 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - data
   - Census
   - CFPB
   - Consumer Financial Protection Bureau

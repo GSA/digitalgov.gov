@@ -9,9 +9,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
   - fedramp
-  - gsa
   - infrastructure
   - our-work
   - SaaS

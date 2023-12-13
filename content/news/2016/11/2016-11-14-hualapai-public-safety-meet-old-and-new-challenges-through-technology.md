@@ -8,7 +8,6 @@ authors:
   - lesia-dickson
 
 topics:
-  - data
   - product-management
   - innovation
   - mobile
@@ -18,7 +17,6 @@ topics:
   - video
   - audio-video
   - broadband
-  - data
   - firstnet
   - mobile
   - tribal-government

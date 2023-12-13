@@ -13,7 +13,6 @@ authors:
   - zach-goldfine
 topics:
   - innovation
-  - gsa
   - pif
   - presidential-innovation-fellows
   - tts

@@ -8,7 +8,6 @@ authors:
 topics:
   - accessibility
   - design
-  - monthly-theme
   - user-testing-and-research
   - accessibility
   - SBA

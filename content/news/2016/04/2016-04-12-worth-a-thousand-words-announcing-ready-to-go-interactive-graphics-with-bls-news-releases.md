@@ -7,11 +7,9 @@ authors:
   - erica-groshen
 topics:
   - content
-  - data
   - user-experience
   - BLS
   - content-strategy
-  - data
   - data-visualization
   - DOL
   - us-bureau-of-labor-statistics

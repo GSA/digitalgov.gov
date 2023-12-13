@@ -7,11 +7,9 @@ authors:
   - structured-and-open-content-models-working-group
 topics:
   - code
-  - communities
   - content
   - product-management
   - mobile
-  - monthly-theme
   - our-work
   - social-media
   - administrative-office-of-the-united-states-courts
@@ -24,7 +22,6 @@ topics:
   - DOL
   - fda
   - GitHub
-  - gsa
   - mobile-ux-guideline-1
   - national-institutes-of-health
   - nih

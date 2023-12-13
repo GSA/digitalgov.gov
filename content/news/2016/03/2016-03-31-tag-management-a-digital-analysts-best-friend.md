@@ -7,12 +7,9 @@ authors:
   - cfpb-digital-analytics-team
 topics:
   - code
-  - data
-  - monthly-theme
   - analytics
   - CFPB
   - Consumer Financial Protection Bureau
-  - data
   - user-experience
 ---
 

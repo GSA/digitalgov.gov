@@ -6,7 +6,6 @@ summary: '&#8220;Future-ready content,&#8221; &#8220;responsive design,&#8221; &
 topics:
   - code
   - content
-  - data
   - mobile
   - mobile-ux-guideline-1
   - open-and-structured-content-models

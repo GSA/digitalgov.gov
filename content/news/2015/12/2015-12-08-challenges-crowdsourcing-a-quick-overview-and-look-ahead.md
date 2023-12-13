@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - monthly-theme
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
@@ -29,7 +28,7 @@ topics:
   - white-house-office-of-science-and-technology-policy
 ---
 
-This month we’re [highlighting articles about challenge competitions and crowdsourcing]({{< ref "/topics/monthly-theme" >}}) across the federal government.
+This month we’re highlighting articles about challenge competitions and crowdsourcing across the federal government.
 
 Federal agencies can gain a wealth of ideas, services, solutions and products by asking a large, diverse crowd to contribute their talents and skills.
 

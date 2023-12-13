@@ -9,13 +9,10 @@ authors:
   - eric-mill
   - colin-craig
 topics:
-  - data
   - product-management
   - metrics
   - our-work
-  - 18f
   - analytics
-  - data
   - digital-analytics-program
   - metrics
 ---

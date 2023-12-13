@@ -7,7 +7,6 @@ authors:
   - nick-marden
 topics:
   - product-management
-  - monthly-theme
   - our-work
   - strategy
   - policy

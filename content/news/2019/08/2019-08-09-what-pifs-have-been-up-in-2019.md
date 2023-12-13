@@ -12,7 +12,6 @@ categories:
   - our-work
 tag: 
   - artificial-intelligence
-  - data
   - innovation
   - machine-learning
   - pif

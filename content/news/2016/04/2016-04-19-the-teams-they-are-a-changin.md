@@ -7,8 +7,6 @@ authors:
   - michael-torres
 topics:
   - product-management
-  - monthly-theme
-  - 18f
   - agile
 ---
 

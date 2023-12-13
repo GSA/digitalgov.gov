@@ -9,9 +9,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
   - agile
-  - best-practices
   - workflows
 ---
 

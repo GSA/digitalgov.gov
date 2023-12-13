@@ -8,7 +8,6 @@ featured_image:
 authors:
   - jherman
 topics:
-  - data
   - emerging-tech
   - our-work
   - ai

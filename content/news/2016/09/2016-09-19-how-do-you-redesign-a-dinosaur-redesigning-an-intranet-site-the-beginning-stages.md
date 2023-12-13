@@ -8,7 +8,6 @@ authors:
 topics:
   - accessibility
   - content
-  - data
   - design
   - product-management
   - strategy

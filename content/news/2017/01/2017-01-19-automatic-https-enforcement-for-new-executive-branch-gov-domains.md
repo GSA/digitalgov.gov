@@ -15,7 +15,6 @@ topics:
   - strategy
   - policy
   - analytics
-  - gsa
   - https
   - metrics
   - policy

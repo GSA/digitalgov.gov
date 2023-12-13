@@ -6,7 +6,6 @@ summary: 'A Washington, D.C. think tank recently released reports advocating usi
 authors:
   - bbrantley
 topics:
-  - data
   - product-management
   - ai
   - artificial-intelligence

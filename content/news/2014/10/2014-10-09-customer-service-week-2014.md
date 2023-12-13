@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - our-work
-  - 18f
   - customer-experience
   - customer-service
   - Ex-Im Bank

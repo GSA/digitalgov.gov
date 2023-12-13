@@ -7,9 +7,7 @@ authors:
   - hannah-gladfelter-rubin
 topics:
   - content
-  - data
   - mobile
-  - monthly-theme
   - content-models
   - content-strategy
   - metadata

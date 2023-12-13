@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - code
-  - data
   - product-management
   - strategy
   - policy
@@ -15,7 +14,6 @@ topics:
   - architecture
   - cloud
   - code
-  - data
   - innovation
   - the-data-briefing
 ---

@@ -7,7 +7,6 @@ authors:
   - greg-boone
 topics:
   - code
-  - 18f
   - GitHub
 ---
 

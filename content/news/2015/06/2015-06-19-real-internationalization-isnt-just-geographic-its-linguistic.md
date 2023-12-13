@@ -9,7 +9,6 @@ authors:
   - victoria-wales
   - edgardo-morales
 topics:
-  - monthly-theme
   - social-media
   - GobiernoUSAgov
   - HHS

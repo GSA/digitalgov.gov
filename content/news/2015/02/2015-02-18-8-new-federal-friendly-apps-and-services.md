@@ -10,7 +10,6 @@ topics:
   - social-media
   - Federal Reserve Board
   - FRB
-  - gsa
   - open-data
   - terms-of-service
   - us-department-of-state

@@ -11,7 +11,6 @@ topics:
   - policy
   - agile
   - agile-lean-community-of-practice
-  - gsa
   - us-general-services-administration
   - usagov
 ---

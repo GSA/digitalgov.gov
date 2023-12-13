@@ -6,13 +6,11 @@ summary: 'So, you have some systems or tools your customers or employees access.
 authors:
   - beth-martin
 topics:
-  - communities
   - analytics
   - aoi
   - digitalgov-user-experience-program
   - FAA
   - Federal Aviation Administration
-  - gsa
   - personas
   - prototype
   - usability-testing

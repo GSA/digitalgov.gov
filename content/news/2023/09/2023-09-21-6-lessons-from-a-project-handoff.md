@@ -14,7 +14,6 @@ summary: Project handoffs are not simple. Teams have their own cultures and work
   lessons we learned as a recent project changed hands.
 # See all topics at https://digital.gov/topics
 topics:
-  - 10x
   - product-management
   - communication
 slug: 6-lessons-from-a-project-handoff

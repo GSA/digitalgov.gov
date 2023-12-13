@@ -7,10 +7,8 @@ authors:
   - tlowden
 topics:
   - metrics
-  - monthly-theme
   - analytics
   - dap
-  - data
   - digital-analytics-program
 ---
 

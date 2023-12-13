@@ -8,10 +8,8 @@ authors:
 topics:
   - api
   - content
-  - monthly-theme
   - our-work
   - social-media
-  - 18f
   - CMS
   - content-management-system
   - search

@@ -34,7 +34,7 @@ logo: doi-revenuedata
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
 topics:
-  - data
+  - agile
 
 # Make it better ♥
 

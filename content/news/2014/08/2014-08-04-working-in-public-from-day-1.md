@@ -7,7 +7,6 @@ authors:
   - eric-mill
 topics:
   - code
-  - 18f
   - GitHub
   - open-source
 ---

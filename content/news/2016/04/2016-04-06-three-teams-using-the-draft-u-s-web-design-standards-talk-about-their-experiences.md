@@ -11,7 +11,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
   - code
   - draft-web-design-standards
   - open-source

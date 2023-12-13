@@ -13,7 +13,6 @@ deck: |
 topics:
   - section-508
   - accessibility
-  - gsa
   - us-general-services-administration
   - diversity-equity-inclusion-accessibility-deia
 # Controls how this page appears across the site

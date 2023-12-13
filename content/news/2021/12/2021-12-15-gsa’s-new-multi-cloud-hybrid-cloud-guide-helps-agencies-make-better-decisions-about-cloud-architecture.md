@@ -18,9 +18,7 @@ deck: "**GSA’s New Multi-Cloud & Hybrid Cloud Guide Helps Agencies Make Better
 # See all topics at https://digital.gov/topics
 topics:
   - cloud
-  - data
   - infrastructure
-  - gsa
   - us-general-services-administration
 # Controls how this page appears across the site
 # 0 -- hidden

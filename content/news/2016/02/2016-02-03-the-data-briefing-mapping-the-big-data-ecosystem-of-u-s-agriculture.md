@@ -6,10 +6,8 @@ summary: 'The Congressional Research Service recently released a report (PDF, 68
 authors:
   - bbrantley
 topics:
-  - data
   - big-data
   - Commerce
-  - data
   - department-of-commerce
   - Library of Congress
   - LOC

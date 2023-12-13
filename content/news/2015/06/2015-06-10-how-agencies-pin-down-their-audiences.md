@@ -6,12 +6,10 @@ summary: 'While Facebook and Twitter are the most popular social media platforms
 authors:
   - edgardo-morales
 topics:
-  - monthly-theme
   - social-media
   - cdc
   - centers-for-disease-control-and-prevention
   - content-strategy
-  - gsa
   - nasa
   - national-institutes-of-health
   - nih

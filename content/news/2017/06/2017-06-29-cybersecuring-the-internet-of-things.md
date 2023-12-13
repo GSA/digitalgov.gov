@@ -6,11 +6,9 @@ summary: I recently had the chance to talk with the legendary Vint Cerf, one of 
 authors:
   - donna-dodson
 topics:
-  - data
   - mobile
   - strategy
   - policy
-  - best-practices
   - infrastructure
   - internet-of-things
   - IoT

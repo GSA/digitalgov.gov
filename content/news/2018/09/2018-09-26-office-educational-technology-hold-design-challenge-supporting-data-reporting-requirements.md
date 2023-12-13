@@ -8,9 +8,7 @@ authors:
   - office-educational-technology
 topics:
   - challenges
-  - data
   - challenges-and-prize-competitions
-  - data
   - data-visualization
   - policy
 featured_image:

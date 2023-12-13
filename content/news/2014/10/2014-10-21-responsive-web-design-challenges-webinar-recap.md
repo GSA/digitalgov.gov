@@ -8,7 +8,6 @@ authors:
   - debra-harris
 topics:
   - mobile
-  - monthly-theme
   - analytics
   - Defense Finance and Accounting Services
   - DFAS

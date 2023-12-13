@@ -9,7 +9,6 @@ authors:
 topics:
   - code
   - content
-  - 18f
   - recaps
 ---
 

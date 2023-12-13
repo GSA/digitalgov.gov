@@ -7,7 +7,6 @@ authors:
   - tlowden
 topics:
   - challenges
-  - monthly-theme
   - cdc
   - centers-for-disease-control-and-prevention
   - challenge-gov

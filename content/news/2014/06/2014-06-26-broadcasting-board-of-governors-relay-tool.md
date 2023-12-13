@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - mobile
-  - monthly-theme
-  - bbg
   - broadcasting-board-of-governors
   - CMS
   - GitHub

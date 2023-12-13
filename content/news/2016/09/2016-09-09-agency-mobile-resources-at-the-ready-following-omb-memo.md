@@ -13,7 +13,6 @@ topics:
   - policy
   - FAS
   - Federal Acquisition Service
-  - gsa
   - infrastructure
   - innovation
   - mobile

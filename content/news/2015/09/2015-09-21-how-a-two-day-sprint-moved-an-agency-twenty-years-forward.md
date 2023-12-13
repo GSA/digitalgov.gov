@@ -7,7 +7,6 @@ authors:
   - jesse-taggert
 topics:
   - user-experience
-  - 18f
   - agile
   - DOL
   - sprint

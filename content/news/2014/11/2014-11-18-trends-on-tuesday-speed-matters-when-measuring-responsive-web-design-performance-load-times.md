@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - monthly-theme
   - HHS
   - mobile-gov
   - mobile-gov-community-of-practice

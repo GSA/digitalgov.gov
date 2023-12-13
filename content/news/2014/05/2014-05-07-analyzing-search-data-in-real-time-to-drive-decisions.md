@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - data
   - metrics
   - our-work
   - search

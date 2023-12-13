@@ -7,7 +7,6 @@ authors:
   - 18f-team
 topics:
   - code
-  - 18f
   - data-gov
   - DOI
   - DOJ

@@ -6,8 +6,6 @@ summary: '&ldquo;User Experience&rdquo; and &ldquo;Customer Experience.&rdquo; T
 authors:
   - tlowden
 topics:
-  - communities
-  - monthly-theme
   - aoi
   - customer-experience
   - digitalgov-user-experience-program

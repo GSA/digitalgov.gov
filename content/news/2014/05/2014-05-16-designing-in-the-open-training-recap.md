@@ -7,8 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - data
-  - monthly-theme
   - our-work
   - data-gov
   - GitHub

@@ -12,7 +12,6 @@ topics:
   - customer-experience
   - FAS
   - Federal Acquisition Service
-  - gsa
   - IT Schedule 70
   - PBS
   - Public Buildings Service

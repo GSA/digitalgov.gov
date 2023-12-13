@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - content
-  - data
   - product-management
   - mobile
   - social-media
@@ -18,13 +17,11 @@ topics:
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
-  - best-practices
   - big-data
   - blockchain
   - chatbots
   - customer-experience
   - customer-service
-  - data
   - innovation
   - internet-of-things
   - IoT

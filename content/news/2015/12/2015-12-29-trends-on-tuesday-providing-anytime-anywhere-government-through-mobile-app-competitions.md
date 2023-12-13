@@ -8,10 +8,8 @@ authors:
 topics:
   - challenges
   - mobile
-  - monthly-theme
   - apps-challenges
   - challenges-and-prize-competitions
-  - data
   - epa
   - mobile-apps
   - national-institute-of-standards-and-technology

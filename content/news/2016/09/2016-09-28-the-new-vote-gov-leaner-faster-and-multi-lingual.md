@@ -11,7 +11,6 @@ topics:
   - design
   - user-testing-and-research
   - user-experience
-  - 18f
   - analytics
   - cloud
   - cloud-gov
@@ -19,7 +18,6 @@ topics:
   - content-strategy
   - customer-experience
   - draft-web-design-standards
-  - gsa
   - metrics
   - multilingual
   - open-source

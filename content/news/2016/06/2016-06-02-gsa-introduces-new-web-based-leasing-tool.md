@@ -10,7 +10,6 @@ topics:
   - design
   - product-management
   - user-experience
-  - gsa
   - us-general-services-administration
   - web-based
 ---

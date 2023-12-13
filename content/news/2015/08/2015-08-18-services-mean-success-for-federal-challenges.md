@@ -7,7 +7,6 @@ authors:
   - judy-romano
 topics:
   - challenges
-  - monthly-theme
   - Census
   - challenge-gov
   - challenges-and-prize-competitions

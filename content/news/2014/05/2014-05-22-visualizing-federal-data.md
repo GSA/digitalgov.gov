@@ -6,7 +6,6 @@ summary: 'At the U.S. Government Accountability Office (GAO) we have a long hist
 authors:
   - sarah-kaczmarek
 topics:
-  - data
   - design
   - data-visualization
   - GAO

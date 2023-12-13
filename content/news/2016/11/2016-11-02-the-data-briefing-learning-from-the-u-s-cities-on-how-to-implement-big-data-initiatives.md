@@ -6,12 +6,10 @@ summary: 'A recent study of big data initiatives in 65 cities has interesting gu
 authors:
   - bbrantley
 topics:
-  - data
   - product-management
   - strategy
   - policy
   - big-data
-  - data
   - the-data-briefing
 ---
 

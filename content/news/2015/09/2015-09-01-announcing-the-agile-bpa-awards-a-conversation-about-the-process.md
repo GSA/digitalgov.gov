@@ -10,7 +10,6 @@ authors:
   - melody-kramer
 topics:
   - product-management
-  - 18f
   - GitHub
 ---
 

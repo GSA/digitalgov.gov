@@ -10,9 +10,7 @@ topics:
   - our-work
   - analytics
   - dap
-  - data
   - digital-analytics-program
-  - gsa
   - usability
   - usagov
   - user-experience

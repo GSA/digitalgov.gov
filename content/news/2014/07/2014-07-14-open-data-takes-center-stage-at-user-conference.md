@@ -6,9 +6,7 @@ summary: 'This week over 16,000 business leaders and data visionaries from aroun
 authors:
   - lauren-lipovic
 topics:
-  - data
   - Census
-  - data
   - data-visualization
   - department-of-commerce
   - national-oceanic-and-atmospheric-administration

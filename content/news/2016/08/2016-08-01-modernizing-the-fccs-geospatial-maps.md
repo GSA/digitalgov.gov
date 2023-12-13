@@ -8,10 +8,8 @@ authors:
   - allison-baker
   - perryn-ashmore
 topics:
-  - data
   - cloud
   - CMS
-  - data
   - data-visualization
   - FCC
   - federal-communications-commission

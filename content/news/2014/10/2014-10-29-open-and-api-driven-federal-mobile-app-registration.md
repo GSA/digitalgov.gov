@@ -7,10 +7,8 @@ authors:
   - jparcell
 topics:
   - api
-  - communities
   - mobile
   - mobile-apps
-  - monthly-theme
   - aoi
   - federal-mobile-products-registry
   - mobile-ux-guideline-4

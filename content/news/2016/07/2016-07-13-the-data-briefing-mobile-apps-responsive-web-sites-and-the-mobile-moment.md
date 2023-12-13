@@ -6,13 +6,11 @@ summary: 'The debate between responsive websites and mobile apps took a decisive
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
   - ai
   - artificial intelligence
   - big-data
   - customer-experience
-  - data
   - mobile
   - mobile-apps
   - native-apps

@@ -9,9 +9,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
   - dhs
-  - gsa
   - https
   - nasa
   - National Aeronautics and Space Administration

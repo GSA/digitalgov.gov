@@ -7,9 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - api
-  - data
   - Education
   - GitHub
   - us-department-of-education

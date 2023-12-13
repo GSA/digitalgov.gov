@@ -6,12 +6,8 @@ summary: "Around this month&#8217;s Communities Theme, the DigitalGov team thoug
 authors:
   - apiazza
 topics:
-  - communities
-  - monthly-theme
-  - 18f
   - customer-experience
   - Federal CrowdSource Mobile Testing Program
-  - gsa
   - HHS
   - ICE
   - mobile-gov

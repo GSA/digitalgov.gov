@@ -7,7 +7,6 @@ authors:
   - peter-rhee
 topics:
   - content
-  - 18f
   - USDA
 ---
 

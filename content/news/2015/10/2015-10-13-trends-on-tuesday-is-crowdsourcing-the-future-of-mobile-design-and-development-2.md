@@ -8,7 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - monthly-theme
   - apps-challenges
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing

@@ -21,7 +21,6 @@ topics:
   - product-management
   - section-508
   - strategy
-  - best-practices
 
 # See all authors at https://digital.gov/authors
 authors:

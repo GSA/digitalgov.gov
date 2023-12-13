@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - code
-  - 18f
   - GitHub
   - open-source
 ---

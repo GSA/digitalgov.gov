@@ -6,14 +6,11 @@ summary: ' DigitalGov University has hosted some great events over the last year
 authors:
   - apiazza
 topics:
-  - monthly-theme
   - our-work
-  - 18f
   - api
   - CFPB
   - Consumer Financial Protection Bureau
   - content-management-system
-  - data
   - data-gov
   - drupal
   - GitHub

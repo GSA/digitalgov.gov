@@ -6,7 +6,6 @@ summary: 'Cognitive computing has been receiving a good deal of attention lately
 authors:
   - bbrantley
 topics:
-  - data
   - chatbots
   - crowdsourcing
   - internet-of-things

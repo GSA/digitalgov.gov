@@ -8,9 +8,7 @@ authors:
 topics:
   - api
   - code
-  - data
   - api
-  - data
   - GitHub
   - National Weather Service
   - us-department-of-labor

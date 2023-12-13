@@ -7,7 +7,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - monthly-theme
   - user-testing-and-research
   - COPE
   - Federal CrowdSource Mobile Testing Program

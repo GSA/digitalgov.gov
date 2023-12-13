@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
   - acquisition
   - agile
   - innovation

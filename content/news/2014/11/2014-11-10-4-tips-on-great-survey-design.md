@@ -6,7 +6,6 @@ summary: ' Whether they pop up while perusing an e-commerce site or land in your
 authors:
   - georgia-gallavin
 topics:
-  - monthly-theme
   - user-testing-and-research
   - customer-satisfaction
   - digitalgov-user-experience-program

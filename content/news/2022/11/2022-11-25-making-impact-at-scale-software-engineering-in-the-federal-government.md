@@ -16,7 +16,6 @@ authors:
 topics:
   - our-work
   - tts
-  - 10x
   - devops
   - software-engineering
   - usagov

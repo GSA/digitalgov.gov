@@ -16,7 +16,7 @@ summary: "At 18F, we partner with government agencies to help them deliver new
   sustainability and learning to the broader government community."
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
+  - agile
 slug: the-four-operating-levels-of-18f-projects
 # Controls how this page appears across the site
 # 0 -- hidden

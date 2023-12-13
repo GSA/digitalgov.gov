@@ -6,11 +6,8 @@ summary: The Office of Personnel Management released a new look and functionalit
 authors:
   - bbrantley
 topics:
-  - data
-  - monthly-theme
   - agile
   - api
-  - data
   - data-visualization
   - OPM
   - responsive-web-design

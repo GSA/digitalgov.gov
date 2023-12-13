@@ -11,7 +11,6 @@ topics:
   - policy
   - FCC
   - federal-communications-commission
-  - gsa
   - innovation
   - project-management
   - us-general-services-administration

@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - user-experience
-  - 18f
   - accessibility
   - responsive-web-design
   - section-508

@@ -7,10 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
-  - monthly-theme
   - api
-  - data
   - internet-of-things
   - open-data
   - the-data-briefing

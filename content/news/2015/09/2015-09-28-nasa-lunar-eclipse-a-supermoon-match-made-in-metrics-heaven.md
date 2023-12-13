@@ -10,7 +10,6 @@ authors:
 
 topics:
   - metrics
-  - monthly-theme
   - analytics
   - dap
   - nasa

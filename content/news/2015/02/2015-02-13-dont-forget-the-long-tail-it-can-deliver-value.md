@@ -7,7 +7,6 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - content
-  - monthly-theme
   - our-work
   - analytics
   - search

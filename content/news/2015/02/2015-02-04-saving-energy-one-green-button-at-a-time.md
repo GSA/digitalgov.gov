@@ -6,9 +6,7 @@ summary: Conserving energy is not a shot in the dark. Millions of people can now
 authors:
   - awichman
 topics:
-  - data
   - apps-challenges
-  - data
   - department-of-commerce
   - national-institute-of-standards-and-technology
   - NIST

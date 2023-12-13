@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - analytics
-  - data
   - epa
   - recaps
   - us-environmental-protection-agency

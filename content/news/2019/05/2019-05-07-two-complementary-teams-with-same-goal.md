@@ -10,7 +10,6 @@ authors:
   - adam-drake
 topics:
   - product-management
-  - 18f
   - pif
 featured_image:
   uid: pif-lightning-talks

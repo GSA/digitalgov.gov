@@ -8,7 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - monthly-theme
   - user-testing-and-research
   - citizen-science
   - crowdsourcing

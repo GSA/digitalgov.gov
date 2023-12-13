@@ -10,9 +10,7 @@ topics:
   - metrics
   - strategy
   - policy
-  - 18f
   - analytics
-  - best-practices
   - code
   - metrics
 ---

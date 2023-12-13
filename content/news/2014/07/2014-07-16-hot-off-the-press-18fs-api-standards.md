@@ -8,7 +8,6 @@ authors:
   - eric-mill
 topics:
   - api
-  - 18f
   - white-house
 ---
 

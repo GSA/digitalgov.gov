@@ -7,7 +7,6 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - 18f
   - Census
   - CFPB
   - challenge-gov

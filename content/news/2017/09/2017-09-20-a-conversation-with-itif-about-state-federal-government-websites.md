@@ -12,7 +12,6 @@ topics:
   - mobile
   - user-testing-and-research
   - accessibility
-  - communities
   - content
   - content-strategy
   - itif

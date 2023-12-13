@@ -8,7 +8,6 @@ authors:
   - davar-ardalan
 topics:
   - product-management
-  - gsa
   - innovation
   - pif
   - presidential-innovation-fellows

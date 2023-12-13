@@ -16,7 +16,6 @@ topics:
   - FAR
   - FAS
   - Federal Acquisition Service
-  - gsa
   - mobile
   - Office of Governmentwide Policy
   - OGP

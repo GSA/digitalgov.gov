@@ -7,7 +7,6 @@ authors:
   - tammy-white
 topics:
   - challenges
-  - data
   - product-management
   - challenge-gov
   - challenges-and-prize-competitions

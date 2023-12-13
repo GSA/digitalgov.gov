@@ -9,12 +9,9 @@ authors:
 topics:
   - api
   - content
-  - data
   - design
-  - 18f
   - api
   - content
-  - data
   - FEC
   - federal-election-commission
   - GitHub

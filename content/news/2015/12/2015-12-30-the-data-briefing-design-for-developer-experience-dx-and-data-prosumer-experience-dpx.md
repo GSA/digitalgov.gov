@@ -6,9 +6,7 @@ summary: Recently, DigitalGov devoted an entire month to exploring how good user
 authors:
   - bbrantley
 topics:
-  - data
   - api
-  - data
   - the-data-briefing
   - United States Patent and Trademark Office
   - user-experience

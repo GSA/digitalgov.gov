@@ -6,10 +6,8 @@ summary: 'Summary: Significant strides in improving public access to scholarly p
 authors:
   - jerry-sheehan
 topics:
-  - data
   - product-management
   - content
-  - data
   - DoD
   - DOT
   - Education

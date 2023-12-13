@@ -8,9 +8,6 @@ authors:
   - phaedra-chrousos
   - tom-black
 topics:
-  - data
-  - monthly-theme
-  - 18f
   - data-gov
   - Education
   - HHS

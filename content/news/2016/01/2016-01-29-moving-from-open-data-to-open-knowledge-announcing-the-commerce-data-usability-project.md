@@ -8,7 +8,6 @@ authors:
   - tyrone-grandison
   - kristen-honey
 topics:
-  - data
   - Census
   - Commerce
   - data-gov

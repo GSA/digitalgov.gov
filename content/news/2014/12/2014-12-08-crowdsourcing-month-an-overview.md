@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - monthly-theme
   - CFPB
   - challenge-gov
   - challenges-and-prize-competitions
@@ -18,7 +17,6 @@ topics:
   - Consumer Financial Protection Bureau
   - crowdfunding
   - crowdsourcing
-  - data
   - DoD
   - DOE
   - DOT
@@ -45,7 +43,7 @@ topics:
 
 {{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}} 
 
-This month we&#8217;ll be [highlighting articles about crowdsourcing]({{< ref "/topics/monthly-theme" >}}). These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
+This month we&#8217;ll be highlighting articles about crowdsourcing. These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
 
 Among the mechanisms are hackathons, data jams, code-a-thons, prize competitions, workplace surveys, open ideation, micro-tasks or microwork, citizen science, crowdfunding, and more.
 

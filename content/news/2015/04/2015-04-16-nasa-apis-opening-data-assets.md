@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - api
-  - data
   - GitHub
   - nasa
 ---

@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - writing
-  - 18f
   - cdc
   - centers-for-disease-control-and-prevention
   - plain-language

@@ -6,8 +6,6 @@ summary: 'Ok, so it didn’t really break it. But you might notice that the amou
 authors:
   - tlowden
 topics:
-  - data
-  - monthly-theme
   - dap
   - digital-analytics-program
   - United States Postal Service

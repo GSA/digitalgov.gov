@@ -6,10 +6,8 @@ summary: 'Two significant items in federal government data in the last few weeks
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
   - Commerce
-  - data
   - department-of-commerce
   - innovation
   - internet-of-things

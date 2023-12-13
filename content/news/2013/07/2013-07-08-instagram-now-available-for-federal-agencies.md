@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - social-media
-  - gsa
   - socialgov
   - terms-of-service
   - white-house

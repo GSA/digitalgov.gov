@@ -7,14 +7,11 @@ authors:
   - ilee
 topics:
   - code
-  - data
   - metrics
-  - monthly-theme
   - our-work
   - analytics
   - code
   - dap
-  - data
   - digital-analytics-program
   - metrics
 ---

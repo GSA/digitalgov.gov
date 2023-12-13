@@ -10,7 +10,6 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - 18f
   - user-centered-design
   - user research
 

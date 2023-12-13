@@ -7,16 +7,13 @@ authors:
   - gsa-blog-team
 topics:
   - code
-  - data
   - product-management
   - strategy
   - policy
-  - 18f
   - agile
   - cloud
   - cloud-gov
   - code
-  - data
   - budgeting-and-performance
   - budgeting-and-performance
   - FAS

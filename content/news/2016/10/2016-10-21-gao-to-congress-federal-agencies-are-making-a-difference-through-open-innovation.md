@@ -7,7 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - communities
   - crowdsourcing-and-citizen-science
   - product-management
   - strategy

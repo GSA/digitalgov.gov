@@ -19,7 +19,6 @@ summary:
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - gsa
   - ogp
   - architecture
 slug: modernize-your-identity-management-process-through-ilm

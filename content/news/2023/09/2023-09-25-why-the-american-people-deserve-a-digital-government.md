@@ -39,7 +39,6 @@ topics:
   - pra
   - writing
   - performance
-  - best-practices
   - usability
 
 slug: why-the-american-people-deserve-a-digital-government

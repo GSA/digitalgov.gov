@@ -7,8 +7,6 @@ authors:
   - alexander-macgillivray
   - jay-shambaugh
 topics:
-  - data
-  - data
   - OSTP
   - white-house
   - white-house-office-of-science-and-technology-policy

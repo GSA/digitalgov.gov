@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - content
-  - data
   - product-management
   - metrics
   - user-testing-and-research
@@ -17,7 +16,6 @@ topics:
   - artificial intelligence
   - chatbots
   - customer-experience
-  - data
   - FCC
   - federal-communications-commission
   - innovation

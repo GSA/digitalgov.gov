@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - monthly-theme
   - Bureau of Reclamation
   - CFPB
   - challenge-gov
@@ -21,7 +20,6 @@ topics:
   - crowdsourcing
   - epa
   - FCPCCS
-  - gsa
   - HHS
   - innovation
   - nasa

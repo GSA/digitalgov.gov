@@ -7,19 +7,16 @@ authors:
   - melody-kramer
 topics:
   - our-work
-  - 18f
   - accessibility
   - analytics-usa-gov
   - api
   - cloud
   - dap
-  - data
   - digital-analytics-program
   - DOI
   - Education
   - FEC
   - federal-election-commission
-  - gsa
   - https
   - Office of Management and Budget
   - OMB

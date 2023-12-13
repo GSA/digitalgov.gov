@@ -6,7 +6,6 @@ summary: I (virtually) attended the Third Annual Safety Datapalooza last Thursda
 authors:
   - bbrantley
 topics:
-  - data
   - fda
   - the-data-briefing
   - us-food-and-drug-administration

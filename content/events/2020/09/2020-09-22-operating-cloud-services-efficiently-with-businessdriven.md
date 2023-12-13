@@ -27,7 +27,6 @@ topics:
   - cloud
   - cloud-gov
   - budgeting-and-performance
-  - gsa
   - infrastructure
   - tts
 

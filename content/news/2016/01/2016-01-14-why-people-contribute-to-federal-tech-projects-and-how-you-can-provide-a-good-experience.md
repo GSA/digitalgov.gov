@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - our-work
-  - 18f
   - agile
   - open-opportunities-program
   - open-source

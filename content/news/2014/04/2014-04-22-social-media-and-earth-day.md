@@ -11,7 +11,6 @@ authors:
 topics:
   - social-media
   - epa
-  - gsa
   - nasa
   - national-institutes-of-health
   - National Zoological Park

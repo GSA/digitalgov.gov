@@ -6,7 +6,6 @@ summary: 'GSA&#39;s Technology Transformation Services is prototyping a human-ce
 authors:
   - nina-bianchi
 categories:
-  - data
   - design
   - emerging-tech
   - managing-digital

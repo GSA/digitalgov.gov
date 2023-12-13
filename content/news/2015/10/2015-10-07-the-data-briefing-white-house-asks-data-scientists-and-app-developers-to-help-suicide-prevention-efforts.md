@@ -6,7 +6,6 @@ summary: 'The White House issued a call on September 30, 2015, for data scientis
 authors:
   - bbrantley
 topics:
-  - data
   - mobile-apps
   - native-apps
   - open-data

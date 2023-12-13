@@ -7,7 +7,6 @@ authors:
   - clair-koroma
   - kathryn-hambleton
 topics:
-  - communities
   - social-media
   - aoi
   - HHS

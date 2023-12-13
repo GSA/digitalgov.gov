@@ -10,8 +10,6 @@ authors:
   - victor-diaz-zapanta
   - amos-stone
 topics:
-  - data
-  - 18f
   - FEC
   - federal-election-commission
   - open-data

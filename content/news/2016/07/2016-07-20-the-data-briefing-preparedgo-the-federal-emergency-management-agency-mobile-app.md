@@ -6,9 +6,7 @@ summary: While you are outside hunting Pokemon or helping your children hunt Pok
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
-  - data
   - federal-emergency-management-agency
   - fema
   - mobile

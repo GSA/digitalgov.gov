@@ -15,7 +15,6 @@ topics:
   - policy
   - video
   - accessibility
-  - best-practices
   - content
   - content-strategy
   - customer-experience

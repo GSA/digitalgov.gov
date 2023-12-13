@@ -6,13 +6,10 @@ summary: One large issue my team has run into when analyzing and reporting data 
 authors:
   - kelley-holden
 topics:
-  - data
   - metrics
-  - monthly-theme
   - analytics
   - CFPB
   - Consumer Financial Protection Bureau
-  - data
   - data-visualization
   - google-analytics
 ---

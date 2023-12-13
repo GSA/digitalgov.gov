@@ -6,7 +6,6 @@ summary: 'Users have questions. Your content and website navigation can help the
 authors:
   - awichman
 topics:
-  - monthly-theme
   - CFPB
   - Consumer Financial Protection Bureau
   - customer-service

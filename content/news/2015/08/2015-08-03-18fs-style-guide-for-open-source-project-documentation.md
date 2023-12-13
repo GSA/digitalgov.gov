@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - writing
-  - 18f
   - GitHub
   - open-source
 ---

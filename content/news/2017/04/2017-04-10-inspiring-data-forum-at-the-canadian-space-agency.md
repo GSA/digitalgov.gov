@@ -8,10 +8,8 @@ authors:
 topics:
   - api
   - code
-  - data
   - api
   - apps-challenges
-  - data
   - nasa
   - National Aeronautics and Space Administration
   - open

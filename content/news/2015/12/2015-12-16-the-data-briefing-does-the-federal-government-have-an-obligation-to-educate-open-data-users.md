@@ -6,9 +6,7 @@ summary: 'Pop quiz on statistics and data science (answers at the end of the art
 authors:
   - bbrantley
 topics:
-  - data
   - api
-  - data
   - data-visualization
   - DOL
   - HHS

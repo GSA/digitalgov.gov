@@ -7,7 +7,6 @@ authors:
   - alison-sturgeon
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - Ex-Im Bank
   - federal-student-aid
