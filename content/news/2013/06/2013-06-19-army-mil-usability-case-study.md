@@ -8,8 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - DoD
-  
-  
   - usability
   - usability-case-study
   - usability-testing
