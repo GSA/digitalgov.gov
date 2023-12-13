@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - policy
   - privacy
-  - Privacy Impact Assessment
   - social-media
   - terms-of-service
 ---

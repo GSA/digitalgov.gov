@@ -10,7 +10,7 @@ topics:
   - social-media
   - content-strategy
   - policy
-  - Privacy Impact Assessment
+  - privacy
   - social-media
 ---
 
