@@ -13,7 +13,6 @@ topics:
   - department-of-commerce
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  
 ---
 
 This week over 16,000 business leaders and data visionaries from around the world will convene for the 2014 Environmental Systems Research Institute (ESRI) Users Conference in San Diego. Commerce Secretary Penny Pritzker, NOAA Administrator Dr. Kathy Sullivan, and Under Secretary for Economic Affairs Dr. Mark Doms will join representatives from Census and NOAA to highlight the work of the Commerce Department over the last year and to share their vision for the Commerce Department’s data transformation in the coming year. Open federal data spurs civic innovation and business growth and this is why the Commerce Department has made data a top priority in its current five year strategic plan.
