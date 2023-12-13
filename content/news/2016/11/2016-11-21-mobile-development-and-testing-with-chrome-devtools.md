@@ -11,8 +11,6 @@ topics:
   - design
   - mobile
   - code
-  - mobile
-  - mobile-testing
 
 ---
 

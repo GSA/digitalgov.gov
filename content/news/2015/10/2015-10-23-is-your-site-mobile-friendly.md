@@ -7,9 +7,8 @@ authors:
   - david-fern
 topics:
   - monthly-theme
-  - mobile-testing
-  - mobile-ux-guideline-4
   - mobile
+  - mobile-ux-guideline-4
   - usability
 ---
 

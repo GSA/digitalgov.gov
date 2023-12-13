@@ -1,3 +1,4 @@
+
 ---
 slug: the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices
 date: 2015-06-09 11:10:14 -0400
@@ -9,9 +10,6 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - mobile
-  - mobile
-  - mobile-testing
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - native-app

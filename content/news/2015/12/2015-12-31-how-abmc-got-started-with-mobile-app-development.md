@@ -7,8 +7,6 @@ authors:
   - jenny-johnson
 topics:
   - mobile
-  - mobile
-  - mobile-testing
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4
   - native-apps

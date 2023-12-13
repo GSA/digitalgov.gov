@@ -8,10 +8,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile-testing
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4
   - native-app

@@ -6,8 +6,6 @@ summary: 'What if Thomas Edison Didn’t Use Test Cases? &ldquo;I have not faile
 topics:
   - mobile
   - user-testing-and-research
-  - mobile
-  - mobile-testing
 
 ---
 

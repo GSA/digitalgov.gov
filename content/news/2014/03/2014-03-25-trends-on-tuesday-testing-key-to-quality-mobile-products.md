@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - mobile
-  - mobile-testing
   - emerging-tech
 ---
 

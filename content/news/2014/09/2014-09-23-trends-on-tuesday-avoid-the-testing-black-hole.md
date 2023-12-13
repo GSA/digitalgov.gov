@@ -7,8 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile
-  - mobile-testing
   - mobile-ux-guideline-4
   - responsive-web-design
   - SSA
