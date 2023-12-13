@@ -7,9 +7,7 @@ authors:
   - jenny-johnson
 topics:
   - mobile
-  - mobile
   - ios
-  - native-apps
   - responsive-web-design
   - thursday-mobile-products
 

@@ -8,10 +8,6 @@ authors:
 topics:
   - ios
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - native-apps
   - responsive-web-design
   - terms-of-service
   - emerging-tech

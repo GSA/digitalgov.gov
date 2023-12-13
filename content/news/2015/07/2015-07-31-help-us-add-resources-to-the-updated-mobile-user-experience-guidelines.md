@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - mobile
-  - native-apps
   - responsive-web-design
   - security
 ---

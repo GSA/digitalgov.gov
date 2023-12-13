@@ -7,9 +7,6 @@ authors:
   - jenny-johnson
 topics:
   - mobile
-  - mobile
-  - mobile
-  - native-apps
   - user-experience
 
 ---

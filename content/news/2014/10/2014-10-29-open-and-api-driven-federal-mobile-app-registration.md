@@ -9,13 +9,8 @@ topics:
   - application-programming-interface
   - communities
   - mobile
-  - mobile
   - monthly-theme
   - aoi
-  - mobile
-  - mobile
-  - mobile
-  - native-apps
   - open-data
   - thursday-mobile-products
  

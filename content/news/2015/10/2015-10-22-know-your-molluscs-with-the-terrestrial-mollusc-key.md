@@ -7,8 +7,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - mobile
-  - native-apps
   - thursday-mobile-products
 
 ---

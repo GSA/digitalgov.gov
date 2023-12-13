@@ -9,7 +9,6 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - native-apps
   - user-experience
   
 ---

@@ -5,10 +5,7 @@ title: Three New Mobile Apps Honor Fallen Veterans Overseas
 summary: "The American Battle Monuments Commission (ABMC) released three new mobile apps this summer to honor fallen veterans in overseas cemeteries in Belgium, France, and Italy."
 topics:
   - mobile
-  - mobile
   - ios
-  - mobile
-  - native-apps
   - thursday-mobile-products
  
 

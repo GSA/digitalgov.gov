@@ -1,3 +1,4 @@
+
 ---
 slug: track-time-and-wages-with-labors-timesheet-app
 date: 2015-09-24 10:00:37 -0400
@@ -7,8 +8,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - mobile
-  - native-apps
   - thursday-mobile-products
  
 

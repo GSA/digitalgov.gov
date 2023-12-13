@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - mobile
-  - native-apps
   - thursday-mobile-products
 
 ---

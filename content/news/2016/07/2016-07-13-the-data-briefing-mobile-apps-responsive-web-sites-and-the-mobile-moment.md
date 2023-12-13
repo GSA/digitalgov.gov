@@ -12,9 +12,6 @@ topics:
   - analytics
   - customer-experience
   - data
-  - mobile
-  - mobile
-  - native-apps
   - open-data
   - responsive-web-design
   - emerging-tech

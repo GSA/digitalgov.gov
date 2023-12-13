@@ -12,9 +12,7 @@ topics:
   - Census
   - challenges-and-prize-competitions
   - epa
-  - mobile
   - national-institute-of-standards-and-technology
-  - native-apps
   - NIST
   - open-data
   - thursday-mobile-products

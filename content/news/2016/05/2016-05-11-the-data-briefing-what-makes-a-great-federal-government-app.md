@@ -8,9 +8,6 @@ authors:
 topics:
   - data
   - mobile
-  - mobile
-  - mobile
-  - native-apps
   - emerging-tech
   - usagov
 

@@ -10,9 +10,6 @@ topics:
   - data
   - mobile
   - application-programming-interface
-  - mobile
-  - mobile
-  - native-apps
   - open-data
   - responsive-web-design
   - emerging-tech

@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - mobile
-  - native-apps
   - open-data
   - emerging-tech
 

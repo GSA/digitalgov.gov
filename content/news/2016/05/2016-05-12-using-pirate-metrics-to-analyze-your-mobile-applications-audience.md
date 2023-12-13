@@ -9,10 +9,6 @@ topics:
   - analytics
   - mobile
   - analytics
-  - mobile
-  - mobile
-  - mobile
-  - native-apps
   - design
   - recaps
 

@@ -9,9 +9,6 @@ topics:
   - accessibility
   - mobile
   - accessibility
-  - mobile
-  - mobile
-  - native-apps
   - emerging-tech
   - us-access-board
 ---

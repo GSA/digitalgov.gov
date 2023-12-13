@@ -14,9 +14,6 @@ topics:
   - user-experience
   - code
   - innovation
-  - mobile
-  - mobile
-  - native-apps
 
 ---
 
