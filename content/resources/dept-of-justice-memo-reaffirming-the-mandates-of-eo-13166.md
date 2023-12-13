@@ -6,7 +6,6 @@ summary: "Executive Order 13166 was issued in August of 2000 and this memorandum
 topics:
   - multilingual
   - lep
-  - policy
 authors:
   - apiazza
 

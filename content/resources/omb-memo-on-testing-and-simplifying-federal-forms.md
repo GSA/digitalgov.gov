@@ -4,7 +4,7 @@ date: 2015-12-03 1:06:55 -0400
 title: OMB Memo on Testing and Simplifying Federal Forms
 summary: "View or download the OMB Memo on Testing and Simplifying Federal Forms"
 topics:
-  - policy
+  - agile
 authors:
   - apiazza
 

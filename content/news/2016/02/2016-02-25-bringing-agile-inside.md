@@ -8,7 +8,6 @@ authors:
 topics:
   - governance
   - strategy
-  - policy
   - user-testing-and-research
   - innovation
 ---

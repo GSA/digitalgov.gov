@@ -9,7 +9,6 @@ topics:
   - product-management
   - mobile
   - strategy
-  - policy
   - NIST
   - security
   - united-states-department-of-homeland-security

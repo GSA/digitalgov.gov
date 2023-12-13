@@ -8,9 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
-  
-  
   - gsa
   - innovation
   - project-management

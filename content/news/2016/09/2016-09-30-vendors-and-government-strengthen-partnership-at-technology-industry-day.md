@@ -10,7 +10,6 @@ topics:
   - data
   - product-management
   - strategy
-  - policy
   - 18f
   - agile
   - cloud

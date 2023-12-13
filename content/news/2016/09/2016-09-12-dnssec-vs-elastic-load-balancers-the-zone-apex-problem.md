@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - our-work
   - strategy
-  - policy
   - cloud-and-infrastructure
   - search
   - infrastructure

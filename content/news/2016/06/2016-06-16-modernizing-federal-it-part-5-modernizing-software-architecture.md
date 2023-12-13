@@ -9,7 +9,6 @@ topics:
   - code
   - product-management
   - strategy
-  - policy
   - architecture
   - infrastructure
 ---

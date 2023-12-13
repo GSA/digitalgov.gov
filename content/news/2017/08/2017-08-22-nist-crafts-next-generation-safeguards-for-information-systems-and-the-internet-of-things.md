@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - strategy
-  - policy
   - internet-of-things
   - IoT
   - NIST

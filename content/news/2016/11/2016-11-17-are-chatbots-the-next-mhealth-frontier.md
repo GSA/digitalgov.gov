@@ -11,7 +11,6 @@ topics:
   - mobile
   - social-media
   - strategy
-  - policy
   - chatbots
   - mobile
   - mobile-apps

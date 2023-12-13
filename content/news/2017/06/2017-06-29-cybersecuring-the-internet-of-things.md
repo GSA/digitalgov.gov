@@ -9,7 +9,6 @@ topics:
   - data
   - mobile
   - strategy
-  - policy
   - infrastructure
   - internet-of-things
   - IoT

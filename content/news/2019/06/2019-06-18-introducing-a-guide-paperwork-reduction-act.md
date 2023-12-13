@@ -13,7 +13,6 @@ authors:
 topics:
   - product-management
   - pra
-  - policy
 
 featured_image:
 primary_image: "pra-guide-launch"

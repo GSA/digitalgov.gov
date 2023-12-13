@@ -5,7 +5,6 @@ title: Social Media, Web-Based Interactive Technologies, and the Paperwork Reduc
 summary: "This memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to federal agency use of social media and web-based interactive technologies."
 topics:
   - social-media
-  - policy
   - pra
 
 ---

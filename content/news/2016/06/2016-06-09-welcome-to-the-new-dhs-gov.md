@@ -12,7 +12,6 @@ topics:
   - product-management
   - mobile
   - strategy
-  - policy
   - "508"
   - accessibility
   - content

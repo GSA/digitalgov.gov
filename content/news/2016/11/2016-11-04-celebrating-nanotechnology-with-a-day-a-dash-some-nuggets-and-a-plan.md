@@ -10,7 +10,6 @@ topics:
   - governance
   - product-management
   - strategy
-  - policy
   - innovation
   - OSTP
   

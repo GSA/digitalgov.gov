@@ -19,7 +19,6 @@ summary: "GSA officially released the ‘website standards’ referenced in Sect
 topics:
   - uswds
   - 21st-century-idea
-  - policy
 
 # see all authors at https://digital.gov/authors
 authors:

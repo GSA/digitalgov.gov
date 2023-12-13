@@ -22,7 +22,6 @@ topics:
   - our-work
   - social-media
   - strategy
-  - policy
   - user-testing-and-research
   - user-experience
   - 18f

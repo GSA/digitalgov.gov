@@ -10,9 +10,7 @@ topics:
   - mobile
   - social-media
   - strategy
-  - policy
   - data
-  
   - innovation
   - united-states-department-of-health-and-human-services
   - video

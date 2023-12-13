@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - strategy
-  - policy
   - api
   - OPM
   - united-states-office-of-personnel-management

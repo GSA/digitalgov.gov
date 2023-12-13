@@ -9,11 +9,9 @@ authors:
   - kristy-singletary
 topics:
   - strategy
-  - policy
   - user-testing-and-research
   - 18f
   - agile
-  
   - kanban
   - lean
   - sprint

@@ -10,7 +10,6 @@ topics:
   - product-management
   - social-media
   - strategy
-  - policy
   - writing
   - aids-gov
   - content-strategy

@@ -4,7 +4,7 @@ date: 2015-11-05 2:08:03 -0400
 title: Implications of Recent Web Technologies for NARA Web Guidance
 summary: "This document explores some of  the emerging web applications and their impact on records management. In its early days, the web was seen largely as a place to post static documents that were Internet-accessible. More recently, it is seen as a tool for facilitating collaboration across geographic and institutional boundaries. This document examines four applications"
 topics:
-  - policy
+  - agile
 authors:
   - apiazza
 ---

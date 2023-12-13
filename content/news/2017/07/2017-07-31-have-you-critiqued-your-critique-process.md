@@ -10,7 +10,6 @@ topics:
   - design
   - product-management
   - strategy
-  - policy
   - user-testing-and-research
   - user-experience
   

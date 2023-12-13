@@ -14,7 +14,6 @@ topics:
   - mobile
   - social-media
   - strategy
-  - policy
   - video
   - audio-video
   - records-management

@@ -34,7 +34,6 @@ topics:
   - data
   - api
   - code
-  - policy
   - open-source
   - open-data
 

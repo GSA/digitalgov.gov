@@ -9,7 +9,6 @@ authors:
 topics:
   - design
   - strategy
-  - policy
   - user-testing-and-research
   - us-department-of-state
   - user-centered-design

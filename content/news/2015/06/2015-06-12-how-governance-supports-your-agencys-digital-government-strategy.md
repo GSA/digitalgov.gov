@@ -9,7 +9,6 @@ topics:
   - governance
   - product-management
   - strategy
-  - policy
   
   - united-states-department-of-health-and-human-services
 ---

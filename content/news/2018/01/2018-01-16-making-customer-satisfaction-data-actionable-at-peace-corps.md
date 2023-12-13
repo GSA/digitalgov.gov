@@ -9,7 +9,6 @@ topics:
   - data
   - metrics
   - strategy
-  - policy
   - design
   - user-testing-and-research
   - metrics

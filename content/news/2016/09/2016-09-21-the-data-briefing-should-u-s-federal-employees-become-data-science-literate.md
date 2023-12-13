@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - strategy
-  - policy
   - data
   - open-data
   - the-data-briefing

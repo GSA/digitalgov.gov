@@ -23,7 +23,6 @@ topics:
   - strategy
   - design
   - research
-  - policy
 slug: next-for-the-u-s-web-design-system
 # Controls how this page appears across the site
 # 0 -- hidden

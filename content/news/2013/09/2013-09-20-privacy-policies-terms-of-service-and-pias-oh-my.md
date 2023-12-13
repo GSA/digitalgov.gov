@@ -7,7 +7,6 @@ authors:
   - cheryl-hackley
 topics:
   - strategy
-  - policy
   - privacy
   - Privacy Impact Assessment
   - social-media

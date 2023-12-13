@@ -32,7 +32,6 @@ topics:
   - metrics
   - privacy
   - security
-  - policy
   - accessibility
   - governance
   - mobile

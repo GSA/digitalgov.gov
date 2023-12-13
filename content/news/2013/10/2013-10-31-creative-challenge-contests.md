@@ -9,7 +9,6 @@ topics:
   - challenges
   - product-management
   - strategy
-  - policy
   - analytics
   - apps-challenges
   - challenge-gov

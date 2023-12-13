@@ -9,7 +9,6 @@ topics:
   - product-management
   - monthly-theme
   - strategy
-  - policy
   - 18f
   - agile
   

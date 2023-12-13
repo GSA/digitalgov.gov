@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - user-testing-and-research
   - 18f
   - agile

@@ -10,7 +10,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - content-strategy
   - social-media
   - social-media-metrics

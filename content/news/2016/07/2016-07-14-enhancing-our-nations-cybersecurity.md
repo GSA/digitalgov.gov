@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - acquisition
   - gsa
   - IT Schedule 70

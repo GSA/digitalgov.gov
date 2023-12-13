@@ -10,8 +10,6 @@ topics:
   - content
   - governance
   - strategy
-  - policy
-  
   - content-management-system
   
 ---

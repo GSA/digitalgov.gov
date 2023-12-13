@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - strategy
-  - policy
   - social-media
   - terms-of-service
 ---

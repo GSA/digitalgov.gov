@@ -12,7 +12,6 @@ authors:
 topics:
   - governance
   - strategy
-  - policy
   - OSTP
   - US Department of Agriculture
   - us-environmental-protection-agency

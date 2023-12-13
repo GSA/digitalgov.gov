@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - ai
   - artificial intelligence
   - chatbots

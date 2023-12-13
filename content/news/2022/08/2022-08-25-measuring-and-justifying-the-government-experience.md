@@ -20,8 +20,6 @@ summary: "Private sector organizations use revenue as the primary measurement to
   users, and saving time for employees."
 # See all topics at https://digital.gov/topics
 topics:
-  
-  - policy
   - governance
   - metrics
   - data

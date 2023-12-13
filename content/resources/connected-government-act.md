@@ -9,7 +9,6 @@ featured_image:
 topics:
   - product-management
   - mobile
-  - policy
   - mobile-apps
   - design
   - user-centered-design

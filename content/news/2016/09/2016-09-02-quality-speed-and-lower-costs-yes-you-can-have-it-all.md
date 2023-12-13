@@ -13,7 +13,6 @@ topics:
   - monthly-theme
   - our-work
   - strategy
-  - policy
   - search
   - infrastructure
 ---

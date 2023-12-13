@@ -7,7 +7,6 @@ authors:
   - brian-fox
 topics:
   - strategy
-  - policy
   - communication
 ---
 
