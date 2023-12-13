@@ -11,7 +11,7 @@ topics:
   - DOL
   - mobile-code-catalog
   - open-and-structured-content-models
-  - open-opportunities-program
+  - professional-development
   - us-department-of-labor
   - us-department-of-state
 ---

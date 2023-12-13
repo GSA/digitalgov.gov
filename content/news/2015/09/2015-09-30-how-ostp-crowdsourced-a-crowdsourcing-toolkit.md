@@ -17,7 +17,7 @@ topics:
   - digital-analytics-program
   - search
   - FCPCCS
-  - open-opportunities-program
+  - professional-development
   - OSTP
   - section-508
   - sites

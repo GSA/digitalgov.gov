@@ -40,7 +40,7 @@ topics:
   - metrics
   - mobile
   - open-data
-  - open-opportunities-program
+  - professional-development
   - social-media
   - training
   - virtual-reality

@@ -15,7 +15,7 @@ topics:
   - drupal
   - mobile
   - open-data
-  - open-opportunities-program
+  - professional-development
   - plain-language
 ---
 

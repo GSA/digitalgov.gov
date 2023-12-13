@@ -13,7 +13,7 @@ topics:
   - customer-experience
   - budgeting-and-performance
   - mobile-gov
-  - open-opportunities-program
+  - professional-development
   - socialgov
   - user-experience
   - web-content-managers-forum

@@ -13,7 +13,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - NPS
-  - open-opportunities-program
+  - professional-development
   - open-source
   - us-department-of-labor
   - us-national-park-service
