@@ -10,7 +10,7 @@ authors:
 topics:
   - accessibility
   - user-experience
-  - video
+  - multimedia
   - social-media
 ---
 

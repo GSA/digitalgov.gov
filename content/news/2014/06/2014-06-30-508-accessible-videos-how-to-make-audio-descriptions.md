@@ -9,7 +9,7 @@ authors:
   - gary-morin
 topics:
   - accessibility
-  - video
+  - multimedia
   - DOJ
   - nasa
   - us-department-of-justice

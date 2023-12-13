@@ -6,7 +6,7 @@ summary: ' Videographers in the federal government come from a variety of backgr
 authors:
   - jini-ryan
 topics:
-  - video
+  - multimedia
   - us-customs-and-border-protection
   - epa
   - US Customs and Border Protection

@@ -7,7 +7,7 @@ authors:
   - jini-ryan
 topics:
   - content-strategy
-  - video
+  - multimedia
   - apps-challenges
   - epa
   - us-environmental-protection-agency

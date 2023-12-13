@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - video
+  - multimedia
   - cdc
   - centers-for-disease-control-and-prevention
   - fda

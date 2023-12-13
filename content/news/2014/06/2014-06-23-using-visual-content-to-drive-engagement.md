@@ -10,7 +10,7 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - video
+  - multimedia
   - communication
   - usagov
 

@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - monthly-theme
   - social-media
-  - video
+  - multimedia
   - bbg
   - broadcasting-board-of-governors
   - content-strategy

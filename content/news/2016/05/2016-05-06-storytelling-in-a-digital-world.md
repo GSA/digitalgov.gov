@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - content-strategy
-  - video
+  - multimedia
   - content-strategy
   - epa
   - us-environmental-protection-agency

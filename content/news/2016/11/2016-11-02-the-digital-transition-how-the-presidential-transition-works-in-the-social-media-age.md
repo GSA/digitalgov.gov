@@ -15,7 +15,7 @@ topics:
   - social-media
   - content-strategy
   - policy
-  - video
+  - multimedia
   - multimedia
   - records-management
   - executive-office-of-the-president

@@ -8,10 +8,10 @@ authors:
 topics:
   - design
   - user-experience
-  - video
+  - multimedia
   - multimedia
   - emerging-tech
-  - video
+  - multimedia
   - video-production-pros-community
   - virtual-reality
   - virtual-augmented-reality-community

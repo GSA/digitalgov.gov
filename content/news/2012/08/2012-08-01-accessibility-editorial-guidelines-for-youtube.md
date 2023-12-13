@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - content-strategy
-  - video
+  - multimedia
   - multilingual
   - multilingual
   - us-access-board

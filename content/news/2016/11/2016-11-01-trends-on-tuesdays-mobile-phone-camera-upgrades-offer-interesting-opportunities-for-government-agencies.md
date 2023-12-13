@@ -9,14 +9,14 @@ topics:
   - content-strategy
   - product-management
   - social-media
-  - video
+  - multimedia
   - multimedia
   - content-strategy
   - mobile
   - mobile
   - social-media
   - emerging-tech
-  - video
+  - multimedia
 
 ---
 

@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - content-strategy
-  - video
+  - multimedia
   - accessibility
   - privacy
 ---

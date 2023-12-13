@@ -10,7 +10,7 @@ topics:
   - product-management
   - analytics
   - mobile
-  - video
+  - multimedia
   - analytics
   - multimedia
   - content-strategy
@@ -19,7 +19,7 @@ topics:
   - analytics
   - mobile
   - recaps
-  - video
+  - multimedia
   - virtual-reality
   - virtual-augmented-reality-community
 

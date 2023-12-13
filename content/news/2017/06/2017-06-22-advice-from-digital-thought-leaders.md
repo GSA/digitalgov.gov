@@ -15,7 +15,7 @@ topics:
   - HHS
   - innovation
   - united-states-department-of-health-and-human-services
-  - video
+  - multimedia
   - video-production-pros-community
   - virtual-reality
   - virtual-augmented-reality-community

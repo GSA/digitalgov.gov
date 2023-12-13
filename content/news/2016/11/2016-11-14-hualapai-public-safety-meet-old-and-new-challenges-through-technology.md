@@ -15,7 +15,7 @@ topics:
   - content-strategy
   - policy
   - user-testing-and-research
-  - video
+  - multimedia
   - multimedia
   - data
   - firstnet
@@ -23,7 +23,7 @@ topics:
   - us-national-park-service
   - nps
   - user-research
-  - video
+  - multimedia
 
 ---
 

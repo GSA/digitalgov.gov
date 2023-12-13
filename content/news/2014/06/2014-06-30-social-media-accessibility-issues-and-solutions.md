@@ -9,7 +9,7 @@ topics:
   - accessibility
   - monthly-theme
   - social-media
-  - video
+  - multimedia
   - communication
   - accessibility
   - crowdsourcing-and-citizen-science

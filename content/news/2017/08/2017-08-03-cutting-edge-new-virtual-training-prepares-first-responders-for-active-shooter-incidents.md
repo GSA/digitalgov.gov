@@ -11,7 +11,7 @@ topics:
   - policy
   - user-testing-and-research
   - user-experience
-  - video
+  - multimedia
   - multimedia
   - emerging-tech
   - dhs
@@ -21,7 +21,7 @@ topics:
   - Training
   - united-states-army
   - united-states-department-of-homeland-security
-  - video
+  - multimedia
   - video-production-pros-community
   - virtual-reality
   - virtual-augmented-reality-community

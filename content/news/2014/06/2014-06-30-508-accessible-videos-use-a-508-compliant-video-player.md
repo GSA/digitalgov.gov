@@ -9,7 +9,7 @@ authors:
   - gary-morin
 topics:
   - accessibility
-  - video
+  - multimedia
   - us-access-board
   - social-media
 ---

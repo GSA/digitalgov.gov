@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - content-strategy
-  - video
+  - multimedia
 ---
 
 [{{< legacy-img src="2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/b7-copyright-pic.jpg)

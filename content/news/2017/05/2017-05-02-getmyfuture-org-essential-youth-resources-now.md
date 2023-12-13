@@ -17,7 +17,7 @@ topics:
   - mobile
   - user-centered-design
   - user-experience
-  - video
+  - multimedia
   - video-production-pros-community
 ---
 

@@ -7,7 +7,7 @@ authors:
   - katie-gorscak
 topics:
   - content-strategy
-  - video
+  - multimedia
   - HHS
   - united-states-department-of-health-and-human-services
 ---

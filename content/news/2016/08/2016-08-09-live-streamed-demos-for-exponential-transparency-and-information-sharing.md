@@ -11,11 +11,11 @@ topics:
   - product-management
   - content-strategy
   - policy
-  - video
+  - multimedia
   - 18f
   - multimedia
   - multimedia
-  - video
+  - multimedia
 
 ---
 

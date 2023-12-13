@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - our-work
   - social-media
-  - video
+  - multimedia
   - search
 ---
 

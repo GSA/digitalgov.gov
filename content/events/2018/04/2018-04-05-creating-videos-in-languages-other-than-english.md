@@ -22,7 +22,7 @@ topics:
   - multimedia
   - content-strategy
   - multilingual
-  - video
+  - multimedia
   - multilingual
   - multimedia
   - video-production-pros-community

@@ -8,11 +8,11 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - video
+  - multimedia
   - multimedia
   - content-strategy
   - social-media
-  - video
+  - multimedia
   - video-production-pros-community
 ---
 

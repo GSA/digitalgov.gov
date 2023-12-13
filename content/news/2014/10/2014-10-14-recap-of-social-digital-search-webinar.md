@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - our-work
   - social-media
-  - video
+  - multimedia
   - search
   - federal-register
   - National Library of Medicine

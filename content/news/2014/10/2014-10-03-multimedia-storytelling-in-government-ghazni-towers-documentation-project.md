@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - video
+  - multimedia
   - analytics
   - multimedia
   - us-department-of-state

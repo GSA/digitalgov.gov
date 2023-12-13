@@ -13,7 +13,7 @@ topics:
   - social-media
   - content-strategy
   - policy
-  - video
+  - multimedia
   - accessibility
   - best-practices
   - content-strategy
@@ -23,7 +23,7 @@ topics:
   - social-media
   - usagov
   - user-experience
-  - video
+  - multimedia
 
 ---
 

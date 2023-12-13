@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - user-experience
-  - video
+  - multimedia
 
 ---
 

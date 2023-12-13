@@ -6,7 +6,7 @@ summary: ' The answer may surprise you. It takes time, resources and actual mone
 authors:
   - edgardo-morales
 topics:
-  - video
+  - multimedia
   - multilingual
   - multilingual
   - usagov

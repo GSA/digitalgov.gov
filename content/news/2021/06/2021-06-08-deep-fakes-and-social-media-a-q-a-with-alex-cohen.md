@@ -11,7 +11,7 @@ summary: The questions in this post were curated from attendees of the Deep
 topics:
   - social-media
   - emerging-tech
-  - video
+  - multimedia
   - socialgov-community
 # See all authors at https://digital.gov/authors
 authors:

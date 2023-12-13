@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - video
+  - multimedia
   - communication
   - cdc
   - centers-for-disease-control-and-prevention

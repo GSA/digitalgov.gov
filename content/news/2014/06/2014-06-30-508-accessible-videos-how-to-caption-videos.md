@@ -9,7 +9,7 @@ authors:
   - jonathan-rubin
 topics:
   - accessibility
-  - video
+  - multimedia
   - social-media
 ---
 

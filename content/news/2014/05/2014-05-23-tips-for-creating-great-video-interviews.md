@@ -6,7 +6,7 @@ summary: ' At Kids.gov, we noticed a lot of our search terms were for different 
 authors:
   - arlene-hernandez
 topics:
-  - video
+  - multimedia
   - smithsonian-institution
   - white-house
 ---

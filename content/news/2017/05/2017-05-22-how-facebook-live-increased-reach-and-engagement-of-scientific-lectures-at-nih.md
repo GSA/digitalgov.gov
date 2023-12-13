@@ -10,7 +10,7 @@ topics:
   - analytics
   - mobile
   - social-media
-  - video
+  - multimedia
   - multimedia
   - National Center for Complementary and Integrative Health
   - national-institutes-of-health
@@ -18,7 +18,7 @@ topics:
   - nih
   - social-media
   - social-media-metrics
-  - video
+  - multimedia
   - video-production-pros-community
 ---
 

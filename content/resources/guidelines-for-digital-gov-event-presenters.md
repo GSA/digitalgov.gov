@@ -8,7 +8,7 @@ topics:
   - communication
   - best-practices
   - multimedia
-  - video
+  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - bonnie-cameron
