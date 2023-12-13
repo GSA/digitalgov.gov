@@ -8,7 +8,6 @@ authors:
   - lmartinez
 topics:
   - content-strategy
-  - ANLE
   - cdc
   - Census
   - centers-for-disease-control-and-prevention

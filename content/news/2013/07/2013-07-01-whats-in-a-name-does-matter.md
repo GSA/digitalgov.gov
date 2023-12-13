@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - ANLE
   - customer-experience
   - GobiernoUSAgov
   - LEP
