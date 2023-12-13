@@ -12,7 +12,6 @@ topics:
   - digital-analytics-program
   - mobile
   - nasa
-  - NPS
   - social-media
 
 ---

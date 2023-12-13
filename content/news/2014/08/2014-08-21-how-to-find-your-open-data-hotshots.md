@@ -15,8 +15,6 @@ topics:
   - epa
   - metadata
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-data
   - us-environmental-protection-agency
   - united-states-census-bureau

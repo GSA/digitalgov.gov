@@ -14,7 +14,6 @@ topics:
   - aoi
   - GPS
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
   - trends-on-tuesday
   - us-department-of-veterans-affairs
 ---

@@ -12,8 +12,6 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - Internal Revenue Service
   - IRS
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - transportation-security-administration
   - TSA
   - united-states-department-of-defense

@@ -16,7 +16,6 @@ topics:
   - mobile-apps
   - national-institute-of-standards-and-technology
   - National Institute on Drug Abuse
-  - NIST
   - trends-on-tuesday
   - us-environmental-protection-agency
 ---

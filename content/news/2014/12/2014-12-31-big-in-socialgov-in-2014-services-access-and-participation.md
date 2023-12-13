@@ -21,9 +21,6 @@ topics:
   - national-archives-and-records-administration
   - National Highway Traffic Safety Administration
   - National Library of Medicine
-  - national-oceanic-and-atmospheric-administration
-  - NLM
-  - NOAA
   - ODNI
   - peace-corps
   - socialgov-community

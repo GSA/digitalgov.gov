@@ -19,8 +19,6 @@ topics:
   - mobile-apps
   - NARA
   - national-archives-and-records-administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-government
   - united-states-department-of-energy
   - united-states-geological-survey

@@ -12,7 +12,6 @@ topics:
   - challenges-and-prize-competitions
   - nasa
   - national-science-foundation
-  - nsf
 ---
 
 Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. {{< legacy-img src="2016/01/600-x-400-High-School-Students-Create-Winning-Design-for-NASAs-First-Flight-of-Orion-14-119-edc_0.jpg" alt="NASA’s Administrator, Charles Bolden (left), Marillyn Hewson, President/CEO of Lockheed Martin (right), and astronaut Rex Walheim (back) stand with Team ARES, from the Governors School for Science and Technology in Hampton, Va., winners of the Exploration Design Challenge high school competition." caption="" >}}

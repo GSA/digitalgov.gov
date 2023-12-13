@@ -13,7 +13,6 @@ topics:
   - HHS
   - national-institutes-of-health
   - NCI
-  - nih
   - social-media
   - united-states-department-of-health-and-human-services
 ---

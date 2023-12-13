@@ -13,7 +13,6 @@ topics:
   - dhs
   - mobile
   - national-institute-of-standards-and-technology
-  - NIST
   - security
   - united-states-department-of-homeland-security
 ---

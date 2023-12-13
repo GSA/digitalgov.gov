@@ -21,8 +21,6 @@ topics:
   - national-day-of-civic-hacking
   - national-institutes-of-health
   - national-science-foundation
-  - nih
-  - nsf
   - peace-corps
   - SBA
   - us-agency-for-international-development

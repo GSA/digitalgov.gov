@@ -16,7 +16,6 @@ topics:
   - content-models
   - COPE
   - national-institutes-of-health
-  - nih
   - open-and-structured-content-models
   - sites
   - the-content-corner

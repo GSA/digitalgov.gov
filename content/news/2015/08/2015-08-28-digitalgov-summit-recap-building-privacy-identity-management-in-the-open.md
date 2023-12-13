@@ -11,7 +11,6 @@ topics:
   - our-work
   - digitalgov-summit
   - DOT
-  - NIST
   - recaps
   - united-states-department-of-transportation
 

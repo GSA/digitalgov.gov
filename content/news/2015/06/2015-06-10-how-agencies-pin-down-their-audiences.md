@@ -14,7 +14,6 @@ topics:
   - gsa
   - nasa
   - national-institutes-of-health
-  - nih
   - social-media
 ---
 

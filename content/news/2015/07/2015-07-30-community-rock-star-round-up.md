@@ -16,7 +16,6 @@ topics:
   - ICE
   - mobile-gov
   - NCI
-  - nih
   - open-and-structured-content-models
   - OPM
   - socialgov-community

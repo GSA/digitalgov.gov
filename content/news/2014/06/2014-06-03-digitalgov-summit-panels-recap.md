@@ -22,7 +22,6 @@ topics:
   - HHS
   - national-institutes-of-health
   - NCI
-  - nih
   - recaps
   - us-department-of-labor
   - us-environmental-protection-agency

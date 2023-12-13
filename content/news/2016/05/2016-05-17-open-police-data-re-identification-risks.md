@@ -10,7 +10,6 @@ topics:
   - data
   - Federal Trade Commission
   - FTC
-  - 'National Telecommunications and Information Administration'
   - open-data
   - security
   - white-house

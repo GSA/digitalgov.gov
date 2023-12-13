@@ -9,10 +9,7 @@ topics:
   - federal-emergency-management-agency
   - fema
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
   - National Weather Service
-  - NOAA
-  - NWS
   - thursday-mobile-products
  
 ---

@@ -9,8 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - national-oceanic-and-atmospheric-administration
-  - noaa
   - professional-development
   - us-citizenship-and-immigration-service
   - uscis

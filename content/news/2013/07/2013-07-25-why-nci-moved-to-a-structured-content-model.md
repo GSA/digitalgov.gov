@@ -13,7 +13,6 @@ topics:
   - national-cancer-institute
   - national-institutes-of-health
   - NCI
-  - nih
   - open-and-structured-content-models
 ---
 

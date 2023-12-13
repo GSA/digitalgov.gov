@@ -20,9 +20,6 @@ topics:
   - FCPCCS
   - national-institute-of-standards-and-technology
   - national-science-foundation
-  - NIST
-  - NPS
-  - nsf
   - OSTP
   - us-environmental-protection-agency
   - us-national-park-service

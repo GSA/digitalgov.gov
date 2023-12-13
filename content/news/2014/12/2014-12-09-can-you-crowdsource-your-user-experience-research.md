@@ -14,7 +14,6 @@ topics:
   - crowdsourcing
   - data-gov
   - Federal CrowdSource Mobile Testing Program
-  - NREL
   - usability
   - usability-case-study
   - usability starter kit

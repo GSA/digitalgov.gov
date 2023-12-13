@@ -27,9 +27,6 @@ topics:
   - National Defense University
   - national-institutes-of-health
   - National Library of Medicine
-  - nih
-  - NLM
-  - NPS
   - ODNI
   - Office of Management and Budget
   - OMB

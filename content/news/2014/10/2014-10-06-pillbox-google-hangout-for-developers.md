@@ -12,8 +12,6 @@ topics:
   - HHS
   - national-institutes-of-health
   - National Library of Medicine
-  - nih
-  - NLM
   - open-source
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services

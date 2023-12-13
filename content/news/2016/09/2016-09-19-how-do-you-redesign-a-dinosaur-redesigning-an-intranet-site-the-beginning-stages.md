@@ -20,7 +20,6 @@ topics:
   - National Center for Complementary and Integrative Health
   - national-institutes-of-health
   - NCCIH
-  - nih
   - prototype
   - usability
   - usability-testing

@@ -15,7 +15,6 @@ topics:
   - fema
   - mobile-ux-guideline-5
   - National Weather Service
-  - NOAA
   - open-data
 ---
 

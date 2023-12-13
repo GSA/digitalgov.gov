@@ -10,7 +10,6 @@ topics:
   - social-media
   - multilingual
   - national-institutes-of-health
-  - nih
   - social-media
 ---
 

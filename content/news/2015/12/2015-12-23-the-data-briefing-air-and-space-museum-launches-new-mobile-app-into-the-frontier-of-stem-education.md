@@ -10,7 +10,6 @@ topics:
   - mobile
   - Education
   - mobile-apps
-  - NPS
   - smithsonian-institution
   - the-data-briefing
   - us-department-of-education

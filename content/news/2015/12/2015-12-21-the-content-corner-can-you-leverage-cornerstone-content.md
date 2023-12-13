@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - NPS
   - seo
   - the-content-corner
   - us-national-park-service

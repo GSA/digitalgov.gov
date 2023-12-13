@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - national-institutes-of-health
-  - nih
   - social-media
 ---
 

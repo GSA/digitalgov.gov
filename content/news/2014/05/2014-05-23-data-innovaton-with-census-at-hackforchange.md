@@ -17,7 +17,6 @@ topics:
   - mobile-apps
   - national-day-of-civic-hacking
   - national-science-foundation
-  - nsf
   - SBA
   - us-environmental-protection-agency
   - us-small-business-administration

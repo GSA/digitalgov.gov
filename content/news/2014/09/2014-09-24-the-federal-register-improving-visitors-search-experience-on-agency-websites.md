@@ -13,7 +13,6 @@ topics:
   - search
   - federal-register
   - social-media
-  - NLM
   - OSHA
   - SEC
   - us-securities-and-exchange-commission

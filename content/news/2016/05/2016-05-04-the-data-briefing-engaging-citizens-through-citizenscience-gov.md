@@ -12,7 +12,6 @@ topics:
   - crowdsourcing
   - epa
   - nasa
-  - NPS
   - the-data-briefing
   - US Department of Agriculture
   - us-environmental-protection-agency

@@ -16,7 +16,6 @@ topics:
   - innovation
   - national-day-of-civic-hacking
   - national-science-foundation
-  - nsf
   - united-states-census-bureau
 ---
 

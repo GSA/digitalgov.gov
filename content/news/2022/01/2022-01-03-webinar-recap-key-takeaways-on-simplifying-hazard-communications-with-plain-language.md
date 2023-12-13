@@ -6,9 +6,6 @@ summary: "An overview of the presentation by Danielle Nagele of NOAA at the 2021
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - nws
-  - noaa
-  - national-oceanic-and-atmospheric-administration
   - national-weather-service
   - plain-language
   - user-research

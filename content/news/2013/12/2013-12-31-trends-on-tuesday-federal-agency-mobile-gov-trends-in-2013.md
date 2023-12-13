@@ -15,7 +15,6 @@ topics:
   - mobile-code-catalog
   - mobile-gov
   - national-gallery-of-art
-  - NOAA
   - responsive-web-design
   - trends-on-tuesday
   - user-experience

@@ -9,7 +9,6 @@ topics:
   - monthly-theme
   - social-media
   - national-institute-of-standards-and-technology
-  - NIST
   - social-media
   - terms-of-service
 ---

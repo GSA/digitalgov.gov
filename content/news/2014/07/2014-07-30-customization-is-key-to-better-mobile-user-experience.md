@@ -16,7 +16,6 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-3
-  - nps
   - smithsonian-institution
   - us-department-of-education
   - us-national-park-service

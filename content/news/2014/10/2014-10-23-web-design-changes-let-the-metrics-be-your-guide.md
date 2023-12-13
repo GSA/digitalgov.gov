@@ -17,7 +17,6 @@ topics:
   - mobile-ux-guideline-5
   - nasa
   - national-institutes-of-health
-  - nih
   - responsive-web-design
   - US Department of Agriculture
   - us-environmental-protection-agency

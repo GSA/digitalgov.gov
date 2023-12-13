@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - national-institute-of-standards-and-technology
-  - NIST
   - security
   - social-media
   - social-media-metrics

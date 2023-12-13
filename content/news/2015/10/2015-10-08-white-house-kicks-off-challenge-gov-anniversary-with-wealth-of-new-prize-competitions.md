@@ -13,7 +13,6 @@ topics:
   - DOE
   - epa
   - nasa
-  - NPS
   - OSTP
   - us-department-of-education
   - us-environmental-protection-agency

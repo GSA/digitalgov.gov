@@ -8,8 +8,6 @@ authors:
 topics:
   - social-media
   - department-of-commerce
-  - NOAA
-  - NWS
   - social-media
 ---
 

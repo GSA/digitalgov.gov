@@ -10,7 +10,6 @@ topics:
   - product-management
   - analytics
   - national-institute-of-standards-and-technology
-  - NIST
 ---
 
 {{< legacy-img-right src="2012/08/250-x-264-White-house-Digital-Govt-Screen-Shot-2012-09-02-at-7.29.jpg" alt="Screen capture of the Obama White House website page for the strategy milestones for the 2012 Digital Government Strategy." >}}

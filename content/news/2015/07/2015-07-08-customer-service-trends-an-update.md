@@ -19,8 +19,6 @@ topics:
   - fema
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - personas
   - smithsonian-institution
   - social-media

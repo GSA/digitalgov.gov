@@ -19,8 +19,6 @@ topics:
   - NARA
   - nasa
   - national-archives-and-records-administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - Office of Management and Budget
   - OMB
   - SBA

@@ -11,7 +11,6 @@ topics:
   - challenges-and-prize-competitions
   - nasa
   - national-institutes-of-health
-  - nih
   - small-business-innovation-research
 ---
 

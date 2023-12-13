@@ -10,7 +10,6 @@ topics:
   - fda
   - HHS
   - national-institutes-of-health
-  - nih
   - recaps
   - social-media
   - us-food-and-drug-administration

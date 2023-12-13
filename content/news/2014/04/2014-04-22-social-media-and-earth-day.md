@@ -15,9 +15,6 @@ topics:
   - nasa
   - national-institutes-of-health
   - National Zoological Park
-  - nih
-  - NOAA
-  - nsf
   - office-of-naval-research
   - peace-corps
 ---

@@ -15,7 +15,6 @@ topics:
   - mobile-ux-guideline-5
   - national-institute-of-standards-and-technology
   - native-apps
-  - NIST
   - open-data
   - thursday-mobile-products
   - us-environmental-protection-agency

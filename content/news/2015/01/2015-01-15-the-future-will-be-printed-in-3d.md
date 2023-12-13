@@ -12,9 +12,6 @@ topics:
   - api
   - national-institutes-of-health
   - National Library of Medicine
-  - NIAID
-  - nih
-  - NLM
   - white-house
 ---
 

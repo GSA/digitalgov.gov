@@ -8,8 +8,6 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - thursday-mobile-products
  
 ---

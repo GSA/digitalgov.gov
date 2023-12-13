@@ -11,8 +11,6 @@ topics:
   - social-media
   - accessibility
   - search
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - social-media
   - socialgov
   - transportation-security-administration

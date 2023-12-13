@@ -19,7 +19,6 @@ topics:
   - mobile
   - mobile-ux-guideline-1
   - national-institutes-of-health
-  - nih
   - open-and-structured-content-models
   - structured-content
   - the-content-corner

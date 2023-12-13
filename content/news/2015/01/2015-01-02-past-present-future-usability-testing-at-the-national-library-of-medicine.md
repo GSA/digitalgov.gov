@@ -11,7 +11,6 @@ authors:
 topics:
   - user-testing-and-research
   - National Library of Medicine
-  - NLM
   - usability-case-study
   - usability-testing
   - user-experience

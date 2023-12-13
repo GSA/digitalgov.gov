@@ -14,7 +14,6 @@ topics:
   - Federal Trade Commission
   - FTC
   - internet-of-things
-  - NIST
   - united-states-department-of-transportation
 ---
 

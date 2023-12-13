@@ -14,7 +14,6 @@ topics:
   - gamification
   - mobile
   - mobile-apps
-  - NPS
   - social-media
   - us-national-park-service
   - user-experience

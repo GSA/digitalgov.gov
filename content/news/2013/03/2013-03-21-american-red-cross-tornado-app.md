@@ -8,7 +8,6 @@ topics:
   - american-red-cross
   - mobile-apps
   - mobile-gov
-  - NOAA
   - thursday-mobile-products
 ---
 

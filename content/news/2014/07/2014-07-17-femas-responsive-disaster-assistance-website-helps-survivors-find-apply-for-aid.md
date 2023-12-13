@@ -7,8 +7,6 @@ topics:
   - mobile
   - federal-emergency-management-agency
   - fema
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - responsive-web-design
   - thursday-mobile-products
 ---

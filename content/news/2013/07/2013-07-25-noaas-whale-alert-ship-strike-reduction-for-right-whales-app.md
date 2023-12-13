@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
   - thursday-mobile-products
 ---
 

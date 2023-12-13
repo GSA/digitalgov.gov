@@ -12,7 +12,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - national-institutes-of-health
-  - nih
   - OSTP
   - white-house-office-of-science-and-technology-policy
 ---

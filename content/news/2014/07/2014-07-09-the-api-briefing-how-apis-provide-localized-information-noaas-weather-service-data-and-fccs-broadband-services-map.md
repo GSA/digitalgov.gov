@@ -14,8 +14,6 @@ topics:
   - federal-communications-commission
   - GPS
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - us-food-and-drug-administration
   - united-states-census-bureau
 ---

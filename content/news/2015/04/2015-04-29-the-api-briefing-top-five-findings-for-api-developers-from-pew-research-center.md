@@ -12,7 +12,6 @@ topics:
   - mobile
   - mobile-apps
   - National Weather Service
-  - NWS
   - open-data
   - wednesday-api-briefing
 ---

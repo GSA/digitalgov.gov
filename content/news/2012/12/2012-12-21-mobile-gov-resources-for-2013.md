@@ -16,7 +16,6 @@ topics:
   - mobile-first
   - mobile-gov
   - national-institutes-of-health
-  - nih
   - thursday-mobile-products
   - TSA
   - us-department-of-labor

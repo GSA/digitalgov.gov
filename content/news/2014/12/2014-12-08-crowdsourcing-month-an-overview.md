@@ -31,7 +31,6 @@ topics:
   - nasa
   - national-archives-and-records-administration
   - national-science-foundation
-  - nsf
   - us-agency-for-international-development
   - us-department-of-state
   - us-environmental-protection-agency

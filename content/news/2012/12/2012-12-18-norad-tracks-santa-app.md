@@ -7,7 +7,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov-experience
-  - NORAD
   - thursday-mobile-products
 ---
 

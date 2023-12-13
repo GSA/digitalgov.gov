@@ -13,7 +13,6 @@ topics:
   - apps-challenges
   - data
   - nasa
-  - National Aeronautics and Space Administration
   - open
   - open-data
   - open-government

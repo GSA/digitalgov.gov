@@ -8,7 +8,6 @@ topics:
   - mobile
   - api
   - mobile-apps
-  - NREL
   - open-source
   - thursday-mobile-products
 ---

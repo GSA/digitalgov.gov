@@ -20,7 +20,6 @@ topics:
   - firstnet
   - mobile
   - National Weather Service
-  - NWS
   - social-media
   - the-content-corner
   - us-digital-registry
