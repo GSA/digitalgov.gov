@@ -46,8 +46,6 @@ topics:
   - us-food-and-drug-administration
   - us-national-park-service
   - us-small-business-administration
-  
-  
   - united-states-department-of-homeland-security
   - united-states-department-of-transportation
   - united-states-geological-survey
