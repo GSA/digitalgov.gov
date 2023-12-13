@@ -8,7 +8,7 @@ summary: Wendy Wagner-Smith of the Small Business Administration (SBA) shares he
 topics:
   - customer-experience
   - communication
-  - audio-video
+  - multimedia
   - professional-development
   - video
 # See all authors at https://digital.gov/authors

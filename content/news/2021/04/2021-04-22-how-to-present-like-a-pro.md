@@ -17,7 +17,7 @@ summary: "**How to Present Like a Pro**&mdash;When you are presenting on
 topics:
   - customer-experience
   - plain-language
-  - audio-video
+  - multimedia
   - professional-development
   - video
 # See all authors at https://digital.gov/authors

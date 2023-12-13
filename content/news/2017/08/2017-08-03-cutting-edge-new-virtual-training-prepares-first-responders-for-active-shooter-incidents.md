@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - video
-  - audio-video
+  - multimedia
   - emerging-tech
   - dhs
   - content-strategy

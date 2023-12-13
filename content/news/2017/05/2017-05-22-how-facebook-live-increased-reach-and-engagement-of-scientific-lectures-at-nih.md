@@ -11,7 +11,7 @@ topics:
   - mobile
   - social-media
   - video
-  - audio-video
+  - multimedia
   - National Center for Complementary and Integrative Health
   - national-institutes-of-health
   - NCCIH

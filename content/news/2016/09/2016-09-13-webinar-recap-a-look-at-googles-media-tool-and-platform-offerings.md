@@ -12,7 +12,7 @@ topics:
   - mobile
   - video
   - analytics
-  - audio-video
+  - multimedia
   - content-strategy
   - content-strategy
   - multimedia

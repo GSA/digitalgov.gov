@@ -9,7 +9,7 @@ topics:
   - design
   - user-experience
   - video
-  - audio-video
+  - multimedia
   - emerging-tech
   - video
   - video-production-pros-community

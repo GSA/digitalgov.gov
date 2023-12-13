@@ -16,7 +16,7 @@ topics:
   - policy
   - user-testing-and-research
   - video
-  - audio-video
+  - multimedia
   - data
   - firstnet
   - tribal-government

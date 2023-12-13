@@ -16,7 +16,7 @@ topics:
   - content-strategy
   - policy
   - video
-  - audio-video
+  - multimedia
   - records-management
   - executive-office-of-the-president
   - NARA

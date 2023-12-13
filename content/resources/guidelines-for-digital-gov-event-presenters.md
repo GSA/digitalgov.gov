@@ -7,7 +7,7 @@ summary: A checklist of requirements for people who are presenting at a
 topics:
   - communication
   - best-practices
-  - audio-video
+  - multimedia
   - video
 # See all authors at https://digital.gov/authors
 authors:

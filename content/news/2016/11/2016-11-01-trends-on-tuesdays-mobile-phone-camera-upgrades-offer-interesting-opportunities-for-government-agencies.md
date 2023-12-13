@@ -10,7 +10,7 @@ topics:
   - product-management
   - social-media
   - video
-  - audio-video
+  - multimedia
   - content-strategy
   - mobile
   - mobile

@@ -10,7 +10,7 @@ topics:
   - product-management
   - user-testing-and-research
   - video
-  - audio-video
+  - multimedia
   - CFPB
   - Consumer Financial Protection Bureau
   - content-strategy

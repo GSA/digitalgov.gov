@@ -10,7 +10,7 @@ topics:
   - data
   - design
   - product-management
-  - audio-video
+  - multimedia
   - data
   - multimedia
   - mobile

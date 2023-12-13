@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - social-media
   - video
-  - audio-video
+  - multimedia
   - content-strategy
   - social-media
   - video
