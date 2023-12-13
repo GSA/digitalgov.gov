@@ -23,8 +23,6 @@ topics:
   - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration
-  
-
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}} 
