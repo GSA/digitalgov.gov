@@ -14,7 +14,6 @@ topics:
   - mobile-apps
   - native-app
   - responsive-web-design
-  
   - wednesday-api-briefing
 ---
 
