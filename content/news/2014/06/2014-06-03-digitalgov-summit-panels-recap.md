@@ -28,7 +28,6 @@ topics:
   - us-environmental-protection-agency
   - us-food-and-drug-administration
   - us-government-accountability-office
-  
   - united-states-department-of-health-and-human-services
 ---
 
