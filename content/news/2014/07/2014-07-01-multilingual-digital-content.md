@@ -24,7 +24,6 @@ topics:
   - SSA
   - the-united-states-social-security-administration
   - us-department-of-justice
-  
   - united-states-department-of-housing-and-urban-development
 
 ---
