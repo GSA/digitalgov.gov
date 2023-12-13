@@ -9,7 +9,7 @@ topics:
   - accessibility
   - content-strategy
   - video
-  - GobiernoUSAgov
+  - multilingual
   - multilingual
   - us-access-board
   - usa-gov

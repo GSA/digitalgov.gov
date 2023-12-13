@@ -11,7 +11,7 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - GobiernoUSAgov
+  - multilingual
   - HHS
   - multilingual
   - social-media

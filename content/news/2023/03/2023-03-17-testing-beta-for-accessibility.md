@@ -20,7 +20,7 @@ summary: The USAGov team strives to ensure all our websites are accessible to as
 topics:
   - accessibility
   - usa-gov
-  - gobiernousagov
+  - multilingual
   - usability-testing
   - user-experience
 slug: testing-beta-for-accessibility

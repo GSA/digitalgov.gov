@@ -24,7 +24,7 @@ topics:
   - design
   - 10x
   - usa-gov
-  - gobiernousagov
+  - multilingual
 # See all authors at https://digital.gov/authors
 authors:
   - lgodfrey

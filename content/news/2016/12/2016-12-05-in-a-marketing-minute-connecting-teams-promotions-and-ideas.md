@@ -13,7 +13,7 @@ topics:
   - policy
   - content-strategy
   - content-strategy
-  - GobiernoUSAgov
+  - multilingual
   - kids-gov
   - social-media
   - usagov

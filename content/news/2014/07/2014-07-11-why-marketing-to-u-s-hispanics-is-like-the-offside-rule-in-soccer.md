@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - monthly-theme
-  - GobiernoUSAgov
+  - multilingual
   - multilingual
   - multilingual-community
 ---

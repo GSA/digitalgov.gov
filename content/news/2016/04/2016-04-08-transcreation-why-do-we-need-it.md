@@ -10,7 +10,7 @@ topics:
   - product-management
   - communication
   - content-strategy
-  - GobiernoUSAgov
+  - multilingual
   - multilingual
   - multilingual-community
   - usagov

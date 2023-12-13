@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - GobiernoUSAgov
+  - multilingual
   - multilingual
   - SBA
   - us-small-business-administration

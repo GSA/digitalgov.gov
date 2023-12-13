@@ -9,7 +9,7 @@ topics:
   - multilingual
   - content-strategy
   - usagov
-  - gobiernousagov
+  - multilingual
   - multilingual-community
   - diversity-equity-and-inclusion
 

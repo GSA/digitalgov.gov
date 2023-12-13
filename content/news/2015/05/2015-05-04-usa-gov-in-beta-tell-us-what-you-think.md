@@ -10,7 +10,7 @@ topics:
   - product-management
   - application-programming-interface
   - analytics
-  - GobiernoUSAgov
+  - multilingual
   - government-contact-centers
   - personas
   - social-media

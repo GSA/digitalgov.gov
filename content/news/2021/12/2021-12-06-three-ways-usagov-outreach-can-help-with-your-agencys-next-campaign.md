@@ -8,7 +8,7 @@ deck: "**Three Ways USAGov Outreach Can Help with Your Agency's Next Campaign**&
 # See all topics at https://digital.gov/topics
 topics:
   - usa-gov
-  - gobiernousagov
+  - multilingual
   - multilingual
   - social-media
   - content-strategy

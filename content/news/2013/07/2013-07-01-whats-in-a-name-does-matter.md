@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - product-management
   - customer-experience
-  - GobiernoUSAgov
+  - multilingual
   - LEP
   - multilingual
 primary_image: "habla-espanol-maridav-istock-getty-images-plus-142396534"
