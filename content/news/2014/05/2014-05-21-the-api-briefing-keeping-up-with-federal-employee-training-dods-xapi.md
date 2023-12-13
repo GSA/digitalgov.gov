@@ -9,7 +9,6 @@ topics:
   - api
   - api
   - DoD
-  
   - wednesday-api-briefing
 ---
 
