@@ -20,7 +20,7 @@ topics:
   - blockchain
   - customer-experience
   - customer-service
-  - Human Resources
+  - professional-development
   - infrastructure
   - innovation
   - internet-of-things

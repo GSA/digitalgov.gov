@@ -11,7 +11,7 @@ topics:
   - artificial-intelligence
   - augmented-reality
   - chatbots
-  - human-resources
+  - professional-development
   - social-media
 ---
 
