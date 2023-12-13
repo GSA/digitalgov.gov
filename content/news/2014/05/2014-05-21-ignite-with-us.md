@@ -18,7 +18,6 @@ topics:
   - Census
   - innovation
   - mobile-apps
-  
 ---
 
 Have a DigitalGov success?—published an API? Got buy-in from leadership? Changed a part of your customer-service paradigm? Developed a cool dashboard? Got the app out the door?
