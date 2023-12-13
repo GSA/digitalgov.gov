@@ -13,7 +13,6 @@ topics:
   - NCI
   - personas
   - us-bureau-of-labor-statistics
-  
   - usability starter kit
   - user-experience
 ---
