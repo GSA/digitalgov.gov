@@ -7,9 +7,6 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
-  - mobile
-  - native-app
   - native-apps
   - social-media
   - emerging-tech

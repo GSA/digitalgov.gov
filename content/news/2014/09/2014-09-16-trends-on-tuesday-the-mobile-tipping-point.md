@@ -7,10 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - native-app
   - responsive-web-design
 
 ---

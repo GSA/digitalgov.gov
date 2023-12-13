@@ -6,13 +6,11 @@ summary: 'The digital equivalent of a cool rag and a spoonful of Pepto Bismol, t
 authors:
   - kdowney
 topics:
-  - mobile
-  - mobile
+
   - ICE
   - Internal Revenue Service
   - IRS
   - mobile
-  - native-app
   - thursday-mobile-products
   - us-immigration-and-customs-enforcement
  

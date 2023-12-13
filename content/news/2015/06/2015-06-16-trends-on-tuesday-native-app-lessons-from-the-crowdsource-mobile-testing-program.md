@@ -8,9 +8,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - mobile
-  - mobile
-  - native-app
   - emerging-tech
 
 ---

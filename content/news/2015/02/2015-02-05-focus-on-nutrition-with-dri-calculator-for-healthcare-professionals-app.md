@@ -6,10 +6,8 @@ summary: 'For those of us who need to get our diet under control&mdash;and keep 
 authors:
   - kdowney
 topics:
-  - mobile
-  - mobile
   - ICE
-  - native-app
+  - mobile
   - thursday-mobile-products
   - US Department of Agriculture
   - us-immigration-and-customs-enforcement

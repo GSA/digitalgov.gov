@@ -7,7 +7,6 @@ topics:
   - mobile
   - cdc
   - centers-for-disease-control-and-prevention
-  - native-app
   - thursday-mobile-products
  
 ---

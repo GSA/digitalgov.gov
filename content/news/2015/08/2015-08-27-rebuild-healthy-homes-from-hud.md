@@ -9,8 +9,6 @@ topics:
   - mobile
   - HUD
   - ios
-  - mobile
-  - native-app
   - thursday-mobile-products
 
 ---

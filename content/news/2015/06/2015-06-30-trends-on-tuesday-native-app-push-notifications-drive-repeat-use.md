@@ -9,9 +9,6 @@ topics:
   - mobile
   - 18f
   - ios
-  - mobile
-  - mobile
-  - native-app
   - emerging-tech
 ---
 

@@ -12,10 +12,6 @@ topics:
   - data
   - federal-emergency-management-agency
   - fema
-  - mobile
-  - mobile
-  - mobile
-  - native-app
   - application-programming-interface
 ---
 

@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - ios
-  - mobile
-  - native-app
   - thursday-mobile-products
   - US Department of Agriculture
   - USDA

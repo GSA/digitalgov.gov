@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - DoD
-  - native-app
   - thursday-mobile-products
   - united-states-department-of-defense
  

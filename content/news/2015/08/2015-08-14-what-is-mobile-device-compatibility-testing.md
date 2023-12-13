@@ -1,3 +1,4 @@
+
 ---
 slug: what-is-mobile-device-compatibility-testing
 date: 2015-08-14 11:10:12 -0400
@@ -8,11 +9,6 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - native-app
   - native-apps
   - user-experience
   

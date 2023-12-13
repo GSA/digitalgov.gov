@@ -7,7 +7,6 @@ authors:
   - genevieve-contey
 topics:
   - mobile
-  - native-app
   - NOAA
   - thursday-mobile-products
 ---

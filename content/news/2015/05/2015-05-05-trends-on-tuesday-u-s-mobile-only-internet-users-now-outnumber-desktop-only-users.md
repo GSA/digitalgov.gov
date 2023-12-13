@@ -7,8 +7,6 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
-  - native-app
   - emerging-tech
   - us-national-park-service
 ---

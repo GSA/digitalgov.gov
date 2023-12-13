@@ -10,9 +10,6 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - mobile
-  - mobile
-  - native-app
   - responsive-web-design
   - user-experience
 ---

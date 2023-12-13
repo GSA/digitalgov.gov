@@ -1,3 +1,4 @@
+
 ---
 slug: trends-on-tuesday-have-you-cut-the-cord
 date: 2014-08-26 10:00:05 -0400
@@ -9,10 +10,6 @@ topics:
   - mobile
   - cdc
   - centers-for-disease-control-and-prevention
-  - mobile
-  - mobile
-  - mobile
-  - native-app
   - emerging-tech
 ---
 

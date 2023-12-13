@@ -1,3 +1,4 @@
+
 ---
 slug: new-coast-guard-app-streamlines-boating-safety-to-maximize-summer-fun
 date: 2015-06-04 10:00:34 -0400
@@ -6,11 +7,8 @@ summary: 'Just in time for the summer season, the U.S. Coast Guard launched a br
 authors:
   - kdowney
 topics:
-  - mobile
-  - mobile
   - ios
   - mobile
-  - native-app
   - thursday-mobile-products
   - us-coast-guard
  
