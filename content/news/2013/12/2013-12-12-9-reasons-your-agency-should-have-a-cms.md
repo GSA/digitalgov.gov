@@ -9,8 +9,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
-  - CMS
   - content-management-system
 ---
 

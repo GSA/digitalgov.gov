@@ -11,6 +11,7 @@ topics:
   - content
   - product-management
   - strategy
+  - content
   - content-strategy
   - analytics
   - structured-content

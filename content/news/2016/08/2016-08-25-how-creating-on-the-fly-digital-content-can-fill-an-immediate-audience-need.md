@@ -9,7 +9,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - content
   - content-strategy
   - National Center for Complementary and Integrative Health

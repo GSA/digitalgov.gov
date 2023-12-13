@@ -12,10 +12,6 @@ authors:
 topics:
   - governance
   - strategy
-  - policy
-  - epa
-  - fda
-  - federal-register
   - OSTP
   - US Department of Agriculture
   - us-environmental-protection-agency

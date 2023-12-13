@@ -9,7 +9,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - 18f
   - gsa
   - innovation

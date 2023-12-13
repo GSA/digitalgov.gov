@@ -7,7 +7,6 @@ topics:
   - design
   - mobile
   - strategy
-  - policy
   - user-experience
   - mobile
   - mobile-first

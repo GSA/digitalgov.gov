@@ -10,9 +10,6 @@ topics:
   - product-management
   - mobile
   - strategy
-  - policy
-  - FAS
-  - Federal Acquisition Service
   - gsa
   - infrastructure
   - innovation

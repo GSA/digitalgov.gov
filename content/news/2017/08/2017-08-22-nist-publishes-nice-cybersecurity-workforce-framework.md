@@ -7,7 +7,6 @@ topics:
   - data
   - product-management
   - strategy
-  - policy
   - data
   - security
 authors:

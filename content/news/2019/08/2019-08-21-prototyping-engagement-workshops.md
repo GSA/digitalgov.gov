@@ -14,7 +14,6 @@ tag:
   - data
   - design
   - customer-experience
-  - policy
   - workforce
   - artificial-intelligence
   - data

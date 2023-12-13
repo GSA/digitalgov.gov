@@ -13,12 +13,10 @@ topics:
   - domain-management
   - product-management
   - strategy
-  - policy
   - analytics
   - gsa
   - https
   - metrics
-  - policy
   - search-engine-optimization
   - security
 

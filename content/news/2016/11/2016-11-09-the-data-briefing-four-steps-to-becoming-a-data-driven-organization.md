@@ -10,7 +10,6 @@ topics:
   - product-management
   - metrics
   - strategy
-  - policy
   - analytics
   - data
   - innovation

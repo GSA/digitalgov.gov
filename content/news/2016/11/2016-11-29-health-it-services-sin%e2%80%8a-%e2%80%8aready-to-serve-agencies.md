@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - Federal Health IT Strategic Plan
   - gsa
   - IT Schedule 70

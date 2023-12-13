@@ -7,7 +7,6 @@ authors:
   - matthew-ford
 topics:
   - strategy
-  - policy
   - customer-service
   - customer-experience
   - FAS

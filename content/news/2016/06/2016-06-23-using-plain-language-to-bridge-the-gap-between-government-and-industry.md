@@ -9,7 +9,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - 18f
   - agile
   - cloud

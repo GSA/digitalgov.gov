@@ -10,7 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - strategy
-  - policy
   - aoi
   - GPS
   - mobile-apps

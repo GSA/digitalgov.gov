@@ -9,7 +9,6 @@ topics:
   - accessibility
   - design
   - strategy
-  - policy
   - user-experience
   - 18f
   - accessibility

@@ -10,8 +10,6 @@ topics:
   - governance
   - product-management
   - strategy
-  - policy
-  - best-practices
   - cloud
   - Cybersecurity National Action Plan
   - gsa

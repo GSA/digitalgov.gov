@@ -9,7 +9,6 @@ topics:
   - governance
   - monthly-theme
   - strategy
-  - policy
   - 18f
   - data-gov
   - open-government

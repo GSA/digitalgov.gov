@@ -12,7 +12,6 @@ topics:
   - product-management
   - software-engineering
   - strategy
-  - policy
   - code
 
 ---

@@ -9,7 +9,6 @@ authors:
 topics:
   - design
   - strategy
-  - policy
   - user-testing-and-research
   - State
   - us-department-of-state

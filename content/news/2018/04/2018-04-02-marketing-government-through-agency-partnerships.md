@@ -11,7 +11,6 @@ topics:
   - metrics
   - social-media
   - strategy
-  - policy
   - writing
   - accessibility
   - accessibility

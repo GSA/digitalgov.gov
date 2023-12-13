@@ -12,7 +12,6 @@ topics:
   - product-management
   - social-media
   - strategy
-  - policy
   - video
   - accessibility
   - best-practices

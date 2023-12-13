@@ -18,7 +18,6 @@ source: performancegov
 # see all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - policy
   - customer-satisfaction
   - customer-service
 

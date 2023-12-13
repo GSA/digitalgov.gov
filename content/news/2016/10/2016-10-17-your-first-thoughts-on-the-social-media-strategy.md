@@ -11,7 +11,6 @@ topics:
   - content
   - social-media
   - strategy
-  - policy
   - content
   - content-strategy
   - NARA

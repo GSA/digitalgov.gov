@@ -10,8 +10,6 @@ topics:
   - content
   - governance
   - strategy
-  - policy
-  - CMS
   - content-management-system
   - nasa
 ---

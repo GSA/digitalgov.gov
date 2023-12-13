@@ -11,7 +11,6 @@ topics:
   - governance
   - product-management
   - strategy
-  - policy
   - code
   - innovation
   - Office of Management and Budget

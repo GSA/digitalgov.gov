@@ -9,7 +9,6 @@ topics:
   - product-management
   - software-engineering
   - strategy
-  - policy
   - agile
   - lean
   - methodology

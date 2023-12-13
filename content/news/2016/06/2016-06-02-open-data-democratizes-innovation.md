@@ -12,7 +12,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - data
   - strategy
-  - policy
   - api
   - apps-challenges
   - challenge-gov

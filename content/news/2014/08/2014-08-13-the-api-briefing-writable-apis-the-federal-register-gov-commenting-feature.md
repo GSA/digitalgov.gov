@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - strategy
-  - policy
   - api
   - federal-register
   - OPM

@@ -8,11 +8,6 @@ authors:
 topics:
   - mobile
   - strategy
-  - policy
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DOE
-  - HHS
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - responsive-web-design

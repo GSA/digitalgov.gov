@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - strategy
-  - policy
   - 18f
   - CFPB
   - Consumer Financial Protection Bureau

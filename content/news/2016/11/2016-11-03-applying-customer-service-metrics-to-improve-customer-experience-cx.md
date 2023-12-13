@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - strategy
-  - policy
   - analytics
   - customer-experience
   - data

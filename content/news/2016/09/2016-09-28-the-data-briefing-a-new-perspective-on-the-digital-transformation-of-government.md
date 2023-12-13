@@ -10,7 +10,6 @@ topics:
   - data
   - product-management
   - strategy
-  - policy
   - agile
   - architecture
   - cloud

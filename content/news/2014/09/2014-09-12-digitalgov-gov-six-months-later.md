@@ -12,7 +12,6 @@ topics:
   - our-work
   - social-media
   - strategy
-  - policy
   - analytics
   - content-strategy
   - gsa

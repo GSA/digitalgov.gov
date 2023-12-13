@@ -8,7 +8,6 @@ deck:
 topics:
   - acquisition
   - accessibility
-  - policy
   - diversity-equity-inclusion-accessibility-deia
   - diversity-equity-and-inclusion
 

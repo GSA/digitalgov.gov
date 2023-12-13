@@ -4,7 +4,7 @@ date: 2015-12-03 12:36:37 -0400
 title: Implementation of the Government Paperwork Elimination Act
 summary: "The Office of Management and Budget (OMB) provided this guidance to implement the Government Paperwork Elimination Act (GPEA). GPEA required Federal agencies, by October 21, 2003, to allow individuals or entities that deal with the agencies the option to submit information or transact with the agency electronically, when practicable, and to maintain records electronically, when practicable."
 topics:
-  - policy
+  - agile
 authors:
   - apiazza
 ---

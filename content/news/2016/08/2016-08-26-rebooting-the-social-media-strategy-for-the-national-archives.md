@@ -13,7 +13,6 @@ topics:
   - product-management
   - social-media
   - strategy
-  - policy
   - content-strategy
   - NARA
   - national-archives-and-records-administration

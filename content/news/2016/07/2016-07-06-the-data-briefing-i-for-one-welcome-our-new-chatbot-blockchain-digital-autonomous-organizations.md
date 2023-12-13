@@ -11,7 +11,6 @@ topics:
   - data
   - product-management
   - strategy
-  - policy
   - api
   - blockchain
   - chatbots

@@ -9,10 +9,8 @@ topics:
   - data
   - product-management
   - strategy
-  - policy
   - big-data
   - data
-  - nasa
   - the-data-briefing
 ---
 

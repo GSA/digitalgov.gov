@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - strategy
-  - policy
   - writing
   - content-strategy
   - plain-language

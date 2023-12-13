@@ -29,7 +29,6 @@ topics:
   - product-management
   - accessibility
   - governance
-  - policy
   - section-508
 
 ---

@@ -8,9 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
-  - FCC
-  - federal-communications-commission
   - gsa
   - innovation
   - project-management
