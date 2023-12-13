@@ -18,7 +18,7 @@ topics:
   - federal-communications-commission
   - gsa
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - mobile-ux-guideline-3
   - emerging-tech
   - united-states-department-of-transportation

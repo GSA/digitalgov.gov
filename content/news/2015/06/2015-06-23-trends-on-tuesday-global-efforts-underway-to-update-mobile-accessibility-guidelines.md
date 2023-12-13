@@ -9,7 +9,7 @@ topics:
   - accessibility
   - mobile
   - accessibility
-  - mobile-ux-guideline-2
+  - mobile
   - mobile-ux-guideline-3
   - native-apps
   - emerging-tech

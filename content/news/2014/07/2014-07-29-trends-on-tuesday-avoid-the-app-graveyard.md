@@ -11,7 +11,7 @@ topics:
   - mobile
   - user-experience-community-of-practice
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - mobile-ux-guideline-4
   - emerging-tech
   - user-experience

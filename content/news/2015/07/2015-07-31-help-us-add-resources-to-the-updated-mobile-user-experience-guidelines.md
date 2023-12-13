@@ -10,7 +10,7 @@ topics:
   - user-experience
   - mobile
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5

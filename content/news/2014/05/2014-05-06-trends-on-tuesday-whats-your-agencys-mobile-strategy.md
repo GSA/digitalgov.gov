@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - emerging-tech
 ---
 

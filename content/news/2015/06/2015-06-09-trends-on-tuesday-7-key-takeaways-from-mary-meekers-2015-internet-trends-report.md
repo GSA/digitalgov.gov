@@ -9,7 +9,7 @@ topics:
   - product-management
   - mobile
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - mobile-ux-guideline-5
   - mobile
   - emerging-tech

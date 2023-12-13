@@ -9,7 +9,7 @@ topics:
   - mobile
   - DoD
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - mobile-ux-guideline-5
   - mobile-ux-guideline-6
   - native-app

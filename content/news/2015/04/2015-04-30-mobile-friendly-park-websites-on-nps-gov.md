@@ -10,7 +10,7 @@ topics:
   - analytics
   - content-strategy
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - mobile-ux-guideline-4
   - NPS
   - responsive-web-design
