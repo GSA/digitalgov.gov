@@ -9,8 +9,6 @@ topics:
   - content
   - monthly-theme
   - social-media
-  
-  
   - plain-language
   - socialgov-community
   - us-government-accountability-office
