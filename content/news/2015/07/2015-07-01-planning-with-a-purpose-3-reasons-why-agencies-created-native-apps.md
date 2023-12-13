@@ -13,7 +13,7 @@ topics:
   - broadcasting-board-of-governors
   - ICE
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-2
   - mobile-ux-guideline-5

@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - multilingual
   - national-gallery-of-art
   - thursday-mobile-products

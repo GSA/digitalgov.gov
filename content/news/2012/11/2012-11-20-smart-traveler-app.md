@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov-experience
   - thursday-mobile-products
   - us-department-of-state

@@ -12,7 +12,7 @@ topics:
   - code
   - hhs
   - innovation
-  - mobile-apps
+  - mobile
   - open-data
   - pif
 featured_image:

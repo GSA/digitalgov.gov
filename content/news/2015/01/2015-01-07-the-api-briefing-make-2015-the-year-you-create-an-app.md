@@ -15,7 +15,7 @@ topics:
   - data-gov
   - innovation
   - mobile
-  - mobile-apps
+  - mobile
   - application-programming-interface
 
 ---

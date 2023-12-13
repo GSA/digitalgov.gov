@@ -9,7 +9,7 @@ topics:
   - mobile
   - analytics
   - mobile
-  - mobile-apps
+  - mobile
   - responsive-web-design
   - security
   - emerging-tech

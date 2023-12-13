@@ -9,7 +9,7 @@ topics:
   - mobile
   - FCC
   - federal-communications-commission
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - emerging-tech
 ---

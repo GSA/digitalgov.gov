@@ -16,7 +16,7 @@ topics:
   - DOT
   - emerging-tech
   - mobile
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - emerging-tech

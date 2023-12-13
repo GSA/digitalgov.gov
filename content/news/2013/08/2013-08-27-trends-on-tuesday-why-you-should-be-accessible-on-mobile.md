@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - emerging-tech
 

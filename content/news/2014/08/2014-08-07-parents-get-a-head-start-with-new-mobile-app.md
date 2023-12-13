@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - HHS
-  - mobile-apps
+  - mobile
   - mobile-gov
   - mobile-gov-community-of-practice
   - thursday-mobile-products

@@ -7,7 +7,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - NORAD
   - North American Defense Command
   - SSA

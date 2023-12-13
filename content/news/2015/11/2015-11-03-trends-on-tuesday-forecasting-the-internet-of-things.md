@@ -9,7 +9,7 @@ topics:
   - mobile
   - emerging-tech
   - mobile
-  - mobile-apps
+  - mobile
   - emerging-tech
   - user-experience
   

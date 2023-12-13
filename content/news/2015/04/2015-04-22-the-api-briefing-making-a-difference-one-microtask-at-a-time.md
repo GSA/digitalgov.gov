@@ -16,7 +16,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - federal-emergency-management-agency
   - fema
-  - mobile-apps
+  - mobile
   - NARA
   - national-archives-and-records-administration
   - national-oceanic-and-atmospheric-administration

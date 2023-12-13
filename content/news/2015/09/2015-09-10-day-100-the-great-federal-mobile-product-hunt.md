@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - HHS
-  - mobile-apps
+  - mobile
   - NARA
   - national-archives-and-records-administration
   - national-institutes-of-health

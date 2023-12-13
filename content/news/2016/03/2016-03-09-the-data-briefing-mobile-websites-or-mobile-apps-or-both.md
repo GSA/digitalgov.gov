@@ -11,7 +11,7 @@ topics:
   - mobile
   - application-programming-interface
   - mobile
-  - mobile-apps
+  - mobile
   - native-apps
   - open-data
   - responsive-web-design

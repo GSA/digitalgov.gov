@@ -11,7 +11,7 @@ topics:
   - code
   - product-management
   - challenge-gov
-  - mobile-apps
+  - mobile
   - OPM
   - peace-corps
   - united-states-office-of-personnel-management

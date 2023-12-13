@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-4
   - design
   - recaps

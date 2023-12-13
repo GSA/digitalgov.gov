@@ -7,7 +7,7 @@ authors:
   - rachel-hurley
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - nasa
   - thursday-mobile-products
 ---

@@ -10,7 +10,7 @@ topics:
   - mobile
   - cdc
   - ios
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
  
 

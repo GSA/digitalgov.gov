@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4

@@ -9,7 +9,7 @@ topics:
   - mobile
   - DOT
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - united-states-department-of-transportation
  

@@ -7,7 +7,7 @@ topics:
   - mobile
   - american-battle-monuments-commission
   - arlington-national-cemetery
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - us-national-park-service
 ---

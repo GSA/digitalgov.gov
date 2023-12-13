@@ -9,7 +9,7 @@ topics:
   - mobile
   - fema
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - recaps
   - responsive-web-design

@@ -12,7 +12,7 @@ topics:
   - accessibility
   - application-programming-interface
   - mobile-gov
-  - mobile-apps
+  - mobile
 
 ---
 

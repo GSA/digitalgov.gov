@@ -10,7 +10,7 @@ topics:
   - code
   - mobile
   - DOL
-  - mobile-apps
+  - mobile
   - mobile-code-catalog
   - mobile-gov
   - open-source

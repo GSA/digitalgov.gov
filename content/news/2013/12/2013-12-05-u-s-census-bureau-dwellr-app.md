@@ -10,7 +10,7 @@ topics:
   - mobile
   - application-programming-interface
   - Census
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - united-states-census-bureau
 ---

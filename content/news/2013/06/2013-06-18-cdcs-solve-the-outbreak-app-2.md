@@ -9,7 +9,7 @@ topics:
   - mobile
   - user-experience
   - cdc
-  - mobile-apps
+  - mobile
   - mobile-gov-experience
 ---
 

@@ -10,7 +10,7 @@ topics:
   - our-work
   - digitalgov-summit
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-friendly
   - thursday-mobile-products

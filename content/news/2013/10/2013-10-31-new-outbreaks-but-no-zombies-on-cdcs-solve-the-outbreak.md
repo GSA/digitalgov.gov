@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - cdc
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
 ---
 

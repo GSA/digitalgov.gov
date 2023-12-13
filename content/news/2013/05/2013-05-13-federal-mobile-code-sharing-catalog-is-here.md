@@ -10,7 +10,7 @@ topics:
   - mobile
   - GitHub
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-code-catalog
 ---
 

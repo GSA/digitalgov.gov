@@ -8,7 +8,7 @@ topics:
   - application-programming-interface
   - Census
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
   - social-media

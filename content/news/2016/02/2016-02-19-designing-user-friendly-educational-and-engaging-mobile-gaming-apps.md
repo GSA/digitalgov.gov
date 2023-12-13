@@ -12,7 +12,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - user-centered-design
 ---
 

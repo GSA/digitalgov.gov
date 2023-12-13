@@ -12,7 +12,7 @@ topics:
   - mobile
   - data
   - mobile
-  - mobile-apps
+  - mobile
   - national-institute-of-standards-and-technology
   - NIST
   - emerging-tech

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
   - NPS
   - social-media
   - SSA

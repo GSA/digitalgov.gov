@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - accessibility
   - data
-  - mobile-apps
+  - mobile
   - mobile-gov
   - open-data
   - social-media

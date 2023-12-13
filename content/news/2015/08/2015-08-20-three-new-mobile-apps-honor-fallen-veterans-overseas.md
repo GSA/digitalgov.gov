@@ -7,7 +7,7 @@ topics:
   - mobile
   - mobile
   - ios
-  - mobile-apps
+  - mobile
   - native-apps
   - thursday-mobile-products
  

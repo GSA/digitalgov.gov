@@ -14,7 +14,7 @@ topics:
   - code
   - innovation
   - mobile
-  - mobile-apps
+  - mobile
   - native-apps
   - thursday-mobile-products
 ---

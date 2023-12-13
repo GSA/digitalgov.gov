@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - policy
   - aoi
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - emerging-tech
   - us-department-of-veterans-affairs

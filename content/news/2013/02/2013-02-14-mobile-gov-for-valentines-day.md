@@ -7,7 +7,7 @@ topics:
   - mobile
   - cdc
   - HHS
-  - mobile-apps
+  - mobile
   - smithsonian-institution
   - thursday-mobile-products
 ---

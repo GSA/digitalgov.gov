@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - mobile-friendly

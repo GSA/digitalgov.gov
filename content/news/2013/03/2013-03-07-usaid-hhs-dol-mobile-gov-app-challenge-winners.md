@@ -8,7 +8,7 @@ topics:
   - mobile
   - DOL
   - HHS
-  - mobile-apps
+  - mobile
   - mobile-gov
   - thursday-mobile-products
   - us-department-of-labor

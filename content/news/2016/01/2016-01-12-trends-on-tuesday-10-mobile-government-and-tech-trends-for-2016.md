@@ -12,7 +12,7 @@ topics:
   - https
   - emerging-tech
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-first
   - mobile-friendly
   - responsive-web-design

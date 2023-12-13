@@ -11,7 +11,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - data-gov
-  - mobile-apps
+  - mobile
   - national-institute-of-standards-and-technology
   - NIST
 ---

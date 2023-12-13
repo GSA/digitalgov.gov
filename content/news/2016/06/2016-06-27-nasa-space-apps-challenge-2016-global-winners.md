@@ -13,7 +13,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - innovation
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - mobile-gov
   - nasa

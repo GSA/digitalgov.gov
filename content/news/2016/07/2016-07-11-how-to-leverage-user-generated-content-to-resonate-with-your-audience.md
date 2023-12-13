@@ -19,7 +19,7 @@ topics:
   - content-strategy
   - crowdsourcing-and-citizen-science
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - social-media
   - socialgov

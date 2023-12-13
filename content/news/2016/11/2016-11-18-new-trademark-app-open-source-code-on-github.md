@@ -18,7 +18,7 @@ topics:
   - GitHub
   - innovation
   - mobile
-  - mobile-apps
+  - mobile
   - open
   - open-data
   - open-source

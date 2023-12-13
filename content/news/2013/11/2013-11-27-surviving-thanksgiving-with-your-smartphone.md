@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - HHS
-  - mobile-apps
+  - mobile
   - mobile-gov
   - nasa
   - nih

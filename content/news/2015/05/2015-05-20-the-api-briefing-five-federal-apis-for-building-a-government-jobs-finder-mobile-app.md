@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - application-programming-interface
   - search
-  - mobile-apps
+  - mobile
   - application-programming-interface
 ---
 

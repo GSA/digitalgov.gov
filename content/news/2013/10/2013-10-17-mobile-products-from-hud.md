@@ -6,7 +6,7 @@ summary: ' The Department of Housing and Urban Development has two apps that can
 topics:
   - mobile
   - HUD
-  - mobile-apps
+  - mobile
   - mobile-gov
   - thursday-mobile-products
   - united-states-department-of-housing-and-urban-development

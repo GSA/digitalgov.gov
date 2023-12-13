@@ -11,7 +11,7 @@ topics:
   - ICE
   - Internal Revenue Service
   - IRS
-  - mobile-apps
+  - mobile
   - native-app
   - thursday-mobile-products
   - us-immigration-and-customs-enforcement

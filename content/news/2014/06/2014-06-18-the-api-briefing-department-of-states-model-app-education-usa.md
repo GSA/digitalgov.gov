@@ -10,7 +10,7 @@ topics:
   - code
   - mobile
   - user-experience
-  - mobile-apps
+  - mobile
   - us-department-of-state
   - application-programming-interface
 ---

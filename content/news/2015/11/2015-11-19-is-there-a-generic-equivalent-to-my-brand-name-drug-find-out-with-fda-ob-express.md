@@ -9,7 +9,7 @@ topics:
   - mobile
   - fda
   - ios
-  - mobile-apps
+  - mobile
   - native-apps
   - thursday-mobile-products
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
  

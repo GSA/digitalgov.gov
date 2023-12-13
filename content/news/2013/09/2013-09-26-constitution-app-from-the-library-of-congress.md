@@ -7,7 +7,7 @@ topics:
   - mobile
   - Library of Congress
   - LOC
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
 ---
 

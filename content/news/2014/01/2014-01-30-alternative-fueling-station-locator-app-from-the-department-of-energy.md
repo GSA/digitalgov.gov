@@ -7,7 +7,7 @@ topics:
   - code
   - mobile
   - application-programming-interface
-  - mobile-apps
+  - mobile
   - NREL
   - open-source
   - thursday-mobile-products

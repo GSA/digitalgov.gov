@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - emerging-tech
-  - mobile-apps
+  - mobile
   - nasa
   - national-oceanic-and-atmospheric-administration
   - NOAA

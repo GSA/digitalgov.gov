@@ -26,7 +26,7 @@ topics:
   - epa
   - gsa
   - innovation
-  - mobile-apps
+  - mobile
   - national-day-of-civic-hacking
   - open-data
   - open-government

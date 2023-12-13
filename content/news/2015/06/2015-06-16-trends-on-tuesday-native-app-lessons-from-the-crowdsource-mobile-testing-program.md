@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-testing
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4

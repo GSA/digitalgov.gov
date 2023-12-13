@@ -5,7 +5,7 @@ title: Dolphin and Whale Apps from NOAA Fisheries
 summary: NOAA Fisheries to help you identify and aid stranded or
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - thursday-mobile-products

@@ -9,7 +9,7 @@ topics:
   - mobile
   - analytics
   - ios
-  - mobile-apps
+  - mobile
   - nasa
   - smithsonian-institution
   - thursday-mobile-products

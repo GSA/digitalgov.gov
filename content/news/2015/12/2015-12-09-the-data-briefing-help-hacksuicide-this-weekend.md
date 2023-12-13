@@ -11,7 +11,7 @@ topics:
   - application-programming-interface
   - data-visualization
   - data-gov
-  - mobile-apps
+  - mobile
   - open-data
   - emerging-tech
   - us-department-of-veterans-affairs

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - BLS
-  - mobile-apps
+  - mobile
   - emerging-tech
   - us-bureau-of-labor-statistics
 ---

@@ -7,7 +7,7 @@ topics:
   - mobile
   - Census
   - department-of-commerce
-  - mobile-apps
+  - mobile
   - open-data
   - thursday-mobile-products
   - united-states-census-bureau

@@ -13,7 +13,7 @@ topics:
   - customer-experience
   - data
   - mobile
-  - mobile-apps
+  - mobile
   - native-apps
   - open-data
   - responsive-web-design

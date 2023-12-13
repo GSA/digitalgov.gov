@@ -13,7 +13,7 @@ topics:
   - fda
   - federal-communications-commission
   - mobile
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - us-food-and-drug-administration

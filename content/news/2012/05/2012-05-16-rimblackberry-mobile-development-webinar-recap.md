@@ -7,7 +7,7 @@ topics:
   - code
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
   - recaps
 ---
 

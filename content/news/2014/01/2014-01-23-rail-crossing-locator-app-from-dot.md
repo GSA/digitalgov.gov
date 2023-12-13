@@ -7,7 +7,7 @@ topics:
   - mobile
   - DOT
   - Federal Railroad Administration
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
 ---
 

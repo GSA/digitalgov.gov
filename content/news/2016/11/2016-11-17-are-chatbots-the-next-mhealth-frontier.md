@@ -14,7 +14,7 @@ topics:
   - policy
   - artificial-intelligence
   - mobile
-  - mobile-apps
+  - mobile
   - sms
   - usagov
 

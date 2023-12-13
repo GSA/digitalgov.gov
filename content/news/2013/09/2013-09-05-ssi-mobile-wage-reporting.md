@@ -7,7 +7,7 @@ authors:
   - michael-niedzwiecki
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - SSA
   - thursday-mobile-products

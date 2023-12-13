@@ -6,7 +6,7 @@ summary: 'While many of us were planning for barbecues or heading to lakes and b
 topics:
   - mobile
   - arlington-national-cemetery
-  - mobile-apps
+  - mobile
   - mobile-gov
   - thursday-mobile-products
 ---

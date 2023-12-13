@@ -9,7 +9,7 @@ topics:
   - mobile
   - our-work
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-6

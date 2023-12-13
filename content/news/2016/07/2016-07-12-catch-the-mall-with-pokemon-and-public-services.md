@@ -13,7 +13,7 @@ topics:
   - emerging-tech
   - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - NPS
   - social-media
   - us-national-park-service

@@ -11,7 +11,7 @@ topics:
   - policy
   - abmc
   - american-battle-monuments-commission
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
  
 ---

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ios
-  - mobile-apps
+  - mobile
   - SSA
   - the-united-states-social-security-administration
   - thursday-mobile-products

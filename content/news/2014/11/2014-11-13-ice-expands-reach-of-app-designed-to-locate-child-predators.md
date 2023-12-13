@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ICE
-  - mobile-apps
+  - mobile
   - multilingual
   - thursday-mobile-products
   - us-immigration-and-customs-enforcement

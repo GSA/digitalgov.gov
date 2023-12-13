@@ -15,7 +15,7 @@ topics:
   - trust
   - mobile
   - content-strategy
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
 
 # see all authors at https://digital.gov/authors

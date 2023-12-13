@@ -9,7 +9,7 @@ authors:
 
 topics:
   - code
-  - mobile-apps
+  - mobile
   - nasa
   - emerging-tech
 

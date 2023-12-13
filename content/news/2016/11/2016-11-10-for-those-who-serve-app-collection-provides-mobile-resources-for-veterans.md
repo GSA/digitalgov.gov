@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
 
 ---
 

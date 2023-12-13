@@ -8,7 +8,7 @@ topics:
   - mobile
   - innovation
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
 
 ---

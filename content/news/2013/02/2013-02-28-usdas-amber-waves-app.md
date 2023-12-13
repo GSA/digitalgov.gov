@@ -5,7 +5,7 @@ title: 'USDA&#8217;s Amber Waves App'
 summary: 'The U.S. Department of Agriculture&#8217;s (USDA) Economic Research Service (ERS) has developed a tablet app for their Amber Waves magazine which showcases'
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - USDA
 ---

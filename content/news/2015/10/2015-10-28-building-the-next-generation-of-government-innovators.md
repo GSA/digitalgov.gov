@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - fda
-  - mobile-apps
+  - mobile
   - open-opportunities-program
   - SSA
   - the-united-states-social-security-administration

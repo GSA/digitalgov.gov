@@ -10,7 +10,7 @@ topics:
   - mobile
   - Internal Revenue Service
   - IRS
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - us-digital-registry
  

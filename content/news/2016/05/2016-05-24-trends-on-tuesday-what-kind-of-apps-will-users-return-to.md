@@ -10,7 +10,7 @@ topics:
   - analytics
   - analytics
   - mobile
-  - mobile-apps
+  - mobile
   - emerging-tech
 ---
 

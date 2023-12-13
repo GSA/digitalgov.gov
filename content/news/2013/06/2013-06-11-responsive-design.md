@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - mobile-apps
+  - mobile
   - responsive-web-design
   - usagov
   - user-experience

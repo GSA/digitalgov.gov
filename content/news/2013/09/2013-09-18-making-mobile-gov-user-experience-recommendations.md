@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - DOL
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - nih
   - us-department-of-labor

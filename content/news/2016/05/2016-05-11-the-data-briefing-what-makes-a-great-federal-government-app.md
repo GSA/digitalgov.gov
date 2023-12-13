@@ -9,7 +9,7 @@ topics:
   - data
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
   - native-apps
   - emerging-tech
   - usagov

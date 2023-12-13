@@ -5,7 +5,7 @@ title: Mobile Apps Life Cycle Webinar
 summary: 'Are you creating a mobile website or app for your agency? On Tuesday, October 30, at 11 a.m. we will host a webinar to get agencies thinking about how they can prepare for the entire life cycle of their  mobile products&mdash;from planning&#8211;to implementing&#8212;to continually updating and upgrading. This webinar will'
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - webinar
 ---

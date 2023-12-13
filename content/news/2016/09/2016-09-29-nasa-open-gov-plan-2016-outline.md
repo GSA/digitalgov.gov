@@ -22,7 +22,7 @@ topics:
   - code
   - data
   - innovation
-  - mobile-apps
+  - mobile
   - nasa
   - open
   - open-data

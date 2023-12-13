@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - smithsonian-institution
   - user-centered-design
   - user-experience

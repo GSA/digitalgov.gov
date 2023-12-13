@@ -10,7 +10,7 @@ categories:
 tag:
   - federal-reserve-board
   - frb
-  - mobile-apps
+  - mobile
 featured_image:
   uid: money-adventure-welcome-screen
   alt: ''

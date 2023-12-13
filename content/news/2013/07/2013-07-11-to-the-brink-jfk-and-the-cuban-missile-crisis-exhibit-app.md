@@ -7,7 +7,7 @@ authors:
   - brandon-barr
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - smithsonian-institution
   - thursday-mobile-products
 ---

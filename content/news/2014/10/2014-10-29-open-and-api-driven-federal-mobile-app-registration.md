@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - communities
   - mobile
-  - mobile-apps
+  - mobile
   - monthly-theme
   - aoi
   - mobile

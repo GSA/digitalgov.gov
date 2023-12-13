@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   - DOL
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - design

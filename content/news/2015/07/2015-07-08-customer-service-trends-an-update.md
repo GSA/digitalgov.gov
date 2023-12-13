@@ -17,7 +17,7 @@ topics:
   - federal-emergency-management-agency
   - fema
   - mobile
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - personas

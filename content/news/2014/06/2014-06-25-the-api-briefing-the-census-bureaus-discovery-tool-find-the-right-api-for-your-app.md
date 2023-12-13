@@ -11,7 +11,7 @@ topics:
   - product-management
   - mobile
   - application-programming-interface
-  - mobile-apps
+  - mobile
   - native-app
   - responsive-web-design
   - united-states-census-bureau

@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - policy
   - epa
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - us-environmental-protection-agency
  

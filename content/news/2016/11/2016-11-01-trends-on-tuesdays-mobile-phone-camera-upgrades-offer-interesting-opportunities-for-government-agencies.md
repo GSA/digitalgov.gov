@@ -13,7 +13,7 @@ topics:
   - audio-video
   - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - social-media
   - emerging-tech
   - video

@@ -10,7 +10,7 @@ topics:
   - mobile
   - customer-experience
   - emerging-tech
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3
   - emerging-tech

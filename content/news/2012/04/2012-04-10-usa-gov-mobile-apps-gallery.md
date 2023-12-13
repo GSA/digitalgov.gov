@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - gsa
-  - mobile-apps
+  - mobile
   - mobile-gov-experience
 ---
 

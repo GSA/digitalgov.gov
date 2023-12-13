@@ -8,7 +8,7 @@ topics:
   - american-red-cross
   - federal-emergency-management-agency
   - fema
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - National Weather Service
   - NOAA

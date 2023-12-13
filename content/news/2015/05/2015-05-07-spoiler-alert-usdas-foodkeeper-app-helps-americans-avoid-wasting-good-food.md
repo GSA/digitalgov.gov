@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ios
-  - mobile-apps
+  - mobile
   - native-app
   - thursday-mobile-products
   - US Department of Agriculture

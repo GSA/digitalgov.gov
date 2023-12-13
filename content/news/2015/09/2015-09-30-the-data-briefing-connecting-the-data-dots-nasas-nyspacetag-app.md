@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - data-gov
-  - mobile-apps
+  - mobile
   - nasa
   - open-data
   - emerging-tech

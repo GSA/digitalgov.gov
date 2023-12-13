@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-5
   - mobile-first
   - emerging-tech

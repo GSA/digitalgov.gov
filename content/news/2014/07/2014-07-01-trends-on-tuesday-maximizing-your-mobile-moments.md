@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-5
   - national-oceanic-and-atmospheric-administration
   - National Weather Service

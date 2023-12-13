@@ -7,7 +7,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - NARA
   - national-archives-and-records-administration
   - thursday-mobile-products

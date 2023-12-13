@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - ios
-  - mobile-apps
+  - mobile
   - native-app
   - thursday-mobile-products
   - us-coast-guard

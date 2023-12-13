@@ -17,7 +17,7 @@ topics:
   - application-programming-interface
   - Census
   - innovation
-  - mobile-apps
+  - mobile
   - united-states-census-bureau
 ---
 

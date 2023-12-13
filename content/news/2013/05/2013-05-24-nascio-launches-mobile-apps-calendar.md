@@ -7,7 +7,7 @@ authors:
   - lnelson
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-code-catalog
   - mobile-gov
 ---

@@ -7,7 +7,7 @@ authors:
   - rachel-hurley
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - us-national-park-service
 ---

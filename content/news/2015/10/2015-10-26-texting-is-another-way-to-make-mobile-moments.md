@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - mobile-ux-guideline-5
   - national-cancer-institute

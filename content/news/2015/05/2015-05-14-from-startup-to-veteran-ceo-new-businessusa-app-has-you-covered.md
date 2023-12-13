@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - department-of-commerce
-  - mobile-apps
+  - mobile
   - SBA
   - thursday-mobile-products
   - us-small-business-administration

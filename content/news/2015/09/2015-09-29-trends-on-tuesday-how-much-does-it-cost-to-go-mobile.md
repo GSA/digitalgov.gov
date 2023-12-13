@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ios
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-3
   - mobile-first

@@ -11,7 +11,7 @@ topics:
   - abmc
   - american-battle-monuments-commission
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3
   - thursday-mobile-products

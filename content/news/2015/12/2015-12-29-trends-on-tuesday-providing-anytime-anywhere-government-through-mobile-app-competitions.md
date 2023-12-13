@@ -13,7 +13,7 @@ topics:
   - challenges-and-prize-competitions
   - data
   - epa
-  - mobile-apps
+  - mobile
   - national-institute-of-standards-and-technology
   - National Institute on Drug Abuse
   - NIST

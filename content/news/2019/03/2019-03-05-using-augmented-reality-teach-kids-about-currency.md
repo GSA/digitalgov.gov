@@ -8,7 +8,7 @@ authors:
   - ayjah-thomas
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - frb
   - federal-reserve-board
 featured_image:

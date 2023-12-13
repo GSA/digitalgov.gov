@@ -6,7 +6,7 @@ summary: 'I don&#8217;t remember being bullied as a kid, but my younger sister o
 topics:
   - mobile
   - centers-for-disease-control-and-prevention
-  - mobile-apps
+  - mobile
   - native-app
   - SAMHSA
   - thursday-mobile-products

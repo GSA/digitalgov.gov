@@ -14,7 +14,7 @@ topics:
   - Consumer Financial Protection Bureau
   - department-of-commerce
   - epa
-  - mobile-apps
+  - mobile
   - national-day-of-civic-hacking
   - national-science-foundation
   - nsf

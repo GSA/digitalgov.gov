@@ -12,7 +12,7 @@ topics:
   - social-media
   - crowdsourcing-and-citizen-science
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - mobile-ux-guideline-5
   - National Highway Traffic Safety Administration

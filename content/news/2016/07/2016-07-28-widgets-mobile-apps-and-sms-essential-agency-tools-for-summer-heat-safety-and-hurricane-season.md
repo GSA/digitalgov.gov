@@ -13,7 +13,7 @@ topics:
   - social-media
   - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - multilingual
   - sms
   - social-media

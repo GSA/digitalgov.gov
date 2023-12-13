@@ -14,7 +14,7 @@ topics:
   - data-gov
   - epa
   - metadata
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - open-data

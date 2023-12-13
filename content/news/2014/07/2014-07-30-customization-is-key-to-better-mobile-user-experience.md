@@ -11,7 +11,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - hhs
   - loc
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-3

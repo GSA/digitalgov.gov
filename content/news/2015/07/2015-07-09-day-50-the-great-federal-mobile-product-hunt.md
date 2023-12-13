@@ -9,7 +9,7 @@ topics:
   - mobile
   - broadcasting-board-of-governors
   - mobile
-  - mobile-apps
+  - mobile
   - National Center for Telehealth and Technology
   - OSHA
   - SAMHSA

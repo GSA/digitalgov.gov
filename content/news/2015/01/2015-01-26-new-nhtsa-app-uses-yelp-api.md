@@ -10,7 +10,7 @@ topics:
   - mobile
   - social-media
   - DOT
-  - mobile-apps
+  - mobile
   - National Highway Traffic Safety Administration
   - NHTSA
   - terms-of-service

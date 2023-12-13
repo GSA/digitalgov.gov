@@ -6,7 +6,7 @@ summary: The American Red Cross Tornado App gets your family and home ready for 
 topics:
   - mobile
   - american-red-cross
-  - mobile-apps
+  - mobile
   - mobile-gov
   - NOAA
   - thursday-mobile-products

@@ -10,7 +10,7 @@ topics:
   - cdc
   - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - emerging-tech
 ---
 

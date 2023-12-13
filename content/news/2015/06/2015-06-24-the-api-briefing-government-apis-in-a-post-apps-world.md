@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - application-programming-interface
   - data
-  - mobile-apps
+  - mobile
   - open-data
   - application-programming-interface
 ---

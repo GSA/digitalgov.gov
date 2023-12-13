@@ -6,7 +6,7 @@ summary: 'As a &#8220;warfighting-ready force,&#8221; the U.S. Navy can bring it
 topics:
   - application-programming-interface
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - united-states-navy
 ---

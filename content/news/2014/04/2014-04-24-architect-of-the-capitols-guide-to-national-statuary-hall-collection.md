@@ -6,7 +6,7 @@ summary: 'The Architect of the Capitol&#8217;s new app gives users the ability t
 topics:
   - mobile
   - architect-of-the-capitol
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
 ---
 

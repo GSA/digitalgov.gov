@@ -7,7 +7,7 @@ topics:
   - mobile
   - cdc
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - thursday-mobile-products
 ---

@@ -10,7 +10,7 @@ topics:
   - cdc
   - Census
   - centers-for-disease-control-and-prevention
-  - mobile-apps
+  - mobile
   - emerging-tech
   - united-states-census-bureau
 ---

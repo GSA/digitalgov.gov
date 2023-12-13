@@ -12,7 +12,7 @@ topics:
   - DOL
   - FAA
   - Federal Aviation Administration
-  - mobile-apps
+  - mobile
   - mobile-code-catalog
   - OPM
   - us-department-of-labor

@@ -9,7 +9,7 @@ topics:
   - mobile
   - epa
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - us-environmental-protection-agency
 ---

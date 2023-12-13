@@ -8,7 +8,7 @@ topics:
   - mobile
   - FCC
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - thursday-mobile-products
 ---

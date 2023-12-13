@@ -6,7 +6,7 @@ summary: 'Washington. You can say a lot of things about this town, but one thing
 topics:
   - mobile
   - architect-of-the-capitol
-  - mobile-apps
+  - mobile
   - mobile-gov-community-of-practice
   - national-archives-and-records-administration
   - NPS

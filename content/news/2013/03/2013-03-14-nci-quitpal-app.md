@@ -5,7 +5,7 @@ title: NCI QuitPal App
 summary: 'NCI QuitPal is a free smartphone app developed by the National Cancer Institute of the National Institutes of Health to support smokers working to become smoke-free. This interactive app, available on the  iOS platform, was developed using proven quit'
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - NCI
   - nih

@@ -11,7 +11,7 @@ topics:
   - federal-emergency-management-agency
   - fema
   - mobile
-  - mobile-apps
+  - mobile
   - National Weather Service
   - NWS
 ---

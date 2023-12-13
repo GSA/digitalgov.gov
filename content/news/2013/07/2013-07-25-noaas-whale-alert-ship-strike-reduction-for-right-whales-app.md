@@ -7,7 +7,7 @@ authors:
   - brandon-barr
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - thursday-mobile-products
 ---

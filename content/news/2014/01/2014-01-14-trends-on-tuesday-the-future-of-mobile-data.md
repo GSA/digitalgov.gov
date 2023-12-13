@@ -9,7 +9,7 @@ topics:
   - mobile
   - social-media
   - mobile
-  - mobile-apps
+  - mobile
   - emerging-tech
 ---
 

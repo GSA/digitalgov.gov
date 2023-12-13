@@ -9,7 +9,7 @@ topics:
   - mobile
   - analytics
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-5
   - mobile-first
   - emerging-tech

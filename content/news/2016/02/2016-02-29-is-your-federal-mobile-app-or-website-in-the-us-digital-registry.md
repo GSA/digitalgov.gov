@@ -10,7 +10,7 @@ topics:
   - social-media
   - application-programming-interface
   - analytics
-  - mobile-apps
+  - mobile
   - mobile-friendly
   - mobile-gov
   - social-media

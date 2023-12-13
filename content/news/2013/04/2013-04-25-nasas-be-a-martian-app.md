@@ -7,7 +7,7 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov
   - nasa
   - thursday-mobile-products

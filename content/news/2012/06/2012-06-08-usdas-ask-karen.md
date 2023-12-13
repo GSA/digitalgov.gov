@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-gov-experience
   - USDA
 

@@ -18,7 +18,7 @@ topics:
   - artificial-intelligence
   - innovation
   - emerging-tech
-  - mobile-apps
+  - mobile
   - content-strategy
 featured_image:
   uid: pif-ai-open-data

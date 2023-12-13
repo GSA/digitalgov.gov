@@ -9,7 +9,7 @@ topics:
   - code
   - mobile
   - Education
-  - mobile-apps
+  - mobile
   - NPS
   - smithsonian-institution
   - emerging-tech

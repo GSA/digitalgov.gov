@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - gsa
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - design

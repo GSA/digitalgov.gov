@@ -13,7 +13,7 @@ topics:
   - best-practices
   - data
   - innovation
-  - mobile-apps
+  - mobile
   - open-data
   - responsive-web-design
   - emerging-tech

@@ -7,7 +7,7 @@ topics:
   - mobile
   - cdc
   - content-strategy
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
 ---
 

@@ -7,7 +7,7 @@ authors:
   - genevieve-contey
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
 ---
 

@@ -15,7 +15,7 @@ topics:
   - code
   - innovation
   - mobile
-  - mobile-apps
+  - mobile
   - native-apps
 
 ---

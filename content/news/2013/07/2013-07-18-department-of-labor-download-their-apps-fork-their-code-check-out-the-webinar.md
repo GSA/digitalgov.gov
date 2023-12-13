@@ -9,7 +9,7 @@ topics:
   - code
   - mobile
   - DOL
-  - mobile-apps
+  - mobile
   - OSHA
   - us-department-of-labor
 ---

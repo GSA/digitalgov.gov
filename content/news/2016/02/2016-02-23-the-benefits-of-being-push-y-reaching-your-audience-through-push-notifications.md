@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
   - OPM
   - united-states-office-of-personnel-management
 ---

@@ -13,7 +13,7 @@ topics:
   - content-strategy
   - mobile
   - content-strategy
-  - mobile-apps
+  - mobile
   - multilingual
 
 aliases:

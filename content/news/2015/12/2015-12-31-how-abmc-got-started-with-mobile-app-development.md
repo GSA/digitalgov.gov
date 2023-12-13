@@ -7,7 +7,7 @@ authors:
   - jenny-johnson
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - mobile-testing
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4

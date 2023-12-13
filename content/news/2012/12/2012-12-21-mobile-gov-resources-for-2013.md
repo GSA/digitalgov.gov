@@ -11,7 +11,7 @@ topics:
   - gsa
   - HHS
   - IRS
-  - mobile-apps
+  - mobile
   - mobile-gov
   - mobile-first
   - mobile-gov

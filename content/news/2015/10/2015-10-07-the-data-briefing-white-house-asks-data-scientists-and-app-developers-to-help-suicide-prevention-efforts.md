@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - mobile-apps
+  - mobile
   - native-apps
   - open-data
   - emerging-tech

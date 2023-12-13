@@ -7,7 +7,7 @@ authors:
   - jenny-johnson
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - ios
   - native-apps
   - responsive-web-design

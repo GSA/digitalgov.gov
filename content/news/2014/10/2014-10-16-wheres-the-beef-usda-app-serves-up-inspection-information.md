@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ICE
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - US Department of Agriculture
   - us-immigration-and-customs-enforcement

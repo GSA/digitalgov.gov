@@ -7,7 +7,7 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - USPS
 ---

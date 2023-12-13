@@ -9,7 +9,7 @@ topics:
   - mobile
   - federal-emergency-management-agency
   - fema
-  - mobile-apps
+  - mobile
   - SSA
   - the-united-states-social-security-administration
   - thursday-mobile-products

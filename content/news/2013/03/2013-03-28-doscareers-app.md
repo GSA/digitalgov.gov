@@ -5,7 +5,7 @@ title: DOSCareers App
 summary: The U.S. Department of State has released a mobile app that informs and educates potential foreign service officers about a diplomatic career. The app provides access
 topics:
   - mobile
-  - mobile-apps
+  - mobile
   - thursday-mobile-products
   - us-department-of-state
 ---

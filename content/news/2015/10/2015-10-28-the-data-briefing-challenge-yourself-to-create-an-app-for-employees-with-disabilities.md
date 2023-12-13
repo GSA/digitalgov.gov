@@ -17,7 +17,7 @@ topics:
   - FCC
   - federal-communications-commission
   - gsa
-  - mobile-apps
+  - mobile
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3
   - emerging-tech

@@ -10,7 +10,7 @@ topics:
   - design
   - mobile
   - emerging-tech
-  - mobile-apps
+  - mobile
   - user-experience
   - virtual-augmented-reality-community
 
