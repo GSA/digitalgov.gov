@@ -10,17 +10,13 @@ topics:
   - product-management
   - analytics
   - mobile
-  - multimedia
   - analytics
-  - multimedia
   - content-strategy
   - content-strategy
-  - multimedia
   - analytics
   - mobile
   - recaps
   - multimedia
-  - virtual-reality
   - virtual-augmented-reality-community
 
 ---

@@ -18,7 +18,7 @@ topics:
   - social-media
   - socialgov
   - socialgov-community
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

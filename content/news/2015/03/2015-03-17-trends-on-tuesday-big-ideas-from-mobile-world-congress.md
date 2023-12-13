@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

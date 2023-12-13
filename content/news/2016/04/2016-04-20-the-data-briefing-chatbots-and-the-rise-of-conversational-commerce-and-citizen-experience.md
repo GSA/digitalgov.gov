@@ -19,7 +19,7 @@ topics:
   - United States Patent and Trademark Office
   - user-experience
   - USPTO
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

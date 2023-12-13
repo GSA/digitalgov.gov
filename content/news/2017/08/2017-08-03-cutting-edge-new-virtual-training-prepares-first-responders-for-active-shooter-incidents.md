@@ -20,7 +20,6 @@ topics:
   - united-states-army
   - united-states-department-of-homeland-security
   - multimedia
-  - virtual-reality
   - virtual-augmented-reality-community
 
 ---

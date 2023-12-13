@@ -19,7 +19,7 @@ topics:
   - multilingual
   - social-media
   - us-digital-registry
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

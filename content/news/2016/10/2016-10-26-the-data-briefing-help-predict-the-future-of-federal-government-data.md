@@ -29,7 +29,7 @@ topics:
   - research
   - security
   - emerging-tech
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

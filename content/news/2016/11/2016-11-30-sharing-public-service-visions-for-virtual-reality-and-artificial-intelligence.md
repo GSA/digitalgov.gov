@@ -12,7 +12,7 @@ topics:
   - artificial-intelligence
   - communities
   - innovation
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

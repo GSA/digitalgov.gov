@@ -20,7 +20,7 @@ end_date: 2018-08-06 13:00:00 -0500
 topics: 
   - emerging-tech
   - artificial-intelligence
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 
 # see all authors at https://digital.gov/authors

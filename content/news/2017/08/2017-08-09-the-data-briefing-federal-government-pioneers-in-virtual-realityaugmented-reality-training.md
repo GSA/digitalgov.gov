@@ -10,7 +10,6 @@ topics:
   - user-experience
   - emerging-tech
   - multimedia
-  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

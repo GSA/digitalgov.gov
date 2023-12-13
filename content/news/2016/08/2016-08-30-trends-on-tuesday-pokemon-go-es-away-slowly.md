@@ -9,10 +9,8 @@ topics:
   - mobile
   - emerging-tech
   - content-strategy
-  - mobile
-  - mobile
   - emerging-tech
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

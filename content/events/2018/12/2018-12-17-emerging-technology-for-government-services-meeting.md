@@ -16,7 +16,7 @@ topics:
   - artificial-intelligence
   - social-media
   - virtual-augmented-reality-community
-  - virtual-reality
+  - multimedia
 
 ---
 

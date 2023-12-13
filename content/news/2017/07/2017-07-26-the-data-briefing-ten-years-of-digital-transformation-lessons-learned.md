@@ -22,7 +22,7 @@ topics:
   - cloud-and-infrastructure
   - innovation
   - emerging-tech
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

@@ -12,7 +12,7 @@ expirydate: 2021-12-10
 
 # see all topics at https://digital.gov/topics
 topics:
-  - virtual-reality
+  - multimedia
   - emerging-tech
 
 # Page weight: controls how this page appears across the site

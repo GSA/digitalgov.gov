@@ -24,7 +24,7 @@ topics:
   - cloud-and-infrastructure
   - dod
   - emerging-tech
-  - virtual-reality
+  - multimedia
 
 # see all authors at https://digital.gov/authors
 authors: 

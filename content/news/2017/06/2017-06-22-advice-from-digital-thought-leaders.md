@@ -16,7 +16,6 @@ topics:
   - innovation
   - united-states-department-of-health-and-human-services
   - multimedia
-  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

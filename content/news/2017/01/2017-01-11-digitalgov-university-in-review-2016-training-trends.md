@@ -38,7 +38,7 @@ topics:
   - open-opportunities-program
   - social-media
   - training
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 
 ---
