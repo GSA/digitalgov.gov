@@ -26,7 +26,6 @@ topics:
   - peace-corps
   - SBA
   - us-agency-for-international-development
-  
   - united-states-department-of-health-and-human-services
   - united-states-department-of-housing-and-urban-development
   - usaid
