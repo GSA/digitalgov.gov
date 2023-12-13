@@ -19,7 +19,6 @@ topics:
   - project-management
   - scrum
   - sprint
-  
 ---
 
 The concepts of agile may not be new, but there is a renewed push across government to embrace this customer-feedback driven methodology, in everything from software development to project management. A government community has even sprung up to help feds learn from one another what it takes to incorporate agile into more efficient and effective government services. So this month we’re throwing the spotlight on what agile looks like in the federal government right now:
