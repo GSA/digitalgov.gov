@@ -19,7 +19,6 @@ topics:
   - NOAA
   - open-data
   - OSTP
-  
   - white-house-office-of-science-and-technology-policy
 ---
 
