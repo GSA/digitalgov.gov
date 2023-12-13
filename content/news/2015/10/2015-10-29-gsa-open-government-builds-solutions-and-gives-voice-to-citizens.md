@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - data-gov
-  - national-action-plan-on-open-government
+
   - open-government
 ---
 

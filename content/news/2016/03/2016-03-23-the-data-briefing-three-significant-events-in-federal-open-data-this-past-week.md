@@ -14,7 +14,7 @@ topics:
   - agile
   - application-programming-interface
   - dhs
-  - national-action-plan-on-open-government
+  - open-government
   - open-data
   - open-source
   - emerging-tech
