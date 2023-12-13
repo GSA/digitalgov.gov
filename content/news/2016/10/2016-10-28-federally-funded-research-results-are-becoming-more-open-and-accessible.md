@@ -32,7 +32,6 @@ topics:
   - us-department-of-education
   - us-department-of-veterans-affairs
   - us-environmental-protection-agency
-  
   - united-states-department-of-energy
   - united-states-department-of-transportation
   - VA
