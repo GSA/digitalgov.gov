@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - monthly-theme
   - plain-language
-  - plain-language-community-of-practice
+  - plain-language
   - US Citizenship and Immigration Service
   - USCIS
 ---

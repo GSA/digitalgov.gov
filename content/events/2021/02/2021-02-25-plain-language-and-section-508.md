@@ -18,7 +18,7 @@ topics:
   - plain-language
   - training
   - communication
-  - plain-language-community-of-practice
+  - plain-language
 # See all authors at https://digital.gov/authors
 authors:
   - bethany-letalien

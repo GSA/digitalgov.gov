@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - customer-experience
   - plain-language
-  - plain-language-community-of-practice
+  - plain-language
   - usability
   - communication
 # See all authors at https://digital.gov/authors

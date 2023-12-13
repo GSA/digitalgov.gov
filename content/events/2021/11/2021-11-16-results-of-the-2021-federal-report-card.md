@@ -12,7 +12,7 @@ end_date: 2021-12-08 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - plain-language-community-of-practice
+  - plain-language
   - plain-writing-act-of-2010
   - training
   - communication

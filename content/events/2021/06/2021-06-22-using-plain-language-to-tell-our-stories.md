@@ -15,7 +15,7 @@ topics:
   - content-strategy
   - content-strategy
   - customer-experience
-  - plain-language-community-of-practice
+  - plain-language
   - plain-language
   - communication
   - professional-development

@@ -9,7 +9,7 @@ topics:
   - seo
   - accessibility
   - plain-language
-  - plain-language-community-of-practice
+  - plain-language
   - content-strategy
   - analytics
 # See all authors at https://digital.gov/authors

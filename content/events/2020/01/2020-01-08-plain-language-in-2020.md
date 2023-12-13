@@ -22,7 +22,7 @@ topics:
   - accessibility
   - content-strategy
   - plain-language
-  - plain-language-community-of-practice
+  - plain-language
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -24,7 +24,7 @@ topics:
   - plain-language
   - user-experience
   - communication
-  - plain-language-community-of-practice
+  - plain-language
 
 # see all authors at https://digital.gov/authors
 authors: 

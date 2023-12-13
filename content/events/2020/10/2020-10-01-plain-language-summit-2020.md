@@ -19,7 +19,7 @@ topics:
   - user-experience
   - communication
   - plain-language
-  - plain-language-community-of-practice
+  - plain-language
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
