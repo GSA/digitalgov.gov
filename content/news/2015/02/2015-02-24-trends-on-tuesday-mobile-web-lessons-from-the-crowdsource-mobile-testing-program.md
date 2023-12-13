@@ -11,7 +11,7 @@ topics:
   - user-experience
   - Defense Finance and Accounting Services
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - responsive-web-design

@@ -11,7 +11,7 @@ topics:
   - customer-experience
   - Government Contact Center Council
   - government-contact-centers
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-5
   - emerging-tech
 ---

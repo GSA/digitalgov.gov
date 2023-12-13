@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - content-strategy
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-1
   - mobile
   - mobile

@@ -9,7 +9,7 @@ authors:
 topics:
   - mobile
   - DOL
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-4
   - NPS
   - open-opportunities-program

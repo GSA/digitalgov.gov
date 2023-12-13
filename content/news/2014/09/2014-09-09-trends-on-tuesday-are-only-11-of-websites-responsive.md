@@ -13,7 +13,7 @@ topics:
   - DFAS
   - DOE
   - HHS
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-1
   - responsive-web-design
   - emerging-tech

@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - communities
   - customer-experience
-  - mobile-gov-community-of-practice
+  - mobile
   - socialgov-community
 ---
 

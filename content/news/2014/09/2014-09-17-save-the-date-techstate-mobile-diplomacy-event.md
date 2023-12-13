@@ -10,7 +10,7 @@ topics:
   - Census
   - DoD
   - DOL
-  - mobile-gov-community-of-practice
+  - mobile
   - us-department-of-labor
   - us-department-of-state
   - united-states-census-bureau

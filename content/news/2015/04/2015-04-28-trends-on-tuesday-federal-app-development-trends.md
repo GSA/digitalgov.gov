@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - mobile-ux-guideline-6

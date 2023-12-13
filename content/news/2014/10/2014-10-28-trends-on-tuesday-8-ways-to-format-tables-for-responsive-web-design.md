@@ -11,7 +11,7 @@ topics:
   - design
   - mobile
   - monthly-theme
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-1
   - responsive-web-design
 

@@ -8,7 +8,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - HHS
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile
   - national-institutes-of-health
   - nih

@@ -20,7 +20,7 @@ topics:
   - government-contact-centers
   - HHS
   - emerging-tech
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - mobile

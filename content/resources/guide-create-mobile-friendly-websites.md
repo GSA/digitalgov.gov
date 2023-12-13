@@ -10,7 +10,7 @@ topics:
   - mobile
   - content-strategy
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
 
 ---
 

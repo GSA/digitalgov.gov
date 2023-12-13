@@ -7,7 +7,7 @@ authors:
   - zeshan-khan
 topics:
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-5
   - emerging-tech
 ---

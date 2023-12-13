@@ -9,7 +9,7 @@ topics:
   - mobile
   - DOL
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - nih
   - us-department-of-labor
   - user-experience

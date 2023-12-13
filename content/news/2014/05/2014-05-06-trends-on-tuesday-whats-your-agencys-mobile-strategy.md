@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-2
   - emerging-tech
 ---

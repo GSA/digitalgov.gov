@@ -12,7 +12,7 @@ topics:
   - product-management
   - mobile
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
 
 # originally published at the following URL
 source_url: "https://digital.gov/guides/mobile-principles/"

@@ -18,7 +18,7 @@ topics:
   - GitHub
   - json
   - metadata
-  - mobile-gov-community-of-practice
+  - mobile
   - content-strategy
   - open-data
   - recaps

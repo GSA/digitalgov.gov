@@ -9,7 +9,7 @@ topics:
   - product-management
   - mobile
   - application-programming-interface
-  - mobile-gov-community-of-practice
+  - mobile
   - emerging-tech
 ---
 

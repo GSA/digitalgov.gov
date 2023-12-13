@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - HHS
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-4
   - responsive-web-design
   - emerging-tech

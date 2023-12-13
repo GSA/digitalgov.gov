@@ -10,7 +10,7 @@ topics:
   - HHS
   - mobile
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - thursday-mobile-products
   - united-states-department-of-health-and-human-services
 ---

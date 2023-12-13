@@ -7,7 +7,7 @@ topics:
   - mobile
   - architect-of-the-capitol
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - national-archives-and-records-administration
   - NPS
   - thursday-mobile-products

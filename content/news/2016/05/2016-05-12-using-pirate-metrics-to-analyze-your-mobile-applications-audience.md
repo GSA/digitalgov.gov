@@ -10,7 +10,7 @@ topics:
   - mobile
   - analytics
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile
   - native-apps
   - design

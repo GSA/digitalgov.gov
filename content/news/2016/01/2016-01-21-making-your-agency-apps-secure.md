@@ -10,7 +10,7 @@ topics:
   - our-work
   - mobile
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-6
   - mobile

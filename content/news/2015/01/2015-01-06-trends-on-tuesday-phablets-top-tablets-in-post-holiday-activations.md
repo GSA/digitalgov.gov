@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-1
   - mobile
   - emerging-tech

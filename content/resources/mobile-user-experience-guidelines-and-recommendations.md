@@ -12,7 +12,7 @@ topics:
   - mobile
   - user-experience
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
 
 aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/

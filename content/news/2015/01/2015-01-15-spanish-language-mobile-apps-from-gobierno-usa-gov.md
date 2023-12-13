@@ -15,7 +15,7 @@ topics:
   - GobiernoUSAgov
   - Internal Revenue Service
   - IRS
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-ux-guideline-5
   - multilingual
   - multilingual-community

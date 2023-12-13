@@ -12,7 +12,7 @@ topics:
   - hhs
   - loc
   - mobile
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-3
   - nps

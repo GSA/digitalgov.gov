@@ -7,7 +7,7 @@ deck:
 topics:
   - mobile
   - content-strategy
-  - mobile-gov-community-of-practice
+  - mobile
   - mobile
 aliases:
 
