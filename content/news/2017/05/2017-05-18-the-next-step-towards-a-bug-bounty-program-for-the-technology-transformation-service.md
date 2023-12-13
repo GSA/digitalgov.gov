@@ -16,7 +16,6 @@ topics:
   - security
   - technology-transformation-services
   - tts
-  
   - our-work
 
 ---
