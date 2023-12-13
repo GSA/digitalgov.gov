@@ -24,7 +24,6 @@ topics:
   - trends-on-tuesday
   - us-department-of-state
   - us-food-and-drug-administration
-  
   - USDA
   - user-experience
 
