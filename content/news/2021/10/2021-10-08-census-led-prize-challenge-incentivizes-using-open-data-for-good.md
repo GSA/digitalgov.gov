@@ -11,7 +11,7 @@ summary: The Open Data for Good Grand Challenge is now welcoming submissions
 topics:
   - open-data
   - census
-  - united-states-census-bureau
+  
   - challenges-and-prize-competitions
   - challenge-gov
   - challenges

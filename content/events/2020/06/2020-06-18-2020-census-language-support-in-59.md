@@ -22,7 +22,7 @@ topics:
   - multilingual
   - census
   - multilingual-community
-  - united-states-census-bureau
+  
 
 # see all authors at https://digital.gov/authors
 authors: 

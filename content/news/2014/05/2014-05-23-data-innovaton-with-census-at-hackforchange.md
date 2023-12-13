@@ -21,7 +21,7 @@ topics:
   - SBA
   - us-environmental-protection-agency
   - us-small-business-administration
-  - united-states-census-bureau
+  
   - USPTO
   - white-house
 ---

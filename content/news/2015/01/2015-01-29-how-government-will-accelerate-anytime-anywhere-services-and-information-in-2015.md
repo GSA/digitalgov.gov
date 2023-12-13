@@ -28,7 +28,7 @@ topics:
   - nasa
   - open-and-structured-content-models
   - trends-on-tuesday
-  - united-states-census-bureau
+  
   - united-states-department-of-health-and-human-services
   - united-states-department-of-transportation
   - United States Postal Service

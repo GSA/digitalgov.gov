@@ -19,7 +19,7 @@ topics:
   - open-data
   - thursday-mobile-products
   - us-environmental-protection-agency
-  - united-states-census-bureau
+  
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 

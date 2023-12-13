@@ -14,7 +14,7 @@ topics:
   - json
   - national-day-of-civic-hacking
   - open-data
-  - united-states-census-bureau
+  
 ---
 
 Civic hackers are a special breed—their primary motivation is closely tied to the social issues closest to their hearts.

@@ -21,7 +21,7 @@ topics:
   - open-and-structured-content-models
   - recaps
   - structured-content
-  - united-states-census-bureau
+  
 ---
 
 Structured content and open content models [can help you create content]({{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) that is platform-agnostic, format-free, and device-independent. This was the theme of the &#8220;What Structured Content Can Do For You: Article Model&#8221; webinar last month.

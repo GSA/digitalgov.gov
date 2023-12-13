@@ -34,7 +34,7 @@ topics:
   - us-department-of-education
   - us-department-of-labor
   - us-environmental-protection-agency
-  - united-states-census-bureau
+  
   - united-states-department-of-health-and-human-services
   - united-states-department-of-housing-and-urban-development
   - united-states-department-of-transportation
