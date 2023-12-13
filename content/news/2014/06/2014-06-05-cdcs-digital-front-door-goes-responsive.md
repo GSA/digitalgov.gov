@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - united-states-department-of-health-and-human-services
 ---
 

@@ -10,7 +10,7 @@ topics:
   - our-work
   - digitalgov-summit
   - mobile
-  - thursday-mobile-products
+  - mobile
  
 ---
 
@@ -26,7 +26,7 @@ Here’s how you can help agencies get their promotional mojo by participating i
 
   * Check out the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml) to see if your agency&#8217;s products are listed.
   * If they are listed, great!
-  * If not, [email us](mailto:digitalgov@gsa.gov) with the subject line “LostApps,” and tell us the name of the mobile app or website and the contact person for it. We will add the app or website to the registry, and we may profile it in our [Thursday Mobile Products]({{< ref "/topics/thursday-mobile-products" >}}) series here on DigitalGov.
+  * If not, [email us](mailto:digitalgov@gsa.gov) with the subject line “LostApps,” and tell us the name of the mobile app or website and the contact person for it. We will add the app or website to the registry, and we may profile it in our [Thursday Mobile Products]({{< ref "/topics/mobile" >}}) series here on DigitalGov.
 
 Stay tuned, as we will be bringing you periodic updates about our progress in finding missing apps. Help us spread the word by using the hashtags #lostapps and #mobilegov on Twitter.
 

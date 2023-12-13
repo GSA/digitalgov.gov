@@ -13,7 +13,7 @@ topics:
   - National Weather Service
   - NOAA
   - NWS
-  - thursday-mobile-products
+  - mobile
  
 ---
 

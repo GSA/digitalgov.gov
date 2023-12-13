@@ -18,7 +18,7 @@ topics:
   - mobile
   - Office of Governmentwide Policy
   - OGP
-  - thursday-mobile-products
+  - mobile
   - US Department of Agriculture
   - us-general-services-administration
 ---

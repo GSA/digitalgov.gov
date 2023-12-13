@@ -10,7 +10,7 @@ topics:
   - mobile
   - NARA
   - national-archives-and-records-administration
-  - thursday-mobile-products
+  - mobile
  
 ---
 

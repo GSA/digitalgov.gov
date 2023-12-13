@@ -10,7 +10,7 @@ topics:
   - mobile
   - NREL
   - open-source
-  - thursday-mobile-products
+  - mobile
 ---
 
 So: You decided to purchase a car that takes advantage of more environmentally friendly fuel. Congratulations! Now, you need to find a place to fill the tank that offers more than just regular gas.

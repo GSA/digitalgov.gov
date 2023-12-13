@@ -12,7 +12,7 @@ topics:
   - mobile
   - SSA
   - the-united-states-social-security-administration
-  - thursday-mobile-products
+  - mobile
   - united-states-geological-survey
  
   - USGS

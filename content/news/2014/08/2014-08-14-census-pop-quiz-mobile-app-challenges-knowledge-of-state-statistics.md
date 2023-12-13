@@ -9,7 +9,7 @@ topics:
   - department-of-commerce
   - mobile
   - open-data
-  - thursday-mobile-products
+  - mobile
   - united-states-census-bureau
  
 ---

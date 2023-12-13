@@ -9,7 +9,7 @@ topics:
   - mobile
   - NOAA
   - mobile
-  - thursday-mobile-products
+  - mobile
   - user-experience
 ---
 

@@ -9,7 +9,7 @@ topics:
   - mobile
   - ios
   - mobile
-  - thursday-mobile-products
+  - mobile
 
 ---
 

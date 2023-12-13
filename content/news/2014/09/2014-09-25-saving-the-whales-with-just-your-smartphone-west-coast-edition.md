@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - NOAA
-  - thursday-mobile-products
+  - mobile
 ---
 
 {{< legacy-img src="2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}

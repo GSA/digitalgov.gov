@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - thursday-mobile-products
+  - mobile
   - united-states-department-of-energy
 ---
 

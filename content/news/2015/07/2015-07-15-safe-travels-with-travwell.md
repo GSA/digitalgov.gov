@@ -11,7 +11,7 @@ topics:
   - cdc
   - ios
   - mobile
-  - thursday-mobile-products
+  - mobile
  
 
 ---

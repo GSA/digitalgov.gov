@@ -6,7 +6,7 @@ summary: "The American Battle Monuments Commission (ABMC) released three new mob
 topics:
   - mobile
   - ios
-  - thursday-mobile-products
+  - mobile
  
 
 ---

@@ -7,7 +7,7 @@ topics:
   - mobile
   - us-customs-and-border-protection
   - mobile
-  - thursday-mobile-products
+  - mobile
   - US Customs and Border Protection
  
 ---

@@ -11,7 +11,7 @@ topics:
   - Internal Revenue Service
   - IRS
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-immigration-and-customs-enforcement
  
 ---

@@ -10,7 +10,7 @@ topics:
   - us-customs-and-border-protection
   - dhs
   - ICE
-  - thursday-mobile-products
+  - mobile
   - US Customs and Border Protection
   - us-immigration-and-customs-enforcement
   - united-states-department-of-homeland-security

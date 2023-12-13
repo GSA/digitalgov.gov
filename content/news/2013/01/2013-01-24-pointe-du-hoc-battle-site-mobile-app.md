@@ -7,7 +7,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
 ---
 
 [{{< legacy-img src="2013/01/pointe-du-hoc-mobile-app-screenshot.jpg" alt="Pointe du Hoc Battle site app welcome screen showing a black and white image of WWII soldiers climbing over rubble." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/01/pointe-du-hoc-mobile-app-screenshot.jpg)The [Pointe du Hoc mobile app](http://www.abmc.gov/events/PDH_APP_Release.php) serves as a tour guide and learning tool for this World War II D-Day landing site in France. The [American Battle Monuments Commission](http://www.abmc.gov/home.php) (ABMC) developed both [Android and iPhone versions](http://www.abmc.gov/events/PDH_APP_Release.php), which take advantage of your smartphone&#8217;s GPS features to provide a walking tour of the battle site in Normandy and allows you to experience how U.S. Army Rangers scaled the 100 ft. cliffs of Pointe du Hoc, destroyed a critical German battery and took control of the coastal highway, playing a crucial role in the Allied success of D-Day.

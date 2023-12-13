@@ -15,7 +15,7 @@ topics:
   - national-institute-of-standards-and-technology
   - NIST
   - open-data
-  - thursday-mobile-products
+  - mobile
   - us-environmental-protection-agency
   - united-states-census-bureau
 ---

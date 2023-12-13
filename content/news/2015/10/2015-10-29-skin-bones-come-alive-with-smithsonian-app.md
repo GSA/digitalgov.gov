@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - thursday-mobile-products
+  - mobile
 
 ---
 

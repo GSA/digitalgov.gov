@@ -11,7 +11,7 @@ topics:
   - Internal Revenue Service
   - IRS
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-digital-registry
  
 primary_image: irs2go-google-play-logo-1200

@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile
   - SSA
-  - thursday-mobile-products
+  - mobile
 
 ---
 

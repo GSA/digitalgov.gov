@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
 ---
 
 Need to make a pitch for injury prevention? About to give an impromptu public health presentation that can benefit from a few sobering data points about leading causes of death in your state? (Or maybe you just have a keen interest in the macabre while waiting for the bus.)

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-national-park-service
 ---
 

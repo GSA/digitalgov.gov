@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - smithsonian-institution
-  - thursday-mobile-products
+  - mobile
 ---
 
 [{{< legacy-img src="2013/07/JFKCubanMissileCrisisApp-250x227.png" alt="The 2013 JFK Library and Museum exhibit “To the Brink: JFK and the Cuban Missile Crisis” now has a virtual partner on the iPad. " >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/JFKCubanMissileCrisisApp.png)The 2013 <a href="http://www.jfklibrary.org/" target="_blank">JFK Library and Museum</a> exhibit <a href="http://foundationnationalarchives.org/cmc/" target="_blank">“To the Brink: JFK and the Cuban Missile Crisis</a>” now has a virtual partner on the iPad. Anytime, anywhere, people will be able to experience this extraordinary moment in history.

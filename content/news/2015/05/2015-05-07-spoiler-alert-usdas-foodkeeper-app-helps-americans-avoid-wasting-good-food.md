@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ios
-  - thursday-mobile-products
+  - mobile
   - US Department of Agriculture
   - USDA
 ---

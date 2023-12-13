@@ -13,7 +13,7 @@ topics:
   - user-experience
   - code
   - innovation
-  - thursday-mobile-products
+  - mobile
 ---
 
 > _A few weeks ago, [_Progressive Web Applications, Part 1: the New Pack Mule of the Internet_]({{< ref "2016-09-20-progressive-web-applications-part-1-the-new-pack-mule-of-the-internet.md" >}}) _introduced PWAs and the technologies behind them. We shared that article to the [_MobileGov Community of Practice_]({{< ref "/communities" >}}) and asked about the pros and cons of this approach to_ [_winning mobile moments_]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}})._

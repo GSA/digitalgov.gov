@@ -12,7 +12,7 @@ topics:
   - mobile
   - design
   - recaps
-  - thursday-mobile-products
+  - mobile
   - us-department-of-veterans-affairs
   - VA
 

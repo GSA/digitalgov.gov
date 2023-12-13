@@ -15,7 +15,7 @@ topics:
 
   - multilingual
   - social-media
-  - thursday-mobile-products
+  - mobile
 
 ---
 

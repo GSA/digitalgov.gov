@@ -8,7 +8,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - thursday-mobile-products
+  - mobile
  
 
 ---

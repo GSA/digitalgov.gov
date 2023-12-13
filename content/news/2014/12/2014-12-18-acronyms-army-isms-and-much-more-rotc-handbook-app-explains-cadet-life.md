@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - application-programming-interface
-  - thursday-mobile-products
+  - mobile
   - united-states-army
 ---
 

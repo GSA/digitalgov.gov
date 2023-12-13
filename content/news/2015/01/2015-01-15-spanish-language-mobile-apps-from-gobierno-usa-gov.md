@@ -23,7 +23,7 @@ topics:
   - nih
   - SSA
   - the-united-states-social-security-administration
-  - thursday-mobile-products
+  - mobile
 
 ---
 

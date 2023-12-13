@@ -12,7 +12,7 @@ topics:
   - CMS
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-department-of-education
 ---
 

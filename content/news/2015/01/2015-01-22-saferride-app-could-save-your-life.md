@@ -11,7 +11,7 @@ topics:
   - DOT
   - National Highway Traffic Safety Administration
   - terms-of-service
-  - thursday-mobile-products
+  - mobile
   - tos
   - united-states-department-of-transportation
 ---

@@ -16,7 +16,7 @@ topics:
   - HHS
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-department-of-veterans-affairs
   - us-environmental-protection-agency
   - united-states-department-of-defense

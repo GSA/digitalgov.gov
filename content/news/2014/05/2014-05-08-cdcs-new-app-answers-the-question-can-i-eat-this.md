@@ -8,7 +8,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - mobile
-  - thursday-mobile-products
+  - mobile
  
 ---
 

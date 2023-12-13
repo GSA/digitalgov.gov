@@ -9,7 +9,7 @@ topics:
   - LOC
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
  
 ---
 

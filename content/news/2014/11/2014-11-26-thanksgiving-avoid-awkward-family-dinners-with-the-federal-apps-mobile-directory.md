@@ -11,7 +11,7 @@ topics:
   - cdc
   - Census
   - centers-for-disease-control-and-prevention
-  - thursday-mobile-products
+  - mobile
   - US Department of Agriculture
   - united-states-census-bureau
   - usagov

@@ -17,7 +17,7 @@ topics:
   - mobile
   - national-institutes-of-health
   - nih
-  - thursday-mobile-products
+  - mobile
   - TSA
   - us-department-of-labor
   - united-states-department-of-health-and-human-services

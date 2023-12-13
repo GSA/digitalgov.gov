@@ -10,7 +10,7 @@ topics:
   - department-of-commerce
   - mobile
   - SBA
-  - thursday-mobile-products
+  - mobile
   - us-small-business-administration
  
 ---

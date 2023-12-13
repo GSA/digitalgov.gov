@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - SAMHSA
-  - thursday-mobile-products
+  - mobile
   - united-states-department-of-health-and-human-services
  
 ---

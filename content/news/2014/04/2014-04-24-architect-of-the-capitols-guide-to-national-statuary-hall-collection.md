@@ -7,7 +7,7 @@ topics:
   - mobile
   - architect-of-the-capitol
   - mobile
-  - thursday-mobile-products
+  - mobile
 ---
 
 [{{< legacy-img src="2014/04/250-x-333-US-Capitol-Guide-to-State-Statues-National-Statuary-Hall-Collection.jpg" alt="US Capitol Guide to State Statues National Statuary Hall Collection" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/600-x-800-US-Capitol-Guide-to-State-Statues-National-Statuary-Hall-Collection.jpg)The [Architect of the Capitol&#8217;s](http://www.aoc.gov/) new app gives users the ability to view the collection of statues donated by the 50 states in its [Guide to the National Statuary Hall Collection of State Statues](http://www.visitthecapitol.gov/apps), available on iOS.

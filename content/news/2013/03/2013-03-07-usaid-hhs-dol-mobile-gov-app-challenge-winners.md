@@ -10,7 +10,7 @@ topics:
   - HHS
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-department-of-labor
   - united-states-department-of-health-and-human-services
   - usaid

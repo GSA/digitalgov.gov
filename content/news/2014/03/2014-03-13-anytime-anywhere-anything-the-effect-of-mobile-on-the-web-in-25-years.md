@@ -14,7 +14,7 @@ topics:
   - mobile
   - NOAA
   - content-strategy
-  - thursday-mobile-products
+  - mobile
   - US Customs and Border Protection
   - us-department-of-labor
   - USDA

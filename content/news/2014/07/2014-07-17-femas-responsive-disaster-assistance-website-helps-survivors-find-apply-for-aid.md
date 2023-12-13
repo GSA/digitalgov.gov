@@ -10,7 +10,7 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - mobile
-  - thursday-mobile-products
+  - mobile
 ---
 
 {{< legacy-img src="2014/07/600-x-310-DisasterAssistancedotgov_screenshot.jpg" alt="600-x-310-DisasterAssistancedotgov_screenshot" >}}

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
 ---
 
 Are you active or retired Coast Guard — or related to someone who is? If so, you’ll want to spread the word about the United States Coast Guard&#8217;s Health, Safety and Work Life (HSWL) app from [USCG’s Office of Work-Life Programs](http://www.uscg.mil/HSWL/).

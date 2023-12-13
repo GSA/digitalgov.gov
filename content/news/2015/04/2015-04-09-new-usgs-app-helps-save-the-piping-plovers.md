@@ -10,7 +10,7 @@ topics:
   - mobile
   - crowdsourcing-and-citizen-science
   - mobile
-  - thursday-mobile-products
+  - mobile
   - united-states-geological-survey
   - USGS
 ---

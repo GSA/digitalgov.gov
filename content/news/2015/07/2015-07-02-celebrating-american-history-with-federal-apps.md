@@ -13,7 +13,7 @@ topics:
   - NARA
   - national-archives-and-records-administration
   - smithsonian-institution
-  - thursday-mobile-products
+  - mobile
  
 ---
 

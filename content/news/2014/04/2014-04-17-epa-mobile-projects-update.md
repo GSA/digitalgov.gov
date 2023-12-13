@@ -11,7 +11,7 @@ topics:
   - policy
   - epa
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-environmental-protection-agency
  
 ---

@@ -10,7 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
 
 ---
 

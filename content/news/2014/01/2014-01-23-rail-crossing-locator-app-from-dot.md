@@ -8,7 +8,7 @@ topics:
   - DOT
   - Federal Railroad Administration
   - mobile
-  - thursday-mobile-products
+  - mobile
 ---
 
 {{< legacy-img src="2014/11/600-x-500-FRA-DOT-Rail-Crossing-Locator-iPhone-app.jpg" alt="Department of Transportation Rail Crossing App Screenshots" >}}

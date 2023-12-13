@@ -17,7 +17,7 @@ topics:
   - mobile
   - mobile
   - Nuclear Regulatory Commission
-  - thursday-mobile-products
+  - mobile
   - us-environmental-protection-agency
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services

@@ -10,7 +10,7 @@ topics:
   - mobile
   - national-archives-and-records-administration
   - NPS
-  - thursday-mobile-products
+  - mobile
   - us-national-park-service
  
 ---

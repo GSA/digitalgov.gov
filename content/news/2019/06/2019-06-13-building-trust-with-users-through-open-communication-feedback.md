@@ -16,7 +16,7 @@ topics:
   - mobile
   - content-strategy
   - mobile
-  - thursday-mobile-products
+  - mobile
 
 # see all authors at https://digital.gov/authors
 authors:

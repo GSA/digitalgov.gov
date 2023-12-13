@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - mobile
-  - thursday-mobile-products
+  - mobile
 
 ---
 

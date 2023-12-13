@@ -9,7 +9,7 @@ topics:
   - mobile
   - ICE
   - mobile
-  - thursday-mobile-products
+  - mobile
   - US Department of Agriculture
   - us-immigration-and-customs-enforcement
   - USDA

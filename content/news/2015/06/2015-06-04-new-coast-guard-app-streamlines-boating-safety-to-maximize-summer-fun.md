@@ -9,7 +9,7 @@ authors:
 topics:
   - ios
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-coast-guard
  
 ---

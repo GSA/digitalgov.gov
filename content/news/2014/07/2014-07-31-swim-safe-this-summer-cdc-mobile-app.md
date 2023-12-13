@@ -10,7 +10,7 @@ topics:
   - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - thursday-mobile-products
+  - mobile
  
 ---
 

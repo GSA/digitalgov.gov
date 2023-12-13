@@ -9,7 +9,7 @@ topics:
   - mobile
   - fda
   - ios
-  - thursday-mobile-products
+  - mobile
 
 ---
 

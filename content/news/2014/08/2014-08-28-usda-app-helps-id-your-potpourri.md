@@ -6,7 +6,7 @@ summary: 'Got a thing for dried botanicals? (No, not THOSE &#8230; but the stuff
 topics:
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
 
 ---
 

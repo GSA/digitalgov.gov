@@ -8,7 +8,7 @@ topics:
   - mobile
   - centers-for-disease-control-and-prevention
   - SAMHSA
-  - thursday-mobile-products
+  - mobile
  
 ---
 

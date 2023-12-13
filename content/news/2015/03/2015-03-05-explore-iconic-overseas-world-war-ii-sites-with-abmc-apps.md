@@ -12,7 +12,7 @@ topics:
   - abmc
   - american-battle-monuments-commission
   - mobile
-  - thursday-mobile-products
+  - mobile
  
 ---
 

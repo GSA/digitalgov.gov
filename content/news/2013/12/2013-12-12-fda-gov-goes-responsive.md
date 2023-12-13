@@ -7,7 +7,7 @@ topics:
   - mobile
   - fda
   - mobile
-  - thursday-mobile-products
+  - mobile
 ---
 
 [<img class="alignright  wp-image-104532" alt="FDA Responsive SIte" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/photo-FDAgovmobilehomepage.jpg" width="381" height="546" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/photo-FDAgovmobilehomepage.jpg)It’s late at night. Your child can&#8217;t sleep: She has some kind of virus. You reach for a bottle of over-the-counter infant fever reducer you bought recently. _But wait_, you say to yourself: _Didn&#8217;t I hear on the news something about a recall? Which brand was that again?_

@@ -15,7 +15,7 @@ topics:
   - GitHub
   - multilingual
   - open-source
-  - thursday-mobile-products
+  - mobile
  
 ---
 

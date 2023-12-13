@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - user-experience
 ---
 

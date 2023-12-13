@@ -14,7 +14,7 @@ topics:
   - gsa
   - mobile
   - content-strategy
-  - thursday-mobile-products
+  - mobile
   - user-experience
   
 ---

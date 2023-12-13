@@ -229,7 +229,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< ref "/topics/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
+  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< ref "/topics/mobile" >}}) blogger Kevin Downey was one of the people on that page earlier.
   * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< ref "/topics/monthly-theme" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
   * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions._-Jacob Parcell, Manager, [Mobile Programs]({{< ref "/topics/mobile" >}})_
 

@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-department-of-state
 ---
 

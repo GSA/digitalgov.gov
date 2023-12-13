@@ -12,7 +12,7 @@ topics:
   - HUD
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - united-states-department-of-housing-and-urban-development
 ---
 

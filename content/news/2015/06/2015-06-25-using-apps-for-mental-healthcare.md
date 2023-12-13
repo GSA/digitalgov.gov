@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - DoD
-  - thursday-mobile-products
+  - mobile
   - united-states-department-of-defense
  
 ---

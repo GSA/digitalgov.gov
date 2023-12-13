@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - top-tasks
   - us-department-of-labor
   - usability-testing

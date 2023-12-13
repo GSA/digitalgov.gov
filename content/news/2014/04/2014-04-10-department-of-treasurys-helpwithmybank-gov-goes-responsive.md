@@ -7,7 +7,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-department-of-the-treasury
  
 ---

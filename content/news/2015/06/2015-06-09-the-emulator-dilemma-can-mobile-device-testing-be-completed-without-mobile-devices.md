@@ -14,7 +14,7 @@ topics:
   - user-experience
 ---
 
-Government agencies have created a [variety of apps to meet the needs of the public]({{< ref "/topics/thursday-mobile-products" >}}). As you join in on the [mobile first trend]({{< ref "2013-09-30-mobile-first.md" >}}) and begin developing your shiny new mobile application, you will need to test it.
+Government agencies have created a [variety of apps to meet the needs of the public]({{< ref "/topics/mobile" >}}). As you join in on the [mobile first trend]({{< ref "2013-09-30-mobile-first.md" >}}) and begin developing your shiny new mobile application, you will need to test it.
 
 There are a basic set of questions that must be answered:
 

@@ -14,7 +14,7 @@ topics:
   - mobile
   - NPS
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-national-park-service
 ---
 

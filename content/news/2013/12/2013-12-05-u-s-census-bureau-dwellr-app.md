@@ -11,7 +11,7 @@ topics:
   - application-programming-interface
   - Census
   - mobile
-  - thursday-mobile-products
+  - mobile
   - united-states-census-bureau
 ---
 

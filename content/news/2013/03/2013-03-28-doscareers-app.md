@@ -6,7 +6,7 @@ summary: The U.S. Department of State has released a mobile app that informs and
 topics:
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - us-department-of-state
 ---
 

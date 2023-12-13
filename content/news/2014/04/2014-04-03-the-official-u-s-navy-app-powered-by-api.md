@@ -7,7 +7,7 @@ topics:
   - application-programming-interface
   - mobile
   - mobile
-  - thursday-mobile-products
+  - mobile
   - united-states-navy
 ---
 

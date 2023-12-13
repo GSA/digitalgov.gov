@@ -12,7 +12,7 @@ topics:
   - North American Defense Command
   - SSA
   - the-united-states-social-security-administration
-  - thursday-mobile-products
+  - mobile
 ---
 
 > &#8216;Twas the night before Christmas, when all through the house,
