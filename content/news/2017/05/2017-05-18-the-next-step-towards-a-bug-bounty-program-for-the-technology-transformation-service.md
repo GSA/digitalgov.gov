@@ -16,7 +16,7 @@ topics:
   - security
   - technology-transformation-services
   - tts
-  - united-states-department-of-defense
+  
   - our-work
 
 ---

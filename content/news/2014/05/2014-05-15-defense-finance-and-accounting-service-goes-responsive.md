@@ -19,7 +19,7 @@ topics:
   - thursday-mobile-products
   - us-department-of-veterans-affairs
   - us-environmental-protection-agency
-  - united-states-department-of-defense
+  
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - VA

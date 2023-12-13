@@ -14,7 +14,7 @@ topics:
   - us-department-of-labor
   - us-department-of-state
   
-  - united-states-department-of-defense
+  
 ---
 
 [{{< legacy-img src="2014/09/250-x-386-Tech-at-State-Mobile-Diplomacy-graphic.jpg" alt="Tech at State, Mobile Diplomacy" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/09/600-x-927-Tech-at-State-Mobile-Diplomacy-graphic.jpg)[Sign up now](http://www.eventbrite.com/e/techstate-mobile-diplomacy-registration-13125892899?aff=gsa) to join fellow MobileGov Community of Practice members for [Tech@State&#8217;s Mobile Diplomacy](http://tech.state.gov/profiles/blogs/tech-state-mobile-diplomacy-agenda) conference on Friday, October 3, 2014!

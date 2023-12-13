@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - DoD
   
-  - united-states-department-of-defense
+  
   - usability
   - usability-case-study
   - usability-testing

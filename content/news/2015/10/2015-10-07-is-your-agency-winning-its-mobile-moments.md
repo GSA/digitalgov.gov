@@ -16,7 +16,7 @@ topics:
   - NOAA
   - transportation-security-administration
   - TSA
-  - united-states-department-of-defense
+  
 ---
 
 Someone has a problem they are trying to solve. They pull out their mobile device and find a solution. They move onto something else. That&#8217;s a mobile moment.

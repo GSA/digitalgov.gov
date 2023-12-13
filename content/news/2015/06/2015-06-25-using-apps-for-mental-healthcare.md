@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-6
   - native-app
   - thursday-mobile-products
-  - united-states-department-of-defense
+  
  
 ---
 

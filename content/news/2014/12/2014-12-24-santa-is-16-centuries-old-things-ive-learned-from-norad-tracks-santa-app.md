@@ -12,7 +12,7 @@ topics:
   - NORAD
   - North American Defense Command
   - thursday-mobile-products
-  - united-states-department-of-defense
+  
 ---
 
 {{< legacy-img src="2014/12/250-x-444-NORAD-Santa-Tracker-Android-app-home-screen.jpg" alt="NORAD Santa Tracker app home screen on an Android smartphone" >}}NORAD&#8217;s Santa Tracker is available for [download again!]({{< ref "2013-12-19-the-2013-norad-tracks-santa-app.md" >}} "The 2013 NORAD Tracks Santa App")

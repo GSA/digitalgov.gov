@@ -22,7 +22,7 @@ topics:
   - prizes-and-competitions
   - technology-transformation-services
   - tts
-  - united-states-department-of-defense
+  
 
 ---
 
