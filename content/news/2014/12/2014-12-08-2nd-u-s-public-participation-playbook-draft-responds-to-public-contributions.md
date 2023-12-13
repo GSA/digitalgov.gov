@@ -46,7 +46,6 @@ topics:
   - us-food-and-drug-administration
   - us-national-park-service
   - us-small-business-administration
-  - united-states-army
   - united-states-census-bureau
   - united-states-department-of-homeland-security
   - united-states-department-of-transportation
