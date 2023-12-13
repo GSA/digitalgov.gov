@@ -9,7 +9,6 @@ topics:
   - mobile
   - content-strategy
   - policy
-  - mobile-gov-experience
   - smithsonian-institution
 ---
 

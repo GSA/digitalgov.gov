@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - gsa
-  - mobile
-  - mobile-gov-experience
 ---
 
 In April 2012, the U.S. General Services Administration launched a &#8220;full stack&#8221; responsive redesign of the federal mobile apps galleries: <a href="http://apps.usa.gov/" rel="nofollow">apps.USA.gov</a> and <a href="http://apps.gobiernousa.gov/" rel="nofollow">apps.GobiernoUSA.gov</a>. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques. [Responsive web design](http://mobilegovwiki.howto.gov/Responsive+Design) allows the content on a website to respond to the screen size and device it is being viewed on. So, while the app galleries are rendered one way on desktop browsers, the same website adapts and rearranges content when viewed on a tablet or smartphone.

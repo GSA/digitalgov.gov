@@ -9,7 +9,6 @@ authors:
 
 topics:
   - mobile
-  - mobile-gov-experience
   - tribal-government
 
 ---

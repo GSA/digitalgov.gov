@@ -8,7 +8,6 @@ topics:
   - mobile
   - application-programming-interface
   - cdc
-  - mobile-gov-experience
   - content-strategy
 ---
 

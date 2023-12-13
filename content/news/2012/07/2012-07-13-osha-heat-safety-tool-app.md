@@ -6,8 +6,6 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 topics:
   - mobile
   - DOL
-  - mobile
-  - mobile-gov-experience
   - us-department-of-labor
 ---
 

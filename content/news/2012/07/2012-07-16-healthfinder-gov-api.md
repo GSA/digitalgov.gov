@@ -9,8 +9,6 @@ topics:
   - mobile
   - application-programming-interface
   - HHS
-  - mobile
-  - mobile-gov-experience
 ---
 
 _[{{< legacy-img src="2012/07/healthfinder-gov-website-api.png" alt="Screen shot of Healthfinder.gov's home page" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/healthfinder-gov-website-api.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Healthfinder.gov**__._

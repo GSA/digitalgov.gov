@@ -9,11 +9,9 @@ topics:
   - mobile
   - user-experience
   - cdc
-  - mobile
-  - mobile-gov-experience
 ---
 
-{{< legacy-img src="2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" >}} _[Mobile Gov Experiences]({{< ref "/topics/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by_ **_Centers for Disease Control and Prevention_.**
+{{< legacy-img src="2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" >}} _[Mobile Gov Experiences]({{< ref "/topics/mobile" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by_ **_Centers for Disease Control and Prevention_.**
 
 <a href="http://www.cdc.gov/" rel="nofollow">Centers for Disease Control (CDC)</a> launched a free, educational iPad app called “Solve the Outbreak,” which lets users play the role of Epidemic Intelligence Service agents – the “Disease Detectives” who are on the front lines of new outbreaks wherever they occur. You can learn more about the Solve the Outbreak in this [User Experience webinar]({{< ref "2013-02-11-youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar.md" >}} "You’ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar").
 

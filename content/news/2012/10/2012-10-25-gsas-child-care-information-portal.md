@@ -6,7 +6,6 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 topics:
   - mobile
   - gsa
-  - mobile-gov-experience
   - responsive-web-design
 ---
 

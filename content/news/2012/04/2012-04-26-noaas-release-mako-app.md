@@ -7,8 +7,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - crowdsourcing-and-citizen-science
-  - mobile
-  - mobile-gov-experience
   - NOAA
 ---
 
