@@ -22,7 +22,6 @@ topics:
   - multilingual
   - census
   - multilingual-community
-  
 
 # see all authors at https://digital.gov/authors
 authors: 
