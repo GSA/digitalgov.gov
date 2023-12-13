@@ -8,13 +8,11 @@ authors:
 topics:
   - design
   - product-management
-  - mobile
   - user-testing-and-research
   - CMS
   - content-strategy
   - design
   - mobile
-  - mobile-friendly
   - US Department of Agriculture
   - uswds
   - USDA

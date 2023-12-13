@@ -8,12 +8,8 @@ authors:
 topics:
   - mobile
   - analytics
-  - mobile
-  - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
-  - mobile
-  - mobile-friendly
   - mobile-gov
   - responsive-web-design
   - content-strategy

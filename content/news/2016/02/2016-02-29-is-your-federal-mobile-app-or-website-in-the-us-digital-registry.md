@@ -6,12 +6,10 @@ summary: 'We have received an amazing response to the U.S. Digital Registry, our
 authors:
   - jparcell
 topics:
-  - mobile
   - social-media
   - application-programming-interface
   - analytics
   - mobile
-  - mobile-friendly
   - mobile-gov
   - social-media
   - us-digital-registry

@@ -7,9 +7,6 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile-friendly
   - multilingual
   - emerging-tech
 ---

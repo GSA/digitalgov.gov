@@ -8,10 +8,8 @@ authors:
 topics:
   - mobile
   - search
-  - mobile
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
-  - mobile-friendly
   - plain-language
   - responsive-web-design
   - search-engine-optimization

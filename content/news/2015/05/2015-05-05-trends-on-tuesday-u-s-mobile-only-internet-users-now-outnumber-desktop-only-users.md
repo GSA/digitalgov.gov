@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - mobile-ux-guideline-1
-  - mobile
-  - mobile-friendly
   - native-app
   - emerging-tech
   - us-national-park-service

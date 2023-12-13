@@ -7,11 +7,9 @@ authors:
   - kdaniel
 topics:
   - content-strategy
-  - mobile
-  - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
-  - mobile-friendly
+  - mobile
   - mobile-gov
   - responsive-web-design
   - sitesusagov

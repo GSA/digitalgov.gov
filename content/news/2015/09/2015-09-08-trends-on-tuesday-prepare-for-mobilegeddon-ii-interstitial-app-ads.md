@@ -6,10 +6,8 @@ summary: 'Google has announced a second wave of Mobilegeddon search penalties fo
 authors:
   - wsullivan
 topics:
-  - mobile
-  - mobile
   - mobile-ux-guideline-2
-  - mobile-friendly
+  - mobile
   - native-apps
   - emerging-tech
 

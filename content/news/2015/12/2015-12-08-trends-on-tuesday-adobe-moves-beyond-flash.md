@@ -7,7 +7,6 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile-friendly
   - responsive-web-design
   - emerging-tech
 ---
@@ -23,7 +22,7 @@ Half a decade since [Steve Jobs declared war on Adobe Flash</span>](http://www.a
 </p>
 
 <p>
-  Some government websites still use Flash, though, and need to update to more </span><span style="font-weight: 400"><a href="{{< ref "/topics/mobile-friendly" >}}">mobile-friendly</a></span><span style="font-weight: 400">, <a href="{{< ref "/topics/responsive-web-design" >}}">responsive</a> options</span><span style="font-weight: 400"> as the </span><a href="{{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}"><span style="font-weight: 400">government audience moves closer and closer to mobile-dominated</span></a><span style="font-weight: 400">. </p> 
+  Some government websites still use Flash, though, and need to update to more </span><span style="font-weight: 400"><a href="{{< ref "/topics/mobile" >}}">mobile-friendly</a></span><span style="font-weight: 400">, <a href="{{< ref "/topics/responsive-web-design" >}}">responsive</a> options</span><span style="font-weight: 400"> as the </span><a href="{{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}"><span style="font-weight: 400">government audience moves closer and closer to mobile-dominated</span></a><span style="font-weight: 400">. </p> 
   
   <p>
     Read more of <a href="{{< ref "/topics/mobile" >}}">DigitalGov’s mobile best practices</span></a><span style="font-weight: 400"> to help get your agency up-to-date.</p>

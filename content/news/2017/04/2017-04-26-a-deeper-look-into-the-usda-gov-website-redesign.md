@@ -9,13 +9,12 @@ topics:
   - accessibility
   - design
   - product-management
-  - mobile
   - content-strategy
   - policy
   - accessibility
   - architecture
   - content-strategy
-  - mobile-friendly
+  - mobile
   - US Department of Agriculture
   - uswds
   - USDA

@@ -7,14 +7,10 @@ authors:
   - wsullivan
 topics:
   - product-management
-  - mobile
   - monthly-theme
   - https
   - emerging-tech
   - mobile
-  - mobile
-  - mobile
-  - mobile-friendly
   - responsive-web-design
   - security
   - emerging-tech
