@@ -10,7 +10,7 @@ topics:
   - user-experience
   - FAFSA
   - federal-student-aid
-  - mobile-user-experience-guidelines
+  - mobile
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - recaps

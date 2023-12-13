@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - DOI
-  - mobile-user-experience-guidelines
+  - mobile
   - mobile-ux-guideline-5
   - emerging-tech
   - us-department-of-the-interior

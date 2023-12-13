@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - mobile-user-experience-guidelines
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
   - emerging-tech

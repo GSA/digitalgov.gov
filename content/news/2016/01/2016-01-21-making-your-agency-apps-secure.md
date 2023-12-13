@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-user-experience-guidelines
+  - mobile
   - mobile-ux-guideline-6
   - mobile
   - recaps

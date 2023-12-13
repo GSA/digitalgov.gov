@@ -13,7 +13,7 @@ topics:
   - loc
   - mobile
   - mobile
-  - mobile-user-experience-guidelines
+  - mobile
   - mobile-ux-guideline-3
   - nps
   - smithsonian-institution
