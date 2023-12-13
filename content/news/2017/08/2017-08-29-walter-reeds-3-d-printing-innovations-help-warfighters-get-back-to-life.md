@@ -15,7 +15,6 @@ topics:
   - 3d-printing
   - DoD
   - us-department-of-veterans-affairs
-  
   - VA
 ---
 
