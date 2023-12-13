@@ -4,6 +4,9 @@ date: 2012-02-19 1:44:51 -0400
 title: "Social Data Unlocked for Next Generation Services"
 summary: "Today at the Social Gov Summit for Social Media Week DC, we’ll showcase two new initiatives for citizens, agencies and small businesses that help unlock the full potential of social data for the next generation of government services and engagement."
 
+aliases:
+  - /2012/02/19/99992/
+
 authors:
   - jherman
 
