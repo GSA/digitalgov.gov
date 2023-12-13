@@ -13,9 +13,6 @@ topics:
   - content-strategy
   - policy
   - artificial-intelligence
-  - mobile
-  - mobile
-  - sms
   - usagov
 
 ---

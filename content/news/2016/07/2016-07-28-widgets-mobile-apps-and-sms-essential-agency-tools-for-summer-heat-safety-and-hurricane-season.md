@@ -12,10 +12,8 @@ topics:
   - mobile
   - social-media
   - content-strategy
-  - mobile
-  - mobile
+
   - multilingual
-  - sms
   - social-media
   - thursday-mobile-products
 
