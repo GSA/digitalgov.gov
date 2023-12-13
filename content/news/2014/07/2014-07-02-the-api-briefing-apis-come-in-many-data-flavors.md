@@ -13,7 +13,6 @@ topics:
   - FAA
   - Federal Aviation Administration
   - mobile
-  - mobile-code-catalog
   - OPM
   - us-department-of-labor
   - united-states-census-bureau

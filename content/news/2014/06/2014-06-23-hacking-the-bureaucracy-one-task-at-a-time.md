@@ -9,7 +9,7 @@ topics:
   - governance
   - product-management
   - DOL
-  - mobile-code-catalog
+  - mobile
   - content-strategy
   - open-opportunities-program
   - us-department-of-labor

@@ -11,7 +11,6 @@ topics:
   - content-strategy
   - DOL
   - emerging-tech
-  - mobile-code-catalog
   - mobile-first
   - NOAA
   - content-strategy

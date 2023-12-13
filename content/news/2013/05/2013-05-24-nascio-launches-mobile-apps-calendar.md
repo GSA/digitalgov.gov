@@ -7,8 +7,6 @@ authors:
   - lnelson
 topics:
   - mobile
-  - mobile
-  - mobile-code-catalog
   - mobile-gov
 ---
 

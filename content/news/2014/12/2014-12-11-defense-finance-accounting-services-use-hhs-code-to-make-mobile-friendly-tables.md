@@ -13,8 +13,6 @@ topics:
   - DFAS
   - DOL
   - HHS
-  - mobile
-  - mobile-code-catalog
   - mobile-ux-guideline-1
   - responsive-web-design
   - thursday-mobile-products

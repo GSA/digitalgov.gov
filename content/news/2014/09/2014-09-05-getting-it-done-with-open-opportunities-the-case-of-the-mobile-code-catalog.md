@@ -9,7 +9,6 @@ authors:
 topics:
   - mobile
   - DOL
-  - mobile-code-catalog
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - NPS
