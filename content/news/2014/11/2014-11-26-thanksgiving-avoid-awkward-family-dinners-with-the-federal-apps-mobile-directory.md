@@ -13,7 +13,6 @@ topics:
   - centers-for-disease-control-and-prevention
   - thursday-mobile-products
   - US Department of Agriculture
-  
   - usagov
   - USDA
 ---
