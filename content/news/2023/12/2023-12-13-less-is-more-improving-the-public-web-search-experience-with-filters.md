@@ -21,7 +21,7 @@ topics:
   - search-engine-optimization
   - accessibility
   - metadata
-slug: less-is-more-improving-the-publics-web-search-experience-with-filters
+slug: less-is-more-improving-the-public-web-search-experience-with-filters
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
