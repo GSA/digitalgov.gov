@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile
   - recaps
-  - responsive-web-design
+  - mobile
 
 ---
 

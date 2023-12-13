@@ -12,7 +12,7 @@ topics:
   - mobile
   - emerging-tech
   - open-data
-  - responsive-web-design
+  - mobile
   - emerging-tech
   - user-centered-design
 ---

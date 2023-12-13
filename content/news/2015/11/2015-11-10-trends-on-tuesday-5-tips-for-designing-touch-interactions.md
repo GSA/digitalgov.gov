@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - emerging-tech
   - user-centered-design
   - user-experience

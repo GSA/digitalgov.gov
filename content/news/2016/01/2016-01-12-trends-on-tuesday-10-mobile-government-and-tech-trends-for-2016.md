@@ -11,7 +11,7 @@ topics:
   - https
   - emerging-tech
   - mobile
-  - responsive-web-design
+  - mobile
   - security
   - emerging-tech
 ---

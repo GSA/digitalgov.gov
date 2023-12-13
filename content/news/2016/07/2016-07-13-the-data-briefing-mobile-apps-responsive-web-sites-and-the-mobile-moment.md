@@ -13,7 +13,7 @@ topics:
   - customer-experience
   - data
   - open-data
-  - responsive-web-design
+  - mobile
   - emerging-tech
 
 ---

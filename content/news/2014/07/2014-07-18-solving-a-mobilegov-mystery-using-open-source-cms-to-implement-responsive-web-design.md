@@ -15,7 +15,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - us-department-of-state
 ---
 

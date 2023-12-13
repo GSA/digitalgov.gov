@@ -29,7 +29,7 @@ topics:
   - mobile
   - plain-language
   - resource
-  - responsive-web-design
+  - mobile
   - search-engine-optimization
   - security
   - seo

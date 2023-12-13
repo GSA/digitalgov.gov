@@ -8,7 +8,7 @@ authors:
 topics:
   - ios
   - mobile
-  - responsive-web-design
+  - mobile
   - terms-of-service
   - emerging-tech
 

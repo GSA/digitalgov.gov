@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - sitesusagov
   - usability-case-study
 
@@ -25,7 +25,7 @@ For many government organizations, responsive Web design (RWD) has been the answ
 
 RWD refers to a fluidly constructed Web page layout that scales from handheld device displays to large, high-resolution computer displays using flexible typography, flexible images, fluid grids, and [CSS3 media queries](http://www.w3.org/TR/css3-mediaqueries/).
 
-Over the past year, we have published several [articles on RWD]({{< ref "/topics/responsive-web-design" >}}) based on collaboration and case studies provided by members from the [MobileGov Community of Practice]({{< ref "/communities" >}}).
+Over the past year, we have published several [articles on RWD]({{< ref "/topics/mobile" >}}) based on collaboration and case studies provided by members from the [MobileGov Community of Practice]({{< ref "/communities" >}}).
 
 Here are a few resources to help in your agency&#8217;s quest to become responsive/mobile-friendly.
 

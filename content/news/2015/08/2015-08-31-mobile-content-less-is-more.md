@@ -16,7 +16,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - transportation-security-administration
   - TSA
   - user-experience

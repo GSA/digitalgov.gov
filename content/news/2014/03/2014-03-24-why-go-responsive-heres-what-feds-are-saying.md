@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile
   - recaps
-  - responsive-web-design
+  - mobile
   - us-department-of-education
 ---
 
@@ -21,7 +21,7 @@ topics:
 </p>
 
 <p>
-  Responsive Web design <a title="Responsive Web Design" href="{{< ref "/topics/responsive-web-design" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="{{< ref "/communities" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
+  Responsive Web design <a title="Responsive Web Design" href="{{< ref "/topics/mobile" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="{{< ref "/communities" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
 </p>
 
 <p>

@@ -13,7 +13,7 @@ topics:
   - monthly-theme
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
 
 ---
 

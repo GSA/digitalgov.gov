@@ -18,7 +18,7 @@ topics:
   - content-strategy
   - dhs
   - mobile
-  - responsive-web-design
+  - mobile
   - united-states-department-of-homeland-security
   - user-centered-design
   - user-experience

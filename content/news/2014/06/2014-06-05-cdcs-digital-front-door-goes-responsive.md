@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - united-states-department-of-health-and-human-services
 ---

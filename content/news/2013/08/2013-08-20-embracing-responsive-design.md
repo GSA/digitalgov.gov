@@ -13,7 +13,7 @@ topics:
   - accessibility
   - GobiernoUSAgov
   - mobile
-  - responsive-web-design
+  - mobile
   - usagov
 ---
 

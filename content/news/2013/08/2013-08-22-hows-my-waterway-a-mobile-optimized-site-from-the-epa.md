@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - epa
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
 ---
 

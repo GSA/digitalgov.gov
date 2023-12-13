@@ -19,7 +19,7 @@ topics:
   - innovation
   - mobile
   - content-strategy
-  - responsive-web-design
+  - mobile
   - us-department-of-labor
   - user-experience
 

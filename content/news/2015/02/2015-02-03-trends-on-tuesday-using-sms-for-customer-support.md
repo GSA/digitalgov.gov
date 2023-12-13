@@ -11,7 +11,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - government-contact-centers
-  - responsive-web-design
+  - mobile
   - emerging-tech
 ---
 

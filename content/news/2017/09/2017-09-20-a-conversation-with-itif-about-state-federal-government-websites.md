@@ -20,7 +20,7 @@ topics:
   - mobile
   - mobile
   - plain-language
-  - responsive-web-design
+  - mobile
   - search-engine-optimization
   - security
   - seo

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - SSA
   - the-united-states-social-security-administration
   - emerging-tech

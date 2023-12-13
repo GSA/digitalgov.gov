@@ -13,7 +13,7 @@ topics:
   - user-experience
   - 18f
   - accessibility
-  - responsive-web-design
+  - mobile
   - training
   - uswds
   - user research

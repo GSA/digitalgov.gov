@@ -7,7 +7,7 @@ topics:
   - mobile
   - FAFSA
   - mobile
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - us-department-of-education
 ---

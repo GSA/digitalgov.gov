@@ -13,7 +13,7 @@ topics:
   - user-experience
   - customer-experience
   - GobiernoUSAgov
-  - responsive-web-design
+  - mobile
   - usability-case-study
   - usagov
 ---

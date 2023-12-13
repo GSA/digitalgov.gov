@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - analytics
-  - responsive-web-design
+  - mobile
   - us-department-of-education
 ---
 

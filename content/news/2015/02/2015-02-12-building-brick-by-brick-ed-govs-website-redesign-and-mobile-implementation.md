@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - CMS
   - mobile
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - us-department-of-education
 ---

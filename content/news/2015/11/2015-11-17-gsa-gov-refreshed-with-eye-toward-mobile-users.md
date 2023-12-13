@@ -10,7 +10,7 @@ topics:
   - product-management
   - mobile
   - 18f
-  - responsive-web-design
+  - mobile
   - top-tasks
 ---
 

@@ -8,7 +8,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - responsive-web-design
+  - mobile
   - emerging-tech
 
 ---

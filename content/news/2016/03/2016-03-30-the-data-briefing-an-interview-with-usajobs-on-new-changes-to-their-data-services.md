@@ -13,7 +13,7 @@ topics:
   - data
   - data-visualization
   - OPM
-  - responsive-web-design
+  - mobile
   - emerging-tech
   - united-states-office-of-personnel-management
   - United States Patent and Trademark Office

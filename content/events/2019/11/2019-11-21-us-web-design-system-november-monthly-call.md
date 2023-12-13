@@ -21,7 +21,7 @@ end_date: 2019-11-21 15:30:00 -0500
 topics:
   - product-management
   - content-strategy
-  - responsive-web-design
+  - mobile
   - uswds
   - digital-service-delivery
 

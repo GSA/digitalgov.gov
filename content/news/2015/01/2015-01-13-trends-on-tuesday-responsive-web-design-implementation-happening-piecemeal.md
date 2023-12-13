@@ -12,7 +12,7 @@ topics:
   - mobile
   - national-cancer-institute
   - NCI
-  - responsive-web-design
+  - mobile
   - emerging-tech
 
 ---

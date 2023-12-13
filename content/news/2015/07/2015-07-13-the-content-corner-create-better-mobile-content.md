@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - content-strategy
 ---
 

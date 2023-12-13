@@ -10,7 +10,7 @@ topics:
   - design
   - github
   - open-source
-  - responsive-web-design
+  - mobile
   - uswds
   - user-centered-design
 ---

@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
 
 ---
 

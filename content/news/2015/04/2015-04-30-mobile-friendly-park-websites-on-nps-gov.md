@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile
   - NPS
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - us-national-park-service
 ---

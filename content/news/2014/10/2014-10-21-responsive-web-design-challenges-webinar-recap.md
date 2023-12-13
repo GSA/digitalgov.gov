@@ -16,7 +16,7 @@ topics:
   - mobile
   - mobile
   - recaps
-  - responsive-web-design
+  - mobile
   - united-states-department-of-energy
 ---
 

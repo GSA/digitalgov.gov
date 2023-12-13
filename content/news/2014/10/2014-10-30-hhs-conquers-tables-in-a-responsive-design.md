@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - HHS
   - mobile
-  - responsive-web-design
+  - mobile
   - united-states-department-of-health-and-human-services
 ---
 

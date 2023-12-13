@@ -14,7 +14,7 @@ topics:
   - DOL
   - HHS
   - mobile
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - us-department-of-labor
   - united-states-department-of-health-and-human-services

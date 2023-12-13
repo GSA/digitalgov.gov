@@ -22,7 +22,7 @@ topics:
   - content-strategy
   - open-data
   - recaps
-  - responsive-web-design
+  - mobile
   - us-department-of-state
   - white-house
 ---

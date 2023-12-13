@@ -6,7 +6,7 @@ summary: 'There&#8217;s a LOT going on at U.S. Customs and Border Protection (CB
 topics:
   - mobile
   - us-customs-and-border-protection
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - US Customs and Border Protection
  

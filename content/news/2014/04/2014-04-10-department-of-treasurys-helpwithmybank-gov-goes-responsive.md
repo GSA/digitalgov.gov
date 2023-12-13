@@ -6,7 +6,7 @@ summary: 'As the rapper Notorious B.I.G. aptly noted in his hit song, &#8220;Mo 
 topics:
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - us-department-of-the-treasury
  

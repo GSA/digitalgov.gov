@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - open-source
   - recaps
-  - responsive-web-design
+  - mobile
   - sitesusagov
   - us-department-of-state
 ---

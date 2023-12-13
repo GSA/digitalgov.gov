@@ -15,7 +15,7 @@ topics:
   - 18f
   - accessibility
   - design
-  - responsive-web-design
+  - mobile
   - uswds
   - usability
   - user-centered-design

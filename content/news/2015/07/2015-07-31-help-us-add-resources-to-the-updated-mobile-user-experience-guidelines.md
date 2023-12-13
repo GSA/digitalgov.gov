@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - user-experience
-  - responsive-web-design
+  - mobile
   - security
 ---
 

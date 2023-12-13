@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - responsive-web-design
+  - mobile
   - emerging-tech
   - united-states-department-of-health-and-human-services
   - user-experience

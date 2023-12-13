@@ -15,7 +15,7 @@ topics:
   - executive-office-of-the-president
   - HHS
   - mobile
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
   - us-department-of-veterans-affairs
   - us-environmental-protection-agency

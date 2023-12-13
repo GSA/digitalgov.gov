@@ -12,7 +12,7 @@ topics:
   - mobile
   - NCI
   - nih
-  - responsive-web-design
+  - mobile
   - us-department-of-education
 ---
 

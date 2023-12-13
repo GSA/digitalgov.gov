@@ -14,7 +14,7 @@ topics:
   - mobile
   - national-gallery-of-art
   - NOAA
-  - responsive-web-design
+  - mobile
   - emerging-tech
   - user-experience
 

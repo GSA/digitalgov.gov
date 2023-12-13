@@ -10,7 +10,7 @@ topics:
   - mobile
 
   - mobile
-  - responsive-web-design
+  - mobile
   - user-experience
 ---
 

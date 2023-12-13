@@ -12,7 +12,7 @@ topics:
   - analytics
   - fedramp
   - gsa
-  - responsive-web-design
+  - mobile
   - content-strategy
   - thursday-mobile-products
   - user-experience

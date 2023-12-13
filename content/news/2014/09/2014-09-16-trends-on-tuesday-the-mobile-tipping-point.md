@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - responsive-web-design
+  - mobile
 
 ---
 

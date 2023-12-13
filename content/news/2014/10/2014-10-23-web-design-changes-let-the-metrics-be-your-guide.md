@@ -18,7 +18,7 @@ topics:
   - nasa
   - national-institutes-of-health
   - nih
-  - responsive-web-design
+  - mobile
   - US Department of Agriculture
   - us-environmental-protection-agency
   - USDA

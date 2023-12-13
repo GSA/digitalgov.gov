@@ -19,7 +19,7 @@ topics:
   - federal-election-commission
   - GitHub
   - plain-language
-  - responsive-web-design
+  - mobile
   - uswds
   - user-centered-design
   - user-experience

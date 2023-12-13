@@ -15,7 +15,7 @@ topics:
   - DOE
   - HHS
   - content-strategy
-  - responsive-web-design
+  - mobile
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
 

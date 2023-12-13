@@ -9,7 +9,7 @@ topics:
   - mobile
   - CMS
   - HHS
-  - responsive-web-design
+  - mobile
 ---
 
 _[{{< legacy-img src="2013/12/Medicare-tablet-vertical-187x250.jpg" alt="Medicare-tablet-vertical" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Medicare-tablet-vertical.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the **Centers for Medicare and Medicaid Services**._

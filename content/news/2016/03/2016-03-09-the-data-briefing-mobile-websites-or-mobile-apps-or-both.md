@@ -11,7 +11,7 @@ topics:
   - mobile
   - application-programming-interface
   - open-data
-  - responsive-web-design
+  - mobile
   - emerging-tech
 
 ---

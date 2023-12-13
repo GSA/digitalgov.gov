@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ios
-  - responsive-web-design
+  - mobile
   - thursday-mobile-products
 
 ---
