@@ -12,8 +12,6 @@ topics:
   - LOC
   - national-archives-and-records-administration
   - us-department-of-state
-  
-
 ---
 
 [{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}] 
