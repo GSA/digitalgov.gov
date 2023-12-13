@@ -11,7 +11,6 @@ topics:
   - api
   - data
   - open-data
-  - OSHA
   - us-department-of-labor
 ---
 

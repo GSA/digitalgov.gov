@@ -10,7 +10,6 @@ topics:
   - mobile
   - DOL
   - mobile-apps
-  - OSHA
   - us-department-of-labor
 ---
 

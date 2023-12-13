@@ -8,7 +8,6 @@ authors:
   - apiazza
 topics:
   - customer-experience
-  - our-work
   - digitalgov-summit
   - Ex-Im Bank
   - Export-Import Bank of the United States

@@ -7,7 +7,6 @@ authors:
   - courtney-greenley
 topics:
   - mobile
-  - our-work
   - digitalgov-summit
   - Federal Mobile Products Registry
   - mobile-apps

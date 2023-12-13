@@ -13,8 +13,6 @@ topics:
   - strategy
   - policy
   - acquisition
-  - Office of Management and Budget
-  - OMB
   - open-data
   - policy
   - privacy

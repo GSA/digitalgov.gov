@@ -12,7 +12,6 @@ topics:
   - data
   - product-management
   - metrics
-  - our-work
   - 18f
   - analytics
   - data

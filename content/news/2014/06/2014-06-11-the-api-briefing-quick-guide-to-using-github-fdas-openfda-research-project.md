@@ -12,7 +12,6 @@ topics:
   - fda
   - GitHub
   - open-source
-  - OPM
   - us-food-and-drug-administration
   - united-states-office-of-personnel-management
   - wednesday-api-briefing

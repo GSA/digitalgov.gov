@@ -11,7 +11,6 @@ topics:
   - Federal Mobile Products Registry
   - mobile-apps
   - National Center for Telehealth and Technology
-  - OSHA
   - SAMHSA
   - thursday-mobile-products
   - us-coast-guard

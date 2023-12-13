@@ -20,8 +20,6 @@ topics:
   - it-modernization-fund
   - ITMF
   - National Cyber Security Awareness Month
-  - Office of Management and Budget
-  - OMB
   - privacy
   - security
   - us-general-services-administration

@@ -8,7 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - product-management
-  - our-work
   - "508"
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
@@ -18,7 +17,6 @@ topics:
   - search
   - FCPCCS
   - open-opportunities-program
-  - OSTP
   - section-508
   - sites
   - sitesusagov

@@ -12,8 +12,6 @@ topics:
   - FAS
   - Federal Acquisition Service
   - gsa
-  - Office of Governmentwide Policy
-  - OGP
   - open-data
   - PBS
   - Public Buildings Service

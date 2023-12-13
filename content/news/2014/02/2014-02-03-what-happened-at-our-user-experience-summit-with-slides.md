@@ -12,7 +12,6 @@ topics:
   - fda
   - mobile-app-development-program
   - NCI
-  - OMB
   - pra
   - user-experience
   - user-experience-community-of-practice

@@ -11,7 +11,6 @@ topics:
   - policy
   - api
   - federal-register
-  - OPM
   - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---

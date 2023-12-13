@@ -13,7 +13,6 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - FCPCCS
   - open-opportunities-program
-  - OSTP
   - white-house-office-of-science-and-technology-policy
 ---
 

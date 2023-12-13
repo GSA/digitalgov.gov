@@ -8,7 +8,6 @@ authors:
   - andreanocesigritz
 topics:
   - security
-  - our-work
   - digitalgov-summit
   - DOT
   - NIST

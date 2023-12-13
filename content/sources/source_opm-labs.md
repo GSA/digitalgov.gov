@@ -8,5 +8,5 @@ domain: https://lab.opm.gov/
 logo: opm
 # See all topics at https://digital.gov/topics
 topics:
-  - opm
+  - agile
 ---

@@ -7,7 +7,6 @@ authors:
   - apiazza
 topics:
   - monthly-theme
-  - our-work
   - 18f
   - api
   - CFPB

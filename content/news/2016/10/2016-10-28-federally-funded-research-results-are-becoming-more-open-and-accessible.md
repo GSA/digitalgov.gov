@@ -24,9 +24,6 @@ topics:
   - NLM
   - NOAA
   - nsf
-  - open
-  - open-government
-  - OSTP
   - research
   - US Department of Agriculture
   - us-department-of-education

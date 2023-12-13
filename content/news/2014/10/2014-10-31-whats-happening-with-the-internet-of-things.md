@@ -9,7 +9,6 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - our-work
   - DOT
   - Federal Trade Commission
   - FTC

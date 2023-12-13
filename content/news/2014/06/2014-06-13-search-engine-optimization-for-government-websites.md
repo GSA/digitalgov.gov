@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - metrics
-  - our-work
   - search
   - recaps
   - search-engine-optimization

@@ -30,7 +30,6 @@ topics:
   - national-day-of-civic-hacking
   - open-data
   - open-government
-  - OSTP
   - SBA
   - us-agency-for-international-development
   - US Department of Agriculture

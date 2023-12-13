@@ -7,7 +7,6 @@ authors:
   - dmccleskey
 topics:
   - monthly-theme
-  - our-work
   - search
   - GobiernoUSAgov
   - multilingual

@@ -7,7 +7,6 @@ authors:
   - dmccleskey
 topics:
   - metrics
-  - our-work
   - analytics
   - search
   - user-experience

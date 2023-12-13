@@ -11,7 +11,6 @@ topics:
   - Federal Trade Commission
   - FTC
   - National Eye Institute
-  - OSTP
   - white-house-office-of-science-and-technology-policy
 ---
 

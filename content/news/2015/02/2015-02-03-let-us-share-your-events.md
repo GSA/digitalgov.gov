@@ -6,8 +6,7 @@ summary: 'You may have seen this icon on our calendar recently. This icon indica
 authors:
   - apiazza
 topics:
-  - our-work
-
+  - agile
 ---
 
 {{< legacy-img-right src="2015/02/250-x-212-DGU-Partner-Event-using-DG-logo-colors-image-from-People-in-action-logos-and-icons-marko187-iStock-Thinkstock-451025551.jpg" alt="DGU Friend Event icon" caption="" >}}

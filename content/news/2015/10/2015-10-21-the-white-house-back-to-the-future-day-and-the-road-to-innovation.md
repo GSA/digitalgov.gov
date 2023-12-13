@@ -9,7 +9,6 @@ authors:
 topics:
   - product-management
   - innovation
-  - OSTP
   - social-media
   - white-house
   - white-house-office-of-science-and-technology-policy

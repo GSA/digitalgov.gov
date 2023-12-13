@@ -10,7 +10,6 @@ topics:
   - code
   - content
   - metrics
-  - our-work
   - api
   - Census
   - department-of-commerce

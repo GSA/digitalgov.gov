@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - digitalgov-user-experience-program
-  - OPM
   - united-states-office-of-personnel-management
   - usability-testing
 

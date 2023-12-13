@@ -8,7 +8,6 @@ authors:
   - awichman
 topics:
   - emerging-tech
-  - our-work
   - digitalgov-summit
   - FCC
   - federal-communications-commission

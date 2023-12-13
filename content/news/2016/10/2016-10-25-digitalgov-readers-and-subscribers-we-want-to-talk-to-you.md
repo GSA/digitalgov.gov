@@ -8,12 +8,10 @@ authors:
 topics:
   - content
   - product-management
-  - our-work
   - user-testing-and-research
   - user-experience
   - content
   - customer-experience
-  - office-of-products-and-programs
   - research
   - user-centered-design
 

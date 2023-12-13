@@ -14,7 +14,6 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - gsa
-  - OSTP
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

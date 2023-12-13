@@ -21,8 +21,6 @@ topics:
   - national-archives-and-records-administration
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - Office of Management and Budget
-  - OMB
   - SBA
   - us-small-business-administration
   - united-states-department-of-health-and-human-services

@@ -19,9 +19,6 @@ topics:
   - innovation
   - mobile
   - mobile-apps
-  - open
-  - open-data
-  - open-source
   - United States Patent and Trademark Office
   - USPTO
 ---

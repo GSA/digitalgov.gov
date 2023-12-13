@@ -6,7 +6,6 @@ summary: 2015 was a big year for 18F. We almost doubled in size, worked with 28 
 authors:
   - melody-kramer
 topics:
-  - our-work
   - 18f
   - accessibility
   - analytics-usa-gov
@@ -21,10 +20,7 @@ topics:
   - federal-election-commission
   - gsa
   - https
-  - Office of Management and Budget
-  - OMB
   - open-data
-  - OSTP
   - US Citizenship and Immigration Service
   - us-department-of-education
   - us-department-of-the-interior

@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - code
-  - our-work
   - code
   - open-opportunities-program
   - open-source

@@ -8,7 +8,6 @@ authors:
   - andreanocesigritz
 topics:
   - customer-experience
-  - our-work
   - digitalgov-summit
 
 ---

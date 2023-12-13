@@ -11,7 +11,6 @@ topics:
   - product-management
   - challenge-gov
   - challenges-and-prize-competitions
-  - OSTP
   - webinar
   - white-house-office-of-science-and-technology-policy
 ---

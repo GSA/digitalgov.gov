@@ -14,7 +14,6 @@ topics:
   - mobile-ux-guideline-5
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - OSHA
   - us-department-of-veterans-affairs
   - usa-gov
   - VA

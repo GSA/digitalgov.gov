@@ -16,7 +16,6 @@ topics:
   - crowdsourcing
   - nasa
   - open-source
-  - OSTP
   - recaps
   - white-house-office-of-science-and-technology-policy
 

@@ -11,7 +11,6 @@ topics:
   - big-data
   - data
   - open-data
-  - OSTP
   - white-house-office-of-science-and-technology-policy
 ---
 

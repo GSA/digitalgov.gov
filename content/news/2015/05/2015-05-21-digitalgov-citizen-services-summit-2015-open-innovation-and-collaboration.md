@@ -9,7 +9,6 @@ authors:
 
 topics:
   - product-management
-  - our-work
   - digitalgov-summit
 
 ---

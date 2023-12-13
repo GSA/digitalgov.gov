@@ -6,7 +6,6 @@ summary: "The second annual DigitalGov Citizen Services Summit was held at GSA h
 authors:
   - bernetta-reese
 topics:
-  - our-work
   - agile
   - analytics
   - customer-experience

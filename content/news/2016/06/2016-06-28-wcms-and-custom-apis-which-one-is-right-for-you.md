@@ -16,8 +16,6 @@ topics:
   - Consumer Product Safety Commission
   - data
   - mobile
-  - open
-  - open-source
   - white-house
 ---
 

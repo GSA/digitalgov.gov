@@ -12,7 +12,6 @@ topics:
   - strategy
   - policy
   - innovation
-  - OSTP
   - white-house-office-of-science-and-technology-policy
 ---
 

@@ -6,7 +6,6 @@ summary: 'Agile methods help agencies deliver projects and products more efficie
 authors:
   - awichman
 topics:
-  - our-work
   - 18f
   - agile
   - open-opportunities-program

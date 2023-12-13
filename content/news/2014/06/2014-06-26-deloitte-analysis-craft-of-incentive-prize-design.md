@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - OSTP
   - white-house-office-of-science-and-technology-policy
 ---
 

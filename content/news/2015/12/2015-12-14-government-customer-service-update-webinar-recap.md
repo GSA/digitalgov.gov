@@ -10,8 +10,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - Office of Management and Budget
-  - OMB
   - recaps
   - SSA
   - the-united-states-social-security-administration

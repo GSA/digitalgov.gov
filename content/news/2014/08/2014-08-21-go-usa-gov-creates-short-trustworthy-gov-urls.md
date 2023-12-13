@@ -9,7 +9,6 @@ topics:
   - api
   - content
   - monthly-theme
-  - our-work
   - go-usa-gov
 ---
 

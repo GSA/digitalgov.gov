@@ -23,9 +23,6 @@ topics:
   - federal-acquisition-service
   - fedramp
   - innovation
-  - OCSIT
-  - office-of-citizen-services-and-innovative-technology
-  - office-of-products-and-programs
   - technology-transformation-services
   - tts
 

@@ -18,8 +18,6 @@ topics:
   - innovation
   - mobile
   - mobile-gov
-  - Office of Management and Budget
-  - OMB
   - us-general-services-administration
   - wireless
 ---

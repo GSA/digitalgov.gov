@@ -13,7 +13,6 @@ topics:
   - crowdsourcing
   - national-institutes-of-health
   - nih
-  - OSTP
   - white-house-office-of-science-and-technology-policy
 ---
 

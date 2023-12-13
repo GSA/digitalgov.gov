@@ -6,7 +6,6 @@ deck:
 summary: To celebrate their first year in government, 11 U.S. Digital Corps Fellows reflect on what they have learned.
 # See all topics at https://digital.gov/topics
 topics:
-  - our-work
   - professional-development
   - innovation
   - design

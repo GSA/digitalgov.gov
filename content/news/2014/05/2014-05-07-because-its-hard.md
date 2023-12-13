@@ -9,7 +9,6 @@ topics:
   - content
   - product-management
   - monthly-theme
-  - our-work
   - strategy
   - policy
   - api

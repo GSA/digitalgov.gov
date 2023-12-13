@@ -12,7 +12,6 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - our-work
   - social-media
   - administrative-office-of-the-united-states-courts
   - aoi

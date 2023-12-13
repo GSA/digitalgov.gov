@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - metrics
-  - our-work
   - analytics
   - dap
   - data

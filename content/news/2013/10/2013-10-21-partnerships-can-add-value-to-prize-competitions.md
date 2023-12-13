@@ -10,7 +10,6 @@ topics:
   - challenges-and-prize-competitions
   - HUD
   - nasa
-  - OSTP
   - us-agency-for-international-development
   - united-states-department-of-housing-and-urban-development
   - usaid

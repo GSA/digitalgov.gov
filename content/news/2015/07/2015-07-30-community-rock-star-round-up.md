@@ -18,7 +18,6 @@ topics:
   - NCI
   - nih
   - open-and-structured-content-models
-  - OPM
   - socialgov-community
   - SSA
   - trends-on-tuesday

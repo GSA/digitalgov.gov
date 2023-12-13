@@ -9,8 +9,6 @@ topics:
   - governance
   - strategy
   - policy
-  - Office of Management and Budget
-  - OMB
   - security
   - white-house
 ---

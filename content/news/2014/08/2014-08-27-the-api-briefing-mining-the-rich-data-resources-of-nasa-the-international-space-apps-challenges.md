@@ -12,7 +12,6 @@ topics:
   - data-gov
   - mobile-ux-guideline-5
   - nasa
-  - OPM
   - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---

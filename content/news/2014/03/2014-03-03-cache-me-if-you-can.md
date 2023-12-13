@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - data
-  - our-work
   - customer-experience
   - search
   - GitHub
