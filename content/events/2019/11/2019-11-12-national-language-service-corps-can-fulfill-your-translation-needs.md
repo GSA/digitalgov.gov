@@ -20,7 +20,7 @@ end_date: 2019-11-12 14:00:00 -0500
 topics: 
   - multilingual
   - content-strategy
-  - multilingual-community
+  - multilingual
 
 # see all authors at https://digital.gov/authors
 authors: 

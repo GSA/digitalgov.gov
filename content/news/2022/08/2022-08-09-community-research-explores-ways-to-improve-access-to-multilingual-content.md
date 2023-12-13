@@ -10,7 +10,7 @@ topics:
   - multilingual
   - content-strategy
   - accessibility
-  - multilingual-community
+  - multilingual
   - uswds
 
 # See all authors at https://digital.gov/authors

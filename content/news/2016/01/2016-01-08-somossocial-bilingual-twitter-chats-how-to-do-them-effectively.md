@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - multilingual
-  - multilingual-community
+  - multilingual
   - recaps
   - social-media
   - usagov

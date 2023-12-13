@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile
   - multilingual
-  - multilingual-community
+  - multilingual
   - emerging-tech
 ---
 

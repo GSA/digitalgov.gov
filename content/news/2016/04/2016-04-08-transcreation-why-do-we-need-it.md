@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - multilingual
   - multilingual
-  - multilingual-community
+  - multilingual
   - usagov
 ---
 

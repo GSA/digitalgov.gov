@@ -10,7 +10,7 @@ topics:
   - data
   - emerging-tech
   - multilingual
-  - multilingual-community
+  - multilingual
   - 10x
   - customer-experience
   - user-research

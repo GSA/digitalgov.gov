@@ -11,7 +11,7 @@ topics:
   - video
   - fda
   - multilingual
-  - multilingual-community
+  - multilingual
   - social-media
 ---
 

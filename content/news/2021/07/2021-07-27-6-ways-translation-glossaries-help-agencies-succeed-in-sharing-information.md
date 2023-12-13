@@ -6,7 +6,7 @@ summary: Learn how multilingual glossaries set your content translations up for 
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - multilingual-community
+  - multilingual
   - content-strategy
   - content-strategy
 # See all authors at https://digital.gov/authors

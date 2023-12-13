@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - usagov
   - multilingual
-  - multilingual-community
+  - multilingual
   - diversity-equity-and-inclusion
 
 # See all authors at https://digital.gov/authors

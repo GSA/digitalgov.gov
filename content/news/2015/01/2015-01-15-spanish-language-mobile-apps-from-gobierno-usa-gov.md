@@ -18,7 +18,7 @@ topics:
   - mobile
   - mobile
   - multilingual
-  - multilingual-community
+  - multilingual
   - national-institutes-of-health
   - nih
   - SSA

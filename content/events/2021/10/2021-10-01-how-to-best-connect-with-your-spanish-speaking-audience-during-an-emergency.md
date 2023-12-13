@@ -14,7 +14,7 @@ topics:
   - social-media
   - content-strategy
   - content-strategy
-  - multilingual-community
+  - multilingual
 # See all authors at https://digital.gov/authors
 authors:
   - claire-loxsom

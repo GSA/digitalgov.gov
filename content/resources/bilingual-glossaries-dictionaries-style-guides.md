@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - multilingual
   - plain-language
-  - multilingual-community
+  - multilingual
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -13,7 +13,7 @@ end_date: 2020-12-03 15:00:00 -0500
 topics:
   - accessibility
   - multilingual
-  - multilingual-community
+  - multilingual
   - user-experience
   - customer-experience
   - content-strategy

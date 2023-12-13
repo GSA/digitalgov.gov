@@ -21,7 +21,7 @@ end_date: 2020-06-18 14:30:00 -0500
 topics: 
   - multilingual
   - census
-  - multilingual-community
+  - multilingual
   - united-states-census-bureau
 
 # see all authors at https://digital.gov/authors
