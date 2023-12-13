@@ -19,7 +19,6 @@ topics:
   - NOAA
   - open-data
   - us-environmental-protection-agency
-  
 ---
 
 [{{< legacy-img src="2014/08/featured-301-x-212-December-17-2010-US-Air-Force-pilot-documents-an-F-15E-Strike-Eagle-aircraft-during-a-training-mission-over-North-Carolina-Stocktrek-Images-Stocktrek-Images-Thinkstock.jpg" alt="A U.S. Air Force pilot documents an F-15E Strike Eagle aircraft during a training mission over North Carolina on December 17, 2010." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/08/featured-301-x-212-December-17-2010-US-Air-Force-pilot-documents-an-F-15E-Strike-Eagle-aircraft-during-a-training-mission-over-North-Carolina-Stocktrek-Images-Stocktrek-Images-Thinkstock.jpg) 
