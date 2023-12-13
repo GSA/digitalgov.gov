@@ -10,8 +10,7 @@ topics:
   - Census
   - national-day-of-civic-hacking
   - SBA
-  - us-small-business-administration
-  
+  - us-small-business-administration  
 ---
 
 _National Day of Civic Hacking on June 4th, D.C. Edition_
