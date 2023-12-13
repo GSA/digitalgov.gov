@@ -84,7 +84,7 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 Here's a collection of guides created by digital communities of practice and other groups.
 
-- [Department of Defense's Introduction to Plain Language](http://www.dtic.mil/whs/directives/plainlanguage/PlainLanguageCourse.pdf) (PDF, 407 KB, 44 pgs)
+- [Department of Defense's Introduction to Plain Language](https://www.esd.whs.mil/Portals/54/Documents/DD/plain_language/PlainLanguageCourse.pdf?ver=2017-04-04-163823-677) (PDF, 398 KB, 44 pgs)
 - [PLAIN's Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
 - [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}})
 - [Spanish Language Style Guides and Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/)
