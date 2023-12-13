@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - mobile
   - mobile
-  - mobile-first
+  - mobile
   - emerging-tech
   - user-experience
 ---

@@ -9,7 +9,7 @@ topics:
   - mobile
   - application-programming-interface
   - mobile
-  - mobile-first
+  - mobile
   - recaps
 ---
 

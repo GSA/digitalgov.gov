@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
-  - mobile-first
+  - mobile
   - emerging-tech
 ---
 

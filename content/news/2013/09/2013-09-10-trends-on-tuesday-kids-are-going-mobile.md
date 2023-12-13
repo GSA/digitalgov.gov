@@ -10,7 +10,7 @@ topics:
   - cdc
   - content-strategy
   - mobile
-  - mobile-first
+  - mobile
   - national-gallery-of-art
   - smithsonian-institution
   - emerging-tech

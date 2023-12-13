@@ -9,7 +9,7 @@ topics:
   - mobile
   - GobiernoUSAgov
   - mobile-ux-guideline-5
-  - mobile-first
+  - mobile
   - multilingual
   - social-media
   - emerging-tech

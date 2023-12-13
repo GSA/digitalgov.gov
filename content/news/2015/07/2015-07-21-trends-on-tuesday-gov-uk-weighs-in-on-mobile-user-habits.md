@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile
   - mobile-ux-guideline-1
-  - mobile-first
+  - mobile
   - mobile-friendly
   - content-strategy
   - emerging-tech

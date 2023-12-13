@@ -9,7 +9,7 @@ topics:
   - product-management
   - mobile
   - mobile-ux-guideline-5
-  - mobile-first
+  - mobile
   - multilingual
   - multilingual-community
   - emerging-tech

@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-3
-  - mobile-first
+  - mobile
   - mobile-friendly
   - mobile-gov
   - native-apps

@@ -13,7 +13,7 @@ topics:
   - emerging-tech
   - mobile
   - mobile
-  - mobile-first
+  - mobile
   - mobile-friendly
   - responsive-web-design
   - security

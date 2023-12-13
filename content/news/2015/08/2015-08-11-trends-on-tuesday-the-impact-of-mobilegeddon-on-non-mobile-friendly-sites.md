@@ -10,7 +10,7 @@ topics:
   - search
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
-  - mobile-first
+  - mobile
   - search-engine-optimization
   - emerging-tech
 ---

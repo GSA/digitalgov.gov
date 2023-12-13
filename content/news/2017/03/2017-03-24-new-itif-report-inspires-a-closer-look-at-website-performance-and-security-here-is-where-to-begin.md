@@ -26,7 +26,7 @@ topics:
   - ITIF
   - analytics
   - mobile
-  - mobile-first
+  - mobile
   - plain-language
   - resource
   - responsive-web-design

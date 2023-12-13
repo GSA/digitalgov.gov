@@ -13,7 +13,7 @@ topics:
   - IRS
   - mobile
   - mobile-gov
-  - mobile-first
+  - mobile
   - mobile-gov
   - national-institutes-of-health
   - nih

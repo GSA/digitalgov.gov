@@ -23,7 +23,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
-  - mobile-first
+  - mobile
   - nasa
   - content-strategy
   - emerging-tech

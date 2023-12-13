@@ -10,7 +10,7 @@ topics:
   - policy
   - user-experience
   - mobile
-  - mobile-first
+  - mobile
   - recaps
   - responsive-web-design
 

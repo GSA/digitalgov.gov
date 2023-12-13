@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - DOL
   - emerging-tech
-  - mobile-first
+  - mobile
   - NOAA
   - content-strategy
   - thursday-mobile-products

@@ -11,7 +11,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - mobile
   - mobile-ux-guideline-5
-  - mobile-first
+  - mobile
   - native-app
   - emerging-tech
 ---

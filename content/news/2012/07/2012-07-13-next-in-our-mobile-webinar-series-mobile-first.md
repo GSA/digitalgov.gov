@@ -6,7 +6,7 @@ summary: 'You need resources, and we are here to help with an excellent new webi
 topics:
   - mobile
   - mobile-gov
-  - mobile-first
+  - mobile
   - mobile-gov
   - national-institutes-of-health
   - nih

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-gov
-  - mobile-first
+  - mobile
   - emerging-tech
 ---
 

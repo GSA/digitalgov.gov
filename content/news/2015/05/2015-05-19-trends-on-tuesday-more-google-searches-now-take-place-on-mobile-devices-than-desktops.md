@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - mobile-ux-guideline-5
-  - mobile-first
+  - mobile
   - mobile-friendly
   - emerging-tech
 ---
@@ -22,7 +22,7 @@ Jerry Dischler from Google cited in the announcement, “consumers, particularly
 
 Flurry [released research earlier this year]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}) that pointed to similar audience expectations on being able to do [more complex tasks, faster and easier on mobile devices]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}} "Trends on Tuesday: More Time-Consuming, Complex Tasks on Mobile Platforms").
 
-More searches taking place on mobile than desktop isn’t surprising as the industry continues to shift to be more [mobile first]({{< ref "/topics/mobile-first" >}}); earlier this year Google shifted search results to give higher rank to mobile-optimized sites, billed by many as the “[Mobilegeddon]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}).” Microsoft’s Bing search engine [announced this week that they are also going to make similar changes](http://blogs.bing.com/webmaster/2015/05/14/our-approach-to-mobile-friendly-search/) to elevate mobile-friendly sites in their search results.
+More searches taking place on mobile than desktop isn’t surprising as the industry continues to shift to be more [mobile first]({{< ref "/topics/mobile" >}}); earlier this year Google shifted search results to give higher rank to mobile-optimized sites, billed by many as the “[Mobilegeddon]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}).” Microsoft’s Bing search engine [announced this week that they are also going to make similar changes](http://blogs.bing.com/webmaster/2015/05/14/our-approach-to-mobile-friendly-search/) to elevate mobile-friendly sites in their search results.
 
 {{< legacy-img src="2015/05/393-x-400-Search-on-Bing-showing-Mobile-friendly-site.jpg" alt="Search on Bing showing Mobile friendly site" >}}
 

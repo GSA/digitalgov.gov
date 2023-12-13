@@ -7,7 +7,7 @@ topics:
   - code
   - design
   - mobile
-  - mobile-first
+  - mobile
   - recaps
   - responsive-web-design
 ---

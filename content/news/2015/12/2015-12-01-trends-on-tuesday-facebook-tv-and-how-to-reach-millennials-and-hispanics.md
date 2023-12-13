@@ -9,7 +9,7 @@ topics:
   - mobile
   - social-media
   - mobile
-  - mobile-first
+  - mobile
   - mobile-friendly
   - social-media
   - emerging-tech

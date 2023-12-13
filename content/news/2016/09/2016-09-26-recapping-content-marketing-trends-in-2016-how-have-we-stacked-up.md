@@ -15,7 +15,7 @@ topics:
   - HHS
   - HRSA
   - mobile
-  - mobile-first
+  - mobile
   - mobile-friendly
   - multilingual
   - NARA

@@ -18,7 +18,7 @@ topics:
   - itif
   - analytics
   - mobile
-  - mobile-first
+  - mobile
   - plain-language
   - responsive-web-design
   - search-engine-optimization

@@ -5,7 +5,7 @@ title: 'Trends on Tuesday: Companies Use Mobile for Brand Loyalty'
 summary: A recent survey of 100 retailers by EPiServer found that 46 percent of those with a mobile strategy in place and 74 percent of those planning to launch one soon said they are using mobile primarily to increase customer loyalty or provide a more personalized experience for
 topics:
   - mobile
-  - mobile-first
+  - mobile
   - native-app
   - emerging-tech
 ---

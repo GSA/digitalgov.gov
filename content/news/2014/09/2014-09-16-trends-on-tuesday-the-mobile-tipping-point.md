@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
-  - mobile-first
+  - mobile
   - native-app
   - responsive-web-design
 
