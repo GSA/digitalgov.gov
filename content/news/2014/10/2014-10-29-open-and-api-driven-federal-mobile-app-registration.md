@@ -13,8 +13,8 @@ topics:
   - monthly-theme
   - aoi
   - mobile
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
+  - mobile
+  - mobile
   - native-apps
   - open-data
   - thursday-mobile-products

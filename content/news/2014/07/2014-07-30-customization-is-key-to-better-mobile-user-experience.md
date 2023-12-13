@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-3
+  - mobile
   - nps
   - smithsonian-institution
   - us-department-of-education

@@ -9,7 +9,7 @@ topics:
   - mobile
   - DOI
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - emerging-tech
   - us-department-of-the-interior
 ---

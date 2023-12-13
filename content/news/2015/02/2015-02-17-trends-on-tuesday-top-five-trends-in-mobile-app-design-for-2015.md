@@ -12,7 +12,7 @@ topics:
   - emerging-tech
   - mobile
   - mobile
-  - mobile-ux-guideline-3
+  - mobile
   - emerging-tech
 ---
 

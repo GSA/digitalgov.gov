@@ -16,7 +16,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - native-apps
   - NOAA

@@ -14,8 +14,8 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-4
+  - mobile
+  - mobile
   - responsive-web-design
   - transportation-security-administration
   - TSA

@@ -14,7 +14,7 @@ topics:
   - epa
   - executive-office-of-the-president
   - HHS
-  - mobile-ux-guideline-5
+  - mobile
   - responsive-web-design
   - thursday-mobile-products
   - us-department-of-veterans-affairs

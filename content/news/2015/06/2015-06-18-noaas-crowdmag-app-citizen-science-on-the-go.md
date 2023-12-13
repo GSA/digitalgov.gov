@@ -15,7 +15,7 @@ topics:
   - mobile
   - content-strategy
   - ios
-  - mobile-ux-guideline-5
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - thursday-mobile-products

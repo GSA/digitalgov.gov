@@ -10,7 +10,7 @@ topics:
   - application-programming-interface
   - mobile
   - GitHub
-  - mobile-ux-guideline-5
+  - mobile
   - open-source
   - peace-corps
   - us-digital-service

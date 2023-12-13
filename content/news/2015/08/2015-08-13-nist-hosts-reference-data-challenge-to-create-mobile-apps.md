@@ -12,7 +12,7 @@ topics:
   - Census
   - challenges-and-prize-competitions
   - epa
-  - mobile-ux-guideline-5
+  - mobile
   - national-institute-of-standards-and-technology
   - native-apps
   - NIST

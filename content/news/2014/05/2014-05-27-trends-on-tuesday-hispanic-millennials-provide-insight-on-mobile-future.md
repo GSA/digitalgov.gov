@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - GobiernoUSAgov
-  - mobile-ux-guideline-5
+  - mobile
   - mobile
   - multilingual
   - social-media

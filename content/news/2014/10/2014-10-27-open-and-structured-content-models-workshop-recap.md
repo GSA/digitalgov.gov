@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - HHS
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - nasa
   - national-cancer-institute
   - NCI

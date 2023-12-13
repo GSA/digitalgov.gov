@@ -8,12 +8,6 @@ authors:
 topics:
   - mobile
   - our-work
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile-ux-guideline-6
-  - mobile
   - recaps
   - security
 

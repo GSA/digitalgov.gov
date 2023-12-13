@@ -14,7 +14,7 @@ topics:
   - DFAS
   - epa
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - nasa
   - national-institutes-of-health
   - nih

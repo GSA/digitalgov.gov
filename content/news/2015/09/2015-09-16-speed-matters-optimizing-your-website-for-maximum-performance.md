@@ -12,7 +12,7 @@ topics:
   - analytics
   - HHS
 
-  - mobile-ux-guideline-4
+  - mobile
   - recaps
   - united-states-department-of-health-and-human-services
 

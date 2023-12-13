@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - mobile
   - multilingual
   - multilingual-community

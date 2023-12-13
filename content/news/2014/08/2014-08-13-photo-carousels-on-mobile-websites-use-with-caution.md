@@ -13,7 +13,7 @@ topics:
   - Federal Aviation Administration
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - content-strategy
 
 ---

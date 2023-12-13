@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - design
   - recaps
   - thursday-mobile-products

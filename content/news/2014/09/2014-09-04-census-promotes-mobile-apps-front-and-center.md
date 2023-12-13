@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - social-media
   - thursday-mobile-products
   - united-states-census-bureau

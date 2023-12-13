@@ -12,8 +12,8 @@ topics:
   - gsa
   - mobile
   - mobile
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
+  - mobile
+  - mobile
   - design
   - user-experience
 ---

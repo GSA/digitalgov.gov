@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - responsive-web-design
   - content-strategy
   - emerging-tech

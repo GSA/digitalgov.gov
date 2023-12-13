@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - responsive-web-design
   - SSA
   - the-united-states-social-security-administration

@@ -11,7 +11,7 @@ topics:
   - Internal Revenue Service
   - ios
   - IRS
-  - mobile-ux-guideline-5
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - OSHA

@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - HHS
-  - mobile-ux-guideline-5
+  - mobile
   - responsive-web-design
   - united-states-department-of-health-and-human-services
 ---

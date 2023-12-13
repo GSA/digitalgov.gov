@@ -8,8 +8,8 @@ authors:
   - david-fern
 topics:
   - mobile
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-4
+  - mobile
+  - mobile
   - native-app
   - emerging-tech
 

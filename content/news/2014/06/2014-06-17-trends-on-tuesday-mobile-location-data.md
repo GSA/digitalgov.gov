@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - social-media
-  - mobile-ux-guideline-5
+  - mobile
   - NPS
   - emerging-tech
   - us-national-park-service

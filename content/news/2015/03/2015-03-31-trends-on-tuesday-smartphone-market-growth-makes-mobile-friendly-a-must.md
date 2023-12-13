@@ -9,7 +9,7 @@ topics:
   - mobile
   - analytics
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - mobile
   - responsive-web-design
   - content-strategy

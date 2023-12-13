@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - emerging-tech
 
 ---

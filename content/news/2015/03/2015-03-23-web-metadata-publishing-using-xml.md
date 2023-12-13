@@ -14,8 +14,6 @@ topics:
   - data
   - federal-register
   - metadata
-  - mobile
-  - mobile-ux-guideline-6
   - content-strategy
   - open-data
   - SEC

@@ -8,7 +8,7 @@ authors:
 topics:
   - ios
   - mobile
-  - mobile-ux-guideline-3
+  - mobile
   - mobile
   - mobile
   - native-apps

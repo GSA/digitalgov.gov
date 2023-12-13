@@ -10,8 +10,8 @@ topics:
   - monthly-theme
   - mobile
   - mobile
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-4
+  - mobile
+  - mobile
   - native-app
   - native-apps
   - user-experience

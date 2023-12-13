@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - National Highway Traffic Safety Administration
   - national-oceanic-and-atmospheric-administration
   - NOAA

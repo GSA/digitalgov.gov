@@ -12,7 +12,7 @@ topics:
   - user-experience-community-of-practice
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - emerging-tech
   - user-experience
 

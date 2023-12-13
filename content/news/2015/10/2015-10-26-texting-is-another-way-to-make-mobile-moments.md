@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - national-cancer-institute
   - NCI
   - responsive-web-design

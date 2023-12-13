@@ -13,7 +13,7 @@ topics:
   - policy
   - aoi
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - emerging-tech
 
 ---

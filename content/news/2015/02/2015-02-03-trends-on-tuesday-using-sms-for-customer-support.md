@@ -10,7 +10,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - government-contact-centers
-  - mobile-ux-guideline-3
+  - mobile
   - native-app
   - responsive-web-design
   - emerging-tech

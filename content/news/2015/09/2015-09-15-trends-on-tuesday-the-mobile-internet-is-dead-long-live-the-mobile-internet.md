@@ -6,7 +6,7 @@ summary: Benedict Evans, a leading mobile analyst with the Silicon Valley ventur
 authors:
   - wsullivan
 topics:
-  - mobile-ux-guideline-5
+  - mobile
   - mobile
   - emerging-tech
 ---

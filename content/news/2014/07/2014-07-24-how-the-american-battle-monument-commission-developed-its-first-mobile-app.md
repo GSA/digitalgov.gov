@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-3
+  - mobile
   - thursday-mobile-products
   - user-experience
 ---

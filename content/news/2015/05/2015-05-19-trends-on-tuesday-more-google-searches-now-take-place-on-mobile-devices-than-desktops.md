@@ -6,7 +6,7 @@ summary: 'The drum beat of the continuing and quick cultural shift to mobile dev
 authors:
   - wsullivan
 topics:
-  - mobile-ux-guideline-5
+  - mobile
   - mobile
   - emerging-tech
 ---

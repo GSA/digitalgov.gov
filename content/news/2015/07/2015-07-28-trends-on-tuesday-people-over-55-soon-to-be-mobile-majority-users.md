@@ -6,7 +6,7 @@ summary: 'In July, comScore released a research paper, The Global Mobile Report:
 authors:
   - wsullivan
 topics:
-  - mobile-ux-guideline-5
+  - mobile
   - mobile
   - emerging-tech
 ---

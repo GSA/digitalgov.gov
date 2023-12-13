@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - native-apps
   - user-experience
 

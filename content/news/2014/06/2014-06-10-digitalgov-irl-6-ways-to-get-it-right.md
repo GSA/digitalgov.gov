@@ -13,7 +13,7 @@ topics:
   - department-of-commerce
   - FCC
   - fema
-  - mobile-ux-guideline-5
+  - mobile
   - National Weather Service
   - NOAA
   - open-data

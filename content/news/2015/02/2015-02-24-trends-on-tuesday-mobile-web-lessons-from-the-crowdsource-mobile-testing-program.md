@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - responsive-web-design
   - emerging-tech
   - united-states-department-of-energy

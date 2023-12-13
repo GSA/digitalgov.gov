@@ -16,7 +16,7 @@ topics:
   - Internal Revenue Service
   - IRS
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - multilingual
   - multilingual-community
   - national-institutes-of-health

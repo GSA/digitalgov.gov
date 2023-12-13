@@ -12,7 +12,7 @@ topics:
   - Government Contact Center Council
   - government-contact-centers
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - emerging-tech
 ---
 

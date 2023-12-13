@@ -19,7 +19,7 @@ topics:
   - gsa
   - mobile
   - mobile
-  - mobile-ux-guideline-3
+  - mobile
   - emerging-tech
   - united-states-department-of-transportation
 ---

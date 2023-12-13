@@ -10,7 +10,7 @@ topics:
   - social-media
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - emerging-tech
 ---
 

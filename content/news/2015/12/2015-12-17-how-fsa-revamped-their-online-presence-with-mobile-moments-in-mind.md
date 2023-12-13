@@ -11,8 +11,8 @@ topics:
   - FAFSA
   - federal-student-aid
   - mobile
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
+  - mobile
+  - mobile
   - recaps
 ---
 

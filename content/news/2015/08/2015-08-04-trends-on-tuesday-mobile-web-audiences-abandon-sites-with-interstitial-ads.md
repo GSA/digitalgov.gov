@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - native-app
   - native-apps
   - emerging-tech

@@ -10,7 +10,7 @@ topics:
   - mobile
   - accessibility
   - mobile
-  - mobile-ux-guideline-3
+  - mobile
   - native-apps
   - emerging-tech
   - us-access-board

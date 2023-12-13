@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - national-oceanic-and-atmospheric-administration
   - National Weather Service
   - NOAA

@@ -11,7 +11,7 @@ topics:
   - mobile
   - user-testing-and-research
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - thursday-mobile-products
   - top-tasks
   - us-department-of-labor

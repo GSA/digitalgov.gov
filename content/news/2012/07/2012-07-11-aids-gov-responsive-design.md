@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - HHS
-  - mobile-ux-guideline-5
+  - mobile
   - responsive-web-design
 ---
 

@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - NPS
   - responsive-web-design
   - thursday-mobile-products

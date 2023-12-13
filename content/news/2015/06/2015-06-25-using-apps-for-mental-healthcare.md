@@ -8,10 +8,6 @@ authors:
 topics:
   - mobile
   - DoD
-  - mobile
-  - mobile
-  - mobile-ux-guideline-5
-  - mobile-ux-guideline-6
   - native-app
   - thursday-mobile-products
   - united-states-department-of-defense

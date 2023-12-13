@@ -22,7 +22,7 @@ topics:
   - emerging-tech
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - mobile
   - nasa
   - content-strategy

@@ -11,7 +11,7 @@ topics:
   - mobile
   - user-testing-and-research
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - native-app
   - responsive-web-design
   - user-experience

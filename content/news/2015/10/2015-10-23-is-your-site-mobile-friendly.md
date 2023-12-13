@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - usability
 ---
 

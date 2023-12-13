@@ -10,7 +10,7 @@ topics:
   - mobile
   - challenges-and-prize-competitions
   - data-gov
-  - mobile-ux-guideline-5
+  - mobile
   - nasa
   - OPM
   - united-states-office-of-personnel-management

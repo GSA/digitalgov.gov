@@ -8,10 +8,6 @@ authors:
 topics:
   - mobile
   - emerging-tech
-  - mobile
-  - mobile
-  - mobile-ux-guideline-6
-  - emerging-tech
   - virtual-reality
   - virtual-augmented-reality-community
 ---

@@ -11,7 +11,7 @@ topics:
   - HHS
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - responsive-web-design
   - thursday-mobile-products
   - united-states-department-of-health-and-human-services

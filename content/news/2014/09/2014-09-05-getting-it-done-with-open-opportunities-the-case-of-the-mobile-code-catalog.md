@@ -10,7 +10,7 @@ topics:
   - mobile
   - DOL
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - NPS
   - open-opportunities-program
   - open-source

@@ -10,7 +10,7 @@ topics:
   - analytics
   - mobile
   - mobile
-  - mobile-ux-guideline-5
+  - mobile
   - mobile
   - emerging-tech
 ---

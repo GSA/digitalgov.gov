@@ -11,7 +11,7 @@ topics:
   - DOL
   - mobile
   - mobile
-  - mobile-ux-guideline-4
+  - mobile
   - design
   - usability
   - user-experience
