@@ -16,7 +16,7 @@ topics:
   - HUD
   - Internal Revenue Service
   - IRS
-  - LEP
+
   - multilingual
   - multilingual-community
   - National Library of Medicine

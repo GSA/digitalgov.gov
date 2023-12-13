@@ -11,7 +11,6 @@ topics:
   - cdc
   - DOJ
   - HHS
-  - LEP
   - multilingual
 ---
 

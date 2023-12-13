@@ -11,7 +11,6 @@ end_date: 2022-02-24 15:00:00 -0500
 topics:
   - multilingual
   - multilingual-community
-  - lep
   - content-strategy
   - accessibility
   - customer-experience
