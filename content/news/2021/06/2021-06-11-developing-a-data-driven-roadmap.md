@@ -7,8 +7,6 @@ summary: A Presidential Innovation Fellow working with the U.S. Department of Ve
 # See all topics at https://digital.gov/topics
 topics:
   - data
-  - pif
-  - presidential-innovation-fellows
   - strategy
 # See all authors at https://digital.gov/authors
 authors:

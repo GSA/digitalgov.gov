@@ -13,7 +13,6 @@ topics:
   - national-day-of-civic-hacking
   - nih
   - nsf
-  - peace-corps
   - us-agency-for-international-development
   - united-states-census-bureau
   - united-states-department-of-health-and-human-services

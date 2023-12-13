@@ -13,8 +13,6 @@ topics:
   - Office of Governmentwide Policy
   - OGP
   - open-data
-  - PBS
-  - Public Buildings Service
   - us-general-services-administration
 ---
 

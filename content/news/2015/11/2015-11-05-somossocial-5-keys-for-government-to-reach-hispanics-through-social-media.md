@@ -12,7 +12,6 @@ topics:
   - social-media
   - GobiernoUSAgov
   - multilingual
-  - peace-corps
   - social-media
   - us-small-business-administration
   - usa-gov

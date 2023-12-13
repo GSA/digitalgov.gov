@@ -13,7 +13,6 @@ topics:
   - NLM
   - NOAA
   - ODNI
-  - peace-corps
   - socialgov-community
   - us-department-of-education
   - us-department-of-the-interior

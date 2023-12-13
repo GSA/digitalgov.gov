@@ -10,7 +10,6 @@ topics:
   - 18f
   - data-gov
   - open-government
-  - peace-corps
   - US Citizenship and Immigration Service
   - us-department-of-justice
   - us-department-of-the-interior

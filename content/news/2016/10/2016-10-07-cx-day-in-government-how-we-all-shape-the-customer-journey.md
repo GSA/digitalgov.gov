@@ -12,8 +12,6 @@ topics:
   - customer-experience
   - gsa
   - IT Schedule 70
-  - PBS
-  - Public Buildings Service
   - us-general-services-administration
 ---
 

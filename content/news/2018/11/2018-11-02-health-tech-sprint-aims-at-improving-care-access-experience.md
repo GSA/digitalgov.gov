@@ -12,7 +12,6 @@ topics:
   - design
   - open-data
   - innovation
-  - pif
   - sprint
 featured_image:
   uid: bot

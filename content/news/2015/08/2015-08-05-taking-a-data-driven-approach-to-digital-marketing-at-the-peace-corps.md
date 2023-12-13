@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - a-b-testing
-  - peace-corps
 
 ---
 

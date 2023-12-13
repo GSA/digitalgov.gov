@@ -10,8 +10,6 @@ topics:
   - product-management
   - gsa
   - innovation
-  - pif
-  - presidential-innovation-fellows
 featured_image:
   uid: pif-team-19
 

@@ -9,7 +9,6 @@ topics:
   - monthly-theme
   - customer-service
   - government-contact-centers
-  - peace-corps
   - us-digital-service
   - USDS
   - user-centered-design

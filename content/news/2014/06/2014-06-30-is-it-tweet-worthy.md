@@ -11,7 +11,6 @@ topics:
   - social-media
   
   
-  - peace-corps
   - plain-language
   - socialgov-community
   - us-government-accountability-office

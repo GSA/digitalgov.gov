@@ -16,7 +16,6 @@ topics:
   - OMB
   - open-government
   - OSTP
-  - peace-corps
   - us-coast-guard
   - us-department-of-education
   - us-department-of-labor

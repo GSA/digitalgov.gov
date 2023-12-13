@@ -8,8 +8,6 @@ authors:
   - zach-goldfine
 topics:
   - product-management
-  - pif
-  - presidential-innovation-fellows
 
 featured_image:
   uid: zach-goldfine-pif-c

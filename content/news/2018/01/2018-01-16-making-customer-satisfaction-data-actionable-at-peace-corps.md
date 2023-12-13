@@ -12,7 +12,6 @@ topics:
   - policy
   - design
   - user-testing-and-research
-  - peace-corps
   - metrics
   - analytics
   - data

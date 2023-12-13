@@ -14,7 +14,6 @@ topics:
   - data
   - research
   - strategy
-  - pif
 
 # see all authors at https://digital.gov/authors
 authors: 
