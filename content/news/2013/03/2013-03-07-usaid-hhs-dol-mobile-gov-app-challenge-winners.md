@@ -9,7 +9,7 @@ topics:
   - DOL
   - HHS
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
   - us-department-of-labor
   - united-states-department-of-health-and-human-services

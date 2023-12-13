@@ -9,7 +9,7 @@ topics:
   - social-media
   - gsa
   - HHS
-  - mobile-gov
+  - mobile
   - nasa
   - socialgov
 ---

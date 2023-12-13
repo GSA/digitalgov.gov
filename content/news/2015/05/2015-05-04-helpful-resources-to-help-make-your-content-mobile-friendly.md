@@ -10,7 +10,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - mobile
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - sitesusagov
   - usability-case-study

@@ -6,7 +6,7 @@ summary: 'The U.S. Department of Transportation&#8217;s National Highway Traffic
 topics:
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
   - united-states-department-of-transportation
 ---

@@ -15,7 +15,7 @@ topics:
   - fema
   - HHS
   - mobile
-  - mobile-gov
+  - mobile
   - Nuclear Regulatory Commission
   - thursday-mobile-products
   - us-environmental-protection-agency

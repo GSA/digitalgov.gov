@@ -9,7 +9,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - HHS
-  - mobile-gov
+  - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - responsive-web-design

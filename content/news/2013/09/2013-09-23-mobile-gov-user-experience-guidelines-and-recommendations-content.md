@@ -7,7 +7,7 @@ topics:
   - content-strategy
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - user-experience
 ---
 

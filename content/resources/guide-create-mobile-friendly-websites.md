@@ -9,7 +9,7 @@ featured_image:
 topics:
   - mobile
   - content-strategy
-  - mobile-gov
+  - mobile
   - mobile-gov-community-of-practice
 
 ---

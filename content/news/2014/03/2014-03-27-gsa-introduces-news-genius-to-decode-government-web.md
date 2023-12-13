@@ -9,7 +9,7 @@ topics:
   - social-media
   - application-programming-interface
   - emerging-tech
-  - mobile-gov
+  - mobile
   - socialgov
   - us-small-business-administration
 

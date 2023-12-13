@@ -6,8 +6,8 @@ summary: 'Gearing up for the Fourth? Here are some anytime, anywhere government 
 topics:
   - mobile
   - mobile
-  - mobile-gov
-  - mobile-gov
+  - mobile
+  - mobile
   - thursday-mobile-products
 ---
 

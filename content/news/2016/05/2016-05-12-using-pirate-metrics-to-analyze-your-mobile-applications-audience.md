@@ -11,7 +11,7 @@ topics:
   - analytics
   - mobile
   - mobile-gov-community-of-practice
-  - mobile-gov
+  - mobile
   - native-apps
   - design
   - recaps

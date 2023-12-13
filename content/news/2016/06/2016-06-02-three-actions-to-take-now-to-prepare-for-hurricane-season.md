@@ -10,7 +10,7 @@ topics:
   - federal-emergency-management-agency
   - fema
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
 ---
 

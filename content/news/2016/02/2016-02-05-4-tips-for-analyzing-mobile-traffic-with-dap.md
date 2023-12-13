@@ -10,7 +10,7 @@ topics:
   - mobile
   - our-work
   - analytics
-  - mobile-gov
+  - mobile
   - mobile-gov-community-of-practice
 ---
 

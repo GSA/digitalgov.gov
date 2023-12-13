@@ -6,7 +6,7 @@ summary: 'Learn how to create amazing and engaging Mobile Gov User Experiences b
 topics:
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - user-experience
   - VA
 ---

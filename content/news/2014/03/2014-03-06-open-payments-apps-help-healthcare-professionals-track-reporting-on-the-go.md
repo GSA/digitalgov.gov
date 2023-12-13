@@ -8,7 +8,7 @@ topics:
   - CMS
   - HHS
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
   - united-states-department-of-health-and-human-services
 ---

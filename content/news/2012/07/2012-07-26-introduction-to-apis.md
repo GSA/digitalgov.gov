@@ -11,7 +11,7 @@ topics:
   - mobile
   - application-programming-interface
   - cdc
-  - mobile-gov
+  - mobile
   - nasa
   - recaps
 ---

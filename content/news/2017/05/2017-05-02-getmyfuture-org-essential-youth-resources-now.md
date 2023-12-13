@@ -14,7 +14,7 @@ topics:
   - data
   - multimedia
   - mobile
-  - mobile-gov
+  - mobile
   - user-centered-design
   - user-experience
   - video

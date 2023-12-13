@@ -9,7 +9,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - HHS
   - mobile-gov-community-of-practice
-  - mobile-gov
+  - mobile
   - national-institutes-of-health
   - nih
   - content-strategy

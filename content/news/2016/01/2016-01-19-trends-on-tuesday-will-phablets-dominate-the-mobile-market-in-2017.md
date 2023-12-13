@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-gov
-  - mobile-gov
+  - mobile
+  - mobile
   - emerging-tech
 ---
 

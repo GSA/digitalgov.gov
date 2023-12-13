@@ -7,7 +7,7 @@ authors:
   - rachel-hurley
 topics:
   - mobile
-  - mobile-gov
+  - mobile
   - emerging-tech
 ---
 

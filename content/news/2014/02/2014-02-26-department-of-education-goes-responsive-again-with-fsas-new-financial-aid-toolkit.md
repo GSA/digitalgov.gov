@@ -6,7 +6,7 @@ summary: 'Money for college?  It&#8217;s never too early &#8212; or too late, fo
 topics:
   - mobile
   - FAFSA
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - thursday-mobile-products
   - us-department-of-education

@@ -16,7 +16,7 @@ topics:
   - analytics
   - challenges-and-prize-competitions
   - customer-experience
-  - mobile-gov
+  - mobile
 ---
 
 In January on DigitalGov, we’ll highlight pieces looking at trends we see coming in the digital government space in 2015 and beyond. We have lined up articles around:

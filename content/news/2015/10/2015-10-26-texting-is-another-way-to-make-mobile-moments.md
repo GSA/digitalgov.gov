@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - mobile-ux-guideline-5
   - national-cancer-institute
   - NCI

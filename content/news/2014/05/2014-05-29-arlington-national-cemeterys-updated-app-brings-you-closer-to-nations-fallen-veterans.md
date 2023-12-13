@@ -7,7 +7,7 @@ topics:
   - mobile
   - arlington-national-cemetery
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
 ---
 

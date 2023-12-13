@@ -10,7 +10,7 @@ topics:
   - fema
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - recaps
   - responsive-web-design
   - us-department-of-education

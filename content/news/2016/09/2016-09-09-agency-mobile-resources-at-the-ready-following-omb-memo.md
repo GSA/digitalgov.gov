@@ -17,7 +17,7 @@ topics:
   - cloud-and-infrastructure
   - innovation
   - mobile
-  - mobile-gov
+  - mobile
   - Office of Management and Budget
   - OMB
   - us-general-services-administration

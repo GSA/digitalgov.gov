@@ -9,7 +9,7 @@ topics:
   - innovation
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
 
 ---
 

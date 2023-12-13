@@ -8,7 +8,7 @@ topics:
   - mobile
   - content-strategy
   - mobile-gov-community-of-practice
-  - mobile-gov
+  - mobile
 aliases:
 
 ---

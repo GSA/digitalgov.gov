@@ -9,7 +9,7 @@ topics:
   - mobile
   - application-programming-interface
   - HHS
-  - mobile-gov
+  - mobile
   - mobile-gov-experience
 ---
 

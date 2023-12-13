@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - SSA
   - thursday-mobile-products
 

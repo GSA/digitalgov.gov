@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-gov
+  - mobile
   - emerging-tech
 ---
 

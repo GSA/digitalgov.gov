@@ -10,7 +10,7 @@ topics:
   - analytics
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - content-strategy
   - emerging-tech

@@ -9,7 +9,7 @@ topics:
   - product-management
   - mobile
 
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - user-experience
 ---

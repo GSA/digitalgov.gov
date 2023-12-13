@@ -10,7 +10,7 @@ topics:
   - product-management
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - emerging-tech
 ---

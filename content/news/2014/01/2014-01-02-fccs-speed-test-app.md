@@ -9,7 +9,7 @@ topics:
   - FCC
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
 ---
 

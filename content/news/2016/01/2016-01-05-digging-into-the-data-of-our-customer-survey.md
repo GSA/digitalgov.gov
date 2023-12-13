@@ -12,7 +12,7 @@ topics:
   - challenges-and-prize-competitions
   - customer-experience
   - budgeting-and-performance
-  - mobile-gov
+  - mobile
   - open-opportunities-program
   - socialgov
   - user-experience

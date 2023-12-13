@@ -6,7 +6,7 @@ summary: 'The Pointe du Hoc mobile app serves as a tour guide and learning tool 
 topics:
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
 ---
 

@@ -9,7 +9,7 @@ topics:
   - social-media
   - crowdsourcing-and-citizen-science
   - mobile
-  - mobile-gov
+  - mobile
   - thursday-mobile-products
 
 ---

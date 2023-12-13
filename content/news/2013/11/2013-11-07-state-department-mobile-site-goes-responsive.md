@@ -6,7 +6,7 @@ summary: The Department of State has updated their mobile website m.state.gov
 topics:
   - design
   - mobile
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - thursday-mobile-products
 ---

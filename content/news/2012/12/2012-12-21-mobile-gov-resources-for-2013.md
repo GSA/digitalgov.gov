@@ -12,9 +12,9 @@ topics:
   - HHS
   - IRS
   - mobile
-  - mobile-gov
   - mobile
-  - mobile-gov
+  - mobile
+  - mobile
   - national-institutes-of-health
   - nih
   - thursday-mobile-products

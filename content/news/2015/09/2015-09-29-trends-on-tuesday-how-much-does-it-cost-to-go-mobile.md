@@ -10,7 +10,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-3
   - mobile
-  - mobile-gov
+  - mobile
   - native-apps
   - responsive-web-design
   - terms-of-service

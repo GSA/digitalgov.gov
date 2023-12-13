@@ -12,9 +12,9 @@ topics:
   - monthly-theme
   - gsa
   - mobile
-  - mobile-gov
+  - mobile
   - mobile-ux-guideline-1
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - us-department-of-state
 ---

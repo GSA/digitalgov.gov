@@ -10,7 +10,7 @@ topics:
   - mobile
   - content-strategy
   - HUD
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - thursday-mobile-products
   - united-states-department-of-housing-and-urban-development

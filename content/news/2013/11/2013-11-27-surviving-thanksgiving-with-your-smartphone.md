@@ -9,7 +9,7 @@ topics:
   - mobile
   - HHS
   - mobile
-  - mobile-gov
+  - mobile
   - nasa
   - nih
   - thursday-mobile-products

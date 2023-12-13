@@ -14,8 +14,8 @@ topics:
   - innovation
   - mobile
   - mobile
-  - mobile-gov
-  - mobile-gov
+  - mobile
+  - mobile
   - nasa
   - open-data
   - open-government

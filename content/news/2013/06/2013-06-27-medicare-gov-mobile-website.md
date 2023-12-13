@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - HHS
-  - mobile-gov
+  - mobile
   - responsive-web-design
   - thursday-mobile-products
 ---

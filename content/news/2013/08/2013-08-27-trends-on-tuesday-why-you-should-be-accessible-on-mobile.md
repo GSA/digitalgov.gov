@@ -9,7 +9,7 @@ topics:
   - accessibility
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - emerging-tech
 
 ---

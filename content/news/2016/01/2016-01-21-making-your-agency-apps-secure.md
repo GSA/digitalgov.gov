@@ -13,7 +13,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-6
-  - mobile-gov
+  - mobile
   - recaps
   - security
 

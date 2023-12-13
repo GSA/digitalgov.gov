@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - HHS
-  - mobile-gov
+  - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - responsive-web-design

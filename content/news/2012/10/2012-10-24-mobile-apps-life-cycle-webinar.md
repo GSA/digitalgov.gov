@@ -6,7 +6,7 @@ summary: 'Are you creating a mobile website or app for your agency? On Tuesday, 
 topics:
   - mobile
   - mobile
-  - mobile-gov
+  - mobile
   - webinar
 ---
 

@@ -7,7 +7,7 @@ topics:
   - mobile
   - american-red-cross
   - mobile
-  - mobile-gov
+  - mobile
   - NOAA
   - thursday-mobile-products
 ---

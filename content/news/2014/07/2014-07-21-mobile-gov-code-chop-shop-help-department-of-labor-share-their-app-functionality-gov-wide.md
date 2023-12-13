@@ -10,7 +10,7 @@ topics:
   - code
   - mobile
   - DOL
-  - mobile-gov
+  - mobile
   - open-source
   - us-department-of-labor
 ---

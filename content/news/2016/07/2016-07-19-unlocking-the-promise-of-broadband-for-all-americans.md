@@ -10,7 +10,7 @@ topics:
   - mobile
   - innovation
   - mobile
-  - mobile-gov
+  - mobile
   - white-house
   - wireless
 ---

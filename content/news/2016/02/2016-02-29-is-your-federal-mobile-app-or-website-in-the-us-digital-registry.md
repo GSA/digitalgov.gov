@@ -10,7 +10,7 @@ topics:
   - application-programming-interface
   - analytics
   - mobile
-  - mobile-gov
+  - mobile
   - social-media
   - us-digital-registry
  

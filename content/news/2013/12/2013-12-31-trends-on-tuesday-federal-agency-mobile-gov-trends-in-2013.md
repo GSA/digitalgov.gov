@@ -11,7 +11,7 @@ topics:
   - product-management
   - mobile
   - content-strategy
-  - mobile-gov
+  - mobile
   - national-gallery-of-art
   - NOAA
   - responsive-web-design

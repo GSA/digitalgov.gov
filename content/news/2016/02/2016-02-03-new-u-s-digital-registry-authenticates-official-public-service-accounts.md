@@ -10,7 +10,7 @@ topics:
   - social-media
   - analytics-usa-gov
   - application-programming-interface
-  - mobile-gov
+  - mobile
   - open-source
   - socialgov
   - terms-of-service

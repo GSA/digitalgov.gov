@@ -12,7 +12,7 @@ topics:
   - accessibility
   - data
   - mobile
-  - mobile-gov
+  - mobile
   - open-data
   - social-media
   - socialgov

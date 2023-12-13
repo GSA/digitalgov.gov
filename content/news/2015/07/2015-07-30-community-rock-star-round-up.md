@@ -14,7 +14,7 @@ topics:
   - gsa
   - HHS
   - ICE
-  - mobile-gov
+  - mobile
   - NCI
   - nih
   - content-strategy
