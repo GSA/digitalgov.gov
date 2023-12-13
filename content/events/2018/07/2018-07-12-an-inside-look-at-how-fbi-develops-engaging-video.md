@@ -18,11 +18,9 @@ end_date: 2018-07-12 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - multimedia
-  - multimedia
   - fbi
   - federal-bureau-of-investigation
-  - video-production-pros-community
+  - multimedia
 
 # see all authors at https://digital.gov/authors
 authors: 

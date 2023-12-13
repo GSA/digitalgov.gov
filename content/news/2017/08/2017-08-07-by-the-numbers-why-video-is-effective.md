@@ -8,12 +8,9 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - multimedia
-  - multimedia
   - content-strategy
   - social-media
   - multimedia
-  - video-production-pros-community
 ---
 
 <p>

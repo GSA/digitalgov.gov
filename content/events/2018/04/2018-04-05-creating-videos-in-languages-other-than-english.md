@@ -19,13 +19,10 @@ end_date: 2018-04-05 13:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - multimedia
   - content-strategy
   - multilingual
-  - multimedia
   - multilingual
   - multimedia
-  - video-production-pros-community
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -27,8 +27,6 @@ aliases:
   - /event/video-production-pros-roundtable/
 topics:
   - multimedia
-  - multimedia
-  - video-production-pros-community
 
 ---
 

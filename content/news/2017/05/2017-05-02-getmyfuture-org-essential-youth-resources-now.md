@@ -10,15 +10,11 @@ topics:
   - data
   - design
   - product-management
-  - multimedia
   - data
-  - multimedia
-  - mobile
   - mobile
   - user-centered-design
   - user-experience
   - multimedia
-  - video-production-pros-community
 ---
 
 > _This post was originally published on the [U.S. Department of Labor Blog](https://blog.dol.gov/)._

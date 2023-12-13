@@ -10,8 +10,6 @@ topics:
   - analytics
   - mobile
   - social-media
-  - multimedia
-  - multimedia
   - National Center for Complementary and Integrative Health
   - national-institutes-of-health
   - NCCIH
@@ -19,7 +17,6 @@ topics:
   - social-media
   - social-media-metrics
   - multimedia
-  - video-production-pros-community
 ---
 
 Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing [opioid epidemic](https://www.hhs.gov/opioids/) in the United States.

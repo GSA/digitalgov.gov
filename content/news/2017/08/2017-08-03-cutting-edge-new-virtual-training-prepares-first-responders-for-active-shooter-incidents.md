@@ -11,8 +11,6 @@ topics:
   - policy
   - user-testing-and-research
   - user-experience
-  - multimedia
-  - multimedia
   - emerging-tech
   - dhs
   - content-strategy
@@ -22,7 +20,6 @@ topics:
   - united-states-army
   - united-states-department-of-homeland-security
   - multimedia
-  - video-production-pros-community
   - virtual-reality
   - virtual-augmented-reality-community
 
