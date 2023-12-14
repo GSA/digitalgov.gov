@@ -17,7 +17,6 @@ topics:
   - data-gov
   - drupal
   - software-engineering
-  - json
   - metadata
   - mobile-gov-community-of-practice
   - open-and-structured-content-models
@@ -38,7 +37,7 @@ topics:
 
 To get the basics on using Data.gov, you can take a look at our resources [How to Get Your Data on Data.gov]({{< ref "how-to-get-your-open-data-on-data-gov.md" >}} "How to Get Your Open Data on Data.gov") or [view the “How to Get Your Data on Data.gov webinar](http://www.youtube.com/watch?v=hbxA5-GDvvU&feature=youtube_gdata) we offered in November with Hyon Kim, Phil Ashlock and Rebecca Williams of the Data.gov team.
 
-You can also take a look at our [Inventory.Data.gov Guide]({{< ref "inventory-data-gov-guide.md" >}} "Inventory.data.gov Guide") and watch the [recorded webinar on Using Inventory.Data.gov to assist in the creation of JSON files](http://www.youtube.com/watch?v=ciLYjDsF4lo&feature=youtube_gdata). [JSON files]({{< ref "/topics/json" >}}) are required for successful Open Data Policy compliance and the harvesting of data to Data.gov.
+You can also take a look at our [Inventory.Data.gov Guide]({{< ref "inventory-data-gov-guide.md" >}} "Inventory.data.gov Guide") and watch the [recorded webinar on Using Inventory.Data.gov to assist in the creation of JSON files](http://www.youtube.com/watch?v=ciLYjDsF4lo&feature=youtube_gdata). [JSON files]({{< ref "/topics/software-engineering" >}}) are required for successful Open Data Policy compliance and the harvesting of data to Data.gov.
 
 Finally, we hosted Phil Ashlock and Rebecca Williams of the Data.gov team to give a brief update about the Project Open Data metadata schema that is required under the [Open Data Policy](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013) and that powers Data.gov. They go through step-by-step how the [Project Open Data Metadata Schema is being updated, in this recorded webinar](http://www.youtube.com/watch?v=tuxS1iDwc_c&feature=youtube_gdata), for greater clarity and data discoverability. It is based on agency feedback, and you can learn about tools and resources to assist data stewards, IT personnel, and all agency staff in their v 1.1 metadata updates.
 

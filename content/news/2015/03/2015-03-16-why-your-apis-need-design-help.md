@@ -15,7 +15,6 @@ topics:
   - Consumer Financial Protection Bureau
   - fda
   - software-engineering
-  - json
   - us-food-and-drug-administration
   - usability
   - user-centered-design

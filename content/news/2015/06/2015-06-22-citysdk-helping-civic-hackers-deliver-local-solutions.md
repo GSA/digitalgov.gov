@@ -11,7 +11,7 @@ topics:
   - api
   - Census
   - data
-  - json
+  - software-engineering
   - national-day-of-civic-hacking
   - open-data
   - united-states-census-bureau

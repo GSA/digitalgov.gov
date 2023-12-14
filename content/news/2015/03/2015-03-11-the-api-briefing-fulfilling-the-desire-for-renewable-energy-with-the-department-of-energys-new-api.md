@@ -9,7 +9,7 @@ topics:
   - api
   - api
   - data
-  - json
+  - software-engineering
   - united-states-department-of-energy
   - wednesday-api-briefing
 ---
