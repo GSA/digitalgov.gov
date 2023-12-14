@@ -1,24 +1,27 @@
 ---
 date: 2023-12-05 16:20:00 -0500
-title: An introduction to inclusion
+title: "An introduction to inclusion"
+deck: "Understand why and how to create an inclusive culture"
+summary: "An inclusive culture contributes to a sense of belonging, promotes a healthier and more empowering workplace, respects differences, and optimizes for equal opportunities."
+
 topics:
   - diversity-equity-and-inclusion
   - project-management
   - professional-development
-deck: Understand why and how to create an inclusive culture
-summary: "An inclusive culture contributes to a sense of belonging, promotes a
-  healthier and more empowering workplace, respects differences, and optimizes
-  for equal opportunities. "
+
+slug: an-introduction-to-inclusion
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
-slug: an-introduction-to-inclusion
+
 ---
+
 ## What is inclusion?
 
-[Inclusion](https://digital.gov/topics/diversity-equity-and-inclusion/) is intricately linked to diversity, equity, inclusion, accessibility, and belonging. You’ll often see them listed together as Diversity, Equity, and Inclusion (DEI) or Diversity, Equity, Inclusion, and Accessibility (DEIA) or Diversity, Equity, Inclusion, Accessibility, and Belonging (DEIAB).
+[Inclusion](https://digital.gov/topics/diversity-equity-and-inclusion/) is intricately linked to diversity, equity, accessibility, and belonging. You’ll often see them listed together as Diversity, Equity, and Inclusion (DEI) or Diversity, Equity, Inclusion, and Accessibility (DEIA) or Diversity, Equity, Inclusion, Accessibility, and Belonging (DEIAB).
 
 A diverse, equitable, inclusive, and accessible culture:
 
@@ -31,22 +34,22 @@ The inclusion part of this grouping of concepts addresses how well people feel i
 
 ## Why is inclusion important?
 
-An inclusive culture helps all members of a workplace contribute to a sense of belonging and community, promotes a healthier and more empowering work environment and teams, respects differences, and optimizes for equal opportunities. This type of culture will also share power within teams and with the public, who our work ultimately benefits.
+An inclusive culture helps all members of a workplace contribute to a sense of belonging and community, promotes a healthier and more empowering work environment and teams, respects differences, and optimizes for equal opportunities. This type of culture will also share power within teams&mdash;and with the public, who our work ultimately benefits.
 
 If you don’t feel safe enough to bring your whole self — what makes you truly you — your colleagues and your work products can’t benefit from your unique experiences, nor your unique thoughts, both of which are essential to support the whole of our country in the work that we do.
 
 ## How to contribute to an inclusive workplace culture
 
-At GSA, we believe there are at least [four levels of inclusiveness at every organization](https://handbook.tts.gsa.gov/general-information-and-resources/inclusive-behaviors/), each of which contributes and is partially responsible for a workplace’s culture:
+At the U.S. General Services Administration (GSA), we believe there are at least [four levels of inclusiveness at every organization](https://handbook.tts.gsa.gov/general-information-and-resources/inclusive-behaviors/), each of which contributes to and is partially responsible for a workplace’s culture:
 
-* **Organization:** practices and activities that contribute to, or detract from, an inclusive organization
-* **Management:** support you receive from your managers — this includes program managers, leads, and/or supervisors
-* **Work group or team:** day-to-day interpersonal relationships and the team climate 
-* **Individual:** contributions you make that affect inclusion and awareness of diversity
+* **Organization:** Practices and activities that contribute to, or detract from, an inclusive organization
+* **Management:** Support you receive from your managers — this includes program managers, leads, and/or supervisors
+* **Work group or team:** Day-to-day interpersonal relationships and the team climate 
+* **Individual:** Contributions you make that affect inclusion and awareness of diversity
 
 While not an exhaustive list, ways to be more inclusive include:
 
-* Sharing decision-making and power with, and being sure you’re giving credit to, your colleagues, especially those who don’t typically have or get these — or speak up if you’re not credited appropriately — and conversely, advocate for those who are overlooked or interrupted
+* Sharing decision-making and power with, and being sure you’re giving credit to, your colleagues, especially those who don’t typically receive these (or speak up if you’re not credited appropriately) and conversely, advocate for those who are overlooked or interrupted
 * Working to further understand unintentional discrimination and actively working to avoid enacting it yourself
 * Being mindful of your actions and words and their impact on others, and being aware you may not entirely realize the impact that you have 
 * Approaching problems with curious empathy and trying to understand where someone else is coming from
@@ -82,7 +85,9 @@ Note that inclusion may look different at your agency, depending on your values.
 
 ## What can I do next?
 
-As the design system team at the Consumer Financial Protection Bureau (CFPB) said, “Before we’re able to design equitable and inclusive products for the people and communities we serve, we must first turn our attention to the ways in which we work.”
+As the design system team at the Consumer Financial Protection Bureau (CFPB) said,
+
+{{< card-quote text="Before we’re able to design equitable and inclusive products for the people and communities we serve, we must first turn our attention to the ways in which we work." cite="" >}}
 
 Check out the [CFPB guidelines for equity-centered design](https://cfpb.github.io/design-system/guidelines/overview). These guidelines include several activities that you and your team can use to build a greater understanding of who you’re working with and how they experience the situation you’re addressing.
 
