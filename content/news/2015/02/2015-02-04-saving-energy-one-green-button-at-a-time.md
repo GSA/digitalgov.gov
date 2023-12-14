@@ -14,7 +14,7 @@ topics:
   - NIST
   - open-data
   - open-source
-  - united-states-department-of-energy
+  
 ---
 
 {{< legacy-img src="2015/02/600-x-239-Green-futuristic-city-living-concept-kav777-iStock-Thinkstock-178804545.jpg" alt="Green futuristic city living concept" caption="" >}} 

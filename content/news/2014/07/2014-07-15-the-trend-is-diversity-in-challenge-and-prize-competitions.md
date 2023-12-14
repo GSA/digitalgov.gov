@@ -17,7 +17,7 @@ topics:
   - SBA
   - sitesusagov
   - us-small-business-administration
-  - united-states-department-of-energy
+  
   - united-states-department-of-health-and-human-services
 ---
 

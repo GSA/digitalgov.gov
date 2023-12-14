@@ -9,7 +9,7 @@ topics:
   - design
   - user-testing-and-research
   - DOE
-  - united-states-department-of-energy
+  
   - user-centered-design
   - user-experience
   
