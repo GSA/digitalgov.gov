@@ -18,7 +18,7 @@ topics:
   - HHS
   - HUD
   - nasa
-  - national-day-of-civic-hacking
+  - software-engineering
   - national-institutes-of-health
   - national-science-foundation
   - nih

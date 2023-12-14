@@ -8,7 +8,6 @@ authors:
 topics:
   - software-engineering
   - product-management
-  - national-day-of-civic-hacking
 ---
 
 <p>

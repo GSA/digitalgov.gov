@@ -12,7 +12,7 @@ topics:
   - Census
   - data
   - software-engineering
-  - national-day-of-civic-hacking
+  - software-engineering
   - open-data
   - united-states-census-bureau
 ---

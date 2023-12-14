@@ -7,7 +7,6 @@ authors:
   - lnelson
 topics:
   - software-engineering
-  - national-day-of-civic-hacking
   - open-government
   - white-house
 ---

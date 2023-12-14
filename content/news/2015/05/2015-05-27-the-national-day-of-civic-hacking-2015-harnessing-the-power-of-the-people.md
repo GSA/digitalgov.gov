@@ -9,7 +9,7 @@ topics:
   - challenges
   - data
   - data
-  - national-day-of-civic-hacking
+  - software-engineering
   - open-data
 ---
 

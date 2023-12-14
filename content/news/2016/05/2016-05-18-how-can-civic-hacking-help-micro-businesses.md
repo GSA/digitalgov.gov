@@ -8,7 +8,6 @@ authors:
 topics:
   - software-engineering
   - Census
-  - national-day-of-civic-hacking
   - SBA
   - us-small-business-administration
   - united-states-census-bureau

@@ -27,7 +27,7 @@ topics:
   - gsa
   - innovation
   - mobile-apps
-  - national-day-of-civic-hacking
+  - software-engineering
   - open-data
   - open-government
   - OSTP

@@ -22,7 +22,7 @@ topics:
   - HHS
   - HUD
   - nasa
-  - national-day-of-civic-hacking
+  - software-engineering
   - national-institutes-of-health
   - national-oceanic-and-atmospheric-administration
   - national-science-foundation

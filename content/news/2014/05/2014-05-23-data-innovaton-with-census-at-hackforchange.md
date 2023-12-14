@@ -15,7 +15,7 @@ topics:
   - department-of-commerce
   - epa
   - mobile-apps
-  - national-day-of-civic-hacking
+  - software-engineering
   - national-science-foundation
   - nsf
   - SBA

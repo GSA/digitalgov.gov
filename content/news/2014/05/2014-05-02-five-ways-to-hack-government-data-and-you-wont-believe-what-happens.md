@@ -14,7 +14,6 @@ topics:
   - challenge-gov
   - data-gov
   - innovation
-  - national-day-of-civic-hacking
   - national-science-foundation
   - nsf
   - united-states-census-bureau
