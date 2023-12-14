@@ -12,7 +12,6 @@ topics:
   - multilingual
   - multimedia
   - social-media
-  - social-media-metrics
   - usa-gov
   - usagov
 ---

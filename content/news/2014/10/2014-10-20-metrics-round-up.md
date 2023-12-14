@@ -13,7 +13,7 @@ topics:
   - GAO
   - NPS
   - open-data
-  - social-media-metrics
+  - social-media
   - us-environmental-protection-agency
   - us-government-accountability-office
   - us-national-park-service

@@ -16,8 +16,6 @@ topics:
   - multilingual
   - analytics
   - multilingual
-  - social-media
-  - social-media-metrics
   - usagov
 ---
 

@@ -13,8 +13,6 @@ topics:
   - analytics
   - mobile
   - security
-  - social-media
-  - social-media-metrics
   - emerging-tech
 ---
 

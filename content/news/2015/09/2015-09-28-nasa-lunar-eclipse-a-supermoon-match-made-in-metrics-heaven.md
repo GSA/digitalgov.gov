@@ -13,7 +13,7 @@ topics:
   - monthly-theme
   - analytics
   - nasa
-  - social-media-metrics
+  - social-media
 
 primary_image: sept-2015-peak-full-eclipse-visits-analytics-usa-gov
 

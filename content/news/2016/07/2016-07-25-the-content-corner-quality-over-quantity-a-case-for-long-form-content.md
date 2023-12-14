@@ -14,8 +14,6 @@ topics:
   - analytics-usa-gov
   - content-strategy
   - mobile
-  - social-media
-  - social-media-metrics
   - content-strategy
 ---
 

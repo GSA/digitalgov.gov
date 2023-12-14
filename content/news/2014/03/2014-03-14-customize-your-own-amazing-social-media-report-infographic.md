@@ -10,7 +10,6 @@ topics:
   - social-media
   - GAO
   - data-visualization
-  - social-media-metrics
   - socialgov
   - socialgov-community
 ---
