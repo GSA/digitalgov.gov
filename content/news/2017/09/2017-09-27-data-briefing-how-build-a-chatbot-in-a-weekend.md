@@ -6,7 +6,7 @@ summary: 'As chatbots have become more popular, some online sites will let you c
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - data
   - social-media
   - emerging-tech

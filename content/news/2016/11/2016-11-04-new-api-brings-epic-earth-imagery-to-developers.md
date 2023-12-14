@@ -7,11 +7,11 @@ authors:
   - veronica-phillips
 topics:
   - api
-  - code
+  - software-engineering
   - content
   - data
   - api
-  - code
+  - software-engineering
   - content
   - nasa
   - National Aeronautics and Space Administration

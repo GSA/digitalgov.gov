@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - challenges
-  - code
+  - software-engineering
   - product-management
   - challenge-gov
   - mobile-apps

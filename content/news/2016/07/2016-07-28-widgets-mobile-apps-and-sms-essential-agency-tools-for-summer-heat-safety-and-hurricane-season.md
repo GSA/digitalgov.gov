@@ -7,7 +7,7 @@ primary_image: tropical-storm-darby-viirs-sat-miles-22jul2016-cropped
 authors:
   - toni-bonitto
 topics:
-  - code
+  - software-engineering
   - content
   - mobile
   - social-media

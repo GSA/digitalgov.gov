@@ -6,9 +6,9 @@ summary: ' Government mobile code developed to help make tables mobile-friendly 
 authors:
   - jparcell
 topics:
-  - code
+  - software-engineering
   - mobile
-  - code
+  - software-engineering
   - Defense Finance and Accounting Services
   - DFAS
   - DOL

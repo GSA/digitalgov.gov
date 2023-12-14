@@ -6,7 +6,7 @@ summary: ' More than 100 digital engagement and open data managers from across g
 authors:
   - jherman
 topics:
-  - code
+  - software-engineering
   - social-media
   - data-gov
   - DOL

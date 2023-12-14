@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - challenges
-  - code
+  - software-engineering
   - data
   - monthly-theme
   - api

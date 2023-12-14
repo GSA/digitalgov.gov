@@ -6,7 +6,7 @@ summary: 'This is the fifth in a series describing how the Social Security Admin
 authors:
   - rob-klopp
 topics:
-  - code
+  - software-engineering
   - product-management
   - strategy
   - policy

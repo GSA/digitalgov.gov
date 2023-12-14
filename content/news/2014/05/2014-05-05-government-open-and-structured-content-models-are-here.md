@@ -6,7 +6,7 @@ summary: 'Smartphones, tablets, Twitter, Facebook, Instagram, not to mention you
 authors:
   - structured-and-open-content-models-working-group
 topics:
-  - code
+  - software-engineering
   - communities
   - content
   - product-management

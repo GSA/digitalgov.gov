@@ -18,7 +18,7 @@ end_date: 2020-01-16 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - code
+  - software-engineering
   - design
   - product-management
   - uswds

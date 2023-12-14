@@ -7,10 +7,10 @@ summary: 'Around Q3, I was looking for way to test the HTML and CSS of an online
 authors:
   - angela-smithers
 topics:
-  - code
+  - software-engineering
   - design
   - mobile
-  - code
+  - software-engineering
   - mobile
   - mobile-testing
 

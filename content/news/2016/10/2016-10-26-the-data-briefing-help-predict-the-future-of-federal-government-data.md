@@ -6,7 +6,7 @@ summary: 'In December, I plan to write two postings detailing a scenario analysi
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - content
   - data
   - product-management

@@ -6,11 +6,11 @@ summary: 'Summary: Today we’re launching Code.gov so that our Nation can conti
 authors:
   - tony-scott
 topics:
-  - code
+  - software-engineering
   - product-management
   - strategy
   - policy
-  - code
+  - software-engineering
   - Office of Management and Budget
   - OMB
   - open

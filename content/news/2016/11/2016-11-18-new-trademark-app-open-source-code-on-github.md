@@ -6,12 +6,12 @@ summary: 'Improving the way the government delivers information technology (IT) 
 authors:
   - david-chiles
 topics:
-  - code
+  - software-engineering
   - data
   - product-management
   - mobile
   - api
-  - code
+  - software-engineering
   - Commerce
   - data
   - department-of-commerce

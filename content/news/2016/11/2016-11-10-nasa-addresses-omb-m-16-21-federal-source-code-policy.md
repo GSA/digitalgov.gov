@@ -8,12 +8,12 @@ authors:
   - jason-duley
 
 topics:
-  - code
+  - software-engineering
   - product-management
   - software-engineering
   - strategy
   - policy
-  - code
+  - software-engineering
 
 ---
 

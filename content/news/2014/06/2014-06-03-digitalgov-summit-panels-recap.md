@@ -7,7 +7,7 @@ authors:
   - darlene-gamble
 topics:
   - challenges
-  - code
+  - software-engineering
   - content
   - product-management
   - metrics

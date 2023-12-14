@@ -31,7 +31,7 @@ authors:
 topics:
   - open-source
   - software-engineering
-  - code
+  - software-engineering
   - data
   - api
 

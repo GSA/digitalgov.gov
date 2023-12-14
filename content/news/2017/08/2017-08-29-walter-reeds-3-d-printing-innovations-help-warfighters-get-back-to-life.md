@@ -9,7 +9,7 @@ featured_image:
 authors:
   - yolanda-arrington
 topics:
-  - code
+  - software-engineering
   - design
   - user-testing-and-research
   - 3d-printing

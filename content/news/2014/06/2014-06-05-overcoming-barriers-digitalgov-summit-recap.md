@@ -7,7 +7,7 @@ authors:
   - allison-alexander
 topics:
   - challenges
-  - code
+  - software-engineering
   - content
   - product-management
   - metrics

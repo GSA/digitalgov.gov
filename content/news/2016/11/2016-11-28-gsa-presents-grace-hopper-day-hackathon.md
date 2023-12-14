@@ -7,7 +7,7 @@ authors:
   - sara-cope
 topics:
   - api
-  - code
+  - software-engineering
   - data
   - design
 
@@ -37,7 +37,7 @@ _This event has passed; [read all about it here](https://open.gsa.gov/events/gra
 
 Learn more about the [U.S. General Services Administration](http://www.gsa.gov/) (GSA).
 
-Read recent posts on [data]({{< ref "/topics/code" >}}), [APIs]({{< ref "/topics/api" >}}), and [open source]({{< ref "/topics/open-source" >}}), and news about [challenge and prize competitions]({{< ref "/topics/challenges" >}}) and [crowdsourcing & citizen science]({{< ref "/topics/crowdsourcing-and-citizen-science" >}}) projects.
+Read recent posts on [data]({{< ref "/topics/software-engineering" >}}), [APIs]({{< ref "/topics/api" >}}), and [open source]({{< ref "/topics/open-source" >}}), and news about [challenge and prize competitions]({{< ref "/topics/challenges" >}}) and [crowdsourcing & citizen science]({{< ref "/topics/crowdsourcing-and-citizen-science" >}}) projects.
 
 Learn how [Challenge.gov]({{< ref "service_challengegov.md" >}}) (crowdsourced challenge and prize competitions) and [CitizenScience.gov]({{< ref "2016-04-14-gsa-unveils-new-hub-for-federal-citizen-science-crowdsourcing.md" >}}) (crowdsourcing and citizen science projects) can help your agency meet its goals in serving the public.
 

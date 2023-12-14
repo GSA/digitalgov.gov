@@ -6,7 +6,7 @@ summary: ' OpenNASA has recently completed another redesign of their site. With 
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - data-gov
   - mobile-apps
   - nasa

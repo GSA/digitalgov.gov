@@ -7,7 +7,7 @@ authors:
   - eric-mill
   - gray-brooks
 topics:
-  - code
+  - software-engineering
   - content
   - 18f
   - recaps

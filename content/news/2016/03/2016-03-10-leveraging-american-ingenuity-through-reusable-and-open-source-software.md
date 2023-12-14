@@ -6,7 +6,7 @@ summary: 'Summary: Today, we’re releasing for public comment a draft policy to
 authors:
   - tony-scott
 topics:
-  - code
+  - software-engineering
   - product-management
   - monthly-theme
   - 18f

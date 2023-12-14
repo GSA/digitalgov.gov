@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - challenges
-  - code
+  - software-engineering
   - content
   - crowdsourcing-and-citizen-science
   - data
@@ -19,7 +19,7 @@ topics:
   - policy
   - challenges-and-prize-competitions
   - citizen-science
-  - code
+  - software-engineering
   - data
   - innovation
   - mobile-apps

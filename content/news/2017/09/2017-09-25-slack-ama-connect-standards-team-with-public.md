@@ -14,7 +14,7 @@ featured_image:
   alt: 'a visual representation of code and styling'
 
 topics:
-  - code
+  - software-engineering
   - content
   - mobile
   - accessibility

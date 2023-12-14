@@ -7,12 +7,12 @@ authors:
   - alex-yale-loehr
   - raquel-romano
 topics:
-  - code
+  - software-engineering
   - software-engineering
   - design
   - user-testing-and-research
   - cloud
-  - code
+  - software-engineering
   - GitHub
   - infrastructure
   - open-source

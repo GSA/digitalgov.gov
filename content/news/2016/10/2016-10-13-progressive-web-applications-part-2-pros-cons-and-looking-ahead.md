@@ -6,12 +6,12 @@ summary: 'A few weeks ago, Progressive Web Applications, Part 1: the New Pack Mu
 authors:
   - david-fern
 topics:
-  - code
+  - software-engineering
   - content
   - design
   - mobile
   - user-experience
-  - code
+  - software-engineering
   - innovation
   - mobile
   - mobile-apps

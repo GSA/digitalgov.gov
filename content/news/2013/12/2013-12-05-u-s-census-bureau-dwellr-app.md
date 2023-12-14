@@ -6,7 +6,7 @@ summary: 'The pursuit of happiness for many of us might mean a fresh new start a
 authors:
   - jparcell
 topics:
-  - code
+  - software-engineering
   - mobile
   - api
   - Census

@@ -6,14 +6,14 @@ summary: 'In software development, we use a variety of techniques to help us und
 authors:
   - greg-walker
 topics:
-  - code
+  - software-engineering
   - metrics
   - strategy
   - policy
   - 18f
   - analytics
   - best-practices
-  - code
+  - software-engineering
   - metrics
 ---
 

@@ -6,7 +6,7 @@ summary: 'Standing on the corner, waiting in the rain, I swear I’ll never, eve
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - design
   - monthly-theme
   - the-data-briefing

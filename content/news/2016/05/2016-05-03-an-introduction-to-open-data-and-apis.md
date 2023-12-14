@@ -7,7 +7,7 @@ authors:
   - john-paul
 topics:
   - api
-  - code
+  - software-engineering
   - data
   - 18f
   - analytics-usa-gov
@@ -28,7 +28,7 @@ Treating data as a national resource and strategic asset may seem like an overwh
 
 Thankfully, using modern APIs to share open data has never been easier, even if you are not a programmer or do not have a technical background.
 
-In the DigitalGov University webinar, **An Introduction to Open Data and APIs**, discover just how easy and fast it is to get hands on in integrating APIs into an organization’s open data solution. 18F advocate and GSA Innovation Specialist, Eric Mill, walked users through how to use APIs with the open Web. For the uninitiated, API stands for [application program interface](https://en.wikipedia.org/wiki/Application_programming_interface), “a set of routines, protocols, and tools for building software applications.” More information on APIs can be found in DigitalGov's [Code]({{< ref "/topics/code" >}}) section. According to Mr. Mill, when talking about modern APIs, we are talking about transferring information from JSON to html.
+In the DigitalGov University webinar, **An Introduction to Open Data and APIs**, discover just how easy and fast it is to get hands on in integrating APIs into an organization’s open data solution. 18F advocate and GSA Innovation Specialist, Eric Mill, walked users through how to use APIs with the open Web. For the uninitiated, API stands for [application program interface](https://en.wikipedia.org/wiki/Application_programming_interface), “a set of routines, protocols, and tools for building software applications.” More information on APIs can be found in DigitalGov's [Code]({{< ref "/topics/software-engineering" >}}) section. According to Mr. Mill, when talking about modern APIs, we are talking about transferring information from JSON to html.
 
 ## Use Cases
 

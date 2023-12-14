@@ -7,7 +7,7 @@ authors:
   - nick-marden
   - dmccleskey
 topics:
-  - code
+  - software-engineering
   - data
   - product-management
   - monthly-theme

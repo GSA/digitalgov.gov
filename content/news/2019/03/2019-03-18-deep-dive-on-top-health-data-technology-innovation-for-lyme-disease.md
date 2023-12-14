@@ -9,7 +9,7 @@ authors:
   - gil-alterovitz
   - ed-simcox
 topics:
-  - code
+  - software-engineering
   - hhs
   - innovation
   - mobile-apps

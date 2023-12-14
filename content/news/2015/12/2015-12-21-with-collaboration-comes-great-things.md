@@ -6,7 +6,7 @@ summary: 'We are pleased to announce the beginnings of a new Syndication.Net/Sha
 authors:
   - christen-geiler
 topics:
-  - code
+  - software-engineering
   - content-syndication
   - HHS
   - national-institutes-of-health

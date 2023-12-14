@@ -6,13 +6,12 @@ summary: 'A mule is the hybrid offspring of a male donkey and a horse. This new 
 authors:
   - david-fern
 topics:
-  - code
+  - software-engineering
   - content
   - design
   - product-management
   - mobile
   - user-experience
-  - code
   - innovation
   - mobile
   - mobile-apps

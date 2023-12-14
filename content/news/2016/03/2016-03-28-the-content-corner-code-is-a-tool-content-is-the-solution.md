@@ -6,11 +6,11 @@ summary: It seems of late that the focus on coding and technology within the fed
 authors:
   - tyrus-manuel
 topics:
-  - code
+  - software-engineering
   - content
   - monthly-theme
   - administrative-office-of-the-united-states-courts
-  - code
+  - software-engineering
   - content-strategy
   - content-syndication
   - the-content-corner

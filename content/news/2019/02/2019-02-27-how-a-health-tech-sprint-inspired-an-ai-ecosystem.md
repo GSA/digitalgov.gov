@@ -9,7 +9,7 @@ authors:
   - davar-ardalan
   - kristen-honey
 topics:
-  - code
+  - software-engineering
   - pif
   - hhs
   - mobile

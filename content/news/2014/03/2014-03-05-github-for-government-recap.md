@@ -6,7 +6,7 @@ summary: 'As the definition of &ldquo;developer&rdquo; has grown and expanded, G
 authors:
   - andreanocesigritz
 topics:
-  - code
+  - software-engineering
   - data
   - CFPB
   - GitHub

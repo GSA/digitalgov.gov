@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - social-media
-  - code
+  - software-engineering
   - multilingual
   - search-engine-optimization
   - seo

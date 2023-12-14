@@ -6,13 +6,12 @@ summary: 'Summary: Today, we’re releasing the Federal Source Code policy to su
 authors:
   - tony-scott
 topics:
-  - code
+  - software-engineering
   - data
   - governance
   - product-management
   - strategy
   - policy
-  - code
   - innovation
   - Office of Management and Budget
   - OMB

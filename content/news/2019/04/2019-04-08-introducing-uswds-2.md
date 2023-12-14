@@ -8,7 +8,7 @@ authors:
   - dan-williams
   - maya-benari
 topics:
-  - code
+  - software-engineering
   - design
   - product-management
   - mobile

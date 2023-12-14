@@ -18,7 +18,7 @@ end_date: 2017-12-12 11:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - code
+  - software-engineering
   - design
   - uswds
   - open-source

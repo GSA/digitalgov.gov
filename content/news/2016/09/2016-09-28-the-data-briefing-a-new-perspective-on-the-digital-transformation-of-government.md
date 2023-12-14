@@ -6,7 +6,7 @@ summary: One day, at an unnamed agency, the Outlook server crashed. The server s
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - data
   - product-management
   - strategy
@@ -14,7 +14,6 @@ topics:
   - agile
   - architecture
   - cloud
-  - code
   - data
   - innovation
   - the-data-briefing

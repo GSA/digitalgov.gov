@@ -6,7 +6,7 @@ summary: Looking to jumpstart your mobile website development? Check out the Web
 authors:
   - jparcell
 topics:
-  - code
+  - software-engineering
   - mobile
   - innovation
   - mobile-gov

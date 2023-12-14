@@ -33,7 +33,7 @@ authors:
 topics:
   - data
   - api
-  - code
+  - software-engineering
   - open-source
   - open-data
 

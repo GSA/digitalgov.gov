@@ -6,7 +6,7 @@ summary: Americans are rocking open data! From getting people to the emergency r
 authors:
   - sally-bourrie
 topics:
-  - code
+  - software-engineering
   - data
   - data-gov
   - GitHub

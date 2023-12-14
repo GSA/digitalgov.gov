@@ -7,7 +7,7 @@ authors:
   - gwynne-kostin
 topics:
   - api
-  - code
+  - software-engineering
   - content
   - metrics
   - our-work

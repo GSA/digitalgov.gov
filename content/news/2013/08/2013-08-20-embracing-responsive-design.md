@@ -6,7 +6,7 @@ summary: See how a shift in consumer behavior during the last few years lead to 
 authors:
   - lgodfrey
 topics:
-  - code
+  - software-engineering
   - content
   - design
   - mobile

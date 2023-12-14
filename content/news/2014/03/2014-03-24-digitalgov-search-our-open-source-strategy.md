@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - api
-  - code
+  - software-engineering
   - content
   - data
   - our-work

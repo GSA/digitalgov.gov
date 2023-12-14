@@ -6,7 +6,7 @@ summary: 'One year ago this week, we launched vote.gov (also known as vote.usa.g
 authors:
   - yoz-grahame
 topics:
-  - code
+  - software-engineering
   - content
   - design
   - user-testing-and-research

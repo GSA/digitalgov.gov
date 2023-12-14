@@ -6,13 +6,13 @@ summary: 'In the five months since we launched the Draft U.S. Web Design Standar
 authors:
   - melody-kramer
 topics:
-  - code
+  - software-engineering
   - design
   - product-management
   - strategy
   - policy
   - 18f
-  - code
+  - software-engineering
   - draft-web-design-standards
   - open-source
   - us-digital-service

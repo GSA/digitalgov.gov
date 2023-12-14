@@ -6,7 +6,7 @@ summary: 'We released the United States Public Participation Playbook this week,
 authors:
   - jherman
 topics:
-  - code
+  - software-engineering
   - communities
   - product-management
   - metrics

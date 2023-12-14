@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - challenges
-  - code
+  - software-engineering
   - content
   - product-management
   - metrics

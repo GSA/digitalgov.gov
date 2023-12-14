@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - api
-  - code
+  - software-engineering
   - monthly-theme
   - api
   - application-programming-interface

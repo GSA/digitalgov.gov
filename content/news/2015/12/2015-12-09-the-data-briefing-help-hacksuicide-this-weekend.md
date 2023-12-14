@@ -6,7 +6,7 @@ summary: 'A month ago, I wrote about the White House’s call for data scientist
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - data
   - api
   - data-visualization

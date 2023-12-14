@@ -4,7 +4,7 @@ date: 2014-02-28 9:52:16 -0400
 title: 'Mobile Code Sharing Catalog Snippet: BioZen'
 summary: Interested in building an app that incorporates biofeedback data from multiple wearable body sensors? Check out BioZen, available on the Mobile Code Sharing Catalog, one of the first mobile applications to provide users with live biofeedback
 topics:
-  - code
+  - software-engineering
   - mobile
   - DoD
   - united-states-department-of-defense

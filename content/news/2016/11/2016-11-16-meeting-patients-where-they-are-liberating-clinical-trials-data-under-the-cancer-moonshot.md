@@ -8,12 +8,12 @@ authors:
   - michael-balint
 topics:
   - api
-  - code
+  - software-engineering
   - content
   - data
   - user-experience
   - api
-  - code
+  - software-engineering
   - content
   - data
   - innovation

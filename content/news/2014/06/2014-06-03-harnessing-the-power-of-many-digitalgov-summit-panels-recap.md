@@ -7,7 +7,7 @@ authors:
   - alison-lemon
 topics:
   - challenges
-  - code
+  - software-engineering
   - content
   - product-management
   - metrics

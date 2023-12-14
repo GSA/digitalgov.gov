@@ -7,7 +7,7 @@ authors:
   - will-slack
   - jonathan-hooper
 topics:
-  - code
+  - software-engineering
   - design
   - product-management
   - 18f

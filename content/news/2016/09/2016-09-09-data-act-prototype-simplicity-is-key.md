@@ -7,7 +7,7 @@ authors:
   - cm-lubinski
   - becky-sweger
 topics:
-  - code
+  - software-engineering
   - data
   - governance
   - product-management

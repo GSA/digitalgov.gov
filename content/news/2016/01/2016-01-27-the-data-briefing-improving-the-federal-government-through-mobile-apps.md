@@ -8,7 +8,7 @@ authors:
   - bbrantley
 
 topics:
-  - code
+  - software-engineering
   - mobile-apps
   - nasa
   - the-data-briefing

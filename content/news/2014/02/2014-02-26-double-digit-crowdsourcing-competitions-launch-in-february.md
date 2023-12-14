@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - code
+  - software-engineering
   - crowdsourcing-and-citizen-science
   - crowdsourcing
   - department-of-commerce

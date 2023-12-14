@@ -6,7 +6,7 @@ summary: 'This spring, the eRegulations Notice & Comment team began building out
 authors:
   - wsullivan
 topics:
-  - code
+  - software-engineering
   - content
   - product-management
   - strategy

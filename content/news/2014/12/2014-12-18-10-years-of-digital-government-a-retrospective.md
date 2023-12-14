@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - challenges
-  - code
+  - software-engineering
   - content
   - product-management
   - mobile

@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - code
+  - software-engineering
   - challenge-gov
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
