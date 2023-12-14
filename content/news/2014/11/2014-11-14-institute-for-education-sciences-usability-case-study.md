@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - plain-language
   - us-department-of-education
-  - usability-case-study
+  - usability
   - user-experience
   
 ---

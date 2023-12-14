@@ -14,7 +14,7 @@ topics:
   - customer-satisfaction
   - GobiernoUSAgov
   - responsive-web-design
-  - usability-case-study
+  - usability
   - usagov
 ---
 

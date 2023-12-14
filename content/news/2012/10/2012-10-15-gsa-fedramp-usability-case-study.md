@@ -10,7 +10,7 @@ topics:
   - digitalgov-user-experience-program
   - gsa
   - usability
-  - usability-case-study
+  - usability
   - user-experience
 ---
 

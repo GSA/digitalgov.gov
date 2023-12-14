@@ -27,7 +27,7 @@ topics:
   - design
   - usability
   - communication
-  - usability-case-study
+  - usability
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom

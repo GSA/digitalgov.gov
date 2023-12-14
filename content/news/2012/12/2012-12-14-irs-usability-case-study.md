@@ -10,7 +10,7 @@ topics:
   - digitalgov-user-experience-program
   - Internal Revenue Service
   - IRS
-  - usability-case-study
+  - usability
   - usability-testing
   - user-experience
 ---

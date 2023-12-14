@@ -16,7 +16,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - NREL
   - usability
-  - usability-case-study
+  - usability
   - usability starter kit
   - usability-testing
   - user-experience

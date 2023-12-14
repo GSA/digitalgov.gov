@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - National Library of Medicine
   - NLM
-  - usability-case-study
+  - usability
   - usability-testing
   - user-experience
   

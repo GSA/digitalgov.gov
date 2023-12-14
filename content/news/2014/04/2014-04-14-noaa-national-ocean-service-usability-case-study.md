@@ -13,7 +13,7 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - usability
-  - usability-case-study
+  - usability
   - usability-testing
 ---
 

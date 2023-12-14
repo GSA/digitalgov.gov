@@ -11,7 +11,7 @@ topics:
   - united-states-army
   - united-states-department-of-defense
   - usability
-  - usability-case-study
+  - usability
   - usability-testing
   - user-experience
 ---

@@ -11,7 +11,7 @@ topics:
   - multilingual
   - personas
   - usability
-  - usability-case-study
+  - usability
 
 ---
 

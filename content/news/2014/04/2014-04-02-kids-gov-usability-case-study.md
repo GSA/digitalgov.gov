@@ -8,7 +8,7 @@ authors:
 topics:
   - usability
   - prototype
-  - usability-case-study
+  - usability
   - user-experience
 ---
 

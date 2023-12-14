@@ -16,7 +16,7 @@ end_date: 2021-07-28 15:00:00 -0500
 topics:
   - digital-analytics-program
   - analytics
-  - usability-case-study
+  - usability
   - metrics
   - strategy
   - user-experience

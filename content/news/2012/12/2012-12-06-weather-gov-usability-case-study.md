@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
   - NOAA
-  - usability-case-study
+  - usability
   - usability-testing
   - user-experience
 ---
