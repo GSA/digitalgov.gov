@@ -16,7 +16,6 @@ topics:
   - IT Schedule 70
   - PBS
   - Public Buildings Service
-  - us-general-services-administration
 ---
 
 During National Customer Service Week, it&#8217;s a great time for organizations across industry and government to celebrate putting customers at the center of our work and to think about what we can do to improve our customers’ end-to-end experiences. When you think this big, it can be a little daunting, but the good news is that we&#8217;re doing a lot, and a simple shift in mindset can get us much further.

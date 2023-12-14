@@ -10,7 +10,6 @@ topics:
   - fda
   - mobile
   - thursday-mobile-products
-  - us-food-and-drug-administration
  
 ---
 

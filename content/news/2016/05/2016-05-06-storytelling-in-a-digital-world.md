@@ -10,7 +10,6 @@ topics:
   - video
   - content-strategy
   - epa
-  - us-environmental-protection-agency
 ---
 
 The art of storytelling has been around since the dawn of mankind. [Storytelling remains relevant today]({{< ref "2015-06-29-the-content-corner-telling-your-story.md" >}}), and a recent effort by the Environmental Protection Agency (EPA) shows how agencies can use storytelling to showcase great projects while also teaching employees new communication strategies. {{< legacy-img src="2016/04/600-x-350-Newspaper-Rock-State-Historic-Park-Utah-johnaudrey-iStock-Thinkstock-145244872.jpg" alt=" width=" >}} 

@@ -13,7 +13,6 @@ topics:
   - accessibility
   - SBA
   - section-508
-  - us-small-business-administration
   - usability
   - user-experience
   

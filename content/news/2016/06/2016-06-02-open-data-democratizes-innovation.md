@@ -34,9 +34,6 @@ topics:
   - SBA
   - us-agency-for-international-development
   - US Department of Agriculture
-  - us-environmental-protection-agency
-  - us-general-services-administration
-  - us-small-business-administration
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

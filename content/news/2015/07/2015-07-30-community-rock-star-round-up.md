@@ -23,7 +23,6 @@ topics:
   - SSA
   - trends-on-tuesday
   - us-department-of-state
-  - us-food-and-drug-administration
   - united-states-census-bureau
   - user-experience
 

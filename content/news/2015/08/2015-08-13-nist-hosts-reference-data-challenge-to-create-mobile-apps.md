@@ -18,7 +18,6 @@ topics:
   - NIST
   - open-data
   - thursday-mobile-products
-  - us-environmental-protection-agency
   - united-states-census-bureau
 ---
 

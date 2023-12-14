@@ -9,7 +9,6 @@ topics:
   - data
   - fda
   - the-data-briefing
-  - us-food-and-drug-administration
   - United States Patent and Trademark Office
 ---
 

@@ -23,8 +23,6 @@ topics:
   - innovation
   - nasa
   - open-data
-  - us-environmental-protection-agency
-  - us-government-accountability-office
   - united-states-department-of-transportation
 ---
 

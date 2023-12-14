@@ -18,8 +18,6 @@ topics:
   - federal-register
   - OSTP
   - US Department of Agriculture
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

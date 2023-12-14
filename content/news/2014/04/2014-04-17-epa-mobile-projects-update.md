@@ -12,7 +12,6 @@ topics:
   - epa
   - mobile-apps
   - thursday-mobile-products
-  - us-environmental-protection-agency
  
 ---
 

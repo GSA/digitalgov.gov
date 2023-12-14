@@ -16,8 +16,6 @@ topics:
   - NPS
   - OSTP
   - us-department-of-education
-  - us-environmental-protection-agency
-  - us-national-park-service
   - united-states-geological-survey
   - white-house
   - white-house-office-of-science-and-technology-policy

@@ -13,7 +13,6 @@ topics:
   - us-bureau-of-labor-statistics
   - US Department of Agriculture
   - us-department-of-the-treasury
-  - us-securities-and-exchange-commission
   - united-states-census-bureau
   - wednesday-api-briefing
 ---

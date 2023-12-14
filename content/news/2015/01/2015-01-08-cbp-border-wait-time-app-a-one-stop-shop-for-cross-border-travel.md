@@ -12,7 +12,6 @@ topics:
   - ICE
   - thursday-mobile-products
   - US Customs and Border Protection
-  - us-immigration-and-customs-enforcement
   - united-states-department-of-homeland-security
 ---
 

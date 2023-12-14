@@ -27,9 +27,6 @@ topics:
   - GAO
   - SBA
   - us-department-of-labor
-  - us-environmental-protection-agency
-  - us-government-accountability-office
-  - us-small-business-administration
 
 ---
 

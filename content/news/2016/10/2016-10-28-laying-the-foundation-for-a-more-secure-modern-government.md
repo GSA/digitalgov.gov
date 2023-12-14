@@ -24,7 +24,6 @@ topics:
   - OMB
   - privacy
   - security
-  - us-general-services-administration
   - united-states-department-of-homeland-security
   - white-house
 ---

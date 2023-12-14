@@ -10,7 +10,6 @@ topics:
   - social-media
   - GAO
   - open-source
-  - us-government-accountability-office
 
 ---
 

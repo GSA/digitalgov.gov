@@ -42,16 +42,11 @@ topics:
   - us-department-of-education
   - us-department-of-labor
   - us-department-of-state
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - us-national-park-service
-  - us-small-business-administration
   - united-states-army
   - united-states-census-bureau
   - united-states-department-of-homeland-security
   - united-states-department-of-transportation
   - united-states-geological-survey
-  - us-fish-and-wildlife-service
   - white-house-office-of-science-and-technology-policy
 
 ---

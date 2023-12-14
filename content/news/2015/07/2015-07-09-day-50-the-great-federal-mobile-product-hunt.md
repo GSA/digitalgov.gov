@@ -16,7 +16,6 @@ topics:
   - thursday-mobile-products
   - us-coast-guard
   - us-department-of-veterans-affairs
-  - us-small-business-administration
  
 ---
 

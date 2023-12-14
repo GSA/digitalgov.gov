@@ -24,8 +24,6 @@ topics:
   - NPS
   - nsf
   - OSTP
-  - us-environmental-protection-agency
-  - us-national-park-service
   - white-house-office-of-science-and-technology-policy
 ---
 

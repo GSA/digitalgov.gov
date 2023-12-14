@@ -8,7 +8,6 @@ summary:
 # See all topics at https://digital.gov/topics
 topics:
   - epa
-  - us-environmental-protection-agency
   - citizen-science
   - crowdsourcing
   - crowdsourcing-and-citizen-science

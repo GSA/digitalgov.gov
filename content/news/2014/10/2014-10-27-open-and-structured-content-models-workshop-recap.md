@@ -20,7 +20,6 @@ topics:
   - open-and-structured-content-models
   - recaps
   - SEC
-  - us-securities-and-exchange-commission
   - united-states-department-of-health-and-human-services
 ---
 

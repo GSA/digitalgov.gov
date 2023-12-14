@@ -29,7 +29,6 @@ topics:
   - socialgov-community
   - us-department-of-education
   - us-department-of-the-interior
-  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 

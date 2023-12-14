@@ -21,8 +21,6 @@ topics:
   - NCI
   - recaps
   - us-department-of-labor
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
   - united-states-census-bureau
 
 ---

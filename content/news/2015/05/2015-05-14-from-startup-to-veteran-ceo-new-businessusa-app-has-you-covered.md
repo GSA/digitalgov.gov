@@ -11,7 +11,6 @@ topics:
   - mobile-apps
   - SBA
   - thursday-mobile-products
-  - us-small-business-administration
  
 ---
 

@@ -16,7 +16,6 @@ topics:
   - fda
   - GitHub
   - json
-  - us-food-and-drug-administration
   - usability
   - user-centered-design
   - user-experience

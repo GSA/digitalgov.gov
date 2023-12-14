@@ -19,7 +19,6 @@ topics:
   - open-government
   - OSTP
   - us-department-of-justice
-  - us-environmental-protection-agency
   - white-house-office-of-science-and-technology-policy
 ---
 

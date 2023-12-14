@@ -11,7 +11,6 @@ topics:
   - FWS
   - nasa
   - us-department-of-the-interior
-  - us-fish-and-wildlife-service
   - white-house
 ---
 

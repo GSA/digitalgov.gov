@@ -13,7 +13,6 @@ topics:
   - user-experience
   - digitalgov-user-experience-program
   - epa
-  - us-environmental-protection-agency
   - usability
 ---
 

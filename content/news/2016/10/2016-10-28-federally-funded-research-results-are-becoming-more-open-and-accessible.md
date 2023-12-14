@@ -31,7 +31,6 @@ topics:
   - US Department of Agriculture
   - us-department-of-education
   - us-department-of-veterans-affairs
-  - us-environmental-protection-agency
   - united-states-department-of-defense
   - united-states-department-of-energy
   - united-states-department-of-transportation

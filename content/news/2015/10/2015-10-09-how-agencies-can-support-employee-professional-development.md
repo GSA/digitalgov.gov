@@ -13,7 +13,6 @@ topics:
   - transportation-security-administration
   - TSA
   - US Department of Agriculture
-  - us-environmental-protection-agency
   - united-states-department-of-transportation
 
 ---

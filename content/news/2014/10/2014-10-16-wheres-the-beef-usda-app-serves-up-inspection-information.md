@@ -11,7 +11,6 @@ topics:
   - mobile-apps
   - thursday-mobile-products
   - US Department of Agriculture
-  - us-immigration-and-customs-enforcement
 ---
 
 {{< legacy-img src="2014/10/250-x-444-FSIS\_InspectionHomeScreen.jpg" alt="250-x-444-FSIS\_InspectionHomeScreen" >}}Want to know where the food you’re eating was produced? Here’s a handy trick before you head out to the grocery store: Download the [Meat, Poultry & Egg Product Inspection Directory (MPI Directory) app](http://www.fsis.usda.gov/wps/portal/fsis/topics/inspection/mpi-directory) produced by the [U.S. Department of Agriculture (USDA)’s Food Safety and Inspection Service](http://www.fsis.usda.gov).

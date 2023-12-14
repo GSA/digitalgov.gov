@@ -11,7 +11,6 @@ topics:
   - social-media
   - social-media
   - US Citizenship and Immigration Service
-  - us-immigration-and-customs-enforcement
 ---
 
 Twitter has come a long way.  In ten years of evolution, we’ve seen Twitter go from a simple text messaging service to a versatile platform, which in the words of Twitter, provides a “rich canvas for creative expression featuring photos, videos, hashtags, Vines, and more.”

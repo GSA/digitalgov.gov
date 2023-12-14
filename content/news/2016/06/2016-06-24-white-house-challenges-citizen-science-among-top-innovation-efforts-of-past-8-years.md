@@ -17,7 +17,6 @@ topics:
   - crowdsourcing
   - gsa
   - innovation
-  - us-general-services-administration
   - white-house
 ---
 

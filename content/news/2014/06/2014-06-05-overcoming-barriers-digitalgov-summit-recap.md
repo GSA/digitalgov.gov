@@ -21,7 +21,6 @@ topics:
   - recaps
   - SBA
   - us-department-of-labor
-  - us-small-business-administration
   - white-house-office-of-science-and-technology-policy
 ---
 

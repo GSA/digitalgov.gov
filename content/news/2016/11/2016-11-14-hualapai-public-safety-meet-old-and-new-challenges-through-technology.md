@@ -22,7 +22,6 @@ topics:
   - firstnet
   - mobile
   - tribal-government
-  - us-national-park-service
   - nps
   - user-research
   - video

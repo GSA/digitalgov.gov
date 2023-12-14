@@ -13,7 +13,6 @@ topics:
   - Consumer Financial Protection Bureau
   - fda
   - OPM
-  - us-food-and-drug-administration
   - united-states-office-of-personnel-management
 ---
 

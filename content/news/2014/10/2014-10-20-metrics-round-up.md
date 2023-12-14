@@ -15,9 +15,6 @@ topics:
   - NPS
   - open-data
   - social-media-metrics
-  - us-environmental-protection-agency
-  - us-government-accountability-office
-  - us-national-park-service
 ---
 
 {{< legacy-img src="2014/10/600-x-410-Tablet-PC-with-business-documents-Violka08-iStock-Thinkstock-463116981.jpg" alt="Tablet PC with business documents" caption="" >}} 
