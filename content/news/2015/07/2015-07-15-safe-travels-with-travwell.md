@@ -9,7 +9,7 @@ authors:
 topics:
   - mobile
   - cdc
-  - ios
+  - software-engineering
   - mobile-apps
   - thursday-mobile-products
  

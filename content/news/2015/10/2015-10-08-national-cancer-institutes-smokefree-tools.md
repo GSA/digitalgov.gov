@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - ios
+  - software-engineering
   - native-apps
   - responsive-web-design
   - thursday-mobile-products

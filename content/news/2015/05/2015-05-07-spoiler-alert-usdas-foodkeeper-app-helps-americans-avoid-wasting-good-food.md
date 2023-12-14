@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - ios
+  - software-engineering
   - mobile-apps
   - native-app
   - thursday-mobile-products

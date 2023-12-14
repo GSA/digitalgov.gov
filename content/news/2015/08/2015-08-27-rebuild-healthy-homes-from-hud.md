@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - HUD
-  - ios
+  - software-engineering
   - mobile-apps
   - native-app
   - thursday-mobile-products

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - 18f
-  - ios
+  - software-engineering
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5
   - native-app

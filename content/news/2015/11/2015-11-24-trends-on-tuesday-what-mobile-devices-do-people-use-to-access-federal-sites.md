@@ -11,7 +11,7 @@ topics:
   - analytics
   - dap
   - digital-analytics-program
-  - ios
+  - software-engineering
   - trends-on-tuesday
 ---
 

@@ -6,7 +6,7 @@ summary: The Apple iTunes App store is the only marketplace for downloading apps
 topics:
   - mobile
   - social-media
-  - ios
+  - software-engineering
   - mobile
   - terms-of-service
   - tos

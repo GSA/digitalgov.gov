@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - fda
-  - ios
+  - software-engineering
   - mobile-apps
   - native-apps
   - thursday-mobile-products
