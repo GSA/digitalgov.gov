@@ -10,7 +10,7 @@ topics:
   - social-media
   - GAO
   - infographic
-  - socialgov
+  - social-media
   - socialgov-community
 ---
 

@@ -11,7 +11,7 @@ topics:
   - digitalgov-user-experience-program
   - recaps
   - social-media
-  - socialgov
+  - social-media
 
 ---
 

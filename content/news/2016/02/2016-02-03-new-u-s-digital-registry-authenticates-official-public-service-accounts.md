@@ -12,7 +12,7 @@ topics:
   - api
   - mobile-gov
   - open-source
-  - socialgov
+  - social-media
   - terms-of-service
   - us-digital-registry
 ---

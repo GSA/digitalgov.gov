@@ -13,7 +13,7 @@ topics:
   - accessibility
   - SBA
   - social-media
-  - socialgov
+  - social-media
   - socialgov-community
   - usaid
   - white-house

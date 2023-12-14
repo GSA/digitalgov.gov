@@ -12,7 +12,7 @@ topics:
   - aoi
   - api
   - national-archives-and-records-administration
-  - socialgov
+  - social-media
   - socialgov-community
   - us-coast-guard
 ---

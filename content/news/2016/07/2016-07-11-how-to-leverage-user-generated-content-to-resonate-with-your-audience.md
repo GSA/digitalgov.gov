@@ -22,7 +22,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - social-media
-  - socialgov
+  - social-media
   - the-content-corner
   - user-generated-content
 

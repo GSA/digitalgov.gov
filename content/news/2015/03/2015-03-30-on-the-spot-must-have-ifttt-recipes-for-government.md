@@ -13,7 +13,7 @@ topics:
   - api
   - digital-analytics-program
   - social-media
-  - socialgov
+  - social-media
 ---
 
 {{< legacy-img src="2015/02/600-x-274-IFTTT-recipe-for-Send-a-SMS-at-a-certain-time-every-day.jpg" alt="IFTTT recipe for send a SMS at a certain time every day" >}}

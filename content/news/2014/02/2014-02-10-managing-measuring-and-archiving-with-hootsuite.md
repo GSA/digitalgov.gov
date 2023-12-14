@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - socialgov
+  - social-media
 
 ---
 

@@ -9,7 +9,7 @@ topics:
   - product-management
   - social-media
   - recaps
-  - socialgov
+  - social-media
 
 ---
 

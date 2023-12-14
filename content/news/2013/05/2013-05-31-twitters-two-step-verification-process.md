@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - security
-  - socialgov
+  - social-media
 ---
 
 To enhance security, Twitter now offers <a href="https://blog.twitter.com/2013/getting-started-login-verification" target="_blank">two-step verification</a>. The release of the new feature follows several high-profile account breaches – including a <a href="http://bigstory.ap.org/article/hackers-compromise-ap-twitter-account" target="_blank">false tweet sent from the Associated Press’s Twitter account</a> in April. {{< legacy-img src="2016/02/600-x-400-Blue-bird-concrete-background-simonox-iStock-Thinkstock-176775917.jpg" alt="Blue bird graphic on a blue concrete background" caption="" >}} 

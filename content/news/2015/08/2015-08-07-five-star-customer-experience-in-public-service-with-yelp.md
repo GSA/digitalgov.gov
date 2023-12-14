@@ -9,7 +9,7 @@ topics:
   - social-media
   - api
   - DOT
-  - socialgov
+  - social-media
   - terms-of-service
   - tos
   - united-states-department-of-transportation

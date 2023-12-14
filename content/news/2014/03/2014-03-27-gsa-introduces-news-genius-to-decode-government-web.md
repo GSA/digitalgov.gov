@@ -10,7 +10,7 @@ topics:
   - api
   - internet-of-things
   - mobile-gov
-  - socialgov
+  - social-media
   - us-small-business-administration
 
 primary_image: "gsa-mentor-protege-on-mobile-phone-comp"

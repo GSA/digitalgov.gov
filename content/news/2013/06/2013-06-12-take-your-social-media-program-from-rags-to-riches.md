@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - social-media
-  - socialgov
+  - social-media
 ---
 
 Are you a small or even one-deep government social media team who wonders how with limited resources you can still deliver the program citizens need? Do you have a larger team but still want to know how you can roll up your sleeves and make a change?

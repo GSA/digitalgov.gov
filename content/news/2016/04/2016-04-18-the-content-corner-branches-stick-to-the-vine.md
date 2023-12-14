@@ -13,7 +13,7 @@ topics:
   - National Weather Service
   - NWS
   - social-media
-  - socialgov
+  - social-media
   - the-content-corner
   - us-digital-service
   - united-states-department-of-energy

@@ -14,7 +14,7 @@ topics:
   - budgeting-and-performance
   - mobile-gov
   - open-opportunities-program
-  - socialgov
+  - social-media
   - user-experience
   - web-content-managers-forum
 

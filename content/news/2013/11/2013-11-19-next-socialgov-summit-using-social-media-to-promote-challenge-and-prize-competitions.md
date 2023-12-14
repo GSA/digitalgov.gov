@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - challenge-gov
-  - socialgov
+  - social-media
 ---
 
 <p>

@@ -14,7 +14,7 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - social-media
-  - socialgov
+  - social-media
   - transportation-security-administration
   - TSA
   - united-states-geological-survey

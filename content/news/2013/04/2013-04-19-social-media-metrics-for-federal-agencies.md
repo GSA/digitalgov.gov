@@ -8,7 +8,7 @@ authors:
 topics:
   - metrics
   - social-media
-  - socialgov
+  - social-media
 aliases:
   - /resources/federal-social-media-analytics-toolkit-hackpad/
 

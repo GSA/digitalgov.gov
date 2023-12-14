@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - social-media
-  - socialgov
+  - social-media
 
 ---
 
