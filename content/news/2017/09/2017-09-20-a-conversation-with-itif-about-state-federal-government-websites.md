@@ -27,7 +27,7 @@ topics:
   - training
   - usability
   - user-experience
-  - user-research
+  - research
 
 primary_image: "itif-presentation-title-slide"
 

@@ -68,7 +68,7 @@ topics:
       * Restrict the number of questions to seven.
       * Survey everyone; not just the happy or unhappy customers
   * Conduct focus groups to gauge opinions.
-  * Implement [usability testing]({{< ref "/topics/user-research" >}}) to determine what is and isn&#8217;t working.
+  * Implement [usability testing]({{< ref "/topics/research" >}}) to determine what is and isn&#8217;t working.
   * Conduct interviews, workshops.
 
 ## 8. Stay Current with the Latest Research and Best Practices

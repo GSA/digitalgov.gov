@@ -10,7 +10,7 @@ authors:
 topics:
   - content-strategy
   - design
-  - user-research
+  - research
   - analytics
   - customer-experience
 

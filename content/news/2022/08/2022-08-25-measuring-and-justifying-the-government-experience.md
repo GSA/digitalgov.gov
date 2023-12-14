@@ -31,7 +31,7 @@ topics:
   - accessibility
   - analytics
   - research
-  - user-research
+  - research
   - open-government
   - design
 slug: measuring-and-justifying-the-government-experience

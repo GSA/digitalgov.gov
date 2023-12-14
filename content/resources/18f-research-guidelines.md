@@ -19,7 +19,7 @@ source: 18f
 topics:
   - 18f
   - research
-  - user-research
+  - research
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

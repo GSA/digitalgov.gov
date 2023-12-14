@@ -19,7 +19,7 @@ source: digitalgov
 topics:
   - research
   - usability
-  - user-research
+  - research
 
 # see all authors at https://digital.gov/authors
 authors:

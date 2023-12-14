@@ -25,7 +25,7 @@ topics:
   - product-management
   - project-management
   - user-experience
-  - user-research
+  - research
   - usability-testing
 
 # see all authors at https://digital.gov/authors

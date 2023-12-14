@@ -7,7 +7,7 @@ summary: Two Presidential Innovation Fellows share how we can build digital
 # See all topics at https://digital.gov/topics
 topics:
   - product-management
-  - user-research
+  - research
   - presidential-innovation-fellows
   - communication
 

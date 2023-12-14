@@ -9,7 +9,7 @@ topics:
   - architecture
   - user-experience
   - open-source
-  - user-research
+  - research
   - design
   - recaps
 # See all authors at https://digital.gov/authors

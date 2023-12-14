@@ -14,7 +14,7 @@ topics:
   - research
   - usability
   - user-experience
-  - user-research
+  - research
   - user-testing-and-research
   - usability-testing
 # See all authors at https://digital.gov/authors

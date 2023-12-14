@@ -14,7 +14,7 @@ summary: In this blog post, we break down our process for redesigning a federal
 topics:
   - user-experience
   - usability-testing
-  - user-research
+  - research
   - user-centered-design
   - design
   - accessibility

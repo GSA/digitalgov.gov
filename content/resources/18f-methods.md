@@ -17,7 +17,7 @@ topics:
   - research
   - user-experience
   - usability
-  - user-research
+  - research
   - methodology
   - usability-testing
 

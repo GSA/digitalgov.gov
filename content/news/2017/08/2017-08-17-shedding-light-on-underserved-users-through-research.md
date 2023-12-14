@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - personas
   - user-experience
-  - user research
+  - research
 ---
 
 _How user interviews helped spotlight the needs of a previously forgotten group._

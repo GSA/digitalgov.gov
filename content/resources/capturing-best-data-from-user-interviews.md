@@ -23,6 +23,6 @@ source: 18f
 topics:
   - 18f
   - research
-  - user-research
+  - research
 # Make it better ♥
 ---

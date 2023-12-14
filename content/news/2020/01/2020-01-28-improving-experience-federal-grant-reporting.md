@@ -12,7 +12,7 @@ topics:
   - open-data
   - content-strategy
   - 10x
-  - user-research
+  - research
 
 # see all authors at https://digital.gov/authors
 authors:

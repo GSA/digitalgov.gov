@@ -19,7 +19,7 @@ topics:
   - usability
   - user-experience
   - communication
-  - user-research
+  - research
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

@@ -22,7 +22,7 @@ topics:
   - product-management
   - contact-centers
   - content-strategy
-  - user-research
+  - research
   - customer-experience
 
 # Page weight: controls how this page appears across the site

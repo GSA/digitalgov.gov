@@ -20,7 +20,7 @@ end_date: 2019-02-27 14:30:00 -0500
 topics: 
   - design
   - research
-  - user-research
+  - research
   - methodology
   - user-experience
 

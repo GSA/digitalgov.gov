@@ -18,7 +18,7 @@ topics:
   - multimedia
   - user-experience
   - user-experience-community-of-practice
-  - user research
+  - research
   - multimedia
 ---
 

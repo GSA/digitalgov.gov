@@ -16,7 +16,7 @@ topics:
   - mobile
   - training
   - uswds
-  - user research
+  - research
   - webinar
 
 ---

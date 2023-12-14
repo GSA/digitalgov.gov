@@ -8,7 +8,7 @@ topics:
   - usability
   - user-experience
   - content-strategy
-  - user-research
+  - research
 # See all authors at https://digital.gov/authors
 authors:
   - holly-chandler

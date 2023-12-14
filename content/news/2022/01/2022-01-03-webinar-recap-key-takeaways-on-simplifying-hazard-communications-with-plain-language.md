@@ -11,7 +11,7 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - national-weather-service
   - plain-language
-  - user-research
+  - research
   - user-experience
   - recaps
 # See all authors at https://digital.gov/authors

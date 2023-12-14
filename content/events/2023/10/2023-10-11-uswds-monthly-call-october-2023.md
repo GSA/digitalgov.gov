@@ -14,7 +14,7 @@ topics:
   - design
   - accessibility
   - customer-experience
-  - user-research
+  - research
   - user-experience
   - content-strategy
   - content-strategy

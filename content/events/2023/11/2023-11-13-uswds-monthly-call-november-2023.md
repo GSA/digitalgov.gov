@@ -15,7 +15,7 @@ end_date: 2023-11-16 15:00:00 -0500
 topics:
   - accessibility
   - diversity-equity-and-inclusion
-  - user-research
+  - research
   - user-experience
   - customer-experience
   - content-strategy

@@ -15,7 +15,7 @@ topics:
   - usagov
   - user-experience
   - user-experience-community-of-practice
-  - user research
+  - research
   
 ---
 

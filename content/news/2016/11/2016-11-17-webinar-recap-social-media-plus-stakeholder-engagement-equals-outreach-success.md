@@ -15,7 +15,7 @@ topics:
   - recaps
   - social-media
   - usagov
-  - user research
+  - research
   - webinar
 ---
 

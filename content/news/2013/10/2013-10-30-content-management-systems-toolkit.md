@@ -339,7 +339,7 @@ If you have a key group of external stakeholders, and you anticipate the migrati
 
 ### Test Design Upgrades with Users
 
-If you’re making any design changes along with your content migration, do [user testing]({{< ref "/topics/user-research" >}}) early-on, to gather feedback and make improvements before launch.
+If you’re making any design changes along with your content migration, do [user testing]({{< ref "/topics/research" >}}) early-on, to gather feedback and make improvements before launch.
 
 ### Plan for Structured Content
 

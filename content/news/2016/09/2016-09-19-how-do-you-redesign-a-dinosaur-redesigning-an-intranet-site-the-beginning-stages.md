@@ -25,7 +25,7 @@ topics:
   - usability
   - usability-testing
   - user-experience
-  - user research
+  - research
 primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"
 
 ---
