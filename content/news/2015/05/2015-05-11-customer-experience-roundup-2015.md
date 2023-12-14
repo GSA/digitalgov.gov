@@ -12,7 +12,7 @@ topics:
   - diversity-equity-and-inclusion
   - customer-experience
   - customer-experience
-  - personas
+  - research
 
 ---
 

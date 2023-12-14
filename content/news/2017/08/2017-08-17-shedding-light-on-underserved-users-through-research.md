@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - user-testing-and-research
-  - personas
+  - research
   - user-experience
   - research
 ---

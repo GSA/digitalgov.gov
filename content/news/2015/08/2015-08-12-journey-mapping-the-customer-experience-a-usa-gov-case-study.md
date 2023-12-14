@@ -11,7 +11,7 @@ topics:
   - analytics
   - customer-experience
   - government-contact-centers
-  - personas
+  - research
   - usa-gov
 ---
 

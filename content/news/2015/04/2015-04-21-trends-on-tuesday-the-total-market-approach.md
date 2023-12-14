@@ -9,7 +9,7 @@ topics:
   - product-management
   - diversity-equity-and-inclusion
   - multilingual
-  - personas
+  - research
   - usability
   - usability-case-study
 

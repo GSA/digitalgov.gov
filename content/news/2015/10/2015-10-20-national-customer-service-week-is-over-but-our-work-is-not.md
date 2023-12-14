@@ -13,7 +13,7 @@ topics:
   - customer-experience
   - customer-experience
   - customer-experience
-  - personas
+  - research
   - user-experience
 ---
 

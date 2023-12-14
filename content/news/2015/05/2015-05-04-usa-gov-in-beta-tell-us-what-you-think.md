@@ -12,7 +12,7 @@ topics:
   - analytics
   - multilingual
   - government-contact-centers
-  - personas
+  - research
   - social-media
   - usa-gov
 ---

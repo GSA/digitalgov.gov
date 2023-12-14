@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - professional-development
   - our-work
-  - personas
+  - research
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -14,7 +14,7 @@ topics:
   - customer-experience
   - customer-experience
   - government-contact-centers
-  - personas
+  - research
 ---
 
 {{< legacy-img src="2015/01/600-x-450-Silver-plate-with-chart-peshkov-iStock-Thinkstock-490450531.jpg" alt="Silver plate with chart" caption="" >}}

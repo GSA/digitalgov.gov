@@ -8,7 +8,7 @@ authors:
 topics:
   - customer-experience
   - customer-experience
-  - personas
+  - research
   - user-centered-design
   - user-experience
   - VA

@@ -12,7 +12,7 @@ topics:
   - customer-experience
   - customer-experience
   - customer-experience
-  - personas
+  - research
   - us-department-of-veterans-affairs
   - user-centered-design
   - user-experience

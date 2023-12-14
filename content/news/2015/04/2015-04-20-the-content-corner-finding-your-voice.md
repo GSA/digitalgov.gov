@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - content-strategy
-  - personas
+  - research
   - social-media
   - content-strategy
   - communication

@@ -11,7 +11,7 @@ topics:
   - customer-experience
   - search
   - multilingual
-  - personas
+  - research
   - usa-gov
   - user-experience
   

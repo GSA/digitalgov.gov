@@ -13,7 +13,7 @@ topics:
   - CFPB
   - Internal Revenue Service
   - IRS
-  - personas
+  - research
   - united-states-office-of-personnel-management
   - user-experience
   

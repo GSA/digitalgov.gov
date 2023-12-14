@@ -12,7 +12,7 @@ topics:
   - customer-experience
   - NARA
   - national-archives-and-records-administration
-  - personas
+  - research
   - user-centered-design
 ---
 

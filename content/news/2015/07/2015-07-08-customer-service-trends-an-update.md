@@ -20,7 +20,7 @@ topics:
   - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - personas
+  - research
   - smithsonian-institution
   - social-media
   - us-department-of-veterans-affairs

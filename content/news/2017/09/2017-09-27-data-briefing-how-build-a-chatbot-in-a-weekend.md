@@ -12,7 +12,7 @@ topics:
   - emerging-tech
   - artificial-intelligence
   - content-strategy
-  - personas
+  - research
   - social-media
   - training
   - communication

@@ -13,7 +13,7 @@ topics:
   - FAA
   - Federal Aviation Administration
   - gsa
-  - personas
+  - research
   - design
   - usability-testing
   - user-experience

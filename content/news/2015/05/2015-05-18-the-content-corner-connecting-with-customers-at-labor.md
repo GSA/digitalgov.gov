@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - customer-experience
   - data-visualization
-  - personas
+  - research
   - plain-language
   - social-media
   - content-strategy

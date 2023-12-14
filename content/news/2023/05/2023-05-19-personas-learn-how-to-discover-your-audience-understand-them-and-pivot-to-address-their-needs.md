@@ -7,7 +7,7 @@ summary: "Advice from five federal experts on creating user personas."
 # See all topics at https://digital.gov/topics
 topics:
   - communication
-  - personas
+  - research
   - user-experience
   - customer-experience
 # See all authors at https://digital.gov/authors
