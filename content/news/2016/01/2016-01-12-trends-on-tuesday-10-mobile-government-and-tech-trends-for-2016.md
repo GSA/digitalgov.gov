@@ -9,7 +9,7 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - https
+  - security
   - internet-of-things
   - mobile
   - mobile-apps
