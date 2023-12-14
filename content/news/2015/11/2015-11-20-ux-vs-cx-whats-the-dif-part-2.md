@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - 18f
   - customer-experience
-  - usability starter kit
+  - usability
   - user-experience-community-of-practice
   - user-experience
   
