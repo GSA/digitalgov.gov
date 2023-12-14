@@ -11,7 +11,7 @@ aliases:
   - /resources/omb-m-17-06
   - /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
   
-date: 2019-11-01 3:00:00 -0500
+date: 2019-11-01 15:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
 summary: "Learn how to implement 21st Century IDEA to design and deliver better websites and digital services."
