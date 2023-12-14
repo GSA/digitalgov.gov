@@ -10,7 +10,7 @@ topics:
   - product-management
   - cloud-and-infrastructure
   - analytics
-  - fedramp
+  - security
   - gsa
   - mobile
   - content-strategy

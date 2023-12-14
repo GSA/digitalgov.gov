@@ -10,7 +10,7 @@ topics:
   - content-strategy
   - policy
   - 18f
-  - fedramp
+  - security
   - gsa
   - cloud-and-infrastructure
   - our-work

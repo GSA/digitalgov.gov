@@ -4,11 +4,11 @@ date: 2017-06-13 14:10:23 -0400
 title: FedRAMP 5th Anniversary
 summary: "This week we are excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue to meet the evolving needs of our partners ."
 authors:
-  - fedramp
+  - security
 topics:
   - product-management
   - cloud-and-infrastructure
-  - fedramp
+  - security
 
 ---
 

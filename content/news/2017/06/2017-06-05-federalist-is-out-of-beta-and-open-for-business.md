@@ -14,7 +14,7 @@ topics:
   - cloud-and-infrastructure
   - CMS
   - content-strategy
-  - fedramp
+  - security
   - gsa
   - security
   - us-general-services-administration

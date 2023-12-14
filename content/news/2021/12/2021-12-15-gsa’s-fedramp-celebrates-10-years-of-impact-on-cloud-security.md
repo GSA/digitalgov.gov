@@ -16,7 +16,7 @@ deck: "**GSA’s FedRAMP Celebrates 10 Years of Impact on Cloud
   play a critical role in improving the nation's cybersecurity."
 # See all topics at https://digital.gov/topics
 topics:
-  - fedramp
+  - security
   - cloud-and-infrastructure
   - security
 slug: gsas-fedramp-celebrates-10-years-of-impact-on-cloud-security

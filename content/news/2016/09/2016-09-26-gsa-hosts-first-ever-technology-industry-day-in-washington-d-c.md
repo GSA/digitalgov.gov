@@ -20,7 +20,7 @@ topics:
   - budgeting-and-performance
   - FAS
   - Federal Acquisition Service
-  - fedramp
+  - security
   - innovation
   - OCSIT
   - office-of-citizen-services-and-innovative-technology

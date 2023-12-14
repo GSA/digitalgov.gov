@@ -11,7 +11,7 @@ topics:
   - product-management
   - cloud-and-infrastructure
   - data
-  - fedramp
+  - security
 ---
 
 One of the questions we get asked the most at [FedRAMP](https://www.fedramp.gov/) from our vendors is: “How much will it cost me to get through FedRAMP?” One of the reasons this is a hard question to answer is that comparing cloud providers to each other isn’t even like trying to compare apples to oranges – those are both at least fruit. Comparing a global content distribution network to a government only ticketing and CRM solution and then comparing to a web-based agile project management tool is like comparing an apple to a bike to a television. The size, complexity, and scope of services of the systems varies greatly and makes a comparison incredibly hard.
