@@ -9,7 +9,7 @@ topics:
   - communities
   - metrics
   - social-media
-  - aoi
+  - user-experience
   - social-media
   - social-media
 ---

@@ -11,7 +11,7 @@ topics:
   - product-management
   - metrics
   - social-media
-  - aoi
+  - user-experience
   - software-engineering
   - social-media
 ---

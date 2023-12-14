@@ -9,7 +9,7 @@ topics:
   - communities
   - user-testing-and-research
   - user-experience
-  - aoi
+  - user-experience
   - digitalgov-user-experience-program
   - Federal Reserve Board
   - usability

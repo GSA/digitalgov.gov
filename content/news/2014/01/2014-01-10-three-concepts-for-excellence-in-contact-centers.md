@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - product-management
-  - aoi
+  - user-experience
   - customer-experience
   - customer-satisfaction
   - government-contact-centers

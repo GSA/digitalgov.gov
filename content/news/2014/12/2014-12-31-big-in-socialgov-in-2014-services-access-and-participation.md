@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - social-media
-  - aoi
+  - user-experience
   - Central Intelligence Agency
   - CIA
   - DOI

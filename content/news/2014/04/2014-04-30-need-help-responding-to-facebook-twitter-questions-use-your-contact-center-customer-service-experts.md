@@ -9,7 +9,7 @@ topics:
   - communities
   - product-management
   - monthly-theme
-  - aoi
+  - user-experience
   - HHS
   - national-institutes-of-health
   - NCI

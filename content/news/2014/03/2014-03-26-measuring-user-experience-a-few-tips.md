@@ -9,7 +9,7 @@ topics:
   - communities
   - user-testing-and-research
   - a-b-testing
-  - aoi
+  - user-experience
   - recaps
   - united-states-department-of-health-and-human-services
   - usability

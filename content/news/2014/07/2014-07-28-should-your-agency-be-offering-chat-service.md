@@ -9,7 +9,7 @@ topics:
   - communities
   - product-management
   - monthly-theme
-  - aoi
+  - user-experience
   - customer-experience
   - customer-satisfaction
   - Government Contact Center Council

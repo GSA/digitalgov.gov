@@ -9,7 +9,7 @@ topics:
   - communities
   - design
   - user-testing-and-research
-  - aoi
+  - user-experience
   - usability
   - user-experience
 ---

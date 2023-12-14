@@ -10,7 +10,7 @@ topics:
   - communities
   - crowdsourcing-and-citizen-science
   - monthly-theme
-  - aoi
+  - user-experience
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice

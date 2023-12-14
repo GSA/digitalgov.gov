@@ -11,7 +11,7 @@ topics:
   - data
   - product-management
   - metrics
-  - aoi
+  - user-experience
   - content-strategy
   - customer-satisfaction
   - government-contact-centers

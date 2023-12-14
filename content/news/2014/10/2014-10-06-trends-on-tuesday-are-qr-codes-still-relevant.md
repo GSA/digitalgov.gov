@@ -11,7 +11,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - aoi
+  - user-experience
   - mobile
   - mobile-ux-guideline-5
   - trends-on-tuesday

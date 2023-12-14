@@ -10,7 +10,7 @@ topics:
   - product-management
   - monthly-theme
   - our-work
-  - aoi
+  - user-experience
   - government-contact-centers
 ---
 

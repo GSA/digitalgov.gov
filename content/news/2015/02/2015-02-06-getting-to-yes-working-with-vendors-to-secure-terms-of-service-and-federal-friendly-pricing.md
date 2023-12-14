@@ -9,7 +9,7 @@ authors:
 topics:
   - communities
   - social-media
-  - aoi
+  - user-experience
   - HHS
   - recaps
   - social-media

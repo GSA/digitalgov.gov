@@ -11,7 +11,7 @@ topics:
   - product-management
   - social-media
   - user-experience
-  - aoi
+  - user-experience
   - customer-experience
   - government-contact-centers
 ---

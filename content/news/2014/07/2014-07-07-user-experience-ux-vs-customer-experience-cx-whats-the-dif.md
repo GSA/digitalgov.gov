@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - monthly-theme
-  - aoi
+  - user-experience
   - customer-experience
   - digitalgov-user-experience-program
   - search-engine-optimization

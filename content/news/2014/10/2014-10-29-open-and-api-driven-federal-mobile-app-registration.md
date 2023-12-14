@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-apps
   - monthly-theme
-  - aoi
+  - user-experience
   - federal-mobile-products-registry
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5

@@ -11,7 +11,7 @@ topics:
   - design
   - monthly-theme
   - user-testing-and-research
-  - aoi
+  - user-experience
   - bls
   - user-experience-community-of-practice
   - us-bureau-of-labor-statistics

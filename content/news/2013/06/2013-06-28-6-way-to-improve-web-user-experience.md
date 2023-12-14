@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - communities
-  - aoi
+  - user-experience
   - user-experience
 ---
 

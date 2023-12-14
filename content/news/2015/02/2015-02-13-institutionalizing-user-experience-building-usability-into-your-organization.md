@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - analytics
-  - aoi
+  - user-experience
   - digitalgov-user-experience-program
   - FAA
   - Federal Aviation Administration

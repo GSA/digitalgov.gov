@@ -10,7 +10,7 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - aoi
+  - user-experience
   - Census
   - COPE
   - crowdsourcing

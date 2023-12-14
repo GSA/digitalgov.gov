@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - user-testing-and-research
-  - aoi
+  - user-experience
   - BLS
   - DOL
   - us-bureau-of-labor-statistics

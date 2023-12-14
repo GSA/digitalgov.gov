@@ -9,7 +9,7 @@ topics:
   - communities
   - product-management
   - social-media
-  - aoi
+  - user-experience
   - api
   - national-archives-and-records-administration
   - social-media

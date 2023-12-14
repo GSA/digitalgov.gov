@@ -12,7 +12,7 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - aoi
+  - user-experience
   - big-data
   - challenges-and-prize-competitions
   - customer-experience
