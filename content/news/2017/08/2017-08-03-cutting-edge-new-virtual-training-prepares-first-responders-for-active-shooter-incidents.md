@@ -19,7 +19,6 @@ topics:
   - research
   - Security
   - Training
-  - united-states-army
   - united-states-department-of-homeland-security
   - video
   - video-production-pros-community

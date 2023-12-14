@@ -18,7 +18,6 @@ topics:
   - open-data
   - the-data-briefing
   - us-bureau-of-labor-statistics
-  - united-states-census-bureau
   - United States Patent and Trademark Office
   - USPTO
 ---
