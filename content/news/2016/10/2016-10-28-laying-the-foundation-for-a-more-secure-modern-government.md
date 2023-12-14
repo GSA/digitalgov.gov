@@ -13,7 +13,6 @@ topics:
   - policy
   - best-practices
   - cloud-and-infrastructure
-  - Cybersecurity National Action Plan
   - gsa
   - innovation
   - budgeting-and-performance
