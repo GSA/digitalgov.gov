@@ -10,6 +10,7 @@ aliases:
   - /resources/implications-of-recent-web-technologies-for-nara-web-guidance/
   - /resources/omb-m-17-06
   - /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
+  - /resources/nara-guidance-on-managing-social-media-records/
   
 date: 2019-11-01 15:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
