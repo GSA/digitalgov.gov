@@ -22,7 +22,6 @@ topics:
   - recaps
   - section-508
   - social-media
-  - usagov
   - user-experience
   - video
 

@@ -17,7 +17,6 @@ topics:
   - performance
   - analytics
   - analytics-usa-gov
-  - usa-gov
 slug: 3-ways-to-improve-communication-between-contact-center-agents-and-customers
 # Controls how this page appears across the site
 # 0 -- hidden

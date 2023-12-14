@@ -9,7 +9,6 @@ summary: In this recap of the October 2021 U.S. Web Design System (USWDS)
   get answers, and provide useful feedback.
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - code
   - usability
   - content

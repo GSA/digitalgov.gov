@@ -14,7 +14,6 @@ topics:
   - design
   - gsa
   - us-general-services-administration
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

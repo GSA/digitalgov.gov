@@ -9,7 +9,6 @@ deck: "**Accessibility: Usability for Every Ability**&mdash;Accessibility enable
 summary: "**Accessibility: Usability for Every Ability**&mdash;Accessibility enables full participation, and everyone who works on government websites has a role to play in making federal resources accessible and inclusive."
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - accessibility
 # See all authors at https://digital.gov/authors
 authors:

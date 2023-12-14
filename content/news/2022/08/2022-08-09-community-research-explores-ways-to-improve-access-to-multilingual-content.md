@@ -11,7 +11,6 @@ topics:
   - content
   - accessibility
   - multilingual-community
-  - uswds
 
 # See all authors at https://digital.gov/authors
 authors:

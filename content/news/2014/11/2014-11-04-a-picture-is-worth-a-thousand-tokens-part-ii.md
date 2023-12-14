@@ -10,7 +10,6 @@ topics:
   - our-work
   - social-media
   - open-government
-  - usagov
 ---
 
 In the first part of [_A Picture Is Worth a Thousand Tokens_]({{< ref "2014-10-28-a-picture-is-worth-a-thousand-tokens.md" >}} "A Picture Is Worth a Thousand Tokens"), I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience as a whole.

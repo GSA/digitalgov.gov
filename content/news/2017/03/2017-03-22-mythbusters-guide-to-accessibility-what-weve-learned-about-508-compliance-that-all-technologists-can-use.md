@@ -10,7 +10,6 @@ topics:
   - design
   - accessibility
   - us-digital-service
-  - USDS
   - user-experience
   
 

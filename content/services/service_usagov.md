@@ -27,7 +27,6 @@ weight: 1
 topics:
   - contact-centers
   - customer-service
-  - usa-gov
 
 # Make it better ♥
 ---

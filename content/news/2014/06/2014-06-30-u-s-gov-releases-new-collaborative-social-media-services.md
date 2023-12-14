@@ -15,7 +15,6 @@ topics:
   - social-media
   - socialgov
   - socialgov-community
-  - usaid
   - white-house
   - world-bank
 ---

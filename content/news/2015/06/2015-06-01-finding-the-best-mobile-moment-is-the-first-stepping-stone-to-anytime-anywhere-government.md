@@ -16,7 +16,6 @@ topics:
   - NOAA
   - OSHA
   - us-department-of-veterans-affairs
-  - usa-gov
   - VA
 ---
 

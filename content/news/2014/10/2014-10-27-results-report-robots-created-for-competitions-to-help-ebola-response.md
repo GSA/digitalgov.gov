@@ -12,7 +12,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - nasa
   - us-agency-for-international-development
-  - usaid
 ---
 
 Challenge competitions were recently highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID): [Ebola: A Grand Challenge for Development](http://www.usaid.gov/grandchallenges/ebola).

@@ -14,7 +14,6 @@ topics:
   - State
   - US Citizenship and Immigration Service
   - us-department-of-state
-  - USCIS
 ---
 
 [{{< legacy-img src="2015/08/600-human-word-cloud-kgtoh-481085576.jpg" alt="Multilingual word cloud for human." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/600-human-word-cloud-kgtoh-481085576.jpg) 

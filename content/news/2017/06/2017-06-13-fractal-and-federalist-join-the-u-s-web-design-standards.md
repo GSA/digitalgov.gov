@@ -11,7 +11,6 @@ topics:
   - github
   - open-source
   - responsive-web-design
-  - uswds
   - user-centered-design
 ---
 

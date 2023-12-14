@@ -11,7 +11,6 @@ topics:
   - transportation-security-administration
   - TSA
   - US Citizenship and Immigration Service
-  - USCIS
   - user-experience
 ---
 

@@ -17,7 +17,6 @@ topics:
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - united-states-department-of-housing-and-urban-development
-  - usaid
 ---
 
 It began with a history lesson and ended with an eye to the future.

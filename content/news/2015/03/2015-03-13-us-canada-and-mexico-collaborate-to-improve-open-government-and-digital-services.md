@@ -18,7 +18,6 @@ topics:
   - open-data
   - open-source
   - us-digital-service
-  - usds
 
 ---
 

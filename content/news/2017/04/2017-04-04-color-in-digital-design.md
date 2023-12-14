@@ -10,7 +10,6 @@ topics:
   - design
   - product-management
   - communities
-  - uswds
   - user-experience
   - user-experience-community-of-practice
   - web-content-managers-forum

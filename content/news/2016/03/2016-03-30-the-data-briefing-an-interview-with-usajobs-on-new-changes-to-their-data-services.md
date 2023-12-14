@@ -19,7 +19,6 @@ topics:
   - United States Patent and Trademark Office
   - user-centered-design
   - user-experience
-  - USPTO
   
 ---
 

@@ -12,7 +12,6 @@ topics:
   - the-data-briefing
   - United States Patent and Trademark Office
   - user-experience
-  - USPTO
   
 ---
 

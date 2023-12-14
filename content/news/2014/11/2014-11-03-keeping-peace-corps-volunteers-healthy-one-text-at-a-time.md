@@ -14,7 +14,6 @@ topics:
   - open-source
   - peace-corps
   - us-digital-service
-  - USDS
 
 ---
 

@@ -13,7 +13,6 @@ topics:
   - agile-lean-community-of-practice
   - gsa
   - us-general-services-administration
-  - usagov
 ---
 
 In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process.

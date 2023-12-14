@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - customer-experience
   - HHS
-  - USDA
 ---
 
 <p style="text-align: left;">

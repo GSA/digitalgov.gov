@@ -16,7 +16,6 @@ topics:
   - social-media
   - socialgov
   - socialgov-community
-  - usa-gov
   - webinar
 
 ---

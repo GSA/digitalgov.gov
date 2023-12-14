@@ -52,7 +52,6 @@ topics:
   - united-states-department-of-transportation
   - united-states-geological-survey
   - us-fish-and-wildlife-service
-  - USGS
   - white-house-office-of-science-and-technology-policy
 
 ---

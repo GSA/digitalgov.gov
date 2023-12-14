@@ -19,7 +19,6 @@ topics:
   - design
   - product-management
   - mobile
-  - uswds
   - user-experience
 
 # What source published this?

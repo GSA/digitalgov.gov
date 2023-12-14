@@ -19,7 +19,6 @@ topics:
   - us-agency-for-international-development
   - united-states-department-of-energy
   - united-states-department-of-housing-and-urban-development
-  - usaid
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3953.jpg" alt="Audience" caption="" >}} 

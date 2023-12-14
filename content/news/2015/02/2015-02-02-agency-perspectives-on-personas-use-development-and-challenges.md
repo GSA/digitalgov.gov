@@ -13,7 +13,6 @@ topics:
   - personas
   - US Department of Agriculture
   - united-states-department-of-health-and-human-services
-  - USDA
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

@@ -13,7 +13,6 @@ topics:
   - DOT
   - US Department of Agriculture
   - united-states-department-of-transportation
-  - USDA
   - wednesday-api-briefing
 ---
 

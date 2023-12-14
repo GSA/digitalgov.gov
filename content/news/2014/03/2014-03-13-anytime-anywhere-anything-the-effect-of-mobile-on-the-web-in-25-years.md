@@ -18,7 +18,6 @@ topics:
   - thursday-mobile-products
   - US Customs and Border Protection
   - us-department-of-labor
-  - USDA
 ---
 
 <p>

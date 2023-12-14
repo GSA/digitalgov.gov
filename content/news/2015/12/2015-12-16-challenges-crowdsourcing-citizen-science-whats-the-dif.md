@@ -33,8 +33,6 @@ topics:
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - united-states-geological-survey
-  - USDA
-  - USGS
 ---
 
 There’s more than one way to harness the wisdom of the crowd.

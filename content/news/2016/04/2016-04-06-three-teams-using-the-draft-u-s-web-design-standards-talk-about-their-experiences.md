@@ -17,7 +17,6 @@ topics:
   - open-source
   - us-digital-service
   - user-experience
-  - usds
   
 ---
 

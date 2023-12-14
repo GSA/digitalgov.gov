@@ -25,7 +25,6 @@ topics:
   - us-department-of-state
   - us-food-and-drug-administration
   - united-states-census-bureau
-  - USDA
   - user-experience
 
 ---

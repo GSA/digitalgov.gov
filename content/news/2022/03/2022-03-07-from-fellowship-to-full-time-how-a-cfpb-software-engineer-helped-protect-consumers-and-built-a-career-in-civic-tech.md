@@ -10,7 +10,6 @@ topics:
   - user-experience
   - accessibility
   - 21st-century-idea
-  - uswds
   - design
   - communities
 

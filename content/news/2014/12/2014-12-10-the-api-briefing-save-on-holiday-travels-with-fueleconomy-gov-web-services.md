@@ -11,7 +11,6 @@ topics:
   - DOE
   - US Department of Agriculture
   - united-states-department-of-energy
-  - USDA
   - wednesday-api-briefing
 ---
 

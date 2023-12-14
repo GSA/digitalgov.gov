@@ -10,7 +10,6 @@ topics:
   - mobile
   - mobile-apps
   - responsive-web-design
-  - usagov
   - user-experience
 ---
 

@@ -8,7 +8,6 @@ authors:
 topics:
   - us-digital-service
   - social-media
-  - usds
 
 source: 'usds'
 source_url: 'https://www.instagram.com/usdigitalservice/'

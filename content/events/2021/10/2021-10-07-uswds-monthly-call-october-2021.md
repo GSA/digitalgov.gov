@@ -13,7 +13,6 @@ end_date: 2021-10-21 15:00:00 -0500
 topics:
   - code
   - design
-  - uswds
   - open-source
   - github
   - communities

@@ -15,7 +15,6 @@ topics:
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
   - united-states-department-of-housing-and-urban-development
-  - USDA
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}} 

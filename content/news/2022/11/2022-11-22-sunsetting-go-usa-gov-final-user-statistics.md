@@ -19,7 +19,6 @@ summary: The digital landscape has changed significantly since we launched the
 # See all topics at https://digital.gov/topics
 topics:
   - go-usa-gov
-  - usa-gov
 slug: sunsetting-go-usa-gov-final-user-statistics
 # Controls how this page appears across the site
 # 0 -- hidden

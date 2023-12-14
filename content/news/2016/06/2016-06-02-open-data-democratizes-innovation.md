@@ -37,8 +37,6 @@ topics:
   - us-environmental-protection-agency
   - us-general-services-administration
   - us-small-business-administration
-  - usaid
-  - USDA
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

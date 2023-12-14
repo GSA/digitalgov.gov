@@ -22,7 +22,6 @@ topics:
   - product-management
   - drupal
   - responsive-web-design
-  - uswds
   - 21st-century-idea
 
 # see all authors at https://digital.gov/authors

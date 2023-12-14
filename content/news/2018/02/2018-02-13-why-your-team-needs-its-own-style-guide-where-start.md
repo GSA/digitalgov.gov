@@ -16,7 +16,6 @@ topics:
   - federal-reserve-board
   - frb
   - united-states-patent-and-trademark-office
-  - uspto
   - user-experience
 featured_image:
   uid: cfpb-secondary-color-palette-swatches-featured

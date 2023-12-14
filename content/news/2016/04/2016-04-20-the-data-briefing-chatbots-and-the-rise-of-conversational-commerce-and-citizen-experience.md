@@ -18,7 +18,6 @@ topics:
   - the-data-briefing
   - United States Patent and Trademark Office
   - user-experience
-  - USPTO
   - virtual-reality
   - virtual-augmented-reality-community
 ---

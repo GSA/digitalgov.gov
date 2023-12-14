@@ -24,7 +24,6 @@ topics:
   - open-government
   - united-states-department-of-energy
   - united-states-geological-survey
-  - USGS
   - wednesday-api-briefing
 ---
 

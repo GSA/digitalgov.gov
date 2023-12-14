@@ -20,7 +20,6 @@ summary: The USAGov team strives to ensure all our websites are accessible to as
 topics:
   - "508"
   - accessibility
-  - usa-gov
   - gobiernousagov
   - usability-testing
   - user-experience

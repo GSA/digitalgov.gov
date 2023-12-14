@@ -17,7 +17,6 @@ topics:
   - department-of-commerce
   - the-content-corner
   - United States Patent and Trademark Office
-  - USPTO
 
 ---
 

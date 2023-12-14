@@ -12,7 +12,6 @@ topics:
   - OPM
   - US Department of Agriculture
   - united-states-office-of-personnel-management
-  - USDA
   - wednesday-api-briefing
 ---
 

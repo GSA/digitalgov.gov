@@ -12,7 +12,6 @@ summary: The U.S. Web Design System (USWDS) includes five design principles that
   does to make sure we're meeting each principle.
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - design
   - user-centered-design
 slug: the-u-s-web-design-system-uswds-and-onrr-gov

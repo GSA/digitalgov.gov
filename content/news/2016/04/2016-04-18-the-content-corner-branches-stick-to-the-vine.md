@@ -17,7 +17,6 @@ topics:
   - the-content-corner
   - us-digital-service
   - united-states-department-of-energy
-  - USDS
   - user-experience
 
 ---

@@ -16,7 +16,6 @@ topics:
   - mobile
   - mobile-apps
   - sms
-  - usagov
 
 ---
 

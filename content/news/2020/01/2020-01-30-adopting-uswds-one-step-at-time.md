@@ -13,7 +13,6 @@ topics:
   - code
   - design
   - product-management
-  - uswds
   - 21st-century-idea
   - this-weeks-idea
 

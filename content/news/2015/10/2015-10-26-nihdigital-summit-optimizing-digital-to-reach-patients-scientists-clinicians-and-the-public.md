@@ -17,7 +17,6 @@ topics:
   - US Department of Agriculture
   - us-environmental-protection-agency
   - united-states-department-of-health-and-human-services
-  - USDA
 ---
 
 {{< legacy-img src="2015/10/600-x-400-NIH-Digital-Summit-Keynote-speaker-Susannah-Fox-Chief-Technology-Officer-of-the-US-Department-of-Health-and-Human-Services-HHS-IMG_1724.jpg" alt="Keynote speaker, Susannah Fox, Chief Technology Officer of the U.S. Department of Health and Human Services (HHS)" >}}

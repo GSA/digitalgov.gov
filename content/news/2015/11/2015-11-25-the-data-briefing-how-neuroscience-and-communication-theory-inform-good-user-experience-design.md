@@ -11,7 +11,6 @@ topics:
   - monthly-theme
   - the-data-briefing
   - US Department of Agriculture
-  - USDA
   - user-experience
   
 ---

@@ -11,7 +11,6 @@ topics:
   - product-management
   - user-experience
   - recaps
-  - uswds
 ---
 
 ## The Road to Launch Version 1.0

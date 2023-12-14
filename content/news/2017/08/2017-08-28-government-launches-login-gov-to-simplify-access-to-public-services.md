@@ -30,10 +30,6 @@ topics:
   - us-department-of-labor
   - us-department-of-state
   - us-digital-service
-  - usa-gov
-  - usagov
-  - USCIS
-  - USDS
   - user-experience
   - our-work
   

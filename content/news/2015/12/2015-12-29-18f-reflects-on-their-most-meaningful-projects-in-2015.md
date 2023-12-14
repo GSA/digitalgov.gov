@@ -30,8 +30,6 @@ topics:
   - us-department-of-the-interior
   - us-department-of-the-treasury
   - us-digital-service
-  - USCIS
-  - USDS
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

@@ -12,7 +12,6 @@ topics:
   - top-tasks
   - us-agency-for-international-development
   - usability
-  - usaid
   - user-experience
   
 ---

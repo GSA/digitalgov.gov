@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - recaps
-  - usagov
 
 ---
 

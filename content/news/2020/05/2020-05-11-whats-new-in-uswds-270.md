@@ -18,8 +18,7 @@ summary: "**Release Notes: What’s new in USWDS 2.7.0**&mdash;Read more about t
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - uswds
-
+  - agile
 # see all authors at https://digital.gov/authors
 authors: 
   - dan-williams

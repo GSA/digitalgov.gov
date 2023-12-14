@@ -11,7 +11,6 @@ summary: "We've been working on a new version of Digital.gov, and we’re ready 
 
 topics:
   - our-work
-  - uswds
   - 21st-century-idea
   - design
 

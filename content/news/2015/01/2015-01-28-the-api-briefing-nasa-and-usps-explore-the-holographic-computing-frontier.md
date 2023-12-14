@@ -14,8 +14,6 @@ topics:
   - NOAA
   - US Department of Agriculture
   - United States Postal Service
-  - USDA
-  - USPS
   - virtual-augmented-reality-community
   - wednesday-api-briefing
 

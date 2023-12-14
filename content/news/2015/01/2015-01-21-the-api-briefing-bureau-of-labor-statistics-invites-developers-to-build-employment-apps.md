@@ -15,7 +15,6 @@ topics:
   - us-department-of-the-treasury
   - us-securities-and-exchange-commission
   - united-states-census-bureau
-  - USDA
   - wednesday-api-briefing
 ---
 

@@ -39,8 +39,6 @@ topics:
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - united-states-department-of-transportation
-  - usaid
-  - USGS
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}} 

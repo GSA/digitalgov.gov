@@ -14,7 +14,6 @@ topics:
   - customer-experience
   - multilingual
   - US Citizenship and Immigration Service
-  - USCIS
   - user-centered-design
   - user-experience
   

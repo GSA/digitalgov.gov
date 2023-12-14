@@ -10,7 +10,6 @@ topics:
   - HUD
   - US Department of Agriculture
   - united-states-department-of-housing-and-urban-development
-  - USDA
   - wednesday-api-briefing
 ---
 

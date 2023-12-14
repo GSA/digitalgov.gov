@@ -13,7 +13,6 @@ topics:
   - OSTP
   - us-agency-for-international-development
   - united-states-department-of-housing-and-urban-development
-  - usaid
   - white-house-office-of-science-and-technology-policy
 ---
 

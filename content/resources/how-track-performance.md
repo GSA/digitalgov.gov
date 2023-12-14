@@ -12,7 +12,6 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - uswds
   - performance
   - mobile
   - user-experience
