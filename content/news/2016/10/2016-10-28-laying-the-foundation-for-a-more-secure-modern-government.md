@@ -18,7 +18,6 @@ topics:
   - innovation
   - it-modernization-fund
   - ITMF
-  - National Cyber Security Awareness Month
   - Office of Management and Budget
   - OMB
   - privacy
