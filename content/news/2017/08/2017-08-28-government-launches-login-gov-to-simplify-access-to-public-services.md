@@ -13,8 +13,6 @@ topics:
   - product-management
   - 18f
   - us-customs-and-border-protection
-  - login-gov
-  - customer-experience
   - customer-experience
   - gsa
   - Internal Revenue Service

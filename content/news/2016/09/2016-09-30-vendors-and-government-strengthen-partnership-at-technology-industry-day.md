@@ -16,13 +16,11 @@ topics:
   - cloud-and-infrastructure
   - data
   - budgeting-and-performance
-  - login-gov
+  - security
   - budgeting-and-performance
   - FAS
   - federal-acquisition-service
-  - security
   - innovation
-  - security
   - tts
 
 ---
