@@ -23,7 +23,7 @@ topics:
   - nih
   - prototype
   - usability
-  - usability-testing
+  - usability
   - user-experience
   - user research
 primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"

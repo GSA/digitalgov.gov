@@ -11,7 +11,7 @@ topics:
   - BLS
   - prototype
   - us-bureau-of-labor-statistics
-  - usability-testing
+  - usability
   - user-experience
 ---
 

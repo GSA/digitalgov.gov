@@ -10,7 +10,7 @@ topics:
   - digitalgov-user-experience-program
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - usability-testing
+  - usability
   - user-experience
 ---
 

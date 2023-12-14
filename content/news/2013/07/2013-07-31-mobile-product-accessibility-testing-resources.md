@@ -8,7 +8,7 @@ topics:
   - mobile
   - user-testing-and-research
   - mobile-apps
-  - usability-testing
+  - usability
   - user-experience
 ---
 

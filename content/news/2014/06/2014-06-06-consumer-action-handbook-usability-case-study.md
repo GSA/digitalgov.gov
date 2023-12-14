@@ -14,7 +14,7 @@ topics:
   - user-experience
   - digitalgov-user-experience-program
   - usability
-  - usability-testing
+  - usability
   - user-experience
   - usagov
 

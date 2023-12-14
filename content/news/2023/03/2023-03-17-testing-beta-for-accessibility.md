@@ -22,7 +22,7 @@ topics:
   - accessibility
   - usa-gov
   - gobiernousagov
-  - usability-testing
+  - usability
   - user-experience
 slug: testing-beta-for-accessibility
 # Controls how this page appears across the site

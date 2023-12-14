@@ -15,7 +15,7 @@ topics:
   - gsa
   - personas
   - prototype
-  - usability-testing
+  - usability
   - user-experience
   - user-experience-community-of-practice
   

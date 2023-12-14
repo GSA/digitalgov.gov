@@ -14,7 +14,7 @@ topics:
   - plain-language
   - search-engine-optimization
   - usability
-  - usability-testing
+  - usability
   - user-experience
   - user-experience-community-of-practice
   

@@ -13,7 +13,7 @@ topics:
   - digitalgov-user-experience-program
   - national-cancer-institute
   - NCI
-  - usability-testing
+  - usability
   - user-experience
 ---
 

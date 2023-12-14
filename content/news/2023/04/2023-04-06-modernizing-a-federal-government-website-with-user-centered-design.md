@@ -13,7 +13,7 @@ summary: In this blog post, we break down our process for redesigning a federal
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - usability-testing
+  - usability
   - user-research
   - user-centered-design
   - design

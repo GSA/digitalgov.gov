@@ -9,7 +9,7 @@ topics:
   - user-experience
   - usability
   - user-research
-  - usability-testing
+  - usability
 
 source: '18f'
 source_url: 'https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/'

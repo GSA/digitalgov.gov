@@ -16,7 +16,7 @@ summary: How do you make sure a website is accessible? This blog post outlines
 topics:
   - accessibility
   - doi
-  - usability-testing
+  - usability
   - "508"
   - section-508
   - usability

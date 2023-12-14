@@ -8,13 +8,13 @@ authors:
 topics:
   - monthly-theme
   - usability
-  - usability-testing
+  - usability
   - user-experience
   - digitalgov-user-experience-program
   - user-experience-community-of-practice
   - recaps
   - usability
-  - usability-testing
+  - usability
   - user-experience
   
 ---

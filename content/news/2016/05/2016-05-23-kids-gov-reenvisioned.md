@@ -15,7 +15,7 @@ topics:
   - customer-experience
   - metrics
   - usa-gov
-  - usability-testing
+  - usability
   - user-centered-design
   - user-experience
   

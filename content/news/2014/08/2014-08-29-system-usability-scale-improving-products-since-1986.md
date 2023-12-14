@@ -12,7 +12,7 @@ topics:
   - digitalgov-user-experience-program
   - OPM
   - united-states-office-of-personnel-management
-  - usability-testing
+  - usability
 
 ---
 

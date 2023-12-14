@@ -14,7 +14,7 @@ topics:
   - user-experience
   - plain-language
   - plain-language-community-of-practice
-  - usability-testing
+  - usability
   - usability
   - content
 # See all authors at https://digital.gov/authors

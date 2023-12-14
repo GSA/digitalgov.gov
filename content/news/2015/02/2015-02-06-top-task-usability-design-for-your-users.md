@@ -14,7 +14,7 @@ topics:
   - FRB
   - top-tasks
   - usability
-  - usability-testing
+  - usability
   - user-experience
 ---
 

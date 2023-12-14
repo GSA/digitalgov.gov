@@ -10,7 +10,7 @@ topics:
   - opm
   - united-states-office-of-personnel-management
   - usability
-  - usability-testing
+  - usability
   - user-centered-design
   - user-experience
 

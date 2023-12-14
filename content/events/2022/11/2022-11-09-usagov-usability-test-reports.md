@@ -17,7 +17,7 @@ topics:
   - user-experience
   - multilingual
   - usability
-  - usability-testing
+  - usability
   - usa-gov
 # See all authors at https://digital.gov/authors
 authors:

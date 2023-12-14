@@ -19,7 +19,7 @@ topics:
   - usability
   - user-research
   - methodology
-  - usability-testing
+  - usability
 
 # What source published this?
 source: "18f"

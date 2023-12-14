@@ -15,7 +15,7 @@ topics:
   - thursday-mobile-products
   - top-tasks
   - us-department-of-labor
-  - usability-testing
+  - usability
   - user-experience
   
 ---

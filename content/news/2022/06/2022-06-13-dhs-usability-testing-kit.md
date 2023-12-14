@@ -10,7 +10,7 @@ summary:
 topics:
   - user-experience
   - usability
-  - usability-testing
+  - usability
   - customer-experience
 # See all authors at https://digital.gov/authors
 authors:

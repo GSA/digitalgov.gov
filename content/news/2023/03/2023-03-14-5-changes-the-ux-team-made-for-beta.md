@@ -13,7 +13,7 @@ topics:
   - user-experience
   - design
   - uswds
-  - usability-testing
+  - usability
   - usability
 slug: 5-changes-the-ux-team-made-for-beta
 # Controls how this page appears across the site

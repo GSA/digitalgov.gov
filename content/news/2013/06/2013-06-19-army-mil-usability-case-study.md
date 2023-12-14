@@ -12,7 +12,7 @@ topics:
   - united-states-department-of-defense
   - usability
   - usability
-  - usability-testing
+  - usability
   - user-experience
 ---
 

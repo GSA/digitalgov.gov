@@ -10,7 +10,7 @@ topics:
   - digitalgov-user-experience-program
   - gamification
   - gsa
-  - usability-testing
+  - usability
   - user-experience
   
 ---

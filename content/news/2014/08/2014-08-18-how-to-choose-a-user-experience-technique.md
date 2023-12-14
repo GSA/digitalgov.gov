@@ -10,7 +10,7 @@ topics:
   - customer-experience
   - digitalgov-user-experience-program
   - personas
-  - usability-testing
+  - usability
   - user-experience
 
 primary_image: "how-ux-solves-problems-umbrella-image-by-dan-willis-uxcrank"
