@@ -14,8 +14,6 @@ topics:
   - mobile-apps
   - mobile-friendly
   - mobile-gov
-  - social-media
-  - us-digital-registry
  
 ---
 
