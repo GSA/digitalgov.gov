@@ -20,7 +20,7 @@ topics:
   - thursday-mobile-products
   - TSA
   - us-department-of-labor
-  - united-states-department-of-health-and-human-services
+  
   - united-states-department-of-homeland-security
   - USDA
 ---

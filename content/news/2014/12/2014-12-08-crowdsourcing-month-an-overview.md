@@ -36,7 +36,7 @@ topics:
   - us-department-of-state
   - us-environmental-protection-agency
   
-  - united-states-department-of-health-and-human-services
+  
   - united-states-department-of-transportation
   - usaid
   - USGS

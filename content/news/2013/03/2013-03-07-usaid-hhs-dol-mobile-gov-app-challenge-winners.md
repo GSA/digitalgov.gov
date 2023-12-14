@@ -12,7 +12,7 @@ topics:
   - mobile-gov
   - thursday-mobile-products
   - us-department-of-labor
-  - united-states-department-of-health-and-human-services
+  
   - usaid
 ---
 

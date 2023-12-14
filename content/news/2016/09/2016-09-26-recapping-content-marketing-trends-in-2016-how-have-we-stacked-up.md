@@ -25,7 +25,7 @@ topics:
   - the-content-corner
   - us-department-of-the-interior
   - us-department-of-the-treasury
-  - united-states-department-of-health-and-human-services
+  
   - white-house
 ---
 

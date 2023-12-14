@@ -14,7 +14,7 @@ topics:
   - HHS
   - innovation
   - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
+  
 ---
 
 It is incumbent upon FDA to ensure that we have the right policies in place to promote and encourage safe and effective innovation that can benefit consumers, and adopt regulatory approaches to enable the efficient development of these technologies. By taking an efficient, risk-based approach to our regulation, FDA can promote health through the creation of more new and beneficial medical technologies. We can also help reduce the development costs for these innovations by making sure that our own policies and tools are modern and efficient, giving entrepreneurs more opportunities to develop products that can benefit people’s lives. {{< legacy-img src="2015/11/600-x-400-Health-future-medical-app-nevarpp-iStock-Thinkstock-491119888.jpg" alt="Futuristic concept art of medical icons and binary data streams" caption="" >}}

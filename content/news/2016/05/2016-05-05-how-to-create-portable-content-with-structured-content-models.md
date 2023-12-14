@@ -16,7 +16,7 @@ topics:
   - open-and-structured-content-models
   - recaps
   - structured-content
-  - united-states-department-of-health-and-human-services
+  
   - usagov
 ---
 

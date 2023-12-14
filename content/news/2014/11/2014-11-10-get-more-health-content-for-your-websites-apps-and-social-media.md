@@ -17,7 +17,7 @@ topics:
   - national-institutes-of-health
   - nih
   - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
+  
 ---
 
 {{< legacy-img src="2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." caption="" >}} 

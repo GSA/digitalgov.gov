@@ -15,7 +15,7 @@ topics:
   - HHS
   - multilingual
   - social-media
-  - united-states-department-of-health-and-human-services
+  
   - usa-gov
 ---
 

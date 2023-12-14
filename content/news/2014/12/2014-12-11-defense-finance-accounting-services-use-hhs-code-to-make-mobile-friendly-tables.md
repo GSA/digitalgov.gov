@@ -19,7 +19,7 @@ topics:
   - responsive-web-design
   - thursday-mobile-products
   - us-department-of-labor
-  - united-states-department-of-health-and-human-services
+  
 ---
 
 {{< legacy-img src="2014/10/600-x-428-HHS-table-code.jpg" alt="table overflow code" >}}

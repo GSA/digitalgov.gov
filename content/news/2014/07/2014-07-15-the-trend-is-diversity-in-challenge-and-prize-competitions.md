@@ -18,7 +18,7 @@ topics:
   - sitesusagov
   - us-small-business-administration
   
-  - united-states-department-of-health-and-human-services
+  
 ---
 
 {{< legacy-img src="2014/07/250-x-222-diversity-Collage-of-Kiev-front-doors-Ukraine-maroznc-iStock-Thinkstock-182253106.jpg" alt="Challenges are a first step/front door to problem solving with the public. Photo shows a collage of Kiev front doors in the Ukraine, representing diversity." caption="" >}} 
