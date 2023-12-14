@@ -1,5 +1,5 @@
 ---
-date: 2023-12-05 16:20:00 -0500
+date: 2023-12-13 16:20:00 -0500
 title: "An introduction to inclusion"
 deck: "Understand why and how to create an inclusive culture"
 summary: "An inclusive culture contributes to a sense of belonging, promotes a healthier and more empowering workplace, respects differences, and optimizes for equal opportunities."
@@ -42,20 +42,21 @@ If you don’t feel safe enough to bring your whole self — what makes you trul
 
 At the U.S. General Services Administration (GSA), we believe there are at least [four levels of inclusiveness at every organization](https://handbook.tts.gsa.gov/general-information-and-resources/inclusive-behaviors/), each of which contributes to and is partially responsible for a workplace’s culture:
 
-* **Organization:** Practices and activities that contribute to, or detract from, an inclusive organization
-* **Management:** Support you receive from your managers — this includes program managers, leads, and/or supervisors
-* **Work group or team:** Day-to-day interpersonal relationships and the team climate 
-* **Individual:** Contributions you make that affect inclusion and awareness of diversity
+1. **Organization:** Practices and activities that contribute to, or detract from, an inclusive organization
+2. **Management:** Support you receive from your managers — this includes program managers, leads, and/or supervisors
+3. **Work group or team:** Day-to-day interpersonal relationships and the team climate 
+4. **Individual:** Contributions you make that affect inclusion and awareness of diversity
 
 While not an exhaustive list, ways to be more inclusive include:
 
-* Sharing decision-making and power with, and being sure you’re giving credit to, your colleagues, especially those who don’t typically receive these (or speak up if you’re not credited appropriately) and conversely, advocate for those who are overlooked or interrupted
-* Working to further understand unintentional discrimination and actively working to avoid enacting it yourself
-* Being mindful of your actions and words and their impact on others, and being aware you may not entirely realize the impact that you have 
-* Approaching problems with curious empathy and trying to understand where someone else is coming from
-* Recognizing that it’s okay to disagree with others, but be respectful
-* Showing up to events and trainings where different perspectives are presented; even your presence and active listening can demonstrate an effort to be inclusive
-* Forgiving yourself, apologizing, and growing
+* Share decision-making power with, and be sure to give credit to, your colleagues
+* Advocate for those who are overlooked or interrupted
+* Work to further understand unintentional discrimination, and actively work to avoid doing it yourself
+* Be mindful of your actions and words, and their impact on others; be aware that you may not always realize the impact that you have on others
+* Approach problems with curious empathy, and try to understand where someone else is coming from; their perspective
+* Recognize that it’s okay to disagree with others, but be respectful
+* Show up to events and trainings where different perspectives are presented; even your presence and active listening can demonstrate an effort to be inclusive
+* Forgive yourself, apologize, and grow
 
 {{< ring title="Case study: TTS Values">}}
 
