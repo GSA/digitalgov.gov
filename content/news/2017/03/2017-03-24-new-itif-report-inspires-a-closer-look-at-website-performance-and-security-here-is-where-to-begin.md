@@ -22,7 +22,6 @@ topics:
   - communities
   - content-strategy
   - content-strategy
-  - https
   - ITIF
   - analytics
   - mobile

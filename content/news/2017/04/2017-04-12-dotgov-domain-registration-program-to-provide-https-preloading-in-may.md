@@ -13,7 +13,6 @@ topics:
   - domain-management
   - content-strategy
   - policy
-  - https
   - security
 
 primary_image: "https-padlock-weerapatkiatdumrong-istock-thinkstock-520737069-comp"

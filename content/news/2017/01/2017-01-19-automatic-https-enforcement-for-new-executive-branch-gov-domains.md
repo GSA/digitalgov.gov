@@ -14,9 +14,8 @@ topics:
   - product-management
   - content-strategy
   - policy
-  - analytics
   - gsa
-  - https
+  - security
   - analytics
   - policy
   - search-engine-optimization
@@ -66,6 +65,6 @@ Additionally, GSA’s DigitalGov University and 18F teams have partnered to prod
   * [Implementing HTTPS](https://www.youtube.com/watch?v=rnM2qAfEG-M) (advanced, more technical detail)
   * [Migrating to HTTPS](https://www.youtube.com/watch?v=X5H8JRULDOo) (advanced, focused on HSTS, certificates, and mixed content)
 
-_Learn more about [security]({{< ref "/topics/security" >}}) and [HTTPS]({{< ref "/topics/https" >}}) — including why [switching to HTTPS will make your analytics better]({{< ref "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}}) and how [HTTPS can impact the SEO of government websites]({{< ref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}})._
+_Learn more about [security]({{< ref "/topics/security" >}}) and [HTTPS]({{< ref "/topics/security" >}}) — including why [switching to HTTPS will make your analytics better]({{< ref "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}}) and how [HTTPS can impact the SEO of government websites]({{< ref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}})._
 
 _If you have a .gov or .mil email address, consider joining our [communities](https://digital.gov/communities/) to connect with other U.S. government employees and contractors working on web and digital projects._

@@ -8,9 +8,7 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - https
   - emerging-tech
-  - mobile
   - mobile
   - security
   - emerging-tech

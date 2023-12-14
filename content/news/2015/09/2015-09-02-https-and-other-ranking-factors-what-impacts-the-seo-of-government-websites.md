@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - our-work
   - search
-  - https
+  - security
   - plain-language
   - search-engine-optimization
   - seo

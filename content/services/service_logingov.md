@@ -27,7 +27,6 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - https
   - login-gov
   - product-management
   - security

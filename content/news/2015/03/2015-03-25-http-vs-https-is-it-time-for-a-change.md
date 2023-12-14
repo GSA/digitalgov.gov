@@ -9,7 +9,6 @@ topics:
   - data
   - monthly-theme
   - analytics
-  - https
   - privacy
   - security
   - us-department-of-state
