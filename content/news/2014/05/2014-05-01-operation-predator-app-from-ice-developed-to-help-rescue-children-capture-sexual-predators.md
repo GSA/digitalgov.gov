@@ -8,7 +8,6 @@ topics:
   - dhs
   - ICE
   - thursday-mobile-products
-  - united-states-department-of-homeland-security
  
 ---
 

@@ -14,7 +14,6 @@ topics:
   - aoi
   - bls
   - user-experience-community-of-practice
-  - us-bureau-of-labor-statistics
   - usability
   - user-experience
 

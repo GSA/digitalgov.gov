@@ -15,7 +15,6 @@ topics:
   - data
   - open-data
   - the-content-corner
-  - us-bureau-of-labor-statistics
   - united-states-census-bureau
 ---
 

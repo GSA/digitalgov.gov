@@ -12,7 +12,6 @@ topics:
   - data
   - open-data
   - the-data-briefing
-  - United States Patent and Trademark Office
 ---
 
 Citizen developers are people who do not work in information technology (IT) but have built IT applications. Back in the mid-80s, business people would smuggle in personal computers to run their spreadsheets and word processing applications (anyone remember VisiCalc and Bank Street Writer?) instead of having to rely on data processing departments. Today, citizen developers use <a href="http://www.zdnet.com/article/the-advent-of-the-citizen-developer/" target="_blank">no-code or low-code services such as IFTTT (If This Then That) or QuickBase</a> to build their business apps. {{< legacy-img src="2016/02/600-x-400-Hands-typing-keyboard-Applications-Maxsattana-iStock-Thinkstock-476157656.jpg" alt="Hands typing on a keyboard and floating application icons." caption="" >}} 

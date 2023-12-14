@@ -30,7 +30,6 @@ topics:
   - research
   - united-states-department-of-defense
   - united-states-department-of-energy
-  - united-states-department-of-transportation
   - VA
 ---
 

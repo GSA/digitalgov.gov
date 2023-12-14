@@ -12,7 +12,6 @@ topics:
   - crowdsourcing
   - dhs
   - recaps
-  - united-states-department-of-homeland-security
 
 ---
 

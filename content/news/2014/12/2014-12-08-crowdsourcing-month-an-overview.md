@@ -32,11 +32,8 @@ topics:
   - national-archives-and-records-administration
   - national-science-foundation
   - nsf
-  - us-agency-for-international-development
   - united-states-department-of-defense
   - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-transportation
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}} 

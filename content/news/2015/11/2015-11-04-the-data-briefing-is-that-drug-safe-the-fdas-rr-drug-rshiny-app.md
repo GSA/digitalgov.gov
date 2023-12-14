@@ -9,7 +9,6 @@ topics:
   - data
   - fda
   - the-data-briefing
-  - United States Patent and Trademark Office
 ---
 
 I (virtually) attended the Third Annual Safety Datapalooza last Thursday and was greatly impressed by the projects and initiatives for public safety. This was a great event, and I am glad that live streaming was provided for those who could not attend in person but have a great interest in using government data for disaster preparedness. If you have not already visited <a href="http://www.data.gov/disasters/" target="_blank">disasters.data.gov</a>, please do. It is a great portal for data, apps, and tools for developers who want to help build vitally-needed public safety resources. {{< legacy-img src="2015/11/600-x-402-Colorful-tablets-with-capsules-ulkan-iStock-Thinkstock-467982355.jpg" alt="Various colorful pills." caption="" >}} 

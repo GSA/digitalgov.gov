@@ -10,7 +10,6 @@ topics:
   - dhs
   - firstnet
   - the-content-corner
-  - united-states-department-of-homeland-security
   - VA
 ---
 

@@ -9,7 +9,6 @@ topics:
   - challenges
   - challenges-and-prize-competitions
   - HUD
-  - united-states-department-of-housing-and-urban-development
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Building-under-construction-with-crane-green-bluebay2014-iStock-Thinkstock-494558479.jpg" alt="Concept graphic for housing construction, planning and costs." caption="" >}} 

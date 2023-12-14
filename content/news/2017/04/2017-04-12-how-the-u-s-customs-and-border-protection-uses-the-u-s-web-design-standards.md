@@ -12,7 +12,6 @@ topics:
   - dhs
   - mobile
   - responsive-web-design
-  - united-states-department-of-homeland-security
   - user-experience
   
 ---

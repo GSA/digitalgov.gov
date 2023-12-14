@@ -10,7 +10,6 @@ topics:
   - data
   - api
   - OPM
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

@@ -12,7 +12,6 @@ topics:
   - Federal Mobile Products Registry
   - native-app
   - thursday-mobile-products
-  - united-states-geological-survey
  
 ---
 

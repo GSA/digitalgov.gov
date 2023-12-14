@@ -16,7 +16,6 @@ topics:
   - data
   - internet-of-things
   - the-data-briefing
-  - United States Patent and Trademark Office
   - user-experience
   - virtual-reality
   - virtual-augmented-reality-community

@@ -18,7 +18,6 @@ topics:
   - SSA
   - the-united-states-social-security-administration
   - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
 ---
 
 > <div class="field-label">

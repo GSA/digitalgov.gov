@@ -13,7 +13,6 @@ topics:
   - artificial intelligence
   - customer-experience
   - multilingual
-  - US Citizenship and Immigration Service
   - user-centered-design
   - user-experience
   

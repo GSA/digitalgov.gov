@@ -10,7 +10,6 @@ topics:
   - BLS
   - Census
   - SEC
-  - us-bureau-of-labor-statistics
   - united-states-census-bureau
   - wednesday-api-briefing
 ---

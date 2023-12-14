@@ -12,7 +12,6 @@ topics:
   - mobile-gov
   - thursday-mobile-products
   - us-department-of-labor
-  - united-states-department-of-health-and-human-services
 ---
 
 [{{< legacy-img src="2013/03/heart-health-mobile-app-screen.jpg" alt="Heart Healthy App Screen showing completed mini game with scores for four different sections." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/03/heart-health-mobile-app-screen.jpg)One way federal agencies create Mobile Gov products is through third party development. Some agencies use platforms like [Challenge.gov](http://challenge.gov/) to get the word out to developers and there have been 3 mobile app challenge awards so far this year.

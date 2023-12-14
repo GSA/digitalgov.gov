@@ -18,7 +18,6 @@ topics:
   - mobile-gov
   - Nuclear Regulatory Commission
   - thursday-mobile-products
-  - united-states-department-of-health-and-human-services
  
 ---
 

@@ -15,7 +15,6 @@ topics:
   - nih
   - NLM
   - open-source
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" >}}Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a [Google Hangout](https://plus.google.com/events/ce9jgn3qt5p8djudq0eekreja1k) to talk about developing with the API, data, and open source code from Pillbox.

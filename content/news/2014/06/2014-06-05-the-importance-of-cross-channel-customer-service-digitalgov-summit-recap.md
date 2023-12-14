@@ -20,7 +20,6 @@ topics:
   - HHS
   - NCI
   - recaps
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" caption="" >}} 

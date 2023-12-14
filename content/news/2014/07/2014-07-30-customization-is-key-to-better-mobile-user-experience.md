@@ -18,7 +18,6 @@ topics:
   - mobile-ux-guideline-3
   - nps
   - smithsonian-institution
-  - united-states-department-of-health-and-human-services
   - user-experience
 
 

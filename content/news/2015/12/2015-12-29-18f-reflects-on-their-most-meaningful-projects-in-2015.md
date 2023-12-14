@@ -25,7 +25,6 @@ topics:
   - OMB
   - open-data
   - OSTP
-  - US Citizenship and Immigration Service
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

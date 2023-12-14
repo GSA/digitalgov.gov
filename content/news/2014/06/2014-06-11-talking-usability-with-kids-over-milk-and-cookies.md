@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - BLS
-  - us-bureau-of-labor-statistics
   - us-department-of-labor
 ---
 

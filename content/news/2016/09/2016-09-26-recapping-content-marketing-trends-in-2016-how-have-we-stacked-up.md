@@ -23,7 +23,6 @@ topics:
   - national-archives-and-records-administration
   - social-media
   - the-content-corner
-  - united-states-department-of-health-and-human-services
   - white-house
 ---
 

@@ -13,7 +13,6 @@ topics:
   - DOT
   - NIST
   - recaps
-  - united-states-department-of-transportation
 
 ---
 

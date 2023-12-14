@@ -23,7 +23,6 @@ topics:
   - NOAA
   - open-government
   - united-states-department-of-energy
-  - united-states-geological-survey
   - wednesday-api-briefing
 ---
 

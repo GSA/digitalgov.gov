@@ -17,8 +17,6 @@ topics:
   - Internal Revenue Service
   - IRS
   - open-and-structured-content-models
-  - US Citizenship and Immigration Service
-  - united-states-department-of-health-and-human-services
   - white-house
 
 ---

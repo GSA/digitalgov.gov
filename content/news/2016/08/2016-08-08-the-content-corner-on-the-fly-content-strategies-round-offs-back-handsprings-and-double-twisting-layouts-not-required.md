@@ -16,7 +16,6 @@ topics:
   - content-strategy
   - department-of-commerce
   - the-content-corner
-  - United States Patent and Trademark Office
 
 ---
 

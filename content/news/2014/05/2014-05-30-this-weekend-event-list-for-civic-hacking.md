@@ -33,9 +33,6 @@ topics:
   - smithsonian-institution
   - us-department-of-labor
   - united-states-census-bureau
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-housing-and-urban-development
-  - united-states-department-of-transportation
   - white-house
 ---
 

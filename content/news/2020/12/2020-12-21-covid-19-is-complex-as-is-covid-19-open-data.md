@@ -15,7 +15,6 @@ topics:
   - data
   - open-data
   - hhs
-  - united-states-department-of-health-and-human-services
 slug: covid-19-is-complex-as-is-covid-19-open-data
 # Controls how this page appears across the site
 # 0 -- hidden

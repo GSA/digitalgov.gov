@@ -17,8 +17,6 @@ topics:
   - OPM
   - us-department-of-labor
   - united-states-census-bureau
-  - united-states-geological-survey
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

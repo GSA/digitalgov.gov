@@ -10,7 +10,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products
-  - united-states-department-of-health-and-human-services
 ---
 
 The [**Affordable Care Act**](http://www.hhs.gov/healthcare/rights/) (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements.

@@ -18,7 +18,6 @@ topics:
   - national-science-foundation
   - nsf
   - recaps
-  - united-states-department-of-housing-and-urban-development
   - white-house-office-of-science-and-technology-policy
 ---
 

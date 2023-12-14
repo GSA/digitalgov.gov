@@ -11,7 +11,6 @@ topics:
   - social-media
   - HHS
   - recaps
-  - united-states-department-of-health-and-human-services
 ---
 
 Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful?

@@ -14,7 +14,6 @@ topics:
   - mobile-apps
   - OPM
   - peace-corps
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

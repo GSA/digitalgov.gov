@@ -25,10 +25,7 @@ topics:
   - nsf
   - peace-corps
   - SBA
-  - us-agency-for-international-development
   - united-states-census-bureau
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-housing-and-urban-development
 ---
 
 You should be on this list—the current federal government participants in the <a title="civic hack day" href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a>.

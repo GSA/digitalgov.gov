@@ -11,7 +11,6 @@ topics:
   - HHS
   - mobile-ux-guideline-5
   - responsive-web-design
-  - united-states-department-of-health-and-human-services
 ---
 
 This year, we moved [HHS.gov](http://www.hhs.gov) to a responsive template to ensure that users accessing our site in a mobile environment had the best possible experience. Our department faced several challenges in moving a site the size of HHS.gov into a responsive template and one of those challenges surrounded our need to make tables work in a responsive environment.

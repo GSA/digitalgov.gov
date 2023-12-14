@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - challenges-and-prize-competitions
   - epa
-  - us-agency-for-international-development
 ---
 
 We’ve heard the phrase a million times: Nobody does it alone.

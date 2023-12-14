@@ -24,7 +24,6 @@ topics:
   - technology-transformation-services
   - the-united-states-social-security-administration
   - tts
-  - us-citizenship-and-immigration-service
   - us-department-of-labor
   - user-experience
   - our-work

@@ -17,7 +17,6 @@ topics:
   - accessibility
   - diversity-equity-and-inclusion
   - acquisition
-  - us-access-board
   - product-management
   - section-508
   - strategy

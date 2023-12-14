@@ -32,7 +32,6 @@ topics:
   - open-government
   - OSTP
   - SBA
-  - us-agency-for-international-development
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

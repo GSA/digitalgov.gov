@@ -38,13 +38,9 @@ topics:
   - peace-corps
   - SBA
   - smithsonian-institution
-  - us-coast-guard
   - us-department-of-labor
   - united-states-army
   - united-states-census-bureau
-  - united-states-department-of-homeland-security
-  - united-states-department-of-transportation
-  - united-states-geological-survey
   - white-house-office-of-science-and-technology-policy
 
 ---

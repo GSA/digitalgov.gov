@@ -10,7 +10,6 @@ topics:
   - plain-language
   - transportation-security-administration
   - TSA
-  - US Citizenship and Immigration Service
   - user-experience
 ---
 

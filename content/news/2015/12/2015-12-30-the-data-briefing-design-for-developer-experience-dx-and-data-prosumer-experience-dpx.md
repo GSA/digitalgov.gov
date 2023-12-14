@@ -10,7 +10,6 @@ topics:
   - api
   - data
   - the-data-briefing
-  - United States Patent and Trademark Office
   - user-experience
   
 ---

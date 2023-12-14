@@ -10,7 +10,6 @@ topics:
   - challenge-gov
   - FCPCCS
   - GitHub
-  - united-states-geological-survey
 ---
 
 {{< legacy-img src="2014/09/250-x-355-NJ\_Loc3\_Mantoloking_Breach-lg.jpg" alt="Before and after photos, New Jersey, Mantoloking Breach" caption="" >}} 

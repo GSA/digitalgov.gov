@@ -16,7 +16,6 @@ topics:
   - open-and-structured-content-models
   - recaps
   - structured-content
-  - united-states-department-of-health-and-human-services
 ---
 
 Structuring your content for portability across media platforms gives your agency the ability to not only place your message on other properties, but gives you the assurance that your information will always be up-to-date across multiple platforms. This ability is never more important than during an emergency, whether it is a natural disaster or a health crisis such as the [Zika virus disease](http://www.cdc.gov/zika/).

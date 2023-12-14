@@ -15,7 +15,6 @@ topics:
   - drupal
   - HHS
   - open-and-structured-content-models
-  - united-states-department-of-health-and-human-services
 ---
 
 > **Related Event**: [Create Once, Publish Everywhere Applied—HHS Content Models and Portability]({{< tmp "events/create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}}), Tuesday, April 18, 2017; [register here](https://attendee.gotowebinar.com/register/6221497867021325313).

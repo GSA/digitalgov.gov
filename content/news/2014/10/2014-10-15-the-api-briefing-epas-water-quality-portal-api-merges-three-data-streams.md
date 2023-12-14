@@ -10,8 +10,6 @@ topics:
   - api
   - epa
   - OPM
-  - united-states-geological-survey
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

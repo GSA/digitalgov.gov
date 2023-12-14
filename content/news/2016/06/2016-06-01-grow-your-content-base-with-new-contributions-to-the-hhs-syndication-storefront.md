@@ -11,7 +11,6 @@ topics:
   - HHS
   - national-institutes-of-health
   - nih
-  - united-states-department-of-health-and-human-services
 ---
 
 We have written about [syndication]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}) and its [successes]({{< ref "2016-02-04-does-content-syndication-work.md" >}}) before.

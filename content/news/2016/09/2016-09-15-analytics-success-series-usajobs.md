@@ -16,7 +16,6 @@ topics:
   - digital-analytics-program
   - metrics
   - OPM
-  - united-states-office-of-personnel-management
   - user-experience
   
 ---

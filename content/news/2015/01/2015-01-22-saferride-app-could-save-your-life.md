@@ -14,7 +14,6 @@ topics:
   - terms-of-service
   - thursday-mobile-products
   - tos
-  - united-states-department-of-transportation
 ---
 
 {{< legacy-img-right src="2015/01/250-x-410-NHTSA-SaferRide-home-screen-buttons.jpg" alt="Screenshot of the NHTSA Safer Ride app's home screen with 3 large red buttons; Get Taxi, Call Friend, and Where Am I.">}}

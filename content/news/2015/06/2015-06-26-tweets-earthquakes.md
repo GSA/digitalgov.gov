@@ -12,7 +12,6 @@ topics:
   - data
   - data-visualization
   - social-media
-  - united-states-geological-survey
 ---
 
 {{< legacy-img src="2015/06/600-x-324-Seismograph-Earthquake-Activity-allanswart-iStock-Thinkstock-501266397.jpg" alt="A seismograph showing earthquake activity" caption="" >}} 

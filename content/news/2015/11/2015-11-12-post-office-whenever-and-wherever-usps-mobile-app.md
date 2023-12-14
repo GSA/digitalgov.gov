@@ -12,7 +12,6 @@ topics:
   - SSA
   - the-united-states-social-security-administration
   - thursday-mobile-products
-  - United States Postal Service
 
 ---
 

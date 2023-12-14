@@ -11,7 +11,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - HHS
   - NIST
-  - united-states-department-of-health-and-human-services
 ---
 
 Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin.

@@ -15,7 +15,6 @@ topics:
   - socialgov-community
   - terms-of-service
   - tos
-  - united-states-department-of-health-and-human-services
 
 ---
 

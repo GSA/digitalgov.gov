@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - open-data
   - top-tasks
-  - us-agency-for-international-development
   - usability
   - user-experience
   

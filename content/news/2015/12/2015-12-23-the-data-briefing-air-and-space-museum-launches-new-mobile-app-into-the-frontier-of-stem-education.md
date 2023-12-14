@@ -13,7 +13,6 @@ topics:
   - NPS
   - smithsonian-institution
   - the-data-briefing
-  - United States Patent and Trademark Office
 ---
 
 The Smithsonian Institution’s Air and Space Museum just released a new educational mobile app, <a href="http://airandspace.si.edu/explore-and-learn/mobile-missions/index.cfm" target="_blank">Mobile Missions</a>. From the website:

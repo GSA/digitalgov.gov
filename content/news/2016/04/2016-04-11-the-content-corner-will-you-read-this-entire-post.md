@@ -15,7 +15,6 @@ topics:
   - plain-writing-act-of-2010
   - social-media
   - the-content-corner
-  - united-states-department-of-homeland-security
 ---
 
 Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. {{< legacy-img src="2016/04/600-x-425-Internet-Life-Wahyu-b.-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}}

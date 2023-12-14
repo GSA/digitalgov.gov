@@ -12,7 +12,6 @@ topics:
   - FAFSA
   - federal-emergency-management-agency
   - fema
-  - US Citizenship and Immigration Service
 ---
 
 {{< legacy-img src="2015/10/600-x-328-Birds-with-Yellow-and-Blue-Speech-Bubbles-Ken-Drysdale-iStock-Thinkstock-480553737.jpg" alt="Birds with Yellow and Blue Speech Bubbles" caption="" >}} 

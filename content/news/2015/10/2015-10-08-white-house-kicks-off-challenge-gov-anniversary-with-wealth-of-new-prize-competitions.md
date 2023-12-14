@@ -15,7 +15,6 @@ topics:
   - nasa
   - NPS
   - OSTP
-  - united-states-geological-survey
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

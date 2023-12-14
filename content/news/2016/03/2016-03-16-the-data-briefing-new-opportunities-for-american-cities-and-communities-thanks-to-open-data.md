@@ -14,7 +14,6 @@ topics:
   - internet-of-things
   - open-data
   - the-data-briefing
-  - United States Patent and Trademark Office
   - white-house
 ---
 

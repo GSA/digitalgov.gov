@@ -22,7 +22,6 @@ topics:
   - open
   - open-data
   - open-source
-  - United States Patent and Trademark Office
 ---
 
 Improving the way the government delivers information technology (IT) solutions to its customers isn’t just a goal, it’s our mission. We at the U.S. Patent and Trademark Office (USPTO) know that by publishing our open source code, the public can help us come up with new and better IT solutions. In advance of the new <a class="ext extlink" href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf" target="_blank">Federal Source Code Policy</a> and in support of the Administration’s <a class="ext extlink" href="https://www.whitehouse.gov/open" target="_blank">Open Government Initiative</a>, we have been publishing <a class="ext extlink" href="https://github.com/USPTO/TrademarkStatusApp" target="_blank">content on GitHub</a> for over a year, and it now includes source code for a mobile application for trademarks.

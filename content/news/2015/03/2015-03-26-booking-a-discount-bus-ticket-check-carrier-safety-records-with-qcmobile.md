@@ -11,7 +11,6 @@ topics:
   - mobile
   - mobile-apps
   - thursday-mobile-products
-  - united-states-department-of-transportation
  
 ---
 

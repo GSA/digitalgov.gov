@@ -12,7 +12,6 @@ topics:
   - analytics
   - data
   - OPM
-  - united-states-office-of-personnel-management
 
 ---
 

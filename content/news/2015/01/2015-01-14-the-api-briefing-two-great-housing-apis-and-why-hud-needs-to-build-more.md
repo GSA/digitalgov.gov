@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - HUD
-  - united-states-department-of-housing-and-urban-development
   - wednesday-api-briefing
 ---
 

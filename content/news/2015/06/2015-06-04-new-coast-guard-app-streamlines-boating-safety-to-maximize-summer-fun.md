@@ -12,7 +12,6 @@ topics:
   - mobile-apps
   - native-app
   - thursday-mobile-products
-  - us-coast-guard
  
 ---
 
