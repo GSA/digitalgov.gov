@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - 18f
-  - fedramp
+  - security
   - gsa
   - infrastructure
   - our-work

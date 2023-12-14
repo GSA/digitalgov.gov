@@ -21,7 +21,7 @@ topics:
   - budgeting-and-performance
   - FAS
   - federal-acquisition-service
-  - fedramp
+  - security
   - innovation
   - security
   - tts

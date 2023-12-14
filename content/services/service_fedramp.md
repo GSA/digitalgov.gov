@@ -32,6 +32,6 @@ topics:
   - cloud
   - security
   - product-management
-  - fedramp
+  - security
 
 ---

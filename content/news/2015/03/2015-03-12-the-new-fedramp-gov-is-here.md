@@ -11,7 +11,7 @@ topics:
   - cloud
   - dap
   - digital-analytics-program
-  - fedramp
+  - security
   - gsa
   - responsive-web-design
   - sites

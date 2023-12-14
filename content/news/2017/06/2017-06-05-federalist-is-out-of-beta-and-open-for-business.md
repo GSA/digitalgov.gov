@@ -15,7 +15,7 @@ topics:
   - cloud-gov
   - CMS
   - content-management-system
-  - fedramp
+  - security
   - gsa
   - security
   - us-general-services-administration
