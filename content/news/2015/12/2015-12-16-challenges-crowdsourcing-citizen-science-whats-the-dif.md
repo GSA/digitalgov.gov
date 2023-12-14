@@ -28,7 +28,6 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - prizes-and-competitions
-  - US Department of Agriculture
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - united-states-geological-survey

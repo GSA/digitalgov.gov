@@ -18,7 +18,6 @@ topics:
   - MCC
   - nasa
   - open-data
-  - us-department-of-education
   - us-department-of-labor
   - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office

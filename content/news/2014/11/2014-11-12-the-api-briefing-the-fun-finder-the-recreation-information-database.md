@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - US Department of Agriculture
   - wednesday-api-briefing
 ---
 

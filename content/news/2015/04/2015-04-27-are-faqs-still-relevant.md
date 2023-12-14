@@ -14,7 +14,6 @@ topics:
   - Export-Import Bank of the United States
   - government-contact-centers
   - peace-corps
-  - us-digital-service
   - user-centered-design
   - user-experience
   - user-experience-community-of-practice

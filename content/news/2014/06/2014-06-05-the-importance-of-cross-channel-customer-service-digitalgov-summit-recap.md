@@ -20,7 +20,6 @@ topics:
   - HHS
   - NCI
   - recaps
-  - us-department-of-education
   - united-states-department-of-health-and-human-services
 ---
 

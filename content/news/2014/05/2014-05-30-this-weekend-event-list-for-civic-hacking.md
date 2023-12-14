@@ -31,7 +31,6 @@ topics:
   - NREL
   - nsf
   - smithsonian-institution
-  - us-department-of-education
   - us-department-of-labor
   - united-states-census-bureau
   - united-states-department-of-health-and-human-services

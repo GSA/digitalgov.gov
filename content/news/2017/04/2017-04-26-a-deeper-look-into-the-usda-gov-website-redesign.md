@@ -16,7 +16,6 @@ topics:
   - architecture
   - content
   - mobile-friendly
-  - US Department of Agriculture
 ---
 
 We hope you are finding it easier to get the information you need on USDA.gov following the launch of our site redesign in March. We’ve already welcomed over 1 million visitors to the new site and we are pleased with the positive feedback we’ve received thus far.

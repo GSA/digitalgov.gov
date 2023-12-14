@@ -10,7 +10,6 @@ topics:
   - design
   - monthly-theme
   - the-data-briefing
-  - US Department of Agriculture
   - user-experience
   
 ---

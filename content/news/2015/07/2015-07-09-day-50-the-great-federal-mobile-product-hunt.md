@@ -15,7 +15,6 @@ topics:
   - SAMHSA
   - thursday-mobile-products
   - us-coast-guard
-  - us-department-of-veterans-affairs
  
 ---
 

@@ -12,7 +12,6 @@ topics:
   - DOJ
   - terms-of-service
   - tos
-  - us-department-of-justice
   - usability
 ---
 

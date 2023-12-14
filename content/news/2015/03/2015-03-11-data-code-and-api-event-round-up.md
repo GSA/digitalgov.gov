@@ -24,7 +24,6 @@ topics:
   - open-data
   - recaps
   - responsive-web-design
-  - us-department-of-state
   - white-house
 ---
 

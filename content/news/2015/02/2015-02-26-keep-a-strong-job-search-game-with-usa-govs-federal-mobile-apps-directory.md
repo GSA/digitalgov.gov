@@ -10,8 +10,6 @@ topics:
   - Internal Revenue Service
   - IRS
   - thursday-mobile-products
-  - us-department-of-justice
-  - us-department-of-state
  
 ---
 

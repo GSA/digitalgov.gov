@@ -15,7 +15,6 @@ topics:
   - code
   - draft-web-design-standards
   - open-source
-  - us-digital-service
   - user-experience
   
 ---

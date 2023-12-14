@@ -10,7 +10,6 @@ topics:
   - a-b-testing
   - content-strategy
   - social-media
-  - us-department-of-veterans-affairs
   - user-centered-design
   - user-experience
   - VA

@@ -17,7 +17,6 @@ topics:
   - federal-emergency-management-agency
   - fema
   - OPM
-  - US Department of Agriculture
   - united-states-office-of-personnel-management
 ---
 

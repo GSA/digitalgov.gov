@@ -27,8 +27,6 @@ topics:
   - ODNI
   - peace-corps
   - socialgov-community
-  - us-department-of-education
-  - us-department-of-the-interior
   - united-states-department-of-health-and-human-services
 ---
 

@@ -7,7 +7,6 @@ summary: Why I returned to government service, how I brought my tech experience
 # See all topics at https://digital.gov/topics
 topics:
   - pif
-  - us-department-of-veterans-affairs
   - presidential-innovation-fellows
   - va
   - professional-development

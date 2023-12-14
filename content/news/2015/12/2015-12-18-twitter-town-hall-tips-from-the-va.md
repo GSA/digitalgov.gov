@@ -7,7 +7,6 @@ authors:
   - melodee-mercer
 topics:
   - social-media
-  - us-department-of-veterans-affairs
   - VA
 ---
 

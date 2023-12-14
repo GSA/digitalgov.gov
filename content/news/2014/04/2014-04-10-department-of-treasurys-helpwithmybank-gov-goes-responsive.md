@@ -8,7 +8,6 @@ topics:
   - mobile-first
   - responsive-web-design
   - thursday-mobile-products
-  - us-department-of-the-treasury
  
 ---
 

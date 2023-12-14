@@ -7,9 +7,7 @@ authors:
   - jini-ryan
 topics:
   - video
-  - us-customs-and-border-protection
   - epa
-  - US Customs and Border Protection
 ---
 
 {{< legacy-img src="2014/05/600-x-400-Video-Shoot-Common-Mistakes-in-Government-Video.jpg" alt="Outdoor Video Shoot example for Common Mistakes in Government Video" >}}

@@ -17,7 +17,6 @@ topics:
   - mobile
   - open-data
   - the-data-briefing
-  - us-department-of-veterans-affairs
   - VA
   - va-center-for-innovation
   - VACI

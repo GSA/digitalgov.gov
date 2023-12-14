@@ -11,7 +11,6 @@ topics:
   - Library of Congress
   - LOC
   - national-archives-and-records-administration
-  - us-department-of-state
   - united-states-department-of-defense
 
 ---

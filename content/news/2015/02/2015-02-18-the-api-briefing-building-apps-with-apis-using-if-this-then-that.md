@@ -9,7 +9,6 @@ topics:
   - api
   - api
   - terms-of-service
-  - US Department of Agriculture
   - wednesday-api-briefing
 ---
 

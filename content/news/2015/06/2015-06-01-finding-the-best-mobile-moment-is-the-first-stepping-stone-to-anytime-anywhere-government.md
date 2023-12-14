@@ -15,7 +15,6 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - OSHA
-  - us-department-of-veterans-affairs
   - VA
 ---
 

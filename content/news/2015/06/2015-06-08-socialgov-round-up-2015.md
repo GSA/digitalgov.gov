@@ -23,7 +23,6 @@ topics:
   - socialgov-community
   - terms-of-service
   - tos
-  - us-department-of-the-interior
   - united-states-department-of-health-and-human-services
 ---
 

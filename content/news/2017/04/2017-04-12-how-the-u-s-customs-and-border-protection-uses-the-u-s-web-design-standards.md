@@ -9,11 +9,9 @@ topics:
   - design
   - 18f
   - accessibility
-  - us-customs-and-border-protection
   - dhs
   - mobile
   - responsive-web-design
-  - US Customs and Border Protection
   - united-states-department-of-homeland-security
   - user-experience
   

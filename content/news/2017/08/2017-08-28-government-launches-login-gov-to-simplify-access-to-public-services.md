@@ -12,7 +12,6 @@ authors:
 topics:
   - product-management
   - 18f
-  - us-customs-and-border-protection
   - login-gov
   - customer-service
   - customer-experience
@@ -26,10 +25,7 @@ topics:
   - the-united-states-social-security-administration
   - tts
   - us-citizenship-and-immigration-service
-  - us-customs-and-border-protection
   - us-department-of-labor
-  - us-department-of-state
-  - us-digital-service
   - user-experience
   - our-work
   

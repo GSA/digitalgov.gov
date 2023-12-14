@@ -11,7 +11,6 @@ summary: Personas are tools your agency can use to learn about your end users
 topics:
   - HHS
   - personas
-  - US Department of Agriculture
   - united-states-department-of-health-and-human-services
   - user-experience
 # See all authors at https://digital.gov/authors

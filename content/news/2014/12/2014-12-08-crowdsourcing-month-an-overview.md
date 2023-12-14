@@ -33,7 +33,6 @@ topics:
   - national-science-foundation
   - nsf
   - us-agency-for-international-development
-  - us-department-of-state
   - united-states-department-of-defense
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services

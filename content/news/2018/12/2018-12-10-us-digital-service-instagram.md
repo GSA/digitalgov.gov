@@ -6,7 +6,6 @@ summary: ''
 authors:
   - jeremyzilar
 topics:
-  - us-digital-service
   - social-media
 
 source: 'usds'

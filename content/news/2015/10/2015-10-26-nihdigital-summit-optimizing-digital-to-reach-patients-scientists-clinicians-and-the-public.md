@@ -14,7 +14,6 @@ topics:
   - national-institutes-of-health
   - NCI
   - nih
-  - US Department of Agriculture
   - united-states-department-of-health-and-human-services
 ---
 

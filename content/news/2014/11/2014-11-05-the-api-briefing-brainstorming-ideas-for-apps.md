@@ -11,7 +11,6 @@ topics:
   - mobile
   - data-gov
   - DOT
-  - US Department of Agriculture
   - united-states-department-of-transportation
   - wednesday-api-briefing
 ---

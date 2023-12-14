@@ -10,7 +10,6 @@ topics:
   - dap
   - digital-analytics-program
   - responsive-web-design
-  - us-department-of-education
 ---
 
 You may have noticed we launched our [new Ed.gov homepage](http://www.ed.gov/) today. This completes the third and final phase of our visual refresh for our main website. We released the [second phase of the refresh](http://www.ed.gov/blog/2014/06/ed-gov-has-a-new-look/) back in June.

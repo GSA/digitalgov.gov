@@ -12,7 +12,6 @@ topics:
   - open-opportunities-program
   - transportation-security-administration
   - TSA
-  - US Department of Agriculture
   - united-states-department-of-transportation
 
 ---

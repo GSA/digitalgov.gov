@@ -10,7 +10,6 @@ topics:
   - data-gov
   - DOI
   - FWS
-  - us-department-of-the-interior
 ---
 
 In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara National Wildlife Refuge, observed:

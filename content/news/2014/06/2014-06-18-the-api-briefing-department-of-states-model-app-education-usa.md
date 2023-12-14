@@ -11,7 +11,6 @@ topics:
   - mobile
   - user-experience
   - mobile-apps
-  - us-department-of-state
   - wednesday-api-briefing
 ---
 

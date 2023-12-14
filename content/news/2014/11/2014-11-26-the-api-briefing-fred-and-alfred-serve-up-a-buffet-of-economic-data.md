@@ -10,7 +10,6 @@ topics:
   - code
   - api
   - Federal Reserve Board
-  - US Department of Agriculture
   - wednesday-api-briefing
 ---
 

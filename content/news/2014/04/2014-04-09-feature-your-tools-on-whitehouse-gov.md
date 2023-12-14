@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - product-management
-  - US Department of Agriculture
-  - us-department-of-education
   - united-states-department-of-energy
   - white-house
 ---

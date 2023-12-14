@@ -12,7 +12,6 @@ topics:
   - DOL
   - mobile-gov-community-of-practice
   - us-department-of-labor
-  - us-department-of-state
   - united-states-census-bureau
   - united-states-department-of-defense
 ---

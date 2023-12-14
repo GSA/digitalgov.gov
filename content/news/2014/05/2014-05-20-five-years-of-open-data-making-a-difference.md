@@ -13,7 +13,6 @@ topics:
   - DOT
   - GitHub
   - open-data
-  - US Department of Agriculture
   - united-states-department-of-transportation
 ---
 

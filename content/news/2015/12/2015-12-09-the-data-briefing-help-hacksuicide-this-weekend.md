@@ -14,7 +14,6 @@ topics:
   - mobile-apps
   - open-data
   - the-data-briefing
-  - us-department-of-veterans-affairs
   - United States Patent and Trademark Office
 ---
 

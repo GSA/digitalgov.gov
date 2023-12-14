@@ -17,7 +17,6 @@ topics:
   - mobile-ux-guideline-5
   - responsive-web-design
   - thursday-mobile-products
-  - us-department-of-veterans-affairs
   - united-states-department-of-defense
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services

@@ -14,7 +14,6 @@ topics:
   - recaps
   - socialgov-community
   - us-department-of-labor
-  - us-department-of-state
   - world-bank
 ---
 

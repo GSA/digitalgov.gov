@@ -10,7 +10,6 @@ topics:
   - mobile-gov
   - national-institutes-of-health
   - nih
-  - us-department-of-state
 ---
 
 {{< legacy-img-right src="2012/07/250-x-142-save-the-date-calendar.jpg" alt="Calendar with a date circled in red" >}}

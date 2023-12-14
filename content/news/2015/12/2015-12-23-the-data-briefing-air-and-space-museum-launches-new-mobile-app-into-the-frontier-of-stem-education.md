@@ -13,8 +13,6 @@ topics:
   - NPS
   - smithsonian-institution
   - the-data-briefing
-  - us-department-of-education
-  - us-department-of-the-interior
   - United States Patent and Trademark Office
 ---
 

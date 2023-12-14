@@ -10,7 +10,6 @@ topics:
   - data-gov
   - DOL
   - open-data
-  - US Department of Agriculture
   - us-department-of-labor
 ---
 

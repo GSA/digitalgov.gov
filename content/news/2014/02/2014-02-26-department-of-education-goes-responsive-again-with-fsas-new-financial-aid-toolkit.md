@@ -9,7 +9,6 @@ topics:
   - mobile-gov
   - responsive-web-design
   - thursday-mobile-products
-  - us-department-of-education
 ---
 
 Money for college? It&#8217;s never too early &#8212; or too late, for that matter &#8212; to start schooling oneself in the possibilities of federal financial aid.

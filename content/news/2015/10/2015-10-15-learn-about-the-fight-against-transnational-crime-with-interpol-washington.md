@@ -10,7 +10,6 @@ topics:
   - DOJ
   - ICE
   - thursday-mobile-products
-  - us-department-of-justice
 ---
 
 {{< legacy-img src="2015/10/250-x-444-INTERPOL-Washington-Android-app-home-screen.jpg" alt="INTERPOL Washington Android app's main screen" >}}INTERPOL Washington—What is it? It’s a movie. It’s the latest spy novel&#8230;No, it’s a mobile app from INTERPOL Washington, a component of the U.S. Department of Justice.

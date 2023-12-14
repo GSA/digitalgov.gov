@@ -39,9 +39,7 @@ topics:
   - SBA
   - smithsonian-institution
   - us-coast-guard
-  - us-department-of-education
   - us-department-of-labor
-  - us-department-of-state
   - united-states-army
   - united-states-census-bureau
   - united-states-department-of-homeland-security

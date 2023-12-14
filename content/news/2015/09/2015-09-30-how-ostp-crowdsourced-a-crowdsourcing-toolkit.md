@@ -22,7 +22,6 @@ topics:
   - section-508
   - sites
   - sitesusagov
-  - us-department-of-veterans-affairs
   - VA
   - white-house-office-of-science-and-technology-policy
 ---

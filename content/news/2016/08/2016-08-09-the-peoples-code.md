@@ -18,7 +18,6 @@ topics:
   - OMB
   - open
   - open-data
-  - us-department-of-veterans-affairs
   - VA
   - white-house
 ---

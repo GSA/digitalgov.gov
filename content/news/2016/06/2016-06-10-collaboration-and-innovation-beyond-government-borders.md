@@ -11,7 +11,6 @@ topics:
   - code
   - open-opportunities-program
   - open-source
-  - us-department-of-veterans-affairs
   - VA
 ---
 

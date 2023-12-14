@@ -9,7 +9,6 @@ topics:
   - design
   - user-experience
   - innovation
-  - us-department-of-veterans-affairs
   - user-centered-design
   - VA
   - va-center-for-innovation

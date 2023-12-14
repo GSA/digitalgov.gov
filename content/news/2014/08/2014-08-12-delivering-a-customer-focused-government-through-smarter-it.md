@@ -13,7 +13,6 @@ topics:
   - mobile
   - 18f
   - customer-experience
-  - us-digital-service
 ---
 
 As technology changes, government must change with it to address new challenges and take advantage of new opportunities. This Administration has made important strides in modernizing government so that it serves its constituents more effectively and efficiently, but we know there is much more to do.

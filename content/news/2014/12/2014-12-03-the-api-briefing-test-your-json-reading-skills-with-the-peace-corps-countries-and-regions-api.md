@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - peace-corps
-  - US Department of Agriculture
   - wednesday-api-briefing
 ---
 

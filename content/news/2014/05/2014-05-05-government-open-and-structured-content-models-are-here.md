@@ -33,8 +33,6 @@ topics:
   - SSA
   - structured-content
   - the-united-states-social-security-administration
-  - US Department of Agriculture
-  - us-department-of-education
   - us-department-of-labor
   - united-states-census-bureau
 ---

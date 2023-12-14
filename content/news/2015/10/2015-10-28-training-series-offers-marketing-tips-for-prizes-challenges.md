@@ -11,7 +11,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - epa
   - recaps
-  - us-department-of-education
 ---
 
 {{< legacy-img src="2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}}

@@ -28,9 +28,6 @@ topics:
   - open-government
   - OSTP
   - research
-  - US Department of Agriculture
-  - us-department-of-education
-  - us-department-of-veterans-affairs
   - united-states-department-of-defense
   - united-states-department-of-energy
   - united-states-department-of-transportation

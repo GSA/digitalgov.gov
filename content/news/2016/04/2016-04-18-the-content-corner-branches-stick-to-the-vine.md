@@ -15,7 +15,6 @@ topics:
   - social-media
   - socialgov
   - the-content-corner
-  - us-digital-service
   - united-states-department-of-energy
   - user-experience
 

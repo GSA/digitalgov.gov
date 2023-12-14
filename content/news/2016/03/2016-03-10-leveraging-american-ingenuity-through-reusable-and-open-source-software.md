@@ -17,7 +17,6 @@ topics:
   - Education
   - HUD
   - open-source
-  - us-department-of-education
   - united-states-department-of-housing-and-urban-development
 ---
 

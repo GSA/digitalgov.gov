@@ -11,8 +11,6 @@ topics:
   - Census
   - SEC
   - us-bureau-of-labor-statistics
-  - US Department of Agriculture
-  - us-department-of-the-treasury
   - united-states-census-bureau
   - wednesday-api-briefing
 ---

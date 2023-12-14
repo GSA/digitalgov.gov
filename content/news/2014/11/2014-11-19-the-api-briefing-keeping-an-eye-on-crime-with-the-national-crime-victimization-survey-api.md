@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - Bureau of Justice Statistics
-  - US Department of Agriculture
   - wednesday-api-briefing
 ---
 

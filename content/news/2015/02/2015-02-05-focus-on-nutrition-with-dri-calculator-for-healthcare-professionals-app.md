@@ -11,7 +11,6 @@ topics:
   - ICE
   - native-app
   - thursday-mobile-products
-  - US Department of Agriculture
  
 ---
 

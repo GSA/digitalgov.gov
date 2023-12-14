@@ -33,7 +33,6 @@ topics:
   - OSTP
   - SBA
   - us-agency-for-international-development
-  - US Department of Agriculture
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

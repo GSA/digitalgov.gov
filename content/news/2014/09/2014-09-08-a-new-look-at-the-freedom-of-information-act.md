@@ -18,7 +18,6 @@ topics:
   - OMB
   - open-government
   - OSTP
-  - us-department-of-justice
   - white-house-office-of-science-and-technology-policy
 ---
 

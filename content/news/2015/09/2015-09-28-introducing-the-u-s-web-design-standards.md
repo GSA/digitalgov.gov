@@ -11,7 +11,6 @@ authors:
 topics:
   - design
   - 18f
-  - us-digital-service
   - user-experience
 ---
 

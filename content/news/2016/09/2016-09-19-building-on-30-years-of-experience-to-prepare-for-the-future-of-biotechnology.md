@@ -17,7 +17,6 @@ topics:
   - fda
   - federal-register
   - OSTP
-  - US Department of Agriculture
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

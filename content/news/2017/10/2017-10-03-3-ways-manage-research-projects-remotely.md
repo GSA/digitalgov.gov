@@ -20,7 +20,6 @@ topics:
   - federal-election-commission
   - research
   - sprint
-  - us-department-of-the-interior
   - user-research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428

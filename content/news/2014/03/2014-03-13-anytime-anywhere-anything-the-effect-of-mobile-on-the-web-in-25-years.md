@@ -16,7 +16,6 @@ topics:
   - NOAA
   - open-and-structured-content-models
   - thursday-mobile-products
-  - US Customs and Border Protection
   - us-department-of-labor
 ---
 

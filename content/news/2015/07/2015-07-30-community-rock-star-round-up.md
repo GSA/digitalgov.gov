@@ -22,7 +22,6 @@ topics:
   - socialgov-community
   - SSA
   - trends-on-tuesday
-  - us-department-of-state
   - united-states-census-bureau
   - user-experience
 

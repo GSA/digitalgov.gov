@@ -20,7 +20,6 @@ end_date: 2018-05-24 15:00:00 -0500
 topics: 
   - professional-development
   - state
-  - us-department-of-state
 
 # see all authors at https://digital.gov/authors
 authors: 

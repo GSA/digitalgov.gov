@@ -11,7 +11,6 @@ topics:
   - user-testing-and-research
   - innovation
   - research
-  - us-department-of-veterans-affairs
   - user-centered-design
   - user-experience
   - VA

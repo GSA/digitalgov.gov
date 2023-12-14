@@ -12,7 +12,6 @@ topics:
   - nasa
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - US Department of Agriculture
   - United States Postal Service
   - virtual-augmented-reality-community
   - wednesday-api-briefing

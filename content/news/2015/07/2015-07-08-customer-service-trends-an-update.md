@@ -24,7 +24,6 @@ topics:
   - personas
   - smithsonian-institution
   - social-media
-  - us-department-of-veterans-affairs
   - user-centered-design
   - VA
 ---
