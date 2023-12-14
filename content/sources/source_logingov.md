@@ -35,9 +35,7 @@ weight: 1
 # Topics that best describe this product or service
 topics:
   - security
-  - login-gov
   - product-management
-  - security
   - authentication
   - online-proofing
 

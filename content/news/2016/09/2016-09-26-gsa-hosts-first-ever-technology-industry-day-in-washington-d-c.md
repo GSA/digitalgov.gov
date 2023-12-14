@@ -17,8 +17,6 @@ topics:
   - cloud-gov
   - data
   - budgeting-and-performance
-  - login-gov
-  - budgeting-and-performance
   - FAS
   - Federal Acquisition Service
   - security
