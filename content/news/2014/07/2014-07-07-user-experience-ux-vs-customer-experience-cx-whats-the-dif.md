@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - user-experience
   - customer-experience
-  - digitalgov-user-experience-program
+  - user-experience
   - search-engine-optimization
   - user-experience
 ---

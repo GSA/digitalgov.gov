@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - department-of-commerce
-  - digitalgov-user-experience-program
+  - user-experience
   - usability
   - user-experience
 ---

@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - api
-  - digitalgov-user-experience-program
+  - user-experience
   - recaps
   - social-media
   - social-media

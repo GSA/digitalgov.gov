@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - customer-experience
-  - digitalgov-user-experience-program
+  - user-experience
   - user-experience
   
 ---

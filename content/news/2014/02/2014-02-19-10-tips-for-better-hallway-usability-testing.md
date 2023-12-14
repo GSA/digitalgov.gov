@@ -7,7 +7,7 @@ authors:
   - usajobs-team
 topics:
   - user-testing-and-research
-  - digitalgov-user-experience-program
+  - user-experience
   - OPM
   - user-experience
   

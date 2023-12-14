@@ -9,7 +9,7 @@ topics:
   - communities
   - analytics
   - user-experience
-  - digitalgov-user-experience-program
+  - user-experience
   - FAA
   - Federal Aviation Administration
   - gsa

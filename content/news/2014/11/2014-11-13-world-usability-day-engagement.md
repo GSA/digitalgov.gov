@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - user-testing-and-research
-  - digitalgov-user-experience-program
+  - user-experience
   - user-experience
   
 ---

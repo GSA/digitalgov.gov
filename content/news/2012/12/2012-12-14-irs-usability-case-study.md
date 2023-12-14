@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - digitalgov-user-experience-program
+  - user-experience
   - Internal Revenue Service
   - IRS
   - usability

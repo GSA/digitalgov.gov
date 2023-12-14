@@ -10,7 +10,7 @@ topics:
   - trust
   - analytics
   - search
-  - digitalgov-user-experience-program
+  - user-experience
   - plain-language
   - search-engine-optimization
   - usability

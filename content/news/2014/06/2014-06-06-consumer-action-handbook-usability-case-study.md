@@ -12,7 +12,7 @@ topics:
   - design
   - user-testing-and-research
   - user-experience
-  - digitalgov-user-experience-program
+  - user-experience
   - usability
   - usability
   - user-experience

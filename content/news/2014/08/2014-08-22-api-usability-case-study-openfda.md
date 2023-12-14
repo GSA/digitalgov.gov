@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - api
-  - digitalgov-user-experience-program
+  - user-experience
   - fda
   - us-food-and-drug-administration
   - usability

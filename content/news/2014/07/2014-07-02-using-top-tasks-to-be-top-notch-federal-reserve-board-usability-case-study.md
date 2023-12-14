@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - user-experience
-  - digitalgov-user-experience-program
+  - user-experience
   - Federal Reserve Board
   - usability
   - FRB

@@ -8,7 +8,7 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - digitalgov-user-experience-program
+  - user-experience
   - tribal-government
   - usability
   - usability

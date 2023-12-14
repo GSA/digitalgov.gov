@@ -10,7 +10,7 @@ topics:
   - usability
   - usability
   - user-experience
-  - digitalgov-user-experience-program
+  - user-experience
   - user-experience-community-of-practice
   - recaps
   - usability

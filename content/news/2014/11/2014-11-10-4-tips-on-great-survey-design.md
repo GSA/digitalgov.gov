@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - user-testing-and-research
   - customer-satisfaction
-  - digitalgov-user-experience-program
+  - user-experience
   - usability
   - user-experience
   

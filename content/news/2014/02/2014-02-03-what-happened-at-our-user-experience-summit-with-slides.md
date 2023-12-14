@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - digitalgov-user-experience-program
+  - user-experience
   - fda
   - mobile-app-development-program
   - NCI
