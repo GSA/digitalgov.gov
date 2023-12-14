@@ -5,7 +5,7 @@ expirydate: "2021-02-26"
 title: Ramping Up Focus on FedRAMP
 summary: 'After recently celebrating our Fifth Birthday and logo update, the FedRAMP PMO is excited to announce a few more changes to our website in the form of a new blog series and newly created Tips & Cues page. In the interest of communicating information about how to best work with FedRAMP regularly, we will be'
 authors:
-  - security
+  - fedramp
 topics:
   - content
   - security
