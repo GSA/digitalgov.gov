@@ -12,7 +12,7 @@ topics:
   - aoi
   - digitalgov-user-experience-program
   - Federal Reserve Board
-  - first-click testing
+  - usability
   - FRB
   - top-tasks
   - user-experience-community-of-practice

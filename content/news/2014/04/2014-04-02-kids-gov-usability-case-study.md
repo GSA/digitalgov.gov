@@ -6,7 +6,7 @@ summary: 'For a children&#8217;s site, Kids.gov is pretty old&mdash;it was launc
 authors:
   - jonathan-rubin
 topics:
-  - first-click testing
+  - usability
   - prototype
   - usability-case-study
   - user-experience
