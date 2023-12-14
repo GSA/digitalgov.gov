@@ -19,7 +19,7 @@ end_date: 2020-07-15 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - devops
+  - software-engineering
   - cloud
   - cloud-gov
 

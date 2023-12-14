@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - devops
+  - software-engineering
   - product-management
   - the-data-briefing
 

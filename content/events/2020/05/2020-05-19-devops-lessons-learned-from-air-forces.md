@@ -23,7 +23,7 @@ event_platform: google
 # see all topics at https://digital.gov/topics
 topics:  
   - agile
-  - devops
+  - software-engineering
   - professional-development
   - project-management
 

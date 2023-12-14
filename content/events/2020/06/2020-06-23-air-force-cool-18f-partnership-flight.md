@@ -20,7 +20,7 @@ end_date: 2020-06-23 14:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - agile
-  - devops
+  - software-engineering
   - mobile
   - social-media
   - ai

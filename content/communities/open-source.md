@@ -14,7 +14,7 @@ expirydate: 2022-12-16
 # see all topics at https://digital.gov/topics
 topics:
   - software-engineering
-  - devops
+  - software-engineering
   - product-management
   - open-source
 

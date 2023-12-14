@@ -10,7 +10,7 @@ summary: "The practice of operations and development staff participating in the 
 
 # see all topics at https://digital.gov/topics
 topics:
-  - devops
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors:

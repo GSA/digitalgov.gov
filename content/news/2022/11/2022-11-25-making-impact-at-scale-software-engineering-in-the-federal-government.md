@@ -17,7 +17,7 @@ topics:
   - our-work
   - tts
   - 10x
-  - devops
+  - software-engineering
   - software-engineering
   - usagov
 

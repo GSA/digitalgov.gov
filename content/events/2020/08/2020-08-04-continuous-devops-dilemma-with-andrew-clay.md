@@ -19,7 +19,7 @@ end_date: 2020-08-04 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - devops
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors:

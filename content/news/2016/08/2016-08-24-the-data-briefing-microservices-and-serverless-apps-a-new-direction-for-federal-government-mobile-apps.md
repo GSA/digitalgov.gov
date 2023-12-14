@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - data
-  - devops
+  - software-engineering
   - mobile
   - data
   - mobile

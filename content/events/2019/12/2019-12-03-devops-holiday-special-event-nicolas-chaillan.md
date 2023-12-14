@@ -18,7 +18,7 @@ end_date: 2019-12-03 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - devops
+  - software-engineering
   - software-engineering
   - big-data
   - cloud
