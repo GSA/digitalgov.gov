@@ -12,7 +12,7 @@ topics:
   - 18f
   - cloud
   - data
-  - Federal Risk and Authorization Management Program
+  - security
   - fedramp
 ---
 

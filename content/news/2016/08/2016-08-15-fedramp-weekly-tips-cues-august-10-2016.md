@@ -10,7 +10,6 @@ topics:
   - product-management
   - cloud
   - data
-  - Federal Risk and Authorization Management Program
   - fedramp
   - security
 ---
