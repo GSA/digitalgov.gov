@@ -11,7 +11,7 @@ end_date: 2021-06-24 16:00:00 -0500
 topics:
   - design
   - user-centered-design
-  - user-experience-community-of-practice
+  - user-experience
   - user-experience
   - user-research
 # See all authors at https://digital.gov/authors

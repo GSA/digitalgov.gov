@@ -11,7 +11,7 @@ topics:
   - usability
   - user-experience
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
   - recaps
   - usability
   - usability

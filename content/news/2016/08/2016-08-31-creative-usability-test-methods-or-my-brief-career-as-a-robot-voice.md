@@ -14,7 +14,7 @@ topics:
   - usability
   - usagov
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
   - user research
   
 ---

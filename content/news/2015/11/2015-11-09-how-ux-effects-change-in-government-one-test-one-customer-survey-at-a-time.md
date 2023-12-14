@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
   
 ---
 

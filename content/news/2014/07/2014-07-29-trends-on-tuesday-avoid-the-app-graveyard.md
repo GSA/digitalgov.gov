@@ -9,7 +9,7 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - user-experience-community-of-practice
+  - user-experience
   - mobile-apps
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4

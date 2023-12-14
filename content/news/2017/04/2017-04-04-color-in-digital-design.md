@@ -12,7 +12,7 @@ topics:
   - communities
   - uswds
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
   - web-content-managers-forum
 ---
 

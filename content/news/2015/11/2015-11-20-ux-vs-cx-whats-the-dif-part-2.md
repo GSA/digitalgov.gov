@@ -12,7 +12,7 @@ topics:
   - 18f
   - customer-experience
   - usability
-  - user-experience-community-of-practice
+  - user-experience
   - user-experience
   
 ---

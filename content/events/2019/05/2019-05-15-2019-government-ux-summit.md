@@ -26,7 +26,7 @@ venue:
 topics:
   - design
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
 
 ---
 

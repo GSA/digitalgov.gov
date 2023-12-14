@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
   
 ---
 

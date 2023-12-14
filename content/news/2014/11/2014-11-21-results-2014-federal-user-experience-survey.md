@@ -13,7 +13,7 @@ topics:
   - user-testing-and-research
   - user-experience
   - bls
-  - user-experience-community-of-practice
+  - user-experience
   - us-bureau-of-labor-statistics
   - usability
   - user-experience

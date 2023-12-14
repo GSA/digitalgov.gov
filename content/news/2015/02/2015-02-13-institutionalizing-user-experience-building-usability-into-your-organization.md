@@ -17,7 +17,7 @@ topics:
   - prototype
   - usability
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
   
 ---
 

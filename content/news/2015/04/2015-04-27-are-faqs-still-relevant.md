@@ -18,7 +18,7 @@ topics:
   - USDS
   - user-centered-design
   - user-experience
-  - user-experience-community-of-practice
+  - user-experience
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt="Frequently Asked Questions displays as typed on white paper in an old typewriter." caption="" >}} 

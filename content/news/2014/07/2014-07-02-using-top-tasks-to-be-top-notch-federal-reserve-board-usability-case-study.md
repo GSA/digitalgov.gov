@@ -15,7 +15,7 @@ topics:
   - usability
   - FRB
   - top-tasks
-  - user-experience-community-of-practice
+  - user-experience
 
 ---
 
