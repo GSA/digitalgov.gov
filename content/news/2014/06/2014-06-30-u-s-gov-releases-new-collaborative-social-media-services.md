@@ -14,7 +14,7 @@ topics:
   - SBA
   - social-media
   - social-media
-  - socialgov-community
+  - social-media
   - usaid
   - white-house
   - world-bank

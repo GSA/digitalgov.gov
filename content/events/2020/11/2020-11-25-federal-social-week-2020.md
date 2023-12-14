@@ -13,7 +13,7 @@ topics:
   - social-media
   - social-media
   - podcast
-  - socialgov-community
+  - social-media
   - writing
 
 # See all authors at https://digital.gov/authors

@@ -13,7 +13,7 @@ topics:
   - api
   - national-archives-and-records-administration
   - social-media
-  - socialgov-community
+  - social-media
   - us-coast-guard
 ---
 

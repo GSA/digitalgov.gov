@@ -19,7 +19,7 @@ topics:
   - nih
   - open-and-structured-content-models
   - OPM
-  - socialgov-community
+  - social-media
   - SSA
   - trends-on-tuesday
   - us-department-of-state

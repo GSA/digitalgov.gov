@@ -15,7 +15,7 @@ topics:
   - recaps
   - social-media
   - social-media
-  - socialgov-community
+  - social-media
   - usa-gov
   - webinar
 

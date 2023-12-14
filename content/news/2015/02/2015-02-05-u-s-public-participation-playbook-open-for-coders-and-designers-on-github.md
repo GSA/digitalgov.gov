@@ -13,7 +13,7 @@ topics:
   - social-media
   - aoi
   - GitHub
-  - socialgov-community
+  - social-media
 ---
 
 {{< legacy-img src="2015/03/600-x-425-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="A diverse group of raised hands." caption="" >}} 

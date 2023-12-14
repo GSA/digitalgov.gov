@@ -16,7 +16,7 @@ end_date: 2021-05-18 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
-  - socialgov-community
+  - social-media
   - communication
   - video
 # See all authors at https://digital.gov/authors

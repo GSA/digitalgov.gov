@@ -19,7 +19,7 @@ topics:
   - Office of Products and Programs
   - social-media
   - social-media
-  - socialgov-community
+  - social-media
   - virtual-reality
   - virtual-augmented-reality-community
 ---

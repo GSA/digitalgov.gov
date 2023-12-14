@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - fda
-  - socialgov-community
+  - social-media
   - us-food-and-drug-administration
 ---
 

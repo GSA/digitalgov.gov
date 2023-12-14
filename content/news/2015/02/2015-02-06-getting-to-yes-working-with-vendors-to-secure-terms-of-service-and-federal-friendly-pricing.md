@@ -12,7 +12,7 @@ topics:
   - aoi
   - HHS
   - recaps
-  - socialgov-community
+  - social-media
   - terms-of-service
   - tos
   - united-states-department-of-health-and-human-services

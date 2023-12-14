@@ -19,7 +19,7 @@ topics:
   - HHS
   - social-media
   - social-media
-  - socialgov-community
+  - social-media
   - terms-of-service
   - tos
   - us-department-of-the-interior

@@ -26,7 +26,7 @@ topics:
   - NOAA
   - ODNI
   - peace-corps
-  - socialgov-community
+  - social-media
   - us-department-of-education
   - us-department-of-the-interior
   - us-food-and-drug-administration

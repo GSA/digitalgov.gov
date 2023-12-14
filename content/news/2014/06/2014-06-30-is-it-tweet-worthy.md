@@ -13,7 +13,7 @@ topics:
   - nasa
   - peace-corps
   - plain-language
-  - socialgov-community
+  - social-media
   - us-government-accountability-office
   - web-content-managers-forum
 ---

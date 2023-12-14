@@ -12,7 +12,7 @@ topics:
   - DOL
   - open-data
   - recaps
-  - socialgov-community
+  - social-media
   - us-department-of-labor
   - us-department-of-state
   - world-bank
