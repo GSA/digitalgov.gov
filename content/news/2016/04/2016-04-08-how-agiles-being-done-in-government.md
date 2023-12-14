@@ -15,7 +15,7 @@ topics:
   - Census
   - communities
   - lean
-  - methodology
+  - research
   - project-management
   - scrum
   - sprint

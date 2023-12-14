@@ -18,7 +18,6 @@ topics:
   - user-experience
   - usability
   - research
-  - methodology
   - usability-testing
 
 # What source published this?

@@ -12,7 +12,7 @@ topics:
   - policy
   - agile
   - lean
-  - methodology
+  - research
   - scrum
   - sprint
 
