@@ -13,7 +13,6 @@ topics:
   - product-management
   - domain-management
   - security
-  - national-cyber-security-awareness-month
 
 featured_image:
   uid: dotgov-card

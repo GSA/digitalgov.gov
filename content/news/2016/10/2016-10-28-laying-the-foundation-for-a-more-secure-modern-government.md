@@ -16,8 +16,6 @@ topics:
   - gsa
   - innovation
   - budgeting-and-performance
-  - budgeting-and-performance
-  - National Cyber Security Awareness Month
   - Office of Management and Budget
   - OMB
   - privacy
