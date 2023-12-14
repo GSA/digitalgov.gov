@@ -25,11 +25,11 @@ Style guides are used to set the tone and guidelines for how an agency communica
 - [Plain Writing at CDC](https://www.cdc.gov/other/plainwriting.html)
 - [Facebook Guidelines and Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/facebook-guidelines.html)
 - [The Health Communicator’s Social Media Toolkit](https://www.cdc.gov/healthcommunication/toolstemplates/socialmediatoolkit_bm.pdf) (PDF, 2.5 MB, 59 pgs)
-- [Twitter Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/pdf/microblogging.pdf)
+- [Twitter Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/pdf/microblogging.pdf) (PDF, 250 KB, 7 pgs)
 
 **Central Intelligence Agency (CIA)**
 
-- [Directorate of Intelligence’s Style Manual & Writers Guide for Intelligence Publications, 8th edition, 2011](https://irp.fas.org/cia/product/style.pdf)
+- [Directorate of Intelligence’s Style Manual & Writers Guide for Intelligence Publications, 8th edition, 2011](https://irp.fas.org/cia/product/style.pdf) (PDF, 7 MB, 190 pgs)
 
 **Congressional Budget Office (CBO)**
 
