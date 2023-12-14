@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - api
-  - GitHub
+  - software-engineering
   - national-institutes-of-health
   - National Library of Medicine
   - wednesday-api-briefing

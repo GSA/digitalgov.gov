@@ -23,7 +23,7 @@ topics:
   - content-models
   - DOL
   - fda
-  - GitHub
+  - software-engineering
   - gsa
   - mobile-ux-guideline-1
   - national-institutes-of-health

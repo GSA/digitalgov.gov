@@ -8,7 +8,7 @@ authors:
 topics:
   - software-engineering
   - mobile
-  - GitHub
+  - software-engineering
   - mobile
   - mobile-apps
   - mobile-code-catalog

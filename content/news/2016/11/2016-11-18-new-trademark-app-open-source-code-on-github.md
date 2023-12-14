@@ -15,7 +15,7 @@ topics:
   - Commerce
   - data
   - department-of-commerce
-  - GitHub
+  - software-engineering
   - innovation
   - mobile
   - mobile-apps

@@ -9,7 +9,7 @@ topics:
   - api
   - software-engineering
   - 18f
-  - GitHub
+  - software-engineering
   - open-source
 ---
 

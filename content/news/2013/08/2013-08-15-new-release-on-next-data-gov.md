@@ -9,7 +9,7 @@ topics:
   - software-engineering
   - data
   - data-gov
-  - GitHub
+  - software-engineering
   - open-data
 ---
 

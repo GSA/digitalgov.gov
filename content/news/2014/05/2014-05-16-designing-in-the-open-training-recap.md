@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - our-work
   - data-gov
-  - GitHub
+  - software-engineering
   - open-source
   - recaps
 ---

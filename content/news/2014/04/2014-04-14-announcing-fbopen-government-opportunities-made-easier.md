@@ -9,7 +9,7 @@ authors:
 topics:
   - software-engineering
   - 18f
-  - GitHub
+  - software-engineering
   - gsa
   - acquisition
 ---

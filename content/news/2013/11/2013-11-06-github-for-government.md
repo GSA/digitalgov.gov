@@ -8,7 +8,7 @@ authors:
 topics:
   - software-engineering
   - CFPB
-  - GitHub
+  - software-engineering
   - open-source
 ---
 

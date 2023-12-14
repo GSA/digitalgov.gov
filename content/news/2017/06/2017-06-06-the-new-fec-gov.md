@@ -17,7 +17,7 @@ topics:
   - data
   - FEC
   - federal-election-commission
-  - GitHub
+  - software-engineering
   - plain-language
   - responsive-web-design
   - uswds

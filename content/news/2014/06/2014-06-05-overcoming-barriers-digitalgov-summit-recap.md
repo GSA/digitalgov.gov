@@ -17,7 +17,7 @@ topics:
   - challenge-gov
   - data-gov
   - DOL
-  - GitHub
+  - software-engineering
   - recaps
   - SBA
   - us-department-of-labor

@@ -9,7 +9,7 @@ topics:
   - software-engineering
   - writing
   - 18f
-  - GitHub
+  - software-engineering
   - open-source
 ---
 

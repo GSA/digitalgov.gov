@@ -12,7 +12,7 @@ topics:
   - metrics
   - social-media
   - aoi
-  - GitHub
+  - software-engineering
   - social-media
 ---
 

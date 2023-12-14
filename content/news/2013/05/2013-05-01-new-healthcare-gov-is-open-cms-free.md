@@ -10,7 +10,7 @@ topics:
   - api
   - CMS
   - content-strategy
-  - GitHub
+  - software-engineering
   - open-source
 ---
 

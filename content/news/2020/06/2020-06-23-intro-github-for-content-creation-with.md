@@ -20,7 +20,7 @@ summary: "In this live training, Content Strategy and Design Specialist for GSAâ
 topics: 
   - software-engineering
   - training
-  - github
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors: 

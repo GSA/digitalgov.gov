@@ -9,7 +9,7 @@ topics:
   - software-engineering
   - data
   - CFPB
-  - GitHub
+  - software-engineering
   - open-data
   - recaps
 ---

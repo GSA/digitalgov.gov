@@ -11,7 +11,7 @@ topics:
   - api
   - data
   - Education
-  - GitHub
+  - software-engineering
   - us-department-of-education
 ---
 

@@ -12,7 +12,7 @@ summary: "In fall 2023, we’ll launch a new registrar: a better way to get and
 topics:
   - web-based
   - infrastructure
-  - github
+  - software-engineering
 slug: infrastructure-as-a-public-service
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -28,7 +28,7 @@ topics:
   - cloud
   - content
   - content-management-system
-  - github
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors:

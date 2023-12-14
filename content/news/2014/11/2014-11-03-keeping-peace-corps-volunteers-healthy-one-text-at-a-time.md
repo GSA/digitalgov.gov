@@ -9,7 +9,7 @@ authors:
 topics:
   - api
   - mobile
-  - GitHub
+  - software-engineering
   - mobile-ux-guideline-5
   - open-source
   - peace-corps

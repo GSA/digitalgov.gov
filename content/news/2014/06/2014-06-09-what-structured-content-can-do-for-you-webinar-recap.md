@@ -13,7 +13,7 @@ topics:
   - api
   - Census
   - content-models
-  - GitHub
+  - software-engineering
   - gsa
   - metadata
   - national-institutes-of-health

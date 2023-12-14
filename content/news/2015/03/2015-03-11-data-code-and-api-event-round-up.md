@@ -16,7 +16,7 @@ topics:
   - data
   - data-gov
   - drupal
-  - GitHub
+  - software-engineering
   - json
   - metadata
   - mobile-gov-community-of-practice

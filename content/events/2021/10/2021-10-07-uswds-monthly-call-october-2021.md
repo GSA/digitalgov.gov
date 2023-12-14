@@ -15,7 +15,7 @@ topics:
   - design
   - uswds
   - open-source
-  - github
+  - software-engineering
   - communities
 # See all authors at https://digital.gov/authors
 authors:

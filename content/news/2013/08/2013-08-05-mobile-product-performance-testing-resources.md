@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - GitHub
+  - software-engineering
   - mobile-apps
 ---
 

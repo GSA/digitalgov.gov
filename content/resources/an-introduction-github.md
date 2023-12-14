@@ -12,7 +12,7 @@ summary: "Steps for managing website content in GitHub."
 # see all topics at https://digital.gov/topics
 topics:
   - training
-  - github
+  - software-engineering
   - software-engineering
 
 # Page weight: controls how this page appears across the site

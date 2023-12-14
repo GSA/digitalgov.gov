@@ -8,7 +8,7 @@ authors:
 topics:
   - software-engineering
   - design
-  - github
+  - software-engineering
   - open-source
   - responsive-web-design
   - uswds

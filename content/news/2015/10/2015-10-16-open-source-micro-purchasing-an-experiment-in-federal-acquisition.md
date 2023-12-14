@@ -9,7 +9,7 @@ topics:
   - software-engineering
   - product-management
   - 18f
-  - GitHub
+  - software-engineering
   - open-source
 ---
 

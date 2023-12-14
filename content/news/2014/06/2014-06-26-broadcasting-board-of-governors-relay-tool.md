@@ -12,7 +12,7 @@ topics:
   - bbg
   - broadcasting-board-of-governors
   - CMS
-  - GitHub
+  - software-engineering
   - multilingual
   - open-source
   - thursday-mobile-products

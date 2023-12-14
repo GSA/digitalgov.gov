@@ -9,7 +9,7 @@ topics:
   - challenges
   - challenge-gov
   - FCPCCS
-  - GitHub
+  - software-engineering
   - united-states-geological-survey
   - USGS
 ---

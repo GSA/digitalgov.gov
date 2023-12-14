@@ -10,7 +10,7 @@ topics:
   - software-engineering
   - content
   - fda
-  - GitHub
+  - software-engineering
   - open-source
   - OPM
   - us-food-and-drug-administration
