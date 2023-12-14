@@ -14,7 +14,7 @@ topics:
   - digital-analytics-program
   - budgeting-and-performance
   - security
-  - tos
+  - terms-of-service
 
 ---
 

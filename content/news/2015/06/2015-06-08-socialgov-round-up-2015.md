@@ -21,7 +21,7 @@ topics:
   - social-media
   - social-media
   - terms-of-service
-  - tos
+  - terms-of-service
   - us-department-of-the-interior
   - us-environmental-protection-agency
   - us-food-and-drug-administration

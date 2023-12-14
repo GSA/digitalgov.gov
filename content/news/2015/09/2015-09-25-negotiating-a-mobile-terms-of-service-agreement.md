@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-ux-guideline-2
   - terms-of-service
-  - tos
+  - terms-of-service
 
 ---
 

@@ -11,7 +11,7 @@ topics:
   - DOT
   - social-media
   - terms-of-service
-  - tos
+  - terms-of-service
   - united-states-department-of-transportation
 ---
 

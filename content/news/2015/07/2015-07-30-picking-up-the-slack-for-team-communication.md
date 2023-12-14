@@ -9,7 +9,7 @@ topics:
   - social-media
   - social-media
   - State
-  - tos
+  - terms-of-service
   - us-department-of-state
 ---
 

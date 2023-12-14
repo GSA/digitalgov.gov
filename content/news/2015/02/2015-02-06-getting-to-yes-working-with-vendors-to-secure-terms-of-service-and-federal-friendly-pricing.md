@@ -14,7 +14,7 @@ topics:
   - recaps
   - social-media
   - terms-of-service
-  - tos
+  - terms-of-service
   - united-states-department-of-health-and-human-services
 
 ---

@@ -13,7 +13,7 @@ topics:
   - native-app
   - terms-of-service
   - thursday-mobile-products
-  - tos
+  - terms-of-service
   - united-states-department-of-transportation
 ---
 
