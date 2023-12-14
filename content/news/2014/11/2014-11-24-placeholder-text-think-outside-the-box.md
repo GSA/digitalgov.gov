@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - monthly-theme
-  - social-media-metrics
+  - social-media
 ---
 
 The verdict is in. Placeholder text is harmful in search boxes.

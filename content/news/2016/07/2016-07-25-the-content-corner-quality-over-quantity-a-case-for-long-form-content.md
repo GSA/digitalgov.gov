@@ -16,8 +16,6 @@ topics:
   - dap
   - digital-analytics-program
   - mobile
-  - social-media
-  - social-media-metrics
   - the-content-corner
 ---
 

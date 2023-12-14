@@ -12,8 +12,6 @@ topics:
   - administrative-office-of-the-united-states-courts
   - analytics
   - content-strategy
-  - social-media
-  - social-media-metrics
   - the-content-corner
 ---
 

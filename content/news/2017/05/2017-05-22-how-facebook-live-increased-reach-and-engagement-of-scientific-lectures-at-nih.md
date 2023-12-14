@@ -16,8 +16,6 @@ topics:
   - national-institutes-of-health
   - NCCIH
   - nih
-  - social-media
-  - social-media-metrics
   - video
   - video-production-pros-community
 ---

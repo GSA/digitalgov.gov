@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - user-experience
-  - social-media-metrics
+  - social-media
   - usagov
 ---
 

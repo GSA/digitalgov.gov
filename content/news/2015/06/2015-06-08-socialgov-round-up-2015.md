@@ -18,7 +18,6 @@ topics:
   - GAO
   - HHS
   - social-media
-  - social-media-metrics
   - socialgov
   - socialgov-community
   - terms-of-service
