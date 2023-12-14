@@ -22,7 +22,7 @@ authors:
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - a-b-testing
+  - research
   - data
   - design
   - usability

@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - user-testing-and-research
-  - a-b-testing
+  - research
   - aoi
   - recaps
   - united-states-department-of-health-and-human-services

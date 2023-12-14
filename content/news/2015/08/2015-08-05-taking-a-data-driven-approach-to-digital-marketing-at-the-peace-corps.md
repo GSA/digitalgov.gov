@@ -7,7 +7,7 @@ authors:
   - chris-rottler
 topics:
   - analytics
-  - a-b-testing
+  - research
   - peace-corps
 
 ---

@@ -8,7 +8,7 @@ authors:
 topics:
   - analytics
   - social-media
-  - a-b-testing
+  - research
   - peace-corps
   - social-media
   - social-media-metrics
