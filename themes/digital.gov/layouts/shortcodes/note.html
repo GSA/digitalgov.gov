@@ -22,7 +22,9 @@
 {{- $iconPath := (printf "uswds/img/sprite.svg#%s" $icon) -}}
 
 
-<article class="dg-note {{ if $variant }}{{- $variant | lower -}}{{ end }}">
+<article
+  class="dg-note {{ if $variant }}dg-note--{{- $variant | lower -}}{{ end }}"
+>
   <h4 class="dg-note__title">
     <svg
       class=" dg-note__icon usa-icon dg-icon dg-icon--large margin-bottom-05"
@@ -33,5 +35,11 @@
     </svg>
     {{ $variant }}
   </h4>
-  {{- .Inner | markdownify -}}
+  {{ if eq $variant "Disclaimer" }}
+    All references to specific brands, products, and/or companies are used only
+    for illustrative purposes and do not imply endorsement by the U.S. federal
+    government or any federal government agency.
+  {{ else }}
+    {{- .Inner | markdownify -}}
+  {{ end }}
 </article>
