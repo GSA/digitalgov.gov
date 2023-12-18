@@ -8,7 +8,7 @@ summary: "Managing Information as a Strategic Resource"
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-source_url: "https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf"
+source_url: "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf"
 
 # Which team or website published this?
 source: whitehouse
