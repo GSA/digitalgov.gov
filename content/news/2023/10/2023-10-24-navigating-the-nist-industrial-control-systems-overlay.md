@@ -82,9 +82,9 @@ Group text goes here...
 Note text goes here...
 {{< /note >}}
 
-{{< note variant="Disclaimer" >}}
-All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
-{{< /note >}}
+{{< note variant="Disclaimer" >}}{{< /note >}}
+
+
 
 
 
