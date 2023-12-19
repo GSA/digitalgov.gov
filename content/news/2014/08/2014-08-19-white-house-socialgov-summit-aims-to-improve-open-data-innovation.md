@@ -13,7 +13,7 @@ topics:
   - open-data
   - recaps
   - socialgov-community
-  - us-department-of-labor
+  
   - world-bank
 ---
 

@@ -33,7 +33,7 @@ topics:
   - SSA
   - structured-content
   - the-united-states-social-security-administration
-  - us-department-of-labor
+  
   - united-states-census-bureau
 ---
 

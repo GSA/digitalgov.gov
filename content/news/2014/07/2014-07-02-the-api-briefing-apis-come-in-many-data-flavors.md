@@ -15,7 +15,7 @@ topics:
   - mobile-apps
   - mobile-code-catalog
   - OPM
-  - us-department-of-labor
+  
   - united-states-census-bureau
   - wednesday-api-briefing
 ---

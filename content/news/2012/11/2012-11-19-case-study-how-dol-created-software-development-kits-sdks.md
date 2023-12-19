@@ -9,7 +9,7 @@ authors:
 topics:
   - code
   - DOL
-  - us-department-of-labor
+  
 ---
 
 ## What It Is

@@ -11,7 +11,7 @@ topics:
   - aoi
   - BLS
   - DOL
-  - us-department-of-labor
+  
   - usability-testing
   - user-experience
 ---

@@ -38,7 +38,7 @@ topics:
   - peace-corps
   - SBA
   - smithsonian-institution
-  - us-department-of-labor
+  
   - united-states-army
   - united-states-census-bureau
   - white-house-office-of-science-and-technology-policy

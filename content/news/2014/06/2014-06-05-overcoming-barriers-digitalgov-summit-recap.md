@@ -20,7 +20,7 @@ topics:
   - GitHub
   - recaps
   - SBA
-  - us-department-of-labor
+  
   - white-house-office-of-science-and-technology-policy
 ---
 

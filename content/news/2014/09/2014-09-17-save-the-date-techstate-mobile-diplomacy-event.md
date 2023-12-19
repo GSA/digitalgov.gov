@@ -11,7 +11,7 @@ topics:
   - DoD
   - DOL
   - mobile-gov-community-of-practice
-  - us-department-of-labor
+  
   - united-states-census-bureau
   - united-states-department-of-defense
 ---

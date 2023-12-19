@@ -19,7 +19,7 @@ topics:
   - nih
   - thursday-mobile-products
   - TSA
-  - us-department-of-labor
+  
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2011/08/MobilePhoneapp_220px.jpg" alt="Mobile Phone Map" >}}](https://sites.usa.gov/howtomobile/files/2011/08/MobilePhoneapp_220px.jpg)With mobile use growing exponentially and federal agencies implementing [customer-facing mobile services](http://www.whitehouse.gov/digitalgov/strategy-milestones) for the [Digital Government Strategy](http://www.whitehouse.gov/digitalgov/about), we decided to put together a Mobile Gov resource &#8220;cheat sheet&#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&#8217;s what Mobile Gov implementers need to know!

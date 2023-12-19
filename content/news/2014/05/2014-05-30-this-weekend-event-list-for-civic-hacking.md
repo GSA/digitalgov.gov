@@ -31,7 +31,7 @@ topics:
   - NREL
   - nsf
   - smithsonian-institution
-  - us-department-of-labor
+  
   - united-states-census-bureau
   - white-house
 ---

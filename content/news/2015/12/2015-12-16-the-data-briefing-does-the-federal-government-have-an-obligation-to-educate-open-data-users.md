@@ -14,7 +14,7 @@ topics:
   - HHS
   - open-data
   - the-data-briefing
-  - us-department-of-labor
+  
 ---
 
 Pop quiz on statistics and data science (answers at the end of the article):
