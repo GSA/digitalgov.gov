@@ -5,7 +5,7 @@
 slug: "application-programming-interface"
 
 # Topic Title
-title: "Application Programming Interface"
+title: "Application programming interface"
 
 # description — keep it short and clear
 summary: ""
