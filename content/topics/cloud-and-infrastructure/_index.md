@@ -5,7 +5,7 @@
 slug: "cloud-and-infrastructure"
 
 # Topic Title
-title: "Cloud And infrastructure"
+title: "Cloud and infrastructure"
 
 # description — keep it short and clear
 summary: ""
