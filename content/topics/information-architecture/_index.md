@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/cloud-and-infrastructure
+# https://digital.gov/topics/information-architecture
 
-slug: "cloud-and-infrastructure"
+slug: "information-architecture"
 
 # Topic Title
-title: "Cloud and infrastructure"
+title: "Information architecture"
 
 # description — keep it short and clear
 summary: ""

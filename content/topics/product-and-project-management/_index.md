@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/cloud-and-infrastructure
+# https://digital.gov/topics/product-and-project-management
 
-slug: "cloud-and-infrastructure"
+slug: "product-and-project-management"
 
 # Topic Title
-title: "Cloud and infrastructure"
+title: "Product and project management"
 
 # description — keep it short and clear
 summary: ""

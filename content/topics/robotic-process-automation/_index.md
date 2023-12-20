@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/cloud-and-infrastructure
+# https://digital.gov/topics/robotic-process-automation
 
-slug: "cloud-and-infrastructure"
+slug: "robotic-process-automation"
 
 # Topic Title
-title: "Cloud and infrastructure"
+title: "Robotic process automation"
 
 # description — keep it short and clear
 summary: ""

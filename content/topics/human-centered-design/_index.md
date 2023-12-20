@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/cloud-and-infrastructure
+# https://digital.gov/topics/human-centered-design
 
-slug: "cloud-and-infrastructure"
+slug: "human-centered-design"
 
 # Topic Title
-title: "Cloud and infrastructure"
+title: "Human centered design"
 
 # description — keep it short and clear
 summary: ""
