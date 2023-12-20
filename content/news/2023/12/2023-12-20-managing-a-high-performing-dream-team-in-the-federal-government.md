@@ -3,7 +3,7 @@
 source_url: https://blog-nrrd.doi.gov/federal-team/
 source: doi-revenuedata
 date: 2023-11-27 12:32:00 -0500
-title: Managing a high performing dream team in the federal government
+title: Managing a high-performing dream team in the federal government
 deck: Discover how the Open Data, Design, and Development (ODDD) team at the
   Office of Natural Resources Revenue (ONRR) transformed their federal projects
   with Agile methodologies, creating a culture of collaboration, accountability,
