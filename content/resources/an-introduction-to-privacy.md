@@ -4,6 +4,9 @@ title: "An introduction to privacy"
 deck: "Understand privacy requirements for agency websites"
 summary: "Introductory guidance on implementing privacy protections for users of federal websites."
 
+authors:
+  - rflagg
+
 # See all topics at https://digital.gov/topics
 topics:
   - privacy
