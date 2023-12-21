@@ -17,7 +17,7 @@ authors:
 
 slug: amplifying-customer-voices
 
-primary_image: green-structured-unstructured-data-iceberg-chavapong-prateep-na-thalang-istock-getty-images-1353745656
+primary_image: green-structured-unstructured-data-iceberg-chavapong-prateep-na-thalang-istock-getty-images-1353745656-b
 
 # Controls how this page appears across the site
 # 0 -- hidden
