@@ -1,22 +1,26 @@
 ---
 date: 2023-12-08 06:46:00 -0500
-title: An introduction to privacy
-deck: Understand privacy requirements for agency websites
-summary: Introductory guidance on implementing privacy protections for users of
-  federal websites.
+title: "An introduction to privacy"
+deck: "Understand privacy requirements for agency websites"
+summary: "Introductory guidance on implementing privacy protections for users of federal websites."
+
 # See all topics at https://digital.gov/topics
 topics:
   - privacy
   - analytics
   - trust
   - user-experience
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 slug: an-introduction-to-privacy
+
 ---
+
 ## What is privacy?
 
 Federal agencies must take great care when collecting information from users to protect their [privacy](https://digital.gov/topics/privacy/), and publish a privacy policy to clearly disclose how that information will be used. The privacy policy should be easy for users to find and understand (written in [plain language](https://digital.gov/topics/plain-language/)), and include a link to the agency’s Privacy Program page. Privacy controls prevent the inappropriate disclosure of sensitive information. 
@@ -54,8 +58,6 @@ To complete your privacy coverage, consult with your agency’s Privacy Office t
 
 ## What can I do next? 
 
-Do you ever wonder how many visitors your agency’s privacy website gets, what they search for, how long they stay, and if they are mobile users? Or does your [Senior Agency Official for Privacy](https://www.fpc.gov/council-members/) ever ask how well your privacy website and resources are serving your users?
+Do you ever wonder how many visitors your agency’s privacy website gets, what they search for, how long they stay, and if they are mobile users? Or does your [Senior Agency Official for Privacy](https://www.fpc.gov/council-members/) ever ask how well your privacy resources are serving your users?
 
-It’s important to understand how visitors use the privacy pages on your agency websites. 
-
-Watch [Analyzing web metrics for federal privacy professionals](https://youtu.be/bYkOqGiPXKE) (52-minute video) to understand how you can use data from the [Digital Analytics Program](https://digital.gov/guides/dap/) to improve the privacy-related pages on your website.
+It’s important to understand how visitors use the privacy pages on your agency websites. Watch the 52-minute video, [Analyzing web metrics for federal privacy professionals](https://youtu.be/bYkOqGiPXKE), to understand how you can use data from the [Digital Analytics Program](https://digital.gov/guides/dap/) to improve the privacy-related pages on your website.
