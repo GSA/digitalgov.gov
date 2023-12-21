@@ -2,39 +2,41 @@
 date: 2023-09-12 15:05:00 -0500
 title: From pageviews to progress
 deck: A 10-year journey through the lens of the Digital Analytics Program
-summary: A 10-year recap of GSA’s Digital Analytics Program (DAP) highlights its
-  impact on federal government agencies and the public, high-level observations
-  using government-wide website analytics and trends, and new goals set for the
-  next decade to help generate useful answers to meaningful questions to make
-  government websites better.
+summary: A 10-year recap of GSA’s Digital Analytics Program (DAP) highlights its impact on federal government agencies and the public, high-level observations using government-wide website analytics and trends, and new goals set for the next decade to help generate useful answers to meaningful questions to make government websites better.
+
 # See all topics at https://digital.gov/topics
 topics:
-  - dap
-  - metrics
+  - analytics
   - content-strategy
-  - data
-  - mobile
-  - 21st-century-idea
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - jack-avery
   - marina-fox
   - tlowden
+
 slug: from-pageviews-to-progress
+
 primary_image: dap-10-years-total-daily-visitors-featured
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a cornerstone of the [2012 Digital Government Strategy](https://obamawhitehouse.archives.gov/digitalgov/about), launched in 2013 to achieve the following two goals: 
 
 1. Streamline collection and analysis of web analytics data on a federal-wide scale using consistent methodology across thousands of U.S. federal executive branch public-facing websites, and 
 2. Make data available to both agencies and the public.
 
-Ten years later, DAP is fulfilling its mission to help agencies improve the public’s experience with online services. DAP is a web analytics staple of the federal executive branch and a requirement of the Office of Management and Budget’s Memorandum [M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF, 1.2 MB, 18 pages)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf). DAP is used by more than 4,000 federal agency staff and enables the public to understand [traffic across the federal web](https://analytics.usa.gov/). DAP collects web analytics data from 6,000+ participating public-facing websites with **more than 40 million average daily visitors** and **more than 8 billion** visitors annually.
+Ten years later, DAP is fulfilling its mission to help agencies improve the public’s experience with online services. DAP is a web analytics staple of the federal executive branch and a key [requirement for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) in the policy framework provided by the 21st Century Integrated Digital Experience Act and OMB Memo M-23-22.
 
-{{< img src="dap-10-years-total-daily-visitors" alt="" >}}
+DAP is used by more than 4,000 federal agency staff and enables the public to understand [traffic across the federal web](https://analytics.usa.gov/). DAP collects web analytics data from 6,000+ participating public-facing websites with **more than 40 million average daily visitors** and **more than 8 billion** visitors annually.
+
+{{< img src="dap-10-years-total-daily-visitors" alt="Analytics chart shows Total Daily Visitors on Government Websites from 2013 to 2023." >}}
 
 ## Oceans of data
 

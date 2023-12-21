@@ -5,7 +5,7 @@
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: "Web Managers"
-summary: "Brings together government web content managers to create a better online experience for the public."
+summary: "Create a better online experience for the public alongside government web content managers."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -33,12 +33,13 @@ event_cop:
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 2
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: Web Managers
 dg_acronym: WCM
+dg_logo: communities-web-managers.svg
 
 community_list:
   - platform: listserv

@@ -5,7 +5,7 @@
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: "Multilingual"
-summary: "Brings together government multilingual content managers to expand and improve digital content in languages other than English."
+summary: "Expand and improve digital content in languages other than English."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -34,6 +34,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Multilingual
 dg_acronym: ML
+dg_logo: communities-multilingual.svg
 
 community_list:
   - platform: listserv
