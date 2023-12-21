@@ -1,6 +1,6 @@
 ---
 date: 2023-12-12 16:14:00 -0500
-title: "An introduction to security"
+title: "An introduction to web security"
 deck: "Understand how security impacts your website"
 summary: "Guidance on meeting security requirements for federal websites."
 
