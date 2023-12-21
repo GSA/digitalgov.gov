@@ -26,7 +26,7 @@ It should be easy to identify governments on the internet, and using a **.gov** 
 
 A domain uniquely identifies areas on the internet, like websites or email services. For example, `Digital.gov` is a domain, consisting of 1) the second-level domain `digital`, and 2) the top-level domain `.gov`. [Domain management](https://digital.gov/topics/domain-management/) is the process of overseeing and maintaining a domain or related domains so that they are consistent and safe.
 
-Domain management and web hosting are often confused for one another. However, domain management is different from web hosting in the same way that a street address is different from the house it leads to. A domain is a location and a name, like Digital.gov. Digital.gov is a web address, but it is also the name of an organization. Web hosting, by contrast, happens only behind the scenes; as an online service, a web host provides the physical ("dedicated") and/or virtual servers needed to publish a discoverable website on the internet.
+Domain management and web hosting are often confused for one another. However, domain management is different from web hosting in the same way that a house is different from the street address that leads to it. A domain can be a name and a location. For example, Digital.gov. is the name of an organization, but the Digital.gov domain also serves as our web address on the internet. Web hosting, by contrast, happens only behind the scenes; as an online service, a web host provides the physical ("dedicated") and/or virtual servers needed to publish a discoverable website on the internet.
 
 ## Why is domain management important?
 
@@ -44,7 +44,7 @@ When you use a `.gov` TLD, it increases security because the [Cybersecurity and 
 
 **Protect** your domain and your users by keeping domain registrations up-to-date and your [Domain Name System](https://get.gov/help/#dns) (DNS) records accurate. You should also be monitoring your domain name to protect against similar but fraudulent domains. Encrypt all web traffic across your websites and “[preload](https://get.gov/help/security-best-practices/#preload-your-domain)” all registered .gov or .mil domains as HTTPS-only for modern web browsers. Additionally, [email authentication best practices](https://get.gov/help/security-best-practices/#use-dmarc) make it difficult for malicious actors to successfully "spoof" (impersonate) your domain in email.
 
-**Simplify** the user experience by maintaining as few domains and subdomains as possible. It can be tempting to add new domains for new projects, but keep in mind that more domains means more risk and more to manage as your agency grows.
+**Simplify** the user experience by maintaining as few domains and subdomains as possible. It can be tempting to add new domains for new projects, but keep in mind that more domains means more risk&mdash;and more to manage as your agency grows.
 
 ## What can I do next?
 
@@ -52,7 +52,6 @@ Domain management is about more than just DNS. It’s also about ensuring a safe
 
 * Add a security contact
 * Develop a vulnerability disclosure policy (VDP)
-* Preload your domain
 
 For example, having a security contact for .gov domains makes it easier for the public to tell you of a potential security issue with your online services. It is relatively easy to:
 
