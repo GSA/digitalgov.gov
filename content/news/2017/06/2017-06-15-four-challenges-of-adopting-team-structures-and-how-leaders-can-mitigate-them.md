@@ -9,6 +9,7 @@ topics:
   - product-management
   - agile
   - agile-lean-community-of-practice
+  - best-practices
 ---
 
 If you’re considering “going [agile](https://en.wikipedia.org/wiki/Agile_software_development),” one of the critical components of such a transformation will be adopting team structures. In your current, pre-teaming state, your developers are probably working by themselves, and may be engaging directly with stakeholders.

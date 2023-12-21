@@ -22,6 +22,7 @@ topics:
   - product-management
   - project-management
   - acquisition
+  - best-practices
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

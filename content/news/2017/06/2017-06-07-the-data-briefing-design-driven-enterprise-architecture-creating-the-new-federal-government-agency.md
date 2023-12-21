@@ -14,6 +14,7 @@ topics:
   - agile-lean-community-of-practice
   - architecture
   - the-data-briefing
+  - best-practices
 ---
 
 It’s been a while since I’ve checked in on enterprise architecture (EA). My last in-depth work with EA was around 2011 when I was on detail to the Office of Personnel Management’s Open Government Team. The EA model I worked with was the top-down organizational design of information technology assets, data assets, and business processes. Many of you are probably familiar with this traditional EA model.
