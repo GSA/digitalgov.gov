@@ -10,7 +10,6 @@ topics:
   - product-management
   - strategy
   - policy
-  
   - content-management-system
 ---
 

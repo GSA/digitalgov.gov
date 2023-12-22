@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - api
-  
-  
-  
   - thursday-mobile-products
   - US Department of Agriculture
   - united-states-census-bureau

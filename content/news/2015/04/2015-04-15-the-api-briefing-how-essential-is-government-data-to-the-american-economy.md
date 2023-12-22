@@ -8,10 +8,6 @@ authors:
 topics:
   - api
   - data
-  - api
-  
-  - data
-  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - open-data

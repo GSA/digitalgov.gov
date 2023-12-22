@@ -9,7 +9,6 @@ topics:
   - challenges
   - challenges-and-prize-competitions
   - OSTP
-  
 ---
 
 {{< legacy-img src="2014/06/250-x-416-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-sidebar-stats-Outcome-benefits.jpg" alt="Sidebar stats, Outcome benefits, from the report titled, The craft of incentive prize design - Lessons from the public sector" caption="" >}} 

@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - content-strategy
-  
   - the-content-corner
   - social-media
 ---

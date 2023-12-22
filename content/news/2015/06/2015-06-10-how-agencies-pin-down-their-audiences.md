@@ -7,13 +7,8 @@ authors:
   - edgardo-morales
 topics:
   - monthly-theme
-  - social-media
-  
-  
   - content-strategy
   - gsa
-  
-  
   - nih
   - social-media
 ---

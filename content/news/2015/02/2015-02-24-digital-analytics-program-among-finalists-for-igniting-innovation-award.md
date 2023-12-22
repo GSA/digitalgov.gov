@@ -14,9 +14,7 @@ topics:
   - data-gov
   - digital-analytics-program
   - innovation
-  
   - open-data
-
 ---
 
 {{< legacy-img src="2015/02/600-x-450-Podium-with-red-carpet-DenisKot-iStock-Thinkstock-506330511.jpg" alt="Podium with red carpet" caption="" >}}

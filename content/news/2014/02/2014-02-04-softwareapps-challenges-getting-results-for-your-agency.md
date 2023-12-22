@@ -8,8 +8,6 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  
-  
 ---
 
 [{{< legacy-img src="2014/02/My-Money-App-Up-250x212.png" alt="A winner of the My Money App Up challenge, Centz is a mobile application that helps users make sense of their student loans and earn cents while doing it." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/My-Money-App-Up.png)

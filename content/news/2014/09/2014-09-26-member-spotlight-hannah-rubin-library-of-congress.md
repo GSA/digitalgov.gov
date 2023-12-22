@@ -10,8 +10,6 @@ topics:
   - metrics
   - user-testing-and-research
   - digitalgov-user-experience-program
-  
-  
   - open-opportunities-program
 ---
 

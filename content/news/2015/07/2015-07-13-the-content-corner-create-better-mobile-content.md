@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - mobile
-  
   - infographic
   - mobile
   - mobile-ux-guideline-1

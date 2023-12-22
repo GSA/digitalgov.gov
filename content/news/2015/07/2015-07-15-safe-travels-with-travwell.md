@@ -8,12 +8,9 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  
   - ios
   - mobile-apps
   - thursday-mobile-products
- 
-
 ---
 
 Ahhh ... Summer is here at last! It’s time for relaxing vacation!

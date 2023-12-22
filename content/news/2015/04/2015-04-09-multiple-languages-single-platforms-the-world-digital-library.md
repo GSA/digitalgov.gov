@@ -10,8 +10,6 @@ topics:
   - social-media
   - analytics
   - content-strategy
-  
-  
   - metadata
   - multilingual
   - responsive-web-design

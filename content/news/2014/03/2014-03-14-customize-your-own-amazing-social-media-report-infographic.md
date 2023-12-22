@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - social-media
-  
   - infographic
   - social-media-metrics
   - socialgov

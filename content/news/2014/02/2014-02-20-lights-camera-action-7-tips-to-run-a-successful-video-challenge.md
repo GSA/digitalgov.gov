@@ -10,9 +10,7 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - innovation
-  
   - social-media
-
 ---
 
 Not sure how to craft a video challenge that will result in the creative solutions your agency is looking for? Don&#8217;t worry, we&#8217;ve got you covered.

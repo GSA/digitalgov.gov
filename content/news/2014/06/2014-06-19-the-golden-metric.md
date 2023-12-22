@@ -11,8 +11,7 @@ topics:
   - big-data
   - dap
   - data-gov
-  - digital-analytics-program
-  
+  - digital-analytics-program  
   - usagov
 ---
 

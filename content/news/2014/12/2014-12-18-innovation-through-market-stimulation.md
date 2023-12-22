@@ -11,7 +11,6 @@ topics:
   - monthly-theme
   - challenges-and-prize-competitions
   - crowdsourcing
-  
   - us-environmental-protection-agency
 ---
 

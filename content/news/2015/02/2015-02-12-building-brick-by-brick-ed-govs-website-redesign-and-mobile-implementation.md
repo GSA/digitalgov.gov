@@ -9,7 +9,6 @@ topics:
   - content
   - mobile
   - monthly-theme
-  
   - content-management-system
   - mobile-ux-guideline-1
   - responsive-web-design

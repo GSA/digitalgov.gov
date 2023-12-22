@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  
   - US Department of Agriculture
   - united-states-department-of-housing-and-urban-development
   - USDA

@@ -7,9 +7,6 @@ authors:
   - mark-urban
 topics:
   - accessibility
-  
-  
-
 primary_image: "uploading-documents-laptop-model-la-istock-getty-images-plus-177522468-1200x628"
 
 ---

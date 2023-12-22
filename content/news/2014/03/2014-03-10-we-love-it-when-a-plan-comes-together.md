@@ -10,11 +10,7 @@ topics:
   - challenges
   - data
   - social-media
-  
   - challenges-and-prize-competitions
-  
-  
-  
   - open-government
 ---
 

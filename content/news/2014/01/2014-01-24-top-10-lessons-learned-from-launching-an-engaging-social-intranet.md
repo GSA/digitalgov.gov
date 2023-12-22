@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - FCN
-  
 ---
 
 On January 16th, the [Federal Communicators Network](http://fedcommnetwork.blogspot.com/) gathered at the National Archives and Records Administration (NARA). The topic of the day was **Driving Employee Engagement through a Social Intranet**, and Kelly Osborn, NARA&#8217;s community manager for the Internal Collaboration Network (ICN) was the expert speaker. Kelly has been the driving force behind the project from the very beginning and gave a talk full of helpful tips, best practices, and insightful anecdotes on setting up the intranet at NARA. If you missed the presentation, we&#8217;ve compiled this TOP 10 list of moments from Kelly&#8217;s presentation.

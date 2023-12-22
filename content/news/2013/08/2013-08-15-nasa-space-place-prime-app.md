@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  
   - thursday-mobile-products
 ---
 

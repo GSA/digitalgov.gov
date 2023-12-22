@@ -7,9 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  
-  
-  
   - mobile-apps
   - trends-on-tuesday
   - united-states-census-bureau

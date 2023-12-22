@@ -7,8 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  
-  - mobile
   - mobile-apps
   - mobile-gov
   - responsive-web-design

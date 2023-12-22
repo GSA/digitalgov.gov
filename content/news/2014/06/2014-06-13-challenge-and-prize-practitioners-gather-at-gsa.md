@@ -14,7 +14,6 @@ topics:
   - innovation
   - nsf
   - united-states-department-of-housing-and-urban-development
-  
 ---
 
 Got [innovation]({{< ref "/topics/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!

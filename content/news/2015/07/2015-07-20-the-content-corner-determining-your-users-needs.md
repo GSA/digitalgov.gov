@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - user-experience
-  
   - analytics
   - government-contact-centers
   - the-content-corner

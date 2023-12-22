@@ -8,17 +8,13 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  
   - Federal CrowdSource Mobile Testing Program
-  
-  - mobile
   - mobile-ux-guideline-1
   - native-app
   - open-and-structured-content-models
   - responsive-web-design
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
-
 ---
 
 What’s your mobile itch?

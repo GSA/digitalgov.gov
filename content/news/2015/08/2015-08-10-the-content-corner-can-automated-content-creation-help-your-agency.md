@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
   - structured-content
   - the-content-corner
 ---

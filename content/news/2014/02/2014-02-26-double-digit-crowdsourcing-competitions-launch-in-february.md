@@ -10,8 +10,6 @@ topics:
   - code
   - crowdsourcing-and-citizen-science
   - crowdsourcing
-  
-  
   - gsa
   - mobile-apps
 ---

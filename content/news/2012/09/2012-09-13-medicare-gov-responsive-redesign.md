@@ -7,8 +7,6 @@ authors:
   - jon-booth
 topics:
   - mobile
-  
-  
   - mobile-gov-experience
   - responsive-web-design
 ---

@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  
   - united-states-census-bureau
 ---
 

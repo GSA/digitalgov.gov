@@ -5,8 +5,6 @@ title: 'FEMA&#8217;s Responsive Disaster Assistance Website Helps Survivors Find
 summary: ' Hurricane Arthur, the first named storm of the 2014 Atlantic hurricane season, made landfall in North Carolina, July 3, as a Category 2 hurricane. It was no Sandy, but Arthur nevertheless reminds us to be prepared now and always. As we say at NOAA, &#8220;It only takes one.&#8221; That &#8220;one&#8221;'
 topics:
   - mobile
-  
-  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - responsive-web-design

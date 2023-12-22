@@ -11,7 +11,6 @@ topics:
   - gsa
   - socialgov
   - terms-of-service
-
 ---
 
 <p>

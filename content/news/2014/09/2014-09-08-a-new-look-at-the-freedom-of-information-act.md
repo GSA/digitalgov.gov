@@ -12,15 +12,12 @@ authors:
 topics:
   - code
   - 18f
-  
-  
   - Office of Management and Budget
   - OMB
   - open-government
   - OSTP
   - us-department-of-justice
   - us-environmental-protection-agency
-  
 ---
 
 There are many ways the public can get information from the federal government. For example, you can check out Data.gov to find scores of datasets and APIs, agency websites for information about their work, or other important information in online FOIA Libraries.

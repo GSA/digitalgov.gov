@@ -11,7 +11,6 @@ topics:
   - api
   - content-models
   - metadata
-  
   - nih
   - open-and-structured-content-models
   - structured-content

@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  
   - mobile-ux-guideline-5
   - responsive-web-design
   - united-states-department-of-health-and-human-services

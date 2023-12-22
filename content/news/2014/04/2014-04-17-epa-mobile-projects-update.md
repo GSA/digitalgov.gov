@@ -9,11 +9,9 @@ topics:
   - mobile
   - strategy
   - policy
-  
   - mobile-apps
   - thursday-mobile-products
   - us-environmental-protection-agency
- 
 ---
 
 {{< legacy-img src="2014/04/EPA-Mobile-website-250-x-415-4-14-14-Toni-Samsung-Galaxy-SII-SC20140414-102209.jpg" alt="Screenshot from a smart phone of the E P A dot gov mobile website" >}}Earth Day is next week, so today instead of featuring one mobile product like we do every Thursday, we&#8217;re highlighting how the [U.S. Environmental Protection Agency](http://www.epa.gov/) is tackling mobile to help empower citizen environmental decisions.

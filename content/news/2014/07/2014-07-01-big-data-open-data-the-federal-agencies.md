@@ -12,7 +12,6 @@ topics:
   - data
   - open-data
   - OSTP
-  
 ---
 
 Open data and big data—and the responsible management and protection of that data—are key components of the President’s agenda to drive innovation and economic growth.

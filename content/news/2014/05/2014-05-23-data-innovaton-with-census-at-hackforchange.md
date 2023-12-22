@@ -16,7 +16,6 @@ topics:
   - us-small-business-administration
   - united-states-census-bureau
   - USPTO
-
 ---
 
 Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved.

@@ -7,7 +7,6 @@ authors:
   - michael-niedzwiecki
 topics:
   - mobile
-  
   - thursday-mobile-products
   - united-states-department-of-defense
 ---

@@ -10,9 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - crowdsourcing
-  
-  
-  
   - national-oceanic-and-atmospheric-administration
   - NOAA
 ---

@@ -8,11 +8,9 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  
   - united-states-department-of-energy
   - user-centered-design
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Light-bulb-with-drawing-graph-Jannoon028-iStock-Thinkstock-515705127.jpg" alt="Light bulb with drawing graph" caption="" >}} 

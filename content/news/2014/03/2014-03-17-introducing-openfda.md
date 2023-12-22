@@ -10,7 +10,6 @@ topics:
   - data
   - api
   - cloud
-  
   - mobile-first
 ---
 

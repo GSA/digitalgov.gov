@@ -8,7 +8,6 @@ topics:
   - design
   - mobile
   - user-experience
-  
   - gamification
   - mobile-apps
   - mobile-gov-experience

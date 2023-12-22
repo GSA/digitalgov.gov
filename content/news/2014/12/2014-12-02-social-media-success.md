@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - social-media
-  
   - US Department of Agriculture
   - us-department-of-the-interior
   - USDA

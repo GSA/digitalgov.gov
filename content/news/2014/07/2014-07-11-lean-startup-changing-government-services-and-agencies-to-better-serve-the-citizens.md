@@ -9,9 +9,6 @@ topics:
   - strategy
   - policy
   - 18f
-  
-  
-  
   - OPM
   - us-food-and-drug-administration
   - united-states-office-of-personnel-management

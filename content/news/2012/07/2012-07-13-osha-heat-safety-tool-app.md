@@ -5,7 +5,6 @@ title: OSHA Heat Safety Tool App
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Department of Labor. The Heat Safety Tool provides the heat index for your work site and precautions to prevent heat illness. Why We Did It OSHA developed the'
 topics:
   - mobile
-  
   - mobile-apps
   - mobile-gov-experience
   - us-department-of-labor

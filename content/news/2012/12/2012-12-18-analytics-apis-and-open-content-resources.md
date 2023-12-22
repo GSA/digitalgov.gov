@@ -12,10 +12,7 @@ topics:
   - metrics
   - our-work
   - api
-  
-  
   - digital-analytics-program
-  
   - USDA
 ---
 

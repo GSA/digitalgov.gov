@@ -7,7 +7,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  
   - mobile-apps
   - mobile-gov
   - mobile-gov-community-of-practice

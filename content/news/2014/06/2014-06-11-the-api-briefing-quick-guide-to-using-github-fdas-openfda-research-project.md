@@ -9,7 +9,6 @@ topics:
   - api
   - code
   - content
-  
   - GitHub
   - open-source
   - OPM

@@ -8,10 +8,6 @@ authors:
 topics:
   - code
   - mobile
-  - code
-  
-  
-  - mobile
   - mobile-code-catalog
   - mobile-ux-guideline-1
   - responsive-web-design

@@ -12,7 +12,6 @@ topics:
   - data
   - our-work
   - api
-  
   - search
   - GitHub
   - open-source

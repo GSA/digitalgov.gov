@@ -7,13 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
-  
-  
-  
-  
-  
-  
   - artificial-intelligence
   - open-government
   - structured-content

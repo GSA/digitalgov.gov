@@ -7,7 +7,6 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  
   - mobile-gov
   - responsive-web-design
   - thursday-mobile-products

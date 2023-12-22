@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - product-management
-  
-  
   - content-strategy
   - GobiernoUSAgov
   - multilingual

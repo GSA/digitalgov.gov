@@ -10,8 +10,6 @@ topics:
   - our-work
   - 18f
   - api
-  
-  
   - content-management-system
   - data
   - data-gov
@@ -24,7 +22,6 @@ topics:
   - open-data
   - responsive-web-design
   - us-department-of-state
-
 ---
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< ref "/events" >}})

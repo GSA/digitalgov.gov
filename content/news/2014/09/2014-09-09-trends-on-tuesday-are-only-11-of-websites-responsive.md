@@ -9,8 +9,6 @@ topics:
   - mobile
   - strategy
   - policy
-  
-  
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - responsive-web-design

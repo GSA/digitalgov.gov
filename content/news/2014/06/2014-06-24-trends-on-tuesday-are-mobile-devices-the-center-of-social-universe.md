@@ -11,7 +11,6 @@ topics:
   - monthly-theme
   - social-media
   - crowdsourcing
-  
   - internet-of-things
   - mobile
   - mobile-apps

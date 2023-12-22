@@ -8,7 +8,6 @@ authors:
 topics:
   - video
   - us-customs-and-border-protection
-  
   - US Customs and Border Protection
   - us-environmental-protection-agency
 ---

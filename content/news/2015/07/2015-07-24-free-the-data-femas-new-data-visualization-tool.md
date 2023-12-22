@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - data-visualization
-  
   - mobile-apps
 ---
 

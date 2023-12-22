@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - content-syndication
-  
-  
   - nih
   - united-states-department-of-health-and-human-services
 ---

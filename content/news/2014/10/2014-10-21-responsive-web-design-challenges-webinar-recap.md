@@ -10,8 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - analytics
-  
-  - mobile
   - mobile-ux-guideline-1
   - responsive-web-design
   - united-states-department-of-energy

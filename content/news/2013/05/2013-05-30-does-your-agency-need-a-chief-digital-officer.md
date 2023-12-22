@@ -9,8 +9,6 @@ topics:
   - governance
   - product-management
   - api
-  
-  
 ---
 
 [{{< legacy-img src="2013/06/Help-Wanted-CDO-1-284x220.jpg" alt="help wanted sign" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/Help-Wanted-CDO-1-284x220.jpg)Russell Reynolds Associates, the senior-level executive search firm, says that the [last 2 years have seen the rise of the Chief Digital Officer](http://www.russellreynolds.com/content/leadership-and-talent-rise-of-chief-digital-officer-CDO) (CDO), a senior executive who sits at the right hand of the CEO. According to the consulting firm Gartner, [25% of organizations will have a Chief Digital Officer](http://www.gartner.com/newsroom/id/2208015) by 2015. Large organizations such as Forbes, CVS, Harvard University, NBC News, Amnesty International USA, and Starbucks have hired CDOs recently. This sort of growth within the private and non-profit sector raises  the question, “Does my agency need a CDO?”

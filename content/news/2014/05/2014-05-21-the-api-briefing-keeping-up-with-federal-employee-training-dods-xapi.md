@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - api
-  
   - united-states-department-of-defense
   - wednesday-api-briefing
 ---

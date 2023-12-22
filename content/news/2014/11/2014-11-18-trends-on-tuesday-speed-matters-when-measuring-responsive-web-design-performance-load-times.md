@@ -9,7 +9,6 @@ topics:
   - design
   - mobile
   - monthly-theme
-  
   - mobile-gov
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
@@ -17,7 +16,6 @@ topics:
   - trends-on-tuesday
   - united-states-department-of-health-and-human-services
   - user-experience
-
 ---
 
 {{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}}

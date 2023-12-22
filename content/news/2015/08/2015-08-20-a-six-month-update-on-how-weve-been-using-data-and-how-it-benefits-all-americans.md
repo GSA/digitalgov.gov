@@ -8,8 +8,6 @@ authors:
   - dr-dj-patil
 topics:
   - data
-  
-  
   - nih
 ---
 

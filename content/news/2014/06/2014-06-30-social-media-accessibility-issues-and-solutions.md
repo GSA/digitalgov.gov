@@ -13,8 +13,6 @@ topics:
   - writing
   - accessibility
   - crowdsourcing
-  
-  
   - infographic
   - plain-language
   - social-media

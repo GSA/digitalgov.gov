@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - policy
-  
   - gamification
   - mobile
   - social-media

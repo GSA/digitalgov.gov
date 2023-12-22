@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - mobile
-  
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
   - open-source

@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  
   - gamification
   - mobile
   - mobile-apps

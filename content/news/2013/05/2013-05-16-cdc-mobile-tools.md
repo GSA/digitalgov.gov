@@ -7,7 +7,6 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  
   - mobile-apps
   - thursday-mobile-products
 ---

@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - data-gov
-  
   - open-data
 ---
 

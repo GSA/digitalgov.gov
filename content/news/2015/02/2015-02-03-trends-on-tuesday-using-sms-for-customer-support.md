@@ -7,8 +7,6 @@ authors:
   - kdaniel
 topics:
   - mobile
-  
-  
   - government-contact-centers
   - mobile-ux-guideline-3
   - native-app

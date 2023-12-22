@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
   - the-content-corner
 ---
 

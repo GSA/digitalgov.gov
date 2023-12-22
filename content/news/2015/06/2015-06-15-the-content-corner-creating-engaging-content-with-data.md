@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - big-data
-  
   - content-strategy
   - data
   - open-data

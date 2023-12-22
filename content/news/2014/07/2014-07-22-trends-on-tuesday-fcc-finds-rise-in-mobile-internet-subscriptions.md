@@ -7,8 +7,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  
-  
   - mobile-apps
   - mobile-gov-community-of-practice
   - trends-on-tuesday

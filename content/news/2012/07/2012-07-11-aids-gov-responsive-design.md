@@ -10,7 +10,6 @@ topics:
   - mobile
   - user-testing-and-research
   - user-experience
-  
   - mobile-gov-experience
   - mobile-ux-guideline-5
   - responsive-web-design

@@ -10,7 +10,6 @@ topics:
   - social-media
   - user-testing-and-research
   - dap
-  
 ---
 
 [{{< legacy-img src="2014/02/Google-Analytics-image-250x155.png" alt="graphic explaining that the average site visitor looked at 3.7 pages and stayed 3 minutes" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Google-Analytics-image.png)Collecting visitor, engagement, and traffic data for your digital channels is nothing new. By this time, you have a lot of data about your website. How do you use and present that data to make meaningful recommendations? How do you use the data to tell a story and grab your stakeholders’ attention?

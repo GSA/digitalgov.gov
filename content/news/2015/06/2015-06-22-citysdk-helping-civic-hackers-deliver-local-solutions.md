@@ -8,9 +8,6 @@ authors:
 topics:
   - api
   - data
-  - api
-  
-  - data
   - json
   - national-day-of-civic-hacking
   - open-data

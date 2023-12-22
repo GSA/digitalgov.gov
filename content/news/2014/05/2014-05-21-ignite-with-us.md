@@ -15,7 +15,6 @@ topics:
   - social-media
   - user-experience
   - api
-  
   - innovation
   - mobile-apps
   - united-states-census-bureau

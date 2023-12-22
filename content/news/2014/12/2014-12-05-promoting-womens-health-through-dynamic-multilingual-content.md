@@ -9,7 +9,6 @@ topics:
   - content
   - social-media
   - video
-  
   - multilingual
   - multilingual-community
   - social-media

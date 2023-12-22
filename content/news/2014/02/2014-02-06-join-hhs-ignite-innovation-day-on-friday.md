@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - product-management
-  
   - innovation
 ---
 

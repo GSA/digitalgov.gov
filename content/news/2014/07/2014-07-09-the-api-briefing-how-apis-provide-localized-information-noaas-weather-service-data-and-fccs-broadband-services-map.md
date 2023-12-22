@@ -8,10 +8,6 @@ authors:
 topics:
   - api
   - data
-  
-  
-  
-  
   - GPS
   - mobile-apps
   - national-oceanic-and-atmospheric-administration

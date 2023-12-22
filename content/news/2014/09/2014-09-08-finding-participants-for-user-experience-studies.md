@@ -9,7 +9,6 @@ topics:
   - communities
   - user-testing-and-research
   - aoi
-  
   - us-bureau-of-labor-statistics
   - us-department-of-labor
   - usability-testing

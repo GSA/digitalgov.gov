@@ -8,9 +8,6 @@ authors:
 topics:
   - content
   - product-management
-  
-  
-  
   - LEP
   - multilingual
 ---

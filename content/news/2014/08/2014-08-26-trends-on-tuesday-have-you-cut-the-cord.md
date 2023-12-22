@@ -7,9 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  
-  
-  - mobile
   - mobile-ux-guideline-5
   - mobile-first
   - native-app

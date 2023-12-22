@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
   - content-models
   - open-and-structured-content-models
   - structured-content

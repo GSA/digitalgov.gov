@@ -8,7 +8,6 @@ authors:
   - lnelson
 topics:
   - mobile
-  
   - mobile-code-catalog
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4

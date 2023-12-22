@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - writing
-  
   - infographic
   - search-engine-optimization
   - the-content-corner

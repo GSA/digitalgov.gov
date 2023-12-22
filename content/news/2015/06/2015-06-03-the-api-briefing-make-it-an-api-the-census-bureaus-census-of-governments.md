@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - api
-  
   - united-states-census-bureau
   - wednesday-api-briefing
 ---

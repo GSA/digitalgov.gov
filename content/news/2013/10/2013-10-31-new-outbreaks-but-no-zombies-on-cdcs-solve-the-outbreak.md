@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  
   - mobile-apps
   - thursday-mobile-products
 ---

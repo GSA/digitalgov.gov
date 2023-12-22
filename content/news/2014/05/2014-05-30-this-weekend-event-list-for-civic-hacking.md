@@ -23,7 +23,6 @@ topics:
   - united-states-department-of-housing-and-urban-development
   - united-states-department-of-transportation
   - USPTO
-
 ---
 
 {{< legacy-img src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" >}}Our fabulous colleague Jeanne Holm is ready for the [#hackforchange](https://twitter.com/hashtag/hackforchange) events this weekend and summarized some <a title="resources for civic hack day" href="https://www.data.gov/developers/hacking-change-tips-national-civic-day-hacking/" target="_blank">tips, notes and links to resources on Data.gov</a>.

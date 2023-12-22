@@ -8,7 +8,6 @@ topics:
   - code
   - mobile
   - api
-  
   - mobile-gov
   - mobile-gov-experience
 ---

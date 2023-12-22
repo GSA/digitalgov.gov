@@ -8,8 +8,6 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  
-  - social-media
   - USGS
 ---
 

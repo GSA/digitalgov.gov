@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - design
-  
   - content-models
   - mobile-ux-guideline-1
   - structured-content

@@ -9,7 +9,6 @@ topics:
   - product-management
   - customer-experience
   - customer-service
-  
   - united-states-department-of-housing-and-urban-development
 ---
 

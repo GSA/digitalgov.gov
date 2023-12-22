@@ -5,12 +5,9 @@ title: 'When Catastrophe Strikes, Provide Support: SAMHSA’s Disaster Response 
 summary: ' Disasters can strike at anytime, and responders now have another tool in their repertoire to aid survivors. The Substance Abuse and Mental Health Services Administration (SAMHSA) has developed the Behavioral Health Disaster Response Mobile App to assist mental health responders with pre-deployment and on-the ground information and resources. SAMHSA has'
 topics:
   - mobile
-  
-  - mobile
   - mobile-apps
   - thursday-mobile-products
   - united-states-department-of-health-and-human-services
- 
 ---
 
 {{< legacy-img src="2015/06/600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps.jpg" alt="600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps" >}}

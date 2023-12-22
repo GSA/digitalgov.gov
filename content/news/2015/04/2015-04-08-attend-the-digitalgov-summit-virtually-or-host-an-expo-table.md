@@ -10,8 +10,6 @@ authors:
 topics:
   - product-management
   - our-work
-  
-
 ---
 
 Sign up now to watch the [Spring 2015 DigitalGov Citizen Services Summit](https://web.archive.org/web/20150419064813/http://www.digitalgov.gov/event/2015-digitalgov-citizen-services-summit/) from the comfort of your desk! We are excited to announce that although we’ve sold out in-person attendance for the DigitalGov Citizen Services Summit, we have just opened up [registration to attend virtually](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401).

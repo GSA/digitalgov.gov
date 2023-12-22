@@ -9,12 +9,10 @@ topics:
   - content
   - mobile
   - monthly-theme
-  
   - GitHub
   - multilingual
   - open-source
   - thursday-mobile-products
- 
 ---
 
 World Cup fever, everyone&#8217;s got it—even the [Broadcasting Board of Governors](http://www.bbg.gov/)&#8216; (BBG) Voice of America has reporters covering the event.

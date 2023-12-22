@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - api
-  
   - OPM
   - us-environmental-protection-agency
   - united-states-geological-survey

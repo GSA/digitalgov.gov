@@ -7,10 +7,7 @@ authors:
   - lauren-lipovic
 topics:
   - data
-  
-  - data
   - data-visualization
-  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - united-states-census-bureau

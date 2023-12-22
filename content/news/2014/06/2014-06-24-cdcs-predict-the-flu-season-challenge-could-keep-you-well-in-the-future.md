@@ -8,10 +8,7 @@ authors:
 topics:
   - challenges
   - monthly-theme
-  
-  
   - challenge-gov
-  
   - united-states-department-of-health-and-human-services
 ---
 

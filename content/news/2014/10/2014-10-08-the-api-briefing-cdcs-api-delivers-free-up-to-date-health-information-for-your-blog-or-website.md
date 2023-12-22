@@ -8,9 +8,6 @@ authors:
 topics:
   - api
   - code
-  - api
-  
-  
   - content-syndication
   - OPM
   - united-states-office-of-personnel-management

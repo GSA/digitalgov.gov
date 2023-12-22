@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
   - content-management-system
   - content-models
   - content-strategy
