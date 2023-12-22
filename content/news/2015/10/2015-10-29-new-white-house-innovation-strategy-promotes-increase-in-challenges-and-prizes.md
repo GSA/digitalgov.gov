@@ -14,7 +14,6 @@ topics:
   - FCPCCS
   - open-opportunities-program
   - OSTP
-  
 ---
 
 {{< legacy-img src="2015/10/600-x-408-Investing-in-the-Building-Blocks-of-Innovation-chart-A-STRATEGY-FOR-AMERICAN-INNOVATION-Oct-2015.jpg" alt="Investing in the Building Blocks of Innovation chart from A Strategy For American Innovation by the National Economic Council and Office of Science and Technology Policy, October 2015" >}}

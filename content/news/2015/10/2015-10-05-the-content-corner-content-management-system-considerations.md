@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
   - content-management-system
   - mobile-ux-guideline-1
   - the-content-corner

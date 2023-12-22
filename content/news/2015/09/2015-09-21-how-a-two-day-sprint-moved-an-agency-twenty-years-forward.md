@@ -9,7 +9,6 @@ topics:
   - user-experience
   - 18f
   - agile
-  
   - sprint
   - us-department-of-labor
 ---

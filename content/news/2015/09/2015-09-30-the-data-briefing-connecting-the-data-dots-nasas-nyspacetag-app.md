@@ -9,7 +9,6 @@ topics:
   - code
   - data-gov
   - mobile-apps
-  
   - open-data
   - the-data-briefing
   - United States Patent and Trademark Office

@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - design
-  
-  
   - content-management-system
   - content-strategy
   - the-content-corner

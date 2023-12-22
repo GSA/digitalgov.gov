@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - data
-  
   - open-data
   - us-environmental-protection-agency
 ---

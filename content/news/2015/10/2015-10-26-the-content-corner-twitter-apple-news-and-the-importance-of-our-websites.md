@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
   - content-strategy
   - social-media
   - the-content-corner

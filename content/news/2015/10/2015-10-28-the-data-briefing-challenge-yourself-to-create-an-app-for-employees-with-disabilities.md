@@ -13,9 +13,6 @@ topics:
   - api
   - data
   - data-gov
-  
-  
-  
   - gsa
   - mobile-apps
   - mobile-ux-guideline-2

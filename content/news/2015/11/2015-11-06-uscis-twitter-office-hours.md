@@ -7,8 +7,6 @@ authors:
   - uscis-staff
 topics:
   - social-media
-  
-  
   - US Citizenship and Immigration Service
   - us-department-of-education
   - us-environmental-protection-agency

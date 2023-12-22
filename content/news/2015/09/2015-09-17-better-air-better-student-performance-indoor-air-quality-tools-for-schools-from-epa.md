@@ -7,8 +7,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  
-  - mobile
   - mobile-apps
   - thursday-mobile-products
   - us-environmental-protection-agency

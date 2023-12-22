@@ -14,7 +14,6 @@ topics:
   - crowdsourcing
   - FCPCCS
   - mobile
-  
   - trends-on-tuesday
 ---
 
