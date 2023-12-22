@@ -8,7 +8,7 @@ title: OMB Releases Digital Accessibility Guidance to Ensure All Americans Have
 deck: The Biden-Harris Administration is championing inclusivity by requiring
   federal agencies to prioritize accessibility in the digital space, recognizing
   the gap in access for the 61 million Americans with disabilities on nearly
-  half of popular Federal Government websites. The new guidance mandates
+  half of popular federal government websites. The new guidance mandates
   rigorous testing, inclusion of individuals with disabilities in design
   processes, and the incorporation of experts in procurement, emphasizing a
   commitment to universal access. Read more to discover how these measures aim
@@ -16,7 +16,7 @@ deck: The Biden-Harris Administration is championing inclusivity by requiring
 summary: The Biden-Harris Administration is championing inclusivity by requiring
   federal agencies to prioritize accessibility in the digital space, recognizing
   the gap in access for the 61 million Americans with disabilities on nearly
-  half of popular Federal Government websites. The new guidance mandates
+  half of popular federal government websites. The new guidance mandates
   rigorous testing, inclusion of individuals with disabilities in design
   processes, and the incorporation of experts in procurement, emphasizing a
   commitment to universal access. Read more to discover how these measures aim
