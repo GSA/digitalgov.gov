@@ -12,7 +12,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - best-practices
   - budgeting-and-performance
   - budgeting-and-performance
   - us-department-of-the-treasury
