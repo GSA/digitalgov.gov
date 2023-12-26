@@ -6,7 +6,6 @@ summary: A checklist of requirements for people who are presenting at a
 # See all topics at https://digital.gov/topics
 topics:
   - presentations
-  - best-practices
   - audio-video
   - video
 # See all authors at https://digital.gov/authors

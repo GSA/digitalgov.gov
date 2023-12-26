@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - us-department-of-veterans-affairs
-  - VA
 ---
 
 I work for the Department of Veterans Affairs in a national benefits office that oversees Veterans life Insurance programs. Our office has held a couple of successful Twitter Town Halls. They get a little smoother each time because we make a point of adjusting our style based on our lessons learned. After answering a question about Twitter Town Halls on a listserv, DigitalGov.gov asked if I would write a blog about my experience. So, I gathered all our lessons learned from the public affairs point of view, and then ran this blog past our social media techies for their input in the hopes that I covered a good bit of what you need to know from all perspectives. So, let’s start with the basics:

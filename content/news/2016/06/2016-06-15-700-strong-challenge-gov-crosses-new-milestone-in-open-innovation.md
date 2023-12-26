@@ -12,8 +12,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - innovation
-  - nasa
-  - National Institute on Drug Abuse
   - nih
 ---
 

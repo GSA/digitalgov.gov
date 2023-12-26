@@ -7,7 +7,6 @@ authors:
   - john-paul
 topics:
   - content
-  - recaps
   - usagov
 
 ---

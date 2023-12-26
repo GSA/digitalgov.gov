@@ -8,10 +8,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
   - us-department-of-veterans-affairs
-  - VA
 ---
 
 {{< legacy-img src="2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" caption="" >}} 

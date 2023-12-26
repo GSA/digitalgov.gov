@@ -8,9 +8,7 @@ authors:
 topics:
   - api
   - data
-  - american-red-cross
   - data-gov
-  - DOT
   - GitHub
   - open-data
   - US Department of Agriculture

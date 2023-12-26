@@ -6,7 +6,6 @@ summary: 'The National Gallery of Art has released a free mobile application abo
 topics:
   - mobile
   - mobile-apps
-  - national-gallery-of-art
   - thursday-mobile-products
 ---
 

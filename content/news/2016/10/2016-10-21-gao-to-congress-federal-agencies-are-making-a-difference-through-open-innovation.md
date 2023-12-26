@@ -17,11 +17,11 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - DOT
-  - epa
-  - GAO
+  
+  
+  
   - innovation
-  - nasa
+  
   - open-data
   - us-environmental-protection-agency
   - us-government-accountability-office

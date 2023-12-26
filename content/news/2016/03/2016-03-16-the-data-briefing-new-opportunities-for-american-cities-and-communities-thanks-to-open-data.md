@@ -16,7 +16,7 @@ topics:
   - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
-  - white-house
+
 ---
 
 Open data and APIs* have not only transformed the federal government; open data and APIs are also transforming tribal, state and local governments. Like federal agencies, some tribal, state and local governments are ahead of other governments in open data innovations. This situation reminds me of my earlier work with the Office of Intergovernmental Affairs in the General Services Administration. In 1998, I was a Presidential Management Fellow working on a project to catalog how state and local governments were using websites to deliver government information and services. {{< legacy-img src="2016/03/600-x-425-Coding-symbol-on-virtual-screen-about-developing-apps-or-websites-NicoElNino-iStock-Thinkstock-497983132.jpg" alt="Coding symbol on virtual screen about developing apps or websites." caption="" >}} 

@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
   - podcast
   - the-content-corner
   - us-government-printing-office

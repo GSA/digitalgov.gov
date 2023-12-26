@@ -12,10 +12,7 @@ topics:
   - metrics
   - our-work
   - api
-  - Census
-  - department-of-commerce
   - digital-analytics-program
-  - HHS
   - USDA
 ---
 

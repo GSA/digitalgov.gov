@@ -6,8 +6,6 @@ summary: There are multiple health-related Twitter chats every day of the week. 
 authors:
   - yasmine-kloth
 topics:
-  - social-media
-  - national-institutes-of-health
   - nih
   - social-media
 ---

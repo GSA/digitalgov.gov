@@ -18,7 +18,6 @@ topics:
   - multimedia
   - metrics
   - mobile
-  - recaps
   - user-generated-content
   - video
   - virtual-reality

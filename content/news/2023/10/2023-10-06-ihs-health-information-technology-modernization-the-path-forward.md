@@ -18,7 +18,6 @@ summary: Save the date for this year’s fourth Tribal Consultation and Urban
 topics:
   - innovation
   - acquisition
-  - indian-health-service
 slug: ihs-health-information-technology-modernization-the-path-forward
 # Controls how this page appears across the site
 # 0 -- hidden

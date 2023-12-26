@@ -7,7 +7,6 @@ authors:
   - christen-geiler
 topics:
   - social-media
-  - national-institutes-of-health
   - nih
 ---
 

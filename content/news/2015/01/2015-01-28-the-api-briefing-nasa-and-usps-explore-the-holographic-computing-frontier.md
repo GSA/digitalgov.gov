@@ -9,7 +9,6 @@ topics:
   - api
   - augmented-reality
   - mobile-apps
-  - nasa
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - US Department of Agriculture
@@ -18,7 +17,6 @@ topics:
   - USPS
   - virtual-augmented-reality-community
   - wednesday-api-briefing
-
 ---
 
 Big news in the technology world as Microsoft unveiled <a href="http://www.microsoft.com/microsoft-hololens/en-us" target="_blank">HoloLens and Microsoft’s use of holographic computing in the upcoming Windows 10 release</a>. Holographic computing or augmented reality uses computer-generated images that are overlaid on real world videos. For example, a user can view a car through their smartphone. An app can project information such as make and model, fuel mileage, and other facts onto a real-time view of a particular car. The value of augmented reality apps is that the app can recognize a real world object and provide the user relevant information concerning the object.

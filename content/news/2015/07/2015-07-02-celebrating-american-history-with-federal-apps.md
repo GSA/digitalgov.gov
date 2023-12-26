@@ -8,13 +8,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - abmc
-  - american-battle-monuments-commission
-  - mobile
-  - NARA
-  - national-archives-and-records-administration
   - native-apps
-  - smithsonian-institution
   - thursday-mobile-products
  
 ---

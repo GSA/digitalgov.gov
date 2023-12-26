@@ -11,10 +11,8 @@ topics:
   - analytics
   - big-data
   - data
-  - GAO
+  
   - metrics
-  - transportation-security-administration
-  - TSA
   - us-government-accountability-office
   - united-states-department-of-transportation
 ---

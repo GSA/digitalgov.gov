@@ -9,7 +9,6 @@ topics:
   - challenges
   - challenges-and-prize-competitions
   - data
-  - DOE
   - innovation
   - open-data
   - united-states-department-of-energy

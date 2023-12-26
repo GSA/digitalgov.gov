@@ -20,7 +20,6 @@ topics:
   - metrics
   - analytics
   - usa-gov
-  - go-usa-gov
 slug: sunsetting-go-usa-gov-frequently-asked-questions
 # Controls how this page appears across the site
 # 0 -- hidden

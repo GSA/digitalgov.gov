@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - our-work
-  - digitalgov-summit
-
 ---
 
 Here's another other opportunity to show DigitalGov innovators what you got!

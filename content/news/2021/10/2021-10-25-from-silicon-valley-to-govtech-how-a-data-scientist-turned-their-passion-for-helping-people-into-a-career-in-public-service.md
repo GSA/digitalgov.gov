@@ -8,7 +8,6 @@ summary: "Many opportunities are available for technologists to make an impact i
 topics:
   - data
   - professional-development
-  - tts
 # See all authors at https://digital.gov/authors
 authors:
   - dahianna-salazar-foreman

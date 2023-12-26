@@ -7,8 +7,8 @@ authors:
   - christen-geiler
 topics:
   - content
-  - cdc
-  - centers-for-disease-control-and-prevention
+  
+  
   - content-models
   - COPE
   - open-and-structured-content-models

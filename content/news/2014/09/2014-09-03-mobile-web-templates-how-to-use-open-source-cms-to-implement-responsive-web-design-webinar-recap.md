@@ -8,16 +8,13 @@ authors:
 topics:
   - mobile
   - api
-  - CMS
   - content-management-system
   - content-models
   - drupal
   - mobile-ux-guideline-1
   - open-and-structured-content-models
   - open-source
-  - recaps
   - responsive-web-design
-  - sitesusagov
   - us-department-of-state
 ---
 

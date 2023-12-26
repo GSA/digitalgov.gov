@@ -7,7 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - ICE
   - mobile-apps
   - multilingual
   - thursday-mobile-products

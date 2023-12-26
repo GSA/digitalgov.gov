@@ -7,14 +7,9 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  - federal-emergency-management-agency
-  - fema
   - mobile-apps
-  - SSA
-  - the-united-states-social-security-administration
   - thursday-mobile-products
   - united-states-geological-survey
- 
   - USGS
 ---
 

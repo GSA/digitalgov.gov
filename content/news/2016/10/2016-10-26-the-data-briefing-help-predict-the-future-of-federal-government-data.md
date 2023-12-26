@@ -18,7 +18,6 @@ topics:
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
-  - best-practices
   - big-data
   - blockchain
   - chatbots

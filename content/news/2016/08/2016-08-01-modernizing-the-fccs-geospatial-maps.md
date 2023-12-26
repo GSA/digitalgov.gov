@@ -10,11 +10,11 @@ authors:
 topics:
   - data
   - cloud
-  - CMS
+  
   - data
   - data-visualization
-  - FCC
-  - federal-communications-commission
+  
+  
   - open-data
 ---
 

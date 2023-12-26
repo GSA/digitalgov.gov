@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
   - content-strategy
   - infographic
   - social-media

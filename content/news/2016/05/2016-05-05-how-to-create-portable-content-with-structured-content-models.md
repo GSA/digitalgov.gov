@@ -5,16 +5,15 @@ title: How to Create Portable Content with Structured Content Models
 summary: Structuring your content for portability across media platforms gives your agency the ability to not only place your message on other properties, but gives you the assurance that your information will always be up-to-date across multiple platforms. This ability is never more important than during an emergency, whether it is a natural disaster or a
 topics:
   - content
-  - cdc
-  - centers-for-disease-control-and-prevention
+  
+  
   - content-syndication
-  - HHS
+  
   - mobile-gov-community-of-practice
   - mobile-gov
-  - national-institutes-of-health
+  
   - nih
   - open-and-structured-content-models
-  - recaps
   - structured-content
   - united-states-department-of-health-and-human-services
   - usagov

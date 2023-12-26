@@ -10,8 +10,6 @@ topics:
   - code
   - crowdsourcing-and-citizen-science
   - crowdsourcing
-  - department-of-commerce
-  - epa
   - gsa
   - mobile-apps
 ---

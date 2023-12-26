@@ -12,9 +12,6 @@ topics:
   - customer-satisfaction
   - customer-service
   - data
-  - FAFSA
-  - federal-student-aid
-  - FSA
   - mobile-friendly
   - user-experience
 ---

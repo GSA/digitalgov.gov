@@ -10,8 +10,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - federal-student-aid
-  - recaps
   - us-department-of-education
 ---
 

@@ -7,7 +7,6 @@ authors:
   - firstnet-communications
 topics:
   - data
-  - firstnet
   - innovation
 
 ---

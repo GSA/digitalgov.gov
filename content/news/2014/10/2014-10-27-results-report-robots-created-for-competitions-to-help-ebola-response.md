@@ -10,7 +10,6 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - nasa
   - us-agency-for-international-development
   - usaid
 ---

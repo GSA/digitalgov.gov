@@ -21,7 +21,6 @@ end_date: 2019-05-23 16:00:00 -0500
 topics: 
   - metrics
   - analytics
-  - analytics-usa-gov
   - dap
   - digital-analytics-program
 

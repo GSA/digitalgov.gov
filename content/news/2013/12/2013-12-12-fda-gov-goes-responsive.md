@@ -5,7 +5,6 @@ title: FDA.gov Goes Responsive
 summary: 'It’s late at night. Your child can&#8217;t sleep: She has some kind of virus. You reach for a bottle of over-the-counter infant fever reducer you bought recently. But wait, you say to yourself: Didn&#8217;t I hear on the news something about a recall? Which brand was that again? Thanks to the digital team at the'
 topics:
   - mobile
-  - fda
   - responsive-web-design
   - thursday-mobile-products
 ---

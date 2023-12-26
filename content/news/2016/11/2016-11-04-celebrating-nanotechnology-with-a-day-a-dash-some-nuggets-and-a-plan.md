@@ -13,7 +13,7 @@ topics:
   - policy
   - innovation
   - OSTP
-  - white-house-office-of-science-and-technology-policy
+  
 ---
 
 > _Summary: The release of an updated National Nanotechnology Initiative Strategic Plan caps a month of activities highlighting nanotechnology._

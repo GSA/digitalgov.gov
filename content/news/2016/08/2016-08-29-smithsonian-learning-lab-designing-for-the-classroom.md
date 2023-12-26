@@ -11,7 +11,6 @@ topics:
   - user-testing-and-research
   - content
   - prototype
-  - smithsonian-institution
   - user-centered-design
   - user-experience
   - user research

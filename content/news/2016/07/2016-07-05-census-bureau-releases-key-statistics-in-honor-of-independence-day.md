@@ -7,7 +7,7 @@ authors:
   - the-commerce-blog
 topics:
   - data
-  - Census
+  
   - data
   - united-states-census-bureau
 ---

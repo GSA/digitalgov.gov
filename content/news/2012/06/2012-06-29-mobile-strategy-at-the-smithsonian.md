@@ -10,7 +10,6 @@ topics:
   - strategy
   - policy
   - mobile-gov-experience
-  - smithsonian-institution
 ---
 
 _[<img class="size-full wp-image-93762 alignright" alt="si-mobile-shot1" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/si-mobile-shot1.jpg" width="201" height="302" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/si-mobile-shot1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Smithsonian._ _

@@ -9,7 +9,6 @@ topics:
   - data
   - design
   - data-visualization
-  - GAO
   - us-government-accountability-office
 ---
 

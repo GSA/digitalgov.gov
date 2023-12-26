@@ -8,8 +8,6 @@ authors:
   - joanna-karpinski-widzer
 topics:
   - user-experience
-  - national-institutes-of-health
-  - National Library of Medicine
   - nih
   - NLM
 ---

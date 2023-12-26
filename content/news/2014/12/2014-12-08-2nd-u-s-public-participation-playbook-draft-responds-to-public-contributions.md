@@ -7,26 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - Census
-  - department-of-commerce
-  - dhs
-  - DOL
-  - DOT
-  - epa
-  - FAA
-  - FCC
-  - fda
-  - Federal Aviation Administration
-  - federal-communications-commission
-  - Firstnet
-  - FWS
   - gsa
-  - Library of Congress
-  - LOC
-  - nasa
-  - National Defense University
-  - national-institutes-of-health
-  - National Library of Medicine
   - nih
   - NLM
   - NPS
@@ -36,8 +17,6 @@ topics:
   - open-government
   - OSTP
   - peace-corps
-  - SBA
-  - smithsonian-institution
   - us-coast-guard
   - us-department-of-education
   - us-department-of-labor
@@ -53,8 +32,6 @@ topics:
   - united-states-geological-survey
   - us-fish-and-wildlife-service
   - USGS
-  - white-house-office-of-science-and-technology-policy
-
 ---
 
 {{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}

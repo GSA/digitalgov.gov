@@ -14,7 +14,6 @@ topics:
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-6
   - mobile-gov
-  - recaps
   - security
 
 ---

@@ -12,7 +12,7 @@ topics:
   - policy
   - big-data
   - data
-  - nasa
+  
   - the-data-briefing
 ---
 

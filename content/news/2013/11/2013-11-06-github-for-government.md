@@ -7,7 +7,6 @@ authors:
   - nkunin
 topics:
   - code
-  - CFPB
   - GitHub
   - open-source
 ---

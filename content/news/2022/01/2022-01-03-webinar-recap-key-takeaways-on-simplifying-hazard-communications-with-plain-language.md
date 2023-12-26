@@ -9,11 +9,9 @@ topics:
   - nws
   - noaa
   - national-oceanic-and-atmospheric-administration
-  - national-weather-service
   - plain-language
   - user-research
   - user-experience
-  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - rebecca-nelson

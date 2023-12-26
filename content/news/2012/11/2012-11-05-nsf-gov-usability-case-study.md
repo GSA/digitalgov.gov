@@ -8,7 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - national-science-foundation
   - nsf
   - usability-case-study
   - user-experience

@@ -7,9 +7,7 @@ authors:
   - apiazza
 topics:
   - our-work
-  - digitalgov-summit
   - innovation
-
 ---
 
 Thanks to your awesome input on the Citizen Services Summit agenda and the rallying of the Summit Sounding Board, we now have [more than 70 ideas and 50 comments](http://crowdhall.com/h/299/) on those ideas.

@@ -42,7 +42,7 @@ As an example, if you publish information about an event as structured content, 
 
 ## How to create structured content
 
-Structure content by adding metadata ("data about data"). Metadata is a way to tag pieces of content with information describing what the content is about. 
+Structure content by adding metadata ("data about data"). Metadata is a way to tag pieces of content with information describing what the content is about.
 
 Web pages typically consist of several common pieces of information, such as titles, dates, descriptions, or contributors. It’s important to describe things consistently by using a common taxonomy and controlled vocabularies. When you add metadata to your content that consistently identifies and describes each of these elements, you’ve created structured content.
 
@@ -51,17 +51,17 @@ Examples of how to define and apply metadata include:
 - [GOV.UK Taxonomy principles](https://www.gov.uk/government/publications/govuk-topic-taxonomy-principles/govuk-taxonomy-principles) - How to apply a common taxonomy to content.
 - [DHS Lexicon | Homeland Security](https://www.dhs.gov/publication/dhs-lexicon) - The controlled vocabulary DHS uses to consistently define common terms used across the agency.
 
-Popular search engines also provide helpful tips on how to use structured data to mark up your content: 
+Popular search engines also provide helpful tips on how to use structured data to mark up your content:
 
 - [Introduction to structured data markup in Google Search](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170&topic=21997&ctx=topic) - Produce richer search results
 - [Marking up your site with structured data in Bing Webmaster Tools](https://www.bing.com/webmasters/help/marking-up-your-site-with-structured-data-3a93e731) - Annotate structured content to stand out in search results
 
-To understand how structured data can affect search results, read this case study on [how USA.gov added SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find on search engines. 
+To understand how structured data can affect search results, read this case study on [how USA.gov added SpecialAnnouncement markup](https://digital.gov/2020/05/11/experimenting-with-specialannouncement-markup/) to make COVID-19 information easier to find on search engines.
 
 This approach makes it easier for people to find, understand, and use government information. The key is to think about your content as building blocks, instead of pages.
 
 ## What can I do next?
 
-You can test whether your public web pages contain rich results with several free online tools, such as the [Schema Markup Validator](https://validator.schema.org/). Enter a few URLs into the tool to see if your pages have structured data markup or not. 
+You can test whether your public web pages contain rich results with several free online tools, such as the [Schema Markup Validator](https://validator.schema.org/). Enter a few URLs into the tool to see if your pages have structured data markup or not.
 
 Then, use this information to kick off a conversation with the developers on your team to improve the markup on your site. The best time to start is now.

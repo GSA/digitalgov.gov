@@ -12,10 +12,8 @@ topics:
   - strategy
   - policy
   - 18f
-  - DoD
+  
   - security
-  - technology-transformation-services
-  - tts
   - united-states-department-of-defense
   - our-work
 

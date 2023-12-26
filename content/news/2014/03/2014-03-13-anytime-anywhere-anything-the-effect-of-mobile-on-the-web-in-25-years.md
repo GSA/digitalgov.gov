@@ -7,9 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Census
   - content-syndication
-  - DOL
   - internet-of-things
   - mobile-code-catalog
   - mobile-first

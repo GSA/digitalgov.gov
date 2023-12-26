@@ -7,12 +7,10 @@ authors:
   - danielle-brigida
 topics:
   - content
-  - blog
-  - FWS
-  - nasa
+  
   - us-department-of-the-interior
   - us-fish-and-wildlife-service
-  - white-house
+
 ---
 
 How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the [White House](https://www.whitehouse.gov/blog), [NASA](http://blogs.nasa.gov/) and the [Department of the Interior](https://www.doi.gov/blog) run their blogs and share content. {{< legacy-img src="2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" alt="The word Blog spelled out in letterpress." caption="" >}} 

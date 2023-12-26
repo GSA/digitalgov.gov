@@ -9,7 +9,7 @@ topics:
   - content
   - video
   - content-strategy
-  - epa
+  
   - us-environmental-protection-agency
 ---
 

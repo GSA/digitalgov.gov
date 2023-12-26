@@ -10,8 +10,6 @@ topics:
   - mobile-apps
   - NORAD
   - North American Defense Command
-  - SSA
-  - the-united-states-social-security-administration
   - thursday-mobile-products
 ---
 

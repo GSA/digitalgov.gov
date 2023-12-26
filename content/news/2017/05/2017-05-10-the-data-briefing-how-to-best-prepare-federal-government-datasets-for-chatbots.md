@@ -12,7 +12,6 @@ topics:
   - ai
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
-  - best-practices
   - chatbots
   - data
   - innovation
