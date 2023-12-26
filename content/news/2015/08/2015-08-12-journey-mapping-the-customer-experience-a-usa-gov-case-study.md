@@ -10,7 +10,7 @@ topics:
   - user-experience
   - analytics
   - customer-experience
-  - government-contact-centers
+  - contact-center
   - personas
   - usa-gov
 ---
@@ -39,7 +39,7 @@ To create Linda’s behavior line, we looked at:
   * Web analytics specifically for our [Government Benefits, Grants, and Loans](https://www.usa.gov/benefits-grants-loans) content
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov
-  * [Contact center]({{< ref "/topics/government-contact-centers" >}}) content usage
+  * [Contact center]({{< ref "/topics/contact-center" >}}) content usage
   * Web analytics for other government websites available through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})
   * General search trends on Google
 

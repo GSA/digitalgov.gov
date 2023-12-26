@@ -9,7 +9,7 @@ topics:
   - strategy
   - policy
   - acquisition
-  - agile
+  - product-and-project-management
   - gsa
   - innovation
   - Office of Management and Budget

@@ -11,9 +11,9 @@ topics:
   - product-management
   - strategy
   - policy
-  - agile
-  - agile-lean-community-of-practice
-  - architecture
+  - product-and-project-management
+  - product-and-project-management
+  - information-architecture
   - best-practices
   - data
   - the-data-briefing

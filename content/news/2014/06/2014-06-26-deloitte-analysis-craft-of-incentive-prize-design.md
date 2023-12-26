@@ -6,7 +6,6 @@ summary: 'Federal challenge and prize competitions are in the news again. Our co
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
   - challenges-and-prize-competitions
   - OSTP
   - white-house-office-of-science-and-technology-policy

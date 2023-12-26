@@ -12,7 +12,7 @@ topics:
   - monthly-theme
   - content-models
   - content-strategy
-  - metadata
+  - search-engine-optimization
   - mobile-ux-guideline-1
   - national-cancer-institute
   - open-and-structured-content-models

@@ -6,7 +6,7 @@ summary: 'As we round out 2014, we’re reflecting on the exciting year we’ve 
 authors:
   - andreanocesigritz
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - content
   - product-management

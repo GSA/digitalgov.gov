@@ -6,11 +6,9 @@ summary: 'This year, the deadline for agencies to submit their reporting of ince
 authors:
   - tammy-white
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - data
   - product-management
-  - challenge-gov
-  - challenges-and-prize-competitions
   - OSTP
   - webinar
   - white-house-office-of-science-and-technology-policy

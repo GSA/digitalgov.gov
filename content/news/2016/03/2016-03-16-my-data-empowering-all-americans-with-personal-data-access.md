@@ -11,7 +11,7 @@ topics:
   - data
   - monthly-theme
   - 18f
-  - data-gov
+  - open-data
   - Education
   - HHS
   - open-government

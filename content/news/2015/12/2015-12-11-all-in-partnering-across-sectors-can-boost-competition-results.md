@@ -6,7 +6,7 @@ summary: 'We’ve heard the phrase a million times: Nobody does it alone. Still,
 authors:
   - eric-beidel
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - monthly-theme
   - challenges-and-prize-competitions
   - epa

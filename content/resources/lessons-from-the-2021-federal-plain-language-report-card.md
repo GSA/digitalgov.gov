@@ -12,7 +12,6 @@ topics:
   - plain-language-community-of-practice
   - writing
   - design
-  - plain-writing-act-of-2010
 # See all authors at https://digital.gov/authors
 authors:
   - mara-goldberg

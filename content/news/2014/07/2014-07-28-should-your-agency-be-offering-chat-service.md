@@ -12,8 +12,7 @@ topics:
   - aoi
   - customer-experience
   - customer-satisfaction
-  - Government Contact Center Council
-  - government-contact-centers
+  - contact-center
   - HHS
   - us-department-of-education
   - united-states-department-of-health-and-human-services

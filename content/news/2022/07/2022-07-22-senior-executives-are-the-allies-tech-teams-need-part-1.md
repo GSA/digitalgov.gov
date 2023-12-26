@@ -8,7 +8,7 @@ deck: "**Senior Executives Are the Allies Tech Teams Need, Part 1**&mdash;Succes
 # See all topics at https://digital.gov/topics
 topics:
   - 18f
-  - agile
+  - product-and-project-management
 slug: senior-executives-are-the-allies-tech-teams-need-part-1
 
 # Controls how this page appears across the site

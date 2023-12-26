@@ -11,11 +11,10 @@ topics:
   - our-work
   - analytics
   - customer-experience
-  - data-gov
+  - open-data
   - digital-analytics-program
   - innovation
   - nasa
-  - open-data
   - transportation-security-administration
   - TSA
 

@@ -9,7 +9,7 @@ topics:
   - api
   - big-data
   - data
-  - data-gov
+  - open-data
   - wednesday-api-briefing
 ---
 

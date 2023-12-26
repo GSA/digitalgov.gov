@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - data
-  - data-gov
   - open-data
   - open-source
 ---

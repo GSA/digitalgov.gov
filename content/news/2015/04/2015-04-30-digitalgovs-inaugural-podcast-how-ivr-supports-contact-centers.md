@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - government-contact-centers
+  - contact-center
   - podcast
   - usa-gov
   - voice

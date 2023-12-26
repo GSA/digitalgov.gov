@@ -15,9 +15,8 @@ expirydate: 2021-12-21
 
 # see all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - product-management
-  - kanban
 
 # see all authors at https://digital.gov/authors
 authors:

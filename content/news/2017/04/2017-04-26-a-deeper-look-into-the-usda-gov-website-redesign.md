@@ -13,7 +13,7 @@ topics:
   - strategy
   - policy
   - accessibility
-  - architecture
+  - information-architecture
   - content
   - mobile-friendly
   - US Department of Agriculture

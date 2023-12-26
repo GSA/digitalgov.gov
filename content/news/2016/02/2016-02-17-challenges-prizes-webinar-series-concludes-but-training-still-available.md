@@ -6,8 +6,7 @@ summary: 'It began with a history lesson and ended with an eye to the future. In
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - challenge-gov
+  - challenges-and-prize-competitions
   - DOE
   - HHS
   - HUD

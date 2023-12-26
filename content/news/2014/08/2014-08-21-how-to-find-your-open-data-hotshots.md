@@ -9,11 +9,10 @@ topics:
   - api
   - data
   - metrics
-  - api
   - Census
-  - data-gov
+  - open-data
   - epa
-  - metadata
+  - search-engine-optimization
   - mobile-apps
   - national-oceanic-and-atmospheric-administration
   - NOAA

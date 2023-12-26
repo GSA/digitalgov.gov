@@ -19,7 +19,7 @@ end_date: 2021-08-17 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - agile
+  - product-and-project-management
   - innovation
 # See all authors at https://digital.gov/authors
 authors:

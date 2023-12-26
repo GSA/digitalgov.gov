@@ -6,7 +6,7 @@ summary: ' Two powerhouses in the Challenge and Prize community came together at
 authors:
   - judy-romano
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - recaps
   - us-agency-for-international-development
   - usaid

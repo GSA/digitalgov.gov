@@ -20,7 +20,7 @@ source: performancegov
 topics:
   - customer-experience
   - product-management
-  - contact-centers
+  - contact-center
   - strategy
   - user-research
   - customer-service

@@ -17,8 +17,7 @@ summary: none
 topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - challenges-and-prizes-community-of-practice
-  - challenge-gov
+  - challenges-and-prize-competitions
   - crowdsourcing
   - crowdsourcing-and-citizen-science
   - white-house-office-of-science-and-technology-policy

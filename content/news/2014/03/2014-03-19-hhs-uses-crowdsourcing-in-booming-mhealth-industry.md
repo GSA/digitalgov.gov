@@ -6,10 +6,9 @@ summary: 'The mobile health (mHealth) market is projected to become a $50 billio
 authors:
   - tlowden
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - mobile
-  - challenge-gov
   - HHS
   - innovation
   - mobile

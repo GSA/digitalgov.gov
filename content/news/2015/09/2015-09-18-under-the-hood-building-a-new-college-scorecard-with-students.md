@@ -9,7 +9,7 @@ topics:
   - code
   - data
   - 18f
-  - agile
+  - product-and-project-management
   - api
   - data
   - open-data

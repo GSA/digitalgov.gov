@@ -7,12 +7,10 @@ authors:
   - bbrantley
 topics:
   - api
-  - challenges
-  - data
-  - apps-challenges
   - challenges-and-prize-competitions
   - data
-  - data-gov
+  - data
+  - open-data
   - innovation
   - mobile
   - mobile-apps

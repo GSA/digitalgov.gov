@@ -12,7 +12,7 @@ topics:
   - monthly-theme
   - api
   - data
-  - data-gov
+  - open-data
   - HHS
   - internet-of-things
   - json

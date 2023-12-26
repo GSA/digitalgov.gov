@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/prizes-and-competitions
+# https://digital.gov/topics/5g
 
-slug: "prizes-and-competitions"
+slug: "information-collection"
 
 # Topic Title
-title: "Prizes and Competitions"
+title: "Information Collection"
 
 # description — keep it short and clear
 summary: ""

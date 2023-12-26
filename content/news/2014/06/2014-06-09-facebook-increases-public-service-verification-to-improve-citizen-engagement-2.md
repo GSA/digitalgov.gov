@@ -12,7 +12,7 @@ topics:
   - governance
   - product-management
   - social-media
-  - data-gov
+  - open-data
   - socialgov-community
   - user-experience
 ---

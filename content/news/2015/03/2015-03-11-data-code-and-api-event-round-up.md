@@ -14,11 +14,10 @@ topics:
   - Consumer Financial Protection Bureau
   - content-management-system
   - data
-  - data-gov
   - drupal
   - GitHub
   - json
-  - metadata
+  - search-engine-optimization
   - mobile-gov-community-of-practice
   - open-and-structured-content-models
   - open-data

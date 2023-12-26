@@ -6,9 +6,8 @@ summary: 'Federal agencies now have the ability to create a challenge competitio
 authors:
   - tlowden
 topics:
-  - challenges
   - crowdsourcing-and-citizen-science
-  - challenge-gov
+  - challenges-and-prize-competitions
   - crowdsourcing
   - innovation
   - recaps

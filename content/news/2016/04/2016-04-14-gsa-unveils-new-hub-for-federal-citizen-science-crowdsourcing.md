@@ -7,7 +7,7 @@ authors:
   - kelly-olson
 topics:
   - crowdsourcing-and-citizen-science
-  - challenge-gov
+  - challenges-and-prize-competitions
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing

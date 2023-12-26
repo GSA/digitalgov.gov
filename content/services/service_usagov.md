@@ -25,7 +25,7 @@ weight: 1
 
 # see all authors at https://digital.gov/authors
 topics:
-  - contact-centers
+  - contact-center
   - customer-service
   - usa-gov
 

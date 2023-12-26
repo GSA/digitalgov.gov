@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - api
   - crowdsourcing
-  - data-gov
+  - open-data
   - Federal CrowdSource Mobile Testing Program
   - NREL
   - usability

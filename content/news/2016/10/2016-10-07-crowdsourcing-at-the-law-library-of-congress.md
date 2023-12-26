@@ -13,7 +13,7 @@ topics:
   - crowdsourcing
   - Law Library of Congress
   - LOC
-  - metadata
+  - search-engine-optimization
   - NARA
   - national-archives-and-records-administration
   - research

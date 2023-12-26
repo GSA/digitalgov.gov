@@ -13,7 +13,7 @@ topics:
   - content-models
   - data
   - federal-register
-  - metadata
+  - search-engine-optimization
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
   - open-and-structured-content-models

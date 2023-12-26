@@ -19,7 +19,7 @@ summary: "**Building a User-Centered Data Strategy**&mdash;Developing a data
 topics:
   - data
   - strategy
-  - agile
+  - product-and-project-management
   - design
   - user-centered-design
 slug: building-a-user-centered-data-strategy

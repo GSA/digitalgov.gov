@@ -15,7 +15,7 @@ summary: Even on the best teams, things need to be monitored and adjusted. If
   stuck in one of the many common pitfalls.
 # See all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - best-practices
 slug: am-i-doing-it-right-a-check-up-for-agile-teams
 # Controls how this page appears across the site

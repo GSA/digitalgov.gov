@@ -12,7 +12,7 @@ topics:
   - content-management-system
   - content-models
   - content-strategy
-  - metadata
+  - search-engine-optimization
   - open-and-structured-content-models
   - the-content-corner
 ---

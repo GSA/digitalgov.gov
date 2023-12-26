@@ -22,7 +22,7 @@ source: digitalgov
 
 # see all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - product-management
   - project-management
   - 18f

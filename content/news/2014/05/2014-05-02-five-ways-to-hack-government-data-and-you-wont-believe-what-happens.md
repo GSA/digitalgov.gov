@@ -6,13 +6,12 @@ summary: ' The National Day of Civic Hacking is actually a weekend. An awe-inspi
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - data
   - writing
   - Census
-  - challenge-gov
-  - data-gov
+  - open-data
   - innovation
   - national-day-of-civic-hacking
   - national-science-foundation

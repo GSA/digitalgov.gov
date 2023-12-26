@@ -14,7 +14,7 @@ topics:
   - api
   - data
   - https
-  - metadata
+  - search-engine-optimization
   - open-data
 
 ---

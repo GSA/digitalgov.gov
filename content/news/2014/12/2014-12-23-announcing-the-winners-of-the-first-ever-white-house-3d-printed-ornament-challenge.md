@@ -7,7 +7,7 @@ authors:
   - stephanie-santoso
   - ryan-xue
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - monthly-theme
   - nasa
   - national-institutes-of-health

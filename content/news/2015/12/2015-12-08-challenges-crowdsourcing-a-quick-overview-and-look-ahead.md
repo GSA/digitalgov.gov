@@ -6,12 +6,9 @@ summary: 'This month we’re highlighting articles about challenge competitions 
 authors:
   - eric-beidel
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - monthly-theme
-  - challenge-gov
-  - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdfunding
@@ -89,7 +86,7 @@ Federal agencies have run more than 630 challenges since the site launched in 20
 
 You’ll read more about those last two in one of this month’s articles on how public-private partnerships are pushing challenge competitions to new heights. You’ll also read a first-person account from one of [Challenge.gov’s mentors](https://www.challenge.gov/mentors/) on the National Institute of Standards and Technology’s foray into its [first app contest](http://nistdata.devpost.com/).
 
-In the meantime, you can learn more about the Challenge.gov program by viewing a comprehensive [video playlist of training, tips and additional resources](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) or by [reading articles in the Challenges category]({{< ref "/topics/challenges" >}}) of this site.
+In the meantime, you can learn more about the Challenge.gov program by viewing a comprehensive [video playlist of training, tips and additional resources](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) or by [reading articles in the Challenges category]({{< ref "/topics/challenges-and-prize-competitions" >}}) of this site.
 
 We hope enjoy all the articles this month and that the work in crowdsourcing inspires you to get involved or launch your own initiative.
 

@@ -10,7 +10,7 @@ topics:
   - product-management
   - content-models
   - COPE
-  - metadata
+  - search-engine-optimization
   - open-and-structured-content-models
   - responsive-web-design
   - structured-content

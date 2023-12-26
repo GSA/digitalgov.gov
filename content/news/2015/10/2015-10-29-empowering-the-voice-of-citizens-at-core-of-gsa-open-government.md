@@ -9,7 +9,7 @@ topics:
   - product-management
   - our-work
   - social-media
-  - data-gov
+  - open-data
   - national-action-plan-on-open-government
   - open-government
 ---

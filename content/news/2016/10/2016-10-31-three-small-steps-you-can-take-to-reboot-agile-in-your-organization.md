@@ -12,12 +12,10 @@ topics:
   - policy
   - user-testing-and-research
   - 18f
-  - agile
+  - product-and-project-management
   - best-practices
   - Commerce
   - department-of-commerce
-  - kanban
-  - lean
   - sprint
   - workflows
 ---

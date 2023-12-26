@@ -11,7 +11,7 @@ topics:
   - aoi
   - customer-experience
   - customer-satisfaction
-  - government-contact-centers
+  - contact-center
 ---
 
 {{< legacy-img src="2014/01/600-x-405-Headset-with-a-microphone-VitalyEdush-iStock-Thinkstock-178719336.jpg" alt="Headset with a microphone" caption="" >}} 

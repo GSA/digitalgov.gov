@@ -11,7 +11,7 @@ topics:
   - CMS
   - content-management-system
   - content-strategy
-  - metadata
+  - search-engine-optimization
   - open-source
   - sitesusagov
 ---

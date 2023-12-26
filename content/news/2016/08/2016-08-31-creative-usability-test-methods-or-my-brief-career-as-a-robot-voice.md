@@ -9,8 +9,7 @@ topics:
   - user-testing-and-research
   - customer-experience
   - customer-service
-  - Government Contact Center Council
-  - government-contact-centers
+  - contact-center
   - usability-testing
   - usagov
   - user-experience

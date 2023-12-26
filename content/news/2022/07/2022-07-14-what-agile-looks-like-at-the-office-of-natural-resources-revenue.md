@@ -8,7 +8,7 @@ deck: "**What Agile Looks Like at the Office of Natural Resources Revenue**&mdas
 summary: asdf
 # See all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - user-centered-design
   - design
   - 18f

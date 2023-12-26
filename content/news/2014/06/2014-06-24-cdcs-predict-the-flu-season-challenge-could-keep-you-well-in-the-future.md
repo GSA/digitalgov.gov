@@ -6,11 +6,10 @@ summary: 'The results of an innovative government prize competition might help y
 authors:
   - tlowden
 topics:
-  - challenges
   - monthly-theme
   - cdc
   - centers-for-disease-control-and-prevention
-  - challenge-gov
+  - challenges-and-prize-competitions
   - HHS
   - united-states-department-of-health-and-human-services
 ---

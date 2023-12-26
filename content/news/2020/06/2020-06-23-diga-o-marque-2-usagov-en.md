@@ -19,7 +19,7 @@ summary: ""
 # see all topics at https://digital.gov/topics
 topics: 
   - accessibility
-  - contact-centers
+  - contact-center
   - content
   - design
   - multilingual

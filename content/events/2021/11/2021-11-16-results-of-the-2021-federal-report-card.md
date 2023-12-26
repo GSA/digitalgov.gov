@@ -13,7 +13,6 @@ end_date: 2021-12-08 15:00:00 -0500
 topics:
   - plain-language
   - plain-language-community-of-practice
-  - plain-writing-act-of-2010
   - training
   - writing
   - user-experience

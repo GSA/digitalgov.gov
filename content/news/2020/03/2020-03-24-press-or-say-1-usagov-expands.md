@@ -18,7 +18,7 @@ summary: "<strong>In 2019, USA.gov received nearly half a million calls!</strong
 
 # see all topics at https://digital.gov/topics
 topics:
-  - contact-centers
+  - contact-center
 
 # see all authors at https://digital.gov/authors
 authors:

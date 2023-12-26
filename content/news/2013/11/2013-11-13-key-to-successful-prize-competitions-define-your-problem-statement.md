@@ -6,11 +6,9 @@ summary: 'In a prize competition, failing to properly define your problem up fro
 authors:
   - tlowden
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - strategy
   - policy
-  - challenge-gov
-  - challenges-and-prize-competitions
 ---
 
 [{{< legacy-img src="2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/apples_and_oranges.jpg)In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.

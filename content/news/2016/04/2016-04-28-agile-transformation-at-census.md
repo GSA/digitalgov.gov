@@ -10,8 +10,8 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - agile
-  - agile-lean-community-of-practice
+  - product-and-project-management
+  - product-and-project-management
 
 ---
 

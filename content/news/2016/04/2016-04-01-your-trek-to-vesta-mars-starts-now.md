@@ -7,12 +7,11 @@ authors:
   - jason-duley
 topics:
   - api
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - data
   - monthly-theme
   - api
-  - apps-challenges
   - data
   - innovation
   - nasa

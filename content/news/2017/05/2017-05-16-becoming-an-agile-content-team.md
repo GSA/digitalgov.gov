@@ -9,8 +9,8 @@ topics:
   - product-management
   - strategy
   - policy
-  - agile
-  - agile-lean-community-of-practice
+  - product-and-project-management
+  - product-and-project-management
   - gsa
   - us-general-services-administration
   - usagov

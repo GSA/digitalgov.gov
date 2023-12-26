@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - Library of Congress
   - LOC
-  - metadata
+  - search-engine-optimization
   - multilingual
   - responsive-web-design
   - social-media
@@ -34,7 +34,7 @@ Yasner noted that there are several Spanish-speaking countries on the list, and 
 
 “We’d like to have more users from Arabic-speaking countries and are implementing strategies to attain this.” Yasner said. “One is working on better ways to display the content and make it more engaging, e.g., timelines, interactive maps, and themes.”
 
-All navigation tools, [metadata]({{< ref "/topics/metadata" >}}), and content descriptions are provided in the seven interface languages. Metadata and descriptions can be listened to with a text-to-voice conversion option that is available for every item in all seven languages, as well.
+All navigation tools, [metadata]({{< ref "/topics/search-engine-optimization" >}}), and content descriptions are provided in the seven interface languages. Metadata and descriptions can be listened to with a text-to-voice conversion option that is available for every item in all seven languages, as well.
 
 ## Making Content Multilingual {{< legacy-img src="2015/04/600-x-437-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Language poster design using social speech bubbles with the word, Hello, in various languages" caption="" >}} 
 

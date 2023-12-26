@@ -6,9 +6,8 @@ summary: 'Thanks to the tremendous work of challenge managers across federal gov
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - our-work
   - challenges-and-prize-competitions
+  - our-work
   - crowdsourcing
   - innovation
 ---

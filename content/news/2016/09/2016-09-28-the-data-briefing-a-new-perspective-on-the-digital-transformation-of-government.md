@@ -11,8 +11,8 @@ topics:
   - product-management
   - strategy
   - policy
-  - agile
-  - architecture
+  - product-and-project-management
+  - information-architecture
   - cloud
   - code
   - data

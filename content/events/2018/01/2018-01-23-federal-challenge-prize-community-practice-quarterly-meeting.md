@@ -25,8 +25,7 @@ venue:
 aliases:
   - /event/federal-challenge-prize-community-practice-quarterly-meeting-february-2018/
 topics:
-  - challenges
-  - challenges-and-prizes-community-of-practice
+  - challenges-and-prize-competitions
   - crowdsourcing
 
 ---

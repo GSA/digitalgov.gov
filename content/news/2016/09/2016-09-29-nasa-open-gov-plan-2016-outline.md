@@ -7,7 +7,7 @@ authors:
   - beth-beck
 topics:
   - api
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - content
   - crowdsourcing-and-citizen-science
@@ -17,7 +17,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - challenges-and-prize-competitions
   - citizen-science
   - code
   - data

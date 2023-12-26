@@ -12,7 +12,7 @@ authors:
   - jonathan-rubin
 topics:
   - api
-  - challenges
+  - challenges-and-prize-competitions
   - content
   - data
   - product-management

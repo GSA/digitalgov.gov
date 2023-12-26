@@ -11,7 +11,7 @@ topics:
   - software-engineering
   - data
   - monthly-theme
-  - agile
+  - product-and-project-management
   - api
   - dhs
   - national-action-plan-on-open-government

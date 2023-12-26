@@ -14,7 +14,7 @@ topics:
   - aoi
   - content-strategy
   - customer-satisfaction
-  - government-contact-centers
+  - contact-center
   - top-tasks
 ---
 

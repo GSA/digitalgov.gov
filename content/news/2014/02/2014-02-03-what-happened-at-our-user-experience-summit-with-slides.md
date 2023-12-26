@@ -13,7 +13,7 @@ topics:
   - mobile-app-development-program
   - NCI
   - OMB
-  - pra
+  - information-collection
   - user-experience
   - user-experience-community-of-practice
 ---

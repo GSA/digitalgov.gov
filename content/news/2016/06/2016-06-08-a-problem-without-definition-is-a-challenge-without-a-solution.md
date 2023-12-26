@@ -6,10 +6,7 @@ summary: 'A prize competition often starts with a problem. In order to get help 
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - recaps
 ---
 

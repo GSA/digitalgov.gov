@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - monthly-theme
-  - agile
+  - product-and-project-management
   - api
   - data
   - data-visualization

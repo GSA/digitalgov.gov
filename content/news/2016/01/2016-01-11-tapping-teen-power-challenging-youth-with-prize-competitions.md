@@ -6,9 +6,6 @@ summary: 'Sometimes in crowdsourcing, you want to take your problem straight to 
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - apps-challenges
-  - challenge-gov
   - challenges-and-prize-competitions
   - nasa
   - national-science-foundation

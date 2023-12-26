@@ -13,13 +13,12 @@ topics:
   - policy
   - user-testing-and-research
   - user-experience
-  - agile
+  - product-and-project-management
   - blockchain
   - dap
   - data
   - digital-analytics-program
   - gsa
-  - lean
   - the-data-briefing
   - us-general-services-administration
   - user-centered-design

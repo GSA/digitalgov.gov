@@ -8,16 +8,12 @@ authors:
   - kris-rowley
 topics:
   - api
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - data
   - strategy
   - policy
   - api
-  - apps-challenges
-  - challenge-gov
-  - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing

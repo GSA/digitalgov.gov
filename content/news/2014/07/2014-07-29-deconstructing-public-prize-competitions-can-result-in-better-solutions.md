@@ -6,9 +6,7 @@ summary: 'When faced with a big, daunting problem to solve, it’s human nature 
 authors:
   - tlowden
 topics:
-  - challenges
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
+  - challenges-and-prize-competitions
   - recaps
 
 ---

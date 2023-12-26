@@ -16,7 +16,6 @@ authors:
 topics:
   - plain-language-community-of-practice
   - plain-language
-  - plain-writing-act-of-2010
   - user-experience
   - writing
   - design

@@ -6,8 +6,7 @@ summary: ' Our team and a few other agencies had the chance to attend the 2013 T
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - challenge-gov
+  - challenges-and-prize-competitions
 ---
 
 [{{< legacy-img src="2014/01/top-coder-250x190.jpg" alt="People working on computers in an informal lounge like area at the Top Coder Event." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/top-coder.jpg)

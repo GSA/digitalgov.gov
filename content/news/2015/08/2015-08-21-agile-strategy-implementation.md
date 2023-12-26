@@ -7,7 +7,7 @@ authors:
   - suzi-connor
 topics:
   - governance
-  - agile
+  - product-and-project-management
   - cdc
   - sprint
   - centers-for-disease-control-and-prevention

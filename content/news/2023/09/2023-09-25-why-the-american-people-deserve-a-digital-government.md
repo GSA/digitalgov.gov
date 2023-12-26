@@ -36,7 +36,7 @@ topics:
   - accessibility
   - governance
   - mobile
-  - pra
+  - information-collection
   - writing
   - performance
   - best-practices

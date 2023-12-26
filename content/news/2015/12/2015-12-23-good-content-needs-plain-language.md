@@ -12,7 +12,6 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - plain-language
-  - plain-writing-act-of-2010
   - user-experience
 ---
 

@@ -9,7 +9,7 @@ topics:
   - data
   - user-experience
   - challenges-and-prize-competitions
-  - data-gov
+  - open-data
   - nasa
   - open-government
 ---

@@ -7,10 +7,9 @@ authors:
   - bbrantley
 topics:
   - data
-  - data-gov
+  - open-data
   - indian-health-service
   - innovation
-  - open-data
   - the-data-briefing
 
 ---

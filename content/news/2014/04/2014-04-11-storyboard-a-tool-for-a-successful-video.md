@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - video
-  - apps-challenges
+  - challenges-and-prize-competitions
   - epa
   - us-environmental-protection-agency
 ---

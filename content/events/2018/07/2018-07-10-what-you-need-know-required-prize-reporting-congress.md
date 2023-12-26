@@ -18,7 +18,7 @@ end_date: 2018-07-10 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - challenges
+  - challenges-and-prize-competitions
   - policy
 
 # see all authors at https://digital.gov/authors

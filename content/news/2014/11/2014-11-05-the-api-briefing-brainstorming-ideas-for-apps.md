@@ -9,7 +9,7 @@ topics:
   - api
   - data
   - mobile
-  - data-gov
+  - open-data
   - DOT
   - US Department of Agriculture
   - united-states-department-of-transportation

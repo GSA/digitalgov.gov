@@ -8,7 +8,6 @@ authors:
 topics:
   - writing
   - plain-language
-  - plain-writing-act-of-2010
   - recaps
 ---
 

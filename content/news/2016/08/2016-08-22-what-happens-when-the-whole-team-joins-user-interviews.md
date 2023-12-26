@@ -11,7 +11,7 @@ topics:
   - policy
   - user-testing-and-research
   - 18f
-  - agile
+  - product-and-project-management
   - research
 ---
 

@@ -6,7 +6,7 @@ summary: 'At the DigitalGov Citizen Services Summit last Friday, Jacob Parcell, 
 authors:
   - alison-lemon
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - content
   - product-management

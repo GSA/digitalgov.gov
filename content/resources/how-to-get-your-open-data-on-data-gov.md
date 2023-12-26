@@ -6,7 +6,6 @@ summary: "Find out below how federal, federal geospatial, and non-federal data i
 topics:
   - data
   - open-data
-  - data-gov
 authors:
   - pashlock
 redirectto: https://resources.data.gov/resources/data-gov-open-data-howto/
@@ -16,14 +15,20 @@ Data.gov is the central clearinghouse for open data from the United States feder
 
 This guide is primarily for the [Open Data Points of Contact](https://project-open-data.cio.gov/points-of-contact/) (POC) at each agency. If you would like to add data to Data.gov and you are not the POC for your agency, please contact your POC. If your agency has no POC listed, please continue reading and [contact Data.gov](https://www.data.gov/contact) for assistance.
 
-- [**Overview**](#overview "Overview")
-- [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1-organize-your-open-data-for-the-datagov-pipeline "Step 1: Organize your open data for the Data.gov Pipeline")
-    - [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
-    - [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
-    - [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
-- [**Step 2: Coordinate with Data.gov**](#step-2-coordinate-with-datagov "Step 2: Coordinate with Data.gov")
-- [**Resources & Tools**](#resources--tools "Resources & Tools")
-- [**Frequently Asked Questions**](#frequently-asked-questions "Frequently Asked Questions")
+- [Overview](#overview)
+- [Step 1. Organize your open data for the Data.gov Pipeline](#step-1-organize-your-open-data-for-the-datagov-pipeline)
+  - [Federal Data with Project Open Data](#federal-data-with-project-open-data)
+  - [Federal Geospatial Data](#federal-geospatial-data)
+  - [Non-Federal Data](#non-federal-data)
+- [Step 2. Coordinate with Data.gov](#step-2-coordinate-with-datagov)
+- [Resources \& Tools](#resources--tools)
+  - [Resources](#resources)
+  - [Testing Tools](#testing-tools)
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [General](#general)
+  - [Federal Data with Project Open Data](#federal-data-with-project-open-data-1)
+  - [Federal Geospatial Data](#federal-geospatial-data-1)
+  - [Non-federal Data](#non-federal-data-1)
 
 ## Overview
 

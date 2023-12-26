@@ -7,9 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - data
   - data-visualization
-  - data-gov
   - open-data
   - the-data-briefing
 ---

@@ -9,7 +9,7 @@ topics:
   - metrics
   - analytics
   - dap
-  - data-gov
+  - open-data
   - epa
   - GAO
   - NPS

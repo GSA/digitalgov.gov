@@ -6,12 +6,11 @@ summary: Crowdsourcing is a critical corner of the digital government landscape,
 authors:
   - awichman
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - communities
   - crowdsourcing-and-citizen-science
   - monthly-theme
   - aoi
-  - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - Consumer Product Safety Commission

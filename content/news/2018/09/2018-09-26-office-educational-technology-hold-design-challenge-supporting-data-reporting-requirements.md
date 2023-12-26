@@ -7,8 +7,6 @@ deck: 'Join ED for two days of sketching, prototyping, and building solutions to
 authors:
   - office-educational-technology
 topics:
-  - challenges
-  - data
   - challenges-and-prize-competitions
   - data
   - data-visualization

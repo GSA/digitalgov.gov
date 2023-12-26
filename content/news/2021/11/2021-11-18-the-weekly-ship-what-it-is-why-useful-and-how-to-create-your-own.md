@@ -13,7 +13,7 @@ topics:
   - strategy
   - policy
   - product-management
-  - agile
+  - product-and-project-management
   - best-practices
   - workflows
   - 18f

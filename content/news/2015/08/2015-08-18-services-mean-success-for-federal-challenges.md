@@ -6,11 +6,9 @@ summary: ' Challenge.gov offers a number of services to help agencies create suc
 authors:
   - judy-romano
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - monthly-theme
   - Census
-  - challenge-gov
-  - challenges-and-prize-competitions
   - open-data
   - united-states-census-bureau
 ---

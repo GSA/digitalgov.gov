@@ -6,11 +6,8 @@ summary: "You've run a challenge and prize competition, selected your winners, a
 authors:
   - ktrebon
 topics:
-  - challenges
-  - apps-challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - data-gov
+  - open-data
   - innovation
 
 ---

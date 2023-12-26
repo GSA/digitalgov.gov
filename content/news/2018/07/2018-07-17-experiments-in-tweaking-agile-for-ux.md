@@ -9,7 +9,7 @@ authors:
 topics:
   - design
   - product-management
-  - agile
+  - product-and-project-management
   - sprint
   - user-experience
   

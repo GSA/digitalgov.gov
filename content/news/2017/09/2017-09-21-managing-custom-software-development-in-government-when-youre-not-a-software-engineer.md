@@ -12,7 +12,7 @@ topics:
   - strategy
   - software-engineering
   - policy
-  - agile
+  - product-and-project-management
   - project-management
   - user-centered-design
 

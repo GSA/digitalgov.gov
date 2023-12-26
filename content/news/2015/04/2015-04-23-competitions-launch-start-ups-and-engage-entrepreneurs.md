@@ -6,10 +6,8 @@ summary: ' When people hear about challenge competitions, they most often ask ab
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - communities
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
+  - communities
   - crowdsourcing
   - national-institutes-of-health
   - nih

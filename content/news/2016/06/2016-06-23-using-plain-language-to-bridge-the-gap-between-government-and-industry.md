@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - 18f
-  - agile
+  - product-and-project-management
   - cloud
   - content
   - gsa

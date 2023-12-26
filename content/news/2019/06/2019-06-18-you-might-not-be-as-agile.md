@@ -18,7 +18,7 @@ source: 18f
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
+  - product-and-project-management
   - product-management
 
 # see all authors at https://digital.gov/authors

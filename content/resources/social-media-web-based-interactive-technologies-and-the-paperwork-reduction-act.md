@@ -6,7 +6,7 @@ summary: "This memo clarifies when and how the Paperwork Reduction Act of 1995 (
 topics:
   - social-media
   - policy
-  - pra
+  - information-collection
 
 ---
 

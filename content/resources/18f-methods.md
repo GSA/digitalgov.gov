@@ -12,7 +12,7 @@ authors:
 topics:
   - content
   - design
-  - agile
+  - product-and-project-management
   - content-strategy
   - research
   - user-experience

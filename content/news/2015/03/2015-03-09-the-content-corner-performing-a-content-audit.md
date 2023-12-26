@@ -11,7 +11,7 @@ topics:
   - analytics
   - content-strategy
   - infographic
-  - metadata
+  - search-engine-optimization
   - the-content-corner
   - usability
   - user-experience

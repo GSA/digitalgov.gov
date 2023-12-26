@@ -9,8 +9,7 @@ topics:
   - product-management
   - mobile
   - customer-experience
-  - Government Contact Center Council
-  - government-contact-centers
+  - contact-center
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
   - trends-on-tuesday

@@ -11,7 +11,7 @@ summary: "Federal employees interested in robotic process automation should join
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
+  - product-and-project-management
   - emerging-tech
   - performance
   - strategy

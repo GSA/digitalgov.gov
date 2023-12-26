@@ -12,7 +12,6 @@ topics:
   - 18f
   - analytics-usa-gov
   - api
-  - data-gov
   - open-data
   - recaps
 

@@ -6,7 +6,7 @@ summary: Our purpose is to build innovation and intrapreneurship capacity across
 topics:
   - innovation
   - customer-experience
-  - agile
+  - product-and-project-management
 # See all authors at https://digital.gov/authors
 authors:
   - bethany-blakey

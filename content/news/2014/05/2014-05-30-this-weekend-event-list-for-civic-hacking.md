@@ -6,12 +6,12 @@ summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange eve
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - data
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
-  - data-gov
+  - open-data
   - DOL
   - DOT
   - epa

@@ -12,7 +12,7 @@ topics:
   - content-strategy
   - dhs
   - metrics
-  - plain-writing-act-of-2010
+  - plain-language
   - social-media
   - the-content-corner
   - united-states-department-of-homeland-security

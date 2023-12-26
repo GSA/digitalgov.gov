@@ -15,7 +15,7 @@ topics:
   - analytics
   - mobile
   - api
-  - contact-centers
+  - contact-center
   - open-data
 
 ---

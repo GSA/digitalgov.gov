@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - code
-  - data-gov
   - mobile-apps
   - nasa
   - open-data

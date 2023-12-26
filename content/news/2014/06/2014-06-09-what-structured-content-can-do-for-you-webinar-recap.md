@@ -10,12 +10,11 @@ topics:
   - communities
   - content
   - aoi
-  - api
   - Census
   - content-models
   - GitHub
   - gsa
-  - metadata
+  - search-engine-optimization
   - national-institutes-of-health
   - nih
   - open-and-structured-content-models

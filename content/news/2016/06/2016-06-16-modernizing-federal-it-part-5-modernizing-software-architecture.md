@@ -10,7 +10,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - architecture
+  - information-architecture
   - infrastructure
   - SSA
   - the-united-states-social-security-administration

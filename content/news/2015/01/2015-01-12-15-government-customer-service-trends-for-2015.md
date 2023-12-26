@@ -13,7 +13,7 @@ topics:
   - user-experience
   - customer-experience
   - customer-service
-  - government-contact-centers
+  - contact-center
   - personas
 ---
 

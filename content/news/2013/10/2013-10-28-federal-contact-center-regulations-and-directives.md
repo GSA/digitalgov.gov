@@ -7,7 +7,7 @@ authors:
   - tonya-beres
 topics:
   - product-management
-  - government-contact-centers
+  - contact-center
   - privacy
   - section-508
 ---

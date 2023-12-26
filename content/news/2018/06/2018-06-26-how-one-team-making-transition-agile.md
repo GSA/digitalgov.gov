@@ -10,8 +10,7 @@ topics:
   - software-engineering
   - strategy
   - policy
-  - agile
-  - lean
+  - product-and-project-management
   - methodology
   - scrum
   - sprint

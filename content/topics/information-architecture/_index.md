@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/browsers
+# https://digital.gov/topics/information-architecture
 
-slug: "browsers"
+slug: "information-architecture"
 
 # Topic Title
-title: "Browsers"
+title: "Information Architecture"
 
 # description — keep it short and clear
 summary: ""

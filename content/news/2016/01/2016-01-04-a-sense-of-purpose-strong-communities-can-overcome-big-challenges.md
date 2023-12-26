@@ -6,11 +6,9 @@ summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not t
 authors:
   - eric-beidel
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - monthly-theme
-  - challenge-gov
-  - challenges-and-prize-competitions
   - crowdsourcing
   - HUD
   - recaps

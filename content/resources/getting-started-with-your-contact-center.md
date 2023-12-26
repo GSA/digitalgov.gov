@@ -9,7 +9,7 @@ authors:
   - tonya-beres
 
 topics:
-  - contact-centers
+  - contact-center
 
 ---
 

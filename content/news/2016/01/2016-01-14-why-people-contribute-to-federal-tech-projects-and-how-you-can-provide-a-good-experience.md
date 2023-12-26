@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - 18f
-  - agile
+  - product-and-project-management
   - open-opportunities-program
   - open-source
 ---

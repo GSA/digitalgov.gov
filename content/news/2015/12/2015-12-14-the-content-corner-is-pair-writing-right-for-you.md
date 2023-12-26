@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - writing
   - administrative-office-of-the-united-states-courts
-  - agile
+  - product-and-project-management
   - the-content-corner
 ---
 

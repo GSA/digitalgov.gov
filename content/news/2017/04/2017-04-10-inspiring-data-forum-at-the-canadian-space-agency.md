@@ -10,7 +10,7 @@ topics:
   - code
   - data
   - api
-  - apps-challenges
+  - challenges-and-prize-competitions
   - data
   - nasa
   - National Aeronautics and Space Administration

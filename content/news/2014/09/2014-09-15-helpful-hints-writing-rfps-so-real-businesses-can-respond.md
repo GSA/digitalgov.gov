@@ -6,10 +6,7 @@ summary: 'If you have a hand in contracts for crowdsourcing initiatives and chal
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - nasa
 ---

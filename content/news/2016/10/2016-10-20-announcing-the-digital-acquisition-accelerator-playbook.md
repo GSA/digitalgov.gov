@@ -11,9 +11,8 @@ topics:
   - policy
   - 18f
   - acquisition
-  - agile
+  - product-and-project-management
   - innovation
-  - lean
   - open
   - PIF
   - Presidential Innovation Fellows

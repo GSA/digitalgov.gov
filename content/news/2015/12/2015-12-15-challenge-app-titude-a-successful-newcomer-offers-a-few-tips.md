@@ -6,11 +6,9 @@ summary: 'The Reference Data Challenge, launched this summer, was a call for inn
 authors:
   - heather-evans
 topics:
-  - challenges
-  - monthly-theme
-  - challenge-gov
   - challenges-and-prize-competitions
-  - data-gov
+  - monthly-theme
+  - open-data
   - mobile-apps
   - national-institute-of-standards-and-technology
   - NIST

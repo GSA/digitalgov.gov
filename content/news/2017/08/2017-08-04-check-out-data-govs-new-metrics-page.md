@@ -9,8 +9,7 @@ topics:
   - data
   - metrics
   - analytics
-  - data
-  - data-gov
+  - open-data
   - metrics
 ---
 

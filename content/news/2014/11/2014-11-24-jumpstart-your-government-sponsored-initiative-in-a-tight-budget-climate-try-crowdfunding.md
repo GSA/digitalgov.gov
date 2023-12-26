@@ -6,7 +6,7 @@ summary: 'There are many ways to apply crowdfunding in the government space. Thi
 authors:
   - minette-wilson
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - product-management
   - social-media
   - crowdfunding

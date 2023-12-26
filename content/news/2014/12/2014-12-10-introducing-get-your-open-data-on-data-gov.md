@@ -7,8 +7,7 @@ authors:
   - rebecca-williams
 topics:
   - data
-  - data-gov
-  - metadata
+  - search-engine-optimization
   - open-data
 ---
 

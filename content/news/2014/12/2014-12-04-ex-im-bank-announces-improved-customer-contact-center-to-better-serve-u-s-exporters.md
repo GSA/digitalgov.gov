@@ -9,7 +9,7 @@ topics:
   - product-management
   - Ex-Im Bank
   - Export-Import Bank of the United States
-  - government-contact-centers
+  - contact-center
 ---
 
 {{< legacy-img src="2014/12/600-x-340-Ex-Im-Export-Import-Bank-Contact-Center-Team.jpg" alt="Export-Import Bank Contact Center Team" >}}

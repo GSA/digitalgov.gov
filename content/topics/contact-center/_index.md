@@ -2,10 +2,10 @@
 # This topic lives at
 # https://digital.gov/topics/contact-centers
 
-slug: "contact-centers"
+slug: "contact-center"
 
 # Topic Title
-title: "Contact Centers"
+title: "Contact Center"
 
 # description — keep it short and clear
 summary: ""

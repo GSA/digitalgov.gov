@@ -7,7 +7,7 @@ authors:
   - phaedra-chrousos
 topics:
   - product-management
-  - data-gov
+  - open-data
   - national-action-plan-on-open-government
   - open-government
 ---

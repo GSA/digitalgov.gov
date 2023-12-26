@@ -12,7 +12,7 @@ authors:
   - jeremyzilar
 topics:
   - product-management
-  - pra
+  - information-collection
   - policy
 
 featured_image:

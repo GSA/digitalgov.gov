@@ -7,7 +7,6 @@ authors:
   - curt-tilmes
 topics:
   - data
-  - data-gov
   - nasa
   - open-data
 ---

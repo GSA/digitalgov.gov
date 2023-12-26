@@ -13,7 +13,7 @@ date: 2023-10-12 14:00:00 -0500
 end_date: 2023-10-12 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - product-management
   - project-management
 slug: backlogs-and-why-every-website-needs-one

@@ -6,13 +6,12 @@ summary: 'You should be on this list&mdash;the current federal government partic
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
   - 18f
   - Census
   - CFPB
-  - challenge-gov
+  - challenges-and-prize-competitions
   - Consumer Financial Protection Bureau
-  - data-gov
+  - open-data
   - federal-emergency-management-agency
   - fema
   - HHS

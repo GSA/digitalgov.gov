@@ -11,11 +11,10 @@ topics:
   - strategy
   - policy
   - 18f
-  - data-gov
+  - open-data
   - open-government
   - gsa
-  - metadata
-  - open-data
+  - search-engine-optimization
   - open-source
   - us-digital-service
   - usds

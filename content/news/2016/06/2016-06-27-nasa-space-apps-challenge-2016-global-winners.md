@@ -6,9 +6,8 @@ summary: 'We&#8217;re thrilled to announce the Space Apps 2016 Global Award Winn
 authors:
   - beth-beck
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - mobile
-  - apps-challenges
   - challenges-and-prize-competitions
   - crowdsourcing
   - innovation

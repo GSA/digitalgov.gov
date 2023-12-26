@@ -7,7 +7,7 @@ authors:
   - bernetta-reese
 topics:
   - our-work
-  - agile
+  - product-and-project-management
   - analytics
   - customer-experience
   - digitalgov-summit

@@ -6,8 +6,7 @@ summary: 'If you are a coastal resident, go to the beach, or are interested in d
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - challenge-gov
+  - challenges-and-prize-competitions
   - FCPCCS
   - GitHub
   - united-states-geological-survey

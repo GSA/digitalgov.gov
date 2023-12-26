@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - monthly-theme
-  - agile
+  - product-and-project-management
   - office-of-the-us-foreign-assistance-resources
   - personas
   - us-department-of-state

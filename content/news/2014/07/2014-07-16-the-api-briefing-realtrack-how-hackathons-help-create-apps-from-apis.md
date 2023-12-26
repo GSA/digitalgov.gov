@@ -7,10 +7,9 @@ authors:
   - bbrantley
 topics:
   - api
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - product-management
-  - challenge-gov
   - mobile-apps
   - OPM
   - peace-corps

@@ -13,7 +13,7 @@ topics:
   - design
   - product-management
   - strategy
-  - agile
+  - product-and-project-management
   - project-management
   - 18f
 

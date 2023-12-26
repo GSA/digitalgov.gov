@@ -10,7 +10,7 @@ authors:
 topics:
   - accessibility
   - api
-  - challenges
+  - challenges-and-prize-competitions
   - communities
   - content
   - data

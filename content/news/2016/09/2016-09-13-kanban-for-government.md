@@ -9,9 +9,7 @@ topics:
   - strategy
   - policy
   - 18f
-  - agile
-  - agile-lean-community-of-practice
-  - kanban
+  - product-and-project-management
   - OCSIT
   - office-of-citizen-services-and-innovative-technology
   - office-of-products-and-programs

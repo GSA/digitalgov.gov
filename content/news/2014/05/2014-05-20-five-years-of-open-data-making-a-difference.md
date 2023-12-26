@@ -9,7 +9,7 @@ topics:
   - api
   - data
   - american-red-cross
-  - data-gov
+  - open-data
   - DOT
   - GitHub
   - open-data

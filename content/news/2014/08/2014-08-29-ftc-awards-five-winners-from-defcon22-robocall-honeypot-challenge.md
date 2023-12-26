@@ -6,7 +6,6 @@ summary: 'The Federal Trade Commission (FTC) had such great success with their f
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
   - challenges-and-prize-competitions
   - Federal Trade Commission
   - FTC

@@ -6,7 +6,7 @@ summary: As government innovators, we work to improve public services every day.
 authors:
   - allison-alexander
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - content
   - product-management
@@ -14,8 +14,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - challenge-gov
-  - data-gov
+  - open-data
   - DOL
   - GitHub
   - recaps

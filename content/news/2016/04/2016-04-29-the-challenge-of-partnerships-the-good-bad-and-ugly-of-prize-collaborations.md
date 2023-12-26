@@ -6,9 +6,7 @@ summary: 'Well-executed partnerships can create better solutions and place them 
 authors:
   - eric-beidel
 topics:
-  - challenges
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - HHS
   - NIST
   - united-states-department-of-health-and-human-services

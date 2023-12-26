@@ -6,9 +6,8 @@ summary: 'After leading a complex effort to crowdsource ideas to solve a problem
 authors:
   - tlowden
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - challenge-gov
   - crowdsourcing
   - dhs
   - recaps

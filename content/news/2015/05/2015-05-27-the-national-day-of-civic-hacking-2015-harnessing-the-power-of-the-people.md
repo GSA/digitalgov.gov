@@ -6,7 +6,7 @@ summary: 'The National Day of Civic Hacking was born when some of the nation’s
 authors:
   - ali-llewellyn
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - data
   - data
   - national-day-of-civic-hacking

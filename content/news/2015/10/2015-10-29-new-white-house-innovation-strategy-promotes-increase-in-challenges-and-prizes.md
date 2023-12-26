@@ -6,9 +6,7 @@ summary: ' The White House released an updated Strategy for American Innovation 
 authors:
   - kelly-olson
 topics:
-  - challenges
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
+  - challenges-and-prize-competitions
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - FCPCCS

@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - product-management
-  - architecture
+  - information-architecture
   - cloud
   - data
   - the-data-briefing

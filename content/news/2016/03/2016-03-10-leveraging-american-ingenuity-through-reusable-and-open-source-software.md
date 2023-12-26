@@ -13,7 +13,7 @@ topics:
   - analytics-usa-gov
   - CFPB
   - Consumer Financial Protection Bureau
-  - data-gov
+  - open-data
   - Education
   - HUD
   - open-source

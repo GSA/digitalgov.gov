@@ -9,7 +9,7 @@ topics:
   - content
   - CMS
   - content-management-system
-  - metadata
+  - search-engine-optimization
   - national-cancer-institute
   - national-institutes-of-health
   - NCI

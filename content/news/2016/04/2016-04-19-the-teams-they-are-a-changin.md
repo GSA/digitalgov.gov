@@ -9,7 +9,7 @@ topics:
   - product-management
   - monthly-theme
   - 18f
-  - agile
+  - product-and-project-management
 ---
 
 > _Business people and developers must work together daily throughout the project.—[Agile Manifesto](http://www.agilemanifesto.org/)_

@@ -19,7 +19,7 @@ end_date: 2020-07-30 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
+  - product-and-project-management
   - usability
   - design
   - product-management

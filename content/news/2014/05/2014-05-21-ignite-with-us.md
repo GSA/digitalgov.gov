@@ -6,7 +6,7 @@ summary: 'Have a DigitalGov success?&mdash;published an API? Got buy-in from lea
 authors:
   - apiazza
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - content
   - product-management

@@ -8,9 +8,8 @@ authors:
 topics:
   - api
   - content
-  - api
   - content-models
-  - metadata
+  - search-engine-optimization
   - national-institutes-of-health
   - nih
   - open-and-structured-content-models

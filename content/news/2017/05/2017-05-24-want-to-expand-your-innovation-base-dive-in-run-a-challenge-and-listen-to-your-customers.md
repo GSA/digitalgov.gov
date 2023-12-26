@@ -6,16 +6,13 @@ summary: 'The Office of the National Coordinator (ONC) is a small agency in the 
 authors:
   - adam-wong
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - strategy
   - policy
-  - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - hhs
   - innovation
-  - prizes-and-competitions
   - united-states-department-of-health-and-human-services
   - user-centered-design
 ---

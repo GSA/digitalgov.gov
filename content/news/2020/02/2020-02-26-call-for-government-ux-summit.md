@@ -11,7 +11,7 @@ summary: "We're looking for speakers to share their experiences as UX practition
 
 # see all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - design
   - user-experience
   - plain-language

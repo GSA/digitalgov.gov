@@ -21,7 +21,6 @@ end_date: 2020-07-15 12:30:00 -0500
 topics: 
   - plain-language
   - plain-language-community-of-practice
-  - plain-writing-act-of-2010
 
 # see all authors at https://digital.gov/authors
 authors: 

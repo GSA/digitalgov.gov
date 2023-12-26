@@ -19,7 +19,7 @@ source: usagov
 # see all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - contact-centers
+  - contact-center
   - usa-gov
 
 # see all authors at https://digital.gov/authors

@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - user-experience
-  - agile
+  - product-and-project-management
   - content-syndication
   - COPE
   - customer-experience

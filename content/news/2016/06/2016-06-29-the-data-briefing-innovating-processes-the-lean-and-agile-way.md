@@ -10,14 +10,13 @@ authors:
 topics:
   - data
   - product-management
-  - agile
+  - product-and-project-management
   - ai
   - artificial intelligence
   - big-data
   - cloud
   - data
   - internet-of-things
-  - lean
   - the-data-briefing
 
 ---

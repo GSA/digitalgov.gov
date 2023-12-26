@@ -8,9 +8,8 @@ authors:
 topics:
   - api
   - data
-  - api
-  - data-gov
-  - metadata
+  - open-data
+  - search-engine-optimization
 ---
 
 Not sure how to get your datasets into [Data.gov](http://www.data.gov/)? We’ve put together an overview to show you how the process works.

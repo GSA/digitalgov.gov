@@ -14,7 +14,7 @@ topics:
   - content-models
   - content-strategy
   - COPE
-  - government-contact-centers
+  - contact-center
   - the-content-corner
   - usa-gov
 ---

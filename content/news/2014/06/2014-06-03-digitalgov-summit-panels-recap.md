@@ -6,7 +6,7 @@ summary: At the DigitalGov Citizen Services Summit last Friday, more than 200 in
 authors:
   - darlene-gamble
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - code
   - content
   - product-management

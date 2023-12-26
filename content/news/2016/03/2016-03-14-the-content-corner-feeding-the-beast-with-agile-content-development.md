@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - agile
+  - product-and-project-management
   - content-strategy
   - the-content-corner
 ---

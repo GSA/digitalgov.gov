@@ -6,7 +6,7 @@ summary: 'In January on DigitalGov, we’ll highlight pieces looking at trends w
 authors:
   - andreanocesigritz
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - communities
   - data
   - product-management
@@ -14,7 +14,6 @@ topics:
   - monthly-theme
   - aoi
   - big-data
-  - challenges-and-prize-competitions
   - customer-experience
   - mobile-gov
 ---

@@ -10,7 +10,7 @@ topics:
   - user-experience
   - administrative-office-of-the-united-states-courts
   - analytics
-  - government-contact-centers
+  - contact-center
   - the-content-corner
   - usability
 ---

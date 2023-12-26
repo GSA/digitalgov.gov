@@ -9,7 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - customer-service
-  - government-contact-centers
+  - contact-center
   - national-cancer-institute
   - NCI
   - thursday-mobile-products

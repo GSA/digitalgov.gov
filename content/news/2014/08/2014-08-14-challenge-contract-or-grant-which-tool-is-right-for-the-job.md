@@ -6,11 +6,8 @@ summary: "Choosing between a contract, a grant, or a public prize competition to
 authors:
   - tlowden
 topics:
-  - challenges
-  - monthly-theme
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
+  - monthly-theme
   - innovation
   - recaps
 

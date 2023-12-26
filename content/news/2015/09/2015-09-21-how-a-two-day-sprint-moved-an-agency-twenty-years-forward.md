@@ -8,7 +8,7 @@ authors:
 topics:
   - user-experience
   - 18f
-  - agile
+  - product-and-project-management
   - DOL
   - sprint
   - us-department-of-labor

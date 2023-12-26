@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - data
-  - apps-challenges
+  - challenges-and-prize-competitions
   - data
   - department-of-commerce
   - national-institute-of-standards-and-technology

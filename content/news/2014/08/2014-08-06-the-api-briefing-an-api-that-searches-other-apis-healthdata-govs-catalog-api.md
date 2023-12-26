@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - api
-  - data-gov
+  - open-data
   - HHS
   - united-states-department-of-health-and-human-services
   - wednesday-api-briefing
