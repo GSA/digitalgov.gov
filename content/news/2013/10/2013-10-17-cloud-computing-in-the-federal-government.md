@@ -6,7 +6,7 @@ summary: ' Cloud Computing enables convenient, on-demand access to, and rapid de
 authors:
   - matt-goodrich
 topics:
-  - product-management
+  - product-and-project-management
   - cloud
   - security
 ---

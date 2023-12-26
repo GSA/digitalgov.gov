@@ -11,7 +11,7 @@ topics:
   - api
   - api
   - code
-  - product-management
+  - product-and-project-management
   - open-source
 featured_image:
   uid: q-and-a

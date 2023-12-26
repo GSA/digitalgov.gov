@@ -11,10 +11,9 @@ authors:
 # Topics that best describe this product or service
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - strategy
   - agile
-  - project-management
   - 18f
 
 # What source published this?

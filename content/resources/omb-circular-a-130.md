@@ -24,5 +24,5 @@ topics:
   - policy
   - security
   - governance
-  - product-management
+  - product-and-project-management
 ---

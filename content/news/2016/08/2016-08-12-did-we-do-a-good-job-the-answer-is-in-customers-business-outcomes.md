@@ -6,7 +6,7 @@ summary: 'Earlier this week, I shared with my colleagues at EXIM the results of 
 authors:
   - stephanie-thum
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - customer-satisfaction
   - customer-service

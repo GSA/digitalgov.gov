@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - user-experience
   - cdc
   - centers-for-disease-control-and-prevention

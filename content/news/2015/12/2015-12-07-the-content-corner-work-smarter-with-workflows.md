@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - administrative-office-of-the-united-states-courts
   - CMS
   - the-content-corner

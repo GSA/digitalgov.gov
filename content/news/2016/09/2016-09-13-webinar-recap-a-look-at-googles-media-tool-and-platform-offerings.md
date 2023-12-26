@@ -7,7 +7,7 @@ authors:
   - randy-abramson
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - metrics
   - mobile
   - video

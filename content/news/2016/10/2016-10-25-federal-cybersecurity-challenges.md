@@ -6,7 +6,7 @@ summary: 'These days, when you turn on the news you almost always see another ha
 authors:
   - gao-watchblog
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - security

@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - product-management
+  - product-and-project-management
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice

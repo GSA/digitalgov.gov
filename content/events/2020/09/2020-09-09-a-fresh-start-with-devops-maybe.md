@@ -14,7 +14,7 @@ end_date: 2020-09-22 14:30:00 -0500
 topics:
   - devops
   - agile
-  - project-management
+  - product-and-project-management
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

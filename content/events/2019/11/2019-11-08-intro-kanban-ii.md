@@ -23,7 +23,7 @@ topics:
   - software-engineering
   - agile-lean-community-of-practice
   - kanban
-  - project-management
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors:

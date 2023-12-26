@@ -7,7 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - mobile
   - mobile
   - mobile-gov

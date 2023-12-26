@@ -7,7 +7,7 @@ authors:
   - jerry-sheehan
 topics:
   - data
-  - product-management
+  - product-and-project-management
   - content
   - data
   - DoD

@@ -18,7 +18,7 @@ topics:
   - open
   - open-data
   - open-government
-  - rpa
+  - robotic-process-automation
 
 ---
 

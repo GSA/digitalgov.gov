@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - accessibility
-  - product-management
+  - product-and-project-management
   - user-experience
   - accessibility
   - dhs

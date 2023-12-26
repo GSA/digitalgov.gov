@@ -7,7 +7,7 @@ authors:
   - 18f-team
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - our-work
   - user-testing-and-research
   - user-experience

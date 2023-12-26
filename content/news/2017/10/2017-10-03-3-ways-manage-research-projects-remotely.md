@@ -8,7 +8,7 @@ authors:
   - jamie-albrecht
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - user-testing-and-research

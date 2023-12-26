@@ -10,7 +10,7 @@ topics:
   - trust
   - data
   - governance
-  - product-management
+  - product-and-project-management
   - social-media
   - data-gov
   - socialgov-community

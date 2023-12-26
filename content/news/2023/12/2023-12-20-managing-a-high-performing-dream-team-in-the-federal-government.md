@@ -21,7 +21,7 @@ topics:
   - agile
   - innovation
   - agile-lean-community-of-practice
-  - project-management
+  - product-and-project-management
 slug: managing-a-high-performing-dream-team-in-the-federal-government
 # Controls how this page appears across the site
 # 0 -- hidden

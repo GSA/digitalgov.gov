@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - product-management
+  - product-and-project-management
   - Law Library of Congress
   - Library of Congress
   - LOC

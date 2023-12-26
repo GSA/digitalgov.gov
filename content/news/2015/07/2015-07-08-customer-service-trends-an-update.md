@@ -6,7 +6,7 @@ summary: 'Earlier this year, we published 15 Government Customer Service Trends 
 authors:
   - martha-dorris
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
   - agile
   - content-syndication

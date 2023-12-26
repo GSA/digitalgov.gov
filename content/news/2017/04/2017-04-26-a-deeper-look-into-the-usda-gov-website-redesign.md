@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - strategy
   - policy

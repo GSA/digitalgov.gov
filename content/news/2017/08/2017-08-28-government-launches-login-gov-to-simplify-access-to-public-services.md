@@ -10,7 +10,7 @@ authors:
   - joel-minton
   - tom-mills
 topics:
-  - product-management
+  - product-and-project-management
   - 18f
   - us-customs-and-border-protection
   - login-gov

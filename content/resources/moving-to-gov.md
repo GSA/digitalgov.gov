@@ -13,7 +13,7 @@ topics:
   - domain-management
   - best-practices
   - strategy
-  - project-management
+  - product-and-project-management
 slug: moving-to-gov
 # Controls how this page appears across the site
 # 0 -- hidden

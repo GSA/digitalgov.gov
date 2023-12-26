@@ -18,7 +18,7 @@ topics:
   - diversity-equity-and-inclusion
   - acquisition
   - us-access-board
-  - product-management
+  - product-and-project-management
   - section-508
   - strategy
   - best-practices

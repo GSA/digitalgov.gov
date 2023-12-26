@@ -6,7 +6,7 @@ summary: The 2021 State of Federal Robotic Process Automation (RPA) Report descr
 # See all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
-  - rpa
+  - robotic-process-automation
   - chatbots
   - emerging-tech
 # See all authors at https://digital.gov/authors

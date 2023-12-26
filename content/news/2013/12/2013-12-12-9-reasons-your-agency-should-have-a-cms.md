@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - CMS

@@ -19,7 +19,7 @@ topics:
   - security
   - the-data-briefing
   - emerging-tech
-  - rpa
+  - robotic-process-automation
 
 ---
 

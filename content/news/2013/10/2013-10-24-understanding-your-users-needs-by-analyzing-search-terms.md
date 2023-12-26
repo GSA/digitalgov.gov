@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - data
-  - product-management
+  - product-and-project-management
   - metrics
   - search
 ---

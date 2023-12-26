@@ -6,7 +6,7 @@ summary: 'Over the past year, the Environmental Protection Agency (EPA) has unde
 authors:
   - chris-cairns
 topics:
-  - product-management
+  - product-and-project-management
   - 18f
   - epa
   - us-environmental-protection-agency

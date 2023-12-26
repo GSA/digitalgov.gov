@@ -6,7 +6,7 @@ summary: 'The Government Contact Center Council (G3C) has been working with Digi
 authors:
   - apiazza
 topics:
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - customer-service
   - government-contact-center-council/

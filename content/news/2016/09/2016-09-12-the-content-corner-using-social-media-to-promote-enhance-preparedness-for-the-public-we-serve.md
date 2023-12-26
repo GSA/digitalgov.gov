@@ -7,7 +7,7 @@ authors:
   - kyle-s-richardson
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - mobile
   - social-media
   - strategy

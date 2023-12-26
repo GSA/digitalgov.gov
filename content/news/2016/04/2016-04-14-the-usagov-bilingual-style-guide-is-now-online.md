@@ -9,7 +9,7 @@ topics:
   - accessibility
   - content
   - design
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - accessibility

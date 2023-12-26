@@ -6,7 +6,7 @@ summary: 'Imagine this: You just found a great online tool that can help you do 
 authors:
   - jonathan-rubin
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
   - user-experience
   - DOJ

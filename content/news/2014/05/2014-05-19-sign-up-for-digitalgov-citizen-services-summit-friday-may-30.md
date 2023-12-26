@@ -15,7 +15,7 @@ topics:
   - challenges
   - content
   - data
-  - product-management
+  - product-and-project-management
   - metrics
   - mobile
   - social-media

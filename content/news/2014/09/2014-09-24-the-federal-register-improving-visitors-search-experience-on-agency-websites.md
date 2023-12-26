@@ -7,7 +7,7 @@ authors:
   - rachel-mundstock
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - our-work
   - api
   - search

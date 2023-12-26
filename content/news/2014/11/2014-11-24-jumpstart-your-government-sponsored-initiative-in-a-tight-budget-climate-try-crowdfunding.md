@@ -7,7 +7,7 @@ authors:
   - minette-wilson
 topics:
   - challenges
-  - product-management
+  - product-and-project-management
   - social-media
   - crowdfunding
   - us-department-of-state

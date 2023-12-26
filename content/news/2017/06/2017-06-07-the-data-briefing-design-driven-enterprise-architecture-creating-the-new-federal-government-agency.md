@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - data
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - agile

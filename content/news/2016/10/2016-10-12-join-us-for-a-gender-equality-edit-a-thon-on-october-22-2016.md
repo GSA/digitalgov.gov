@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - crowdsourcing-and-citizen-science
-  - product-management
+  - product-and-project-management
   - mobile
   - user-testing-and-research
   - content

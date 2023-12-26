@@ -6,7 +6,7 @@ summary: 'How well do you know your customers? There’s a new guide out from th
 authors:
   - andrea-d-williamson
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - dhs
   - HHS

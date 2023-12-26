@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - analytics

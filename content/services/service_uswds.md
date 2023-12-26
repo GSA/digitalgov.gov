@@ -29,7 +29,7 @@ topics:
   - accessibility
   - user-experience
   - mobile
-  - product-management
+  - product-and-project-management
   - 21st-century-idea
 
 # see all authors at https://digital.gov/authors

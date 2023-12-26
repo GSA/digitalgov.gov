@@ -7,7 +7,7 @@ authors:
   - jeffrey-levy
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - US Citizenship and Immigration Service
   - USCIS
 ---

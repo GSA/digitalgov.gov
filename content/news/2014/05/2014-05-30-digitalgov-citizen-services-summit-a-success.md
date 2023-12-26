@@ -9,7 +9,7 @@ topics:
   - challenges
   - code
   - content
-  - product-management
+  - product-and-project-management
   - analytics
   - mobile
   - our-work

@@ -7,7 +7,7 @@ summary: The Federal Robotic Process Automation (RPA) Community of Practice is
   over 300 RPA Use Cases across the federal government.
 # See all topics at https://digital.gov/topics
 topics:
-  - rpa
+  - robotic-process-automation
   - emerging-tech
 # See all authors at https://digital.gov/authors
 authors:

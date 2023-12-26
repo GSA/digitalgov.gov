@@ -18,7 +18,7 @@ end_date: 2020-05-06 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - product-management
+  - product-and-project-management
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: 

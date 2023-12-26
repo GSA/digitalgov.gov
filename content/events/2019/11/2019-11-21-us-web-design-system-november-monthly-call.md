@@ -19,7 +19,7 @@ end_date: 2019-11-21 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - product-management
+  - product-and-project-management
   - drupal
   - responsive-web-design
   - uswds

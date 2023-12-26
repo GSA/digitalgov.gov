@@ -10,7 +10,7 @@ topics:
   - content
   - data
   - design
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - user-testing-and-research

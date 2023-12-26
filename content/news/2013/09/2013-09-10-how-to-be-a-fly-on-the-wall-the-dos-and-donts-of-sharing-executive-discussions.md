@@ -7,7 +7,7 @@ authors:
   - david-hebert
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - social-media
 ---
 

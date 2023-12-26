@@ -6,7 +6,7 @@ summary: 'Built on the lessons learned during the pilot phase of the Digital Acq
 authors:
   - duane-rollins
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - 18f

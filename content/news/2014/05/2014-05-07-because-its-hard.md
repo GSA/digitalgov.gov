@@ -7,7 +7,7 @@ authors:
   - gwynne-kostin
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - our-work
   - strategy

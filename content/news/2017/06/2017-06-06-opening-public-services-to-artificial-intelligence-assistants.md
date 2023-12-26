@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - emerging-tech
-  - product-management
+  - product-and-project-management
   - our-work
   - user-experience
   - artificial-intelligence

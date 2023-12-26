@@ -20,7 +20,7 @@ end_date: 2020-01-16 15:30:00 -0500
 topics:
   - code
   - design
-  - product-management
+  - product-and-project-management
   - uswds
   - 21st-century-idea
 

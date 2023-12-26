@@ -9,7 +9,7 @@ authors:
   - angela-colter
   - adam-drake
 topics:
-  - product-management
+  - product-and-project-management
   - 18f
   - pif
 featured_image:

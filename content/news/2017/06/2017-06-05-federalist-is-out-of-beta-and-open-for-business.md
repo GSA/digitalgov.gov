@@ -9,7 +9,7 @@ authors:
 topics:
   - code
   - design
-  - product-management
+  - product-and-project-management
   - 18f
   - cloud
   - cloud-gov

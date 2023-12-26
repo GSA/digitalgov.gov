@@ -6,7 +6,7 @@ summary: 'To folks new to government, one of the most surprising differences bet
 authors:
   - v-david-zvenyach
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - 18f

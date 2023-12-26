@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - product-management
+  - product-and-project-management
   - ai
   - artificial-intelligence
   - human-resources

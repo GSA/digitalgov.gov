@@ -8,7 +8,7 @@ authors:
   - rana-saad
 
 categories:
-  - product-management
+  - product-and-project-management
 tag:
   - pif
   - presidential-innovation-fellows

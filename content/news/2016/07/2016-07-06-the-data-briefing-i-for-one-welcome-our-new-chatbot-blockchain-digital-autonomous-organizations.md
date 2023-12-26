@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - data
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - api

@@ -8,7 +8,7 @@ summary: What is design, who are designers, and how can they help your agency? L
 topics:
   - design
   - agile
-  - project-management
+  - product-and-project-management
   - professional-development
   - user-experience
   - digital-service-delivery

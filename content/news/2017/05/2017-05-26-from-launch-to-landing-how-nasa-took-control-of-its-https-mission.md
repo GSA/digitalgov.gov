@@ -6,7 +6,7 @@ summary: '18F Editor’s note: This is a guest post by Karim Said of NASA. Karim
 authors:
   - karim-said
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - 18f

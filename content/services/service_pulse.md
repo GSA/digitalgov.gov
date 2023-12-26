@@ -10,7 +10,7 @@ contact: dotgovdashboard@gsa.gov
 # See all topics at https://digital.gov/topics
 topics:
   - https
-  - product-management
+  - product-and-project-management
   - security
   - dap
   - analytics

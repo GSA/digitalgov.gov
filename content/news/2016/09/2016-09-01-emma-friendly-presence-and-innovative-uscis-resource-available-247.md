@@ -8,7 +8,7 @@ authors:
   - limary-suarez-pacheco
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - ai
   - artificial intelligence
   - customer-experience

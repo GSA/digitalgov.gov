@@ -21,9 +21,9 @@ end_date: 2019-11-12 16:00:00 -0500
 topics: 
   - agile
   - software-engineering
-  - project-management
+  - product-and-project-management
   - agile-lean-community-of-practice
-  - scrum
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors: 

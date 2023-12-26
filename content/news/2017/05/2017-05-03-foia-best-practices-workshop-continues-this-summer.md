@@ -7,7 +7,7 @@ authors:
   - office-of-information-policy-doj
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - DOJ

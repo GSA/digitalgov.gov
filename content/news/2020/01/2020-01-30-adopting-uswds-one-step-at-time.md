@@ -12,7 +12,7 @@ summary: "The U.S. Web Design System is key to new website standards"
 topics:
   - code
   - design
-  - product-management
+  - product-and-project-management
   - uswds
   - 21st-century-idea
   - this-weeks-idea

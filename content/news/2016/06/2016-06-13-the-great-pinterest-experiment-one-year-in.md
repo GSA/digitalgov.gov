@@ -8,7 +8,7 @@ authors:
   - phat-nguyen
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - content-strategy

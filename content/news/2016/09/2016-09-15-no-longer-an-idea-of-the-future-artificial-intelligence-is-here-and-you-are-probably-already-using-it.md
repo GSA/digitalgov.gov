@@ -9,7 +9,7 @@ topics:
   - code
   - content
   - data
-  - product-management
+  - product-and-project-management
   - metrics
   - user-testing-and-research
   - ai

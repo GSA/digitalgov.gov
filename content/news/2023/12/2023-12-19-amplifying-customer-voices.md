@@ -8,7 +8,7 @@ summary: "Understand how to use natural language processing and advanced analyti
 topics:
   - data
   - code
-  - product-management
+  - product-and-project-management
   - customer-experience
 
 # See all authors at https://digital.gov/authors

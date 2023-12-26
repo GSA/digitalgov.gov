@@ -9,7 +9,7 @@ featured_image:
 authors:
   - bbrantley
 topics:
-  - product-management
+  - product-and-project-management
   - communication
   - human resources
   - the-data-briefing

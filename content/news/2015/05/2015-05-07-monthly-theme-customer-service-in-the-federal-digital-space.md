@@ -7,7 +7,7 @@ authors:
   - jparcell
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - customer-experience
   - customer-satisfaction

@@ -8,7 +8,7 @@ summary: The importance of HR and accountability to improving digital service
 topics:
   - strategy
   - governance
-  - project-management
+  - product-and-project-management
   - 21st-century-idea
   - customer-experience
 # See all authors at https://digital.gov/authors

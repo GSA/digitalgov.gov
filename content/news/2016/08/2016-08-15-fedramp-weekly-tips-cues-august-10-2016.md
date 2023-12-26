@@ -7,7 +7,7 @@ summary: 'Many of  our cloud service providers (CSPs), federal agencies, and thi
 authors:
   - fedramp
 topics:
-  - product-management
+  - product-and-project-management
   - cloud
   - data
   - Federal Risk and Authorization Management Program

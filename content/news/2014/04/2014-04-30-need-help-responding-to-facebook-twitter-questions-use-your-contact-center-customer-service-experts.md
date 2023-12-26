@@ -7,7 +7,7 @@ authors:
   - candace-maynard
 topics:
   - communities
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - aoi
   - HHS

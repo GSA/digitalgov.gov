@@ -23,7 +23,7 @@ topics:
   - metrics
   - open-source
   - performance
-  - product-management
+  - product-and-project-management
   - cloud
   - cloud-gov
   - budgeting-and-performance

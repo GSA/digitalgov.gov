@@ -32,7 +32,7 @@ topics:
   - design
   - code
   - strategy
-  - product-management
+  - product-and-project-management
   - gsa
   - 18f
 ---

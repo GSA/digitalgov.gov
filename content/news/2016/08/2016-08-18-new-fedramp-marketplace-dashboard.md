@@ -8,7 +8,7 @@ authors:
   - matt-goodrich
 topics:
   - data
-  - product-management
+  - product-and-project-management
   - 18f
   - cloud
   - data

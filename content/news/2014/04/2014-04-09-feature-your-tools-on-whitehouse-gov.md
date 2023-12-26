@@ -7,7 +7,7 @@ authors:
   - ori-hoffer
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - US Department of Agriculture
   - us-department-of-education
   - united-states-department-of-energy

@@ -13,7 +13,7 @@ aliases:
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
 weight: 2
 topics:
-  - product-management
+  - product-and-project-management
   - policy
   - governance
 primary_image: "checklist-topics"

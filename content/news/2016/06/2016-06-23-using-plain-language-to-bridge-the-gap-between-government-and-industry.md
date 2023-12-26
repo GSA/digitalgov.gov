@@ -7,7 +7,7 @@ authors:
   - ryan-sibley
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - 18f

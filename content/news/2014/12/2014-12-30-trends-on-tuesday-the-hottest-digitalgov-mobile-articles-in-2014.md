@@ -6,7 +6,7 @@ summary: 'QR codes, apps about whales, bullying and railroad crossings, challeng
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - api
   - mobile-gov-community-of-practice

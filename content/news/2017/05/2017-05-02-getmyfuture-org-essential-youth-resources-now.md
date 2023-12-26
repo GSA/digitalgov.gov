@@ -9,7 +9,7 @@ topics:
   - content
   - data
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - audio-video
   - data

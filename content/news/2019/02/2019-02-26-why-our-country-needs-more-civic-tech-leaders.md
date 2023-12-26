@@ -10,7 +10,7 @@ authors:
   - clarice-chan
   - stephen-winchell
 topics:
-  - product-management
+  - product-and-project-management
   - pif
   - presidential-innovation-fellows
 featured_image:

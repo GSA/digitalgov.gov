@@ -7,7 +7,7 @@ authors:
   - yasmine-kloth
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - content

@@ -25,7 +25,7 @@ topics:
   - blockchain
   - virtual-reality
   - virtual-augmented-reality-community
-  - rpa
+  - robotic-process-automation
   
 # see all authors at https://digital.gov/authors
 authors: 

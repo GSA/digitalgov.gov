@@ -7,7 +7,7 @@ authors:
   - tony-scott
 topics:
   - code
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - code

@@ -6,7 +6,7 @@ summary: Late last year, Business.USA.gov (BUSA) began transitioning its web pre
 authors:
   - victoria-wales
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - analytics

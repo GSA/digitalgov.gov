@@ -9,7 +9,7 @@ authors:
   - anne-rung
   - marc-groman
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - acquisition

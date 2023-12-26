@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - content
-  - product-management
+  - product-and-project-management
   - social-media
   - user-experience
   - aoi

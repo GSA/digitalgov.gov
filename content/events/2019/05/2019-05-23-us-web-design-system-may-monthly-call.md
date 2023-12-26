@@ -10,7 +10,7 @@ end_date: 2019-05-23 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - uswds
   - public-sans
 

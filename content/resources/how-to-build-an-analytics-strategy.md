@@ -15,7 +15,7 @@ topics:
   - performance
   - analytics
   - dap
-  - project-management
+  - product-and-project-management
   - digital-analytics-program
 # Controls how this page appears across the site
 # 0 -- hidden

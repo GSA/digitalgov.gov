@@ -10,7 +10,7 @@ topics:
   - agile
   - best-practices
   - open-source
-  - project-management
+  - product-and-project-management
 # See all authors at https://digital.gov/authors
 authors:
   - bridget-fields

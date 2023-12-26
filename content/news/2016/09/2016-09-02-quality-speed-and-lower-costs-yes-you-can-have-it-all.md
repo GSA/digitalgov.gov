@@ -9,7 +9,7 @@ authors:
 topics:
   - code
   - data
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - our-work
   - strategy

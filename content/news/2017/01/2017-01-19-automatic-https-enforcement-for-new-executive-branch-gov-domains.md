@@ -11,7 +11,7 @@ authors:
 topics:
   - governance
   - domain-management
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - analytics

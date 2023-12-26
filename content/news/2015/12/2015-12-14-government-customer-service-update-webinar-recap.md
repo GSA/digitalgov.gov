@@ -6,7 +6,7 @@ summary: 'When the public comes to the federal government for information and se
 authors:
   - jsnee
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - customer-satisfaction
   - customer-service

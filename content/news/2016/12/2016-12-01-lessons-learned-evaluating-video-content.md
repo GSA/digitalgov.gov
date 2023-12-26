@@ -7,7 +7,7 @@ authors:
   - tim-jakubowski
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - user-testing-and-research
   - video
   - audio-video

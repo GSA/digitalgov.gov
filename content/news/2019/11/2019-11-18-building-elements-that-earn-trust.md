@@ -11,7 +11,7 @@ authors:
   - dan-williams
 
 topics:
-  - product-management
+  - product-and-project-management
   - 21st-century-idea
   - this-weeks-idea
   - trust

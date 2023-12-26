@@ -6,7 +6,7 @@ summary: 'This summer I announced the the release of our new Health IT Services 
 authors:
   - mary-davie
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - Federal Health IT Strategic Plan

@@ -9,7 +9,7 @@ authors:
   - eric-mill
 
 topics:
-  - product-management
+  - product-and-project-management
   - domain-management
   - strategy
   - policy

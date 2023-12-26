@@ -34,7 +34,7 @@ topics:
   - agile
   - devops
   - professional-development
-  - project-management
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors: 

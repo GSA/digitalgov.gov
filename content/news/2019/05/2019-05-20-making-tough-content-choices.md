@@ -18,7 +18,7 @@ source: doi-revenuedata
 # see all topics at https://digital.gov/topics
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - content-strategy
   - strategy
 

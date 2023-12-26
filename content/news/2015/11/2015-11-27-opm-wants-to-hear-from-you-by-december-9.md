@@ -6,7 +6,7 @@ summary: 'The Office of Personnel Management (OPM) is looking for agency subject
 authors:
   - andreanocesigritz
 topics:
-  - product-management
+  - product-and-project-management
   - OPM
   - united-states-office-of-personnel-management
 ---

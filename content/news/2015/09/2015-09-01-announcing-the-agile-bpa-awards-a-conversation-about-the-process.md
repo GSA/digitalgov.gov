@@ -9,7 +9,7 @@ authors:
   - chris-cairns
   - melody-kramer
 topics:
-  - product-management
+  - product-and-project-management
   - 18f
   - GitHub
 ---

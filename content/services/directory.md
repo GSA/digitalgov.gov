@@ -14,7 +14,7 @@ layout: directory
 topics:
   - strategy
   - design
-  - product-management
+  - product-and-project-management
 
 ---
 

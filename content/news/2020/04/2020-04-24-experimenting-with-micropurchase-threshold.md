@@ -12,7 +12,7 @@ summary: "Through the use of an open-source procurement process, we created an e
 topics: 
   - agile
   - open-source
-  - project-management
+  - product-and-project-management
   - acquisition
   - best-practices
 

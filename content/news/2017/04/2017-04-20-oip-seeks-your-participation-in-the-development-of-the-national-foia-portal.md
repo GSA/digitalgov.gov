@@ -6,7 +6,7 @@ summary: 'The Office of Information Policy (OIP) is pleased to announce its coll
 authors:
   - office-of-information-policy-doj
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - user-testing-and-research

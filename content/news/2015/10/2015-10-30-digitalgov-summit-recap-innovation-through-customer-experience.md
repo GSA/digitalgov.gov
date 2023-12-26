@@ -6,7 +6,7 @@ summary: "A panel discussion at the 2015 DigitalGov Citizen Services Summit delv
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - our-work
   - customer-experience
   - customer-service

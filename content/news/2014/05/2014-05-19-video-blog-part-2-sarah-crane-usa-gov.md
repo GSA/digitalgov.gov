@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - content
-  - product-management
+  - product-and-project-management
   - api
   - usagov
 ---

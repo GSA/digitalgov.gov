@@ -6,7 +6,7 @@ summary: "Today we take another step forward helping government develop the tech
 authors:
   - denise-turner-roth
 topics:
-  - product-management
+  - product-and-project-management
   - 18f
 ---
 

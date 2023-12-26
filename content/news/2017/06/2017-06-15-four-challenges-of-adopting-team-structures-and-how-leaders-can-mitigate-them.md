@@ -6,7 +6,7 @@ summary: 'If you’re considering &ldquo;going agile,&rdquo; one of the critical
 authors:
   - brian-fox
 topics:
-  - product-management
+  - product-and-project-management
   - agile
   - agile-lean-community-of-practice
   - best-practices

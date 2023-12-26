@@ -8,7 +8,7 @@ authors:
   - omid-ghaffari-tabrizi
   - waldo-jaquith
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - 18f

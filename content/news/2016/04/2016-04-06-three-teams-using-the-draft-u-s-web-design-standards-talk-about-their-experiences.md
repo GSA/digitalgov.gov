@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - design
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - 18f

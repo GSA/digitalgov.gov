@@ -8,7 +8,7 @@ summary: "Bots can help us improve our inclusivity by gently nudging us to use m
 topics:
   - communication
   - artificial-intelligence
-  - rpa
+  - robotic-process-automation
   - diversity-equity-inclusion-accessibility-deia
   - plain-language
 

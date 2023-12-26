@@ -6,7 +6,7 @@ summary: 'Summary: Today, the Administration directed a series of actions to con
 authors:
   - tony-scott
 topics:
-  - product-management
+  - product-and-project-management
   - Office of Management and Budget
   - OMB
 ---

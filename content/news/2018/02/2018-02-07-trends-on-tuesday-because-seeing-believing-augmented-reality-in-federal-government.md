@@ -6,7 +6,7 @@ summary: 'See how augmented reality may be used for data management and cybersec
 authors:
   - jada-jones
 topics:
-  - product-management
+  - product-and-project-management
   - augmented-reality
   - virtual-augmented-reality-community
   - Trends On Tuesday

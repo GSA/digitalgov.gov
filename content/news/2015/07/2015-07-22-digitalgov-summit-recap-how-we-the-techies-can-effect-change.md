@@ -7,7 +7,7 @@ summary: 'Who do you need to bring to the table to make a better world? In May, 
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - our-work
   - digitalgov-summit
   - recaps

@@ -7,7 +7,7 @@ authors:
   - peter-rhee
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - user-testing-and-research
   - CMS

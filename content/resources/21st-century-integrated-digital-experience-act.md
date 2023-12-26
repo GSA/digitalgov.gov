@@ -29,7 +29,7 @@ topics:
   - analytics
   - multilingual
   - plain-language
-  - product-management
+  - product-and-project-management
   - dap
   - digital-analytics-program
 
@@ -503,7 +503,7 @@ Within `90 days` of issuance (originally due December 23, 2023; deadline extende
 
 **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
-### Action 3. Identify and assess top websites 
+### Action 3. Identify and assess top websites
 
 Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
 

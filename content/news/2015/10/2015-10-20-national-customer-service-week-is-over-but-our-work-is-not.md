@@ -6,7 +6,7 @@ summary: 'Get your customer personas right, and you will improve the customer ex
 authors:
   - ktrebon
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - "508"

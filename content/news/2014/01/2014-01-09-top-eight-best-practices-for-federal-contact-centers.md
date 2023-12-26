@@ -9,7 +9,7 @@ topics:
   - communities
   - content
   - data
-  - product-management
+  - product-and-project-management
   - metrics
   - aoi
   - content-strategy

@@ -6,7 +6,7 @@ summary: 'There’s tons of great work and innovations happening in federal agen
 authors:
   - gwynne-kostin
 topics:
-  - product-management
+  - product-and-project-management
   - our-work
   - customer-experience
   - innovation

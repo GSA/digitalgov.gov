@@ -9,7 +9,7 @@ topics:
   - challenges
   - communities
   - crowdsourcing-and-citizen-science
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - challenges-and-prize-competitions

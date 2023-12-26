@@ -11,7 +11,7 @@ topics:
   - content
   - data
   - design
-  - product-management
+  - product-and-project-management
   - metrics
   - mobile
   - strategy

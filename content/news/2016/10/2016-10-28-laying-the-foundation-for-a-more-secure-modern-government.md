@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - governance
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - best-practices

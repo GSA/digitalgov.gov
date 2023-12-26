@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - data
-  - product-management
+  - product-and-project-management
   - challenge-gov
   - challenges-and-prize-competitions
   - OSTP

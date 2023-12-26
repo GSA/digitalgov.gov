@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - social-media
   - video
   - audio-video

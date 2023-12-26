@@ -9,7 +9,7 @@ authors:
 
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - content-models
   - COPE
   - metadata

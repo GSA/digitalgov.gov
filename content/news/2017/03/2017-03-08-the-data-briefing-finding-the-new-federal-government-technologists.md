@@ -6,7 +6,7 @@ summary: This week, I want to briefly discuss the human resources challenges in 
 authors:
   - bbrantley
 topics:
-  - product-management
+  - product-and-project-management
   - acquisition
   - human resources
   - the-data-briefing

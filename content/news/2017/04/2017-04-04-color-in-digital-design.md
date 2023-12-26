@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - product-management
+  - product-and-project-management
   - communities
   - uswds
   - user-experience

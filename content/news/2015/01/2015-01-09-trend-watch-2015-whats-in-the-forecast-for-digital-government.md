@@ -9,7 +9,7 @@ topics:
   - challenges
   - communities
   - data
-  - product-management
+  - product-and-project-management
   - mobile
   - monthly-theme
   - aoi

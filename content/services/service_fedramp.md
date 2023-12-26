@@ -31,7 +31,7 @@ authors:
 topics:
   - cloud
   - security
-  - product-management
+  - product-and-project-management
   - fedramp
 
 ---

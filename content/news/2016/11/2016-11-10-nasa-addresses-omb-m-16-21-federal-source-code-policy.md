@@ -9,7 +9,7 @@ authors:
 
 topics:
   - code
-  - product-management
+  - product-and-project-management
   - software-engineering
   - strategy
   - policy

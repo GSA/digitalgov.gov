@@ -6,7 +6,7 @@ summary: 'Surveys are a great way to gain valuable insight into your customersâ€
 authors:
   - zhanrui-kuang
 topics:
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - customer-experience
   - customer-satisfaction

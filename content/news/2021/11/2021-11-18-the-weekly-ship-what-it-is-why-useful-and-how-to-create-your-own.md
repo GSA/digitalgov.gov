@@ -12,7 +12,7 @@ summary: summary
 topics:
   - strategy
   - policy
-  - product-management
+  - product-and-project-management
   - agile
   - best-practices
   - workflows

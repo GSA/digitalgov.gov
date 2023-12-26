@@ -9,7 +9,7 @@ authors:
   - gray-brooks
   - john-tindel
 topics:
-  - product-management
+  - product-and-project-management
   - our-work
   - 18f
   - analytics

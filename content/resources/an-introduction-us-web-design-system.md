@@ -17,7 +17,7 @@ topics:
   - accessibility
   - code
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - uswds
   - user-experience

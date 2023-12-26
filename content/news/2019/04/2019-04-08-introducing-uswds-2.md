@@ -10,7 +10,7 @@ authors:
 topics:
   - code
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - user-experience
   - accessibility

@@ -7,7 +7,7 @@ authors:
   - denise-turner-roth
   - david-mader
 topics:
-  - product-management
+  - product-and-project-management
   - gsa
   - infrastructure
   - innovation

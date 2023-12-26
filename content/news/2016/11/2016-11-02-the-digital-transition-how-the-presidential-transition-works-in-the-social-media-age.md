@@ -10,7 +10,7 @@ topics:
   - code
   - content
   - data
-  - product-management
+  - product-and-project-management
   - mobile
   - social-media
   - strategy

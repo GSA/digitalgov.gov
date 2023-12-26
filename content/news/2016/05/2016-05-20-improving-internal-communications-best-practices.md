@@ -6,7 +6,7 @@ summary: Customers are not the only group with whom we need to effectively commu
 authors:
   - alison-sturgeon
 topics:
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - customer-experience
   - Ex-Im Bank

@@ -9,7 +9,7 @@ authors:
 
 topics:
   - data
-  - product-management
+  - product-and-project-management
   - agile
   - ai
   - artificial intelligence

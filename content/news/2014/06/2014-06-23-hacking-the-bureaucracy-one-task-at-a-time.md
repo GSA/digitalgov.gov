@@ -7,7 +7,7 @@ authors:
   - lnelson
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - DOL
   - mobile-code-catalog
   - open-and-structured-content-models

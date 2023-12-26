@@ -6,7 +6,7 @@ summary: 'This is post 3 in the 5-part series The Right Tools for the Job: Re-Ho
 authors:
   - nick-marden
 topics:
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - our-work
   - strategy

@@ -6,7 +6,7 @@ summary: "Federal agencies are required by law to use privacy policies on their 
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - digitalgov-summit
   - FTC

@@ -7,7 +7,7 @@ authors:
   - digitalgov-team
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - our-work
   - user-testing-and-research
   - content

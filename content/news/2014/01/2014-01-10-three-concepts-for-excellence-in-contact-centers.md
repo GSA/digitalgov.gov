@@ -7,7 +7,7 @@ authors:
   - mary-ann-monroe
 topics:
   - communities
-  - product-management
+  - product-and-project-management
   - aoi
   - customer-experience
   - customer-satisfaction

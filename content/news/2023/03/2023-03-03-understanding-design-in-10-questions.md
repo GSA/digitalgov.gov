@@ -8,7 +8,7 @@ summary: How the discipline of design can help your agency improve customer expe
 topics:
   - design
   - customer-experience
-  - project-management
+  - product-and-project-management
   - 21st-century-idea
   - strategy
 primary_image: "abstract-background-question-marks-talangart-istock-getty-images-1280616526-edit"

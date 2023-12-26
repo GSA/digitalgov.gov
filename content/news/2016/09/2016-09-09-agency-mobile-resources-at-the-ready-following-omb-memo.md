@@ -7,7 +7,7 @@ authors:
   - amando-e-gavino-jr
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - mobile
   - strategy
   - policy

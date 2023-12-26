@@ -20,10 +20,10 @@ end_date: 2019-11-08 14:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - agile
-  - project-management
+  - product-and-project-management
   - software-engineering
   - agile-lean-community-of-practice
-  - scrum
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors: 

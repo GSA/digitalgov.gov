@@ -7,7 +7,7 @@ summary: 'We are excited to announce our 2019 Presidential Innovation Fellows &#
 authors:
   - davar-ardalan
 topics:
-  - product-management
+  - product-and-project-management
   - gsa
   - innovation
   - pif

@@ -19,7 +19,7 @@ topics:
   - user-experience
   - customer-experience
   - content-strategy
-  - product-management
+  - product-and-project-management
 
 slug: uswds-monthly-call-november-2023
 

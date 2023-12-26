@@ -10,7 +10,7 @@ authors:
 topics:
   - data
   - emerging-tech
-  - product-management
+  - product-and-project-management
   - the-data-briefing
   - user-experience
   - 3d-printing

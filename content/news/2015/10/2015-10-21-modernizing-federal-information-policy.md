@@ -10,7 +10,7 @@ authors:
   - howard-shelanski
 
 topics:
-  - product-management
+  - product-and-project-management
   - policy
   - OMB
 

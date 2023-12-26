@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - devops
-  - product-management
+  - product-and-project-management
   - the-data-briefing
 
 ---

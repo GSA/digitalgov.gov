@@ -29,7 +29,7 @@ authors:
 topics:
   - https
   - login-gov
-  - product-management
+  - product-and-project-management
   - security
   - authentication
   - online-proofing

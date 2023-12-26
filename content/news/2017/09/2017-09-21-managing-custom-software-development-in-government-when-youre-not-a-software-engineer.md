@@ -8,12 +8,11 @@ authors:
   - kaitlin-devine
 
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - software-engineering
   - policy
   - agile
-  - project-management
   - user-centered-design
 
 featured_image:

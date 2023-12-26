@@ -19,7 +19,7 @@ source: performancegov
 # see all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - product-management
+  - product-and-project-management
   - contact-centers
   - strategy
   - user-research

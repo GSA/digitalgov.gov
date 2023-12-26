@@ -7,7 +7,7 @@ authors:
   - tonya-beres
 topics:
   - communities
-  - product-management
+  - product-and-project-management
   - monthly-theme
   - aoi
   - customer-experience

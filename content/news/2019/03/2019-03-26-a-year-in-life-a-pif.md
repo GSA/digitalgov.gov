@@ -7,7 +7,7 @@ deck: "Advice on how to make the most impact in a limited amount of time in gove
 authors:
   - zach-goldfine
 topics:
-  - product-management
+  - product-and-project-management
   - pif
   - presidential-innovation-fellows
 

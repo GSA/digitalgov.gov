@@ -6,7 +6,7 @@ summary: 'Internet strategist Mary Meeker delivered her 2016 Internet Trends rep
 authors:
   - wsullivan
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - data
   - internet-of-things

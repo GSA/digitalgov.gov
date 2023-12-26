@@ -7,7 +7,7 @@ authors:
   - lgodfrey
 topics:
   - content
-  - product-management
+  - product-and-project-management
   - cdc
   - DOJ
   - HHS

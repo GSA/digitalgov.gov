@@ -6,7 +6,7 @@ summary: 'The Social and Behavioral Sciences Team (SBST) uses theories, research
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - user-testing-and-research
   - Social and Behavioral Sciences Team
   - user-centered-design

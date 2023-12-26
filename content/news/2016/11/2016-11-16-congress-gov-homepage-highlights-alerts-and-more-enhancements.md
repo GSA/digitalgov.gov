@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - product-management
+  - product-and-project-management
   - content
   - Library of Congress
   - user-centered-design

@@ -7,7 +7,7 @@ authors:
   - jeanette-kennedy
 topics:
   - data
-  - product-management
+  - product-and-project-management
   - mobile
   - firstnet
   - internet-of-things

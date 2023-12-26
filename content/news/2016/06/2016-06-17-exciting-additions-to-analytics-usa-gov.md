@@ -10,7 +10,7 @@ authors:
   - colin-craig
 topics:
   - data
-  - product-management
+  - product-and-project-management
   - metrics
   - our-work
   - 18f

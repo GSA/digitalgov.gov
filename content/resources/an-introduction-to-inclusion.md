@@ -6,7 +6,7 @@ summary: "An inclusive culture contributes to a sense of belonging, promotes a h
 
 topics:
   - diversity-equity-and-inclusion
-  - project-management
+  - product-and-project-management
   - professional-development
 
 slug: an-introduction-to-inclusion
@@ -44,7 +44,7 @@ At the U.S. General Services Administration (GSA), we believe there are at least
 
 1. **Organization:** Practices and activities that contribute to, or detract from, an inclusive organization
 2. **Management:** Support you receive from your managers — this includes program managers, leads, and/or supervisors
-3. **Work group or team:** Day-to-day interpersonal relationships and the team climate 
+3. **Work group or team:** Day-to-day interpersonal relationships and the team climate
 4. **Individual:** Contributions you make that affect inclusion and awareness of diversity
 
 While not an exhaustive list, ways to be more inclusive include:
@@ -60,7 +60,7 @@ While not an exhaustive list, ways to be more inclusive include:
 
 {{< ring title="Case study: TTS Values">}}
 
-At Technology Transformation Services (TTS), inclusion is key to [our values](https://handbook.tts.gsa.gov/about-us/tts-history/#our-values-2). We believe that [DEIA is vital to a successful organization](https://handbook.tts.gsa.gov/about-us/deia/) and that we must reflect the diversity of the public we serve. 
+At Technology Transformation Services (TTS), inclusion is key to [our values](https://handbook.tts.gsa.gov/about-us/tts-history/#our-values-2). We believe that [DEIA is vital to a successful organization](https://handbook.tts.gsa.gov/about-us/deia/) and that we must reflect the diversity of the public we serve.
 
 We work to increase inclusivity through efforts such as:
 
@@ -72,13 +72,13 @@ We work to increase inclusivity through efforts such as:
 * Conducting an annual survey on inclusion and belonging, which guides action items.
 * Building products for the public and the rest of the government which follow [18F's inclusive language principles](https://content-guide.18f.gov/our-style/inclusive-language/) and other inclusive approaches, such as the [U.S. Web Design System’s inclusive design patterns](https://designsystem.digital.gov/together/) and leading [GSA’s equity study on identity proofing](https://www.gsa.gov/governmentwide-initiatives/diversity-equity-inclusion-and-accessibility/equity-study-on-remote-identity-proofing).
 * Speaking publicly about how and why we work inclusively. Watch some of the presentations on Digital.gov’s YouTube channel:
-  * [Designing metaphors, designing collaboration](https://www.youtube.com/watch?v=4Fz9xqu89XU) (12 min)
-  * [Designing with people of all abilities](https://www.youtube.com/watch?v=_QjXiQOa33Y) (52 min)
-  * [Equity-centered design: Challenges in government](https://www.youtube.com/watch?v=j1ZJO8maV7s) (38 min)
-  * [Increasing public participation in user research](https://www.youtube.com/watch?v=LI0uhEi70gc) (34 min)
-  * [Reflecting the diversity of the public we serve (18F and PIF)](https://www.youtube.com/watch?v=fYEoLKEbjlo) (14 min)
-  * [Supporting inclusive language through automation](https://www.youtube.com/watch?v=4xwC2q8G4J8&t=4s) (15 min)
-  * [U.S. Web Design System and accessibility: Creating more inclusive federal websites](https://www.youtube.com/watch?v=D-CQtJYBZz0) (39 min)
+    * [Designing metaphors, designing collaboration](https://www.youtube.com/watch?v=4Fz9xqu89XU) (12 min)
+    * [Designing with people of all abilities](https://www.youtube.com/watch?v=_QjXiQOa33Y) (52 min)
+    * [Equity-centered design: Challenges in government](https://www.youtube.com/watch?v=j1ZJO8maV7s) (38 min)
+    * [Increasing public participation in user research](https://www.youtube.com/watch?v=LI0uhEi70gc) (34 min)
+    * [Reflecting the diversity of the public we serve (18F and PIF)](https://www.youtube.com/watch?v=fYEoLKEbjlo) (14 min)
+    * [Supporting inclusive language through automation](https://www.youtube.com/watch?v=4xwC2q8G4J8&t=4s) (15 min)
+    * [U.S. Web Design System and accessibility: Creating more inclusive federal websites](https://www.youtube.com/watch?v=D-CQtJYBZz0) (39 min)
 
 Note that inclusion may look different at your agency, depending on your values.
 

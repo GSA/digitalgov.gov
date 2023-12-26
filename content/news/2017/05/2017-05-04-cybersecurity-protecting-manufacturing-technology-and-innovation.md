@@ -6,7 +6,7 @@ summary: Recently a segment on my favorite morning news program stopped me in my
 authors:
   - pat-toth
 topics:
-  - product-management
+  - product-and-project-management
   - strategy
   - policy
   - best-practices
