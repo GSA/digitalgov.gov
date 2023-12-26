@@ -11,7 +11,7 @@ topics:
   - accessibility
   - innovation
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 featured_image:

@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - mobile
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - fda
   - mobile-app-development-program

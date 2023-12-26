@@ -9,7 +9,7 @@ authors:
 topics:
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - user-experience
   - video
   - audio-video
@@ -24,7 +24,7 @@ topics:
   - video
   - video-production-pros-community
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 
 ---
 

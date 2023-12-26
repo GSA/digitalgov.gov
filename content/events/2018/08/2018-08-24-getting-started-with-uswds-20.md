@@ -17,7 +17,7 @@ topics:
   - accessibility
   - code
   - design
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - uswds
 

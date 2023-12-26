@@ -15,7 +15,7 @@ topics:
   - design
   - uswds
   - 21st-century-idea
-  - user-centered-design
+  - human-centered-design
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

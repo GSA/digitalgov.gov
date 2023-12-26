@@ -17,7 +17,7 @@ topics:
   - mobile
   - mobile-friendly
   - mobile-gov
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - video
   - video-production-pros-community

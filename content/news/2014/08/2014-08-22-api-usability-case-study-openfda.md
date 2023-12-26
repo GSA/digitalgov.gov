@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - api
   - digitalgov-user-experience-program

@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - user-testing-and-research
+  - research
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4

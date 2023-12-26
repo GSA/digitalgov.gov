@@ -7,7 +7,7 @@ authors:
   - jean-fox
 topics:
   - communities
-  - user-testing-and-research
+  - research
   - aoi
   - BLS
   - DOL

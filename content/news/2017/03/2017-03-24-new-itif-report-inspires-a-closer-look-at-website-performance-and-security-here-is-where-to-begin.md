@@ -16,7 +16,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - accessibility
   - analytics
   - communities
@@ -33,10 +33,9 @@ topics:
   - search-engine-optimization
   - section-508
   - security
-  - seo
   - training
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
 
 ---

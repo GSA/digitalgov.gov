@@ -23,7 +23,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - user-experience
   - 18f
   - ai
@@ -44,7 +44,7 @@ topics:
   - social-media
   - training
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 
 ---
 

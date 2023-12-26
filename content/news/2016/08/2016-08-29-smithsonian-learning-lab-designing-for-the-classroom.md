@@ -8,11 +8,11 @@ authors:
 topics:
   - design
   - product-and-project-management
-  - user-testing-and-research
+  - research
   - content
   - prototype
   - smithsonian-institution
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - user research
   

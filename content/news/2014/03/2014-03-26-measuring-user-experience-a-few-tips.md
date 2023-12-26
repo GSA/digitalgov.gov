@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - communities
-  - user-testing-and-research
+  - research
   - a-b-testing
   - aoi
   - recaps

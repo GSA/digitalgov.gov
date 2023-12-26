@@ -22,7 +22,7 @@ topics:
   - design
   - uswds
   - user-experience
-  - user-centered-design
+  - human-centered-design
 
 # see all authors at https://digital.gov/authors
 authors: 

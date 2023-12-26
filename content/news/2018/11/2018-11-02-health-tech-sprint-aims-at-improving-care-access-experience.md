@@ -13,7 +13,7 @@ topics:
   - open-data
   - innovation
   - pif
-  - sprint
+  - product-and-project-management
 featured_image:
   uid: bot
 

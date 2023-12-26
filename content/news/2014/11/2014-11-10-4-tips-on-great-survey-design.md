@@ -7,7 +7,7 @@ authors:
   - georgia-gallavin
 topics:
   - monthly-theme
-  - user-testing-and-research
+  - research
   - customer-satisfaction
   - digitalgov-user-experience-program
   - usability

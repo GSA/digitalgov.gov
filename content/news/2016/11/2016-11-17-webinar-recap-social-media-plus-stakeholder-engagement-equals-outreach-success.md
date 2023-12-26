@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - social-media
-  - user-testing-and-research
+  - research
   - user-experience
   - cdc
   - content

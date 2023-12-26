@@ -6,7 +6,6 @@ summary: Learn why search functionality is an important component of federal
   websites, and discover how to add a search function to your website.
 # See all topics at https://digital.gov/topics
 topics:
-  - seo
   - 21st-century-idea
   - search-engine-optimization
 # Controls how this page appears across the site

@@ -15,7 +15,7 @@ topics:
   - user-experience
   - usability-testing
   - user-research
-  - user-centered-design
+  - human-centered-design
   - design
   - accessibility
   - section-508

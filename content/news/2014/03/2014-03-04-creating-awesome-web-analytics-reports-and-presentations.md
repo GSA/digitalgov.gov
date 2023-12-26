@@ -8,7 +8,7 @@ authors:
 topics:
   - metrics
   - social-media
-  - user-testing-and-research
+  - research
   - dap
   - GAO
 ---

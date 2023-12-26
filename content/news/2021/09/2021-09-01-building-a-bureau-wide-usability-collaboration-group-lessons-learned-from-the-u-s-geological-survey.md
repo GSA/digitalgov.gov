@@ -12,7 +12,7 @@ topics:
   - user-experience
   - strategy
   - communities
-  - user-testing-and-research
+  - research
 # See all authors at https://digital.gov/authors
 authors:
   - holly-chandler

@@ -19,7 +19,7 @@ topics:
   - augmented-reality
   - blockchain
   - social-media
-  - virtual-augmented-reality-community
+  - multimedia
   - virtual-reality
 
 ---

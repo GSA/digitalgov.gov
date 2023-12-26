@@ -12,7 +12,6 @@ topics:
   - https
   - plain-language
   - search-engine-optimization
-  - seo
 
 ---
 

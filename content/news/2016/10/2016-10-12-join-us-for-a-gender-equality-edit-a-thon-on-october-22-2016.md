@@ -10,7 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - product-and-project-management
   - mobile
-  - user-testing-and-research
+  - research
   - content
   - crowdsourcing
   - NARA

@@ -6,7 +6,7 @@ summary: 'Websites allow newer government programs to establish a visual identit
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - gsa
   - usability

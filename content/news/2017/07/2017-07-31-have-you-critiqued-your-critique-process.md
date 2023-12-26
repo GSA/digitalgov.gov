@@ -11,7 +11,7 @@ topics:
   - product-and-project-management
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - best-practices
   - user-experience
   

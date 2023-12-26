@@ -10,13 +10,13 @@ topics:
   - product-and-project-management
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - analytics
   - customer-experience
   - metrics
   - usa-gov
   - usability-testing
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

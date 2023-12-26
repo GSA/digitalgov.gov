@@ -20,7 +20,7 @@ end_date: 2019-11-19 11:30:00 -0500
 topics: 
   - a-b-testing
   - dap
-  - seo
+  - search-engine-optimization
 
 # see all authors at https://digital.gov/authors
 authors: 

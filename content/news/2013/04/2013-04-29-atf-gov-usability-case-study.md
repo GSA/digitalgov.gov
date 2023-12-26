@@ -6,7 +6,7 @@ summary: 'The Bureau of Alcohol, Tobacco, Firearms, and Explosives has some real
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - usability-case-study
   - usability-testing

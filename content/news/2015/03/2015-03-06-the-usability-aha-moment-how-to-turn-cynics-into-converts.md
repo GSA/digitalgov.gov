@@ -8,7 +8,7 @@ authors:
   - deborah-bennett
 topics:
   - design
-  - user-testing-and-research
+  - research
   - National Library of Medicine
   - NLM
   - prototype

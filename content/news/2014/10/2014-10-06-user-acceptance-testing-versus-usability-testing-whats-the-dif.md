@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - design
-  - user-testing-and-research
+  - research
   - aoi
   - usability
   - user-experience

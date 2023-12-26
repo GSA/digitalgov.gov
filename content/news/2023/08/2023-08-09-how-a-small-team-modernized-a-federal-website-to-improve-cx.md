@@ -10,7 +10,7 @@ summary: "The recent redesign of the Office of Natural Resources Revenue (ONRR) 
 topics:
   - customer-experience
   - open-data
-  - user-centered-design
+  - human-centered-design
   - design
   - accessibility
 slug: how-a-small-team-modernized-a-federal-website-to-improve-cx

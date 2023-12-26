@@ -13,7 +13,7 @@ end_date: 2022-04-28 15:00:00 -0500
 topics:
   - performance
   - accessibility
-  - seo
+  - search-engine-optimization
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden

@@ -10,10 +10,10 @@ topics:
   - design
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - State
   - us-department-of-state
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - user research
   

@@ -12,7 +12,6 @@ topics:
   - https
   - metadata
   - search-engine-optimization
-  - seo
   - the-content-corner
 ---
 

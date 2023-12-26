@@ -21,7 +21,7 @@ topics:
   - dap
   - digital-analytics-program
   - section-508
-  - seo
+  - search-engine-optimization
   - this-weeks-idea
 
 # see all authors at https://digital.gov/authors

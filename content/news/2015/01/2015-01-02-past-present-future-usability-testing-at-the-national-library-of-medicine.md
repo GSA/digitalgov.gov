@@ -9,7 +9,7 @@ authors:
   - ray-bryson
   - dan-wendling
 topics:
-  - user-testing-and-research
+  - research
   - National Library of Medicine
   - NLM
   - usability-case-study

@@ -7,9 +7,9 @@ authors:
   - awichman
 topics:
   - product-and-project-management
-  - user-testing-and-research
+  - research
   - Social and Behavioral Sciences Team
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - podcast
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"

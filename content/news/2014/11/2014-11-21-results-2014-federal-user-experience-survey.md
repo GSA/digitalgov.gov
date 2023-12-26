@@ -10,7 +10,7 @@ topics:
   - communities
   - design
   - monthly-theme
-  - user-testing-and-research
+  - research
   - aoi
   - bls
   - user-experience-community-of-practice

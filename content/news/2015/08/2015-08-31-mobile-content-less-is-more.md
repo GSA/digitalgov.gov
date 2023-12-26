@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - user-testing-and-research
+  - research
   - COPE
   - Federal CrowdSource Mobile Testing Program
   - mobile

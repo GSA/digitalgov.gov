@@ -21,7 +21,7 @@ topics:
   - plain-language
   - responsive-web-design
   - uswds
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

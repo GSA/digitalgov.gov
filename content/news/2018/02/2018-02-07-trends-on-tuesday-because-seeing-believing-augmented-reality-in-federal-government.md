@@ -8,7 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - augmented-reality
-  - virtual-augmented-reality-community
+  - multimedia
   - Trends On Tuesday
 featured_image:
   uid: augmented-reality-marketing

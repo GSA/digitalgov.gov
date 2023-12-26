@@ -11,7 +11,7 @@ topics:
   - data
   - product-and-project-management
   - metrics
-  - user-testing-and-research
+  - research
   - ai
   - analytics
   - artificial intelligence

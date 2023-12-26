@@ -10,7 +10,7 @@ topics:
   - user-experience
   - customer-experience
   - gsa
-  - top-tasks
+  - content-strategy
 ---
 
 <p>

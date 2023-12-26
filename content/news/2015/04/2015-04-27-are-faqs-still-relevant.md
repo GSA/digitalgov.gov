@@ -16,7 +16,7 @@ topics:
   - peace-corps
   - us-digital-service
   - USDS
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - user-experience-community-of-practice
 ---

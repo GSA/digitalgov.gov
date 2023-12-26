@@ -13,7 +13,7 @@ topics:
   - customer-experience
   - best-practices
   - usability
-  - seo
+  - search-engine-optimization
   - user-experience
 
 # See all authors at https://digital.gov/authors

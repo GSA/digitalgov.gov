@@ -7,7 +7,7 @@ authors:
   - gray-brooks
 topics:
   - api
-  - user-testing-and-research
+  - research
   - api
 ---
 

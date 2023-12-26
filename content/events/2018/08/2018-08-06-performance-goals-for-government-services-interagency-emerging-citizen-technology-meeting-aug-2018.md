@@ -25,7 +25,7 @@ topics:
   - augmented-reality
   - blockchain
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 
 # see all authors at https://digital.gov/authors
 authors: 

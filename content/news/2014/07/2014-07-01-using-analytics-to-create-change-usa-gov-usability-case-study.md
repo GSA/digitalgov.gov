@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - metrics
-  - user-testing-and-research
+  - research
   - user-experience
   - customer-satisfaction
   - GobiernoUSAgov

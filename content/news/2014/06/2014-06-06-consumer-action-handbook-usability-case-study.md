@@ -10,7 +10,7 @@ authors:
 
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - digitalgov-user-experience-program
   - usability-case-study

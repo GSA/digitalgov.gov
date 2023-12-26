@@ -14,7 +14,6 @@ topics:
   - content
   - content-strategy
   - search-engine-optimization
-  - seo
 
 # see all authors at https://digital.gov/authors
 authors: 

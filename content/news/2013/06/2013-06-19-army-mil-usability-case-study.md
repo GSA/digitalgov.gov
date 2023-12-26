@@ -6,7 +6,7 @@ summary: 'If you want to make a website more efficient and user friendly, then i
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - DoD
   - united-states-army
   - united-states-department-of-defense

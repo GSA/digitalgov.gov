@@ -7,7 +7,7 @@ authors:
   - georgia-gallavin
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - digitalgov-user-experience-program
   - OPM

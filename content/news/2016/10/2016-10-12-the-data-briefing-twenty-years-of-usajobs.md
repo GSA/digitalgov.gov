@@ -11,7 +11,7 @@ topics:
   - metrics
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - user-experience
   - agile
   - blockchain
@@ -22,7 +22,7 @@ topics:
   - lean
   - the-data-briefing
   - us-general-services-administration
-  - user-centered-design
+  - human-centered-design
 ---
 
 I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}}

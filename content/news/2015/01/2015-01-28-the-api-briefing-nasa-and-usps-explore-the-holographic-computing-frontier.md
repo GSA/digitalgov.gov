@@ -16,7 +16,7 @@ topics:
   - United States Postal Service
   - USDA
   - USPS
-  - virtual-augmented-reality-community
+  - multimedia
   - wednesday-api-briefing
 
 ---

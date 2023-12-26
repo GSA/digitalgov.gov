@@ -9,7 +9,7 @@ authors:
 topics:
   - design
   - metrics
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - national-cancer-institute
   - NCI

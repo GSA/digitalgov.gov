@@ -9,7 +9,7 @@ summary: asdf
 # See all topics at https://digital.gov/topics
 topics:
   - agile
-  - user-centered-design
+  - human-centered-design
   - design
   - 18f
 slug: what-agile-looks-like-at-the-office-of-natural-resources-revenue

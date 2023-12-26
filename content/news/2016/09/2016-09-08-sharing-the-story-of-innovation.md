@@ -8,11 +8,11 @@ authors:
 topics:
   - accessibility
   - design
-  - user-testing-and-research
+  - research
   - innovation
   - research
   - us-department-of-veterans-affairs
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - VA
   - va-center-for-innovation

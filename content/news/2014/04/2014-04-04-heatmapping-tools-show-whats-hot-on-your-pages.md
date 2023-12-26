@@ -6,7 +6,7 @@ summary: 'Most analytics tools can tell you how many times a link on your page i
 authors:
   - tlowden
 topics:
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - usability
   - usagov

@@ -9,7 +9,7 @@ topics:
   - governance
   - agile
   - cdc
-  - sprint
+  - product-and-project-management
   - centers-for-disease-control-and-prevention
 ---
 

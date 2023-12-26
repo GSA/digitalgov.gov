@@ -9,7 +9,7 @@ topics:
   - design
   - product-and-project-management
   - monthly-theme
-  - user-testing-and-research
+  - research
   - CFPB
   - Internal Revenue Service
   - IRS

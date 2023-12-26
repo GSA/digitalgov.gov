@@ -10,7 +10,6 @@ topics:
   - design
   - product-and-project-management
   - agile
-  - sprint
   - user-experience
   
 featured_image:

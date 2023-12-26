@@ -6,7 +6,7 @@ summary: 'When you want to do a usability test, sometimes you have to step out o
 authors:
   - joanne-mcgovern
 topics:
-  - user-testing-and-research
+  - research
   - customer-experience
   - customer-service
   - Government Contact Center Council

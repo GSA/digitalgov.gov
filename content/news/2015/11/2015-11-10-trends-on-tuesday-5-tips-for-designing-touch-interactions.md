@@ -11,7 +11,7 @@ topics:
   - mobile
   - responsive-web-design
   - trends-on-tuesday
-  - user-centered-design
+  - human-centered-design
   - user-experience
 
 ---

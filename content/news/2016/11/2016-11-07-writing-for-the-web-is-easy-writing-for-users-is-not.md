@@ -9,12 +9,12 @@ authors:
   - phoebe-espiritu
 topics:
   - content
-  - user-testing-and-research
+  - research
   - writing
   - accessibility
   - content
   - plain-language
-  - user-centered-design
+  - human-centered-design
   - user research
 ---
 

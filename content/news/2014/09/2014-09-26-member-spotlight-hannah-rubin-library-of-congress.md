@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - metrics
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - Library of Congress
   - LOC

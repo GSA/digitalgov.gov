@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - code
-  - user-testing-and-research
+  - research
   - user-experience
   - 18f
   - api

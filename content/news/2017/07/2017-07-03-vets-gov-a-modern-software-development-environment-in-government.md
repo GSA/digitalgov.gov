@@ -10,13 +10,13 @@ topics:
   - code
   - software-engineering
   - design
-  - user-testing-and-research
+  - research
   - cloud
   - code
   - GitHub
   - infrastructure
   - open-source
-  - user-centered-design
+  - human-centered-design
   - user-experience
 
 ---

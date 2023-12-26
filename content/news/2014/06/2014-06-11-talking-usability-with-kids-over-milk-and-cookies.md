@@ -7,7 +7,7 @@ authors:
   - jean-fox
   - robin-l-kaplan
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
   - BLS
   - us-bureau-of-labor-statistics

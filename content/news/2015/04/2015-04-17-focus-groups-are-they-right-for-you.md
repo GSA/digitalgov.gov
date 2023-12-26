@@ -7,7 +7,7 @@ authors:
   - stacey-sarris
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   
 ---

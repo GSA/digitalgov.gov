@@ -21,7 +21,7 @@ topics:
   - strategy
   - agile
   - design
-  - user-centered-design
+  - human-centered-design
 slug: building-a-user-centered-data-strategy
 # Controls how this page appears across the site
 # 0 -- hidden

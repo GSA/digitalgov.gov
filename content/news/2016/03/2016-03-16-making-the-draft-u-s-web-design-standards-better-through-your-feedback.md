@@ -11,7 +11,7 @@ topics:
   - user-experience
   - 18f
   - draft-web-design-standards
-  - user-centered-design
+  - human-centered-design
   - VA
 ---
 

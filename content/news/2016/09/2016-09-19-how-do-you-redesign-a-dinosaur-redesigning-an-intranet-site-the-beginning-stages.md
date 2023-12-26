@@ -13,7 +13,7 @@ topics:
   - product-and-project-management
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - content
   - content-strategy
   - customer-experience

@@ -19,7 +19,7 @@ topics:
   - content
   - content-strategy
   - strategy
-  - user-centered-design
+  - human-centered-design
   - multilingual
   - search
   - search-engine-optimization

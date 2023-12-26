@@ -7,7 +7,7 @@ summary: "After watching a DigitalGov User Experience Program testing session, O
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - tribal-government
   - usability-case-study

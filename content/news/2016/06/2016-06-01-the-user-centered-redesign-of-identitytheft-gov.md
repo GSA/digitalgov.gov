@@ -10,12 +10,12 @@ topics:
   - product-and-project-management
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - 18f
   - Federal Trade Commission
   - FTC
   - usability-testing
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

@@ -8,11 +8,11 @@ authors:
 topics:
   - communities
   - design
-  - user-testing-and-research
+  - research
   - aoi
   - Federal Reserve Board
   - FRB
-  - top-tasks
+  - content-strategy
   - usability
   - usability-testing
   - user-experience

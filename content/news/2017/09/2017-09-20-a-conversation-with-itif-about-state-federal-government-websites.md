@@ -10,7 +10,7 @@ topics:
   - design
   - metrics
   - mobile
-  - user-testing-and-research
+  - research
   - accessibility
   - communities
   - content
@@ -24,7 +24,6 @@ topics:
   - search-engine-optimization
   - section-508
   - security
-  - seo
   - training
   - usability
   - user-experience

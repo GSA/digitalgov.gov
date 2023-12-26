@@ -8,12 +8,12 @@ authors:
 topics:
   - content
   - design
-  - user-testing-and-research
+  - research
   - content
   - gamification
   - software-engineering
   - smithsonian-institution
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

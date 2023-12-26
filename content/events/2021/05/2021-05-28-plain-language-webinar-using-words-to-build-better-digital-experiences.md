@@ -20,7 +20,7 @@ topics:
   - writing
   - design
   - user-experience
-  - user-centered-design
+  - human-centered-design
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

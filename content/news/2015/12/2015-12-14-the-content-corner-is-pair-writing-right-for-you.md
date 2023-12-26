@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - user-testing-and-research
+  - research
   - writing
   - administrative-office-of-the-united-states-courts
   - agile

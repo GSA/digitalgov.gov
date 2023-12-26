@@ -22,7 +22,7 @@ topics:
   - user-generated-content
   - video
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 
 ---
 

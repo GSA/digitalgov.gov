@@ -7,7 +7,7 @@ authors:
   - sharon-lozano
 topics:
   - data
-  - user-testing-and-research
+  - research
   - data
   - data-visualization
   - FAA

@@ -29,7 +29,7 @@ topics:
   - emerging-tech
   - augmented-reality
   - blockchain
-  - virtual-augmented-reality-community
+  - multimedia
   - virtual-reality
 
 ---

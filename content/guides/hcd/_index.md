@@ -12,7 +12,7 @@ additional_resources: next-steps.md
 topics:
   - design
   - user-experience
-  - user-centered-design
+  - human-centered-design
   - user-research
   - web-content-managers-forum
   - user-experience-community-of-practice

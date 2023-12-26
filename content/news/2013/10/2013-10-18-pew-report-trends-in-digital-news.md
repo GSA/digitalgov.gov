@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - user-testing-and-research
+  - research
   - mobile
   - social-media
 ---

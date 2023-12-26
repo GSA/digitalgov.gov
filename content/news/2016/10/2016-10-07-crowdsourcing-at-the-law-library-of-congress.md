@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - data
   - product-and-project-management
-  - user-testing-and-research
+  - research
   - crowdsourcing
   - Law Library of Congress
   - LOC

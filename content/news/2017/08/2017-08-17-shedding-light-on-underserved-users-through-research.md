@@ -6,7 +6,7 @@ summary: 'How user interviews helped spotlight the needs of a previously forgott
 authors:
   - tyrus-manuel
 topics:
-  - user-testing-and-research
+  - research
   - personas
   - user-experience
   - user research

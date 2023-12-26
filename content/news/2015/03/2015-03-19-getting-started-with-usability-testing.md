@@ -7,9 +7,9 @@ authors:
   - laura-hughes
 topics:
   - design
-  - user-testing-and-research
+  - research
   - open-data
-  - top-tasks
+  - content-strategy
   - us-agency-for-international-development
   - usability
   - usaid

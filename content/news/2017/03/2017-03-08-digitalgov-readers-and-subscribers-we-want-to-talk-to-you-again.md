@@ -9,7 +9,7 @@ topics:
   - content
   - product-and-project-management
   - our-work
-  - user-testing-and-research
+  - research
   - content
   - customer-experience
   - office-of-products-and-programs

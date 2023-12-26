@@ -9,7 +9,7 @@ topics:
   - governance
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - innovation
 ---
 

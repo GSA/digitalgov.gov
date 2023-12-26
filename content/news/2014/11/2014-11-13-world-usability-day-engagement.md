@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - monthly-theme
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - user-experience
   

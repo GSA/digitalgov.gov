@@ -6,7 +6,7 @@ summary: Acronyms and jargon are fine when you want to communicate quickly to an
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - Internal Revenue Service
   - IRS

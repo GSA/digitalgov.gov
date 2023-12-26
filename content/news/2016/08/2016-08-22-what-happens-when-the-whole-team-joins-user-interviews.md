@@ -9,7 +9,7 @@ topics:
   - product-and-project-management
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - 18f
   - agile
   - research

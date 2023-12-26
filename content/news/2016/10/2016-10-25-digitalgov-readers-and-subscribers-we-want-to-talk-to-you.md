@@ -9,13 +9,13 @@ topics:
   - content
   - product-and-project-management
   - our-work
-  - user-testing-and-research
+  - research
   - user-experience
   - content
   - customer-experience
   - office-of-products-and-programs
   - research
-  - user-centered-design
+  - human-centered-design
 
 ---
 

@@ -6,7 +6,7 @@ summary: One of the most vital parts of any website is its starting point. When 
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - gsa
   - usability-case-study

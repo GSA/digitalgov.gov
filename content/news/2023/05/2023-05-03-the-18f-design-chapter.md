@@ -18,7 +18,7 @@ summary: Designing technology-enabled public services requires deep expertise in
 topics:
   - 18f
   - design
-  - user-centered-design
+  - human-centered-design
 slug: the-18f-design-chapter
 # Controls how this page appears across the site
 # 0 -- hidden

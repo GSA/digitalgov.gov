@@ -9,7 +9,7 @@ topics:
   - accessibility
   - design
   - monthly-theme
-  - user-testing-and-research
+  - research
   - accessibility
   - SBA
   - section-508

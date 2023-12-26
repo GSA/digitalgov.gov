@@ -7,14 +7,14 @@ authors:
   - ben-rosset
 topics:
   - communities
-  - user-testing-and-research
+  - research
   - user-experience
   - aoi
   - digitalgov-user-experience-program
   - Federal Reserve Board
   - first-click testing
   - FRB
-  - top-tasks
+  - content-strategy
   - user-experience-community-of-practice
 
 ---

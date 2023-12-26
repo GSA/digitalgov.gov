@@ -14,7 +14,7 @@ topics:
   - design
   - content
   - research
-  - user-centered-design
+  - human-centered-design
   - writing
   - plain-language
 slug: content-design-for-beta-ada-gov-writing-for-action-and-flexibility

@@ -8,7 +8,7 @@ summary: Content audits can be tedious. Two content designers discuss why we do 
 topics:
   - content
   - content-strategy
-  - seo
+  - search-engine-optimization
   - accessibility
   - plain-language
   - plain-language-community-of-practice

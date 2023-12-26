@@ -10,7 +10,7 @@ topics:
   - data
   - metrics
   - our-work
-  - user-testing-and-research
+  - research
   - analytics
   - dap
   - digital-analytics-program

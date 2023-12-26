@@ -15,7 +15,7 @@ topics:
   - product-and-project-management
   - agile
   - best-practices
-  - workflows
+  - product-and-project-management
   - 18f
 slug: the-weekly-ship-what-it-is-why-useful-and-how-to-create-your-own
 # Controls how this page appears across the site

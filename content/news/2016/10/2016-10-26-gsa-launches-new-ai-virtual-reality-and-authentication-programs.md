@@ -21,7 +21,7 @@ topics:
   - social-media
   - us-digital-registry
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 Today we’re launching three new initiatives [powered by GSA Digital Communities]({{< ref "/communities" >}}) that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry.

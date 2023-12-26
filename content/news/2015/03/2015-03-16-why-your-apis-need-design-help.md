@@ -18,7 +18,7 @@ topics:
   - json
   - us-food-and-drug-administration
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

@@ -7,7 +7,7 @@ authors:
   - hannah-gladfelter-rubin
 topics:
   - metrics
-  - user-testing-and-research
+  - research
   - user-experience
   - analytics
   - data

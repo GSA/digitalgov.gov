@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - product-and-project-management
-  - user-testing-and-research
+  - research
   - video
   - audio-video
   - CFPB

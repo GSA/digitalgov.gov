@@ -9,7 +9,7 @@ topics:
   - design
   - product-and-project-management
   - mobile
-  - user-testing-and-research
+  - research
   - CMS
   - content-management-system
   - draft-web-design-standards

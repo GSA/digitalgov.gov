@@ -10,10 +10,10 @@ topics:
   - design
   - product-and-project-management
   - mobile
-  - user-testing-and-research
+  - research
   - content-strategy
   - mobile
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

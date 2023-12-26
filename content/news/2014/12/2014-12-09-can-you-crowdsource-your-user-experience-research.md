@@ -9,7 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - design
   - monthly-theme
-  - user-testing-and-research
+  - research
   - api
   - crowdsourcing
   - data-gov

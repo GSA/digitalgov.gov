@@ -16,7 +16,7 @@ topics:
   - design
   - uswds
   - 21st-century-idea
-  - user-centered-design
+  - human-centered-design
   - content-strategy
   - user-experience
 # See all authors at https://digital.gov/authors

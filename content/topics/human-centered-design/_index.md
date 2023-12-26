@@ -1,11 +1,11 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/user-centered-design
+# https://digital.gov/topics/human-centered-design
 
-slug: "user-centered-design"
+slug: "human-centered-design"
 
 # Topic Title
-title: "User Centered Design"
+title: "Human Centered Design"
 
 # description — keep it short and clear
 summary: ""

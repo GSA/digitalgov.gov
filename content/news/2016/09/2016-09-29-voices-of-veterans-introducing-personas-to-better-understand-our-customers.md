@@ -9,7 +9,7 @@ topics:
   - customer-experience
   - customer-service
   - personas
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - VA
   - va-center-for-innovation

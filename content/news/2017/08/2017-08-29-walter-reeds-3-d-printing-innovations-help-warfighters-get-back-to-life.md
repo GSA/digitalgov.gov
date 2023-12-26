@@ -11,7 +11,7 @@ authors:
 topics:
   - code
   - design
-  - user-testing-and-research
+  - research
   - 3d-printing
   - DoD
   - us-department-of-veterans-affairs

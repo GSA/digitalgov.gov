@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - design
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - gsa
   - usability-case-study

@@ -9,9 +9,9 @@ authors:
 topics:
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - 18f
-  - user-centered-design
+  - human-centered-design
   - user research
 
 ---

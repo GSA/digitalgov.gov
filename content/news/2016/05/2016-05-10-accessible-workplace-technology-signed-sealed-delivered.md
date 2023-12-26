@@ -10,7 +10,7 @@ topics:
   - accessibility
   - DOL
   - us-department-of-labor
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

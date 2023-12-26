@@ -9,11 +9,11 @@ authors:
 topics:
   - design
   - mobile
-  - user-testing-and-research
+  - research
   - mobile
   - mobile-ux-guideline-5
   - thursday-mobile-products
-  - top-tasks
+  - content-strategy
   - us-department-of-labor
   - usability-testing
   - user-experience

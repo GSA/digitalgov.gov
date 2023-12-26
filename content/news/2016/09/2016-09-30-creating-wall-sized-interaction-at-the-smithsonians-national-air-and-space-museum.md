@@ -8,13 +8,13 @@ authors:
 topics:
   - content
   - design
-  - user-testing-and-research
+  - research
   - content
   - content-strategy
   - mobile
   - mobile-apps
   - smithsonian-institution
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

@@ -34,7 +34,7 @@ topics:
   - security
   - the-data-briefing
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber attack that took down Twitter and Netflix. {{< legacy-img src="2016/10/600-x-450-Blue-glowing-big-data-in-space-with-particles-sakkmesterke-iStock-Thinkstock-585496874.jpg" alt="Blue glowing big data in space with particles." caption="" >}} 

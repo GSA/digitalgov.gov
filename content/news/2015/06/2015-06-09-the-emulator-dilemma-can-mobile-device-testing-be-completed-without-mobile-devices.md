@@ -8,7 +8,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - user-testing-and-research
+  - research
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile-testing

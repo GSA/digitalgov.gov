@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - user-testing-and-research
+  - research
   - fda
   - infographic
   - us-food-and-drug-administration

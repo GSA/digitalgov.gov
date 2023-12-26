@@ -12,7 +12,6 @@ topics:
   - code
   - multilingual
   - search-engine-optimization
-  - seo
   - social-media
 ---
 

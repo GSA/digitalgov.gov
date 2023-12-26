@@ -11,7 +11,7 @@ topics:
   - product-and-project-management
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - user-experience
   - 18f
   - fbi
@@ -19,7 +19,6 @@ topics:
   - federal-bureau-of-investigation
   - federal-election-commission
   - research
-  - sprint
   - us-department-of-the-interior
   - uswds
   - user-research

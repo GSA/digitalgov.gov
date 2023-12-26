@@ -9,7 +9,7 @@ authors:
 
 topics:
   - our-work
-  - user-testing-and-research
+  - research
   - customer-experience
 
 ---

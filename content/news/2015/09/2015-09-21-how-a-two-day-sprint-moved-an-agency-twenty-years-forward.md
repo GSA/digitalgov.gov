@@ -10,7 +10,7 @@ topics:
   - 18f
   - agile
   - DOL
-  - sprint
+  - product-and-project-management
   - us-department-of-labor
 ---
 

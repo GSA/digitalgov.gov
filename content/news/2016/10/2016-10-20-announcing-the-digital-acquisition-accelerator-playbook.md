@@ -17,7 +17,7 @@ topics:
   - open
   - PIF
   - Presidential Innovation Fellows
-  - user-centered-design
+  - human-centered-design
 ---
 
 Built on the lessons learned during the pilot phase of the [Digital Acquisitions Accelerator](https://pages.18f.gov/digitalaccelerator/), the accompanying [playbook](https://pages.18f.gov/digital-acquisition-playbook/) examines the current acquisition landscape and provides an approach to procuring custom software solutions. Our goal is to make the government a smarter and more informed buyer of digital products and services.

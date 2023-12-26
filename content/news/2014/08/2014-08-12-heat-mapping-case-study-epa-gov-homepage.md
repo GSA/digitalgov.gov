@@ -9,7 +9,7 @@ topics:
   - data
   - design
   - metrics
-  - user-testing-and-research
+  - research
   - user-experience
   - digitalgov-user-experience-program
   - epa

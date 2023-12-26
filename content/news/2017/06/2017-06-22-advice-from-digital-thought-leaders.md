@@ -18,7 +18,7 @@ topics:
   - video
   - video-production-pros-community
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 Many know that digital tools have become indispensable for connecting with many audiences—but we also know that what’s available in the digital realm is always changing. So how do you know what tools are best for your purpose? And how do you plan for your organization’s digital future when the pace of change is so rapid? Recently, we asked colleagues what advice they would give for developing a digital media strategy. {{< legacy-img src="2017/06/600-x-337-Content-Social-Media-Strategy-Internet-marketing-sodafish-iStock-Thinkstock-504537426.jpg" alt=" width=" >}} 

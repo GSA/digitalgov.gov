@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - mobile
-  - user-testing-and-research
+  - research
   - gsa
   - mobile
   - mobile-apps

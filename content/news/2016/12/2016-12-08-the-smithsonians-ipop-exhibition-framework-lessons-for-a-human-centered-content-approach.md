@@ -12,7 +12,7 @@ topics:
   - augmented-reality
   - mobile-apps
   - user-experience
-  - virtual-augmented-reality-community
+  - multimedia
 
 ---
 

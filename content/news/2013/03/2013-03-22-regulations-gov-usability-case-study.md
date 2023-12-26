@@ -6,7 +6,7 @@ summary: 'More and more people use search as their primary means of finding what
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - digitalgov-user-experience-program
   - usability
   - usability-case-study

@@ -10,7 +10,7 @@ authors:
   - code-gov
 topics:
   - code
-  - user-testing-and-research
+  - research
   - code
   - user research
 ---

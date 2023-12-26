@@ -20,7 +20,7 @@ topics:
   - user-experience
   - USPTO
   - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 Ten months ago, I wrote about the <a href="{{< ref "2015-06-24-the-api-briefing-government-apis-in-a-post-apps-world.md" >}}" target="_blank">rise of the post-app world</a> in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people to access information services and perform complicated online tasks. {{< legacy-img src="2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 

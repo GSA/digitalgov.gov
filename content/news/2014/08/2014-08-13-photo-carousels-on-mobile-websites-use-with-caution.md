@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - user-testing-and-research
+  - research
   - FAA
   - Federal Aviation Administration
   - Federal CrowdSource Mobile Testing Program

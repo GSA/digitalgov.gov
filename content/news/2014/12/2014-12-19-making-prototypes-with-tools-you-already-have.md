@@ -7,7 +7,7 @@ authors:
   - brandon-kopp
 topics:
   - design
-  - user-testing-and-research
+  - research
   - BLS
   - prototype
   - us-bureau-of-labor-statistics

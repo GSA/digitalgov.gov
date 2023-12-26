@@ -14,7 +14,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - user-testing-and-research
+  - research
   - video
   - audio-video
   - broadband

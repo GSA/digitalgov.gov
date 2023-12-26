@@ -26,7 +26,7 @@ summary: Since 2012, over 200 Presidential Innovation Fellows have supported
 topics:
   - ai
   - design
-  - user-centered-design
+  - human-centered-design
   - professional-development
   - pif
   - strategy
