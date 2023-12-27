@@ -5,7 +5,7 @@ title: Let Us Share Your Events
 summary: 'You may have seen this icon on our calendar recently. This icon indicates a DigitalGov &#8220;friend event.&#8221;'
 authors:
   - apiazza
-
+expirydate: "2023-12-26"
 ---
 
 {{< legacy-img-right src="2015/02/250-x-212-DGU-Partner-Event-using-DG-logo-colors-image-from-People-in-action-logos-and-icons-marko187-iStock-Thinkstock-451025551.jpg" alt="DGU Friend Event icon" caption="" >}}
