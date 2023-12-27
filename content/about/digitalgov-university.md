@@ -5,6 +5,7 @@ title: Digital.gov Events
 summary: 'Digital.gov helps agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops, and connect with each other.'
 aliases:
   - /digitalgov-university/digitalgov-university-event-and-training-request-form/
+  - /2015/02/03/let-us-share-your-events/
 
 ---
 

@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - content
-  - GitHub
+  
   - open-source
   - us-food-and-drug-administration
   - united-states-office-of-personnel-management

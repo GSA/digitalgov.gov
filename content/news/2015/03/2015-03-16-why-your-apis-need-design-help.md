@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - api
   - application-programming-interface
-  - GitHub
+  
   - json
   - us-food-and-drug-administration
   - usability

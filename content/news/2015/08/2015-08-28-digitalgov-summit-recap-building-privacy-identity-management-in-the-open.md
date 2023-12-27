@@ -8,8 +8,6 @@ authors:
   - andreanocesigritz
 topics:
   - security
-  - digitalgov-summit
-  - DOT
   - NIST
   - united-states-department-of-transportation
 ---

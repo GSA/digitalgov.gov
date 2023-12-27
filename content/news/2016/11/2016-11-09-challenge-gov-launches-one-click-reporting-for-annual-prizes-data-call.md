@@ -11,8 +11,6 @@ topics:
   - product-management
   - challenge-gov
   - challenges-and-prize-competitions
-  - webinar
-  - white-house-office-of-science-and-technology-policy
 ---
 
 ****This year, the deadline for agencies to submit their reporting of incentive prize competitions and challenges for FY16 comes earlier than most. Roughly two weeks from today, by Nov. 18, federal agencies </span><span style="font-weight: 400">are required</span> <span style="font-weight: 400">to submit their accounts of every prize, competition, or challenge that launched, ran or completed in FY16 via </span>[<span style="font-weight: 400">email</span>](mailto:prizes@ostp.eop.gov)<span style="font-weight: 400">. </p>

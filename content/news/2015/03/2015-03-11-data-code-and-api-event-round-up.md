@@ -12,8 +12,6 @@ topics:
   - content-management-system
   - data
   - data-gov
-  - drupal
-  - GitHub
   - json
   - metadata
   - mobile-gov-community-of-practice

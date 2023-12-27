@@ -6,8 +6,6 @@ summary: 'On September 8, 2016, the General Services Administration (GSA) is hos
 authors:
   - gsa-blog-team
 topics:
-  - code
-  - data
   - product-management
   - strategy
   - policy
@@ -18,11 +16,8 @@ topics:
   - code
   - data
   - budgeting-and-performance
-  - budgeting-and-performance
   - fedramp
   - innovation
-  - technology-transformation-services
-  - tts
 
 ---
 

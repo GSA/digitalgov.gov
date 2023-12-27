@@ -14,7 +14,7 @@ topics:
   - code
   - data
   
-  - GitHub
+  
   - innovation
   - mobile
   - mobile-apps

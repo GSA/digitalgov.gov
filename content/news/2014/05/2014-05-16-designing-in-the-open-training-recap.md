@@ -10,7 +10,7 @@ topics:
   - data
   - monthly-theme
   - data-gov
-  - GitHub
+  
   - open-source
 ---
 

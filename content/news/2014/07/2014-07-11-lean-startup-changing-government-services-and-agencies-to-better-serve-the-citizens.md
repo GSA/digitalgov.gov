@@ -9,9 +9,6 @@ topics:
   - strategy
   - policy
   - 18f
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - fda
   - us-food-and-drug-administration
   - united-states-office-of-personnel-management
 ---

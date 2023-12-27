@@ -12,7 +12,7 @@ topics:
   - aoi
   - api
   - content-models
-  - GitHub
+  
   - gsa
   - metadata
   - nih

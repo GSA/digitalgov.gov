@@ -8,9 +8,6 @@ authors:
   - apiazza
 topics:
   - customer-experience
-  - digitalgov-summit
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
   - gsa
   - open-and-structured-content-models
   - US Citizenship and Immigration Service

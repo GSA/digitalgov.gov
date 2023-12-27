@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - api
-  - HHS
   - united-states-department-of-health-and-human-services
   - united-states-office-of-personnel-management
   - wednesday-api-briefing

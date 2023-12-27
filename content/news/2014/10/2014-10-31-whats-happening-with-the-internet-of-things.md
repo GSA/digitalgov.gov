@@ -9,9 +9,6 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - DOT
-  - Federal Trade Commission
-  - FTC
   - internet-of-things
   - NIST
   - united-states-department-of-transportation

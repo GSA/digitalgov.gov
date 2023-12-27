@@ -13,9 +13,6 @@ topics:
   - governance
   - strategy
   - policy
-  - epa
-  - fda
-  - federal-register
   - US Department of Agriculture
   - us-environmental-protection-agency
   - us-food-and-drug-administration

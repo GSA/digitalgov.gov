@@ -15,7 +15,7 @@ topics:
   - social-media
   - aoi
   - content-models
-  - GitHub
+  
   - gsa
   - mobile-ux-guideline-1
   - nih

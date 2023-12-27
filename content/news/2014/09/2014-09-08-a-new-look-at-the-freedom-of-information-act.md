@@ -12,8 +12,6 @@ authors:
 topics:
   - code
   - 18f
-  - DOJ
-  - epa
   - open-government
   - us-department-of-justice
   - us-environmental-protection-agency

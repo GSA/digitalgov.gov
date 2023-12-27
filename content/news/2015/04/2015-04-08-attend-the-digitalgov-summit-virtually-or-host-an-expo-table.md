@@ -9,7 +9,6 @@ authors:
   - jthalls
 topics:
   - product-management
-  - digitalgov-summit
 
 ---
 

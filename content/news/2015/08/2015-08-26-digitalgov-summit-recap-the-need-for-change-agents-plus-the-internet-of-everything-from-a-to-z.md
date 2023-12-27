@@ -8,9 +8,6 @@ authors:
   - awichman
 topics:
   - emerging-tech
-  - digitalgov-summit
-  - FCC
-  - federal-communications-commission
   - internet-of-things
 ---
 

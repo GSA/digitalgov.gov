@@ -23,7 +23,6 @@ topics:
   - data
   - innovation
   - mobile-apps
-  - nasa
 ---
 
 > Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: [https://github.com/nasa/Open-Gov-Plan-v4](https://github.com/nasa/Open-Gov-Plan-v4)

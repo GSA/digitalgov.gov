@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - customer-experience
-  - HHS
   - united-states-department-of-health-and-human-services
   - usability
 ---

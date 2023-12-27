@@ -10,7 +10,6 @@ authors:
 topics:
   - governance
   - product-management
-  - white-house
 
 ---
 

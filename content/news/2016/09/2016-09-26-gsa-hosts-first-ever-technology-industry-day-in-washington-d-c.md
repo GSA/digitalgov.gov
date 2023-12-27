@@ -21,7 +21,6 @@ topics:
   - budgeting-and-performance
   - fedramp
   - innovation
-  - tts
 
 ---
 

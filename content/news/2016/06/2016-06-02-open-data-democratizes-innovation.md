@@ -29,7 +29,6 @@ topics:
   - national-day-of-civic-hacking
   - open-data
   - open-government
-  - SBA
   - us-agency-for-international-development
   - US Department of Agriculture
   - us-environmental-protection-agency

@@ -8,8 +8,6 @@ authors:
   - awichman
 topics:
   - product-management
-  - digitalgov-summit
-  - recaps
 
 ---
 

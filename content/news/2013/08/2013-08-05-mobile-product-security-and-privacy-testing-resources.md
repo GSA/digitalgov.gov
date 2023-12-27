@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - GitHub
   - mobile-testing
   - privacy
   - security

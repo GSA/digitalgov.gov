@@ -9,7 +9,7 @@ authors:
 topics:
   - code
   - 18f
-  - GitHub
+  
   - gsa
   - acquisition
 ---

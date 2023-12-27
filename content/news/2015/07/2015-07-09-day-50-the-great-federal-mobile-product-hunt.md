@@ -9,8 +9,6 @@ topics:
   - mobile
   - Federal Mobile Products Registry
   - mobile-apps
-  - National Center for Telehealth and Technology
-  - SAMHSA
   - thursday-mobile-products
   - us-coast-guard
   - us-department-of-veterans-affairs

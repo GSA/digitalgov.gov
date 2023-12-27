@@ -7,8 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - analytics
-  - digitalgov-summit
-  - recaps
 
 ---
 

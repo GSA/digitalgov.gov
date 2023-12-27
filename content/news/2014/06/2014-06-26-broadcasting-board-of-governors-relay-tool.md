@@ -9,7 +9,7 @@ topics:
   - content
   - mobile
   - monthly-theme
-  - GitHub
+  
   - multilingual
   - open-source
   - thursday-mobile-products

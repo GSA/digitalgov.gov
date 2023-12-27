@@ -13,8 +13,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - open-source
-  - recaps
-  - white-house-office-of-science-and-technology-policy
 
 ---
 

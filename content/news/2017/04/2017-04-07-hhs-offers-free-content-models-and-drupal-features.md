@@ -7,13 +7,9 @@ authors:
   - christen-geiler
 topics:
   - content
-  
-  - content
   - content-management-system
   - content-models
   - content-syndication
-  - drupal
-  
   - open-and-structured-content-models
   - united-states-department-of-health-and-human-services
 ---

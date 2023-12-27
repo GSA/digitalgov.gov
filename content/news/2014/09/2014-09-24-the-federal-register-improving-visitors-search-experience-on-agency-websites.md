@@ -12,7 +12,6 @@ topics:
   - search
   - social-media
   - NLM
-  - SEC
   - us-securities-and-exchange-commission
 ---
 

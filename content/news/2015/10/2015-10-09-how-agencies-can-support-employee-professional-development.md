@@ -6,8 +6,6 @@ summary: 'Providing professional development for over 100,000 employees is no ea
 authors:
   - awichman
 topics:
-  - DOT
-  - epa
   - open-opportunities-program
   - US Department of Agriculture
   - us-environmental-protection-agency

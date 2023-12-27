@@ -12,8 +12,6 @@ topics:
   - 18f
   - gsa
   - https
-  - nasa
-  - National Aeronautics and Space Administration
   - security
   - us-general-services-administration
   - united-states-department-of-homeland-security

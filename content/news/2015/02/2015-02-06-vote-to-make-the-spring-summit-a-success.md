@@ -6,7 +6,6 @@ summary: 'Thanks to your awesome input on the Citizen Services Summit agenda and
 authors:
   - apiazza
 topics:
-  - digitalgov-summit
   - innovation
 ---
 

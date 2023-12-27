@@ -9,7 +9,6 @@ summary: "OMB recently released new policy guidance for government that includes
 
 # See all topics at https://digital.gov/topics
 topics:
-  - white-house
   - 21st-century-idea
   - design
   - customer-experience

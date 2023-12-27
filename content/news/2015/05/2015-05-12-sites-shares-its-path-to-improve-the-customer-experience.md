@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - CMS
   - customer-experience
   - customer-service
 ---
