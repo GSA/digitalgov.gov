@@ -10,9 +10,6 @@ topics:
   - data
   - mobile
   - user-experience
-  - department-of-commerce
-  - FCC
-  - fema
   - mobile-ux-guideline-5
   - National Weather Service
   - open-data

@@ -13,7 +13,6 @@ topics:
   - metadata
   - national-institutes-of-health
   - open-and-structured-content-models
-  - recaps
   - structured-content
 ---
 

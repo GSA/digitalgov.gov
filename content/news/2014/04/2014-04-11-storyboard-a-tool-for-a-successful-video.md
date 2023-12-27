@@ -9,7 +9,6 @@ topics:
   - content
   - video
   - apps-challenges
-  - epa
   - us-environmental-protection-agency
 ---
 

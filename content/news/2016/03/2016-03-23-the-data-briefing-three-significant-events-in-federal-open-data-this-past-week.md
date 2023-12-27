@@ -13,7 +13,7 @@ topics:
   - monthly-theme
   - agile
   - api
-  - dhs
+  
   - national-action-plan-on-open-government
   - open-data
   - open-source

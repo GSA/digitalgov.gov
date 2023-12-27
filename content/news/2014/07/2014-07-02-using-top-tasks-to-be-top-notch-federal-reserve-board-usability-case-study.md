@@ -11,9 +11,7 @@ topics:
   - user-experience
   - aoi
   - digitalgov-user-experience-program
-  - Federal Reserve Board
   - first-click testing
-  - FRB
   - top-tasks
   - user-experience-community-of-practice
 

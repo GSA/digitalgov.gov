@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - data-gov
-  - indian-health-service
   - innovation
   - open-data
   - the-data-briefing

@@ -12,7 +12,6 @@ topics:
   - content
   - gamification
   - software-engineering
-  - smithsonian-institution
   - user-centered-design
   - user-experience
   

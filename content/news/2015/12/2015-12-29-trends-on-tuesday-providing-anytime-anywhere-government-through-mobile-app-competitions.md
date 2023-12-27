@@ -12,7 +12,6 @@ topics:
   - apps-challenges
   - challenges-and-prize-competitions
   - data
-  - epa
   - mobile-apps
   - national-institute-of-standards-and-technology
   - National Institute on Drug Abuse

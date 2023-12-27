@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - monthly-theme
-  - DOT
+  
   - united-states-department-of-transportation
 ---
 

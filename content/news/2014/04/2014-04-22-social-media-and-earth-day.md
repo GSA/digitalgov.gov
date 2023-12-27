@@ -10,7 +10,6 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  - epa
   - gsa
   - nasa
   - national-institutes-of-health

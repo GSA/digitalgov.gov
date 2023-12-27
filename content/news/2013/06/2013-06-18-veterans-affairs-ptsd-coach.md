@@ -7,7 +7,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov-experience
-  - VA
 ---
 
 _[{{< legacy-img src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}Mobile Gov Experiences]({{< ref "/topics/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Veteran&#8217;s Affairs**._

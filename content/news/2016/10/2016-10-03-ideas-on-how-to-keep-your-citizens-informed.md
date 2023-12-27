@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - product-management
-  - cdc
-  - centers-for-disease-control-and-prevention
+  
+  
   - content
   - content-strategy
   - content-syndication

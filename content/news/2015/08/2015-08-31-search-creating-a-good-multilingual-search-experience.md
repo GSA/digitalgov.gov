@@ -11,7 +11,6 @@ topics:
   - search
   - GobiernoUSAgov
   - multilingual
-  - State
   - US Citizenship and Immigration Service
   - us-department-of-state
   - USCIS

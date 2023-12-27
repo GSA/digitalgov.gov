@@ -10,7 +10,6 @@ topics:
   - data
   - data-visualization
   - open-data
-  - State
   - the-data-briefing
   - us-department-of-state
 ---

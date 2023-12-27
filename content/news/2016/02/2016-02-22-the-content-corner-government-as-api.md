@@ -9,9 +9,9 @@ topics:
   - api
   - content
   - monthly-theme
-  - administrative-office-of-the-united-states-courts
+  
   - api
-  - CMS
+  
   - content-management-system
   - content-models
   - COPE

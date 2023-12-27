@@ -9,7 +9,7 @@ authors:
 topics:
   - customer-experience
   - our-work
-  - digitalgov-summit
+  
 
 ---
 

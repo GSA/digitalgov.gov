@@ -19,9 +19,7 @@ topics:
   - audio-video
   - broadband
   - data
-  - firstnet
   - mobile
-  - tribal-government
   - us-national-park-service
   - user-research
   - video

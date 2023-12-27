@@ -17,7 +17,7 @@ topics:
   - accessibility
   - content
   - content-strategy
-  - dhs
+  
   - mobile
   - responsive-web-design
   - section-508

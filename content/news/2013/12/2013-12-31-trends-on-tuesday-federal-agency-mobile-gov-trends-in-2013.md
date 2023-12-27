@@ -9,7 +9,6 @@ authors:
 
 topics:
   - product-management
-  - mobile
   - content-models
   - mobile
   - mobile-code-catalog

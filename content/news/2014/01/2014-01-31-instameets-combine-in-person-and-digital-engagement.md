@@ -7,7 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - National Zoological Park
 ---
 
 [{{< legacy-img src="2014/02/National-Zoo-Panda.jpg" alt="Hands holding the National Zoo's baby panda on a table. Photo: National Zoo." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/National-Zoo-Panda.jpg)Federal agencies continue to look for better ways to combine the benefits of online engagement and in-person action &#8212;

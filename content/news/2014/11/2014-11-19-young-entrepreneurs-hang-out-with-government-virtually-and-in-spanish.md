@@ -10,7 +10,6 @@ topics:
   - social-media
   - GobiernoUSAgov
   - multilingual
-  - SBA
   - us-small-business-administration
 ---
 

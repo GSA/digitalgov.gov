@@ -18,8 +18,6 @@ topics:
   - social-media
   - user-experience
   - crowdsourcing
-  - digitalgov-summit
-
 ---
 
 In May 2015, we’re hosting the second DigitalGov Citizen Services Summit "Spring 2015 DigitalGov Citizen Services Summit"). This round we are looking to you—federal innovators across government—to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better digital services. So, we’ve set up a [crowdsourcing platform](https://crowdhall.com/h/299/) where you can suggest presentation ideas and vote for your favorites.

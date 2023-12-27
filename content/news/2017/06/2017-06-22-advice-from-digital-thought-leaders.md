@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - data
-  - HHS
+  
   - innovation
   - united-states-department-of-health-and-human-services
   - video

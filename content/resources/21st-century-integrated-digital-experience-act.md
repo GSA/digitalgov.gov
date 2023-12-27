@@ -10,8 +10,9 @@ aliases:
   - /resources/implications-of-recent-web-technologies-for-nara-web-guidance/
   - /resources/omb-m-17-06
   - /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
+  - /resources/nara-guidance-on-managing-social-media-records/
   
-date: 2019-11-01 3:00:00 -0500
+date: 2019-11-01 15:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
 summary: "Learn how to implement 21st Century IDEA to design and deliver better websites and digital services."
@@ -502,7 +503,7 @@ Within `90 days` of issuance (originally due December 23, 2023; deadline extende
 
 **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
-### Action 3. Identify and assess top websites 
+### Action 3. Identify and assess top websites
 
 Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
 

@@ -8,9 +8,9 @@ authors:
 topics:
   - content
   - writing
-  - administrative-office-of-the-united-states-courts
+  
   - content-strategy
-  - dhs
+  
   - metrics
   - plain-writing-act-of-2010
   - social-media

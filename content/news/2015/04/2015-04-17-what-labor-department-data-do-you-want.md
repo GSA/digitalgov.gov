@@ -12,7 +12,6 @@ topics:
   - api
   - data
   - GitHub
-  - National Weather Service
   - us-department-of-labor
 ---
 

@@ -19,15 +19,11 @@ topics:
   - data
   - budgeting-and-performance
   - budgeting-and-performance
-  - FAS
-  - federal-acquisition-service
   - fedramp
   - innovation
   - OCSIT
   - office-of-citizen-services-and-innovative-technology
   - office-of-products-and-programs
-  - technology-transformation-services
-  - tts
 
 ---
 

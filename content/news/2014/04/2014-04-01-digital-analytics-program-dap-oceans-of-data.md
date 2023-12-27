@@ -13,7 +13,6 @@ topics:
   - mobile
   - nasa
   - social-media
-
 ---
 
 In the last 15 months, the federal Digital Analytics Program (DAP) monthly Web traffic has grown to more than 1.1 billion views gov-wide, providing Web analytics to <strong>29 U.S. federal cabinet-level agencies</strong> and nearly 3,000 public-facing government Web properties.

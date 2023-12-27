@@ -7,9 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Census
-  - DoD
-  - DOL
   - mobile-gov-community-of-practice
   - us-department-of-labor
   - us-department-of-state

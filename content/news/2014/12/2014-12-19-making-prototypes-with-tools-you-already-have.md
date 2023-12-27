@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - BLS
   - prototype
   - us-bureau-of-labor-statistics
   - usability-testing

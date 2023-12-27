@@ -10,8 +10,8 @@ topics:
   - api
   - data
   - data-visualization
-  - DOL
-  - HHS
+  
+  
   - open-data
   - the-data-briefing
   - us-department-of-labor

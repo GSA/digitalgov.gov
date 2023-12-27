@@ -14,7 +14,6 @@ topics:
   - open-source
   - project-management
   - acquisition
-  - best-practices
 
 # see all authors at https://digital.gov/authors
 authors: 

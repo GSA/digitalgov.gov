@@ -7,7 +7,6 @@ authors:
   - erika-brown
 topics:
   - social-media
-  - nasa
   - peace-corps
 ---
 

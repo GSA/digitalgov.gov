@@ -10,7 +10,6 @@ summary: In this panel discussion, experts from different agencies shared how
 topics:
   - multilingual
   - multilingual-community
-  - recaps
   - writing
   - plain-language
   - content

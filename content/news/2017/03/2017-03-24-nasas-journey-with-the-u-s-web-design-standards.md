@@ -15,10 +15,9 @@ topics:
   - accessibility
   - responsive-web-design
   - section-508
-  - training
   - uswds
   - user research
-  - webinar
+
 
 ---
 

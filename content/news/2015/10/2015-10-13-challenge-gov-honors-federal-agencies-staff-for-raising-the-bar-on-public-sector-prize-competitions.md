@@ -7,7 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - Bureau of Reclamation
   - challenge-gov
   - Federal Trade Commission
   - FTC

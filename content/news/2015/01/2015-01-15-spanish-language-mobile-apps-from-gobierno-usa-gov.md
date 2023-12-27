@@ -7,14 +7,8 @@ authors:
   - awichman
 topics:
   - mobile
-  - bbg
-  - broadcasting-board-of-governors
   - Federal Mobile Products Registry
-  - federal-student-aid
-  - FSA
   - GobiernoUSAgov
-  - Internal Revenue Service
-  - IRS
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
   - multilingual

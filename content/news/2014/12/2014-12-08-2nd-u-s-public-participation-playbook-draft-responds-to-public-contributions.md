@@ -33,8 +33,6 @@ topics:
   - open-government
   - OSTP
   - peace-corps
-  - SBA
-  - smithsonian-institution
   - us-coast-guard
   - us-department-of-education
   - us-department-of-labor
@@ -50,8 +48,6 @@ topics:
   - united-states-geological-survey
   - us-fish-and-wildlife-service
   - USGS
-  - white-house-office-of-science-and-technology-policy
-
 ---
 
 {{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}

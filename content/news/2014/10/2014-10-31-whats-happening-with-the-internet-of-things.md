@@ -10,9 +10,6 @@ topics:
   - mobile
   - monthly-theme
   - our-work
-  - DOT
-  - Federal Trade Commission
-  - FTC
   - internet-of-things
   - united-states-department-of-transportation
 ---

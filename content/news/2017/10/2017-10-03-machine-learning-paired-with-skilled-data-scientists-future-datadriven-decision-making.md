@@ -9,7 +9,6 @@ topics:
   - data
   - artificial-intelligence
   - big-data
-  - darpa
   - data
   - emerging-tech
   - defense-advanced-research-projects-agency

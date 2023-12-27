@@ -12,7 +12,6 @@ topics:
   - customer-experience
   - strategy
   - design
-  - training
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

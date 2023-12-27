@@ -7,7 +7,6 @@ authors:
   - danielle-brigida
 topics:
   - social-media
-  - FWS
   - us-fish-and-wildlife-service
 ---
 

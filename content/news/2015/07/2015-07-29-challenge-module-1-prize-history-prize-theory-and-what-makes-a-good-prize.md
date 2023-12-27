@@ -7,7 +7,6 @@ authors:
   - judy-romano
 topics:
   - challenges
-  - recaps
   - us-agency-for-international-development
   - usaid
 ---

@@ -7,9 +7,7 @@ authors:
   - craig-fugate
 topics:
   - data
-  - american-red-cross
   - data-visualization
-  - fema
   - mobile-apps
 ---
 

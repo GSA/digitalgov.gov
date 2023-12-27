@@ -10,7 +10,6 @@ topics:
   - code
   - data
   - writing
-  - Census
   - challenge-gov
   - data-gov
   - innovation

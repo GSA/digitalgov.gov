@@ -11,7 +11,6 @@ summary: "Members of the Office of Natural Resources Revenue team recently compl
 topics:
   - section-508
   - accessibility
-  - training
 slug: advanced-section-508-compliance-testing-moving-beyond-automated-testing-and-screen-readers
 # Controls how this page appears across the site
 # 0 -- hidden

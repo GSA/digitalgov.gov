@@ -10,10 +10,9 @@ topics:
   - product-management
   - strategy
   - policy
-  - DOJ
+  
   - open-government
   - office-of-information-policy
-  - training
   - us-department-of-justice
 ---
 

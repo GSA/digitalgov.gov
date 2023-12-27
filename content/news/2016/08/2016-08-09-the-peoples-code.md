@@ -19,8 +19,7 @@ topics:
   - open
   - open-data
   - us-department-of-veterans-affairs
-  - VA
-  - white-house
+
 ---
 
 > **Summary**: Today, we’re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government.

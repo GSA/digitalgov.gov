@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - product-management
-  - regulation
 ---
 
 {{< legacy-img src="2014/09/600-x-416-Lightbulbs-on-yellow-Galina-Peshkova-iStock-Thinkstock-164168192.jpg" alt="A lit, modern, compact fluorescent (C F L) light bulb, surrounded by unlit, old-fashioned incandescent bulbs." caption="" >}} 

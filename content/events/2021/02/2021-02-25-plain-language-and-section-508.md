@@ -17,7 +17,6 @@ topics:
   - accessibility
   - section-508
   - plain-language
-  - training
   - writing
   - plain-language-community-of-practice
 # See all authors at https://digital.gov/authors

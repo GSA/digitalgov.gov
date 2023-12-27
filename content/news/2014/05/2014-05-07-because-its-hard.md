@@ -13,16 +13,13 @@ topics:
   - strategy
   - policy
   - api
-  - Census
   - customer-experience
-  - DOL
   - innovation
   - mobile
   - open-and-structured-content-models
   - responsive-web-design
   - us-department-of-labor
   - user-experience
-
 ---
 
 Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.

@@ -8,8 +8,7 @@ authors:
   - michael-pulsifer
 topics:
   - code
-  - mobile
-  - DOL
+  - mobile  
   - mobile-apps
   - mobile-code-catalog
   - mobile-gov

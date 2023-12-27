@@ -9,8 +9,6 @@ topics:
   - content
   - our-work
   - sites
-  - sitesusagov
-  - State
   - us-department-of-state
 ---
 

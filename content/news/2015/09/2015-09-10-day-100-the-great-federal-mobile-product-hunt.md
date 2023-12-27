@@ -7,7 +7,6 @@ authors:
   - courtney-greenley
 topics:
   - mobile
-  - HHS
   - mobile-apps
   - NARA
   - national-archives-and-records-administration
@@ -15,8 +14,6 @@ topics:
   - thursday-mobile-products
   - us-department-of-veterans-affairs
   - united-states-department-of-health-and-human-services
- 
-  - VA
 ---
 
 {{< legacy-img src="2015/09/600-x-200-Day-100.jpg" alt="600-x-200-Day-100" >}} 

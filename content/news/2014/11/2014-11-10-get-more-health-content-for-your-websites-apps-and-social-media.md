@@ -9,8 +9,6 @@ topics:
   - content
   - mobile
   - video
-  - cdc
-  - centers-for-disease-control-and-prevention
   - content-syndication
   - fda
   - HHS

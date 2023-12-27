@@ -9,8 +9,6 @@ topics:
   - product-management
   - data
   - records-management
-  - NARA
-  - national-archives-and-records-administration
   - research
 
 ---

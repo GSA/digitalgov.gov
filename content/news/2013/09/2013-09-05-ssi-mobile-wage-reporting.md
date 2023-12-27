@@ -9,7 +9,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - SSA
   - thursday-mobile-products
 
 ---

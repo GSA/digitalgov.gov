@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - mobile
-  - Education
   - mobile-apps
   - smithsonian-institution
   - the-data-briefing

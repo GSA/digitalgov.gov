@@ -10,7 +10,6 @@ topics:
   - design
   - product-management
   - user-experience
-  - recaps
   - uswds
 ---
 

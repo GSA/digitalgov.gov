@@ -6,7 +6,6 @@ deck:
 summary: U.S. Digital Corps Fellows share their public service journeys from military service to public interest tech.
 # See all topics at https://digital.gov/topics
 topics:
-  - tts
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

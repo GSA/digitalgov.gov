@@ -8,9 +8,7 @@ authors:
 topics:
   - content
   - monthly-theme
-  - administrative-office-of-the-united-states-courts
   - api
-  - CMS
   - content-models
   - content-strategy
   - COPE

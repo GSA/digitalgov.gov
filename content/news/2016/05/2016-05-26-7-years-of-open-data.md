@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - data-gov
-  - DOL
+  
   - open-data
   - US Department of Agriculture
   - us-department-of-labor

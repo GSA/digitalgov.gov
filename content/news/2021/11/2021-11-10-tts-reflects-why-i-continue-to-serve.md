@@ -7,7 +7,7 @@ summary: For Veterans Day 2021, we asked members of TTS’s Veterans affinity
   continue to serve?”
 # See all topics at https://digital.gov/topics
 topics:
-  - tts
+  - agile
 # See all authors at https://digital.gov/authors
 authors:
   - patrick-kigongo

@@ -19,7 +19,6 @@ summary: "In this live training, Content Strategy and Design Specialist for GSAâ
 # see all topics at https://digital.gov/topics
 topics: 
   - code
-  - training
   - github
 
 # see all authors at https://digital.gov/authors

@@ -19,7 +19,6 @@ summary: summ
 topics:
   - us-general-services-administration
   - security
-  - tts
 slug: gsa-highlights-progress-on-citizen-facing-digital-services-cybersecurity-in-first-year-of-american-rescue-plan
 # Controls how this page appears across the site
 # 0 -- hidden

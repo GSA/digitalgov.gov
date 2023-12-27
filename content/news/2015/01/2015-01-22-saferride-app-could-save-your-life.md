@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - social-media
-  - DOT
-  - National Highway Traffic Safety Administration
   - native-app
   - terms-of-service
   - thursday-mobile-products

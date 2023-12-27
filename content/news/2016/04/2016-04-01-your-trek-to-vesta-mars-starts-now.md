@@ -15,7 +15,7 @@ topics:
   - apps-challenges
   - data
   - innovation
-  - nasa
+  
   - open-data
 ---
 

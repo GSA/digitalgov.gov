@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - monthly-theme
-  - administrative-office-of-the-united-states-courts
+  
   - search-engine-optimization
   - seo
   - the-content-corner

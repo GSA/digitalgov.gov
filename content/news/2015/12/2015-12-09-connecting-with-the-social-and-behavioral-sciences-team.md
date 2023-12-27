@@ -12,8 +12,6 @@ topics:
   - product-management
   - monthly-theme
   - customer-experience
-  - recaps
-  - social-and-behavioral-sciences-team
   - user-experience
 
 ---

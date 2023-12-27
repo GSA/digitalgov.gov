@@ -8,10 +8,6 @@ authors:
 topics:
   - api
   - data
-  - Census
-  - FCC
-  - fda
-  - federal-communications-commission
   - GPS
   - mobile-apps
   - us-food-and-drug-administration

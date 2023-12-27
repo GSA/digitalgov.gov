@@ -9,7 +9,6 @@ topics:
   - pif
   - us-department-of-veterans-affairs
   - presidential-innovation-fellows
-  - va
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

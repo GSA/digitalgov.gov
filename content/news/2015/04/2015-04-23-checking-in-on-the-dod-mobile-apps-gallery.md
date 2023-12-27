@@ -7,10 +7,8 @@ authors:
   - kdowney
 topics:
   - mobile
-  - DoD
   - thursday-mobile-products
   - united-states-department-of-defense
- 
 ---
 
 {{< legacy-img src="2015/04/600-x-338-Screen-capture-of-a-design-schematic-from-the-Make-It-Fly-create-your-own-Air-Force-planes-Android-app.jpg" alt="Screen capture of a design schematic from Make It Fly: create your own Air Force planes Android app." >}}

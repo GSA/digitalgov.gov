@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - user-testing-and-research
-  - Social and Behavioral Sciences Team
   - user-centered-design
   - user-experience
   - podcast

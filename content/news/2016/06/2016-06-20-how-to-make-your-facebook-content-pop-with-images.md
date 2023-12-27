@@ -14,7 +14,7 @@ topics:
   - aids-gov
   - content
   - content-strategy
-  - HHS
+  
   - social-media
   - united-states-department-of-health-and-human-services
 ---
