@@ -42,7 +42,8 @@ Together, these two components are the most recognizable and standardized design
 
 {{< note >}}**Sub-agency sites** are sites managed by or focused on a branch or division of a Department-level agency, such as the National Institutes of Health (NIH) website, [www.nih.gov](https://www.nih.gov), which is a sub-agency of the U.S. Department of Health and Human Services (HHS). The content is focused on the work of the agency.
 
-**Secondary sites** are sites (including microsites) managed by a federal agency on a certain topic, such as the Federal Student Aid website, [www.studentaid.gov](https://www.studentaid.gov/), which is managed by the U.S. Department of Education. The content is focused on a program or topic, rather than the agency that runs the program.{{< /note >}}
+**Secondary sites** are sites (including microsites) managed by a federal agency on a certain topic, such as the Federal Student Aid website, [www.studentaid.gov](https://www.studentaid.gov/), which is managed by the U.S. Department of Education. The content is focused on a program or topic, rather than the agency that runs the program.
+{{< /note >}}
 
 ---
 
@@ -63,7 +64,6 @@ On your primary agency site, include information about the agency with descripti
 Secondary agency sites also need an "About" page that describes your site and links to your own website policies. It should also link to the primary agency's "About" page. 
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `About` or `About us`
@@ -74,9 +74,8 @@ Secondary agency sites also need an "About" page that describes your site and li
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
-
-{{< / box >}}
+Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+{{< /box >}}
 
 ## Accessibility Statement
 
@@ -105,9 +104,8 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 - All agency websites, internal and external.
 - Secondary sites can link to the accessibility statement on the domain website.
 
-Learn more about what content helps provide your users with accessible digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and the [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013)
-
-{{< / box >}}
+Learn more about what content helps provide your users with accessible digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and the [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013).
+{{< /box >}}
 
 ## Budget and Performance Reports
 
@@ -120,7 +118,6 @@ Agencies are required to have a page on their website that has the following inf
 - Inspector General audits and investigative reports, and a method to report evidences of waste, fraud, or abuse to the Inspector General
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `Budget and Performance`
@@ -130,8 +127,7 @@ Agencies are required to have a page on their website that has the following inf
 - The homepage of your agency's principal website
 
 Learn more about  transparency around budgeting and performance reoports in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf), Part 6.
-
-{{< / box >}}
+{{< /box >}}
 
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210.6" >}}
 
@@ -145,14 +141,15 @@ Agencies may also want to create links from this page to other planning and perf
 
 When developing performance information for publication, agencies should be open, transparent, and accountable for results of progress against stated performance goals and objectives, publishing information online consistent with the Federal Records Act, privacy and security restrictions, and other applicable law and policy including [OMB Circular A-130](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf), Managing Information as a Strategic Resource. It is important that agencies communicate relevant, reliable, and timely performance information within and outside their organizations to improve performance outcomes and operational efficiency.
 
-**Machine-readable**. Consistent with the GPRA Modernization Act of 2010, information published through Performance.gov will be made available to the public in a machine-readable format. See section 240 for additional information on an initiative to make agency performance plans and reports ‘machine readable’ with the 2021 Budget and Performance Planning / Reporting cycle.{{< / card-policy >}}
+**Machine-readable**. Consistent with the GPRA Modernization Act of 2010, information published through Performance.gov will be made available to the public in a machine-readable format. See section 240 for additional information on an initiative to make agency performance plans and reports ‘machine readable’ with the 2021 Budget and Performance Planning / Reporting cycle.
+
+{{< /card-policy >}}
 
 ## Equal Employment
 
 All federal public websites must comply with the existing No Fear Act Notification and Federal Employee Anti-Discrimination and Retaliation of 2002 (No Fear Act) Public Law No. 107-174). Organizations should review the relevant law to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `No FEAR Act Data`
@@ -163,7 +160,8 @@ All federal public websites must comply with the existing No Fear Act Notificati
 
 ##### Required by:
 
-- [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm){{< / box >}}
+- [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm)
+{{< /box >}}
 
 {{< card-policy src="https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm" kicker="Policy" title="Final rule issued by the Equal Employment Opportunity Commission" >}}
 
@@ -181,7 +179,9 @@ Regarding the title of the hyperlink, EEOC agrees that it is too wordy. EEOC, ho
 
 In furtherance of making every agency's No FEAR Act data easily accessible, it was suggested that agencies maintain their posted data so that it is readily retrievable by commercial search engines. EEOC agrees and has added a subsection setting forth this requirement.
 
-Finally, some commenters suggested that each agency provide EEOC with the hyperlink to its No FEAR data and that EEOC post the agency hyperlinks in one location on EEOC's public Web site. EEOC has decided to adopt this suggestion. Therefore, the final rule contains the requirement that an agency provide EEOC with the URL for the location of its No FEAR data and provide URL updates as necessary. Agencies can e-mail their URLs to EEOC at NoFEAR.URLS@eeoc.gov.{{< / card-policy >}}
+Finally, some commenters suggested that each agency provide EEOC with the hyperlink to its No FEAR data and that EEOC post the agency hyperlinks in one location on EEOC's public Web site. EEOC has decided to adopt this suggestion. Therefore, the final rule contains the requirement that an agency provide EEOC with the URL for the location of its No FEAR data and provide URL updates as necessary. Agencies can e-mail their URLs to EEOC at NoFEAR.URLS@eeoc.gov.
+
+{{< /card-policy >}}
 
 ## External Links
 
@@ -190,7 +190,6 @@ Agencies must clearly identify external links from their websites. Agency websit
 Any link that is not a federal `.gov` or `.mil` website is considered an external link.
 
 {{< box >}}
-
 ##### Suggested link text:
 
 Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services
@@ -201,9 +200,8 @@ Agencies should choose the best approach to identify external links to users in 
 - Any known sub-agency site
 - Any known major entry points to your sites
   
-Learn more about what links provide your users with clear, trustworthy digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
-
-{{< / box >}}
+Learn more about what links provide your users with clear, trustworthy digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+{{< /box >}}
 
 ## Freedom of Information Act (FOIA)
 
@@ -217,7 +215,6 @@ There are two requirements that all federal public websites must have:
 Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `FOIA` or `Freedom of Information Act`
@@ -228,9 +225,8 @@ Organizations should review the FOIA and implementation guidance to ensure that 
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-Learn more about what content helps provide your users with necessary information in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
-
-{{< / box >}}
+Learn more about what content helps provide your users with necessary information in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+{{< /box >}}
 
 ## Government Customer Support
 
@@ -243,7 +239,6 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 - [Learn more about linking to USA.gov »](https://www.usa.gov/link-to-us)
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `Have a question about government services? Contact USA.gov`
@@ -258,9 +253,8 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-Learn more about providing straightforward customer support in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/))
-
-{{< / box >}}
+Learn more about providing straightforward customer support in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+{{< /box >}}
 
 ## Privacy Policy
 
@@ -272,7 +266,6 @@ All federal public websites must comply with existing laws and directives that a
 - Translating privacy policies into a standardized machine-readable format.
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `Privacy Policy`
@@ -284,7 +277,8 @@ All federal public websites must comply with existing laws and directives that a
 - Any known major entry points to your sites
 - Any web page that collects substantial information in identifiable form
 
-Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and in [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
+Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and in [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_
+{{< /box >}}
 
 {{< card-policy src="https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/" kicker="Policy" title="**OMB M-03-22:** Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002" >}}**III. Privacy Policies on Agency Websites**
 
@@ -366,14 +360,15 @@ Learn more about what content helps provide your users with clear, contextualize
 1. **_Clarity of notices_**. Consistent with [OMB Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf), privacy policies must be:
    1. clearly labeled and easily accessed;
    2. written in plain language; and
-   3. made clear and easy to understand, whether by integrating all information and statements into a single posting, by layering a short "highlights" notice linked to full explanation, or by other means the agency determines is effective.{{< /card-policy >}}
+   3. made clear and easy to understand, whether by integrating all information and statements into a single posting, by layering a short "highlights" notice linked to full explanation, or by other means the agency determines is effective.
+
+{{< /card-policy >}}
 
 ## Report Fraud to the Inspector General
 
 A method for reporting evidence of waste, fraud, or abuse to the Inspector General, and linking to Inspector General audits and investigative reports.
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `Office of the Inspector General`
@@ -384,14 +379,17 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 
 ##### Required by:
 
-- [Consolidated Appropriations Act](https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm) for FY 2008, Division D, Title VI, Section 534{{< / box >}}
+- [Consolidated Appropriations Act](https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm) for FY 2008, Division D, Title VI, Section 534
+{{< /box >}}
 
 {{< card-policy src="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm" kicker="Policy" title="Consolidated Appropriations Act" >}}
+
 **Sec. 534.** (NOTE: 5 USC app. 6 note.) {{< highlight >}}The departments, agencies, and commissions funded under this Act, shall establish and maintain on the homepages of their Internet websites{{< /highlight >}}--
 
 - {{< highlight >}}(1) a direct link to the Internet websites of their Offices of Inspectors General{{< /highlight >}}; and
 - (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
-  {{< / card-policy >}}
+
+{{< /card-policy >}}
 
 ## Security
 
@@ -401,7 +399,6 @@ Agencies must have a way for the public to report potential security vulnerabili
 - Publish a vulnerability disclosure policy at [agency].gov/vulnerability-disclosure-policy
 
 {{< box >}}
-
 ##### Suggested link text:
 
 `Vulnerability Disclosure Policy`
@@ -414,11 +411,13 @@ Agencies must have a way for the public to report potential security vulnerabili
 
 - Department of Homeland Security (DHS) Binding Operational Directive 20-01
 - OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation
-  {{< / box >}}
-  {{< card-policy src="https://cyber.dhs.gov/bod/20-01/#required-actions" kicker="Policy" title="DHS Binding Operational Directive 20-01">}}
-  {{< / card-policy >}}
-  {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-32.pdf" kicker="Policy" title="OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation">}}
-  {{< / card-policy >}}
+{{< /box >}}
+
+{{< card-policy src="https://cyber.dhs.gov/bod/20-01/#required-actions" kicker="Policy" title="DHS Binding Operational Directive 20-01">}}
+{{< /card-policy >}}
+
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-32.pdf" kicker="Policy" title="OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation">}}
+{{< /card-policy >}}
 
 ---
 
