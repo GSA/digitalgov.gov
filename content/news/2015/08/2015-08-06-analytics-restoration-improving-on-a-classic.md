@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - analytics
-  - HHS
   - united-states-department-of-health-and-human-services
 ---
 

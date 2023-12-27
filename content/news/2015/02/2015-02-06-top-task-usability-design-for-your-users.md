@@ -10,8 +10,6 @@ topics:
   - design
   - user-testing-and-research
   - aoi
-  - Federal Reserve Board
-  - FRB
   - top-tasks
   - usability
   - usability-testing

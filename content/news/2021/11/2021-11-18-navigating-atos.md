@@ -12,7 +12,6 @@ deck: "**Navigating ATOs**&mdash;Authority to Operate (ATO) processes work
 summary: sum
 # See all topics at https://digital.gov/topics
 topics:
-  - best-practices
   - devops
 slug: navigating-atos
 # Controls how this page appears across the site

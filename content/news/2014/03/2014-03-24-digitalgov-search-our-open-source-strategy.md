@@ -11,7 +11,6 @@ topics:
   - content
   - data
   - api
-  - Consumer Financial Protection Bureau
   - search
   - GitHub
   - open-source

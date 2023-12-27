@@ -10,16 +10,7 @@ topics:
   - product-management
   - content
   - data
-  - DoD
-  - DOT
-  - Education
-  - epa
-  - nasa
-  - National Aeronautics and Space Administration
-  - national-institutes-of-health
-  - National Library of Medicine
   - national-oceanic-and-atmospheric-administration
-  - national-science-foundation
   - nih
   - NLM
   - NOAA
@@ -32,7 +23,6 @@ topics:
   - united-states-department-of-defense
   - united-states-department-of-energy
   - united-states-department-of-transportation
-  - VA
 ---
 
 > _Summary: Significant strides in improving public access to scholarly publications and digital data help usher in an era of open science._

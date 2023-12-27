@@ -8,8 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - Internal Revenue Service
-  - IRS
   - usability-case-study
   - usability-testing
   - user-experience

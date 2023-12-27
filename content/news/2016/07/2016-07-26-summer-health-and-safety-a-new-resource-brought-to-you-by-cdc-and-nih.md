@@ -9,13 +9,13 @@ topics:
   - content
   - product-management
   - user-experience
-  - cdc
-  - centers-for-disease-control-and-prevention
+  
+  
   - content
   - content-models
   - content-strategy
   - content-syndication
-  - national-institutes-of-health
+  
   - nih
   - open-and-structured-content-models
 ---

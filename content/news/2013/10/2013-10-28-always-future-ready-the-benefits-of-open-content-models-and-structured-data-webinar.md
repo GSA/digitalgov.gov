@@ -10,7 +10,6 @@ topics:
   - mobile
   - mobile-ux-guideline-1
   - open-and-structured-content-models
-  - recaps
 ---
 
 [{{< legacy-img src="2014/05/250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic.jpg" alt="250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/cope-strategy-graphic.jpg)&#8220;Future-ready content,&#8221; &#8220;responsive design,&#8221; &#8220;create once, publish everywhere&#8221; are all buzzwords you hear when talking about the present and future of Web publishing. But how do we get there? We all know that technology is only part of the answer. [Open content models](https://digital.gov/2013/07/29/how-to-create-open-structured-content/ "How to Create Open, Structured Content") and structured data are a big part of the answer.

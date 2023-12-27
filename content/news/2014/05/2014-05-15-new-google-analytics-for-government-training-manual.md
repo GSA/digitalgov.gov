@@ -10,7 +10,6 @@ topics:
   - social-media
   - dap
   - digital-analytics-program
-  - GAO
   - us-government-accountability-office
 ---
 

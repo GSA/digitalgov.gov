@@ -12,9 +12,8 @@ topics:
   - mobile
   - api
   - code
-  - Commerce
   - data
-  - department-of-commerce
+  
   - GitHub
   - innovation
   - mobile

@@ -11,7 +11,6 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - communities
   - crowdsourcing
-  - recaps
 
 ---
 

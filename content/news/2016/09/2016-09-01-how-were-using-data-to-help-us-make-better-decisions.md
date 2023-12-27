@@ -9,8 +9,6 @@ topics:
   - data
   - cloud
   - data
-  - FAS
-  - Federal Acquisition Service
   - gsa
   - open-data
   - PBS

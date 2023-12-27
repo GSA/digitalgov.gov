@@ -10,7 +10,6 @@ topics:
   - data
   - api
   - data
-  - Education
   - GitHub
   - us-department-of-education
 ---

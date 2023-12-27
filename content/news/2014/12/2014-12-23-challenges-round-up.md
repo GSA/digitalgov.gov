@@ -8,13 +8,10 @@ authors:
 topics:
   - challenges
   - monthly-theme
-  - CFPB
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - Consumer Financial Protection Bureau
   - crowdsourcing
-  - nasa
   - open-source
   - recaps
   - white-house-office-of-science-and-technology-policy

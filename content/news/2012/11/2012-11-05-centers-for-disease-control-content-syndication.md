@@ -7,7 +7,6 @@ topics:
   - api
   - mobile
   - api
-  - cdc
   - mobile-gov-experience
   - structured-content
 ---

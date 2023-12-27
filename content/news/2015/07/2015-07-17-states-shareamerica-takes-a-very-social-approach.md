@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - sites
-  - sitesusagov
-  - State
   - us-department-of-state
 ---
 

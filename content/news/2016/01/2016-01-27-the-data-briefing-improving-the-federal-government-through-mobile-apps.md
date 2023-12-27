@@ -10,7 +10,7 @@ authors:
 topics:
   - code
   - mobile-apps
-  - nasa
+  
   - the-data-briefing
 
 ---

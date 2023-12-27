@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - socialgov-community
-  - State
   - tos
   - us-department-of-state
 ---

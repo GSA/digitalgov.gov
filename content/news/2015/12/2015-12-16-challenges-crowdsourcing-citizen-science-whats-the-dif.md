@@ -9,22 +9,21 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - monthly-theme
-  - Bureau of Reclamation
-  - CFPB
+  
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - Consumer Financial Protection Bureau
+  
   - crowdfunding
   - crowdsourcing
-  - epa
+  
   - FCPCCS
   - gsa
-  - HHS
+  
   - innovation
-  - nasa
+  
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - prizes-and-competitions

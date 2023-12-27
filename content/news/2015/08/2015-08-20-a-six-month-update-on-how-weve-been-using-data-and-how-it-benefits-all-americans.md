@@ -8,9 +8,6 @@ authors:
   - dr-dj-patil
 topics:
   - data
-  - Commerce
-  - department-of-commerce
-  - national-institutes-of-health
   - nih
 ---
 

@@ -9,7 +9,6 @@ topics:
   - content
   - metrics
   - search
-  - recaps
   - search-engine-optimization
 ---
 

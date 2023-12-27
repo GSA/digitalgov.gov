@@ -11,7 +11,6 @@ topics:
   - product-management
   - strategy
   - policy
-  - best-practices
   - cloud
   - Cybersecurity National Action Plan
   - gsa
@@ -24,7 +23,7 @@ topics:
   - security
   - us-general-services-administration
   - united-states-department-of-homeland-security
-  - white-house
+
 ---
 
 > _Summary: Building on efforts to boost Federal cybersecurity & as part of National Cybersecurity Awareness Month, today we&#8217;re releasing a proposed guidance to modernize Federal IT._

@@ -10,7 +10,6 @@ topics:
   - strategy
   - policy
   - 18f
-  - dhs
   - gsa
   - https
   - nasa

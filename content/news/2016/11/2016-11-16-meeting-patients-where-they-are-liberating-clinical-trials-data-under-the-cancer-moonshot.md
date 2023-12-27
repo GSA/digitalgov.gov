@@ -17,9 +17,6 @@ topics:
   - content
   - data
   - innovation
-  - national-cancer-institute
-  - national-institutes-of-health
-  - NCI
   - nih
   - PIF
   - Presidential Innovation Fellows

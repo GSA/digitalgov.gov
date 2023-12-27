@@ -14,7 +14,6 @@ topics:
   - strategy
   - policy
   - 18f
-  - best-practices
   - data
   - budgeting-and-performance
   - budgeting-and-performance

@@ -18,11 +18,7 @@ topics:
   - video
   - audio-video
   - records-management
-  - executive-office-of-the-president
-  - NARA
-  - national-archives-and-records-administration
   - open-source
-  - white-house
 
 ---
 

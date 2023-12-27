@@ -9,8 +9,6 @@ topics:
   - content
   - metrics
   - social-media
-  - HHS
-  - recaps
   - united-states-department-of-health-and-human-services
 ---
 

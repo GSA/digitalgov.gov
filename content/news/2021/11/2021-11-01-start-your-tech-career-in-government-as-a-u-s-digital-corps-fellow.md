@@ -8,8 +8,6 @@ summary: Applications for the first cohort of U.S. Digital Corps Fellows will
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development
-  - tts
-  - technology-transformation-services
   - pif
   - presidential-innovation-fellows
 # See all authors at https://digital.gov/authors

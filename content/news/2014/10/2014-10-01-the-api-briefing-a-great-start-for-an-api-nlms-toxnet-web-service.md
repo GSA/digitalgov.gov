@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - National Library of Medicine
   - NLM
   - united-states-office-of-personnel-management
   - wednesday-api-briefing

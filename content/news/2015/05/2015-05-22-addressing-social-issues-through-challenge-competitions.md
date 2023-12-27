@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - HUD
   - united-states-department-of-housing-and-urban-development
 ---
 

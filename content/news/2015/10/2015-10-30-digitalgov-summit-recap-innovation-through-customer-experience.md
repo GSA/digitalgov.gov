@@ -9,9 +9,6 @@ topics:
   - product-management
   - customer-experience
   - customer-service
-  - digitalgov-summit
-  - recaps
-
 ---
 
 Meeting customer needs can be done, no matter what agency you represent.

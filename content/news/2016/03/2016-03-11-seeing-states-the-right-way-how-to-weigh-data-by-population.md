@@ -10,8 +10,8 @@ topics:
   - metrics
   - monthly-theme
   - analytics
-  - CFPB
-  - Consumer Financial Protection Bureau
+  
+  
   - data
   - data-visualization
   - google-analytics

@@ -9,16 +9,7 @@ topics:
   - api
   - code
   - api
-  - cdc
-  - Census
-  - DOL
-  - DOT
-  - FAA
-  - FCC
   - gsa
-  - HHS
-  - nasa
-  - SBA
   - us-department-of-labor
 ---
 

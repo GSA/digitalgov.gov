@@ -11,7 +11,6 @@ topics:
   - user-research
   - usability
   - writing
-  - training
 # See all authors at https://digital.gov/authors
 authors:
   - alexander-wilson

@@ -9,12 +9,9 @@ topics:
   - api
   - data
   - api
-  - BLS
-  - Census
-  - Commerce
   - data
   - data-visualization
-  - department-of-commerce
+  
   - open-data
   - the-data-briefing
   - us-bureau-of-labor-statistics

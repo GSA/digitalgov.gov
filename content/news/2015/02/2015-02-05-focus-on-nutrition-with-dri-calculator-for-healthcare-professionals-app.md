@@ -8,12 +8,10 @@ authors:
 topics:
   - mobile
   - Federal Mobile Products Registry
-  - ICE
   - native-app
   - thursday-mobile-products
   - US Department of Agriculture
   - us-immigration-and-customs-enforcement
- 
   - USDA
 ---
 

@@ -11,10 +11,7 @@ topics:
   - content
   - metrics
   - api
-  - Census
-  - department-of-commerce
   - digital-analytics-program
-  - HHS
   - USDA
 ---
 

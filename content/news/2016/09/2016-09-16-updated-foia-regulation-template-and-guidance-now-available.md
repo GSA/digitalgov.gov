@@ -9,7 +9,7 @@ topics:
   - governance
   - strategy
   - policy
-  - DOJ
+  
   - open-government
   - us-department-of-justice
 ---

@@ -8,7 +8,6 @@ topics:
   - design
   - mobile
   - mobile-first
-  - recaps
   - responsive-web-design
 ---
 

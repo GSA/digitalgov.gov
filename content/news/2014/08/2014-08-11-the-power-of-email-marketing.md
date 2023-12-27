@@ -10,7 +10,6 @@ topics:
   - metrics
   - social-media
   - a-b-testing
-  - HHS
   - united-states-department-of-health-and-human-services
 ---
 

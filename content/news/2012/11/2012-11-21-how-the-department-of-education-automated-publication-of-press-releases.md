@@ -7,7 +7,6 @@ authors:
   - jennifer-reeves
 topics:
   - content
-  - CMS
   - content-management-system
   - drupal
   - structured-content

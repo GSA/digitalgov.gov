@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - mobile
-  - DOL
   - mobile-apps
   - us-department-of-labor
 ---

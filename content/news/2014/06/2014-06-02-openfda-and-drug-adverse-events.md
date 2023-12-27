@@ -8,8 +8,6 @@ authors:
 topics:
   - api
   - content
-  - fda
-  - HHS
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---

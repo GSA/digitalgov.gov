@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - State
   - us-department-of-state
   - user-centered-design
   - user-experience

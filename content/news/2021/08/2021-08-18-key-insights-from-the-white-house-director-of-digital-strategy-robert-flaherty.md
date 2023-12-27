@@ -8,7 +8,7 @@ summary: "This article highlights unique tips related to digital content, audien
 topics:
   - social-media
   - socialgov-community
-  - white-house
+
 # See all authors at https://digital.gov/authors
 authors:
   - mara-goldberg

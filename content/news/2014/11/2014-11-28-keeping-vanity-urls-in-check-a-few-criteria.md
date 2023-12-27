@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - go-usa-gov
   - NIAID
   - United States Patent and Trademark Office
   - USPTO

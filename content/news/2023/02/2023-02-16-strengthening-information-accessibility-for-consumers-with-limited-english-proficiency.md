@@ -13,9 +13,6 @@ summary: We listened to feedback from people who use our materials in various la
 topics:
   - content
   - multilingual
-  - consumer-financial-protection-bureau
-  - cfpb
-
 slug: strengthening-information-accessibility-for-consumers-with-limited-english-proficiency
 
 primary_image: 

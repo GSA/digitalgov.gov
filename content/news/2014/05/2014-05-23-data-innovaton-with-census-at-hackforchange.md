@@ -9,21 +9,13 @@ topics:
   - challenges
   - data
   - api
-  - Census
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - department-of-commerce
-  - epa
   - mobile-apps
   - national-day-of-civic-hacking
-  - national-science-foundation
   - nsf
-  - SBA
   - us-environmental-protection-agency
   - us-small-business-administration
   - united-states-census-bureau
   - USPTO
-  - white-house
 ---
 
 Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved.

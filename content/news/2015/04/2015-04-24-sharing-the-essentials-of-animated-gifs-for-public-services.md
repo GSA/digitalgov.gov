@@ -12,13 +12,10 @@ topics:
   - accessibility
   - GobiernoUSAgov
   - multimedia
-  - recaps
   - social-media
   - socialgov
   - socialgov-community
   - usa-gov
-  - webinar
-
 ---
 
 Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.

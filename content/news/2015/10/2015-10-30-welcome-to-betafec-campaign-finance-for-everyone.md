@@ -9,8 +9,6 @@ topics:
   - content
   - 18f
   - api
-  - FEC
-  - federal-election-commission
 ---
 
 {{< legacy-img src="2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" >}}

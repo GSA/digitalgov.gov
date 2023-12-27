@@ -11,9 +11,7 @@ topics:
   - digitalgov-summit
   - DOT
   - NIST
-  - recaps
   - united-states-department-of-transportation
-
 ---
 
 How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the [2015 DigitalGov Citizen Services Summit]({{< ref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}).

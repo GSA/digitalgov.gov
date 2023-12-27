@@ -8,11 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - federal-emergency-management-agency
-  - fema
-  - mobile
   - mobile-apps
-  - National Weather Service
   - NWS
 ---
 

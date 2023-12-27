@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - video
-  - HHS
   - united-states-department-of-health-and-human-services
 ---
 

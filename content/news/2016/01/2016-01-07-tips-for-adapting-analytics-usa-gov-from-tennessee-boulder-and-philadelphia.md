@@ -9,7 +9,6 @@ topics:
   - metrics
   - 18f
   - analytics
-  - analytics-usa-gov
   - dap
   - digital-analytics-program
 ---

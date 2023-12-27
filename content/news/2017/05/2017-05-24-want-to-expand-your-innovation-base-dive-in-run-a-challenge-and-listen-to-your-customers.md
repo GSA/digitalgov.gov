@@ -13,7 +13,7 @@ topics:
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
-  - hhs
+  
   - innovation
   - prizes-and-competitions
   - united-states-department-of-health-and-human-services

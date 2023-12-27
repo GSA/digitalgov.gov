@@ -41,7 +41,6 @@ topics:
   - open-data
   - open-opportunities-program
   - social-media
-  - training
   - virtual-reality
   - virtual-augmented-reality-community
 

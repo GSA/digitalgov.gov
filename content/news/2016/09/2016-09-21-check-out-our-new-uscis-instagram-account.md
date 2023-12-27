@@ -12,7 +12,7 @@ topics:
   - policy
   - content
   - content-strategy
-  - dhs
+  
   - social-media
   - US Citizenship and Immigration Service
   - united-states-department-of-homeland-security

@@ -17,7 +17,6 @@ topics:
   - gsa
   - open-source
   - responsive-web-design
-  - sitesusagov
   - user-experience
 ---
 

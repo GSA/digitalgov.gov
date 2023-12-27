@@ -10,8 +10,6 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - fda
-  - national-institutes-of-health
   - nih
   - us-agency-for-international-development
   - us-food-and-drug-administration

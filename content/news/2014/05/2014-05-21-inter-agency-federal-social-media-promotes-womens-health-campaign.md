@@ -6,12 +6,7 @@ summary: 'Last week, we discussed National Women’s Health Week (NWHW) as an ex
 authors:
   - alison-lemon
 topics:
-  - social-media
-  - fda
-  - HHS
-  - national-institutes-of-health
   - nih
-  - recaps
   - social-media
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services

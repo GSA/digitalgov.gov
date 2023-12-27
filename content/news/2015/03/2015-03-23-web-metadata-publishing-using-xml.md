@@ -12,13 +12,11 @@ topics:
   - content-management-system
   - content-models
   - data
-  - federal-register
   - metadata
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
   - open-and-structured-content-models
   - open-data
-  - SEC
   - us-securities-and-exchange-commission
 ---
 

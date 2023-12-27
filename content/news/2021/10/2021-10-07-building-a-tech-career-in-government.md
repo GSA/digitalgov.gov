@@ -8,7 +8,6 @@ summary: Starting a civic tech career in government is not as unusual as you
 topics:
   - professional-development
   - gsa
-  - tts
   - 18f
   - cloud-gov
   - dap

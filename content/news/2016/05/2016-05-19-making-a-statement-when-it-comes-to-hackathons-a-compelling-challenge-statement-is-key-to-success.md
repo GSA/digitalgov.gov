@@ -7,7 +7,7 @@ authors:
   - nicholas-skytland
 topics:
   - challenges
-  - nasa
+  
   - national-day-of-civic-hacking
 ---
 

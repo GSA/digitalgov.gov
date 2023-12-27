@@ -8,11 +8,10 @@ authors:
 topics:
   - data
   - big-data
-  - Commerce
   - data
-  - department-of-commerce
-  - Library of Congress
-  - LOC
+  
+  
+  
   - open-data
   - the-data-briefing
   - United States Patent and Trademark Office

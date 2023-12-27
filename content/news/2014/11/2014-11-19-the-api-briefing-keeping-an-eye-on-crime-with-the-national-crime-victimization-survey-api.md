@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - Bureau of Justice Statistics
   - US Department of Agriculture
   - USDA
   - wednesday-api-briefing

@@ -9,7 +9,6 @@ topics:
   - api
   - code
   - content
-  - fda
   - GitHub
   - open-source
   - us-food-and-drug-administration

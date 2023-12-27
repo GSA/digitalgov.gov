@@ -8,7 +8,6 @@ topics:
   - mobile-gov
   - mobile-first
   - mobile-gov
-  - national-institutes-of-health
   - nih
   - us-department-of-state
 ---

@@ -7,7 +7,6 @@ authors:
   - lnelson
 topics:
   - code
-  - HHS
   - united-states-department-of-health-and-human-services
 ---
 

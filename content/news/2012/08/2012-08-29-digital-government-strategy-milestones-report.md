@@ -9,7 +9,6 @@ topics:
   - governance
   - product-management
   - analytics
-  - national-institute-of-standards-and-technology
   - NIST
 ---
 

@@ -9,7 +9,6 @@ topics:
   - data
   - product-management
   - mobile
-  - firstnet
   - internet-of-things
   - IoT
   - mobile

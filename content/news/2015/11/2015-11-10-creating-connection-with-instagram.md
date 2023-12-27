@@ -7,11 +7,9 @@ authors:
   - alyson-olander
 topics:
   - social-media
-  - DOI
-  - national-institutes-of-health
+  
+  
   - nih
-  - transportation-security-administration
-  - TSA
   - us-department-of-the-interior
 ---
 

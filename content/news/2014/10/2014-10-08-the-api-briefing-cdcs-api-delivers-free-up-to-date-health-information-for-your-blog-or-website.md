@@ -8,9 +8,6 @@ authors:
 topics:
   - api
   - code
-  - api
-  - cdc
-  - centers-for-disease-control-and-prevention
   - content-syndication
   - united-states-office-of-personnel-management
   - wednesday-api-briefing

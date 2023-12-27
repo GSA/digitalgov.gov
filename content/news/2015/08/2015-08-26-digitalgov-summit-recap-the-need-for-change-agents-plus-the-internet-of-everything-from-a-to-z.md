@@ -12,8 +12,6 @@ topics:
   - FCC
   - federal-communications-commission
   - internet-of-things
-  - recaps
-
 ---
 
 The [Internet of Things]({{< ref "2014-10-31-whats-happening-with-the-internet-of-things.md" >}}) is already here. How will we prepare for the [Internet of Everything]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}})? David Bray, Chief Information Officer at the Federal Communications Commission, and Eisenhower Fellow, spoke about the IoT, IoE, and the need for change agents during the [2015 DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/).

@@ -9,8 +9,6 @@ topics:
   - fda
   - mobile-apps
   - open-opportunities-program
-  - SSA
-  - the-united-states-social-security-administration
   - US Department of Agriculture
   - us-food-and-drug-administration
   - USDA

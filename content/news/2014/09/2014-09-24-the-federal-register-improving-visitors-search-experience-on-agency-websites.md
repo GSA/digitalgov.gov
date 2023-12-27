@@ -10,7 +10,6 @@ topics:
   - product-management
   - api
   - search
-  - federal-register
   - social-media
   - NLM
   - SEC

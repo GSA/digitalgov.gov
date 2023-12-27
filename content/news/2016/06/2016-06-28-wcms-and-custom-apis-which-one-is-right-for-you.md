@@ -11,9 +11,7 @@ topics:
   - strategy
   - policy
   - api
-  - CMS
   - code
-  - Consumer Product Safety Commission
   - data
   - mobile
   - white-house

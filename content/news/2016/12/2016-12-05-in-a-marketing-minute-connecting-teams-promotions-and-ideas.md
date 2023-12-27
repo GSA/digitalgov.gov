@@ -14,7 +14,6 @@ topics:
   - content
   - content-strategy
   - GobiernoUSAgov
-  - kids-gov
   - social-media
   - usagov
 ---

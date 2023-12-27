@@ -9,8 +9,8 @@ topics:
   - content
   - video
   - writing
-  - cdc
-  - centers-for-disease-control-and-prevention
+  
+  
   - content-strategy
   - infographic
   - the-content-corner

@@ -10,15 +10,9 @@ authors:
   - victoria-wales
 topics:
   - social-media
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - federal-emergency-management-agency
-  - fema
   - GobiernoUSAgov
   - multilingual
   - peace-corps
-  - recaps
-  - SBA
   - social-media
   - us-small-business-administration
   - usa-gov

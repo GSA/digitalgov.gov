@@ -15,8 +15,6 @@ topics:
   - infrastructure
   - SaaS
   - security
-  - technology-transformation-services
-  - tts
   - us-general-services-administration
 
 ---
