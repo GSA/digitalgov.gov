@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - data
-  - GitHub
   - open-data
 ---
 

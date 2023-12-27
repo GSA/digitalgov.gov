@@ -15,8 +15,6 @@ topics:
   - content
   - national-oceanic-and-atmospheric-administration
   - NOAA
-  - open
-  - open-data
 ---
 
 Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the <a href="https://api.nasa.gov/api.html#EPIC" target="_blank">NASA API Portal</a>. {{< legacy-img src="2016/11/600-x-400-NASA_Daily-imagery-data-taken-by-the-Earth-Polychromatic-Imaging-Camera-is-now-accessible-via-a-RESTful-API-available-from-the-NASA-API-Portal.jpg" alt="A photo from Earth Polychromatic Imaging Camera (EPIC)." caption="" >}} 

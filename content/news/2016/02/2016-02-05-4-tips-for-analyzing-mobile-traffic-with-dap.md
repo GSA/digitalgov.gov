@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - mobile
-  - our-work
   - dap
   - digital-analytics-program
   - mobile-gov

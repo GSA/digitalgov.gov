@@ -7,7 +7,6 @@ authors:
   - melody-kramer
 topics:
   - metrics
-  - our-work
   - 18f
   - analytics
   - dap

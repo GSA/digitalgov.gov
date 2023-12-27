@@ -8,12 +8,10 @@ authors:
 topics:
   - content
   - product-management
-  - our-work
   - api
   - search
   - social-media
   - NLM
-  - OSHA
   - us-securities-and-exchange-commission
 ---
 

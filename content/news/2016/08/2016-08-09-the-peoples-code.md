@@ -14,10 +14,6 @@ topics:
   - policy
   - code
   - innovation
-  - Office of Management and Budget
-  - OMB
-  - open
-  - open-data
   - us-department-of-veterans-affairs
 
 ---

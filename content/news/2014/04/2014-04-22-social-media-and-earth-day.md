@@ -14,7 +14,6 @@ topics:
   - nih
   - NOAA
   - nsf
-  - office-of-naval-research
   - peace-corps
 ---
 

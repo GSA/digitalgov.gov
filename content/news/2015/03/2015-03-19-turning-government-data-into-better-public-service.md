@@ -11,7 +11,6 @@ authors:
 topics:
   - metrics
   - monthly-theme
-  - our-work
   - analytics
   - dap
   - digital-analytics-program

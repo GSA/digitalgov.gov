@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - product-management
-  - OPM
   - united-states-office-of-personnel-management
 ---
 

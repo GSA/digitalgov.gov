@@ -9,7 +9,7 @@ topics:
   - api
   - data
   - data-gov
-  - GitHub
+  
   - open-data
   - US Department of Agriculture
   - united-states-department-of-transportation

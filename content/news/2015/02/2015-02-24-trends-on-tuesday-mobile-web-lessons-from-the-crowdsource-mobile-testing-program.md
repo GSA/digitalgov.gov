@@ -7,7 +7,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - our-work
   - user-experience
   - Federal CrowdSource Mobile Testing Program
   - mobile-gov-community-of-practice

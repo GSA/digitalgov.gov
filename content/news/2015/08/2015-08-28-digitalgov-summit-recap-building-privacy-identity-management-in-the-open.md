@@ -8,7 +8,6 @@ authors:
   - andreanocesigritz
 topics:
   - security
-  - our-work
   - NIST
   - united-states-department-of-transportation
 ---

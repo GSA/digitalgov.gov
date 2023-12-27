@@ -28,7 +28,6 @@ topics:
   - challenges
   - crowdsourcing
   - innovation
-  - open
 
 # YouTube ID
 youtube_id: 

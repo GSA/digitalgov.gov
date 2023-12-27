@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - product-management
-  - our-work
+
 ---
 
 Here's another other opportunity to show DigitalGov innovators what you got!

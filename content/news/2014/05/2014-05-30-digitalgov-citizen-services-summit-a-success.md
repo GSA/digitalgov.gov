@@ -12,7 +12,6 @@ topics:
   - product-management
   - analytics
   - mobile
-  - our-work
   - social-media
   - user-experience
 ---

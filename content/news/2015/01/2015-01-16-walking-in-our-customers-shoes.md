@@ -7,7 +7,6 @@ authors:
   - phaedra-chrousos
 topics:
   - product-management
-  - our-work
   - customer-experience
 ---
 

@@ -10,7 +10,6 @@ topics:
   - api
   - content-management-system
   - content-models
-  - drupal
   - mobile-ux-guideline-1
   - open-and-structured-content-models
   - open-source

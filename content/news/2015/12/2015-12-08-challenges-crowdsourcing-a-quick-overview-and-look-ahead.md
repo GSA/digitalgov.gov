@@ -20,7 +20,6 @@ topics:
   - NIST
   - NPS
   - nsf
-  - OSTP
   - us-environmental-protection-agency
   - us-national-park-service
   

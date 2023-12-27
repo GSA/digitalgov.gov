@@ -9,7 +9,6 @@ topics:
   - code
   - mobile
   - mobile-apps
-  - OSHA
   - us-department-of-labor
 ---
 

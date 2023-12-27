@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - product-management
-  - our-work
   - customer-experience
   - customer-service
 ---

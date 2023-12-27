@@ -11,7 +11,6 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - NPS
-  - OSTP
   - us-department-of-education
   - us-environmental-protection-agency
   - us-national-park-service

@@ -9,7 +9,6 @@ topics:
   - content
   - monthly-theme
   - content-strategy
-  - office-of-the-us-foreign-assistance-resources
   - the-content-corner
   - us-department-of-education
 ---

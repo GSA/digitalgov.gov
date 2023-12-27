@@ -9,7 +9,6 @@ topics:
   - mobile
   - Federal Mobile Products Registry
   - mobile-apps
-  - OSHA
   - thursday-mobile-products
   - us-coast-guard
   - us-department-of-veterans-affairs

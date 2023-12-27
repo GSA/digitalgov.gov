@@ -7,7 +7,6 @@ authors:
   - courtney-greenley
 topics:
   - mobile
-  - our-work
   - Federal Mobile Products Registry
   - mobile-apps
   - mobile-gov-community-of-practice

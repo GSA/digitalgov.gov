@@ -12,7 +12,6 @@ topics:
   - api
   - citizen-science-and-crowdsourcing-community-of-practice
   - communities
-  - drupal
   - mobile
   - open-data
   - open-opportunities-program

@@ -7,14 +7,11 @@ authors:
   - apiazza
 topics:
   - monthly-theme
-  - our-work
   - 18f
   - api
   - content-management-system
   - data
   - data-gov
-  - drupal
-  - GitHub
   - json
   - metadata
   - mobile-gov-community-of-practice

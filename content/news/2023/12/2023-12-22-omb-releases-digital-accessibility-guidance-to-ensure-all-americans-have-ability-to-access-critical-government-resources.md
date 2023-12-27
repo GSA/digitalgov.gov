@@ -23,7 +23,6 @@ summary: The Biden-Harris Administration is championing inclusivity by requiring
   to change the federal digital experience for all Americans.
 # See all topics at https://digital.gov/topics
 topics:
-  - office-of-governmentwide-policy
   - accessibility
   - "508"
   - section-508

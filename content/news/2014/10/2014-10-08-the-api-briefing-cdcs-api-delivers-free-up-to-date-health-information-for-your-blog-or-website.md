@@ -9,7 +9,6 @@ topics:
   - api
   - code
   - content-syndication
-  - OPM
   - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---

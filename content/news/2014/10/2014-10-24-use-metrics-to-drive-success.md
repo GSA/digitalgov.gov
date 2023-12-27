@@ -7,7 +7,6 @@ authors:
   - lnelson
 topics:
   - metrics
-  - our-work
   - open-opportunities-program
 ---
 

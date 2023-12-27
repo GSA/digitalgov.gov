@@ -7,8 +7,6 @@ authors:
   - tony-scott
 topics:
   - product-management
-  - Office of Management and Budget
-  - OMB
 ---
 
 > Summary: Today, the Administration directed a series of actions to continue strengthening Federal cybersecurity & modernizing the government’s technology infrastructure.

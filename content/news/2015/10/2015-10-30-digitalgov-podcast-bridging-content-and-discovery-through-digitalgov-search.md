@@ -6,7 +6,6 @@ summary: 'Recently, search analyst Dawn McCleskey sat down with us to discuss th
 authors:
   - awichman
 topics:
-  - our-work
   - search
   - podcast
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"

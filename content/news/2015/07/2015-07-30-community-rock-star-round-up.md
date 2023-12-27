@@ -15,7 +15,6 @@ topics:
   - mobile-gov
   - nih
   - open-and-structured-content-models
-  - OPM
   - socialgov-community
   - trends-on-tuesday
   - us-department-of-state

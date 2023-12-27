@@ -7,11 +7,9 @@ authors:
   - rflagg
 topics:
   - product-management
-  - our-work
   - 18f
   - customer-experience
   - customer-service
-  - Office of Child Support Enforcement
   - user-experience
 ---
 

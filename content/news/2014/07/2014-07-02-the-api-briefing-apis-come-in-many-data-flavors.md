@@ -10,7 +10,6 @@ topics:
   - data
   - mobile-apps
   - mobile-code-catalog
-  - OPM
   - us-department-of-labor
   - united-states-census-bureau
   - united-states-geological-survey

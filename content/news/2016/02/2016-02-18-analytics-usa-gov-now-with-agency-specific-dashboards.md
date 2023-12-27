@@ -12,7 +12,6 @@ authors:
   - colin-craig
 topics:
   - data
-  - our-work
   - 18f
   - analytics
   - dap

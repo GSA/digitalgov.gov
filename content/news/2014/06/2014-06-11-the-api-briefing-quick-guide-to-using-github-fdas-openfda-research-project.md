@@ -9,9 +9,8 @@ topics:
   - api
   - code
   - content
-  - GitHub
+  
   - open-source
-  - OPM
   - us-food-and-drug-administration
   - united-states-office-of-personnel-management
   - wednesday-api-briefing

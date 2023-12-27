@@ -15,7 +15,6 @@ topics:
   
   - security
   - united-states-department-of-defense
-  - our-work
 
 ---
 

@@ -9,7 +9,6 @@ authors:
 categories: 
   - emerging-tech
   - managing-digital
-  - our-work
 tag: 
   - artificial-intelligence
   - data

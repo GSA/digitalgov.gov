@@ -12,7 +12,6 @@ topics:
   - national-oceanic-and-atmospheric-administration
   - NLM
   - NOAA
-  - ODNI
   - peace-corps
   - socialgov-community
   - us-department-of-education

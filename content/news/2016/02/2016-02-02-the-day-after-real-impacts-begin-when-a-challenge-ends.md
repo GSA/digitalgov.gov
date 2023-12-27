@@ -7,7 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - our-work
   - us-agency-for-international-development
   - usaid
 ---

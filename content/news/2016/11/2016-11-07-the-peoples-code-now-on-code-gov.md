@@ -11,10 +11,6 @@ topics:
   - strategy
   - policy
   - code
-  - Office of Management and Budget
-  - OMB
-  - open
-  - open-source
 ---
 
 > _Summary: Today we’re launching Code.gov so that our Nation can continue to unlock the tremendous potential of the Federal Government’s software._

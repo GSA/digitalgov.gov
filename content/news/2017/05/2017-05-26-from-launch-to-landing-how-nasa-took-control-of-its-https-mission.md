@@ -12,8 +12,6 @@ topics:
   - 18f
   - gsa
   - https
-  - Office of Management and Budget
-  - OMB
   - security
   - us-general-services-administration
   - united-states-department-of-homeland-security

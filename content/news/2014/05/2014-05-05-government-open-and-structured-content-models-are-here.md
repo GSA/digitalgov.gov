@@ -12,11 +12,10 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - our-work
   - social-media
   - aoi
   - content-models
-  - GitHub
+  
   - gsa
   - mobile-ux-guideline-1
   - nih

@@ -10,7 +10,6 @@ topics:
   - data
   - metrics
   - monthly-theme
-  - our-work
   - analytics
   - code
   - dap

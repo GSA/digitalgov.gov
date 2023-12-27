@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - our-work
   - making-mobile-gov
 
 ---

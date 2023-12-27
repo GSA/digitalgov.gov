@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - content
-  - our-work
   - social-media
   - video
   - search

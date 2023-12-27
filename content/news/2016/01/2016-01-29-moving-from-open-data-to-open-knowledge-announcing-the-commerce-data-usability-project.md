@@ -14,7 +14,6 @@ topics:
   - NIST
   - NOAA
   - open-data
-  - OSTP
   - united-states-census-bureau
   
 ---

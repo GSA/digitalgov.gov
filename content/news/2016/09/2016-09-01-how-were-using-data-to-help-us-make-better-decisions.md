@@ -10,8 +10,6 @@ topics:
   - cloud
   - data
   - gsa
-  - Office of Governmentwide Policy
-  - OGP
   - open-data
   - PBS
   - Public Buildings Service

@@ -8,7 +8,6 @@ authors:
   - rflagg
 
 topics:
-  - our-work
   - challenges-and-prize-competitions
   - customer-experience
   - budgeting-and-performance
