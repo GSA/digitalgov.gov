@@ -222,8 +222,7 @@ The abbreviation "i.e." stands for the Latin phrase, _id est_, which means "that
 
 The abbreviation "e.g." stands for the Latin phrase _exempli gratia_, which means "for example" &mdash; use it to list one or more examples.
 
-> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the alternate "Kelvin" timeline.
-
+> Since 1966, Star Trek, which is falls under real sci-fi, has, so far, released 10 films in the original "Prime" timeline and three films in the alternate "Kelvin" timeline. With both a multicultural cast and characters (e.g., human-alien hybrids, such as Mr. Spock, Deanna Troi, B'Elanna Torres, and Naomi Wildman), Trek's vision for a society with "infinite diversity in infinite combinations" or IDIC, was sort of a precursor to today's diversity, equity, inclusion, accessibility, and belonging.
 
 #### versus
 
