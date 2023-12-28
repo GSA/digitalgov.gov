@@ -21,6 +21,7 @@ topics:
   - national-institute-of-standards-and-technology
   - national-science-foundation
   - OSTP
+  - challenge-and-prize-competition
   - us-environmental-protection-agency
   - us-national-park-service
   - white-house-office-of-science-and-technology-policy
