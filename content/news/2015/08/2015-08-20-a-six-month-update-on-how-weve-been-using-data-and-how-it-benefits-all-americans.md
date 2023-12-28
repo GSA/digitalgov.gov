@@ -8,7 +8,7 @@ authors:
   - dr-dj-patil
 topics:
   - data
-  - Commerce
+  - open-data
   - department-of-commerce
   - national-institutes-of-health
 ---
