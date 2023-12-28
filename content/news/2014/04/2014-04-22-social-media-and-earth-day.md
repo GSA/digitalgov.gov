@@ -15,7 +15,6 @@ topics:
   - nasa
   - national-institutes-of-health
   - National Zoological Park
-  - social-media
   - peace-corps
 ---
 
