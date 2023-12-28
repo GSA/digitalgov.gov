@@ -22,7 +22,7 @@ topics:
   - HHS
   - national-institutes-of-health
   - NCI
-  - recaps
+  - open-government
   - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration
