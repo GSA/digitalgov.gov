@@ -15,7 +15,6 @@ topics:
   - content-models
   - content-strategy
   - content-syndication
-  - national-institutes-of-health
   - open-and-structured-content-models
 ---
 

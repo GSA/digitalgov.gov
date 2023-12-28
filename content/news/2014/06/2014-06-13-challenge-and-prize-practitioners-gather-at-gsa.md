@@ -12,10 +12,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - innovation
-  - nasa
-  - National Eye Institute
-  - national-science-foundation
-  - recaps
   - united-states-department-of-housing-and-urban-development
 ---
 

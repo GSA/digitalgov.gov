@@ -12,7 +12,6 @@ topics:
   - 18f
   - gsa
   - https
-  - nasa
   - Office of Management and Budget
   - OMB
   - security

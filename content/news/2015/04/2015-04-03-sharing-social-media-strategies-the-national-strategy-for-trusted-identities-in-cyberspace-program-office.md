@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  - national-institute-of-standards-and-technology
   - security
   - social-media
   - social-media-metrics

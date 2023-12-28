@@ -7,7 +7,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov-community-of-practice
-  - national-archives-and-records-administration
   - thursday-mobile-products
   - us-national-park-service
  

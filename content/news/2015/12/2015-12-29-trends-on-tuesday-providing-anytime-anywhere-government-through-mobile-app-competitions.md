@@ -13,8 +13,6 @@ topics:
   - challenges-and-prize-competitions
   - data
   - mobile-apps
-  - national-institute-of-standards-and-technology
-  - National Institute on Drug Abuse
   - trends-on-tuesday
   - us-environmental-protection-agency
 ---

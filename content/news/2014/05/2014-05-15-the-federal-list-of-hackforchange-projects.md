@@ -11,8 +11,6 @@ topics:
   - challenge-gov
   - data-gov
   - national-day-of-civic-hacking
-  - national-institutes-of-health
-  - national-science-foundation
   - peace-corps
   - us-agency-for-international-development
   - united-states-census-bureau

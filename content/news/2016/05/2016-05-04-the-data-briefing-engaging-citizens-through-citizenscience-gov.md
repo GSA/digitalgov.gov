@@ -10,8 +10,6 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - epa
-  - nasa
   - the-data-briefing
   - US Department of Agriculture
   - us-environmental-protection-agency

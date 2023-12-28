@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - social-media
-  - national-institutes-of-health
   - social-media
   - social-media-metrics
 ---

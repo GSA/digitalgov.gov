@@ -9,7 +9,6 @@ topics:
   - api
   - augmented-reality
   - mobile-apps
-  - nasa
   - US Department of Agriculture
   - United States Postal Service
   - USDA

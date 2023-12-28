@@ -11,7 +11,6 @@ topics:
   - api
   - content-models
   - metadata
-  - national-institutes-of-health
   - open-and-structured-content-models
   - structured-content
 ---

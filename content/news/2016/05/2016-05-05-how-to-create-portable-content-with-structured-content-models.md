@@ -11,7 +11,6 @@ topics:
   
   - mobile-gov-community-of-practice
   - mobile-gov
-  - national-institutes-of-health
   - open-and-structured-content-models
   - structured-content
   - united-states-department-of-health-and-human-services

@@ -10,9 +10,6 @@ topics:
   - mobile
   - video
   - content-syndication
-  - fda
-  - HHS
-  - national-institutes-of-health
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---

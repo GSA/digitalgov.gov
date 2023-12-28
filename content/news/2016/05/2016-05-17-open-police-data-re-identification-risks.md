@@ -7,9 +7,6 @@ authors:
   - lorrie-cranor
 topics:
   - data
-  - data
-  - Federal Trade Commission
-  - FTC
   - open-data
   - security
 

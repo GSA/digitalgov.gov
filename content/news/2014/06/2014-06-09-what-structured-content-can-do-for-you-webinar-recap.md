@@ -15,7 +15,6 @@ topics:
   - GitHub
   - gsa
   - metadata
-  - national-institutes-of-health
   - open-and-structured-content-models
   - structured-content
   - united-states-census-bureau

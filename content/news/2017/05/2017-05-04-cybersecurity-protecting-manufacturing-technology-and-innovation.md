@@ -13,7 +13,6 @@ topics:
   - innovation
   - internet-of-things
   - IoT
-  - national-institute-of-standards-and-technology
   - security
 ---
 

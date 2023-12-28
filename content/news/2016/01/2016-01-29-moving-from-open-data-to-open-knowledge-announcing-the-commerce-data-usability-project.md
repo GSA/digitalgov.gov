@@ -10,8 +10,6 @@ authors:
 topics:
   - data
   - data-gov
-  - department-of-commerce
-  - national-institute-of-standards-and-technology
   - open-data
   - OSTP
   - united-states-census-bureau

@@ -13,7 +13,6 @@ topics:
   - mobile
   - mobile-code-catalog
   - mobile-gov
-  - national-gallery-of-art
   - responsive-web-design
   - trends-on-tuesday
   - user-experience

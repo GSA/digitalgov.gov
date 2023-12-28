@@ -13,7 +13,6 @@ topics:
   - data
   - mobile
   - mobile-apps
-  - national-institute-of-standards-and-technology
   - the-data-briefing
 
 ---

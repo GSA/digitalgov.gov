@@ -13,7 +13,6 @@ topics:
   - api
   - code
   - content
-  - nasa
   - open
   - open-data
 ---

@@ -12,7 +12,6 @@ topics:
   - api
   - apps-challenges
   - data
-  - nasa
   - open
   - open-data
   - open-government

@@ -8,12 +8,6 @@ authors:
 topics:
   - api
   - code
-  - api
-  - Census
-  - epa
-  - FCC
-  - federal-register
-  - National Weather Service
   - us-department-of-labor
 ---
 

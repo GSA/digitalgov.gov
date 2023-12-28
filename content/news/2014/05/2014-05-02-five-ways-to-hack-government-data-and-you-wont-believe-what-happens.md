@@ -14,7 +14,6 @@ topics:
   - data-gov
   - innovation
   - national-day-of-civic-hacking
-  - national-science-foundation
   - united-states-census-bureau
 ---
 

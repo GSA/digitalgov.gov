@@ -8,7 +8,6 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - national-institute-of-standards-and-technology
   - social-media
   - terms-of-service
 ---

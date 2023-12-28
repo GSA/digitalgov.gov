@@ -16,9 +16,6 @@ topics:
   - content
   - content-strategy
   - customer-experience
-  - national-center-for-complementary-and-integrative-health
-  - national-institutes-of-health
-  - nccih
   - prototype
   - usability
   - usability-testing

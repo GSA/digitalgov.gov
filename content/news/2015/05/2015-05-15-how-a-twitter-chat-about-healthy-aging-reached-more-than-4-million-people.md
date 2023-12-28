@@ -7,7 +7,6 @@ authors:
   - yasmine-kloth
 topics:
   - social-media
-  - national-institutes-of-health
   - social-media
 ---
 

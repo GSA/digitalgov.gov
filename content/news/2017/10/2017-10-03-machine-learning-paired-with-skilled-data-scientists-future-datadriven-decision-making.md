@@ -11,9 +11,6 @@ topics:
   - big-data
   - data
   - emerging-tech
-  - defense-advanced-research-projects-agency
-  - hhs
-  - nasa
   - trends-on-tuesday
   - united-states-department-of-health-and-human-services
   - rpa

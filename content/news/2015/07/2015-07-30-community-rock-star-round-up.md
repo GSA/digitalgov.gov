@@ -13,7 +13,6 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - gsa
   - mobile-gov
-  - NCI
   - open-and-structured-content-models
   - OPM
   - socialgov-community

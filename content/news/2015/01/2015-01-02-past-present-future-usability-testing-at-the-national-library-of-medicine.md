@@ -10,7 +10,6 @@ authors:
   - dan-wendling
 topics:
   - user-testing-and-research
-  - National Library of Medicine
   - usability-case-study
   - usability-testing
   - user-experience

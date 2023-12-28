@@ -16,7 +16,6 @@ topics:
   - content-strategy
   - Federal Mobile Products Registry
   - mobile
-  - National Weather Service
   - social-media
   - the-content-corner
   - us-digital-registry

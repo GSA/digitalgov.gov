@@ -11,9 +11,6 @@ authors:
 topics:
   - social-media
   - gsa
-  - nasa
-  - national-institutes-of-health
-  - National Zoological Park
   - office-of-naval-research
   - peace-corps
 ---

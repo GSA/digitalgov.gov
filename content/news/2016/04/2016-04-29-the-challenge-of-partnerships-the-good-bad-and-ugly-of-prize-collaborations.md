@@ -9,7 +9,6 @@ topics:
   - challenges
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - HHS
   - united-states-department-of-health-and-human-services
 ---
 

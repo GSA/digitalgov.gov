@@ -19,7 +19,6 @@ topics:
   - GitHub
   - gsa
   - mobile-ux-guideline-1
-  - national-institutes-of-health
   - open-and-structured-content-models
   - structured-content
   - US Department of Agriculture

@@ -8,11 +8,6 @@ authors:
 topics:
   - product-management
   - social-media
-  - epa
-  - HHS
-  - national-cancer-institute
-  - national-institutes-of-health
-  - NCI
   - US Department of Agriculture
   - us-environmental-protection-agency
   - united-states-department-of-health-and-human-services

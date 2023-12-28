@@ -16,7 +16,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5
-  - National Highway Traffic Safety Administration
   - socialgov-community
   - trends-on-tuesday
   - US Department of Agriculture

@@ -9,8 +9,6 @@ topics:
   - monthly-theme
   - content-strategy
   - gsa
-  - nasa
-  - national-institutes-of-health
   - social-media
 ---
 

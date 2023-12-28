@@ -10,7 +10,6 @@ topics:
   - mobile-app-development-program
   - mobile-apps
   - mobile-ux-guideline-5
-  - National Weather Service
   - trends-on-tuesday
 ---
 

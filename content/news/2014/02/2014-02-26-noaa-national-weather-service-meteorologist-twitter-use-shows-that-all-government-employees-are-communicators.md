@@ -7,7 +7,6 @@ authors:
   - mike-kruger
 topics:
   - social-media
-  - department-of-commerce
   - social-media
 ---
 

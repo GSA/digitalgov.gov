@@ -14,8 +14,6 @@ topics:
   - crowdsourcing
   - FCPCCS
   - mobile-apps
-  - NARA
-  - national-archives-and-records-administration
   - open-government
   - united-states-department-of-energy
   - united-states-geological-survey

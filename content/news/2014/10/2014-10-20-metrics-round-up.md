@@ -10,8 +10,6 @@ topics:
   - analytics
   - dap
   - data-gov
-  - epa
-  - GAO
   - open-data
   - social-media-metrics
   - us-environmental-protection-agency

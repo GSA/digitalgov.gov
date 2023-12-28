@@ -11,7 +11,6 @@ topics:
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
-  - national-institutes-of-health
   - OSTP
 ---
 

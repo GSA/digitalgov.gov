@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - api
-  - DoD
   - thursday-mobile-products
   - united-states-department-of-defense
 ---

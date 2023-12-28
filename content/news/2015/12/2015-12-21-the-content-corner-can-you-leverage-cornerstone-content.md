@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
   - seo
   - the-content-corner
   - us-national-park-service

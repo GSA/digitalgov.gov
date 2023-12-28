@@ -9,9 +9,6 @@ authors:
 topics:
   - security
   - our-work
-  - digitalgov-summit
-  - DOT
-  - recaps
   - united-states-department-of-transportation
 ---
 

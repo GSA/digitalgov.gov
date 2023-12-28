@@ -10,9 +10,6 @@ topics:
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - DOE
-  - epa
-  - nasa
   - OSTP
   - us-department-of-education
   - us-environmental-protection-agency

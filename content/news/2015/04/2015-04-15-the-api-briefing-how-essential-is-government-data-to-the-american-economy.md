@@ -8,10 +8,6 @@ authors:
 topics:
   - api
   - data
-  - api
-  - Census
-  - data
-  - department-of-commerce
   - open-data
   - united-states-census-bureau
   - wednesday-api-briefing

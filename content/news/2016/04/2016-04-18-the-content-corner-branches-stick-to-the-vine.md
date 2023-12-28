@@ -8,9 +8,6 @@ authors:
 topics:
   - content
   - accessibility
-  - DOE
-  - firstnet
-  - National Weather Service
   - social-media
   - socialgov
   - the-content-corner

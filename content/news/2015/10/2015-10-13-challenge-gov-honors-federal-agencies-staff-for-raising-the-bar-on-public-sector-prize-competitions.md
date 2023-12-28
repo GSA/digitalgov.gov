@@ -8,11 +8,6 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - Federal Trade Commission
-  - FTC
-  - HUD
-  - nasa
-  - national-institute-of-standards-and-technology
   - prizes-and-competitions
   - us-agency-for-international-development
   - united-states-department-of-energy

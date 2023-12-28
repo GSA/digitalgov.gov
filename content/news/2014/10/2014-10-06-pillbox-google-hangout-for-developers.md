@@ -8,10 +8,6 @@ authors:
 topics:
   - api
   - data
-  - fda
-  - HHS
-  - national-institutes-of-health
-  - National Library of Medicine
   - open-source
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services

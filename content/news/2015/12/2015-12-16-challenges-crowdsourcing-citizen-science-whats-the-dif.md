@@ -23,7 +23,6 @@ topics:
   - gsa
   
   - innovation
-  - nasa
   - prizes-and-competitions
   - US Department of Agriculture
   - us-environmental-protection-agency

@@ -9,9 +9,6 @@ topics:
   - content
   - content-management-system
   - metadata
-  - national-cancer-institute
-  - national-institutes-of-health
-  - NCI
   - open-and-structured-content-models
 ---
 

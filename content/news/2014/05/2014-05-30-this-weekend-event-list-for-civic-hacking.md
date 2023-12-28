@@ -10,9 +10,6 @@ topics:
   - data
   - data-gov
   - national-day-of-civic-hacking
-  - national-institutes-of-health
-  - national-science-foundation
-  - smithsonian-institution
   - us-department-of-education
   - us-department-of-labor
   - us-environmental-protection-agency

@@ -11,7 +11,6 @@ topics:
   - social-media
   - content
   - content-strategy
-  - national-institutes-of-health
   - social-media
 ---
 

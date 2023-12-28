@@ -7,7 +7,6 @@ authors:
   - dannielle-blumenthal
 topics:
   - our-work
-  - national-institute-of-standards-and-technology
   - open-opportunities-program
 ---
 

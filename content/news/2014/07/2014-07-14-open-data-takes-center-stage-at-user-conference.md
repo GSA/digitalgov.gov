@@ -8,7 +8,6 @@ authors:
 topics:
   - data
   - data-visualization
-  - department-of-commerce
   - united-states-census-bureau
 ---
 
