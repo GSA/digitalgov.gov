@@ -15,6 +15,8 @@ topics:
   - defense-advanced-research-projects-agency
   - hhs
   - nasa
+  - open-data
+  - analytics
   - trends-on-tuesday
   - united-states-department-of-health-and-human-services
   - rpa
