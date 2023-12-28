@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - api
-  - GitHub
+  
   - wednesday-api-briefing
 ---
 

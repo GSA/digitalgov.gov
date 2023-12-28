@@ -9,7 +9,6 @@ topics:
   - product-management
   - mobile
   - monthly-theme
-  - our-work
   - internet-of-things
   - united-states-department-of-transportation
 ---

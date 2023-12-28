@@ -7,7 +7,6 @@ authors:
   - apiazza
 topics:
   - monthly-theme
-  - our-work
   - customer-experience
   - open-opportunities-program
 ---

@@ -7,7 +7,6 @@ authors:
   - jim-wilson
 topics:
   - metrics
-  - our-work
   - dap
   - digital-analytics-program
   - mobile

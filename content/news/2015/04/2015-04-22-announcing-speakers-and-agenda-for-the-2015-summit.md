@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - product-management
-  - our-work
+
 ---
 
 We are busting at the seams with excitement because the DigitalGov Citizen Services Summit is less than a month away! Today we are announcing the working agenda and confirmed speakers.

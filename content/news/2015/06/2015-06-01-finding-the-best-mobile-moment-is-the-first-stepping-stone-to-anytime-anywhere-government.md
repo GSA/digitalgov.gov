@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - ios
   - mobile-ux-guideline-5
-  - OSHA
   - us-department-of-veterans-affairs
   - usa-gov
 ---

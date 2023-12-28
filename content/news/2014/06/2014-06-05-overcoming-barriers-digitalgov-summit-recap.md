@@ -16,7 +16,7 @@ topics:
   - user-experience
   - challenge-gov
   - data-gov
-  - GitHub
+  
   - us-department-of-labor
   - us-small-business-administration
   

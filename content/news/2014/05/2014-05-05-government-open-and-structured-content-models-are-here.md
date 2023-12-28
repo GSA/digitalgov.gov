@@ -7,16 +7,14 @@ authors:
   - structured-and-open-content-models-working-group
 topics:
   - code
-  - communities
   - content
   - product-management
   - mobile
   - monthly-theme
-  - our-work
   - social-media
   - aoi
   - content-models
-  - GitHub
+  
   - gsa
   - mobile-ux-guideline-1
   - open-and-structured-content-models

@@ -26,6 +26,7 @@
       @include u-text("white", "thin");
       margin: 0;
       padding: units(2) units(4) 0 units(2);
+      width: 75%;
 
       @include at-media("tablet-lg") {
         margin: units(4) 0;

@@ -7,7 +7,6 @@ authors:
   - coqui-aspiazu
 topics:
   - content
-  - our-work
   - sites
   - us-department-of-state
 ---

@@ -10,7 +10,6 @@ authors:
 topics:
   - data
   - metrics
-  - our-work
   - analytics
   - content
   - content-strategy

@@ -8,12 +8,7 @@ authors:
 topics:
   - social-media
   - gsa
-  - ODNI
   - open-government
-  - Office of Management and Budget
-  - OMB
-  - open-government
-  - OSTP
   - peace-corps
   - us-coast-guard
   - us-department-of-education

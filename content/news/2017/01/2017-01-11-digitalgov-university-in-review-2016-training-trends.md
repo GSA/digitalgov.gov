@@ -11,7 +11,6 @@ topics:
   - accessibility
   - api
   - challenges
-  - communities
   - content
   - data
   - design
@@ -19,7 +18,6 @@ topics:
   - product-management
   - metrics
   - mobile
-  - our-work
   - social-media
   - strategy
   - policy

@@ -21,8 +21,6 @@ topics:
   - code
   - innovation
   - software-engineering
-  - open
-  - open-source
   - crowdsourcing
 
 # see all authors at https://digital.gov/authors

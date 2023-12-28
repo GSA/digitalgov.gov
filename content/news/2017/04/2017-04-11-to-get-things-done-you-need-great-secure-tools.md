@@ -13,7 +13,6 @@ topics:
   - fedramp
   - gsa
   - infrastructure
-  - our-work
   - SaaS
   - security
   - us-general-services-administration

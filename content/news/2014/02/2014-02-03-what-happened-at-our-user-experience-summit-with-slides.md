@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
   - mobile-app-development-program
-  - OMB
   - pra
   - user-experience
   - user-experience-community-of-practice

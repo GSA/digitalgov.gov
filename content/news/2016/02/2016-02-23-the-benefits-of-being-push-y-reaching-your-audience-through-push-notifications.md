@@ -9,7 +9,6 @@ topics:
   - mobile
   - mobile
   - mobile-apps
-  - OPM
   - united-states-office-of-personnel-management
 ---
 

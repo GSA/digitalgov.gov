@@ -6,7 +6,6 @@ summary: "Around this month&#8217;s Communities Theme, the DigitalGov team thoug
 authors:
   - apiazza
 topics:
-  - communities
   - monthly-theme
   - 18f
   - customer-experience
@@ -14,7 +13,6 @@ topics:
   - gsa
   - mobile-gov
   - open-and-structured-content-models
-  - OPM
   - socialgov-community
   - trends-on-tuesday
   - us-department-of-state

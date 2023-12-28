@@ -9,7 +9,6 @@ authors:
 topics:
   - product-management
   - innovation
-  - OSTP
   - social-media
   
 primary_image: white-house-back-to-the-future-day-2015-social-graphic-cropped

@@ -17,7 +17,6 @@ topics:
   - crowdfunding
   - crowdsourcing
   - FCPCCS
-  - OSTP
   - us-environmental-protection-agency
   - us-national-park-service
   

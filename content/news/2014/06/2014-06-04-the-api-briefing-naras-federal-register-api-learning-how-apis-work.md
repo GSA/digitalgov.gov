@@ -10,7 +10,6 @@ topics:
   - code
   - api
   - code
-  - OPM
   - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---

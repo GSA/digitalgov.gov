@@ -7,7 +7,6 @@ authors:
   - nkunin
 topics:
   - code
-  - GitHub
   - open-source
 ---
 

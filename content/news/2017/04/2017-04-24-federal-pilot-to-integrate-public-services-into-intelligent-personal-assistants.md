@@ -6,17 +6,13 @@ summary: 'The demand for more automated, self-service access to United States pu
 authors:
   - jherman
 topics:
-  - communities
   - emerging-tech
   - product-management
-  - our-work
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
-  - communities
   - gsa
   - innovation
-  - Office of Products and Programs
   - social-media
   - socialgov
   - socialgov-community

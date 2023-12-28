@@ -8,7 +8,6 @@ authors:
   - awichman
 topics:
   - emerging-tech
-  - our-work
   - internet-of-things
 ---
 

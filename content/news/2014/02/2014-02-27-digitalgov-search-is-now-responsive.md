@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - mobile
-  - our-work
   - search
   - responsive-web-design
 ---

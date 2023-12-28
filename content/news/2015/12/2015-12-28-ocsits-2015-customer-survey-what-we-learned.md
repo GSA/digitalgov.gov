@@ -6,7 +6,6 @@ summary: 'Three years ago, GSA’s Office of Citizen Services and Innovative Tec
 authors:
   - rflagg
 topics:
-  - our-work
   - customer-experience
   - customer-satisfaction
   - customer-service

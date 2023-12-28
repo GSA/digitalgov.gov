@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - metrics
-  - our-work
   - analytics
   - digital-analytics-program
 ---

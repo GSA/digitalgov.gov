@@ -12,10 +12,7 @@ authors:
 topics:
   - code
   - 18f
-  - Office of Management and Budget
-  - OMB
   - open-government
-  - OSTP
   - us-department-of-justice
   - us-environmental-protection-agency
 ---

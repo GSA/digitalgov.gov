@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - monthly-theme
-  - our-work
   - analytics
   - data
 ---

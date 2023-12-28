@@ -6,13 +6,10 @@ summary: 'Digital communities of practice come in many stripes. DigitalGov commu
 authors:
   - awichman
 topics:
-  - communities
   - monthly-theme
   - 18f
   - api
   - citizen-science-and-crowdsourcing-community-of-practice
-  - communities
-  - drupal
   - mobile
   - open-data
   - open-opportunities-program

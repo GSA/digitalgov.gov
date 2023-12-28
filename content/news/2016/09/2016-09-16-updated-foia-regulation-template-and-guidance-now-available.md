@@ -11,7 +11,6 @@ topics:
   - policy
   
   - open-government
-  - office-of-information-policy
   - us-department-of-justice
 ---
 

@@ -15,7 +15,7 @@ topics:
   - api
   - content
   - data
-  - GitHub
+  
   - plain-language
   - responsive-web-design
   - uswds

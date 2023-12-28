@@ -9,7 +9,7 @@ authors:
 
 topics:
   - product-management
-  - our-work
+
 ---
 
 Digital innovators from across government were asked to think of technology as digital service for their country at today&#8217;s [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/).

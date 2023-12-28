@@ -19,7 +19,6 @@ topics:
   - user-testing-and-research
   - accessibility
   - analytics
-  - communities
   - content
   - content-strategy
   - https

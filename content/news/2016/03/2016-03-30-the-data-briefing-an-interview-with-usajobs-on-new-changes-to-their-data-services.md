@@ -12,7 +12,6 @@ topics:
   - api
   - data
   - data-visualization
-  - OPM
   - responsive-web-design
   - the-data-briefing
   - united-states-office-of-personnel-management

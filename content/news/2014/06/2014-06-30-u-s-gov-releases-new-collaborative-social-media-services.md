@@ -8,7 +8,6 @@ authors:
 topics:
   - accessibility
   - metrics
-  - our-work
   - social-media
   - accessibility
   - social-media

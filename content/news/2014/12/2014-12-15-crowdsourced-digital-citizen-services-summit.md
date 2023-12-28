@@ -14,7 +14,6 @@ topics:
   - metrics
   - mobile
   - monthly-theme
-  - our-work
   - social-media
   - user-experience
   - crowdsourcing

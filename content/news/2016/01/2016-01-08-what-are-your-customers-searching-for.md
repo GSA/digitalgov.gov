@@ -6,7 +6,6 @@ summary: 'What are your agency’s website visitors looking for? Can they find i
 authors:
   - awichman
 topics:
-  - our-work
   - analytics
   - search
   - usagov

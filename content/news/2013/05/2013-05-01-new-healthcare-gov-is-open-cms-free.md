@@ -9,7 +9,6 @@ topics:
   - code
   - api
   - content-strategy
-  - GitHub
   - open-source
 ---
 

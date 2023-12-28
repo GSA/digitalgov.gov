@@ -8,7 +8,6 @@ authors:
   - apiazza
 topics:
   - customer-experience
-  - our-work
   - gsa
   - open-and-structured-content-models
   - US Citizenship and Immigration Service

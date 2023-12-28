@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - monthly-theme
-  - our-work
   - analytics
   - search
   - top-tasks

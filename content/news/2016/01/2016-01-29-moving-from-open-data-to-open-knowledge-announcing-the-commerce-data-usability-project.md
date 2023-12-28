@@ -11,7 +11,6 @@ topics:
   - data
   - data-gov
   - open-data
-  - OSTP
   - united-states-census-bureau
   
 ---

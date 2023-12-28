@@ -6,7 +6,6 @@ summary: 'Building off the great discussion started around Customer Experience, 
 authors:
   - joel-virothaisakun
 topics:
-  - communities
   - design
   - user-testing-and-research
   - aoi

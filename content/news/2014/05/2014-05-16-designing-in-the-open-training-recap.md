@@ -9,9 +9,8 @@ topics:
   - content
   - data
   - monthly-theme
-  - our-work
   - data-gov
-  - GitHub
+  
   - open-source
 ---
 

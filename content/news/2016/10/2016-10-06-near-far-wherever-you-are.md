@@ -16,8 +16,6 @@ topics:
   - FAR
   - gsa
   - mobile
-  - Office of Governmentwide Policy
-  - OGP
   - thursday-mobile-products
   - US Department of Agriculture
   - us-general-services-administration

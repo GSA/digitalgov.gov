@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - content-management-system
-  - drupal
   - structured-content
   - us-department-of-education
 ---

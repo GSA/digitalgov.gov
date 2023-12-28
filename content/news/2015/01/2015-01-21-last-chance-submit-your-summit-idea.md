@@ -6,7 +6,8 @@ summary: "We are accepting proposals for the 2015 DigitalGov Citizen Services Su
 authors:
   - apiazza
 topics:
-  - our-work
+  - agile
+
 ---
 
 You might remember in the post [Crowdsourced Digital Citizen Services Summit]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}} "Crowdsourced Digital Citizen Services Summit") we said &#8220;[Go to Citizen Services Summit 2015. Go there now!](https://crowdhall.com/h/299/)&#8221; Well if you haven&#8217;t yet, there is still time to go there and propose a session, idea, or speaker.

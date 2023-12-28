@@ -7,7 +7,6 @@ authors:
   - michelle-chronister
 topics:
   - content
-  - our-work
   - api
   - usagov
 

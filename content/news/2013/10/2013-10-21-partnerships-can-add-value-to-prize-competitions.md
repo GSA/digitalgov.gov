@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - OSTP
   - us-agency-for-international-development
   - united-states-department-of-housing-and-urban-development
   - usaid

@@ -9,7 +9,6 @@ topics:
   - product-management
   - crowdsourcing
   - gamification
-  - office-of-naval-research
   - united-states-navy
 ---
 

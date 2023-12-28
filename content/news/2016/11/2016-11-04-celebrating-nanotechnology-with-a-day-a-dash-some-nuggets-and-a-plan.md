@@ -12,8 +12,6 @@ topics:
   - strategy
   - policy
   - innovation
-  - OSTP
-  
 ---
 
 > _Summary: The release of an updated National Nanotechnology Initiative Strategic Plan caps a month of activities highlighting nanotechnology._

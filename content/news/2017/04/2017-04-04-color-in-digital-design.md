@@ -9,7 +9,6 @@ topics:
   - content
   - design
   - product-management
-  - communities
   - uswds
   - user-experience
   - user-experience-community-of-practice

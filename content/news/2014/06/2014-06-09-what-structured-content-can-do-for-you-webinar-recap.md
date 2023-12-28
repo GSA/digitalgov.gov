@@ -7,12 +7,11 @@ authors:
   - kristen-onell
 topics:
   - api
-  - communities
   - content
   - aoi
   - api
   - content-models
-  - GitHub
+  
   - gsa
   - metadata
   - open-and-structured-content-models

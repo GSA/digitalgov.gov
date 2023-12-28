@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - our-work
   - mobile
   - mobile-apps
   - mobile-gov-community-of-practice

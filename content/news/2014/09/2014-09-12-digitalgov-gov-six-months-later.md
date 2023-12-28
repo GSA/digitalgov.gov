@@ -9,7 +9,6 @@ authors:
 topics:
   - content
   - product-management
-  - our-work
   - social-media
   - strategy
   - policy

@@ -6,7 +6,6 @@ summary: 'Innovative wearables, stronger wifi and more 3D printing have been amo
 authors:
   - jparcell
 topics:
-  - communities
   - product-management
   - mobile
   - monthly-theme

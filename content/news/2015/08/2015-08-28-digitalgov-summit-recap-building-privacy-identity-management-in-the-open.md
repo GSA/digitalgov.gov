@@ -8,7 +8,6 @@ authors:
   - andreanocesigritz
 topics:
   - security
-  - our-work
   - privacy
   - united-states-department-of-transportation
 ---

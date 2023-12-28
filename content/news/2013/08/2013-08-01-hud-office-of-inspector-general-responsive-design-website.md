@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - mobile
-  - drupal
   - mobile-gov
   - responsive-web-design
   - thursday-mobile-products
