@@ -11,6 +11,7 @@ topics:
   - our-work
   - digitalgov-summit
   - DOT
+  - privacy
   - recaps
   - united-states-department-of-transportation
 
