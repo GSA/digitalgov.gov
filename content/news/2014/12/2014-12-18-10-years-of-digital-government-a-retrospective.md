@@ -19,7 +19,7 @@ topics:
   - NARA
   - nasa
   - national-archives-and-records-administration
-  - Office of Management and Budget
+  - open-government
   - OMB
   - SBA
   - us-small-business-administration
