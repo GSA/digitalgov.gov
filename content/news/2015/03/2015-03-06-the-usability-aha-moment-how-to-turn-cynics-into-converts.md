@@ -9,7 +9,6 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - NLM
   - prototype
   - usability
   - usability-testing

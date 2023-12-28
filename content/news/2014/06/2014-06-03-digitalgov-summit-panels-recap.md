@@ -14,7 +14,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - nih
+  - open-government
   - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration

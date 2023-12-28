@@ -13,7 +13,6 @@ topics:
   - open-government
   - accessibility
   - strategy
-  - communities
   - customer-experience
 
 # See all authors at https://digital.gov/authors

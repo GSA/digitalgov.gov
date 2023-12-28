@@ -12,7 +12,6 @@ topics:
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - innovation
-  - nih
 ---
 
 [Challenge.gov](https://www.challenge.gov/), the official website for crowdsourcing and prize competitions across government, celebrated its five-year anniversary in October 2015.

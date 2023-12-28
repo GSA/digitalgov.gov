@@ -6,7 +6,6 @@ summary: '&ldquo;In business, words are words, explanations are explanations, pr
 authors:
   - carolyn-kaleel
 topics:
-  - communities
   - product-management
   - monthly-theme
   - aoi

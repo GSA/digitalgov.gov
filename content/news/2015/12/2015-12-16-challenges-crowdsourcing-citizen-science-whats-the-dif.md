@@ -23,9 +23,6 @@ topics:
   - gsa
   
   - innovation
-  
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - prizes-and-competitions
   - US Department of Agriculture
   - us-environmental-protection-agency

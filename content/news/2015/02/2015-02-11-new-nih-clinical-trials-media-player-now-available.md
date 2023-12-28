@@ -7,7 +7,6 @@ authors:
   - christen-geiler
 topics:
   - content
-  - nih
 ---
 
 Spread the Word about Clinical Trials!

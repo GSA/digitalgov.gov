@@ -11,7 +11,6 @@ topics:
   - policy
   - internet-of-things
   - IoT
-  - NIST
   - security
 ---
 

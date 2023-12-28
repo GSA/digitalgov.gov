@@ -8,9 +8,6 @@ authors:
 topics:
   - social-media
   - gsa
-  - nih
-  - NLM
-  - NPS
   - open-government
   - peace-corps
   - us-coast-guard

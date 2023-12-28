@@ -16,8 +16,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - socialgov-community
   - trends-on-tuesday
   - US Department of Agriculture

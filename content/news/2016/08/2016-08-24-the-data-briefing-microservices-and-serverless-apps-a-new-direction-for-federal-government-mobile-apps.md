@@ -13,7 +13,6 @@ topics:
   - data
   - mobile
   - mobile-apps
-  - NIST
   - the-data-briefing
 
 ---

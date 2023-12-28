@@ -7,7 +7,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov-community-of-practice
-  - NPS
   - thursday-mobile-products
   - us-national-park-service
  

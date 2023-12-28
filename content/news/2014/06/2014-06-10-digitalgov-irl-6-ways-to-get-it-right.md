@@ -11,7 +11,6 @@ topics:
   - mobile
   - user-experience
   - mobile-ux-guideline-5
-  - NOAA
   - open-data
 ---
 

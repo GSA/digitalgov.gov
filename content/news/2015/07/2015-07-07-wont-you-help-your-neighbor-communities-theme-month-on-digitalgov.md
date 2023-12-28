@@ -6,9 +6,7 @@ summary: 'It’s a beautiful day in the DigitalGov neighborhood, and we want you
 authors:
   - awichman
 topics:
-  - communities
   - monthly-theme
-  - communities
   - customer-experience
   - mobile-gov-community-of-practice
   - socialgov-community

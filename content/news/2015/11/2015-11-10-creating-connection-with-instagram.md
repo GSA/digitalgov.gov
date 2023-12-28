@@ -7,9 +7,6 @@ authors:
   - alyson-olander
 topics:
   - social-media
-  
-  
-  - nih
   - us-department-of-the-interior
 ---
 

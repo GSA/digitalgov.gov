@@ -14,8 +14,6 @@ topics:
   - internet-of-things
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - trends-on-tuesday
   - US Department of Agriculture
   - USDA

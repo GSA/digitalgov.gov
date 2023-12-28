@@ -9,7 +9,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - Nuclear Regulatory Commission
   - thursday-mobile-products
   - us-environmental-protection-agency
   - us-food-and-drug-administration

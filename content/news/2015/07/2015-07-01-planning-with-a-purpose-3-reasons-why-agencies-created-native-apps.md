@@ -12,9 +12,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-2
   - mobile-ux-guideline-5
-  - national-oceanic-and-atmospheric-administration
   - native-apps
-  - NOAA
   - us-immigration-and-customs-enforcement
 ---
 

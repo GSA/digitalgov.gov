@@ -11,7 +11,6 @@ topics:
   - mobile-gov
   - mobile-first
   - mobile-gov
-  - nih
   - thursday-mobile-products
   - us-department-of-labor
   - united-states-department-of-health-and-human-services

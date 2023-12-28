@@ -7,7 +7,6 @@ authors:
   - structured-and-open-content-models-working-group
 topics:
   - code
-  - communities
   - content
   - product-management
   - mobile
@@ -18,7 +17,6 @@ topics:
   
   - gsa
   - mobile-ux-guideline-1
-  - nih
   - open-and-structured-content-models
   - structured-content
   - US Department of Agriculture

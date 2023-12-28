@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - NORAD
-  - North American Defense Command
   - thursday-mobile-products
 ---
 

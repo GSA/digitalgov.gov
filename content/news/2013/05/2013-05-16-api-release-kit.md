@@ -8,8 +8,6 @@ authors:
 topics:
   - api
   - code
-  - api
-  - NREL
   - us-department-of-labor
 ---
 

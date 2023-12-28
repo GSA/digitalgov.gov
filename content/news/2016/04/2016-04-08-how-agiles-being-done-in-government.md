@@ -13,7 +13,6 @@ topics:
   - 18f
   - agile
   
-  - communities
   - lean
   - methodology
   - project-management

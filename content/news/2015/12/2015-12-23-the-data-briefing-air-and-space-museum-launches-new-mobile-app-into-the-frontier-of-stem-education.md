@@ -9,7 +9,6 @@ topics:
   - code
   - mobile
   - mobile-apps
-  - NPS
   - the-data-briefing
   - us-department-of-education
   - us-department-of-the-interior

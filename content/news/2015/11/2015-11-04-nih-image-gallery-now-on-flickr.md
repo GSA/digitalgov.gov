@@ -7,7 +7,6 @@ authors:
   - christen-geiler
 topics:
   - social-media
-  - nih
 ---
 
 {{< legacy-img src="2015/10/600-x400-NIH-Flickr-Image-Gallery-screenshot.jpg" alt="Screen shot of the new NIH Image Gallery on Flickr" >}}

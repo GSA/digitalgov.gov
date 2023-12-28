@@ -11,7 +11,6 @@ topics:
   - social-media
   - GPS
   - mobile-ux-guideline-5
-  - NPS
   - trends-on-tuesday
   - us-national-park-service
   - united-states-department-of-energy

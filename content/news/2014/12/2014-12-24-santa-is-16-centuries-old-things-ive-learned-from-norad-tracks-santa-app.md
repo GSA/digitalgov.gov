@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - api
-  - NORAD
-  - North American Defense Command
   - thursday-mobile-products
   - united-states-department-of-defense
 ---

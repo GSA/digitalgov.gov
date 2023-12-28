@@ -8,8 +8,6 @@ authors:
 topics:
   - api
   - data
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-data
   - united-states-census-bureau
   - wednesday-api-briefing

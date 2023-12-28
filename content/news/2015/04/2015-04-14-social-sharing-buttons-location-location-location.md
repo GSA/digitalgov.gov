@@ -8,8 +8,6 @@ authors:
 topics:
   - metrics
   - social-media
-  
-  - nih
   - social-media
   - social-media-metrics
 ---

@@ -6,7 +6,6 @@ summary: 'If you and your organization don’t already have a content strategy, 
 authors:
   - tyrus-manuel
 topics:
-  - communities
   - content
   - aoi
   - content-strategy

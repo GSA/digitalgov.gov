@@ -13,7 +13,6 @@ topics:
   - challenges-and-prize-competitions
   - data
   - mobile-apps
-  - NIST
   - trends-on-tuesday
   - us-environmental-protection-agency
 ---

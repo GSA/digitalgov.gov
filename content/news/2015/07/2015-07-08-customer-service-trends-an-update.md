@@ -17,8 +17,6 @@ topics:
   - digital-analytics-program
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - personas
   - social-media
   - us-department-of-veterans-affairs

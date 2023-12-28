@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - NIST
   - prizes-and-competitions
   - us-agency-for-international-development
   - united-states-department-of-energy

@@ -10,9 +10,6 @@ topics:
   - monthly-theme
   - 18f
   - api
-  - NIAID
-  - nih
-  - NLM
 ---
 
 {{< legacy-img src="2015/01/600-x-314-NIH-3D-Print-Exchange-3D-model-and-Objex-Unlimited-HIV-printed-on-ProJet-4500.jpg" alt="NIH 3D Print Exchange 3D model and Objex Unlimited HIV printed on ProJet 4500" >}}

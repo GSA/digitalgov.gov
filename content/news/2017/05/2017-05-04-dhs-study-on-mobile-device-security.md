@@ -10,7 +10,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - NIST
+  - mobile
   - security
   - united-states-department-of-homeland-security
 ---

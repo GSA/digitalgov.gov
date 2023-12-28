@@ -6,8 +6,6 @@ summary: 'You don&#8217;t have to try too hard to get people into the water duri
 topics:
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - thursday-mobile-products
 ---
 

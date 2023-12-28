@@ -10,8 +10,6 @@ topics:
   - monthly-theme
   - ios
   - mobile-ux-guideline-5
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - us-department-of-veterans-affairs
   - usa-gov
 ---

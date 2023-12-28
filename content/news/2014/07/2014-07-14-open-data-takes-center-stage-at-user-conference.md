@@ -8,8 +8,6 @@ authors:
 topics:
   - data
   - data-visualization
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - united-states-census-bureau
 ---
 

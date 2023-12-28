@@ -11,7 +11,6 @@ topics:
   - api
   - search
   - social-media
-  - NLM
   - us-securities-and-exchange-commission
 ---
 

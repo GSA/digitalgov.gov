@@ -8,7 +8,6 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - NIST
   - social-media
   - terms-of-service
 ---

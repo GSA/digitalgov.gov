@@ -12,7 +12,6 @@ topics:
   - challenges-and-prize-competitions
   - mobile-ux-guideline-5
   - native-apps
-  - NIST
   - open-data
   - thursday-mobile-products
   - us-environmental-protection-agency

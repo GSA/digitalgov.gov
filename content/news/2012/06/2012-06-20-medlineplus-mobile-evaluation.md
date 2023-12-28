@@ -9,7 +9,6 @@ topics:
   - metrics
   - mobile
   - mobile-gov-experience
-  - nih
 ---
 
 _[Mobile Gov Experiences]({{< ref "/topics/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine.__

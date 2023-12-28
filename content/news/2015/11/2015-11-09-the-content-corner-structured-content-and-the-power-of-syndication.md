@@ -14,7 +14,6 @@ topics:
   - COPE
   - mobile
   - mobile-ux-guideline-1
-  - nih
   - open-and-structured-content-models
   - structured-content
   - the-content-corner

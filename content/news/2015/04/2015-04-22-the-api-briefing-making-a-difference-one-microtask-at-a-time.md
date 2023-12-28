@@ -14,8 +14,6 @@ topics:
   - crowdsourcing
   - FCPCCS
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-government
   - united-states-department-of-energy
   - united-states-geological-survey

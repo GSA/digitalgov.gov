@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  - NIST
   - security
   - social-media
   - social-media-metrics

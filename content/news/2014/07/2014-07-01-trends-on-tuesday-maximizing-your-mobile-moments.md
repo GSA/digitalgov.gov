@@ -10,9 +10,6 @@ topics:
   - mobile-app-development-program
   - mobile-apps
   - mobile-ux-guideline-5
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - NWS
   - trends-on-tuesday
 ---
 

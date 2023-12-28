@@ -17,9 +17,6 @@ topics:
   - crowdfunding
   - crowdsourcing
   - FCPCCS
-  - NIST
-  - NPS
-  - nsf
   - us-environmental-protection-agency
   - us-national-park-service
   

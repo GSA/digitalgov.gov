@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - accessibility
-  - NWS
   - social-media
   - socialgov
   - the-content-corner

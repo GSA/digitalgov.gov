@@ -11,7 +11,6 @@ topics:
   - api
   - mobile-apps
   - national-day-of-civic-hacking
-  - nsf
   - us-environmental-protection-agency
   - us-small-business-administration
   - united-states-census-bureau

@@ -10,9 +10,6 @@ authors:
 topics:
   - data
   - data-gov
-  - national-oceanic-and-atmospheric-administration
-  - NIST
-  - NOAA
   - open-data
   - united-states-census-bureau
   

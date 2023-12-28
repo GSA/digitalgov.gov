@@ -8,8 +8,6 @@ authors:
   - joanna-karpinski-widzer
 topics:
   - user-experience
-  - nih
-  - NLM
 ---
 
 Over the course of the last year, the National Library of Medicine (NLM) has sought to [increase its use of usability testing to improve the user experience]({{< ref "2015-01-02-past-present-future-usability-testing-at-the-national-library-of-medicine.md" >}}) on our Web resources. To do this, we conducted [hallway usability testing]({{< ref "open-opportunities-task-creator-toolkit.md" >}})10-tips-for-creating-the-perfect-open-opportunity-task/) at the [NIH Clinical Center on NLM&#8217;s site search feature](https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?query=&v%3Aproject=nlm-main-website). Our goal is to update the user interface and improve user satisfaction with results. We set out to learn the specific difficulties and successes users have with our search interface through user testing.

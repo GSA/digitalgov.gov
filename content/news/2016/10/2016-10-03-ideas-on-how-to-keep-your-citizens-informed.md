@@ -8,15 +8,10 @@ authors:
 topics:
   - content
   - product-management
-  
-  
   - content
   - content-strategy
   - content-syndication
-  
-  
-  
-  - nih
+  - open-government
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---

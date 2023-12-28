@@ -10,7 +10,6 @@ topics:
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - NPS
   - us-department-of-education
   - us-environmental-protection-agency
   - us-national-park-service

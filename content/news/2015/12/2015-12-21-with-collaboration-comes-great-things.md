@@ -8,9 +8,6 @@ authors:
 topics:
   - code
   - content-syndication
-  
-  
-  - nih
   - open-and-structured-content-models
   - structured-content
   - united-states-department-of-health-and-human-services

@@ -11,7 +11,6 @@ topics:
   - accessibility
   - api
   - challenges
-  - communities
   - content
   - data
   - design

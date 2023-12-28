@@ -7,7 +7,6 @@ authors:
   - kristen-onell
 topics:
   - api
-  - communities
   - content
   - aoi
   - api
@@ -15,7 +14,6 @@ topics:
   
   - gsa
   - metadata
-  - nih
   - open-and-structured-content-models
   - structured-content
   - united-states-census-bureau

@@ -13,7 +13,6 @@ topics:
   - mobile
   - mobile-code-catalog
   - mobile-gov
-  - NOAA
   - responsive-web-design
   - trends-on-tuesday
   - user-experience

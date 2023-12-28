@@ -6,7 +6,6 @@ summary: 'As a task creator with an ambitious agenda and limited resources, I’
 authors:
   - dannielle-blumenthal
 topics:
-  - NIST
   - open-opportunities-program
 ---
 

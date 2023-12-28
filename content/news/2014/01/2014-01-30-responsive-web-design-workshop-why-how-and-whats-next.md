@@ -10,7 +10,6 @@ topics:
   - mobile
   - gsa
   - mobile
-  - nih
   - responsive-web-design
   - us-department-of-education
 ---

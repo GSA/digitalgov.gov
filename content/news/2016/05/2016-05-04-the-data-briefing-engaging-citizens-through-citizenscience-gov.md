@@ -10,9 +10,6 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  
-  
-  - NPS
   - the-data-briefing
   - US Department of Agriculture
   - us-environmental-protection-agency

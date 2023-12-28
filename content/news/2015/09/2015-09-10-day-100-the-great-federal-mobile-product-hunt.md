@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - nih
   - thursday-mobile-products
   - us-department-of-veterans-affairs
   - united-states-department-of-health-and-human-services

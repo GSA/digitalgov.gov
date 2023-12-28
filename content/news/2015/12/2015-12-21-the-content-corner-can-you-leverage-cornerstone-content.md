@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  
-  - NPS
   - seo
   - the-content-corner
   - us-national-park-service

@@ -13,7 +13,6 @@ topics:
   - mobile-ux-guideline-5
   - multilingual
   - multilingual-community
-  - nih
   - thursday-mobile-products
 
 ---

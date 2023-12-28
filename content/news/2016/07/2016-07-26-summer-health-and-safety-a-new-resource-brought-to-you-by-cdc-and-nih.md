@@ -15,8 +15,6 @@ topics:
   - content-models
   - content-strategy
   - content-syndication
-  
-  - nih
   - open-and-structured-content-models
 ---
 

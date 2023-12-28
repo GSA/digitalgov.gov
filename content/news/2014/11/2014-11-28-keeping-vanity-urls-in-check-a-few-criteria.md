@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - NIAID
   - United States Patent and Trademark Office
   - USPTO
   - web-content-managers-forum

@@ -13,7 +13,6 @@ topics:
   - infrastructure
   - internet-of-things
   - IoT
-  - NIST
   - security
 ---
 

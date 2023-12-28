@@ -9,7 +9,6 @@ topics:
   - mobile
   - mobile
   - mobile-apps
-  - NPS
   - social-media
   - thursday-mobile-products
   - us-national-park-service

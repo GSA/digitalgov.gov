@@ -13,8 +13,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
+  - open-government
   - us-small-business-administration
   - united-states-department-of-health-and-human-services
   - united-states-geological-survey

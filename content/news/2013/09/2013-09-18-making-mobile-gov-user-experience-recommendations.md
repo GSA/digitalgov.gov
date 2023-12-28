@@ -9,7 +9,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov-community-of-practice
-  - nih
   - us-department-of-labor
   - user-experience
   

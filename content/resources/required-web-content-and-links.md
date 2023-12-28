@@ -61,7 +61,7 @@ On your primary agency site, include information about the agency with descripti
 - information as required under the No Fear Act of 2002 _([more on this below](#equal-employment))_
 - information associated with the agency’s implementation of the Information Quality Act
 
-Secondary agency sites also need an "About" page that describes your site and links to your own website policies. It should also link to the primary agency's "About" page. 
+Secondary agency sites also need an "About" page that describes your site and links to your own website policies. It should also link to the primary agency's "About" page.
 
 {{< box >}}
 ##### Suggested link text:

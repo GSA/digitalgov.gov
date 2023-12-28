@@ -11,7 +11,6 @@ topics:
   - mobile-code-catalog
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
-  - NPS
   - open-opportunities-program
   - open-source
   - us-department-of-labor

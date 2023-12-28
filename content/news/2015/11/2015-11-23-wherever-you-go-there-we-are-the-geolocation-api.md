@@ -11,7 +11,6 @@ topics:
   - mobile
   - api
   - mobile
-  - NPS
   - us-national-park-service
 ---
 

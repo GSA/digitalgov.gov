@@ -7,8 +7,6 @@ authors:
   - mike-kruger
 topics:
   - social-media
-  - NOAA
-  - NWS
   - social-media
 ---
 

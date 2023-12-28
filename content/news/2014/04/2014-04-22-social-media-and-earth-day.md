@@ -11,9 +11,6 @@ authors:
 topics:
   - social-media
   - gsa
-  - nih
-  - NOAA
-  - nsf
   - peace-corps
 ---
 

@@ -9,14 +9,8 @@ topics:
   - data
   - product-management
   - content
-  - data
-  - national-oceanic-and-atmospheric-administration
-  - nih
-  - NLM
-  - NOAA
-  - nsf
+  - open-government
   - research
-  - US Department of Agriculture
   - us-department-of-education
   - us-department-of-veterans-affairs
   - us-environmental-protection-agency

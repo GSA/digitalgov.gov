@@ -10,7 +10,6 @@ topics:
   - analytics
   - dap
   - data-gov
-  - NPS
   - open-data
   - social-media-metrics
   - us-environmental-protection-agency

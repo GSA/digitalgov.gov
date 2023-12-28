@@ -9,7 +9,6 @@ topics:
   - data
   - apps-challenges
   - data
-  - NIST
   - open-data
   - open-source
   - united-states-department-of-energy

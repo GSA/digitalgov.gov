@@ -12,7 +12,6 @@ topics:
   - monthly-theme
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5
-  - nih
   - responsive-web-design
   - US Department of Agriculture
   - us-environmental-protection-agency

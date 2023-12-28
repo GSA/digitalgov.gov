@@ -7,8 +7,6 @@ authors:
   - lorrie-cranor
 topics:
   - data
-  - data
-  - 'National Telecommunications and Information Administration'
   - open-data
   - security
 

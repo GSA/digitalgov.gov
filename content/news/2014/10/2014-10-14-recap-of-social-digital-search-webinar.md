@@ -11,7 +11,6 @@ topics:
   - social-media
   - video
   - search
-  - NLM
   - socialgov-community
 ---
 

@@ -9,7 +9,6 @@ topics:
   - monthly-theme
   - content-strategy
   - gsa
-  - nih
   - social-media
 ---
 

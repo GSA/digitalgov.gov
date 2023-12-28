@@ -8,7 +8,7 @@ authors:
   - dr-dj-patil
 topics:
   - data
-  - nih
+  - open-data  
 ---
 
 **Memorandum**: A Six Month Update on How We’ve Been Using Data, and How it Benefits All Americans

@@ -21,7 +21,6 @@ topics:
   - data
   - mobile
   - us-national-park-service
-  - nps
   - user-research
   - video
   - wireless

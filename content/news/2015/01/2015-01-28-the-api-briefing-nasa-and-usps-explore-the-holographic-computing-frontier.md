@@ -9,8 +9,6 @@ topics:
   - api
   - augmented-reality
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - US Department of Agriculture
   - United States Postal Service
   - USDA
