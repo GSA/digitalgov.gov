@@ -23,6 +23,7 @@ topics:
   - National Library of Medicine
   - ODNI
   - peace-corps
+  - open-government
   - socialgov-community
   - us-department-of-education
   - us-department-of-the-interior
