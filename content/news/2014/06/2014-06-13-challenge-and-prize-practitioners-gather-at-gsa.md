@@ -16,7 +16,7 @@ topics:
   - nasa
   - National Eye Institute
   - national-science-foundation
-  - recaps
+  - challenge-and-prize-competition
   - united-states-department-of-housing-and-urban-development
   - white-house-office-of-science-and-technology-policy
 ---
