@@ -12,7 +12,7 @@ topics:
   - HHS
   - national-institutes-of-health
   - National Library of Medicine
-  - open-source
+  - software-development
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
