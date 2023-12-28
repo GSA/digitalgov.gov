@@ -222,7 +222,7 @@ The abbreviation "i.e." stands for the Latin phrase, _id est_, which means "that
 
 The abbreviation "e.g." stands for the Latin phrase _exempli gratia_, which means "for example" &mdash; use it to list one or more examples.
 
-> Since 1966, _Star Trek_, which falls under real sci-fi, has always had both a diverse cast and set of characters (e.g., human-alien hybrids such as Mr. Spock, Deanna Troi, and B'Elanna Torres) to portray its creator's vision for a society with IDIC&mdash;"infinite diversity in infinite combinations" (sort of a precursor to today's diversity, equity, inclusion, accessibility, and belonging).
+> Since 1966, _Star Trek_, which falls under science fiction, has always had very diverse representation (e.g., lead roles for women and people of color, people with disabilities, and folks across the LGBTQIA+ community) across its 11 TV series, 13 films, and 2 spin-off short-film TV series to portray its creator's vision for a society with "infinite diversity in infinite combinations" (IDIC).
 
 #### versus
 
