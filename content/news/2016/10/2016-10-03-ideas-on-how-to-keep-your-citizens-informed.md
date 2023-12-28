@@ -16,7 +16,7 @@ topics:
   - fda
   - HHS
   - national-institutes-of-health
-  - us-food-and-drug-administration
+  - open-government
   - united-states-department-of-health-and-human-services
 ---
 
