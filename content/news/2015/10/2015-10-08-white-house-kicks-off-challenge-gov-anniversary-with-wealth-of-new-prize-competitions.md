@@ -14,6 +14,7 @@ topics:
   - epa
   - nasa
   - OSTP
+  - challenge-and-prize-competition
   - us-department-of-education
   - us-environmental-protection-agency
   - us-national-park-service
