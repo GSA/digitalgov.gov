@@ -11,7 +11,6 @@ authors:
 topics:
   - social-media
   - gsa
-  - office-of-naval-research
   - peace-corps
 ---
 

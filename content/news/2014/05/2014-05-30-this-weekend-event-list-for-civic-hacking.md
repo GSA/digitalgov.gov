@@ -11,7 +11,7 @@ topics:
   - data-gov
   - national-day-of-civic-hacking
   - us-department-of-education
-  - us-department-of-labor
+  - open-government
   - us-environmental-protection-agency
   - united-states-census-bureau
   - united-states-department-of-health-and-human-services

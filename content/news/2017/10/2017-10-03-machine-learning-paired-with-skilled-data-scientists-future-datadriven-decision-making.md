@@ -11,6 +11,8 @@ topics:
   - big-data
   - data
   - emerging-tech
+  - open-data
+  - analytics
   - trends-on-tuesday
   - united-states-department-of-health-and-human-services
   - rpa

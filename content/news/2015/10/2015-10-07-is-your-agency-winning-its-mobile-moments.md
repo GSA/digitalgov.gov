@@ -9,6 +9,7 @@ topics:
   - mobile
   - monthly-theme
   - Federal CrowdSource Mobile Testing Program
+  - mobile
   - united-states-department-of-defense
 ---
 

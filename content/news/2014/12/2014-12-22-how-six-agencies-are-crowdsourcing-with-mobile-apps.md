@@ -10,6 +10,8 @@ topics:
   - mobile
   - monthly-theme
   - crowdsourcing
+  - open-government
+  - mobile
 ---
 
 Mobile devices allow the public to interact with government in new and game-changing ways and users [expect those interactions]({{< ref "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}). As a result, many agencies are taking advantage of native apps for crowdsourcing projects.

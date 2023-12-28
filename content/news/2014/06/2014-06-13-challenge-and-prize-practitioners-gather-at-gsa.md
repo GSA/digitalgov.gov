@@ -11,6 +11,7 @@ topics:
   - challenge-gov
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
+  - challenges-and-prize-competitions
   - innovation
   - united-states-department-of-housing-and-urban-development
 ---

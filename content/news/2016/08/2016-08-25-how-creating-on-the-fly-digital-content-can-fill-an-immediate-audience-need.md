@@ -12,6 +12,7 @@ topics:
   - policy
   - content
   - content-strategy
+  - user-experience
 ---
 
 When some U.S. athletes at this month’s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be.
