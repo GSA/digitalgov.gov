@@ -27,7 +27,7 @@ topics:
   - national-science-foundation
   - smithsonian-institution
   - us-department-of-education
-  - us-department-of-labor
+  - open-government
   - us-environmental-protection-agency
   - united-states-census-bureau
   - united-states-department-of-health-and-human-services
