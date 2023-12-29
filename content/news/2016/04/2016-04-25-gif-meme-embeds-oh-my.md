@@ -7,7 +7,6 @@ authors:
   - kyle-s-richardson
 topics:
   - content
-  - firstnet
   - the-content-corner
 ---
 

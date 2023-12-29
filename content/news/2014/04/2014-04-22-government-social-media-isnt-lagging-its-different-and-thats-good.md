@@ -10,10 +10,8 @@ topics:
   - social-media
   - aoi
   - api
-  - national-archives-and-records-administration
   - socialgov
   - socialgov-community
-  - us-coast-guard
 ---
 
 <p style="text-align: center">

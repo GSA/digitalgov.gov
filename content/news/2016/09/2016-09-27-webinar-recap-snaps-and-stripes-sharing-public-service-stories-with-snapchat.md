@@ -18,10 +18,8 @@ topics:
   - content
   - content-strategy
   - customer-experience
-  - recaps
   - section-508
   - social-media
-  - usagov
   - user-experience
   - video
 

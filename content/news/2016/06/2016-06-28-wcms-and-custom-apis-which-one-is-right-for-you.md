@@ -10,14 +10,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - api
-  - CMS
   - code
-  - Consumer Product Safety Commission
-  - mobile
-  - open
-  - open-source
-  - white-house
 ---
 
 ****[Gray Brooks]({{< ref "/authors/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< ref "/about/digitalgov-university.md" >}}) presentation, [Introduction to APIs]({{< ref "2012-07-26-introduction-to-apis.md" >}}).

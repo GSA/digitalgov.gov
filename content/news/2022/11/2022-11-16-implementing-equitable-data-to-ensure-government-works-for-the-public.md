@@ -7,7 +7,6 @@ summary: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to 
 
 # See all topics at https://digital.gov/topics
 topics:
-  - ostp
   - infrastructure
 
 # See all authors at https://digital.gov/authors

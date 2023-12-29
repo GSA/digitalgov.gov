@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - DOE
   - united-states-department-of-energy
   - wednesday-api-briefing
 ---

@@ -6,7 +6,6 @@ summary: ' Here Comes Santa Claus, Here Comes Santa Claus, Right Down iOS/Window
 topics:
   - mobile
   - mobile-apps
-  - NORAD
   - thursday-mobile-products
 ---
 

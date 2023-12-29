@@ -8,20 +8,11 @@ authors:
 topics:
   - customer-experience
   - Federal CrowdSource Mobile Testing Program
-  - HHS
-  - ICE
   - mobile-gov
-  - NCI
-  - nih
   - open-and-structured-content-models
-  - OPM
   - socialgov-community
-  - SSA
   - trends-on-tuesday
-  - us-department-of-state
-  - us-food-and-drug-administration
   - united-states-census-bureau
-  - USDA
   - user-experience
 
 ---

@@ -8,14 +8,8 @@ authors:
 topics:
   - mobile
   - api
-  - cdc
-  - Census
-  - centers-for-disease-control-and-prevention
   - thursday-mobile-products
-  - US Department of Agriculture
   - united-states-census-bureau
-  - usagov
-  - USDA
 ---
 
 {{< legacy-img src="2014/11/600-x436-Turkey-and-dog-crspix-iStock-Thinkstock-462138213.jpg" alt="Closeup on a Thanksgiving turkey, with a large white dog eyeing the food in the background" caption="" >}} 

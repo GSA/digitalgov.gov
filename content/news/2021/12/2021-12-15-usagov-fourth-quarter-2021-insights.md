@@ -11,7 +11,6 @@ deck: "**USAGov’s Fourth Quarter 2021 Insights**&mdash;From July to September
 summary: summ
 # See all topics at https://digital.gov/topics
 topics:
-  - usa-gov
   - metrics
   - infographic
 slug: usagov-fourth-quarter-2021-insights

@@ -18,7 +18,6 @@ topics:
   - digital-analytics-program
   - lean
   - the-data-briefing
-  - us-general-services-administration
   - user-centered-design
 ---
 

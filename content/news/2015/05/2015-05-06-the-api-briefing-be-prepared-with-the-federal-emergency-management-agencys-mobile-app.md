@@ -8,10 +8,6 @@ authors:
 topics:
   - api
   - mobile
-  - api
-  - federal-emergency-management-agency
-  - fema
-  - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5
   - native-app

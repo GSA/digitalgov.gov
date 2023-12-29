@@ -28,9 +28,6 @@ summary: "**Transition Post 1: General Resources from NARA and
 # See all topics at https://digital.gov/topics
 topics:
   - records-management
-  - nara
-  - national-archives-and-records-administration
-  - us-general-services-administration
 slug: transition-post-1-general-resources-from-nara-and-gsa
 # Controls how this page appears across the site
 # 0 -- hidden

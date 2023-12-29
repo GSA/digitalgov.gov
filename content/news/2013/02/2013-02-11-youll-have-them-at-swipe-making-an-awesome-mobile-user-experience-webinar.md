@@ -8,7 +8,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - user-experience
-  - VA
 ---
 
 [{{< legacy-img src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}](https://sites.usa.gov/howtomobile/files/2011/05/PTSD_App.jpg)Learn how to create amazing and engaging [Mobile Gov User Experiences]({{< ref "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}} "Mobile Gov User Experience Resources and Design Tools") by watching this webinar.

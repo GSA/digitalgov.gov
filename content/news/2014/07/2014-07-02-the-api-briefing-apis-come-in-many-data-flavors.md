@@ -7,22 +7,12 @@ authors:
   - bbrantley
 topics:
   - api
-  - Census
-  - DOL
-  - FAA
-  - Federal Aviation Administration
   - mobile-apps
   - mobile-code-catalog
-  - OPM
-  - us-department-of-labor
-  - united-states-census-bureau
-  - united-states-geological-survey
-  - united-states-office-of-personnel-management
-  - USGS
   - wednesday-api-briefing
 ---
 
-{{< legacy-img src="2014/06/250-x-167-23891851-3-ice-cream-cones-Jupiterimages-Photos-com-Thinkstock-89697244.jpg" alt="Three different flavors of ice cream cones, on a blue gradient background" caption="" >}} 
+{{< legacy-img src="2014/06/250-x-167-23891851-3-ice-cream-cones-Jupiterimages-Photos-com-Thinkstock-89697244.jpg" alt="Three different flavors of ice cream cones, on a blue gradient background" caption="" >}}
 
 This week, we will look at three different APIs that demonstrate how agencies use different technologies to serve out data. Presenting data in various formats encourages developers to build on federal APIs. As past columns have shown, the innovative apps created with federal data are quickly growing.
 

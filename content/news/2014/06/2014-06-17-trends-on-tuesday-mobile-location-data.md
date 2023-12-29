@@ -10,12 +10,8 @@ topics:
   - social-media
   - GPS
   - mobile-ux-guideline-5
-  - NPS
   - trends-on-tuesday
-  - us-national-park-service
   - united-states-department-of-energy
-  - United States Postal Service
-  - USPS
 ---
 
 {{< legacy-img src="2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." >}}Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to <a title="Thinknear" href="http://www.mobilemarketingwatch.com/mobile-marketers-are-you-near-me-now-41998/" target="_blank">Thinknear</a>, a leader in targeted mobile advertising, that future may soon be a reality.

@@ -6,24 +6,8 @@ summary: 'This week, President Obama will travel to SxSW (South by Southwest) to
 authors:
   - andreanocesigritz
 topics:
-  - software-engineering
-  - innovation
-  - crowdsourcing-and-citizen-science
-  - mobile
-  - analytics-usa-gov
-  - CFPB
-  - Education
-  - FEC
-  - federal-election-commission
-  - HHS
-  - MCC
-  - nasa
   - open-data
-  - us-department-of-education
-  - us-department-of-labor
-  - united-states-department-of-health-and-human-services
-  - United States Patent and Trademark Office
-  - USPTO
+  
 ---
 
 This week, President Obama will [travel to SxSW (South by Southwest)](https://www.whitehouse.gov/blog/2016/03/05/weekly-address-sxsw) to talk about how we can use technology to tackle tough challenges. This underscores how important data—government data, in particular—is to improving and fueling our democracy forward. 2015 saw many [open data milestones](https://www.whitehouse.gov/blog/2016/02/05/open-data-empowering-americans-make-data-driven-decisions) by agencies, including:

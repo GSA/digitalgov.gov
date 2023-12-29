@@ -15,7 +15,6 @@ topics:
   - accessibility
   - multilingual
   - multilingual-community
-  - usagov
   - user-centered-design
   - user-experience
   

@@ -7,12 +7,10 @@ authors:
   - david-kaufmann
 topics:
   - metrics
-  - our-work
   - analytics
   - dap
   - digital-analytics-program
   - usability
-  - usagov
   - user-experience
   
 ---

@@ -8,14 +8,9 @@ authors:
 topics:
   - api
   - content
-  - our-work
   - social-media
   - video
   - search
-  - federal-register
-  - National Library of Medicine
-  - NLM
-  - recaps
   - socialgov-community
 ---
 

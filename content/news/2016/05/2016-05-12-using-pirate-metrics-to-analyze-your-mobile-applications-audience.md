@@ -14,7 +14,6 @@ topics:
   - mobile-gov
   - native-apps
   - prototype
-  - recaps
 
 ---
 

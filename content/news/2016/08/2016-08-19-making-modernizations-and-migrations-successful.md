@@ -12,10 +12,6 @@ topics:
   - innovation
   - M3 Framework
   - Modernization and Migration Management Framework
-  - Office of Management and Budget
-  - OMB
-  - us-general-services-administration
-  - white-house
 
 ---
 

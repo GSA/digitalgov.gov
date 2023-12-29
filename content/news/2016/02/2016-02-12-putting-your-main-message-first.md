@@ -9,8 +9,6 @@ topics:
   - content
   - plain-language
   - plain-language-community-of-practice
-  - US Citizenship and Immigration Service
-  - USCIS
 ---
 
 Want to learn how to clearly communicate your message? Watch the new “[Put Your Main Message First](https://www.youtube.com/watch?v=G-SNW6ye9rU&list=PLADE80C67FDB39352&index=5)” video from U.S. Citizenship and Immigration Services (USCIS). Created by USCIS’ Office of Communications, the video teaches you about the importance of organizing your information so that your audience understands your key messages.

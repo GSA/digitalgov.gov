@@ -8,12 +8,9 @@ authors:
 topics:
   - api
   - content
-  - our-work
   - social-media
-  - CMS
   - content-management-system
   - search
-  - federal-register
   - open-data
   - open-source
 ---

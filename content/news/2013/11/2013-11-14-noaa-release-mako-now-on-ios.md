@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - NOAA
   - thursday-mobile-products
 ---
 

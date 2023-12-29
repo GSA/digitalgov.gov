@@ -17,8 +17,6 @@ topics:
   - mobile-ux-guideline-4
   - responsive-web-design
   - structured-content
-  - transportation-security-administration
-  - TSA
   - user-experience
   
 ---

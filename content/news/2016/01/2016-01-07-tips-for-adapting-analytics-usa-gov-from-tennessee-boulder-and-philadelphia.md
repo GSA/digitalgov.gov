@@ -7,9 +7,7 @@ authors:
   - melody-kramer
 topics:
   - metrics
-  - our-work
   - analytics
-  - analytics-usa-gov
   - dap
   - digital-analytics-program
 ---

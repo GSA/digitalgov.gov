@@ -10,13 +10,8 @@ topics:
   - mobile
   - apps-challenges
   - challenges-and-prize-competitions
-  - epa
   - mobile-apps
-  - national-institute-of-standards-and-technology
-  - National Institute on Drug Abuse
-  - NIST
   - trends-on-tuesday
-  - us-environmental-protection-agency
 ---
 
 Agencies have used an [open data competition approach]({{< ref "2015-08-13-nist-hosts-reference-data-challenge-to-create-mobile-apps.md" >}}) in their quest to provide [anytime, anywhere government]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}). For example, in 2011, the Environmental Protection Agency (EPA) conducted the [Apps for the Environment challenge](http://developer.epa.gov/apps-for-the-environment-lessons-learned/) and has a [hub for apps created](http://developer.epa.gov/category/apps/) using EPA data. {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 

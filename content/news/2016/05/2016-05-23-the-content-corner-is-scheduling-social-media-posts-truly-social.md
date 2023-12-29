@@ -11,7 +11,6 @@ topics:
   - social-media
   - user-experience
   - customer-experience
-  - firstnet
   - social-media
   - the-content-corner
 ---

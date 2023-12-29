@@ -9,12 +9,10 @@ authors:
 topics:
   - api
   - mobile
-  - GitHub
+  
   - mobile-ux-guideline-5
   - open-source
   - peace-corps
-  - us-digital-service
-  - USDS
 
 ---
 

@@ -8,14 +8,10 @@ authors:
 topics:
   - artificial-intelligence
   - big-data
-  - darpa
   - emerging-tech
-  - defense-advanced-research-projects-agency
-  - hhs
-  - nasa
-  - national-aeronautics-and-space-administration
+  - open-data
+  - analytics
   - trends-on-tuesday
-  - united-states-department-of-health-and-human-services
   - rpa
 featured_image:
   uid: 3d-rendering-of-robot-face-zapp2photo-istock-thinkstock-675938062

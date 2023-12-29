@@ -16,7 +16,6 @@ summary: "For the last few years during Hispanic Heritage Month, USAGov en Espa√
   6, 2022 at 1 PM ET."
 # See all topics at https://digital.gov/topics
 topics:
-  - usa-gov
   - multilingual
 # See all authors at https://digital.gov/authors
 authors: []

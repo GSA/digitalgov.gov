@@ -11,9 +11,7 @@ authors:
   - julia-winn
   - colin-craig
 topics:
-  - our-work
   - analytics
-  - analytics-usa-gov
   - dap
   - digital-analytics-program
 

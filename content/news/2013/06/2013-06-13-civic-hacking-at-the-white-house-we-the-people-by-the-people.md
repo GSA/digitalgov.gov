@@ -9,7 +9,6 @@ topics:
   - code
   - national-day-of-civic-hacking
   - open-government
-  - white-house
 ---
 
 [{{< legacy-img src="2013/06/white-house-photo-331x220.png" alt="White House Hack Day Image" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/white-house-photo-331x220.png)On June 1st and 2nd, more than 11,000 civic activists, technology experts, and entrepreneurs around the country came together for the National Day of Civic Hacking. Civic activists, technology experts, and entrepreneurs in 83 cities developed software to help others in their own neighborhoods and across the country. More than twenty federal agencies took part by submitting challenges for participants to tackle and opening up datasets for them to use.

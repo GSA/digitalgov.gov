@@ -11,8 +11,6 @@ topics:
   - mobile
   - mobile
   - mobile-apps
-  - national-institute-of-standards-and-technology
-  - NIST
   - the-data-briefing
 
 ---

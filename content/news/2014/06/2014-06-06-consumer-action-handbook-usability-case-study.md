@@ -16,7 +16,6 @@ topics:
   - usability-case-study
   - usability-testing
   - user-experience
-  - usagov
 
 ---
 

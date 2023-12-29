@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - responsive-web-design
-  - us-department-of-education
   - web-content-managers-forum
 ---
 

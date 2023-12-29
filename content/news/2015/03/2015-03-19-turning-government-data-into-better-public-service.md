@@ -10,7 +10,6 @@ authors:
   - charles-worthington
 topics:
   - metrics
-  - our-work
   - analytics
   - dap
   - digital-analytics-program

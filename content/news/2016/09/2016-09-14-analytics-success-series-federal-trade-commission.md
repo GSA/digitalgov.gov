@@ -7,12 +7,9 @@ authors:
   - chris-noonan-sturm
 topics:
   - metrics
-  - our-work
   - analytics
   - dap
   - digital-analytics-program
-  - Federal Trade Commission
-  - FTC
   - metrics
   - user-experience
   

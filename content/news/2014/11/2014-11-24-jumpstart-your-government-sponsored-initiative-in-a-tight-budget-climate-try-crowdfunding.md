@@ -10,7 +10,6 @@ topics:
   - product-management
   - social-media
   - crowdfunding
-  - us-department-of-state
 ---
 
 {{< legacy-img src="2014/11/600-x-450-Magnifying-Glass-Concept-Tashatuvango-iStock-Thinkstock-459962367.jpg" alt="Magnifying Glass Concept" caption="" >}} 

@@ -7,13 +7,10 @@ authors:
   - eden-savino
 topics:
   - social-media
-  - GAO
   - open-source
-  - us-government-accountability-office
-
 ---
 
-{{< legacy-img-right src="2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}} 
+{{< legacy-img-right src="2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}}
 
 We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses.
 

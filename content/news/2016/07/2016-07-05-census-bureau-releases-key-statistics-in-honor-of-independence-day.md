@@ -6,8 +6,7 @@ summary: 'On July 4, 1776, the Continental Congress approved the Declaration of 
 authors:
   - the-commerce-blog
 topics:
-  - Census
-  - united-states-census-bureau
+  - agile
 ---
 
 On July 4, 1776, the Continental Congress approved the Declaration of Independence, setting the 13 colonies on the road to freedom as a sovereign nation. This most American of holidays [is] marked with typical festivities ranging from fireworks, parades and concerts to more casual family gatherings and barbecues across the country.

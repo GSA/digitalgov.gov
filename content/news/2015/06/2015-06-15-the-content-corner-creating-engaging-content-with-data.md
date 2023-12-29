@@ -7,14 +7,10 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
   - big-data
-  - BLS
-  - Census
   - content-strategy
   - open-data
   - the-content-corner
-  - us-bureau-of-labor-statistics
   - united-states-census-bureau
 ---
 

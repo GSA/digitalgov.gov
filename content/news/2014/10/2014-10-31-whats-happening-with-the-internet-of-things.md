@@ -8,13 +8,7 @@ authors:
 topics:
   - product-management
   - mobile
-  - our-work
-  - DOT
-  - Federal Trade Commission
-  - FTC
   - internet-of-things
-  - NIST
-  - united-states-department-of-transportation
 ---
 
 {{< legacy-img src="2014/10/600-x-450-Image-of-tablet-with-city-urfinguss-iStock-Thinkstock-456860415.jpg" alt="Image of tablet with city" caption="" >}}

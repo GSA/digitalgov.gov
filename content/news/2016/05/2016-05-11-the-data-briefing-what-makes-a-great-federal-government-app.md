@@ -11,7 +11,6 @@ topics:
   - mobile-apps
   - native-apps
   - the-data-briefing
-  - usagov
 
 ---
 

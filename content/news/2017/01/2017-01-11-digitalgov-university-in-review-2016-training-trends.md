@@ -17,7 +17,6 @@ topics:
   - product-management
   - metrics
   - mobile
-  - our-work
   - social-media
   - strategy
   - policy
@@ -39,7 +38,6 @@ topics:
   - open-data
   - open-opportunities-program
   - social-media
-  - training
   - virtual-reality
   - virtual-augmented-reality-community
 

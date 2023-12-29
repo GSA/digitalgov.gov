@@ -11,8 +11,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5
-  - national-cancer-institute
-  - NCI
   - responsive-web-design
  
 ---

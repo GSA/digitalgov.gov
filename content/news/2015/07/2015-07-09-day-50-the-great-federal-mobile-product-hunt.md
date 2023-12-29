@@ -7,16 +7,9 @@ authors:
   - courtney-greenley
 topics:
   - mobile
-  - broadcasting-board-of-governors
   - Federal Mobile Products Registry
   - mobile-apps
-  - National Center for Telehealth and Technology
-  - OSHA
-  - SAMHSA
   - thursday-mobile-products
-  - us-coast-guard
-  - us-department-of-veterans-affairs
-  - us-small-business-administration
  
 ---
 

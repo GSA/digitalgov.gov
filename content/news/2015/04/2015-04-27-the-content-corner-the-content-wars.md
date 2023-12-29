@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - social-media
-  - administrative-office-of-the-united-states-courts
   - content-strategy
   - social-media
   - the-content-corner

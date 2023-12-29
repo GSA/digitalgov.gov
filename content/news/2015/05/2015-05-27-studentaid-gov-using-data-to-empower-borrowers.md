@@ -10,9 +10,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - FAFSA
-  - federal-student-aid
-  - FSA
   - mobile-friendly
   - user-experience
 ---

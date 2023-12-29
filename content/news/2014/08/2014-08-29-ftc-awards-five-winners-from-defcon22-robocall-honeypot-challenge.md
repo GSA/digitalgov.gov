@@ -8,8 +8,6 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - Federal Trade Commission
-  - FTC
 ---
 
 {{< legacy-img src="2014/08/600-x-408-Golden-honey-bee-rvbox-iStock-Thinkstock-162847094.jpg" alt="Honey dipper and pot" caption="" >}} 

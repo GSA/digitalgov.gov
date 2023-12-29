@@ -6,15 +6,9 @@ summary: 'Users have questions. Your content and website navigation can help the
 authors:
   - awichman
 topics:
-  - CFPB
-  - Consumer Financial Protection Bureau
   - customer-service
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
   - government-contact-centers
   - peace-corps
-  - us-digital-service
-  - USDS
   - user-centered-design
   - user-experience
   - user-experience-community-of-practice

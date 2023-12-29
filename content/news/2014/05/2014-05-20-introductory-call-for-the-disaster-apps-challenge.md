@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - National Defense University
   - open-source
 ---
 

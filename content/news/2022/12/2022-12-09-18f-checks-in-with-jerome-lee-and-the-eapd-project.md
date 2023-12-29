@@ -19,7 +19,7 @@ summary: 18F partnered with the Centers for Medicare and Medicaid Services (CMS)
 # See all topics at https://digital.gov/topics
 topics:
   - product-management
-  - cms
+  
 slug: 18f-checks-in-with-jerome-lee-and-the-eapd-project
 # Controls how this page appears across the site
 # 0 -- hidden

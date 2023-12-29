@@ -9,7 +9,6 @@ topics:
   - api
   - api
   - cloud
-  - fda
   - mobile-first
 ---
 

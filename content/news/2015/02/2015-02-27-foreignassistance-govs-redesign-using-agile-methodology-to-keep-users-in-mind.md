@@ -8,9 +8,7 @@ authors:
 topics:
   - content
   - agile
-  - office-of-the-us-foreign-assistance-resources
   - personas
-  - us-department-of-state
   - user-experience
 ---
 

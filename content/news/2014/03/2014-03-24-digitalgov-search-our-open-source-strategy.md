@@ -9,11 +9,7 @@ topics:
   - api
   - code
   - content
-  - our-work
-  - api
-  - Consumer Financial Protection Bureau
   - search
-  - GitHub
   - open-source
 ---
 

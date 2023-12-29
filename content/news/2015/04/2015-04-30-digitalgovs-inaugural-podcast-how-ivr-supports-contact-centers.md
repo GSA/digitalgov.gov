@@ -9,7 +9,6 @@ topics:
   - product-management
   - government-contact-centers
   - podcast
-  - usa-gov
   - voice
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 

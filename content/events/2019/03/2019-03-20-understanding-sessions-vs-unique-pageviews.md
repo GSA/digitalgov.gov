@@ -21,8 +21,6 @@ topics:
   - a-b-testing
   - metrics
   - analytics
-  - cfpb
-  - consumer-financial-protection-bureau
   - dap
   - digital-analytics-program
 

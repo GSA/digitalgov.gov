@@ -14,7 +14,6 @@ topics:
   - mobile
   - user-experience
   - accessibility
-  - uswds
   - public-sans
 featured_image:
   uid: uswds-2-illio-feature-image-black

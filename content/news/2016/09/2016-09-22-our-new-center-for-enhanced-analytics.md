@@ -9,12 +9,6 @@ topics:
   - metrics
   - analytics
   - big-data
-  - GAO
-  - metrics
-  - transportation-security-administration
-  - TSA
-  - us-government-accountability-office
-  - united-states-department-of-transportation
 ---
 
 Analytics and “<a href="https://blog.gao.gov/2015/03/10/big-data-101-using-large-scale-data-mining-to-find-fraud/" target="_blank">big data</a>” seem to be the next frontier in a number of arenas. Data researchers can use the large, real-time data sets that are available today to facilitate scientific discovery, improve the flow of traffic, and increase energy efficiency, among many other things. {{< legacy-img src="2014/04/600-x-395-Group-of-Business-People-in-Office-Building-data-statistics-metrics-on-tablet-Robert-Churchill-iStock-Thinkstock-469780051.jpg" alt="Group of Business People in an Office Building, with statistical data seen on a tablet in the foreground" caption="" >}}

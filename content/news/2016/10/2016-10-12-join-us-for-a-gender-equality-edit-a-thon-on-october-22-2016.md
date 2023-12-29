@@ -13,8 +13,6 @@ topics:
   - user-testing-and-research
   - content
   - crowdsourcing
-  - NARA
-  - national-archives-and-records-administration
   - research
 ---
 

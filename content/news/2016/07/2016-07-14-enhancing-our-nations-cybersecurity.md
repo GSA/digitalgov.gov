@@ -11,10 +11,7 @@ topics:
   - policy
   - acquisition
   - IT Schedule 70
-  - Office of Management and Budget
-  - OMB
   - security
-  - us-general-services-administration
 ---
 
 The mission of U.S. General Services Administration (GSA)&#8217;s Integrated Technology Services (ITS) is to deliver best value technology solutions to the government and the American people, and one of the most critically important capabilities that our nation currently needs is strengthened cybersecurity. We have been working with numerous other federal agencies to ensure that the government has the tools and know-how it needs to protect our systems, data, and information. {{< legacy-img src="2016/07/600-x-450-Many-red-opened-locks-around-one-closed-blue-lock-maxkabakov-iStock-Thinkstock-148650499.jpg" alt="Many red opened locks around one closed blue lock against a binary background." caption="" >}} 

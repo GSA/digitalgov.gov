@@ -12,9 +12,7 @@ topics:
   - policy
   - user-testing-and-research
   - agile
-  - best-practices
-  - Commerce
-  - department-of-commerce
+  
   - kanban
   - lean
   - sprint

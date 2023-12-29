@@ -9,7 +9,6 @@ topics:
   - emerging-tech
   - product-management
   - mobile
-  - our-work
   - social-media
   - ai
   - artificial-intelligence-for-citizen-services-community

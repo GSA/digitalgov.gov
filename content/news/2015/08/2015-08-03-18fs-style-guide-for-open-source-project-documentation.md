@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - writing
-  - GitHub
   - open-source
 ---
 

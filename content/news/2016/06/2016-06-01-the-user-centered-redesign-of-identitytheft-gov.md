@@ -11,8 +11,6 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - Federal Trade Commission
-  - FTC
   - usability-testing
   - user-centered-design
   - user-experience

@@ -12,7 +12,7 @@ topics:
   - api
   - apps-challenges
   - innovation
-  - nasa
+  
   - open-data
 ---
 

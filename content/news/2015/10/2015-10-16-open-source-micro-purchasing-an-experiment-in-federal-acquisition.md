@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - product-management
-  - GitHub
   - open-source
 ---
 

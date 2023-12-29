@@ -7,7 +7,6 @@ authors:
   - nick-marden
 topics:
   - product-management
-  - our-work
   - strategy
   - policy
   - cloud-and-infrastructure

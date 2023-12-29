@@ -8,7 +8,6 @@ authors:
   - aaron-snow
 topics:
   - code
-  - GitHub
   - acquisition
 ---
 

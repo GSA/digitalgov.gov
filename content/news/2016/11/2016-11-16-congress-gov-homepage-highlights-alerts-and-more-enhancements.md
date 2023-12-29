@@ -10,7 +10,7 @@ topics:
   - design
   - product-management
   - content
-  - Library of Congress
+  
   - user-centered-design
 ---
 

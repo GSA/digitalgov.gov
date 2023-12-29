@@ -11,8 +11,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - recaps
-  - social-and-behavioral-sciences-team
   - user-experience
 
 ---

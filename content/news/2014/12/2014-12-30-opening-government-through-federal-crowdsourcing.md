@@ -12,14 +12,8 @@ topics:
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - Consumer Product Safety Commission
   - crowdsourcing
   - FCPCCS
-  - NARA
-  - nasa
-  - national-archives-and-records-administration
-  - OSTP
-  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." caption="" >}}

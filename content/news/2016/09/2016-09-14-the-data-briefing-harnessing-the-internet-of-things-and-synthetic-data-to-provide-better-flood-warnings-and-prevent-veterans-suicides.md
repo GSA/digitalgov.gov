@@ -7,18 +7,11 @@ authors:
   - bbrantley
 topics:
   - mobile
-  - Commerce
-  - department-of-commerce
   - innovation
   - internet-of-things
   - IoT
-  - mobile
   - open-data
   - the-data-briefing
-  - us-department-of-veterans-affairs
-  - VA
-  - va-center-for-innovation
-  - VACI
 ---
 
 Two significant items in federal government data in the last few weeks:

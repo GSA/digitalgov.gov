@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - the-data-briefing
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 There are many scary tales in the world of knowledge management and data management. Tales of missing data that was lost through the administrative cracks, such as the story of the <a href="http://www.npr.org/2009/07/16/106637066/houston-we-erased-the-apollo-11-tapes" target="_blank">missing Apollo 11 moonwalk tapes</a> that most likely were erased by accident. Or the <a href="https://www.washingtonpost.com/local/lost-plans-for-wright-brothers-flying-machine-found-after-36-years/2016/04/02/e526fd56-f6b2-11e5-9804-537defcc3cf6_story.html" target="_blank">36-year search for the original Wright Brothers’ patent</a>, which was happily re-discovered this month. As more data is being created at ever-increasing speed and complexity, there will be more missing data horror stories. {{< legacy-img src="2016/04/600-x-400-Businesswoman-with-magnifier-glass-iStock-Thinkstock-178453035.jpg" alt="Businesswoman searches for data with magnifying glass." caption="" >}}

@@ -8,13 +8,10 @@ authors:
 topics:
   - api
   - code
-  - api
   - data-gov
-  - HHS
   - internet-of-things
   - json
   - open-government
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Medical-form-Slawomir-Fajer-iStock-Thinkstock-ThinkstockPhotos-167343015.jpg" alt="Medical form and laptop" caption="" >}} 

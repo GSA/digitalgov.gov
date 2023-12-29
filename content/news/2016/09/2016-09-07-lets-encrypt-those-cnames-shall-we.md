@@ -8,7 +8,6 @@ authors:
   - dmccleskey
 topics:
   - product-management
-  - our-work
   - cloud-and-infrastructure
   - search
   - infrastructure

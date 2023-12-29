@@ -10,8 +10,6 @@ authors:
   - colin-macarthur
 topics:
   - design
-  - us-digital-service
-  - USDS
   - user-experience
 ---
 

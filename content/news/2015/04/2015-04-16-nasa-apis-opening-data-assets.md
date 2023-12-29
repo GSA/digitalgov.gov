@@ -7,9 +7,6 @@ authors:
   - dan-hammer
 topics:
   - api
-  - api
-  - GitHub
-  - nasa
 ---
 
 {{< legacy-img src="2015/04/600-x-502-Mystic-Mountain-Dust-Pillars\_Image-Credit-Hubble-Legacy-Archive-NASA-ESA\_Processing-and-Copyright-David-Forteza.jpg" alt="Image Credit: Hubble Legacy Archive, NASA, ESA; Processing & Copyright: David Forteza" caption="" >}} 

@@ -7,9 +7,6 @@ authors:
   - bbrantley
 topics:
   - mobile
-  - federal-emergency-management-agency
-  - fema
-  - mobile
   - mobile-apps
   - the-data-briefing
   - user-generated-content

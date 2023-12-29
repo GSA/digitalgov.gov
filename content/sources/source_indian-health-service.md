@@ -10,6 +10,5 @@ logo: ihs
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
-  - indian-health-service
 slug: indian-health-service
 ---

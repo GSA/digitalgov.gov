@@ -8,8 +8,6 @@ authors:
 topics:
   - metrics
   - analytics
-  - CFPB
-  - Consumer Financial Protection Bureau
   - data-visualization
   - google-analytics
 ---

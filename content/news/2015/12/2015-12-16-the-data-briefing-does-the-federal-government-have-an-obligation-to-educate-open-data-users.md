@@ -8,14 +8,11 @@ authors:
 topics:
   - api
   - data-visualization
-  - DOL
-  - HHS
+  
+  
   - open-data
   - the-data-briefing
-  - us-department-of-labor
-  - united-states-department-of-health-and-human-services
-  - United States Patent and Trademark Office
-  - USPTO
+  
 ---
 
 Pop quiz on statistics and data science (answers at the end of the article):

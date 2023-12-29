@@ -6,7 +6,7 @@ summary: Interested in building an app that incorporates biofeedback data from m
 topics:
   - code
   - mobile
-  - DoD
+  
   - united-states-department-of-defense
 ---
 

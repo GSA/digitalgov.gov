@@ -9,11 +9,7 @@ authors:
 topics:
   - challenges
   - social-media
-  - CFPB
   - challenges-and-prize-competitions
-  - DOT
-  - HHS
-  - nasa
   - open-government
 ---
 

@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - design
-  - administrative-office-of-the-united-states-courts
   - content-models
   - mobile-ux-guideline-1
   - structured-content
@@ -19,7 +18,7 @@ Several months ago I discussed the concept of a [world without Web pages]({{< re
 
 ## Break It Down
 
-One of the critical aspects of our current efforts in structured data and adaptive content is the reductionary process. By taking a piece of content and breaking it down to what can be called a molecular level, we can make these individual pieces [more flexible and hence more re-usable]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}}).
+One of the critical aspects of our current efforts in structured data and adaptive content is the reductionary process. By taking a piece of content and breaking it down to what can be called a molecular level, we can make these individual pieces [more flexible and hence more re-usable](https://digital.gov/2013/07/29/how-to-create-open-structured-content/).
 
 The end goal is to create once and publish everywhere (COPE) and anywhere by pulling this structured content as needed to deliver information to a user.
 

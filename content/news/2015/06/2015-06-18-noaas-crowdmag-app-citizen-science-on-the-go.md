@@ -15,8 +15,6 @@ topics:
   - gamification
   - ios
   - mobile-ux-guideline-5
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - thursday-mobile-products
 ---
 

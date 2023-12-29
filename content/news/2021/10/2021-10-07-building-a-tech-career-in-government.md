@@ -7,7 +7,6 @@ summary: Starting a civic tech career in government is not as unusual as you
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development
-  - tts
   - cloud-gov
   - dap
 # See all authors at https://digital.gov/authors

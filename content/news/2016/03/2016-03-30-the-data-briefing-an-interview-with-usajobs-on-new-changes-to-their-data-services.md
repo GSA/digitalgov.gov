@@ -9,14 +9,10 @@ topics:
   - agile
   - api
   - data-visualization
-  - OPM
   - responsive-web-design
   - the-data-briefing
-  - united-states-office-of-personnel-management
-  - United States Patent and Trademark Office
   - user-centered-design
   - user-experience
-  - USPTO
   
 ---
 

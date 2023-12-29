@@ -12,12 +12,8 @@ topics:
   - design
   - api
   - content
-  - FEC
-  - federal-election-commission
-  - GitHub
   - plain-language
   - responsive-web-design
-  - uswds
   - user-centered-design
   - user-experience
   

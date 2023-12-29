@@ -9,10 +9,7 @@ topics:
   - design
   - mobile
   - mobile
-  - NCI
-  - nih
   - responsive-web-design
-  - us-department-of-education
 ---
 
 <p>

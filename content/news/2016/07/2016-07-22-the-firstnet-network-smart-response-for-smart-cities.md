@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - firstnet
   - internet-of-things
   - IoT
   - mobile

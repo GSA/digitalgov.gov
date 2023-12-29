@@ -218,12 +218,11 @@ These two terms are not interchangeable; each has its own meaning and usage.
 
 The abbreviation "i.e." stands for the Latin phrase, _id est_, which means "that is" or "in other words."
 
-> Since 1977, Star Wars, which belongs to a sub-genre of science fiction (i.e., the _space opera_ or _science fantasy_), has released nine main live-action films in the Skywalker Saga, and three spin-off films; two live-action, and one computer-animated film.
+> Since 1977, _Star Wars_, which belongs to a sub-genre of science fiction (i.e., the _space opera_ or _science fantasy_), has released nine main live-action films in the Skywalker Saga, and three spin-off films; two live-action, and one computer-animated film.
 
 The abbreviation "e.g." stands for the Latin phrase _exempli gratia_, which means "for example" &mdash; use it to list one or more examples.
 
-> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the alternate "Kelvin" timeline.
-
+> Since 1966, _Star Trek_ has been an example of diversity, equity, and inclusion (e.g., lead characters who are: women and people of color, people with disabilities, and folks in the LGBTQIA+ community). Each of its 13 TV series and 13 films represent the creator's vision for a society with "infinite diversity in infinite combinations" (IDIC).
 
 #### versus
 

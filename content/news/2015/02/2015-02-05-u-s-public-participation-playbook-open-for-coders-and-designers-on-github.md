@@ -11,7 +11,7 @@ topics:
   - metrics
   - social-media
   - aoi
-  - GitHub
+  
   - socialgov-community
 ---
 

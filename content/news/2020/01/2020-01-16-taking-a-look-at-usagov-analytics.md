@@ -21,10 +21,8 @@ topics:
   - metrics
   - multilingual
   - analytics
-  - analytics-usa-gov
   - customer-service
   - dap
-  - usa-gov
 
 # see all authors at https://digital.gov/authors
 authors:

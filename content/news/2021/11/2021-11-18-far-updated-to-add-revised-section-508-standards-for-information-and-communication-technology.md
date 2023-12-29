@@ -11,7 +11,6 @@ summary:
 topics:
   - acquisition
   - accessibility
-  - us-access-board
   - section-508
   - communication
   - far

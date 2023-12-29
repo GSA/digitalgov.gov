@@ -9,7 +9,6 @@ authors:
 topics:
   - big-data
   - data-gov
-  - DOE
   - open-government
   - united-states-department-of-energy
 ---

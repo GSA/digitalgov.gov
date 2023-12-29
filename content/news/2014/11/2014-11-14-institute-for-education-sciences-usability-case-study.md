@@ -7,7 +7,6 @@ authors:
   - katina-stapleton
 topics:
   - plain-language
-  - us-department-of-education
   - usability-case-study
   - user-experience
   

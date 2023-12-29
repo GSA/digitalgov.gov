@@ -11,7 +11,6 @@ topics:
   - professional-development
   - diversity-equity-and-inclusion
   - project-management
-  - recaps
   - digital-service-delivery
 
 # See all authors at https://digital.gov/authors

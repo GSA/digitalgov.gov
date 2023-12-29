@@ -20,7 +20,6 @@ end_date: 2017-12-12 11:00:00 -0500
 topics: 
   - code
   - design
-  - uswds
   - open-source
   - draft-web-design-standards
 

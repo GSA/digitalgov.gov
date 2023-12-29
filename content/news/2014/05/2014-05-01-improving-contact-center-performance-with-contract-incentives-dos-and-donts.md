@@ -7,7 +7,6 @@ authors:
   - carolyn-kaleel
 topics:
   - product-management
-  - our-work
   - aoi
   - government-contact-centers
 ---

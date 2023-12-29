@@ -7,18 +7,9 @@ authors:
   - bbrantley
 topics:
   - api
-  - api
-  - BLS
-  - Census
-  - Commerce
   - data-visualization
-  - department-of-commerce
   - open-data
   - the-data-briefing
-  - us-bureau-of-labor-statistics
-  - united-states-census-bureau
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 My first column when I came back from last year’s summer sabbatical was on the <a href="{{< ref "2015-09-23-the-data-briefing-surrounded-by-fields-of-federal-data-u-s-patent-and-trademark-offices-patentsview.md" >}}" target="_blank">U.S. Patent and Trademark Office’s (USPTO) PatentsView project</a>. PatentsView became one of the Department of Commerce’s most viewed apps in 2015. Building on this success, USPTO released a <a href="https://developer.uspto.gov/" target="_blank">beta version of its open data portal</a>.

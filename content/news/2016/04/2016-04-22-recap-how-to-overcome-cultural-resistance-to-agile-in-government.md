@@ -9,7 +9,6 @@ topics:
   - product-management
   - agile
   - agile-lean-community-of-practice
-  - recaps
 
 ---
 

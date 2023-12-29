@@ -13,7 +13,6 @@ end_date: 2019-07-18 15:30:00 -0500
 topics:
   - design
   - product-management
-  - uswds
   - public-sans
   - 21st-century-idea
 

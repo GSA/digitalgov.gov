@@ -11,7 +11,6 @@ authors:
 topics:
   - product-management
   - metrics
-  - our-work
   - analytics
   - digital-analytics-program
   - metrics

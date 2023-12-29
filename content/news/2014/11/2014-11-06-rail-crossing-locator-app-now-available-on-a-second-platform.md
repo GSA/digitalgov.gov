@@ -7,12 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - DOT
-  - Federal Railroad Administration
-  - ICE
   - thursday-mobile-products
-  - us-immigration-and-customs-enforcement
-  - united-states-department-of-transportation
  
 ---
 

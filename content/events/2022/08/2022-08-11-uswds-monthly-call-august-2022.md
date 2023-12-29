@@ -14,7 +14,6 @@ topics:
   - design
   - diversity-equity-and-inclusion
   - emerging-tech
-  - uswds
   - user-experience
 
 # See all authors at https://digital.gov/authors

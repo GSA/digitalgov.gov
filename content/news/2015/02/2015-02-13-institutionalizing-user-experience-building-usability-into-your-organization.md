@@ -9,8 +9,6 @@ topics:
   - analytics
   - aoi
   - digitalgov-user-experience-program
-  - FAA
-  - Federal Aviation Administration
   - personas
   - prototype
   - usability-testing

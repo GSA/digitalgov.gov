@@ -7,7 +7,7 @@ authors:
   - allison-lantero
 topics:
   - content
-  - DOE
+  
   - podcast
   - united-states-department-of-energy
 ---

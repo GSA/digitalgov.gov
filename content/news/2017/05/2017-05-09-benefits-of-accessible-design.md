@@ -11,7 +11,6 @@ topics:
   - user-experience
   - accessibility
   - section-508
-  - us-general-services-administration
 ---
 
 <p>

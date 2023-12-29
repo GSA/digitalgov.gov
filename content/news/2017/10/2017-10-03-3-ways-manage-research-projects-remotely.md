@@ -13,14 +13,8 @@ topics:
   - policy
   - user-testing-and-research
   - user-experience
-  - fbi
-  - fec
-  - federal-bureau-of-investigation
-  - federal-election-commission
   - research
   - sprint
-  - us-department-of-the-interior
-  - uswds
   - user-research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428

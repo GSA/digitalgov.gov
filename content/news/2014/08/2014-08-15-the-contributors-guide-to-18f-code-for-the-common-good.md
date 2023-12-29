@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - code
-  - GitHub
   - open-source
 ---
 

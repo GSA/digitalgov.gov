@@ -11,8 +11,6 @@ topics:
   - mobile-testing
   - mobile-ux-guideline-4
   - responsive-web-design
-  - SSA
-  - the-united-states-social-security-administration
   - trends-on-tuesday
 ---
 

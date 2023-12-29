@@ -11,8 +11,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - digitalgov-user-experience-program
-  - epa
-  - us-environmental-protection-agency
   - usability
 ---
 

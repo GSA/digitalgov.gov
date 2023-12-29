@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - metrics
-  - our-work
   - analytics
   - code
   - dap

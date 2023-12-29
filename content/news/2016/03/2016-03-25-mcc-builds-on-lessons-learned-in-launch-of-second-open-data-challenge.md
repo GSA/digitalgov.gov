@@ -7,7 +7,6 @@ authors:
   - elizabeth-zeitler
 topics:
   - challenges-and-prize-competitions
-  - MCC
   - open-data
 ---
 

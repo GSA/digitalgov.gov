@@ -13,21 +13,7 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - HHS
-  - NARA
-  - nasa
-  - national-archives-and-records-administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - Office of Management and Budget
-  - OMB
-  - SBA
-  - us-small-business-administration
-  - united-states-department-of-health-and-human-services
-  - united-states-geological-survey
-  - USGS
+  - open-government
 ---
 
 {{< legacy-img src="2014/12/600-x-440-Birthday-candles-number-ten-isolated-on-white-background-vladvvm-iStock-Thinkstock-522583483.jpg" alt="Birthday candles number ten isolated on white background" caption="" >}}

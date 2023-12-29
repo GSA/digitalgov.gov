@@ -9,7 +9,6 @@ authors:
 topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - tribal-government
   - usability-case-study
   - usability-testing
   - user-experience

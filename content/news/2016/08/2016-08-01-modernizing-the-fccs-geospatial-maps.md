@@ -9,10 +9,7 @@ authors:
   - perryn-ashmore
 topics:
   - cloud
-  - CMS
   - data-visualization
-  - FCC
-  - federal-communications-commission
   - open-data
 ---
 

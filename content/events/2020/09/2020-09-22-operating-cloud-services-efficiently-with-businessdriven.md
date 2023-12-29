@@ -28,7 +28,6 @@ topics:
   - cloud-gov
   - budgeting-and-performance
   - infrastructure
-  - tts
 
 # see all authors at https://digital.gov/authors
 authors: 

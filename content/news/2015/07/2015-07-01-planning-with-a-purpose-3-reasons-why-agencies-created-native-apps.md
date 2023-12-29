@@ -7,19 +7,11 @@ authors:
   - byrhonda-lyons
 topics:
   - mobile
-  - abmc
-  - american-battle-monuments-commission
-  - broadcasting-board-of-governors
-  - ICE
-  - mobile
   - mobile-apps
   - mobile-ux-guideline-1
   - mobile-ux-guideline-2
   - mobile-ux-guideline-5
-  - national-oceanic-and-atmospheric-administration
   - native-apps
-  - NOAA
-  - us-immigration-and-customs-enforcement
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}}

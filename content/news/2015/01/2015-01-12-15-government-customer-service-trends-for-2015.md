@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - metrics
-  - our-work
   - user-experience
   - customer-experience
   - customer-service

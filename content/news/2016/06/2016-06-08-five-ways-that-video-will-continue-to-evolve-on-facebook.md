@@ -9,8 +9,6 @@ topics:
   - content
   - social-media
   - video
-  - broadcasting-board-of-governors
-  - content
   - social-media
 ---
 

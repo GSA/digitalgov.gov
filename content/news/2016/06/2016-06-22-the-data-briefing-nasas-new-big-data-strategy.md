@@ -10,7 +10,6 @@ topics:
   - strategy
   - policy
   - big-data
-  - nasa
   - the-data-briefing
 ---
 

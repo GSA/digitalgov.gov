@@ -10,11 +10,6 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - Office of Management and Budget
-  - OMB
-  - recaps
-  - SSA
-  - the-united-states-social-security-administration
 ---
 
 OMB’s Lisa Danzig, who co-leads the [Cross Agency Priority (CAP) Customer Service Goal](http://www.performance.gov/content/customer-service?view=public#overview) with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done [since we last spoke with her, earlier this year]({{< ref "2015-05-29-a-conversation-with-omb-on-customer-service.md" >}}).

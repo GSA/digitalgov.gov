@@ -8,7 +8,6 @@ summary: Consequence design is part of everyday life. Deceptive techniques like 
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - uswds
   - design
 # See all authors at https://digital.gov/authors
 authors:

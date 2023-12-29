@@ -9,8 +9,6 @@ topics:
   - api
   - product-management
   - social-media
-  - NARA
-  - national-archives-and-records-administration
   - us-digital-registry
 ---
 

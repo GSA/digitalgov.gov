@@ -10,7 +10,6 @@ authors:
   - john-tindel
 topics:
   - product-management
-  - our-work
   - analytics
   - digital-analytics-program
   - https

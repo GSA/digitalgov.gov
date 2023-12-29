@@ -20,7 +20,6 @@ end_date: 2020-06-18 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - uswds
   - 21st-century-idea
   - user-centered-design
 

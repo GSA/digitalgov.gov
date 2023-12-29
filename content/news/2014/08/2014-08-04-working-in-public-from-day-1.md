@@ -7,7 +7,6 @@ authors:
   - eric-mill
 topics:
   - code
-  - GitHub
   - open-source
 ---
 

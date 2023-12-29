@@ -8,18 +8,9 @@ authors:
   - tyrone-grandison
   - kristen-honey
 topics:
-  - Census
-  - Commerce
   - data-gov
-  - department-of-commerce
-  - national-institute-of-standards-and-technology
-  - national-oceanic-and-atmospheric-administration
-  - NIST
-  - NOAA
   - open-data
-  - OSTP
-  - united-states-census-bureau
-  - white-house-office-of-science-and-technology-policy
+  
 ---
 
 Opening up government to better serve the American people has been a key priority of this Administration from day one. On his first full day in office, President Obama signed the [Memorandum on Transparency and Open Government](http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/), ushering in a new era of open and accountable government. Since then, the Administration has continued to take unprecedented steps to make government more efficient and effective, including launching [Data.gov](http://www.data.gov/), [establishing](https://www.whitehouse.gov/the-press-office/2011/09/20/fact-sheet-open-government-partnership) the international Open Government Partnership, and signing an [Executive Order on Making Open and Machine Readable the New Default for Government Information](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-). And under the Administration&#8217;s direction, Federal agencies are developing and implementing their own open-government efforts.

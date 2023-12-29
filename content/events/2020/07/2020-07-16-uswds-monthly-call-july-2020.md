@@ -20,7 +20,6 @@ end_date: 2020-07-16 15:30:00 -0500
 topics: 
   - code
   - design
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -7,7 +7,6 @@ topics:
   - mobile
   - mobile-apps
   - thursday-mobile-products
-  - us-department-of-state
 ---
 
 [{{< legacy-img src="2013/03/DOS-Careers-App.png" alt="Dept of State's Careers app main screen showing the following options: learn about us; choose a track; view process, attend an event; test yourself; contact us." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/03/DOS-Careers-App.png)The [U.S. Department of State](http://www.state.gov/careers/) has released a mobile app that informs and educates potential foreign service officers about a diplomatic career.

@@ -13,9 +13,6 @@ topics:
   - mobile-apps
   - open-data
   - the-data-briefing
-  - us-department-of-veterans-affairs
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 A month ago, I wrote about the <a href="{{< ref "2015-10-07-the-data-briefing-white-house-asks-data-scientists-and-app-developers-to-help-suicide-prevention-efforts.md" >}}" target="_blank">White House’s call for data scientists and app developers to come together to help combat suicide</a>. On December 12, 2015, there will be five hackathons around the U.S. to [#HackSuicide](https://twitter.com/hashtag/hacksuicide). All the hackathons are free and open to the public. Even if you are not a data scientist, app developer or mental health expert, you may want to [attend one of the events](https://www.eventbrite.com/e/open-data-and-innovations-for-suicide-prevention-mentalhealthhackathon-tickets-19754370855) to learn how data can be used to solve a vital public health issue.

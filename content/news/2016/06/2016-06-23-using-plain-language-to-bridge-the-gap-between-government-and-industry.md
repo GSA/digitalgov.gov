@@ -15,7 +15,6 @@ topics:
   - content
   - IT Schedule 70
   - plain-language
-  - us-general-services-administration
   - user-experience
 ---
 

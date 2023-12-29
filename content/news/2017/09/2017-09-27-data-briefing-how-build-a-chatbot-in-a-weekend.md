@@ -14,7 +14,6 @@ topics:
   - content
   - personas
   - social-media
-  - training
   - writing
   - rpa
   

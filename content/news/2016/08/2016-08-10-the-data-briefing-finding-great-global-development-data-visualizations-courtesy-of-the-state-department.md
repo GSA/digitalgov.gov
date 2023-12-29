@@ -8,9 +8,7 @@ authors:
 topics:
   - data-visualization
   - open-data
-  - State
   - the-data-briefing
-  - us-department-of-state
 ---
 
 Federal agencies have been releasing some fascinating [data visualization]({{< ref "/topics/data-visualization" >}}) tools in the last year. Recently, the State Department unveiled the Beta version of FIND or the “[F Interagency Network Databank](http://find.state.gov/).” From the description in the FAQ:

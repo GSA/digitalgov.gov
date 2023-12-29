@@ -10,9 +10,7 @@ authors:
 topics:
   - content
   - customer-experience
-  - HHS
   - innovation
-  - nasa
   - united-states-department-of-energy
   - user-experience
 ---

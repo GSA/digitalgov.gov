@@ -7,8 +7,6 @@ authors:
   - apiazza
 topics:
   - product-management
-  - our-work
-  - digitalgov-summit
 
 ---
 

@@ -7,15 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - DoD
   - Federal CrowdSource Mobile Testing Program
-  - Internal Revenue Service
-  - IRS
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - transportation-security-administration
-  - TSA
-  - united-states-department-of-defense
+  - mobile
 ---
 
 Someone has a problem they are trying to solve. They pull out their mobile device and find a solution. They move onto something else. That&#8217;s a mobile moment.

@@ -11,7 +11,6 @@ date: 2021-03-18 14:00:00 -0500
 end_date: 2021-03-18 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - design
   - 21st-century-idea
 # See all authors at https://digital.gov/authors

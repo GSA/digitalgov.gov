@@ -8,11 +8,8 @@ authors:
 topics:
   - api
   - code
-  - analytics-usa-gov
-  - api
   - data-gov
   - open-data
-  - recaps
 
 ---
 

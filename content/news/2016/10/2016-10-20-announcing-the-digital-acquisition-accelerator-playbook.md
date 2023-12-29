@@ -13,7 +13,6 @@ topics:
   - agile
   - innovation
   - lean
-  - open
   - PIF
   - Presidential Innovation Fellows
   - user-centered-design

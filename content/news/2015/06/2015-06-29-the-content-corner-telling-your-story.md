@@ -7,9 +7,8 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
   - the-content-corner
-  - us-department-of-labor
+  
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Story-word-in-wood-type-marekuliasz-iStock-Thinkstock-492624321.jpg" alt="The word Story in wooded type" caption="" >}} 

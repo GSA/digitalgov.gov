@@ -9,7 +9,6 @@ authors:
 topics:
   - code
   - content
-  - recaps
 ---
 
 {{< legacy-img src="2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="" >}} 

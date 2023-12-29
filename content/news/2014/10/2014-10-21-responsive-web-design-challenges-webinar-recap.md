@@ -9,12 +9,7 @@ authors:
 topics:
   - mobile
   - analytics
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DOE
-  - mobile
   - mobile-ux-guideline-1
-  - recaps
   - responsive-web-design
   - united-states-department-of-energy
 ---

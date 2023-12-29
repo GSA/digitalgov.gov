@@ -14,8 +14,6 @@ topics:
   - metadata
   - open-data
   - open-source
-  - us-digital-service
-  - usds
 
 ---
 

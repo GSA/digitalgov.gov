@@ -10,8 +10,6 @@ topics:
   - api
   - application-programming-interface
   - security
-  - US Department of Agriculture
-  - USDA
   - wednesday-api-briefing
 ---
 

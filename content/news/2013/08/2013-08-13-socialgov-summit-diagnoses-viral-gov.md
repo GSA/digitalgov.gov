@@ -7,9 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - HHS
   - mobile-gov
-  - nasa
   - socialgov
 ---
 

@@ -14,14 +14,10 @@ topics:
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - DARPA
-  - defense-advanced-research-projects-agency
-  - DoD
+  
   - innovation
   - open-government
   - prizes-and-competitions
-  - technology-transformation-services
-  - tts
   - united-states-department-of-defense
 
 ---

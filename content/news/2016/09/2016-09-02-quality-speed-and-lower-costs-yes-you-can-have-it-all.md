@@ -9,7 +9,6 @@ authors:
 topics:
   - code
   - product-management
-  - our-work
   - strategy
   - policy
   - search

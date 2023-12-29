@@ -8,8 +8,6 @@ authors:
 topics:
   - code
   - analytics
-  - CFPB
-  - Consumer Financial Protection Bureau
   - user-experience
 ---
 

@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
   - metrics
 ---
 

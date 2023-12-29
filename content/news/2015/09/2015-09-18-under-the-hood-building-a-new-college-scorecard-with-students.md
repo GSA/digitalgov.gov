@@ -11,10 +11,7 @@ topics:
   - api
   - open-data
   - prototype
-  - us-department-of-education
-  - us-digital-service
   - user-experience
-  - usds
 
 ---
 

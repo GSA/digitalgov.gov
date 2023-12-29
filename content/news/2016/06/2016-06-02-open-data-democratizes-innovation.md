@@ -12,7 +12,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - strategy
   - policy
-  - api
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions
@@ -21,23 +20,11 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - data-visualization
-  - epa
   - innovation
   - mobile-apps
   - national-day-of-civic-hacking
   - open-data
   - open-government
-  - OSTP
-  - SBA
-  - us-agency-for-international-development
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - us-general-services-administration
-  - us-small-business-administration
-  - usaid
-  - USDA
-  - white-house
-  - white-house-office-of-science-and-technology-policy
 ---
 
 ## Americans Use Public Data to Improve the Lives of Fellow Citizens {{< legacy-img src="2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" caption="" >}}

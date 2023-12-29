@@ -11,7 +11,6 @@ topics:
   - user-experience
   - digitalgov-user-experience-program
   - user-experience-community-of-practice
-  - recaps
   - usability
   - usability-testing
   - user-experience

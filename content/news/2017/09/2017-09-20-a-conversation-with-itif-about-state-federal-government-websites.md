@@ -14,7 +14,6 @@ topics:
   - accessibility
   - content
   - content-strategy
-  - itif
   - metrics
   - mobile
   - mobile-first
@@ -24,7 +23,6 @@ topics:
   - section-508
   - security
   - seo
-  - training
   - usability
   - user-experience
   - user-research

@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - records-management
-  - NARA
-  - national-archives-and-records-administration
   - research
 
 ---

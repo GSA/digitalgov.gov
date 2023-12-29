@@ -7,8 +7,6 @@ authors:
   - tyrone-grandison
 topics:
   - api
-  - api
-  - Census
   - json
   - national-day-of-civic-hacking
   - open-data

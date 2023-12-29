@@ -12,9 +12,7 @@ topics:
   - product-management
   - challenge-gov
   - mobile-apps
-  - OPM
   - peace-corps
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

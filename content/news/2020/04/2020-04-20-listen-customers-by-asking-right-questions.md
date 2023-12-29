@@ -14,7 +14,6 @@ topics:
   - 21st-century-idea
   - content-strategy
   - metrics
-  - uswds
   - analytics
   - dap
   - this-weeks-idea

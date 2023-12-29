@@ -6,7 +6,6 @@ summary: DigitalGov University took the pulse of our participants this spring an
 authors:
   - apiazza
 topics:
-  - our-work
   - customer-experience
   - open-opportunities-program
 ---

@@ -8,8 +8,6 @@ authors:
 topics:
   - api
   - api
-  - FEC
-  - federal-election-commission
 ---
 
 {{< legacy-img src="2015/07/600-x-250-openfec-banner.jpg" alt="Federal Election Commission (FEC) OpenFEC banner for exploring campaign finance data" >}}

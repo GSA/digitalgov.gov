@@ -10,7 +10,6 @@ topics:
   - social-media
   - socialgov
   - terms-of-service
-  - white-house
 ---
 
 <p>

@@ -7,8 +7,8 @@ authors:
   - craig-fugate
 topics:
   - mobile
-  - federal-emergency-management-agency
-  - fema
+  
+  
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

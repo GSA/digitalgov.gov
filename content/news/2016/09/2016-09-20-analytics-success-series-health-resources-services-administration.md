@@ -9,14 +9,11 @@ authors:
   - richard-morey
 topics:
   - metrics
-  - our-work
   - analytics
   - content
   - content-strategy
   - dap
   - digital-analytics-program
-  - HHS
-  - HRSA
   - metrics
   - user-experience
 ---

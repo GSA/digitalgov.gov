@@ -11,12 +11,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - DoD
   - security
-  - technology-transformation-services
-  - tts
-  - united-states-department-of-defense
-  - our-work
 
 ---
 

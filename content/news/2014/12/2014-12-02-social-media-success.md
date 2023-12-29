@@ -8,10 +8,6 @@ authors:
 topics:
   - metrics
   - social-media
-  - DOI
-  - US Department of Agriculture
-  - us-department-of-the-interior
-  - USDA
 ---
 
 {{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="600 x 332 Strategy concepts on chalk board Melpomenem iStock Thinkstock 466815611" >}}

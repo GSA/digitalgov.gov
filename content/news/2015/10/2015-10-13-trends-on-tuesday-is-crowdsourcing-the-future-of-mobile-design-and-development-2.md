@@ -9,7 +9,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - apps-challenges
-  - mobile
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Smart-watch.-Smartwatch-concept-scyther5-iStock-Thinkstock-482564012.jpg" alt="Smart watch concept" caption="" >}} 

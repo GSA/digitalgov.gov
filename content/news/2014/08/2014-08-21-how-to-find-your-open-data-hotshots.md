@@ -8,16 +8,10 @@ authors:
 topics:
   - api
   - metrics
-  - api
-  - Census
   - data-gov
-  - epa
   - metadata
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-data
-  - us-environmental-protection-agency
   - united-states-census-bureau
 ---
 

@@ -10,18 +10,8 @@ topics:
   - product-management
   - mobile
   - api
-  - code
-  - Commerce
-  - department-of-commerce
-  - GitHub
   - innovation
-  - mobile
   - mobile-apps
-  - open
-  - open-data
-  - open-source
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 Improving the way the government delivers information technology (IT) solutions to its customers isn’t just a goal, it’s our mission. We at the U.S. Patent and Trademark Office (USPTO) know that by publishing our open source code, the public can help us come up with new and better IT solutions. In advance of the new <a class="ext extlink" href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf" target="_blank">Federal Source Code Policy</a> and in support of the Administration’s <a class="ext extlink" href="https://www.whitehouse.gov/open" target="_blank">Open Government Initiative</a>, we have been publishing <a class="ext extlink" href="https://github.com/USPTO/TrademarkStatusApp" target="_blank">content on GitHub</a> for over a year, and it now includes source code for a mobile application for trademarks.
@@ -34,6 +24,6 @@ Through our [Open Data and Mobility Program](https://www.uspto.gov/learning-and-
 
 As America’s Innovation Agency, we hope that our open source initiatives will spur innovation and create new ideas. We are looking to the public to come up with the next greatest idea, like we recently did through our <a class="ext extlink" href="https://medium.com/cancer-moonshot/unlocking-patent-data-to-spur-cancer-breakthroughs-26325501e9c2#.an3aeo699" target="_blank">Cancer Moonshot Challenge</a>.
 
-[Let us know how you like our Trademark app](https://www.uspto.gov/blog/director/entry/new_uspto_trademark_app_open#comments), and keep an eye on our <a class="ext extlink" href="https://github.com/USPTO" target="_blank">GitHub page</a> as we’ll be publishing more and more open source projects. 
+[Let us know how you like our Trademark app](https://www.uspto.gov/blog/director/entry/new_uspto_trademark_app_open#comments), and keep an eye on our <a class="ext extlink" href="https://github.com/USPTO" target="_blank">GitHub page</a> as we’ll be publishing more and more open source projects.
 
 _This post was originally published on the [USPTO blog](https://www.uspto.gov/blog/)._
