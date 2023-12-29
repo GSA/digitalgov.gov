@@ -19,7 +19,7 @@ end_date: 2018-04-03 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
+  - communication
 # see all authors at https://digital.gov/authors
 authors: 
   - victoria-wales
