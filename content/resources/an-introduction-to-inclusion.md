@@ -11,6 +11,9 @@ topics:
 
 slug: an-introduction-to-inclusion
 
+authors: 
+  - anne-petersen
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
