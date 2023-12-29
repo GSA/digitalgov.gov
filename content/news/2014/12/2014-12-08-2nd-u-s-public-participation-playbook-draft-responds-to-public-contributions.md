@@ -7,7 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - gsa
   - open-government
   - peace-corps
 ---
