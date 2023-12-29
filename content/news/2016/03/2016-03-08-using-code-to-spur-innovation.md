@@ -6,7 +6,11 @@ summary: 'This week, President Obama will travel to SxSW (South by Southwest) to
 authors:
   - andreanocesigritz
 topics:
-  - code
+  - software-engineering
+  - innovation
+  - crowdsourcing-and-citizen-science
+  - mobile
+  - challenge-and-prize-competition
   - analytics-usa-gov
   - CFPB
   - Education
