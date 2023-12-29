@@ -19,6 +19,8 @@ end_date: 2019-07-25 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - agile
+  - software-engineering
+  - emerging-tech
 
 # see all authors at https://digital.gov/authors
 authors: 
