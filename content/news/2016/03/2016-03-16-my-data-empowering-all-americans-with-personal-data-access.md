@@ -8,7 +8,9 @@ authors:
   - phaedra-chrousos
   - tom-black
 topics:
-  - data-gov
+  - open-data
+  - application-programming-interface
+  - data-visualization
   - Education
   - HHS
   - open-government
