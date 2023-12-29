@@ -9,12 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - apps-challenges
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - FCPCCS
   - mobile
-  - nasa
-  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Smart-watch.-Smartwatch-concept-scyther5-iStock-Thinkstock-482564012.jpg" alt="Smart watch concept" caption="" >}} 
