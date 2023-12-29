@@ -6,7 +6,8 @@ summary: 'The Department of Transportation (DOT) has invited transit agencies to
 authors:
   - andreanocesigritz
 topics:
-  - DOT
+  - software-engineering
+  - open-data
   - united-states-department-of-transportation
 ---
 
