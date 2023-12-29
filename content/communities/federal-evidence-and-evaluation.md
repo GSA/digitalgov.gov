@@ -2,7 +2,7 @@
 date: 2023-12-28 21:48:00 -0500
 title: "Federal Evidence and Evaluation"
 deck: ""
-summary: "Federal executive branch staff who are interested in evaluation and evidence-building can connect with their peers, share information, access resources and trainings, and sign up for upcoming events. The Community of Practice also features content to support federal agencies as they implement the Evidence Act."
+summary: "For federal executive branch staff interested in evaluation and evidence-building. Connect with peers, share information, access resources and trainings, and sign up for events. Features content to support federal agencies as they implement the Evidence Act."
 
 redirectto: https://community.max.gov/pages/viewpage.action?pageId=630067080
 
