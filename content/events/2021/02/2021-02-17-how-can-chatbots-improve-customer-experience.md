@@ -18,6 +18,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
+  - janis-e-burl
   - abraham-marinez
   - marietta-jelks
   - ""
