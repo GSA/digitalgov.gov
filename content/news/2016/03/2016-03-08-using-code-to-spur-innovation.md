@@ -10,7 +10,6 @@ topics:
   - innovation
   - crowdsourcing-and-citizen-science
   - mobile
-  - challenge-and-prize-competition
   - analytics-usa-gov
   - CFPB
   - Education
