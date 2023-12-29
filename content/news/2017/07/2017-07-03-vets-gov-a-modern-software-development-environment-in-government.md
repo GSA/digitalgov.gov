@@ -13,7 +13,7 @@ topics:
   - user-testing-and-research
   - cloud
   - code
-  - GitHub
+  
   - infrastructure
   - open-source
   - user-centered-design

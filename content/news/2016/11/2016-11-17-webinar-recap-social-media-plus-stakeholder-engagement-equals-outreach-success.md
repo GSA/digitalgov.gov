@@ -10,15 +10,14 @@ topics:
   - social-media
   - user-testing-and-research
   - user-experience
-  - cdc
+  
   - content
   - content-strategy
   - content-syndication
   - multilingual
-  - recaps
   - social-media
   - user research
-  - webinar
+
 ---
 
 > _Summary: How to leverage your resources to reach Spanish-dominant Hispanics online._

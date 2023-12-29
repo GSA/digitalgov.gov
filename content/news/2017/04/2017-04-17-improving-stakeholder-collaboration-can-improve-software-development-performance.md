@@ -8,7 +8,6 @@ authors:
 topics:
   - strategy
   - policy
-  - best-practices
   - communication
 ---
 

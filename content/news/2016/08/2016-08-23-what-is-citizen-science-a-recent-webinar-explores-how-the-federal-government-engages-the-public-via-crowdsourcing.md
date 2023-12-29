@@ -9,9 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  - communities
   - crowdsourcing
-  - recaps
 
 ---
 

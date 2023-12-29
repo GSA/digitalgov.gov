@@ -7,7 +7,6 @@ authors:
   - lnelson
 topics:
   - code
-  - HHS
 ---
 
 [{{< legacy-img src="2014/01/healthcare.gov-10-253x220-250x217.jpg" alt="Screenshot of Healthcare.gov homepage" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/healthcare.gov-10-253x220.jpg)The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly.

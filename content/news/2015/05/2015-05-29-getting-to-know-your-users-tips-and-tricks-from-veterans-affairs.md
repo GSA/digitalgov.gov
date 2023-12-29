@@ -15,7 +15,6 @@ topics:
   - personas
   - user-centered-design
   - user-experience
-  - VA
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="Green Business Strategy" caption="" >}}

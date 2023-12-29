@@ -8,7 +8,6 @@ summary: Why I returned to government service, how I brought my tech experience
 topics:
   - pif
   - presidential-innovation-fellows
-  - va
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

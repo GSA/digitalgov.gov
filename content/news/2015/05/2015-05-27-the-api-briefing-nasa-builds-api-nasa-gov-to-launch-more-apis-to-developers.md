@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - api
-  - nasa
   - wednesday-api-briefing
 ---
 

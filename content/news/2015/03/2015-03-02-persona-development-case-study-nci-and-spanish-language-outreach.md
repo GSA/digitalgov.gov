@@ -7,10 +7,7 @@ authors:
   - awichman
 topics:
   - user-testing-and-research
-  - BLS
   - multilingual
-  - national-cancer-institute
-  - NCI
   - personas
   - united-states-census-bureau
   - usability starter kit

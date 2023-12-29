@@ -15,7 +15,7 @@ summary: How do you make sure a website is accessible? This blog post outlines
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - doi
+  
   - usability-testing
   - "508"
   - section-508

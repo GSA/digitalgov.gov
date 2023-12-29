@@ -7,10 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Internal Revenue Service
-  - IRS
   - thursday-mobile-products
- 
 ---
 
 {{< legacy-img src="2015/02/250-x-410-IRSgov-mobile-jobs-site-How-to-Apply.jpg" alt="IRSgov's mobile jobs site How to Apply page." >}}Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml).

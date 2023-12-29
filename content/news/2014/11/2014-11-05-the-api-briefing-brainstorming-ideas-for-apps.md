@@ -10,11 +10,10 @@ topics:
   - data
   - mobile
   - data-gov
-  - DOT
   - wednesday-api-briefing
 ---
 
-{{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
+{{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}}
 
 [Data.gov](http://www.data.gov/) has 130,000+ datasets (as of November 3, 2014) many of which are designed for application developers. In previous columns, I’ve showcased some of the [great applications built using federal APIs]({{< ref "/topics/wednesday-api-briefing" >}}). Have you wondered where the idea for an app came from?
 

@@ -9,7 +9,6 @@ topics:
   - code
   - data-gov
   - mobile-apps
-  - nasa
   - open-data
   - the-data-briefing
 ---

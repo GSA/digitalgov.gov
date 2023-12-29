@@ -10,9 +10,7 @@ topics:
   - design
   - user-testing-and-research
   - user-experience
-  - api
   - digitalgov-user-experience-program
-  - fda
   - usability-testing
 ---
 

@@ -9,20 +9,10 @@ authors:
 topics:
   - content
   - ANLE
-  - cdc
-  - Census
-  - centers-for-disease-control-and-prevention
-  - DOJ
   - GobiernoUSAgov
-  - HUD
-  - Internal Revenue Service
-  - IRS
   - LEP
   - multilingual
   - multilingual-community
-  - National Library of Medicine
-  - SSA
-  - the-united-states-social-security-administration
   - united-states-census-bureau
 
 ---

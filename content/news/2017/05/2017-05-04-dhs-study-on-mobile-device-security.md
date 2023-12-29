@@ -10,10 +10,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - dhs
   - mobile
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
 ---
 

@@ -10,7 +10,6 @@ topics:
   - design
   - product-management
   - user-experience
-  - recaps
 ---
 
 ## The Road to Launch Version 1.0

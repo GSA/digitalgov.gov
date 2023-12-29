@@ -13,9 +13,6 @@ topics:
   - research
   - user-centered-design
   - user-experience
-  - VA
-  - va-center-for-innovation
-  - VACI
 ---
 
 Our goal for a more veteran-centered and innovative VA is shared. Our approach to innovation is collaborative.

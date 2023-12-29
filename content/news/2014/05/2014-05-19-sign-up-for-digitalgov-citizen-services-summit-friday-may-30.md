@@ -20,14 +20,6 @@ topics:
   - mobile
   - social-media
   - user-experience
-  - DOL
-  - epa
-  - FCC
-  - federal-communications-commission
-  - GAO
-  - SBA
-  
-
 ---
 
 We won’t build the government of the 21st century by [drawing within the lines]({{< ref "2014-05-07-because-its-hard.md" >}}).
@@ -60,4 +52,4 @@ You can sign up for the event and see our [ever-expanding speaker list on the ev
 
 Our Expo will showcase innovations and shared services across the federal government. We have 30 tables available (and they&#8217;re going fast) for federal agencies to showcase projects and introduce yourselves to all the federal employees, contractors and state and local participants. Let us know your interest during the registration process &#8230; don&#8217;t think for a second that your program, large or small, isn&#8217;t the jam we are looking for
 
-[Register Now]({{< tmp"events/digitalgov-citizen-services-summit.md" >}})! Seats are Limited! 
+[Register Now]({{< tmp"events/digitalgov-citizen-services-summit.md" >}})! Seats are Limited!

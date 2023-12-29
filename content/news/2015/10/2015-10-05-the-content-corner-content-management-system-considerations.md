@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
   - content-management-system
   - mobile-ux-guideline-1
   - the-content-corner
@@ -35,7 +34,7 @@ To be safe, you may want to take those outliers and make them your starting poin
 
 One way to help ensure the system is a good fit for your content and users is to structure the content elements and their form fields appropriately. The CMS and how your contributors use it has a significant impact on how [structured and adaptive your final content can be]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}). Instead of using several large text areas that allow or force a contributor to paste a broad range of content, structure should be provided from within the CMS interface. This not only helps the contributor make better decisions regarding what goes where, but also helps to make them feel more confident in the work they&#8217;re doing.
 
-After the extensive content review that you should have completed as preparation for this CMS implementation or revision, you should have a good idea of your various content types and their individual elements. In fact, in the course of your content review you may have uncovered areas for improvement. Perhaps your site was combining staff members’ names and job titles; or the address, hours of operation and contact information were all in one large field. You can now break out these various fields into separate ones, which creates an easier process for the contributor, will allow for greater flexibility and will [make your final product more shareable and reusable]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}}).
+After the extensive content review that you should have completed as preparation for this CMS implementation or revision, you should have a good idea of your various content types and their individual elements. In fact, in the course of your content review you may have uncovered areas for improvement. Perhaps your site was combining staff members’ names and job titles; or the address, hours of operation and contact information were all in one large field. You can now break out these various fields into separate ones, which creates an easier process for the contributor, will allow for greater flexibility and will [make your final product more shareable and reusable](https://digital.gov/2013/07/29/how-to-create-open-structured-content/).
 
 ## Determining Permissions and Limits
 

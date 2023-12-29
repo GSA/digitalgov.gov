@@ -9,7 +9,6 @@ topics:
   - challenges
   - monthly-theme
   - challenges-and-prize-competitions
-  - epa
 ---
 
 We’ve heard the phrase a million times: Nobody does it alone.

@@ -12,7 +12,6 @@ topics:
   - monthly-theme
   - social-media
   - GobiernoUSAgov
-  - HHS
   - multilingual
   - social-media
 ---

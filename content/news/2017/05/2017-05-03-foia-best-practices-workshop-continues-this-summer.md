@@ -10,10 +10,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - DOJ
   - open-government
-  - office-of-information-policy
-  - training
 ---
 
 > _This post was originally published on the [U.S. Department of Justice Blog](https://www.justice.gov/blogs)._

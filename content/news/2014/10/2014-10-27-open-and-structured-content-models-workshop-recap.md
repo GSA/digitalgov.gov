@@ -11,15 +11,9 @@ topics:
   - monthly-theme
   - content-models
   - COPE
-  - HHS
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
-  - nasa
-  - national-cancer-institute
-  - NCI
   - open-and-structured-content-models
-  - recaps
-  - SEC
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}

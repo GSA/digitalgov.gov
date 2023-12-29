@@ -7,10 +7,9 @@ authors:
   - andreanocesigritz
 topics:
   - product-management
-  - OPM
 ---
 
-The Office of Personnel Management (OPM) is looking for agency subject matter experts (SMEs) to [participate in an occupational study of the Public Affairs Series 1035](https://www.chcoc.gov/content/position-classification-standard-public-affairs-series-1035). OPM is accepting SME submissions until Wednesday, December 9th. {{< legacy-img src="2015/11/600-x-425-Supreme-Court-Columns-Black-and-White-trekandshoot-iStock-Thinkstock-485982240.jpg" alt="Supreme Court columns" caption="" >}} 
+The Office of Personnel Management (OPM) is looking for agency subject matter experts (SMEs) to [participate in an occupational study of the Public Affairs Series 1035](https://www.chcoc.gov/content/position-classification-standard-public-affairs-series-1035). OPM is accepting SME submissions until Wednesday, December 9th. {{< legacy-img src="2015/11/600-x-425-Supreme-Court-Columns-Black-and-White-trekandshoot-iStock-Thinkstock-485982240.jpg" alt="Supreme Court columns" caption="" >}}
 
 The study will review the &#8220;current classification and qualification standards for public affairs work&#8221; and allow OPM to make any revisions or updates. OPM is interested to learn from agencies how public affairs work has changed since the current position classification standard was issued in 1981.
 

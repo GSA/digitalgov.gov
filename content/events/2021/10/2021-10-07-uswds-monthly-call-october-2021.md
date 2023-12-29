@@ -14,8 +14,6 @@ topics:
   - code
   - design
   - open-source
-  - github
-  - communities
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

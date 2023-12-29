@@ -7,14 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - Bureau of Reclamation
   - challenge-gov
-  - Federal Trade Commission
-  - FTC
-  - HUD
-  - nasa
-  - national-institute-of-standards-and-technology
-  - NIST
   - prizes-and-competitions
   - united-states-department-of-energy
 ---

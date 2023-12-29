@@ -7,7 +7,6 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - our-work
   - innovation
 ---
 

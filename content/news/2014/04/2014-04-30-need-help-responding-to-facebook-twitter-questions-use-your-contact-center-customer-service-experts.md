@@ -6,14 +6,9 @@ summary: 'Government agencies are always looking for better ways to connect with
 authors:
   - candace-maynard
 topics:
-  - communities
   - product-management
   - monthly-theme
   - aoi
-  - HHS
-  - national-institutes-of-health
-  - NCI
-  - nih
   - social-media
 ---
 

@@ -7,7 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - BLS
   - mobile
   - mobile-app-development-program
   - mobile-apps

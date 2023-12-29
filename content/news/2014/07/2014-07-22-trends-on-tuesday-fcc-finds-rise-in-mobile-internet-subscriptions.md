@@ -7,8 +7,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - FCC
-  - federal-communications-commission
   - mobile-apps
   - mobile-gov-community-of-practice
   - trends-on-tuesday

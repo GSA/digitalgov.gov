@@ -9,7 +9,6 @@ topics:
   - content
   - design
   - product-management
-  - communities
   - user-experience
   - user-experience-community-of-practice
   - web-content-managers-forum

@@ -8,8 +8,8 @@ authors:
 topics:
   - design
   - mobile
-  - cdc
-  - centers-for-disease-control-and-prevention
+  
+  
   - gamification
   - mobile
   - mobile-apps

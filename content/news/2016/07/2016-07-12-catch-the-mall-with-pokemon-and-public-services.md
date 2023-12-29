@@ -14,7 +14,6 @@ topics:
   - gamification
   - mobile
   - mobile-apps
-  - NPS
   - social-media
   - user-experience
   - virtual-augmented-reality-community

@@ -10,9 +10,6 @@ topics:
   - user-experience
   - innovation
   - user-centered-design
-  - VA
-  - va-center-for-innovation
-  - VACI
 ---
 
 > _VA Innovators Network Program Selected as FedHealth IT Innovation Award Winner_

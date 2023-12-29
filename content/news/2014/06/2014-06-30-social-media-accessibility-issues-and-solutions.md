@@ -13,8 +13,6 @@ topics:
   - writing
   - accessibility
   - crowdsourcing
-  - FCC
-  - federal-communications-commission
   - infographic
   - plain-language
   - social-media

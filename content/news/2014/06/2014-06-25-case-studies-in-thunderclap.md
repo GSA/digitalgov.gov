@@ -7,7 +7,6 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - recaps
   - socialgov-community
 
 ---

@@ -14,12 +14,6 @@ topics:
   - policy
   - code
   - innovation
-  - Office of Management and Budget
-  - OMB
-  - open
-  - open-data
-  - VA
-  - white-house
 ---
 
 > **Summary**: Today, we’re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government.
@@ -28,11 +22,11 @@ topics:
   <p>
     &#8220;If we can reconceive of our government so that the interactions and the interplay between private sector, nonprofits, and government are opened up, and we use technology, data, social media in order to join forces around problems, then there’s no problem that we face in this country that is not soluble.&#8221;
   </p>
-  
+
   <p>
     <b>President Barack Obama, March 11, 2016</b>
   </p>
-</blockquote> {{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}} 
+</blockquote> {{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}}
 
 The President is committed to a 21st Century digital government – one that is designed to improve the lives of Americans and spur innovation with the best that technology has to offer. From helping students and families make more informed decisions about [college selection](https://collegescorecard.ed.gov/) to modernizing our country’s immigration system to opening up thousands of data sets and collections for Americans to leverage, this work has reimagined how government services and resources should be provided to the public.
 

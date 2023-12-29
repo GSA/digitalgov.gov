@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - data
-  - fda
   - the-data-briefing
 ---
 

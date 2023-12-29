@@ -6,7 +6,6 @@ summary: '39 participants. 17 agencies. 6 months. Earlier this year, the CIO Cou
 authors:
   - kdaniel
 topics:
-  - communities
   - monthly-theme
   - cloud
   - data

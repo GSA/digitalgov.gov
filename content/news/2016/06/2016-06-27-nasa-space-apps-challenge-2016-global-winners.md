@@ -16,7 +16,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-gov
-  - nasa
+  
   - open-data
   - open-government
   - open-source

@@ -8,9 +8,9 @@ authors:
 topics:
   - content
   - api
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - DOT
+  
+  
+  
   - GobiernoUSAgov
 ---
 

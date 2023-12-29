@@ -13,7 +13,6 @@ topics:
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4
   - mobile-friendly
-  - NPS
   - responsive-web-design
   - thursday-mobile-products
 ---

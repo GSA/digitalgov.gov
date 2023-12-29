@@ -11,11 +11,9 @@ topics:
   - product-management
   - analytics
   - data
-  - OPM
-
 ---
 
-{{< legacy-img src="2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}} 
+{{< legacy-img src="2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}}
 
 “PolicyOps” is a better way to create and implement government policies and programs through cutting-edge data analytics and new collaboration methods.
 

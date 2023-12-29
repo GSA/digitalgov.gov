@@ -13,9 +13,7 @@ topics:
   - design
   - user-testing-and-research
   - 3d-printing
-  - DoD
   - united-states-department-of-defense
-  - VA
 ---
 
 _This is part of an ongoing series highlighting the innovations and research happening at Walter Reed National Military Medical Center in Bethesda, Maryland._

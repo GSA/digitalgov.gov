@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - mobile
-  - administrative-office-of-the-united-states-courts
   - infographic
   - mobile
   - mobile-ux-guideline-1

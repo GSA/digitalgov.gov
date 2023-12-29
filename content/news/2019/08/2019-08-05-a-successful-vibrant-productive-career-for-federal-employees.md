@@ -8,7 +8,6 @@ authors:
 categories:
   - emerging-tech
   - managing-digital
-  - our-work
 tag:
   - professional-development
 featured_image:

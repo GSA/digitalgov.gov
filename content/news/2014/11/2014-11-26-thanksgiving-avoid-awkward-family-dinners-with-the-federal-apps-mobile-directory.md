@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - api
-  - cdc
-  - Census
-  - centers-for-disease-control-and-prevention
   - thursday-mobile-products
   - united-states-census-bureau
 ---

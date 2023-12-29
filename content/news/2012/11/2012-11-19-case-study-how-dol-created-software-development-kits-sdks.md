@@ -8,8 +8,6 @@ authors:
   - gray-brooks
 topics:
   - code
-  - DOL
-  
 ---
 
 ## What It Is

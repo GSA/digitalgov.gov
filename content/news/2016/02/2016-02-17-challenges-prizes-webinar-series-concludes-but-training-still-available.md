@@ -8,11 +8,6 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - DOE
-  - HHS
-  - HUD
-  - nasa
-  - recaps
   - united-states-department-of-energy
 ---
 
@@ -20,7 +15,7 @@ It began with a history lesson and ended with an eye to the future.
 
 In between, the **Expert Training Series: How to Design & Operate Prizes to Maximize Success** covered nearly every aspect of what it takes to run successful incentivized competitions.
 
-[Challenge.gov](https://www.challenge.gov/list/) and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers from across the federal government and industry for seven webinars that began last summer and ran through January. {{< legacy-img src="2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}} 
+[Challenge.gov](https://www.challenge.gov/list/) and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers from across the federal government and industry for seven webinars that began last summer and ran through January. {{< legacy-img src="2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}}
 
 Below, we’ve provided a quick snapshot of what they said, as well as an index of the full webinars for your review.
 

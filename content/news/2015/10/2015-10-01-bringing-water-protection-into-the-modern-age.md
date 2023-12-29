@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - data
-  - epa
   - open-data
 ---
 

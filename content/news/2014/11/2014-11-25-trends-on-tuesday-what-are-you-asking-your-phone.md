@@ -7,7 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - DOI
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-5
   - trends-on-tuesday

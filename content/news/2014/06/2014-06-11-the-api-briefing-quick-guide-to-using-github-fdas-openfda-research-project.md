@@ -9,10 +9,8 @@ topics:
   - api
   - code
   - content
-  - fda
-  - GitHub
+
   - open-source
-  - OPM
   - wednesday-api-briefing
 ---
 

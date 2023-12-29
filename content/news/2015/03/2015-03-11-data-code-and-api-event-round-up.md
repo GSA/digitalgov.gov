@@ -7,24 +7,17 @@ authors:
   - apiazza
 topics:
   - monthly-theme
-  - our-work
   - 18f
   - api
-  - CFPB
-  - Consumer Financial Protection Bureau
   - content-management-system
   - data
   - data-gov
-  - drupal
-  - GitHub
   - json
   - metadata
   - mobile-gov-community-of-practice
   - open-and-structured-content-models
   - open-data
-  - recaps
   - responsive-web-design
-  - white-house
 ---
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< ref "/events" >}})

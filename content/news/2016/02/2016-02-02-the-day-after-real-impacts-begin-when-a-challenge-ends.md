@@ -7,8 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - our-work
-  - recaps
 ---
 
 In 1927, Charles Lindbergh won the Orteig Prize for becoming the first pilot to fly nonstop from New York to Paris.

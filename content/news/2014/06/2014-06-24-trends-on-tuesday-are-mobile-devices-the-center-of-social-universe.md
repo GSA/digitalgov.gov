@@ -10,15 +10,10 @@ topics:
   - mobile
   - monthly-theme
   - social-media
-  - CNCS
-  - Corporation for National and Community Service
   - crowdsourcing
-  - DOT
   - internet-of-things
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - trends-on-tuesday
 ---
 

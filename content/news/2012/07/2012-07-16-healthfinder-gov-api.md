@@ -8,7 +8,6 @@ topics:
   - code
   - mobile
   - api
-  - HHS
   - mobile-gov
   - mobile-gov-experience
 ---

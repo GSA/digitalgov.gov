@@ -8,7 +8,6 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - NPS
   - social-media
 ---
 

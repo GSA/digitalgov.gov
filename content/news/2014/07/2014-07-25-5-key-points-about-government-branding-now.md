@@ -8,9 +8,6 @@ authors:
 topics:
   - content
   - social-media
-  - DoD
-  - NARA
-  - national-archives-and-records-administration
   - united-states-department-of-defense
 ---
 

@@ -8,20 +8,12 @@ authors:
 topics:
   - mobile
   - monthly-theme
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DOE
   - Federal CrowdSource Mobile Testing Program
-  - HHS
-  - mobile
   - mobile-ux-guideline-1
   - native-app
   - open-and-structured-content-models
   - responsive-web-design
   - united-states-department-of-energy
-
 ---
 
 What’s your mobile itch?

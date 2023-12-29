@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - fda
   - infographic
   - usability
   - usability-case-study

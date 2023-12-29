@@ -21,7 +21,6 @@ topics:
   - metrics
   - multilingual
   - analytics
-  - analytics-usa-gov
   - customer-service
   - dap
 

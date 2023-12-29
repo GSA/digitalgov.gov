@@ -8,14 +8,8 @@ authors:
 topics:
   - api
   - data
-  - Census
-  - FCC
-  - fda
-  - federal-communications-commission
   - GPS
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - united-states-census-bureau
 ---
 

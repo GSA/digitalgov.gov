@@ -6,13 +6,7 @@ summary: 'Providing professional development for over 100,000 employees is no ea
 authors:
   - awichman
 topics:
-  - our-work
-  - DOT
-  - epa
   - open-opportunities-program
-  - transportation-security-administration
-  - TSA
-
 ---
 
 Providing professional development for over 100,000 employees is no easy task. To build on the existing skills of their workforce, the U.S. Department of Agriculture (USDA) has piloted AgOpportunity, a program that matches USDA employees with projects that need their skills and interest.

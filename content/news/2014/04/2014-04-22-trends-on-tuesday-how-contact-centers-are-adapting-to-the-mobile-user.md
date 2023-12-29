@@ -6,7 +6,6 @@ summary: While it does provide challenges, anytime, anywhere digital government 
 authors:
   - jparcell
 topics:
-  - communities
   - mobile
   - monthly-theme
   - strategy
@@ -14,7 +13,6 @@ topics:
   - aoi
   - GPS
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
   - trends-on-tuesday
 ---
 

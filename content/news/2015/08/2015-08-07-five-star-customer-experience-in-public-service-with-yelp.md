@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - api
-  - DOT
   - socialgov
   - terms-of-service
   - tos

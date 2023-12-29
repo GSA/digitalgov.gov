@@ -6,25 +6,8 @@ summary: Social media for public service is a diverse field that uses platforms 
 authors:
   - jherman
 topics:
-  - communities
   - social-media
   - aoi
-  - Central Intelligence Agency
-  - CIA
-  - DOI
-  - fda
-  - federal-register
-  - FSA
-  - HHS
-  - NARA
-  - nasa
-  - national-archives-and-records-administration
-  - National Highway Traffic Safety Administration
-  - National Library of Medicine
-  - national-oceanic-and-atmospheric-administration
-  - NLM
-  - NOAA
-  - ODNI
   - peace-corps
   - socialgov-community
 ---

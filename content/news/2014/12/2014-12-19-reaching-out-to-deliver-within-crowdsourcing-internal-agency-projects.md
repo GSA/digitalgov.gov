@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - 18f
   - crowdsourcing
-  - HHS
+  
   - open-opportunities-program
 ---
 

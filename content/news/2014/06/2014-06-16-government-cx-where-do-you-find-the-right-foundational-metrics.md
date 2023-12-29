@@ -10,7 +10,6 @@ topics:
   - metrics
   - customer-experience
   - customer-satisfaction
-  - Export-Import Bank of the United States
 ---
 
 {{< legacy-img src="2014/06/250-x-250-Target-NemanjaZs-iStock-Thinkstock-461761907.jpg" alt="NemanjaZs/iStock/Thinkstock" caption="" >}} 

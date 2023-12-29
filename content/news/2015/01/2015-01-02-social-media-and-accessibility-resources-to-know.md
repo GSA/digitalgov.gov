@@ -7,14 +7,9 @@ authors:
   - deb-lebel
 topics:
   - accessibility
-  - communities
   - social-media
   - aids-gov
   - aoi
-  - DOL
-  - FCC
-  - federal-communications-commission
-  - HHS
   - section-508
   - socialgov-community
   

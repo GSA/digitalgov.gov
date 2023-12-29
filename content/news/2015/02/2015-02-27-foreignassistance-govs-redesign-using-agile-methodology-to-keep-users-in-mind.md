@@ -9,7 +9,6 @@ topics:
   - content
   - monthly-theme
   - agile
-  - office-of-the-us-foreign-assistance-resources
   - personas
   - user-experience
 ---

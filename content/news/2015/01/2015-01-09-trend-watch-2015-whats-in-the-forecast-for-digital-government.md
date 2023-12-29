@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - challenges
-  - communities
   - data
   - product-management
   - mobile

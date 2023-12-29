@@ -9,7 +9,6 @@ summary: "For our September call, we focused on the future of the U.S. Web Desig
 topics:
   - user-research
   - usability
-  - recaps
 
 # See all authors at https://digital.gov/authors
 authors:

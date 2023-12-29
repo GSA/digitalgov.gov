@@ -7,13 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - epa
-  - FCC
-  - federal-communications-commission
-  - HHS
   - artificial-intelligence
   - open-government
   - structured-content

@@ -10,8 +10,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - customer-experience
-  - HHS
-  - Office of Child Support Enforcement
   - usability
 ---
 

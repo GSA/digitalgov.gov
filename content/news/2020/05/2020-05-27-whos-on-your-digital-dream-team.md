@@ -14,7 +14,6 @@ topics:
   - 21st-century-idea
   - governance
   - professional-development
-  - training
   - this-weeks-idea
   - digital-service-delivery
 

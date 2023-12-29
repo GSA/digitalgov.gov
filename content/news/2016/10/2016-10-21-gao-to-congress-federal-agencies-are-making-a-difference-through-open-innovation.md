@@ -7,7 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - communities
   - crowdsourcing-and-citizen-science
   - product-management
   - strategy
@@ -17,11 +16,11 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - DOT
-  - epa
-  - GAO
+  
+  
+  
   - innovation
-  - nasa
+  
   - open-data
 ---
 

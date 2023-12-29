@@ -9,7 +9,6 @@ topics:
   - api
   - code
   - api
-  - Federal Reserve Board
   - wednesday-api-briefing
 ---
 

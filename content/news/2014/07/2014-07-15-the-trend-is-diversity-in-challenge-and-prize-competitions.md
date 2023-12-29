@@ -10,16 +10,11 @@ topics:
   - monthly-theme
   - challenge-gov
   - challenges-and-prizes-community-of-practice
-  - DOE
-  - HHS
   - innovation
-  - nasa
-  - SBA
-  - sitesusagov
   - united-states-department-of-energy
 ---
 
-{{< legacy-img src="2014/07/250-x-222-diversity-Collage-of-Kiev-front-doors-Ukraine-maroznc-iStock-Thinkstock-182253106.jpg" alt="Challenges are a first step/front door to problem solving with the public. Photo shows a collage of Kiev front doors in the Ukraine, representing diversity." caption="" >}} 
+{{< legacy-img src="2014/07/250-x-222-diversity-Collage-of-Kiev-front-doors-Ukraine-maroznc-iStock-Thinkstock-182253106.jpg" alt="Challenges are a first step/front door to problem solving with the public. Photo shows a collage of Kiev front doors in the Ukraine, representing diversity." caption="" >}}
 
 The U.S. government has launched more than 45 [challenge and prize competitions](https://challenge.gov/ "Challenge.gov list of federal prize competitions") so far in Fiscal Year 2014. What trends are we seeing? Well, the trend is&#8230;diversity. That might sound like an oxymoron, but federal agencies are really putting themselves out there, asking the crowd to help tackle a wide array of problems.
 
@@ -32,5 +27,3 @@ If you need any information about challenge platforms, [let us know](https://cha
 So don&#8217;t delay! Be part of the movement and try [crowdsourcing]({{< ref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}} "Getting started with Challenge and Prize Competitions").
 
 _This article is part of this month&#8217;s editorial theme on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
-
- 

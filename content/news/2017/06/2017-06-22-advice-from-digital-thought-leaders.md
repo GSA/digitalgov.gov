@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - data
-  - HHS
+  
   - innovation
   - video
   - video-production-pros-community

@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - FAA
   - mobile-gov-experience
 ---
 

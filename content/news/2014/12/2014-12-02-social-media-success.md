@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - social-media
-  - DOI
 ---
 
 {{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="600 x 332 Strategy concepts on chalk board Melpomenem iStock Thinkstock 466815611" >}}

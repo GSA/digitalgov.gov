@@ -7,15 +7,9 @@ authors:
   - rflagg
 topics:
   - product-management
-  - our-work
   - 18f
   - customer-experience
   - customer-service
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
-  - national-cancer-institute
-  - NCI
-  - Office of Child Support Enforcement
   - user-experience
 ---
 

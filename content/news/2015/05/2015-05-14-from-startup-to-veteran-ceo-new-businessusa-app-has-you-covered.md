@@ -7,9 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - department-of-commerce
   - mobile-apps
-  - SBA
   - thursday-mobile-products
  
 ---

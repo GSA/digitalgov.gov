@@ -9,7 +9,6 @@ topics:
   - social-media
   - multilingual
   - multilingual-community
-  - recaps
   - social-media
 ---
 

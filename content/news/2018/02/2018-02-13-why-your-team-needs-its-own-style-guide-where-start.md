@@ -11,10 +11,6 @@ topics:
   - mobile
   - content
   - accessibility
-  - cfpb
-  - consumer-financial-protection-bureau
-  - federal-reserve-board
-  - frb
   - user-experience
 featured_image:
   uid: cfpb-secondary-color-palette-swatches-featured

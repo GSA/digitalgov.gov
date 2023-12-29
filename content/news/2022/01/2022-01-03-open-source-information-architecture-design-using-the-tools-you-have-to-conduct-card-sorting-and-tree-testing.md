@@ -11,7 +11,6 @@ topics:
   - open-source
   - user-research
   - prototype
-  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - shannon-mcharg

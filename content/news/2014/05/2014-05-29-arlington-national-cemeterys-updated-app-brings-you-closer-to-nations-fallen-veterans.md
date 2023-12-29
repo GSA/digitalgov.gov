@@ -5,7 +5,6 @@ title: 'Arlington National Cemetery&#8217;s Updated App Brings You Closer to Nat
 summary: 'While many of us were planning for barbecues or heading to lakes and beaches on the eve of Memorial Day Weekend,  the digital team at Arlington National Cemetery was busy doing what they do best:  honoring the sacrifices of America&#8217;s'
 topics:
   - mobile
-  - arlington-national-cemetery
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

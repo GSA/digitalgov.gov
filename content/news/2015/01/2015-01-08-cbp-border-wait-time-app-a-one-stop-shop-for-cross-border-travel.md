@@ -7,8 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - dhs
-  - ICE
   - thursday-mobile-products
 ---
 

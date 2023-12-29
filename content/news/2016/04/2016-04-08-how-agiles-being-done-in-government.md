@@ -12,8 +12,7 @@ topics:
   - policy
   - 18f
   - agile
-  - Census
-  - communities
+  
   - lean
   - methodology
   - project-management

@@ -9,7 +9,6 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - our-work
   - cloud-and-infrastructure
   - search
   - infrastructure

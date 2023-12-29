@@ -9,14 +9,12 @@ topics:
   - design
   - mobile
   - monthly-theme
-  - HHS
   - mobile-gov
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - responsive-web-design
   - trends-on-tuesday
   - user-experience
-
 ---
 
 {{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}}

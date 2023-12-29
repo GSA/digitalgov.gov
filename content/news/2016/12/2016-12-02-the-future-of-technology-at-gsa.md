@@ -13,8 +13,6 @@ topics:
   - 18f
   - gsa
   - innovation
-  - technology-transformation-services
-  - tts
 primary_image: "nongkran-ch-istock-getty-images-487970224-comp"
 
 ---

@@ -9,7 +9,6 @@ authors:
 topics:
   - user-testing-and-research
   - customer-experience
-  - HHS
 ---
 
 <p style="text-align: left;">

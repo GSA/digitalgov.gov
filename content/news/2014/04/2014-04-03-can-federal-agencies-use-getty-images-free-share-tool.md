@@ -7,15 +7,11 @@ authors:
   - judith-snyderman
 topics:
   - social-media
-  - DoD
-  - Library of Congress
-  - LOC
-  - national-archives-and-records-administration
   - united-states-department-of-defense
 
 ---
 
-[{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}] 
+[{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}]
 
 Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool.
 
@@ -39,7 +35,7 @@ Most images are **copyrighted**, but some are in **public domain**. Generally sp
 
   * Copyright law in the U.S. automatically makes the photographer the owner of the image.
   * Companies that manage large photo collections like AP, AFP, Getty, Corbis, Magnum etc., manage the rights and terms of use for all the images they distribute.
-  * Most U.S. government created works are in the public domain under U.S. law. If you are in the United States, you don’t need permission to use photographs that the federal government owns, including: 
+  * Most U.S. government created works are in the public domain under U.S. law. If you are in the United States, you don’t need permission to use photographs that the federal government owns, including:
       * Photos taken by government staff or, under certain circumstances, work-for-hire photographers.
       * Photos donated by owners to federal archives and libraries with no usage restrictions.
       * Old photos with expired, un-renewed copyrights. (For practical purposes though, assume unattributed images you find on the Internet are protected by copyright.)
@@ -51,7 +47,7 @@ One sure way to acquire photos with appropriate rights is to get them from prima
   * Avoid unfiltered Google image searches due to time-consuming research that may be needed to authenticate copyright status and obtain permissions.
   * Use Google’s image search filter “by usage rights”. If you choose an image “labeled for reuse” still check who did the labeling to confirm the rights status.
   * Connect to primary image sources through your agency. Federal agencies including the Department of State often maintain license agreements with copyrighted news and stock image libraries. Terms of use vary, but this is a great way to quickly find appropriate images with verified caption/cutline/credit information and usage rules.
-  * Tap into online photo collections with public domain photographs such as: 
+  * Tap into online photo collections with public domain photographs such as:
       * [The National Archives](http://www.archives.gov/research/search/)
       * [Library of Congress](http://loc.gov/pictures/)
       * Department of Defense [DVIDS](http://www.dvidshub.net/)
@@ -69,6 +65,6 @@ Many agencies curate and feature some of their best images in [Flickr streams](h
 
 The best strategy is to consistently take the time to properly tag, caption and credit photographs. This will not only clearly identify what is public domain and what is copyrighted, but also make it easier for future researchers to find your best photographs.
 
---- 
+---
 
 _**Judith Snyderman** is a stock image specialist and contractor for government agencies._

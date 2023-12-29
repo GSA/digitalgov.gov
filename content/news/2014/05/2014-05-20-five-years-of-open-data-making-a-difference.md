@@ -8,10 +8,8 @@ authors:
 topics:
   - api
   - data
-  - american-red-cross
   - data-gov
-  - DOT
-  - GitHub
+  
   - open-data
 ---
 

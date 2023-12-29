@@ -13,7 +13,7 @@ topics:
   - 18f
   - cloud
   - cloud-gov
-  - CMS
+  
   - content-management-system
   - fedramp
   - gsa

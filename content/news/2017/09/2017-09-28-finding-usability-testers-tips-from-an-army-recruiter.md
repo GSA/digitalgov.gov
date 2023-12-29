@@ -7,7 +7,6 @@ authors:
   - meghan-lazier
 topics:
   - user-testing-and-research
-  - opm
   - usability
   - usability-testing
   - user-centered-design

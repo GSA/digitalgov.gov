@@ -8,7 +8,6 @@ authors:
   - mark-anthony
 topics:
   - social-media
-  - OPM
   - socialgov-community
 ---
 

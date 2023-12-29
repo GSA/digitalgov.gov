@@ -8,10 +8,9 @@ authors:
 topics:
   - data
   - monthly-theme
-  - DOT
 ---
 
-The Department of Transportation (DOT) has invited transit agencies to share their schedule data to feed an upcoming National Transit Map. The new initiative won’t provide trip planning, but will make it possible for researchers, policymakers, and private citizens to identify and address gaps in access to public transportation. These gaps will be identified through the collection of transit data (including where transit stops are, how frequent transit service is, and where transit routes go.) Many transit agencies already publish this data locally, but it has yet to be combined into one national, openly available map of transit service in America, according to a blog post from Secretary Foxx in [DOT’s Fast Lane](https://www.transportation.gov/fastlane/housing-transportation-and-opportunity). {{< legacy-img src="2016/03/600-x-385-State-Puzzle-Julesinski-iStock-Thinkstock-181394626.jpg" alt="A United States road map, shown as a pile of puzzle pieces of each state" caption="" >}} 
+The Department of Transportation (DOT) has invited transit agencies to share their schedule data to feed an upcoming National Transit Map. The new initiative won’t provide trip planning, but will make it possible for researchers, policymakers, and private citizens to identify and address gaps in access to public transportation. These gaps will be identified through the collection of transit data (including where transit stops are, how frequent transit service is, and where transit routes go.) Many transit agencies already publish this data locally, but it has yet to be combined into one national, openly available map of transit service in America, according to a blog post from Secretary Foxx in [DOT’s Fast Lane](https://www.transportation.gov/fastlane/housing-transportation-and-opportunity). {{< legacy-img src="2016/03/600-x-385-State-Puzzle-Julesinski-iStock-Thinkstock-181394626.jpg" alt="A United States road map, shown as a pile of puzzle pieces of each state" caption="" >}}
 
 Transit agencies are encouraged to voluntarily grant DOT access to and use of their data for this initiative, as each transit agency has different terms and conditions on their open data, and many include restrictions.
 

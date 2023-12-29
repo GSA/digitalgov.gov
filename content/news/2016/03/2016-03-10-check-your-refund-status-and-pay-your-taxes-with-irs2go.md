@@ -8,8 +8,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Internal Revenue Service
-  - IRS
+  
   - mobile-apps
   - thursday-mobile-products
   - us-digital-registry

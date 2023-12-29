@@ -11,12 +11,7 @@ topics:
   - social-media
   - accessibility
   - search
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - social-media
   - socialgov
-  - transportation-security-administration
-  - TSA
 ---
 
 While examples of government social media content may initially seem like mere fun—the [YouTube video of President Obama on Between Two Ferns](https://www.youtube.com/watch?v=UnW3xkHxIEQ) or the Transportation Security Administration’s “good catch” pics of [lipstick stun guns](https://instagram.com/p/0WUAzwl9xT/?taken-by=tsa) and [batarangs](https://instagram.com/p/zTOqVrF9wl/?taken-by=tsa)—the potential of applied social data to build, evaluate and improve diverse citizen services is only increasing.

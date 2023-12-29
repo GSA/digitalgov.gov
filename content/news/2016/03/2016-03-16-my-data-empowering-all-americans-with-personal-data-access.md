@@ -12,11 +12,7 @@ topics:
   - monthly-theme
   - 18f
   - data-gov
-  - Education
-  - HHS
   - open-government
-  - SSA
-  - the-united-states-social-security-administration
   - united-states-department-of-energy
 ---
 

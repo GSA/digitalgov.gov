@@ -8,17 +8,9 @@ authors:
 topics:
   - api
   - code
-  - api
-  - Census
-  - epa
-  - FCC
-  - federal-register
-  - National Weather Service
-  - NREL
-  
 ---
 
-{{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+{{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}}
 
 These are the elements you should include in your federal API release.
 

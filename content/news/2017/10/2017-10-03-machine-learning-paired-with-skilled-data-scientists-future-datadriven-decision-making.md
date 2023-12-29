@@ -9,13 +9,10 @@ topics:
   - data
   - artificial-intelligence
   - big-data
-  - darpa
   - data
   - emerging-tech
-  - defense-advanced-research-projects-agency
-  - hhs
-  - nasa
-  - national-aeronautics-and-space-administration
+  - open-data
+  - analytics
   - trends-on-tuesday
   - rpa
 featured_image:

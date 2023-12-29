@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - writing
-  - blog
   - podcast
   - the-content-corner
 

@@ -10,10 +10,7 @@ authors:
 topics:
   - accessibility
   - video
-  - DOJ
-  - nasa
   - section-508
-  - VA
   - social-media
 
 ---
@@ -30,7 +27,7 @@ Audio Description is usually delivered as a separate audio track that a person w
 
 Some examples of videos with captions and separate transcripts can be see at the Department of Justice&#8217;s [ADA Video Gallery](http://www.ada.gov/videogallery.htm).
 
-There are three types of audio description: 
+There are three types of audio description:
 
   1. **Closed audio description**—These descriptions can be turned on or off by the viewer, since they’re saved inside your video.
   2. **Open audio description**—These play automatically when you click play and can&#8217;t be turned off.

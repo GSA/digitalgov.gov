@@ -7,9 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - api
-  - epa
-  - OPM
   - wednesday-api-briefing
 ---
 

@@ -12,7 +12,7 @@ topics:
   - policy
   - content
   - content-strategy
-  - dhs
+  
   - social-media
 ---
 

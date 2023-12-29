@@ -14,7 +14,6 @@ summary: "**COVID-19 Is Complex, as Is COVID-19 Open Data**&mdash;HHS recently
 topics:
   - data
   - open-data
-  - hhs
 slug: covid-19-is-complex-as-is-covid-19-open-data
 # Controls how this page appears across the site
 # 0 -- hidden

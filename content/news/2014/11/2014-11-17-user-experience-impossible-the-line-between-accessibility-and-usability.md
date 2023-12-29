@@ -11,7 +11,6 @@ topics:
   - monthly-theme
   - user-testing-and-research
   - accessibility
-  - SBA
   - section-508
   - usability
   - user-experience

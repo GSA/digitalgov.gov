@@ -12,7 +12,6 @@ topics:
   - ai
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
-  - best-practices
   - chatbots
   - data
   - innovation
@@ -38,7 +37,7 @@ So, how do agencies prepare their government datasets for chatbots? The key is t
   3. Map the conversation trees. A conversation tree is a map of the possible conversations including how the bot will respond to keywords. Conversation trees also include the inputs from datasets in response to the conversations. Many practitioners recommend using [mind mapping](http://www.mindmapping.com/) to visualize the conversation trees.
   4. Map the keywords to the data queries. Create a dictionary of keywords and then list the datasets around the keywords. The idea is to determine how the keyword will shape the dataset query to receive the query results in the most effective manner for each keyword.
 
-By following the above steps, agencies are creating [structured content built specifically for chatbots]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}}). Mobile apps, responsive websites, and progressive web apps still have a role to play. However, users are demanding more ways to access government data not embedded in a site. Users want on-demand information, like how chatbots deliver information. Agencies need to free the datasets to be useful in many ways that people want to access federal government data.
+By following the above steps, agencies are creating [structured content built specifically for chatbots](https://digital.gov/2013/07/29/how-to-create-open-structured-content/). Mobile apps, responsive websites, and progressive web apps still have a role to play. However, users are demanding more ways to access government data not embedded in a site. Users want on-demand information, like how chatbots deliver information. Agencies need to free the datasets to be useful in many ways that people want to access federal government data.
 
 _(Forbes magazine is used for illustrative purposes only and does not imply endorsement by the federal government or any federal agencies.)_
 

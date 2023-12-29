@@ -7,7 +7,6 @@ authors:
   - david-kaufmann
 topics:
   - metrics
-  - our-work
   - analytics
   - dap
   - data

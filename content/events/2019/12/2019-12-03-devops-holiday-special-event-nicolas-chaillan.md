@@ -22,7 +22,6 @@ topics:
   - software-engineering
   - big-data
   - cloud
-  - dod
   - internet-of-things
   - virtual-reality
 

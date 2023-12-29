@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - native-app
-  - NOAA
   - thursday-mobile-products
 ---
 

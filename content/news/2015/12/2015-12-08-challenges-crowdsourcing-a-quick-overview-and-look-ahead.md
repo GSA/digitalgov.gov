@@ -16,15 +16,7 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdfunding
   - crowdsourcing
-  - epa
   - FCPCCS
-  - national-institute-of-standards-and-technology
-  - national-science-foundation
-  - NIST
-  - NPS
-  - nsf
-  - OSTP
-  - white-house-office-of-science-and-technology-policy
 ---
 
 This month we’re [highlighting articles about challenge competitions and crowdsourcing]({{< ref "/topics/monthly-theme" >}}) across the federal government.

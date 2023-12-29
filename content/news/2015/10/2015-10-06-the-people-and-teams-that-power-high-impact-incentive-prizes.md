@@ -10,9 +10,6 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - fda
-  - national-institutes-of-health
-  - nih
 ---
 
 [{{< legacy-img src="2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/600-x-175-challenge-gov-5-years.jpg)

@@ -11,7 +11,6 @@ topics:
   - api
   - dap
   - digital-analytics-program
-  - drupal
   - GobiernoUSAgov
   - government-contact-centers
   - personas

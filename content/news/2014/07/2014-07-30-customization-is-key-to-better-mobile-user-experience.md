@@ -7,17 +7,11 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - cdc
-  - centers-for-disease-control-and-prevention
   - gps
-  - hhs
-  - loc
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-3
-  - nps
-  - smithsonian-institution
   - user-experience
 
 

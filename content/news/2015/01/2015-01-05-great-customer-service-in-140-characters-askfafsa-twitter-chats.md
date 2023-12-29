@@ -7,9 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  - federal-student-aid
-  - FSA
-  - VA
 ---
 
 {{< legacy-img src="2014/12/560-x-624-AskFAFSA-Twitter-Aug-2014.jpg" alt="560 x 624 AskFAFSA Twitter Aug 2014" >}}

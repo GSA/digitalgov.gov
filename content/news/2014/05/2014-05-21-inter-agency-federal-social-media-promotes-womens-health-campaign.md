@@ -7,11 +7,6 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - fda
-  - HHS
-  - national-institutes-of-health
-  - nih
-  - recaps
   - social-media
 ---
 

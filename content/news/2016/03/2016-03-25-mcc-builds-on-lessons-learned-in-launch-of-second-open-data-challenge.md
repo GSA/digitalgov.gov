@@ -9,7 +9,6 @@ topics:
   - data
   - monthly-theme
   - challenges-and-prize-competitions
-  - MCC
   - open-data
 ---
 

@@ -6,7 +6,6 @@ summary: ""
 authors:
   - barbara-walton
 topics:
-  - communities
   - content
   - data
   - product-management

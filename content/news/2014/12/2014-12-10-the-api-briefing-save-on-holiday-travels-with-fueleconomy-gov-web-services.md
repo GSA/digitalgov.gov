@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - mobile
-  - DOE
   - united-states-department-of-energy
   - wednesday-api-briefing
 ---

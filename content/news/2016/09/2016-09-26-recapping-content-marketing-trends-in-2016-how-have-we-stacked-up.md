@@ -10,23 +10,17 @@ topics:
   - product-management
   - strategy
   - policy
-  - content
   - content-strategy
   - content-syndication
-  - HHS
-  - HRSA
   - mobile
   - mobile-first
   - mobile-friendly
   - multilingual
-  - NARA
-  - national-archives-and-records-administration
   - social-media
   - the-content-corner
-  - white-house
 ---
 
-Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}} 
+Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}}
 
 Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and repurposing content. In the recent blog post, [15 Content Marketing Trends for 2016](http://buildfire.com/content-marketing-trends-2016/), it is noted that the &#8220;average American spends nearly four hours a day bombarded with different types of content.” As consumers of content, it wouldn’t be incredibly off to call it all overwhelming. We all probably have a favorite or two go-to networks where we seek to receive information.
 

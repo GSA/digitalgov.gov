@@ -9,7 +9,6 @@ topics:
   - api
   - api
   - json
-  - OPM
   - wednesday-api-briefing
 ---
 

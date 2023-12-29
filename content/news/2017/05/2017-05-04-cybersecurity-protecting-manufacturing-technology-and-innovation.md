@@ -9,15 +9,10 @@ topics:
   - product-management
   - strategy
   - policy
-  - best-practices
-  - Commerce
   - data
-  - department-of-commerce
   - innovation
   - internet-of-things
   - IoT
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
 ---
 

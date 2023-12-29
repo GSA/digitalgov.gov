@@ -12,13 +12,11 @@ topics:
   - content-management-system
   - content-models
   - data
-  - federal-register
   - metadata
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
   - open-and-structured-content-models
   - open-data
-  - SEC
 ---
 
 {{< legacy-img src="2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}}

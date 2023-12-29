@@ -9,15 +9,13 @@ authors:
 topics:
   - data
   - metrics
-  - our-work
   - user-testing-and-research
   - analytics
   - dap
   - digital-analytics-program
   - metrics
-  - OPM
   - user-experience
-  
+
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._
