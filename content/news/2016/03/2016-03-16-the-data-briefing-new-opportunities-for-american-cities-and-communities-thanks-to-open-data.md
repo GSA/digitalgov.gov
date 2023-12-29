@@ -9,7 +9,6 @@ topics:
   - api
   - data
   - monthly-theme
-  - api
   - internet-of-things
   - open-data
   - the-data-briefing
