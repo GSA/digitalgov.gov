@@ -14,6 +14,8 @@ end_date: 2021-02-24 15:00:00 -0500
 topics:
   - analytics
   - metrics
+  - analytics
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden
