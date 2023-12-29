@@ -6,7 +6,9 @@ summary: 'With more than 400 projects in their portfolio, it can be difficult fo
 authors:
   - susanna-murley
 topics:
-  - DOE
+  - product-and-project-management
+  - open-data
+  - data-visualization
   - united-states-department-of-energy
 ---
 
