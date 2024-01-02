@@ -4,7 +4,7 @@ date: 2015-12-01 9:02:15 -0400
 title: Digital Millennium Copyright Act
 summary: The Digital Millennium Copyright Act (DMCA) is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). Passed on October 12, 1998, the DMCA amended Title 17 of the United States Code to extend the reach of copyright, while limiting the liability of the providers of online services
 topics:
-  - agile
+  - product-and-project-management
 authors:
   - apiazza
 ---

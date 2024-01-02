@@ -8,7 +8,7 @@ title: "NARA Guidance for Implementing Section 207(e) of the E-Government Act of
 summary: "This bulletin provides Federal agencies with the National Archives and Records Administration&#8217;s (NARA) approach to improve the management of electronic records, including web records, as directed by Section 207(e) of the E-Government Act of 2002."
 
 topics:
-  - agile
+  - product-and-project-management
 authors:
   - andreanocesigritz
 

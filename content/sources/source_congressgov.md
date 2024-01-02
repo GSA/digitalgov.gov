@@ -34,7 +34,7 @@ logo: congressgov
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
 topics:
-  - agile
+  - product-and-project-management
 # Make it better ♥
 
 ---

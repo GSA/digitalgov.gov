@@ -4,7 +4,7 @@ date: 2015-11-23 3:03:09 -0400
 title: "Children&#8217;s Online Privacy Protection Rule (&#8220;COPPA&#8221;)"
 summary: "The Children&#8217;s Online Privacy Protection Rule,imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.   View Children&#8217;s Online"
 topics:
-  - agile
+  - product-and-project-management
 authors:
   - andreanocesigritz
 ---

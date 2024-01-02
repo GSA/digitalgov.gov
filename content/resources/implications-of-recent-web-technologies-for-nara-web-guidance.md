@@ -7,7 +7,7 @@ expirydate: "2023-11-21"
 title: Implications of Recent Web Technologies for NARA Web Guidance
 summary: "This document explores some of  the emerging web applications and their impact on records management. In its early days, the web was seen largely as a place to post static documents that were Internet-accessible."
 topics:
-  - agile
+  - product-and-project-management
 authors:
   - apiazza
 
