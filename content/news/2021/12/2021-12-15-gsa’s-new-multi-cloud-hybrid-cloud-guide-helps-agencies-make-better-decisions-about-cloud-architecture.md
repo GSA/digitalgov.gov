@@ -21,7 +21,6 @@ topics:
   - data
   - infrastructure
   - gsa
-  - us-general-services-administration
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

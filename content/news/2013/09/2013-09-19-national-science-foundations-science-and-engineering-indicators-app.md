@@ -6,7 +6,6 @@ summary: 'The National Science Foundation&#8217;s National Science Board has dev
 topics:
   - mobile
   - mobile-apps
-  - nsf
   - thursday-mobile-products
 ---
 

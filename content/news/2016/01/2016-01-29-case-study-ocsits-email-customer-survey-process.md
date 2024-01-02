@@ -8,7 +8,6 @@ authors:
   - rflagg
 
 topics:
-  - our-work
   - user-testing-and-research
   - customer-experience
 

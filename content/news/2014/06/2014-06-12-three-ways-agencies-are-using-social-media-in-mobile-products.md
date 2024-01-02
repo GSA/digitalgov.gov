@@ -16,13 +16,8 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5
-  - National Highway Traffic Safety Administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - socialgov-community
   - trends-on-tuesday
-  - US Department of Agriculture
-  - USDA
 ---
 
 As highlighted in this [Trends on Tuesday]({{< ref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.

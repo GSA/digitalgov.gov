@@ -12,9 +12,6 @@ topics:
   - product-management
   - social-media
   - content
-  - NARA
-  - national-archives-and-records-administration
-  - smithsonian-institution
   - social-media
   - terms-of-service
   - tos

@@ -11,7 +11,6 @@ topics:
   - data
   - product-management
   - monthly-theme
-  - our-work
   - strategy
   - search
   - infrastructure

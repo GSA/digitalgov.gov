@@ -7,10 +7,8 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
   - podcast
   - the-content-corner
-  - us-government-printing-office
 ---
 
 In last week&#8217;s column, I went back to a frequent theme of mine and discussed another method for helping to [feed the content beast]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}), which was [learning when to say no]({{< ref "2015-05-04-the-content-corner-learning-to-say-no.md" >}}) to a new and potentially resource devouring digital channel or platform. However, we also need to take a look at six of the most common content types that you may be creating and examine the ROI for each. Ascend2 recently published the results of their annual [Content Marketing Survey](http://ascend2.com/home/wp-content/uploads/Content-Marketing-Trends-Summary-Report-150310.pdf) providing some useful insights into the effectiveness of specific content types measured against the difficulty it takes to create them.

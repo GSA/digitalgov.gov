@@ -9,21 +9,9 @@ topics:
   - challenges
   - data
   - api
-  - Census
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - department-of-commerce
-  - epa
   - mobile-apps
   - national-day-of-civic-hacking
-  - national-science-foundation
-  - nsf
-  - SBA
-  - us-environmental-protection-agency
-  - us-small-business-administration
   - united-states-census-bureau
-  - USPTO
-  - white-house
 ---
 
 Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved.
@@ -41,9 +29,9 @@ This event will provide an opportunity for us to build stronger ties with the de
 This year, before the civic hacking event on May 31 – June 1, the Census Bureau will participate with Data Innovation DC, May 27, in [hosting a ‘customer-centric’ panel discussion](http://www.meetup.com/Data-Business-DC/events/182552262/), for anyone willing and able to attend. From the Data Innovation DC event page:
 
 > At this event, we are going to bring in actual Census data consumers to discuss their data-related problems.
-> 
+>
 > Why?
-> 
+>
 > Because customer development and finding the data-product market fit are the hard parts of starting a company. By providing access to potential customers who have very specific problems around open data sets, we are trying to lower the barriers for enterprising individuals and teams to start companies. We sincerely hoping that teams will form to address these issues and potentially commercialize their solutions.
 
 The Census Bureau will participate along with a variety of partnering government agencies such as the U.S. Patent and Trademark Office, Environmental Protection Agency, the White House, National Science Foundation, Consumer Financial Protection Bureau, Small Business Administration and others. It is just one way we are meeting the goals for open government so that developers can make apps that make our public data more accessible anytime, anywhere and on any device.

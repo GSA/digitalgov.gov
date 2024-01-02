@@ -9,7 +9,6 @@ authors:
 topics:
   - content
   - product-management
-  - our-work
   - social-media
   - strategy
   - analytics
@@ -17,7 +16,6 @@ topics:
   - gsa
   - open-source
   - responsive-web-design
-  - sitesusagov
   - user-experience
 ---
 

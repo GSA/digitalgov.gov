@@ -9,7 +9,6 @@ topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
   - usability
-  - usagov
   - user-experience
 ---
 

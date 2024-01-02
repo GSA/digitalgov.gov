@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - administrative-office-of-the-united-states-courts
-  - blog
   - artificial-intelligence
   - the-content-corner
 ---

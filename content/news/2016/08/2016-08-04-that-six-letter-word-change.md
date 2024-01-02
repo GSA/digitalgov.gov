@@ -11,7 +11,6 @@ topics:
   - gsa
   - innovation
   - project-management
-  - us-general-services-administration
 ---
 
 One of the biggest challenges in implementing a new technology or process is change. Change creates a multitude of feelings; for some it is apprehension and uncertainty, while for others it is excitement and acceptance.

@@ -7,12 +7,11 @@ authors:
   - jherman
 topics:
   - code
-  - communities
   - product-management
   - metrics
   - social-media
   - aoi
-  - GitHub
+  
   - socialgov-community
 ---
 

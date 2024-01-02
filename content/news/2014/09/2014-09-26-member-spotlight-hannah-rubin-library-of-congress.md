@@ -10,8 +10,6 @@ topics:
   - metrics
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - Library of Congress
-  - LOC
   - open-opportunities-program
 ---
 

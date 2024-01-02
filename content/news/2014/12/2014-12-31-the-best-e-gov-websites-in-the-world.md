@@ -11,7 +11,6 @@ topics:
   - responsive-web-design
   - search-engine-optimization
   - usability
-  - usagov
   - user-experience
 ---
 

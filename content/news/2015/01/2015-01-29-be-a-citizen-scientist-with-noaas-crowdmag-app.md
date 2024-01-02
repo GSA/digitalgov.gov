@@ -9,8 +9,6 @@ topics:
   - mobile
   - Federal Mobile Products Registry
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
  
 
 ---

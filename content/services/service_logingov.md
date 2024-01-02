@@ -31,7 +31,6 @@ topics:
   - login-gov
   - product-management
   - security
-  - authentication
   - online-proofing
 
 

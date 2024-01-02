@@ -13,7 +13,6 @@ topics:
   - agile
   - agile-lean-community-of-practice
   - architecture
-  - best-practices
   - data
   - the-data-briefing
 ---

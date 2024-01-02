@@ -14,7 +14,6 @@ topics:
   - plain-language
   - plain-language-community-of-practice
   - plain-writing-act-of-2010
-  - training
   - writing
   - user-experience
   - content

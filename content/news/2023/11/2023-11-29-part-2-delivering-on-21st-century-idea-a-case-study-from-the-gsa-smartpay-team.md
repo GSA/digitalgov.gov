@@ -28,7 +28,7 @@ weight: 1
 
 ---
 
-{{< box >}}*This is Part 2 in a three-part series with the U.S. General Service Administration (GSA) Center for Charge Card Management (CCCM) about building their new, open-source [program](http://smartpay.gsa.gov) and [training](http://training.smartpay.gsa.gov) websites, and the new [Section 889](https://889.smartpay.gsa.gov/) web app.*
+{{< box >}}*This is Part 2 in a three-part series with the U.S. General Services Administration (GSA) Center for Charge Card Management (CCCM) about building their new, open-source [program](http://smartpay.gsa.gov) and [training](http://training.smartpay.gsa.gov) websites, and the new [Section 889](https://889.smartpay.gsa.gov/) web app.*
 
 *For this post, Jessica Marine, a product manager on the GSA Service Delivery team, chatted with product owner, Andrew Lee. Andrew is a business management specialist with CCCM.*{{< /box >}}
 

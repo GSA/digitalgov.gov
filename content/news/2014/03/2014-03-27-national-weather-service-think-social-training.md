@@ -7,7 +7,6 @@ authors:
   - tim-brice
 topics:
   - social-media
-  - National Weather Service
 ---
 
 [{{< legacy-img src="2014/03/National-Weather-Service-NWS-cloud-logo-250-x-247.png" alt="National Weather Service logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/National-Weather-Service-NWS-cloud-logo-250-x-247.png)For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were being rolled the NWS did some basic training on how to use Facebook and Twitter, but it soon became clear that more in-depth training was needed to help NWS forecasters best use their new social media platforms.

@@ -12,7 +12,6 @@ date: 2023-08-17 14:00:00 -0500
 end_date: 2023-08-17 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - user-experience
 slug: uswds-monthly-call-august-2023
 # zoom, youtube_live, adobe_connect, google

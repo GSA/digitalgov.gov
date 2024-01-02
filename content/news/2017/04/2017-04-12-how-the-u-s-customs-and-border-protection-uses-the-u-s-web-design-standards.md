@@ -9,15 +9,10 @@ topics:
   - design
   - 18f
   - accessibility
-  - us-customs-and-border-protection
-  - dhs
   - mobile
   - responsive-web-design
-  - US Customs and Border Protection
-  - united-states-department-of-homeland-security
-  - uswds
   - user-experience
-  
+
 ---
 
 As mentioned in our recent [Q&A with the team at NASA](https://18f.gsa.gov/2017/03/21/nasa-journey-with-us-web-design-standards/), the U.S. Web Design Standards team is sitting down with various agencies that are using the Standards. In this second post in our series, we met with the team at the [U.S. Customs and Border Protection](https://www.cbp.gov/) and learned how they used the Standards to train, develop, and design their various websites and applications.

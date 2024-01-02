@@ -12,12 +12,9 @@ topics:
   - accessibility
   - GobiernoUSAgov
   - multimedia
-  - recaps
   - social-media
   - socialgov
   - socialgov-community
-  - usa-gov
-  - webinar
 
 ---
 

@@ -6,14 +6,12 @@ summary: 'Tech giants have changed the world of broadcast forever. In a little m
 authors:
   - randy-abramson
 topics:
-  - communities
   - content
   - product-management
   - mobile
   - social-media
   - user-experience
   - video
-  - communities
   - content
   - multimedia
   - video

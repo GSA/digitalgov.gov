@@ -16,7 +16,6 @@ registration_url: https://www.eventbrite.com/e/federal-robotic-process-automatio
 topics:
   - emerging-tech
   - rpa
-  - internal-revenue-service
 venue:
   venue_name: U.S. Office of Personnel Management
   room: Auditorium

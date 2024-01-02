@@ -9,7 +9,6 @@ topics:
   - content
   - data
   - metrics
-  - our-work
   - search
   - open-source
 

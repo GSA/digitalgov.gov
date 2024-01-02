@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - Export-Import Bank of the United States
 ---
 
 [{{< legacy-img src="2014/02/stephani-thum-image.jpg" alt="picture of Stephanie Thum" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/stephani-thum-image.jpg)

@@ -14,7 +14,6 @@ topics:
   - content
   - content-strategy
   - social-media
-  - united-states-department-of-health-and-human-services
 ---
 
 Facebook is a highly visual medium. [Studies](http://www.socialmediaexaminer.com/photos-generate-engagement-research) show that [Facebook posts featuring photos](https://www.facebook.com/AIDS.gov/) are the most noticed, liked, and shared.

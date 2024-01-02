@@ -7,13 +7,9 @@ authors:
   - jparcell
 topics:
   - mobile
-  - fema
-  - mobile
   - mobile-apps
   - mobile-gov
-  - recaps
   - responsive-web-design
-  - us-department-of-education
 ---
 
 <p style="text-align: center">

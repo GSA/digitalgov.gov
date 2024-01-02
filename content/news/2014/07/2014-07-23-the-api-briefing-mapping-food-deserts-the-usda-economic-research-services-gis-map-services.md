@@ -10,8 +10,6 @@ topics:
   - code
   - mobile
   - api
-  - US Department of Agriculture
-  - USDA
   - wednesday-api-briefing
 ---
 

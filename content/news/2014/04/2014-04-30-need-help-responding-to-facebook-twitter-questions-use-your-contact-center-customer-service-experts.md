@@ -6,16 +6,10 @@ summary: 'Government agencies are always looking for better ways to connect with
 authors:
   - candace-maynard
 topics:
-  - communities
   - product-management
   - monthly-theme
   - aoi
-  - HHS
-  - national-institutes-of-health
-  - NCI
-  - nih
   - social-media
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}} 

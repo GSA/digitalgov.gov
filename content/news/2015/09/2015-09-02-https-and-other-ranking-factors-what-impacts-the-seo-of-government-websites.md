@@ -7,7 +7,6 @@ authors:
   - dmccleskey
 topics:
   - content
-  - our-work
   - search
   - https
   - plain-language

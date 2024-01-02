@@ -10,8 +10,6 @@ topics:
   - strategy
   - internet-of-things
   - IoT
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
 ---
 

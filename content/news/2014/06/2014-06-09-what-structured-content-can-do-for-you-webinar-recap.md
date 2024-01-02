@@ -7,19 +7,14 @@ authors:
   - kristen-onell
 topics:
   - api
-  - communities
   - content
   - aoi
   - api
-  - Census
   - content-models
-  - GitHub
+  
   - gsa
   - metadata
-  - national-institutes-of-health
-  - nih
   - open-and-structured-content-models
-  - recaps
   - structured-content
   - united-states-census-bureau
 ---

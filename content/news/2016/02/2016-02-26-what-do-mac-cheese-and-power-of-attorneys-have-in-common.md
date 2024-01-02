@@ -9,8 +9,6 @@ topics:
   - content
   - content-strategy
   - GobiernoUSAgov
-  - usa-gov
-  - usagov
 ---
 
 **They ranked among our top three most popular emails in 2015.**

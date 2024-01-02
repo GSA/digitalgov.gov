@@ -13,7 +13,6 @@ topics:
   - strategy
   - product-management
   - agile
-  - best-practices
   - workflows
   - 18f
 slug: the-weekly-ship-what-it-is-why-useful-and-how-to-create-your-own

@@ -8,7 +8,6 @@ authors:
   - marina-fox
 topics:
   - metrics
-  - our-work
   - analytics
   - customer-satisfaction
   - dap

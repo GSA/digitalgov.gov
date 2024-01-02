@@ -9,7 +9,6 @@ topics:
   - product-management
   - metrics
   - monthly-theme
-  - our-work
   - user-experience
   - customer-experience
   - customer-service

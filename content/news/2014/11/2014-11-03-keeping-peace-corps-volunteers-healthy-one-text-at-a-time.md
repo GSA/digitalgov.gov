@@ -9,12 +9,8 @@ authors:
 topics:
   - api
   - mobile
-  - GitHub
   - mobile-ux-guideline-5
   - open-source
-  - us-digital-service
-  - USDS
-
 ---
 
 {{< legacy-img src="2014/11/600-x-450-First-Aid-Kit-Alena-Brozova-iStock-Thinksotck-91519315.jpg" alt="An open first aid kit." caption="Alena Brozova, iStock, Thinkstock" >}}

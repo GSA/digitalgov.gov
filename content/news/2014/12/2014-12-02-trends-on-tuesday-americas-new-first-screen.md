@@ -7,12 +7,10 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - BLS
   - mobile
   - mobile-app-development-program
   - mobile-apps
   - trends-on-tuesday
-  - us-bureau-of-labor-statistics
 ---
 
 {{< legacy-img src="2014/12/600-x-450-Shows-tablet-denphumi-iStock-Thinkstock-176622799.jpg" alt="concept image of a mobile tablet being used for a variety of tasks; television, movies, games, music, email, social networks, et cetera." caption="" >}} 

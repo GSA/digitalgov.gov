@@ -6,8 +6,6 @@ summary: 'Feeling the need for [more] speed? Well, so is the mobile team at the 
 topics:
   - code
   - mobile
-  - FCC
-  - mobile
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

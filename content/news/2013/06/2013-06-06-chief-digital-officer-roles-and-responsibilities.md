@@ -9,7 +9,6 @@ topics:
   - governance
   - product-management
   - api
-  - department-of-commerce
 ---
 
 <p>

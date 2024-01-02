@@ -9,8 +9,6 @@ topics:
   - api
   - content
   - monthly-theme
-  - our-work
-  - go-usa-gov
 ---
 
 Short URLs are useful for tracking clicks, but they can create a poor user experience because the person clicking the link can’t see the final destination. That’s why Go.USA.gov was created—to show users that they would reach official government information.

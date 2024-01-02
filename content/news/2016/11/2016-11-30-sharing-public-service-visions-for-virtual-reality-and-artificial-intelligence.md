@@ -6,13 +6,11 @@ summary: 'I’m taking a break from sorting through dozens of concepts from fede
 authors:
   - jherman
 topics:
-  - communities
   - emerging-tech
   - product-management
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
-  - communities
   - innovation
   - virtual-reality
   - virtual-augmented-reality-community

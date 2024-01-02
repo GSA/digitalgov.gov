@@ -10,7 +10,7 @@ authors:
   - ed-simcox
 topics:
   - code
-  - hhs
+  
   - innovation
   - mobile-apps
   - open-data

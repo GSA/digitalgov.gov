@@ -9,12 +9,10 @@ authors:
 topics:
   - challenges
   - monthly-theme
-  - Bureau of Justice Statistics
   - challenges-and-prize-competitions
   - data-visualization
-  - DOJ
+  
   - open-data
-  - us-department-of-justice
 ---
 
 [{{< legacy-img src="2014/12/600-x-380-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg" alt="Data visualizations for Mapping Decline St. Louis and the American City website's White Flight tab showing years 2000 - 2010" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/1200-x-815-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg)

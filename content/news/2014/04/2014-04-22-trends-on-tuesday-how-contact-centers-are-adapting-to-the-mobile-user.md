@@ -6,16 +6,13 @@ summary: While it does provide challenges, anytime, anywhere digital government 
 authors:
   - jparcell
 topics:
-  - communities
   - mobile
   - monthly-theme
   - strategy
   - aoi
   - GPS
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
   - trends-on-tuesday
-  - us-department-of-veterans-affairs
 ---
 
 {{< legacy-img src="2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}}

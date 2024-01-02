@@ -16,7 +16,6 @@ topics:
   - mobile-gov
   - responsive-web-design
   - sites
-  - sitesusagov
   - usability-case-study
 
 ---

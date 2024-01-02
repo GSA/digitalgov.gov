@@ -6,15 +6,12 @@ summary: ' Social Media tools, trends and algorithms come and go, but federal ma
 authors:
   - jherman
 topics:
-  - communities
   - product-management
   - social-media
   - aoi
   - api
-  - national-archives-and-records-administration
   - socialgov
   - socialgov-community
-  - us-coast-guard
 ---
 
 <p style="text-align: center">

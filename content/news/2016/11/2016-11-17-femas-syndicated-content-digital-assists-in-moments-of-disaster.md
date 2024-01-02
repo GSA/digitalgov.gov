@@ -13,8 +13,8 @@ topics:
   - content
   - content-strategy
   - content-syndication
-  - federal-emergency-management-agency
-  - fema
+  
+  
   - mobile-apps
   - multilingual
 ---

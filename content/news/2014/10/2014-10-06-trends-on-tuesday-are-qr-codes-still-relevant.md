@@ -6,7 +6,6 @@ summary: 'Recently, I was designing new outreach materials and needed a way to c
 authors:
   - tjohnson
 topics:
-  - communities
   - mobile
   - social-media
   - strategy

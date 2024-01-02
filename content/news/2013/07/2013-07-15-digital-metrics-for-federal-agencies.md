@@ -7,7 +7,6 @@ authors:
   - marina-fox
 topics:
   - metrics
-  - our-work
   - customer-satisfaction
   - mobile
   - social-media

@@ -13,7 +13,6 @@ topics:
   - agile
   - innovation
   - lean
-  - open
   - user-centered-design
 ---
 

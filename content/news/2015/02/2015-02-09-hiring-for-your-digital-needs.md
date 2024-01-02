@@ -8,11 +8,7 @@ authors:
 topics:
   - product-management
   - strategy
-  - national-oceanic-and-atmospheric-administration
-  - noaa
   - professional-development
-  - us-citizenship-and-immigration-service
-  - uscis
 
 ---
 

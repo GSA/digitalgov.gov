@@ -13,7 +13,6 @@ end_date: 2022-02-17 15:00:00 -0500
 topics:
   - design
   - api
-  - uswds
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

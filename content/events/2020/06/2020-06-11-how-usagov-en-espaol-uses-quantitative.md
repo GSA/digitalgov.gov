@@ -29,7 +29,6 @@ topics:
   - social-media
   - strategy
   - multilingual-community
-  - usagov
 
 # see all authors at https://digital.gov/authors
 authors: 

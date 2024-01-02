@@ -11,7 +11,6 @@ topics:
   - governance
   - strategy
   - content-management-system
-  - nasa
 ---
 
 A case study on how NASA is choosing a new enterprise [content management system (CMS)]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit").

@@ -18,7 +18,6 @@ topics:
   - 21st-century-idea
   - accessibility
   - design
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

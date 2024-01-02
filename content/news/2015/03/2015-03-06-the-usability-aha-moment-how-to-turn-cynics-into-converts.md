@@ -9,8 +9,6 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - National Library of Medicine
-  - NLM
   - prototype
   - usability
   - usability-testing

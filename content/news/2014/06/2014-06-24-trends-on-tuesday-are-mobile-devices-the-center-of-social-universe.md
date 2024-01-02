@@ -10,18 +10,11 @@ topics:
   - mobile
   - monthly-theme
   - social-media
-  - CNCS
-  - Corporation for National and Community Service
   - crowdsourcing
-  - DOT
   - internet-of-things
   - mobile
   - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - trends-on-tuesday
-  - US Department of Agriculture
-  - USDA
 ---
 
 {{< legacy-img src="2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 

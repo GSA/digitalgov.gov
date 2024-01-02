@@ -10,7 +10,6 @@ topics:
   - strategy
   - 18f
   - agile
-  - best-practices
   - workflows
 ---
 

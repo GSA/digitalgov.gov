@@ -7,7 +7,6 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - NPS
   - thursday-mobile-products
 ---
 

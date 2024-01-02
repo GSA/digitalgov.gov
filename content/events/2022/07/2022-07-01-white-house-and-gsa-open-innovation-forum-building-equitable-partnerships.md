@@ -15,7 +15,6 @@ topics:
   - diversity-equity-and-inclusion
   - crowdsourcing
   - crowdsourcing-and-citizen-science
-  - open
   - innovation
   - citizen-science
 

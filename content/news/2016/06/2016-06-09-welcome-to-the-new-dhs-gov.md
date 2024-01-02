@@ -16,11 +16,10 @@ topics:
   - accessibility
   - content
   - content-strategy
-  - dhs
+  
   - mobile
   - responsive-web-design
   - section-508
-  - united-states-department-of-homeland-security
   - user-centered-design
   - user-experience
   

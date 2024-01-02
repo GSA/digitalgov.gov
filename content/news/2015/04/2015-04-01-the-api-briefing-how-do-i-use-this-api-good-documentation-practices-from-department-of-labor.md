@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - api
-  - us-department-of-labor
+  
   - wednesday-api-briefing
 ---
 

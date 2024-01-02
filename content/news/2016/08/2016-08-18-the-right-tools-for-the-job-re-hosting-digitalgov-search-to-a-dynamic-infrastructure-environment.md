@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - monthly-theme
-  - our-work
   - strategy
   - cloud-and-infrastructure
   - search

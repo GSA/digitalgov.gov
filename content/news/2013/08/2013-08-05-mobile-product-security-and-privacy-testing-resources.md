@@ -10,7 +10,6 @@ topics:
   - mobile
   - strategy
   - user-testing-and-research
-  - GitHub
   - mobile-testing
   - privacy
   - security

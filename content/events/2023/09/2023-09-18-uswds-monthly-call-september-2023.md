@@ -13,7 +13,6 @@ end_date: 2023-09-21 15:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - user-experience
 
 slug: uswds-monthly-call-september-2023

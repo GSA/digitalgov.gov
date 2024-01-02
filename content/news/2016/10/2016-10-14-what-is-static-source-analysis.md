@@ -11,7 +11,6 @@ topics:
   - strategy
   - 18f
   - analytics
-  - best-practices
   - code
   - metrics
 ---

@@ -9,8 +9,6 @@ topics:
   - api
   - api
   - internet-of-things
-  - US Department of Agriculture
-  - USDA
   - wednesday-api-briefing
 ---
 

@@ -8,9 +8,6 @@ authors:
 topics:
   - content
   - product-management
-  - cdc
-  - DOJ
-  - HHS
   - LEP
   - multilingual
 ---

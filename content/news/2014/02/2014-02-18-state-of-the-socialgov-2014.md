@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - social-media
-  - recaps
   - socialgov
 
 ---

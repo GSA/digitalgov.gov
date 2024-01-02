@@ -11,7 +11,6 @@ topics:
   - accessibility
   - api
   - challenges
-  - communities
   - content
   - data
   - design
@@ -19,7 +18,6 @@ topics:
   - product-management
   - metrics
   - mobile
-  - our-work
   - social-media
   - strategy
   - user-testing-and-research
@@ -41,7 +39,6 @@ topics:
   - open-data
   - open-opportunities-program
   - social-media
-  - training
   - virtual-reality
   - virtual-augmented-reality-community
 

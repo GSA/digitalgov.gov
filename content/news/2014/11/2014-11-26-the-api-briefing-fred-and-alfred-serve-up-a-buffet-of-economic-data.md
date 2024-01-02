@@ -9,9 +9,6 @@ topics:
   - api
   - code
   - api
-  - Federal Reserve Board
-  - US Department of Agriculture
-  - USDA
   - wednesday-api-briefing
 ---
 

@@ -7,10 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - Census
   - challenge-gov
-  - Commerce
-  - department-of-commerce
   - united-states-census-bureau
 ---
 

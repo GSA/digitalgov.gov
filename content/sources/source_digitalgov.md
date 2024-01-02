@@ -9,7 +9,7 @@ slug: digitalgov
 name: "Digital.gov"
 
 # Keep it short — should be no longer than 10 words.
-summary: "Guidance on building better digital services in government."
+summary: "Digital.gov provides guidance on building better websites and digital services for better government."
 
 # What is the URL for this product or service?
 # Primary Domain — the link to your website, blog homepage, or news feed. (e.g., https://18f.gsa.gov/)

@@ -11,7 +11,6 @@ authors:
 topics:
   - code
   - mobile
-  - va
   - open-data
   - artificial-intelligence
   - innovation

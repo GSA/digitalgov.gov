@@ -9,38 +9,15 @@ topics:
   - data
   - product-management
   - content
-  - data
-  - DoD
-  - DOT
-  - Education
-  - epa
-  - nasa
-  - National Aeronautics and Space Administration
-  - national-institutes-of-health
-  - National Library of Medicine
-  - national-oceanic-and-atmospheric-administration
-  - national-science-foundation
-  - nih
-  - NLM
-  - NOAA
-  - nsf
-  - open
   - open-government
-  - OSTP
   - research
-  - US Department of Agriculture
-  - us-department-of-education
-  - us-department-of-veterans-affairs
-  - us-environmental-protection-agency
   - united-states-department-of-defense
   - united-states-department-of-energy
-  - united-states-department-of-transportation
-  - VA
 ---
 
 > _Summary: Significant strides in improving public access to scholarly publications and digital data help usher in an era of open science._
 
-This week marks the 8th annual Open Access Week, when individuals and organizations around the world celebrate the value of opening up online access to the results of scholarly research. It is an opportune time to highlight the considerable progress that Federal departments and agencies have made increasing public access to the results of Federally-supported scientific research and advancing the broader notion of open science. {{< legacy-img src="2016/10/600-x-400-Vector-line-web-concept-for-science-karpenko_ilia-iStock-Thinkstock-604024986.jpg" alt="Vector line web concept for science." caption="" >}} 
+This week marks the 8th annual Open Access Week, when individuals and organizations around the world celebrate the value of opening up online access to the results of scholarly research. It is an opportune time to highlight the considerable progress that Federal departments and agencies have made increasing public access to the results of Federally-supported scientific research and advancing the broader notion of open science. {{< legacy-img src="2016/10/600-x-400-Vector-line-web-concept-for-science-karpenko_ilia-iStock-Thinkstock-604024986.jpg" alt="Vector line web concept for science." caption="" >}}
 
 This week, OSTP is announcing the public access plans of three more Federal departments and agencies—Department of Education (ED), Agency for International Development, and Office of the Director of National Intelligence (ODNI). These plans respond to the <a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf" target="_blank">OSTP Memorandum</a> on Increasing Access to the Results of Federally Funded Scientific Research and establishes objectives for departments and agencies to meet in improving access to peer-reviewed scholarly publications and digital data resulting from Federally-funded research. The completed plan from ED is now available <a href="https://ies.ed.gov/funding/pdf/EDPlanPolicyDevelopmentGuidanceforPublicAccess.pdf" target="_blank">online</a>, and plans of the other two agencies should be published soon.
 

@@ -12,7 +12,6 @@ summary: summ
 # See all topics at https://digital.gov/topics
 topics:
   - data
-  - usa-gov
   - metrics
   - infographic
 slug: usagov-fourth-quarter-2021-insights

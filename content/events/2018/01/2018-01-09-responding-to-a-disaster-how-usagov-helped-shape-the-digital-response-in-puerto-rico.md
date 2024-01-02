@@ -20,7 +20,6 @@ end_date: 2018-01-09 11:30:00 -0500
 topics: 
   - product-management
   - multilingual
-  - usagov
 
 # see all authors at https://digital.gov/authors
 authors: 

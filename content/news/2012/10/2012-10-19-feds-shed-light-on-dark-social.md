@@ -6,7 +6,6 @@ summary: '&#8220;Dark Social&#8221; media took the web by storm this week, unvei
 authors:
   - jherman
 topics:
-  - communities
   - metrics
   - social-media
   - aoi

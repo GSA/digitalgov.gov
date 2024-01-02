@@ -18,14 +18,8 @@ topics:
   - budgeting-and-performance
   - login-gov
   - budgeting-and-performance
-  - FAS
-  - Federal Acquisition Service
   - fedramp
   - innovation
-  - OCSIT
-  - office-of-citizen-services-and-innovative-technology
-  - office-of-products-and-programs
-  - tts
 
 ---
 

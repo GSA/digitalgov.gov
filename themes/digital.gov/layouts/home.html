@@ -6,7 +6,7 @@
           <div class="grid-col-12 tablet-lg:grid-col-4">
             <div class="box">
               <h1 class="resources-featured__title">
-                Guidance on building better digital services in government.
+                {{ $.Site.Params.dg_tagline }}
               </h1>
               <a
                 class="btn btn-home"
@@ -65,8 +65,10 @@
                 <div class="grid-row tablet-lg:grid-gap-2">
                   <div class="grid-col-12">
                     <p class="dg-more-link">
-                      <a href="/topics/21st-century-idea/"
-                        ><span>See all 21st Century IDEA resources</span>
+                      <a
+                        href="{{ "/topics/digital-service-delivery/" | relURL }}"
+                      >
+                        <span>See all 21st Century IDEA resources</span>
                         <svg
                           class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
                           aria-hidden="true"

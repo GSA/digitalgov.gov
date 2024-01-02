@@ -8,9 +8,7 @@ authors:
 topics:
   - social-media
   - socialgov-community
-  - State
   - tos
-  - us-department-of-state
 ---
 
 {{< legacy-img src="2015/07/600-x-226-Slack-browser-phones-cutoff.jpg" alt="Slack device group – Browser+Phones – Cutoff" >}}

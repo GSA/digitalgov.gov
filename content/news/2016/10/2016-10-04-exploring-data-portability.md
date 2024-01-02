@@ -8,10 +8,6 @@ authors:
   - jay-shambaugh
 topics:
   - data
-  - data
-  - OSTP
-  - white-house
-  - white-house-office-of-science-and-technology-policy
 ---
 
 > Summary: We’d like to hear from you on whether and how to increase your ability to get and use your data.

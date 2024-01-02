@@ -18,7 +18,6 @@ topics:
   - privacy
   - security
   - 21st-century-idea
-  - resource
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg

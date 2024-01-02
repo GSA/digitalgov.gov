@@ -9,25 +9,13 @@ topics:
   - monthly-theme
   - social-media
   - analytics
-  - bbg
-  - broadcasting-board-of-governors
   - search
-  - DOI
-  - epa
-  - fda
-  - GAO
-  - HHS
   - social-media
   - social-media-metrics
   - socialgov
   - socialgov-community
   - terms-of-service
   - tos
-  - us-department-of-the-interior
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - us-government-accountability-office
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/06/600-x-360-World-social-digital-TCmake_photo-iStock-Thinkstock-183161931.jpg" alt="A digital graphic of social media icons revolving around a globe, above a smart phone" caption="" >}} 

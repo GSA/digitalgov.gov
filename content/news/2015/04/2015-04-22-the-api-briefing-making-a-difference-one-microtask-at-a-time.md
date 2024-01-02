@@ -12,19 +12,10 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - DOE
   - FCPCCS
-  - federal-emergency-management-agency
-  - fema
   - mobile-apps
-  - NARA
-  - national-archives-and-records-administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-government
   - united-states-department-of-energy
-  - united-states-geological-survey
-  - USGS
   - wednesday-api-briefing
 ---
 

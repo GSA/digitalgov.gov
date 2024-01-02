@@ -11,8 +11,6 @@ topics:
   - product-management
   - user-experience
   - gsa
-  - us-general-services-administration
-  - web-based
 ---
 
 Recently, Regional Administrator Sara Manzano-Díaz of the U.S. General Services Administration (GSA) introduced a web-based leasing tool, the Automated Advanced Acquisition Program (AAAP), to 60 lessors and/or brokers at the Dow Building in Philadelphia. The AAAP tool was designed to consolidate and streamline the leasing process, making for a more efficient, transparent process that also gets the best deal for the American taxpayer.

@@ -12,7 +12,6 @@ date: 2022-12-15 14:00:00 -0500
 end_date: 2022-12-15 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - open-source
   - usability
 # See all authors at https://digital.gov/authors

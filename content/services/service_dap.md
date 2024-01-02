@@ -32,7 +32,6 @@ topics:
   - metrics
   - product-management
   - analytics
-  - analytics-usa-gov
   - dap
   - digital-analytics-program
 ---

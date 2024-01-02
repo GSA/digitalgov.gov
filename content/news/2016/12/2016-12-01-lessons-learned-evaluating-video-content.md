@@ -11,8 +11,8 @@ topics:
   - user-testing-and-research
   - video
   - audio-video
-  - CFPB
-  - Consumer Financial Protection Bureau
+  
+  
   - content
   - content-strategy
   - multimedia

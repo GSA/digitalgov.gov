@@ -20,7 +20,6 @@ summary: This week, we’re exploring what it means to measure performance, and
 topics:
   - 21st-century-idea
   - this-weeks-idea
-  - uswds
   - analytics
   - customer-experience
 

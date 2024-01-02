@@ -11,7 +11,6 @@ end_date: 2019-05-23 15:30:00 -0500
 topics:
   - design
   - product-management
-  - uswds
   - public-sans
 
 # see all authors at https://digital.gov/authors

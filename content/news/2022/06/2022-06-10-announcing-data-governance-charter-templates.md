@@ -11,7 +11,6 @@ topics:
   - data
   - governance
   - analytics
-  - best-practices
 slug: announcing-data-governance-charter-templates
 # Controls how this page appears across the site
 # 0 -- hidden

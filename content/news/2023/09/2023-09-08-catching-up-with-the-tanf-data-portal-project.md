@@ -18,7 +18,6 @@ summary: Around 800,000 low-income American families receive cash assistance
 topics:
   - data
   - 18f
-  - united-states-department-of-health-and-human-services
 slug: catching-up-with-the-tanf-data-portal-project
 # Controls how this page appears across the site
 # 0 -- hidden

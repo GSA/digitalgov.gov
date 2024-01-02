@@ -11,10 +11,8 @@ topics:
   - product-management
   - strategy
   - content-strategy
-  - kids-gov
   - social-media
   - social-media-metrics
-  - usa-gov
 
 ---
 

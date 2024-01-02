@@ -19,12 +19,11 @@ topics:
   - design
   - product-management
   - mobile
-  - uswds
   - user-experience
 
 # What source published this?
 source: "uswds"
 
-weight: 6
+weight: 1
 
 ---

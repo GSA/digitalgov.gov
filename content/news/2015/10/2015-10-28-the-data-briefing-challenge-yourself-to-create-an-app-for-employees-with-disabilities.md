@@ -13,16 +13,12 @@ topics:
   - api
   - data
   - data-gov
-  - DOT
-  - FCC
-  - federal-communications-commission
   - gsa
   - mobile-apps
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3
   - section-508
   - the-data-briefing
-  - united-states-department-of-transportation
 ---
 
 {{< legacy-img src="2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." caption="" >}} 

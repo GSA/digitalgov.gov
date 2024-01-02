@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - gsa
-  - usa-gov
 ---
 
 {{< legacy-img src="2015/09/600-x-315-Vote-USA-gov-open-graph-850x446.jpg" alt="Screen capture of Vote dot U.S.A. dot gov." >}}

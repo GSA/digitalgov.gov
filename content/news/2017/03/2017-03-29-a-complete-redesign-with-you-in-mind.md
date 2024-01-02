@@ -10,14 +10,11 @@ topics:
   - product-management
   - mobile
   - user-testing-and-research
-  - CMS
+  
   - content-management-system
   - draft-web-design-standards
   - mobile
   - mobile-friendly
-  - US Department of Agriculture
-  - uswds
-  - USDA
   - user-experience
   
 ---

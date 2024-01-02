@@ -10,7 +10,6 @@ topics:
   - strategy
   - mobile-apps
   - thursday-mobile-products
- 
 ---
 
 <div class="testimonial small">

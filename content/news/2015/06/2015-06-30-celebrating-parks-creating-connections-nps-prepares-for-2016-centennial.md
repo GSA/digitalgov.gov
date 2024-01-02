@@ -8,9 +8,7 @@ authors:
 topics:
   - monthly-theme
   - social-media
-  - NPS
   - social-media
-  - us-national-park-service
 ---
 
 {{< legacy-img src="2015/06/600-x-300-NPS-Liberty-still-from-promo-video.jpg" alt="Park logo over Statue of Liberty from NPS promo video" >}}

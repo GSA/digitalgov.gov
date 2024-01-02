@@ -12,8 +12,6 @@ topics:
   - challenges-and-prize-competitions
   - data-gov
   - mobile-apps
-  - national-institute-of-standards-and-technology
-  - NIST
 ---
 
 The [Reference Data Challenge](http://nistdata.devpost.com/), launched this summer, was a call for innovative approaches to a long-standing role of the National Institute of Standards and Technology ([NIST](http://www.nist.gov/)) to make “critically evaluated reference data available to scientists, engineers and the general public.” {{< legacy-img src="2015/12/600-x-400-Robot-lamp-working-on-a-laptop-Grassetto-iStock-Thinkstock-451536897.jpg" alt="Robot with an idea light bulb for a head working on a laptop" caption="" >}} 

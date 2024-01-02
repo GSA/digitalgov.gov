@@ -6,9 +6,7 @@ summary: 'Have you been hearing the terms &#8220;Customer Experience&#8221; or &
 authors:
   - alison-sturgeon
 topics:
-  - communities
   - monthly-theme
-  - communities
   - customer-experience
   - customer-satisfaction
   - customer-service

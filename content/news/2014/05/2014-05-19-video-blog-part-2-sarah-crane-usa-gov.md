@@ -10,7 +10,6 @@ topics:
   - content
   - product-management
   - api
-  - usagov
 ---
 
 Part 2 of our interview with Sarah Crane from USA.gov shares how the USA.gov team is tackling content sprawl with the USA.gov API. Missed Part 1 last week? You&#8217;ll want to [watch it]({{< ref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}} "Video Blog: Sarah Crane, USA.gov") before next Tuesday, when we will publish Part 3 where Sarah talks about adaptive content.

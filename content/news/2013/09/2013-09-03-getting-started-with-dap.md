@@ -7,7 +7,6 @@ authors:
   - marina-fox
 topics:
   - metrics
-  - our-work
   - digital-analytics-program
   - google-analytics
 ---

@@ -10,7 +10,7 @@ redirectto: https://www.itdashboard.gov/
 topics:
   - content-strategy
   - content-management-system
-  - cms
+  
 
 # Controls how this page appears across the site
 # 0 -- hidden

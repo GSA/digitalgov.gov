@@ -10,7 +10,6 @@ topics:
   - user-experience
   - mobile
   - mobile-first
-  - recaps
   - responsive-web-design
 
 ---

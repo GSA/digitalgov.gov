@@ -2,11 +2,9 @@
 date: 2021-02-01 15:52:00 -0500
 kicker: Civic Tech
 title: A Soldier's Journey from Big Tech to Government Innovation
-summary: Why I returned to government service, how I brought my tech experience
-  with me, and why you should too.
+summary: Why I returned to government service, how I brought my tech experience with me, and why you should too.
 # See all topics at https://digital.gov/topics
 topics:
-  - us-department-of-veterans-affairs
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

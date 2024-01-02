@@ -12,12 +12,8 @@ topics:
   - fedramp
   - gsa
   - infrastructure
-  - our-work
   - SaaS
   - security
-  - technology-transformation-services
-  - tts
-  - us-general-services-administration
 
 ---
 

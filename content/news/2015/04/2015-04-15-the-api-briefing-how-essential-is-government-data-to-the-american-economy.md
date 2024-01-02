@@ -8,12 +8,6 @@ authors:
 topics:
   - api
   - data
-  - api
-  - Census
-  - data
-  - department-of-commerce
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-data
   - united-states-census-bureau
   - wednesday-api-briefing

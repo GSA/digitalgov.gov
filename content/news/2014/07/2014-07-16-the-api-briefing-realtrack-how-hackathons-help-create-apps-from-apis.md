@@ -12,8 +12,6 @@ topics:
   - product-management
   - challenge-gov
   - mobile-apps
-  - OPM
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 
