@@ -19,7 +19,6 @@ topics:
   - open-opportunities-program
   - section-508
   - sites
-  - us-department-of-veterans-affairs
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}}

@@ -7,14 +7,12 @@ authors:
   - awichman
 topics:
   - mobile
-  - mobile
   - mobile-apps
-  - united-states-office-of-personnel-management
 ---
 
 Need to get in touch with your audience? Give them a little push.
 
-[Push notifications]({{< ref "2015-06-30-trends-on-tuesday-native-app-push-notifications-drive-repeat-use.md" >}}) allow agencies to connect with their audiences for immediate communication. The Office of Personnel Management’s [OPM Alert app](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/mobile-app/) provides a real time look at the current operating status for federal offices in the Washington, DC, area and uses push technology to alert users of status changes. {{< legacy-img src="2016/02/600-x-400-Push-notifications-elements-set-dark-Background-Olyzel-iStock-Thinkstock-488569892.jpg" alt="Push notifications elements set" caption="" >}} 
+[Push notifications]({{< ref "2015-06-30-trends-on-tuesday-native-app-push-notifications-drive-repeat-use.md" >}}) allow agencies to connect with their audiences for immediate communication. The Office of Personnel Management’s [OPM Alert app](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/mobile-app/) provides a real time look at the current operating status for federal offices in the Washington, DC, area and uses push technology to alert users of status changes. {{< legacy-img src="2016/02/600-x-400-Push-notifications-elements-set-dark-Background-Olyzel-iStock-Thinkstock-488569892.jpg" alt="Push notifications elements set" caption="" >}}
 
 While the most well-known use of the OPM Alert is for weather closings, the app can be used to alert users of other events: for example, the app was used to announce the lapse in federal appropriations in 2013 and the resulting office closures (and the later re-opening). Users are able to opt-in for the type of alerts they want to receive.
 

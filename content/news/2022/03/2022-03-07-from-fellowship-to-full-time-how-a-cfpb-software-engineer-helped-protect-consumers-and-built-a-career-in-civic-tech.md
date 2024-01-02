@@ -10,7 +10,6 @@ topics:
   - user-experience
   - accessibility
   - 21st-century-idea
-  - uswds
   - design
 
 # See all authors at https://digital.gov/authors

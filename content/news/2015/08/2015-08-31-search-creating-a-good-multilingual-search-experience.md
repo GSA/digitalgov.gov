@@ -10,12 +10,9 @@ topics:
   - search
   - GobiernoUSAgov
   - multilingual
-  - US Citizenship and Immigration Service
-  - us-department-of-state
-  - USCIS
 ---
 
-[{{< legacy-img src="2015/08/600-human-word-cloud-kgtoh-481085576.jpg" alt="Multilingual word cloud for human." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/600-human-word-cloud-kgtoh-481085576.jpg) 
+[{{< legacy-img src="2015/08/600-human-word-cloud-kgtoh-481085576.jpg" alt="Multilingual word cloud for human." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/600-human-word-cloud-kgtoh-481085576.jpg)
 
 In 2015, [DigitalGov Search](http://search.digitalgov.gov/) dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support [68 different languages](http://search.digitalgov.gov/manual/supported-languages.html). Government agencies across the United States publish content in a growing number of languages to do the business of the country. Language-specific websites and mobile apps include not just translated content, but also site navigation and other lexical elements.
 

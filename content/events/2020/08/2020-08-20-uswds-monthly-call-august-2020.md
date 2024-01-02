@@ -20,7 +20,6 @@ end_date: 2020-08-20 15:30:00 -0500
 topics: 
   - 21st-century-idea
   - design
-  - uswds
   - user-experience
   - user-centered-design
 

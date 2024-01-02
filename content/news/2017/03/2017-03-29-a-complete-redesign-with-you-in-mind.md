@@ -15,9 +15,6 @@ topics:
   - draft-web-design-standards
   - mobile
   - mobile-friendly
-  - US Department of Agriculture
-  - uswds
-  - USDA
   - user-experience
   
 ---

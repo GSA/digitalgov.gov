@@ -15,9 +15,7 @@ topics:
   - 21st-century-idea
   - content-strategy
   - customer-experience
-  - uswds
   - user-experience
-  
   - this-weeks-idea
 
 # see all authors at https://digital.gov/authors

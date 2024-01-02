@@ -16,7 +16,6 @@ topics:
   - product-management
   - user-experience
   - open-source
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

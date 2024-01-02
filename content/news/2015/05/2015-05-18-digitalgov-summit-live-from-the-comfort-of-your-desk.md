@@ -10,11 +10,7 @@ topics:
   - customer-experience
   - gsa
   - open-and-structured-content-models
-  - US Citizenship and Immigration Service
-  - US Department of Agriculture
-  - united-states-department-of-health-and-human-services
-  - USCIS
-  - USDA
+
 ---
 
 The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) with this mission and your needs in mind. The theme is open and [the agenda](https://web.archive.org/web/20150706193108/https://summit.digitalgov.gov/agenda/) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.
@@ -28,7 +24,7 @@ For our Summit this Thursday, we have an amazing line up of speakers and [YOU ca
 Live stream participants will also hear exclusive content:
 
   * Bernetta Reese, Web and Project Manager for the U.S. Department of Agriculture, will conduct live “red carpet” interviews with [Expo exhibitors](https://web.archive.org/web/20150706193127/https://summit.digitalgov.gov/expo/) and [Summit speakers](https://web.archive.org/web/20150706193121/https://summit.digitalgov.gov/speakers/).
-  * Exclusive interviews will be held on: 
+  * Exclusive interviews will be held on:
       * [Open and Structured Content Modeling]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}} "Structured Content in Government: How HHS and NCI Are Getting Started") at the Department of Health and Human Services with Sally Dadjou, Public Affairs Specialist for HHS.
       * [The Public Participation Playbook](https://participation.usa.gov/) with Justin Herman, Federal-wide Social Media Program Lead at GSA.
 

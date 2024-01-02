@@ -11,7 +11,6 @@ topics:
   - content-strategy
   - GobiernoUSAgov
   - multilingual
-  - usa-gov
 ---
 
 {{< legacy-img src="2015/04/600-x-450-USA-Flag-Puzzle-Alex-Slobodkin-iStock-Thinkstock-ThinkstockPhotos-121266219.jpg" alt="USA Flag Puzzle" caption="" >}} 

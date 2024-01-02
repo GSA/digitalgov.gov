@@ -9,8 +9,6 @@ topics:
   - api
   - api
   - json
-  - us-department-of-education
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

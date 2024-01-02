@@ -9,7 +9,6 @@ date: 2022-03-17 14:00:00 -0500
 end_date: 2022-03-17 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - emerging-tech
   - design
 # See all authors at https://digital.gov/authors

@@ -8,7 +8,6 @@ authors:
 topics:
   - analytics
   - search
-  - usagov
 ---
 
 What are your agency’s website visitors looking for? Can they find it easily? How do you know? {{< legacy-img src="2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 

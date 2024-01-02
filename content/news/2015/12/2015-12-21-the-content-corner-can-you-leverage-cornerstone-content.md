@@ -9,7 +9,6 @@ topics:
   - content
   - seo
   - the-content-corner
-  - us-national-park-service
 ---
 
 If you have a website, then you most likely have <a href="http://www.copyblogger.com/cornerstone-content-101/" target="_blank">cornerstone content</a>—though you may not think of it in that way or even considered it. Just as in architecture, a cornerstone is a basic and essential part of any online presence. Cornerstone content is also important to any new visitors to your agency site, even if you are operating a fairly small or minimally viable website.

@@ -12,7 +12,6 @@ topics:
   - customer-experience
   - government-contact-centers
   - personas
-  - usa-gov
 ---
 
 Journey maps are a visual representation of a customer’s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services.

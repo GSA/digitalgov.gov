@@ -19,18 +19,11 @@ topics:
   - data
   - FCPCCS
   - open-government
-  - us-agency-for-international-development
-  - us-department-of-state
-  - us-environmental-protection-agency
   - united-states-department-of-defense
   - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-transportation
-  - usaid
-  - USGS
 ---
 
-{{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}}
 
 This month we&#8217;ll be [highlighting articles about crowdsourcing]({{< ref "/topics/monthly-theme" >}}). These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
 
@@ -55,7 +48,7 @@ Another success story is from National Archives and Records Administration (NARA
 The Office of Science and Technology Policy is putting forth an effort to <a href="http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">create a toolkit for innovation</a> which will involve the [Citizen Science]({{< ref "communities/crowdsourcing-and-citizen-science.md" >}}) and [Challenges & Prizes]({{< ref "challenges-prizes.md" >}} "Challenges & Prizes Community") Communities of Practice. Some details:
 
 > Citizen science and crowdsourcing are powerful tools that can help federal agencies:
-> 
+>
 >   * Advance and accelerate scientific research through group discovery and co-creation of knowledge. For instance, engaging the public in data collection can provide information at resolutions that would be difficult for federal agencies to obtain due to time, geographic, or resource constraints.
 >   * Increase science literacy and provide students with skills needed to excel in science, technology, engineering, and math (STEM). Volunteers in citizen science or crowdsourcing projects gain hands-on experience doing real science, and take that learning outside of the classroom setting.
 >   * Improve delivery of government services with significantly lower resource investments.

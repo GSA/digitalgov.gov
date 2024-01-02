@@ -16,7 +16,6 @@ topics:
   
   - innovation
   - prizes-and-competitions
-  - united-states-department-of-health-and-human-services
   - user-centered-design
 ---
 

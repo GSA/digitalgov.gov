@@ -14,8 +14,6 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
   - open-and-structured-content-models
-  - us-securities-and-exchange-commission
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}

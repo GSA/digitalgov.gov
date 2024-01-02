@@ -16,7 +16,6 @@ topics:
   - accessibility
   - draft-web-design-standards
   - responsive-web-design
-  - uswds
   - usability
   - user-centered-design
   - user-experience

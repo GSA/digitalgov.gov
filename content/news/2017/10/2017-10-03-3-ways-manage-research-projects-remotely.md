@@ -16,8 +16,6 @@ topics:
   - 18f
   - research
   - sprint
-  - us-department-of-the-interior
-  - uswds
   - user-research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428

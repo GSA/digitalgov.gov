@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile-apps
   - open-opportunities-program
-  - US Department of Agriculture
-  - us-food-and-drug-administration
-  - USDA
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}}

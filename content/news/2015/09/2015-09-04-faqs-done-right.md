@@ -8,12 +8,10 @@ authors:
 topics:
   - writing
   - plain-language
-  - US Citizenship and Immigration Service
-  - USCIS
   - user-experience
 ---
 
-{{< legacy-img src="2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}} 
+{{< legacy-img src="2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}}
 
 In the circle of Web content life, FAQ sections are an endangered species. We’ve previously discussed the [relevance of FAQs]({{< ref "2015-04-27-are-faqs-still-relevant.md" >}}): Should FAQs go extinct, or are they a useful tool in your content ecosystem?
 
@@ -31,7 +29,7 @@ Catania highlighted some top tips for improving FAQs:
   * Use real customer feedback. Do not assume what kinds of questions people will have. Monitor customer calls and emails to create helpful FAQs.
   * Use language that non-experts will understand. Use plain language when drafting FAQs. Do not burden your reader with insider jargon or undefined acronyms.
   * Provide unique content with your FAQs. When a FAQ has the same content as other Web pages, it usually means that the FAQ content is redundant and can easily become outdated, especially when content to the website is updated but the FAQs are not.
-  * Limit the volume of content. When there are too many questions, searching through them can overwhelm the reader. They may never find an answer to their question. {{< legacy-img src="2015/08/600-x-450-Frequently-asked-questions-froxx-iStock-Thinkstock-149412960.jpg" alt="A Frequently asked questions hallway" caption="" >}} 
+  * Limit the volume of content. When there are too many questions, searching through them can overwhelm the reader. They may never find an answer to their question. {{< legacy-img src="2015/08/600-x-450-Frequently-asked-questions-froxx-iStock-Thinkstock-149412960.jpg" alt="A Frequently asked questions hallway" caption="" >}}
 
 ###### Designing and Editing FAQs {.post-title}
 
@@ -39,7 +37,7 @@ If your agency is using FAQs, the order, length, and content is critical in prov
 
   1. Read through all of the FAQs first. Then, go through and group them by topic/subject.
   2. Develop headings for each section and organize the content in a way that would make sense to the reader.
-  3. Read through each section and edit the content. 
+  3. Read through each section and edit the content.
       * Focus on steps in a process. Think about what the reader is trying to accomplish.
       * Eliminate redundancies. This often helps with organization.
 

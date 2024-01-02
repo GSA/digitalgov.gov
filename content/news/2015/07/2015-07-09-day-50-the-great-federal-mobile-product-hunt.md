@@ -10,9 +10,6 @@ topics:
   - Federal Mobile Products Registry
   - mobile-apps
   - thursday-mobile-products
-  - us-coast-guard
-  - us-department-of-veterans-affairs
-  - us-small-business-administration
  
 ---
 

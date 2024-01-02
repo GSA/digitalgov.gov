@@ -12,7 +12,6 @@ topics:
   - user-testing-and-research
   - aoi
   - user-experience-community-of-practice
-  - us-bureau-of-labor-statistics
   - usability
   - user-experience
 

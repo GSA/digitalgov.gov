@@ -17,7 +17,6 @@ summary: "As defined in 21st Century IDEA, the Design System incorporates federa
 
 # see all topics at https://digital.gov/topics
 topics:
-  - uswds
   - 21st-century-idea
   - policy
 

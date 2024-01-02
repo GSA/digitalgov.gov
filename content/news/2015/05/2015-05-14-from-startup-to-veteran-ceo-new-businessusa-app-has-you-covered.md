@@ -9,7 +9,6 @@ topics:
   - mobile
   - mobile-apps
   - thursday-mobile-products
-  - us-small-business-administration
  
 ---
 

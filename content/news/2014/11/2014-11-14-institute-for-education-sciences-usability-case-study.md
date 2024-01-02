@@ -8,7 +8,6 @@ authors:
 topics:
   - monthly-theme
   - plain-language
-  - us-department-of-education
   - usability-case-study
   - user-experience
   

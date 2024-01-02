@@ -15,11 +15,9 @@ topics:
   - social-media
   - user-experience
   - 18f
-  - us-department-of-education
-  - united-states-department-of-health-and-human-services
 ---
 
-{{< legacy-img src="2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" caption="" >}} 
+{{< legacy-img src="2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" caption="" >}}
 
 During the [DigitalGov Citizen Services Summit]({{< ref "2014-05-30-digitalgov-citizen-services-summit-a-success.md" >}}) last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on [performance analysis]({{< ref "2014-06-03-digitalgov-summit-panels-recap.md" >}} "Turning Data Into Action—DigitalGov Summit Recap"), [public private partnerships]({{< ref "2014-06-05-overcoming-barriers-digitalgov-summit-recap.md" >}} "Overcoming Barriers—DigitalGov Summit Recap"), and [inter-agency work]({{< ref "2014-06-03-harnessing-the-power-of-many-digitalgov-summit-panels-recap.md" >}} "Harnessing the Power of Many—DigitalGov Summit Recap").
 
@@ -36,5 +34,3 @@ The panelists spoke about the strategies they use to integrate multi-channel cus
 An audience member from **HHS&#8217; National Cancer Institute** explained how they have unified their customer service branches. This coordination eliminated duplication of efforts and improved customer satisfaction scores.
 
 The panel showed that in a lot of ways we&#8217;re in the same spot and our mission is to share where we are, what we&#8217;ve learned and the resources we created.
-
- 

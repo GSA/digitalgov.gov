@@ -15,10 +15,7 @@ topics:
   - open-and-structured-content-models
   - socialgov-community
   - trends-on-tuesday
-  - us-department-of-state
-  - us-food-and-drug-administration
   - united-states-census-bureau
-  - USDA
   - user-experience
 
 ---

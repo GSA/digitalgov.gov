@@ -13,7 +13,6 @@ topics:
   - challenge-gov
   - mobile-apps
   - peace-corps
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

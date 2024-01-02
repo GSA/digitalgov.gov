@@ -9,7 +9,6 @@ topics:
   - content
   - product-management
   - content
-  - usa-gov
 ---
 
 Four years ago, BusinessUSA launched with a mission to revolutionize the way government provides services to small businesses and exporters. Using technology to erase bureaucratic boundaries, BusinessUSA streamlined the way businesses find and get what they need from government. This “no wrong door” approach combined resources from over 800 websites and created a single point of entry for businesses looking to grow and expand.

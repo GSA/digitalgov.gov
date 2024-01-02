@@ -14,7 +14,6 @@ topics:
   - open-and-structured-content-models
   - responsive-web-design
   - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
 ---
 
 What’s your mobile itch?

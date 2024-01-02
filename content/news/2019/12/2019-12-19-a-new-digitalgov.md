@@ -10,7 +10,6 @@ deck: "It's now easier to find the tools and resources you need to make digital 
 summary: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
 
 topics:
-  - uswds
   - 21st-century-idea
   - design
 

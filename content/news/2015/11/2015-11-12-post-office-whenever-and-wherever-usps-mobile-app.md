@@ -10,8 +10,6 @@ topics:
   - ios
   - mobile-apps
   - thursday-mobile-products
-  - United States Postal Service
-  - USPS
 
 ---
 

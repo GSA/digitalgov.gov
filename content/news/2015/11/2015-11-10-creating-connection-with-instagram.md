@@ -7,7 +7,6 @@ authors:
   - alyson-olander
 topics:
   - social-media
-  - us-department-of-the-interior
 ---
 
 {{< legacy-img src="2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" caption="" >}}

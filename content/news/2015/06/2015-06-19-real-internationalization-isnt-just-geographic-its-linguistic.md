@@ -14,8 +14,6 @@ topics:
   - GobiernoUSAgov
   - multilingual
   - social-media
-  - united-states-department-of-health-and-human-services
-  - usa-gov
 ---
 
 {{< legacy-img src="2015/06/600-x-360-International-Business-School-Globe-World-Flags-NiroDesign-iStock-Thinkstock-476050066.jpg" alt="A globe of world flags." caption="" >}} 

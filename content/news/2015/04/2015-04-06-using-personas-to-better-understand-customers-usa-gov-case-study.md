@@ -13,7 +13,6 @@ topics:
   - search
   - GobiernoUSAgov
   - personas
-  - usa-gov
   - user-experience
   
 ---

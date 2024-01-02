@@ -29,7 +29,6 @@ summary: "**Transition Post 1: General Resources from NARA and
 topics:
   - records-management
   - gsa
-  - us-general-services-administration
 slug: transition-post-1-general-resources-from-nara-and-gsa
 # Controls how this page appears across the site
 # 0 -- hidden

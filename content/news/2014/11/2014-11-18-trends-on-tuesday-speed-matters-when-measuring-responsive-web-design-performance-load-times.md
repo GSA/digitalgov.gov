@@ -14,7 +14,6 @@ topics:
   - mobile-ux-guideline-4
   - responsive-web-design
   - trends-on-tuesday
-  - united-states-department-of-health-and-human-services
   - user-experience
 ---
 

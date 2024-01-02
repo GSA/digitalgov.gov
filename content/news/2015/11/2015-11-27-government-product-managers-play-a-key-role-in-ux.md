@@ -12,7 +12,6 @@ topics:
   - user-testing-and-research
   
   - personas
-  - united-states-office-of-personnel-management
   - user-experience
   
 ---

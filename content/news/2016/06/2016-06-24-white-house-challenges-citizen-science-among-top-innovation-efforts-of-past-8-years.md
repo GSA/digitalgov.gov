@@ -17,13 +17,11 @@ topics:
   - crowdsourcing
   - gsa
   - innovation
-  - us-general-services-administration
-
 ---
 
 The White House this week released a report detailing the impact of 100 initiatives that have expanded U.S. capacity in science, technology and innovation over the past eight years.
 
-Evident throughout the report is the influence of [Challenge.gov](https://www.challenge.gov/) and [CitizenScience.gov](https://www.citizenscience.gov/), two open innovation programs managed by the U.S. General Services Administration (GSA). {{< legacy-img src="2015/12/600-x-400-Fiber-optic-cable-running-above-ground-in-the-British-Countryside-moodboard-iStock-Thinkstock-452415845.jpg" alt="Fiber optic cable running above ground in the British Countryside" caption="" >}} 
+Evident throughout the report is the influence of [Challenge.gov](https://www.challenge.gov/) and [CitizenScience.gov](https://www.citizenscience.gov/), two open innovation programs managed by the U.S. General Services Administration (GSA). {{< legacy-img src="2015/12/600-x-400-Fiber-optic-cable-running-above-ground-in-the-British-Countryside-moodboard-iStock-Thinkstock-452415845.jpg" alt="Fiber optic cable running above ground in the British Countryside" caption="" >}}
 
 In fact, among the top 15 examples in the report are the increased use of prize competitions and expanded opportunities for citizen science and crowdsourcing, both areas where GSA is helping to lead the charge.
 

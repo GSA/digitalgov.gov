@@ -13,8 +13,6 @@ topics:
   - gsa
   - https
   - security
-  - us-general-services-administration
-  - united-states-department-of-homeland-security
 ---
 
 _18F Editor’s note: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’s successful HTTPS and HSTS migration, and we’re happy to help Karim share the lessons NASA learned from that process._

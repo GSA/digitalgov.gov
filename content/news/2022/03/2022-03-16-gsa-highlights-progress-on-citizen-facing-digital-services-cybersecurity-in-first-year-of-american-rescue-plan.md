@@ -17,7 +17,6 @@ deck: "**GSA Highlights Progress on Citizen-Facing Digital Services,
 summary: summ
 # See all topics at https://digital.gov/topics
 topics:
-  - us-general-services-administration
   - security
 slug: gsa-highlights-progress-on-citizen-facing-digital-services-cybersecurity-in-first-year-of-american-rescue-plan
 # Controls how this page appears across the site

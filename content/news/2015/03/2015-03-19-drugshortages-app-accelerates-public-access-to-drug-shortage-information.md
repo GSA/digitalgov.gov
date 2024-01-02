@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - thursday-mobile-products
-  - us-food-and-drug-administration
 ---
 
 {{< legacy-img src="2015/03/250-x-444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages.jpg" alt="250 x 444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages" >}}The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages&#8221; app gives the public access to important—and sometimes critical—drug shortage information easier and faster than ever before.

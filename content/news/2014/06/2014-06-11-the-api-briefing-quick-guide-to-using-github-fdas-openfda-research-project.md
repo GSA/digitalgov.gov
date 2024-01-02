@@ -9,10 +9,8 @@ topics:
   - api
   - code
   - content
-  
+
   - open-source
-  - us-food-and-drug-administration
-  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

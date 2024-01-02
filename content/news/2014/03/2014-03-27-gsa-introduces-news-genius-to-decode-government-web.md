@@ -11,7 +11,6 @@ topics:
   - internet-of-things
   - mobile-gov
   - socialgov
-  - us-small-business-administration
 
 primary_image: "gsa-mentor-protege-on-mobile-phone-comp"
 

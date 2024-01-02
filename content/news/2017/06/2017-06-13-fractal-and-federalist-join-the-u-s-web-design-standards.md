@@ -11,7 +11,6 @@ topics:
   
   - open-source
   - responsive-web-design
-  - uswds
   - user-centered-design
 ---
 

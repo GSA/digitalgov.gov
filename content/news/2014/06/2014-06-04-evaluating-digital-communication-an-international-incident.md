@@ -9,7 +9,6 @@ topics:
   - content
   - metrics
   - social-media
-  - united-states-department-of-health-and-human-services
 ---
 
 Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful?
@@ -18,7 +17,7 @@ Fear not, fair government communicator—there is hope! On May 15, top governmen
 
 [youtube=http://www.youtube.com/watch?v=V2SjyBs0zRc&w=600]
 
- 
+
 
 This international measurement extravaganza, sponsored by the [Federal Communicators Network](http://fedcommnetwork.blogspot.com/) in the U.S., the [Government Communications Service](https://gcn.civilservice.gov.uk/) in the U.K., and the [Communications Community Office](http://pco-bcp.gc.ca/premier.asp) in Canada, featured on-point experts and great conversation. Here’s a taste:
 
@@ -35,11 +34,11 @@ Paul Njoku, Evaluation Lead for the U.K. Government Communication Service and He
 He then blew most of those excuses away with some examples of how the U.K. government is standardizing measurement to show how communication is supporting business objectives. In addition to key deliverables driving this initiative, he shared a concept designed to help communicators frame out their evaluation efforts called the Big IDIA:
 
 ● Identify the scope of your project
-  
+
 ● Develop your evaluation plan
-  
+
 ● Implement by gathering data to measure performance
-  
+
 ● Analyze & report performance against the plan
 
 Paul was joined in London by his colleague, Elayne Phillips, Head of Horizon Scanning and Planning at the U.K. Government Department for Environment, Food and Rural Affairs. She laid out the industry best-practices, including the well-established [Barcelona Principles](http://www.instituteforpr.org/2010/06/the-barcelona-declaration-of-research-principles/), that should underlay any digital measurement effort. She stressed the importance of not measuring outputs—how many did we produce?—but focusing instead on outcomes—what action did our intended audience take?

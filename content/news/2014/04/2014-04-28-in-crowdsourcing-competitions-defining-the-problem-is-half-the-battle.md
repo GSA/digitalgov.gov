@@ -10,7 +10,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - challenge-gov
   - crowdsourcing
-  - united-states-department-of-homeland-security
 ---
 
 {{< legacy-img-right src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}

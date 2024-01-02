@@ -10,7 +10,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - responsive-web-design
-  - us-department-of-education
 ---
 
 <p style="text-align: center">

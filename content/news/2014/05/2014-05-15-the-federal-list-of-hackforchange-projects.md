@@ -12,11 +12,7 @@ topics:
   - data-gov
   - national-day-of-civic-hacking
   - peace-corps
-  - us-agency-for-international-development
   - united-states-census-bureau
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-housing-and-urban-development
-  - usaid
 ---
 
 You should be on this list—the current federal government participants in the <a title="civic hack day" href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a>.
@@ -29,7 +25,7 @@ There are **15 agencies participating in the event**, primarily in and around th
   * Health and Human Services (HHS) &#8211; Organizing a health-focused hackathon with the Health Data Consortium.
   * Census Bureau &#8211; Potentially organizing a hackathon with the Data Innovation DC group.
 
-**Submitting a challenge, API and/or data set:** 
+**Submitting a challenge, API and/or data set:**
 
   * National Institutes of Health (NIH) &#8211; Providing data sets.
   * Consumer Financial Protection Bureau (CFPB) &#8211; Providing two data sets: Home Mortgage Disclosure Act (HMDA) data set and Consumer Complaint Database. The agency will be drafting a challenge competition around these.
@@ -47,7 +43,7 @@ There are **15 agencies participating in the event**, primarily in and around th
   * Peace Corps &#8211; Public outreach support and engaging volunteers at the overseas events. Also providing subject matter expertise to some ongoing development work from previous collaborations.
   * GSA&#8217;s Challenge.gov &#8211; Coordinating post-event coverage to share results of all federally-offered challenges.
 
-**There are currently 117 events in 91 cities around the world, with the goal of improving communities and the governments that serve them. Think about how you can contribute. We invite you to join us!** 
+**There are currently 117 events in 91 cities around the world, with the goal of improving communities and the governments that serve them. Think about how you can contribute. We invite you to join us!**
 
 Some fun stats &#8211; updated 5/15:
 
@@ -62,58 +58,58 @@ Some fun stats &#8211; updated 5/15:
   <div>
     118 civic hacking events
   </div>
-  
+
   <div>
     164 local organizers
   </div>
-  
+
   <div>
     18 federal agencies (latest agencies have been EPA and DOT submitting two challenges each)
   </div>
-  
+
   <div>
     Events in 97 cities, 38 US states and 12 countries
   </div>
-  
+
   <div>
     82 hackathons
   </div>
-  
+
   <div>
     44 Code for America brigades
   </div>
-  
+
   <div>
     10 events in Knight Foundation focus communities
   </div>
-  
+
   <div>
     6 RHoKs
   </div>
-  
+
   <div>
     9 [freespace]s
   </div>
-  
+
   <div>
     4 block parties
   </div>
-  
+
   <div>
     4 City Camps out of 10 unconferences
   </div>
-  
+
   <div>
     7 cities with multiple events: Austin, Chicago, SF, Las Vegas, NYC, NOLA, DC
   </div>
-  
+
   <div>
     Cities where multiple events collaborated into one: Portland, Seattle, San Juan, KC 🙂
   </div>
-  
+
   <div>
   </div>
-  
+
   <div>
     Of these, there are potentially seven large events: TCamp, SuperHappyAugusta, the Miami conference, HackforLA, TechLA, BuildforSTL and CitycampKC. Overall, organizers expect upwards of 12,000 participants throughout the weekend.
   </div>

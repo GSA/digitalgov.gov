@@ -9,11 +9,8 @@ topics:
   - mobile-ux-guideline-5
   - responsive-web-design
   - thursday-mobile-products
-  - us-department-of-veterans-affairs
-  - us-environmental-protection-agency
   - united-states-department-of-defense
   - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
 ---
 
 **{{< legacy-img src="2014/05/250-x-444-DFAS-menu-Responsive-Screenshot.jpg" alt="DFAS menu Responsive Screenshot" >}}Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day.**

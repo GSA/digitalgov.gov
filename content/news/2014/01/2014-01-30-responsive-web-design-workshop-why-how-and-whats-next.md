@@ -11,7 +11,6 @@ topics:
   - gsa
   - mobile
   - responsive-web-design
-  - us-department-of-education
 ---
 
 <p>

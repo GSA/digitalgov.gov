@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - sites
-  - us-department-of-state
 ---
 
 Social media is front and center at [Share.America.gov](https://share.america.gov/), a U.S. Department of State site managed by the Bureau of International Information Programs, that describes itself as a “platform for sharing compelling stories and images that spark discussion and debate on important topics like democracy, freedom of expression, innovation, entrepreneurship, education, and the role of civil society.”

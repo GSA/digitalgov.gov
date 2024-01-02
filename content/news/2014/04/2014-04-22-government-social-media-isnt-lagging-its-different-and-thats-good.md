@@ -12,7 +12,6 @@ topics:
   - api
   - socialgov
   - socialgov-community
-  - us-coast-guard
 ---
 
 <p style="text-align: center">

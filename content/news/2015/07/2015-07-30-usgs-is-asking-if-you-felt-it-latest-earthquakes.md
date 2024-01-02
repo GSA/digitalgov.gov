@@ -9,8 +9,6 @@ topics:
   - mobile
   - mobile-apps
   - thursday-mobile-products
-  - united-states-geological-survey
-  - USGS
 ---
 
 {{< legacy-img src="2015/07/600-x-411-USGS-Earthquake-Hazards-map-with-47-of-50-earthquakes-around-the-world-on-July-29-2015.jpg" alt="A USGS earthquake map shows 47 of 50 earthquakes that occurred on July 29, 2015" >}}

@@ -13,8 +13,6 @@ topics:
   - innovation
   - M3 Framework
   - Modernization and Migration Management Framework
-  - us-general-services-administration
-
 
 ---
 

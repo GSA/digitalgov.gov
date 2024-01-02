@@ -11,7 +11,6 @@ topics:
   - user-experience
   - terms-of-service
   - tos
-  - us-department-of-justice
   - usability
 ---
 

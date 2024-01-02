@@ -11,9 +11,6 @@ topics:
   - data-gov
   
   - open-data
-  - US Department of Agriculture
-  - united-states-department-of-transportation
-  - USDA
 ---
 
 In May 2009, Data.gov was an experiment. There were questions: would people use the data? would agencies share the data? and would it make a difference? We’ve all come a long, long way to answering those questions, starting with only 47 datasets and having [105,000 datasets](http://catalog.data.gov/) today. We realized that this was never simply about opening up government data, but rather about growing and nurturing an open data ecosystem to improve the lives of citizens.

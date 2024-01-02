@@ -14,7 +14,6 @@ topics:
   - content-strategy
   - social-media
   - social-media-metrics
-  - usa-gov
 
 ---
 

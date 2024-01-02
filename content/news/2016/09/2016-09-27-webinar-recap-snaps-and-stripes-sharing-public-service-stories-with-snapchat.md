@@ -20,7 +20,6 @@ topics:
   - customer-experience
   - section-508
   - social-media
-  - usagov
   - user-experience
   - video
 

@@ -7,7 +7,6 @@ authors:
   - danielle-brigida
 topics:
   - social-media
-  - us-fish-and-wildlife-service
 ---
 
 The power of using social media to find and create images can be overwhelming. What image do I post? How can I get more followers when I don’t have animals or pretty pictures to share? All good questions. The fact is, no matter what your agency does you can find a visual way to tell your story and connect with people who care about what you do. It’s just helpful to think through the best way to tell your story, first. Whether it’s by video, still photos, GIFs, Infographics, etc or some combination multiple visuals, it helps to remember your goals. Here at [U.S. Fish and Wildlife Service](http://www.fws.gov/), we’ve found a few key ways to use visuals and learn from our passionate communities.

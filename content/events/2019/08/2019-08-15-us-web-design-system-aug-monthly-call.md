@@ -13,7 +13,6 @@ end_date: 2019-08-15 15:30:00 -0500
 topics:
   - design
   - product-management
-  - uswds
   - 21st-century-idea
 
 # see all authors at https://digital.gov/authors

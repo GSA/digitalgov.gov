@@ -12,9 +12,7 @@ topics:
   - user-testing-and-research
   - accessibility
   - section-508
-  - us-small-business-administration
   - usability
-  - usagov
   - user-experience
   
 ---

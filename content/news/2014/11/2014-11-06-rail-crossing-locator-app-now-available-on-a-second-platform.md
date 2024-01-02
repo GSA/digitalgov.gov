@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - thursday-mobile-products
-  - us-immigration-and-customs-enforcement
-  - united-states-department-of-transportation
  
 ---
 

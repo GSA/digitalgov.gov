@@ -13,9 +13,7 @@ topics:
   - 18f
   - data-gov
   - open-government
-  - us-department-of-education
   - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
 ---
 
 > <div class="field-label">

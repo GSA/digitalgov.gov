@@ -10,8 +10,6 @@ topics:
   - monthly-theme
   - ios
   - mobile-ux-guideline-5
-  - us-department-of-veterans-affairs
-  - usa-gov
 ---
 
 Mobile-friendliness is a [must for government]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}). But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the [Department of Education]({{< ref "2015-02-12-building-brick-by-brick-ed-govs-website-redesign-and-mobile-implementation.md" >}}) and [National Park Service]({{< ref "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) have illustrated.

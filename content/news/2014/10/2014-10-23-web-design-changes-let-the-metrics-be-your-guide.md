@@ -13,9 +13,6 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5
   - responsive-web-design
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - USDA
 ---
 
 {{< legacy-img src="2014/10/600-x-311-Report-as-concept-Violka08-iStock-Thinkstock-463805923.jpg" alt="Metrics report as concept" caption="Violka08, iStock, Thinkstock" >}} 

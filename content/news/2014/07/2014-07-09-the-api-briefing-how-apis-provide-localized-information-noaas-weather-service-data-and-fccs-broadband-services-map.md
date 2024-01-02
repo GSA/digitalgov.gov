@@ -10,7 +10,6 @@ topics:
   - data
   - GPS
   - mobile-apps
-  - us-food-and-drug-administration
   - united-states-census-bureau
 ---
 

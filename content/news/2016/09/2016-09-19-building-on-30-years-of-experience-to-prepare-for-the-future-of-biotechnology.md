@@ -13,12 +13,6 @@ topics:
   - governance
   - strategy
   - policy
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - USDA
-
-  
 ---
 
 > Summary: EPA, FDA, and USDA unveil two documents as part of the Administration’s continuing effort to modernize the Federal regulatory system for biotechnology products.

@@ -8,7 +8,6 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  - USGS
 ---
 
 [{{< legacy-img src="2014/03/Facebook-login-250-x-167.png" alt="facebook log-in screen grab" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/Facebook-login-250-x-167.png)Due to recent news feed changes, Facebook engagement is down nearly 50% since October for brand pages and is predicted to go lower, according to [Social@Ogilvy](https://social.ogilvy.com/facebook-zero-considering-life-after-the-demise-of-organic-reach/). As a result federal agencies are continually monitoring the performance of their pages and diversifying their strategies. We talked to members of the [Social Media Community of Practice]({{< ref "communities/social-media.md" >}}) for their best tips to help your agency leverage its Facebook presence.

@@ -19,7 +19,6 @@ topics:
   - mobile-apps
   - personas
   - social-media
-  - us-department-of-veterans-affairs
   - user-centered-design
 ---
 

@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - open-government
-  - us-department-of-justice
 ---
 
 > _This post was originally published on the [U.S. Department of Justice Blog](https://www.justice.gov/blogs)._

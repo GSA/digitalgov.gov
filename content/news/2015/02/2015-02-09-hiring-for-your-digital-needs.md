@@ -10,8 +10,6 @@ topics:
   - strategy
   - policy
   - professional-development
-  - us-citizenship-and-immigration-service
-  - uscis
 
 ---
 

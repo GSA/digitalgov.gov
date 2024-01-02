@@ -21,7 +21,6 @@ topics:
   - gsa
   - lean
   - the-data-briefing
-  - us-general-services-administration
   - user-centered-design
 ---
 

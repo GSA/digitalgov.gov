@@ -8,13 +8,11 @@ authors:
 topics:
   - user-testing-and-research
   - aoi
-  - us-bureau-of-labor-statistics
-  - us-department-of-labor
   - usability-testing
   - user-experience
 ---
 
-{{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}} 
+{{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}}
 
 How do you find participants for your usability studies?
 
@@ -37,5 +35,3 @@ Our studies usually last about an hour. We conduct most of our studies in our la
 This is how we recruit participants at BLS. If you have any additional suggestions about recruiting, please leave them in the comments below!
 
 _**Jean E. Fox** is Research Psychologist at the U.S. Bureau of Labor Statistics and Co-Chair of the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}})._
-
- 

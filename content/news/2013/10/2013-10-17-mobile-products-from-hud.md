@@ -8,7 +8,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products
-  - united-states-department-of-housing-and-urban-development
 ---
 
 [{{< legacy-img src="2013/10/HUD-Mobile-Apps.png" alt="Screen shot showing HUD's mobile app home screens" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/HUD-Mobile-Apps.png)

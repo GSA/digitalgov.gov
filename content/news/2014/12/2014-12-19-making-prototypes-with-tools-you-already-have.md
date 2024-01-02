@@ -9,7 +9,6 @@ topics:
   - design
   - user-testing-and-research
   - prototype
-  - us-bureau-of-labor-statistics
   - usability-testing
   - user-experience
 ---

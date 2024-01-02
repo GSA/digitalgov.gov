@@ -12,8 +12,6 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - crowdsourcing
-  
-  - united-states-department-of-housing-and-urban-development
 ---
 
 Cook-offs, bike rides, parades and dance parties—these are not the traditional public hearing-style events for which government agencies are known.

@@ -17,9 +17,6 @@ topics:
   - crowdfunding
   - crowdsourcing
   - FCPCCS
-  - us-environmental-protection-agency
-  - us-national-park-service
-  
 ---
 
 This month we’re [highlighting articles about challenge competitions and crowdsourcing]({{< ref "/topics/monthly-theme" >}}) across the federal government.

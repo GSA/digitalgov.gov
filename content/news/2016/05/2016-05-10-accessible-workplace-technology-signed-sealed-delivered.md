@@ -8,11 +8,9 @@ authors:
 topics:
   - product-management
   - accessibility
-  
-  - us-department-of-labor
   - user-centered-design
   - user-experience
-  
+
 ---
 
 Last week, I had a brush with a bona fide music legend — the great Stevie Wonder. Was I starstruck? Of course. I’ve long admired his musical accomplishments and advocacy for people with disabilities. [His appearance at the Grammy Awards](http://www.usatoday.com/story/life/entertainthis/2016/02/15/stevie-wonder-talks-braille-accessibility-grammys/80433576/) in February highlighted once again the need to improve accessible technology, particularly in the workplace.

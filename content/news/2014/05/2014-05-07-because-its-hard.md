@@ -17,7 +17,7 @@ topics:
   - mobile
   - open-and-structured-content-models
   - responsive-web-design
-  - us-department-of-labor
+  
   - user-experience
 ---
 

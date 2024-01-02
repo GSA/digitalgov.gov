@@ -13,7 +13,6 @@ topics:
   - content
   - gobiernousagov
   - metrics
-  - usagov
 
 ---
 

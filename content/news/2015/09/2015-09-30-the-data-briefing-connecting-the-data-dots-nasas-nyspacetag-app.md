@@ -11,8 +11,6 @@ topics:
   - mobile-apps
   - open-data
   - the-data-briefing
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 {{< legacy-img src="2015/09/600-x-222-OpenNASA-logo.jpg" alt="The Open NASA logo" >}}

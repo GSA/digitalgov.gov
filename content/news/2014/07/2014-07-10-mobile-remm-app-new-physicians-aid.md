@@ -10,9 +10,6 @@ topics:
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img-right src="2014/07/250-x-333-REMM-HHS-app.jpg" alt="A screenshot of the REMM app on a mobile device" >}}The [Department of Health and Human Service’s Mobile REMM App](http://www.remm.nlm.gov/downloadmremm.htm) provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on [iOS](https://itunes.apple.com/us/app/mobile-remm-radiation-emergency/id372600451?mt=8), [Android](https://play.google.com/store/apps/details?id=gov.nih.nlm.sis.remm), and [Blackberry](http://appworld.blackberry.com/webstore/content/45722/?lang=en&countrycode=US) platforms, the native application showcases comprehensive information concerning dose estimators and resources to initiate a variety of triages on site without requiring mobile connectivity.

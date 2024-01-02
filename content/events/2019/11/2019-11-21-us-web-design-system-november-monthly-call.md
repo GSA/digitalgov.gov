@@ -21,7 +21,6 @@ end_date: 2019-11-21 15:30:00 -0500
 topics:
   - product-management
   - responsive-web-design
-  - uswds
   - 21st-century-idea
 
 # see all authors at https://digital.gov/authors

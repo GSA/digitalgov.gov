@@ -6,7 +6,6 @@ summary: 'How many times a day do you have a bad user experience? Did you have o
 authors:
   - bridget-roddy
 topics:
-  - us-department-of-state
   - user-experience
   
 ---

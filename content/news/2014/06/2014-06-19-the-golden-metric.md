@@ -11,8 +11,6 @@ topics:
   - big-data
   - dap
   - data-gov
-  - digital-analytics-program  
-  - usagov
 ---
 
 {{< legacy-img src="2014/06/250-x-300-iceberg-clevenger-small.jpg" alt="Photo of an iceberg" >}}Are you looking for the “golden metric&#8221; that is the best measure of your agency’s website performance and cross-comparable across .gov websites? If so, stop looking. The concept of the golden metric is a dangerous one because it oversimplifies performance analysis of your website and overlooks the truth hidden behind other, more relevant metrics.

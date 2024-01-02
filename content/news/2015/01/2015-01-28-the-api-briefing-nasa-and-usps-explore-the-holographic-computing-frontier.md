@@ -9,10 +9,6 @@ topics:
   - api
   - augmented-reality
   - mobile-apps
-  - US Department of Agriculture
-  - United States Postal Service
-  - USDA
-  - USPS
   - virtual-augmented-reality-community
   - wednesday-api-briefing
 ---
@@ -27,7 +23,7 @@ As holographic computing becomes more easily accessible, federal government APIs
 
 ---
 
-_(**Note**: the mention of HoloLens, Google Glass, Microsoft, and Google were used for illustrative purposes and does not imply my endorsement of these products or the companies.)_ 
+_(**Note**: the mention of HoloLens, Google Glass, Microsoft, and Google were used for illustrative purposes and does not imply my endorsement of these products or the companies.)_
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs](https://www.digitalgov.gov/2013/04/30/apis-in-government/) are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:bill.brantley@wdc.usda.gov)._
 

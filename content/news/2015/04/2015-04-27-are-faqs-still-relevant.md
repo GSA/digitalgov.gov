@@ -10,8 +10,6 @@ topics:
   - customer-service
   - government-contact-centers
   - peace-corps
-  - us-digital-service
-  - USDS
   - user-centered-design
   - user-experience
   - user-experience-community-of-practice

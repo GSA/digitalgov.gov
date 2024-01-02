@@ -10,8 +10,6 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - us-agency-for-international-development
-  - usaid
 ---
 
 Challenge competitions were recently highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID): [Ebola: A Grand Challenge for Development](http://www.usaid.gov/grandchallenges/ebola).
@@ -29,21 +27,21 @@ The second highlights how the results from an earlier robotics challenge now has
 An excerpt from the article:
 
 > The problem, scientists say, is that the technology is still limited when it comes to medicine. While mobile robots now can disarm roadside bombs and drive cars, they are taking only the first tentative steps toward the human levels of dexterity required in health care.
-> 
+>
 > &#8220;You see the situation that the medical teams are facing, and I don’t even know if a robot is a solution,&#8221; said Taskin Padir, an assistant professor of robotics engineering at Worcester Polytechnic and an organizer of one of the meetings.
-> 
+>
 > Still, he has been considering ways to repurpose an existing robot project as a tool for more safely performing decontamination tasks, like spraying bleach solution on clothing exposed to infected body fluids.
 
-[{{< legacy-img src="2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/600-x-400-WPI_ROBOT_2014.jpg) 
+[{{< legacy-img src="2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/600-x-400-WPI_ROBOT_2014.jpg)
 
- 
+
 
 WPI&#8217;s Velin Dimitrov, a graduate student in robotics, is credited with leading the school&#8217;s involvement in the NASA challenge competition. He explains the AERO&#8217;s back story and how the robot could be helpful to the medical community:
 
 > The robot was built for the 2013 NASA Sample Return Robot (SRR) Centennial Challenge. After that, we continued software/algorithm development on it, and competed in next year’s 2014 NASA SRR Centennial Challenge. It was originally designed to autonomously navigate a large, outdoor environment, find and locate various geologic samples, and return them to the starting platform, utilizing only space compatible technologies.
-> 
+>
 > The sensors on the platform that allow it to navigate on its own without GPS information, the dexterous 6-DOF manipulator, and robust skid-steer base make it a very capable mobile manipulation platform.This makes it an ideal candidate to be quickly re-purposed with sprayers to enable quick testing and prototyping of teleoperated decontamination activities.
-> 
+>
 > The biggest challenge for us right now is since it was originally designed to be autonomous, and we are developing a teleoperated decontamination scenario, we need to carefully construct a method that is best suited for a human operator to control the platform. The flexibility and modularity of the ROS software architecture that we utilize on the robot, should make that task simpler and well aligned with some of the other teleoperated robots in the lab. That allows us to take approaches and methods we used for Oryx 2.0 in the 2012 NASA RASC-AL Robo Ops competition, which was fully teleoperated, and our smart wheelchair project, and apply them in this scenario to decrease development time.
 
 Knowing that one level of innovation leads to another is inspiring for the people running and entering challenge competitions. As we look at solutions across government, we know that if we deconstruct the needs and capabilities, we can find ways to re-purpose and redirect the solutions to a variety of useful outcomes.

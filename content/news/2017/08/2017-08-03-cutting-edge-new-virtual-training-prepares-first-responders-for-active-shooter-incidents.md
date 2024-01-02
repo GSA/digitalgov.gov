@@ -18,7 +18,6 @@ topics:
   - research
   - Security
   - united-states-army
-  - united-states-department-of-homeland-security
   - video
   - video-production-pros-community
   - virtual-reality

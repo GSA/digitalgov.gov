@@ -9,7 +9,6 @@ topics:
   - code
   - mobile
   - mobile-apps
-  - us-department-of-labor
 ---
 
 [{{< legacy-img src="2014/01/mobile-codesharing-21-350x214-250x152.jpg" alt="Picture of a desktop computer, laptop and a smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/mobile-codesharing-21-350x214.jpg)The [Department of Labor&#8217;s](http://www.dol.gov/) DOL Timesheet, OSHA Heat Index Tool and LaborStats apps are available anytime and anywhere for the public. Now their code is available for agencies to leverage for mobile development.

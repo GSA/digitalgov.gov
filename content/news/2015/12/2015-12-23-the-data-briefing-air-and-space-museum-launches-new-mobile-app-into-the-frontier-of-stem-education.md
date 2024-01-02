@@ -10,11 +10,6 @@ topics:
   - mobile
   - mobile-apps
   - the-data-briefing
-  - us-department-of-education
-  - us-department-of-the-interior
-  - us-national-park-service
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 The Smithsonian Institution’s Air and Space Museum just released a new educational mobile app, <a href="http://airandspace.si.edu/explore-and-learn/mobile-missions/index.cfm" target="_blank">Mobile Missions</a>. From the website:

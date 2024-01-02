@@ -10,21 +10,8 @@ topics:
   - gsa
   - open-government
   - peace-corps
-  - us-coast-guard
-  - us-department-of-education
-  - us-department-of-labor
-  - us-department-of-state
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - us-national-park-service
-  - us-small-business-administration
   - united-states-army
   - united-states-census-bureau
-  - united-states-department-of-homeland-security
-  - united-states-department-of-transportation
-  - united-states-geological-survey
-  - us-fish-and-wildlife-service
-  - USGS
 ---
 
 {{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}

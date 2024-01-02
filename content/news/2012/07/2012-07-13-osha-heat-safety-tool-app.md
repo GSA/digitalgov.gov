@@ -7,7 +7,7 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov-experience
-  - us-department-of-labor
+  
 ---
 
 _[{{< legacy-img src="2013/12/OSHAHeatSafety_App.jpg" alt="OSHA Heat Safety App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/OSHAHeatSafety_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Department of Labor._

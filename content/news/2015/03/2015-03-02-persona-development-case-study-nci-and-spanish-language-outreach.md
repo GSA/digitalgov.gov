@@ -9,7 +9,6 @@ topics:
   - user-testing-and-research
   - multilingual
   - personas
-  - us-bureau-of-labor-statistics
   - united-states-census-bureau
   - usability starter kit
   - user-experience

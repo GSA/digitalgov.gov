@@ -13,7 +13,6 @@ topics:
   - metadata
   - mobile-apps
   - open-data
-  - us-environmental-protection-agency
   - united-states-census-bureau
 ---
 

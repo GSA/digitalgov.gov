@@ -6,8 +6,6 @@ summary: 'It&#8217;s disturbing to think about, but essential for all of us to k
 topics:
   - mobile
   - thursday-mobile-products
-  - us-immigration-and-customs-enforcement
-  - united-states-department-of-homeland-security
  
 ---
 

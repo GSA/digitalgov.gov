@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - content-management-system
-  - us-department-of-justice
   - wednesday-api-briefing
 ---
 

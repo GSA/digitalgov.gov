@@ -15,7 +15,6 @@ topics:
   - infrastructure
   - SaaS
   - security
-  - us-general-services-administration
 
 ---
 

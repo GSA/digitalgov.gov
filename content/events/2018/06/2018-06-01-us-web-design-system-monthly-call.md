@@ -15,7 +15,6 @@ host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/june-us-web-design-system-call-tickets-45947977638
 topics:
   - design
-  - uswds
   - draft-web-design-standards
 
 ---

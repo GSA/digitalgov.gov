@@ -10,10 +10,9 @@ topics:
   - product-management
   - privacy
   - security
-  - us-small-business-administration
 ---
 
-{{< legacy-img src="2015/02/600-x-400-The-Internet-of-Things_Photo-by-wilgengebroed-flickr-CC-BY-NC-2.jpg" alt="An illustration concept showing The Internet of Things" caption="" >}} 
+{{< legacy-img src="2015/02/600-x-400-The-Internet-of-Things_Photo-by-wilgengebroed-flickr-CC-BY-NC-2.jpg" alt="An illustration concept showing The Internet of Things" caption="" >}}
 
 In 1995, the World Wide Web, which had been fairly niche up until then, attracted mainstream attention. What followed were 20 years of business and social innovations in how we humans chose to use the web at work, school, at home, and with our friends. The web and its &#8220;Web 2.0&#8221; successor allowed us to access, provide, remix, and exchange information in ways previously limited by time and space.
 
@@ -33,5 +32,5 @@ Given the IoE is estimated to grow to be anywhere between 50 to 200 billion netw
 
 Given this timely topic of interest, the team from Digital Gov is looking to discuss these various issues, using policy, programmatic, and knowledge-sharing lenses at the upcoming [Citizens Services Summit 2015](https://crowdhall.com/h/299/). In fact, you can actually vote for there to be [further discussion of IoE](https://crowdhall.com/h/299/p/986) during the event. Some deliberate forethought now regarding the IoE may help encourage a future with more beneficial opportunities for us all._Authors&#8217; Note: These views are of personal nature and do not necessarily reflect those of previous or current affiliations of the authors. Any examples cited here are for the purposes of highlighting the Internet of Everything (IoE) with no endorsement implied._
 _This post was [originally published on LinkedIn Pulse](https://www.linkedin.com/pulse/internet-everything-small-business-opportunities-g-nagesh-rao). The post was written in a personal capacity by the authors, G. Nagesh Rao, Chief Technologist for the US Small Business Administration, and David A. Bray, Chief Information Officer for the Federal Communications Commission, and does not reflect the views or endorsement of any government entities.
-  
+
 _

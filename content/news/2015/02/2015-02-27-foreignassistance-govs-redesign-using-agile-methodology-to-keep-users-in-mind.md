@@ -10,7 +10,6 @@ topics:
   - monthly-theme
   - agile
   - personas
-  - us-department-of-state
   - user-experience
 ---
 

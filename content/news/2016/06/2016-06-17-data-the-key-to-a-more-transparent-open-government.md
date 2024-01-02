@@ -10,7 +10,6 @@ topics:
   - gsa
   - open-data
   - open-government
-  - us-general-services-administration
 ---
 
 The work of the federal government is incredibly diverse, and affects almost every aspect of American life, whether it is keeping planes in the air or ensuring that our food is safe. Every public service the government provides requires many different skill sets, but the one thing that unites them all is a consistent requirement for transparency. {{< legacy-img src="2016/06/600-x-450-Security-concept-blue-opened-padlock-on-digital-background-maxkabakov-iStock-Thinkstock-161719626.jpg" alt="Security concept: blue opened padlock on digital background" caption="" >}} 

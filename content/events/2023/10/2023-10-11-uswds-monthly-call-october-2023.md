@@ -20,7 +20,6 @@ topics:
   - strategy
   - project-management
   - product-management
-  - uswds
 slug: uswds-monthly-call-october-2023
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom

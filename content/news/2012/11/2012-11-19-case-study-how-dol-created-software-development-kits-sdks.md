@@ -8,7 +8,6 @@ authors:
   - gray-brooks
 topics:
   - code
-  - us-department-of-labor
 ---
 
 ## What It Is

@@ -7,12 +7,11 @@ authors:
   - melodee-mercer
 topics:
   - social-media
-  - us-department-of-veterans-affairs
 ---
 
 I work for the Department of Veterans Affairs in a national benefits office that oversees Veterans life Insurance programs. Our office has held a couple of successful Twitter Town Halls. They get a little smoother each time because we make a point of adjusting our style based on our lessons learned. After answering a question about Twitter Town Halls on a listserv, DigitalGov.gov asked if I would write a blog about my experience. So, I gathered all our lessons learned from the public affairs point of view, and then ran this blog past our social media techies for their input in the hopes that I covered a good bit of what you need to know from all perspectives. So, let’s start with the basics:
 
-## What is a Twitter Town Hall? {{< legacy-img src="2015/12/600-x-450-Vector-Card-With-Birds-leedsn-iStock-Thinkstock-484475995-Converted.jpg" alt="An illustration of various birds having a meeting on telephone wires above a cityscape." caption="" >}} 
+## What is a Twitter Town Hall? {{< legacy-img src="2015/12/600-x-450-Vector-Card-With-Birds-leedsn-iStock-Thinkstock-484475995-Converted.jpg" alt="An illustration of various birds having a meeting on telephone wires above a cityscape." caption="" >}}
 
 Much like an in-person Town Hall meeting, Twitter Town Halls are the virtual equivalent of allowing your audience to come together, to ask questions of one or more experts, to read other people’s questions, and to ask follow-up questions. Just like in-person Town Halls, for them to go smoothly you’ll need to prepare, but the preparation is a bit different for this virtual medium.
 
@@ -32,7 +31,7 @@ Twitter audiences are looking for up-to-the minute information, but they are als
 
 Keep your focus relatively narrow and be specific about what that focus is when you advertise. This will help your participants stay on topic. For instance, in one of our Town Halls our subject was eligibility for our Insurance programs. If someone wrote in asking about the latest news on new legislation, we had a prepared tweet politely reminding them that the topic today is “Insurance Eligibility.”
 
-## How Do You Prepare? {{< legacy-img src="2015/12/600-x-407-Vector-illustration-social-network-blue-bird-icon-Helton-Nunes-do-Nascimento-iStock-Thinkstock-472352425.jpg" alt="An illustration of a blue bird icon that is thinking about hashtag and the at symbol" caption="" >}} 
+## How Do You Prepare? {{< legacy-img src="2015/12/600-x-407-Vector-illustration-social-network-blue-bird-icon-Helton-Nunes-do-Nascimento-iStock-Thinkstock-472352425.jpg" alt="An illustration of a blue bird icon that is thinking about hashtag and the at symbol" caption="" >}}
 
 If you’ve advertised well and picked a topic that matters to your audience, an hour Twitter Town Hall will fly by. So, the more you prepare in advance, the easier it will be to keep up with the questions. That said, sometimes you need to prime the pump to get people started.
 

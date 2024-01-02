@@ -13,7 +13,6 @@ topics:
   - design
   - user-testing-and-research
   - 3d-printing
-  - us-department-of-veterans-affairs
   - united-states-department-of-defense
 ---
 

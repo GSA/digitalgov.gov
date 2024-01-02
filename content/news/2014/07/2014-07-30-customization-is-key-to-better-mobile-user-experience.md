@@ -12,9 +12,6 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-3
-  - us-department-of-education
-  - us-national-park-service
-  - united-states-department-of-health-and-human-services
   - user-experience
 
 

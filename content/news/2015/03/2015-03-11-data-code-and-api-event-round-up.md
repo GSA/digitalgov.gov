@@ -18,7 +18,6 @@ topics:
   - open-and-structured-content-models
   - open-data
   - responsive-web-design
-  - us-department-of-state
 ---
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< ref "/events" >}})

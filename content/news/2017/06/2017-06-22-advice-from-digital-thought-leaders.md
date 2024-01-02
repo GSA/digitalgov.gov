@@ -14,7 +14,6 @@ topics:
   - data
   
   - innovation
-  - united-states-department-of-health-and-human-services
   - video
   - video-production-pros-community
   - virtual-reality

@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - api
-  - usagov
 
 ---
 

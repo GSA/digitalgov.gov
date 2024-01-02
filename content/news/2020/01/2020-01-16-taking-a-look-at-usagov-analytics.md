@@ -23,7 +23,6 @@ topics:
   - analytics
   - customer-service
   - dap
-  - usa-gov
 
 # see all authors at https://digital.gov/authors
 authors:

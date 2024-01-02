@@ -9,9 +9,7 @@ topics:
   - governance
   - strategy
   - policy
-  
   - open-government
-  - us-department-of-justice
 ---
 
 On September 7th, the Office of Information Policy (OIP) released an updated version of its Guidance for Agency [Freedom of Information Act](https://www.foia.gov/) (FOIA) Regulations, along with an updated FOIA Regulation Template. These resources were first issued in [March 2016](https://www.justice.gov/oip/blog/new-guidance-and-template-agency-foia-regulations-now-available). OIP has updated them to take into account changes made to the FOIA by the [FOIA Improvement Act of 2016](https://www.justice.gov/oip/freedom-information-act-5-usc-552) and by recent court decisions.
