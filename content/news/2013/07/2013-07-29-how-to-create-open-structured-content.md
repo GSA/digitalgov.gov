@@ -8,14 +8,8 @@ authors:
   - rflagg
 
 topics:
-  - content
+  - content-strategy
   - product-management
-  - content-models
-  - COPE
-  - metadata
-  - open-and-structured-content-models
-  - responsive-web-design
-  - structured-content
 
 ---
 
@@ -29,11 +23,9 @@ Several recent policies support this shift by requiring federal agencies to publ
 
 **Create Once, Publish Everywhere**
 
-Structured content gives you granular control over your information, so you can &#8220;**C**reate **O**nce, **P**ublish **E**verywhere,&#8221; instead of re-creating content for different platforms. Read about the [COPE: Create Once, Publish Everywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) method from National Public Radio.
+Structured content gives you granular control over your information, so you can &#8220;**C**reate **O**nce, **P**ublish **E**verywhere,&#8221; instead of re-creating content for different platforms. Read about the [COPE: Create Once, Publish Everywhere](https://web.archive.org/web/20140517203502/http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) method from National Public Radio.
 
-<p style="text-align: center">
-  <a href="https://digital.gov/2013/12/12/how-to-create-open-structured-content/structured-content-cope-strategy-graphic/" rel="attachment wp-att-97582">{{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="Diagram showing how content can be repurposed for multiple platforms" >}}</a>
-</p>
+{{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="Diagram showing how content can be repurposed for multiple platforms" >}}
 
 **Share and Re-Use Content via RSS and APIs**
 
