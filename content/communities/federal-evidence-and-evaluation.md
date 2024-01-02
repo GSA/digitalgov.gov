@@ -8,7 +8,7 @@ redirectto: https://community.max.gov/pages/viewpage.action?pageId=630067080
 
 # See all topics at https://digital.gov/topics
 topics:
-  - data
+  - open-data
 
 # See all authors at https://digital.gov/authors (for Community leads)
 # authors:
