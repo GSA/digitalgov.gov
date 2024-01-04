@@ -10,7 +10,6 @@ topics:
   - design
   - product-management
   - strategy
-  - policy
   - code
   - draft-web-design-standards
   - open-source

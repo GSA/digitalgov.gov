@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - strategy
-  - policy
   - aoi
   - GPS
   - mobile-apps

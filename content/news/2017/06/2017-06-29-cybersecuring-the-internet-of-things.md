@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - strategy
-  - policy
   - infrastructure
   - internet-of-things
   - IoT

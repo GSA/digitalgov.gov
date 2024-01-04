@@ -9,7 +9,6 @@ topics:
   - api
   - mobile
   - strategy
-  - policy
   - code
 ---
 

@@ -9,7 +9,6 @@ topics:
   - governance
   - product-management
   - strategy
-  - policy
   - open-government
 ---
 

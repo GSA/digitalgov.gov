@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - strategy
-  - policy
   - mobile-apps
   - thursday-mobile-products
 ---

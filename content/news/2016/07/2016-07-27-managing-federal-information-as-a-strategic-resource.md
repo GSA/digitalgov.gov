@@ -11,10 +11,8 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - acquisition
   - open-data
-  - policy
   - privacy
   - security
 ---

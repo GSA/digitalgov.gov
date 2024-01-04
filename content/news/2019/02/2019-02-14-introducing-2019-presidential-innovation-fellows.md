@@ -9,8 +9,6 @@ authors:
 topics:
   - product-management
   - innovation
-  - pif
-  - presidential-innovation-fellows
 featured_image:
   uid: pif-team-19
 

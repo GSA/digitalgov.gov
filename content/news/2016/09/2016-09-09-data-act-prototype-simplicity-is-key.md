@@ -11,7 +11,6 @@ topics:
   - governance
   - product-management
   - strategy
-  - policy
   - budgeting-and-performance
 ---
 

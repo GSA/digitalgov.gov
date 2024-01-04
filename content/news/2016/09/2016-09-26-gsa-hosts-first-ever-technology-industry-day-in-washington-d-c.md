@@ -9,7 +9,6 @@ topics:
   - code
   - product-management
   - strategy
-  - policy
   - agile
   - cloud
   - cloud-gov

@@ -10,7 +10,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - video
   - audio
   - audio-video

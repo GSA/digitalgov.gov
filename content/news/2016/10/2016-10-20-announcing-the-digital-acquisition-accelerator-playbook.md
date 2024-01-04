@@ -8,13 +8,10 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - acquisition
   - agile
   - innovation
   - lean
-  - PIF
-  - Presidential Innovation Fellows
   - user-centered-design
 ---
 

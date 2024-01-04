@@ -10,17 +10,12 @@ topics:
   - crowdsourcing-and-citizen-science
   - product-management
   - strategy
-  - policy
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  
-  
-  
   - innovation
-  
   - open-data
 ---
 

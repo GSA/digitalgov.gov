@@ -9,7 +9,6 @@ topics:
   - code
   - mobile
   - strategy
-  - policy
   - user-testing-and-research
   - mobile-testing
   - privacy

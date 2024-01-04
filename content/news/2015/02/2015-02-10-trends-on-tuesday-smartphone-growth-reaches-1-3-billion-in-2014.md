@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - strategy
-  - policy
   - Federal CrowdSource Mobile Testing Program
   - internet-of-things
   - open-data

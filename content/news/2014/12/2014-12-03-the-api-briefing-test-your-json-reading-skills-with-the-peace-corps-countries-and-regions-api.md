@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - peace-corps
   - wednesday-api-briefing
 ---
 

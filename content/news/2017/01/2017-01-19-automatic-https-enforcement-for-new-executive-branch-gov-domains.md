@@ -13,11 +13,9 @@ topics:
   - domain-management
   - product-management
   - strategy
-  - policy
   - analytics
   - https
   - metrics
-  - policy
   - search-engine-optimization
   - security
 

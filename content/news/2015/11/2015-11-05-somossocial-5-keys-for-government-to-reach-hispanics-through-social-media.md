@@ -11,8 +11,6 @@ authors:
 topics:
   - social-media
   - GobiernoUSAgov
-  - multilingual
-  - peace-corps
   - social-media
 ---
 

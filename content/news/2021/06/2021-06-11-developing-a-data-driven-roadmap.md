@@ -6,8 +6,6 @@ deck:
 summary: A Presidential Innovation Fellow working with the U.S. Department of Veterans Affairs shares how complex organizations can create data-driven roadmaps.
 # See all topics at https://digital.gov/topics
 topics:
-  - pif
-  - presidential-innovation-fellows
   - strategy
 # See all authors at https://digital.gov/authors
 authors:

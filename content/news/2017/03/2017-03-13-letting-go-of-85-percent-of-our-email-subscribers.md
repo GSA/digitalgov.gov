@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - analytics
   - email marketing
   - metrics

@@ -19,7 +19,6 @@ topics:
   - mobile
   - social-media
   - strategy
-  - policy
   - user-testing-and-research
   - user-experience
   - ai

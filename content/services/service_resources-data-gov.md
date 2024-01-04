@@ -33,7 +33,6 @@ authors:
 topics:
   - api
   - code
-  - policy
   - open-source
   - open-data
 

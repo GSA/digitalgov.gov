@@ -8,7 +8,6 @@ authors:
 topics:
   - governance
   - strategy
-  - policy
 ---
 
 The <a href="https://www.cio.gov/" target="_blank">CIO Council</a> recently published an IT Policy Library database in order to provide agency innovators with a searchable, comprehensive collection of IT reporting and action requirements for federal agencies.

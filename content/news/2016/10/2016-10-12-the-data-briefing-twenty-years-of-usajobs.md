@@ -9,7 +9,6 @@ topics:
   - product-management
   - metrics
   - strategy
-  - policy
   - user-testing-and-research
   - user-experience
   - agile

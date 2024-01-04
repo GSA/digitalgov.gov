@@ -9,10 +9,8 @@ topics:
   - content
   - social-media
   - strategy
-  - policy
   - content
   - content-strategy
-  
   - social-media
 ---
 

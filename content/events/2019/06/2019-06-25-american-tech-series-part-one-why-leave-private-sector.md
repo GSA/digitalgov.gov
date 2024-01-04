@@ -19,7 +19,6 @@ end_date: 2019-06-25 15:15:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - innovation
-  - presidential-innovation-fellows
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -10,7 +10,6 @@ topics:
   - challenge-gov
   - data-gov
   - national-day-of-civic-hacking
-  - peace-corps
   - united-states-census-bureau
 ---
 

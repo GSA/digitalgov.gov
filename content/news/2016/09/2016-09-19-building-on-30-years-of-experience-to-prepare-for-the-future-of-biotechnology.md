@@ -12,7 +12,6 @@ authors:
 topics:
   - governance
   - strategy
-  - policy
 ---
 
 > Summary: EPA, FDA, and USDA unveil two documents as part of the Administration’s continuing effort to modernize the Federal regulatory system for biotechnology products.

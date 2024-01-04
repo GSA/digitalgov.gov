@@ -9,9 +9,6 @@ topics:
   - governance
   - mobile
   - strategy
-  - policy
-  
-  
   - innovation
 ---
 

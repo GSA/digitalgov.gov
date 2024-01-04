@@ -21,7 +21,6 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - policy
   - security
   - governance
   - product-management

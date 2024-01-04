@@ -11,7 +11,6 @@ topics:
   - design
   - product-management
   - strategy
-  - policy
   - user-testing-and-research
   - content
   - content-strategy

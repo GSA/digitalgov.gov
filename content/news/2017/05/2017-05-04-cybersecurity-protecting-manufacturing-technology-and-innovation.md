@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - innovation
   - internet-of-things
   - IoT

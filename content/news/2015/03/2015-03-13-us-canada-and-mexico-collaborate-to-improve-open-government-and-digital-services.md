@@ -8,7 +8,6 @@ authors:
 topics:
   - governance
   - strategy
-  - policy
   - data-gov
   - open-government
   - metadata

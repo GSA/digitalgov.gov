@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - social-media
-  - peace-corps
   - plain-language
   - socialgov-community
   - web-content-managers-forum

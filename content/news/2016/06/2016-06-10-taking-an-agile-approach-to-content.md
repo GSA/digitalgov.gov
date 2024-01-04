@@ -10,7 +10,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - agile
   - content-strategy
 ---

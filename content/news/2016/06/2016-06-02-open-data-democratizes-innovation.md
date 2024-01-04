@@ -10,8 +10,6 @@ topics:
   - api
   - challenges
   - crowdsourcing-and-citizen-science
-  - strategy
-  - policy
   - apps-challenges
   - challenge-gov
   - challenges-and-prize-competitions

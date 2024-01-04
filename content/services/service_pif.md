@@ -27,5 +27,4 @@ topics:
   - code
   - strategy
   - product-management
-  - presidential-innovation-fellows
 ---

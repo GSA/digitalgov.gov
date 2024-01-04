@@ -7,8 +7,7 @@ summary: Four lessons learned from the similarities and differences between
   highly-regulated companies and the federal government.
 # See all topics at https://digital.gov/topics
 topics:
-  - pif
-  - presidential-innovation-fellows
+  - open-data
 # See all authors at https://digital.gov/authors
 authors:
   - wanmei-ou

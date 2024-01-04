@@ -9,8 +9,6 @@ topics:
   - product-management
   - mobile
   - strategy
-  - policy
-  - mobile
   - security
 ---
 

@@ -7,7 +7,6 @@ authors:
   - anne-rung
 topics:
   - strategy
-  - policy
   - acquisition
   - agile
   - innovation

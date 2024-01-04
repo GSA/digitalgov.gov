@@ -9,7 +9,6 @@ topics:
   - mobile
   - social-media
   - strategy
-  - policy
   - aoi
   - mobile
   - mobile-ux-guideline-5

@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - agile
   - agile-lean-community-of-practice
 ---

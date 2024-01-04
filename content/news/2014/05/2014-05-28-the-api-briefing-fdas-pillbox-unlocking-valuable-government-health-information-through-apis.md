@@ -9,7 +9,6 @@ topics:
   - api
   - code
   - strategy
-  - policy
   - api
   
   - wednesday-api-briefing

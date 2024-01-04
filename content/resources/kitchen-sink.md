@@ -9,7 +9,6 @@ topics:
   - design
   - code
   - cloud
-  - policy
 authors:
   - jeremyzilar
 

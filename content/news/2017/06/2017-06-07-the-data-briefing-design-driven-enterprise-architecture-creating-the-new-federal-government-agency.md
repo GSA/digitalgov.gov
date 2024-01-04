@@ -9,7 +9,6 @@ topics:
   - api
   - product-management
   - strategy
-  - policy
   - agile
   - agile-lean-community-of-practice
   - architecture

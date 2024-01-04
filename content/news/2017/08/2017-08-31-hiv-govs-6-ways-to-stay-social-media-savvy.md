@@ -11,7 +11,6 @@ featured_image:
 topics:
   - social-media
   - strategy
-  - policy
   - content-strategy
   - social-media
 ---

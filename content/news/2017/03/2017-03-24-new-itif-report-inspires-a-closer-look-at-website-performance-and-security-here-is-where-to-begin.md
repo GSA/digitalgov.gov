@@ -14,7 +14,6 @@ topics:
   - metrics
   - mobile
   - strategy
-  - policy
   - user-testing-and-research
   - accessibility
   - analytics

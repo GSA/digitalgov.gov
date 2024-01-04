@@ -9,7 +9,6 @@ topics:
   - accessibility
   - design
   - strategy
-  - policy
   - user-experience
   - responsive-web-design
   - section-508

@@ -6,7 +6,6 @@ summary: 'Categorizing and Describing Cybersecurity Work for the Nation The Nati
 topics:
   - product-management
   - strategy
-  - policy
   - security
 authors:
   - nist

@@ -10,7 +10,6 @@ topics:
   - product-management
   - social-media
   - strategy
-  - policy
   - writing
   - content-strategy
   - customer-service

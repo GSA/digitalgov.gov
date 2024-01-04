@@ -7,8 +7,6 @@ authors:
   - marc-groman
 topics:
   - governance
-  - strategy
-  - policy
   - security
 
 ---

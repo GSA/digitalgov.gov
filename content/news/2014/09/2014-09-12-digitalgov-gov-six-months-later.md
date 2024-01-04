@@ -11,7 +11,6 @@ topics:
   - product-management
   - social-media
   - strategy
-  - policy
   - analytics
   - content-strategy
   - open-source

@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - aoi
-  - peace-corps
   - socialgov-community
 ---
 

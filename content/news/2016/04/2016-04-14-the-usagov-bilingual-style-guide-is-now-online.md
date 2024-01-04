@@ -11,7 +11,6 @@ topics:
   - design
   - product-management
   - strategy
-  - policy
   - accessibility
   - multilingual
   - multilingual-community

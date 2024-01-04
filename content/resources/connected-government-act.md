@@ -11,6 +11,7 @@ featured_image:
 topics:
   - product-management
   - mobile
+  - mobile-apps
   - design
 
 ---

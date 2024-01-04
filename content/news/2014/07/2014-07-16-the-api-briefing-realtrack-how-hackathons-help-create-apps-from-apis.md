@@ -12,7 +12,6 @@ topics:
   - product-management
   - challenge-gov
   - mobile-apps
-  - peace-corps
   - wednesday-api-briefing
 ---
 

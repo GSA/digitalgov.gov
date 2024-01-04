@@ -9,11 +9,8 @@ authors:
 topics:
   - api
   - mobile
-  
   - mobile-ux-guideline-5
   - open-source
-  - peace-corps
-
 ---
 
 {{< legacy-img src="2014/11/600-x-450-First-Aid-Kit-Alena-Brozova-iStock-Thinksotck-91519315.jpg" alt="An open first aid kit." caption="Alena Brozova, iStock, Thinkstock" >}}

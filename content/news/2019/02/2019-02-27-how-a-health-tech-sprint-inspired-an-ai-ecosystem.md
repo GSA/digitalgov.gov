@@ -10,7 +10,6 @@ authors:
   - kristen-honey
 topics:
   - code
-  - pif
   - mobile
   - open-data
   - artificial-intelligence

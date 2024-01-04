@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - acquisition
   - IT Schedule 70
   - security

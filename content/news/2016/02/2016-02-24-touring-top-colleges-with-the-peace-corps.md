@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - data-visualization
-  - peace-corps
 ---
 
 I wanted to share our first dabble with data storytelling, a visualization supporting the Peace Corps Top Colleges initiative led by our awesome press team. Our goal was to enhance and expand the experience of the Top Colleges campaign and use of the data beyond the usual suspects like infographics, and other assets to show the reach of colleges and universities. We also wanted to connect all the earned media it receives to an overarching Peace Corps goal that is measurable (in this case lead generation) on the back end.

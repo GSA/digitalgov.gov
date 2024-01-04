@@ -8,7 +8,6 @@ authors:
 topics:
   - customer-service
   - government-contact-centers
-  - peace-corps
   - user-centered-design
   - user-experience
   - user-experience-community-of-practice

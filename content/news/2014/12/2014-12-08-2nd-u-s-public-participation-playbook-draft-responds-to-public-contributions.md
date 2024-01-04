@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - open-government
-  - peace-corps
 ---
 
 {{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}

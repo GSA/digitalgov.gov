@@ -9,7 +9,6 @@ topics:
   - design
   - product-management
   - strategy
-  - policy
   - user-testing-and-research
   - usability-testing
   - user-centered-design

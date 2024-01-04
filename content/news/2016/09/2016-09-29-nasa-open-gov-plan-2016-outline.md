@@ -15,7 +15,6 @@ topics:
   - product-management
   - mobile
   - strategy
-  - policy
   - challenges-and-prize-competitions
   - citizen-science
   - code

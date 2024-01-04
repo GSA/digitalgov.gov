@@ -8,7 +8,6 @@ authors:
 topics:
   - metrics
   - strategy
-  - policy
   - analytics
   - customer-experience
   - metrics

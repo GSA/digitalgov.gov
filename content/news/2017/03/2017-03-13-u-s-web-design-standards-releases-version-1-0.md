@@ -11,7 +11,6 @@ topics:
   - product-management
   - mobile
   - strategy
-  - policy
   - accessibility
   - draft-web-design-standards
   - responsive-web-design

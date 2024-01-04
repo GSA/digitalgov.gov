@@ -10,7 +10,6 @@ authors:
   - toni-bonitto
 
 topics:
-  - policy
   - governance
   - content
   - content-strategy

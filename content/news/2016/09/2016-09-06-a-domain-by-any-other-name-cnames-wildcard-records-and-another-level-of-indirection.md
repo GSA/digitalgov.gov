@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - cloud-and-infrastructure
   - search
   - infrastructure

@@ -8,7 +8,6 @@ authors:
   - andrew-maier
 topics:
   - strategy
-  - policy
   - user-testing-and-research
   - user-centered-design
   - user research

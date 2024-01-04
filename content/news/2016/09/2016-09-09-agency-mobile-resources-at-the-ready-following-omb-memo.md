@@ -10,7 +10,6 @@ topics:
   - product-management
   - mobile
   - strategy
-  - policy
   - infrastructure
   - innovation
   - mobile

@@ -10,10 +10,8 @@ topics:
   - product-management
   - social-media
   - strategy
-  - policy
   - content
   - content-strategy
-  
   - the-content-corner
 
 ---

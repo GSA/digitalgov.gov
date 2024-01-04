@@ -9,7 +9,6 @@ topics:
   - governance
   - product-management
   - strategy
-  - policy
   - cloud
   - Cybersecurity National Action Plan
   - infrastructure

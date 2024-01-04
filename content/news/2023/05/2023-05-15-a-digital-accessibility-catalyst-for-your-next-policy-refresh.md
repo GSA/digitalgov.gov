@@ -9,7 +9,6 @@ topics:
   - accessibility
   - section-508
   - governance
-  - policy
   - usability
   - user-experience
   - content-strategy

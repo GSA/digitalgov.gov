@@ -12,7 +12,6 @@ topics:
   - innovation
   - mobile
   - strategy
-  - policy
   - user-testing-and-research
   - video
   - audio-video

@@ -10,7 +10,6 @@ topics:
   - mobile
   - social-media
   - strategy
-  - policy
   - innovation
   - video
   - video-production-pros-community

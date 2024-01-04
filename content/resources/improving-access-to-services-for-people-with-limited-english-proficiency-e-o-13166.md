@@ -6,7 +6,6 @@ summary: "EO 13166 requires federal agencies to examine the services they provid
 topics:
   - multilingual
   - lep
-  - policy
 authors:
   - apiazza
 

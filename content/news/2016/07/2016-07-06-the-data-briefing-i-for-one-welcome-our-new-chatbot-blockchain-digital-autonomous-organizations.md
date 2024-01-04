@@ -10,7 +10,6 @@ topics:
   - code
   - product-management
   - strategy
-  - policy
   - api
   - blockchain
   - chatbots

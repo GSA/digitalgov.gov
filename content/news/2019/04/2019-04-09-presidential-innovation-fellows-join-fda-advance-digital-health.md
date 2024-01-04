@@ -10,8 +10,6 @@ authors:
 categories:
   - product-management
 tag:
-  - pif
-  - presidential-innovation-fellows
 featured_image:
   uid: pif-raab-goldel
   alt: ''

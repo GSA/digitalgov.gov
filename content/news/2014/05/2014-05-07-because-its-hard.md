@@ -9,7 +9,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - api
   - customer-experience
   - innovation

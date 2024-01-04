@@ -12,7 +12,6 @@ topics:
   - product-management
   - domain-management
   - strategy
-  - policy
   - https
   - security
 

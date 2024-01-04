@@ -18,7 +18,6 @@ summary: "GSA officially released the ‘website standards’ referenced in Sect
 # see all topics at https://digital.gov/topics
 topics:
   - 21st-century-idea
-  - policy
 
 # see all authors at https://digital.gov/authors
 authors:

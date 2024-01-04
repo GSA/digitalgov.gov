@@ -7,7 +7,6 @@ authors:
   - alan-brouilette
 topics:
   - strategy
-  - policy
   - agile
   - agile-lean-community-of-practice
   - kanban

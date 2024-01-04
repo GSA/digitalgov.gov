@@ -11,7 +11,6 @@ summary: summary
 # See all topics at https://digital.gov/topics
 topics:
   - strategy
-  - policy
   - product-management
   - agile
   - workflows

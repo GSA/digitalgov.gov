@@ -13,8 +13,6 @@ authors:
   - zach-goldfine
 topics:
   - innovation
-  - pif
-  - presidential-innovation-fellows
 featured_image:
   uid: pif-card-alt
   alt:

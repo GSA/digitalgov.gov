@@ -12,7 +12,6 @@ topics:
   - emerging-tech
   - artificial-intelligence
   - innovation
-
 featured_image: 
   uid: pif-homecoming-8
   alt: "Presidential Innovation Fellows gathered at the Eisenhower Executive Office Building on July 12 as part of a PIF Homecoming event."

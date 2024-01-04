@@ -11,7 +11,6 @@ topics:
   - content
   - product-management
   - strategy
-  - policy
   - content
   - content-strategy
   - innovation

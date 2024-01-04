@@ -10,7 +10,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - policy
   - security
 
 ---
