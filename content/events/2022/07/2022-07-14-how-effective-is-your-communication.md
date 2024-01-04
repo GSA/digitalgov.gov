@@ -11,7 +11,6 @@ end_date: 2022-07-26 15:00:00 -0500
 topics:
   - communication
   - metrics
-  - data
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry

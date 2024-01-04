@@ -5,7 +5,6 @@ title: 'GSA&#8217;s Child Care Information Portal'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the General Services Administration. The Child Care Information Portal is a responsively designed web site built by General Services Administration&#8217;s Office of the Chief'
 topics:
   - mobile
-  - gsa
   - mobile-gov-experience
   - responsive-web-design
 ---

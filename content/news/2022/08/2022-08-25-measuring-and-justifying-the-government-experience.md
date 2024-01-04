@@ -22,7 +22,6 @@ summary: "Private sector organizations use revenue as the primary measurement to
 topics:
   - governance
   - metrics
-  - data
   - 21st-century-idea
   - customer-experience
   - accessibility

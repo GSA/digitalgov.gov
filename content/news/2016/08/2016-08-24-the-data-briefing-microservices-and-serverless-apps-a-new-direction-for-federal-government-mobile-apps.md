@@ -7,10 +7,8 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - devops
   - mobile
-  - data
   - mobile
   - mobile-apps
   - the-data-briefing

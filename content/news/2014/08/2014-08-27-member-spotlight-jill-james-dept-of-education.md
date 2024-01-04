@@ -7,7 +7,6 @@ authors:
   - rflagg
 topics:
   - content
-  - monthly-theme
   - responsive-web-design
   - web-content-managers-forum
 ---

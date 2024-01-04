@@ -8,10 +8,7 @@ authors:
 topics:
   - code
   - product-management
-  - monthly-theme
-  - 18f
   - data-gov
-  
   - open-source
 ---
 

@@ -9,7 +9,6 @@ authors:
 
 topics:
   - product-management
-  - monthly-theme
   - agile
   - agile-lean-community-of-practice
 

@@ -7,7 +7,6 @@ authors:
   - rflagg
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-satisfaction
   - customer-service

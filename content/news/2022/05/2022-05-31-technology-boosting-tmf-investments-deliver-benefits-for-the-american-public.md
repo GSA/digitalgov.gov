@@ -14,7 +14,6 @@ topics:
   - security
   - user-experience
   - strategy
-  - data
   - acquisition
 
 # See all authors at https://digital.gov/authors

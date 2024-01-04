@@ -11,7 +11,6 @@ topics:
   - code
   - content
   - crowdsourcing-and-citizen-science
-  - data
   - governance
   - product-management
   - mobile
@@ -19,7 +18,6 @@ topics:
   - challenges-and-prize-competitions
   - citizen-science
   - code
-  - data
   - innovation
   - mobile-apps
 ---

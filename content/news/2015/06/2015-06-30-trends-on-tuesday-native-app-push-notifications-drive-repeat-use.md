@@ -7,7 +7,6 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - 18f
   - ios
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5

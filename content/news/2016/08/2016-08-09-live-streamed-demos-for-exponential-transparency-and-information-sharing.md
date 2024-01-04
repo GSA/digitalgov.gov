@@ -11,7 +11,6 @@ topics:
   - product-management
   - strategy
   - video
-  - 18f
   - audio
   - audio-video
   - multimedia

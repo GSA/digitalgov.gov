@@ -9,7 +9,6 @@ topics:
   - accessibility
   - code
   - content
-  - data
   - design
   - product-management
   - metrics

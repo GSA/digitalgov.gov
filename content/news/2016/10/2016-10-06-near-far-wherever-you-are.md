@@ -13,8 +13,6 @@ topics:
   - content-strategy
   - Contingency Contracting Corps
   - FAR
-  - gsa
-  - mobile
   - thursday-mobile-products
 ---
 

@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - monthly-theme
-  
   - the-content-corner
   - user-experience
 ---

@@ -9,13 +9,9 @@ authors:
 topics:
   - api
   - content
-  - data
   - design
-  - 18f
   - api
   - content
-  - data
-  
   - plain-language
   - responsive-web-design
   - user-centered-design

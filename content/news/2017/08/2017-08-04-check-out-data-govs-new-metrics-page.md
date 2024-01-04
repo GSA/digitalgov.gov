@@ -6,10 +6,8 @@ summary: 'Data.gov recently updated its Metrics page to provide greater detail a
 authors:
   - data-gov-team
 topics:
-  - data
   - metrics
   - analytics
-  - data
   - data-gov
   - metrics
 ---

@@ -11,7 +11,6 @@ topics:
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
-  - gsa
   - innovation
   - social-media
   - socialgov

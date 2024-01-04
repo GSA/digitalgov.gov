@@ -6,7 +6,6 @@ summary: '  FEMA collects data from disasters. We look at various hazards over t
 authors:
   - craig-fugate
 topics:
-  - data
   - data-visualization
   - mobile-apps
 ---

@@ -7,9 +7,7 @@ authors:
   - nick-sinai
   - nicole-wong
 topics:
-  - data
   - big-data
-  - data
   - open-data
 ---
 

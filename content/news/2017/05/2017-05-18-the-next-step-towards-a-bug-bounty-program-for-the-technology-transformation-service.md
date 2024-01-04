@@ -10,10 +10,7 @@ authors:
 topics:
   - product-management
   - strategy
-  - 18f
-  
   - security
-  - united-states-department-of-defense
 
 ---
 

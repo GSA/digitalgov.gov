@@ -7,7 +7,6 @@ authors:
   - tlowden
 topics:
   - challenges
-  - monthly-theme
   - challenge-gov
 ---
 

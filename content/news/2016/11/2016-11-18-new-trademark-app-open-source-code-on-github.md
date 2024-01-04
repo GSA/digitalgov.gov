@@ -7,7 +7,6 @@ authors:
   - david-chiles
 topics:
   - code
-  - data
   - product-management
   - mobile
   - api

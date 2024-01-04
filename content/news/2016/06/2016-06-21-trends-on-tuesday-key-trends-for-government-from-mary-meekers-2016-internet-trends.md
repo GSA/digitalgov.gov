@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - data
   - internet-of-things
   - mobile
   - open-data

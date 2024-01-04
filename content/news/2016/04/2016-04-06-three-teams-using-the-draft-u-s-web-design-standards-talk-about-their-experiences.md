@@ -10,7 +10,6 @@ topics:
   - design
   - product-management
   - strategy
-  - 18f
   - code
   - draft-web-design-standards
   - open-source

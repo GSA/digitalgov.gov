@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - mobile
-  - monthly-theme
   - analytics
   - mobile-testing
   - mobile-ux-guideline-4

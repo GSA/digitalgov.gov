@@ -8,12 +8,7 @@ authors:
   - phaedra-chrousos
   - tom-black
 topics:
-  - data
-  - monthly-theme
-  - 18f
-  - data-gov
   - open-government
-  - united-states-department-of-energy
 ---
 
 > <div class="field-label">

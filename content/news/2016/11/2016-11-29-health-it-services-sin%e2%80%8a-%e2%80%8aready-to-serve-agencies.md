@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - Federal Health IT Strategic Plan
-  - gsa
   - IT Schedule 70
 ---
 

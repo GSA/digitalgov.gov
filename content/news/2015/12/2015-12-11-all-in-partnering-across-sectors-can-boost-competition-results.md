@@ -7,7 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - monthly-theme
   - challenges-and-prize-competitions
 ---
 

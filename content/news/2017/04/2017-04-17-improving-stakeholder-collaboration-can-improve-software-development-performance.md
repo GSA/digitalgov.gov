@@ -8,6 +8,7 @@ authors:
 topics:
   - strategy
   - communication
+  - best-practices
 ---
 
 It’s important for software development organizations to make it as easy as possible to enable improved stakeholder behavior. Development stakeholders can include business development representatives, product managers, and senior project managers, and they are typically carrying the weight of the organization’s mission. They are concerned about the organization’s goals, and are usually focused on ensuring that the software development efforts are effectively supporting the organization’s mission. But they can have a difficult time managing the communication and conflict among themselves, and if this happens, software development and the greater organization can suffer. {{< legacy-img src="2017/04/600-x-400-Two-business-persons-collaboration-blocks-Choreograph-iStock-Thinkstock-511318774.jpg" alt="Two business people collaborate with building blocks." caption="" >}} 

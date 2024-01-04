@@ -7,7 +7,6 @@ authors:
   - kdaniel
 topics:
   - mobile
-  - monthly-theme
   - customer-service
   - government-contact-centers
   - thursday-mobile-products

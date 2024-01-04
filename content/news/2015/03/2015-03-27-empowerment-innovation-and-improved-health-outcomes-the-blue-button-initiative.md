@@ -8,8 +8,6 @@ authors:
 topics:
   - api
   - code
-  - data
-  - monthly-theme
   - data-gov
   - internet-of-things
   - json

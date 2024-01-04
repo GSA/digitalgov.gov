@@ -9,7 +9,6 @@ topics:
   - product-management
   - user-experience
   - customer-experience
-  - gsa
   - top-tasks
 ---
 

@@ -6,11 +6,8 @@ summary: ' DigitalGov University has hosted some great events over the last year
 authors:
   - apiazza
 topics:
-  - monthly-theme
-  - 18f
   - api
   - content-management-system
-  - data
   - data-gov
   - json
   - metadata

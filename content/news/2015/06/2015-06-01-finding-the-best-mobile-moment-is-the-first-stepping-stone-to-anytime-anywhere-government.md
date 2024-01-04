@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - monthly-theme
   - ios
   - mobile-ux-guideline-5
 ---

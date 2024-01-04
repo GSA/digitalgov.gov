@@ -7,7 +7,6 @@ authors:
   - emileigh-barnes
 topics:
   - content
-  - 18f
   - api
 ---
 

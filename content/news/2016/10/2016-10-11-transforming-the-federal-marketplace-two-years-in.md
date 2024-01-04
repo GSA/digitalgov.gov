@@ -9,7 +9,6 @@ topics:
   - strategy
   - acquisition
   - agile
-  - gsa
   - innovation
 ---
 

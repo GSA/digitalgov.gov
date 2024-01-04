@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - acquisition
-  - gsa
   - IT Schedule 70
   - security
 ---

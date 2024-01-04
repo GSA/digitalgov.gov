@@ -6,14 +6,11 @@ summary: 2015 was a big year for 18F. We almost doubled in size, worked with 28 
 authors:
   - melody-kramer
 topics:
-  - 18f
   - accessibility
   - api
   - cloud
   - dap
-  - data
   - digital-analytics-program
-  - gsa
   - https
   - open-data
 ---

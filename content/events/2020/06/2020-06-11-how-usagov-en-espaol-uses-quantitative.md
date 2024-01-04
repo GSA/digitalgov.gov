@@ -23,7 +23,6 @@ topics:
   - contact-centers
   - content-strategy
   - dap
-  - data
   - metrics
   - multilingual
   - social-media

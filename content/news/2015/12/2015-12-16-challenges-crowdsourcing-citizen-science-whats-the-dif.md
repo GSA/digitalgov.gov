@@ -8,23 +8,16 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - monthly-theme
-  
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
-  
   - crowdfunding
   - crowdsourcing
-  
   - FCPCCS
-  - gsa
-  
   - innovation
   - prizes-and-competitions
-  - united-states-department-of-energy
 ---
 
 There’s more than one way to harness the wisdom of the crowd.

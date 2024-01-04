@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - gsa
   - mobile-apps
   - mobile-gov-experience
 ---

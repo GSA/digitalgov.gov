@@ -7,7 +7,6 @@ authors:
   - dr-taha-kass-hout
 topics:
   - api
-  - data
   - api
   - cloud
   - mobile-first

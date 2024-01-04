@@ -11,7 +11,6 @@ topics:
   - design
   - customer-experience
   - user-experience
-  - data
 
 # See all authors at https://digital.gov/authors
 authors:

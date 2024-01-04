@@ -7,7 +7,6 @@ authors:
   - rflagg
 topics:
   - content
-  - monthly-theme
   - social-media
   - plain-language
   - socialgov-community

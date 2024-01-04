@@ -7,7 +7,6 @@ authors:
   - alan-brouilette
 topics:
   - strategy
-  - 18f
   - agile
   - agile-lean-community-of-practice
   - kanban

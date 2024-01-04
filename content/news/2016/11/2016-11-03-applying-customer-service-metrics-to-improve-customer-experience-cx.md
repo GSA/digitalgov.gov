@@ -6,11 +6,9 @@ summary: 'Lately, Iâ€™ve looked at how a government agency measures a customerâ€
 authors:
   - craig-chavez
 topics:
-  - data
   - strategy
   - analytics
   - customer-experience
-  - data
   - metrics
 
 ---

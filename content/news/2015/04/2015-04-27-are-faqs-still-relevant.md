@@ -6,7 +6,6 @@ summary: 'Users have questions. Your content and website navigation can help the
 authors:
   - awichman
 topics:
-  - monthly-theme
   - customer-service
   - government-contact-centers
   - user-centered-design

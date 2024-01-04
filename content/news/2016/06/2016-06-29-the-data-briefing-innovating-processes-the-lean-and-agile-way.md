@@ -8,14 +8,12 @@ authors:
   - bbrantley
 
 topics:
-  - data
   - product-management
   - agile
   - ai
   - artificial intelligence
   - big-data
   - cloud
-  - data
   - internet-of-things
   - lean
   - the-data-briefing

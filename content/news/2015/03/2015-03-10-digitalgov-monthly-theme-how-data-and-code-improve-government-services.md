@@ -9,10 +9,7 @@ authors:
   - jparcell
 
 topics:
-  - data
-  - monthly-theme
   - api
-  - data
   - https
   - metadata
   - open-data

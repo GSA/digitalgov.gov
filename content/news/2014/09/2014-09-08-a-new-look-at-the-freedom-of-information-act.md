@@ -11,7 +11,6 @@ authors:
   - victor-diaz-zapanta
 topics:
   - code
-  - 18f
   - open-government
 ---
 

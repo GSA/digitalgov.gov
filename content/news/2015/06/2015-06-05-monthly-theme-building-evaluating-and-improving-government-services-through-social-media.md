@@ -7,7 +7,6 @@ authors:
   - awichman
   - jherman
 topics:
-  - monthly-theme
   - social-media
   - accessibility
   - search

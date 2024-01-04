@@ -7,10 +7,8 @@ authors:
   - ilee
 topics:
   - metrics
-  - monthly-theme
   - analytics
   - big-data
-  - data
   - digital-analytics-program
 ---
 

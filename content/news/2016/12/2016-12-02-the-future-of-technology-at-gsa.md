@@ -9,8 +9,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - 18f
-  - gsa
   - innovation
 primary_image: "nongkran-ch-istock-getty-images-487970224-comp"
 

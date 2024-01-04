@@ -32,7 +32,6 @@ topics:
   - open-source
   - software-engineering
   - code
-  - data
   - api
 
 ---

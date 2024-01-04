@@ -8,7 +8,6 @@ authors:
   - davar-ardalan
 topics:
   - product-management
-  - gsa
   - innovation
 featured_image:
   uid: pif-team-19

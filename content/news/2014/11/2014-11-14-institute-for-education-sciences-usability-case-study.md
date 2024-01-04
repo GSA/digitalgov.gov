@@ -6,7 +6,6 @@ summary: 'After struggling with jargon-filled solicitations and a confusing webs
 authors:
   - katina-stapleton
 topics:
-  - monthly-theme
   - plain-language
   - usability-case-study
   - user-experience

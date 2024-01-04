@@ -7,7 +7,6 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - 18f
   - challenge-gov
   - data-gov
   - national-day-of-civic-hacking

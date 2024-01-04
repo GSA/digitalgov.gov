@@ -7,7 +7,6 @@ authors:
   - veronica-phillips
 topics:
   - api
-  - data
   - code
   - content
   - open-data

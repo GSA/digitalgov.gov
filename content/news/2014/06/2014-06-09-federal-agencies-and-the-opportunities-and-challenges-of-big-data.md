@@ -6,7 +6,6 @@ summary: 'On June 19, the Obama Administration will continue the conversation on
 authors:
   - nicole-wong
 topics:
-  - data
   - big-data
 ---
 

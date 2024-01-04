@@ -6,13 +6,10 @@ summary: 'Summary: Significant strides in improving public access to scholarly p
 authors:
   - jerry-sheehan
 topics:
-  - data
   - product-management
   - content
   - open-government
   - research
-  - united-states-department-of-defense
-  - united-states-department-of-energy
 ---
 
 > _Summary: Significant strides in improving public access to scholarly publications and digital data help usher in an era of open science._

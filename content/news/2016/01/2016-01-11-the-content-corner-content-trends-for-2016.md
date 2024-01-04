@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - monthly-theme
   - social-media
   - the-content-corner
 ---

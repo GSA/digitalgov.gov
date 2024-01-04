@@ -8,7 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - monthly-theme
   - crowdsourcing
   - open-government
   - mobile

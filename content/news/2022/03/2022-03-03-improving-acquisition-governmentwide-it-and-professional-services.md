@@ -9,7 +9,6 @@ deck: "**Improving Acquisition Governmentwide: IT and Professional Services**&md
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
-  - gsa
 slug: improving-acquisition-governmentwide-it-and-professional-services
 # Controls how this page appears across the site
 # 0 -- hidden

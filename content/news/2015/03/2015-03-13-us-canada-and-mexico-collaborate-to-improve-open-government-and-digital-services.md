@@ -7,12 +7,9 @@ authors:
   - darlene-meskell
 topics:
   - governance
-  - monthly-theme
   - strategy
-  - 18f
   - data-gov
   - open-government
-  - gsa
   - metadata
   - open-data
   - open-source

@@ -10,7 +10,6 @@ authors:
 topics:
   - strategy
   - user-testing-and-research
-  - 18f
   - agile
   - kanban
   - lean

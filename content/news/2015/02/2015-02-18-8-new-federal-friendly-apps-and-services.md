@@ -8,10 +8,8 @@ authors:
   - dan-kenny
 topics:
   - social-media
-  - gsa
   - open-data
   - terms-of-service
-  - united-states-department-of-energy
   - user-experience
 ---
 

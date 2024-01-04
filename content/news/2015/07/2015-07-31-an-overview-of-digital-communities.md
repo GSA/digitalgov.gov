@@ -6,8 +6,6 @@ summary: 'Digital communities of practice come in many stripes. DigitalGov commu
 authors:
   - awichman
 topics:
-  - monthly-theme
-  - 18f
   - api
   - citizen-science-and-crowdsourcing-community-of-practice
   - mobile

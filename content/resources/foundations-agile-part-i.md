@@ -25,7 +25,6 @@ topics:
   - agile
   - product-management
   - project-management
-  - 18f
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -10,7 +10,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - analytics
-  - data
 ---
 
 {{< legacy-img src="2014/10/600-x-445-metrics-graphic-1-Performance-Measurement.jpg" alt="600 x 445 metrics-graphic-1-Performance-Measurement" >}}

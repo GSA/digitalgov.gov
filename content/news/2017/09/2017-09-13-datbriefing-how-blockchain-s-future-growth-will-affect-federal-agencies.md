@@ -10,12 +10,10 @@ authors:
   - bbrantley
 
 topics:
-  - data
   - ai
   - artificial-intelligence
   - blockchain
   - chatbots
-  - data
   - security
   - the-data-briefing
   - emerging-tech

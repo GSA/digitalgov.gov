@@ -6,7 +6,6 @@ summary: 'There are many scary tales in the world of knowledge management and da
 authors:
   - bbrantley
 topics:
-  - data
   - the-data-briefing
 ---
 

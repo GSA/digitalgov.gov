@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - api
-  - data
   - mobile-apps
   - open-data
   - wednesday-api-briefing

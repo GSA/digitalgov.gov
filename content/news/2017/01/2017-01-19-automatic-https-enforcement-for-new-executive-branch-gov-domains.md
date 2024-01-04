@@ -14,7 +14,6 @@ topics:
   - product-management
   - strategy
   - analytics
-  - gsa
   - https
   - metrics
   - search-engine-optimization

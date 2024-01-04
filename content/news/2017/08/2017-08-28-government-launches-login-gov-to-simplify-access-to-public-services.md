@@ -11,11 +11,9 @@ authors:
   - tom-mills
 topics:
   - product-management
-  - 18f
   - login-gov
   - customer-service
   - customer-experience
-  - gsa
   - security
   - user-experience
 

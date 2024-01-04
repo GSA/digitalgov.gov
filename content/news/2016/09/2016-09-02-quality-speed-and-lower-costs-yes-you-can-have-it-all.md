@@ -8,9 +8,7 @@ authors:
   - dmccleskey
 topics:
   - code
-  - data
   - product-management
-  - monthly-theme
   - strategy
   - search
   - infrastructure

@@ -9,7 +9,6 @@ topics:
   - strategy
   - customer-service
   - customer-experience
-  - gsa
   - IT Schedule 70
 ---
 

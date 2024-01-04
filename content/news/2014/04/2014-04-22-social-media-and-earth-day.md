@@ -10,7 +10,6 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  - gsa
 ---
 
 On this Earth Day, federal social media managers are hard at work, sharing and promoting what government and citizens can do to protect the environment. We’ve compiled a sample of the activities that also show how different agencies are using different social media tools in support of a common goal.

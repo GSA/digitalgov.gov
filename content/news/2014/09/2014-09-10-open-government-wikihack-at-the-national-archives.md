@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - content
-  - data
   - open-data
 ---
 

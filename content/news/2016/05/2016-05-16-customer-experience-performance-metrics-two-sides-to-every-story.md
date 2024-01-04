@@ -7,7 +7,6 @@ authors:
   - stephanie-thum
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - metrics
 ---

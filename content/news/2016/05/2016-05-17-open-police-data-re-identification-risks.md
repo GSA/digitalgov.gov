@@ -6,7 +6,6 @@ summary: 'Last week I spoke at a White House event, &ldquo;Opportunities & Chall
 authors:
   - lorrie-cranor
 topics:
-  - data
   - open-data
   - security
 

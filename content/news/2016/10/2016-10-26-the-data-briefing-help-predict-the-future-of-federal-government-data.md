@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - content
-  - data
   - product-management
   - mobile
   - social-media
@@ -23,7 +22,6 @@ topics:
   - chatbots
   - customer-experience
   - customer-service
-  - data
   - innovation
   - internet-of-things
   - IoT

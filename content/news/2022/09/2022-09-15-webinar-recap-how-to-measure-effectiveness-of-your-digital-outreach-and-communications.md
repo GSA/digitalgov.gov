@@ -6,7 +6,6 @@ summary: Panelists shared their experiences, lessons learned, and best practices
 topics:
   - communication
   - metrics
-  - data
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry

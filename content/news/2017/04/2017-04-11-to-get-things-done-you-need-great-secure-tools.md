@@ -8,9 +8,7 @@ authors:
 topics:
   - product-management
   - strategy
-  - 18f
   - fedramp
-  - gsa
   - infrastructure
   - SaaS
   - security

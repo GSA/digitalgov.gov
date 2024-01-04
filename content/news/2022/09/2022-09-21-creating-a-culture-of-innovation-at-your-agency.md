@@ -9,7 +9,6 @@ summary: "When we talk about innovation in government tech, what do we mean? Dur
 
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - innovation
 
 # See all authors at https://digital.gov/authors

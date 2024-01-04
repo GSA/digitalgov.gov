@@ -7,10 +7,8 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - GPS
   - mobile-apps
-  - united-states-census-bureau
 ---
 
 The two featured APIs this week are excellent demonstrations of personalizing federal government data by where a user lives. Federal agencies collect a considerable amount of community data, from the Census Bureau’s surveys to the FDA’s local agricultural conditions. Thanks to GPS, app developers can locate a user’s immediate geographical location and tailor information based on the latitude and longitude coordinates.

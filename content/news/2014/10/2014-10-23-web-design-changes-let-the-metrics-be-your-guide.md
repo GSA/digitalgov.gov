@@ -9,7 +9,6 @@ topics:
   - content
   - metrics
   - mobile
-  - monthly-theme
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5
   - responsive-web-design

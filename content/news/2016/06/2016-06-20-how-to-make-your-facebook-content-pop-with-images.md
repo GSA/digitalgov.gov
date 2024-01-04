@@ -7,10 +7,8 @@ authors:
   - aids-gov
 topics:
   - content
-  - monthly-theme
   - social-media
   - strategy
-  - aids-gov
   - content
   - content-strategy
   - social-media

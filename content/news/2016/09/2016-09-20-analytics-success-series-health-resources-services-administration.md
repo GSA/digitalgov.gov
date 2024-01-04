@@ -8,13 +8,11 @@ authors:
   - mackenzie-cummings
   - richard-morey
 topics:
-  - data
   - metrics
   - analytics
   - content
   - content-strategy
   - dap
-  - data
   - digital-analytics-program
   - metrics
   - user-experience

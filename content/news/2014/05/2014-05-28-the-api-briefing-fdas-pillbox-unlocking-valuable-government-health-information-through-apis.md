@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - code
-  - data
   - strategy
   - api
   

@@ -7,10 +7,8 @@ authors:
   - stephanie-thum
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-service
-  - data
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Idea-bulb-concept-with-crumpled-paper-Maksim-Koval-iStock-Thinkstock-466857660.jpg" alt="Idea bulb concept with crumpled paper" caption="" >}} 

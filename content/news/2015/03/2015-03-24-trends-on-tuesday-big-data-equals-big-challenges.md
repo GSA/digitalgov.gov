@@ -6,9 +6,7 @@ summary: According to an article from Readwrite, the amount of money going to bi
 authors:
   - kdaniel
 topics:
-  - data
   - big-data
-  - data
   - privacy
   - trends-on-tuesday
 ---

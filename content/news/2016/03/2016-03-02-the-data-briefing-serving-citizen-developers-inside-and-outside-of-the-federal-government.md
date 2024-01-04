@@ -7,9 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - api
-  - data
   - open-data
   - the-data-briefing
 ---

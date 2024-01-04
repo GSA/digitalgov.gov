@@ -6,9 +6,7 @@ summary: 'The United Kingdom’s (UK) Digital Service has researched ways to inc
 authors:
   - bbrantley
 topics:
-  - data
   - strategy
-  - data
   - open-data
   - the-data-briefing
 ---

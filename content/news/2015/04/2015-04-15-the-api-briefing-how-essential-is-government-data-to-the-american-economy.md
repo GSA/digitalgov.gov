@@ -7,9 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - open-data
-  - united-states-census-bureau
   - wednesday-api-briefing
 ---
 

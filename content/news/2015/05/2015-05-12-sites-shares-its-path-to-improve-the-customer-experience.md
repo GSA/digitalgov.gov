@@ -7,7 +7,6 @@ authors:
   - coqui-aspiazu
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-service
 ---

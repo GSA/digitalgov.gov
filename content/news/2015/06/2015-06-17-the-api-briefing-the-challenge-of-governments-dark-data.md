@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - big-data
-  - data
   - data-gov
   - wednesday-api-briefing
 ---

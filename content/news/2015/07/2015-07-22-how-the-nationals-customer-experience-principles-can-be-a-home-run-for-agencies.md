@@ -9,7 +9,6 @@ authors:
   - rflagg
 
 topics:
-  - monthly-theme
   - customer-experience
   - customer-satisfaction
   - customer-service

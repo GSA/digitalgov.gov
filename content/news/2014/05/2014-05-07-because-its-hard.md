@@ -8,7 +8,6 @@ authors:
 topics:
   - content
   - product-management
-  - monthly-theme
   - strategy
   - api
   - customer-experience

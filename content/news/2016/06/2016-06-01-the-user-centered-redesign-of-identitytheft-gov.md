@@ -10,7 +10,6 @@ topics:
   - product-management
   - strategy
   - user-testing-and-research
-  - 18f
   - usability-testing
   - user-centered-design
   - user-experience

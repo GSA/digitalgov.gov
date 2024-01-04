@@ -9,7 +9,6 @@ topics:
   - code
   - metrics
   - strategy
-  - 18f
   - analytics
   - code
   - metrics

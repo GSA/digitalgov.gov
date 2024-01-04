@@ -6,7 +6,6 @@ summary: I (virtually) attended the Third Annual Safety Datapalooza last Thursda
 authors:
   - bbrantley
 topics:
-  - data
   - the-data-briefing
 ---
 

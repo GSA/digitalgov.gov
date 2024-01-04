@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - 18f
-  - gsa
   - https
   - security
 ---

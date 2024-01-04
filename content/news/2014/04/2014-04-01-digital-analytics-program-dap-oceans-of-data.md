@@ -6,7 +6,6 @@ summary: In the last 15 months, the federal Digital Analytics Program (DAP) mont
 authors:
   - marina-fox
 topics:
-  - data
   - metrics
   - dap
   - digital-analytics-program

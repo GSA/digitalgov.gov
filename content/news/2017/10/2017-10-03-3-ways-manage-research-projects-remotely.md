@@ -12,7 +12,6 @@ topics:
   - strategy
   - user-testing-and-research
   - user-experience
-  - 18f
   - research
   - sprint
   - user-research

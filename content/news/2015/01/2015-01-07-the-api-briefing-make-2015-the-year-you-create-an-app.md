@@ -8,10 +8,8 @@ authors:
 topics:
   - api
   - challenges
-  - data
   - apps-challenges
   - challenges-and-prize-competitions
-  - data
   - data-gov
   - innovation
   - mobile

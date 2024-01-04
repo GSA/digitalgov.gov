@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - user-testing-and-research
-  - 18f
   - agile
   - research
 ---

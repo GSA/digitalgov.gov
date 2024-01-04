@@ -7,13 +7,11 @@ authors:
   - jparcell
 topics:
   - mobile
-  - monthly-theme
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - native-app
   - open-and-structured-content-models
   - responsive-web-design
-  - united-states-department-of-energy
 ---
 
 What’s your mobile itch?

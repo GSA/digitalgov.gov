@@ -8,12 +8,10 @@ authors:
 topics:
   - product-management
   - strategy
-  - 18f
   - agile
   - cloud
   - cloud-gov
   - code
-  - data
   - budgeting-and-performance
   - fedramp
   - innovation

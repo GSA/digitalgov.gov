@@ -7,8 +7,6 @@ authors:
   - jparcell
 topics:
   - governance
-  - gsa
-
 ---
 
 To help agencies produce better decision-making across the organization about how to best spend resources on digital services and manage their data, the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#intra-agency-governance) tasked the [Digital Services Advisory Group](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#digital-services-center) with “recommending guidelines on agency-wide governance structure for developing and delivering digital services and managing data.”

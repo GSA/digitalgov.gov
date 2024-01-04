@@ -8,10 +8,8 @@ authors:
   - tyrone-grandison
   - kristen-honey
 topics:
-  - data
   - data-gov
   - open-data
-  - united-states-census-bureau
   
 ---
 

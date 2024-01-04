@@ -7,10 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - monthly-theme
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - united-states-department-of-defense
 ---
 
 Someone has a problem they are trying to solve. They pull out their mobile device and find a solution. They move onto something else. That&#8217;s a mobile moment.
@@ -19,4 +17,4 @@ Organizations are living and dying by their mobile moments, and a few government
 
 Do you know what your user&#8217;s mobile moments are? Are you winning them? You haven’t made the fatal mistake of trying to shovel your website into a mobile site or app, have you? Testers in the [Federal Mobile CrowdSource Program have evidence]({{< ref "2015-08-31-mobile-content-less-is-more.md" >}}) that suggests you may be shoehorning your content, which leads to poor user experience and makes your website a candidate for the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
 
-This [month]({{< ref "/topics/monthly-theme" >}}) we&#8217;re focusing on mobile moments. We are talking about how agencies are [measuring performance]({{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}), [designing]({{< ref "2015-10-13-trends-on-tuesday-is-crowdsourcing-the-future-of-mobile-design-and-development-2.md" >}}), journey-mapping, [using open data]({{< ref "2015-10-21-the-data-briefing-300-mobile-moments.md" >}}) and enhancing and [trying to win their mobile moments]({{< ref "2015-10-26-texting-is-another-way-to-make-mobile-moments.md" >}}).
+This month we&#8217;re focusing on mobile moments. We are talking about how agencies are [measuring performance]({{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}), [designing]({{< ref "2015-10-13-trends-on-tuesday-is-crowdsourcing-the-future-of-mobile-design-and-development-2.md" >}}), journey-mapping, [using open data]({{< ref "2015-10-21-the-data-briefing-300-mobile-moments.md" >}}) and enhancing and [trying to win their mobile moments]({{< ref "2015-10-26-texting-is-another-way-to-make-mobile-moments.md" >}}).

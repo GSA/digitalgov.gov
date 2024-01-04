@@ -8,7 +8,6 @@ authors:
 topics:
   - accessibility
   - social-media
-  - aids-gov
   - aoi
   - section-508
   - socialgov-community

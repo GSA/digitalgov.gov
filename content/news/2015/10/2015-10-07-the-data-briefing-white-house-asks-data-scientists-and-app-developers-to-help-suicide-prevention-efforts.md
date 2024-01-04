@@ -1,16 +1,15 @@
 ---
 slug: the-data-briefing-white-house-asks-data-scientists-and-app-developers-to-help-suicide-prevention-efforts
 date: 2015-10-07 10:09:18 -0400
-title: 'The Data Briefing: White House Asks Data Scientists and App Developers to Help Suicide Prevention Efforts'
-summary: 'The White House issued a call on September 30, 2015, for data scientists and app developers to help with a vital public health issue: suicide prevention.'
+title: "The Data Briefing: White House Asks Data Scientists and App Developers to Help Suicide Prevention Efforts"
+summary: "This article describes some of the data sources that could be leveraged for building data analysis and apps to aid in the suicide prevention effort."
+
 authors:
   - bbrantley
+
 topics:
-  - data
-  - mobile-apps
-  - native-apps
+  - mobile
   - open-data
-  - the-data-briefing
 
 ---
 

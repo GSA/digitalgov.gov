@@ -7,7 +7,6 @@ authors:
   - michael-niedzwiecki
 topics:
   - mobile
-  - gsa
   - mobile-gov
 ---
 

@@ -7,14 +7,11 @@ authors:
   - andre-francisco
 topics:
   - code
-  - data
   - product-management
   - strategy
-  - 18f
   - agile
   - cloud
   - cloud-gov
-  - data
   - budgeting-and-performance
   - login-gov
   - budgeting-and-performance

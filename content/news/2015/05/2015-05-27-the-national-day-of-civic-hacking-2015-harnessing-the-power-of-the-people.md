@@ -7,8 +7,6 @@ authors:
   - ali-llewellyn
 topics:
   - challenges
-  - data
-  - data
   - national-day-of-civic-hacking
   - open-data
 ---

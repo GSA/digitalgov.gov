@@ -8,9 +8,7 @@ authors:
   - office-educational-technology
 topics:
   - challenges
-  - data
   - challenges-and-prize-competitions
-  - data
   - data-visualization
 featured_image:
   uid: people-working-together

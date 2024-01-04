@@ -6,7 +6,6 @@ summary: 'In this digital age, we know customers expect their government interac
 authors:
   - andreanocesigritz
 topics:
-  - monthly-theme
   - digital-analytics-program
   - search
   - Federal CrowdSource Mobile Testing Program

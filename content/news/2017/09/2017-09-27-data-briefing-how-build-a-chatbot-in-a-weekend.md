@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - code
-  - data
   - social-media
   - emerging-tech
   - artificial-intelligence

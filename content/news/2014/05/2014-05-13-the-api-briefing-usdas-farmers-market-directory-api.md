@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - api
   - wednesday-api-briefing
 ---

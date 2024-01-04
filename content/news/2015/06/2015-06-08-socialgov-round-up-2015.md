@@ -6,7 +6,6 @@ summary: 'The #SocialGov Community is coming up on three years of hard work and 
 authors:
   - apiazza
 topics:
-  - monthly-theme
   - social-media
   - analytics
   - search

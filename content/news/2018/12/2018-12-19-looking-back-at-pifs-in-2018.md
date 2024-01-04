@@ -13,7 +13,6 @@ authors:
   - zach-goldfine
 topics:
   - innovation
-  - gsa
 featured_image:
   uid: pif-card-alt
   alt:

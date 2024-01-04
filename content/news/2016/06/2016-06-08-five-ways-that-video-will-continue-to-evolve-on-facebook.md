@@ -7,10 +7,8 @@ authors:
   - randy-abramson
 topics:
   - content
-  - monthly-theme
   - social-media
   - video
-  - content
   - social-media
 ---
 

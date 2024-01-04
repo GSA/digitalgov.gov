@@ -8,9 +8,7 @@ authors:
 topics:
   - api
   - content
-  - monthly-theme
   - social-media
-  - 18f
   - content-management-system
   - search
   - open-data

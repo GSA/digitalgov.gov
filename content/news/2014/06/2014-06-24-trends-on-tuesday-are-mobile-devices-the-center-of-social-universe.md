@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - monthly-theme
   - social-media
   - crowdsourcing
   - internet-of-things

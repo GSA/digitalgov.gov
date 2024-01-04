@@ -27,5 +27,4 @@ topics:
   - code
   - strategy
   - product-management
-  - gsa
 ---

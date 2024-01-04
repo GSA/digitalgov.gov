@@ -6,9 +6,6 @@ summary: 'For many agencies, what data to make open is left up to the agency’s
 authors:
   - bbrantley
 topics:
-  - data
-  - data
-  
   - open-data
   - the-data-briefing
 ---

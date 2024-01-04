@@ -11,7 +11,6 @@ summary: "10x, the federal venture studio, has approved 25 new projects for Phas
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 10x
   - innovation
 
 # see all authors at https://digital.gov/authors

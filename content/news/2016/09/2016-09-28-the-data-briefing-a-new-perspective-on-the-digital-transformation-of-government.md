@@ -7,14 +7,12 @@ authors:
   - bbrantley
 topics:
   - code
-  - data
   - product-management
   - strategy
   - agile
   - architecture
   - cloud
   - code
-  - data
   - innovation
   - the-data-briefing
 ---

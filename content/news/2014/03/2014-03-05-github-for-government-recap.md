@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - code
-  - data
   - open-data
 ---
 

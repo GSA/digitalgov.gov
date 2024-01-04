@@ -8,11 +8,9 @@ authors:
   - anahita-reilly
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - gsa
   - user-experience
 ---
 

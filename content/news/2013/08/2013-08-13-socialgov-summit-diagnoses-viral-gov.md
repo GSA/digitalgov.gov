@@ -7,7 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - gsa
   - mobile-gov
   - socialgov
 ---

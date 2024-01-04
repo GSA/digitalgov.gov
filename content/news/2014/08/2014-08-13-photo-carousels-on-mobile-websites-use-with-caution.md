@@ -7,7 +7,6 @@ authors:
   - beth-martin
 topics:
   - mobile
-  - monthly-theme
   - user-testing-and-research
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1

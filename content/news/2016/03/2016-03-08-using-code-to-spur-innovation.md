@@ -6,10 +6,6 @@ summary: 'This week, President Obama will travel to SxSW (South by Southwest) to
 authors:
   - andreanocesigritz
 topics:
-  - code
-  - monthly-theme
-  - data
-  
   - open-data
   
 ---

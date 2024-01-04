@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - strategy
-  - 18f
   - acquisition
   - agile
   - innovation

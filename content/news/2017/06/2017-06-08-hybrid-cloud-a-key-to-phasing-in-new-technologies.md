@@ -9,7 +9,6 @@ topics:
   - product-management
   - strategy
   - cloud
-  - gsa
   - security
 ---
 

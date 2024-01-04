@@ -6,7 +6,6 @@ summary: 'If you haven&#8217;t heard about @congressedits yet, it&#8217;s a Twit
 authors:
   - dominic-mcdevitt-parks
 topics:
-  - monthly-theme
   - social-media
   - open-government
 ---

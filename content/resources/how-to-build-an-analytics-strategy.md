@@ -11,7 +11,6 @@ authors:
 # See all topics at https://digital.gov/topics
 topics:
   - metrics
-  - data
   - performance
   - analytics
   - dap

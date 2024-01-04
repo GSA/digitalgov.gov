@@ -7,7 +7,6 @@ authors:
   - zeshan-khan
 topics:
   - api
-  - 18f
   - api
 ---
 

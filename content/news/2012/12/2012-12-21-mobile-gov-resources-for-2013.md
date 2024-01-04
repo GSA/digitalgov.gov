@@ -6,7 +6,6 @@ summary: "With mobile use growing exponentially and federal agencies implementin
 topics:
   - mobile
   - api
-  - gsa
   - mobile-apps
   - mobile-gov
   - mobile-first

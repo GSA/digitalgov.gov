@@ -6,7 +6,6 @@ summary: 'This past year DigitalGov University has hosted at least one Usability
 authors:
   - apiazza
 topics:
-  - monthly-theme
   - usability
   - usability-testing
   - user-experience
