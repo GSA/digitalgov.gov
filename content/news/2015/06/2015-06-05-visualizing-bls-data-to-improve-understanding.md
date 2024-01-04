@@ -7,8 +7,6 @@ authors:
   - erica-groshen
 topics:
   - content
-  - data
-  - data
   - data-visualization
   - infographic
 ---

@@ -7,13 +7,11 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - api
   - augmented-reality
   - chatbots
   - customer-experience
   - customer-service
-  - data
   - internet-of-things
   - the-data-briefing
   - user-experience

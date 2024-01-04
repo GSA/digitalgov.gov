@@ -14,7 +14,6 @@ authors:
 
 # See all topics at https://digital.gov/topics
 topics:
-  - 10x
   - devops
   - software-engineering
 

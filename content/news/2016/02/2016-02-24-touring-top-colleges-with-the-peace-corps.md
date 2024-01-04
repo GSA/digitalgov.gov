@@ -7,7 +7,6 @@ authors:
   - chris-rottler
 topics:
   - content
-  - data
   - data-visualization
   - peace-corps
 ---

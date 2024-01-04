@@ -7,7 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - monthly-theme
   - content-strategy
   - the-content-corner
 ---

@@ -10,10 +10,8 @@ authors:
   - john-tindel
 topics:
   - product-management
-  - 18f
   - analytics
   - digital-analytics-program
-  - gsa
   - https
 ---
 

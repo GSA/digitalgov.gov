@@ -6,13 +6,11 @@ summary: 'As the Federal government agencies begin the digital transformation jo
 authors:
   - bbrantley
 topics:
-  - data
   - product-management
   - metrics
   - strategy
   - policy
   - analytics
-  - data
   - innovation
   - metrics
   - the-data-briefing

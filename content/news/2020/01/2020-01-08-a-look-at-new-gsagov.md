@@ -12,7 +12,6 @@ summary: "How the GSA incorporated the U.S. Web Design System into their flagshi
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - gsa
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - product-management
-  - monthly-theme
   - user-testing-and-research
   
   - personas

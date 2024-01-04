@@ -13,7 +13,6 @@ topics:
   - product-management
   - metrics
   - mobile
-  - monthly-theme
   - social-media
   - user-experience
   - crowdsourcing

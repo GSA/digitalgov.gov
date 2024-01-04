@@ -11,7 +11,6 @@ authors:
 topics:
   - product-management
   - user-experience
-  - 18f
   - draft-web-design-standards
 ---
 

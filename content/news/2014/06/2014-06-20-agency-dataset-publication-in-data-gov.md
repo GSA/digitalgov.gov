@@ -7,7 +7,6 @@ authors:
   - hyon-kim
 topics:
   - api
-  - data
   - api
   - data-gov
   - metadata

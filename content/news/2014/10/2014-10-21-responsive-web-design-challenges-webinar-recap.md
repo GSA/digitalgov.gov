@@ -8,7 +8,6 @@ authors:
   - debra-harris
 topics:
   - mobile
-  - monthly-theme
   - analytics
   - mobile-ux-guideline-1
   - responsive-web-design

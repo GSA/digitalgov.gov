@@ -7,11 +7,9 @@ authors:
   - will-cahoe
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - emerging-tech
   - multilingual
   - multilingual-community
-  - 10x
   - customer-experience
   - user-research
 primary_image: 10x-new-logo-fy22-1200-x-628b

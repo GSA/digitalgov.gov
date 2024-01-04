@@ -6,7 +6,6 @@ summary: 'Government agencies across the United States publish content in a grow
 authors:
   - dmccleskey
 topics:
-  - monthly-theme
   - search
   - GobiernoUSAgov
   - multilingual

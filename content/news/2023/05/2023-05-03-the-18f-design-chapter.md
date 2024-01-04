@@ -16,7 +16,6 @@ summary: Designing technology-enabled public services requires deep expertise in
   which has a primary focus, with corresponding tools, methods, and techniques.
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - design
   - user-centered-design
 slug: the-18f-design-chapter

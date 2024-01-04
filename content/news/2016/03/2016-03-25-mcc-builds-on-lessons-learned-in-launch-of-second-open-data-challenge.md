@@ -6,8 +6,6 @@ summary: 'The Millennium Challenge Corporation (MCC)’s first open data challen
 authors:
   - elizabeth-zeitler
 topics:
-  - data
-  - monthly-theme
   - challenges-and-prize-competitions
   - open-data
 ---

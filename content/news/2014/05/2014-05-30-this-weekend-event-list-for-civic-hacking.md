@@ -7,7 +7,6 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - data
   - data-gov
   - national-day-of-civic-hacking
   - united-states-census-bureau

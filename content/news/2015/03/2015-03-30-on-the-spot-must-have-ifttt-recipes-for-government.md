@@ -7,9 +7,7 @@ authors:
   - jherman
 topics:
   - api
-  - monthly-theme
   - social-media
-  - 18f
   - api
   - digital-analytics-program
   - social-media

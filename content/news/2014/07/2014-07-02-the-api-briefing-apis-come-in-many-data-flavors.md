@@ -7,10 +7,8 @@ authors:
   - bbrantley
 topics:
   - api
-  - data
   - mobile-apps
   - mobile-code-catalog
-  - united-states-census-bureau
   - wednesday-api-briefing
 ---
 

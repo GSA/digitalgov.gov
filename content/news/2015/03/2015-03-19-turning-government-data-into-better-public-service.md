@@ -10,7 +10,6 @@ authors:
   - charles-worthington
 topics:
   - metrics
-  - monthly-theme
   - analytics
   - dap
   - digital-analytics-program

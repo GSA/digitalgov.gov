@@ -10,7 +10,6 @@ topics:
   - policy
   - customer-service
   - customer-experience
-  - gsa
   - IT Schedule 70
   - PBS
   - Public Buildings Service

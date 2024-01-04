@@ -9,7 +9,6 @@ topics:
   - api
   - mobile
   - mobile-apps
-  - monthly-theme
   - aoi
   - federal-mobile-products-registry
   - mobile-ux-guideline-4

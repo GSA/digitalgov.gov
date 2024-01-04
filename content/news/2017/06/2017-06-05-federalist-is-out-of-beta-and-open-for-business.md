@@ -10,13 +10,11 @@ topics:
   - code
   - design
   - product-management
-  - 18f
   - cloud
   - cloud-gov
   
   - content-management-system
   - fedramp
-  - gsa
   - security
 ---
 

@@ -10,11 +10,8 @@ authors:
   - julia-winn
   - gabriel-ramirez
 topics:
-  - data
   - metrics
-  - 18f
   - analytics
-  - data
   - digital-analytics-program
 ---
 

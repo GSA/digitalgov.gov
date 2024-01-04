@@ -8,8 +8,6 @@ authors:
 topics:
   - code
   - product-management
-  - 18f
-  
   - open-source
 ---
 

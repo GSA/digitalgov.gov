@@ -7,7 +7,6 @@ authors:
   - david-hale
 topics:
   - api
-  - data
   - open-source
 ---
 

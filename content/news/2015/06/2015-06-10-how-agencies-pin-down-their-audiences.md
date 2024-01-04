@@ -6,9 +6,7 @@ summary: 'While Facebook and Twitter are the most popular social media platforms
 authors:
   - edgardo-morales
 topics:
-  - monthly-theme
   - content-strategy
-  - gsa
   - social-media
 ---
 

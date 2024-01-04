@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - code
-  - data
-  - data
   - open-government
   - open-data
   - privacy

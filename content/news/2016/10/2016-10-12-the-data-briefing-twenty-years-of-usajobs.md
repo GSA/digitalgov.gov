@@ -6,7 +6,6 @@ summary: I recently sat down with Michelle Earley, Program Manager, to discuss t
 authors:
   - bbrantley
 topics:
-  - data
   - product-management
   - metrics
   - strategy
@@ -16,9 +15,7 @@ topics:
   - agile
   - blockchain
   - dap
-  - data
   - digital-analytics-program
-  - gsa
   - lean
   - the-data-briefing
   - user-centered-design

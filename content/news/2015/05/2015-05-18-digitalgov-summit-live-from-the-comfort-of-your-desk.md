@@ -8,7 +8,6 @@ authors:
   - apiazza
 topics:
   - customer-experience
-  - gsa
   - open-and-structured-content-models
 
 ---

@@ -7,7 +7,6 @@ authors:
   - barbara-walton
 topics:
   - content
-  - data
   - product-management
   - metrics
   - aoi

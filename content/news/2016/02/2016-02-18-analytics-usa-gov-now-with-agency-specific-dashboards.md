@@ -11,8 +11,6 @@ authors:
   - julia-winn
   - colin-craig
 topics:
-  - data
-  - 18f
   - analytics
   - dap
   - digital-analytics-program

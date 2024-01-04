@@ -10,9 +10,7 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - 18f
   - open-government
-  - gsa
 ---
 
 The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s [18F](https://18f.gsa.gov/) team on the development of a National FOIA Portal.

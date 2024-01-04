@@ -7,7 +7,6 @@ authors:
   - jennifer-gonzalez
 topics:
   - crowdsourcing-and-citizen-science
-  - data
   - product-management
   - user-testing-and-research
   - crowdsourcing

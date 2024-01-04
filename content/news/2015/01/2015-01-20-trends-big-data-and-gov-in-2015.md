@@ -6,8 +6,6 @@ summary: ' As we move into 2015, the amount of data available in the digital eco
 authors:
   - kdaniel
 topics:
-  - data
-  - monthly-theme
   - big-data
   - internet-of-things
   - trends-on-tuesday

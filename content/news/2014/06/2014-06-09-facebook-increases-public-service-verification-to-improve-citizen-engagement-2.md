@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - trust
-  - data
   - governance
   - product-management
   - social-media

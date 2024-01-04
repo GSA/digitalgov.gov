@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - gsa
   - mobile
   - responsive-web-design
 ---

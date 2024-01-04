@@ -9,9 +9,7 @@ topics:
   - metrics
   - analytics
   - dap
-  - data
   - digital-analytics-program
-  - gsa
   - usability
   - user-experience
   

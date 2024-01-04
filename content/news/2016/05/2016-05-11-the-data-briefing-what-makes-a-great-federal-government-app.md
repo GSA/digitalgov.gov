@@ -6,7 +6,6 @@ summary: 'There were many apps released by the federal government over the last 
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
   - mobile
   - mobile-apps

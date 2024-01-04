@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - gsa
 ---
 
 <p style="text-align: left;">

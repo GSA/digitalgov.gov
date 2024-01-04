@@ -7,11 +7,9 @@ authors:
   - mary-ann-monroe
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - gsa
   - personas
 ---
 

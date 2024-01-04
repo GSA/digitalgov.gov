@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - user-experience
-  - 18f
   - open-source
 ---
 

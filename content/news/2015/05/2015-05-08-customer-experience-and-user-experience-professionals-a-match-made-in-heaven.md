@@ -7,7 +7,6 @@ authors:
   - ktrebon
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - user-experience
 ---

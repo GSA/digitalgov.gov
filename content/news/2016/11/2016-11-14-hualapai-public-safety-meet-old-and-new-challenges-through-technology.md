@@ -8,7 +8,6 @@ authors:
   - lesia-dickson
 
 topics:
-  - data
   - product-management
   - innovation
   - mobile

@@ -6,7 +6,6 @@ summary: 'In its seventh year as home to the U.S. Government’s open data, Data
 authors:
   - data-gov-team
 topics:
-  - data
   - data-gov
   
   - open-data

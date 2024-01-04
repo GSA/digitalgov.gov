@@ -7,7 +7,6 @@ authors:
   - cory-benavente
   - dywane-boyd
 topics:
-  - data
   - metrics
   - user-testing-and-research
   - analytics

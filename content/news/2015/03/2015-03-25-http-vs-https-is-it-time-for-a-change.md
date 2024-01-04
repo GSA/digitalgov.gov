@@ -6,8 +6,6 @@ summary: Data. Security. Privacy. These are the cornerstones of many discussions
 authors:
   - kdaniel
 topics:
-  - data
-  - monthly-theme
   - big-data
   - https
   - privacy

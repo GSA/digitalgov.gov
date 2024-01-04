@@ -12,7 +12,6 @@ topics:
   - api
   - challenges
   - content
-  - data
   - design
   - governance
   - product-management
@@ -23,7 +22,6 @@ topics:
   - policy
   - user-testing-and-research
   - user-experience
-  - 18f
   - ai
   - analytics
   - api

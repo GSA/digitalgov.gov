@@ -16,8 +16,7 @@ summary: Around 800,000 low-income American families receive cash assistance
   Assistance leaders to see how their agency is continuing with the work.
 # See all topics at https://digital.gov/topics
 topics:
-  - data
-  - 18f
+  - agile
 slug: catching-up-with-the-tanf-data-portal-project
 # Controls how this page appears across the site
 # 0 -- hidden

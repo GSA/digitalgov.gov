@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - mobile
-  - monthly-theme
-  
   - multilingual
   - open-source
   - thursday-mobile-products

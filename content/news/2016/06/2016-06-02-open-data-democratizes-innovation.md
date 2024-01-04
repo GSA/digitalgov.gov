@@ -10,7 +10,6 @@ topics:
   - api
   - challenges
   - crowdsourcing-and-citizen-science
-  - data
   - strategy
   - policy
   - apps-challenges
@@ -20,9 +19,7 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - data
   - data-visualization
-  - gsa
   - innovation
   - mobile-apps
   - national-day-of-civic-hacking

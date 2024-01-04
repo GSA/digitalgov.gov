@@ -6,9 +6,7 @@ summary: 'For the first time ever, air traffic researchers can view and analyze 
 authors:
   - sharon-lozano
 topics:
-  - data
   - user-testing-and-research
-  - data
   - data-visualization
   
   - research

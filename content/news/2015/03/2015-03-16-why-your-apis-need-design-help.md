@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - code
-  - monthly-theme
   - api
   - application-programming-interface
   

@@ -8,7 +8,6 @@ authors:
   - dmccleskey
 topics:
   - product-management
-  - monthly-theme
   - cloud-and-infrastructure
   - search
   - infrastructure

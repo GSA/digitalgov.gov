@@ -16,7 +16,6 @@ summary: "**In 2019, Search.gov served 295,916,305 queries across more than 2,00
 
 # see all topics at https://digital.gov/topics
 topics:
-  - data
   - search
 
 # see all authors at https://digital.gov/authors

@@ -8,10 +8,7 @@ authors:
 topics:
   - api
   - content
-  - monthly-theme
-  
   - api
-  
   - content-management-system
   - content-models
   - COPE

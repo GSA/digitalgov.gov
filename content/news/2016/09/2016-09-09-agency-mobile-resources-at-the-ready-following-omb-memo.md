@@ -11,7 +11,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - gsa
   - infrastructure
   - innovation
   - mobile

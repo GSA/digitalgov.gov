@@ -7,9 +7,7 @@ authors:
   - michael-pulsifer
 topics:
   - api
-  - data
   - api
-  - data
   - open-data
 ---
 

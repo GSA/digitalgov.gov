@@ -10,8 +10,8 @@ date: 2020-10-29 14:00:00 -0500
 end_date: 2020-10-29 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - 10x
   - crowdsourcing
+  - agile
   - challenges
 # See all authors at https://digital.gov/authors
 authors:

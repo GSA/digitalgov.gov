@@ -8,8 +8,6 @@ authors:
 topics:
   - content
   - design
-  - monthly-theme
-  
   - the-content-corner
   - user-experience
   

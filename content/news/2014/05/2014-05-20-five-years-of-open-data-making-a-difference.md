@@ -7,9 +7,7 @@ authors:
   - jeanne-holm
 topics:
   - api
-  - data
   - data-gov
-  
   - open-data
 ---
 

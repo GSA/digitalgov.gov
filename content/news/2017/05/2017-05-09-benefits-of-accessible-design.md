@@ -10,7 +10,6 @@ topics:
   - design
   - user-experience
   - accessibility
-  - gsa
   - section-508
 ---
 

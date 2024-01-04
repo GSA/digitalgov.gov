@@ -9,7 +9,6 @@ topics:
   - metrics
   - analytics
   - dap
-  - data
   - digital-analytics-program
 ---
 

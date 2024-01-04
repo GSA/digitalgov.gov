@@ -4,7 +4,6 @@ date: 2014-12-10 2:53:55 -0400
 title: "How to Get Your Open Data on Data.gov"
 summary: "Find out below how federal, federal geospatial, and non-federal data is funneled to Data.gov and how you can get your data federated on Data.gov for greater discoverability and and impact."
 topics:
-  - data
   - open-data
   - data-gov
 authors:

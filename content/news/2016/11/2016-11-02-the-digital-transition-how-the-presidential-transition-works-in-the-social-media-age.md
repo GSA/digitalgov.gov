@@ -9,7 +9,6 @@ authors:
 topics:
   - code
   - content
-  - data
   - product-management
   - mobile
   - social-media

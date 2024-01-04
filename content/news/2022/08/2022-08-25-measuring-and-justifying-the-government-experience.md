@@ -24,7 +24,6 @@ topics:
   - policy
   - governance
   - metrics
-  - data
   - 21st-century-idea
   - customer-experience
   - accessibility

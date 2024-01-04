@@ -6,10 +6,8 @@ summary: ML can provide high-value services for data management and analytics, s
 authors:
   - jada-jones
 topics:
-  - data
   - artificial-intelligence
   - big-data
-  - data
   - emerging-tech
   - open-data
   - analytics

@@ -6,12 +6,7 @@ summary: 'The Congressional Research Service recently released a report (PDF, 68
 authors:
   - bbrantley
 topics:
-  - data
   - big-data
-  - data
-  
-  
-  
   - open-data
   - the-data-briefing
 ---

@@ -16,7 +16,6 @@ end_date: 2021-01-11 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - a-b-testing
-  - data
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

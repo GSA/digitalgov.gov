@@ -7,7 +7,6 @@ authors:
   - julia-elman
 topics:
   - design
-  - 18f
   - accessibility
   - mobile
   - responsive-web-design

@@ -7,10 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - data
-  - monthly-theme
   - data-gov
-  
   - open-source
 ---
 

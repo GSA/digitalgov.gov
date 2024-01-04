@@ -7,7 +7,6 @@ authors:
   - rosetta-carrington-lue
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - government-contact-centers
   - social-media

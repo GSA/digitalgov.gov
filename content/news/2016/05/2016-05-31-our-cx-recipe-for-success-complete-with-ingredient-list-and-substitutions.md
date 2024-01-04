@@ -6,7 +6,6 @@ summary: 'If you were to spend any time with me in the kitchen, you would often 
 authors:
   - tanya-mcilravy
 topics:
-  - monthly-theme
   - "508"
   - accessibility
   - customer-experience

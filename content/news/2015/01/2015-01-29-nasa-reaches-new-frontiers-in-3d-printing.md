@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - code
-  - monthly-theme
   - challenges-and-prize-competitions
   - emerging-tech  
 ---

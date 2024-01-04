@@ -10,7 +10,6 @@ topics:
   - strategy
   - policy
   - cloud
-  - gsa
   - security
 ---
 

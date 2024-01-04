@@ -9,8 +9,6 @@ topics:
   - api
   - code
   - content
-  - data
-  - api
   - search
   - open-source
 ---

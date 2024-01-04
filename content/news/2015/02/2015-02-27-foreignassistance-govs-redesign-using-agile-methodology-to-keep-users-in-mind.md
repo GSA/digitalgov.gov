@@ -7,7 +7,6 @@ authors:
   - kdaniel
 topics:
   - content
-  - monthly-theme
   - agile
   - personas
   - user-experience

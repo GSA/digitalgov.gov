@@ -6,13 +6,10 @@ summary: 'Few other federal agencies deal with as much data as the National Aero
 authors:
   - bbrantley
 topics:
-  - data
   - product-management
   - strategy
   - policy
   - big-data
-  - data
-  
   - the-data-briefing
 ---
 

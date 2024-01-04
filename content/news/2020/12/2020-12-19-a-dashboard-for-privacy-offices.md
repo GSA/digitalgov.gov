@@ -13,8 +13,6 @@ summary: Through work funded by 10x, a team from 18F investigated how technology
   accessible and understandable for the public.
 # See all topics at https://digital.gov/topics
 topics:
-  - 10x
-  - 18f
   - security
   - research
   - privacy

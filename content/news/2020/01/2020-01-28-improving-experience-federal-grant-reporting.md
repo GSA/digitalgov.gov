@@ -11,7 +11,6 @@ summary: "The 10x Federal Grant Reporting project team at GSA is investigating o
 topics:
   - open-data
   - strategy
-  - 10x
   - user-research
 
 # see all authors at https://digital.gov/authors

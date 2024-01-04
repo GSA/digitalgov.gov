@@ -10,7 +10,6 @@ authors:
 topics:
   - content
   - user-experience
-  - 18f
   - draft-web-design-standards
 ---
 

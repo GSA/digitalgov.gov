@@ -9,7 +9,6 @@ topics:
   - analytics
   - aoi
   - digitalgov-user-experience-program
-  - gsa
   - personas
   - prototype
   - usability-testing

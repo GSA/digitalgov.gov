@@ -15,7 +15,7 @@ summary: At 18F, we like to keep in touch with our project partners. 18F
   Chief for the Web Communications Branch at USGS Water Resources Mission Area.
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
+  - digital-service-delivery
 slug: 18f-checks-in-with-emily-read-and-the-usgs-water-resources-mission-area-projects
 # Controls how this page appears across the site
 # 0 -- hidden

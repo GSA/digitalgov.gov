@@ -10,7 +10,6 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  - gsa
   - peace-corps
 ---
 

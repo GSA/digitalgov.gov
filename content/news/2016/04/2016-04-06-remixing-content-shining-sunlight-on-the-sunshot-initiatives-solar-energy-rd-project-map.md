@@ -6,10 +6,9 @@ summary: 'With more than 400 projects in their portfolio, it can be difficult fo
 authors:
   - susanna-murley
 topics:
-  - data
-  - monthly-theme
-  
-  - united-states-department-of-energy
+  - product-and-project-management
+  - open-data
+  - data-visualization
 ---
 
 With more than 400 projects in their portfolio, it can be difficult for the Department of Energy’s [SunShot Initiative](http://energy.gov/eere/sunshot/sunshot-initiative-mission) to adequately convey the scope of the office’s work. The team can list their projects, organize them by program area, and write blog posts about them, but none of that has the same impact as seeing all of the projects displayed on an [interactive map](http://energy.gov/eere/sunshot/sunshot-solar-projects-map). Audiences are now able to click on a map, zoom to different sections and click onto icons to explore the diverse and wonderful world of the SunShot solar energy research and development portfolio.

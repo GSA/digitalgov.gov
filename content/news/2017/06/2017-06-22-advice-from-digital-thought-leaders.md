@@ -11,8 +11,6 @@ topics:
   - social-media
   - strategy
   - policy
-  - data
-  
   - innovation
   - video
   - video-production-pros-community

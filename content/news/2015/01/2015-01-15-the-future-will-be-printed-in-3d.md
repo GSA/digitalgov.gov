@@ -7,8 +7,6 @@ authors:
   - awichman
 topics:
   - code
-  - monthly-theme
-  - 18f
   - api
 ---
 

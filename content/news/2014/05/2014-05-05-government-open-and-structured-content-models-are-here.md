@@ -10,15 +10,12 @@ topics:
   - content
   - product-management
   - mobile
-  - monthly-theme
   - social-media
   - aoi
   - content-models
-  - gsa
   - mobile-ux-guideline-1
   - open-and-structured-content-models
   - structured-content
-  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2014/05/250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic.jpg" alt="250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic" >}}Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways.

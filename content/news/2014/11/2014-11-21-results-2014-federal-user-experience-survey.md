@@ -8,7 +8,6 @@ authors:
 topics:
   - accessibility
   - design
-  - monthly-theme
   - user-testing-and-research
   - aoi
   - user-experience-community-of-practice

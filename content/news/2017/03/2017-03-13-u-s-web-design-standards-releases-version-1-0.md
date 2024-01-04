@@ -12,7 +12,6 @@ topics:
   - mobile
   - strategy
   - policy
-  - 18f
   - accessibility
   - draft-web-design-standards
   - responsive-web-design

@@ -7,7 +7,6 @@ authors:
   - candace-maynard
 topics:
   - product-management
-  - monthly-theme
   - aoi
   - social-media
 ---

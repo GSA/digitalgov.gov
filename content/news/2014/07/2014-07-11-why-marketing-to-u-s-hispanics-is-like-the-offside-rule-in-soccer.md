@@ -7,7 +7,6 @@ authors:
   - alberto-navas
 topics:
   - content
-  - monthly-theme
   - GobiernoUSAgov
   - multilingual
   - multilingual-community

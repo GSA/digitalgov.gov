@@ -7,7 +7,6 @@ authors:
   - apiazza
 topics:
   - product-management
-  - monthly-theme
   - customer-service
   - government-contact-center-council/
   - government-contact-centers

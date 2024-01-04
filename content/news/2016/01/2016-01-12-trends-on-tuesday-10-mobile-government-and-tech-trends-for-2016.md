@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - monthly-theme
   - https
   - internet-of-things
   - mobile

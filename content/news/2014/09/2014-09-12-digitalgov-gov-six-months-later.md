@@ -14,7 +14,6 @@ topics:
   - policy
   - analytics
   - content-strategy
-  - gsa
   - open-source
   - responsive-web-design
   - user-experience

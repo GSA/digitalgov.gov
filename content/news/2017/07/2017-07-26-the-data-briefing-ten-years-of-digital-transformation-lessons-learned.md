@@ -8,7 +8,6 @@ featured_image:
 authors:
   - bbrantley
 topics:
-  - data
   - emerging-tech
   - product-management
   - the-data-briefing

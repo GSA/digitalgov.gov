@@ -8,7 +8,6 @@ authors:
 topics:
   - api
   - api
-  - data
   - json
   - united-states-department-of-energy
   - wednesday-api-briefing

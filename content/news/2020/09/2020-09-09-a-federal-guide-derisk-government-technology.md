@@ -21,8 +21,6 @@ topics:
   - governance
   - product-management
   - project-management
-  - 10x
-  - 18f
   - acquisition
 
 # Page weight: controls how this page appears across the site

@@ -7,7 +7,6 @@ authors:
   - dmccleskey
 topics:
   - product-management
-  - monthly-theme
   - strategy
   - policy
   - cloud-and-infrastructure

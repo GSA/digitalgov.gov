@@ -6,14 +6,10 @@ summary: Have you worked with an employee with a disability? Are you an employee
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
-  - monthly-theme
   - "508"
   - api
-  - data
   - data-gov
-  - gsa
   - mobile-apps
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3

@@ -7,7 +7,6 @@ authors:
   - tonya-beres
 topics:
   - product-management
-  - monthly-theme
   - aoi
   - customer-experience
   - customer-satisfaction

@@ -7,7 +7,6 @@ authors:
   - nick-sinai
 topics:
   - api
-  - data
   - metrics
   - data-gov
   - metadata

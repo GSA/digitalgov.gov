@@ -7,7 +7,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - monthly-theme
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile-ux-guideline-3

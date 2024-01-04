@@ -7,7 +7,6 @@ authors:
   - tony-scott
 topics:
   - code
-  - data
   - governance
   - product-management
   - strategy

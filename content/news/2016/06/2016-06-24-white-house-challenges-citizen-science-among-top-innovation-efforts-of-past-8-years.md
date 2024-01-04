@@ -15,7 +15,6 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - gsa
   - innovation
 ---
 

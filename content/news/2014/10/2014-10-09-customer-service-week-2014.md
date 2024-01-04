@@ -7,7 +7,6 @@ authors:
   - rflagg
 topics:
   - product-management
-  - 18f
   - customer-experience
   - customer-service
   - user-experience

@@ -7,11 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - monthly-theme
-  
   - content-models
-  
-  
   - the-content-corner
 ---
 

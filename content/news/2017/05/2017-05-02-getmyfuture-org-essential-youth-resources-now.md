@@ -7,12 +7,10 @@ authors:
   - gay-gilbert
 topics:
   - content
-  - data
   - design
   - product-management
   - mobile
   - audio-video
-  - data
   - multimedia
   - mobile
   - mobile-friendly

@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - monthly-theme
-  
   - search-engine-optimization
   - seo
   - the-content-corner

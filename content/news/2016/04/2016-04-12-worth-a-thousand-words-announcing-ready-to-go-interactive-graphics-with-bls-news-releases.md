@@ -7,7 +7,6 @@ authors:
   - erica-groshen
 topics:
   - content
-  - data
   - user-experience
   - content-strategy
   - data-visualization

@@ -7,7 +7,6 @@ authors:
   - melody-kramer
 topics:
   - metrics
-  - 18f
   - analytics
   - dap
   - digital-analytics-program

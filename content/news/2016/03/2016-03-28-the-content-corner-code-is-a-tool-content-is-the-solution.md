@@ -8,11 +8,7 @@ authors:
 topics:
   - code
   - content
-  - monthly-theme
-  
-  - code
   - content-strategy
-  - content-syndication
   - the-content-corner
 ---
 

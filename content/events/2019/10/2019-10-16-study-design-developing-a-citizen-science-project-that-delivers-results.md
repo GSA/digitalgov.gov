@@ -18,8 +18,8 @@ end_date: 2019-10-16 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - data
-  - citizen-science
+  - crowdsourcing-and-citizen-science
+  - design
 
 # see all authors at https://digital.gov/authors
 authors: 

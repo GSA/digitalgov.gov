@@ -7,7 +7,6 @@ authors:
   - lindsay-young
 topics:
   - api
-  - 18f
   - api
 ---
 

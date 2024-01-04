@@ -9,7 +9,6 @@ topics:
   - content
   - big-data
   - content-strategy
-  - data
   - open-data
   - the-content-corner
   - united-states-census-bureau

@@ -11,7 +11,6 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - 18f
   - usability-testing
   - user-centered-design
   - user-experience

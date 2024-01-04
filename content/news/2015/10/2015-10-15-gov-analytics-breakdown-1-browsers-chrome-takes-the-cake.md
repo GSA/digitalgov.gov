@@ -9,7 +9,6 @@ authors:
 
 topics:
   - content
-  - data
   - metrics
   - user-experience
   - analytics

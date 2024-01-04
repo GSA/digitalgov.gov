@@ -8,13 +8,8 @@ authors:
   - allison-baker
   - perryn-ashmore
 topics:
-  - data
   - cloud
-  
-  - data
   - data-visualization
-  
-  
   - open-data
 ---
 

@@ -18,7 +18,6 @@ summary: ""
 # see all topics at https://digital.gov/topics
 topics: 
   - content
-  - data
   - design
   - metrics
   - multilingual

@@ -7,7 +7,6 @@ authors:
   - michelle-chronister
 topics:
   - content
-  - data
   - product-management
   - metrics
   - search

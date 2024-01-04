@@ -8,9 +8,6 @@ authors:
 topics:
   - api
   - code
-  - data
-  - 18f
-  - api
   - data-gov
   - open-data
 

@@ -6,12 +6,9 @@ summary: 'Metadata for website content is usually managed as part of the editori
 authors:
   - bob-rand
 topics:
-  - data
   - mobile
-  - monthly-theme
   - content-management-system
   - content-models
-  - data
   - metadata
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6

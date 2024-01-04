@@ -8,14 +8,10 @@ authors:
   - becky-sweger
 topics:
   - code
-  - data
   - governance
   - product-management
   - strategy
   - policy
-  - 18f
-  - data
-  - budgeting-and-performance
   - budgeting-and-performance
 ---
 

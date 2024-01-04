@@ -11,10 +11,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - 18f
-  
   - security
-  - united-states-department-of-defense
 
 ---
 

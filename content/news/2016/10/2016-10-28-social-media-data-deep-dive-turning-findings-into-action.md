@@ -12,7 +12,6 @@ topics:
   - analytics
   - content
   - content-strategy
-  - data
   - GobiernoUSAgov
   - metrics
   - multilingual

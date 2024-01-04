@@ -7,7 +7,6 @@ authors:
   - marybeth-murphy
 topics:
   - metrics
-  - monthly-theme
   - analytics
 ---
 

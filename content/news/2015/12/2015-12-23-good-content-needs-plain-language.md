@@ -8,9 +8,6 @@ authors:
 topics:
   - content
   - writing
-  - 18f
-  
-  
   - plain-language
   - plain-writing-act-of-2010
   - user-experience
