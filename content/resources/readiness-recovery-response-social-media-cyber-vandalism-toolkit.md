@@ -103,7 +103,7 @@ This type of authentication verifies a user attempting to access a device or sys
 
 **Live training:** [Cybersecurity Online Learning (COL)](https://colcqpub1.connectsolutions.com/content/connect/c1/7/en/events/catalog.html) program supplements mandatory FISMA security role-based training by offering in-demand cybersecurity workshops. The Information Assurance Branch, United States Department of State, offers monthly social media security online courses for free for anyone with a “.mil” or “.gov” email address, regardless if the applicant is an FTE, military, or contractor.
 
-- [Department of Defense Social Media Security/Privacy Education & Training](http://www.defense.gov/socialmedia/education-and-training.aspx/)
+- [Department of Defense Social Media Security/Privacy Education & Training](https://dodcio.defense.gov/Social-Media/SMEandT/)
 - [Consumer.ftc.gov/scam-alerts](https://consumer.ftc.gov/scam-alerts)
 - [OnGuardOnline.gov](https://onguardonline.gov/)
 - [National Cyber Awareness System](https://www.us-cert.gov/ncas)
