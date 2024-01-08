@@ -77,8 +77,8 @@ Online-based communication tools offer resources, each with unique strengths and
 6. Use only authorized URL Shorteners, e.g. [go.USA.gov](https://go.usa.gov/).
 7. Add all official accounts to the [U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}), verifying authenticity of ownership.
    - This tool, used by both Facebook and Google to verify accounts, tracks official federal social media accounts.
-   - List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](http://www.defense.gov/RegisteredSites/SocialMediaSites.aspx).
-     - Per [DOD Web Policy](http://www.defense.gov/webmasters/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](http://www.defense.gov/RegisteredSites/SubmitLink.aspx).
+   - List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](https://www.defense.gov/Resources/Military-Departments/DOD-Websites/?tab=Social%20Media).
+     - Per [DOD Web Policy](https://dodcio.defense.gov/DoD-Web-Policy/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](https://www.defense.gov/Resources/Register-a-Site/).
 8. Follow best practices for secure passwords.
    - [Guide to Enterprise Password Management (Draft)](http://csrc.nist.gov/publications/drafts/800-118/draft-sp800-118.pdf) by the National Institute of Standards and Technology
 
