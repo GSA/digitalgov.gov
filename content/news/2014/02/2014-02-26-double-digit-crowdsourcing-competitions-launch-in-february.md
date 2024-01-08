@@ -9,10 +9,6 @@ topics:
   - challenges
   - code
   - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - department-of-commerce
-  - epa
-  - gsa
   - mobile
 ---
 

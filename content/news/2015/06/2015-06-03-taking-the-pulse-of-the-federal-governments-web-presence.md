@@ -10,8 +10,6 @@ authors:
   - john-tindel
 topics:
   - product-management
-  - our-work
-  - 18f
   - analytics
   - gsa
   - security

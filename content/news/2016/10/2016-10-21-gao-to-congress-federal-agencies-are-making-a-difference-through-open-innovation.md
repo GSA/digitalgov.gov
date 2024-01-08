@@ -7,7 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - communities
   - crowdsourcing-and-citizen-science
   - product-management
   - content-strategy
@@ -21,11 +20,7 @@ topics:
   - epa
   - GAO
   - innovation
-  - nasa
   - open-data
-  - us-environmental-protection-agency
-  - us-government-accountability-office
-  - united-states-department-of-transportation
 ---
 
 Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness.

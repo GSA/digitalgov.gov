@@ -10,8 +10,6 @@ topics:
   - social-media
   - analytics
   - content-strategy
-  - Library of Congress
-  - LOC
   - metadata
   - multilingual
   - mobile

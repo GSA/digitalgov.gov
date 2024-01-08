@@ -7,7 +7,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - fda
+  
   - ios
   - mobile
 

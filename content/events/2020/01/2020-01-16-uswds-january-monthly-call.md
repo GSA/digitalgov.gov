@@ -20,8 +20,6 @@ end_date: 2020-01-16 15:30:00 -0500
 topics:
   - code
   - design
-  - product-management
-  - uswds
   - digital-service-delivery
 
 # see all authors at https://digital.gov/authors

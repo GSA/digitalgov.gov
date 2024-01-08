@@ -8,8 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - code
-  - 18f
-  - GitHub
   - open-source
 ---
 

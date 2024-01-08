@@ -21,7 +21,6 @@ topics:
   - code
   - innovation
   - software-engineering
-  - open
   - open-source
   - crowdsourcing-and-citizen-science
 

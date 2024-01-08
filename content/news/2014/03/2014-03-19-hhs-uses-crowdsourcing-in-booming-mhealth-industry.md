@@ -10,7 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - challenge-gov
-  - HHS
+  
   - innovation
   - mobile
   - mobile

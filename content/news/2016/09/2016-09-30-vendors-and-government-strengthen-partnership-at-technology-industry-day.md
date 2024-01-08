@@ -7,7 +7,6 @@ authors:
   - andre-francisco
 topics:
   - code
-  - data
   - product-management
   - content-strategy
   - policy

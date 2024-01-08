@@ -4,6 +4,9 @@ title: "An introduction to structured content"
 deck: "Understand the benefits of structuring digital content"
 summary: "Publishing content as modular pieces of information that are tagged with machine-readable descriptions can transform how people find, understand, share, use, and reuse government information."
 
+aliases:
+  - /2013/07/29/how-to-create-open-structured-content/
+
 # See all topics at https://digital.gov/topics
 author: Rachel Flagg
 topics:

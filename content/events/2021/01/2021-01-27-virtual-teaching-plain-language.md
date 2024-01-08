@@ -17,7 +17,6 @@ topics:
   - plain-language
   - plain-language
   - plain-writing-act-of-2010
-  - training
 # See all authors at https://digital.gov/authors
 authors:
   - wendy-wagner-smith

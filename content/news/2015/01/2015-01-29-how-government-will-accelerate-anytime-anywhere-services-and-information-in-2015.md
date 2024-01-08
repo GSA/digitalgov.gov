@@ -6,10 +6,8 @@ summary: 'Innovative wearables, stronger wifi and more 3D printing have been amo
 authors:
   - jparcell
 topics:
-  - communities
   - product-management
   - mobile
-  - monthly-theme
   - aoi
   - Census
   - content-strategy
@@ -28,10 +26,6 @@ topics:
   - content-strategy
   - emerging-tech
   - united-states-census-bureau
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-transportation
-  - United States Postal Service
-  - USPS
 ---
 
 {{< legacy-img src="2015/01/600-x-341-Earth-and-electronics-cherezoff-iStock-Thinkstock-495813521.jpg" alt="Earth and electronics" caption="cherezoff, iStock, Thinkstock" >}}

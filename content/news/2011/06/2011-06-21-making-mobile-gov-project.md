@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - our-work
-  - mobile
 
 ---
 

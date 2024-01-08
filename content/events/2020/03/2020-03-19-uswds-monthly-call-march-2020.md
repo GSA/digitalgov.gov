@@ -20,7 +20,6 @@ end_date: 2020-03-19 17:30:00 -0500
 topics: 
   - digital-service-delivery
   - design
-  - uswds
   - user-centered-design
 
 # see all authors at https://digital.gov/authors

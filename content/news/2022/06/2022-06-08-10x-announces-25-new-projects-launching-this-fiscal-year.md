@@ -7,7 +7,6 @@ authors:
   - will-cahoe
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - emerging-tech
   - multilingual
   - multilingual

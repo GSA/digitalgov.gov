@@ -7,7 +7,6 @@ authors:
   - michelle-chronister
 topics:
   - content-strategy
-  - data
   - product-management
   - analytics
   - search

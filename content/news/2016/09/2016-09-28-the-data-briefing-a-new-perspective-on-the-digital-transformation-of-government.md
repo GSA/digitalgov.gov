@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - code
-  - data
   - product-management
   - content-strategy
   - policy
@@ -15,7 +14,6 @@ topics:
   - architecture
   - cloud-and-infrastructure
   - code
-  - data
   - innovation
   - emerging-tech
 ---

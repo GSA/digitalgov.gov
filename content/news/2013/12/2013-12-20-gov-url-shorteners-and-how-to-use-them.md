@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - content-strategy
-  - usagov
 
 ---
 

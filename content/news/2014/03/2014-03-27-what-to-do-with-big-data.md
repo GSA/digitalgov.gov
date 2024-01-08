@@ -7,11 +7,8 @@ authors:
   - lauren-caldwell
   - erin-twamley
 topics:
-  - data
   - analytics
-  - data
   - data-gov
-  - DOE
   - open-government
   - united-states-department-of-energy
 ---

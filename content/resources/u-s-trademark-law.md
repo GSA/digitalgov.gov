@@ -4,7 +4,7 @@ date: 2015-12-01 8:42:48 -0400
 title: U.S. Trademark Law
 summary: "United States trademark law is mainly governed by the Lanham Act. &#8220;Common law&#8221; trademark rights are acquired automatically when a business uses a name or logo in commerce, and are enforceable in state courts. Marks registered with the U.S. Patent and Trademark Office are given a higher degree of protection in federal courts than unregistered"
 topics:
-  - policy
+  - product-and-project-management
 authors:
   - apiazza
 ---

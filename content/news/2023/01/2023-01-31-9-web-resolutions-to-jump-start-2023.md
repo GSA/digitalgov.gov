@@ -6,7 +6,6 @@ summary: Nine areas to focus on in the coming year to take your digital sites an
 
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - professional-development
   - accessibility
   - analytics

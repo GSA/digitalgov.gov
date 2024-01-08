@@ -6,12 +6,9 @@ summary: 'With a calculated process, the right tools, and a staff willing to mak
 authors:
   - tlowden
 topics:
-  - communities
   - user-testing-and-research
   - research
   - aoi
-  - recaps
-  - united-states-department-of-health-and-human-services
   - usability-testing
   - user-experience
 ---

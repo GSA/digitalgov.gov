@@ -7,10 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - cdc
   - content-strategy
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

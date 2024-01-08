@@ -6,7 +6,6 @@ summary: 'You may have heard about &ldquo;DevOps&rdquo; in the news or when meet
 authors:
   - bbrantley
 topics:
-  - data
   - devops
   - product-management
   - emerging-tech

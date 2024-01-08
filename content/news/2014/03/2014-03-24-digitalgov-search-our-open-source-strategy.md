@@ -9,12 +9,7 @@ topics:
   - application-programming-interface
   - code
   - content-strategy
-  - data
-  - our-work
-  - application-programming-interface
-  - Consumer Financial Protection Bureau
   - search
-  - GitHub
   - open-source
 ---
 

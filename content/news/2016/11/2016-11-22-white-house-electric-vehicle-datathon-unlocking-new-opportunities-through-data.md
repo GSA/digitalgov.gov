@@ -7,7 +7,6 @@ authors:
   - austin-brown
   - candace-vahlsing
 topics:
-  - data
   - innovation
   - open-data
 

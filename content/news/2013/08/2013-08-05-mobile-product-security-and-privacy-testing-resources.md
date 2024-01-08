@@ -9,9 +9,7 @@ topics:
   - code
   - mobile
   - content-strategy
-  - policy
   - user-testing-and-research
-  - GitHub
   - privacy
   - security
 ---

@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - monthly-theme
   - accessibility
   - data
   - mobile

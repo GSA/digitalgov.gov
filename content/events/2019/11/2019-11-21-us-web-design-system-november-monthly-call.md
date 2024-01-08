@@ -19,10 +19,8 @@ end_date: 2019-11-21 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - product-management
   - content-strategy
   - mobile
-  - uswds
   - digital-service-delivery
 
 # see all authors at https://digital.gov/authors

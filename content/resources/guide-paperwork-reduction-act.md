@@ -19,7 +19,6 @@ source: pra-guide
 topics:
   - customer-experience
   - pra
-  - policy
   - research
   - research
 

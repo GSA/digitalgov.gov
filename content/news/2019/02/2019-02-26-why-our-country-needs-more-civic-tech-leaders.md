@@ -11,8 +11,6 @@ authors:
   - stephen-winchell
 topics:
   - product-management
-  - pif
-  - presidential-innovation-fellows
 featured_image:
   uid: pif-talk3
   alt: 'Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs.'

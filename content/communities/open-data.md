@@ -20,7 +20,6 @@ redirectto: https://resources.data.gov/open-data/
 
 # see all topics at https://digital.gov/topics
 topics:
-  - data
   - open-data
 
 # Weight: controls how this page appears across the site

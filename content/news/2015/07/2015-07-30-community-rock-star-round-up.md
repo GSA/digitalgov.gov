@@ -6,9 +6,6 @@ summary: "Around this month&#8217;s Communities Theme, the DigitalGov team thoug
 authors:
   - apiazza
 topics:
-  - communities
-  - monthly-theme
-  - 18f
   - customer-experience
   - mobile
   - gsa
@@ -25,7 +22,6 @@ topics:
   - us-department-of-state
   - us-food-and-drug-administration
   - united-states-census-bureau
-  - USDA
   - user-experience
 
 ---

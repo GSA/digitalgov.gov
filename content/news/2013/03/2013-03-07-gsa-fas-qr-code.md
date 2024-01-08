@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - gsa
 ---
 
 _[Mobile Gov Experiences]({{< ref "/topics/mobile" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA._

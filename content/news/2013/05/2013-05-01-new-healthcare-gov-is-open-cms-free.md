@@ -8,9 +8,7 @@ authors:
 topics:
   - code
   - application-programming-interface
-  - CMS
   - content-strategy
-  - GitHub
   - open-source
 ---
 

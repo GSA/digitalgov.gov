@@ -27,6 +27,4 @@ topics:
   - code
   - content-strategy
   - product-management
-  - gsa
-  - presidential-innovation-fellows
 ---

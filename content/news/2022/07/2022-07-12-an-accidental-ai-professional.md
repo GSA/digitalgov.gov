@@ -10,7 +10,6 @@ summary:
 topics:
   - artificial-intelligence
   - emerging-tech
-  - pif
 slug: an-accidental-ai-professional
 primary_image: 
 # Controls how this page appears across the site

@@ -21,7 +21,6 @@ topics:
   - customer-experience
   - recaps
   - social-media
-  - usagov
   - user-experience
   - multimedia
 

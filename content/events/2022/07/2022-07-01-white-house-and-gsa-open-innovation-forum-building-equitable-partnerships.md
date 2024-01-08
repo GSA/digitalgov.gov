@@ -15,7 +15,6 @@ topics:
   - diversity-equity-and-inclusion
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - open
   - innovation
 
 # See all authors at https://digital.gov/authors

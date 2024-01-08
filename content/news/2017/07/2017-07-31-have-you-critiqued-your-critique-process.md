@@ -12,9 +12,8 @@ topics:
   - content-strategy
   - policy
   - user-testing-and-research
-  - best-practices
   - user-experience
-  
+  - best-practices
 
 ---
 

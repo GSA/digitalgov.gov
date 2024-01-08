@@ -12,13 +12,11 @@ topics:
   - application-programming-interface
   - Census
   - data-gov
-  - epa
   - metadata
   - mobile
   - national-oceanic-and-atmospheric-administration
   - NOAA
   - open-data
-  - us-environmental-protection-agency
   - united-states-census-bureau
 ---
 

@@ -20,8 +20,6 @@ end_date: 2018-11-01 16:00:00 -0500
 topics: 
   - research
   - analytics
-  - cfpb
-
 # see all authors at https://digital.gov/authors
 authors: 
   - kelley-holden

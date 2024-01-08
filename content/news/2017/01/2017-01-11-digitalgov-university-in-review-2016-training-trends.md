@@ -19,7 +19,6 @@ topics:
   - product-management
   - analytics
   - mobile
-  - our-work
   - social-media
   - content-strategy
   - policy

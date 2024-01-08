@@ -9,7 +9,6 @@ deck: "**Learn How to Create an Accessible Meeting**&mdash;The GSA Government-wi
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - best-practices
 slug: learn-how-to-create-an-accessible-meeting
 # Controls how this page appears across the site
 # 0 -- hidden

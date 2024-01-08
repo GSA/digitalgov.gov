@@ -22,13 +22,10 @@ topics:
   - analytics
   - contact-centers
   - content-strategy
-  - data
   - analytics
   - multilingual
   - social-media
-  - content-strategy
   - multilingual
-  - usagov
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -10,7 +10,6 @@ topics:
   - multilingual
   - multilingual
   - plain-language
-  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - michael-mule

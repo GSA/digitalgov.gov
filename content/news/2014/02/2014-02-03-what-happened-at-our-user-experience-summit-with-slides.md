@@ -9,9 +9,6 @@ topics:
   - mobile
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - fda
-  - NCI
-  - OMB
   - pra
   - user-experience
   - user-experience-community-of-practice

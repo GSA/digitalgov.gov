@@ -8,9 +8,6 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - blog
-  - Law Library of Congress
-  - social-media
 ---
 
 {{< legacy-img src="2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}} 

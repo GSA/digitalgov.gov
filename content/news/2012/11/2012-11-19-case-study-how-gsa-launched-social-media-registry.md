@@ -9,7 +9,6 @@ authors:
 topics:
   - code
   - application-programming-interface
-  - gsa
   - social-media
 ---
 

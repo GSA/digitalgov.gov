@@ -7,7 +7,6 @@ summary: 'Metadata for website content is usually managed as part of the editori
 authors:
   - bob-rand
 topics:
-  - data
   - mobile
   - monthly-theme
   - content-strategy
@@ -16,8 +15,6 @@ topics:
   - metadata
   - content-strategy
   - open-data
-  - SEC
-  - us-securities-and-exchange-commission
 ---
 
 {{< legacy-img src="2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}}

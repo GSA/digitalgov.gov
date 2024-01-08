@@ -8,14 +8,10 @@ featured_image:
 authors:
   - jherman
 topics:
-  - data
   - emerging-tech
   - our-work
   - artificial intelligence
   - innovation
-  - open
-  - open-data
-  - open-government
   - rpa
 
 ---

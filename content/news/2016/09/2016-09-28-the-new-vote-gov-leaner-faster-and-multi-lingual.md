@@ -11,7 +11,6 @@ topics:
   - design
   - user-testing-and-research
   - user-experience
-  - 18f
   - analytics
   - cloud-and-infrastructure
   - content-strategy
@@ -23,8 +22,6 @@ topics:
   - multilingual
   - open-source
   - social-media
-  - usa-gov
-  - usagov
   - user-centered-design
 ---
 

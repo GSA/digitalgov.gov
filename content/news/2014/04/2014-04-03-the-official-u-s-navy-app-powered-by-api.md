@@ -6,9 +6,6 @@ summary: 'As a &#8220;warfighting-ready force,&#8221; the U.S. Navy can bring it
 topics:
   - application-programming-interface
   - mobile
-  - mobile
-  - mobile
-  - united-states-navy
 ---
 
 [{{< legacy-img src="2014/04/250-x-188-USNavy-App\_iPad\_screen.jpg" alt="A screen of the official U.S. Navy app as seen on an iPad" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/480-x-360-USNavy-App_iPad_screen.jpg)As a &#8220;warfighting-ready force,&#8221; the [U.S. Navy](http://www.navy.mil/) can bring it wherever and whenever it&#8217;s needed around the globe.

@@ -11,7 +11,6 @@ topics:
   - challenge-gov
   - crowdsourcing-and-citizen-science
   - innovation
-  - recaps
 ---
 
 Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool.

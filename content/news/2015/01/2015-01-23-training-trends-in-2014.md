@@ -9,7 +9,6 @@ topics:
   - our-work
   - application-programming-interface
   - digitalgov-user-experience-program
-  - recaps
   - social-media
   - socialgov
 

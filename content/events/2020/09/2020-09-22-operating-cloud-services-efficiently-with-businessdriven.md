@@ -25,8 +25,6 @@ topics:
   - product-management
   - cloud-and-infrastructure
   - budgeting-and-performance
-  - gsa
-  - tts
 
 # see all authors at https://digital.gov/authors
 authors: 

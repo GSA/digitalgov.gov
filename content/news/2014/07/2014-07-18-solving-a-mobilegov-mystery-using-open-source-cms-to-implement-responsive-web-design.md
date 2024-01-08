@@ -9,8 +9,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - monthly-theme
-  - gsa
   - mobile
   - mobile
   - mobile

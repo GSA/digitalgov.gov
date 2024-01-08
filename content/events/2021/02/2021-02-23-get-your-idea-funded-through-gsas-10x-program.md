@@ -12,7 +12,6 @@ date: 2021-03-02 14:00:00 -0500
 end_date: 2021-03-02 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - 10x
   - innovation
   - crowdsourcing-and-citizen-science
 # See all authors at https://digital.gov/authors

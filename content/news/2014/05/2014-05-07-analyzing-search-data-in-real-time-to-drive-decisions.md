@@ -7,9 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - content-strategy
-  - data
   - analytics
-  - our-work
   - search
   - open-source
 

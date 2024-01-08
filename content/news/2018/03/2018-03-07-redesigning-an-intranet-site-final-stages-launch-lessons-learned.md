@@ -7,7 +7,6 @@ authors:
   - karla-blaine
 topics:
   - accessibility
-  - data
   - design
   - product-management
   - content-strategy

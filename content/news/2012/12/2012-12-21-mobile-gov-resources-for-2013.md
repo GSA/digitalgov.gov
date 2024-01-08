@@ -2,27 +2,10 @@
 slug: mobile-gov-resources-for-2013
 date: 2012-12-21 9:55:27 -0400
 title: Mobile Gov Resources for 2013!
-summary: 'With mobile use growing exponentially and federal agencies implementing customer-facing mobile services for the Digital Government Strategy, we decided to put together a Mobile Gov resource &#8220;cheat sheet&#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&#8217;s what Mobile Gov implementers need to'
+summary: "With mobile use growing exponentially and federal agencies implementing customer-facing mobile services for the Digital Government Strategy, we decided to put together a Mobile Gov resource &#8220;cheat sheet&#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&#8217;s what Mobile Gov implementers need to"
 topics:
   - mobile
   - application-programming-interface
-  - dhs
-  - DOL
-  - gsa
-  - HHS
-  - IRS
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - national-institutes-of-health
-  - nih
-  - mobile
-  - TSA
-  - us-department-of-labor
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-homeland-security
-  - USDA
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2011/08/MobilePhoneapp_220px.jpg" alt="Mobile Phone Map" >}}](https://sites.usa.gov/howtomobile/files/2011/08/MobilePhoneapp_220px.jpg)With mobile use growing exponentially and federal agencies implementing [customer-facing mobile services](http://www.whitehouse.gov/digitalgov/strategy-milestones) for the [Digital Government Strategy](http://www.whitehouse.gov/digitalgov/about), we decided to put together a Mobile Gov resource &#8220;cheat sheet&#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&#8217;s what Mobile Gov implementers need to know!
@@ -33,7 +16,7 @@ Application Programming Interfaces (APIs) have been called the “secret sauce�
 
 **Open Content Management**
 
-To support infrastructure and content needs across the federal government, the Digital Services Innovation Center developed a CMS toolkit with resources to help agencies choose, design and migrate to a content management system (CMS). A CMS not only helps agencies efficiently manage their online content and create mobile products, but also can help them move to an open content model, making it easier for people to find, share, use, and re-use government information.  And, for agencies who need a government policy-compliant platform and hosting solution, the Digital Services Innovation Center alpha launched [sites.usa.gov, an enterprise-ready CMS service in the cloud](https://sites.usa.gov/) and they&#8217;re happy to [help you get started](https://sites.usa.gov/).
+To support infrastructure and content needs across the federal government, the Digital Services Innovation Center developed a CMS toolkit with resources to help agencies choose, design and migrate to a content management system (CMS). A CMS not only helps agencies efficiently manage their online content and create mobile products, but also can help them move to an open content model, making it easier for people to find, share, use, and re-use government information. And, for agencies who need a government policy-compliant platform and hosting solution, the Digital Services Innovation Center alpha launched [sites.usa.gov, an enterprise-ready CMS service in the cloud](https://sites.usa.gov/) and they&#8217;re happy to [help you get started](https://sites.usa.gov/).
 
 **Mobile First**
 
@@ -47,9 +30,9 @@ With existing services many agencies ask themselves where to start&#8211;Mobile 
 
 Since that webinar we&#8217;ve learned that mobile implementation is not a clear cut decision between mobile web vs. mobile app and that mobile products fall in a continuum between mobile web and native. New mobile implementations like responsive design and others are explained below.
 
-  * Mobile Web&#8211;Instead of creating a mobile website different than the traditional agency website, a popular implementation of mobile web is [responsive design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") which allows a website to adjust to the size of any device&#8217;s screen.
-  * Mobile Web Apps&#8211; One new implementation we are seeing are mobile websites that are responsive but offer some sort of advanced functionality. An example is [NIH&#8217;s MyDS web app]({{< ref "2012-03-05-myds-web-app.md" >}} "MyDS Web App") which allows users to document and store their dietary supplement intake from anytime and anywhere.
-  * Native Apps&#8211; We are seeing various mobile device functionalities being utilized on various mobile platforms. For some examples of good government native apps, check out [MyTSA]({{< ref "2012-02-22-my-tsa-mobile-app.md" >}} "My TSA Mobile App"), [IRS2Go]({{< ref "2014-02-20-124062.md" >}} "IRS2Go App Updates"), [Eyenote]({{< ref "2012-05-31-eyenote.md" >}} "Eyenote"), [DOL LaborStats]({{< ref "2012-02-22-dol-labor-stats-app.md" >}} "DOL Labor Stats App"), and USDA&#8217;s [AskKaren]({{< ref "2012-06-08-usdas-ask-karen.md" >}} "USDA’s Ask Karen").
+- Mobile Web&#8211;Instead of creating a mobile website different than the traditional agency website, a popular implementation of mobile web is [responsive design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") which allows a website to adjust to the size of any device&#8217;s screen.
+- Mobile Web Apps&#8211; One new implementation we are seeing are mobile websites that are responsive but offer some sort of advanced functionality. An example is [NIH&#8217;s MyDS web app]({{< ref "2012-03-05-myds-web-app.md" >}} "MyDS Web App") which allows users to document and store their dietary supplement intake from anytime and anywhere.
+- Native Apps&#8211; We are seeing various mobile device functionalities being utilized on various mobile platforms. For some examples of good government native apps, check out [MyTSA]({{< ref "2012-02-22-my-tsa-mobile-app.md" >}} "My TSA Mobile App"), [IRS2Go]({{< ref "2014-02-20-124062.md" >}} "IRS2Go App Updates"), [Eyenote]({{< ref "2012-05-31-eyenote.md" >}} "Eyenote"), [DOL LaborStats]({{< ref "2012-02-22-dol-labor-stats-app.md" >}} "DOL Labor Stats App"), and USDA&#8217;s [AskKaren]({{< ref "2012-06-08-usdas-ask-karen.md" >}} "USDA’s Ask Karen").
 
 **Mobile Platforms**
 

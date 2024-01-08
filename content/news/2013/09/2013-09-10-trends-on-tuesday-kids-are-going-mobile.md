@@ -7,12 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - cdc
   - content-strategy
-  - mobile
-  - mobile
-  - national-gallery-of-art
-  - smithsonian-institution
   - emerging-tech
 ---
 

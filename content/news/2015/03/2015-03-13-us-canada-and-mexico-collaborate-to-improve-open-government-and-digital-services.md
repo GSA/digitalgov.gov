@@ -13,12 +13,9 @@ topics:
   - 18f
   - data-gov
   - open-government
-  - gsa
   - metadata
   - open-data
   - open-source
-  - us-digital-service
-  - usds
 
 ---
 

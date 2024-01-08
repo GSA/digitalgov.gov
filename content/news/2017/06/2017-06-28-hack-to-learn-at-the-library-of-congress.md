@@ -6,11 +6,9 @@ summary: 'When hosting workshops, such as Software Carpentry, or events, such as
 authors:
   - jaime-mears
 topics:
-  - data
-  - data
   - hackathon
-  - Library of Congress
-  - LOC
+  
+  
 ---
 
 When hosting workshops, such as [Software Carpentry](https://blogs.loc.gov/thesignal/2017/04/software-carpentry-at-the-library-of-congress/?loclr=blogsig), or events, such as [Collections As Data](http://digitalpreservation.gov/meetings/dcs16.html?loclr=blogsig), our National Digital Initiatives team made a discovery—there is an appetite among librarians for hands-on computational experience. That’s why we created an inclusive hackathon, or a “hack-to-learn,” taking advantage of the skills librarians already have and pairing them with programmers to mine digital collections.

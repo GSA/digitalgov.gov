@@ -6,9 +6,7 @@ summary: ""
 authors:
   - barbara-walton
 topics:
-  - communities
   - content-strategy
-  - data
   - product-management
   - analytics
   - aoi

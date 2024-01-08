@@ -34,7 +34,6 @@ topics:
   - data
   - application-programming-interface
   - code
-  - policy
   - open-source
   - open-data
 

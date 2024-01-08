@@ -11,7 +11,6 @@ topics:
   - analytics
   - content-strategy
   - search
-  - gsa
 ---
 
 {{< legacy-img src="2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" caption="" >}} 

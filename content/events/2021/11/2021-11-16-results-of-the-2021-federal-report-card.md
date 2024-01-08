@@ -14,7 +14,6 @@ topics:
   - plain-language
   - plain-language
   - plain-writing-act-of-2010
-  - training
   - communication
   - user-experience
   - content-strategy

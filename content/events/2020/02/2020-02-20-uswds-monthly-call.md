@@ -19,7 +19,6 @@ end_date:  2020-02-20 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - uswds
   - digital-service-delivery
   - user-centered-design
 

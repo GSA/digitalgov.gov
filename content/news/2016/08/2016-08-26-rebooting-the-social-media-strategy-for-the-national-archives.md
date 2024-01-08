@@ -15,8 +15,6 @@ topics:
   - content-strategy
   - policy
   - content-strategy
-  - NARA
-  - national-archives-and-records-administration
   - social-media
 ---
 

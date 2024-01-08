@@ -8,9 +8,6 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - cdc
-  - DOJ
-  - HHS
   - multilingual
 ---
 

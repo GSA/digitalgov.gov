@@ -19,8 +19,6 @@ topics:
   - fema
   - firstnet
   - mobile
-  - National Weather Service
-  - NWS
   - social-media
   - content-strategy
   - us-digital-registry

@@ -8,16 +8,6 @@ authors:
 topics:
   - product-management
   - social-media
-  - epa
-  - HHS
-  - national-cancer-institute
-  - national-institutes-of-health
-  - NCI
-  - nih
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - united-states-department-of-health-and-human-services
-  - USDA
 ---
 
 {{< legacy-img src="2015/10/600-x-400-NIH-Digital-Summit-Keynote-speaker-Susannah-Fox-Chief-Technology-Officer-of-the-US-Department-of-Health-and-Human-Services-HHS-IMG_1724.jpg" alt="Keynote speaker, Susannah Fox, Chief Technology Officer of the U.S. Department of Health and Human Services (HHS)" >}}
@@ -30,7 +20,7 @@ On October 19th, NIH brought together nearly 1,500 digital and health experts in
   <p lang="en">
     &#8220;How might we connect the edges of science to the majority?&#8221; &#8211; <a href="https://twitter.com/SusannahFox">@SusannahFox</a> <a href="https://twitter.com/hashtag/nihdigital?src=hash">#nihdigital</a>
   </p>
-  
+
   <p>
     — NIH NCCIH (@NIH_NCCIH) <a href="https://twitter.com/NIH_NCCIH/status/656096591133151232">October 19, 2015</a>
   </p>
@@ -44,7 +34,7 @@ On October 19th, NIH brought together nearly 1,500 digital and health experts in
   <p>
     <a href="https://twitter.com/DrRichardBesser">@DrRichardBesser</a> on rude posts- everyone wants to feel heard. Addressing that fundamental need can break barriers <a href="https://twitter.com/hashtag/nihdigital?src=hash">#nihdigital</a>
   </p>
-  
+
   <p>
     — Anna Mencarelli (@amvmencarelli) <a href="https://twitter.com/amvmencarelli/status/656167383992836096">October 19, 2015</a>
   </p>
@@ -58,7 +48,7 @@ Patient activists Anna McCollister-Slipp and Guy Anthony [discussed their first-
   <p lang="en">
     &#8220;I changed &#8216;resources&#8217; to &#8216;wesources&#8217; because these are our shared tools.&#8221; &#8211;<a href="https://twitter.com/IAMGUYANTHONY">@IAMGUYANTHONY</a> <a href="https://twitter.com/hashtag/NIHDigital?src=hash">#NIHDigital</a>
   </p>
-  
+
   <p>
     — Westat (@westat) <a href="https://twitter.com/westat/status/656106572331032577">October 19, 2015</a>
   </p>
@@ -70,7 +60,7 @@ Rebecca Spencer White used the Internet to find care for her son with a rare dis
   <p>
     Rebecca Spencer White was told &#8220;Don&#8217;t Google it!&#8221; when son was diagnosed with Niemann-Pick. But that&#8217;s the first thing she did. <a href="https://twitter.com/hashtag/nihdigital?src=hash">#nihdigital</a>
   </p>
-  
+
   <p>
     — NIH (@NIH) <a href="https://twitter.com/NIH/status/656108684095918080">October 19, 2015</a>
   </p>
@@ -84,7 +74,7 @@ Erin Edgerton of Norvell Digital Edge Communications [advised government to emul
   <p lang="en">
     &#8220;MORE&#8221; [followers, likes] should be a low priority. Engagement should be first. <a href="https://twitter.com/eedgerton">@eedgerton</a> <a href="https://twitter.com/hashtag/NIHDigital?src=hash">#NIHDigital</a>
   </p>
-  
+
   <p>
     — NIH (@NIH) <a href="https://twitter.com/NIH/status/656130789437022209">October 19, 2015</a>
   </p>
@@ -100,7 +90,7 @@ Give people tools, not toys. Robert Burchard of the Environmental Protection Age
   <p>
     Be first. Be right. Be credible. Good advice for gov communicators. <a href="https://twitter.com/hashtag/nihdigital?src=hash">#nihdigital</a> <a href="https://twitter.com/hashtag/socialgov?src=hash">#socialgov</a>
   </p>
-  
+
   <p>
     — Irene Liu (@irene9000) <a href="https://twitter.com/irene9000/status/656172037979926528">October 19, 2015</a>
   </p>
@@ -118,7 +108,7 @@ Megan Moreno, with [Seattle Children’s Research Institute](http://www.seattlec
   <p lang="en">
     Dr. Megan Moreno: need to integrate social media into existing successful behavioral interventions targeted towards adolescents <a href="https://twitter.com/hashtag/NIHDigital?src=hash">#NIHDigital</a>
   </p>
-  
+
   <p>
     — Mental Health NIMH (@NIMHgov) <a href="https://twitter.com/NIMHgov/status/656190676569366528">October 19, 2015</a>
   </p>

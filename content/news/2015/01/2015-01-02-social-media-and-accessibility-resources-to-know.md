@@ -7,17 +7,14 @@ authors:
   - deb-lebel
 topics:
   - accessibility
-  - communities
   - social-media
-  - aids-gov
   - aoi
   - DOL
   - FCC
   - federal-communications-commission
   - HHS
   - socialgov-community
-  - us-department-of-labor
-  - united-states-department-of-health-and-human-services
+  
 ---
 
 {{< legacy-img src="2014/12/600-x-452-Social-media-network-background-with-icons-vector-VLADGRIN-iStock-Thinkstock-470847401.jpg" alt="Social media network background with icons" caption="" >}} 

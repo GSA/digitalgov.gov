@@ -8,9 +8,6 @@ authors:
   - aaron-snow
 topics:
   - code
-  - 18f
-  - GitHub
-  - gsa
   - acquisition
 ---
 

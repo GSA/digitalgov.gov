@@ -7,7 +7,6 @@ authors:
   - tonya-beres
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-experience
   - Government Contact Center Council

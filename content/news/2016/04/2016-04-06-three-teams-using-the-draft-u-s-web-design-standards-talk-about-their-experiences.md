@@ -15,9 +15,7 @@ topics:
   - code
   - design
   - open-source
-  - us-digital-service
   - user-experience
-  - usds
   
 ---
 

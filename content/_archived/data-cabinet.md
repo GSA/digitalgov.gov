@@ -9,7 +9,6 @@ deck: "A Federal Data Science Community of Practice"
 weight: 2
 
 topics:
-  - data
   - open-data
 
 community_list:

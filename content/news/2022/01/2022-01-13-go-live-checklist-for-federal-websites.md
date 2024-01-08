@@ -11,7 +11,6 @@ topics:
   - user-experience
   - design
   - mobile
-  - policy
   - governance
   - analytics
   - analytics

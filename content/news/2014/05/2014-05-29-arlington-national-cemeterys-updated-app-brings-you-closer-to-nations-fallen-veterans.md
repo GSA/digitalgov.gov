@@ -5,10 +5,6 @@ title: 'Arlington National Cemetery&#8217;s Updated App Brings You Closer to Nat
 summary: 'While many of us were planning for barbecues or heading to lakes and beaches on the eve of Memorial Day Weekend,  the digital team at Arlington National Cemetery was busy doing what they do best:  honoring the sacrifices of America&#8217;s'
 topics:
   - mobile
-  - arlington-national-cemetery
-  - mobile
-  - mobile
-  - mobile
 ---
 
 [{{< legacy-img src="2014/05/250-x-448-ANC-Explorer-v2.jpg" alt="Home screen of ANC Explorer app showing guard at Tomb of the Unknown Soldier." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/250-x-448-ANC-Explorer-v2.jpg)While many of us were planning for barbecues or heading to lakes and beaches on the eve of Memorial Day Weekend,  the digital team at [**Arlington National Cemetery**](http://www.arlingtoncemetery.mil/Default.aspx) was busy doing what they do best:  honoring the sacrifices of America&#8217;s veterans with the launch of an upgraded mobile app that helps the public to engage with the history of this sacred site and the fallen who rest there.

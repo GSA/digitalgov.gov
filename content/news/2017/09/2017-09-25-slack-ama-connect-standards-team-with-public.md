@@ -18,7 +18,6 @@ topics:
   - content-strategy
   - mobile
   - accessibility
-  - uswds
   - user-experience
   - accessibility
 

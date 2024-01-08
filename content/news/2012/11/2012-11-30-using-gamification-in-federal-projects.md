@@ -8,9 +8,6 @@ authors:
 topics:
   - product-management
   - content-strategy
-  - policy
-  - department-of-commerce
-  - content-strategy
   - mobile
   - social-media
 ---

@@ -10,7 +10,6 @@ topics:
   - uswds
   - research
   - usability
-  - recaps
 
 # See all authors at https://digital.gov/authors
 authors:

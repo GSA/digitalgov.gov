@@ -10,7 +10,6 @@ topics:
   - content-strategy
   - search
   - open-source
-  - recaps
 ---
 
 {{< legacy-img src="2014/04/250-x-240-big-data-word-cloud-search-macgyverhh-iStock-Thinkstock-482418537.jpg" alt="Word cloud of Search terms, in the shape of a star" caption="" >}} 

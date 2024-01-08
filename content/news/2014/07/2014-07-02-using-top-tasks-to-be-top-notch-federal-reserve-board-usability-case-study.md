@@ -6,14 +6,11 @@ summary: 'In 2012, the Federal Reserve Board used the Top-task methodology to re
 authors:
   - ben-rosset
 topics:
-  - communities
   - user-testing-and-research
   - user-experience
   - aoi
   - digitalgov-user-experience-program
-  - Federal Reserve Board
   - first-click testing
-  - FRB
   - top-tasks
   - user-experience-community-of-practice
 

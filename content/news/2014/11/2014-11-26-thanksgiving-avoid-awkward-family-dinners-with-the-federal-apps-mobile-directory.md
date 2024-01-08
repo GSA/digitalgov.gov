@@ -14,8 +14,6 @@ topics:
   - mobile
   - US Department of Agriculture
   - united-states-census-bureau
-  - usagov
-  - USDA
 ---
 
 {{< legacy-img src="2014/11/600-x436-Turkey-and-dog-crspix-iStock-Thinkstock-462138213.jpg" alt="Closeup on a Thanksgiving turkey, with a large white dog eyeing the food in the background" caption="" >}} 

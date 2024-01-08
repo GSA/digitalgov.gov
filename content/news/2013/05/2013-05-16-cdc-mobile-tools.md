@@ -7,9 +7,6 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - cdc
-  - mobile
-  - mobile
 ---
 
 [{{< legacy-img src="2013/05/250-x-375-CDC-Solve-the-Outbreak.jpg" alt="Advertisement for CDC's Solve the Outbreak App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/CDCSolvetheOutbreakApp.jpeg)The [Center&#8217;s for Disease and Control](http://www.cdc.gov/) has developed a [mobile website](http://m.cdc.gov/) and a [mobile app](http://apps.usa.gov/cdc-mobile-app.shtml) so users can access information anytime, anywhere, on any device.

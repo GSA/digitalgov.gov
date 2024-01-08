@@ -8,9 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - mobile
-  - mobile
-  - usagov
   - user-experience
 ---
 

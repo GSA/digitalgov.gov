@@ -7,7 +7,6 @@ authors:
   - jherman
 topics:
   - product-management
-  - our-work
   - social-media
   - data-gov
   - open-government

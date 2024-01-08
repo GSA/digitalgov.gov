@@ -23,7 +23,7 @@ For those who are not developers, the CDC offers a way to embed health data into
 
 {{< legacy-img src="2014/10/600-x-473-CDC-health-data-API-microsites-Ebola.jpg" alt="600-x-473-CDC-health-data-API-microsites-Ebola" >}}
 
- 
+
 
 As an example, a user wants to include the CDC’s microsite “[What’s New | Ebola Hemorrhagic Fever](https://tools.cdc.gov/medialibrary/?context=eyJTeXN0ZW1UaXRsZSI6IlB1YmxpYyBIZWFsdGggTWVkaWEgTGlicmFyeSIsIkxhbmd1YWdlIjoiIiwiVG9waWNJZCI6IiIsIlRvcGljTmFtZSI6IiIsIlRvcGljTmF2UG9zaXRpb24iOiIiLCJBdWRpZW5jZUlkIjoiIiwiQXVkaWVuY2VOYW1lIjoiIiwiQXVkaWVuY2VOYXZQb3NpdGlvbiI6IiIsIk1lZGlhVHlwZSI6IiIsIk1lZGlhVHlwZURpc3BsYXlOYW1lIjoiIiwiU2VhcmNoVGV4dCI6IiIsIlNlYXJjaE1lZGlhVHlwZSI6IiIsIlNlbGVjdGVkTWVkaWFJZCI6IjEyMTI4MCIsIlNlbGVjdGVkTWVkaWFUeXBlIjoiIiwiUGFnZXJQYXJhbSI6IjEiLCJTb3J0RGlyZWN0aW9uIjoiZGVzYyIsIkdyb3VwRmxhZyI6ZmFsc2UsIlVzZXJJbmZvIjoiIiwiQ3VycmVudFVybCI6Imh0dHBzOi8vdG9vbHMuY2RjLmdvdi9hcGkvdjIvcmVzb3VyY2VzL21lZGlhLmpzb24%2FbWF4PTEyJnR0bD05MDAmc29ydD0tZGF0ZXB1Ymxpc2hlZCZwYWdlbnVtPTEmY2FsbGJhY2s9PyIsIlNlbGVjdGVkTGlzdCI6eyJuYW1lIjoiIiwiaWQiOiIiLCJzZWxlY3RlZE1lZGlhSWRzIjpbXX19).” The user would click on the “Get Embed Code” tab and paste the code into his or her site. Refresh the page and the content will be delivered to the Web page. All the updating and code changes are handled by the CDC while the data is pushed automatically to the user’s Web page. The CDC also offers documentation to configure the microsite so that it fits in with user’s Web page design and functionality. [Please note that Data.CDC.gov does not currently have Ebola data.]
 

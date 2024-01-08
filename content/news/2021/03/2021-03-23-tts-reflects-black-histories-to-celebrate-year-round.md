@@ -6,7 +6,6 @@ deck: TTS employees share how Black history makers can inspire our work and inno
 summary: Black history is American history. In this blog, TTS employees share how Black history makers can inspire our work and innovation year-round.
 # See all topics at https://digital.gov/topics
 topics:
-  - tts
   - professional-development
   - content-strategy
   - innovation

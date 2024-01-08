@@ -8,7 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - trust
-  - data
   - governance
   - product-management
   - social-media

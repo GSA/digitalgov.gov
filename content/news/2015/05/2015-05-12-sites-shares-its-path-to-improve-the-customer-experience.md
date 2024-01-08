@@ -7,9 +7,6 @@ authors:
   - coqui-aspiazu
 topics:
   - product-management
-  - monthly-theme
-  - our-work
-  - CMS
   - customer-experience
   - customer-experience
 ---

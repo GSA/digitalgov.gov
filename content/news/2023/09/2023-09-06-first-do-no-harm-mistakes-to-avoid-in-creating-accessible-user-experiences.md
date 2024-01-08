@@ -16,7 +16,6 @@ summary: Accessible design and development practices help us build inclusive
 topics:
   - accessibility
   - user-experience
-  - 18f
 slug: first-do-no-harm-mistakes-to-avoid-in-creating-accessible-user-experiences
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -8,7 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - code
-  - recaps
 ---
 
 &#8220;APIs for [WhiteHouse.gov](http://whitehouse.gov/)? What in the heck does that mean?&#8221; Like [President Obama](http://www.youtube.com/watch?list=UU5V8jrK77-8gsa9RL_taG9A&v=-bJo6zii7lw&feature=player_embedded#t=300s), you may be asking the same question. DigitalGov University set out to answer that question during its [API Standards from the White House webinar](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/api-standards-white-house.pdf) (PDF, 2.6 MB, 65 pages) with Leigh Heyman and Bryan Hirsch, from the White House Office of Digital Strategy.

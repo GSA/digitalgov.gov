@@ -7,7 +7,6 @@ authors:
   - gsa-blog-team
 topics:
   - code
-  - data
   - product-management
   - content-strategy
   - policy
@@ -21,10 +20,6 @@ topics:
   - Federal Acquisition Service
   - security
   - innovation
-  - OCSIT
-  - office-of-citizen-services-and-innovative-technology
-  - office-of-products-and-programs
-  - tts
 
 ---
 

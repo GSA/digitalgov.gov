@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - design
-  - github
+  
   - open-source
   - mobile
   - uswds

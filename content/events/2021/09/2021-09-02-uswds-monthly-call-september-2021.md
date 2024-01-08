@@ -10,7 +10,6 @@ date: 2021-09-16 14:00:00 -0500
 end_date: 2021-09-16 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - design
   - digital-service-delivery
 # See all authors at https://digital.gov/authors

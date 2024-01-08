@@ -9,10 +9,6 @@ topics:
   - content-strategy
   - policy
   - user-experience
-  - mobile
-  - mobile
-  - recaps
-  - mobile
 
 ---
 

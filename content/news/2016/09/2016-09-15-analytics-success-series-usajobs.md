@@ -16,7 +16,7 @@ topics:
   - OPM
   - united-states-office-of-personnel-management
   - user-experience
-  
+
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._

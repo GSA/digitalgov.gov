@@ -6,9 +6,6 @@ summary: 'The Mobile Platform Development Series was developed to help governmen
 topics:
   - code
   - mobile
-  - mobile
-  - mobile
-  - recaps
 ---
 
 The Mobile Platform Development Series was developed to help government agencies learn how to deliver government content&#8211;information, data and services&#8211;anytime, anywhere and on any device. One way to deliver content to citizens is via applications on mobile devices or native mobile apps. Government agencies need technical expertise on developing apps on the various platforms. Today we bring you a recap of the Blackberry webinar from this series.

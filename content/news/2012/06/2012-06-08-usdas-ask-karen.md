@@ -7,8 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - USDA
-
 ---
 
 _MobileGov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the U.S. Department of Agriculture._

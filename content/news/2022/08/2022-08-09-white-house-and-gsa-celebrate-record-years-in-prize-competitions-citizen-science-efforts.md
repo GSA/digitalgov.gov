@@ -21,8 +21,8 @@ topics:
   - challenge-gov
   - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
-  - white-house-office-of-science-and-technology-policy
-  - white-house
+  
+
 slug: white-house-and-gsa-celebrate-record-years-in-prize-competitions-citizen-science-efforts
 # Controls how this page appears across the site
 # 0 -- hidden

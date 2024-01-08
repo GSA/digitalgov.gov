@@ -11,10 +11,6 @@ topics:
   - product-management
   - mobile
   - content-strategy
-  - mobile
-  - national-gallery-of-art
-  - NOAA
-  - mobile
   - emerging-tech
   - user-experience
 

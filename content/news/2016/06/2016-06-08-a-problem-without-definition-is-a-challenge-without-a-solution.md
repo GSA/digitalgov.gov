@@ -10,7 +10,6 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - recaps
 ---
 
 A prize competition often starts with a problem. In order to get help to find a solution, people need to clearly understand your problem.

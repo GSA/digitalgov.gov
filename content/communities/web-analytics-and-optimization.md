@@ -7,7 +7,6 @@ summary: "Make better decisions using web analytics and other optimization strat
 topics:
   - research
   - analytics
-  - data
   - user-experience
   - usability
   - search-engine-optimization

@@ -8,7 +8,6 @@ authors:
   - bbrantley
 
 topics:
-  - data
   - product-management
   - agile
   - artificial intelligence

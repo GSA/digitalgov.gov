@@ -7,7 +7,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - monthly-theme
   - user-testing-and-research
   - content-strategy
   - mobile

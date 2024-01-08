@@ -16,7 +16,6 @@ summary: Even on the best teams, things need to be monitored and adjusted. If
 # See all topics at https://digital.gov/topics
 topics:
   - agile
-  - best-practices
 slug: am-i-doing-it-right-a-check-up-for-agile-teams
 # Controls how this page appears across the site
 # 0 -- hidden

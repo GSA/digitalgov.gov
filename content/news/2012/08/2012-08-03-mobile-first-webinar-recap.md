@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - application-programming-interface
-  - mobile
-  - mobile
-  - recaps
 ---
 
 Federal agency mobile implementation is an important aspect of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf), so last week the Mobile Gov team and Digital Gov University partnered for a [&#8220;Mobile First&#8221; Webinar](http://www.youtube.com/watch?v=lTYZTwWKaNI&feature=youtube_gdata). A &#8220;mobile first&#8221; approach is where new websites and applications are designed for mobile devices first, instead of designed for the traditional desktop.  Representatives from government and the private sector spoke about what it means to be &#8220;mobile first.&#8221; You can view the entire webinar below, but here are some highlights:

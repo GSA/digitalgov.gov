@@ -6,7 +6,6 @@ summary: 'One of the challenges UX practitioners can face is how to communicate 
 authors:
   - justin-dopke
 topics:
-  - monthly-theme
   - user-experience
   - analytics
   

@@ -16,9 +16,7 @@ end_date: 2021-03-10 15:30:00 -0500
 topics:
   - accessibility
   - plain-language
-  - training
   - communication
-  - plain-language
 # See all authors at https://digital.gov/authors
 authors:
   - bethany-letalien

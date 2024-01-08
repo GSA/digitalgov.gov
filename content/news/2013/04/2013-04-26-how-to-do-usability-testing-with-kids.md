@@ -9,7 +9,6 @@ topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
   - content-strategy
-  - gsa
   - usability-testing
   - user-experience
   

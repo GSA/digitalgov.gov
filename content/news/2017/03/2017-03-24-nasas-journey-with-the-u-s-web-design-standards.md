@@ -45,8 +45,8 @@ We’re looking to learn more [from agencies that have used the Standards](https
 
 Also, on January 25th, we [hosted a DGU webinar](https://www.youtube.com/watch?v=VUPbn1phbxk) to share more information about the features and [future of the Standards](https://18f.gsa.gov/2016/12/22/charting-the-future-of-the-draft-us-web-design-standards/), including the 1.0 release. Check it out to learn more or follow along at [standards.usa.gov](https://standards.usa.gov/).
 
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ 
+_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
 
-_If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities]({{< ref "/communities" >}}) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ 
+_If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities]({{< ref "/communities" >}}) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._
 
 _Check out our Events platform, [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU), and [register for an upcoming event]({{< ref "/events" >}}) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form]({{< ref "/about/digitalgov-university.md" >}})._

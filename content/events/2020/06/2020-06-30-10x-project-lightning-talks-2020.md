@@ -21,8 +21,6 @@ end_date: 2020-06-30 15:00:00 -0500
 topics: 
   - agile
   - security
-  - uswds
-  - 10x
 
 # see all authors at https://digital.gov/authors
 authors: 

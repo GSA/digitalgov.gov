@@ -7,7 +7,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - HUD
   - ios
   - mobile
 

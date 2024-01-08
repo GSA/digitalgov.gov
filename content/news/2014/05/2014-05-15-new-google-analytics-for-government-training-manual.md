@@ -8,9 +8,6 @@ authors:
 topics:
   - analytics
   - social-media
-  - analytics
-  - GAO
-  - us-government-accountability-office
 ---
 
 {{< legacy-img src="2014/05/250-x-176-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" alt="The cover image for the title, Google Analytics for Government, 2nd Edition, May 2014" >}}Looking for a training manual on how to use Google Analytics for your agency? Here&#8217;s your answer. I released a second edition of my Google Analytics for Government training manual. [Download your copy today](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2ND_EDITION__GOOGLE_ANALYTICS_FOR_GOVERNMENT_TRAINING_MANUAL-4.pdf) (PDF, 4.94 MB, 65 pages, May 2014) and be sure to check out my other resources on [creating awesome Web analytics reports]({{< ref "2014-03-04-creating-awesome-web-analytics-reports-and-presentations.md" >}}).

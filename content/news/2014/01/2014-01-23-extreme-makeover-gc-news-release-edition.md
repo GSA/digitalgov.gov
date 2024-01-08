@@ -8,7 +8,6 @@ authors:
 topics:
   - product-management
   - content-strategy
-  - policy
   - social-media
 ---
 

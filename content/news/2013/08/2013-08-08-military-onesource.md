@@ -7,8 +7,6 @@ authors:
   - michael-niedzwiecki
 topics:
   - mobile
-  - DoD
-  - mobile
   - united-states-department-of-defense
 ---
 

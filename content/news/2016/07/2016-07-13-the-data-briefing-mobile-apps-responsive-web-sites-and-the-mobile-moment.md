@@ -6,7 +6,6 @@ summary: 'The debate between responsive websites and mobile apps took a decisive
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
   - artificial intelligence
   - analytics

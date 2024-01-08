@@ -8,7 +8,6 @@ authors:
   - lesia-dickson
 
 topics:
-  - data
   - product-management
   - innovation
   - mobile
@@ -35,9 +34,9 @@ Yet things are not always perfect. Public safety is a major component of Skywalk
 
 But what if a large, more complex incident occurred? How would tribal, county, state and private industry responders work together to respond when additional resources are hours away, and could communications technology help to bridge the gap?
 
-Hualapai public safety officials and <a class="ext" href="http://www.grandcanyonwest.com/">Grand Canyon West Corporation</a> wanted to know the answer to this question, so partnered with the <a href="https://digitalarizona.az.gov/public-safety-broadband">Arizona Public Safety Broadband Program</a> team, <a href="https://dema.az.gov/">Arizona Department of Emergency and Military Affairs</a> (AZDEMA), <a class="ext" href="https://www.mohavecounty.us/">Mohave County</a> and others to find out. On Sept. 14, they staged the first tribal-sponsored LTE exercise in the United States just yards from the rim of the Grand Canyon. They played out an exercise scenario in which a helicopter clips a tour bus, causing it to turn over and catch fire. Key to the exercise were technology components that allowed remote telemedicine support from <a class="ext" href="https://azkrmc.com/">Kingman Regional Medical Center</a> in Kingman, AZ, and a live video feed to the DEMA State&#8217;s Emergency Operations Center in Phoenix. 
+Hualapai public safety officials and <a class="ext" href="http://www.grandcanyonwest.com/">Grand Canyon West Corporation</a> wanted to know the answer to this question, so partnered with the <a href="https://digitalarizona.az.gov/public-safety-broadband">Arizona Public Safety Broadband Program</a> team, <a href="https://dema.az.gov/">Arizona Department of Emergency and Military Affairs</a> (AZDEMA), <a class="ext" href="https://www.mohavecounty.us/">Mohave County</a> and others to find out. On Sept. 14, they staged the first tribal-sponsored LTE exercise in the United States just yards from the rim of the Grand Canyon. They played out an exercise scenario in which a helicopter clips a tour bus, causing it to turn over and catch fire. Key to the exercise were technology components that allowed remote telemedicine support from <a class="ext" href="https://azkrmc.com/">Kingman Regional Medical Center</a> in Kingman, AZ, and a live video feed to the DEMA State&#8217;s Emergency Operations Center in Phoenix.
 
-{{< legacy-img src="2016/11/500-x-249-FirstNet-GrandCanyonMontage1.jpg" alt="More than one million people visit the Grand Canyon West Skywalk each year – public safety is a major component of operations. (Pictured: Dick Gardner, Paramedic, Peach Springs (AZ) EMS)" caption="" >}} 
+{{< legacy-img src="2016/11/500-x-249-FirstNet-GrandCanyonMontage1.jpg" alt="More than one million people visit the Grand Canyon West Skywalk each year – public safety is a major component of operations. (Pictured: Dick Gardner, Paramedic, Peach Springs (AZ) EMS)" caption="" >}}
 
 Lessons learned were numerous &#8212; not the least of which was the opportunity for technologists to discuss the real life aspects of responding in such remote terrain. Many responders talked about their experiences in the Canyon itself and the feeling of total communications isolation while trying to save lives. &#8220;We go into the canyon almost every day. A helicopter fatality occurred down there last year. When you are in there, you are alone and it is hard to let command know what you need. This isn&#8217;t an easy place to work!&#8221;
 

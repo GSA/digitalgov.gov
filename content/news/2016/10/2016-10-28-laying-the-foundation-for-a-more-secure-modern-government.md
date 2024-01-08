@@ -6,7 +6,6 @@ summary: 'Summary: Building on efforts to boost Federal cybersecurity & as part 
 authors:
   - tony-scott
 topics:
-  - data
   - governance
   - product-management
   - content-strategy
@@ -20,14 +19,11 @@ topics:
   - OMB
   - privacy
   - security
-  - us-general-services-administration
-  - united-states-department-of-homeland-security
-  - white-house
 ---
 
 > _Summary: Building on efforts to boost Federal cybersecurity & as part of National Cybersecurity Awareness Month, today we&#8217;re releasing a proposed guidance to modernize Federal IT._
 
-America’s spirit of ingenuity and entrepreneurship created the world’s most innovative economy and keeps us dominant in today’s digital age. Indeed, in 1985 about 2,000 people used the Internet; today, 3.2 billion people do. What started out as a useful tool for a few is now a necessity for all of us—as essential for connecting people, goods, and services as the airplane or automobile. {{< legacy-img src="2015/04/600-x-424-Online-Security-Technology-olarseven-iStock-Thinkstock-ThinkstockPhotos-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." caption="" >}} 
+America’s spirit of ingenuity and entrepreneurship created the world’s most innovative economy and keeps us dominant in today’s digital age. Indeed, in 1985 about 2,000 people used the Internet; today, 3.2 billion people do. What started out as a useful tool for a few is now a necessity for all of us—as essential for connecting people, goods, and services as the airplane or automobile. {{< legacy-img src="2015/04/600-x-424-Online-Security-Technology-olarseven-iStock-Thinkstock-ThinkstockPhotos-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." caption="" >}}
 
 Without doubt, modern technology has created great opportunities for innovation and advancement. But, in a world that is increasingly connected by technology, with greater opportunity comes greater risk. That’s true for major companies, and it’s certainly true for the Federal government. Many Federal departments and agencies rely on aging computer systems and networks running on outdated hardware and infrastructure that are expensive to operate and difficult to defend against modern cyber threats. Of the $82 billion in Federal IT spending planned for 2017, approximately 78 percent ($63 billion) is dedicated to maintaining legacy IT investments. As more and more data is stored online, the need to protect against the adverse consequences of malicious cyber activity becomes more pressing each year.
 

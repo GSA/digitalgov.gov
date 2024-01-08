@@ -16,7 +16,6 @@ topics:
   - mobile
   - NPS
   - social-media
-  - us-national-park-service
   - user-experience
   - virtual-augmented-reality-community
 ---

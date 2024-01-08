@@ -6,8 +6,6 @@ summary: The Office of Personnel Management released a new look and functionalit
 authors:
   - bbrantley
 topics:
-  - data
-  - monthly-theme
   - agile
   - application-programming-interface
   - data
@@ -19,7 +17,6 @@ topics:
   - United States Patent and Trademark Office
   - user-centered-design
   - user-experience
-  - USPTO
   
 ---
 

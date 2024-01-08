@@ -7,7 +7,6 @@ authors:
   - gwynne-kostin
 topics:
   - product-management
-  - our-work
   - customer-experience
   - innovation
 ---

@@ -11,8 +11,8 @@ topics:
   - policy
   - 18f
   - agile
-  - best-practices
   - workflows
+  - best-practices
 ---
 
 A key part of agile development is constantly shipping new features. The team behind the Federal Election Commission’s (FEC) beta website ships new features at least once every two weeks. Sometimes the features are big, noticeable changes, such as the [new home page](https://beta.fec.gov/) we recently launched. And other times they’re small (a copy edit, an adjustment to a button) or under-the-hood (changing the way a database works).

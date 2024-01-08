@@ -14,7 +14,6 @@ aliases:
 weight: 2
 topics:
   - product-management
-  - policy
   - governance
 primary_image: "checklist-topics"
 ---
@@ -32,7 +31,6 @@ These high-level policies cover basic requirements for all websites and digital 
 - [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.federalregister.gov/documents/2016/07/28/2016-17872/revision-of-omb-circular-no-a-130-managing-information-as-a-strategic-resource) (July 28, 2016)
 - [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 - [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
-- See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
 - See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist)
 
 <p class="more">

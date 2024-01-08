@@ -7,11 +7,7 @@ authors:
   - dr-taha-kass-hout
 topics:
   - application-programming-interface
-  - data
-  - application-programming-interface
   - cloud-and-infrastructure
-  - fda
-  - mobile
 ---
 
 [{{< legacy-img src="2014/03/p\_blog\_introducing\_openFDA\_600x267.jpg" alt="Image of scientist reading printout from mainframe computer" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/p_blog_introducing_openFDA_600x267.jpg)

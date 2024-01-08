@@ -23,7 +23,6 @@ authors:
 # see all topics at https://digital.gov/topics
 topics: 
   - research
-  - data
   - design
   - usability
   - communication

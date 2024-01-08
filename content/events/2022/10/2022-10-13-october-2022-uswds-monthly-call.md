@@ -13,7 +13,6 @@ date: 2022-10-20 14:00:00 -0500
 end_date: 2022-10-20 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - user-experience
   - content-strategy
   - design

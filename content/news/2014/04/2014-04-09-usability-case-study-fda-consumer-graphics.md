@@ -8,9 +8,7 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - fda
   - data-visualization
-  - us-food-and-drug-administration
   - usability
   - usability-case-study
   - user-experience

@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - mobile
-  - monthly-theme
   - apps-challenges
   - challenges-and-prize-competitions
   - data

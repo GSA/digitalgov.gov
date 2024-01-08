@@ -8,7 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - code
-  - data
   - product-management
   - content-strategy
   - policy

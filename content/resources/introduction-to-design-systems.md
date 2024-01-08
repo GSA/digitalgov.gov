@@ -8,7 +8,6 @@ summary: If your organization needs to ensure compliance with a design standard 
 topics:
   - digital-service-delivery
   - design
-  - uswds
 
 slug: introduction-to-design-systems
 primary_image: "uswds-interfaces-dark-1200x630"

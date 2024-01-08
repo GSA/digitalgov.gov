@@ -10,7 +10,6 @@ summary: "In order to ultimately succeed at delivering human-centered software, 
 # See all topics at https://digital.gov/topics
 topics:
   - agile
-  - 18f
 # See all authors at https://digital.gov/authors
 authors:
   - digitalgov-team

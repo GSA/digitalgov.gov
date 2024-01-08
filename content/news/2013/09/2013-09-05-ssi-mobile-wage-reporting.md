@@ -7,10 +7,6 @@ authors:
   - michael-niedzwiecki
 topics:
   - mobile
-  - mobile
-  - mobile
-  - SSA
-  - mobile
 
 ---
 

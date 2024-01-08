@@ -11,12 +11,7 @@ topics:
   - our-work
   - application-programming-interface
   - search
-  - federal-register
   - social-media
-  - NLM
-  - OSHA
-  - SEC
-  - us-securities-and-exchange-commission
 ---
 
 The [Office of the Federal Register](https://www.federalregister.gov/policy/about-us)’s mission “informs citizens of their rights and obligations, documents the actions of Federal agencies, and provides a forum for public participation in the democratic process.”
@@ -32,7 +27,7 @@ DigitalGov Search seeks to provide immediate answers to the public’s search qu
 Regulatory agencies that use our service—such as the [Securities and Exchange Commission](http://www.sec.gov/) and [Occupational Safety & Health Administration](https://www.osha.gov/)—benefit by more easily sharing newly published notices, rules, and regulations with the public.
 
 > I love the new _Federal Register_ feature box that shows me additional results from my search query from the _Federal Register_. It’s like having two searches in one! The “More documents on FederalRegister.gov” link also passes my query directly to the _Federal Register_ API so I can move seamlessly to the FR site to continue my research. This is very helpful.
-> 
+>
 > &#8212; Robert Rand, Securities and Exchange Commission
 
 See the SEC.gov sample search results page below, which shows inline results for three recently published notices related to NASDAQ.

@@ -8,8 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - mobile
-  - DOE
-  - US Department of Agriculture
   - united-states-department-of-energy
   - USDA
   - application-programming-interface

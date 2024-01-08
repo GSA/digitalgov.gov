@@ -7,8 +7,6 @@ authors:
   - marina-fox
 topics:
   - analytics
-  - our-work
-  - analytics
 
 ---
 

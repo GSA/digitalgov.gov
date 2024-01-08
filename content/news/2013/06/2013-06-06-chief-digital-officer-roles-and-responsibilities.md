@@ -9,7 +9,6 @@ topics:
   - governance
   - product-management
   - application-programming-interface
-  - department-of-commerce
 ---
 
 <p>

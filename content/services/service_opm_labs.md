@@ -13,7 +13,6 @@ topics:
   - design
   - content-strategy
   - user-centered-design
-  - training
 # Controls how this page appears across the site
 # 0 -- hides this service from all pages, but URL is still public
 # 1 -- will appear on the tools and services page, and all related topic pages

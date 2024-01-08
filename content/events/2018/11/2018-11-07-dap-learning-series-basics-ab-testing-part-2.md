@@ -20,10 +20,6 @@ end_date: 2018-11-07 15:00:00 -0500
 topics: 
   - research
   - analytics
-  - analytics
-  - cfpb
-  - consumer-financial-protection-bureau
-
 # see all authors at https://digital.gov/authors
 authors: 
   - kelley-holden

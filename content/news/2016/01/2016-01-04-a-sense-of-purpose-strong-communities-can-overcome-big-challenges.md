@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - monthly-theme
   - challenge-gov
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science

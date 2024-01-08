@@ -10,7 +10,6 @@ topics:
   - data
   - devops
   - mobile
-  - data
   - mobile
   - mobile
   - national-institute-of-standards-and-technology

@@ -8,7 +8,6 @@ authors:
   - anahita-reilly
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-experience
   - customer-experience

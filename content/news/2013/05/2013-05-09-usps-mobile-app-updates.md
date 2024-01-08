@@ -7,9 +7,6 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - mobile
-  - mobile
-  - USPS
 ---
 
 {{< legacy-img src="2013/05/250-375-USPS-mobile-app.jpg" alt="USPS mobile app screen" >}}The [U.S. Postal Service Mobile app](https://www.usps.com/mobile/info.htm) can help you find a post office, calculate shipping prices and track packages. Since we last featured this app, the USPS has added the ability to schedule pickups and order supplies.

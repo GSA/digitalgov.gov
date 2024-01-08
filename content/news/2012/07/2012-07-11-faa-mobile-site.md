@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - FAA
 ---
 
 _[{{< legacy-img src="2012/07/faa-mobile-usa1.jpg" alt="FAA Mobile Website" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/faa-mobile-usa1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Federal Aviation Administration**._ _

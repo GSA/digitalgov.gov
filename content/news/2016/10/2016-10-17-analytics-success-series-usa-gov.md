@@ -12,7 +12,6 @@ topics:
   - analytics
   - gsa
   - usability
-  - usagov
   - user-experience
   
 ---

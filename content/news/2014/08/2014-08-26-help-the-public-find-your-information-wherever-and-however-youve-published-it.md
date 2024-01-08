@@ -14,7 +14,6 @@ topics:
   - 18f
   - CMS
   - search
-  - federal-register
   - open-data
   - open-source
 ---

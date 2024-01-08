@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - our-work
   - search
   - mobile
 ---

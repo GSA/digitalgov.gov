@@ -9,8 +9,6 @@ authors:
   - rflagg
 
 topics:
-  - communities
-  - monthly-theme
   - customer-experience
   - customer-experience
   - customer-experience

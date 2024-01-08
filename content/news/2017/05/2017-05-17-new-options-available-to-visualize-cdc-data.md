@@ -6,11 +6,6 @@ summary: 'CDC’s surveillance systems track HIV, AIDS, viral hepatitis, STDs, a
 authors:
   - aids-gov
 topics:
-  - data
-  - aids-gov
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - data
   - data-visualization
   - open-data
 ---

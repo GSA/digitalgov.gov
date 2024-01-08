@@ -7,8 +7,6 @@ authors:
   - rflagg
 topics:
   - product-management
-  - our-work
-  - 18f
   - customer-experience
   - customer-experience
   - Ex-Im Bank

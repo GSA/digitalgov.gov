@@ -5,7 +5,6 @@ title: 'Veteran&#8217;s Affairs PTSD Coach'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Veteran&#8217;s Affairs. PTSD Coach is a mobile application developed by the Department of Veteran&#8217;s Affairs in order to help veterans and military service members'
 topics:
   - mobile
-  - VA
 ---
 
 _[{{< legacy-img src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}Mobile Gov Experiences]({{< ref "/topics/mobile" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Veteran&#8217;s Affairs**._

@@ -14,7 +14,6 @@ end_date: 2020-10-15 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - uswds
   - digital-service-delivery
   - user-centered-design
   - content-strategy

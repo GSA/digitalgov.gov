@@ -8,16 +8,12 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - 18f
   - accessibility
   - multilingual
   - multimedia
-  - recaps
   - social-media
   - socialgov
   - socialgov-community
-  - usa-gov
-  - webinar
 
 ---
 

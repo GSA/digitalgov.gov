@@ -5,11 +5,6 @@ title: Get a grip on injury, death rates with new mobile app from CDC
 summary: 'Need to make a pitch for injury prevention? About to give an impromptu public health presentation that can benefit from a few sobering data points about leading causes of death in your state? (Or maybe you just have a keen interest in the macabre while waiting for the bus.) Well, go grab your iPads: The Center'
 topics:
   - mobile
-  - cdc
-  - mobile
-  - mobile
-  - mobile
-  - mobile
 ---
 
 Need to make a pitch for injury prevention? About to give an impromptu public health presentation that can benefit from a few sobering data points about leading causes of death in your state? (Or maybe you just have a keen interest in the macabre while waiting for the bus.)

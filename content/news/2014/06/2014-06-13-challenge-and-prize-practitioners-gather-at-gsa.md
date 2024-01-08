@@ -13,13 +13,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - HUD
   - innovation
-  - nasa
-  - National Eye Institute
-  - national-science-foundation
-  - nsf
-  - recaps
-  - united-states-department-of-housing-and-urban-development
-  - white-house-office-of-science-and-technology-policy
 ---
 
 Got [innovation]({{< ref "/topics/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!

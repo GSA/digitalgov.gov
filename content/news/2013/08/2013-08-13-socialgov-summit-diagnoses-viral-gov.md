@@ -7,10 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - gsa
-  - HHS
   - mobile
-  - nasa
   - socialgov
 ---
 

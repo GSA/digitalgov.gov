@@ -8,12 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - gsa
-  - mobile
-  - NCI
-  - nih
-  - mobile
-  - us-department-of-education
 ---
 
 <p>

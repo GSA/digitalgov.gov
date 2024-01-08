@@ -7,7 +7,6 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - 18f
   - ios
   - emerging-tech
 ---

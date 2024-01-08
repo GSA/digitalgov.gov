@@ -8,11 +8,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - monthly-theme
-  - bbg
-  - broadcasting-board-of-governors
-  - CMS
-  - GitHub
   - multilingual
   - open-source
   - mobile

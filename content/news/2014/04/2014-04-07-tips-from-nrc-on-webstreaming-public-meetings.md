@@ -8,7 +8,6 @@ authors:
   - danita-stenberg
 topics:
   - multimedia
-  - Nuclear Regulatory Commission
   - open-government
 ---
 

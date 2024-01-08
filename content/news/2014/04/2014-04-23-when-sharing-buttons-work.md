@@ -8,8 +8,6 @@ authors:
 topics:
   - analytics
   - social-media
-  - GAO
-  - social-media
   - socialgov
 ---
 

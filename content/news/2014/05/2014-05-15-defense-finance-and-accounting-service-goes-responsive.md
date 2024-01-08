@@ -6,23 +6,8 @@ summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And a
 topics:
   - design
   - mobile
-  - broadcasting-board-of-governors
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DoD
-  - DOE
-  - epa
-  - executive-office-of-the-president
-  - HHS
-  - mobile
-  - mobile
-  - mobile
-  - us-department-of-veterans-affairs
-  - us-environmental-protection-agency
   - united-states-department-of-defense
   - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
-  - VA
 ---
 
 **{{< legacy-img src="2014/05/250-x-444-DFAS-menu-Responsive-Screenshot.jpg" alt="DFAS menu Responsive Screenshot" >}}Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day.**

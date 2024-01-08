@@ -8,7 +8,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - monthly-theme
   - social-media
   - crowdsourcing-and-citizen-science
   - mobile

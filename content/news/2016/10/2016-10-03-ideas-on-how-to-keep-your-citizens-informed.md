@@ -21,7 +21,7 @@ topics:
 
 As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting.
 
-But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites, apps, and social media. {{< legacy-img src="2016/10/600-x-400-Woman-carrying-a-box-with-word.-Content-marketing-distribution-concept-zakokor-iStock-Thinkstock-72-dpi-536077001.jpg" alt="Woman carrying a box with word Content on it; a content marketing distribution concept." caption="" >}} 
+But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites, apps, and social media. {{< legacy-img src="2016/10/600-x-400-Woman-carrying-a-box-with-word.-Content-marketing-distribution-concept-zakokor-iStock-Thinkstock-72-dpi-536077001.jpg" alt="Woman carrying a box with word Content on it; a content marketing distribution concept." caption="" >}}
 
 Digital media syndication of science-based resources from the Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), Food and Drug Administration (FDA), and the National Institutes of Health (NIH) can be combined with your ongoing activities and can help coordinate health messaging for maximum impact and reach.
 
@@ -63,11 +63,11 @@ These resources are offered through federal digital media syndication sites that
 
 ### Benefits of Content Syndication
 
-  * Content Re-use 
+  * Content Re-use
       * Leverage inter-agency content to reduce overhead and streamline content channels
-  * Audience Retention 
+  * Audience Retention
       * Retain and grow audiences based on content
-  * 24/7 Content 
+  * 24/7 Content
       * Deliver content to your audience where, when, and how they want to consume it
 
 <div class="Divider3">

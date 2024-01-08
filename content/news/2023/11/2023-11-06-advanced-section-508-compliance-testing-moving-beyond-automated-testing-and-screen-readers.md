@@ -10,7 +10,6 @@ summary: "Members of the Office of Natural Resources Revenue team recently compl
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - training
 slug: advanced-section-508-compliance-testing-moving-beyond-automated-testing-and-screen-readers
 # Controls how this page appears across the site
 # 0 -- hidden

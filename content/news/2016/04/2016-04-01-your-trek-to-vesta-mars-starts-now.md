@@ -13,9 +13,8 @@ topics:
   - monthly-theme
   - application-programming-interface
   - apps-challenges
-  - data
   - innovation
-  - nasa
+  
   - open-data
 ---
 

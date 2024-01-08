@@ -14,7 +14,6 @@ topics:
   - government-contact-centers
   - research
   - social-media
-  - usa-gov
 ---
 
 {{< legacy-img src="2015/04/600-x-182-USAgov-Beta-Banner_Marketing01.jpg" alt="USa.gov Beta banner for new website" >}}

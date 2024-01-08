@@ -11,7 +11,6 @@ topics:
   - mobile
   - search-engine-optimization
   - usability
-  - usagov
   - user-experience
 ---
 

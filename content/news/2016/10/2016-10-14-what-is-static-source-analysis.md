@@ -12,7 +12,6 @@ topics:
   - policy
   - 18f
   - analytics
-  - best-practices
   - code
   - analytics
 ---

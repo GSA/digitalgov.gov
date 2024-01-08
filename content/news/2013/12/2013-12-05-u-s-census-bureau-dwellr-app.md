@@ -9,9 +9,6 @@ topics:
   - code
   - mobile
   - application-programming-interface
-  - Census
-  - mobile
-  - mobile
   - united-states-census-bureau
 ---
 

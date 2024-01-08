@@ -6,7 +6,4 @@ summary: Enables and engages public sector employees to transform their
 domain: https://lab.opm.gov/
 # Images must be uploaded in the /static/logos/ folder before they can be used here.
 logo: opm
-# See all topics at https://digital.gov/topics
-topics:
-  - opm
 ---

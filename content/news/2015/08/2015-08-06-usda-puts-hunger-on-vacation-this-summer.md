@@ -8,7 +8,6 @@ topics:
   - application-programming-interface
   - mobile
  
-  - USDA
 ---
 
 {{< legacy-img src="2015/08/600-x-383-fns-USDAgov-mobile-Summer-Meal-Site-Finder-map-screen-capture.jpg" alt="600-x-383-fns-USDAgov-mobile-Summer-Meal-Site-Finder-map-screen-capture" >}}

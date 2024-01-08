@@ -12,7 +12,6 @@ topics:
   - emerging-tech
   - United States Patent and Trademark Office
   - user-experience
-  - USPTO
   
 ---
 

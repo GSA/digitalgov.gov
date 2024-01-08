@@ -15,9 +15,6 @@ host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/april-us-web-design-system-call-tickets-44852101844
 topics:
   - design
-  - uswds
-  - design
-
 ---
 
 Join us on Friday, April 27, at 10 am Pacific / 1 pm Eastern, for our monthly conversation with fellow designers and developers across the government. This month, the U.S. Web Design System team will talk with a team from the [U.S. Digital Service](https://www.usds.gov/) about a library of forms that they've been creating as part of their work with the Department of Veterans Affairs. 

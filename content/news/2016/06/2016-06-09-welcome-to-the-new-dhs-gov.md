@@ -16,7 +16,7 @@ topics:
   - accessibility
   - content-strategy
   - content-strategy
-  - dhs
+  
   - mobile
   - mobile
   - united-states-department-of-homeland-security

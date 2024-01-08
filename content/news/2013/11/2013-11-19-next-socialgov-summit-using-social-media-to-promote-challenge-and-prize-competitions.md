@@ -9,7 +9,6 @@ topics:
   - challenges
   - social-media
   - content-strategy
-  - policy
   - challenge-gov
   - socialgov
 ---

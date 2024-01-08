@@ -6,11 +6,9 @@ summary: 'Recently, the White House hosted Stakeholder Engagement Workshops&mdas
 authors:
   - elizabeth-hochberg
 topics:
-  - data
   - user-experience
   - challenges-and-prize-competitions
   - data-gov
-  - nasa
   - open-government
 ---
 

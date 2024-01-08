@@ -9,7 +9,6 @@ summary: "This NPRM proposes a specific technical standard that state and local 
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - us-department-of-justice
 slug: fact-sheet-notice-of-proposed-rulemaking-on-accessibility-of-web-information-and-services-of-state-and-local-government-entities
 # Controls how this page appears across the site
 # 0 -- hidden

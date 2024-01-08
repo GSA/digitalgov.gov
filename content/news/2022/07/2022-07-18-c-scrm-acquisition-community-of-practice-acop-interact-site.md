@@ -24,7 +24,6 @@ topics:
   - security
   - acquisition
   - communication
-  - best-practices
 slug: c-scrm-acquisition-community-of-practice-acop-interact-site
 # Controls how this page appears across the site
 # 0 -- hidden

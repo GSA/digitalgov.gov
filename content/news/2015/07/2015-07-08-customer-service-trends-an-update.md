@@ -23,9 +23,7 @@ topics:
   - research
   - smithsonian-institution
   - social-media
-  - us-department-of-veterans-affairs
   - user-centered-design
-  - VA
 ---
 
 {{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}}

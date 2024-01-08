@@ -15,7 +15,6 @@ topics:
   - social-media
   - user-experience
   - application-programming-interface
-  - Census
   - innovation
   - mobile
   - united-states-census-bureau

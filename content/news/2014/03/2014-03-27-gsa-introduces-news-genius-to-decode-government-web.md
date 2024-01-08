@@ -11,7 +11,6 @@ topics:
   - emerging-tech
   - mobile
   - socialgov
-  - us-small-business-administration
 
 primary_image: "gsa-mentor-protege-on-mobile-phone-comp"
 

@@ -7,7 +7,6 @@ authors:
   - martha-dorris
 topics:
   - content-strategy
-  - policy
   - customer-experience
 ---
 

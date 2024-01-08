@@ -7,7 +7,6 @@ authors:
   - cheryl-hackley
 topics:
   - content-strategy
-  - policy
   - privacy
   - social-media
   - terms-of-service

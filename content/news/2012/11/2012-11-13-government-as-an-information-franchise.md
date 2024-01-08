@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - content-strategy
-  - policy
-  - Census
   - united-states-census-bureau
 ---
 

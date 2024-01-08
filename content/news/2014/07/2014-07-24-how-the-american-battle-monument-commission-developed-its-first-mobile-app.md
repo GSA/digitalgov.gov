@@ -8,8 +8,6 @@ authors:
 topics:
   - product-management
   - mobile
-  - abmc
-  - american-battle-monuments-commission
   - mobile
   - mobile
   - mobile

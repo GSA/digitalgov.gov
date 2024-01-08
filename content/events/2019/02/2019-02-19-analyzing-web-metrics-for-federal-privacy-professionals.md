@@ -3,7 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: analyzing-web-metrics-for-federal-privacy-professionals
 title: "Analyzing Web Metrics for Federal Privacy Professionals"
-deck: ""
 summary: "For this event, DAP has partnered with the fine folks who run the Federal Privacy Council's Tech Tuesday Series to teach us how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites."
 host: "DAP"
 event_organizer: "DigitalGov University"
@@ -19,7 +18,7 @@ end_date: 2019-02-19 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - analytics
-  - analytics
+  - trust
 # see all authors at https://digital.gov/authors
 authors: 
   - tlowden

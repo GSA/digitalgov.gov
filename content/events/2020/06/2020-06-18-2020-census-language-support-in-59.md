@@ -20,8 +20,6 @@ end_date: 2020-06-18 14:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - multilingual
-  - census
-  - multilingual
   - united-states-census-bureau
 
 # see all authors at https://digital.gov/authors

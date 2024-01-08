@@ -17,7 +17,7 @@ topics:
   - united-states-office-of-personnel-management
 ---
 
-{{< legacy-img src="2014/07/250-x-406-light-bulb-Innovation-and-technology-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-175119127.jpg" alt="A graphic for innovation and technology concepts in a tag cloud in the shape of a light bulb" caption="" >}} 
+{{< legacy-img src="2014/07/250-x-406-light-bulb-Innovation-and-technology-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-175119127.jpg" alt="A graphic for innovation and technology concepts in a tag cloud in the shape of a light bulb" caption="" >}}
 
 It is easy to start a business today and especially an Internet-based business. Using the cloud, APIs, and hosted applications, an entrepreneur can quickly build a website/mobile app. The entrepreneur can hire freelancers to do everything from creating a logo to writing a business plan. Virtual assistant services can provide on-demand staff to meet business needs. Yes, it is easy to start a business. The hard part is creating and sustaining a business.
 

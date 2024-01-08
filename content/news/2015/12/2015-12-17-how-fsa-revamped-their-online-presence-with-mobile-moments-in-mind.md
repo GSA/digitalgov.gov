@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - FAFSA
-  - federal-student-aid
   - mobile
   - mobile
   - mobile

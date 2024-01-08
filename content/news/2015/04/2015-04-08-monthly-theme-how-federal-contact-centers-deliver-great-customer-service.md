@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - product-management
-  - monthly-theme
   - customer-experience
   - customer-experience
   - customer-experience

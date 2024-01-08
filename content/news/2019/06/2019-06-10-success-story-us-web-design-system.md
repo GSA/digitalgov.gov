@@ -21,7 +21,6 @@ topics:
   - design
   - user-experience
   - open-source
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

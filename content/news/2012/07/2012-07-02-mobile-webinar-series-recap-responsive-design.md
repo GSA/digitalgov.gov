@@ -7,9 +7,6 @@ topics:
   - code
   - design
   - mobile
-  - mobile
-  - recaps
-  - mobile
 ---
 
 Some agencies are turning to responsive design to support device-agnostic content delivery which was called for in the recently released [Digital Innovation Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Last week, GSA&#8217;s Mobile Program Management Office held a responsive design webinar in conjunction with DigitalGov University outlining agency experiences with responsive design.

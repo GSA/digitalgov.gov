@@ -7,7 +7,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - our-work
   - user-experience
   - Defense Finance and Accounting Services
   - mobile

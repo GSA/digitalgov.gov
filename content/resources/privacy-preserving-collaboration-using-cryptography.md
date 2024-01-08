@@ -7,7 +7,6 @@ summary: In conjunction with her May 2020 presentation, Dr. Emily Shen outlines
   allows parties to jointly analyze their data without disclosing it.
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - privacy
   - security
 

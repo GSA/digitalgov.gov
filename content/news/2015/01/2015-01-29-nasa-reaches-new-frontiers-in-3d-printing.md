@@ -7,12 +7,8 @@ authors:
   - awichman
 topics:
   - code
-  - monthly-theme
   - challenges-and-prize-competitions
-  - nasa
-  - national-institutes-of-health
-  - nih
-  - small-business-innovation-research
+  - emerging-tech  
 ---
 
 {{< legacy-img src="2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}}

@@ -11,7 +11,6 @@ topics:
   - product-management
   - content-strategy
   - software-engineering
-  - policy
   - agile
   - project-management
   - user-centered-design

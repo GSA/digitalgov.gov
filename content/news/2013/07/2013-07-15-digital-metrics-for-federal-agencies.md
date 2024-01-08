@@ -7,7 +7,6 @@ authors:
   - marina-fox
 topics:
   - analytics
-  - our-work
   - customer-experience
   - mobile
   - social-media

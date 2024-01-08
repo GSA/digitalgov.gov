@@ -7,8 +7,6 @@ authors:
   - rebecca-williams
 topics:
   - code
-  - data
-  - monthly-theme
   - open-data
 ---
 

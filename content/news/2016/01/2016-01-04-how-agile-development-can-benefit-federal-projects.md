@@ -6,8 +6,6 @@ summary: 'Agile methods help agencies deliver projects and products more efficie
 authors:
   - awichman
 topics:
-  - our-work
-  - 18f
   - agile
   - professional-development
   - us-department-of-state

@@ -7,10 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - content-strategy
-  - our-work
   - application-programming-interface
-  - usagov
-
 ---
 
 {{< legacy-img-right src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}

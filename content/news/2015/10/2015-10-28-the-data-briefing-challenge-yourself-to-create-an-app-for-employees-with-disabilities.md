@@ -6,7 +6,6 @@ summary: Have you worked with an employee with a disability? Are you an employee
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
   - monthly-theme
   - accessibility

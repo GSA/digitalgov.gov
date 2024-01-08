@@ -13,7 +13,6 @@ end_date: 2021-05-20 15:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - diversity-equity-and-inclusion
   - digital-service-delivery
   - design

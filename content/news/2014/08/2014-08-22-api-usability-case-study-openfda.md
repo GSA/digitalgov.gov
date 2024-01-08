@@ -12,8 +12,6 @@ topics:
   - user-experience
   - application-programming-interface
   - digitalgov-user-experience-program
-  - fda
-  - us-food-and-drug-administration
   - usability-testing
 ---
 

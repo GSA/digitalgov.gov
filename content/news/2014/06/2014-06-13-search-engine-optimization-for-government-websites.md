@@ -10,7 +10,6 @@ topics:
   - analytics
   - our-work
   - search
-  - recaps
   - search-engine-optimization
 ---
 

@@ -6,7 +6,6 @@ summary: 'The demand for more automated, self-service access to United States pu
 authors:
   - jherman
 topics:
-  - communities
   - emerging-tech
   - product-management
   - our-work
@@ -14,7 +13,6 @@ topics:
   - communities
   - gsa
   - innovation
-  - Office of Products and Programs
   - social-media
   - socialgov
   - socialgov-community

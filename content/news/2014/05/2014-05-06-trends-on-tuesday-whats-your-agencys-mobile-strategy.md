@@ -7,10 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - monthly-theme
-  - mobile
-  - mobile
-  - emerging-tech
 ---
 
 {{< legacy-img src="2014/05/250-x-200-The-road-to-success-maze-Lihua-Peng-iStock-Thinkstock-119450780.jpg" alt="The road to success depicted as a maze. Photo credit: Lihua Peng/iStock/Thinkstock" >}}Here’s a statistic that might surprise you: [28% of Chief Information Officer (CIO)s](http://www.mobilemarketingwatch.com/report-many-companies-still-clueless-on-mobile-40516/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) in the private sector admitted in a survey they don&#8217;t have a plan for mobile technology. They cited compliance issues as a factor preventing their organizations from taking the necessary first step.

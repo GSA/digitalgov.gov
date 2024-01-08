@@ -12,7 +12,6 @@ topics:
   - 18f
   - design
   - user-centered-design
-  - VA
 ---
 
 Since [our launch](https://18f.gsa.gov/2015/09/28/web-design-standards/) of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through [GitHub issues](https://github.com/18F/web-design-standards/issues) and via email. We’ve received dozens of [feature requests](https://github.com/18F/web-design-standards/issues?q=is%3Aopen+is%3Aissue+label%3A%22feature+request%22) as well as over 400 contributions from the open source community.

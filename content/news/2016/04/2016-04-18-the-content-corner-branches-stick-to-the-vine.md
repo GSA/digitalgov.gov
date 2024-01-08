@@ -8,16 +8,11 @@ authors:
 topics:
   - content-strategy
   - accessibility
-  - DOE
-  - firstnet
-  - National Weather Service
-  - NWS
   - social-media
   - socialgov
   - content-strategy
   - us-digital-service
   - united-states-department-of-energy
-  - USDS
   - user-experience
 
 ---

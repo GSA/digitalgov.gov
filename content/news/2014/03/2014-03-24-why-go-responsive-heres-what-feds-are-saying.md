@@ -7,13 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - fema
-  - mobile
-  - mobile
-  - mobile
-  - recaps
-  - mobile
-  - us-department-of-education
 ---
 
 <p style="text-align: center">

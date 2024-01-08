@@ -9,7 +9,6 @@ topics:
   - product-management
   - mobile
   - social-media
-  - Federal Trade Commission
   - emerging-tech
 ---
 

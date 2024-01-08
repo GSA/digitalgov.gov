@@ -9,7 +9,6 @@ topics:
   - challenges
   - mobile
   - apps-challenges
-  - Census
   - challenges-and-prize-competitions
   - epa
   - national-institute-of-standards-and-technology

@@ -8,8 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - digitalgov-user-experience-program
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - usability-testing
   - user-experience
 ---

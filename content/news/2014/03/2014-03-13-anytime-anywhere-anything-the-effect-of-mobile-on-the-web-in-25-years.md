@@ -7,17 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Census
-  - content-strategy
-  - DOL
   - emerging-tech
-  - mobile
-  - NOAA
   - content-strategy
-  - mobile
-  - US Customs and Border Protection
-  - us-department-of-labor
-  - USDA
 ---
 
 <p>

@@ -12,7 +12,6 @@ topics:
   - BLS
   - Census
   - content-strategy
-  - data
   - open-data
   - content-strategy
   - us-bureau-of-labor-statistics

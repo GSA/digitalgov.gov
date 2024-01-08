@@ -9,7 +9,6 @@ topics:
   - data
   - analytics
   - analytics
-  - data
   - data-gov
   - analytics
 ---

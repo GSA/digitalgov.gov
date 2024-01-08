@@ -7,8 +7,6 @@ authors:
   - apiazza
 topics:
   - challenges
-  - monthly-theme
-  - CFPB
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
@@ -16,9 +14,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - nasa
   - open-source
-  - OSTP
-  - recaps
-  - white-house-office-of-science-and-technology-policy
 
 ---
 

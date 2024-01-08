@@ -23,7 +23,6 @@ topics:
   - multilingual
   - search
   - search-engine-optimization
-  - uswds
   - plain-language
   - social-media
   - communication
@@ -31,7 +30,6 @@ topics:
   - analytics
   - privacy
   - security
-  - policy
   - accessibility
   - governance
   - mobile

@@ -7,12 +7,10 @@ authors:
   - tlowden
 topics:
   - challenges
-  - monthly-theme
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - innovation
-  - recaps
 
 ---
 

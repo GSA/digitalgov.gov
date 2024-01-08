@@ -8,7 +8,6 @@ authors:
   - dmccleskey
 topics:
   - code
-  - data
   - product-management
   - monthly-theme
   - our-work

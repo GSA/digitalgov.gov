@@ -15,7 +15,6 @@ topics:
   - content-strategy
   - customer-experience
   - professional-development
-  - training
   - user-experience
   - communication
   - plain-language

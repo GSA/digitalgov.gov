@@ -8,7 +8,6 @@ authors:
   - jonathan-rubin
 
 topics:
-  - monthly-theme
   - social-media
   - multimedia
   - communication

@@ -24,7 +24,6 @@ topics:
   - search-engine-optimization
   - security
   - seo
-  - training
   - usability
   - user-experience
   - research

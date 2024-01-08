@@ -8,7 +8,6 @@ authors:
 topics:
   - code
   - mobile
-  - our-work
   - accessibility
   - application-programming-interface
   - mobile

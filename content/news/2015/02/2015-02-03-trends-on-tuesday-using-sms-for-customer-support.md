@@ -8,8 +8,6 @@ authors:
   - kdaniel
 topics:
   - mobile
-  - cdc
-  - centers-for-disease-control-and-prevention
   - government-contact-centers
   - mobile
   - emerging-tech

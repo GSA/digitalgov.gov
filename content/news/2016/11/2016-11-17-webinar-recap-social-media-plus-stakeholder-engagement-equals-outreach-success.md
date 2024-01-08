@@ -12,7 +12,6 @@ topics:
   - user-experience
   - cdc
   - multilingual
-  - recaps
   - social-media
   - usagov
   - research

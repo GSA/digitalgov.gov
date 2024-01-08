@@ -8,11 +8,9 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - monthly-theme
   - social-media
   - user-experience
   - customer-experience
-  - firstnet
   - social-media
   - content-strategy
 ---

@@ -9,8 +9,6 @@ authors:
 topics:
   - application-programming-interface
   - software-engineering
-  - data
-  - monthly-theme
   - agile
   - application-programming-interface
   - dhs

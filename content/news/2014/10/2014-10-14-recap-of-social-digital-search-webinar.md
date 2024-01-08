@@ -12,10 +12,6 @@ topics:
   - social-media
   - multimedia
   - search
-  - federal-register
-  - National Library of Medicine
-  - NLM
-  - recaps
   - socialgov-community
 ---
 

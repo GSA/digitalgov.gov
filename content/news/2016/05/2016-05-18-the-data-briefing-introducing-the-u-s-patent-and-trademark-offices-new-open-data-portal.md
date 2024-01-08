@@ -14,7 +14,6 @@ topics:
   - Commerce
   - data
   - data-visualization
-  - department-of-commerce
   - open-data
   - emerging-tech
   - us-bureau-of-labor-statistics

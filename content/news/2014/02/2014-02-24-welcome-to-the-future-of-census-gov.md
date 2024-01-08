@@ -10,8 +10,6 @@ topics:
   - content-strategy
   - product-management
   - mobile
-  - application-programming-interface
-  - Census
 ---
 
 [{{< legacy-img src="2014/02/Census-Bureau-blog-logo-250x166.jpg" alt="Images of people shaped to form the United States map" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Census-Bureau-blog-logo.jpg)If you have ever visited census.gov, you know that sorting through the vast array of information about America’s people, places and economy can be daunting.

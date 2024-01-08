@@ -12,7 +12,6 @@ topics:
   - content-strategy
   - policy
   - content-strategy
-  - kids-gov
   - social-media
   - usa-gov
 

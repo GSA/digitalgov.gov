@@ -14,7 +14,7 @@ topics:
   - application-programming-interface
 ---
 
-{{< legacy-img src="2014/10/250-x-188-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}} 
+{{< legacy-img src="2014/10/250-x-188-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}}
 
 Glad to be back after a three-week absence. I was preparing for the South Eastern Conference on Public Administration held in Atlanta this year. Great conversations and I can tell you that the academic community is hungry for more government data and APIs. A great example is this week’s API Briefing: the U.S. National Library of Medicine&#8217;s TOXNET Web Service.
 

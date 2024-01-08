@@ -11,8 +11,7 @@ topics:
   - content-strategy
   - design
   - mobile
-  - communication
-  - usagov
+  - commmunication
 
 ---
 

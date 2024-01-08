@@ -10,7 +10,6 @@ date: 2021-01-21 14:30:00 -0500
 end_date: 2021-01-21 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - design
   - digital-service-delivery
   - user-centered-design

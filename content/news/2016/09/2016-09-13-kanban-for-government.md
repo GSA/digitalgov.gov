@@ -12,9 +12,6 @@ topics:
   - agile
   - agile-lean-community-of-practice
   - kanban
-  - OCSIT
-  - office-of-citizen-services-and-innovative-technology
-  - office-of-products-and-programs
   - workflows
 ---
 

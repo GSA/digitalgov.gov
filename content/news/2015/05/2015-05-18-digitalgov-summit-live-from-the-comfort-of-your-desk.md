@@ -37,7 +37,7 @@ For our Summit this Thursday, we have an amazing line up of speakers and [YOU ca
 Live stream participants will also hear exclusive content:
 
   * Bernetta Reese, Web and Project Manager for the U.S. Department of Agriculture, will conduct live “red carpet” interviews with [Expo exhibitors](https://web.archive.org/web/20150706193127/https://summit.digitalgov.gov/expo/) and [Summit speakers](https://web.archive.org/web/20150706193121/https://summit.digitalgov.gov/speakers/).
-  * Exclusive interviews will be held on: 
+  * Exclusive interviews will be held on:
       * [Open and Structured Content Modeling]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}} "Structured Content in Government: How HHS and NCI Are Getting Started") at the Department of Health and Human Services with Sally Dadjou, Public Affairs Specialist for HHS.
       * [The Public Participation Playbook](https://participation.usa.gov/) with Justin Herman, Federal-wide Social Media Program Lead at GSA.
 

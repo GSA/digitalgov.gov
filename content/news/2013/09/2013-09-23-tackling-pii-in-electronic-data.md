@@ -8,10 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - content-strategy
-  - policy
   - privacy
-  - social-media
 ---
 
 <p>

@@ -16,7 +16,6 @@ topics:
   - digital-service-delivery
   - content-strategy
   - customer-experience
-  - uswds
   - user-experience
 
 # see all authors at https://digital.gov/authors

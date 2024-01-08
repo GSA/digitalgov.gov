@@ -7,8 +7,6 @@ authors:
   - lisa-gelobter
 topics:
   - code
-  - data
-  - 18f
   - agile
   - application-programming-interface
   - data
@@ -17,7 +15,6 @@ topics:
   - us-department-of-education
   - us-digital-service
   - user-experience
-  - usds
 
 ---
 

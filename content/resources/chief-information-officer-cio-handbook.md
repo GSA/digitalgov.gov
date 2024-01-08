@@ -7,7 +7,7 @@ summary: This handbook aims to give CIOs important information needed to be a
   technology leader at their respective agency.
 # See all topics at https://digital.gov/topics
 topics:
-  - policy
+  - product-and-project-management
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

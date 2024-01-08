@@ -9,7 +9,6 @@ authors:
   - eric-mill
   - colin-craig
 topics:
-  - data
   - product-management
   - analytics
   - our-work

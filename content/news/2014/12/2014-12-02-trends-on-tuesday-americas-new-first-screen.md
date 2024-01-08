@@ -7,7 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - BLS
   - mobile
   - emerging-tech
   - us-bureau-of-labor-statistics

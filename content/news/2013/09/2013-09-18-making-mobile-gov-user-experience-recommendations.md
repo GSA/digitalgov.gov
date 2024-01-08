@@ -7,13 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - DOL
-  - mobile
-  - mobile
-  - nih
-  - us-department-of-labor
   - user-experience
-  
 ---
 
 ### How We Did It
@@ -39,6 +33,6 @@ The conversation on mobile user experience is not finished with just IA. It’s 
 First, [take a look at the recommendations]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}} "Mobile User Experience Guidelines and Recommendations"). They are meant to evolve as this fast moving technology evolves. Let us know what&#8217;s missing. Tell us how we can be clearer. Share your UX tips in the comment section of the recommendations page.
 
 Then, check out the discussion with the folks from NIH, Department of Labor and the State Department who led this effort in the webinar below.[
-  ](http://www.howto.gov/training/classes/mobile-user-experience-recommendations-and-guidelines-panel) 
+  ](http://www.howto.gov/training/classes/mobile-user-experience-recommendations-and-guidelines-panel)
 
 [youtube=http://www.youtube.com/watch?v=DPQ8Yob3Z9U&w=600]

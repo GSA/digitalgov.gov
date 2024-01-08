@@ -9,13 +9,11 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - our-work
   - social-media
   - content-strategy
   - policy
   - analytics
   - content-strategy
-  - gsa
   - open-source
   - mobile
   - sitesusagov

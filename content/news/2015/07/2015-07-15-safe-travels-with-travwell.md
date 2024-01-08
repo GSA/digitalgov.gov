@@ -8,7 +8,6 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  - cdc
   - ios
   - mobile
   - mobile

@@ -17,7 +17,6 @@ topics:
   - gsa
   - acquisition
   - plain-language
-  - us-general-services-administration
   - user-experience
 ---
 

@@ -6,8 +6,6 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 topics:
   - application-programming-interface
   - mobile
-  - application-programming-interface
-  - cdc
   - content-strategy
 ---
 

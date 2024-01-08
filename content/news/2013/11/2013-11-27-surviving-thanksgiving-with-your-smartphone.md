@@ -7,13 +7,6 @@ authors:
   - genevieve-contey
 topics:
   - mobile
-  - HHS
-  - mobile
-  - mobile
-  - nasa
-  - nih
-  - mobile
-  - TSA
 ---
 
 Oh, Thanksgiving!

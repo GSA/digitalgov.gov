@@ -10,8 +10,6 @@ topics:
   - content-strategy
   - policy
   - budgeting-and-performance
-  - Office of Management and Budget
-  - OMB
 ---
 
 > **Summary**: We&#8217;re taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the government&#8217;s overall IT security posture.

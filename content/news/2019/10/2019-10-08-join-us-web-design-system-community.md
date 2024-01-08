@@ -21,8 +21,6 @@ topics:
   - accessibility
   - code
   - design
-  - communities
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

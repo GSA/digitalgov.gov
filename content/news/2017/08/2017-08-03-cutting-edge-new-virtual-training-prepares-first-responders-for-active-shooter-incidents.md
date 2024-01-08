@@ -16,7 +16,6 @@ topics:
   - content-strategy
   - research
   - Security
-  - Training
   - united-states-army
   - united-states-department-of-homeland-security
   - multimedia

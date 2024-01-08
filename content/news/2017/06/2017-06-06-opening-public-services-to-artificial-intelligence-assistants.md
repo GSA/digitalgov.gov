@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - emerging-tech
   - product-management
-  - our-work
   - user-experience
   - artificial-intelligence
   - customer-experience

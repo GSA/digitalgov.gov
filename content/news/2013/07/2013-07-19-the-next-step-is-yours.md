@@ -7,9 +7,7 @@ authors:
   - sally-bourrie
 topics:
   - code
-  - data
   - data-gov
-  - GitHub
   - open-data
   - open-source
 ---

@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile
   - top-tasks
-  - us-department-of-labor
+  
   - usability-testing
   - user-experience
   

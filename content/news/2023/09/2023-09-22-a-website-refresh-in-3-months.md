@@ -13,7 +13,6 @@ summary: A website redesign doesn't have to be a big project. By approaching it
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - uswds
   - research
 slug: a-website-refresh-in-3-months
 # Controls how this page appears across the site

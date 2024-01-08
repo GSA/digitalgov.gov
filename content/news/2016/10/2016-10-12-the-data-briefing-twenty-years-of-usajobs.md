@@ -6,7 +6,6 @@ summary: I recently sat down with Michelle Earley, Program Manager, to discuss t
 authors:
   - bbrantley
 topics:
-  - data
   - product-management
   - analytics
   - content-strategy

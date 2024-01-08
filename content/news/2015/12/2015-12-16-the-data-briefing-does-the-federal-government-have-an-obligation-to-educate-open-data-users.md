@@ -10,8 +10,8 @@ topics:
   - application-programming-interface
   - data
   - data-visualization
-  - DOL
-  - HHS
+  
+  
   - open-data
   - emerging-tech
   - us-department-of-labor

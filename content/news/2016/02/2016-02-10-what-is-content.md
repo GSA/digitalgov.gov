@@ -25,7 +25,7 @@ Everything is content, not just words on a website. The federal agencies we comm
 
 All of it is content and all of it is—or can be—effective at communicating, depending on how it is deployed and what the audience is. The true value of content is how people will engage with it.
 
-[This month, on DigitalGov]({{< ref "/topics/monthly-theme" >}}), we’re going to take a look at the power of our federal content, specifically:
+This month, on DigitalGov, we’re going to take a look at the power of our federal content, specifically:
 
   * A [case study in content syndication success]({{< ref "2016-02-04-does-content-syndication-work.md" >}})
   * How [FEMA and others are providing location-aware content]({{< ref "2016-02-08-the-content-corner-location-aware-content.md" >}}) to deliver the content users need where they need it

@@ -11,7 +11,6 @@ topics:
   - code
   - content-strategy
   - crowdsourcing-and-citizen-science
-  - data
   - governance
   - product-management
   - mobile
@@ -20,7 +19,6 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - code
-  - data
   - innovation
   - mobile
   - nasa

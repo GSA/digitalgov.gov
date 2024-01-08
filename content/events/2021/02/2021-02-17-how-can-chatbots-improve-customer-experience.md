@@ -14,10 +14,10 @@ topics:
   - customer-experience
   - digital-service-delivery
   - artificial-intelligence
-  - 10x
 # See all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
+  - janis-e-burl
   - abraham-marinez
   - marietta-jelks
   - ""

@@ -9,7 +9,6 @@ summary: Use GSA’s IT Accessibility Policy Framework to update digital accessi
 topics:
   - accessibility
   - governance
-  - policy
   - usability
   - user-experience
   - content-strategy

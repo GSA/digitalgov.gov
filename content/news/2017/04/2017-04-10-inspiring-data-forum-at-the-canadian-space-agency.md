@@ -11,13 +11,6 @@ topics:
   - data
   - application-programming-interface
   - apps-challenges
-  - data
-  - nasa
-  - National Aeronautics and Space Administration
-  - open
-  - open-data
-  - open-government
-  - open-source
 ---
 
 Last [month], <a href="https://www.fedscoop.com/fedscoops-top-women-in-tech-2017-beth-beck/" target="_blank">NASA Open Innovation Program Manager Dr. Beth Beck</a> and her team traveled to the <a href="http://www.asc-csa.gc.ca/eng/default.asp" target="_blank">Canadian Space Agency (CSA)</a> near Montreal, Canada to attend the _Inspiring Data Forum_ graciously hosted by our <a href="http://open.canada.ca/en/open-data?_ga=1.93334933.946068400.1489603072" target="_blank">Open Data neighbors to the North</a>. The goal of this gathering was to bolster the working relationship between the two Space Agency’s Open Data efforts and to present techniques NASA is doing in Open Innovation. The event was heavily attended by CSA employees and also had participants from National Research Council of Canada, Treasury Board Secretariat, Natural Resources Canada, Agricultural and Agri-Food Canada, MaxQ and Social Sciences & Humanities Research Council of Canada. {{< legacy-img src="2017/04/600-x-185-Canadian-Space-Agency-CSA.jpg" alt="Canadian Space Agency (CSA) logo on equipment" caption="" >}} 

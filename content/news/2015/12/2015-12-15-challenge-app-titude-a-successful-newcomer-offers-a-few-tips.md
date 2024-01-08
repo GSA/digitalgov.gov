@@ -7,7 +7,6 @@ authors:
   - heather-evans
 topics:
   - challenges
-  - monthly-theme
   - challenge-gov
   - challenges-and-prize-competitions
   - data-gov
