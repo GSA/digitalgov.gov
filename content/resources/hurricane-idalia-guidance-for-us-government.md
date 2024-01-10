@@ -50,11 +50,11 @@ Federal agencies with a role in the response effort should stand up an `agency.g
 1. What DHS and Federal Emergency Management Agency (FEMA) are doing
 2. What the U.S. government is doing
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 When distributing materials related to Hurricane Idalia, please include links to these two lanes on all materials.
 {{< /note >}}
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 When posting information to your agency website, please only post information related to your individual agency. Then, link to the authoritative information from other government agencies that is related to your agency mission or “lane.” Do NOT copy and paste content from other agencies or websites onto your site.
 {{< /note >}}
 
@@ -76,7 +76,7 @@ FEMA has established a landing page on FEMA.gov with the latest information from
 
 GSA has created a landing page on USA.gov for government-wide information related to Hurricane Idalia activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email usagovemergency@gsa.gov and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/hurricane-idalia](https://www.usa.gov/hurricane-idalia), and the Spanish page is at [https://www.usa.gov/es/huracan-idalia](https://www.usa.gov/es/huracan-idalia).
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 Send the title and URL for any Hurricane Idalia related materials posted on your agency website to usagovemergency@gsa.gov.
 {{< /note >}}
 
@@ -98,10 +98,10 @@ Local resources:
 * [Georgia Emergency Management and Homeland Security Agency Facebook](https://www.facebook.com/GeorgiaEMAHS)
 * [@GeorgiaEMAHS Twitter](https://twitter.com/GeorgiaEMAHS)
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 Follow and retweet the above accounts from your agency social media accounts as appropriate.
 {{< /note >}}
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov.
 {{< /note >}}

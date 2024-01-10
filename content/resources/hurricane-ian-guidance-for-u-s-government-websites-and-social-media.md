@@ -53,11 +53,11 @@ Federal agencies with a role in the response effort should stand up an `agency.g
 2. What the U.S. Government Is Doing
 
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 When distributing materials related to Hurricane Ian, please include links to these two lanes on all materials.
 {{< /note >}}
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 When posting information to your agency website, please only post information related to your individual agency. Then, link to the authoritative information from other government agencies that is related to your agency mission or ”lane.” Do NOT copy and paste content from other agencies or websites onto your site.
 {{< /note >}}
 
@@ -79,7 +79,7 @@ FEMA has established a landing page on FEMA.gov with the latest information from
 
 GSA has created a landing page on USA.gov for government-wide information related to Hurricane Ian activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email usagovemergency@gsa.gov and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/hurricane-ian](https://www.usa.gov/hurricane-ian), and the Spanish page is at [https://www.usa.gov/espanol/huracan-ian](https://www.usa.gov/espanol/huracan-ian).
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 Send the title and URL for any Hurricane Ian related materials posted on your agency website to usagovemergency@gsa.gov.
 {{< /note >}}
 
@@ -94,10 +94,10 @@ Follow the following handles and retweet and share information relevant to your 
 * [FEMA Facebook en Español](https://www.facebook.com/FEMAespanol/)
 * [@NHC_Atlantic](https://twitter.com/NHC_Atlantic) – National Hurricane Center
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 Follow and retweet the above accounts from your agency social media accounts as appropriate.
 {{< /note >}}
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov.
 {{< /note >}}
