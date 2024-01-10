@@ -23,7 +23,7 @@ As diversity guild co-leads in the Technology Transformation Services (TTS), one
 
 To commemorate Veterans Day this year, we asked veterans currently working across TTS if they’d like to reflect on their previous and current service. Volunteers from our veterans affinity group organized a week-long Slack takeover and shared their responses to the question “Why do I continue to serve?” We’re pleased to share their responses below:
 
-{{< note "comment" >}}{{< img-right src="tom-black-veterans-day-2021-600" >}}
+{{< note variant="comment" >}}{{< img-right src="tom-black-veterans-day-2021-600" >}}
 
 
 "I learned a great deal about the importance of service and what it meant to me while in the U.S. Navy. But after my military service ended, I thought that was also the end of my career in public service. I still wanted to find ways to strengthen our country, and use my technology and entrepreneurial skills to do so, but I didn't know how exactly.
@@ -32,7 +32,7 @@ Fortunately, I learned about the Presidential Innovation Fellows and was selecte
 
 &mdash; **Tom Black**, TTS Strategic Partnerships{{< /note >}}
 
-{{< note "comment" >}}{{< img-right src="anil-chaudry-veterans-day-2021-600" >}}
+{{< note variant="comment" >}}{{< img-right src="anil-chaudry-veterans-day-2021-600" >}}
 
 "I moved from India to New York in 1989, and our first apartment was in what is colloquially known as &#34;the inner city.&#34; My school had metal detectors at all the entrances and all the windows were barred. Our career center gave us practical advice, such as trade school programs, but not much more. There were no white collar internships&mdash;only service and factory jobs we could get after school and over the summer. Community college was all that most of me and my peers aspired to because that is all we knew.
 
@@ -44,7 +44,7 @@ I never thought that I would spend most of my adult life in public service but I
 
 &mdash; **Anil Chaudry**, Centers of Excellence{{< /note >}}
 
-{{< note "comment" >}}{{< img-right src="pif-george-chewning-600" >}}
+{{< note variant="comment" >}}{{< img-right src="pif-george-chewning-600" >}}
 
 "One of the most controversial phrases in the Veteran community is, &#34;Thank you for your service.&#34; The utterance is seen as representing both sincere gratitude and an absence of understanding. It is an imperfect distillation of a well of emotion and a casual greeting. Most Veterans will just say thanks and continue on their way, but this Veterans Day, one of the nagging questions I know a lot of the Veterans of my generation have is, &#34;Did my service matter?&#34;
 
@@ -52,7 +52,7 @@ For me, having the privilege of supporting the people that come to work every da
 
 &mdash; **George Chewning**, Presidential Innovation Fellow{{< /note >}}
 
-{{< note "comment" >}}{{< img-right src="adrianna-valenti-veterans-day-2021-600" >}}
+{{< note variant="comment" >}}{{< img-right src="adrianna-valenti-veterans-day-2021-600" >}}
 
 "It’s so easy to overthink the &#34;Why?,&#34; especially when you constantly get asked why you do what you do. Sometimes it makes you second guess your decisions, but as far as why I continue to serve not only as a government employee, but also as a part of the military, it’s easy. I do not have a fancy answer, I just like it. If you know me, you’d be surprised by this answer. I enjoy analyzing the &#34;whys&#34; of what I do, but the desire to serve is natural. Of course, that doesn’t mean it is easy. In fact, it’s incredibly difficult, ultimately frustrating, and increasingly draining, but it is what it is, we have to fight through it because it’s worth it.
 
