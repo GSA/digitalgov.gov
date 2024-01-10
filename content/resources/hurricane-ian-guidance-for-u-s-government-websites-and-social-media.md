@@ -35,7 +35,7 @@ primary_image: "card-hurricane-ian-guidance"
 
 ---
 
-{{< note "alert" >}} Atlantic hurricane season ended 11/30/2022. This page has been archived. {{< /note >}}
+{{< note variant="alert" >}} Atlantic hurricane season ended 11/30/2022. This page has been archived. {{< /note >}}
 
 In response to Hurricane Ian, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of Federal web and social media communications related to this incident.
 
