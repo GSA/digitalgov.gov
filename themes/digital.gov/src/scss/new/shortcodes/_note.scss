@@ -59,16 +59,13 @@
       @include u-margin-bottom(2);
     }
   }
-}
-
-// For notes within list items
+  // For notes within list items
 li .note {
   @include u-padding-y("05");
   @include u-padding-x(1);
 }
-
-// Activities  — color settings
-.note.activity {
+  // Activities  — color settings
+  &--activity {
   @include u-bg("orange-warm-5");
   @include u-text("orange-warm-60");
   @include u-border-left("05", "solid", "orange-warm-30");
@@ -86,9 +83,8 @@ li .note {
     @include u-bg("orange-warm-10");
   }
 }
-
-// Activities  — color settings
-.note.alert {
+// Alert styles
+&--alert {
   @include u-bg("red-5");
   @include u-text("red-60v");
   @include u-border-left("05", "solid", "red-40v");
@@ -106,9 +102,8 @@ li .note {
     @include u-bg("red-10");
   }
 }
-
 // Comment — color settings
-.note.comment {
+&--comment {
   @include u-bg("blue-cool-10");
   @include u-text("blue-cool-70");
   @include u-border-left("05", "solid", "blue-cool-50");
@@ -137,9 +132,19 @@ li .note {
     @include u-font("serif", "lg");
   }
 }
-
-.dg-note--disclaimer {
+&--disclaimer {
   @include u-bg("gray-cool-3");
   @include u-text("gray-warm-90");
   @include u-border-left("05", "solid", "gray-cool-20");
 }
+}
+
+
+
+
+
+
+
+
+
+

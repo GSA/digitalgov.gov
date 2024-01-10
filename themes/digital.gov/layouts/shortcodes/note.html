@@ -1,22 +1,24 @@
 {{ $variant := (.Get "variant") }}
 {{ $icon := "" }}
 
-{{ if eq $variant "Activity" }}
+{{ if eq $variant "activity" }}
   {{ $icon = "assessment" }}
-{{ else if eq $variant "Action" }}
+{{ else if eq $variant "action" }}
   {{ $icon = "campaign" }}
-{{ else if eq $variant "Alert" }}
+{{ else if eq $variant "alert" }}
   {{ $icon = "report" }}
-{{ else if eq $variant "Comment" }}
+{{ else if eq $variant "comment" }}
   {{ $icon = "comment" }}
-{{ else if eq $variant "Video" }}
+{{ else if eq $variant "video" }}
   {{ $icon = "fast_forward" }}
-{{ else if eq $variant "Who can Join?" }}
+{{ else if eq $variant "join" }}
   {{ $icon = "groups" }}
-{{ else if eq $variant "Note" }}
+{{ else if eq $variant "note" }}
   {{ $icon = "notifications" }}
-{{ else if eq $variant "Disclaimer" }}
+{{ else if eq $variant "disclaimer" }}
   {{ $icon = "info" }}
+{{ else if eq $variant nil }}
+  {{ $icon = "notifications" }}
 {{ end }}
 
 {{- $iconPath := (printf "uswds/img/sprite.svg#%s" $icon) -}}
@@ -33,9 +35,13 @@
     >
       <use xlink:href="{{ $iconPath | relURL }}"></use>
     </svg>
-    {{ $variant }}
+    {{ if $variant }}
+      {{ $variant | title }}
+    {{ else }}
+      Note
+  {{ end }}
   </h4>
-  {{ if eq $variant "Disclaimer" }}
+  {{ if eq $variant "disclaimer" }}
     All references to specific brands, products, and/or companies are used only
     for illustrative purposes and do not imply endorsement by the U.S. federal
     government or any federal government agency.

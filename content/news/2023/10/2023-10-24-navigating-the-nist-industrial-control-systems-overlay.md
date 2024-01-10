@@ -54,35 +54,39 @@ NIST guidance can often be daunting to digest; the ICS guidebook is nearly 250 p
 
 *The EPA is not being represented by the author of this publication. The United States government and the EPA do not endorse any commercial or open-source products or services. Any reference to specific products, processes, or services by service mark, trademark, manufacturer, or otherwise is provided for informational purposes and does not constitute or imply their endorsement, recommendation, or favoring by the United States government and the EPA.*
 
-{{< note variant="Activity" >}}
+{{< note variant="activity" >}}
 Activity text goes here...
 {{< /note >}}
 
-{{< note variant="Action" >}}
+{{< note variant="action" >}}
 Action text goes here...
 {{< /note >}}
 
-{{< note variant="Alert" >}}
+{{< note variant="alert" >}}
 Alert text goes here...
 {{< /note >}}
 
-{{< note variant="Comment" >}}
+{{< note variant="comment" >}}
 Comment text goes here...
 {{< /note >}}
 
-{{< note variant="Video" >}}
+{{< note variant="video" >}}
 Video text goes here...
 {{< /note >}}
 
-{{< note variant="Who can Join?" >}}
+{{< note variant="join" >}}
 Group text goes here...
 {{< /note >}}
 
-{{< note variant="Note" >}}
+{{< note variant="note" >}}
 Note text goes here...
 {{< /note >}}
 
-{{< note variant="Disclaimer" >}}{{< /note >}}
+{{< note variant="disclaimer" >}}{{< /note >}}
+
+{{< note >}}
+checking empty one...
+{{< /note >}}
 
 
 
