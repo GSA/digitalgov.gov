@@ -10,7 +10,7 @@ primary_image: guide-site-scanning
 
 ---
 
-**Get Started**
+## Get Started
 
 The easiest way to begin accessing and using data from the Site Scanning program is to:
   1. Download the [primary CSV dataset](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.csv).
@@ -23,7 +23,7 @@ Then, start looking at the data and using it to generate insights and make data-
 
 Most data fields are straightforward. Review the [technical details](https://digital.gov/guides/site-scanning/technical-details/) if you want to dig deeper or pursue more sophisticated tasks.
 
-**Download the data**
+## Download the data
 
 The scan data is exported on a weekly basis. You can download it with live URLs only or all URLs.
 
@@ -39,11 +39,11 @@ The  full dataset includes scan data for all URLs that were scanned, regardless 
 * [Download the full CSV](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot-all.csv)
 * [Download the full JSON](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot-all.json)
 
-**Access the API**
+## Access the API
 
 The Site Scanning program provides an API that you can use to access all of the scan data. Visit the [Site Scanning API](https://open.gsa.gov/api/site-scanning-api/) page for documentation, including an API key registration.
 
-**Contact the Site Scanning team**
+## Contact the Site Scanning team
 
 If you have any questions, please email the Site Scanning team at [site-scanning@gsa.gov](mailto:site-scanning@gsa.gov).
 
