@@ -19,6 +19,7 @@ topics:
 slug: uswds-monthly-call-january-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: 2024-uswds-monthly-call-jan-title-card
 ---
 Join the U.S. Web Design System (USWDS) team as they continue to highlight accessibility by discussing the new component-based, plain language accessibility test pages and talk more about their development and phased rollout.
 
