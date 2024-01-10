@@ -192,7 +192,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
 
 - Ask your contact center and front-line staff which questions they’re asked most often
 - Document and share common questions
-    - [FAFSA Help](https://studentaid.gov/apply-for-aid/fafsa/filling-out/help#fafsa-help-topics) &#8211; ED
+    - [FAFSA Help](https://studentaid.gov/apply-for-aid/fafsa/filling-out/help) &#8211; ED
     - [Common Questions](http://portal.hud.gov/hudportal/HUD?src=/faqs) &#8211; Department of Housing and Urban Development (HUD)
     - [Frequently Asked Questions: Smoking & Tobacco Use](http://www.cdc.gov/tobacco/about/faq/index.htm) &#8211; CDC
 
