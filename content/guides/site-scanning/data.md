@@ -45,6 +45,6 @@ The Site Scanning program provides an API that you can use to access all of the 
 
 **Contact the Site Scanning team**
 
-If you have any questions, please email the Site Scanning team at [site-scanning@gsa.gov](site-scanning@gsa.gov).
+If you have any questions, please email the Site Scanning team at [site-scanning@gsa.gov](mailto:site-scanning@gsa.gov).
 
 They welcome your feedback, including suggestions for federal websites to add or remove from the [Federal Website Index](https://github.com/GSA/federal-website-index).
