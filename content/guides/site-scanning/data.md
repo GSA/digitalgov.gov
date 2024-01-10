@@ -27,13 +27,13 @@ Most data fields are straightforward. Review the [technical details](https://dig
 
 The scan data is exported on a weekly basis. You can download it with live URLs only or all URLs.
 
-**Primary dataset with live URLs only**
+## Primary dataset with live URLs only
 
 The primary dataset includes scan data for all live URLs only. In other words, it only includes the websites for which `Final URL - Live` has a value of `TRUE`. The dataset excludes machine-readable data files such as XML and JSON files.
 * [Download the primary CSV](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.csv)
 * [Download the primary JSON](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.json)
 
-**Full dataset with all URLs**
+## Full dataset with all URLs
 
 The  full dataset includes scan data for all URLs that were scanned, regardless of whether they are live or not. Some URLs may be inaccessible over the public internet, no longer live, or experiencing downtime.
 * [Download the full CSV](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot-all.csv)
