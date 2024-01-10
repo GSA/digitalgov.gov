@@ -16,7 +16,7 @@ topics:
 
 ---
 
-{{< note "alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
+{{< note variant="alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
 To request other free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/).{{< /note >}}
 
 E-books are great for one thing: reading on mobile devices. Their [reflowable](https://en.wikipedia.org/wiki/Reflowable_document) text adjusts to fit the reader’s smartphone, tablet, or e-reader in the type size the reader chooses. They are essential for reading on smartphones, and better than pdf’s for all but the biggest tablets.
