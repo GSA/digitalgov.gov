@@ -3,7 +3,7 @@
 source_url: https://blog.usa.gov/accessibility-testing-creating-digital-services-everyone-can-use
 source: usagov
 date: 2024-01-09 14:33:00 -0500
-title: Accessibility testing: Creating digital services everyone can use
+title: Accessibility testing creating digital services everyone can use
 deck: "Ensuring USA.gov and USAGov en Español remains accessible to everyone is
   a top priority, with accessibility testing ingrained in the development
   process. This involves evaluating the digital platforms for usability by
