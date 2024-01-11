@@ -14,7 +14,7 @@ deck: "Ensuring USA.gov and USAGov en Espanol remains accessible to everyone is
   testing methods, and adherence to accessibility guidelines, such as Web
   Content Accessibility Guidelines (WCAG), are pivotal in creating a more
   inclusive and equitable digital space. "
-summary: >
+summary: 
   Ensuring USA.gov and USAGov en Espanol remains accessible to everyone is a top
   priority, with accessibility testing ingrained in the development process.
   This involves evaluating the digital platforms for usability by individuals
