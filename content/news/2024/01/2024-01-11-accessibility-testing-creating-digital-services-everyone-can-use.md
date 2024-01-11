@@ -4,7 +4,7 @@ source_url: https://blog.usa.gov/accessibility-testing-creating-digital-services
 source: usagov
 date: 2024-01-09 14:33:00 -0500
 title: Accessibility testing creating digital services everyone can use
-deck: "Ensuring USA.gov and USAGov en Espanol remains accessible to everyone is
+deck: "Ensuring USA.gov and USAGov en Español remains accessible to everyone is
   a top priority, with accessibility testing ingrained in the development
   process. This involves evaluating the digital platforms for usability by
   individuals with various disabilities, spanning visual, auditory, physical,
@@ -15,7 +15,7 @@ deck: "Ensuring USA.gov and USAGov en Espanol remains accessible to everyone is
   Content Accessibility Guidelines (WCAG), are pivotal in creating a more
   inclusive and equitable digital space. "
 summary: 
-  Ensuring USA.gov and USAGov en Espanol remains accessible to everyone is a top
+  Ensuring USA.gov and USAGov en Español remains accessible to everyone is a top
   priority, with accessibility testing ingrained in the development process.
   This involves evaluating the digital platforms for usability by individuals
   with various disabilities, spanning visual, auditory, physical, cognitive, and
