@@ -80,7 +80,7 @@ The report is available at [designsystem.digital.gov/together](https://designsys
 
 **Slide 16:** We wanted to learn from the experience of our peers and collect and develop guidance that helps any government team provide fair, equitable, respectful, and inclusive experiences for broad, diverse audiences. Our team talked to over 35 people from over 20 government agencies and programs as a part of a project to help expand our guidance to support not just components, but the interactions these components support. Things like complex forms, creating a user profile, and language selection. 
 
-We published a report that talks about what we did and what we found. We launched a new patterns section on our website with comprehensive guidance for 17 interactions. And we released three new components to support these interactions. To read more about this, the best place to start is at the report itself, at [designsystem.digital.gov/together](https://designsystem.digital.gov/about/contribute/).
+We published a report that talks about what we did and what we found. We launched a new patterns section on our website with comprehensive guidance for 17 interactions. And we released three new components to support these interactions. To read more about this, the best place to start is at the report itself, at [designsystem.digital.gov/together](https://designsystem.digital.gov/together/)).
 
 **Slide 17:** And finally, here in December, bookending the year, we released the 1.0 version of USWDS Compile, completing a process we started in January! The colored panes around the cube are just a bit more colorful on this slide!
 
