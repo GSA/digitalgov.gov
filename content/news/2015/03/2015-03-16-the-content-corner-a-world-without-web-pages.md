@@ -6,7 +6,6 @@ summary: Imagine a world without Web pages, only intelligent, self-assembling ch
 authors:
   - tyrus-manuel
 topics:
-  - administrative-office-of-the-united-states-courts
   - content-strategy
   - search-engine-optimization
 ---

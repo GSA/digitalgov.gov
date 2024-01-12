@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - code
-  - product-management
+  - product-and-project-management
   - mobile
   - application-programming-interface
   - mobile

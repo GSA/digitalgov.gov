@@ -6,7 +6,7 @@ summary: 'Recently, Forrester Research analyst Leah Buley wrote a blog post and 
 authors:
   - ktrebon
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - user-experience
 ---

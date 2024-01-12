@@ -6,7 +6,7 @@ summary: 'As we move into 2016, here are 10 trends I foresee flourishing around 
 authors:
   - wsullivan
 topics:
-  - product-management
+  - product-and-project-management
   - emerging-tech
   - mobile
   - security

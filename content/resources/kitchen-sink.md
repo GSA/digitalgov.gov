@@ -7,7 +7,7 @@ deck: "DECK goes here"
 topics:
   - accessibility
   - design
-  - open-code
+  - software-engineering
   - cloud-and-infrastructure
 authors:
   - jeremyzilar

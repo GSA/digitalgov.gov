@@ -7,7 +7,7 @@ authors:
   - v-david-zvenyach
 topics:
   - code
-  - product-management
+  - product-and-project-management
   - open-source
 ---
 

@@ -9,7 +9,7 @@ authors:
   - lgodfrey
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - customer-experience
   - multilingual
 primary_image: "habla-espanol-maridav-istock-getty-images-plus-142396534"

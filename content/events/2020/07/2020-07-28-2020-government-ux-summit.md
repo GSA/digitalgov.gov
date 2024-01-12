@@ -22,7 +22,7 @@ topics:
   - agile
   - usability
   - design
-  - product-management
+  - product-and-project-management
   - project-management
   - user-experience
   - research

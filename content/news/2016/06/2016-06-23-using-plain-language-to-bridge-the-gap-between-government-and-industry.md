@@ -7,7 +7,7 @@ authors:
   - ryan-sibley
 topics:
   - product-and-project-management
-  - product-management
+  - product-and-project-management
   - content-strategy
   - cloud-and-infrastructure
   - acquisition

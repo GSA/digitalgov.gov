@@ -13,7 +13,7 @@ authors:
   - ammie-farraj-feijoo
 
 topics:
-  - product-management
+  - product-and-project-management
   - digital-service-delivery
 
 ---

@@ -9,7 +9,7 @@ topics:
   - code
   - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - user-experience
   - code

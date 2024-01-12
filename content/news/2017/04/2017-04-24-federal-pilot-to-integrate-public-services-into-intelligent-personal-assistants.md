@@ -9,7 +9,6 @@ topics:
   - emerging-tech
   - product-and-project-management
   - artificial-intelligence
-  - communities
   - innovation
   - social-media
   - multimedia

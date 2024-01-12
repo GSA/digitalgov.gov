@@ -7,7 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - analytics
   - search
 ---

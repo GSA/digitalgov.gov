@@ -7,7 +7,7 @@ authors:
   - jeff-woodworth
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - mobile
 ---
 

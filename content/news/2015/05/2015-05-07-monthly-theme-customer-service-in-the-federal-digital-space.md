@@ -7,7 +7,7 @@ authors:
   - jparcell
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - customer-experience
   - customer-experience

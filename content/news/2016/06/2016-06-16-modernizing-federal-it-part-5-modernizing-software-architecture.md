@@ -7,7 +7,7 @@ authors:
   - rob-klopp
 topics:
   - software-engineering
-  - product-management
+  - product-and-project-management
   - content-strategy
   - cloud-and-infrastructure
 ---

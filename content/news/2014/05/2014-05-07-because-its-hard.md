@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - content-strategy
   - customer-experience
-  - product-management
+  - product-and-project-management
   - innovation
   - mobile
   - user-experience

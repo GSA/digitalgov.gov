@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - product-management
+  - product-and-project-management
   - accessibility
   - analytics
   - search

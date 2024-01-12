@@ -8,7 +8,7 @@ authors:
   - kaitlin-devine
 
 topics:
-  - product-management
+  - product-and-project-management
   - content-strategy
   - software-engineering
   - agile

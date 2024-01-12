@@ -19,7 +19,7 @@ end_date: 2018-06-08 13:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - emerging-tech
-  - product-management
+  - product-and-project-management
   - budgeting-and-performance
   - rpa
 

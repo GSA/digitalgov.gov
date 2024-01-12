@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - devops
-  - product-management
+  - product-and-project-management
   - emerging-tech
 
 ---

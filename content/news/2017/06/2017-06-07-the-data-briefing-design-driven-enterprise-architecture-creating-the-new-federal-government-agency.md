@@ -10,7 +10,6 @@ topics:
   - open-data
   - product-and-project-management
   - content-strategy
-  - policy
   - information-architecture
   - best-practices
   - emerging-tech

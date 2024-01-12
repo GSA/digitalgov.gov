@@ -9,7 +9,7 @@ authors:
   - michelle-chronister
   - john-yuda
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
   - design
 ---

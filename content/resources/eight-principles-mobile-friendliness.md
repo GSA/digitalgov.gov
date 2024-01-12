@@ -9,7 +9,7 @@ deck: "Following these principles will help you make your site more usable and u
 summary: "Following these principles will help you make your site more usable and user-friendly."
 
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - mobile
   - mobile

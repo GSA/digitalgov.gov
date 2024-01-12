@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   - user-experience
 ---
 

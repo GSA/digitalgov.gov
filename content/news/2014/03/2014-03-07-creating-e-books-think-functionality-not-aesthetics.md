@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - design
   - mobile
-  - commmunication
+  - communication
 
 ---
 

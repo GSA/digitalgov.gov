@@ -7,7 +7,7 @@ authors:
   - nathan-smith
   - dmccleskey
 topics:
-  - product-management
+  - product-and-project-management
   - cloud-and-infrastructure
   - search
 ---

@@ -6,7 +6,6 @@ summary: Panelists shared their experiences, lessons learned, and best practices
 topics:
   - communication
   - analytics
-  - training
   - open-data
 # See all authors at https://digital.gov/authors
 authors:

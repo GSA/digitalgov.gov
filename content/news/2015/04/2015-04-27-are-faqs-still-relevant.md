@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - customer-experience
-  - contact-center
+  - contact-centers
   - human-centered-design
   - user-experience
 ---

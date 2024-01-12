@@ -7,7 +7,7 @@ authors:
   - ori-hoffer
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - united-states-department-of-energy
 ---
 

@@ -7,7 +7,7 @@ authors:
   - alan-greilsamer
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - user-experience
   - communication
   - mobile

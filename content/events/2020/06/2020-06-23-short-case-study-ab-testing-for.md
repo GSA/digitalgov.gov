@@ -22,7 +22,6 @@ authors:
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - a-b-testing
   - design
   - usability
   - communication

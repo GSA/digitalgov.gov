@@ -30,6 +30,6 @@ weight: 2
 topics:
   - content-strategy
   - design
-  - product-management
+  - product-and-project-management
 
 ---

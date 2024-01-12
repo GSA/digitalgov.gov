@@ -8,7 +8,7 @@ authors:
 topics:
   - governance
   - mobile
-  - product-management
+  - product-and-project-management
   - professional-development
 ---
 

@@ -7,7 +7,7 @@ authors:
   - david-s-ferriero
 topics:
   - application-programming-interface
-  - product-management
+  - product-and-project-management
   - social-media
   - us-digital-registry
 ---

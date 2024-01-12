@@ -7,7 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - mobile
   - mobile
   - emerging-tech

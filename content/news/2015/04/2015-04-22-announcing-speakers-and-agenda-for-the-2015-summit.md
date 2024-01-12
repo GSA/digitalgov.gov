@@ -6,7 +6,7 @@ summary: "We are busting at the seams with excitement because the DigitalGov Cit
 authors:
   - apiazza
 topics:
-  - product-management
+  - product-and-project-management
 
 ---
 

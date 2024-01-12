@@ -12,7 +12,6 @@ topics:
   - open-government
   - accessibility
   - content-strategy
-  - communities
   - customer-experience
 
 # See all authors at https://digital.gov/authors

@@ -9,7 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - software-engineering
   - content-strategy
-  - product-management
+  - product-and-project-management
   - analytics
   - mobile
   - social-media

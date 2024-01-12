@@ -7,7 +7,7 @@ authors:
   - jherman
   - meredith-stewart
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
   - open-government
 ---

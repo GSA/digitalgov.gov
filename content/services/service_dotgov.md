@@ -32,6 +32,6 @@ topics:
   - social-media
   - code
   - content-strategy
-  - product-management
+  - product-and-project-management
 
 ---

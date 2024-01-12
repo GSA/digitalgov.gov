@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - accessibility
-  - product-management
+  - product-and-project-management
   - content-strategy
   - customer-experience
   - research

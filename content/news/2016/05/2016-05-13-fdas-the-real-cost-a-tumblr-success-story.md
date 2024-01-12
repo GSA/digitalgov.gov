@@ -7,7 +7,7 @@ authors:
   - stacey-palosky
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - social-media
   - social-media
 ---

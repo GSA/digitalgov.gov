@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - application-programming-interface
 ---
 

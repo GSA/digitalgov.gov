@@ -7,7 +7,7 @@ authors:
   - digitalgov-team
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - user-testing-and-research
   - content-strategy
   - customer-experience

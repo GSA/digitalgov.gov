@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - research
   - user-experience
 ---

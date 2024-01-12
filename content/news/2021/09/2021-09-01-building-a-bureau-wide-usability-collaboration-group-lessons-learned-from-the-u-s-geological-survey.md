@@ -11,7 +11,6 @@ topics:
   - usability
   - user-experience
   - content-strategy
-  - communities
   - research
 # See all authors at https://digital.gov/authors
 authors:

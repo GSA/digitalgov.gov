@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - content-strategy
-  - product-management
+  - product-and-project-management
   - mobile
 ---
 

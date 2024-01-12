@@ -9,7 +9,7 @@ authors:
 topics:
   - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   - social-media
   - content-strategy
   - data-visualization

@@ -10,7 +10,7 @@ topics:
   - software-engineering
   - content-strategy
   - crowdsourcing-and-citizen-science
-  - product-management
+  - product-and-project-management
   - analytics
   - mobile
   - social-media

@@ -13,7 +13,7 @@ authors:
 
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - mobile
 ---
 

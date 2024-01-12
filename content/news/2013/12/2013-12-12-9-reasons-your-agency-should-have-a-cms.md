@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
 ---
 
 **[{{< legacy-img src="2013/12/nine-250x250.png" alt="Highway 9 sign" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/nine.png)Why Invest in a Content Management System?**

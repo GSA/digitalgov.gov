@@ -8,7 +8,6 @@ deck: Have you conducted user research and are now wondering which artifacts or 
 summary: Have you conducted user research and are now wondering which artifacts or outputs you can share and with whom? 18F provides tips on determining your target audiences, using discretion for sensitive data, and ensuring that such work complies with the Paperwork Reduction Act (PRA).
 # See all topics at https://digital.gov/topics
 topics:
-  - user-research
   - open-data
   - user-centered-design
 slug: sharing-artifacts-and-outputs-from-research

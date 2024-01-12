@@ -8,7 +8,7 @@ authors:
 topics:
   - software-engineering
   - design
-  - product-management
+  - product-and-project-management
   - content-strategy
   - design
   - open-source

@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - customer-experience
-  - product-management
+  - product-and-project-management
 ---
 
 Meeting customer needs can be done, no matter what agency you represent.

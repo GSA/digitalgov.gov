@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - innovation
   - software-engineering
 ---

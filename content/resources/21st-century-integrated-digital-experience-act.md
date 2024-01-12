@@ -29,7 +29,7 @@ topics:
   - analytics
   - multilingual
   - plain-language
-  - product-management
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors 
 authors:

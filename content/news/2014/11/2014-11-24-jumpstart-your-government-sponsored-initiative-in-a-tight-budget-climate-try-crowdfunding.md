@@ -7,7 +7,7 @@ authors:
   - minette-wilson
 topics:
   - challenges-and-prize-competitions
-  - product-management
+  - product-and-project-management
   - social-media
   - crowdsourcing-and-citizen-science
 ---

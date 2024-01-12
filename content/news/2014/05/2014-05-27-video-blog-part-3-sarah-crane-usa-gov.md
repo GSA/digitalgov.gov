@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - content-strategy
-  - product-management
+  - product-and-project-management
 ---
 
 In our final video interview with Sarah Crane of USA.gov, she talks about adaptive content and how it works with APIs. Missed [Part 1]({{< ref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}} "Video Blog: Sarah Crane, USA.gov") and [Part 2]({{< ref "2014-05-19-video-blog-part-2-sarah-crane-usa-gov.md" >}} "Video Blog: Part 2: Sarah Crane, USA.gov")? Watch them to find out how USA.gov dealt with their inconsistent customer experience and content sprawl.

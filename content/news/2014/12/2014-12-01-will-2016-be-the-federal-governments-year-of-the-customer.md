@@ -6,7 +6,7 @@ summary: As 2014 draws to a close, agencies across the federal government are be
 authors:
   - stephanie-thum
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
 ---
 

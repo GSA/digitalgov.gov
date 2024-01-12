@@ -9,7 +9,7 @@ authors:
 
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - content-strategy
 ---
 

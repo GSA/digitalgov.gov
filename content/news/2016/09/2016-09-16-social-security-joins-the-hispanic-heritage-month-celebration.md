@@ -7,7 +7,7 @@ authors:
   - doug-walker
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - content-strategy
   - customer-experience
   - customer-experience

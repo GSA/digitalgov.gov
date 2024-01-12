@@ -14,7 +14,7 @@ end_date: 2021-02-18 15:30:00 -0500
 topics:
   - design
   - digital-service-delivery
-  - product-management
+  - product-and-project-management
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

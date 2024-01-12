@@ -6,12 +6,12 @@ summary: 'Innovative wearables, stronger wifi and more 3D printing have been amo
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - user-experience
   - content-strategy
   - crowdsourcing-and-citizen-science
-  - contact-center
+  - contact-centers
   - emerging-tech
 ---
 

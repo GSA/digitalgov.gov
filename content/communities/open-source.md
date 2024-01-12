@@ -15,7 +15,7 @@ expirydate: 2022-12-16
 topics:
   - code
   - devops
-  - product-management
+  - product-and-project-management
   - open-source
 
 # see all authors at https://digital.gov/authors

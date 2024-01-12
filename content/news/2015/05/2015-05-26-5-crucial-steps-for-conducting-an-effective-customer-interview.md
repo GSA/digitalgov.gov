@@ -7,7 +7,7 @@ authors:
   - victoria-mcfadden
   - anahita-reilly
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - user-experience
 ---

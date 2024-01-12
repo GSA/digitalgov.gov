@@ -8,7 +8,6 @@ authors:
   - kristen-onell
 topics:
   - application-programming-interface
-  - communities
   - content-strategy
   - user-experience
   - search-engine-optimization

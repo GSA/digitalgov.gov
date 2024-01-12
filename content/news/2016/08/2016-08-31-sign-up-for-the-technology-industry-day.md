@@ -9,7 +9,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - cloud-and-infrastructure
-  - software-enginering
+  - software-engineering
   - budgeting-and-performance
   - security
   - innovation

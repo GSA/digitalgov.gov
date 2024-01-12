@@ -8,7 +8,7 @@ authors:
   - limary-suarez-pacheco
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - artificial intelligence
   - customer-experience
   - multilingual

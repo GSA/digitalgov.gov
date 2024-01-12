@@ -9,7 +9,6 @@ topics:
   - accessibility
   - design
   - analytics
-  - communities
   - content-strategy
   - plain-language
   - mobile

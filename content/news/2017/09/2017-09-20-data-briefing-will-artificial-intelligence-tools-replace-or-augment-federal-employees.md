@@ -6,7 +6,7 @@ summary: 'A Washington, D.C. think tank recently released reports advocating usi
 authors:
   - bbrantley
 topics:
-  - product-management
+  - product-and-project-management
   - artificial-intelligence
   - professional-development
 featured_image:

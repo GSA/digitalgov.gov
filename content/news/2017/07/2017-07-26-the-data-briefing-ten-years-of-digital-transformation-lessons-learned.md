@@ -9,7 +9,7 @@ authors:
   - bbrantley
 topics:
   - emerging-tech
-  - product-management
+  - product-and-project-management
   - emerging-tech
   - user-experience
   - emerging-tech

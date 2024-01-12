@@ -6,7 +6,7 @@ summary: ' Customer Experience (CX) deserves a voice at an agency’s senior lev
 authors:
   - zachary-lerner
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
 ---
 

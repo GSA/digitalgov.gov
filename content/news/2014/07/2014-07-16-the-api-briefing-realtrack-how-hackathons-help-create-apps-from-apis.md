@@ -7,9 +7,9 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - challenges-and-prize-competitionsv
-  - open-code
-  - product-management
+  - challenges-and-prize-competitions
+  - software-engineering
+  - product-and-project-management
   - mobile
 ---
 

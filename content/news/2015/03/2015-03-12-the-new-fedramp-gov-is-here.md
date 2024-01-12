@@ -7,7 +7,7 @@ summary: 'On Wednesday, March 11, FedRAMP unveiled a redesigned FedRAMP.gov. The
 authors:
   - matt-goodrich
 topics:
-  - product-management
+  - product-and-project-management
   - cloud-and-infrastructure
   - analytics
   - security

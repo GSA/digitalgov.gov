@@ -26,6 +26,6 @@ topics:
   - design
   - code
   - content-strategy
-  - product-management
+  - product-and-project-management
 
 ---

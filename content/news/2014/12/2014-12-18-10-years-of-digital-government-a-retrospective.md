@@ -9,7 +9,7 @@ topics:
   - challenges
   - code
   - content-strategy
-  - product-management
+  - product-and-project-management
   - mobile
   - social-media
   - user-experience

@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - design
-  - product-management
+  - product-and-project-management
   - content-strategy
   - customer-experience
   - usability

@@ -14,7 +14,7 @@ topics:
   - application-programming-interface
   - challenges
   - content-strategy
-  - product-management
+  - product-and-project-management
   - analytics
   - mobile
   - social-media

@@ -7,7 +7,7 @@ authors:
   - rachel-mundstock
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - application-programming-interface
   - search
   - social-media

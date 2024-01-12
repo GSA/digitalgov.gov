@@ -7,7 +7,7 @@ authors:
   - leah-stewart
   - ray-drake
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
   - social-media
 ---

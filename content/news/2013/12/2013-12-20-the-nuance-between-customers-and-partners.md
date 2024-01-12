@@ -6,7 +6,7 @@ summary: 'Before you can create your customer experience (CX) strategy, you have
 authors:
   - martha-dorris
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
 ---
 

@@ -9,7 +9,7 @@ authors:
 topics:
   - communication
   - content-strategy
-  - product-management
+  - product-and-project-management
 ---
 
 Content marketing is everywhere and you&#8217;re hearing more about it every day—but how do you do it well?

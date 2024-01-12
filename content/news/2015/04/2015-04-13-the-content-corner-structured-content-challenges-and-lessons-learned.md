@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - application-programming-interface
-  - contact-center
+  - contact-centers
   - content-strategy
 ---
 

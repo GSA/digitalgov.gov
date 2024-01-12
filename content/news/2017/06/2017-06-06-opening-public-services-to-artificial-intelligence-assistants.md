@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - emerging-tech
-  - product-management
+  - product-and-project-management
   - user-experience
   - artificial-intelligence
   - customer-experience

@@ -6,7 +6,7 @@ summary: Federal agencies are required to make all federal websites accessible t
 authors:
   - tlowden
 topics:
-  - product-management
+  - product-and-project-management
   - analytics
   - security
 ---

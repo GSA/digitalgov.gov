@@ -6,7 +6,7 @@ summary: 'At the end of last year, DigitalGov posted an article predicting that 
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - customer-experience
   - customer-experience

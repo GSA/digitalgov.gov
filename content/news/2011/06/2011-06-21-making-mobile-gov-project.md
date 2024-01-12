@@ -6,7 +6,7 @@ summary: 'Held during the summer 2011, Making Mobile Gov was a three phase multi
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
 
 ---

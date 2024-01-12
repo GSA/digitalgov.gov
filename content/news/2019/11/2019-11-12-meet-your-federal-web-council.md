@@ -10,7 +10,7 @@ authors:
   - rflagg
 
 topics:
-  - product-management
+  - product-and-project-management
   - digital-service-delivery
 
 featured_image:

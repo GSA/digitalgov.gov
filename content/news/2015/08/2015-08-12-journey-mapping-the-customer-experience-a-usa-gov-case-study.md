@@ -10,7 +10,7 @@ topics:
   - user-experience
   - analytics
   - customer-experience
-  - contact-center
+  - contact-centers
   - research
 ---
 

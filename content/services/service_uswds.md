@@ -28,7 +28,7 @@ topics:
   - accessibility
   - user-experience
   - mobile
-  - product-management
+  - product-and-project-management
   - digital-service-delivery
 
 # see all authors at https://digital.gov/authors

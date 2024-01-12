@@ -6,7 +6,7 @@ summary: 'We recently sat down with Lisa Danzig, who’s leading work at the Off
 authors:
   - rflagg
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
 ---
 

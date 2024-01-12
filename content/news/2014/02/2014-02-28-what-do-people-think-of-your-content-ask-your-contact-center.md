@@ -7,7 +7,7 @@ authors:
   - tonya-beres
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - social-media
   - user-experience
   - customer-experience

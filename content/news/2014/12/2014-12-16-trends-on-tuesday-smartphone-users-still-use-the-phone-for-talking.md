@@ -6,7 +6,7 @@ summary: 'Smartphones are changing how organizations do business&mdash;they are 
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - customer-experience
   - Government Contact Center Council

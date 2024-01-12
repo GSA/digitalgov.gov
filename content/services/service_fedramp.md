@@ -31,7 +31,7 @@ authors:
 topics:
   - cloud-and-infrastructure
   - security
-  - product-management
+  - product-and-project-management
   - security
 
 ---

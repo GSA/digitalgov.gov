@@ -10,7 +10,6 @@ topics:
   - mobile
   - artificial-intelligence
   - emerging-tech
-  - communities
   - innovation
   - multilingual
   - social-media

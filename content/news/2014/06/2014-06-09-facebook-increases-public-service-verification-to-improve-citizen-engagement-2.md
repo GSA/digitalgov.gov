@@ -9,7 +9,7 @@ topics:
   - application-programming-interface
   - trust
   - governance
-  - product-management
+  - product-and-project-management
   - social-media
   - data-gov
   - socialgov-community

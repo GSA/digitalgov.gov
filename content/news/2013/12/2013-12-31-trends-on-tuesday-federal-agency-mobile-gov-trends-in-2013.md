@@ -8,7 +8,7 @@ authors:
   - jparcell
 
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - content-strategy
   - emerging-tech

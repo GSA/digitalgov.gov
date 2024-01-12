@@ -7,7 +7,6 @@ topics:
   - design
   - mobile
   - content-strategy
-  - policy
   - user-experience
 
 ---

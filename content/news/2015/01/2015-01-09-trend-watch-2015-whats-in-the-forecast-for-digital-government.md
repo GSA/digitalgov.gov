@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - challenges
-  - product-management
+  - product-and-project-management
   - mobile
   - aoi
   - analytics

@@ -6,7 +6,7 @@ summary: 'Government agencies are always looking for better ways to connect with
 authors:
   - candace-maynard
 topics:
-  - product-management
+  - product-and-project-management
   - aoi
   - social-media
 ---

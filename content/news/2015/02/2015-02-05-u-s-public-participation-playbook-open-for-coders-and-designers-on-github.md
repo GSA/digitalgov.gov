@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - code
-  - product-management
+  - product-and-project-management
   - analytics
   - social-media
   - aoi

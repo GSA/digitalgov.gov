@@ -17,7 +17,7 @@ topics:
   - accessibility
   - diversity-equity-and-inclusion
   - acquisition
-  - product-management
+  - product-and-project-management
   - content-strategy
   - best-practices
 

@@ -7,7 +7,7 @@ authors:
   - jeffrey-levy
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Managers-eating-meal-together-KatarzynaBialasiewicz-iStock-Thinkstock.jpg" alt="Managers eating meal together" caption="" >}} 

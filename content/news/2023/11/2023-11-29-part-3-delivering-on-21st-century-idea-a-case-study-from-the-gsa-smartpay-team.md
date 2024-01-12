@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - customer-experience
   - digital-service-delivery
-  - product-management
+  - product-and-project-management
   - project-management
   - plain-language
 

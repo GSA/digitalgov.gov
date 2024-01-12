@@ -6,7 +6,7 @@ summary: Performance metrics, targets and public reporting are not new in govern
 authors:
   - stephanie-thum
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
   - analytics
 ---

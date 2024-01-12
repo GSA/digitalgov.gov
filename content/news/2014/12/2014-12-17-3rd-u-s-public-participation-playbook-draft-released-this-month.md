@@ -6,7 +6,7 @@ summary: 'The new third draft of the U.S. Public Participation Playbook continue
 authors:
   - jherman
 topics:
-  - product-management
+  - product-and-project-management
   - analytics
   - social-media
   - open-government

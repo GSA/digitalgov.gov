@@ -7,11 +7,11 @@ authors:
   - sarah-crane
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - application-programming-interface
   - analytics
   - multilingual
-  - contact-center
+  - contact-centers
   - research
   - social-media
 ---

@@ -9,7 +9,6 @@ authors:
   - kristy-singletary
 topics:
   - content-strategy
-  - policy
   - research
   - product-and-project-management
 ---

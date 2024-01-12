@@ -7,7 +7,7 @@ summary: "A GSA SmartPay product owner shares his experiences as a first-time pr
 topics:
   - content-strategy
   - governance
-  - product-management
+  - product-and-project-management
   - project-management
   - professional-development
   - digital-service-delivery

@@ -22,7 +22,7 @@ topics:
   - devops
   - analytics
   - open-source
-  - product-management
+  - product-and-project-management
   - cloud-and-infrastructure
   - budgeting-and-performance
 
