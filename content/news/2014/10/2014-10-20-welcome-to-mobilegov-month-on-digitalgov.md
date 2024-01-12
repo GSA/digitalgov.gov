@@ -7,18 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - monthly-theme
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DOE
-  - HHS
   - content-strategy
-  - mobile
-  - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
-
 ---
 
 What’s your mobile itch?

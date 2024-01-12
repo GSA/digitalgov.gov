@@ -10,10 +10,6 @@ topics:
   - analytics
   - mobile
   - social-media
-  - National Center for Complementary and Integrative Health
-  - national-institutes-of-health
-  - NCCIH
-  - nih
   - multimedia
 ---
 

@@ -10,11 +10,6 @@ authors:
 topics:
   - accessibility
   - multimedia
-  - DOJ
-  - nasa
-  - us-department-of-justice
-  - us-department-of-veterans-affairs
-  - VA
   - social-media
 
 ---

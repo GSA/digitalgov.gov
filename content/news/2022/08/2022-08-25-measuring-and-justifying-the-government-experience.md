@@ -22,13 +22,10 @@ summary: "Private sector organizations use revenue as the primary measurement to
 topics:
   - governance
   - analytics
-  - data
+  - open-data
   - digital-service-delivery
-  - open
   - customer-experience
   - accessibility
-  - analytics
-  - research
   - research
   - open-government
   - design

@@ -7,7 +7,6 @@ authors:
   - wsullivan
 topics:
   - product-management
-  - monthly-theme
   - emerging-tech
   - mobile
   - security

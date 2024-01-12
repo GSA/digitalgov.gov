@@ -6,22 +6,9 @@ summary: 'There’s more than one way to harness the wisdom of the crowd. In hon
 authors:
   - awichman
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - Consumer Financial Protection Bureau
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - epa
-  - crowdsourcing-and-citizen-science
-  - gsa
-  - HHS
   - innovation
-  - prizes-and-competitions
 ---
 
 There’s more than one way to harness the wisdom of the crowd.

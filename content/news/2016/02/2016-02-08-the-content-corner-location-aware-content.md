@@ -9,11 +9,6 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
-  - federal-emergency-management-agency
-  - fema
-  - content-strategy
 ---
 
 While January was about looking ahead, February is focused on content and many of the new possibilities and challenges that will face us as content creators over the next year and beyond. At the intersection of these two themes lies the genesis of my topic today: location-aware content. {{< legacy-img src="2015/11/600-x-400-Mobile-phone-gps-navigation-travel-destination-location-and-positioning-concept-cybrain-iStock-Thinkstock-493553122.jpg" alt="Mobile phone gps navigation, travel destination, location and positioning concept of a map and single marker over a smart phone" caption="" >}} 

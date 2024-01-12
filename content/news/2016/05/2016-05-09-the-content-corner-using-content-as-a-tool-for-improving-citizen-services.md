@@ -7,12 +7,6 @@ authors:
   - kyle-s-richardson
 topics:
   - content-strategy
-  - dhs
-  - firstnet
-  - content-strategy
-  - us-department-of-veterans-affairs
-  - united-states-department-of-homeland-security
-  - VA
 ---
 
 It is very refreshing to see the large contingent of government communicators who are always seeking to do their job better, with a well-founded desire to provide those they serve with an enhanced experience. Based on a few examples, such as the many [listserv emails]({{< ref "/communities" >}}) that are sent across agencies, DigitalGov’s constant content stream and readership, and the many conferences and sessions related to communications—including [webinars]({{< ref "/events" >}})—it’s easy to say we have the best job in government.

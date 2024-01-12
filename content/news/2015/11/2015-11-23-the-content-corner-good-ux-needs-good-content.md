@@ -8,11 +8,7 @@ authors:
 topics:
   - content-strategy
   - design
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
   - user-experience
-  
 ---
 
 As DigitalGov focuses on [user experience]({{< ref "2015-11-09-how-ux-effects-change-in-government-one-test-one-customer-survey-at-a-time.md" >}}) this month it is good to remember one harsh truth: You cannot have a good user experience with bad content. It is important to keep a “[content first]({{< ref "2015-07-20-the-content-corner-determining-your-users-needs.md" >}})” strategy in place during any website redesign or new site development. It is so easy for the various disciplines involved in designing a site to lose sight of the content and of each other. {{< legacy-img src="2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 

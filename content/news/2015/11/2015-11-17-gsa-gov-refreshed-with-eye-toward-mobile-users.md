@@ -9,9 +9,6 @@ topics:
   - design
   - product-management
   - mobile
-  - 18f
-  - mobile
-  - top-tasks
 ---
 
 GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users.

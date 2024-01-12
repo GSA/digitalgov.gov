@@ -7,18 +7,10 @@ authors:
   - randy-abramson
 topics:
   - content-strategy
-  - product-management
-  - analytics
   - mobile
   - analytics
-  - content-strategy
-  - content-strategy
-  - analytics
-  - mobile
-  - recaps
   - multimedia
-  - virtual-augmented-reality-community
-
+  - product-and-project-management
 ---
 
 Suddenly, [digital video is everywhere]({{< ref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}) on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to your social followers on those respective platforms.

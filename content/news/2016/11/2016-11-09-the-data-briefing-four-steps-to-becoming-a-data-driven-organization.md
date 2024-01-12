@@ -6,13 +6,10 @@ summary: 'As the Federal government agencies begin the digital transformation jo
 authors:
   - bbrantley
 topics:
-  - product-management
+  - product-and-project-management
   - analytics
   - content-strategy
-  - policy
-  - analytics
   - innovation
-  - analytics
   - emerging-tech
 ---
 

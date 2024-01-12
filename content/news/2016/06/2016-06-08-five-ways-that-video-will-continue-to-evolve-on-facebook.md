@@ -7,13 +7,8 @@ authors:
   - randy-abramson
 topics:
   - content-strategy
-  - monthly-theme
   - social-media
   - multimedia
-  - bbg
-  - broadcasting-board-of-governors
-  - content-strategy
-  - social-media
 ---
 
 <div class="testimonial small">

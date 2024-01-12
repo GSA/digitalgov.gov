@@ -7,11 +7,6 @@ authors:
   - craig-fugate
 topics:
   - mobile
-  - federal-emergency-management-agency
-  - fema
-  - mobile
-  - mobile
-  - mobile
 ---
 
 > _Summary: The 2016 National Preparedness Report is an important guidepost in our work to build a stronger, more resilient America._

@@ -7,10 +7,6 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
-  - Census
-  - united-states-census-bureau
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/07/600-x-400-Capitol-Building-U.S.-Congress-flySnow-iStock-Thinkstock-488669037.jpg" alt="Capitol Building U.S. Congress" caption="" >}} 

@@ -12,7 +12,7 @@ summary: "Learn how federal agencies are using AI, data, cloud computing, custom
 # see all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - data
+  - open-data
   - artificial-intelligence
   - cloud-and-infrastructure
 

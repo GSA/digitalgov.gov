@@ -9,10 +9,7 @@ topics:
   - mobile
   - social-media
   - content-strategy
-  - policy
-  - aoi
-  - mobile
-  - mobile
+  - user-experience
   - emerging-tech
 
 ---

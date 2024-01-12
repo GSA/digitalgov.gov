@@ -12,10 +12,6 @@ topics:
   - content-strategy
   - design
   - user-experience
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - content-strategy
-  - content-strategy
   - multilingual
 ---
 

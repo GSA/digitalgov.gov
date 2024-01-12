@@ -6,25 +6,12 @@ summary: ' DigitalGov University has hosted some great events over the last year
 authors:
   - apiazza
 topics:
-  - monthly-theme
-  - our-work
-  - 18f
   - application-programming-interface
-  - CFPB
-  - Consumer Financial Protection Bureau
   - content-strategy
-  - data
-  - data-gov
-  - GitHub
-  - json
-  - metadata
+  - software-engineering
+  - search-engine-optimization
   - mobile
-  - content-strategy
   - open-data
-  - recaps
-  - mobile
-  - us-department-of-state
-  - white-house
 ---
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< ref "/events" >}})

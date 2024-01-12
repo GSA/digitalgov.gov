@@ -7,13 +7,9 @@ authors:
   - lnelson
 topics:
   - governance
-  - product-management
-  - DOL
   - mobile
-  - content-strategy
+  - product-management
   - professional-development
-  - us-department-of-labor
-  - us-department-of-state
 ---
 
 Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the [Open Opportunities program](https://openopps.usajobs.gov/).

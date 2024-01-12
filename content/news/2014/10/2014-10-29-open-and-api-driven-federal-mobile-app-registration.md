@@ -7,12 +7,9 @@ authors:
   - jparcell
 topics:
   - application-programming-interface
-  - communities
   - mobile
-  - monthly-theme
-  - aoi
+  - user-experience
   - open-data
-  - mobile
  
 
 ---

@@ -7,7 +7,6 @@ authors:
   - hhs-digital-analytics-team
 topics:
   - analytics
-  - analytics
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Vintage-red-coupe-ladimiroquai-iStock-Thinkstock-464976020.jpg" alt="Vintage red convertible coupe" caption="" >}}

@@ -7,9 +7,7 @@ authors:
   - allison-lantero
 topics:
   - content-strategy
-  - DOE
   - podcast
-  - united-states-department-of-energy
 ---
 
 The Energy Department launched [Direct Current](http://energy.gov/direct-current-energygov-podcast), our first podcast, on May 9. The first episode—all about rooftop solar, as well as the history of our agency—has been well-received so far by press, stakeholders, and the general public.

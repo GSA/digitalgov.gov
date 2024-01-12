@@ -8,8 +8,6 @@ authors:
   - marina-fox
 topics:
   - analytics
-  - 18f
-  - analytics
   - customer-experience
   - professional-development
 ---

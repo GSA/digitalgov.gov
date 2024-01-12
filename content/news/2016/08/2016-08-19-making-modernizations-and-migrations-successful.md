@@ -8,15 +8,9 @@ authors:
   - david-mader
 topics:
   - product-management
-  - gsa
   - cloud-and-infrastructure
   - innovation
   - budgeting-and-performance
-  - Office of Management and Budget
-  - OMB
-  - us-general-services-administration
-  - white-house
-
 ---
 
 > **Summary**: Today, we’re launching the M3 Framework to provide agencies with leading best practices for mission-support function modernizations and migrations.

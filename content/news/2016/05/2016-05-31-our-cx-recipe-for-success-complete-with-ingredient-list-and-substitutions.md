@@ -6,13 +6,9 @@ summary: 'If you were to spend any time with me in the kitchen, you would often 
 authors:
   - tanya-mcilravy
 topics:
-  - monthly-theme
   - accessibility
   - customer-experience
-  - customer-experience
-  - customer-experience
   - user-experience
-  
 ---
 
 If you were to spend any time with me in the kitchen, you would often find me searching out substitutions for ingredients that I don&#8217;t have on hand or have to drive 100 miles to find. I don&#8217;t want to abandon the recipe, so I substitute instead. I find that in the world of internal government IT systems, recipes for success are hard to come by. So, what do I do? I substitute! {{< legacy-img src="2016/05/600-x-360-Background-with-the-ingredients-for-a-cake-MaksimVasic-iStock-Thinkstock-464617462.jpg" alt="The word recipe is written into flour on a table, surrounded by baking ingredients and utensils." caption="" >}} 

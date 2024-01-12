@@ -8,10 +8,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-experience
-  - customer-experience
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
 ---
 
 {{< legacy-img src="2015/04/600-x-375-Connected-Modern-World-solarseven-iStock-Thinkstock-ThinkstockPhotos-482353395.jpg" alt="Connected Modern World" caption="" >}} 

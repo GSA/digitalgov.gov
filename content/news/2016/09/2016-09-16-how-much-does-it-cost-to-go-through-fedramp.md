@@ -7,9 +7,9 @@ summary: 'One of the questions we get asked the most at FedRAMP from our vendors
 authors:
   - matt-goodrich
 topics:
-  - product-management
+  - product-and-project-management
   - cloud-and-infrastructure
-  - data
+  - open-data
   - security
 ---
 

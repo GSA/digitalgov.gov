@@ -9,8 +9,6 @@ authors:
 topics:
   - code
   - mobile
-  - DOL
-  - mobile
   - open-source
   
 ---

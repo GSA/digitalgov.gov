@@ -10,10 +10,8 @@ topics:
   - design
   - user-experience
   - customer-experience
-  - NARA
-  - national-archives-and-records-administration
   - research
-  - user-centered-design
+  - human-centered-design
 ---
 
 Keeping the customer’s needs front and center is important when developing new digital tools. We recently developed a set of user personas as part of our work to establish a more robust—and data informed—understanding of the individuals that engage digitally with the National Archives and Records Administration (NARA).

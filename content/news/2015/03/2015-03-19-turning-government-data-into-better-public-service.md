@@ -10,10 +10,6 @@ authors:
   - charles-worthington
 topics:
   - analytics
-  - monthly-theme
-  - our-work
-  - analytics
-
 ---
 
 Every day, millions of people use their laptops, phones, and tablets to check the status of their tax refund, get the latest forecast from the National Weather Service, book a campsite at one of our national parks, and much more. There were more than 1.3 billion visits to websites across the federal government in just the past 90 days.

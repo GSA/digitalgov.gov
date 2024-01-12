@@ -6,11 +6,8 @@ summary: 'The United Kingdom’s (UK) Digital Service has researched ways to inc
 authors:
   - bbrantley
 topics:
-  - data
-  - content-strategy
-  - policy
-  - data
   - open-data
+  - content-strategy
   - emerging-tech
 ---
 

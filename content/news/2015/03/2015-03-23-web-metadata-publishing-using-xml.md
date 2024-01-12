@@ -8,13 +8,9 @@ authors:
   - bob-rand
 topics:
   - mobile
-  - monthly-theme
-  - content-strategy
-  - data
-  - federal-register
-  - metadata
   - content-strategy
   - open-data
+  - search-engine-optimization
 ---
 
 {{< legacy-img src="2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}}

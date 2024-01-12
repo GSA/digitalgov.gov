@@ -12,8 +12,6 @@ authors:
   - colin-craig
 topics:
   - analytics
-  - analytics-usa-gov
-
 ---
 
 We’ve added agency-specific dashboards to [analytics.usa.gov](https://analytics.usa.gov/)!

@@ -7,16 +7,10 @@ authors:
   - cory-benavente
   - dywane-boyd
 topics:
-  - data
+  - open-data
   - analytics
-  - our-work
-  - user-testing-and-research
-  - analytics
-  - analytics
-  - OPM
-  - united-states-office-of-personnel-management
+  - research
   - user-experience
-
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._

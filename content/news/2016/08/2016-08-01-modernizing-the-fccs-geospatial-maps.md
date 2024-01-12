@@ -8,10 +8,7 @@ authors:
   - allison-baker
   - perryn-ashmore
 topics:
-  - data
   - cloud-and-infrastructure
-  - CMS
-  - data
   - data-visualization
   - open-data
 ---

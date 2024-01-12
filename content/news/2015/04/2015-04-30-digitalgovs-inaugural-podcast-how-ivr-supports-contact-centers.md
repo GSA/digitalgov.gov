@@ -7,9 +7,8 @@ authors:
   - apiazza
 topics:
   - product-management
-  - government-contact-centers
+  - contact-center
   - podcast
-  - usa-gov
   - multimedia
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 

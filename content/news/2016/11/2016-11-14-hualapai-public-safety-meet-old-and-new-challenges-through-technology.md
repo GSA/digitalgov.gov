@@ -8,19 +8,11 @@ authors:
   - lesia-dickson
 
 topics:
-  - product-management
+  - product-and-project-management
   - innovation
   - mobile
   - content-strategy
-  - policy
-  - user-testing-and-research
-  - multimedia
-  - multimedia
-  - data
-  - firstnet
-  - tribal-government
-  - us-national-park-service
-  - nps
+  - open-data
   - research
   - multimedia
 

@@ -7,12 +7,11 @@ authors:
   - gay-gilbert
 topics:
   - content-strategy
-  - data
+  - open-data
   - design
-  - product-management
-  - data
+  - product-and-project-management
   - mobile
-  - user-centered-design
+  - human-centered-design
   - user-experience
   - multimedia
 ---

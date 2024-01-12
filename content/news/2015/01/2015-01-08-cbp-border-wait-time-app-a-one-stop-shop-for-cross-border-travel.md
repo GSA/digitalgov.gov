@@ -7,13 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - us-customs-and-border-protection
-  - dhs
-  - ICE
-  - mobile
-  - US Customs and Border Protection
-  - us-immigration-and-customs-enforcement
-  - united-states-department-of-homeland-security
 ---
 
 {{< legacy-img src="2015/01/250-x-338-DHS-Customs-and-Border-Patrol-CBP-Twitter-seal.jpg" alt="DHS Customs and Border Patrol CBP seal from Twitter" >}}The new [Border Wait Time](http://bwt.cbp.gov/) app from [U.S. Customs and Border Protection](http://www.cbp.gov/) (CBP) is a one stop shop for cross border travelers, displaying estimated wait times and open lane statuses at U.S. land ports of entry. Travelers can also locate ports of entry closest to their location, and then map the best route to the crossing of their choice.

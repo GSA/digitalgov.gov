@@ -7,11 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
   - terms-of-service
-  - US Department of Agriculture
-  - USDA
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/02/600-x-464-Two-robots-with-blank-tablet-computers-Kirillm-iStock-Thinkstock-178892148.jpg" alt="Two robots with blank tablet computers" caption="" >}} 

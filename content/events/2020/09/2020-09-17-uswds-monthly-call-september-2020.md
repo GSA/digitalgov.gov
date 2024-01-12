@@ -14,7 +14,7 @@ end_date: 2020-09-17 15:30:00 -0500
 topics:
   - design
   - digital-service-delivery
-  - user-centered-design
+  - human-centered-design
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

@@ -4,7 +4,6 @@ title: "Celebrating Black History at TTS: Reflections on the Challenges of the P
 summary: "Technology Transformation Services (TTS) has a vision for a government that is trusted, modern, and provides services for all. During Black History Month, two of our affinity groups took the opportunity to balance celebration with reflection on the challenges of the past and present."
 # See all topics at https://digital.gov/topics
 topics:
-  - tts
   - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:

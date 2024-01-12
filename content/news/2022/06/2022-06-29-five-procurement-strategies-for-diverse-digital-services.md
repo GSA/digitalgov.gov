@@ -8,7 +8,6 @@ deck:
 topics:
   - acquisition
   - accessibility
-  - policy
   - digital-service-delivery
   - diversity-equity-and-inclusion
 

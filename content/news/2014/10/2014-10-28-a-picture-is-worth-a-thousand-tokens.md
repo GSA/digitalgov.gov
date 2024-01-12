@@ -7,7 +7,6 @@ authors:
   - loren-siebert
 topics:
   - application-programming-interface
-  - our-work
   - social-media
   - multimedia
   - search

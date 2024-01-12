@@ -10,11 +10,8 @@ topics:
   - social-media
   - artificial intelligence
   - best-practices
-  - data
   - innovation
-  - mobile
   - open-data
-  - mobile
   - emerging-tech
 
 ---

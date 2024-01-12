@@ -8,9 +8,6 @@ authors:
 topics:
   - content-strategy
   - design
-  - administrative-office-of-the-united-states-courts
-  - CMS
-  - content-strategy
   - content-strategy
   - user-experience
 ---

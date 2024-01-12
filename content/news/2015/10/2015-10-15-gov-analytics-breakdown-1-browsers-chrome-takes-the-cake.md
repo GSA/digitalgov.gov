@@ -9,11 +9,10 @@ authors:
 
 topics:
   - content-strategy
-  - data
+  - open-data
   - analytics
   - user-experience
-  - analytics
-  - browsers
+  - software-engineering
 
 ---
 

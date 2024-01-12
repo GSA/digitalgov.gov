@@ -8,11 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - crowdsourcing-and-citizen-science
-  - mobile
-  - mobile
-  - united-states-geological-survey
-  - USGS
 ---
 
 {{< legacy-img src="2015/04/600-x-422-Piping-Plover-standing-in-the-surf-Robert-Blanchard-iStock-Thinkstock-ThinkstockPhotos-92401185.jpg" alt="Piping Plover standing in the surf" caption="" >}} 

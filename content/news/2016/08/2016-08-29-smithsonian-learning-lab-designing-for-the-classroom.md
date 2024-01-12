@@ -7,15 +7,11 @@ authors:
   - ben-bloom
 topics:
   - design
-  - product-management
-  - user-testing-and-research
-  - content-strategy
-  - design
-  - smithsonian-institution
-  - user-centered-design
-  - user-experience
+  - product-and-project-management
   - research
-  
+  - content-strategy
+  - human-centered-design
+  - user-experience
 ---
 
 The Smithsonian’s mission statement is wonderfully simple: &#8220;The increase and diffusion of knowledge.&#8221; The &#8220;increasing&#8221; is arguably the straightforward part – the Smithsonian has amassed a collection of over 138 million objects and specimens, and the Institution’s curators and scientists obsessively add to the world’s knowledge base, publishing papers, creating exhibitions, and sharing their expertise. But how can all this informational goodness get passed along to teachers, our nation’s most powerful &#8220;diffusers&#8221; of knowledge?

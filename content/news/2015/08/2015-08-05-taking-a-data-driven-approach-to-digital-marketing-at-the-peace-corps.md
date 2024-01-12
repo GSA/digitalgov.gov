@@ -8,8 +8,6 @@ authors:
 topics:
   - analytics
   - research
-  - peace-corps
-
 ---
 
 What exactly does being “data-driven” mean for digital marketing and communications practitioners in the federal government? It is easy to be awed by the new shiny platforms and services that promise to change how things are done in government. Fundamentally, though, it is thinking about analytics not just from a descriptive mindset but one of experimentation, optimization and measurement. It is about culture change so it is not as glamorous, not as easy, but necessary if you really want to be data-driven.

@@ -7,10 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
-  - nasa
-  - content-strategy
   - social-media
 ---
 

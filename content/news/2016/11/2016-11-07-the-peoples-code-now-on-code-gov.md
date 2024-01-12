@@ -6,11 +6,9 @@ summary: 'Summary: Today we’re launching Code.gov so that our Nation can conti
 authors:
   - tony-scott
 topics:
-  - code
-  - product-management
+  - software-engineering
+  - product-and-project-management
   - content-strategy
-  - policy
-  - code
 ---
 
 > _Summary: Today we’re launching Code.gov so that our Nation can continue to unlock the tremendous potential of the Federal Government’s software._

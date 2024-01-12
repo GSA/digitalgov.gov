@@ -7,7 +7,6 @@ authors:
   - cio-council-operations-staff
 topics:
   - content-strategy
-  - data
   - open-data
 ---
 

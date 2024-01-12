@@ -9,11 +9,10 @@ topics:
   - content-strategy
   - product-management
   - analytics
-  - aoi
+  - user-experience
   - content-strategy
   - customer-experience
-  - government-contact-centers
-  - top-tasks
+  - contact-center
 ---
 
 {{< legacy-img src="2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}}

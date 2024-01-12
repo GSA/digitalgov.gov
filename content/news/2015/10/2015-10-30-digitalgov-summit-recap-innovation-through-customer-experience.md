@@ -6,12 +6,8 @@ summary: "A panel discussion at the 2015 DigitalGov Citizen Services Summit delv
 authors:
   - awichman
 topics:
+  - customer-experience
   - product-management
-  - customer-experience
-  - customer-experience
-  - digitalgov-summit
-  - recaps
-
 ---
 
 Meeting customer needs can be done, no matter what agency you represent.

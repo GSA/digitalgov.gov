@@ -8,24 +8,13 @@ authors:
   - kris-rowley
 topics:
   - application-programming-interface
-  - challenges
   - crowdsourcing-and-citizen-science
-  - data
   - content-strategy
-  - policy
-  - application-programming-interface
-  - apps-challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - data
   - data-visualization
   - innovation
   - mobile
-  - national-day-of-civic-hacking
+  - software-engineering
   - open-data
   - open-government
 ---

@@ -10,21 +10,11 @@ topics:
   - design
   - product-management
   - content-strategy
-  - policy
-  - user-testing-and-research
-  - content-strategy
-  - content-strategy
   - customer-experience
-  - national-center-for-complementary-and-integrative-health
-  - national-institutes-of-health
-  - nccih
-  - nih
-  - design
   - usability
-  - usability-testing
   - user-experience
   - research
-  
+
 featured_image:
   uid: featured-301-x-212-nih-logo-national-institutes-of-health
   alt: 'NIH logo'

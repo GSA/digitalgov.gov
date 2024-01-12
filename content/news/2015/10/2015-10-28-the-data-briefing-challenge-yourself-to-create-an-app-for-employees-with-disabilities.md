@@ -7,20 +7,9 @@ authors:
   - bbrantley
 topics:
   - mobile
-  - monthly-theme
   - accessibility
   - application-programming-interface
-  - data
-  - data-gov
-  - DOT
-  - FCC
-  - federal-communications-commission
-  - gsa
-  - mobile
-  - mobile
-  - mobile
-  - emerging-tech
-  - united-states-department-of-transportation
+  - open-data
 ---
 
 {{< legacy-img src="2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." caption="" >}} 

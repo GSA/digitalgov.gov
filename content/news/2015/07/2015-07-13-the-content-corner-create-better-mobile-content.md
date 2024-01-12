@@ -8,14 +8,7 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - administrative-office-of-the-united-states-courts
   - data-visualization
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - content-strategy
 ---
 
 {{< legacy-img src="2015/07/600-x-436-Mobile-phone-Nik_Merkulov-iStock-Thinkstock-466186589.jpg" alt="Mobile devices with question marks on the screens" caption="" >}} 

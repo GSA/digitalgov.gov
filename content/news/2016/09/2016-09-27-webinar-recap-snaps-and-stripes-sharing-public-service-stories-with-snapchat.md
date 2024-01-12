@@ -9,21 +9,14 @@ authors:
 topics:
   - accessibility
   - content-strategy
-  - product-management
+  - product-and-project-management
   - social-media
-  - content-strategy
-  - policy
   - multimedia
   - accessibility
   - best-practices
-  - content-strategy
-  - content-strategy
   - customer-experience
-  - recaps
   - social-media
   - user-experience
-  - multimedia
-
 ---
 
 What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs? Well, Snapchat has quickly become an incredibly effective digital storytelling medium, and content creators across multiple government agencies have adopted it as an important part of their programs.

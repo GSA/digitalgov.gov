@@ -8,9 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - analytics
-  - data
-  - data-gov
-  - application-programming-interface
+  - open-data
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Server-room-Tomasz-Wyszolmirski-iStock-Thinkstock-178134397.jpg" alt="Server room" caption="" >}} 

@@ -7,11 +7,6 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - National Library of Medicine
-  - NLM
-  - OPM
-  - united-states-office-of-personnel-management
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/10/250-x-188-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}}

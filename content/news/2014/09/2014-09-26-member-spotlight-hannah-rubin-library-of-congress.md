@@ -8,10 +8,8 @@ authors:
 topics:
   - content-strategy
   - analytics
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - Library of Congress
-  - LOC
+  - research
+  - user-experience
   - professional-development
 ---
 

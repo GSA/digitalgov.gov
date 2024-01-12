@@ -8,9 +8,6 @@ authors:
 topics:
   - product-management
   - content-strategy
-  - policy
-  - national-oceanic-and-atmospheric-administration
-  - noaa
   - professional-development
 
 ---

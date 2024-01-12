@@ -8,14 +8,8 @@ authors:
 topics:
   - design
   - mobile
-  - DOL
-  - mobile
-  - mobile
-  - mobile
-  - design
   - usability
   - user-experience
-  - user-experience-community-of-practice
 ---
 
 When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don’t fall under its spell. It’s often when you remove the technological layers between you and your thoughts that the best ideas sprout.

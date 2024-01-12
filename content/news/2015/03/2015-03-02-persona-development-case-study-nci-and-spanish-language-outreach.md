@@ -6,14 +6,8 @@ summary: ' Government websites need to address the needs of diverse audiences. A
 authors:
   - awichman
 topics:
-  - user-testing-and-research
-  - multilingual
-  - national-cancer-institute
-  - NCI
   - research
-  - us-bureau-of-labor-statistics
-  - united-states-census-bureau
-  - usability starter kit
+  - multilingual
   - user-experience
 ---
 

@@ -7,17 +7,6 @@ authors:
   - courtney-greenley
 topics:
   - mobile
-  - broadcasting-board-of-governors
-  - mobile
-  - mobile
-  - National Center for Telehealth and Technology
-  - OSHA
-  - SAMHSA
-  - mobile
-  - us-coast-guard
-  - us-department-of-veterans-affairs
-  - us-small-business-administration
- 
 ---
 
 {{< legacy-img src="2015/07/600-x-200-Day-50.jpg" alt="Day 50 banner" >}}{{< legacy-img src="2015/07/600-x-200-Tally-Graphic.jpg" alt="Leaderboard Tally" >}}

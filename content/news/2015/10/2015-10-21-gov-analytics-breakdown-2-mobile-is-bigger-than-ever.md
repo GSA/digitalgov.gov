@@ -8,13 +8,10 @@ authors:
   - tlowden
 
 topics:
-  - data
+  - open-data
   - analytics
   - mobile
-  - analytics
   - customer-experience
-  - data
-  - mobile
   - user-experience
 
 ---

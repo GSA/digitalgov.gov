@@ -10,7 +10,6 @@ authors:
 topics:
   - accessibility
   - multimedia
-  - us-access-board
   - social-media
 ---
 

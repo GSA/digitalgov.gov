@@ -6,21 +6,14 @@ summary: 'On September 8, 2016 Administrator Denise Turner Roth of the U.S. Gene
 authors:
   - gsa-blog-team
 topics:
-  - code
-  - product-management
+  - software-engineering
+  - product-and-project-management
   - content-strategy
-  - policy
-  - 18f
-  - agile
   - cloud-and-infrastructure
-  - data
+  - open-data
   - budgeting-and-performance
-  - budgeting-and-performance
-  - FAS
-  - Federal Acquisition Service
   - security
   - innovation
-
 ---
 
 _Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ 

@@ -11,10 +11,9 @@ authors:
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-  - data
+  - open-data
   - budgeting-and-performance
-  - project-management
-  - analytics
+  - product-and-project-management
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

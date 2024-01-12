@@ -19,7 +19,6 @@ summary: The USAGov team strives to ensure all our websites are accessible to as
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - usa-gov
   - multilingual
   - usability-testing
   - user-experience

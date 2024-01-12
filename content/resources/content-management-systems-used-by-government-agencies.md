@@ -9,7 +9,6 @@ redirectto: https://www.itdashboard.gov/
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
-  - cms
 
 # Controls how this page appears across the site
 # 0 -- hidden

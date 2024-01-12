@@ -8,8 +8,6 @@ authors:
   - andreanocesigritz
 topics:
   - content-strategy
-  - monthly-theme
-  - content-strategy
 ---
 
 In this age of content marketing that has led publications to call certain ads &#8220;paid content,&#8221; those of us in government need to broaden our ideas about what “content” is. Many of us get it, but some agencies may also be missing opportunities because they don’t even grasp that content is a broad and fluid thing.

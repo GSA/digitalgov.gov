@@ -7,19 +7,9 @@ authors:
   - david-fern
 topics:
   - mobile
-  - user-testing-and-research
+  - research
   - content-strategy
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - transportation-security-administration
-  - TSA
   - user-experience
-  
 ---
 
 With 14 test cycles under our belt, the Federal CrowdSource Mobile Testing Program has heard one recurring theme from our testers—"there's too much information!"

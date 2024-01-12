@@ -8,8 +8,6 @@ summary: Since 2003, one program in GSA’s Technology Transformation Services (
 topics:
   - multilingual
   - content-strategy
-  - usagov
-  - multilingual
   - multilingual
   - diversity-equity-and-inclusion
 

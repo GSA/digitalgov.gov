@@ -18,7 +18,6 @@ source: uswds
 
 # see all topics at https://digital.gov/topics
 topics:
-  - uswds
   - digital-service-delivery
 
 # see all authors at https://digital.gov/authors

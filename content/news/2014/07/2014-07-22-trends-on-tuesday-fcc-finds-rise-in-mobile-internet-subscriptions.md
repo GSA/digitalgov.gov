@@ -7,10 +7,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - FCC
-  - federal-communications-commission
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

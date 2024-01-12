@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - content-strategy
-  - aoi
+  - user-experience
   - emerging-tech
 ---
 

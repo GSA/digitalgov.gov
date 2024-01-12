@@ -9,8 +9,6 @@ authors:
 topics:
   - application-programming-interface
   - mobile
-  - GitHub
-  - mobile
   - open-source
 ---
 

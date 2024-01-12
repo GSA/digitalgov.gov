@@ -19,7 +19,6 @@ summary: This week, we’re exploring what it means to measure performance, and
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery
-  - uswds
   - analytics
   - customer-experience
 

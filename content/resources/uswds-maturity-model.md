@@ -17,9 +17,8 @@ summary: "How to adopt the design system incrementally and design and build bett
 
 # see all topics at https://digital.gov/topics
 topics:
-  - code
+  - software-enginering
   - design
-  - uswds
   - digital-service-delivery
 
 # see all authors at https://digital.gov/authors

@@ -7,15 +7,8 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
   - analytics
-  - BLS
-  - Census
-  - content-strategy
   - open-data
-  - content-strategy
-  - us-bureau-of-labor-statistics
-  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2015/04/600-x-556-192579-users-analytics-usa-gov-tax-time.jpg" alt="A screen capture showing that there were 192,579 people visiting government websites at that moment." >}}

@@ -34,9 +34,8 @@ weight: 1
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
 topics:
-  - product-management
+  - product-and-project-management
   - security
-  - authentication
   - content-strategy
 
 # Make it better ♥

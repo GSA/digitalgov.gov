@@ -6,10 +6,10 @@ summary: 'You may have heard of &ldquo;serverless architecture&rdquo; or Amazon 
 authors:
   - bbrantley
 topics:
-  - product-management
-  - architecture
+  - product-and-project-management
+  - information-architecture
   - cloud-and-infrastructure
-  - data
+  - open-data
   - emerging-tech
 ---
 

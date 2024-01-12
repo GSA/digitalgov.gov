@@ -6,12 +6,8 @@ summary: SMS messages are an excellent way to reach audiences. The National Canc
 authors:
   - kdaniel
 topics:
-  - mobile
-  - monthly-theme
+  - contact-center
   - customer-experience
-  - government-contact-centers
-  - national-cancer-institute
-  - NCI
   - mobile
 ---
 

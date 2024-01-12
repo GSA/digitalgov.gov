@@ -8,15 +8,9 @@ authors:
   - jamie-albrecht
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
-  - user-testing-and-research
   - user-experience
-  - research
-  - sprint
-  - us-department-of-the-interior
-  - uswds
   - research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428

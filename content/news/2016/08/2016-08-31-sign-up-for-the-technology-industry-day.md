@@ -6,17 +6,11 @@ summary: 'On September 8, 2016, the General Services Administration (GSA) is hos
 authors:
   - gsa-blog-team
 topics:
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
-  - 18f
-  - agile
   - cloud-and-infrastructure
-  - code
+  - software-enginering
   - budgeting-and-performance
-  - budgeting-and-performance
-  - FAS
-  - federal-acquisition-service
   - security
   - innovation
 

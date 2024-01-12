@@ -7,10 +7,7 @@ authors:
   - victoria-wales
 topics:
   - content-strategy
-  - content-strategy
   - multilingual
-  - usa-gov
-  - usagov
 ---
 
 **They ranked among our top three most popular emails in 2015.**

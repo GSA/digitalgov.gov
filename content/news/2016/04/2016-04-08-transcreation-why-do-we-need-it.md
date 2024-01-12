@@ -7,13 +7,10 @@ authors:
   - andrea-m-castelluccio
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - communication
   - content-strategy
   - multilingual
-  - multilingual
-  - multilingual
-  - usagov
 ---
 
 Transcreation is a relatively new term that blends the words translation and creation. In a nutshell, transcreation involves taking a concept in one language and completely recreating it in another language. A successfully transcreated message (either written or visual) evokes the same emotions and carries the same implications in the target language as it does in the source language, but in a way that resonates with the target audience.

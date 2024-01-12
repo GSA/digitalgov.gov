@@ -6,8 +6,6 @@ summary: 'What is mobile-friendly? Mobile-friendly simply means your visitors ca
 authors:
   - david-fern
 topics:
-  - monthly-theme
-  - mobile
   - mobile
   - usability
 ---

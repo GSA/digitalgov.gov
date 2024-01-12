@@ -7,17 +7,11 @@ authors:
   - beth-martin
 topics:
   - analytics
-  - aoi
-  - digitalgov-user-experience-program
-  - FAA
-  - Federal Aviation Administration
-  - gsa
+  - user-experience
   - research
   - design
-  - usability-testing
+  - usability
   - user-experience
-  - user-experience-community-of-practice
-  
 ---
 
 {{< legacy-img src="2015/02/600-x-420-Usability-Mathias-Rosenthal-iStock-Thinkstock-523316205.jpg" alt="Usability sign" caption="" >}} 

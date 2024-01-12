@@ -7,8 +7,6 @@ authors:
   - margot-lawton-kern
 topics:
   - content-strategy
-  - national-institutes-of-health
-  - nih
 ---
 
 The National Institute of Biomedical Imaging and Bioengineering recently launched the “[NIBIB Bionic Man](http://www.nibib.nih.gov/science-education/bionic-man),” an interactive Web tool that allows students and the public to learn about cutting-edge research in biotechnology.

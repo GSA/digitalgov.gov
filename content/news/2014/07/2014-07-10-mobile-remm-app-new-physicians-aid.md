@@ -7,20 +7,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - epa
-  - fda
-  - federal-emergency-management-agency
-  - fema
-  - HHS
-  - mobile
-  - mobile
-  - Nuclear Regulatory Commission
-  - mobile
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
  
 ---
 

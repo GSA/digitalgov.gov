@@ -9,7 +9,6 @@ authors:
 topics:
   - mobile
   - innovation
-  - white-house
 ---
 
 > Summary: The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies.

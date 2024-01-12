@@ -7,24 +7,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - bbg
-  - broadcasting-board-of-governors
-  - mobile
-  - federal-student-aid
-  - FSA
   - multilingual
-  - Internal Revenue Service
-  - IRS
-  - mobile
-  - mobile
-  - multilingual
-  - multilingual
-  - national-institutes-of-health
-  - nih
-  - SSA
-  - the-united-states-social-security-administration
-  - mobile
-
 ---
 
 In mobile app development, if you aren&#8217;t making it multilingual, you miss providing anytime, anywhere information and services to important mobile-only audiences.

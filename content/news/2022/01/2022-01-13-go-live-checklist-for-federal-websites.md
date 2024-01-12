@@ -7,18 +7,15 @@ summary: Covering the breadth of federal web policy, the new downloadable checkl
 topics:
   - accessibility
   - content-strategy
-  - content-strategy
   - user-experience
   - design
   - mobile
   - governance
   - analytics
-  - analytics
   - search
   - privacy
   - security
   - digital-service-delivery
-  - resource
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg

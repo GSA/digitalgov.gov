@@ -7,11 +7,7 @@ authors:
   - kdaniel
 topics:
   - content-strategy
-  - monthly-theme
-  - agile
-  - office-of-the-us-foreign-assistance-resources
   - research
-  - us-department-of-state
   - user-experience
 ---
 

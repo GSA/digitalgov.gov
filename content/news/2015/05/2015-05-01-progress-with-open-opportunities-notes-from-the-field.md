@@ -6,9 +6,6 @@ summary: 'As a task creator with an ambitious agenda and limited resources, I’
 authors:
   - dannielle-blumenthal
 topics:
-  - our-work
-  - national-institute-of-standards-and-technology
-  - NIST
   - professional-development
 ---
 

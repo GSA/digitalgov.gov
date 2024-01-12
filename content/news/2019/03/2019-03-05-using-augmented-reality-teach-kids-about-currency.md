@@ -8,9 +8,6 @@ authors:
   - ayjah-thomas
 topics:
   - mobile
-  - mobile
-  - frb
-  - federal-reserve-board
 featured_image:
   uid: money-adventure-welcome-screen
   alt:

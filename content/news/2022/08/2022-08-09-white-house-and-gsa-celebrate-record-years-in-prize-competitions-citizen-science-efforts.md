@@ -16,13 +16,7 @@ summary: none
 # See all topics at https://digital.gov/topics
 topics:
   - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - challenges-and-prizes-community-of-practice
-  - challenge-gov
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  
-
+  - challenges-and-prize-competitions
 slug: white-house-and-gsa-celebrate-record-years-in-prize-competitions-citizen-science-efforts
 # Controls how this page appears across the site
 # 0 -- hidden

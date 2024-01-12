@@ -7,9 +7,7 @@ authors:
   - gwynne-kostin
 topics:
   - content-strategy
-  - our-work
   - analytics
-  - content-strategy
   - search
 ---
 

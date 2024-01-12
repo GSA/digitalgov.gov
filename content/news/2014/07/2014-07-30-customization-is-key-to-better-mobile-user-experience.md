@@ -7,19 +7,6 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - hhs
-  - loc
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - nps
-  - smithsonian-institution
-  - us-department-of-education
-  - us-national-park-service
-  - united-states-department-of-health-and-human-services
   - user-experience
 
 

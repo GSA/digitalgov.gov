@@ -8,12 +8,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-experience
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
-  - national-cancer-institute
-  - NCI
-  - Office of Child Support Enforcement
+  - customer-service
   - user-experience
 ---
 

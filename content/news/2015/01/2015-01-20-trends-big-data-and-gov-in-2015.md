@@ -6,13 +6,9 @@ summary: ' As we move into 2015, the amount of data available in the digital eco
 authors:
   - kdaniel
 topics:
-  - data
-  - monthly-theme
+  - open-data
   - analytics
-  - epa
   - emerging-tech
-  - emerging-tech
-  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870" >}}

@@ -6,22 +6,9 @@ summary: 'A recent DigitalGov webinar on syndicated content and the recent achie
 authors:
   - tyrus-manuel
 topics:
-  - content-strategy
-  - mobile
-  - monthly-theme
   - application-programming-interface
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - fda
-  - HHS
-  - mobile
-  - mobile
-  - national-institutes-of-health
-  - nih
   - content-strategy
-  - content-strategy
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
+  - mobile
 ---
 
 A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{< ref "/topics/content-strategy" >}}). By offering critical health information via [syndication]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 

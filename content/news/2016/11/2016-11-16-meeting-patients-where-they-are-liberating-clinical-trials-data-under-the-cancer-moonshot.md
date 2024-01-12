@@ -8,14 +8,10 @@ authors:
   - michael-balint
 topics:
   - application-programming-interface
-  - code
+  - software-engineering
   - content-strategy
-  - data
+  - open-data
   - user-experience
-  - application-programming-interface
-  - code
-  - content-strategy
-  - data
   - innovation
 ---
 

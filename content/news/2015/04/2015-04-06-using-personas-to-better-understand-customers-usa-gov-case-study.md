@@ -6,13 +6,12 @@ summary: 'Personas are fictional characters that describe an organization’s cu
 authors:
   - michelle-chronister
 topics:
-  - user-testing-and-research
+  - research
   - analytics
   - customer-experience
   - search
   - multilingual
   - research
-  - usa-gov
   - user-experience
   
 ---

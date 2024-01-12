@@ -9,12 +9,7 @@ authors:
 topics:
   - content-strategy
   - analytics
-  - analytics
-  - content-strategy
   - multilingual
-  - analytics
-  - usagov
-
 ---
 
 > _This post was originally published on the [USAGov blog](https://blog.usa.gov/a-new-metric-to-help-us-measure-our-content-efficiency)._

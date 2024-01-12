@@ -9,15 +9,10 @@ authors:
   - kristen-albrittain
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - social-media
-  - content-strategy
-  - NARA
-  - national-archives-and-records-administration
-  - smithsonian-institution
   - social-media
   - terms-of-service
-  - tos
 ---
 
 Hi there, DigitalGov! {{< legacy-img src="https://media0.giphy.com/media/3o6Zt3PBAGPUvmvUJO/giphy.gif" alt="Animated gif of a woman with the word, Hi, written on her hand." caption="" >}} 

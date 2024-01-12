@@ -8,13 +8,7 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - sitesusagov
-  - usability-case-study
-
+  - usability
 ---
 
 Smartphones make up 75% of the mobile market—which makes [mobile-friendliness a must]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}) for government agencies. With the recent update to Google’s search algorithm, or what some are calling [Mobilegeddon]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}), the case for building a mobile-friendly site becomes even stronger.

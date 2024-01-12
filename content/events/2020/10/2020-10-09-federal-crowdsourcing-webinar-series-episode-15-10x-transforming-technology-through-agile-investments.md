@@ -11,7 +11,7 @@ end_date: 2020-10-29 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - crowdsourcing-and-citizen-science
-  - challenges
+  - challenges-and-prize-competitions
   - product-and-project-management
 # See all authors at https://digital.gov/authors
 authors:

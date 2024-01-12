@@ -6,14 +6,9 @@ summary: ' Ever since we announced IFTTT was available for federal use, dozens o
 authors:
   - jherman
 topics:
-  - application-programming-interface
-  - monthly-theme
-  - social-media
-  - 18f
-  - application-programming-interface
   - analytics
+  - application-programming-interface
   - social-media
-  - socialgov
 ---
 
 {{< legacy-img src="2015/02/600-x-274-IFTTT-recipe-for-Send-a-SMS-at-a-certain-time-every-day.jpg" alt="IFTTT recipe for send a SMS at a certain time every day" >}}

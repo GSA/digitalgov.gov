@@ -5,7 +5,6 @@ title: Improving Access to Services for People with Limited English Proficiency 
 summary: "EO 13166 requires federal agencies to examine the services they provide, identify any need for services to those with limited English proficiency (LEP), and develop and implement a system to provide those services so LEP persons can have meaningful access to them."
 topics:
   - multilingual
-  - policy
 authors:
   - apiazza
 

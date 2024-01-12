@@ -6,26 +6,8 @@ summary: 'This month we’re highlighting articles about challenge competitions 
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - epa
-  - crowdsourcing-and-citizen-science
-  - national-institute-of-standards-and-technology
-  - national-science-foundation
-  - NIST
-  - NPS
-  - nsf
-  - OSTP
-  - us-environmental-protection-agency
-  - us-national-park-service
-  - white-house-office-of-science-and-technology-policy
 ---
 
 This month we’re highlighting articles about challenge competitions and crowdsourcing across the federal government.

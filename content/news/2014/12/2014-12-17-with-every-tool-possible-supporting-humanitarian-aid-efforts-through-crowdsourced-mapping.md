@@ -7,9 +7,6 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - monthly-theme
-  - crowdsourcing-and-citizen-science
-  - data
   - open-data
 ---
 

@@ -8,9 +8,7 @@ authors:
 topics:
   - content-strategy
   - communication
-  - blog
   - podcast
-  - content-strategy
 
 ---
 

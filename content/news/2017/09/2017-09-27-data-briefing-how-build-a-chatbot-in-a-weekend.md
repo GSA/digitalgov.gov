@@ -6,16 +6,14 @@ summary: 'As chatbots have become more popular, some online sites will let you c
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - social-media
   - emerging-tech
   - artificial-intelligence
   - content-strategy
   - research
-  - social-media
-  - training
   - communication
-  - rpa
+  - robotic-process-automation
   
 featured_image:
   uid: Cropped-chatbot-technology-concept-on-electric-circuit-background-surrounded-by-related-ai-and-chat-icons-zapp2photo-istock-thinkstock-676338286

@@ -7,8 +7,7 @@ authors:
   - marina-fox
 topics:
   - analytics
-  - analytics
-  - data
+  - open-data
 ---
 
 At the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), some of the most frequently asked questions we get are “how can I get access to the DAP data?” and “what do I do with all this data?” We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that it is, indeed, [oceans of data]({{< ref "2014-04-01-digital-analytics-program-dap-oceans-of-data.md" >}}), how do we not “drown” in it, and, perhaps more importantly, how do we make sense of it?

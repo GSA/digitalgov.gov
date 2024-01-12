@@ -7,12 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
-  - application-programming-interface
   - security
-  - US Department of Agriculture
-  - USDA
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/03/FDAgov-API-Key.jpg" alt="FDAgov-API-Key" >}}

@@ -7,15 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - code
-  - application-programming-interface
-  - code
-  - federal-register
-  - NARA
-  - national-archives-and-records-administration
-  - OPM
-  - united-states-office-of-personnel-management
-  - application-programming-interface
+  - software-engineering
 ---
 
 Application programming interfaces (APIs) can be confusing when people first hear of the concept. There are the many acronyms like REST (Representational State Transfer) and JSON (JavaScript Object Notation) that further obscure what APIs do. The idea behind APIs is quite simple: APIs are how computer programs share information between themselves.

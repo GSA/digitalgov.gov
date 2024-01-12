@@ -8,9 +8,7 @@ authors:
 topics:
   - analytics
   - social-media
-  - aoi
-  - socialgov
-  - socialgov-community
+  - user-experience
 ---
 
 **[{{< legacy-img src="2013/12/key-metrics.jpg" alt="Image of visualized performance metrics." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/key-metrics.jpg)&#8220;Dark Social&#8221;** media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant messaging.

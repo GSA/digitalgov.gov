@@ -6,9 +6,7 @@ summary: One large issue my team has run into when analyzing and reporting data 
 authors:
   - kelley-holden
 topics:
-  - data
-  - analytics
-  - monthly-theme
+  - open-data
   - analytics
   - data-visualization
 ---

@@ -4,7 +4,7 @@ date: 2012-07-02 16:19:34 -0400
 title: 'Mobile Webinar Series Recap: Responsive Design'
 summary: 'Some agencies are turning to responsive design to support device-agnostic content delivery which was called for in the recently released Digital Innovation Strategy. Last week, GSA&#8217;s Mobile Program Management Office held a responsive design webinar in conjunction with DigitalGov University outlining agency experiences with responsive design. Agency experts covered responsive design technical approaches and strategy and you can'
 topics:
-  - code
+  - software-engineering
   - design
   - mobile
 ---

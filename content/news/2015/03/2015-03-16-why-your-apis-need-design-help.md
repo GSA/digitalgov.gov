@@ -7,14 +7,9 @@ authors:
   - jonathan-rubin
 topics:
   - application-programming-interface
-  - code
-  - monthly-theme
-  - application-programming-interface
-  - application-programming-interface
-  
-  - json
+  - software-engineering
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
 ---
 

@@ -6,14 +6,8 @@ summary: ' Those cutting edge folks over at Census have raised the bar again! No
 topics:
   - mobile
   - application-programming-interface
-  - Census
-  - mobile
-  - mobile
-  - mobile
   - mobile
   - social-media
-  - mobile
-  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2014/09/600-x-390-Census-overlay-Screen-Shot-2014-09-04.jpg" alt="A screen capture of Census dot gov with an overlay displaying 3 of their mobile apps." >}}

@@ -7,13 +7,9 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - data
   - mobile
-  - application-programming-interface
   - open-data
-  - mobile
   - emerging-tech
-
 ---
 
 The increasing sophistication of mobile devices has created many opportunities for developers. Thanks to APIs* and open data, developers can build thousands of mobile apps and mobile websites to meet users’ needs. This opportunity has created one of the most contentious debates in the mobile development community: mobile apps versus mobile websites? There is, yet, no solution to the debate. However, there are some advantages and disadvantages to both types of mobile solutions.

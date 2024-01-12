@@ -7,8 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 

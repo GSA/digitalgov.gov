@@ -7,15 +7,11 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
   - customer-experience
   - data-visualization
   - research
   - plain-language
   - social-media
-  - content-strategy
-  - us-department-of-labor
 ---
 
 {{< legacy-img src="2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 

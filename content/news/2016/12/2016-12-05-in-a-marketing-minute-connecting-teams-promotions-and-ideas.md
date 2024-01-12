@@ -7,14 +7,8 @@ authors:
   - victoria-wales
 topics:
   - content-strategy
-  - product-management
-  - social-media
-  - content-strategy
-  - policy
-  - content-strategy
-  - content-strategy
+  - product-and-project-management
   - multilingual
-  - kids-gov
   - social-media
 ---
 

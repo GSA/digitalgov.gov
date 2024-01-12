@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - content-strategy
-  - united-states-census-bureau
+  - usability
 ---
 
 {{< legacy-img src="2014/05/250-x-172-Drawing-Business-Concept-Peshkova-iStock-ThinkStock-180520474.jpg" alt="A drawing of business concepts on a wall, lit by 4 overhead lights" caption="" >}} 

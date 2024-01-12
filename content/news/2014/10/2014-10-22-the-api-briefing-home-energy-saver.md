@@ -7,9 +7,6 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - DOE
-  - united-states-department-of-energy
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/10/400-x-268-Dept-Energy-Home-Energy-Saver-HES-Professional-Tool.jpg" alt="Dept Energy Home Energy Saver HES Professional Tool" >}}

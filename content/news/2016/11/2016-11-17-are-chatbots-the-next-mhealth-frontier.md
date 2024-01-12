@@ -10,11 +10,7 @@ topics:
   - content-strategy
   - mobile
   - social-media
-  - content-strategy
-  - policy
   - artificial-intelligence
-  - usagov
-
 ---
 
 In April, <a href="https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/" target="_blank">Facebook made it possible for organizations to use chatbots</a> to send and receive messages from users of <a href="https://www.messenger.com/" target="_blank">Facebook Messenger</a>. That’s a big deal. Facebook Messenger is now used by 900 million people every month. As the name implies, it’s a messaging platform that people use to send short messages to each other through the app. <a href="https://www.similarweb.com/blog/worldwide-messaging-apps" target="_blank">It’s the most popular messaging app in the U.S</a>, and the second most popular of those apps worldwide, behind only WhatsApp (which Facebook also owns). {{< legacy-img src="2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 

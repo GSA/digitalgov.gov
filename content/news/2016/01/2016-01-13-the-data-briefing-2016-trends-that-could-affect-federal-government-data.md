@@ -6,11 +6,7 @@ summary: 'Many IT pundits predict 2016 will be a major tipping point in data and
 authors:
   - bbrantley
 topics:
-  - monthly-theme
   - emerging-tech
-  - emerging-tech
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 Many IT pundits predict 2016 will be a major tipping point in data and related technologies. Here are just a few predictions:

@@ -7,8 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - our-work
-  - recaps
   - security
 
 ---

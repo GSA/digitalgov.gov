@@ -11,11 +11,6 @@ topics:
   - emerging-tech
   - mobile
   - open-data
-  - emerging-tech
-  - us-department-of-veterans-affairs
-  - VA
-  - va-center-for-innovation
-  - VACI
 ---
 
 Two significant items in federal government data in the last few weeks:

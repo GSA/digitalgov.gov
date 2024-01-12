@@ -14,8 +14,6 @@ topics:
   - digital-service-delivery
   - content-strategy
   - analytics
-  - uswds
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors:

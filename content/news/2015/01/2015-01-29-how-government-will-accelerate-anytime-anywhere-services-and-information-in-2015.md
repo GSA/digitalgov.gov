@@ -8,24 +8,11 @@ authors:
 topics:
   - product-management
   - mobile
-  - aoi
-  - Census
+  - user-experience
   - content-strategy
   - crowdsourcing-and-citizen-science
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DOT
-  - government-contact-centers
-  - HHS
+  - contact-center
   - emerging-tech
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - nasa
-  - content-strategy
-  - emerging-tech
-  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2015/01/600-x-341-Earth-and-electronics-cherezoff-iStock-Thinkstock-495813521.jpg" alt="Earth and electronics" caption="cherezoff, iStock, Thinkstock" >}}

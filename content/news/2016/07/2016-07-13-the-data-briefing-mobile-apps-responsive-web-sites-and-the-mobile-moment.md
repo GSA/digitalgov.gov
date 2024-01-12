@@ -6,15 +6,12 @@ summary: 'The debate between responsive websites and mobile apps took a decisive
 authors:
   - bbrantley
 topics:
-  - mobile
   - artificial intelligence
   - analytics
   - customer-experience
-  - data
+  - emerging-tech
   - open-data
   - mobile
-  - emerging-tech
-
 ---
 
 The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’s Digital Service (UKDS) banned the creation of mobile apps. In an [interview with _GovInsider_](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/), the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build and updating the application only requires changing one platform. &#8220;For government services that we were providing, the web is a far far better way… and still works on mobile,&#8221; Terrett said.

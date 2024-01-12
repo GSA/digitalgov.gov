@@ -7,13 +7,8 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - data
-  - application-programming-interface
-  - Census
-  - data
-  - open-data
   - emerging-tech
-  - united-states-census-bureau
+  - open-data
 ---
 
 The Census Bureau conducts more surveys than just the Constitutionally-mandated Decennial Census. There is also the [American Community Survey](http://www.census.gov/programs-surveys/acs/), the [Economic Census](http://www.census.gov/econ/census/), the [County Business Patterns series](http://www.census.gov/programs-surveys/cbp.html), statistics on [Nonemployer businesses](http://www.census.gov/econ/nonemployer/), and the [Survey of Business Owners and Self-Employed Persons](http://www.census.gov/programs-surveys/sbo.html).  On their own, each survey is full of useful information for researchers, local and state governments, and entrepreneurs. However, how valuable would the data be if it were mixed and displayed geographically?

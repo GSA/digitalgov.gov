@@ -8,10 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - content-strategy
-  - fda
-  - HHS
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
 ---
 
 openFDA [launched today](http://open.fda.gov/update/openfda-innovative-initiative-opens-door-to-wealth-of-fda-publicly-available-data/) and with it the first publicly available dataset—[Drug Adverse Reaction and Medication Error Reports](http://open.fda.gov/drug/event/)—that covers more than 4 million records from 2004 to 2013.

@@ -7,14 +7,8 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - data
   - mobile
-  - data-gov
-  - DOT
-  - US Department of Agriculture
-  - united-states-department-of-transportation
-  - USDA
-  - application-programming-interface
+  - open-data
 ---
 
 {{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}}

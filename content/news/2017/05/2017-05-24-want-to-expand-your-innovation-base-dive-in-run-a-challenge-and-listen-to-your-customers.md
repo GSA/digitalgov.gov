@@ -9,14 +9,10 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - content-strategy
-  - policy
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - hhs
   - innovation
-  - prizes-and-competitions
-  - user-centered-design
+  - human-centered-design
 ---
 
 The [Office of the National Coordinator](https://www.healthit.gov/) (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don’t have the funding and personnel of larger agencies, and, for the most part, this is fine. The entrenched industry stakeholders know what’s happening at ONC, our policies, toolkits and initiatives.

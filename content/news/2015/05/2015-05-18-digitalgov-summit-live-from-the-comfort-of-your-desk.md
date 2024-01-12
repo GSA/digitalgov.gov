@@ -8,22 +8,8 @@ authors:
   - apiazza
 topics:
   - customer-experience
-  - our-work
-  - digitalgov-summit
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
-  - gsa
-  - HHS
-  - Internal Revenue Service
-  - IRS
   - content-strategy
-  - US Citizenship and Immigration Service
-  - US Department of Agriculture
-  - united-states-department-of-health-and-human-services
-  - USCIS
-  - USDA
-  - white-house
-
+  - customer-experience
 ---
 
 The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) with this mission and your needs in mind. The theme is open and [the agenda](https://web.archive.org/web/20150706193108/https://summit.digitalgov.gov/agenda/) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.

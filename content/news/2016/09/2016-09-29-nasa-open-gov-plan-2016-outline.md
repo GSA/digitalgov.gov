@@ -7,22 +7,14 @@ authors:
   - beth-beck
 topics:
   - application-programming-interface
-  - challenges
-  - code
+  - software-engineering
   - content-strategy
   - crowdsourcing-and-citizen-science
   - governance
-  - product-management
+  - product-and-project-management
   - mobile
-  - content-strategy
-  - policy
   - challenges-and-prize-competitions
-  - crowdsourcing-and-citizen-science
-  - code
   - innovation
-  - mobile
-  - nasa
-  - open
   - open-data
   - open-government
 ---

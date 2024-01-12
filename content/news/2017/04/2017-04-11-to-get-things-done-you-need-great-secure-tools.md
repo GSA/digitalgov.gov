@@ -6,17 +6,11 @@ summary: 'To folks new to government, one of the most surprising differences bet
 authors:
   - v-david-zvenyach
 topics:
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
-  - 18f
   - security
-  - gsa
   - cloud-and-infrastructure
-  - our-work
-  - SaaS
   - security
-
 ---
 
 To folks new to government, one of the most surprising differences between our work and work in the private sector are the barriers in accessing commercially available software, and commercially available Software-as-a-Service (SaaS) in particular. There are good reasons for these barriers: the government places premiums on considerations such as security, privacy, accessibility, license management, and competition. It takes great care to work within those considerations while also providing digital teams with great tools to get work done.

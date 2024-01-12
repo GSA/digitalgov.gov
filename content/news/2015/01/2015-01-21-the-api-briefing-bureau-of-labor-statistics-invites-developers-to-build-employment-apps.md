@@ -7,16 +7,6 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - BLS
-  - Census
-  - SEC
-  - us-bureau-of-labor-statistics
-  - US Department of Agriculture
-  - us-department-of-the-treasury
-  - us-securities-and-exchange-commission
-  - united-states-census-bureau
-  - USDA
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}}

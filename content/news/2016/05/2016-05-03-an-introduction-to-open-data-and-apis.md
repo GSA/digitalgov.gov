@@ -7,12 +7,7 @@ authors:
   - john-paul
 topics:
   - application-programming-interface
-  - code
-  - data
-  - 18f
-  - analytics-usa-gov
-  - application-programming-interface
-  - data-gov
+  - software-engineering
   - open-data
 
 ---

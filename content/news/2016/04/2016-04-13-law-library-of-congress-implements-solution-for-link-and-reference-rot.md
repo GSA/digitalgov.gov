@@ -7,9 +7,6 @@ authors:
   - charlotte-stichter
 topics:
   - content-strategy
-  - Law Library of Congress
-  - Library of Congress
-  - LOC
 ---
 
 Last fall, the Law Library of Congress implemented an external archiving solution for the problem of link and reference rot in its legal research reports. “Link rot” and “reference rot” (a.k.a. “content drift”) are the terms used to describe, respectively, the problem of non-working Web addresses and Web addresses that work but link to modified content different from what the user originally saw. Link rot is most commonly identified when a user receives the familiar “404—File Not Found” error message, or a [similar error message](http://www.webopedia.com/quick_ref/error.asp), on his or her computer screen. Reference rot can be more difficult to spot without text comparison software, but may be indicated by a “last modified” message at the bottom of a Web page. Both problems are the byproduct of Internet impermanence—websites can be redesigned or shut down, content can be moved or changed, or service can be restricted without advance notice. {{< legacy-img src="2016/04/600-x-390-Exterior-architecture-details-of-the-James-Madison-Building-at-the-Library-of-Congress-AppalachianViews-iStock-Thinkstock-531078301.jpg" alt="Exterior architecture details of the James Madison Building, where the Law Library is located, at the Library of Congress" caption="" >}} 

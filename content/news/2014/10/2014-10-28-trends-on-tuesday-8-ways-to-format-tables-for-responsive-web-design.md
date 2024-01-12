@@ -9,12 +9,6 @@ authors:
   - beth-martin
 topics:
   - design
-  - mobile
-  - monthly-theme
-  - mobile
-  - mobile
-  - mobile
-
 ---
 
 Making tables, charts and graphs mobile friendly is like squeezing 10 pounds of sugar into a 5 pound bag. Mobile Gov Community of Practice member Debra Fiorrito from the Defense Accounting and Financing Service recently highlighted this challenge in her responsive [Web design implementation]({{< ref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}} "Responsive Web Design Challenges Webinar Recap"). The challenge also came up during a call with the Federal Mobile Crowdsource Testing Program when discussing [photo carousels]({{< ref "2014-08-13-photo-carousels-on-mobile-websites-use-with-caution.md" >}} "Photo Carousels on Mobile Websites: Use With Caution!"). David Fern, from the Social Security Administration (SSA), Clair Koroma, from the Department of Health and Human Services (HHS), and Beth Martin, from the Federal Aviation Administration (FAA), researched the topic to see what current approaches there are and found eight ways organizations are making charts and graphs mobile friendly.

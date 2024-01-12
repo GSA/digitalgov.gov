@@ -6,11 +6,8 @@ summary: 'This is the final post in the 5-part series, The Right Tools for the J
 authors:
   - nick-marden
 topics:
-  - product-management
-  - monthly-theme
-  - our-work
+  - product-and-project-management
   - content-strategy
-  - policy
   - cloud-and-infrastructure
   - search
   - security

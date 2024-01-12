@@ -8,14 +8,9 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - user-testing-and-research
   - user-experience
-  - cdc
   - multilingual
-  - social-media
-  - usagov
   - research
-  - webinar
 ---
 
 > _Summary: How to leverage your resources to reach Spanish-dominant Hispanics online._

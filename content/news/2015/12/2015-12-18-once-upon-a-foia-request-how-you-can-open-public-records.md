@@ -9,9 +9,6 @@ authors:
 topics:
   - product-management
   - social-media
-  - DOJ
-  - FBI
-  - Federal Bureau of Investigation
   - open-government
 ---
 

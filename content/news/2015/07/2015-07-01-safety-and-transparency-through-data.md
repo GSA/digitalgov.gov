@@ -7,9 +7,6 @@ authors:
   - michael-pulsifer
 topics:
   - application-programming-interface
-  - data
-  - application-programming-interface
-  - data
   - open-data
 ---
 

@@ -6,12 +6,9 @@ summary: 'Get your customer personas right, and you will improve the customer ex
 authors:
   - ktrebon
 topics:
+  - accessibility
   - product-management
   - content-strategy
-  - policy
-  - accessibility
-  - customer-experience
-  - customer-experience
   - customer-experience
   - research
   - user-experience

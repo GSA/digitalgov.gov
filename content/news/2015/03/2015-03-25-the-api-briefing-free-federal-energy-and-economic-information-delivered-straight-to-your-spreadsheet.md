@@ -7,11 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
-  - data
   - open-data
-  - united-states-department-of-energy
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Bulb-with-business-background-Gunnar-Pippel-Hemera-Thinkstock-ThinkstockPhotos-101180930.jpg" alt="Bulb with business background" caption="" >}} 

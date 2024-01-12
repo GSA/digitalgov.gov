@@ -22,8 +22,6 @@ topics:
   - accessibility
   - multilingual
   - design
-  - 10x
-  - usa-gov
   - multilingual
 # See all authors at https://digital.gov/authors
 authors:

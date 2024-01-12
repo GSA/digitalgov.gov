@@ -8,14 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - content-strategy
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
-  - application-programming-interface
-  - CMS
-  - national-institutes-of-health
-  - nih
-
-  - content-strategy
 ---
 
 Here at DigitalGov, we generally focus on federal governmental digital efforts within the U.S. It is where we live and operate, so it makes sense, but many governments across the world struggle with the same issues and leverage technology as a common solution. When I came across an article where Australia announced its “[government as an API](https://www.govcms.gov.au/about/news/govcms-announces-implementation-omni-channel-and-government-api)” platform was available, it seemed like a great opportunity to see how another country is tackling [structured and open content]({{< ref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}}).

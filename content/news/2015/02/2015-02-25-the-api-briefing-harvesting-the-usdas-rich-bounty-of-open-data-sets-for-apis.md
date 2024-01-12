@@ -7,11 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
   - emerging-tech
-  - US Department of Agriculture
-  - USDA
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="Data Center" caption="" >}} 

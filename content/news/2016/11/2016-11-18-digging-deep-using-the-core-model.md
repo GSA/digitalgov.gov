@@ -9,9 +9,7 @@ authors:
 
 topics:
   - content-strategy
-  - product-management
-  - content-strategy
-  - content-strategy
+  - product-and-project-management
   - analytics
 
 ---

@@ -11,9 +11,6 @@ featured_image:
 topics:
   - social-media
   - content-strategy
-  - policy
-  - content-strategy
-  - social-media
 ---
 
 > _This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/staying-current-today-s-fast-moving-social-media-world)._

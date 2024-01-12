@@ -7,17 +7,8 @@ authors:
   - veronica-phillips
 topics:
   - application-programming-interface
-  - code
+  - software-engineering
   - content-strategy
-  - data
-  - application-programming-interface
-  - code
-  - content-strategy
-  - nasa
-  - National Aeronautics and Space Administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - open
   - open-data
 ---
 

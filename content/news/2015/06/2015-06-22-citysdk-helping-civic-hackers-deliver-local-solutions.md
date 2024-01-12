@@ -7,14 +7,8 @@ authors:
   - tyrone-grandison
 topics:
   - application-programming-interface
-  - data
-  - application-programming-interface
-  - Census
-  - data
-  - json
-  - national-day-of-civic-hacking
   - open-data
-  - united-states-census-bureau
+  - software-engineering
 ---
 
 Civic hackers are a special breed—their primary motivation is closely tied to the social issues closest to their hearts.

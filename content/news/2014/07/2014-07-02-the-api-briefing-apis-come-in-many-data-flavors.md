@@ -7,19 +7,8 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - data
-  - Census
-  - DOL
-  - FAA
-  - Federal Aviation Administration
+  - open-data
   - mobile
-  - OPM
-  - us-department-of-labor
-  - united-states-census-bureau
-  - united-states-geological-survey
-  - united-states-office-of-personnel-management
-  - USGS
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/06/250-x-167-23891851-3-ice-cream-cones-Jupiterimages-Photos-com-Thinkstock-89697244.jpg" alt="Three different flavors of ice cream cones, on a blue gradient background" caption="" >}}

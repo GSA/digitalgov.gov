@@ -8,18 +8,11 @@ authors:
 
 topics:
   - content-strategy
-  - policy
-  - user-testing-and-research
+  - research
   - user-experience
   - emerging-tech
-  - dhs
-  - content-strategy
-  - research
-  - Security
-  - united-states-army
-  - united-states-department-of-homeland-security
+  - security
   - multimedia
-  - virtual-augmented-reality-community
 
 ---
 

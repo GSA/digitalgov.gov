@@ -8,10 +8,9 @@ authors:
   - jonathan-rubin
 
 topics:
-  - social-media
-  - multimedia
   - communication
-  - usagov
+  - multimedia
+  - social-media
 
 ---
 

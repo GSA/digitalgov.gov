@@ -9,9 +9,6 @@ topics:
   - governance
   - mobile
   - content-strategy
-  - policy
-  - fda
-  - HHS
   - innovation
 ---
 

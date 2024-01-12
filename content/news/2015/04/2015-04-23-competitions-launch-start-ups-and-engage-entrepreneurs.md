@@ -6,14 +6,8 @@ summary: ' When people hear about challenge competitions, they most often ask ab
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - national-institutes-of-health
-  - nih
-  - OSTP
-  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" >}}

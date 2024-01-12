@@ -14,7 +14,6 @@ topics:
   - digital-service-delivery
   - governance
   - professional-development
-  - training
 
 # see all authors at https://digital.gov/authors
 authors: 

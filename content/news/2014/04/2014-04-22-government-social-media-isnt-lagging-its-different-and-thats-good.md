@@ -6,12 +6,10 @@ summary: ' Social Media tools, trends and algorithms come and go, but federal ma
 authors:
   - jherman
 topics:
+  - application-programming-interface
   - product-management
   - social-media
-  - aoi
-  - application-programming-interface
-  - socialgov
-  - socialgov-community
+  - user-experience
 ---
 
 <p style="text-align: center">

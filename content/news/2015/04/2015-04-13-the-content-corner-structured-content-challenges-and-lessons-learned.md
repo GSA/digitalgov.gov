@@ -6,15 +6,9 @@ summary: 'In May 2014, Sarah Crane discussed the importance of structured conten
 authors:
   - tyrus-manuel
 topics:
-  - content-strategy
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
   - application-programming-interface
-  - CMS
+  - contact-center
   - content-strategy
-  - government-contact-centers
-  - content-strategy
-  - usa-gov
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="hoodesigns/iStock/Thinkstock" >}} 

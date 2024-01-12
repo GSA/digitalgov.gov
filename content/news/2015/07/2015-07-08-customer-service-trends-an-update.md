@@ -8,22 +8,13 @@ authors:
 topics:
   - product-management
   - user-experience
-  - agile
   - content-strategy
   - customer-experience
-  - customer-experience
-  - customer-experience
   - analytics
-  - federal-emergency-management-agency
-  - fema
   - mobile
-  - mobile
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - research
-  - smithsonian-institution
   - social-media
-  - user-centered-design
+  - human-centered-design
 ---
 
 {{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}}

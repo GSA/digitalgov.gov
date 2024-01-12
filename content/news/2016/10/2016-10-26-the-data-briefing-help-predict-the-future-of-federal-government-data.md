@@ -6,31 +6,23 @@ summary: 'In December, I plan to write two postings detailing a scenario analysi
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - content-strategy
-  - data
-  - product-management
+  - open-data
+  - product-and-project-management
   - mobile
   - social-media
   - user-experience
   - emerging-tech
   - artificial intelligence
-  - emerging-tech
   - best-practices
   - analytics
-  - artificial-intelligence
   - customer-experience
-  - customer-experience
-  - data
   - innovation
-  - emerging-tech
-  - open-data
   - privacy
   - research
   - security
-  - emerging-tech
   - multimedia
-  - virtual-augmented-reality-community
 ---
 
 In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber attack that took down Twitter and Netflix. {{< legacy-img src="2016/10/600-x-450-Blue-glowing-big-data-in-space-with-particles-sakkmesterke-iStock-Thinkstock-585496874.jpg" alt="Blue glowing big data in space with particles." caption="" >}} 

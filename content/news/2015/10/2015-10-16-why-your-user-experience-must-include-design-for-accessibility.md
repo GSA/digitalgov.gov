@@ -7,8 +7,6 @@ authors:
   - justin-dopke
 topics:
   - accessibility
-  - SSA
-  - the-united-states-social-security-administration
   - usability
   - user-experience
 ---

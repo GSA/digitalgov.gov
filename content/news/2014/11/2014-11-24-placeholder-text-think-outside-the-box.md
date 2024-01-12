@@ -7,7 +7,6 @@ authors:
   - rachel-mundstock
 topics:
   - content-strategy
-  - monthly-theme
   - social-media
 ---
 

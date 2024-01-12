@@ -8,8 +8,7 @@ authors:
 topics:
   - governance
   - content-strategy
-  - policy
-  - user-testing-and-research
+  - research
   - innovation
 ---
 

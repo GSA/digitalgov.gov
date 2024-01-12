@@ -7,16 +7,12 @@ authors:
   - tony-scott
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
   - best-practices
   - cloud-and-infrastructure
-  - gsa
   - innovation
   - budgeting-and-performance
-  - Office of Management and Budget
-  - OMB
   - privacy
   - security
 ---

@@ -8,9 +8,7 @@ authors:
 topics:
   - accessibility
   - mobile
-  - accessibility
   - emerging-tech
-  - us-access-board
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Man-with-infantile-cerebral-palsy-using-a-computer-Horsche-iStock-Thinkstock-513396687.jpg" alt="Man with infantile cerebral palsy using a computer" caption="" >}} 

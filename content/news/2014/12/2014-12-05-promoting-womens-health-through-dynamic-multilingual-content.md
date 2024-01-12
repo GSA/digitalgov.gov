@@ -9,9 +9,6 @@ topics:
   - content-strategy
   - social-media
   - multimedia
-  - fda
-  - multilingual
-  - multilingual
   - social-media
 ---
 

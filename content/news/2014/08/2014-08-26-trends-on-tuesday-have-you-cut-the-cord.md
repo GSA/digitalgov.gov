@@ -8,8 +8,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - cdc
-  - centers-for-disease-control-and-prevention
   - emerging-tech
 ---
 

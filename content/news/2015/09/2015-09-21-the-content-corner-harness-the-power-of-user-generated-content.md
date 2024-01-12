@@ -7,12 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - NARA
-  - national-archives-and-records-administration
   - social-media
-  - content-strategy
-  - UGC
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Internet-Life-Wahyu-b-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}} 

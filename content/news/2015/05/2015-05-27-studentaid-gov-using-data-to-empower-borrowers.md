@@ -8,12 +8,7 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-experience
-  - customer-experience
-  - data
-  - FAFSA
-  - federal-student-aid
-  - FSA
+  - open-data
   - mobile
   - user-experience
 ---

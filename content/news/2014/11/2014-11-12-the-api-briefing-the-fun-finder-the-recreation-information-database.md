@@ -7,9 +7,6 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - US Department of Agriculture
-  - USDA
-  - application-programming-interface
 ---
 
 Back in 2000, I worked at a dot-com building website applications such as a real-time stock ticker ribbon and a real estate listings search engine. One of my favorite applications was an app for mobile phones. At that time, I used the <a href="http://en.wikipedia.org/wiki/Wireless_Application_Protocol" target="_blank">Wireless Access Protocol (WAP)</a>, which displayed information using a special version of <a href="http://en.wikipedia.org/wiki/XHTML" target="_blank">XHTML</a>. Using the Kentucky Golf.com database, a user could search for information on a specific golf course by entering a ZIP code or using drop-down lists to search by county or course name. The major challenge was creating a speedy user-friendly app that could quickly search the big database and return the relevant data.

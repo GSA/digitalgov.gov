@@ -9,14 +9,10 @@ authors:
 topics:
   - application-programming-interface
   - software-engineering
-  - agile
-  - application-programming-interface
-  - dhs
   - open-government
   - open-data
   - open-source
   - emerging-tech
-
 ---
 
 Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public.

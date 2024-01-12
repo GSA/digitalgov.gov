@@ -11,7 +11,7 @@ topics:
   - application-programming-interface
   - analytics
   - multilingual
-  - government-contact-centers
+  - contact-center
   - research
   - social-media
 ---

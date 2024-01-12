@@ -7,14 +7,9 @@ authors:
   - hannah-gladfelter-rubin
 topics:
   - content-strategy
-  - data
+  - open-data
   - mobile
-  - monthly-theme
-  - content-strategy
-  - metadata
-  - mobile
-  - national-cancer-institute
-  - content-strategy
+  - search-engine-optimization
 
 ---
 

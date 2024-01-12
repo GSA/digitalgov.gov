@@ -6,18 +6,10 @@ summary: 'Pop quiz on statistics and data science (answers at the end of the art
 authors:
   - bbrantley
 topics:
-  - data
   - application-programming-interface
-  - data
   - data-visualization
-  
-  
   - open-data
   - emerging-tech
-  - us-department-of-labor
-  - united-states-department-of-health-and-human-services
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 Pop quiz on statistics and data science (answers at the end of the article):

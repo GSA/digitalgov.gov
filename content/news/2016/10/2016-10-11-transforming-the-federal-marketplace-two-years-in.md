@@ -7,9 +7,7 @@ authors:
   - anne-rung
 topics:
   - content-strategy
-  - policy
   - acquisition
-  - agile
   - innovation
 ---
 

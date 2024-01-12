@@ -10,7 +10,6 @@ topics:
   - mobile
   - multilingual
   - open-source
-  - mobile
  
 ---
 

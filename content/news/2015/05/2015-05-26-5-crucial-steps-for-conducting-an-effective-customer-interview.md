@@ -9,9 +9,6 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-experience
-  - customer-experience
-  - gsa
   - user-experience
 ---
 

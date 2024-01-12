@@ -6,11 +6,10 @@ summary: 'Two years ago, federal agencies were set on a fast track to create a 2
 authors:
   - gwynne-kostin
 topics:
-  - content-strategy
-  - product-management
-  - content-strategy
   - application-programming-interface
+  - content-strategy
   - customer-experience
+  - product-management
   - innovation
   - mobile
   - user-experience

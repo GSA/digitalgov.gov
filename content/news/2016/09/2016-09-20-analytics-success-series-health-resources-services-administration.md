@@ -8,16 +8,9 @@ authors:
   - mackenzie-cummings
   - richard-morey
 topics:
-  - data
-  - analytics
-  - our-work
+  - open-data
   - analytics
   - content-strategy
-  - content-strategy
-  - data
-  - HHS
-  - HRSA
-  - analytics
   - user-experience
 ---
 

@@ -9,16 +9,7 @@ authors:
   - edgardo-morales
   - victoria-wales
 topics:
-  - social-media
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - federal-emergency-management-agency
-  - fema
   - multilingual
-  - multilingual
-  - peace-corps
-  - recaps
-  - SBA
   - social-media
 ---
 

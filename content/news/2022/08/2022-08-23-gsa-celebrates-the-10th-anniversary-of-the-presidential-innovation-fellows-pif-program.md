@@ -26,9 +26,8 @@ summary: Since 2012, over 200 Presidential Innovation Fellows have supported
 topics:
   - artificial-intelligence
   - design
-  - user-centered-design
+  - human-centered-design
   - professional-development
-  - pif
   - content-strategy
 slug: gsa-celebrates-the-10th-anniversary-of-the-presidential-innovation-fellows-pif-program
 # Controls how this page appears across the site

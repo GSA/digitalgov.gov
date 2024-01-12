@@ -6,12 +6,9 @@ summary: 'I recently interviewed Daniel Kuhns, Web Manager at FEMA, about the si
 authors:
   - christen-geiler
 topics:
-  - code
+  - software-engineering
   - content-strategy
-  - product-management
-  - mobile
-  - federal-emergency-management-agency
-  - fema
+  - product-and-project-management
   - mobile
   - multilingual
 ---

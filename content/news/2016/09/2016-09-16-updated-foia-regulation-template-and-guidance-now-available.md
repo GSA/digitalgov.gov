@@ -8,8 +8,6 @@ authors:
 topics:
   - governance
   - content-strategy
-  - policy
-  - DOJ
   - open-government
 ---
 

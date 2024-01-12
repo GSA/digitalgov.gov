@@ -6,14 +6,9 @@ summary: 'You might recognize them by the user controls, if provided, that allow
 authors:
   - beth-martin
 topics:
-  - mobile
-  - user-testing-and-research
-  - FAA
-  - Federal Aviation Administration
-  - mobile
-  - mobile
-  - mobile
   - content-strategy
+  - mobile
+  - research
 
 ---
 

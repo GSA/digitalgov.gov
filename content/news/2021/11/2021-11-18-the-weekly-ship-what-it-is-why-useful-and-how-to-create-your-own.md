@@ -11,10 +11,7 @@ summary: summary
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
-  - policy
-  - product-management
-  - agile
-  - workflows
+  - product-and-project-management
   - best-practices
 slug: the-weekly-ship-what-it-is-why-useful-and-how-to-create-your-own
 # Controls how this page appears across the site

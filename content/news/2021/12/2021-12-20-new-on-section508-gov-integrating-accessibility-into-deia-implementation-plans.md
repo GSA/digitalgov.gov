@@ -12,8 +12,6 @@ deck: |
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - gsa
-  - us-general-services-administration
   - digital-service-delivery
 # Controls how this page appears across the site
 # 0 -- hidden

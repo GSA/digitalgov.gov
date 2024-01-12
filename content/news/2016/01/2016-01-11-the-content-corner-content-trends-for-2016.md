@@ -7,9 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - monthly-theme
   - social-media
-  - content-strategy
 ---
 
 The beginning of a new year is generally a time where people on a personal and professional level look ahead and prognosticate. When it comes to almost any digital media, the one thing we can be certain of is that the pace will quicken, the offerings will expand, and something totally unexpected will jump out and surprise us. However there are several specific areas related to content that everyone should keep an eye out for in 2016. {{< legacy-img src="2016/01/600-x-400-Man-looking-through-binoculars-SimCh-iStock-Thinkstock-507793001.jpg" alt="Man looking through binoculars" caption="" >}} 

@@ -6,14 +6,10 @@ summary: 'Standing on the corner, waiting in the rain, I swear I’ll never, eve
 authors:
   - bbrantley
 topics:
-  - code
   - design
-  - monthly-theme
   - emerging-tech
-  - US Department of Agriculture
-  - USDA
   - user-experience
-  
+  - software-engineering
 ---
 
 Standing on the corner, waiting in the rain, I swear I’ll never, ever, use that app again. Why? Because the bad user experience (UX) design was preventing me from determining when the Metrobus would arrive.

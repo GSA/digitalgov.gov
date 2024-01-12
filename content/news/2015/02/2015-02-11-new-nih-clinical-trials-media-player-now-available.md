@@ -7,10 +7,6 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - national-institutes-of-health
-  - nih
 ---
 
 Spread the Word about Clinical Trials!

@@ -43,7 +43,6 @@ Make the customer experience a strategic priority for your entire organization.
 - [The Customer Service Playbook for Government (PDF, 17.4 MB, 34 pages, 2015)](https://www.govloop.com/wp-content/uploads/2015/10/CustomerServicePlaybook.pdf) - GovLoop
 - [Serving Citizens: Strategies for Customer-Centered Government in the Digital Age (PDF, 1.3 MB, 44 pages, 2014)](https://ourpublicservice.org/wp-content/uploads/2014/09/809b0d873a2bebe10611a1c4a054e5f0-1422459562.pdf) - Partnership for Public Service
 - [Re-Imagining Customer Service in Government](https://www.govloop.com/govloop-research-report-re-imagining-customer-service-in-government/) - GovLoop
-- [The Essentials of Customer Experience: Going Beyond Customer Service](https://www.youtube.com/watch?v=7MFjWiused8) – YouTube video featuring Forrester and U.S. Department of Education
 
 ### Develop a strategy
 

@@ -9,17 +9,13 @@ summary: "OMB recently released new policy guidance for government that includes
 
 # See all topics at https://digital.gov/topics
 topics:
-  - white-house
-  - omb
   - digital-service-delivery
   - design
   - customer-experience
   - trust
   - user-experience
   - content-strategy
-  - content-strategy
-  - content-strategy
-  - user-centered-design
+  - human-centered-design
   - multilingual
   - search
   - search-engine-optimization
@@ -27,14 +23,11 @@ topics:
   - social-media
   - communication
   - analytics
-  - analytics
   - privacy
   - security
   - accessibility
   - governance
   - mobile
-  - pra
-  - communication
   - budgeting-and-performance
   - best-practices
   - usability

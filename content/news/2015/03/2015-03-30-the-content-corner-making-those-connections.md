@@ -7,11 +7,8 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
   - data-visualization
   - social-media
-  - content-strategy
 ---
 
 {{< legacy-img src="2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}

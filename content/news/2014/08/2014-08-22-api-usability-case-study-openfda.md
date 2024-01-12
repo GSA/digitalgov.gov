@@ -8,10 +8,8 @@ authors:
 topics:
   - application-programming-interface
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - application-programming-interface
-  - digitalgov-user-experience-program
   - usability-testing
 ---
 

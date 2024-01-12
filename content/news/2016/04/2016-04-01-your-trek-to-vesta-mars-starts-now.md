@@ -7,14 +7,9 @@ authors:
   - jason-duley
 topics:
   - application-programming-interface
-  - challenges
-  - code
-  - data
-  - monthly-theme
-  - application-programming-interface
-  - apps-challenges
+  - challenges-and-prize-competitions
+
   - innovation
-  
   - open-data
 ---
 

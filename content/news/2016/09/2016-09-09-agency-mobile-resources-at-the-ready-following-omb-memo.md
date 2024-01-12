@@ -7,18 +7,11 @@ authors:
   - amando-e-gavino-jr
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - mobile
   - content-strategy
-  - policy
-  - FAS
-  - Federal Acquisition Service
-  - gsa
   - cloud-and-infrastructure
   - innovation
-  - Office of Management and Budget
-  - OMB
-  - us-general-services-administration
 ---
 
 _Note: This is a guest blog post by Amando E. Gavino, Jr., Director, Office of Network Services, ITS/FAS/GSA. He is responsible for a portfolio of telecommunication acquisition solutions that provide government agencies the ability to meet their diverse set of telecommunication requirements. Acquisition solutions include Networx, Enterprise Infrastructure Solutions – EIS (the future replacement for Networx), SATCOM, Enterprise Mobility, Connections II, Federal Strategic Sourcing Initiative – Wireless (FSSI-W), and the Federal Relay Service._

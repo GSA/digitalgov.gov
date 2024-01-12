@@ -7,15 +7,10 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - data
-  - devops
+  - open-data
+  - software-engineering
   - mobile
-  - mobile
-  - mobile
-  - national-institute-of-standards-and-technology
-  - NIST
   - emerging-tech
-
 ---
 
 Continuing from last week’s column on [DevOps and containers]({{< ref "2016-08-17-the-data-briefing-devops-and-containers-and-why-they-are-important-to-transforming-federal-government-it.md" >}}), I will explain two other hot trends in IT — microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines ([PDF](http://csrc.nist.gov/publications/drafts/800-180/sp800-180_draft.pdf), 660 kb, 12 pages, February 2016). {{< legacy-img src="2016/08/600-x-324-Differences-between-System-Virtual-Machines-and-Application-Containers.jpg" alt="A screen capture of Figure 1 from the PDF file, NIST Definition of Microservices, Application Containers and System Virtual Machines showing the differences between System Virtual Machines and Application Containers." caption="" >}} 

@@ -7,14 +7,8 @@ authors:
   - victoria-wales
 topics:
   - accessibility
-  - social-media
   - multimedia
   - communication
-  - accessibility
-  - crowdsourcing-and-citizen-science
-  - FCC
-  - federal-communications-commission
-  - data-visualization
   - plain-language
   - social-media
 

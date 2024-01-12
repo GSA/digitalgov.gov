@@ -7,12 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - national-cancer-institute
-  - NCI
-  - mobile
   - emerging-tech
 
 ---

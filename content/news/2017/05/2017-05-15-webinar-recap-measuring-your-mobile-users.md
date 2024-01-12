@@ -10,7 +10,6 @@ authors:
 topics:
   - analytics
   - mobile
-  - analytics
   - best-practices
 
 ---

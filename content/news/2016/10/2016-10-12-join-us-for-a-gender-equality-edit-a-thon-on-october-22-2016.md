@@ -8,13 +8,9 @@ authors:
 topics:
   - content-strategy
   - crowdsourcing-and-citizen-science
-  - product-management
+  - product-and-project-management
   - mobile
-  - user-testing-and-research
-  - content-strategy
-  - crowdsourcing-and-citizen-science
-  - NARA
-  - national-archives-and-records-administration
+  - research
   - research
 ---
 

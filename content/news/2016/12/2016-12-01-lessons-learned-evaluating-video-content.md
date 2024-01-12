@@ -6,18 +6,10 @@ summary: 'If you were to perform research on the value proposition of training v
 authors:
   - tim-jakubowski
 topics:
-  - content-strategy
-  - product-management
-  - user-testing-and-research
+  - product-and-project-management
   - multimedia
-  - multimedia
-  - CFPB
-  - Consumer Financial Protection Bureau
   - content-strategy
-  - content-strategy
-  - multimedia
   - user-experience
-  - user-experience-community-of-practice
   - research
   - multimedia
 ---

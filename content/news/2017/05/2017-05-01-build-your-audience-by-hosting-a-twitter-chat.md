@@ -7,13 +7,9 @@ authors:
   - aids-gov
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - social-media
-  - content-strategy
-  - policy
   - communication
-  - aids-gov
-  - content-strategy
   - customer-experience
   - social-media
 ---

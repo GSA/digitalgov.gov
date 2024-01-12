@@ -8,12 +8,9 @@ authors:
 topics:
   - product-management
   - analytics
-  - monthly-theme
-  - our-work
   - user-experience
   - customer-experience
-  - customer-experience
-  - government-contact-centers
+  - contact-center
   - research
 ---
 

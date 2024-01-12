@@ -6,11 +6,10 @@ summary: Do you want to build an application, product or business that uses Cens
 authors:
   - logan-powell
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - application-programming-interface
   - mobile
-  - national-day-of-civic-hacking
-  - united-states-census-bureau
+  - software-engineering
 ---
 
 Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved.

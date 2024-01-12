@@ -8,15 +8,10 @@ authors:
 topics:
   - content-strategy
   - design
-  - user-testing-and-research
-  - content-strategy
-  - content-strategy
+  - research
   - mobile
-  - mobile
-  - smithsonian-institution
-  - user-centered-design
+  - human-centered-design
   - user-experience
-  
 ---
 
 As any experienced retailer will tell you, the customer experience begins at the store entrance. Note the friendly Walmart greeter, the approachable minimalism of an Apple Store, and the calculated whimsy of Anthropologie. Store designers understand that a customer’s decision to make a purchase is often made within seconds of entering.

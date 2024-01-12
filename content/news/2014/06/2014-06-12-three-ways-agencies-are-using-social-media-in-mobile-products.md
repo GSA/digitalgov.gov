@@ -7,20 +7,10 @@ authors:
   - zeshan-khan
   - katie-steffy
 topics:
+  - crowdsourcing-and-citizen-science
+  - emerging-tech
   - mobile
   - social-media
-  - crowdsourcing-and-citizen-science
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - National Highway Traffic Safety Administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - socialgov-community
-  - emerging-tech
-  - US Department of Agriculture
-  - USDA
 ---
 
 As highlighted in this [Trends on Tuesday]({{< ref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.

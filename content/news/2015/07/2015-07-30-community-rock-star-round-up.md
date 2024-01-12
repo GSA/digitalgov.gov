@@ -8,20 +8,9 @@ authors:
 topics:
   - customer-experience
   - mobile
-  - gsa
-  - HHS
-  - ICE
-  - mobile
-  - NCI
-  - nih
   - content-strategy
-  - OPM
-  - socialgov-community
-  - SSA
+  - social-media
   - emerging-tech
-  - us-department-of-state
-  - us-food-and-drug-administration
-  - united-states-census-bureau
   - user-experience
 
 ---

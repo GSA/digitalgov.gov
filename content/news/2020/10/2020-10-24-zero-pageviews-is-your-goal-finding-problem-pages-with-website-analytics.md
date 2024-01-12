@@ -6,7 +6,7 @@ summary: Improve customer experience by turning your website analytics upside do
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-  - data
+  - open-data
   - customer-experience
   - usability
 # See all authors at https://digital.gov/authors

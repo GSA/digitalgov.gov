@@ -13,7 +13,6 @@ topics:
   - digital-service-delivery
   - design
   - analytics
-  - uswds
   - user-experience
   
 

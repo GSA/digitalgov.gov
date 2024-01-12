@@ -8,10 +8,7 @@ authors:
 topics:
   - mobile
   - content-strategy
-  - policy
   - emerging-tech
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
 ---
 

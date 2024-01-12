@@ -7,12 +7,9 @@ authors:
   - christen-geiler
 topics:
   - application-programming-interface
-  - mobile
   - content-strategy
-  - policy
-  - application-programming-interface
-  - CMS
-  - code
+  - mobile
+  - software-engineering
 ---
 
 ****[Gray Brooks]({{< ref "/authors/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< ref "/about/digitalgov-university.md" >}}) presentation, [Introduction to APIs]({{< ref "2012-07-26-introduction-to-apis.md" >}}).

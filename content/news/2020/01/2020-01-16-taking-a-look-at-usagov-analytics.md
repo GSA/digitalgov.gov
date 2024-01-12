@@ -20,10 +20,7 @@ summary: "**The USA.gov's team launched a new analytics dashboard** that shows t
 topics:
   - analytics
   - multilingual
-  - analytics
-  - analytics-usa-gov
   - customer-experience
-  - usa-gov
 
 # see all authors at https://digital.gov/authors
 authors:

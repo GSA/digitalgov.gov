@@ -6,13 +6,8 @@ summary: It seems of late that the focus on coding and technology within the fed
 authors:
   - tyrus-manuel
 topics:
-  - code
   - content-strategy
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
-  - code
-  - content-strategy
-  - content-strategy
+  - software-engineering
 ---
 
 It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content still can&#8217;t help the user. And there is no code that I know of that can make bad content better for the user, aside from the [algorithmically-derived content]({{< ref "2015-08-03-the-content-corner-rise-of-the-machines.md" >}}) previously discussed. {{< legacy-img src="2016/03/600-x-400-Web-design-infographic-elieli-iStock-Thinkstock-184707017.jpg" alt="Illustration showing a web page on a laptop, surrounded by bubbles with the names of different web development languages; HTML5, CSS, XML, etc." caption="" >}} 

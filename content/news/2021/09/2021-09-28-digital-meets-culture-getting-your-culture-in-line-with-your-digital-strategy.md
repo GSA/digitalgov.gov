@@ -10,8 +10,7 @@ summary: Learn how digital service teams in government navigate through the
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - user-centered-design
-  - recaps
+  - human-centered-design
   - content-strategy
   - customer-experience
 # See all authors at https://digital.gov/authors

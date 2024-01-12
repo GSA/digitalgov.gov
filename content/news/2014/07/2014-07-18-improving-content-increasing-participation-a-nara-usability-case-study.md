@@ -8,15 +8,10 @@ authors:
 topics:
   - content-strategy
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - analytics
-  - Library of Congress
-  - LOC
-  - NARA
-  - national-archives-and-records-administration
   - professional-development
-  - top-tasks
 ---
 
 Over the years, the staff intranet at the National Archives and Records Administration (NARA) had become increasingly difficult to use. Old, irrelevant content routinely bubbled to the top of search results, and essential employee tools were hard to find.

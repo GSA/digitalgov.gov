@@ -8,19 +8,14 @@ authors:
 topics:
   - accessibility
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - content-strategy
-  - policy
-  - 18f
   - accessibility
-  - design
   - mobile
-  - uswds
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
-  
 ---
 
 The [U.S. Web Design Standards](https://standards.usa.gov/) are a library of design guidelines and code to help government developers quickly create trustworthy, accessible, and consistent digital government services. Last month, we announced the 1.0 release of the Standards, a milestone that signals the Standards are a stable, trustworthy resource for government designers and developers.

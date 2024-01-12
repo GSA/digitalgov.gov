@@ -9,8 +9,6 @@ topics:
   - user-experience
   - research
   - communication
-  - recaps
-  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

@@ -9,19 +9,6 @@ topics:
   - content-strategy
   - analytics
   - mobile
-  - monthly-theme
-  - Defense Finance and Accounting Services
-  - DFAS
-  - epa
-  - mobile
-  - mobile
-  - nasa
-  - national-institutes-of-health
-  - nih
-  - mobile
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - USDA
 ---
 
 {{< legacy-img src="2014/10/600-x-311-Report-as-concept-Violka08-iStock-Thinkstock-463805923.jpg" alt="Metrics report as concept" caption="Violka08, iStock, Thinkstock" >}} 

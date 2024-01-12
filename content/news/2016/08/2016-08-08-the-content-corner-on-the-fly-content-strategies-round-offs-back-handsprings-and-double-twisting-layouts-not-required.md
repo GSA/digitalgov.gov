@@ -7,18 +7,8 @@ authors:
   - kyle-s-richardson
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - social-media
-  - content-strategy
-  - policy
-  - Commerce
-  - content-strategy
-  - content-strategy
-  - department-of-commerce
-  - content-strategy
-  - United States Patent and Trademark Office
-  - USPTO
-
 ---
 
 As effective marketers and communicators, we are constantly seeking new and improved ways to reach our audience or customer base. These days, our “online lives” intersect with every activity we are involved in, so timeliness is essential. With fresh ideas and engaging, perhaps interactive, content, we can literally make a difference in the lives of our audience. {{< legacy-img src="2016/08/600-x-404-Hands-of-gymnast-alexemanuel-iStock-Thinkstock-465458826-1.jpg" alt="Hands of gymnast." caption="" >}} 

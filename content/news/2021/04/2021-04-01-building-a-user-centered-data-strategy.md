@@ -17,9 +17,8 @@ summary: "**Building a User-Centered Data Strategy**&mdash;Developing a data
   more effectively."
 # See all topics at https://digital.gov/topics
 topics:
-  - data
+  - open-data
   - content-strategy
-  - agile
   - design
   - user-centered-design
 slug: building-a-user-centered-data-strategy

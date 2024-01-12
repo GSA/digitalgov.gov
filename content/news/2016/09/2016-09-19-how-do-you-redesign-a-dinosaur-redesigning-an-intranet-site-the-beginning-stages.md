@@ -8,22 +8,12 @@ authors:
 topics:
   - accessibility
   - content-strategy
-  - data
-  - design
-  - product-management
-  - content-strategy
-  - policy
-  - user-testing-and-research
-  - content-strategy
+  - open-data
+  - product-and-project-management
   - content-strategy
   - customer-experience
-  - National Center for Complementary and Integrative Health
-  - national-institutes-of-health
-  - NCCIH
-  - nih
   - design
   - usability
-  - usability-testing
   - user-experience
   - research
 primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"

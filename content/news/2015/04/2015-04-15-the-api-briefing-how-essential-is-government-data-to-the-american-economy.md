@@ -7,16 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - data
-  - application-programming-interface
-  - Census
-  - data
-  - department-of-commerce
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-data
-  - united-states-census-bureau
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/04/600-x-300-American-flag-as-bar-code-Andrei-Tsalko-iStock-Thinkstock-ThinkstockPhotos-153479385.jpg" alt="American flag as bar code" caption="" >}} 

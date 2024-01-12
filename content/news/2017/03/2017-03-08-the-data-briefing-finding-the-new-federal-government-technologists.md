@@ -6,11 +6,10 @@ summary: This week, I want to briefly discuss the human resources challenges in 
 authors:
   - bbrantley
 topics:
-  - product-management
+  - product-and-project-management
   - acquisition
   - professional-development
   - emerging-tech
-  - training
 ---
 
 This week, I want to briefly discuss the human resources challenges in finding the new IT technology workers for the government. As agencies move toward microservices, artificial intelligence chatbots, and deep learning application programming interfaces (APIs), the demand for experts in these fields continues to grow fast. The universities and professional development programs are not churning out the talent fast enough while governments are competing with private industry for what experts are currently available. Clearly, the federal government needs to determine how to meet this challenge. Luckily, state and local governments provide some great examples. {{< legacy-img src="2017/03/600-x-425-Human-resources-concept-with-manager-in-office-NicoElNino-iStock-Thinkstock-494940180.jpg" alt="HR concept image." caption="" >}} 

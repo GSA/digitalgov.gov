@@ -7,11 +7,7 @@ authors:
   - yasmine-kloth
 topics:
   - content-strategy
-  - product-management
-  - content-strategy
-  - policy
-  - content-strategy
-  - content-strategy
+  - product-and-project-management
   - user-experience
 ---
 

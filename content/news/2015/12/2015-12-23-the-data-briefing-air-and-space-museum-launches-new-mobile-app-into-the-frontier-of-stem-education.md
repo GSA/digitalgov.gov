@@ -6,18 +6,9 @@ summary: 'The Smithsonian Institution’s Air and Space Museum just released a n
 authors:
   - bbrantley
 topics:
-  - code
-  - mobile
-  - Education
-  - mobile
-  - NPS
-  - smithsonian-institution
   - emerging-tech
-  - us-department-of-education
-  - us-department-of-the-interior
-  - us-national-park-service
-  - United States Patent and Trademark Office
-  - USPTO
+  - software-engineering
+  - mobile
 ---
 
 The Smithsonian Institution’s Air and Space Museum just released a new educational mobile app, <a href="http://airandspace.si.edu/explore-and-learn/mobile-missions/index.cfm" target="_blank">Mobile Missions</a>. From the website:

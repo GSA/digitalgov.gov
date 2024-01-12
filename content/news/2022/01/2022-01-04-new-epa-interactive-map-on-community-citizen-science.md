@@ -7,10 +7,6 @@ deck: "The U.S. Environmental Protection Agency's Office of Research and Develop
 summary:
 # See all topics at https://digital.gov/topics
 topics:
-  - epa
-  - us-environmental-protection-agency
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
   - crowdsourcing-and-citizen-science
 # Controls how this page appears across the site
 # 0 -- hidden

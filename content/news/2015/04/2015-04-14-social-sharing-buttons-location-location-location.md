@@ -8,8 +8,6 @@ authors:
 topics:
   - analytics
   - social-media
-  - national-institutes-of-health
-  - nih
 ---
 
 {{< legacy-img src="2015/04/400-x-72-fb-twitter-email-plus-sign.jpg" alt="Four typical social share icon buttons for Facebook, Twitter, email and the plus sign for more options in a horizontal line." >}}

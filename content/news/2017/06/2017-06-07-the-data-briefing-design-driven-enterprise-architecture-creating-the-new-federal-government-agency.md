@@ -7,15 +7,12 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - data
-  - product-management
+  - open-data
+  - product-and-project-management
   - content-strategy
   - policy
-  - agile
-  - agile-lean-community-of-practice
-  - architecture
+  - information-architecture
   - best-practices
-  - data
   - emerging-tech
 ---
 

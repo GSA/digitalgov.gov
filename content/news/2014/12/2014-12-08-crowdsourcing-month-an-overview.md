@@ -6,38 +6,9 @@ summary: 'This month we&#8217;ll be highlighting articles about crowdsourcing. T
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - crowdsourcing-and-citizen-science
-  - Consumer Financial Protection Bureau
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - data
-  - DoD
-  - DOE
-  - DOT
-  - epa
-  - crowdsourcing-and-citizen-science
-  - Federal Trade Commission
-  - FTC
-  - HHS
-  - NARA
-  - nasa
-  - national-archives-and-records-administration
-  - national-science-foundation
-  - nsf
-  - us-agency-for-international-development
-  - us-department-of-state
-  - us-environmental-protection-agency
-  - united-states-department-of-defense
-  - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-transportation
-  - usaid
-  - USGS
+  - open-government
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}}

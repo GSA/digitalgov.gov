@@ -6,24 +6,9 @@ summary: 'Summary: Significant strides in improving public access to scholarly p
 authors:
   - jerry-sheehan
 topics:
-  - product-management
+  - open-data
+  - product-and-project-management
   - content-strategy
-  - data
-  - DoD
-  - DOT
-  - Education
-  - epa
-  - nasa
-  - National Aeronautics and Space Administration
-  - national-institutes-of-health
-  - National Library of Medicine
-  - national-oceanic-and-atmospheric-administration
-  - national-science-foundation
-  - nih
-  - NLM
-  - NOAA
-  - nsf
-  - open
   - open-government
   - research
 ---

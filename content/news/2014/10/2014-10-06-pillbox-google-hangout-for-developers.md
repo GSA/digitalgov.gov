@@ -7,13 +7,7 @@ authors:
   - david-hale
 topics:
   - application-programming-interface
-  - data
-  - fda
-  - HHS
-  - national-institutes-of-health
-  - National Library of Medicine
-  - nih
-  - NLM
+  - open-data
   - open-source
 ---
 

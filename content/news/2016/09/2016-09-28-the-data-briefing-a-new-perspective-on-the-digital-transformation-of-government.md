@@ -7,13 +7,10 @@ authors:
   - bbrantley
 topics:
   - code
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
-  - agile
-  - architecture
   - cloud-and-infrastructure
-  - code
+  - software-engineering
   - innovation
   - emerging-tech
 ---

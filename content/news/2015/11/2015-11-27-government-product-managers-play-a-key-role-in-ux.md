@@ -8,14 +8,8 @@ authors:
 topics:
   - design
   - product-management
-  - user-testing-and-research
-  - CFPB
-  - Internal Revenue Service
-  - IRS
   - research
-  - united-states-office-of-personnel-management
   - user-experience
-  
 ---
 
 Government product managers sit at the intersection of three circles—business, design and technology. We play a key role in [user experience (UX)]({{< ref "communities/user-experience.md" >}}), because we are tasked with understanding users to build a product that is desirable and viable. This product could be a paper or online form, a website or a mobile app. 

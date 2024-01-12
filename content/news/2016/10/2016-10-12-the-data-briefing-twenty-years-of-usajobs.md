@@ -6,21 +6,14 @@ summary: I recently sat down with Michelle Earley, Program Manager, to discuss t
 authors:
   - bbrantley
 topics:
-  - product-management
+  - product-and-project-management
   - analytics
   - content-strategy
-  - policy
-  - user-testing-and-research
+  - research
   - user-experience
-  - agile
   - emerging-tech
-  - analytics
-  - data
-  - gsa
-  - lean
-  - emerging-tech
-  - us-general-services-administration
-  - user-centered-design
+  - open-data
+  - human-centered-design
 ---
 
 I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}}

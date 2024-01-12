@@ -9,9 +9,6 @@ authors:
   - victoria-wales
   - edgardo-morales
 topics:
-  - social-media
-  - multilingual
-  - HHS
   - multilingual
   - social-media
 ---

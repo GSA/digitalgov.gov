@@ -7,19 +7,10 @@ authors:
   - melody-kramer
 topics:
   - accessibility
-  - analytics-usa-gov
+  - analytics
   - application-programming-interface
   - cloud-and-infrastructure
-  - analytics
-  - data
-  - DOI
-  - Education
-  - FEC
-  - federal-election-commission
-  - gsa
   - security
-  - Office of Management and Budget
-  - OMB
   - open-data
 ---
 

@@ -7,12 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile
-  - mobile
-  - national-oceanic-and-atmospheric-administration
-  - National Weather Service
-  - NOAA
-  - NWS
   - emerging-tech
 ---
 

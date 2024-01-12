@@ -7,9 +7,6 @@ authors:
   - alberto-navas
 topics:
   - content-strategy
-  - monthly-theme
-  - multilingual
-  - multilingual
   - multilingual
 ---
 

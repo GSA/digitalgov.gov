@@ -7,7 +7,6 @@ authors:
   - sarah-herrmann
 topics:
   - content-strategy
-  - american-battle-monuments-commission
 ---
 
 As human beings, we love stories. We like regaling our friends with tales from a recent road trip. We listen intently as grandma recounts that special moment she first met grandpa. Stories are how we relate to people. Stories help us form memories. Stories carry on tradition and culture from one generation to the next.

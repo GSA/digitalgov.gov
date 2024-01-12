@@ -16,7 +16,7 @@ topics:
 </p>
 
 <p>
-  From <a href="{{< ref "/topics/mobile" >}}">mobile</a>, to <a href="{{< ref "/topics/social-media" >}}">social</a>, to <a href="{{< ref "/topics/user-experience" >}}">user experience</a>, to <a href="{{< ref "/topics/application-programming-interface" >}}">APIs</a>, to <a href="{{< ref "/topics/data" >}}">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
+  From <a href="{{< ref "/topics/mobile" >}}">mobile</a>, to <a href="{{< ref "/topics/social-media" >}}">social</a>, to <a href="{{< ref "/topics/user-experience" >}}">user experience</a>, to <a href="{{< ref "/topics/api" >}}">APIs</a>, to <a href="{{< ref "/topics/data" >}}">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
 </p>
 
 <p>

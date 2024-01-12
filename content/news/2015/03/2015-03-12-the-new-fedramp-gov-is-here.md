@@ -11,7 +11,6 @@ topics:
   - cloud-and-infrastructure
   - analytics
   - security
-  - gsa
   - mobile
   - content-strategy
   - mobile

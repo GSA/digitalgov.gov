@@ -8,11 +8,6 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - abmc
-  - american-battle-monuments-commission
-  - content-strategy
-  - content-strategy
-  - social-media
 ---
 
 We naturally gravitate towards story-telling. It’s part of our human nature that began thousands of years ago, well before the written word. We want to pass down our history and cultures, and we do this by telling stories because they resonate with us. Stories tap into our emotions. They make us feel. They move us to action. When we talk about the centennial of World War I, we have to make it personal for the American public, or else we run the risk of forgetting this war. Below are two ways to talk about the Great War. They’re both factual, but convey the information in different ways. See which one you prefer:

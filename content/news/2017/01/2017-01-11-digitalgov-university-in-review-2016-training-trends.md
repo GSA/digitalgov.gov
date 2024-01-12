@@ -10,36 +10,22 @@ authors:
 topics:
   - accessibility
   - application-programming-interface
-  - challenges
-  - communities
+  - challenges-and-prize-competitions
   - content-strategy
-  - data
+  - open-data
   - design
   - governance
-  - product-management
+  - product-and-project-management
   - analytics
   - mobile
-  - social-media
-  - content-strategy
-  - policy
-  - user-testing-and-research
+  - research
   - user-experience
-  - 18f
-  - analytics
-  - application-programming-interface
   - artificial-intelligence
   - cloud-and-infrastructure
-  - content-strategy
   - customer-experience
-  - analytics
-  - mobile
-  - open-data
   - professional-development
   - social-media
-  - training
   - multimedia
-  - virtual-augmented-reality-community
-
 ---
 
 [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.

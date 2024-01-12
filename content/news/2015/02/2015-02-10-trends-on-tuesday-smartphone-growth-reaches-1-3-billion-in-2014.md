@@ -8,13 +8,9 @@ authors:
 topics:
   - mobile
   - content-strategy
-  - policy
-  - mobile
   - emerging-tech
   - open-data
-  - mobile
-  - emerging-tech
-  - user-centered-design
+  - human-centered-design
 ---
 
 {{< legacy-img src="2015/02/600-x-450-Mobile-phones-background-Pile-of-different-modern-smartphones-Bet_Noire-iStock-Thinkstock-523564455.jpg" alt="A pile of different smart phones" caption="" >}} 

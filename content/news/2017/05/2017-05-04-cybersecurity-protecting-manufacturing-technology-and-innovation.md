@@ -6,19 +6,13 @@ summary: Recently a segment on my favorite morning news program stopped me in my
 authors:
   - pat-toth
 topics:
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
   - best-practices
-  - Commerce
-  - data
-  - department-of-commerce
+  - open-data
   - innovation
   - emerging-tech
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
-  - best-practices
 ---
 
 Recently a segment on my favorite morning news program stopped me in my tracks. The young and attractive hosts (why are they always so young and attractive?) were demonstrating new appliances including a smart refrigerator. The fridge was equipped with all kinds of high-tech features including touch screen displays, a camera inside that allows you to see the contents and Wi-Fi connectivity. You can see inside your fridge while grocery shopping, how convenient! But I must ask, how secure is it?

@@ -6,8 +6,8 @@ summary: 'Have a DigitalGov success?&mdash;published an API? Got buy-in from lea
 authors:
   - apiazza
 topics:
-  - challenges
-  - code
+  - challenges-and-prize-competitions
+  - software-engineering
   - content-strategy
   - product-management
   - analytics
@@ -17,7 +17,7 @@ topics:
   - application-programming-interface
   - innovation
   - mobile
-  - united-states-census-bureau
+  - usability
 ---
 
 Have a DigitalGov success?—published an API? Got buy-in from leadership? Changed a part of your customer-service paradigm? Developed a cool dashboard? Got the app out the door?

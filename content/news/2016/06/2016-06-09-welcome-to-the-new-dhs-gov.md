@@ -9,18 +9,9 @@ topics:
   - accessibility
   - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   - mobile
-  - content-strategy
-  - policy
-  - accessibility
-  - content-strategy
-  - content-strategy
-  
-  - mobile
-  - mobile
-  - united-states-department-of-homeland-security
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - CMS
   - open-source
   - emerging-tech
 ---

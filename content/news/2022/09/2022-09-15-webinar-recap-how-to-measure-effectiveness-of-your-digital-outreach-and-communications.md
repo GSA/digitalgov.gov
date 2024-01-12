@@ -7,8 +7,7 @@ topics:
   - communication
   - analytics
   - training
-  - data
-  - recaps
+  - open-data
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry

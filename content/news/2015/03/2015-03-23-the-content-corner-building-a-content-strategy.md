@@ -7,11 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
-  - content-strategy
   - user-experience
-
 ---
 
 I recently read a [disheartening statistic](http://contentmarketinginstitute.com/wp-content/uploads/2014/10/2015_B2B_Research.pdf) which stated that only 32% of B2B organizations and 27% of B2C organizations had a documented content strategy. When you combine these results with the general assumption that the federal government lags behind in areas such as this (especially since content strategies have a marketing basis), then the number of federal agencies (large or small) that have a documented content strategy must be even smaller. But if you&#8217;ve read any of my [previous columns]({{< ref "/topics/content-strategy" >}}) then you know how important a content strategy can be in deciding what content to generate, when to publish it, and on which channels.

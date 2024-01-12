@@ -7,11 +7,8 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
-  - data
-  - json
-  - united-states-department-of-energy
-  - application-programming-interface
+  - open-data
+  - software-engineering
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Find-Policies-Incentives-by-State-map-from-DSIRE-DOE-Energy-website.jpg" alt="600-x-400-Find-Policies-&-Incentives-by-State-map-from-DSIRE-DOE-Energy-website" >}}

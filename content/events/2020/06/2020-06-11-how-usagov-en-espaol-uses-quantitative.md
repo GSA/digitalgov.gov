@@ -20,12 +20,10 @@ end_date: 2020-06-11 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - analytics
-  - contact-centers
+  - contact-center
   - content-strategy
-  - analytics
   - multilingual
   - social-media
-  - multilingual
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -7,18 +7,8 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - epa
-  - FCC
-  - federal-communications-commission
-  - HHS
   - artificial-intelligence
   - open-government
-  - content-strategy
-  - us-environmental-protection-agency
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/08/600-x-343-Asking-cyborg-Ociacia-iStock-Thinkstock-177531624.jpg" alt="Cyborg gesturing to ask a question" caption="" >}} 

@@ -7,12 +7,9 @@ authors:
   - nick-marden
   - dmccleskey
 topics:
-  - code
-  - product-management
-  - monthly-theme
-  - our-work
+  - software-engineering
+  - product-and-project-management
   - content-strategy
-  - policy
   - search
   - cloud-and-infrastructure
 ---

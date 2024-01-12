@@ -9,11 +9,9 @@ authors:
   - jherman
 topics:
   - emerging-tech
-  - our-work
-  - artificial intelligence
+  - artificial-intelligence
   - innovation
-  - rpa
-
+  - robotic-process-automation
 ---
 
 Open data and emerging technologies—including artificial intelligence and distributed ledgers, such as blockchain—hold vast potential to transform public services held back by bureaucracy and outdated IT systems. We are opening the doors to bold, fresh ideas for government accountability, transparency and citizen participation by working with U.S. businesses, civil society groups and others to shape national goals for emerging technologies and open data in public services.

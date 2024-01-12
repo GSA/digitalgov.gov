@@ -7,10 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - mobile
-  - mobile
-  - OPM
-  - united-states-office-of-personnel-management
 ---
 
 Need to get in touch with your audience? Give them a little push.

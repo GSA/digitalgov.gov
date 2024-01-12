@@ -7,8 +7,6 @@ authors:
   - john-paul
 topics:
   - content-strategy
-  - recaps
-  - usagov
 
 ---
 

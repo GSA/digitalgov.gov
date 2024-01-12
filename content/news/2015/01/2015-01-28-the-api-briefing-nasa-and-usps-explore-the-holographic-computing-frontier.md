@@ -9,15 +9,7 @@ topics:
   - application-programming-interface
   - emerging-tech
   - mobile
-  - nasa
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - US Department of Agriculture
-  - United States Postal Service
-  - USDA
-  - USPS
-  - virtual-augmented-reality-community
-  - application-programming-interface
+  - multimedia
 
 ---
 

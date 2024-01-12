@@ -8,9 +8,6 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
-  - content-strategy
 ---
 
 {{< legacy-img src="2015/05/600-x-335-Human-Connection-gray-tonivaver-iStock-Thinkstock-466180691.jpg" alt="Network of human figures" caption="" >}} 

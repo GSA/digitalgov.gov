@@ -6,16 +6,8 @@ summary: '18F Editor’s note: This is a guest post by Karim Said of NASA. Karim
 authors:
   - karim-said
 topics:
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
-  - 18f
-  - dhs
-  - gsa
-  - nasa
-  - National Aeronautics and Space Administration
-  - Office of Management and Budget
-  - OMB
   - security
 ---
 

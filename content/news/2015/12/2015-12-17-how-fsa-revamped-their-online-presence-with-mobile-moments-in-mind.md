@@ -8,10 +8,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - mobile
-  - mobile
-  - mobile
-  - recaps
 ---
 
 Let the mic drop!

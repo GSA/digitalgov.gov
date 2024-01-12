@@ -7,9 +7,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - ios
-  - mobile
-
+  - software-engineering
 ---
 
 We all know it is virtually impossible to prevent natural phenomena such as hurricanes, volcanic eruptions, floods, tornadoes, earthquakes, tsunamis etc., and we cannot easily avoid these inevitable geological and climatic incidences, as they are typically unpredictable and occur swiftly.

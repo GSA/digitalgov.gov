@@ -7,11 +7,9 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - code
+  - software-engineering
   - mobile
   - user-experience
-  - mobile
-  - us-department-of-state
   - application-programming-interface
 ---
 

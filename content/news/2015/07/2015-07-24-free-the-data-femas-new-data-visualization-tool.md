@@ -7,7 +7,6 @@ authors:
   - craig-fugate
 topics:
   - data-visualization
-  - fema
   - mobile
 ---
 

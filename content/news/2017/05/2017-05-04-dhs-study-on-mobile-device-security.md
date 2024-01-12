@@ -6,14 +6,10 @@ summary: 'The Department of Homeland Security (DHS) has submitted a report to Co
 authors:
   - department-of-homeland-security
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - content-strategy
-  - policy
-  - dhs
   - mobile
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
 ---
 

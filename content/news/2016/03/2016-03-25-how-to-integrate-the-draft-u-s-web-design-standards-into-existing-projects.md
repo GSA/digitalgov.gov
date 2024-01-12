@@ -10,7 +10,6 @@ authors:
 topics:
   - content-strategy
   - user-experience
-  - 18f
   - design
 ---
 

@@ -11,7 +11,6 @@ authors:
 topics:
   - product-management
   - analytics
-  - gsa
   - security
 ---
 

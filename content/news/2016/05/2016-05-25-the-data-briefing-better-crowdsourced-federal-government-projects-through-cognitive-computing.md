@@ -6,13 +6,10 @@ summary: 'Cognitive computing has been receiving a good deal of attention lately
 authors:
   - bbrantley
 topics:
-  - data
+  - open-data
   - crowdsourcing-and-citizen-science
   - emerging-tech
   - artificial-intelligence
-  - emerging-tech
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 Cognitive computing has been receiving a good deal of attention lately as more companies have been building intelligent agents. Ever since IBM Watson&#8217;s 2011 appearance on Jeopardy, cognitive computing has spread into healthcare, investing and even veterinary medicine. However, it is only recently that <a href="http://www.govtech.com/data/3-Ways-Cognitive-Computing-Can-Be-Good-for-Government.html" target="_blank">cognitive computing has spread into government applications</a>.

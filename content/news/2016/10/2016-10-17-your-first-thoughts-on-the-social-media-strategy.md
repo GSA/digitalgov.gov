@@ -10,11 +10,6 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - content-strategy
-  - policy
-  - content-strategy
-  - content-strategy
-  - social-media
 ---
 
 > _This post is written by Jeannie Chen, Mary King, and Hilary Parkinson and_ _is part of our ongoing series about our social media strategy. We welcome comments from staff, other cultural institutions, and the public, and will continue to update the strategy as a living document._

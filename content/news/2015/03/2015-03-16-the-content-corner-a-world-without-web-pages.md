@@ -6,13 +6,9 @@ summary: Imagine a world without Web pages, only intelligent, self-assembling ch
 authors:
   - tyrus-manuel
 topics:
-  - content-strategy
   - administrative-office-of-the-united-states-courts
-  - CMS
   - content-strategy
-  - metadata
-  - content-strategy
-  - content-strategy
+  - search-engine-optimization
 ---
 
 {{< legacy-img src="2015/03/600-x-415-Global-Communication-and-Data-Concept-Symbols-Robert-Churchill-iStock-Thinkstock-493540889.jpg" alt="Global Communication and Data Concept Symbols" caption="" >}} 

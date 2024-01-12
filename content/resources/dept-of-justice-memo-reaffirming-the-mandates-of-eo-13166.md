@@ -5,7 +5,6 @@ title: Department of Justice 2022 Memo Reaffirming the Mandates of EO 13166
 summary: "Executive Order 13166 was issued in August of 2000 and this memorandum reaffirms its mandate."
 topics:
   - multilingual
-  - policy
 authors:
   - apiazza
 

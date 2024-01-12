@@ -8,12 +8,8 @@ authors:
 topics:
   - application-programming-interface
   - content-strategy
-  - monthly-theme
-  - our-work
   - social-media
-  - 18f
-  - CMS
-  - search
+  - search-engine-optimization
   - open-data
   - open-source
 ---

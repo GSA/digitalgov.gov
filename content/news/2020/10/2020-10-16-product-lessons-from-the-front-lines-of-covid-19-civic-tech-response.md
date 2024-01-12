@@ -6,9 +6,8 @@ summary: Two Presidential Innovation Fellows share how we can build digital
   crisis.
 # See all topics at https://digital.gov/topics
 topics:
-  - product-management
+  - product-and-project-management
   - research
-  - presidential-innovation-fellows
   - communication
 
 # See all authors at https://digital.gov/authors

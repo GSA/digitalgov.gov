@@ -8,13 +8,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - abmc
-  - american-battle-monuments-commission
-  - NARA
-  - national-archives-and-records-administration
-  - smithsonian-institution
-  - mobile
- 
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Cake-with-American-flag-frosting-and-sparkling-candles-Jupiterimages-liquidlibrary-Thinkstock-87648597.jpg" alt="Cake with American flag frosting and sparkling candles" caption="" >}} 

@@ -8,22 +8,7 @@ authors:
   - lmartinez
 topics:
   - content-strategy
-  - cdc
-  - Census
-  - centers-for-disease-control-and-prevention
-  - DOJ
   - multilingual
-  - HUD
-  - Internal Revenue Service
-  - IRS
-
-  - multilingual
-  - multilingual
-  - National Library of Medicine
-  - SSA
-  - the-united-states-social-security-administration
-  - us-department-of-justice
-  - united-states-census-bureau
 
 ---
 

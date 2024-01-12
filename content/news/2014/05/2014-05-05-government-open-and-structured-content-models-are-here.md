@@ -11,7 +11,7 @@ topics:
   - product-management
   - mobile
   - social-media
-  - aoi
+  - user-experience
 ---
 
 {{< legacy-img src="2014/05/250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic.jpg" alt="250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic" >}}Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways.

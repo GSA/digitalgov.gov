@@ -9,11 +9,8 @@ summary: In this panel discussion, experts from different agencies shared how
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - multilingual
-  - recaps
   - communication
   - plain-language
-  - content-strategy
   - content-strategy
   - social-media
 # See all authors at https://digital.gov/authors

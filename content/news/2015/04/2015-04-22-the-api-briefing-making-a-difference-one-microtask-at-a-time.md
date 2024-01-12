@@ -9,23 +9,7 @@ topics:
   - application-programming-interface
   - crowdsourcing-and-citizen-science
   - mobile
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - DOE
-  - crowdsourcing-and-citizen-science
-  - federal-emergency-management-agency
-  - fema
-  - mobile
-  - NARA
-  - national-archives-and-records-administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - open-government
-  - united-states-department-of-energy
-  - united-states-geological-survey
-  - USGS
-  - application-programming-interface
 ---
 
 I recently found an app that provides a great service through crowdsourcing. <a href="http://www.bemyeyes.org/" target="_blank">Be My Eyes</a> connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how crowdsourcing apps can make it easy for everyone to make a difference through microtasks.

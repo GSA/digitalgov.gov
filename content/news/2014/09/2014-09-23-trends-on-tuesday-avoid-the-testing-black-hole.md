@@ -7,10 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile
-  - mobile
-  - SSA
-  - the-united-states-social-security-administration
   - emerging-tech
 ---
 

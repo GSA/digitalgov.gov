@@ -8,11 +8,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Internal Revenue Service
-  - IRS
-  - mobile
-  - mobile
-  - us-digital-registry
  
 primary_image: irs2go-google-play-logo-1200
 

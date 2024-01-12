@@ -8,10 +8,9 @@ authors:
 
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
-  - user-testing-and-research
+  - research
   - user-experience
   - best-practices
 

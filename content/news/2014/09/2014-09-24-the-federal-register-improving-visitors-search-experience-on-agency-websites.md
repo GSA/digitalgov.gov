@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - our-work
   - application-programming-interface
   - search
   - social-media

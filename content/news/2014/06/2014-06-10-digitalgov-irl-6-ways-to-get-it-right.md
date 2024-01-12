@@ -7,15 +7,8 @@ authors:
   - gwynne-kostin
 topics:
   - content-strategy
-  - data
   - mobile
   - user-experience
-  - department-of-commerce
-  - FCC
-  - fema
-  - mobile
-  - National Weather Service
-  - NOAA
   - open-data
 ---
 

@@ -8,13 +8,9 @@ authors:
 topics:
   - accessibility
   - design
-  - user-testing-and-research
-  - accessibility
-  - SBA
-  - us-small-business-administration
+  - research
   - usability
   - user-experience
-  
 ---
 
 {{< legacy-img src="2014/11/600-x-402-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Internet accessibility concept" caption="" >}} 

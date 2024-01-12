@@ -6,14 +6,8 @@ summary: '&#8220;I tell the interns: In this lab, we&#8217;re all about failure.
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - challenge-gov
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - united-states-geological-survey
-  - USGS
 ---
 
 > &#8220;I tell the interns: In this lab, we&#8217;re all about failure. If you&#8217;re not failing, you&#8217;re not really doing anything.&#8221;

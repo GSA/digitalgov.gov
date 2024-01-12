@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - application-programming-interface
-  - code
+  - software-engineering
   - content-strategy
   - search
   - open-source

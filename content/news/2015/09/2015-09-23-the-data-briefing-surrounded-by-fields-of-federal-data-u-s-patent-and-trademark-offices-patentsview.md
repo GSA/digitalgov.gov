@@ -6,14 +6,10 @@ summary: Hello, everyone. My summer sabbatical was short but educational, and I 
 authors:
   - bbrantley
 topics:
-  - data
   - application-programming-interface
-  - data
   - data-visualization
-  - open-data
   - emerging-tech
-  - United States Patent and Trademark Office
-  - USPTO
+  - open-data
 ---
 
 Hello, everyone. My summer sabbatical was short but educational, and I am glad to be back in the federal government. I am also excited to again take up the weekly API article that is now expanded to include all things federal government data. Much has happened in the open data realm, and there is much to chronicle as government uses data in more innovative ways.

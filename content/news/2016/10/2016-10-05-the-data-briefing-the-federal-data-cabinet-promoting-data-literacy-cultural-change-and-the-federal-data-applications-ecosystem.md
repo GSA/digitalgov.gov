@@ -6,12 +6,9 @@ summary: 'Last Wednesday, the White House held the first Open Data Summit to sho
 authors:
   - bbrantley
 topics:
-  - data
-  - analytics
-  - data
-  - cloud-and-infrastructure
-  - analytics
   - open-data
+  - analytics
+  - cloud-and-infrastructure
   - emerging-tech
 ---
 

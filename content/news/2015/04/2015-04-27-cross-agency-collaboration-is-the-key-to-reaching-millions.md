@@ -8,8 +8,6 @@ authors:
 topics:
   - content-strategy
   - product-management
-  - content-strategy
-  - multilingual
   - multilingual
 ---
 

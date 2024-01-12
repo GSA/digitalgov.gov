@@ -6,8 +6,8 @@ summary: 'This is a phenomenal month for federal challenge and prize competition
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - code
+  - challenges-and-prize-competitions
+  - software-engineering
   - crowdsourcing-and-citizen-science
   - mobile
 ---

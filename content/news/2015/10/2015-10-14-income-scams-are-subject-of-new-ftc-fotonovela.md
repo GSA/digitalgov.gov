@@ -8,8 +8,6 @@ authors:
 topics:
   - content-strategy
   - communication
-  - Federal Trade Commission
-  - FTC
   - multilingual
 ---
 

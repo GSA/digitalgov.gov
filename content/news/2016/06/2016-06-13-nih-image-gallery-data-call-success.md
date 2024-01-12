@@ -7,10 +7,6 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
-  - monthly-theme
-  - social-media
-  - content-strategy
-  - content-strategy
   - social-media
 ---
 

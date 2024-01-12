@@ -7,12 +7,6 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
-  - HHS
-  - OPM
-  - united-states-department-of-health-and-human-services
-  - united-states-office-of-personnel-management
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Old-and-young-hands-hxdbzxy-iStock-Thinkstock-457342679.jpg" alt="Old and young hands" caption="" >}}

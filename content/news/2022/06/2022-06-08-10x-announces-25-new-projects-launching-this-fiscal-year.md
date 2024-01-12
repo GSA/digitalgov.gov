@@ -9,8 +9,6 @@ authors:
 topics:
   - emerging-tech
   - multilingual
-  - multilingual
-  - 10x
   - customer-experience
   - research
 primary_image: 10x-new-logo-fy22-1200-x-628b

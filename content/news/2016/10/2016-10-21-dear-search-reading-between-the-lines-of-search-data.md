@@ -7,11 +7,8 @@ authors:
   - dmccleskey
 topics:
   - analytics
-  - our-work
-  - analytics
   - search
   - user-experience
-  
 ---
 
 > Welcome to the first _Dear Search_ article, an occasional series where the DigitalGov Search team addresses common search questions.

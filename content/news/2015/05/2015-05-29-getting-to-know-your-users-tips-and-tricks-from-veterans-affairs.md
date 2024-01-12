@@ -9,11 +9,8 @@ authors:
 topics:
   - product-management
   - customer-experience
-  - customer-experience
-  - customer-experience
   - research
-  - us-department-of-veterans-affairs
-  - user-centered-design
+  - human-centered-design
   - user-experience
 ---
 

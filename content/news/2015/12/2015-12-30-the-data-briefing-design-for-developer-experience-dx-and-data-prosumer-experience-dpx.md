@@ -6,11 +6,9 @@ summary: Recently, DigitalGov devoted an entire month to exploring how good user
 authors:
   - bbrantley
 topics:
-  - data
+  - open-data
   - application-programming-interface
-  - data
   - emerging-tech
-  - United States Patent and Trademark Office
   - user-experience
   
 ---

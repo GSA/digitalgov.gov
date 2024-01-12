@@ -8,14 +8,7 @@ authors:
 topics:
   - design
   - mobile
-  - monthly-theme
-  - HHS
-  - mobile
-  - mobile
-  - mobile
-  - mobile
   - emerging-tech
-  - united-states-department-of-health-and-human-services
   - user-experience
 ---
 

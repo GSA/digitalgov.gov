@@ -7,11 +7,8 @@ summary: 'Just in time for the summer season, the U.S. Coast Guard launched a br
 authors:
   - kdowney
 topics:
-  - ios
+  - software-engineering
   - mobile
-  - mobile
-  - us-coast-guard
- 
 ---
 
 {{< legacy-img src="2015/06/250-x-444-DHS-US-Coast-Guard-android-main-menu.jpg" alt="DHS US Coast Guard Android app main menu" >}}Just in time for the summer season, the U.S. Coast Guard launched a brand new app to give smartphone users easy, on-demand access to critical boating safety information and resources.

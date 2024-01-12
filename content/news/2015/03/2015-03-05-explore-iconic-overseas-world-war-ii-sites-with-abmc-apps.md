@@ -8,11 +8,6 @@ authors:
 topics:
   - mobile
   - content-strategy
-  - policy
-  - abmc
-  - american-battle-monuments-commission
-  - mobile
-  - mobile
  
 ---
 

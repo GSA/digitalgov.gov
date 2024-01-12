@@ -7,14 +7,8 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
-  - product-management
+  - product-and-project-management
   - user-experience
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - content-strategy
-  - national-institutes-of-health
-  - nih
-  - content-strategy
 ---
 
 ****We have previously written about [microsites in the federal government]({{< ref "2016-04-21-microsites.md" >}}). A microsite is a small collection of web pages—a subset of an organization’s full website. Partners can embed microsites that present [curated information]({{< ref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}}) on a specific topic or campaign directly within their own websites. And perhaps best of all, microsites that are [API]({{< ref "/topics/application-programming-interface" >}})-enabled are maintained and updated by the source organization so that when updates are made, those updates are automatically made on partner sites in real time.

@@ -7,7 +7,6 @@ authors:
   - lnelson
 topics:
   - analytics
-  - our-work
   - professional-development
 ---
 

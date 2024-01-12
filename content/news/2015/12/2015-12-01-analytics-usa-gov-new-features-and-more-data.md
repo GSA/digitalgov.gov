@@ -10,11 +10,8 @@ authors:
   - julia-winn
   - gabriel-ramirez
 topics:
-  - data
   - analytics
-  - 18f
-  - analytics
-  - data
+  - open-data
 ---
 
 {{< legacy-img src="2015/12/600-x-290-AnalyticsGov-Screen-Shot-2015-11-25-at-12.25.jpg" alt="A screencapture from the analytics.usa.gov dahsboard showing 124,878 people were visiting U.S. government websites at that moment." >}}

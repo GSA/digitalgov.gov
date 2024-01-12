@@ -20,7 +20,7 @@ end_date: 2020-06-18 14:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - multilingual
-  - united-states-census-bureau
+  - usability
 
 # see all authors at https://digital.gov/authors
 authors: 

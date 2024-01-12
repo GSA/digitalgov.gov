@@ -8,10 +8,7 @@ authors:
 topics:
   - analytics
   - mobile
-  - analytics
   - design
-  - recaps
-
 ---
 
 What Makes a Native App Successful?

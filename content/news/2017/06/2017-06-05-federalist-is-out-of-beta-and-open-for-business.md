@@ -7,15 +7,11 @@ authors:
   - will-slack
   - jonathan-hooper
 topics:
-  - code
+  - software-engineering
   - design
-  - product-management
-  - 18f
+  - product-and-project-management
   - cloud-and-infrastructure
-  - CMS
   - content-strategy
-  - security
-  - gsa
   - security
 ---
 

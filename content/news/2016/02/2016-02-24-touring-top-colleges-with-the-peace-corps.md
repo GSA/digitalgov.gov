@@ -7,7 +7,7 @@ authors:
   - chris-rottler
 topics:
   - content-strategy
-  - data
+  - open-data
   - data-visualization
 ---
 

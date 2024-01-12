@@ -6,15 +6,10 @@ summary: 'A hybrid approach of waterfall and agile practices is helping the USGS
 authors:
   - andrew-j-stauffer
 topics:
-  - product-management
+  - product-and-project-management
   - software-engineering
   - content-strategy
-  - policy
-  - agile
-  - lean
   - research
-  - scrum
-  - sprint
 
 featured_image:
   uid: agile-flow-600

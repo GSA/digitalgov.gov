@@ -18,12 +18,11 @@ summary: ""
 # see all topics at https://digital.gov/topics
 topics: 
   - content-strategy
-  - data
+  - open-data
   - design
   - analytics
   - multilingual
   - budgeting-and-performance
-  - analytics
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

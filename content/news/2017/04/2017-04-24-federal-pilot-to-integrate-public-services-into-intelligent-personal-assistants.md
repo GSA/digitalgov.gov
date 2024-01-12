@@ -7,17 +7,12 @@ authors:
   - jherman
 topics:
   - emerging-tech
-  - product-management
-  - our-work
+  - product-and-project-management
   - artificial-intelligence
   - communities
-  - gsa
   - innovation
   - social-media
-  - socialgov
-  - socialgov-community
   - multimedia
-  - virtual-augmented-reality-community
 ---
 
 The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day—and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges.

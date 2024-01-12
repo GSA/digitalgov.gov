@@ -7,8 +7,8 @@ authors:
   - andreanocesigritz
 topics:
   - content-strategy
-  - data-gov
   - open-source
+  - open-gov
 ---
 
 During the recent redesign of [Data.gov](http://www.data.gov/), the team developed a process that helped them respond to public feedback, track the actions and hold themselves accountable. In a DigitalGov University webinar, &#8220;Designing in the Open—Public Participation in Government Web Design,&#8221; Phil Ashlock, chief architect at Data.gov, and Jeanne Holm, Data.gov evangelist, shared how integrating feedback from virtual, online and face-to-face testing, as well as across multiple social media platforms, helped dramatically change the design in the response to the needs of their users.

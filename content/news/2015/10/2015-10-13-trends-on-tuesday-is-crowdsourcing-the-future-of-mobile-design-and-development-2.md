@@ -8,12 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - apps-challenges
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - mobile
-  - nasa
+  - challenges-and-prize-competitions
   - emerging-tech
 ---
 

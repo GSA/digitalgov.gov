@@ -9,12 +9,9 @@ authors:
 topics:
   - code
   - governance
-  - product-management
+  - product-and-project-management
   - content-strategy
-  - policy
-  - 18f
-  - best-practices
-  - data
+  - open-data
   - budgeting-and-performance
 ---
 

@@ -9,10 +9,6 @@ topics:
   - accessibility
   - design
   - user-experience
-  - accessibility
-  - gsa
-
-  - us-general-services-administration
 ---
 
 <p>

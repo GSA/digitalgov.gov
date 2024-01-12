@@ -7,8 +7,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - monthly-theme
-  - mobile
 
 ---
 

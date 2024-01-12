@@ -7,15 +7,10 @@ authors:
   - awichman
 topics:
   - application-programming-interface
-  - code
-  - data
-  - monthly-theme
-  - application-programming-interface
-  - data
-  - data-gov
-  - HHS
+  - software-engineering
+  - open-data
   - emerging-tech
-  - json
+  - software-engineering
   - open-government
 ---
 

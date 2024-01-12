@@ -7,13 +7,10 @@ authors:
   - david-kaufmann
 topics:
   - analytics
-  - our-work
-  - data
+  - open-data
   - analytics
-  - gsa
   - usability
   - user-experience
-  
 ---
 
 _USA.gov’s Analytics Success: using analytics data to inform design and responsivity to create a better experience for the user_

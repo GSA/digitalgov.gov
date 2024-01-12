@@ -7,12 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - department-of-commerce
-  - mobile
-  - SBA
-  - mobile
-  - us-small-business-administration
- 
 ---
 
 [{{< legacy-img src="2015/05/250-x-429-BusinessUSA-menu-screen-Google-Play-for-Android.jpg" alt="Business U.S.A. menu screen" >}}BusinessUSA](http://business.usa.gov) is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for [Android](https://play.google.com/store/apps/details?id=com.BusinessUSA.BusinessUSA) and [iOS](https://itunes.apple.com/us/app/businessusa/id905514958?mt=8) devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet or smartphone.

@@ -6,7 +6,7 @@ summary: ' This week the White House Office of Science and Technology Policy rel
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
 ---
 

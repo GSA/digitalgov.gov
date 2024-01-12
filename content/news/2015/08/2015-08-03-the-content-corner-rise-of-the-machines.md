@@ -7,10 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - administrative-office-of-the-united-states-courts
-  - blog
   - artificial-intelligence
-  - content-strategy
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Robot-charles-taylor-iStock-Thinkstock-149070348.jpg" alt="Robot on a light keyboard" caption="" >}} 

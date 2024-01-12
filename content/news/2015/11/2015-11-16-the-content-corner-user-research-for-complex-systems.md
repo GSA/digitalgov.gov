@@ -7,9 +7,6 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
-  - content-strategy
   - user-experience
 ---
 

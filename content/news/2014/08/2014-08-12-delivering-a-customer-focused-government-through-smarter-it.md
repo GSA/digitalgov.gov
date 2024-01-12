@@ -9,7 +9,7 @@ authors:
   - beth-cobert
 topics:
   - content-strategy
-  - data
+  - open-data
   - mobile
   - customer-experience
 ---

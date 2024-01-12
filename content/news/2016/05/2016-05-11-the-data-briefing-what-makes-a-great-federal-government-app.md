@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - emerging-tech
-  - usagov
-
 ---
 
 USAGov recently released a <a href="http://www.prnewswire.com/news-releases/discover-six-of-the-governments-best-mobile-apps-300236300.html" target="_blank">list of six great federal government mobile apps</a>. There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. Many are well-designed and useful to the American public. So, what are the outstanding federal government apps for 2016?

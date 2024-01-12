@@ -7,11 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - monthly-theme
   - social-media
-  - content-strategy
-  - social-media
-  - content-strategy
 ---
 
 As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is [digital sharecropping]({{< ref "2015-10-26-the-content-corner-twitter-apple-news-and-the-importance-of-our-websites.md" >}}). The [recent announcement from Facebook](https://contently.com/strategist/2016/02/17/facebook-will-likely-open-instant-articles-to-brands-publishers-grandma) that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic of owning and controlling our content one more time. {{< legacy-img src="2016/02/600-x-400-National-Geographic-Instant-Article-Facebook.jpg" alt="An Instant Article by National Geographic seen on a smart phone." caption="" >}} 

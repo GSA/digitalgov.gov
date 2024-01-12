@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - content-strategy
-  - social-media
   - terms-of-service
 ---
 

@@ -7,8 +7,6 @@ authors:
   - genevieve-contey
 topics:
   - mobile
-  - NOAA
-  - mobile
 ---
 
 {{< legacy-img src="2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}

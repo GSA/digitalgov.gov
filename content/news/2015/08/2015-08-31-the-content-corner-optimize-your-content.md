@@ -8,10 +8,8 @@ authors:
 topics:
   - content-strategy
   - communication
-  - administrative-office-of-the-united-states-courts
   - data-visualization
   - search-engine-optimization
-  - content-strategy
 ---
 
 {{< legacy-img src="2015/08/600-x-400-OPTIMIZATION-annatodica-iStock-Thinkstock-482812846.jpg" alt="A word cloud for optimization and related website terms." caption="annatodica/iStock/Thinkstock" >}} 

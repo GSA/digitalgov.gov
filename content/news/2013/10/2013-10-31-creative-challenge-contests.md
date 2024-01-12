@@ -6,15 +6,10 @@ summary: 'Multimedia, Photo, Poster, Design Challenge and prize competitions are
 authors:
   - ktrebon
 topics:
-  - challenges
-  - product-management
-  - content-strategy
   - analytics
-  - apps-challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - analytics
+  - content-strategy
+  - product-management
   - social-media
 ---
 

@@ -6,15 +6,11 @@ summary: 'Content can be categorized in many ways. While breaking down your webs
 authors:
   - kyle-s-richardson
 topics:
+  - analytics
   - content-strategy
-  - product-management
+  - product-and-project-management
   - mobile
   - social-media
-  - analytics
-  - analytics-usa-gov
-  - content-strategy
-  - mobile
-  - content-strategy
 ---
 
 ****Content can be categorized in many ways. While breaking down your [website analytics]({{< ref "/topics/analytics" >}}), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.

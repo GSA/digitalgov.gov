@@ -8,11 +8,8 @@ authors:
 topics:
   - accessibility
   - analytics
-  - our-work
   - social-media
   - accessibility
-  - socialgov
-  - socialgov-community
 ---
 
 {{< legacy-img src="2014/06/600-x-350-June-30th2014-SocialGov-Google-Hangout.jpg" alt="YouTube screen capture of June 30, 2014 SocialGov Google Hangout" >}}

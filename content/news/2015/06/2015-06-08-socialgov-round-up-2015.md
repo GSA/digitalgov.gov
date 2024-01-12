@@ -9,15 +9,7 @@ topics:
   - social-media
   - analytics
   - search
-  - DOI
-  - epa
-  - fda
-  - GAO
-  - HHS
-  - socialgov
-  - socialgov-community
   - terms-of-service
-  - tos
 ---
 
 {{< legacy-img src="2015/06/600-x-360-World-social-digital-TCmake_photo-iStock-Thinkstock-183161931.jpg" alt="A digital graphic of social media icons revolving around a globe, above a smart phone" caption="" >}} 

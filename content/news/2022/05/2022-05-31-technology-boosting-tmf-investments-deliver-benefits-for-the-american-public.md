@@ -14,7 +14,7 @@ topics:
   - security
   - user-experience
   - content-strategy
-  - data
+  - open-data
   - acquisition
 
 # See all authors at https://digital.gov/authors

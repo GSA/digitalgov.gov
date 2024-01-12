@@ -10,11 +10,7 @@ authors:
   - dana-allen-greil
 topics:
   - content-strategy
-  - product-management
-  - social-media
-  - content-strategy
-  - policy
-  - content-strategy
+  - product-and-project-management
   - social-media
 ---
 
