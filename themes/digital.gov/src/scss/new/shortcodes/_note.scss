@@ -1,21 +1,21 @@
 @use "uswds-core" as *;
 
 .dg-note {
-  color: color("blue-70");
   background-color: color("blue-5");
-  padding: units(3);
+  border-left-color: color("blue-20");
+  border-left-style: solid;
+  border-left-width: 5px;
+  color: color("blue-70");
   font-size: size("ui", "sm");
   font-weight: font-weight("light");
-  border-left-width: 5px;
-  border-left-style: solid;
-  border-left-color: color("blue-20");
+  padding: units(3);
 
   a {
-    text-decoration: none;
-    color: color("blue-70");
-    border-bottom-width: 5px;
-    border-bottom-style: solid;
     border-bottom-color: color("blue-70");
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    color: color("blue-70");
+    text-decoration: none;
 
     &:hover {
       @include u-text("no-underline");
@@ -57,16 +57,16 @@
   // Activities  — color settings
   &--activity {
     background-color: color("orange-warm-5");
-    color: color("orange-warm-60");
-    border-left-width: 5px;
-    border-left-style: solid;
     border-left-color: color("orange-warm-30");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("orange-warm-60");
 
     a {
-      color: color("orange-warm-60");
-      border-bottom-width: 1px;
-      border-bottom-style: solid;
       border-bottom-color: color("orange-warm-60");
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
+      color: color("orange-warm-60");
 
       &:hover {
         color: color("orange-warm-80");
@@ -80,16 +80,16 @@
   // Alert styles
   &--alert {
     background-color: color("red-5");
-    color: color("red-60v");
-    border-left-width: 5px;
-    border-left-style: solid;
     border-left-color: color("red-40v");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("red-60v");
 
     a {
-      color: color("red-60v");
-      border-left-width: 5px;
-      border-left-style: solid;
       border-left-color: color("red-40v");
+      border-left-style: solid;
+      border-left-width: 5px;
+      color: color("red-60v");
 
       &:hover {
         color: color("red-80v");
@@ -103,16 +103,16 @@
   // Comment — color settings
   &--comment {
     background-color: color("blue-cool-10");
-    color: color("blue-cool-80");
-    border-left-width: 5px;
-    border-left-style: solid;
     border-left-color: color("blue-cool-50");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("blue-cool-80");
 
     a {
-      color: color("blue-cool-70");
-      border-left-width: 5px;
-      border-left-style: solid;
       border-left-color: color("blue-cool-50");
+      border-left-style: solid;
+      border-left-width: 5px;
+      color: color("blue-cool-70");
 
       &:hover {
         color: color("blue-cool-80");
@@ -130,18 +130,18 @@
   }
   &--disclaimer {
     background-color: color("gray-cool-3");
-    color: color("gray-warm-90");
-    border-left-width: 5px;
-    border-left-style: solid;
     border-left-color: color("gray-cool-20");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("gray-warm-90");
   }
 }
 
 .dg-note__heading {
-  margin-top: 0;
   font-family: family("serif");
   font-size: size("ui", "md");
   font-weight: font-weight("light");
+  margin-top: 0;
 }
 
 .dg-note__icon {
