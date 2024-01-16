@@ -10,6 +10,7 @@ summary: Understand how to buy, build, and deliver modern digital services while
 topics:
   - acquisition
   - product-and-project-management
+  - performance
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
