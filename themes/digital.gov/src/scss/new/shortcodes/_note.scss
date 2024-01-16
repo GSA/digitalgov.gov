@@ -4,8 +4,8 @@
   color: color("blue-70");
   background-color: color("blue-5");
   padding: units(3);
-  font-size: size('ui', 'sm');
-  font-weight: font-weight('light');
+  font-size: size("ui", "sm");
+  font-weight: font-weight("light");
   border-left-width: 5px;
   border-left-style: solid;
   border-left-color: color("blue-20");
@@ -20,29 +20,24 @@
     &:hover {
       @include u-text("no-underline");
       color: color("blue-70");
-
     }
   }
 
   .highlight {
     background-color: color("blue-10");
-
   }
 
   strong {
-  font-weight: font-weight('medium');
-
+    font-weight: font-weight("medium");
   }
 
   p:last-child {
     margin-bottom: 0;
-
   }
 
   blockquote {
     border: 0;
     padding-left: 0;
-
   }
 
   ol,
@@ -52,15 +47,12 @@
 
     li {
       margin-bottom: 2px;
-
     }
-
   }
   // For notes within list items
   li .note {
     @include u-padding-y("05");
     @include u-padding-x(1);
-
   }
   // Activities  — color settings
   &--activity {
@@ -79,12 +71,10 @@
       &:hover {
         color: color("orange-warm-80");
       }
-
     }
 
     .highlight {
       background-color: color("orange-warm-10");
-
     }
   }
   // Alert styles
@@ -94,7 +84,6 @@
     border-left-width: 5px;
     border-left-style: solid;
     border-left-color: color("red-40v");
-
 
     a {
       color: color("red-60v");
@@ -131,13 +120,12 @@
     }
 
     .highlight {
-      background-color: color('white')
-
+      background-color: color("white");
     }
 
     blockquote {
-      font-family: family('serif');
-      font-size: size('ui', 'lg');
+      font-family: family("serif");
+      font-size: size("ui", "lg");
     }
   }
   &--disclaimer {
@@ -146,16 +134,14 @@
     border-left-width: 5px;
     border-left-style: solid;
     border-left-color: color("gray-cool-20");
-
   }
 }
 
 .dg-note__heading {
   margin-top: 0;
-  font-family: family('serif');
-  font-size: size('ui', 'md');
-  font-weight: font-weight('light');
-
+  font-family: family("serif");
+  font-size: size("ui", "md");
+  font-weight: font-weight("light");
 }
 
 .dg-note__icon {
