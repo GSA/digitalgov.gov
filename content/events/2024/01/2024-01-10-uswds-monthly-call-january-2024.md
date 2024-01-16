@@ -27,7 +27,7 @@ In this session, you will learn:
 
 * How the Design System team documents their accessibility testing
 * The new checklists to conduct your own accessibility testing
-* The components the Design System team was unable to test
+* Our schedule for publishing additional component accessibility tests
 * Locating known issues for some Design System components
 
 **This event is best suited for:** Designers, accessibility specialists, developers, and content managers (all levels)
