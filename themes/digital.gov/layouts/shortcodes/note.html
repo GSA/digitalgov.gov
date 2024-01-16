@@ -1,5 +1,5 @@
 {{ $variant := (.Get "variant") }}
-{{ $icon := "" }}
+{{ $icon := "notifications" }}
 
 {{ if eq $variant "activity" }}
   {{ $icon = "assessment" }}
@@ -17,8 +17,6 @@
   {{ $icon = "notifications" }}
 {{ else if eq $variant "disclaimer" }}
   {{ $icon = "info" }}
-{{ else if eq $variant nil }}
-  {{ $icon = "notifications" }}
 {{ end }}
 
 {{- $iconPath := (printf "uswds/img/sprite.svg#%s" $icon) -}}
@@ -27,7 +25,7 @@
 <article
   class="dg-note {{ if $variant }}dg-note--{{- $variant | lower -}}{{ end }}"
 >
-  <h4 class="dg-note__title">
+  <h4 class="dg-note__heading">
     <svg
       class=" dg-note__icon usa-icon dg-icon dg-icon--large margin-bottom-05"
       aria-hidden="true"
