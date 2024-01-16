@@ -9,7 +9,6 @@ topics:
   - seo
   - accessibility
   - plain-language
-  - plain-language
   - content-strategy
   - analytics
 # See all authors at https://digital.gov/authors

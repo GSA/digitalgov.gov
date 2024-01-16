@@ -9,7 +9,6 @@ topics:
   - application-programming-interface
   - user-testing-and-research
   - user-experience
-  - application-programming-interface
   - open-source
   - usability-testing
 ---

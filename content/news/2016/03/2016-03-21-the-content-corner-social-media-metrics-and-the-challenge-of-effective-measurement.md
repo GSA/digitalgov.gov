@@ -9,9 +9,6 @@ topics:
   - content-strategy
   - analytics
   - social-media
-  
-  - analytics
-  - content-strategy
   - content-strategy
 ---
 

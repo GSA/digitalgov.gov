@@ -13,8 +13,6 @@ summary: "This week, we’re providing a few tips for tidying up redundant, outd
 topics:
   - digital-service-delivery
   - content-strategy
-  - content-strategy
-  - analytics
   - plain-language
   - analytics
   - accessibility

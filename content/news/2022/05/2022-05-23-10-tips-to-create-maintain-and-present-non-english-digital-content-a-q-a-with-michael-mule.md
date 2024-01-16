@@ -8,7 +8,6 @@ topics:
   - accessibility
   - content-strategy
   - multilingual
-  - multilingual
   - plain-language
 # See all authors at https://digital.gov/authors
 authors:

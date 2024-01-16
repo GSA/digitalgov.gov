@@ -10,8 +10,6 @@ topics:
   - social-media
   - analytics
   - content-strategy
-  - analytics
-  - mobile
   - security
   - emerging-tech
 ---

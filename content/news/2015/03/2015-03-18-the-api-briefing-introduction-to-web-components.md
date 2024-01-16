@@ -7,8 +7,6 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - application-programming-interface
-  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/03/512-x-400-Web-Components-light-logo.jpg" alt="Web Components light logo" >}}

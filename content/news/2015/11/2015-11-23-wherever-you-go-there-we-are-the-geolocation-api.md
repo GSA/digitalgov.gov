@@ -9,8 +9,6 @@ authors:
 topics:
   - application-programming-interface
   - mobile
-  - application-programming-interface
-  - mobile
 ---
 
 No matter [how you go mobile]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}), you can meet your user’s needs. Recommendations based on location are plentiful, particularly on native apps. But don’t fret, agencies with mobile websites: you can also get in the location customization game. {{< legacy-img src="2015/11/600-x-400-Mobile-phone-gps-navigation-travel-destination-location-and-positioning-concept-cybrain-iStock-Thinkstock-493553122.jpg" alt="Mobile phone gps navigation, travel destination, location and positioning concept of a map and single marker over a smart phone" caption="" >}}

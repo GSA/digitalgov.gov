@@ -24,7 +24,6 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 topics:
   - application-programming-interface
-  - application-programming-interface
 
 ---
 

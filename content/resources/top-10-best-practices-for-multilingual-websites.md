@@ -10,7 +10,6 @@ authors:
   - lina-younes
 topics:
   - multilingual
-  - multilingual
 aliases:
   - /2012/08/12/top-10-best-practices-for-multilingual-websites/
 ---

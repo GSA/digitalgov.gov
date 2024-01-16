@@ -16,7 +16,6 @@ end_date: 2021-07-28 15:00:00 -0500
 topics:
   - analytics
   - usability-case-study
-  - analytics
   - content-strategy
   - user-experience
 # See all authors at https://digital.gov/authors

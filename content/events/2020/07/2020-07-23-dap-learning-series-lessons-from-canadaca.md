@@ -21,7 +21,6 @@ end_date: 2020-07-23 15:30:00 -0500
 topics:
   - analytics
   - user-experience
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors:

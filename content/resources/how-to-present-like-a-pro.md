@@ -10,7 +10,6 @@ topics:
   - communication
   - multimedia
   - professional-development
-  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - wendy-wagner-smith

@@ -25,7 +25,6 @@ event_platform:
 topics:
   - analytics
   - user-experience
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors:

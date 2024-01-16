@@ -8,7 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - code
-  - application-programming-interface
   - open-data
 ---
 

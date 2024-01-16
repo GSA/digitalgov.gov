@@ -12,7 +12,6 @@ summary: "Multilingual resources to standardize the use of various languages acr
 topics:
   - accessibility
   - content-strategy
-  - multilingual
   - plain-language
   - multilingual
 
