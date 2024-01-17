@@ -8,8 +8,6 @@ authors:
 topics:
   - accessibility
   - challenges
-  - crowdsourcing-and-citizen-science
-  - accessibility
   - challenge-gov
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science

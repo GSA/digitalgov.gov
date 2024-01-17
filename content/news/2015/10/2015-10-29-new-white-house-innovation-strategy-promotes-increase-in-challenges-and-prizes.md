@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
   - professional-development
 ---
 

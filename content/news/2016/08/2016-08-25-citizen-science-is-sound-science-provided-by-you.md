@@ -7,8 +7,6 @@ authors:
   - stephanie-dromerick
 topics:
   - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
 ---
 
 Have you ever seen a cool bird in your backyard and wondered if there was some way to share what you saw with others? Better yet, have you thought about sharing your observations and having them used to help study and conserve those birds? These thoughts are an indicator that you might have the makings of a great <a href="http://www.esa.org/esa/wp-content/uploads/2015/09/Issue19.pdf" target="_blank">citizen scientist</a> ({{< legacy-img src="2016/08/application-pdf.png" alt="PDF icon" >}} PDF, 28 pgs, 3 MB)!
