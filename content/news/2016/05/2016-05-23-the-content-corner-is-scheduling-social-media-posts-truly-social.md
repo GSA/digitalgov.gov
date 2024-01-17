@@ -6,15 +6,13 @@ summary: 'Good communicators are always&hellip;well&hellip;evaluating the way th
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - product-management
-  - monthly-theme
+  - content-strategy
+  - product-and-project-management
   - social-media
   - user-experience
   - customer-experience
-  - firstnet
   - social-media
-  - the-content-corner
+  - content-strategy
 ---
 
 Good communicators are always…well…evaluating the way they communicate. As we think of the “customer experience,” it is key to constantly consider your methods for engaging with your audience. Just as [the platforms themselves continue to change](http://www.adweek.com/news/technology/youtube-encouraging-users-share-videos-new-app-messaging-feature-171410) to keep their audience, continuing to refine our ways of sending messages will assure that you don’t get left behind. {{< legacy-img src="2016/05/600-x-450-USA-Timezone-clock-r3bel-iStock-Thinkstock-140377518.jpg" alt="A clock with multiple hands that have U.S. cities on them" caption="" >}} 
@@ -39,4 +37,4 @@ While I certainly still see the need for it, when it comes to scheduling social 
 
   * **In-authenticity** – In today’s digital age, where [influencers are almost as trusted as friends](http://www.marketingdive.com/news/twitter-says-influencers-are-almost-as-trusted-as-friends/419076/), it’s important to be genuine and authentic. Scheduling posts with evergreen content can certainly seem like your agency is just trying to shove information down the audience’s throat, and de-values their need to hear your messages. Agencies and influencers (perhaps agency leadership on social media) are knowledgeable, passionate and authentic, and because of this are seen as trusted sources.
 
-Once you stop scheduling, you force yourself to be more attentive to the needs of your audience. Consider posting manually—even if it’s for just a trial period. It could make a huge difference in the way your message is received. After all, if you don’t have the time, then why are you doing social?_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Once you stop scheduling, you force yourself to be more attentive to the needs of your audience. Consider posting manually—even if it’s for just a trial period. It could make a huge difference in the way your message is received. After all, if you don’t have the time, then why are you doing social?_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

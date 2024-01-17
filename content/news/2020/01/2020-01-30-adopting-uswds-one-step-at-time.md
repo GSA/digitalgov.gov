@@ -12,10 +12,8 @@ summary: "The U.S. Web Design System is key to new website standards"
 topics:
   - software-engineering
   - design
-  - product-management
-  - uswds
-  - 21st-century-idea
-  - this-weeks-idea
+  - product-and-project-management
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

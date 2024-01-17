@@ -19,7 +19,6 @@ end_date: 2019-11-19 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - social-media
-  - us-small-business-administration
 
 # see all authors at https://digital.gov/authors
 authors: 

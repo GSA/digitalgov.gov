@@ -6,9 +6,8 @@ summary: 'Common Technical Choices Protocol API protocol is the set of rules tha
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
-  - api
 ---
 
 ## Common Technical Choices {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 

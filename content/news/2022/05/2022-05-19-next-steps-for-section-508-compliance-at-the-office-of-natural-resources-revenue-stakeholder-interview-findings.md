@@ -8,7 +8,6 @@ deck: "**Next Steps for Section 508 Compliance at the Office of Natural Resource
 # See all authors at https://digital.gov/authors
 topics:
   - accessibility
-  - 508
 slug: next-steps-for-section-508-compliance-at-the-office-of-natural-resources-revenue-stakeholder-interview-findings
 # Controls how this page appears across the site
 # 0 -- hidden

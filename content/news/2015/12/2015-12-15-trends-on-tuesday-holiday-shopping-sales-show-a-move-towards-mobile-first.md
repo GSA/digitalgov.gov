@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - emerging-tech
 ---
 
 U.S. shoppers are increasingly using their mobile devices to make purchases during the busiest shopping days: Black Friday and Thanksgiving weekend. {{< legacy-img src="2015/12/600-x-450-Smartphone-Shopping-Bags-style-photography-iStock-Thinkstock-529650829.jpg" alt="Three brightly colored mini shopping bags sit on a smart phone" caption="" >}} 

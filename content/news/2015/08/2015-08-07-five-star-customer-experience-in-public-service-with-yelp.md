@@ -6,13 +6,9 @@ summary: ' Adding customer satisfaction ratings and reviews to public services j
 authors:
   - jherman
 topics:
-  - social-media
-  - api
-  - DOT
+  - application-programming-interface
   - social-media
   - terms-of-service
-  - terms-of-service
-  - united-states-department-of-transportation
 ---
 
 {{< legacy-img src="2015/08/600-x-400-yelp-Best-Public-Services-Government-in-Washington-DC-page.jpg" alt="A screen capture of Yelp's Best Public Services & Government in Washington, DC page" >}}

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 Last week, [Recode published an article](http://www.recode.net/2016/5/26/11785930/connected-cars-cellular-growth)</span><span style="font-weight: 400"> focused on a </span>[<span style="font-weight: 400">recent report from industry consultant Chetan Sharma</span>](http://www.chetansharma.com/usmarketupdateq12016.htm) <span style="font-weight: 400">that found the largest number of new mobile activations in the first quarter of 2016 came from a ‘different’ kind of mobile tool—cars.</p> {{< legacy-img src="2016/06/600-x-400-Self-driving-car-concept-Mikko-Lemola-iStock-Thinkstock-521204364.jpg" alt="Self-driving car concept" caption="" >}} 

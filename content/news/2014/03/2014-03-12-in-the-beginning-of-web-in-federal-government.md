@@ -8,7 +8,7 @@ authors:
   - andreanocesigritz
 
 topics:
-  - content
+  - content-strategy
 
 ---
 

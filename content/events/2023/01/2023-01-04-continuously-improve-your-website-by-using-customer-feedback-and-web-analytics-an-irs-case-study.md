@@ -13,7 +13,6 @@ end_date: 2023-01-25 14:00:00 -0500
 topics:
   - usability
   - customer-experience
-  - data
   - user-experience
   - analytics
 slug: continuously-improve-your-website-by-using-customer-feedback-and-web-analytics-an-irs-case-study

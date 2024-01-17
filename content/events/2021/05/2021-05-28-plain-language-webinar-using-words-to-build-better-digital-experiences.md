@@ -16,8 +16,8 @@ end_date: 2021-06-09 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - plain-language-community-of-practice
-  - writing
+  - plain-language
+  - communication
   - design
   - user-experience
   - user-centered-design

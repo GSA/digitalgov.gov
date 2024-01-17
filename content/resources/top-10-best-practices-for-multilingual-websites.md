@@ -10,7 +10,7 @@ authors:
   - lina-younes
 topics:
   - multilingual
-  - multilingual-community
+  - multilingual
 aliases:
   - /2012/08/12/top-10-best-practices-for-multilingual-websites/
 ---

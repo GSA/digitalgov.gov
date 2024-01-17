@@ -7,10 +7,8 @@ authors:
   - melody-kramer
 topics:
   - software-engineering
-  - writing
-  - 18f
-  - software-engineering
   - open-source
+  - communication
 ---
 
 We routinely publish our best practices in the [18F Guides](https://pages.18f.gov/guides/), and today we’re happy to launch a new one: the [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/).

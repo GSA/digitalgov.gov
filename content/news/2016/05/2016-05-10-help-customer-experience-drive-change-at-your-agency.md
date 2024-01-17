@@ -6,8 +6,7 @@ summary: 'With the recent launch of the Core Federal Services Council&mdash;whic
 authors:
   - andreanocesigritz
 topics:
-  - product-management
-  - monthly-theme
+  - product-and-project-management
   - customer-experience
 ---
 

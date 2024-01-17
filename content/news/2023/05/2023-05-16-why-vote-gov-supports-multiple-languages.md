@@ -15,7 +15,7 @@ summary: summary
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - content
+  - content-strategy
 slug: why-vote-gov-supports-multiple-languages
 # Controls how this page appears across the site
 # 0 -- hidden

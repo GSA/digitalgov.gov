@@ -6,9 +6,7 @@ summary: "The National Park Service website, NPS.gov, is home to sites for the p
 authors:
   - marina-fox
 topics:
-  - metrics
-  - our-work
-  - digital-analytics-program
+  - analytics
 
 ---
 

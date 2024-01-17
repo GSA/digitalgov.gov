@@ -7,9 +7,8 @@ authors:
   - kdowney
 topics:
   - mobile
-  - api
-  - native-app
-  - thursday-mobile-products
+  - application-programming-interface
+  - mobile
   - united-states-army
 ---
 

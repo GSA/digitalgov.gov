@@ -9,12 +9,8 @@ authors:
   - gray-brooks
   - john-tindel
 topics:
-  - product-management
-  - our-work
-  - 18f
+  - product-and-project-management
   - analytics
-  - digital-analytics-program
-  - gsa
   - security
 ---
 

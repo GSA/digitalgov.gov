@@ -8,14 +8,8 @@ authors:
 topics:
   - software-engineering
   - social-media
-  - data-gov
-  - DOL
+  - open-government
   - open-data
-  - recaps
-  - social-media
-  - us-department-of-labor
-  - us-department-of-state
-  - world-bank
 ---
 
 {{< legacy-img src="2014/08/600-x-180-SocialGov-Open-Data-White-House-EEOB-Summit-Aug-7th-2014.jpg" alt="SocialGov Open Data White House EEOB Summit, Aug 7th 2014" >}}

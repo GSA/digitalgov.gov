@@ -6,16 +6,10 @@ summary: 'Content is no longer limited to .gov sites. As mentioned in a recent b
 authors:
   - rachel-mundstock
 topics:
-  - api
-  - content
-  - our-work
-  - social-media
-  - video
+  - application-programming-interface
+  - content-strategy
+  - multimedia
   - search
-  - federal-register
-  - National Library of Medicine
-  - NLM
-  - recaps
   - social-media
 ---
 

@@ -7,8 +7,6 @@ authors:
   - theresa-summa
 topics:
   - software-engineering
-  - 18f
-  - software-engineering
   - open-source
 ---
 

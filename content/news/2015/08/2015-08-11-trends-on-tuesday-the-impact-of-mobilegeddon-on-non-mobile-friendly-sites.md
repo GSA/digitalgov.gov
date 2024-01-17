@@ -8,11 +8,11 @@ authors:
 topics:
   - mobile
   - search
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-1
-  - mobile-first
+  - mobile
+  - mobile
+  - mobile
   - search-engine-optimization
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/08/600-x-291-ADOBE-DIGITAL-INDEX-chart-Spread-of-organic-search-visits-by-mobile-friendliness-from-April-21-2015-to-June-29-2015.jpg" alt="Spread of organic search visits by mobile friendliness from April 21, 2015 to June 29, 2015. Highlights Organic traffic up to 10% lower among sites with low mobile engagement." caption="" >}}
@@ -29,4 +29,4 @@ In the report, Tamara Gaffney, principal for the Adobe Digital Index said, &#822
 
 For government agencies who don’t buy search traffic, the only sustainable model is to immediately get your sites mobile-friendly and follow the mobile search improvement tips provided by DigitalGov Search [in this article]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}).
 
-If your agency needs help or wants to learn more about the trends shaping the future of mobile, please [subscribe to the MobileGov Community of Practice]({{< ref "/communities" >}}) and [check out the mobile resources]({{< ref "/topics/mobile" >}}) and [Trends on Tuesday posts on DigitalGov]({{< ref "/topics/trends-on-tuesday" >}}) to read more resources on how to prepare for the process.
+If your agency needs help or wants to learn more about the trends shaping the future of mobile, please [subscribe to the MobileGov Community of Practice]({{< ref "/communities" >}}) and [check out the mobile resources]({{< ref "/topics/mobile" >}}) and [Trends on Tuesday posts on DigitalGov]({{< ref "/topics/emerging-tech" >}}) to read more resources on how to prepare for the process.

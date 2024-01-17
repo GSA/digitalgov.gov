@@ -7,9 +7,9 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/12/250-x-340-Smartphone-santa-claus-cartoon-character-buy-Christmas-presents-online-shopping-drante-iStock-Thinkstock-514103937.jpg" alt="Smartphone santa claus cartoon character buy holding a present" caption="" >}} 

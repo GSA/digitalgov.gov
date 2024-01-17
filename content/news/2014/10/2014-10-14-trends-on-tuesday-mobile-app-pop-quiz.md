@@ -7,12 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - cdc
-  - Census
-  - centers-for-disease-control-and-prevention
-  - mobile-apps
-  - trends-on-tuesday
-  - united-states-census-bureau
+  - emerging-tech
 ---
 
 {{< legacy-img src="2013/05/250-x-375-CDC-Solve-the-Outbreak.jpg" alt="Advertisement for CDC's Solve the Outbreak App" >}}It’s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? [ComScore recently released the U.S. Mobile App Report](http://www.comscore.com/Insights/Blog/5-Questions-and-Answers-Shedding-Light-on-How-Americans-Use-Mobile-Apps) which sheds light on how Americans use mobile apps. Test your knowledge with the five questions and answers below:

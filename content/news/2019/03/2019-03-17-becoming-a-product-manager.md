@@ -6,7 +6,7 @@ summary: ''
 authors:
   - jeremyzilar
 topics:
-  - product-management
+  - product-and-project-management
   - project-management
 
 source: 'doi-revenuedata'

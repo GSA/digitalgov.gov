@@ -20,7 +20,6 @@ summary: U.S. Digital Corps Fellows at HHS proved instrumental to delivering
   priority themes, open datasets, and curated resources for solvers.
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - open-data
   - user-experience
   - innovation

@@ -6,14 +6,9 @@ summary: 'The Census Bureau conducts more surveys than just the Constitutionally
 authors:
   - bbrantley
 topics:
-  - api
-  - data
-  - api
-  - Census
-  - data
+  - application-programming-interface
+  - emerging-tech
   - open-data
-  - the-data-briefing
-  - united-states-census-bureau
 ---
 
 The Census Bureau conducts more surveys than just the Constitutionally-mandated Decennial Census. There is also the [American Community Survey](http://www.census.gov/programs-surveys/acs/), the [Economic Census](http://www.census.gov/econ/census/), the [County Business Patterns series](http://www.census.gov/programs-surveys/cbp.html), statistics on [Nonemployer businesses](http://www.census.gov/econ/nonemployer/), and the [Survey of Business Owners and Self-Employed Persons](http://www.census.gov/programs-surveys/sbo.html).  On their own, each survey is full of useful information for researchers, local and state governments, and entrepreneurs. However, how valuable would the data be if it were mixed and displayed geographically?
@@ -32,5 +27,5 @@ Because of the success of the Census Business Builder, the Census Bureau release
 
 The Census Business Builder and the Regional Analyst Edition demonstrate several innovations in creating and implementing federal government data applications. First, the Census Business Builder was created using agile project management after being conceived in a hackathon. Second, both applications illustrate the power of combining data sets to create new data products. Third, both demonstrate the power of building API-powered federal government applications in the cloud to serve the needs of the American entrepreneur and American public._(ESRI and ArcGIS are used for illustrative purposes and does not imply endorsement by the federal government or any specific federal agencies.)_
 _*API – Application Programming Interface—how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

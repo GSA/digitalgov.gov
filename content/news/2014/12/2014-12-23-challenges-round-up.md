@@ -6,19 +6,9 @@ summary: Recap of the 2014 Challenge and Prize competition events hosted by Digi
 authors:
   - apiazza
 topics:
-  - challenges
-  - monthly-theme
-  - CFPB
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - Consumer Financial Protection Bureau
-  - crowdsourcing
-  - nasa
+  - crowdsourcing-and-citizen-science
   - open-source
-  - OSTP
-  - recaps
-  - white-house-office-of-science-and-technology-policy
 
 ---
 

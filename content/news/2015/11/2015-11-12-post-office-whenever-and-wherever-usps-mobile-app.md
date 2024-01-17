@@ -8,13 +8,6 @@ authors:
 topics:
   - mobile
   - software-engineering
-  - mobile-apps
-  - SSA
-  - the-united-states-social-security-administration
-  - thursday-mobile-products
-  - United States Postal Service
-  - USPS
-
 ---
 
 Gone are the days when you have to drive miles on a hot and humid afternoon or a cold wintry morning to your local post office to mail your letters, get your stamps or determine how much postage you will need for that package. Technology has become integral to our lives, and now many of these familiar postal services are available at our fingertips on our mobile devices.

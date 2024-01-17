@@ -8,27 +8,15 @@ authors:
 topics:
   - accessibility
   - design
-  - metrics
-  - mobile
-  - user-testing-and-research
-  - accessibility
-  - communities
-  - content
+  - analytics
   - content-strategy
-  - itif
-  - metrics
-  - mobile
-  - mobile-first
   - plain-language
-  - responsive-web-design
+  - mobile
   - search-engine-optimization
-  - section-508
   - security
-  - seo
-  - training
   - usability
   - user-experience
-  - user-research
+  - research
 
 primary_image: "itif-presentation-title-slide"
 

@@ -6,18 +6,9 @@ summary: 'Daily imagery data taken by the Earth Polychromatic Imaging Camera is 
 authors:
   - veronica-phillips
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
-  - content
-  - data
-  - api
-  - software-engineering
-  - content
-  - nasa
-  - National Aeronautics and Space Administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - open
+  - content-strategy
   - open-data
 ---
 

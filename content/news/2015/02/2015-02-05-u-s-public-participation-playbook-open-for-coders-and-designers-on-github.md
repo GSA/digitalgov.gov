@@ -7,13 +7,10 @@ authors:
   - jherman
 topics:
   - software-engineering
-  - communities
-  - product-management
-  - metrics
+  - product-and-project-management
+  - analytics
   - social-media
   - user-experience
-  - software-engineering
-  - social-media
 ---
 
 {{< legacy-img src="2015/03/600-x-425-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="A diverse group of raised hands." caption="" >}} 

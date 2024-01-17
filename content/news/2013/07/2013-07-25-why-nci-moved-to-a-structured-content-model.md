@@ -6,22 +6,15 @@ summary: ' Wikipedia says that structured content refers to information that&#82
 authors:
   - lakshmi-grama
 topics:
-  - content
-  - CMS
-  - content-management-system
-  - metadata
-  - national-cancer-institute
-  - national-institutes-of-health
-  - NCI
-  - nih
-  - open-and-structured-content-models
+  - content-strategy
+  - search-engine-optimization
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
 Wikipedia says that structured content refers to information that&#8217;s been broken down and classified using metadata. It can also refer to information that&#8217;s been classified using XML or other standard or proprietary forms of metadata.
 
-The National Institutes of Health&#8217;s National Cancer Institute (NIH/NCI) [move to structured content]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content") has allowed them to easily deliver their content anywhere, anytime, and on any device.
+The National Institutes of Health&#8217;s National Cancer Institute (NIH/NCI) [move to structured content](https://digital.gov/2013/07/29/how-to-create-open-structured-content/) has allowed them to easily deliver their content anywhere, anytime, and on any device.
 
 ## The Challenge
 

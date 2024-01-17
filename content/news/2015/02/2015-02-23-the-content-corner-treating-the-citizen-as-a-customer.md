@@ -6,11 +6,7 @@ summary: 'There is a tendency in government to discount a range of strategies cl
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
   - content-strategy
-  - the-content-corner
 ---
 
 {{< legacy-img src="2015/02/250-x-203-Sales-Thermometer-Rising-Past-Great-Levels-qoncept-iStock-Thinkstock-139918115.jpg" alt="A rising sales concept graphic of an old-fashioned thermometer" caption="" >}} 
@@ -39,4 +35,4 @@ The most effective way to ensure your content acts as the user’s guide is to k
 
 Even when you understand what the user is looking for, how you present that information is just as critical. If they don’t realize that you are providing them exactly what they are looking for then your efforts to better understand them are wasted. This is the critical importance of [user experience design]({{< ref "/topics/user-experience" >}}) (UX). UX focuses on not only how scannable your content is or the typography, but delves deeper into more [psychological aspects](http://thenextweb.com/dd/2014/10/22/psychology-web-design/). Is your content inviting? Do your colors and design inspire trust in the user? If those words sound like marketing concerns, you are right.
 
-The idea of treating the citizen as a consumer is nothing new, the use of terms like customer service and the proliferation of satisfaction surveys in the federal government make that clear. But do we truly treat them like a potential customer worthy of a marketing strategy? Are we trying to make sure their interaction with our brand is a positive one? Are we displaying empathy, developing trust, and fully focused on making that “sale”? If not, we should be._You’ve just finished reading the second article from a new column called [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
+The idea of treating the citizen as a consumer is nothing new, the use of terms like customer service and the proliferation of satisfaction surveys in the federal government make that clear. But do we truly treat them like a potential customer worthy of a marketing strategy? Are we trying to make sure their interaction with our brand is a positive one? Are we displaying empathy, developing trust, and fully focused on making that “sale”? If not, we should be._You’ve just finished reading the second article from a new column called [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._

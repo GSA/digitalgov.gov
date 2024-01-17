@@ -22,13 +22,10 @@ expirydate: "2023-11-13"
 weight: 1
 
 topics:
-  - web-content-managers-forum
-  - design
-  - content
-  - social-media
   - content-strategy
-  - strategy
-  - customer-service
+  - design
+  - social-media
+  - customer-experience
   - multilingual
   - communication
 

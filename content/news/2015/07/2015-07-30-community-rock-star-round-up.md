@@ -6,26 +6,11 @@ summary: "Around this month&#8217;s Communities Theme, the DigitalGov team thoug
 authors:
   - apiazza
 topics:
-  - communities
-  - monthly-theme
-  - 18f
   - customer-experience
-  - Federal CrowdSource Mobile Testing Program
-  - gsa
-  - HHS
-  - ICE
-  - mobile-gov
-  - NCI
-  - nih
-  - open-and-structured-content-models
-  - OPM
+  - mobile
+  - content-strategy
   - social-media
-  - SSA
-  - trends-on-tuesday
-  - us-department-of-state
-  - us-food-and-drug-administration
-  - united-states-census-bureau
-  - USDA
+  - emerging-tech
   - user-experience
 
 ---
@@ -48,7 +33,7 @@ We wanted to recognize the [Open and Structure Content Working Group](http://gsa
 
 **Kevin Downey**, from the U.S. Immigration and Customs Enforcement, just wrapped up as our [Thursday Mobile Products]({{< ref "/topics/social-media" >}}) contributor. Some of our favorite pieces of his were about [AMBC&#8217;s apps]({{< ref "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}}), this one about [Piping Plovers]({{< ref "2015-04-09-new-usgs-app-helps-save-the-piping-plovers.md" >}}), his [update about IRS2Go]({{< ref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}}) and of course about his organization&#8217;s app—[Operation Predator&#8217;s impact on mission.]({{< ref "2014-05-01-operation-predator-app-from-ice-developed-to-help-rescue-children-capture-sexual-predators.md" >}}) Other awesome writers have been <a title="Posts by Nirmala Ramprasad" href="{{< ref "/authors/nirmala-ramprasad" >}}" rel="author">Nirmala Ramprasad</a> from the Social Security Administration, [Genevieve Contey]({{< ref "/authors/genevieve-contey" >}}) from NOAA and Kanika Tolver formerly of DOT (she&#8217;s a contractor for State now).
 
-The mobile community also has volunteers writers for our <a href="{{< ref "/topics/trends-on-tuesday" >}}">Trends on Tuesday</a> posts. Past writers include <strong>Treci Johnson</strong> from U.S. Department of the Interior, <strong>Lisa Wilcox</strong> from USDA and <strong>Linda V. Priebe</strong> formerly of Office of National Drug Control Policy. <strong>Will Sullivan</strong>, 18f team member, is our current writer, and is off to a strong start with posts on <a href="{{< ref "2015-04-07-trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information.md" >}}">smartphone use</a>, <a href="{{< ref "2015-04-14-trends-on-tuesday-10-tips-for-mobile-live-streaming.md" >}}">live streaming tips</a> and <a href="{{< ref "2015-05-12-trends-on-tuesday-consumer-purchases-and-usage-of-tablets-shrink-as-phablets-grow.md" >}}">phablet purchases</a>.
+The mobile community also has volunteers writers for our <a href="{{< ref "/topics/emerging-tech" >}}">Trends on Tuesday</a> posts. Past writers include <strong>Treci Johnson</strong> from U.S. Department of the Interior, <strong>Lisa Wilcox</strong> from USDA and <strong>Linda V. Priebe</strong> formerly of Office of National Drug Control Policy. <strong>Will Sullivan</strong>, 18f team member, is our current writer, and is off to a strong start with posts on <a href="{{< ref "2015-04-07-trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information.md" >}}">smartphone use</a>, <a href="{{< ref "2015-04-14-trends-on-tuesday-10-tips-for-mobile-live-streaming.md" >}}">live streaming tips</a> and <a href="{{< ref "2015-05-12-trends-on-tuesday-consumer-purchases-and-usage-of-tablets-shrink-as-phablets-grow.md" >}}">phablet purchases</a>.
 
 ## User & Customer Experience (UX & CX)
 

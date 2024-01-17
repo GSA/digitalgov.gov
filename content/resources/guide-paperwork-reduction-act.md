@@ -19,9 +19,8 @@ source: pra-guide
 topics:
   - customer-experience
   - pra
-  - policy
   - research
-  - user-research
+  - research
 
 # see all authors at https://digital.gov/authors
 authors:

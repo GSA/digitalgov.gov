@@ -6,9 +6,8 @@ summary: 'My name is Kin Lane, I am the API Evangelist, and a round two Presiden
 authors:
   - kin-lane
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
-  - api
 ---
 
 <span style="color: #222222;">{{< legacy-img src="2014/08/250-x-249-Kin-Lane-bw-portal-developers.jpg" alt="250-x-249-Kin-Lane-bw-portal-developers" >}}My name is Kin Lane, I am the API Evangelist, and a round two Presidential Innovation Fellow. I spend each day looking through the developer portals and hubs for API across the private sector. Recently I’ve also spent time looking at 77 federal government API developer portals and 190 APIs, and after all this review of some successful, and some not so successful APIs, you start to get an idea for what the minimum viable building blocks for an API hub in federal government should be. </span> First let’s talk about what is a developer portal or hub, because in the API space you can take two different paths when deploying your API hubs:

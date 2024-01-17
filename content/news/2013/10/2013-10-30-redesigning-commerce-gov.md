@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 topics:
   - software-engineering
-  - content
+  - content-strategy
   - design
 ---
 

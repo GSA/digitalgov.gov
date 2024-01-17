@@ -4,7 +4,6 @@ date: 2015-12-01 9:39:40 -0400
 title: Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002 (M-03–22)
 summary: "This guidance provides information to agencies on implementing the privacy provisions of the E-Government Act of 2002. It addresses privacy protections when Americans interact with their government. The guidance directs agencies to conduct reviews of how information about individuals is handled within their agency when they use information technology (IT) to collect new information, or when"
 topics:
-  - policy
   - privacy
 authors:
   - apiazza

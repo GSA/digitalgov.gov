@@ -7,11 +7,6 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - DOL
-  - social-media
-  - social-media
-  - us-department-of-labor
-
 ---
 
 This week the [**SocialGov Community**]({{< ref "communities/social-media.md" >}}) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?

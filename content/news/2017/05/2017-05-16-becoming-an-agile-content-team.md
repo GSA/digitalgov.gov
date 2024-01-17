@@ -6,14 +6,8 @@ summary: 'In March, the team of writers and editors at USAGov adopted some agile
 authors:
   - jessica-milcetich
 topics:
-  - product-management
-  - strategy
-  - policy
-  - agile
-  - agile-lean-community-of-practice
-  - gsa
-  - us-general-services-administration
-  - usagov
+  - product-and-project-management
+  - content-strategy
 ---
 
 In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process.

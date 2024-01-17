@@ -6,20 +6,11 @@ summary: ' Anything built should be built right. It doesn&#8217;t matter if itâ€
 authors:
   - jonathan-rubin
 topics:
-  - api
-  - software-engineering
-  - monthly-theme
-  - api
   - application-programming-interface
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - fda
   - software-engineering
-  - us-food-and-drug-administration
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}

@@ -6,15 +6,9 @@ summary: 'In software development, we use a variety of techniques to help us und
 authors:
   - greg-walker
 topics:
-  - software-engineering
-  - metrics
-  - strategy
-  - policy
-  - 18f
   - analytics
-  - best-practices
+  - content-strategy
   - software-engineering
-  - metrics
 ---
 
 In software development, we use a variety of techniques to help us understand the software we’ve written, whether it works as expected, and whether it will be easy to maintain over time. One of the techniques we use is called static source analysis, and it can tell us a lot about the maintenance requirements of our code.

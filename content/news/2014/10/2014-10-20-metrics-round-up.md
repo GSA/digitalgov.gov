@@ -6,18 +6,9 @@ summary: We are all collecting a lot of performance data across our digital prop
 authors:
   - apiazza
 topics:
-  - metrics
   - analytics
-  - dap
-  - data-gov
-  - epa
-  - GAO
-  - NPS
   - open-data
   - social-media
-  - us-environmental-protection-agency
-  - us-government-accountability-office
-  - us-national-park-service
 ---
 
 {{< legacy-img src="2014/10/600-x-410-Tablet-PC-with-business-documents-Violka08-iStock-Thinkstock-463116981.jpg" alt="Tablet PC with business documents" caption="" >}} 

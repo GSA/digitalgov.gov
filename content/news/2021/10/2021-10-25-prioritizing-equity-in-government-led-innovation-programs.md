@@ -7,10 +7,10 @@ summary: "For the second year, college and university students are leveraging th
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
-  - census
+  
   - open-data
   - emerging-tech
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - haley-ashcom

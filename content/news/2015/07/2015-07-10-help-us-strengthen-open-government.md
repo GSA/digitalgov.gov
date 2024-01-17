@@ -7,7 +7,6 @@ authors:
   - corinna-zarek
 topics:
   - software-engineering
-  - national-action-plan-on-open-government
   - open-government
 ---
 

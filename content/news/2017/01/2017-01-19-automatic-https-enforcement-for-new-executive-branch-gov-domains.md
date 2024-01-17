@@ -11,19 +11,13 @@ authors:
 topics:
   - governance
   - domain-management
-  - product-management
-  - strategy
-  - policy
+  - product-and-project-management
+  - content-strategy
+  - security
   - analytics
-  - gsa
-  - security
-  - metrics
-  - policy
   - search-engine-optimization
-  - security
 
 primary_image: "dot-gov-tld-wood-block-marekuliasz-istock-gettyimages-476434043-1-comp"
-
 ---
 
 HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.

@@ -6,9 +6,8 @@ summary: ' The Government of Canada (GC) is retiring the traditional news releas
 authors:
   - communications-community-office-government-of-canada
 topics:
-  - product-management
-  - strategy
-  - policy
+  - product-and-project-management
+  - content-strategy
   - social-media
 ---
 

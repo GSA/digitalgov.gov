@@ -17,8 +17,6 @@ topics:
   - user-experience
   - multilingual
   - usability
-  - usability
-  - usa-gov
 # See all authors at https://digital.gov/authors
 authors:
   - joanne-mcgovern

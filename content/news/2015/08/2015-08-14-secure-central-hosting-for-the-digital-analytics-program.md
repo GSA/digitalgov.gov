@@ -6,9 +6,7 @@ summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects W
 authors:
   - eric-mill
 topics:
-  - metrics
-  - dap
-  - digital-analytics-program
+  - analytics
   - security
 ---
 

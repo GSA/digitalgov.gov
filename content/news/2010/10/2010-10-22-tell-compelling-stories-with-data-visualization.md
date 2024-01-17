@@ -6,10 +6,7 @@ summary: 'No information is more critical to your work than the numbers that rev
 authors:
   - apiazza
 topics:
-  - data
-  - metrics
   - analytics
-  - data
   - data-visualization
 ---
 

@@ -6,8 +6,7 @@ summary: The verdict is in. Placeholder text is harmful in search boxes. Searche
 authors:
   - rachel-mundstock
 topics:
-  - content
-  - monthly-theme
+  - content-strategy
   - social-media
 ---
 

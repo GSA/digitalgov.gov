@@ -7,7 +7,7 @@ authors:
   - gray-brooks
 topics:
   - software-engineering
-  - draft-web-design-standards
+  - design
 ---
 
 ## What It Is

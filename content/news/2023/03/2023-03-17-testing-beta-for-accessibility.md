@@ -18,10 +18,8 @@ summary: The USAGov team strives to ensure all our websites are accessible to as
   may be suitable for other agency use.
 # See all topics at https://digital.gov/topics
 topics:
-  - "508"
   - accessibility
-  - usa-gov
-  - gobiernousagov
+  - multilingual
   - usability
   - user-experience
 slug: testing-beta-for-accessibility

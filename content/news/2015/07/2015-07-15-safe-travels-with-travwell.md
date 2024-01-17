@@ -7,13 +7,8 @@ summary: 'Ahhh ... Summer is here at last! It’s time for relaxing vacation! Wh
 authors:
   - nirmala-ramprasad
 topics:
-  - mobile
-  - cdc
   - software-engineering
-  - mobile-apps
-  - thursday-mobile-products
- 
-
+  - mobile
 ---
 
 Ahhh ... Summer is here at last! It’s time for relaxing vacation!

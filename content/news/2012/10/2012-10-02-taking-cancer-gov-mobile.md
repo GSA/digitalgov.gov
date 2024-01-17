@@ -7,9 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-gov-experience
-  - NCI
-  - nih
 ---
 
 _[<img class="alignright size-medium wp-image-95452" alt="NCI Mobile" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/ss_nci1-166x250.jpg" width="166" height="250" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/ss_nci1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by <a href="http://www.cancer.gov/" rel="nofollow">National Cancer Institute</a>.__
@@ -54,7 +51,7 @@ We are also thrilled that m.cancer.gov was named among the top 10 government mob
 
 ## What&#8217;s Next
 
-Were working with content owners to bring more content into the structure for mobile, and we plan to turn our structured XML content in an [API]({{< ref "/topics/api" >}})-based feed.
+Were working with content owners to bring more content into the structure for mobile, and we plan to turn our structured XML content in an [API]({{< ref "/topics/application-programming-interface" >}})-based feed.
 
 ## Contact
 

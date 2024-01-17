@@ -9,9 +9,7 @@ authors:
 
 topics:
   - governance
-  - product-management
-  - our-work
-  - white-house
+  - product-and-project-management
 
 ---
 

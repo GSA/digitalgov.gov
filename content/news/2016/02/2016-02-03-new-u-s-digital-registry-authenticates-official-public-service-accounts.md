@@ -6,11 +6,10 @@ summary: ' Whether for voter registration, health services or questions about ta
 authors:
   - jherman
 topics:
-  - our-work
   - social-media
-  - analytics-usa-gov
-  - api
-  - mobile-gov
+  - analytics
+  - application-programming-interface
+  - mobile
   - open-source
   - terms-of-service
 ---

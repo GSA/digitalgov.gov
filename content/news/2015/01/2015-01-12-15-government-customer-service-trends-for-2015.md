@@ -6,15 +6,12 @@ summary: 'With public expectations at an all-time high, and trust in government 
 authors:
   - martha-dorris
 topics:
-  - product-management
-  - metrics
-  - monthly-theme
-  - our-work
+  - product-and-project-management
+  - analytics
   - user-experience
   - customer-experience
-  - customer-service
-  - government-contact-centers
-  - personas
+  - contact-centers
+  - research
 ---
 
 {{< legacy-img src="2015/01/600-x-450-Silver-plate-with-chart-peshkov-iStock-Thinkstock-490450531.jpg" alt="Silver plate with chart" caption="" >}}

@@ -6,11 +6,8 @@ summary: 'If the silos and barriers that separated our programs are smashed, wha
 authors:
   - jherman
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
-  - recaps
-  - social-media
-
 ---
 
 If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service?

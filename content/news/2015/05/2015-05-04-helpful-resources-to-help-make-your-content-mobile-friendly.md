@@ -6,19 +6,9 @@ summary: 'Smartphones make up 75% of the mobile market&mdash;which makes mobile-
 authors:
   - kdaniel
 topics:
-  - content
+  - content-strategy
   - mobile
-  - content-management-system
-  - mobile
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-1
-  - mobile-friendly
-  - mobile-gov
-  - responsive-web-design
-  - sites
-  - sitesusagov
   - usability
-
 ---
 
 Smartphones make up 75% of the mobile market—which makes [mobile-friendliness a must]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}) for government agencies. With the recent update to Google’s search algorithm, or what some are calling [Mobilegeddon]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}), the case for building a mobile-friendly site becomes even stronger.
@@ -29,7 +19,7 @@ For many government organizations, responsive Web design (RWD) has been the answ
 
 RWD refers to a fluidly constructed Web page layout that scales from handheld device displays to large, high-resolution computer displays using flexible typography, flexible images, fluid grids, and [CSS3 media queries](http://www.w3.org/TR/css3-mediaqueries/).
 
-Over the past year, we have published several [articles on RWD]({{< ref "/topics/responsive-web-design" >}}) based on collaboration and case studies provided by members from the [MobileGov Community of Practice]({{< ref "/communities" >}}).
+Over the past year, we have published several [articles on RWD]({{< ref "/topics/mobile" >}}) based on collaboration and case studies provided by members from the [MobileGov Community of Practice]({{< ref "/communities" >}}).
 
 Here are a few resources to help in your agency&#8217;s quest to become responsive/mobile-friendly.
 

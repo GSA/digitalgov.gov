@@ -6,12 +6,8 @@ summary: 'It can be easy to forget that customer experience (CX) improvement eff
 authors:
   - stephanie-thum
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
 ---
 
 {{< legacy-img src="2015/04/600-x-375-Connected-Modern-World-solarseven-iStock-Thinkstock-ThinkstockPhotos-482353395.jpg" alt="Connected Modern World" caption="" >}} 

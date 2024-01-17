@@ -7,39 +7,11 @@ authors:
   - structured-and-open-content-models-working-group
 topics:
   - software-engineering
-  - communities
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - mobile
-  - monthly-theme
-  - our-work
   - social-media
-  - administrative-office-of-the-united-states-courts
   - user-experience
-  - cdc
-  - Census
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - content-models
-  - DOL
-  - fda
-  - software-engineering
-  - gsa
-  - mobile-ux-guideline-1
-  - national-institutes-of-health
-  - nih
-  - open-and-structured-content-models
-  - SEC
-  - SSA
-  - structured-content
-  - the-united-states-social-security-administration
-  - US Department of Agriculture
-  - us-department-of-education
-  - us-department-of-labor
-  - us-food-and-drug-administration
-  - us-securities-and-exchange-commission
-  - united-states-census-bureau
-  - USDA
 ---
 
 {{< legacy-img src="2014/05/250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic.jpg" alt="250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic" >}}Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways.

@@ -10,11 +10,10 @@ end_date: 2020-12-11 15:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
-  - social-media
-  - social-media
   - podcast
   - social-media
-  - writing
+  - podcast
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

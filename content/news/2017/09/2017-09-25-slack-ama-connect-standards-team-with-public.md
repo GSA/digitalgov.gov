@@ -15,13 +15,10 @@ featured_image:
 
 topics:
   - software-engineering
-  - content
+  - content-strategy
   - mobile
-  - accessibility
-  - uswds
   - user-experience
   - accessibility
-
 ---
 
 The team behind the U.S. Web Design Standards (the Standards) held their first Ask Me Anything (AMA), in August, to answer questions from their public Slack channel community.

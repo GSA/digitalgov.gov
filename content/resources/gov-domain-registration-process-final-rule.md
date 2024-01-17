@@ -5,8 +5,7 @@ title: "GOV Domain Registration Process Final Rule"
 summary: "This final rule provided a new policy for the .gov domain that will be included in the Federal Management Regulation."
 
 topics:
-  - policy
-
+  - product-and-project-management
 authors:
   - apiazza
 

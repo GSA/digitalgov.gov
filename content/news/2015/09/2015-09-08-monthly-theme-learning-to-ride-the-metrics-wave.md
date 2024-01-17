@@ -6,10 +6,7 @@ summary: 'We are awash in data. Data in our personal lives gives us information 
 authors:
   - andreanocesigritz
 topics:
-  - monthly-theme
-  - our-work
   - analytics
-  - data
 ---
 
 We are awash in [data]({{< ref "2014-04-01-digital-analytics-program-dap-oceans-of-data.md" >}}). Data in our personal lives gives us information on everything from our nightly sleeping patterns to how many of our friends shared our latest quip on social media. So too in our professional world, where we can see the most popular devices people use to navigate our websites and are told which time of day is the best to send out our communications.

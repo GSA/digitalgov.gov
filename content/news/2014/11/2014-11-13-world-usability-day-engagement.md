@@ -6,7 +6,6 @@ summary: 'There are many buzzwords thrown around in the digital government unive
 authors:
   - jonathan-rubin
 topics:
-  - monthly-theme
   - user-testing-and-research
   - user-experience
   - user-experience

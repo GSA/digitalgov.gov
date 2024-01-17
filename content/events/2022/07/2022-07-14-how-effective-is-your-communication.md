@@ -9,10 +9,8 @@ date: 2022-07-26 14:00:00 -0500
 end_date: 2022-07-26 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - training
   - communication
-  - metrics
-  - data
+  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry

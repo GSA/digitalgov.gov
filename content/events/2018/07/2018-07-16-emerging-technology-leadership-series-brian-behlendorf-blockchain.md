@@ -1,3 +1,5 @@
+
+
 ---
 # View this page at https://digital.gov/event/2018/07/emerging-technology-leadership-series-brian-behlendorf
 # Learn how to edit our pages at https://workflow.digital.gov
@@ -19,7 +21,6 @@ end_date: 2018-07-16 17:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - emerging-tech
-  - blockchain
 
 # see all authors at https://digital.gov/authors
 authors: 

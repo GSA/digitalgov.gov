@@ -7,11 +7,8 @@ authors:
   - awichman
 topics:
   - software-engineering
-  - our-work
-  - open-opportunities-program
+  - professional-development
   - open-source
-  - us-department-of-veterans-affairs
-  - VA
 ---
 
 How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with. This idea underpins a new pilot from the Department of Veterans Affairs (VA), which seeks to harness the power of collaboration among the public and government to better serve veterans.

@@ -7,8 +7,6 @@ authors:
   - marion-royal
 topics:
   - software-engineering
-  - data
-  - data-gov
   - mobile
   - open-data
 ---

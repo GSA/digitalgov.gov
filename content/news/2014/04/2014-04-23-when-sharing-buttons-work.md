@@ -6,10 +6,7 @@ summary: 'At the U.S. Government Accountability Office (GAO) we use sharing butt
 authors:
   - sarah-kaczmarek
 topics:
-  - metrics
-  - social-media
-  - GAO
-  - social-media
+  - analytics
   - social-media
 ---
 

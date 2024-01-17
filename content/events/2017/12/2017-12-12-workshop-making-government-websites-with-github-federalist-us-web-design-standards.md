@@ -20,9 +20,8 @@ end_date: 2017-12-12 11:00:00 -0500
 topics: 
   - software-engineering
   - design
-  - uswds
   - open-source
-  - draft-web-design-standards
+  - design
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -10,10 +10,10 @@ topics:
   - challenges
   - mobile
   - apps-challenges
-  - augmented-reality
+  - emerging-tech
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - virtual-reality
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

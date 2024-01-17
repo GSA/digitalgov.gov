@@ -8,9 +8,6 @@ authors:
   - mark-anthony
 topics:
   - social-media
-  - OPM
-  - social-media
-  - united-states-office-of-personnel-management
 ---
 
 [{{< legacy-img src="2014/05/opm-nats-game-picture1.jpg" alt="Photo of OPM Director and other Federal Employees at the Nationals Baseball game" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/opm-nats-game-picture1.jpg)Here at the U.S. Office of Personnel Management, we recently announced two exciting new government-wide working group teams with the mission of helping us use social media in ways we haven’t explored before. We’re hoping to recruit federal employees who are eager to dive in and help us tackle two important topics: employee recognition and recruitment and hiring.

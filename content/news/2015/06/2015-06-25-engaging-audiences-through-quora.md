@@ -6,10 +6,7 @@ summary: 'There’s no doubt that traditional social media sites like Facebook a
 authors:
   - carolyn-hinkley
 topics:
-  - monthly-theme
   - social-media
-  - national-institute-of-standards-and-technology
-  - NIST
   - social-media
   - terms-of-service
 ---

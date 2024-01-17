@@ -7,7 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - trends-on-tuesday
+  - emerging-tech
   - user-experience
 
 ---

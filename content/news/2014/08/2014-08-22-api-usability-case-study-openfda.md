@@ -6,15 +6,11 @@ summary: The API Usability Program brings together developers from agency APIs a
 authors:
   - georgia-gallavin
 topics:
-  - api
+  - application-programming-interface
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - api
-  - user-experience
-  - fda
-  - us-food-and-drug-administration
-  - usability
+  - usability-testing
 ---
 
 Last March, the openFDA team shared their [still-in-progress API](https://open.fda.gov/drug/event/) to potential users as part of the U.S. General Services Administration (GSA)&#8217;s [API Usability Program](http://18f.github.io/API-Usability-Testing/). FDA created [openFDA](https://open.fda.gov/) to allow researchers and developers to search their vast trove of public data, including information about adverse events (reports of undesirable experiences associated with the use of a medical product in a patient) submitted to the agency.

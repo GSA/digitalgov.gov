@@ -7,14 +7,11 @@ authors:
   - lgodfrey
 topics:
   - software-engineering
-  - content
+  - content-strategy
   - design
   - mobile
   - accessibility
-  - GobiernoUSAgov
-  - mobile
-  - responsive-web-design
-  - usagov
+  - multilingual
 ---
 
 <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/USA.gov-responsive.jpg">{{< legacy-img src="2013/08/USA.gov-responsive-250x213.jpg" alt="USA.gov website on a laptop, tablet and smartphone" >}}</a>There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of [USAGov](https://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_), consumers can now have access to the same information and services when they need them, and on any platform and device. 

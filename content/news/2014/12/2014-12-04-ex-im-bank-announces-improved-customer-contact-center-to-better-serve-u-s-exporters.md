@@ -6,9 +6,7 @@ summary: ' As part of its ongoing effort to enhance customer experience for curr
 authors:
   - lawton-king
 topics:
-  - product-management
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
+  - product-and-project-management
   - government-contact-centers
 ---
 

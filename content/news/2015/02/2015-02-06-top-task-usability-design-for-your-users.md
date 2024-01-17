@@ -6,14 +6,9 @@ summary: 'Being able to design a website that users love is not too far away fro
 authors:
   - joel-virothaisakun
 topics:
-  - communities
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - Federal Reserve Board
-  - FRB
-  - top-tasks
-  - usability
   - usability
   - user-experience
 ---

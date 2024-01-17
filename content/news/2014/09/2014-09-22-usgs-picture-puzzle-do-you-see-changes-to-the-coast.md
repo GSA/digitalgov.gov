@@ -6,15 +6,11 @@ summary: 'If you are a coastal resident, go to the beach, or are interested in d
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - challenge-gov
-  - FCPCCS
-  - software-engineering
-  - united-states-geological-survey
-  - USGS
+  - challenges-and-prize-competitions
+  - crowdsourcing-and-citizen-science
 ---
 
-{{< legacy-img src="2014/09/250-x-355-NJ\_Loc3\_Mantoloking_Breach-lg.jpg" alt="Before and after photos, New Jersey, Mantoloking Breach" caption="" >}} 
+{{< legacy-img src="2014/09/250-x-355-NJ\_Loc3\_Mantoloking_Breach-lg.jpg" alt="Before and after photos, New Jersey, Mantoloking Breach" caption="" >}}
 
 If you are a coastal resident, go to the beach, or are interested in digital volunteering, you can be a tremendous help in identifying and classifying changes that storms make to our coast after severe storms.
 

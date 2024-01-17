@@ -7,13 +7,10 @@ authors:
   - va-center-for-innovation
 topics:
   - customer-experience
-  - customer-service
-  - personas
+  - customer-experience
+  - research
   - user-centered-design
   - user-experience
-  - VA
-  - va-center-for-innovation
-  - VACI
 
 ---
 

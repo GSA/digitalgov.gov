@@ -11,8 +11,6 @@ summary: "GSA's 10x program is proud and excited to announce the graduation of t
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - data
-  - 10x
   - innovation
 
 # see all authors at https://digital.gov/authors

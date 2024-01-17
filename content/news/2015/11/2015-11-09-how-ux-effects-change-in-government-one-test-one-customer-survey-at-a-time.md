@@ -6,7 +6,6 @@ summary: 'Over the past few years, many agencies have learned how to do user exp
 authors:
   - andreanocesigritz
 topics:
-  - monthly-theme
   - user-experience
   - user-experience
   
@@ -16,4 +15,4 @@ Over the past few years, many agencies have learned how to do user experience (U
 
 And while cutting through the flood of terms &#8211; [CX]({{< ref "/topics/customer-experience" >}}), [UX]({{< ref "/topics/user-experience" >}}), service design, [human-centered design]({{< ref "/topics/user-centered-design" >}}), behavioral sciences-can be challenging, it can also be an opportunity to meet new colleagues. Engaging with departments such as procurement and CIO’s offices can benefit you in the future when technical needs ramp up.
 
-For DigitalGov’s [editorial theme]({{< ref "/topics/monthly-theme" >}}) this month, we’ll be looking at the state of UX across the federal government, including: a variety of [user research initiatives across the government]({{< ref "/topics/monthly-theme" >}}) and a look at [mobile and the user experience]({{< ref "2015-11-10-trends-on-tuesday-5-tips-for-designing-touch-interactions.md" >}}).
+For DigitalGov’s editorial theme this month, we’ll be looking at the state of UX across the federal government, including: a variety of user research initiatives across the government and a look at [mobile and the user experience]({{< ref "2015-11-10-trends-on-tuesday-5-tips-for-designing-touch-interactions.md" >}}).

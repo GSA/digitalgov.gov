@@ -7,15 +7,9 @@ authors:
   - christen-geiler
 topics:
   - software-engineering
-  - content
-  - product-management
-  - mobile
-  - content
   - content-strategy
-  - content-syndication
-  - federal-emergency-management-agency
-  - fema
-  - mobile-apps
+  - product-and-project-management
+  - mobile
   - multilingual
 ---
 

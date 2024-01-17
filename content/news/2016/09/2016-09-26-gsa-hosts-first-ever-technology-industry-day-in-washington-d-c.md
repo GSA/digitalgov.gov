@@ -7,25 +7,13 @@ authors:
   - gsa-blog-team
 topics:
   - software-engineering
-  - data
-  - product-management
-  - strategy
-  - policy
-  - 18f
-  - agile
-  - cloud
-  - cloud-gov
-  - data
+  - product-and-project-management
+  - content-strategy
+  - cloud-and-infrastructure
+  - open-data
   - budgeting-and-performance
-  - FAS
-  - Federal Acquisition Service
   - security
   - innovation
-  - OCSIT
-  - office-of-citizen-services-and-innovative-technology
-  - office-of-products-and-programs
-  - tts
-
 ---
 
 _Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ 

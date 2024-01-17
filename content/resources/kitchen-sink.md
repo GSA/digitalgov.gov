@@ -8,8 +8,7 @@ topics:
   - accessibility
   - design
   - software-engineering
-  - cloud
-  - policy
+  - cloud-and-infrastructure
 authors:
   - jeremyzilar
 

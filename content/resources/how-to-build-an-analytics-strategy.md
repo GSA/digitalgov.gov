@@ -10,13 +10,10 @@ authors:
   - freddie-blicher
 # See all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - data
-  - performance
   - analytics
-  - dap
-  - project-management
-  - digital-analytics-program
+  - open-data
+  - budgeting-and-performance
+  - product-and-project-management
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

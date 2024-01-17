@@ -14,7 +14,6 @@ deck: "**Senior Executives Part 3: Use Short-term Initiatives To Build
 summary: summary
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - agile
 slug: senior-executives-part-3-use-short-term-initiatives-to-build-confidence-in-long-term-decisions
 # Controls how this page appears across the site

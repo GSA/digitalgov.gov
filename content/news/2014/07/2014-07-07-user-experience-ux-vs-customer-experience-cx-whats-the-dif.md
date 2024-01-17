@@ -6,13 +6,9 @@ summary: '&ldquo;User Experience&rdquo; and &ldquo;Customer Experience.&rdquo; T
 authors:
   - tlowden
 topics:
-  - communities
-  - monthly-theme
   - user-experience
   - customer-experience
-  - user-experience
   - search-engine-optimization
-  - user-experience
 ---
 
 “User Experience” and “Customer Experience.” They sound pretty similar, right?

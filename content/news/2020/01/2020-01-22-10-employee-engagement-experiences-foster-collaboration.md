@@ -12,7 +12,7 @@ summary: "How do we create an agile federal culture that’s more inclusive, ins
 # see all topics at https://digital.gov/topics
 topics:
   - professional-development
-  - strategy
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors:

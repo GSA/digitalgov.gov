@@ -8,13 +8,11 @@ authors:
   - tlowden
 
 topics:
-  - content
-  - data
-  - metrics
-  - user-experience
+  - content-strategy
+  - open-data
   - analytics
-  - browsers
-  - digital-analytics-program
+  - user-experience
+  - software-engineering
 
 ---
 

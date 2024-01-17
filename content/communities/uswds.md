@@ -13,10 +13,9 @@ topics:
   - accessibility
   - software-engineering
   - design
-  - product-management
+  - product-and-project-management
   - user-experience
   - open-source
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

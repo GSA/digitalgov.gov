@@ -18,9 +18,8 @@ end_date: 2018-01-09 11:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - product-management
+  - product-and-project-management
   - multilingual
-  - usagov
 
 # see all authors at https://digital.gov/authors
 authors: 

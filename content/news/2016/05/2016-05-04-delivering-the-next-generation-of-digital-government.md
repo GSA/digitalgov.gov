@@ -6,8 +6,7 @@ summary: "Today we take another step forward helping government develop the tech
 authors:
   - denise-turner-roth
 topics:
-  - product-management
-  - 18f
+  - product-and-project-management
 ---
 
 We are in an era of digital transformation across many different industries, including government. Those organizations that have successfully led in this area or have fully transformed into digital organizations are succeeding at a faster pace than those who have not. The imperative for the federal government to provide effective digital service is clear. The public expects a responsive, transparent and efficient government that mirrors their experience with private sector entities.

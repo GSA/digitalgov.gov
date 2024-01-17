@@ -7,9 +7,7 @@ deck: ""
 summary: Consequence design is part of everyday life. Deceptive techniques like “dark patterns” and “hostile design” trick people into taking unintended actions — learn how to prevent them from sneaking into our design work.
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - user-experience
-  - uswds
   - design
 # See all authors at https://digital.gov/authors
 authors:

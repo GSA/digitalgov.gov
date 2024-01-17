@@ -6,8 +6,7 @@ summary: 'How important is it to show the most relevant result at the top of you
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
-  - our-work
+  - content-strategy
   - analytics
   - search
 ---

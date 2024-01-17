@@ -9,7 +9,6 @@ topics:
   - user-testing-and-research
   - user-experience
   - usability
-  - usagov
   - user-experience
 ---
 

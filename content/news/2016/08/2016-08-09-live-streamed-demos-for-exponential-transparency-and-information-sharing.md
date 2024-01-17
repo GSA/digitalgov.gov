@@ -7,17 +7,9 @@ authors:
   - wsullivan
 topics:
   - software-engineering
-  - content
-  - product-management
-  - strategy
-  - policy
-  - video
-  - 18f
-  - audio
-  - audio-video
+  - content-strategy
+  - product-and-project-management
   - multimedia
-  - video
-
 ---
 
 This spring, the [eRegulations Notice & Comment team](https://18f.gsa.gov/2016/07/26/new-pilot-aims-to-streamline-notice-and-comment-process/) began building out a new feature set for the platform — adding the ability for agencies with proposed regulations to show the public more precisely the changes being proposed and allow agencies to receive more granular, contextual, and better-organized comments.

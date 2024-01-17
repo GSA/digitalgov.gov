@@ -6,10 +6,7 @@ summary: 'Creative content can be found in all corners of the federal space. Rec
 authors:
   - awichman
 topics:
-  - content
-  - social-media
-  - blog
-  - Law Library of Congress
+  - content-strategy
   - social-media
 ---
 

@@ -6,13 +6,9 @@ summary: 'After conducting a usability test and listening to customer feedback, 
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
-  - user-experience
-  - NOAA
-  - usability
+  - research
   - usability
   - user-experience
----
 
 After conducting a usability test and listening to customer feedback, the [Weather.gov](http://www.weather.gov/) team and the DigitalGov User Experience Program identified these three issues as both important and quickly solvable.
 

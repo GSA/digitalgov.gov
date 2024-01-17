@@ -8,15 +8,15 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-apps
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/09/250-x-166-Green-desktop-computer-Hemera-Technologies-AbleStock.com-Thinkstock-87453658.jpg" alt="Green desktop computer" caption="" >}} 
 
-We&#8217;ve seen (and experienced) a [dramatic growth in mobile consumption in recent years]({{< ref "/topics/trends-on-tuesday" >}}). From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to <a title="ComScore" href="http://www.comscore.com/Insights/Blog/Is-Mobile-Bringing-About-the-Death-of-the-PC-Not-Exactly" target="_blank">comScore</a>. Let&#8217;s take a closer look at mobile vs. PC usage over the past year:
+We&#8217;ve seen (and experienced) a [dramatic growth in mobile consumption in recent years]({{< ref "/topics/emerging-tech" >}}). From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to <a title="ComScore" href="http://www.comscore.com/Insights/Blog/Is-Mobile-Bringing-About-the-Death-of-the-PC-Not-Exactly" target="_blank">comScore</a>. Let&#8217;s take a closer look at mobile vs. PC usage over the past year:
 
   * Mobile app and mobile Web usage have increased by 44% and 38%, respectively
   * Mobile&#8217;s share of digital media time spent is 60%, up from 50% the previous year

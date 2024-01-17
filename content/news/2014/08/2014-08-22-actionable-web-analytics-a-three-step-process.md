@@ -6,11 +6,9 @@ summary: As Web analysts, your customers and their needs can vary greatly. One m
 authors:
   - sam-bronson
 topics:
-  - content
-  - metrics
+  - content-strategy
   - analytics
-  - epa
-  - us-environmental-protection-agency
+  - analytics
 ---
 
 {{< legacy-img src="2014/08/250-x-188-Actionable-Web-Analytics-City-Bike-Riders.jpg" alt="250-x-188-Actionable-Web-Analytics-City-Bike-Riders" >}}As Web analysts, your customers and their needs can vary greatly. One minute you are leading an analysis that will influence strategic decisions, the next you are distributing reports to folks who will never use them, but just have to have them. Sometimes, in the darkest hours, it can become more of the latter. That’s when you risk falling into a routine; when you risk forgetting the real power of Web analytics—effecting change.
@@ -18,7 +16,7 @@ topics:
 At its best, Web analytics is progressive and actionable. It’s about testing hypotheses and taking action based on your findings. Yes, your customers will have vastly different goals, but by asking just a little bit more of them, you can really maximize the benefits of working with your Web analytics program.
 
 “OK, sounds nice,” you might be saying, “but where’s the substance?”
-  
+
 Fair enough. So, let’s talk about three critical elements to actionable Web analytics:
 
   1. The goal-KPI relationship
@@ -34,7 +32,7 @@ Once you can clearly define the goals, you will need Key Performance Indicators 
 Here’s an example:
 
 **Goal:** Improve the website’s search functionality
-  
+
 **Potential KPI:** Percentage change in the [Exit Rate](http://en.wikipedia.org/wiki/Exit_rate) on search results pages
 
 Ideally, everyone who performs a search on your website selects a result. So, once you establish the current (baseline) Exit Rate, you can begin brainstorming ways to improve search.
@@ -44,7 +42,7 @@ Also remember that KPIs need not be based entirely on standard metrics found in 
 Here’s an example:
 
 **Goal:** Increase the cost-effectiveness of our Web applications
-  
+
 **Potential KPI:** Cost per user
 
 In this example you have two variables on which to take action. In addition to trying to increase Web traffic, you can strategize ways to reduce costs.
@@ -58,9 +56,9 @@ Ask the customer what they are going to do to meet their goals. “What changes 
 Here’s an example:
 
 **Goal:** Increase content consumption on the agency blog
-  
+
 **KPI:** Percentage change in sessions to the agency blog
-  
+
 **Hypothesis**: Getting 12 partner organizations to link to the agency blog will lead to a 10% increase in total sessions.
 
 Having a hypothesis to measure is more important than where you set the target. The process is iterative, but it’s better to be testing based on actions and assumptions, rather than complete ambiguity.

@@ -7,9 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - user-testing-and-research
+  - research
   - software-engineering
-  - mobile-apps
 ---
 
 Performance testing is used to verify that an app or web page will display quickly to the user and will continue to function as the number of users increases to peak loads. Performance is an important consideration for mobile applications because the connection speed of users is often slower and more variable for mobile users than desktop users. Surveys have shown that users will often stop using applications or web sites that load slowly.

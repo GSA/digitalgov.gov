@@ -7,17 +7,10 @@ authors:
   - victoria-wales
 topics:
   - social-media
-  - strategy
-  - policy
-  - analytics
-  - content
   - content-strategy
-  - data
-  - GobiernoUSAgov
-  - metrics
+  - analytics
+  - open-data
   - multilingual
-  - social-media
-  - usagov
 ---
 
 GobiernoUSA, just like USA.gov, is part of a unique effort with a large mission—to guide people to the government information and services they seek. We cover a lot of topics in Spanish via our website, social media platforms, email sends, and contact center. One of the communication channels we focus a lot of attention on is social media, and we routinely measure how our efforts are going.

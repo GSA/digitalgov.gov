@@ -6,14 +6,9 @@ summary: Federal agencies are required to make all federal websites accessible t
 authors:
   - tlowden
 topics:
-  - product-management
-  - metrics
+  - product-and-project-management
   - analytics
-  - dap
-  - digital-analytics-program
-  - google-analytics
   - security
-  - metrics
 ---
 
 Federal agencies are required to make all federal websites accessible through a <a href="https://https.cio.gov/" target="_blank">secure, HTTPS-only connection</a> by the end of the 2016 calendar year. What you might not have known is that the switch to HTTPS will improve your ability to track which sites are directing web traffic to yours. {{< legacy-img src="2016/06/600-x-425-Https-internet-security-concept-doguhakan-iStock-Thinkstock-497418668.jpg" alt="Https internet security concept" caption="" >}}

@@ -7,10 +7,7 @@ authors:
   - brandon-kopp
 topics:
   - design
-  - user-testing-and-research
-  - BLS
-  - prototype
-  - us-bureau-of-labor-statistics
+  - research
   - usability
   - user-experience
 ---

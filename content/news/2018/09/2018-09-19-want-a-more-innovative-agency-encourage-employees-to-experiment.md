@@ -7,7 +7,7 @@ authors:
   - brian-fox
 topics:
   - software-engineering
-  - product-management
+  - product-and-project-management
   - innovation
 featured_image:
   uid: light-bulb

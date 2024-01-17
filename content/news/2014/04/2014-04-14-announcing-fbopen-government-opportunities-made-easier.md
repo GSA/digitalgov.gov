@@ -8,9 +8,6 @@ authors:
   - aaron-snow
 topics:
   - software-engineering
-  - 18f
-  - software-engineering
-  - gsa
   - acquisition
 ---
 

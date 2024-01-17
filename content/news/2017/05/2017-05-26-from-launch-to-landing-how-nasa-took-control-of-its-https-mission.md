@@ -6,20 +6,9 @@ summary: '18F Editor’s note: This is a guest post by Karim Said of NASA. Karim
 authors:
   - karim-said
 topics:
-  - product-management
-  - strategy
-  - policy
-  - 18f
-  - dhs
-  - gsa
+  - product-and-project-management
+  - content-strategy
   - security
-  - nasa
-  - National Aeronautics and Space Administration
-  - Office of Management and Budget
-  - OMB
-  - security
-  - us-general-services-administration
-  - united-states-department-of-homeland-security
 ---
 
 _18F Editor’s note: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’s successful HTTPS and HSTS migration, and we’re happy to help Karim share the lessons NASA learned from that process._

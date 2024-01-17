@@ -7,10 +7,8 @@ authors:
   - anthony-calabrese
 topics:
   - software-engineering
-  - api
-  - CMS
+  - application-programming-interface
   - content-strategy
-  - software-engineering
   - open-source
 ---
 

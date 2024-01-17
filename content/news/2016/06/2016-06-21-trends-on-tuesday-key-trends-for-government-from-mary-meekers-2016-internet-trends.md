@@ -6,15 +6,12 @@ summary: 'Internet strategist Mary Meeker delivered her 2016 Internet Trends rep
 authors:
   - wsullivan
 topics:
-  - product-management
-  - mobile
-  - data
-  - internet-of-things
-  - mobile
+  - product-and-project-management
   - open-data
+  - emerging-tech
+  - mobile
   - privacy
   - security
-  - trends-on-tuesday
 ---
 
 Internet strategist Mary Meeker delivered her  [2016 Internet Trends report](http://www.slideshare.net/kleinerperkins/2016-internet-trends-report) this month, and there are several key takeaways for government agencies to consider and continue tracking as our connected world continues to evolve:

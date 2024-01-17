@@ -7,8 +7,6 @@ authors:
   - rebecca-williams
 topics:
   - software-engineering
-  - data
-  - monthly-theme
   - open-data
 ---
 

@@ -6,27 +6,15 @@ summary: 'Earlier this year, we published 15 Government Customer Service Trends 
 authors:
   - martha-dorris
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
-  - agile
-  - content-syndication
-  - COPE
+  - content-strategy
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - digital-analytics-program
-  - federal-emergency-management-agency
-  - fema
+  - analytics
   - mobile
-  - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - personas
-  - smithsonian-institution
+  - research
   - social-media
-  - us-department-of-veterans-affairs
-  - user-centered-design
-  - VA
+  - human-centered-design
 ---
 
 {{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}}

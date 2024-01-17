@@ -6,9 +6,9 @@ summary: " In this webinar, Laura Godfrey and Fedora Braverman share tips for
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - multilingual-community
+  - multilingual
   - design
-  - content
+  - content-strategy
   - plain-language
   - content-strategy
 # See all authors at https://digital.gov/authors

@@ -8,8 +8,7 @@ authors:
   - gray-brooks
 topics:
   - software-engineering
-  - api
-  - gsa
+  - application-programming-interface
   - social-media
 ---
 

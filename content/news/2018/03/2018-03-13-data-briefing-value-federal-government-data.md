@@ -6,9 +6,7 @@ summary: 'Dr. Bill Brantley covers the application of infonomics as a way to hel
 authors:
   - bbrantley
 topics:
-  - data
-  - metrics
-  - big-data
+  - open-data
   - analytics
 featured_image:
   uid: analytics-data-reports

@@ -6,14 +6,9 @@ summary: 'With a calculated process, the right tools, and a staff willing to mak
 authors:
   - tlowden
 topics:
-  - communities
-  - user-testing-and-research
-  - a-b-testing
+  - research
   - user-experience
-  - recaps
-  - united-states-department-of-health-and-human-services
   - usability
-  - user-experience
 ---
 
 With a calculated process, the right tools, and a staff willing to make it work, you can measure user experience (UX) on your websites and implement usability changes that show results.

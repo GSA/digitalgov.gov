@@ -6,12 +6,10 @@ summary: 'By the time this is published, the United States, along with 160 other
 authors:
   - bbrantley
 topics:
-  - data
   - data-gov
-  - indian-health-service
   - innovation
   - open-data
-  - the-data-briefing
+  - emerging-tech
 
 ---
 

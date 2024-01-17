@@ -6,7 +6,7 @@ summary: 'We have long believed that &ldquo;governments learn best from other go
 authors:
   - darlene-meskell
 topics:
-  - product-management
+  - product-and-project-management
   - innovation
   - usability
   - user-experience

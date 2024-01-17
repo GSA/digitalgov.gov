@@ -8,9 +8,7 @@ authors:
   - coqui-aspiazu
 
 topics:
-  - product-management
-  - our-work
-  - digitalgov-summit
+  - product-and-project-management
 
 ---
 

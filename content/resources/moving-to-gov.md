@@ -12,8 +12,8 @@ summary: If you're moving to .gov from another top-level domain, like .com,
 topics:
   - domain-management
   - best-practices
-  - strategy
-  - project-management
+  - content-strategy
+  - product-and-project-management
 slug: moving-to-gov
 # Controls how this page appears across the site
 # 0 -- hidden

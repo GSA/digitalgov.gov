@@ -6,16 +6,16 @@ summary: 'QR codes, apps about whales, bullying and railroad crossings, challeng
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - api
-  - mobile-gov-community-of-practice
-  - trends-on-tuesday
+  - application-programming-interface
+  - mobile
+  - emerging-tech
 ---
 
 QR codes, apps about whales, bullying and railroad crossings, challenges of responsive Web design and mobilizing charts and tables were the things you were most interested in this year.
 
-We publish [mobile trends every Tuesday]({{< ref "/topics/trends-on-tuesday" >}}) and feature a [government mobile app every Thursday]({{< ref "/topics/thursday-mobile-products" >}}) on the mobile channel of DigitalGov. In addition, we do recaps of MobileGov Community of Practice events and other community articles in between. This year we published 281 articles.
+We publish [mobile trends every Tuesday]({{< ref "/topics/emerging-tech" >}}) and feature a [government mobile app every Thursday]({{< ref "/topics/mobile" >}}) on the mobile channel of DigitalGov. In addition, we do recaps of MobileGov Community of Practice events and other community articles in between. This year we published 281 articles.
 
 You were very interested in hearing about practices from others in the community. You most wanted to
 

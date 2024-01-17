@@ -7,10 +7,9 @@ summary: 'Many of  our cloud service providers (CSPs), federal agencies, and thi
 authors:
   - fedramp
 topics:
-  - product-management
-  - cloud
-  - data
-  - security
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - open-data
   - security
 ---
 

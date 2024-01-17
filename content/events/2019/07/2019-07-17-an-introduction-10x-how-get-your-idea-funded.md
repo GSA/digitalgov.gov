@@ -18,7 +18,6 @@ end_date: 2019-07-17 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 10x
   - innovation
 
 # see all authors at https://digital.gov/authors

@@ -8,10 +8,8 @@ summary: During the 2022 Plain Language Summit, Stephanie Morrison from the Depa
 topics:
   - plain-language
   - research
-  - user-research
   - usability
-  - writing
-  - training
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - alexander-wilson

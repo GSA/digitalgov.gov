@@ -6,10 +6,10 @@ summary: Over the past year, a GSA collaboration has seen a project that offers 
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - user-testing-and-research
   - user-experience
-  - api
+  - application-programming-interface
   - open-source
   - usability
 ---

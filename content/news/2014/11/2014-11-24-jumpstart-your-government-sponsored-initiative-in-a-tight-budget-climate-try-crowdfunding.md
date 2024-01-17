@@ -6,11 +6,10 @@ summary: 'There are many ways to apply crowdfunding in the government space. Thi
 authors:
   - minette-wilson
 topics:
-  - challenges
-  - product-management
+  - challenges-and-prize-competitions
+  - product-and-project-management
   - social-media
-  - crowdfunding
-  - us-department-of-state
+  - crowdsourcing-and-citizen-science
 ---
 
 {{< legacy-img src="2014/11/600-x-450-Magnifying-Glass-Concept-Tashatuvango-iStock-Thinkstock-459962367.jpg" alt="Magnifying Glass Concept" caption="" >}} 

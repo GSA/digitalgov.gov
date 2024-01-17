@@ -6,13 +6,8 @@ summary: ' Ever since we announced IFTTT was available for federal use, dozens o
 authors:
   - jherman
 topics:
-  - api
-  - monthly-theme
-  - social-media
-  - 18f
-  - api
-  - digital-analytics-program
-  - social-media
+  - analytics
+  - application-programming-interface
   - social-media
 ---
 

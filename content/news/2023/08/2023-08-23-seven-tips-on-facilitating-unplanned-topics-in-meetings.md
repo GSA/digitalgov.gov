@@ -13,7 +13,7 @@ summary: Facilitating a workshop can feel like a daunting task. Here at 18F,
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
-  - strategy
+  - product-and-project-management
   - project-management
 slug: seven-tips-on-facilitating-unplanned-topics-in-meetings
 # Controls how this page appears across the site

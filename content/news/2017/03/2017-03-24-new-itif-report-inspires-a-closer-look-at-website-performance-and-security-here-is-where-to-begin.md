@@ -8,37 +8,19 @@ authors:
 topics:
   - accessibility
   - software-engineering
-  - content
-  - data
-  - design
-  - product-management
-  - metrics
-  - mobile
-  - strategy
-  - policy
-  - user-testing-and-research
-  - accessibility
-  - analytics
-  - communities
-  - content
   - content-strategy
-  - security
-  - ITIF
-  - metrics
+  - open-data
+  - design
+  - product-and-project-management
+  - research
+  - analytics
   - mobile
-  - mobile-first
   - plain-language
-  - resource
-  - responsive-web-design
   - search-engine-optimization
-  - section-508
   - security
-  - seo
-  - training
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
-
 ---
 
 _The Information Technology & Innovation Foundation (ITIF) recently published a report,_ [_Benchmarking U.S. Government Websites_](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites)_, that looks at the performance, security, and accessibility of the top 297 government websites._ [_ITIF_](https://itif.org/about) _is a think tank in Washington, D.C. whose mission is to formulate, evaluate, and promote policy solutions that accelerate innovation in technology and public policy._

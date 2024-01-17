@@ -6,15 +6,10 @@ summary: 'At DigitalGov Search, we keep an eye on on our what our government cou
 authors:
   - ammie-farraj-feijoo
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
-  - content
-  - data
-  - our-work
-  - api
-  - Consumer Financial Protection Bureau
+  - content-strategy
   - search
-  - software-engineering
   - open-source
 ---
 

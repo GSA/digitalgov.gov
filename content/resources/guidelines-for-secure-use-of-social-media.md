@@ -6,7 +6,6 @@ summary: "Guidelines and recommendations for using social media technologies in 
 
 topics:
   - social-media
-
 authors:
   - andreanocesigritz
 

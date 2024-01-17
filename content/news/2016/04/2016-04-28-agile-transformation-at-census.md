@@ -8,8 +8,7 @@ authors:
   - angela-bell
 
 topics:
-  - product-management
-  - monthly-theme
+  - product-and-project-management
   - agile
   - agile-lean-community-of-practice
 

@@ -9,8 +9,6 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - national-institutes-of-health
-  - nih
 ---
 
 {{< legacy-img src="2015/09/600-x-400-k-kundrod-j-fraser.jpg" alt="Kathryn Kundrod and Jay Fraser" >}}

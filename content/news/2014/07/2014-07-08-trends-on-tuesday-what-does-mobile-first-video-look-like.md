@@ -7,9 +7,9 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg" alt="An illustration of a film reel merging with a smart phone to represent mobile video" caption="" >}} 

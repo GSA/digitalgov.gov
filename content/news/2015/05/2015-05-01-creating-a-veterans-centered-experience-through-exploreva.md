@@ -7,13 +7,11 @@ authors:
   - awichman
 topics:
   - user-testing-and-research
-  - a-b-testing
+  - research
   - content-strategy
   - social-media
-  - us-department-of-veterans-affairs
   - user-centered-design
   - user-experience
-  - VA
 ---
 
 Good customer service includes user-centered design. For one digital team at the Department of Veterans Affairs, creating a veterans-centered experience started with one word: explore.

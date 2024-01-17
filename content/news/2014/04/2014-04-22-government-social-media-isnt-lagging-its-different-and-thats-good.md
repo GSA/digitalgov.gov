@@ -6,15 +6,10 @@ summary: ' Social Media tools, trends and algorithms come and go, but federal ma
 authors:
   - jherman
 topics:
-  - communities
-  - product-management
+  - application-programming-interface
+  - product-and-project-management
   - social-media
   - user-experience
-  - api
-  - national-archives-and-records-administration
-  - social-media
-  - social-media
-  - us-coast-guard
 ---
 
 <p style="text-align: center">

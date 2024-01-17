@@ -6,28 +6,14 @@ summary: 'In December of 2004, the Office of Management and Budget (OMB) issued 
 authors:
   - rflagg
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - software-engineering
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - mobile
   - social-media
   - user-experience
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - HHS
-  - NARA
-  - nasa
-  - national-archives-and-records-administration
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - Office of Management and Budget
-  - OMB
-  - SBA
-  - us-small-business-administration
-  - united-states-department-of-health-and-human-services
-  - united-states-geological-survey
-  - USGS
+  - open-government
 ---
 
 {{< legacy-img src="2014/12/600-x-440-Birthday-candles-number-ten-isolated-on-white-background-vladvvm-iStock-Thinkstock-522583483.jpg" alt="Birthday candles number ten isolated on white background" caption="" >}}

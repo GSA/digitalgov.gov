@@ -8,17 +8,12 @@ authors:
   - raquel-romano
 topics:
   - software-engineering
-  - software-engineering
   - design
-  - user-testing-and-research
-  - cloud
-  - software-engineering
-  - software-engineering
-  - infrastructure
+  - research
+  - cloud-and-infrastructure
   - open-source
-  - user-centered-design
+  - human-centered-design
   - user-experience
-
 ---
 
 When people think of government software, they often think of COBOL and PowerBuilder 5, with manual software deploys every three to six months on a fixed number of machines in a government-run data center. This perception is sometimes justified, but sometimes entirely wrong. Regardless, the perception makes many developers reluctant to work for the government because they worry about the frustrations of getting stuck in the bureaucracy instead of being able to iterate rapidly, ship products, and deliver value.

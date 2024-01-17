@@ -20,8 +20,7 @@ end_date: 2018-03-21 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - software-engineering
-  - data
-  - product-management
+  - product-and-project-management
   - security
 
 # see all authors at https://digital.gov/authors

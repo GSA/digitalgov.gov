@@ -7,7 +7,7 @@ authors:
   - john-sullivan
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - accessibility
   - innovation
   - usability

@@ -6,11 +6,8 @@ summary: ' Hallway testing is a usability test set-up in a high foot traffic are
 authors:
   - usajobs-team
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
-  - OPM
-  - user-experience
-  
 ---
 
 [{{< legacy-img src="2014/02/usajobs-hallway-test-at-gsa-250x186.jpg" alt="People sitting at a table conducting a usability test" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/usajobs-hallway-test-at-gsa.jpg)

@@ -6,17 +6,15 @@ summary: 'According to some experts, over 80% of Americans will make a least one
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - challenges
-  - data
   - apps-challenges
   - challenges-and-prize-competitions
-  - data
   - data-gov
   - innovation
   - mobile
-  - mobile-apps
-  - wednesday-api-briefing
+  - mobile
+  - application-programming-interface
 
 ---
 

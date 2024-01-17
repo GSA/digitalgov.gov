@@ -29,9 +29,9 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - cloud
+  - cloud-and-infrastructure
   - security
-  - product-management
+  - product-and-project-management
   - security
 
 ---

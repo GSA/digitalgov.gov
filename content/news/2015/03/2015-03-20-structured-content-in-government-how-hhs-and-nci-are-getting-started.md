@@ -6,16 +6,10 @@ summary: 'Metadata, tagging, content modeling ... they’re not identical concep
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - content
-  - data
-  - mobile
-  - monthly-theme
-  - content-models
   - content-strategy
-  - metadata
-  - mobile-ux-guideline-1
-  - national-cancer-institute
-  - open-and-structured-content-models
+  - open-data
+  - mobile
+  - search-engine-optimization
 
 ---
 

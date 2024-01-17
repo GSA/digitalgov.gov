@@ -17,9 +17,8 @@ deck: "**GSA’s FedRAMP Celebrates 10 Years of Impact on Cloud
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - cloud
+  - cloud-and-infrastructure
   - security
-  - infrastructure
 slug: gsas-fedramp-celebrates-10-years-of-impact-on-cloud-security
 # Controls how this page appears across the site
 # 0 -- hidden

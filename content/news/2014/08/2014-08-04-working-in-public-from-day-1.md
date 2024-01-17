@@ -7,8 +7,6 @@ authors:
   - eric-mill
 topics:
   - software-engineering
-  - 18f
-  - software-engineering
   - open-source
 ---
 

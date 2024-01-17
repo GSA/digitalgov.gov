@@ -25,7 +25,7 @@ topics:
   - design
   - user-experience
   - plain-language
-  - user-research
+  - research
 
 # see all authors at https://digital.gov/authors
 authors:

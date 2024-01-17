@@ -7,14 +7,9 @@ authors:
   - office-of-information-policy-doj
 topics:
   - governance
-  - product-management
-  - strategy
-  - policy
-  - DOJ
+  - product-and-project-management
+  - content-strategy
   - open-government
-  - office-of-information-policy
-  - training
-  - us-department-of-justice
 ---
 
 > _This post was originally published on the [U.S. Department of Justice Blog](https://www.justice.gov/blogs)._

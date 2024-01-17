@@ -6,13 +6,7 @@ summary: 'In early April, the National Institutes of Health put out a call for i
 authors:
   - christen-geiler
 topics:
-  - content
-  - monthly-theme
-  - social-media
-  - content
   - content-strategy
-  - national-institutes-of-health
-  - nih
   - social-media
 ---
 

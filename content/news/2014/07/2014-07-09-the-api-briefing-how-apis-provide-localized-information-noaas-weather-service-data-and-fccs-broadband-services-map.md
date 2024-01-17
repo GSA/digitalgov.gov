@@ -6,18 +6,9 @@ summary: 'The two featured APIs this week are excellent demonstrations of person
 authors:
   - bbrantley
 topics:
-  - api
-  - data
-  - Census
-  - FCC
-  - fda
-  - federal-communications-commission
-  - GPS
-  - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - us-food-and-drug-administration
-  - united-states-census-bureau
+  - application-programming-interface
+  - open-data
+  - mobile
 ---
 
 The two featured APIs this week are excellent demonstrations of personalizing federal government data by where a user lives. Federal agencies collect a considerable amount of community data, from the Census Bureau’s surveys to the FDA’s local agricultural conditions. Thanks to GPS, app developers can locate a user’s immediate geographical location and tailor information based on the latitude and longitude coordinates.

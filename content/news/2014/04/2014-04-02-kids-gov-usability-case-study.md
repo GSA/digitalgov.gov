@@ -7,8 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - usability
-  - prototype
-  - usability
+  - design
   - user-experience
 ---
 

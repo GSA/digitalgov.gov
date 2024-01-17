@@ -6,7 +6,7 @@ summary: 'What&#8217;s one of the most important factors in delivering a good cu
 authors:
   - martha-dorris
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
 ---
 

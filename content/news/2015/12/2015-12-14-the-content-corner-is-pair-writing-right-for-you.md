@@ -6,17 +6,14 @@ summary: 'Fresh from last week’s article about workflows and their importance 
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - user-testing-and-research
-  - writing
-  - administrative-office-of-the-united-states-courts
-  - agile
-  - the-content-corner
+  - content-strategy
+  - communication
+  - research
 ---
 
 Fresh from [last week’s article about workflows]({{< ref "2015-12-07-the-content-corner-work-smarter-with-workflows.md" >}}) and their importance in the content creation process, I stumbled upon a new twist in content production known as [pair writing](http://www.uxbooth.com/articles/write-better-content-by-working-in-pairs/).
 
-Many of you familiar with [agile methodologies]({{< ref "2015-02-27-foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md" >}}) or software programming in general should know the term [pair programming](https://en.wikipedia.org/wiki/Pair_programming). Pair writing hopes to take some of the same efficiencies found in pair programming and apply them to [content creation]({{< ref "/topics/the-content-corner" >}}).
+Many of you familiar with [agile methodologies]({{< ref "2015-02-27-foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md" >}}) or software programming in general should know the term [pair programming](https://en.wikipedia.org/wiki/Pair_programming). Pair writing hopes to take some of the same efficiencies found in pair programming and apply them to [content creation]({{< ref "/topics/content-strategy" >}}).
 
 ## Two Heads Are Better Than One {{< legacy-img src="2015/12/600-x-400-Working-in-the-Internet-DragonImages-iStock-Thinkstock-471628089.jpg" alt="Two people work side by side on laptop computers" caption="" >}} 
 
@@ -48,4 +45,4 @@ Once you have an initial draft completed (and hopefully are still speaking) you 
 
 One of the next steps I do not feel should be optional relates to the irritation levels and the animosity that could develop during this process. You and your partner should take time once you have decided the fate of the actual content produced and also review the process itself. An honest assessment of what each of you felt worked or didn’t or suggestions for new things to try, if, and when there is a next session, is an important part of trying any new process.
 
-In the end, you may find you love it or it isn’t for you. I think (where practical) the possible content improvements pair writing can provide deserve a serious test, at a minimum. Instead of a more traditional step-by-step process of gaining [user feedback]({{< ref "2015-05-29-getting-to-know-your-users-tips-and-tricks-from-veterans-affairs.md" >}}) on content, pair writing can give you a real-time user sitting by your side helping to guide you or ask questions as you go. Will it be annoying? Most likely. Will it improve your chances of [writing better content]({{< ref "2015-08-31-the-content-corner-optimize-your-content.md" >}}) for the user? Very possible. Test it out and let me know what you find (or if you practice pair writing already, please share in the comments)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+In the end, you may find you love it or it isn’t for you. I think (where practical) the possible content improvements pair writing can provide deserve a serious test, at a minimum. Instead of a more traditional step-by-step process of gaining [user feedback]({{< ref "2015-05-29-getting-to-know-your-users-tips-and-tricks-from-veterans-affairs.md" >}}) on content, pair writing can give you a real-time user sitting by your side helping to guide you or ask questions as you go. Will it be annoying? Most likely. Will it improve your chances of [writing better content]({{< ref "2015-08-31-the-content-corner-optimize-your-content.md" >}}) for the user? Very possible. Test it out and let me know what you find (or if you practice pair writing already, please share in the comments)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

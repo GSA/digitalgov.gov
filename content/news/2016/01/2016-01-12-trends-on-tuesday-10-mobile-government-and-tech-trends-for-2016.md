@@ -6,18 +6,10 @@ summary: 'As we move into 2016, here are 10 trends I foresee flourishing around 
 authors:
   - wsullivan
 topics:
-  - product-management
+  - product-and-project-management
+  - emerging-tech
   - mobile
-  - monthly-theme
   - security
-  - internet-of-things
-  - mobile
-  - mobile-apps
-  - mobile-first
-  - mobile-friendly
-  - responsive-web-design
-  - security
-  - trends-on-tuesday
 ---
 
 As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government:

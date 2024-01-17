@@ -6,14 +6,10 @@ summary: 'Most people relate the term &ldquo;heat map&rdquo; with something they
 authors:
   - georgia-gallavin
 topics:
-  - data
   - design
-  - metrics
-  - user-testing-and-research
+  - analytics
+  - research
   - user-experience
-  - user-experience
-  - epa
-  - us-environmental-protection-agency
   - usability
 ---
 

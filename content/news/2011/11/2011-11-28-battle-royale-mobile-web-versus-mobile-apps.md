@@ -8,8 +8,8 @@ topics:
   - mobile
   - innovation
   - mobile
-  - mobile-apps
-  - mobile-gov
+  - mobile
+  - mobile
 
 ---
 

@@ -9,9 +9,7 @@ authors:
   - angela-colter
   - adam-drake
 topics:
-  - product-management
-  - 18f
-  - pif
+  - product-and-project-management
 featured_image:
   uid: pif-lightning-talks
   alt: 'Angela Colter of 18F meeting with the new cohort of PIFs, January 2019&#46;'

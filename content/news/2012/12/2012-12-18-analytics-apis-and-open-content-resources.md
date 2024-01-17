@@ -6,17 +6,10 @@ summary: 'Agencies have been working away at building better digital services an
 authors:
   - gwynne-kostin
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
-  - content
-  - metrics
-  - our-work
-  - api
-  - Census
-  - department-of-commerce
-  - digital-analytics-program
-  - HHS
-  - USDA
+  - content-strategy
+  - analytics
 ---
 
 [{{< legacy-img src="2013/11/tools-image-300x251-250x209.jpg" alt="Tools, hammer, wire cutters, wrench, screwdriver" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/tools-image-300x251.jpg)Agencies have been working away at building better digital services and here, at the [Digital Services Innovation Center]({{< ref "/about/_index.md" >}}), we&#8217;ve been building resources to help.

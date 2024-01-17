@@ -6,7 +6,7 @@ summary: 'Users don’t like surprises. Unexpected or unwanted content undermine
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - trust
   - analytics
   - search

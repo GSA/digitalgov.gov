@@ -31,8 +31,6 @@ weight: 1
 topics:
   - design
   - software-engineering
-  - strategy
-  - product-management
-  - gsa
-  - 18f
+  - content-strategy
+  - product-and-project-management
 ---

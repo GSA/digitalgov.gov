@@ -7,8 +7,6 @@ authors:
   - nkunin
 topics:
   - software-engineering
-  - CFPB
-  - software-engineering
   - open-source
 ---
 

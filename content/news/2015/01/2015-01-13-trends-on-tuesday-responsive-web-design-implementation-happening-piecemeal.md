@@ -7,13 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-3
-  - national-cancer-institute
-  - NCI
-  - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

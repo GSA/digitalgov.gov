@@ -4,7 +4,6 @@ date: 2015-11-23 4:31:09 -0400
 title: "Federal Information Security Management Act of 2002 &#8211; Presentation to the 2003 FISSEA Conference"
 summary: "The head of the agency delegates to the CIO a number of information security responsibilities. The CIO in turn designates a senior agency information security officer. View Federal Information Security Management Act of 2002 Presentation to the 2003 FISSEA Conference Related Links OMB M-04-25 Reporting Instructions for the Federal Information Security Management Act (PDF, 269"
 topics:
-  - policy
   - security
 authors:
   - andreanocesigritz

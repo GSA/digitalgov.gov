@@ -7,18 +7,11 @@ authors:
   - darlene-meskell
 topics:
   - governance
-  - monthly-theme
-  - strategy
-  - policy
-  - 18f
-  - data-gov
+  - content-strategy
   - open-government
-  - gsa
-  - metadata
+  - search-engine-optimization
   - open-data
   - open-source
-  - us-digital-service
-  - usds
 
 ---
 

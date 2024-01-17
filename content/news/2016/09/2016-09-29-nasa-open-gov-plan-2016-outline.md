@@ -6,25 +6,15 @@ summary: "Here is the outline for our 2016 Open Government Plan. Let us know wha
 authors:
   - beth-beck
 topics:
-  - api
-  - challenges
+  - application-programming-interface
   - software-engineering
-  - content
+  - content-strategy
   - crowdsourcing-and-citizen-science
-  - data
   - governance
-  - product-management
+  - product-and-project-management
   - mobile
-  - strategy
-  - policy
   - challenges-and-prize-competitions
-  - citizen-science
-  - software-engineering
-  - data
   - innovation
-  - mobile-apps
-  - nasa
-  - open
   - open-data
   - open-government
 ---

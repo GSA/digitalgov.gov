@@ -7,8 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
 ---
 

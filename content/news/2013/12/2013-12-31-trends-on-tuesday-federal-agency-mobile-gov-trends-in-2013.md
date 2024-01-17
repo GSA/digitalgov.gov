@@ -8,16 +8,10 @@ authors:
   - jparcell
 
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - content-models
-  - mobile
-  - mobile-code-catalog
-  - mobile-gov
-  - national-gallery-of-art
-  - NOAA
-  - responsive-web-design
-  - trends-on-tuesday
+  - content-strategy
+  - emerging-tech
   - user-experience
 
 ---

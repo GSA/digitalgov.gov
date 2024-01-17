@@ -7,23 +7,13 @@ authors:
   - andre-francisco
 topics:
   - software-engineering
-  - data
-  - product-management
-  - strategy
-  - policy
-  - 18f
-  - agile
-  - cloud
-  - cloud-gov
-  - data
+  - product-and-project-management
+  - content-strategy
+  - cloud-and-infrastructure
+  - open-data
+  - security
   - budgeting-and-performance
-  - FAS
-  - federal-acquisition-service
-  - security
   - innovation
-  - security
-  - tts
-
 ---
 
 On September 8th, the General Services Administration (GSA) held a Technology Industry Day to talk to industry leaders about the products and solutions developed by our agency and to hear feedback on how we can better engage industry. We’re thrilled that more than 300 members of the technology industry in person and via the live stream were able to join us for this first step towards a closer partnership and more open lines of communication about how we can work together to transform federal technology.

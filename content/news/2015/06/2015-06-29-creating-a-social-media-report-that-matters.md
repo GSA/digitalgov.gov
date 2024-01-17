@@ -8,12 +8,9 @@ summary: 'As with any communications effort, the social media bottom line comes 
 authors:
   - katie-gresham
 topics:
-  - monthly-theme
   - social-media
   - analytics
-  - data
   - data-visualization
-  - infographic
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Social-Media-Infographics-LucionCreative-iStock-Thinkstock-476423382.jpg" alt="Social Media Infographics" caption="" >}}

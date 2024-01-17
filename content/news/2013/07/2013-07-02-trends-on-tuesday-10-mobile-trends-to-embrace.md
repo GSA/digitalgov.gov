@@ -9,7 +9,7 @@ topics:
   - mobile
   - innovation
   - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)[Jackie Rov of tmgmedia points out](http://engage.tmgcustommedia.com/2013/05/10-mobile-trends-2013/) that with more than a billion smartphones in consumer’s pockets, it’s more important than ever for brands to adapt their strategy to mobile trends. To engage with consumers in the mobile era, we must understand the shift in consumer behavior – that immediacy and convenience fuel consumer actions.

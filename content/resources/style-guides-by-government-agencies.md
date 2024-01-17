@@ -5,8 +5,8 @@ title: "Style Guides by Government Agencies"
 summary: "This page is a collection of style guides created by government agencies."
 topics:
   - plain-language
-  - writing
-  - content
+  - communication
+  - content-strategy
 ---
 
 Style guides are used to set the tone and guidelines for how an agency communicates with the public. This page is a collection of style guides created by government agencies.
@@ -24,12 +24,12 @@ Style guides are used to set the tone and guidelines for how an agency communica
 - [Emerging Infectious Diseases Journal Editorial Style Guide](https://wwwnc.cdc.gov/eid/pdfs/StyleGuide.pdf) (PDF, 794 KB, 88 pgs)
 - [Plain Writing at CDC](https://www.cdc.gov/other/plainwriting.html)
 - [Facebook Guidelines and Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/facebook-guidelines.html)
-- [The Health Communicator’s Social Media Toolkit](https://www.cdc.gov/socialmedia/tools/guidelines/socialmediatoolkit.html) (PDF, 2.5 MB, 59 pgs)
-- [Twitter Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/twitter.html)
+- [The Health Communicator’s Social Media Toolkit](https://www.cdc.gov/healthcommunication/toolstemplates/socialmediatoolkit_bm.pdf) (PDF, 2.5 MB, 59 pgs)
+- [Twitter Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/pdf/microblogging.pdf) (PDF, 250 KB, 7 pgs)
 
 **Central Intelligence Agency (CIA)**
 
-- [Directorate of Intelligence’s Style Manual & Writers Guide for Intelligence Publications, 8th edition, 2011](https://www.scribd.com/doc/233259974/Directorate-of-Intelligence-Style-Manual-Writers-Guide-for-Intelligence-Publications-Eighth-Edition-2011)
+- [Directorate of Intelligence’s Style Manual & Writers Guide for Intelligence Publications, 8th edition, 2011](https://irp.fas.org/cia/product/style.pdf) (PDF, 7 MB, 190 pgs)
 
 **Congressional Budget Office (CBO)**
 
@@ -84,7 +84,7 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 Here's a collection of guides created by digital communities of practice and other groups.
 
-- [Department of Defense's Introduction to Plain Language](http://www.dtic.mil/whs/directives/plainlanguage/PlainLanguageCourse.pdf) (PDF, 407 KB, 44 pgs)
+- [Department of Defense's Introduction to Plain Language](https://www.esd.whs.mil/Portals/54/Documents/DD/plain_language/PlainLanguageCourse.pdf?ver=2017-04-04-163823-677) (PDF, 398 KB, 44 pgs)
 - [PLAIN's Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
 - [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}})
 - [Spanish Language Style Guides and Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/)

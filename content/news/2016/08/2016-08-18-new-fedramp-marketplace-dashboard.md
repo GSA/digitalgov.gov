@@ -7,12 +7,9 @@ summary: 'We’re incredibly excited to announce the launch of the new FedRAMP M
 authors:
   - matt-goodrich
 topics:
-  - data
-  - product-management
-  - 18f
-  - cloud
-  - data
-  - security
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - open-data
   - security
 ---
 

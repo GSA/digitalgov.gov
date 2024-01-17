@@ -9,11 +9,11 @@ date: 2022-03-31 14:00:00 -0500
 end_date: 2022-03-31 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - customer-service
+  - customer-experience
   - customer-experience
   - emerging-tech
   - acquisition
-  - strategy
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

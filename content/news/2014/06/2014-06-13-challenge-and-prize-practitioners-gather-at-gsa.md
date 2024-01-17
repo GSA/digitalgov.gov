@@ -6,20 +6,10 @@ summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov te
 authors:
   - ktrebon
 topics:
-  - challenges
-  - software-engineering
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
-  - crowdsourcing
-  - HUD
+  - challenges-and-prize-competitions
+  - crowdsourcing-and-citizen-science
   - innovation
-  - nasa
-  - National Eye Institute
-  - national-science-foundation
-  - nsf
-  - recaps
-  - united-states-department-of-housing-and-urban-development
-  - white-house-office-of-science-and-technology-policy
+  - software-engineering
 ---
 
 Got [innovation]({{< ref "/topics/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!

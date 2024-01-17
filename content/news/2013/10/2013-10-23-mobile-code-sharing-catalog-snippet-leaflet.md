@@ -7,7 +7,7 @@ topics:
   - software-engineering
   - mobile
   - innovation
-  - mobile-gov
+  - mobile
 ---
 
 {{< legacy-img src="2014/08/250-x-191-white-bg-Mobile-Code-Catalog-homepage-code-on-multiple-devices.jpg" alt="Code is shown on multiple devices." >}}Would you like help incorporating mobile-friendly maps in your mobile sites and/or web apps?

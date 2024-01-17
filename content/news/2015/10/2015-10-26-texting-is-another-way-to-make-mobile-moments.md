@@ -7,15 +7,6 @@ authors:
   - ktrebon
 topics:
   - mobile
-  - monthly-theme
-  - mobile
-  - mobile-apps
-  - mobile-gov
-  - mobile-ux-guideline-5
-  - national-cancer-institute
-  - NCI
-  - responsive-web-design
- 
 ---
 
 {{< legacy-img src="2015/10/600-x-450-Modern-conversation-social-network-community-logo-icon-maximillion_studio-iStock-Thinkstock-485896583.jpg" alt="Modern conversation social network community logo icon" caption="" >}} 

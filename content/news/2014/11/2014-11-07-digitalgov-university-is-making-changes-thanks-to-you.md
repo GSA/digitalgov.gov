@@ -6,10 +6,8 @@ summary: DigitalGov University took the pulse of our participants this spring an
 authors:
   - apiazza
 topics:
-  - monthly-theme
-  - our-work
   - customer-experience
-  - open-opportunities-program
+  - professional-development
 ---
 
 {{< legacy-img src="2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" caption="" >}} 

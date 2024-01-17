@@ -6,9 +6,8 @@ summary: 'After choosing a set of information or services to offer via API, some
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
-  - api
   - open-data
 ---
 

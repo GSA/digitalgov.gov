@@ -6,16 +6,11 @@ summary: ""
 authors:
   - barbara-walton
 topics:
-  - communities
-  - content
-  - data
-  - product-management
-  - metrics
-  - user-experience
   - content-strategy
-  - customer-satisfaction
-  - government-contact-centers
-  - top-tasks
+  - product-and-project-management
+  - analytics
+  - user-experience
+  - contact-centers
 ---
 
 {{< legacy-img src="2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}}
@@ -57,7 +52,7 @@ topics:
 ## 6. Engage Your Customers to Create a Two-Way Dialogue
 
   * Provide blogs, communities, and outreach via other [social media]({{< ref "/topics/social-media" >}}) venues.
-  * Incorporate [videos]({{< ref "/topics/video" >}}) and webcasting.
+  * Incorporate [videos]({{< ref "/topics/multimedia" >}}) and webcasting.
 
 ## 7. Collect Customer Feedback
 
@@ -68,7 +63,7 @@ topics:
       * Restrict the number of questions to seven.
       * Survey everyone; not just the happy or unhappy customers
   * Conduct focus groups to gauge opinions.
-  * Implement [usability testing]({{< ref "/topics/user-research" >}}) to determine what is and isn&#8217;t working.
+  * Implement [usability testing]({{< ref "/topics/research" >}}) to determine what is and isn&#8217;t working.
   * Conduct interviews, workshops.
 
 ## 8. Stay Current with the Latest Research and Best Practices

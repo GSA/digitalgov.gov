@@ -6,7 +6,7 @@ summary: "The UX Summit will be a one day virtual event on June 14, 2023. New an
 topics:
   - user-experience
   - usability
-  - user-research
+  - research
   - design
 # See all authors at https://digital.gov/authors
 authors:

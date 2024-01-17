@@ -9,7 +9,7 @@ topics:
   - user-experience
   - customer-experience
   - research
-  - user-research
+  - research
 # See all authors at https://digital.gov/authors
 authors:
   - jean-fox

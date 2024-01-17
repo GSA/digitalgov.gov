@@ -17,9 +17,9 @@ aliases:
 topics:
   - accessibility
   - diversity-equity-and-inclusion
-  - product-management
+  - product-and-project-management
   - plain-language
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - user-experience

@@ -7,15 +7,13 @@ authors:
   - bbrantley
 topics:
   - mobile
-  - monthly-theme
-  - data
   - mobile
-  - the-data-briefing
+  - emerging-tech
  
 
 ---
 
-DigitalGov&#8217;s [theme]({{< ref "/topics/monthly-theme" >}}) this month is [mobile moments]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}), which explores the impact of mobile applications in the federal government. For this post, I am examining the more than 300 mobile apps created by the federal government. An <a href="https://www.usa.gov/mobile-apps" target="_blank">updated list of federal mobile apps is on USA.gov</a>.
+DigitalGov&#8217;s theme this month is [mobile moments]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}), which explores the impact of mobile applications in the federal government. For this post, I am examining the more than 300 mobile apps created by the federal government. An <a href="https://www.usa.gov/mobile-apps" target="_blank">updated list of federal mobile apps is on USA.gov</a>.
 
 {{< legacy-img src="2015/10/600-x-400-Businesswoman-talking-on-mobile-phone-Pilin_Petunyia-iStock-Thinkstock-177283677.jpg" alt="Business woman stops to use a mobile phone" caption="Pilin_Petunyia/iStock/Thinkstock" >}}
 
@@ -37,6 +35,6 @@ The list of more than 300 federal mobile apps is a great snapshot of the various
 
 _Is your agency&#8217;s app missing from the [USA.gov Mobile Apps Directory](https://www.usa.gov/mobile-apps)? Join the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}) and learn how you can add it._
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

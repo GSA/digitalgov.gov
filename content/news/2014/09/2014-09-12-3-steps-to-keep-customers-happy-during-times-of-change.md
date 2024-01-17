@@ -6,9 +6,8 @@ summary: 'Just like the private sector, government agencies frequently encounter
 authors:
   - stephanie-thum
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - Export-Import Bank of the United States
 ---
 
 {{< legacy-img src="2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" caption="" >}} 

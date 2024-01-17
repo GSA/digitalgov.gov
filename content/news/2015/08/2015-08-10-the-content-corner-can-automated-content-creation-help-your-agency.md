@@ -6,10 +6,7 @@ summary: 'Nearly half of companies recently surveyed said that automating conten
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
-  - structured-content
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 
@@ -64,4 +61,4 @@ When needing to pull data from a wide variety of sources in order to generate na
 
 Despite predictions that over [90% of all news will be computer-generated within 15 years](http://www.wired.com/2012/04/can-an-algorithm-write-a-better-news-story-than-a-human-reporter), we should embrace the opportunities that NLG can provide us and remember that it is a tool or an aid, not another machine come to take away our jobs. As we all are faced with doing more with less, being able to auto-generate easy to read reports based upon large amounts of data can be one less thing that we have to expend resources on. To be honest, despite regularly reviewing the lines and lines of analytics data my site generates, I found the NLG-generated report for my site to be revelatory. And more important, easy-to-read for anyone with interest in the site&#8217;s data trends and performance. My effort to create a five page report narrative with charts? I had to copy and paste a URL and login to my analytics account (phew, I need a nap).
 
-Even if the machine provides only a head-start, that is still a time-savings that allows us to devote our time elsewhere. The main focus should be on delivering the best product possible to our audience and NLGs can help us provide content faster and possibly even cover more diverse or niche subject matter or improve their health and their lives._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Even if the machine provides only a head-start, that is still a time-savings that allows us to devote our time elsewhere. The main focus should be on delivering the best product possible to our audience and NLGs can help us provide content faster and possibly even cover more diverse or niche subject matter or improve their health and their lives._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

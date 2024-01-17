@@ -5,12 +5,9 @@ title: Alternative Fueling Station Locator App from the Department of Energy
 summary: 'So: You decided to purchase a car that takes advantage of more environmentally friendly fuel. Congratulations! Now, you need to find a place to fill the tank that offers more than just regular gas. The new Alternative Fueling Station Locator app from the folks at the Department of Energy’s National Renewable Energy Laboratory is a must-try. The new iPhone app will'
 topics:
   - software-engineering
+  - application-programming-interface
   - mobile
-  - api
-  - mobile-apps
-  - NREL
   - open-source
-  - thursday-mobile-products
 ---
 
 So: You decided to purchase a car that takes advantage of more environmentally friendly fuel. Congratulations! Now, you need to find a place to fill the tank that offers more than just regular gas.

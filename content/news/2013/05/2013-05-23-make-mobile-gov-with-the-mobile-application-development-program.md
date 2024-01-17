@@ -8,12 +8,10 @@ authors:
 topics:
   - software-engineering
   - mobile
-  - our-work
   - accessibility
-  - api
-  - mobile-app-development-program
-  - mobile-gov
-  - mobile-apps
+  - application-programming-interface
+  - mobile
+  - mobile
 
 ---
 

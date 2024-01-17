@@ -1,3 +1,4 @@
+
 ---
 # View this page at https://digital.gov/2020/05/12/promote-continuity-better-support-customer-journeys
 # Learn how to edit our pages at https://workflow.digital.gov
@@ -12,13 +13,10 @@ summary: "This week, we’re exploring what it means to promote continuity, and 
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 21st-century-idea
+  - digital-service-delivery
   - content-strategy
   - customer-experience
-  - uswds
   - user-experience
-  
-  - this-weeks-idea
 
 # see all authors at https://digital.gov/authors
 authors: 

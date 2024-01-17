@@ -6,9 +6,8 @@ summary: 'Guest post by Brenda Wensil, Chief Customer Experience Officer for Fed
 authors:
   - brenda-wensil
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
-  - FAFSA
   - multilingual
 ---
 

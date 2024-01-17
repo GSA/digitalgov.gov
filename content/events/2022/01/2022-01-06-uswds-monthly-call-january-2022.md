@@ -13,7 +13,6 @@ end_date: 2022-01-20 15:00:00 -0500
 topics:
   - software-engineering
   - open-source
-  - uswds
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

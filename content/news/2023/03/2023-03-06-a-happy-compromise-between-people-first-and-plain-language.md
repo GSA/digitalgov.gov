@@ -6,12 +6,12 @@ deck: Applying people-first standards with plain language in mind
 summary: Find out how the National Institute of Corrections is using people-first plain language in its communications. See what words and phrases they’re changing.
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - plain-language
   - social-media
   - accessibility
   - user-experience
-  - writing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - celia-a-terrazas

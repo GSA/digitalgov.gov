@@ -7,7 +7,7 @@ summary: "The GSA SmartPay program, the largest government charge card and comme
 topics:
   - content-strategy
   - digital-service-delivery
-  - product-management
+  - product-and-project-management
   - project-management
   - user-experience
 
@@ -26,7 +26,7 @@ weight: 1
 
 ---
 
-{{< box >}}*The U.S. General Service Administration (GSA) Center for Charge Card Management (CCCM) administers the GSA SmartPay®️ program, providing services to more than 560 federal agencies, organizations, and Native American tribal governments. Watch this [1-minute video celebrating the program’s 25th anniversary](https://www.youtube.com/watch?v=3kcvidn5ikc), which will be November 30, 2023. To date, GSA SmartPay has handled $643 billion dollars in total spend and provided $5.6 billion in refunds to agencies to invest in their mission.*{{< /box >}}
+{{< box >}}*The U.S. General Services Administration (GSA) Center for Charge Card Management (CCCM) administers the GSA SmartPay®️ program, providing services to more than 560 federal agencies, organizations, and Native American tribal governments. Watch this [1-minute video celebrating the program’s 25th anniversary](https://www.youtube.com/watch?v=3kcvidn5ikc), which will be November 30, 2023. To date, GSA SmartPay has handled $643 billion dollars in total spend and provided $5.6 billion in refunds to agencies to invest in their mission.*{{< /box >}}
 
 {{< img src="three-gsa-smartpay-screens" >}}
 

@@ -10,9 +10,7 @@ summary: "In fall 2023, we’ll launch a new registrar: a better way to get and
   manage a .gov domain."
 # See all topics at https://digital.gov/topics
 topics:
-  - web-based
-  - infrastructure
-  - software-engineering
+  - cloud-and-infrastructure
 slug: infrastructure-as-a-public-service
 # Controls how this page appears across the site
 # 0 -- hidden

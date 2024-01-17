@@ -13,7 +13,7 @@ topics:
   - design
   - open-source
   - software-engineering
-  - prototype
+  - design
 # See all authors at https://digital.gov/authors
 authors:
   - philip-levy

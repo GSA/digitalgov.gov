@@ -18,8 +18,7 @@ end_date: 2019-09-18 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - policy
-
+  - product-and-project-management
 # see all authors at https://digital.gov/authors
 authors: 
   - tori-garten

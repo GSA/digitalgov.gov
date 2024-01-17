@@ -21,9 +21,8 @@ event_platform: google
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - product-management
-  - cloud
-  - cloud-gov
+  - product-and-project-management
+  - cloud-and-infrastructure
 
 # see all authors at https://digital.gov/authors
 authors:

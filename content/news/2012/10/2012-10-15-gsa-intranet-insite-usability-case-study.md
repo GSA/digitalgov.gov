@@ -6,9 +6,7 @@ summary: 'Not all usability changes are dramatic. Sometimes a few small tweaks c
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
-  - user-experience
-  - gsa
+  - research
   - usability
   - user-experience
 ---

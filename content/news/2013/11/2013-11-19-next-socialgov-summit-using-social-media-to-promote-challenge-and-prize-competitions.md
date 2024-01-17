@@ -6,11 +6,8 @@ summary: 'A public prize spurred Charles Lindbergh to fly across the Atlantic, a
 authors:
   - jherman
 topics:
-  - challenges
-  - social-media
-  - strategy
-  - policy
-  - challenge-gov
+  - content-strategy
+  - challenges-and-prize-competitions
   - social-media
 ---
 

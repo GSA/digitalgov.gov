@@ -6,11 +6,9 @@ summary: 'Armed with the knowledge that &lsquo;most studies suggest that losses 
 authors:
   - andreanocesigritz
 topics:
-  - product-management
-  - monthly-theme
+  - product-and-project-management
   - agile
   - agile-lean-community-of-practice
-  - recaps
 
 ---
 

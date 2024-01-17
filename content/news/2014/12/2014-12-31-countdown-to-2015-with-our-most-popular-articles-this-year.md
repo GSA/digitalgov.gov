@@ -6,11 +6,11 @@ summary: 'As we round out 2014, we’re reflecting on the exciting year we’ve 
 authors:
   - andreanocesigritz
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - software-engineering
-  - content
-  - product-management
-  - metrics
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - mobile
   - social-media
   - user-experience

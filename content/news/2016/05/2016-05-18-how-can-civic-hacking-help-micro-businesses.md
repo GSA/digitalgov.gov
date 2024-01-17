@@ -7,10 +7,6 @@ authors:
   - jack-bienko
 topics:
   - software-engineering
-  - Census
-  - SBA
-  - us-small-business-administration
-  - united-states-census-bureau
 ---
 
 _National Day of Civic Hacking on June 4th, D.C. Edition_
@@ -26,17 +22,17 @@ If you are in the D.C. area, you won’t want to miss an exciting event that wil
 Here are three reasons why micro-businesses expand opportunity, setting up this year’s D.C. event to be one of the best ever:
 
   1. **Local Business Success Makes Communities Stronger**
-  
+
     An excerpt from the 2012 National Economic Council report on “Creating an Economy Built to Last” put it succinctly:
-  
+
     “America’s small businesses and entrepreneurs are the engine of our economy and one of our country’s greatest assets.&#8221;
-  
+
     Over the last two decades, small and new businesses have been responsible for creating 2 out of every 3 net new jobs, and today the country’s 28 million small firms employ 60 million Americans, half of the private sector workforce. When America&#8217;s small businesses are strong and growing, our communities are strong and growing.
   2. **Micro-businesses are a Driving Force in Upward Mobility**
-  
+
     <span style="line-height: 1.5">For minorities and immigrants, micro-businesses are helping to fuel the American dream. According to <a href="http://www.blackenterprise.com">blackenterprise.com</a>, studies show that 98% of all African American owned businesses are micro-businesses (those with five or fewer employees) and many of those businesses are also owned by women. In addition, the <a href="http://www.mercurynews.com/immigration/ci_25746797/entrepreneurship-training-helps-immigrants-establish-microbusinesses">Mercury News</a> notes that interest in opening a business is especially high among immigrants and refugees. Many have low incomes and less access to employment opportunities than the general population because they have limited English language skills, lack reliable transportation or an American diploma, and are still learning how American society works.</span>
   3. **Local Businesses are the Backbone of Our Neighborhood Communities**
-  
+
     <span style="line-height: 1.5">The American Independent Business Alliance (AMIBA) is a 501c3 non-profit organization dedicated to helping communities become more self-supporting and resilient through fostering a culture that values and supports independent business and local entrepreneurs. Their research has shown that the economic return in local markets from “indies” vs. “chains” is 48% to 13.6%, respectively. This highlights how small companies (which includes micro-businesses) are the backbone of our neighborhoods’ economic vitality.</span>
 
 ## How Can Civic Hacking Help?
@@ -59,25 +55,25 @@ Let’s find out together on Saturday June 4, 2016. In an all day event in downt
 ### In Partnership with
 
 Chief
-  
+
 Microsoft
-  
+
 OpenIDEO DC
-  
+
 General Assembly D.C.
-  
+
 Project Hope
 
 ### Hashtags and handles
 
 [#nudge](https://twitter.com/hashtag/nudge?src=hash)
-  
+
 [#hackforchange](https://twitter.com/hashtag/hackforchange?src=hash)
-  
+
 [@uscensusbureau](https://twitter.com/uscensusbureau)
-  
+
 [@sba](https://twitter.com/SBAgov)
-  
+
 [@agencychief](https://twitter.com/agencychief)
-  
+
 [@microsoft](https://twitter.com/microsoft)_Jack Bienko is the Deputy for Entrepreneurship Education at the U.S. Small Business Administration._

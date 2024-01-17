@@ -10,9 +10,7 @@ authors:
   - code-gov
 topics:
   - software-engineering
-  - user-testing-and-research
-  - software-engineering
-  - user research
+  - research
 ---
 
 > _This post was originally published by [Code.gov on Medium](https://medium.com/codedotgov/user-interviews-what-we-learned-9a41812e5a3)._

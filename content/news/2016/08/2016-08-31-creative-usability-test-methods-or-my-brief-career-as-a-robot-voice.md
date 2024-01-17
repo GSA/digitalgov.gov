@@ -6,17 +6,11 @@ summary: 'When you want to do a usability test, sometimes you have to step out o
 authors:
   - joanne-mcgovern
 topics:
-  - user-testing-and-research
+  - research
   - customer-experience
-  - customer-service
-  - Government Contact Center Council
-  - government-contact-centers
+  - contact-centers
   - usability
-  - usagov
   - user-experience
-  - user-experience
-  - user research
-  
 ---
 
 When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’s just what happened to us.

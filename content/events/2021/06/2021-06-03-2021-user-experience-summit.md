@@ -13,7 +13,7 @@ topics:
   - user-centered-design
   - user-experience
   - user-experience
-  - user-research
+  - research
 # See all authors at https://digital.gov/authors
 authors:
   - jean-fox

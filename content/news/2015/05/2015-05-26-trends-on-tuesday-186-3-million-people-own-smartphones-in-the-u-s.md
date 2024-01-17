@@ -8,10 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-apps
-  - mobile-ux-guideline-1
-  - mobile-friendly
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Gadgets-cellphones-with-touch-screens-over-white-Arsgera-iStpck-Thinkstock-177350893.jpg" alt="Multiple cell phones on a light background" caption="" >}} 

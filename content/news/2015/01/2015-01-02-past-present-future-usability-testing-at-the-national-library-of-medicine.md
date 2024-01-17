@@ -9,13 +9,9 @@ authors:
   - ray-bryson
   - dan-wendling
 topics:
-  - user-testing-and-research
-  - National Library of Medicine
-  - NLM
-  - usability
+  - research
   - usability
   - user-experience
-  
 ---
 
 {{< legacy-img src="2014/12/250-x-335-NLM-testing-usability.jpg" alt="Usability testing for the NLM wesbite" >}}Usability testing has provided our organization many important insights to improve our Web presence. Since the early 2000s, the National Library of Medicine (NLM)&#8217;s Web teams have actively sought and used usability testing tools; we have run &#8220;full service&#8221; usability testing almost yearly for various Web properties for sites such as [NIHSeniorHealth.gov](http://nihseniorhealth.gov/) and [MedlinePlus.gov](http://www.nlm.nih.gov/medlineplus/). In recent years we gained new insights about mobile device usability through GSA&#8217;s First Fridays usability testing program (now called the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program")), and through testing responsive Web designs with the help of a usability firm.

@@ -7,8 +7,8 @@ authors:
   - jherman
 topics:
   - social-media
-  - api
-  - internet-of-things
+  - application-programming-interface
+  - emerging-tech
   - social-media
   - social-media
 ---

@@ -8,7 +8,6 @@ authors:
 topics:
   - user-testing-and-research
   - accessibility
-  - section-508
 
 ---
 

@@ -7,14 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - mobile
-  - user-testing-and-research
-  - user-experience
-  - fda
-  - mobile-app-development-program
-  - NCI
-  - OMB
-  - pra
-  - user-experience
+  - research
   - user-experience
 ---
 

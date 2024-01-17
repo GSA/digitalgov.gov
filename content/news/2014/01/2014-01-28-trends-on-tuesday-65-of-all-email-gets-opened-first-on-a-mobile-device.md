@@ -6,11 +6,11 @@ summary: 'While composing email on mobile phones is still a tricky feat, email r
 authors:
   - lisa-wilcox
 topics:
-  - content
+  - content-strategy
   - mobile
   - mobile
   - social-media
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2014/01/email-1005x1024.jpg" alt="Email icon" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/email-1005x1024.jpg)While composing email on mobile phones is still a tricky feat, email reading is quickly shifting away from the desktop.

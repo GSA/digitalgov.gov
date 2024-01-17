@@ -7,9 +7,9 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-gov
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 [<img class="alignright  wp-image-101912" alt="Graph showing that 60-61% of people get their news from browsers on tablets and smartphones respectively, vs. 23-28 from apps, and 16-11% both equally" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/Pew-tablet-News-report.png" width="342" height="270" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/Pew-tablet-News-report.png)The Pew Research Center recently released a report on &#8220;[12 Trends Shaping Digital News.](http://www.pewresearch.org/fact-tank/2013/10/16/12-trends-shaping-digital-news/)&#8221; Some of these trends show that mobile devices continue to affect how the public consumes the news. The report found:

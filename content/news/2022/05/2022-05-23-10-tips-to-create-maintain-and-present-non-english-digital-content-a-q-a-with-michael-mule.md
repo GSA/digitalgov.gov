@@ -6,11 +6,10 @@ summary: "This question and answer session for our webinar, Language Connections
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - multilingual
-  - multilingual-community
+  - multilingual
   - plain-language
-  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - michael-mule

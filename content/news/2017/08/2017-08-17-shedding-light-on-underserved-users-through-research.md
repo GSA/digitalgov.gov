@@ -7,9 +7,9 @@ authors:
   - tyrus-manuel
 topics:
   - user-testing-and-research
-  - personas
+  - research
   - user-experience
-  - user research
+  - research
 ---
 
 _How user interviews helped spotlight the needs of a previously forgotten group._

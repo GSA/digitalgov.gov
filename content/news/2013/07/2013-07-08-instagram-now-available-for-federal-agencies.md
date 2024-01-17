@@ -6,12 +6,9 @@ summary: Instagram is the latest mobile and social media tool available to feder
 authors:
   - bsteele
 topics:
-  - product-management
-  - social-media
-  - gsa
+  - product-and-project-management
   - social-media
   - terms-of-service
-  - white-house
 ---
 
 <p>

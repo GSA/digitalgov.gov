@@ -8,7 +8,6 @@ authors:
 topics:
   - software-engineering
   - user-experience
-  - 18f
   - open-source
 ---
 

@@ -12,8 +12,7 @@ end_date: 2022-05-19 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - software-engineering
-  - uswds
-  - performance
+  - budgeting-and-performance
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

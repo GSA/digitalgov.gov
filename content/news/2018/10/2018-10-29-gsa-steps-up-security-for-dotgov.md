@@ -10,7 +10,7 @@ authors:
   - marina-fox
 
 topics:
-  - product-management
+  - product-and-project-management
   - domain-management
   - security
 

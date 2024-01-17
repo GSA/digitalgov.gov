@@ -12,17 +12,16 @@ additional_resources: next-steps.md
 topics:
   - design
   - user-experience
-  - user-centered-design
-  - user-research
-  - web-content-managers-forum
-  - user-experience
+  - human-centered-design
+  - research
+  - content-strategy
   - customer-experience
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 9
+weight: 2
 
 ---
 

@@ -8,15 +8,10 @@ authors:
   - mary-king
   - kristen-albrittain
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - social-media
-  - content
-  - NARA
-  - national-archives-and-records-administration
-  - smithsonian-institution
   - social-media
-  - terms-of-service
   - terms-of-service
 ---
 

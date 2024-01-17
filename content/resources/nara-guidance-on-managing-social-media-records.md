@@ -1,12 +1,18 @@
 ---
+# View this page at https://digital.gov/resources/nara-guidance-on-managing-social-media-records
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# slug (url path) — changing this requires a redirect
 slug: nara-guidance-on-managing-social-media-records
-date: 2015-11-23 3:46:48 -0400
+
+date: 2015-11-23 15:46:48 -0400
+expirydate: "2023-11-21"
+
 title: NARA guidance on Managing Social Media Records
 summary: National Archives Bulletin 2014-02 provides high-level record keeping requirements and best practices for capturing records created when federal agencies use social media.
 
 topics:
   - social-media
-  - policy
 
 authors:
   - andreanocesigritz

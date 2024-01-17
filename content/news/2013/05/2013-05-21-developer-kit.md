@@ -7,7 +7,7 @@ authors:
   - gray-brooks
 topics:
   - software-engineering
-  - api
+  - application-programming-interface
  
 ---
 

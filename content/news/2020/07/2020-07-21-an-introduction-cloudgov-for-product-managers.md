@@ -11,9 +11,8 @@ summary: "Essential information that government product managers should know abo
 # see all topics at https://digital.gov/topics
 topics: 
   - software-engineering
-  - product-management
-  - cloud
-  - cloud-gov
+  - product-and-project-management
+  - cloud-and-infrastructure
 
 # see all authors at https://digital.gov/authors
 authors: 

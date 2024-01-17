@@ -6,11 +6,8 @@ summary: 'You can now log in to Go.USA.gov with your username or email address, 
 authors:
   - michelle-chronister
 topics:
-  - content
-  - our-work
-  - api
-  - usagov
-
+  - content-strategy
+  - application-programming-interface
 ---
 
 {{< legacy-img-right src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}

@@ -7,9 +7,6 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - recaps
-  - social-media
-
 ---
 
 Now that Thunderclap has been [approved for government use]({{< ref "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.

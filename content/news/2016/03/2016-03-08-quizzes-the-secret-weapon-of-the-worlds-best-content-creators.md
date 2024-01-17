@@ -6,9 +6,7 @@ summary: 'Online quizzes have rapidly risen to the front of the social media rev
 authors:
   - john-paul
 topics:
-  - content
-  - recaps
-  - usagov
+  - content-strategy
 
 ---
 

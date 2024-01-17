@@ -17,7 +17,6 @@ summary: "This week, Login.gov has surpassed 20 million registered users! Congra
 # see all topics at https://digital.gov/topics
 topics: 
   - security
-  - authentication
 
 # see all authors at https://digital.gov/authors
 authors: 

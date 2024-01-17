@@ -11,7 +11,6 @@ date: 2023-06-15 14:00:00 -0500
 end_date: 2023-06-15 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - accessibility
   - user-experience
 slug: uswds-monthly-call-june-2023

@@ -7,13 +7,9 @@ summary: "After watching a DigitalGov User Experience Program testing session, O
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
-  - tribal-government
   - usability
-  - usability
-  - user-experience
-
 ---
 
 Any government product &#8211; whether used by millions or a very specific audience group &#8211; needs to be as easy to use as possible. The Office of Natural Resources Revenue (ONRR) collects and dispenses revenue related to energy production on leased federal and American Indian lands. As a result, their audience has very definite information needs that need to be met quickly.

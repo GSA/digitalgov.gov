@@ -8,13 +8,10 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - metrics
-  - user-testing-and-research
+  - analytics
+  - research
   - user-experience
-  - national-cancer-institute
-  - NCI
   - usability
-  - user-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-1.jpg" alt="User Experience U X lab 1" >}}

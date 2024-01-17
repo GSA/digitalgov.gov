@@ -11,9 +11,9 @@ date: 2022-08-24 10:30:00 -0500
 end_date: 2022-08-24 15:45:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - accessibility
-  - writing
+  - communication
   - content-strategy
   - user-experience
   - plain-language

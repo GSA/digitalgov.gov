@@ -6,11 +6,10 @@ summary: 'Social media tools can amplify your agency’s message, but they are a
 authors:
   - awichman
 topics:
-  - monthly-theme
   - social-media
   - analytics
   - customer-experience
-  - customer-service
+  - customer-experience
   - government-contact-centers
   - social-media
 ---

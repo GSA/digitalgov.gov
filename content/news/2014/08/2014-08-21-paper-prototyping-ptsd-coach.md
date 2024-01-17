@@ -8,14 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - mobile-apps
-  - mobile-ux-guideline-4
-  - prototype
-  - recaps
-  - thursday-mobile-products
-  - us-department-of-veterans-affairs
-  - VA
-
 ---
 
 {{< legacy-img-right src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}The [PTSD Coach mobile app](http://www.ptsd.va.gov/public/materials/apps/PTSDCoach.asp) from the [Department of Veterans Affairs](http://www.va.gov/), provides veterans and users with information about PTSD and professional care, along with self-assessment tools and aid in finding support opportunities. The app has been downloaded over 100,000 times in 74 countries around the world, [received numerous accolades](http://www.myvaapps.com/ptsd/) and has spawned versions in both Australia and Canada. Designed for users that are both in treatment and not, this application is a poster-child for the benefits of user testing and paper prototyping.

@@ -1,3 +1,4 @@
+
 ---
 slug: trends-on-tuesday-facebook-and-google-products-dominate-app-usage
 date: 2016-03-01 10:00:13 -0400
@@ -7,10 +8,8 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile-apps
-  - native-apps
-  - responsive-web-design
-  - trends-on-tuesday
+  - mobile
+  - emerging-tech
 
 ---
 

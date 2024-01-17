@@ -7,12 +7,9 @@ authors:
   - tlowden
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - gsa
   - usability
-  - usability
-  - user-experience
 ---
 
 <p>

@@ -18,7 +18,7 @@ topics:
   - social-media
   - social-media
   - communication
-  - video
+  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - alex-cohen

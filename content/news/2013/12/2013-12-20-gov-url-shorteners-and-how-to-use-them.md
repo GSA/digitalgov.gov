@@ -6,10 +6,8 @@ summary: 'USA.gov offers two different types of URL shorteners &ndash; 1.USA.gov
 authors:
   - michelle-chronister
 topics:
+  - content-strategy
   - software-engineering
-  - content
-  - usagov
-
 ---
 
 {{< note "alert" >}}

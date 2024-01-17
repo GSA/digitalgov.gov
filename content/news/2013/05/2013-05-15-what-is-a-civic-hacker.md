@@ -6,8 +6,8 @@ summary: 'The National Day of Civic Hacking is bringing together thousands of ci
 authors:
   - lnelson
 topics:
+  - product-and-project-management
   - software-engineering
-  - product-management
 ---
 
 <p>

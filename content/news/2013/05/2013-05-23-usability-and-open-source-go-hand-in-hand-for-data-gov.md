@@ -7,8 +7,6 @@ authors:
   - sally-bourrie
 topics:
   - software-engineering
-  - data
-  - data-gov
   - open-data
   - open-source
 ---

@@ -13,7 +13,6 @@ date: 2023-05-18 14:00:00 -0500
 end_date: 2023-05-18 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - accessibility
 slug: uswds-monthly-call-may-2023
 # zoom, youtube_live, adobe_connect, google

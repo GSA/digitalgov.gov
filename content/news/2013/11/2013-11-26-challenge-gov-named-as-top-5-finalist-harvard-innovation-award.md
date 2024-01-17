@@ -7,9 +7,8 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - our-work
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - innovation
 ---
 

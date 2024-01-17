@@ -6,13 +6,8 @@ summary: '  On Feb. 15, 2013, a meteor weighing 10,000 metric tons exploded 14 m
 authors:
   - jim-wilson
 topics:
-  - metrics
-  - our-work
-  - dap
-  - digital-analytics-program
+  - analytics
   - mobile
-  - nasa
-
 ---
 
 On Feb. 15, 2013, a meteor weighing 10,000 metric tons exploded 14 miles above Chelyabinsk, Russia. Users flocked to NASA.gov for info, and we spiked to nearly 12 million page views that day, ~16 times the daily average. Our real-time analytics showed over 300,000 active visitors on the site at peak, about 100 times more than normal traffic. And, not surprisingly, we could see a huge chunk of this traffic was coming from Russia.

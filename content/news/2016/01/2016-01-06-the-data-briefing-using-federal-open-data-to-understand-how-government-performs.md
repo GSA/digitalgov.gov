@@ -7,9 +7,9 @@ authors:
   - bbrantley
 topics:
   - software-engineering
-  - api
+  - application-programming-interface
   - open-data
-  - the-data-briefing
+  - emerging-tech
 ---
 
 Some highlights from the recent fall conference of the Association for Public Policy Analysis and Management:
@@ -24,7 +24,7 @@ The public also benefits from opening up government data. There are three main f
 
 According to a quick search on Programmable Web, there are <a href="http://www.programmableweb.com/category/all/apis?page=5&category=20094%2C20169%2C20400" target="_blank">70+ APIs labeled as “government,” “dashboards,” and “transparency</a>.” This is a collection of state, local, federal and foreign government APIs that could easily be turned into dashboards. For example, there is the <a href="http://www.programmableweb.com/api/federal-infrastructure-projects" target="_blank">“Federal Infrastructure Projects” API</a> that uses data from Performance.gov. This API gives a snapshot of federally-funded infrastructure projects which sounds like a useful and interesting government performance dashboard.
 
-The federal government has become much more complex as the challenges it deals with have also become more complex. The amount of data created by the federal government rapidly grows every year, which makes monitoring government performance and spending that much more difficult. Opening up federal data and encouraging citizens and researchers to use that data to learn more about government performance and operations can only help improve government and better engage American citizens._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+The federal government has become much more complex as the challenges it deals with have also become more complex. The amount of data created by the federal government rapidly grows every year, which makes monitoring government performance and spending that much more difficult. Opening up federal data and encouraging citizens and researchers to use that data to learn more about government performance and operations can only help improve government and better engage American citizens._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

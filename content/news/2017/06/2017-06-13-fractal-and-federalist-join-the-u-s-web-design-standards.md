@@ -8,11 +8,9 @@ authors:
 topics:
   - software-engineering
   - design
-  - software-engineering
   - open-source
-  - responsive-web-design
-  - uswds
-  - user-centered-design
+  - mobile
+  - human-centered-design
 ---
 
 We’ve recently added two powerful tools to the [U.S. Web Design Standards](https://standards.usa.gov/) development workflow that allow us to preview, test, and publish the Standards code more quickly and easily.

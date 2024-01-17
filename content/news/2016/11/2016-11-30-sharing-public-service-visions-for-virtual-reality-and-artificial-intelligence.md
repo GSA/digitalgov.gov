@@ -6,16 +6,11 @@ summary: 'I’m taking a break from sorting through dozens of concepts from fede
 authors:
   - jherman
 topics:
-  - communities
   - emerging-tech
-  - product-management
-  - ai
+  - product-and-project-management
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - communities
   - innovation
-  - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 I’m taking a break from sorting through dozens of concepts from federal agencies about how they want to use artificial intelligence and virtual reality for citizens in the coming months in order to share with you just some of these groundbreaking initiatives of tomorrow that can be explored at a DigitalGov University workshop this week.
