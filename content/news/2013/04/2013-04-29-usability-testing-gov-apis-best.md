@@ -8,7 +8,6 @@ authors:
 topics:
   - application-programming-interface
   - user-testing-and-research
-  - application-programming-interface
 ---
 
 Good APIs can transform intimidating data sets into something that people can use. Good government APIs can create a better connection between government and citizens. The [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) has spurred Federal adoption of APIs, and the Digital Services Innovation Center and DATA.GOV teams are supporting these efforts by releasing a [swath of guidance and resources](http://www.howto.gov/mobile/apis-in-government "api resources"), [hosting online education series](http://www.howto.gov/training/on-demand#apis-and-data "api webinars") and launching a number of hosted tools at [Labs.Data.gov](http://labs.data.gov/ "labs.data.gov").
