@@ -21,7 +21,7 @@ primary_image: 2024-uswds-monthly-call-jan-title-card
 
 ---
 
-Join the U.S. Web Design System (USWDS) team as they continue to highlight accessibility by discussing the new component-based, plain language accessibility test pages and talk more about their development and phased rollout.
+Join the U.S. Web Design System (USWDS) team as they continue to highlight accessibility by discussing the new component-based accessibility test pages and talk more about their development and phased rollout.
 
 In this session, you will learn:
 
