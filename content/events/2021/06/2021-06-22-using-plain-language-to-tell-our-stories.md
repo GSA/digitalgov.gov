@@ -13,9 +13,7 @@ end_date: 2021-07-14 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
-  - content-strategy
   - customer-experience
-  - plain-language
   - plain-language
   - communication
   - professional-development

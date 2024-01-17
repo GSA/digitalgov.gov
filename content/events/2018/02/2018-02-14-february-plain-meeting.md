@@ -22,8 +22,6 @@ aliases:
   - /event/february-plain-meeting/
 topics:
   - plain-language
-  - plain-language
-
 ---
 
 We :heart: our volunteers.

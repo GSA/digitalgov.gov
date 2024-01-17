@@ -9,7 +9,6 @@ topics:
   - accessibility
   - content-strategy
   - user-experience
-  - plain-language
   - communication
   - design
   - plain-writing-act-of-2010
