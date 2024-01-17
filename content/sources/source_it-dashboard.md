@@ -10,6 +10,5 @@ logo: itdash
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-  - analytics
 slug: it-dashboard
 ---

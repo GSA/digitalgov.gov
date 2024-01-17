@@ -19,7 +19,6 @@ topics:
   - user-experience
   - content-strategy
   - project-management
-  - analytics
 # see all authors at https://digital.gov/authors
 authors:
   - toni-bonitto

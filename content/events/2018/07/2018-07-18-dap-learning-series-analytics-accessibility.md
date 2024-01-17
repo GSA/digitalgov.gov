@@ -20,7 +20,6 @@ end_date: 2018-07-18 15:00:00 -0500
 topics: 
   - accessibility
   - analytics
-  - analytics
 
 # see all authors at https://digital.gov/authors
 authors: 
