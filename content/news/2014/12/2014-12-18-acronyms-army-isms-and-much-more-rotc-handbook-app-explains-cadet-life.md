@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - application-programming-interface
-  - mobile
   - united-states-army
 ---
 

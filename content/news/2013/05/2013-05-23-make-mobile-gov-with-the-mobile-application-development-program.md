@@ -10,9 +10,6 @@ topics:
   - mobile
   - accessibility
   - application-programming-interface
-  - mobile
-  - mobile
-
 ---
 
 Anytime, Anywhere, Any Device.

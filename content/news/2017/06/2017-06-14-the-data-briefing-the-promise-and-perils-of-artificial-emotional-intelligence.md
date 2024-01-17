@@ -15,8 +15,6 @@ topics:
   - artificial intelligence
   - innovation
   - emerging-tech
-  - mobile
-
 ---
 
 The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’s creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just [how simple the program was regarding generating conversational responses](http://www.filfre.net/2011/06/eliza-part-2/). ELIZA essentially parroted back what the users typed but, this was enough to convince people that the program seemed to care about the person. The [ELIZA Effect](https://en.wikipedia.org/wiki/ELIZA_effect) was coined to describe how users attribute humanlike motives to computer programs. You can talk to ELIZA yourself at this [site](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm). 

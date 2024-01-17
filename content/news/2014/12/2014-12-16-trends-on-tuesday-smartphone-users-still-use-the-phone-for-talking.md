@@ -11,8 +11,6 @@ topics:
   - customer-experience
   - Government Contact Center Council
   - government-contact-centers
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

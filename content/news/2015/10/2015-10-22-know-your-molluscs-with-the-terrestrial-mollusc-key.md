@@ -7,8 +7,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - mobile
-
 ---
 
 {{< legacy-img src="2015/10/600-x-338-Terrestrial-Mollusc-Key-app-coiled-shell-present.jpg" alt="Screencapture from the Terrestrial Mollusc Key app, a snail" >}}

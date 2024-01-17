@@ -7,7 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - mobile
   - united-states-department-of-energy
 ---
 

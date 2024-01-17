@@ -7,8 +7,6 @@ topics:
   - mobile
   - social-media
   - software-engineering
-  - mobile
-  - terms-of-service
   - terms-of-service
 ---
 

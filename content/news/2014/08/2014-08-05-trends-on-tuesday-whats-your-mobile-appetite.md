@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - mobile
   - emerging-tech
   - user-experience
 ---

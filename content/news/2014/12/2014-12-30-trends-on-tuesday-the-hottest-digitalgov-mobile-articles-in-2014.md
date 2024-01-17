@@ -9,7 +9,6 @@ topics:
   - product-and-project-management
   - mobile
   - application-programming-interface
-  - mobile
   - emerging-tech
 ---
 

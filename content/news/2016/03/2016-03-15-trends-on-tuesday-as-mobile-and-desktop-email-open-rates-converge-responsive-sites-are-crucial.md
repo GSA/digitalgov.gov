@@ -7,7 +7,6 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
   - emerging-tech
 ---
 

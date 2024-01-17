@@ -12,8 +12,6 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - mobile
-
 ---
 
 ## Like a kid in a candy store ...

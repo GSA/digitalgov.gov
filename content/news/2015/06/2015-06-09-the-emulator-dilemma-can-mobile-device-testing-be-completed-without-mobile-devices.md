@@ -10,7 +10,6 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - mobile
   - user-experience
 ---
 

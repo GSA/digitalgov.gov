@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - search
-  - mobile
-  - mobile
-  - mobile
   - search-engine-optimization
   - emerging-tech
 ---

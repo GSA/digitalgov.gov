@@ -11,8 +11,6 @@ summary: "Following these principles will help you make your site more usable an
 topics:
   - product-and-project-management
   - mobile
-  - mobile
-  - mobile
 
 # originally published at the following URL
 source_url: "https://digital.gov/guides/mobile-principles/"

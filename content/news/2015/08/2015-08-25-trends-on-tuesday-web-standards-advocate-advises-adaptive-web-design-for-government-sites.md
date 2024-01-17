@@ -8,9 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - mobile
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

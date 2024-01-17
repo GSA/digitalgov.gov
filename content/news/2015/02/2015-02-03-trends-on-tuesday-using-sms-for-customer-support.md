@@ -9,7 +9,6 @@ authors:
 topics:
   - mobile
   - government-contact-centers
-  - mobile
   - emerging-tech
 ---
 

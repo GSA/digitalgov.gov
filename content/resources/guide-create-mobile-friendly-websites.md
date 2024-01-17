@@ -9,9 +9,6 @@ featured_image:
 topics:
   - mobile
   - content-strategy
-  - mobile
-  - mobile
-
 ---
 
 _This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration._

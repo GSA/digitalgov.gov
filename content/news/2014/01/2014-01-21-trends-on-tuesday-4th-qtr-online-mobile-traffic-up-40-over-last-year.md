@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - social-media
-  - mobile
-  - social-media
   - emerging-tech
 ---
 

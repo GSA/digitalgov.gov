@@ -7,7 +7,6 @@ authors:
   - brandon-barr
 topics:
   - mobile
-  - mobile
   - emerging-tech
 ---
 

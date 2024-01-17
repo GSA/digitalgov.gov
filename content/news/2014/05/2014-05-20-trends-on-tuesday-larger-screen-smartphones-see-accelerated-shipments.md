@@ -8,11 +8,7 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - mobile
-  - mobile
-  - mobile
   - emerging-tech
-
 ---
 
 Smaller doesn&#8217;t mean more popular when it comes to smartphone screen size.

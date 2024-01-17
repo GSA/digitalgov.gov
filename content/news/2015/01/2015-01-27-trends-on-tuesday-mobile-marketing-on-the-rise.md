@@ -8,10 +8,6 @@ authors:
 topics:
   - mobile
   - customer-experience
-  - mobile
-  - mobile
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

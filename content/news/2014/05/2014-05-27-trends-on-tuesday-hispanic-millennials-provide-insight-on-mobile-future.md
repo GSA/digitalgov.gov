@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - multilingual
-  - mobile
-  - mobile
-  - multilingual
   - social-media
   - emerging-tech
 ---

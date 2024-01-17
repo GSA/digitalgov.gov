@@ -9,11 +9,6 @@ topics:
   - design
   - mobile
   - user-testing-and-research
-  - mobile
-  - mobile
-  - mobile
-  - mobile
-  - design
   - user-experience
 ---
 

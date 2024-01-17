@@ -7,10 +7,7 @@ authors:
   - bbrantley
 topics:
   - mobile
-  - mobile
   - emerging-tech
- 
-
 ---
 
 DigitalGov&#8217;s theme this month is [mobile moments]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}), which explores the impact of mobile applications in the federal government. For this post, I am examining the more than 300 mobile apps created by the federal government. An <a href="https://www.usa.gov/mobile-apps" target="_blank">updated list of federal mobile apps is on USA.gov</a>.

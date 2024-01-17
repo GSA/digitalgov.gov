@@ -11,8 +11,6 @@ topics:
   - product-and-project-management
   - mobile
   - content-strategy
-  - accessibility
-  - mobile
   - usability
   - human-centered-design
   - user-experience

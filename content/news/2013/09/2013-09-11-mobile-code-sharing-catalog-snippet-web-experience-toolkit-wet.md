@@ -9,7 +9,6 @@ topics:
   - software-engineering
   - mobile
   - innovation
-  - mobile
 ---
 
 <p>
