@@ -1,6 +1,6 @@
 ---
 title: USWDS Monthly Call - January 2024
-deck: Component-based plain language accessibility tests for the U.S. Web Design System
+deck: Component-based accessibility tests for the U.S. Web Design System
 kicker: USWDS
 summary: This month the Design System team will talk about the development and rollout of their new accessibility tests for components.
 host: U.S. Web Design System
