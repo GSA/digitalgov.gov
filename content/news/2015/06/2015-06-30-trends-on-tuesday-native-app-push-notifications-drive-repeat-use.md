@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - ios
+  - software-engineering
   - emerging-tech
 ---
 
