@@ -6,16 +6,15 @@
   border-left-style: solid;
   border-left-width: 5px;
   color: color("blue-70");
-  font-size: size("ui", "sm");
+  font-size: size("ui", "md");
   font-weight: font-weight("light");
   padding: units(3);
 
   a {
-    border-bottom-color: color("blue-70");
-    border-bottom-style: solid;
-    border-bottom-width: 5px;
     color: color("blue-70");
     text-decoration: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
 
     &:hover {
       @include u-text("no-underline");
@@ -42,11 +41,12 @@
 
   ol,
   ul {
-    margin: 0, 0;
-    padding-left: 205;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 20px;
 
     li {
-      margin-bottom: 2px;
+      margin-bottom: 16px;
     }
   }
   // For notes within list items
@@ -86,9 +86,8 @@
     color: color("red-60v");
 
     a {
-      border-left-color: color("red-40v");
-      border-left-style: solid;
-      border-left-width: 5px;
+      border-bottom-width: 1px;
+      border-bottom-style: solid;
       color: color("red-60v");
 
       &:hover {
@@ -109,10 +108,8 @@
     color: color("blue-cool-80");
 
     a {
-      border-left-color: color("blue-cool-50");
-      border-left-style: solid;
-      border-left-width: 5px;
-      color: color("blue-cool-70");
+      border-bottom-width: 1px;
+      border-bottom-style: solid;
 
       &:hover {
         color: color("blue-cool-80");
@@ -138,9 +135,9 @@
 }
 
 .dg-note__heading {
-  font-family: family("serif");
-  font-size: size("ui", "md");
-  font-weight: font-weight("light");
+  font-family: family("sans");
+  font-size: 20px;
+  font-weight: 200;
   margin-top: 0;
 }
 
