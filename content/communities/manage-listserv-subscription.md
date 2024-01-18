@@ -25,7 +25,7 @@ weight: 0
 
 Digital.gov, a service of the U.S. General Services Administration (GSA), manages several [communities of practice](https://digital.gov/communities/) for government employees and contractors. We manage these communities to fulfill [our mission](https://digital.gov/about/), which includes making open collaboration across government easier. We host events, host community mailing lists, and publish content to facilitate conversations among community members.
 
-{{< note "group" >}}
+{{< note variant="Who can join?" >}}
 All federal, state, local, tribal, or territorial government employees and contractors are eligible to join our communities. You must use your official government email account, in most cases a .gov or .mil account.
 {{< /note >}}
 
