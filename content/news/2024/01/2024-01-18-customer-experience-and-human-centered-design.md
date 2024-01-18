@@ -1,24 +1,29 @@
 ---
-source: ""
 date: 2024-01-18 14:46:00 -0500
-title: Customer experience and human centered design
-deck: The mission and the how-to
-summary: Customer experience is the application of design within a business
-  context to craft the human experience.
+title: "Customer experience and human-centered design"
+deck: "The mission and the how-to"
+summary: "Customer experience is the application of design within a business context to craft the human experience."
+
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - 18f-methods
+  - customer-experience
+
 # See all authors at https://digital.gov/authors
 authors:
   - ana-monroe
+
 slug: customer-experience-and-human-centered-design
+
 primary_image: hcd-guide-intro-1
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 As a designer working in a customer experience shop, I’m frequently asked how [customer experience](https://digital.gov/topics/customer-experience) and [design](https://digital.gov/topics/design) work together. After all, the two seem similar, but they’re not quite the same. Both center on humans and the human experience, but their core applications seem to vary. How do they relate? Where do they interact? Does one encompass the other?
 
 This is how I respond to those questions:
