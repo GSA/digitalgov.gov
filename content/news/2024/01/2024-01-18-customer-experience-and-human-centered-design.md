@@ -95,10 +95,10 @@ All references to specific brands, products, and/or companies are used only for 
 <h3 id="footnote-label">Footnotes</h3>
 
 <ol>
-<li id="fn1">1 High Resolution. 2017. Review of Episode #7: GV Design Partner, Daniel Burka, on Prototyping Your Way to Massive InfluencePodcast. Hosted by Bobby Ghoshal and Jared Erondu. YouTube. https://www.youtube.com/watch?v=TeE6Tx_nO94.<a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">High Resolution. 2017. Review of Episode #7: GV Design Partner, Daniel Burka, on Prototyping Your Way to Massive InfluencePodcast. Hosted by Bobby Ghoshal and Jared Erondu. YouTube. https://www.youtube.com/watch?v=TeE6Tx_nO94. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 
-<li id="fn2">2 Weaver, Jesse. 2022. “Resilience Is the Design Imperative of the 21st Century.” UX Magazine. August 17, 2022. https://uxmag.com/articles/resilience-is-the-design-imperative-of-the-21st-century.<a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
+<li id="fn2">Weaver, Jesse. 2022. “Resilience Is the Design Imperative of the 21st Century.” UX Magazine. August 17, 2022. https://uxmag.com/articles/resilience-is-the-design-imperative-of-the-21st-century. <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
 
-<li id="fn3">3 In addition to risk, anticipating and designing for unhappy paths presents an opportunity for resilience as well. If an organization does not anticipate negative possibilities, it “...has little to no resilience in the face of behaviors that diverge from that &#91;happy path&#92; scenario.” This means that “...if and when the system breaks down and&#91;/or&#92; people use it with ill intentions, &#91;the organization&#92;...will be slow to respond or possibly incapable of recovering, as &#91;it tries&#92; to react to a circumstance they’ve hardly considered.” https://uxmag.com/articles/resilience-is-the-design-imperative-of-the-21st-century<a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
+<li id="fn3">In addition to risk, anticipating and designing for unhappy paths presents an opportunity for resilience as well. If an organization does not anticipate negative possibilities, it “...has little to no resilience in the face of behaviors that diverge from that &#91;happy path&#92; scenario.” This means that “...if and when the system breaks down and&#91;/or&#92; people use it with ill intentions, &#91;the organization&#92;...will be slow to respond or possibly incapable of recovering, as &#91;it tries&#92; to react to a circumstance they’ve hardly considered.” https://uxmag.com/articles/resilience-is-the-design-imperative-of-the-21st-century. <a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
