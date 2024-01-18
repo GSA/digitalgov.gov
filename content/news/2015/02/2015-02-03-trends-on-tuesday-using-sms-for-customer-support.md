@@ -7,7 +7,7 @@ summary: 'Don&#8217;t forget, mobile first strategy can include text messaging a
 authors:
   - kdaniel
 topics:
-  - government-contact-centers
+  - contact-centers
   - mobile
   - emerging-tech
 ---

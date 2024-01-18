@@ -39,5 +39,5 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - agile
+  - software-engineering
 ---

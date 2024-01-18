@@ -13,7 +13,7 @@ deck: "If you’re one of the many federal employees carrying out your mission
 summary:
 # See all topics at https://digital.gov/topics
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - budgeting-and-performance
   - product-and-project-management
 slug: finding-post-award-balance-with-quality-assurance

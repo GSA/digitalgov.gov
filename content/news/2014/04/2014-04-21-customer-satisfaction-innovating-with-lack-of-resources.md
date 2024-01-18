@@ -8,7 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - customer-experience
-  - contact-center
+  - contact-centers
   - social-media
 ---
 

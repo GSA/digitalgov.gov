@@ -13,7 +13,7 @@ topics:
   - acquisition
   - product-and-project-management
   - content-strategy
-  - agile
+  - software-engineering
   - project-management
 
 # What source published this?
