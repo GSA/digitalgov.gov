@@ -85,11 +85,13 @@ Check out the [Human-centered Design Guide Series](https://digital.gov/guides/hc
 
 Also, explore [USDA's research plays](https://www.usda.gov/digital-strategy/research). Modify them to uncover customers’ pain points, goals, and behaviors. Then, use this knowledge to create better experiences for your customers.
 
-{{< box >}} **Disclaimer**
+---
+
+### Disclaimer
 
 All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
-{{< /box >}}
+---
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
