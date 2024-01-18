@@ -57,7 +57,7 @@ This is where design, the how-to of customer experience, comes in. Throughout th
 
 ## Loose engineering
 
-Customer experience teams use human-centered design to address current customer paths, as well as to loosely engineer future ones... but the term “loosely engineered” is an oxymoron. There’s no such thing as “loose engineering”; engineering is strictly practical and always firmly fixed in the possible, controlling all variables. When something breaks, engineers isolate variables and experiment until they address the issue. But you can’t engineer the future, because you can’t control all the variables.
+Customer experience teams use human-centered design to address current customer paths, as well as to loosely engineer future ones... but the term “loosely engineered” is an oxymoron. There’s no such thing as “loose engineering”—engineering is strictly practical and always firmly fixed in the possible, controlling all variables. When something breaks, engineers isolate variables and experiment until they address the issue. But you can’t engineer the future, because you can’t control all the variables.
 
 So, why should teams go through the work of design if it won’t result in a perfectly controlled, positive customer experience? Unfortunately, because an experience will be different for each person, it’s impossible to deliver a perfectly controlled customer experience in all situations. But that is one of the most compelling reasons to work on customer experience in the public sector. It’s a challenge, but it is one to embrace, not to run from.
 
