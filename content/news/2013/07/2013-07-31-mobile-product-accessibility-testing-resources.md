@@ -7,7 +7,7 @@ topics:
   - accessibility
   - mobile
   - user-testing-and-research
-  - mobile-apps
+  - mobile
   - usability-testing
   - user-experience
 ---

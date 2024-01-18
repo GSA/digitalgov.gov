@@ -6,11 +6,9 @@ summary: Welcome to the first Dear Search article, an occasional series where th
 authors:
   - dmccleskey
 topics:
-  - metrics
   - analytics
   - search
   - user-experience
-  
 ---
 
 > Welcome to the first _Dear Search_ article, an occasional series where the DigitalGov Search team addresses common search questions.

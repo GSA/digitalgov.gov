@@ -6,8 +6,8 @@ summary: 'The White House launched a hub for consumer-facing tools across the fe
 authors:
   - ori-hoffer
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - united-states-department-of-energy
 ---
 

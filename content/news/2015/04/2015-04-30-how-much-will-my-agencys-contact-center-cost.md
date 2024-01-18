@@ -6,9 +6,9 @@ summary: 'The federal government has caught the customer experience bug. We want
 authors:
   - tonya-beres
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-service
+  - customer-experience
   - Government Contact Center Council
   - government-contact-centers
 ---

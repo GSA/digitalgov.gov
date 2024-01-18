@@ -8,14 +8,7 @@ authors:
   - david-fern
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
-  - mobile
-  - mobile-apps
-  - mobile-testing
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-4
-  - native-app
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

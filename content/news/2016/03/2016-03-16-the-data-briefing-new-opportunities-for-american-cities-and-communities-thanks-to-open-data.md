@@ -6,10 +6,9 @@ summary: 'Open data and APIs* have not only transformed the federal government; 
 authors:
   - bbrantley
 topics:
-  - api
-  - internet-of-things
+  - application-programming-interface
   - open-data
-  - the-data-briefing
+  - emerging-tech
 ---
 
 Open data and APIs* have not only transformed the federal government; open data and APIs are also transforming tribal, state and local governments. Like federal agencies, some tribal, state and local governments are ahead of other governments in open data innovations. This situation reminds me of my earlier work with the Office of Intergovernmental Affairs in the General Services Administration. In 1998, I was a Presidential Management Fellow working on a project to catalog how state and local governments were using websites to deliver government information and services. {{< legacy-img src="2016/03/600-x-425-Coding-symbol-on-virtual-screen-about-developing-apps-or-websites-NicoElNino-iStock-Thinkstock-497983132.jpg" alt="Coding symbol on virtual screen about developing apps or websites." caption="" >}}
@@ -26,5 +25,5 @@ City Web would be a central place for the storage of digital data civic innovato
 
 The rise of the consumer Internet back in the mid-to-late 90s triggered a wave of government innovations. Open data, mobile apps and the Internet of Things promise to trigger another profound wave of government innovations. Both the Opportunity Project and City Web promise to be the precursors of a new generation of innovations and collaborations between the federal, tribal, state and local governments._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="http://www.infoq.com/presentations/API-Government" target="_blank">APIs in Government </a>for more information._
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal Government or any federal government agency.)_
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -14,8 +14,8 @@ summary:
 # See all topics at https://digital.gov/topics
 topics:
   - challenges
-  - performance
-  - product-management
+  - budgeting-and-performance
+  - product-and-project-management
 slug: finding-post-award-balance-with-quality-assurance
 # Controls how this page appears across the site
 # 0 -- hidden

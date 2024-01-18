@@ -8,7 +8,7 @@ authors:
 topics:
   - devops
   - governance
-  - product-management
+  - product-and-project-management
   - analytics
 
 ---

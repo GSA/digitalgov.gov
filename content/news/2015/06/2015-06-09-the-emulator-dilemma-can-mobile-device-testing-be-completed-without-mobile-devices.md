@@ -1,3 +1,4 @@
+
 ---
 slug: the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices
 date: 2015-06-09 11:10:14 -0400
@@ -9,17 +10,11 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile-testing
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-4
-  - native-app
-  - responsive-web-design
   - user-experience
 ---
 
-Government agencies have created a [variety of apps to meet the needs of the public]({{< ref "/topics/thursday-mobile-products" >}}). As you join in on the [mobile first trend]({{< ref "2013-09-30-mobile-first.md" >}}) and begin developing your shiny new mobile application, you will need to test it.
+Government agencies have created a [variety of apps to meet the needs of the public]({{< ref "/topics/mobile" >}}). As you join in on the [mobile first trend]({{< ref "2013-09-30-mobile-first.md" >}}) and begin developing your shiny new mobile application, you will need to test it.
 
 There are a basic set of questions that must be answered:
 

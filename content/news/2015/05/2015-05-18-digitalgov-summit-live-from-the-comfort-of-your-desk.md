@@ -8,8 +8,8 @@ authors:
   - apiazza
 topics:
   - customer-experience
-  - open-and-structured-content-models
-
+  - content-strategy
+  - customer-experience
 ---
 
 The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) with this mission and your needs in mind. The theme is open and [the agenda](https://web.archive.org/web/20150706193108/https://summit.digitalgov.gov/agenda/) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.

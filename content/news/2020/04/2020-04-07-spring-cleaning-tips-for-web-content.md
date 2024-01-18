@@ -11,18 +11,13 @@ summary: "This week, we’re providing a few tips for tidying up redundant, outd
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
-  - content
+  - digital-service-delivery
   - content-strategy
-  - metrics
   - plain-language
-  - 508
   - analytics
-  - dap
-  - digital-analytics-program
-  - section-508
+  - accessibility
   - seo
-  - this-weeks-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

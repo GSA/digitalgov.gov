@@ -7,9 +7,9 @@ authors:
   - jherman
 topics:
   - social-media
-  - api
-  - internet-of-things
-  - mobile-gov
+  - application-programming-interface
+  - emerging-tech
+  - mobile
   - socialgov
 
 primary_image: "gsa-mentor-protege-on-mobile-phone-comp"

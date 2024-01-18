@@ -6,10 +6,7 @@ summary: 'You cannot improve your digital outreach without data. Since 2012, the
 authors:
   - awichman
 topics:
-  - metrics
   - analytics
-  - dap
-  - digital-analytics-program
   - podcast
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 

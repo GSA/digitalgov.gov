@@ -6,14 +6,11 @@ summary: Content audits can be tedious. Two content designers discuss why we do 
 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
-  - content-strategy
   - seo
   - accessibility
   - plain-language
-  - plain-language-community-of-practice
-  - web-content-managers-forum
-  - metrics
+  - content-strategy
+  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - michelle-rago

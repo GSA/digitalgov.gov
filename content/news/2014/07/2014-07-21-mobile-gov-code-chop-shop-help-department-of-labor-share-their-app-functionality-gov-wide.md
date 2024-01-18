@@ -8,10 +8,7 @@ authors:
   - michael-pulsifer
 topics:
   - code
-  - mobile  
-  - mobile-apps
-  - mobile-code-catalog
-  - mobile-gov
+  - mobile
   - open-source
   
 ---

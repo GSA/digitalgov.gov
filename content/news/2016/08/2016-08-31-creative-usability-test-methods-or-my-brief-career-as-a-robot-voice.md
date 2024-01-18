@@ -8,13 +8,13 @@ authors:
 topics:
   - user-testing-and-research
   - customer-experience
-  - customer-service
+  - customer-experience
   - Government Contact Center Council
   - government-contact-centers
   - usability-testing
   - user-experience
   - user-experience-community-of-practice
-  - user research
+  - research
   
 ---
 

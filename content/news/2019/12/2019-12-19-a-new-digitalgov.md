@@ -10,7 +10,7 @@ deck: "It's now easier to find the tools and resources you need to make digital 
 summary: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
 
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - design
 
 # see all authors at https://digital.gov/authors

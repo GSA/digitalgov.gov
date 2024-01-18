@@ -8,11 +8,9 @@ authors:
 topics:
   - mobile
   - social-media
-  - strategy
-  - aoi
-  - mobile
-  - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - content-strategy
+  - user-experience
+  - emerging-tech
 
 ---
 

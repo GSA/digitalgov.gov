@@ -9,7 +9,7 @@ topics:
   - design
   - accessibility
   - mobile
-  - content
+  - content-strategy
   - accessibility
   - user-experience
 featured_image:

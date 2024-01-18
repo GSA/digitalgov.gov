@@ -17,7 +17,7 @@ This week, President Obama will [travel to SxSW (South by Southwest)](https://ww
   * [USPTO’s PatentsView]({{< ref "2015-09-23-the-data-briefing-surrounded-by-fields-of-federal-data-u-s-patent-and-trademark-offices-patentsview.md" >}})
   * [Education’s New College Scorecard]({{< ref "2015-09-18-under-the-hood-building-a-new-college-scorecard-with-students.md" >}})
   * [FEMA’s new Data Visualization Tool]({{< ref "2015-07-24-free-the-data-femas-new-data-visualization-tool.md" >}})
-  * APIs from [FEC]({{< ref "2015-07-09-introducing-the-federal-election-commissions-first-api.md" >}}) , [Labor]({{< ref "2015-07-01-safety-and-transparency-through-data.md" >}}) and [NASA]({{< ref "2015-05-27-the-api-briefing-nasa-builds-api-nasa-gov-to-launch-more-apis-to-developers.md" >}}) ([to name a few]({{< ref "/topics/wednesday-api-briefing" >}}))
+  * APIs from [FEC]({{< ref "2015-07-09-introducing-the-federal-election-commissions-first-api.md" >}}) , [Labor]({{< ref "2015-07-01-safety-and-transparency-through-data.md" >}}) and [NASA]({{< ref "2015-05-27-the-api-briefing-nasa-builds-api-nasa-gov-to-launch-more-apis-to-developers.md" >}}) ([to name a few]({{< ref "/topics/application-programming-interface" >}}))
 
 There is also more to come (and more that’s needed). This month on DigitalGov we’ll take a look at what else agencies are working on, including:
 

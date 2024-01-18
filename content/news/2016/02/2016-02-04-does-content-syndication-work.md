@@ -6,8 +6,7 @@ summary: 'You may have heard some chatter about syndication but thought to yours
 authors:
   - christen-geiler
 topics:
-  - content
-  - content-syndication
+  - content-strategy
   - mobile
 ---
 

@@ -6,8 +6,8 @@ summary: 'FDA’s &ldquo;The Real Cost&rdquo; campaign aims to be edgy, just lik
 authors:
   - stacey-palosky
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - social-media
   - social-media
 ---

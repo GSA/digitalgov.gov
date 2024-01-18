@@ -18,7 +18,7 @@ summary: 18F partnered with the Centers for Medicare and Medicaid Services (CMS)
   product owner of eAPD.
 # See all topics at https://digital.gov/topics
 topics:
-  - product-management
+  - product-and-project-management
   
 slug: 18f-checks-in-with-jerome-lee-and-the-eapd-project
 # Controls how this page appears across the site

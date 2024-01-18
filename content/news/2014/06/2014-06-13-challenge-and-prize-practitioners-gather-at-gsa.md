@@ -6,13 +6,10 @@ summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov te
 authors:
   - ktrebon
 topics:
-  - challenges
-  - code
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
-  - crowdsourcing
   - challenges-and-prize-competitions
+  - crowdsourcing-and-citizen-science
   - innovation
+  - software-engineering
 ---
 
 Got [innovation]({{< ref "/topics/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!

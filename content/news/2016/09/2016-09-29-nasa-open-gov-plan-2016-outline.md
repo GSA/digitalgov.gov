@@ -6,20 +6,17 @@ summary: "Here is the outline for our 2016 Open Government Plan. Let us know wha
 authors:
   - beth-beck
 topics:
-  - api
-  - challenges
-  - code
-  - content
+  - application-programming-interface
+  - software-engineering
+  - content-strategy
   - crowdsourcing-and-citizen-science
   - governance
-  - product-management
+  - product-and-project-management
   - mobile
-  - strategy
   - challenges-and-prize-competitions
-  - citizen-science
-  - code
   - innovation
-  - mobile-apps
+  - open-data
+  - open-government
 ---
 
 > Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: [https://github.com/nasa/Open-Gov-Plan-v4](https://github.com/nasa/Open-Gov-Plan-v4)

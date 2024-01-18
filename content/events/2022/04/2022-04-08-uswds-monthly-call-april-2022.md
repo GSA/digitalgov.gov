@@ -13,7 +13,7 @@ topics:
   - design
   - accessibility
   - mobile
-  - 21st-century-idea
+  - digital-service-delivery
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

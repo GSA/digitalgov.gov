@@ -6,7 +6,8 @@ summary: 'Tuesday, October 7 at 2pm ET, the National Library of Medicine at the 
 authors:
   - david-hale
 topics:
-  - api
+  - application-programming-interface
+  - open-data
   - open-source
 ---
 

@@ -6,10 +6,10 @@ summary: 'Using contact centers to deliver digital services is an emerging area 
 authors:
   - mary-ann-monroe
 topics:
-  - product-management
+  - product-and-project-management
   - aoi
   - customer-experience
-  - customer-satisfaction
+  - customer-experience
   - government-contact-centers
 ---
 

@@ -7,12 +7,12 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - metrics
+  - analytics
   - mobile
-  - mobile-apps
-  - responsive-web-design
+  - mobile
+  - mobile
   - security
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 A new report from the Mobile Ecosystem Forum shows that [most users delete apps because of security concerns](http://www.marketingcharts.com/online/1-in-2-mobile-users-say-theyve-deleted-an-app-over-privacy-concerns-69647/attachment/mefavg-actions-taken-response-to-app-privacy-concerns-aug2016/).

@@ -7,9 +7,9 @@ deck: 'Simple planning steps to successfully adapt content into multiple languag
 authors:
   - lgodfrey
 topics:
-  - content
-  - writing
-  - content
+  - content-strategy
+  - communication
+  - content-strategy
   - multilingual
 featured_image:
   uid: translate-keyboard

@@ -7,9 +7,8 @@ authors:
   - brandon-kopp
 topics:
   - design
-  - user-testing-and-research
-  - prototype
-  - usability-testing
+  - research
+  - usability
   - user-experience
 ---
 

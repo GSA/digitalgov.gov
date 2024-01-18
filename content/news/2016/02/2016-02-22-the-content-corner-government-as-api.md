@@ -6,15 +6,8 @@ summary: 'Here at DigitalGov, we generally focus on federal governmental digital
 authors:
   - tyrus-manuel
 topics:
-  - api
-  - content
-  - api
-  - content-management-system
-  - content-models
-  - COPE
-  - open-and-structured-content-models
-  - sites
-  - the-content-corner
+  - application-programming-interface
+  - content-strategy
 ---
 
 Here at DigitalGov, we generally focus on federal governmental digital efforts within the U.S. It is where we live and operate, so it makes sense, but many governments across the world struggle with the same issues and leverage technology as a common solution. When I came across an article where Australia announced its “[government as an API](https://www.govcms.gov.au/about/news/govcms-announces-implementation-omni-channel-and-government-api)” platform was available, it seemed like a great opportunity to see how another country is tackling [structured and open content]({{< ref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}}).
@@ -42,4 +35,4 @@ Again, I have not seen this work, but as opposed to syndication, which is great 
 
 One of our primary missions in the public sector is to provide that single (consistent) source of truth, and with our continued efforts with structured content, [APIs]({{< ref "2015-06-24-the-api-briefing-government-apis-in-a-post-apps-world.md" >}}) and content models I feel we are closer and closer to achieving that goal. Just as when I spend time with my U.S. digital government peers, I always am inspired and invigorated by the efforts of other countries and their accomplishments. You go, Australia!
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

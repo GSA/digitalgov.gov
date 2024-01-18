@@ -24,11 +24,11 @@ summary: Since 2012, over 200 Presidential Innovation Fellows have supported
   program’s impact and community since it launched.
 # See all topics at https://digital.gov/topics
 topics:
-  - ai
+  - artificial-intelligence
   - design
-  - user-centered-design
+  - human-centered-design
   - professional-development
-  - strategy
+  - content-strategy
 slug: gsa-celebrates-the-10th-anniversary-of-the-presidential-innovation-fellows-pif-program
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -7,16 +7,13 @@ authors:
   - david-fern
 topics:
   - code
-  - content
+  - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - user-experience
   - code
   - innovation
-  - mobile
-  - mobile-apps
-  - native-apps
 
 ---
 

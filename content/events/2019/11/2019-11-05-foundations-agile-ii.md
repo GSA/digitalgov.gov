@@ -20,7 +20,7 @@ end_date: 2019-11-05 16:30:00 -0500
 topics: 
   - agile
   - software-engineering
-  - product-management
+  - product-and-project-management
   - kanban
   - scrum
 

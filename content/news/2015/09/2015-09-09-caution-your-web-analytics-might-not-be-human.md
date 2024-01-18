@@ -6,10 +6,8 @@ summary: 'A Digital Analytics Program (DAP) user recently contacted me with an o
 authors:
   - tlowden
 topics:
-  - metrics
   - analytics
-  - dap
-  - digital-analytics-program
+  - open-data
 ---
 
 A <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program (DAP)</a> user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing, and he couldn’t figure out why the numbers would be so different.

@@ -8,9 +8,9 @@ authors:
   - jonathan-rubin
 
 topics:
+  - communication
+  - multimedia
   - social-media
-  - video
-  - writing
 
 ---
 

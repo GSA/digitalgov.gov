@@ -6,7 +6,7 @@ summary: 'These are the elements you should include in your federal API release.
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - code
 ---
 

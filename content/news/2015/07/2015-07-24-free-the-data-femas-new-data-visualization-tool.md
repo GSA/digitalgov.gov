@@ -7,7 +7,7 @@ authors:
   - craig-fugate
 topics:
   - data-visualization
-  - mobile-apps
+  - mobile
 ---
 
  

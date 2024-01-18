@@ -10,6 +10,6 @@ logo: plainlanguage
 topics:
   - plain-language
   - accessibility
-  - writing
+  - communication
 slug: plain-language
 ---

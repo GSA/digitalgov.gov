@@ -13,7 +13,7 @@ topics:
   - accessibility
   - code
   - design
-  - product-management
+  - product-and-project-management
   - user-experience
   - open-source
 

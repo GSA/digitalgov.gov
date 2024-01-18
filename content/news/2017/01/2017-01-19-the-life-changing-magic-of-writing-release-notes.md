@@ -6,10 +6,8 @@ summary: 'A key part of agile development is constantly shipping new features. T
 authors:
   - noah-manger
 topics:
-  - product-management
-  - strategy
-  - agile
-  - workflows
+  - product-and-project-management
+  - content-strategy
   - best-practices
 ---
 

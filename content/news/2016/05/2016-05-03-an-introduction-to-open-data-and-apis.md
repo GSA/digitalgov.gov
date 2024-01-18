@@ -6,9 +6,8 @@ summary: 'The federal workplace is abuzz these days with talk about open data an
 authors:
   - john-paul
 topics:
-  - api
-  - code
-  - data-gov
+  - application-programming-interface
+  - software-engineering
   - open-data
 
 ---

@@ -6,14 +6,11 @@ summary: 'We have received an amazing response to the U.S. Digital Registry, our
 authors:
   - jparcell
 topics:
-  - mobile
   - social-media
-  - api
-  - dap
-  - digital-analytics-program
-  - mobile-apps
-  - mobile-friendly
-  - mobile-gov
+  - application-programming-interface
+  - analytics
+  - mobile
+  - mobile
   - social-media
   - us-digital-registry
  

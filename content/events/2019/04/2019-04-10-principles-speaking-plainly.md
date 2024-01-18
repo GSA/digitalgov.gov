@@ -19,8 +19,7 @@ end_date: 2019-04-10 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - plain-language
-  - writing
-  - plain-language-community-of-practice
+  - communication
 
 # see all authors at https://digital.gov/authors
 authors: 

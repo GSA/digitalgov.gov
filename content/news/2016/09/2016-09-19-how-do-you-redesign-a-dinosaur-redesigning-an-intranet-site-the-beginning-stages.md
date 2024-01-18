@@ -7,19 +7,15 @@ authors:
   - karla-blaine
 topics:
   - accessibility
-  - content
-  - design
-  - product-management
-  - strategy
-  - user-testing-and-research
-  - content
+  - content-strategy
+  - open-data
+  - product-and-project-management
   - content-strategy
   - customer-experience
-  - prototype
+  - design
   - usability
-  - usability-testing
   - user-experience
-  - user research
+  - research
 primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"
 
 ---

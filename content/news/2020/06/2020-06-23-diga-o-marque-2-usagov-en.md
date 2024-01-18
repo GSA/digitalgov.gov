@@ -20,7 +20,7 @@ summary: ""
 topics: 
   - accessibility
   - contact-centers
-  - content
+  - content-strategy
   - design
   - multilingual
   - user-experience

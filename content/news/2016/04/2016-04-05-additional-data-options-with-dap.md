@@ -7,12 +7,9 @@ authors:
   - ilee
 topics:
   - code
-  - metrics
+  - open-data
   - analytics
-  - code
-  - dap
-  - digital-analytics-program
-  - metrics
+  - software-engineering
 ---
 
 Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP:

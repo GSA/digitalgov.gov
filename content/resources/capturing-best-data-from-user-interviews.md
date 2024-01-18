@@ -22,6 +22,6 @@ source: 18f
 # see all topics at https://digital.gov/topics
 topics:
   - research
-  - user-research
+  - research
 # Make it better ♥
 ---

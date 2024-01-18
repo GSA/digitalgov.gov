@@ -9,7 +9,7 @@ topics:
   - code
   - mobile
   - innovation
-  - mobile-gov
+  - mobile
 ---
 
 <p>

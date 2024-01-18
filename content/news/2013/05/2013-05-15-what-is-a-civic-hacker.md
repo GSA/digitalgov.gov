@@ -7,7 +7,7 @@ authors:
   - lnelson
 topics:
   - code
-  - product-management
+  - product-and-project-management
   - national-day-of-civic-hacking
 ---
 

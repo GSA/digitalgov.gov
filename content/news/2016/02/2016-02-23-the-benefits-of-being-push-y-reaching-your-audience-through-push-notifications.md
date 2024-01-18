@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - mobile-apps
 ---
 
 Need to get in touch with your audience? Give them a little push.

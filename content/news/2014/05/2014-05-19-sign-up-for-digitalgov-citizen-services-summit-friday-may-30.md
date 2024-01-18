@@ -11,11 +11,11 @@ authors:
   - apiazza
   - jonathan-rubin
 topics:
-  - api
+  - application-programming-interface
   - challenges
-  - content
-  - product-management
-  - metrics
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - mobile
   - social-media
   - user-experience

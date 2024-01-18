@@ -14,7 +14,7 @@ summary: In this blog, we walk you through our planning and implementation
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - 21st-century-idea
+  - digital-service-delivery
   - search-engine-optimization
 slug: planning-and-implementing-a-search-engine-for-a-redesigned-federal-government-website
 # Controls how this page appears across the site

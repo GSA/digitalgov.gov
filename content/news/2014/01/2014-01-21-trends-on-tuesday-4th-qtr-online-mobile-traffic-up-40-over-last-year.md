@@ -10,7 +10,7 @@ topics:
   - social-media
   - mobile
   - social-media
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/12/mobile-devices-testing-app.jpeg" alt="Many smartphones and tablets on a table displaying the same app." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/mobile-devices-testing-app.jpeg)According to the [IBM Digital Analytics Benchmark report](http://www-01.ibm.com/software/marketing-solutions/benchmark-hub/), overall 4th quarter online sales were up 10.3% year over year. Here were some of the key drivers:

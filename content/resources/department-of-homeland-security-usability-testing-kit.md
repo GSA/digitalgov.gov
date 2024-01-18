@@ -9,7 +9,7 @@ topics:
   - usability-testing
   - usability
   - user-experience
-  - user-research
+  - research
   - customer-experience
 # See all authors at https://digital.gov/authors
 authors:

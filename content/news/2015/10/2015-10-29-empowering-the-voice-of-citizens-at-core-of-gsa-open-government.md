@@ -6,10 +6,9 @@ summary: ' We are proud to announce our commitment to the third U.S. National Ac
 authors:
   - jherman
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
   - data-gov
-  - national-action-plan-on-open-government
   - open-government
 ---
 

@@ -13,7 +13,7 @@ authors:
 topics:
   - code
   - social-media
-  - api
+  - application-programming-interface
   - socialgov
 
 ---

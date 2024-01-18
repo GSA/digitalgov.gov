@@ -6,7 +6,7 @@ summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized rec
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - mobile
   - social-media
   - user-experience
@@ -14,17 +14,16 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - content
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
+  - crowdsourcing-and-citizen-science
+  - content-strategy
+  - crowdsourcing-and-citizen-science
   - mobile
-  - mobile-apps
-  - mobile-gov
+  - mobile
+  - mobile
   - social-media
   - socialgov
-  - the-content-corner
-  - user-generated-content
+  - content-strategy
 
 ---
 
@@ -52,7 +51,7 @@ Just a few other benefits of UGC include:
 
 > _&#8220;[Authenticity is key &#8211; if you don’t believe what someone is telling you and you don’t think they are being genuine or telling the truth, then it means nothing.](http://www.socialmediatoday.com/marketing/influencer-marketing-collaboration-not-transaction)&#8221; – Dan Neale, Social Media Today_
 
-As previously stated on [The Content Corner]({{< ref "/topics/the-content-corner" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
+As previously stated on [The Content Corner]({{< ref "/topics/content-strategy" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
 
 There are many ideas for how to implement user-generated content into your content strategy. I’ve gathered several case studies from across the government, to provide a glimpse at some of the many ways agencies are seeing the value in UGC.
 
@@ -88,4 +87,4 @@ The <a href="http://www.fs.fed.us/">U.S. Forest Service</a> and <a href="http://
 
 There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich).
   
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -8,7 +8,7 @@ authors:
 topics:
   - user-experience
   - usability
-  - user-research
+  - research
   - usability-testing
 
 source: '18f'

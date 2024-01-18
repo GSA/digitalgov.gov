@@ -9,7 +9,7 @@ topics:
   - data-gov
   - innovation
   - open-data
-  - the-data-briefing
+  - emerging-tech
 
 ---
 

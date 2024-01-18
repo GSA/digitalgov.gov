@@ -5,10 +5,9 @@ summary: The Federal Communicators Network community shares how agencies can
   approach digital advertising.
 # See all topics at https://digital.gov/topics
 topics:
-  - fcn
-  - metrics
+  - communication
+  - analytics
   - social-media
-  - marketing
 # See all authors at https://digital.gov/authors
 authors:
   - raashee-gupta-erry

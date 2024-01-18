@@ -10,10 +10,10 @@ topics:
   - mobile
   - user-testing-and-research
   - mobile
-  - mobile-apps
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
-  - prototype
+  - mobile
+  - mobile
+  - mobile
+  - design
   - user-experience
 ---
 

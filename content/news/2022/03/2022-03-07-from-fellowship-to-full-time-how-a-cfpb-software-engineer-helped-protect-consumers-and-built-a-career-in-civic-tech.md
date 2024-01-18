@@ -9,7 +9,7 @@ topics:
   - software-engineering
   - user-experience
   - accessibility
-  - 21st-century-idea
+  - digital-service-delivery
   - design
 
 # See all authors at https://digital.gov/authors
@@ -31,6 +31,7 @@ When thinking about a technology career, not many people envision themselves wor
 
 {{< img-right src="anselm-bradford" >}}
 
+In continuing our series of profiles of public interest technologists in government, I talked to Ans Bradford, a front-end web developer at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) (CFPB), about his journey in civic tech and his impactful work at CFPB.
 In continuing our series of profiles of public interest technologists in government, I talked to Ans Bradford, a front-end web developer at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) (CFPB), about his journey in civic tech and his impactful work at CFPB.
 
 CFPB is a federal agency that provides resources for consumers to make informed financial choices when choosing mortgages, student loans, credit cards, and other products, and it also protects consumers from unlawful predatory financial practices within those and related financial markets. We are excited to partner with CFPB in our upcoming inaugural cohort of U.S. Digital Corps Fellows.

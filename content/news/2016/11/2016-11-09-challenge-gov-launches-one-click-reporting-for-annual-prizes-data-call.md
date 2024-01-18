@@ -7,7 +7,7 @@ authors:
   - tammy-white
 topics:
   - challenges
-  - product-management
+  - product-and-project-management
   - challenge-gov
   - challenges-and-prize-competitions
 ---

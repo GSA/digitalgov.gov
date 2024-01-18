@@ -8,11 +8,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - mobile
-  - mobile-testing
-  - mobile-user-experience-guidelines
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
 ---
 
 Let the mic drop!

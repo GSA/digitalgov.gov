@@ -18,12 +18,8 @@ end_date: 2018-11-07 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - a-b-testing
-  - metrics
+  - research
   - analytics
-  - dap
-  - digital-analytics-program
-
 # see all authors at https://digital.gov/authors
 authors: 
   - kelley-holden

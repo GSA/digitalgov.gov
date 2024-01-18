@@ -9,7 +9,7 @@ topics:
   - communication
   - artificial-intelligence
   - rpa
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
   - plain-language
 
 # See all authors at https://digital.gov/authors

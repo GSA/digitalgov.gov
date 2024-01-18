@@ -10,7 +10,7 @@ summary: >
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - strategy
+  - content-strategy
   - design
   - professional-development
 # See all authors at https://digital.gov/authors

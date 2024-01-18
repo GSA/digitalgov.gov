@@ -6,7 +6,7 @@ summary: ' As part of its ongoing effort to enhance customer experience for curr
 authors:
   - lawton-king
 topics:
-  - product-management
+  - product-and-project-management
   - government-contact-centers
 ---
 

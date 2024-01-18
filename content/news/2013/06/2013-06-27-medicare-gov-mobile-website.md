@@ -7,9 +7,6 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - mobile-gov
-  - responsive-web-design
-  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2013/06/medicare.gov-mobile-site.jpg" alt="Medicare.gov mobile website screenshot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/medicare.gov-mobile-site.jpg)The [Centers for Medicare and Medicaid Services](http://cms.gov/) redesigned [Medicare.gov](http://www.medicare.gov) as a new and improved responsive mobile website for their users (beneficiaries, caregivers and advocates). The users of the Medicare.gov can

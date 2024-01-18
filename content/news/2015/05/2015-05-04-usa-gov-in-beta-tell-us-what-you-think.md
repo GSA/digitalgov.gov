@@ -6,14 +6,13 @@ summary: ' Thirteen years in digital is an eon, and on the eve of its 13th birth
 authors:
   - sarah-crane
 topics:
-  - content
-  - product-management
-  - api
-  - dap
-  - digital-analytics-program
-  - GobiernoUSAgov
-  - government-contact-centers
-  - personas
+  - content-strategy
+  - product-and-project-management
+  - application-programming-interface
+  - analytics
+  - multilingual
+  - contact-centers
+  - research
   - social-media
 ---
 

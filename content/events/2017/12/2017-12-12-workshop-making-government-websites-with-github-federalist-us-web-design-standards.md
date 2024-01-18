@@ -21,7 +21,7 @@ topics:
   - code
   - design
   - open-source
-  - draft-web-design-standards
+  - design
 
 # see all authors at https://digital.gov/authors
 authors: 

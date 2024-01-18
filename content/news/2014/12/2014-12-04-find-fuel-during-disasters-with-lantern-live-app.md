@@ -8,8 +8,6 @@ authors:
 topics:
   - mobile
   - mobile
-  - native-app
-  - thursday-mobile-products
   - united-states-department-of-energy
 ---
 

@@ -8,10 +8,10 @@ authors:
   - gray-brooks
   - ryan-day
 topics:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
   - code
-  - product-management
+  - product-and-project-management
   - open-source
 featured_image:
   uid: q-and-a

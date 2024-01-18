@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 topics:
   - code
-  - content
+  - content-strategy
   - design
 ---
 

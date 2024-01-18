@@ -6,12 +6,9 @@ summary: Social Media Community of Practice developed a set of baseline social m
 authors:
   - sarah-kaczmarek
 topics:
-  - metrics
+  - analytics
+  - data-visualization
   - social-media
-  - infographic
-  - social-media-metrics
-  - socialgov
-  - socialgov-community
 ---
 
 [{{< legacy-img src="2014/03/GAO-Social-Media-Rocket-quote_250x189.png" alt="image of rocketship with text: Our social media communications have grown quickly, both in reach and the number and type of platforms we use" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/GAO-Social-Media-Rocket-quote_250x189.png)Social Media Community of Practice developed a set of [baseline social media metrics]({{< ref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}) to help you assess whether your efforts are achieving the results you want. How do you take the next step and present your data in a way that tells a comprehensive story and grabs your stakeholders’ attention?

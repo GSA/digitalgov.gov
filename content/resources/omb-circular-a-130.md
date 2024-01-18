@@ -23,5 +23,5 @@ weight: 2
 topics:
   - security
   - governance
-  - product-management
+  - product-and-project-management
 ---

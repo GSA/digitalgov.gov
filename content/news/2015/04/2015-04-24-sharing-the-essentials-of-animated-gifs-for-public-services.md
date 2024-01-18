@@ -6,10 +6,10 @@ summary: 'Animated gifs are increasingly found throughout the digital experience
 authors:
   - jherman
 topics:
-  - content
+  - content-strategy
   - social-media
   - accessibility
-  - GobiernoUSAgov
+  - multilingual
   - multimedia
   - social-media
   - socialgov

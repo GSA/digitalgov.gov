@@ -8,8 +8,8 @@ authors:
 topics:
   - challenges
   - code
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - mobile
   - social-media
   - user-experience

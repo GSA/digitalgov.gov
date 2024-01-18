@@ -6,9 +6,9 @@ summary: '&ldquo;Hey, Computer, how do I access my public services?&rdquo;  Citi
 authors:
   - jherman
 topics:
-  - content
+  - content-strategy
   - emerging-tech
-  - product-management
+  - product-and-project-management
   - user-experience
   - artificial-intelligence
   - customer-experience

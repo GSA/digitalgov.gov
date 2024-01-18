@@ -7,7 +7,7 @@ authors:
   - georgia-gallavin
 topics:
   - user-testing-and-research
-  - customer-satisfaction
+  - customer-experience
   - digitalgov-user-experience-program
   - usability
   - user-experience

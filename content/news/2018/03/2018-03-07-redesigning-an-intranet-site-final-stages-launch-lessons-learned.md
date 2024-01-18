@@ -8,18 +8,13 @@ authors:
 topics:
   - accessibility
   - design
-  - product-management
-  - strategy
-  - user-testing-and-research
-  - content
+  - product-and-project-management
   - content-strategy
   - customer-experience
-  - prototype
   - usability
-  - usability-testing
   - user-experience
-  - user-research
-  
+  - research
+
 featured_image:
   uid: featured-301-x-212-nih-logo-national-institutes-of-health
   alt: 'NIH logo'

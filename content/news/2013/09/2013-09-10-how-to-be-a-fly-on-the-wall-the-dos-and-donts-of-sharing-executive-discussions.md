@@ -6,8 +6,8 @@ summary: 'A sure way to drive employees crazy is to never share what executives 
 authors:
   - david-hebert
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - social-media
 ---
 

@@ -6,7 +6,7 @@ summary: Spread the Word about Clinical Trials! As we have recently seen with th
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
 ---
 
 Spread the Word about Clinical Trials!

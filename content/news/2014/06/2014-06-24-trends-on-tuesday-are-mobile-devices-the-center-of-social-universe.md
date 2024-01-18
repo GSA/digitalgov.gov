@@ -6,14 +6,12 @@ summary: 'Mobile devices are moving closer to the center of the social universe,
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
   - social-media
-  - crowdsourcing
-  - internet-of-things
+  - crowdsourcing-and-citizen-science
+  - emerging-tech
   - mobile
-  - mobile-apps
-  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 

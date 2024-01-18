@@ -6,13 +6,13 @@ summary: Multilingual does not always mean multiple accounts or websites. Increa
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
   - analytics
   - content-strategy
   - metadata
   - multilingual
-  - responsive-web-design
+  - mobile
   - social-media
 ---
 
@@ -26,7 +26,7 @@ WDL is a project of the Library of Congress and is supported by the United Natio
 
 ## The WDL Website
 
-Jason Yasner, Operations Manager for WDL, said the project has been very well-received around the world. In 2014, the site had 3.3 million unique visitors, 3.9 million visits, and 25.1 million pageviews. The top 10 countries for unique visitors in 2014 were the United States, Brazil, Spain, Mexico, United Kingdom, Germany, France, China, Argentina, and the Russian Federation. Usage has since expanded significantly following the introduction of a revamped user interface (UI) in November 2014 that offers new features and that is [optimized for mobile]({{< ref "/topics/responsive-web-design" >}}) and tablet access.
+Jason Yasner, Operations Manager for WDL, said the project has been very well-received around the world. In 2014, the site had 3.3 million unique visitors, 3.9 million visits, and 25.1 million pageviews. The top 10 countries for unique visitors in 2014 were the United States, Brazil, Spain, Mexico, United Kingdom, Germany, France, China, Argentina, and the Russian Federation. Usage has since expanded significantly following the introduction of a revamped user interface (UI) in November 2014 that offers new features and that is [optimized for mobile]({{< ref "/topics/mobile" >}}) and tablet access.
 
 Yasner noted that there are several Spanish-speaking countries on the list, and in past years, Spain was the number one country with Brazil and United States vying for number two. The WDL actively reviews their content to better serve their audiences.
 

@@ -6,14 +6,14 @@ summary: 'While many people tout the death of the home page, it’s still an imp
 authors:
   - michelle-chronister
 topics:
-  - content
+  - content-strategy
   - design
-  - metrics
+  - analytics
   - user-testing-and-research
   - user-experience
-  - customer-satisfaction
-  - GobiernoUSAgov
-  - responsive-web-design
+  - customer-experience
+  - multilingual
+  - mobile
   - usability-case-study
 ---
 

@@ -6,12 +6,11 @@ summary: 'We’ve recently added two powerful tools to the U.S. Web Design Stand
 authors:
   - shawn-allen
 topics:
-  - code
+  - software-engineering
   - design
-  
   - open-source
-  - responsive-web-design
-  - user-centered-design
+  - mobile
+  - human-centered-design
 ---
 
 We’ve recently added two powerful tools to the [U.S. Web Design Standards](https://standards.usa.gov/) development workflow that allow us to preview, test, and publish the Standards code more quickly and easily.

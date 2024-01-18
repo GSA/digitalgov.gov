@@ -6,12 +6,9 @@ summary: 'On September 6, 2013 at 11:27 p.m., EDT., viewers tuned in through the
 authors:
   - byrhonda-lyons
 topics:
-  - content
-  - metrics
+  - content-strategy
+  - analytics
   - mobile
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-ux-guideline-5
-  - responsive-web-design
 ---
 
 {{< legacy-img src="2014/10/600-x-311-Report-as-concept-Violka08-iStock-Thinkstock-463805923.jpg" alt="Metrics report as concept" caption="Violka08, iStock, Thinkstock" >}} 

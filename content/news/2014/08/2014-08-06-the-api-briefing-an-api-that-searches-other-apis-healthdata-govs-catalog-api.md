@@ -6,11 +6,9 @@ summary: 'As federal agencies release APIs on an almost daily basis, keeping tra
 authors:
   - bbrantley
 topics:
-  - api
-  - code
-  - api
+  - application-programming-interface
+  - software-engineering
   - data-gov
-  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="API letter blocks" caption="" >}}

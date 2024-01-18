@@ -6,14 +6,12 @@ summary: ' The National Day of Civic Hacking is actually a weekend. An awe-inspi
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - code
-  - writing
-  - challenge-gov
+  - challenges-and-prize-competitions
+  - software-engineering
+  - communication
   - data-gov
   - innovation
   - open-data
-  - national-day-of-civic-hacking
 ---
 
 {{< legacy-img src="2014/05/600-x-212-National-Day-of-Civic-Hacking-2014-facebook-banner-logo.jpg" alt="A Facebook banner that reads: National Day of Civic Hacking: To improve our communities and the governments that serve them. Join us May 31st - June 1st, 2014" >}}

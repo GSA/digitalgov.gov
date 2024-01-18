@@ -6,11 +6,10 @@ summary: 'How the U.S. Digital Service worked with students, families, schools, 
 authors:
   - lisa-gelobter
 topics:
-  - code
-  - agile
-  - api
+  - software-engineering
+  - application-programming-interface
   - open-data
-  - prototype
+  - design
   - user-experience
 
 ---

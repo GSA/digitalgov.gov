@@ -8,8 +8,8 @@ authors:
   - kaitlin-devine
 
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - software-engineering
   - agile
   - project-management

@@ -5,7 +5,7 @@ title: "Using the do and don'ts table"
 summary: "What to do and what not to do, that is the question"
 topics:
   - user-experience
-  - user-research
+  - research
 authors:
   - andreanocesigritz
 ---

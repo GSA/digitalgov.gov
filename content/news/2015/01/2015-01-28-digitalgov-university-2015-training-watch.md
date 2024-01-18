@@ -10,11 +10,11 @@ topics:
   - user-experience
   - customer-experience
   - design
-  - content
+  - content-strategy
   - plain-language
   - analytics
   - mobile
-  - api
+  - application-programming-interface
   - contact-centers
   - open-data
 

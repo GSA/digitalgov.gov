@@ -6,12 +6,9 @@ summary: 'Several months ago I discussed the concept of a world without Web page
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - design
-  - content-models
-  - mobile-ux-guideline-1
-  - structured-content
-  - the-content-corner
+  - mobile
 ---
 
 Several months ago I discussed the concept of a [world without Web pages]({{< ref "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}}) and the importance of structured content and thinking about content, not pages. This week, I’m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data.
@@ -80,4 +77,4 @@ Modular design allows for quick changes with minimal disruption. The header or l
 
 Modular design, from front-end to back-end, helps reduce the messy interfaces and reacts faster to all those things that haven’t been invented yet.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

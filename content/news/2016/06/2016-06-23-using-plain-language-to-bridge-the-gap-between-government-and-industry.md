@@ -6,13 +6,11 @@ summary: Much of our work with government partners to deliver better digital ser
 authors:
   - ryan-sibley
 topics:
-  - content
-  - product-management
-  - strategy
-  - agile
-  - cloud
-  - content
-  - IT Schedule 70
+  - product-and-project-management
+  - product-and-project-management
+  - content-strategy
+  - cloud-and-infrastructure
+  - acquisition
   - plain-language
   - user-experience
 ---

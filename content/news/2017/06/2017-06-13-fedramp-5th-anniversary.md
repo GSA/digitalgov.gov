@@ -6,9 +6,9 @@ summary: "This week we are excited to celebrate FedRAMP’s fifth birthday! The 
 authors:
   - fedramp
 topics:
-  - product-management
-  - cloud
-  - fedramp
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - security
 
 ---
 

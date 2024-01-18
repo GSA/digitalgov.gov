@@ -8,9 +8,8 @@ authors:
   - fedramp
 topics:
   - code
-  - product-management
-  - cloud
-  - fedramp
+  - product-and-project-management
+  - cloud-and-infrastructure
   - security
 ---
 

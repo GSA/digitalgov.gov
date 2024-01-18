@@ -11,7 +11,7 @@ summary: In this recap of the October 2021 U.S. Web Design System (USWDS)
 topics:
   - code
   - usability
-  - content
+  - content-strategy
   - open-source
 # See all authors at https://digital.gov/authors
 authors:

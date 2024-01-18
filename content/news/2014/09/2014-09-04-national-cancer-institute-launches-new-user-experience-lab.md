@@ -8,7 +8,7 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - metrics
+  - analytics
   - user-testing-and-research
   - digitalgov-user-experience-program
   - usability-testing

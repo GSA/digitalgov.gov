@@ -7,7 +7,7 @@ authors:
   - kate-masterton
   - katie-chan
 topics:
-  - content
+  - content-strategy
   - social-media
   - code
   - multilingual

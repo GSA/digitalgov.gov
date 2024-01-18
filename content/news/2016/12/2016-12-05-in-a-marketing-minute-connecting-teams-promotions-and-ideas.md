@@ -6,13 +6,9 @@ summary: 'Every first week of every month, USAGov’s marketing team sends an of
 authors:
   - victoria-wales
 topics:
-  - content
-  - product-management
-  - social-media
-  - strategy
-  - content
   - content-strategy
-  - GobiernoUSAgov
+  - product-and-project-management
+  - multilingual
   - social-media
 ---
 

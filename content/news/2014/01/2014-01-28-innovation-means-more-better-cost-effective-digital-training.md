@@ -6,7 +6,7 @@ summary: "SocialGov Summits bring together agencies from across government to sh
 authors:
   - jherman
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
   - socialgov
 

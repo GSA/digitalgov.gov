@@ -8,13 +8,10 @@ authors:
   - jamie-albrecht
 topics:
   - design
-  - product-management
-  - strategy
-  - user-testing-and-research
+  - product-and-project-management
+  - content-strategy
   - user-experience
   - research
-  - sprint
-  - user-research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428
   alt:

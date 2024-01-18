@@ -9,7 +9,7 @@ event_type:
   - online
   - in-person
 topics:
-  - api
+  - application-programming-interface
 date: 2018-10-24 15:00:00 -0500
 end_date: 2018-10-24 16:30:00 -0500
 event_organizer: DigitalGov University
@@ -25,10 +25,10 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 categories:
-  - api
+  - application-programming-interface
 tag:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
 
 ---
 

@@ -1,3 +1,4 @@
+
 ---
 slug: web-metadata-publishing-using-xml
 date: 2015-03-23 11:00:18 -0400
@@ -7,13 +8,9 @@ authors:
   - bob-rand
 topics:
   - mobile
-  - content-management-system
-  - content-models
-  - metadata
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-6
-  - open-and-structured-content-models
+  - content-strategy
   - open-data
+  - search-engine-optimization
 ---
 
 {{< legacy-img src="2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}}

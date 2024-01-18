@@ -9,7 +9,7 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - challenge-gov
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - innovation
 ---
 

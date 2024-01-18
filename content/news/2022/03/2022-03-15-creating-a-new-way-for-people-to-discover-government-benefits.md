@@ -16,13 +16,12 @@ deck: "**Creating a New Way for People To Discover Government
 summary: summ
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - user-experience
   - customer-experience
   - accessibility
   - multilingual
   - design
-  - gobiernousagov
 # See all authors at https://digital.gov/authors
 authors:
   - lgodfrey

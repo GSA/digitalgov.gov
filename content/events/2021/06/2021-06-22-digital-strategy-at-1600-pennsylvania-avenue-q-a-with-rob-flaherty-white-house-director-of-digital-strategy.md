@@ -10,9 +10,9 @@ date: 2021-06-29 11:00:00 -0500
 end_date: 2021-06-29 12:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - strategy
+  - content-strategy
   - social-media
-  - video
+  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - robert-flaherty

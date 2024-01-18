@@ -10,9 +10,8 @@ authors:
   - rflagg
 
 topics:
-  - product-management
-  - 21st-century-idea
-  - this-weeks-idea
+  - product-and-project-management
+  - digital-service-delivery
 
 featured_image:
   uid: this-weeks-idea-card-wk2
@@ -35,7 +34,7 @@ Around [21st Century IDEA](https://digital.gov/guides/21st-century-idea/), the C
 Over the summer, the Council worked to better understand how to help federal agencies meet the requirements of 21st Century IDEA. They gathered questions and feedback from the government Web Content Managers Community with the goal of identifying the areas of the law where agencies need more clarification on their responsibilities under the Act. In the coming weeks, we’ll be helping the Council to surface a lot of the findings from their work with you.
 
 - [View our new page on the Federal Web Council, meet the members »](https://digital.gov/resources/federal-web-council/)
-- [An overview of 21st Century IDEA](https://digital.gov/topics/21st-century-idea/)
+- [An overview of 21st Century IDEA](https://digital.gov/topics/digital-service-delivery/)
 
 ## Up Next
 

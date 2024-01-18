@@ -7,12 +7,11 @@ authors:
   - rflagg
 topics:
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - dap
-  - digital-analytics-program
+  - customer-experience
+  - customer-experience
+  - analytics
   - budgeting-and-performance
-  - fedramp
+  - security
   - tos
 
 ---

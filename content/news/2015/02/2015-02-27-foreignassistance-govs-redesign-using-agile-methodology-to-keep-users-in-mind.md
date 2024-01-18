@@ -6,9 +6,8 @@ summary: Content is one of the most important things about your site. After all,
 authors:
   - kdaniel
 topics:
-  - content
-  - agile
-  - personas
+  - content-strategy
+  - research
   - user-experience
 ---
 

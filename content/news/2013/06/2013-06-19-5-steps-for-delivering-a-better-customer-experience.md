@@ -6,7 +6,7 @@ summary: 'Everyone wants to know how to provide outstanding customer experience 
 authors:
   - martha-dorris
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
   - customer-experience
   - top-tasks

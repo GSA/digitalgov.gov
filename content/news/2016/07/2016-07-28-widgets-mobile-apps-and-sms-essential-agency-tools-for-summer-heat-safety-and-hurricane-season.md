@@ -8,17 +8,14 @@ authors:
   - toni-bonitto
 topics:
   - code
-  - content
+  - content-strategy
   - mobile
   - social-media
-  - content
-  - content-syndication
-  - mobile
-  - mobile-apps
+  - content-strategy
+
   - multilingual
-  - sms
   - social-media
-  - thursday-mobile-products
+  - mobile
 
 ---
 

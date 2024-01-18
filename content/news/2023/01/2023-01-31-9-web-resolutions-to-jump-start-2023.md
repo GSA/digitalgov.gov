@@ -9,7 +9,7 @@ topics:
   - professional-development
   - accessibility
   - analytics
-  - customer-service
+  - customer-experience
   - digital-service-delivery
 
 # See all authors at https://digital.gov/authors

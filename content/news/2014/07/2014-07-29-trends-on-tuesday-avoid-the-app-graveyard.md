@@ -10,10 +10,10 @@ authors:
 topics:
   - mobile
   - user-experience-community-of-practice
-  - mobile-apps
-  - mobile-ux-guideline-2
-  - mobile-ux-guideline-4
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - mobile
+  - emerging-tech
   - user-experience
 
 ---

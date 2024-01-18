@@ -6,12 +6,10 @@ summary: 'You might recognize them by the user controls, if provided, that allow
 authors:
   - beth-martin
 topics:
+  - content-strategy
   - mobile
-  - user-testing-and-research
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-4
-  - web-content-managers-forum
+  - research
+
 ---
 
 {{< legacy-img-right src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="Screencapture of a GSA mobile site photo carousel." >}}

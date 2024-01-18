@@ -7,7 +7,6 @@ authors:
   - justin-dopke
 topics:
   - accessibility
-  - section-508
   - usability
   - user-experience
 ---

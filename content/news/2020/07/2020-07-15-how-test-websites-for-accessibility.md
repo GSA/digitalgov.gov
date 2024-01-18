@@ -18,10 +18,9 @@ summary: ""
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 21st-century-idea
+  - digital-service-delivery
   - accessibility
-  - 508
-  - section-508
+
 
 # see all authors at https://digital.gov/authors
 authors: 

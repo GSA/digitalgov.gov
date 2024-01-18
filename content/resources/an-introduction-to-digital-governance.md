@@ -9,7 +9,7 @@ author: Rachel Flagg
 # See all topics at https://digital.gov/topics
 topics:
   - governance
-  - 21st-century-idea
+  - digital-service-delivery
   - digital-service-delivery
 
 # Controls how this page appears across the site

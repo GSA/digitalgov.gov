@@ -18,7 +18,7 @@ topics:
   - social-media
   - socialgov-community
   - communication
-  - video
+  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - alex-cohen

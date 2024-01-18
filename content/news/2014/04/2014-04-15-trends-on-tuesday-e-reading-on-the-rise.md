@@ -7,9 +7,9 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-ux-guideline-1
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 

@@ -17,14 +17,12 @@ summary: ""
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - content
+  - content-strategy
+  - open-data
   - design
-  - metrics
-  - multilingual
-  - performance
   - analytics
-  - dap
-  - digital-analytics-program
+  - multilingual
+  - budgeting-and-performance
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

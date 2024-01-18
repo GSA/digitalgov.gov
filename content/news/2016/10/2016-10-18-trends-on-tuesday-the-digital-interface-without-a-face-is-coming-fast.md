@@ -6,14 +6,12 @@ summary: 'The seemingly sci-fi world envisioned in the movie Her is very close t
 authors:
   - wsullivan
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - ai
   - artificial intelligence
-  - chatbots
   - mobile
-  - trends-on-tuesday
-  - voice
+  - emerging-tech
+  - multimedia
 ---
 
 The seemingly sci-fi world envisioned in the movie [Her](http://www.imdb.com/title/tt1798709/) is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, [chatbots]({{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}) and persistent audio assistants are now available, with software developer kits to expand the platforms.

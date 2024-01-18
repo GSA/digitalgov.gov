@@ -7,7 +7,8 @@ summary: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to 
 
 # See all topics at https://digital.gov/topics
 topics:
-  - infrastructure
+  - open-data
+  - cloud-and-infrastructure
 
 # See all authors at https://digital.gov/authors
 authors:

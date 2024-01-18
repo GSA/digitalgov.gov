@@ -7,9 +7,9 @@ summary: 'Customer experience, or CX, is everywhere these days. If you’re wond
 authors:
   - rflagg
 topics:
-  - product-management
-  - customer-satisfaction
-  - customer-service
+  - product-and-project-management
+  - customer-experience
+  - customer-experience
   - customer-experience
 
 ---

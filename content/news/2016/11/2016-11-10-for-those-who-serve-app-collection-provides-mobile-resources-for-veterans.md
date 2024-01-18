@@ -6,10 +6,10 @@ summary: 'In honor of Veterans Day, several VA mobile apps are featured this wee
 authors:
   - melissa-heintz
 topics:
-  - content
+  - content-strategy
   - mobile
   - mobile
-  - mobile-apps
+  - mobile
 
 ---
 

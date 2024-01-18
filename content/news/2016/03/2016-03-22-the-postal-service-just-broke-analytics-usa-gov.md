@@ -6,8 +6,8 @@ summary: 'Ok, so it didn’t really break it. But you might notice that the amou
 authors:
   - tlowden
 topics:
-  - dap
-  - digital-analytics-program
+  - open-data
+  - analytics
 ---
 
 Ok, so it didn’t _really_ break it. But you might notice that the amount of “people on government websites now” on [analytics.usa.gov](https://analytics.usa.gov/) is a lot higher than it used to be.

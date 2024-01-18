@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - agile
-  - open-opportunities-program
+  - professional-development
   - open-source
 ---
 

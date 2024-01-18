@@ -9,11 +9,9 @@ topics:
   - mobile
   - search
   - mobile
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
-  - mobile-friendly
+  - mobile
   - plain-language
-  - responsive-web-design
+  - mobile
   - search-engine-optimization
   - usability
 ---

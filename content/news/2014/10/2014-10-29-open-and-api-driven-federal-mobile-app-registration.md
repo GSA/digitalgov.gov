@@ -6,16 +6,10 @@ summary: 'Thanks to the power of open data and APIs, federal agencies can now re
 authors:
   - jparcell
 topics:
-  - api
+  - application-programming-interface
   - mobile
-  - mobile-apps
-  - aoi
-  - federal-mobile-products-registry
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
-  - native-apps
+  - user-experience
   - open-data
-  - thursday-mobile-products
  
 
 ---
@@ -30,7 +24,7 @@ The Federal Mobile Products Registry was created via the Digital Government Stra
 
 We worked with the USA.gov team to make this happen. The change is not only open government driven, but it also incorporated USA.gov user feedback. [USAGov](https://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) user testing showed that users expect to be able to download an app when they click on a link, not to be taken to an interim product-description page with no download functionality. So instead of the one app, one page approach of the USA.gov Apps Gallery approach, the redesigned and mobile Web-friendly Federal Mobile Apps Directory lists agency mobile products and allows for sorting by platform, category and agency. Also don’t need to worry about broken URLs or loss of SEO, as all individual app pages have been redirected to the new API-driven page. Now when an agency submits (or updates) public-facing English and/or Spanish mobile websites and native apps on the [Federal Mobile Products Registry](http://apps.usa.gov/register), the mobile products are automatically included in the [Federal Mobile Products API](http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml), which feeds the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) (formerly USA.gov Apps Gallery) and [USAGov en Espa&#241;ol’s Directorio Federal de Aplicaciones (Apps) M&#243;viles](https://www.usa.gov/espanol/apps-moviles) page.
 
-Agency mobile products registered here are also eligible to be featured in an article in the [DigitalGov.gov mobile channel]({{< ref "/topics/mobile" >}}). Every Thursday on DigitalGov we [feature a mobile website or native app]({{< ref "/topics/thursday-mobile-products" >}}) produced by a federal agency that is available on the Federal Mobile Apps Directory.
+Agency mobile products registered here are also eligible to be featured in an article in the [DigitalGov.gov mobile channel]({{< ref "/topics/mobile" >}}). Every Thursday on DigitalGov we [feature a mobile website or native app]({{< ref "/topics/mobile" >}}) produced by a federal agency that is available on the Federal Mobile Apps Directory.
 
 The API is available for third party development and we&#8217;ve [prototyped some ways agencies can use the API](https://github.com/GSA/federal-apps-gallery-widgets) to create widgets of apps to put on their digital properties.
 

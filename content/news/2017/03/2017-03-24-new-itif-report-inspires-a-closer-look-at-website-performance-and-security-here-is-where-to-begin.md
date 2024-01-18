@@ -7,32 +7,20 @@ authors:
   - digitalgov-team
 topics:
   - accessibility
-  - code
-  - content
-  - design
-  - product-management
-  - metrics
-  - mobile
-  - strategy
-  - user-testing-and-research
-  - accessibility
-  - analytics
-  - content
+  - software-engineering
   - content-strategy
-  - https
-  - metrics
+  - open-data
+  - design
+  - product-and-project-management
+  - research
+  - analytics
   - mobile
-  - mobile-first
   - plain-language
-  - responsive-web-design
   - search-engine-optimization
-  - section-508
   - security
-  - seo
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
-
 ---
 
 _The Information Technology & Innovation Foundation (ITIF) recently published a report,_ [_Benchmarking U.S. Government Websites_](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites)_, that looks at the performance, security, and accessibility of the top 297 government websites._ [_ITIF_](https://itif.org/about) _is a think tank in Washington, D.C. whose mission is to formulate, evaluate, and promote policy solutions that accelerate innovation in technology and public policy._

@@ -8,11 +8,11 @@ authors:
   - apiazza
 
 topics:
-  - product-management
+  - product-and-project-management
   - diversity-equity-and-inclusion
   - customer-experience
-  - customer-satisfaction
-  - personas
+  - customer-experience
+  - research
 
 ---
 

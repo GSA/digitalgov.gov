@@ -7,10 +7,9 @@ authors:
   - darlene-meskell
 topics:
   - governance
-  - strategy
-  - data-gov
+  - content-strategy
   - open-government
-  - metadata
+  - search-engine-optimization
   - open-data
   - open-source
 

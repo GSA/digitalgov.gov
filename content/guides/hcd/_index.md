@@ -13,8 +13,8 @@ topics:
   - design
   - user-experience
   - user-centered-design
-  - user-research
-  - web-content-managers-forum
+  - research
+  - content-strategy
   - user-experience-community-of-practice
   - customer-experience
 

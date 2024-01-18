@@ -8,7 +8,6 @@ deck: "**Document Accessibility: Getting From 5,000 to 0**&mdash;Our approach to
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - 508
 # See all authors at https://digital.gov/authors
 authors:
   - digitalgov-team

@@ -11,7 +11,7 @@ authors:
 
 topics:
   - governance
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - user-experience

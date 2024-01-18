@@ -21,7 +21,7 @@ topics:
   - agile
   - artificial-intelligence
   - analytics
-  - cloud
+  - cloud-and-infrastructure
 
 # see all authors at https://digital.gov/authors
 authors:

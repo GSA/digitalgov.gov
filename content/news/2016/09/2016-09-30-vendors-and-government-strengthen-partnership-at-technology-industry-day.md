@@ -6,18 +6,14 @@ summary: 'On September 8, 2016, the General Services Administration (GSA) held a
 authors:
   - andre-francisco
 topics:
-  - code
-  - product-management
-  - strategy
-  - agile
-  - cloud
-  - cloud-gov
-  - budgeting-and-performance
-  - login-gov
-  - budgeting-and-performance
-  - fedramp
-  - innovation
+  - software-engineering
+  - product-and-project-management
+  - content-strategy
+  - cloud-and-infrastructure
+  - open-data
   - security
+  - budgeting-and-performance
+  - innovation
 
 ---
 

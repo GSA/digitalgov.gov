@@ -7,13 +7,13 @@ authors:
   - andreanocesigritz
 topics:
   - challenges
-  - product-management
+  - product-and-project-management
   - mobile
   - aoi
-  - big-data
+  - analytics
   - challenges-and-prize-competitions
   - customer-experience
-  - mobile-gov
+  - mobile
 ---
 
 In January on DigitalGov, we’ll highlight pieces looking at trends we see coming in the digital government space in 2015 and beyond. We have lined up articles around:

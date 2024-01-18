@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-apps
-  - trends-on-tuesday
+  - mobile
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png" alt="IBM Report Screenshot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png)Mobile shopping increased significantly this year for both Black Friday and Cyber Monday. But by how much? A lot says this [report from IBM](http://www-01.ibm.com/software/marketing-solutions/benchmark-reports/black-friday-2013.html):

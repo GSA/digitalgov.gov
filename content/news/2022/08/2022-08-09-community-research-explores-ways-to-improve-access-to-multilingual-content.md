@@ -7,10 +7,9 @@ summary: A group from the Multilingual Community noticed inconsistencies in acce
 
 # See all topics at https://digital.gov/topics
 topics:
-  - multilingual
-  - content
+  - content-strategy
   - accessibility
-  - multilingual-community
+  - multilingual
 
 # See all authors at https://digital.gov/authors
 authors:

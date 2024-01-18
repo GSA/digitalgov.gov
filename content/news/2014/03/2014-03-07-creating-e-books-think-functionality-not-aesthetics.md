@@ -8,10 +8,10 @@ authors:
   - carolyn-cihelka
 
 topics:
-  - content
+  - content-strategy
   - design
   - mobile
-  - writing
+  - communication
 
 ---
 

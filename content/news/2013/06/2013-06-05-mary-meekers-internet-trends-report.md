@@ -7,12 +7,12 @@ authors:
   - jparcell
 topics:
   - code
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - mobile
   - social-media
   - user-experience
-  - making-mobile-gov
+  - mobile
 
 ---
 

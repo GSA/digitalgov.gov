@@ -6,11 +6,10 @@ summary: The API Usability Program brings together developers from agency APIs a
 authors:
   - georgia-gallavin
 topics:
-  - api
+  - application-programming-interface
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - digitalgov-user-experience-program
   - usability-testing
 ---
 

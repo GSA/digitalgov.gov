@@ -8,7 +8,7 @@ authors:
   - apiazza
   - jthalls
 topics:
-  - product-management
+  - product-and-project-management
 
 ---
 

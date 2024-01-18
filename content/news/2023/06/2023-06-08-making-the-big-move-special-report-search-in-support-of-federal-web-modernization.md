@@ -21,7 +21,7 @@ summary: >-
 topics:
   - design
   - content-strategy
-  - strategy
+  - content-strategy
 slug: making-the-big-move-special-report-search-in-support-of-federal-web-modernization
 # Controls how this page appears across the site
 # 0 -- hidden

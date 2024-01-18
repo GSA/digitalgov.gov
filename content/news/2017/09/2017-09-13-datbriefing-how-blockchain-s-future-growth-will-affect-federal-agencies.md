@@ -1,3 +1,4 @@
+
 ---
 slug: the-data-briefing-how-blockchains-future-growth-will-affect-federal-agencies
 date: 2017-09-13 09:01:00 -0400
@@ -10,15 +11,11 @@ authors:
   - bbrantley
 
 topics:
-  - ai
+  - open-data
   - artificial-intelligence
-  - blockchain
-  - chatbots
   - security
-  - the-data-briefing
   - emerging-tech
-  - rpa
-
+  - robotic-process-automation
 ---
 
 Over a year ago, I wrote about the potential of [new chatbot blockchain digital autonomous organizations](https://www.digitalgov.gov/2016/07/06/the-data-briefing-i-for-one-welcome-our-new-chatbot-blockchain-digital-autonomous-organizations/). I was excited about the possibilities of how the emerging technologies of chatbots and blockchains would merge to create the digital autonomous organizations and what this could mean for delivering government services. Since then, 2017 has being called the “[Year of the Chatbot](https://chatbotsmagazine.com/trends-driving-the-chatbot-growth-77b78145bac)” because of the rapid advances in artificial intelligence (AI) and the explosion of tools that make it easy to create chatbots. In a column later this month, I will show you how to build a chatbot in just one weekend.

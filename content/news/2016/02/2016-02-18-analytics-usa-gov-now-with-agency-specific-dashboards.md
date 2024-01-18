@@ -12,9 +12,6 @@ authors:
   - colin-craig
 topics:
   - analytics
-  - dap
-  - digital-analytics-program
-
 ---
 
 We’ve added agency-specific dashboards to [analytics.usa.gov](https://analytics.usa.gov/)!

@@ -6,9 +6,9 @@ summary: For more than 40 years, Warren Snaider has been working at the General 
 authors:
   - coqui-aspiazu
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-service
+  - customer-experience
   - government-contact-centers
 ---
 

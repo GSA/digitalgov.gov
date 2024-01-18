@@ -6,8 +6,8 @@ summary: 'You’ve got the right words, the active verbs, the carefully chosen a
 authors:
   - katherine-spivey
 topics:
-  - content
-  - writing
+  - content-strategy
+  - communication
   - plain-language
   - social-media
 

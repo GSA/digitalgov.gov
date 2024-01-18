@@ -7,12 +7,12 @@ authors:
   - kdaniel
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile-ux-guideline-4
-  - responsive-web-design
-  - sites
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - mobile
+  - content-strategy
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/03/250-x-444-Google-search-engine-Digital-Government-21st-Century-DigitalGov-Android.jpg" alt="Screen capture of Digital Gov's mobile website at the top of search results on Google." >}}As [the use of smartphones continues to grow]({{< ref "2015-02-10-trends-on-tuesday-smartphone-growth-reaches-1-3-billion-in-2014.md" >}}), it has become even more important for websites to be mobile-friendly. Google has been aware of this trend for quite some time. In response to this trend, Google made it a lot simpler for users to see [mobile-friendly websites](http://googlewebmastercentral.blogspot.com/2014/11/helping-users-find-mobile-friendly-pages.html?m=1) within search results by the use of a mobile-friendly tag back in November.

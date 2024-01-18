@@ -9,7 +9,7 @@ topics:
   - data-visualization
   - data-gov
   - open-data
-  - the-data-briefing
+  - emerging-tech
 ---
 
 Some of you may remember when President Reagan opened America’s Global Positioning System (GPS) data. President Reagan gave all countries access to the GPS data in response to the Soviet Union shooting down Korean Airlines Flight 007 on September 1, 1983. I do not believe that the U.S. realized how much opening up GPS data would revolutionize the world economy, health services, travel and almost every other aspect of daily life. {{< legacy-img src="2015/12/600-x-370-Long-shadow-USA-flag-icon-with-a-map-mark-Blablo101-iStock-Thinkstock-496554590.jpg" alt="Long shadow USA flag icon with a map" caption="" >}} 
@@ -22,5 +22,5 @@ The second barrier is that the data is hard to navigate, asserts the author. Now
 
 The last two barriers are a lack of people skilled in working with data and privacy issues. Currently, there are few people who are skilled in data science, [mobile app development]({{< ref "mobile-application-development-program.md" >}}), or [data visualization]({{< ref "2010-10-22-tell-compelling-stories-with-data-visualization.md" >}}). However, training programs have sprung up to meet this demand, and governments worldwide are investing in increasing science, technology, engineering and mathematical (STEM) education. Governments are also working to deal with privacy issues that may be a harder barrier than the other three. Still, progress is being made to respect privacy rights while providing even more datasets.
 
-Despite the barriers, opening government data has made significant impacts on citizens’ lives. Moreover, it is just getting started. Like GPS, who can predict the innovations thirty years from now?_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+Despite the barriers, opening government data has made significant impacts on citizens’ lives. Moreover, it is just getting started. Like GPS, who can predict the innovations thirty years from now?_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

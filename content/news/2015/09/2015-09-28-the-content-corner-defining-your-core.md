@@ -6,11 +6,11 @@ summary: Through the course of this blog, I have frequently mentioned the need t
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - social-media
   - content-strategy
   - social-media
-  - the-content-corner
+  - content-strategy
 ---
 
 Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
@@ -45,6 +45,6 @@ I have already presented DigitalGov as a great example, and one of the other age
 
 At first blush, one could offer an argument that their Tumblr page seems like their core, with its breathtaking photography and leveraging of other Tumblr accounts. But as you look deeper, you can see the answer to their, &#8220;Why do we have this?&#8221;, question. BLM&#8217;s Tumblr is using its rich vein of photography to promote specific initiatives, and once they grab your attention, you can then go to a core and explore further. One of their current main initiatives is [Every Kid in a Park](https://www.everykidinapark.gov/), so in various places throughout their Tumblr, you get fed back to that core. There are also examples, such as using appropriate images, to make people aware of the [Continental Divide Wilderness Study Area](http://www.blm.gov/nm/st/en/prog/blm_special_areas/wilderness_and_wsas/wilderness_study_areas/wilderness_study_areas/Continental_Divide_WSA.html).
 
-Each agency has a different mission—and audience—and different ways they need to serve the citizen, but in the end, all their efforts should lead back to one central location: the core channel. From a practical standpoint that makes it easier to maintain your content and perform audits (not to mention any archival requirements). It also helps provide a clear focus for all your promotional efforts instead of creating a tangled Web of various social media sites or blogs. Make sure that regardless of how many channels you have, they all lead back to your core._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Each agency has a different mission—and audience—and different ways they need to serve the citizen, but in the end, all their efforts should lead back to one central location: the core channel. From a practical standpoint that makes it easier to maintain your content and perform audits (not to mention any archival requirements). It also helps provide a clear focus for all your promotional efforts instead of creating a tangled Web of various social media sites or blogs. Make sure that regardless of how many channels you have, they all lead back to your core._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Want to read more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

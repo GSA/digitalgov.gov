@@ -22,10 +22,10 @@ topics:
   - agile
   - usability
   - design
-  - product-management
+  - product-and-project-management
   - project-management
   - user-experience
-  - user-research
+  - research
   - usability-testing
 
 # see all authors at https://digital.gov/authors

@@ -9,9 +9,7 @@ topics:
   - mobile
   
   - ios
-  - mobile-apps
-  - native-apps
-  - thursday-mobile-products
+  - mobile
 
 ---
 

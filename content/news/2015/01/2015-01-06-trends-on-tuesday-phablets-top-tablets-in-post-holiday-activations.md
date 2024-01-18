@@ -7,10 +7,10 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-1
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/01/250-x-425-Smartphone-two-sizes-milindri-iStock-Thinkstock-517420153.jpg" alt="Smartphone in two sizes" caption="" >}}

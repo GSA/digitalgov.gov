@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - customer-experience
-  - mobile-gov-community-of-practice
+  - mobile
   - socialgov-community
 ---
 

@@ -12,7 +12,7 @@ topics:
   - code
   
   - innovation
-  - mobile-apps
+  - mobile
   - open-data
 featured_image:
   uid: pif-ai-open-data

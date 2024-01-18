@@ -6,11 +6,8 @@ summary: Recap of the 2014 Challenge and Prize competition events hosted by Digi
 authors:
   - apiazza
 topics:
-  - challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - open-source
 
 ---

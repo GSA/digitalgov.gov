@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - user-testing-and-research
-  - a-b-testing
+  - research
   - content-strategy
   - social-media
   - user-centered-design

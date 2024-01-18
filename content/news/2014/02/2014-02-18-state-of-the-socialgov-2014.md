@@ -6,7 +6,7 @@ summary: 'If the silos and barriers that separated our programs are smashed, wha
 authors:
   - jherman
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
   - socialgov
 

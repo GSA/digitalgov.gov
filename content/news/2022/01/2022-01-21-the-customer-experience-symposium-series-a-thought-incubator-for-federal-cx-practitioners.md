@@ -8,7 +8,7 @@ topics:
   - customer-experience
   - governance
   - design
-  - strategy
+  - content-strategy
   - professional-development
 # See all authors at https://digital.gov/authors
 authors:

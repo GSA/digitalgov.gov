@@ -6,16 +6,8 @@ summary: 'This month we&#8217;ll be highlighting articles about crowdsourcing. T
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdfunding
-  - crowdsourcing
-  - FCPCCS
+  - crowdsourcing-and-citizen-science
   - open-government
 ---
 

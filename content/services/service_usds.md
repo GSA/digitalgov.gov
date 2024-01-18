@@ -25,7 +25,7 @@ weight: 1
 topics:
   - design
   - code
-  - strategy
-  - product-management
+  - content-strategy
+  - product-and-project-management
 
 ---

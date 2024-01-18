@@ -9,8 +9,8 @@ topics:
   - design
   - mobile
   - mobile
-  - responsive-web-design
-  - trends-on-tuesday
+  - mobile
+  - emerging-tech
   - user-centered-design
   - user-experience
 

@@ -7,14 +7,13 @@ summary: 'Take a look at how we plan to preserve and pass on the digital history
 authors:
   - kori-schulman
 topics:
-  - code
-  - content
-  - product-management
+  - software-engineering
+  - content-strategy
+  - open-data
+  - product-and-project-management
   - mobile
   - social-media
-  - strategy
-  - video
-  - audio-video
+  - multimedia
   - records-management
   - open-source
 

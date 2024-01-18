@@ -9,10 +9,9 @@ topics:
   - code
   - mobile
   - accessibility
-  - api
-  - mobile-app-development-program
-  - mobile-gov
-  - mobile-apps
+  - application-programming-interface
+  - mobile
+  - mobile
 
 ---
 

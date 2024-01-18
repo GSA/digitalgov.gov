@@ -6,7 +6,7 @@ summary: '&#8220;APIs for WhiteHouse.gov? What in the heck does that mean?&#8221
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - code
 ---
 

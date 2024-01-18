@@ -25,14 +25,14 @@ topics:
   - design
   - user-experience
   - plain-language
-  - user-research
+  - research
 
 # see all authors at https://digital.gov/authors
 authors:
   - jean-fox
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
-event_platform: 
+event_platform:
 
 # YouTube ID
 youtube_id:
@@ -51,7 +51,7 @@ map: ""
 
 ---
 
-Government agencies are striving to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/). The 2020 Government UX Summit is a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
+Government agencies are striving to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/digital-service-delivery/). The 2020 Government UX Summit is a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
 
 We are currently seeking submissions for presentations on topics such as:
 

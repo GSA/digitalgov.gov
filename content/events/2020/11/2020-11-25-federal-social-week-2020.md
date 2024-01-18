@@ -14,8 +14,7 @@ topics:
   - socialgov
   - podcast
   - socialgov-community
-  - social-media-metrics
-  - writing
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

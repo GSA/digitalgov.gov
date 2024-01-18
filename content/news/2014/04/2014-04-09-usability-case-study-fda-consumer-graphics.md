@@ -7,10 +7,9 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - user-testing-and-research
-  - infographic
+  - research
+  - data-visualization
   - usability
-  - usability-case-study
   - user-experience
 ---
 

@@ -7,9 +7,8 @@ authors:
   - brian-forde
   - carrie-hessler-radelet
 topics:
-  - api
+  - application-programming-interface
   - mobile
-  - mobile-ux-guideline-5
   - open-source
 ---
 

@@ -7,16 +7,14 @@ authors:
   - noah-manger
   - jennifer-thibault
 topics:
-  - api
-  - content
+  - application-programming-interface
+  - content-strategy
+  - open-data
   - design
-  - api
-  - content
   - plain-language
-  - responsive-web-design
-  - user-centered-design
+  - mobile
+  - human-centered-design
   - user-experience
-  
 ---
 
 Last week, the Federal Election Commission (FEC) unveiled their new website at [FEC.gov](https://www.fec.gov/). This new site is the result of a years-long collaboration with GSA’s 18F and features completely revamped tools for exploring campaign finance data. It provides user-centered content for understanding the reporting and compliance requirements for people participating in federal elections, redesigned tools for exploring legal resources, and more.

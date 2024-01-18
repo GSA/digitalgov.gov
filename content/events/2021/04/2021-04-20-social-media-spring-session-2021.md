@@ -13,7 +13,7 @@ topics:
   - socialgov
   - social-media
   - podcast
-  - marketing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - dominique-gebru

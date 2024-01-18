@@ -12,7 +12,7 @@ end_date: 2023-07-19 14:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
   - diversity-equity-and-inclusion
   - communication
   - open-data

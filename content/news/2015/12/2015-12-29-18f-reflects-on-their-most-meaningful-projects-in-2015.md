@@ -7,11 +7,10 @@ authors:
   - melody-kramer
 topics:
   - accessibility
-  - api
-  - cloud
-  - dap
-  - digital-analytics-program
-  - https
+  - analytics
+  - application-programming-interface
+  - cloud-and-infrastructure
+  - security
   - open-data
 ---
 

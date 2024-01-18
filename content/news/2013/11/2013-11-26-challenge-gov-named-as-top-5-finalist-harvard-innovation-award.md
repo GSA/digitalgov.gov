@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - innovation
 ---
 

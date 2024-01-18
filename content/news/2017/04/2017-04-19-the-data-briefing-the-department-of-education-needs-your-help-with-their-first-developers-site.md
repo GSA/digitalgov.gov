@@ -6,7 +6,8 @@ summary: 'The Department of Education (ED) launched its first developer site. Th
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
+  - open-data
 ---
 
 The Department of Education (ED) launched its [first developer site](https://usedgov.github.io/). The developer site is built on GitHub which will make it easier for ED to centralize their code and Application Programming Interfaces (APIs). Currently, ten APIs are on the developer site:
@@ -26,5 +27,5 @@ Organizing ED’s open source projects and APIs is the first goal for the develo
 [As ED explains](https://usedgov.github.io/news/launching-eds-developer-hub.html), the developer site is just the beginning. ED asks for help from the public — in tell ED “[what APIs you would like to see](https://github.com/usedgov/API-Program/issues/1) and [your ideas for improving our datasets and documentation](https://github.com/usedgov/API-Program/issues/2).” I suggest that ED map the education data ecosystem like the recent mapping of the [big data ecosystem of U.S. agriculture]({{< ref "2016-02-03-the-data-briefing-mapping-the-big-data-ecosystem-of-u-s-agriculture.md" >}}). Mapping the U.S. educational system’s big data ecosystem would be a major asset for developers and could greatly spur developing educational apps. Also, ED should make connections with child welfare datasets and with U.S. labor datasets. It would be interesting and beneficial to see education’s impact on improving child welfare and building a robust, educated workforce.
 
 _GitHub is used for illustrative purposes and does not imply endorsement by the U.S. Federal government or any specific Federal agency._
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
 _[Dr. William Brantley]({{< ref "/authors/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

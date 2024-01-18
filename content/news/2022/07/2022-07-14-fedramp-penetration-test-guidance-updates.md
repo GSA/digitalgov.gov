@@ -10,7 +10,7 @@ summary:
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - fedramp
+  - security
 slug: fedramp-penetration-test-guidance-updates
 # Controls how this page appears across the site
 # 0 -- hidden

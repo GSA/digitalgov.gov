@@ -7,18 +7,13 @@ authors:
   - jparcell
 topics:
   - mobile
-  - dap
-  - digital-analytics-program
-  - Federal CrowdSource Mobile Testing Program
+  - analytics
   - mobile
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-5
-  - mobile-first
-  - mobile-friendly
-  - mobile-gov
-  - responsive-web-design
-  - sites
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - mobile
+  - content-strategy
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="everythingpossible, iStock, Thinkstock" >}}

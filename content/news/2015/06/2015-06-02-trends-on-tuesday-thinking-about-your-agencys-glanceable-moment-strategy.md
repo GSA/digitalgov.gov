@@ -8,9 +8,9 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/06/250-x-250-Smartwatch-infographic-isolated-with-icons-time-line-concept-ponsuwan-iStock-Thinkstock-472723982-Converted.jpg" alt="Mobile devices (a laptop, a smart watch, a cell phone and tablet) show the same content." caption="" >}} 

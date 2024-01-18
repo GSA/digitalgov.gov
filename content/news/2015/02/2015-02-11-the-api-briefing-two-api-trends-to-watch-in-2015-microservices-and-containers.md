@@ -6,9 +6,7 @@ summary: 'DigitalGov recently spotlighted the National Highway Traffic Safety Ad
 authors:
   - bbrantley
 topics:
-  - api
-  - api
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/250-x-408-NHTSA-SaferRide-app-uses-Yelp-API.jpg" alt="The NHTSA SaferRide app uses the Yelp API to show reviews of nearby taxi cab services." >}}DigitalGov recently spotlighted the National Highway Traffic Safety Administration’s (NHTSA) <a href="{{< ref "2015-01-26-new-nhtsa-app-uses-yelp-api.md" >}}" target="_blank">new SaferRide app</a>. SaferRide provides safe alternatives to keep drunken drivers off the road. SaferRide uses the Yelp API to provide information about local taxi services for the part of the app where users can request a ride home. The SaferRide app is one example of how APIs can be mashed together to produce sophisticated applications.

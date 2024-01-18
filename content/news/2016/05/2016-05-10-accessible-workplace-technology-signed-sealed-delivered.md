@@ -6,7 +6,7 @@ summary: 'Last week, I had a brush with a bona fide music legend &mdash; the gre
 authors:
   - chris-lu
 topics:
-  - product-management
+  - product-and-project-management
   - accessibility
   - user-centered-design
   - user-experience

@@ -6,8 +6,7 @@ summary: If you have ever been a caregiver for an elderly family member or frien
 authors:
   - bbrantley
 topics:
-  - api
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Old-and-young-hands-hxdbzxy-iStock-Thinkstock-457342679.jpg" alt="Old and young hands" caption="" >}}

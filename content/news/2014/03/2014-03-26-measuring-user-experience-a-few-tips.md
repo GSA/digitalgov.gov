@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - user-testing-and-research
-  - a-b-testing
+  - research
   - aoi
   - usability-testing
   - user-experience

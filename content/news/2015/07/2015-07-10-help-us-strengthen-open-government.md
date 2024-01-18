@@ -7,7 +7,7 @@ authors:
   - corinna-zarek
 topics:
   - code
-  - national-action-plan-on-open-government
+  - open-government
   - open-government
 ---
 

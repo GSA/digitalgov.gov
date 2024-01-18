@@ -9,12 +9,12 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - challenges-and-prize-competitions
-  - crowdsourcing
-  - the-data-briefing
+  - crowdsourcing-and-citizen-science
+  - emerging-tech
 
 ---
 
-The [open source]({{< ref "/topics/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< ref "/topics/crowdsourcing" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform.
+The [open source]({{< ref "/topics/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< ref "/topics/crowdsourcing-and-citizen-science" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform.
 
 {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="nevarpp/iStock/Thinkstock" >}} 
 
@@ -35,6 +35,6 @@ What is needed to use crowdsourcing in digital transformation effectively?
 
 Digital transformation is necessary to realize the promise of the 21st century federal government. All federal employees are vital partners in bringing about the digital transformations of their agencies.
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
 
 _[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

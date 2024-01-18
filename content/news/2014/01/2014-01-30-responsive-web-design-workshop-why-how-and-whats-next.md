@@ -8,8 +8,6 @@ authors:
 topics:
   - design
   - mobile
-  - mobile
-  - responsive-web-design
 ---
 
 <p>

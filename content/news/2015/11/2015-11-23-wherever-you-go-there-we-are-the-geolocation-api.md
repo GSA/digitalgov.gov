@@ -7,9 +7,7 @@ authors:
   - awichman
   - leo-yang
 topics:
-  - api
-  - mobile
-  - api
+  - application-programming-interface
   - mobile
 ---
 

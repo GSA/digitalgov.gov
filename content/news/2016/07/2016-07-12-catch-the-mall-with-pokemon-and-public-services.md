@@ -7,16 +7,12 @@ authors:
   - jherman
   - paul-ollig
 topics:
+  - content-strategy
   - emerging-tech
   - mobile
-  - social-media
-  - augmented-reality
-  - gamification
-  - mobile
-  - mobile-apps
+  - multimedia
   - social-media
   - user-experience
-  - virtual-augmented-reality-community
 ---
 
 &#8220;&#8230; I have never seen so many people of all ages walking around our civic spaces and small businesses interacting as I have this morning. Teens catching them. People catching them in line for coffee. Moms outsmarting their kids. Local youths teaching my toddler how to throw a ball. Full grown adults. Marines. Kids on scooters. Kids on bikes. 20-somethings walking in packs. How are other small towns faring? Awesome to be outside right now building a community over something so silly and fun. Suddenly, things aren&#8217;t a ghost town&#8230;and it&#8217;s only Monday morning…&#8221; {{< legacy-img src="2016/07/250-x-445-Pidgey-and-NPS-at-Washington-Monument.jpg" alt="Pidgey and NPS at the Washington Monument in Washington, D.C." caption="" >}}

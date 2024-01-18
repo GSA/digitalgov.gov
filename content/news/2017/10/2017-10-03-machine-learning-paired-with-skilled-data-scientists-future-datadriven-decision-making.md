@@ -7,12 +7,10 @@ authors:
   - jada-jones
 topics:
   - artificial-intelligence
-  - big-data
-  - emerging-tech
-  - open-data
   - analytics
-  - trends-on-tuesday
-  - rpa
+  - open-data
+  - emerging-tech
+  - robotic-process-automation
 featured_image:
   uid: 3d-rendering-of-robot-face-zapp2photo-istock-thinkstock-675938062
   alt:

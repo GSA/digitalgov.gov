@@ -6,16 +6,11 @@ summary: ' England’s Government Digital Service (similar to our own U.S. Digit
 authors:
   - wsullivan
 topics:
-  - content
+  - content-strategy
   - mobile
-  - COPE
   - mobile
-  - mobile-ux-guideline-1
-  - mobile-first
-  - mobile-friendly
-  - open-and-structured-content-models
-  - structured-content
-  - trends-on-tuesday
+  - content-strategy
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/07/600-x-300-UKgov-mobile-views-0415.jpg" alt="Chart showing Top 10 Gov dot U K content viewed via mobile devices" >}}

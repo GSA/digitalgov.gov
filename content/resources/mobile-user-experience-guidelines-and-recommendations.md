@@ -11,8 +11,8 @@ authors:
 topics:
   - mobile
   - user-experience
-  - mobile-gov
-  - mobile-gov-community-of-practice
+  - mobile
+  - mobile
 
 aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/

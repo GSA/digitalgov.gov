@@ -7,22 +7,17 @@ authors:
   - christen-geiler
 topics:
   - code
-  - content
-  - product-management
-  - metrics
-  - user-testing-and-research
-  - ai
+  - content-strategy
+  - open-data
+  - product-and-project-management
   - analytics
-  - artificial intelligence
-  - chatbots
+  - artificial-intelligence
   - customer-experience
   - innovation
   - privacy
   - research
   - security
   - user-experience
-
-  
 ---
 
 It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other devices to ask Apple&#8217;s Siri, Microsoft&#8217;s Cortana, Google Now, or Amazon’s Alexa a question to get the facts or data we are looking for. Using your voice, you can say, “Where’s the nearest gas station?” or “What’s on my calendar today?”, and the [intelligent personal assistant](https://en.wikipedia.org/wiki/Intelligent_personal_assistant) (IPA) will respond by finding information and relaying it from your phone or sending commands to other apps. {{< legacy-img src="2016/09/600-x-425-Artificial-intelligence-making-possible-new-computer-technologies-NicoElNino-iStock-Thinkstock-499152762.jpg" alt="Artificial intelligence (AI) is making possible new computer technologies." caption="" >}} 

@@ -11,8 +11,8 @@ topics:
   - mobile
   - user-testing-and-research
   - mobile
-  - mobile-ux-guideline-5
-  - thursday-mobile-products
+  - mobile
+  - mobile
   - top-tasks
   
   - usability-testing

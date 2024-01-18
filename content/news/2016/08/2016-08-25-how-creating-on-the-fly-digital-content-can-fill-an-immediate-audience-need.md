@@ -6,11 +6,8 @@ summary: 'When some U.S. athletes at this month’s Olympic Games started showin
 authors:
   - yasmine-kloth
 topics:
-  - content
-  - product-management
-  - strategy
-  - content
   - content-strategy
+  - product-and-project-management
   - user-experience
 ---
 

@@ -6,11 +6,12 @@ summary: 'Digital communities of practice come in many stripes. DigitalGov commu
 authors:
   - awichman
 topics:
-  - api
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - application-programming-interface
+  - crowdsourcing-and-citizen-science
+  - content-strategy
   - mobile
   - open-data
-  - open-opportunities-program
+  - professional-development
   - plain-language
 ---
 

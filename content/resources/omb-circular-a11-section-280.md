@@ -18,8 +18,6 @@ source: performancegov
 # see all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - customer-satisfaction
-  - customer-service
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

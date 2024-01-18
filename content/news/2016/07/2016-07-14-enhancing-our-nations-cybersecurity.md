@@ -6,10 +6,9 @@ summary: 'The mission of U.S. General Services Administration (GSA)&#8217;s Inte
 authors:
   - mary-davie
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - acquisition
-  - IT Schedule 70
   - security
 ---
 

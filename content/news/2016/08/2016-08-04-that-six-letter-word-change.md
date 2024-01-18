@@ -6,8 +6,8 @@ summary: 'One of the biggest challenges in implementing a new technology or proc
 authors:
   - christen-geiler
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - innovation
 ---
 

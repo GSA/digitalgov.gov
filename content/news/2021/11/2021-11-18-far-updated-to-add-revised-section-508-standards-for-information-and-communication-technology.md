@@ -11,9 +11,7 @@ summary:
 topics:
   - acquisition
   - accessibility
-  - section-508
   - communication
-  - far
 slug: far-updated-to-add-revised-section-508-standards-for-information-and-communication-technology
 # Controls how this page appears across the site
 # 0 -- hidden
