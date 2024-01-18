@@ -7,7 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
-  - recaps
 ---
 
 A prize competition often starts with a problem. In order to get help to find a solution, people need to clearly understand your problem.

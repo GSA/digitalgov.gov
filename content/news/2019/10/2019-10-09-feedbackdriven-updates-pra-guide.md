@@ -18,7 +18,7 @@ source: pra-guide
 # see all topics at https://digital.gov/topics
 topics:
   - information-collection
-  - user-research
+  - research
 
 # see all authors at https://digital.gov/authors
 authors:

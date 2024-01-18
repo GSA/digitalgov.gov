@@ -7,12 +7,6 @@ authors:
   - david-fern
 topics:
   - mobile
-  - monthly-theme
-  - Federal CrowdSource Mobile Testing Program
-  - mobile
-  - mobile-testing
-  - mobile-ux-guideline-4
-  - mobile-friendly
   - usability
 ---
 

@@ -6,18 +6,12 @@ summary: Recently a segment on my favorite morning news program stopped me in my
 authors:
   - pat-toth
 topics:
-  - product-management
-  - strategy
-  - policy
+  - product-and-project-management
+  - content-strategy
   - best-practices
-  - Commerce
-  - data
-  - department-of-commerce
+  - open-data
   - innovation
-  - internet-of-things
-  - IoT
-  - national-institute-of-standards-and-technology
-  - NIST
+  - emerging-tech
   - security
 ---
 

@@ -5,7 +5,7 @@ title: 'Mobile Tester: Usability Short Reads: Learning from others’ mistakes'
 summary: 'Over the last 18 months, the intrepid Mobile Gov team has worked with you to prioritize a set of guidelines and recommendations for good mobile user experience; categories are ranked by priority and tagged by user experience concepts such as information architecture, content, functionality, design, trustworthiness, and user context. The primary purpose of this set is'
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
+  - mobile
   - usability
 
 ---

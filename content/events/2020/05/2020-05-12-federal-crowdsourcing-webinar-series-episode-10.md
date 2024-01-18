@@ -26,9 +26,8 @@ authors:
 # see all topics at https://digital.gov/topics
 topics: 
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - innovation
-  - open
 
 # YouTube ID
 youtube_id: 

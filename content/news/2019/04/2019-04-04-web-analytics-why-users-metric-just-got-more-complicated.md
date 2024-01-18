@@ -7,10 +7,9 @@ summary: 'A look at how the new Safari policy will alter your web analytics benc
 authors:
   - tlowden
 categories:
-  - metrics
+  - analytics
 tag:
   - analytics
-  - dap
 featured_image:
   uid: dap-new-returning
   alt: ''

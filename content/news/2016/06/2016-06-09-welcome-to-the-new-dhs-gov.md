@@ -7,22 +7,11 @@ authors:
   - j-todd-breasseale
 topics:
   - accessibility
-  - content
-  - design
-  - product-management
-  - mobile
-  - strategy
-  - policy
-  - "508"
-  - accessibility
-  - content
   - content-strategy
-  - dhs
+  - design
+  - product-and-project-management
   - mobile
-  - responsive-web-design
-  - section-508
-  - united-states-department-of-homeland-security
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

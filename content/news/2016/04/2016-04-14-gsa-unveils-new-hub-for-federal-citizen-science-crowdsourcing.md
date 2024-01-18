@@ -8,10 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - challenges-and-prize-competitions
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - OSTP
 ---
 
 Do you have a scientific issue to address? Wish you had dozens, hundreds, even thousands more people helping you out?

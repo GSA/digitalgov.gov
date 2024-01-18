@@ -8,10 +8,10 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/01/Usability.gov-reboot-250x187.jpg" alt="Mobile devices - Laptop, tablets, smartphone" >}}Have you ever opened an email on your smartphone, and then switched to your laptop to read the attachment or write your response? According to a [new multi-device study](https://econsultancy.com/blog/64464-more-than-40-of-online-adults-are-multi-device-users-stats), you’re not alone. More than 40 percent of all online adults move across devices—they start an activity on one device and finish it on another.

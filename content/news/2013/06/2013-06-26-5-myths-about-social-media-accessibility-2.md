@@ -10,7 +10,7 @@ topics:
   - social-media
   - accessibility
   - social-media
-  - socialgov
+  - social-media
 ---
 
 <p>

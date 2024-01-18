@@ -6,12 +6,10 @@ summary: 'If you aren’t currently including email marketing in your digital ou
 authors:
   - nicholas-garlow
 topics:
-  - content
-  - metrics
+  - content-strategy
+  - analytics
   - social-media
-  - a-b-testing
-  - HHS
-  - united-states-department-of-health-and-human-services
+  - research
 ---
 
 {{< legacy-img src="2014/08/600-x-450-Finance-concept-arrows-in-Email-target-on-wall-background-maxkabakov-iStock-Thinkstock-459061085.jpg" alt="Finance concept arrows in Email target on wall background" caption="" >}}

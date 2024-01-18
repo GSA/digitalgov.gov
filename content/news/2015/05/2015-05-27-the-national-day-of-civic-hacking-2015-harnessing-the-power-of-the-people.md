@@ -7,9 +7,7 @@ authors:
   - ali-llewellyn
 topics:
   - challenges-and-prize-competitions
-  - data
-  - data
-  - national-day-of-civic-hacking
+  - software-engineering
   - open-data
 ---
 

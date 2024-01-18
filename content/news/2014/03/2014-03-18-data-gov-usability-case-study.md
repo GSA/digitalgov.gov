@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - open-data
-  - usability-case-study
+  - usability
   - user-experience
 ---
 

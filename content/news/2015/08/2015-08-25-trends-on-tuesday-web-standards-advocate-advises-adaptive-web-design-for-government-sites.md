@@ -8,10 +8,10 @@ authors:
 topics:
   - design
   - mobile
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-2
-  - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - mobile
+  - mobile
+  - mobile
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Escalators-quote-Mitch-Hedberg.jpg" alt="I like an escalator because an escalator can never break, it can only become stairs. — Mitch Hedberg" >}}

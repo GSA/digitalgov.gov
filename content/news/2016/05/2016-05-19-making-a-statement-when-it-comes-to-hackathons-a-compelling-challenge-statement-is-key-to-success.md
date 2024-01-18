@@ -7,8 +7,7 @@ authors:
   - nicholas-skytland
 topics:
   - challenges-and-prize-competitions
-  - nasa
-  - national-day-of-civic-hacking
+  - software-engineering
 ---
 
 As the civic hacking movement continues to grow in the United States, agencies are starting to adopt hackathons to engage citizens in the challenging work of improving government services and solving real-world challenges using open data. {{< legacy-img src="2016/05/600-x-400-Composite-image-of-winners-cup-on-enter-key-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497353503.jpg" alt="Composite image of winners cup on enter key" caption="" >}}

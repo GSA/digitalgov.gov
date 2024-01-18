@@ -6,19 +6,12 @@ summary: 'So, you have some systems or tools your customers or employees access.
 authors:
   - beth-martin
 topics:
-  - communities
   - analytics
-  - aoi
-  - digitalgov-user-experience-program
-  - FAA
-  - Federal Aviation Administration
-  - gsa
-  - personas
-  - prototype
-  - usability-testing
   - user-experience
-  - user-experience-community-of-practice
-  
+  - research
+  - design
+  - usability
+  - user-experience
 ---
 
 {{< legacy-img src="2015/02/600-x-420-Usability-Mathias-Rosenthal-iStock-Thinkstock-523316205.jpg" alt="Usability sign" caption="" >}} 

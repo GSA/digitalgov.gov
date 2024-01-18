@@ -20,7 +20,7 @@ end_date: 2018-06-14 16:30:00 -0500
 topics: 
   - usability
   - user-experience
-  - usability-testing
+  - usability
 
 # see all authors at https://digital.gov/authors
 authors: 

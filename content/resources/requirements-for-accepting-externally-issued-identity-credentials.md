@@ -5,8 +5,7 @@ title: Requirements for Accepting Externally Issued Identity Credentials
 summary: "This memo dated October 6, 2011, from the Federal CIO to the CIO&#8217;s of Executive Departments and Agencies, mandates that agencies are to begin leveraging externally-issued credentials, in addition to continuing to offer federally-issued credentials."
 
 topics:
-  - policy
-
+  - product-and-project-management
 authors:
   - apiazza
 

@@ -6,10 +6,9 @@ summary: 'Analyzing your visitors&#8217; search terms can help you better unders
 authors:
   - michelle-chronister
 topics:
-  - content
-  - data
-  - product-management
-  - metrics
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - search
 ---
 

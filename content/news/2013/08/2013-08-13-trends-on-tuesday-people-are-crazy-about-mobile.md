@@ -7,7 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)The way people are using mobile is changing—we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways.

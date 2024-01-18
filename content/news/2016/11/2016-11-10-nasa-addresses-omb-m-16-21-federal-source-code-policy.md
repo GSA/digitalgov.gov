@@ -8,13 +8,9 @@ authors:
   - jason-duley
 
 topics:
-  - code
-  - product-management
+  - product-and-project-management
   - software-engineering
-  - strategy
-  - policy
-  - code
-
+  - content-strategy
 ---
 
 In August 2016, <a href="https://sourcecode.cio.gov/" target="_blank">OMB released M-16-21</a>, which seeks to ensure that new custom-developed Federal source code be made broadly available for reuse across the Federal Government. M-16-21 also requires agencies, when commissioning new custom software, to release at least 20 percent of new custom-developed code as Open Source Software (OSS) for three years, and to collect data concerning new custom software to gauge performance. This approach is consistent with the Digital Government Strategy “Shared Platform” approach, which enables federal employees to work together—both within and across agencies—to reduce costs, streamline development, apply uniform standards, and ensure consistency in creating and delivering information. To assist federal agencies with further implementing this new policy, OMB has recently released a new website called <a href="https://code.gov/#/" target="_blank">code.gov</a>.

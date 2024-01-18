@@ -10,8 +10,7 @@ summary: "Substance Abuse and Mental Health Services Administration (SAMHSA) rec
 
 # See all topics at https://digital.gov/topics
 topics:
-  - contact-center
-  - samhsa
+  - contact-centers
   - communication
 
 # See all authors at https://digital.gov/authors

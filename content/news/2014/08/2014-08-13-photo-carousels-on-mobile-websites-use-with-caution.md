@@ -6,15 +6,9 @@ summary: 'You might recognize them by the user controls, if provided, that allow
 authors:
   - beth-martin
 topics:
+  - content-strategy
   - mobile
-  - monthly-theme
-  - user-testing-and-research
-  - FAA
-  - Federal Aviation Administration
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-4
-  - web-content-managers-forum
+  - research
 
 ---
 

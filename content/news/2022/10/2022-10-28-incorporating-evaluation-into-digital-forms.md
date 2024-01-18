@@ -18,7 +18,7 @@ summary: The American public spends approximately 11.5 billion hours per year
   together to improve federal forms.
 # See all topics at https://digital.gov/topics
 topics:
-  - gsa
+  - user-experience
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

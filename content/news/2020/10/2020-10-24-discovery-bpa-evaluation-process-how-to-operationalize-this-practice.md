@@ -8,9 +8,9 @@ summary: This guide provides acquisition professionals the steps and resources n
 topics:
   - acquisition
   - product-and-project-management
-  - best-practices
   - open-source
   - project-management
+  - best-practices
 # See all authors at https://digital.gov/authors
 authors:
   - bridget-fields

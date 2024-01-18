@@ -7,17 +7,10 @@ authors:
   - jennifer-gonzalez
 topics:
   - crowdsourcing-and-citizen-science
-  - data
-  - product-management
-  - user-testing-and-research
-  - crowdsourcing
-  - Law Library of Congress
-  - LOC
-  - search-engine-optimization
-  - NARA
-  - national-archives-and-records-administration
+  - product-and-project-management
+  - budgeting-and-performance
   - research
-  - smithsonian-institution
+  - search-engine-optimization
 ---
 
 The [Law Library](http://www.gov.gov/law/?loclr=bloglaw) acquired a large collection from [William S. Hein & Co., Inc.](http://home.wshein.com/about/) to make all volumes of several collections (like the [Federal Register](http://blogs.gov.gov/law/2016/06/federal-register-volumes-now-available-online/?loclr=bloglaw)) available in open access to researchers. Preparing these files by adding metadata for easy searching takes a lot of work, so this summer we asked law students and library students from across the country to help become our “crowd” in order to crowdsource metadata for a collection of 542 volumes of _U.S. Reports_.

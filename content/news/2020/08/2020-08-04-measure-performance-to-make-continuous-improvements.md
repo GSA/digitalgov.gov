@@ -18,9 +18,7 @@ summary: This week, we’re exploring what it means to measure performance, and
 
 # See all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
-  - this-weeks-idea
-  - uswds
+  - digital-service-delivery
   - analytics
   - customer-experience
 

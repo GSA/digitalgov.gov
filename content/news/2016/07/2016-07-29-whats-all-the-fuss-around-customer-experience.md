@@ -6,12 +6,9 @@ summary: 'Have you been hearing the terms &#8220;Customer Experience&#8221; or &
 authors:
   - alison-sturgeon
 topics:
-  - communities
-  - monthly-theme
-  - communities
   - customer-experience
-  - customer-satisfaction
-  - customer-service
+  - customer-experience
+  - customer-experience
 ---
 
 Have you been hearing the terms &#8220;Customer Experience&#8221; or &#8220;CX&#8221; a lot lately? Maybe you’re wondering how they relate to customer service, or maybe you want to learn more about CX and how it can help your customers. Whether you directly interact with customers, support front line employees, or manage program operations, your work has an impact on your agency’s customers. And it’s very important that excellent customer service be at the forefront in the federal government because we impact so many lives. {{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 

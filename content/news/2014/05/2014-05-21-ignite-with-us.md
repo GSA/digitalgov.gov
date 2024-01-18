@@ -7,18 +7,16 @@ authors:
   - apiazza
 topics:
   - challenges-and-prize-competitions
-  - code
-  - content
-  - product-management
-  - metrics
-  - mobile
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - social-media
   - user-experience
-  - api
-  - Census
+  - application-programming-interface
   - innovation
-  - mobile-apps
-  - united-states-census-bureau
+  - mobile
+  - usability
 ---
 
 Have a DigitalGov success?—published an API? Got buy-in from leadership? Changed a part of your customer-service paradigm? Developed a cool dashboard? Got the app out the door?

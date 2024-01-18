@@ -23,8 +23,6 @@ authors:
 # see all topics at https://digital.gov/topics
 topics:
   - research
-  - user-research
-  - 18f
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -8,12 +8,7 @@ authors:
   - corinna-zarek
 topics:
   - challenges-and-prize-competitions
-  - data
   - social-media
-  - CFPB
-  - DOT
-  - HHS
-  - nasa
   - open-government
 ---
 

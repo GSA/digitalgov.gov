@@ -9,9 +9,8 @@ topics:
   - information-architecture
   - user-experience
   - open-source
-  - user-research
-  - prototype
-  - recaps
+  - research
+  - design
 # See all authors at https://digital.gov/authors
 authors:
   - shannon-mcharg

@@ -8,11 +8,9 @@ authors:
   - jonathan-rubin
 
 topics:
-  - monthly-theme
+  - communication
+  - multimedia
   - social-media
-  - video
-  - writing
-  - usagov
 
 ---
 

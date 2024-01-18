@@ -8,7 +8,6 @@ authors:
   - brian-fox
 
 topics:
-  - product-management
   - product-and-project-management
   - software-engineering
 

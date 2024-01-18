@@ -7,18 +7,6 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
-  - DOE
-  - epa
-  - nasa
-  - NPS
-  - OSTP
-  - us-department-of-education
-  - us-environmental-protection-agency
-  - us-national-park-service
-  - united-states-geological-survey
-  - USGS
-  - white-house
-  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Challenges-Prizes-5-year-audience.jpg" alt="Audience at Challenge.gov 5-year anniversary event" >}}

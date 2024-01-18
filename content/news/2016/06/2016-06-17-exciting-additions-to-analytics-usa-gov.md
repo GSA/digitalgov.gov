@@ -9,15 +9,9 @@ authors:
   - eric-mill
   - colin-craig
 topics:
-  - data
-  - product-management
-  - metrics
-  - our-work
-  - 18f
   - analytics
-  - data
-  - digital-analytics-program
-  - metrics
+  - product-and-project-management
+  - open-data
 ---
 
 We’ve expanded <a href="https://analytics.usa.gov/">analytics.usa.gov</a> to include 15(!) more agency-specific dashboard pages. We now offer agency-specific analytics data pages for a total of 25 major federal agencies, and each one is accessible from the dropdown menu at the top of the site.

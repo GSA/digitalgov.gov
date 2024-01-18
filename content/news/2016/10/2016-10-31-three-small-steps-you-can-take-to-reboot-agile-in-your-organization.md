@@ -8,16 +8,10 @@ authors:
   - michael-torres
   - kristy-singletary
 topics:
-  - strategy
-  - policy
-  - user-testing-and-research
-  - 18f
+  - content-strategy
+  - research
   - product-and-project-management
   - best-practices
-  - Commerce
-  - department-of-commerce
-  - sprint
-  - workflows
 ---
 
 This past summer, 18F held an agile workshop for the National Technical Information Service (NTIS), part of the U.S. Department of Commerce. An agency with roots going back to World War II, NTIS is facing a future that requires a strategic realignment towards open data and services. This strategic alignment will also require that NTIS operate in a more nimble, proactive fashion when working with partners in the public and private sectors. {{< legacy-img src="2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" >}} 

@@ -7,12 +7,12 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - GobiernoUSAgov
-  - mobile-ux-guideline-5
-  - mobile-first
+  - multilingual
+  - mobile
+  - mobile
   - multilingual
   - social-media
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/05/250-x-165-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 

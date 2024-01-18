@@ -15,18 +15,18 @@ date: 2021-09-21 10:00:00 -0500
 end_date: 2021-09-21 15:45:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - plain-language-community-of-practice
+  - plain-language
   - plain-language
   - accessibility
   - content-strategy
-  - content
+  - content-strategy
   - customer-experience
   - professional-development
   - social-media
   - usability
   - user-experience
-  - user-research
-  - writing
+  - research
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

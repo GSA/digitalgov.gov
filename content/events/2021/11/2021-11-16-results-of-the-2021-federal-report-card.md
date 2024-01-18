@@ -12,11 +12,9 @@ end_date: 2021-12-08 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - plain-language-community-of-practice
-  - training
-  - writing
+  - communication
   - user-experience
-  - content
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

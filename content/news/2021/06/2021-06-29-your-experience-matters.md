@@ -18,8 +18,8 @@ summary: summary
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - customer-satisfaction
-  - customer-service
+  - customer-experience
+  - customer-experience
 slug: your-experience-matters
 # Controls how this page appears across the site
 # 0 -- hidden

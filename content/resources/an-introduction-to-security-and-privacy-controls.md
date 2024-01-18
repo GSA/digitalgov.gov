@@ -7,8 +7,6 @@ summary: What do the control families of NIST 800-53 mean? Here's an overview of
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - policy
-  - regulation
 
 # See all authors at https://digital.gov/authors
 authors:

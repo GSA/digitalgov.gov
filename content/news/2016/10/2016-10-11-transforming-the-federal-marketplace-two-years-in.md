@@ -6,14 +6,9 @@ summary: 'Summary: It’s been two years since we laid out the Administration’
 authors:
   - anne-rung
 topics:
-  - strategy
-  - policy
+  - content-strategy
   - acquisition
-  - product-and-project-management
-  - gsa
   - innovation
-  - Office of Management and Budget
-  - OMB
 ---
 
 > _Summary: It’s been two years since we laid out the Administration’s plan to transform the Federal marketplace. Here’s a look at what we’ve accomplished, and what’s next._

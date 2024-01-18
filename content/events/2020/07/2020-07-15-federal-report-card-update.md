@@ -20,7 +20,6 @@ end_date: 2020-07-15 12:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - plain-language
-  - plain-language-community-of-practice
 
 # see all authors at https://digital.gov/authors
 authors: 

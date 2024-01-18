@@ -21,9 +21,6 @@ end_date: 2019-11-04 14:30:00
 topics: 
   - product-and-project-management
   - software-engineering
-  - product-management
-  - scrum
-
 # see all authors at https://digital.gov/authors
 authors: 
   - alan-brouilette

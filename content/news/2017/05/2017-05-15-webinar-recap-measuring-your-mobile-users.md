@@ -8,12 +8,9 @@ authors:
   - lisa-bari
 
 topics:
-  - metrics
-  - mobile
   - analytics
+  - mobile
   - best-practices
-  - dap
-  - digital-analytics-program
 
 ---
 

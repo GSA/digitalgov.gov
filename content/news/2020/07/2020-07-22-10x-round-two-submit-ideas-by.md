@@ -11,7 +11,6 @@ summary: "GSA’s 10x program funds the best ideas from federal employees across
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 10x
   - innovation
 
 # see all authors at https://digital.gov/authors

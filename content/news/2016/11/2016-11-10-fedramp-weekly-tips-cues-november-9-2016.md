@@ -7,10 +7,10 @@ summary: 'Many of  our cloud service providers (CSPs), federal agencies, and thi
 authors:
   - fedramp
 topics:
-  - code
-  - product-management
-  - cloud
-  - fedramp
+  - software-engineering
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - security
 ---
 
 Many of  our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns.

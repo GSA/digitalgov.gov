@@ -7,10 +7,7 @@ authors:
   - judy-romano
 topics:
   - challenges-and-prize-competitions
-  - monthly-theme
-  - Census
   - open-data
-  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}

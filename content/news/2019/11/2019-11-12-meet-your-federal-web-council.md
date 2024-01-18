@@ -10,9 +10,8 @@ authors:
   - rflagg
 
 topics:
-  - product-management
-  - 21st-century-idea
-  - this-weeks-idea
+  - product-and-project-management
+  - digital-service-delivery
 
 featured_image:
   uid: this-weeks-idea-card-wk2

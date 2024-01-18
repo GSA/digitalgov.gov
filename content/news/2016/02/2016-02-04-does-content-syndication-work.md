@@ -6,11 +6,8 @@ summary: 'You may have heard some chatter about syndication but thought to yours
 authors:
   - christen-geiler
 topics:
-  - content
-  - content-syndication
+  - content-strategy
   - mobile
-  - national-institutes-of-health
-  - nih
 ---
 
 You may have heard some chatter about syndication but thought to yourself—sounds good but does it really work? {{< legacy-img src="2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 

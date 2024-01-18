@@ -6,9 +6,7 @@ summary: 'Identity theft is a big problem and it takes time and effort to deal w
 authors:
   - rosario-mendez
 topics:
-  - content
-  - Federal Trade Commission
-  - FTC
+  - content-strategy
 ---
 
 Identity theft is a big problem and it takes time and effort to deal with the issues that it causes. The Federal Trade Commission (FTC), has a new tool that makes it easier for identity theft victims to recover from identity theft by providing a personal recovery plan. No matter what the person’s specific identity theft situation is, [IdentityTheft.gov](https://www.identitytheft.gov/) can help. The website has information—and recovery plans—for more than 30 types of identity theft, including child identity theft and tax-related identity theft.

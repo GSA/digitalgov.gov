@@ -18,8 +18,8 @@ end_date: 2019-11-19 11:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - a-b-testing
-  - dap
+  - research
+  - analytics
   - seo
 
 # see all authors at https://digital.gov/authors

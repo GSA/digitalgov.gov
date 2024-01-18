@@ -6,8 +6,6 @@ summary: 'The week before Patriot Day, our nation’s annual remembrance of the 
 authors:
   - firstnet-communications
 topics:
-  - data
-  - firstnet
   - innovation
 
 ---

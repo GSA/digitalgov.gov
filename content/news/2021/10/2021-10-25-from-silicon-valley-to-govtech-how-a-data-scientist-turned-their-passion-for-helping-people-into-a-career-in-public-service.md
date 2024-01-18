@@ -6,9 +6,7 @@ deck:
 summary: "Many opportunities are available for technologists to make an impact in public service. See how Avena Cheng, a data scientist at the Centers for Medicare and Medicaid Services (CMS), turned a passion for improving people's lives into a govtech career."
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - professional-development
-  - tts
 # See all authors at https://digital.gov/authors
 authors:
   - dahianna-salazar-foreman

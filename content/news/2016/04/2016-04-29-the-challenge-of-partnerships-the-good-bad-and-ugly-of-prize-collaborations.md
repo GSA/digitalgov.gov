@@ -7,14 +7,11 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
-  - HHS
-  - NIST
-  - united-states-department-of-health-and-human-services
 ---
 
 Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin.
 
-To partner or not to partner: That is the question. {{< legacy-img src="2016/03/600-x-400-People-putting-the-pieces-together-concept-DigtialStorm-iStock-Thinkstock-473511946.jpg" alt="People putting the pieces together concept" caption="" >}} 
+To partner or not to partner: That is the question. {{< legacy-img src="2016/03/600-x-400-People-putting-the-pieces-together-concept-DigtialStorm-iStock-Thinkstock-473511946.jpg" alt="People putting the pieces together concept" caption="" >}}
 
 “If you are going to do one, don’t do it because it seems like a good idea,” says Sandeep Patel, open innovation manager at the Department of Health and Human Services (HHS) Idea Lab. “Make sure there is value in it.”
 

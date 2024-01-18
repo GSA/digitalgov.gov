@@ -18,9 +18,8 @@ summary: ""
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - uswds
-  - cloud-gov
-  - login-gov
+  - cloud-and-infrastructure
+  - security
 
 # see all authors at https://digital.gov/authors
 authors: 

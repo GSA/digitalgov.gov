@@ -7,8 +7,8 @@ authors:
   - jennifer-kerber
   - jonathan-prisby
 topics:
-  - product-management
-  - cloud
+  - product-and-project-management
+  - cloud-and-infrastructure
   - trust
   - privacy
   - security

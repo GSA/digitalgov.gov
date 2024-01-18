@@ -8,15 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - monthly-theme
-  - crowdsourcing
-  - federal-emergency-management-agency
-  - fema
-  - nasa
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - transportation-security-administration
-  - TSA
 ---
 
 Mobile devices allow the public to interact with government in new and game-changing ways and users [expect those interactions]({{< ref "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}). As a result, many agencies are taking advantage of native apps for crowdsourcing projects.

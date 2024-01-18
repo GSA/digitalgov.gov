@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
-  - recaps
 
 ---
 

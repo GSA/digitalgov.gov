@@ -6,18 +6,9 @@ summary: 'Last month, I worked to create a &ldquo;Citizen Science Passport&rdquo
 authors:
   - bbrantley
 topics:
-  - code
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - epa
-  - nasa
-  - NPS
-  - the-data-briefing
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - us-national-park-service
-  - USDA
+  - software-engineering
+  - crowdsourcing-and-citizen-science
+  - emerging-tech
 ---
 
 Last month, I worked to create a “Citizen Science Passport” for the federal agencies participating in the <a href="http://www.usasciencefestival.org/" target="_blank">USA Science and Engineering Festival</a>. Seven federal agencies offered some form of crowdsourcing or citizen science activity at their booths such as the U.S. Department of Agriculture’s exhibit on food safety or Environmental Protection Agency’s build-your-own air monitoring kit. Attendees would participate in each of the agency’s citizen science activity to receive a stamp on their passport. Collect all seven stamps and passport holders would receive a prize from a <a href="http://scistarter.com/" target="_blank">citizen science partner organization</a>. It is great to see young people become so excited about science and engineering. {{< legacy-img src="2016/01/600-x-400-Man-looking-through-binoculars-SimCh-iStock-Thinkstock-507793001.jpg" alt="Man looking through binoculars" caption="" >}} 

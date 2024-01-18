@@ -6,10 +6,7 @@ summary: ' It is fall when the weather becomes colder, and people start firing u
 authors:
   - bbrantley
 topics:
-  - api
-  - DOE
-  - united-states-department-of-energy
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/10/400-x-268-Dept-Energy-Home-Energy-Saver-HES-Professional-Tool.jpg" alt="Dept Energy Home Energy Saver HES Professional Tool" >}}

@@ -7,8 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges-and-prize-competitions
-  - crowdsourcing
-  - nasa
+  - crowdsourcing-and-citizen-science
 ---
 
 {{< legacy-img src="2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" caption="" >}} 

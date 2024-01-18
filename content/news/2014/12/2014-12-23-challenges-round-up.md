@@ -7,16 +7,8 @@ authors:
   - apiazza
 topics:
   - challenges-and-prize-competitions
-  - monthly-theme
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - crowdsourcing
-  - nasa
+  - crowdsourcing-and-citizen-science
   - open-source
-  - OSTP
-  - recaps
-  - white-house-office-of-science-and-technology-policy
-
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="Bplanet / iStock / Thinkstock" >}} 

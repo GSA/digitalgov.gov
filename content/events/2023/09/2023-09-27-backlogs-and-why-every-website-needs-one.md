@@ -14,8 +14,6 @@ end_date: 2023-10-12 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
-  - product-management
-  - project-management
 slug: backlogs-and-why-every-website-needs-one
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom

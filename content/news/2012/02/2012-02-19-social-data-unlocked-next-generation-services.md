@@ -11,10 +11,9 @@ authors:
   - jherman
 
 topics:
-  - code
+  - software-engineering
   - social-media
-  - api
-  - socialgov
+  - application-programming-interface
 
 ---
 

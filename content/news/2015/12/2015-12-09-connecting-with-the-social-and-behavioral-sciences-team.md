@@ -9,11 +9,8 @@ authors:
   - rflagg
 
 topics:
-  - product-management
-  - monthly-theme
+  - product-and-project-management
   - customer-experience
-  - recaps
-  - social-and-behavioral-sciences-team
   - user-experience
 
 ---

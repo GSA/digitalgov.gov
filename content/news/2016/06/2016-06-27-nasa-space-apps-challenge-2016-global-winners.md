@@ -7,15 +7,9 @@ authors:
   - beth-beck
 topics:
   - challenges-and-prize-competitions
-  - mobile
-  - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - innovation
   - mobile
-  - mobile-apps
-  - mobile-gov
-  - mobile-gov
-  - nasa
   - open-data
   - open-government
   - open-source

@@ -13,9 +13,8 @@ authors:
   - ammie-farraj-feijoo
 
 topics:
-  - product-management
-  - 21st-century-idea
-  - this-weeks-idea
+  - product-and-project-management
+  - digital-service-delivery
 
 ---
 

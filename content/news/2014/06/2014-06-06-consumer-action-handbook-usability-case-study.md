@@ -12,11 +12,10 @@ topics:
   - design
   - user-testing-and-research
   - user-experience
-  - digitalgov-user-experience-program
-  - usability-case-study
-  - usability-testing
   - user-experience
-  - usagov
+  - usability
+  - usability
+  - user-experience
 
 ---
 

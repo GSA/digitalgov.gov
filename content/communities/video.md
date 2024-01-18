@@ -19,8 +19,8 @@ authors:
 
 # see all topics at https://digital.gov/topics
 topics:
-  - video
-  - audio
+  - multimedia
+  - multimedia
 
 redirectto: https://community.max.gov/pages/viewpage.action?pageId=2352827404
 

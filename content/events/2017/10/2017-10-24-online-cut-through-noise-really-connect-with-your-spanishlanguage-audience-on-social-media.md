@@ -20,7 +20,7 @@ end_date: 2017-10-24 15:00:00 -0500
 topics:
   - multilingual
   - social-media
-  - multilingual-community
+  - multilingual
 
 # see all authors at https://digital.gov/authors
 authors:

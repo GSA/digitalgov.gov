@@ -6,12 +6,12 @@ summary: Your audience is not homogenous. No matter the agency, target audiences
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - diversity-equity-and-inclusion
   - multilingual
-  - personas
+  - research
   - usability
-  - usability-case-study
+  - usability
 
 ---
 

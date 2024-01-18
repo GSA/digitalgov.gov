@@ -7,9 +7,9 @@ authors:
   - victoria-wales
   - lmartinez
 topics:
-  - content
   - content-strategy
-  - GobiernoUSAgov
+  - content-strategy
+  - multilingual
   - multilingual
 ---
 

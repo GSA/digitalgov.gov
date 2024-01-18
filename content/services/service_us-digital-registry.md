@@ -33,7 +33,7 @@ authors:
 topics:
   - social-media
   - mobile
-  - product-management
+  - product-and-project-management
 
 aliases:
   - /services/social-media-registry/

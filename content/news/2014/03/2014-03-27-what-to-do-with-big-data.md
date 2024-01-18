@@ -7,13 +7,9 @@ authors:
   - lauren-caldwell
   - erin-twamley
 topics:
-  - data
-  - big-data
-  - data
+  - analytics
   - open-data
-  - DOE
   - open-government
-  - united-states-department-of-energy
 ---
 
 [{{< legacy-img src="2014/03/innovate\_tint\_med-1.jpg" alt="image of the word innovation in a dictionary" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/innovate_tint_med-1.jpg)

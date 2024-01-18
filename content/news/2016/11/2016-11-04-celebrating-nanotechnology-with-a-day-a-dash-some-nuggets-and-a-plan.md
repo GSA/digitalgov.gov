@@ -8,12 +8,9 @@ authors:
   - lisa-friedersdorf
 topics:
   - governance
-  - product-management
-  - strategy
-  - policy
+  - product-and-project-management
+  - content-strategy
   - innovation
-  - OSTP
-  - white-house-office-of-science-and-technology-policy
 ---
 
 > _Summary: The release of an updated National Nanotechnology Initiative Strategic Plan caps a month of activities highlighting nanotechnology._

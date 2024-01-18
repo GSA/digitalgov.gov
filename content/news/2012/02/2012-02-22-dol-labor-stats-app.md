@@ -7,8 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-apps
-  - mobile-gov-experience
 
 ---
 

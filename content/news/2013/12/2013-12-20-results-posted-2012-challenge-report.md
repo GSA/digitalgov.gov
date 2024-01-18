@@ -7,10 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges-and-prize-competitions
-  - our-work
-  - crowdsourcing
-  - OSTP
-  - white-house
+  - crowdsourcing-and-citizen-science
 ---
 
 {{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="The Challenge dot gov logo" >}}

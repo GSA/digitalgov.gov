@@ -6,20 +6,9 @@ summary: For the past several weeks, I have been inflicting you with my recent d
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - epa
-  - FCC
-  - federal-communications-commission
-  - HHS
+  - content-strategy
   - artificial-intelligence
   - open-government
-  - structured-content
-  - the-content-corner
-  - us-environmental-protection-agency
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/08/600-x-343-Asking-cyborg-Ociacia-iStock-Thinkstock-177531624.jpg" alt="Cyborg gesturing to ask a question" caption="" >}} 
@@ -75,5 +64,5 @@ Through [Ignite](http://www.hhs.gov/idealab/what-we-do/hhs-ignite/), an internal
 </p>
 
 <p>
-  <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+  <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/content-strategy" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
 </p>

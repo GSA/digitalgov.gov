@@ -7,11 +7,7 @@ authors:
   - jesse-taggert
 topics:
   - user-experience
-  - 18f
   - product-and-project-management
-  - DOL
-  - sprint
-  - us-department-of-labor
 ---
 
 At 18F Consulting, we experiment with [ways to empower agencies](https://18f.gsa.gov/consulting/) to build cost-efficient, excellent digital solutions. Recently we partnered with the Department of Labor’s Wage and Hour Division (WHD) to run a two day “Design/Dev Agile Sprint.”

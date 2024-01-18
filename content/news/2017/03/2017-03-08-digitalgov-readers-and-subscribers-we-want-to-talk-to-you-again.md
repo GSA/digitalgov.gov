@@ -6,13 +6,11 @@ summary: 'We at DigitalGov want to hear more about you &#8211; your job, your ro
 authors:
   - digitalgov-team
 topics:
-  - content
-  - product-management
-  - our-work
+  - content-strategy
+  - product-and-project-management
   - user-testing-and-research
-  - content
+  - content-strategy
   - customer-experience
-  - office-of-products-and-programs
   - research
   - user-experience
   

@@ -1,25 +1,20 @@
 ---
 slug: what-pifs-have-been-up-in-2019
 date: 2019-08-09 10:30:00 -0500
-title: 'What the PIFs Have Been Up to in 2019'
-summary: 'Members of the PIF class of 2019 include data strategists, AI specialists, venture capitalists, and neuroscientists&#46; See what they’ve been up to this year&#46;'
+title: "What the PIFs Have Been Up to in 2019"
+summary: "Members of the PIF class of 2019 include data strategists, AI specialists, venture capitalists, and neuroscientists&#46; See what they’ve been up to this year."
+
 authors: 
   - davar-ardalan
   - joshua-di-frances
-categories: 
+
+topics: 
   - emerging-tech
-  - managing-digital
-  - our-work
-tag: 
   - artificial-intelligence
-  - data
   - innovation
-  - machine-learning
-  - pif
-  - presidential-innovation-fellows
 featured_image: 
   uid: pif-homecoming-8
-  alt: 'Presidential Innovation Fellows gathered at the Eisenhower Executive Office Building on July 12 as part of a PIF Homecoming event&#46;'
+  alt: "Presidential Innovation Fellows gathered at the Eisenhower Executive Office Building on July 12 as part of a PIF Homecoming event."
 
 ---
 

@@ -8,7 +8,7 @@ summary:
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
-  - census
+  
   - challenges-and-prize-competitions
 # Controls how this page appears across the site
 # 0 -- hidden

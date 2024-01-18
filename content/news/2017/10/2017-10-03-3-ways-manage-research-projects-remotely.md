@@ -8,21 +8,10 @@ authors:
   - jamie-albrecht
 topics:
   - design
-  - product-management
-  - strategy
-  - policy
-  - user-testing-and-research
+  - product-and-project-management
+  - content-strategy
   - user-experience
-  - 18f
-  - fbi
-  - fec
-  - federal-bureau-of-investigation
-  - federal-election-commission
   - research
-  - sprint
-  - us-department-of-the-interior
-  - uswds
-  - user-research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428
   alt:

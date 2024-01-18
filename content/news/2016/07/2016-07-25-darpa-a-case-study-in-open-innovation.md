@@ -8,18 +8,9 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - product-management
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - DARPA
-  - defense-advanced-research-projects-agency
-  - DoD
+  - product-and-project-management
   - innovation
   - open-government
-  - technology-transformation-services
-  - tts
-  - united-states-department-of-defense
-
 ---
 
 You may not know it, but the Defense Advanced Research Projects Agency, or DARPA, has changed your life.

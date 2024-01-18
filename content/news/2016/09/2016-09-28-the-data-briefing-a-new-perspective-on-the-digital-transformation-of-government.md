@@ -6,18 +6,12 @@ summary: One day, at an unnamed agency, the Outlook server crashed. The server s
 authors:
   - bbrantley
 topics:
-  - code
-  - data
-  - product-management
-  - strategy
-  - policy
   - product-and-project-management
-  - information-architecture
-  - cloud
-  - code
-  - data
+  - content-strategy
+  - cloud-and-infrastructure
+  - software-engineering
   - innovation
-  - the-data-briefing
+  - emerging-tech
 ---
 
 One day, at an unnamed agency, the Outlook server crashed. The server stayed down for the rest of the afternoon. Deprived of email and meeting calendars, employees wandered around trying to remember what meetings they had to attend. Other employees went searching for people who they ordinarily would email. There was confusion that made people realize just how dependent they were on a single software program. As the Federal government moves toward digital transformation, I have been thinking about how agencies can best weather the transition from legacy systems to cloud-based, agile applications. {{< legacy-img src="2016/09/600-x-358-Hand-pushing-cloud-connectivity-icon-Melpomenem-iStock-Thinkstock-510310605.jpg" alt="Hand pushing cloud connectivity icon." caption="" >}} 

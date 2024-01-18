@@ -22,11 +22,10 @@ topics:
   - product-and-project-management
   - usability
   - design
-  - product-management
-  - project-management
+  - product-and-project-management
   - user-experience
-  - user-research
-  - usability-testing
+  - research
+  - usability
 
 # see all authors at https://digital.gov/authors
 authors: 

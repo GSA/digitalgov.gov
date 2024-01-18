@@ -9,9 +9,9 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - mobile
-  - augmented-reality
-  - virtual-reality
-  - virtual-augmented-reality-community
+  - emerging-tech
+  - challenges-and-prize-competitions
+  - multimedia
 ---
 
 _Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education._

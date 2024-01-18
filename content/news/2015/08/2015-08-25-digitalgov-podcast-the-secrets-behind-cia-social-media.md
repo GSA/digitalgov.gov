@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - podcast
-  - socialgov
+  - social-media
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 
 ---

@@ -19,12 +19,11 @@ summary: ""
 # see all topics at https://digital.gov/topics
 topics: 
   - accessibility
-  - contact-center
-  - content
+  - contact-centers
+  - content-strategy
   - design
   - multilingual
   - user-experience
-  
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

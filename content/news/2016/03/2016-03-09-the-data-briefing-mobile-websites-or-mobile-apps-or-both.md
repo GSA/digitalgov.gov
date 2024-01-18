@@ -6,17 +6,10 @@ summary: 'The increasing sophistication of mobile devices has created many oppor
 authors:
   - bbrantley
 topics:
-  - api
-  - data
+  - application-programming-interface
   - mobile
-  - api
-  - mobile
-  - mobile-apps
-  - native-apps
   - open-data
-  - responsive-web-design
-  - the-data-briefing
-
+  - emerging-tech
 ---
 
 The increasing sophistication of mobile devices has created many opportunities for developers. Thanks to APIs* and open data, developers can build thousands of mobile apps and mobile websites to meet users’ needs. This opportunity has created one of the most contentious debates in the mobile development community: mobile apps versus mobile websites? There is, yet, no solution to the debate. However, there are some advantages and disadvantages to both types of mobile solutions.
@@ -39,4 +32,4 @@ _*API – Application Programming Interface. How software programs and databases
 
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 

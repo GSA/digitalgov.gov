@@ -10,11 +10,9 @@ topics:
   - user-testing-and-research
   - user-experience
   - search
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - usability
-  - usability-case-study
-  - usability-testing
+  - usability
+  - usability
 ---
 
 <div>

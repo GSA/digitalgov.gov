@@ -6,13 +6,11 @@ summary: 'I feel as though I have ignored the beast in the room lately, and sinc
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - product-and-project-management
   - content-strategy
-  - the-content-corner
+  - product-and-project-management
 ---
 
-I feel as though I have ignored the [beast in the room]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) lately, and since I began my tenure on [The Content Corner]({{< ref "/topics/the-content-corner" >}}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.digitalgov.gov/tasks/479).
+I feel as though I have ignored the [beast in the room]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) lately, and since I began my tenure on [The Content Corner]({{< ref "/topics/content-strategy" >}}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.digitalgov.gov/tasks/479).
 
 Previously, I discussed the concept of [pair writing]({{< ref "2015-12-14-the-content-corner-is-pair-writing-right-for-you.md" >}}). Today I want to investigate how another software development concept can be leveraged to improve the quality and quantity of the content we create: [Agile content development](http://www.fastcocreate.com/1682380/the-3-keys-to-agile-content-development). {{< legacy-img src="2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" >}} 
 
@@ -42,4 +40,4 @@ The most important way to work through any initial stumbles or resistance is com
 
 Anyone successfully using an Agile content creation framework? Anyone thinking of taking the plunge? My team is so small that we are more small “a” agile anyway, but Agile is sweeping a variety of project management and even public affairs functions in my organization. I’m looking forward to following up on their experiences once they have a decent number of sprints under their belt.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

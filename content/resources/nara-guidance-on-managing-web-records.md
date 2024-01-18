@@ -5,7 +5,6 @@ title: NARA guidance on Managing Web Records
 summary: Managing web records properly is essential to effective web site operations, especially the mitigation of the risks an agency faces by using the web to carry out agency business.
 
 topics:
-  - policy
   - records-management
 
 authors:

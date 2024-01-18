@@ -12,7 +12,7 @@ summary: Strategies, examples, and lessons learned from coordinating with
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - content
+  - content-strategy
   - accessibility
 slug: plain-language-on-onrr-gov-coordination-and-implementation-with-web-content-owners
 # Controls how this page appears across the site

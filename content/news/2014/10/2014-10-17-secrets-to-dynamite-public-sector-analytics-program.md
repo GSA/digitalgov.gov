@@ -6,14 +6,10 @@ summary: ' Uncovering meaningful analytics from months or years of Web metrics i
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - metrics
+  - analytics
   - user-testing-and-research
   - user-experience
   - analytics
-  - data
-  - epa
-  - recaps
-  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2014/10/600-x-445-metrics-graphic-1-Performance-Measurement.jpg" alt="600 x 445 metrics-graphic-1-Performance-Measurement" >}}

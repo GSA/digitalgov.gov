@@ -6,8 +6,6 @@ summary: 'If you’re considering &ldquo;going agile,&rdquo; one of the critical
 authors:
   - brian-fox
 topics:
-  - product-management
-  - product-and-project-management
   - product-and-project-management
   - best-practices
 ---

@@ -10,7 +10,6 @@ end_date: 2023-03-28 15:00:00 -0500
 topics:
   - open-source
   - usability
-  - uswds
 slug: uswds-monthly-call-march-2023
 captions: https://www.streamtext.net/player/?event=BIS-GSA-1731
 date: 2023-03-28 14:00:00 -0500

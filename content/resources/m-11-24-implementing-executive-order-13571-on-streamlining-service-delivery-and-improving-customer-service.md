@@ -4,8 +4,7 @@ date: 2015-11-12 3:17:48 -0400
 title: M-11-24 Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service
 summary: "Memo M-11-24 is guidance to Implement Executive Order 13571."
 topics:
-  - policy
-  - customer-service
+  - customer-experience
 authors:
   - andreanocesigritz
 

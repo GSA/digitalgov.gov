@@ -6,19 +6,10 @@ summary: 'Users have questions. Your content and website navigation can help the
 authors:
   - awichman
 topics:
-  - monthly-theme
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - customer-service
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
-  - contact-center
-  - peace-corps
-  - us-digital-service
-  - USDS
-  - user-centered-design
+  - customer-experience
+  - contact-centers
+  - human-centered-design
   - user-experience
-  - user-experience-community-of-practice
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt="Frequently Asked Questions displays as typed on white paper in an old typewriter." caption="" >}} 

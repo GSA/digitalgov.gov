@@ -13,7 +13,6 @@ summary: summary
 # See all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
-  - 18f
 slug: senior-executives-part-4-initiate-more-direct-interaction-to-build-rapport
 # Controls how this page appears across the site
 # 0 -- hidden

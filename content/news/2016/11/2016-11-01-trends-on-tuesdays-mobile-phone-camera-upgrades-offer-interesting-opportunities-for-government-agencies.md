@@ -6,17 +6,17 @@ summary: 'Professional photographer and early &ldquo;iPhonography&rdquo; pioneer
 authors:
   - wsullivan
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - social-media
-  - video
-  - audio-video
-  - content
+  - multimedia
+  - multimedia
+  - content-strategy
   - mobile
-  - mobile-apps
+  - mobile
   - social-media
-  - trends-on-tuesday
-  - video
+  - emerging-tech
+  - multimedia
 
 ---
 

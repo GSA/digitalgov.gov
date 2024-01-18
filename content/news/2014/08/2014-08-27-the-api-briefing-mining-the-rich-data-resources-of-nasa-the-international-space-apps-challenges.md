@@ -6,18 +6,12 @@ summary: 'The National Aeronautics and Space Administration (NASA) has an enormo
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - mobile
   - challenges-and-prize-competitions
-  - open-data
-  - mobile-ux-guideline-5
-  - nasa
-  - OPM
-  - united-states-office-of-personnel-management
-  - wednesday-api-briefing
 ---
 
-{{< legacy-img src="2014/08/600-x-466-Spacecraft-Soyuz-And-Space-Station-3DSculptor-iStock-Thinkstock-480050411.jpg" alt="Spacecraft Soyuz and Space Station" caption="" >}} 
+{{< legacy-img src="2014/08/600-x-466-Spacecraft-Soyuz-And-Space-Station-3DSculptor-iStock-Thinkstock-480050411.jpg" alt="Spacecraft Soyuz and Space Station" caption="" >}}
 
 The National Aeronautics and Space Administration (NASA) has an enormous collection of aerospace and science data sets. NASA missions and projects can create amazing amounts of data. One example: the Earth Observing System Data and Information System has collected enough information to fill the Library of Congress (<a href="http://data.nasa.gov/about/" target="_blank">Data.NASA.gov</a>). A more recent example: the Solar Dynamics Observatory receives 1.5 terabytes of data a day.
 

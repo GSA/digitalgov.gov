@@ -6,10 +6,8 @@ summary: Communication professionals pride themselves on coming up with big idea
 authors:
   - katie-gorscak
 topics:
-  - content
-  - video
-  - HHS
-  - united-states-department-of-health-and-human-services
+  - content-strategy
+  - multimedia
 ---
 
 Communication professionals pride themselves on coming up with big ideas and big messages. But moving a great idea from conceptualization to execution can be challenging, especially when you want to keep your budget in check. Storyboards can greatly assist in this process, a strategy I found to be critical to the success of a [new animated video developed for StopBullying.gov](http://www.stopbullying.gov/videos/2014/03/labels-dont-define-you.html). StopBullying.gov provides information from various government agencies on what bullying is, what cyberbullying is, who is at risk, and how you can prevent and respond to bullying.
@@ -25,13 +23,13 @@ The following “**Do’s and Don’ts**” are lessons learned during my experi
 ## **Do’s and Don&#8217;ts of Successful Storyboarding**
 
 • **Do convey action through static images**. It’s important to show a sequence of events through storyboard slides. By providing a step-by-step story flow accounting for transitions in movement, it makes it easier to translate into the final action sequence.
-  
+
 • **Do take into consideration what people will hear as the story progresses.** Will there be an instrumental overlay? Will the subject be talking? Conveying the mood through music was critical to the success of this piece, so we added that element to later storyboard drafts.
-  
+
 • **Do share your storyboard with your constituents before starting final project development**. By doing this, we eliminated “red flags” that were appearing in the storyboard from inappropriate facial expression to tweaking the language used.
-  
+
 • **Don’t underestimate the importance of conveying body language and facial expression.** Whether in live action or animation, it is critical to look at the subtleties that express sentiment. Is the character displaying the intended emotion in a particular frame? How does that expression change as they move from internal conflict to resolution?
-  
+
 • **Don’t wait until the very end to make small, but important changes.** Using storyboards provides an excellent opportunity to work out video kinks BEFORE you move into formal production, whether it&#8217;s developing animation or sifting through hours of footage to try and piece together a story. This can not only save you time, but money as well.
 
 Storyboards play a critical role in the development of any video project. Every frame counts and by laying out your entire story, you can better tell your story.

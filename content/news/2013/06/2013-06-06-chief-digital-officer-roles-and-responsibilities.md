@@ -7,9 +7,8 @@ authors:
   - mike-kruger
 topics:
   - governance
-  - product-management
-  - api
-  - department-of-commerce
+  - product-and-project-management
+  - application-programming-interface
 ---
 
 <p>

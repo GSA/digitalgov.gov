@@ -4,12 +4,12 @@ date: 2011-11-28 8:32:24 -0400
 title: 'Battle Royale: Mobile Web Versus Mobile Apps'
 summary: 'When agency folks gather together to talk about mobile gov, the number one question asked is, &#8220;Should we do a mobile app or a mobile web site?&#8221; To help people with that question, we became fight promoters and sponsored THE BATTLE OF THE CENTURY: Mobile Web Vs. Mobile Apps.'
 topics:
-  - code
+  - software-engineering
   - mobile
   - innovation
   - mobile
-  - mobile-apps
-  - mobile-gov
+  - mobile
+  - mobile
 
 ---
 

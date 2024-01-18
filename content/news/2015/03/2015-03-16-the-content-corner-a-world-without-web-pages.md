@@ -6,15 +6,8 @@ summary: Imagine a world without Web pages, only intelligent, self-assembling ch
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
-  - CMS
-  - content-management-system
-  - content-models
   - content-strategy
   - search-engine-optimization
-  - open-and-structured-content-models
-  - the-content-corner
 ---
 
 {{< legacy-img src="2015/03/600-x-415-Global-Communication-and-Data-Concept-Symbols-Robert-Churchill-iStock-Thinkstock-493540889.jpg" alt="Global Communication and Data Concept Symbols" caption="" >}} 
@@ -31,7 +24,7 @@ The origins of the post-Web page world can be found in the works of [William W. 
 
 {{< legacy-img src="2015/03/600-x-350-Ty-Manuel-page-and-content-models-graphic.jpg" alt="Content graphic" >}}
 
-This full separation is inherent in the concept of [adaptive design]({{< ref "/topics/content" >}}) and the much-referenced [COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) developed by NPR. The article on COPE was published in 2009, so just as with the initial advances of the content and presentation layer concepts, these changes take time. Sometimes a change in perspective—looking at what is being taken away (the website) as opposed to what needs to be added (structure)—can help a concept&#8217;s progress.
+This full separation is inherent in the concept of [adaptive design]({{< ref "/topics/content-strategy" >}}) and the much-referenced [COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) developed by NPR. The article on COPE was published in 2009, so just as with the initial advances of the content and presentation layer concepts, these changes take time. Sometimes a change in perspective—looking at what is being taken away (the website) as opposed to what needs to be added (structure)—can help a concept&#8217;s progress.
 
 Jumping ahead and visualizing the natural course of today&#8217;s trends can also help to shift our efforts and focus away from building new or better websites and towards building better content.
 
@@ -39,7 +32,7 @@ Jumping ahead and visualizing the natural course of today&#8217;s trends can als
 
 If we embrace the post-Web page world then we have to fully concentrate on structure and content because we realize that those items are all we will have. In fact, this future makes it easier to agree, as [some have suggested](http://www.markboulton.co.uk/journal/structure-first-content-always), that structure should be given a higher priority than the content itself.
 
-Speaking of structure, I am not purposefully glossing over it in this column, but deferring to those who have already given us all a good foundation. Holly Irving at the National Institutes of Health and [so many of our other peers]({{< ref "/topics/structured-content" >}}) have done some fabulous work in this area, stressing the importance of using:
+Speaking of structure, I am not purposefully glossing over it in this column, but deferring to those who have already given us all a good foundation. Holly Irving at the National Institutes of Health and [so many of our other peers]({{< ref "/topics/content-strategy" >}}) have done some fabulous work in this area, stressing the importance of using:
 
   * Metadata,
   * [Open and structured content models](http://gsa.github.io/Open-And-Structured-Content-Models/index.html), and
@@ -49,4 +42,4 @@ We are not there yet, but the day is rapidly approaching where almost all conten
 
 Fairly new features such as [Twitter Cards](https://dev.twitter.com/cards/overview) are just another example of the continued irrelevance of an actual website. By adding the Twitter card code to your existing site, you are actually improving your site&#8217;s ability to be irrelevant and setting your content free. It must be able to live on its own and move freely through whatever platform it encounters and needs to be displayed upon. Maybe that platform and display will be a Web page, but most likely in the near future it won’t be.
 
-If you want to learn more about surviving in the post Web page world, I recommend this [upcoming webinar on structured content]({{< tmp "events/where-to-start-with-structured-data-and-content.md" >}}). If you want to share your own experiences or continue this conversation (or suggest future topics for The Content Corner), leave a comment below or find me on Twitter [@tyrusman](https://twitter.com/tyrusman)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+If you want to learn more about surviving in the post Web page world, I recommend this [upcoming webinar on structured content]({{< tmp "events/where-to-start-with-structured-data-and-content.md" >}}). If you want to share your own experiences or continue this conversation (or suggest future topics for The Content Corner), leave a comment below or find me on Twitter [@tyrusman](https://twitter.com/tyrusman)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

@@ -6,10 +6,10 @@ title: "Department of Homeland Security: Usability Testing Kit"
 summary: A resource with four approaches to help federal employees perform usability testing.
 # See all topics at https://digital.gov/topics
 topics:
-  - usability-testing
+  - usability
   - usability
   - user-experience
-  - user-research
+  - research
   - customer-experience
 # See all authors at https://digital.gov/authors
 authors:

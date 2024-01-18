@@ -7,7 +7,6 @@ authors:
   - tlowden
 topics:
   - challenges-and-prize-competitions
-  - recaps
 
 ---
 

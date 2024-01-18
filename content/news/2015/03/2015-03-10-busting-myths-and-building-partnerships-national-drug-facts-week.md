@@ -6,11 +6,9 @@ summary: ' Myth-busting isn’t just for television. And through a multi-faceted
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
   - multilingual
-  - national-institutes-of-health
-  - nih
   - social-media
 ---
 

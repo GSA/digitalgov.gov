@@ -6,18 +6,11 @@ summary: 'Finding and getting access to our own health information can be a comp
 authors:
   - awichman
 topics:
-  - api
-  - code
-  - data
-  - monthly-theme
-  - api
-  - data
+  - application-programming-interface
+  - software-engineering
   - open-data
-  - HHS
-  - internet-of-things
-  - json
+  - emerging-tech
   - open-government
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Medical-form-Slawomir-Fajer-iStock-Thinkstock-ThinkstockPhotos-167343015.jpg" alt="Medical form and laptop" caption="" >}} 

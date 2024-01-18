@@ -6,9 +6,9 @@ summary: "The following is a list of the most common mobile development strategi
 deck:
 topics:
   - mobile
-  - strategy
-  - mobile-gov-community-of-practice
-  - mobile-gov
+  - content-strategy
+  - mobile
+  - mobile
 aliases:
 
 ---

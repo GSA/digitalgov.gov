@@ -10,9 +10,9 @@ summary: We’ve conducted several studies where we’ve noticed gaps in our
   onrr.gov personas, so we decided to revisit them.
 # See all topics at https://digital.gov/topics
 topics:
-  - doi
+  
   - usability
-  - content
+  - content-strategy
   - design
 slug: revisiting-who-uses-onrr-gov-refining-personas
 # Controls how this page appears across the site

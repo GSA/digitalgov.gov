@@ -23,9 +23,6 @@ source: digitalgov
 # see all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
-  - product-management
-  - project-management
-  - 18f
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

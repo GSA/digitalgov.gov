@@ -6,12 +6,10 @@ summary: 'The Road to Launch Version 1.0 You may have noticed a new, cleaner, an
 authors:
   - lisa-bari
 topics:
-  - content
+  - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   - user-experience
-  - recaps
-  - uswds
 ---
 
 ## The Road to Launch Version 1.0

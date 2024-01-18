@@ -10,7 +10,7 @@ summary: "Over the last year, there has been a constant stream of activity at th
 
 # See all topics at https://digital.gov/topics
 topics:
-  - infrastructure
+  - cloud-and-infrastructure
   - domain-management
 
 # See all authors at https://digital.gov/authors

@@ -7,7 +7,6 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges-and-prize-competitions
-  - National Defense University
   - open-source
 ---
 

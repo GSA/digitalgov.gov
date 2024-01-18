@@ -6,12 +6,12 @@ summary: ' Mobile video is starting to hit its second wave for both consumption 
 authors:
   - wsullivan
 topics:
-  - content
+  - content-strategy
   - mobile
-  - video
+  - multimedia
   - mobile
-  - mobile-ux-guideline-1
-  - trends-on-tuesday
+  - mobile
+  - emerging-tech
   - social-media
 ---
 

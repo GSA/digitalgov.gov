@@ -18,12 +18,11 @@ source: performancegov
 
 # see all topics at https://digital.gov/topics
 topics:
+  - product-and-project-management
+  - contact-centers
+  - content-strategy
+  - research
   - customer-experience
-  - product-management
-  - contact-center
-  - strategy
-  - user-research
-  - customer-service
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

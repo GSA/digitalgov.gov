@@ -8,12 +8,6 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - FCPCCS
-  - united-states-geological-survey
-  - USGS
 ---
 
 > &#8220;I tell the interns: In this lab, we&#8217;re all about failure. If you&#8217;re not failing, you&#8217;re not really doing anything.&#8221;

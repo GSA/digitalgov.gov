@@ -21,7 +21,7 @@ summary: "10x funds ideas by federal employees on a wide range of topics related
   30**. "
 # See all topics at https://digital.gov/topics
 topics:
-  - 10x
+  - innovation
 slug: 10x-a-home-for-federal-innovators
 # Controls how this page appears across the site
 # 0 -- hidden

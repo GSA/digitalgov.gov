@@ -21,9 +21,9 @@ authors:
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - plain-language
-  - writing
+  - communication
 
 event_cop:
   - plain-language

@@ -4,7 +4,6 @@ date: 2023-03-03 15:45:00 -0400
 title: M-23-07, Update to Transition to Electronic Records
 summary: "M-23-07 updates the previous target dates described in M-19-21 to June 24, 2024."
 topics:
-  - policy
   - records-management
 authors:
   - toni-bonitto

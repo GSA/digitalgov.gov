@@ -18,13 +18,11 @@ end_date: 2019-12-03 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - devops
   - software-engineering
-  - big-data
-  - cloud
-  - dod
-  - internet-of-things
-  - virtual-reality
+  - analytics
+  - cloud-and-infrastructure
+  - emerging-tech
+  - multimedia
 
 # see all authors at https://digital.gov/authors
 authors: 

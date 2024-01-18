@@ -6,12 +6,12 @@ summary: Over the past year, a GSA collaboration has seen a project that offers 
 authors:
   - gray-brooks
 topics:
-  - api
+  - application-programming-interface
   - user-testing-and-research
   - user-experience
-  - api
+  - application-programming-interface
   - open-source
-  - usability-testing
+  - usability
 ---
 
 {{< legacy-img src="2014/05/250-x-165-Tim-Lowden-API-Usability-Testing.jpg" alt="Tim Lowden and crown at API Usability Testing" >}}Over the past year, a GSA collaboration has seen [a project that offers API Usability Testing to federal agencies]({{< ref "2014-05-09-make-gov-apis-better-with-user-experience.md" >}}) go from the pilot stage to a regular, robust series. Already, 13 agencies and programs have participated, and several more participate with every monthly session that passes. The best examples from across the government have made clear that one of the most important tasks of API producers is to regularly engage their developer community and listen to what they have to say. But just encouraging agencies to do this only goes so far.

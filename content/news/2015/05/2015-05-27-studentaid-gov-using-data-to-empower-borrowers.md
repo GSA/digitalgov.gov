@@ -6,16 +6,10 @@ summary: 'It’s been a while, but in previous posts, I described what we’ve l
 authors:
   - brenda-wensil
 topics:
-  - product-management
-  - monthly-theme
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - data
-  - FAFSA
-  - federal-student-aid
-  - FSA
-  - mobile-friendly
+  - open-data
+  - mobile
   - user-experience
 ---
 
@@ -29,7 +23,7 @@ Since I last wrote, we’ve come out with two exciting new initiatives—the Rep
 
 With the [Repayment Estimator](https://studentloans.gov/myDirectLoan/mobile/repayment/repaymentEstimator.action), we allow borrowers to plug in different scenarios so that they can better understand how various federal repayment plans impact their monthly loan payments. Users can select pre-set scenarios if they are just in the exploratory stage, or we can pull up their personal loan balances and guide them to different amounts they’d pay under different repayment plans. Sticking with the standard plan your loan servicer automatically places you in may not be your best option—get informed!
 
-Last year we also introduced the ability to [log in to view your aid data and history](http://studentaid.gov/login), straight from our National Student Loan Data System (NSLDS®). Here, you can view your federal student loan and grant balances, find out your loan servicer and interest rate, and download all your data into a text file to use as you wish. We’ve offered this view for a long time, but it was through a different website—so it was the important next step of better integrating our websites so that users can have all the information they need at their fingertips. Better yet, it is [optimized for use on all mobile devices]({{< ref "/topics/mobile-friendly" >}}).
+Last year we also introduced the ability to [log in to view your aid data and history](http://studentaid.gov/login), straight from our National Student Loan Data System (NSLDS®). Here, you can view your federal student loan and grant balances, find out your loan servicer and interest rate, and download all your data into a text file to use as you wish. We’ve offered this view for a long time, but it was through a different website—so it was the important next step of better integrating our websites so that users can have all the information they need at their fingertips. Better yet, it is [optimized for use on all mobile devices]({{< ref "/topics/mobile" >}}).
 
 Finally, while we are constantly trying to balance limited budgetary resources to make big impact changes like those above, I want to share how we incorporate user feedback to ensure our changes work best for the customer. Recently, we’ve been renaming pages to better explain what information a user will find on them: turns out ‘Repay Your Loans’ overpromised and under delivered according to our site survey feedback, since you currently must pay loans on your servicer’s website (I know, another big project for another time!) So, we simply changed the page name to better set expectations: How to Repay Your Loans.
 

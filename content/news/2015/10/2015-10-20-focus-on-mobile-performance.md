@@ -7,9 +7,8 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - monthly-theme
   - mobile
-  - trends-on-tuesday
+  - emerging-tech
   - user-experience
   
 ---

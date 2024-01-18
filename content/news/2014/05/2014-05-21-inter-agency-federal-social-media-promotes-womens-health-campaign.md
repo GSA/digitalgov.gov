@@ -7,14 +7,7 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - fda
-  - HHS
-  - national-institutes-of-health
-  - nih
-  - recaps
   - social-media
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
 ---
 
 [{{< legacy-img src="2014/05/image-of-hands-in-the-shape-of-a-heart.jpg" alt="Image of hands in the shape of a heart" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/image-of-hands-in-the-shape-of-a-heart.jpg)Last week, we discussed **National Women’s Health Week (NWHW)** as an [example of a coordinated campaign]({{< tmp "events/federal-social-media-campaigns-national-womens-health-week.md" >}}) that used digital tools. Social media has made building campaigns easier by enabling us to quickly reach out to groups with similar missions as well as to engage with citizens. Here are the highlights from the webinar and some initial metrics, and in case you missed it, you can replay the webinar <a href="http://youtu.be/lY7g6ovh7SQ" target="_blank">here</a>.

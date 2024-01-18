@@ -7,10 +7,10 @@ summary: This event recap highlights best practices, a short case study video, a
 topics:
   - plain-language
   - accessibility
-  - content
+  - content-strategy
   - user-experience
-  - plain-language-community-of-practice
-  - writing
+  - plain-language
+  - communication
   - design
 # See all authors at https://digital.gov/authors
 authors:

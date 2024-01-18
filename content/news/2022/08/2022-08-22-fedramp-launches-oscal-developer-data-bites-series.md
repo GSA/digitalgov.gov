@@ -9,7 +9,7 @@ deck: "**FedRAMP Launches OSCAL Developer Data Bites Series**&mndash;FedRAMP is 
 summary: 
 # See all topics at https://digital.gov/topics
 topics:
-  - fedramp
+  - security
   - security
 slug: fedramp-launches-oscal-developer-data-bites-series
 # Controls how this page appears across the site

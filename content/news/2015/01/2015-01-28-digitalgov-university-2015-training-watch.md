@@ -10,14 +10,13 @@ topics:
   - user-experience
   - customer-experience
   - design
-  - content
+  - content-strategy
   - plain-language
   - analytics
   - mobile
-  - api
-  - contact-center
+  - application-programming-interface
+  - contact-centers
   - open-data
-
 ---
 
 Performance Analytics for Social Media Decision Making. Creating Adaptive Content. Usability Testing. These are just some of the areas of programming we are putting together.

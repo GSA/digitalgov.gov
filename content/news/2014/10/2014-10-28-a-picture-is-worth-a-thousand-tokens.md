@@ -6,10 +6,9 @@ summary: 'Increasingly, we&#8217;ve noticed that our agency customers are publis
 authors:
   - loren-siebert
 topics:
-  - api
-  - our-work
+  - application-programming-interface
   - social-media
-  - video
+  - multimedia
   - search
 ---
 

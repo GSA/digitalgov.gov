@@ -6,13 +6,10 @@ summary: "The second annual DigitalGov Citizen Services Summit was held at GSA h
 authors:
   - bernetta-reese
 topics:
-  - our-work
   - product-and-project-management
   - analytics
   - customer-experience
-  - digitalgov-summit
   - privacy
-
 ---
 
 The second annual [DigitalGov Citizen Services Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.

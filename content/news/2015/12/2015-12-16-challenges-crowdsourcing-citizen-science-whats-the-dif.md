@@ -8,29 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - monthly-theme
-  - Bureau of Reclamation
-  - CFPB
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - Consumer Financial Protection Bureau
-  - crowdfunding
-  - crowdsourcing
-  - epa
-  - FCPCCS
-  - gsa
-  - HHS
   - innovation
-  - nasa
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
-  - united-states-geological-survey
-  - USDA
-  - USGS
 ---
 
 There’s more than one way to harness the wisdom of the crowd.

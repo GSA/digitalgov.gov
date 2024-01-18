@@ -30,8 +30,8 @@ topics:
   - design
   - domain-management
   - social-media
-  - code
-  - strategy
-  - product-management
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
 
 ---

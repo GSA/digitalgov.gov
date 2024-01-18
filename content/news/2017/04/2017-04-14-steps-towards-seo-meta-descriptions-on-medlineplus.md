@@ -7,9 +7,9 @@ authors:
   - kate-masterton
   - katie-chan
 topics:
-  - content
+  - content-strategy
   - social-media
-  - code
+  - software-engineering
   - multilingual
   - search-engine-optimization
   - seo

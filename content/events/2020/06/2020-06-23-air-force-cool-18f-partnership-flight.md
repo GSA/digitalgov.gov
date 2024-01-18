@@ -20,10 +20,10 @@ end_date: 2020-06-23 14:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - product-and-project-management
-  - devops
+  - software-engineering
   - mobile
   - social-media
-  - ai
+  - artificial-intelligence
   - software-engineering
   
 # see all authors at https://digital.gov/authors

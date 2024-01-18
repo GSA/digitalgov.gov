@@ -10,8 +10,7 @@ authors:
 
 topics:
   - accessibility
-  - 21st-century-idea
-  - this-weeks-idea
+  - digital-service-delivery
 
 featured_image:
   uid: this-weeks-idea-card

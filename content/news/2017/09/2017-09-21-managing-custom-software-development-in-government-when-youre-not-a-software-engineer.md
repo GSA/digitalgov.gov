@@ -8,13 +8,10 @@ authors:
   - kaitlin-devine
 
 topics:
-  - product-management
-  - strategy
-  - software-engineering
-  - policy
   - product-and-project-management
-  - project-management
-  - user-centered-design
+  - content-strategy
+  - software-engineering
+  - human-centered-design
 
 featured_image:
   uid: featured-18f-new-logo-black-bg

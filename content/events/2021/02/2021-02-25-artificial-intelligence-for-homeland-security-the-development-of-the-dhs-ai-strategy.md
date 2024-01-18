@@ -12,8 +12,7 @@ end_date: 2021-03-31 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
-  - ai
-  - strategy
+  - content-strategy
   - emerging-tech
   - trust
 # See all authors at https://digital.gov/authors

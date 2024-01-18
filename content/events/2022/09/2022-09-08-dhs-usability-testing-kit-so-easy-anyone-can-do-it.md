@@ -14,9 +14,9 @@ topics:
   - research
   - usability
   - user-experience
-  - user-research
+  - research
   - user-testing-and-research
-  - usability-testing
+  - usability
 # See all authors at https://digital.gov/authors
 authors:
   - dana-chisnell

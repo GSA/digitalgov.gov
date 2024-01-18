@@ -11,7 +11,6 @@ summary: Title IX of Public Law No. 116-260, §§ 901-907 (DOTGOV Act of 2020), 
 # See all topics at https://digital.gov/topics
 topics:
   - domain-management
-  - policy
 
 slug: dotgov-online-trust-in-government-act-of-2020
 

@@ -14,12 +14,12 @@ authors:
 
 # See all topics at https://digital.gov/topics
 topics:
-  - plain-language-community-of-practice
+  - plain-language
   - plain-language
   - user-experience
-  - writing
+  - communication
   - design
-  - content
+  - content-strategy
   - accessibility
 slug: lessons-from-the-2021-federal-plain-language-report-card
 

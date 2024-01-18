@@ -11,14 +11,7 @@ authors:
   - julia-winn
   - colin-craig
 topics:
-  - data
-  - our-work
-  - 18f
   - analytics
-  - analytics-usa-gov
-  - dap
-  - digital-analytics-program
-
 ---
 
 We’ve added agency-specific dashboards to [analytics.usa.gov](https://analytics.usa.gov/)!

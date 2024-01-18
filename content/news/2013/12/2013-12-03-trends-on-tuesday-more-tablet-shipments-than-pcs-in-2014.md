@@ -7,8 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-gov
-  - trends-on-tuesday
+  - mobile
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/12/Mobile\_NEW.jpg" alt="Mobile\_NEW" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Mobile_NEW.jpg)

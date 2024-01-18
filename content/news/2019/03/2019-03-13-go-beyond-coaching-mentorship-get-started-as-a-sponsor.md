@@ -7,7 +7,7 @@ deck: "How to use your power, influence, and networks to help protégés in thei
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - professional-development
 featured_image:
   uid: sponsorship-fish2

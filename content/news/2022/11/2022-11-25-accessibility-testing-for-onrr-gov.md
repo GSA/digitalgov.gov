@@ -15,13 +15,9 @@ summary: How do you make sure a website is accessible? This blog post outlines
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - doi
-  - usability-testing
-  - "508"
-  - section-508
   - usability
   - design
-  - content
+  - content-strategy
 slug: accessibility-testing-for-onrr-gov
 # Controls how this page appears across the site
 # 0 -- hidden

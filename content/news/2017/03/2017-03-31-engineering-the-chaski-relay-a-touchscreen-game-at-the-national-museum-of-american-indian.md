@@ -6,13 +6,11 @@ summary: 'The interactive team at the National Museum of the American Indian saw
 authors:
   - ben-bloom
 topics:
-  - content
+  - content-strategy
   - design
   - user-testing-and-research
-  - content
-  - gamification
+  - content-strategy
   - software-engineering
-  - smithsonian-institution
   - user-centered-design
   - user-experience
   
@@ -50,4 +48,4 @@ While group play was not a primary objective of the game design, the team feels 
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
 
-_Explore DigitalGov for more information on how federal agencies are working with_ [_user experience_]({{< ref "/topics/user-experience" >}}) _(UX) and_ [_user testing_]({{< ref "/topics/user-research" >}})_,_ [_gamification_]({{< ref "/topics/gamification" >}})_, and_ [_multilingual content_]({{< ref "/topics/multilingual" >}}) _to better serve their customers. If you have a .gov or .mil email address, check out and join our_ [_Communities of Practice_]({{< ref "/communities" >}}) _to connect with other feds working in these fields._
+_Explore DigitalGov for more information on how federal agencies are working with_ [_user experience_]({{< ref "/topics/user-experience" >}}) _(UX) and_ [_user testing_]({{< ref "/topics/research" >}})_,_ [_gamification_]({{< ref "/topics/content-strategy" >}})_, and_ [_multilingual content_]({{< ref "/topics/multilingual" >}}) _to better serve their customers. If you have a .gov or .mil email address, check out and join our_ [_Communities of Practice_]({{< ref "/communities" >}}) _to connect with other feds working in these fields._

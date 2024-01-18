@@ -18,13 +18,13 @@ summary: At USA.gov and USAGov en Español, we’re always looking for better wa
   started.
 # See all topics at https://digital.gov/topics
 topics:
-  - marketing
+  - communication
   - social-media
-  - content
+  - content-strategy
   - multilingual
   - design
   - analytics
-  - performance
+  - budgeting-and-performance
 slug: three-tips-for-using-facebook-and-instagram-stories
 # Controls how this page appears across the site
 # 0 -- hidden

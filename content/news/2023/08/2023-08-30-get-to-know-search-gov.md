@@ -17,7 +17,6 @@ topics:
   - design
   - user-experience
   - search
-  - uswds
 slug: get-to-know-search-gov
 # Controls how this page appears across the site
 # 0 -- hidden

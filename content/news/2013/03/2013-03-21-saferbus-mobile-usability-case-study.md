@@ -8,9 +8,9 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - digitalgov-user-experience-program
-  - usability-case-study
-  - usability-testing
+  - user-experience
+  - usability
+  - usability
   - user-experience
 ---
 

@@ -18,11 +18,9 @@ end_date: 2020-01-16 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - code
   - design
-  - product-management
-  - uswds
-  - 21st-century-idea
+  - digital-service-delivery
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors:

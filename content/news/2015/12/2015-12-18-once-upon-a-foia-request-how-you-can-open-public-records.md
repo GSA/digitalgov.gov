@@ -7,14 +7,9 @@ authors:
   - jherman
   - meredith-stewart
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
-  - DOJ
-  - FBI
-  - Federal Bureau of Investigation
-  - national-action-plan-on-open-government
   - open-government
-  - us-department-of-justice
 ---
 
 Like many of you, we watched with great interest this week when a citizen [submitted a Freedom of Information Act (FOIA) request](http://boingboing.net/2015/12/17/best-foia-ever-asking-fbi-to.html) to the Federal Bureau of Investigation (FBI) asking them to release to the public Wu-Tang Clan’s album, Once Upon a Time in Shaolin.

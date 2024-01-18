@@ -6,38 +6,18 @@ summary: 'Innovative wearables, stronger wifi and more 3D printing have been amo
 authors:
   - jparcell
 topics:
-  - communities
-  - product-management
+  - product-and-project-management
   - mobile
-  - monthly-theme
-  - aoi
-  - Census
-  - COPE
-  - crowdsourcing
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DOT
-  - contact-center
-  - HHS
-  - internet-of-things
-  - mobile-code-catalog
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-4
-  - mobile-first
-  - nasa
-  - open-and-structured-content-models
-  - trends-on-tuesday
-  - united-states-census-bureau
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-transportation
-  - United States Postal Service
-  - USPS
+  - user-experience
+  - content-strategy
+  - crowdsourcing-and-citizen-science
+  - contact-centers
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/01/600-x-341-Earth-and-electronics-cherezoff-iStock-Thinkstock-495813521.jpg" alt="Earth and electronics" caption="cherezoff, iStock, Thinkstock" >}}
 
-Innovative [wearables](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-two), [stronger wifi](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-one) and more [3D printing]({{< ref "2015-01-15-the-future-will-be-printed-in-3d.md" >}} "The Future Will Be Printed – in 3D") have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop [new habits and desires]({{< ref "2015-01-27-trends-on-tuesday-mobile-marketing-on-the-rise.md" >}}) based on [new trends]({{< ref "/topics/trends-on-tuesday" >}}).
+Innovative [wearables](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-two), [stronger wifi](http://analysis.openmobilemedia.com/commerce-brands/open-mobile-summit-day-one) and more [3D printing]({{< ref "2015-01-15-the-future-will-be-printed-in-3d.md" >}} "The Future Will Be Printed – in 3D") have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop [new habits and desires]({{< ref "2015-01-27-trends-on-tuesday-mobile-marketing-on-the-rise.md" >}}) based on [new trends]({{< ref "/topics/emerging-tech" >}}).
 
 Government must accelerate its [customer service approach]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}) with anytime, anywhere efforts to keep up. Here’s what I see agencies will have to do to keep up and&#8211;just maybe get ahead&#8211;in 2015.
 
@@ -73,7 +53,7 @@ Agencies have shared code for native apps and mobile websites in the [Mobile Cod
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
-As wearables and other [Internet of Things]({{< ref "/topics/internet-of-things" >}}) implementations become more prevalent, government will need to develop use cases for their outreach efforts. The big question agencies will ask (in addition to those about [Big Data]({{< ref "2015-01-20-trends-big-data-and-gov-in-2015.md" >}}) and identity management) is: Does it make sense to implement physical Internet of Things for public-facing purposes? The answer will most likely be no, but structured data like Application Programming Interfaces (APIs) will be the key to entry in this space.
+As wearables and other [Internet of Things]({{< ref "/topics/emerging-tech" >}}) implementations become more prevalent, government will need to develop use cases for their outreach efforts. The big question agencies will ask (in addition to those about [Big Data]({{< ref "2015-01-20-trends-big-data-and-gov-in-2015.md" >}}) and identity management) is: Does it make sense to implement physical Internet of Things for public-facing purposes? The answer will most likely be no, but structured data like Application Programming Interfaces (APIs) will be the key to entry in this space.
 
 In a recent DigitalGov.gov API Briefing, Bill Brantley wrote [about the work that NASA and the U.S. Postal Service have done]({{< ref "2015-01-28-the-api-briefing-nasa-and-usps-explore-the-holographic-computing-frontier.md" >}}) with holograms & augmented reality. Brantley argues these agencies’ new form factors were possible due to APIs each had developed. Agencies will need to adopt open data approaches that allow their information to be available and leveraged on new devices and sensors.
 

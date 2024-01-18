@@ -6,12 +6,8 @@ summary: 'Why Invest in a Content Management System? Does it take too long to up
 authors:
   - rflagg
 topics:
-  - content
-  - product-management
-  - strategy
-  - policy
-  - CMS
-  - content-management-system
+  - content-strategy
+  - product-and-project-management
 ---
 
 **[{{< legacy-img src="2013/12/nine-250x250.png" alt="Highway 9 sign" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/nine.png)Why Invest in a Content Management System?**
@@ -38,7 +34,7 @@ A CMS enables individual authors across your organization to create content, but
 
 **5. More Searchable Content**
 
-A CMS makes it easier to [tag content with keywords and other labels]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content") and cross-link to related content on your site. This improves search engine optimization, so your content appears higher on search engine results.
+A CMS makes it easier to [tag content with keywords and other labels](https://digital.gov/2013/07/29/how-to-create-open-structured-content/) and cross-link to related content on your site. This improves search engine optimization, so your content appears higher on search engine results.
 
 **6. Increased Content Sharing** 
 

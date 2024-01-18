@@ -6,7 +6,7 @@ summary: "Like any valid business decision, User Experience work should produce 
 topics:
   - user-experience
   - usability
-  - usability-case-study
+  - usability
 authors:
   - andreanocesigritz
 ---

@@ -7,7 +7,7 @@ summary: "GSA’s Fine Arts team recently leveraged modern product development p
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - code
+  - software-engineering
   - user-experience
 
 # See all authors at https://digital.gov/authors

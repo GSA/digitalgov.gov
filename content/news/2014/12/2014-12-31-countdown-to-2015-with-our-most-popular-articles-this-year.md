@@ -7,10 +7,10 @@ authors:
   - andreanocesigritz
 topics:
   - challenges-and-prize-competitions
-  - code
-  - content
-  - product-management
-  - metrics
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - mobile
   - social-media
   - user-experience

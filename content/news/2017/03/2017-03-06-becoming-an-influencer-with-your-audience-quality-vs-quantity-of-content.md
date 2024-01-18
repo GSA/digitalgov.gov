@@ -6,9 +6,9 @@ summary: 'Regardless of the platform, industry or niche, you became a social med
 authors:
   - julia-jackson
 topics:
-  - content
+  - content-strategy
   - social-media
-  - content
+  - content-strategy
   - content-strategy
   - social-media
 ---

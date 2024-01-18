@@ -13,11 +13,8 @@ end_date: 2022-07-20 16:00:00 -0500
 topics:
   - challenges-and-prize-competitions
   - diversity-equity-and-inclusion
-  - crowdsourcing
   - crowdsourcing-and-citizen-science
-  - open
   - innovation
-  - citizen-science
 
 # See all authors at https://digital.gov/authors
 authors:

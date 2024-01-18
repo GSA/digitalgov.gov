@@ -22,7 +22,7 @@ aliases:
   - /event/february-plain-meeting/
 topics:
   - plain-language
-  - plain-language-community-of-practice
+  - plain-language
 
 ---
 

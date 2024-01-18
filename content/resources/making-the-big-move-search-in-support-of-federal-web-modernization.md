@@ -12,11 +12,11 @@ summary: In this special report, we discuss a website redesign’s nine phases a
 topics:
   - search
   - design
-  - content
+  - content-strategy
   - content-strategy
   - search-engine-optimization
   - seo
-  - 21st-century-idea
+  - digital-service-delivery
 slug: making-the-big-move-search-in-support-of-federal-web-modernization
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
-  - mobile-apps
+  - mobile
 ---
 
 <span style="font-size: 13px;">The contest is over, but your work isn’t finished. Maintain a positive relationship with the community you’ve developed around your challenge. You will want to reach out to them in the future.</span>

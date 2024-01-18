@@ -14,11 +14,9 @@ date: 2021-07-28 14:00:00 -0500
 end_date: 2021-07-28 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - digital-analytics-program
+  - usability
   - analytics
-  - usability-case-study
-  - metrics
-  - strategy
+  - content-strategy
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

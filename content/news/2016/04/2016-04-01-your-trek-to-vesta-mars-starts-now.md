@@ -6,15 +6,10 @@ summary: 'The NASA Open Innovation team is pleased to announce the availability 
 authors:
   - jason-duley
 topics:
-  - api
+  - application-programming-interface
   - challenges-and-prize-competitions
-  - code
-  - data
-  - monthly-theme
-  - api
-  - data
+  - software-engineering
   - innovation
-  - nasa
   - open-data
 ---
 

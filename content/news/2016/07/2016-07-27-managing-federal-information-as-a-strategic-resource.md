@@ -9,14 +9,10 @@ authors:
   - anne-rung
   - marc-groman
 topics:
-  - product-management
-  - strategy
-  - policy
+  - product-and-project-management
+  - content-strategy
   - acquisition
-  - Office of Management and Budget
-  - OMB
   - open-data
-  - policy
   - privacy
   - security
 ---

@@ -18,8 +18,7 @@ summary: "<strong>As product managers, we never stop learning because products n
 
 # see all topics at https://digital.gov/topics
 topics:
-  - product-management
-  - 18f
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors:

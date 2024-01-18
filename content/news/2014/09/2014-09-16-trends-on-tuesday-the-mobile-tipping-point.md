@@ -7,11 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-5
-  - mobile-first
-  - native-app
-  - responsive-web-design
+  - mobile
 
 ---
 

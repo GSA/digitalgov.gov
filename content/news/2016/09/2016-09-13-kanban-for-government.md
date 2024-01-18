@@ -6,14 +6,8 @@ summary: 'Some months ago, 18F started playing with kanban as a way to manage an
 authors:
   - alan-brouilette
 topics:
-  - strategy
-  - policy
-  - 18f
+  - content-strategy
   - product-and-project-management
-  - OCSIT
-  - office-of-citizen-services-and-innovative-technology
-  - office-of-products-and-programs
-  - workflows
 ---
 
 Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that “DO ALL THE THINGS!” was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It’s also used to balance capacity and demand by implementing a “pull system” and limiting the amount of work in progress. You don’t have to change anything when you first start to use it, you just put up a board, represent your current work process, put in some work limits, and start tracking what you’re doing and learning from it.

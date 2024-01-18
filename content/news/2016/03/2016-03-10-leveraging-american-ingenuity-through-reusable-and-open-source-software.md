@@ -6,19 +6,10 @@ summary: 'Summary: Today, we’re releasing for public comment a draft policy to
 authors:
   - tony-scott
 topics:
-  - code
-  - product-management
-  - monthly-theme
-  - 18f
-  - analytics-usa-gov
-  - CFPB
-  - Consumer Financial Protection Bureau
+  - software-engineering
+  - product-and-project-management
   - open-data
-  - Education
-  - HUD
   - open-source
-  - us-department-of-education
-  - united-states-department-of-housing-and-urban-development
 ---
 
 > Summary: Today, we’re releasing for public comment a draft policy to support improved access to custom software code developed for the Federal Government. {{< legacy-img src="2015/03/600-x-451-Globe-and-Computer-Keyboard-ratchanida-thippayos-iStock-Thinkstock-148465075.jpg" alt="Globe and computer keyboard" caption="" >}} 

@@ -6,11 +6,10 @@ summary: 'We&#8217;ve redesigned our mobile search results page. It now uses a c
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
+  - content-strategy
   - mobile
-  - our-work
   - search
-  - responsive-web-design
+  - mobile
 ---
 
 [{{< legacy-img src="2014/02/DigitalGov-Search-on-USA.gov-screen-grab-250x138.jpg" alt="screenshot of DigitalGov Search on USA.gov" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/DigitalGov-Search-on-USA.gov-screen-grab.jpg)We&#8217;ve redesigned our mobile search results page. It now uses a card-based design and is responsive. This design gives searchers a more consistent user experience and access to the results anytime, anywhere, and on any device.

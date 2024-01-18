@@ -8,9 +8,7 @@ authors:
   - apiazza
   - jthalls
 topics:
-  - product-management
-  - our-work
-  - digitalgov-summit
+  - product-and-project-management
 
 ---
 

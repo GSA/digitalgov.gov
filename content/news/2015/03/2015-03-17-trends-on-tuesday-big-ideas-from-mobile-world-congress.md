@@ -7,12 +7,8 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - internet-of-things
-  - mobile
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-6
-  - trends-on-tuesday
-  - virtual-reality
+  - emerging-tech
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

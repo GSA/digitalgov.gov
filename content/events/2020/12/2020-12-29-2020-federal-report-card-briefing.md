@@ -12,7 +12,6 @@ end_date: 2021-01-13 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - plain-language-community-of-practice
 # See all authors at https://digital.gov/authors
 authors:
   - david-lipscomb

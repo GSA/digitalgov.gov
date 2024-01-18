@@ -27,12 +27,8 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - https
-  - login-gov
-  - product-management
+  - product-and-project-management
   - security
-  - authentication
-  - online-proofing
-
+  - content-strategy
 
 ---

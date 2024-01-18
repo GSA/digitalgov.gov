@@ -8,10 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - mobile-first
-  - mobile-friendly
-  - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 A new report about email usage reinforced the importance of always building responsive websites. [Yesmail&#8217;s quarterly report](http://www.marketingcharts.com/online/responsive-design-seen-key-as-mobile-and-desktop-email-cto-rates-converge-66262/?utm_campaign=rssfeed&utm_source=mc&utm_medium=textlink) showed that mobile and desktop email click-to-open rates are converging to almost the same level for the first time ever. {{< legacy-img src="2016/03/600-x-400-Laptop-Tablet-PC-Smart-Phone-scyther5-iStock-Thinkstock-479312924.jpg" alt="Three mobile devices on a wooden surface; a laptop, tablet PC, and a smart phone." caption="" >}}

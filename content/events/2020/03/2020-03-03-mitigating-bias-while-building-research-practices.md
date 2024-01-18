@@ -21,7 +21,7 @@ topics:
   - design
   - research
   - user-experience
-  - user-research
+  - research
 
 # see all authors at https://digital.gov/authors
 authors: 

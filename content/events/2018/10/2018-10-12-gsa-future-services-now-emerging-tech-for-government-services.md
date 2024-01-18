@@ -23,14 +23,9 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 topics:
   - emerging-tech
-  - ai
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - emerging-tech
-  - augmented-reality
-  - blockchain
   - virtual-augmented-reality-community
-  - virtual-reality
+  - multimedia
 
 ---
 

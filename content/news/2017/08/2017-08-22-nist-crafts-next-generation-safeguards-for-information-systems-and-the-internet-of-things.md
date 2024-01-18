@@ -7,12 +7,8 @@ authors:
  - nist
 topics:
   - mobile
-  - strategy
-  - policy
-  - internet-of-things
-  - IoT
-  - national-institute-of-standards-and-technology
-  - NIST
+  - content-strategy
+  - emerging-tech
   - security
 ---
 

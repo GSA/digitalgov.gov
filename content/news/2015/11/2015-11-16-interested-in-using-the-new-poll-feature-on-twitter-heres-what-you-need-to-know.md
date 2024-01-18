@@ -7,8 +7,6 @@ authors:
   - mary-king
 topics:
   - social-media
-  - NARA
-  - national-archives-and-records-administration
 ---
 
 {{< legacy-img src="2015/11/600-x-550-screen-capture-of-Twitter-Polls-how-to-tweet-and-video.jpg" alt="A screen capture of Twitter Polls how to tweet and video" >}}

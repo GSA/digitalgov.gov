@@ -6,11 +6,9 @@ summary: 'The Government Contact Center Council (G3C) has been working with Digi
 authors:
   - apiazza
 topics:
-  - product-management
-  - monthly-theme
-  - customer-service
-  - contact-center
-
+  - contact-centers
+  - customer-experience
+  - product-and-project-management
 ---
 
 The [Government Contact Center Council (G3C)]({{< ref "/communities/government-contact-center-council" >}} "Government Contact Center Council - G3C"), led by GSA’s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government.

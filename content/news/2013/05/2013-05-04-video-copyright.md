@@ -6,8 +6,8 @@ summary: ' Don&#8217;t include Internet music, video, or graphics in your video 
 authors:
   - jonathan-rubin
 topics:
-  - content
-  - video
+  - content-strategy
+  - multimedia
 ---
 
 [{{< legacy-img src="2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/b7-copyright-pic.jpg)

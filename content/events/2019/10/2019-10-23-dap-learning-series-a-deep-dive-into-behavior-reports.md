@@ -19,11 +19,8 @@ end_date: 2019-10-23 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - metrics
   - analytics
-  - dap
-  - digital-analytics-program
-
+  - analytics
 # see all authors at https://digital.gov/authors
 authors: 
   - tlowden

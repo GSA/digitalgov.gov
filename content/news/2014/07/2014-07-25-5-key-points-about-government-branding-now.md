@@ -6,11 +6,8 @@ summary: 'Recently, I had the pleasure of speaking (in my own capacity) before t
 authors:
   - dannielle-blumenthal
 topics:
-  - content
+  - content-strategy
   - social-media
-  - DoD
-  - NARA
-  - national-archives-and-records-administration
   - united-states-department-of-defense
 ---
 

@@ -8,10 +8,8 @@ deck: "**Announcing Data Governance Charter Templates**&mdash;As a part of our R
 summary: 
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - governance
   - analytics
-  - best-practices
 slug: announcing-data-governance-charter-templates
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -5,9 +5,8 @@ title: Web Analytics and Optimization
 summary: "Make better decisions using web analytics and other optimization strategies."
 # See all topics at https://digital.gov/topics
 topics:
-  - a-b-testing
+  - research
   - analytics
-  - data
   - user-experience
   - usability
   - search-engine-optimization

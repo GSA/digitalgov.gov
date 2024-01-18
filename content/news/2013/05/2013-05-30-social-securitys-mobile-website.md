@@ -8,11 +8,7 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - mobile-apps
   - multilingual
-  - SSA
-  - the-united-states-social-security-administration
-  - thursday-mobile-products
 
 ---
 

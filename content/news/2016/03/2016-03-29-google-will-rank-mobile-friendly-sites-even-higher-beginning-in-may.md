@@ -6,11 +6,9 @@ summary: 'Last year Google began changing their search ranking algorithm to dire
 authors:
   - wsullivan
 topics:
+  - analytics
   - mobile
-  - analytics-usa-gov
-  - digital-analytics-program
-  - mobile-friendly
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [Last year Google began changing their search ranking algorithm]({{< ref "2015-03-03-trends-on-tuesday-google-to-implement-mobile-friendly-rankings.md" >}}) to direct mobile users to mobile-friendly sites, and they recently announced that beginning in [May they will be implementing an update to focus even more exclusively on boosting mobile-friendly sites](https://webmasters.googleblog.com/2016/03/continuing-to-make-web-more-mobile.html).

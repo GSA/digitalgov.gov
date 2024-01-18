@@ -9,9 +9,9 @@ topics:
   - mobile
   - social-media
   - mobile
-  - mobile-ux-guideline-2
+  - mobile
   - terms-of-service
-  - tos
+  - terms-of-service
 
 ---
 

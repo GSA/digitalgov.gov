@@ -6,11 +6,9 @@ summary: 'By now, you are familiar with &ldquo;big data&rdquo; or datasets that 
 authors:
   - bbrantley
 topics:
-  - api
-  - big-data
-  - data
+  - application-programming-interface
+  - analytics
   - open-data
-  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Server-room-Tomasz-Wyszolmirski-iStock-Thinkstock-178134397.jpg" alt="Server room" caption="" >}} 
@@ -22,4 +20,4 @@ So, what do you call data that is collected but isn’t analyzed or made readily
 When different parts of the organization are not collaborating on data collection or data analysis, they could also create dark data. Also, the organization may not have the tools or the analytical skills to analyze the collected data. Finally, dark data may happen because the organization does not have good documentation on the organizational datasets. Dark data is like an attic or storage shed, where boxes of information are stored away with the promise that we will, one day, get around to working with the data.
 
 The federal government is a massive collector of information. <a href="http://www.data.gov/" target="_blank">Data.gov</a> currently has 131,941 datasets and I am sure that is a small fraction of the total number of government datasets. An even smaller fraction of government datasets has been translated into APIs. As I have documented in earlier postings, apps built on [government APIs have become a vital part of the U.S. economy]({{< ref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}) and provide valuable public services. The next big challenge for federal government data is to explore and utilize the dark data that exists in all of the government agencies. Much progress has been made, but more work is needed to unearth the hidden treasures in the federal government’s dark data._*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

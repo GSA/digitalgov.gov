@@ -7,18 +7,9 @@ authors:
   - uscis-staff
 topics:
   - social-media
-  - Education
-  - epa
-  - FAFSA
-  - federal-emergency-management-agency
-  - fema
-  - US Citizenship and Immigration Service
-  - us-department-of-education
-  - us-environmental-protection-agency
-  - USCIS
 ---
 
-{{< legacy-img src="2015/10/600-x-328-Birds-with-Yellow-and-Blue-Speech-Bubbles-Ken-Drysdale-iStock-Thinkstock-480553737.jpg" alt="Birds with Yellow and Blue Speech Bubbles" caption="" >}} 
+{{< legacy-img src="2015/10/600-x-328-Birds-with-Yellow-and-Blue-Speech-Bubbles-Ken-Drysdale-iStock-Thinkstock-480553737.jpg" alt="Birds with Yellow and Blue Speech Bubbles" caption="" >}}
 
 On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our first Twitter Office Hours, a Twitter chat for USCIS customers. The purpose of this pilot event was to offer our customers a different way to engage with us.
 
@@ -28,7 +19,7 @@ We were inspired to launch this event after hearing about the [popular Office Ho
 
 While preparing, we spoke with members of FAFSA Office Hours team about how their events are structured. We also had conversations with colleagues who use Twitter to engage with the public at the Federal Emergency Management Agency (FEMA) and the Environmental Protection Agency (EPA).
 
-One of the biggest challenges for us during the planning stage was securing approval to try something the agency had never done before: respond to Twitter followers. We met with USCIS colleagues to get their advice and address their concerns with digital engagement. Then we developed our strategic plan. We also worked closely with our colleagues at DHS, our parent department. {{< legacy-img src="2015/10/600-x-400-Hashtag-Concept-allanswart-iStock-Thinkstock-483935350.jpg" alt="One blue hashtag on a field of white hashtags (pound signs)." caption="" >}} 
+One of the biggest challenges for us during the planning stage was securing approval to try something the agency had never done before: respond to Twitter followers. We met with USCIS colleagues to get their advice and address their concerns with digital engagement. Then we developed our strategic plan. We also worked closely with our colleagues at DHS, our parent department. {{< legacy-img src="2015/10/600-x-400-Hashtag-Concept-allanswart-iStock-Thinkstock-483935350.jpg" alt="One blue hashtag on a field of white hashtags (pound signs)." caption="" >}}
 
 Some of the concerns that we had to address before launching the event included adequate staffing for the event, handling questions that were not within the scope of the event, customer privacy, defining the audience for office hours, promotion to the target audience and the source of our content that would be tweeted.
 

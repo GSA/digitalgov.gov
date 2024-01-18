@@ -6,12 +6,7 @@ summary: 'The results of an innovative government prize competition might help y
 authors:
   - tlowden
 topics:
-  - monthly-theme
-  - cdc
-  - centers-for-disease-control-and-prevention
   - challenges-and-prize-competitions
-  - HHS
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/06/250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177.jpg" alt="250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177" >}}The results of an innovative government prize competition might help you avoid the flu next season.

@@ -6,8 +6,8 @@ summary: 'How agency leaders can create a work environment that fosters innovati
 authors:
   - brian-fox
 topics:
-  - devops
-  - product-management
+  - software-engineering
+  - product-and-project-management
   - innovation
 featured_image:
   uid: light-bulb

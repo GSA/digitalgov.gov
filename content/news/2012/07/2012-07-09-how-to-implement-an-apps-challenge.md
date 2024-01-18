@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
-  - mobile-apps
+  - mobile
 ---
 
 <span style="font-size: 13px;">Recruiting the right judges, writing clear rules, and ensuring the public can find your apps challenge online will help ensure success.</span>

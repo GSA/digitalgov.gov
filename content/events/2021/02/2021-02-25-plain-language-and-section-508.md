@@ -15,11 +15,8 @@ end_date: 2021-03-10 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - section-508
   - plain-language
-  - training
-  - writing
-  - plain-language-community-of-practice
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - bethany-letalien

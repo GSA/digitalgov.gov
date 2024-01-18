@@ -18,7 +18,7 @@ end_date: 2018-05-15 17:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - challenges-and-prize-competitions
 
 # see all authors at https://digital.gov/authors

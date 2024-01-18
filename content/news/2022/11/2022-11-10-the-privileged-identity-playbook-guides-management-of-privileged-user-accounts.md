@@ -9,7 +9,6 @@ summary: The Privileged Identity Playbook is a practical guide to help federal a
 topics:
   - security
   - privacy
-  - data
 
 # See all authors at https://digital.gov/authors
 authors:

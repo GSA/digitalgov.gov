@@ -6,14 +6,9 @@ summary: 'This month&#8217;s Plain Language of Community Practice meeting featur
 authors:
   - samantha-hinz
 topics:
-  - content
-  - strategy
-  - policy
-  - writing
+  - communication
   - content-strategy
   - plain-language
-  - plain-language-community-of-practice
-  - recaps
 ---
 
 > _This month&#8217;s [Plain Language of Community Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session._

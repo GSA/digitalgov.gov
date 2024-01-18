@@ -4,7 +4,6 @@ date: 2015-11-05 2:31:45 -0400
 title: "M-11-26 New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act"
 summary: "The new Paperwork Reduction Act Fast Track Process  will allow agencies to obtain timely feedback on service delivery while ensuring that the information collected is useful and minimally burdensome for the public, as required by the Paperwork Reduction Act of 1995."
 topics:
-  - policy
   - information-collection
 authors:
   - andreanocesigritz

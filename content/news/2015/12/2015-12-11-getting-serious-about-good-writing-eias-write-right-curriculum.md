@@ -6,7 +6,7 @@ summary: 'Let’s see&ndash;you want to improve the skills of your agency’s wr
 authors:
   - gina-pearson
 topics:
-  - writing
+  - communication
   - plain-language
 ---
 

@@ -10,7 +10,7 @@ summary: USAGov’s usability (UX) team developed a step-by-step process for vis
 topics:
   - usability
   - user-experience
-  - usability-testing
+  - usability
 slug: 5-things-we-learned-from-our-scams-wizard-usability-test
 # Controls how this page appears across the site
 # 0 -- hidden

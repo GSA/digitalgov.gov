@@ -6,9 +6,8 @@ summary: 'One challenge with digital government: it&#8217;s hard to see people. 
 authors:
   - jonathan-rubin
 topics:
-  - monthly-theme
   - customer-experience
-  - digitalgov-user-experience-program
+  - user-experience
   - user-experience
   
 ---

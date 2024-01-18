@@ -6,23 +6,12 @@ summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized rec
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - mobile
+  - content-strategy
   - social-media
   - user-experience
   - challenges-and-prize-competitions
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - content
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - mobile
-  - mobile-apps
-  - mobile-gov
-  - social-media
-  - socialgov
-  - the-content-corner
-  - user-generated-content
-
 ---
 
 **User-Generated Content** (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let’s look to a shining example of it,Wikipedia, as a source, &#8220;**any form of content** such as [blogs](https://en.wikipedia.org/wiki/Blog "Blog"), [wikis](https://en.wikipedia.org/wiki/Wiki "Wiki"), [discussion forums](https://en.wikipedia.org/wiki/Internet_forum "Discussion forum"), [posts](https://en.wikipedia.org/wiki/Internet_post "Internet post - page does not exist"), [chats](https://en.wikipedia.org/wiki/Online_chat "Online chat"),[tweets](https://en.wikipedia.org/wiki/Twitter "Twitter"), [podcasts](https://en.wikipedia.org/wiki/Podcast "Podcast"), digital images, video, audio files, advertisements, and other forms of media that was created by **users** of an online system or service, often made available via [social media websites](https://en.wikipedia.org/wiki/List_of_social_networking_websites "List of social networking websites").&#8221;
@@ -49,7 +38,7 @@ Just a few other benefits of UGC include:
 
 > _&#8220;[Authenticity is key &#8211; if you don’t believe what someone is telling you and you don’t think they are being genuine or telling the truth, then it means nothing.](http://www.socialmediatoday.com/marketing/influencer-marketing-collaboration-not-transaction)&#8221; – Dan Neale, Social Media Today_
 
-As previously stated on [The Content Corner]({{< ref "/topics/the-content-corner" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
+As previously stated on [The Content Corner]({{< ref "/topics/content-strategy" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
 
 There are many ideas for how to implement user-generated content into your content strategy. I’ve gathered several case studies from across the government, to provide a glimpse at some of the many ways agencies are seeing the value in UGC.
 
@@ -85,4 +74,4 @@ The <a href="http://www.fs.fed.us/">U.S. Forest Service</a> and <a href="http://
 
 There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich).
   
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

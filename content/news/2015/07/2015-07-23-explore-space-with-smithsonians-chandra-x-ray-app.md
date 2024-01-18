@@ -6,14 +6,9 @@ summary: 'We continue our celebration of American history and legacy this July 2
 authors:
   - nirmala-ramprasad
 topics:
+  - analytics
   - mobile
-  - dap
-  - digital-analytics-program
-  - ios
-  - mobile-apps
-  - nasa
-  - smithsonian-institution
-  - thursday-mobile-products
+  - software-engineering
 ---
 
 {{< legacy-img src="2015/07/250-x-444-NASA-Chandra-X-ray-Observatory-1.jpg" alt="NASA's Chandra X-ray Observatory iPhone screenshot" >}}We continue our celebration of American history and legacy this July 2015 with the New Horizons spacecraft’s dramatic flight past the icy dwarf planet Pluto and its moons—momentous in space exploration. Just think about it—New Horizons, a NASA space probe traveled over 3 billion miles to the ninth and final planet, making America the first and only country that has sent space probes to every planet that makes up our solar system. That is historic!

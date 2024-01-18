@@ -6,14 +6,10 @@ summary: 'Cognitive computing has been receiving a good deal of attention lately
 authors:
   - bbrantley
 topics:
-  - data
-  - chatbots
-  - crowdsourcing
-  - internet-of-things
+  - open-data
+  - crowdsourcing-and-citizen-science
+  - emerging-tech
   - artificial-intelligence
-  - the-data-briefing
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 Cognitive computing has been receiving a good deal of attention lately as more companies have been building intelligent agents. Ever since IBM Watson&#8217;s 2011 appearance on Jeopardy, cognitive computing has spread into healthcare, investing and even veterinary medicine. However, it is only recently that <a href="http://www.govtech.com/data/3-Ways-Cognitive-Computing-Can-Be-Good-for-Government.html" target="_blank">cognitive computing has spread into government applications</a>.
@@ -30,5 +26,5 @@ The second research paper deals with a second problem caused by the inability of
 
 The cognitive computing application solves this problem by giving the participants a view of the entire box of blocks through a “sample and search” process. This way, each participant has a more realistic view of the entire box. The categories that are created are classified with a “high-confidence” rating and “low-confidence” rating based on aggregating all of the participants’ work. This helps to create categories that are truer representations of actual categories in the big picture reality of the crowdsourcing project. Again, the problem of not seeing the big picture is solved by increasing the probability that the small slice of reality is more representative of the bigger picture.
 
-DigitalGov has some great examples of <a href="{{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}}" target="_blank">crowdsourcing helping federal government projects</a>. As more and more agencies turn to crowdsourcing, cognitive computing can help better manage the projects and produce better results. Even among federal employees, pairing cognitive computing with crowdsourcing can greatly improve internal agency processes. I look forward to the innovations produced by harnessing crowdsourcing through chatbots powered by cognitive computing applications._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+DigitalGov has some great examples of <a href="{{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}}" target="_blank">crowdsourcing helping federal government projects</a>. As more and more agencies turn to crowdsourcing, cognitive computing can help better manage the projects and produce better results. Even among federal employees, pairing cognitive computing with crowdsourcing can greatly improve internal agency processes. I look forward to the innovations produced by harnessing crowdsourcing through chatbots powered by cognitive computing applications._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

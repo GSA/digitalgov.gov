@@ -16,7 +16,6 @@ expirydate: 2021-12-21
 # see all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
-  - product-management
 
 # see all authors at https://digital.gov/authors
 authors:

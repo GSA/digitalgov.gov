@@ -11,7 +11,7 @@ summary: "Employee experience solutions begin with exploring small changes with 
 # see all topics at https://digital.gov/topics
 topics:
   - professional-development
-  - strategy
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors:
