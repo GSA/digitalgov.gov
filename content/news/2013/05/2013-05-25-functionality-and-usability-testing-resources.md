@@ -71,6 +71,7 @@ Below are links to organizations that provide web functionality and usability te
   * <a href="http://feedbackarmy.com/" rel="nofollow">Feedback Army</a>
   * <a href="https://www.hatforce.com/" rel="nofollow">Hatforce</a>
   * <a href="http://www.keynote.com/" rel="nofollow">Keynote</a>
+  * <a href="http://www.maze.co/" rel="nofollow">Maze</a>
   * <a href="http://www.passbrains.com/" rel="nofollow">PassBrains</a>
   * <a href="https://www.pay4bugs.com/" rel="nofollow">Pay4Bugs</a>
   * <a href="http://testlio.com/" rel="nofollow">Testilo</a>
