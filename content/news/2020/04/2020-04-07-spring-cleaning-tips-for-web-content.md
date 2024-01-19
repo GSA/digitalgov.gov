@@ -16,8 +16,7 @@ topics:
   - analytics
   - plain-language
   - accessibility
-  - seo
-  - digital-service-delivery
+  - search-engine-optimization
 
 # see all authors at https://digital.gov/authors
 authors:

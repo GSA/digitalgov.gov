@@ -14,8 +14,8 @@ date: 2021-07-28 14:00:00 -0500
 end_date: 2021-07-28 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - usability
   - analytics
+  - usability
   - content-strategy
   - user-experience
 # See all authors at https://digital.gov/authors

@@ -21,7 +21,6 @@ end_date: 2018-04-05 13:00:00 -0500
 topics: 
   - content-strategy
   - multilingual
-  - multilingual
   - multimedia
 
 # see all authors at https://digital.gov/authors

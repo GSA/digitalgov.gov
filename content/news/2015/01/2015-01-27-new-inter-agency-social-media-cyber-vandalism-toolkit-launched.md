@@ -2,14 +2,16 @@
 slug: new-inter-agency-social-media-cyber-vandalism-toolkit-launched
 date: 2015-01-27 13:19:13 -0400
 title: New Inter-Agency Social Media Cyber-Vandalism Toolkit Launched
-summary: 'Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services. A new toolkit developed by more than a dozen government managers and representatives from major social media platforms, &#8220;Readiness, Recovery Response: Social Media Cyber-Vandalism Toolkit,&#8221; will help agencies'
+summary: 'A new toolkit developed by more than a dozen government managers and representatives from major social media platforms, will help agencies evaluate and improve security of their programs to ensure they are better prepared for emerging challenges.'
+
 authors:
   - jherman
 topics:
   - social-media
+
 ---
 
-{{< legacy-img src="2015/01/250-x-465-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Mobile Security and Protection Concept Smartphone with Safe Door" caption="" >}} 
+{{< legacy-img-right src="2015/01/250-x-465-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Mobile Security and Protection Concept Smartphone with Safe Door" caption="rasslava/iStock/Thinkstock" >}} 
 
 Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services.
 
@@ -21,23 +23,23 @@ One week later, following the rapid collaborative development process outlined i
 
 The federal working group assembled to deliver this collaborative resource includes:
 
-  * Alla Goldman, Information Sharing Environment, Office of the Director of National Intelligence
-  * Ashley Wichman, GSA
-  * Dan Kenny, GSA Emerging Leader Program
-  * Dannielle Blumenthal, National Institute of Standards and Technology
-  * David Hamm, State of Minnesota
-  * Debra Harris, Defense Finance and Accounting Services
-  * Jacob Parcell, GSA
-  * Jessica Milcetich, USA.gov
-  * Jordan Higgins, Defense Intelligence Agency
-  * Jody Bennett, Department of State
-  * Justin Herman, GSA
-  * Kat Mullins, USAJobs
-  * Natasha Lim, U.S. Securities and Exchange Commission
-  * Scott Horvath, U.S. Geological Survey
-  * Sherri Sokol, Defense Information Systems Agency
-  * Travis Brickey, Tennessee Valley Authority
+* Alla Goldman, Information Sharing Environment, Office of the Director of National Intelligence
+* Ashley Wichman, GSA
+* Dan Kenny, GSA Emerging Leader Program
+* Dannielle Blumenthal, National Institute of Standards and Technology
+* David Hamm, State of Minnesota
+* Debra Harris, Defense Finance and Accounting Services
+* Jacob Parcell, GSA
+* Jessica Milcetich, USA.gov
+* Jordan Higgins, Defense Intelligence Agency
+* Jody Bennett, Department of State
+* Justin Herman, GSA
+* Kat Mullins, USAJobs
+* Natasha Lim, U.S. Securities and Exchange Commission
+* Scott Horvath, U.S. Geological Survey
+* Sherri Sokol, Defense Information Systems Agency
+* Travis Brickey, Tennessee Valley Authority
 
-Representatives from all major social media platforms were also invited to participate, including active participation from teams from Facebook, Hootsuite, LinkedIn and more.
+Representatives from all major social media platforms were also invited to participate, including active participation from teams from Facebook, Hootsuite, LinkedIn, and more.
 
 For more information, or to suggest enhancements to the new resource, please contact [Justin Herman](mailto:justin.herman@gsa.gov) and [Daniel Kenny](mailto:daniel.kenny@gsa.gov).
