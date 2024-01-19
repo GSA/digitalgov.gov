@@ -22,10 +22,6 @@
     }
   }
 
-  .highlight {
-    background-color: color("blue-10");
-  }
-
   strong {
     font-weight: font-weight("medium");
   }
@@ -43,10 +39,10 @@
   ul {
     margin-bottom: 0;
     margin-top: 0;
-    padding-left: 20px;
+    padding-left: units(2.5);
 
     li {
-      margin-bottom: 16px;
+      margin-bottom: units(2);
     }
   }
   // For notes within list items
@@ -72,10 +68,6 @@
         color: color("orange-warm-80");
       }
     }
-
-    .highlight {
-      background-color: color("orange-warm-10");
-    }
   }
   // Alert styles
   &--alert {
@@ -93,10 +85,6 @@
       &:hover {
         color: color("red-80v");
       }
-    }
-
-    .highlight {
-      background-color: color("red-10");
     }
   }
   // Comment — color settings
@@ -116,10 +104,6 @@
       }
     }
 
-    .highlight {
-      background-color: color("white");
-    }
-
     blockquote {
       font-family: family("serif");
       font-size: size("ui", "lg");
@@ -136,11 +120,12 @@
 
 .dg-note__heading {
   font-family: family("sans");
-  font-size: 20px;
-  font-weight: 200;
+  font-size: units(2.5);
+  font-weight: font-weight("light");
   margin-top: 0;
+  margin-bottom: units(1.5) !important;
 }
 
 .dg-note__icon {
-  margin-right: 5px;
+  margin-right: units(0.5);
 }
