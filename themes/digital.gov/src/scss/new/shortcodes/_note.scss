@@ -11,10 +11,10 @@
   padding: units(3);
 
   a {
-    color: color("blue-70");
-    text-decoration: none;
     border-bottom-style: solid;
     border-bottom-width: 1px;
+    color: color("blue-70");
+    text-decoration: none;
 
     &:hover {
       @include u-text("no-underline");
@@ -86,8 +86,8 @@
     color: color("red-60v");
 
     a {
-      border-bottom-width: 1px;
       border-bottom-style: solid;
+      border-bottom-width: 1px;
       color: color("red-60v");
 
       &:hover {
@@ -108,8 +108,8 @@
     color: color("blue-cool-80");
 
     a {
-      border-bottom-width: 1px;
       border-bottom-style: solid;
+      border-bottom-width: 1px;
 
       &:hover {
         color: color("blue-cool-80");
