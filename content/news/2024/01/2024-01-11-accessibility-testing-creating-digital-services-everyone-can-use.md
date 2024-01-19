@@ -11,7 +11,6 @@ summary:
 topics:
   - accessibility
   - usability
-  - usability-testing
 slug: accessibility-testing-creating-digital-services-everyone-can-use
 # Controls how this page appears across the site
 # 0 -- hidden
