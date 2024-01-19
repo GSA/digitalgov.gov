@@ -10,6 +10,18 @@
   font-weight: font-weight("light");
   padding: units(3);
 
+  h4 {
+    font-family: family("sans");
+    font-size: units(2.5);
+    font-weight: font-weight("light");
+    margin-bottom: units(1.5);
+    margin-top: 0;
+  }
+
+  svg {
+    margin-right: units(0.5);
+  }
+
   a {
     border-bottom-style: solid;
     border-bottom-width: 1px;
@@ -116,16 +128,4 @@
     border-left-width: 5px;
     color: color("gray-warm-90");
   }
-}
-
-.dg-note__heading {
-  font-family: family("sans");
-  font-size: units(2.5);
-  font-weight: font-weight("light");
-  margin-bottom: units(1.5) !important;
-  margin-top: 0;
-}
-
-.dg-note__icon {
-  margin-right: units(0.5);
 }
