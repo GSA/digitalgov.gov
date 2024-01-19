@@ -13,7 +13,7 @@ summary: Familiarize yourself with this special report on federal agency
 topics:
   - search
   - search-engine-optimization
-slug: making-the-big-move-special-report-search-in-support-of-federal-web-modernization
+slug: special-report-search-in-support-of-federal-web-modernization
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
