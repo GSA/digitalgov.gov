@@ -16,10 +16,13 @@
     font-weight: font-weight("light");
     margin-bottom: units(1.5);
     margin-top: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
   }
 
-  svg {
-    margin-right: units(0.5);
+  &__icon {
+    margin-right: units(1);
   }
 
   a {
