@@ -9,7 +9,6 @@ topics:
   - design
   - research
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." >}}
@@ -25,12 +24,12 @@ Focus groups are an inexpensive way to identify people’s preferences, motivati
     <th style="text-align: left;vertical-align: top;width: 50%">
       What they’re good for
     </th>
-    
+
     <th style="text-align: left;vertical-align: top;width: 50%">
       What they are not
     </th>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;vertical-align: top;width: 50%">
       <ul>
@@ -48,7 +47,7 @@ Focus groups are an inexpensive way to identify people’s preferences, motivati
         </li>
       </ul>
     </td>
-    
+
     <td style="text-align: left;vertical-align: top;width: 50%">
       <ul>
         <li>
@@ -67,12 +66,12 @@ Focus groups are an inexpensive way to identify people’s preferences, motivati
     <th style="text-align: left;vertical-align: top;width: 50%">
       <strong id="docs-internal-guid-82ff4f8b-097e-f9fe-8bfd-4a3996a1019a">Advantages</strong>
     </th>
-    
+
     <th style="text-align: left;vertical-align: top;width: 50%">
       <strong id="docs-internal-guid-82ff4f8b-097f-1580-88d9-4f890cc884f2">Disadvantages</strong>
     </th>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;vertical-align: top;width: 50%">
       <ul>
@@ -96,7 +95,7 @@ Focus groups are an inexpensive way to identify people’s preferences, motivati
         </li>
       </ul>
     </td>
-    
+
     <td style="text-align: left;vertical-align: top;width: 50%">
       <ul>
         <li>

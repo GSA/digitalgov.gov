@@ -11,7 +11,6 @@ topics:
   - research
   - accessibility
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-400-kids.gov-usability-test-boy-great.jpg" alt="Children participate in kids.gov usability test" >}}
@@ -32,7 +31,7 @@ The first major project I was involved with was really enlightening (and I shoul
 
 {{< legacy-img src="2015/03/600-x-400-andrea-and-girl-at-kids.gov-hallway-usability-test.jpg" alt="Teen participant at the kids.gov usability test" >}}
 
- 
+
 
 ## 2. Use their language, not yours
 

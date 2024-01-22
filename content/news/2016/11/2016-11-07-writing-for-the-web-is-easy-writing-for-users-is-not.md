@@ -12,14 +12,13 @@ topics:
   - research
   - communication
   - accessibility
-  - content-strategy
   - plain-language
   - user-centered-design
 ---
 
 We all do it. Whether on Twitter, Facebook, or the comment section on a news article, it’s easy to get our writing on the internet. Many of us have personal websites or contribute to blogs. We work at organizations with content management systems that allow us to publish pages with a single button click.
 
-The fact that it’s so easy to _publish content_ can trick us into thinking it’s equally easy to write _useful content._ {{< legacy-img src="2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 
+The fact that it’s so easy to _publish content_ can trick us into thinking it’s equally easy to write _useful content._ {{< legacy-img src="2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}}
 
 Government websites are written for an extraordinarily diverse group of users. They come to our websites with different knowledge, backgrounds, and abilities. Our content has to take into account many overlapping and diverging characteristics. And it still needs to present a polished, understandable message.
 

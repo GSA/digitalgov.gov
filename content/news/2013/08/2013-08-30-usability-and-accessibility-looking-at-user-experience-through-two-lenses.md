@@ -9,7 +9,6 @@ topics:
   - accessibility
   - research
   - user-experience
-  - accessibility
   - usability
 ---
 

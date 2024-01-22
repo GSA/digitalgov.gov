@@ -10,7 +10,6 @@ topics:
   - software-engineering
   - mobile
   - open-source
-  
 ---
 
 {{< legacy-img src="2014/01/mobile-codesharing-21-350x214-250x152.jpg" alt="Picture of a desktop computer, laptop and a smartphone" >}}You&#8217;ve just found a great open source fed agency app on the [Mobile Code Sharing Catalog]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}}), and would love to use one of its cool functionalities for your own agency&#8217;s app.

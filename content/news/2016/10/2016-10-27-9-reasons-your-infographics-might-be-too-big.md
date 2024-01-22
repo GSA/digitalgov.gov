@@ -11,12 +11,11 @@ topics:
   - design
   - product-and-project-management
   - social-media
-  - content-strategy
   - data-visualization
   - multimedia
 ---
 
-Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures. {{< legacy-img src="2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements." caption="" >}} 
+Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures. {{< legacy-img src="2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements." caption="" >}}
 
 While a massive infographic immediately arrests due to its overwhelming data content and creative approach, sometimes it can still fall flat by just being plain overwhelming. Some infographics communicate several data points when there’s really just one key point to be made, obscuring the real message. Remember the popular web design principle—offering your audience information sized to be a bite, snack, or meal—can also apply to infographics. Here’s how to know if a smaller infographic would better satisfy your audience’s appetite.
 
@@ -28,7 +27,7 @@ Sure, you can house an infographic on your website, and there’s always Pintere
   <p lang="en">
     FACT: Wages are rising at the fastest pace in 7 years → <a href="https://t.co/C8P76lnNkb">https://t.co/C8P76lnNkb</a> <a href="https://twitter.com/hashtag/JobsReport?src=hash">#JobsReport</a> <a href="https://t.co/erXP4sSOsd">pic.twitter.com/erXP4sSOsd</a>
   </p>
-  
+
   <p>
     &mdash; The White House (@WhiteHouse) <a href="https://twitter.com/WhiteHouse/status/761596821701529601">August 5, 2016</a>
   </p>
@@ -78,7 +77,7 @@ Some readers might argue, “But Pinterest is the perfect platform for sharing l
   </li>
 </ol>
 
-Trying to get users to sign up for a service, download resources, change behavior, or apply for a program? You need a strong call to action in your infographic. Typically, infographics make a data-driven argument and end with a call to action or persuasive conclusion. The longer the infographic, the harder that key point can be to find, and you risk audience drop-off if it takes them too long to get there. Identify the key takeaway and make it prominent and clear in your infographic. Shorter infographics that [get right to the point](https://www.flickr.com/photos/niaid/27423001115/) keep things focused on the desired impact and outcome. {{< legacy-img src="2016/10/600-x-300-NIAID-Antiretroviral-Therapy-for-HIV-Infection-inforgraphic-on-flickr.jpg" alt="Infographic: Antiretroviral therapy for HIV infection has changed dramatically in the past two decades." caption="" >}} 
+Trying to get users to sign up for a service, download resources, change behavior, or apply for a program? You need a strong call to action in your infographic. Typically, infographics make a data-driven argument and end with a call to action or persuasive conclusion. The longer the infographic, the harder that key point can be to find, and you risk audience drop-off if it takes them too long to get there. Identify the key takeaway and make it prominent and clear in your infographic. Shorter infographics that [get right to the point](https://www.flickr.com/photos/niaid/27423001115/) keep things focused on the desired impact and outcome. {{< legacy-img src="2016/10/600-x-300-NIAID-Antiretroviral-Therapy-for-HIV-Infection-inforgraphic-on-flickr.jpg" alt="Infographic: Antiretroviral therapy for HIV infection has changed dramatically in the past two decades." caption="" >}}
 
 <ol start="7">
   <li>
@@ -106,7 +105,7 @@ At any large organization, accuracy of data is of paramount importance &#8212; f
 
 {{< legacy-img src="2016/10/600-x-299-NIDAnews-cocaine-fact-infographic-from-Twitter.jpg" alt="A NIDA News cocaine fact infographic used on Twitter." >}}
 
- 
+
 
 [_Sara Smith_](https://www.linkedin.com/in/saramariecrocoll) _([@CrocollSmith](https://twitter.com/CrocollSmith)) is the Social Media Strategist for the National Institute on Drug Abuse (NIDA) and_ [_Anne Rancourt_](https://www.linkedin.com/in/annerancourt) _([@annerancourt](https://twitter.com/AnneRancourt)) is a Communications Section Chief at the National Institute of Allergy and Infectious Diseases (NIAID); both part of the National Institutes of Health (NIH)._
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
