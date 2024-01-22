@@ -11,7 +11,7 @@ authors:
 # Topics that best describe this product or service
 topics:
   - mobile
-  - user-testing-and-research
+  - research
 ---
 
 ## Like a kid in a candy store ...

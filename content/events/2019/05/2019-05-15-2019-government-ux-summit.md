@@ -26,8 +26,6 @@ venue:
 topics:
   - design
   - user-experience
-  - user-experience
-
 ---
 
 {{< img src="govt-ux-summit-2019" >}}

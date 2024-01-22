@@ -9,9 +9,7 @@ topics:
   - social-media
   - analytics
   - customer-experience
-  - customer-experience
   - government-contact-centers
-  - social-media
 ---
 
 {{< legacy-img src="2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 

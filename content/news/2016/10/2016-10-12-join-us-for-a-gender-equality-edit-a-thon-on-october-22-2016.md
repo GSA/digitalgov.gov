@@ -11,7 +11,6 @@ topics:
   - product-and-project-management
   - mobile
   - research
-  - research
 ---
 
 Come out and join us on Saturday, October 22, 2016 from 10:00 am – 5:00 pm for a Wikipedia Edit-a-thon on Gender Equality in the Innovation Hub at the National Archives Building in Washington, DC. [Register for this event today](https://www.eventbrite.com/e/gender-equality-wikipedia-edit-a-thon-at-the-national-archives-tickets-28252688552)!

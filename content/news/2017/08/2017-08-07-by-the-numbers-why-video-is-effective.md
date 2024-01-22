@@ -8,8 +8,6 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - content-strategy
-  - social-media
   - multimedia
 ---
 

@@ -10,8 +10,6 @@ end_date: 2021-04-29 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
-  - social-media
-  - social-media
   - podcast
   - communication
 # See all authors at https://digital.gov/authors

@@ -6,11 +6,9 @@ summary: 'Many technical websites have a hard time explaining information to the
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
   - usability
-  - usability
-  - user-experience
 ---
 
 Many technical websites have a hard time explaining information to the general public. This happens because users don’t understand the industry-specific or scientific terms. Fortunately, solutions to these problems are fairly easy—changing menu and navigation item text, or adding a line of explanatory text on key pages or complex graphics.

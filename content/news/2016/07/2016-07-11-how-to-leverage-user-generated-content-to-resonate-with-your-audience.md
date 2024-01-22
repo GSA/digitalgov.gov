@@ -12,7 +12,6 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - mobile
-  - social-media
 ---
 
 **User-Generated Content** (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let’s look to a shining example of it,Wikipedia, as a source, &#8220;**any form of content** such as [blogs](https://en.wikipedia.org/wiki/Blog "Blog"), [wikis](https://en.wikipedia.org/wiki/Wiki "Wiki"), [discussion forums](https://en.wikipedia.org/wiki/Internet_forum "Discussion forum"), [posts](https://en.wikipedia.org/wiki/Internet_post "Internet post - page does not exist"), [chats](https://en.wikipedia.org/wiki/Online_chat "Online chat"),[tweets](https://en.wikipedia.org/wiki/Twitter "Twitter"), [podcasts](https://en.wikipedia.org/wiki/Podcast "Podcast"), digital images, video, audio files, advertisements, and other forms of media that was created by **users** of an online system or service, often made available via [social media websites](https://en.wikipedia.org/wiki/List_of_social_networking_websites "List of social networking websites").&#8221;

@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - terms-of-service
-  - terms-of-service
 ---
 
 ## What is Medium?

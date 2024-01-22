@@ -24,7 +24,6 @@ topics:
   - mobile
   - social-media
   - artificial-intelligence
-  - software-engineering
   
 # see all authors at https://digital.gov/authors
 authors: 

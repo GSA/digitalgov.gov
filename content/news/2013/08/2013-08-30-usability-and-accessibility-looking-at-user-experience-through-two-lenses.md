@@ -7,7 +7,7 @@ authors:
   - katie-messner
 topics:
   - accessibility
-  - user-testing-and-research
+  - research
   - user-experience
   - accessibility
   - usability

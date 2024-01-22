@@ -8,7 +8,7 @@ authors:
   - rflagg
 
 topics:
-  - user-testing-and-research
+  - research
   - customer-experience
 
 ---

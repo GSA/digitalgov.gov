@@ -7,10 +7,9 @@ authors:
   - joel-virothaisakun
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - usability
-  - user-experience
 ---
 
 _Editor&#8217;s note: Building off the great discussion started around [Customer Experience]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), we’re looking at the difference between User Acceptance Testing and Usability Testing._

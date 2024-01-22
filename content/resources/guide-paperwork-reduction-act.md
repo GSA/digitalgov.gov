@@ -20,7 +20,6 @@ topics:
   - customer-experience
   - pra
   - research
-  - research
 
 # see all authors at https://digital.gov/authors
 authors:

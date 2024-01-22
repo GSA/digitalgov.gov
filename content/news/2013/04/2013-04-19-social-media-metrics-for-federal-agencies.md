@@ -8,7 +8,6 @@ authors:
 topics:
   - analytics
   - social-media
-  - social-media
 aliases:
   - /resources/federal-social-media-analytics-toolkit-hackpad/
 

@@ -11,7 +11,6 @@ topics:
   - content-strategy
   - product-and-project-management
   - social-media
-  - social-media
   - terms-of-service
 ---
 

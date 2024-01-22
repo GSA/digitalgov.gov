@@ -20,7 +20,6 @@ end_date: 2018-06-05 13:00:00 -0500
 topics: 
   - software-engineering
   - open-source
-  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors: 

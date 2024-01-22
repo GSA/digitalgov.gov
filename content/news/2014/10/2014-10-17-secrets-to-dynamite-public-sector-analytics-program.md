@@ -7,7 +7,7 @@ authors:
   - hannah-gladfelter-rubin
 topics:
   - analytics
-  - user-testing-and-research
+  - research
   - user-experience
 ---
 

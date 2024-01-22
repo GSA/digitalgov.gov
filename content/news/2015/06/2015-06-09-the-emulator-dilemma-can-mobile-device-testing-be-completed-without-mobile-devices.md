@@ -9,7 +9,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - user-testing-and-research
+  - research
   - user-experience
 ---
 

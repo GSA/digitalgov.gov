@@ -12,7 +12,6 @@ topics:
   - user-experience
   - design
   - usability
-  - usability
 slug: a-user-centered-approach-simplicity-and-complexity-in-a-homepage-graphic
 # Controls how this page appears across the site
 # 0 -- hidden

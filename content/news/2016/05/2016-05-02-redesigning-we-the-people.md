@@ -10,7 +10,7 @@ topics:
   - design
   - product-and-project-management
   - mobile
-  - user-testing-and-research
+  - research
   - user-centered-design
   - user-experience
 ---
