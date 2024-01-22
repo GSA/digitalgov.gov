@@ -4,6 +4,9 @@
 
 slug: "plain-language"
 
+aliases:
+  - /topics/plain-language-community-of-practice/
+
 # Topic Title
 title: "Plain Language"
 
