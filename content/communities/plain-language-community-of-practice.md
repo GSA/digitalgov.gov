@@ -10,7 +10,7 @@ summary: "Promote the use of plain language to provide better service to the pub
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/plain-language-community-of-practice/
-  - topics/plain-language-community-of-practice/
+  - /topics/plain-language-community-of-practice/
 
 # see all authors at https://digital.gov/authors
 authors:
