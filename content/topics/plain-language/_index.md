@@ -2,10 +2,10 @@
 # This topic lives at
 # https://digital.gov/topics/plain-language
 
+aliases: 
+  - topics/plain-language-community-of-practice/
+  
 slug: "plain-language"
-
-aliases:
-  - /topics/plain-language-community-of-practice/
 
 # Topic Title
 title: "Plain Language"
