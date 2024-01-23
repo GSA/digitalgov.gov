@@ -34,7 +34,11 @@
       <use xlink:href="{{ $iconPath | relURL }}"></use>
     </svg>
     {{ if $variant }}
-      {{ $variant | title }}
+      {{ if eq $variant "join" }}
+        Who can join?
+      {{ else }}    
+        {{ $variant | title }}
+      {{ end }}
     {{ else }}
       Note
     {{ end }}
