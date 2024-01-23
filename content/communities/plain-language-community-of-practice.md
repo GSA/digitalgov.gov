@@ -11,6 +11,7 @@ summary: "Promote the use of plain language to provide better service to the pub
 aliases:
   - /communities/plain-language-community-of-practice/
   - /topics/plain-language-community-of-practice/
+  - /topics/plain-writing-act-of-2010/
 
 # see all authors at https://digital.gov/authors
 authors:
