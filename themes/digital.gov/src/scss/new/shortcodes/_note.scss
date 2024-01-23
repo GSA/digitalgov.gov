@@ -10,14 +10,14 @@
   font-weight: font-weight("light");
   padding: units(3);
 
-  h4 {
+  &__heading {
     align-items: center;
     display: flex;
     flex-direction: row;
     font-family: family("sans");
     font-size: units(2.5);
     font-weight: font-weight("light");
-    margin-bottom: units(1.5);
+    margin-bottom: units(1.5) !important;
     margin-top: 0;
   }
 
