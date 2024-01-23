@@ -12,7 +12,7 @@ end_date: 2024-01-18 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - user-research
+  - research
   - design
 slug: uswds-monthly-call-january-2024
 # zoom, youtube_live, adobe_connect, google
