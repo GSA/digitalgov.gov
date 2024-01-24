@@ -6,7 +6,7 @@ source_url: https://cdc.gov/ccindex/index.html
 source: cdc
 
 title: "The CDC Clear Communication Index"
-summary: "The CDC Clear Communication Index (Index) is a research-based tool to help you develop and assess public communication materials."
+summary: "The CDC Clear Communication Index is a research-based tool to help you develop and assess public communication materials."
 
 # See all topics at https://digital.gov/topics
 topics:
