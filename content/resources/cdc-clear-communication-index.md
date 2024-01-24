@@ -3,8 +3,8 @@ date: 2024-01-18 15:59:00 -0500
 
 # Originally published at the following URL
 source_url: https://cdc.gov/ccindex/index.html
-
 source: cdc
+
 title: "The CDC Clear Communication Index"
 summary: "The CDC Clear Communication Index (Index) is a research-based tool to help you develop and assess public communication materials."
 
