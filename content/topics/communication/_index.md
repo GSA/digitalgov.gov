@@ -21,8 +21,9 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "tktktk"
+    - link: "/resources/cdc-clear-communication-index"
 
 # Featured community to display at the top of the page
 featured_communities:
   - "web-managers-forum"
+---
