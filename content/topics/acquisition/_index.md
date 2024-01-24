@@ -21,8 +21,9 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "techfar-hub-get-started"
+    - link: "/resources/techfar-hub-get-started"
 
 # Featured community to display at the top of the page
 featured_communities:
   - "web-managers-forum"
+---
