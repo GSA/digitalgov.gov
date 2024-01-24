@@ -6,12 +6,9 @@ summary: 'A penny saved is a penny earned. But spending your pennies on mobile d
 authors:
   - awichman
 topics:
-  - ios
-  - mobile
   - mobile
   - terms-of-service
   - emerging-tech
-
 ---
 
 A penny saved is a penny earned. But spending your pennies on [mobile development is necessary to meet 21st century needs]({{< ref "2015-09-15-trends-on-tuesday-the-mobile-internet-is-dead-long-live-the-mobile-internet.md" >}}).

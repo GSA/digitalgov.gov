@@ -16,7 +16,6 @@ end_date: 2022-11-15 15:00:00 -0500
 topics:
   - user-experience
   - usability
-  - usability-testing
 # See all authors at https://digital.gov/authors
 authors:
   - joanne-mcgovern

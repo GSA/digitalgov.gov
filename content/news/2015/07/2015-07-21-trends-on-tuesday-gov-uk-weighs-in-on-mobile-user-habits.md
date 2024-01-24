@@ -8,8 +8,6 @@ authors:
 topics:
   - content-strategy
   - mobile
-  - mobile
-  - content-strategy
   - emerging-tech
 ---
 

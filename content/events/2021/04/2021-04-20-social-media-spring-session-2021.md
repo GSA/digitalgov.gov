@@ -9,8 +9,6 @@ date: 2021-04-28 14:00:00 -0500
 end_date: 2021-04-29 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - socialgov-community
-  - socialgov
   - social-media
   - podcast
   - communication

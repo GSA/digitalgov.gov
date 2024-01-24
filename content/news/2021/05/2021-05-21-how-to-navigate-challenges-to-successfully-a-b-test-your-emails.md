@@ -10,7 +10,6 @@ topics:
   - customer-experience
   - design
   - usability
-  - research
 # See all authors at https://digital.gov/authors
 authors:
   - jenn-wingerberg

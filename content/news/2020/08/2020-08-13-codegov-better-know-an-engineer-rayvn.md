@@ -18,7 +18,7 @@ summary: "**Code.gov Better Know an Engineer: Rayvn Manuel**&mdash;We’re back 
 # see all topics at https://digital.gov/topics
 topics: 
   - design
-  - devops
+  - software-engineering
   - mobile
 
 # Page weight: controls how this page appears across the site

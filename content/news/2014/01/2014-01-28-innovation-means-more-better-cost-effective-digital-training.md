@@ -8,8 +8,6 @@ authors:
 topics:
   - product-and-project-management
   - social-media
-  - socialgov
-
 ---
 
 A recent **FedTech Magazine** article asked, [When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate), we thought we'd take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.

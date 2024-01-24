@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - research
-  - information-collection
   - user-experience
 ---
 

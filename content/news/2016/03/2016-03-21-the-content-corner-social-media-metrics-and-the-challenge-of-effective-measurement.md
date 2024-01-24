@@ -7,9 +7,8 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - analytics
   - social-media
-  - content-strategy
+  - analytics
 ---
 
 I’ve recently been required to focus more attention on social media from a federal agency standpoint and this has directly led to a greater consideration of content. One of my first steps was to begin sharing various forms of content and gauge the success of each type. In today’s post, I’ll share what I have learned and hope it opens your eyes to how we measure success and whether our metrics are right or completely meaningless. {{< legacy-img src="2016/03/600-x-300-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="Icons for social media marketing and analytics" caption="" >}} 

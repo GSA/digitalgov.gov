@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - social-media
-  - analytics
   - content-strategy
+  - analytics
   - security
   - emerging-tech
 ---

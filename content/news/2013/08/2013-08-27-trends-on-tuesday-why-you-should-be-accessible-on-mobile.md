@@ -8,8 +8,6 @@ authors:
 topics:
   - accessibility
   - mobile
-  - mobile
-  - mobile
   - emerging-tech
 
 ---

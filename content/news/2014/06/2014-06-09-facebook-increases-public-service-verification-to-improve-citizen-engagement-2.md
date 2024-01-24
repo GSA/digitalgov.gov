@@ -12,7 +12,6 @@ topics:
   - product-and-project-management
   - social-media
   - data-gov
-  - socialgov-community
   - user-experience
 ---
 

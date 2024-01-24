@@ -12,7 +12,6 @@ topics:
   - social-media
   - emerging-tech
   - multimedia
-  - socialgov-community
 # See all authors at https://digital.gov/authors
 authors:
   - alex-cohen

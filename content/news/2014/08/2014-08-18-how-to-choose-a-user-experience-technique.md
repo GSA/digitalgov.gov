@@ -6,12 +6,10 @@ summary: 'The good news: Your boss is interested in User Experience! The news: S
 authors:
   - pooja-sawant
 topics:
-  - user-testing-and-research
-  - customer-experience
-  - digitalgov-user-experience-program
   - research
-  - usability-testing
+  - customer-experience
   - user-experience
+  - usability
 
 primary_image: "how-ux-solves-problems-umbrella-image-by-dan-willis-uxcrank"
 

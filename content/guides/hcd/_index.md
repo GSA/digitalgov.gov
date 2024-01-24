@@ -12,10 +12,9 @@ additional_resources: next-steps.md
 topics:
   - design
   - user-experience
-  - user-centered-design
+  - human-centered-design
   - research
   - content-strategy
-  - user-experience-community-of-practice
   - customer-experience
 
 # Page weight: controls how this page appears across the site

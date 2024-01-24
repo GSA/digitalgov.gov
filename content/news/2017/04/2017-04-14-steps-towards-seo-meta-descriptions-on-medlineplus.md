@@ -9,11 +9,10 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - code
+  - software-engineering
   - multilingual
   - search-engine-optimization
   - seo
-  - social-media
 ---
 
 MedlinePlus is a consumer health website produced by the [U.S. National Library of Medicine](https://www.nlm.nih.gov/) (NLM), available in both [English](https://medlineplus.gov/) and [Spanish](https://medlineplus.gov/spanish/). As part of our Search Engine Optimization (SEO) strategy, we recently added meta descriptions to our health topic pages. A meta description is a short HTML attribute in the head tag that describes the contents of a web page. When the meta description is not available or is poorly written, search engines automatically generate their own version to describe what is on a web page. They may use snippets from the page, text from anchor links, or other sources on the page.

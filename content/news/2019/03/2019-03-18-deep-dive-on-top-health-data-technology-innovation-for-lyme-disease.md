@@ -9,8 +9,7 @@ authors:
   - gil-alterovitz
   - ed-simcox
 topics:
-  - code
-  
+  - software-engineering
   - innovation
   - mobile
   - open-data

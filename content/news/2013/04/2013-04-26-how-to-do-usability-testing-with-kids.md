@@ -8,9 +8,8 @@ authors:
 topics:
   - research
   - content-strategy
-  - usability-testing
+  - usability
   - user-experience
-  
 ---
 
 {{< legacy-img src="2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" >}}

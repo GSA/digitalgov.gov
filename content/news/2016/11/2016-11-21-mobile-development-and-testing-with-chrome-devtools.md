@@ -7,11 +7,9 @@ summary: 'Around Q3, I was looking for way to test the HTML and CSS of an online
 authors:
   - angela-smithers
 topics:
-  - code
+  - software-engineering
   - design
   - mobile
-  - code
-
 ---
 
 Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing. All of a sudden, a new policy came down that stated, &#8220;devices that were not purchased by the agency could not be connected to the network. If we needed a device(s) to be on the network, we needed to go through the steps to have the device inspected, documented and approved.&#8221;

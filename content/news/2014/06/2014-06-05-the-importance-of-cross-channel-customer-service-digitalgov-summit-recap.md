@@ -6,8 +6,8 @@ summary: During the DigitalGov Citizen Services Summit last Friday, customer ser
 authors:
   - tonya-beres
 topics:
-  - challenges
-  - code
+  - challenges-and-prize-competitions
+  - software-engineering
   - content-strategy
   - product-and-project-management
   - analytics

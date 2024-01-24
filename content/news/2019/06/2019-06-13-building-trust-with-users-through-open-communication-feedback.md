@@ -15,8 +15,6 @@ topics:
   - trust
   - mobile
   - content-strategy
-  - mobile
-  - mobile
 
 # see all authors at https://digital.gov/authors
 authors:

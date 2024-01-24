@@ -7,7 +7,6 @@ authors:
   - yoz-grahame
 topics:
   - software-engineering
-  - content-strategy
   - design
   - research
   - user-experience

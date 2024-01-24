@@ -6,7 +6,7 @@ summary: Setting measurable usability goals will help your team to assess the pe
 authors:
   - katie-messner
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
   - top-tasks
 ---

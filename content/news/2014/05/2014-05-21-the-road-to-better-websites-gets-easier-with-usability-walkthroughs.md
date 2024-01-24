@@ -6,10 +6,9 @@ summary: The road to more user-friendly government websites does not have to be 
 authors:
   - ashley-braun
 topics:
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 The road to more user-friendly government websites does not have to be long and scary. In fact, there is a growing network of people and resources to guide you along the way. My office in the National Oceanic and Atmospheric Administration (NOAA) has been fortunate enough to benefit from some of this support, most recently in the form of a &#8220;usability walkthrough.&#8221;

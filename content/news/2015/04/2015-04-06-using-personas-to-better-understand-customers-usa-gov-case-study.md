@@ -11,9 +11,7 @@ topics:
   - customer-experience
   - search
   - multilingual
-  - research
   - user-experience
-  
 ---
 
 [Personas]({{< ref "2015-01-09-personas-101.md" >}}) are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact center, in-person visits, and interactive voice response (IVR) self service customers.

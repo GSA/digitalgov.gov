@@ -7,10 +7,9 @@ authors:
   - mary-ann-monroe
 topics:
   - product-and-project-management
-  - aoi
+  - user-experience
   - customer-experience
-  - customer-experience
-  - government-contact-centers
+  - contact-centers
 ---
 
 {{< legacy-img src="2014/01/600-x-405-Headset-with-a-microphone-VitalyEdush-iStock-Thinkstock-178719336.jpg" alt="Headset with a microphone" caption="" >}} 

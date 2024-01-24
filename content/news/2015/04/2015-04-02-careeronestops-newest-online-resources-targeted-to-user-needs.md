@@ -7,17 +7,10 @@ authors:
   - kim-vitelli
   - michael-harding
 topics:
-  - design
+  - research
   - mobile
-  - user-testing-and-research
-  - mobile
-  - mobile
-  - mobile
-  - top-tasks
-  
-  - usability-testing
+  - usability
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-436-cos-CareerOneStop.jpg" alt="CareerOneStop homepage" >}}

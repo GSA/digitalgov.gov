@@ -7,8 +7,6 @@ authors:
   - zeshan-khan
 topics:
   - mobile
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

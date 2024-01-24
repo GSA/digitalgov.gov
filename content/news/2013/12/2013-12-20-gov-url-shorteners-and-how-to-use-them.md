@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - software-engineering
-
 ---
 
 {{< note "alert" >}}

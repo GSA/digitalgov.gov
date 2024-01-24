@@ -6,7 +6,7 @@ summary: 'It might surprise some of you to know that artificial intelligence (AI
 authors:
   - christen-geiler
 topics:
-  - code
+  - software-engineering
   - content-strategy
   - open-data
   - product-and-project-management

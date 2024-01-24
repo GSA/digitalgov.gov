@@ -9,7 +9,6 @@ topics:
   - product-and-project-management
   - mobile
   - artificial intelligence
-  - mobile
   - emerging-tech
   - multimedia
 ---

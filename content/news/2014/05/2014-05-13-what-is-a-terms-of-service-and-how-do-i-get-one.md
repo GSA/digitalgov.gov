@@ -10,7 +10,6 @@ topics:
   - social-media
   - user-experience
   - terms-of-service
-  - tos
   - usability
 ---
 

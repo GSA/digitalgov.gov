@@ -13,7 +13,6 @@ topics:
   - budgeting-and-performance
   - security
   - innovation
-
 ---
 
 The [General Services Administration](http://www.gsa.gov/) (GSA) is known for managing federal real estate and leveraging the government’s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) builds, buys and shares tech to help federal agencies achieve their mission. They create better services for citizens everyday. TTS works closely with the [Federal Acquisition Service](http://www.gsa.gov/portal/content/105080) (FAS) and the GSA CIO to be first movers in and apply agile technology in a meaningful way.

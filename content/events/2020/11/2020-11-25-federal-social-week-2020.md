@@ -10,10 +10,9 @@ end_date: 2020-12-11 15:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
-  - social-media
-  - socialgov
   - podcast
-  - socialgov-community
+  - social-media
+  - podcast
   - communication
 
 # See all authors at https://digital.gov/authors

@@ -8,7 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - innovation
-  - usability-testing
+  - usability
   - user-experience
 ---
 

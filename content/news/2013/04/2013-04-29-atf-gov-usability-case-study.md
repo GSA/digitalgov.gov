@@ -6,11 +6,9 @@ summary: 'The Bureau of Alcohol, Tobacco, Firearms, and Explosives has some real
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - usability-case-study
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 The Bureau of Alcohol, Tobacco, Firearms, and Explosives has some really valuable information for the public that a lot of people search for on [ATF.gov](http://www.atf.gov//). It&#8217;s important that the information is easily and quickly accessible. Government agencies reach a wide audience with their information, so making sure everyone can understand your content is important.

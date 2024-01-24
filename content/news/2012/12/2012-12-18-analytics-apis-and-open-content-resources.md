@@ -7,7 +7,7 @@ authors:
   - gwynne-kostin
 topics:
   - application-programming-interface
-  - code
+  - software-engineering
   - content-strategy
   - analytics
 ---

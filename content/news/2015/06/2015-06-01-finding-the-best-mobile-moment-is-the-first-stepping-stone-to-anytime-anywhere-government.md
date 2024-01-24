@@ -6,7 +6,6 @@ summary: Mobile-friendliness is a must for government. But mobilizing the whole 
 authors:
   - jparcell
 topics:
-  - mobile
   - software-engineering
   - mobile
 ---

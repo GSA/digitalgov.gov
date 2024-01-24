@@ -10,7 +10,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - content-strategy
   - challenges-and-prize-competitions
-  - crowdsourcing-and-citizen-science
   - innovation
   - human-centered-design
 ---

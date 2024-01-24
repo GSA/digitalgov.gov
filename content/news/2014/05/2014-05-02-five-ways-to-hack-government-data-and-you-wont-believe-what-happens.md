@@ -9,7 +9,6 @@ topics:
   - challenges-and-prize-competitions
   - software-engineering
   - communication
-  - data-gov
   - innovation
   - open-data
 ---

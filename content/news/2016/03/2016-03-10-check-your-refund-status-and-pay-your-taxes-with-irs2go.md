@@ -8,7 +8,7 @@ authors:
   - jparcell
 topics:
   - mobile
- 
+  - social-media
 primary_image: irs2go-google-play-logo-1200
 
 ---

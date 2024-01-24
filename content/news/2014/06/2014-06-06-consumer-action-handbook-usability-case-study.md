@@ -10,13 +10,9 @@ authors:
 
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - digitalgov-user-experience-program
-  - usability-case-study
-  - usability-testing
-  - user-experience
-
+  - usability
 ---
 
 {{< note "alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />

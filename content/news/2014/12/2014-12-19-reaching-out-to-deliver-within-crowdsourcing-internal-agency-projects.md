@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - crowdsourcing-and-citizen-science
   - professional-development
 ---
 

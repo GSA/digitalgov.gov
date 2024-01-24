@@ -12,8 +12,6 @@ featured_image:
 topics:
   - content-strategy
   - mobile
-  - content-strategy
-  - mobile
   - multilingual
 
 aliases:

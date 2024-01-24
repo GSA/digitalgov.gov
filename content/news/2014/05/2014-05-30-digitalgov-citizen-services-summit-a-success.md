@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - challenges
-  - code
+  - software-engineering
   - content-strategy
   - product-and-project-management
   - analytics

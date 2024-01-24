@@ -12,7 +12,7 @@ date: 2020-09-22 14:00:00 -0500
 end_date: 2020-09-22 14:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - devops
+  - software-engineering
   - agile
   - project-management
   - professional-development

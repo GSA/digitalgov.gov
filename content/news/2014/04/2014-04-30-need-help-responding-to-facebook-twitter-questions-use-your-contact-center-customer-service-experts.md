@@ -7,7 +7,7 @@ authors:
   - candace-maynard
 topics:
   - product-and-project-management
-  - aoi
+  - user-experience
   - social-media
 ---
 

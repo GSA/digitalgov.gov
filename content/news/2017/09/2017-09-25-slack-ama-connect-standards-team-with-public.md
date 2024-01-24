@@ -14,13 +14,11 @@ featured_image:
   alt: 'a visual representation of code and styling'
 
 topics:
-  - code
+  - software-engineering
   - content-strategy
   - mobile
-  - accessibility
   - user-experience
   - accessibility
-
 ---
 
 The team behind the U.S. Web Design Standards (the Standards) held their first Ask Me Anything (AMA), in August, to answer questions from their public Slack channel community.

@@ -13,7 +13,6 @@ end_date: 2021-04-14 15:30:00 -0500
 topics:
   - user-experience
   - plain-language
-  - usability-testing
   - usability
   - content-strategy
 # See all authors at https://digital.gov/authors

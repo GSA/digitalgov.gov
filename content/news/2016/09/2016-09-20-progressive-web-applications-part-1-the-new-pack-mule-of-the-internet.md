@@ -6,15 +6,13 @@ summary: 'A mule is the hybrid offspring of a male donkey and a horse. This new 
 authors:
   - david-fern
 topics:
-  - code
+  - software-engineering
   - content-strategy
   - design
   - product-and-project-management
   - mobile
   - user-experience
-  - code
   - innovation
-
 ---
 
 A mule is the hybrid offspring of a male donkey and a horse. This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound, and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins. Finally, mules do not require expensive grains, eat less and don&#8217;t tend to overeat as horses do.

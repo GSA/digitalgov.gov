@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - design
-  - user-testing-and-research
+  - research
   - content-strategy
   - software-engineering
   - user-centered-design

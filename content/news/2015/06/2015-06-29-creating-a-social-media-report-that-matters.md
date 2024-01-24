@@ -1,3 +1,5 @@
+
+
 ---
 slug: creating-a-social-media-report-that-matters
 date: 2015-06-29 1:00:19 -0400
@@ -8,7 +10,6 @@ authors:
 topics:
   - social-media
   - analytics
-  - data-visualization
   - data-visualization
 ---
 

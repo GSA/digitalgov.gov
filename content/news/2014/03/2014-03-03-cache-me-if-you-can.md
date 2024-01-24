@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - customer-experience
   - search
+  - software-engineering
 ---
 
 ## Slowness Hurts Web Pages[{{< legacy-img src="2014/03/speed-dial.png" alt="speed dial" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/speed-dial.png)

@@ -7,7 +7,7 @@ authors:
   - cm-lubinski
   - becky-sweger
 topics:
-  - code
+  - software-engineering
   - governance
   - product-and-project-management
   - content-strategy

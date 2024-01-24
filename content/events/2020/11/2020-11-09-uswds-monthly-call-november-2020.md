@@ -15,7 +15,6 @@ topics:
   - digital-service-delivery
   - user-centered-design
   - research
-  - research
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

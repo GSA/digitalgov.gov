@@ -9,8 +9,6 @@ topics:
   - content-strategy
   - mobile
   - multimedia
-  - mobile
-  - mobile
   - emerging-tech
   - social-media
 ---

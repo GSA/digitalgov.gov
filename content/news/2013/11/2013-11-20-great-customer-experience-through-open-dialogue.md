@@ -9,7 +9,6 @@ topics:
   - product-and-project-management
   - social-media
   - customer-experience
-  - social-media
   - user-experience
 ---
 

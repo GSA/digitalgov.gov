@@ -19,14 +19,11 @@ end_date: 2020-07-30 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
-  - usability
   - design
   - product-and-project-management
-  - project-management
   - user-experience
   - research
-  - usability-testing
+  - usability
 
 # see all authors at https://digital.gov/authors
 authors: 

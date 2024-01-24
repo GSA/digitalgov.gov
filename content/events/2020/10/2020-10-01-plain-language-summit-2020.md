@@ -12,7 +12,6 @@ end_date: 2020-10-28 16:15:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
-  - content-strategy
   - customer-experience
   - professional-development
   - user-experience

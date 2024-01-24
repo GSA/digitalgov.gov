@@ -13,12 +13,9 @@ topics:
   - content-strategy
   - design
   - agile
-  - content-strategy
   - research
   - user-experience
   - usability
-  - research
-  - usability-testing
 
 # What source published this?
 source: "18f"

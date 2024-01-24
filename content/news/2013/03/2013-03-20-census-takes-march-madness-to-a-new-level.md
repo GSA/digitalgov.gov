@@ -6,7 +6,7 @@ summary: ' Government agencies are working hard  to communicate complex mountain
 authors:
   - jthalls
 topics:
-  - code
+  - software-engineering
 ---
 
 <a href="{{< ref "2013-03-20-census-takes-march-madness-to-a-new-level.md" >}}" rel="attachment wp-att-97632">{{< legacy-img src="2013/03/census-1-308x220-1-250x178.jpg" alt="census-1-308x220 (1)" >}}</a>

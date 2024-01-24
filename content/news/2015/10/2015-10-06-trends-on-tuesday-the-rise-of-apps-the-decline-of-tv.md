@@ -7,8 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

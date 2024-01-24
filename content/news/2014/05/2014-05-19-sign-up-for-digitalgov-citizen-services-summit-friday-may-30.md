@@ -40,7 +40,7 @@ Following an opening keynote by Federal Communications Commission (FCC) CIO, Dav
 * public private partnerships and
 * inter-agency work.
 
-These panels will explore how agencies can integrate their [data]({{< ref "/topics/code" >}}), [social media]({{< ref "/topics/social-media" >}}), [user experience]({{< ref "/topics/user-experience" >}}), [mobile development]({{< ref "/topics/mobile" >}}) and other programs in order to achieve the best improvements for citizen services. Confirmed speakers include:
+These panels will explore how agencies can integrate their [data]({{< ref "/topics/software-engineering" >}}), [social media]({{< ref "/topics/social-media" >}}), [user experience]({{< ref "/topics/user-experience" >}}), [mobile development]({{< ref "/topics/mobile" >}}) and other programs in order to achieve the best improvements for citizen services. Confirmed speakers include:
 
 * Jack Bienko, Small Business Administration (SBA)
 * Denise Shaw, Environmental Protection Agency (EPA)

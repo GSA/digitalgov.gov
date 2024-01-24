@@ -13,9 +13,7 @@ topics:
   - security
   - mobile
   - content-strategy
-  - mobile
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-300-screencap-of-new-FedRAMP-website-homepage-March-12th-2015.jpg" alt="A screencapture of the top part of the new FedRAMP website homepage, March 12, 2015" >}}

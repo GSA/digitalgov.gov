@@ -6,7 +6,7 @@ summary: 'Some highlights from the recent fall conference of the Association for
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - application-programming-interface
   - open-data
   - emerging-tech

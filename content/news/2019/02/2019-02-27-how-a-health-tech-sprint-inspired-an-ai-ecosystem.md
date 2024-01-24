@@ -9,13 +9,12 @@ authors:
   - davar-ardalan
   - kristen-honey
 topics:
-  - code
+  - software-engineering
   - mobile
   - open-data
   - artificial-intelligence
   - innovation
   - emerging-tech
-  - mobile
   - content-strategy
 featured_image:
   uid: pif-ai-open-data

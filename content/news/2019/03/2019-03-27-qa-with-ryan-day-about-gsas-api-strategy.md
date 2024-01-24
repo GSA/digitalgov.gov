@@ -9,8 +9,7 @@ authors:
   - ryan-day
 topics:
   - application-programming-interface
-  - application-programming-interface
-  - code
+  - software-engineering
   - product-and-project-management
   - open-source
 featured_image:

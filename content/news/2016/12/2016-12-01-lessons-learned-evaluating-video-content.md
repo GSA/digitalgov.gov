@@ -11,7 +11,6 @@ topics:
   - content-strategy
   - user-experience
   - research
-  - multimedia
 ---
 
 If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s videos. {{< legacy-img src="2017/03/600-x-400-Time-to-evaluate-concept-clock-donskarpo-iStock-Thinkstock-500832345.jpg" alt="Stopwatch with the words, Time to Evaluate." caption="" >}}

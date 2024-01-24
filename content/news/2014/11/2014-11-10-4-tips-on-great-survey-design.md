@@ -6,12 +6,10 @@ summary: ' Whether they pop up while perusing an e-commerce site or land in your
 authors:
   - georgia-gallavin
 topics:
-  - user-testing-and-research
+  - research
   - customer-experience
-  - digitalgov-user-experience-program
-  - usability
   - user-experience
-  
+  - usability
 ---
 
 {{< legacy-img src="2014/10/600-x-480-survey-bathroom-sign.jpg" alt="600-x-480-survey-bathroom-sign" >}}

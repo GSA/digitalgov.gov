@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - mobile
   - security
 ---
 

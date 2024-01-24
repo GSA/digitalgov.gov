@@ -8,7 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - software-engineering
-  - data-gov
+  - open-data
 ---
 
 {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="API letter blocks" caption="" >}}

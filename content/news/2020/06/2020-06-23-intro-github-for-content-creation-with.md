@@ -18,9 +18,7 @@ summary: "In this live training, Content Strategy and Design Specialist for GSAâ
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - code
-  
-
+  - software-engineering
 # see all authors at https://digital.gov/authors
 authors: 
   - malaika-carpenter

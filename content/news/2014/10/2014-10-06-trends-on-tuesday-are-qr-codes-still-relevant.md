@@ -11,7 +11,6 @@ topics:
   - content-strategy
   - user-experience
   - emerging-tech
-
 ---
 
 <img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/250-x-260-QR-code-label-concept-mipan-iStock-Thinkstock-white-borer-cropped-156493708.jpg" align="right" alt="QR code label concept" caption="mipan, iStock, Thinkstock">Recently, I was designing new outreach materials and needed a way to connect this offline collateral with my agency’s digital content. Using a QR (or Quick Response) code immediately came to mind, followed by the question, “Are QR codes still relevant?”

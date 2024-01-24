@@ -11,7 +11,6 @@ topics:
   - content-strategy
   - product-and-project-management
   - analytics
-  - mobile
   - social-media
   - user-experience
   - application-programming-interface

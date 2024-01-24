@@ -11,8 +11,6 @@ topics:
   - social-media
   - user-experience
   - customer-experience
-  - social-media
-  - content-strategy
 ---
 
 Good communicators are always…well…evaluating the way they communicate. As we think of the “customer experience,” it is key to constantly consider your methods for engaging with your audience. Just as [the platforms themselves continue to change](http://www.adweek.com/news/technology/youtube-encouraging-users-share-videos-new-app-messaging-feature-171410) to keep their audience, continuing to refine our ways of sending messages will assure that you don’t get left behind. {{< legacy-img src="2016/05/600-x-450-USA-Timezone-clock-r3bel-iStock-Thinkstock-140377518.jpg" alt="A clock with multiple hands that have U.S. cities on them" caption="" >}} 

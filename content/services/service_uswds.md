@@ -23,7 +23,7 @@ weight: 6
 # Topics that best describe this product or service
 topics:
   - design
-  - code
+  - software-engineering
   - open-source
   - accessibility
   - user-experience

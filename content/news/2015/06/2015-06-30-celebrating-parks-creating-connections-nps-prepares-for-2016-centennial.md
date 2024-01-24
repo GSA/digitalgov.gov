@@ -7,7 +7,6 @@ authors:
   - awichman
 topics:
   - social-media
-  - social-media
 ---
 
 {{< legacy-img src="2015/06/600-x-300-NPS-Liberty-still-from-promo-video.jpg" alt="Park logo over Statue of Liberty from NPS promo video" >}}

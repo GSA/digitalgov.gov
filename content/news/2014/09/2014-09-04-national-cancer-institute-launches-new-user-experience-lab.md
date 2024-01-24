@@ -9,10 +9,9 @@ authors:
 topics:
   - design
   - analytics
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 {{< legacy-img src="2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-1.jpg" alt="User Experience U X lab 1" >}}

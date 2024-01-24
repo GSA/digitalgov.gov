@@ -10,8 +10,6 @@ topics:
   - product-and-project-management
   - analytics
   - user-experience
-  - content-strategy
-  - customer-experience
   - contact-centers
 ---
 

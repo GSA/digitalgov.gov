@@ -8,7 +8,6 @@ authors:
 topics:
   - product-and-project-management
   - social-media
-  - socialgov
   - terms-of-service
 ---
 

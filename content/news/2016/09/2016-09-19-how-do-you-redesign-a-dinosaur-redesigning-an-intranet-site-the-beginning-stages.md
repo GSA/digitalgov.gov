@@ -10,7 +10,6 @@ topics:
   - content-strategy
   - open-data
   - product-and-project-management
-  - content-strategy
   - customer-experience
   - design
   - usability

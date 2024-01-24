@@ -7,7 +7,6 @@ authors:
   - steve-lewis
 topics:
   - social-media
-  - social-media
 ---
 
 May is [#WorldTradeMonth](https://twitter.com/search?f=realtime&q=%23WorldTradeMonth&src=typd "Twitter search results for the "World Trade Month" hashtag") and each year the U.S. Trade and Development Agency celebrates the month by highlighting the partnerships it has with 39 state and local organizations that promote U.S. exports in their home states through an initiative called [#MakingGlobalLocal](https://twitter.com/search?f=realtime&q=%23MakingGlobalLocal&src=typd "Twitter search Results for the "Making Global Local" hashtag").

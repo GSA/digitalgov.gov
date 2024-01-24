@@ -12,10 +12,8 @@ topics:
   - product-and-project-management
   - social-media
   - multimedia
-  - accessibility
   - best-practices
   - customer-experience
-  - social-media
   - user-experience
 ---
 

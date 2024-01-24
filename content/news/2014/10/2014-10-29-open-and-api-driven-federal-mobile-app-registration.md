@@ -10,8 +10,6 @@ topics:
   - mobile
   - user-experience
   - open-data
- 
-
 ---
 
 Thanks to the power of open data and APIs, federal agencies can now register their mobile native apps and websites on the [Federal Mobile Products Registry](http://apps.usa.gov/register) and have them appear on the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) (formerly USA.gov Apps Gallery) almost immediately.

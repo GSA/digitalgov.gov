@@ -8,8 +8,6 @@ authors:
 topics:
   - product-and-project-management
   - social-media
-  - socialgov
-
 ---
 
 If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service?

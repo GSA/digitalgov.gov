@@ -10,10 +10,8 @@ topics:
   - design
   - product-and-project-management
   - content-strategy
-  - design
   - open-source
   - user-experience
-  
 ---
 
 In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.

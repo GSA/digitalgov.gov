@@ -9,7 +9,6 @@ topics:
   - mobile
   - innovation
   - emerging-tech
-  - mobile
   - open-data
 ---
 

@@ -7,7 +7,6 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - mobile
   - emerging-tech
 ---
 

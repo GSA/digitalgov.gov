@@ -10,7 +10,6 @@ topics:
   - software-engineering
   - open-data
   - emerging-tech
-  - software-engineering
   - open-government
 ---
 

@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - product-and-project-management
   - mobile
-  - mobile
   - emerging-tech
 ---
 

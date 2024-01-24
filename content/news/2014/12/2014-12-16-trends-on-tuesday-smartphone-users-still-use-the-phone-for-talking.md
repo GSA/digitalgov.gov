@@ -9,10 +9,7 @@ topics:
   - product-and-project-management
   - mobile
   - customer-experience
-  - Government Contact Center Council
   - government-contact-centers
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

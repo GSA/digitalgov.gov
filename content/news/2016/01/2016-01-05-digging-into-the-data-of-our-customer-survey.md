@@ -13,10 +13,9 @@ topics:
   - budgeting-and-performance
   - mobile
   - professional-development
-  - socialgov
+  - social-media
   - user-experience
   - content-strategy
-
 ---
 
 As a follow-up to the [recent post about our annual customer satisfaction survey]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results to give you some more insights into how we’re using your feedback to improve our programs and services.

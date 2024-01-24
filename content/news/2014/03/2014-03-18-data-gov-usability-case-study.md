@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - data-gov
-  - usability-case-study
+  - usability
   - user-experience
 ---
 

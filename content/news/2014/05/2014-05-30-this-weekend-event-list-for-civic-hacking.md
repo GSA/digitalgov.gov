@@ -6,10 +6,9 @@ summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange eve
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - data-gov
-  - national-day-of-civic-hacking
-  - united-states-census-bureau
+  - challenges-and-prize-competitions
+  - open-data
+  - software-engineering
   - open-government
 ---
 

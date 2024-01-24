@@ -14,7 +14,6 @@ authors:
 
 # See all topics at https://digital.gov/topics
 topics:
-  - devops
   - software-engineering
 
 slug: making-impact-at-scale-software-engineering-in-the-federal-government

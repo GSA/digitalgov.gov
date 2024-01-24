@@ -13,11 +13,10 @@ summary: "This week, we’re providing a few tips for tidying up redundant, outd
 topics:
   - digital-service-delivery
   - content-strategy
-  - plain-language
   - analytics
+  - plain-language
   - accessibility
-  - seo
-  - digital-service-delivery
+  - search-engine-optimization
 
 # see all authors at https://digital.gov/authors
 authors:

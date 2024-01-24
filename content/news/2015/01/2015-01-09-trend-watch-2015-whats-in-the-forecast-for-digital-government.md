@@ -6,10 +6,8 @@ summary: 'In January on DigitalGov, we’ll highlight pieces looking at trends w
 authors:
   - andreanocesigritz
 topics:
-  - challenges
   - product-and-project-management
-  - mobile
-  - aoi
+  - user-experience
   - analytics
   - challenges-and-prize-competitions
   - customer-experience

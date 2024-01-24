@@ -8,9 +8,8 @@ authors:
 topics:
   - accessibility
   - design
-  - user-testing-and-research
-  - innovation
   - research
+  - innovation
   - user-centered-design
   - user-experience
 ---

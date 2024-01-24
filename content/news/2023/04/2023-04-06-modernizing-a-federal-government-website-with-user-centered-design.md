@@ -13,9 +13,9 @@ summary: In this blog post, we break down our process for redesigning a federal
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - usability-testing
+  - usability
   - research
-  - user-centered-design
+  - human-centered-design
   - design
   - accessibility
 slug: modernizing-a-federal-government-website-with-user-centered-design

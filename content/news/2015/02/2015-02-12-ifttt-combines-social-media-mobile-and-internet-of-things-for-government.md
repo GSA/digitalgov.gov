@@ -9,8 +9,6 @@ topics:
   - social-media
   - application-programming-interface
   - emerging-tech
-  - social-media
-  - socialgov
 ---
 
 [{{< legacy-img src="2015/02/600-x-270-IFTTT-logo.jpg" alt="IFTTT logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/600-x-270-IFTTT-logo.jpg)

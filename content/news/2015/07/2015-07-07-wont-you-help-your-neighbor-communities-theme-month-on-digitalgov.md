@@ -8,7 +8,7 @@ authors:
 topics:
   - customer-experience
   - mobile
-  - socialgov-community
+  - social-media
 ---
 
 It’s a beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor: no red sweater required.

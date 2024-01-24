@@ -6,10 +6,9 @@ summary: 'How do you find participants for your usability studies? I spoke recen
 authors:
   - jean-fox
 topics:
-  - user-testing-and-research
-  - aoi
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 {{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}}

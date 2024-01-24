@@ -6,16 +6,15 @@ summary: As government innovators, we work to improve public services every day.
 authors:
   - allison-alexander
 topics:
-  - challenges
-  - code
+  - challenges-and-prize-competitions
+  - software-engineering
   - content-strategy
   - product-and-project-management
   - analytics
   - mobile
   - social-media
   - user-experience
-  - challenge-gov
-  - data-gov
+  - open-data
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Justin-Herman-Panel-3-Public-Private-Partnerships-toni470-flickr-20140530_112350.jpg" alt="DigitalGov Citizen Services Summit and Expo - Justin Herman, GSA - Panel 3: Public Private Partnerships - Jack Bienko, SBA; Phil Ashlock, DataGov; Lynn Overmann, White House OSTP; Mike Reardon, DOL" caption="" >}}
