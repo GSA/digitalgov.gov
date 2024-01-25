@@ -3,7 +3,7 @@
 source_url: https://blog-nrrd.doi.gov/metrics-and-policy/
 source: doi-revenuedata
 date: 2024-01-24 15:05:00 -0500
-title: Maximizing impact of federal websites integrating metrics with annual
+title: Maximizing impact of federal websites: integrating metrics with annual
   goals and policies
 deck: The Open Data, Design, and Development (ODDD) team at the Department of
   the Interior manages key public websites, including revenuedata.doi.gov and
