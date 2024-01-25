@@ -67,4 +67,6 @@ Similarly, software inventories are easily achieved through system-level process
 
 Industrial control systems represent a unique structure in the cybersecurity landscape. Not only are these systems in control of sensitive physical processes, but they are inherently vulnerable to attack. Following best practice guidance for control systems and continuously iterating on your security practices is a necessity for keeping these systems secure. The above guidance is a step in the direction towards preventing troubling and unrecoverable security incidents.
 
-{{< note variant="disclaimer" >}}{{< /note >}}
+## Disclaimer
+
+*The EPA is not being represented by the author of this publication. The United States government and the EPA do not endorse any commercial or open-source products or services. Any reference to specific products, processes, or services by service mark, trademark, manufacturer, or otherwise is provided for informational purposes and does not constitute or imply their endorsement, recommendation, or favoring by the United States government and the EPA.*
