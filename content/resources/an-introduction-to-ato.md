@@ -47,11 +47,11 @@ ATOs can feel very bureaucratic—but they can also be a good opportunity to tak
 It takes many people to collaborate on an ATO, but here are three key roles to understand so you'll know who to talk to, and what their responsibilities are.
 
 1. **System Owner**<br />
-**Responsibilities**: Overall procurement, development, integration, modification, operation, maintenance, and retirement of a system. They will work with the team to create documentation, and they are responsible for making sure the team makes security fixes in a timely manner.
+**Responsibilities:** Overall procurement, development, integration, modification, operation, maintenance, and retirement of a system. They will work with the team to create documentation, and they are responsible for making sure the team makes security fixes in a timely manner.
 2. **Information System Security Officer** (ISSO)<br />
-**Responsibilities**: Research, develop, implement, test, and review an organization's information security. They assess the impacts on new systems and system modifications, review the ATO package, and they may have contracts for penetration testing, etc. This person usually works as a liaison to the agency's security team. Your agency may also have **Information System Security Managers** (ISSM) supporting the ISSO.
+**Responsibilities:** Research, develop, implement, test, and review an organization's information security. They assess the impacts on new systems and system modifications, review the ATO package, and they may have contracts for penetration testing, etc. This person usually works as a liaison to the agency's security team. Your agency may also have **Information System Security Managers** (ISSM) supporting the ISSO.
 3. **Authorizing Official** (AO)<br />
-**Responsibilities**: Signs a memo that accepts the risks of a system. This person is personally liable for that risk. They will be your agency's Chief Information Officer (CIO) or someone designated by the CIO. A huge part of the ATO process is aiming to educate the AO on what the risks to the system are. You also want to make sure your paperwork is detailed enough so that it can be a good resource if there is an audit. The risks that they are taking are not trivial.
+**Responsibilities:** Signs a memo that accepts the risks of a system. This person is personally liable for that risk. They will be your agency's Chief Information Officer (CIO) or someone designated by the CIO. A huge part of the ATO process is aiming to educate the AO on what the risks to the system are. You also want to make sure your paperwork is detailed enough so that it can be a good resource if there is an audit. The risks that they are taking are not trivial.
 
 ## How to ATO your system
 
