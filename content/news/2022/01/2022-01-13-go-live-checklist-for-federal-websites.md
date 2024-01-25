@@ -34,7 +34,7 @@ In the federal government, this involves all the standard things, like getting a
 
 You’re probably thinking, “How complicated could it be?” 
 
-You may be surprised. Check the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/?dg). This long list covers topics such as accessibility, privacy, security, design, and user experience. 
+You may be surprised. Check the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/). This long list covers topics such as accessibility, privacy, security, design, and user experience. 
 
 Fortunately, the [Federal Web Council](https://digital.gov/resources/federal-web-council/) and GSA have developed a new checklist tool. It will help federal agencies understand and meet all the laws, policies, and requirements for their websites and digital services.
 
@@ -43,7 +43,7 @@ This new checklist explains how to meet various criteria:
 * When launching a new website, and 
 * When maintaining that website over time.
 
-See the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/?dg) to get a detailed look at the requirements. 
+See the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/) to get a detailed look at what it takes to comply with policy. 
 
 ## What’s in the Checklist?
 
