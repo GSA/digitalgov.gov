@@ -23,7 +23,7 @@ email: ""
 bio: ""
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: "https://digital.gov/about/"
+bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
