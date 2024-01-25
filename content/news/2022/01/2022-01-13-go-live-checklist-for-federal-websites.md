@@ -43,7 +43,7 @@ This new checklist explains how to meet various criteria:
 * When launching a new website, and 
 * When maintaining that website over time.
 
-Download the {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Go-Live Checklist for Federal Websites and Digital Services (Excel spreadsheet, 69 KB, 14 tabs)" >}}.
+See the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/?dg) to get a detailed look at the requirements. 
 
 ## What’s in the Checklist?
 
