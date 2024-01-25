@@ -98,6 +98,6 @@ For those whom you interact with irregularly, consider reviewing their portfolio
 
 _Connect with your agency's Office of Human Resources to see what types of mentoring, coaching, or sponsorship programs they offer._
 
-_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Ashley Wichman is a Program Analyst in the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA) and is enthusiastic about helping teams work better together. Have questions for Ashley about employee engagement? Send her an email: [ashley.wichman@gsa.gov](mailto:ashley.wichman@gsa.gov?subject=Sponsorship%20article%20on%20DigitalGov)._

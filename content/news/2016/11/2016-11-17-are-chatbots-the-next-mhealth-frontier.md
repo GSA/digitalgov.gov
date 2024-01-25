@@ -37,5 +37,10 @@ We plan to continue our exploration over the next several months. We do have mor
   * How might we use natural language processing so that the bot can interact more conversationally with users?
   * Will people use this technology? And will we be able to provide them with tools to help them quit smoking?
 
-We believe the potential value of bots for mHealth is huge, and questions like these are all worth answering. We’ll keep posting as we learn more about Facebook Messenger, chatbots, and conversational user interfaces._All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+We believe the potential value of bots for mHealth is huge, and questions like these are all worth answering. We’ll keep posting as we learn more about Facebook Messenger, chatbots, and conversational user interfaces.
+
+---
+
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
 _This post was originally published on the [mHealth Monitor blog](https://www.smokefree.gov/mhealthmonitor/blog-index)._

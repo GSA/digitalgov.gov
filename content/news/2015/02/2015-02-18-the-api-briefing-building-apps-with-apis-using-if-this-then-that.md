@@ -20,6 +20,12 @@ Just last week, the popular If This Then That (IFTTT) service released a federal
 
 IFTTT’s usefulness has even led to a similar service for back-end development—<a href="http://techcrunch.com/2014/10/06/stamplay-is-ifttt-for-back-end-development/" target="_blank">Stamplay</a>. Stamplay uses the same IFTTT building-block concept to make coding actions easier. For example, use Stamplay to visually build a module that adds a new email address to MailChimp when a user likes a federal agency Facebook page.
 
-Making app development as easy as visually combining APIs like Lego blocks will lead to a greater demand for more federal APIs. Taking a microservices architecture approach and using services like IFTTT is the best way for the federal government to serve citizens through the promise of open data._(**Note**: the mention of IFTTT, Stamplay, and Lego does not imply an endorsement of these products or the companies. The mentioned products and companies are used for illustrative purposes.)_
+Making app development as easy as visually combining APIs like Lego blocks will lead to a greater demand for more federal APIs. Taking a microservices architecture approach and using services like IFTTT is the best way for the federal government to serve citizens through the promise of open data.
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs]({{< ref "2013-04-30-apis-in-government.md" >}} "APIs in Government") are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:bill.brantley@wdc.usda.gov" target="_blank">email</a>._
+
 _Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._

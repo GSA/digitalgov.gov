@@ -27,6 +27,10 @@ In the second definition of serverless architecture, the server appears when the
 
 Serverless architecture is still evolving, and I expect to see many new developments as more developers explore event-driven applications. [Expect to see the federal government along with other governments explore the possibilities of serverless architecture in delivering government services to the American public](http://www.govtech.com/opinion/Serverless-Computing-Is-a-Growing-Trend-Heres-What-You-Need-to-Know.html).
 
-_AWS Lambda and Amazon Web Services are used for illustrative purposes and do not imply endorsement by the U.S. federal government or any specific federal agency._
+---
+
+**Disclaimer**: AWS Lambda and Amazon Web Services are used for illustrative purposes and do not imply endorsement by the U.S. federal government or any specific federal agency.
+
 _Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
-_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+
+_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

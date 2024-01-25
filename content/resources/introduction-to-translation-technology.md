@@ -145,6 +145,6 @@ Want to learn more about translation technology?
 
 [Research on the Relations Between Machine Translation and Human Translation](https://iopscience.iop.org/article/10.1088/1742-6596/1087/6/062046) Machine translation ignited a reform and transformation in the field of translation. It has gone through three stages, from early dictionary-matched machine translation to corpus-based statistical computer-aided translation, and then to neural machine translation with artificial intelligence as its core technology in recent years. This paper analyzes the problems with examples and puts forward a new model of machine translation plus human translation as well as its applications. In the age of artificial intelligence, computers with deep learning ability working together with humans will produce translation works with high efficiency and better quality. (Zhaorong Zong in Journal of Physics, 2018)
 
-- - -
+---
 
-*All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.*
+**Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

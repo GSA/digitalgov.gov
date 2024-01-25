@@ -89,8 +89,8 @@ Visit [Search.gov](https://www.search.gov/) for more tips on [how to get search 
 
 [OMB 20-19, Harnessing Technology to Support Mission Continuity](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-19.pdf) (PDF, 195 KB, 5 pages, March 22, 2020)
 
-***
+---
 
 Do you have a 21st Century IDEA-related comment or question? Or would you like to give a shout out to your colleagues? Send it to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we’ll work to incorporate it into the next newsletter.
 
-_(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
