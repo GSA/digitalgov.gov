@@ -12,6 +12,7 @@ summary: The Open Data, Design, and Development (ODDD) team discusses how OMB’
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
+  - design
   
 slug: maximizing-impact-of-federal-websites-integrating-metrics-with-annual-goals-and-policies
 # Controls how this page appears across the site
