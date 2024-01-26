@@ -15,11 +15,6 @@ Use podcasts to foster transparency, build trust, and inject a bit of humanity i
 # Weight
 weight: 2
 
-# Set the legislation card title and link
-legislation:
-  title: ""
-  link: ""
-
 # Featured resource to at the top of the page
 featured_resources:
   resources:
