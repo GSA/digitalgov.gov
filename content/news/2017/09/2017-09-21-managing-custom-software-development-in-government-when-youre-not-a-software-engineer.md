@@ -14,6 +14,7 @@ topics:
   - agile
   - project-management
   - user-centered-design
+  - human-centered-design
 
 featured_image:
   uid: featured-18f-new-logo-black-bg
