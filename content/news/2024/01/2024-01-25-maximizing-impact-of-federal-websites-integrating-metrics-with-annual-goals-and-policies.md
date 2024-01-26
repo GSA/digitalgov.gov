@@ -11,7 +11,7 @@ summary: "The Open Data, Design, and Development (ODDD) team discusses how OMBâ€
 topics:
   - analytics
   - design
-  - Digital Service Delivery
+  - digital-service-delivery
   - open-data
   - budgeting-and-performance
   
