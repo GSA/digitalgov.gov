@@ -485,9 +485,7 @@ OMB’s policy guidance (M-23-22) requires agencies to complete a series of repo
 
 {{< box >}}
 **[Collaboration space for M-23-22, Delivering a Digital-First Public Experience](https://community-dc.max.gov/pages/viewpage.action?spaceKey=OFCIO&title=M-23-22+Delivering+a+Digital-First+Public+Experience)**
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use xlink:href="/assets/img/sprite.svg#lock"></use>
-      </svg>Requires a Max.gov account
+icon="lock" Requires a Max.gov account
 
 Federal employees can visit Max.gov to discover more governmentwide resources available to implement the action items from M-23-22. The collaboration space includes:
 - Points of contact for the agency Digital Experience Leads
