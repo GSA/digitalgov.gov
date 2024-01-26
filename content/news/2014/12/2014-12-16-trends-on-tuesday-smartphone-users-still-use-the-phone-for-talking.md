@@ -10,7 +10,6 @@ topics:
   - mobile
   - customer-experience
   - contact-centers
-  - mobile
   - emerging-tech
 ---
 

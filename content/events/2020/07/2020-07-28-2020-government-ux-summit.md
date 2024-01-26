@@ -25,7 +25,6 @@ topics:
   - product-and-project-management
   - user-experience
   - research
-  - usability
 
 # see all authors at https://digital.gov/authors
 authors: 

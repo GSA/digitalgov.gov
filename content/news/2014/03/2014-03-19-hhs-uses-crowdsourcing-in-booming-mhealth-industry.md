@@ -8,7 +8,6 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - mobile
   - innovation
   - mobile
 ---

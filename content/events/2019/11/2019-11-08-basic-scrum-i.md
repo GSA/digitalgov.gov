@@ -22,7 +22,6 @@ topics:
   - product-and-project-management
   - project-management
   - software-engineering
-  - product-and-project-management
   - scrum
 
 # see all authors at https://digital.gov/authors
