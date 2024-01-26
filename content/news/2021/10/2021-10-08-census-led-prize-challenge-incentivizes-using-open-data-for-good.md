@@ -13,8 +13,6 @@ topics:
   
   - united-states-census-bureau
   - challenges-and-prize-competitions
-  - challenge-gov
-  - challenges
 # See all authors at https://digital.gov/authors
 authors:
   - haley-ashcom

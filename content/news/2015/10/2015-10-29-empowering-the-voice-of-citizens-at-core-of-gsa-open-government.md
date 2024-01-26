@@ -8,7 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - social-media
-  - data-gov
+  - open-data
   - open-government
 ---
 

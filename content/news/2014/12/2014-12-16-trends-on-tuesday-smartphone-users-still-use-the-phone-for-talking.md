@@ -9,7 +9,7 @@ topics:
   - product-and-project-management
   - mobile
   - customer-experience
-  - government-contact-centers
+  - contact-centers
   - emerging-tech
 ---
 

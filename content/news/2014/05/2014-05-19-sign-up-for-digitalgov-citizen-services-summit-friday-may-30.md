@@ -12,7 +12,7 @@ authors:
   - jonathan-rubin
 topics:
   - application-programming-interface
-  - challenges
+  - challenges-and-prize-competitions
   - content-strategy
   - product-and-project-management
   - analytics

@@ -9,7 +9,6 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - open-source
-
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="Bplanet / iStock / Thinkstock" >}} 

@@ -6,9 +6,7 @@ summary: It may seem like issuing an open challenge to the American public is a 
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
+  - challenges-and-prize-competitions
 
 ---
 

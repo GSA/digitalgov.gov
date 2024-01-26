@@ -6,9 +6,7 @@ summary: 'Well-executed partnerships can create better solutions and place them 
 authors:
   - eric-beidel
 topics:
-  - challenges
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
 ---
 
 Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin.

@@ -7,8 +7,7 @@ authors:
   - phaedra-chrousos
 topics:
   - product-and-project-management
-  - data-gov
-
+  - open-data
   - open-government
 ---
 

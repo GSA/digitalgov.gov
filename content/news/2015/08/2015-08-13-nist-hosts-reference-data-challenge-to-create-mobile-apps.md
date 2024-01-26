@@ -6,8 +6,8 @@ summary: 'The National Institute of Standards and Technology (NIST) wants YOU to
 authors:
   - jparcell
 topics:
-  - mobile
   - challenges-and-prize-competitions
+  - mobile
   - open-data
 ---
 

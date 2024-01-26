@@ -11,9 +11,6 @@ topics:
   - product-and-project-management
   - content-strategy
   - software-engineering
-  - agile
-  - project-management
-  - user-centered-design
   - human-centered-design
 
 featured_image:

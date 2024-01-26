@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - communication
+  - product-and-project-management
   - research
 ---
 

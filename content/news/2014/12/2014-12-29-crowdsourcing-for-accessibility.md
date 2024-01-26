@@ -7,8 +7,6 @@ authors:
   - angela-hooker
 topics:
   - accessibility
-  - challenges
-  - challenge-gov
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
 ---

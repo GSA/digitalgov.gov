@@ -17,7 +17,6 @@ topics:
   - application-programming-interface
   - contact-centers
   - open-data
-
 ---
 
 Performance Analytics for Social Media Decision Making. Creating Adaptive Content. Usability Testing. These are just some of the areas of programming we are putting together.

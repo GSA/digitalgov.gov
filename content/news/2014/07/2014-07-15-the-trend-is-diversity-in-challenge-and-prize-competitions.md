@@ -6,11 +6,8 @@ summary: 'The U.S. government has launched more than 45 challenge and prize comp
 authors:
   - ktrebon
 topics:
-  - challenges
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
+  - challenges-and-prize-competitions
   - innovation
-  - united-states-department-of-energy
 ---
 
 {{< legacy-img src="2014/07/250-x-222-diversity-Collage-of-Kiev-front-doors-Ukraine-maroznc-iStock-Thinkstock-182253106.jpg" alt="Challenges are a first step/front door to problem solving with the public. Photo shows a collage of Kiev front doors in the Ukraine, representing diversity." caption="" >}}

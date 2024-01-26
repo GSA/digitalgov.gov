@@ -9,8 +9,6 @@ authors:
 
 topics:
   - product-and-project-management
-  - agile
-  - sprint
   - software-engineering
 
 featured_image:

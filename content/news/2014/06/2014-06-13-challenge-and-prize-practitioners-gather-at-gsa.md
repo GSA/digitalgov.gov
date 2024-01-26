@@ -12,7 +12,7 @@ topics:
   - software-engineering
 ---
 
-Got [innovation]({{< ref "/topics/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
+Got [innovation]({{< ref "/topics/challenges-and-prize-competitions" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
 On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the Challenges and Prizes Community of Practice. The group covered two topics:
 

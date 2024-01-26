@@ -6,9 +6,7 @@ summary: 'Long before the final prize is awarded, a successful challenge starts 
 authors:
   - judy-romano
 topics:
-  - challenges
-  - challenge-gov
-  - prizes-and-competitions
+  - challenges-and-prize-competitions
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}}

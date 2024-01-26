@@ -18,7 +18,7 @@ end_date: 2020-01-27 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - artificial-intelligence
   - analytics
   - cloud-and-infrastructure

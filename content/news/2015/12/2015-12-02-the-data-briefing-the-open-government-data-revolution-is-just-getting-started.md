@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - data-visualization
-  - data-gov
   - open-data
   - emerging-tech
 ---

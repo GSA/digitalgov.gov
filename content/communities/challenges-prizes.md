@@ -14,9 +14,8 @@ aliases:
 
 # see all topics at https://digital.gov/topics
 topics:
-  - challenges
   - crowdsourcing-and-citizen-science
-  - challenge-gov
+  - challenges-and-prize-competitions
 
 # see all authors at https://digital.gov/authors
 authors:

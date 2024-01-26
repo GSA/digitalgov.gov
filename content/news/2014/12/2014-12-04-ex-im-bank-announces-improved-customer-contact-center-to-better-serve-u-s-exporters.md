@@ -7,7 +7,7 @@ authors:
   - lawton-king
 topics:
   - product-and-project-management
-  - government-contact-centers
+  - contact-centers
 ---
 
 {{< legacy-img src="2014/12/600-x-340-Ex-Im-Export-Import-Bank-Contact-Center-Team.jpg" alt="Export-Import Bank Contact Center Team" >}}

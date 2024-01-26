@@ -6,11 +6,10 @@ summary: 'The mobile health (mHealth) market is projected to become a $50 billio
 authors:
   - tlowden
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - mobile
-  - challenge-gov
   - innovation
+  - mobile
 ---
 
 The mobile health (mHealth) market is [projected to become a $50 billion industry](http://www.prweb.com/releases/mHealth-Market/GrandViewResearch/prweb11627393.htm) by 2020, and the Department of Health and Human Services (HHS) has been actively contributing to the rise of the mHealth applications. The agency uses public prize competitions like the recent &#8220;[Game On: HIV/STD Prevention Mobile Application Video Game Challenge](http://gameon.challengepost.com/)&#8221; to crowdsource a variety of health apps for the public in addition to creating mHealth apps in-house.

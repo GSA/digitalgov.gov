@@ -13,8 +13,6 @@ topics:
   - design
   - product-and-project-management
   - content-strategy
-  - agile
-  - project-management
 
 # What source published this?
 source: "18f"

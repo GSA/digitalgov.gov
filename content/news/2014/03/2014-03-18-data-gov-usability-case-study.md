@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - data-gov
+  - open-data
   - usability
   - user-experience
 ---

@@ -9,7 +9,6 @@ authors:
 
 topics:
   - product-and-project-management
-  - agile
   - software-engineering
 
 featured_image:

@@ -8,7 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - customer-experience
-  - government-contact-centers
+  - contact-centers
   - social-media
 ---
 
