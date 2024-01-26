@@ -14,9 +14,6 @@ summary: "Multimedia approaches  involve a combination of text, audio, video, gr
 weight: 2
 
 # Set the legislation card title and link
-legislation:
-  title: ""
-  link: ""
 
 # Featured resource to at the top of the page
 featured_resources:
