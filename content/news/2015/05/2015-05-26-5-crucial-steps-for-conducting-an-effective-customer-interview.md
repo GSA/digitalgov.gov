@@ -2,7 +2,8 @@
 slug: 5-crucial-steps-for-conducting-an-effective-customer-interview
 date: 2015-05-26 11:10:18 -0400
 title: 5 Crucial Steps for Conducting an Effective Customer Interview
-summary: 'When focusing on customer experience, we all know that we need to truly understand our customer if we expect to provide them with an enjoyable experience. In an effort to do so, organizations often jump right to a survey to identify their customers’ needs and wants. While surveys are a great first step to understanding'
+summary: 'When focusing on customer experience, we all know that we need to truly understand our customer if we expect to provide them with an enjoyable experience. In an effort to do so, organizations often jump right to a survey to identify their customers’ needs and wants.'
+
 authors:
   - victoria-mcfadden
   - anahita-reilly
@@ -10,9 +11,11 @@ topics:
   - product-and-project-management
   - customer-experience
   - user-experience
+  - information-collection
+
 ---
 
-{{< legacy-img src="2015/05/600-x-385-Business-Solutions-Consulting-Questions-compass-pointing-to-Answers-olm26250-iStock-Thinkstock-451418329.jpg" alt="Questions compass with needle pointing to Answers" caption="" >}} 
+{{< legacy-img src="2015/05/600-x-385-Business-Solutions-Consulting-Questions-compass-pointing-to-Answers-olm26250-iStock-Thinkstock-451418329.jpg" alt="Questions compass with needle pointing to Answers" caption="olm26250/iStock/Thinkstock" >}} 
 
 When focusing on [customer experience]({{< ref "/topics/customer-experience" >}}), we all know that we need to truly understand our customer if we expect to provide them with an enjoyable experience. In an effort to do so, organizations often jump right to a survey to identify their customers’ needs and wants. While surveys are a great first step to understanding customers, they’re [not the only step]({{< ref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}). The most you should expect from a [well-crafted survey]({{< ref "2015-05-20-top-5-ways-to-increase-email-survey-responses.md" >}} "Top 5 Ways to Increase Email Survey Responses") is detailed knowledge in the form of hard data indicating where to conduct further research. It’s at this point that these other steps become imperative.
 
@@ -44,7 +47,9 @@ During the interview itself, ask the interviewees to tell you stories about the 
 
 At the end of the interview, ask the interviewee to provide suggestions/opportunities for improvement. This is another great to get honest and valuable feedback.
 
-## Step 4: Keep the Conversation Open for Follow-up or Future Dialogue {{< legacy-img src="2015/05/535-x-300-Web-Contact-Us-Icons-Cube-NiroDesign-iStock-Thinkstock-ThinkstockPhotos-523542891.jpg" alt="Four white Contact Us icons on green cubes" caption="" >}} 
+## Step 4: Keep the Conversation Open for Follow-up or Future Dialogue
+
+{{< legacy-img src="2015/05/535-x-300-Web-Contact-Us-Icons-Cube-NiroDesign-iStock-Thinkstock-ThinkstockPhotos-523542891.jpg" alt="Four white Contact Us icons on green cubes" caption="NiroDesign/iStock/Thinkstock" >}} 
 
 Always end an interview on a positive note with an open dialogue for the future. Simply asking, “Is it alright if I reach out to you again in the future with follow-up questions?” is a great way to stay in touch with your interviewee. By asking to keep this door open, you also subtly convey the importance and value of their response (you wouldn’t want to reach back out to someone if their responses were useless, would you?).
 
