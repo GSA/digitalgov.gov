@@ -21,7 +21,6 @@ end_date: 2019-11-14 15:30:00 -0500
 topics: 
   - product-and-project-management
   - software-engineering
-  - project-management
 
 # see all authors at https://digital.gov/authors
 authors:

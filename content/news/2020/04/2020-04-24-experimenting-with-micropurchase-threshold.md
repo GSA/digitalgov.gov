@@ -12,7 +12,6 @@ summary: "Through the use of an open-source procurement process, we created an e
 topics: 
   - product-and-project-management
   - open-source
-  - project-management
   - acquisition
 
 # see all authors at https://digital.gov/authors

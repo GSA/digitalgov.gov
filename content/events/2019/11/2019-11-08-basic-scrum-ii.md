@@ -21,8 +21,6 @@ end_date: 2019-11-12 16:00:00 -0500
 topics: 
   - product-and-project-management
   - software-engineering
-  - project-management
-  - scrum
 
 # see all authors at https://digital.gov/authors
 authors: 

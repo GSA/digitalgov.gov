@@ -20,7 +20,6 @@ summary: Discover how the Open Data, Design, and Development (ODDD) team at the
 topics:
   - software-engineering
   - innovation
-  - project-management
 slug: managing-a-high-performing-dream-team-in-the-federal-government
 # Controls how this page appears across the site
 # 0 -- hidden

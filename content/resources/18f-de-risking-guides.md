@@ -14,7 +14,6 @@ topics:
   - product-and-project-management
   - content-strategy
   - software-engineering
-  - project-management
 
 # What source published this?
 source: "18f"
