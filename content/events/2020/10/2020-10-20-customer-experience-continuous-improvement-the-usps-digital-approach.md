@@ -14,18 +14,21 @@ topics:
   - usability
   - seo
   - user-experience
+  - information-collection
 
 # See all authors at https://digital.gov/authors
 authors:
   - jeff-pass
   - alexander-turgeon
   - matt-petrowski
+
 slug: customer-experience-continuous-improvement-the-usps-digital-approach
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4612713&CustomerID=321
 date: 2020-11-12 14:00:00 -0500
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 youtube_id: I3wywGJ4KHA
 
 ---
