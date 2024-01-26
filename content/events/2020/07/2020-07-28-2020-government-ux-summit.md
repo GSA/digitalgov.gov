@@ -9,7 +9,7 @@ summary: "A remote event covering user experience (UX) methods, service design, 
 host: "UX Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/110671732130
-captions: 
+captions:
 
 # start date
 date: 2020-07-28 11:30:00 -0500
@@ -18,8 +18,7 @@ date: 2020-07-28 11:30:00 -0500
 end_date: 2020-07-30 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
-  - product-and-project-management
+topics:
   - usability
   - design
   - product-and-project-management
@@ -27,7 +26,7 @@ topics:
   - research
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - andrew-do
   - angela-smithers
   - anthony-j-schulzetenberg
@@ -43,7 +42,7 @@ authors:
   - sarah-rigdon
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # Primary Image (for social media)
 primary_image: "ux-government-summit-2020"
@@ -80,21 +79,21 @@ A presentation on adapting the [discover method](https://methods.18f.gov/discove
  **Development of a Standardized Formula to Calculate Severity Scores in Multitask Usability Testing** - Anthony J. Schulzetenberg, U.S. Census Bureau
 
 Severity scores are often used in usability research to provide stakeholders a measure of urgency for the usability problems that were identified during testing. However, the methods used to develop these scores often lack rigor or applicability to multitask usability research. Because government UX research often involves testing multiple tasks, we propose an intuitive method to calculate severity scores for each usability problem that takes into account both the effectiveness and efficiency of the user, weighting effectiveness-related problems more heavily. We then can calculate an overall severity score and see each problem’s relative strain on the system’s total usability.
-   
+
 - [Watch the video](https://www.youtube.com/watch?v=JJbCQCYsLGU&t=2021s)
 
  **Solving the Lost Sock Problem: A Useful Method to Track Standards and UX Requirements in an Agile Software Development Process** - Margo Kabel, Veterans Health Administration
 
 This presentation proposes a useful method to track standards and UX requirements in an agile software development process. This presentation is also a case study of medication information standards implementation at the Veterans Health Administration.
-    
-- [Watch the video](https://www.youtube.com/watch?v=JJbCQCYsLGU&t=2752s) 
+
+- [Watch the video](https://www.youtube.com/watch?v=JJbCQCYsLGU&t=2752s)
 
 ## Second Session 1:30 – 2:30 PM ET
 
  **Ohana for Digital Service Design (or Baking Accessibility into your Digital Product Lifecycle)** - Jennifer Strickland and Kendra Skeene, Ad Hoc (VA Modernization)
 
-Designing and developing digital products that are accessible to all doesn’t just make good business sense — it’s also the law. Yet it’s often an overlooked part of the product development lifecycle. The best and most cost-effective way to ensure your product is accessible is to start with accessibility. In this session, participants will learn how to incorporate accessibility and inclusive design at each stage of the product lifecycle. From product requirements through user research, content strategy and copywriting, design, front-end development, and QA, consider accessibility using these effective guidelines. 
-   
+Designing and developing digital products that are accessible to all doesn’t just make good business sense — it’s also the law. Yet it’s often an overlooked part of the product development lifecycle. The best and most cost-effective way to ensure your product is accessible is to start with accessibility. In this session, participants will learn how to incorporate accessibility and inclusive design at each stage of the product lifecycle. From product requirements through user research, content strategy and copywriting, design, front-end development, and QA, consider accessibility using these effective guidelines.
+
 - [Watch the video](https://www.youtube.com/watch?v=ZFdLZlAD5q0)
 - [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-28-UX-Summit-Captioning-Tues-PM.pdf) (PDF, 119 KB, 13 pages)
 
@@ -126,7 +125,7 @@ Learn about the similarities and differences between Product Design and Service 
 
 **More, Better, Faster: How Service Design Helps the Austin.gov Team Transition Content at Scale** - Sarah Rigdon, Jo Dwyer, Andrew Do, and Kristin Taylor, Office of Design and Delivery at the City of Austin
 
-For residents, forms are often front doors to access city services. They are also critical entry points not just to redesign content, but to transform the end-to-end experience of city services that better serve residents. This talk will discuss lessons learned from the City of Austin’s experiments in how service designers collaborate with content strategists to achieve this goal. We will focus on two case studies that offer different insights on how service designers and content strategists can collaborate. 
+For residents, forms are often front doors to access city services. They are also critical entry points not just to redesign content, but to transform the end-to-end experience of city services that better serve residents. This talk will discuss lessons learned from the City of Austin’s experiments in how service designers collaborate with content strategists to achieve this goal. We will focus on two case studies that offer different insights on how service designers and content strategists can collaborate.
 
 - [Watch the video](https://www.youtube.com/watch?v=Afb4fIaCN48&t=223s)
 - [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-29-UX-Summit-Captioning-Wed-PM.pdf) (PDF, 137 KB, 13 pages)
@@ -151,10 +150,10 @@ Modernization means change—and change can sometimes be hard. When creating new
 
 **Discovering #PartofSomethingBigger for HHS Careers Website** - Brooke Dine HHS/Assistant Secretary for Public Affairs (ASPA), and Katie Kline
 
-A comprehensive, empirical discovery process sets the stage for a streamlined roadmap and agile project approach. Drawing on discovery insights for a new Careers site for HHS.gov, the speakers will recount quantifiable tactics that led to an evidence-based decision matrix which guided the design, development, content and communications efforts for the project. Participants will hear use cases for activities that can be used to ensure any pivoting supports the overarching digital strategy. Additionally, regular check-ins with stakeholders will run smoothly when the vision for the site is captured in the beginning with benchmarks for success clearly identified. 
+A comprehensive, empirical discovery process sets the stage for a streamlined roadmap and agile project approach. Drawing on discovery insights for a new Careers site for HHS.gov, the speakers will recount quantifiable tactics that led to an evidence-based decision matrix which guided the design, development, content and communications efforts for the project. Participants will hear use cases for activities that can be used to ensure any pivoting supports the overarching digital strategy. Additionally, regular check-ins with stakeholders will run smoothly when the vision for the site is captured in the beginning with benchmarks for success clearly identified.
 
 - [Watch the video](https://www.youtube.com/watch?v=oFu2AeThfx4&t=200s)
-- [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-30-UX-Summit-Captioning-Thurs-PM.pdf) (PDF, 163 KB, 12 pages) 
+- [Read the transcript](https://s3.amazonaws.com/digitalgov/static/2020-07-30-UX-Summit-Captioning-Thurs-PM.pdf) (PDF, 163 KB, 12 pages)
 
 
 
