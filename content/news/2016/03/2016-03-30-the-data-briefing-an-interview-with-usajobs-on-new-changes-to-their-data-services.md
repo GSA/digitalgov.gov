@@ -12,6 +12,7 @@ topics:
   - mobile
   - emerging-tech
   - user-centered-design
+  - human-centered-design
   - user-experience
 ---
 

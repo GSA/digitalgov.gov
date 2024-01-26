@@ -22,6 +22,7 @@ topics:
   - design
   - open-data
   - user-centered-design
+  - human-centered-design
   - crowdsourcing-and-citizen-science
 
 # see all authors at https://digital.gov/authors

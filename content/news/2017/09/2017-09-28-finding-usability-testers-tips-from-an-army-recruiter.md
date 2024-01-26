@@ -10,6 +10,7 @@ topics:
   - usability
   - user-centered-design
   - user-experience
+  - human-centered-design
 
 featured_image:
   uid: typing-on-laptop-close-up-littlehenrabi-istock-thinkstock-537275804
