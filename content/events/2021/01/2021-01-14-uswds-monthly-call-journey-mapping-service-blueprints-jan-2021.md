@@ -13,6 +13,7 @@ topics:
   - design
   - digital-service-delivery
   - user-centered-design
+  - human-centered-design
   - customer-experience
   - user-experience
 # See all authors at https://digital.gov/authors

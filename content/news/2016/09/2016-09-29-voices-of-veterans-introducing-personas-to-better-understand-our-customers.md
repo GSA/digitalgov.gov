@@ -7,9 +7,9 @@ authors:
   - va-center-for-innovation
 topics:
   - customer-experience
-  - customer-experience
   - research
   - user-centered-design
+  - human-centered-design
   - user-experience
 
 ---

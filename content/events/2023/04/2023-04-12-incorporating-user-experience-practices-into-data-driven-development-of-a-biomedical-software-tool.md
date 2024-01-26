@@ -15,6 +15,7 @@ topics:
   - user-experience
   - data-visualization
   - user-centered-design
+  - human-centered-design
   - design
 
 slug: incorporating-user-experience-practices-into-data-driven-development-of-a-biomedical-software-tool

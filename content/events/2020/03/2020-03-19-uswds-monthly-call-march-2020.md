@@ -21,6 +21,7 @@ topics:
   - digital-service-delivery
   - design
   - user-centered-design
+  - human-centered-design
 
 # see all authors at https://digital.gov/authors
 authors: 
