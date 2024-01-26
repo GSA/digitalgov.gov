@@ -10,6 +10,13 @@ title: "Challenges and Prize Competitions"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/apps-challenges/
+  - /topics/challenge-gov/
+  - /topics/challenges/
+  - /topics/challenges-and-prize-competitions/
+  - /topics/challenges-and-prizes-community-of-practice/
+  - /topics/prizes-and-competitions/
 
 # Weight
 weight: 1

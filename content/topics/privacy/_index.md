@@ -10,6 +10,8 @@ title: "Privacy"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/privacy-impact-assessment/
 
 # Weight
 weight: 2

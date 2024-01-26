@@ -10,6 +10,17 @@ title: "Product and project management"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/agile/
+  - /topics/agile-lean-community-of-practice/
+  - /topics/kanban/
+  - /topics/lean/
+  - /topics/product-management/
+  - /topics/project-management/
+  - /topics/scrum/
+  - /topics/sprint/
+  - /topics/workflows/
+
 # Weight
 weight: 1
 # For more information on managing topics,

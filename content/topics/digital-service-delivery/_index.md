@@ -13,6 +13,11 @@ summary: "For millions, access to digital services isn’t a luxury—it’s cri
 # Weight
 weight: 2
 
+aliases:
+  - /topics/21st-century-idea/
+  - /topics/diversity-equity-inclusion-accessibility-deia/
+  - /topics/this-weeks-idea/
+
 # Set the legislation card title and link
 legislation:
   title: "21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22"

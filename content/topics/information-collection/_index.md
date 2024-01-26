@@ -10,6 +10,9 @@ title: "Information collection"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/pra/
+
 # Weight
 weight: 1
 # For more information on managing topics,

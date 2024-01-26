@@ -10,6 +10,11 @@ title: "Cloud and infrastructure"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/aws/
+  - /topics/cloud/
+  - /topics/cloud-gov/
+  - /topics/infrastructure/
 # Weight
 weight: 1
 # For more information on managing topics,

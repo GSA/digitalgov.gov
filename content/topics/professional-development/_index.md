@@ -10,6 +10,9 @@ title: "Professional Development"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/human-resources/
+  - /topics/open-opportunities-program/
 
 # Weight
 weight: 2
