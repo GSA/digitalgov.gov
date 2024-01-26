@@ -21,7 +21,7 @@ Web Components are self-contained because of four technologies. First, there are
 
 The fourth technology is the <a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports" target="_blank">HTML Import</a> which packages the Web Component and allows the developer to include Web Components into the Web page or mobile app. As you can guess, APIs are working behind the scenes to make each of these technologies work.
 
-If you would like to learn more about Web Components, you can start with these resources. (_This list does not imply endorsement by the federal government. These are just illustrative examples_):
+If you would like to learn more about Web Components, you can start with these resources.:
 
   * <a href="http://tech.pro/blog/1940/getting-started-with-web-components" target="_blank">A technical introduction to Web Components</a>
   * <a href="https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be" target="_blank">A video presentation of the potential of Web Components (33 minutes)</a>
@@ -31,5 +31,12 @@ If you would like to learn more about Web Components, you can start with these r
   * <a href="http://component.kitchen/tutorial" target="_blank">Component Kitchen’s interactive Web Components tutorial</a>
   * <a href="http://webdesign.tutsplus.com/articles/how-to-create-your-own-html-elements-with-web-components--cms-21524" target="_blank">How to create your HTML elements using Web Components</a>
 
-Web Components present another way that federal agencies can package and distribute their APIs. Maybe a possible new project is to create a federal Web Components library for website developers and mobile app developers?_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
+Web Components present another way that federal agencies can package and distribute their APIs. Maybe a possible new project is to create a federal Web Components library for website developers and mobile app developers?
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
+
 _Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

@@ -58,6 +58,6 @@ The time for leveraging AI in improving access to novel therapeutics is now. If 
 
 To contact us on the overall TOP Health tech sprint, please email the Presidential Innovation Fellows, [gil.alterovitz@pif.gov](mailto:gil.alterovitz@pif.gov) and [justin.koufopoulos@pif.gov](mailto:justin.koufopoulos@pif.gov), or the HHS Office of the CTO, [cto@hhs.gov](mailto:cto@hhs.gov). Please use subject line: **_TOP Health: inquiry from DigitalGov blog_**.
 
-***
+---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

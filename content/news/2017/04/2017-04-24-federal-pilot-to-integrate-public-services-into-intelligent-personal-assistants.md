@@ -30,6 +30,6 @@ While this first phase of the pilot includes read-only use of public data, agenc
 
 GSA’s Emerging Citizen Technology program includes the government-wide support of Artificial Intelligence for Citizens, Virtual and Augmented Reality, and SocialGov. Throughout the life of the pilot, findings will be shared, including next steps for the advancement of more automated, self-service access to public service information.
 
-* * *
+---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

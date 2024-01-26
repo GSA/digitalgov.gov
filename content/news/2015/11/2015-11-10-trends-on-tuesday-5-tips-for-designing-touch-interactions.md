@@ -65,6 +65,6 @@ topics:
   Check out the <a href="{{< ref "2015-09-28-introducing-the-u-s-web-design-standards.md" >}}">U.S. Web Design Standards</a> and the <a href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< ref "/communities" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
 </p>
 
-<p>
-  <em>References above are for illustrative purposes and do not imply endorsement by the General Services Administration (GSA).</em>
-</p>
+---
+
+**Disclaimer**: References above are for illustrative purposes and do not imply endorsement by the General Services Administration (GSA).
