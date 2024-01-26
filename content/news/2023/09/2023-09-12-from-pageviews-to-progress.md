@@ -93,6 +93,6 @@ Contact the DAP team at [dap@gsa.gov](mailto:dap@gsa.gov) with any questions abo
 
 Want to learn more? Join the [Web Analytics community of practice](https://digital.gov/communities/web-analytics-and-optimization/) to connect with other federal analytics professionals who are using data to transform how the government interacts with the public.
 
-- - -
+---
 
-*All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.*
+**Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

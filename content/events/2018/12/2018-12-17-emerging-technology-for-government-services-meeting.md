@@ -14,10 +14,8 @@ topics:
   - emerging-tech
   - social-media
   - artificial-intelligence
-  - social-media
   - virtual-augmented-reality-community
   - multimedia
-
 ---
 
 This online meeting is for government employees only.

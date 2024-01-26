@@ -8,7 +8,6 @@ authors:
 topics:
   - analytics
   - open-data
-  - analytics
   - usability
   - user-experience
 ---

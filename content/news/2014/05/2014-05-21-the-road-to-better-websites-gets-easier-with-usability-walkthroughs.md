@@ -6,7 +6,7 @@ summary: The road to more user-friendly government websites does not have to be 
 authors:
   - ashley-braun
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
   - usability
 ---

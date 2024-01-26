@@ -12,7 +12,6 @@ topics:
   - design
   - user-centered-design
   - user-experience
-  - user-experience
   - research
 # See all authors at https://digital.gov/authors
 authors:

@@ -33,8 +33,10 @@ So, how do agencies prepare their government datasets for chatbots? The key is t
 
 By following the above steps, agencies are creating [structured content built specifically for chatbots](https://digital.gov/2013/07/29/how-to-create-open-structured-content/). Mobile apps, responsive websites, and progressive web apps still have a role to play. However, users are demanding more ways to access government data not embedded in a site. Users want on-demand information, like how chatbots deliver information. Agencies need to free the datasets to be useful in many ways that people want to access federal government data.
 
-_(Forbes magazine is used for illustrative purposes only and does not imply endorsement by the federal government or any federal agencies.)_
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
 
-_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

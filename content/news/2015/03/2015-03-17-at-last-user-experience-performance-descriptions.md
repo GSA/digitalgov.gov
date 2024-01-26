@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - user-testing-and-research
+  - research
   - usability
   - user-experience
 

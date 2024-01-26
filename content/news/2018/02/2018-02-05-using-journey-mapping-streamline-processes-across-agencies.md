@@ -10,8 +10,6 @@ topics:
   - design
   - analytics
   - content-strategy
-  - analytics
-  - analytics
   - user-experience
   - accessibility
   - customer-experience

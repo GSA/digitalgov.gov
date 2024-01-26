@@ -8,7 +8,6 @@ authors:
 topics:
   - software-engineering
   - mobile
-  - mobile
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](http://gsablogs.gsa.gov/dsic/get-it-done/mobile-application-development-program/)

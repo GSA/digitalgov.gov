@@ -8,7 +8,6 @@ authors:
 topics:
   - social-media
   - podcast
-  - social-media
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 
 ---

@@ -7,8 +7,6 @@ deck:
 topics:
   - mobile
   - content-strategy
-  - mobile
-  - mobile
 aliases:
 
 ---

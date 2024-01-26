@@ -1,8 +1,8 @@
 ---
 slug: mobile-development-and-testing-with-chrome-devtools
 date: 2016-11-21 12:00:19 -0400
-title: Mobile Development and Testing with Chrome Developer Tools
-summary: 'Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing.'
+title: "Mobile Development and Testing with Chrome Developer Tools"
+summary: "Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing."
 
 authors:
   - angela-smithers
@@ -10,7 +10,7 @@ topics:
   - software-engineering
   - design
   - mobile
-  - software-engineering
+
 ---
 
 Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing. All of a sudden, a new policy came down that stated, &#8220;devices that were not purchased by the agency could not be connected to the network. If we needed a device(s) to be on the network, we needed to go through the steps to have the device inspected, documented and approved.&#8221;
@@ -45,8 +45,10 @@ The Viewport Controls that appear at the top of the browser window allow you to 
 
 So there you have it. Hopefully, this has pointed some of us in the direction of a free design/development tool that can help speed [mobile development work]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}) within the government.
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+---
 
-_Federal agencies can register their mobile products—mobile websites and native apps—on the [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov) to verify that they’re [mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" >}}), authoritative sources of government information. [Learn more]({{< ref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry.md" >}}) about the Registry and [sign up here]({{< ref "service_us-digital-registry.md" >}})._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_Federal agencies can register their mobile products—mobile websites and native apps—on the [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/) to verify that they’re [mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" >}}), authoritative sources of government information. [Learn more]({{< ref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry.md" >}}) about the Registry and [sign up here]({{< ref "service_us-digital-registry.md" >}})._
 
 _Got a great idea for a mobile product or service and need help planning or releasing it? Contact the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}). Are you a federal employee interested in how agencies are using mobile technologies and building government-wide solutions? Join the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}}) with your .gov or .mil email address._

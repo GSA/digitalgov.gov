@@ -7,8 +7,6 @@ authors:
   - brandon-barr
 topics:
   - mobile
-  - mobile
-  - mobile
   - united-states-department-of-energy
 ---
 

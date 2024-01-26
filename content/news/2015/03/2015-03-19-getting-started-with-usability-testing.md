@@ -7,12 +7,11 @@ authors:
   - laura-hughes
 topics:
   - design
-  - user-testing-and-research
+  - research
   - open-data
   - top-tasks
   - usability
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-400-USAID-Development-Data-Library-DDL.jpg" alt="USAID's Development Data Library (DDL) website screen capture" >}}

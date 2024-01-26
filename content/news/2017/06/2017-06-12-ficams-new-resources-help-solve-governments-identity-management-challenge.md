@@ -8,7 +8,6 @@ authors:
 topics:
   - product-and-project-management
   - mobile
-  - mobile
   - security
 ---
 

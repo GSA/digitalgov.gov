@@ -20,11 +20,8 @@ end_date: 2020-09-10 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - content-strategy
-  - content-strategy
-  - plain-language
   - user-experience
   - communication
-  - plain-language
 
 # see all authors at https://digital.gov/authors
 authors: 

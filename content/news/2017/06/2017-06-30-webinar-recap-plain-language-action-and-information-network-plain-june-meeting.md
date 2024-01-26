@@ -1,8 +1,8 @@
 ---
 slug: webinar-recap-plain-language-action-and-information-network-plain-june-meeting
 date: 2017-06-30 3:00:41 -0400
-title: 'Webinar Recap: Plain Language Action and Information Network (PLAIN) June Meeting'
-summary: 'This month&#8217;s Plain Language of Community Practice meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful DigitalGov University (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session. Many'
+title: "Webinar Recap: Plain Language Action and Information Network (PLAIN) June Meeting"
+summary: "This June 2017 meeting featured the presentation, Plain Language Spectrum: Every Step Counts!"
 authors:
   - samantha-hinz
 topics:
@@ -11,7 +11,9 @@ topics:
   - plain-language
 ---
 
-> _This month&#8217;s [Plain Language of Community Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session._
+{{< box >}}
+_This month's [Plain Language of Community Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar, she explains how you can move forward with plain language even when you don't have permission to edit copy, followed by a half hour Q & A session._
+{{< /box >}}
 
 Many people don&#8217;t get plain language (also known as plain communication or plain writing) right the very first time, but through practice, can gain clarity and improve their plain language skills. For newbies who may not feel 100 percent sure about diving into this concept, the guidelines below are helpful, but optional; you can visit [PlainLanguage.gov](http://www.plainlanguage.gov/) to find other ways to apply plain language to your specific content.
 
@@ -83,7 +85,7 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
         PlainLanguage.gov on social media (<a href="https://www.facebook.com/plainlanguagegov-174397429237337/">Facebook</a>, <a href="https://twitter.com/govplainlang">Twitter</a>)
       </li>
       <li>
-        the <a href="{{< ref "communities/plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>
+        the <a href="https://digital.gov/communities/plain-language/">Plain Language Community of Practice</a>
       </li>
       <li>
         <a href="http://www.clarity-international.net/">Clarity</a>, an international association of professionals promoting plain legal language
@@ -102,43 +104,18 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
   </li>
 </ul>
 
-<table style="border: 0;border-style: hidden;margin-left: auto;margin-right: auto">
-  <tr>
-    <td style="vertical-align: top;text-align: center">
-      <blockquote class="twitter-tweet" data-width="500">
-        <p lang="en">
-          RT <a href="https://twitter.com/plain_language">@plain_language</a>: Doctor: Have you had paroxysms of coughing? Patient: Uh, you mean fits? <a href="https://twitter.com/hashtag/plainlanguage?src=hash">#plainlanguage</a> <a href="https://t.co/Byiav6BdGN">pic.twitter.com/Byiav6BdGN</a>
-        </p>
+{{< tweet user="govplainlang" id="682562538849087488" >}}
 
-        <p>
-          &mdash; plainlanguage.gov (@govplainlang) <a href="https://twitter.com/govplainlang/status/682562538849087488">December 31, 2015</a>
-        </p>
-      </blockquote>
+## Watch the webinar
 
-      <p>
-        </td> </tr> </tbody> </table>
+<a href="https://www.youtube.com/watch?v=TGYhWjSmDvs&t=18m14s">Review just the Q&A section on YouTube</a>, or watch the full 50-minute webinar embedded below. If you have questions about plain language or the presentation, you can <a href="mailto:katherine.spivey@gsa.gov?subject=Plain%20Language%20June%202017%20meeting%20webinar">email Katherine Spivey</a>.
 
-        <h2>
-          Watch the webinar
-        </h2>
+{{< youtube TGYhWjSmDvs >}}
 
-        <p>
-          <a href="https://www.youtube.com/watch?v=TGYhWjSmDvs&t=18m14s">Review just the Q&A section on YouTube</a>, or the full 50-minute webinar below. If you have questions about plain language or the presentation, you can <a href="mailto:katherine.spivey@gsa.gov?subject=Plain%20Language%20June%202017%20meeting%20webinar">email Katherine Spivey</a>.
-        </p>
+---
 
-        <div style="text-align: center">
-          <p>
-          </p>
-        </div>
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
-        <p>
-          <em>All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.</em>
-        </p>
+_Read other DigitalGov posts about [plain language](https://digital.gov/topics/plain-language/). Learn more about [DigitalGov University](https://digital.gov/digitalgov-university/) and how you can work with the team to set up an online or in-person event or training session._
 
-        <p>
-          <em>Read other DigitalGov posts about <a href="{{< ref "/topics/plain-language" >}}">Plain Language</a>. Learn more about <a href="{{< ref "/about/digitalgov-university.md" >}}">DigitalGov University</a> and how you can work with the team to set up an online or in-person event or training session. </em>
-        </p>
-
-        <p>
-          <em>If you have a <strong>.gov</strong> or <strong>.mil</strong> email address, consider joining one of our <a href="{{< ref "/communities" >}}">Communities</a>, such as the <a href="{{< ref "communities/plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>, the <a href="{{< ref "web-managers-forum.md" >}}">Web Content Managers Forum</a>, the <a href="{{< ref "communities/multilingual.md" >}}">Multilingual Community of Practice</a>, or the <a href="{{< ref "web-managers-forum.md" >}}">Web Content Managers Forum</a>.</em>
-        </p>
+_If you have a **.gov** or **.mil** email address, consider joining one of our [Communities](https://digital.gov/communities/), such as the [Plain Language Community of Practice](https://digital.gov/communities/plain-language/), the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/), or the [Web Content Managers Forum](https://digital.gov/communities/web-content-managers/)._

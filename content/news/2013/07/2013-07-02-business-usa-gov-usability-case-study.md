@@ -6,11 +6,9 @@ summary: 'When redesigning a site, it&#8217;s easy to place menu items, text and
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
   - usability
-  - usability
-  - user-experience
 ---
 
 When redesigning a site, it&#8217;s easy to place menu items, text and other content wherever you can make them fit. It&#8217;s harder to take a step back and ask the strategic question: Is this the best place for this? A good rule of thumb is to never make any changes randomly—base your decisions on user data.

@@ -70,4 +70,6 @@ It’s also a lot of fun being able to bring UX to an organization that hasn’t
 
 _&#42; Note: This interview has been edited for clarity and brevity._ 
 
-_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - innovation
-  - mobile
   - emerging-tech
 ---
 

@@ -7,8 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile
-
 ---
 
 {{< legacy-img-right src="2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" caption="scanrail, iStock, Thinkstock" >}} 

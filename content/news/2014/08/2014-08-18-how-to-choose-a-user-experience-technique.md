@@ -9,7 +9,6 @@ topics:
   - research
   - customer-experience
   - user-experience
-  - research
   - usability
 
 primary_image: "how-ux-solves-problems-umbrella-image-by-dan-willis-uxcrank"

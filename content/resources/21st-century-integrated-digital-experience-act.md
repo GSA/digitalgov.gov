@@ -11,7 +11,7 @@ aliases:
   - /resources/omb-m-17-06
   - /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
   - /resources/nara-guidance-on-managing-social-media-records/
-  
+
 date: 2019-11-01 15:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
@@ -31,7 +31,7 @@ topics:
   - plain-language
   - product-and-project-management
 
-# see all authors at https://digital.gov/authors 
+# see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
 
@@ -538,7 +538,7 @@ Within `180 days` of the launch of the Federal Services Index (date to be determ
 
 ## Resources
 
-- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/21st-century-idea/)
+- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/digital-service-delivery/)
 - Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 - Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
 - Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)

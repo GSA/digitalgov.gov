@@ -7,7 +7,6 @@ topics:
   - accessibility
   - mobile
   - research
-  - mobile
   - usability
   - user-experience
 ---

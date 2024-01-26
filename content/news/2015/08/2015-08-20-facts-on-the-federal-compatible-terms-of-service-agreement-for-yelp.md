@@ -7,8 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - social-media
-  - terms-of-service
   - terms-of-service
 ---
 

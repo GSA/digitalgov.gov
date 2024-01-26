@@ -7,10 +7,6 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

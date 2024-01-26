@@ -7,7 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - social-media
 ---
 
 [<img class="aligncenter size-full wp-image-105172" alt="Three astronauts floating in a space capsule." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Best-of-1.jpg" width="569" height="346" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Best-of-1.jpg)It was a very good year, as Frank Sinatra sang, in the field of social media for the federal government. Advances were made not only in the technologies applied by agencies, but also the policies and strategies that unlock their potential to improve services and reduce costs. I’d like to share with you just some of the programs that made 2013 a very good year for the <a title="Advancing Forward: Best of Social Media in 2013 and Beyond" href="https://digital.gov/2014/01/10/advancing-forward-best-of-social-media-in-2013-and-beyond/" target="_blank"><strong>SocialGov community</strong></a>, what the challenges are that we’ll face in the coming year, and also give you insight into what to expect in 2014 as we overcome those emerging challenges together with you.

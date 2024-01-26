@@ -16,7 +16,6 @@ topics:
   - analytics
   - user-experience
   - customer-experience
-  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden

@@ -22,7 +22,6 @@ topics:
   - accessibility
   - content-strategy
   - plain-language
-  - plain-language
 
 # see all authors at https://digital.gov/authors
 authors:

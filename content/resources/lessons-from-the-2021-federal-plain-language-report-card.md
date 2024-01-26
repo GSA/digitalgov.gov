@@ -9,7 +9,6 @@ topics:
   - accessibility
   - content-strategy
   - user-experience
-  - plain-language
   - communication
   - design
 # See all authors at https://digital.gov/authors

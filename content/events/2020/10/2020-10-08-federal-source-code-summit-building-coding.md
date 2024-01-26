@@ -22,7 +22,6 @@ topics:
   - software-engineering
   - open-source
   - security
-  - software-engineering
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom

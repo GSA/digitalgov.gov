@@ -10,7 +10,6 @@ topics:
   - application-programming-interface
   - emerging-tech
   - mobile
-  - social-media
 
 primary_image: "gsa-mentor-protege-on-mobile-phone-comp"
 

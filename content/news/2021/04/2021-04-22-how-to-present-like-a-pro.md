@@ -19,7 +19,6 @@ topics:
   - plain-language
   - multimedia
   - professional-development
-  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

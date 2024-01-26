@@ -47,6 +47,6 @@ Additionally, they are mid-way through a [product roadmap](https://standards.usa
 
 And there’s one important note: while the U.S. Web Design Standards were designed for the needs of government agencies, they can be used, and modified for specific needs by anyone! Learn more by watching the webinar below.
 
+---
 
-
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

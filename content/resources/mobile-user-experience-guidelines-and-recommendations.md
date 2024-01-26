@@ -11,8 +11,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - mobile
-  - mobile
 
 aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/

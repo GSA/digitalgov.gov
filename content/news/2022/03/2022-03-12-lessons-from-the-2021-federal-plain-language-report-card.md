@@ -15,7 +15,6 @@ authors:
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - plain-language
   - user-experience
   - communication
   - design

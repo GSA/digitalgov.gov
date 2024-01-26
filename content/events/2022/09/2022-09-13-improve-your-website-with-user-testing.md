@@ -14,7 +14,7 @@ topics:
   - content-strategy
   - user-experience
   - customer-experience
-  - user-testing-and-research
+  - research
 # See all authors at https://digital.gov/authors
 authors:
   - judy-suzuki

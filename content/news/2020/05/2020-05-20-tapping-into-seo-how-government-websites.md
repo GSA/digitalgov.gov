@@ -59,5 +59,7 @@ The last step in the process involves off-page optimization. Off-page optimizati
 ## Cost-Saving Benefit
 
 One of the best benefits of SEO is that it does not involve paying for ad space or costly campaigns. While organizations can still pay for advertisements, some of which are often displayed with an “Ad” tag within a given search, there are many who do not pay a dime for high rankings, simply by utilizing SEO and optimizing their content. While the process of learning SEO can be somewhat technical, there are a lot of free online tools and information that can help instruct you further on how to improve your SEO skills, and, ultimately grow the audience of your organization’s content. 
- 
-_(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

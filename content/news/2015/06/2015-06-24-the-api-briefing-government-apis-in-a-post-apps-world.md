@@ -27,6 +27,12 @@ In this post-app world, government APIs will still be vital. Whether it is apps 
 
 First, government APIs must be able to communicate with the mobile personal assistant programs. I am not sure what the coding standards will be, but if the early browser platform wars were any indication, you can expect there will be a high-stakes fight for coding standards. Second, the government APIs must be able to better blend their information with other APIs. Again, there will be another intense coding standards discussion. Whatever is decided, government APIs will play a vital role in the post-app world.
 
-On a personal note: this is my last posting for the API Briefing. I am taking a two-month sabbatical this summer to work on some personal projects. After my sabbatical, I may come back to work for the federal government or may go into the private sector. I have greatly enjoyed writing the column, and I hope you have enjoyed reading about the great work in federal government APIs. Thank you._(Disclaimer: Any tech companies mentioned in this posting are for illustrative purposes only and does not imply an endorsement by the GSA, USDA, or the federal government.)_
+On a personal note: this is my last posting for the API Briefing. I am taking a two-month sabbatical this summer to work on some personal projects. After my sabbatical, I may come back to work for the federal government or may go into the private sector. I have greatly enjoyed writing the column, and I hope you have enjoyed reading about the great work in federal government APIs. Thank you.
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
 _*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
+
 _Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

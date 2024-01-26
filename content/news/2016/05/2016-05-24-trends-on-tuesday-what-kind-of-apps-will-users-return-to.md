@@ -8,9 +8,6 @@ authors:
 topics:
   - mobile
   - analytics
-  - analytics
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

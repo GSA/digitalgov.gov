@@ -18,7 +18,6 @@ expirydate: "2020-07-16"
 # see all topics at https://digital.gov/topics
 topics:
   - research
-  - user-testing-and-research
 
 # see all authors at https://digital.gov/authors
 authors:

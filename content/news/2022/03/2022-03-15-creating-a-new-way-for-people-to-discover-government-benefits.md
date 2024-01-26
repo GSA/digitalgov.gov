@@ -22,7 +22,6 @@ topics:
   - accessibility
   - multilingual
   - design
-  - multilingual
 # See all authors at https://digital.gov/authors
 authors:
   - lgodfrey

@@ -6,7 +6,6 @@ summary: ' Those cutting edge folks over at Census have raised the bar again! No
 topics:
   - mobile
   - application-programming-interface
-  - mobile
   - social-media
 ---
 

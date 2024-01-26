@@ -8,8 +8,6 @@ authors:
 topics:
   - accessibility
   - user-experience
-  - accessibility
-  - usability
   - usability
 ---
 

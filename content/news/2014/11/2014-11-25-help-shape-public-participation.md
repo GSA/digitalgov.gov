@@ -9,7 +9,6 @@ authors:
 topics:
   - social-media
   - open-government
-  - social-media
 ---
 
 [

@@ -10,10 +10,6 @@ topics:
   - mobile
   - customer-experience
   - emerging-tech
-  - mobile
-  - mobile
-  - mobile
-  - emerging-tech
 ---
 
 {{< legacy-img src="2015/02/250-x-280-Tablet-pc-media-concept-DenisKot-iStock-Thinkstock-179029246.jpg" alt="Tablet pc media concept" caption="" >}} 

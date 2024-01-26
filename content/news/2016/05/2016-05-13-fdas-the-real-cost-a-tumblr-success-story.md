@@ -9,7 +9,6 @@ topics:
   - content-strategy
   - product-and-project-management
   - social-media
-  - social-media
 ---
 
 FDA’s “The Real Cost” campaign aims to be edgy, just like its teen audience. Last month, the campaign won the [2016 Shorty Award for the Best Overall Tumblr Presence](http://shortyawards.com/8th/the-real-cost-reaching-youth-at-risk-of-experimenting-with-cigarettes).

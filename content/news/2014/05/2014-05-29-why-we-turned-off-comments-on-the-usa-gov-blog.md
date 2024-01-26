@@ -8,7 +8,6 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - social-media
 ---
 
 {{< legacy-img src="2014/05/250-x-165-Share-button-on-Keyboard-pichet_w-iStock-Thinkstock-486644165.jpg" alt="Green and white Share button on a keyboard" caption="" >}} 

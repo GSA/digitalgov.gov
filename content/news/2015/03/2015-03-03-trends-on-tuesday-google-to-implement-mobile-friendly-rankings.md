@@ -7,10 +7,6 @@ authors:
   - kdaniel
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
   - content-strategy
   - emerging-tech
 ---

@@ -7,7 +7,6 @@ summary: A resource with four approaches to help federal employees perform usabi
 # See all topics at https://digital.gov/topics
 topics:
   - usability
-  - usability
   - user-experience
   - research
   - customer-experience

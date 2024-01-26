@@ -6,10 +6,8 @@ summary: 'How user interviews helped spotlight the needs of a previously forgott
 authors:
   - tyrus-manuel
 topics:
-  - user-testing-and-research
   - research
   - user-experience
-  - research
 ---
 
 _How user interviews helped spotlight the needs of a previously forgotten group._

@@ -69,4 +69,4 @@ _If this list has spurred ideas for you, let us know! Email [connectcoe@gsa.gov]
 
 ---
 
-_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

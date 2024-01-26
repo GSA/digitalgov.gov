@@ -8,10 +8,7 @@ authors:
 topics:
   - mobile
   - search
-  - mobile
-  - mobile
   - plain-language
-  - mobile
   - search-engine-optimization
   - usability
 ---

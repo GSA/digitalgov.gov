@@ -27,6 +27,12 @@ The EIA Excel plugin gives the user the following categories of energy data:
   * <a href="http://www.eia.gov/beta/api/qb.cfm?category=964164" target="_blank">Annual Energy Outlook</a>
   * <a href="http://www.eia.gov/beta/api/qb.cfm?category=1292190" target="_blank">Crude Oil Imports</a>
 
-What I especially like about these plugins is that other applications can read Excel spreadsheets. Excel spreadsheets can be imported into <a href="http://www.google.com/docs/about/" target="_blank">Google Docs</a> for easy sharing or into <a href="http://www.r-project.org/" target="_blank">R</a> for more sophisticated data analysis. Excel spreadsheets can be exported to any number of databases that support APIs. I hope that we can see more agencies with rich data sources build Excel or similar plugins._(Microsoft Excel, Google Docs, and R are used for illustrative purposes and does not imply an endorsement by the federal government)_
+What I especially like about these plugins is that other applications can read Excel spreadsheets. Excel spreadsheets can be imported into <a href="http://www.google.com/docs/about/" target="_blank">Google Docs</a> for easy sharing or into <a href="http://www.r-project.org/" target="_blank">R</a> for more sophisticated data analysis. Excel spreadsheets can be exported to any number of databases that support APIs. I hope that we can see more agencies with rich data sources build Excel or similar plugins.
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
 _*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
+
 _Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

@@ -8,11 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - mobile
-  - mobile
   - terms-of-service
-  - terms-of-service
-
 ---
 
 In our personal lives, most of us barely pay attention to Terms of Service (TOS) agreements. But in our professional lives, as federal employees, mindlessly clicking through a TOS is not an option.

@@ -6,7 +6,6 @@ summary: 'Presenting data online that will serve a wide range of users can be ch
 authors:
   - rhonda-a-pretlow
 topics:
-  - user-testing-and-research
   - research
   - user-centered-design
 ---

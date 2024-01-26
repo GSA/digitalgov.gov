@@ -7,9 +7,8 @@ authors:
   - gray-brooks
 topics:
   - application-programming-interface
-  - user-testing-and-research
+  - research
   - user-experience
-  - application-programming-interface
   - open-source
   - usability
 ---

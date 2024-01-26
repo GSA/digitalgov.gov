@@ -14,7 +14,7 @@ topics:
   - mobile
 ---
 
-{{< legacy-img src="2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, Welcome, in various languages" caption="" >}} 
+{{< legacy-img src="2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, Welcome, in various languages" caption="" >}}
 
 Multilingual does not always mean multiple accounts or websites. Increasingly, multilingual content is delivered in an integrated way, with two (or more!) languages delivered on the same website, app, or social media platform.
 
@@ -32,7 +32,7 @@ Yasner noted that there are several Spanish-speaking countries on the list, and 
 
 All navigation tools, [metadata]({{< ref "/topics/search-engine-optimization" >}}), and content descriptions are provided in the seven interface languages. Metadata and descriptions can be listened to with a text-to-voice conversion option that is available for every item in all seven languages, as well.
 
-## Making Content Multilingual {{< legacy-img src="2015/04/600-x-437-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Language poster design using social speech bubbles with the word, Hello, in various languages" caption="" >}} 
+## Making Content Multilingual {{< legacy-img src="2015/04/600-x-437-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Language poster design using social speech bubbles with the word, Hello, in various languages" caption="" >}}
 
 WDL’s partner organizations play a critical role in delivering WDL’s multilingual content. Currently, WDL has 185 partners from 81 countries.
 

@@ -7,8 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - user-experience
-  - user-experience
-  
 ---
 
 Over the past few years, many agencies have learned how to do user experience (UX) with few resources. And while that’s still a problem at many agencies, many UX initiatives have been gaining momentum and attracting new stakeholders. Federal-wide efforts like the [Social and Behavioral Sciences Team](https://sbst.gov/) (SBST) and the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service)’s (USDS) promotion of good design principles, such as 18F’s recently-released Web Design Standards, show just how far this effort has come.

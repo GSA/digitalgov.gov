@@ -13,7 +13,6 @@ topics:
   - multilingual
   - search-engine-optimization
   - seo
-  - social-media
 ---
 
 MedlinePlus is a consumer health website produced by the [U.S. National Library of Medicine](https://www.nlm.nih.gov/) (NLM), available in both [English](https://medlineplus.gov/) and [Spanish](https://medlineplus.gov/spanish/). As part of our Search Engine Optimization (SEO) strategy, we recently added meta descriptions to our health topic pages. A meta description is a short HTML attribute in the head tag that describes the contents of a web page. When the meta description is not available or is poorly written, search engines automatically generate their own version to describe what is on a web page. They may use snippets from the page, text from anchor links, or other sources on the page.
@@ -72,4 +71,8 @@ Bing and DuckDuckGo use meta descriptions consistently, so custom meta descripti
 
 ## What’s next?
 
-MedlinePlus staff will write meta descriptions in Spanish for health topics for [MedlinePlus en español](https://medlineplus.gov/spanish/). We continue to explore what other types of structured data could be used and optimized on the site. The team will look at creating better title tags and explore the use of schema microdata or JSON (JavaScript Object Notation). Finally, we will continue pursuing broad ranging SEO efforts to make sure our content is highly discoverable via external search engines._All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+MedlinePlus staff will write meta descriptions in Spanish for health topics for [MedlinePlus en español](https://medlineplus.gov/spanish/). We continue to explore what other types of structured data could be used and optimized on the site. The team will look at creating better title tags and explore the use of schema microdata or JSON (JavaScript Object Notation). Finally, we will continue pursuing broad ranging SEO efforts to make sure our content is highly discoverable via external search engines.
+
+---
+
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

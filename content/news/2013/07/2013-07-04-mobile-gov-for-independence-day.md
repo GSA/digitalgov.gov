@@ -5,10 +5,6 @@ title: Mobile Gov for Independence Day!
 summary: 'Gearing up for the Fourth? Here are some anytime, anywhere government apps that can help make celebrating the United States easier and more fun. If you&#8217;re worried about the weather you can check out the National Weather Service mobile website. If the heat'
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile
-  - mobile
 ---
 
 [{{< legacy-img src="2013/07/capitol-fireworks01-450x300.jpg" alt="Fireworks go off around the capitol on the 4th of July" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/capitol-fireworks01.jpg)Gearing up for the Fourth? Here are some anytime, anywhere government apps that can help make celebrating the United States easier and more fun.

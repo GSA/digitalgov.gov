@@ -28,8 +28,10 @@ So, which do you choose? It depends on two factors: who is your audience and wha
 
 There is also a side issue for third-party apps that are developed using federal data and are used heavily by some citizens. Does the federal government have an obligation to step in and support the third-party app once the developer stops doing so? If the developer was encouraged by a federal agency hackathon to create the app and it is widely used, does that imply a responsibility for the federal agency to keep the mobile app alive and functioning? I would like to hear from you, the readers, on this issue.
 
+---
+
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._ 
 
-_(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 

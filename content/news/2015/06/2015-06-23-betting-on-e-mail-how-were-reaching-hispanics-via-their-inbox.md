@@ -8,8 +8,6 @@ authors:
   - lmartinez
 topics:
   - content-strategy
-  - content-strategy
-  - multilingual
   - multilingual
 ---
 

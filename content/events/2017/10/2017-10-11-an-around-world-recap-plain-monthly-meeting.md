@@ -19,7 +19,6 @@ end_date: 2017-10-11 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - plain-language
-  - plain-language
 
 # see all authors at https://digital.gov/authors
 authors: 

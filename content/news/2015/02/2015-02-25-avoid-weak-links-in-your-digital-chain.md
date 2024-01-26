@@ -14,10 +14,7 @@ topics:
   - plain-language
   - search-engine-optimization
   - usability
-  - usability
   - user-experience
-  - user-experience
-  
 ---
 
 Users don’t like surprises.

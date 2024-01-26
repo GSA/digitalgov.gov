@@ -7,8 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - social-media
-
 ---
 
 Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.

@@ -20,7 +20,6 @@ end_date: 2018-03-14 16:00:00 -0500
 topics: 
   - accessibility
   - plain-language
-  - plain-language
 
 # see all authors at https://digital.gov/authors
 authors: 

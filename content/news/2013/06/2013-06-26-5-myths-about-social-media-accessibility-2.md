@@ -8,9 +8,6 @@ authors:
 topics:
   - accessibility
   - social-media
-  - accessibility
-  - social-media
-  - social-media
 ---
 
 <p>

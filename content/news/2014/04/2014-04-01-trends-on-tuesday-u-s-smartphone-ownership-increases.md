@@ -7,9 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile
-  - mobile
-  - mobile
   - emerging-tech
 ---
 

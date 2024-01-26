@@ -10,14 +10,8 @@ topics:
   - product-and-project-management
   - social-media
   - multimedia
-  - multimedia
-  - content-strategy
   - mobile
-  - mobile
-  - social-media
   - emerging-tech
-  - multimedia
-
 ---
 
 Professional photographer and early “iPhonography” pioneer, Chase Jarvis coined the phrase, “The best camera is the one that&#8217;s with you.” The recent jumps in mobile phone photo technology presents interesting opportunities for government agencies to consider as mobile phone cameras are starting to rival and surpass professional gear. {{< legacy-img src="2016/10/600-x-450-Applications-standing-in-line-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-172586829.jpg" alt="Applications standing in line." caption="" >}} 

@@ -7,7 +7,6 @@ authors:
   - carolyn-hinkley
 topics:
   - social-media
-  - social-media
   - terms-of-service
 ---
 

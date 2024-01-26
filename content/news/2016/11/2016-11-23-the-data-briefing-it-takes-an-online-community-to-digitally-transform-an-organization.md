@@ -7,7 +7,6 @@ authors:
   - bbrantley
 topics:
   - challenges-and-prize-competitions
-  - crowdsourcing-and-citizen-science
   - emerging-tech
 ---
 

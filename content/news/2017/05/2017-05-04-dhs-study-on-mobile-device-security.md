@@ -9,7 +9,6 @@ topics:
   - product-and-project-management
   - mobile
   - content-strategy
-  - mobile
   - security
 ---
 

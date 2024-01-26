@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - product-and-project-management
-  - user-testing-and-research
+  - research
   - user-centered-design
   - user-experience
   - podcast

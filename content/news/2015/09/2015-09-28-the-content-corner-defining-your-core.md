@@ -8,9 +8,6 @@ authors:
 topics:
   - content-strategy
   - social-media
-  - content-strategy
-  - social-media
-  - content-strategy
 ---
 
 Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
