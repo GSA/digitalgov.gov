@@ -484,8 +484,9 @@ OMB recommends that agencies prioritize developing digital options for existing 
 OMB’s policy guidance (M-23-22) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
 
 {{< box >}}
-**[<i class="fa fa-lock" aria-hidden="true"></i> Collaboration space for M-23-22, Delivering a Digital-First Public Experience](https://community-dc.max.gov/pages/viewpage.action?spaceKey=OFCIO&title=M-23-22+Delivering+a+Digital-First+Public+Experience)**
-Requires a Max.gov account
+**Unlock more resources: Access Max.gov collaboration space**
+
+[Collaboration space for M-23-22, Delivering a Digital-First Public Experience (Max.gov login required)](https://community-dc.max.gov/pages/viewpage.action?spaceKey=OFCIO&title=M-23-22+Delivering+a+Digital-First+Public+Experience)
 
 Federal employees can visit Max.gov to discover more governmentwide resources available to implement the action items from M-23-22. The collaboration space includes:
 - Points of contact for the agency Digital Experience Leads
