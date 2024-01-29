@@ -39,6 +39,7 @@ Influencer programs can require extensive planning, but this resource will make 
 
 Explore the full guide:
 [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns]([https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en)https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en).
+
 Then, check out some examples of how this guide has been put into action by the Tobacco Education Resource Library (TERL).
 [TERL: Tobacco Education Resource Library, Resources from the FDA](https://digitalmedia.hhs.gov/tobacco)
 
