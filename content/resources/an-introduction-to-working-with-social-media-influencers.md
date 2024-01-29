@@ -44,4 +44,4 @@ Explore the full guide:
 Then, check out some examples of how this guide has been put into action by the Tobacco Education Resource Library (TERL).
 [TERL: Tobacco Education Resource Library, Resources from the FDA](https://digitalmedia.hhs.gov/tobacco)
 
-Finally, if you want to connect with others interested or experienced working with social media influencers join our communities!
+Finally, if you want to connect with others interested or experienced working with social media influencers join the [Digital.gov social media community](https://digital.gov/communities/social-media/)!
