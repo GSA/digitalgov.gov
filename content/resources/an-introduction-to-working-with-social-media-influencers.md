@@ -26,7 +26,8 @@ While working with influential people is an established communications tactic (e
 
 ## How to design, implement, and measure an influencer program
 
-After nine years of experience implementing influencer programs, experts in influencer marketing from FDA and its contractors, Rescue Agency and FCB New York, wrote and published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en). This guide, which won a Gold Digital Health Award in 2023, covers important aspects of influencer programs and answers common questions, such as:
+Experts in influencer marketing from FDA and its contractors (Rescue Agency and FCB New York) wrote and published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en). Drawn from nine years of experience and recognized with a 2023 Gold Digital Health Award, this guide explores key aspects of influencer programs and addresses frequently asked questions like:
+
 - What are some examples of influencer program goals?
 - How can I get buy-in from my organization’s leadership to work with influencers?
 - What types of content can influencers create for my organization?
@@ -43,4 +44,4 @@ Explore the full guide:
 Then, check out some examples of how this guide has been put into action by the Tobacco Education Resource Library (TERL).
 [TERL: Tobacco Education Resource Library, Resources from the FDA](https://digitalmedia.hhs.gov/tobacco)
 
-Finally, if you want to connect with others interested or experienced working with social media influencers…
+Finally, if you want to connect with others interested or experienced working with social media influencers join our communities!
