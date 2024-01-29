@@ -8,8 +8,6 @@ summary: Best practices for security administration of control systems and their
 topics:
   - security
   - open-source
-  - best-practices
-  - policy
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -69,4 +67,4 @@ Industrial control systems represent a unique structure in the cybersecurity lan
 
 ## Disclaimer
 
-*The EPA is not being represented by the author of this publication. The United States government and the EPA do not endorse any commercial or open-source products or services. Any reference to specific products, processes, or services by service mark, trademark, manufacturer, or otherwise is provided for informational purposes and does not constitute or imply their endorsement, recommendation, or favoring by the United States government and the EPA.*
+*This publication has been approved by the EPA Office of Public Affairs (OPA). The United States government and the EPA do not endorse any commercial or open-source products or services. Any reference to specific products, processes, or services by service mark, trademark, manufacturer, or otherwise is provided for informational purposes and does not constitute or imply their endorsement, recommendation, or favoring by the United States government and the EPA.*
