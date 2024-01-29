@@ -9,6 +9,8 @@ topics:
   - analytics
   - content-strategy
   - customer-experience
+  - information-collection
+
 ---
 
 Have you ever wondered how to measure a [customer’s experience]({{< ref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans.
