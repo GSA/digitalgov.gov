@@ -8,7 +8,7 @@ slug: "multimedia"
 title: "Multimedia"
 deck: "Use a combination of media formats to create impactful experiences."
 
-summary: "Multimedia approaches  involve a combination of text, audio, video, graphics, animation, and more. Rather than producing these things individually, multimedia approaches work best when they are created and distributed in concert to deliver a well-rounded and informative user experience."
+summary: "As a form of communication, multimedia involves a combination of content forms, such as text, audio, video, graphics, and animation. Multimedia approaches work best when they are created and distributed to deliver a well-rounded, interactive, and informative user experience."
 
 # Weight
 weight: 2
