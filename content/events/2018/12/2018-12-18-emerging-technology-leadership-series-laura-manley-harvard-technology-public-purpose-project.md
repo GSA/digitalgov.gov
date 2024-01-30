@@ -21,8 +21,8 @@ topics:
   - emerging-tech
   - artificial-intelligence
   - multimedia
-  - virtual-augmented-reality-community
-  - rpa
+  - multimedia
+  - robotic-process-automation
   
 # see all authors at https://digital.gov/authors
 authors: 

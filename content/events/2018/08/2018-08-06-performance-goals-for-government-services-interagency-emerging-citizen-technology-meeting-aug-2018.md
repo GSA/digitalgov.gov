@@ -21,7 +21,7 @@ topics:
   - emerging-tech
   - artificial-intelligence
   - multimedia
-  - virtual-augmented-reality-community
+  - multimedia
 
 # see all authors at https://digital.gov/authors
 authors: 

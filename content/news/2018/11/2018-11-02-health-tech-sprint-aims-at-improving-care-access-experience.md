@@ -12,7 +12,7 @@ topics:
   - design
   - open-data
   - innovation
-  - sprint
+  - product-and-project-management
 featured_image:
   uid: bot
 

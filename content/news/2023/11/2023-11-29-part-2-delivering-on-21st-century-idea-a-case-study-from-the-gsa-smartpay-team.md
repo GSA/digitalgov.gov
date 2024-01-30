@@ -8,7 +8,7 @@ topics:
   - content-strategy
   - governance
   - product-and-project-management
-  - project-management
+  - product-and-project-management
   - professional-development
   - digital-service-delivery
 

@@ -19,7 +19,7 @@ end_date: 2018-04-11 13:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - product-and-project-management
-  - project-management
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors: 

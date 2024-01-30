@@ -14,7 +14,7 @@ topics:
   - emerging-tech
   - social-media
   - artificial-intelligence
-  - virtual-augmented-reality-community
+  - multimedia
   - multimedia
 ---
 

@@ -15,7 +15,7 @@ topics:
   - emerging-tech
   - budgeting-and-performance
   - content-strategy
-  - rpa
+  - robotic-process-automation
 
 # see all authors at https://digital.gov/authors
 authors: 

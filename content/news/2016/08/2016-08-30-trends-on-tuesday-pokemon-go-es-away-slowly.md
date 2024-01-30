@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - emerging-tech
   - multimedia
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 According to a recent report in Bloomberg, the [wildly popular, augmented reality game]({{< ref "2016-07-12-trends-on-tuesday-adoption-for-pokemon-go-mobile-app-goes-crazy.md" >}}) we reported on for [Trends on Tuesday]({{< ref "/topics/emerging-tech" >}}) a few weeks ago&mdash;and the focus of a piece [about government agencies using it to engage citizens]({{< ref "2016-07-12-catch-the-mall-with-pokemon-and-public-services.md" >}})&mdash;appears to have hit a ceiling and is [slowly losing active fans in August](https://www.bloomberg.com/news/articles/2016-08-22/these-charts-show-that-pokemon-go-is-already-in-decline).

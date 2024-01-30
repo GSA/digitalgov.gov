@@ -20,7 +20,7 @@ end_date: 2018-05-29 15:00:00 -0500
 topics: 
   - search
   - search-engine-optimization
-  - seo
+  - search-engine-optimization
 
 # see all authors at https://digital.gov/authors
 authors: 

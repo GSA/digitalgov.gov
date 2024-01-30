@@ -15,7 +15,7 @@ topics:
   - content-strategy
   - content-strategy
   - search-engine-optimization
-  - seo
+  - search-engine-optimization
   - digital-service-delivery
 slug: making-the-big-move-search-in-support-of-federal-web-modernization
 # Controls how this page appears across the site

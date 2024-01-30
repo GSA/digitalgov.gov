@@ -30,7 +30,7 @@ authors:
 # Topics that best describe this product or service
 topics:
   - search-engine-optimization
-  - seo
+  - search-engine-optimization
   - search
 
 ---
