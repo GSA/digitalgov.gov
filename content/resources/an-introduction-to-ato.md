@@ -95,7 +95,8 @@ In this document, you will:
 * Provide technical and policy documentation for the project
 * Give thoughtful answers to security questions
 
-{{< img src="cloud-gov-example-diagram" alt="Users connect to a load balancer, then connect to a cloud.gov router. The router connects to a website, and an API that reads a database." >}}
+{{< img src="cloudgov-diagram-web-app-api" >}}
+
 The security questions come from the National Institute of Standards and Technology (NIST). NIST creates security considerations called "controls." The higher the security level impact (FISMA Level), the more controls your project will be responsible for. Some controls will be already taken care of by your agency or hosting platform.
 
 Many controls can be covered by implementing software correctly, like making sure your website has the logs it needs. Other controls touch on policy and the human element. For example, someone needs to be responsible for making sure accounts are being kept up-to-date, and that people don’t have access to systems after they leave. Take a look at the [security section of the TTS engineering practices guide](https://engineering.18f.gov/security/). It provides technical advice on implementing and documenting your ATO.
