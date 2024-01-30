@@ -101,7 +101,7 @@ The security questions come from the National Institute of Standards and Technol
 
 Many controls can be covered by implementing software correctly, like making sure your website has the logs it needs. Other controls touch on policy and the human element. For example, someone needs to be responsible for making sure accounts are being kept up-to-date, and that people don’t have access to systems after they leave. Take a look at the [security section of the TTS engineering practices guide](https://engineering.18f.gov/security/). It provides technical advice on implementing and documenting your ATO.
 
-These controls are defined in [NIST Special Publication (SP) 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations:](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+These controls are defined in [NIST Special Publication (SP) 800-53 Revision 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final):
 *Part A: [SP 800-53A Rev. 5, Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
 *Part B: [NIST SP 800-53B, Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 
