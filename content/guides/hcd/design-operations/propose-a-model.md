@@ -17,6 +17,6 @@ You can also leverage this socialization and planning time to bring your design 
 
 Future guides in this series will cover measurement and delivery, including how to test with the people who are not participants in your design, but related to it, through their work or their interactions with related systems. Presenting a model for implementation to stakeholders will help you understand how your design will live in the world. Launching is the exciting part where you share your work with the world. Enjoy it!
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 The measurement and delivery guides are currently in development. [Return home?]({{< ref "/guides/hcd/_index.md" >}})
 {{< /note >}}
