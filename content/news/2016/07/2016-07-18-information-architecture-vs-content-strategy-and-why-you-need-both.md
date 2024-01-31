@@ -7,6 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
+  - information-architecture
   - product-management
   - strategy
   - content
