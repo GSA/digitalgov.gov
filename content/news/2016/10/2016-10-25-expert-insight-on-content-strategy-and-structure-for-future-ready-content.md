@@ -14,6 +14,7 @@ topics:
   - content-strategy
   - open-and-structured-content-models
   - structured-content
+  - information-architecture
 ---
 
 We recently interviewed [Sara Wachter-Boettcher](http://www.sarawb.com/), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. Sara, a frequent conference speaker, runs a content strategy consultancy, and is the co-author of _Design for Real Life_. She has extensive experience consulting with major brands, universities, agencies, nonprofits, and others to make their content more memorable, manageable, and sustainable.
