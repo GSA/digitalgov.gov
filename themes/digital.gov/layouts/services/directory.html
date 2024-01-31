@@ -3,15 +3,7 @@
     <div class="grid-container grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
-          {{ $path := "" }}{{ with .File }}
-            {{ $path = .Path }}
-          {{ else }}
-            {{ $path = .Path }}
-          {{ end }}
-          <header
-            class="page-head page-head-{{- .Type -}}"
-            data-gh-edit-page="{{- $path -}}"
-          >
+          <header class="page-head page-head-{{- .Type -}}">
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}}</h1>
 
@@ -38,7 +30,6 @@
         <div class="grid-col-12">
           {{/* Gather all the service pages */}}
           {{- with $services -}}
-
             <div class="service-contact service-contact-heading">
               <div class="grid-row grid-gap-2">
                 <div class="grid-col-12 tablet:grid-col-3">

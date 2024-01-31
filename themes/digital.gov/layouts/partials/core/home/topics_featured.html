@@ -12,12 +12,7 @@
         {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
           {{- if eq .Params.weight 3 -}}
             <div class="grid-col-6 tablet:grid-col-4">
-              {{ $path := "" }}{{ with .File }}
-                {{ $path = .Path }}
-              {{ else }}
-                {{ $path = .Path }}
-              {{ end }}
-              <div class="topic" data-gh-edit-page="{{- $path -}}">
+              <div class="topic">
                 <h3>
                   <a href="{{- .Permalink | absURL -}}" title="{{- .Title -}}"
                     >{{- .Title -}} <span>&#8594;</span></a

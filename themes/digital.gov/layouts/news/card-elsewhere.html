@@ -1,8 +1,3 @@
-{{ $path := "" }}{{ with .File }}
-  {{ $path = .Path }}
-{{ else }}
-  {{ $path = .Path }}
-{{ end }}
 {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
 
 {{/* Unique ID to link article to its title in screen readers */}}
@@ -11,7 +6,6 @@
 
 <article
   class="card card-elsewhere card-linked"
-  data-gh-edit-page="{{- $path -}}"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"
 >
