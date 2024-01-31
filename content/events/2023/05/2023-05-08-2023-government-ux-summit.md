@@ -24,6 +24,7 @@ topics:
   - customer-experience
   - accessibility
   - mobile-apps
+  - information-architecture
 
 slug: 2023-government-ux-summit
 
