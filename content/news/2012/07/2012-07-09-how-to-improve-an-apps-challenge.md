@@ -6,7 +6,7 @@ summary: 'The contest is over, but your work isn’t finished. Maintain a positi
 authors:
   - ktrebon
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - innovation
   - mobile
 ---

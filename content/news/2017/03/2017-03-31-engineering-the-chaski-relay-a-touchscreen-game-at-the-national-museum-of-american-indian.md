@@ -12,6 +12,7 @@ topics:
   - content-strategy
   - software-engineering
   - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---
@@ -46,6 +47,8 @@ A summative evaluation shows that The Chaski Relay is engaging visitors and fulf
 
 While group play was not a primary objective of the game design, the team feels that socialization is one opportunity for improvement in future projects. Simply using a larger screen to allow multiple players to participate could enhance cooperation and social interaction. Overall though, the team is very pleased with the outcomes, and the game is regularly busy. Said Daniel Davis, “We were really fascinated to see how a simple game can be a really effective experience.”
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+---
 
-_Explore DigitalGov for more information on how federal agencies are working with_ [_user experience_]({{< ref "/topics/user-experience" >}}) _(UX) and_ [_user testing_]({{< ref "/topics/research" >}})_,_ [_gamification_]({{< ref "/topics/content-strategy" >}})_, and_ [_multilingual content_]({{< ref "/topics/multilingual" >}}) _to better serve their customers. If you have a .gov or .mil email address, check out and join our_ [_Communities of Practice_]({{< ref "/communities" >}}) _to connect with other feds working in these fields._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_Explore DigitalGov for more information on how federal agencies are working with [user experience]({{< ref "/topics/user-experience" >}}) (UX) and [user testing]({{< ref "/topics/research" >}}), [gamification](https://find.digitalgov.gov/search?utf8=%E2%9C%93&affiliate=digitalgov&query=gamification), and [multilingual content]({{< ref "/topics/multilingual" >}}) to better serve their customers. If you have a .gov or .mil email address, check out and join our [Communities of Practice]({{< ref "/communities" >}}) to connect with other feds working in these fields._

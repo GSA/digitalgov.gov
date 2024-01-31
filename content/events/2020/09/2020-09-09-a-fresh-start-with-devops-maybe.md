@@ -13,9 +13,7 @@ end_date: 2020-09-22 14:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - software-engineering
-  - agile
-  - project-management
-  - professional-development
+  - product-and-project-management
 # See all authors at https://digital.gov/authors
 authors:
   - brian-fox

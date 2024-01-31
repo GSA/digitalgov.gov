@@ -8,7 +8,7 @@ authors:
 topics:
   - user-experience
   - challenges-and-prize-competitions
-  - data-gov
+  - open-data
   - open-government
 ---
 

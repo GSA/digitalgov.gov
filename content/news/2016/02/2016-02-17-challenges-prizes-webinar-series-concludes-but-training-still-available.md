@@ -6,9 +6,7 @@ summary: 'It began with a history lesson and ended with an eye to the future. In
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - challenge-gov
-  - united-states-department-of-energy
+  - challenges-and-prize-competitions
 ---
 
 It began with a history lesson and ended with an eye to the future.

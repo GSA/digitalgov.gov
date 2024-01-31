@@ -6,7 +6,6 @@ summary: 'Agencies have used an open data competition approach in their quest to
 authors:
   - jparcell
 topics:
-
   - challenges-and-prize-competitions
   - mobile
   - open-data

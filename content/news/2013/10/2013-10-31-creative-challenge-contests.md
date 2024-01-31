@@ -8,8 +8,6 @@ authors:
 topics:
   - analytics
   - challenges-and-prize-competitions
-  - content-strategy
-  - product-and-project-management
   - social-media
 ---
 

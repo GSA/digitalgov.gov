@@ -4,7 +4,7 @@ date: 2015-12-01 1:21:33 -0400
 title: Guidance on the Use of Challenges and Prizes to Promote Open Government
 summary: "This guidance calls for the increased use of challenges and prizes to develop new tools and approaches to improve open government, and highlights for agencies policy and legal issues related to the use of prizes and challenges as tools for promoting open government, innovation, and other national priorities."
 topics:
-  - challenges
+  - challenges-and-prize-competitions
 authors:
   - apiazza
 

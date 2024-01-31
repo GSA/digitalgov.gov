@@ -38,7 +38,7 @@ aliases:
 
 ---
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 **The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. It applied to no-cost tools only. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.{{< /note >}}
 
 {{< box >}}

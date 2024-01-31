@@ -6,7 +6,7 @@ summary: Conserving energy is not a shot in the dark. Millions of people can now
 authors:
   - awichman
 topics:
-  - apps-challenges
+  - challenges-and-prize-competitions
   - open-data
   - open-source
 ---

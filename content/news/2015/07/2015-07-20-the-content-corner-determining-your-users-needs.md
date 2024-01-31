@@ -9,8 +9,7 @@ topics:
   - content-strategy
   - user-experience
   - analytics
-  - government-contact-centers
-  - content-strategy
+  - contact-centers
   - usability
 ---
 

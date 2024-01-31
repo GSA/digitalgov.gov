@@ -43,7 +43,9 @@ So, here is a fun weekend project that can teach you more about the exciting tec
 
 To connect with other federal employees experimenting with or successfully working with chatbots, check out and join our some of our [Communities of Practice]({{< ref "/communities" >}}), such as the Web Content Managers Forum, MobileGov, SocialGov, User Experience (UX), or Artificial Intelligence for Citizen Services.
 
-_(All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+---
+
+**Disclaimer**: All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
 

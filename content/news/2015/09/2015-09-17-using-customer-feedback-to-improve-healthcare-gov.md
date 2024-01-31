@@ -2,7 +2,7 @@
 slug: using-customer-feedback-to-improve-healthcare-gov
 date: 2015-09-17 11:10:00 -0400
 title: Using Customer Feedback to Improve HealthCare.gov
-summary: 'We recently polled the Customer Experience Community of Practice (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.'
+summary: 'We recently polled the Customer Experience Community of Practice (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency.'
 
 authors:
   - jacqueline-snee
@@ -10,6 +10,7 @@ authors:
 topics:
   - product-and-project-management
   - customer-experience
+  - information-collection
 
 ---
 

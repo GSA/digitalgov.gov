@@ -12,7 +12,7 @@ authors:
   - jeremyzilar
 topics:
   - product-and-project-management
-  - pra
+  - information-collection
 
 featured_image:
 primary_image: "pra-guide-launch"

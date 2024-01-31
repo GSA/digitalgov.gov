@@ -11,7 +11,7 @@ topics:
   - governance
   - product-and-project-management
   - social-media
-  - data-gov
+  - open-data
   - user-experience
 ---
 

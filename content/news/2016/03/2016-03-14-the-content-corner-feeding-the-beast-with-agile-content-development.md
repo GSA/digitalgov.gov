@@ -7,9 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
-  - agile
-  - content-strategy
-  - content-strategy
+  - product-and-project-management
 ---
 
 I feel as though I have ignored the [beast in the room]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) lately, and since I began my tenure on [The Content Corner]({{< ref "/topics/content-strategy" >}}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.digitalgov.gov/tasks/479).

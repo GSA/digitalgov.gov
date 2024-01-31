@@ -6,7 +6,7 @@ summary: Recruiting the right judges, writing clear rules, and ensuring the publ
 authors:
   - ktrebon
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - innovation
   - mobile
 ---

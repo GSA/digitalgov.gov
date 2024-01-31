@@ -7,7 +7,6 @@ authors:
   - michael-torres
 topics:
   - product-and-project-management
-  - agile
 ---
 
 > _Business people and developers must work together daily throughout the project.—[Agile Manifesto](http://www.agilemanifesto.org/)_

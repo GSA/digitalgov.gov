@@ -74,7 +74,7 @@ Among the most recent competitions:
   * The Environmental Protection Agency (EPA) is looking for [technologies to recycle nutrients from livestock manure](https://www.challenge.gov/challenge/nutrient-recycling-challenge/).
   * The Bureau of Reclamation is looking for solutions to [count food for critical fish species](https://www.challenge.gov/challenge/quantifying-drift-invertebrates-in-river-and-estuary-systems/).
 
-Read more about [successful federal challenges]({{< ref "/topics/challenges" >}}) and best practices for those interested in hosting one.
+Read more about [successful federal challenges]({{< ref "/topics/challenges-and-prize-competitions" >}}) and best practices for those interested in hosting one.
 
 ## Crowdfunding
 

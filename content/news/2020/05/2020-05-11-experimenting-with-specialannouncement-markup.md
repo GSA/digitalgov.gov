@@ -24,7 +24,6 @@ weight: 1
 topics: 
   - content-strategy
   - customer-experience
-  - metadata
   - search-engine-optimization
   - communication
 

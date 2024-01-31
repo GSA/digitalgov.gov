@@ -18,11 +18,8 @@ end_date: 2019-11-05 16:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
-  - software-engineering
   - product-and-project-management
-  - kanban
-  - scrum
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors: 

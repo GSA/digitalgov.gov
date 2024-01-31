@@ -7,10 +7,8 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
-  - challenges
-  - apps-challenges
   - challenges-and-prize-competitions
-  - data-gov
+  - open-data
   - innovation
   - mobile
 ---

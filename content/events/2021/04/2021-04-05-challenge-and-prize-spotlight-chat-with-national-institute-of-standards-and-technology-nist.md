@@ -14,10 +14,7 @@ date: 2021-04-21 13:00:00 -0500
 end_date: 2021-04-21 14:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - challenges
 # See all authors at https://digital.gov/authors
 authors:
   - jarah-meador

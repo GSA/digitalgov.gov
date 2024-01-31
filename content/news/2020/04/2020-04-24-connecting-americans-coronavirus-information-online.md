@@ -20,7 +20,6 @@ summary: "**The American people need access to the most up-to-date public health
 topics: 
   - content-strategy
   - customer-experience
-  - metadata
   - search-engine-optimization
   - communication
 

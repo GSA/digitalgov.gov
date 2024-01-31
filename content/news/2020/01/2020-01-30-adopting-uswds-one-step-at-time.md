@@ -132,7 +132,7 @@ One thing you and your team can do right away is to evaluate the decisions youâ€
 
 Here are a few activities you could use get started:
 
-{{< note "activity" >}}
+{{< note variant="activity" >}}
 
 1. Read over the design principles with your team.
 2. Note which ones resonate most with your team and why.
@@ -140,7 +140,7 @@ Here are a few activities you could use get started:
 
 {{< /note >}}
 
-{{< note "activity" >}}
+{{< note variant="activity" >}}
 
 1. List all of the recent edits (content + functionality) you and your team have made to your website in the last 3 months.
 2. For each edit made, note the actions you took that directly apply to one or more of the design principles.
@@ -158,7 +158,7 @@ Even before adding any USWDS code to your site, you can begin to adopt its user 
 
 Here is an activity you could use get started:
 
-{{< note "activity" >}}
+{{< note variant="activity" >}}
 
 1. Identify USWDS components that your website uses.
 2. Check to see if your siteâ€™s components follow the USWDS usability and accessibility guidance.

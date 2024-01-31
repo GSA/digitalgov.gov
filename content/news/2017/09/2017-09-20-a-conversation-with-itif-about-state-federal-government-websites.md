@@ -34,7 +34,7 @@ Since it’s been nearly six months since the report was released, we wanted to 
 
 ---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Federal agencies can register their mobile products—mobile websites and native apps—on the [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov/) to verify that they’re [mobile-friendly](https://www.digitalgov.gov/2015/10/23/is-your-site-mobile-friendly/), authoritative sources of government information. [Learn more](https://www.digitalgov.gov/2016/02/29/is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry/) about the Registry (there’s also [an instructional webinar](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)), and [sign up here](https://www.digitalgov.gov/services/u-s-digital-registry/)._
 

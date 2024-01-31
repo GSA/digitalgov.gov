@@ -112,6 +112,6 @@ Learn how Tim and and his colleagues at the Department of Veterans Affairs are [
 
 Do you have a 21st Century IDEA-related comment or question? Or would you like to give a shout out to your colleagues? Send it to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we’ll work to incorporate it into the next newsletter.
 
-***
+---
 
-_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

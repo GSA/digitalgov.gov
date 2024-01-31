@@ -20,5 +20,10 @@ Crowdsourcing is the use of an online platform to have a large number of people 
 
 In past columns, I have written about how federal agencies use APIs to supply federal data to apps. This is a vital service, but I also want to encourage agencies to think of ways that they could use crowdsourcing platforms to help citizens provide services to other citizens. Citizens can trust federal agencies to provide safe and reliable crowdsourcing platforms along with valid federal data sources. Citizen volunteers can feel a sense of civic pride while donating just a few minutes of their time to easy but vitally-needed microtasks. Everyone benefits as crowdsourcing becomes another way of delivering public services.
 
-(_The mention of “Be My Eyes” does not imply an endorsement of the app or the organization by the General Services Administration, any other government agencies, or the federal government as a whole._)_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
+
 _Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:bill@billbrantley.com). All opinions are my own and do not reflect the opinions of the USDA and GSA._

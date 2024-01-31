@@ -8,7 +8,7 @@ authors:
 topics:
   - software-engineering
   - social-media
-  - data-gov
+  - open-data
   - open-government
   - open-source
   - terms-of-service

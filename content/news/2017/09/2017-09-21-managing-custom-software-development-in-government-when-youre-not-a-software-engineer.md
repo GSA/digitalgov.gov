@@ -11,9 +11,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - software-engineering
-  - agile
-  - project-management
-  - user-centered-design
+  - human-centered-design
 
 featured_image:
   uid: featured-18f-new-logo-black-bg
@@ -71,4 +69,6 @@ You’ll also need to learn to let go of what you think are “must-haves” (an
 
 Watch for the next post to learn about how to demonstrate the value of these practices to other stakeholders and executives in your organization and how to get their buy-in for working differently.
 
-_Any references to specific brands, products, or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+---
+
+**Disclaimer**: Any references to specific brands, products, or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

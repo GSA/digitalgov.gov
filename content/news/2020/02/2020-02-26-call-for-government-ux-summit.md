@@ -11,12 +11,11 @@ summary: "We're looking for speakers to share their experiences as UX practition
 
 # see all topics at https://digital.gov/topics
 topics:
-  - agile
+  - product-and-project-management
   - design
   - user-experience
   - plain-language
   - research
-  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -33,7 +32,7 @@ primary_image: "ux-government-summit-2020"
 **The Government UX Summit 2020, originially scheduled for May 12 at the Library of Congress, is postponed.** Please check back for scheduling updates on the now virtual only event soon.
 {{< /note >}}
 
-Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/digital-service-delivery/).
+Government agencies are working to provide a better user experience (UX) for everyone, especially with the passage of [21st Century IDEA](https://digital.gov/topics/21st-century-idea/).
 
 Join us as presenters for 2020's Government UX Summit — a great opportunity to hone your UX skills with the best and brightest UX researchers and designers from across the government.
 

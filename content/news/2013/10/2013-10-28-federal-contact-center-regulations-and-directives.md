@@ -7,7 +7,7 @@ authors:
   - tonya-beres
 topics:
   - product-and-project-management
-  - government-contact-centers
+  - contact-centers
   - privacy
   - accessibility
 ---

@@ -16,6 +16,7 @@ topics:
   - content-strategy
   - customer-experience
   - user-centered-design
+  - human-centered-design
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

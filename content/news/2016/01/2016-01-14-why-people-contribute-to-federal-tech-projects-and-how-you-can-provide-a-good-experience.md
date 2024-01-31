@@ -6,7 +6,7 @@ summary: 'Author&#8217;s note: Anyone can contribute to the development of the O
 authors:
   - awichman
 topics:
-  - agile
+  - product-and-project-management
   - professional-development
   - open-source
 ---

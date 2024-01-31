@@ -11,7 +11,7 @@ end_date: 2022-07-20 16:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - diversity-equity-and-inclusion
   - crowdsourcing-and-citizen-science
   - innovation

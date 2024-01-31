@@ -22,9 +22,7 @@ source: digitalgov
 
 # see all topics at https://digital.gov/topics
 topics:
-  - agile
   - product-and-project-management
-  - project-management
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

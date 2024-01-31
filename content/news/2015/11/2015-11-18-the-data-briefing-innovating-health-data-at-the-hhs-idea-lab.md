@@ -6,11 +6,9 @@ summary: 'By the time this is published, the United States, along with 160 other
 authors:
   - bbrantley
 topics:
-  - data-gov
   - innovation
   - open-data
   - emerging-tech
-
 ---
 
 By the time this is published, the United States, along with 160 other countries, will be celebrating <a href="https://www.genglobal.org/gew">Global Entrepreneurship Week</a> (November 16th through November 22nd). November is also <a href="https://obamawhitehouse.archives.gov/the-press-office/2015/11/02/presidential-proclamation-national-entrepreneurship-month-2015">National Entrepreneurship Month</a> with November 17th being National Entrepreneurs’ Day. As President Obama stated in his proclamation: “In keeping with our goal of fostering economic growth through private-sector collaboration, the federal government is accelerating the movement of new technologies from the laboratory to the marketplace, increasing access to research awards for small businesses, **making more data open to the public** [emphasis mine] and catalyzing new industry partnerships in critical fields such as advanced manufacturing and clean energy.” 

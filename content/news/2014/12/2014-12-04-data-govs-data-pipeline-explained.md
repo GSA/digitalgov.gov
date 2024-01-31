@@ -6,8 +6,7 @@ summary: 'In case you missed it: the Data.gov team recently hosted DigitalGov Un
 authors:
   - rebecca-williams
 topics:
-  - data-gov
-  - metadata
+  - search-engine-optimization
   - open-data
 ---
 

@@ -22,10 +22,8 @@ event_platform: google
 
 # see all topics at https://digital.gov/topics
 topics:  
-  - agile
+  - product-and-project-management
   - software-engineering
-  - professional-development
-  - project-management
 
 # see all authors at https://digital.gov/authors
 authors:
