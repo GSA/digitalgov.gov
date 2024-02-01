@@ -7,9 +7,8 @@ authors:
   - ryan-leisinger
 topics:
   - accessibility
-  - content
-  - video
-  - section-508
+  - content-strategy
+  - multimedia
 
 ---
 

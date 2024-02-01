@@ -7,12 +7,6 @@ authors:
   - awichman
 topics:
   - mobile
-  - mobile
-  - mobile-apps
-  - mobile-gov-community-of-practice
-  - mobile-user-experience-guidelines
-  - mobile-ux-guideline-6
-  - mobile-gov
   - security
 
 ---

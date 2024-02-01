@@ -16,7 +16,7 @@ summary: The Office of Management and Budget (OMB) is requesting public comment
   memo has been extended to December 22, 2023.
 # See all topics at https://digital.gov/topics
 topics:
-  - cloud
+  - cloud-and-infrastructure
 slug: extended-comment-period-on-draft-fedramp-memo
 # Controls how this page appears across the site
 # 0 -- hidden

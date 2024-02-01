@@ -6,7 +6,7 @@ summary: ' USDA has been looking for ways to improve content delivery to our cus
 authors:
   - peter-rhee
 topics:
-  - content
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/10/600-x-342-USDA-New-Farmers-homepage.jpg" alt="USDA New Farmers homepage screen shot" >}}

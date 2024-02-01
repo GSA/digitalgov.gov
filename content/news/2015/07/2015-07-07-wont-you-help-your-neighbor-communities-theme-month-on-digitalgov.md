@@ -7,8 +7,8 @@ authors:
   - awichman
 topics:
   - customer-experience
-  - mobile-gov-community-of-practice
-  - socialgov-community
+  - mobile
+  - social-media
 ---
 
 It’s a beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor: no red sweater required.

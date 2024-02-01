@@ -6,9 +6,6 @@ summary: ' In a call to action issued Oct. 7, the White House announced several 
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - apps-challenges
-  - challenge-gov
   - challenges-and-prize-competitions
 ---
 

@@ -8,9 +8,7 @@ authors:
   - brian-fox
 
 topics:
-  - product-management
-  - agile
-  - sprint
+  - product-and-project-management
   - software-engineering
 
 featured_image:

@@ -6,7 +6,7 @@ summary: 'In the wide world of software, maybe you’ve heard someone say this, 
 authors:
   - eric-mill
 topics:
-  - code
+  - software-engineering
   - open-source
 ---
 

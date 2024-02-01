@@ -7,7 +7,7 @@ summary: "The GSA SmartPay program, the largest government charge card and comme
 topics:
   - content-strategy
   - digital-service-delivery
-  - product-management
+  - product-and-project-management
   - project-management
   - user-experience
 

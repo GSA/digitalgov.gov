@@ -8,12 +8,8 @@ authors:
 topics:
   - design
   - mobile
-  - customer-service
-  - internet-of-things
-  - mobile-apps
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-3
-  - trends-on-tuesday
+  - customer-experience
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/02/250-x-280-Tablet-pc-media-concept-DenisKot-iStock-Thinkstock-179029246.jpg" alt="Tablet pc media concept" caption="" >}} 

@@ -11,12 +11,11 @@ topics:
   - challenges-and-prize-competitions
   - customer-experience
   - budgeting-and-performance
-  - mobile-gov
-  - open-opportunities-program
-  - socialgov
+  - mobile
+  - professional-development
+  - social-media
   - user-experience
-  - web-content-managers-forum
-
+  - content-strategy
 ---
 
 As a follow-up to the [recent post about our annual customer satisfaction survey]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results to give you some more insights into how we’re using your feedback to improve our programs and services.

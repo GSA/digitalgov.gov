@@ -12,7 +12,7 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - performance
+  - budgeting-and-performance
   - mobile
   - user-experience
 

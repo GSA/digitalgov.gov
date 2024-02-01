@@ -14,7 +14,7 @@ summary: "We’re excited to share that the new USA.gov and USAGov en Español a
 topics:
   - user-experience
   - design
-  - content
+  - content-strategy
   - multilingual
   - accessibility
 slug: introducing-the-new-usa-gov

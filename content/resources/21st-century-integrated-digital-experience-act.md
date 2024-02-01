@@ -11,7 +11,7 @@ aliases:
   - /resources/omb-m-17-06
   - /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
   - /resources/nara-guidance-on-managing-social-media-records/
-  
+
 date: 2019-11-01 15:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
@@ -29,11 +29,9 @@ topics:
   - analytics
   - multilingual
   - plain-language
-  - product-management
-  - dap
-  - digital-analytics-program
+  - product-and-project-management
 
-# see all authors at https://digital.gov/authors 
+# see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
 
@@ -485,6 +483,20 @@ OMB recommends that agencies prioritize developing digital options for existing 
 
 OMB’s policy guidance (M-23-22) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
 
+{{< box >}}
+**Unlock more resources: Access Max.gov collaboration space**
+
+Max.gov login required: [Collaboration space for M-23-22, Delivering a Digital-First Public Experience](https://community-dc.max.gov/pages/viewpage.action?spaceKey=OFCIO&title=M-23-22+Delivering+a+Digital-First+Public+Experience)
+
+Federal employees can visit Max.gov to discover more governmentwide resources available to implement the action items from M-23-22. The collaboration space includes:
+
+- Answers to frequently asked questions about the agency action items
+- Points of contact for the agency Digital Experience Leads
+- Dates and times of upcoming OMB office hours
+
+While this space is primarily for the agency Digital Experience Leads, it can be accessed by any federal employee.
+{{< /box >}}
+
 For questions on reporting actions, please email the Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
 
 ### Action 1. Identify digital experience delivery lead
@@ -540,7 +552,7 @@ Within `180 days` of the launch of the Federal Services Index (date to be determ
 
 ## Resources
 
-- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/21st-century-idea/)
+- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/digital-service-delivery/)
 - Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 - Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
 - Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)

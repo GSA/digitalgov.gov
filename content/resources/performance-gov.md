@@ -10,7 +10,7 @@ summary: "Performance.gov provides the public, agencies, members of Congress, ac
 
 # See all topics at https://digital.gov/topics
 topics:
-  - performance
+  - budgeting-and-performance
   - product-and-project-management
 
 # Controls how this page appears across the site

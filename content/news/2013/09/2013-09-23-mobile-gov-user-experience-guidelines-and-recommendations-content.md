@@ -4,10 +4,8 @@ date: 2013-09-23 14:02:43 -0400
 title: 'Mobile Gov User Experience Guidelines and Recommendations: Content'
 summary: 'Content refers to the various types of material in different formats, such as text, images and video, that provide information to the user (it also fits into a mobile product&#8217;s information architecture). From the 42 Mobile Gov User Experience guidelines and recommendations released last week, you deemed'
 topics:
-  - content
+  - content-strategy
   - mobile
-  - mobile-apps
-  - mobile-gov
   - user-experience
 ---
 

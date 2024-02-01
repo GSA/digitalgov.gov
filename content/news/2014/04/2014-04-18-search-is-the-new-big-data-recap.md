@@ -6,8 +6,8 @@ summary: 'Search is easy, right? You type a term in a search box and the exact p
 authors:
   - ammie-farraj-feijoo
 topics:
-  - code
-  - content
+  - software-engineering
+  - content-strategy
   - search
   - open-source
 ---

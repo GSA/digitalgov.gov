@@ -6,7 +6,7 @@ summary: ' Two powerhouses in the Challenge and Prize community came together at
 authors:
   - judy-romano
 topics:
-  - challenges
+  - challenges-and-prize-competitions
 ---
 
 {{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}

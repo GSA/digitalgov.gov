@@ -1,3 +1,4 @@
+
 ---
 slug: emerging-technology-for-government-services-meeting
 title: 'Emerging Technology for Government Services Meeting'
@@ -12,16 +13,9 @@ registration_url: https://www.eventbrite.com/e/emerging-technology-for-governmen
 topics:
   - emerging-tech
   - social-media
-  - ai
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - emerging-tech
-  - augmented-reality
-  - blockchain
-  - social-media
   - virtual-augmented-reality-community
-  - virtual-reality
-
+  - multimedia
 ---
 
 This online meeting is for government employees only.

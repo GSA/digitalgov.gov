@@ -7,14 +7,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - Federal Mobile Products Registry
-  - GobiernoUSAgov
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-5
   - multilingual
-  - multilingual-community
-  - thursday-mobile-products
-
 ---
 
 In mobile app development, if you aren&#8217;t making it multilingual, you miss providing anytime, anywhere information and services to important mobile-only audiences.

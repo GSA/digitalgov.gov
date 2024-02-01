@@ -11,7 +11,7 @@ topics:
 
 ---
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 **The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. It applied to no-cost tools only.<br /><br />However, see the note in the blue box below on how to submit a new point of contact update.
 {{< /note >}}
 

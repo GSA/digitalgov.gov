@@ -7,12 +7,8 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
-  - mobile-ux-guideline-5
-  - native-app
-  - native-apps
   - social-media
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/08/500-x-463-tumblr\_inline\_nrj2vgy1eu1tpd7xq_500.jpg" alt="Mobile Addicts App Usage Over-Index chart from Flurry" >}}

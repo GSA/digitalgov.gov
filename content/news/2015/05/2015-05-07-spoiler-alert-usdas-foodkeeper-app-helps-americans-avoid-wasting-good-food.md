@@ -7,10 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - ios
-  - mobile-apps
-  - native-app
-  - thursday-mobile-products
+  - software-engineering
 ---
 
 {{< legacy-img src="2015/05/250-x-444-USDA-Food-Safety-and-Inspection-Service-FoodKeeper-iOS-app-cooking-info.jpg" alt="USDA Food Safety and Inspection Service FoodKeeper iOS app cooking info" >}}**Spoiler Alert:** Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The [U.S. Department of Agriculture](http://www.usda.gov/wps/portal/usda/usdahome) estimates that retailers and consumers waste 36 pounds of food per person each month.

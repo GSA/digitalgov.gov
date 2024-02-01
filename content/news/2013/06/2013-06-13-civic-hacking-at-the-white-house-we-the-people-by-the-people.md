@@ -6,8 +6,7 @@ summary: 'On June 1st and 2nd, more than 11,000 civic activists, technology expe
 authors:
   - lnelson
 topics:
-  - code
-  - national-day-of-civic-hacking
+  - software-engineering
   - open-government
 ---
 

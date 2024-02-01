@@ -6,11 +6,9 @@ summary: 'As DigitalGov focuses on user experience this month it is good to reme
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - design
-  - the-content-corner
   - user-experience
-  
 ---
 
 As DigitalGov focuses on [user experience]({{< ref "2015-11-09-how-ux-effects-change-in-government-one-test-one-customer-survey-at-a-time.md" >}}) this month it is good to remember one harsh truth: You cannot have a good user experience with bad content. It is important to keep a “[content first]({{< ref "2015-07-20-the-content-corner-determining-your-users-needs.md" >}})” strategy in place during any website redesign or new site development. It is so easy for the various disciplines involved in designing a site to lose sight of the content and of each other. {{< legacy-img src="2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 
@@ -39,4 +37,4 @@ The image below helps to demonstrate both the dangers of filler content and a us
 
 Be sure that real content (even if it&#8217;s not final content, just as close to reality as possible) is at the center of any UX consideration such as a redesign. One good way to facilitate this is to have all the members of the design team working closely together: the content expert, the UX designer, and the programmers. This close and frequent interaction helps to organically generate questions and conversation among the team members to give everyone a better understanding of the role content plays in the site and more important, how the user interacts with the content.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -7,16 +7,12 @@ authors:
   - lgodfrey
 topics:
   - accessibility
-  - content
+  - content-strategy
   - design
-  - product-management
-  - strategy
-  - accessibility
+  - product-and-project-management
   - multilingual
-  - multilingual-community
-  - user-centered-design
+  - human-centered-design
   - user-experience
-  
 ---
 
 About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth]({{< ref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).

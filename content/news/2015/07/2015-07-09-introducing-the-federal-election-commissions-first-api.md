@@ -6,8 +6,7 @@ summary: ' The Federal Election Commission (FEC) empowers citizens with the info
 authors:
   - lindsay-young
 topics:
-  - api
-  - api
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/07/600-x-250-openfec-banner.jpg" alt="Federal Election Commission (FEC) OpenFEC banner for exploring campaign finance data" >}}

@@ -6,11 +6,9 @@ summary: '&ldquo;User Experience&rdquo; and &ldquo;Customer Experience.&rdquo; T
 authors:
   - tlowden
 topics:
-  - aoi
-  - customer-experience
-  - digitalgov-user-experience-program
-  - search-engine-optimization
   - user-experience
+  - customer-experience
+  - search-engine-optimization
 ---
 
 “User Experience” and “Customer Experience.” They sound pretty similar, right?

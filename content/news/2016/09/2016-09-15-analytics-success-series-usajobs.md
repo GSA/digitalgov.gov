@@ -7,14 +7,10 @@ authors:
   - cory-benavente
   - dywane-boyd
 topics:
-  - metrics
-  - user-testing-and-research
+  - open-data
   - analytics
-  - dap
-  - digital-analytics-program
-  - metrics
+  - research
   - user-experience
-
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._

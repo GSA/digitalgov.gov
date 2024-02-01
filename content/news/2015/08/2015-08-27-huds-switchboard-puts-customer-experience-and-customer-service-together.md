@@ -6,9 +6,8 @@ summary: 'Customer experience is about making sure needs are met. It’s certain
 authors:
   - zachary-lerner
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-service
 ---
 
 Customer experience is about making sure needs are met. It’s certainly not a new concept for business; every bookstore has a customer service section. Government agencies are slightly different though. Often people are driven to public services by need or regulation, not choice. Government traditionally didn’t need to court positive attention.

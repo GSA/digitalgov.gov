@@ -7,9 +7,8 @@ summary: This guide provides acquisition professionals the steps and resources n
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
-  - agile
+  - product-and-project-management
   - open-source
-  - project-management
   - best-practices
 # See all authors at https://digital.gov/authors
 authors:

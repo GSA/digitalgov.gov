@@ -6,9 +6,6 @@ summary: ' Let&#8217;s ponder this for a moment: Maybe you live in South'
 topics:
   - mobile
   - customer-experience
-  - mobile
-  - responsive-web-design
-  - thursday-mobile-products
   - user-experience
 ---
 

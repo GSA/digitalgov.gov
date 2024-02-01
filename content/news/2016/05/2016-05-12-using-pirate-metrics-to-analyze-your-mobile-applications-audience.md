@@ -6,15 +6,9 @@ summary: "There are over 200 native applications in the federal government with 
 authors:
   - jparcell
 topics:
-  - metrics
+  - analytics
   - mobile
-  - metrics
-  - mobile-apps
-  - mobile-gov-community-of-practice
-  - mobile-gov
-  - native-apps
-  - prototype
-
+  - design
 ---
 
 What Makes a Native App Successful?

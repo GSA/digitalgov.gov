@@ -8,12 +8,7 @@ authors:
 topics:
   - accessibility
   - mobile
-  - "508"
-  - accessibility
-  - mobile-ux-guideline-2
-  - mobile-ux-guideline-3
-  - native-apps
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Man-with-infantile-cerebral-palsy-using-a-computer-Horsche-iStock-Thinkstock-513396687.jpg" alt="Man with infantile cerebral palsy using a computer" caption="" >}} 

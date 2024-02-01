@@ -8,7 +8,7 @@ authors:
   - allison-baker
   - perryn-ashmore
 topics:
-  - cloud
+  - cloud-and-infrastructure
   - data-visualization
   - open-data
 ---

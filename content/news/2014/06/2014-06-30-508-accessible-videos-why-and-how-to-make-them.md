@@ -10,8 +10,7 @@ authors:
 topics:
   - accessibility
   - user-experience
-  - video
-  - section-508
+  - multimedia
   - social-media
 ---
 

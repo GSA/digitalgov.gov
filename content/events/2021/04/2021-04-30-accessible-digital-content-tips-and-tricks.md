@@ -13,7 +13,7 @@ end_date: 2021-05-26 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - alex-wilson

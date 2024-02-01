@@ -7,7 +7,6 @@ authors:
   - dmccleskey
 topics:
   - search
-  - GobiernoUSAgov
   - multilingual
 ---
 

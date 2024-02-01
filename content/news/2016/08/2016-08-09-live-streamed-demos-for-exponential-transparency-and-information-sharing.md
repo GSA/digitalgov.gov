@@ -6,16 +6,10 @@ summary: 'This spring, the eRegulations Notice & Comment team began building out
 authors:
   - wsullivan
 topics:
-  - code
-  - content
-  - product-management
-  - strategy
-  - video
-  - audio
-  - audio-video
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
   - multimedia
-  - video
-
 ---
 
 This spring, the [eRegulations Notice & Comment team](https://18f.gsa.gov/2016/07/26/new-pilot-aims-to-streamline-notice-and-comment-process/) began building out a new feature set for the platform — adding the ability for agencies with proposed regulations to show the public more precisely the changes being proposed and allow agencies to receive more granular, contextual, and better-organized comments.

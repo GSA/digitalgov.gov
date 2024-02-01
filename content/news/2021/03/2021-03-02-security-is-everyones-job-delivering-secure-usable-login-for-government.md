@@ -10,12 +10,12 @@ summary: How login.gov incorporated human centered design and continuous
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - login-gov
   - user-experience
   - design
   - research
   - privacy
   - user-centered-design
+  - human-centered-design
 # See all authors at https://digital.gov/authors
 authors:
   - julia-elman

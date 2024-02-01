@@ -6,8 +6,8 @@ summary: "The increasing presence of big data and all things digital will requir
 authors:
   - kdaniel
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - professional-development
 
 ---

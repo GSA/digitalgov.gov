@@ -7,20 +7,14 @@ authors:
   - robin-thottungal
   - kris-rowley
 topics:
-  - api
-  - challenges
+  - application-programming-interface
   - crowdsourcing-and-citizen-science
-  - apps-challenges
-  - challenge-gov
+  - content-strategy
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
   - data-visualization
   - innovation
-  - mobile-apps
-  - national-day-of-civic-hacking
+  - mobile
+  - software-engineering
   - open-data
   - open-government
 ---

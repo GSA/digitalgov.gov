@@ -14,10 +14,9 @@ deck: "**Sunsetting Go.USA.gov: Frequently Asked Questions**&mdash;For more than
 summary:
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - design
   - multilingual
-  - metrics
   - analytics
 slug: sunsetting-go-usa-gov-frequently-asked-questions
 # Controls how this page appears across the site

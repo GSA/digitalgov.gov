@@ -6,9 +6,7 @@ summary: With Web analytics tools you have the data to see what citizens really 
 authors:
   - sarah-kaczmarek
 topics:
-  - metrics
-  - dap
-  - digital-analytics-program
+  - analytics
 ---
 
 {{< legacy-img src="2014/06/250-x-176-Web-Analytics-FY2014-Q3-report-April-to-June-template-icon1.jpg" alt="250-x-176-Web-Analytics-FY2014-Q3-report-April-to-June-template-icon1" >}}With Web analytics tools you have the data to see what citizens really want on your website and how well you are delivering. You have an opportunity to make informed decisions on improvements to your site to reflect the voice of the customer and get constituents what they need.

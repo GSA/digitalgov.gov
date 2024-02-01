@@ -6,7 +6,7 @@ summary: 'Digital Marketing Evangelist and analytics guru Avinash Kaushik recent
 authors:
   - rflagg
 topics:
-  - product-management
+  - product-and-project-management
 ---
 
 [{{< legacy-img src="2014/02/Digital-Content-Venn-Diagram.jpg" alt="Venn diagram highlighting what your digital content should include." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Digital-Content-Venn-Diagram.jpg)Digital Marketing Evangelist and analytics guru Avinash Kaushik recently published a fascinating article on [Six Visual Solutions To Complex Digital Marketing/Analytics Challenges](http://www.kaushik.net/avinash/six-visual-digital-marketing-analytics-strategic-solutions/). The article is especially relevant to government organizations, because it talks about the importance of dynamic vs. static content. Government agencies tend to have a LOT of static content on our websites&#8230; but once someone has read an article on your site, will they ever come back? How can we draw in new readers, and re-engage past visitors to return? How can we bring new life to older, evergreen content?

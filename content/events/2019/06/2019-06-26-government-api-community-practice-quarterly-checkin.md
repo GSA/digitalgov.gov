@@ -23,10 +23,10 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 categories:
-  - api
+  - application-programming-interface
 tag:
-  - api
-  - api
+  - application-programming-interface
+  - application-programming-interface
 
 ---
 

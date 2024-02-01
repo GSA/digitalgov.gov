@@ -7,11 +7,9 @@ authors:
   - georgia-gallavin
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - digitalgov-user-experience-program
-  - usability-testing
-
+  - usability
 ---
 
 Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the [System Usability Scale](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), introduced in 1986 by an engineer named John Brooke, who was trying to solve this very dilemma.

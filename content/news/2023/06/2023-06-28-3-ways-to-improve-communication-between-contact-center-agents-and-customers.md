@@ -14,7 +14,7 @@ summary: The USAGov Contact Center is committed to meeting customers’ needs
 topics:
   - user-experience
   - accessibility
-  - performance
+  - budgeting-and-performance
   - analytics
 slug: 3-ways-to-improve-communication-between-contact-center-agents-and-customers
 # Controls how this page appears across the site

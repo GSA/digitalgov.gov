@@ -6,11 +6,11 @@ summary: 'Good customer service includes user-centered design. For one digital t
 authors:
   - awichman
 topics:
-  - user-testing-and-research
-  - a-b-testing
+  - research
   - content-strategy
   - social-media
   - user-centered-design
+  - human-centered-design
   - user-experience
 ---
 

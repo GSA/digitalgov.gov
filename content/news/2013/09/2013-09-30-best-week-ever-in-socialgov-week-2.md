@@ -6,9 +6,8 @@ summary: '(This is the second installment of an ongoing series charting the prog
 authors:
   - jherman
 topics:
-  - social-media
   - accessibility
-  - socialgov
+  - social-media
 ---
 
 {{< legacy-img src="2014/06/600-x-430-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and live-streamed guests from Australia, Ireland and Canada." caption="" >}} 

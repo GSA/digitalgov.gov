@@ -6,18 +6,15 @@ summary: 'Users don’t like surprises. Unexpected or unwanted content undermine
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - trust
   - analytics
   - search
-  - digitalgov-user-experience-program
+  - user-experience
   - plain-language
   - search-engine-optimization
   - usability
-  - usability-testing
   - user-experience
-  - user-experience-community-of-practice
-  
 ---
 
 Users don’t like surprises.

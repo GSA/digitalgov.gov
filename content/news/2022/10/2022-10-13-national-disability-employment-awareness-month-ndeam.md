@@ -9,7 +9,7 @@ summary: "Observed annually in October, NDEAM celebrates the contributions of Am
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 slug: national-disability-employment-awareness-month-ndeam
 # Controls how this page appears across the site
 # 0 -- hidden

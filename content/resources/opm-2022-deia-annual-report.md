@@ -8,7 +8,7 @@ summary: "Office of Personnel Management (OPM) 2022 Annual Report"
 
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 
 slug: opm-2022-deia-annual-report
 

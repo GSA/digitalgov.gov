@@ -8,10 +8,7 @@ featured_image:
   uid: army-mobile
 topics:
   - mobile
-  - strategy
-  - mobile-gov
-  - mobile-gov-community-of-practice
-
+  - content-strategy
 ---
 
 _This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration._
@@ -280,4 +277,4 @@ We used the following steps to conduct this study:
 
 ---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

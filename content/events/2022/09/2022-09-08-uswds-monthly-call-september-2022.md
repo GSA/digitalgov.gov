@@ -12,8 +12,7 @@ end_date: 2022-09-15 15:00:00 -0500
 topics:
   - user-experience
   - multilingual
-  - multilingual-community
-  - content
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

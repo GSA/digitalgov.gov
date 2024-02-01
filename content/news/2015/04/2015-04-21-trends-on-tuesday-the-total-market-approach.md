@@ -6,13 +6,11 @@ summary: Your audience is not homogenous. No matter the agency, target audiences
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - diversity-equity-and-inclusion
   - multilingual
-  - personas
+  - research
   - usability
-  - usability-case-study
-
 ---
 
 Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities.

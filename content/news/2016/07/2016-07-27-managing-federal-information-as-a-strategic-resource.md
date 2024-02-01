@@ -9,8 +9,8 @@ authors:
   - anne-rung
   - marc-groman
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - acquisition
   - open-data
   - privacy

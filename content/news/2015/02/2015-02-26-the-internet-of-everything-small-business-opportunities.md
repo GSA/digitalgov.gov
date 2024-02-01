@@ -7,7 +7,7 @@ authors:
   - david-a-bray
   - g-nagesh-rao
 topics:
-  - product-management
+  - product-and-project-management
   - privacy
   - security
 ---

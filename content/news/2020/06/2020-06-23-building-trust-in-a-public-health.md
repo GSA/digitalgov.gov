@@ -19,7 +19,7 @@ summary: ""
 # see all topics at https://digital.gov/topics
 topics: 
   - accessibility
-  - content
+  - content-strategy
   - content-strategy
   - design
 

@@ -6,9 +6,9 @@ summary: ' As we move into 2015, the amount of data available in the digital eco
 authors:
   - kdaniel
 topics:
-  - big-data
-  - internet-of-things
-  - trends-on-tuesday
+  - open-data
+  - analytics
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870" >}}

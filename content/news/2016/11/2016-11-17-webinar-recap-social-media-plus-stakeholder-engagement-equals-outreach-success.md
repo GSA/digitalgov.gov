@@ -6,18 +6,11 @@ summary: 'Summary: How to leverage your resources to reach Spanish-dominant Hisp
 authors:
   - victoria-wales
 topics:
-  - content
-  - social-media
-  - user-testing-and-research
-  - user-experience
-  
-  - content
   - content-strategy
-  - content-syndication
-  - multilingual
   - social-media
-  - user research
-
+  - user-experience
+  - multilingual
+  - research
 ---
 
 > _Summary: How to leverage your resources to reach Spanish-dominant Hispanics online._

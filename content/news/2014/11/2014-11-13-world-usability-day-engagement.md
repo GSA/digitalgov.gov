@@ -6,10 +6,8 @@ summary: 'There are many buzzwords thrown around in the digital government unive
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
-  - digitalgov-user-experience-program
+  - research
   - user-experience
-  
 ---
 
 There are many buzzwords thrown around in the digital government universe, but the most impactful ideas are rooted in one action: engagement. Whether it is a tweet, a mobile app, or a community of practitioners, every digital program or service requires interaction between an organization and its customer.

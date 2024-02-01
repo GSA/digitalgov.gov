@@ -7,10 +7,9 @@ authors:
   - georgia-gallavin
 topics:
   - design
-  - metrics
-  - user-testing-and-research
+  - analytics
+  - research
   - user-experience
-  - digitalgov-user-experience-program
   - usability
 ---
 

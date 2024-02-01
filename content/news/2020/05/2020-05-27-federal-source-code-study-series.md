@@ -18,7 +18,7 @@ summary: "**Federal Source Code Study Series** &mdash; Read the first article of
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - code
+  - software-engineering
   - open-source
 
 # see all authors at https://digital.gov/authors

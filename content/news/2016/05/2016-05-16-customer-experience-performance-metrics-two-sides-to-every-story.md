@@ -6,9 +6,9 @@ summary: Performance metrics, targets and public reporting are not new in govern
 authors:
   - stephanie-thum
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - metrics
+  - analytics
 ---
 
 Performance metrics, targets and public reporting are not new in government; however, customer-oriented metrics have been underutilized and under-reported publicly for a long time. Today, as the principles of customer experience as a management discipline gain momentum across the federal government, there is an opportunity to use data to tell more of the story where customers&#8217; experiences are concerned.

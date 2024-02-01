@@ -19,6 +19,7 @@ end_date: 2019-07-23 15:15:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - user-centered-design
+  - human-centered-design
 
 # see all authors at https://digital.gov/authors
 authors: 

@@ -7,20 +7,11 @@ authors:
   - j-todd-breasseale
 topics:
   - accessibility
-  - content
-  - design
-  - product-management
-  - mobile
-  - strategy
-  - "508"
-  - accessibility
-  - content
   - content-strategy
-  
+  - design
+  - product-and-project-management
   - mobile
-  - responsive-web-design
-  - section-508
-  - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

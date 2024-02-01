@@ -19,11 +19,10 @@ end_date: 2023-06-14 16:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - user-research
+  - research
   - design
   - customer-experience
   - accessibility
-  - mobile-apps
   - information-architecture
 
 slug: 2023-government-ux-summit

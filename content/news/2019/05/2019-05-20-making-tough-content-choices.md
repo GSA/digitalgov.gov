@@ -17,10 +17,10 @@ source: doi-revenuedata
 
 # see all topics at https://digital.gov/topics
 topics:
-  - content
-  - product-management
   - content-strategy
-  - strategy
+  - product-and-project-management
+  - content-strategy
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors:

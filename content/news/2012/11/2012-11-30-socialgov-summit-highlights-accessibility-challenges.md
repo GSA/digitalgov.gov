@@ -8,8 +8,6 @@ authors:
 topics:
   - accessibility
   - social-media
-  - socialgov
-
 ---
 
 The recent #SocialGov Summit on accessibility of government social media raised emerging issues faced by agencies in their effort to make sure the information citizens need is communicated to them when and how they need it. For many, the most eye opening exercise was simply to hear their tweets read back to them through an iPhone VoiceOver screen reader, experiencing firsthand how vision-impaired citizens receive their content.

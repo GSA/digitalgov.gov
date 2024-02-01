@@ -6,10 +6,8 @@ summary: It seems of late that the focus on coding and technology within the fed
 authors:
   - tyrus-manuel
 topics:
-  - code
-  - content
   - content-strategy
-  - the-content-corner
+  - software-engineering
 ---
 
 It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content still can&#8217;t help the user. And there is no code that I know of that can make bad content better for the user, aside from the [algorithmically-derived content]({{< ref "2015-08-03-the-content-corner-rise-of-the-machines.md" >}}) previously discussed. {{< legacy-img src="2016/03/600-x-400-Web-design-infographic-elieli-iStock-Thinkstock-184707017.jpg" alt="Illustration showing a web page on a laptop, surrounded by bubbles with the names of different web development languages; HTML5, CSS, XML, etc." caption="" >}} 
@@ -39,4 +37,4 @@ So how can we inspire people to design better content in equal, or dare I say, a
 
 An example that I admittedly call attention to frequently is the work CDC is doing with their [content syndication]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}). One reason it&#8217;s a personal favorite is that it&#8217;s a wonderful example of technology allowing critical, well-considered content ([Zika virus micro sites]({{< ref "2016-02-11-microsites-keep-your-audience-updated-on-outbreaks.md" >}}), for instance) to be dispersed to more users with greater efficiency. It&#8217;s that essential equilibrium between code and content that we need to be cognizant of and be sure that content never becomes less important than code
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -11,7 +11,7 @@ summary: "Sunshine Week (March 13-19, 2022) celebrates the Government in the Sun
 topics:
   - open-government
   - accessibility
-  - strategy
+  - content-strategy
   - customer-experience
 
 # See all authors at https://digital.gov/authors

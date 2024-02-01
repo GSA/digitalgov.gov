@@ -29,7 +29,7 @@ authors:
 
 ---
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 **The Federal Crowdsource Mobile Testing Program** at the U.S. General Services Administration (GSA) is no longer active. This page will be archived.
 {{< /note >}}
 
@@ -59,4 +59,4 @@ Whether you have a site ready for testing or want to join our cadre of volunteer
 
 Our program has tested a native app or two, but there have been some challenges to doing so. If your app is already in the app stores, then we won’t have a problem. Just send us an email and let us know how we might be able to help.
 
-_Want to learn more about what we've learned in the Federal Crowdsource Mobile Testing program? [Check out our lessons learned blog posts]({{< ref "/topics/mobile-testing" >}})!_
+_Want to learn more about what we've learned in the Federal Crowdsource Mobile Testing program? [Check out our lessons learned blog posts]({{< ref "/topics/mobile" >}})!_

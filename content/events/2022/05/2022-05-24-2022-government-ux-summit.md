@@ -13,7 +13,7 @@ topics:
   - user-experience
   - customer-experience
   - design
-  - user-research
+  - research
   - accessibility
   - information-architecture
 

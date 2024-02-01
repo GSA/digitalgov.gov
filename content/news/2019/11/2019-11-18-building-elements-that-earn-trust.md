@@ -11,9 +11,8 @@ authors:
   - dan-williams
 
 topics:
-  - product-management
-  - 21st-century-idea
-  - this-weeks-idea
+  - product-and-project-management
+  - digital-service-delivery
   - trust
 
 featured_image:

@@ -34,7 +34,7 @@ logo: doj
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 
 # Make it better ♥
 

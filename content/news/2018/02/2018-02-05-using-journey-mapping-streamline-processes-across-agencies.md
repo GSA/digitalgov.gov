@@ -8,10 +8,8 @@ authors:
   - lgodfrey
 topics: 
   - design
-  - metrics
-  - content
-  - metrics
   - analytics
+  - content-strategy
   - user-experience
   - accessibility
   - customer-experience

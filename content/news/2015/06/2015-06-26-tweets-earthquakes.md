@@ -6,8 +6,8 @@ summary: When one thinks of social media, usually it is thought of as a tool to 
 authors:
   - kdaniel
 topics:
-  - social-media
-  - api
+  - application-programming-interface
+  - open-data
   - data-visualization
   - social-media
 ---

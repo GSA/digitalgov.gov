@@ -8,13 +8,10 @@ authors:
   - jamie-albrecht
 topics:
   - design
-  - product-management
-  - strategy
-  - user-testing-and-research
+  - product-and-project-management
+  - content-strategy
   - user-experience
   - research
-  - sprint
-  - user-research
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428
   alt:
@@ -92,8 +89,8 @@ Sharing findings as you go along will help you stay focused on user needs and ke
 
 Even though we’re a distributed team, we recognize that not all research methods work well remotely. For example, [contextual inquiry](https://methods.18f.gov/discover/contextual-inquiry/) is most valuable when you can observe people in their typical physical environment. Don’t skip out on face-to-face time between your users and fellow researchers. It will make the periods when you’re remote that much more effective.
 
-* * *
+---
 
 _How do you manage remote research projects? Let us know on Twitter: [@18F](https://twitter.com/18F/)_
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

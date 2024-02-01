@@ -6,8 +6,7 @@ summary: 'During the recent redesign of Data.gov, the team developed a process t
 authors:
   - andreanocesigritz
 topics:
-  - content
-  - data-gov
+  - content-strategy
   - open-source
 ---
 

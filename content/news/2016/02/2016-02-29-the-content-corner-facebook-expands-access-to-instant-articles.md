@@ -6,13 +6,8 @@ summary: As I begin to wind down my time at The Content Corner, I have realized 
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - social-media
-  - content-models
-  - open-and-structured-content-models
-  - social-media
-  - structured-content
-  - the-content-corner
 ---
 
 As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is [digital sharecropping]({{< ref "2015-10-26-the-content-corner-twitter-apple-news-and-the-importance-of-our-websites.md" >}}). The [recent announcement from Facebook](https://contently.com/strategist/2016/02/17/facebook-will-likely-open-instant-articles-to-brands-publishers-grandma) that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic of owning and controlling our content one more time. {{< legacy-img src="2016/02/600-x-400-National-Geographic-Instant-Article-Facebook.jpg" alt="An Instant Article by National Geographic seen on a smart phone." caption="" >}} 
@@ -149,4 +144,4 @@ As opposed to the very real concern about generating content that can only live 
 
 This sentence from [Facebook’s Dev News page](https://developers.facebook.com/blog/post/2015/09/22/instant-articles-from-CMS/) says it all: “Each Instant Article is associated with the URL where the Web version is hosted on the publisher&#8217;s website.” Your content remains on your site; if applicable, an Instant Article version of your content will be displayed and will leverage the speed and media features that Facebook has, but in other instances a user will be directed to your site. So instead of being a digital sharecropper, Instant Articles serves a more traditional social media function as a place to display your own wares.
 
-Is the mad grab for your content over? I don’t think so, and I still feel we should remain cautious where we generate custom content as opposed to sharing our content. I remain protective of the place our agency websites play in maintaining a clear brand identity to our citizens. However, I also respect the need to display content in the fastest and most accessible manner technology allows. Facebook Instant Articles seems initially like another way to honor both of those goals. Anyone out there thinking of leveraging Instant Articles? Is anyone already doing it? Share your thoughts and experiences below._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Is the mad grab for your content over? I don’t think so, and I still feel we should remain cautious where we generate custom content as opposed to sharing our content. I remain protective of the place our agency websites play in maintaining a clear brand identity to our citizens. However, I also respect the need to display content in the fastest and most accessible manner technology allows. Facebook Instant Articles seems initially like another way to honor both of those goals. Anyone out there thinking of leveraging Instant Articles? Is anyone already doing it? Share your thoughts and experiences below._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

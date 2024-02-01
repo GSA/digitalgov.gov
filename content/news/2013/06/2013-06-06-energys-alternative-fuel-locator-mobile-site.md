@@ -7,8 +7,6 @@ authors:
   - brandon-barr
 topics:
   - mobile
-  - mobile-gov
-  - thursday-mobile-products
   - united-states-department-of-energy
 ---
 

@@ -5,7 +5,6 @@ title: "Spanish Language Style Guide and Glossaries: Spanish Health Care Terms i
 summary: "A list of common English health care and medical terms, and their Spanish translations."
 topics:
   - multilingual
-  - multilingual-community
 authors:
   - lgodfrey
   - lmartinez

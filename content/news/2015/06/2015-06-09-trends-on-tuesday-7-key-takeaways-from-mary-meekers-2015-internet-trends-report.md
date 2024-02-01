@@ -6,13 +6,9 @@ summary: ' Silicon Valley analyst Mary Meeker’s annual 2015 Internet Trends re
 authors:
   - wsullivan
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - mobile
-  - mobile-ux-guideline-2
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Government-Just-Beginning.jpg)

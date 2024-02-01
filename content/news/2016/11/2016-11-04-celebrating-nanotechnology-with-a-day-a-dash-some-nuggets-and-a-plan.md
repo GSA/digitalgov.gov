@@ -8,8 +8,8 @@ authors:
   - lisa-friedersdorf
 topics:
   - governance
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - innovation
 ---
 

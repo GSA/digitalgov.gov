@@ -7,7 +7,6 @@ authors:
   - jamal-mazrui
 topics:
   - accessibility
-  - section-508
 
 ---
 

@@ -6,9 +6,8 @@ summary: "If you plan for accessibility when creating and posting media, you can
 authors:
   - angela-hooker
 topics:
-  - user-testing-and-research
+  - research
   - accessibility
-  - section-508
 
 ---
 

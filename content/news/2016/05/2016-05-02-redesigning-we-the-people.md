@@ -6,16 +6,14 @@ summary: 'Summary: Improving the way you engage with the White House through our
 authors:
   - jason-goldman
 topics:
-  - content
-  - design
-  - product-management
-  - mobile
-  - user-testing-and-research
   - content-strategy
+  - design
+  - product-and-project-management
   - mobile
+  - research
   - user-centered-design
+  - human-centered-design
   - user-experience
-  
 ---
 
 > Summary: Improving the way you engage with the White House through our online petitions platform

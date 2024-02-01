@@ -9,21 +9,19 @@ authors:
   - bbrantley
 topics:
   - emerging-tech
-  - product-management
-  - the-data-briefing
+  - product-and-project-management
+  - emerging-tech
   - user-experience
-  - 3d-printing
+  - emerging-tech
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - augmented-reality
-  - blockchain
+  - emerging-tech
   - customer-experience
-  - customer-service
-  - Human Resources
-  - infrastructure
+  - customer-experience
+  - professional-development
+  - cloud-and-infrastructure
   - innovation
-  - internet-of-things
-  - virtual-reality
+  - emerging-tech
+  - multimedia
   - virtual-augmented-reality-community
 ---
 

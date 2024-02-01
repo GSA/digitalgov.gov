@@ -6,8 +6,7 @@ summary: 'As the nation’s primary platform for sharing and improving governmen
 authors:
   - code-gov
 topics:
-  - code
-  - code
+  - software-engineering
 ---
 
 **As the nation’s primary platform for sharing and improving government software, Code.gov can help the government save millions of taxpayer dollars.**

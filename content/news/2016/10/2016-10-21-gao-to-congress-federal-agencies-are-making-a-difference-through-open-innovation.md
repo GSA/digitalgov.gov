@@ -6,15 +6,9 @@ summary: 'Federal agencies confront tough problems every day. In searching for s
 authors:
   - eric-beidel
 topics:
-  - challenges
   - crowdsourcing-and-citizen-science
-  - product-management
-  - strategy
-  - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
+  - product-and-project-management
+  - content-strategy
   - innovation
   - open-data
 ---

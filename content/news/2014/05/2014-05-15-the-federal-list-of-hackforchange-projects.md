@@ -6,11 +6,9 @@ summary: 'You should be on this list&mdash;the current federal government partic
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - challenge-gov
-  - data-gov
-  - national-day-of-civic-hacking
-  - united-states-census-bureau
+  - challenges-and-prize-competitions
+  - open-data
+  - software-engineering
 ---
 
 You should be on this list—the current federal government participants in the <a title="civic hack day" href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a>.

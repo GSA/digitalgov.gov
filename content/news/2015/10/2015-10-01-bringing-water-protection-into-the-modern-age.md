@@ -6,7 +6,7 @@ summary: Information technology is everywhere. How we communicate, and how we sh
 authors:
   - cynthia-giles
 topics:
-  - product-management
+  - product-and-project-management
   - open-data
 ---
 

@@ -7,10 +7,9 @@ authors:
   - nathan-smith
   - dmccleskey
 topics:
-  - product-management
+  - product-and-project-management
   - cloud-and-infrastructure
   - search
-  - infrastructure
 ---
 
 _This is post 4 in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< ref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}). This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already._ 

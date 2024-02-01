@@ -6,11 +6,6 @@ summary: 'Ask, and you shall receive. That was the strategy behind the new homep
 topics:
   - design
   - mobile
-  - mobile-gov
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-4
-  - responsive-web-design
-  - thursday-mobile-products
 ---
 
 Ask, and you shall receive.

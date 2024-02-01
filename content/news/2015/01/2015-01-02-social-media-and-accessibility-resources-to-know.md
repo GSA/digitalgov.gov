@@ -8,10 +8,7 @@ authors:
 topics:
   - accessibility
   - social-media
-  - aoi
-  - section-508
-  - socialgov-community
-  
+  - user-experience
 ---
 
 {{< legacy-img src="2014/12/600-x-452-Social-media-network-background-with-icons-vector-VLADGRIN-iStock-Thinkstock-470847401.jpg" alt="Social media network background with icons" caption="" >}} 

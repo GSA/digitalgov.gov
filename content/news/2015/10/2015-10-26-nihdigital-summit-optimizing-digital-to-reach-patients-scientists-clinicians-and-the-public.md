@@ -6,7 +6,7 @@ summary: ' On October 19th, NIH brought together nearly 1,500 digital and health
 authors:
   - alison-lemon
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
 ---
 

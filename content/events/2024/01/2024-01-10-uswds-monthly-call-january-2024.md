@@ -12,7 +12,7 @@ end_date: 2024-01-18 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - user-research
+  - research
   - design
 slug: uswds-monthly-call-january-2024
 # zoom, youtube_live, adobe_connect, google
@@ -20,6 +20,8 @@ event_platform: zoom
 primary_image: 2024-uswds-monthly-call-jan-title-card
 
 ---
+
+{{< asset-static file="uswds-monthly-call-january-2024.pptx" label="View the slides (PowerPoint presentation, 7.8 MB, 87 pages)" >}}
 
 Join the U.S. Web Design System (USWDS) team as they continue to highlight accessibility by discussing the new component-based accessibility test pages and talk more about their development and phased rollout.
 

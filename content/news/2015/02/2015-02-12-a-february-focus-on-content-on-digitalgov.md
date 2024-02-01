@@ -6,9 +6,7 @@ summary: 'Good content drives your digital presence. No matter what you produce 
 authors:
   - andreanocesigritz
 topics:
-  - content
   - content-strategy
-  - the-content-corner
 ---
 
 Good content drives your digital presence. No matter what you produce content for—social media, websites, blogs—getting people to see your work is critical. But getting noticed is not as easy as it used to be. A recent Vox article on the [future of blogging](http://www.vox.com/2015/1/30/7948091/andrew-sullivan-leaving-blogging) talked about this problem:

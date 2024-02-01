@@ -6,8 +6,9 @@ summary: "Help create inclusive digital spaces with these tips for using self-de
 
 # See all topics at https://digital.gov/topics
 topics:
-  - presentations
-  - diversity-equity-inclusion-accessibility-deia
+  - best-practices
+  - communication
+  - digital-service-delivery
 
 slug: introduction-to-self-description
 

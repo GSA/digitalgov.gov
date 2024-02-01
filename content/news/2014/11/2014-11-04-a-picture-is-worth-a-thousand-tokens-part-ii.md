@@ -6,7 +6,7 @@ summary: 'In the first part of A Picture Is Worth a Thousand Tokens, I explained
 authors:
   - loren-siebert
 topics:
-  - content
+  - content-strategy
   - social-media
   - open-government
 ---

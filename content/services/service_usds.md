@@ -24,8 +24,8 @@ weight: 1
 # Topics that best describe this product or service
 topics:
   - design
-  - code
-  - strategy
-  - product-management
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
 
 ---

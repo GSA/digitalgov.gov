@@ -7,16 +7,12 @@ summary: Three recent stories demonstrate how opening up federal government data
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - software-engineering
-  - agile
-  - api
-  
-  - national-action-plan-on-open-government
+  - open-government
   - open-data
   - open-source
-  - the-data-briefing
-
+  - emerging-tech
 ---
 
 Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public.
@@ -31,10 +27,10 @@ Three recent stories demonstrate how opening up federal government data and usin
 
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}">APIs in Government</a> for more information._ 
 
-*** 
+---
 
-_(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._ 
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._ 
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 

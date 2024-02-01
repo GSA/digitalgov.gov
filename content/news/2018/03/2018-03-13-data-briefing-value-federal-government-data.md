@@ -6,8 +6,7 @@ summary: 'Dr. Bill Brantley covers the application of infonomics as a way to hel
 authors:
   - bbrantley
 topics:
-  - metrics
-  - big-data
+  - open-data
   - analytics
 featured_image:
   uid: analytics-data-reports
@@ -37,6 +36,7 @@ Another useful application of infonomics is using it in mapping data ecosystems.
 Federal government data plays a large role in the American economy, but this role has been obscured because it is difficult to measure the value of information. With the emergence of infonomics, we have methods for better measuring and managing the value of information. Once citizens can see the monetary impact of Federal government data, citizens and businesses will help in closing the information performance gap to realize the full value of federal government data.
 
 ---
-_(All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+
+**Disclaimer**: All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

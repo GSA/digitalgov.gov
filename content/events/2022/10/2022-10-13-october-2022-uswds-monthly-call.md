@@ -14,7 +14,7 @@ end_date: 2022-10-20 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - content
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

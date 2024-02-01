@@ -6,8 +6,7 @@ summary: Data.gov is the central clearinghouse for open data from the United Sta
 authors:
   - rebecca-williams
 topics:
-  - data-gov
-  - metadata
+  - search-engine-optimization
   - open-data
 ---
 

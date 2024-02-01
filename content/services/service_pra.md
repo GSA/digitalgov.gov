@@ -30,7 +30,7 @@ authors:
 topics:
   - plain-language
   - content-strategy
-  - content
+  - content-strategy
   - accessibility
 
 ---

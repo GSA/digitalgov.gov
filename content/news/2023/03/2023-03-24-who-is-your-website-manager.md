@@ -6,10 +6,10 @@ summary: The importance of HR and accountability to improving digital service
   delivery at federal agencies.
 # See all topics at https://digital.gov/topics
 topics:
-  - strategy
+  - content-strategy
   - governance
   - project-management
-  - 21st-century-idea
+  - digital-service-delivery
   - customer-experience
 # See all authors at https://digital.gov/authors
 authors:

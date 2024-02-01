@@ -18,10 +18,10 @@ summary: The digital landscape has changed significantly since we launched the
   initiate steps to sunset the service.
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - user-experience
   - accessibility
-  - performance
+  - budgeting-and-performance
   - analytics
   - multilingual
 slug: sunsetting-go-usa-gov-final-user-statistics

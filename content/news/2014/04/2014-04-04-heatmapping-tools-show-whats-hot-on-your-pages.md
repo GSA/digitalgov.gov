@@ -6,10 +6,9 @@ summary: 'Most analytics tools can tell you how many times a link on your page i
 authors:
   - tlowden
 topics:
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - usability
+  - research
   - user-experience
+  - usability
 ---
 
 Most analytics tools can tell you how many times a link on your page is clicked on, but they can’t help you draw conclusions about a page with just a mere list of top links. A tool called a heatmap turns data into a data visualization, so you can more easily see how people are interacting with the design. With it, you can find out some really important stuff: if the page design plays a part in clickthroughs, where on the page your users are moving, and what on your page might be worth featuring/not featuring. Then you can try moving pieces around for better results.

@@ -8,11 +8,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - content-models
-  - COPE
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-5
-  - open-and-structured-content-models
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}

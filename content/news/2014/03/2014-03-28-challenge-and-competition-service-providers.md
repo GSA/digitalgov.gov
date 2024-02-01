@@ -6,13 +6,12 @@ summary: 'I&#8217;m sure many of you have heard the expression &#8220;there&#821
 authors:
   - ktrebon
 topics:
-  - challenges
-  - challenge-gov
+  - challenges-and-prize-competitions
 ---
 
 [{{< legacy-img src="2014/03/featured-questions-a-consultant-can-help-you-answer.jpg" alt="Questions and Answers signpost" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/featured-questions-a-consultant-can-help-you-answer.jpg)I&#8217;m sure many of you have heard the expression &#8220;there&#8217;s an app for that.&#8221; Well, now you can say &#8220;there&#8217;s a schedule for that&#8221; as you plan [challenge and prize competitions]({{< ref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Link to What is a Challenge on DigitalGov.gov") with your colleagues.
 
-In 2010, GSA was asked to build [Challenge.gov](https://challenge.gov/ "link to Challenge.gov") and set up a schedule (a list of pre-negotiated contracts) that can help federal agencies run [effective challenge and prize competitions]({{< ref "/topics/challenges" >}} "Link to Challenge content on DigitalGov.gov").
+In 2010, GSA was asked to build [Challenge.gov](https://challenge.gov/ "link to Challenge.gov") and set up a schedule (a list of pre-negotiated contracts) that can help federal agencies run [effective challenge and prize competitions]({{< ref "/topics/challenges-and-prize-competitions" >}} "Link to Challenge content on DigitalGov.gov").
 
 We answered the call with [Schedule 541 4G](http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES "Link to GSA Schedule 541 4G for Challenge and Competition Services").
 

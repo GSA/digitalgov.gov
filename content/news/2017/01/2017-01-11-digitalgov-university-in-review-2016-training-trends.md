@@ -9,37 +9,23 @@ authors:
   - jthalls
 topics:
   - accessibility
-  - api
-  - challenges
-  - content
+  - application-programming-interface
+  - challenges-and-prize-competitions
+  - content-strategy
+  - open-data
   - design
   - governance
-  - product-management
-  - metrics
-  - mobile
-  - social-media
-  - strategy
-  - user-testing-and-research
-  - user-experience
-  - ai
+  - product-and-project-management
   - analytics
-  - api
-  - artificial-intelligence
-  - chatbots
-  - cloud
-  - cloud-gov
-  - content
-  - customer-experience
-  - dap
-  - digital-analytics-program
-  - metrics
   - mobile
-  - open-data
-  - open-opportunities-program
+  - research
+  - user-experience
+  - artificial-intelligence
+  - cloud-and-infrastructure
+  - customer-experience
+  - professional-development
   - social-media
-  - virtual-reality
-  - virtual-augmented-reality-community
-
+  - multimedia
 ---
 
 [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.

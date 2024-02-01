@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - analytics
 ---
 

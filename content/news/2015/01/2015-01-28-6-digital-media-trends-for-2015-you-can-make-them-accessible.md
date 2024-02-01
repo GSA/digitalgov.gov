@@ -12,7 +12,6 @@ topics:
   - content-strategy
   - mobile
   - plain-language
-  - section-508
   - social-media
 ---
 

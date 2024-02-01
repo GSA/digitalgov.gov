@@ -9,8 +9,6 @@ topics:
   - accessibility
   - design
   - user-experience
-  - accessibility
-  - section-508
 ---
 
 <p>

@@ -8,9 +8,7 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - mobile-apps
   - multilingual
-  - thursday-mobile-products
 
 ---
 

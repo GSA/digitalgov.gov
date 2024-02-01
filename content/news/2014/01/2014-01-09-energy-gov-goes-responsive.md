@@ -5,10 +5,6 @@ title: Energy.gov goes Responsive
 summary: ' Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to'
 topics:
   - mobile
-  - mobile-gov
-  - mobile-first
-  - responsive-web-design
-  - thursday-mobile-products
   - united-states-department-of-energy
 ---
 

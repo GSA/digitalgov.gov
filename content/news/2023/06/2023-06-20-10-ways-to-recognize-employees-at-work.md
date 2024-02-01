@@ -6,7 +6,7 @@ deck: Create a culture of appreciation
 summary: Showing appreciation works best when it’s not one-size-fits all. Here are 10 ideas to get started.
 # See all topics at https://digital.gov/topics
 topics:
-  - human-resources
+  - professional-development
   - communication
   - professional-development
 # See all authors at https://digital.gov/authors

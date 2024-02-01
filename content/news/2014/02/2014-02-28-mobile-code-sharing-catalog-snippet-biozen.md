@@ -4,16 +4,15 @@ date: 2014-02-28 9:52:16 -0400
 title: 'Mobile Code Sharing Catalog Snippet: BioZen'
 summary: Interested in building an app that incorporates biofeedback data from multiple wearable body sensors? Check out BioZen, available on the Mobile Code Sharing Catalog, one of the first mobile applications to provide users with live biofeedback
 topics:
-  - code
+  - software-engineering
   - mobile
-  
   - united-states-department-of-defense
 ---
 
 [{{< legacy-img src="2013/10/codesharing.png" alt="The same computer code shown on a smartphone screen, a tablet screen and a desktop screen" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/codesharing.png)Interested in building an app that incorporates biofeedback data from multiple wearable body sensors?
 
 Check out [BioZen, available on the Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/native_android.html#complete), one of the first mobile applications to provide users with live biofeedback data covering a range of bio-physiological signals, including electroencephalogram (EEG), electromyography (EMG), galvanic skin response (GSR), electrocardiogram (ECG or EKG), respiratory rate, and temperature biofeedback data and display it on a mobile phone.
-  
+
 You can find out more at [BioZen&#8217;s official site](http://www.t2.health.mil/apps/biozen).
 
 BioZen is just one of the many pieces of open source code available on the [Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/index.html) hosted on [GitHub](https://github.com/).

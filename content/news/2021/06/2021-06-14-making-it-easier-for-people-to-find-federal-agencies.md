@@ -13,7 +13,7 @@ deck: "**Making It Easier for People to Find Federal Agencies**&mdash;Finding
 summary: 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - user-experience
   - accessibility
   - design

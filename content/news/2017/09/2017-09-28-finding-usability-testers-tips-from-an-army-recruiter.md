@@ -6,11 +6,11 @@ summary: 'An Army recruiter shares how her training in the Army has helped in he
 authors:
   - meghan-lazier
 topics:
-  - user-testing-and-research
+  - research
   - usability
-  - usability-testing
   - user-centered-design
   - user-experience
+  - human-centered-design
 
 featured_image:
   uid: typing-on-laptop-close-up-littlehenrabi-istock-thinkstock-537275804
