@@ -10,6 +10,15 @@ title: "Professional Development"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/professional-development/
+  - /topics/digitalgov-university/
+  - /topics/professional-development/
+  - /topics/recaps/
+  - /topics/skills/
+  - /topics/summit/
+  - /topics/technology-industry-day/
+  - /topics/training/
 
 # Weight
 weight: 2

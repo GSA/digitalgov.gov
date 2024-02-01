@@ -10,6 +10,8 @@ title: "Records Management"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/national-archives-and-records-administration/
 
 # Weight
 weight: 1

@@ -10,6 +10,8 @@ title: "Emerging Tech"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/darpa/
 
 # Weight
 weight: 2

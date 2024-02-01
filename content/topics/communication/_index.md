@@ -10,6 +10,9 @@ title: "Communication"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/fcc/
+  - /topics/federal-communications-commission/
 
 # Weight
 weight: 1

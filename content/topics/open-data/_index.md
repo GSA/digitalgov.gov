@@ -10,6 +10,8 @@ title: "Open Data"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/open/
 
 # Weight
 weight: 2

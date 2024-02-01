@@ -10,6 +10,9 @@ title: "Security"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/nist/
+  - /topics/authentication/
 
 # Weight
 weight: 2

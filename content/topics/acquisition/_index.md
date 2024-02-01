@@ -10,6 +10,10 @@ title: "Acquisition"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/fas/
+  - /topics/federal-acquisition-institute/
+  - /topics/federal-acquisition-service/
 
 # Weight
 weight: 1

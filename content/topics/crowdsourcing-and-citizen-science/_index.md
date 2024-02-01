@@ -10,6 +10,8 @@ title: "Crowdsourcing and Citizen Science"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/10x/
 
 # Weight
 weight: 1
