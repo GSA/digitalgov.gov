@@ -8,7 +8,7 @@ slug: "professional-development"
 title: "Professional Development"
 
 # description — keep it short and clear
-summary: ""
+summary: "Ensuring that federal agencies can deliver excellent digital services requires an engaged and well-trained workforce. While core competencies in collaboration, communication, and leadership remain vital, additional skills like data analysis, cybersecurity, and digital fluency are becoming increasingly in-demand. Creating an intentional professional development plan for yourself or your team ensures that we can deliver cutting-edge solutions."
 
 aliases:
   - /topics/professional-development/
