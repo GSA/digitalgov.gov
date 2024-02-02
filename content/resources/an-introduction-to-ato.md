@@ -28,7 +28,7 @@ weight: 1
 
 ATO stands for authorization to operate, also known as "authority to operate." Because there is no perfect, risk-free software system, the ATO process is aimed at minimizing and managing risk responsibility. This process mostly comes from the Federal Information Security Management Act (FISMA). FISMA is an effort to standardize and consolidate security review and reporting across agencies. For more information, see the [Centers for Medicare and Medicaid Services’ helpful one-pager on FISMA.](https://security.cms.gov/learn/federal-information-security-management-act-fisma)
 
-You can think of this process as having five steps. We will go over each step in depth below in How to ATO your system.
+You can think of this process as having five steps. We will go over each step in depth below in _How to ATO your system_.
 
 1. To determine the **system's security impact level**, you first need to understand the risks that you are taking on.
 2. You need to have a clear understanding of your project. Document your software and policies with a **System Security and Privacy Plan** (SSPP).
