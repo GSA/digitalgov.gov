@@ -6,11 +6,9 @@ slug: "privacy"
 
 # Topic Title
 title: "Privacy"
-deck: "As agencies carry out their diverse missions, they also ensure that they honor and respect the personal information entrusted to the federal government by the public."
+deck: "As agencies carry out their diverse missions, they must also respect and protect the personally identifiable information (PII) entrusted to the federal government by the public."
 
-summary: "Trust in governmental and commercial institutions requires individuals to believe their personal information will be handled responsibly and used only for legitimate purposes. 
-
-Certain groups may be especially vulnerable to privacy violations that can put them at risk of discrimination, harassment, or even physical harm. Federal privacy protections can help mitigate these risks and ensure access to information and services for all individuals."
+summary: "For individuals to trust in governmental institutions, they need to know that their personal information is secure, will be handled responsibly, and used only for legitimate purposes. Certain groups may be especially vulnerable to privacy violations that can put them at risk of discrimination, harassment, or even physical harm. Following federal privacy protections can help mitigate these risks."
 
 # Weight
 weight: 2
