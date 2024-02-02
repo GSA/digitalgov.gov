@@ -8,11 +8,9 @@ slug: "information-architecture"
 title: "Information architecture"
 deck: "Organize the information on your website to make it findable, understandable, and usable."
 
-summary: "Websites are made up of information, and information needs to be organized to be useful. Information architecture has roots in physical spaces like libraries and hospitals. Information should be designed with intention in order to help people understand what they need to know or do. 
+summary: "Websites are made up of information, and information needs to be organized to be useful. Information architecture (IA), which has roots in physical spaces like libraries and hospitals, should be designed with intention in order to help people easily find what they need to know or do.
 
-Making sure that search, labeling, your sitemap or site blueprint, clear calls to action, and appropriate nesting are clear and usable is all part of having a functional information architecture. 
-
-Agencies can save time and money by having information easy to find online without the help of a government worker or contact center. Finally, good information architecture builds trust with the public — when information is easy to find, it enhances transparency."
+Making sure that search, labeling, appropriate nesting, clear calls-to-action, and sitemap are clear and usable is all part of having a functional information architecture. Good information architecture builds trust with the public; when information is easy to find, it enhances transparency."
 
 # Weight
 weight: 2
