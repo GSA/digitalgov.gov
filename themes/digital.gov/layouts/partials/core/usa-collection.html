@@ -14,7 +14,6 @@
 {{ $page_href := "" }}
 {{ $title := "" }}
 {{ $summary := "" }}
-{{ $path := "" }}
 {{ $topic_icon := "" }}
 {{ $logo_source := "" }}
 {{ $variant := $settings.variant }}
@@ -69,13 +68,8 @@
       {{ $item_href := $href }}
       {{ $list_item_data := ( dict "title" $item_title "summary" $item_summary "href" $href ) }}
 
-      {{/* Set filepath with before injecting into collection-list-item partial */}}
-      {{ if .IsPage }}
-        {{ $path = .Page.File.Path }}
-      {{ end }}
-
       {{/* List item settings */}}
-      {{ $settings := (dict "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "path" $path ) }}
+      {{ $settings := (dict "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header) }}
 
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}
