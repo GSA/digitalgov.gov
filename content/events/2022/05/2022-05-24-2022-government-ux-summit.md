@@ -15,6 +15,7 @@ topics:
   - design
   - research
   - accessibility
+  - information-architecture
 
 # See all authors at https://digital.gov/authors
 authors:

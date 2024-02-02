@@ -6,6 +6,7 @@ summary: 'The idea of portable content is nothing new. Content needs to be mobil
 authors:
   - christen-geiler
 topics:
+  - information-architecture
   - content-strategy
   - product-and-project-management
   - emerging-tech
