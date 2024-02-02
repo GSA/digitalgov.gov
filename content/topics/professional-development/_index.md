@@ -19,6 +19,8 @@ aliases:
   - /topics/summit/
   - /topics/technology-industry-day/
   - /topics/training/
+  - /topics/dgu/
+  - /topics/webinar/
 
 # Weight
 weight: 2
