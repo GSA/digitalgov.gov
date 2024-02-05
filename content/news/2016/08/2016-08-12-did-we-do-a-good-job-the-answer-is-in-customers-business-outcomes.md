@@ -2,12 +2,14 @@
 slug: did-we-do-a-good-job-the-answer-is-in-customers-business-outcomes
 date: 2016-08-12 10:00:24 -0400
 title: 'Did We Do a Good Job? The Answer Is in Customers&#8217; Business Outcomes'
-summary: 'Earlier this week, I shared with my colleagues at EXIM the results of our 2016 export credit insurance customer survey. This is the third consecutive year that our largest customer segment has been asked to share their feedback with us. We appreciate knowing, through our customers&#8217; eyes, how we are doing on our agency&#8217;s strategic'
+summary: 'Earlier this week, I shared with my colleagues at EXIM the results of our 2016 export credit insurance customer survey. This is the third consecutive year that our largest customer segment has been asked to share their feedback with us.'
 authors:
   - stephanie-thum
 topics:
   - product-and-project-management
   - customer-experience
+  - information-collection
+
 ---
 
 Earlier this week, I shared with my colleagues at EXIM the [results of our 2016 export credit insurance customer survey](http://www.exim.gov/sites/default/files/reports/2016-Export-Credit-Insurance-Customer-Survey-Final.pdf). This is the third consecutive year that our largest customer segment has been asked to share their feedback with us.
