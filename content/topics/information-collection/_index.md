@@ -8,11 +8,7 @@ slug: "information-collection"
 title: "Information collection"
 deck: "The process of gathering and documenting data from various sources to fulfill a specific purpose"
 
-summary: "Information collection is the first step of many when conducting research, and it can involve diverse methods and technologies depending on the context. 
-
-It’s also the process by which federal agencies gather or ask for information about the people who need our services or want to participate in our communities. Collections may require the use of complex forms or sensitive questions, including personally identifiable information. 
-
-Make sure you follow best practices when collecting information to protect the identity of your users and respect their time."
+summary: "Information collection is the first step of many when conducting research and it can involve various methods and technologies. It’s also the process by which federal agencies gather or ask for information about the people who use their services. Collections may require the use of complex forms or sensitive questions, including personally identifiable information. Make sure you follow best practices when collecting information to protect the identity of your users, and to respect their time."
 
 # Weight
 weight: 2
