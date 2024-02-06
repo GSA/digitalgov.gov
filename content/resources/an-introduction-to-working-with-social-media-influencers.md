@@ -1,19 +1,22 @@
 ---
 date: 2024-02-02 13:12:00 -0500
 source: ""
-title: An introduction to working with social media influencers
-deck: How to create and manage a social media influencer program
-summary: Learn how to partner with Social Media Influencers from design to
-  implementations as well as how to measure an influencer program.
+title: "An introduction to working with social media influencers"
+deck: "How to create and manage a social media influencer program"
+summary: "Learn how to partner with Social Media Influencers from design to implementations as well as how to measure an influencer program."
+
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
+
 slug: an-introduction-to-working-with-social-media-influencers
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
 
 ## What is an influencer program?
@@ -22,11 +25,11 @@ In the rapidly evolving social media landscape, working with influencers has bec
 
 ## Why partner with social media influencers?
 
-While working with influential people is an established communications tactic (e.g., featuring celebrities in public service announcements), the rise of social media has made working with social media influencers an effective communications tool, especially in commercial marketing. However, government agencies are recognizing the potential for social media influencers to achieve non-commercial sales goals, such as public health information. For example, the U.S. Food and Drug Administrations (FDA) Center for Tobacco Products works with influencers on their public health education campaigns to prevent and reduce tobacco use. 
+While working with influential people is an established communications tactic (e.g., featuring celebrities in public service announcements), the rise of social media has made working with social media influencers an effective communications tool, especially in commercial marketing. However, government agencies are recognizing the potential for social media influencers to achieve non-commercial sales goals, such as public health information. For example, the U.S. Food and Drug Administrations (FDA) Center for Tobacco Products works with influencers on their public health education campaigns to prevent and reduce tobacco use.
 
 ## How to design, implement, and measure an influencer program
 
-Experts in influencer marketing from FDA and its contractors (Rescue Agency and FCB New York) wrote and published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en). Drawn from nine years of experience and recognized with a 2023 Gold Digital Health Award, this guide explores key aspects of influencer programs and addresses frequently asked questions like:
+Experts in influencer marketing from FDA and its contractors (Rescue Agency and FCB New York) wrote and published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237). Drawn from nine years of experience and recognized with a 2023 Gold Digital Health Award, this guide explores key aspects of influencer programs and addresses frequently asked questions like:
 
 - What are some examples of influencer program goals?
 - How can I get buy-in from my organization’s leadership to work with influencers?
@@ -39,9 +42,9 @@ Influencer programs can require extensive planning, but this resource will make 
 ## What can I do next?
 
 Explore the full guide:
-[Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns]([https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en)https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en).
+[Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237).
 
-Then, check out some examples of how this guide has been put into action by the Tobacco Education Resource Library (TERL).
+Then, check out some multilingual examples of how this guide has been put into action by the Tobacco Education Resource Library (TERL).
 [TERL: Tobacco Education Resource Library, Resources from the FDA](https://digitalmedia.hhs.gov/tobacco)
 
-Finally, if you want to connect with others interested or experienced working with social media influencers join the [Digital.gov social media community](https://digital.gov/communities/social-media/)!
+Finally, if you want to connect with others interested in or experienced working with social media influencers, join the [Digital.gov social media community](https://digital.gov/communities/social-media/)!
