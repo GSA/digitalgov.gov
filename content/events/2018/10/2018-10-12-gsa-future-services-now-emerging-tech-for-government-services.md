@@ -25,7 +25,6 @@ topics:
   - emerging-tech
   - artificial-intelligence
   - multimedia
-  - multimedia
 
 ---
 

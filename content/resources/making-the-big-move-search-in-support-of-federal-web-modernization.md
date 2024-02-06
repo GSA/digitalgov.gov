@@ -13,8 +13,6 @@ topics:
   - search
   - design
   - content-strategy
-  - content-strategy
-  - search-engine-optimization
   - search-engine-optimization
   - digital-service-delivery
 slug: making-the-big-move-search-in-support-of-federal-web-modernization

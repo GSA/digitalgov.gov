@@ -15,7 +15,6 @@ topics:
   - social-media
   - artificial-intelligence
   - multimedia
-  - multimedia
 ---
 
 This online meeting is for government employees only.

@@ -21,7 +21,6 @@ topics:
   - emerging-tech
   - artificial-intelligence
   - multimedia
-  - multimedia
   - robotic-process-automation
   
 # see all authors at https://digital.gov/authors
