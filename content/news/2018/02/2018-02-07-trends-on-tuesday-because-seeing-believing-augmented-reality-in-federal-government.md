@@ -7,7 +7,6 @@ authors:
   - jada-jones
 topics:
   - product-and-project-management
-  - emerging-tech
   - multimedia
   - emerging-tech
 featured_image:

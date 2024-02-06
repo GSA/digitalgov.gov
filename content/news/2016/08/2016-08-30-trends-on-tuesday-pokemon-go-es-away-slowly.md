@@ -7,10 +7,8 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - emerging-tech
   - content-strategy
   - emerging-tech
-  - multimedia
   - multimedia
 ---
 
@@ -18,7 +16,7 @@ According to a recent report in Bloomberg, the [wildly popular, augmented realit
 
 While the mobile game may be losing audience, from a brand perspective Nintendo’s Pokemon franchise was reinvigorated for a new generation of fans which will pay dividends in the future.
 
-{{< legacy-img src="2016/08/600-x-400-Female-hands-with-mobile-smartphone-stevanovicigor-iStock-Thinksock-500780944.jpg" alt="Female hands with mobile smartphone." caption="stevanovicigor/iStock/Thinksock" >}} 
+{{< legacy-img src="2016/08/600-x-400-Female-hands-with-mobile-smartphone-stevanovicigor-iStock-Thinksock-500780944.jpg" alt="Female hands with mobile smartphone." caption="stevanovicigor/iStock/Thinksock" >}}
 
 The app also provided the first mainstream mobile augmented reality experience for many people, so in the future the space can grow with new applications and eventually enter the virtual reality space, which is even more advanced. Pokemon Go also may have changed lives for the better by [getting people more healthy through chasing fake animals](http://health.usnews.com/wellness/articles/2016-07-11/pokemon-go-has-everyone-exercising) or maybe for worse by [growing an insatiable addiction](http://www.slate.com/articles/technology/gaming/2016/08/i_am_a_hardcore_pokemon_go_player_and_i_might_not_be_ok.html).
 
