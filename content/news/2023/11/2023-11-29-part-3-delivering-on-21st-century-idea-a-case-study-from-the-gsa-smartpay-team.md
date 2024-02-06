@@ -10,7 +10,6 @@ topics:
   - customer-experience
   - digital-service-delivery
   - product-and-project-management
-  - product-and-project-management
   - plain-language
 
 # See all authors at https://digital.gov/authors

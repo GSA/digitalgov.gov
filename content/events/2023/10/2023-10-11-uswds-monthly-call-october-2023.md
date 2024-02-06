@@ -17,8 +17,6 @@ topics:
   - research
   - user-experience
   - content-strategy
-  - content-strategy
-  - product-and-project-management
   - product-and-project-management
 slug: uswds-monthly-call-october-2023
 # zoom, youtube_live, adobe_connect, google

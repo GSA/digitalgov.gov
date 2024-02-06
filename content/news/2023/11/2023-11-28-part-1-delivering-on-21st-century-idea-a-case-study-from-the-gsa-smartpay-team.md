@@ -8,7 +8,6 @@ topics:
   - content-strategy
   - digital-service-delivery
   - product-and-project-management
-  - product-and-project-management
   - user-experience
 
 # See all authors at https://digital.gov/authors
