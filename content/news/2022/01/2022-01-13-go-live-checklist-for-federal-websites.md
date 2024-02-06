@@ -43,7 +43,7 @@ This new checklist explains how to meet various criteria:
 * When launching a new website, and 
 * When maintaining that website over time.
 
-See the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/) to get a detailed look at what it takes to comply with policy. 
+To have a detailed look at what it takes to comply with policy, you can also [download a copy of the tool as a spreadsheet on the Requirements for Federal Websites and Digital Services page](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/).
 
 ## What’s in the Checklist?
 
