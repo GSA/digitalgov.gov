@@ -8,6 +8,9 @@ summary: "Learn how to partner with Social Media Influencers from design to impl
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
+  - communication
+  - plain-language
+  - content-strategy
 
 slug: an-introduction-to-working-with-social-media-influencers
 
