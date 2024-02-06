@@ -60,7 +60,9 @@
 // overrides usa footer until 3.8.0 for uswds comes out and refactor footer into the uswds footer component.
 // turing off sylelint due to it flagging needing to be in BEM format
 /* stylelint-disable */
-.usa-footer .grid-row .mobile-lg\:grid-col-6 {
-  width: 25%;
+@media (min-width: 30em) {
+  .usa-footer .grid-row .mobile-lg\:grid-col-6 {
+      width: 25%;
+  }
 }
 /* stylelint-enable */
