@@ -6,15 +6,22 @@ slug: "information-architecture"
 
 # Topic Title
 title: "Information architecture"
+deck: "Organizing the information on your website to make it findable, understandable, and usable helps build trust with the public."
 
-# description — keep it short and clear
-summary: ""
+summary: "Websites are made up of information—which needs to be organized to be useful. Information architecture (IA), which has roots in physical spaces like libraries and hospitals, should be designed with intention to help people find what they need to know or do. Making sure that search, labeling, appropriate nesting, calls-to-action, and your sitemap are clear and usable is all part of having a functional information architecture."
 
 aliases:
   - /topics/architecture/
 
 # Weight
-weight: 1
-# For more information on managing topics,
-# see https://github.com/GSA/digitalgov.gov/wiki
+weight: 2
+
+# Set the legislation card title and link
+legislation:
+  title: "21st Century Integrated Digital Experience Act & OMB Memo M-23-22"
+  link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
+
+# Featured community to display at the top of the page
+featured_communities:
+  - "web-managers-forum"
 ---

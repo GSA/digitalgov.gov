@@ -15,6 +15,7 @@ topics:
   - usability
   - user-experience
   - research
+  - information-architecture
 primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"
 
 ---
