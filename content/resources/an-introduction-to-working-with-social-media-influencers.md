@@ -33,7 +33,7 @@ For example, the U.S. Food and Drug Administrations (FDA) [Center for Tobacco Pr
 
 ## How to design, implement, and measure an influencer program
 
-The FDA published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237). Drawn from nine years of experience and recognized with a 2023 Gold Digital Health Award, this guide explores key aspects of influencer programs and addresses frequently asked questions like:
+The FDA published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237). Drawn from nine years of experience, this award-winning guide explores key aspects of influencer programs and addresses frequently asked questions like:
 
 - What are some examples of influencer program goals?
 - How can I get buy-in from my organization’s leadership to work with influencers?
