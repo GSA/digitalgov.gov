@@ -25,11 +25,15 @@ In the rapidly evolving social media landscape, working with influencers has bec
 
 ## Why partner with social media influencers?
 
-While working with influential people is an established communications tactic (e.g., featuring celebrities in public service announcements), the rise of social media has made working with social media influencers an effective communications tool, especially in commercial marketing. However, government agencies are recognizing the potential for social media influencers to achieve non-commercial sales goals, such as public health information. For example, the U.S. Food and Drug Administrations (FDA) Center for Tobacco Products works with influencers on their public health education campaigns to prevent and reduce tobacco use.
+Working with influential people is an established communications tactic and public service announcements have featured celebrities for many years.
+
+More recently, the rise of social media has made working with social media influencers an effective communications tool, especially in commercial marketing. Government agencies are also recognizing the potential for social media influencers to achieve non-commercial sales goals, such as public health information.
+
+For example, the U.S. Food and Drug Administrations (FDA) [Center for Tobacco Products](https://www.fda.gov/about-fda/fda-organization/center-tobacco-products) works with influencers on their public health education campaigns to prevent and reduce tobacco use.
 
 ## How to design, implement, and measure an influencer program
 
-Experts in influencer marketing from FDA and its contractors (Rescue Agency and FCB New York) wrote and published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237). Drawn from nine years of experience and recognized with a 2023 Gold Digital Health Award, this guide explores key aspects of influencer programs and addresses frequently asked questions like:
+The FDA published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237). Drawn from nine years of experience and recognized with a 2023 Gold Digital Health Award, this guide explores key aspects of influencer programs and addresses frequently asked questions like:
 
 - What are some examples of influencer program goals?
 - How can I get buy-in from my organization’s leadership to work with influencers?
@@ -37,14 +41,12 @@ Experts in influencer marketing from FDA and its contractors (Rescue Agency and 
 - How can I mitigate risk in my influencer program?
 - What are some ways to measure the success of an influencer program?
 
-Influencer programs can require extensive planning, but this resource will make it easier to design, implement, and measure an influencer program to achieve your program’s goals.
+Influencer programs can require extensive planning. Use this resource to make it easier to design, implement, and measure an influencer program to achieve your program’s goals.
 
 ## What can I do next?
 
-Explore the full guide:
-[Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237).
+Explore the full guide, [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237).
 
-Then, check out some multilingual examples of how this guide has been put into action by the Tobacco Education Resource Library (TERL).
-[TERL: Tobacco Education Resource Library, Resources from the FDA](https://digitalmedia.hhs.gov/tobacco)
+Then, check out some multilingual examples of how this guide has been put into action by the [Tobacco Education Resource Library (TERL)](https://digitalmedia.hhs.gov/tobacco).
 
-Finally, if you want to connect with others interested in or experienced working with social media influencers, join the [Digital.gov social media community](https://digital.gov/communities/social-media/)!
+Finally, if you want to connect with others interested in or experienced working with social media influencers, join the [Digital.gov social media community](https://digital.gov/communities/social-media/).
