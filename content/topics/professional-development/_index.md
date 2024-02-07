@@ -14,7 +14,6 @@ summary: "Ensuring that federal agencies can deliver excellent digital services 
 aliases:
   - /topics/professional-development/
   - /topics/digitalgov-university/
-  - /topics/professional-development/
   - /topics/recaps/
   - /topics/skills/
   - /topics/summit/
