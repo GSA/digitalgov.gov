@@ -14,7 +14,6 @@ aliases:
   - /topics/apps-challenges/
   - /topics/challenge-gov/
   - /topics/challenges/
-  - /topics/challenges-and-prize-competitions/
   - /topics/challenges-and-prizes-community-of-practice/
   - /topics/prizes-and-competitions/
 
