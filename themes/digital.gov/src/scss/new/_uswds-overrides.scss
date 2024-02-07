@@ -57,8 +57,9 @@
   }
 }
 
-// overrides usa footer until uswds 3.8.0 comes out with a fix to refactor footer into the uswds footer component.
-// turing off sylelint due to it flagging needing to be in BEM format
+// Override USA footer until USWDS 3.8.0 is released
+// TODO: Reconfigure footer to match USWDS footer component
+// Disable stylelint BEM format check because we need the specificity.
 /* stylelint-disable */
 @include at-media("tablet-lg") {
   .usa-footer .grid-row .mobile-lg:grid-col-6 {
