@@ -62,7 +62,7 @@
 // Disable stylelint BEM format check because we need the specificity.
 /* stylelint-disable */
 @include at-media("tablet-lg") {
-  .usa-footer .grid-row .mobile-lg:grid-col-6 {
+  .usa-footer .grid-row .tablet-lg\:grid-col-3 {
     width: 25%;
   }
 }
