@@ -9,7 +9,6 @@ topics:
   - mobile
   - emerging-tech
   - multimedia
-  - multimedia
 ---
 
 {{< legacy-img src="2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" >}}
