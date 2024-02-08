@@ -3,8 +3,8 @@
 source_url: https://blog.usa.gov/getting-the-word-out-about-voter-registration-vote.govs-first-social-media-takeover-with-usagov
 source: usagov
 date: 2024-02-06 00:00:00 -0500
-title: Getting the word out about voter registration Votegovs first social media
-  takeover with USAGov
+title: "Getting the word out about voter registration: Vote.gov's first social media
+  takeover with USAGov"
 deck: "Last fall, vote.gov and the USAGov program collaborated on a successful
   social media takeover for National Voter Registration Day, reaching 36,000
   people across USAGov’s platforms and generating over 2,000 engagements. The
