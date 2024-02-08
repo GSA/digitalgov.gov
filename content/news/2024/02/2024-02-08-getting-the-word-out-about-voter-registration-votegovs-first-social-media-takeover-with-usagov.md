@@ -24,6 +24,7 @@ summary: "Last fall, vote.gov and the USAGov program collaborated on a
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
+  - accessibility
 slug: getting-the-word-out-about-voter-registration-votegovs-first-social-media-takeover-with-usagov
 # Controls how this page appears across the site
 # 0 -- hidden
