@@ -6,7 +6,7 @@ slug: "usability"
 
 # Topic Title
 title: "Usability"
-deck: "How easily and effectively users can achieve their goals within a product or system."
+deck: "How easily and effectively people can accomplish their goals using a product or system, while having a positive experience."
 
 summary: "Usability refers to the measurement of how easily a user can accomplish their goals when using a service. This is usually measured through established research methodologies under the term “usability testing,” which includes success rates and customer satisfaction. 
 
