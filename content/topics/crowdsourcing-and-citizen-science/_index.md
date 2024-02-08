@@ -13,6 +13,7 @@ summary: ""
 aliases:
   - /topics/citizen-science/
   - /topics/citizen-science-and-crowdsourcing-community-of-practice/
+  - /topics/crowdfunding/
   - /topics/crowdsourcing/
   - /topics/fcpccs/
 
