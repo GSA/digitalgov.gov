@@ -12,7 +12,7 @@ deck: "Last fall, vote.gov and the USAGov program collaborated on a successful
   about vote.gov, not only boosted traffic to the website but also laid the
   groundwork for the future collaborations and resource-sharing between the two
   entities, with plans to expand outreach efforts for the 2024 presidential
-  election. "
+  election."
 summary: "Last fall, vote.gov and the USAGov program collaborated on a
   successful social media takeover for National Voter Registration Day, reaching
   36,000 people across USAGov’s platforms and generating over 2,000 engagements.
@@ -20,11 +20,14 @@ summary: "Last fall, vote.gov and the USAGov program collaborated on a
   awareness about vote.gov, not only boosted traffic to the website but also
   laid the groundwork for the future collaborations and resource-sharing between
   the two entities, with plans to expand outreach efforts for the 2024
-  presidential election. "
+  presidential election."
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
   - accessibility
+  - user-experience
+  - multilingual
+  - best-practices
 slug: getting-the-word-out-about-voter-registration-votegovs-first-social-media-takeover-with-usagov
 # Controls how this page appears across the site
 # 0 -- hidden
