@@ -30,7 +30,7 @@ authors:
   - jeremyzilar
 
 # primary Image (for social media)
-primary_image: "accessibility-101-title-card"
+primary_image: "accessibility-icons-symbols-maanas-istock-getty-images-1073019390"
 
 # Controls how this page appears across the site
 # 0 -- hidden
