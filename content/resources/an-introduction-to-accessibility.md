@@ -22,6 +22,8 @@ weight: 2
 
 slug: an-introduction-to-accessibility
 
+primary_image: "accessibility-101-title-card"
+
 ---
 
 ## What is accessibility?
