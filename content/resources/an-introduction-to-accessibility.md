@@ -22,7 +22,7 @@ weight: 2
 
 slug: an-introduction-to-accessibility
 
-primary_image: "accessibility-icons-symbols-maanas-istock-getty-images-1073019390"
+primary_image: "accessibility-101-title-card"
 
 ---
 
