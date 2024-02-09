@@ -1,32 +1,38 @@
 ---
-source: ""
 date: 2024-02-09 11:00:00 -0500
 title: Timeless top 10 best practices for great government websites
 deck: Better websites. Better government.
-summary: While the field of federal web management continues to evolve, the core
-  best practices have remained essentially unchanged for two decades.
+summary: While the field of federal web management continues to evolve, the core best practices have remained essentially unchanged for two decades.
+
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery
   - governance
   - content-strategy
   - best-practices
+  - usability
+
 # See all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
   - rflagg
+
 slug: timeless-top-10-best-practices-for-great-government-websites
+
 primary_image: colorful-digital-10-vuifah-istock-getty-images-166056002
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 As the saying goes, the more things change, the more they stay the same.
 
-{{< img-right src="web-content-gov-top-ten-list-clipboard" >}}
-
 Digital.gov — celebrating its 10th anniversary on February 14, 2024 — used to be called WebContent.gov. In the mid-2000s, the WebContent.gov team published the top 10 best practices for great government websites. In those days, they printed this list on a clipboard so every web manager across the government could have it at their fingertips, on their desks.
+
+{{< img src="web-content-gov-top-ten-list-clipboard" >}}
 
 Despite a significant amount of change in federal websites and digital services over the past two decades, the fundamental aspects in how they are managed have remained the same.
 
