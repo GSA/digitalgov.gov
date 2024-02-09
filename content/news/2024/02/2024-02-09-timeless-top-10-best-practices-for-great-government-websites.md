@@ -30,9 +30,9 @@ weight: 1
 
 As the saying goes, the more things change, the more they stay the same.
 
-Digital.gov — celebrating its 10th anniversary on February 14, 2024 — used to be called WebContent.gov. In the mid-2000s, the WebContent.gov team published the top 10 best practices for great government websites. In those days, they printed this list on a clipboard so every web manager across the government could have it at their fingertips, on their desks.
+{{< img-right src="web-content-gov-top-ten-list-clipboard" >}}
 
-{{< img src="web-content-gov-top-ten-list-clipboard" >}}
+Digital.gov — celebrating its 10th anniversary on February 14, 2024 — used to be called [WebContent.gov](https://web.archive.org/web/20040101000000*/webcontent.gov). In the mid-2000s, the WebContent.gov team published the [top 10 best practices for great government websites](https://web.archive.org/web/20070610235006/http://www.usa.gov/webcontent/reqs_bestpractices/checklist/criticaltasks.shtml). In those days, they printed this list on a clipboard so every web manager across the government could have it at their fingertips, on their desks.
 
 Despite a significant amount of change in federal websites and digital services over the past two decades, the fundamental aspects in how they are managed have remained the same.
 
