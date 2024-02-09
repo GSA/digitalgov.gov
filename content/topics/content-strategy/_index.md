@@ -10,6 +10,27 @@ deck: "Make use of content strategy to deliver great digital experiences."
 
 summary: "Content strategy involves planning, creating, delivering, and governing content that meets the needs of its users and achieves an organization's goals. Content strategy is an essential element of effective digital web services and communication for government agencies."
 
+aliases:
+  - /topics/content/
+  - /topics/content-management-system/
+  - /topics/content-models/
+  - /topics/content-syndication/
+  - /topics/cope/
+  - /topics/core/
+  - /topics/drupal/
+  - /topics/federal-health-it-strategic-plan/
+  - /topics/gamification/
+  - /topics/knowledge-management/
+  - /topics/online-proofing/
+  - /topics/open-and-structured-content-models/
+  - /topics/sites/
+  - /topics/strategy/
+  - /topics/structured-content/
+  - /topics/the-content-corner/
+  - /topics/top-tasks/
+  - /topics/user-generated-content/
+  - /topics/web-content-managers-forum/
+
 # Weight
 weight: 2
 

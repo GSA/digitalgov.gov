@@ -10,6 +10,10 @@ title: "Search Engine Optimization"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/metadata/
+  - /topics/seo/
+
 
 # Weight
 weight: 1

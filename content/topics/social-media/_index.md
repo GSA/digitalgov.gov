@@ -10,6 +10,20 @@ deck: "Use social media to effectively communicate with your audience."
 
 summary: "By using social media, agencies can strengthen their connection with the public, promote transparency, and respond to their audience’s needs. Social media meets customers where they are, and it is a great place to communicate with them — making it an essential tool for communications during emergencies."
 
+aliases:
+  - /topics/facebook/
+  - /topics/instagram/
+  - /topics/linkedin/
+  - /topics/pinterest/
+  - /topics/social-media-metrics/
+  - /topics/socialgov/
+  - /topics/socialgov-community/
+  - /topics/twitter/
+  - /topics/ugc/
+  - /topics/us-digital-registry/
+  - /topics/yelp/
+  - /topics/youtube/
+
 # Weight
 weight: 2
 

@@ -10,6 +10,11 @@ title: "Application programming interface"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/api/
+  - /topics/api-keys/
+  - /topics/wednesday-api-briefing/
+
 # Weight
 weight: 1
 # For more information on managing topics,

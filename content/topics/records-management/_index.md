@@ -10,6 +10,9 @@ title: "Records Management"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/digital-records/
+
 
 # Weight
 weight: 1

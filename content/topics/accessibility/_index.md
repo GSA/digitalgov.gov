@@ -10,6 +10,10 @@ deck: "The design of products, devices, services, or environments for people wit
 
 summary: "Accessibility is not just the right thing to do; it’s the law. The guidance, resources, and community you find here will help you deliver accessible digital products and services in the federal government."
 
+aliases:
+  - /topics/508/
+  - /topics/americans-with-disabilities-act/
+  - /topics/section-508/
 # Weight
 weight: 2
 

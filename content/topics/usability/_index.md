@@ -8,9 +8,13 @@ slug: "usability"
 title: "Usability"
 deck: "How easily and effectively people can accomplish their goals using a product or system, while having a positive experience."
 
-summary: "Usability refers to the measurement of how easily a user can accomplish their goals when using a service. This is usually measured through established research methodologies under the term “usability testing,” which includes success rates and customer satisfaction. 
+summary: "Usability refers to the measurement of how easily a user can accomplish their goals when using a service. This is usually measured through established research methodologies under the term “usability testing,” which includes success rates and customer satisfaction. Usability is one part of the larger user experience (UX) umbrella. While UX encompasses designing the overall experience of a product, usability focuses on the mechanics of making sure products work as well as possible for the user."
 
-Usability is one part of the larger user experience (UX) umbrella. While UX encompasses designing the overall experience of a product, usability focuses on the mechanics of making sure products work as well as possible for the user."
+aliases:
+  - /topics/first-click-testing/
+  - /topics/usability-case-study/
+  - /topics/usability-starter-kit/
+  - /topics/usability-testing/
 
 # Weight
 weight: 2

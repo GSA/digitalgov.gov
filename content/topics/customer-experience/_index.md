@@ -12,6 +12,12 @@ summary: "Customer experience (CX) is the sum of the public's interactions with 
 
 By focusing on the customer's needs and expectations, federal agencies can create more user-friendly and efficient processes, provide more timely and helpful support, and deliver better experiences. This can lead to increased public satisfaction, greater trust in government, and improved outcomes for all."
 
+aliases:
+  - /topics/customer-experience-community-of-practice/
+  - /topics/customer-satisfaction/
+  - /topics/customer-service/
+  - /topics/cx/
+
 # Weight
 weight: 2
 

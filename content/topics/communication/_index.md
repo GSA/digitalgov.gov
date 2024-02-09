@@ -10,6 +10,13 @@ title: "Communication"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/email-marketing/
+  - /topics/fcn/
+  - /topics/marketing/
+  - /topics/presentations/
+  - /topics/public-safety/
+  - /topics/writing/
 
 # Weight
 weight: 1
