@@ -3,12 +3,7 @@
     <section class="author-profile">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-6">
-          {{ $path := "" }}{{ with .File }}
-            {{ $path = .Path }}
-          {{ else }}
-            {{ $path = .Path }}
-          {{ end }}
-          <div class="grid-col-12" data-gh-edit-page="{{- $path -}}">
+          <div class="grid-col-12">
             <header>
               {{- if .Params.github -}}
                 <img
