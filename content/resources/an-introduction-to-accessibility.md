@@ -22,6 +22,8 @@ weight: 2
 
 slug: an-introduction-to-accessibility
 
+primary_image: "accessibility-icons-symbols-maanas-istock-getty-images-1073019390"
+
 ---
 
 ## What is accessibility?
