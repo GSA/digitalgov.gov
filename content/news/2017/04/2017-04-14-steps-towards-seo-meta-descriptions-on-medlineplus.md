@@ -23,7 +23,7 @@ These sources lead to varying degrees of quality for automatically generated web
 
 While custom meta descriptions don’t factor in boosting a page’s rank in search results, they help users know what to expect from a webpage. People are more likely to click through to the site when the meta description is well-written, increasing clicks and conversions.
 
-{{< legacy-img src="2017/04/600-x-400-Open_Graph_protocol_logo_public-domain.jpg" alt="The Open Graph protocol logo." >}}
+{{< legacy-img-right src="2017/04/600-x-400-Open_Graph_protocol_logo_public-domain.jpg" alt="The Open Graph protocol logo." >}}
 
 Social networking sites like Google+ also use meta descriptions when users share your page. The display is more elegant than what is generated automatically by the site. Similarly, Facebook uses [Open Graph markup](https://developers.facebook.com/docs/sharing/webmasters#markup) to pull information such as the page description when a user shares a page.
 
