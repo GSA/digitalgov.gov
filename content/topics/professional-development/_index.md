@@ -20,6 +20,8 @@ aliases:
   - /topics/training/
   - /topics/dgu/
   - /topics/webinar/
+  - /topics/human-resources/
+  - /topics/open-opportunities-program/
 
 # Weight
 weight: 2

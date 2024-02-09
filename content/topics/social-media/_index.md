@@ -12,6 +12,18 @@ summary: "By using social media, agencies can strengthen their connection with t
 
 aliases:
   - /topics/world-bank/
+  - /topics/facebook/
+  - /topics/instagram/
+  - /topics/linkedin/
+  - /topics/pinterest/
+  - /topics/social-media-metrics/
+  - /topics/socialgov/
+  - /topics/socialgov-community/
+  - /topics/twitter/
+  - /topics/ugc/
+  - /topics/us-digital-registry/
+  - /topics/yelp/
+  - /topics/youtube/
 
 # Weight
 weight: 2

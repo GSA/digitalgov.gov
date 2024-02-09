@@ -12,6 +12,25 @@ summary: "Content strategy involves planning, creating, delivering, and governin
 
 aliases:
   - /topics/blog/
+  - /topics/content/
+  - /topics/content-management-system/
+  - /topics/content-models/
+  - /topics/content-syndication/
+  - /topics/cope/
+  - /topics/core/
+  - /topics/drupal/
+  - /topics/federal-health-it-strategic-plan/
+  - /topics/gamification/
+  - /topics/knowledge-management/
+  - /topics/online-proofing/
+  - /topics/open-and-structured-content-models/
+  - /topics/sites/
+  - /topics/strategy/
+  - /topics/structured-content/
+  - /topics/the-content-corner/
+  - /topics/top-tasks/
+  - /topics/user-generated-content/
+  - /topics/web-content-managers-forum/
 
 # Weight
 weight: 2

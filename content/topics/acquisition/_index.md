@@ -19,6 +19,17 @@ aliases:
 # Weight
 weight: 2
 
+
+aliases:
+  - /topics/contingency-contracting-corps/
+  - /topics/digital-acquisition-playbook/
+  - /topics/digital-acquisitions-accelerator/
+  - /topics/far/
+  - /topics/federal-acquisition-regulation/
+  - /topics/it-schedule-70/
+  - /topics/rfp/
+
+
 # Set the legislation card title and link
 legislation:
   title: "Federal Acquisition Regulation"

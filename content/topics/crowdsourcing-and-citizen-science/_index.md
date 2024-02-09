@@ -12,6 +12,11 @@ summary: ""
 
 aliases:
   - /topics/10x/
+  - /topics/citizen-science/
+  - /topics/citizen-science-and-crowdsourcing-community-of-practice/
+  - /topics/crowdfunding/
+  - /topics/crowdsourcing/
+  - /topics/fcpccs/
 
 # Weight
 weight: 1

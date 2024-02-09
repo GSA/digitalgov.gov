@@ -10,6 +10,10 @@ title: "Open Government"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/foia/
+  - /topics/freedom-of-information-act/
+  - /topics/national-action-plan-on-open-government/
 
 # Weight
 weight: 1

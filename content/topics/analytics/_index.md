@@ -17,6 +17,13 @@ aliases:
 # Weight
 weight: 2
 
+aliases:
+  - /topics/big-data/
+  - /topics/dap/
+  - /topics/digital-analytics-program/
+  - /topics/google-analytics/
+  - /topics/metrics/
+
 # Set the legislation card title and link
 legislation:
   title: "M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 130 KB, 9 pages, June 2010)"

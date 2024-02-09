@@ -16,6 +16,10 @@ aliases:
   - /topics/communities/
   - /topics/ex-im-bank/
   - /topics/export-import-bank-of-the-united-states/
+  - /topics/customer-experience-community-of-practice/
+  - /topics/customer-satisfaction/
+  - /topics/customer-service/
+  - /topics/cx/
 
 # Weight
 weight: 2

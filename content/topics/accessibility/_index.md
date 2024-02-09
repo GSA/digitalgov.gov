@@ -12,7 +12,9 @@ summary: "Accessibility is not just the right thing to do; it’s the law. The g
 
 aliases:
   - /topics/us-access-board/
-
+  - /topics/508/
+  - /topics/americans-with-disabilities-act/
+  - /topics/section-508/
 # Weight
 weight: 2
 

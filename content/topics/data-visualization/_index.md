@@ -10,6 +10,8 @@ title: "Data Visualization"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/infographic/
 
 # Weight
 weight: 1

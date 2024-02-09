@@ -14,6 +14,15 @@ aliases:
   - /topics/cio/
   - /topics/cio-council/
   - /topics/work-in-progress/
+  - /topics/agile/
+  - /topics/agile-lean-community-of-practice/
+  - /topics/kanban/
+  - /topics/lean/
+  - /topics/product-management/
+  - /topics/project-management/
+  - /topics/scrum/
+  - /topics/sprint/
+  - /topics/workflows/
 
 # Weight
 weight: 1

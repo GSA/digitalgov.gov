@@ -10,6 +10,11 @@ title: "Artificial Intelligence"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/ai/
+  - /topics/artificial-intelligence-for-citizen-services-community/
+  - /topics/chatbots/
+  - /topics/natural-language-generation/
 
 # Weight
 weight: 1

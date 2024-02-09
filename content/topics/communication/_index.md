@@ -11,8 +11,15 @@ title: "Communication"
 summary: ""
 
 aliases:
+  - /topics/email-marketing/
+  - /topics/fcn/
+  - /topics/marketing/
+  - /topics/presentations/
+  - /topics/public-safety/
+  - /topics/writing/
   - /topics/fcc/
   - /topics/federal-communications-commission/
+
 
 # Weight
 weight: 1

@@ -12,6 +12,7 @@ summary: ""
 
 aliases:
   - /topics/open/
+  - /topics/data-gov/
 
 # Weight
 weight: 2
