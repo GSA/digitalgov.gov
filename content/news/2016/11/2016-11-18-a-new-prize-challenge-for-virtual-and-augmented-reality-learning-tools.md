@@ -15,7 +15,7 @@ topics:
 
 _Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education._
 
-{{< card-quote text="I’m calling for investments in educational technology that will help create. . . educational software that’s as compelling as the best video game. I want you guys to be stuck on a video game that’s teaching you something other than just blowing something up." cite="President Obama, March 2011, [speaking about the need for innovation in education](https://obamawhitehouse.archives.gov/blog/2011/03/08/president-obama-talks-education-boston-moral-and-economic-imperative-give-every-chil)." >}}
+{{< card-quote text="I’m calling for investments in educational technology that will help create ... educational software that’s as compelling as the best video game. I want you guys to be stuck on a video game that’s teaching you something other than just blowing something up." cite="President Obama, March 2011, [speaking about the need for innovation in education](https://obamawhitehouse.archives.gov/blog/2011/03/08/president-obama-talks-education-boston-moral-and-economic-imperative-give-every-chil)." >}}
 
 Imagine learning about biology by traveling inside human cells, or chemistry by experimenting with all of the elements of the periodic table, or computer science by programing robots to explore other planets. Virtual reality and augmented reality are new and emergent technologies that have received wide media coverage in the past year with the potential to make all of these experiences come to life. As evidenced by the Virtual Reality Developers Conference that was held this month in San Francisco, there is a growing developer community that is experimenting with these technologies and hungry to create experiences that are not only immersive and engaging, but can also transform the way stories are told and the way people learn.
 
@@ -33,12 +33,15 @@ Those interested in entering the Challenge should <a href="http://edsimchallenge
 
 Stay tuned and visit the <a href="http://edsimchallenge.com/" target="_blank">EdSim Challenge website</a> to learn how you can reimagine the future of learning.
 
- _Erik Martin is a Policy Advisor for the White House Office of Science and Technology Policy._ _Albert Palacios is an Education Program Specialist at the U.S. Department of Education._
- 
+ _Erik Martin is a Policy Advisor for the White House Office of Science and Technology Policy. Albert Palacios is an Education Program Specialist at the U.S. Department of Education._
+
+
+---
+
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _For more on challenges and prize competitions, read our latest [Challenges articles]({{< ref "/topics/challenges-and-prize-competitions" >}}). Thinking about running a challenge and prize competition at your agency? Connect with over 700 government professionals by joining the [Challenges & Prizes Community]({{< ref "challenges-prizes.md" >}})._ 
 
 _Read our recent articles on [virtual and augmented reality]({{< ref "/topics/virtual-augmented-reality-community" >}}) and the new [AI and Virtual/Augmented Reality Communities]({{< ref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}})—join both via our main [Communities]({{< ref "/communities" >}}) page._ 
 
-_This post was originally published on the [Office of Science and Technology Policy (OSTP) blog](https://www.whitehouse.gov/administration/eop/ostp/blog)._
+_This post was originally published on the [Office of Science and Technology Policy (OSTP) blog](https://obamawhitehouse.archives.gov/omb/blog)._
