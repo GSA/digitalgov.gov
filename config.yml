@@ -138,7 +138,7 @@ menu:
       Identifier: "digitalgov-university"
       URL: "/digitalgov-university/"
       Weight: 2
-    - Name: "Submit Github issue"
+    - Name: "Submit GitHub issue"
       Identifier: "edit"
       URL: "https://github.com/GSA/digitalgov.gov/issues"
       Weight: 3
