@@ -65,8 +65,8 @@ $communities-of-practice: (
   text-align: center;
 
   @include at-media("tablet") {
-    grid-template-columns: repeat(3, 1fr);
     display: grid;
+    grid-template-columns: repeat(3, 1fr);
   }
 
   @include at-media("tablet-lg") {
