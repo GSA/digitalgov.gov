@@ -42,6 +42,6 @@ Stay tuned and visit the <a href="http://edsimchallenge.com/" target="_blank">Ed
 
 _For more on challenges and prize competitions, read our latest [Challenges articles]({{< ref "/topics/challenges-and-prize-competitions" >}}). Thinking about running a challenge and prize competition at your agency? Connect with over 700 government professionals by joining the [Challenges & Prizes Community]({{< ref "challenges-prizes.md" >}})._ 
 
-_Read our recent articles on [virtual and augmented reality]({{< ref "/topics/virtual-augmented-reality-community" >}}) and the new [AI and Virtual/Augmented Reality Communities]({{< ref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}})—join both via our main [Communities]({{< ref "/communities" >}}) page._ 
+_Read our recent articles on [virtual and augmented reality]({{< ref "/topics/emerging-tech" >}}) and the new [AI and Virtual/Augmented Reality Communities]({{< ref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}})—join both via our main [Communities]({{< ref "/communities" >}}) page._ 
 
 _This post was originally published on the [Office of Science and Technology Policy (OSTP) blog](https://obamawhitehouse.archives.gov/omb/blog)._
