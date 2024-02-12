@@ -17,6 +17,8 @@
   {{ $icon = "notifications" }}
 {{ else if eq $variant "disclaimer" }}
   {{ $icon = "info" }}
+{{ else if eq $variant "wcag" }}
+  {{ $icon = "info_outline" }}
 {{ end }}
 
 {{- $iconPath := (printf "uswds/img/sprite.svg#%s" $icon) -}}
@@ -36,6 +38,8 @@
     {{ if $variant }}
       {{ if eq $variant "join" }}
         Who can join?
+      {{ else if eq $variant "wcag" }}
+        WCAG 2.0 References
       {{ else }}
         {{ $variant | title }}
       {{ end }}
