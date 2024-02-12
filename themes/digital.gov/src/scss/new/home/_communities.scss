@@ -63,12 +63,12 @@ $communities-of-practice: (
 // ==========================================================================
 .dg-featured-communities {
   text-align: center;
-  
+
   @include at-media("tablet") {
     grid-template-columns: repeat(3, 1fr);
     display: grid;
   }
-  
+
   @include at-media("tablet-lg") {
     grid-template-columns: repeat(4, 1fr);
   }
