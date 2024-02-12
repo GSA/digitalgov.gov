@@ -1,19 +1,10 @@
 {{ define "content" }}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
-
   {{ $now := now.Format "2006-01-02" }}
 
 
   <main role="main" id="main-content">
     <header class="page-head page-head-{{- .Type -}}">
-      <div
-        class="grid-container grid-container-desktop"
-        data-gh-edit-page="{{- $path -}}"
-      >
+      <div class="grid-container grid-container-desktop">
         {{/* Page Title */}}
         <h1>{{- .Title | markdownify -}}</h1>
 

@@ -7,7 +7,6 @@
   @param {string} [link_title] - String passed into the "title" field of the button at the footer of the card
   @param {string} [image] - String passed into the "src" field of the image displayed at the top of the card
   @param {string} [alt] - String passed into the "alt" field of the image displayed at the top of the card
-  @param {string} [path] - String passed into the "data-edit-this" field so that the card can be edited
   @param {string} [layout] - String used to adjust styles for variants
 */}}
 
@@ -17,7 +16,6 @@
 {{- $link_title := default "" .card_data.link_title -}}
 {{- $image := default "" .card_data.image -}}
 {{- $alt := default "" .card_data.alt -}}
-{{- $path := default "" .card_data.path -}}
 {{- $layout := default "" .card_data.layout -}}
 {{- $has_image := false -}}
 
@@ -26,7 +24,7 @@
 {{ end }}
 
 
-<div data-edit-this="{{- $path -}}" class="usa-card__container">
+<div class="usa-card__container">
   {{ if $header }}
     <div class="usa-card__header">
       <h2 class="usa-card__heading">
