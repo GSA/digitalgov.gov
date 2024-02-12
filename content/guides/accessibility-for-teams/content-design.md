@@ -34,7 +34,7 @@ Include in-line definitions for scientific, legal, or technical terms that you m
 - Avoid using idiomatic language.
 - Test the readability of your content using [Hemingway App](http://www.hemingwayapp.com/), [Readable.io](https://readable.io/), or a similar tool.
 
-#### Resources
+### Resources
 
   - [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
 
@@ -103,7 +103,7 @@ Can you scan the page without having to pause for long passages? Can you quickly
 - Use precise and descriptive [headings](https://content-guide.18f.gov/headings-and-titles/) to help readers grasp the main points of a piece without reading it in its entirety.
 - Check the continuity between sections. Paragraphs that don’t have clear thematic links from one to the next can cause difficulties for some readers.
 
-#### Resources
+### Resources
 
   - [Headings and titles](https://content-guide.18f.gov/headings-and-titles/), 18F Content Guide
 
@@ -130,7 +130,7 @@ Do your images have descriptive alt text?
 - Don’t start the alt text with _Image of_ or _Photo of_ – the screen reader already announces that images are images.
 - If the image is decorative and you don’t want the screen reader to announce it at all, use  null (empty) alt text (`alt=""`).
 
-#### Resources
+### Resources
 
 {{< youtube XCa6U1BllCY >}}
 
@@ -179,31 +179,19 @@ Is your site organized such that everyone can navigate it easily?
 - Determine whether the HTML document has a language attribute so that screen readers will read it with the correct accent and pronunciation. For example: `<html lang="en">`. (Note: If you’re not comfortable taking this step, feel free to ask another designer on your project team to help.)
 - If forms are present, make sure the screen reader reads labels and instructions.
 
-<!-- TODO: turn into box variant -->
-<ul class="usa-accordion usa-accordion--bordered">
-  <li>
-    <button class="usa-accordion__button"
-      aria-expanded="false" aria-controls="amendment-1">
-      Use VoiceOver screen reader on Mac
-    </button>
-    <div id="amendment-1" class="usa-accordion__content">
-      <ul>
-        <li><b>Turn VoiceOver on</b>: command (⌘) + F5</li>
-        <li><b>Go into web area</b>: control + alt + shift + down arrow (⬇)</li>
-        <li><b>Navigate right</b>: control + alt + right arrow (➡️️)</li>
-        <li><b>Navigate by headings</b>: control + alt + command (⌘) + H</li>
-        <li><b>Click</b>: control + alt + spacebar</li>
-      </ul>
-      <p class="usa-text-small">Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.</p>
-      <ul>
-        <li><b>Turn on rotor</b>: control + alt + U</li>
-        <li><b>Navigate rotor</b>: left and right, up and down arrows</li>
-      </ul>
-    </div>
-  </li>
-</ul>
+{{< note variant="voiceover">}}
+- **Turn VoiceOver on**: command (⌘) + F5
+- **Go into web area**: control + alt + shift + down arrow (⬇)
+- **Navigate right**: control + alt + right arrow (➡️️)
+- **Navigate by heading**: control + alt + command (⌘) + H
+- **Click**: control + alt + spacebar
 
-
+Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.
+<br>
+<br>
+- **Turn on rotor**: control + alt + U
+- **Navigate rotor**: left and right, up and down arrows
+{{< /note >}}
 
 {{< note variant="wcag" >}}
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#content-structure-separation-programmatic)
@@ -229,7 +217,7 @@ Is everyone able to access your multimedia content?
   - To make the transcript available, link to it from your web page, wherever you link to or display the associated video.
 - Audio description is required when important information is visually shown on the screen that cannot be observed by a blind or vision-impaired individual.  
 
-#### About transcripts
+### About transcripts
 
 A transcript is a text version of the media content. A transcript should capture all the spoken audio, plus on-screen text and descriptions of key visual information that wouldn’t otherwise be accessible without seeing the video. Transcripts make video content accessible to everyone, including people who are unable to view the video due to accessibility problems or technical limitations. They are also helpful for people who want to quickly scan or search a video’s content but do not have the time to watch the entire video.
 

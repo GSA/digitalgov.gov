@@ -131,4 +131,12 @@
     border-left-width: 5px;
     color: color("gray-warm-90");
   }
+
+  &--voiceover {
+    background-color: color("gray-cool-3");
+    border-left-color: color("gray-cool-20");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("gray-warm-90");
+  }
 }

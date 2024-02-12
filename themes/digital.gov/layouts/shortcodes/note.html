@@ -19,6 +19,8 @@
   {{ $icon = "info" }}
 {{ else if eq $variant "wcag" }}
   {{ $icon = "info_outline" }}
+{{ else if eq $variant "voiceover" }}
+  {{ $icon = "keyboard" }}
 {{ end }}
 
 {{- $iconPath := (printf "uswds/img/sprite.svg#%s" $icon) -}}
@@ -40,6 +42,8 @@
         Who can join?
       {{ else if eq $variant "wcag" }}
         WCAG 2.0 References
+      {{ else if eq $variant "voiceover" }}
+        Use VoiceOver screen reader on Mac
       {{ else }}
         {{ $variant | title }}
       {{ end }}
