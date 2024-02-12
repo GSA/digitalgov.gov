@@ -20,6 +20,8 @@ slug: an-introduction-to-working-with-social-media-influencers
 # 2 -- highlighted
 weight: 1
 
+primary_image: "download-free-hhs-fda-influencers-101-guide"
+
 ---
 
 ## What is an influencer program?
@@ -35,6 +37,8 @@ More recently, the rise of social media has made working with social media influ
 For example, the U.S. Food and Drug Administrations (FDA) [Center for Tobacco Products](https://www.fda.gov/about-fda/fda-organization/center-tobacco-products) works with influencers on their public health education campaigns to prevent and reduce tobacco use.
 
 ## How to design, implement, and measure an influencer program
+
+{{< img-right src="fda-cover-influencers-101-best-practices-practical-approaches-for-public-health-campaigns-b" >}}
 
 The FDA published [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237). Drawn from nine years of experience, this award-winning guide explores key aspects of influencer programs and addresses frequently asked questions like:
 
