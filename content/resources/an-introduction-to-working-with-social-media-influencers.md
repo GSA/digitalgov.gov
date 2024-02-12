@@ -20,6 +20,8 @@ slug: an-introduction-to-working-with-social-media-influencers
 # 2 -- highlighted
 weight: 1
 
+primary_image: "download-free-hhs-fda-influencers-101-guide"
+
 ---
 
 ## What is an influencer program?
