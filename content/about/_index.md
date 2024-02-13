@@ -70,7 +70,7 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
     <tr>
       <td>Create user types based on research to identify a broad grouping of different types of customers and users</th>
       <td>
-        Complete.
+        Complete
       </td>
     </tr>
     <tr>
