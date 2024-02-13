@@ -104,7 +104,7 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
       </td>
     </tr>
     <tr>
-      <td">Publish more evergreen content, including topic and policy pages</th>
+      <td>Publish more evergreen content, including topic and policy pages</th>
       <td>
         In progress
       </td>
