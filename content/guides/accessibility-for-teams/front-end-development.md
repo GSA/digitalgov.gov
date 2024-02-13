@@ -83,7 +83,10 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 {{< youtube 5R-6WvAihms >}}
 
 **Video tutorial: How I do an accessibility check (screen reader)**
-
+<!-- 
+  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
+  orginal: https://youtu.be/cOmehxAU_4s?t=3m25s
+ -->
 {{< youtube cOmehxAU_4s >}}
 
 - [Download NVDA screen reader (NV Access)](https://www.nvaccess.org/download/)
@@ -118,6 +121,11 @@ While HTML5 allows you to reset headings to h1 on new section elements, some scr
 
 **Video tutorial: How I do an accessibility check (page structure)**
 
+<!-- 
+  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
+  orginal: https://youtu.be/cOmehxAU_4s?t=6m21s
+ -->
+
 {{< youtube cOmehxAU_4s >}}
 
 {{< note variant="wcag" >}}
@@ -140,6 +148,11 @@ Are you using semantic elements and roles?
 ### Resources
 
 **Video tutorial: Landmarks**
+
+<!-- 
+  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
+  orginal: https://www.youtube.com/watch?time_continue=12&v=bww3IaktlRY
+ -->
 
 {{< youtube bww3IaktlRY >}}
 
@@ -191,7 +204,12 @@ Is there enough contrast between text and its background color?
 {{< youtube gH1JieTZQ1k >}}
 
 **Video tutorial: How I do an accessibility check (contrast)**
+<!-- 
+  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
+  orginal: https://youtu.be/cOmehxAU_4s?t=8m36s
+ -->
 {{< youtube cOmehxAU_4s >}}
+
 
 - [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Accessible Colors](http://accessible-colors.com/)
@@ -220,6 +238,10 @@ Including automated accessibility testing throughout the development process can
 
 **Video tutorial: How I do an accessibility check (tools and extensions)**
 
+<!-- 
+  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
+  orginal: https://youtu.be/cOmehxAU_4s?t=8m57
+ -->
 {{< youtube cOmehxAU_4s >}}
 
 - [GOV.UK: What we found when we tested tools on the world’s least-accessible webpage](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/)
