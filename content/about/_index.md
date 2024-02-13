@@ -38,19 +38,13 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
       </td>
     </tr>
     <tr>
-      <th scope="row">Publish a resource page to summarize the requirements for [delivering a digital first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/)</th>
+      <th scope="row">Publish a resource page to summarize the requirements for <a href="https://digital.gov/resources/delivering-digital-first-public-experience/">delivering a digital first public experience</a></th>
       <td>
         Complete
       </td>
     </tr>
     <tr>
-      <th scope="row">Publish a resource page to summarize the requirements for [delivering a digital first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/)</th>
-      <td>
-        Complete
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">Redesign [topic pages](https://digital.gov/topics/) to enable active content curation instead of auto-generation</th>
+      <th scope="row">Redesign <a href="https://digital.gov/topics/">topic pages</a> to enable active content curation instead of auto-generation</th>
       <td>
         Complete
       </td>
