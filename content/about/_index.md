@@ -32,7 +32,7 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Prepare and equip members for change related to M-23-22 policy guidance through regular, ongoing communications</th>
+      <td>Prepare and equip members for change related to M-23-22 policy guidance through regular, ongoing communications</th>
       <td>
         Complete
       </td>
