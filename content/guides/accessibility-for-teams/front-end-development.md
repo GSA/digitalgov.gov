@@ -9,10 +9,6 @@ primary_image: guide-dap
 layout: single
 ---
 
-# Getting started
-
-## Accessibility for front-end developers
-
 Accessible front-end development ensures people with different abilities can access, understand, and navigate web content, regardless of how they're accessing it. Front-end developers collaborate with other members of a cross-functional team to implement a robust user experience.
 
 ### How to use this guide
@@ -21,7 +17,7 @@ Accessible front-end development ensures people with different abilities can acc
 - A good place to start testing is on high-touch pages, critical user paths, and site-wide templates.
 - If you have project-specific questions, ask your agency’s accessibility team.
 
-# Keyboard access
+## Keyboard access
 
 {{< ring title="Why it's important" >}}
 Can you reach anything that’s interactive using the tab key?
@@ -38,21 +34,21 @@ Can you reach anything that’s interactive using the tab key?
 - Make sure that no content gets focused offscreen or is hidden from view.
 - Check to see that the page includes a skip navigation link (if navigation is present before the main content). This will allow users to skip past navigation to reach the page’s main content.
 
-#### Resources
+### Resources
 
 **Video tutorial: How I do an accessibility check**
 
 {{< youtube cOmehxAU_4s >}}
 
-#### WCAG 2.0 references
-- [2.1 Keyboard Accessible (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
-- [2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)
-- [2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-trapping)
-- [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-order)
-- [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
+{{< note variant="wcag" >}}
+  - [2.1 Keyboard Accessible (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
+  - [2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)
+  - [2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-trapping)
+  - [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-order)
+  - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
+{{< /note >}}
 
-# Screen reader
-
+## Screen reader
 
 {{< ring title="Why it's important" >}}
 Can you use a screen reader to access the page content?
@@ -66,31 +62,21 @@ Can you use a screen reader to access the page content?
 - If forms are present, make sure the screen reader reads labels and instructions.
 - Make sure that all links are properly descriptive. For example, the link text "Read More" provides no context about where the user will go if they click it, while "Read more about dinosaurs" describes what’s on the other side of the link.
 
-<ul class="usa-accordion usa-accordion--bordered">
-  <li>
-    <button class="usa-accordion__button"
-      aria-expanded="false" aria-controls="amendment-1">
-      Use VoiceOver screen reader on Mac
-    </button>
-    <div id="amendment-1" class="usa-accordion__content">
-      <ul>
-        <li><b>Turn VoiceOver on</b>: command (⌘) + F5</li>
-        <li><b>Go into web area</b>: control + alt + shift + down arrow (⬇)</li>
-        <li><b>Navigate right</b>: control + alt + right arrow (➡️️)</li>
-        <li><b>Navigate by headings</b>: control + alt + command (⌘) + H</li>
-        <li><b>Click</b>: control + alt + spacebar</li>
-      </ul>
-      <p class="usa-text-small">Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.</p>
-      <ul>
-        <li><b>Turn on rotor</b>: control + alt + U</li>
-        <li><b>Navigate rotor</b>: left and right, up and down arrows</li>
-      </ul>
-      <p class="usa-text-small">Note: While VoiceOver is most accessible to those of us using Macs, it’s not as good a screen reader as NVDA.</p>
-    </div>
-  </li>
-</ul>
+{{< note variant="voiceover">}}
+- **Turn VoiceOver on**: command (⌘) + F5
+- **Go into web area**: control + alt + shift + down arrow (⬇)
+- **Navigate right**: control + alt + right arrow (➡️️)
+- **Navigate by heading**: control + alt + command (⌘) + H
+- **Click**: control + alt + spacebar
 
-#### Resources
+Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.
+<br>
+<br>
+- **Turn on rotor**: control + alt + U
+- **Navigate rotor**: left and right, up and down arrows
+{{< /note >}}
+
+### Resources
 
 **Video tutorial: Screen Reader Basics: VoiceOver**
 
@@ -102,18 +88,17 @@ Can you use a screen reader to access the page content?
 
 - [Download NVDA screen reader (NV Access)](https://www.nvaccess.org/download/)
 
-#### WCAG 2.0 references
+
+{{< note variant="wcag" >}}
 [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
+{{< /note >}}
 
-
-
-# Headings
+## Headings
 
 {{< ring title="Why it's important" >}}
 Are you using accurate headings on your page?
 
 - Lalit is blind and uses a screen reader to navigate the web. She hears an outline of the page's main ideas, then backtracks to read the parts she's most interested in.
-
 {{< /ring >}}
 
 
@@ -122,9 +107,10 @@ Are you using accurate headings on your page?
 - Use `h1`–`h6` to define your section headings, where `h1` is the highest section level and `h6` is the lowest.
 - Avoid skipping heading levels: Always start with `h1`, use `h2` next, and so on.
 - Use only one `h1` per page for the page title.
-<p class="usa-text-small">*While HTML5 allows you to reset headings to h1 on new section elements, some screen reader users will have difficulty discerning the structure of pages with multiple h1s. For this reason, it’s best to include only one h1 per page.</p>
 
-#### Resources
+While HTML5 allows you to reset headings to h1 on new section elements, some screen reader users will have difficulty discerning the structure of pages with multiple h1s. For this reason, it’s best to include only one h1 per page.
+
+### Resources
 
 **Video tutorial: Using headings**
 
@@ -134,10 +120,12 @@ Are you using accurate headings on your page?
 
 {{< youtube cOmehxAU_4s >}}
 
-#### WCAG 2.0 references
+{{< note variant="wcag" >}}
 [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
 
-# Page structure
+{{< /note >}}
+
+## Page structure
 
 {{< ring title="Why it's important" >}}
 Are you using semantic elements and roles?
@@ -149,17 +137,16 @@ Are you using semantic elements and roles?
 - Use sectioning elements to create a broad outline of your page content; examples of these elements include `header`, `nav`, `main`, and `footer`. Use content sectioning elements like `section`, `article`, and `aside` to organize the document content into logical pieces.
 - Add `role="banner"` to your masthead and `role="contentinfo"` to your page footer once per page to define landmark elements.
 
-#### Resources
+### Resources
 
 **Video tutorial: Landmarks**
 
 {{< youtube bww3IaktlRY >}}
 
-#### WCAG 2.0 references
+{{< note variant="wcag" >}}
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
-
-# Images
+{{< /note >}}
 
 ## Images
 {{< ring title="Why it's important" >}}
@@ -177,13 +164,12 @@ Do images have good alt text?
 - Don’t start the alt text with _Image of_ or _Photo of_ – the screen reader already announces that images are images.
 - If the image is decorative and you don’t want the screen reader to announce it at all, use null (empty) alt text (`alt=""`) or CSS background images.
 
-#### WCAG 2.0 references
-- [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
-- [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
-- [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
-
-# Color and contrast
+{{< note variant="wcag" >}}
+  - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
+  - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+  - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
+{{< /note >}}
 
 ## Color and contrast
 
@@ -199,7 +185,7 @@ Is there enough contrast between text and its background color?
 - Use an [automated tool](http://wave.webaim.org/) to quickly scan for color contrast problems.
 - Don’t use color alone to convey meaning. Use icons, text, and other visual elements to reinforce the meaning of the content.
 
-#### Resources
+### Resources
 
 **Video tutorial: Meeting contrast requirements**
 {{< youtube gH1JieTZQ1k >}}
@@ -210,12 +196,12 @@ Is there enough contrast between text and its background color?
 - [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Accessible Colors](http://accessible-colors.com/)
 
-#### WCAG 2.0 references
+{{< note variant="wcag" >}}
 [1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
+{{< /note >}}
 
 
-# Automated testing
-
+## Automated testing
 
 {{< ring title="Why it's important" >}}
 Did your accessibility testing tools provide accurate results?
@@ -230,7 +216,7 @@ Including automated accessibility testing throughout the development process can
 - **Continuous integration**: Use a tool like [AccessLint](https://www.accesslint.com/) to find accessibility issues in your GitHub pull requests.
 - **Simulate impairments**: Use tools to simulate color blindness, low vision, zoom, low contrast, high contrast, and more.
 
-#### Resources
+### Resources
 
 **Video tutorial: How I do an accessibility check (tools and extensions)**
 
