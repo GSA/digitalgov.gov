@@ -1,6 +1,6 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Accessibility for content designers"
+title: "Accessibility for user experience designers"
 deck: ""
 summary: ""
 guide: accessibility-for-teams
@@ -9,17 +9,9 @@ primary_image: guide-dap
 layout: single
 ---
 
-
-# Getting started
-
-## Accessibility for user experience (UX) designers
-
 Accessibility is usability for people who interact with products differently. Your role is to help the team approach accessibility as a facet of user experience rather than checklist of requirements.
 
 If you have project-specific questions, ask your agency’s accessibility team.
-
-
-# Inclusive design
 
 ## Adopt an [inclusive design](http://inclusivedesignprinciples.org/) mentality.
 
@@ -34,17 +26,12 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - Design for [progressive enhancement](https://articles.uie.com/progressive_enhancement/) by making sure every person is able to use your product using the most basic technologies, while layering on better experiences for those who can use them.
 - When conducting user research, make sure the diversity of your participants reflects the diverse abilities, circumstances, and backgrounds of your actual users.
 
-#### Resources
+### Resources
 - [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/design/inclusive/)
 - [Microsoft’s Inclusive Design Toolkit (PDF, 22 MB, 32 pages)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 - [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
-
-#### WCAG 2.0 references
 - [1.3 Adaptable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
 - [1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-understanding)
-
-
-# Assistive technology
 
 ## Get familiar with the basic ways people use assistive technology.
 
@@ -53,11 +40,9 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - Learn how to [navigate a webpage using only your keyboard]({{< link "/guides/accessibility-for-teams/front-end-development/" >}}) and learn how to use a screen reader, [such as VoiceOver on your Mac]({{< link "/guides/accessibility-for-teams/front-end-development/" >}}) so you can spot check new features when necessary. This can help you understand the technology itself, but keep in mind that folks who use it every day will often have their own strategies for using these tools.
 - Observe people using assistive technology (AT) on your product or others. In some cases you may be able to find videos demonstrating how people use different strategies to interact with digital products.
 
-#### WCAG 2.0 references
+### Resources
 - [1.3 Adaptable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
-
-# Humanize accessibility
 
 ## Humanize accessibility for your team.
 
@@ -69,10 +54,10 @@ If you have project-specific questions, ask your agency’s accessibility team.
   - Find an appropriate [empathy prompt](https://empathyprompts.net/#diminished-problem-solving-skills) and walk your team through it.
 - When possible, include users with disabilities in user research. During usability testing, make sure to allow them to use their own equipment (which has their own settings already in place).
 
-#### Resources
+### Resources
 [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
 
-# Tab order
+## Tab order
 {{< ring title="Why it's important" >}}
 Do your wireframes or design mockups indicate a logical tab order for people using a keyboard, or other assistive technology, to navigate?
 
@@ -85,12 +70,12 @@ Do your wireframes or design mockups indicate a logical tab order for people usi
 - Users should be able to tab through interactive items in a logical order, usually from left to right and top to bottom. Sometimes a logical order will be obvious to your front end team based on a simple layout, but in more complicated layouts you may need to identify the tab order in your wireframes or mockups.
 - Each interactive element should have a visible focus state, work with your visual designer to make sure you’ve accounted for these.
 
-#### WCAG 2.0 references
+### Resources
 - [1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-sequence)
 - [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-order)
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-visible)
 
-# Focus
+## Focus
 {{< ring title="Why it's important" >}}
 Have you designed for logical focus behavior on interactive elements?
 
@@ -101,12 +86,12 @@ Have you designed for logical focus behavior on interactive elements?
 ### Steps to take
 Work with your front end designer to identify any interactions on the page that require JavaScript or that can’t be created using default HTML elements. You should intentionally design how focus flows through these interactions.
 
-#### WCAG 2.0 references
+### Resources
 - [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-order)
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-visible)
 - [3.2.1 On Focus](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
 
-# Navigation shortcuts
+## Navigation shortcuts
 {{< ring title="Why it's important" >}}
 Have you included navigation shortcuts for screen reader and keyboard users?
 
@@ -126,12 +111,11 @@ Have you included navigation shortcuts for screen reader and keyboard users?
   - form
 - Include a “Skip to main content” link before the header for keyboard users. Keyboard users can’t take advantage of landmark navigation so a skip link helps them navigate more quickly. This link can be visually hidden but [should become visible when it has focus](http://webaim.org/techniques/skipnav/#hidden).
 
-#### WCAG 2.0 references
+### Resources
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
 
-
-# Forms
+## Forms
 {{< ring title="Why it's important" >}}
 Can all users understand and fill out forms?
 
@@ -145,19 +129,17 @@ Can all users understand and fill out forms?
 - Use a straw or make a narrow window with your fist and view the page through that, scanning vertically but not horizontally. This can help you discover if content is hidden from users using screen magnifiers.
 - Minimize the number of responses overall and that are displayed on a single page, but provide context clues throughout for people who might easily lose their place.
 
-#### Resources
+### Resources
 - [USWDS - Form component](https://designsystem.digital.gov/components/form/)
 - [USWDS - Form templates](https://designsystem.digital.gov/templates/form-templates/)
 - [GDS’s guidance on form structure](https://www.gov.uk/service-manual/design/form-structure)
-
-#### WCAG 2.0 references
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
 - [3.2.1 On Focus](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
 - [3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG20/quickref/#minimize-error-cues)
 - [4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)
 
-# Images
+## Images
 {{< ring title="Why it's important" >}}
 Have you identified which images are meaningful and which images are decorative in mockups?
 
@@ -171,12 +153,12 @@ Have you identified which images are meaningful and which images are decorative 
 - Images that have meaning should include alt text and possibly a longer description, work with the content designer on your team to create these.
 - Making sure any text in images of text is at least 14 points and has good contrast.
 
-#### WCAG 2.0 references
+### Resources
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
-# Touch targets
+## Touch targets
 {{< ring title="Why it's important" >}}
 Are your touch targets large enough and easy to reach?
 
@@ -188,7 +170,7 @@ Are your touch targets large enough and easy to reach?
 - Make sure you can reach primary actions easily with either right or left thumbs, even on larger phones. Items on the bottom of the screen tend to be easier to reach.
 - Make touch targets at least 44 px or 10 mm. This will allow the target to be tapped by the average adult finger pad, which measures 10 mm. The icons may be smaller and you can work with your developer to extend padding past the icon. Pay particular attention to how [line-height affects touch target size](http://www.3needs.org/en/testing/target-size.html).
 
-#### Resources
+### Resources
 - [2.5.5 Touch Target (WCAG 2.1)](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)
 - [3.2 Touch Target Size and Spacing \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
 - [3.5 Placing buttons where they are easy to access \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#h-placing-buttons-where-they-are-easy-to-access)

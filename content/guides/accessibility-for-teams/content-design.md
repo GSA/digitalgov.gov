@@ -9,84 +9,68 @@ primary_image: guide-dap
 layout: single
 ---
 
-# Getting started
-
-## Accessibility for content designers
-
 Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them.
 
-### How to use this guide
+## How to use this guide
 
 - We recommend conducting accessibility testing throughout the design and development processes.
 - If you have project-specific questions, ask your agency’s accessibility team.
 
-
-# Plain language
-
 ## Plain language
 
 {{< ring title="Why it's important" >}}
-
 Can you quickly understand the main points of the content?
 
 - Karin is not a native English speaker and she sometimes has trouble decoding legal or bureaucratic language.
 - John has a developmental disability and has difficulty interpreting content written above a sixth-grade reading level.
 - Kai has low tech literacy and often doesn’t understand highly technical language.
-
 {{< /ring >}}
 
 ### Steps to take
+
 - Refer to the [plain language section](https://pages.18f.gov/content-guide/plain-language/) of 18F’s Content Guide for general guidance, lists of words to avoid, and links to plain-language resources.
 - As you’re writing, consider the tech literacy level of your target audience. Define technical terms that may be unfamiliar, and use a product or service’s full name before using its acronym or abbreviation. You may also consider [adding a glossary](https://github.com/18F/glossary) if your content contains many potentially unfamiliar terms.
 Include in-line definitions for scientific, legal, or technical terms that you must use.
 - Avoid using idiomatic language.
 - Test the readability of your content using [Hemingway App](http://www.hemingwayapp.com/), [Readable.io](https://readable.io/), or a similar tool.
 
-#### Resources
-[plainlanguage.gov](https://plainlanguage.gov/guidelines/)
+### Resources
 
-#### WCAG 2.0 references
-- [3.1 Readable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/#meaning)
-- [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
-- [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
-- [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
-
-
-# Reference materials
+  - [plainlanguage.gov](https://www.plainlanguage.gov/guidelines/)
+  - [3.1 Readable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/#meaning)
+  - [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
+  - [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
+  - [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
 
 ## Reference materials
 
 {{< ring title="Why it's important" >}}
-
 Can you easily access supplementary information clarifying the content?
 
 - Gilbert reads at a twelfth-grade level but isn’t familiar with the nuances of a site’s subject matter; to fully understand the site content, he needs easy-to-access contextual information.
-
 {{< /ring >}}
 
 ### Steps to take
+
 - Consider defining technical or other potentially unfamiliar terms in line; this creates a much more continuous reading experience for the user.
 - If you find that you need to define a large number of terms within your content, consider adding a separate glossary page.
 - Use hyperlinks or a tooltip rather than footnotes to direct users to definitions. Footnotes can create a jarring reading experience, and they may not render correctly on mobile devices.
 
-#### WCAG 2.0 references
-[3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
 
+### Resources
 
-# Graphic elements
+- [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
 
 ## Easy-to-parse graphic elements
 
 {{< ring title="Why it's important" >}}
-
 Can you easily interpret content associated with graphic elements?
 
 - Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
-
 {{< /ring >}}
 
-
 ### Steps to take
+
 - Include visual elements in line with text rather than separated from it; a graphic’s proximity to associated content helps reinforce the relationship between the visual and its written description.
 - Make sure all graphics have descriptive captions (if necessary). Also make sure that captions share a common form and voice.
 - Include meaningful information describing each graphic element in the alt text.
@@ -94,39 +78,34 @@ Can you easily interpret content associated with graphic elements?
 - If the graphic element is decorative and you don’t want the screen reader to announce it at all, use  null (empty) alt text (`alt=""`).
 - Consider presenting dense technical language in a format other than as part of a graphic. When compressed to mobile view (in other words, a harder-to-read format), graphs and charts with technical language can be tough to interpret.
 
-#### WCAG 2.0 references
+### Resources
+
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
-
-# Scannable content
-
 ## Scannable content
 
 {{< ring title="Why it's important" >}}
-
 Can you scan the page without having to pause for long passages? Can you quickly grasp the meaning of a section based on its heading?
 
 - Jerrold has a cognitive disability that makes it difficult for him to read long, uninterrupted passages of text. 
 - Sharon reads most online content using her mobile device and finds it difficult to navigate long paragraphs.
-
 {{< /ring >}}
 
 ### Steps to take
+
 - Use short sentences, whenever possible. Varying sentence length can add interest to a piece, but whenever possible, avoid unnecessarily long sentences — these can present obstacles to people who have difficulty reading. They can also be harder to skim on mobile devices.
 - Likewise, keep your paragraphs short and focused. Short paragraphs, like short sentences, are easier to scan on mobile devices.
 - Use precise and descriptive [headings](https://content-guide.18f.gov/headings-and-titles/) to help readers grasp the main points of a piece without reading it in its entirety.
 - Check the continuity between sections. Paragraphs that don’t have clear thematic links from one to the next can cause difficulties for some readers.
 
-#### Resources
-[Headings and titles](https://content-guide.18f.gov/headings-and-titles/), 18F Content Guide
+### Resources
 
-#### WCAG 2.0 references
+- [Headings and titles](https://content-guide.18f.gov/headings-and-titles/), 18F Content Guide
 - [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
 - [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
 
-# Images
 
 ## Images
 
@@ -136,52 +115,43 @@ Do your images have descriptive alt text?
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 
 - Amanda is blind and uses a braille reader to understand the contents of images. 
 - John is looking for information with a search engine and needs help being directed to the right content (descriptive alt tags will improve search).
-
 {{< /ring >}}
 
 ### Steps to take
+
 - Include meaningful information describing each image in the alt text.
 - Use null (empty) alt text when text describing the image is already on the page (`alt=""`).
 - Don’t start the alt text with _Image of_ or _Photo of_ – the screen reader already announces that images are images.
 - If the image is decorative and you don’t want the screen reader to announce it at all, use  null (empty) alt text (`alt=""`).
 
-#### Resources
+### Resources
 
 {{< youtube XCa6U1BllCY >}}
 
-
-#### WCAG 2.0 references
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
-
-# Links
-
 ## Links
 
 {{< ring title="Why it's important" >}}
-
 Do all links have properly descriptive text?
 
 - Jerry is blind and uses a screen reader to navigate the web. He often uses the <code>tab</code> key to quickly scan a page by reading out only the text links without the surrounding copy.
-
 {{< /ring >}}
 
-
 ### Steps to take
+
 - Make sure the voice and tone of your link text match those of the rest of the content to create a more continuous user experience. Folks using screen readers and those reading page copy won’t be jarred from their experience if all text reflects the same voice and tone guidelines.
 - Create link text that’s as specific as possible. For example, instead of using Click here (which may not make sense for folks using screen readers), consider instead something like Download the full report. Descriptive links provide all users more information about an action they may undertake.
 - Include information about what a link leads to; this is especially important for folks who use mobile devices. If you’re linking to a PDF, say so.
 
-#### WCAG 2.0 references
+### Resources
+
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [2.4.4 Link Purpose (In Context)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
 
-#  Information architecture
-
 ##  Information architecture
-
 
 {{< ring title="Why it's important" >}}
 Is your site organized such that everyone can navigate it easily?
@@ -189,10 +159,10 @@ Is your site organized such that everyone can navigate it easily?
 - Beth has a lower tech literacy level and needs a site’s layout to be clear.
 - Julian has low vision and uses a screen reader to navigate the web. Kendra has a newborn and her attention is often divided; she needs to be able to understand a site’s contents at a glance.
 - Lyle is undergoing a crisis and needs to quickly find just the content pertinent to him.
-
 {{< /ring >}}
 
 ### Steps to take
+
 - Write descriptive page titles. Users who rely on assistive technologies like screen readers may not be able to use visual cues to determine a page’s purpose. Make sure your page titles concisely convey each page’s focus.
 - Make sure users can navigate a site in multiple ways. Some strategies include providing a table of contents, providing a sitemap, linking between pages, and including sitewide search.
 - Indicate changes in language (for example, when including a foreign word in a predominantly English text). This will help people using screen readers, people with cognitive disabilities, and folks using braille translation software to fully understand your content.
@@ -201,41 +171,28 @@ Is your site organized such that everyone can navigate it easily?
 - If forms are present, make sure the screen reader reads labels and instructions.
 
 
-<!-- TODO: turn into box variant -->
-<ul class="usa-accordion usa-accordion--bordered">
-  <li>
-    <button class="usa-accordion__button"
-      aria-expanded="false" aria-controls="amendment-1">
-      Use VoiceOver screen reader on Mac
-    </button>
-    <div id="amendment-1" class="usa-accordion__content">
-      <ul>
-        <li><b>Turn VoiceOver on</b>: command (⌘) + F5</li>
-        <li><b>Go into web area</b>: control + alt + shift + down arrow (⬇)</li>
-        <li><b>Navigate right</b>: control + alt + right arrow (➡️️)</li>
-        <li><b>Navigate by headings</b>: control + alt + command (⌘) + H</li>
-        <li><b>Click</b>: control + alt + spacebar</li>
-      </ul>
-      <p class="usa-text-small">Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.</p>
-      <ul>
-        <li><b>Turn on rotor</b>: control + alt + U</li>
-        <li><b>Navigate rotor</b>: left and right, up and down arrows</li>
-      </ul>
-    </div>
-  </li>
-</ul>
+### Use VoiceOver screen reader on Mac
+- **Turn VoiceOver on**: command (⌘) + F5
+- **Go into web area**: control + alt + shift + down arrow (⬇)
+- **Navigate right**: control + alt + right arrow (➡️️)
+- **Navigate by heading**: control + alt + command (⌘) + H
+- **Click**: control + alt + spacebar
 
-#### WCAG 2.0 references
+Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.
+
+- **Turn on rotor**: control + alt + U
+- **Navigate rotor**: left and right, up and down arrows
+
+
+### Resources
+
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
 
 
-# Video and multimedia
-
 ## Video and multimedia
 
 {{< ring title="Why it's important" >}}
-
 Is everyone able to access your multimedia content?
 
 - Blake is hearing-impaired and cannot rely on audio.
@@ -243,6 +200,7 @@ Is everyone able to access your multimedia content?
 {{< /ring >}}
 
 ### Steps to take
+
 - Make sure that captions are synchronized to appear around the same time that they would be heard in the audio.
 - Captions do not need to be a word-for-word version of the audio, but should be a concise equivalent.
 - Use a modern video player that supports captions.
@@ -250,10 +208,12 @@ Is everyone able to access your multimedia content?
   - To make the transcript available, link to it from your web page, wherever you link to or display the associated video.
 - Audio description is required when important information is visually shown on the screen that cannot be observed by a blind or vision-impaired individual.  
 
-#### About transcripts
+### About transcripts
+
 A transcript is a text version of the media content. A transcript should capture all the spoken audio, plus on-screen text and descriptions of key visual information that wouldn’t otherwise be accessible without seeing the video. Transcripts make video content accessible to everyone, including people who are unable to view the video due to accessibility problems or technical limitations. They are also helpful for people who want to quickly scan or search a video’s content but do not have the time to watch the entire video.
 
-#### WCAG 2.0 references
+### Resources
+
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.2.2 Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
 - [1.2.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)

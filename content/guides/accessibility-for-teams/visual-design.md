@@ -9,10 +9,6 @@ primary_image: guide-dap
 layout: single
 ---
 
-# Getting started
-
-## Accessibility for visual designers
-
 Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality.
 
 ### How to use this guide
@@ -34,14 +30,14 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - Slightly temper the contrast between your text and background color. For example: don’t use pure black text on a pure white background. Stark contrast can result in blurred or moving text for people with Irlen syndrome.
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
-#### Resources
+### Resources
 
 **Video tutorial: Meeting contrast requirements**
 {{< youtube gH1JieTZQ1k >}}
 **Video tutorial: How I do an accessibility check (contrast)**
 {{< youtube cOmehxAU_4s >}}
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 - [Guideline 1.4.3 – Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
 ## Can you still understand everything the design is communicating without depending on color?
@@ -52,7 +48,7 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - Don’t use color alone to convey meaning. Use icons, written content, and other visual elements to reinforce clear communication of the content.
 - Test what it’s like to view your designs through a [color blindness simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/).
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 [1.4.1 Use of Color](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-without-color)
 
 
@@ -73,11 +69,12 @@ Can you quickly understand the meaning of the page and complete your task?
 - Consider reading order. The reading order should be the same as the visual order.
 - Group related items in proximity to one another to help those who have low vision or trouble focusing on the screen.
 
-#### Resources
+### Resources
+<!-- https://material.io/guidelines/usability/accessibility.html this link is a 404 -->
 - [Accessibility - Material Design](https://material.io/guidelines/usability/accessibility.html)
 - [WebAIM: Web Accessibility for Designers](http://webaim.org/resources/designers/)
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 - [1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-sequence)
 - [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
 
@@ -108,12 +105,12 @@ Can you easily read and comprehend textual information on the page?
 - **Use headings to communicate hierarchy.** Ensure heading styles differ from paragraph text by some combination of size, weight, face, or color. This ensures they’re distinct from paragraph text but are related to each other with some consistency, which helps with scanning.
 - **Use your type size and line width to determine a line height that people can comfortably read.** The larger the type size and line width, the larger the line height should be. For running/body text, that’s usually around 1.4-1.65, headings at around 1-1.3, and captions or short lines at around 1.3. Lines that are leaded too tightly or loosely can diminish readability by making it harder for the eye to know where to return to when the line breaks.
 
-#### Resources
+### Resources
 - [Inclusive Design Patterns by Heydon Pickering](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
 - [Better Web Type by Matej Latin](https://betterwebtype.com/)
 - [Text legibility - Material Design](https://material.io/design/color/text-legibility.html)
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 [1.4.8 Visual Presentation](https://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast-visual-presentation)
 
 
@@ -131,13 +128,13 @@ Can you easily understand content associated with graphics, icons, and images?
 - Use icons as helpful visual cues to connect to concepts. Only use icons purposefully and not for decoration. Use familiar icons that people are accustomed to associating with common actions, like a trash can to represent deleting something.
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
 
-# Data visualizations
+## Data visualizations
 
 {{< ring title="Why it's important" >}}
 Can you understand the overall trend of the graph? Can you quickly grasp the relationship between parts of the data?
@@ -152,7 +149,7 @@ Can you understand the overall trend of the graph? Can you quickly grasp the rel
 - Make sure there’s sufficient contrast between graph colors so people with color blindness can distinguish the colors.
 - Consider complementing the graph with a table of information so that it can be read more easily by screen reader users and when compressed to mobile.
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
@@ -174,12 +171,12 @@ Are forms as simple as possible and only ask what’s needed to complete the tas
 - **Do not use placeholder text in form fields.** Placeholder text causes usability issues because it disappears when content is entered into the form field. Hints and instructions should be persistent and placed outside of the field.
 - **Provide highly visible and specific error states.** Use multiple cues like color, icons, bold font weight, heavy border or outline, and helpful text to make sure users don’t overlook this critical information.
 
-#### Resources
+### Resources
 - [USWDS - Form component](https://designsystem.digital.gov/components/form/)
 - [USWDS - Form templates](https://designsystem.digital.gov/templates/form-templates/)
 - [Nielsen Norman Group: Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
 - [3.2.1 On Focus](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
@@ -201,7 +198,7 @@ Can you understand key information and perform critical tasks on a mobile device
 - Make touch targets at least 48px. This will allow the target to be tapped by the average adult finger pad, which measures 10mm. The icons may be smaller and you can work with your developer to extend padding past the icon.
 - In most cases, touch targets are separated by 8px of space or more to ensure users don't select the wrong action.
 
-#### Resources
+### Resources
 - [3.2 Touch Target Size and Spacing \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
 - [3.5 Placing buttons where they are easy to access \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#h-placing-buttons-where-they-are-easy-to-access)
 
@@ -220,12 +217,12 @@ Can you reach anything that’s interactive using the tab key?
 Make sure that no content gets focused offscreen or is hidden from view.
 - Check to see that the page includes a skip navigation link (if navigation is present before the main content). This will allow users to skip past navigation to reach the page’s main content.
 
-#### Resources
+### Resources
 
 **Video tutorial: How I do an accessibility check**
 {{< youtube cOmehxAU_4s >}}
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 - [2.1 Keyboard Accessible (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
 - [2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)
 - [2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-trapping)
@@ -245,29 +242,19 @@ Can you use a screen reader to access the page content?
 - If forms are present, make sure the screen reader reads labels and instructions.
 - Make sure that all links are properly descriptive. For example, the link text “Read More” provides no context about where the user will go if they click it, while “Read more about dinosaurs” describes what’s on the other side of the link.
 
-<ul class="usa-accordion usa-accordion--bordered">
-  <li>
-      <button class="usa-accordion__button" aria-expanded="false" aria-controls="amendment-1">
-        Use VoiceOver screen reader on Mac
-      </button>
-    <div id="amendment-1" class="usa-accordion__content">
-      <ul>
-        <li><b>Turn VoiceOver on</b>: command (⌘) + F5</li>
-        <li><b>Go into web area</b>: control + alt + shift + down arrow (⬇)</li>
-        <li><b>Navigate right</b>: control + alt + right arrow (➡️️)</li>
-        <li><b>Navigate by headings</b>: control + alt + command (⌘) + H</li>
-        <li><b>Click</b>: control + alt + spacebar</li>
-      </ul>
-      <p class="usa-text-small">Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.</p>
-      <ul>
-        <li><b>Turn on rotor</b>: control + alt + U</li>
-        <li><b>Navigate rotor</b>: left and right, up and down arrows</li>
-      </ul>
-    </div>
-  </li>
-</ul>
+### Use VoiceOver screen reader on Mac
+- **Turn VoiceOver on**: command (⌘) + F5
+- **Go into web area**: control + alt + shift + down arrow (⬇)
+- **Navigate right**: control + alt + right arrow (➡️️)
+- **Navigate by heading**: control + alt + command (⌘) + H
+- **Click**: control + alt + spacebar
 
-#### Resources
+Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.
+
+- **Turn on rotor**: control + alt + U
+- **Navigate rotor**: left and right, up and down arrows
+
+### Resources
 
 **Video tutorial: Screen Reader Basics: VoiceOver**
 {{< youtube 5R-6WvAihms >}}
@@ -276,5 +263,5 @@ Can you use a screen reader to access the page content?
 
 - [Download NVDA screen reader (NV Access)](https://www.nvaccess.org/download/)
 
-#### WCAG 2.0 references
+### WCAG 2.0 references
 [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)

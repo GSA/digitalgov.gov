@@ -37,7 +37,7 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - Consider testing your product with people in their own context, such as people who use alternative reading devices, have color blindness impairments, or motor impairments.
 - Set a regular cadence for testing accessibility scenarios.
 
-#### Resources
+### Resources
 - [Personas for Accessible UX](https://prod.rm.gfolkdev.net/a-web-for-everyone/personas-for-accessible-ux/)
 
 ## Build accessibility into your project workflow rather than retrofitting it at the end
