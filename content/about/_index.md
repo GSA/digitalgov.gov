@@ -86,7 +86,7 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
       </td>
     </tr>
     <tr>
-      <td">Migrate the accessibility.digital.gov microsite to Digital.gov as a guide</th>
+      <td>Migrate the accessibility.digital.gov microsite to Digital.gov as a guide</th>
       <td>
         In progress
       </td>
