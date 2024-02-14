@@ -13,7 +13,6 @@ summary: ""
 aliases:
   - /topics/tos/
 
-
 # Weight
 weight: 2
 
