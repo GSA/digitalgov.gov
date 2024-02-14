@@ -18,6 +18,8 @@ aliases:
   - /topics/login-gov/
   - /topics/national-cyber-security-awareness-month/
   - /topics/ncsam/
+  - /topics/nist/
+  - /topics/authentication/
 
 # Weight
 weight: 2

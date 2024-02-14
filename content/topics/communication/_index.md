@@ -17,6 +17,9 @@ aliases:
   - /topics/presentations/
   - /topics/public-safety/
   - /topics/writing/
+  - /topics/fcc/
+  - /topics/federal-communications-commission/
+
 
 # Weight
 weight: 1

@@ -8,7 +8,7 @@ summary: IDmanagement.gov has received an update that makes it easier for users 
 topics:
   - security
   - user-experience
-  - project-management
+  - product-and-project-management
 
 # See all authors at https://digital.gov/authors
 authors:

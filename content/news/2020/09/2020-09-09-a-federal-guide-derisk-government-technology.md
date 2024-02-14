@@ -20,7 +20,6 @@ summary: ""
 topics: 
   - governance
   - product-and-project-management
-  - project-management
   - acquisition
 
 # Page weight: controls how this page appears across the site

@@ -11,6 +11,7 @@ title: "Crowdsourcing and Citizen Science"
 summary: ""
 
 aliases:
+  - /topics/10x/
   - /topics/citizen-science/
   - /topics/citizen-science-and-crowdsourcing-community-of-practice/
   - /topics/crowdfunding/

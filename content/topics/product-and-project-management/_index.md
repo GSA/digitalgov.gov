@@ -11,6 +11,9 @@ title: "Product and project management"
 summary: ""
 
 aliases:
+  - /topics/cio/
+  - /topics/cio-council/
+  - /topics/work-in-progress/
   - /topics/agile/
   - /topics/agile-lean-community-of-practice/
   - /topics/kanban/

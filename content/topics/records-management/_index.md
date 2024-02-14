@@ -12,7 +12,7 @@ summary: ""
 
 aliases:
   - /topics/digital-records/
-
+  - /topics/national-archives-and-records-administration/
 
 # Weight
 weight: 1

@@ -10,6 +10,9 @@ title: "Best Practices"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/resource/
+  - /topics/whats-new/
 
 # Weight
 weight: 1

@@ -11,6 +11,7 @@ title: "Emerging Tech"
 summary: ""
 
 aliases:
+  - /topics/darpa/
   - /topics/3d-printing/
   - /topics/augmented-reality/
   - /topics/blockchain/

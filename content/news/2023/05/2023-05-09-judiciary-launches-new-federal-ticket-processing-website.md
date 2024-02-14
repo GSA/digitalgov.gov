@@ -10,7 +10,7 @@ summary: Individuals can now pay tickets for minor federal violations more easil
 topics:
   - mobile
   - accessibility
-  - seo
+  - search-engine-optimization
   - security
   - design
 slug: judiciary-launches-new-federal-ticket-processing-website
