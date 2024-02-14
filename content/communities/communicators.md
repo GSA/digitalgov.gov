@@ -9,11 +9,11 @@ aliases:
 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - plain-language
   - social-media
   - communication
-  - writing
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

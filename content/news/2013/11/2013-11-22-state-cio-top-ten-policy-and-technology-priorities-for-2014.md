@@ -6,7 +6,7 @@ summary: Security, consolidation, cloud services and enterprise portfolio manage
 authors:
   - lnelson
 topics:
-  - product-management
+  - product-and-project-management
   - security
 ---
 

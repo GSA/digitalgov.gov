@@ -9,7 +9,7 @@ summary: As a bilingual program, USAGov aims to give English and Spanish-languag
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - user-research
+  - research
   - communication
 slug: speaking-your-language-usagov-outreach-approach-to-bilingual-content
 # Controls how this page appears across the site

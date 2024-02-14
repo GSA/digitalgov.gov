@@ -6,12 +6,12 @@ summary: 'No, this is not another post about podcasting but about a different vo
 authors:
   - tyrus-manuel
 topics:
-  - content
   - content-strategy
-  - personas
+  - content-strategy
+  - research
   - social-media
-  - the-content-corner
-  - writing
+  - content-strategy
+  - communication
 
 ---
 
@@ -55,4 +55,4 @@ With this template, the first question of content type such as tweets, blogs, or
 
 The most important thing is to have a guide for voice and tone established so that it can be followed for critical content such as any social media or email promotional pieces. As stated earlier, social media is especially sensitive to proper tone and voice because at its core it is a conversation you are having with your users. And to be engaging and create benefit for your users you need to be able to not only communicate the proper information, at the proper time, but also in the proper way, and that requires the right voice.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

@@ -1,18 +1,15 @@
 ---
 slug: mobile-development-and-testing-with-chrome-devtools
 date: 2016-11-21 12:00:19 -0400
-title: Mobile Development and Testing with Chrome Developer Tools
-summary: 'Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing.'
+title: "Mobile Development and Testing with Chrome Developer Tools"
+summary: "Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing."
 
 authors:
   - angela-smithers
 topics:
-  - code
+  - software-engineering
   - design
   - mobile
-  - code
-  - mobile
-  - mobile-testing
 
 ---
 
@@ -26,7 +23,7 @@ Could we purchase an application or a subscription to an online io to test withi
 
 ## What Is Chrome’s Mobile Dev Tool?
 
-Although not truly magic, [Chrome Developer Tools](https://developer.chrome.com/) (or DevTools) are a set of web authoring and debugging tools built into the Google Chrome web browser. Using the [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/) can be an integral part of the government’s efforts to reach citizens where they are most likely to be reached; on [their mobile devices]({{< ref "2016-04-26-trends-on-tuesday-smartphone-ownership-reaching-saturation-fueling-media-consumption.md" >}}). Its controls allow you to simulate a wide range of devices, and help you build [responsive]({{< ref "/topics/responsive-web-design" >}}), [mobile-first]({{< ref "/topics/mobile-first" >}}) web [experiences]({{< ref "2016-07-13-the-data-briefing-mobile-apps-responsive-web-sites-and-the-mobile-moment.md" >}}). Thankfully, it’s also free.
+Although not truly magic, [Chrome Developer Tools](https://developer.chrome.com/) (or DevTools) are a set of web authoring and debugging tools built into the Google Chrome web browser. Using the [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/) can be an integral part of the government’s efforts to reach citizens where they are most likely to be reached; on [their mobile devices]({{< ref "2016-04-26-trends-on-tuesday-smartphone-ownership-reaching-saturation-fueling-media-consumption.md" >}}). Its controls allow you to simulate a wide range of devices, and help you build [responsive]({{< ref "/topics/mobile" >}}), [mobile-first]({{< ref "/topics/mobile" >}}) web [experiences]({{< ref "2016-07-13-the-data-briefing-mobile-apps-responsive-web-sites-and-the-mobile-moment.md" >}}). Thankfully, it’s also free.
 
 I recently asked members of the [MobileGov Community]({{< ref "/communities" >}}) if anyone else had experience using DevTools for testing mobile device views of a website. Troy Kitch and Robert Aspinall of the [National Ocean Service](http://oceanservice.noaa.gov/) (NOS) at [National Oceanic and Atmospheric Administration](http://www.noaa.gov/) (NOAA) were among those who responded. Troy said that he uses it often for the NOS website and that &#8220;Google&#8217;s Developer Tool is a somewhat more convenient tool [than others mentioned], because it also allows you to test style changes on the fly and preview at different sizes before actually changing your style sheets.&#8221; Robert added, &#8220;It does a great job of imitating fingertip input and disabling hover events (no way to hover on a mobile device). It&#8217;s useful when testing our responsive websites.&#8221;
 
@@ -48,8 +45,10 @@ The Viewport Controls that appear at the top of the browser window allow you to 
 
 So there you have it. Hopefully, this has pointed some of us in the direction of a free design/development tool that can help speed [mobile development work]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}) within the government.
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+---
 
-_Federal agencies can register their mobile products—mobile websites and native apps—on the [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov) to verify that they’re [mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" >}}), authoritative sources of government information. [Learn more]({{< ref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry.md" >}}) about the Registry and [sign up here]({{< ref "service_us-digital-registry.md" >}})._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_Federal agencies can register their mobile products—mobile websites and native apps—on the [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/) to verify that they’re [mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" >}}), authoritative sources of government information. [Learn more]({{< ref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry.md" >}}) about the Registry and [sign up here]({{< ref "service_us-digital-registry.md" >}})._
 
 _Got a great idea for a mobile product or service and need help planning or releasing it? Contact the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}). Are you a federal employee interested in how agencies are using mobile technologies and building government-wide solutions? Join the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}}) with your .gov or .mil email address._

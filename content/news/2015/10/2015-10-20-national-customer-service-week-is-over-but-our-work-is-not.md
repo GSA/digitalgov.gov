@@ -6,15 +6,11 @@ summary: 'Get your customer personas right, and you will improve the customer ex
 authors:
   - ktrebon
 topics:
-  - product-management
-  - strategy
-  - "508"
   - accessibility
+  - product-and-project-management
+  - content-strategy
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - personas
-  - section-508
+  - research
   - user-experience
 ---
 

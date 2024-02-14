@@ -6,8 +6,9 @@ summary: Recently, DigitalGov devoted an entire month to exploring how good user
 authors:
   - bbrantley
 topics:
-  - api
-  - the-data-briefing
+  - open-data
+  - application-programming-interface
+  - emerging-tech
   - user-experience
   
 ---
@@ -25,5 +26,5 @@ Developer experience (DX) focuses on the developers who use <a href="{{< ref "20
 
 The fifth piece of advice for building a good DX is to never assume. Never assuming is also good advice for creating a good data prosumer experience. Data prosumers differ from developers in that data prosumers create and use data at the same time—even though they may not be developers. For example, data prosumers create data when they query a federal website about a topic such as securing a small business loan. The data prosumer creates data for the federal government by giving information about their small business and personal financial situation. In return, this information is paired with pre-existing government information to determine the best small business loan alternatives. Both the data prosumer and the federal government benefit from the exchange of data. Designing for a good exchange of data ensures that the information form interfaces are intuitive and well-designed. It also means that all parties’ privacy is well-protected and how the data will be used is understood by both sides.
 
-At the heart of UX, DX, and DPX is the experience that is built on empathy. Federal government website builders, API developers, data designers, and government communicators must overcome their “<a href="https://en.wikipedia.org/wiki/Curse_of_knowledge" target="_blank">curse of knowledge</a>” of their data and APIs to emphasize how users may approach the data or API. Creating a good experience means that the data or API will be more readily used, which is a benefit to both the agency and the American public._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+At the heart of UX, DX, and DPX is the experience that is built on empathy. Federal government website builders, API developers, data designers, and government communicators must overcome their “<a href="https://en.wikipedia.org/wiki/Curse_of_knowledge" target="_blank">curse of knowledge</a>” of their data and APIs to emphasize how users may approach the data or API. Creating a good experience means that the data or API will be more readily used, which is a benefit to both the agency and the American public._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

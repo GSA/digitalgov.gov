@@ -6,9 +6,9 @@ summary: Like any newer technology, cloud computing has faced adoption challenge
 authors:
   - mary-davie
 topics:
-  - product-management
-  - strategy
-  - cloud
+  - product-and-project-management
+  - content-strategy
+  - cloud-and-infrastructure
   - security
 ---
 

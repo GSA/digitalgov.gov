@@ -13,10 +13,9 @@ end_date: 2020-12-03 15:00:00 -0500
 topics:
   - accessibility
   - multilingual
-  - multilingual-community
   - user-experience
   - customer-experience
-  - content
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - willa

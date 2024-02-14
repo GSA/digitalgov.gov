@@ -6,7 +6,7 @@ summary: 'Bing, Google, and Yahoo have all rolled out major redesigns to their s
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
+  - content-strategy
   - search
 ---
 

@@ -6,9 +6,8 @@ summary: 'Gamification is the practice of using game technology or design princi
 authors:
   - mike-kruger
 topics:
-  - product-management
-  - strategy
-  - gamification
+  - product-and-project-management
+  - content-strategy
   - mobile
   - social-media
 ---

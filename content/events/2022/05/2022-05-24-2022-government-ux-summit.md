@@ -13,8 +13,9 @@ topics:
   - user-experience
   - customer-experience
   - design
-  - user-research
+  - research
   - accessibility
+  - information-architecture
 
 # See all authors at https://digital.gov/authors
 authors:

@@ -6,10 +6,8 @@ summary: ' DigitalGov has seen posts from members of the community who land on o
 authors:
   - sara-smith
 topics:
-  - metrics
+  - analytics
   - social-media
-  - social-media
-  - social-media-metrics
 ---
 
 {{< legacy-img src="2015/04/400-x-72-fb-twitter-email-plus-sign.jpg" alt="Four typical social share icon buttons for Facebook, Twitter, email and the plus sign for more options in a horizontal line." >}}

@@ -12,7 +12,7 @@ deck: "Understand how digital services impact trust in government."
 summary: "Trust has to be earned every time. Federal websites and digital services can’t assume it. The guidance, resources, and community you find here will help to create government websites that inspire trust in federal digital resources."
 
 # Weight
-weight: 1
+weight: 2
 
 # Set the legislation card title and link
 legislation:

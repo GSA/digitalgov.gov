@@ -7,7 +7,6 @@ summary: "This article highlights unique tips related to digital content, audien
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
-  - socialgov-community
 
 # See all authors at https://digital.gov/authors
 authors:

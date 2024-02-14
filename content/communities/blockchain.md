@@ -12,7 +12,7 @@ expirydate: 2021-12-10
 
 # see all topics at https://digital.gov/topics
 topics:
-  - blockchain
+  - emerging-tech
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

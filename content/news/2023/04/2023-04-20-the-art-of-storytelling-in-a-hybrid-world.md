@@ -8,12 +8,12 @@ summary: Combined with technology and audience awareness, our increasingly
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - social media
-  - writing
+  - communication
   - plain-language
   - communication
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 # See all authors at https://digital.gov/authors
 authors:
   - frances-carden

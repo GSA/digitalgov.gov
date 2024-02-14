@@ -7,7 +7,7 @@ authors:
   - ellen-langhans
   - tim-hudak
 topics:
-  - user-testing-and-research
+  - research
   - customer-experience
 ---
 

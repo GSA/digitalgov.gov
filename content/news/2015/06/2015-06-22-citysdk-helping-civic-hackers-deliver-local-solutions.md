@@ -6,11 +6,9 @@ summary: 'Civic hackers are a special breed&mdash;their primary motivation is cl
 authors:
   - tyrone-grandison
 topics:
-  - api
-  - json
-  - national-day-of-civic-hacking
+  - application-programming-interface
   - open-data
-  - united-states-census-bureau
+  - software-engineering
 ---
 
 Civic hackers are a special breed—their primary motivation is closely tied to the social issues closest to their hearts.

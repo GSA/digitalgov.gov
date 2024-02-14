@@ -9,14 +9,12 @@ authors:
   - eric-mill
 
 topics:
-  - product-management
+  - product-and-project-management
   - domain-management
-  - strategy
-  - https
+  - content-strategy
   - security
 
 primary_image: "https-padlock-weerapatkiatdumrong-istock-thinkstock-520737069-comp"
-
 ---
 
 **Effective May 15, 2017, GSA’s DotGov Domain Registration Program will begin providing HSTS Preloading services for federal agencies.** HSTS stands for HTTP Strict Transport Security (or HTTPS, for short). This new service helps ensure that visitor communication with .gov websites is not modified or compromised, and hostile networks cannot inject malware, tracking beacons, or otherwise monitor or change visitor interactions online.

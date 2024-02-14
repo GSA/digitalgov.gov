@@ -7,12 +7,8 @@ authors:
   - victoria-wales
 topics:
   - accessibility
-  - social-media
-  - video
-  - writing
-  - accessibility
-  - crowdsourcing
-  - infographic
+  - multimedia
+  - communication
   - plain-language
   - social-media
 

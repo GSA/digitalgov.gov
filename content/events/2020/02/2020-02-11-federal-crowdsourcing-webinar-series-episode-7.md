@@ -18,10 +18,10 @@ end_date: 2020-02-11 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - code
   - innovation
   - software-engineering
-  - crowdsourcing
+  - open-source
+  - crowdsourcing-and-citizen-science
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -6,11 +6,10 @@ summary: ' More than 100 digital engagement and open data managers from across g
 authors:
   - jherman
 topics:
-  - code
+  - software-engineering
   - social-media
-  - data-gov
+  - open-government
   - open-data
-  - socialgov-community
 ---
 
 {{< legacy-img src="2014/08/600-x-180-SocialGov-Open-Data-White-House-EEOB-Summit-Aug-7th-2014.jpg" alt="SocialGov Open Data White House EEOB Summit, Aug 7th 2014" >}}

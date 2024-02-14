@@ -6,12 +6,9 @@ summary: 'The National Aeronautics and Space Administration (NASA) has an enormo
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - mobile
   - challenges-and-prize-competitions
-  - data-gov
-  - mobile-ux-guideline-5
-  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/08/600-x-466-Spacecraft-Soyuz-And-Space-Station-3DSculptor-iStock-Thinkstock-480050411.jpg" alt="Spacecraft Soyuz and Space Station" caption="" >}}

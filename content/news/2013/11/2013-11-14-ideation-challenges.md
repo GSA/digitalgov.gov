@@ -6,7 +6,7 @@ summary: 'Tips for Conducting an Ideation Challenge Examples of Ideation Challen
 authors:
   - ktrebon
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - innovation
 ---
 

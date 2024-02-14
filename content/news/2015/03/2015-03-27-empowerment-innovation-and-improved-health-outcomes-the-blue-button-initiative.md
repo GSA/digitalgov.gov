@@ -6,11 +6,10 @@ summary: 'Finding and getting access to our own health information can be a comp
 authors:
   - awichman
 topics:
-  - api
-  - code
-  - data-gov
-  - internet-of-things
-  - json
+  - application-programming-interface
+  - software-engineering
+  - open-data
+  - emerging-tech
   - open-government
 ---
 

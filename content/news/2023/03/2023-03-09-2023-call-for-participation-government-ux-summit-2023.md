@@ -6,7 +6,7 @@ summary: "The UX Summit will be a one day virtual event on June 14, 2023. New an
 topics:
   - user-experience
   - usability
-  - user-research
+  - research
   - design
 # See all authors at https://digital.gov/authors
 authors:
@@ -57,7 +57,7 @@ Presentation materials must follow all [Community Guidelines](https://digital.go
 
 Selected and confirmed presenters must submit their presentation slides in PowerPoint at least two weeks before the summit. Presentation materials used during the summit will be posted to the Digital.gov event page before the summit begins. 
 
-{{< note "action" >}}**Submissions are due by March 23, 2023**
+{{< note variant="action" >}}**Submissions are due by March 23, 2023**
 
 To send us your proposed topic and abstract, please complete the [submission form](https://feedback.gsa.gov/jfe/form/SV_20h59USaqXlMBfg).{{< /note >}}
 

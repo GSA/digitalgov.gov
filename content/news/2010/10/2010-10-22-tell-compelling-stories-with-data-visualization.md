@@ -6,7 +6,6 @@ summary: 'No information is more critical to your work than the numbers that rev
 authors:
   - apiazza
 topics:
-  - metrics
   - analytics
   - data-visualization
 ---
@@ -24,7 +23,7 @@ The tips include:
 
 In government services, the challenge merely begins with collecting vital data. Next, you work to make sense of it. Followed by sharing it with others, accurately and clearly.
 
-Information design expert and Yale professor **[Edward Tufte](http://www.stanfordalumni.org/news/magazine/2007/marapr/features/tufte.html)** wrote,
+Information design expert and Yale professor **[Edward Tufte](https://web.archive.org/web/20120625125908/http://www.stanfordalumni.org/news/magazine/2007/marapr/features/tufte.html)** wrote,
 
 > “Clutter and confusion are not attributes of information; they are failures of design.”
 

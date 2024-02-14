@@ -1,9 +1,4 @@
-{{ $path := "" }}{{ with .File }}
-  {{ $path = .Path }}
-{{ else }}
-  {{ $path = .Path }}
-{{ end }}
-<div class="card-service" data-gh-edit-page="{{- $path -}}">
+<div class="card-service">
   {{/* set the href as a variable */}}
   {{- $href := "" -}}
   {{- if .Params.source_url -}}

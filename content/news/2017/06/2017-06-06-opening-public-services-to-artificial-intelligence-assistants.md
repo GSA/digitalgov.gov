@@ -6,9 +6,9 @@ summary: '&ldquo;Hey, Computer, how do I access my public services?&rdquo;  Citi
 authors:
   - jherman
 topics:
-  - content
+  - content-strategy
   - emerging-tech
-  - product-management
+  - product-and-project-management
   - user-experience
   - artificial-intelligence
   - customer-experience
@@ -39,6 +39,6 @@ We are planning a new event at the U.S. General Services Administration Central 
 
 GSA’s [Emerging Citizen Technology Program](https://emerging.digital.gov/) unites federal agencies across government through pilot programs and collaborative Communities to develop the shared resources needed to efficiently and compliantly adopt emerging technologies for which agencies identify business cases but no guidance or inadequate resources may exist, including [Artificial Intelligence for Citizen Services](https://emerging.digital.gov/artificial-intelligence/), [Blockchain](https://emerging.digital.gov/blockchain/), [Virtual/Augmented Reality](https://emerging.digital.gov/virtual-reality/), and [Social Technology](https://emerging.digital.gov/Socialgov/).
 
-* * *
+---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

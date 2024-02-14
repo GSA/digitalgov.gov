@@ -6,19 +6,14 @@ summary: 'Today we’re launching three new initiatives powered by GSA Digital C
 authors:
   - jherman
 topics:
-  - emerging-tech
-  - product-management
+  - product-and-project-management
   - mobile
-  - social-media
-  - ai
-  - artificial-intelligence-for-citizen-services-community
-  - augmented-reality
+  - artificial-intelligence
+  - emerging-tech
   - innovation
   - multilingual
   - social-media
-  - us-digital-registry
-  - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 Today we’re launching three new initiatives [powered by GSA Digital Communities]({{< ref "/communities" >}}) that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry.

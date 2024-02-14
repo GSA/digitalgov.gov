@@ -6,9 +6,8 @@ summary: 'Things you don&#8217;t know about this website, DigitalGov.gov, that i
 authors:
   - gwynne-kostin
 topics:
-  - content
-  - analytics
   - content-strategy
+  - analytics
   - search
 ---
 

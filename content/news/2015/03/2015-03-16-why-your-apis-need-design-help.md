@@ -6,14 +6,10 @@ summary: ' Anything built should be built right. It doesn&#8217;t matter if itâ€
 authors:
   - jonathan-rubin
 topics:
-  - api
-  - code
-  - api
   - application-programming-interface
-  
-  - json
+  - software-engineering
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
 ---
 

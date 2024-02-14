@@ -25,10 +25,8 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - cloud
-  - content
-  - content-management-system
-  
+  - cloud-and-infrastructure
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors:

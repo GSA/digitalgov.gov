@@ -7,9 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile
-  - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [<img class="alignright  wp-image-102402" alt="Hand holding an iPad, other hand holding a credit card." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/online-shopping-ipad.jpg" width="461" height="259" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/online-shopping-ipad.jpg)Cyber Monday, billed as one of the busiest online-commerce days of the year, is spilling into the rest of the holiday season as more consumers use mobile devices to shop whenever they please.

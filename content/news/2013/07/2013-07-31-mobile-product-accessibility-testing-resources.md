@@ -6,9 +6,8 @@ summary: Accessibility testing is a subset of usability testing and is the inclu
 topics:
   - accessibility
   - mobile
-  - user-testing-and-research
-  - mobile-apps
-  - usability-testing
+  - research
+  - usability
   - user-experience
 ---
 

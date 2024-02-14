@@ -6,14 +6,11 @@ summary: 'With January, and the tearing off of the old calendar, comes the annua
 authors:
   - andreanocesigritz
 topics:
-  - content
-  - mobile
   - accessibility
-  - mobile-apps
-  - mobile-gov
+  - content-strategy
+  - mobile
   - open-data
   - social-media
-  - socialgov
 ---
 
 With January, and the tearing off of the old calendar, comes the annual taking stock of [where we&#8217;ve been in the last year]({{< ref "2015-12-31-digitalgovs-2015-year-in-review.md" >}}) and where we can go in the year ahead.

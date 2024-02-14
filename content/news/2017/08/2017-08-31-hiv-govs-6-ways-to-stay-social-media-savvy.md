@@ -10,9 +10,7 @@ featured_image:
   alt: 'Social network and media concept illustration of a switch knob with icons.'
 topics:
   - social-media
-  - strategy
   - content-strategy
-  - social-media
 ---
 
 > _This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/staying-current-today-s-fast-moving-social-media-world)._

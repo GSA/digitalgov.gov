@@ -12,8 +12,8 @@ summary: The Robotic Process Automation (RPA) Community of Practice highlights
 # See all topics at https://digital.gov/topics
 topics:
   - emerging-tech
-  - rpa
-  - strategy
+  - robotic-process-automation
+  - content-strategy
   - privacy
 # See all authors at https://digital.gov/authors
 authors:

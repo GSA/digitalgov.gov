@@ -11,7 +11,7 @@ summary: "The Veterans’ Employment Challenge is part of a larger government-wi
 
 # see all topics at https://digital.gov/topics
 topics:
-  - challenges
+  - challenges-and-prize-competitions
 
 # see all authors at https://digital.gov/authors
 authors:

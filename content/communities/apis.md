@@ -10,8 +10,8 @@ summary: "Working to advance the cause of APIs in the federal government."
 
 # see all topics at https://digital.gov/topics
 topics:
-  - code
-  - api
+  - software-engineering
+  - application-programming-interface
   - open-source
 
 # see all authors at https://digital.gov/authors

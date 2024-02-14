@@ -5,8 +5,6 @@ title: Rail Crossing Locator App from DOT
 summary: ' Mobile apps have the power to grant us access to data beyond our expectations, help us get things done easily and quickly, and have some fun, too. But what about apps that can potentially increase our personal and the greater public safety in our neighborhoods and'
 topics:
   - mobile
-  - mobile-apps
-  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/11/600-x-500-FRA-DOT-Rail-Crossing-Locator-iPhone-app.jpg" alt="Department of Transportation Rail Crossing App Screenshots" >}}

@@ -13,8 +13,8 @@ end_date: 2020-09-17 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - 21st-century-idea
-  - user-centered-design
+  - digital-service-delivery
+  - human-centered-design
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

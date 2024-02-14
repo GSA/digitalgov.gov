@@ -5,9 +5,6 @@ title: U.S. Customs and Border Protection Launches New, Mobile Friendly Website
 summary: 'There&#8217;s a LOT going on at U.S. Customs and Border Protection (CBP), and you don&#8217;t want to miss it: Seizures of illegal drug and counterfeit cash. Arrests of human smugglers. Even the interception of imported &#8220;pests&#8221;  (most recently, a new slug found in the Washington area that goes by the name'
 topics:
   - mobile
-  - responsive-web-design
-  - thursday-mobile-products
- 
 ---
 
 {{< legacy-img src="2014/03/CPVgov-on-smart-phone-250-x-375.jpg" alt="CPVgov-on-smart-phone-250-x-375" >}}There&#8217;s a LOT going on at **U.S. Customs and Border Protection (CBP)**, and you don&#8217;t want to miss it: Seizures of illegal drug and counterfeit cash. Arrests of human smugglers. Even the interception of imported &#8220;pests&#8221; (most recently, a new slug found in the Washington area that goes by the name of _Pallifera sp)_ by CBP agriculture specialists.

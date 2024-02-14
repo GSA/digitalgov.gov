@@ -5,7 +5,7 @@ title: Plain Language Web Writing Tips
 summary: "Help your readers complete their tasks with these Plain Language writing tips."
 topics:
   - plain-language
-  - writing
+  - communication
 authors:
   - rflagg
   - awichman

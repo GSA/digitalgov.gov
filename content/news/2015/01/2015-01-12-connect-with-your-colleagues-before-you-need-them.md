@@ -6,8 +6,8 @@ summary: 'Running a government website or social media account is complex: while
 authors:
   - jeffrey-levy
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Managers-eating-meal-together-KatarzynaBialasiewicz-iStock-Thinkstock.jpg" alt="Managers eating meal together" caption="" >}} 

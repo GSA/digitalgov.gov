@@ -6,13 +6,11 @@ summary: 'Continuing from last week’s column on DevOps and containers, I will 
 authors:
   - bbrantley
 topics:
-  - api
-  - devops
+  - application-programming-interface
+  - open-data
+  - software-engineering
   - mobile
-  - mobile
-  - mobile-apps
-  - the-data-briefing
-
+  - emerging-tech
 ---
 
 Continuing from last week’s column on [DevOps and containers]({{< ref "2016-08-17-the-data-briefing-devops-and-containers-and-why-they-are-important-to-transforming-federal-government-it.md" >}}), I will explain two other hot trends in IT — microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines ([PDF](http://csrc.nist.gov/publications/drafts/800-180/sp800-180_draft.pdf), 660 kb, 12 pages, February 2016). {{< legacy-img src="2016/08/600-x-324-Differences-between-System-Virtual-Machines-and-Application-Containers.jpg" alt="A screen capture of Figure 1 from the PDF file, NIST Definition of Microservices, Application Containers and System Virtual Machines showing the differences between System Virtual Machines and Application Containers." caption="" >}} 
@@ -33,6 +31,6 @@ Microservices and serverless apps offer a great opportunity for federal agencies
 
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._ 
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._ 
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._ 
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

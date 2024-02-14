@@ -6,11 +6,9 @@ summary: 'The Pew Research Center just released a report on how Americans view o
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - mobile
-  - mobile-apps
   - open-data
-  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
@@ -38,4 +36,4 @@ So, the good news is that most Americans use the Internet or apps to access gove
 Even so, as the last two findings show, there is much more work to convince Americans of the promise of government open data. Local and state government seem to be more effective with open data apps so maybe they can help improve federal apps. It would also be helpful to remind Americans how government open data fuels their favorite commercial apps. Finally, app developers can learn best practices from app developers who create government recreational information apps and state/local government apps that provide common government services such as renewing drivers’ licenses.
 
 The Pew survey demonstrates that government apps have come a long way, but there are still many challenges ahead. I am certain that government open data providers and app developers will fulfill the still unrealized potential of government open data and apps._*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

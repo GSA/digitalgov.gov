@@ -7,6 +7,7 @@ authors:
   - office-of-information-policy
 topics:
   - governance
+  - content-strategy
   - open-government
 ---
 

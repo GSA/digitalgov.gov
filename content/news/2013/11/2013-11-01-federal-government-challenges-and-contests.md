@@ -6,7 +6,7 @@ summary: 'What is a Challenge? In a challenge, a &#8220;seeker&#8221; challenges
 authors:
   - ktrebon
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - innovation
 ---
 

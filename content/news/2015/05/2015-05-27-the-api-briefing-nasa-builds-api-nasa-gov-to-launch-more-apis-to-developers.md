@@ -6,8 +6,7 @@ summary: ' NASA has been busy since we last visited their collection of APIs bac
 authors:
   - bbrantley
 topics:
-  - api
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Asterank-API-April-27th-2070-3D-map-of-significant-asteroids-overlaid-onto-the-orbits-of-Mercury-Venus-Earth-and-Mars.jpg" alt="Asterank API displays three-dimensional map of significant asteroids overlaid onto the orbits of Mercury, Venus, Earth, and Mars, dated April 27, 2070." >}}
@@ -23,4 +22,4 @@ Another interesting API is <a href="http://www.asterank.com/api" target="_blank"
 Looking back on Earth, there is a <a href="https://api.nasa.gov/api.html#earth" target="_blank">potential API that will unlock the data from the Landsat satellites</a>. As pointed out by NASA, there is an estimated total annual value of $2.19 billion in Landsat data for the commercial sector. NASA encourages developers to contribute ideas for turning this data into valuable APIs.
 
 API.NASA.gov is off to a promising start, and I encourage developers to check regularly in to see what new API offerings are available. I also encourage developers to inspect the large catalog of NASA datasets to find the next promising API. NASA has one of the richest set of data resources in the federal government and probably even among the academic community. Sign up for your NASA API key today!_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

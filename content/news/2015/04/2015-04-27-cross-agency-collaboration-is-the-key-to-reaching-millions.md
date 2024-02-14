@@ -6,10 +6,8 @@ summary: 'This story begins with a post about reverse mortgages, but don’t wor
 authors:
   - lgodfrey
 topics:
-  - content
-  - product-management
   - content-strategy
-  - GobiernoUSAgov
+  - product-and-project-management
   - multilingual
 ---
 

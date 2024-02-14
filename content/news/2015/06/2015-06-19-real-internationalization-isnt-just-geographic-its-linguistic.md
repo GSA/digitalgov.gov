@@ -9,8 +9,6 @@ authors:
   - victoria-wales
   - edgardo-morales
 topics:
-  - social-media
-  - GobiernoUSAgov
   - multilingual
   - social-media
 ---

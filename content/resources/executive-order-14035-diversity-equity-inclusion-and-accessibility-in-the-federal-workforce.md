@@ -9,7 +9,7 @@ summary: "Diversity, Equity, Inclusion, and Accessibility in the Federal Workfor
 
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 
 slug: executive-order-14035-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce
 

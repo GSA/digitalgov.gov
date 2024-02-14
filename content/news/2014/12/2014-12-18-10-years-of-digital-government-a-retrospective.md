@@ -6,10 +6,10 @@ summary: 'In December of 2004, the Office of Management and Budget (OMB) issued 
 authors:
   - rflagg
 topics:
-  - challenges
-  - code
-  - content
-  - product-management
+  - challenges-and-prize-competitions
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
   - mobile
   - social-media
   - user-experience

@@ -8,9 +8,9 @@ authors:
   - rflagg
 
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-service
+  - customer-experience
 
 ---
 

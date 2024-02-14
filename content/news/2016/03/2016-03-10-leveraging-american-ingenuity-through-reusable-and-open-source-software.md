@@ -6,9 +6,9 @@ summary: 'Summary: Today, we’re releasing for public comment a draft policy to
 authors:
   - tony-scott
 topics:
-  - code
-  - product-management
-  - data-gov
+  - software-engineering
+  - product-and-project-management
+  - open-data
   - open-source
 ---
 

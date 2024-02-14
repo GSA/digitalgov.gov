@@ -34,7 +34,7 @@ logo: pra-guide
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
 topics:
-  - pra
+  - information-collection
 
 # Make it better ♥
 

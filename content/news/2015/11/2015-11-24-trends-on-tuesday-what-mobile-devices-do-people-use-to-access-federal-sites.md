@@ -6,13 +6,10 @@ summary: 'Mobile users of government websites are growing in double digit percen
 authors:
   - wsullivan
 topics:
-  - metrics
-  - mobile
   - analytics
-  - dap
-  - digital-analytics-program
-  - ios
-  - trends-on-tuesday
+  - mobile
+  - software-engineering
+  - emerging-tech
 ---
 
 Mobile users of government websites are [growing in double digit percentages]({{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).

@@ -6,7 +6,7 @@ summary: 'There’s what you expect your audience to think, and then there’s w
 authors:
   - colleen-bayus
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
 ---
 

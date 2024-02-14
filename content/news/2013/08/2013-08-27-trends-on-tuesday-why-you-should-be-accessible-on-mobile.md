@@ -8,9 +8,7 @@ authors:
 topics:
   - accessibility
   - mobile
-  - mobile-apps
-  - mobile-gov
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

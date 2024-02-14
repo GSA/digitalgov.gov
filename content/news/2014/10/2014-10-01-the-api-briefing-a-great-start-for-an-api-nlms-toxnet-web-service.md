@@ -6,8 +6,7 @@ summary: 'Glad to be back after a three-week absence. I was preparing for the So
 authors:
   - bbrantley
 topics:
-  - api
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/10/250-x-188-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}}

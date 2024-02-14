@@ -7,8 +7,8 @@ authors:
   - ktrebon
 topics:
   - governance
-  - strategy
-  - user-testing-and-research
+  - content-strategy
+  - research
   - innovation
 ---
 

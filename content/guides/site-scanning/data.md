@@ -10,7 +10,7 @@ primary_image: guide-site-scanning
 
 ---
 
-## Get Started
+## Get started
 
 The easiest way to begin accessing and using data from the Site Scanning program is to:
   1. Download the [primary CSV dataset](https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot.csv).

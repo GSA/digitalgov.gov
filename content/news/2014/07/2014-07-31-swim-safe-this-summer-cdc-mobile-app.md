@@ -5,8 +5,6 @@ title: Safe Swimming This Summer (Can You Say That Four Times Fast?)
 summary: 'You don&#8217;t have to try too hard to get people into the water during summer. But swimming the healthy and safe way? Well, everyone could use help on that. Whether you are a swimmer, lifeguard, pool attendant or sun-loving spectator, the Centers for Disease'
 topics:
   - mobile
-  - mobile-apps
-  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/07/250-x-375-CDC-HTSW-healthy-swimming-screencap.jpg" alt="Screencapture of the CDC HTSW healthy swimming app" >}}You don&#8217;t have to try too hard to get people into the water during summer. But swimming the healthy and safe way? Well, everyone could use help on that.

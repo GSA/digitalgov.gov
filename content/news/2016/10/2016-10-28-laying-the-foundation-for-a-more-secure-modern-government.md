@@ -7,15 +7,12 @@ authors:
   - tony-scott
 topics:
   - governance
-  - product-management
-  - strategy
-  - cloud
-  - Cybersecurity National Action Plan
-  - infrastructure
+  - product-and-project-management
+  - content-strategy
+  - best-practices
+  - cloud-and-infrastructure
   - innovation
-  - it-modernization-fund
-  - ITMF
-  - National Cyber Security Awareness Month
+  - budgeting-and-performance
   - privacy
   - security
 ---

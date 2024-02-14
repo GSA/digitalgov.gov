@@ -10,9 +10,9 @@ date: 2020-10-29 14:00:00 -0500
 end_date: 2020-10-29 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - crowdsourcing
-  - agile
-  - challenges
+  - crowdsourcing-and-citizen-science
+  - challenges-and-prize-competitions
+  - product-and-project-management
 # See all authors at https://digital.gov/authors
 authors:
   - sarah-crane

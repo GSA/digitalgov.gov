@@ -9,7 +9,7 @@ summary: Personas are tools your agency can use to learn about your end users
   personas and review two
 # See all topics at https://digital.gov/topics
 topics:
-  - personas
+  - research
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

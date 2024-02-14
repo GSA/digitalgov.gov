@@ -7,7 +7,7 @@ authors:
   - christine-kundrat
   - danita-stenberg
 topics:
-  - video
+  - multimedia
   - open-government
 ---
 

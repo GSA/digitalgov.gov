@@ -9,10 +9,9 @@ authors:
   - gray-brooks
   - john-tindel
 topics:
-  - product-management
+  - product-and-project-management
   - analytics
-  - digital-analytics-program
-  - https
+  - security
 ---
 
 The U.S. federal government is launching a new project to monitor how it&#8217;s doing at best practices on the Web.

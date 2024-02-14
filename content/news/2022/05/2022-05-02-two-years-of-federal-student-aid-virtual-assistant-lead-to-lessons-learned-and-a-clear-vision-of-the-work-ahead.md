@@ -7,7 +7,6 @@ topics:
   - design
   - customer-experience
   - user-experience
-  - chatbots
   - artificial-intelligence
   - security
 # See all authors at https://digital.gov/authors

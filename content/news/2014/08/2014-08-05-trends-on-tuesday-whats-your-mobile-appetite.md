@@ -8,10 +8,7 @@ authors:
 topics:
   - design
   - mobile
-  - mobile
-  - mobile-app-development-program
-  - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - emerging-tech
   - user-experience
 ---
 
@@ -25,4 +22,4 @@ In a few short years, the number of mobile apps has exploded, and the time spent
   * Mobile users spent nearly 11 hours per month, on average, accessing social networking and search apps.
   * Entertainment viewing, including video, audio and gaming apps, grew 71% among mobile users over the prior year.
 
-This is good, and better, news for government agencies that are developing mobile applications, and those considering it as part of their mobile strategy. If an agency can provide smartphone owners with an app that is intuitive and meets their needs, they have a good chance of being a go-to app for their target audience. If you need help deciding on that app for your agency, the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") provides [case studies]({{< ref "/topics/mobile-gov-experience" >}}) and the latest [mobile trends]({{< ref "/topics/trends-on-tuesday" >}}) to help you plan your mobile product.
+This is good, and better, news for government agencies that are developing mobile applications, and those considering it as part of their mobile strategy. If an agency can provide smartphone owners with an app that is intuitive and meets their needs, they have a good chance of being a go-to app for their target audience. If you need help deciding on that app for your agency, the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") provides [case studies]({{< ref "/topics/mobile" >}}) and the latest [mobile trends]({{< ref "/topics/emerging-tech" >}}) to help you plan your mobile product.

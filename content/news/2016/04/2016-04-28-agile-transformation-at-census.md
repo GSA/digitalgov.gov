@@ -8,10 +8,7 @@ authors:
   - angela-bell
 
 topics:
-  - product-management
-  - agile
-  - agile-lean-community-of-practice
-
+  - product-and-project-management
 ---
 
 The agile transformation at the Census Bureau started several years ago after GAO recommended Census implement a standard Systems Development Lifecycle (SDLC). Around the same time came the newly released Digital Services Playbook as well as a general shift in the industry to using a more agile approach in software development to improve product delivery and business customer satisfaction. Along with the clear benefits, there was a general appetite from individuals and teams to introduce agile concepts into their project. This all led the Bureau to initiate an agile transformation, starting with the development of an agile SDLC in 2013.

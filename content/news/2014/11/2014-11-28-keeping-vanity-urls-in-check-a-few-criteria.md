@@ -6,8 +6,7 @@ summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests W
 authors:
   - andreanocesigritz
 topics:
-  - content
-  - web-content-managers-forum
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" >}}

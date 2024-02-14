@@ -6,10 +6,8 @@ summary: ' Wikipedia says that structured content refers to information that&#82
 authors:
   - lakshmi-grama
 topics:
-  - content
-  - content-management-system
-  - metadata
-  - open-and-structured-content-models
+  - content-strategy
+  - search-engine-optimization
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}

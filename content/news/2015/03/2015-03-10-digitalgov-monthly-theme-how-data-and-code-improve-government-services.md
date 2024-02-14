@@ -9,11 +9,10 @@ authors:
   - jparcell
 
 topics:
-  - api
-  - https
-  - metadata
   - open-data
-
+  - application-programming-interface
+  - security
+  - search-engine-optimization
 ---
 
 Data and code are the foundation, building blocks, and cornerstone of government digital services. They are the keys that open the door to a better digital government future and are [fundamental in making government more open](http://www.whitehouse.gov/open). No matter who you are or where you work in the federal space, data and code enable your projects to meet real needs.
@@ -30,4 +29,4 @@ This month we’re featuring articles around the theme of data and code. Here&#8
   * [The most relevant and useful If This Then That recipes for federal digital managers]({{< ref "2015-03-30-on-the-spot-must-have-ifttt-recipes-for-government.md" >}})
   * [Federal employees weigh in on the use of HTTP versus HTTPS]({{< ref "2015-03-25-http-vs-https-is-it-time-for-a-change.md" >}})
 
-And speaking of open, the theme for our Spring 2015 Citizen Services Summit is _open_, and the [SocialGov](https://digital.gov/communities/social-media/) team [opened the U.S. Public Participation Playbook to coders]({{< ref "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}) last month. The Playbook itself is open, with contributions and feedback solicited throughout the development process. Remember that every Wednesday, Bill Brantley from USDA writes the weekly [API Briefing]({{< ref "/topics/wednesday-api-briefing" >}}) where you can learn how government APIs are transforming government and improving services. We also encourage you to learn how you can [get your data on Data.gov]({{< ref "2014-12-10-introducing-get-your-open-data-on-data-gov.md" >}}) and [how their data pipeline works]({{< ref "2014-12-04-data-govs-data-pipeline-explained.md" >}}).
+And speaking of open, the theme for our Spring 2015 Citizen Services Summit is _open_, and the [SocialGov](https://digital.gov/communities/social-media/) team [opened the U.S. Public Participation Playbook to coders]({{< ref "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}) last month. The Playbook itself is open, with contributions and feedback solicited throughout the development process. Remember that every Wednesday, Bill Brantley from USDA writes the weekly [API Briefing]({{< ref "/topics/application-programming-interface" >}}) where you can learn how government APIs are transforming government and improving services. We also encourage you to learn how you can [get your data on Data.gov]({{< ref "2014-12-10-introducing-get-your-open-data-on-data-gov.md" >}}) and [how their data pipeline works]({{< ref "2014-12-04-data-govs-data-pipeline-explained.md" >}}).

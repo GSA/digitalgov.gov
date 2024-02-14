@@ -6,11 +6,9 @@ summary: The federal government is increasingly focused on designing and deliver
 authors:
   - mary-ann-monroe
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - personas
+  - research
 ---
 
 The federal government is increasingly focused on designing and delivering citizen-centered services with enhanced experiences that deliver value to customers. These ideals are established in the Presidential Management Agenda [Customer Service Cross-Agency Priority Goal](http://www.performance.gov/node/3400/view?view=public#overview), the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), and various open government activities. Designing services to be responsive to be life events that drive public needs is a powerful way to deliver citizen-centered value.

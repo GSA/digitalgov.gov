@@ -7,16 +7,11 @@ authors:
   - peter-rhee
 topics:
   - design
-  - product-management
+  - product-and-project-management
+  - research
+  - content-strategy
   - mobile
-  - user-testing-and-research
-  
-  - content-management-system
-  - draft-web-design-standards
-  - mobile
-  - mobile-friendly
   - user-experience
-  
 ---
 
 We&#8217;re excited to launch a complete redesign of [USDA.gov](https://www.usda.gov/) featuring stronger visual storytelling components, a more modern user-experience with easy to find services and resources, and to top it off, a completely mobile-friendly design.

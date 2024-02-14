@@ -7,8 +7,8 @@ authors:
   - office-of-information-policy-doj
 topics:
   - governance
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - open-government
 ---
 

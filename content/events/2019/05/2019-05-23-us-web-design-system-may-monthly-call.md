@@ -10,9 +10,7 @@ end_date: 2019-05-23 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - product-management
-  - public-sans
-
+  - product-and-project-management
 # see all authors at https://digital.gov/authors
 authors:
   - dan-williams

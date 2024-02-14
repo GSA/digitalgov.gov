@@ -6,10 +6,10 @@ summary: 'To provide great customer service, bring your agency’s customers to 
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
+  - customer-experience
+  - customer-experience
   - podcast
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 

@@ -6,14 +6,11 @@ summary: 'We at DigitalGov want to hear more about you &#8211; your job, your ro
 authors:
   - digitalgov-team
 topics:
-  - content
-  - product-management
-  - user-testing-and-research
-  - content
-  - customer-experience
+  - content-strategy
+  - product-and-project-management
   - research
+  - customer-experience
   - user-experience
-  
 ---
 
 {{< legacy-img src="https://i.giphy.com/3o6Zt3PBAGPUvmvUJO.gif" alt="An animated gif of a girl with the word Hi written on her hand is from the National Archives Giphy.com collection." >}}

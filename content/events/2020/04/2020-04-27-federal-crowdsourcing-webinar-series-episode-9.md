@@ -18,7 +18,7 @@ end_date: 2020-04-27 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - open-data
   - research
   - innovation

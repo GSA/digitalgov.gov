@@ -6,7 +6,8 @@ summary: I (virtually) attended the Third Annual Safety Datapalooza last Thursda
 authors:
   - bbrantley
 topics:
-  - the-data-briefing
+  - open-data
+  - emerging-tech
 ---
 
 I (virtually) attended the Third Annual Safety Datapalooza last Thursday and was greatly impressed by the projects and initiatives for public safety. This was a great event, and I am glad that live streaming was provided for those who could not attend in person but have a great interest in using government data for disaster preparedness. If you have not already visited <a href="http://www.data.gov/disasters/" target="_blank">disasters.data.gov</a>, please do. It is a great portal for data, apps, and tools for developers who want to help build vitally-needed public safety resources. {{< legacy-img src="2015/11/600-x-402-Colorful-tablets-with-capsules-ulkan-iStock-Thinkstock-467982355.jpg" alt="Various colorful pills." caption="" >}} 
@@ -21,8 +22,14 @@ Navigate to the RR-Drug Shiny application at <a href="https://openfda.shinyapps.
 
 As you can see, there is much technical information contained in this application. Click the tabs at the top and also check out the “Word Cloud” display and “text Plot” display. If you click on the “Other Apps” tab, you will find even more Shiny Apps that display FDA data reports. This is a very rich application that allows the user to interact fully with FDA data. I am looking forward to the developers adding more data visualizations from the FAERS API.
 
-If you know R (and there are plenty of free online training resources if you want to learn R), then you can build similar Shiny applications. Applications such as Shiny, <a href="http://www.tableau.com/" target="_blank">Tableau</a>, [BIRT](http://www.eclipse.org/birt/), or similar data visualization tools can make federal government data more useful for citizens by providing visually-attractive search interfaces and ad-hoc report building either through a website or in a mobile app. Helping to make safety data easier to access and use is a great way to help the American be prepared for disasters._(“R,” “Shiny,” “Tableau,” and “BIRT” are used for illustrative purposes and does not imply endorsement by the federal government as a whole or by specific federal agencies.)_
+If you know R (and there are plenty of free online training resources if you want to learn R), then you can build similar Shiny applications. Applications such as Shiny, <a href="http://www.tableau.com/" target="_blank">Tableau</a>, [BIRT](http://www.eclipse.org/birt/), or similar data visualization tools can make federal government data more useful for citizens by providing visually-attractive search interfaces and ad-hoc report building either through a website or in a mobile app. Helping to make safety data easier to access and use is a great way to help the American be prepared for disasters.
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
 _Each week, The Data Briefing showcases the latest federal data news and trends._
+
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
 <div class="copyIcon copy0">

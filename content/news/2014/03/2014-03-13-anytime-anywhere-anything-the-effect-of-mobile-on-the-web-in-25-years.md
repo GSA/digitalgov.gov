@@ -7,13 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - content-syndication
-  - internet-of-things
-  - mobile-code-catalog
-  - mobile-first
-  - open-and-structured-content-models
-  - thursday-mobile-products
-  
+  - emerging-tech
+  - content-strategy
 ---
 
 <p>

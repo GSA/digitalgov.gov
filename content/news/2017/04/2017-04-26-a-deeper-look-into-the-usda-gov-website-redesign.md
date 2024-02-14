@@ -8,13 +8,11 @@ authors:
 topics:
   - accessibility
   - design
-  - product-management
-  - mobile
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - accessibility
-  - architecture
-  - content
-  - mobile-friendly
+  - information-architecture
+  - mobile
 ---
 
 We hope you are finding it easier to get the information you need on USDA.gov following the launch of our site redesign in March. We’ve already welcomed over 1 million visitors to the new site and we are pleased with the positive feedback we’ve received thus far.

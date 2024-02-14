@@ -10,16 +10,12 @@ authors:
 
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - digitalgov-user-experience-program
-  - usability-case-study
-  - usability-testing
-  - user-experience
-
+  - usability
 ---
 
-{{< note "alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
+{{< note variant="alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
 To request other free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/).{{< /note >}}
 
 The annual Consumer Action Handbook, from GSA, is a guide to making smarter decisions with your money. In both its print and [online](https://www.usa.gov/topics/consumer/consumer-action-handbook-online.shtml) formats, it includes a compilation of buying tips from across government agencies, updates on the latest scams, and a robust consumer contact directory. But the most popular part of the book is the sample consumer complaint letter.

@@ -14,12 +14,11 @@ aliases:
 
 # see all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - product-management
+  - analytics
+  - product-and-project-management
   - user-experience
   - content-strategy
-  - project-management
-  - analytics
+  - product-and-project-management
 # see all authors at https://digital.gov/authors
 authors:
   - toni-bonitto

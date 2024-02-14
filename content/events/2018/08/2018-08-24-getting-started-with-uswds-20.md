@@ -15,9 +15,10 @@ host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/august-us-web-design-system-monthly-call-getting-started-with-uswds-20-tickets-47179708779
 topics:
   - accessibility
-  - code
+  - software-engineering
   - design
   - user-centered-design
+  - human-centered-design
   - user-experience
 
 ---

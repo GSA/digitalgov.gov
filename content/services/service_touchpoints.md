@@ -25,7 +25,7 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - user-research
+  - research
   - customer-experience
 
 # see all authors at https://digital.gov/authors

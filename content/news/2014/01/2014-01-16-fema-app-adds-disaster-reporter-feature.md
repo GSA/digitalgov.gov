@@ -7,11 +7,6 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - social-media
-  - crowdsourcing
-  - mobile-apps
-  - mobile-gov
-  - thursday-mobile-products
-
 ---
 
 The [Federal Emergency Management Agency](http://www.fema.gov) (FEMA) is taking the well-known slogan, &#8220;See something, say something,&#8221;__ to the crowd. Consider it more &#8220;See something, submit something.&#8221;

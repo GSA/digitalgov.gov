@@ -9,9 +9,9 @@ authors:
   - michelle-chronister
   - john-yuda
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
-  - draft-web-design-standards
+  - design
 ---
 
 In our [last post](https://blog.usa.gov/learning-how-to-build-a-better-front-door-for-the-federal-government), we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s experience across government agencies. {{< legacy-img src="2016/03/600-x-401-NARA-Archives-Of-The-United-States-Of-America-faustasyan-iStock-Editorial-Thinkstock-504911608.jpg" alt="The front of the National Archives and Records Administration federal building in Washington, DC." caption="" >}}

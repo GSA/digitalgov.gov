@@ -6,12 +6,10 @@ summary: ' What do kids know about Web design? As we found out, quite a lot. Rec
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - gamification
-  - usability-testing
+  - research
+  - content-strategy
+  - usability
   - user-experience
-  
 ---
 
 {{< legacy-img src="2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" >}}

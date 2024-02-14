@@ -7,9 +7,9 @@ summary: Black history is American history. In this blog, TTS employees share ho
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development
-  - strategy
+  - content-strategy
   - innovation
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - jessyka-castillo
@@ -39,7 +39,7 @@ The TTS Outreach team also created social media campaigns focused on highlightin
 
 Below are snapshots of these campaigns in action. Each vignette below has been shared by a member of TTS' Black employee affinity group, Working While Black. We hope you enjoy, and find timeless lessons that inspire more inclusive and equitable workplaces and communities, every month of the year. 
 
-{{< note "comment" >}}
+{{< note variant="comment" >}}
   {{< img-right src="uchenna-moka-solana-300sq" >}}
 
   I used to be a scientist, and I have scientist/engineer parents. I believe in science, and I can’t wait to get vaccinated. As the COVID-19 vaccine continues to roll out throughout our country, the phrase ‘Trust the Science’ has started to pick up. I can’t get down with this phrase, because it rubs me the wrong way. As it pertains to Black communities, 'Trust the science' lacks empathy and contextual understanding of the suffering and sacrifice these communities have been put through to enable us to achieve medical advances over centuries, and the vaccine we have now. 
@@ -56,7 +56,7 @@ Below are snapshots of these campaigns in action. Each vignette below has been s
 
 <hr width="75%">
 
-{{< note "comment" >}}{{< img-right src="pia-scott-300sq" >}}
+{{< note variant="comment" >}}{{< img-right src="pia-scott-300sq" >}}
 
 Black History is such a vast field of study, I decided to focus on the acronym STEM (Science, Technology, Engineering, and Mathematics) and parallel how the acronym can be used in multiple ways to describe the contributions and experiences of Africans (Black Peoples). 
 
@@ -66,7 +66,7 @@ First, Black Peoples **S**hake-Up how the world does things, we create and **T**
 
 <hr width="75%">
 
-{{< note "comment" >}}{{< img-right src="malaika-carpenter-300sq" >}}
+{{< note variant="comment" >}}{{< img-right src="malaika-carpenter-300sq" >}}
 
 Let's spotlight three African American playwrights who have shaped American theater and had an enduring legacy on the art form! There are so many incredibly talented Black playwrights, actors/actresses, directors, and producers, past and present, in both the U.S. and worldwide, who have transformed theater into a vehicle for telling empowering, uplifting, and authentic stories about Black people. 
 
@@ -80,7 +80,7 @@ Here's three to know: <br /><br />
 
 <hr width="75%">
 
-{{< note "comment" >}}{{< img-right src="patrick-kigongo-300sq" >}}
+{{< note variant="comment" >}}{{< img-right src="patrick-kigongo-300sq" >}}
 
 Let us celebrate Black Ingenuity. I’d like to shout out the work of Mobile, Alabama’s Lonnie Johnson. As an engineer with the Air Force and the Jet Propulsion Laboratory, Lonnie Johnson contributed to the development of countless high-profile projects, including the Stealth Bomber and the nuclear power source for NASA’s 1989 Galileo mission to Jupiter. But the most celebrated of Lonnie Johnson’s 120+ patents? The Super Soaker water gun! The Super Soaker was a runway success and became one of the most popular toys of the 1990s. The man is now a billionaire, and yet he continues to innovate. ‘The Super Soaker is good. But I want to do better.’ He continues to work and innovate on solid state batteries and thermoelectric energy conversion. 
 

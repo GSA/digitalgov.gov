@@ -6,9 +6,8 @@ summary: 'If you are a coastal resident, go to the beach, or are interested in d
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - challenge-gov
-  - FCPCCS
+  - challenges-and-prize-competitions
+  - crowdsourcing-and-citizen-science
 ---
 
 {{< legacy-img src="2014/09/250-x-355-NJ\_Loc3\_Mantoloking_Breach-lg.jpg" alt="Before and after photos, New Jersey, Mantoloking Breach" caption="" >}}

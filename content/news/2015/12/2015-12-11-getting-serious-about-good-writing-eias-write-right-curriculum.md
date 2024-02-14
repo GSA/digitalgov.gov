@@ -6,9 +6,8 @@ summary: 'Let’s see&ndash;you want to improve the skills of your agency’s wr
 authors:
   - gina-pearson
 topics:
-  - writing
+  - communication
   - plain-language
-  - plain-writing-act-of-2010
 ---
 
 Let’s see–you want to improve the skills of your agency’s writers. Here’s a to-do list: Enlist a high-level champion, ideally your agency head, to make statements saying writing skills are critical—check. Create a Writing Style Guide—check. Hold classes to introduce the Style Guide—check. Expand internal editing resources—check.

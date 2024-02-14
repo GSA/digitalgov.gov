@@ -7,8 +7,7 @@ authors:
   - corina-dubois
   - david-a-bray
 topics:
-  - product-management
-  - social-media
+  - product-and-project-management
   - social-media
 ---
 

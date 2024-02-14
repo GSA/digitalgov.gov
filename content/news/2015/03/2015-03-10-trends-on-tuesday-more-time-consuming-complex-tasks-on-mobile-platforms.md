@@ -8,11 +8,7 @@ authors:
 topics:
   - mobile
   - analytics
-  - mobile
-  - mobile-apps
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/03/600-x-470-Flurry-Analytics-2013-2014-Mobile-Use-Grows-76-percent-year-over-year.jpg" alt="Bar chart showing 2013 to 2014 Mobile Use grew an average of 76 percent" caption="" >}}

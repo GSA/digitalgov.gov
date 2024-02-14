@@ -6,13 +6,10 @@ summary: "U.S. Hispanics are ahead of the digital curve, according to an analysi
 authors:
   - tjohnson
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - mobile-ux-guideline-5
-  - mobile-first
   - multilingual
-  - multilingual-community
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 

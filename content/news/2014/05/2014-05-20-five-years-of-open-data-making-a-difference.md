@@ -6,8 +6,7 @@ summary: 'In May 2009, Data.gov was an experiment. There were questions: would p
 authors:
   - jeanne-holm
 topics:
-  - api
-  - data-gov
+  - application-programming-interface
   - open-data
 ---
 

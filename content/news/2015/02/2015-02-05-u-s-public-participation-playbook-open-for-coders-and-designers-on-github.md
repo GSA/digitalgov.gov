@@ -6,13 +6,11 @@ summary: 'We released the United States Public Participation Playbook this week,
 authors:
   - jherman
 topics:
-  - code
-  - product-management
-  - metrics
+  - software-engineering
+  - product-and-project-management
+  - analytics
   - social-media
-  - aoi
-  
-  - socialgov-community
+  - user-experience
 ---
 
 {{< legacy-img src="2015/03/600-x-425-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="A diverse group of raised hands." caption="" >}} 

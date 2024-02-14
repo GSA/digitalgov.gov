@@ -10,16 +10,12 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - content
-  - design
-  - agile
   - content-strategy
+  - design
+  - product-and-project-management
   - research
   - user-experience
   - usability
-  - user-research
-  - methodology
-  - usability-testing
 
 # What source published this?
 source: "18f"

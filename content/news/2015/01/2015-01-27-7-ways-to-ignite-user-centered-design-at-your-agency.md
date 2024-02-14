@@ -7,9 +7,9 @@ authors:
   - wendy-littman
 topics:
   - design
-  - user-testing-and-research
-  - united-states-department-of-energy
+  - research
   - user-centered-design
+  - human-centered-design
   - user-experience
 ---
 

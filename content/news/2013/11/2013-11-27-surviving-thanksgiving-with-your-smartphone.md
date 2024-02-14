@@ -7,9 +7,6 @@ authors:
   - genevieve-contey
 topics:
   - mobile
-  - mobile-apps
-  - mobile-gov
-  - thursday-mobile-products
 ---
 
 Oh, Thanksgiving!

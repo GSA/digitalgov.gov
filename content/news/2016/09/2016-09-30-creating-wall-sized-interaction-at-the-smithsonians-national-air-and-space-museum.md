@@ -6,16 +6,12 @@ summary: 'As any experienced retailer will tell you, the customer experience beg
 authors:
   - ben-bloom
 topics:
-  - content
-  - design
-  - user-testing-and-research
-  - content
   - content-strategy
+  - design
+  - research
   - mobile
-  - mobile-apps
-  - user-centered-design
+  - human-centered-design
   - user-experience
-  
 ---
 
 As any experienced retailer will tell you, the customer experience begins at the store entrance. Note the friendly Walmart greeter, the approachable minimalism of an Apple Store, and the calculated whimsy of Anthropologie. Store designers understand that a customer’s decision to make a purchase is often made within seconds of entering.
@@ -36,7 +32,7 @@ The wall is a surprisingly kinetic experience. Museum objects like the 1903 Wrig
 
 Taking more time with the wall reveals thoughtful information architecture and a simple interface. Visitors can tap museum objects already floating on the screen, or they can drill into major themes like People, Aviation, and Space. Tapping “Space,” for example, reveals space-related objects and sub-themes that can be further explored like Exploration, Spacecraft, and Human Spaceflight. Each object has a short description and a floor map showing its location in the museum. Objects can be added to a personal favorites list on the museum’s new [GO FLIGHT app](https://airandspace.si.edu/go-flight) via a unique PIN number.
 
-The interactive wall was built after many months of [ideation]({{< ref "/topics/challenges" >}}), [prototyping]({{< ref "/topics/prototype" >}}), and [user testing]({{< ref "/topics/user-research" >}}). At the outset, the team established core objectives, namely:
+The interactive wall was built after many months of [ideation]({{< ref "/topics/challenges-and-prize-competitions" >}}), [prototyping]({{< ref "/topics/design" >}}), and [user testing]({{< ref "/topics/research" >}}). At the outset, the team established core objectives, namely:
 
   * give an overall impression of the museum and its underlying curatorial theme (“aviation and human spaceflight transform the world”);
   * orient visitors to the collection and help them find items on display;

@@ -6,9 +6,6 @@ summary: 'I recently asked some friends&mdash;a group of intelligent, successful
 authors:
   - sarah-herrmann
 topics:
-  - content
-  - social-media
-  - content
   - content-strategy
   - social-media
 ---

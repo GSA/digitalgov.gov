@@ -6,10 +6,9 @@ summary: 'Global mobile data traffic almost doubled in 2013 according to Ciscoâ€
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [<img class="alignright size-full wp-image-131422" alt="1's and 0's on a blue screen." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/bits-bytes-1-0-data.png" width="230" height="347" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/bits-bytes-1-0-data.png)Global mobile data traffic almost doubled in 2013 according to [Ciscoâ€™s recent Traffic Forecast Update](http://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white_paper_c11-520862.html). There are a number of other mobile data traffic trends in the report, but here are five trends we wanted to highlight today:

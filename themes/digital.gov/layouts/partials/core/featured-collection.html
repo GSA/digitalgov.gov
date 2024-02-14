@@ -65,12 +65,7 @@
   {{- $href := .href -}}
   {{- $src := .src -}}
   {{- with .item -}}
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-    <li data-gh-edit-page="{{- $path -}}">
+    <li>
       {{- template "collection-icon" dict "item" . "src" $src "href" $href -}}
 
 

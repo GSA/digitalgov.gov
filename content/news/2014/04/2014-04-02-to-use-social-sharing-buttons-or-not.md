@@ -6,7 +6,7 @@ summary: Our digital gov neighbors in the U.K. have been working on their own di
 authors:
   - andreanocesigritz
 topics:
-  - content
+  - content-strategy
   - mobile
   - social-media
 ---

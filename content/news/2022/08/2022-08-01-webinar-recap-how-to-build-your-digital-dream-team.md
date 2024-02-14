@@ -10,7 +10,7 @@ topics:
   - governance
   - professional-development
   - diversity-equity-and-inclusion
-  - project-management
+  - product-and-project-management
   - digital-service-delivery
 
 # See all authors at https://digital.gov/authors
@@ -68,7 +68,7 @@ Panelists provided four key tips when starting a hiring process:
 
 4. Host information sessions. Hold periodic information sessions to offer potential candidates an opportunity to learn more about working at your agency, available positions, and the application process. For examples, see the Join TTS website where they list their [upcoming hiring information sessions](https://join.tts.gsa.gov/); some are general hiring info sessions, while others are specific to open roles.
 
-{{< note "activity" >}}
+{{< note variant="activity" >}}
 **Join the [web managers community](https://digital.gov/communities/web-content-managers/) today!** The community is a safe, collaborative space for federal employees to:<br /><br />
 
 * Recruit for positions on federal digital teams;

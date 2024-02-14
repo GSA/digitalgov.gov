@@ -6,17 +6,16 @@ summary: The road to more user-friendly government websites does not have to be 
 authors:
   - ashley-braun
 topics:
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 The road to more user-friendly government websites does not have to be long and scary. In fact, there is a growing network of people and resources to guide you along the way. My office in the National Oceanic and Atmospheric Administration (NOAA) has been fortunate enough to benefit from some of this support, most recently in the form of a &#8220;usability walkthrough.&#8221;
 
 # Where the Road Begins
 
-We were coming off the heels of having completely redesigned and relaunched our website, [response.restoration.noaa.gov](http://response.restoration.noaa.gov/), in a new content management system in January of 2012. While it resulted in huge improvements, as with many websites, we began to get feedback from various sources that it could be better. Our first major step was conducting a user satisfaction survey. This helped us figure out who our users were, why they visited our website, and how easily (or not) they could find what they were seeking. Combining this information with our website analytics, we could start piecing together which areas to target for improvement. But this didn’t give us enough detail about exactly which pages and parts of our website needed this extra attention. Thanks to some of the webinars and best practices on usability [hosted here on DigitalGov]({{< ref "/topics/user-research" >}}), we began thinking about doing some user testing. At this point, however, “user testing” was still a scary, foreign concept best left to the professionals.
+We were coming off the heels of having completely redesigned and relaunched our website, [response.restoration.noaa.gov](http://response.restoration.noaa.gov/), in a new content management system in January of 2012. While it resulted in huge improvements, as with many websites, we began to get feedback from various sources that it could be better. Our first major step was conducting a user satisfaction survey. This helped us figure out who our users were, why they visited our website, and how easily (or not) they could find what they were seeking. Combining this information with our website analytics, we could start piecing together which areas to target for improvement. But this didn’t give us enough detail about exactly which pages and parts of our website needed this extra attention. Thanks to some of the webinars and best practices on usability [hosted here on DigitalGov]({{< ref "/topics/research" >}}), we began thinking about doing some user testing. At this point, however, “user testing” was still a scary, foreign concept best left to the professionals.
 
 # Teaching Us to Fish
 

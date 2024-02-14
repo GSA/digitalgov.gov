@@ -6,10 +6,9 @@ summary: 'Several federal agencies and offices have worked together to create a 
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - mobile
-  - video
-  - content-syndication
+  - multimedia
 ---
 
 {{< legacy-img src="2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." caption="" >}}

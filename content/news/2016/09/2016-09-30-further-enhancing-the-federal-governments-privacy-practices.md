@@ -7,8 +7,8 @@ authors:
   - marc-groman
 topics:
   - governance
+  - content-strategy
   - security
-
 ---
 
 > _Summary: The Office of Management and Budget is releasing updated guidance on the role and designation of Senior Agency Officials for Privacy._

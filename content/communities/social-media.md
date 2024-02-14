@@ -15,7 +15,6 @@ authors:
 # see all topics at https://digital.gov/topics
 topics:
   - social-media
-  - social-media-metrics
 
 event_cop:
   - social-media

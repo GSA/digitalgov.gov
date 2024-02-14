@@ -6,7 +6,7 @@ summary: 'In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara Na
 authors:
   - richard-easterbrook
 topics:
-  - data-gov
+  - open-data
 ---
 
 In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara National Wildlife Refuge, observed:

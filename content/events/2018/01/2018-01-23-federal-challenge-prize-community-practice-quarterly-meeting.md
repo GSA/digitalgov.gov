@@ -25,10 +25,8 @@ venue:
 aliases:
   - /event/federal-challenge-prize-community-practice-quarterly-meeting-february-2018/
 topics:
-  - challenges
-  - challenges-and-prizes-community-of-practice
-  - crowdsourcing
-
+  - challenges-and-prize-competitions
+  - crowdsourcing-and-citizen-science
 ---
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.

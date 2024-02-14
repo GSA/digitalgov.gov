@@ -8,7 +8,7 @@ summary: "The newly-released SSP Program Guide was created for commercial vendor
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - infrastructure
+  - cloud-and-infrastructure
 
 # See all authors at https://digital.gov/authors
 authors:
