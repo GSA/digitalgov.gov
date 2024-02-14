@@ -5,7 +5,7 @@
 slug: "challenges-and-prize-competitions"
 
 # Topic Title
-title: "Challenges and Prize Competitions"
+title: "Challenges & Prize Competitions"
 
 # description — keep it short and clear
 summary: ""
