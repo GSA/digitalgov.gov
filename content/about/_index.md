@@ -23,7 +23,7 @@ Find out how to [connect with us](https://digital.gov/about/contact/) across dif
 
 Our roadmap is an up-to-date report on the work we’re doing to improve Digital.gov. We regularly update this roadmap to share what we have done recently and what we are planning to do in the coming months.
 
-<table class="usa-table">
+<table class="usa-table usa-table--striped">
   <thead>
     <tr>
       <th scope="col">Activity</th>
