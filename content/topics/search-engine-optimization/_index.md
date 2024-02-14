@@ -14,7 +14,6 @@ aliases:
   - /topics/metadata/
   - /topics/seo/
 
-
 # Weight
 weight: 2
 
