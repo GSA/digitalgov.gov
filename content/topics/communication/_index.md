@@ -8,7 +8,7 @@ slug: "communication"
 title: "Communication"
 deck: "Good written and verbal communications make the government more effective and trustworthy."
 
-summary: "Create content that’s accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality, objectivity, utility, and integrity of information and services provided to the public, and make information and services available on a timely and equitable basis."
+summary: "Communicating with the public requires content that’s accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality and integrity of information provided to the public by staying informed, connecting with other federal communicators, and implementing best practices shared by trusted resources."
 
 # Weight
 weight: 2
