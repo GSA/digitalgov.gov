@@ -1,7 +1,7 @@
 ---
 date: 2023-11-20 12:13:00 -0500
 # Originally published at the following URL
-source_url: https://get.gov/help/what-to-think-about-moving-to-gov/
+source_url: https://get.gov/domains/moving/
 source: dotgov
 title: Moving to .gov
 deck: If you're moving to .gov from another top-level domain, like .com, .org,
