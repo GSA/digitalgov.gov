@@ -7,7 +7,7 @@ summary: "For the second year, college and university students are leveraging th
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
-  
+  - diversity-equity-and-inclusion
   - open-data
   - emerging-tech
   - digital-service-delivery
