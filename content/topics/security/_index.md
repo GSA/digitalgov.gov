@@ -8,7 +8,7 @@ slug: "security"
 title: "Security"
 deck: "Secure websites and a secure online presence foster trust between the public and government."
 
-summary: "Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide adequate security controls to ensure information is resistant to tampering, remains confidential as necessary, and is available as intended by the agency and expected by users. Implement management controls to prevent the inappropriate disclosure of sensitive information. Provide general information to the public about your security protocols. Provide a way for the public to report vulnerabilities."
+summary: "Prioritize implementing security and management controls to protect sensitive information while maintaining access for authorized users. The responsibility to ensure website safety extends beyond technology. Publicly share your security protocols and establish a clear channel for users to report any suspicious activity. By making security a collaborative effort, you'll build trust, protect sensitive information, and ensure that your website functions securely."
 
 # Weight
 weight: 2
