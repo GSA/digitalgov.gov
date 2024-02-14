@@ -5,7 +5,7 @@
 slug: "terms-of-service"
 
 # Topic Title
-title: "Terms Of Service"
+title: "Terms of Service"
 
 # description — keep it short and clear
 summary: ""
@@ -13,9 +13,8 @@ summary: ""
 aliases:
   - /topics/tos/
 
-
 # Weight
-weight: 1
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki

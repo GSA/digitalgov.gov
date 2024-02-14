@@ -5,7 +5,7 @@
 slug: "crowdsourcing-and-citizen-science"
 
 # Topic Title
-title: "Crowdsourcing and Citizen Science"
+title: "Crowdsourcing & Citizen Science"
 
 # description — keep it short and clear
 summary: ""
@@ -19,7 +19,7 @@ aliases:
   - /topics/fcpccs/
 
 # Weight
-weight: 1
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
