@@ -5,7 +5,7 @@
 slug: "terms-of-service"
 
 # Topic Title
-title: "Terms Of Service"
+title: "Terms of Service"
 
 # description — keep it short and clear
 summary: ""
