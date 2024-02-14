@@ -25,7 +25,7 @@ aliases:
   - /topics/workflows/
 
 # Weight
-weight: 1
+weight: 2
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
 ---
