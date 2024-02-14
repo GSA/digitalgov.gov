@@ -5,7 +5,7 @@
 slug: "crowdsourcing-and-citizen-science"
 
 # Topic Title
-title: "Crowdsourcing and Citizen Science"
+title: "Crowdsourcing & Citizen Science"
 
 # description — keep it short and clear
 summary: ""
