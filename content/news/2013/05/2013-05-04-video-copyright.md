@@ -45,7 +45,7 @@ If you&#8217;re a federal employee, anyone in the U.S. may:
 * Display the work
 * Distribute copies or digitally transfer the work to the public by sale or other transfer of ownership, or by rental, lease, or lending
     
-{{< note >}}**Notes about USGWs**:
+{{< note >}}**About USGWs**:
 
 They are only free from copyright protection <em>within</em> the U.S.—many agencies can and do assert copyright protection overseas. The copyright for websites viewed in either New York or in Paris may be different in each location.
 
