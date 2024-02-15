@@ -72,6 +72,6 @@ I’ve found that everyone is eager to support me, whether it be talking about c
 
 I was nervous about the complexities of the bureaucracy and being able to get things done. This is definitely a challenge and something I’ve faced often over the past few months. However, I’ve found that this complexity isn’t heavy but rather energizing. I get out of bed every morning thrilled to get to work on the big issues facing everyone in our country.
 
-{{< note "action" >}}**Join Us**
+{{< note variant="action" >}}**Join Us**
 
 Having a career as a technologist in government is a rewarding experience! If you’re interested in joining us, check out the [U.S. Digital Corps](https://digitalcorps.gsa.gov/) for early-career opportunities (applications open this fall!). For more mid-senior technologists, visit [Join GSA’s Technology Transformation Services](https://join.tts.gsa.gov/).{{< /note >}}

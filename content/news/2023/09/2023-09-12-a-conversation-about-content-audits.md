@@ -6,7 +6,7 @@ summary: Content audits can be tedious. Two content designers discuss why we do 
 
 # See all topics at https://digital.gov/topics
 topics:
-  - seo
+  - search-engine-optimization
   - accessibility
   - plain-language
   - content-strategy
@@ -110,4 +110,4 @@ On consulting projects with partner agencies, audits provide critical informatio
 
 **Ryan**: Obviously we could talk for days about content audits! I think we’ve covered the value of content auditing, and a little bit about the process. Thanks for joining me to discuss content audits!
 
-{{< note "activity" >}}The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).{{< /note >}}
+{{< note variant="activity" >}}The Web Managers Community of Practice is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).{{< /note >}}

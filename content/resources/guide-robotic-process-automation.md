@@ -9,7 +9,7 @@ deck: "Automate repetitive business processes without writing code"
 summary: "Configure bots to execute repetitive tasks to save users from performing mundane tasks repeatedly for the same process."
 
 topics:
-  - rpa
+  - robotic-process-automation
 
 # originally published at the following URL
 source_url: "https://digital.gov/guides/rpa/"

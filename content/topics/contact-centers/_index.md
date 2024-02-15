@@ -10,6 +10,10 @@ title: "Contact Centers"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/contact-center/
+  - /topics/government-contact-center-council/
+  - /topics/government-contact-centers/
 
 # Weight
 weight: 2

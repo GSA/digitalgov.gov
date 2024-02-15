@@ -42,7 +42,7 @@ On August 15, 2023, in conjunction with the [Federal Web Council](https://digita
 
 {{< note >}} **All federal agencies are required to follow this guidance.** {{< /note >}}
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 **NOTE**: Use the phrase “Hawaii wildfires” instead of “Hawaiian wildfires” to be respectful of Hawaii’s culture and history. The term "Hawaiian" should only be used to refer to the islands’ Indigenous people.
 {{< /note >}}
 
@@ -53,11 +53,11 @@ Federal agencies with a role in the response effort should stand up an `agency.g
 1. What DHS and Federal Emergency Management Agency (FEMA) are doing
 2. What the U.S. government is doing
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 When distributing materials related to the Hawaii wildfires, please include links to these two lanes on all materials.
 {{< /note >}}
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 When posting information to your agency website, please only post information related to your individual agency. Then, link to the authoritative information from other government agencies that is related to your agency mission or ”lane.” Do NOT copy and paste content from other agencies or websites onto your site.
 {{< /note >}}
 
@@ -79,7 +79,7 @@ FEMA has established a landing page on FEMA.gov with the latest information from
 
 GSA has created a landing page on USA.gov for government-wide information related to Hawaii wildfires activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email usagovemergency@gsa.gov and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/hawaii-wildfires](https://www.usa.gov/hawaii-wildfires), and the Spanish page is at [https://www.usa.gov/es/hawaii-incendios-forestales](https://www.usa.gov/es/hawaii-incendios-forestales).
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 Send the title and URL for any Hawaii wildfires related materials posted on your agency website to usagovemergency@gsa.gov.
 {{< /note >}}
 
@@ -100,10 +100,10 @@ Local resources:
 * [County of Maui (Facebook)](https://www.facebook.com/countyofmaui)
 * [@Maui_EMA (Twitter)](https://twitter.com/Maui_EMA)
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 Follow and retweet the above accounts from your agency social media accounts as appropriate.
 {{< /note >}}
 
-{{< note "action" >}}
+{{< note variant="action" >}}
 If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov.
 {{< /note >}}

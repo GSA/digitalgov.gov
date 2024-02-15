@@ -29,7 +29,7 @@ authors:
 
 ---
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 **The Federal Crowdsource Mobile Testing Program** at the U.S. General Services Administration (GSA) is no longer active. This page will be archived.
 {{< /note >}}
 

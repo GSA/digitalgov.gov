@@ -10,9 +10,12 @@ title: "Search Engine Optimization"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/metadata/
+  - /topics/seo/
 
 # Weight
-weight: 1
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki

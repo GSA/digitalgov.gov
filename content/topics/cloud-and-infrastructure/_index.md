@@ -10,8 +10,15 @@ title: "Cloud and infrastructure"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/aws/
+  - /topics/cloud/
+  - /topics/cloud-gov/
+  - /topics/infrastructure/
 # Weight
-weight: 1
+weight: 2
+
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki
+
 ---

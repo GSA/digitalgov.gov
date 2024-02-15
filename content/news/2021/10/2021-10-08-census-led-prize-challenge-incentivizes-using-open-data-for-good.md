@@ -10,8 +10,6 @@ summary: The Open Data for Good Grand Challenge is now welcoming submissions
 # See all topics at https://digital.gov/topics
 topics:
   - open-data
-  
-  - united-states-census-bureau
   - challenges-and-prize-competitions
 # See all authors at https://digital.gov/authors
 authors:

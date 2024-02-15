@@ -1,16 +1,8 @@
 {{- define "content" -}}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
   <main role="main" id="main-content">
     <article>
       <header>
-        <div
-          class="grid-container grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
+        <div class="grid-container grid-container-desktop">
           <div class="grid-row">
             <div class="grid-col-12">
               {{/* Breadcrumbs */}}
@@ -50,7 +42,6 @@
             <div class="content usa-prose">
               {{- .Content -}}
             </div>
-            {{- partial "core/gh-commit-info.html" . -}}
           </div>
         </div>
       </section>

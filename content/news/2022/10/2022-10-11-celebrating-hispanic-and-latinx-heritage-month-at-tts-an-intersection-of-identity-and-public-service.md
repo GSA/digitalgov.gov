@@ -29,7 +29,7 @@ To advance and increase the understanding of [Latinx identity in design, tech, a
 
 <hr width="75%">
 
-{{< note "comment" >}}## Laura Godfrey, Vote.gov — Public Experience Portfolio, TTS Solutions
+{{< note variant="comment" >}}## Laura Godfrey, Vote.gov — Public Experience Portfolio, TTS Solutions
 
 **How do you identify?**
 
@@ -63,7 +63,7 @@ Many moments have made me feel good about my career with the government. But if 
 
 <hr width="75%">
 
-{{< note "comment" >}}## Toni Bonitto, Innovation Specialist, Digital.gov – Innovation Portfolio, TTS Solutions
+{{< note variant="comment" >}}## Toni Bonitto, Innovation Specialist, Digital.gov – Innovation Portfolio, TTS Solutions
 
 **How do you identify?**
 
@@ -103,7 +103,7 @@ When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to piv
 
 <hr width="75%">
 
-{{< note "comment" >}}## Austin Hernandez, Product Design — 18F
+{{< note variant="comment" >}}## Austin Hernandez, Product Design — 18F
 
 **How do you identify?**
 
@@ -137,7 +137,7 @@ I really liked being the lead product designer on [FindTreatment.gov](https://fi
 
 <hr width="75%">
 
-{{< note "comment" >}}## Edwin Torres, Consulting Software Engineer — 18F
+{{< note variant="comment" >}}## Edwin Torres, Consulting Software Engineer — 18F
 
 **How do you identify?**
 
@@ -171,7 +171,7 @@ I co-authored a [10X idea to improve digital services for the U.S. territories](
 
 <hr width="75%">
 
-{{< note "comment" >}}## Rebeca Lamadrid Villarreal, PIF Executive Director — Presidential Innovation Fellows
+{{< note variant="comment" >}}## Rebeca Lamadrid Villarreal, PIF Executive Director — Presidential Innovation Fellows
 
 **How do you identify?**
 
@@ -205,7 +205,7 @@ To be here! My career in government just started earlier in 2022 and I feel very
 
 <hr width="75%">
 
-{{< note "comment" >}}## Dahianna Salazar Foreman, Communications and Marketing — U.S. Digital Corps, TTS Outreach
+{{< note variant="comment" >}}## Dahianna Salazar Foreman, Communications and Marketing — U.S. Digital Corps, TTS Outreach
 
 **How do you identify?**
 

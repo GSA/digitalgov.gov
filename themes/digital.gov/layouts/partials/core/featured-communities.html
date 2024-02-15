@@ -33,18 +33,12 @@
   {{ end }}"
 >
   {{ range $dg_communities }}
-    {{ $path := "" }}
-    {{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
     <div
       class="usa-card{{ if .Params.dg_acronym }}
         cop-card--{{ .Params.dg_acronym }}
       {{ end }}"
     >
-      {{ $card_data := (dict "header" .Params.dg_shortname "body" .Params.summary "link" .Permalink "link_title" (printf "%s%s" "Connect with <br/>" .Params.dg_shortname) "image" .Params.dg_logo "alt" (printf "%s%s" .Params.dg_shortname " logo") "layout" $layout "path" $path) }}
+      {{ $card_data := (dict "header" .Params.dg_shortname "body" .Params.summary "link" .Permalink "link_title" (printf "%s%s" "Connect with <br/>" .Params.dg_shortname) "image" .Params.dg_logo "alt" (printf "%s%s" .Params.dg_shortname " logo") "layout" $layout) }}
       {{- partial "core/usa-card.html" (dict "card_data" $card_data) -}}
     </div>
   {{ end }}

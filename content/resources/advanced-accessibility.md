@@ -30,7 +30,7 @@ authors:
   - jeremyzilar
 
 # primary Image (for social media)
-primary_image: "accessibility-101-title-card"
+primary_image: "accessibility-icons-symbols-maanas-istock-getty-images-1073019390"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -214,7 +214,7 @@ If you are able to test screen readers with multiple browsers, the following is 
 
 _This introduction to accessibility was based on content created by the [Technology Transformation Services](https://join.tts.gsa.gov/tts-offices/) (TTS) **Accessibility Guild**. Many thanks to former guild co-leads, **Toni Bonitto (TTS Solutions)**, **Jacklynn Pham (18F)**, **Nikki Lee (18F)**, and **David Stenger (USAgov)** for creating and iterating on this!_
 
-{{< note "activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
+{{< note variant="activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
 
 [**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government.
 
