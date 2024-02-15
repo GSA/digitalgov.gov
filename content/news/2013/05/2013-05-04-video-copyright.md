@@ -45,14 +45,15 @@ If you&#8217;re a federal employee, anyone in the U.S. may:
 * Display the work
 * Distribute copies or digitally transfer the work to the public by sale or other transfer of ownership, or by rental, lease, or lending
     
-Notes about USGWs:
+{{< note >}}**Notes about USGWs**:
 
 They are only free from copyright protection <em>within</em> the U.S.—many agencies can and do assert copyright protection overseas. The copyright for websites viewed in either New York or in Paris may be different in each location.
 
 The employee who creates a USGW cannot claim intellectual property rights on the work. Similarly, you can’t create a video using pieces of other people’s work and call it your own.
  
 Works prepared for the U.S. government by independent contractors as a “work for hire” belong to the government. The contractor may not obtain or retain any copyright from these created materials if the agency chooses to assert that they are “works for hire” and the federal contract clearly states as such. In other words, ensure your contracting officer includes the correct clauses if your agency wishes to obtain copyright via contract.
-    
+{{< /note >}}
+
 When in doubt, consult your agency’s Office of General Counsel.
     
 ## USGW Copyright Exceptions
@@ -64,7 +65,7 @@ When in doubt, consult your agency’s Office of General Counsel.
 
 When in doubt, consult your agency’s Office of General Counsel.
 
-## Video, Image or Music Permissions
+## Video, Image, or Music Permissions
 
 You can use a photograph, a song, or a video clip if you:
     
