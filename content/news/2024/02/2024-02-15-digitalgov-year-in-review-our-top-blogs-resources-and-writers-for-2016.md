@@ -19,8 +19,10 @@ primary_image: top-10-cards-lights-elinedesignservices-istock-getty-images-47095
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
-For most of us Gen X and Gen Y kids, 2016 was not kind to our childhood. The biggest blows for me were losing two music icons and Internet innovators, David Bowie and Prince <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">\[1]</a></sup>, and everybody’s favorite space princess, Carrie Fisher. But, work-wise, I’m pleased to say that DigitalGov had a pretty great year, and that was largely due to a bevy of talented and dedicated writers from more than 50 agencies and departments across all three branches of the federal government (***Thank you!!!***). Below, we’ll review some program highlights from the last year, including our top-viewed articles and resources, and tell you how you, too, can contribute to DigitalGov in 2017.
+
+For most of us Gen X and Gen Y kids, 2016 was not kind to our childhood. The biggest blows for me were losing two music icons and Internet innovators, David Bowie and Prince <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>, and everybody’s favorite space princess, Carrie Fisher. But, work-wise, I’m pleased to say that DigitalGov had a pretty great year, and that was largely due to a bevy of talented and dedicated writers from more than 50 agencies and departments across all three branches of the federal government (***Thank you!!!***). Below, we’ll review some program highlights from the last year, including our top-viewed articles and resources, and tell you how you, too, can contribute to DigitalGov in 2017.
 
 ## Highlights
 
