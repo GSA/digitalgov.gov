@@ -8,7 +8,7 @@ slug: "security"
 title: "Security"
 deck: "Secure websites and a secure online presence foster trust between the public and government."
 
-summary: "Prioritize implementing security and management controls to protect sensitive information while maintaining access for authorized users. The responsibility to ensure website safety extends beyond technology. Publicly share your security protocols and establish a clear channel for users to report any suspicious activity. By making security a collaborative effort, you'll build trust, protect sensitive information, and ensure that your website functions securely."
+summary: "To protect sensitive information while maintaining access for authorized users, prioritize the implementation of security and management controls. The responsibility, however, to ensure website safety extends beyond technology. Publicly share your security protocols and establish a clear channel for users to report any suspicious activity. By making security a collaborative effort, you'll build trust, protect sensitive information, and ensure that your website functions securely."
 
 # Weight
 weight: 2
