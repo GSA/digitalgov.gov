@@ -1,5 +1,4 @@
 ---
-source: ""
 date: 2017-02-03 11:25:00 -0500
 title: "DigitalGov Year in Review: Our Top Blogs, Resources, and Writers for 2016"
 summary: DigitalGov had a pretty great year in 2016, and that was largely due to
@@ -136,7 +135,7 @@ If you are a federal employee with a .gov or .mil email address interested in su
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">Genius artistry aside for just a femtosecond, both “Ziggy Stardust” and “The Kid” were Internet pioneers in the early and mid-1990s. They had the foresight to use the new medium to provide digital services and content to their customer fanbases; \[Prince in 1994](https://www.washingtonpost.com/news/the-intersect/wp/2016/04/27/how-prince-revolutionized-the-internet-according-to-the-webmaster-who-helped-him-do-it/), and \[David Bowie in 1998](http://www.bbc.com/news/technology-35279234). Before their passing, each won web-related lifetime achievement awards that honor those who helped shape the Internet with their groundbreaking work, recognizing their influence and lasting impact on digital culture, communication, and technology. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">Genius artistry aside for just a femtosecond, both “Ziggy Stardust” and “The Kid” were Internet pioneers in the early and mid-1990s. They had the foresight to use the new medium to provide digital services and content to their customer fanbases; [Prince in 1994](https://www.washingtonpost.com/news/the-intersect/wp/2016/04/27/how-prince-revolutionized-the-internet-according-to-the-webmaster-who-helped-him-do-it/), and [David Bowie in 1998](http://www.bbc.com/news/technology-35279234). Before their passing, each won web-related lifetime achievement awards that honor those who helped shape the Internet with their groundbreaking work, recognizing their influence and lasting impact on digital culture, communication, and technology. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
 
