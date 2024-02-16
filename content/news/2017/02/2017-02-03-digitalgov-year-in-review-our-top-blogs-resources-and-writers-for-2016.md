@@ -9,7 +9,6 @@ topics:
   - digital-service-delivery
   - customer-experience
   - multilingual
-  - diversity-equity-and-inclusion
   - innovation
   - product-and-project-management
   - emerging-tech
