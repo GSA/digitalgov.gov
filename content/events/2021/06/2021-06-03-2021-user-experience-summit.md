@@ -58,7 +58,7 @@ In this session you will hear from the following speakers:
 * **Ben Peterson** &mdash; GSA
 * **Pia Zaragoza** &mdash; Presidential Innovation Fellow (PIF), TTS
 
-{{< youtube _QjXiQOa33Y >}}
+{{< youtube id="_QjXiQOa33Y" >}}
 
 - - -
 
@@ -106,7 +106,7 @@ In this session you will hear from the following speakers:
 * **Ben Peterson** &mdash; 18F, GSA
 * **Julie Strothman** &mdash; 18F, GSA
 
-{{< youtube j1ZJO8maV7s >}}
+{{< youtube id="j1ZJO8maV7s" >}}
 
 - - -
 
@@ -136,7 +136,7 @@ u will hear from the following speaker:
 
 * **Tait Chamberlain** &mdash; U.S. Department of Education (ED)
 
-{{< youtube 5LEZ2LspjQQ >}}
+{{< youtube id="5LEZ2LspjQQ" >}}
 
 - - -
 
@@ -151,7 +151,7 @@ In this session you will hear from the following speakers:
 * **Andrew Fichter** &mdash; U.S. Department of Veterans Affairs (VA)
 * **Maria Vidart-Delgado** &mdash; Contractor, U.S. Department of Veterans Affairs (VA)
 
-{{< youtube JjiOp1iz1gE >}}
+{{< youtube id="JjiOp1iz1gE" >}}
 
 - - -
 
@@ -180,7 +180,7 @@ In this session you will hear from the following speakers:
 * **Crystal Sprage** &mdash; Wyandotte County, KS
 * **Daniel Yi** &mdash; U.S. Department of Justice (DOJ)
 
-{{< youtube yvuCZughTHk >}}
+{{< youtube id="yvuCZughTHk" >}}
 
 {{< /accordion >}}
 
@@ -256,7 +256,7 @@ In this session you will hear from the following speakers:
 * **Randy Hart** &mdash; 18F, GSA TTS
 * **Karyn Lu** &mdash; Colorado Digital Service
 
-{{< youtube _zu5htrW8QA >}}
+{{< youtube id="_zu5htrW8QA" >}}
 
 - - -
 

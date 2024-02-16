@@ -36,4 +36,4 @@ You can watch the entirety of the webinar in the video below, or jump to specifi
 
 ## Full Video
 
-{{< youtube BB7oznnz3lQ >}}
+{{< youtube id="BB7oznnz3lQ" >}}

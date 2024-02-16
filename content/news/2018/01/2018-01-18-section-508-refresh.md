@@ -24,7 +24,7 @@ In January 2017, the [U.S. Access Board](https://www.access-board.gov/) publishe
 
 The [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) went into effect on January 18, 2018. [Watch this video, New Requirements: Section 508 Refresh, to learn more](https://www.youtube.com/watch?v%3DKw4jEGmaXbw).
 
-{{< youtube Kw4jEGmaXbw >}}
+{{< youtube id="Kw4jEGmaXbw" >}}
 
 ## What’s New
 

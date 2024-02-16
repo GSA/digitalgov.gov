@@ -39,11 +39,11 @@ The resources provided in the [DHS Usability Kit](https://www.dhs.gov/cx/dhs-usa
 
 1. An overview of the DHS Usability Testing Kit (time length: 13:01)
 
-{{< youtube G0Eij3E7RLQ >}}
+{{< youtube id="G0Eij3E7RLQ" >}}
 
 2. Example templates from the DHS Usability Testing Kit (time length: 6:56)
 
-{{< youtube inTKUSKpHjQ >}}
+{{< youtube id="inTKUSKpHjQ" >}}
 
 ---
 

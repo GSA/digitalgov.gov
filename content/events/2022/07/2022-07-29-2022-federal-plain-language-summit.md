@@ -66,7 +66,7 @@ In this session you will hear from the following speakers:
 * **Shuly Babitz** &mdash; Health Communications Strategist, Health Resources and Services Administration (HRSA)
 * **Katy Karnell** &mdash; Communications Team Lead, Health Resources and Services Administration (HRSA)
 
-{{< youtube 9U2wzbWpCso >}}
+{{< youtube id="9U2wzbWpCso" >}}
 
 ---
 
@@ -128,7 +128,7 @@ In this session you will hear from the following speaker:
 
 * **Laura Rabuck** &mdash; Research Health Science Specialist / Lead Content Strategist, United States Department of Veterans Affairs (VA)
 
-{{< youtube tfjKAYKLnvg >}}
+{{< youtube id="tfjKAYKLnvg" >}}
 
 ---
 
@@ -189,7 +189,7 @@ In this session you will hear from the following speaker:
 
 * **Dr. Rachael Bradley Montgomery** &mdash; Digital Accessibility Architect, Library of Congress (LOC)
 
-{{< youtube 9Ae8bUlSSXU >}}
+{{< youtube id="9Ae8bUlSSXU" >}}
 
 ---
 

@@ -45,7 +45,7 @@ During this event, speaker David Lipscomb provided some useful tips to make web 
 
 The [Department of Homeland Security (DHS) FOIA request page](https://www.dhs.gov/foia) is a perfect example of an agency following plain language guidelines. David Lipscomb explains how this page received such an outstanding report card score in this short video clip:
 
-{{< youtube sl3yiSA-4LY >}}
+{{< youtube id="sl3yiSA-4LY" >}}
 
 ## The Don’ts
 
