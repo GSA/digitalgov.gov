@@ -1,16 +1,19 @@
 ---
 date: 2017-02-03 11:25:00 -0500
 title: "DigitalGov Year in Review: Our Top Blogs, Resources, and Writers for 2016"
-summary: DigitalGov had a pretty great year in 2016, and that was largely due to
-  a bevy of talented and dedicated writers from over 50 agencies and departments
-  across all 3 branches of the federal government (Thank you!!!). Below, we’ll
-  review some program highlights from the last year, including our top-viewed
-  articles and resources, and tell you how you, too, can contribute to
-  DigitalGov in 2017.
+summary: DigitalGov had a pretty great year in 2016, and that was largely due to a bevy of talented and dedicated writers from over 50 agencies and departments across all 3 branches of the federal government (Thank you!!!). Below, we’ll review some program highlights from the last year, including our top-viewed articles and resources, and tell you how you, too, can contribute to DigitalGov in 2017.
 
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
+  - digital-service-delivery
+  - customer-experience
+  - multilingual
+  - diversity-equity-and-inclusion
+  - innovation
+  - product-and-project-management
+  - emerging-tech
+  - analytics
 
 # See all authors at https://digital.gov/authors
 authors:
