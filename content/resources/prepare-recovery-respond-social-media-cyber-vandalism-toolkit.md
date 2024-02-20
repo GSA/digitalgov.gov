@@ -12,10 +12,6 @@ topics:
   - security
   - social-media
 
-# See all authors at https://digital.gov/authors
-authors:
-  - cathryn-camenzind
-
 slug: prepare-recovery-respond-social-media-cyber-vandalism-toolkit
 
 primary_image: 
