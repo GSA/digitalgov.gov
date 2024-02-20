@@ -18,7 +18,7 @@ The [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) offers no
 
 The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice](https://digital.gov/communities/), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics.
 
-{{< youtube id="DgSfm1wZvvE" >}}
+{{< youtube id="DgSfm1wZvvE" title="DAP Learning Series – Measuring Your Mobile Users" >}}
 
 ## Why Mobile Analytics?
 

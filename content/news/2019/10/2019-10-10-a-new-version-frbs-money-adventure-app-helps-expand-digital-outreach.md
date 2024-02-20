@@ -25,4 +25,4 @@ Similar to the iOS version, the Android version of _Money Adventure_ contains a 
 
 Download the app in the [Google Play Store](https://play.google.com/store/apps/details?id=com.taoti.moneyadventure) for Android devices or the [App Store](https://apps.apple.com/us/app/money-adventure/id1446642877) for Apple devices!
 
-{{< youtube id="Z4XCkDhve20" >}}
+{{< youtube id="Z4XCkDhve20" title="Introducing the Money Adventure Android App" >}}

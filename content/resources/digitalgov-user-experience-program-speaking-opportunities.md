@@ -34,10 +34,12 @@ Potential audiences include:
 
 **User Centered Design** (November 2013)
 
+<!-- TODO: video does not exist -->
 {{< youtube id="GwBBtTkUAcA" >}}
 
 **Usability Testing and Debriefing Best Practices** (March 2012)
 
+<!-- TODO: video does not exist -->
 {{< youtube id="n8d8AHQ-lwE" >}}
 
 ## Our Presentations

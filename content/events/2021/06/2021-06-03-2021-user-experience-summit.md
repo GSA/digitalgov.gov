@@ -58,7 +58,7 @@ In this session you will hear from the following speakers:
 * **Ben Peterson** &mdash; GSA
 * **Pia Zaragoza** &mdash; Presidential Innovation Fellow (PIF), TTS
 
-{{< youtube id="_QjXiQOa33Y" >}}
+{{< youtube id="_QjXiQOa33Y" title="UX Summit 2021: Designing With People of All Abilities" >}}
 
 - - -
 
@@ -106,7 +106,7 @@ In this session you will hear from the following speakers:
 * **Ben Peterson** &mdash; 18F, GSA
 * **Julie Strothman** &mdash; 18F, GSA
 
-{{< youtube id="j1ZJO8maV7s" >}}
+{{< youtube id="j1ZJO8maV7s" title="UX Summit 2021: Equity-Centered Design: Challenges in Government" >}}
 
 - - -
 
@@ -136,7 +136,7 @@ u will hear from the following speaker:
 
 * **Tait Chamberlain** &mdash; U.S. Department of Education (ED)
 
-{{< youtube id="5LEZ2LspjQQ" >}}
+{{< youtube id="5LEZ2LspjQQ" title="UX Summit 2021: Pivot on a Deadline: How To Use More Testing, Not Less, To Drive Delivery" >}}
 
 - - -
 
@@ -151,7 +151,7 @@ In this session you will hear from the following speakers:
 * **Andrew Fichter** &mdash; U.S. Department of Veterans Affairs (VA)
 * **Maria Vidart-Delgado** &mdash; Contractor, U.S. Department of Veterans Affairs (VA)
 
-{{< youtube id="JjiOp1iz1gE" >}}
+{{< youtube id="JjiOp1iz1gE" title="Discovery Research for Government Application Programming Interfaces (APIs): Why and How" >}}
 
 - - -
 
@@ -180,7 +180,7 @@ In this session you will hear from the following speakers:
 * **Crystal Sprage** &mdash; Wyandotte County, KS
 * **Daniel Yi** &mdash; U.S. Department of Justice (DOJ)
 
-{{< youtube id="yvuCZughTHk" >}}
+{{< youtube id="yvuCZughTHk" title="UX Summit 2021: Journey Mapping Access to Justice" >}}
 
 {{< /accordion >}}
 
@@ -256,7 +256,7 @@ In this session you will hear from the following speakers:
 * **Randy Hart** &mdash; 18F, GSA TTS
 * **Karyn Lu** &mdash; Colorado Digital Service
 
-{{< youtube id="_zu5htrW8QA" >}}
+{{< youtube id="_zu5htrW8QA" title="UX Summit 2021: Iterating on a State-Level Digital Service Team: Colorado’s Year One Self-Retro" >}}
 
 - - -
 

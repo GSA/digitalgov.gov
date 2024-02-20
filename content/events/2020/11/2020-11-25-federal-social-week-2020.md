@@ -64,7 +64,7 @@ In this session you will hear from:
 
 * Sara Eckert, Social Media Strategist, Social Media Branch, Strategic Communications and Public Affairs, TSA
 
-{{< youtube id="ZjoNsDqUTUg" time="" >}}
+{{< youtube id="ZjoNsDqUTUg" title="SocialGov Week Session 2: TSA’s Quest to Determine the Cutest Canine" >}}
 
 
 ## Session Three 
@@ -83,7 +83,7 @@ In this session you will hear from the following speakers:
 * Peter Lenentine, Director of User Experience & Usability, GSA
 * Victoria Wales, Strategic Outreach Specialist, GSA
 
-{{< youtube id="iNGQ0cKw_o4" >}}
+{{< youtube id="iNGQ0cKw_o4" title="SocialGov Week Session 3: 5 Insider Secrets to Email Marketing" >}}
 
 ## Session Four
 
@@ -97,7 +97,7 @@ In this session you will hear from:
 
 * Tanner Iskra, video producer and host of the VA’s "Borne the Battle" Podcast, VA
 
-{{< youtube id="PonDDNV8fAw" >}}
+{{< youtube id="PonDDNV8fAw" title="SocialGov Week Session 4: What’s New and Interesting in Podcasting" >}}
 
 ## Session Five
 
@@ -113,7 +113,7 @@ In this session you will hear from:
 
 * Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
 
-{{< youtube id="GxZQn1M56eU" >}}
+{{< youtube id="GxZQn1M56eU" title="SocialGov Week Session 5: Posting Travel Content When No One is Traveling" >}}
 
 ## Session Six
 
@@ -143,4 +143,4 @@ In this session you will hear from:
 * Briana D Kaya, Deputy Division Chief, Center for New Media & Promotion, U.S. Census Bureau 
 * Yolanda Byrd, Deputy Chief in the Promotions Branch, Center for New Media & Promotions 
 
-{{< youtube id="276o55Ir9AI" >}}
+{{< youtube id="276o55Ir9AI" title="SocialGov Week Session 7: Using Social Media Influencers in the Federal Government" >}}

@@ -44,4 +44,4 @@ Before creating any piece of content, consider the following:
 
 The video below, from the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) huddle on designing for translation, is 26 minutes and 18 seconds long.
 
-{{< youtube id="AP0PJYySH_4" >}}
+{{< youtube id="AP0PJYySH_4" title="Designing for Translation - Multilingual Community Huddle" >}}

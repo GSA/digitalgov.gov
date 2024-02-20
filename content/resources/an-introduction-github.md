@@ -27,7 +27,7 @@ weight: 2
 In this first training video, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content.
 {{< /note >}}
 
-{{< youtube id="lZD7_kmc_zs" >}}
+{{< youtube id="lZD7_kmc_zs" title="Using Github for content creation" >}}
 
 ## What is GitHub?
 
@@ -64,7 +64,7 @@ Becoming fluent in GitHub terminology might seem intimidating at first, but the 
 This second tutorial and live demonstration covers a variety of Git-related concepts so that you can have confidence using GitHub in the future. You can also [download the slides that are found in this presentation (.pptx, 28.4 MB, 41 slides)](https://s3.amazonaws.com/digitalgov/static/07-25-2023-github-basics-final.pptx).
 {{< /note >}}
 
-{{< youtube id="gLozuPQ34EQ" >}}
+{{< youtube id="gLozuPQ34EQ" title="Introduction to GitHub for newcomers" >}}
 
 In the demonstrations on this page, both presenters show how files are changed and merged in GitHub. This can be done by any member on the team, developers and non-developers, that has access to a GitHub repository. The following is a step-by-step method in which GitHub users can develop their websites:
 

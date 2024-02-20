@@ -94,13 +94,13 @@ It’s important to understand that everyone experiences some form of disability
 
 The fix that benefits everyone in this circumstance might be to apply a captioning service to the video. That would directly help Mark who has a permanent disability, but also benefit Jesse and Sam who have temporary and situational disabilities. This is known as the “[Curb-cut effect](https://medium.com/@mosaicofminds/the-curb-cut-effect-how-making-public-spaces-accessible-to-people-with-disabilities-helps-everyone-d69f24c58785).” When we design for people with permanent disabilities, folks with temporary and situational limitations can also benefit.
 
-{{< youtube id="iWO5N3n1DXU" >}}
+{{< youtube id="iWO5N3n1DXU" title="Web Accessibility Perspectives: Video Captions" >}}
 
 According to Microsoft’s Inclusive Design Toolkit, each year in the U.S., approximately 26,000 new people suffer the loss of an upper limb. When we include people with temporary (13 million) and situational impairments (an additional 8 million people), that’s more than 21 million people each year who experience disabilities.
 
 The idea that things that help people with disabilities can benefit everyone inspired the field of universal design, where buildings and objects are designed to be as usable as possible for everyone, regardless of age or ability. When assistive technology (AT) becomes sufficiently ubiquitous and widely used, it is no longer considered assistive technology. It becomes “normal.”
 
-{{< youtube id="JQ0iMulicgg" >}}
+{{< youtube id="JQ0iMulicgg" title="It's not fair having 12 pairs of legs" >}}
 
 Let’s review temporary and situational disabilities in a bit more detail.
 

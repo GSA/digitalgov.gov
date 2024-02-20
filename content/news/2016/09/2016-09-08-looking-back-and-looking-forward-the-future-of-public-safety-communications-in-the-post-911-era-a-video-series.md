@@ -23,7 +23,7 @@ The week before Patriot Day, our nation’s annual remembrance of the 9&#47;11 a
 
 In the video below, FirstNet’s Mike Worrell talks about the communication challenges he faced as a first responder on 9/11 at the World Trade Center. Cell phone systems weren’t working, video of the incident couldn’t be shared, and Worrell and his fellow first responders had to wait 12-14 hours after data collection get access to key data. In the future, Worrell says, FirstNet will provide real-time data collection and situational awareness so vital to effective first response.
 
-{{< youtube id="OFp1zHgxpHw" >}}
+{{< youtube id="OFp1zHgxpHw" title="Mike Worrell: FirstNet in Disaster Response" >}}
 
 _Mike Worrell is the FirstNet Senior Fire Services Advisor. He was previously with the Phoenix Fire Department where he served for 29 years, most recently as the technical services division chief. Worrell was also a member of the Public Safety Advisory Committee (PSAC) to FirstNet, a member of the National Urban Search and Rescue Incident Support Team, and a qualified Communications Unit Leader and Communications Technician instructor. Prior to joining the Phoenix Fire Department, he was an electronics technician in the U.S. Navy, Submarine Service._
 

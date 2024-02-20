@@ -35,7 +35,7 @@ youtube_id:
 
 ---
 
-{{< youtube id="aOy9UzClmMA" >}}
+{{< youtube id="aOy9UzClmMA" title="The Average American Reader Needs You to Write (Even More) Clearly" >}}
 
 {{< note >}}
 [This presentation (PDF, 3.6 MB, 51 pages)](https://s3.amazonaws.com/digitalgov/static/TheAverageAmericanClean_rev.pdf), crafted by Dr. Meredith Larson of the U.S. Department of Education, offers detailed information on literacy skills of U.S. adults, including digital literacy, and the implications for communicating with the public.

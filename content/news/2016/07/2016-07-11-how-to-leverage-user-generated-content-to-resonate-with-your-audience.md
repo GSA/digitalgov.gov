@@ -68,7 +68,7 @@ Similar to Challenge.gov, [CitizenScience.gov](http://www.citizenscience.gov/) i
 
 {{< box >}}In an effort to increase “surface observations” [NOAA’s National Severe Storms Laboratory](http://www.nssl.noaa.gov/) recently announced, “Summer Spotlight: [mPING!](https://www.citizenscience.gov/2016/07/06/noaa-summer-spotlight-mping/ "Permanent Link to NOAA Summer Spotlight: mPING!")” a [crowdsourcing project](https://ccsinventory.wilsoncenter.org/#projectId/24) to collect public weather reports through a free app available for smartphones and mobile devices.
   
-{{< youtube id="bf129k6ZiF8" >}}
+{{< youtube id="bf129k6ZiF8" title="Bite-Sized Science: The mPING App" >}}
 
 The <a href="http://www.fs.fed.us/">U.S. Forest Service</a> and <a href="http://www.usda.gov/">U.S. Department of Agriculture</a> host many <a href="http://www.citizenscience.gov/catalog/">projects in the catalog</a> that collaborate with NGO’s, schools and state and local governments, that, among other things, support conservation goals/policy and research advancement, build new technologies, and gather or classify data.{{< /box >}}
 
