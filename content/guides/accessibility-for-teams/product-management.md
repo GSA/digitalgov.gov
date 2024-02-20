@@ -6,6 +6,10 @@ summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
+topics:
+  - accessibility
+  - product-and-project-management
+  - user-experience
 layout: single
 ---
 
@@ -22,7 +26,7 @@ If you have project-specific questions, ask your agency’s accessibility team.
 ### Steps to take
 - Familiarize yourself with the high-level accessibility roles for each member of your team:
   - [Front end / development]({{< link "/guides/accessibility-for-teams/front-end-development" >}}): Ensure front-end code is written accessibly and conducts manual and automated testing.
-  - [Content design]({{< link "/guides/accessibility-for-teams/content-design" >}}): Ensure content is written in plain language and headings, images, and links are accurately labeled.
+- Take an Accessibility 101 class to get a baseline knowledge of accessibility.
   - [Visual design]({{< link "/guides/accessibility-for-teams/visual-design" >}}): Ensure that designs are accessible, pages are laid out in a logical order, and content meets color contrast requirements.
   - [UX design]({{< link "/guides/accessibility-for-teams/ux-design" >}}): Ensure that overall experience is built and designed in an accessible fashion, conduct usability testing with people who need accessibility features.
 - Ensure your team members know where to find the accessibility guidelines for their role and follow them from the start of a project. The guides are located here: [front end]({{< link "/guides/accessibility-for-teams/front-end-development" >}}), [content design]({{< link "/guides/accessibility-for-teams/content-design" >}}), and [visual design]({{< link "/guides/accessibility-for-teams/visual-design" >}}).

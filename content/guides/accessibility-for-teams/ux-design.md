@@ -6,10 +6,14 @@ summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
+topics:
+  - accessibility
+  - product-and-project-management
+  - user-experience
 layout: single
 ---
 
-Accessibility is usability for people who interact with products differently. Your role is to help the team approach accessibility as a facet of user experience rather than checklist of requirements.
+## Adopt an inclusive design mentality.
 
 If you have project-specific questions, ask your agency’s accessibility team.
 
@@ -23,16 +27,16 @@ If you have project-specific questions, ask your agency’s accessibility team.
   - Cognitive disorders – such as dyslexia, dementia, or being sleep deprived
 - Understand that almost everyone experiences some type of disability either permanently, temporarily, or situationally. For example: having only one arm is a permanent condition, having an arm in a cast is temporary, and holding a baby in one arm is situational – but in each case you’re restricted to completing tasks with one arm.
 - Look for ways that making your product easier to use for folks with disabilities also improves the experience for everyone.
-- Design for [progressive enhancement](https://articles.uie.com/progressive_enhancement/) by making sure every person is able to use your product using the most basic technologies, while layering on better experiences for those who can use them.
+- Inclusive design principles [inclusive design](http://inclusivedesignprinciples.org/)
+- [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/design/inclusive/)
 - When conducting user research, make sure the diversity of your participants reflects the diverse abilities, circumstances, and backgrounds of your actual users.
 
 ### Resources
 - [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/design/inclusive/)
 - [Microsoft’s Inclusive Design Toolkit (PDF, 22 MB, 32 pages)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
-- [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
 - [1.3 Adaptable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
 - [1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-understanding)
-
+- Take an Accessibility 101 class to get a baseline knowledge of accessibility.
 ## Get familiar with the basic ways people use assistive technology.
 
 - Some assistive technologies are likely only going to be used by people with specific, long-term disabilities. These include screen readers, switch devices, screen magnifiers, and others. Other kinds of assistive technologies may be more familiar to you and include voice control on your cell phone, ergonomic keyboards, or a browser’s native zoom function. People have different skill levels in how they use these technologies.
@@ -50,12 +54,7 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - Incorporate accessibility considerations in your personas, user archetypes, or user stories. This could take the form of swapping out [accessibility issues in your personas](https://www.perpendicularangel.com/portfolio/publications/published-on-the-pastry-box/an-alphabet-of-accessibility-issues/) or creating standalone user stories focused on accessibility.
 - Help your team learn about the experience of using your product with assistive technology. (Keep in mind that the way a person with a disability uses assistive tools may be very different from your experience of the tools.) This could include:
   - Ask each person on your team to turn off their mouse and trackpad and navigate the product using only their keyboard.
-  - Under System Preferences > Accessibility > Display, check the grayscale box and explore your site without color to simulate color blindness.
   - Find an appropriate [empathy prompt](https://empathyprompts.net/#diminished-problem-solving-skills) and walk your team through it.
-- When possible, include users with disabilities in user research. During usability testing, make sure to allow them to use their own equipment (which has their own settings already in place).
-
-### Resources
-[Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
 
 ## Tab order
 ### Why it's important
@@ -168,7 +167,7 @@ Are your touch targets large enough and easy to reach?
 
 ### Steps to take
 - Make sure you can reach primary actions easily with either right or left thumbs, even on larger phones. Items on the bottom of the screen tend to be easier to reach.
-- Make touch targets at least 44 px or 10 mm. This will allow the target to be tapped by the average adult finger pad, which measures 10 mm. The icons may be smaller and you can work with your developer to extend padding past the icon. Pay particular attention to how [line-height affects touch target size](http://www.3needs.org/en/testing/target-size.html).
+- Make touch targets at least 44 px or 10 mm. This will allow the target to be tapped by the average adult finger pad, which measures 10 mm. The icons may be smaller and you can work with your developer to extend padding past the icon. Pay particular attention to how [line-height affects touch target size](https://digital.gov/guides/mobile-principles/tap-targets/).
 
 ### Resources
 - [2.5.5 Touch Target (WCAG 2.1)](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)

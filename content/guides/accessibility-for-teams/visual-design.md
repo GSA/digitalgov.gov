@@ -6,6 +6,10 @@ summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
+topics:
+  - accessibility
+  - product-and-project-management
+  - user-experience
 layout: single
 ---
 
@@ -73,8 +77,6 @@ Can you quickly understand the meaning of the page and complete your task?
 - Group related items in proximity to one another to help those who have low vision or trouble focusing on the screen.
 
 ### Resources
-<!-- https://material.io/guidelines/usability/accessibility.html this link is a 404 -->
-- [Accessibility - Material Design](https://material.io/guidelines/usability/accessibility.html)
 - [WebAIM: Web Accessibility for Designers](http://webaim.org/resources/designers/)
 
 ### WCAG 2.0 references
@@ -109,7 +111,7 @@ Can you easily read and comprehend textual information on the page?
 - **Use your type size and line width to determine a line height that people can comfortably read.** The larger the type size and line width, the larger the line height should be. For running/body text, that’s usually around 1.4-1.65, headings at around 1-1.3, and captions or short lines at around 1.3. Lines that are leaded too tightly or loosely can diminish readability by making it harder for the eye to know where to return to when the line breaks.
 
 ### Resources
-- [Inclusive Design Patterns by Heydon Pickering](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
+- [U.S. Web Design System (USWDS) research report: inclusive design patterns](https://designsystem.digital.gov/together/) 
 - [Better Web Type by Matej Latin](https://betterwebtype.com/)
 - [Text legibility - Material Design](https://material.io/design/color/text-legibility.html)
 

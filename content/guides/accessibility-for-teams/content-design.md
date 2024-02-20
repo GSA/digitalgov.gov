@@ -6,6 +6,10 @@ summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
+topics:
+  - accessibility
+  - product-and-project-management
+  - user-experience
 layout: single
 ---
 

@@ -6,6 +6,10 @@ summary: "A ‘quick-start’ guide for embedding accessibility and inclusive de
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
+topics:
+  - accessibility
+  - product-and-project-management
+  - user-experience
 layout: single
 ---
 
