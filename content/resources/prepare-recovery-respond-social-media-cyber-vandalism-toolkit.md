@@ -1,25 +1,33 @@
 ---
 date: 2024-02-20 17:50:00 -0500
-title: Prepare recovery respond social media cyber-vandalism toolkit
+title: Social media cyber-vandalism toolkit
 deck: How to prepare for, recover from, and respond to cyber incidents
-summary: Cyber-vandalism presents a serious challenge to online-based
-  communication tools. This resource provides information for agency
-  practitioners to prepare for, recover from, and respond to cyber-vandalism.
+summary: Cyber-vandalism presents a serious challenge to online-based communication tools. This resource provides information for agency practitioners to prepare for, recover from, and respond to cyber-vandalism.
+
+aliases:
+  - /resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/
+
 # See all topics at https://digital.gov/topics
 topics:
   - security
   - social-media
+
 # See all authors at https://digital.gov/authors
 authors:
-  - toni-bonitto
+  - cathryn-camenzind
+
 slug: prepare-recovery-respond-social-media-cyber-vandalism-toolkit
-primary_image: cyber-security-and-privacy-golden-sikorka-istock-getty-images-1358866874
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 Cyber-vandalism presents a serious challenge to online-based communication tools. This resource provides information for agency practitioners to prepare for, recover from, and respond to cyber-vandalism.
 
 ## Readiness: Phase 1
@@ -81,11 +89,11 @@ Pre-populate different types of messages for emails, texts, social media posts, 
    * Clearly define the criteria for the administrator and alternative.
    * Provide adequate resources to the full-time employee (FTE) administrator, including a mobile device and third-party management tool whenever possible.
 
-1. Create a social media policy with standard operating procedures for cyber-security.
-2. Obtain approval from appropriate parties, including your agency’s IT security team and legal counsel.
-3. Train stakeholders and others on the procedures and policies of social media cyber-security. Require training before use of an account.
-4. Add all official accounts to the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry), verifying authenticity of ownership. (For the Department of Defense (DoD), add social media accounts to the [DoD registry](https://www.defense.gov/Resources/Register-a-Site/).)
-5. Follow best practices for secure passwords.
+3. Create a social media policy with standard operating procedures for cyber-security.
+4. Obtain approval from appropriate parties, including your agency’s IT security team and legal counsel.
+5. Train stakeholders and others on the procedures and policies of social media cyber-security. Require training before use of an account.
+6. Add all official accounts to the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry), verifying authenticity of ownership. (For the Department of Defense (DoD), add social media accounts to the [DoD registry](https://www.defense.gov/Resources/Register-a-Site/).)
+7. Follow best practices for secure passwords.
 
 ### Evaluate two-step verification
 
