@@ -19,6 +19,8 @@ If you have project-specific questions, ask your agency’s accessibility team.
 
 ## Color and Contrast
 
+**Why it’s important**: Esther has low vision and needs content to have enough contrast to read it.
+
 ### Steps to take
 - Provide good contrast. Make sure the contrast between the text and background is greater than or equal to 4.5:1 for small text and 3:1 for large text.
   - Test your color palette for accessible combinations with [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/) or [Contrast Grid](http://contrast-grid.eightshapes.com/).
@@ -54,13 +56,14 @@ If you have project-specific questions, ask your agency’s accessibility team.
 
 ## Layout and Hierarchy
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Can you quickly understand the meaning of the page and complete your task?
 
 - Avi is distracted and needs to fill out an important web form
 - Benny has attention deficit disorder and has trouble staying focused on busy pages
 - Juanita doesn’t feel confident about using technology because she previously wasn’t able to find what she was looking for.
-{{< /ring >}}
+
 
 ### Steps to take
 - Make sure key information is discernable at a glance. Design minimally and intentionally so that the user can get as much info as quickly as possible.
@@ -80,12 +83,12 @@ Can you quickly understand the meaning of the page and complete your task?
 
 ## Typography
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you easily read and comprehend textual information on the page?
 
 - Zelda has low vision and has trouble reading small text. 
 - Yulia’s eyes are strained after a long day of working on a computer.
-{{< /ring >}}
+
 
 
 
@@ -116,11 +119,11 @@ Can you easily read and comprehend textual information on the page?
 
 ## Graphics and images
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you easily understand content associated with graphics, icons, and images?
 
 - Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
-{{< /ring >}}
+
 
 ### Steps to take
 - Make sure all graphics have descriptive captions written in plain language.
@@ -136,11 +139,11 @@ Can you easily understand content associated with graphics, icons, and images?
 
 ## Data visualizations
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you understand the overall trend of the graph? Can you quickly grasp the relationship between parts of the data?
 
 - Kwame has trouble reading graphs with small text.
-{{< /ring >}}
+
 
 ### Steps to take
 - Follow data visualization best practices: allow the data and your communication goals for the visualization to dictate the format and visual style, instead of the latest aesthetic trend.
@@ -157,12 +160,12 @@ Can you understand the overall trend of the graph? Can you quickly grasp the rel
 
 ## Forms
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Are forms as simple as possible and only ask what’s needed to complete the task? Can you successfully complete the form?
 
 - Mateo is in a hurry to fill out a medical insurance form for his sick daughter.
 - Janet has dementia and needs to validate her identification to request a new social security card.
-{{< /ring >}}
+
 
 ### Steps to take
 - **Present fields in a single-column layout.** This keeps visual momentum moving down the page so users don’t have to reorient themselves with multiple columns. (Exceptions to this rule are short, logical fields that may be presented on the same row like _City_, _State_, and _Zip code_.)
@@ -186,12 +189,12 @@ Are forms as simple as possible and only ask what’s needed to complete the tas
 
 ## Mobile
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you understand key information and perform critical tasks on a mobile device?
 
 - Miyako just lost her job and canceled her home internet to stretch her budget. She only uses her cell phone to browse the internet.
 - Reza is recovering from a stroke and slowly relearning how to use his arm. He uses his phone to help him find information on the web.
-{{< /ring >}}
+
 
 ### Steps to take
 - Make sure you can reach primary actions easily with either right or left thumbs.
@@ -204,11 +207,11 @@ Can you understand key information and perform critical tasks on a mobile device
 
 ## Keyboard access
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you reach anything that’s interactive using the tab key?
 
 - Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
-{{< /ring >}}
+
 
 ### Steps to take
 - Using only your keyboard, navigate through the page using the `tab` key.
@@ -231,11 +234,11 @@ Make sure that no content gets focused offscreen or is hidden from view.
 
 ## Screen reader
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you use a screen reader to access the page content?
 
 - Aisha is blind and uses a screen reader to navigate the web.
-{{< /ring >}}
+
 
 ### Steps to take
 - Use a screen reader to make sure you can land on controls and that they’re announcing content in the appropriate order and context (i.e. labels before form fields, headers before content, etc.).

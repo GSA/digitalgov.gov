@@ -18,13 +18,13 @@ Accessible writing ensures your content is easier for everyone to read. As we bu
 
 ## Plain language
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Can you quickly understand the main points of the content?
 
 - Karin is not a native English speaker and she sometimes has trouble decoding legal or bureaucratic language.
 - John has a developmental disability and has difficulty interpreting content written above a sixth-grade reading level.
 - Kai has low tech literacy and often doesn’t understand highly technical language.
-{{< /ring >}}
 
 ### Steps to take
 
@@ -44,11 +44,11 @@ Include in-line definitions for scientific, legal, or technical terms that you m
 
 ## Reference materials
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Can you easily access supplementary information clarifying the content?
 
 - Gilbert reads at a twelfth-grade level but isn’t familiar with the nuances of a site’s subject matter; to fully understand the site content, he needs easy-to-access contextual information.
-{{< /ring >}}
 
 ### Steps to take
 
@@ -63,11 +63,11 @@ Can you easily access supplementary information clarifying the content?
 
 ## Easy-to-parse graphic elements
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Can you easily interpret content associated with graphic elements?
 
 - Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
-{{< /ring >}}
 
 ### Steps to take
 
@@ -86,12 +86,12 @@ Can you easily interpret content associated with graphic elements?
 
 ## Scannable content
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Can you scan the page without having to pause for long passages? Can you quickly grasp the meaning of a section based on its heading?
 
 - Jerrold has a cognitive disability that makes it difficult for him to read long, uninterrupted passages of text. 
 - Sharon reads most online content using her mobile device and finds it difficult to navigate long paragraphs.
-{{< /ring >}}
 
 ### Steps to take
 
@@ -109,13 +109,13 @@ Can you scan the page without having to pause for long passages? Can you quickly
 
 ## Images
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Do your images have descriptive alt text?
 
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 
 - Amanda is blind and uses a braille reader to understand the contents of images. 
 - John is looking for information with a search engine and needs help being directed to the right content (descriptive alt tags will improve search).
-{{< /ring >}}
 
 ### Steps to take
 
@@ -134,11 +134,11 @@ Do your images have descriptive alt text?
 
 ## Links
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Do all links have properly descriptive text?
 
 - Jerry is blind and uses a screen reader to navigate the web. He often uses the <code>tab</code> key to quickly scan a page by reading out only the text links without the surrounding copy.
-{{< /ring >}}
 
 ### Steps to take
 
@@ -153,13 +153,14 @@ Do all links have properly descriptive text?
 
 ##  Information architecture
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Is your site organized such that everyone can navigate it easily?
 
 - Beth has a lower tech literacy level and needs a site’s layout to be clear.
 - Julian has low vision and uses a screen reader to navigate the web. Kendra has a newborn and her attention is often divided; she needs to be able to understand a site’s contents at a glance.
 - Lyle is undergoing a crisis and needs to quickly find just the content pertinent to him.
-{{< /ring >}}
+
 
 ### Steps to take
 
@@ -192,12 +193,12 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 
 ## Video and multimedia
 
-{{< ring title="Why it's important" >}}
+### Why it's important
+
 Is everyone able to access your multimedia content?
 
 - Blake is hearing-impaired and cannot rely on audio.
 - Sandra is a non-native English speaker and has difficulty understanding video.
-{{< /ring >}}
 
 ### Steps to take
 

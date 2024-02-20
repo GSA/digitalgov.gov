@@ -19,11 +19,11 @@ Accessible front-end development ensures people with different abilities can acc
 
 ## Keyboard access
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you reach anything that’s interactive using the tab key?
 
 - Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
-{{< /ring >}}
+
 
 
 ### Steps to take
@@ -48,11 +48,11 @@ Can you reach anything that’s interactive using the tab key?
 
 ## Screen reader
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Can you use a screen reader to access the page content?
 
 - Devonte is blind and uses a screen reader to navigate the web.
-{{< /ring >}}
+
 
 ### Steps to take
 - Use a screen reader to make sure you can land on controls and that they’re announcing things as they should.
@@ -90,11 +90,11 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 
 ## Headings
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Are you using accurate headings on your page?
 
 - Lalit is blind and uses a screen reader to navigate the web. She hears an outline of the page's main ideas, then backtracks to read the parts she's most interested in.
-{{< /ring >}}
+
 
 
 ### Steps to take
@@ -125,11 +125,11 @@ While HTML5 allows you to reset headings to h1 on new section elements, some scr
 
 ## Page structure
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Are you using semantic elements and roles?
 
 - Carlos is low-sighted and navigates pages by jumping to the page section he wants to get to.
-{{< /ring >}}
+
 
 ### Steps to take
 - Use sectioning elements to create a broad outline of your page content; examples of these elements include `header`, `nav`, `main`, and `footer`. Use content sectioning elements like `section`, `article`, and `aside` to organize the document content into logical pieces.
@@ -150,13 +150,13 @@ Are you using semantic elements and roles?
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
 
 ## Images
-{{< ring title="Why it's important" >}}
+### Why it's important
 Do images have good alt text?
 
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 
 - Amanda is blind and has to read the alt text to understand the contents of the image. 
 - John is looking for information with a search engine and needs help being directed to the right content (descriptive alt text will improve search).
-{{< /ring >}}
+
 
 
 ### Steps to take
@@ -173,12 +173,12 @@ Do images have good alt text?
 
 ## Color and contrast
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Is there enough contrast between text and its background color?
 
 - Rohit has low vision and needs content to have enough contrast to read it. 
 - Esther is red-green colorblind and can’t make sense of information conveyed with color alone.
-{{< /ring >}}
+
 
 ### Steps to take
 - Use a [color contrast](http://webaim.org/resources/contrastchecker/) tool and test that the contrast between the text and background is greater than or equal to 4.5:1.
@@ -206,11 +206,11 @@ Is there enough contrast between text and its background color?
 
 ## Automated testing
 
-{{< ring title="Why it's important" >}}
+### Why it's important
 Did your accessibility testing tools provide accurate results?
 
 Including automated accessibility testing throughout the development process can help quickly catch [many accessibility errors](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/), but can’t guarantee that your site is accessible. Always combine automated testing with ongoing manual testing. Manual testing is the most reliable method to assess accessibility.
-{{< /ring >}}
+
 
 ### Steps to take
 
