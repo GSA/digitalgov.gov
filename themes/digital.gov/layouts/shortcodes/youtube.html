@@ -1,6 +1,17 @@
+{{/* 
+  Embeds a youtube player into the page
+  Use the share link on the youtube.com to get the id and start time
+
+  @param {string} id - the required youtube video id
+  @params {number} [time] - the optional start time in seconds for the video
+
+  @example
+  {{< youtube id="Hvo7WVKvPGU" time"101" >}}
+
+*/}}
+
 {{ $id := (.Get "id") }}
 {{ $time := (.Get "time") }}
-
 
 <div
   class="video"
