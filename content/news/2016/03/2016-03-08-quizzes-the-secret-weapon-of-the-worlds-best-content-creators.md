@@ -27,7 +27,6 @@ Not all quiz questions come answered straight out of the box. When using social 
 
 To learn more about quizzes, you can view the entire webinar.
 
-<!-- TODO:  video does not exist -->
 {{< youtube id="0q4ueTABYnQ" >}}
 
 _**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._

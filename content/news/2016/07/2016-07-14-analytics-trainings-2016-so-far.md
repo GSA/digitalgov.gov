@@ -17,7 +17,6 @@ Bookmark this page, but don’t forget about it! Here are some things we’ve co
 
 ## DAP Learning Series: Measuring User Behavior
 
-<!-- TODO: video does not exist -->
 {{< youtube id="H9RQf8a4DQE" >}}
 
 Find out how users are engaging with your site using the reports that we cover in this webinar. You can view the classic overview in the behavior flow report, but we recommend some more useful reports. The custom funnel reports that show the percentage of users completing intended journeys or where they’re dropping off. The navigation summary shows which pages users are clicking to and from.

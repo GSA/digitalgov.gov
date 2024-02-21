@@ -24,7 +24,6 @@ In this webinar, Mobile Gov developers from the National Institutes of Health an
 
 Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s, mobile web, mobile implementation in the federal government and the digital government strategy.
 
-<!-- TODO: This video does not exist anymore -->
 {{< youtube id="EurlOmfLcPA" >}}
 
 Three presentations:
