@@ -3,8 +3,8 @@
 source_url: https://blog-nrrd.doi.gov/onrr-content-audit/
 source: doi-revenuedata
 date: 2024-02-20 09:00:00 -0500
-title: Optimizing the federal digital experience: aligning content governance,
-  coordination, and database development
+title: "Optimizing the federal digital experience: aligning content governance,
+  coordination, and database development"
 deck: Discover the strides made in optimizing the federal digital experience on
   onrr.gov since its one year redesign by the ODDD team. Delves into the
   meticulous coordination with SMEs, creation of a comprehensive content
