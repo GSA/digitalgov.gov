@@ -124,7 +124,7 @@ Below we have added specific resources to each guideline.
 
 ### Non-Government Examples & Resources:
 
-- [Google Mobile Analytics](https://analyticsacademy.withgoogle.com/course04)
+- [Google Analytics for Mobile Apps](https://developers.google.com/analytics/solutions/mobile)
 - [Flurry Mobile Analytics](https://developer.yahoo.com/flurry/docs/analytics/)
 - [GovUK Analysis of Mobile User Habits](https://insidegovuk.blog.gov.uk/2015/06/26/improving-content-display-mobile/)
 - [Multi-armed Bandit Approach to Testing](http://stevehanov.ca/blog/index.php?id=132)
@@ -134,7 +134,7 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples & Resources:
 
-- [Mobile Technology Tiger Team](https://cio.gov/mobile-technology-tiger-team-sets-federal-mobile-applications-security-standards/)
+- [Federal Mobility Group](https://www.cio.gov/about/members-and-leadership/Federal-Mobility-Group/)
 - [Mobile Privacy Disclosures: Building Trust Through Transparency: A Federal Trade Commission Staff Report](https://www.ftc.gov/reports/mobile-privacy-disclosures-building-trust-through-transparency-federal-trade-commission), Feb 2013
 - [Mobile App Developers: Start with Security](https://www.ftc.gov/business-guidance/resources/app-developers-start-security), FTC
 
