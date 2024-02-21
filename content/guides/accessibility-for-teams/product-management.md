@@ -26,11 +26,10 @@ If you have project-specific questions, ask your agency’s accessibility team.
 ### Steps to take
 - Familiarize yourself with the high-level accessibility roles for each member of your team:
   - [Front end / development]({{< link "/guides/accessibility-for-teams/front-end-development" >}}): Ensure front-end code is written accessibly and conducts manual and automated testing.
-- Take an Accessibility 101 class to get a baseline knowledge of accessibility.
   - [Visual design]({{< link "/guides/accessibility-for-teams/visual-design" >}}): Ensure that designs are accessible, pages are laid out in a logical order, and content meets color contrast requirements.
   - [UX design]({{< link "/guides/accessibility-for-teams/ux-design" >}}): Ensure that overall experience is built and designed in an accessible fashion, conduct usability testing with people who need accessibility features.
 - Ensure your team members know where to find the accessibility guidelines for their role and follow them from the start of a project. The guides are located here: [front end]({{< link "/guides/accessibility-for-teams/front-end-development" >}}), [content design]({{< link "/guides/accessibility-for-teams/content-design" >}}), and [visual design]({{< link "/guides/accessibility-for-teams/visual-design" >}}).
-- Take an Accessibility 101 class, such as [Udacity’s Web Accessibility class](https://www.udacity.com/course/web-accessibility--ud891), to get a baseline knowledge of accessibility.
+- Take an Accessibility 101 class to get a baseline knowledge of accessibility.
 - Learn how to [navigate a webpage using only your keyboard]({{< link "/guides/accessibility-for-teams/visual-design/#keyboard-access" >}}) and [learn how to use VoiceOver]({{< link "/guides/accessibility-for-teams/visual-design" >}}) so you can spot check new features when necessary.
 
 ## Consider how everyone will use the product

@@ -17,7 +17,7 @@ layout: single
 
 If you have project-specific questions, ask your agency’s accessibility team.
 
-## Adopt an [inclusive design](http://inclusivedesignprinciples.org/) mentality.
+## Adopt an inclusive design mentality.
 
 - Celebrate accessibility requirements as a set of design constraints that help you create a better product for all users.
 - Gain a basic understanding of the main categories of disabilities, limitations, or constraints that affect how people use digital services –
@@ -32,6 +32,7 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - When conducting user research, make sure the diversity of your participants reflects the diverse abilities, circumstances, and backgrounds of your actual users.
 
 ### Resources
+- Inclusive design principles [inclusive design](http://inclusivedesignprinciples.org/)
 - [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/design/inclusive/)
 - [Microsoft’s Inclusive Design Toolkit (PDF, 22 MB, 32 pages)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 - [1.3 Adaptable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
@@ -80,8 +81,6 @@ Have you designed for logical focus behavior on interactive elements?
 
 - Jiang is blind and uses a screen reader to navigate the web – when a modal pops up and doesn’t receive focus he may not even know it’s there.
 
-
-
 ### Steps to take
 Work with your front end designer to identify any interactions on the page that require JavaScript or that can’t be created using default HTML elements. You should intentionally design how focus flows through these interactions.
 
@@ -96,8 +95,6 @@ Have you included navigation shortcuts for screen reader and keyboard users?
 
 - Rasheed is blind and uses a screen reader to navigate the web; he uses landmark elements to quickly navigate through sections of a webpage. 
 - Li’s vision is fine but has trouble using a mouse, so he navigates the web using only his keyboard – he hates having to tab through all the links in the header navigation to get to the main content of a page.
-
-
 
 ### Steps to take
 
@@ -120,7 +117,6 @@ Can all users understand and fill out forms?
 
 - Esther is beginning to show signs of dementia and has trouble with short term memory loss, she needs context clues and instructions to stay visible on the screen or she loses her place. 
 - Jerome uses a screen magnifier and when validation messages are shown off to the side he can easily miss them.
-
 
 ### Steps to take
 - Make sure all inputs have descriptive labels that remain visible even after a field has been filled in.
