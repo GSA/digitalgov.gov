@@ -27,6 +27,8 @@ function gulpWatch() {
 exports.copyUswdsJS = scripts.copyUswdsJS;
 exports.copyUswdsImages = styles.copyUswdsImages;
 exports.copyUswdsFonts = styles.copyUswdsFonts;
+exports.buildSprite = styles.buildSprite;
+
 exports.copyUswdsAssets = parallel(
   styles.copyUswdsImages,
   scripts.copyUswdsJS,
