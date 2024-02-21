@@ -121,6 +121,8 @@
   <meta property="og:site_name" content="Digital.gov" />
   {{ if $featImgURL -}}
     <meta property="og:image" content="{{- $featImgURL -}}" />
+    <meta property="og:image:alt" content=" " />
+    <meta property="og:locale" content="en_US" />
   {{- end }}
   {{ if $.Params.youtube_id }}
     <meta
