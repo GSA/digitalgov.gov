@@ -124,7 +124,7 @@ Below we have added specific resources to each guideline.
 
 ### Non-Government Examples & Resources:
 
-- [Google Analytics for Mobile Apps](https://developers.google.com/analytics/solutions/mobile)
+- [Google Analytics Academy - Mobile App Analytics Fundamentals (YouTube playlist, 14 videos)](https://www.youtube.com/watch?v=kXvA5CqGPbI&list=PLI5YfMzCfRtZCt8JgQWN-irBbYYAuJ_U9)
 - [Flurry Mobile Analytics](https://developer.yahoo.com/flurry/docs/analytics/)
 - [GovUK Analysis of Mobile User Habits](https://insidegovuk.blog.gov.uk/2015/06/26/improving-content-display-mobile/)
 - [Multi-armed Bandit Approach to Testing](http://stevehanov.ca/blog/index.php?id=132)
