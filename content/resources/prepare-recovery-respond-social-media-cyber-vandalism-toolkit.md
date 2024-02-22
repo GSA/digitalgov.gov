@@ -76,7 +76,7 @@ Pre-populate different types of messages for emails, texts, social media posts, 
 
 * An account is compromised
 * An administrator cannot access an account
-* A username or password for an account is compromised; 
+* A username or password for an account is compromised;
 * Information on the account is unauthorized.
 
 ### Review secure social media best practices checklist
@@ -117,7 +117,7 @@ This type of authentication (also referred to as “two-factor authentication”
 It’s crucial for staff who manage social media functions to be knowledgeable about cybersecurity best practices to safeguard their public agency accounts.
 
 * [CISA cybersecurity alerts and advisories](https://www.us-cert.gov/ncas)
-* [Defense Information School training on social media](https://pavilion.dinfos.edu/search-results/social-media/) 
+* [Defense Information School training on social media](https://pavilion.dinfos.edu/search-results/social-media/)
 * [DoD social media education and training](https://dodcio.defense.gov/Social-Media/SMEandT/)
 * [FTC consumer advice for scams](https://consumer.ftc.gov/scam-alerts)
 * [FTC consumer advice for online privacy and security](https://www.onguardonline.gov/)
@@ -140,7 +140,7 @@ Immediately alert your social media cyber-security stakeholder team, and copy th
 
 ### Audit your social media inventory
 
-First audit your list of social media accounts, password holders, agency hosted websites. Ensure no former employees, contractors, or interns have access to current passwords. 
+First audit your list of social media accounts, password holders, agency hosted websites. Ensure no former employees, contractors, or interns have access to current passwords.
 
 Then, review any third-party app you use to monitor or post to social media, plus other digital services, including websites, for signs of cyber-vandalism and any vulnerabilities.
 
