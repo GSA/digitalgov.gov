@@ -22,7 +22,7 @@ primary_image: 2024-uswds-monthly-call-feb-title-card
 
 {{< asset-static file="USWDS Monthly Call Feb 2024.pptx" label="View the slides (PowerPoint presentation, 5.8 MB, 81 pages)" >}}
 
-Join the U.S. Web Design System (USWDS) team to learn more about the complete lifecycle of a USWDS component.
+Join the U.S. Web Design System (uswds) team to learn more about the complete lifecycle of a USWDS component.
 
 In this session, you will learn:
 
