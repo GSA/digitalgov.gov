@@ -5,9 +5,8 @@ source_url: https://coe.gsa.gov/2020/10/08/cc-update-5.html
 source: coe
 title: Fifteen Plays of Our Contact Center Approach
 deck: ""
-summary: Follow these fifteen plays for contact centers to modernize and
-  optimize your contact centers. While not every play will apply to your agency,
-  these plays will get you started.
+summary: "Following relevant laws, policies, and guidance, the Contact Center Center of Excellence (CoE) developed a 15-play Playbook for federal agencies that are looking to modernize and optimize their contact centers. While not every play will apply to your agency, these plays will get you started."
+
 # See all topics at https://digital.gov/topics
 topics:
   - contact-centers
