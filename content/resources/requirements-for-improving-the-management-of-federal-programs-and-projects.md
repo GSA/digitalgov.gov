@@ -88,6 +88,8 @@ The first strategy leverages a coordinated approach and governance structure tha
 
 This approach requires management competencies and standards across various levels of the organization — from the Chief Operating Officer (COO) at the top, to the portfolios and programs in the middle, down to the projects at the bottom of the organization.
 
+{{< img src="pmiaa-figure-1-organizational-pyramid-management-competencies-standards" alt="Alt text: A blue pyramid chart with four levels. From top to bottom, they are chief operating officer (COO), and organization portfolios, programs, and projects. To the right, the COO level lists needed competencies and management skills, and the three org levels give examples of standards and best practices." caption="Figure 1. Organizational View of Management Competencies and Standards">}}
+
 ### Strategy 2. Regular engagement and reviews with OMB and agencies
 
 The second strategy holds managers accountable for results through annual program portfolio reviews. It calls for reviews to assess performance and identify opportunities for improvement as well as point out barriers to achieving program outcomes. They are to be conducted in coordination with the agency internal review processes supporting the analyses generated for the agency’s annual strategic review meeting with OMB.
