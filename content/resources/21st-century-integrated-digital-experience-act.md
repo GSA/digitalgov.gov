@@ -511,20 +511,19 @@ Within `30 days` of issuance (due October 22, 2023; submit overdue information a
 
 Within `90 days` of issuance (originally due December 23, 2023; deadline extended to January 19, 2024)
 
-**Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
+- **Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
 
-**Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
+- **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
 ### Action 3. Identify and assess top websites
 
 Within `180 days` of issuance (due March 20, 2024)
 
-**Purpose**: Each agency must identify its top websites using web traffic data. This list of top websites will determine relative public engagement across each agency’s websites and help inform how agencies and OMB prioritize digital experience improvements across the federal government.
+- **Purpose**: Each agency must identify its top websites using web traffic data. This list of top websites will determine relative public engagement across each agency’s websites and help inform how agencies and OMB prioritize digital experience improvements across the federal government.
 
-**Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collectvnext.max.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collectvnext.max.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
 
 Note that agencies must complete [action 2 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-2-identify-public-facing-websites) before action 3. 
-
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
