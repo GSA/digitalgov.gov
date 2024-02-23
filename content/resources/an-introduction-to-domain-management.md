@@ -34,7 +34,7 @@ It’s important to make sure that domains are chosen and maintained well. Your 
 
 Managing domains is also key for [security](https://digital.gov/topics/security/). People with malicious intent can register domain names that are similar to agency sites, and, as a result, can trick people into giving away their personal information, and more. For example, malicious actors have sought to [impersonate election organizations](https://get.gov/domains/election-offices/).
 
-When you use a `.gov` TLD, it increases security because the [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/) (CISA) manages the .gov top-level domain and authenticates the identity of each account. Read more about the [Benefit of .gov domains](https://get.gov/domains/benefits).
+When you use a `.gov` TLD, it increases security because the [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/) (CISA) manages the .gov top-level domain and authenticates the identity of each account. Read more about the [benefit of .gov domains](https://get.gov/domains/benefits).
 
 ## How to manage your domains well
 
