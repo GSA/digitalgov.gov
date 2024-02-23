@@ -32,9 +32,9 @@ Domain management and web hosting are often confused for one another. However, d
 
 It’s important to make sure that domains are chosen and maintained well. Your domain name is one of the first lines of trust when it comes to interacting with your agency. If people navigating the internet can match the name of your domain with the name of your agency in such a way that the user can understand that they have found the correct place, that’s one step in [establishing trust](https://digital.gov/topics/trust/).
 
-Managing domains is also key for [security](https://digital.gov/topics/security/). People with malicious intent can register domain names that are similar to agency sites, and, as a result, can trick people into giving away their personal information, and more. For example, malicious actors have sought to [impersonate election organizations](https://get.gov/about/elections/).
+Managing domains is also key for [security](https://digital.gov/topics/security/). People with malicious intent can register domain names that are similar to agency sites, and, as a result, can trick people into giving away their personal information, and more. For example, malicious actors have sought to [impersonate election organizations](https://get.gov/domains/election-offices/).
 
-When you use a `.gov` TLD, it increases security because the [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/) (CISA) enforces [multi-factor authentication](https://get.gov/2018/10/1/doing-the-2-step/) on all accounts in the [.gov registrar](https://www.get.gov/).
+When you use a `.gov` TLD, it increases security because the [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/) (CISA) manages the .gov top-level domain and authenticates the identity of each account. Read more about the [Benefit of .gov domains](https://get.gov/domains/benefits).
 
 ## How to manage your domains well
 
@@ -42,13 +42,13 @@ When you use a `.gov` TLD, it increases security because the [Cybersecurity and 
 
 **Measure** by using analytics tools to track how your domain names are performing in search engines and other online channels.
 
-**Protect** your domain and your users by keeping domain registrations up-to-date and your [Domain Name System](https://get.gov/help/#dns) (DNS) records accurate. You should also be monitoring your domain name to protect against similar but fraudulent domains. Encrypt all web traffic across your websites and “[preload](https://get.gov/help/security-best-practices/#preload-your-domain)” all registered .gov or .mil domains as HTTPS-only for modern web browsers. Additionally, [email authentication best practices](https://get.gov/help/security-best-practices/#use-dmarc) make it difficult for malicious actors to successfully "spoof" (impersonate) your domain in email.
+**Protect** your domain and your users by keeping domain registrations up-to-date and your [Domain Name System](https://get.gov/help/#dns) (DNS) records accurate. You should also be monitoring your domain name to protect against similar but fraudulent domains. Encrypt all web traffic across your websites and “[preload](https://get.gov/domains/security/#preload-your-domain)” all registered .gov or .mil domains as HTTPS-only for modern web browsers. Additionally, [email authentication best practices](https://get.gov/domains/security/#use-dmarc-to-prevent-email-impersonation) make it difficult for malicious actors to successfully "spoof" (impersonate) your domain in email.
 
 **Simplify** the user experience by maintaining as few domains and subdomains as possible. It can be tempting to add new domains for new projects, but keep in mind that more domains means more risk&mdash;and more to manage as your agency grows.
 
 ## What can I do next?
 
-Domain management is about more than just DNS. It’s also about ensuring a safe experience for your organization and your users. CISA provides several [domain security best practices](https://www.get.gov/help/security-best-practices/), including:
+Domain management is about more than just DNS. It’s also about ensuring a safe experience for your organization and your users. CISA provides several [domain security best practices](https://get.gov/domains/security/), including:
 
 * Add a security contact
 * Develop a vulnerability disclosure policy (VDP)
@@ -59,4 +59,4 @@ For example, having a security contact for .gov domains makes it easier for the 
 2. In the `Domain Name` column, type in your domain to filter the data and display the record for your domain.
 3. Scroll right to confirm if an email for a security contact is listed.
 
-Follow the instructions to [update or add a security contact](https://www.get.gov/help/security-best-practices/) if needed.
+Follow the instructions to [update or add a security contact](https://get.gov/domains/security/) if needed.
