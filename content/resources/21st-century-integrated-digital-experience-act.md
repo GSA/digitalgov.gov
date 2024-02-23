@@ -513,7 +513,7 @@ Within `90 days` of issuance (originally due December 23, 2023; deadline extende
 
 - **Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
 
-- **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
+- **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites (requires a Max.gov account)](https://collectvnext.max.gov/site/171/home-page). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
 ### Action 3. Identify and assess top websites
 
