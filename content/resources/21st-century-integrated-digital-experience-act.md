@@ -517,16 +517,22 @@ Within `90 days` of issuance (originally due December 23, 2023; deadline extende
 
 ### Action 3. Identify and assess top websites
 
-Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (due March 20, 2024)
+
+**Purpose**: Each agency must identify its top websites using web traffic data. This list of top websites will determine relative public engagement across each agency’s websites and help inform how agencies and OMB prioritize digital experience improvements across the federal government.
+
+**Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collectvnext.max.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
+
+Note that agencies must complete [action 2 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-2-identify-public-facing-websites) before action 3. 
+
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
-Within `180 days` of issuance; (due March 20, 2024; additional details and instructions are forthcoming)
-
+Within `180 days` of issuance; (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
 
 ### Action 5. Assess top tasks for self-service optimization
 
-Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
 
 ### Action 6. Inventory public services
 
