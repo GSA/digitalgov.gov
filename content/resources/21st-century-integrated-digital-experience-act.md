@@ -527,7 +527,7 @@ Note that agencies must complete [action 2 above](https://digital.gov/resources/
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
-Within `180 days` of issuance; (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
 
 ### Action 5. Assess top tasks for self-service optimization
 
