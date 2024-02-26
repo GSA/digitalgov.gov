@@ -32,7 +32,7 @@ jobs:
           root: .
   html-proofer:
     executor:
-      name: cibuilds/hugo
+      name: hugo/default
     steps:
       - attach_workspace:
           at: .
