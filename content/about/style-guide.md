@@ -245,27 +245,27 @@ The overarching name of the site is Digital.gov. You may see references to "Digi
 ## Logos
 
 {{< accordion title="Expand for digital.gov logo images" icon="edit" >}}
-{{< asset-img path="/img/digitalgov-logo.png" alt="" width="220" >}}
-{{< asset-img path="/img/digitalgov-logo.svg" alt="" width="220" >}}
-{{< asset-img path="/img/digitalgov-logo-small.png" alt="" width="100" >}}
-{{< asset-img path="/img/digitalgov-logo-small.svg" alt="" width="100" >}}
-{{< asset-img path="/img/digitalgov-logo-white.png" alt="" width="220" bg="dark" >}}
-{{< asset-img path="/img/digitalgov-logo-white.svg" alt="" width="220" bg="dark" >}}
-{{< asset-img path="/img/digitalgov-logo-small-white.png" alt="" width="100" bg="dark" >}}
-{{< asset-img path="/img/digitalgov-logo-small-white.svg" alt="" width="100" bg="dark" >}}
-{{< asset-img path="/img/digit-small-black.png" alt="" width="32" >}}
-{{< asset-img path="/img/digit-small-black.svg" alt="" width="32" >}}
-{{< asset-img path="/img/digit-small-white.png" alt="" width="32" bg="dark" >}}
-{{< asset-img path="/img/digit-small-white.svg" alt="" width="32" bg="dark" >}}
-{{< asset-img path="/img/digit-150.png" alt="" width="150"  >}}
-{{< asset-img path="/img/digit-100.png" alt="" width="100"  >}}
-{{< asset-img path="/img/digit-50.png" alt="" width="50"  >}}
-{{< asset-img path="/img/digit-25.png" alt="" width="25"  >}}
-{{< asset-img path="/img/digit-16.png" alt="" width="16"  >}}
-{{< asset-img path="/img/digit-light.png" alt="" width="100"  bg="dark" >}}
-{{< asset-img path="/img/digit-dark.png" alt="" width="100"  >}}
-{{< asset-img path="/img/digit-hi.png" alt="" width="100"  >}}
-{{< asset-img path="/img/digit-usa.png" alt="" width="100"  >}}
+{{< asset-img path="img/digitalgov-logo.png" alt="" width="220" >}}
+{{< asset-img path="img/digitalgov-logo.svg" alt="" width="220" >}}
+{{< asset-img path="img/digitalgov-logo-small.png" alt="" width="100" >}}
+{{< asset-img path="img/digitalgov-logo-small.svg" alt="" width="100" >}}
+{{< asset-img path="img/digitalgov-logo-white.png" alt="" width="220" bg="dark" >}}
+{{< asset-img path="img/digitalgov-logo-white.svg" alt="" width="220" bg="dark" >}}
+{{< asset-img path="img/digitalgov-logo-small-white.png" alt="" width="100" bg="dark" >}}
+{{< asset-img path="img/digitalgov-logo-small-white.svg" alt="" width="100" bg="dark" >}}
+{{< asset-img path="img/digit-small-black.png" alt="" width="32" >}}
+{{< asset-img path="img/digit-small-black.svg" alt="" width="32" >}}
+{{< asset-img path="img/digit-small-white.png" alt="" width="32" bg="dark" >}}
+{{< asset-img path="img/digit-small-white.svg" alt="" width="32" bg="dark" >}}
+{{< asset-img path="img/digit-150.png" alt="" width="150"  >}}
+{{< asset-img path="img/digit-100.png" alt="" width="100"  >}}
+{{< asset-img path="img/digit-50.png" alt="" width="50"  >}}
+{{< asset-img path="img/digit-25.png" alt="" width="25"  >}}
+{{< asset-img path="img/digit-16.png" alt="" width="16"  >}}
+{{< asset-img path="img/digit-light.png" alt="" width="100"  bg="dark" >}}
+{{< asset-img path="img/digit-dark.png" alt="" width="100"  >}}
+{{< asset-img path="img/digit-hi.png" alt="" width="100"  >}}
+{{< asset-img path="img/digit-usa.png" alt="" width="100"  >}}
 {{< /accordion >}}
 
 ### Branded names and initialisms or acronyms for related services and programs:
