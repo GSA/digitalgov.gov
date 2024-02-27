@@ -6,7 +6,7 @@ summary: 'Every year, one of our office’s biggest projects is to prepare the I
 authors:
   - leah-bannon
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
 ---
 

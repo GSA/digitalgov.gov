@@ -6,7 +6,7 @@ summary: "As you are planning your challenge, you will want to review the releva
 authors:
   - ktrebon
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - innovation
 
 ---

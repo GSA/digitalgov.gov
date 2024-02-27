@@ -7,10 +7,10 @@ authors:
   - jacqueline-snee
   - rflagg
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
+  - customer-experience
+  - customer-experience
 
 ---
 

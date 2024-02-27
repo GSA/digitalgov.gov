@@ -48,6 +48,7 @@ footer.usa-footer {
 
     .social-links {
       @include add-list-reset;
+      margin-top: units(1);
 
       li {
         i {

@@ -6,16 +6,11 @@ summary: Helping patients manage chronic pain has become an increasing challenge
 authors:
   - yasmine-kloth
 topics:
-  - content
-  - metrics
+  - content-strategy
+  - analytics
   - mobile
   - social-media
-  - video
-  - audio-video
-  - social-media
-  - social-media-metrics
-  - video
-  - video-production-pros-community
+  - multimedia
 ---
 
 Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing [opioid epidemic](https://www.hhs.gov/opioids/) in the United States.

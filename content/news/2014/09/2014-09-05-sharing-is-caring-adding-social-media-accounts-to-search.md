@@ -6,10 +6,9 @@ summary: 'Content is no longer limited to your .gov website. Social media accoun
 authors:
   - rachel-mundstock
 topics:
-  - content
+  - content-strategy
   - social-media
   - search
-  - social-media
 ---
 
 {{< legacy-img src="2014/05/featured-301-x-212-DigitalGov-Search-homepage-250x176.jpg" alt="featured 301 x 212 DigitalGov Search homepage" >}}Content is no longer limited to your .gov website. Social media accounts also contain a treasure trove of information relevant to your site’s visitors. Keeping that in mind, [DigitalGov Search]({{< ref "service_search.md" >}} "DigitalGov Search") has worked to [bring all your content, wherever it is, to your search results]({{< ref "2014-08-26-help-the-public-find-your-information-wherever-and-however-youve-published-it.md" >}} "Help the Public Find Your Information, Wherever and However You’ve Published It").

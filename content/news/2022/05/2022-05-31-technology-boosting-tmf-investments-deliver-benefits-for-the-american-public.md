@@ -13,7 +13,8 @@ topics:
   - innovation
   - security
   - user-experience
-  - strategy
+  - content-strategy
+  - open-data
   - acquisition
 
 # See all authors at https://digital.gov/authors

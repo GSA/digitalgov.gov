@@ -6,14 +6,7 @@ summary: 'In 2016, the Digital Analytics Program (DAP) team has ramped up our tr
 authors:
   - ilee
 topics:
-  - metrics
   - analytics
-  - dap
-  - digital-analytics-program
-  - google-analytics
-  - metrics
-
-
 ---
 
 In 2016, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we’re happy to provide the material. We’ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from 2016 so far.

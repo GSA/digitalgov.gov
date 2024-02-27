@@ -7,9 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - internet-of-things
-  - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 International telecommunications network operator, Ericsson, released their [Mobility Report](https://www.ericsson.com/mobility-report) around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile.

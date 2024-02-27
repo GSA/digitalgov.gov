@@ -6,9 +6,9 @@ summary: 'Spring is a beautiful time of year in Washington, D.C. The temperature
 authors:
   - andrew-weber
 topics:
-  - content
+  - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   
   
 ---

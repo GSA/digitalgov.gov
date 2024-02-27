@@ -14,8 +14,7 @@ end_date: 2019-10-17 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - product-management
-  - 21st-century-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -6,14 +6,10 @@ summary: 'Metadata, tagging, content modeling ... they’re not identical concep
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - content
-  - mobile
-  - content-models
   - content-strategy
-  - metadata
-  - mobile-ux-guideline-1
-  - open-and-structured-content-models
-
+  - open-data
+  - mobile
+  - search-engine-optimization
 ---
 
 Metadata, tagging, content modeling … they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed.

@@ -13,9 +13,10 @@ registration_url: https://www.eventbrite.com/e/digital-meets-culture-getting-you
 end_date: 2021-07-15 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - web-content-managers-forum
+  - content-strategy
   - customer-experience
   - user-centered-design
+  - human-centered-design
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

@@ -10,7 +10,7 @@ summary: Follow the Revised 508 Standards to ensure your information and communi
 topics:
   - accessibility
   - design
-  - content
+  - content-strategy
   - software-engineering
 
 # Controls how this page appears across the site

@@ -7,10 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - mobile
-  - native-app
-  - thursday-mobile-products
-  - united-states-department-of-energy
 ---
 
 {{< legacy-img src="2014/12/250-x-445-DOE-Energy-LanternLive-app-DC-Gas-Stations-on-Android-.jpg" alt="Department of Energy's LanternLive app displays DC Gas Stations on an Android phone" >}}Who to call? Where to meet? What to pack?

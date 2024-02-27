@@ -6,11 +6,8 @@ summary: ' When browsing the various APIs offered by the federal government, you
 authors:
   - bbrantley
 topics:
-  - api
-  - api
   - application-programming-interface
   - security
-  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/03/FDAgov-API-Key.jpg" alt="FDAgov-API-Key" >}}

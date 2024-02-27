@@ -7,12 +7,10 @@ authors:
   - sarah-brooks
   - mollie-ruskin
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - personas
-  - user-centered-design
+  - research
+  - human-centered-design
   - user-experience
 ---
 

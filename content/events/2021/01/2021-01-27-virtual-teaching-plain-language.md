@@ -15,8 +15,6 @@ end_date: 2021-02-10 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - plain-language-community-of-practice
-  - plain-writing-act-of-2010
 # See all authors at https://digital.gov/authors
 authors:
   - wendy-wagner-smith

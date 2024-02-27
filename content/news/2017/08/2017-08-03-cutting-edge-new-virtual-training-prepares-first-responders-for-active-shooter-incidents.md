@@ -7,20 +7,12 @@ authors:
   - department-of-homeland-security
 
 topics:
-  - strategy
-  - user-testing-and-research
-  - user-experience
-  - video
-  - audio-video
-  - augmented-reality
-  - Gamification
+  - content-strategy
   - research
-  - Security
-  - united-states-army
-  - video
-  - video-production-pros-community
-  - virtual-reality
-  - virtual-augmented-reality-community
+  - user-experience
+  - emerging-tech
+  - security
+  - multimedia
 
 ---
 

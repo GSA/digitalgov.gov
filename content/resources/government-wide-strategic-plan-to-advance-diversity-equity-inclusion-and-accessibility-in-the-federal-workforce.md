@@ -9,7 +9,7 @@ summary: Five foundational principles lay out key steps agencies can take to
   strengthen DEIA in their workforce policies, practices, and culture.
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

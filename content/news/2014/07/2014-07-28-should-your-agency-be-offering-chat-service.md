@@ -6,12 +6,10 @@ summary: Live Web chat is an important component of good customer service. Peopl
 authors:
   - tonya-beres
 topics:
-  - product-management
-  - aoi
+  - product-and-project-management
+  - user-experience
   - customer-experience
-  - customer-satisfaction
-  - Government Contact Center Council
-  - government-contact-centers
+  - contact-centers
 ---
 
 {{< legacy-img src="2014/07/250-x-200-Computer-mouse-connected-to-the-word-SOS-internet-concept-lcs813-iStock-Thinkstock-482767263.jpg" alt="Computer mouse connected to the word SOS" caption="" >}}

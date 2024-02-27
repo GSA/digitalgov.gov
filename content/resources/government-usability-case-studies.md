@@ -10,7 +10,6 @@ summary:
 topics:
   - user-experience
   - usability
-  - usability-case-study
 authors:
   - andreanocesigritz
 ---

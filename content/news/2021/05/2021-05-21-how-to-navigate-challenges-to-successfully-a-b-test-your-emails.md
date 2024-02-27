@@ -6,11 +6,10 @@ summary: "The article will go over some best practices of implementing A/B
   testing on your emails. "
 # See all topics at https://digital.gov/topics
 topics:
-  - a-b-testing
+  - research
   - customer-experience
   - design
   - usability
-  - user-research
 # See all authors at https://digital.gov/authors
 authors:
   - jenn-wingerberg

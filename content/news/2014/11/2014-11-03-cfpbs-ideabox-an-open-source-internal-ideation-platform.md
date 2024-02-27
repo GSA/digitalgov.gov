@@ -6,10 +6,7 @@ summary: "IdeaBox is an application that helps an organization collect ideas, or
 authors:
   - monte-desai
 topics:
-  - challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - innovation
 
 ---

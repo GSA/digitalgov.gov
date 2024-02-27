@@ -6,9 +6,8 @@ summary: They say that customer experience (CX) is the new marketing. People wil
 authors:
   - rflagg
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-service
   - user-experience
 ---
 

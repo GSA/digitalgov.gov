@@ -14,8 +14,6 @@ end_date: 2021-06-08 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - challenges-and-prize-competitions
-  - challenges
-  - challenge-gov
 
 # See all authors at https://digital.gov/authors
 authors:

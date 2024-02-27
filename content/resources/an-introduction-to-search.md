@@ -6,8 +6,7 @@ summary: Learn why search functionality is an important component of federal
   websites, and discover how to add a search function to your website.
 # See all topics at https://digital.gov/topics
 topics:
-  - seo
-  - 21st-century-idea
+  - digital-service-delivery
   - search-engine-optimization
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -80,4 +79,6 @@ Follow **search engine optimization (SEO)** best practices to help search engine
 * Create a robots.txt file.
 * Register your site with [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) and [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en).
 
-{{< note >}} All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency. {{< /note >}}
+---
+
+**Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

@@ -7,9 +7,6 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - mobile-apps
-  - mobile-gov
-  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2013/04/NASA\_BeAMartian\_App1.jpg" alt="NASA's Be a Martian App Screenshot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/04/NASA_BeAMartian_App1.jpg)Solar System fans, space shuttles are not the only way you can visit a planet!

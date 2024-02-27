@@ -9,10 +9,8 @@ source_url: https://www.DigitalDashboard.gov/
 contact: dotgovdashboard@gsa.gov
 # See all topics at https://digital.gov/topics
 topics:
-  - https
-  - product-management
+  - product-and-project-management
   - security
-  - dap
   - analytics
 # See all authors at https://digital.gov/authors
 authors:

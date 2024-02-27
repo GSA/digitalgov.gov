@@ -6,11 +6,11 @@ summary: 'Big news in the technology world as Microsoft unveiled HoloLens and Mi
 authors:
   - bbrantley
 topics:
-  - api
-  - augmented-reality
-  - mobile-apps
-  - virtual-augmented-reality-community
-  - wednesday-api-briefing
+  - application-programming-interface
+  - emerging-tech
+  - mobile
+  - multimedia
+
 ---
 
 Big news in the technology world as Microsoft unveiled <a href="http://www.microsoft.com/microsoft-hololens/en-us" target="_blank">HoloLens and Microsoft’s use of holographic computing in the upcoming Windows 10 release</a>. Holographic computing or augmented reality uses computer-generated images that are overlaid on real world videos. For example, a user can view a car through their smartphone. An app can project information such as make and model, fuel mileage, and other facts onto a real-time view of a particular car. The value of augmented reality apps is that the app can recognize a real world object and provide the user relevant information concerning the object.
@@ -23,7 +23,7 @@ As holographic computing becomes more easily accessible, federal government APIs
 
 ---
 
-_(**Note**: the mention of HoloLens, Google Glass, Microsoft, and Google were used for illustrative purposes and does not imply my endorsement of these products or the companies.)_
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs](https://www.digitalgov.gov/2013/04/30/apis-in-government/) are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:bill.brantley@wdc.usda.gov)._
 

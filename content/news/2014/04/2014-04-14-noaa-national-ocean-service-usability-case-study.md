@@ -7,12 +7,10 @@ authors:
   - troy-kitch
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - search
   - usability
-  - usability-case-study
-  - usability-testing
 ---
 
 <div>

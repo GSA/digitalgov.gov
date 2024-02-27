@@ -7,7 +7,7 @@ summary: "An overview of the presentation by Danielle Nagele of NOAA at the 2021
 topics:
   - customer-experience
   - plain-language
-  - user-research
+  - research
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

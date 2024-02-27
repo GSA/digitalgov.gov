@@ -7,18 +7,12 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - product-management
-  - "508"
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - dap
-  - digital-analytics-program
+  - product-and-project-management
+  - accessibility
+  - analytics
   - search
-  - FCPCCS
-  - open-opportunities-program
-  - section-508
-  - sites
+  - professional-development
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}}

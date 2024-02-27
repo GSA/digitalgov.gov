@@ -6,10 +6,8 @@ summary: 'After leading a complex effort to crowdsource ideas to solve a problem
 authors:
   - tlowden
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - challenge-gov
-  - crowdsourcing
 ---
 
 {{< legacy-img-right src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}

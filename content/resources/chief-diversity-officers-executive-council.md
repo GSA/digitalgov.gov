@@ -8,7 +8,7 @@ summary: "Principal interagency forum to implement and sustain a national strate
 
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 
 # Controls how this page appears across the site
 # 0 -- hidden

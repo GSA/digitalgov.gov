@@ -7,10 +7,11 @@ authors:
   - cm-lubinski
   - becky-sweger
 topics:
-  - code
+  - software-engineering
   - governance
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
+  - open-data
   - budgeting-and-performance
 ---
 

@@ -9,11 +9,11 @@ aliases:
 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - plain-language
   - social-media
   - communication
-  - writing
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -29,7 +29,7 @@ community_list:
     subscribe_email: "fcn-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Communicators Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 2,281
+    members: 2,342
     join_cop_button: "Communicators community members"
 
 # Controls how this page appears across the site

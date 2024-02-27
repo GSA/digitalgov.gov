@@ -6,11 +6,9 @@ summary: 'The Government Contact Center Council (G3C) has been working with Digi
 authors:
   - apiazza
 topics:
-  - product-management
-  - customer-service
-  - government-contact-center-council/
-  - government-contact-centers
-
+  - contact-centers
+  - customer-experience
+  - product-and-project-management
 ---
 
 The [Government Contact Center Council (G3C)]({{< ref "/communities/government-contact-center-council" >}} "Government Contact Center Council - G3C"), led by GSA’s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government.
@@ -31,4 +29,4 @@ DigitalGov also has numerous resources and articles about managing contact cente
   * Article: [Improving Contact Center Performance: Contract Dos and Don’ts]({{< ref "2014-05-01-improving-contact-center-performance-with-contract-incentives-dos-and-donts.md" >}} "Improving Contact Center Performance with Contract Incentives: Dos and Don’ts")—an article about using your contact center contract to incentivize your contractor.
   * Article: [What Do People Think of Your Content? Ask the Contact Center]({{< ref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}} "What Do People Think of Your Content? Ask Your Contact Center!"), which summarizes how content managers can check in with the contact center. They hear about customers’ experiences—their needs, their satisfaction or dissatisfaction—and then YOU can act on it.
 
-You can also check out our feeds for all the [G3C posts]({{< ref "/topics/government-contact-center-council" >}}) and [Government Contact Center posts]({{< ref "/topics/government-contact-centers" >}}).
+You can also check out our feeds for all the [G3C posts]({{< ref "/topics/contact-centers" >}}) and [Government Contact Center posts]({{< ref "/topics/contact-centers" >}}).

@@ -7,13 +7,8 @@ authors:
   - awichman
 topics:
   - mobile
-  - customer-service
-  - GPS
-  - mobile
-  - mobile-apps
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - customer-experience
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/01/600-x-235-Mobile-target-ahmetemre-iStock-Thinkstock-504029513.jpg" alt="Mobile target" caption="" >}} 

@@ -6,10 +6,9 @@ summary: 'During National Customer Service Week, it&#8217;s a great time for org
 authors:
   - matthew-ford
 topics:
-  - strategy
-  - customer-service
+  - content-strategy
   - customer-experience
-  - IT Schedule 70
+  - acquisition
 ---
 
 During National Customer Service Week, it&#8217;s a great time for organizations across industry and government to celebrate putting customers at the center of our work and to think about what we can do to improve our customers’ end-to-end experiences. When you think this big, it can be a little daunting, but the good news is that we&#8217;re doing a lot, and a simple shift in mindset can get us much further.

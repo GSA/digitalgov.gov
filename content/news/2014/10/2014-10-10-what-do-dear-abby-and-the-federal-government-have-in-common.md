@@ -7,8 +7,8 @@ authors:
   - jacqueline-snee
   - jessica-milcetich
 topics:
-  - content
-  - metrics
+  - content-strategy
+  - analytics
 ---
 
 {{< legacy-img src="2014/10/250-x-313-large-Dear-Abby-red-image.jpg" alt="250-x-313-large-Dear-Abby-red-image" >}}Lots of people ask us questions.

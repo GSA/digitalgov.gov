@@ -19,7 +19,7 @@ summary: "<strong>Government agencies are seeing their systems and staff stretch
 # see all topics at https://digital.gov/topics
 topics:
   - innovation
-  - dap
+  - analytics
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - trust
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

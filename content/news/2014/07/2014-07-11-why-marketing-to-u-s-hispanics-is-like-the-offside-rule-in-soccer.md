@@ -6,10 +6,8 @@ summary: 'Do you scratch your head trying to figure out the latest trends to rea
 authors:
   - alberto-navas
 topics:
-  - content
-  - GobiernoUSAgov
+  - content-strategy
   - multilingual
-  - multilingual-community
 ---
 
 Do you scratch your head trying to figure out the latest trends to reach out to Hispanics in the U.S.? If you answered yes, don&#8217;t worry, you&#8217;re not alone. The current Soccer World Cup is lending a great analogy to help you think through your strategy to your customers. {{< legacy-img src="2016/02/600-x-450-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="A World Cup soccer ball covered in various international flags." caption="" >}} 

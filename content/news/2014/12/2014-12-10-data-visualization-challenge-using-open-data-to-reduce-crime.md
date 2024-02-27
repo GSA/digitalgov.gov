@@ -7,7 +7,6 @@ authors:
   - nancy-merritt
   - katie-gresham
 topics:
-  - challenges
   - challenges-and-prize-competitions
   - data-visualization
   - open-data

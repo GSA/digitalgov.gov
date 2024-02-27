@@ -7,9 +7,8 @@ authors:
   - nick-sinai
   - corinna-zarek
 topics:
-  - challenges
-  - social-media
   - challenges-and-prize-competitions
+  - social-media
   - open-government
 ---
 

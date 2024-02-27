@@ -6,10 +6,8 @@ summary: "Have you ever wished you could get inside the mind of Google? To figur
 authors:
   - cliff-tyllick
 topics:
-  - content
-  - strategy
+  - content-strategy
   - search-engine-optimization
-
 ---
 
 Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? {{< legacy-img src="2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" caption="VMasterArt, iStock, Thinkstock" >}}

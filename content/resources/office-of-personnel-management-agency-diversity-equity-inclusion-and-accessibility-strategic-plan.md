@@ -11,7 +11,7 @@ summary: OPM’s DEIA Strategic Plan identifies goals accompanied by actionable
   strategies that will advance our human capital priorities.
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 slug: office-of-personnel-management-agency-diversity-equity-inclusion-and-accessibility-strategic-plan
 # Controls how this page appears across the site
 # 0 -- hidden

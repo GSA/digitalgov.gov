@@ -6,10 +6,9 @@ summary: 'If good content is essential to good user experience, as Tyrus Manuel 
 authors:
   - cynthia-baur
 topics:
-  - content
-  - writing
+  - content-strategy
+  - communication
   - plain-language
-  - plain-writing-act-of-2010
   - user-experience
 ---
 

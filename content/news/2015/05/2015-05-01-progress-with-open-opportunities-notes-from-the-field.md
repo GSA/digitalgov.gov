@@ -6,7 +6,7 @@ summary: 'As a task creator with an ambitious agenda and limited resources, I’
 authors:
   - dannielle-blumenthal
 topics:
-  - open-opportunities-program
+  - professional-development
 ---
 
 {{< legacy-img src="2015/04/600-x-450-Motivation-by-gensyn-Flickr-CC-BY-NC-ND-2.0.jpg" alt="A motivational note reads, Let's be Awesome! Signed, The voice in your head" caption="" >}} 

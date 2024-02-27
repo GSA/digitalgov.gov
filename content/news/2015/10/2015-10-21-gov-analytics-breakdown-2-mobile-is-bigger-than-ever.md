@@ -8,13 +8,10 @@ authors:
   - tlowden
 
 topics:
-  - metrics
-  - mobile
+  - open-data
   - analytics
-  - customer-experience
-  - dap
-  - digital-analytics-program
   - mobile
+  - customer-experience
   - user-experience
 
 ---

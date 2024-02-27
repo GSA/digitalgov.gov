@@ -6,7 +6,8 @@ summary: '39 participants. 17 agencies. 6 months. Earlier this year, the CIO Cou
 authors:
   - kdaniel
 topics:
-  - cloud
+  - cloud-and-infrastructure
+  - open-data
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 

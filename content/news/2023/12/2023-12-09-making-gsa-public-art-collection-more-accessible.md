@@ -7,7 +7,7 @@ summary: "GSA’s Fine Arts team recently leveraged modern product development p
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - code
+  - software-engineering
   - user-experience
 
 # See all authors at https://digital.gov/authors
@@ -160,6 +160,4 @@ _The GSA Service Delivery team delivers digital services focused on user needs. 
 
 ---
 
-### D﻿isclaimer
-
-_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

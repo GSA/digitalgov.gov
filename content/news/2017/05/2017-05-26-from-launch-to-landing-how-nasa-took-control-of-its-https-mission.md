@@ -6,9 +6,8 @@ summary: '18F Editor’s note: This is a guest post by Karim Said of NASA. Karim
 authors:
   - karim-said
 topics:
-  - product-management
-  - strategy
-  - https
+  - product-and-project-management
+  - content-strategy
   - security
 ---
 

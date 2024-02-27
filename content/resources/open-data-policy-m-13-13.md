@@ -9,7 +9,7 @@ aliases:
 
 topics:
   - innovation
-  - strategy
+  - content-strategy
 
 authors:
   - apiazza

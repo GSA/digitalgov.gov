@@ -19,7 +19,7 @@ summary:
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - architecture
+  - information-architecture
 slug: modernize-your-identity-management-process-through-ilm
 # Controls how this page appears across the site
 # 0 -- hidden

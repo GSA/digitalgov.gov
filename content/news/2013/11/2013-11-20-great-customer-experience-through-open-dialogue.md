@@ -6,10 +6,9 @@ summary: 'While we think about the audience, we don’t often map out the experi
 authors:
   - martha-dorris
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
   - customer-experience
-  - social-media
   - user-experience
 ---
 

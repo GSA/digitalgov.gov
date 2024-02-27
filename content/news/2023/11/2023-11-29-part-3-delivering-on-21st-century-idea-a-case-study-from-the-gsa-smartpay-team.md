@@ -9,8 +9,7 @@ topics:
   - content-strategy
   - customer-experience
   - digital-service-delivery
-  - product-management
-  - project-management
+  - product-and-project-management
   - plain-language
 
 # See all authors at https://digital.gov/authors

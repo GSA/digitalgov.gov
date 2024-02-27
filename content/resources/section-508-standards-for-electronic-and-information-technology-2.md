@@ -8,7 +8,6 @@ source_url: "https://www.access-board.gov/ict/"
 
 topics:
   - accessibility
-  - section-508
 
 authors:
   - apiazza

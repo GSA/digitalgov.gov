@@ -7,11 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
-  - mobile-ux-guideline-5
-  - native-app
-  - native-apps
-  - trends-on-tuesday
+  - emerging-tech
   - user-experience
 ---
 
@@ -21,7 +17,8 @@ David Morell, a software engineer with Google, posted an interesting [case study
 
 [Interstitials](https://en.wikipedia.org/wiki/Interstitial_webpage) take many forms on the Web—native app installation prompts, advertisements, survey opt-in requests (popular on some government sites), email sign-up forms, etc.—but the data Google released showed they can be a deal breaker for many users, driving them away from the site completely.
 
-{{< legacy-img src="2015/08/250-x-444-trends-on-tuesday-aug-5-2015-google-plus.jpg" alt="An ad for downloading the Google Plus app" >}}Morell said in the post about how Google+ was trying to drive more [native app]({{< ref "/topics/native-app" >}}) installs. “Based on these results, we decided to permanently retire the interstitial. We believe that the increase in users on our product makes this a net positive change, and we are sharing this with the hope that you will reconsider the use of promotional interstitials. Let’s remove friction and make the mobile Web more useful and usable!” he wrote.
+{{< legacy-img src="2015/08/250-x-444-trends-on-tuesday-aug-5-2015-google-plus.jpg" alt="An ad for downloading the Google Plus app" >}}Morell said in the post about how Google+ was trying to drive more [native app]({{< ref "/topics/mobile" >}}) installs. “Based on these results, we decided to permanently retire the interstitial. We believe that the increase in users on our product makes this a net positive change, and we are sharing this with the hope that you will reconsider the use of promotional interstitials. Let’s remove friction and make the mobile Web more useful and usable!” he wrote.
+
 
 He also acknowledged that “9% of the visits to our interstitial page resulted in the ‘Get App’ button being pressed. (Note that some percentage of these users already have the app installed or may never follow through with the app store download.)”
 

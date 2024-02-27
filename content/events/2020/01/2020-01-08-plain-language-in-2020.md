@@ -20,9 +20,8 @@ end_date: 2020-01-08 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - plain-language
-  - plain-language-community-of-practice
 
 # see all authors at https://digital.gov/authors
 authors:

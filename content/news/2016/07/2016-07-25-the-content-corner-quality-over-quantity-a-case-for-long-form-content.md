@@ -6,21 +6,14 @@ summary: 'Content can be categorized in many ways. While breaking down your webs
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - product-management
-  - mobile
-  - social-media
   - analytics
-  - content
-  - dap
-  - digital-analytics-program
+  - content-strategy
+  - product-and-project-management
   - mobile
   - social-media
-  - social-media-metrics
-  - the-content-corner
 ---
 
-****Content can be categorized in many ways. While breaking down your [website analytics]({{< ref "/topics/metrics" >}}), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
+****Content can be categorized in many ways. While breaking down your [website analytics]({{< ref "/topics/analytics" >}}), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
 
 Let&#8217;s first define the two terms:
 
@@ -30,7 +23,7 @@ These days, we could probably most agree that short-form content makes up the ma
 
 But, according to a [Pew Research study](http://www.journalism.org/2016/05/05/long-form-reading-shows-signs-of-life-in-our-mobile-news-world/), readers access long-form articles at nearly the same rate as short ones.
 
-&#8220;Rather surprising,&#8221; I thought when I read that—and it’s something to consider when developing your content strategy (ironically, this is one of my shortest [The Content Corner]({{< ref "/topics/content" >}}) pieces yet). I shouldn’t be surprised though, because it’s something that [Tyrus Manuel predicted]({{< ref "2016-01-11-the-content-corner-content-trends-for-2016.md" >}}) back in January would be a trend for 2016.
+&#8220;Rather surprising,&#8221; I thought when I read that—and it’s something to consider when developing your content strategy (ironically, this is one of my shortest [The Content Corner]({{< ref "/topics/content-strategy" >}}) pieces yet). I shouldn’t be surprised though, because it’s something that [Tyrus Manuel predicted]({{< ref "2016-01-11-the-content-corner-content-trends-for-2016.md" >}}) back in January would be a trend for 2016.
 
 > _&#8220;As we forge ahead into 2016, we should again commit ourselves to focus on creating content for our users and be sure it helps solve specific problems or helps to reinforce positive impressions of our agencies.&#8221;_
 

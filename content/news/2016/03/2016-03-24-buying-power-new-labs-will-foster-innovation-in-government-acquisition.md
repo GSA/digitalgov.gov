@@ -6,8 +6,6 @@ summary: The slow, tedious federal acquisition process has long been the butt of
 authors:
   - kelly-olson
 topics:
-  - challenges
-  - challenge-gov
   - challenges-and-prize-competitions
 ---
 

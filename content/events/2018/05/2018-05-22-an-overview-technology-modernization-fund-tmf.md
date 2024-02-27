@@ -19,9 +19,9 @@ end_date: 2018-05-22 13:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - emerging-tech
-  - product-management
-  - it-modernization-fund
-  - rpa
+  - product-and-project-management
+  - budgeting-and-performance
+  - robotic-process-automation
 
 # see all authors at https://digital.gov/authors
 authors: 

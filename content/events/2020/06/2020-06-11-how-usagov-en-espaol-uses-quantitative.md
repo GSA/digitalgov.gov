@@ -22,12 +22,8 @@ topics:
   - analytics
   - contact-centers
   - content-strategy
-  - dap
-  - metrics
   - multilingual
   - social-media
-  - strategy
-  - multilingual-community
 
 # see all authors at https://digital.gov/authors
 authors: 

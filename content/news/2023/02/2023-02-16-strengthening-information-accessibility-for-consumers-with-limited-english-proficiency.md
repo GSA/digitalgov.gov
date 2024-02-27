@@ -11,7 +11,7 @@ summary: We listened to feedback from people who use our materials in various la
 
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - multilingual
 slug: strengthening-information-accessibility-for-consumers-with-limited-english-proficiency
 

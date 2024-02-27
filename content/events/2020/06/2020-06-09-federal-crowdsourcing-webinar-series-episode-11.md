@@ -19,7 +19,7 @@ end_date: 2020-06-09 17:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
   - mobile
 
 # see all authors at https://digital.gov/authors

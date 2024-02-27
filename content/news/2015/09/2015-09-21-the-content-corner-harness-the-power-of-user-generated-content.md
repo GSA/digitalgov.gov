@@ -6,10 +6,8 @@ summary: 'As of 2015, Millennials spent 30% of their time consuming user-generat
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - social-media
-  - the-content-corner
-  - UGC
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Internet-Life-Wahyu-b-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}} 
@@ -60,4 +58,4 @@ Another clear difference (that NARA does a great job of pointing out) is the cha
 
 One final important consideration, [also pointed out by NARA](http://www.archives.gov/records-mgmt/bulletins/2011/2011-02.html), relates to retention policies and how UGC is treated as part of records keeping. As with all of these policies, consult with the appropriate department and staff member in your agency. Many of these policies will be applied the same for any Web content produced by staff, but a flexible policy that adapts to the speed of social media is critical.
 
-As consumers&#8217; desire for every online entity to be open and authentic has increased significantly, user-generated content has become a critical factor in facilitating this more &#8220;real&#8221; conversation. UGC is now a standard part of the conversation that you should and must be having with your audience, and it offers the potential for better content generation and help in feeding the beast itself. With proper planning and policies, you can leverage your individual users to benefit all._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+As consumers&#8217; desire for every online entity to be open and authentic has increased significantly, user-generated content has become a critical factor in facilitating this more &#8220;real&#8221; conversation. UGC is now a standard part of the conversation that you should and must be having with your audience, and it offers the potential for better content generation and help in feeding the beast itself. With proper planning and policies, you can leverage your individual users to benefit all._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

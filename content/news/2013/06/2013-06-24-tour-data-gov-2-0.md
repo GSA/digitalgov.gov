@@ -6,8 +6,7 @@ summary: ' As you know, last month Data.gov launched its new open-source Data.go
 authors:
   - sally-bourrie
 topics:
-  - code
-  - data-gov
+  - software-engineering
   - open-data
   - open-government
 ---

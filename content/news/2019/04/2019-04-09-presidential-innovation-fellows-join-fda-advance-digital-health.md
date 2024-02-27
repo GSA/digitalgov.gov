@@ -8,7 +8,7 @@ authors:
   - rana-saad
 
 categories:
-  - product-management
+  - product-and-project-management
 tag:
 featured_image:
   uid: pif-raab-goldel

@@ -5,8 +5,7 @@ title: 'National Contact Center&#8217;s Text Message Program'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division. The National Contact Center&#8217;s Text Message Program The'
 topics:
   - mobile
-  - government-contact-centers
-  - mobile-gov-experience
+  - contact-centers
 ---
 
 [{{< legacy-img src="2012/05/National-Contact-Center-texting-program.png" alt="Screen shot showing text messages from the National Contact Center." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/05/National-Contact-Center-texting-program.png)_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division._

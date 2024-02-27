@@ -9,7 +9,7 @@ summary: "Further Advancing Racial Equity and Support for Underserved Communitie
 
 # See all topics at https://digital.gov/topics
 topics:
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 slug: executive-order-14091-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government
 
 # Controls how this page appears across the site

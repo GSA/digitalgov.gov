@@ -7,10 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-app-development-program
-  - mobile-apps
-  - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2014/07/250-x-166-hands-holding-smartphone.jpg" alt="Hands holding a smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/250-x-166-hands-holding-smartphone.jpg)The rise of mobile device ownership is rapidly changing the way we, and our stakeholders, interact with organizations and information. From local weather to the status of our train, we look to our smartphones to not only provide the answers, but anticipate our questions. Forrester refers to this behavior as the **<a title="mobile moment" href="http://blogs.forrester.com/josh_bernoff/14-06-24-a_mobile_moments_infographic_to_celebrate_our_publication_day" target="_blank">mobile moment</a>**—a point in time and space when someone pulls out a mobile device to get what he or she wants immediately, in context. Here are five examples the infographic states are successfully providing information and services in a mobile moment:

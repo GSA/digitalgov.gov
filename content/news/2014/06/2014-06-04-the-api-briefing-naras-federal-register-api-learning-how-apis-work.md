@@ -6,11 +6,8 @@ summary: 'Application programming interfaces (APIs) can be confusing when people
 authors:
   - bbrantley
 topics:
-  - api
-  - code
-  - api
-  - code
-  - wednesday-api-briefing
+  - application-programming-interface
+  - software-engineering
 ---
 
 Application programming interfaces (APIs) can be confusing when people first hear of the concept. There are the many acronyms like REST (Representational State Transfer) and JSON (JavaScript Object Notation) that further obscure what APIs do. The idea behind APIs is quite simple: APIs are how computer programs share information between themselves.

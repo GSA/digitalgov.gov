@@ -8,11 +8,8 @@ authors:
 topics:
   - design
   - mobile
-  - user-testing-and-research
+  - research
   - user-experience
-  - mobile-gov-experience
-  - mobile-ux-guideline-5
-  - responsive-web-design
 ---
 
 _Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._

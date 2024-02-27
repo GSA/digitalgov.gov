@@ -6,7 +6,7 @@ summary: "Discover how to create and maintain a successful podcast at your feder
 # See all topics at https://digital.gov/topics
 topics:
   - communication
-  - audio-video
+  - multimedia
   - podcast
   - social-media
 # Controls how this page appears across the site

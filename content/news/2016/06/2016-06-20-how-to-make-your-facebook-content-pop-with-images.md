@@ -6,10 +6,6 @@ summary: 'Facebook is a highly visual medium. Studies show that Facebook posts f
 authors:
   - aids-gov
 topics:
-  - content
-  - social-media
-  - strategy
-  - content
   - content-strategy
   - social-media
 ---

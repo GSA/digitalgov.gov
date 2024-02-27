@@ -7,8 +7,6 @@ authors:
   - michael-niedzwiecki
 topics:
   - mobile
-  - thursday-mobile-products
-  - united-states-department-of-defense
 ---
 
 [{{< legacy-img src="2013/08/military-onesource1.jpg" alt="Members of the military and their families now have access to Military OneSource on the go with the new Department of Defense mobile website Military OneSource." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/military-onesource1.jpg)Members of the military and their families now have access to [Military OneSource](http://apps.usa.gov/military-onesource.shtml) on the go with the new [Department of Defense](http://www.defense.gov/) mobile website [Military OneSource](http://apps.usa.gov/military-onesource.shtml).

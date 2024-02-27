@@ -6,7 +6,7 @@ summary: "We are accepting proposals for the 2015 DigitalGov Citizen Services Su
 authors:
   - apiazza
 topics:
-  - agile
+  - software-engineering
 
 ---
 

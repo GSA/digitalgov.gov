@@ -7,9 +7,8 @@ authors:
   - jherman
   - meredith-stewart
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
-  - national-action-plan-on-open-government
   - open-government
 ---
 

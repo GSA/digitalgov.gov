@@ -11,7 +11,7 @@ aliases:
   - /resources/omb-m-17-06
   - /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
   - /resources/nara-guidance-on-managing-social-media-records/
-  
+
 date: 2019-11-01 15:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
@@ -29,11 +29,9 @@ topics:
   - analytics
   - multilingual
   - plain-language
-  - product-management
-  - dap
-  - digital-analytics-program
+  - product-and-project-management
 
-# see all authors at https://digital.gov/authors 
+# see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
 
@@ -485,6 +483,20 @@ OMB recommends that agencies prioritize developing digital options for existing 
 
 OMB’s policy guidance (M-23-22) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
 
+{{< box >}}
+**Unlock more resources: Access Max.gov collaboration space**
+
+Max.gov login required: [Collaboration space for M-23-22, Delivering a Digital-First Public Experience](https://community-dc.max.gov/pages/viewpage.action?spaceKey=OFCIO&title=M-23-22+Delivering+a+Digital-First+Public+Experience)
+
+Federal employees can visit Max.gov to discover more governmentwide resources available to implement the action items from M-23-22. The collaboration space includes:
+
+- Answers to frequently asked questions about the agency action items
+- Points of contact for the agency Digital Experience Leads
+- Dates and times of upcoming OMB office hours
+
+While this space is primarily for the agency Digital Experience Leads, it can be accessed by any federal employee.
+{{< /box >}}
+
 For questions on reporting actions, please email the Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
 
 ### Action 1. Identify digital experience delivery lead
@@ -499,22 +511,27 @@ Within `30 days` of issuance (due October 22, 2023; submit overdue information a
 
 Within `90 days` of issuance (originally due December 23, 2023; deadline extended to January 19, 2024)
 
-**Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
+- **Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
 
-**Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
+- **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites (requires a Max.gov account)](https://collectvnext.max.gov/site/171/home-page). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
 ### Action 3. Identify and assess top websites
 
-Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (due March 20, 2024)
+
+- **Purpose**: Each agency must identify its top websites using web traffic data. This list of top websites will determine relative public engagement across each agency’s websites and help inform how agencies and OMB prioritize digital experience improvements across the federal government.
+
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collectvnext.max.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
+
+Note that agencies must complete [action 2 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-2-identify-public-facing-websites) before action 3. 
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
-Within `180 days` of issuance; (due March 20, 2024; additional details and instructions are forthcoming)
-
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
 
 ### Action 5. Assess top tasks for self-service optimization
 
-Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
 
 ### Action 6. Inventory public services
 
@@ -540,7 +557,7 @@ Within `180 days` of the launch of the Federal Services Index (date to be determ
 
 ## Resources
 
-- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/21st-century-idea/)
+- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/digital-service-delivery/)
 - Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 - Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
 - Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)

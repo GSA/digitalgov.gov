@@ -9,11 +9,10 @@ featured_image:
 authors:
   - yolanda-arrington
 topics:
-  - code
+  - software-engineering
   - design
-  - user-testing-and-research
-  - 3d-printing
-  - united-states-department-of-defense
+  - research
+  - emerging-tech
 ---
 
 _This is part of an ongoing series highlighting the innovations and research happening at Walter Reed National Military Medical Center in Bethesda, Maryland._

@@ -12,7 +12,7 @@ summary: We’ve conducted several studies where we’ve noticed gaps in our
 topics:
   
   - usability
-  - content
+  - content-strategy
   - design
 slug: revisiting-who-uses-onrr-gov-refining-personas
 # Controls how this page appears across the site

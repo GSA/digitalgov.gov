@@ -7,8 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2014/01/smartphones.jpg" alt="smartphones" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/smartphones.jpg)A [recent article in Mobile Marketing Watch](http://www.mobilemarketingwatch.com/which-feature-will-1-billion-smartphones-offer-by-2016-37526/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) suggested location-based sensor fusion would be featured on a billion mobile devices in 2016. Last year [Mary Meeker said in 2013 that mobile](https://howtomobile.apps.gov/2013/06/04/trends-on-tuesday-mary-meekers-internet-trends-report/) would be wearable, sharable, drivable and flyable. We&#8217;ve gathered some other projections for the future functionality of mobile devices;

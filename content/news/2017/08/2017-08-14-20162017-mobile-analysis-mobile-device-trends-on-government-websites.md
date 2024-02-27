@@ -6,13 +6,8 @@ summary: 'Now that we have seen the top level shift from desktop to mobile, let 
 authors:
   - freddie-blicher
 topics:
-  - metrics
-  - mobile
   - analytics
-  - dap
-  - metrics
   - mobile
-
 ---
 
 >*We’d like to thank each agency and sub-agency for their partnership and participation in the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP). The data below represents a view from over 4,500+ executive branch websites and the analysis we conducted wouldn’t be possible without you.*

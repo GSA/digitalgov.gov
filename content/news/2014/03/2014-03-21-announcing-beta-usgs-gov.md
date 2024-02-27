@@ -6,7 +6,7 @@ summary: 'In 1994 when the U.S. Geological Survey (USGS) launched it’s first w
 authors:
   - scott-horvath
 topics:
-  - content
+  - content-strategy
   - mobile
 ---
 

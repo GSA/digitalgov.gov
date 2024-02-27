@@ -5,7 +5,7 @@ title: DigitalGov User Experience Resources
 summary: "DigitalGov&#8217;s user experience resources provide tools for federal employees on how to make products and services more user-friendly, save money via user research, and create successful experiences."
 topics:
   - user-experience
-  - user-research
+  - research
 authors:
   - andreanocesigritz
 aliases:

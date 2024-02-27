@@ -8,7 +8,8 @@ authors:
   - todd-park
   - beth-cobert
 topics:
-  - content
+  - content-strategy
+  - open-data
   - mobile
   - customer-experience
 ---

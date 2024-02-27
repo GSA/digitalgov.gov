@@ -8,16 +8,13 @@ authors:
   - lesia-dickson
 
 topics:
-  - product-management
+  - product-and-project-management
   - innovation
   - mobile
-  - strategy
-  - user-testing-and-research
-  - video
-  - audio-video
-  - broadband
-  - user-research
-  - wireless
+  - content-strategy
+  - open-data
+  - research
+  - multimedia
 
 ---
 

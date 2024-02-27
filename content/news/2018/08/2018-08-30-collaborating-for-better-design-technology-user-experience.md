@@ -7,11 +7,12 @@ authors:
   - john-sullivan
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - accessibility
   - innovation
   - usability
   - user-centered-design
+  - human-centered-design
   - user-experience
   
 featured_image:

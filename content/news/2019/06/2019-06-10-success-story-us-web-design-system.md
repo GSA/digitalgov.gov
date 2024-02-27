@@ -17,7 +17,7 @@ source: codegov
 
 # see all topics at https://digital.gov/topics
 topics:
-  - code
+  - software-engineering
   - design
   - user-experience
   - open-source

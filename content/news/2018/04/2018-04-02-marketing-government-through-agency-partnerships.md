@@ -6,18 +6,12 @@ summary: 'The Outreach and Marketing team from USAGov helps agencies amplify the
 authors:
   - claire-loxsom
 topics:
-  - content
-  - design
-  - metrics
   - social-media
-  - strategy
-  - writing
-  - accessibility
+  - content-strategy
   - accessibility
   - analytics
-  - content
   - design
-  - marketing
+  - communication
   - multilingual
   - user-experience
 featured_image:

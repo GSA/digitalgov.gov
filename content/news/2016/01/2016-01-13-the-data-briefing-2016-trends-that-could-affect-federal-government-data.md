@@ -6,8 +6,7 @@ summary: 'Many IT pundits predict 2016 will be a major tipping point in data and
 authors:
   - bbrantley
 topics:
-  - internet-of-things
-  - the-data-briefing
+  - emerging-tech
 ---
 
 Many IT pundits predict 2016 will be a major tipping point in data and related technologies. Here are just a few predictions:
@@ -42,10 +41,14 @@ The federal government is also a major producer of data. As I wrote about in pre
 
 It will be interesting to see how the federal government deals with the rise of blockchain technologies and DACs. Additionally, as machine learning helps to create more intelligent personal digital assistants (like the next generation of Google’s Siri and Microsoft’s Cortana), we may have situations where federal government intelligent personal digital assistants interact with citizens&#8217; intelligent personal digital assistants. How will this affect the delivery of federal government products and services in the future?
 
-It is virtually impossible to predict precise future events. However, it is possible (and probably more useful) to devise scenarios about the future. As the five trends above demonstrate, there is great potential in current data technologies to change the federal government and the American Society._(Google’s Siri and Microsoft’s Cortana are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any federal government agencies.)_
+It is virtually impossible to predict precise future events. However, it is possible (and probably more useful) to devise scenarios about the future. As the five trends above demonstrate, there is great potential in current data technologies to change the federal government and the American Society.
+
+---
+
+**Disclaimer**: The mention of Google’s Siri and Microsoft’s Cortana are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any federal government agencies.
+
 _Each week, The Data Briefing showcases the latest federal data news and trends._
+
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
-
-
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter]({{< ref "/about/subscribe.md" >}})!

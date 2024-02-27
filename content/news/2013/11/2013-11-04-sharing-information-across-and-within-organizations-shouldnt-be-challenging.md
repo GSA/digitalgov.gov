@@ -7,7 +7,7 @@ authors:
   - donna-canestraro
 topics:
   - governance
-  - product-management
+  - product-and-project-management
 ---
 
 <p style="text-align: left">

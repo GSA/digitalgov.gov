@@ -27,7 +27,7 @@ After gathering insights and defining opportunities, you’ll start to build pro
 
 After prototyping and testing, you’ll be ready to finalize your design, bring it to life, and share it out into the world. You’ll work with stakeholders to plan the logistics around the launch. You’ll also set goals and expectations for the launch.
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 The Delivery Guides are currently in development.
 {{< /note >}}
 
@@ -35,6 +35,6 @@ The Delivery Guides are currently in development.
 
 You’ll learn how your design solution is performing. You’ll get quantitative and qualitative feedback to learn if you’re meeting your goals and expectations. You’ll use this data to improve your design.
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 The Measurement Guides are currently in development.
 {{< /note >}}

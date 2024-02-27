@@ -11,11 +11,9 @@ date: 2021-09-01 14:00:00 -0500
 end_date: 2021-09-01 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - digital-analytics-program
   - analytics
-  - metrics
   - user-experience
-  - strategy
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - tlowden

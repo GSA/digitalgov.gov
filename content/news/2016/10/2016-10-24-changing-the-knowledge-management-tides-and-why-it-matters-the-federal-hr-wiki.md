@@ -8,13 +8,9 @@ authors:
   - matt-gieseke
   - kelley-smith
 topics:
-  - content
-  - product-management
-  - strategy
-  - content
   - content-strategy
+  - product-and-project-management
   - innovation
-  - knowledge management
 ---
 
 Imagine this – a go-to member of your organization just retired, a furlough is approaching, and now no one knows what to do. What communications need to go out?  Who is considered ‘excepted’?  Can the daycare center stay open?  **In the absence of mind-melds, how do you make expert knowledge easily accessible to newer team members?**  The Strategic Initiatives Group (SIG) at the National Institutes of Health’s (NIH) Office of Human Resources was confronted with the specific challenge of how to transfer complicated programs to new owners with no familiarity, so their team decided to build a tool to solve their specific problem and a host of others along the way.

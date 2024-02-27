@@ -6,8 +6,6 @@ summary: Next month, Challenge.gov turns five. A technical platform, a listing o
 authors:
   - kelly-olson
 topics:
-  - challenges
-  - challenge-gov
   - challenges-and-prize-competitions
 ---
 

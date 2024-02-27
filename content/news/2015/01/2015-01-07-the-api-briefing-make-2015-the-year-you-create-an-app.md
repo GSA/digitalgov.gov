@@ -6,16 +6,11 @@ summary: 'According to some experts, over 80% of Americans will make a least one
 authors:
   - bbrantley
 topics:
-  - api
-  - challenges
-  - apps-challenges
+  - application-programming-interface
   - challenges-and-prize-competitions
-  - data-gov
+  - open-data
   - innovation
   - mobile
-  - mobile-apps
-  - wednesday-api-briefing
-
 ---
 
 {{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="Kirillm/iStock/Thinkstock" >}} 

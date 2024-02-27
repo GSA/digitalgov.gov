@@ -7,8 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - mobile-apps
-  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/11/600-x-230-NASA-Earth-Now-Android-app.jpg" alt="4 screens from the Android version of NASA's Earth Now app" >}}

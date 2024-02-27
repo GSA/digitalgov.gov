@@ -6,9 +6,7 @@ summary: 'There are 11.7 million + reasons to be on Twitter&mdash;the approximat
 authors:
   - victoria-wales
 topics:
-  - social-media
   - multilingual
-  - multilingual-community
   - social-media
 ---
 

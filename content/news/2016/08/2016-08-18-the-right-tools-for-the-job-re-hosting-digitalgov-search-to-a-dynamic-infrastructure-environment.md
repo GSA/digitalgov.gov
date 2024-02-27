@@ -6,11 +6,10 @@ summary: 'This is the first post of a 5-part series. DigitalGov Search is a comm
 authors:
   - dmccleskey
 topics:
-  - product-management
-  - strategy
+  - content-strategy
   - cloud-and-infrastructure
+  - product-and-project-management
   - search
-  - infrastructure
 ---
 
 > _This is the first post of a 5-part series._

@@ -19,13 +19,13 @@
 }
 
 $communities-of-practice: (
-  "FCN": #c84281,
-  "ML": #d73a33,
-  "PL": #06648d,
-  "SM": #2672de,
-  "UX": #40807e,
-  "WAO": #775540,
-  "WCM": #4a50c4,
+  "FCN": color("magenta-50"),
+  "ML": color("red-50"),
+  "PL": color("blue-cool-60v"),
+  "SM": color("gold-40v"),
+  "UX": color("mint-cool-50"),
+  "WAO": color("orange-60"),
+  "WCM": color("indigo-60v"),
 );
 
 @each $community, $color in $communities-of-practice {
@@ -62,11 +62,10 @@ $communities-of-practice: (
 // Cards view
 // ==========================================================================
 .dg-featured-communities {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
   text-align: center;
 
   @include at-media("tablet") {
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
   }
 

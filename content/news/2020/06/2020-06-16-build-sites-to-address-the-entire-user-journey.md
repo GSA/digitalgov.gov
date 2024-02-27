@@ -11,11 +11,10 @@ summary: "This week, we’re exploring what it means to understand the user expe
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - 21st-century-idea
+  - digital-service-delivery
   - customer-experience
   - design
   - user-experience
-  - this-weeks-idea
 
 # see all authors at https://digital.gov/authors
 authors: 

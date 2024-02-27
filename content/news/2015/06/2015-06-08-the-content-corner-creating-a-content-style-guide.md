@@ -6,9 +6,7 @@ summary: One of the more commonly overlooked pieces of any effective content str
 authors:
   - tyrus-manuel
 topics:
-  - content
   - content-strategy
-  - the-content-corner
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 
@@ -57,4 +55,4 @@ Many organizations that have developed style guides still suffer problems of con
 
 It can also be helpful (and it always makes sense to me) to include a group of content editors or contributors into the style guide creation process. Are there questions that always come up? Do several of your editors have their own “unofficial” style guides that they created for themselves? This also helps create a guide that has a basis in the everyday reality and workflow of the people that you will expect to use it on a regular basis. Style guide by royal edict is normally not a good way to engender broad acceptance or use.
 
-A content style guide (or any style guide, for that matter) is always a must-have for me, and if I join an organization without one, I very quickly volunteer to take on a project to create one. Maybe I am a bit of a structure nut, but it creates a much more consistent and less confusing content creation process (not to mention less confusing content for the customer). It is normally a small amount of effort for a large return in time and quality, and it doesn’t have to be complicated. I have had style guides that were simple Word documents, and I have had a searchable Wiki, but the important thing is that it exists, is easily accessible, and is easy to follow—just like your content itself should be._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+A content style guide (or any style guide, for that matter) is always a must-have for me, and if I join an organization without one, I very quickly volunteer to take on a project to create one. Maybe I am a bit of a structure nut, but it creates a much more consistent and less confusing content creation process (not to mention less confusing content for the customer). It is normally a small amount of effort for a large return in time and quality, and it doesn’t have to be complicated. I have had style guides that were simple Word documents, and I have had a searchable Wiki, but the important thing is that it exists, is easily accessible, and is easy to follow—just like your content itself should be._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

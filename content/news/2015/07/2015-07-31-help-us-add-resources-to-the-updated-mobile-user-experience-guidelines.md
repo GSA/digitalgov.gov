@@ -8,16 +8,6 @@ authors:
 topics:
   - mobile
   - user-experience
-  - mobile
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-2
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
-  - mobile-ux-guideline-6
-  - mobile-gov
-  - native-apps
-  - responsive-web-design
   - security
 ---
 

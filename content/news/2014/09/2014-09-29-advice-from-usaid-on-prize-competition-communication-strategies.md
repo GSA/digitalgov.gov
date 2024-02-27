@@ -6,7 +6,6 @@ summary: 'A well-developed communications plan is critical to the success of a c
 authors:
   - ktrebon
 topics:
-  - challenges
   - challenges-and-prize-competitions
 ---
 

@@ -22,9 +22,7 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 topics:
-  - api
-  - api
-
+  - application-programming-interface
 ---
 
 This afternoon event is an opportunity for API practitioners from across federal agencies to come together, share news, and discuss topics of interest. Remote participants will be able to join in via Google Hangout. Anyone with a federal .gov or .mil address is welcome to attend.

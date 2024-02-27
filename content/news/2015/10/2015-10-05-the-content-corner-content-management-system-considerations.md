@@ -6,10 +6,8 @@ summary: 'These days you couldn’t be faulted for thinking your content managem
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - content-management-system
-  - mobile-ux-guideline-1
-  - the-content-corner
+  - content-strategy
+  - mobile
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 
@@ -61,6 +59,6 @@ I also tend to closely control options for image insertion, namely whether an im
 
 Again, the number of WYSIWYG options allowed is influenced by your workflow and content creation structure. If your authors regularly need to bold text or create ordered or unordered lists (important elements of <a href="{{< ref "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}" target="_blank">readable content</a>) then be sure to allow those options. If contributors are allowed and expected to add links (again a [fairly important aspect of the Web)]({{< ref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}}) then be sure to make that process as painless as possible. I am also a big fan of making it as easy as possible to link to existing site content. If that can be easily facilitated, I highly recommend making it available.
 
-Next time, I will share additional ways to help make whatever CMS you either implement or re-configure serve your content strategy and your content contributors as best as possible. But the first steps are to deeply understand your content, your contributors and their process, and how that can best be integrated into a content management system. Remember, the CMS should be made to fit your contributors needs and workflow—not the other way around._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Next time, I will share additional ways to help make whatever CMS you either implement or re-configure serve your content strategy and your content contributors as best as possible. But the first steps are to deeply understand your content, your contributors and their process, and how that can best be integrated into a content management system. Remember, the CMS should be made to fit your contributors needs and workflow—not the other way around._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Sign up for our <a href="https://public.govdelivery.com/accounts/USHOWTO/subscriber/new" target="_blank">daily or weekly DigitalGov newsletter</a> to receive more great content like this delivered to your inbox!

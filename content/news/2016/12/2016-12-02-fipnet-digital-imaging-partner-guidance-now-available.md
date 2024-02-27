@@ -6,11 +6,8 @@ summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now av
 authors:
   - federal-depository-library-program
 topics:
-  - content
-  - product-management
-  - strategy
-  - content
   - content-strategy
+  - product-and-project-management
 ---
 
 _[Guidance for Contributing Digital Content to FDsys](https://www.fdlp.gov/file-repository/outreach/events/depository-library-council-dlc-meetings/2016-meeting-proceedings/2016-dlc-meeting-and-fdl-conference/2813-guidance-for-contributing-digital-content-to-fdsys-govinfo) (govinfo) is now available on [FDLP.gov](https://www.fdlp.gov)._ 

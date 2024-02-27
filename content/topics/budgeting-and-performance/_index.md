@@ -9,6 +9,18 @@ title: "Budgeting and performance"
 
 summary: "In the United States federal context, 'budgeting' and 'performance' are linked by a performance framework that guides agencies in setting priorities and measuring progress towards them. Agencies need to develop strategic objectives and performance measures so that they can track progress and demonstrate effectiveness. Agencies should use performance data to inform budget decisions, ensuring resources are directed towards activities with the highest impact on achieving stated goals."
 
+aliases:
+  - /topics/data-act/
+  - /topics/digital-accountability-and-transparency-act/
+  - /topics/ecpic/
+  - /topics/federal-information-technology-acquisition-reform-act/
+  - /topics/fitara/
+  - /topics/green-it/
+  - /topics/it-modernization-fund/
+  - /topics/itmf/
+  - /topics/m3-framework/
+  - /topics/performance/
+
 # Weight
 weight: 2
 

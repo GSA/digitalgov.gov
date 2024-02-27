@@ -7,12 +7,9 @@ authors:
   - joel-virothaisakun
 topics:
   - design
-  - user-testing-and-research
-  - aoi
-  - top-tasks
-  - usability
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 Being able to design a website that users love is not too far away from being able to read their minds. While designers can’t read minds, that doesn’t stop them from using their website’s top tasks to make it seem like they can.

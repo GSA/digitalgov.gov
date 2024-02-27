@@ -7,11 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 Millennial Media released a new research report, [Connected Consumers: Gaining Insights Across Screens](http://www.millennialmedia.com/mobile-insights/industry-research/connected-consumers-gaining-insights-across-screens), examining U.S. digital audiences from January 2014 until January 2015 with some interesting information that reinforces trends [we’ve covered before]({{< ref "2015-06-09-trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report.md" >}}). If your users fall into these demographics, you need to [mobilize the content]({{< ref "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}}) they&#8217;re accessing on mobile devices.

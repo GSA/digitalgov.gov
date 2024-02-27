@@ -7,12 +7,11 @@ authors:
   - donna-dodson
 topics:
   - mobile
-  - strategy
-  - infrastructure
-  - internet-of-things
-  - IoT
-  - security
+  - content-strategy
   - best-practices
+  - cloud-and-infrastructure
+  - emerging-tech
+  - security
 ---
 
 I recently had the chance to talk with the legendary [Vint Cerf](https://research.google.com/pubs/author32412.html), one of the founding fathers of the internet. We had a wide-ranging discussion about the past, present and future of the internet, network security and what it would take to successfully, safely and reliably merge the digital and physical worlds, a concept known as the “Internet of Things,” or IoT.

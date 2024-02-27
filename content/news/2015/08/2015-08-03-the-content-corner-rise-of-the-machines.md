@@ -6,9 +6,8 @@ summary: In the span of two days, I received as many emails from respectable con
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - artificial-intelligence
-  - the-content-corner
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Robot-charles-taylor-iStock-Thinkstock-149070348.jpg" alt="Robot on a light keyboard" caption="" >}} 
@@ -49,4 +48,4 @@ When it comes down to the user, will they care if a machine created the resource
 
 In my next post we&#8217;ll explore the usages of NLG at our fellow agencies. Is your agency already using NLG—or do you see how it could? Share your thoughts in the comments section.
 
-* Oh, and in our example above, a [machine wrote the first summary](http://mediadecoder.blogs.nytimes.com/2009/10/19/the-robots-are-coming-oh-theyre-here/?_r=0), a [human wrote the second](http://www.bloomberg.com/bw/magazine/content/10_19/b4177037188386.htm), and in the interest of full disclosure, I didn’t guess correctly._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+* Oh, and in our example above, a [machine wrote the first summary](http://mediadecoder.blogs.nytimes.com/2009/10/19/the-robots-are-coming-oh-theyre-here/?_r=0), a [human wrote the second](http://www.bloomberg.com/bw/magazine/content/10_19/b4177037188386.htm), and in the interest of full disclosure, I didn’t guess correctly._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

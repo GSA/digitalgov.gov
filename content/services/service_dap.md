@@ -29,9 +29,6 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - metrics
-  - product-management
   - analytics
-  - dap
-  - digital-analytics-program
+  - product-and-project-management
 ---

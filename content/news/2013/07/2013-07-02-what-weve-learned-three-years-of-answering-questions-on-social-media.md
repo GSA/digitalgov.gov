@@ -7,8 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - social-media
-  - GobiernoUSAgov
-  - social-media
+  - multilingual
 ---
 
 [{{< legacy-img src="2013/07/social-media-button1-250x113.jpg" alt="Computer key that says social media in blue" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/social-media-button1.jpg)

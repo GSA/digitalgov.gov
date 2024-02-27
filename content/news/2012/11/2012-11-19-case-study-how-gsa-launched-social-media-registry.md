@@ -7,8 +7,8 @@ authors:
   - jed-sundwall
   - gray-brooks
 topics:
-  - code
-  - api
+  - software-engineering
+  - application-programming-interface
   - social-media
 ---
 

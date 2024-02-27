@@ -6,8 +6,7 @@ summary: ' Recently, a reader pointed out that some of the APIs I write about ar
 authors:
   - bbrantley
 topics:
-  - api
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591" >}}

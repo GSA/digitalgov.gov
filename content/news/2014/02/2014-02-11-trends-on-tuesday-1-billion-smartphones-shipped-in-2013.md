@@ -7,8 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/12/mobile-devices-testing-app-250x201.jpeg" alt="Many smartphones and tablets on a table displaying the same app." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/mobile-devices-testing-app.jpeg)Smartphone adoption continues to grow exponentially. [IDC recently reported](http://www.informationweek.com/mobile/mobile-business/1-billion-smartphones-shipped-in-2013/d/d-id/1113603?&_mc=sm_iwk_edit) smartphones accounted for 55.1% of worldwide mobile phone shipments last year.

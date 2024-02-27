@@ -9,7 +9,6 @@ deck: "Members of the Office of Natural Resources Revenue team recently complete
 summary: "Members of the Office of Natural Resources Revenue team recently completed the free, six-course Trusted Tester accessibility compliance training and certification from the Department of Homeland Security. Here's what they learned, and how they applied this new knowledge to the two websites they manage."
 # See all topics at https://digital.gov/topics
 topics:
-  - section-508
   - accessibility
 slug: advanced-section-508-compliance-testing-moving-beyond-automated-testing-and-screen-readers
 # Controls how this page appears across the site

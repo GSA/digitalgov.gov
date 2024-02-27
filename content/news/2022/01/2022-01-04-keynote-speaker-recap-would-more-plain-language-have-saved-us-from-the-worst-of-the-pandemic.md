@@ -7,8 +7,7 @@ summary: A summary of Cynthia Baur’s keynote at the 2021 Plain Language Summit
 topics:
   - plain-language
   - user-experience
-  - user-research
-  - writing
+  - research
   - communication
 
 # See all authors at https://digital.gov/authors

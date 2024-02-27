@@ -6,11 +6,10 @@ summary: 'During a recent DigitalGov University webinar, Jeremy Vanderlan, Techn
 authors:
   - jparcell
 topics:
-  - content
-  - mobile
   - analytics
-  - mobile-testing
-  - mobile-ux-guideline-4
+  - content-strategy
+  - mobile
+
 ---
 
 Every second counts, even those precious two or three seconds it takes your website to load. When it [comes to mobile]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}}), users won’t wait.

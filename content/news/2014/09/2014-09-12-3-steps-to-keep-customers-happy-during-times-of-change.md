@@ -6,7 +6,7 @@ summary: 'Just like the private sector, government agencies frequently encounter
 authors:
   - stephanie-thum
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
 ---
 

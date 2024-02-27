@@ -7,13 +7,8 @@ authors:
   - lgodfrey
   - lmartinez
 topics:
-  - content
-  - ANLE
-  - GobiernoUSAgov
-  - LEP
+  - content-strategy
   - multilingual
-  - multilingual-community
-  - united-states-census-bureau
 
 ---
 

@@ -10,7 +10,7 @@ summary: "A collaborative body designed to rapidly accelerate the adoption of Ro
 # see all topics at https://digital.gov/topics
 topics:
   - emerging-tech
-  - rpa
+  - robotic-process-automation
 
 # see all authors at https://digital.gov/authors
 authors:
