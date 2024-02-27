@@ -8,8 +8,8 @@ event_organizer: Digital.gov
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/webinar/register/WN_fS46iSeTSG6ww_VNpzUPeQ
 slug: spring-2024-community-summit
-date: 2024-03-13 09:00:00 -0500
-end_date: 2024-03-13 15:00:00 -0500
+date: 2024-03-13 10:00:00 -0500
+end_date: 2024-03-13 16:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 ---
