@@ -529,13 +529,19 @@ Note that agencies must complete [action 2 above](https://digital.gov/resources/
 
 Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
 
+- **Purpose**: Each agency must identify its top content and common questions based on web analytics and customer feedback. This information will help agencies identify opportunities for deduplication and search engine optimization (SEO). It will also inform inter- and intra-agency strategies.
+
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #4: Assess common questions and top content for deduplication and SEO (requires a Max.gov account)](https://collectvnext.max.gov/site/179/home-page). This tool can be accessed by any federal employee with a Max.gov account.
+
+Note that agencies must complete [action 3 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-3-identify-and-assess-top-websites) before completing action item 4.
+
 ### Action 5. Assess top tasks for self-service optimization
 
-Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming).
 
 ### Action 6. Inventory public services
 
-Within `180 days` of the launch of the Federal Services Index (date to be determined; additional details and instructions are forthcoming)
+Within `180 days` of the launch of the Federal Services Index (date to be determined; additional details and instructions are forthcoming).
 
 
 {{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, [view the full policy guidance as a web page](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/).*
