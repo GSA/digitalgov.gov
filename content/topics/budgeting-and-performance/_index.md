@@ -7,7 +7,7 @@ slug: "budgeting-and-performance"
 # Topic Title
 title: "Budgeting and performance"
 
-summary: "In the United States federal context, 'budgeting' and 'performance' are linked by a performance framework that guides agencies in setting priorities and measuring progress towards them. Agencies need to develop strategic objectives and performance measures so that they can track progress and demonstrate effectiveness. Agencies should use performance data to inform budget decisions, ensuring resources are directed towards activities with the highest impact on achieving stated goals."
+summary: "For federal agencies, budgeting and performance are linked by a framework that guides them in setting priorities and measuring progress. Agencies need to develop strategic objectives and performance measures so that they can track progress and demonstrate effectiveness. Performance data should be used by agencies to inform budget decisions, to ensire that resources are directed towards activities with the highest impact on achieving stated goals."
 
 aliases:
   - /topics/data-act/
