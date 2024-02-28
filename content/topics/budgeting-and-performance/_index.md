@@ -7,9 +7,7 @@ slug: "budgeting-and-performance"
 # Topic Title
 title: "Budgeting and performance"
 
-# description — keep it short and clear
-summary: "Budgeting aligns agency resources with agency goals to achieve desired
-  performance outcomes."
+summary: "For federal agencies, budgeting and performance are linked by a framework that guides them in setting priorities and measuring progress. Agencies need to develop strategic objectives and performance measures so that they can track progress and demonstrate effectiveness. Performance data should be used by agencies to inform budget decisions, to ensire that resources are directed towards activities with the highest impact on achieving stated goals."
 
 aliases:
   - /topics/data-act/
@@ -26,6 +24,17 @@ aliases:
 # Weight
 weight: 2
 
-# For more information on managing topics,
-# see https://github.com/GSA/digitalgov.gov/wiki
+# Set the legislation card title and link
+legislation:
+  title: "The President’s Management Agenda"
+  link: "https://www.performance.gov/pma/"
+
+# Featured resource to at the top of the page
+featured_resources:
+  resources:
+    - link: "/resources/cdc-clear-communication-index"
+
+# Featured community to display at the top of the page
+featured_communities:
+  - "web-managers-forum"
 ---
