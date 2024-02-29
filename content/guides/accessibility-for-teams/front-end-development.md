@@ -41,8 +41,7 @@ Can you reach anything that’s interactive using the tab key?
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
 
 **Video tutorial: How I do an accessibility check**
-{{< youtube cOmehxAU_4s >}}
-
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
 ## Screen reader
 
@@ -78,13 +77,9 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 
 **Video tutorial: Screen Reader Basics: VoiceOver**
-{{< youtube 5R-6WvAihms >}}
+{{< youtube id="5R-6WvAihms" title="Screen Reader Basics: VoiceOver" start_time="145" >}}
 **Video tutorial: How I do an accessibility check (screen reader)**
-<!-- 
-  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
-  orginal: https://youtu.be/cOmehxAU_4s?t=3m25s
- -->
-{{< youtube cOmehxAU_4s >}}
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility check (screen reader)" start_time="145" >}}
 
 ## Headings
 
@@ -108,15 +103,10 @@ While HTML5 allows you to reset headings to h1 on new section elements, some scr
 - [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
 
 **Video tutorial: Using headings**
-{{< youtube ZHWcs5d9IqA >}}
+{{< youtube id="ZHWcs5d9IqA" title="Using Headings" >}}
 
 **Video tutorial: How I do an accessibility check (page structure)**
-<!-- 
-  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
-  orginal: https://youtu.be/cOmehxAU_4s?t=6m21s
- -->
-{{< youtube cOmehxAU_4s >}}
-
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility check (screen reader)" start_time="381" >}}
 
 ## Page structure
 
@@ -138,12 +128,7 @@ Are you using semantic elements and roles?
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
 
 **Video tutorial: Landmarks**
-<!-- 
-  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
-  orginal: https://www.youtube.com/watch?time_continue=12&v=bww3IaktlRY
- -->
-{{< youtube bww3IaktlRY >}}
-
+{{< youtube id="bww3IaktlRY" title="Landmarks" start_time="12" >}}
 
 ## Images
 
@@ -193,15 +178,10 @@ Is there enough contrast between text and its background color?
 - [1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
 **Video tutorial: Meeting contrast requirements**
-{{< youtube gH1JieTZQ1k >}}
+{{< youtube id="gH1JieTZQ1k" title="Meeting Contrast Requirements" >}}
 
 **Video tutorial: How I do an accessibility check (contrast)**
-<!-- 
-  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
-  orginal: https://youtu.be/cOmehxAU_4s?t=8m36s
- -->
-{{< youtube cOmehxAU_4s >}}
-
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility checks" start_time="516" >}}
 
 ## Automated testing
 
@@ -223,8 +203,4 @@ Including automated accessibility testing throughout the development process can
 - [GOV.UK: What we found when we tested tools on the world’s least-accessible webpage](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/)
 
 **Video tutorial: How I do an accessibility check (tools and extensions)**
-<!-- 
-  TODO: need to refactor hugo shortcode to use timestamp in youtube urtl
-  orginal: https://youtu.be/cOmehxAU_4s?t=8m57
- -->
-{{< youtube cOmehxAU_4s >}}
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility checks" start_time="537" >}}

@@ -139,8 +139,7 @@ Do your images have descriptive alt text?
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
 **Text Alternatives**
-{{< youtube XCa6U1BllCY >}}
-
+{{< youtube id="XCa6U1BllCY" title="Text Alternatives" >}}
 
 ## Links
 

@@ -38,10 +38,9 @@ Everyone benefits from designs that are easier to see. People with different vis
 - [Guideline 1.4.3 – Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
 **Video tutorial: Meeting contrast requirements**
-{{< youtube gH1JieTZQ1k >}}
+{{< youtube id="gH1JieTZQ1k" title="Meeting Contrast Requirements" >}}
 **Video tutorial: How I do an accessibility check (contrast)**
-{{< youtube cOmehxAU_4s >}}
-
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
 ## Can you still understand everything the design is communicating without depending on color?
 
@@ -243,7 +242,7 @@ Make sure that no content gets focused offscreen or is hidden from view.
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
 
 **Video tutorial: How I do an accessibility check**
-{{< youtube cOmehxAU_4s >}}
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
 
 ## Screen reader
@@ -280,6 +279,6 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 
 **Video tutorial: Screen Reader Basics: VoiceOver**
-{{< youtube 5R-6WvAihms >}}
+{{< youtube id="5R-6WvAihms" title="Screen Reader Basics: VoiceOver" >}}
 **Video tutorial: How I do an accessibility check (screen reader)**
-{{< youtube cOmehxAU_4s >}}
+{{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
