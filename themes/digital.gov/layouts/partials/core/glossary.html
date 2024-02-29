@@ -1,4 +1,4 @@
-{{ if isset .Params "glossary" }}
+{{ if ne .Params.glossary nil }}
   <aside
     class="dg-glossary__container"
     aria-describedby="dg-glossary__result"
