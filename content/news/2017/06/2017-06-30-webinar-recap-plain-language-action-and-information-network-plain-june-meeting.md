@@ -110,7 +110,7 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
 
 <a href="https://www.youtube.com/watch?v=TGYhWjSmDvs&t=18m14s">Review just the Q&A section on YouTube</a>, or watch the full 50-minute webinar embedded below. If you have questions about plain language or the presentation, you can <a href="mailto:katherine.spivey@gsa.gov?subject=Plain%20Language%20June%202017%20meeting%20webinar">email Katherine Spivey</a>.
 
-{{< youtube TGYhWjSmDvs >}}
+{{< youtube id="TGYhWjSmDvs" title="Plain Language Spectrum: Every Step Counts!" >}}
 
 ---
 

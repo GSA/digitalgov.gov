@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - digital-service-delivery
   - trust
+  - diversity-equity-and-inclusion
 # See all authors at https://digital.gov/authors
 authors:
   - lashanda-hodge

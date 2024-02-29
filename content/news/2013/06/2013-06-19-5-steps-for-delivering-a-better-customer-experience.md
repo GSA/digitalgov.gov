@@ -9,7 +9,7 @@ topics:
   - product-and-project-management
   - user-experience
   - customer-experience
-  - top-tasks
+  - content-strategy
 ---
 
 <p>

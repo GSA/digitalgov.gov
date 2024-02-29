@@ -21,7 +21,7 @@ end_date: 2020-04-02 12:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - emerging-tech
-  - rpa
+  - robotic-process-automation
 
 # YouTube ID
 youtube_id: 
