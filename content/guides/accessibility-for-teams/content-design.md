@@ -6,6 +6,7 @@ summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
+summary_box: true
 topics:
   - accessibility
   - product-and-project-management
