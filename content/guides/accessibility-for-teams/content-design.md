@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31 09:00:00 -0500
+date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for content designers"
 deck: ""
 summary: ""
@@ -19,6 +19,7 @@ Accessible writing ensures your content is easier for everyone to read. As we bu
 
 - We recommend conducting accessibility testing throughout the design and development processes.
 - If you have project-specific questions, ask your agency’s accessibility team.
+
 
 ## Plain language
 
@@ -46,6 +47,7 @@ Include in-line definitions for scientific, legal, or technical terms that you m
   - [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
   - [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
 
+
 ## Reference materials
 
 ### Why it's important
@@ -64,6 +66,7 @@ Can you easily access supplementary information clarifying the content?
 ### Resources
 
 - [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
+
 
 ## Easy-to-parse graphic elements
 
@@ -87,6 +90,7 @@ Can you easily interpret content associated with graphic elements?
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
+
 
 ## Scannable content
 
@@ -130,11 +134,13 @@ Do your images have descriptive alt text?
 
 ### Resources
 
-{{< youtube XCa6U1BllCY >}}
-
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
+
+**Text Alternatives**
+{{< youtube XCa6U1BllCY >}}
+
 
 ## Links
 
@@ -154,6 +160,7 @@ Do all links have properly descriptive text?
 
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [2.4.4 Link Purpose (In Context)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
+
 
 ##  Information architecture
 
@@ -177,6 +184,7 @@ Is your site organized such that everyone can navigate it easily?
 
 
 ### Use VoiceOver screen reader on Mac
+
 - **Turn VoiceOver on**: command (⌘) + F5
 - **Go into web area**: control + alt + shift + down arrow (⬇)
 - **Navigate right**: control + alt + right arrow (➡️️)
