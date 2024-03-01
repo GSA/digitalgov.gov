@@ -39,6 +39,8 @@ end_date: 2024-03-13 16:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
+primary_image: "spring-2024-community-title-card"
+
 ---
 
 On March 13, 2024, the Digital.gov Spring Community Summit will bring together web and digital service practitioners to talk about the many facets of delivering a digital-first public experience. Federal Chief Information Officer, [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), will deliver the opening keynote.
