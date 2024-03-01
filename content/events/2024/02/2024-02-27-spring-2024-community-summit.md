@@ -82,7 +82,7 @@ Hear from a panel of experts on making the case for building a digital team with
 * **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases, NIH
 * **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue, DOI
 * **Robert Jolly** — Product Manager, 10x, GSA
-* **Vicki McFadden** — Product Manager, Digital Service Team, GSA
+* **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
 * **Gregory Your** — Director of Website Management, USAID
 
 ---
@@ -95,7 +95,7 @@ In this session, a panel of experts will share insights, methods, and strategies
 
 **Speakers**
 
-* **Kristen Lohman** — Design Strategist, Digital Service Team, GSA
+* **Kristen Lohman** — Design Strategist, Service Delivery Team, GSA
 * **Beth A. Martin** — Digital Services Expert (UX Designer), OPM
 * **Mark Meyer** — Software Developer, Digital Service Team, GSA
 * **Christopher Patten** — Human-Centered Designer, DHS
@@ -119,14 +119,14 @@ Join us for an engaging panel discussion on content strategy development, conten
 
 * **Joe Galbo** — Social Media Specialist, CPSC
 * **Sally Harris** — Managing Director, Digital Media and Creative Services, ED
-* **Ryan Johnson** — Content Designer, GSA
-* **Rosamund Lannin** — Content Designer, GSA
+* **Ryan Johnson** — Content Strategist, Service Delivery Team, GSA
+* **Rosamund Lannin** — Content Strategist, Service Delivery Team, GSA
 
 ---
 
 ### 1:00 pm - 1:50 pm, ET
 
-**Session 4, Crafting quality content**
+**Session 4, Navigating seamless acquisitions**
 
 In this panel discussion, you’ll learn the key factors that contribute to the successful acquisition of services in web and digital experience delivery. You’ll hear from a panel of experts on strategies behind building vs. acquiring services, user-centered procurement, and understanding the unique needs of projects.
 
@@ -135,14 +135,14 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 * **Anthony Burley** — IT Management, CSOSA
 * **Laura Larrimore** — Senior Digital Strategist, DOS
 * **Andrew Nielson** — Director of the Government-wide IT Accessibility Program, GSA
-* **Ashley Owens** — Senior Digital Acquisition Strategist, GSA
+* **Ashley Owens** — Senior Digital Acquisition Strategist, Service Delivery Team, GSA
 * **Justen Proctor** — Senior Contracting Officer, GSA
 
 ---
 
 ### 1:00 pm - 1:50 pm, ET
 
-**Session 5, Crafting quality content**
+**Session 5, We’ve launched, now what?**
 
 Don’t miss the opportunity to hear from a panel of experts on experiences in successful project close-outs. While it tends to be overlooked, the close-out phase of a project is critical to ensuring long-term success of operations and maintenance in digital services. You’ll learn best practices in conducting post-delivery assessments, data and metrics measurement, documenting lessons learned, and seamless product and service transition.
 
@@ -152,8 +152,7 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 * **Jacquelyn Dolezal-Morales** — Digital Communications Specialist, IAF
 * **Michael Horton** — Accessible Design & Development Advisor, GSA
 * **Gloria Huang** — Digital Engagement and Analytics Branch Chief, FEMA
-* **Jessica Marine** — Digital Experience (DX) lead, GSA
-
+* **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
 ---
 
 ### 1:00 pm - 1:50 pm, ET
