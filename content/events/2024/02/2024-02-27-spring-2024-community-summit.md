@@ -60,6 +60,7 @@ Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-lea
 ### 10:10 am - 11:00 am, ET
 
 **Session 1, Standing up a digital team**
+
 Hear from a panel of experts on making the case for building a digital team with strategies for success. You’ll learn what digital teams look like across the federal government, the skill sets successful digital teams possess, innovative hiring strategies, and much more.
 
 **Speakers**
@@ -75,6 +76,7 @@ Hear from a panel of experts on making the case for building a digital team with
 ### 11:10 am - 12:00 pm, ET
 
 **Session 2, Uncovering impactful solutions through user research and technical discovery**
+
 In this session, a panel of experts will share insights, methods, and strategies for leveraging user research to drive innovation in digital service delivery. You’ll learn the different types of user-centered research and design techniques, ways to identify technical and security risks, and best practices for inclusive and ethical research.
 
 **Speakers**
@@ -96,6 +98,7 @@ Break
 ### 1:00 pm - 1:50 pm, ET
 
 **Session 3, Crafting quality content**
+
 Join us for an engaging panel discussion on content strategy development, content creation and curation, and the role of content governance in digital service. You’ll gain insights on managing the content lifecycle, a public-first approach to creating content, and streamlining processes for effective content management.
 
 **Speakers**
@@ -110,6 +113,7 @@ Join us for an engaging panel discussion on content strategy development, conten
 ### 1:00 pm - 1:50 pm, ET
 
 **Session 4, Crafting quality content**
+
 In this panel discussion, you’ll learn the key factors that contribute to the successful acquisition of services in web and digital experience delivery. You’ll hear from a panel of experts on strategies behind building vs. acquiring services, user-centered procurement, and understanding the unique needs of projects.
 
 **Speakers**
@@ -125,6 +129,7 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 ### 1:00 pm - 1:50 pm, ET
 
 **Session 5, Crafting quality content**
+
 Don’t miss the opportunity to hear from a panel of experts on experiences in successful project close-outs. While it tends to be overlooked, the close-out phase of a project is critical to ensuring long-term success of operations and maintenance in digital services. You’ll learn best practices in conducting post-delivery assessments, data and metrics measurement, documenting lessons learned, and seamless product and service transition.
 
 **Speakers**
