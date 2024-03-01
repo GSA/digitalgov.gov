@@ -14,10 +14,24 @@ slug: spring-2024-community-summit
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery
-  - accessibility
   - acquisition
+  - design
+  - user-centered-design
+  - analytics
+  - user-experience
+  - accessibility
+  - multilingual
+  - best-practices
+  - communication
   - content-strategy
+  - plain-language
+  - customer-experience
   - product-and-project-management
+  - research
+  - trust
+  - social-media
+  - usability
+  - search-engine-optimization
 
 date: 2024-03-13 10:00:00 -0500
 end_date: 2024-03-13 16:00:00 -0500
@@ -27,7 +41,7 @@ event_platform: zoom
 
 ---
 
-On March 13, 2024, the Digital.gov Spring Community Summit will bring together web and digital service practitioners to talk about the many facets of delivering a digital-first public experience. [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, will deliver the opening keynote.
+On March 13, 2024, the Digital.gov Spring Community Summit will bring together web and digital service practitioners to talk about the many facets of delivering a digital-first public experience. Federal Chief Information Officer, [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), will deliver the opening keynote.
 
 Join us for a day of inspiration and collaboration as leading voices across 16 U.S. federal government agencies share stories of innovation and excellence in every phase of the digital project journey. Topics include:
 
@@ -65,11 +79,11 @@ Hear from a panel of experts on making the case for building a digital team with
 
 **Speakers**
 
-* **Tori Garten**—Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases, NIH
-* **Lindsay Goldstein**—Digital Services Specialist, Office of Natural Resources Revenue, DOI
-* **Robert Jolly**—Product Manager, 10x, GSA
-* **Vicki McFadden**—Product Manager, Digital Service Team, GSA
-* **Gregory Your**—Director of Website Management, USAID
+* **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases, NIH
+* **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue, DOI
+* **Robert Jolly** — Product Manager, 10x, GSA
+* **Vicki McFadden** — Product Manager, Digital Service Team, GSA
+* **Gregory Your** — Director of Website Management, USAID
 
 ---
 
@@ -81,11 +95,11 @@ In this session, a panel of experts will share insights, methods, and strategies
 
 **Speakers**
 
-* **Kristen Lohman**—Design Strategist, Digital Service Team, GSA
-* **Beth A. Martin**—Digital Services Expert (UX Designer), OPM
-* **Mark Meyer**—Software Developer, Digital Service Team, GSA
-* **Christopher Patten**—Human-Centered Designer, DHS
-* **Martha Wilkes**—Lead Accessibility Strategist, VA
+* **Kristen Lohman** — Design Strategist, Digital Service Team, GSA
+* **Beth A. Martin** — Digital Services Expert (UX Designer), OPM
+* **Mark Meyer** — Software Developer, Digital Service Team, GSA
+* **Christopher Patten** — Human-Centered Designer, DHS
+* **Martha Wilkes** — Lead Accessibility Strategist, VA
 
 ---
 
@@ -103,10 +117,10 @@ Join us for an engaging panel discussion on content strategy development, conten
 
 **Speakers**
 
-* **Joe Galbo**—Social Media Specialist, CPSC
-* **Sally Harris**—Managing Director, Digital Media and Creative Services, ED
-* **Ryan Johnson**—Content Designer, GSA
-* **Rosamund Lannin**—Content Designer, GSA
+* **Joe Galbo** — Social Media Specialist, CPSC
+* **Sally Harris** — Managing Director, Digital Media and Creative Services, ED
+* **Ryan Johnson** — Content Designer, GSA
+* **Rosamund Lannin** — Content Designer, GSA
 
 ---
 
@@ -118,11 +132,11 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 
 **Speakers**
 
-* **Anthony Burley**—IT Management, CSOSA
-* **Laura Larrimore**—Senior Digital Strategist, DOS
-* **Andrew Nielson**—Director of the Government-wide IT Accessibility Program, GSA
-* **Ashley Owens**—Senior Digital Acquisition Strategist, GSA
-* **Justen Proctor**—Senior Contracting Officer, GSA
+* **Anthony Burley** — IT Management, CSOSA
+* **Laura Larrimore** — Senior Digital Strategist, DOS
+* **Andrew Nielson** — Director of the Government-wide IT Accessibility Program, GSA
+* **Ashley Owens** — Senior Digital Acquisition Strategist, GSA
+* **Justen Proctor** — Senior Contracting Officer, GSA
 
 ---
 
@@ -134,16 +148,19 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 **Speakers**
 
-* **Jessica Berrellez**—Executive Officer for the Office of Digital Transformation, FDA
-* **Jacquelyn Dolezal-Morales**—Digital Communications Specialist, IAF
-* **Michael Horton**—Accessible Design & Development Advisor, GSA
-* **Gloria Huang**—Digital Engagement and Analytics Branch Chief, FEMA
-* **Jessica Marine**—Digital Experience (DX) lead, GSA
+* **Jessica Berrellez** — Executive Officer for the Office of Digital Transformation, FDA
+* **Jacquelyn Dolezal-Morales** — Digital Communications Specialist, IAF
+* **Michael Horton** — Accessible Design & Development Advisor, GSA
+* **Gloria Huang** — Digital Engagement and Analytics Branch Chief, FEMA
+* **Jessica Marine** — Digital Experience (DX) lead, GSA
+
 ---
 
 ### 1:00 pm - 1:50 pm, ET
 
 Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
+
+---
 
 ## Resources
 
