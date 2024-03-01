@@ -18,3 +18,8 @@ layout: single
 * An understanding of the human need behind accessibility practices
 
 We focus on the issues most likely to impact government sites. These guidelines do not provide a comprehensive list of all possible issues. Your team will need additional resources and work to conduct manual audits to conform to the standards of [Section 508](https://www.section508.gov/) (which aligns with the [W3C Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG20/quickref/)), a law that ensures all web content is accessible to anybody with a disability.
+
+## How to use this guide
+
+- We recommend conducting accessibility testing throughout the design and development processes.
+- If you have project-specific questions, ask your agency’s accessibility team.
