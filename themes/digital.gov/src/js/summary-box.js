@@ -10,7 +10,7 @@
 
   const guideSummaryList = guideSummary.querySelector(".usa-list");
   const pageHeaders = document.querySelectorAll(
-    "h2:not(.usa-summary-box__heading, .dg-guide__content-header-title)"
+    "h2:not(.usa-summary-box__heading, .dg-guide__content-header-title, .dg-glossary__header)"
   );
 
   function createSummaryBox() {
