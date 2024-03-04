@@ -14,24 +14,10 @@ slug: spring-2024-community-summit
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery
-  - acquisition
-  - design
-  - user-centered-design
-  - analytics
-  - user-experience
   - accessibility
-  - multilingual
-  - best-practices
-  - communication
+  - acquisition
   - content-strategy
-  - plain-language
-  - customer-experience
   - product-and-project-management
-  - research
-  - trust
-  - social-media
-  - usability
-  - search-engine-optimization
 
 date: 2024-03-13 10:00:00 -0500
 end_date: 2024-03-13 16:00:00 -0500
