@@ -18,16 +18,7 @@
             {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
               {{- if eq .Params.weight 2 -}}
                 <div class="grid-col-12 tablet:grid-col-4">
-                  <div class="topic">
-                    <h3>
-                      <a
-                        href="{{- .Permalink | absURL -}}"
-                        title="{{- .Title -}}"
-                      >
-                        {{- .Title -}} <span>&#8594;</span>
-                      </a>
-                    </h3>
-                  </div>
+                  {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title) }}
                 </div>
               {{- end -}}
             {{- end -}}
@@ -42,11 +33,11 @@
           <div class="grid-col-auto">
             {{- $topics_tax := $.Site.Taxonomies.topics -}}
             {{- $topics_count := len $topics_tax -}}
-            {{- $topics_col := (div $topics_count 3) -}}
+            <!-- {{- $topics_col := (div $topics_count 3) -}} -->
             <h2>All {{ $topics_count }} Topics</h2>
           </div>
         </div>
-        <ol class="topic-buttons__list">
+        <div class="topic-buttons__list">
           {{/* How we're dividing all the topics into 4 columns
             Set the counter to 0.
           */}}
@@ -60,17 +51,10 @@
               {{- $count := $.Scratch.Get "counter" -}}
 
               {{/* Output the topic HTML */}}
-              <li class="topic topic-buttons__list-item">
-                <p>
-                  <a href="{{- .Permalink -}}" title="{{- $name -}}">
-                    <span>{{- .Title -}}</span>
-                  </a>
-                  <span class="count">{{- $taxonomy.Count -}}</span>
-                </p>
-              </li>
+              {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title "tag_count" $taxonomy.Count) }}
             {{- end -}}
           {{- end -}}
-        </ol>
+        </div>
       </div>
     </section>
 
