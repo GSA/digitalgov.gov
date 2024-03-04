@@ -55,8 +55,9 @@ In this session you will hear from the following speakers:
 * **10:35 am - 11:15 am: Putting Plain Language to the Test**&mdash;Nicole Fenton, Senior Content Strategist
   - {{< asset-static file="pl-summit-2020-nicole-fenton.pdf" label="View the slides (PDF, 18.7 MB, 43 pages)" >}}
 * **11:15 am - 12:15 pm: Keynote**&mdash;Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
+title="The Average American Reader Needs You to Write (Even More) Clearly"
 
-{{< youtube EsJh0GuGYDA >}}
+{{< youtube id="EsJh0GuGYDA" title="Plain Language Summit 2020 - First Session" >}}
 
 #### Second Session (2:00 pm – 4:15 pm, ET)
 
@@ -69,7 +70,7 @@ In this session you will hear from the following speakers:
   - {{< asset-static file="pl-summit-2020-joseph-kimble.pdf" label="View the slides (PDF, 112 KB, 14 pages)" >}}
 
 
-{{< youtube -pP0JEJ3FHo >}}
+{{< youtube id="-pP0JEJ3FHo" title="Plain Language Summit 2020 - Second Session">}}
 
 ### Wednesday, October 28
 
@@ -84,7 +85,7 @@ In this session you will hear from the following speakers:
 * **11:00 am - 12:00 pm: Sense making lessons from the Private Sector**&mdash;Abby Covert, Information Architect & Author
   - {{< asset-static file="pl-summit-2020-abby-covert.pdf" label="View the slides (PDF, 11.2 MB, 53 pages)" >}}
 
-{{< youtube iXxy9b9NHRg >}}
+{{< youtube id="iXxy9b9NHRg" title="Plain Language Summit 2020 - Third Session" >}}
 
 #### Fourth Session (2:00 pm – 4:15 pm, ET)
 
@@ -94,7 +95,7 @@ In this session you will hear from the following speakers:
   - {{< asset-static file="pl-summit-2020-scott-kubie.pdf" label="View the slides (PDF, 9.26 MB, 23 pages)" >}}
 * **3:00 pm - 4:00 pm: Plain Language**&mdash;Katherine Spivey, GSA’s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)
 
-{{< youtube OllB0f5fNc0 >}}
+{{< youtube id="OllB0f5fNc0" title="Plain Language Summit 2020 - Fourth Session" >}}
 
 ---
 
