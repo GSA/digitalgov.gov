@@ -126,7 +126,7 @@ Join us for an engaging panel discussion on content strategy development, conten
 
 ---
 
-### 1:00 pm - 1:50 pm, ET
+### 2:00 pm - 2:50 pm, ET
 
 **Session 4, Navigating seamless acquisitions**
 
@@ -142,7 +142,7 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 
 ---
 
-### 1:00 pm - 1:50 pm, ET
+### 3:00 pm - 3:50 pm, ET
 
 **Session 5, We’ve launched, now what?**
 
@@ -155,9 +155,10 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 * **Michael Horton** — Accessible Design & Development Advisor, GSA
 * **Gloria Huang** — Digital Engagement and Analytics Branch Chief, FEMA
 * **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
+
 ---
 
-### 1:00 pm - 1:50 pm, ET
+### 3:50 pm - 4:00 pm, ET
 
 Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
 
