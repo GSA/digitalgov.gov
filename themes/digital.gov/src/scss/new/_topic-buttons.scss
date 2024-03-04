@@ -19,7 +19,7 @@
   .topic {
     @include u-margin-bottom("105");
 
-    h3 {
+    p {
       @include u-margin(0);
 
       a {
@@ -70,23 +70,38 @@
         }
       }
     }
-
-    p {
-      @include u-font("sans", "md");
-
-      a {
-        @include u-text("no-underline");
-      }
-
-      .count {
-        @include u-padding-x("05");
-        @include u-radius("pill");
-        @include u-bg("primary-lightest");
-        @include u-text("base-darker");
-        @include u-font("sans", "2xs");
-      }
-    }
   }
+}
+
+.topic__count {
+  display: flex;
+  list-style: none;
+  margin-bottom: 0.75rem;
+  padding-left: 0;
+
+  a {
+    background-color: transparent;
+
+    text-decoration: none;
+    text-underline-offset: 2px;
+  }
+
+  a:visited {
+    color: #5942d2;
+  }
+
+  @include at-media("tablet-lg") {
+    column-count: 3;
+  }
+}
+
+// this styles the numbers next to the button
+.topic-button__number {
+  @include u-padding-x("05");
+  @include u-radius("pill");
+  @include u-bg("primary-lightest");
+  @include u-text("base-darker");
+  @include u-font("sans", "2xs");
 }
 
 .topic-buttons__list {
@@ -95,12 +110,5 @@
 
   @include at-media("tablet-lg") {
     column-count: 3;
-  }
-}
-
-article {
-  .topics {
-    @include u-margin-top(7);
-    @include u-margin-bottom(2);
   }
 }
