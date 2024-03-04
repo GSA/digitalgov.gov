@@ -523,7 +523,7 @@ Within `180 days` of issuance (due March 20, 2024)
 
 - **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collectvnext.max.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
 
-Note that agencies must complete [action 2 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-2-identify-public-facing-websites) before action 3. 
+Note that agencies must complete [action 2 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-2-identify-public-facing-websites) before action 3.
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
