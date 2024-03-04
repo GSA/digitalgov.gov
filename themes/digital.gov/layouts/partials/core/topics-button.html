@@ -1,0 +1,28 @@
+<!-- from topics page with hover affect -->
+{{ $link := .link }}
+{{ $title := .title }}
+{{ $name := .name }}
+{{ $tag_count := .tag_count }}
+
+<!-- if tag count is set then add class for button styles -->
+<div {{ if eq $tag_count nil }} class="topic" {{ else }} class="topic__count"{{ end }}>
+  <p>
+    <a
+      href="{{- $link | absURL -}}"
+      title="{{- $title -}}"
+    >
+    {{- $title -}} 
+    {{ if eq $tag_count nil }}
+      <span>&#8594;</span>
+    {{ end }}
+    </a>
+    {{ if $tag_count }}
+    <span class="topic-button__number">{{- $tag_count -}}</span>
+    {{ end }}
+  </p>
+</div>
+
+
+
+
+    
