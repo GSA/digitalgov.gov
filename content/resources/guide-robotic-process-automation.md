@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: guide-to-robotic-process-automation
-date: 2020-11-03 14:000:00 -0500
+date: 2020-11-03 14:00:00 -0500
 title: "Guide to Robotic Process Automation"
 deck: "Automate repetitive business processes without writing code"
 summary: "Configure bots to execute repetitive tasks to save users from performing mundane tasks repeatedly for the same process."

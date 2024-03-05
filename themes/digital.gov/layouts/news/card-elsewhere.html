@@ -42,7 +42,7 @@
     */}}
     {{- if $source -}}
       {{- if $source.Params.logo -}}
-        {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
+        {{- $src := (printf "logos/%s%s" $source.Params.logo "-logo.png") -}}
         <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} logo" />
       {{- end -}}
 

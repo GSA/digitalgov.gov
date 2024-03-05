@@ -10,7 +10,6 @@ source: uswds
 
 # slug (url path) — changing this requires a redirect
 slug: uswds-maturity-model
-date: 2020-01-16 24:000:00 -0500
 title: "USWDS Maturity Model"
 deck: "How to adopt the design system incrementally and design and build better digital experiences."
 summary: "How to adopt the design system incrementally and design and build better digital experiences."
