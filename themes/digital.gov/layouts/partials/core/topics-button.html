@@ -2,24 +2,30 @@
 {{ $title := .title }}
 {{ $name := .name }}
 {{ $tag_count := .tag_count }}
+{{ $has_tag := false }}
 
+{{ if or (eq $tag_count nil) (eq $tag_count false) }}
+  {{ $has_tag = false }}
+{{ else }}
+  {{ $has_tag = true }}
+{{ end }}
 
 <div
-  {{ if eq $tag_count nil }}
-    class="topic"
+  {{ if not $has_tag }}
+    class="topics-button"
   {{ else }}
-    class="topic__count"
+    class="topics-button--count"
   {{ end }}
 >
   <p>
     <a href="{{- $link | absURL -}}" title="{{- $title -}}">
       {{- $title -}}
-      {{ if eq $tag_count nil }}
+      {{ if not $has_tag }}
         <span>&#8594;</span>
       {{ end }}
     </a>
-    {{ if $tag_count }}
-      <span class="topic-button__number">{{- $tag_count -}}</span>
+    {{ if $has_tag }}
+      <span class="topics-button__number">{{- $tag_count -}}</span>
     {{ end }}
   </p>
 </div>

@@ -1,0 +1,108 @@
+@use "uswds-core" as *;
+
+// .topic-button
+//   p
+//     a
+//       span
+//   __count
+//   __number
+//   __list
+
+// List of Topic buttons
+.topics-button {
+  @include u-margin-bottom("105");
+
+  p {
+    @include u-margin(0);
+
+    a {
+      @include u-overflow("auto");
+
+      transition: background-color 0.5s, color 0.5s;
+
+      white-space: nowrap;
+
+      @include u-padding-y(1);
+      @include u-padding-x(1);
+
+      @include at-media("tablet") {
+        @include u-padding-left(1);
+      }
+
+      @include u-font("sans", "sm");
+      @include u-text("medium");
+      @include u-text("no-underline");
+      @include u-bg("white");
+      @include u-text("primary-vivid");
+      @include u-border("1px", "primary-vivid", "solid");
+      @include u-radius("sm");
+      @include u-display("block");
+
+      span {
+        @include u-float("right");
+        margin-right: 10px;
+
+        transition: margin 0.4s;
+
+        @include u-text("gray-1");
+        @include u-display("none");
+
+        @include at-media("tablet-lg") {
+          @include u-display("block");
+        }
+      }
+
+      &:hover {
+        @include u-bg("primary-vivid");
+        @include u-text("gray-1");
+        @include u-border("1px", "primary-vivid", "solid");
+
+        span {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+
+  // variant for displaying capitalized topic link and tag count
+  &--count {
+    display: flex;
+    list-style: none;
+    margin-bottom: 0.75rem;
+    padding-left: 0;
+
+    a {
+      background-color: transparent;
+
+      text-decoration: none;
+      text-underline-offset: 2px;
+    }
+
+    a:visited {
+      color: #5942d2;
+    }
+
+    @include at-media("tablet-lg") {
+      column-count: 3;
+    }
+  }
+
+  // this styles the numbers next to the button
+  &__number {
+    @include u-padding-x("05");
+    @include u-radius("pill");
+    @include u-bg("primary-lightest");
+    @include u-text("base-darker");
+    @include u-font("sans", "2xs");
+  }
+}
+
+// creates a list 3 column for the topics-button links with tag count
+.topics-button-list {
+  list-style: none;
+  padding-left: 0;
+
+  @include at-media("tablet-lg") {
+    column-count: 3;
+  }
+}

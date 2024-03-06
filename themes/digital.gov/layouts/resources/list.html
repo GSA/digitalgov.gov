@@ -119,7 +119,7 @@
         </div>
       </section>
 
-      <section class="topic-buttons">
+      <section class="">
         <div class="grid-container grid-container-desktop">
           <div class="grid-row">
             <div class="grid-col-12">
@@ -132,15 +132,7 @@
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
                 {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
                   <div class="grid-col-12 tablet:grid-col-4">
-                    <div class="topic">
-                      <h3>
-                        <a
-                          href="{{- .Permalink | absURL -}}"
-                          title="{{- .Title -}}"
-                          >{{- .Title -}} <span>&#8594;</span></a
-                        >
-                      </h3>
-                    </div>
+                    {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title) }}
                   </div>
                 {{- end -}}
               {{- end -}}
