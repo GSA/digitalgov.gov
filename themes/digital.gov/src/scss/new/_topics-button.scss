@@ -1,13 +1,5 @@
 @use "uswds-core" as *;
 
-// .topic-button
-//   p
-//     a
-//       span
-//   __count
-//   __number
-//   __list
-
 // List of Topic buttons
 .topics-button {
   @include u-margin-bottom("105");
