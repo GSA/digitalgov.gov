@@ -81,7 +81,7 @@ Hear from a panel of experts on making the case for building a digital team with
 
 **Speakers**
 
-* **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases, NIH
+* **Jacquelyn Dolezal Morales** — Digital Communications Specialist, IAF
 * **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue, DOI
 * **Robert Jolly** — Product Manager, 10x, GSA
 * **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
@@ -150,8 +150,7 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 **Speakers**
 
-* **Jessica Berrellez** — Executive Officer for the Office of Digital Transformation, FDA
-* **Jacquelyn Dolezal-Morales** — Digital Communications Specialist, IAF
+* **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases, NIH
 * **Michael Horton** — Accessible Design & Development Advisor, GSA
 * **Gloria Huang** — Digital Engagement and Analytics Branch Chief, FEMA
 * **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
