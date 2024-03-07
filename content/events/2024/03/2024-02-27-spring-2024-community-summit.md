@@ -67,9 +67,9 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 ## Agenda
 
-{{< img-right src="250-eop-omb-executive-office-president-office-management-budget" >}}
-
 ### 10:00 am - 10:10 am, ET
+
+{{< img-right src="250-eop-omb-executive-office-president-office-management-budget" >}}
 
 Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, OMB
 
@@ -92,10 +92,10 @@ Hear from a panel of experts on making the case for building a digital team with
 
 <table style="width:100%; border:0px;">
 <tr>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-inter-american-foundation-iaf-seal.png" alt="Seal of the Inter-American Foundation, IAF." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-doi-svg-seal.png" alt="Seal of the Department of the Interior, DoI." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-usaid-united-states-agency-for-international-development-seal.png" alt="Seal for the United States Agency for International Development, USAID." width="250"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-inter-american-foundation-iaf-seal.png" alt="Seal of the Inter-American Foundation, IAF." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-doi-svg-seal.png" alt="Seal of the Department of the Interior, DoI." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-usaid-united-states-agency-for-international-development-seal.png" alt="Seal for the United States Agency for International Development, USAID." width="200"></td>
 </tr>
 </table>
 
@@ -117,10 +117,10 @@ In this session, a panel of experts will share insights, methods, and strategies
 
 <table style="width:100%; border:0px;">
 <tr>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-opm-svg-seal.png" alt="Seal of the Office of Personnel Management, OPM." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-dhs-svg-seal.png" alt="Seal of the Department of Homeland Security, DHS." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-va-veterans-affairs-svg-seal.png" alt="Seal of the Department of Veterans Affairs, VA." width="250"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-opm-svg-seal.png" alt="Seal of the Office of Personnel Management, OPM." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-dhs-svg-seal.png" alt="Seal of the Department of Homeland Security, DHS." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-va-veterans-affairs-svg-seal.png" alt="Seal of the Department of Veterans Affairs, VA." width="200"></td>
 </tr>
 </table>
 
@@ -147,9 +147,9 @@ Join us for an engaging panel discussion on content strategy development, conten
 
 <table style="width:100%; border:0px;">
 <tr>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-cpsc-consumer-product-safety-commission.png" alt="Seal of the Consumer Product Safety Commission, CPSC." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-education-svg-seal.png" alt="Seal of the U.S. Department of Education." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="250"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-cpsc-consumer-product-safety-commission.png" alt="Seal of the Consumer Product Safety Commission, CPSC." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-education-svg-seal.png" alt="Seal of the U.S. Department of Education." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="200"></td>
 </tr>
 </table>
 
@@ -171,9 +171,9 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 
 <table style="width:100%; border:0px;">
 <tr>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-court-services-and-offender-supervision-agency-dc-csosa.png" alt="Seal of the Court Services and Offender Supervision Agency of the District of Columbia, CSOSA." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-state-dept-seal.png" alt="Seal of the Department of State." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="250"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-court-services-and-offender-supervision-agency-dc-csosa.png" alt="Seal of the Court Services and Offender Supervision Agency of the District of Columbia, CSOSA." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-state-dept-seal.png" alt="Seal of the Department of State." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="200"></td>
 </tr>
 </table>
 
@@ -194,17 +194,17 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 <table style="width:100%; border:0px;">
 <tr>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-hhs-svg-seal.png" alt="Seal for the Department of Health and Human Services, HHS." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="250"></td>
-<td><img src="https://s3.amazonaws.com/digitalgov/250-fema-federal-emergency-management-agency-seal.png" alt="Seal of the Federal Emergency Management Agency, FEMA." width="250"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-hhs-svg-seal.png" alt="Seal for the Department of Health and Human Services, HHS." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="200"></td>
+<td><img src="https://s3.amazonaws.com/digitalgov/250-fema-federal-emergency-management-agency-seal.png" alt="Seal of the Federal Emergency Management Agency, FEMA." width="200"></td>
 </tr>
 </table>
 
 ---
 
-{{< img-right src="gsa-blue-logo-sq" >}}
-
 ### 3:50 pm - 4:00 pm, ET
+
+{{< img-right src="gsa-blue-logo-sq" >}}
 
 Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
 
