@@ -69,6 +69,8 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 ### 10:00 am - 10:10 am, ET
 
+{{< img-right src="250-eop-omb-executive-office-president-office-management-budget" >}}
+
 Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, OMB
 
 ---
@@ -87,6 +89,16 @@ Hear from a panel of experts on making the case for building a digital team with
 * **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
 * **Gregory Your** — Director of Website Management, USAID
 
+
+<table style="width:100%; border:0px;">
+<tr>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-inter-american-foundation-iaf-seal.png" alt="Seal of the Inter-American Foundation, IAF." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-doi-svg-seal.png" alt="Seal of the Department of the Interior, DoI." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-usaid-united-states-agency-for-international-development-seal.png" alt="Seal for the United States Agency for International Development, USAID." width="150"></td>
+</tr>
+</table>
+
 ---
 
 ### 11:10 am - 12:00 pm, ET
@@ -102,6 +114,15 @@ In this session, a panel of experts will share insights, methods, and strategies
 * **Mark Meyer** — Software Developer, Digital Service Team, GSA
 * **Christopher Patten** — Human-Centered Designer, DHS
 * **Martha Wilkes** — Lead Accessibility Strategist, VA
+
+<table style="width:100%; border:0px;">
+<tr>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-opm-svg-seal.png" alt="Seal of the Office of Personnel Management, OPM." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-dhs-svg-seal.png" alt="Seal of the Department of Homeland Security, DHS." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-va-veterans-affairs-svg-seal.png" alt="Seal of the Department of Veterans Affairs, VA." width="150"></td>
+</tr>
+</table>
 
 ---
 
@@ -124,6 +145,14 @@ Join us for an engaging panel discussion on content strategy development, conten
 * **Ryan Johnson** — Content Strategist, Service Delivery Team, GSA
 * **Rosamund Lannin** — Content Strategist, Service Delivery Team, GSA
 
+<table style="width:100%; border:0px;">
+<tr>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-cpsc-consumer-product-safety-commission.png" alt="Seal of the Consumer Product Safety Commission, CPSC." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-education-svg-seal.png" alt="Seal of the U.S. Department of Education." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
+</tr>
+</table>
+
 ---
 
 ### 2:00 pm - 2:50 pm, ET
@@ -140,6 +169,14 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 * **Ashley Owens** — Senior Digital Acquisition Strategist, Service Delivery Team, GSA
 * **Justen Proctor** — Senior Contracting Officer, GSA
 
+<table style="width:100%; border:0px;">
+<tr>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-court-services-and-offender-supervision-agency-dc-csosa.png" alt="Seal of the Court Services and Offender Supervision Agency of the District of Columbia, CSOSA." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-state-dept-seal.png" alt="Seal of the Department of State." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
+</tr>
+</table>
+
 ---
 
 ### 3:00 pm - 3:50 pm, ET
@@ -155,9 +192,19 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 * **Gloria Huang** — Digital Engagement and Analytics Branch Chief, FEMA
 * **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
 
+<table style="width:100%; border:none;">
+<tr>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/hhs-svg-seal.png" alt="Seal for the Department of Health and Human Services, HHS." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-fema-federal-emergency-management-agency-seal.png" alt="Seal of the Federal Emergency Management Agency, FEMA." width="150"></td>
+</tr>
+</table>
+
 ---
 
 ### 3:50 pm - 4:00 pm, ET
+
+{{< img-right src="gsa-blue-logo-sq" >}}
 
 Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
 
