@@ -87,6 +87,16 @@ Hear from a panel of experts on making the case for building a digital team with
 * **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
 * **Gregory Your** — Director of Website Management, USAID
 
+
+<table style="width:100%; border:0px;">
+<tr>
+<td style="width:25%;">{{< img src="250-inter-american-foundation-iaf-seal" >}}</td>
+<td style="width:25%;">{{< img src="250-doi-svg-seal" >}}</td>
+<td style="width:25%;">{{< img src="250-gsa-blue-logo-sq" >}}</td>
+<td style="width:25%;">{{< img src="250-usaid-united-states-agency-for-international-development-seal" >}}</td>
+</tr>
+</table>
+
 ---
 
 ### 11:10 am - 12:00 pm, ET
@@ -102,6 +112,15 @@ In this session, a panel of experts will share insights, methods, and strategies
 * **Mark Meyer** — Software Developer, Digital Service Team, GSA
 * **Christopher Patten** — Human-Centered Designer, DHS
 * **Martha Wilkes** — Lead Accessibility Strategist, VA
+
+<table style="width:100%; border:0px;">
+<tr>
+<td style="width:25%;">{{< img src="250-gsa-blue-logo-sq" >}}</td>
+<td style="width:25%;">{{< img src="250-opm-svg-seal" >}}</td>
+<td style="width:25%;">{{< img src="250-dhs-svg-seal" >}}</td>
+<td style="width:25%;">{{< img src="250-va-veterans-affairs-svg-seal" >}}</td>
+</tr>
+</table>
 
 ---
 
@@ -124,6 +143,14 @@ Join us for an engaging panel discussion on content strategy development, conten
 * **Ryan Johnson** — Content Strategist, Service Delivery Team, GSA
 * **Rosamund Lannin** — Content Strategist, Service Delivery Team, GSA
 
+<table style="width:100%; border:0px;">
+<tr>
+<td style="width:33%;">{{< img src="250-cpsc-consumer-product-safety-commission" >}}</td>
+<td style="width:34%;">{{< img src="250-education-svg-seal" >}}</td>
+<td style="width:33%;">{{< img src="250-gsa-blue-logo-sq" >}}</td>
+</tr>
+</table>
+
 ---
 
 ### 2:00 pm - 2:50 pm, ET
@@ -140,6 +167,14 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 * **Ashley Owens** — Senior Digital Acquisition Strategist, Service Delivery Team, GSA
 * **Justen Proctor** — Senior Contracting Officer, GSA
 
+<table style="width:100%; border:0px;">
+<tr>
+<td style="width:33%;">{{< img src="250-court-services-and-offender-supervision-agency-dc-csosa" >}}</td>
+<td style="width:34%;">{{< img src="250-state-dept-seal" >}}</td>
+<td style="width:33%;">{{< img src="250-gsa-blue-logo-sq" >}}</td>
+</tr>
+</table>
+
 ---
 
 ### 3:00 pm - 3:50 pm, ET
@@ -154,6 +189,14 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 * **Michael Horton** — Accessible Design & Development Advisor, GSA
 * **Gloria Huang** — Digital Engagement and Analytics Branch Chief, FEMA
 * **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
+
+<table style="width:100%; border:0px;">
+<tr>
+<td style="width:33%;">{{< img src="250-hhs-svg-seal" >}}</td>
+<td style="width:34%;">{{< img src="250-gsa-blue-logo-sq" >}}</td>
+<td style="width:33%;">{{< img src="250-fema-federal-emergency-management-agency-seal" >}}</td>
+</tr>
+</table>
 
 ---
 
