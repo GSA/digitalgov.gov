@@ -51,7 +51,7 @@ Join us for a day of inspiration and collaboration as leading voices across 16 U
 * Uncovering impactful solutions
 * Crafting quality content
 * Navigating seamless acquisitions
-* Closing out projects with impact
+* Figuring out what to do after launch
 
 This is your chance to:
 
