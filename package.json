@@ -41,7 +41,7 @@
     "eslint": "^8.57.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
-    "gulp-postcss": "^9.1.0",
+    "gulp-postcss": "^10.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.1.4",
     "gulp-sass": "^5.1.0",
@@ -57,7 +57,7 @@
   },
   "devDependencies": {
     "@18f/identity-stylelint-config": "^2.0.0",
-    "del": "^6.1.1",
+    "del": "^7.1.0",
     "dotenv": "^16.4.5",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^9.1.0",
@@ -67,15 +67,15 @@
     "gulp-s3-upload": "^1.7.3",
     "gulp-strip-css-comments": "^3.0.0",
     "gulp-tap": "^2.0.0",
-    "husky": "^8.0.3",
+    "husky": "^9.0.11",
     "image-size": "^1.1.1",
-    "markdownlint-cli": "^0.33.0",
+    "markdownlint-cli": "^0.39.0",
     "postcss": "^8.4.35",
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.11.0",
     "stylelint-order": "^6.0.4",
-    "vinyl-paths": "^3.0.1"
+    "vinyl-paths": "^5.0.0"
   },
   "overrides": {
     "gulp-responsive": {
