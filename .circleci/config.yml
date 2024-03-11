@@ -17,8 +17,7 @@ jobs:
       - hugo/install:
           version: "0.92.0"
       - node/install-packages:
-          # cache-path: ~/project/node_modules
-          cache-path: 
+          cache-path: ~/project/node_modules
           override-ci-command: npm install
       - run:
           name: Build assets
