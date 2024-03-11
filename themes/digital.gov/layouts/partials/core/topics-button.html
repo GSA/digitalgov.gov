@@ -1,31 +1,31 @@
+{{/* Renders a topics button with the name of the topic and has two display options.
+  Option 1 is a styled button with a hover effect and Option 2 is a link followed by the amount of pages that use the topic.
+
+  @param {url} link - Accepts a string path to a topic page
+  @param {string} title - Name of the topic
+  @param {number} tag_count - Number of times the topic tag is used
+  @param {boolean} has_tag_count - Checks if tag_count number is present
+*/}}
+
 {{ $link := .link }}
 {{ $title := .title }}
-{{ $name := .name }}
 {{ $tag_count := .tag_count }}
-{{ $has_tag := false }}
+{{ $has_tag_count := false }}
 
-{{ if or (eq $tag_count nil) (eq $tag_count false) }}
-  {{ $has_tag = false }}
-{{ else }}
-  {{ $has_tag = true }}
+{{ if ne $tag_count nil }}
+  {{ $has_tag_count = true }}
 {{ end }}
 
 
-<div
-  {{ if not $has_tag }}
-    class="topics-button"
-  {{ else }}
-    class="topics-button--count"
-  {{ end }}
->
+<div class="topics-button {{ if $has_tag_count }}topics-button--count{{ end }}">
   <p>
     <a href="{{- $link | absURL -}}" title="{{- $title -}}">
       {{- $title -}}
-      {{ if not $has_tag }}
+      {{ if not $has_tag_count }}
         <span>&#8594;</span>
       {{ end }}
     </a>
-    {{ if $has_tag }}
+    {{ if $has_tag_count }}
       <span class="topics-button__number">{{- $tag_count -}}</span>
     {{ end }}
   </p>
