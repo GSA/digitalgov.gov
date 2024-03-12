@@ -90,10 +90,12 @@ Hear from a panel of experts on making the case for building a digital team with
 * **Gregory Your** — Director of Website Management, USAID
 
 
+
 <table style="width:100%; border:0px;">
 <tr>
 <td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-inter-american-foundation-iaf-seal.png" alt="Seal of the Inter-American Foundation, IAF." width="150"></td>
-<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-doi-svg-seal.png" alt="Seal of the Department of the Interior, DoI." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/office-of-natural-resources-revenue-onrr-doi-logo.png" alt="The logo for the Department of the Interior's Office of Natural Resources Revenue is in shades of blues, greens, and white." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-10x-logo-2023.png" alt="The square 10x logo has the number 10 in white and the lowercase x in purple, on a dark background." width="150"></td>
 <td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
 <td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-usaid-united-states-agency-for-international-development-seal.png" alt="Seal for the United States Agency for International Development, USAID." width="150"></td>
 </tr>
@@ -196,7 +198,7 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 <tr>
 <td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/hhs-svg-seal.png" alt="Seal for the Department of Health and Human Services, HHS." width="150"></td>
 <td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
-<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-fema-federal-emergency-management-agency-seal.png" alt="Seal of the Federal Emergency Management Agency, FEMA." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/150-fema-dhs-logo.png" alt="Logo of the Federal Emergency Management Agency, FEMA." width="150"></td>
 </tr>
 </table>
 
