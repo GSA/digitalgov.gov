@@ -196,7 +196,7 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 <tr>
 <td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/hhs-svg-seal.png" alt="Seal for the Department of Health and Human Services, HHS." width="150"></td>
 <td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a blue square." width="150"></td>
-<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/250-fema-federal-emergency-management-agency-seal.png" alt="Seal of the Federal Emergency Management Agency, FEMA." width="150"></td>
+<td style="text-align: center; border:0px; height: 150px;"><img src="https://s3.amazonaws.com/digitalgov/150-fema-dhs-logo.png" alt="Logo of the Federal Emergency Management Agency, FEMA." width="150"></td>
 </tr>
 </table>
 
