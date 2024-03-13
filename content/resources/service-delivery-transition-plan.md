@@ -2,7 +2,13 @@
 slug: service-delivery-transition-plan
 date: 2024-12-03 12:00:00 -0400
 title: "Service Delivery Transition Plan"
-summary: ""
+summary: "Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery."
+
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 0
 
 topics:
   - digital-service-delivery
