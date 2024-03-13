@@ -1,6 +1,6 @@
 ---
 slug: service-delivery-project-reflection
-date: 2024-12-03 12:00:00 -0400
+date: 2024-03-13 12:00:00 -0500
 title: "Service Delivery Project Reflection"
 summary: "Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery."
 
@@ -19,10 +19,10 @@ authors:
 
 ## [project name] | Project reflection
 
-
 Start date - End date | [Team members]
 
 ## Background
+
 [Background, link to project proposal]
 
 During this time, the Service Delivery team has:
@@ -30,9 +30,11 @@ During this time, the Service Delivery team has:
 - Description of activity [link as appropriate]
 
 ## Project goals:
+
 - [Copy from project proposal]
 
 ## Project Prompts
+
 Let’s spend 5 minutes (more or less) responding to each of the prompts. Feel free to mark other people’s responses up with additional feedback:
 
 - “+” to signal you agree
@@ -40,12 +42,14 @@ Let’s spend 5 minutes (more or less) responding to each of the prompts. Feel f
 - “?” if you don’t understand the feedback
 
 ## Did we achieve our goals? How do we know?
+
 1-2 sentences max.
 
 -
 -
 
 ## Did the outcomes change? When and why?
+
 1-2 sentences max.
 
 -
@@ -66,6 +70,7 @@ Let’s spend 5 minutes (more or less) responding to each of the prompts. Feel f
 -
 
 ## 6 months from now, here’s what we should look for to assess our impact:
+
 If we were to check in on the project 6 months from now, what would tell us whether or not our work had a lasting impact on the partner agency?
 
 - Good sign:
@@ -80,5 +85,3 @@ If we were to check in on the project 6 months from now, what would tell us whet
 - Slack channel:
 - Project drive:
 - Github repo:
-
-
