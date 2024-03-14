@@ -10,18 +10,23 @@ topics:
   - user-experience
   - social-media
   - terms-of-service
+
 ---
 
 {{< legacy-img src="2015/02/600-x-400-Successful-handshake-Zurijeta-iStock-Thinkstock-176413004.jpg" alt="Successful handshake" caption="Zurijeta, iStock, Thinkstock" >}}
 
 The federal government is one of the largest consumers of products and services in the United States. Yet, many agencies face tight budgets and firm guidelines that restrict the parameters under which agencies can use a product or service to complete projects. This presents an interesting opportunity and dilemma for agencies who want to procure new digital tools to complete their projects.
 
-## Dilemmas {{< legacy-img src="2015/02/250-x-200-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses" caption="plrang, iStock, Thinkstock" >}}
+## Dilemmas
+
+{{< legacy-img-right src="2015/02/250-x-200-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses" caption="plrang, iStock, Thinkstock" >}}
 
   * There are strict guidelines that govern the contracts and legal agreements into which the federal government can enter in order to use a tool or service. For digital products that legal agreement is often in the form of a Terms of Service (TOS) agreement that is crafted by the vendor. Often those terms are not compatible with federal laws and regulations because they dictate how and where legal disputes will be handled. Two of the most problematic clauses are the **Indemnification clauses** that obligate funds if there is a legal dispute and **any clause identifying a specific governing state** or court system in which disputes will be settled. These are problematic because a federal government agency cannot promise to pay funds that have not been appropriated by congress nor can it agree to settle any dispute in a state court. All disputes with the federal government must be settled in federal courts.
   * Affordability is a big consideration when procuring a tool. There are many free tools to choose from, but sometimes the right tool for the task comes with a cost. Not only are there increased requirements for procurement for those with higher costs, but there are often longer timelines for acquiring those tools. Additionally, because of shrinking budgets, tools can be unattainable for federal agencies who cannot afford prices that cater to the demands of private industry.
 
-## The Opportunity {{< legacy-img src="2015/01/250-x-158-Business-people-collaborate-puzzle-Jrcasas-iStock-Thinkstock-460134765.jpg" alt="Business people collaborate puzzle" caption="Jrcasas, iStock, Thinkstock" >}}
+## The Opportunity
+
+{{< legacy-img-right src="2015/01/250-x-158-Business-people-collaborate-puzzle-Jrcasas-iStock-Thinkstock-460134765.jpg" alt="Business people collaborate puzzle" caption="Jrcasas, iStock, Thinkstock" >}}
 
 The collective power of federal agencies can be very attractive to vendors, both in terms of buying power and heightened visibility in the market. Therefore with a little work on the part of the agency, vendors may be willing to create acceptable TOS agreements and federal-friendly tiers of pricing to meet the unique needs of federal agencies seeking to use their digital tools. Seize the opportunity and work with your legal team and/or contracting officer to reach out to a vendor who has a tool of interest to your agency. Start the conversation by pointing out that, developing a federal TOS and pricing is::
 
@@ -31,6 +36,8 @@ The collective power of federal agencies can be very attractive to vendors, both
 
 ## What to Do After the Vendor Says “Yes”
 
-{{< legacy-img src="2015/02/250-x-186-Businessman-shouting-into-megaphone-Jrcasas-iStock-Thinkstock-158772399.jpg" alt="250-x-186-Businessman-shouting-into-megaphone-Jrcasas-iStock-Thinkstock-158772399" >}}Once you have successfully negotiated a federal-friendly TOS and pricing scale, **tell everyone**. First call your TOS contact at your agency and tell them the good news. Then ensure that they or you contact GSA ([Betsy Steele](mailto:socialmediaapps@gsa.gov)) to let them know about the new TOS and fed-pricing so that they can share your win with the entire federal government community.
+{{< legacy-img-right src="2015/02/250-x-186-Businessman-shouting-into-megaphone-Jrcasas-iStock-Thinkstock-158772399.jpg" alt="250-x-186-Businessman-shouting-into-megaphone-Jrcasas-iStock-Thinkstock-158772399" caption="Jrcasas, iStock, Thinkstock" >}}
+
+Once you have successfully negotiated a federal-friendly TOS and pricing scale, **tell everyone**. First call your TOS contact at your agency and tell them the good news. Then ensure that they or you contact GSA ([Betsy Steele](mailto:socialmediaapps@gsa.gov)) to let them know about the new TOS and fed-pricing so that they can share your win with the entire federal government community.
 
 Getting to yes does not have to be difficult. The process may take months, however, the rewards of yes, make the effort worth the endeavor. So if you have a digital tool that you want to use and there is no TOS or fed-pricing in place by the vendor, send an email, then pick up the phone to call the vendor and start working to Get to Yes.
