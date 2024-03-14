@@ -1,18 +1,18 @@
 ---
 title: USWDS Monthly Call - March 2024
-deck: How to suggest a new component for the U.S. Web Design System
+deck: How to build with U.S. Web Design System tools
 kicker: USWDS
-summary: Learn about the USWDS component lifecycle, and how you can suggest a
-  new component.
+summary: Join the U.S. Web Design System team for a lesson on customizing and extending the design system.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
-registration_url: https://gsa.zoomgov.com/meeting/register/vJIsceyvpz4iGws79NmQy1Dj0BUoDVtPKzs#/registration
-date: 2024-02-15 14:00:00 -0500
-end_date: 2024-02-15 15:00:00 -0500
+registration_url: https://gsa.zoomgov.com/meeting/register/vJIsdu6pqzwuH6ocAtOZ2fI_hHryn0lQ9es
+date: 2024-03-21 14:00:00 -0500
+end_date: 2024-03-21 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - design
+  - software-engineering
   - user-centered-design
 slug: uswds-monthly-call-march-2024
 # zoom, youtube_live, adobe_connect, google
@@ -20,23 +20,23 @@ event_platform: zoom
 primary_image:
 ---
 
-{{< asset-static file="USWDS Monthly Call Feb 2024.pptx" label="View the slides (PowerPoint presentation, 5.8 MB, 81 pages)" >}}
+Join the U.S. Web Design System team for a lesson on customizing and extending USWDS.
+You’ll learn how to build new components that look and feel consistent with existing components.
 
-Join the U.S. Web Design System (USWDS) team to learn more about the complete lifecycle of a USWDS component.
+You’ll learn to:
 
-In this session, you will learn:
+* Work with design system settings
+* Apply tokens consistently with Sass functions and mixins
+* Avoid style conflicts when overriding defaults
+* Use tools for ensuring proper color contrast in every context
 
-* How to suggest a new component
-* What to expect throughout the proposal process
-* What comes next in the component’s lifecycle
-
-**This event is best suited for:** Developers and designers (all levels)
+**This event is best suited for:** Developers who have basic to advanced familiarity with the design system
 
 ## Speakers
 
-* **Dan Williams** **—** Product Lead, USWDS
-* **Anne Petersen** **—** Experience Design Lead, USWDS
-* **Amy Leadem** **—** Developer, USWDS Contractor
+* **Dan Williams** **-** Product Lead, USWDS
+* **James Mejia** **-** Developer, USWDS Contractor
+* **Charlie Mahoney** **-** Developer, USWDS Contractor
 
 ## Join our Communities of Practice
 
