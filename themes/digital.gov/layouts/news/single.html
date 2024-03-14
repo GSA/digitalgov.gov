@@ -5,78 +5,69 @@
       {{ if .Params.short_url -}}
         data-short_url="{{- .Params.short_url -}}"
       {{- end -}}
+      class="grid-container-desktop"
     >
-      <header>
-        <div class="grid-container grid-container-desktop">
-          {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-          <div class="grid-row">
-            <div class="grid-col-12">
-              {{- if .Params.kicker -}}
-                <p class="kicker">{{- .Params.kicker -}}</p>
-              {{- end -}}
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}}</h1>
+      <header class="grid-row">
+        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+        <div class="grid-col-12">
+          {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+          {{- end -}}
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}}</h1>
 
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-                <div class="deck">{{- .Params.deck | markdownify -}}</div>
-              {{- end -}}
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
 
-              {{- partial "core/get_authors_short.html" . -}}
+          {{- partial "core/get_authors_short.html" . -}}
 
 
-              <div class="meta">
-                <div class="date">
-                  <span title="{{- .Title | markdownify -}} "
-                    >{{- .Date.Format "Jan _2, 2006" -}}</span
-                  >
-                </div>
-              </div>
+          <div class="meta">
+            <div class="date">
+              <span title="{{- .Title | markdownify -}} "
+                >{{- .Date.Format "Jan _2, 2006" -}}</span
+              >
             </div>
           </div>
         </div>
       </header>
 
-      <section>
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row tablet-lg:grid-gap-6">
-            <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">
-              {{/* Content */}}
-              <div class="content usa-prose">
-                {{- .Content -}}
-              </div>
+      <section class="grid-row tablet-lg:grid-gap-6">
+        <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">
+          {{/* Content */}}
+          <div class="content usa-prose">
+            {{- .Content -}}
+          </div>
 
-              {{/* Touchpoints Form */}}
-              {{- partial "core/touchpoints-form.html" . -}}
-            </div>
+          {{/* Touchpoints Form */}}
+          {{- partial "core/touchpoints-form.html" . -}}
+        </div>
 
-            <div class="dg-sidebar grid-col-12 tablet-lg:grid-col-3">
-              {{/* Authors */}}
-              {{- partial "core/get_authors.html" . -}}
+        <div class="dg-sidebar grid-col-12 tablet-lg:grid-col-3">
+          {{/* Authors */}}
+          {{- partial "core/get_authors.html" . -}}
 
 
-              <div class="meta">
-                {{/* Date */}}
-                <div class="date">
-                  <span title="{{- .Title | markdownify -}} "
-                    >{{- .Date.Format "Jan _2, 2006" -}}
-                  </span>
-                </div>
-              </div>
-
-              {{/* Last updated */}}
-              {{/* {{- partial "last-updated.html" . -}} */}}
-              {{/* Related Communities and Services */}}
-              {{- partial "core/get_related.html" . -}}
-
-              {{/* Topics */}}
-              {{- partial "core/list-topics.html" . -}}
-
-              {{/* Share Tools */}}
-              {{- partial "core/get_sharetools.html" . -}}
-
+          <div class="meta">
+            {{/* Date */}}
+            <div class="date">
+              <span title="{{- .Title | markdownify -}} "
+                >{{- .Date.Format "Jan _2, 2006" -}}
+              </span>
             </div>
           </div>
+
+          {{/* Related Communities and Services */}}
+          {{- partial "core/get_related.html" . -}}
+
+          {{/* Topics */}}
+          {{- partial "core/list-topics.html" . -}}
+
+          {{/* Share Tools */}}
+          {{- partial "core/get_sharetools.html" . -}}
+
         </div>
       </section>
     </article>
