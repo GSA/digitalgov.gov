@@ -13,6 +13,13 @@ topics:
 layout: single
 ---
 
+
+
+{{< note >}}
+Welcome to the new home for the **Accessibility for Teams** guide. The original site was located at [https://accessibility.digital.gov/](https://accessibility.digital.gov/) and is permanently moved to https://digital.gov/guides/accessibility-for-teams.
+{{< /note >}}
+
+
 * An overview of how each team member can contribute to a product's accessibility
 * A framework for thinking about accessibility and inclusive design in your role
 * An understanding of the human need behind accessibility practices
