@@ -61,18 +61,18 @@
       @include u-text("gray-1");
       @include u-border("1px", "primary-vivid", "solid");
       span {
-        margin-right: 0;  
+        margin-right: 0;
       }
     }
   }
-  }
+}
 
-.topics-button--count { 
-  display: flex;  
-  list-style: none; 
-  margin-bottom: 0; 
-  transition: none; 
-  width: fit-content; 
+.topics-button--count {
+  display: flex;
+  list-style: none;
+  margin-bottom: 0;
+  transition: none;
+  width: fit-content;
 
   .topics-button__link {
     border: none;
