@@ -51,6 +51,6 @@ You’ll learn to:
 
 * [The U.S. Web Design System](https://designsystem.digital.gov/)
 * [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
+* [Email Us](mailto:uswds@gsa.gov)
 * [Join our community](https://digital.gov/communities/uswds/)
 * [Follow @uswds on Twitter](https://twitter.com/uswds)
