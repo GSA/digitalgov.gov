@@ -4,7 +4,7 @@
 
 # slug (url path) — changing this requires a redirect
 slug: how-test-websites-for-accessibility
-date: 2020-07-15 14:000:00 -0500
+date: 2020-07-15 14:00:00 -0500
 title: "How to Test Websites for Accessibility"
 deck: "Use both manual and automated testing methods to create accessible websites."
 summary: "Use both manual and automated testing methods to create accessible websites."
