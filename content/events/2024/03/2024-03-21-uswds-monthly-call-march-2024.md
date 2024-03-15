@@ -18,10 +18,10 @@ slug: uswds-monthly-call-march-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2024-uswds-monthly-call-march-title-card
+
 ---
 
-Join the U.S. Web Design System team for a lesson on customizing and extending USWDS.
-You’ll learn how to build new components that look and feel consistent with existing components.
+Join the U.S. Web Design System team for a lesson on customizing and extending USWDS. You’ll learn how to build new components that look and feel consistent with existing components.
 
 You’ll learn to:
 
@@ -30,7 +30,7 @@ You’ll learn to:
 * Avoid style conflicts when overriding defaults
 * Use tools for ensuring proper color contrast in every context
 
-**This event is best suited for:** Developers who have basic to advanced familiarity with the design system
+**This event is best suited for:** Developers who have basic to advanced familiarity with the design system.
 
 ## Speakers
 
