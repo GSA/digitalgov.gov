@@ -60,6 +60,9 @@
       @include u-bg("primary-vivid");
       @include u-text("gray-1");
       @include u-border("1px", "primary-vivid", "solid");
+      span {
+        margin-right: 0;
+      }
     }
   }
 }
