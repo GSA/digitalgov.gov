@@ -14,8 +14,8 @@
     @include u-display("block");
     overflow: auto;
     padding: units(1);
-    white-space: nowrap;
     transition: background-color 0.5s, color 0.5s;
+    white-space: nowrap;
 
     @include at-media("tablet") {
       padding-left: units(1);
@@ -68,8 +68,8 @@
   display: flex;
   list-style: none;
   margin-bottom: 0;
-  width: fit-content;
   transition: none;
+  width: fit-content;
 
   .topics-button__link {
     border: none;
