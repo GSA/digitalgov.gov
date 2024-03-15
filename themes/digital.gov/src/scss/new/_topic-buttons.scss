@@ -33,7 +33,7 @@
         @include u-padding-x(1);
 
         @include at-media("tablet") {
-          @include u-padding-left(2);
+          @include u-padding-left(1);
         }
 
         @include u-font("sans", "sm");

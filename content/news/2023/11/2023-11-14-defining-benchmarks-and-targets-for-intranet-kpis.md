@@ -10,6 +10,7 @@ topics:
   - analytics
   - budgeting-and-performance
   - content-strategy
+  - product-and-project-management
 
 # See all authors at https://digital.gov/authors
 authors:

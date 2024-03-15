@@ -8,7 +8,6 @@ authors:
 topics:
   - mobile
   - application-programming-interface
-  - united-states-army
 ---
 
 {{< legacy-img src="2014/12/600-x-450-Army-ROTC-at-Ohio-State-University-May-21-2009-by-Ibagli-from-Wikimedia-Commons.jpg" alt="Army ROTC at Ohio State University, May 21, 2009" caption="" >}}

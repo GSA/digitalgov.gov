@@ -54,7 +54,7 @@ In this session, you’ll learn how to:
 
 {{< asset-static file="redesign-old-legacy-application-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 7.4 MB, 39 pages)" >}}
 
-{{< youtube cl6sVFjzZG4 >}}
+{{< youtube id="cl6sVFjzZG4" title="How to Redesign a 19-Year-old Legacy Application Using Agile and UX Methodologies" >}}
 
 - - -
 

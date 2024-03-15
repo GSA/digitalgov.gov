@@ -16,6 +16,7 @@ topics:
   - user-experience
   - content-strategy
   - design
+  - diversity-equity-and-inclusion
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

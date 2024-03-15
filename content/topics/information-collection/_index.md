@@ -10,6 +10,9 @@ deck: "The process of gathering and documenting data from various sources to ful
 
 summary: "Information collection is the first step of many when conducting research and it can involve various methods and technologies. It’s also the process by which federal agencies gather or ask for information about the people who use their services. Collections may require the use of complex forms or sensitive questions, including personally identifiable information. Make sure you follow best practices when collecting information to protect the identity of your users, and to respect their time."
 
+aliases:
+  - /topics/pra/
+
 # Weight
 weight: 2
 
