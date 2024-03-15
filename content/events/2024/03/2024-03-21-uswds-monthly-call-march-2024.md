@@ -17,7 +17,7 @@ topics:
 slug: uswds-monthly-call-march-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image:
+primary_image: 2024-uswds-monthly-call-march-title-card
 ---
 
 Join the U.S. Web Design System team for a lesson on customizing and extending USWDS.
