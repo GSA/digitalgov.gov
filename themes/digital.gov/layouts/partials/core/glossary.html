@@ -1,5 +1,7 @@
-{{/* Display a sidebar of glossary terms populated by a json file used on guide pages
-  See example here by clicking on glossary button https://digital.gov/guides/hcd/discovery-concepts/
+{{/* Display a sidebar of glossary terms populated by a json file used on guide pages.
+
+  Example (click on glossary button):
+  https://digital.gov/guides/hcd/discovery-concepts/
 */}}
 
 
@@ -17,6 +19,8 @@
       <use xlink:href="{{ "/uswds/img/sprite.svg#close" | relURL }}"></use>
     </svg>
   </button>
+  {{/* Used as a hook in `summary-box.js`. */}}
+  <h2 class="dg-glossary__header">Glossary</h2>
 
   <h2 class="dg-glossary__header">Glossary</h2>
   <label for="dg-glossary__search" class="usa-label">Search for a term:</label>

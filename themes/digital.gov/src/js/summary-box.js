@@ -1,7 +1,9 @@
 /**
  * Guide Table of Contents
- * Replaces guidenav.js that used Hugo's .TableOfContents with USWDS summary-box — https://designsystem.digital.gov/components/summary-box/#package
- * Get all H2's and create a top of the page Table of Contents if shortcode is used on the markdown page
+ * Replaces guidenav.js that used Hugo's .TableOfContents with USWDS summary-box — https://designsystem.digital.gov/components/summary-box/#package.
+ * Get all H2's on a page and display a bulleted list of links when setting summary_box: true in the front matter of a guide page.
+ * See a live example used on https://digital.gov/guides/dap/common-questions-about-dap/ that displays this page: content/guides/dap/common-questions-about-dap.md.
+
  */
 // eslint-disable-next-line func-names
 (function () {
