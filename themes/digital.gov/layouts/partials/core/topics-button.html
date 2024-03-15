@@ -16,17 +16,25 @@
   {{ $has_tag_count = true }}
 {{ end }}
 
-
-<div class="topics-button {{ if $has_tag_count }}topics-button--count{{ end }}">
-  <p>
-    <a href="{{- $link | absURL -}}" title="{{- $title -}}">
+<div 
+  class="topics-button {{ if not $has_tag_count }}topics-button--primary {{ else }}topics-button--count {{ end }}">
+    <a class="topics-button__link" href="{{- $link | absURL -}}" title="{{- $title -}}">
       {{- $title -}}
       {{ if not $has_tag_count }}
-        <span>&#8594;</span>
+        <span class="topics-button__arrow">
+          <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+          >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+          ></use>
+          </svg>
+      </span>
       {{ end }}
     </a>
     {{ if $has_tag_count }}
       <span class="topics-button__number">{{- $tag_count -}}</span>
     {{ end }}
-  </p>
 </div>

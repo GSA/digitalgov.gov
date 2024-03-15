@@ -10,7 +10,7 @@
       </div>
     </header>
 
-    <section class="grid-container grid-container-desktop margin-bottom-2">
+    <section class="grid-container-desktop">
       <div class="grid-row tablet:grid-gap-2">
         {{- $top_topics := $.Site.Taxonomies.topics -}}
         {{- range $name, $taxonomy := $top_topics -}}
@@ -30,7 +30,6 @@
         <div class="grid-col-auto">
           {{- $topics_tax := $.Site.Taxonomies.topics -}}
           {{- $topics_count := len $topics_tax -}}
-          <!-- {{- $topics_col := (div $topics_count 3) -}} -->
           <h2>All {{ $topics_count }} Topics</h2>
         </div>
       </div>

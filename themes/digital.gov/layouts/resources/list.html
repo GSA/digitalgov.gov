@@ -121,9 +121,7 @@
 
       <section class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12">
             <h2>Resources by Topic</h2>
-          </div>
         </div>
         <div class="grid-row tablet:grid-gap-2">
           {{- $top_topics := $.Site.Taxonomies.topics -}}
@@ -137,9 +135,8 @@
             {{- end -}}
           {{- end -}}
         </div>
-        <footer>
-          <p>
-            <a href="{{ "topics" | relURL }}" class="dg-more-link">
+        <div>
+            <a href="{{ "topics" | relURL }}" class="dg-more-link__label">
               <span>See all topics</span>
               <svg
                 class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
@@ -151,8 +148,7 @@
                 ></use>
               </svg>
             </a>
-          </p>
-        </footer>
+        </div>
       </section>
     </article>
   </main>
