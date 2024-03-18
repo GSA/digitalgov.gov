@@ -3,7 +3,6 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: tips-for-starting-your-customer-experience
-date: 2020-01-07 24:00:00 -0500
 time: 24:00:00
 title: "Tips for Starting Your Customer Experience Journey"
 deck: "Low-cost, low-lift actions that any federal employee can take to improve customer experience."

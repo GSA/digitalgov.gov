@@ -17,11 +17,11 @@
   {{/* Find the logo source. */}}
   {{/* @TODO: Simplify even further. */}}
   {{- if $source -}}
-    {{ .Scratch.Set "logo_src" (printf "/logos/%s%s" $source.Params.logo "-logo.png") }}
+    {{ .Scratch.Set "logo_src" (printf "logos/%s%s" $source.Params.logo "-logo.png") }}
   {{- else if .Params.logo -}}
-    {{ .Scratch.Set "logo_src" (printf "/logos/%s%s" .Params.logo "-logo.png") }}
+    {{ .Scratch.Set "logo_src" (printf "logos/%s%s" .Params.logo "-logo.png") }}
   {{- else -}}
-    {{ .Scratch.Set "logo_src" "/logos/digit-gold.png" }}
+    {{ .Scratch.Set "logo_src" "logos/digit-gold.png" }}
   {{- end -}}
 
   {{/* Call logo template once with new found source. */}}
