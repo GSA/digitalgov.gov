@@ -37,17 +37,14 @@ Federal program and project managers ensure the government delivers these servic
 
 PMIAA requires the 24 federal agencies that are required to have a Chief Financial Officer to designate a Program Management Improvement Officer. This officer must implement agency program management policies and develop a strategy for enhancing the role of program managers within the agency. 
 
-It also requires the Office of Personnel Management to issue regulations that:
+{{< ring title="Public law No: 114-264">}}
+  Program Management Improvement Accountability Act (PMIAA) requires the Office of Personnel Management to issue regulations that:
 
 * Identify key skills and competencies needed for an agency program and project manager
 * Establish a new job series or update and improve an existing job series for program and project management within an agency
 * Establish a new career path for program and project managers
-
-{{< ring title="Public law">}}
-  Program Management Improvement Accountability Act (PMIAA)
-  Public Law No: 114-264
   
-  [Explore the law ⎘](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
+  [Explore the Program Management Improvement Accountability Act (PMIAA) ⎘](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
 {{< /ring >}}
 
 ## What does it mean to improve the management of federal programs and projects?
