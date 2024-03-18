@@ -44,7 +44,7 @@ PMIAA requires the 24 federal agencies that are required to have a Chief Financi
 * Establish a new job series or update and improve an existing job series for program and project management within an agency
 * Establish a new career path for program and project managers
   
-  [Explore the Program Management Improvement Accountability Act (PMIAA) ⎘](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
+  [Explore the Program Management Improvement Accountability Act (PMIAA)](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
 {{< /ring >}}
 
 ## What does it mean to improve the management of federal programs and projects?
