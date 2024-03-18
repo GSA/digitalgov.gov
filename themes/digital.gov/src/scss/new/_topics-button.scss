@@ -57,7 +57,7 @@
 .topics-button--primary {
   .topics-button__link {
     &:visited {
-      color: color('primary-vivid')
+      color: color("primary-vivid");
     }
     &:hover {
       @include u-bg("primary-vivid");
