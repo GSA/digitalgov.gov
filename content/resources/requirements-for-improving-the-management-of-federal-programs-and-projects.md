@@ -19,23 +19,23 @@ slug: requirements-for-improving-the-management-of-federal-programs-and-projects
 ---
 ## What is the Program Management Improvement Accountability Act?
 
-The Program Management Improvement Accountability Act, otherwise known as PMIAA, was signed into law in December 2016. 
+The Program Management Improvement Accountability Act, otherwise known as PMIAA, was signed into law in December 2016.
 
-In June 2018, the Office of Management and Budget (OMB) issued M-18-19, Improving the Management of Federal Programs and Projects through Implementing the PMIAA (PDF, 1.8 MB, 30 pages). This memo provides guidance for how to improve program and project management practices within the federal government. 
+In June 2018, the Office of Management and Budget (OMB) issued M-18-19, Improving the Management of Federal Programs and Projects through Implementing the PMIAA (PDF, 1.8 MB, 30 pages). This memo provides guidance for how to improve program and project management practices within the federal government.
 
 In part, this memo provides further policy guidance to help agencies fully implement the PMIAA. The law and policy guidance collectively establish a framework and the requirements for improving the management of federal programs and projects.
 
 PMIAA complements implementation of the President's Management Agenda.
 
-## Why is it important? 
+## Why is it important?
 
-The U.S. federal government manages some of the largest services in the world, from administering retirement benefits to investing in the nation’s infrastructure to tackling climate change, among other services. 
+The U.S. federal government manages some of the largest services in the world, from administering retirement benefits to investing in the nation’s infrastructure to tackling climate change, among other services.
 
-Federal program and project managers ensure the government delivers these services to the public efficiently and effectively—making it important that they follow best practices in program and project management. 
+Federal program and project managers ensure the government delivers these services to the public efficiently and effectively—making it important that they follow best practices in program and project management.
 
 ## What’s in the law?
 
-PMIAA requires the 24 federal agencies that are required to have a Chief Financial Officer to designate a Program Management Improvement Officer. This officer must implement agency program management policies and develop a strategy for enhancing the role of program managers within the agency. 
+PMIAA requires the 24 federal agencies that are required to have a Chief Financial Officer to designate a Program Management Improvement Officer. This officer must implement agency program management policies and develop a strategy for enhancing the role of program managers within the agency.
 
 {{< ring title="Public law No: 114-264">}}
   Program Management Improvement Accountability Act (PMIAA) requires the Office of Personnel Management to issue regulations that:
@@ -49,11 +49,11 @@ PMIAA requires the 24 federal agencies that are required to have a Chief Financi
 
 ## What does it mean to improve the management of federal programs and projects?
 
-OMB’s policy guidance in M-18-19 requires agencies to use three key strategies as part of a 5-year strategic plan for implementing the PMIAA. 
+OMB’s policy guidance in M-18-19 requires agencies to use three key strategies as part of a 5-year strategic plan for implementing the PMIAA.
 
 ### Strategy 1. Coordinated governance
 
-The first strategy leverages a coordinated approach and governance structure that clarifies key roles and responsibilities for senior leader engagement in strengthening program and project management, and establishes program management principles and standards that can be applied broadly. 
+The first strategy leverages a coordinated approach and governance structure that clarifies key roles and responsibilities for senior leader engagement in strengthening program and project management, and establishes program management principles and standards that can be applied broadly.
 
 This approach requires management competencies and standards across various levels of the organization — from the Chief Operating Officer (COO) at the top, to the portfolios and programs in the middle, down to the projects at the bottom of the organization.
 
@@ -67,7 +67,7 @@ This strategy also says OMB will coordinate reviews of programs identified by th
 
 ### Strategy 3. Strengthening program management capacity to build a capable workforce
 
-The third strategy uses a new or updated job series, or a job identifier, to better track the program and project management workforce and investment in building program management capacity and capability over time through increased training opportunities, career pathways, and mentorship opportunities. 
+The third strategy uses a new or updated job series, or a job identifier, to better track the program and project management workforce and investment in building program management capacity and capability over time through increased training opportunities, career pathways, and mentorship opportunities.
 
 These strategies focus on clarifying key roles and responsibilities for program management, identifying principles-based standards, holding managers accountable for results, and building a capable program management workforce.
 
