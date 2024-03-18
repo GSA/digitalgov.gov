@@ -45,7 +45,8 @@ It also requires the Office of Personnel Management to issue regulations that:
 
 {{< ring title="Public law">}}
   Program Management Improvement Accountability Act (PMIAA) Public Law No: 114-264
-  [Explore the law](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
+  
+  [Explore the law ⎘](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
 {{< /ring >}}
 
 ## What does it mean to improve the management of federal programs and projects?
