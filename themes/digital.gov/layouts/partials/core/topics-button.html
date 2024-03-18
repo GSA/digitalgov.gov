@@ -1,14 +1,13 @@
-{{/* Renders a topics button with the name of the topic and has two display options.  
+{{/* Renders a topics button with the name of the topic and has two display options.
 
-  1. Primary - Styled button with a hover effect.  
-  2. Count - Link followed by the amount of pages that use the topic.  
+  1. Primary - Styled button with a hover effect.
+  2. Count - Link followed by the amount of pages that use the topic.
 
-  @param {url} link - String path to a topic page.  
-  @param {string} title - Topic name.  
-  @param {number} tag_count - Number of times the topic tag is used.  
-  @param {boolean} has_tag_count - Checks if `tag_count` number is present.  
-*/}}  
-
+  @param {url} link - String path to a topic page.
+  @param {string} title - Topic name.
+  @param {number} tag_count - Number of times the topic tag is used.
+  @param {boolean} has_tag_count - Checks if `tag_count` number is present.
+*/}}
 
 {{ $link := .link }}
 {{ $title := .title }}
