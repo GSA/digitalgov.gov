@@ -43,40 +43,10 @@ It also requires the Office of Personnel Management to issue regulations that:
 * Establish a new job series or update and improve an existing job series for program and project management within an agency
 * Establish a new career path for program and project managers
 
-{{ with .card_data }}
-  <div class="dg-card-legislation">
-    <div class="usa-card__container usa-card-group usa-card--flag">
-      {{ if .title }}
-        <div class="usa-card__header">
-          <h2 class="dg-featured-resource__text-kicker">Related Policy</h2>
-          <h2 class="usa-card__heading">
-            {{ .title }}
-          </h2>
-        </div>
-      {{ end }}
-      <div class="usa-card__media">
-        <div class="usa-card__img">
-          <img
-            src="{{ $.image }}/legislative-stamp-card-logo-600.png"
-            alt="{{ .title }}"
-          />
-        </div>
-      </div>
-      {{ if .description }}
-        <div class="usa-card__body">
-          <p>
-            {{ .description }}
-          </p>
-        </div>
-      {{ end }}
-      {{ if .link }}
-        <div class="usa-card__footer">
-          <a href="{{- .link | relURL -}}" class="usa-button"> View policy </a>
-        </div>
-      {{ end }}
-    </div>
-  </div>
-{{ end }}
+{{< ring title="Public law">}}
+  Program Management Improvement Accountability Act (PMIAA) Public Law No: 114-264
+  [Explore the law](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
+{{< /ring >}}
 
 ## What does it mean to improve the management of federal programs and projects?
 
@@ -102,4 +72,3 @@ The third strategy uses a new or updated job series, or a job identifier, to bet
 
 These strategies focus on clarifying key roles and responsibilities for program management, identifying principles-based standards, holding managers accountable for results, and building a capable program management workforce.
 
----
