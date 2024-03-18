@@ -19,13 +19,13 @@ slug: requirements-for-improving-the-management-of-federal-programs-and-projects
 ---
 ## What is the Program Management Improvement Accountability Act?
 
-The Program Management Improvement Accountability Act, otherwise known as PMIAA, was signed into law in December 2016.
+The [Program Management Improvement Accountability Act](https://www.congress.gov/bill/114th-congress/senate-bill/1550), otherwise known as PMIAA, was signed into law in December 2016.
 
-In June 2018, the Office of Management and Budget (OMB) issued M-18-19, Improving the Management of Federal Programs and Projects through Implementing the PMIAA (PDF, 1.8 MB, 30 pages). This memo provides guidance for how to improve program and project management practices within the federal government.
+In June 2018, the Office of Management and Budget (OMB) issued [M-18-19, Improving the Management of Federal Programs and Projects through Implementing the PMIAA (PDF, 1.8 MB, 30 pages)](https://www.whitehouse.gov/wp-content/uploads/2018/06/M-18-19.pdf). This memo provides guidance for how to improve program and project management practices within the federal government.
 
 In part, this memo provides further policy guidance to help agencies fully implement the PMIAA. The law and policy guidance collectively establish a framework and the requirements for improving the management of federal programs and projects.
 
-PMIAA complements implementation of the President's Management Agenda.
+PMIAA complements implementation of the [President's Management Agenda](https://www.performance.gov/pma/).
 
 ## Why is it important?
 
@@ -35,7 +35,7 @@ Federal program and project managers ensure the government delivers these servic
 
 ## What’s in the law?
 
-PMIAA requires the 24 federal agencies that are required to have a Chief Financial Officer to designate a Program Management Improvement Officer. This officer must implement agency program management policies and develop a strategy for enhancing the role of program managers within the agency.
+PMIAA requires the [24 federal agencies that are required to have a Chief Financial Officer](https://www.cio.gov/handbook/it-laws/cfo-act/) to designate a Program Management Improvement Officer. This officer must implement agency program management policies and develop a strategy for enhancing the role of program managers within the agency.
 
 {{< ring title="Public law No: 114-264">}}
   Program Management Improvement Accountability Act (PMIAA) requires the Office of Personnel Management to issue regulations that:
@@ -63,7 +63,7 @@ This approach requires management competencies and standards across various leve
 
 The second strategy holds managers accountable for results through annual program portfolio reviews. It calls for reviews to assess performance and identify opportunities for improvement as well as point out barriers to achieving program outcomes. They are to be conducted in coordination with the agency internal review processes supporting the analyses generated for the agency’s annual strategic review meeting with OMB.
 
-This strategy also says OMB will coordinate reviews of programs identified by the U.S. Government Accountability Office as most-at-risk for fraud, waste, abuse, and mismanagement, or most-in-need of transformation to address economic, efficiency, or effectiveness challenges.
+This strategy also says OMB will coordinate reviews of programs identified by the [U.S. Government Accountability Office](https://www.gao.gov/) as most-at-risk for fraud, waste, abuse, and mismanagement, or most-in-need of transformation to address economic, efficiency, or effectiveness challenges.
 
 ### Strategy 3. Strengthening program management capacity to build a capable workforce
 
