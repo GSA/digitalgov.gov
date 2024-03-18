@@ -44,7 +44,8 @@ It also requires the Office of Personnel Management to issue regulations that:
 * Establish a new career path for program and project managers
 
 {{< ring title="Public law">}}
-  Program Management Improvement Accountability Act (PMIAA) Public Law No: 114-264
+  Program Management Improvement Accountability Act (PMIAA)
+  Public Law No: 114-264
   
   [Explore the law ⎘](https://www.congress.gov/bill/114th-congress/senate-bill/1550/text)
 {{< /ring >}}
