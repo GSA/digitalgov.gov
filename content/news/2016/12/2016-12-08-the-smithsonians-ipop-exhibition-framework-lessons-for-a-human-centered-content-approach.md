@@ -37,7 +37,7 @@ The [**_Skin & Bones_ app**](http://naturalhistory.si.edu/exhibits/bone-hall/) a
 
 Skin & Bones invigorates the staid displays of Bone Hall by bringing the specimens to life through the magic of augmented reality (AR). After downloading the free app, visitors can point their iOS device at selected skeletons, triggering the AR and superimposing 3-D skin or muscles onto the specimens. The AR might show the animal as it looked in life, or it may highlight specific anatomy: the muscles and neck of an anhinga bird for example. Short animations demonstrate how the specimens move or how their skeletons work.
 
-{{< youtube 6PdLWbkGtXk >}}
+{{< youtube id="6PdLWbkGtXk" title="Skin & Bones - Big Idea: Visual Signaling" >}}
 
 ([Open the full "Skin & Bones" YouTube playlist](https://www.youtube.com/watch?v=7agVb4IG16M&list=PLEeEhvh0_llMMi2Oerg-MUBoFhuYYukG7))
 

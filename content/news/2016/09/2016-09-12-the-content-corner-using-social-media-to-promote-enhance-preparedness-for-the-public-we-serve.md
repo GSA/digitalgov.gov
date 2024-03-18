@@ -31,7 +31,7 @@ As the #ReyFire wildfires continue to affect parts of Southern California, the C
 
 Sonny Saghera, who&#8217;s a firefighter and Public Information Officer for Heartland Fire and Rescue, uses social media increasingly to get messages out. Sonny talks about his agency’s use of live video like Periscope to share exactly what&#8217;s going on with the public.
 
-{{< youtube Q1zgLgA6dPI >}}
+{{< youtube id="Q1zgLgA6dPI" title="Going Social to Keep the Public Informed, Prepared for Disasters or Emergencies" >}}
 
 As data use continues to skyrocket for the general public and first responders alike, [FirstNet](http://www.firstnet.gov/), a relatively new federal agency, is tasked with the mission of ensuring the building, operation, and maintenance of a nationwide public safety broadband network. When so much is at stake, public safety shouldn&#8217;t have to compete with the general public for bandwidth.
 

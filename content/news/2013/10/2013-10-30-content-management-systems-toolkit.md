@@ -2,7 +2,7 @@
 slug: content-management-systems-toolkit
 date: 2013-10-30 8:45:15 -0400
 title: Content Management Systems Toolkit
-summary: 'Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device&mdash;via open content&mdash;is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information. The key steps'
+summary: 'Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device via open content is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information.'
 authors:
   - rflagg
 topics:
@@ -382,3 +382,7 @@ If you’ve done your research and followed your plan, you should have a smooth 
   * [Why NCI Moved to a Structured Content Model]({{< ref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}} "Why NCI Moved to a Structured Content Model")
   * [How NASA Chose a New Content Management System]({{< ref "2012-11-21-how-nasa-chose-a-new-content-management-system.md" >}} "How NASA Chose a New Content Management System")
   * [How the Department of Education Automated Publication of Press Releases]({{< ref "2012-11-21-how-the-department-of-education-automated-publication-of-press-releases.md" >}} "How the Department of Education Automated Publication of Press Releases")
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

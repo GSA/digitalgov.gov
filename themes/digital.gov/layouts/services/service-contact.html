@@ -15,14 +15,14 @@
     {{/* If there is a logo defined in the source */}}
     {{- if $source.Params.logo -}}
       {{/* get the path for the icon — e.g. 18f-icon.png */}}
-      {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
+      {{- $src := (printf "logos/%s%s" $source.Params.logo "-icon.png") -}}
       {{/* Pass these vars into the list item template (botton of page) */}}
       {{- template "service-contact" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
     {{- end -}}
 
   {{- else if .Params.logo -}}
     {{/* get the path for the icon — e.g. 18f-icon.png */}}
-    {{- $src := (printf "/logos/%s%s" .Params.logo "-icon.png") -}}
+    {{- $src := (printf "logos/%s%s" .Params.logo "-icon.png") -}}
     {{/* Pass these vars into the list item template (botton of page) */}}
     {{- template "service-contact" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
 
@@ -39,13 +39,13 @@
 {{- else -}}
   {{- if .Params.logo -}}
     {{/* get the path for the icon — e.g. 18f-icon.png */}}
-    {{- $src := (print "/logos/" .Params.logo "-icon.png") -}}
+    {{- $src := (print "logos/" .Params.logo "-icon.png") -}}
     {{/* Pass these vars into the list item template (botton of page) */}}
     {{- template "service-contact" dict "item" . "href" (print .Permalink "?dg") "src" $src -}}
   {{- else -}}
     {{/* Use the digital.gov logo */}}
     {{/* Pass these vars into the list item template (botton of page) */}}
-    {{- $src := (print "/logos/" "digitalgov-icon.png") -}}
+    {{- $src := (print "logos/" "digitalgov-icon.png") -}}
     {{- template "service-contact" dict "item" . "href" (print .Permalink "?dg") "src" $src -}}
   {{- end -}}
 

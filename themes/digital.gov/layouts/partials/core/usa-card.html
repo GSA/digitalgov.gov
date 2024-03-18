@@ -36,7 +36,7 @@
     {{ if not (eq $image "") }}
       <div class="usa-card__media">
         <div class="usa-card__img">
-          {{ $image_path := (printf "%s/%s" "/img" $image | relURL) }}
+          {{ $image_path := (printf "%s/%s" "img" $image | relURL) }}
           <img src="{{- $image_path -}}" alt="{{- $alt -}}" />
         </div>
       </div>
