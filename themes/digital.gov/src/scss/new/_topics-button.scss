@@ -60,7 +60,7 @@
       @include u-bg("primary-vivid");
       @include u-text("gray-1");
       @include u-border("1px", "primary-vivid", "solid");
-      span {
+      .topics-button__arrow {
         margin-right: 0;
       }
     }
@@ -78,7 +78,7 @@
     border: none;
 
     &:visited {
-      color: #5942d2;
+      color: color("indigo-warm-60v");
     }
   }
 
