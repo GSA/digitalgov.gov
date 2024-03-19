@@ -3,7 +3,7 @@
 source_url: https://search.gov/about/updates/year-in-review/2023-year-in-review/overview.html
 source: searchgov
 date: 2024-03-15 08:23:00 -0500
-title: Search.gov year in review: 2023 report
+title: "Search.gov year in review: 2023 report"
 deck: Learn what types of information the public sought most last year from more than 2,000 federal websites, see emerging trends that are on the horizon for Search.gov, and check out the results page redesign. The data tab provides insightful summaries for 13 main topic areas and lists the public’s top 25 search terms for each, in their own words.
 summary: Learn what types of information the public sought most last year from more than 2,000 federal websites, see emerging trends that are on the horizon for Search.gov, and check out the results page redesign. The data tab provides insightful summaries for 13 main topic areas and lists the public’s top 25 search terms for each, in their own words.
 
