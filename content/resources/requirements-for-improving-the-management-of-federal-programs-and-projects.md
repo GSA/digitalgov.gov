@@ -80,5 +80,5 @@ These strategies focus on clarifying key roles and responsibilities for program 
 {{< note >}} 
   Digital.gov provides information and resources for federal agencies related to web and digital policies. However, we cannot interpret the statutes or specific requirements.
   
-  Contact OMB’s Office of Performance and Personnel Management at [performance@omb.eop.gov](performance@omb.eop.gov) with any questions about interpretations of the law and guidance. 
+  Contact OMB’s Office of Performance and Personnel Management at [performance@omb.eop.gov](mailto:performance@omb.eop.gov) with any questions about interpretations of the law and guidance. 
 {{< /note >}}
