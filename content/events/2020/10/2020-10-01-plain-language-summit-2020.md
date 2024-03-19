@@ -55,7 +55,6 @@ In this session you will hear from the following speakers:
 * **10:35 am - 11:15 am: Putting Plain Language to the Test**&mdash;Nicole Fenton, Senior Content Strategist
   - {{< asset-static file="pl-summit-2020-nicole-fenton.pdf" label="View the slides (PDF, 18.7 MB, 43 pages)" >}}
 * **11:15 am - 12:15 pm: Keynote**&mdash;Mark Mchale, GSA's Senior Plain Language Official Associate Administrator, Office of Strategic Communications, GSA
-title="The Average American Reader Needs You to Write (Even More) Clearly"
 
 {{< youtube id="EsJh0GuGYDA" title="Plain Language Summit 2020 - First Session" >}}
 
