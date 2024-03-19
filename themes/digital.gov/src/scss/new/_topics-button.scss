@@ -18,7 +18,8 @@
     white-space: nowrap;
 
     @include at-media("tablet") {
-      padding-left: units(1);
+      padding-left: 6px;
+      padding-right: 6px;
     }
   }
 
