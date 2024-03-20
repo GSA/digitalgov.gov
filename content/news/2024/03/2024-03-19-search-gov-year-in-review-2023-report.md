@@ -4,8 +4,8 @@ source_url: https://search.gov/about/updates/year-in-review/2023-year-in-review/
 source: searchgov
 date: 2024-03-15 08:23:00 -0500
 title: "Search.gov year in review: 2023 report"
-deck: Learn what types of information was most searched for in 2023 on federal websites, see emerging trends on the horizon for improving customer experience, and check out three new features. The data tab provides insightful summaries for 13 popular topic areas—and lists the public’s top 25 search terms, in their own words, for each.
-summary: Learn what types of information was most searched for in 2023 on federal websites, see emerging trends on the horizon for improving customer experience, and check out three new features. The data tab provides insightful summaries for 13 popular topic areas—and lists the public’s top 25 search terms, in their own words, for each.
+deck: Learn what types of information people searched for on federal websites in 2023, see emerging trends on the horizon for improving customers' search experience, and check out three new updates. The data tab provides insightful summaries for 13 popular topic areas—and lists the public’s top 25 search terms, in their own words, for each.
+summary: Learn what types of information people searched for on federal websites in 2023, see emerging trends on the horizon for improving customers' search experience, and check out three new updates. The data tab provides insightful summaries for 13 popular topic areas—and lists the public’s top 25 search terms, in their own words, for each.
 
 # See all topics at https://digital.gov/topics
 topics:
