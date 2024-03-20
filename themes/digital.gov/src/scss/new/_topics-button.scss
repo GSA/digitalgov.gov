@@ -4,20 +4,21 @@
   margin-bottom: units("105");
 
   &__link {
-    @include u-font("sans", "sm");
-    @include u-text("medium");
-    @include u-text("no-underline");
-    @include u-bg("white");
-    @include u-text("primary-vivid");
-    @include u-border("1px", "primary-vivid", "solid");
     @include u-radius("sm");
+    background: white;
+    border: 1px color("primary-vivid") solid;
+    color: color("primary-vivid");
     display: block;
+    font-family: family("sans");
+    font-size: font-size("sans", "sm");
+    font-weight: font-weight("medium");
     overflow: auto;
-    padding: units(1);
+    text-decoration: none;
     transition: background-color 0.5s, color 0.5s;
     white-space: nowrap;
 
     @include at-media("tablet") {
+      overflow: auto;
       padding-left: 6px;
       padding-right: 6px;
     }
@@ -25,12 +26,12 @@
 
   &__arrow {
     @include u-float("right");
-    @include u-text("gray-1");
+    color: color("gray-1");
     display: none;
     margin-right: 10px;
     transition: margin 0.4s;
 
-    @include at-media("tablet-lg") {
+    @include at-media("desktop") {
       display: block;
     }
   }
@@ -45,25 +46,27 @@
   }
 
   &__number {
-    @include u-padding-x("05");
     @include u-radius("pill");
-    @include u-bg("primary-lightest");
-    @include u-text("base-darker");
-    @include u-font("sans", "2xs");
+    background: color("primary-lightest");
+    color: color("base-darker");
+    font-size: font-size("sans", "2xs");
     height: fit-content;
     margin: auto;
+    padding-bottom: units("05");
+    padding-top: units("05");
   }
 }
 
 .topics-button--primary {
   .topics-button__link {
+    padding: units(1);
     &:visited {
       color: color("primary-vivid");
     }
     &:hover {
-      @include u-bg("primary-vivid");
-      @include u-text("gray-1");
-      @include u-border("1px", "primary-vivid", "solid");
+      background: color("primary-vivid");
+      border: 1px color("primary-vivid") solid;
+      color: color("gray-1");
       .topics-button__arrow {
         margin-right: 0;
       }
@@ -80,9 +83,15 @@
 
   .topics-button__link {
     border: none;
+    font-weight: font-weight(400);
 
     &:visited {
       color: color("indigo-warm-60v");
+    }
+
+    @include at-media("tablet") {
+      padding: units(1);
+      padding-left: 0;
     }
   }
 
