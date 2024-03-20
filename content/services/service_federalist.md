@@ -15,7 +15,7 @@ source_url: "https://cloud.gov/pages/documentation/why-use-pages/"
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 logo: "pages"
 
-contact: federalist-inquiries@gsa.gov
+contact: inquiries@cloud.gov
 
 # Weight — controls how services appear across the site
 # 2 == will appear as related service (ADs) on blog posts and event pages
