@@ -84,11 +84,11 @@
 
     tr {
       th {
-          @include u-text("left");
-          @include u-text("bold");
-          @include u-border(0);
-          @include u-padding-x("05");
-          @include u-border("1px", "black", "solid");
+        @include u-text("left");
+        @include u-text("bold");
+        @include u-border(0);
+        @include u-padding-x("05");
+        @include u-border("1px", "black", "solid");
       }
       td {
         @include u-padding-y(1);
