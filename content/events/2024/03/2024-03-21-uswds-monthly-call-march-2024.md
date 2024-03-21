@@ -21,6 +21,8 @@ primary_image: 2024-uswds-monthly-call-march-title-card
 
 ---
 
+{{< asset-static file="uswds-monthly-call-march-2024.pptx" label="View the slides (Powerpoint presentation, 1.9 MB, 20 slides) >}}
+
 Join the U.S. Web Design System team for a lesson on customizing and extending USWDS. You’ll learn how to build new components that look and feel consistent with existing components.
 
 You’ll learn to:
