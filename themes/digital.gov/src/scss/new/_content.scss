@@ -75,43 +75,6 @@
     @include u-padding-left(5);
     @include u-border-left("05", "solid", "base-lighter");
   }
-
-  // tables
-  table {
-    @include u-margin-y(5);
-    @include u-font("sans", "xs");
-    @include u-width("full");
-
-    tr {
-      th {
-        @include u-text("left");
-        @include u-text("bold");
-        @include u-border(0);
-        @include u-padding-x("05");
-        @include u-border("1px", "black", "solid");
-      }
-      td {
-        @include u-padding-y(1);
-        @include u-padding-x("05");
-        @include u-border("1px", "black", "solid");
-        vertical-align: top;
-
-        a {
-          @include u-text("no-underline");
-
-          &:hover {
-            span {
-              @include u-text("underline");
-            }
-          }
-        }
-
-        .icon {
-          @include u-width("205");
-        }
-      }
-    }
-  }
 }
 
 .usa-prose > *:first-child {
