@@ -36,31 +36,23 @@ So thanks! And, with that, let's get started!
 
 **Slide 3:** So what's our agenda for today?
 
-Well, we’ve got a site launch, a few product updates, including an update on our roadmap goals, and then we’ll spend the rest of the time talking about launching an important new feature of our site: accessibility tests.
-
-We should also have some time for Q&A at the end of the hour.
+We’ve got a couple nice new site and feature launches, a couple product updates, and then we’ll spend the rest of the time talking about a USWDS component lifecycle model and our new approach to new-component proposals.
 
 **Slide 4:** Let's get into it with site launches.
 
-**Slide 5:** We've got one nice new site to show today: [MCC.gov](https://www.mcc.gov/). A new site for Millennium Challenge Corporation, a Congressional initiative that partners with the world’s poorest countries to invest in their populations and foster just and democratic governance and economic freedom. The home page for MCC.gov includes the gov banner, classic shades of blue, and a prominent hero image that features three circular flag images — Cabo Verde, the Philippines, and Tanzania— with the text “New MCC Grants Announced” in the bottom left of the image.
+**Slide 5:** First, [simpler.grants.gov](https://www.google.com/url?q=https://simpler.grants.gov&sa=D&source=docs&ust=1711052748736300&usg=AOvVaw2YSQ8xGM91WUdioPsTCZMY), an exciting new initiative from the grants.gov team at the department of Health and Human Services. Well, grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Simpler.grants.gov is a new site from the grants.gov team that's using a transparent, iterative, and agile process to document their progress modernizing and improving the grants.gov service. It's an exciting project where they'll be building software out in the open, and I for one, am pretty interested in their approach and their progress! The simpler.grants.gov homepage features a simple, text-focused layout, with a large blue hero field and the words "We're building a simpler Grants.gov!"
 
-**Slide 6:** Congratulations and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
+**Slide 6:** Next, [Search.gov](https://www.google.com/url?q=https://search.gov&sa=D&source=docs&ust=1711052748730824&usg=AOvVaw3N-xMZKFbY9VHxVGWKAjS-) is starting to roll out hosted search results pages powered by USWDS code. You know search.gov, right? It's the search engine by and for the federal government, a free service powering search results on over 2,000 websites. Well earlier this year they released a beta of a USWDS-based redesign of their hosted results page. Now Digital.gov is the first site to be able to use it, hosting a USWDS-powered search result layout! Search.gov and DigitalGov — a real chocolate and peanut butter combination in my book. On this slide we see the [Digital.gov search results](https://www.google.com/url?q=https://find.digitalgov.gov/search?utf8%3D%25E2%259C%2593%26affiliate%3Ddigitalgov%26query%3Dusability%26commit%3D&sa=D&source=docs&ust=1711052748731793&usg=AOvVaw1J9MZWOISXo_njMu-hJ7Ti) page for the keyword "usability". We see a clean display of search results, as well as a way to select between all search results and just videos.  
 
-**Slide 7:** Now for a few product updates.
+**Slide 7:** Congratulations and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
-**Slide 8:** First, USWDS 3.8.0, featuring a focus on community PRs. We get a lot of good contributions from the community, and we're happy to publish a number of these contributions in this new release.
+**Slide 8:** 
 
-**Slide 9:** Key improvements in USWDS 3.8.0 include:
-* Adding support for sticky headers in tables.
-* Better text wrapping and alignment in button groups (especially with longer button text).
-* We're also improving icon alignment in buttons as well.
-* We're giving teams more control over the headings included in in-page navigation, if you need to be more specific about which heading levels should be pulled into the in-page navigation.
-* We're also adding contrast checking for disabled elements. Technically disabled or inactive elements don't have the same contrast requirements as active elements, but teams increasingly want to deliver designs that go beyond the requirements, and this release will help teams understand any potential low-contrast elements.
-* And finally, indeterminate checkboxes. It turns out there can be three potential states for a checkbox: checked, unchecked, and indeterminate, for when, in a multi-level checklist, a parent checkbox contains child checkboxes in both checked and unchecked states. It's a bit of a complex case, but a real one, and we're happy to be able to support it.
+**Slide 9:** 
 
-**Slide 10:** Those features, and others, make up USWDS 3.8.0, coming soon: by the end of the month.
+**Slide 10:** 
 
-**Slide 11:** Next, I wanted to take a couple minutes to give an update on the items in our development roadmap. Currently we're on a planning cadence where we update our roadmap and schedule once a quarter, and we just finished planning for this quarter. Going forward, we expect to give these roadmap updates every three months.
+**Slide 11:** 
 
 **Slide 12:** So, first up, web components. We expect to deliver a mature beta of USWDS web components by this fall, October 2024. Upcoming milestones include:
 * This month we're planning for a web components working group: identifying folks who can actively help us through this process, and also planning for sequencing and scheduling.
