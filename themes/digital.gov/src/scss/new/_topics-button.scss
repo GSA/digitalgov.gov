@@ -79,7 +79,6 @@
 .topics-button--count {
   display: flex;
   list-style: none;
-  margin-bottom: 0;
   transition: none;
   width: fit-content;
   margin-bottom: px-to-rem(12px);
@@ -88,7 +87,6 @@
     column-count: 3;
     margin-bottom: 0;
   }
-
 
   .topics-button__link {
     border: none;
@@ -104,5 +102,4 @@
       margin-bottom: 0;
     }
   }
-
 }
