@@ -195,7 +195,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
 
 - Ask your contact center and front-line staff which questions they’re asked most often
 - Document and share common questions
-    - [FAFSA Help](https://fafsa.ed.gov/help.htm) &#8211; ED
+    - [FAFSA Help](https://studentaid.gov/apply-for-aid/fafsa/filling-out/help) &#8211; ED
     - [Common Questions](http://portal.hud.gov/hudportal/HUD?src=/faqs) &#8211; Department of Housing and Urban Development (HUD)
     - [Frequently Asked Questions: Smoking & Tobacco Use](http://www.cdc.gov/tobacco/about/faq/index.htm) &#8211; CDC
 
@@ -288,7 +288,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 - [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) - website analytics
 - [Search.gov](http://www.search.gov/) - hosted search service
 - [Federalist](https://federalist.18f.gov/) - web publishing platform
-- [DOI Federal Consulting Group (FCG)](https://www.fcg.gov/) - survey tools and analysis support
+- [DOI Federal Consulting Group (FCG)](https://www.doi.gov/fcg) - survey tools and analysis support
 
 ### Engage your team
 
@@ -304,7 +304,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
     - [Code for America Analytics Dashboard](https://dashboard-setup.codeforamerica.org/)
 - Agency examples
     - [Digital Metrics Dashboard](http://www.cdc.gov/metrics/) &#8211; CDC
-    - [Annual Performance Report—Fiscal Years 2014–2016](http://www.dhs.gov/sites/default/files/publications/DHS-FY-2014-FY-2016-APR_1_0.pdf) &#8211; DHS
+    - [Annual Performance Report—Fiscal Years 2014–2016](https://www.dhs.gov/sites/default/files/publications/DHS-FY-2014-FY-2016-APR_1_0.pdf) (PDF, 3.1 KB, 136 Pages, 2014-2016) &#8211; DHS
 
 ## Digital Services
 
@@ -324,7 +324,7 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
 ### Communicate clearly
 
 - [Plain Language and Writing for the Web](https://www.youtube.com/watch?v=j9FCji6-UJE) &#8211; video
-- [DHS CX Glossary]([url](https://www.dhs.gov/cx/glossary))
+- [DHS CX Glossary](https://www.dhs.gov/cx/glossary)
 - [Join the Federal Communicators Network](https://digital.gov/communities/federal-communicators-network/)
 
 ### Adopt shared services
