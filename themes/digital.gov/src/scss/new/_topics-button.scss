@@ -19,8 +19,10 @@
 
     @include at-media("tablet") {
       overflow: auto;
-      padding-left: 6px;
-      padding-right: 6px;
+      // padding-left: 6px;
+      // padding-left: px-to-rem(6px);
+      // padding-right: px-to-rem(6px);
+      // padding-right: 6px;
     }
   }
 
@@ -52,27 +54,30 @@
     font-size: font-size("sans", "2xs");
     height: fit-content;
     margin: auto;
-    padding-bottom: units("05");
-    padding-top: units("05");
+    padding-left: units("05");
+    padding-right: units("05");
   }
 }
 
-.topics-button--primary {
-  .topics-button__link {
-    padding: units(1);
-    &:visited {
-      color: color("primary-vivid");
-    }
-    &:hover {
-      background: color("primary-vivid");
-      border: 1px color("primary-vivid") solid;
-      color: color("gray-1");
-      .topics-button__arrow {
-        margin-right: 0;
-      }
-    }
-  }
-}
+.topics-button--primary  .topics-button__link {  
+  padding: units(1); 
+  padding-left: units(.5); 
+
+  &:visited {  
+    color: color("primary-vivid");  
+  }  
+
+  &:hover {  
+    background: color("primary-vivid");  
+    border: 1px color("primary-vivid") solid;  
+    color: color("gray-1");  
+    
+    .topics-button__arrow {  
+      margin-right: 0;  
+    }  
+  }  
+}  
+
 
 .topics-button--count {
   display: flex;
