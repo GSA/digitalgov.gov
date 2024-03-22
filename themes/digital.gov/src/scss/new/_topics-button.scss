@@ -19,10 +19,8 @@
 
     @include at-media("tablet") {
       overflow: auto;
-      // padding-left: 6px;
-      // padding-left: px-to-rem(6px);
-      // padding-right: px-to-rem(6px);
-      // padding-right: 6px;
+      padding-left: px-to-rem(6px);
+      padding-right: px-to-rem(6px);
     }
   }
 
