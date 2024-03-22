@@ -79,9 +79,9 @@
 .topics-button--count {
   display: flex;
   list-style: none;
+  margin-bottom: px-to-rem(12px);
   transition: none;
   width: fit-content;
-  margin-bottom: px-to-rem(12px);
 
   @include at-media("tablet") {
     column-count: 3;
@@ -97,9 +97,9 @@
     }
 
     @include at-media("tablet") {
+      margin-bottom: 0;
       padding: units(1);
       padding-left: 0;
-      margin-bottom: 0;
     }
   }
 }
