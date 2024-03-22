@@ -2,63 +2,53 @@
   {{ $now := now.Format "2006-01-02" }}
 
 
-  <main role="main" id="main-content">
+  <main role="main" id="main-content" class="grid-container-desktop">
     <header class="page-head page-head-{{- .Type -}}">
-      <div class="grid-container grid-container-desktop">
-        {{/* Page Title */}}
-        <h1>{{- .Title | markdownify -}}</h1>
+      <h1>{{- .Title | markdownify -}}</h1>
 
-        {{/* Deck */}}
-        {{- if .Params.deck -}}
-          <div class="deck">{{- .Params.deck | markdownify -}}</div>
-        {{- end -}}
+      {{- if .Params.deck -}}
+        <div class="deck">{{- .Params.deck | markdownify -}}</div>
+      {{- end -}}
 
 
-        <div class="join-buttons">
-          <a href="https://www.youtube.com/@DigitalGov">Video library</a>
-          <a href="#events-past">Past events</a>
-        </div>
+      <div class="join-buttons">
+        <a href="https://www.youtube.com/@DigitalGov">Video library</a>
+        <a href="#events-past">Past events</a>
       </div>
     </header>
 
+    {{/* Upcoming events */}}
     <section class="upcoming-events article-list">
-      <div class="grid-container grid-container-desktop">
-        <h2>Upcoming Events</h2>
+      <h2>Upcoming Events</h2>
 
-        {{/* Show upcoming events up until event ends */}}
-        {{ range where .Site.Pages.Reverse "Params.End_date" ">=" $now }}
-          {{ if .Params.registration_url }}
-            {{ .Render "card-event" }}
-          {{ end }}
-        {{ else }}
-          {{/* @TODO Add as an option for card refactor */}}
-          <div class="upcoming-events__placeholder card card--placeholder">
-            <h3>Upcoming events will be added soon.</h3>
-            To be notified of new events,
-            <a href="{{ "subscribe" | relURL }}">subscribe to our newsletter</a
-            >!
-          </div>
+      {{/* Show upcoming events up until event ends */}}
+      {{ range where .Site.Pages.Reverse "Params.End_date" ">=" $now }}
+        {{ if .Params.registration_url }}
+          {{ .Render "card-event" }}
         {{ end }}
-      </div>
+      {{ else }}
+        {{/* @TODO Add as an option for card refactor */}}
+        <div class="upcoming-events__placeholder card card--placeholder">
+          <h3>Upcoming events will be added soon.</h3>
+          To be notified of new events,
+          <a href="{{ "subscribe" | relURL }}">subscribe to our newsletter</a>!
+        </div>
+      {{ end }}
     </section>
 
     {{/* Past events */}}
-    <section id="events-past">
-      <header>
-        <div class="grid-container grid-container-desktop">
-          <h2>Past Events</h2>
-        </div>
+    <section id="events-past" class="margin-top-4">
+      <header class="margin-bottom-0">
+        <h2>Past Events</h2>
       </header>
       <div class="article-list">
-        <div class="grid-container grid-container-desktop">
-          {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-          {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-            {{ $endDate := .Params.End_date | time.Format "2006-01-02" }}
-            {{ if lt $endDate $now }}
-              {{ .Render "card-event" }}
-            {{ end }}
+        {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+        {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+          {{ $endDate := .Params.End_date | time.Format "2006-01-02" }}
+          {{ if lt $endDate $now }}
+            {{ .Render "card-event" }}
           {{ end }}
-        </div>
+        {{ end }}
       </div>
     </section>
   </main>

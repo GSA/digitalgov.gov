@@ -1,76 +1,63 @@
 {{ define "content" }}
-  <main role="main" id="main-content">
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header class="page-head page-head-{{- .Type -}}">
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}}</h1>
+  {{/* Gets the past events */}}
+  {{- $events := where .Site.RegularPages.ByDate.Reverse "Section" "events" -}}
+  {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+  {{- $all_events := union $past_events $events -}}
 
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-              <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
-            {{- end -}}
+  {{/* Gets the recent blog posts */}}
+  {{- $posts := where .Pages "Section" "news" -}}
+
+  {{/* Merges the past events and the recent blog posts */}}
+  {{ $stream := union $all_events $posts }}
 
 
-            <div class="join-buttons">
-              <a href="{{- "/join" | absURL -}}">Write for us</a>
-            </div>
-          </header>
+  <main role="main" id="main-content" class="grid-container-desktop">
+    <header class="page-head page-head-{{- .Type -}} grid-row">
+      <div class="grid-col-12">
+        <h1>{{- .Title | markdownify -}}</h1>
+
+        {{- if .Params.deck -}}
+          <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
+        {{- end -}}
+
+
+        <div class="join-buttons">
+          <a href="{{- "/join" | absURL -}}">Write for us</a>
         </div>
       </div>
-    </div>
+    </header>
 
     <section class="stream">
-      <div class="grid-container grid-container-desktop">
-        {{/* Blog Posts by Topic —
-          List all of the blog posts tagged with this topic
-        */}}
+      {{/* If there are any items at all... */}}
+      {{- if $stream -}}
+        {{/* Loop through all the pages */}}
+        {{/* Also sorting all the items by date and reverse chron */}}
+        {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
 
-        {{/* Gets the past events */}}
-        {{- $events := where .Site.RegularPages.ByDate.Reverse "Section" "events" -}}
+          {{- if eq .Type "events" -}}
+            {{- .Render "card-event" -}}
+          {{- end -}}
 
-        {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-        {{ $all_events := union $past_events $events }}
-
-        {{/* Gets the recent blog posts */}}
-        {{- $posts := where .Pages "Section" "news" -}}
-
-        {{/* Merges the past events and the recent blog posts */}}
-        {{ $stream := union $all_events $posts }}
-
-        {{/* If there are any items at all... */}}
-        {{- if $stream -}}
-          {{/* Loop through all the pages */}}
-          {{/* Also sorting all the items by date and reverse chron */}}
-          {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
-
-            {{- if eq .Type "events" -}}
-              {{- .Render "card-event" -}}
-            {{- end -}}
-
-            {{- if eq .Type "news" -}}
-              {{/* External links */}}
-              {{- if .Params.source -}}
+          {{- if eq .Type "news" -}}
+            {{/* External links */}}
+            {{- if .Params.source -}}
+              {{/* see /layouts/news/ for card templates */}}
+              {{ .Render "card-elsewhere" }}
+            {{ else }}
+              {{/* Blog Posts — Internal links */}}
+              {{- if .Params.deck }}
                 {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-elsewhere" }}
+                {{ .Render "card-article" }}
               {{ else }}
-                {{/* Blog Posts — Internal links */}}
-                {{- if .Params.deck }}
-                  {{/* see /layouts/news/ for card templates */}}
-                  {{ .Render "card-article" }}
-                {{ else }}
-                  {{/* see /layouts/news/ for card templates */}}
-                  {{ .Render "card-article" }}
-                {{ end }}
+                {{/* see /layouts/news/ for card templates */}}
+                {{ .Render "card-article" }}
               {{ end }}
-            {{- end -}}
+            {{ end }}
+          {{- end -}}
 
-          {{ end }}
         {{ end }}
-        {{ partial "core/pagination.html" . }}
-      </div>
+      {{ end }}
+      {{ partial "core/pagination.html" . }}
     </section>
   </main>
 {{ end }}
