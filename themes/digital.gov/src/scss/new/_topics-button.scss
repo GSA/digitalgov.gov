@@ -82,6 +82,13 @@
   margin-bottom: 0;
   transition: none;
   width: fit-content;
+  margin-bottom: px-to-rem(12px);
+
+  @include at-media("tablet") {
+    column-count: 3;
+    margin-bottom: 0;
+  }
+
 
   .topics-button__link {
     border: none;
@@ -94,10 +101,8 @@
     @include at-media("tablet") {
       padding: units(1);
       padding-left: 0;
+      margin-bottom: 0;
     }
   }
 
-  @include at-media("tablet-lg") {
-    column-count: 3;
-  }
 }
