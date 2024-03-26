@@ -243,10 +243,6 @@
     }
   }
 
-  .card-event__host {
-    @include u-display("none");
-  }
-
   .card-event__date {
     @include u-text("gray-cool-50");
     @include u-text("normal");
