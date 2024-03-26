@@ -75,6 +75,12 @@
     @include u-padding-left(5);
     @include u-border-left("05", "solid", "base-lighter");
   }
+
+  table {
+    tr {
+      vertical-align: super;
+    }
+  }
 }
 
 .usa-prose > *:first-child {
