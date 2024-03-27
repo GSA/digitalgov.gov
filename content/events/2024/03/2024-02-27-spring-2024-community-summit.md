@@ -71,7 +71,7 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 {{< img-right src="250-eop-omb-executive-office-president-office-management-budget" >}}
 
-Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, OMB
+Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, OMB<br /><br /><br /><br />
 
 {{< youtube id="uwedXPjqOLE" title="Opening keynote with Clare Martorana" >}}
 
@@ -210,7 +210,7 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 {{< img-right src="gsa-blue-logo-sq" >}}
 
-Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
+Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA<br /><br /><br /><br />
 
 {{< youtube id="5cnCfuXevgA" title="Closing remarks with Ann Lewis" >}}
 
