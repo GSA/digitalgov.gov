@@ -38,6 +38,8 @@ Email [digitalgov@gsa.gov](digitalgov@gsa.gov) to submit your ideas for web cont
 
 * [Blog posts](https://digital.gov/news/): Submit a newsworthy 500- to 750-word article to share a case study, success story, or challenge you faced while working to make federal digital services better for the public.
 
+* [Content updates](https://github.com/GSA/digitalgov.gov): Want to report a bug? Create a pull request, describe the issue, and apply any relevant labels.
+
 {{< box color="light-gray" >}} **Did you know?** Digital.gov follows the [Associated Press (AP) Stylebook](https://www.apstylebook.com/) and [general plain language guidance](https://www.plainlanguage.gov/). When we make edits, it’s to ensure the content reaches and engages our audience. View our full [Digital.gov Style Guide](https://digital.gov/style-guide/).{{< /box >}}
 
 ### Informational events
