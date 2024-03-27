@@ -16,7 +16,7 @@ aliases:
   - /topics/americans-with-disabilities-act/
   - /topics/section-508/
 # Weight
-weight: 2
+weight: 3
 
 # Set the legislation card title and link
 legislation:
