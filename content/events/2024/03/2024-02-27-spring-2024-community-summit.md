@@ -212,6 +212,8 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
 
+{{< youtube id="5cnCfuXevgA" title="Closing remarks with Ann Lewis" >}}
+
 ---
 
 ## Resources
