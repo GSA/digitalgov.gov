@@ -72,13 +72,13 @@ The third strategy uses a new or updated job series, or a job identifier, to bet
 These strategies focus on clarifying key roles and responsibilities for program management, identifying principles-based standards, holding managers accountable for results, and building a capable program management workforce.
 
 {{< ring title="OMB Memo M-18-19">}}
-  In part, this memo provides further policy guidance to help agencies fully implement the PMIAA. 
+  In part, this memo provides further policy guidance to help agencies fully implement the PMIAA.
 
   [Explore OMB Memo M-18-19: Improving the Management of Federal Programs and Projects through Implementing the PMIAA (PDF, 1.8 MB, 30 pages)](https://www.whitehouse.gov/wp-content/uploads/2018/06/M-18-19.pdf)
 {{< /ring >}}
 
-{{< note >}} 
+{{< note >}}
   Digital.gov provides information and resources for federal agencies related to web and digital policies. However, we cannot interpret the statutes or specific requirements.
   
-  Contact OMB’s Office of Performance and Personnel Management at [performance@omb.eop.gov](mailto:performance@omb.eop.gov) with any questions about interpretations of the law and guidance. 
+  Contact OMB’s Office of Performance and Personnel Management at [performance@omb.eop.gov](mailto:performance@omb.eop.gov) with any questions about interpretations of the law and guidance.
 {{< /note >}}

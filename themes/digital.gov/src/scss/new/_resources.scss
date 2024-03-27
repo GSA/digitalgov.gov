@@ -1,12 +1,5 @@
 @use "uswds-core" as *;
 
-// .paper sets the background-color for the page
-.resources.section {
-  .paper {
-    @include u-bg("blue-warm-5");
-  }
-}
-
 .main-resources {
   .in-page {
     @include u-bg("gray-warm-3");
