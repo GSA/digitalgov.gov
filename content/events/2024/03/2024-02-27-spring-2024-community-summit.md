@@ -89,7 +89,7 @@ Hear from a panel of experts on making the case for building a digital team with
 * **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue (ONRR), U.S. Department of the Interior (DOI)
 * **Robert Jolly** — Product Manager, 10x, U.S. General Services Administration (GSA)
 * **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
-  * **Gregory Your** — Director of Website Management, U.S. Agency for International Development (USAID)
+* **Gregory Your** — Director of Website Management, U.S. Agency for International Development (USAID)
 
 <table style="width:100%; border:0px;">
 <tr>
@@ -208,7 +208,7 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 <img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a medium blue square." width="150px">
 
-Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
+Closing remarks with Ann Lewis, Director, Technology Transformation Services (TTS), GSA
 
 {{< youtube id="5cnCfuXevgA" title="Closing remarks with Ann Lewis" >}}
 
