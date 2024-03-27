@@ -232,6 +232,7 @@
 // Past events
 // ==========================================================================
 .card-event--past {
+  width: 100%;
   .card-event__date-label {
     @include u-display("none");
 
@@ -240,10 +241,6 @@
 
       justify-content: center;
     }
-  }
-
-  .card-event__host {
-    @include u-display("none");
   }
 
   .card-event__date {

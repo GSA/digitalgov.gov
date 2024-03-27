@@ -51,13 +51,6 @@
         </div>
       {{- end -}}
 
-      {{- if .Params.host -}}
-        <p class="card-event__host">
-          Hosted by Digital.gov and the
-          {{ .Params.host }}
-        </p>
-      {{- end -}}
-
       {{ if $isPastEvent }}
         {{- partial "core/get_authors_short.html" . -}}
       {{ end }}
