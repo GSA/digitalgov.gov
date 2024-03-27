@@ -2,7 +2,7 @@
 date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for product managers"
 deck: ""
-summary: ""
+summary: "Product managers play a vital role in communicating accessibility requirements early in the project lifecycle, ensuring each team member knows their responsibility, and keeping the team accountable for building accessible products."
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
@@ -14,17 +14,21 @@ topics:
 layout: single
 ---
 
+## Getting started
+
 Product managers play a vital role in communicating accessibility requirements early in the project lifecycle, ensuring each team member knows their responsibility, and keeping the team accountable for building accessible products. Following these steps, you’ll make sure you’re not only following legal requirements, but making your product more usable for everyone.
 
 
-## Why you should care
+### Why you should care
 
 Any product released by the government must conform to the standards of [Section 508](https://www.section508.gov/) (which aligns with the [W3C Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG20/quickref/)), a law that ensures all web content is accessible to anybody with a disability. Not following these requirements poses significant legal risks for any government entity.
 
 If you have project-specific questions, ask your agency’s accessibility team.
 
 
-## Learn the basics of accessibility and what your team does to make content accessible
+## Accessibility basics
+
+Learn the basics of accessibility and what your team does to make content accessible
 
 ### Steps to take
 
@@ -37,7 +41,9 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - Learn how to [navigate a webpage using only your keyboard]({{< link "/guides/accessibility-for-teams/visual-design/#keyboard-access" >}}) and [learn how to use VoiceOver]({{< link "/guides/accessibility-for-teams/visual-design" >}}) so you can spot check new features when necessary.
 
 
-## Consider how everyone will use the product
+## Diverse users
+
+Consider how everyone will use the product.
 
 ### Steps to take
 
@@ -51,7 +57,9 @@ If you have project-specific questions, ask your agency’s accessibility team.
 - [Personas for Accessible UX](https://prod.rm.gfolkdev.net/a-web-for-everyone/personas-for-accessible-ux/)
 
 
-## Build accessibility into your project workflow rather than retrofitting it at the end
+## Project workflow
+
+Build accessibility into your project workflow rather than retrofitting it at the end.
 
 ### Steps to take
 
@@ -67,8 +75,9 @@ If you have project-specific questions, ask your agency’s accessibility team.
     - Minor issues will cause problems or frustration for a small number of users.
   - Consider prioritizing the issue if it appears on high-touch pages, critical user paths, or site-wide templates.
 
+## Final review
 
-## Request a final review from an accessibility expert
+Request a final review from an accessibility expert.
 
 ### Steps to take
 
