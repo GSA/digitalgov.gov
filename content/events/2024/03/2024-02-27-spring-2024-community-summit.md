@@ -73,6 +73,8 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, OMB
 
+{{< youtube id="uwedXPjqOLE" title="Opening keynote with Clare Martorana" >}}
+
 ---
 
 ### 10:10 am - 11:00 am, ET
