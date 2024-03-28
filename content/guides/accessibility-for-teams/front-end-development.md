@@ -2,7 +2,7 @@
 date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for front-end developers"
 deck: ""
-summary: "Accessible front-end development ensures people with different abilities can access, understand, and navigate web content, regardless of how they're accessing it. Front-end developers collaborate with other members of a cross-functional team to implement a robust user experience."
+summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
@@ -15,6 +15,8 @@ layout: single
 ---
 
 ## Getting started
+
+Accessible front-end development ensures people with different abilities can access, understand, and navigate web content, regardless of how they're accessing it. Front-end developers collaborate with other members of a cross-functional team to implement a robust user experience.
 
 **How to use this guide:**
 
@@ -42,15 +44,19 @@ Can you reach anything that’s interactive using the tab key?
 ### Resources
 
 Web Content Accessibility Guidelines (WCAG) 2.0 references:
+
 - [2.1 Keyboard Accessible (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
 - [2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)
 - [2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-trapping)
 - [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-order)
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
 
-**Video tutorial: How I do an accessibility check**
+Video tutorial:
+
+**How I do an accessibility check**
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
+
 
 ## Screen reader
 
@@ -88,11 +94,13 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 
-**Video tutorial: Screen Reader Basics: VoiceOver**
+Video tutorials:
+
+- Screen Reader Basics: VoiceOver
 
 {{< youtube id="5R-6WvAihms" title="Screen Reader Basics: VoiceOver" start_time="145" >}}
 
-**Video tutorial: How I do an accessibility check (screen reader)**
+- Video tutorial: How I do an accessibility check (screen reader)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check (screen reader)" start_time="145" >}}
 
@@ -126,9 +134,12 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 {{< youtube id="ZHWcs5d9IqA" title="Using Headings" >}}
 
-**Video tutorial: How I do an accessibility check (page structure)**
+Video tutorial:
+
+- How I do an accessibility check (page structure)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check (screen reader)" start_time="381" >}}
+
 
 ## Page structure
 
@@ -150,7 +161,9 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
 
-**Video tutorial: Landmarks**
+Video tutorial:
+
+- Landmarks
 
 {{< youtube id="bww3IaktlRY" title="Landmarks" start_time="12" >}}
 
@@ -190,12 +203,11 @@ Is there enough contrast between text and its background color?
 - Rohit has low vision and needs content to have enough contrast to read it. 
 - Esther is red-green colorblind and can’t make sense of information conveyed with color alone.
 
-
 ### Steps to take
 
-- Use a [color contrast](http://webaim.org/resources/contrastchecker/) tool and test that the contrast between the text and background is greater than or equal to 4.5:1.
-- Use an [automated tool](http://wave.webaim.org/) to quickly scan for color contrast problems.
-- Don’t use color alone to convey meaning. Use icons, text, and other visual elements to reinforce the meaning of the content.
+1. Use a [color contrast](http://webaim.org/resources/contrastchecker/) tool and test that the contrast between the text and background is greater than or equal to 4.5:1.
+2. Use an [automated tool](http://wave.webaim.org/) to quickly scan for color contrast problems.
+3. Don’t use color alone to convey meaning. Use icons, text, and other visual elements to reinforce the meaning of the content.
 
 ### Resources
 
@@ -206,11 +218,13 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
-**Video tutorial: Meeting contrast requirements**
+Video tutorials:
+
+- Meeting contrast requirements
 
 {{< youtube id="gH1JieTZQ1k" title="Meeting Contrast Requirements" >}}
 
-**Video tutorial: How I do an accessibility check (contrast)**
+- How I do an accessibility check (contrast)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility checks" start_time="516" >}}
 
@@ -236,6 +250,12 @@ Always combine automated testing with ongoing manual testing. Manual testing is 
 
 - [GOV.UK: What we found when we tested tools on the world’s least-accessible webpage](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/)
 
-**Video tutorial: How I do an accessibility check (tools and extensions)**
+Video tutorial:
+
+- How I do an accessibility check (tools and extensions)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility checks" start_time="537" >}}
+
+---
+
+**Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
