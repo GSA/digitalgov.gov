@@ -4,12 +4,20 @@ title: "Accessibility for Teams"
 deck: "A ‘quick-start’ guide for embedding accessibility and inclusive design practices into your team’s workflow"
 summary: "A ‘quick-start’ guide for embedding accessibility and inclusive design practices into your team’s workflow"
 guide: accessibility-for-teams
-image: gettyimages-1073019390
-primary_image: guide-dap
+image: 
+primary_image: 
 topics:
   - accessibility
   - product-and-project-management
   - user-experience
+  - design
+  - content-strategy
+  - human-centered-design
+  - user-centered-design
+  - software-engineering
+  - mobile
+  - usability
+  - research
 layout: single
 ---
 
