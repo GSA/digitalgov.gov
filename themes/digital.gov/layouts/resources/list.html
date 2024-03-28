@@ -120,9 +120,8 @@
       </section>
 
       <section class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <h2>Resources by Topic</h2>
-        </div>
+        <h2>Resources by Topic</h2>
+
         <div class="grid-row tablet:grid-gap-2">
           {{- $top_topics := $.Site.Taxonomies.topics -}}
           {{- range $name, $taxonomy := $top_topics -}}
