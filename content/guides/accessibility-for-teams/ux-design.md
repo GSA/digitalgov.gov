@@ -100,7 +100,9 @@ Here are some other best practices for tab order.
 - Users should be able to tab through interactive items in a logical order, usually from left to right and top to bottom. Sometimes a logical order will be obvious to your front end team based on a simple layout, but in more complicated layouts you may need to identify the tab order in your wireframes or mockups.
 - Each interactive element should have a visible focus state, work with your visual designer to make sure you’ve accounted for these.
 
-### Web Content Accessibility Guidelines (WCAG) references
+### Resources
+
+Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-sequence)
 - [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-order)
@@ -119,7 +121,9 @@ Have you designed for logical focus behavior on interactive elements?
 
 Work with your front-end designer to identify any interactions on the page that require JavaScript or that can’t be created using default HTML elements. You should intentionally design how focus flows through these interactions.
 
-### Web Content Accessibility Guidelines (WCAG) references
+### Resources
+
+Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [2.4.3 Focus Order](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-order)
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-visible)
@@ -146,7 +150,9 @@ Have you included navigation shortcuts for screen reader and keyboard users?
    - form
 2. Include a “Skip to main content” link before the header for keyboard users. Keyboard users can’t take advantage of landmark navigation so a skip link helps them navigate more quickly. This link can be visually hidden but [should become visible when it has focus](http://webaim.org/techniques/skipnav/#hidden).
 
-### Web Content Accessibility Guidelines (WCAG) references
+### Resources
+
+Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
