@@ -49,11 +49,13 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [Guideline 1.4.3 – Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
-**Video tutorial:** Meeting contrast requirements
+Video tutorials:
+
+**Meeting contrast requirements**
 
 {{< youtube id="gH1JieTZQ1k" title="Meeting Contrast Requirements" >}}
 
-**Video tutorial:** How I do an accessibility check (contrast)
+**How I do an accessibility check (contrast)**
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
@@ -271,7 +273,9 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 - [2.4.3 Focus Order\| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-order)
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
 
-**Video tutorial:** How I do an accessibility check
+Video tutorial:
+
+**How I do an accessibility check**
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
@@ -311,11 +315,14 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 
-**Video tutorial:** Screen Reader Basics: VoiceOver
+
+Video tutorials:
+
+**Screen Reader Basics: VoiceOver**
 
 {{< youtube id="5R-6WvAihms" title="Screen Reader Basics: VoiceOver" >}}
 
-**Video tutorial:** How I do an accessibility check (screen reader)
+**How I do an accessibility check (screen reader)**
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
