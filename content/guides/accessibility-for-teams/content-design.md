@@ -234,8 +234,7 @@ Is everyone able to access your multimedia content?
 2. Captions do not need to be a word-for-word version of the audio, but should be a concise equivalent.
 3. Use a modern video player that supports captions.
 4. If you've captioned your video, provide a transcript as one of the optional output formats produced by the closed captioning process. 
-  - To make the transcript available, link to it from your web page, wherever you link to or display the associated video.
-
+   - To make the transcript available, link to it from your web page, wherever you link to or display the associated video.
 5. Audio description is required when important information is visually shown on the screen that cannot be observed by a blind or vision-impaired individual.  
 
 ### About transcripts
