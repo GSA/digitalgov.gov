@@ -88,3 +88,7 @@ Request a final review from an accessibility expert.
 ### Resources
 
 - [Find your agency's 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/)
+
+---
+
+**Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
