@@ -2,7 +2,7 @@
 date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for visual designers"
 deck: ""
-summary: "Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality."
+summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
@@ -16,6 +16,8 @@ layout: single
 
 ## Getting started
 
+Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality.
+
 **How to use this guide:**
 
 - We recommend planning for accessibility in your design process and regularly conducting accessibility testing throughout the design and development processes.
@@ -23,13 +25,13 @@ layout: single
 
 ## Color and Contrast
 
-1) Is there enough contrast between text and its background color?
+### Is there enough contrast between text and its background color?
 
-### Why it’s important
+#### Why it’s important
 
 - Esther has low vision and needs content to have enough contrast to read it.
 
-### Steps to take
+#### Steps to take
 
 1. Provide good contrast. Make sure the contrast between the text and background is greater than or equal to 4.5:1 for small text and 3:1 for large text.
    - Test your color palette for accessible combinations with [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/) or [Contrast Grid](http://contrast-grid.eightshapes.com/).
@@ -41,33 +43,33 @@ layout: single
 3. Slightly temper the contrast between your text and background color. For example: don’t use pure black text on a pure white background. Stark contrast can result in blurred or moving text for people with Irlen syndrome.
 4. To use text over images, add a solid background behind the text or a dark overlay to the image.
 
-### Resources
+#### Resources
 
 Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [Guideline 1.4.3 – Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
-**Video tutorial: Meeting contrast requirements**
+**Video tutorial:** Meeting contrast requirements
 
 {{< youtube id="gH1JieTZQ1k" title="Meeting Contrast Requirements" >}}
 
-**Video tutorial: How I do an accessibility check (contrast)**
+**Video tutorial:** How I do an accessibility check (contrast)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
 
-2) Can you still understand everything the design is communicating without depending on color?
+### Can you still understand everything the design is communicating without depending on color?
 
-### Why it’s important
+#### Why it’s important
 
 - Joel is red-green colorblind and can’t reliably make sense of information conveyed with color alone.
 
-### Steps to take
+#### Steps to take
 
 1. Don’t use color alone to convey meaning. Use icons, written content, and other visual elements to reinforce clear communication of the content.
 2. Test what it’s like to view your designs through a [color blindness simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/).
 
-### Resources
+#### Resources
 
 Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
@@ -237,9 +239,9 @@ Can you understand key information and perform critical tasks on a mobile device
 2. Make touch targets at least 48px. This will allow the target to be tapped by the average adult finger pad, which measures 10mm. The icons may be smaller and you can work with your developer to extend padding past the icon.
 3. In most cases, touch targets are separated by 8px of space or more to ensure users don't select the wrong action.
 
-### Web Content Accessibility Guidelines (WCAG) 2.0 references
+### Resources
 
-Mobile Accessibility: How WCAG 2.0 and Other World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) Guidelines Apply to Mobile
+Mobile Accessibility: How WCAG 2.0 and Other World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) Guidelines Apply to Mobile:
 
 - [3.2 Touch Target Size and Spacing](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
 - [3.5 Placing buttons where they are easy to access](https://www.w3.org/TR/mobile-accessibility-mapping/#placing-buttons-where-they-are-easy-to-access)
@@ -269,7 +271,7 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 - [2.4.3 Focus Order\| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-order)
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
 
-**Video tutorial: How I do an accessibility check**
+**Video tutorial:** How I do an accessibility check
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
@@ -309,11 +311,11 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 
-**Video tutorial: Screen Reader Basics: VoiceOver**
+**Video tutorial:** Screen Reader Basics: VoiceOver
 
 {{< youtube id="5R-6WvAihms" title="Screen Reader Basics: VoiceOver" >}}
 
-**Video tutorial: How I do an accessibility check (screen reader)**
+**Video tutorial:** How I do an accessibility check (screen reader)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
