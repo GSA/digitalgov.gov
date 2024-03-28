@@ -2,7 +2,7 @@
 date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for visual designers"
 deck: ""
-summary: ""
+summary: "Everyone benefits from designs that are easier to see. A clean and clear visual presentation helps everyone make sense of a website's information and functionality."
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
@@ -17,6 +17,8 @@ layout: single
 Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality.
 
 ## Color and Contrast
+
+1) Is there enough contrast between text and its background color?
 
 ### Why it’s important
 
@@ -34,16 +36,20 @@ Everyone benefits from designs that are easier to see. People with different vis
 - Slightly temper the contrast between your text and background color. For example: don’t use pure black text on a pure white background. Stark contrast can result in blurred or moving text for people with Irlen syndrome.
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG)
 
 - [Guideline 1.4.3 – Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
 **Video tutorial: Meeting contrast requirements**
+
 {{< youtube id="gH1JieTZQ1k" title="Meeting Contrast Requirements" >}}
+
 **Video tutorial: How I do an accessibility check (contrast)**
+
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
-## Can you still understand everything the design is communicating without depending on color?
+
+2) Can you still understand everything the design is communicating without depending on color?
 
 ### Why it’s important
 
@@ -54,23 +60,23 @@ Everyone benefits from designs that are easier to see. People with different vis
 - Don’t use color alone to convey meaning. Use icons, written content, and other visual elements to reinforce clear communication of the content.
 - Test what it’s like to view your designs through a [color blindness simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/).
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
 
 [1.4.1 Use of Color](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-without-color)
 
 
 ## Layout and Hierarchy
 
-### Why it's important
-
 Can you quickly understand the meaning of the page and complete your task?
+
+### Why it's important
 
 - Avi is distracted and needs to fill out an important web form
 - Benny has attention deficit disorder and has trouble staying focused on busy pages
 - Juanita doesn’t feel confident about using technology because she previously wasn’t able to find what she was looking for.
 
-
 ### Steps to take
+
 - Make sure key information is discernable at a glance. Design minimally and intentionally so that the user can get as much info as quickly as possible.
 - Create a clear hierarchy of importance by placing items on the screen according to their relative level of importance. For example, place important actions at the top or bottom of the screen (reachable with shortcuts).
 - Plan heading structure early. Ensure all content and design fits into a logical heading structure.
@@ -79,16 +85,20 @@ Can you quickly understand the meaning of the page and complete your task?
 
 ### Resources
 
+- [Accessibility - Material Design](https://m2.material.io/design/usability/accessibility.html)
 - [WebAIM: Web Accessibility for Designers](http://webaim.org/resources/designers/)
+
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
+
 - [1.3.2 Meaningful Sequence](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-sequence)
 - [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
 
 
 ## Typography
 
-### Why it's important
-
 Can you easily read and comprehend textual information on the page?
+
+### Why it's important
 
 - Zelda has low vision and has trouble reading small text. 
 - Yulia’s eyes are strained after a long day of working on a computer.
@@ -112,17 +122,20 @@ Can you easily read and comprehend textual information on the page?
 
 ### Resources
 
-- [U.S. Web Design System (USWDS) research report: inclusive design patterns](https://designsystem.digital.gov/together/) 
+- [U.S. Web Design System (USWDS) research report: Inclusive design patterns](https://designsystem.digital.gov/together/) 
 - [Better Web Type by Matej Latin](https://betterwebtype.com/)
 - [Text legibility - Material Design](https://material.io/design/color/text-legibility.html)
+
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
+
 - [1.4.8 Visual Presentation](https://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast-visual-presentation)
 
 
 ## Graphics and images
 
-### Why it's important
-
 Can you easily understand content associated with graphics, icons, and images?
+
+### Why it's important
 
 - Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
 
@@ -134,7 +147,7 @@ Can you easily understand content associated with graphics, icons, and images?
 - Use icons as helpful visual cues to connect to concepts. Only use icons purposefully and not for decoration. Use familiar icons that people are accustomed to associating with common actions, like a trash can to represent deleting something.
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
 
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
@@ -143,9 +156,9 @@ Can you easily understand content associated with graphics, icons, and images?
 
 ## Data visualizations
 
-### Why it's important
-
 Can you understand the overall trend of the graph? Can you quickly grasp the relationship between parts of the data?
+
+### Why it's important
 
 - Kwame has trouble reading graphs with small text.
 
@@ -158,7 +171,7 @@ Can you understand the overall trend of the graph? Can you quickly grasp the rel
 - Make sure there’s sufficient contrast between graph colors so people with color blindness can distinguish the colors.
 - Consider complementing the graph with a table of information so that it can be read more easily by screen reader users and when compressed to mobile.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
 
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
@@ -168,13 +181,12 @@ Can you understand the overall trend of the graph? Can you quickly grasp the rel
 
 ## Forms
 
-### Why it's important
-
 Are forms as simple as possible and only ask what’s needed to complete the task? Can you successfully complete the form?
+
+### Why it's important
 
 - Mateo is in a hurry to fill out a medical insurance form for his sick daughter.
 - Janet has dementia and needs to validate her identification to request a new social security card.
-
 
 ### Steps to take
 
@@ -189,6 +201,9 @@ Are forms as simple as possible and only ask what’s needed to complete the tas
 - [USWDS - Form component](https://designsystem.digital.gov/components/form/)
 - [USWDS - Form templates](https://designsystem.digital.gov/templates/form-templates/)
 - [Nielsen Norman Group: Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
+
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
+
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
 - [3.2.1 On Focus](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
@@ -198,9 +213,9 @@ Are forms as simple as possible and only ask what’s needed to complete the tas
 
 ## Mobile
 
-### Why it's important
-
 Can you understand key information and perform critical tasks on a mobile device?
+
+### Why it's important
 
 - Miyako just lost her job and canceled her home internet to stretch her budget. She only uses her cell phone to browse the internet.
 - Reza is recovering from a stroke and slowly relearning how to use his arm. He uses his phone to help him find information on the web.
@@ -212,20 +227,21 @@ Can you understand key information and perform critical tasks on a mobile device
 - Make touch targets at least 48px. This will allow the target to be tapped by the average adult finger pad, which measures 10mm. The icons may be smaller and you can work with your developer to extend padding past the icon.
 - In most cases, touch targets are separated by 8px of space or more to ensure users don't select the wrong action.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
 
-- [3.2 Touch Target Size and Spacing \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
-- [3.5 Placing buttons where they are easy to access \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#h-placing-buttons-where-they-are-easy-to-access)
+Mobile Accessibility: How WCAG 2.0 and Other World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) Guidelines Apply to Mobile
+
+- [3.2 Touch Target Size and Spacing](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
+- [3.5 Placing buttons where they are easy to access](https://www.w3.org/TR/mobile-accessibility-mapping/#placing-buttons-where-they-are-easy-to-access)
 
 
 ## Keyboard access
 
-### Why it's important
-
 Can you reach anything that’s interactive using the tab key?
 
-- Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
+### Why it's important
 
+- Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
 
 ### Steps to take
 
@@ -235,7 +251,7 @@ Can you reach anything that’s interactive using the tab key?
 Make sure that no content gets focused offscreen or is hidden from view.
 - Check to see that the page includes a skip navigation link (if navigation is present before the main content). This will allow users to skip past navigation to reach the page’s main content.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
 
 - [2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)
 - [2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-trapping)
@@ -243,17 +259,17 @@ Make sure that no content gets focused offscreen or is hidden from view.
 - [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
 
 **Video tutorial: How I do an accessibility check**
+
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
 
 ## Screen reader
 
-### Why it's important
-
 Can you use a screen reader to access the page content?
 
-- Aisha is blind and uses a screen reader to navigate the web.
+### Why it's important
 
+- Aisha is blind and uses a screen reader to navigate the web.
 
 ### Steps to take
 
@@ -277,9 +293,15 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 ### Resources
 
 - [Download NVDA screen reader (NV Access)](https://www.nvaccess.org/download/)
+
+### Web Content Accessibility Guidelines (WCAG) 2.0 references
+
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 
 **Video tutorial: Screen Reader Basics: VoiceOver**
+
 {{< youtube id="5R-6WvAihms" title="Screen Reader Basics: VoiceOver" >}}
+
 **Video tutorial: How I do an accessibility check (screen reader)**
+
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
