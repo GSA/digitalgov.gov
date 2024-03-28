@@ -1,11 +1,4 @@
 {{- define "content" -}}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
-
-
   <main role="main" id="main-content">
     {{ partial "core/blog-date-warning.html" . }}
     <article
@@ -14,10 +7,7 @@
       {{- end -}}
     >
       <header>
-        <div
-          class="grid-container grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
+        <div class="grid-container grid-container-desktop">
           {{- partial "partials/core/usa-breadcrumbs.html" . -}}
           <div class="grid-row">
             <div class="grid-col-12">
@@ -48,18 +38,13 @@
       </header>
 
       <section>
-        <div
-          class="grid-container grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
+        <div class="grid-container grid-container-desktop">
           <div class="grid-row tablet-lg:grid-gap-6">
             <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">
               {{/* Content */}}
               <div class="content usa-prose">
                 {{- .Content -}}
               </div>
-
-              {{- partial "core/gh-commit-info.html" . -}}
 
               {{/* Touchpoints Form */}}
               {{- partial "core/touchpoints-form.html" . -}}

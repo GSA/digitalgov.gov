@@ -23,12 +23,7 @@
             {{- range $i, $author := $authors -}}
               {{ if .Params.slug }}
                 {{ $link := printf "authors/%s/" .Params.slug }}
-                {{ $path := "" }}{{ with .File }}
-                  {{ $path = .Path }}
-                {{ else }}
-                  {{ $path = .Path }}
-                {{ end }}
-                <div class="author grid-row" data-gh-edit-page="{{- $path -}}">
+                <div class="author grid-row">
                   <div class="grid-col-auto">
                     <div class="photo">
                       {{- if $author.Params.github -}}

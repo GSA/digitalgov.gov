@@ -13,6 +13,9 @@ summary: "The search function is an essential component of any government websit
 # Weight
 weight: 2
 
+aliases:
+  - /topics/digitalgov-search/
+
 # Set the legislation card title and link
 legislation:
   title: "21st Century Integrated Digital Experience Act (21st Century IDEA) & Section III.A.4 of M-23-22"

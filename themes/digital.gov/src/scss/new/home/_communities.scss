@@ -62,11 +62,10 @@ $communities-of-practice: (
 // Cards view
 // ==========================================================================
 .dg-featured-communities {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
   text-align: center;
 
   @include at-media("tablet") {
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
   }
 

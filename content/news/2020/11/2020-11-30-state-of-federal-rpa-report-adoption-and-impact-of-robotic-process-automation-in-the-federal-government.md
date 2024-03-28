@@ -5,7 +5,7 @@ title: "State of Federal RPA Report: Adoption and Impact of Robotic Process Auto
 summary: "The report describes the maturity and growth of RPA programs to convey agency progress in digital transformation and automation."
 # See all topics at https://digital.gov/topics
 topics:
-  - rpa
+  - robotic-process-automation
   - emerging-tech
 # See all authors at https://digital.gov/authors
 authors:

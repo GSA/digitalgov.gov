@@ -8,7 +8,11 @@ slug: "privacy"
 title: "Privacy"
 deck: "As agencies carry out their diverse missions, they must also respect and protect personally identifiable information (PII)."
 
+# description — keep it short and clear
 summary: "For the public to have trust in government institutions, they need to know that their personal information is secure, and will be used only for legitimate purposes. Privacy violations can put people at risk for identity theft, financial fraud, discrimination, harassment, or even physical harm. By following federal rules and regulations regarding the collection, use, and disclosure of personal information, agencies can mitigate such risks to their customers."
+
+aliases:
+  - /topics/privacy-impact-assessment/
 
 # Weight
 weight: 2

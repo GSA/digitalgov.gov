@@ -2,12 +2,7 @@
   <main role="main" id="main-content">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
-        {{ $path := "" }}{{ with .File }}
-          {{ $path = .Path }}
-        {{ else }}
-          {{ $path = .Path }}
-        {{ end }}
-        <div class="grid-col-12" data-gh-edit-page="{{- $path -}}">
+        <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}}</h1>
@@ -47,7 +42,6 @@
 
         {{/* If there are any items at all... */}}
         {{- if $stream -}}
-
           {{/* Loop through all the pages */}}
           {{/* Also sorting all the items by date and reverse chron */}}
           {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}

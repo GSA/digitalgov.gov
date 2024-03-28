@@ -8,7 +8,7 @@ summary: "Bots can help us improve our inclusivity by gently nudging us to use m
 topics:
   - communication
   - artificial-intelligence
-  - rpa
+  - robotic-process-automation
   - digital-service-delivery
   - plain-language
 
@@ -37,7 +37,7 @@ It’s not easy (and certainly not always possible), though, to research the his
 
 On July 19, 2023, the [Communicators Community of Practice](https://digital.gov/communities/communicators/) hosted a [webinar to introduce the Inclusion Bot](https://digital.gov/event/2023/07/19/supporting-inclusive-language-through-automation/), talk about how automation can support inclusive language, and show the audience how to apply these principles to create their own automations. Speakers from TTS engaged with the audience, leading with a presentation to show why the bot was developed, how it evolved, and how we can leverage the idea of automation to continue supporting inclusive language. The speakers engaged in a live question and answer session afterward, where the audience asked questions to understand the parameters of the bot, understand how they can apply these ideas, and suggest additional terms that should be added.
 
-{{< youtube 4xwC2q8G4J8 >}}
+{{< youtube id="4xwC2q8G4J8" title="Supporting inclusive language through automation" >}}
 
 ## How it started: Guys Bot
 

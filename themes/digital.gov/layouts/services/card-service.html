@@ -1,9 +1,4 @@
-{{ $path := "" }}{{ with .File }}
-  {{ $path = .Path }}
-{{ else }}
-  {{ $path = .Path }}
-{{ end }}
-<div class="card-service" data-gh-edit-page="{{- $path -}}">
+<div class="card-service">
   {{/* set the href as a variable */}}
   {{- $href := "" -}}
   {{- if .Params.source_url -}}
@@ -22,11 +17,11 @@
   {{/* Find the logo source. */}}
   {{/* @TODO: Simplify even further. */}}
   {{- if $source -}}
-    {{ .Scratch.Set "logo_src" (printf "/logos/%s%s" $source.Params.logo "-logo.png") }}
+    {{ .Scratch.Set "logo_src" (printf "logos/%s%s" $source.Params.logo "-logo.png") }}
   {{- else if .Params.logo -}}
-    {{ .Scratch.Set "logo_src" (printf "/logos/%s%s" .Params.logo "-logo.png") }}
+    {{ .Scratch.Set "logo_src" (printf "logos/%s%s" .Params.logo "-logo.png") }}
   {{- else -}}
-    {{ .Scratch.Set "logo_src" "/logos/digit-gold.png" }}
+    {{ .Scratch.Set "logo_src" "logos/digit-gold.png" }}
   {{- end -}}
 
   {{/* Call logo template once with new found source. */}}

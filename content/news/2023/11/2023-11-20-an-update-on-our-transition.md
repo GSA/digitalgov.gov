@@ -1,6 +1,6 @@
 ---
 # Originally published at the following URL
-source_url: https://get.gov/updates/2023/10/13/transition-update/
+source_url: https://get.gov/posts/2023-10-13-registrar-transition-update/
 source: dotgov
 date: 2023-10-13 11:20:00 -0500
 title: An update on our transition

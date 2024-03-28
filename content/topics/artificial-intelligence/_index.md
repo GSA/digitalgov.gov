@@ -10,9 +10,14 @@ title: "Artificial Intelligence"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/ai/
+  - /topics/artificial-intelligence-for-citizen-services-community/
+  - /topics/chatbots/
+  - /topics/natural-language-generation/
 
 # Weight
-weight: 1
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki

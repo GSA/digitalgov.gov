@@ -10,6 +10,9 @@ deck: "Organizing the information on your website to make it findable, understan
 
 summary: "Websites are made up of information—which needs to be organized to be useful. Information architecture (IA), which has roots in physical spaces like libraries and hospitals, should be designed with intention to help people find what they need to know or do. Making sure that search, labeling, appropriate nesting, calls-to-action, and your sitemap are clear and usable is all part of having a functional information architecture."
 
+aliases:
+  - /topics/architecture/
+
 # Weight
 weight: 2
 

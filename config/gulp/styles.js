@@ -154,7 +154,7 @@ exports.init = series(
   buildSass
 );
 
+exports.buildSprite = buildSprite;
 exports.copyUswdsFonts = copyUswdsFonts;
 exports.copyUswdsImages = copyUswdsImages;
-
 exports.buildSass = buildSass;

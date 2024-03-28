@@ -12,7 +12,7 @@ topics:
   - analytics
   - customer-experience
   - usability
-  - seo
+  - search-engine-optimization
   - user-experience
   - information-collection
 

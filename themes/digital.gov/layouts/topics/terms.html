@@ -1,13 +1,6 @@
 {{/* All Tags */}}
 {{/* lists out the tags for the site */}}
 {{- define "content" -}}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
-
-
   <main role="main" id="main-content">
     <header>
       <div class="grid-container grid-container-desktop">
@@ -25,7 +18,7 @@
             {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
               {{- if eq .Params.weight 2 -}}
                 <div class="grid-col-12 tablet:grid-col-4">
-                  <div class="topic" data-gh-edit-page="{{- $path -}}">
+                  <div class="topic">
                     <h3>
                       <a
                         href="{{- .Permalink | absURL -}}"
@@ -67,10 +60,7 @@
               {{- $count := $.Scratch.Get "counter" -}}
 
               {{/* Output the topic HTML */}}
-              <li
-                class="topic topic-buttons__list-item"
-                data-gh-edit-page="{{- $path -}}"
-              >
+              <li class="topic topic-buttons__list-item">
                 <p>
                   <a href="{{- .Permalink -}}" title="{{- $name -}}">
                     <span>{{- .Title -}}</span>

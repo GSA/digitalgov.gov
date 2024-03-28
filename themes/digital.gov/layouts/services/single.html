@@ -1,13 +1,8 @@
 {{- define "content" -}}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
   <main role="main" id="main-content">
     <article class="grid-container grid-container-desktop">
       <header>
-        <div data-gh-edit-page="{{- $path -}}">
+        <div>
           {{- if .Parent -}}
             {{- partial "partials/core/usa-breadcrumbs.html" . -}}
           {{- end -}}
@@ -43,11 +38,9 @@
         ></aside>
         <div>
           {{/* Content */}}
-          <div class="content" data-gh-edit-page="{{- $path -}}">
+          <div class="content">
             {{- .Content -}}
           </div>
-
-          {{- partial "core/gh-commit-info.html" . -}}
         </div>
       </div>
     </article>

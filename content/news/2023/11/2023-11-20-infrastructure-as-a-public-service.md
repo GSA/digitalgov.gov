@@ -1,6 +1,6 @@
 ---
 # Originally published at the following URL
-source_url: https://get.gov/updates/2023/9/6/infrastructure-as-a-public-service/
+source_url: https://get.gov/posts/2023-09-06-coming-soon-gov-changes/
 source: dotgov
 date: 2023-09-06 11:10:00 -0500
 title: Infrastructure as a (public) service

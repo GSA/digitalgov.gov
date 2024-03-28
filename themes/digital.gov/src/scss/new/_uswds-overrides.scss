@@ -56,3 +56,14 @@
     mask-image: url("../img/svg-icons/material-icon-inventory_2.svg");
   }
 }
+
+// Override USA footer until USWDS 3.8.0 is released
+// TODO: Reconfigure footer to match USWDS footer component
+// Disable stylelint BEM format check because we need the specificity.
+/* stylelint-disable */
+@include at-media("tablet-lg") {
+  .usa-footer .grid-row .tablet-lg\:grid-col-3 {
+    width: 25%;
+  }
+}
+/* stylelint-enable */

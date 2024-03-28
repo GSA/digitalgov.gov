@@ -7,8 +7,7 @@ authors:
   - jada-jones
 topics:
   - product-and-project-management
-  - emerging-tech
-  - virtual-augmented-reality-community
+  - multimedia
   - emerging-tech
 featured_image:
   uid: augmented-reality-marketing

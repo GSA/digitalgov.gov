@@ -10,7 +10,7 @@ topics:
   - governance
   - professional-development
   - diversity-equity-and-inclusion
-  - project-management
+  - product-and-project-management
   - digital-service-delivery
 
 # See all authors at https://digital.gov/authors

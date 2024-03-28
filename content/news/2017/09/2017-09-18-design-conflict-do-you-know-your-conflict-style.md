@@ -9,7 +9,6 @@ topics:
   - product-and-project-management
   - design
   - communication
-  - project-management
   - user-experience
   
 featured_image:

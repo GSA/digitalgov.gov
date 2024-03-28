@@ -33,7 +33,7 @@ featured_links:
   resources:
   - title: "Domain security best practices"
     summary: "Follow these domain security best practices to ensure a safe experience for your organization and your users."
-    href: "https://get.gov/help/security-best-practices/"
+    href: "https://get.gov/domains/security/"
   - title: "How to prevent security certificates from expiring during a lapse in operations"
     summary: "Learn what steps you can take to avoid security certificates from expiring during a lapse in operations."
     href: "https://digital.gov/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/"

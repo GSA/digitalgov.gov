@@ -7,8 +7,6 @@ authors:
   - jonathan-rubin
 topics:
   - research
-  - united-states-army
-  - united-states-department-of-defense
   - usability
   - user-experience
 ---

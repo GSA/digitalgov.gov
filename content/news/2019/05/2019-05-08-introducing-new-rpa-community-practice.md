@@ -9,7 +9,7 @@ authors:
   - ed-burrows
 topics:
   - emerging-tech
-  - rpa
+  - robotic-process-automation
 featured_image:
   uid: rpa-stock-photo-2
   alt: ''

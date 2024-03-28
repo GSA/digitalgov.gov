@@ -15,19 +15,12 @@
 
 
   <main role="main" id="main-content">
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-
-
     <div class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
     </div>
 
     {{/* Default & Collection Header */}}
-    <header class="grid-container-desktop" data-gh-edit-page="{{- $path -}}">
+    <header class="grid-container-desktop">
       <h1
         class="{{ if .Params.legislation }}
           dg-topic__header-title--collection
@@ -49,10 +42,7 @@
     {{/* Collection — Summary & Legislation */}}
     {{ if or .Params.summary .Params.legislation }}
       {{ if $is_first_page }}
-        <div
-          class="grid-container-desktop margin-top-2"
-          data-gh-edit-page="{{- $path -}}"
-        >
+        <div class="grid-container-desktop margin-top-2">
           <div class="grid-row desktop:grid-gap-4">
             <div class="desktop:grid-col margin-bottom-4">
               {{ if .Params.summary }}
@@ -72,10 +62,7 @@
     {{/* Collection — Featured Resources and Communities */}}
     {{ if or .Params.featured_resources .Params.featured_communities }}
       {{ if $is_first_page }}
-        <div
-          class="dg-topic__featured grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
+        <div class="dg-topic__featured grid-container-desktop">
           {{ range .Params.featured_resources.resources }}
             {{ $featured_resource_page := $.GetPage .link }}
             {{ $kicker := "" }}

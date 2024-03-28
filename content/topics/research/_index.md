@@ -10,6 +10,15 @@ title: "Research"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/18f-methods/
+  - /topics/a-b-testing/
+  - /topics/community-ab-testing/
+  - /topics/methodology/
+  - /topics/personas/
+  - /topics/quick-study/
+  - /topics/user-research/
+  - /topics/user-testing-and-research/
 
 # Weight
 weight: 2

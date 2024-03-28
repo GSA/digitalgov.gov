@@ -1,13 +1,6 @@
 {{- define "content" -}}
   {{- with site.GetPage "/404" -}}
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-
-
-    <main role="main" id="main-content" data-gh-edit-page="{{- $path -}}">
+    <main role="main" id="main-content">
       <article>
         <header>
           <div class="grid-container grid-container-desktop">
@@ -29,9 +22,6 @@
                 <div class="content">
                   {{- .Content -}}
                 </div>
-
-                {{/* Github edit link */}}
-                {{- partial "core/gh-commit-info.html" . -}}
               </div>
             </div>
           </div>

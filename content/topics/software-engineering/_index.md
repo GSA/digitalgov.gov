@@ -11,6 +11,18 @@ deck: "Develop  websites and services that are secure, reliable, and easy to mai
 summary: "Federal websites are essential tools for unifying and communicating government information with the public in a timely manner. A well-developed website builds public trust in government and provides users with access to information when they need it.
 Follow up-to-date technical standards and software best practices to build accessible websites and digital services."
 
+aliases:
+  - /topics/browsers/
+  - /topics/code/
+  - /topics/developer-hub/
+  - /topics/devops/
+  - /topics/github/
+  - /topics/hackathon/
+  - /topics/ios/
+  - /topics/json/
+  - /topics/national-day-of-civic-hacking/
+  - /topics/saas/
+
 # Weight
 weight: 2
 

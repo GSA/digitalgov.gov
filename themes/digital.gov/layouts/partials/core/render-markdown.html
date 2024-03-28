@@ -2,15 +2,9 @@
 
 {{- $file := .file -}}
 {{- $page := .Site.GetPage $file -}}
-{{ $path := "" }}
-{{ with $page.File }}
-  {{ $path = .Path }}
-{{ else }}
-  {{ $path = .Path }}
-{{ end }}
 
 {{- with $page -}}
-  <div data-gh-edit-page="{{- $path -}}">
+  <div>
     {{- .Content -}}
   </div>
 {{- end -}}

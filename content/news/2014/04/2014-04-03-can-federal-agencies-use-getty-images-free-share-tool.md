@@ -7,8 +7,6 @@ authors:
   - judith-snyderman
 topics:
   - social-media
-  - united-states-department-of-defense
-
 ---
 
 [{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}]

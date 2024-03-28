@@ -17,7 +17,7 @@ The **[Federal #SocialGov Community]({{< ref "communities/social-media.md" >}})*
 
 The online event, **U.S. Federal SocialGov: 2 years of Smashing Silos + Elevating Citizen Services**, focused on how collaborative, open participation in the development process will help public services better tackle performance analysis, policy development, accessibility for persons with disabilities, international partnerships and global digital engagement support.
 
-{{< youtube 5vyAlqOEsuM >}}
+{{< youtube id="5vyAlqOEsuM" title="U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media" >}}
 
 Bottom line: social media in government isn&#8217;t just about using digital engagement to tell our story better, but to rewrite the story itself by making government programs better and more cost effective. And we didn&#8217;t throw a party &#8212; we threw down the digital gauntlet.
 

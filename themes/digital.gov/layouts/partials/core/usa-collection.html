@@ -14,7 +14,6 @@
 {{ $page_href := "" }}
 {{ $title := "" }}
 {{ $summary := "" }}
-{{ $path := "" }}
 {{ $topic_icon := "" }}
 {{ $logo_source := "" }}
 {{ $variant := $settings.variant }}
@@ -32,15 +31,15 @@
       {{ if .Params.source }}
         {{ $source := .Site.GetPage (print "source_" .Params.source ) }}
         {{ if $source.Params.logo }}
-          {{ $logo_source = (printf "/logos/%s%s" $source.Params.logo "-icon.png") }}
+          {{ $logo_source = (printf "logos/%s%s" $source.Params.logo "-icon.png") }}
         {{ end }}
         {{ $href = .Params.source_url }}
       {{ else if .Params.source_url }}
         {{ $logo_source = (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) }}
         {{ $href = .Params.source_url }}
       {{ else }}
-        {{ $logo_source = (print "/img/digit-50.png") }}
-        {{ $href = (print .Permalink "?dg") }}
+        {{ $logo_source = (print "img/digit-50.png") }}
+        {{ $href = .Permalink }}
       {{ end }}
 
       {{/* If using "headings" variant and no meta_source is present, create one from the source_url or source or set as Digita.gov as the default */}}
@@ -69,13 +68,8 @@
       {{ $item_href := $href }}
       {{ $list_item_data := ( dict "title" $item_title "summary" $item_summary "href" $href ) }}
 
-      {{/* Set filepath with before injecting into collection-list-item partial */}}
-      {{ if .IsPage }}
-        {{ $path = .Page.File.Path }}
-      {{ end }}
-
       {{/* List item settings */}}
-      {{ $settings := (dict "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header "path" $path ) }}
+      {{ $settings := (dict "logo_source" $logo_source "variant" $variant "meta_source" $meta_source "list_header" $list_header) }}
 
       {{/* If image exists, then display as list item */}}
       {{ if $logo_source }}

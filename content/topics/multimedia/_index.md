@@ -8,7 +8,18 @@ slug: "multimedia"
 title: "Multimedia"
 deck: "Use a combination of media formats to create impactful experiences."
 
+# description — keep it short and clear
 summary: "As a form of communication, multimedia involves a combination of content forms, like text, audio, video, graphics, and animation. Multimedia approaches work best when they are created and distributed to deliver a well-rounded, interactive, and informative user experience."
+
+aliases:
+  - /topics/audio/
+  - /topics/audio-video/
+  - /topics/digital-audio-video-community/
+  - /topics/video/
+  - /topics/video-production-pros-community/
+  - /topics/virtual-augmented-reality-community/
+  - /topics/virtual-reality/
+  - /topics/voice/
 
 # Weight
 weight: 2

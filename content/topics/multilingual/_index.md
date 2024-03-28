@@ -10,6 +10,12 @@ deck: "Provide access to government information and services for people with lim
 
 summary: "Demand for multilingual digital content is growing. In response to this demand, federal agencies are publishing more digital content in multiple languages. Expanding digital content in languages other than English is essential to building public trust, effectively serving communities, and ensuring government content is accessible for all."
 
+aliases:
+  - /topics/anle/
+  - /topics/gobiernousagov/
+  - /topics/lep/
+  - /topics/multilingual-community/
+
 # Weight
 weight: 2
 

@@ -21,7 +21,6 @@
 
 {{ $list_item_data := .list_item_data }}
 {{ $settings := .settings }}
-{{ $path := $settings.path}}
 {{ $variant := .variant }}
 {{ $logo_source := .logo_source }}
 {{ $list_header := .list_header }}
@@ -35,7 +34,7 @@
 {{- with $list_item_data -}}
 
   {{ if .title }}
-    <li class="usa-collection__item" data-gh-edit-page="{{- $path -}}">
+    <li class="usa-collection__item">
       {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
         {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source) -}}
       {{ end }}

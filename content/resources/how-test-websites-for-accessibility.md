@@ -4,7 +4,7 @@
 
 # slug (url path) — changing this requires a redirect
 slug: how-test-websites-for-accessibility
-date: 2020-07-15 14:000:00 -0500
+date: 2020-07-15 14:00:00 -0500
 title: "How to Test Websites for Accessibility"
 deck: "Use both manual and automated testing methods to create accessible websites."
 summary: "Use both manual and automated testing methods to create accessible websites."
@@ -29,7 +29,7 @@ primary_image: "gettyimages-1073019390"
 # Make it better ♥
 ---
 
-{{< youtube o7l5d6XVDuM >}}
+{{< youtube id="o7l5d6XVDuM" title="Section 508 Web Testing: Trusted Tester and Automated Tools (GSA IT Accessibility Program)" >}}
 
 {{< note >}}
 In this video, Michael Horton, Accessible Design and Development Advisor at the GSA’s Office of Government-wide Policy, describes how to use manual and automated testing methods to create accessible websites—and why it matters. He also shares more information about GSA’s Government-wide IT Accessibility Program.

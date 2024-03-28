@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: eight-principles-mobile-friendliness
-date: 2019-12-19 14:000:00 -0500
+date: 2019-12-19 14:00:00 -0500
 title: "Eight Principles of Mobile-Friendliness"
 deck: "Following these principles will help you make your site more usable and user-friendly."
 summary: "Following these principles will help you make your site more usable and user-friendly."
