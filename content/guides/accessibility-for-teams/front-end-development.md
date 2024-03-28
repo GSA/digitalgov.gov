@@ -130,11 +130,11 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
 
-**Video tutorial: Using headings**
+Video tutorials:
+
+- Using headings
 
 {{< youtube id="ZHWcs5d9IqA" title="Using Headings" >}}
-
-Video tutorial:
 
 - How I do an accessibility check (page structure)
 
