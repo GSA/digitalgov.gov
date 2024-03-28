@@ -1,7 +1,7 @@
 ---
 date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for content designers"
-deck: ""
+deck: "Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them."
 summary: ""
 guide: accessibility-for-teams
 image: guide-dap
@@ -15,8 +15,6 @@ layout: single
 ---
 
 ## Getting started
-
-Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them.
 
 **How to use this guide:**
 
