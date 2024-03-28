@@ -36,8 +36,7 @@ Can you quickly understand the main points of the content?
 ### Steps to take
 
 1. Refer to the [plain language section](https://pages.18f.gov/content-guide/plain-language/) of 18F’s Content Guide for general guidance, lists of words to avoid, and links to plain-language resources.
-2. As you’re writing, consider the tech literacy level of your target audience. Define technical terms that may be unfamiliar, and use a product or service’s full name before using its acronym or abbreviation. You may also consider [adding a glossary](https://github.com/18F/glossary) if your content contains many potentially unfamiliar terms.
-3. Include in-line definitions for scientific, legal, or technical terms that you must use.
+2. As you’re writing, consider the tech literacy level of your target audience. Define technical terms that may be unfamiliar, and use a product or service’s full name before using its acronym or abbreviation. You may also consider [adding a glossary](https://github.com/18F/glossary) if your content contains many potentially unfamiliar terms. Include in-line definitions for scientific, legal, or technical terms that you must use.
 4. Avoid using idiomatic language.
 5. Test the readability of your content using [Hemingway App](http://www.hemingwayapp.com/), [Readable.io](https://readable.io/), or a similar tool.
 
@@ -45,7 +44,8 @@ Can you quickly understand the main points of the content?
 
 - [PlainLanguage.gov Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/)
 
-- Web Content Accessibility Guidelines (WCAG) 2.0 references:
+Web Content Accessibility Guidelines (WCAG) 2.0 references:
+
   - [3.1 Readable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/#meaning)
   - [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
   - [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
@@ -233,9 +233,9 @@ Is everyone able to access your multimedia content?
 1. Make sure that captions are synchronized to appear around the same time that they would be heard in the audio.
 2. Captions do not need to be a word-for-word version of the audio, but should be a concise equivalent.
 3. Use a modern video player that supports captions.
-4. If you've captioned your video, provide a transcript as one of the optional output formats produced by the closed captioning process. 
+4. If you've captioned your video, provide a transcript as one of the optional output formats produced by the closed captioning process.
    - To make the transcript available, link to it from your web page, wherever you link to or display the associated video.
-5. Audio description is required when important information is visually shown on the screen that cannot be observed by a blind or vision-impaired individual.  
+5. Audio description is required when important information is visually shown on the screen that cannot be observed by a blind or vision-impaired individual.
 
 ### About transcripts
 
@@ -248,3 +248,7 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.2.2 Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
 - [1.2.4 Captions (Live)](https://www.w3.org/WAI/WCAG21/quickref/#captions-live)
+
+---
+
+**Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
