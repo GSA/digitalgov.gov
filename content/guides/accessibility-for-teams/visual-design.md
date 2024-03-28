@@ -4,8 +4,8 @@ title: "Accessibility for visual designers"
 deck: ""
 summary: ""
 guide: accessibility-for-teams
-image: guide-dap
-primary_image: guide-dap
+image: 
+primary_image: 
 summary_box: true
 topics:
   - accessibility
@@ -51,11 +51,11 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 Video tutorials:
 
-**Meeting contrast requirements**
+- Meeting contrast requirements
 
 {{< youtube id="gH1JieTZQ1k" title="Meeting Contrast Requirements" >}}
 
-**How I do an accessibility check (contrast)**
+- How I do an accessibility check (contrast)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
@@ -275,7 +275,7 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 Video tutorial:
 
-**How I do an accessibility check**
+- How I do an accessibility check
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
@@ -318,11 +318,11 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 Video tutorials:
 
-**Screen Reader Basics: VoiceOver**
+- Screen Reader Basics: VoiceOver
 
 {{< youtube id="5R-6WvAihms" title="Screen Reader Basics: VoiceOver" >}}
 
-**How I do an accessibility check (screen reader)**
+- How I do an accessibility check (screen reader)
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
