@@ -222,7 +222,7 @@ Are your touch targets large enough and easy to reach?
 1. Make sure you can reach primary actions easily with either right or left thumbs, even on larger phones. Items on the bottom of the screen tend to be easier to reach.
 2. Make touch targets at least 44 px (pixels) or 10 mm (millimeters). This will allow the target to be tapped by the average adult finger pad, which measures 10 mm. The icons may be smaller and you can work with your developer to extend padding past the icon. Pay particular attention to how [line-height affects touch target size](https://digital.gov/guides/mobile-principles/tap-targets/).
 
-### 
+### Resources
 
 Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
