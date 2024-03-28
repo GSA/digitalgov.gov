@@ -9,7 +9,6 @@
         </a>
       </div>
     </header>
-
     <article class="dg-landing__body grid-container grid-container-desktop">
       <div>
         {{- .Content -}}
@@ -46,6 +45,8 @@
       {{- end -}}
       {{- partial "core/attribution.html" . -}}
     </article>
-    {{- partial "core/glossary.html" . -}}
+    {{- if .Parent.Params.glossary -}}
+      {{- partial "core/glossary.html" . -}}
+    {{- end -}}
   </main>
 {{ end }}
