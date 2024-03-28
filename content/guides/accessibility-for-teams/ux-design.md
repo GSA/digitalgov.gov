@@ -2,7 +2,7 @@
 date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for user experience designers"
 deck: ""
-summary: "Accessibility is usability for people who interact with products differently. Your role is to help the team approach accessibility as a facet of user experience rather than checklist of requirements."
+summary: ""
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
@@ -233,8 +233,11 @@ Are your touch targets large enough and easy to reach?
 Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [2.5.5 Touch Target (WCAG 2.1)](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)
-- [3.2 Touch Target Size and Spacing (Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile)](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
-- [3.5 Placing buttons where they are easy to access (Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile)](https://www.w3.org/TR/mobile-accessibility-mapping/#h-placing-buttons-where-they-are-easy-to-access)
+
+Mobile Accessibility: How WCAG 2.0 and Other World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) Guidelines Apply to Mobile:
+
+- [3.2 Touch Target Size and Spacing](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
+- [3.5 Placing buttons where they are easy to access](https://www.w3.org/TR/mobile-accessibility-mapping/#h-placing-buttons-where-they-are-easy-to-access)
 
 ---
 
