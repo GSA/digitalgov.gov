@@ -4,8 +4,8 @@ title: "Accessibility for content designers"
 deck: "Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them."
 summary: ""
 guide: accessibility-for-teams
-image: guide-dap
-primary_image: guide-dap
+image: 
+primary_image: 
 summary_box: true
 topics:
   - accessibility
@@ -150,7 +150,9 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
-Video tutorial: Text alternatives
+Video tutorial:
+
+- Text alternatives
 
 {{< youtube id="XCa6U1BllCY" title="Text Alternatives" >}}
 
