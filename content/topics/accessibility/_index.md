@@ -15,6 +15,7 @@ aliases:
   - /topics/508/
   - /topics/americans-with-disabilities-act/
   - /topics/section-508/
+  - /guides/accessibility-for-teams
 # Weight
 weight: 2
 
