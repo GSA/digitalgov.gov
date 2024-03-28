@@ -82,51 +82,102 @@ Because for sure, while momentum may be on our side, there's a long way to go, a
 
 **Slide 22:** It's long been our challenge here at USWDS to facilitate collaboration and contribution, to share and scale effective solutions from anywhere in government. To convert the skill and experience that we clearly have in the aggregate into a common infrastructure that supports and elevates any team and product. And that's been a tough nut to crack.
 
-**Slide 23:** 
+**Slide 23:** Today we're going to get started on this challenge through the angle of splitting bigger problems into smaller problems, and trying to build a framework for solving complex problems — and building complex solutions — a little at a time. Lowering the barriers to participation in the service of delivering high quality finished work.
+We're going to approach this from two angles: one which you might call the food truck scenario, and the other which you might call finding the elephant. Or, _you_ might not yet call it that, yet, but _I_ am!
 
-**Slide 24:** 
+**Slide 24:** First, the food truck scenario — or simply that it is hard to start something really big like a restaurant. It's complicated, expensive, and can take a huge amount of resources and risk to even consider building an operation like that. It really limits who can participate. I live in Portland, and one solution to this problem that's popular here and now pretty much is popular everywhere else as well, is the food truck. What if you could begin to reduce the resources and risk to participate? What if you could prove an idea at a smaller scale? Or like a pop-up restaurant that exists for only a week, using an existing restaurant and kitchen. All these smaller-scale solutions to the problem of the restaurant — of getting food — still need to be safe, they still need to be up to code, and they still need to _deliver_ good food.
 
-**Slide 25:** 
+**Slide 25:** But in general: what if there were smaller steps between nothing and everything? 
+In our world, the "restaurant" is something like the component. Delivering a final component requires design, development, and research of course, but also a complete guidance page and now accessibility tests. Developing a new component is a big commitment, and contributing a component to the design system is a big risk and a lot of work, like trying to get a big new piece of furniture into a tiny walk-up apartment. There's really no guarantee you'll actually be able to get it up the stairs and into the door.
 
-**Slide 26:** 
+**Slide 26:** So how can we lower the barrier to participation by creating smaller steps between nothing and a component?
 
-**Slide 27:** 
+**Slide 27:** How can we enable contribution by defining what we need at each phase?
 
-**Slide 28:** 
+**Slide 28:** How can we help get component contributions into the design system with fewer up-front requirements?
 
-**Slide 29:** 
+**Slide 29:** And how can we establish cross-team and cross-agency conversations and communication as the continuity between these phases?
 
-**Slide 30:** 
+**Slide 30:** Let's get into it with two of my colleagues…
+First, Amy Leadem, a contractor and a developer on the USWDS core team. Amy, can you introduce yourself and give a brief self description?
 
-**Slide 31:** 
+AL: Absolutely. Hello everyone, I’m Amy and I am a contractor on the engineering team here at USWDS. I am a white woman with long, wavy brown hair, and today I am wearing a light pink sweater. My pronouns are she/her.
+
+DW: Thanks Amy!
+
+**Slide 31:** I'd also like to introduce Anne Petersen, the Experience Design lead on the core team. Anne, can you introduce yourself and give a brief self description?
+
+AP: For sure. I’m Anne Petersen, my pronouns are they/them. I’m a white person with short brown hair and small glasses in a dark blue shirt today.
+DW: Thanks Anne. First, I'd like to pass it to Amy, to walk us through our new component lifecycle model.
 
 **Slide 32:** 
 
-**Slide 33:** 
+AL: Thanks, Dan. This is Amy and I’m going to show you how we structured the steps in the component lifecycle model, starting with what we're calling **phases**.
 
-**Slide 34:** 
+**Slide 33:** The overall shape of the lifecycle covers the progression of a component on the way up from just an idea to a mature, stable component published in the design system and in use in projects. It also covers the — as yet unused — process for a component on the way down, deprecating and retiring components that we no longer recommend or support.
 
-**Slide 35:** 
+The overall shape is a bit like the rising and falling shape we see on the slide as the life cycle progresses: rising to maturity and falling at the end.
 
-**Slide 36:** 
+**Slide 34:** These main phases in our component lifecycle may seem familiar to you. They are:
 
-**Slide 37:** 
+**Proposal:** These components are under consideration for development through public discussion and a formal proposal. This part of the shape is now colored gold.
 
-**Slide 38:** 
+**Development:** These are the components undergoing active design, development, testing, and documentation before public release. This part of the shape is now colored blue.
 
-**Slide 39:** 
+**Released:** These are the components we've released to the public in our distribution package and documented on the USWDS website. This part of the shape is now colored green.
+
+**Deprecated:** These are the components that do not meet requirements or are no longer needed. This part of the shape is now colored pink.
+
+**Slide 35:** But what's perhaps less familiar are the sub-phases (or steps) within these larger lifecycle groupings. We're putting a lot of work into establishing smaller steps with clearer transitions between steps. 
+Establishing sub-phase steps allows us to know precisely what is happening — and needs to happen — with the component at any point in the life cycle. This clarity allows us to define specific responsibilities and requirements for each step, which not only will help us know what needs to happen next to keep the component moving, but also will present opportunities for community contributors to help fulfill those requirements as well.
+
+**Slide 36:** I'd like to call out a new step we're introducing in the Released phase: **Experimental**. The Experimental step of the Released phase — now colored in darker green in our diagram — is a bit of a pilot. To Dan's earlier point, we're considering Experimental to be something of the food truck to the brick-and-mortar of stable USWDS components. We're hoping we can use an Experimental step to release promising components earlier to help collect more real-world usability research. These components might have fewer documentation requirements, less research backup, maybe a few unanswered questions — along with the expectation that they might change more than stable components. But they would include accessibility tests and would be OK to use in production websites.
+Today, we've published an overview of all of these phases and steps on our new component lifecycle page on our website. Let’s take a look. 
+
+**Slide 37:** Our new component lifecycle page gives an overview of each phase and step of the component lifecycle. This page covers:
+   -What happens in each step,
+   -When each step starts and ends,
+   -How you can contribute during each step,
+   -Where you can find the components that are in each step.
+
+You can find this new page at [designsystem.digital.gov/components/lifecycle](https://designsystem.digital.gov/components/lifecycle).
+And now, since every component — from idea and proposal to stable and deprecation — is in one of the steps of the life cycle, we've also been able to build a new component status page to help you know what's happening with both components we've released in the design system and components that aren't in the design system yet.
+
+**Slide 38:** Our new component status page lists all of the USWDS components — and component ideas — currently in the life cycle, and shows which phase the component is currently in. We also provide a link to the most current information on the component. Depending on the phase, this link might point to the discussion, issue, pull request, or component page. You can find this new page at [designsystem.digital.gov/components/status](https://designsystem.digital.gov/components/status).
+And it's worth repeating that this page will list components that are in the proposal phase as well, so it can serve as an important reference if you're interested in whether the design system has a specific component, or whether a component you need has a proposal already in progress. If there isn't a proposal, or if you want to speed up the proposal process with your own contributions, well… that's what we'll talk about in just a moment!
+
+**Slide 39:** But first, I'll pass it over to Anne to talk about what's next with the component lifecycle.
 
 **Slide 40:** 
 
-**Slide 41:** 
+AP: Thanks Amy: this is Anne. That’s a great question. How will this component lifecycle evolve? What’s next for it, and next after that? The exciting part is that we don’t know. Iteration! In action! We’ll find out, basically, as we go.
 
-**Slide 42:** 
+**Slide 41:** But we do have some assumptions. We think that it's going to be important to get more and more clear and provide more and more detail about how a component moves from one step or phase to another, to develop specific requirements and criteria, and continue to remove ambiguity.
 
-**Slide 43:** 
+Determining things like: What's necessary to release a component as experimental?
 
-**Slide 44:** 
+Or: When we evaluate proposals, what criteria should we use?
 
-**Slide 45:** 
+We're still working through these questions and we hope, eventually, that more clarity will empower folks like you to contribute. But right now we’re figuring out how this initial version works in reality. Where might people not feel empowered or comfortable to participate? Will the detail we need to make sure the components we offer are practical and grounded and are well-tested mean an extra burden for you?
+
+So we'll have to pay attention, see it in action, and listen. To _you_. We want to hear from you.
+
+**Slide 42:** And when we're thinking about all these details, requirements, and evaluation criteria, we're going to be starting from our stated values. We'll go back to our [mission, vision, polestar](https://www.google.com/url?q=https://designsystem.digital.gov/about/&sa=D&source=docs&ust=1711663441787888&usg=AOvVaw3BnY43NX-mYZhnPJj37ynX), and [design principles](https://designsystem.digital.gov/design-principles/), and [product values](https://designsystem.digital.gov/about/product-values/), and proceed from there.
+
+These values are our best articulation of how we think about our own priorities and decision-making, and ultimately the direction of USWDS. They’re where we start, and where we'll ground our evaluation considerations.
+
+You’ve maybe heard the platitude that tells you how to think about whether to say things out loud: Is it true? Is it kind? Is it necessary? This is our version.
+
+**Slide 43:** In order to be effective, the transitions between phases need public, practical, easy-to-understand requirements. They'll need to be concrete and clear.
+And in order to be fair, we'll need to publish any requirements before we start any evaluation.
+
+**Slide 44:** So there are still a number of things to work out. This process _itself_ is in beta.
+I feel like I’m always the one to get meta in these calls, so here we go again. I’ll try to keep it brief. 
+
+This whole thing is something we’re trying out. Our first but maybe-not-best attempt; though certainly the best we think works right now. We don’t know how well it will work, so we’re open to change here. As we put it into action, I bet we’ll quickly find out if we need to revise. Tell us how it goes.
+
+**Slide 45:** So: let’s try it out! And we think that the best place for folks to start to engage with this process is at the beginning.
+How does this process start, for you, right now? Dan, want to give us that starting point?
 
 **Slide 46:** 
 
@@ -194,15 +245,15 @@ Because for sure, while momentum may be on our side, there's a long way to go, a
 
 **Slide 78:** 
 
-**Slide 79:** 
+**Slide 79:** We're still working to take baby steps, but this is really what it's all about when I think about the USWDS mission: Shaping the future of government digital services. This process of shaping is  complex and interesting and can be really challenging and satisfying. And it's something we can only effectively do together. And I know if we keep at it, there's going to be an elephant in there… somewhere.
 
-**Slide 80:** 
+**Slide 80:** Q&A
 
-**Slide 81:** 
+**Slide 81:** Thanks for joining today’s USWDS monthly call. We'll be back in March with a dev-focussed call, about building new things with USWDS that feel like USWDS. It'll be a nice follow-up from this call, as we start to think about how the component lifecycle moves from proposal to development!
 
-**Slide 82:** 
+If you have a question we weren't able to answer in the call, or thought of later, please head into our public Slack and ask it there. We'll be around after the call to answer questions.
 
-**Slide 83:**
+Have a great day and we'll see you next month!
 
 {{< /accordion >}}
 
