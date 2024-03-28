@@ -2,7 +2,7 @@
 date: 2018-07-09 09:00:00 -0500
 title: "Accessibility for content designers"
 deck: ""
-summary: ""
+summary: "Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them."
 guide: accessibility-for-teams
 image: guide-dap
 primary_image: guide-dap
@@ -16,11 +16,16 @@ layout: single
 
 Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them.
 
+**How to use this guide:**
+
+* We recommend conducting accessibility testing throughout the design and development processes.
+* If you have project-specific questions, ask your agency’s accessibility team.
+
 ## Plain language
 
-### Why it's important
-
 Can you quickly understand the main points of the content?
+
+### Why it's important
 
 - Karin is not a native English speaker and she sometimes has trouble decoding legal or bureaucratic language.
 - John has a developmental disability and has difficulty interpreting content written above a sixth-grade reading level.
@@ -36,18 +41,18 @@ Include in-line definitions for scientific, legal, or technical terms that you m
 
 ### Resources
 
-  - [plainlanguage.gov](https://www.plainlanguage.gov/guidelines/)
+- [Federal plain language guidelines - PlainLanguage.gov](https://www.plainlanguage.gov/guidelines/)
+- Web Content Accessibility Guidelines (WCAG) 2.0 references:
   - [3.1 Readable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/#meaning)
   - [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
   - [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
   - [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
 
-
 ## Reference materials
 
-### Why it's important
-
 Can you easily access supplementary information clarifying the content?
+
+### Why it's important
 
 - Gilbert reads at a twelfth-grade level but isn’t familiar with the nuances of a site’s subject matter; to fully understand the site content, he needs easy-to-access contextual information.
 
@@ -57,17 +62,15 @@ Can you easily access supplementary information clarifying the content?
 - If you find that you need to define a large number of terms within your content, consider adding a separate glossary page.
 - Use hyperlinks or a tooltip rather than footnotes to direct users to definitions. Footnotes can create a jarring reading experience, and they may not render correctly on mobile devices.
 
-
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
 
-
 ## Easy-to-parse graphic elements
 
-### Why it's important
-
 Can you easily interpret content associated with graphic elements?
+
+### Why it's important
 
 - Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
 
@@ -80,7 +83,7 @@ Can you easily interpret content associated with graphic elements?
 - If the graphic element is decorative and you don’t want the screen reader to announce it at all, use  null (empty) alt text (`alt=""`).
 - Consider presenting dense technical language in a format other than as part of a graphic. When compressed to mobile view (in other words, a harder-to-read format), graphs and charts with technical language can be tough to interpret.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
@@ -89,9 +92,9 @@ Can you easily interpret content associated with graphic elements?
 
 ## Scannable content
 
-### Why it's important
-
 Can you scan the page without having to pause for long passages? Can you quickly grasp the meaning of a section based on its heading?
+
+### Why it's important
 
 - Jerrold has a cognitive disability that makes it difficult for him to read long, uninterrupted passages of text. 
 - Sharon reads most online content using her mobile device and finds it difficult to navigate long paragraphs.
@@ -105,16 +108,19 @@ Can you scan the page without having to pause for long passages? Can you quickly
 
 ### Resources
 
-- [Headings and titles](https://content-guide.18f.gov/headings-and-titles/), 18F Content Guide
+- [18F Content Guide: Headings and titles](https://content-guide.18f.gov/headings-and-titles/)
+
+### Web Content Accessibility Guidelines (WCAG) 2.0 references:
+
 - [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
 - [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
 
 
 ## Images
 
-### Why it's important
-
 Do your images have descriptive alt text?
+
+### Why it's important
 
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 
 - Amanda is blind and uses a braille reader to understand the contents of images. 
@@ -127,20 +133,22 @@ Do your images have descriptive alt text?
 - Don’t start the alt text with _Image of_ or _Photo of_ – the screen reader already announces that images are images.
 - If the image is decorative and you don’t want the screen reader to announce it at all, use  null (empty) alt text (`alt=""`).
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
-**Text Alternatives**
+**Video tutorial: Text alternatives**
+
 {{< youtube id="XCa6U1BllCY" title="Text Alternatives" >}}
+
 
 ## Links
 
-### Why it's important
-
 Do all links have properly descriptive text?
+
+### Why it's important
 
 - Jerry is blind and uses a screen reader to navigate the web. He often uses the <code>tab</code> key to quickly scan a page by reading out only the text links without the surrounding copy.
 
@@ -150,7 +158,7 @@ Do all links have properly descriptive text?
 - Create link text that’s as specific as possible. For example, instead of using Click here (which may not make sense for folks using screen readers), consider instead something like Download the full report. Descriptive links provide all users more information about an action they may undertake.
 - Include information about what a link leads to; this is especially important for folks who use mobile devices. If you’re linking to a PDF, say so.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 - [2.4.4 Link Purpose (In Context)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
@@ -158,9 +166,9 @@ Do all links have properly descriptive text?
 
 ##  Information architecture
 
-### Why it's important
-
 Is your site organized such that everyone can navigate it easily?
+
+### Why it's important
 
 - Beth has a lower tech literacy level and needs a site’s layout to be clear.
 - Julian has low vision and uses a screen reader to navigate the web. Kendra has a newborn and her attention is often divided; she needs to be able to understand a site’s contents at a glance.
@@ -191,7 +199,7 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 - **Navigate rotor**: left and right, up and down arrows
 
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 - [2.4.1 Bypass Blocks](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-skip)
@@ -199,9 +207,9 @@ Use rotor to browse pages. The rotor lists common elements like <i>headings</i>,
 
 ## Video and multimedia
 
-### Why it's important
-
 Is everyone able to access your multimedia content?
+
+### Why it's important
 
 - Blake is hearing-impaired and cannot rely on audio.
 - Sandra is a non-native English speaker and has difficulty understanding video.
@@ -219,7 +227,7 @@ Is everyone able to access your multimedia content?
 
 A transcript is a text version of the media content. A transcript should capture all the spoken audio, plus on-screen text and descriptions of key visual information that wouldn’t otherwise be accessible without seeing the video. Transcripts make video content accessible to everyone, including people who are unable to view the video due to accessibility problems or technical limitations. They are also helpful for people who want to quickly scan or search a video’s content but do not have the time to watch the entire video.
 
-### Resources
+### Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 - [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
 - [1.2.2 Captions (Prerecorded)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded)
