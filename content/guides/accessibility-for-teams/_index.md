@@ -17,18 +17,18 @@ Everyone who works on government websites has a role to play in making federal r
 
 **This guide provides:**
 
-* An overview of how each team member can contribute to a product's accessibility.
-* A framework for thinking about accessibility and inclusive design in your role.
-* An understanding of the human need behind accessibility practices.
+- An overview of how each team member can contribute to a product's accessibility.
+- A framework for thinking about accessibility and inclusive design in your role.
+- An understanding of the human need behind accessibility practices.
 
-We focus on the issues most likely to impact government sites. These guidelines do not provide a comprehensive list of all possible issues. Your team will need additional resources and work to conduct manual audits to conform to the standards of [Section 508](https://www.section508.gov/) (which aligns with the [W3C Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG20/quickref/)), a law that ensures all web content is accessible to anybody with a disability.
+We focus on the issues most likely to impact government sites. These guidelines do not provide a comprehensive list of all possible issues. Your team will need additional resources and work to conduct manual audits to conform to the standards of [Section 508](https://www.section508.gov/), a law that ensures all web content is accessible to anybody with a disability. It aligns with the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) [Web Content Accessibility Guidelines (WCAG) 2.0, Level AA](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=a%2Caaa).
 
-Choose the guide that fits your role:
+Choose the guide that best fits your role:
 
 1. Product management
 2. Content design
-3. UX
+3. User Experience (UX) design
 4. Visual design
 5. Front-end development
 
-These roles are based on the roles we have at the Technology Transformation Services at GSA.
+_These roles are based on the roles we have at the Technology Transformation Services at GSA._
