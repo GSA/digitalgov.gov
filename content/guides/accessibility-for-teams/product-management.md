@@ -4,8 +4,8 @@ title: "Accessibility for product managers"
 deck: ""
 summary: ""
 guide: accessibility-for-teams
-image: guide-dap
-primary_image: guide-dap
+image: 
+primary_image: 
 summary_box: true
 topics:
   - accessibility
