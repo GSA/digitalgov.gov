@@ -181,27 +181,45 @@ How does this process start, for you, right now? Dan, want to give us that start
 
 **Slide 46:** 
 
-**Slide 47:** 
+DW: Thanks Anne, this is Dan again. Since we're actively building a process we hope to refine with real contributions and community participation, it makes sense to start where we think we'll need participation from lots of perspectives: at the beginning, with the **component proposal** process.
 
-**Slide 48:** 
+**Slide 47:** And in our process, we're starting with a discussion.
 
-**Slide 49:** 
+**Slide 48:** As I'd mentioned earlier, our second metaphor for solving complex problems is one I'd described as finding the elephant.
 
-**Slide 50:** 
+This is like the story of the blind sages who each encounter only a specific part of an elephant, and thus, individually, can describe only that specific aspect. The trunk appears as a snake, the leg as a tree, the tail as a rope, the ear as fan. This is often understood as a parable about the limits of perception. But the ultimate moral depends on if and how the sages react to the knowledge of their peers. Their knowledge is distributed, their understanding is necessarily influenced by their perspective, so where do they go from there? What can they do with this distributed knowledge? How can they coordinate these different perspectives into an integrated, coherent model?
 
-**Slide 51:** 
+I will say that here at the design system, we wish to find the elephant. And we aim to build a place and a process where we might collect and expand our perspectives in the service of an integrated understanding.
 
-**Slide 52:** 
+**Slide 49:** In our case the elephant in the room is a proposal for a component.
 
-**Slide 53:** 
+What do we need to ask about it? What perspectives do we need to understand it?
 
-**Slide 54:** 
+Why this component? What interactions does it support? When do you use it? When should you consider something else? What are its accessibility considerations? How do you use it when you can't see it? How might you control it with only your voice? What harm might it unintentionally cause? What should a team need to know to start development? What do we already know that can help a development team start from a place of known knowns and known unknowns?
+
+**Slide 50:** To that end, we need every component to begin with a discussion.
+
+**Slide 51:** And the point of that discussion is to describe the _shape_ of a proposal.
+
+**Slide 52:** Not a requirements doc, but a _case_.
+
+**Slide 53:** Not a prescriptive document, but an _actionable_ one.
+
+**Slide 54:** And we believe that the more participation we can generate, the better the proposals we can deliver.
+
+So to talk about the process we're launching today, here's Amy.
 
 **Slide 55:** 
 
-**Slide 56:** 
+AL: Thanks, Dan. This is Amy again. Our new proposal process is how we introduce new component ideas and evaluate them.
 
-**Slide 57:** 
+**Slide 56:** Our first goal was to make the process **intuitive** for all kinds of contributors. We wanted something that was more welcoming to anyone who has a perspective on components: folks like designers, usability experts, accessibility pros, and writers — not just developers.
+
+**Slide 57:** Our second goal was to make the process **incremental**. As Dan mentioned earlier, we wanted to lower the burden on contributors suggesting new component ideas. To lower the barriers to participation at each step.
+
+So we knew we wanted to make the component proposal something we _all_ can build, collaboratively, a bit at a time. Not something where a single person or team needs to put their heads down for a month and return with a finished document, then repeat and repeat. This is more like how the process was working before, and, honestly, it wasn't _really_ working.
+
+We've developed a new component proposal process that has two distinct parts, sort of a frontstage and a backstage.
 
 **Slide 58:** 
 
@@ -237,13 +255,26 @@ How does this process start, for you, right now? Dan, want to give us that start
 
 **Slide 74:** 
 
-**Slide 75:** 
+**Slide 75:** When the formal proposal is complete, we'll post it back into the discussion for a final comment period of at least 45 days before we evaluate it.
 
-**Slide 76:** 
+The **comment period** is an opportunity to tell us what works and what doesn’t about this proposal, before we evaluate the proposal as a team to consider how the proposed component fits into the system and its needs, including the needs of the teams who use it. So again, your input is important.
 
-**Slide 77:** 
+If we approve the proposal, it moves to the **assignment period:** where an individual or team can take that proposal into development. This _might_ be the USWDS team, but it doesn't have to be. 
+
+**Slide 76:** Throughout the process, we'll highlight active discussions in our newsletter and in these monthly calls. We don’t want to overwhelm folks with these, but we'll be working hard to get you — the USWDS community — involved, and highlight opportunities to contribute from month to month, and keep everyone up to date as we refine this process.
+
+We want to make this as easy as we can. Help us understand what will work for you, to facilitate your contributions and thoughts and experiences. We can all help, to help each other.
+
+**Slide 77:** And if interacting on GitHub isn’t an option for you, you can always email us at uswds@gsa.gov, and we can cross-post your proposal, comment, or vote.
+Now I'll pass it back to Dan to wrap things up.
 
 **Slide 78:** 
+
+DW: Thanks Anne. We've done a lot and we still have a lot to do.
+
+And I'd like to acknowledge that getting this far has been a really big team effort for us, and I appreciate how our team's been able to put this work together.
+
+This is important because this process stuff is what everything else is built from. I think what we're beginning to develop here is the nervous system for the design system, and perhaps, by extension, a nervous system for digital service practitioners across government — helping a complex system move with coordination and intention because we've connected activities and information from across the network.
 
 **Slide 79:** We're still working to take baby steps, but this is really what it's all about when I think about the USWDS mission: Shaping the future of government digital services. This process of shaping is  complex and interesting and can be really challenging and satisfying. And it's something we can only effectively do together. And I know if we keep at it, there's going to be an elephant in there… somewhere.
 
