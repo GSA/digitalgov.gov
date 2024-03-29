@@ -40,15 +40,23 @@ We’ve got a couple nice new site and feature launches, a couple product update
 
 **Slide 4:** Let's get into it with site launches.
 
-**Slide 5:** First, [simpler.grants.gov](https://www.google.com/url?q=https://simpler.grants.gov&sa=D&source=docs&ust=1711052748736300&usg=AOvVaw2YSQ8xGM91WUdioPsTCZMY), an exciting new initiative from the grants.gov team at the department of Health and Human Services. Well, grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Simpler.grants.gov is a new site from the grants.gov team that's using a transparent, iterative, and agile process to document their progress modernizing and improving the grants.gov service. It's an exciting project where they'll be building software out in the open, and I for one, am pretty interested in their approach and their progress! The simpler.grants.gov homepage features a simple, text-focused layout, with a large blue hero field and the words "We're building a simpler Grants.gov!"
+**Slide 5:** First, [simpler.grants.gov](https://www.google.com/url?q=https://simpler.grants.gov&sa=D&source=docs&ust=1711052748736300&usg=AOvVaw2YSQ8xGM91WUdioPsTCZMY), an exciting new initiative from the grants.gov team at the department of Health and Human Services. 
 
-**Slide 6:** Next, [Search.gov](https://www.google.com/url?q=https://search.gov&sa=D&source=docs&ust=1711052748730824&usg=AOvVaw3N-xMZKFbY9VHxVGWKAjS-) is starting to roll out hosted search results pages powered by USWDS code. You know search.gov, right? It's the search engine by and for the federal government, a free service powering search results on over 2,000 websites. Well earlier this year they released a beta of a USWDS-based redesign of their hosted results page. Now Digital.gov is the first site to be able to use it, hosting a USWDS-powered search result layout! Search.gov and DigitalGov — a real chocolate and peanut butter combination in my book. On this slide we see the [Digital.gov search results](https://www.google.com/url?q=https://find.digitalgov.gov/search?utf8%3D%25E2%259C%2593%26affiliate%3Ddigitalgov%26query%3Dusability%26commit%3D&sa=D&source=docs&ust=1711052748731793&usg=AOvVaw1J9MZWOISXo_njMu-hJ7Ti) page for the keyword "usability". We see a clean display of search results, as well as a way to select between all search results and just videos.
+Grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Simpler.grants.gov is a new site from the grants.gov team that's using a transparent, iterative, and agile process to document their progress modernizing and improving the grants.gov service. It's an exciting project where they'll be building software out in the open, and I for one, am pretty interested in their approach and their progress! The simpler.grants.gov homepage features a simple, text-focused layout, with a large blue hero field and the words "We're building a simpler Grants.gov!"
+
+**Slide 6:** Next, [Search.gov](https://www.google.com/url?q=https://search.gov&sa=D&source=docs&ust=1711052748730824&usg=AOvVaw3N-xMZKFbY9VHxVGWKAjS-) is starting to roll out hosted search results pages powered by USWDS code. 
+
+You know search.gov, right? It's the search engine by and for the federal government, a free service powering search results on over 2,000 websites. Earlier this year they released a beta of a USWDS-based redesign of their hosted results page. Now Digital.gov is the first site to be able to use it, hosting a USWDS-powered search result layout! Search.gov and DigitalGov — a real chocolate and peanut butter combination in my book.
+
+On this slide we see the [Digital.gov search results](https://www.google.com/url?q=https://find.digitalgov.gov/search?utf8%3D%25E2%259C%2593%26affiliate%3Ddigitalgov%26query%3Dusability%26commit%3D&sa=D&source=docs&ust=1711052748731793&usg=AOvVaw1J9MZWOISXo_njMu-hJ7Ti) page for the keyword "usability". We see a clean display of search results, as well as a way to select between all search results and just videos.
 
 **Slide 7:** Congratulations and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
 **Slide 8:** Now for a few product updates…
 
-**Slide 9:** First USWDS 3.8.0. Last month I said that it would be coming in January… but that didn't happen. We got super busy with a lot of the component lifecycle work we're talking about today, so we had to delay the release. Well it's still coming — and it's still a release that has a number of good improvements largely contributed by the community, like sticky headers in tables, alignment improvements for icons in buttons, and indeterminate checkbox styling — but we're now aiming for the end of this month. And this time, we will hit that deadline, and you can check in on our progress on our public project board — [we're posting that link in the chat](https://www.google.com/url?q=https://github.com/orgs/uswds/projects/8/views/32?sliceBy%255Bvalue%255D%3Duswds%2B3.8.0&sa=D&source=docs&ust=1711663441786792&usg=AOvVaw1fmg5gDdwSmTHDPqCZLvai).
+**Slide 9:** First USWDS 3.8.0. Last month I said that it would be coming in January… but that didn't happen. We got super busy with a lot of the component lifecycle work we're talking about today, so we had to delay the release.
+
+Well it's still coming — and it's still a release that has a number of good improvements largely contributed by the community, like sticky headers in tables, alignment improvements for icons in buttons, and indeterminate checkbox styling — but we're now aiming for the end of this month. And this time, we will hit that deadline, and you can check in on our progress on our public project board — [we're posting that link in the chat](https://www.google.com/url?q=https://github.com/orgs/uswds/projects/8/views/32?sliceBy%255Bvalue%255D%3Duswds%2B3.8.0&sa=D&source=docs&ust=1711663441786792&usg=AOvVaw1fmg5gDdwSmTHDPqCZLvai).
 
 **Slide 10:** Next, I'd like to give an update on the accessibility tests we launched last month.
 
@@ -73,8 +81,11 @@ Well, a component lifecycle is not just for devs and pedants. Today we'd like to
 **Slide 19:** Specifically, we're really focussed on how USWDS can be a place to connect digital design and delivery teams across government, to better know what we know, and learn from each other.
 
 **Slide 20:** You know, I hate to be the person to tell you this, but our government is big.
+
 And collectively, in the aggregate, we know a lot. There's incredible skill, talent, sensitivity, craftsmanship, and care across our teams, our agencies, and our products. 
-If you take a long view of what we, together, are building, I believe it's inarguable that government digital services are improving — and I would argue further that government digital services are improving faster than the internet as a whole. If government is the tortoise in the race between the tortoise and the hare, I'd say the tortoise has the momentum these days.
+If you take a long view of what we, together, are building, I believe it's inarguable that government digital services are improving — and I would argue further that government digital services are improving faster than the internet as a whole.
+
+If government is the tortoise in the race between the tortoise and the hare, I'd say the tortoise has the momentum these days.
 
 **Slide 21:** And I'd say _that's_ because of a real mission-driven commitment to human centered design and to our inclination to pitch in, to help out, to share what we know with each other, and keep pushing forward.
 Because for sure, while momentum may be on our side, there's a long way to go, and honestly there's never really a finish line.
@@ -83,11 +94,15 @@ Because for sure, while momentum may be on our side, there's a long way to go, a
 **Slide 22:** It's long been our challenge here at USWDS to facilitate collaboration and contribution, to share and scale effective solutions from anywhere in government. To convert the skill and experience that we clearly have in the aggregate into a common infrastructure that supports and elevates any team and product. And that's been a tough nut to crack.
 
 **Slide 23:** Today we're going to get started on this challenge through the angle of splitting bigger problems into smaller problems, and trying to build a framework for solving complex problems — and building complex solutions — a little at a time. Lowering the barriers to participation in the service of delivering high quality finished work.
+
 We're going to approach this from two angles: one which you might call the food truck scenario, and the other which you might call finding the elephant. Or, _you_ might not yet call it that, yet, but _I_ am!
 
-**Slide 24:** First, the food truck scenario — or simply that it is hard to start something really big like a restaurant. It's complicated, expensive, and can take a huge amount of resources and risk to even consider building an operation like that. It really limits who can participate. I live in Portland, and one solution to this problem that's popular here and now pretty much is popular everywhere else as well, is the food truck. What if you could begin to reduce the resources and risk to participate? What if you could prove an idea at a smaller scale? Or like a pop-up restaurant that exists for only a week, using an existing restaurant and kitchen. All these smaller-scale solutions to the problem of the restaurant — of getting food — still need to be safe, they still need to be up to code, and they still need to _deliver_ good food.
+**Slide 24:** First, the food truck scenario — or simply that it is hard to start something really big like a restaurant. It's complicated, expensive, and can take a huge amount of resources and risk to even consider building an operation like that. It really limits who can participate. 
 
-**Slide 25:** But in general: what if there were smaller steps between nothing and everything? 
+I live in Portland, and one solution to this problem that's popular here and now pretty much is popular everywhere else as well, is the food truck. What if you could begin to reduce the resources and risk to participate? What if you could prove an idea at a smaller scale? Or like a pop-up restaurant that exists for only a week, using an existing restaurant and kitchen. All these smaller-scale solutions to the problem of the restaurant — of getting food — still need to be safe, they still need to be up to code, and they still need to _deliver_ good food.
+
+**Slide 25:** But in general: what if there were smaller steps between nothing and everything?
+
 In our world, the "restaurant" is something like the component. Delivering a final component requires design, development, and research of course, but also a complete guidance page and now accessibility tests. Developing a new component is a big commitment, and contributing a component to the design system is a big risk and a lot of work, like trying to get a big new piece of furniture into a tiny walk-up apartment. There's really no guarantee you'll actually be able to get it up the stairs and into the door.
 
 **Slide 26:** So how can we lower the barrier to participation by creating smaller steps between nothing and a component?
@@ -128,22 +143,31 @@ The overall shape is a bit like the rising and falling shape we see on the slide
 
 **Deprecated:** These are the components that do not meet requirements or are no longer needed. This part of the shape is now colored pink.
 
-**Slide 35:** But what's perhaps less familiar are the sub-phases (or steps) within these larger lifecycle groupings. We're putting a lot of work into establishing smaller steps with clearer transitions between steps. 
+**Slide 35:** But what's perhaps less familiar are the sub-phases (or steps) within these larger lifecycle groupings. We're putting a lot of work into establishing smaller steps with clearer transitions between steps.
+
 Establishing sub-phase steps allows us to know precisely what is happening — and needs to happen — with the component at any point in the life cycle. This clarity allows us to define specific responsibilities and requirements for each step, which not only will help us know what needs to happen next to keep the component moving, but also will present opportunities for community contributors to help fulfill those requirements as well.
 
-**Slide 36:** I'd like to call out a new step we're introducing in the Released phase: **Experimental**. The Experimental step of the Released phase — now colored in darker green in our diagram — is a bit of a pilot. To Dan's earlier point, we're considering Experimental to be something of the food truck to the brick-and-mortar of stable USWDS components. We're hoping we can use an Experimental step to release promising components earlier to help collect more real-world usability research. These components might have fewer documentation requirements, less research backup, maybe a few unanswered questions — along with the expectation that they might change more than stable components. But they would include accessibility tests and would be OK to use in production websites.
+**Slide 36:** I'd like to call out a new step we're introducing in the Released phase: **Experimental**.
+
+The Experimental step of the Released phase — now colored in darker green in our diagram — is a bit of a pilot. To Dan's earlier point, we're considering Experimental to be something of the food truck to the brick-and-mortar of stable USWDS components. We're hoping we can use an Experimental step to release promising components earlier to help collect more real-world usability research. These components might have fewer documentation requirements, less research backup, maybe a few unanswered questions — along with the expectation that they might change more than stable components. But they would include accessibility tests and would be OK to use in production websites.
+
 Today, we've published an overview of all of these phases and steps on our new component lifecycle page on our website. Let’s take a look. 
 
 **Slide 37:** Our new component lifecycle page gives an overview of each phase and step of the component lifecycle. This page covers:
+
    -What happens in each step,
+   
    -When each step starts and ends,
+   
    -How you can contribute during each step,
+   
    -Where you can find the components that are in each step.
 
 You can find this new page at [designsystem.digital.gov/components/lifecycle](https://designsystem.digital.gov/components/lifecycle).
 And now, since every component — from idea and proposal to stable and deprecation — is in one of the steps of the life cycle, we've also been able to build a new component status page to help you know what's happening with both components we've released in the design system and components that aren't in the design system yet.
 
 **Slide 38:** Our new component status page lists all of the USWDS components — and component ideas — currently in the life cycle, and shows which phase the component is currently in. We also provide a link to the most current information on the component. Depending on the phase, this link might point to the discussion, issue, pull request, or component page. You can find this new page at [designsystem.digital.gov/components/status](https://designsystem.digital.gov/components/status).
+
 And it's worth repeating that this page will list components that are in the proposal phase as well, so it can serve as an important reference if you're interested in whether the design system has a specific component, or whether a component you need has a proposal already in progress. If there isn't a proposal, or if you want to speed up the proposal process with your own contributions, well… that's what we'll talk about in just a moment!
 
 **Slide 39:** But first, I'll pass it over to Anne to talk about what's next with the component lifecycle.
@@ -172,7 +196,8 @@ You’ve maybe heard the platitude that tells you how to think about whether to 
 And in order to be fair, we'll need to publish any requirements before we start any evaluation.
 
 **Slide 44:** So there are still a number of things to work out. This process _itself_ is in beta.
-I feel like I’m always the one to get meta in these calls, so here we go again. I’ll try to keep it brief. 
+
+I feel like I’m always the one to get meta in these calls, so here we go again. I’ll try to keep it brief.
 
 This whole thing is something we’re trying out. Our first but maybe-not-best attempt; though certainly the best we think works right now. We don’t know how well it will work, so we’re open to change here. As we put it into action, I bet we’ll quickly find out if we need to revise. Tell us how it goes.
 
@@ -221,45 +246,116 @@ So we knew we wanted to make the component proposal something we _all_ can build
 
 We've developed a new component proposal process that has two distinct parts, sort of a frontstage and a backstage.
 
-**Slide 58:** 
+**Slide 58:** The frontstage is a new Component Proposal discussion board that will be the persistent home for public, community conversation about new components. You can find this new discussion board at [github.com/uswds/uswds/discussions/categories/component-proposals](https://www.google.com/url?q=https://github.com/uswds/uswds/discussions/categories/component-proposals&sa=D&source=docs&ust=1711663441787743&usg=AOvVaw1Fe3HHeStdk-sosZMHy_rb). On this slide, there's a screenshot of this proposals board, with a pinned post reading "Getting started with USWDS component discussions".
 
-**Slide 59:** 
+**Slide 59:** The backstage is a new proposals repo, uswds-proposals, at [github.com/uswds/uswds-proposals](github.com/uswds/uswds-proposals).
 
-**Slide 60:** 
+On this slide we see a screenshot of this new proposals repo. It features a README with the text "USWDS component proposal process".
 
-**Slide 61:** 
+This is where the USWDS core team collects what we've learned from these discussions into formal component proposals. It will be the new place where we document our decisions and reasoning. If you're familiar with the concept of Architectural Decision Records (or ADRs) that's pretty much what we're starting here, starting with new component decisions.
 
-**Slide 62:** 
+But really, the discussions are where the action will be. So let’s take a look at how we think discussions can work.
 
-**Slide 63:** 
+**Slide 60:** The new Component Proposal board in GitHub Discussions is the **central hub** for community discussion about new USWDS component ideas. This is where the community should work through all the merits, risks, and potential design of the component.
 
-**Slide 64:** 
+**Slide 61:** We chose to use a GitHub discussion board because it's a tool we're already using, and it's designed for conversations. And these discussions _are_ conversations, not issues or pull requests. You don't even need to know what an issue or a pull request _is_ to get involved.
 
-**Slide 65:** 
+This discussion board has a lot of the tools folks expect for managing discussions:
+
+   -There are threaded comments to help organize different topics of conversation.
+   
+   -There are simple ways to sort and filter discussions, and labeling as well.
+   
+   -And discussions also offer native upvoting functionality, which gives everyone an easy method for expressing interest in a component, and gives the USWDS team an easy 
+    method of assessing that interest.
+
+**Slide 62:** What do you need to know to start a discussion? Really, just two things:
+
+   -Are you interested in suggesting a new component?
+   
+   -And, is there already an existing discussion about that new component?
+   
+If you are, and there isn't, go ahead and start a new discussion!
+
+**Slide 63:** Discussions are meant to be **incremental**. You can start with a lot or a little. The person who authors the discussion doesn't need to know everything. We'll work it all out together eventually.
+
+Discussions are meant to be **informal**. Of course, be formal if that's your style, but we aren't expecting to post and exchange formal briefs, we're trying to work out a common understanding together. But it's also worth pointing out that we all agree to a code of conduct to participate. Informal doesn't mean uncivil.
+
+And discussions are meant to be **persistent**. We want to have a single discussion related to a component that we can all use as a common reference and a common place for communication as a component moves through the proposal phase and into assignment and development.
+
+**Slide 64:** So if you want to check out new component discussions and maybe start a new one yourself, head over to [github.com/uswds/uswds/discussions/categories/component-proposals](https://www.google.com/url?q=http://github.com/uswds/uswds/discussions/categories/component-proposals&sa=D&source=docs&ust=1711663441789995&usg=AOvVaw0mX5Q-VhtQsBwgFnBAwMJ5).
+
+We've been converting existing component-request issues into discussions, and the current contents of that board should be up to date, but if you know you've submitted a component-request issue and don't see it there, let us know.
+
+**See a component you'd like to see in the design system?** Get involved in that discussion.
+
+**Got a new component idea that's not yet on the board?** Select New discussion and start a new one.
+
+**Slide 65:** So - What do we hope to get out of these discussions? How do we turn discussions into proposals? And what happens next? For that, I'll pass it back to Anne.
 
 **Slide 66:** 
 
-**Slide 67:** 
+AP: Thanks Amy. This is Anne. While proposal discussions are freeform, we are looking to collect a few specific bits of information that will help us understand the component better, and lead to the proposal that could form the practical starting point for component development, which is the next phase in the life cycle.
 
-**Slide 68:** 
+**Slide 67:** First, we want to address some general information about the proposed component:
 
-**Slide 69:** 
+   -What's the common name (or names) of this component?
+   
+   -What gap does it fill in the design system? And how is this different from existing USWDS components?
+   
+   -And does this component directly support any federal laws, guidance, or policies?
+   
+**Slide 68:** As well as potential design ideas and context:
 
-**Slide 70:** 
+   -What's the potential core functionality of this component?
+   
+   -Are there any examples of how the component might work?
 
-**Slide 71:** 
+**Slide 69:** We'll want to address what this component is _used_ for.
 
-**Slide 72:** 
+We want to outline the appropriate use cases:
 
-**Slide 73:** 
+   -What common interactions does this component support?
 
-**Slide 74:** 
+   -What does this component need to do to be successful and effective?
+   
+   -What kind of content — that is, information inside it — would be ideal for this component?
+
+**Slide 70:** And also scenarios where this component would _not_ be the appropriate choice:
+
+   -Are there common ways this type of component is misused?
+   
+   -Are there similar interactions that would be better supported by other components?
+   
+   -What kind of content should teams not use with this component?
+
+**Slide 71:** We also want to understand any usability considerations, with supporting evidence if possible.
+
+From a usability or UX perspective, we want to understand:
+
+   -What are the characteristics of a successful interaction with this component? How does that interaction go?
+   
+   -What would make this component less usable?
+   
+   -What are common pitfalls or implementation mistakes associated with this component?
+   
+   -How might the mobile context affect how folks use this component?
+
+**Slide 72:** From the accessibility perspective we want to understand:
+
+   -Will this component cause difficulty for people who use any assistive technologies?
+   
+   -And could this component be difficult for any other audiences?
+
+**Slide 73:** And finally, we want to identify potential stakeholders, advocates, and volunteers related to the component. These are folks willing to help design, develop, or test the component, and any significant support from an agency or group.
+
+**Slide 74:** These questions are the common criteria we'll use to create a formal proposal document. We'll prompt discussions to make sure we cover all this, then we'll collect it into a formal proposal in our uswds-proposals repo as a decision-record candidate.
 
 **Slide 75:** When the formal proposal is complete, we'll post it back into the discussion for a final comment period of at least 45 days before we evaluate it.
 
 The **comment period** is an opportunity to tell us what works and what doesn’t about this proposal, before we evaluate the proposal as a team to consider how the proposed component fits into the system and its needs, including the needs of the teams who use it. So again, your input is important.
 
-If we approve the proposal, it moves to the **assignment period:** where an individual or team can take that proposal into development. This _might_ be the USWDS team, but it doesn't have to be. 
+If we approve the proposal, it moves to the **assignment period:** where an individual or team can take that proposal into development. This _might_ be the USWDS team, but it doesn't have to be.
 
 **Slide 76:** Throughout the process, we'll highlight active discussions in our newsletter and in these monthly calls. We don’t want to overwhelm folks with these, but we'll be working hard to get you — the USWDS community — involved, and highlight opportunities to contribute from month to month, and keep everyone up to date as we refine this process.
 
