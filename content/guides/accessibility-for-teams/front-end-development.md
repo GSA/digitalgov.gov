@@ -4,8 +4,8 @@ title: "Accessibility for front-end developers"
 deck: ""
 summary: ""
 guide: accessibility-for-teams
-image: guide-dap
-primary_image: guide-dap
+image: 
+primary_image: 
 summary_box: true
 topics:
   - accessibility
@@ -53,7 +53,7 @@ Web Content Accessibility Guidelines (WCAG) 2.0 references:
 
 Video tutorial:
 
-**How I do an accessibility check**
+- How I do an accessibility check
 
 {{< youtube id="cOmehxAU_4s" title="How I do an accessibility check" >}}
 
@@ -120,7 +120,7 @@ Are you using accurate headings on your page?
 3. Avoid skipping heading levels: Always start with `h1`, use `h2` next, and so on.
 4. Use only one `h1` per page for the page title.
 
-{{< note >}} 
+{{< note >}}
 While HTML5 allows you to reset headings to `h1` on new section elements, some screen reader users will have difficulty discerning the structure of pages with multiple h1s. For this reason, it’s best to include only one h1 per page.
 {{< /note >}}
 
