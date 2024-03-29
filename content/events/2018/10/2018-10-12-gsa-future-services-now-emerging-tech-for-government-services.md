@@ -24,7 +24,6 @@ venue:
 topics:
   - emerging-tech
   - artificial-intelligence
-  - virtual-augmented-reality-community
   - multimedia
 
 ---

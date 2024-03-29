@@ -5,7 +5,7 @@
       <div class="usa-logo" id="basic-logo">
         <em class="usa-logo__text">
           <a
-            href="{{- "/" | relURL -}}"
+            href="{{- .Site.BaseURL -}}"
             title="{{- .Site.Title }} Home"
             aria-label="{{- .Site.Title }} Home"
           >
@@ -24,7 +24,7 @@
 
     <nav aria-label="Primary navigation" class="usa-nav">
       <button class="usa-nav__close">
-        <img src="{{ "/uswds/img/close.svg" | relURL }}" alt="close" />
+        <img src="{{ "uswds/img/close.svg" | relURL }}" alt="close" />
       </button>
 
       {{- $currentNode := . -}}

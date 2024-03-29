@@ -7,6 +7,10 @@ title: Overview of the Privacy Act of 1974 (2020 Edition)
 deck: This overview, prepared by the Department of Justice’s Office of Privacy and Civil Liberties (OPCL), covers various provisions of the Privacy Act, as addressed by court decisions in cases involving the Act’s disclosure prohibition, its access and amendment provisions, and its agency record-keeping requirements.
 summary: This overview, prepared by the Department of Justice’s Office of Privacy and Civil Liberties (OPCL), covers various provisions of the Privacy Act, as addressed by court decisions in cases involving the Act’s disclosure prohibition, its access and amendment provisions, and its agency record-keeping requirements.
 
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases:
+  - /resources/overview-of-the-privacy-act-of-1974-2015-edition/
+
 # See all topics at https://digital.gov/topics
 topics:
   - security

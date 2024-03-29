@@ -45,8 +45,6 @@ Below we have added specific resources to each guideline.
 - [Why NCI Moved to a Structured]({{< ref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}}) Content Model (a case study)
 - [Structured]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}) Content in Government: How HHS and NCI Are Getting Started
 - [18F Digital Content Guide](https://pages.18f.gov/content-guide/index.html) &#8211; This guide helps writers create content that’s easy to use and meets citizens where they’re at.
-- [Sites.USA.gov](https://sites.usa.gov/)
-- Sites is a shared service to help agencies focus on creating great content rather than on building systems to deliver that content.
 - Open Source Code for [Making Tables Responsive]({{< ref "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}) &#8211; Learn how the Defense Financial Accounting Service [leveraged code that the Department of Health and Human Services developed]({{< ref "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" >}}) to make their tables and charts responsive.
 - Open and Structured Content: &#8220;Article&#8221; and &#8220;Event&#8221; Models
 - [Government Open and Structured Content Models Are Here]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) &#8211; Introduction to the content models developed by the Open and Structured Content Working Group
@@ -64,7 +62,7 @@ Below we have added specific resources to each guideline.
 
 ### Government Regulations and Resources:
 
-- [Section 508 Rules refresh](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/proposed-rule/ii-executive-summary) &#8211; includes guidance for smartphones and other new devices.
+- [Section 508 Rules refresh](https://www.access-board.gov/ict/#i-executive-summary) &#8211; includes guidance for smartphones and other new devices.
 - [Status of Worldwide Efforts to Update Accessibility Guidance]({{< ref "2015-06-23-trends-on-tuesday-global-efforts-underway-to-update-mobile-accessibility-guidelines.md" >}})
 - U.S. Department of Labor&#8217;s Accessibility [test script for Section 508 compliance of native apps](https://github.com/USDepartmentofLabor/Mobile-Accessibility-Test-Script) .
 - [Mobile Statement of Work and Developer Qualifications]({{< ref "mobile-sow-and-developer-qualifications.md" >}})
@@ -126,7 +124,7 @@ Below we have added specific resources to each guideline.
 
 ### Non-Government Examples & Resources:
 
-- [Google Mobile Analytics](https://analyticsacademy.withgoogle.com/course04)
+- [Google Analytics Academy - Mobile App Analytics Fundamentals (YouTube playlist, 14 videos)](https://www.youtube.com/watch?v=kXvA5CqGPbI&list=PLI5YfMzCfRtZCt8JgQWN-irBbYYAuJ_U9)
 - [Flurry Mobile Analytics](https://developer.yahoo.com/flurry/docs/analytics/)
 - [GovUK Analysis of Mobile User Habits](https://insidegovuk.blog.gov.uk/2015/06/26/improving-content-display-mobile/)
 - [Multi-armed Bandit Approach to Testing](http://stevehanov.ca/blog/index.php?id=132)
@@ -136,9 +134,9 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples & Resources:
 
-- [Mobile Technology Tiger Team](https://cio.gov/mobile-technology-tiger-team-sets-federal-mobile-applications-security-standards/)
+- [Federal Mobility Group](https://www.cio.gov/about/members-and-leadership/Federal-Mobility-Group/)
 - [Mobile Privacy Disclosures: Building Trust Through Transparency: A Federal Trade Commission Staff Report](https://www.ftc.gov/reports/mobile-privacy-disclosures-building-trust-through-transparency-federal-trade-commission), Feb 2013
-- [Mobile App Developers: Start with Security](https://www.ftc.gov/tips-advice/business-center/guidance/mobile-app-developers-start-security), FTC
+- [Mobile App Developers: Start with Security](https://www.ftc.gov/business-guidance/resources/app-developers-start-security), FTC
 
 ### Non-Government Examples & Resources:
 

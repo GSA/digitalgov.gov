@@ -6,7 +6,7 @@ summary: "An inclusive culture contributes to a sense of belonging, promotes a h
 
 topics:
   - diversity-equity-and-inclusion
-  - project-management
+  - product-and-project-management
   - professional-development
 
 slug: an-introduction-to-inclusion
