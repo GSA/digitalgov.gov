@@ -96,7 +96,7 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 {{< box >}}
 ##### Suggested link text:
 
-`Accessibility`
+`Accessibility` or `Accessibility statement`
 
 ##### Required on:
 
