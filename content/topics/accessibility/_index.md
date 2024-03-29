@@ -50,5 +50,5 @@ featured_links:
       href: "https://designsystem.digital.gov/documentation/accessibility/#what-project-teams-should-do"
     - title: "Accessibility for Teams"
       summary: "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow."
-      href: "https://accessibility.digital.gov"
+      href: "https://digital.gov/guides/accessibility-for-teams"
 ---
