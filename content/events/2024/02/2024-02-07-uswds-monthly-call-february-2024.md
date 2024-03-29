@@ -125,9 +125,7 @@ DW: Thanks Amy!
 AP: For sure. I’m Anne Petersen, my pronouns are they/them. I’m a white person with short brown hair and small glasses in a dark blue shirt today.
 DW: Thanks Anne. First, I'd like to pass it to Amy, to walk us through our new component lifecycle model.
 
-**Slide 32:** 
-
-AL: Thanks, Dan. This is Amy and I’m going to show you how we structured the steps in the component lifecycle model, starting with what we're calling **phases**.
+**Slide 32:** AL: Thanks, Dan. This is Amy and I’m going to show you how we structured the steps in the component lifecycle model, starting with what we're calling **phases**.
 
 **Slide 33:** The overall shape of the lifecycle covers the progression of a component on the way up from just an idea to a mature, stable component published in the design system and in use in projects. It also covers the — as yet unused — process for a component on the way down, deprecating and retiring components that we no longer recommend or support.
 
@@ -172,9 +170,7 @@ And it's worth repeating that this page will list components that are in the pro
 
 **Slide 39:** But first, I'll pass it over to Anne to talk about what's next with the component lifecycle.
 
-**Slide 40:** 
-
-AP: Thanks Amy: this is Anne. That’s a great question. How will this component lifecycle evolve? What’s next for it, and next after that? The exciting part is that we don’t know. Iteration! In action! We’ll find out, basically, as we go.
+**Slide 40:** AP: Thanks Amy: this is Anne. That’s a great question. How will this component lifecycle evolve? What’s next for it, and next after that? The exciting part is that we don’t know. Iteration! In action! We’ll find out, basically, as we go.
 
 **Slide 41:** But we do have some assumptions. We think that it's going to be important to get more and more clear and provide more and more detail about how a component moves from one step or phase to another, to develop specific requirements and criteria, and continue to remove ambiguity.
 
@@ -204,9 +200,7 @@ This whole thing is something we’re trying out. Our first but maybe-not-best a
 **Slide 45:** So: let’s try it out! And we think that the best place for folks to start to engage with this process is at the beginning.
 How does this process start, for you, right now? Dan, want to give us that starting point?
 
-**Slide 46:** 
-
-DW: Thanks Anne, this is Dan again. Since we're actively building a process we hope to refine with real contributions and community participation, it makes sense to start where we think we'll need participation from lots of perspectives: at the beginning, with the **component proposal** process.
+**Slide 46:** DW: Thanks Anne, this is Dan again. Since we're actively building a process we hope to refine with real contributions and community participation, it makes sense to start where we think we'll need participation from lots of perspectives: at the beginning, with the **component proposal** process.
 
 **Slide 47:** And in our process, we're starting with a discussion.
 
@@ -234,9 +228,7 @@ Why this component? What interactions does it support? When do you use it? When 
 
 So to talk about the process we're launching today, here's Amy.
 
-**Slide 55:** 
-
-AL: Thanks, Dan. This is Amy again. Our new proposal process is how we introduce new component ideas and evaluate them.
+**Slide 55:** AL: Thanks, Dan. This is Amy again. Our new proposal process is how we introduce new component ideas and evaluate them.
 
 **Slide 56:** Our first goal was to make the process **intuitive** for all kinds of contributors. We wanted something that was more welcoming to anyone who has a perspective on components: folks like designers, usability experts, accessibility pros, and writers — not just developers.
 
@@ -293,9 +285,7 @@ We've been converting existing component-request issues into discussions, and th
 
 **Slide 65:** So - What do we hope to get out of these discussions? How do we turn discussions into proposals? And what happens next? For that, I'll pass it back to Anne.
 
-**Slide 66:** 
-
-AP: Thanks Amy. This is Anne. While proposal discussions are freeform, we are looking to collect a few specific bits of information that will help us understand the component better, and lead to the proposal that could form the practical starting point for component development, which is the next phase in the life cycle.
+**Slide 66:** AP: Thanks Amy. This is Anne. While proposal discussions are freeform, we are looking to collect a few specific bits of information that will help us understand the component better, and lead to the proposal that could form the practical starting point for component development, which is the next phase in the life cycle.
 
 **Slide 67:** First, we want to address some general information about the proposed component:
 
