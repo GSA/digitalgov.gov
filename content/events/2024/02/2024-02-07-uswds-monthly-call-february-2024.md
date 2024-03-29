@@ -364,9 +364,7 @@ We want to make this as easy as we can. Help us understand what will work for yo
 **Slide 77:** And if interacting on GitHub isn’t an option for you, you can always email us at uswds@gsa.gov, and we can cross-post your proposal, comment, or vote.
 Now I'll pass it back to Dan to wrap things up.
 
-**Slide 78:** 
-
-DW: Thanks Anne. We've done a lot and we still have a lot to do.
+**Slide 78:** DW: Thanks Anne. We've done a lot and we still have a lot to do.
 
 And I'd like to acknowledge that getting this far has been a really big team effort for us, and I appreciate how our team's been able to put this work together.
 
