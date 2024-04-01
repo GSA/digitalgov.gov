@@ -18,10 +18,13 @@ summary: >-
   Learn more about how their team does holistic reviews of each topic section based on a rolling calendar with the goal of updating all content at least every 6 months.
 # See all topics at https://digital.gov/topics
 topics:
+  - Analytics
   - best-practices
   - content-strategy
   - user-centered-design
   - design
+  - search
+  - research
 slug: how-usagov-uses-data-to-improve-content
 # Controls how this page appears across the site
 # 0 -- hidden
