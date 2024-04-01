@@ -25,6 +25,9 @@ topics:
   - design
   - search
   - research
+  - multilingual
+  - accessibility
+  - plain-language
 slug: how-usagov-uses-data-to-improve-content
 # Controls how this page appears across the site
 # 0 -- hidden
