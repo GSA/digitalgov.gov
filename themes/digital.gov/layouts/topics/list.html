@@ -122,7 +122,7 @@
       {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
       {{ if $is_first_page }}
         <section class="dg-stream usa-section">
-          <div class="grid-row grid-container-desktop">
+          <div class="grid-container-desktop">
             {{/* Display first 5 events */}}
             {{- $featured_events_stream := first 5 $events -}}
             {{- if $featured_events_stream -}}
@@ -136,7 +136,7 @@
             {{- end -}}
           </div>
 
-          <div class="grid-row grid-container-desktop">
+          <div class="grid-container-desktop">
             {{/* Display first 5 news posts */}}
             {{- $featured_posts_stream := first 5 $posts.ByDate.Reverse -}}
 
