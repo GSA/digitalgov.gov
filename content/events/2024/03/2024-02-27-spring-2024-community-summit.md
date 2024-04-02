@@ -69,9 +69,11 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 ### 10:00 am - 10:10 am, ET
 
-{{< img-right src="250-eop-omb-executive-office-president-office-management-budget" >}}
+<img src="https://s3.amazonaws.com/digitalgov/250-eop-omb-executive-office-president-office-management-budget.png" alt="Seal of the Executive Office of the President, Office of Management and Budget, OMB." width="20%">
 
-Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, OMB
+Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, Executive Office of the President, Office of Management and Budget (OMB)
+
+{{< youtube id="uwedXPjqOLE" title="Opening keynote with Clare Martorana" >}}
 
 ---
 
@@ -83,13 +85,11 @@ Hear from a panel of experts on making the case for building a digital team with
 
 **Speakers**
 
-* **Jacquelyn Dolezal Morales** — Digital Communications Specialist, IAF
-* **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue, DOI
-* **Robert Jolly** — Product Manager, 10x, GSA
+* **Jacquelyn Dolezal Morales** — Digital Communications Specialist, Inter-American Foundation (IAF)
+* **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue (ONRR), U.S. Department of the Interior (DOI)
+* **Robert Jolly** — Product Manager, 10x, U.S. General Services Administration (GSA)
 * **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
-* **Gregory Your** — Director of Website Management, USAID
-
-
+* **Gregory Your** — Director of Website Management, U.S. Agency for International Development (USAID)
 
 <table style="width:100%; border:0px;">
 <tr>
@@ -112,10 +112,10 @@ In this session, a panel of experts will share insights, methods, and strategies
 **Speakers**
 
 * **Kristen Lohman** — Design Strategist, Service Delivery Team, GSA
-* **Beth A. Martin** — Digital Services Expert (UX Designer), OPM
+* **Beth A. Martin** — Digital Services Expert (UX Designer), U.S. Office of Personnel Management (OPM)
 * **Mark Meyer** — Software Developer, Digital Service Team, GSA
-* **Christopher Patten** — Human-Centered Designer, DHS
-* **Martha Wilkes** — Lead Accessibility Strategist, VA
+* **Christopher Patten** — Human-Centered Designer, U.S. Department of Homeland Security (DHS)
+* **Martha Wilkes** — Lead Accessibility Strategist, U.S. Department of Veterans Affairs (VA)
 
 <table style="width:100%; border:0px;">
 <tr>
@@ -142,8 +142,8 @@ Join us for an engaging panel discussion on content strategy development, conten
 
 **Speakers**
 
-* **Joe Galbo** — Social Media Specialist, CPSC
-* **Sally Harris** — Managing Director, Digital Media and Creative Services, ED
+* **Joe Galbo** — Social Media Specialist, U.S. Consumer Product Safety Commission (CPSC)
+* **Sally Harris** — Managing Director, Digital Media and Creative Services, U.S. Department of Education (ED)
 * **Ryan Johnson** — Content Strategist, Service Delivery Team, GSA
 * **Rosamund Lannin** — Content Strategist, Service Delivery Team, GSA
 
@@ -165,9 +165,9 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 
 **Speakers**
 
-* **Anthony Burley** — IT Management, CSOSA
-* **Laura Larrimore** — Senior Digital Strategist, DOS
-* **Andrew Nielson** — Director of the Government-wide IT Accessibility Program, GSA
+* **Anthony Burley** — IT Management, Court Services & Offender Supervision Agency for the District of Columbia (CSOSA)
+* **Laura Larrimore** — Senior Digital Strategist, U.S. Department of State (DOS)
+* **Andrew Nielson** — Director, Government-wide IT Accessibility Program, GSA
 * **Ashley Owens** — Senior Digital Acquisition Strategist, Service Delivery Team, GSA
 * **Justen Proctor** — Senior Contracting Officer, GSA
 
@@ -189,9 +189,9 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 **Speakers**
 
-* **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases, NIH
+* **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), U.S. Department of Health and Human Services (HHS)
 * **Michael Horton** — Accessible Design & Development Advisor, GSA
-* **Gloria Huang** — Digital Engagement and Analytics Branch Chief, FEMA
+* **Gloria Huang** — Digital Engagement and Analytics Branch Chief, Federal Emergency Management Agency (FEMA), DHS
 * **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
 
 <table style="width:100%; border:none;">
@@ -206,9 +206,11 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 ### 3:50 pm - 4:00 pm, ET
 
-{{< img-right src="gsa-blue-logo-sq" >}}
+<img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a medium blue square." width="150px">
 
-Closing remarks with Ann Lewis, Director of Technology Transformation Services (TTS), GSA
+Closing remarks with Ann Lewis, Director, Technology Transformation Services (TTS), GSA
+
+{{< youtube id="5cnCfuXevgA" title="Closing remarks with Ann Lewis" >}}
 
 ---
 
