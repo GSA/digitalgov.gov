@@ -56,7 +56,7 @@ In this session, you’ll learn how to:
 
 {{< youtube id="It-I7gcaaBg" title="Cultivating a dynamic career in UX" >}}
 
-1. Cultivating a dynamic career in UX - Carlos Alvarado (time length: 8:11)
+3. Cultivating a dynamic career in UX - Carlos Alvarado (time length: 8:11)
 
 {{< youtube id="UW8v-I8JM_U" title="Cultivating a dynamic career in UX" >}}
 
