@@ -155,13 +155,13 @@ Today, we've published an overview of all of these phases and steps on our new c
 
 **Slide 37:** Our new component lifecycle page gives an overview of each phase and step of the component lifecycle. This page covers:
 
-   -What happens in each step,
+   * What happens in each step,
    
-   -When each step starts and ends,
+   * When each step starts and ends,
    
-   -How you can contribute during each step,
+   * How you can contribute during each step,
    
-   -Where you can find the components that are in each step.
+   * Where you can find the components that are in each step.
 
 You can find this new page at [designsystem.digital.gov/components/lifecycle](https://designsystem.digital.gov/components/lifecycle).
 And now, since every component — from idea and proposal to stable and deprecation — is in one of the steps of the life cycle, we've also been able to build a new component status page to help you know what's happening with both components we've released in the design system and components that aren't in the design system yet.
@@ -242,7 +242,7 @@ We've developed a new component proposal process that has two distinct parts, so
 
 **Slide 58:** The frontstage is a new Component Proposal discussion board that will be the persistent home for public, community conversation about new components. You can find this new discussion board at [github.com/uswds/uswds/discussions/categories/component-proposals](https://www.google.com/url?q=https://github.com/uswds/uswds/discussions/categories/component-proposals&sa=D&source=docs&ust=1711663441787743&usg=AOvVaw1Fe3HHeStdk-sosZMHy_rb). On this slide, there's a screenshot of this proposals board, with a pinned post reading "Getting started with USWDS component discussions".
 
-**Slide 59:** The backstage is a new proposals repo, uswds-proposals, at [github.com/uswds/uswds-proposals](github.com/uswds/uswds-proposals).
+**Slide 59:** The backstage is a new proposals repo, uswds-proposals, at [github.com/uswds/uswds-proposals](https://www.google.com/url?q=https://github.com/uswds/uswds-proposals&sa=D&source=docs&ust=1712093682783342&usg=AOvVaw1001oegxcZVR0lPvLlqXlP).
 
 On this slide we see a screenshot of this new proposals repo. It features a README with the text "USWDS component proposal process".
 
@@ -256,18 +256,18 @@ But really, the discussions are where the action will be. So let’s take a look
 
 This discussion board has a lot of the tools folks expect for managing discussions:
 
-   -There are threaded comments to help organize different topics of conversation.
+   * There are threaded comments to help organize different topics of conversation.
    
-   -There are simple ways to sort and filter discussions, and labeling as well.
+   * There are simple ways to sort and filter discussions, and labeling as well.
    
-   -And discussions also offer native upvoting functionality, which gives everyone an easy method for expressing interest in a component, and gives the USWDS team an easy 
+   * And discussions also offer native upvoting functionality, which gives everyone an easy method for expressing interest in a component, and gives the USWDS team an easy 
     method of assessing that interest.
 
 **Slide 62:** What do you need to know to start a discussion? Really, just two things:
 
-   -Are you interested in suggesting a new component?
+   * Are you interested in suggesting a new component?
    
-   -And, is there already an existing discussion about that new component?
+   * And, is there already an existing discussion about that new component?
    
 If you are, and there isn't, go ahead and start a new discussion!
 
@@ -291,53 +291,53 @@ We've been converting existing component-request issues into discussions, and th
 
 **Slide 67:** First, we want to address some general information about the proposed component:
 
-   -What's the common name (or names) of this component?
+   * What's the common name (or names) of this component?
    
-   -What gap does it fill in the design system? And how is this different from existing USWDS components?
+   * What gap does it fill in the design system? And how is this different from existing USWDS components?
    
-   -And does this component directly support any federal laws, guidance, or policies?
+   * And does this component directly support any federal laws, guidance, or policies?
    
 **Slide 68:** As well as potential design ideas and context:
 
-   -What's the potential core functionality of this component?
+   * What's the potential core functionality of this component?
    
-   -Are there any examples of how the component might work?
+   * Are there any examples of how the component might work?
 
 **Slide 69:** We'll want to address what this component is _used_ for.
 
 We want to outline the appropriate use cases:
 
-   -What common interactions does this component support?
+   * What common interactions does this component support?
 
-   -What does this component need to do to be successful and effective?
+   * What does this component need to do to be successful and effective?
    
-   -What kind of content — that is, information inside it — would be ideal for this component?
+   * What kind of content — that is, information inside it — would be ideal for this component?
 
 **Slide 70:** And also scenarios where this component would _not_ be the appropriate choice:
 
-   -Are there common ways this type of component is misused?
+   * Are there common ways this type of component is misused?
    
-   -Are there similar interactions that would be better supported by other components?
+   * Are there similar interactions that would be better supported by other components?
    
-   -What kind of content should teams not use with this component?
+   * What kind of content should teams not use with this component?
 
 **Slide 71:** We also want to understand any usability considerations, with supporting evidence if possible.
 
 From a usability or UX perspective, we want to understand:
 
-   -What are the characteristics of a successful interaction with this component? How does that interaction go?
+   * What are the characteristics of a successful interaction with this component? How does that interaction go?
    
-   -What would make this component less usable?
+   * What would make this component less usable?
    
-   -What are common pitfalls or implementation mistakes associated with this component?
+   * What are common pitfalls or implementation mistakes associated with this component?
    
-   -How might the mobile context affect how folks use this component?
+   * How might the mobile context affect how folks use this component?
 
 **Slide 72:** From the accessibility perspective we want to understand:
 
-   -Will this component cause difficulty for people who use any assistive technologies?
+   * Will this component cause difficulty for people who use any assistive technologies?
    
-   -And could this component be difficult for any other audiences?
+   * And could this component be difficult for any other audiences?
 
 **Slide 73:** And finally, we want to identify potential stakeholders, advocates, and volunteers related to the component. These are folks willing to help design, develop, or test the component, and any significant support from an agency or group.
 
@@ -366,7 +366,7 @@ This is important because this process stuff is what everything else is built fr
 
 **Slide 80:** Q&A
 
-**Slide 81:** Thanks for joining today’s USWDS monthly call. We'll be back in March with a dev-focussed call, about building new things with USWDS that feel like USWDS. It'll be a nice follow-up from this call, as we start to think about how the component lifecycle moves from proposal to development!
+**Slide 81:** Thanks for joining today’s USWDS monthly call. We'll be back in March with a dev-focused call, about building new things with USWDS that feel like USWDS. It'll be a nice follow-up from this call, as we start to think about how the component lifecycle moves from proposal to development!
 
 If you have a question we weren't able to answer in the call, or thought of later, please head into our public Slack and ask it there. We'll be around after the call to answer questions.
 
