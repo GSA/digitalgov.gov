@@ -4,8 +4,7 @@ title: "Accessibility for content designers"
 deck: "Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them."
 summary: ""
 guide: accessibility-for-teams
-image: 
-primary_image: 
+primary_image: accessibility-for-teams-guide
 summary_box: true
 topics:
   - accessibility

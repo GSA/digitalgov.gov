@@ -4,8 +4,7 @@ title: "Accessibility for user experience designers"
 deck: ""
 summary: ""
 guide: accessibility-for-teams
-image: 
-primary_image: 
+primary_image: accessibility-for-teams-guide
 summary_box: true
 topics:
   - accessibility
