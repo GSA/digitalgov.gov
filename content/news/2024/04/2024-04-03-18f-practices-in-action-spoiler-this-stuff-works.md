@@ -4,8 +4,8 @@ source_url: https://18f.gsa.gov/2024/04/03/18f-practices-in-action/
 source: 18f
 date: 2024-04-03
 title: "18F practices in action (spoiler: this stuff works)"
-deck: How well do 18F software development practices work? We reflected on a
-  recent project to see how well 18F recommendations aligned with what we
+deck: How well do 18F software development practices work? The 18F reflected on a
+  recent project to see how well 18F recommendations aligned with what they
   actually did.
 summary: How well do 18F software development practices work? The 18F team reflected on a
   recent project to see how well 18F recommendations aligned with what they
