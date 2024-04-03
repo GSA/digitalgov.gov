@@ -169,7 +169,7 @@ And now, since every component — from idea and proposal to stable and deprecat
 
 **Slide 38:** Our new component status page lists all of the USWDS components — and component ideas — currently in the life cycle, and shows which phase the component is currently in. We also provide a link to the most current information on the component. Depending on the phase, this link might point to the discussion, issue, pull request, or component page. You can find this new page at [designsystem.digital.gov/components/status](https://designsystem.digital.gov/components/status).
 
-And it's worth repeating that this page will list components that are in the proposal phase as well, so it can serve as an important reference if you're interested in whether the design system has a specific component, or whether a component you need has a proposal already in progress. If there isn't a proposal, or if you want to speed up the proposal process with your own contributions, well… that's what we'll talk about in just a moment!
+And it's worth repeating that this page will list components that are in the Proposal Phase as well, so it can serve as an important reference if you're interested in whether the design system has a specific component, or whether a component you need has a proposal already in progress. If there isn't a proposal, or if you want to speed up the proposal process with your own contributions, well… that's what we'll talk about in just a moment!
 
 **Slide 39:** But first, I'll pass it over to Anne to talk about what's next with the component lifecycle.
 
@@ -276,7 +276,7 @@ If you are, and there isn't, go ahead and start a new discussion!
 
 Discussions are meant to be **informal**. Of course, be formal if that's your style, but we aren't expecting to post and exchange formal briefs, we're trying to work out a common understanding together. But it's also worth pointing out that we all agree to a code of conduct to participate. Informal doesn't mean uncivil.
 
-And discussions are meant to be **persistent**. We want to have a single discussion related to a component that we can all use as a common reference and a common place for communication as a component moves through the proposal phase and into assignment and development.
+And discussions are meant to be **persistent**. We want to have a single discussion related to a component that we can all use as a common reference and a common place for communication as a component moves through the Proposal Phase and into assignment and development.
 
 **Slide 64:** So if you want to check out new component discussions and maybe start a new one yourself, head over to [github.com/uswds/uswds/discussions/categories/component-proposals](https://www.google.com/url?q=http://github.com/uswds/uswds/discussions/categories/component-proposals&sa=D&source=docs&ust=1711663441789995&usg=AOvVaw0mX5Q-VhtQsBwgFnBAwMJ5).
 
