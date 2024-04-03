@@ -47,32 +47,7 @@
             </section>
           </div>
         </div>
-
-        <div class="grid-row tablet-lg:grid-gap-4">
-          <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
-            <footer>
-              <a class="btn" href="{{ "news" | absURL }}" title="">
-                <span>See all News</span>
-                <svg
-                  class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                >
-                  <use
-                    xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
-                  ></use>
-                </svg>
-              </a>
-              <p>
-                Have a case study to share? Did your team recently launch
-                something?<br /><a href="mailto:digitalgov@gsa.gov" title=""
-                  ><strong>Send us an email</strong></a
-                >
-              </p>
-            </footer>
-          </div>
-        </div>
+        {{- partial "partials/core/news.html" -}}
       </div>
     </div>
   </section>
