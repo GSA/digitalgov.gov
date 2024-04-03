@@ -42,7 +42,7 @@ We’ve got a couple nice new site and feature launches, a couple product update
 
 **Slide 4:** Let's get into it with site launches.
 
-**Slide 5:** First, [simpler.grants.gov](https://www.google.com/url?q=https://simpler.grants.gov&sa=D&source=docs&ust=1711052748736300&usg=AOvVaw2YSQ8xGM91WUdioPsTCZMY), an exciting new initiative from the grants.gov team at the department of Health and Human Services. 
+**Slide 5:** First, [simpler.grants.gov](https://www.google.com/url?q=https://simpler.grants.gov&sa=D&source=docs&ust=1711052748736300&usg=AOvVaw2YSQ8xGM91WUdioPsTCZMY), an exciting new initiative from the grants.gov team at the Department of Health and Human Services. 
 
 Grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Simpler.grants.gov is a new site from the grants.gov team that's using a transparent, iterative, and agile process to document their progress modernizing and improving the grants.gov service. It's an exciting project where they'll be building software out in the open, and I for one, am pretty interested in their approach and their progress! The simpler.grants.gov homepage features a simple, text-focused layout, with a large blue hero field and the words "We're building a simpler Grants.gov!"
 
@@ -50,7 +50,7 @@ Grants.gov provides a centralized location for grant seekers to find and apply f
 
 You know search.gov, right? It's the search engine by and for the federal government, a free service powering search results on over 2,000 websites. Earlier this year they released a beta of a USWDS-based redesign of their hosted results page. Now Digital.gov is the first site to be able to use it, hosting a USWDS-powered search result layout! Search.gov and DigitalGov — a real chocolate and peanut butter combination in my book.
 
-On this slide we see the [Digital.gov search results](https://www.google.com/url?q=https://find.digitalgov.gov/search?utf8%3D%25E2%259C%2593%26affiliate%3Ddigitalgov%26query%3Dusability%26commit%3D&sa=D&source=docs&ust=1711052748731793&usg=AOvVaw1J9MZWOISXo_njMu-hJ7Ti) page for the keyword "usability". We see a clean display of search results, as well as a way to select between all search results and just videos.
+On this slide we see the [Digital.gov search results](https://www.google.com/url?q=https://find.digitalgov.gov/search?utf8%3D%25E2%259C%2593%26affiliate%3Ddigitalgov%26query%3Dusability%26commit%3D&sa=D&source=docs&ust=1711052748731793&usg=AOvVaw1J9MZWOISXo_njMu-hJ7Ti) page for the keyword "usability." We see a clean display of search results, as well as a way to select between all search results and just videos.
 
 **Slide 7:** Congratulations and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -125,6 +125,7 @@ DW: Thanks Amy!
 **Slide 31:** I'd also like to introduce Anne Petersen, the Experience Design lead on the core team. Anne, can you introduce yourself and give a brief self description?
 
 AP: For sure. I’m Anne Petersen, my pronouns are they/them. I’m a white person with short brown hair and small glasses in a dark blue shirt today.
+
 DW: Thanks Anne. First, I'd like to pass it to Amy, to walk us through our new component lifecycle model.
 
 **Slide 32:** AL: Thanks, Dan. This is Amy and I’m going to show you how we structured the steps in the component lifecycle model, starting with what we're calling **phases**.
@@ -135,13 +136,13 @@ The overall shape is a bit like the rising and falling shape we see on the slide
 
 **Slide 34:** These main phases in our component lifecycle may seem familiar to you. They are:
 
-**Proposal:** These components are under consideration for development through public discussion and a formal proposal. This part of the shape is now colored gold.
+* **Proposal:** These components are under consideration for development through public discussion and a formal proposal. This part of the shape is now colored gold.
 
-**Development:** These are the components undergoing active design, development, testing, and documentation before public release. This part of the shape is now colored blue.
+* **Development:** These are the components undergoing active design, development, testing, and documentation before public release. This part of the shape is now colored blue.
 
-**Released:** These are the components we've released to the public in our distribution package and documented on the USWDS website. This part of the shape is now colored green.
+* **Released:** These are the components we've released to the public in our distribution package and documented on the USWDS website. This part of the shape is now colored green.
 
-**Deprecated:** These are the components that do not meet requirements or are no longer needed. This part of the shape is now colored pink.
+* **Deprecated:** These are the components that do not meet requirements or are no longer needed. This part of the shape is now colored pink.
 
 **Slide 35:** But what's perhaps less familiar are the sub-phases (or steps) within these larger lifecycle groupings. We're putting a lot of work into establishing smaller steps with clearer transitions between steps.
 
@@ -172,7 +173,7 @@ And it's worth repeating that this page will list components that are in the pro
 
 **Slide 39:** But first, I'll pass it over to Anne to talk about what's next with the component lifecycle.
 
-**Slide 40:** AP: Thanks Amy: this is Anne. That’s a great question. How will this component lifecycle evolve? What’s next for it, and next after that? The exciting part is that we don’t know. Iteration! In action! We’ll find out, basically, as we go.
+**Slide 40:** AP: Thanks Amy, this is Anne. That’s a great question. How will this component lifecycle evolve? What’s next for it, and next after that? The exciting part is that we don’t know. Iteration! In action! We’ll find out, basically, as we go.
 
 **Slide 41:** But we do have some assumptions. We think that it's going to be important to get more and more clear and provide more and more detail about how a component moves from one step or phase to another, to develop specific requirements and criteria, and continue to remove ambiguity.
 
@@ -240,11 +241,11 @@ So we knew we wanted to make the component proposal something we _all_ can build
 
 We've developed a new component proposal process that has two distinct parts, sort of a frontstage and a backstage.
 
-**Slide 58:** The frontstage is a new Component Proposal discussion board that will be the persistent home for public, community conversation about new components. You can find this new discussion board at [github.com/uswds/uswds/discussions/categories/component-proposals](https://www.google.com/url?q=https://github.com/uswds/uswds/discussions/categories/component-proposals&sa=D&source=docs&ust=1711663441787743&usg=AOvVaw1Fe3HHeStdk-sosZMHy_rb). On this slide, there's a screenshot of this proposals board, with a pinned post reading "Getting started with USWDS component discussions".
+**Slide 58:** The frontstage is a new Component Proposal discussion board that will be the persistent home for public, community conversation about new components. You can find this new discussion board at [github.com/uswds/uswds/discussions/categories/component-proposals](https://www.google.com/url?q=https://github.com/uswds/uswds/discussions/categories/component-proposals&sa=D&source=docs&ust=1711663441787743&usg=AOvVaw1Fe3HHeStdk-sosZMHy_rb). On this slide, there's a screenshot of this proposals board, with a pinned post reading, "Getting started with USWDS component discussions."
 
 **Slide 59:** The backstage is a new proposals repo, uswds-proposals, at [github.com/uswds/uswds-proposals](https://www.google.com/url?q=https://github.com/uswds/uswds-proposals&sa=D&source=docs&ust=1712093682783342&usg=AOvVaw1001oegxcZVR0lPvLlqXlP).
 
-On this slide we see a screenshot of this new proposals repo. It features a README with the text "USWDS component proposal process".
+On this slide we see a screenshot of this new proposals repo. It features a README with the text, "USWDS component proposal process."
 
 This is where the USWDS core team collects what we've learned from these discussions into formal component proposals. It will be the new place where we document our decisions and reasoning. If you're familiar with the concept of Architectural Decision Records (or ADRs) that's pretty much what we're starting here, starting with new component decisions.
 
