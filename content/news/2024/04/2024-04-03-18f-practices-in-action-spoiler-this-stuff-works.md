@@ -7,8 +7,8 @@ title: "18F practices in action (spoiler: this stuff works)"
 deck: How well do 18F software development practices work? We reflected on a
   recent project to see how well 18F recommendations aligned with what we
   actually did.
-summary: How well do 18F software development practices work? We reflected on a
-  recent project to see how well 18F recommendations aligned with what we
+summary: How well do 18F software development practices work? The 18F team reflected on a
+  recent project to see how well 18F recommendations aligned with what they
   actually did.
 # See all topics at https://digital.gov/topics
 topics:
