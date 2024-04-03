@@ -1,0 +1,105 @@
+@use "uswds-core" as *;
+
+.topics-button {
+  margin-bottom: units("105");
+
+  &__link {
+    @include u-radius("sm");
+    background: white;
+    border: 1px color("primary-vivid") solid;
+    color: color("primary-vivid");
+    display: block;
+    font-family: family("sans");
+    font-size: font-size("sans", "sm");
+    font-weight: font-weight("medium");
+    overflow: auto;
+    text-decoration: none;
+    transition: background-color 0.5s, color 0.5s;
+    white-space: nowrap;
+
+    @include at-media("tablet") {
+      overflow: auto;
+      padding-left: px-to-rem(6px);
+      padding-right: px-to-rem(6px);
+    }
+  }
+
+  &__arrow {
+    @include u-float("right");
+    color: color("gray-1");
+    display: none;
+    margin-right: 10px;
+    transition: margin 0.4s;
+
+    @include at-media("desktop") {
+      display: block;
+    }
+  }
+
+  &__list {
+    list-style: none;
+    padding-left: 0;
+
+    @include at-media("tablet-lg") {
+      column-count: 3;
+    }
+  }
+
+  &__number {
+    @include u-radius("pill");
+    background: color("primary-lightest");
+    color: color("base-darker");
+    font-size: font-size("sans", "2xs");
+    height: fit-content;
+    margin: auto;
+    padding-left: units("05");
+    padding-right: units("05");
+  }
+}
+
+.topics-button--primary .topics-button__link {
+  padding: units(1);
+  padding-left: units(0.5);
+
+  &:visited {
+    color: color("primary-vivid");
+  }
+
+  &:hover {
+    background: color("primary-vivid");
+    border: 1px color("primary-vivid") solid;
+    color: color("gray-1");
+
+    .topics-button__arrow {
+      margin-right: 0;
+    }
+  }
+}
+
+.topics-button--count {
+  display: flex;
+  list-style: none;
+  margin-bottom: units(1.5);
+  transition: none;
+  width: fit-content;
+
+  @include at-media("tablet") {
+    column-count: 3;
+    margin-bottom: 0;
+  }
+
+  .topics-button__link {
+    border: none;
+    font-weight: font-weight(400);
+
+    &:visited {
+      color: color("indigo-warm-60v");
+    }
+
+    @include at-media("tablet") {
+      margin-bottom: 0;
+      padding: units(1);
+      padding-left: 0;
+    }
+  }
+}
