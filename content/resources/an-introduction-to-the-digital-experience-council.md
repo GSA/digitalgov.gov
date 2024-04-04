@@ -3,22 +3,27 @@ date: 2024-04-04
 source: ""
 title: An introduction to the Digital Experience Council
 deck: A cross-agency group designed for delivering a digital-first public experience.
-summary: The Digital Experience (DX) Council plays a critical role in
-  coordinating governmentwide efforts and assisting agencies in delivering
-  digital experiences that meet the public’s needs and expectations.
+summary: The Digital Experience (DX) Council plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.
+
 # See all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - cathryn-camenzind
+
 slug: an-introduction-to-the-digital-experience-council
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 ## What is the Digital Experience Council?
 
 The Digital Experience (DX) Council was required by M-23-22, Delivering a Digital-First Public Experience, and launched in February 2024 as a subcommittee of the Federal Chief Information Officer’s Council (CIO Council). It plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.
