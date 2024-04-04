@@ -4,14 +4,8 @@ source_url: https://blog-nrrd.doi.gov/user-research-consent/
 source: doi-revenuedata
 date: 2024-04-03
 title: "Reconsidering the consent form: the least user-friendly aspect of UX research"
-deck: Dive into the details of building a dynamic content database and audit for
-  onrr.gov. Learn how effective subject matter expert (SME) coordination,
-  strategic content planning, and application of visualization tools contribute
-  to enhancing content governance and user experience on a federal website.
-summary: Dive into the details of building a dynamic content database and audit
-  for onrr.gov. Learn how effective subject matter expert (SME) coordination,
-  strategic content planning, and application of visualization tools contribute
-  to enhancing content governance and user experience on a federal website.
+deck: The Open Data, Design, and Development (ODDD) team has replaced signed consent forms with a more accessible user research agreement process, offering multiple opt-in points. This ensures informed consent and participant autonomy. Explore why and how the ODDD team implemented this comprehensive participant consent process in their user research.
+summary: The Open Data, Design, and Development (ODDD) team has replaced signed consent forms with a more accessible user research agreement process, offering multiple opt-in points. This ensures informed consent and participant autonomy. Explore why and how the ODDD team implemented this comprehensive participant consent process in their user research.
 # See all topics at https://digital.gov/topics
 topics:
   - user-centered-design
