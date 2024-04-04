@@ -4,8 +4,8 @@ source_url: https://blog-nrrd.doi.gov/user-research-consent/
 source: doi-revenuedata
 date: 2024-04-03
 title: "Reconsidering the consent form: the least user-friendly aspect of UX research"
-deck: The Open Data, Design, and Development (ODDD) team believes that consent is important, but a signed form is not necessary for user research. Discover why the ODD replaced signed consent forms with a more accessible participant consent process, what their process looks like now, and how they went about designing and implementing the change.
-summary: The Open Data, Design, and Development (ODDD) team believes that consent is important, but a signed form is not necessary for user research. Discover why the ODD replaced signed consent forms with a more accessible participant consent process, what their process looks like now, and how they went about designing and implementing the change.
+deck: The Open Data, Design, and Development (ODDD) team has replaced signed consent forms with a more accessible user research agreement process, offering multiple opt-in points. This ensures informed consent and participant autonomy. Explore why and how the ODDD team implemented this comprehensive participant consent process in their user research.
+summary: The Open Data, Design, and Development (ODDD) team has replaced signed consent forms with a more accessible user research agreement process, offering multiple opt-in points. This ensures informed consent and participant autonomy. Explore why and how the ODDD team implemented this comprehensive participant consent process in their user research.
 # See all topics at https://digital.gov/topics
 topics:
   - user-centered-design
