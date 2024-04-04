@@ -7,38 +7,20 @@ authors:
   - digitalgov-team
 topics:
   - accessibility
-  - code
-  - content
-  - data
-  - design
-  - product-management
-  - metrics
-  - mobile
-  - strategy
-  - policy
-  - user-testing-and-research
-  - accessibility
-  - analytics
-  - communities
-  - content
+  - software-engineering
   - content-strategy
-  - https
-  - ITIF
-  - metrics
+  - open-data
+  - design
+  - product-and-project-management
+  - research
+  - analytics
   - mobile
-  - mobile-first
   - plain-language
-  - resource
-  - responsive-web-design
   - search-engine-optimization
-  - section-508
   - security
-  - seo
-  - training
   - usability
-  - user-centered-design
+  - human-centered-design
   - user-experience
-
 ---
 
 _The Information Technology & Innovation Foundation (ITIF) recently published a report,_ [_Benchmarking U.S. Government Websites_](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites)_, that looks at the performance, security, and accessibility of the top 297 government websites._ [_ITIF_](https://itif.org/about) _is a think tank in Washington, D.C. whose mission is to formulate, evaluate, and promote policy solutions that accelerate innovation in technology and public policy._
@@ -139,8 +121,8 @@ _Do you want more information on accessibility resources?_ [_Email us_](mailto:d
 
 ---
 
-*All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.*
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
-*Federal agencies can register their mobile products—mobile websites and native apps—on the [_U.S. Digital Registry_](https://usdigitalregistry.digitalgov.gov/) to verify that they’re [mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" >}}), authoritative sources of government information. [Learn more about the Registry]({{< ref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry.md" >}}) (there’s also an instructional webinar, and [sign up here]({{< ref "service_us-digital-registry.md" >}}).*
+*Federal agencies can register their mobile products—mobile websites and native apps—on the [_U.S. Digital Registry_](https://usdigitalregistry.digitalgov.gov/) to verify that they’re [mobile-friendly]({{< ref "2015-10-23-is-your-site-mobile-friendly.md" >}}), authoritative sources of government information. [Learn more about the Registry]({{< ref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry.md" >}}) (there’s also an instructional webinar, and [sign up here]({{< ref "service_us-digital-registry.md" >}})).*
 
 *If you have a .gov or .mil email address and would like to connect with other feds in these fields, check out our [Communities]({{< ref "/communities" >}}) page to find out how to join the Listservs for MobileGov, Government Customer Experience (CX), User Experience (UX), Web Content Managers, and more.*

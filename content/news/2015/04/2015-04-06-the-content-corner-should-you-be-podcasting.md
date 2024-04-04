@@ -6,11 +6,11 @@ summary: 'Along a somewhat personal journey (that you have chosen to join) to be
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - content-strategy
   - content-strategy
   - podcast
   - social-media
-  - the-content-corner
+  - content-strategy
 
 ---
 
@@ -38,4 +38,4 @@ Bowers also points out the almost cult-like nature that podcasts can foster, com
 
 Should you be podcasting? You’ll have to figure it out for yourself, but your agency should at least remember it is still a viable and useful channel, and its increasing popularity can be an opportunity.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

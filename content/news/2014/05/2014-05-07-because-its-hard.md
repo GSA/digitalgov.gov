@@ -6,23 +6,13 @@ summary: 'Two years ago, federal agencies were set on a fast track to create a 2
 authors:
   - gwynne-kostin
 topics:
-  - content
-  - product-management
-  - monthly-theme
-  - our-work
-  - strategy
-  - policy
-  - api
-  - Census
+  - application-programming-interface
+  - content-strategy
   - customer-experience
-  - DOL
+  - product-and-project-management
   - innovation
   - mobile
-  - open-and-structured-content-models
-  - responsive-web-design
-  - us-department-of-labor
   - user-experience
-
 ---
 
 Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
@@ -48,7 +38,7 @@ And there&#8217;s more.
 
 During this <a href="http://publicservicerecognitionweek.org/" target="_blank">Public Service Recognition Week</a>, let&#8217;s let President Kennedy remind us why we are doing this.
 
-{{< youtube 6z1DidldxUo >}}
+{{< youtube id="6z1DidldxUo" title="JFK: We choose to go to the moon" >}}
 
 > We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.
 

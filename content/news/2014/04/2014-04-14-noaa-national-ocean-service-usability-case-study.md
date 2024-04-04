@@ -7,14 +7,10 @@ authors:
   - troy-kitch
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - search
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
   - usability
-  - usability-case-study
-  - usability-testing
 ---
 
 <div>

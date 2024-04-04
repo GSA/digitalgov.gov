@@ -14,13 +14,10 @@ topics:
   - design
   - accessibility
   - customer-experience
-  - user-research
+  - research
   - user-experience
-  - content
-  - strategy
-  - project-management
-  - product-management
-  - uswds
+  - content-strategy
+  - product-and-project-management
 slug: uswds-monthly-call-october-2023
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom

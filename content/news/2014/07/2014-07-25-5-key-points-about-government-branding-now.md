@@ -6,12 +6,8 @@ summary: 'Recently, I had the pleasure of speaking (in my own capacity) before t
 authors:
   - dannielle-blumenthal
 topics:
-  - content
+  - content-strategy
   - social-media
-  - DoD
-  - NARA
-  - national-archives-and-records-administration
-  - united-states-department-of-defense
 ---
 
 {{< legacy-img src="2014/07/600-x-200-Social-media-promotion-bayhayalet-iStock-Thinkstock-451410203.jpg" alt="Puzzle pieces show a good brand can dangle a carrot (something they know that the customer wants), leading to a social media thumbs up or Like." caption="" >}} 

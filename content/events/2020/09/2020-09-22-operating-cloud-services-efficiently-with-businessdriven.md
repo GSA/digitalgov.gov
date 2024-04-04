@@ -19,17 +19,12 @@ end_date: 2020-09-22 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - devops
-  - metrics
+  - software-engineering
+  - analytics
   - open-source
-  - performance
-  - product-management
-  - cloud
-  - cloud-gov
+  - product-and-project-management
+  - cloud-and-infrastructure
   - budgeting-and-performance
-  - gsa
-  - infrastructure
-  - tts
 
 # see all authors at https://digital.gov/authors
 authors: 

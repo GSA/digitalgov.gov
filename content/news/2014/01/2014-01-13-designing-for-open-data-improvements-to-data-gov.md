@@ -6,9 +6,7 @@ summary: 'We’ve written a few times about the changes that we’ve been workin
 authors:
   - marion-royal
 topics:
-  - code
-  - data
-  - data-gov
+  - software-engineering
   - mobile
   - open-data
 ---

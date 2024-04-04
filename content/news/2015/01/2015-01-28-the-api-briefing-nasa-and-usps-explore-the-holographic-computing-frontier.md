@@ -6,18 +6,10 @@ summary: 'Big news in the technology world as Microsoft unveiled HoloLens and Mi
 authors:
   - bbrantley
 topics:
-  - api
-  - augmented-reality
-  - mobile-apps
-  - nasa
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - US Department of Agriculture
-  - United States Postal Service
-  - USDA
-  - USPS
-  - virtual-augmented-reality-community
-  - wednesday-api-briefing
+  - application-programming-interface
+  - emerging-tech
+  - mobile
+  - multimedia
 
 ---
 
@@ -31,7 +23,7 @@ As holographic computing becomes more easily accessible, federal government APIs
 
 ---
 
-_(**Note**: the mention of HoloLens, Google Glass, Microsoft, and Google were used for illustrative purposes and does not imply my endorsement of these products or the companies.)_ 
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs](https://www.digitalgov.gov/2013/04/30/apis-in-government/) are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:bill.brantley@wdc.usda.gov)._
 

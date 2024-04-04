@@ -6,10 +6,9 @@ summary: 'You may have heard about &ldquo;DevOps&rdquo; in the news or when meet
 authors:
   - bbrantley
 topics:
-  - data
-  - devops
-  - product-management
-  - the-data-briefing
+  - software-engineering
+  - product-and-project-management
+  - emerging-tech
 
 ---
 
@@ -28,5 +27,5 @@ Containers arose because running more than a few virtual machines makes enormous
 Containers allow applications to be in their self-contained capsules while sharing the one Mac operating system and program library. Containers greatly reduce the load on the host machine while maintaining the integrity of the applications that may need specific program libraries. If you have ever used Google Search, Gmail, or Google Docs, you have been using a container. You can also be certain that Gmail, Google Docs, and most other modern online applications have been developed and deployed using DevOps methods and technologies. Several federal agencies have also adopted DevOps in creating and delivering online and mobile applications for the American public. As the federal government continues to modernize its IT infrastructure, expect to see more use of DevOps and technologies like containers.
 
 _(Google, Google Search, Gmail, and Google Docs are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any specific federal government agency.)_
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

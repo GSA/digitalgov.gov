@@ -12,10 +12,7 @@ end_date: 2019-07-18 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - product-management
-  - uswds
-  - public-sans
-  - 21st-century-idea
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -6,13 +6,8 @@ summary: ' Customer Experience (CX) deserves a voice at an agency’s senior lev
 authors:
   - zachary-lerner
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
-  - federal-student-aid
-  - recaps
-  - us-department-of-education
 ---
 
 {{< legacy-img src="2015/08/600-x-262-FSA-header.jpg" alt="U.S. Department of Education's Federal Student Aid logo and a quote that reads, Minds can achieve anything. We make sure they get to college. At Federal Student Aid, we make it easier to get money for higher education." >}}

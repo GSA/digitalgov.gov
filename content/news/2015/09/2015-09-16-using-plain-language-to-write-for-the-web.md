@@ -6,10 +6,8 @@ summary: 'Plain language will make you a better writer. For federal employees, i
 authors:
   - awichman
 topics:
-  - writing
+  - communication
   - plain-language
-  - plain-writing-act-of-2010
-  - recaps
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" alt="A signpost showing signs pointing in opposite directions; one says, simple, and the other says, complicated." caption="" >}}
@@ -38,4 +36,4 @@ You can watch the entirety of the webinar in the video below, or jump to specifi
 
 ## Full Video
 
-{{< youtube BB7oznnz3lQ >}}
+{{< youtube id="BB7oznnz3lQ" title="Plain Language - Writing for the Web" >}}

@@ -18,7 +18,6 @@ summary: Challenge.gov is proud to be part of an ecosystem advancing open
   accomplishments, and five goals for FY23.
 # See all topics at https://digital.gov/topics
 topics:
-  - challenge-gov
   - challenges-and-prize-competitions
   - innovation
 slug: challenge-gov-fy22-year-in-review

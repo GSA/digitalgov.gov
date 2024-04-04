@@ -6,12 +6,9 @@ summary: 'At the Peace Corps, we continually try to find new ways to test, measu
 authors:
   - chris-rottler
 topics:
-  - metrics
+  - analytics
   - social-media
-  - a-b-testing
-  - peace-corps
-  - social-media
-  - social-media-metrics
+  - research
 ---
 
 {{< legacy-img src="2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 

@@ -5,7 +5,7 @@
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: "Web Managers"
-summary: "Brings together government web content managers to create a better online experience for the public."
+summary: "Create a better online experience for the public alongside government web content managers."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -14,12 +14,10 @@ aliases:
 
 # see all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - product-management
+  - analytics
+  - product-and-project-management
   - user-experience
   - content-strategy
-  - project-management
-  - analytics
 # see all authors at https://digital.gov/authors
 authors:
   - toni-bonitto
@@ -33,12 +31,13 @@ event_cop:
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 2
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
 dg_shortname: Web Managers
 dg_acronym: WCM
+dg_logo: communities-web-managers.svg
 
 community_list:
   - platform: listserv
@@ -46,7 +45,7 @@ community_list:
     subscribe_email: "content-managers-l-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Managers Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 1,997
+    members: 2,084
     join_cop_button: "Web Manager community members"
 
 primary_image: "white-on-gsa-blue-digital-gov-card-community"

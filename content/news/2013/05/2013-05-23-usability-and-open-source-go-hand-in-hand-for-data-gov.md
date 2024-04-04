@@ -6,9 +6,7 @@ summary: Data.gov launched a major upgrade today, moving to a new catalog based 
 authors:
   - sally-bourrie
 topics:
-  - code
-  - data
-  - data-gov
+  - software-engineering
   - open-data
   - open-source
 ---

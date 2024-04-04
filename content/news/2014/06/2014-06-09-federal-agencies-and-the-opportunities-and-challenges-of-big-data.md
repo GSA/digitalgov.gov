@@ -6,9 +6,7 @@ summary: 'On June 19, the Obama Administration will continue the conversation on
 authors:
   - nicole-wong
 topics:
-  - data
-  - big-data
-  - white-house-office-of-science-and-technology-policy
+  - analytics
 ---
 
 On June 19, the Obama Administration will continue the conversation on big data as we co-host our fourth big data conference, this time with the Georgetown University McCourt School of Public Policy’s Massive Data Institute. The conference, “Improving Government Performance in the Era of Big Data; Opportunities and Challenges for Federal Agencies,” will build on prior workshops at [MIT](http://web.mit.edu/bigdata-priv/agenda.html), [NYU](http://www.datasociety.net/initiatives/2014-0317/), and [Berkeley](http://www.ischool.berkeley.edu/newsandevents/events/2014bigdataworkshop), and continue to engage both subject matter experts and the public in a national discussion about the future of data innovation and policy.

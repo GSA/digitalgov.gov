@@ -21,7 +21,6 @@ end_date: 2020-04-14 15:00:00 -0500
 topics:
   - artificial-intelligence
   - open-data
-  - data
   - emerging-tech
   - research
 

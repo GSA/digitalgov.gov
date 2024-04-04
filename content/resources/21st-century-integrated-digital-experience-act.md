@@ -7,9 +7,12 @@ slug: delivering-digital-first-public-experience
 
 aliases:
   - /resources/21st-century-integrated-digital-experience-act/
+  - /resources/implications-of-recent-web-technologies-for-nara-web-guidance/
   - /resources/omb-m-17-06
-  
-date: 2019-11-01 3:00:00 -0500
+  - /resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/
+  - /resources/nara-guidance-on-managing-social-media-records/
+
+date: 2019-11-01 15:00:00 -0500
 title: "Requirements for delivering a digital-first public experience"
 deck: "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22"
 summary: "Learn how to implement 21st Century IDEA to design and deliver better websites and digital services."
@@ -26,11 +29,9 @@ topics:
   - analytics
   - multilingual
   - plain-language
-  - product-management
-  - dap
-  - digital-analytics-program
+  - product-and-project-management
 
-# see all authors at https://digital.gov/authors 
+# see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
 
@@ -379,7 +380,7 @@ In the footer of each agency’s website, or the entry point for a digital servi
 
 Agencies should consult USWDS and Digital.gov for more specific recommendations on how to best display required links and other relevant information on websites and digital services.<sup>69</sup>
 
-<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -440,7 +441,7 @@ The use of signatures may not be appropriate for every scenario involving a publ
 * **Maintain a digital equivalent method:** To the greatest extent practicable, agencies should not require a handwritten signature (i.e., wet signature) or other in-person identity proofing requirements as a requirement for completing a public-facing form or service without providing the public with a comparable digital equivalent method for submitting information or transacting with an agency. To the greatest extent practicable, agencies should ensure that any public-facing form or service can be provided and completed by the user over different channels, preferably over at least one traditional service channel (e.g., in person) and one digital service channel (e.g., web application) and ideally in the channel that is most convenient to the user.
 * **Use identity verification when greater assurance of identity is needed:** Agencies should use appropriate identity verification processes for online transactions, commensurate with the agency’s risk assessment, when there is a need for assurance of the identity of the user or the authenticity and integrity of the transaction. Signatures alone do not provide identity assurance and should not be used by themselves for identity verification, identity proofing, or non-repudiation purposes when identity assurance is required.
 
-<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -471,7 +472,7 @@ OMB recommends that agencies prioritize developing digital options for existing 
 2. Forms directly supporting the delivery of a service or benefit to the public that, if provided digitally, would address user needs, reduce public burden, or improve public impact, as determined based on user research or business analysis.
 3. Assistance provided through customer call center support that could be designed as self-service digital tasks for customers to reach resolution on their own.
 
-<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -481,6 +482,20 @@ OMB recommends that agencies prioritize developing digital options for existing 
 21st Century IDEA requires agencies to send an annual report to OMB on the progress of implementing the requirements of the law. This reporting requirement concludes after 2023 and will be replaced by the below actions.
 
 OMB’s policy guidance (M-23-22) requires agencies to complete a series of reporting actions within one year of issuance. This section will continually be updated with additional instructions and resources to help agencies in completing the required actions.
+
+{{< box >}}
+**Unlock more resources: Access Max.gov collaboration space**
+
+Max.gov login required: [Collaboration space for M-23-22, Delivering a Digital-First Public Experience](https://community-dc.max.gov/pages/viewpage.action?spaceKey=OFCIO&title=M-23-22+Delivering+a+Digital-First+Public+Experience)
+
+Federal employees can visit Max.gov to discover more governmentwide resources available to implement the action items from M-23-22. The collaboration space includes:
+
+- Answers to frequently asked questions about the agency action items
+- Points of contact for the agency Digital Experience Leads
+- Dates and times of upcoming OMB office hours
+
+While this space is primarily for the agency Digital Experience Leads, it can be accessed by any federal employee.
+{{< /box >}}
 
 For questions on reporting actions, please email the Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
 
@@ -496,26 +511,37 @@ Within `30 days` of issuance (due October 22, 2023; submit overdue information a
 
 Within `90 days` of issuance (originally due December 23, 2023; deadline extended to January 19, 2024)
 
-**Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
+- **Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
 
-**Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites](https://collectvnext.max.gov/site/171/home-page) (requires a Max.gov account). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
+- **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites (requires a Max.gov account)](https://collectvnext.max.gov/site/171/home-page). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
-### Action 3. Identify and assess top websites 
+### Action 3. Identify and assess top websites
 
-Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (due March 20, 2024)
+
+- **Purpose**: Each agency must identify its top websites using web traffic data. This list of top websites will determine relative public engagement across each agency’s websites and help inform how agencies and OMB prioritize digital experience improvements across the federal government.
+
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collectvnext.max.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
+
+Note that agencies must complete [action 2 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-2-identify-public-facing-websites) before action 3.
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
-Within `180 days` of issuance; (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
 
+- **Purpose**: Each agency must identify its top content and common questions based on web analytics and customer feedback. This information will help agencies identify opportunities for deduplication and search engine optimization (SEO). It will also inform inter- and intra-agency strategies.
+
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #4: Assess common questions and top content for deduplication and SEO (requires a Max.gov account)](https://collectvnext.max.gov/site/179/home-page). This tool can be accessed by any federal employee with a Max.gov account.
+
+Note that agencies must complete [action 3 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-3-identify-and-assess-top-websites) before completing action item 4.
 
 ### Action 5. Assess top tasks for self-service optimization
 
-Within `180 days` of issuance (due March 20, 2024; additional details and instructions are forthcoming)
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming).
 
 ### Action 6. Inventory public services
 
-Within `180 days` of the launch of the Federal Services Index (date to be determined; additional details and instructions are forthcoming)
+Within `180 days` of the launch of the Federal Services Index (date to be determined; additional details and instructions are forthcoming).
 
 
 {{< accordion icon="content_copy" kicker="Memo M-23-22" title="**Delivering a Digital-First Public Experience, Section IV.A**: Immediate Agency Actions" >}}*Note: For footnotes, [view the full policy guidance as a web page](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/).*
@@ -531,13 +557,13 @@ Within `180 days` of the launch of the Federal Services Index (date to be determ
 5. **Assess top tasks for self-service optimization:** {{< highlight >}}Within 180 days{{< /highlight >}}, agencies that provide services to the public shall review the highest volume public-facing services and identify the tasks required to access each service as well as the channels available to complete each task (e.g., online, phone, mail, in person). Agencies shall provide to OMB a list of opportunities for no less than 5 top tasks that can be newly designed or further optimized as self-service digital options.
 6. **Inventory public-facing services:** {{< highlight >}}Within 180 days{{< /highlight >}} of the release of the Federal Services Index, each agency shall develop and submit a preliminary inventory to the Federal Services Index <sup>86</sup> of all public-facing services. For each service that cannot be made available in a digital format, the agency must provide the information specified by section 4(d) of the 21st Century IDEA. <sup>87</sup> Within one year of the release of the Federal Services Index, agencies shall finalize the inventory and make it publicly available online.
 
-<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
 ## Resources
 
-- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/21st-century-idea/)
+- Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/digital-service-delivery/)
 - Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 - Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
 - Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)

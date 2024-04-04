@@ -5,10 +5,6 @@ title: National Park Service Apps
 summary: 'The National Park Service offers 3 mobile apps to create mobile experiences at 3 specific parks available for both the Android and iOS platforms. NPS National Mall App &#8211; As cherry blossom visitors give way to the summer travelers, visitors can download the NPS&#8217;s National Mall App providing visitors with a handheld map and customizable tour plans based'
 topics:
   - mobile
-  - mobile-apps
-  - mobile-gov
-  - NPS
-  - thursday-mobile-products
 ---
 
 [<img class="alignright size-full wp-image-123312" alt="NPS' National Mall App showing the start screen with cherry blossoms and the following options: map, park lens, sites, tours, overview, programs and news, postcard, and park partner, and the second screen showing a park lens view of the tidal basin with two little girls looking across at the Jefferson Memorial and a label identifying the Jefferson Memorial as an overlay." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/04/national-mall-app.png" width="439" height="317" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/04/national-mall-app.png)The [National Park Service](http://www.nps.gov/index.htm) offers 3 mobile apps to create mobile experiences at 3 specific parks available for both the Android and iOS platforms.

@@ -6,9 +6,8 @@ summary: "Challenge and prize competitions are competitive and not always squeak
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
   - challenges-and-prize-competitions
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 

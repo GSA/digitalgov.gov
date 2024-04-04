@@ -7,10 +7,7 @@ authors:
   - suzi-connor
 topics:
   - governance
-  - agile
-  - cdc
-  - sprint
-  - centers-for-disease-control-and-prevention
+  - product-and-project-management
 ---
 
 {{< legacy-img src="2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." caption="" >}} 

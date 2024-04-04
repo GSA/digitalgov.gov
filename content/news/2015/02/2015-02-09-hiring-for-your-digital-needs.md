@@ -6,14 +6,9 @@ summary: "The increasing presence of big data and all things digital will requir
 authors:
   - kdaniel
 topics:
-  - product-management
-  - strategy
-  - policy
-  - national-oceanic-and-atmospheric-administration
-  - noaa
+  - product-and-project-management
+  - content-strategy
   - professional-development
-  - us-citizenship-and-immigration-service
-  - uscis
 
 ---
 

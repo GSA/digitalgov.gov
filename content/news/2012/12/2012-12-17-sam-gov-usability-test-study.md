@@ -6,12 +6,9 @@ summary: One of the most vital parts of any website is its starting point. When 
 authors:
   - jonathan-rubin
 topics:
-  - user-testing-and-research
-  - digitalgov-user-experience-program
-  - gsa
-  - usability-case-study
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 One of the most vital parts of any website is its starting point. When a visitor arrives on the main page of your site, they should be able to quickly tell what the main tasks are and how to perform them. Visual cues and plain language are the best ways to accomplish this.

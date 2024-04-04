@@ -9,11 +9,8 @@ topics:
   - design
   - user-experience
   - innovation
-  - us-department-of-veterans-affairs
   - user-centered-design
-  - VA
-  - va-center-for-innovation
-  - VACI
+  - human-centered-design
 ---
 
 > _VA Innovators Network Program Selected as FedHealth IT Innovation Award Winner_

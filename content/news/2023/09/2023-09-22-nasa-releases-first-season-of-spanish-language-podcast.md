@@ -27,7 +27,7 @@ summary: In celebration of Hispanic Heritage Month, NASA is releasing new
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - content
+  - content-strategy
   - podcast
 slug: nasa-releases-first-season-of-spanish-language-podcast
 # Controls how this page appears across the site

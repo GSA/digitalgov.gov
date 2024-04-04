@@ -6,16 +6,10 @@ summary: As traffic to desktop .gov websites declines, how we publish our conten
 authors:
   - ammie-farraj-feijoo
 topics:
-  - api
-  - content
-  - monthly-theme
-  - our-work
+  - application-programming-interface
+  - content-strategy
   - social-media
-  - 18f
-  - CMS
-  - content-management-system
-  - search
-  - federal-register
+  - search-engine-optimization
   - open-data
   - open-source
 ---

@@ -1,7 +1,6 @@
 ---
-title: How to Build Your Digital Dream Team
-summary: "Learn how to get the right team in place to help you create a trusted,
-  seamless online experience for all your customers. "
+title: "How to Build Your Digital Dream Team"
+summary: "Learn how to get the right team in place to help you create a trusted, seamless online experience for all your customers. "
 host: Web Managers Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/how-to-build-your-digital-dream-team-tickets-333717627407
@@ -11,9 +10,9 @@ end_date: 2022-05-17 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
+  - trust
   - governance
   - professional-development
-  - training
   - digital-service-delivery
 
 # See all authors at https://digital.gov/authors

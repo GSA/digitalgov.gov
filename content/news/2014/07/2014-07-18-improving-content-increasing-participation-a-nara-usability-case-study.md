@@ -6,17 +6,12 @@ summary: 'Over the years, the staff intranet at the National Archives and Record
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - content
+  - content-strategy
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - analytics
-  - Library of Congress
-  - LOC
-  - NARA
-  - national-archives-and-records-administration
-  - open-opportunities-program
-  - top-tasks
+  - professional-development
 ---
 
 Over the years, the staff intranet at the National Archives and Records Administration (NARA) had become increasingly difficult to use. Old, irrelevant content routinely bubbled to the top of search results, and essential employee tools were hard to find.

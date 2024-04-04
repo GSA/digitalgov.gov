@@ -11,7 +11,6 @@ registration_url: https://gsa.zoomgov.com/meeting/register/vJIsd-yprz0iHLdpaMaMn
 topics:
   - user-experience
   - design
-  - uswds
 slug: uswds-monthly-call-april-2023
 date: 2023-04-20 14:00:00 -0500
 end_date: 2023-04-20 15:00:00 -0500

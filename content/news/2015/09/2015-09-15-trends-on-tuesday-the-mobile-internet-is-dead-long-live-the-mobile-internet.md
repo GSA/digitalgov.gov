@@ -7,11 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile
-  - mobile-ux-guideline-5
-  - mobile-first
-  - mobile-friendly
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/09/600-x-340-UK-mobile-chart-Andreessen-Horowitz-source-Ofcom.jpg" alt="Pie chart showing that almost 2/3 of smartphone users use the internet on their phone both at home and out of the home." caption="" >}} 

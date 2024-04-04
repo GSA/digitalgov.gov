@@ -6,17 +6,8 @@ summary: 'This past year DigitalGov University has hosted at least one Usability
 authors:
   - apiazza
 topics:
-  - monthly-theme
   - usability
-  - usability-testing
   - user-experience
-  - digitalgov-user-experience-program
-  - user-experience-community-of-practice
-  - recaps
-  - usability
-  - usability-testing
-  - user-experience
-  
 ---
 
 This past year DigitalGov University has hosted at least one Usability event per month and we thought we&#8217;d give you a round-up of those events. After all, November 13th was [World Usability Day]({{< ref "2014-11-13-world-usability-day-engagement.md" >}} "World Usability Day 2014 theme: Engagement").

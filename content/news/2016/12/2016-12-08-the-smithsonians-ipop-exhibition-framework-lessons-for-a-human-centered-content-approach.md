@@ -6,14 +6,12 @@ summary: "The Smithsonian Institution’s Office of Policy and Analysis has anot
 authors:
   - ben-bloom
 topics:
-  - content
+  - content-strategy
   - design
   - mobile
-  - augmented-reality
-  - mobile-apps
+  - emerging-tech
   - user-experience
-  - virtual-augmented-reality-community
-
+  - multimedia
 ---
 
 One of the great challenges in designing a product — digital or otherwise — is stepping outside yourself and climbing into the minds of your users. You love the wonderful new app you’ve designed, but will it appeal to others? Fortunately, the field of user experience design (UX) gives us tools to understand our users through surveys, interviews, card sorting, and user testing.
@@ -39,7 +37,7 @@ The [**_Skin & Bones_ app**](http://naturalhistory.si.edu/exhibits/bone-hall/) a
 
 Skin & Bones invigorates the staid displays of Bone Hall by bringing the specimens to life through the magic of augmented reality (AR). After downloading the free app, visitors can point their iOS device at selected skeletons, triggering the AR and superimposing 3-D skin or muscles onto the specimens. The AR might show the animal as it looked in life, or it may highlight specific anatomy: the muscles and neck of an anhinga bird for example. Short animations demonstrate how the specimens move or how their skeletons work.
 
-{{< youtube 6PdLWbkGtXk >}}
+{{< youtube id="6PdLWbkGtXk" title="Skin & Bones - Big Idea: Visual Signaling" >}}
 
 ([Open the full "Skin & Bones" YouTube playlist](https://www.youtube.com/watch?v=7agVb4IG16M&list=PLEeEhvh0_llMMi2Oerg-MUBoFhuYYukG7))
 
@@ -81,6 +79,6 @@ _[Benjamin Bloom]({{< ref "/authors/ben-bloom" >}}) is a Web Developer at the [S
 
 _An archive of the Smithsonian's original IPOP page can be found here: https://web.archive.org/web/20151010001849/https://www.si.edu/opanda/IPOP. The Office of Policy and Analysis (OP&A) is now known as [Smithsonian Organization and Audience Research](https://soar.si.edu/) (SOAR)_
 
-_Learn what other federal agencies are working on in [UX]({{< ref "/topics/user-experience" >}}), [design]({{< ref "/topics/design" >}}), [content development and strategies]({{< ref "/topics/content" >}}), [augmented reality]({{< ref "/topics/augmented-reality" >}}), and [mobile]({{< ref "/topics/mobile" >}})._
+_Learn what other federal agencies are working on in [UX]({{< ref "/topics/user-experience" >}}), [design]({{< ref "/topics/design" >}}), [content development and strategies]({{< ref "/topics/content-strategy" >}}), [augmented reality]({{< ref "/topics/emerging-tech" >}}), and [mobile]({{< ref "/topics/mobile" >}})._
 
 _[Visit our Communities page]({{< ref "/communities" >}}) to find out how to join groups like the Federal User Experience Community, MobileGov, Virtual/Augmented Reality, and Digital Audio/Video Production and Strategy._

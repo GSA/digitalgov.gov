@@ -1,7 +1,7 @@
 ---
 date: 2023-10-27 15:06:00 -0500
 title: An introduction to accessibility
-deck: Accessibility is not just the right thing to do; it’s the law
+deck: Understand how to approach accessibility for all
 summary: An overview of how to design and deliver accessible digital products and services in the federal government
 
 # see all authors at https://digital.gov/authors
@@ -11,7 +11,7 @@ authors:
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - 21st-century-idea
+  - digital-service-delivery
   - diversity-equity-and-inclusion
 
 # Controls how this page appears across the site
@@ -21,6 +21,8 @@ topics:
 weight: 2
 
 slug: an-introduction-to-accessibility
+
+primary_image: "accessibility-101-title-card"
 
 ---
 

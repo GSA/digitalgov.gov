@@ -6,20 +6,10 @@ summary: The federal government collects an amazing amount of economic data. Sev
 authors:
   - bbrantley
 topics:
-  - api
-  - BLS
-  - Census
-  - SEC
-  - us-bureau-of-labor-statistics
-  - US Department of Agriculture
-  - us-department-of-the-treasury
-  - us-securities-and-exchange-commission
-  - united-states-census-bureau
-  - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
-{{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}}
 
 The federal government collects an amazing amount of economic data. Several agencies such as the Securities and Exchange Commission, the Treasury, and the Census Bureau collect economic data, ranging from the stock market activity to local business conditions. The Bureau of Labor Statistics (BLS) collects information on the labor market and is a rich source of data for researchers and the general public.
 

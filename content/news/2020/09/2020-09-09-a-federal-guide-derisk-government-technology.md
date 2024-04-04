@@ -19,12 +19,8 @@ summary: ""
 # see all topics at https://digital.gov/topics
 topics: 
   - governance
-  - product-management
-  - project-management
-  - 10x
-  - 18f
+  - product-and-project-management
   - acquisition
-  - best-practices
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -6,18 +6,14 @@ summary: 'We had a GREAT DigitalGov Citizen Services Summit today. There were mo
 authors:
   - apiazza
 topics:
-  - challenges
-  - code
-  - content
-  - product-management
+  - challenges-and-prize-competitions
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
   - analytics
   - mobile
-  - our-work
   - social-media
-  - digitalgov-summit
-  - recaps
   - user-experience
-
 ---
 
 We had a GREAT [DigitalGov Citizen Services Summit]({{< ref "2014-05-19-sign-up-for-digitalgov-citizen-services-summit-friday-may-30.md" >}}) today. There were more than 200 digital innovators from across government and industry working to build the 21st century government the public expects.

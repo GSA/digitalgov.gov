@@ -11,8 +11,8 @@ summary: "Launched in January 2004, the Federal Web Council is a cross-agency gr
 
 # see all topics at https://digital.gov/topics
 topics:
-  - product-management
-  - 21st-century-idea
+  - product-and-project-management
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -23,7 +23,7 @@ authors:
 
 ---
 
-## What is the Federal Web Council? 
+## What is the Federal Web Council?
 
 The Federal Web Council was launched in January 2004 as an interagency group of federal web managers who work together to improve the online delivery of U.S. government information and services. It provides a forum for high-level cross-agency collaboration, and recommends policies and guidelines for all public-facing U.S. federal websites.
 
@@ -69,7 +69,7 @@ Please reach out to your agency’s Web Council member with questions. If your a
 - Department of State — Monica Perry
 - Department of Transportation (DOT) — Bernetta Reese
 - Department of the Treasury — Teri Greene
-- Department of Veterans Affairs (VA) — Joshua Tuscher
+- Department of Veterans Affairs (VA) — Stephen Walker
 - Environmental Protection Agency (EPA) — Lin Darlington
 - General Services Administration (GSA) — Sarah Bryant
 - National Aeronautics and Space Administration (NASA) — Abby Bowman

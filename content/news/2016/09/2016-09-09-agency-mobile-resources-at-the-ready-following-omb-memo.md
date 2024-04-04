@@ -7,26 +7,16 @@ authors:
   - amando-e-gavino-jr
 topics:
   - governance
-  - product-management
+  - product-and-project-management
   - mobile
-  - strategy
-  - policy
-  - FAS
-  - Federal Acquisition Service
-  - gsa
-  - infrastructure
+  - content-strategy
+  - cloud-and-infrastructure
   - innovation
-  - mobile
-  - mobile-gov
-  - Office of Management and Budget
-  - OMB
-  - us-general-services-administration
-  - wireless
 ---
 
 _Note: This is a guest blog post by Amando E. Gavino, Jr., Director, Office of Network Services, ITS/FAS/GSA. He is responsible for a portfolio of telecommunication acquisition solutions that provide government agencies the ability to meet their diverse set of telecommunication requirements. Acquisition solutions include Networx, Enterprise Infrastructure Solutions – EIS (the future replacement for Networx), SATCOM, Enterprise Mobility, Connections II, Federal Strategic Sourcing Initiative – Wireless (FSSI-W), and the Federal Relay Service._
 
-Many of you are aware that the Office of Management and Budget (OMB) issued the [Mobile Services and Devices memo](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf) on August 4, 2016. The intent is to vastly enhance acquisition and management of mobile services and devices across government. {{< legacy-img src="2016/09/600-x-420-Wifi-iSergey-iStock-Thinkstock-472384972.jpg" alt="Wi-Fi symbol" caption="" >}} 
+Many of you are aware that the Office of Management and Budget (OMB) issued the [Mobile Services and Devices memo](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf) on August 4, 2016. The intent is to vastly enhance acquisition and management of mobile services and devices across government. {{< legacy-img src="2016/09/600-x-420-Wifi-iSergey-iStock-Thinkstock-472384972.jpg" alt="Wi-Fi symbol" caption="" >}}
 
 ## Resources and Tools Are Available to Help Agencies
 

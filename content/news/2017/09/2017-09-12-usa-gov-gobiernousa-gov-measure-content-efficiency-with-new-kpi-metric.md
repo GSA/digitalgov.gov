@@ -7,14 +7,9 @@ authors:
   - jessica-milcetich
 
 topics:
-  - content
-  - metrics
+  - content-strategy
   - analytics
-  - content
-  - gobiernousagov
-  - metrics
-  - usagov
-
+  - multilingual
 ---
 
 > _This post was originally published on the [USAGov blog](https://blog.usa.gov/a-new-metric-to-help-us-measure-our-content-efficiency)._

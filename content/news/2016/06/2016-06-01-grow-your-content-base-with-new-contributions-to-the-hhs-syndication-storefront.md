@@ -1,3 +1,4 @@
+
 ---
 slug: grow-your-content-base-with-new-contributions-to-the-hhs-syndication-storefront
 date: 2016-06-01 10:00:39 -0400
@@ -6,12 +7,7 @@ summary: 'We have written about syndication and its successes before. The conten
 authors:
   - christen-geiler
 topics:
-  - content
-  - content-syndication
-  - HHS
-  - national-institutes-of-health
-  - nih
-  - united-states-department-of-health-and-human-services
+  - content-strategy
 ---
 
 We have written about [syndication]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}) and its [successes]({{< ref "2016-02-04-does-content-syndication-work.md" >}}) before.

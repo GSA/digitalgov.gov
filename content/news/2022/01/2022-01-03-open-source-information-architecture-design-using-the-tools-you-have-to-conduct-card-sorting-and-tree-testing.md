@@ -6,12 +6,11 @@ deck: ""
 summary: Learn how we used GitHub to conduct a card sort and tree testing to improve the information architecture for onrr.gov.
 # See all topics at https://digital.gov/topics
 topics:
-  - architecture
+  - information-architecture
   - user-experience
   - open-source
-  - user-research
-  - prototype
-  - recaps
+  - research
+  - design
 # See all authors at https://digital.gov/authors
 authors:
   - shannon-mcharg

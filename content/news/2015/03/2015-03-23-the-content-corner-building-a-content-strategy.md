@@ -6,15 +6,11 @@ summary: 'I recently read a disheartening statistic which stated that only 32% o
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
   - content-strategy
-  - the-content-corner
   - user-experience
-
 ---
 
-I recently read a [disheartening statistic](http://contentmarketinginstitute.com/wp-content/uploads/2014/10/2015_B2B_Research.pdf) which stated that only 32% of B2B organizations and 27% of B2C organizations had a documented content strategy. When you combine these results with the general assumption that the federal government lags behind in areas such as this (especially since content strategies have a marketing basis), then the number of federal agencies (large or small) that have a documented content strategy must be even smaller. But if you&#8217;ve read any of my [previous columns]({{< ref "/topics/the-content-corner" >}}) then you know how important a content strategy can be in deciding what content to generate, when to publish it, and on which channels.
+I recently read a [disheartening statistic](http://contentmarketinginstitute.com/wp-content/uploads/2014/10/2015_B2B_Research.pdf) which stated that only 32% of B2B organizations and 27% of B2C organizations had a documented content strategy. When you combine these results with the general assumption that the federal government lags behind in areas such as this (especially since content strategies have a marketing basis), then the number of federal agencies (large or small) that have a documented content strategy must be even smaller. But if you&#8217;ve read any of my [previous columns]({{< ref "/topics/content-strategy" >}}) then you know how important a content strategy can be in deciding what content to generate, when to publish it, and on which channels.
 
 {{< legacy-img src="2015/03/600-x-400-Basketball-strategy-concept-Gajus-iStock-Thinkstock-184906023.jpg" alt="Basketball strategy concept." caption="Gajus / iStock / Thinkstock" >}}
 
@@ -54,4 +50,4 @@ By following a strategy, we plan content that is channel (and many times audienc
 
 In the course of some of the wonderful dialogue I had with my government peers discussing this topic, I heard broad viewpoints on what “content strategy” meant to them and their organizations. The reality runs the full range, from agencies having actual content strategists on staff to not having any strategy in place. For those without one, I suggest becoming a stronger advocate: explain how it will help improve your service to the citizen and make your work easier in the end. Make Kristina’s quote your mantra, post it in your workspace, and even if it’s just you in the beginning, keep on making useful and usable content.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

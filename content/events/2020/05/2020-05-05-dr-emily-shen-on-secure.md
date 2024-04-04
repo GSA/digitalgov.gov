@@ -22,7 +22,6 @@ authors:
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - data
   - privacy
   - security
 

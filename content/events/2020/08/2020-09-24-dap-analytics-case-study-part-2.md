@@ -19,11 +19,8 @@ end_date: 2020-09-24 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - user-experience
   - analytics
-  - dap
-  - digital-analytics-program
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:

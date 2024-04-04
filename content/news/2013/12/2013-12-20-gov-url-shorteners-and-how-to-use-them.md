@@ -6,13 +6,11 @@ summary: 'USA.gov offers two different types of URL shorteners &ndash; 1.USA.gov
 authors:
   - michelle-chronister
 topics:
-  - code
-  - content
-  - usagov
-
+  - content-strategy
+  - software-engineering
 ---
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 The 1.USA.gov URL shortener was fully decommissioned in 2019.
 
 GSA will sunset the Go.USA.gov URL Shortener service on **September 18, 2022**; this page will then be archived. See [Sunsetting Go.USA.gov: Frequently Asked Questions](https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions) for more information and their email address.

@@ -6,9 +6,7 @@ summary: The National Defense University (NDU) is hosting a conference call Frid
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
   - challenges-and-prize-competitions
-  - National Defense University
   - open-source
 ---
 

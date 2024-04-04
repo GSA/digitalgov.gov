@@ -19,7 +19,9 @@
       {{- else -}}
         {{- partial "core/guides/guide-content.html" . -}}
       {{- end -}}
-      {{- partial "core/glossary.html" . -}}
+      {{- if .Parent.Params.glossary -}}
+        {{- partial "core/glossary.html" . -}}
+      {{- end -}}
     </article>
   </main>
 {{ end }}

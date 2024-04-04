@@ -9,11 +9,9 @@ date: 2021-04-28 14:00:00 -0500
 end_date: 2021-04-29 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - socialgov-community
-  - socialgov
   - social-media
   - podcast
-  - marketing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - dominique-gebru
@@ -65,7 +63,7 @@ In this session you will hear from the following speakers:
 
 **Updates in Government Podcasting.** You’ve spent months planning your content strategy and have a great show in the works – but how do you get people to actually listen? It might seem obvious, but building a loyal audience for your podcast takes time and effort. In this session, Tanner Iskra of VA, and Dominique Gebru of FAA will share what works.
 
-{{< youtube 1xVZkdNpaow >}}
+{{< youtube id="1xVZkdNpaow" title="Social Media Spring Session 2021: Day 2" >}}
 
 - - -
 

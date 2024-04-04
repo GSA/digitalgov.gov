@@ -7,9 +7,6 @@ authors:
   - rachel-hurley
 topics:
   - mobile
-  - mobile-apps
-  - thursday-mobile-products
-  - us-national-park-service
 ---
 
 [{{< legacy-img src="2013/06/NPSscreen.jpg" alt="NPS Chesapeake Explorer App screenshot of sailboat and NPS logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/NPSscreen.jpg)The [National Park Service (NPS)](http://www.nps.gov/index.htm) developed an app for people looking to explore the historic Chesapeake Bay area and travelers now have an anytime, anywhere tool to tell them where they can go and how to get there.

@@ -7,9 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile-apps
-  - native-apps
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

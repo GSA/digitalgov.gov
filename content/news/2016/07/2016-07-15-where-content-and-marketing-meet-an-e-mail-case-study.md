@@ -7,12 +7,9 @@ authors:
   - victoria-wales
   - darren-b-lurie
 topics:
-  - content
-  - product-management
-  - strategy
-  - policy
-  - content
-  - marketing
+  - communication
+  - content-strategy
+  - product-and-project-management
 ---
 
 Content marketing is everywhere and you&#8217;re hearing more about it every day—but how do you do it well?

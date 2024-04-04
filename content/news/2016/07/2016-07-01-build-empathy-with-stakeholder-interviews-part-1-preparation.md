@@ -7,13 +7,9 @@ deck: 'What stakeholder interviews are, why they’re valuable, and how to prepa
 authors:
   - andrew-maier
 topics:
-  - strategy
-  - policy
-  - user-testing-and-research
-  - 18f
-  - user-centered-design
-  - user research
-
+  - content-strategy
+  - research
+  - human-centered-design
 ---
 
 A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series, I&#8217;d like to summarize (as best as possible) the presentation I gave, &#8220;[Foster The People: Building Empathy with Stakeholder Interviews](https://speakerdeck.com/andrewmaier/foster-the-people-building-empathy-with-stakeholder-interviews).&#8221;

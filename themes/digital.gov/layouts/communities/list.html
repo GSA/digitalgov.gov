@@ -1,123 +1,23 @@
 {{ define "content" }}
-  <main role="main" id="main-content">
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12">
-          <header class="page-head page-head-{{- .Type -}}">
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}}</h1>
+  {{/* Gets all community pages and filter out those that are not the featured dg top 7 */}}
+  {{ $communities := (where (where .Site.Pages "Section" "communities").ByTitle ".Params.weight" "ge" 1) }}
+  {{ $other_communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-              <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
 
-            {{/* {{ partial "last-updated.html" . }} */}}
-          </header>
-        </div>
+  <main class="grid-container-desktop" id="main-content">
+    {{/* Digital.gov Communities of Practice */}}
+    {{ partial "core/featured-communities.html" (dict "context" . "layout" "has-image") }}
+
+    {{/* Other Communities of Practice */}}
+    <div class="page-head">
+      <h2>Other Communities of Practice</h2>
+      <div class="deck">
+        These communities are not managed by Digital.gov, but are listed here
+        <br />because they overlap with
+        <a class="usa-link" href="{{- "about" | relURL -}}">our mission</a>.
       </div>
     </div>
 
-    <section class="usa-section">
-      <div class="grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-12">
-            <ul class="usa-card-group">
-              {{/* Gets all communities pages */}}
-              {{ $dg_communities := (where .Site.Pages "Section" "communities").ByTitle }}
-
-              {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-              {{ $dg_communities := (where $dg_communities ".Params.weight" "ge" 1) }}
-
-              {{/* Gather only the pages with a dg-emphasis key */}}
-              {{ $dg_communities := (where $dg_communities ".Params.dg_highlight" "eq" true) }}
-
-              {{ range $i, $e := $dg_communities }}
-                <li
-                  class="usa-card tablet:grid-col-4 {{ if $e.Params.dg_acronym }}
-                    cop-card--{{ $e.Params.dg_acronym }}
-                  {{ end }}"
-                >
-                  <div class="usa-card__container">
-                    <div class="usa-card__header">
-                      <h2 class="usa-card__heading">
-                        {{- $e.Params.dg_shortname | markdownify -}}
-                      </h2>
-                    </div>
-                    <div class="usa-card__body">
-                      <p>{{- $e.Params.summary | markdownify -}}</p>
-                    </div>
-                    <div class="usa-card__footer">
-                      <a
-                        class="usa-button"
-                        href="{{- $e.Permalink -}}"
-                        title="{{- $e.Params.dg_shortname -}}"
-                      >
-                        Connect with <br />{{ $e.Params.dg_shortname }}
-                      </a>
-                    </div>
-                  </div>
-                </li>
-              {{ end }}
-            </ul>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12">
-          <header class="page-head page-head-{{- .Type -}}">
-            {{/* Page Title */}}
-            <h2>Other Communities of Practice</h2>
-
-            <div class="deck">
-              These communities are not managed by Digital.gov, but are listed
-              here <br />because they overlap with
-              <a class="usa-link" href="{{- "/about/" | relURL -}}"
-                >our mission</a
-              >.
-            </div>
-          </header>
-        </div>
-      </div>
-    </div>
-
-    <section class="usa-section">
-      <div class="grid-container-desktop">
-        <ul class="communities-of-practice--list usa-collection">
-          {{/* Gets all communities pages */}}
-          {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
-
-          {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-          {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
-
-          {{/* Gather only the pages with a dg-emphasis key */}}
-          {{ $communities := (where $communities ".Params.dg_highlight" "!=" true) }}
-
-          {{ range $i, $e := $communities }}
-            <li class="usa-collection__item">
-              <div class="usa-collection__body">
-                <h2 class="usa-collection__heading">
-                  <a
-                    class="usa-link {{ if $e.Params.redirectto }}
-                      usa-link--external
-                    {{ end }}"
-                    href="{{- $e.Permalink -}}"
-                    title="{{- $e.Title | markdownify -}}"
-                  >
-                    {{- $e.Title | markdownify -}}
-                  </a>
-                </h2>
-                <p class="usa-collection__description">
-                  {{- $e.Params.summary | markdownify -}}
-                </p>
-              </div>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
-    </section>
+    {{ partial "core/collection/collection-grid-list.html" (dict "list_data" $other_communities) }}
   </main>
 {{ end }}

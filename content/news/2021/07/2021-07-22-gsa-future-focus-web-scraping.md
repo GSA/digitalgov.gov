@@ -9,7 +9,6 @@ deck: "**GSA Future Focus: Web Scraping**&mdash;Often referred to as screen scra
 # See all topics at https://digital.gov/topics
 topics:
   - emerging-tech
-  - data
 slug: gsa-future-focus-web-scraping
 # Controls how this page appears across the site
 # 0 -- hidden

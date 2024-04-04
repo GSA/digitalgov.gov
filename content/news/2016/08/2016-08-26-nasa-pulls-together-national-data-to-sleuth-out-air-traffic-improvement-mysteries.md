@@ -6,14 +6,8 @@ summary: 'For the first time ever, air traffic researchers can view and analyze 
 authors:
   - sharon-lozano
 topics:
-  - data
-  - user-testing-and-research
-  - data
-  - data-visualization
-  - FAA
-  - Federal Aviation Administration
-  - nasa
   - research
+  - data-visualization
 ---
 
 For the first time ever, air traffic researchers can view and analyze archived flight data collected and merged from all air traffic facilities across the U.S., with fast update rates ranging from one second to 12 seconds for every flight’s position. Previously, researchers only had access to national flight data that was similar to internet flight tracking, with one-minute flight updates and no information about flights on the ground at airports. Or, they had access to separate flight data sets from 77 different Federal Aviation Administration (FAA) air traffic facilities, which made research very challenging. NASA’s newly improved tool, the Sherlock Air Traffic Management (ATM) Data Warehouse, merges all of the air traffic facility data to produce analysis-ready, end-to-end flight information at these improved resolutions for the entire U.S. airspace. {{< legacy-img src="2016/08/600-x-330-NASA-Sherlock-clt.jpg" alt="NASA’s Sherlock Air Traffic Management Data Warehouse shows one day of air traffic for Charlotte-Douglas International Airport." caption="" >}} 

@@ -17,11 +17,10 @@ source: codegov
 
 # see all topics at https://digital.gov/topics
 topics:
-  - code
+  - software-engineering
   - design
   - user-experience
   - open-source
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

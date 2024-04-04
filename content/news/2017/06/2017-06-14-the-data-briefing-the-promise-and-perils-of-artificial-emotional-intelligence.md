@@ -11,17 +11,10 @@ authors:
 primary_image: "creative-brain-concept-thanaphiphat-istock-thinkstock-494897999"
 
 topics:
-  - data
   - mobile
-  - ai
   - artificial intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - chatbots
   - innovation
-  - internet-of-things
-  - IoT
-  - mobile
-
+  - emerging-tech
 ---
 
 The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’s creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just [how simple the program was regarding generating conversational responses](http://www.filfre.net/2011/06/eliza-part-2/). ELIZA essentially parroted back what the users typed but, this was enough to convince people that the program seemed to care about the person. The [ELIZA Effect](https://en.wikipedia.org/wiki/ELIZA_effect) was coined to describe how users attribute humanlike motives to computer programs. You can talk to ELIZA yourself at this [site](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm). 
@@ -40,8 +33,12 @@ On September 30, 2015, the [White House called on data scientists and app develo
 
 Detecting emotions while a citizen is on the phone with a government representative may seem like a joke but, think about how an affective computing chatbot can detect when a citizen is becoming frustrated during a call to a government agency. Calming techniques could lower the tension and bring the interaction back to a more productive result. Emotion-detecting chatbots can help veterans to deal with emotional issues brought on by post-traumatic stress syndrome or wartime injuries. Many affective computing applications can help people live better and happier lives through effective emotional management.
 
-Affective computing can also be a dangerous tool of manipulation. Here also, the government must step in to guard against the abuse of affective computing and to protect the American public from emotional manipulation and abuse. [Artificial emotional intelligence has great potential](http://www.zdnet.com/article/emotional-intelligence-is-the-future-of-artificial-intelligence-fjord/) but, like all technologies, it must be wisely used._(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
+Affective computing can also be a dangerous tool of manipulation. Here also, the government must step in to guard against the abuse of affective computing and to protect the American public from emotional manipulation and abuse. [Artificial emotional intelligence has great potential](http://www.zdnet.com/article/emotional-intelligence-is-the-future-of-artificial-intelligence-fjord/) but, like all technologies, it must be wisely used.
 
-_Each week,_ [_The Data Briefing_]({{< ref "/topics/the-data-briefing" >}}) _showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
+---
 
-[_Dr. William Brantley_]({{< ref "/authors/bbrantley" >}})) _is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
+
+_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -8,10 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - mobile-apps
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}} 
@@ -23,4 +20,4 @@ Major mobile milestones in May—try saying that three times! A new mobile usage
   * Some content categories—radio, photos, maps and instant messenger—have shifted almost exclusively to mobile with at least 90% of activity coming from mobile platforms.
   * Social networking accounts for 20% of total time spent on digital, and generates more than 70% of its activity on mobile.
 
-Every month, it becomes apparent that mobile will continue to transform how our stakeholders engage with digital content. To take advantage of this trend, check out these DigitalGov posts on <a title="mobile-first strategies" href="{{< ref "/topics/mobile-first" >}}" target="_blank">mobile-first strategies</a> and ways to maximize your <a title="mobile moments" href="{{< ref "2014-07-01-trends-on-tuesday-maximizing-your-mobile-moments.md" >}}" target="_blank">mobile moments</a>.
+Every month, it becomes apparent that mobile will continue to transform how our stakeholders engage with digital content. To take advantage of this trend, check out these DigitalGov posts on <a title="mobile-first strategies" href="{{< ref "/topics/mobile" >}}" target="_blank">mobile-first strategies</a> and ways to maximize your <a title="mobile moments" href="{{< ref "2014-07-01-trends-on-tuesday-maximizing-your-mobile-moments.md" >}}" target="_blank">mobile moments</a>.

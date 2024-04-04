@@ -8,15 +8,11 @@ authors:
 topics:
   - accessibility
   - design
-  - user-testing-and-research
-  - innovation
   - research
-  - us-department-of-veterans-affairs
+  - innovation
   - user-centered-design
+  - human-centered-design
   - user-experience
-  - VA
-  - va-center-for-innovation
-  - VACI
 ---
 
 Our goal for a more veteran-centered and innovative VA is shared. Our approach to innovation is collaborative.

@@ -12,7 +12,7 @@ summary: The Office of Natural Resources Revenue recently completed a site-wide
   inventory spreadsheet to act as a functional database for enhancing content throughout the site.
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - analytics
   - content-strategy
 slug: creating-a-functional-inventory-database-for-website-content-audits

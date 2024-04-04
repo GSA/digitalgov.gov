@@ -6,17 +6,11 @@ summary: 'Tech giants have changed the world of broadcast forever. In a little m
 authors:
   - randy-abramson
 topics:
-  - communities
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - mobile
   - social-media
   - user-experience
-  - video
-  - communities
-  - content
-  - multimedia
-  - video
 ---
 
 Tech giants have changed the world of broadcast forever. In a little more than a year, video on Facebook went from being a seldomly seen media type on a user’s timeline to a strategic priority for Mark Zuckerberg. The platform now serves over 8 billion video views a day and Facebook continues to roll out improvements to Facebook Live, a tool that lets any Facebook user easily broadcast from their mobile phone. Add in the hundreds of millions of hours of video consumed on YouTube each day, 110 years worth of video watched daily on Periscope, a new live video platform rolling out from Tumblr and the growth of audio podcasting and we see a new world of opportunities for storytellers to reach their audience. It’s a world where the power of broadcast has shifted from the studio to pocket sized mobile device and where media consumption has moved from the living room to, well, any screen, anywhere. {{< legacy-img src="2016/07/600-x-400-Concert-mobile-bokeh-blue-unrecognizable-Eloi_Omella-iStock-Thinkstock-496448965.jpg" alt="Concert mobile bokeh blue unrecognizable" caption="" >}}

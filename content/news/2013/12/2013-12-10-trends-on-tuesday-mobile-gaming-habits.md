@@ -7,11 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - cdc
-  - gamification
-  - mobile
-  - mobile-apps
-  - trends-on-tuesday
+  - content-strategy
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/01/photo-1024x768.png" alt="CDC Solve the Outbreak Plantation Blues for iPad showing the first clue in their new game scenario with a photo of the Louisiana bayou." >}} 

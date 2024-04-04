@@ -7,18 +7,12 @@ authors:
   - apiazza
   - gwynne-kostin
 topics:
-  - content
-  - product-management
-  - our-work
-  - social-media
-  - strategy
-  - policy
-  - analytics
   - content-strategy
-  - gsa
+  - product-and-project-management
+  - social-media
+  - analytics
   - open-source
-  - responsive-web-design
-  - sitesusagov
+  - mobile
   - user-experience
 ---
 
@@ -63,7 +57,7 @@ One thing we’ve learned from looking at our data, is that you like lists and d
   * You’re coming back for more! We went from 15% returning visitors to 45% returning visitors.
   * You don’t mind a reminder (and you read our newsletters). We see a spike in traffic every day around 3:00, when we [email our newsletter](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new) with the most recent articles and upcoming events.
   * You’re engaged with the content. You are coming to read an article and staying to read 2 more, for an average on site time of 6 minutes.
-  * You especially like articles about [metrics]({{< ref "/topics/metrics" >}}), [user experience case studies]({{< ref "/topics/usability-case-study" >}}), [social media tools]({{< ref "/topics/terms-of-service" >}}), and [mobile trends]({{< ref "/topics/trends-on-tuesday" >}}).
+  * You especially like articles about [metrics]({{< ref "/topics/analytics" >}}), [user experience case studies]({{< ref "/topics/usability" >}}), [social media tools]({{< ref "/topics/terms-of-service" >}}), and [mobile trends]({{< ref "/topics/emerging-tech" >}}).
   * You want to join in. Almost two-thirds of the articles on DigitalGov are written by people who don’t work for us but for 46 other agencies, bureaus and divisions of the federal government. ([Tell us if you have a story idea.]({{< ref "contribute.md" >}} "Join DigitalGov"))
   * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service]({{< ref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements"), [Accessibility]({{< ref "/topics/accessibility" >}}), and for [Specific Events]({{< ref "events" >}}). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
 

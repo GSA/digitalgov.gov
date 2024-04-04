@@ -8,24 +8,15 @@ featured_image:
 authors:
   - bbrantley
 topics:
-  - data
-  - emerging-tech
-  - product-management
-  - the-data-briefing
+  - product-and-project-management
   - user-experience
-  - 3d-printing
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - augmented-reality
-  - blockchain
   - customer-experience
-  - customer-service
-  - Human Resources
-  - infrastructure
+  - professional-development
+  - cloud-and-infrastructure
   - innovation
-  - internet-of-things
-  - virtual-reality
-  - virtual-augmented-reality-community
+  - emerging-tech
+  - multimedia
 ---
 
 Since 2007, a major consulting firm has conducted an annual survey on organizations' “Digital IQ.” In the ten years of organizations grappling with digital transformation, what has been learned? [From the report](https://www.pwc.com/us/en/advisory-services/digital-iq.html):

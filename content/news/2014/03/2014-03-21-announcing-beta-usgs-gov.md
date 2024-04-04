@@ -6,10 +6,8 @@ summary: 'In 1994 when the U.S. Geological Survey (USGS) launched it’s first w
 authors:
   - scott-horvath
 topics:
-  - content
+  - content-strategy
   - mobile
-  - united-states-geological-survey
-  - USGS
 ---
 
  <span style="line-height: 1.5em;"><a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/USGS-beta-full-250-x-322-March-18th-2014.png">{{< legacy-img src="2014/03/USGS-beta-full-250-x-322-March-18th-2014.png" alt="screenshot of beta.usgs.gov" >}}</a>In 1994 when the U.S. Geological Survey (USGS) launched it’s first website, the Web was a very different place. Many websites that were launched had little consideration given to, or even had an understanding of, things such user experience, content strategies, or design. Over the next 20 years our USGS Web presence has grown immensely as we’ve pioneered new research, tools, and applications in the support of understanding our planet&#8217;s complex environment and the ground on which we stand. As our Web presence has grown, things such as consistent navigation, and overall user experience and design have taken a backseat in many cases. However, we know this needs to be changed.</span>

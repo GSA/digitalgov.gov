@@ -6,10 +6,7 @@ summary: 'Business people and developers must work together daily throughout the
 authors:
   - michael-torres
 topics:
-  - product-management
-  - monthly-theme
-  - 18f
-  - agile
+  - product-and-project-management
 ---
 
 > _Business people and developers must work together daily throughout the project.—[Agile Manifesto](http://www.agilemanifesto.org/)_

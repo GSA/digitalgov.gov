@@ -6,11 +6,9 @@ summary: 'Recently HHS CTO Bryan Sivak outlined a new vision for healthcare.gov.
 authors:
   - anthony-calabrese
 topics:
-  - code
-  - api
-  - CMS
+  - software-engineering
+  - application-programming-interface
   - content-strategy
-  - GitHub
   - open-source
 ---
 

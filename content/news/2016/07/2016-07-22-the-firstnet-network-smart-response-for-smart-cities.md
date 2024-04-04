@@ -6,13 +6,9 @@ summary: '&#8220;Smart City&#8221; is an emerging term to describe how a communi
 authors:
   - jeanette-kennedy
 topics:
-  - data
-  - product-management
+  - emerging-tech
   - mobile
-  - firstnet
-  - internet-of-things
-  - IoT
-  - mobile
+  - product-and-project-management
 ---
 
 &#8220;Smart City&#8221; is an emerging term to describe how a community – large or small – uses connected technology and/or other data sets to influence and improve the delivery of services to the private and public sectors. By integrating data and connectivity into their daily operations, communities can automate many functions to create efficiencies and maximize their resources.

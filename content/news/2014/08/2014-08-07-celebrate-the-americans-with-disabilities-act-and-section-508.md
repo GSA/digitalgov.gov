@@ -9,7 +9,6 @@ topics:
   - accessibility
   - user-experience
   - accessibility
-  - section-508
 ---
 
 Happy anniversary, baby!

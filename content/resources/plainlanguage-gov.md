@@ -9,8 +9,8 @@ summary: A resource to help federal employees write in plain language and comply
   with the Plain Writing Act of 2010.
 # See all topics at https://digital.gov/topics
 topics:
-  - content
-  - writing
+  - content-strategy
+  - communication
   - plain-language
   - accessibility
 slug: plainlanguage-gov

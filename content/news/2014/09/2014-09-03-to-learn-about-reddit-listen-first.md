@@ -7,8 +7,6 @@ authors:
   - judith-snyderman
 topics:
   - social-media
-  - recaps
-  - social-media
 ---
 
 {{< legacy-img src="2014/09/250-x-250-get-to-know-reddit-1-just-logo.jpg" alt="Reddit logo on a teal background" >}}Reddit began in 2006 as an online bulletin board. Registered users post links to items on the Internet, start discussions and cast votes that control placement on the site. A simple structure and a live interview forum called AMA, (Ask Me Anything) helped make reddit a social media superstar. GSA has met with reddit to talk about the importance of federal-compatible Terms of Service. _(Reddit prefers to work with each agency individually on a TOS amendment rather than creating a single universal TOS agreement. GSA&#8217;s terms of service facilitator, [Betsy Steele](mailto:betsy.steele@gsa.gov), can help you through the collaborative process.)_ However, the platform has distinct lingo, community rules and some drawbacks too. So before jumping into reddit as a participant, get to know the community by listening to forums already underway.

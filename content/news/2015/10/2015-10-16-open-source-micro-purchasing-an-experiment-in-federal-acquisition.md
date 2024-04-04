@@ -6,10 +6,8 @@ summary: '18F is an open-source team. We currently have hundreds of publicly ava
 authors:
   - v-david-zvenyach
 topics:
-  - code
-  - product-management
-  - 18f
-  - GitHub
+  - product-and-project-management
+  - software-engineering
   - open-source
 ---
 

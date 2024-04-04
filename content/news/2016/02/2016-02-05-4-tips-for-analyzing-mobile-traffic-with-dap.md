@@ -6,13 +6,8 @@ summary: 'It’s not a secret that mobile Internet viewership is booming, but ac
 authors:
   - ilee
 topics:
-  - metrics
+  - analytics
   - mobile
-  - our-work
-  - dap
-  - digital-analytics-program
-  - mobile-gov
-  - mobile-gov-community-of-practice
 ---
 
 It’s not a secret that mobile Internet viewership is booming, but according to a [ComScore report released last June](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-Global-Mobile-Report), 49% of the audiences for the top 100 digital properties are now mobile-only. Additionally, during the third quarter last year, [Gartner reported PC shipments fell 7.7%](http://www.gartner.com/newsroom/id/3146617) while [IDC Research reported a 10.8% decline](http://www.idc.com/getdoc.jsp?containerId=prUS25955515). The [switch to mobile]({{< ref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}) will continue, and for government websites, [the trend is no different]({{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). {{< legacy-img src="2016/01/600-x-425-Four-Pushpins-Photodisc-Photodisc-Thinkstock-BU010703.jpg" alt="Four Pushpins" caption="" >}}

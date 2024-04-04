@@ -9,8 +9,7 @@ deck: "**Senior Executives Part 2: Work Outside the Traditional Hierarchy To Set
 summary: "In order to ultimately succeed at delivering human-centered software, two critical groups need to work closely together: the product team and a champions group. This is part two in a series on how senior executives and tech teams can be better allies."
 # See all topics at https://digital.gov/topics
 topics:
-  - agile
-  - 18f
+  - product-and-project-management
 # See all authors at https://digital.gov/authors
 authors:
   - digitalgov-team

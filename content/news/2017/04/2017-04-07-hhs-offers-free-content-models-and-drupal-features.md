@@ -6,16 +6,7 @@ summary: 'Related Event: Create Once, Publish Everywhere Applied&mdash;HHS Conte
 authors:
   - christen-geiler
 topics:
-  - content
-  - CMS
-  - content
-  - content-management-system
-  - content-models
-  - content-syndication
-  - drupal
-  - HHS
-  - open-and-structured-content-models
-  - united-states-department-of-health-and-human-services
+  - content-strategy
 ---
 
 > **Related Event**: [Create Once, Publish Everywhere Applied—HHS Content Models and Portability]({{< tmp "events/create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}}), Tuesday, April 18, 2017; [register here](https://attendee.gotowebinar.com/register/6221497867021325313).
@@ -24,9 +15,9 @@ topics:
 
 The [U.S. Department of Health & Human Services](https://www.hhs.gov/) (HHS) is sharing its content models and their related Drupal features for you to use on your sites.
 
-A [content model]({{< ref "/topics/content-models" >}}) is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes.
+A [content model]({{< ref "/topics/content-strategy" >}}) is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes.
 
-[Open and structured content models]({{< ref "/topics/open-and-structured-content-models" >}}) can help you create content that is platform-agnostic, format-free, and device independent. We need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable. In the age of smartphones, tablets, social media tools, [syndication]({{< ref "2016-02-04-does-content-syndication-work.md" >}}), and websites, [the need for modular content is growing]({{< ref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).
+[Open and structured content models]({{< ref "/topics/content-strategy" >}}) can help you create content that is platform-agnostic, format-free, and device independent. We need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable. In the age of smartphones, tablets, social media tools, [syndication]({{< ref "2016-02-04-does-content-syndication-work.md" >}}), and websites, [the need for modular content is growing]({{< ref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
@@ -63,5 +54,5 @@ Absolutely nothing! HHS is happy to share our efforts in the spirit of collabora
 
 If you have content models that you would like to share, please [contact Christen Geiler via email](mailto:Christen.Geiler@hhs.gov).
 
-[_DigitalGov University_]({{< ref "/about/digitalgov-university.md" >}}) _(DGU) is hosting a new_ [_COPE_]({{< ref "/topics/cope" >}}) _webinar,_ [_Create Once, Publish Everywhere Applied—HHS Content Models and Portability_]({{< tmp "events/create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}})_, on Tuesday, April 18, 2017;_ [_register here_](https://attendee.gotowebinar.com/register/6221497867021325313)_._
-_For more information, check out_ [_how to create open, structured content_]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}})_, and how it can aid in_ [_content syndication_]({{< ref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}})_. Also, learn about the differences between_ [_information architecture and content strategy—and why you need both_]({{< ref "2016-07-18-information-architecture-vs-content-strategy-and-why-you-need-both.md" >}})_. Review this post on_ [_open and structured content models in government_]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}})_, and_ [_see how easy it is to implement them_]({{< ref "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) _with examples from CDC and NIH._ _Additionally, you can check out_ [_this handy recap blog post_]({{< ref "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}}) _of an earlier DGU webinar,_ [_What Structured Content Can Do For You_](https://www.youtube.com/watch?v=kG25vyQ5Jps) _(1 hour YouTube video)._
+[_DigitalGov University_]({{< ref "/about/digitalgov-university.md" >}}) _(DGU) is hosting a new_ [_COPE_]({{< ref "/topics/content-strategy" >}}) _webinar,_ [_Create Once, Publish Everywhere Applied—HHS Content Models and Portability_]({{< tmp "events/create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}})_, on Tuesday, April 18, 2017;_ [_register here_](https://attendee.gotowebinar.com/register/6221497867021325313)_._
+_For more information, check out_ _how to create open, structured content_, and how it can aid in_ [_content syndication_]({{< ref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}})_. Also, learn about the differences between_ [_information architecture and content strategy—and why you need both_]({{< ref "2016-07-18-information-architecture-vs-content-strategy-and-why-you-need-both.md" >}})_. Review this post on_ [_open and structured content models in government_]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}})_, and_ [_see how easy it is to implement them_]({{< ref "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) _with examples from CDC and NIH._ _Additionally, you can check out_ [_this handy recap blog post_]({{< ref "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}}) _of an earlier DGU webinar,_ [_What Structured Content Can Do For You_](https://www.youtube.com/watch?v=kG25vyQ5Jps) _(1 hour YouTube video)._

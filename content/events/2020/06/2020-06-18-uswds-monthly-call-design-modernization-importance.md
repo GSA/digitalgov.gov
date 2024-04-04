@@ -19,7 +19,6 @@ end_date: 2020-06-18 16:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - design
-  - uswds
   - user-experience
 
 # see all authors at https://digital.gov/authors

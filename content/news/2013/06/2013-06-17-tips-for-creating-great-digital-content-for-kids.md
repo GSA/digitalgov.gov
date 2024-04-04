@@ -8,12 +8,9 @@ authors:
   - emily-canis
   - jill-james
 topics:
-  - content
+  - content-strategy
   - customer-experience
-  - HHS
   - innovation
-  - nasa
-  - united-states-department-of-energy
   - user-experience
 ---
 

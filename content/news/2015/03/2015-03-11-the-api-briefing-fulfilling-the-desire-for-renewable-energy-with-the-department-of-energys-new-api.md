@@ -6,12 +6,9 @@ summary: ' The Database of State Incentives for Renewables and Efficiency&reg; (
 authors:
   - bbrantley
 topics:
-  - api
-  - api
-  - data
-  - json
-  - united-states-department-of-energy
-  - wednesday-api-briefing
+  - application-programming-interface
+  - open-data
+  - software-engineering
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Find-Policies-Incentives-by-State-map-from-DSIRE-DOE-Energy-website.jpg" alt="600-x-400-Find-Policies-&-Incentives-by-State-map-from-DSIRE-DOE-Energy-website" >}}
@@ -23,4 +20,4 @@ Developers can view the sample output by visiting the <a href="http://www.dsireu
 The DSIRE® database can be queried using <a href="http://en.wikipedia.org/wiki/SPARQL" target="_blank">SPARQL</a>. SPARQL (SPARQL Protocol and RDF Query Language) is a language that can query online databases that either offer “<a href="http://en.wikipedia.org/wiki/Attribute%E2%80%93value_pair" target="_blank">key-value</a>” data or <a href="http://en.wikipedia.org/wiki/Relational_database" target="_blank">relational database</a> tables. To use SPARQL, a query is entered into the <a href="http://virtuoso.dsireusa.org:8890/sparql" target="_blank">SPARQL endpoint</a>. The data is returned in an XML type format—<a href="http://en.wikipedia.org/wiki/Resource_Description_Framework" target="_blank">Resource Description Framework (RDF)</a>—which can then be used in an app.
 
 DSIRE® is a great example of joint projects between the federal government and other organizations. By pairing with NC State, DOE has a partner that will manage and offer the data in an effective way to the public. I look forward to further work on the DSIRE® API so that queries are available for JSON and XML formats along with the ability to offer geolocation services._*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

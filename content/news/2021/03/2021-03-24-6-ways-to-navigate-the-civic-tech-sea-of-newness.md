@@ -6,7 +6,6 @@ summary: Two former private-sector marketers now serving as Presidential
   as a civic technologist.
 # See all topics at https://digital.gov/topics
 topics:
-  - pif
   - professional-development
   - communication
 # See all authors at https://digital.gov/authors

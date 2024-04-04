@@ -6,18 +6,12 @@ summary: Anyone engaged in content marketing or content production probably owns
 authors:
   - victoria-wales
 topics:
-  - content
-  - content
   - content-strategy
-  - content-syndication
-  - marketing
-  - metrics
+  - communication
+  - analytics
   - multilingual
   - multimedia
   - social-media
-  - social-media-metrics
-  - usa-gov
-  - usagov
 ---
 
 Anyone engaged in content marketing or content production probably owns a robust editorial calendar. A calendar that is quickly updated, helps keep deadlines and is flexible can serve as a helpful blueprint of your content activities for the year.

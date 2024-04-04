@@ -7,14 +7,10 @@ authors:
   - jparcell
 topics:
   - mobile
-  - strategy
-  - policy
-  - Federal CrowdSource Mobile Testing Program
-  - internet-of-things
+  - content-strategy
+  - emerging-tech
   - open-data
-  - responsive-web-design
-  - trends-on-tuesday
-  - user-centered-design
+  - human-centered-design
 ---
 
 {{< legacy-img src="2015/02/600-x-450-Mobile-phones-background-Pile-of-different-modern-smartphones-Bet_Noire-iStock-Thinkstock-523564455.jpg" alt="A pile of different smart phones" caption="" >}} 

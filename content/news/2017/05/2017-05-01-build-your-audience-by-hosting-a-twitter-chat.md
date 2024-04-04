@@ -6,16 +6,11 @@ summary: 'Twitter is more than just a platform for sharing news and updates: it 
 authors:
   - aids-gov
 topics:
-  - content
-  - product-management
-  - social-media
-  - strategy
-  - policy
-  - writing
-  - aids-gov
   - content-strategy
-  - customer-service
+  - product-and-project-management
   - social-media
+  - communication
+  - customer-experience
 ---
 
 Twitter is more than just a platform for sharing news and updates: it can be a tool for directly communicating with your community and understanding what is important to them. One way you can connect with your Twitter audience is by hosting a Twitter Chat. They can be a good way to discuss key topics, raise awareness, and exchange knowledge and resources between you and the community. Several HIV organizations host Twitter chats on health topics, during HIV awareness days relevant to their community, and/or during HIV/AIDS conferences. You can also check in with your followers to see if there is a topic or issue that they’d like to discuss. {{< legacy-img src="2015/12/600-x-450-Vector-Card-With-Birds-leedsn-iStock-Thinkstock-484475995-Converted.jpg" alt="An illustration of various birds having a meeting on telephone wires above a cityscape." caption="leedsn/iStock/Thinkstock" >}}
@@ -75,7 +70,9 @@ In addition to Twitter, there are a few tools that can help you and your team fo
 
 If you’d like to learn more about Twitter chats, don’t forget to sign up for our [Virtual Office Hours](https://www.aids.gov/using-new-media/tools/office-hours/).
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+---
+
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _This post was originally published on the [AIDS.gov blog](https://blog.aids.gov/)._
 

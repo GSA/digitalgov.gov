@@ -7,21 +7,9 @@ authors:
   - david-fern
 topics:
   - mobile
-  - monthly-theme
-  - user-testing-and-research
-  - COPE
-  - Federal CrowdSource Mobile Testing Program
-  - mobile
-  - mobile-apps
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-4
-  - responsive-web-design
-  - structured-content
-  - transportation-security-administration
-  - TSA
+  - research
+  - content-strategy
   - user-experience
-  
 ---
 
 With 14 test cycles under our belt, the Federal CrowdSource Mobile Testing Program has heard one recurring theme from our testers—"there's too much information!"

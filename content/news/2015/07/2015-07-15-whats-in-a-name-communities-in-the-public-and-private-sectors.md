@@ -6,13 +6,10 @@ summary: Many of you are part of a government community. We lead a few of them h
 authors:
   - ktrebon
 topics:
-  - communities
-  - monthly-theme
-  - digital-analytics-program
-  - open-opportunities-program
+  - analytics
+  - professional-development
   - social-media
-  - web-content-managers-forum
-
+  - content-strategy
 ---
 
 Many of you are part of a government community. [We lead a few of them here]({{< ref "/communities" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).

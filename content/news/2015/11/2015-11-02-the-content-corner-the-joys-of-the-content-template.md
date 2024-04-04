@@ -6,12 +6,8 @@ summary: Many of us depend a great deal on subject matter experts (SMEs) to gene
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
   - content-strategy
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-ux-guideline-1
-  - the-content-corner
+  - mobile
 ---
 
 {{< legacy-img src="2014/08/600-x-400-featured-301-x-212-Website-wireframe-sketch-on-digital-tablet-screen-ronstick-iStock-Thinkstock-456037107.jpg" alt="Website wireframe sketch on digital tablet screen" caption="" >}} 
@@ -52,6 +48,6 @@ As stated previously, one of the greatest benefits for using content templates i
 
 It also helps each person involved to remember to review all the critical aspects of the content and its role on the site. A content template touches on many aspects of your content strategy in a subtle way. As you create them you have to focus on why you are asking for this content which also means you have a better idea of what its purpose is. Your SME needs to consider their role and gets a better understanding of the coordination and collaboration required to not only properly share their content (which they will probably feel is the best) but all content. It even occasionally has the impact of reinforcing the importance of the organization’s Web presence to staff that may be fairly disconnected from it.
 
-Finally, I would be remiss to not point out how templates at this stage also help to improve consistency of your content and its structure. Just as a CMS will help provide structure to your content, content templates serve as a type of proto-CMS and help SMEs place their content in the appropriate blank or box. This consistency is valuable when their content is later being sliced and diced and possibly served up in a variety of ways based on [open and structured content]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}) practices, such as providing an [API]({{< ref "/topics/api" >}}).
+Finally, I would be remiss to not point out how templates at this stage also help to improve consistency of your content and its structure. Just as a CMS will help provide structure to your content, content templates serve as a type of proto-CMS and help SMEs place their content in the appropriate blank or box. This consistency is valuable when their content is later being sliced and diced and possibly served up in a variety of ways based on [open and structured content]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}) practices, such as providing an [API]({{< ref "/topics/application-programming-interface" >}}).
 
-Your SME took the time to develop the content; I’m sure they’d enjoy having it seen and used in as many ways as possible._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Your SME took the time to develop the content; I’m sure they’d enjoy having it seen and used in as many ways as possible._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

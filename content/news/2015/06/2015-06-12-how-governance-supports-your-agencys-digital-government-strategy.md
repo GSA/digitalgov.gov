@@ -1,24 +1,23 @@
 ---
 slug: how-governance-supports-your-agencys-digital-government-strategy
 date: 2015-06-12 10:00:33 -0400
-title: How Governance Supports Your Agency’s Digital Government Strategy
-summary: 'It seems that everyone these days is talking about &ldquo;governance.&rdquo; But what is it, really, and how can you make good governance usable in your agency? The federal government developed the Digital Government Strategy to deliver better Web services to the American people. The strategy is based on the notion of focusing on customers&mdash;the American'
+title: "How Governance Supports Your Agency’s Digital Government Strategy"
+summary: "What is governance, and how can you make good governance usable in your agency? The federal government developed the Digital Government Strategy to deliver better Web services to the American people."
+
 authors:
   - robert-jacoby
+
 topics:
   - governance
-  - product-management
-  - strategy
-  - policy
-  - HHS
-  - united-states-department-of-health-and-human-services
+  - product-and-project-management
+  - content-strategy
 ---
-
-{{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="Strategy concepts on chalk board" caption="" >}} 
 
 It seems that everyone these days is talking about “governance.” But what is it, really, and how can you make good governance usable in your agency?
 
 The federal government developed the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) to deliver better Web services to the American people. The strategy is based on the notion of focusing on customers—the American people—and their needs in terms of providing access to high-quality digital government information and services anywhere, anytime, on any device. Governance offers a practical, supporting framework for managing the myriad of content, applications, services, and platforms for managing this complex endeavor. [Guidelines were developed for governance]({{< ref "2012-08-12-agile-sprinting-to-digital-governance-recommendations.md" >}}) using agile methods in response to the Strategy.
+
+{{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="Strategy concepts on chalk board" caption="Melpomenem, iStock, Thinkstock" >}}
 
 This case study provides examples of implementing digital governance from experience with [Project Evolve for SAMHSA.gov](http://blog.samhsa.gov/category/evolve).
 
@@ -36,11 +35,11 @@ At the start of this fiscal year, the PE Team realized that challenges existed i
 
 We started solving the challenges of governance by changing our thinking about governance. We used a business reference model (used by the federal government) to help us focus on work areas (_functional_ governance) first rather than the organizational structure behind it (_operational_ governance). In this way we were able to reduce very large project areas to the simplest, component parts (that is, the ones we knew needed _immediate_ attention):
 
-  * Content owners (staff identity and their roles and responsibilities of content areas and through workflows)
-  * Current content workflow outside CMS
-  * Drupal CMS (content workflows and roles and permissions)
-  * Supporting areas (usability, communications, training, content strategy, change management, and more)
-  * Documentation (for example, [Web style guide]({{< ref "2015-06-08-the-content-corner-creating-a-content-style-guide.md" >}}), CMS user guide, standard operating procedures)
+* Content owners (staff identity and their roles and responsibilities of content areas and through workflows)
+* Current content workflow outside CMS
+* Drupal CMS (content workflows and roles and permissions)
+* Supporting areas (usability, communications, training, content strategy, change management, and more)
+* Documentation (for example, [Web style guide]({{< ref "2015-06-08-the-content-corner-creating-a-content-style-guide.md" >}}), CMS user guide, standard operating procedures)
 
 Focusing on the functional governance areas aided immensely in our ability to help SAMHSA model solutions that supported the goals of the Digital Government Strategy.
 
@@ -48,10 +47,10 @@ Focusing on the functional governance areas aided immensely in our ability to he
 
 Only after we had all of the pieces of the puzzle before us were we able to develop a governance strategy tailored to the specific business needs of our customer. We titled it “Governance Convergence” to highlight the set of areas that had immediate and cross-functional relationships and impacts across the project. The document was less than 20 pages and included:
 
-  * A website governance convergence map (similar to the one shown here) to illustrate relationships and interactions between and among functional governance areas
-  * Explanations and discussions around the defined website governance areas, and unique challenges in and among each (for example, interactivities and interdependencies)
-  * Strategies for goals and solutions and measuring outcomes
-  * Draft work plans
+* A website governance convergence map (similar to the one shown here) to illustrate relationships and interactions between and among functional governance areas
+* Explanations and discussions around the defined website governance areas, and unique challenges in and among each (for example, interactivities and interdependencies)
+* Strategies for goals and solutions and measuring outcomes
+* Draft work plans
 
 Illustrating the enterprise-wide governance areas in this way helped make real the issues, risks, and dependencies for SAMHSA’s Project Evolve. They were, quite literally, staring us in the face.
 
@@ -65,6 +64,8 @@ As a content team lead working on SAMHSA.gov, I see every day how governance suc
 
 ## Resources
 
-  * The [Digital Services Governance Recommendations](https://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations) (a product of the Digital Services Advisory Group, Federal Chief Information Officers Council, and Federal Web Managers Council)
-  * [Digital Strategy at HHS](http://www.hhs.gov/web/governance/strategy.html)
-  * [Website Governance](http://en.wikipedia.org/wiki/Website_governance) article at Wikipedia_Robert Jacoby, MIM, is a Lead Content Consultant at Aquilent. He works as a content team lead and project management support for Project Evolve on SAMHSA.gov_.
+* The [Digital Services Governance Recommendations](https://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations) (a product of the Digital Services Advisory Group, Federal Chief Information Officers Council, and Federal Web Managers Council)
+* [Digital Strategy at HHS](http://www.hhs.gov/web/governance/strategy.html)
+* [Website Governance](http://en.wikipedia.org/wiki/Website_governance) article at Wikipedia
+
+_Robert Jacoby, MIM, is a Lead Content Consultant at Aquilent. He works as a content team lead and project management support for Project Evolve on SAMHSA.gov_.

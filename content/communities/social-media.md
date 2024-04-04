@@ -5,7 +5,7 @@
 slug: social-media
 date: 2019-12-12 19:00:00 -0500
 title: "Social Media"
-summary: "Brings together government social media communicators to improve social media outreach efforts."
+summary: "Improve social media outreach and performance."
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -15,7 +15,6 @@ authors:
 # see all topics at https://digital.gov/topics
 topics:
   - social-media
-  - social-media-metrics
 
 event_cop:
   - social-media
@@ -29,6 +28,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Social Media
 dg_acronym: SM
+dg_logo: communities-social-media.svg
 
 community_list:
   - platform: listserv
@@ -36,7 +36,7 @@ community_list:
     subscribe_email: "sm-cop-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Social Media Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 1,386
+    members: 1,462
     join_cop_button: "Social Media community members"
     
 kicker: "Join the Social Media Community"

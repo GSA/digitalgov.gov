@@ -7,13 +7,10 @@ summary: 'We’re incredibly excited to announce the launch of the new FedRAMP M
 authors:
   - matt-goodrich
 topics:
-  - data
-  - product-management
-  - 18f
-  - cloud
-  - data
-  - Federal Risk and Authorization Management Program
-  - fedramp
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - open-data
+  - security
 ---
 
 We’re incredibly excited to announce the launch of the new [FedRAMP Marketplace dashboard](http://marketplace.fedramp.gov/)! It’s loaded with all sorts of ways for you to see how everyone is participating with FedRAMP!

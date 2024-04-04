@@ -6,9 +6,7 @@ summary: 'In case you missed it, U.S. Open Data recently launched a tool called:
 authors:
   - rebecca-williams
 topics:
-  - code
-  - data
-  - monthly-theme
+  - software-engineering
   - open-data
 ---
 

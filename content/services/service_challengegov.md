@@ -30,7 +30,7 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - innovation
 
 # see all authors at https://digital.gov/authors

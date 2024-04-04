@@ -7,11 +7,7 @@ authors:
   - randy-abramson
 topics:
   - social-media
-  - video
-  - bbg
-  - broadcasting-board-of-governors
-  - DOI
-  - us-department-of-the-interior
+  - multimedia
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Rubick's Cube with social media logos" caption="" >}}

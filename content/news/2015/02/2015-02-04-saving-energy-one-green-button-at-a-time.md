@@ -6,15 +6,9 @@ summary: Conserving energy is not a shot in the dark. Millions of people can now
 authors:
   - awichman
 topics:
-  - data
-  - apps-challenges
-  - data
-  - department-of-commerce
-  - national-institute-of-standards-and-technology
-  - NIST
+  - challenges-and-prize-competitions
   - open-data
   - open-source
-  - united-states-department-of-energy
 ---
 
 {{< legacy-img src="2015/02/600-x-239-Green-futuristic-city-living-concept-kav777-iStock-Thinkstock-178804545.jpg" alt="Green futuristic city living concept" caption="" >}} 

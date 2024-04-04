@@ -9,8 +9,7 @@ topics:
   - content-strategy
   - customer-experience
   - digital-service-delivery
-  - product-management
-  - project-management
+  - product-and-project-management
   - plain-language
 
 # See all authors at https://digital.gov/authors
@@ -29,7 +28,7 @@ weight: 1
 
 ---
 
-{{< box >}}*This is Part 3 in a three-part series with the U.S. General Service Administration (GSA) Center for Charge Card Management (CCCM) about building their new, open-source [program](http://smartpay.gsa.gov) and [training](http://training.smartpay.gsa.gov) websites, and the new [Section 889](https://889.smartpay.gsa.gov/) web app.*
+{{< box >}}*This is Part 3 in a three-part series with the U.S. General Services Administration (GSA) Center for Charge Card Management (CCCM) about building their new, open-source [program](http://smartpay.gsa.gov) and [training](http://training.smartpay.gsa.gov) websites, and the new [Section 889](https://889.smartpay.gsa.gov/) web app.*
 
 *For this post, Ryan Johnson, a content strategist on the GSA Service Delivery team, chatted with product owner, Rebekah Perillo. Rebekah is a lead business management analyst with CCCM.*{{< /box >}}
 

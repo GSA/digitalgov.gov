@@ -6,8 +6,7 @@ summary: ''
 authors:
   - jeremyzilar
 topics:
-  - product-management
-  - project-management
+  - product-and-project-management
 
 source: 'doi-revenuedata'
 source_url: 'https://revenuedata.doi.gov/blog/becoming-a-product-manager/'

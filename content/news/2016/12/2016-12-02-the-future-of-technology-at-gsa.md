@@ -7,17 +7,9 @@ summary: 'The potential to transform government and impact the lives of American
 authors:
   - gsa-blog-team
 topics:
-  - product-management
-  - strategy
-  - policy
-  - 18f
-  - gsa
+  - product-and-project-management
+  - content-strategy
   - innovation
-  - technology-transformation-services
-  - tts
-  - us-general-services-administration
-  - USDS
-  - us-digital-service
 primary_image: "nongkran-ch-istock-getty-images-487970224-comp"
 
 ---

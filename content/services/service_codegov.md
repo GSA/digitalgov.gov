@@ -31,8 +31,7 @@ authors:
 topics:
   - open-source
   - software-engineering
-  - code
-  - data
-  - api
+  - open-data
+  - application-programming-interface
 
 ---

@@ -6,17 +6,8 @@ summary: 'Facebook is a highly visual medium. Studies show that Facebook posts f
 authors:
   - aids-gov
 topics:
-  - content
-  - monthly-theme
-  - social-media
-  - strategy
-  - policy
-  - aids-gov
-  - content
   - content-strategy
-  - HHS
   - social-media
-  - united-states-department-of-health-and-human-services
 ---
 
 Facebook is a highly visual medium. [Studies](http://www.socialmediaexaminer.com/photos-generate-engagement-research) show that [Facebook posts featuring photos](https://www.facebook.com/AIDS.gov/) are the most noticed, liked, and shared.

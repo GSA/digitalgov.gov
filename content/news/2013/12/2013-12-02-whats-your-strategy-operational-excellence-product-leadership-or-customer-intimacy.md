@@ -6,8 +6,7 @@ summary: 'In the Discipline of Market Leaders by Michael Treacy and Fred Wiersem
 authors:
   - martha-dorris
 topics:
-  - strategy
-  - policy
+  - content-strategy
   - customer-experience
 ---
 

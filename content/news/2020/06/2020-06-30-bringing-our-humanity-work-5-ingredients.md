@@ -11,7 +11,7 @@ summary: "How to design impactful and engaging Town Hall or large group meetings
 # see all topics at https://digital.gov/topics
 topics: 
   - professional-development
-  - strategy
+  - content-strategy
   - communication
 
 # see all authors at https://digital.gov/authors

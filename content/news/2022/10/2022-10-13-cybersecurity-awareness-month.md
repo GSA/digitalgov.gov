@@ -9,7 +9,7 @@ summary: This year, the Federal Cyber Workforce Management and Coordinating Work
 
 # See all topics at https://digital.gov/topics
 topics:
-  - national-cyber-security-awareness-month
+  - security
 
 # See all authors at https://digital.gov/authors
 authors:

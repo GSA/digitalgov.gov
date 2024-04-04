@@ -8,7 +8,6 @@ summary: Presidential Innovation Fellow Kaeli Yuen shares tips for developing
   clinician- and patient-centered healthcare tools.
 # See all topics at https://digital.gov/topics
 topics:
-  - pif
   - innovation
 # See all authors at https://digital.gov/authors
 authors:

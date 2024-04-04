@@ -6,19 +6,12 @@ summary: 'In the five months since we launched the Draft U.S. Web Design Standar
 authors:
   - melody-kramer
 topics:
-  - code
+  - software-engineering
   - design
-  - product-management
-  - strategy
-  - policy
-  - 18f
-  - code
-  - draft-web-design-standards
+  - product-and-project-management
+  - content-strategy
   - open-source
-  - us-digital-service
   - user-experience
-  - usds
-  
 ---
 
 In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.

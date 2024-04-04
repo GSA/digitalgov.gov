@@ -7,10 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile-apps
-  - mobile-ux-guideline-5
-  - native-apps
-  - trends-on-tuesday
+  - emerging-tech
 
 ---
 

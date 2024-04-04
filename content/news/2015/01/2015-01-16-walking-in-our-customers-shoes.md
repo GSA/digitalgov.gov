@@ -6,8 +6,7 @@ summary: 'The General Services Administration&#8217;s (GSA’s) focus on custome
 authors:
   - phaedra-chrousos
 topics:
-  - product-management
-  - our-work
+  - product-and-project-management
   - customer-experience
 ---
 

@@ -6,11 +6,8 @@ summary: 'In honor of Veterans Day, several VA mobile apps are featured this wee
 authors:
   - melissa-heintz
 topics:
-  - content
+  - content-strategy
   - mobile
-  - mobile
-  - mobile-apps
-
 ---
 
 In honor of Veterans Day, several VA mobile apps are featured this week in the Apple App Store. In the “For Those Who Serve” collection of resources, Veterans can find the latest military news, essential health and wellness information, and other valuable tools for everyday life.

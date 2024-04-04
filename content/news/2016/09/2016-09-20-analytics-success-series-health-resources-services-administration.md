@@ -8,18 +8,9 @@ authors:
   - mackenzie-cummings
   - richard-morey
 topics:
-  - data
-  - metrics
-  - our-work
+  - open-data
   - analytics
-  - content
   - content-strategy
-  - dap
-  - data
-  - digital-analytics-program
-  - HHS
-  - HRSA
-  - metrics
   - user-experience
 ---
 

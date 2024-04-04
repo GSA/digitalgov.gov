@@ -6,19 +6,11 @@ summary: 'How the U.S. Digital Service worked with students, families, schools, 
 authors:
   - lisa-gelobter
 topics:
-  - code
-  - data
-  - 18f
-  - agile
-  - api
-  - data
+  - software-engineering
+  - application-programming-interface
   - open-data
-  - prototype
-  - us-department-of-education
-  - us-digital-service
+  - design
   - user-experience
-  - usds
-
 ---
 
 My niece is a smart kid. I’m biased, but I swear she is. And just as I started working on the College Scorecard project as the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service)’s new Chief Digital Service Officer at the Department of Education, I got a call from her—she was trying to decide where to go to school. As we were building this tool, wading through this data, and working with all the top college choice tools already in the market, I was also helping her navigate her college choice process. Where should she go? What was the best value? What is value when it comes to schools? This may be the single most important investment of her life, and even she was struggling to find clear, reliable data on critical questions.

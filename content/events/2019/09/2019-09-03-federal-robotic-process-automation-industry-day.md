@@ -15,8 +15,7 @@ host: The IRS Office of the Chief Procurement Officer, GSA Office of the Chief F
 registration_url: https://www.eventbrite.com/e/federal-robotic-process-automation-industry-day-registration-68272140811
 topics:
   - emerging-tech
-  - rpa
-  - internal-revenue-service
+  - robotic-process-automation
 venue:
   venue_name: U.S. Office of Personnel Management
   room: Auditorium

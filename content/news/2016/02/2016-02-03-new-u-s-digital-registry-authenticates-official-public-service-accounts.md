@@ -6,15 +6,12 @@ summary: ' Whether for voter registration, health services or questions about ta
 authors:
   - jherman
 topics:
-  - our-work
   - social-media
-  - analytics-usa-gov
-  - api
-  - mobile-gov
+  - analytics
+  - application-programming-interface
+  - mobile
   - open-source
-  - socialgov
   - terms-of-service
-  - us-digital-registry
 ---
 
 <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{{< legacy-img src="2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" >}}</a>

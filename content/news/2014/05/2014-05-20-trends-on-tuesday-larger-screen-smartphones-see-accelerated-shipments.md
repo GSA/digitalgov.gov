@@ -7,12 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - user-testing-and-research
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-4
-  - trends-on-tuesday
-
+  - research
+  - emerging-tech
 ---
 
 Smaller doesn&#8217;t mean more popular when it comes to smartphone screen size.

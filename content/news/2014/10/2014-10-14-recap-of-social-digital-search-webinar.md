@@ -6,17 +6,11 @@ summary: 'Content is no longer limited to .gov sites. As mentioned in a recent b
 authors:
   - rachel-mundstock
 topics:
-  - api
-  - content
-  - our-work
-  - social-media
-  - video
+  - application-programming-interface
+  - content-strategy
+  - multimedia
   - search
-  - federal-register
-  - National Library of Medicine
-  - NLM
-  - recaps
-  - socialgov-community
+  - social-media
 ---
 
 Content is no longer limited to .gov sites. As mentioned in a recent blog post, [Sharing is Caring, Adding Social Media Accounts to Search]({{< ref "2014-09-05-sharing-is-caring-adding-social-media-accounts-to-search.md" >}} "Sharing is Caring, Adding Social Media Accounts to Search"), DigitalGov Search uses Flickr, Instagram, and YouTube to populate image and video search results.

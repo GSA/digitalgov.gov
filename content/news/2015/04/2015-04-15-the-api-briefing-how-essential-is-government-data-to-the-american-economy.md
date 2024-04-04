@@ -6,17 +6,8 @@ summary: I grew up when home computers were first being introduced to the genera
 authors:
   - bbrantley
 topics:
-  - api
-  - data
-  - api
-  - Census
-  - data
-  - department-of-commerce
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
+  - application-programming-interface
   - open-data
-  - united-states-census-bureau
-  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/04/600-x-300-American-flag-as-bar-code-Andrei-Tsalko-iStock-Thinkstock-ThinkstockPhotos-153479385.jpg" alt="American flag as bar code" caption="" >}} 

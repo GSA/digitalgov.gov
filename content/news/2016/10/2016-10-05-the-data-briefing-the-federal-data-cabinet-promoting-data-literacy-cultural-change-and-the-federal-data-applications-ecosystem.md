@@ -6,13 +6,10 @@ summary: 'Last Wednesday, the White House held the first Open Data Summit to sho
 authors:
   - bbrantley
 topics:
-  - data
-  - metrics
-  - data
-  - infrastructure
-  - metrics
   - open-data
-  - the-data-briefing
+  - analytics
+  - cloud-and-infrastructure
+  - emerging-tech
 ---
 
 Last Wednesday, the White House held the first [Open Data Summit](http://www.govtech.com/data/White-House-Open-Data-Innovation-Summit-Open-Datas-Full-Potential-Is-Just-Being-Realized.html) to showcase the open data accomplishments of the Obama Administration. One of the highlights was the formation of a government-wide “data cabinet.” Announced by Chief Data Scientist DJ Patil, the data cabinet is essentially a community of practice comprising the Federal agency’s data professionals. As Dr. Patil explains, [the real issues concerning technical projects revolve around cultural issues](http://www.nextgov.com/big-data/2016/09/how-data-cabinet-could-break-down-project-barriers/131925/?oref=ng-HPriver). I couldn’t agree more. {{< legacy-img src="2014/04/600-x-395-Group-of-Business-People-in-Office-Building-data-statistics-metrics-on-tablet-Robert-Churchill-iStock-Thinkstock-469780051.jpg" alt="Group of Business People in an Office Building, with statistical data seen on a tablet in the foreground" caption="" >}} 

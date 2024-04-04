@@ -6,9 +6,7 @@ summary: 'If you’re considering &ldquo;going agile,&rdquo; one of the critical
 authors:
   - brian-fox
 topics:
-  - product-management
-  - agile
-  - agile-lean-community-of-practice
+  - product-and-project-management
   - best-practices
 ---
 
@@ -42,4 +40,4 @@ The reality is that adopting team structures will increase the power of the deve
 
 It is important to mitigate this particular fear of teaming by communicating with stakeholders and ensuring they understand “what” work is accomplished is more important than “who” completes it. Leadership can help stakeholders understand that teams will provide stakeholders with access to more development resources, the right talent for the requirements stakeholders are providing. This will improve the speed and quality of software development’s response. Leadership must ensure that stakeholders have ample opportunity to engage with the new teams, reducing their need to communicate or control individual developers. Structured communication approaches will reduce interaction between stakeholders and individual developers. This will reduce the stress felt by both individual developers and their stakeholders. Agile will place requirements into a backlog, and as work is realistically committed to by the development team, stakeholders can stop worrying about “if” the work is completed, and rather focus on managing the priority of work and improving communication with users to better manage their expectations.
 
-While there are a number of challenges associated with adopting teams as you transition to agile development methods, the benefits of teaming will outweigh the challenges and fears. It will be critical for leadership to be actively engaged, mitigating concerns and addressing issues as teaming is adopted, as bringing developers together onto teams is a key part of “going agile.”_Check out some of DigitalGov&#8217;s [recent articles on the agile methodology]({{< ref "/topics/agile" >}})._ _Have a **.gov** or **.mil** email address? Join the [Agile/Lean Community of Practice]({{< ref "/communities" >}}) to connect with others at federal agencies working to increase team efficiency and customer satisfaction, while reducing project risk and cost._
+While there are a number of challenges associated with adopting teams as you transition to agile development methods, the benefits of teaming will outweigh the challenges and fears. It will be critical for leadership to be actively engaged, mitigating concerns and addressing issues as teaming is adopted, as bringing developers together onto teams is a key part of “going agile.”_Check out some of DigitalGov&#8217;s [recent articles on the agile methodology]({{< ref "/topics/product-and-project-management" >}})._ _Have a **.gov** or **.mil** email address? Join the [Agile/Lean Community of Practice]({{< ref "/communities" >}}) to connect with others at federal agencies working to increase team efficiency and customer satisfaction, while reducing project risk and cost._

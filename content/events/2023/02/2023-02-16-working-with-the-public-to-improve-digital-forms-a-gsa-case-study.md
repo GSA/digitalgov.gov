@@ -9,9 +9,7 @@ registration_url: https://gsa.zoomgov.com/webinar/register/WN_D6O0LEvrR3qPRJ0k_c
 end_date: 2023-03-02 14:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - data
   - research
-  - a-b-testing
 slug: working-with-the-public-to-improve-digital-forms-a-gsa-case-study
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2023-03-02 13:00:00 -0500

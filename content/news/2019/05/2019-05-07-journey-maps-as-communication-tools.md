@@ -18,7 +18,7 @@ source: doi-revenuedata
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - user-experience
 
 # see all authors at https://digital.gov/authors

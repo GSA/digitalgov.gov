@@ -6,12 +6,9 @@ summary: ' Myth-busting isn’t just for television. And through a multi-faceted
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
   - multilingual
-  - national-institutes-of-health
-  - nih
-  - social-media
 ---
 
 {{< legacy-img src="2015/03/600-x-383-NIH-NIDA-NDFW-2015-logo.jpg" alt="National Drug Facts Week (NDFW) logo for 2015." >}}

@@ -7,10 +7,7 @@ summary: Since 2003, one program in GSA’s Technology Transformation Services (
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - content
-  - usagov
-  - gobiernousagov
-  - multilingual-community
+  - content-strategy
   - diversity-equity-and-inclusion
 
 # See all authors at https://digital.gov/authors

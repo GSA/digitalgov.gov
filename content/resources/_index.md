@@ -12,6 +12,13 @@ aliases:
   - /resources/hawaii-wildfires-guidance-for-us-government/
   - /hurricane-idalia/
   - /resources/hurricane-idalia-guidance-for-us-government/
+  - /topics/consumer-action-handbook/
+  - /topics/fact-sheet/
+  - /topics/federal-register/
+  - /topics/government-publishing-office/
+  - /topics/gpo/
+  - /topics/pbs/
+  - /topics/public-buildings-service/
 
 ---
 

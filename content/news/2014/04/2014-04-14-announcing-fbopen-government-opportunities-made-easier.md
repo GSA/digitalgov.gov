@@ -7,10 +7,7 @@ authors:
   - alison-rowland
   - aaron-snow
 topics:
-  - code
-  - 18f
-  - GitHub
-  - gsa
+  - software-engineering
   - acquisition
 ---
 

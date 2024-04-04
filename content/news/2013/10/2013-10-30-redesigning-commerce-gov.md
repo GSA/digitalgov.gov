@@ -6,8 +6,8 @@ summary: 'After having the same look and feel on our website since 2010, Commerc
 authors:
   - mike-kruger
 topics:
-  - code
-  - content
+  - software-engineering
+  - content-strategy
   - design
 ---
 

@@ -6,20 +6,8 @@ summary: ' Government mobile code developed to help make tables mobile-friendly 
 authors:
   - jparcell
 topics:
-  - code
+  - software-engineering
   - mobile
-  - code
-  - Defense Finance and Accounting Services
-  - DFAS
-  - DOL
-  - HHS
-  - mobile
-  - mobile-code-catalog
-  - mobile-ux-guideline-1
-  - responsive-web-design
-  - thursday-mobile-products
-  - us-department-of-labor
-  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/10/600-x-428-HHS-table-code.jpg" alt="table overflow code" >}}

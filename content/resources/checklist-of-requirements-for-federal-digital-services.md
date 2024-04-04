@@ -13,8 +13,7 @@ aliases:
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
 weight: 2
 topics:
-  - product-management
-  - policy
+  - product-and-project-management
   - governance
 primary_image: "checklist-topics"
 ---
@@ -32,11 +31,10 @@ These high-level policies cover basic requirements for all websites and digital 
 - [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.federalregister.gov/documents/2016/07/28/2016-17872/revision-of-omb-circular-no-a-130-managing-information-as-a-strategic-resource) (July 28, 2016)
 - [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 - [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
-- See a full list of [policies and regulations »]({{< ref "/topics/policy" >}})
 - See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist)
 
 <p class="more">
-  <a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA
+  <a href="{{< ref "/topics/digital-service-delivery" >}}">More on 21st Century IDEA
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>
@@ -71,7 +69,7 @@ Understand customer needs, set performance standards, collect and address custom
     - See our guide for the [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/), a free analytics tool for measuring digital services in the federal government (use is required by M-17-06).
 
 <p class="more">
-  <a href="{{< ref "/topics/metrics" >}}">More on Metrics
+  <a href="{{< ref "/topics/analytics" >}}">More on Metrics
     <svg class="dg-icon dg-icon--standard dg-icon-circle-arrow-forward margin-bottom-05" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-10 1H8v-2h4V8l4 4-4 4v-3z"/>
     </svg>

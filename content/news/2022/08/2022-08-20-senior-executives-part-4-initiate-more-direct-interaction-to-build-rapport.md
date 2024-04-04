@@ -12,8 +12,7 @@ deck: "**Senior Executives Part 4: Initiate More Direct Interaction To Build
 summary: summary
 # See all topics at https://digital.gov/topics
 topics:
-  - agile
-  - 18f
+  - product-and-project-management
 slug: senior-executives-part-4-initiate-more-direct-interaction-to-build-rapport
 # Controls how this page appears across the site
 # 0 -- hidden

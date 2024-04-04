@@ -6,17 +6,13 @@ summary: As you know, over the last few years DigitalGov has surfaced the innova
 authors:
   - 18f-team
 topics:
-  - content
-  - product-management
-  - our-work
-  - user-testing-and-research
-  - user-experience
-  - content
-  - customer-experience
-  - office-of-products-and-programs
+  - content-strategy
+  - product-and-project-management
   - research
+  - user-experience
+  - customer-experience
   - user-centered-design
-
+  - human-centered-design
 ---
 
 As you know, over the last few years DigitalGov has surfaced the innovative advancements many are making across the government space while providing a platform for learning best practices and coming together as a community.

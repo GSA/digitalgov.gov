@@ -17,9 +17,7 @@ source: 18f
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 18f
   - research
-  - user-research
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
