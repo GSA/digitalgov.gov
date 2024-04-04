@@ -54,7 +54,7 @@ When determining whether and how to collect personally identifiable information,
 To help users understand why you’re asking for their personally identifiable information:
 
 1. Link to your agency’s Privacy Program page from your website’s “About” page.
-2. Link to the site’s [privacy policy](https://digital.gov/resources/required-web-content-and-links/?dg#privacy-policy-2) from the [USWDS Identifier component](https://designsystem.digital.gov/components/identifier/) in your website footer.
+2. Link to the site’s [privacy policy](https://digital.gov/resources/required-web-content-and-links/#privacy-policy-2) from the [USWDS Identifier component](https://designsystem.digital.gov/components/identifier/) in your website footer.
 3. Keep all privacy policies and information up-to-date.
 
 To complete your privacy coverage, consult with your agency’s Privacy Office to put strong controls in place to keep user information safe. Discuss whether you need to conduct a Privacy Threshold Assessment (PTA) or Privacy Impact Assessment (PIA), or publish a System of Records Notice (SORN). Also consult with them when considering adoption of third-party websites and applications, to ensure proper privacy protections are in place for users.

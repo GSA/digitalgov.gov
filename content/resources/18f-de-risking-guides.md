@@ -19,6 +19,5 @@ topics:
 source: "18f"
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 source_url: "https://derisking-guide.18f.gov/"
 ---
