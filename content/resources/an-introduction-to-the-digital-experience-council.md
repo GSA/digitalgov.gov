@@ -2,7 +2,7 @@
 date: 2024-04-04
 source: ""
 title: An introduction to the Digital Experience Council
-deck: A cross-agency group designed for delivering a digital-first public experience.
+deck: A cross-agency group designed for delivering a digital-first public experience
 summary: The Digital Experience (DX) Council plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.
 
 # See all topics at https://digital.gov/topics
