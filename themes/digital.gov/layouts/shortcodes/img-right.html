@@ -1,3 +1,9 @@
+{{/* Renders image on right side of screen
+
+  <!-- TODO: move lines 11-20 into comment block for better break down of use -->
+
+*/}}
+
 <!-- image -->
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisimg := index $.Site.Data.images (.Get "src" | lower) -}}

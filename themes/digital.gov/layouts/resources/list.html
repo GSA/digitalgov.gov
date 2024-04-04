@@ -119,49 +119,34 @@
         </div>
       </section>
 
-      <section class="topic-buttons">
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row">
-            <div class="grid-col-12">
-              <h2>Resources by Topic</h2>
-            </div>
-          </div>
-          <div class="grid-row tablet:grid-gap-2">
-            {{- $top_topics := $.Site.Taxonomies.topics -}}
-            {{- range $name, $taxonomy := $top_topics -}}
-              {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-                  <div class="grid-col-12 tablet:grid-col-4">
-                    <div class="topic">
-                      <h3>
-                        <a
-                          href="{{- .Permalink | absURL -}}"
-                          title="{{- .Title -}}"
-                          >{{- .Title -}} <span>&#8594;</span></a
-                        >
-                      </h3>
-                    </div>
-                  </div>
-                {{- end -}}
+      <section class="grid-container grid-container-desktop">
+        <h2>Resources by Topic</h2>
+
+        <div class="grid-row tablet:grid-gap-2">
+          {{- $top_topics := $.Site.Taxonomies.topics -}}
+          {{- range $name, $taxonomy := $top_topics -}}
+            {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+              {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+                <div class="grid-col-12 tablet:grid-col-4">
+                  {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title) }}
+                </div>
               {{- end -}}
             {{- end -}}
-          </div>
-          <footer>
-            <p>
-              <a href="{{ "topics" | relURL }}" class="dg-more-link">
-                <span>See all topics</span>
-                <svg
-                  class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
-                  aria-hidden="true"
-                  focusable="false"
-                >
-                  <use
-                    xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
-                  ></use>
-                </svg>
-              </a>
-            </p>
-          </footer>
+          {{- end -}}
+        </div>
+        <div>
+          <a href="{{ "topics" | relURL }}" class="dg-more-link__label">
+            <span>See all topics</span>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+              ></use>
+            </svg>
+          </a>
         </div>
       </section>
     </article>
