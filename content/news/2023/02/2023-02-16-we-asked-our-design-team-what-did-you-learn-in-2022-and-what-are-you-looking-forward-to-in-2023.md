@@ -17,7 +17,6 @@ summary: "The beginning of the year is a good time to hunker down, reflect on
   had to say."
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - design
 slug: we-asked-our-design-team-what-did-you-learn-in-2022-and-what-are-you-looking-forward-to-in-2023
 # Controls how this page appears across the site

@@ -10,8 +10,19 @@ deck: "Measure and plan your site performance with analytics best practices and 
 
 summary: "Web analytics provide valuable insights into how users interact with a website. Use the data gained from web analytics to identify areas for improvement and make data-driven decisions. This can lead to a more user-friendly and engaging website, which can enhance trust and overall site performance."
 
+aliases:
+  - /topics/analytics-usa-gov
+  - /topics/data/
+
 # Weight
 weight: 2
+
+aliases:
+  - /topics/big-data/
+  - /topics/dap/
+  - /topics/digital-analytics-program/
+  - /topics/google-analytics/
+  - /topics/metrics/
 
 # Set the legislation card title and link
 legislation:

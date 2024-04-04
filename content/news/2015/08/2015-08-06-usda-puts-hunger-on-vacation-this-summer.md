@@ -5,10 +5,7 @@ title: USDA Puts Hunger on Vacation This Summer
 summary: ' The USDA&#8217;s Food and Nutrition Service is helping to put hunger on vacation this summer with their Summer Meal Site Finder, a Web and mobile tool that will provide the location of summer meal sites to ensure low-income children continue to receive nutritious meals while school is out. Having this'
 topics:
   - mobile
-  - api
-  - thursday-mobile-products
- 
-  - USDA
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/08/600-x-383-fns-USDAgov-mobile-Summer-Meal-Site-Finder-map-screen-capture.jpg" alt="600-x-383-fns-USDAgov-mobile-Summer-Meal-Site-Finder-map-screen-capture" >}}

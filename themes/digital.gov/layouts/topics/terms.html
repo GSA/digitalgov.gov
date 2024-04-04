@@ -1,86 +1,55 @@
 {{/* All Tags */}}
 {{/* lists out the tags for the site */}}
 {{- define "content" -}}
-  {{ $path := "" }}{{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
-
-
   <main role="main" id="main-content">
     <header>
-      <div class="grid-container grid-container-desktop">
+      <div class="grid-container grid-container-desktop margin-top-2">
         {{- $topics := (where .Site.Pages "Section" "topics") -}}
         <h1>Topics</h1>
         <h4 class="display-none">There are {{ len $topics }} topics</h4>
       </div>
     </header>
 
-    <section class="topic-buttons">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet:grid-gap-2">
-          {{- $top_topics := $.Site.Taxonomies.topics -}}
-          {{- range $name, $taxonomy := $top_topics -}}
-            {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-              {{- if eq .Params.weight 2 -}}
-                <div class="grid-col-12 tablet:grid-col-4">
-                  <div class="topic" data-gh-edit-page="{{- $path -}}">
-                    <h3>
-                      <a
-                        href="{{- .Permalink | absURL -}}"
-                        title="{{- .Title -}}"
-                      >
-                        {{- .Title -}} <span>&#8594;</span>
-                      </a>
-                    </h3>
-                  </div>
-                </div>
-              {{- end -}}
+    <section class="grid-container-desktop">
+      <div class="grid-row tablet:grid-gap-2">
+        {{- $top_topics := $.Site.Taxonomies.topics -}}
+        {{- range $name, $taxonomy := $top_topics -}}
+          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+            {{- if eq .Params.weight 2 -}}
+              <div class="grid-col-12 tablet:grid-col-4">
+                {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title) }}
+              </div>
             {{- end -}}
           {{- end -}}
-        </div>
+        {{- end -}}
       </div>
     </section>
 
-    <section class="topic-buttons">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-auto">
-            {{- $topics_tax := $.Site.Taxonomies.topics -}}
-            {{- $topics_count := len $topics_tax -}}
-            {{- $topics_col := (div $topics_count 3) -}}
-            <h2>All {{ $topics_count }} Topics</h2>
-          </div>
+    <section class="grid-container grid-container-desktop margin-bottom-4">
+      <div class="grid-row tablet-lg:grid-gap-2">
+        <div class="grid-col-auto">
+          {{- $topics_tax := $.Site.Taxonomies.topics -}}
+          {{- $topics_count := len $topics_tax -}}
+          <h2>All {{ $topics_count }} Topics</h2>
         </div>
-        <ol class="topic-buttons__list">
-          {{/* How we're dividing all the topics into 4 columns
-            Set the counter to 0.
-          */}}
-          {{- $.Scratch.Set "counter" 0 -}}
+      </div>
+      <div class="topics-button__list">
+        {{/* How we're dividing all the topics into 4 columns
+          Set the counter to 0.
+        */}}
+        {{- $.Scratch.Set "counter" 0 -}}
 
-          {{/* Loop through all the terms */}}
-          {{- range $name, $taxonomy := $topics_tax -}}
-            {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-              {{/* Increment the counter for each topic */}}
-              {{- $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) -}}
-              {{- $count := $.Scratch.Get "counter" -}}
+        {{/* Loop through all the terms */}}
+        {{- range $name, $taxonomy := $topics_tax -}}
+          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+            {{/* Increment the counter for each topic */}}
+            {{- $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) -}}
+            {{- $count := $.Scratch.Get "counter" -}}
 
-              {{/* Output the topic HTML */}}
-              <li
-                class="topic topic-buttons__list-item"
-                data-gh-edit-page="{{- $path -}}"
-              >
-                <p>
-                  <a href="{{- .Permalink -}}" title="{{- $name -}}">
-                    <span>{{- .Title -}}</span>
-                  </a>
-                  <span class="count">{{- $taxonomy.Count -}}</span>
-                </p>
-              </li>
-            {{- end -}}
+            {{/* Output the topic HTML */}}
+            {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title "tag_count" $taxonomy.Count) }}
           {{- end -}}
-        </ol>
+        {{- end -}}
       </div>
     </section>
 

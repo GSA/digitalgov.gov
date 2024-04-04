@@ -6,10 +6,7 @@ summary: When I first started coding using BASIC on the Commodore 64, I rarely d
 authors:
   - bbrantley
 topics:
-  - api
-  - api
-  - us-department-of-labor
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
@@ -23,4 +20,4 @@ Good documentation starts with commenting your code. Every programming language 
 Many federal agencies do a tremendous job of documenting their APIs and data sources. One of my favorites is the <a href="http://developer.dol.gov/" target="_blank">Department of Labor’s API documentation</a>. When you first visit Labor’s developer page, you can choose the beginner’s path or the expert path. Choosing the <a href="http://developer.dol.gov/beginner/" target="_blank">beginner’s path</a> takes you to a page that fulfills all four functions of good documentation. There is a general overview of the APIs and the data sources along with plenty of code samples for eight of the most common API programming languages. Click through to specific data sources for the API reference information, which is housed on <a href="https://github.com/USDepartmentofLabor/LaborStats-Android" target="_blank">GitHub</a>.
 
 The best API documentations are the ones that are structured like tutorials. For example, examine how <a href="http://usdepartmentoflabor.github.io/Ruby-Sample-App/" target="_blank">Labor’s Ruby Government Data SDK Sample</a> is broken up into a detailed set of steps, from installing the SDK to securing the application to running the application. Making an API **easy to use** is the best way to ensure that the API **will be used**. Federal agencies realize this, and that is why their API documentation is some of the best._*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._
-_Each week, “[The API Briefing]({{< ref "/topics/wednesday-api-briefing" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._
+_Each week, “[The API Briefing]({{< ref "/topics/application-programming-interface" >}})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill@billbrantley.com" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

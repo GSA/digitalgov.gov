@@ -218,12 +218,11 @@ These two terms are not interchangeable; each has its own meaning and usage.
 
 The abbreviation "i.e." stands for the Latin phrase, _id est_, which means "that is" or "in other words."
 
-> Since 1977, Star Wars, which belongs to a sub-genre of science fiction (i.e., the _space opera_ or _science fantasy_), has released nine main live-action films in the Skywalker Saga, and three spin-off films; two live-action, and one computer-animated film.
+> Since 1977, _Star Wars_, which belongs to a sub-genre of science fiction (i.e., the _space opera_ or _science fantasy_), has released nine main live-action films in the Skywalker Saga, and three spin-off films; two live-action, and one computer-animated film.
 
 The abbreviation "e.g." stands for the Latin phrase _exempli gratia_, which means "for example" &mdash; use it to list one or more examples.
 
-> Since 1966, Star Trek, which is falls under real sci-fi, has released 10 films in the original "Prime" timeline, and, so far, three films in the alternate "Kelvin" timeline.
-
+> Since 1966, _Star Trek_ has been an example of diversity, equity, and inclusion (e.g., lead characters who are: women and people of color, people with disabilities, and folks in the LGBTQIA+ community). Each of its 13 TV series and 13 films represent the creator's vision for a society with "infinite diversity in infinite combinations" (IDIC).
 
 #### versus
 
@@ -246,27 +245,27 @@ The overarching name of the site is Digital.gov. You may see references to "Digi
 ## Logos
 
 {{< accordion title="Expand for digital.gov logo images" icon="edit" >}}
-{{< asset-img path="/img/digitalgov-logo.png" alt="" width="220" >}}
-{{< asset-img path="/img/digitalgov-logo.svg" alt="" width="220" >}}
-{{< asset-img path="/img/digitalgov-logo-small.png" alt="" width="100" >}}
-{{< asset-img path="/img/digitalgov-logo-small.svg" alt="" width="100" >}}
-{{< asset-img path="/img/digitalgov-logo-white.png" alt="" width="220" bg="dark" >}}
-{{< asset-img path="/img/digitalgov-logo-white.svg" alt="" width="220" bg="dark" >}}
-{{< asset-img path="/img/digitalgov-logo-small-white.png" alt="" width="100" bg="dark" >}}
-{{< asset-img path="/img/digitalgov-logo-small-white.svg" alt="" width="100" bg="dark" >}}
-{{< asset-img path="/img/digit-small-black.png" alt="" width="32" >}}
-{{< asset-img path="/img/digit-small-black.svg" alt="" width="32" >}}
-{{< asset-img path="/img/digit-small-white.png" alt="" width="32" bg="dark" >}}
-{{< asset-img path="/img/digit-small-white.svg" alt="" width="32" bg="dark" >}}
-{{< asset-img path="/img/digit-150.png" alt="" width="150"  >}}
-{{< asset-img path="/img/digit-100.png" alt="" width="100"  >}}
-{{< asset-img path="/img/digit-50.png" alt="" width="50"  >}}
-{{< asset-img path="/img/digit-25.png" alt="" width="25"  >}}
-{{< asset-img path="/img/digit-16.png" alt="" width="16"  >}}
-{{< asset-img path="/img/digit-light.png" alt="" width="100"  bg="dark" >}}
-{{< asset-img path="/img/digit-dark.png" alt="" width="100"  >}}
-{{< asset-img path="/img/digit-hi.png" alt="" width="100"  >}}
-{{< asset-img path="/img/digit-usa.png" alt="" width="100"  >}}
+{{< asset-img path="img/digitalgov-logo.png" alt="" width="220" >}}
+{{< asset-img path="img/digitalgov-logo.svg" alt="" width="220" >}}
+{{< asset-img path="img/digitalgov-logo-small.png" alt="" width="100" >}}
+{{< asset-img path="img/digitalgov-logo-small.svg" alt="" width="100" >}}
+{{< asset-img path="img/digitalgov-logo-white.png" alt="" width="220" bg="dark" >}}
+{{< asset-img path="img/digitalgov-logo-white.svg" alt="" width="220" bg="dark" >}}
+{{< asset-img path="img/digitalgov-logo-small-white.png" alt="" width="100" bg="dark" >}}
+{{< asset-img path="img/digitalgov-logo-small-white.svg" alt="" width="100" bg="dark" >}}
+{{< asset-img path="img/digit-small-black.png" alt="" width="32" >}}
+{{< asset-img path="img/digit-small-black.svg" alt="" width="32" >}}
+{{< asset-img path="img/digit-small-white.png" alt="" width="32" bg="dark" >}}
+{{< asset-img path="img/digit-small-white.svg" alt="" width="32" bg="dark" >}}
+{{< asset-img path="img/digit-150.png" alt="" width="150"  >}}
+{{< asset-img path="img/digit-100.png" alt="" width="100"  >}}
+{{< asset-img path="img/digit-50.png" alt="" width="50"  >}}
+{{< asset-img path="img/digit-25.png" alt="" width="25"  >}}
+{{< asset-img path="img/digit-16.png" alt="" width="16"  >}}
+{{< asset-img path="img/digit-light.png" alt="" width="100"  bg="dark" >}}
+{{< asset-img path="img/digit-dark.png" alt="" width="100"  >}}
+{{< asset-img path="img/digit-hi.png" alt="" width="100"  >}}
+{{< asset-img path="img/digit-usa.png" alt="" width="100"  >}}
 {{< /accordion >}}
 
 ### Branded names and initialisms or acronyms for related services and programs:

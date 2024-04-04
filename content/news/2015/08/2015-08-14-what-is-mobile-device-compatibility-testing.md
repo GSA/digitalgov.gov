@@ -1,3 +1,4 @@
+
 ---
 slug: what-is-mobile-device-compatibility-testing
 date: 2015-08-14 11:10:12 -0400
@@ -7,15 +8,7 @@ authors:
   - david-fern
 topics:
   - mobile
-  - monthly-theme
-  - Federal CrowdSource Mobile Testing Program
-  - mobile
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-4
-  - native-app
-  - native-apps
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 

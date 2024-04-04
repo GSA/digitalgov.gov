@@ -4,7 +4,7 @@
     <div class="usa-logo" id="extended-logo">
       <em class="usa-logo__text">
         <a
-          href="{{- "/" | relURL -}}"
+          href="{{- .Site.BaseURL -}}"
           title="{{- .Site.Title }} Home"
           aria-label="{{- .Site.Title }} Home"
         >
@@ -35,7 +35,7 @@
   <nav aria-label="Primary navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
-        <img src="{{ "/uswds/img/close.svg" | relURL }}" alt="close" />
+        <img src="{{ "uswds/img/close.svg" | relURL }}" alt="close" />
       </button>
 
       {{- $currentNode := . -}}
@@ -58,7 +58,7 @@
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           <li class="usa-nav__secondary-item">
-            <a href="{{- "/subscribe/" | relURL -}}"
+            <a href="{{- "subscribe" | relURL -}}"
               ><span>Subscribe to our newsletter</span></a
             >
           </li>
@@ -83,7 +83,7 @@
             <input class="usa-input" id="query" type="search" name="query" />
             <button class="usa-button" name="commit" type="submit">
               <img
-                src="{{- "/uswds/img/usa-icons-bg/search--white.svg" | relURL -}}"
+                src="{{- "uswds/img/usa-icons-bg/search--white.svg" | relURL -}}"
                 class="usa-search__submit-icon"
                 alt="Search"
               />

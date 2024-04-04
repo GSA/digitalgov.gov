@@ -6,10 +6,8 @@ summary: The beginning of a new year is generally a time where people on a perso
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - monthly-theme
+  - content-strategy
   - social-media
-  - the-content-corner
 ---
 
 The beginning of a new year is generally a time where people on a personal and professional level look ahead and prognosticate. When it comes to almost any digital media, the one thing we can be certain of is that the pace will quicken, the offerings will expand, and something totally unexpected will jump out and surprise us. However there are several specific areas related to content that everyone should keep an eye out for in 2016. {{< legacy-img src="2016/01/600-x-400-Man-looking-through-binoculars-SimCh-iStock-Thinkstock-507793001.jpg" alt="Man looking through binoculars" caption="" >}} 
@@ -40,6 +38,6 @@ I could (and may) write an entire post about long-form content, including its co
 
 As we forge ahead into 2016, we should again commit ourselves to focus on creating content for our users and be sure it helps solve specific problems or helps to reinforce positive impressions of our agencies. This will help us prepare for any new and unexpected trends that will certainly come along. And finally, just as with your long-form content, make sure you keep an open mind and are ready to completely re-examine everything you were doing in 2015. I wake up every day basically assuming that the way I am currently doing things is inferior and there has to be a better way.
 
-In 2016 or 2046, striving to make better content and better serve our users will never be a mistake._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+In 2016 or 2046, striving to make better content and better serve our users will never be a mistake._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

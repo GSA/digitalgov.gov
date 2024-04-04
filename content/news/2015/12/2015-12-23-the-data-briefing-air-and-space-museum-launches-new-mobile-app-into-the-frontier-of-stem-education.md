@@ -6,18 +6,9 @@ summary: 'The Smithsonian Institution’s Air and Space Museum just released a n
 authors:
   - bbrantley
 topics:
-  - code
+  - emerging-tech
+  - software-engineering
   - mobile
-  - Education
-  - mobile-apps
-  - NPS
-  - smithsonian-institution
-  - the-data-briefing
-  - us-department-of-education
-  - us-department-of-the-interior
-  - us-national-park-service
-  - United States Patent and Trademark Office
-  - USPTO
 ---
 
 The Smithsonian Institution’s Air and Space Museum just released a new educational mobile app, <a href="http://airandspace.si.edu/explore-and-learn/mobile-missions/index.cfm" target="_blank">Mobile Missions</a>. From the website:
@@ -32,5 +23,5 @@ Another great feature of the app is that it helps the Air and Space Museum under
 
 {{< legacy-img src="2015/12/600-x-211-Five-screen-captures-from-the-Smithsonian-National-Air-and-Space-Museums-Mobile-Missions-app.jpg" alt="Five screen captures from the Smithsonian National Air and Space Museum's Mobile Missions iPhone app" >}}
 
-The Mobile Missions app is a great example other federal agencies can look to, to fulfill <a href="https://www.whitehouse.gov/issues/education/reform" target="_blank">President Obama’s initiatives on STEM education</a>. For example, the Department of Education could create a mobile app to help potential STEM students find appropriate STEM educational programs and learning resources. The Department of Interior could showcase biological science jobs in the National Park Service. There are many great federal STEM jobs that students also should be made aware of._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+The Mobile Missions app is a great example other federal agencies can look to, to fulfill <a href="https://www.whitehouse.gov/issues/education/reform" target="_blank">President Obama’s initiatives on STEM education</a>. For example, the Department of Education could create a mobile app to help potential STEM students find appropriate STEM educational programs and learning resources. The Department of Interior could showcase biological science jobs in the National Park Service. There are many great federal STEM jobs that students also should be made aware of._Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

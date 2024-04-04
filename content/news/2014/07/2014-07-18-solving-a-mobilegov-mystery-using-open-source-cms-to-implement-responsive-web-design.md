@@ -7,16 +7,8 @@ authors:
   - jparcell
   - katie-steffy
 topics:
-  - content
+  - content-strategy
   - mobile
-  - monthly-theme
-  - gsa
-  - mobile
-  - mobile-gov
-  - mobile-ux-guideline-1
-  - mobile-gov
-  - responsive-web-design
-  - us-department-of-state
 ---
 
 {{< legacy-img src="2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" >}}

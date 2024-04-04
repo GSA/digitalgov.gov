@@ -7,12 +7,10 @@ summary: This event recap highlights best practices, a short case study video, a
 topics:
   - plain-language
   - accessibility
-  - content
+  - content-strategy
   - user-experience
-  - plain-language-community-of-practice
-  - writing
+  - communication
   - design
-  - plain-writing-act-of-2010
 # See all authors at https://digital.gov/authors
 authors:
   - mara-goldberg
@@ -47,7 +45,7 @@ During this event, speaker David Lipscomb provided some useful tips to make web 
 
 The [Department of Homeland Security (DHS) FOIA request page](https://www.dhs.gov/foia) is a perfect example of an agency following plain language guidelines. David Lipscomb explains how this page received such an outstanding report card score in this short video clip:
 
-{{< youtube sl3yiSA-4LY >}}
+{{< youtube id="sl3yiSA-4LY" title="Results of the 2021 Federal Plain Language Report Card" >}}
 
 ## The Don’ts
 

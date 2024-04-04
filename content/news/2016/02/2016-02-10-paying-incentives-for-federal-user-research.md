@@ -7,8 +7,6 @@ authors:
   - andreanocesigritz
 topics:
   - user-experience
-  - user-experience-community-of-practice
-  
 ---
 
 Paying incentives to test participants is standard practice in research and usability testing. While some people may be willing to participate for free, many aren’t. Incentive payments help ensure people will take the time to travel to your office and give you 30, 60 or even 90 minutes of their time. However, government researchers and user experience specialists have limitations on how—and how much—they can pay participants. Recently, federal user experience practitioners discussed the mechanics of how to get the right payments to the right people for the right research. As always, you&#8217;ll want to check with your general counsel to make sure it&#8217;s allowable to compensate participants before you get started.

@@ -19,10 +19,7 @@ summary: ""
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - data
-  - 18f
-  - doj
-
+  - software-engineering
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

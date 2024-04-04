@@ -11,26 +11,14 @@ authors:
   - apiazza
   - jonathan-rubin
 topics:
-  - api
-  - challenges
-  - content
-  - data
-  - product-management
-  - metrics
+  - application-programming-interface
+  - challenges-and-prize-competitions
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - mobile
   - social-media
   - user-experience
-  - DOL
-  - epa
-  - FCC
-  - federal-communications-commission
-  - GAO
-  - SBA
-  - us-department-of-labor
-  - us-environmental-protection-agency
-  - us-government-accountability-office
-  - us-small-business-administration
-
 ---
 
 We won’t build the government of the 21st century by [drawing within the lines]({{< ref "2014-05-07-because-its-hard.md" >}}).
@@ -52,7 +40,7 @@ Following an opening keynote by Federal Communications Commission (FCC) CIO, Dav
 * public private partnerships and
 * inter-agency work.
 
-These panels will explore how agencies can integrate their [data]({{< ref "/topics/code" >}}), [social media]({{< ref "/topics/social-media" >}}), [user experience]({{< ref "/topics/user-experience" >}}), [mobile development]({{< ref "/topics/mobile" >}}) and other programs in order to achieve the best improvements for citizen services. Confirmed speakers include:
+These panels will explore how agencies can integrate their [data]({{< ref "/topics/software-engineering" >}}), [social media]({{< ref "/topics/social-media" >}}), [user experience]({{< ref "/topics/user-experience" >}}), [mobile development]({{< ref "/topics/mobile" >}}) and other programs in order to achieve the best improvements for citizen services. Confirmed speakers include:
 
 * Jack Bienko, Small Business Administration (SBA)
 * Denise Shaw, Environmental Protection Agency (EPA)
@@ -63,4 +51,4 @@ You can sign up for the event and see our [ever-expanding speaker list on the ev
 
 Our Expo will showcase innovations and shared services across the federal government. We have 30 tables available (and they&#8217;re going fast) for federal agencies to showcase projects and introduce yourselves to all the federal employees, contractors and state and local participants. Let us know your interest during the registration process &#8230; don&#8217;t think for a second that your program, large or small, isn&#8217;t the jam we are looking for
 
-[Register Now]({{< tmp"events/digitalgov-citizen-services-summit.md" >}})! Seats are Limited! 
+[Register Now]({{< tmp"events/digitalgov-citizen-services-summit.md" >}})! Seats are Limited!

@@ -1,12 +1,4 @@
 {{ define "content" }}
-  {{ $path := "" }}
-  {{ with .File }}
-    {{ $path = .Path }}
-  {{ else }}
-    {{ $path = .Path }}
-  {{ end }}
-
-
   <main role="main" id="main-content">
     <header class="dg-landing__hero">
       {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $.Params.image "small" "false") -}}
@@ -17,9 +9,8 @@
         </a>
       </div>
     </header>
-
     <article class="dg-landing__body grid-container grid-container-desktop">
-      <div data-gh-edit-page="{{- $path -}}">
+      <div>
         {{- .Content -}}
       </div>
       <h2 class="dg-landing__body-featured-resources">Featured Resources</h2>
@@ -54,6 +45,8 @@
       {{- end -}}
       {{- partial "core/attribution.html" . -}}
     </article>
-    {{- partial "core/glossary.html" . -}}
+    {{- if .Parent.Params.glossary -}}
+      {{- partial "core/glossary.html" . -}}
+    {{- end -}}
   </main>
 {{ end }}

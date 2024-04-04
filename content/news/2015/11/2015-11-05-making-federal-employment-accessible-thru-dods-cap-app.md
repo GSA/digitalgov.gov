@@ -8,9 +8,7 @@ authors:
 topics:
   - accessibility
   - mobile
-  - mobile-apps
-  - native-apps
-  - thursday-mobile-products
+  - mobile
 
 ---
 

@@ -26,10 +26,8 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - product-management
+  - product-and-project-management
   - accessibility
   - governance
-  - policy
-  - section-508
 
 ---

@@ -7,7 +7,6 @@ authors:
   - jessica-milcetich
 topics:
   - social-media
-  - usagov
 ---
 
 Yesterday, we shared our Snapchat account with the public. After weeks of testing the tool to iron out kinks and [determine how we’d make content accessible](https://blog.usa.gov/why-we-launched-a-snapchat-account-and-how-well-measure-success), we were excited to go public when the official government-friendly terms of service were signed.

@@ -7,13 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-testing
-  - mobile-ux-guideline-4
-  - responsive-web-design
-  - SSA
-  - the-united-states-social-security-administration
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}

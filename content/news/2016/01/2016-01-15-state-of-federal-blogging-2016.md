@@ -6,16 +6,10 @@ summary: 'How government agencies blog has come a long way in the past decade. A
 authors:
   - danielle-brigida
 topics:
-  - content
-  - blog
-  - FWS
-  - nasa
-  - us-department-of-the-interior
-  - us-fish-and-wildlife-service
-  - white-house
+  - content-strategy
 ---
 
-How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the [White House](https://www.whitehouse.gov/blog), [NASA](http://blogs.nasa.gov/) and the [Department of the Interior](https://www.doi.gov/blog) run their blogs and share content. {{< legacy-img src="2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" alt="The word Blog spelled out in letterpress." caption="" >}} 
+How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the [White House](https://www.whitehouse.gov/blog), [NASA](http://blogs.nasa.gov/) and the [Department of the Interior](https://www.doi.gov/blog) run their blogs and share content. {{< legacy-img src="2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" alt="The word Blog spelled out in letterpress." caption="" >}}
 
 ## White House: Blog Less, Empower More
 
@@ -123,6 +117,6 @@ Blogs remain a great way to increase storytelling and answer questions for peopl
 
  _**Danielle Brigida** is the National Social Media Manager for U.S. Fish and Wildlife Service. She&#8217;s a wildlife geek who loves being outside and playing online with purpose._
 
- 
+
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

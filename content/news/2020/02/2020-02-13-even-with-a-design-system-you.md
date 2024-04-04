@@ -17,8 +17,7 @@ summary: "The U.S. Web Design System gives flexibility to teams to build the rig
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - product-management
-  - uswds
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors:

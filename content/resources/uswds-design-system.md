@@ -15,16 +15,15 @@ authors:
 # Topics that best describe this product or service
 topics:
   - accessibility
-  - code
+  - software-engineering
   - design
-  - product-management
+  - product-and-project-management
   - mobile
-  - uswds
   - user-experience
 
 # What source published this?
 source: "uswds"
 
-weight: 6
+weight: 1
 
 ---

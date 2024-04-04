@@ -6,40 +6,10 @@ summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange eve
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - data
-  - Census
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - data-gov
-  - DOL
-  - DOT
-  - epa
-  - FCC
-  - federal-emergency-management-agency
-  - federal-register
-  - fema
-  - HHS
-  - HUD
-  - nasa
-  - national-day-of-civic-hacking
-  - national-institutes-of-health
-  - national-oceanic-and-atmospheric-administration
-  - national-science-foundation
-  - nih
-  - NOAA
-  - NREL
-  - nsf
-  - smithsonian-institution
-  - us-department-of-education
-  - us-department-of-labor
-  - us-environmental-protection-agency
-  - united-states-census-bureau
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-housing-and-urban-development
-  - united-states-department-of-transportation
-  - USPTO
-  - white-house
+  - challenges-and-prize-competitions
+  - open-data
+  - software-engineering
+  - open-government
 ---
 
 {{< legacy-img src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" >}}Our fabulous colleague Jeanne Holm is ready for the [#hackforchange](https://twitter.com/hashtag/hackforchange) events this weekend and summarized some <a title="resources for civic hack day" href="https://www.data.gov/developers/hacking-change-tips-national-civic-day-hacking/" target="_blank">tips, notes and links to resources on Data.gov</a>.
@@ -61,33 +31,33 @@ From the federal challenge and prize community perspective:
 **Events**
 
 <a title="transparency camp" href="http://transparencycamp.org" target="_blank">Transparency Camp</a>—Arlington, VA
-  
+
 <a href="http://hackforchange.org/events/northern-virginia-national-day-of-civic-hacking/" target="_blank">NSF Hackathon</a>—May 31, Arlington, VA
-  
+
 <a title="health data palooza" href="http://healthdatapalooza.org/" target="_blank">HHS HealthDataPalooza</a>—June 1 &#8211; 3, Washington, DC (Note: need to register)
-  
+
 <a href="http://hackforchange.org/events/lean-data-product-development-with-us-census/" target="_blank">Census Event</a>—May 27, Washington, DC
-  
+
 <a href="http://www.whitehouse.gov/blog/2014/04/17/celebrating-second-annual-national-day-civic-hacking" target="_blank">White House &#8211; We the People Hackathon</a>—May 29, Washington, DC
 
 **Challenges and Competitions**
 
 Dept. of Education—<a href="http://hackforchange.org/challenges/innovative-access-to-education-data/" target="_blank">Innovative Access to Education Data</a>
-  
+
 EPA—<a href="http://hackforchange.org/challenges/harmful-algal-bloom-hab/" target="_blank">Harmful Algal Bloom</a>
-  
+
 FHWA/DOT—<a href="http://hackforchange.org/challenges/highway-performance-monitoring-system-travel-challenge/" target="_blank">Highway Performance Monitoring System</a>
-  
+
 HUD/DOT—<a href="http://hackforchange.org/challenges/easy-access-to-location-affordability-data/" target="_blank">Location Affordability Portal</a>
-  
+
 NASA—<a href="http://hackforchange.org/challenges/asteroid-detection-network/" target="_blank">Asteroid Detection</a>
-  
+
 NOAA/FEMA/NASA—<a href="http://hackforchange.org/challenges/coastal-inundation-in-your-community/" target="_blank">Coastal Inundation</a>
-  
+
 Safety Community—<a href="http://hackforchange.org/challenges/safety-data-challenge/" target="_blank">Safety Data Challenge</a>
-  
+
 OpenFEMA—<a href="http://hackforchange.org/challenges/interactive-api-explorer/" target="_blank">Interactive API Explorer</a>
-  
+
 U.S. Patent & Trademark Office—<a href="http://hackforchange.org/challenges/uspto-innovation-challenge-patent-application-publication-notification-system/" target="_blank">Patent Application Publication Notification System</a> and <a href="http://hackforchange.org/challenges/uspto-innovation-challenge-trademark-notification-system/" target="_blank">Trademark Notification System</a>
 
 **APIs and Datasets**

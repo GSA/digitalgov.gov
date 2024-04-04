@@ -4,7 +4,7 @@ date: 2015-11-05 2:46:00 -0400
 title: M-10-22 Guidance for Online Use of Web Measurement and Customization Technologies
 summary: "On January 21, 2009, the President issued a memorandum calling for the establishment of &ldquo;a system of transparency, public participation, and collaboration.&rdquo; The memorandum required an Open Government Directive to be issued by the Director of the Office of Management and Budget (OMB), instructing &ldquo;executive departments and agencies to take specific actions implementing the principles"
 topics:
-  - policy
+  - product-and-project-management
 authors:
   - andreanocesigritz
 ---

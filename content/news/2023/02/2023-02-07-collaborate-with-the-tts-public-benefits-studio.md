@@ -4,7 +4,6 @@ title: Collaborate with the TTS Public Benefits Studio
 summary: The Benefits Studio is seeking feedback and collaboration as it explores texting as a tool to improve the public experience of benefits programs.
 # See all topics at https://digital.gov/topics
 topics:
-  - sms
   - mobile
   - customer-experience
 # See all authors at https://digital.gov/authors

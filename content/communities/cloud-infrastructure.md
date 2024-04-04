@@ -14,8 +14,7 @@ aliases:
 
 # see all topics at https://digital.gov/topics
 topics:
-  - cloud
-  - infrastructure
+  - cloud-and-infrastructure
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -6,12 +6,8 @@ summary: One of the most interesting trends forming at the start of 2015 is the 
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - social-media
-  - administrative-office-of-the-united-states-courts
   - content-strategy
   - social-media
-  - the-content-corner
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" caption="scyther5/iStock/Thinkstock" >}} 
@@ -48,4 +44,4 @@ Regardless to the answers to these questions, one thing is clear: the war for ey
 
 Still not convinced that social media platforms are serious about this and things are changing dramatically? National Geographic is a publishing partner on Snapchat…I’ll just leave that there.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

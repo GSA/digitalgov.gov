@@ -11,12 +11,11 @@ summary: "A community for anyone building federal websites with the U.S. Web Des
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - code
+  - software-engineering
   - design
-  - product-management
+  - product-and-project-management
   - user-experience
   - open-source
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

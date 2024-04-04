@@ -6,14 +6,9 @@ summary: 'Lately, we have been hearing a lot about microsites&mdash;CDC’s Zika
 authors:
   - christen-geiler
 topics:
-  - content
-  - api
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - DOT
-  - GobiernoUSAgov
-  - united-states-department-of-transportation
-  - usagov
+  - content-strategy
+  - application-programming-interface
+  - multilingual
 ---
 
 Lately, we have been hearing a lot about microsites—[CDC’s Zika Virus microsite provides up-to-date information on the virus]({{< ref "2016-02-11-microsites-keep-your-audience-updated-on-outbreaks.md" >}})—but the big question is:

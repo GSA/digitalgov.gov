@@ -6,12 +6,9 @@ summary: 'Federal agencies now have the ability to create a challenge competitio
 authors:
   - tlowden
 topics:
-  - challenges
   - crowdsourcing-and-citizen-science
-  - challenge-gov
-  - crowdsourcing
+  - challenges-and-prize-competitions
   - innovation
-  - recaps
 ---
 
 Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool.

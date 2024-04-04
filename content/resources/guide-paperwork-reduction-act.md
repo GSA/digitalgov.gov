@@ -18,10 +18,8 @@ source: pra-guide
 # see all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - pra
-  - policy
+  - information-collection
   - research
-  - user-research
 
 # see all authors at https://digital.gov/authors
 authors:

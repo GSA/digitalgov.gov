@@ -6,14 +6,8 @@ summary: 'We are pleased to announce the beginnings of a new Syndication.Net/Sha
 authors:
   - christen-geiler
 topics:
-  - code
-  - content-syndication
-  - HHS
-  - national-institutes-of-health
-  - nih
-  - open-and-structured-content-models
-  - structured-content
-  - united-states-department-of-health-and-human-services
+  - content-strategy
+  - software-engineering
 ---
 
 We are pleased to announce the beginnings of a new Syndication.Net/Sharepoint module for the Department of Health and Human Services (HHS) Syndication Storefront. The collaborative effort between HHS and National Institutes of Health&#8217;s (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) teams will eventually enable .NET content management system users to publish content directly in the [HHS digital media syndication storefront](https://digitalmedia.hhs.gov). {{< legacy-img src="2015/12/600-x-413-Electronic-documents-sharing-Pei-ling-Hoo-Hemera-thinkstock-99708065.jpg" alt="Electronic documents sharing" caption="" >}} 

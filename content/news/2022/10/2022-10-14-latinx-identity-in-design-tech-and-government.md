@@ -7,7 +7,6 @@ summary: "TTS highlights Latinx employees in civic tech by outlining how ethnici
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - data
   - design
   - diversity-equity-and-inclusion
 

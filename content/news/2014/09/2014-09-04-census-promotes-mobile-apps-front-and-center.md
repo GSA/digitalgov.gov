@@ -5,23 +5,15 @@ title: Census Promotes Mobile Apps Front and Center!
 summary: ' Those cutting edge folks over at Census have raised the bar again! Not only do they have three mobile apps that use their own APIs, but now everyone who visits Census.gov is presented with an'
 topics:
   - mobile
-  - api
-  - Census
-  - Federal Mobile Products Registry
-  - mobile-apps
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-5
+  - application-programming-interface
   - social-media
-  - thursday-mobile-products
-  - united-states-census-bureau
- 
 ---
 
 {{< legacy-img src="2014/09/600-x-390-Census-overlay-Screen-Shot-2014-09-04.jpg" alt="A screen capture of Census dot gov with an overlay displaying 3 of their mobile apps." >}}
 
 Those cutting edge folks over at Census have raised the bar again! Not only do they have three mobile apps that use their own [APIs]({{< ref "2014-06-25-the-api-briefing-the-census-bureaus-discovery-tool-find-the-right-api-for-your-app.md" >}} "The API Briefing: The Census Bureau’s Discovery Tool – Find the Right API for Your App"), but now everyone who visits [Census.gov](http://www.census.gov/) is presented with an overlay promoting [America&#8217;s Economy](http://www.census.gov/mobile/economy/), [Census PoPQuiz](http://www.census.gov/mobile/censuspopquiz/), and [dwellr](http://www.census.gov/mobile/dwellr/). Clicking on the overlay takes you straight to their mobile products page.
 
-Overlay advertising is just one way to promote your mobile products. Your public affairs office is key to ensure you promote to social media and other channels that will alert your users and relevant communities. Don’t forget to add your mobile product to the [Federal Mobile Apps Registry](http://apps.usa.gov/register) which gets them on the [USA.gov Apps Gallery](http://www.usa.gov/mobileapps.shtml) (and then featured as our &#8220;[Thursday Mobile Products]({{< ref "/topics/thursday-mobile-products" >}}) on DigitalGov.gov").
+Overlay advertising is just one way to promote your mobile products. Your public affairs office is key to ensure you promote to social media and other channels that will alert your users and relevant communities. Don’t forget to add your mobile product to the [Federal Mobile Apps Registry](http://apps.usa.gov/register) which gets them on the [USA.gov Apps Gallery](http://www.usa.gov/mobileapps.shtml) (and then featured as our &#8220;[Thursday Mobile Products]({{< ref "/topics/mobile" >}}) on DigitalGov.gov").
 
 Some other things you can do that we&#8217;ve seen from agencies participating the [Mobile Gov Community of Practice:]({{< ref "/communities" >}} "Mobile")
 

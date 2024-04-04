@@ -10,9 +10,8 @@ topics:
   - user-experience
   - analytics
   - customer-experience
-  - government-contact-centers
-  - personas
-  - usa-gov
+  - contact-centers
+  - research
 ---
 
 Journey maps are a visual representation of a customer’s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services.
@@ -39,7 +38,7 @@ To create Linda’s behavior line, we looked at:
   * Web analytics specifically for our [Government Benefits, Grants, and Loans](https://www.usa.gov/benefits-grants-loans) content
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov
-  * [Contact center]({{< ref "/topics/government-contact-centers" >}}) content usage
+  * [Contact center]({{< ref "/topics/contact-centers" >}}) content usage
   * Web analytics for other government websites available through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})
   * General search trends on Google
 

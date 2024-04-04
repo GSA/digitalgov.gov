@@ -10,6 +10,11 @@ deck: "Understand how and why design impacts user experience"
 
 summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
 
+aliases:
+  - /topics/draft-web-design-standards/
+  - /topics/prototype/
+  - /topics/public-sans/
+
 # Weight
 weight: 2
 
@@ -26,6 +31,7 @@ featured_resources:
 # Featured community to display at the top of the page
 featured_communities:
   - "user-experience"
+  - "uswds"
 
 # Curated list of content, can be internal or external links
 featured_links:

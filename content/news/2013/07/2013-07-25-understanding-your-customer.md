@@ -6,7 +6,7 @@ summary: 'Do you know who your customers are?  And what they expect from your or
 authors:
   - martha-dorris
 topics:
-  - product-management
+  - product-and-project-management
   - user-experience
   - customer-experience
 ---
@@ -17,7 +17,7 @@ Do you know who your customers are?  And what they expect from your organization
 
 One of the most critical components of a successful customer experience program is to understand your customer. The first step is knowing who your customers are. Are they veterans, students, senior citizens or other federal workers?  In some cases your customers could wear many different hats when interacting with your agency. They could be a veteran, a caregiver, a parent, and a federal worker, all rolled into one.
 
-There are numerous ways to determine what your customers expect when interacting with your organization online. You can conduct customer satisfaction surveys, hold focus groups, and assess the [analytics]({{< ref "/topics/metrics" >}}) of your program or website.
+There are numerous ways to determine what your customers expect when interacting with your organization online. You can conduct customer satisfaction surveys, hold focus groups, and assess the [analytics]({{< ref "/topics/analytics" >}}) of your program or website.
 
 <p>
   As I wrote in my <a href="{{< ref "2013-07-18-how-to-create-a-customer-experience-index.md" >}}" target="_blank">previous post</a>, my office within GSA is creating a <strong>Customer Experience index</strong> for our agency-facing programs and for our public-facing programs. The index will give us a baseline to determine whether the overall experience is improving or not.  However, to diagnose the issues or the improvements, you will need feedback from other tools such as the surveys or focus groups mentioned above.

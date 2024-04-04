@@ -6,11 +6,9 @@ summary: 'Presenting data online that will serve a wide range of users can be ch
 authors:
   - rhonda-a-pretlow
 topics:
-  - data
-  - user-testing-and-research
-  - data
   - research
   - user-centered-design
+  - human-centered-design
 ---
 
 Presenting data online that will serve a wide range of users can be challenging. It requires an understanding of the target users’ needs, interests, and familiarity with the use of data handling tools. This challenge can be especially daunting for government  websites that present data for use by the general public. The audience for such data can range in extremes—from scientists to school children. Clearly, a single data tool would not adequately meet the needs of such a wide range of users.

@@ -6,19 +6,11 @@ summary: 'How well do you know your customers? There’s a new guide out from th
 authors:
   - andrea-d-williamson
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - dhs
-  - HHS
-  - HUD
-  - US Department of Agriculture
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-homeland-security
-  - united-states-department-of-housing-and-urban-development
-  - USDA
 ---
 
-{{< legacy-img src="2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}} 
+{{< legacy-img src="2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}}
 
 How well do you know your customers? There’s a new guide out from the [Excellence In Government (EIG) Fellows Program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php) to help you do just that.
 

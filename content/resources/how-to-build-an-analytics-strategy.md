@@ -10,13 +10,10 @@ authors:
   - freddie-blicher
 # See all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - data
-  - performance
   - analytics
-  - dap
-  - project-management
-  - digital-analytics-program
+  - open-data
+  - budgeting-and-performance
+  - product-and-project-management
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -36,7 +33,7 @@ Of note, we used both the DAP web analytics tool and a web analytics account tha
 
 ## Part 1: Assessment
 
-{{< youtube H0YMQe4rZug >}}
+{{< youtube id="H0YMQe4rZug" title="DAP: Analytics Case Study Part 1: Assessment" >}}
 
 We connected the dots between an organization's website strategy and how this cascades through the reporting experience. We illustrated how your strategy serves as the linchpin and foundation of website reporting. If you don't do the hard, up-front work of defining your strategy, you'll never be able to set up goals and glean insights from your data.
 
@@ -48,7 +45,7 @@ We connected the dots between an organization's website strategy and how this ca
 
 ## Part 2: Reporting and Analysis
 
-{{< youtube u7LvthwLARU >}}
+{{< youtube id="u7LvthwLARU" title="Analytics Case Study Part 2: Analysis" >}}
 
 In the second part, we demonstrated how to pull reporting using Digital.gov data in both the DAP account and their independently-managed account. You must know your website mission, goals and KPIs, and know how to find the data to assess the performance of your KPIs in both DAP or an independently managed account.
 
@@ -62,7 +59,7 @@ In the second part, we demonstrated how to pull reporting using Digital.gov data
 
 ## Part 3: Taking Action
 
-{{< youtube lpf6rA1OzzI >}}
+{{< youtube id="lpf6rA1OzzI" title="Analytics Case Study Part 3 Action" >}}
 
 We addressed how to take action using the data and insights from Part 2 of this series. We used our real world example from Digital.gov and continued to illustrate how to begin thinking about taking action, using your insights from the data.
 

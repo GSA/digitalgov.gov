@@ -5,7 +5,7 @@
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: "Plain Language"
-summary: "Brings together government plain language practitioners to promote use of plain language, saving agencies time and money and providing better service to the public."
+summary: "Promote the use of plain language to provide better service to the public."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -21,9 +21,9 @@ authors:
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
+  - content-strategy
   - plain-language
-  - writing
+  - communication
 
 event_cop:
   - plain-language
@@ -37,6 +37,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Plain Language
 dg_acronym: PL
+dg_logo: communities-plain-language.svg
 
 community_list:
   - platform: listserv
@@ -44,7 +45,7 @@ community_list:
     subscribe_email: "pl-cop-main-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Plain Language Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 1,990
+    members: 2,149
     join_cop_button: "Plain Language community members"
 
 kicker: "Join the Plain Language Community"

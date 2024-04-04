@@ -6,9 +6,8 @@ summary: 'Social media is transforming how government engages with citizens and 
 authors:
   - jherman
 topics:
-  - metrics
+  - analytics
   - social-media
-  - socialgov
 aliases:
   - /resources/federal-social-media-analytics-toolkit-hackpad/
 

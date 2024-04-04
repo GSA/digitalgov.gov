@@ -7,8 +7,7 @@ summary: "The GSA SmartPay program, the largest government charge card and comme
 topics:
   - content-strategy
   - digital-service-delivery
-  - product-management
-  - project-management
+  - product-and-project-management
   - user-experience
 
 # See all authors at https://digital.gov/authors
@@ -26,7 +25,9 @@ weight: 1
 
 ---
 
-*The U.S. General Service Administration (GSA) Center for Charge Card Management (CCCM) administers the GSA SmartPay®️ program, providing services to more than 560 federal agencies, organizations, and Native American tribal governments. Watch this [1-minute video celebrating the program’s 25th anniversary](https://www.youtube.com/watch?v=3kcvidn5ikc), which will be November 30, 2023. To date, GSA SmartPay has handled $643 billion dollars in total spend and provided $5.6 billion in refunds to agencies to invest in their mission.*
+{{< box >}}*The U.S. General Services Administration (GSA) Center for Charge Card Management (CCCM) administers the GSA SmartPay®️ program, providing services to more than 560 federal agencies, organizations, and Native American tribal governments. Watch this [1-minute video celebrating the program’s 25th anniversary](https://www.youtube.com/watch?v=3kcvidn5ikc), which will be November 30, 2023. To date, GSA SmartPay has handled $643 billion dollars in total spend and provided $5.6 billion in refunds to agencies to invest in their mission.*{{< /box >}}
+
+{{< img src="three-gsa-smartpay-screens" >}}
 
 Late in fiscal year 2022, the [GSA SmartPay program](https://smartpay.gsa.gov/) — the largest government charge card and commercial payment solutions program in the world — was experiencing challenges with one of its websites.
 
@@ -34,7 +35,7 @@ Thousands of card and account holders are required to complete training courses 
 
 ## Working with GSA Service Delivery
 
-The GSA SmartPay team reached out to GSA’s [Service Delivery team](https://github.com/GSA/service-delivery), a cross-functional team with product management, user-experience design, content strategy, engineering, and acquisition skills.
+The GSA SmartPay team reached out to GSA’s [Service Delivery team](https://github.com/GSA/service-delivery), a cross-functional team with product management, user experience design, content strategy, engineering, and acquisition skills.
 
 Through research, we discovered the program’s main website — composed of general program information, resources for agency program coordinators and card and account holders, and important program updates — suffered from design and operational challenges. It was hosted and maintained by the vendor, and didn’t align with many of the requirements of the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA), including the use of the [U.S. Web Design System](https://designsystem.digital.gov/).
 
@@ -59,7 +60,7 @@ At this point, there wasn’t a plan to build anything; the teams first wanted t
 
 While the teams worked on product framing, the Service Delivery team conducted technical discovery, attempting to determine technical alternatives to mitigate or eliminate program challenges.
 
-One technical aspect of immediate concern was the websites’ hosting. The vendor hosted both websites, making it difficult to move to an alternative technical stack or to even have full visibility into the cause of performance, accessibility, and user-experience challenges.
+One technical aspect of immediate concern was the websites’ hosting. The vendor hosted both websites, making it difficult to move to an alternative technical stack or to even have full visibility into the cause of performance, accessibility, and user experience challenges.
 
 To solve this problem, the Service Delivery team proposed moving both websites’ hosting to [Cloud.gov](https://cloud.gov/), a federal cloud-hosting service built for government work. This would offer more flexibility with technical options, vendor choices, and overall maintenance.
 
@@ -111,3 +112,7 @@ In the end, the GSA SmartPay team launched three websites that embody the spirit
 
 * **NASA** – *Tracy Hall, Benjamin Jensen, Godfrey Sauti, and Emilie Siochi*
 * **GSA** – *Andrew Lee, Rebekah Perillo, Erin VanDagna, Tri Thai, David Shea, Rosalind Cherry, Bo Berlas, Arpan Patel, Jessica Marine, Mark Meyer, Wei Wang, Jeff Fredrickson, Ryan Johnson, Kristen Lohman, Jenn Noinaj, Ashley Owens, and Mel Choyce*
+
+---
+
+*Read [part 2](https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) and [part 3](https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/) for more information about the GSA SmartPay project.*

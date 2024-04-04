@@ -7,7 +7,7 @@ authors:
   - jordan-higgins
 topics:
   - social-media
-  - internet-of-things
+  - emerging-tech
   - security
 ---
 

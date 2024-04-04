@@ -14,7 +14,6 @@ date: 2023-02-16 14:00:00 -0500
 end_date: 2023-02-16 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - open-source
   - design
 slug: uswds-monthly-call-february-2023

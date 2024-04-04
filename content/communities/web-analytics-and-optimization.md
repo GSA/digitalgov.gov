@@ -2,12 +2,11 @@
 slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
 title: Web Analytics and Optimization
-summary: "Brings together government analytics practitioners to make better decisions using web analytics and other optimization strategies."
+summary: "Make better decisions using web analytics and other optimization strategies."
 # See all topics at https://digital.gov/topics
 topics:
-  - a-b-testing
+  - research
   - analytics
-  - data
   - user-experience
   - usability
   - search-engine-optimization
@@ -34,6 +33,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Web Analytics
 dg_acronym: WAO
+dg_logo: communities-web-analytics.svg
 
 # Enter the path of the URL that you want redirected to this page
 community_list:
@@ -42,7 +42,7 @@ community_list:
     subscribe_email: "analyze-optimize-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Analytics Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 851
+    members: 981
     join_cop_button: "Web Analytic community members"
 
 kicker: "Join the Web Analytics Community"

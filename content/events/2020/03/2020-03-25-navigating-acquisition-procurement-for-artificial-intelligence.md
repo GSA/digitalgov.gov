@@ -18,12 +18,9 @@ end_date: 2020-03-25 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - data
   - acquisition
-  - ai
   - analytics
   - artificial-intelligence
-  - digital-analytics-program
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -11,8 +11,7 @@ summary: The questions in this post were curated from attendees of the Deep
 topics:
   - social-media
   - emerging-tech
-  - video
-  - socialgov-community
+  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - alex-cohen

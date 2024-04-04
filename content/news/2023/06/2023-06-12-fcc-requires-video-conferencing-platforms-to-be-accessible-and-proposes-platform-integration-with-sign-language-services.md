@@ -9,8 +9,7 @@ summary: The Federal Communications Commission voted to require video conferenci
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - audio-video
-  - video
+  - multimedia
 slug: fcc-requires-video-conferencing-platforms-to-be-accessible-and-proposes-platform-integration-with-sign-language-services
 # Controls how this page appears across the site
 # 0 -- hidden

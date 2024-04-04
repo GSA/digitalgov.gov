@@ -7,18 +7,14 @@ authors:
   - megan-fella
 topics:
   - design
-  - product-management
-  - strategy
-  - policy
-  - user-testing-and-research
+  - product-and-project-management
+  - content-strategy
+  - research
   - analytics
   - customer-experience
-  - metrics
-  - usa-gov
-  - usability-testing
-  - user-centered-design
+  - usability
+  - human-centered-design
   - user-experience
-  
 ---
 
 At USAGov, we always put our customers first. In the wake of our rebranding efforts, our desire to create a positive user experience across the organization has pushed us to turn a scrutinous eye toward [Kids.gov](https://kids.usa.gov/) &#8212; a site focused on providing information and resources to parents, teachers, and kids. In a cross-organizational effort, individuals from the marketing, user experience, and performance measurement teams have joined forces to “reenvision” the site’s content and presentation to better suit the public’s needs.

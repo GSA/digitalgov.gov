@@ -6,8 +6,7 @@ summary: 'Nine federal programs made the list! Harvard&#8217;s Ash Center for De
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - our-work
+  - challenges-and-prize-competitions
   - innovation
 ---
 

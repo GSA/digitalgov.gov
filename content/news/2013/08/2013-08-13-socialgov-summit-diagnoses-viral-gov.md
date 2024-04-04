@@ -7,11 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - gsa
-  - HHS
-  - mobile-gov
-  - nasa
-  - socialgov
+  - mobile
 ---
 
 [{{< legacy-img src="2013/08/Viral-250x250.jpg" alt="Image of participants talking at the SocialGov Summit." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/Viral.jpg)The [social media landscape]({{< ref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements") changes every day, and viral content heralds trends to come. Government must learn to adapt in order to deliver more effective and efficient services for citizens. At this SocialGov Summit we explored the world of Viral Government and continue our efforts to bring the most advanced capabilities and strategies to agencies&#8217; missions.

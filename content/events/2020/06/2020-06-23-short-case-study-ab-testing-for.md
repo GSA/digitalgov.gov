@@ -22,12 +22,9 @@ authors:
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - a-b-testing
-  - data
   - design
   - usability
   - communication
-  - usability-case-study
 
 # Event platform (zoom, youtube_live, adobe_connect, google)
 event_platform: zoom

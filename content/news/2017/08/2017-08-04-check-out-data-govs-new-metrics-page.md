@@ -6,12 +6,8 @@ summary: 'Data.gov recently updated its Metrics page to provide greater detail a
 authors:
   - data-gov-team
 topics:
-  - data
-  - metrics
+  - open-data
   - analytics
-  - data
-  - data-gov
-  - metrics
 ---
 
 Data.gov recently updated its [Metrics](https://www.data.gov/metrics){.local-link} page to provide greater detail and transparency to the progress of the Data.gov catalog.

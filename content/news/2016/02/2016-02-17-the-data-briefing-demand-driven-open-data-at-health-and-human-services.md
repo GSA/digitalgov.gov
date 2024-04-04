@@ -6,14 +6,8 @@ summary: 'For many agencies, what data to make open is left up to the agency’s
 authors:
   - bbrantley
 topics:
-  - data
-  - data
-  - HHS
   - open-data
-  - the-data-briefing
-  - united-states-department-of-health-and-human-services
-  - United States Patent and Trademark Office
-  - USPTO
+  - emerging-tech
 ---
 
 For many agencies, what data to make open is left up to the agency’s judgment. This has worked well as agencies do a good job in understanding the public’s needs for specific datasets. Even so, as developers and citizens begin using the open datasets, there is increasing demand for specific agency datasets. The issue is how to best accommodate those requests given the constraints of agency budgets and open data support staff. {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
@@ -24,5 +18,5 @@ Along with the immediate benefits of offering HHS datasets that are in the most 
 
 In my opinion, the greater benefit is the community of developers, researchers, academics, entrepreneurs and citizens that will be built using the use cases information. As HHS dataset users observe what other users are doing with the data, this will encourage collaboration and, possibly, crowdsourced innovations based on HHS datasets. Like the <a href="{{< ref "2016-02-03-the-data-briefing-mapping-the-big-data-ecosystem-of-u-s-agriculture.md" >}}" target="_blank">agricultural big data ecosystem</a> I wrote about in a previous column, there are numerous producers and consumers of health data. The HHS DDOD platform can be a great way to map the health data ecosystem while spurring more beneficial uses of federal health open data.
 
-I hope that the DDOD approach is adopted by other agencies and that a federal government-wide DDOD platform is created. I’ve written before about the benefits of combining disparate datasets to create new data products. Imagine the benefits of combining health data with educational data and labor statistics data. HHS has created a great tool for uncovering the hidden value in federal open data._DDOD was made possible by [HHS&#8217;s Entrepreneur-in-Residence program](http://www.hhs.gov/idealab/projects-item/demand-driven-open-data/)._</div> _Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+I hope that the DDOD approach is adopted by other agencies and that a federal government-wide DDOD platform is created. I’ve written before about the benefits of combining disparate datasets to create new data products. Imagine the benefits of combining health data with educational data and labor statistics data. HHS has created a great tool for uncovering the hidden value in federal open data._DDOD was made possible by [HHS&#8217;s Entrepreneur-in-Residence program](http://www.hhs.gov/idealab/projects-item/demand-driven-open-data/)._</div> _Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

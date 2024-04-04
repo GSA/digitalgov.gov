@@ -7,12 +7,7 @@ authors:
   - stephanie-santoso
   - ryan-xue
 topics:
-  - challenges
-  - monthly-theme
-  - nasa
-  - national-institutes-of-health
-  - nih
-  - smithsonian-institution
+  - challenges-and-prize-competitions
 ---
 
 This year, innovative technologies like 3D printing are playing a role in creating a unique and interactive holiday experience at the White House.

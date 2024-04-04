@@ -6,13 +6,7 @@ summary: 'We’ve heard the phrase a million times: Nobody does it alone. Still,
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - monthly-theme
   - challenges-and-prize-competitions
-  - epa
-  - us-agency-for-international-development
-  - us-environmental-protection-agency
-  - usaid
 ---
 
 We’ve heard the phrase a million times: Nobody does it alone.

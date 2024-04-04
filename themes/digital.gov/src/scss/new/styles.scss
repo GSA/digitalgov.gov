@@ -120,7 +120,6 @@
 
 // Lists of related pages
 @forward "collection";
-@forward "gh-commit-info";
 @forward "share-tools";
 @forward "landings";
 @forward "guides/guide-content";
@@ -153,13 +152,10 @@
 @forward "service-contact";
 
 // Topics styles
-@forward "topic-buttons";
+@forward "topics-button";
 @forward "list-topics";
 @forward "topics";
 @forward "buttons";
-
-// Github Edit Tools
-@forward "gh-edit-page";
 
 // Print styles
 @forward "print";

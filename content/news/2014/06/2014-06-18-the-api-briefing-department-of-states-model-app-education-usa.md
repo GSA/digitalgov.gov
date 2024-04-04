@@ -6,13 +6,10 @@ summary: Not only does the Department of State have a great set of APIs, State a
 authors:
   - bbrantley
 topics:
-  - api
-  - code
+  - application-programming-interface
+  - software-engineering
   - mobile
   - user-experience
-  - mobile-apps
-  - us-department-of-state
-  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/06/250-x-250-logo-Seal\_of\_Department\_of\_state.jpg" alt="U.S. Department of State seal / logo" >}}Not only does the Department of State have a great set of APIs, State also has an excellent example of how to build an informative and useful app. [EducationUSA](https://www.educationusa.info/) is a network of State Department advisers who help international students apply for U.S. university programs. The [EducationUSA app](https://www.educationusa.info/mobileapp/) has the most popular resources and services from the [EducationUSA website](https://www.educationusa.info/), such as the ability to:

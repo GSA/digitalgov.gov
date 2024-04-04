@@ -45,7 +45,21 @@ In this session, you’ll learn how to:
 ## Moderator
 
 * **UX Community co-lead, Jaime Kern** - Lead Strategist for the Federal Marketplace, GSA
- 
+
+## Video Clips
+
+1. Cultivating a dynamic career in UX - Natalie Buda Smith (time length: 12:06)
+
+{{< youtube id="m9L-vJn6OlI" title="Cultivating a dynamic career in UX" >}}
+
+2. Cultivating a dynamic career in UX - Michelle Zager (time length: 7:26)
+
+{{< youtube id="It-I7gcaaBg" title="Cultivating a dynamic career in UX" >}}
+
+3. Cultivating a dynamic career in UX - Carlos Alvarado (time length: 8:11)
+
+{{< youtube id="UW8v-I8JM_U" title="Cultivating a dynamic career in UX" >}}
+
 - - -
 
 *The UX Community of Practice is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies. [Join the UX Community](https://digital.gov/communities/user-experience/).*

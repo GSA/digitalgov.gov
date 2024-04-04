@@ -7,7 +7,6 @@ authors:
   - erika-brown
 topics:
   - social-media
-  - peace-corps
 ---
 
 {{< legacy-img src="2014/05/250-x-166-Federal-Recruiter-LinkedIn-HRC-Equality-Tahoe-Democrat-Peace-Corps-LGBT-gay-pride-JAM-2012-0727-D3558.jpg" alt="250 x 166 Federal Recruiter LinkedIn - HRC Equality Tahoe Democrat Peace Corps LGBT gay pride - JAM-2012-0727-D3558" >}}Some people think LinkedIn is only for active job seekers. Although many of LinkedIn’s 300,000,000+ registered members fit that profile, LinkedIn is also chock-full of passive job seekers—those who have a job but are interested in learning about a new opportunity. Either way, LinkedIn is a valuable tool that provides recruiters with a large database of qualified candidates.

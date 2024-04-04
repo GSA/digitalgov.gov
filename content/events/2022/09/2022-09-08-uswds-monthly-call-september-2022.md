@@ -10,11 +10,9 @@ date: 2022-09-15 14:00:00 -0500
 end_date: 2022-09-15 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - user-experience
   - multilingual
-  - multilingual-community
-  - content
+  - content-strategy
   - design
 # See all authors at https://digital.gov/authors
 authors:

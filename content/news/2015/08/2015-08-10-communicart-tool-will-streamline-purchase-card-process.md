@@ -6,9 +6,7 @@ summary: 'We’ve all been there. You walk into a meeting, set your things on th
 authors:
   - greg-boone
 topics:
-  - code
-  - 18f
-  - GitHub
+  - software-engineering
 ---
 
 We’ve all been there. You walk into a meeting, set your things on the table, and sit down on the chair only to hit the floor instead. In a corporate office you might buy a new chair and get reimbursed, or maybe your company has a process for requesting new furniture. Regardless, that chair needs replacing.

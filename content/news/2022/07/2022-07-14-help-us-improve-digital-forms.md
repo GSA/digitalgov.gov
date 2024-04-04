@@ -9,7 +9,8 @@ deck: "**Help Us Improve Digital Forms**&mdash;People in the U.S. spend over 10 
 summary:
 # See all topics at https://digital.gov/topics
 topics:
-  - gsa
+  - digital-service-delivery
+  - open-source
 slug: help-us-improve-digital-forms
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -6,25 +6,11 @@ summary: 'September is National Preparedness Month. FEMA&#8217;s Ready.gov is en
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - product-management
-  - mobile
-  - social-media
-  - strategy
-  - policy
-  - content
   - content-strategy
-  - federal-emergency-management-agency
-  - Federal Mobile Products Registry
-  - fema
-  - firstnet
+  - product-and-project-management
   - mobile
-  - National Weather Service
-  - NWS
   - social-media
-  - the-content-corner
-  - us-digital-registry
- 
+  - content-strategy
 ---
 
 _September is National Preparedness Month. FEMA&#8217;s [Ready.gov](https://www.ready.gov/) is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in [America’s PrepareAthon!](https://community.fema.gov/) and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30._
@@ -45,7 +31,7 @@ As the #ReyFire wildfires continue to affect parts of Southern California, the C
 
 Sonny Saghera, who&#8217;s a firefighter and Public Information Officer for Heartland Fire and Rescue, uses social media increasingly to get messages out. Sonny talks about his agency’s use of live video like Periscope to share exactly what&#8217;s going on with the public.
 
-{{< youtube Q1zgLgA6dPI >}}
+{{< youtube id="Q1zgLgA6dPI" title="Going Social to Keep the Public Informed, Prepared for Disasters or Emergencies" >}}
 
 As data use continues to skyrocket for the general public and first responders alike, [FirstNet](http://www.firstnet.gov/), a relatively new federal agency, is tasked with the mission of ensuring the building, operation, and maintenance of a nationwide public safety broadband network. When so much is at stake, public safety shouldn&#8217;t have to compete with the general public for bandwidth.
 

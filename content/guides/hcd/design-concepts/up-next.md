@@ -13,7 +13,7 @@ The team is set up for success. Next, work with the implementation team to move 
 
 {{< img src=hcd-design-concepts-21 >}}
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 The Delivery Guides are currently in development. [Return home?]({{< ref "/guides/hcd/_index.md" >}})
 {{< /note >}}
 

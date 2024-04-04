@@ -7,11 +7,8 @@ authors:
   - jeff-woodworth
 topics:
   - design
-  - product-management
+  - product-and-project-management
   - mobile
-  - 18f
-  - responsive-web-design
-  - top-tasks
 ---
 
 GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users.

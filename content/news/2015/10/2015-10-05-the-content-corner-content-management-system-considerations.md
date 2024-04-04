@@ -6,11 +6,8 @@ summary: 'These days you couldn’t be faulted for thinking your content managem
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
-  - content-management-system
-  - mobile-ux-guideline-1
-  - the-content-corner
+  - content-strategy
+  - mobile
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 
@@ -35,7 +32,7 @@ To be safe, you may want to take those outliers and make them your starting poin
 
 One way to help ensure the system is a good fit for your content and users is to structure the content elements and their form fields appropriately. The CMS and how your contributors use it has a significant impact on how [structured and adaptive your final content can be]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}). Instead of using several large text areas that allow or force a contributor to paste a broad range of content, structure should be provided from within the CMS interface. This not only helps the contributor make better decisions regarding what goes where, but also helps to make them feel more confident in the work they&#8217;re doing.
 
-After the extensive content review that you should have completed as preparation for this CMS implementation or revision, you should have a good idea of your various content types and their individual elements. In fact, in the course of your content review you may have uncovered areas for improvement. Perhaps your site was combining staff members’ names and job titles; or the address, hours of operation and contact information were all in one large field. You can now break out these various fields into separate ones, which creates an easier process for the contributor, will allow for greater flexibility and will [make your final product more shareable and reusable]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}}).
+After the extensive content review that you should have completed as preparation for this CMS implementation or revision, you should have a good idea of your various content types and their individual elements. In fact, in the course of your content review you may have uncovered areas for improvement. Perhaps your site was combining staff members’ names and job titles; or the address, hours of operation and contact information were all in one large field. You can now break out these various fields into separate ones, which creates an easier process for the contributor, will allow for greater flexibility and will [make your final product more shareable and reusable](https://digital.gov/2013/07/29/how-to-create-open-structured-content/).
 
 ## Determining Permissions and Limits
 
@@ -62,6 +59,6 @@ I also tend to closely control options for image insertion, namely whether an im
 
 Again, the number of WYSIWYG options allowed is influenced by your workflow and content creation structure. If your authors regularly need to bold text or create ordered or unordered lists (important elements of <a href="{{< ref "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}" target="_blank">readable content</a>) then be sure to allow those options. If contributors are allowed and expected to add links (again a [fairly important aspect of the Web)]({{< ref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}}) then be sure to make that process as painless as possible. I am also a big fan of making it as easy as possible to link to existing site content. If that can be easily facilitated, I highly recommend making it available.
 
-Next time, I will share additional ways to help make whatever CMS you either implement or re-configure serve your content strategy and your content contributors as best as possible. But the first steps are to deeply understand your content, your contributors and their process, and how that can best be integrated into a content management system. Remember, the CMS should be made to fit your contributors needs and workflow—not the other way around._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Next time, I will share additional ways to help make whatever CMS you either implement or re-configure serve your content strategy and your content contributors as best as possible. But the first steps are to deeply understand your content, your contributors and their process, and how that can best be integrated into a content management system. Remember, the CMS should be made to fit your contributors needs and workflow—not the other way around._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Sign up for our <a href="https://public.govdelivery.com/accounts/USHOWTO/subscriber/new" target="_blank">daily or weekly DigitalGov newsletter</a> to receive more great content like this delivered to your inbox!

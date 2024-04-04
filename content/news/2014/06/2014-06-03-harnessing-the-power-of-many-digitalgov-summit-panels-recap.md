@@ -6,28 +6,17 @@ summary: 'At the DigitalGov Citizen Services Summit last Friday, Jacob Parcell, 
 authors:
   - alison-lemon
 topics:
-  - challenges
-  - code
-  - content
-  - product-management
-  - metrics
+  - challenges-and-prize-competitions
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - mobile
   - social-media
   - user-experience
-  - Census
-  - DOL
-  - epa
-  - fda
-  - NCI
-  - recaps
-  - us-department-of-labor
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - united-states-census-bureau
-
 ---
 
-{{< legacy-img src="2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}} 
+{{< legacy-img src="2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}}
 
 At the [DigitalGov Citizen Services Summit]({{< ref "2014-05-30-digitalgov-citizen-services-summit-a-success.md" >}}) last Friday, Jacob Parcell, Manager, Mobile Programs at the General Services Administration led a panel on the challenges and benefits of Inter-Agency work. The other panels were on [performance analysis]({{< ref "2014-06-03-digitalgov-summit-panels-recap.md" >}}), [customer service across channels]({{< ref "2014-06-05-the-importance-of-cross-channel-customer-service-digitalgov-summit-recap.md" >}} "The Importance of Cross-Channel Customer Service—DigitalGov Summit Recap"), and [public private partnerships]({{< ref "2014-06-05-overcoming-barriers-digitalgov-summit-recap.md" >}} "Overcoming Barriers—DigitalGov Summit Recap").
 
@@ -57,6 +46,6 @@ Agencies can also strive to think beyond their silos, since ultimately we work f
 
 What has been your experience with inter-agency work?
 
-_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community]({{<ref "/authors/alison-lemon">}}) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._ 
+_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community]({{<ref "/authors/alison-lemon">}}) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
 
-_Thanks to our special Summit blogger, Alison, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._ 
+_Thanks to our special Summit blogger, Alison, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._

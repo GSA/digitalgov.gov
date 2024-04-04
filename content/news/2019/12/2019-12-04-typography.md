@@ -12,7 +12,6 @@ summary: "This is the summary"
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - uswds
 
 # see all authors at https://digital.gov/authors
 authors:

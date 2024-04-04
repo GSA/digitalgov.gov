@@ -6,17 +6,9 @@ summary: 'Before coming to DC in late 2008, I lived in Louisville, Kentucky. Lou
 authors:
   - bbrantley
 topics:
-  - api
+  - application-programming-interface
   - mobile
-  - api
-  - data
-  - federal-emergency-management-agency
-  - fema
-  - mobile
-  - mobile-ux-guideline-3
-  - mobile-ux-guideline-5
-  - native-app
-  - wednesday-api-briefing
+  - open-data
 ---
 
 Before coming to DC in late 2008, I lived in Louisville, Kentucky. Louisville is in the Ohio Valley Region, which meteorologists euphemistically call “weather-rich.” With spring came the beautiful flowers and the Kentucky Derby. Spring also brought flooding, tornadoes, severe thunderstorms, and windstorms. This is why I had several emergency weather radios that also doubled as flashlights and cell phone chargers.

@@ -6,26 +6,11 @@ summary: 'Federal agencies confront tough problems every day. In searching for s
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - communities
   - crowdsourcing-and-citizen-science
-  - product-management
-  - strategy
-  - policy
-  - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - DOT
-  - epa
-  - GAO
+  - product-and-project-management
+  - content-strategy
   - innovation
-  - nasa
   - open-data
-  - us-environmental-protection-agency
-  - us-government-accountability-office
-  - united-states-department-of-transportation
 ---
 
 Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness.

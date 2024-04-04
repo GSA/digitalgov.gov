@@ -3,12 +3,7 @@
     <section class="author-profile">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-6">
-          {{ $path := "" }}{{ with .File }}
-            {{ $path = .Path }}
-          {{ else }}
-            {{ $path = .Path }}
-          {{ end }}
-          <div class="grid-col-12" data-gh-edit-page="{{- $path -}}">
+          <div class="grid-col-12">
             <header>
               {{- if .Params.github -}}
                 <img
@@ -93,10 +88,10 @@
                     {{- if .Params.twitter -}}
                       <li>
                         <a
-                          class="twitter"
+                          class="x"
                           rel="external"
-                          title="{{- .Params.display_name -}} on Twitter"
-                          href="http://www.twitter.com/{{- .Params.twitter -}}/"
+                          title="{{- .Params.display_name }} on X"
+                          href="https://www.twitter.com/{{- .Params.twitter -}}/"
                         >
                           <svg
                             class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
@@ -104,7 +99,7 @@
                             focusable="false"
                           >
                             <use
-                              xlink:href="{{ "uswds/img/sprite.svg#twitter" | relURL }}"
+                              xlink:href="{{ "uswds/img/sprite.svg#x" | relURL }}"
                             ></use>
                           </svg>
                         </a>

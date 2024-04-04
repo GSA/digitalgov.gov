@@ -5,11 +5,6 @@ title: 'Mobile Gov for Valentine&#8217;s Day!'
 summary: 'Need a last minute Valentine&#8217;s Day gift idea? We&#8217;ve put together some last minute anytime, anywhere government Valentine&#8217;s ideas for your special'
 topics:
   - mobile
-  - cdc
-  - HHS
-  - mobile-apps
-  - smithsonian-institution
-  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2013/02/CDC-Mobile-health-ecard.png" alt="CDC Mobile Health eCard showing a red rose with the following message overlay Roses are Red, Violets are Blue, your preventive care may be covered at no cost to you" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/02/CDC-Mobile-health-ecard.png)Need a last minute Valentine&#8217;s Day gift idea? We&#8217;ve put together some last minute anytime, anywhere government Valentine&#8217;s ideas for your special someone.

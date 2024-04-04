@@ -12,9 +12,8 @@ date: 2021-06-17 14:00:00 -0500
 end_date: 2021-06-17 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - design
-  - 21st-century-idea
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams

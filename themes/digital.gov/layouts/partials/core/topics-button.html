@@ -1,0 +1,52 @@
+{{/* Renders a topics button with the name of the topic and has two display options.
+
+  1. Primary - Styled button with a hover effect.
+  2. Count - Link followed by the amount of pages that use the topic.
+
+  @param {url} link - String path to a topic page.
+  @param {string} title - Topic name.
+  @param {number} tag_count - Number of times the topic tag is used.
+  @param {boolean} has_tag_count - Checks if `tag_count` number is present.
+*/}}
+
+{{ $link := .link }}
+{{ $title := .title }}
+{{ $tag_count := .tag_count }}
+{{ $has_tag_count := false }}
+
+{{ if ne $tag_count nil }}
+  {{ $has_tag_count = true }}
+{{ end }}
+
+
+<div
+  class="topics-button {{ if not $has_tag_count }}
+    topics-button--primary
+  {{ else }}
+    topics-button--count
+  {{ end }}"
+>
+  <a
+    class="topics-button__link"
+    href="{{- $link | relURL -}}"
+    title="{{- $title -}}"
+  >
+    {{- $title -}}
+    {{ if not $has_tag_count }}
+      <span class="topics-button__arrow">
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+          ></use>
+        </svg>
+      </span>
+    {{ end }}
+  </a>
+  {{ if $has_tag_count }}
+    <span class="topics-button__number">{{- $tag_count -}}</span>
+  {{ end }}
+</div>

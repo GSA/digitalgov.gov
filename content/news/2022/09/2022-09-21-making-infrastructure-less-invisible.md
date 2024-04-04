@@ -1,6 +1,6 @@
 ---
 # Originally published at the following URL
-source_url: https://home.dotgov.gov/updates/2022/9/14/making-infrastructure-less-invisible
+source_url: https://get.gov/posts/2022-09-14-making-infrastructure-less-invisible/
 source: dotgov
 date: 2022-09-14 16:51:00 -0500
 kicker: ""
@@ -10,7 +10,7 @@ summary: "Over the last year, there has been a constant stream of activity at th
 
 # See all topics at https://digital.gov/topics
 topics:
-  - infrastructure
+  - cloud-and-infrastructure
   - domain-management
 
 # See all authors at https://digital.gov/authors

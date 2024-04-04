@@ -7,14 +7,9 @@ authors:
   - nancy-merritt
   - katie-gresham
 topics:
-  - challenges
-  - monthly-theme
-  - Bureau of Justice Statistics
   - challenges-and-prize-competitions
   - data-visualization
-  - DOJ
   - open-data
-  - us-department-of-justice
 ---
 
 [{{< legacy-img src="2014/12/600-x-380-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg" alt="Data visualizations for Mapping Decline St. Louis and the American City website's White Flight tab showing years 2000 - 2010" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/1200-x-815-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg)
@@ -38,6 +33,6 @@ From uncovering differences in criminal court case processing to exploring the s
   * [Apply for the Data Visualization Challenge](http://www.nij.gov/funding/Pages/fy14-data-visualization-challenge.aspx)
   * [Learn more about how NIJ uses Challenges in a new NIJ Journal article](http://nij.gov/journals/274/Pages/challenge-generate-innovation.aspx)
 
-_Editor&#8217;s Note: This article is part of our [December Editorial Theme around Crowdsourcing]({{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview"). Check out the other [theme articles]({{< ref "/topics/monthly-theme" >}}) we&#8217;re publishing this month._ 
+_Editor&#8217;s Note: This article is part of our [December Editorial Theme around Crowdsourcing]({{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview"). Check out the other theme articles we&#8217;re publishing this month._ 
 
  

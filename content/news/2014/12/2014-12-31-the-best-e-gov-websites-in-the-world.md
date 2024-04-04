@@ -6,12 +6,11 @@ summary: ' In Design Secrets of the World’s Best e-Government Web Sites, the A
 authors:
   - darlene-meskell
 topics:
-  - content
+  - content-strategy
   - multilingual
-  - responsive-web-design
+  - mobile
   - search-engine-optimization
   - usability
-  - usagov
   - user-experience
 ---
 

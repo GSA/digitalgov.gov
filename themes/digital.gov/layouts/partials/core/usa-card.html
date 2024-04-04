@@ -1,0 +1,61 @@
+{{/* USWDS Card Component - https://designsystem.digital.gov/components/card/
+  Renders a USWDS card given a heading, image, body, and footer
+
+  @param {string} [header] - String to be displayed as the title of the card
+  @param {string} [body] - String to be displayed in the body of the card
+  @param {string} [link] - String passed into the "href" field of the button at the footer of the card
+  @param {string} [link_title] - String passed into the "title" field of the button at the footer of the card
+  @param {string} [image] - String passed into the "src" field of the image displayed at the top of the card
+  @param {string} [alt] - String passed into the "alt" field of the image displayed at the top of the card
+  @param {string} [layout] - String used to adjust styles for variants
+*/}}
+
+{{- $header := default "" .card_data.header -}}
+{{- $body := default "" .card_data.body -}}
+{{- $link := default "" .card_data.link -}}
+{{- $link_title := default "" .card_data.link_title -}}
+{{- $image := default "" .card_data.image -}}
+{{- $alt := default "" .card_data.alt -}}
+{{- $layout := default "" .card_data.layout -}}
+{{- $has_image := false -}}
+
+{{ if eq $layout "has-image" }}
+  {{ $has_image = true }}
+{{ end }}
+
+
+<div class="usa-card__container">
+  {{ if $header }}
+    <div class="usa-card__header">
+      <h2 class="usa-card__heading">
+        {{- $header | markdownify -}}
+      </h2>
+    </div>
+  {{ end }}
+  {{ if $has_image }}
+    {{ if not (eq $image "") }}
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          {{ $image_path := (printf "%s/%s" "img" $image | relURL) }}
+          <img src="{{- $image_path -}}" alt="{{- $alt -}}" />
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+  {{ if $body }}
+    <div class="usa-card__body">
+      <p>{{- $body | markdownify -}}</p>
+    </div>
+  {{ end }}
+  {{ if $link_title }}
+    <div class="usa-card__footer">
+      <a
+        class="usa-button {{ if $has_image }}usa-button--outline{{ end }}"
+        href="{{- $link -}}"
+        title="{{- $link_title | markdownify -}}"
+      >
+        {{- $link_title | markdownify -}}
+      </a>
+    </div>
+  {{ end }}
+</div>

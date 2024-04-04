@@ -6,10 +6,7 @@ summary: 'Over the past year, the Environmental Protection Agency (EPA) has unde
 authors:
   - chris-cairns
 topics:
-  - product-management
-  - 18f
-  - epa
-  - us-environmental-protection-agency
+  - product-and-project-management
 ---
 
 Over the past year, the Environmental Protection Agency (EPA) has undertaken a [broad initiative to transform the way it delivers digital services](http://fedscoop.com/epa-to-grow-digital-services-with-godbout-at-helm). We’ve been working hand-in-hand with the EPA to make this transformation a success by [supporting such programs as eManifest](http://fedscoop.com/hazardous-waste-regulator-portals-get-a-boost-from-epa-digital-services).

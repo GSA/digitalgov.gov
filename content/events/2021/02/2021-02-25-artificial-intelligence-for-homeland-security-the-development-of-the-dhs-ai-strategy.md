@@ -1,10 +1,8 @@
 ---
 title: "Artificial Intelligence for Homeland Security: Developing the Strategy"
-deck: If you are a federal employee, join us as the Department of Homeland
-  Security presents their Department-wide AI Strategy.
-kicker: Artificial Intelligence
-summary: The Department of Homeland Security (DHS) will present the work that
-  led to the creation of the DHS AI Strategy to interagency partners.
+deck: "If you are a federal employee, join us as the Department of Homeland Security presents their Department-wide AI Strategy."
+kicker: "Artificial Intelligence"
+summary: "The Department of Homeland Security (DHS) will present the work that led to the creation of the DHS AI Strategy to interagency partners."
 host: Artificial Intelligence (AI) Community
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/ai-for-homeland-security-the-development-of-the-dhs-ai-strategy-tickets-143176196859
@@ -14,9 +12,9 @@ end_date: 2021-03-31 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
-  - ai
-  - strategy
+  - content-strategy
   - emerging-tech
+  - trust
 # See all authors at https://digital.gov/authors
 authors:
   - nick-reese

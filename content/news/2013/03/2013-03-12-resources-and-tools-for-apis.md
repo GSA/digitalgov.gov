@@ -6,20 +6,8 @@ summary: 'Hosted API Tools Labs.Data.gov is a repository of shared services to p
 authors:
   - gray-brooks
 topics:
-  - api
-  - code
-  - api
-  - cdc
-  - Census
-  - DOL
-  - DOT
-  - FAA
-  - FCC
-  - gsa
-  - HHS
-  - nasa
-  - SBA
-  - us-department-of-labor
+  - application-programming-interface
+  - software-engineering
 ---
 
 ## <a name="hosted-api-tools"></a>Hosted API Tools {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}}

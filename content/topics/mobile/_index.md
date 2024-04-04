@@ -10,6 +10,41 @@ deck: "Mobile-friendly government websites improve access and user experience"
 
 summary: "People increasingly use their mobile devices to access critical information. Ensuring that government websites work well on mobile devices not only improves the overall user experience but also increases visibility of government services and information. Mobile-friendly federal websites are a part of digital inclusion, transparency, and accountability."
 
+
+aliases:
+  - /topics/mobile/
+  - /topics/5g/
+  - /topics/app/
+  - /topics/apps/
+  - /topics/broadband/
+  - /topics/federal-crowdsource-mobile-testing-program/
+  - /topics/federal-mobile-products-registry/
+  - /topics/gps/
+  - /topics/making-mobile-gov/
+  - /topics/mobile-app-development-program/
+  - /topics/mobile-apps/
+  - /topics/mobile-code-catalog/
+  - /topics/mobile-first/
+  - /topics/mobile-friendly/
+  - /topics/mobile-gov/
+  - /topics/mobile-gov-community-of-practice/
+  - /topics/mobile-gov-experience/
+  - /topics/mobile-testing/
+  - /topics/mobile-user-experience-guidelines/
+  - /topics/mobile-ux-guideline-1/
+  - /topics/mobile-ux-guideline-2/
+  - /topics/mobile-ux-guideline-3/
+  - /topics/mobile-ux-guideline-4/
+  - /topics/mobile-ux-guideline-5/
+  - /topics/mobile-ux-guideline-6/
+  - /topics/native-app/
+  - /topics/native-apps/
+  - /topics/responsive-web-design/
+  - /topics/sms/
+  - /topics/thursday-mobile-products/
+  - /topics/usa-gov-federal-mobile-apps-directory/
+  - /topics/wireless/
+
 # Weight
 weight: 2
 

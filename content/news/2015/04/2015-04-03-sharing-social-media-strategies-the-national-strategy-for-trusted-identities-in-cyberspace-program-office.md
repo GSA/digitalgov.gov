@@ -7,11 +7,7 @@ authors:
   - awichman
 topics:
   - social-media
-  - national-institute-of-standards-and-technology
-  - NIST
   - security
-  - social-media
-  - social-media-metrics
 ---
 
 {{< legacy-img src="2015/04/600-x-424-Online-Security-Technology-olarseven-iStock-Thinkstock-ThinkstockPhotos-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." caption="" >}} 

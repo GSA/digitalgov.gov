@@ -6,7 +6,7 @@ summary: 'Author writes: Additionally, the method utilized a myriad of factors f
 authors:
   - colleen-blessing
 topics:
-  - writing
+  - communication
   - plain-language
 ---
 

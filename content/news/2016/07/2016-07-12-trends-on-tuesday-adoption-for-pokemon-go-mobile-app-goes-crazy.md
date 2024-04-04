@@ -8,14 +8,10 @@ authors:
 topics:
   - mobile
   - social-media
+  - content-strategy
   - analytics
-  - gamification
-  - metrics
-  - mobile
   - security
-  - social-media
-  - social-media-metrics
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 Augmented Reality games have existed for years, but have mostly failed to catch a mainstream audience; [Pokémon Go just changed all that this weekend](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/).

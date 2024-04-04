@@ -19,11 +19,11 @@ end_date: 2020-09-15 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - data
   - design
   - open-data
   - user-centered-design
-  - crowdsourcing
+  - human-centered-design
+  - crowdsourcing-and-citizen-science
 
 # see all authors at https://digital.gov/authors
 authors: 

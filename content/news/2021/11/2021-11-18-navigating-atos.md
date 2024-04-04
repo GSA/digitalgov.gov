@@ -13,7 +13,7 @@ summary: sum
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
-  - devops
+  - software-engineering
 slug: navigating-atos
 # Controls how this page appears across the site
 # 0 -- hidden

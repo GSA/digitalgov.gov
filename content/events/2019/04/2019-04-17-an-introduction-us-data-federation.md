@@ -18,8 +18,7 @@ end_date: 2019-04-17 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - api
-  - data
+  - application-programming-interface
   - open-source
 
 # see all authors at https://digital.gov/authors

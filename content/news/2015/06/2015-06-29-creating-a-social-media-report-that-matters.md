@@ -1,3 +1,5 @@
+
+
 ---
 slug: creating-a-social-media-report-that-matters
 date: 2015-06-29 1:00:19 -0400
@@ -6,13 +8,9 @@ summary: 'As with any communications effort, the social media bottom line comes 
 authors:
   - katie-gresham
 topics:
-  - monthly-theme
   - social-media
   - analytics
-  - data
   - data-visualization
-  - infographic
-  - social-media-metrics
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Social-Media-Infographics-LucionCreative-iStock-Thinkstock-476423382.jpg" alt="Social Media Infographics" caption="" >}}

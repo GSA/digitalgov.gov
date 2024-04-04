@@ -6,11 +6,10 @@ summary: According to an article from Readwrite, the amount of money going to bi
 authors:
   - kdaniel
 topics:
-  - data
-  - big-data
-  - data
+  - open-data
+  - analytics
   - privacy
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Lake-Rotoroa-New-Zealand-SamStyles-iStock-Thinkstock-ThinkstockPhotos-483262107.jpg" alt="Lake Rotoroa, New Zealand" caption="" >}} 

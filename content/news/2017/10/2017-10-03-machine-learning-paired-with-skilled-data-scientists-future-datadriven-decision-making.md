@@ -6,19 +6,11 @@ summary: ML can provide high-value services for data management and analytics, s
 authors:
   - jada-jones
 topics:
-  - data
   - artificial-intelligence
-  - big-data
-  - darpa
-  - data
+  - analytics
+  - open-data
   - emerging-tech
-  - defense-advanced-research-projects-agency
-  - hhs
-  - nasa
-  - national-aeronautics-and-space-administration
-  - trends-on-tuesday
-  - united-states-department-of-health-and-human-services
-  - rpa
+  - robotic-process-automation
 featured_image:
   uid: 3d-rendering-of-robot-face-zapp2photo-istock-thinkstock-675938062
   alt:
@@ -49,6 +41,8 @@ Learn more about some innovative ways that federal agencies are utilizing Machin
 *   [DARPA Lifelong Learning Machines](https://www.darpa.mil/news-events/2017-03-16)
 *   [NASA Machine Learning Projects](https://ml.jpl.nasa.gov/public/mls/projects.shtml)
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+---
+
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Interested in connecting with other feds exploring machine learning, artificial intelligence (AI), and similar innovations? Check out our new [Emerging Citizen Technology program]({{< ref "2017-08-24-emerging-tech-and-open-data-for-a-more-open-and-accountable-government.md" >}}) and join the related [Communities of Practice]({{< ref "/communities" >}})._

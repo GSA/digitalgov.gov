@@ -5,10 +5,9 @@ summary: A checklist of requirements for people who are presenting at a
   Digital.gov event.
 # See all topics at https://digital.gov/topics
 topics:
-  - presentations
+  - communication
   - best-practices
-  - audio-video
-  - video
+  - multimedia
 # See all authors at https://digital.gov/authors
 authors:
   - bonnie-cameron

@@ -6,15 +6,7 @@ summary: 'In 2016, the Digital Analytics Program (DAP) team has ramped up our tr
 authors:
   - ilee
 topics:
-  - metrics
   - analytics
-  - dap
-  - digital-analytics-program
-  - google-analytics
-  - metrics
-  - recaps
-  - webinar
-
 ---
 
 In 2016, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we’re happy to provide the material. We’ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from 2016 so far.
@@ -25,7 +17,7 @@ Bookmark this page, but don’t forget about it! Here are some things we’ve co
 
 ## DAP Learning Series: Measuring User Behavior
 
-{{< youtube H9RQf8a4DQE >}}
+{{< youtube id="H9RQf8a4DQE" >}}
 
 Find out how users are engaging with your site using the reports that we cover in this webinar. You can view the classic overview in the behavior flow report, but we recommend some more useful reports. The custom funnel reports that show the percentage of users completing intended journeys or where they’re dropping off. The navigation summary shows which pages users are clicking to and from.
 

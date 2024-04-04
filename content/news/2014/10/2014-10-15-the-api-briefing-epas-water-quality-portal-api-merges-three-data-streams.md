@@ -6,15 +6,7 @@ summary: ' Access to clean water is fast becoming a vital issue in the 21st cent
 authors:
   - bbrantley
 topics:
-  - api
-  - api
-  - epa
-  - OPM
-  - us-environmental-protection-agency
-  - united-states-geological-survey
-  - united-states-office-of-personnel-management
-  - USGS
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/10/600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151.jpg" alt="600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151" >}}

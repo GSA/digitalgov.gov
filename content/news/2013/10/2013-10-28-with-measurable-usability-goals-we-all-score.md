@@ -6,11 +6,9 @@ summary: Setting measurable usability goals will help your team to assess the pe
 authors:
   - katie-messner
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
-  - HHS
-  - top-tasks
-  - united-states-department-of-health-and-human-services
+  - content-strategy
 ---
 
 [{{< legacy-img src="2013/10/usability-chart-3.jpg" alt="Mock chart showing the importance of success, accuracy, satisfaction, and speed as usability goals" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/usability-chart-3.jpg)Setting measurable usability goals will help your team to assess the performance of your site throughout development.

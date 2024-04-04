@@ -34,7 +34,7 @@ logo: fedramp
 # See all topics at https://digital.gov/topics
 # Topics that best describe this product or service
 topics:
-  - fedramp
+  - security
 
 # Make it better ♥
 

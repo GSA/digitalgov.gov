@@ -6,11 +6,8 @@ summary: Information technology is everywhere. How we communicate, and how we sh
 authors:
   - cynthia-giles
 topics:
-  - product-management
-  - data
-  - epa
+  - product-and-project-management
   - open-data
-  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2015/10/600-x-412-Blue-world-in-the-hand-Usa-RomoloTavani-iStock-Thinkstock-168721833.jpg" alt="A pair of hands hold a blue globe showing the Western Hemisphere of the Americas, over a background of sparkling water." caption="" >}} 

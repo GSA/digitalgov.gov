@@ -12,8 +12,6 @@ summary: The USAGov UX team has made improvements to beta.usa.gov in new ways.
 topics:
   - user-experience
   - design
-  - uswds
-  - usability-testing
   - usability
 slug: 5-changes-the-ux-team-made-for-beta
 # Controls how this page appears across the site

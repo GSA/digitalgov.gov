@@ -6,13 +6,9 @@ summary: 'Behind every great innovation is a team. And behind successful innovat
 authors:
   - awichman
 topics:
-  - challenges
   - challenges-and-prize-competitions
-  - data
-  - DOE
   - innovation
   - open-data
-  - united-states-department-of-energy
 ---
 
 Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people.

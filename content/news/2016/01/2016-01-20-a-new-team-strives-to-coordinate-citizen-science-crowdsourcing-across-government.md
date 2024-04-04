@@ -7,12 +7,6 @@ authors:
   - eric-beidel
 topics:
   - crowdsourcing-and-citizen-science
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - FCPCCS
-  - NARA
-  - OSTP
 ---
 
 A government can accomplish nothing without the ingenuity of its people. {{< legacy-img src="2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}} 

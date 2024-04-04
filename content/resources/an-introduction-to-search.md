@@ -6,8 +6,7 @@ summary: Learn why search functionality is an important component of federal
   websites, and discover how to add a search function to your website.
 # See all topics at https://digital.gov/topics
 topics:
-  - seo
-  - 21st-century-idea
+  - digital-service-delivery
   - search-engine-optimization
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -61,7 +60,7 @@ The Federal Government’s public web presence is an open book that may be crawl
 - **Indicate timeliness of content:** Agencies should indicate when content on static,<sup>30</sup> public-facing websites was created or last updated by including temporal information in line with content or by using “Last Modified” in the HTTP header, in metadata tags, or in XML sitemaps. Time-and-date stamps provide transparency to the user and help the public better understand the freshness of content. When developing a timestamp strategy, agencies should prioritize adding timestamps to content that is time-sensitive, frequently changed, or top-trafficked.
 - **Permit automated web scraping:** Generally, agencies shall permit web scraping and archival services to operate unimpeded without challenge-response restrictions (e.g., without presenting CAPTCHAs). Blocking or throttling of even potentially abusive crawlers is only appropriate in exceptional circumstances, such as an active denial-of-service attack, and, even then, is appropriate only on a temporary basis. If an agency detects significant public interest in scraping information from web pages, the agency should strongly consider making that information available as machine-readable data that can be accessed in bulk and optimized for automated access (such as through an API).
 
-<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/img/sprite.svg#arrow_forward"></use></svg></a>
+<a class="src" href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" title="View ">View the full policy guidance as a web page<svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img"> <use xlink:href="assets/img/sprite.svg#arrow_forward"></use></svg></a>
 
 {{< /accordion >}}
 
@@ -80,4 +79,6 @@ Follow **search engine optimization (SEO)** best practices to help search engine
 * Create a robots.txt file.
 * Register your site with [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) and [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en).
 
-{{< note >}} All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency. {{< /note >}}
+---
+
+**Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

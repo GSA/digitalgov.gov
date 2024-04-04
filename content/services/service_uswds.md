@@ -23,14 +23,13 @@ weight: 6
 # Topics that best describe this product or service
 topics:
   - design
-  - code
+  - software-engineering
   - open-source
-  - uswds
   - accessibility
   - user-experience
   - mobile
-  - product-management
-  - 21st-century-idea
+  - product-and-project-management
+  - digital-service-delivery
 
 # see all authors at https://digital.gov/authors
 authors:

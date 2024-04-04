@@ -6,12 +6,9 @@ summary: ' Guest post by Brenda Wensil, Chief Customer Experience Officer for Fe
 authors:
   - brenda-wensil
 topics:
-  - user-testing-and-research
+  - research
   - user-experience
   - customer-experience
-  - FAFSA
-  - FSA
-  - us-department-of-education
 ---
 
 {{< legacy-img src="2014/01/federal-student-aid.jpg" alt="federal student aid" >}}

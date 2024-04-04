@@ -7,15 +7,8 @@ authors:
   - victoria-wales
 topics:
   - accessibility
-  - monthly-theme
-  - social-media
-  - video
-  - writing
-  - accessibility
-  - crowdsourcing
-  - FCC
-  - federal-communications-commission
-  - infographic
+  - multimedia
+  - communication
   - plain-language
   - social-media
 

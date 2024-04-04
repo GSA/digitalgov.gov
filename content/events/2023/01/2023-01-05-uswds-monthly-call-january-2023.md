@@ -12,7 +12,6 @@ date: 2023-01-19 14:00:00 -0500
 end_date: 2023-01-19 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - open-source
   - usability
 slug: uswds-monthly-call-january-2023

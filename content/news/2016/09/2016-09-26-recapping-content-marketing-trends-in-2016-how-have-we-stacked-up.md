@@ -6,30 +6,15 @@ summary: 'Earlier this year, it was predicted that content marketing would becom
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - product-management
-  - strategy
-  - policy
-  - content
   - content-strategy
-  - content-syndication
-  - HHS
-  - HRSA
+  - product-and-project-management
   - mobile
-  - mobile-first
-  - mobile-friendly
   - multilingual
-  - NARA
-  - national-archives-and-records-administration
   - social-media
-  - the-content-corner
-  - us-department-of-the-interior
-  - us-department-of-the-treasury
-  - united-states-department-of-health-and-human-services
-  - white-house
 ---
 
-Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}} 
+Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}}
+Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}}
 
 Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and repurposing content. In the recent blog post, [15 Content Marketing Trends for 2016](http://buildfire.com/content-marketing-trends-2016/), it is noted that the &#8220;average American spends nearly four hours a day bombarded with different types of content.” As consumers of content, it wouldn’t be incredibly off to call it all overwhelming. We all probably have a favorite or two go-to networks where we seek to receive information.
 
@@ -84,4 +69,4 @@ In an effort to continue to improve the user experience, [USAJobs is leveraging 
 Additionally, with [40 percent of Americans](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) using smartphones to look up government services or information, [Apps and SMS]({{< ref "2016-07-28-widgets-mobile-apps-and-sms-essential-agency-tools-for-summer-heat-safety-and-hurricane-season.md" >}}) are also essential tools for an agency to consider when seeking to provide the public with digital content.
 
 _Looking for help planning or releasing a mobile product or service? Contact DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}). Also, visit the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._
-_You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_]({{< ref "/topics/the-content-corner" >}})_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_]({{< ref "/topics/content-strategy" >}})_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

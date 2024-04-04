@@ -7,7 +7,6 @@ summary: This 2019 memorandum sets forth the federal government's Identity, Cred
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - policy
 
 # Controls how this page appears across the site
 # 0 -- hidden

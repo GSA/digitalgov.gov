@@ -8,9 +8,7 @@ authors:
   - jessica-skretch
 topics:
   - design
-  - product-management
-  - agile
-  - sprint
+  - product-and-project-management
   - user-experience
   
 featured_image:

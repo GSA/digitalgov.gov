@@ -6,31 +6,8 @@ summary: Social media for public service is a diverse field that uses platforms 
 authors:
   - jherman
 topics:
-  - communities
+  - user-experience
   - social-media
-  - aoi
-  - Central Intelligence Agency
-  - CIA
-  - DOI
-  - fda
-  - federal-register
-  - FSA
-  - HHS
-  - NARA
-  - nasa
-  - national-archives-and-records-administration
-  - National Highway Traffic Safety Administration
-  - National Library of Medicine
-  - national-oceanic-and-atmospheric-administration
-  - NLM
-  - NOAA
-  - ODNI
-  - peace-corps
-  - socialgov-community
-  - us-department-of-education
-  - us-department-of-the-interior
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
 ---
 
 Social media for public service is a diverse field that uses platforms and data from both the private and public sectors to improve citizen services, make them easier to access and deliver them more cost effectively. It is not just public affairs or communications, but spreads into customer service, resource development and more. Many of the best examples of social media in government can&#8217;t be seen on the surface of a tweet or post, but in how these collaborative, engaging strategies improve the processes of public services themselves. We still want to share with you examples of how these programs shined in 2014, however, and for that we&#8217;ll tell the story with color.

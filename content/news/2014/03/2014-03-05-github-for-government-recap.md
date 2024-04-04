@@ -6,12 +6,8 @@ summary: 'As the definition of &ldquo;developer&rdquo; has grown and expanded, G
 authors:
   - andreanocesigritz
 topics:
-  - code
-  - data
-  - CFPB
-  - GitHub
+  - software-engineering
   - open-data
-  - recaps
 ---
 
 As the definition of “developer” has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It’s a [free social network]({{< ref "negotiated-terms-of-service-agreements.md" >}}) that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously.

@@ -6,7 +6,7 @@ summary: 'One way to leverage Twitter, beyond the basics of sending messages and
 authors:
   - jherman
 topics:
-  - metrics
+  - analytics
   - social-media
 ---
 

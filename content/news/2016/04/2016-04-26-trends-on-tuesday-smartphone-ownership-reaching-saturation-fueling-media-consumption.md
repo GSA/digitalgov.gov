@@ -8,9 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - mobile
-  - social-media
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 ComScore released a report with a lot of great data about how [mobile digital media usage continues to explode](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2016/2016-US-Cross-Platform-Future-in-Focus) in 2016. It has 70 pages of charts and information to digest. {{< legacy-img src="2015/06/600-x-360-World-social-digital-TCmake_photo-iStock-Thinkstock-183161931.jpg" alt="A digital graphic of social media icons revolving around a globe, above a smart phone" caption="" >}} 
@@ -39,4 +37,4 @@ Here are seven key mobile trends and takeaways:
   
 ** In both the 18-34 and over 35 year old demographics, Facebook completely dominates all other social media platforms in monthly minutes spent and percentage of reach, exponentially. Among 18-35 year olds, Facebook has almost 100% penetration, and those users spend an average of more than 1,000 minutes a month on the network; the next closest social network is Instagram with about 63% penetration and 300 minutes a month. For users over 35, Facebook has about a 93% penetration with users spending more than 900 minutes a month on the network; the next largest network, Linkedin, only has about 47% penetration and 50 minutes of monthly engagement.
 
-All of this data is very interesting but should be taken with a grain of salt, as it’s focused on mass-market media. But, it’s useful to know where government agencies can use digital media trends to serve their constituencies best. Stay tuned to DigitalGov for more [trends]({{< ref "/topics/trends-on-tuesday" >}}) and [mobile]({{< ref "/topics/mobile" >}}) news.
+All of this data is very interesting but should be taken with a grain of salt, as it’s focused on mass-market media. But, it’s useful to know where government agencies can use digital media trends to serve their constituencies best. Stay tuned to DigitalGov for more [trends]({{< ref "/topics/emerging-tech" >}}) and [mobile]({{< ref "/topics/mobile" >}}) news.

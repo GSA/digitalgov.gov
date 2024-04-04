@@ -6,11 +6,8 @@ summary: When websites were first created back in the 1990s, developers perfecte
 authors:
   - bbrantley
 topics:
-  - api
-  - content-management-system
-  - DOJ
-  - us-department-of-justice
-  - wednesday-api-briefing
+  - application-programming-interface
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/12/250-x-444-Justice-DOJ-law-jobs-iPhone-app.jpg" alt="Department of Justice Law Jobs iPhone app search results screen" >}}When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content creation became easier through blogs, wikis, and microblogging. Even so, content was still attached to that particular content creation tool.
@@ -21,7 +18,7 @@ With the rise of [APIs]({{< ref "2013-04-30-apis-in-government.md" >}} "APIs in 
 
 The Department of Justice just released two APIs that give developers both DOJ public relations content and job openings. Developers can repurpose over 14,000 press releases, blog postings, job and speeches using the <a href="http://www.justice.gov/developer/api-documentation/api_v1" target="_blank">DOJ News API</a>. Alternatively, developers can create a legal job search app (like the <a href="https://itunes.apple.com/us/app/doj-law-jobs/id905071111?mt=8&ign-mpt=uo%3D4" target="_blank">DOJ Law Jobs app</a>) using the <a href="http://www.justice.gov/developer/api-documentation/api_v1#vacancy-announcements-index" target="_blank">DOJ Law Jobs API</a>.
 
-Freeing content allows for greater innovation in using and displaying that content. Federal APIs that provide content such as blog postings, videos, and job information can be spread further than just the federal agency’s website. Content APIs make government information much more valuable and useful to the American public thanks to creativity of app developers._Thank you for reading the [API Briefing]({{< ref "/topics/wednesday-api-briefing" >}}) this year. I will be taking a short holiday break, but will be resuming my column in the New Year._
+Freeing content allows for greater innovation in using and displaying that content. Federal APIs that provide content such as blog postings, videos, and job information can be spread further than just the federal agency’s website. Content APIs make government information much more valuable and useful to the American public thanks to creativity of app developers._Thank you for reading the [API Briefing]({{< ref "/topics/application-programming-interface" >}}) this year. I will be taking a short holiday break, but will be resuming my column in the New Year._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:bill.brantley@wdc.usda.gov)_._
 _**Dr. William A. Brantley** is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_. All opinions are his own and do not reflect the opinions of the USDA and GSA._
 

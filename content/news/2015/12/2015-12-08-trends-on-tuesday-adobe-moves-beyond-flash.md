@@ -7,9 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile-friendly
-  - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 Half a decade since [Steve Jobs declared war on Adobe Flash</span>](http://www.apple.com/hotnews/thoughts-on-flash/) <span style="font-weight: 400">and refused to support it on Apple’s mobile and tablet devices, </span>[<span style="font-weight: 400">Flash is finally losing its crown</span>](http://blogs.adobe.com/conversations/2015/11/flash-html5-and-open-web-standards.html) <span style="font-weight: 400">as one of the stand-alone products of Adobe. </p> <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg">{{< legacy-img src="2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg" alt="An illustration of a film reel merging with a smart phone to represent mobile video" caption="" >}}</a> 
@@ -23,7 +21,7 @@ Half a decade since [Steve Jobs declared war on Adobe Flash</span>](http://www.a
 </p>
 
 <p>
-  Some government websites still use Flash, though, and need to update to more </span><span style="font-weight: 400"><a href="{{< ref "/topics/mobile-friendly" >}}">mobile-friendly</a></span><span style="font-weight: 400">, <a href="{{< ref "/topics/responsive-web-design" >}}">responsive</a> options</span><span style="font-weight: 400"> as the </span><a href="{{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}"><span style="font-weight: 400">government audience moves closer and closer to mobile-dominated</span></a><span style="font-weight: 400">. </p> 
+  Some government websites still use Flash, though, and need to update to more </span><span style="font-weight: 400"><a href="{{< ref "/topics/mobile" >}}">mobile-friendly</a></span><span style="font-weight: 400">, <a href="{{< ref "/topics/mobile" >}}">responsive</a> options</span><span style="font-weight: 400"> as the </span><a href="{{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}"><span style="font-weight: 400">government audience moves closer and closer to mobile-dominated</span></a><span style="font-weight: 400">. </p> 
   
   <p>
     Read more of <a href="{{< ref "/topics/mobile" >}}">DigitalGov’s mobile best practices</span></a><span style="font-weight: 400"> to help get your agency up-to-date.</p>

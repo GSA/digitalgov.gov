@@ -6,9 +6,6 @@ summary: 'In a move to win back users and improve the company’s image, Twitter
 authors:
   - julia-jackson
 topics:
-  - content
-  - social-media
-  - content
   - content-strategy
   - social-media
 ---

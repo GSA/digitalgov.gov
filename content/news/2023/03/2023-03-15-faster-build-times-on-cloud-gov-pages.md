@@ -10,7 +10,7 @@ summary: We’ve made two recent changes to cloud.gov Pages to make website
   deployment faster so you can focus on your code, design, and content.
 # See all topics at https://digital.gov/topics
 topics:
-  - cloud-gov
+  - cloud-and-infrastructure
 slug: faster-build-times-on-cloud-gov-pages
 # Controls how this page appears across the site
 # 0 -- hidden

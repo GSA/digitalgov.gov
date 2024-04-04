@@ -7,11 +7,7 @@ authors:
   - kelly-olson
 topics:
   - crowdsourcing-and-citizen-science
-  - challenge-gov
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - crowdsourcing
-  - OSTP
+  - challenges-and-prize-competitions
 ---
 
 Do you have a scientific issue to address? Wish you had dozens, hundreds, even thousands more people helping you out?

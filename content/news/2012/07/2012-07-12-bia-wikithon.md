@@ -9,9 +9,6 @@ authors:
 
 topics:
   - mobile
-  - mobile-gov-experience
-  - tribal-government
-
 ---
 
 _Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**._

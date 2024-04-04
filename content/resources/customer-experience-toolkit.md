@@ -3,8 +3,11 @@ slug: customer-experience-toolkit
 date: 2016-01-07 5:52:31 -0400
 title: Customer Experience Toolkit
 summary: "This Toolkit is intended to help government agencies improve how we deliver services and information to the public."
+
 topics:
   - customer-experience
+  - information-collection
+
 authors:
   - rflagg
 
@@ -43,7 +46,6 @@ Make the customer experience a strategic priority for your entire organization.
 - [The Customer Service Playbook for Government (PDF, 17.4 MB, 34 pages, 2015)](https://www.govloop.com/wp-content/uploads/2015/10/CustomerServicePlaybook.pdf) - GovLoop
 - [Serving Citizens: Strategies for Customer-Centered Government in the Digital Age (PDF, 1.3 MB, 44 pages, 2014)](https://ourpublicservice.org/wp-content/uploads/2014/09/809b0d873a2bebe10611a1c4a054e5f0-1422459562.pdf) - Partnership for Public Service
 - [Re-Imagining Customer Service in Government](https://www.govloop.com/govloop-research-report-re-imagining-customer-service-in-government/) - GovLoop
-- [The Essentials of Customer Experience: Going Beyond Customer Service](https://www.youtube.com/watch?v=7MFjWiused8) – YouTube video featuring Forrester and U.S. Department of Education
 
 ### Develop a strategy
 
@@ -242,7 +244,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 - [Lessons from the 2021 Federal Plain Language Report Card](https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/)
 - [Bilingual Glossaries, Dictionaries, and Style Guides](https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides/)
 - [Customer Experience Case Study: CDC’s Clear Communication Index](https://www.youtube.com/watch?v=HdHAAaCNirk) &#8211; YouTube video
-- [Join the Plain Language Communty of Practice](https://digital.gov/communities/plain-language/)
+- [Join the Plain Language Community of Practice](https://digital.gov/communities/plain-language/)
 - [Join the Multilingual Community of Practice](https://digital.gov/communities/multilingual/)
 
 ### Conduct regular and ongoing user testing
@@ -256,7 +258,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 ### Solicit ideas from customers
 
 - [Challenge.gov](https://www.challenge.gov/)
-- [Join the Challenge and Prize Communithy of Practice](https://www.challenge.gov/community/)
+- [Join the Challenge and Prize Community of Practice](https://www.challenge.gov/community/)
 
 ## Measurement
 

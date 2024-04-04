@@ -13,7 +13,7 @@ summary: "Working in U.S. government sharpened all of my product skills. Here ar
 # see all topics at https://digital.gov/topics
 topics: 
   - design
-  - product-management
+  - product-and-project-management
   - user-experience
 
 # see all authors at https://digital.gov/authors

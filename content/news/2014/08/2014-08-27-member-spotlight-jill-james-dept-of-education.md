@@ -6,11 +6,8 @@ summary: 'Welcome to the first edition of a new series of articles spotlighting 
 authors:
   - rflagg
 topics:
-  - content
-  - monthly-theme
-  - responsive-web-design
-  - us-department-of-education
-  - web-content-managers-forum
+  - content-strategy
+  - mobile
 ---
 
 {{< legacy-img src="2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" >}}Welcome to the first edition of a new series of articles spotlighting members of our [Government Web Manager Community]({{< ref "web-managers-forum.md" >}} "Web Content Managers Forum"). This month, we introduce Jill James, who’s the Senior Web Editor/Director for the **Department of Education**, in their Communications and Outreach Office. We asked Jill a few questions about her work at Dept. of Ed, as well as her life outside of work, and we’re happy for the chance to get to know her better!

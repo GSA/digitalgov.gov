@@ -1,3 +1,4 @@
+
 ---
 slug: the-content-corner-humanizing-structured-content
 date: 2015-06-01 10:00:43 -0400
@@ -6,12 +7,7 @@ summary: 'Over the past several years, DigitalGov has been extremely focused on 
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
-  - content-models
-  - open-and-structured-content-models
-  - structured-content
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/05/600-x-335-Human-Connection-gray-tonivaver-iStock-Thinkstock-466180691.jpg" alt="Network of human figures" caption="" >}} 
@@ -37,7 +33,7 @@ By default I approach every content provider or SME as someone who is [terribly 
 
 {{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="A graphic illustrating the COPE (Create Once, Publish Everywhere) content model strategy" >}}
 
-The [create once, publish anywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) (COPE) concept can be a powerful explanatory device, as long as you don’t jump too far into things like [APIs]({{< ref "/topics/api" >}}). But for someone who is either overworked or concerned about budgets and workloads, the idea that a little extra time on a few additional fields will allow one piece of content to be reused in a wide variety of ways has appeal.
+The [create once, publish anywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) (COPE) concept can be a powerful explanatory device, as long as you don’t jump too far into things like [APIs]({{< ref "/topics/application-programming-interface" >}}). But for someone who is either overworked or concerned about budgets and workloads, the idea that a little extra time on a few additional fields will allow one piece of content to be reused in a wide variety of ways has appeal.
 
 ## Content Was Made to Be Seen
 
@@ -55,4 +51,4 @@ We need to speak in plain language and be able to clearly show the ROI both shor
 
 **The old adage of &#8220;do it right the first time&#8221; has rarely been more true than with structured content.** And without both the content creators and managers fully embracing the necessity and benefits of structured content, then models, a CMS, and metadata can only do so much.
 
-Have you had success communicating with various stakeholders about structured content? Please share in the comments below._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Have you had success communicating with various stakeholders about structured content? Please share in the comments below._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

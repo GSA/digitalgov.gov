@@ -8,7 +8,7 @@ summary: We're reflecting on our Bug Bounty program for the last 3 years and
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - crowdsourcing
+  - crowdsourcing-and-citizen-science
 # See all authors at https://digital.gov/authors
 authors:
   - alyssa-feola

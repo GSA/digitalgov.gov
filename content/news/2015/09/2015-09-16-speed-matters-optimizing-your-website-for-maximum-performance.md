@@ -6,16 +6,9 @@ summary: 'During a recent DigitalGov University webinar, Jeremy Vanderlan, Techn
 authors:
   - jparcell
 topics:
-  - content
-  - mobile
-  - monthly-theme
   - analytics
-  - HHS
+  - content-strategy
   - mobile
-  - mobile-testing
-  - mobile-ux-guideline-4
-  - recaps
-  - united-states-department-of-health-and-human-services
 
 ---
 

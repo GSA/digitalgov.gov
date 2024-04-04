@@ -6,12 +6,7 @@ summary: A case study on how the Department of Education used the Drupal content
 authors:
   - jennifer-reeves
 topics:
-  - content
-  - CMS
-  - content-management-system
-  - drupal
-  - structured-content
-  - us-department-of-education
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/07/250-x-188-Web-design-concept-Gears-on-Html-Code-background-maxkabakov-iStock-Thinkstock-469530729.jpg" alt="Web design concept: Gears on HTML Code background" caption="" >}}

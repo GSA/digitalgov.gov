@@ -6,16 +6,9 @@ summary: 'The Food and Drug Administration collects drug labeling information fo
 authors:
   - bbrantley
 topics:
-  - api
-  - code
-  - data
-  - strategy
-  - policy
-  - api
-  - GitHub
-  - national-institutes-of-health
-  - National Library of Medicine
-  - wednesday-api-briefing
+  - application-programming-interface
+  - software-engineering
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" >}}The Food and Drug Administration collects drug labeling information for human prescription, over-the-counter, homeopathic, and veterinary products through a special [markup language](http://en.wikipedia.org/wiki/Markup_language "Definition of Markup Language") called “[Structured Product Labeling](http://www.fda.gov/forindustry/datastandards/structuredproductlabeling/default.htm "Structured Product Labeling")” (SPL). The database created from the SPL submissions is a treasure trove of health information that is valuable to pharmacists, doctors, and the ordinary health consumer. The problem is that data is hard for developers to access and process. Until recently, when the National Library of Medicine released open source code for “[Pillbox](http://developmentseed.org/blog/2014/05/23/pillbox-launches-on-github/ "Pillbox on Github").”

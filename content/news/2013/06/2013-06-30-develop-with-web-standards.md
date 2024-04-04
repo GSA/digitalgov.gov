@@ -6,8 +6,8 @@ summary: 'What It Is Do you remember the days when web pages had banners announc
 authors:
   - gray-brooks
 topics:
-  - code
-  - draft-web-design-standards
+  - software-engineering
+  - design
 ---
 
 ## What It Is

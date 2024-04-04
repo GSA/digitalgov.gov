@@ -13,7 +13,7 @@ summary: Back in March, we shared about the work we were doing to develop BEARS,
   an update.
 # See all topics at https://digital.gov/topics
 topics:
-  - usa-gov
+  - software-engineering
 slug: helping-people-discover-benefits-with-the-new-bears-locator
 # Controls how this page appears across the site
 # 0 -- hidden

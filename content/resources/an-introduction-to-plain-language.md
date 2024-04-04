@@ -8,7 +8,7 @@ summary: Understand how and why to use plain language on government websites and
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - writing
+  - communication
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

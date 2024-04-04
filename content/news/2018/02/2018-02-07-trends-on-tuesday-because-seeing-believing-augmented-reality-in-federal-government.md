@@ -6,10 +6,9 @@ summary: 'See how augmented reality may be used for data management and cybersec
 authors:
   - jada-jones
 topics:
-  - product-management
-  - augmented-reality
-  - virtual-augmented-reality-community
-  - Trends On Tuesday
+  - product-and-project-management
+  - multimedia
+  - emerging-tech
 featured_image:
   uid: augmented-reality-marketing
   alt: 'Augmented reality glasses technology concept.'
@@ -37,4 +36,4 @@ There are many technology-related challenges facing the federal government today
 
 ---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

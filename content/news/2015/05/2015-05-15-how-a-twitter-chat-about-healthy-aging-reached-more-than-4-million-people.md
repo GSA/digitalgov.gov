@@ -7,9 +7,6 @@ authors:
   - yasmine-kloth
 topics:
   - social-media
-  - national-institutes-of-health
-  - nih
-  - social-media
 ---
 
 [{{< legacy-img src="2015/05/250-x-496-NIH-NCCIH-april-29-2015-Age-Well-Twitter-chat.jpg" alt="NIH NCCIH Age Well Twitter Chat from April 29, 2015" >}}](https://twitter.com/NIH_NCCIH/status/593476278784753664/photo/1)There are multiple [health-related Twitter chats](http://www.symplur.com/healthcare-hashtags/tweet-chats/) every day of the week. There are chats focused on specific conditions, on the healthcare system, on treatments, on products and on practices. If your agency or organization is interested in leading a conversation in this sphere, it can be a challenge to have your voice heard and messages shared in an impactful way.

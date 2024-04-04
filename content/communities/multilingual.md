@@ -5,7 +5,7 @@
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: "Multilingual"
-summary: "Brings together government multilingual content managers to expand and improve digital content in languages other than English."
+summary: "Expand and improve digital content in languages other than English."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -34,6 +34,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Multilingual
 dg_acronym: ML
+dg_logo: communities-multilingual.svg
 
 community_list:
   - platform: listserv
@@ -41,7 +42,7 @@ community_list:
     subscribe_email: "fmwc-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Multilingual Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 657
+    members: 702
     join_cop_button: "Multilingual community members"
 
 kicker: "Join the Multilingual Community"

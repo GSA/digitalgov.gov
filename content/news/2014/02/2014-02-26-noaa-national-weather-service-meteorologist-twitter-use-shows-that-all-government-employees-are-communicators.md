@@ -7,10 +7,6 @@ authors:
   - mike-kruger
 topics:
   - social-media
-  - department-of-commerce
-  - NOAA
-  - NWS
-  - social-media
 ---
 
 [{{< legacy-img src="2014/02/NOAA-NWS-Indianapolis-Tweet-250x181.jpg" alt="Screenshot of Tweet from NOAA's Indianapolis Meterologist dispelling a snowstorm prediction" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/NOAA-NWS-Indianapolis-Tweet.jpg)During the run up to a recent winter storm, Twitter was aflutter with reports of 20-30 inches of snow falling across wide swaths of the Midwest. Unfortunately for snow lovers, those rumors were highly speculative and unfounded. That didn’t stop members of the public from contacting their local National Weather Service (NWS) Weather Forecast Office (WFO) with questions about the storm, so NWS Meteorologist Mike Ryan from the Indianapolis WFO used his [office’s Twitter account](https://twitter.com/NWSIndianapolis/status/429237124945416192) to inform the public that “Rumors of 20-30&#8243; of #snow are EXTREMELY premature & improbable and not supported by fcst model data at this time.” That Tweet was retweeted 169 times as truth tried to catch up with fiction, thus effectively ending the rumors.

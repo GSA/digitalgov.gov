@@ -10,10 +10,9 @@ summary: "We spoke to Ammie Farraj Feijoo, GSA’s 21st Century IDEA implementat
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - design
-  - metrics
-  - uswds
+  - analytics
   - user-experience
   
 

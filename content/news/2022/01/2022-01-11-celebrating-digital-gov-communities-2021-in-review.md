@@ -5,7 +5,7 @@ deck: Happenings, milestones, and data points from the past year.
 summary: Happenings, milestones, and data points from the past year.
 # See all topics at https://digital.gov/topics
 topics:
-  - communities
+  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - toni-bonitto
