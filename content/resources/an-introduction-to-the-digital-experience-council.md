@@ -5,6 +5,10 @@ title: An introduction to the Digital Experience Council
 deck: A cross-agency group designed for delivering a digital-first public experience
 summary: The Digital Experience (DX) Council plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.
 
+# Redirects: Enter the paths of the old URLs that you want redirected to this page.
+aliases:
+  - /resources/federal-web-council/
+
 # See all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
