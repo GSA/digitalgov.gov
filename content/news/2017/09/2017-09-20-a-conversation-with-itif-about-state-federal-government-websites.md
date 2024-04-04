@@ -8,24 +8,15 @@ authors:
 topics:
   - accessibility
   - design
-  - metrics
-  - mobile
-  - user-testing-and-research
-  - accessibility
-  - content
+  - analytics
   - content-strategy
-  - metrics
-  - mobile
-  - mobile-first
   - plain-language
-  - responsive-web-design
+  - mobile
   - search-engine-optimization
-  - section-508
   - security
-  - seo
   - usability
   - user-experience
-  - user-research
+  - research
 
 primary_image: "itif-presentation-title-slide"
 
@@ -33,7 +24,7 @@ primary_image: "itif-presentation-title-slide"
 
 At the beginning of 2017, the ITIF (Information Technology and Innovation Foundation) released [a report](https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/) that benchmarked 300 federal websites in four areas: page-load speed, mobile friendliness, security and accessibility. Some sites fared better than others, but the report highlighted that our federal sites have a ways to go (DigitalGov included) in these areas.
 
-{{< youtube "Mu-MXrkv0sw" >}} 
+{{< youtube id="Mu-MXrkv0sw" >}} 
 
 Looking at these four metrics is important as they directly impact our customers’ first perceptions of the quality of our government’s digital services.
 
@@ -43,7 +34,7 @@ Since it’s been nearly six months since the report was released, we wanted to 
 
 ---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 _Federal agencies can register their mobile products—mobile websites and native apps—on the [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov/) to verify that they’re [mobile-friendly](https://www.digitalgov.gov/2015/10/23/is-your-site-mobile-friendly/), authoritative sources of government information. [Learn more](https://www.digitalgov.gov/2016/02/29/is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry/) about the Registry (there’s also [an instructional webinar](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)), and [sign up here](https://www.digitalgov.gov/services/u-s-digital-registry/)._
 

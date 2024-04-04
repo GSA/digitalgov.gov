@@ -9,7 +9,7 @@ summary: Join USA.gov as we slowly uncover a conspiracy to scam Americans using
   fake government websites… and then try to foil the caper!
 # See all topics at https://digital.gov/topics
 topics:
-  - metrics
+  - analytics
   - security
 # See all authors at https://digital.gov/authors
 authors:

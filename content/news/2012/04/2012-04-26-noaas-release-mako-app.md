@@ -6,9 +6,6 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - crowdsourcing
-  - mobile-apps
-  - mobile-gov-experience
 ---
 
 _[{{< legacy-img src="2013/11/Release\_Mako\_App.jpg" alt="Screen Shot of NOAA's Release Mako App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Release_Mako_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA)._

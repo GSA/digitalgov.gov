@@ -5,7 +5,6 @@ title: Inventory.data.gov Guide
 summary: "Introduction Features Using inventory.data.gov Creating a User Account Using inventory.data.gov to manage datasets Adding a Dataset Exporting Data.json Automating data.json downloads by agencies Dataset Hosting Webinar on inventory.data.gov Introduction Inventory.data.gov is a data management tool established in 2013 by the Data.gov Program Management Office (PMO) in what is now the Technology Transformation Service of the"
 topics:
   - open-data
-  - data-gov
 authors:
   - pashlock
 redirectto: https://resources.data.gov/resources/inventory-data-gov-guide/
@@ -17,6 +16,8 @@ redirectto: https://resources.data.gov/resources/inventory-data-gov-guide/
     - [Creating a User Account](#creating-a-user-account)
     - [Using inventory.data.gov to manage datasets](#using-inventorydatagov-to-manage-datasets)
     - [Adding a Dataset](#adding-a-dataset)
+    - [Draft Feature](#draft-feature)
+    - [Clone Feature](#clone-feature)
     - [Exporting Data.json](#exporting-datajson)
     - [Automating data.json downloads by agencies](#automating-datajson-downloads-by-agencies)
     - [Dataset Hosting](#dataset-hosting)
@@ -296,7 +297,7 @@ For the time being, the Data.gov PMO will continue to provide this hosting capab
 
 Data.gov, working with DigitalGov University, presented a webinar for agencies interested in using inventory on December 16, 2014\. For more information, consult the recording of the [webinar](http://youtu.be/ciLYjDsF4lo).
 
-{{< youtube "ciLYjDsF4lo" >}}
+{{< youtube id="ciLYjDsF4lo" >}}
 
 Here are some questions and answers raised during the webinar:
 

@@ -7,8 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/03/featured-stopwatch-cropped-301-x-212-250x176.jpg" alt="Stopwatch vector illustration" caption="" >}} 

@@ -17,7 +17,7 @@ summary: Executives often rely on productivity metrics to measure success, but
   tech teams can be better allies.
 # See all topics at https://digital.gov/topics
 topics:
-  - product-management
+  - product-and-project-management
   - governance
 slug: senior-executives-part-5-use-stories-as-leading-indicators
 # Controls how this page appears across the site

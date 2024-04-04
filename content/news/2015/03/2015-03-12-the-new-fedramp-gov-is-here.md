@@ -7,16 +7,13 @@ summary: 'On Wednesday, March 11, FedRAMP unveiled a redesigned FedRAMP.gov. The
 authors:
   - matt-goodrich
 topics:
-  - product-management
-  - cloud
-  - dap
-  - digital-analytics-program
-  - fedramp
-  - responsive-web-design
-  - sites
-  - thursday-mobile-products
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - analytics
+  - security
+  - mobile
+  - content-strategy
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-300-screencap-of-new-FedRAMP-website-homepage-March-12th-2015.jpg" alt="A screencapture of the top part of the new FedRAMP website homepage, March 12, 2015" >}}

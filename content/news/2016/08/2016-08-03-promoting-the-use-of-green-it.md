@@ -6,8 +6,8 @@ summary: 'Summary: We&#8217;re taking action to accelerate efforts to increase t
 authors:
   - tony-scott
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - budgeting-and-performance
 ---
 

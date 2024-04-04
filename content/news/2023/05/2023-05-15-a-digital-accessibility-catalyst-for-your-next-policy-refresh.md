@@ -1,3 +1,4 @@
+
 ---
 date: 2023-05-15 14:51:00 -0500
 title: A digital accessibility catalyst for your next policy refresh
@@ -7,7 +8,6 @@ summary: Use GSA’s IT Accessibility Policy Framework to update digital accessi
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - section-508
   - governance
   - usability
   - user-experience

@@ -19,8 +19,7 @@ end_date: 2019-10-15 13:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - multilingual
-  - multilingual-community
-  - ai
+  - artificial-intelligence
 
 # see all authors at https://digital.gov/authors
 authors: 

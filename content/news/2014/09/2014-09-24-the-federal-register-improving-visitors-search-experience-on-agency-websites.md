@@ -6,9 +6,9 @@ summary: 'The Office of the Federal Register’s mission &ldquo;informs citizens
 authors:
   - rachel-mundstock
 topics:
-  - content
-  - product-management
-  - api
+  - content-strategy
+  - product-and-project-management
+  - application-programming-interface
   - search
   - social-media
 ---

@@ -6,7 +6,6 @@ summary: 'The right partner can be the key to a successful challenge competition
 authors:
   - ktrebon
 topics:
-  - challenges
   - challenges-and-prize-competitions
 ---
 

@@ -6,12 +6,8 @@ summary: 'Rome wasn&#8217;t built in a day. Neither are website redesigns. In li
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - mobile
-  - content-management-system
-  - mobile-ux-guideline-1
-  - responsive-web-design
-  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}Rome wasn&#8217;t built in a day. Neither are website redesigns.

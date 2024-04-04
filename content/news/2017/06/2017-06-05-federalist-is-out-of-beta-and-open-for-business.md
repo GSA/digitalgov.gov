@@ -7,14 +7,11 @@ authors:
   - will-slack
   - jonathan-hooper
 topics:
-  - code
+  - software-engineering
   - design
-  - product-management
-  - cloud
-  - cloud-gov
-  
-  - content-management-system
-  - fedramp
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - content-strategy
   - security
 ---
 

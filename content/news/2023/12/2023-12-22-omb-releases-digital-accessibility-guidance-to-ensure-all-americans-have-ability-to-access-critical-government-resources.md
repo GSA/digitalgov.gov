@@ -24,8 +24,6 @@ summary: The Biden-Harris Administration is championing inclusivity by requiring
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - "508"
-  - section-508
 slug: omb-releases-digital-accessibility-guidance-to-ensure-all-americans-have-ability-to-access-critical-government-resources
 # Controls how this page appears across the site
 # 0 -- hidden

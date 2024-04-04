@@ -8,10 +8,6 @@ authors:
   - jeannie-chen
   - hilary-parkinson
 topics:
-  - content
-  - social-media
-  - strategy
-  - content
   - content-strategy
   - social-media
 ---

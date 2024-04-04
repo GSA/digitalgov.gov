@@ -6,8 +6,7 @@ summary: 'Now you can pull the latest NIH grant content directly into your site.
 authors:
   - christen-geiler
 topics:
-  - content
-  - content-syndication
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/06/250-x-464-Free-Web-Content-from-NIH-three-steps-diagram.jpg" alt="The 3 easy steps to get trusted, up-to-date health information from the National Institutes of Health directly onto your website are: 1) Create a free account at the HHS Syndication Storefront 2) Sign in, browse, and choose your N I H Health Topics 3) Add the code to your site; the info updates automatically. " >}}Content syndication is an easy and cost-free way for you to [add credible NIH health research information]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}) directly to your website. When NIH updates its content, those updates display immediately on your website through syndication, providing timely information for your audiences. Content syndication allows you to maintain the look and feel of your website while supplementing your information with critical, relevant content from NIH.

@@ -6,10 +6,9 @@ summary: Citizen developers are people who do not work in information technology
 authors:
   - bbrantley
 topics:
-  - api
-  - api
+  - application-programming-interface
   - open-data
-  - the-data-briefing
+  - emerging-tech
 ---
 
 Citizen developers are people who do not work in information technology (IT) but have built IT applications. Back in the mid-80s, business people would smuggle in personal computers to run their spreadsheets and word processing applications (anyone remember VisiCalc and Bank Street Writer?) instead of having to rely on data processing departments. Today, citizen developers use <a href="http://www.zdnet.com/article/the-advent-of-the-citizen-developer/" target="_blank">no-code or low-code services such as IFTTT (If This Then That) or QuickBase</a> to build their business apps. {{< legacy-img src="2016/02/600-x-400-Hands-typing-keyboard-Applications-Maxsattana-iStock-Thinkstock-476157656.jpg" alt="Hands typing on a keyboard and floating application icons." caption="" >}} 
@@ -24,5 +23,5 @@ What about citizen developers inside the federal government? I was not able to f
 
 As agencies continue to build APIs and release datasets, agencies should consider how citizen developers may use the federal government’s open data. Although app developers are an important audience, the increasing importance of citizen developers requires just as much consideration when agencies design APIs and associated training materials._*API – Application Programming Interface are how software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 _(IFTTT, Quickbase, Microsoft Excel, Gartner, and IBM were used illustrative purposes and did not imply endorsement by the federal government or any specific federal agency.)_
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

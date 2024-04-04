@@ -22,11 +22,8 @@ event_platform: google
 
 # see all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - user-experience
   - analytics
-  - dap
-  - digital-analytics-program
+  - user-experience
 
 # see all authors at https://digital.gov/authors
 authors:

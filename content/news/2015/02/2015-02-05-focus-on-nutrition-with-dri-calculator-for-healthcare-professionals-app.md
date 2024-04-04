@@ -7,9 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Federal Mobile Products Registry
-  - native-app
-  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2015/02/250-x-333-USDA-DRI-Calculator-for-Healthcare-Professionals-iPad-app-menu.jpg" alt="USDA DRI Calculator for Healthcare Professionals iPad app menu" >}}For those of us who need to get our diet under control—and keep it that way—we surely have noticed the recent explosion of health apps and wearable fitness trackers. No doubt we’ve all thought about buying one of those at $100 to $150 bucks a pop even if we didn’t know for sure exactly what it did.

@@ -7,9 +7,7 @@ authors:
   - rachel-hurley
 topics:
   - mobile
-  - Making Mobile Gov
-  - mobile-gov
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [Sparksheet](https://web.archive.org/web/20130813141158/http://www.sparksheet.com/creating-mobile-personas-to-guide-your-mobile-strategy/) recently posted an article by Greg Hickman, where he explains how to create mobile personas for your consumers when developing a mobile strategy.
@@ -20,7 +18,7 @@ When it comes to mobile marketing and strategy, he says it&#8217;s easy to get c
 > 
 >   * 18-34 years old
 >   * Likely to have smartphone/follow trends
->   * Likely to download apps, scan QR  codes, watch videos and research products
+>   * Likely to download apps, scan QR codes, watch videos and research products
 > 
 > **Green Thumbs:**
 > 
@@ -32,7 +30,7 @@ When it comes to mobile marketing and strategy, he says it&#8217;s easy to get c
 > 
 >   * 35-65 years old; more likely to have teenage children
 >   * Spend free time with family
->   * Likely to increase mobile search behavior, text  messages, online product research
+>   * Likely to increase mobile search behavior, text messages, online product research
 
 {{< legacy-img src="2013/07/mobile-heat-map.jpg" alt="This chart shows how different age groups interact with their mobile devices." >}}
 

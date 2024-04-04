@@ -7,8 +7,7 @@ summary: These FAR Council updates are effective as of September 10, 2021.
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - far
-  - section-508
+  - acquisition
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

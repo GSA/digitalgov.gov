@@ -6,8 +6,7 @@ summary: 'In a recent event titled: &#8220;Intro to APIs: Working with URLs, JSO
 authors:
   - zeshan-khan
 topics:
-  - api
-  - api
+  - application-programming-interface
 ---
 
 In a recent event titled: &#8220;Intro to APIs: Working with URLs, JSON, APIs, and Open Data—Without Writing Any Code,&#8221; federal practitioners and supporters interested in open data attended an in-person workshop, led by Eric Mill, a key developer on GSA&#8217;s 18f team. This event was especially targeted to non-developers and explored the basics of APIs, [using the Congress API](http://sunlightlabs.github.io/congress/), offered by the Sunlight Foundation, as an example. The purpose of the event was to showcase that anybody of any skill level can understand and use APIs without any coding knowledge! Below are some takeaways for those who weren’t able to attend the event.

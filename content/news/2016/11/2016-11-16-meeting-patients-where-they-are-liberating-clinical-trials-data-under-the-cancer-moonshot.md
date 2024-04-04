@@ -7,13 +7,11 @@ authors:
   - sheila-prindiville
   - michael-balint
 topics:
-  - api
-  - code
-  - content
+  - application-programming-interface
+  - software-engineering
+  - content-strategy
+  - open-data
   - user-experience
-  - api
-  - code
-  - content
   - innovation
 ---
 

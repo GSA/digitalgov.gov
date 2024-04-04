@@ -6,7 +6,7 @@ summary: 'The Open Data Prioritization Toolkit is categorized into phases of und
 authors:
   - cio-council-operations-staff
 topics:
-  - content
+  - content-strategy
   - open-data
 ---
 

@@ -1,9 +1,3 @@
-{{ $path := "" }}{{ with .File }}
-  {{ $path = .Path }}
-{{ else }}
-  {{ $path = .Path }}
-{{ end }}
-
 {{ $now := now.Format "2006-01-02" }}
 {{ $eventDate := .Date.Format "2006-01-02" }}
 {{ $isPastEvent := cond (lt $eventDate $now) true false }}
@@ -13,7 +7,6 @@
   class="card card-event {{ if $isPastEvent }}
     card-event--past
   {{ end }}card-linked"
-  data-gh-edit-page="{{- $path -}}"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ .Title | urlize }}"
 >
@@ -56,13 +49,6 @@
           </svg>
           Watch Video
         </div>
-      {{- end -}}
-
-      {{- if .Params.host -}}
-        <p class="card-event__host">
-          Hosted by Digital.gov and the
-          {{ .Params.host }}
-        </p>
       {{- end -}}
 
       {{ if $isPastEvent }}

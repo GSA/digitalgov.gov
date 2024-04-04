@@ -7,8 +7,6 @@ authors:
   - brandon-barr
 topics:
   - mobile
-  - responsive-web-design
-  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2013/08/Screenshot_2013-08-12-11-58-161.png" alt="The United States Environmental Protection Agency (EPA) has upgraded its 'How's My Waterway?' website into a responsive design website, meaning it is available on any screen size: desktop, tablet, or smartphone." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/Screenshot_2013-08-12-11-58-161.png)The [United States Environmental Protection Agency](http://epa.gov/) (EPA) has upgraded its [&#8216;How&#8217;s My Waterway?&#8217;](http://watersgeo.epa.gov/mywaterway/) website into a responsive design website, meaning it is available on any screen size: desktop, tablet, or smartphone. Now anytime, anywhere, the public will be able to check the condition of their local waterways.

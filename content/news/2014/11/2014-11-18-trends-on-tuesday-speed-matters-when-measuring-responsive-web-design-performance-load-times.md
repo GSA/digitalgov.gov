@@ -8,11 +8,7 @@ authors:
 topics:
   - design
   - mobile
-  - mobile-gov
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-4
-  - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
   - user-experience
 ---
 

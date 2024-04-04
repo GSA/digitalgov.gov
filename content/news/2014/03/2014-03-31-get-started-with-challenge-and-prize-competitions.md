@@ -6,11 +6,7 @@ summary: 'Interested in running a challenge and prize competition, but don&#8217
 authors:
   - ktrebon
 topics:
-  - challenges
-  - apps-challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
   - innovation
 ---
 
@@ -20,7 +16,7 @@ Interested in running a [challenge and prize competition]({{< ref "2013-11-01-fe
 
 1) <a title="link to Challenge.gov" href="https://challenge.gov/">Challenge.gov</a>. Put your agency&#8217;s challenges on this government-wide listing and learn about more than 300 public prizes run over the past four years. You can filter by agency and challenge type, such as software, ideas, designs. Built and hosted by GSA, you can also use it to run crowdsourcing competitions end to end.  This is available for federal agencies at no cost. <strong>On-demand webinar:</strong> <a href="{{< ref "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}" target="_blank">Crowdsource Ideas with Competition Platform</a>
 
-2) <a title="link to Challenges page on DigitalGov.gov" href="{{< ref "/topics/challenges" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
+2) <a title="link to Challenges page on DigitalGov.gov" href="{{< ref "/topics/challenges-and-prize-competitions" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
 
    * [Software/apps]({{< ref "2013-11-06-software-and-apps-challenges.md" >}} "Software/apps challenge toolkit")
    * [Creative: video/photo/poster]({{< ref "2013-10-31-creative-challenge-contests.md" >}} "link to toolkit on how to run a video poster or photo contest")

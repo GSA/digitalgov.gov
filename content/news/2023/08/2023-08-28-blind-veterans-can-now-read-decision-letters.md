@@ -12,7 +12,6 @@ summary: VA now offers accessibility to blind Veterans so they can independently
 topics:
   - accessibility
   - usability
-  - section-508
 slug: blind-veterans-can-now-read-decision-letters
 # Controls how this page appears across the site
 # 0 -- hidden

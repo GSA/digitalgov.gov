@@ -18,12 +18,12 @@ summary: "The USAGov program has been developing a new iteration of our
   content creation, analytics, and outreach. "
 # See all topics at https://digital.gov/topics
 topics:
-  - marketing
+  - communication
   - user-experience
-  - content
+  - content-strategy
   - design
   - multilingual
-  - performance
+  - budgeting-and-performance
   - analytics
 slug: building-beta-the-foundation
 # Controls how this page appears across the site

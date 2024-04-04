@@ -13,7 +13,7 @@ host: Plain Language
 registration_url: https://www.eventbrite.com/e/responding-to-the-federal-plain-language-report-card-registration-51527002652
 captions: https://www.captionedtext.com/client/event.aspx?EventID=3817183&CustomerID=321
 topics:
-  - content
+  - content-strategy
   - plain-language
 ---
 

@@ -6,8 +6,7 @@ summary: Throughout my five-plus months so far on this blog, I have focused a gr
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - the-content-corner
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/07/600-x-210-Content-Writing-Block-Vertical-Pens-ileezhun-iStock-Thinkstock-472384968.jpg" alt="the words, Content Writing over a block of random placeholder text with vertical pen nibs" caption="" >}} 
@@ -56,5 +55,5 @@ Purina’s Puppyhood site has also been called “heavily branded,” coming off
 
 [Natalie Burg of Contently](https://natalieburg.contently.com/) sums it up nicely: “Put simply, helpful content is valuable content.” And the creation of helpful content is not an easy task, but it is a vital one that, in my opinion, can’t be handled lightly and can’t be outsourced to hired guns and certainly not robots. Content creation needs to be handled with expertise and passion and with a voice that resonates with the audience.
 
-_You’ve just finished reading the third article from a new column called [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
+_You’ve just finished reading the third article from a new column called [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
 _Tyrus “Ty” Manuel is an IT Specialist with the Administrative Office of the U.S. Courts and has been passionate about digital content since at least 1994._

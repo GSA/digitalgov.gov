@@ -7,8 +7,8 @@ summary: 'The potential to transform government and impact the lives of American
 authors:
   - gsa-blog-team
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - innovation
 primary_image: "nongkran-ch-istock-getty-images-487970224-comp"
 

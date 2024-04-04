@@ -7,9 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile-apps
   - multilingual
-  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2014/01/your-art-picture2.jpg" alt="Your Art Screenshot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/your-art-picture2.jpg)Earlier this year the [National Gallery of Art](http://www.nga.gov/content/ngaweb.html) released their &#8220;Your Art&#8221; app on iOS and now they have released [an Android version](http://apps.usa.gov/yourart.shtml).

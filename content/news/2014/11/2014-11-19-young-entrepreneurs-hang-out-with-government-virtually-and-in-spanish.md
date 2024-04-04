@@ -6,9 +6,8 @@ summary: 'It’s a well-known fact that the Hispanic population is growing at a 
 authors:
   - victoria-wales
 topics:
-  - content
+  - content-strategy
   - social-media
-  - GobiernoUSAgov
   - multilingual
 ---
 
@@ -22,7 +21,7 @@ Responding to these numbers and to increasing demands for resources, the SBA lau
 
 Taking advantage of a growing audience on YouTube, and to expand engagement on USAGov en Espa&#241;ol&#8217;s Google+ community, a Google Hangout seemed to be a good place to start. The hangout, moderated by USAGov en Espa&#241;ol manager Laura Godfrey, included SBA loan experts and a guest appearance from entrepreneur and renowned social media maven, [Elianne Ramos](https://twitter.com/ergeekgoddess). The goal of the hangout was to answer questions in real time, and to provide 30 minutes of quick tips and trustworthy insight for starting your own business (in Spanish).
 
-{{< youtube SRYwxqE6Omg >}}
+{{< youtube id="SRYwxqE6Omg" title="Jóvenes Empresarios (Evento de GobiernoUSA.gov y SBA)" >}}
 
 Small business development, in all its variegated forms, industries and locations, is not a one-size-fits-all narrative. Nor is it explained in 140 characters on Twitter or even a few Facebook or blog posts. Nevertheless, the aim these efforts is to humanize the conversation early and effectively, in a format that is accessible to any Latino entrepreneur.
 

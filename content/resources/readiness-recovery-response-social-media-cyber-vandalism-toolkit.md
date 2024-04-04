@@ -5,12 +5,15 @@ title: "Social Media Cyber-Vandalism Toolkit"
 deck: "Guidance on how to respond to cyber-hijacking."
 summary: "Cyber-vandalism presents a serious challenge to online-based communication tools. This document provides guidance and security practices to federal, state, and local government employees. Suggestions and resources prepare users to respond to cyber-hijacking."
 
+redirectto: https://digital.gov/resources/prepare-recovery-respond-social-media-cyber-vandalism-toolkit/
+
 topics:
   - social-media
   - security
 
 authors:
   - jherman
+
 ---
 
 Cyber-vandalism presents a serious challenge to online-based communication tools. Users need available resources to counter intrusions of social media accounts.

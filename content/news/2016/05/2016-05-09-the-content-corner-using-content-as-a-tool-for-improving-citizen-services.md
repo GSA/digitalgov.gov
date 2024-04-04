@@ -6,8 +6,7 @@ summary: 'It is very refreshing to see the large contingent of government commun
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - the-content-corner
+  - content-strategy
 ---
 
 It is very refreshing to see the large contingent of government communicators who are always seeking to do their job better, with a well-founded desire to provide those they serve with an enhanced experience. Based on a few examples, such as the many [listserv emails]({{< ref "/communities" >}}) that are sent across agencies, DigitalGov’s constant content stream and readership, and the many conferences and sessions related to communications—including [webinars]({{< ref "/events" >}})—it’s easy to say we have the best job in government.
@@ -42,4 +41,4 @@ After we’ve looked inward, we can consider if our digital communications are a
 
 As government communicators, continuing to experiment with different ways to connect with the public is imperative to getting our message across. With everything you do, ask: &#8220;How does this impact our audience?&#8221;
 
-Do you have a loyal assembly of subscribers to your content via email or other methods? Please share! At FirstNet, we are working to develop additional methods for receiving more feedback on our content; and not just to do it, but to do it in a way that will be mutually beneficial._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Do you have a loyal assembly of subscribers to your content via email or other methods? Please share! At FirstNet, we are working to develop additional methods for receiving more feedback on our content; and not just to do it, but to do it in a way that will be mutually beneficial._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

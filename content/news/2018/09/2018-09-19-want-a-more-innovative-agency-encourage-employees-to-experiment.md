@@ -6,8 +6,8 @@ summary: 'How agency leaders can create a work environment that fosters innovati
 authors:
   - brian-fox
 topics:
-  - devops
-  - product-management
+  - software-engineering
+  - product-and-project-management
   - innovation
 featured_image:
   uid: light-bulb
@@ -39,9 +39,9 @@ Innovation takes time and energy for an organization, but when leaders provide t
 
 _Brian Fox is the Systems Development Branch Chief at the U.S. Geological Survey’s National Geospatial Technical Operations Center (NGTOC)._
 
-* * *
+---
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
 Check out some of DigitalGov’s articles on [the agile methodology](https://digital.gov/tag/agile/) and [innovation](https://digital.gov/tag/innovation/). For some on-the-job training with [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU), register for upcoming [events and webinars](https://digital.gov/events/) (review those you may have missed on [our YouTube Channel](https://www.youtube.com/@DigitalGov)).
 

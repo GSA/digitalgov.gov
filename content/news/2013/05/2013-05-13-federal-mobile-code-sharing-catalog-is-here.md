@@ -6,11 +6,8 @@ summary: 'Federal agencies have a new resource to help them make content and ser
 authors:
   - michael-pulsifer
 topics:
-  - code
+  - software-engineering
   - mobile
-  - mobile
-  - mobile-apps
-  - mobile-code-catalog
 ---
 
 [{{< legacy-img src="2014/01/mobile-codesharing-21-350x214-250x152.jpg" alt="Picture of a desktop computer, laptop and a smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/mobile-codesharing-21-350x214.jpg)Federal agencies have a new resource to help them make content and services available anytime, anywhere, and from any device&#8211;the federal [Mobile Code Catalog](http://gsa.github.io/Mobile-Code-Catalog) sponsored by the Digital Services Innovation Center.

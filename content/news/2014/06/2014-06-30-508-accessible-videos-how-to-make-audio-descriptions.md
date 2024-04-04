@@ -9,8 +9,7 @@ authors:
   - gary-morin
 topics:
   - accessibility
-  - video
-  - section-508
+  - multimedia
   - social-media
 
 ---

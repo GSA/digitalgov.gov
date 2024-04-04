@@ -7,9 +7,7 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - crowdsourcing
-  
-  - open-opportunities-program
+  - professional-development
 ---
 
 {{< legacy-img src="2014/12/600-x-430-Network-nabihariahi-iStock-Thinkstock-178782907.jpg" alt="Network of figures at laptops" caption="" >}} 

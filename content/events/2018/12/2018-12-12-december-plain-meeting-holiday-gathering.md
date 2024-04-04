@@ -22,8 +22,6 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 topics:
   - plain-language
-  - plain-language-community-of-practice
-
 ---
 
 {{< img-right src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}

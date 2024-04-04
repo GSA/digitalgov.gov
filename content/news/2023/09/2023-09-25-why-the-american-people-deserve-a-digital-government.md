@@ -9,32 +9,27 @@ summary: "OMB recently released new policy guidance for government that includes
 
 # See all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - design
   - customer-experience
   - trust
   - user-experience
-  - content
   - content-strategy
-  - strategy
-  - user-centered-design
+  - human-centered-design
   - multilingual
   - search
   - search-engine-optimization
   - plain-language
   - social-media
   - communication
-  - digital-analytics-program
   - analytics
-  - metrics
   - privacy
   - security
   - accessibility
   - governance
   - mobile
-  - pra
-  - writing
-  - performance
+  - budgeting-and-performance
+  - best-practices
   - usability
 
 slug: why-the-american-people-deserve-a-digital-government

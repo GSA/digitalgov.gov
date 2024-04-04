@@ -6,13 +6,9 @@ summary: 'Content models provide an opportunity for agencies to structure, organ
 authors:
   - katie-steffy
 topics:
-  - api
-  - content
-  - api
-  - content-models
-  - metadata
-  - open-and-structured-content-models
-  - structured-content
+  - application-programming-interface
+  - content-strategy
+  - search-engine-optimization
 ---
 
 Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our [What Structured Content Models Can Do For You Webinars]({{< ref "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}} "What Structured Content Can Do For You: Webinar Recap") in May and June.

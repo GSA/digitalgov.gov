@@ -6,12 +6,10 @@ summary: 'This has been an exciting and successful year for Congress.gov. We acc
 authors:
   - andrew-weber
 topics:
-  - content
+  - content-strategy
   - design
-  - product-management
-  - content
-  
-  - user-centered-design
+  - product-and-project-management
+  - human-centered-design
 ---
 
 This has been an exciting and successful year for [**Congress.gov**](https://www.congress.gov/?loclr=bloglaw). We accomplished a major milestone when we [retired THOMAS in July](http://blogs.gov.gov/law/2016/07/time-to-say-goodbye-to-thomas/?loclr=bloglaw). Over the course of 2016, we completed a number of enhancements to Congress.gov. In April we [expanded quick search](http://blogs.gov.gov/law/2016/04/congress-gov-spring-cleaning-expanded-quick-search/?loclr=bloglaw) to include the [Congressional Record](https://www.congress.gov/quick-search/congressional-record?loclr=bloglaw), [Committee Reports](https://www.congress.gov/quick-search/committee-reports?loclr=bloglaw), [Nominations](https://www.congress.gov/quick-search/nominations?loclr=bloglaw), [Treaty Documents](https://www.congress.gov/quick-search/treaty-documents?loclr=bloglaw), and [Communications](https://www.congress.gov/quick-search/communications?loclr=bloglaw).

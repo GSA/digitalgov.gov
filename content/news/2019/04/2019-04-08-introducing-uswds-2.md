@@ -8,13 +8,12 @@ authors:
   - dan-williams
   - maya-benari
 topics:
-  - code
+  - software-engineering
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - user-experience
   - accessibility
-  - public-sans
 featured_image:
   uid: uswds-2-illio-feature-image-black
   alt: 'A colorful collection of screens and interface components'

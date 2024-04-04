@@ -7,9 +7,9 @@ deck: 'Simple planning steps to successfully adapt content into multiple languag
 authors:
   - lgodfrey
 topics:
-  - content
-  - writing
-  - content
+  - content-strategy
+  - communication
+  - content-strategy
   - multilingual
 featured_image:
   uid: translate-keyboard
@@ -59,6 +59,7 @@ Whether designing printing materials or digital content, evaluate at the onset i
 Designing for multilingual offerings is no easy task, but with some preparation and forethought, it can go very smoothly and be really successful.
 
 ---
+
 Join the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/)—a group of multilingual professionals around the government working tirelessly to improve and expand multilingual content for people with limited English proficiency.
 
-_All references to specific brands, products, or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+**Disclaimer**: All references to specific brands, products, or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

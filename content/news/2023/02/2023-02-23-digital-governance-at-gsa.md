@@ -7,9 +7,9 @@ summary: A peek into GSA’s internal processes for managing their websites and 
 # See all topics at https://digital.gov/topics
 topics:
   - governance
-  - project-management
-  - 21st-century-idea
-  - strategy
+  - product-and-project-management
+  - digital-service-delivery
+  - content-strategy
   - customer-experience
 
 # See all authors at https://digital.gov/authors

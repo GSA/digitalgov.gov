@@ -6,9 +6,7 @@ summary: The federal government collects an amazing amount of economic data. Sev
 authors:
   - bbrantley
 topics:
-  - api
-  - united-states-census-bureau
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}}

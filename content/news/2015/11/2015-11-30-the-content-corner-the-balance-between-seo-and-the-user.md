@@ -6,14 +6,9 @@ summary: 'I always think of SEO like the dentist&mdash;no one really likes it, b
 authors:
   - tyrus-manuel
 topics:
-  - content
-  
-  
-  - https
-  - metadata
+  - content-strategy
+  - security
   - search-engine-optimization
-  - seo
-  - the-content-corner
 ---
 
 I always think of SEO like the dentist—no one really likes it, but you need to do it. Yet, despite my lack of excitement for the topic, this will be at a minimum my second post ([here&#8217;s the first]({{< ref "2015-08-31-the-content-corner-optimize-your-content.md" >}}) about the relationship between creating good content and SEO practices.
@@ -45,4 +40,4 @@ For our discussion, the two most important pieces of metadata are those that dis
 
 Descriptions are possibly even more critical. While the title may grab the user’s attention, a well-written description can help them finally decide to click or not. Since the character limit for this field is similar to Twitter’s current limit (around 160 characters), some of the succinct writing best practices for that platform can be useful here. However, the descriptions need to be properly written sentences, not acronyms and emoticons. You should leverage your knowledge of your users and weave known keywords into the sentence. Google displays a user’s search terms in bold when they appear in your description on a SERP. Just as with content in general, unique and original writing is favored over [duplicate or boilerplate offerings](https://support.google.com/webmasters/answer/35624?utm_source=webmasteracademy&utm_medium=web&utm_campaign=webmasteracademy).
 
-Many of the practices shared here are just good SEO and good content creation guidelines. For example, quality metadata also helps your content’s accessibility and its appearance when shared via social media. SEO can also serve as a reminder to do regular content audits to look for outdated or duplicate content. Just remember that the user comes first when it comes to content creation, but if the user can’t find your content, then you’ve wasted your time. Find the appropriate balance between SEO best practices and making quality content and you should be golden._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Many of the practices shared here are just good SEO and good content creation guidelines. For example, quality metadata also helps your content’s accessibility and its appearance when shared via social media. SEO can also serve as a reminder to do regular content audits to look for outdated or duplicate content. Just remember that the user comes first when it comes to content creation, but if the user can’t find your content, then you’ve wasted your time. Find the appropriate balance between SEO best practices and making quality content and you should be golden._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

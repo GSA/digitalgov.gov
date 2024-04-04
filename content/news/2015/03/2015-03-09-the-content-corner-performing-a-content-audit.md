@@ -6,15 +6,12 @@ summary: 'Audit. It&#8217;s a word that generally has no positive connotations w
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - analytics
   - content-strategy
-  - infographic
-  - metadata
-  - the-content-corner
+  - analytics
+  - data-visualization
+  - search-engine-optimization
   - usability
   - user-experience
-
 ---
 
 Audit. It&#8217;s a word that generally has no positive connotations whatsoever. We hear the word audit and we think of tax audits or timesheet audits, etc. The word normally strikes fear or dread in the hearts of most mortals. But it is also a task that all websites will need to perform from time to time, and hopefully after reading today&#8217;s column you can view content audits as positive opportunities and not as dreadful chores.
@@ -48,4 +45,4 @@ The items in this list also remind us that when dealing with existing content, w
 
 By looking at content audits as a chance to improve your site and the user’s experience, it takes on a much different feel as compared to just cleaning up old content on your site. It is a great opportunity to make sure that the content you are providing is optimized for your overall content strategy, which also means it is helping your users/customers as efficiently and effectively as possible. And that’s what its all about, right?
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

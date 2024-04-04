@@ -6,14 +6,10 @@ summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver 
 authors:
   - jparcell
 topics:
-  - code
+  - software-engineering
   - mobile
   - accessibility
-  - api
-  - mobile-app-development-program
-  - mobile-gov
-  - mobile-apps
-
+  - application-programming-interface
 ---
 
 Anytime, Anywhere, Any Device.

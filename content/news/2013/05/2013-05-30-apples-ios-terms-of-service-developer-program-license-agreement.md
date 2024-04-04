@@ -6,10 +6,8 @@ summary: The Apple iTunes App store is the only marketplace for downloading apps
 topics:
   - mobile
   - social-media
-  - ios
-  - mobile
+  - software-engineering
   - terms-of-service
-  - tos
 ---
 
 {{< legacy-img src="2014/08/250-x-250-Apple-App-Store-icon.jpg" alt="250 x 250 Apple App Store icon" >}}The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later be distributed to the public, free of charge.

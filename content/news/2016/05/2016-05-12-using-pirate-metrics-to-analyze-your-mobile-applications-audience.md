@@ -6,15 +6,9 @@ summary: "There are over 200 native applications in the federal government with 
 authors:
   - jparcell
 topics:
-  - metrics
+  - analytics
   - mobile
-  - metrics
-  - mobile-apps
-  - mobile-gov-community-of-practice
-  - mobile-gov
-  - native-apps
-  - prototype
-
+  - design
 ---
 
 What Makes a Native App Successful?
@@ -61,7 +55,7 @@ As Cooper, a psychologist by training, pointed out you can find many low cost an
 
 Watch the webinar to see how you can learn how to use pirate metrics in your agency!
 
-{{< youtube C_P1_iXOwJc >}}
+{{< youtube id="C_P1_iXOwJc" >}}
 
 Helpful Training Links Cooper mentioned in his slides:
 

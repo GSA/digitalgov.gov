@@ -7,18 +7,8 @@ authors:
   - awichman
 topics:
   - mobile
-  - ios
-  - mobile-apps
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-3
-  - mobile-first
-  - mobile-friendly
-  - mobile-gov
-  - native-apps
-  - responsive-web-design
   - terms-of-service
-  - trends-on-tuesday
-
+  - emerging-tech
 ---
 
 A penny saved is a penny earned. But spending your pennies on [mobile development is necessary to meet 21st century needs]({{< ref "2015-09-15-trends-on-tuesday-the-mobile-internet-is-dead-long-live-the-mobile-internet.md" >}}).

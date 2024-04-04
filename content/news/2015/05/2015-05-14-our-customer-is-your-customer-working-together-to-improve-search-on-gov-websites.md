@@ -7,8 +7,8 @@ authors:
   - dmccleskey
 topics:
   - customer-experience
-  - customer-satisfaction
-  - customer-service
+  - customer-experience
+  - customer-experience
   - search
   - search-engine-optimization
 ---

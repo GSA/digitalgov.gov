@@ -8,7 +8,7 @@ summary: IDmanagement.gov has received an update that makes it easier for users 
 topics:
   - security
   - user-experience
-  - project-management
+  - product-and-project-management
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -46,4 +46,4 @@ Ken Myers, the director of the Identity Assurance and Trusted Access Division, s
 
 Check out [IDManagement.gov](https://www.idmanagement.gov/) to learn more about how FICAM can help agencies achieve Zero Trust more quickly. For more information on the new website and how it can help you with your identity management, feel free to contact OGP’s Identity Management team at [icam@gsa.gov](mailto:icam@gsa.gov).
 
-{{< note "activity" >}}**Visit** the new [IDManagement.gov](https://www.idmanagement.gov/) to explore its resources for vendors, program managers, and acquisition professionals.{{< /note >}}
+{{< note variant="activity" >}}**Visit** the new [IDManagement.gov](https://www.idmanagement.gov/) to explore its resources for vendors, program managers, and acquisition professionals.{{< /note >}}

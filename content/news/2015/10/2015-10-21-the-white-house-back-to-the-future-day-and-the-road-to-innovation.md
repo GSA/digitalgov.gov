@@ -7,7 +7,7 @@ summary: 'The White House is marking Back to the Future Day with a series of con
 authors:
   - toni-bonitto
 topics:
-  - product-management
+  - product-and-project-management
   - innovation
   - social-media
   

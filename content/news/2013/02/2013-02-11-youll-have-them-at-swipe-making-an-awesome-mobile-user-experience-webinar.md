@@ -5,8 +5,6 @@ title: 'You&#8217;ll Have Them at Swipe: Making An Awesome Mobile User Experienc
 summary: 'Learn how to create amazing and engaging Mobile Gov User Experiences by watching this webinar. Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine'
 topics:
   - mobile
-  - mobile-apps
-  - mobile-gov
   - user-experience
 ---
 
@@ -26,7 +24,7 @@ In this webinar, Mobile Gov developers from the National Institutes of Health an
 
 Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s, mobile web, mobile implementation in the federal government and the digital government strategy.
 
-{{< youtube EurlOmfLcPA >}}
+{{< youtube id="EurlOmfLcPA" >}}
 
 Three presentations:
 

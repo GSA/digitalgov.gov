@@ -8,10 +8,9 @@ authors:
   - chris-rottler
 
 topics:
-  - strategy
+  - content-strategy
   - design
-  - user-testing-and-research
-  - metrics
+  - research
   - analytics
   - customer-experience
 

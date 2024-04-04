@@ -9,9 +9,8 @@ featured_image:
   uid: hr2331-connected-govt-act
 
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - mobile-apps
   - design
 
 ---

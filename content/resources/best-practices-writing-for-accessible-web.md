@@ -15,7 +15,7 @@ summary: "Tips for making online information accessible for those with auditory 
 
 # see all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - accessibility
   - design
 

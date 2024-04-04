@@ -13,7 +13,7 @@ source_url: "https://www.CitizenScience.gov/"
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-logo: "citizen-science"
+logo: "citizensciencegov"
 
 contact: citizenscience@gsa.gov
 
@@ -29,8 +29,5 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - citizen-science
-  - crowdsourcing
   - crowdsourcing-and-citizen-science
-
 ---

@@ -8,12 +8,9 @@ authors:
   - deborah-bennett
 topics:
   - design
-  - user-testing-and-research
-  - prototype
+  - research
   - usability
-  - usability-testing
   - user-experience
-  
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Eureka-Antonis-Papantoniou-iStock-Thinkstock-93816882.jpg" alt="An aha moment or Eureka! concept graphic shows a dark field of question marks surrounding one bright, electric exclamation point." caption="" >}} 

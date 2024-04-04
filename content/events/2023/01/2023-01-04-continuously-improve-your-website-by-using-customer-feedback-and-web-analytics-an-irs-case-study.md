@@ -2,8 +2,7 @@
 title: "Continuously improve your website by using customer feedback and web
   analytics: An IRS case study"
 kicker: Web Managers & Web Analytics
-summary: Get tips and lessons learned from the Internal Revenue Service on how
-  they collect user feedback and use web analytics to improve applications.
+summary: Get tips and lessons learned from the Internal Revenue Service on how they collect user feedback and use web analytics to improve applications.
 host: Web Managers Community of Practice and Web Analytics Community of Practice
 event_organizer: Digital.gov
 cop_events: ""
@@ -15,14 +14,19 @@ topics:
   - customer-experience
   - user-experience
   - analytics
+  - information-collection
+
 slug: continuously-improve-your-website-by-using-customer-feedback-and-web-analytics-an-irs-case-study
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2023-01-25 13:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 primary_image: 2023-jan-irs-event-title-card
+
 # YouTube ID
 youtube_id: 8zkHN3rxXHw
+
 ---
 
 {{< asset-static file="2023-jan-irs-free-file-presentation.pptx" label="View the slides (PowerPoint presentation, 4.1 MB, 31 pages)" >}}
@@ -50,7 +54,7 @@ In this session, you’ll learn how to:
 
 {{< asset-static file="redesign-old-legacy-application-ux-summit-22.pptx" label="View the slides (PowerPoint presentation, 7.4 MB, 39 pages)" >}}
 
-{{< youtube cl6sVFjzZG4 >}}
+{{< youtube id="cl6sVFjzZG4" title="How to Redesign a 19-Year-old Legacy Application Using Agile and UX Methodologies" >}}
 
 - - -
 

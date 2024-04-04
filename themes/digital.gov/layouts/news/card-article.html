@@ -1,16 +1,9 @@
-{{ $path := "" }}{{ with .File }}
-  {{ $path = .Path }}
-{{ else }}
-  {{ $path = .Path }}
-{{ end }}
-
 {{/* Unique ID to link article to its title in screen readers */}}
 {{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
 
 
 <article
   class="card card-article card-linked"
-  data-gh-edit-page="{{- $path -}}"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"
 >

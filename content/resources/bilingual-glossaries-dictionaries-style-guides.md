@@ -11,10 +11,9 @@ summary: "Multilingual resources to standardize the use of various languages acr
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
-  - multilingual
+  - content-strategy
   - plain-language
-  - multilingual-community
+  - multilingual
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -95,11 +94,14 @@ The U.S. Election Assistance Commission offers translations of Glossary of Elect
 
 The Bureau has more than 1,200 words and terms in five languages:
 
-- [Glossary of English-Chinese Financial Terms (PDF, 999 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf)
-- [Glossary of English-Spanish Financial Terms (PDF, 705 kb, 78 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf)
-- [Glossary of English-Vietnamese Financial Terms (PDF, 875 kb, 73 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_vietnamese-style-guide-glossary.pdf)
-- [Glossary of English-Korean Financial Terms (PDF, 947 kb, 72 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_korean-style-guide-glossary.pdf)
-- [Glossary of English-Tagalog Financial Terms (PDF, 674 kb, 82 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_tagalog-style-guide-glossary.pdf)
+- [Arabic-English glossary of financial terms (PDF, 983 KB, 81 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_arabic-style-guide-glossary.pdf)
+- [Chinese-English glossary of financial terms (PDF, 1.4 MB, 81 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf)
+- [Haitian Creole-English glossary of financial terms (PDF, 772 KB, 81 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_hatiancreole-style-guide-glossary.pdf)
+- [Korean-English glossary of financial terms (PDF, 970 KB, 81 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_korean-style-guide-glossary.pdf)
+- [Russian-English glossary of financial terms (PDF, 926 KB, 82 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_russian-style-guide-glossary.pdf)
+- [Spanish-English glossary of financial terms (PDF, 852 KB, 86 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf)
+- [Tagalog-English glossary of financial terms (PDF, 782 KB, 83 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_tagalog-style-guide-glossary.pdf)
+- [Vietnamese-English glossary of financial terms (PDF, 971 KB, 82 pages)](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_vietnamese-style-guide-glossary.pdf)
 
 #### Federal Housing Finance Agency (FHFA)
 

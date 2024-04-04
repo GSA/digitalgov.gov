@@ -7,7 +7,6 @@ authors:
   - jparcell
 topics:
   - mobile
-  - mobile
   - user-experience
 ---
 

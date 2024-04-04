@@ -20,8 +20,8 @@ end_date: 2020-06-18 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics:
   - design
-  - 21st-century-idea
-  - user-centered-design
+  - digital-service-delivery
+  - human-centered-design
 
 # see all authors at https://digital.gov/authors
 authors:

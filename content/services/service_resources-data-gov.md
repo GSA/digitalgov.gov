@@ -31,8 +31,8 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - api
-  - code
+  - application-programming-interface
+  - software-engineering
   - open-source
   - open-data
 

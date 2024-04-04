@@ -6,7 +6,7 @@ summary: 'Creative content can be found in all corners of the federal space. Rec
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
 ---
 

@@ -1,3 +1,10 @@
+{{/* Display a sidebar of glossary terms populated by a json file used on guide pages.
+
+  Example (click on glossary button):
+  https://digital.gov/guides/hcd/discovery-concepts/
+*/}}
+
+
 <aside
   class="dg-glossary__container"
   aria-describedby="dg-glossary__result"
@@ -9,11 +16,11 @@
       aria-hidden="true"
       focusable="true"
     >
-      <use xlink:href="{{ "/uswds/img/sprite.svg#close" | relURL }}"></use>
+      <use xlink:href="{{ "uswds/img/sprite.svg#close" | relURL }}"></use>
     </svg>
   </button>
-
-  <h2>Glossary</h2>
+  {{/* Used as a hook in `summary-box.js`. */}}
+  <h2 class="dg-glossary__header">Glossary</h2>
   <label for="dg-glossary__search" class="usa-label">Search for a term:</label>
   <input
     id="dg-glossary__search"

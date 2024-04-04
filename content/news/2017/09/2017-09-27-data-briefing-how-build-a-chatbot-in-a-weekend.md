@@ -6,16 +6,14 @@ summary: 'As chatbots have become more popular, some online sites will let you c
 authors:
   - bbrantley
 topics:
-  - code
+  - software-engineering
   - social-media
   - emerging-tech
   - artificial-intelligence
-  - chatbots
-  - content
-  - personas
-  - social-media
-  - writing
-  - rpa
+  - content-strategy
+  - research
+  - communication
+  - robotic-process-automation
   
 featured_image:
   uid: Cropped-chatbot-technology-concept-on-electric-circuit-background-surrounded-by-related-ai-and-chat-icons-zapp2photo-istock-thinkstock-676338286
@@ -27,7 +25,7 @@ The best way to learn a new technical skill is to just play around with the tech
 
 {{< img src="cropped-Chatbot-technology-concept-on-electric-circuit-background-surrounded-by-related-AI-and-chat-icons-Zapp2Photo-iStock-Thinkstock-676338286" caption="Zapp2Photo/iStock/Thinkstock" alt="Chatbot technology concept on electric circuit background surrounded by related AI and chat icons" >}}
 
-Technically, you can build a [basic chatbot in about 10 to 15 minutes](https://www.youtube.com/watch?v=mD6I1dXgzvA). I used [ChatFuel](https://chatfuel.com) to build a Facebook chatbot. ChatFuel is free and has a drag-and-drop builder platform. You create text blocks of responses you can link to respond to user messages. ChatFuel provides an [artificial intelligence]({{< ref "/topics/ai" >}}) (AI) service you can add to your chatbot so it will respond to key terms or phrases. So, if it takes only 15 minutes to build a chatbot, why spend the weekend?
+Technically, you can build a [basic chatbot in about 10 to 15 minutes](https://www.youtube.com/watch?v=mD6I1dXgzvA). I used [ChatFuel](https://chatfuel.com) to build a Facebook chatbot. ChatFuel is free and has a drag-and-drop builder platform. You create text blocks of responses you can link to respond to user messages. ChatFuel provides an [artificial intelligence]({{< ref "/topics/artificial-intelligence" >}}) (AI) service you can add to your chatbot so it will respond to key terms or phrases. So, if it takes only 15 minutes to build a chatbot, why spend the weekend?
 
 You spend most of the weekend creating the conversational routines for the chatbot. Creating conversational routines starts with determining what the purpose of the chatbot is regarding the conversational flow and user journey. For my test chatbot, I decided that the goal of the chatbot is to educate users on leadership development concepts and techniques. I visually mapped out the most common leadership development concepts, questions, and expected conversation paths. You do this in ChatFuel by creating blocks. In other chatbot programming languages, you can set up a database or use an AI service like IBM’s [Watson](https://www.ibm.com/watson/).
 
@@ -45,8 +43,10 @@ So, here is a fun weekend project that can teach you more about the exciting tec
 
 To connect with other federal employees experimenting with or successfully working with chatbots, check out and join our some of our [Communities of Practice]({{< ref "/communities" >}}), such as the Web Content Managers Forum, MobileGov, SocialGov, User Experience (UX), or Artificial Intelligence for Citizen Services.
 
-_(All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+---
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
+**Disclaimer**: All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
 
 _[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

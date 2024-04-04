@@ -11,11 +11,12 @@ topics:
   - challenges-and-prize-competitions
   - customer-experience
   - budgeting-and-performance
-  - mobile-gov
-  - open-opportunities-program
-  - socialgov
+  - mobile
+  - professional-development
+  - social-media
   - user-experience
-  - web-content-managers-forum
+  - content-strategy
+  - information-collection
 
 ---
 

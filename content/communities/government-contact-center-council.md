@@ -11,6 +11,10 @@ redirectto: https://coe.gsa.gov/communities/contact-center.html
 aliases:
   - /government-contact-center-council-g3c/
 
+# See all topics at https://digital.gov/topics
+topics:
+  - contact-centers
+
   # Page weight: controls how this page appears across the site
   # 0 -- hidden
   # 1 -- visible

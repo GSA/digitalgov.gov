@@ -7,11 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Federal CrowdSource Mobile Testing Program
-  - mobile-ux-guideline-1
-  - native-app
-  - open-and-structured-content-models
-  - responsive-web-design
+  - content-strategy
 ---
 
 What’s your mobile itch?

@@ -6,16 +6,14 @@ summary: 'At the DigitalGov Citizen Services Summit last Friday, Jacob Parcell, 
 authors:
   - alison-lemon
 topics:
-  - challenges
-  - code
-  - content
-  - product-management
-  - metrics
+  - challenges-and-prize-competitions
+  - software-engineering
+  - content-strategy
+  - product-and-project-management
+  - analytics
   - mobile
   - social-media
   - user-experience
-  - united-states-census-bureau
-
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}}

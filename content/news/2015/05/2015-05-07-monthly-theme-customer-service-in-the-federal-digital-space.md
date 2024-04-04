@@ -7,10 +7,10 @@ authors:
   - jparcell
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
   - customer-experience
-  - customer-satisfaction
-  - customer-service
+  - customer-experience
+  - customer-experience
 ---
 
 “The customer is king.” “The customer is always right.”

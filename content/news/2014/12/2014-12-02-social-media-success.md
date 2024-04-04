@@ -6,7 +6,7 @@ summary: ' When it comes to implementing a social media strategy, determining ho
 authors:
   - byrhonda-lyons
 topics:
-  - metrics
+  - analytics
   - social-media
 ---
 

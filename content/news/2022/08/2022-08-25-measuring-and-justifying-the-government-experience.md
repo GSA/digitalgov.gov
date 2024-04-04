@@ -21,14 +21,13 @@ summary: "Private sector organizations use revenue as the primary measurement to
 # See all topics at https://digital.gov/topics
 topics:
   - governance
-  - metrics
-  - 21st-century-idea
+  - analytics
+  - open-data
+  - digital-service-delivery
   - customer-experience
   - accessibility
-  - analytics
   - research
-  - user-research
-  - section-508
+  - open-government
   - design
 slug: measuring-and-justifying-the-government-experience
 # Controls how this page appears across the site

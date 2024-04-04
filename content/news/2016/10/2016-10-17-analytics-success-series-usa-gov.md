@@ -6,13 +6,10 @@ summary: 'USA.gov’s Analytics Success: using analytics data to inform design a
 authors:
   - david-kaufmann
 topics:
-  - metrics
   - analytics
-  - dap
-  - digital-analytics-program
+  - open-data
   - usability
   - user-experience
-  
 ---
 
 _USA.gov’s Analytics Success: using analytics data to inform design and responsivity to create a better experience for the user_

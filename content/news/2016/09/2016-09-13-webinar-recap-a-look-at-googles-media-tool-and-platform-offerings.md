@@ -6,23 +6,11 @@ summary: 'Suddenly, digital video is everywhere on your social timelines. As a g
 authors:
   - randy-abramson
 topics:
-  - content
-  - product-management
-  - metrics
-  - mobile
-  - video
-  - analytics
-  - audio-video
-  - content
   - content-strategy
-  - multimedia
-  - metrics
   - mobile
-  - user-generated-content
-  - video
-  - virtual-reality
-  - virtual-augmented-reality-community
-
+  - analytics
+  - multimedia
+  - product-and-project-management
 ---
 
 Suddenly, [digital video is everywhere]({{< ref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}) on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to your social followers on those respective platforms.
@@ -47,4 +35,6 @@ Looking for a way to add 360-degree photos to your content? <a href="https://www
 
 <a href="https://twitter.com/GoogleNewsLab">Follow Newslab on Twitter</a> and <a href="https://www.youtube.com/user/newslabatgoogle">watch Newslab on YouTube</a> to keep up with news about Google’s media production tools and resources.
 
-_Note: The mention of Google, Facebook, Twitter, and SnapChat are used for illustrative purposes, and does not imply an endorsement by the federal government or any specific federal agencies of these products or companies._
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

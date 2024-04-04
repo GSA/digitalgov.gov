@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/cloudgov-diagram-web-app-api.png
+  # Image shortcode: {{< img src=cloudgov-diagram-web-app-api >}}'
+  date     :  2024-01-30 18:25:32 -0400
+  uid      :  cloudgov-diagram-web-app-api
+  width    :  1200
+  height   :  630
+  format   :  png
+  credit   :  
+  caption  :  "Diagram of a Web app and API running on cloud.gov."
+  alt      :  "Users connect to a load balancer, then connect to a cloud.gov router. The router connects to a website, and an API that reads a database."
+  

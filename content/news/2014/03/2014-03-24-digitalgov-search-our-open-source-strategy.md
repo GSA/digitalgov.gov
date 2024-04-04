@@ -6,9 +6,9 @@ summary: 'At DigitalGov Search, we keep an eye on on our what our government cou
 authors:
   - ammie-farraj-feijoo
 topics:
-  - api
-  - code
-  - content
+  - application-programming-interface
+  - software-engineering
+  - content-strategy
   - search
   - open-source
 ---

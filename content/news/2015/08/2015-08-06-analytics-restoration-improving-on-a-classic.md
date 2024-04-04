@@ -6,7 +6,6 @@ summary: Sometimes it is important to take a fresh look at a classic. As we digi
 authors:
   - hhs-digital-analytics-team
 topics:
-  - metrics
   - analytics
 ---
 

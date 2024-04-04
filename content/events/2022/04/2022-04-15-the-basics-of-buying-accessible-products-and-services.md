@@ -17,9 +17,9 @@ topics:
   - accessibility
   - diversity-equity-and-inclusion
   - acquisition
-  - product-management
-  - section-508
-  - strategy
+  - product-and-project-management
+  - content-strategy
+  - best-practices
 
 # See all authors at https://digital.gov/authors
 authors:

@@ -6,11 +6,10 @@ summary: Late last year, Business.USA.gov (BUSA) began transitioning its web pre
 authors:
   - victoria-wales
 topics:
-  - product-management
-  - strategy
+  - product-and-project-management
+  - content-strategy
   - analytics
-  - email marketing
-  - metrics
+  - communication
 ---
 
 Late last year, [Business.USA.gov](https://business.usa.gov/) (BUSA) began transitioning its web presence to USA.gov and with its content, came its social media and email accounts. While transferring ownership of a Twitter account is fairly easy to do from a technical standpoint, transferring email ownership and tools is not.

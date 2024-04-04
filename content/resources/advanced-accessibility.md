@@ -17,9 +17,9 @@ aliases:
 topics:
   - accessibility
   - diversity-equity-and-inclusion
-  - product-management
+  - product-and-project-management
   - plain-language
-  - content
+  - content-strategy
   - content-strategy
   - customer-experience
   - user-experience
@@ -30,7 +30,7 @@ authors:
   - jeremyzilar
 
 # primary Image (for social media)
-primary_image: "accessibility-101-title-card"
+primary_image: "accessibility-icons-symbols-maanas-istock-getty-images-1073019390"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -94,13 +94,13 @@ It’s important to understand that everyone experiences some form of disability
 
 The fix that benefits everyone in this circumstance might be to apply a captioning service to the video. That would directly help Mark who has a permanent disability, but also benefit Jesse and Sam who have temporary and situational disabilities. This is known as the “[Curb-cut effect](https://medium.com/@mosaicofminds/the-curb-cut-effect-how-making-public-spaces-accessible-to-people-with-disabilities-helps-everyone-d69f24c58785).” When we design for people with permanent disabilities, folks with temporary and situational limitations can also benefit.
 
-{{< youtube iWO5N3n1DXU >}}
+{{< youtube id="iWO5N3n1DXU" title="Web Accessibility Perspectives: Video Captions" >}}
 
 According to Microsoft’s Inclusive Design Toolkit, each year in the U.S., approximately 26,000 new people suffer the loss of an upper limb. When we include people with temporary (13 million) and situational impairments (an additional 8 million people), that’s more than 21 million people each year who experience disabilities.
 
 The idea that things that help people with disabilities can benefit everyone inspired the field of universal design, where buildings and objects are designed to be as usable as possible for everyone, regardless of age or ability. When assistive technology (AT) becomes sufficiently ubiquitous and widely used, it is no longer considered assistive technology. It becomes “normal.”
 
-{{< youtube JQ0iMulicgg >}}
+{{< youtube id="JQ0iMulicgg" title="It's not fair having 12 pairs of legs" >}}
 
 Let’s review temporary and situational disabilities in a bit more detail.
 
@@ -214,7 +214,7 @@ If you are able to test screen readers with multiple browsers, the following is 
 
 _This introduction to accessibility was based on content created by the [Technology Transformation Services](https://join.tts.gsa.gov/tts-offices/) (TTS) **Accessibility Guild**. Many thanks to former guild co-leads, **Toni Bonitto (TTS Solutions)**, **Jacklynn Pham (18F)**, **Nikki Lee (18F)**, and **David Stenger (USAgov)** for creating and iterating on this!_
 
-{{< note "activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
+{{< note variant="activity" >}} [**Subscribe** to our weekly newsletter](https://digital.gov/about/subscribe/)&mdash;a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise.
 
 [**Join** our Communities of Practice](https://digital.gov/communities/)&mdash;share resources and collaborate with others focused on building better digital experiences in government.
 
@@ -227,4 +227,6 @@ Some of the communities in the list that have discussions around accessible digi
 
 {{< /note >}}
 
-_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

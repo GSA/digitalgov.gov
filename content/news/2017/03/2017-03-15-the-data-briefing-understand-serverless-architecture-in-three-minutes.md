@@ -6,10 +6,11 @@ summary: 'You may have heard of &ldquo;serverless architecture&rdquo; or Amazon 
 authors:
   - bbrantley
 topics:
-  - product-management
-  - architecture
-  - cloud
-  - the-data-briefing
+  - product-and-project-management
+  - information-architecture
+  - cloud-and-infrastructure
+  - open-data
+  - emerging-tech
 ---
 
 You may have heard of “serverless architecture” or Amazon Web Services (AWS) Lambda product and wondered what is unique about this new buzzword. As with many new digital cloud technologies, serverless architecture could mean two things. It may be applications that are built using third-party cloud applications. Or serverless architectures could be pieces of code that live in the cloud and only run when called on by a user: event-driven functions. One thing that is common to both definitions is that there are servers behind the serverless architectures.
@@ -26,6 +27,10 @@ In the second definition of serverless architecture, the server appears when the
 
 Serverless architecture is still evolving, and I expect to see many new developments as more developers explore event-driven applications. [Expect to see the federal government along with other governments explore the possibilities of serverless architecture in delivering government services to the American public](http://www.govtech.com/opinion/Serverless-Computing-Is-a-Growing-Trend-Heres-What-You-Need-to-Know.html).
 
-_AWS Lambda and Amazon Web Services are used for illustrative purposes and do not imply endorsement by the U.S. federal government or any specific federal agency._
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
-_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+---
+
+**Disclaimer**: AWS Lambda and Amazon Web Services are used for illustrative purposes and do not imply endorsement by the U.S. federal government or any specific federal agency.
+
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
+
+_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

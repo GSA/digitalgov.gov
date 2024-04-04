@@ -6,9 +6,9 @@ summary: 'No Mobile Gov Month on DigitalGov would be complete without an update 
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - internet-of-things
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/10/600-x-450-Image-of-tablet-with-city-urfinguss-iStock-Thinkstock-456860415.jpg" alt="Image of tablet with city" caption="" >}}

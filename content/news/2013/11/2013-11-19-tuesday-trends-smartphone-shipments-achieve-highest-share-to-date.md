@@ -7,7 +7,6 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - mobile
 ---
 
 [{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210-250x175.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Last week, [Gartner reported that global smartphone shipments](http://www.mobilemarketingwatch.com/gartner-smartphone-shipments-achieve-highest-share-to-date-37496/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) have achieved their highest share ever recorded. Worldwide mobile phone sales totaled 455.6 million units in the third quarter of 2013, an increase of 5.7 percent from the same period last year.

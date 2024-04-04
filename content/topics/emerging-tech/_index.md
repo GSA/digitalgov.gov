@@ -10,6 +10,16 @@ title: "Emerging Tech"
 # description — keep it short and clear
 summary: ""
 
+aliases:
+  - /topics/darpa/
+  - /topics/3d-printing/
+  - /topics/augmented-reality/
+  - /topics/blockchain/
+  - /topics/internet-of-things/
+  - /topics/iot/
+  - /topics/the-data-briefing/
+  - /topics/trends-on-tuesday/
+  - /topics/zero-ui/
 
 # Weight
 weight: 2

@@ -7,10 +7,7 @@ authors:
   - zeshan-khan
 topics:
   - mobile
-  - mobile-app-development-program
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." caption="" >}}

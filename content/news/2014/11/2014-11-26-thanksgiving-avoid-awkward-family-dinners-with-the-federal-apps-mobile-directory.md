@@ -6,10 +6,8 @@ summary: 'Are you like me? Do you consistently eat too much on Thanksgiving to a
 authors:
   - kdowney
 topics:
+  - application-programming-interface
   - mobile
-  - api
-  - thursday-mobile-products
-  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2014/11/600-x436-Turkey-and-dog-crspix-iStock-Thinkstock-462138213.jpg" alt="Closeup on a Thanksgiving turkey, with a large white dog eyeing the food in the background" caption="" >}} 

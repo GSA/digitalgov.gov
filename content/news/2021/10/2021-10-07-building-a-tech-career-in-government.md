@@ -6,9 +6,9 @@ summary: Starting a civic tech career in government is not as unusual as you
   think. Current GSA employees share how they are building theirs.
 # See all topics at https://digital.gov/topics
 topics:
-  - professional-development
-  - cloud-gov
-  - dap
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - analytics
 # See all authors at https://digital.gov/authors
 authors:
   - dahianna-salazar-foreman

@@ -16,11 +16,11 @@ end_date: 2021-06-09 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - plain-language-community-of-practice
-  - writing
+  - communication
   - design
   - user-experience
   - user-centered-design
+  - human-centered-design
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

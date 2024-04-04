@@ -50,15 +50,15 @@ In this session, you’ll learn how to:
 
 1. Cultivating a dynamic career in UX - Natalie Buda Smith (time length: 12:06)
 
-{{< youtube m9L-vJn6OlI >}}
+{{< youtube id="m9L-vJn6OlI" title="Cultivating a dynamic career in UX" >}}
 
 2. Cultivating a dynamic career in UX - Michelle Zager (time length: 7:26)
 
-{{< youtube It-I7gcaaBg >}}
+{{< youtube id="It-I7gcaaBg" title="Cultivating a dynamic career in UX" >}}
 
 3. Cultivating a dynamic career in UX - Carlos Alvarado (time length: 8:11)
 
-{{< youtube UW8v-I8JM_U >}}
+{{< youtube id="UW8v-I8JM_U" title="Cultivating a dynamic career in UX" >}}
 
 - - -
 

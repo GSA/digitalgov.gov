@@ -6,9 +6,8 @@ summary: ' Our work at the General Services Administration encompass many of the
 authors:
   - phaedra-chrousos
 topics:
-  - product-management
-  - data-gov
-  - national-action-plan-on-open-government
+  - product-and-project-management
+  - open-data
   - open-government
 ---
 

@@ -9,7 +9,7 @@ summary: Over 67 million people in the United States have a disability, constitu
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - diversity-equity-inclusion-accessibility-deia
+  - digital-service-delivery
 slug: closing-the-disability-divide
 # Controls how this page appears across the site
 # 0 -- hidden

@@ -5,10 +5,8 @@ title: 'A New Version of the FRB’s Money Adventure App Helps Expand Digital Ou
 summary: 'The Android version of the Federal Reserve Board’s first public mobile app, Money Adventure, is now available&#46; See how market research led to its development, and how it differs from the iOS version&#46;'
 authors:
   - ayjah-thomas
-categories:
+topics:
   - mobile
-tag:
-  - mobile-apps
 featured_image:
   uid: money-adventure-welcome-screen
   alt: ''
@@ -27,4 +25,4 @@ Similar to the iOS version, the Android version of _Money Adventure_ contains a 
 
 Download the app in the [Google Play Store](https://play.google.com/store/apps/details?id=com.taoti.moneyadventure) for Android devices or the [App Store](https://apps.apple.com/us/app/money-adventure/id1446642877) for Apple devices!
 
-{{< youtube Z4XCkDhve20 >}}
+{{< youtube id="Z4XCkDhve20" title="Introducing the Money Adventure Android App" >}}

@@ -8,7 +8,7 @@ summary: Use these plays to help strategize how your team can most effectively
   use web analytics for your website and target audience.
 # See all topics at https://digital.gov/topics
 topics:
-  - metrics
+  - analytics
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

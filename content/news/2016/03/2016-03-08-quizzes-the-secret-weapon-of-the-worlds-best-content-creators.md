@@ -6,7 +6,8 @@ summary: 'Online quizzes have rapidly risen to the front of the social media rev
 authors:
   - john-paul
 topics:
-  - content
+  - content-strategy
+
 ---
 
 Online quizzes have rapidly risen to the front of the social media revolution. “In 2014, 8 out of 10 of the most shared articles on the Web were quizzes,” states Owen Fuller of content company Movement Ventures. Content creators leverage quizzes to successfully drive customer engagement and increase customer website conversions (to take action such as filling out a form, supplying an email address or making a purchase.) Federal agencies may benefit from using quizzes as part of their communication strategy.
@@ -26,6 +27,6 @@ Not all quiz questions come answered straight out of the box. When using social 
 
 To learn more about quizzes, you can view the entire webinar.
 
-{{< youtube 0q4ueTABYnQ >}}
+{{< youtube id="0q4ueTABYnQ" >}}
 
 _**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._

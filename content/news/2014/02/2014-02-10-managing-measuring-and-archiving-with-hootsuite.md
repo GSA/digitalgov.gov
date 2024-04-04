@@ -7,8 +7,6 @@ authors:
   - jherman
 topics:
   - social-media
-  - socialgov
-
 ---
 
 Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.
@@ -27,7 +25,7 @@ Highlights of the presentation include:
 
 You can view a recording of the presentation below:
 
-{{< youtube G0Eij3E7RLQ >}}
+{{< youtube id="G0Eij3E7RLQ" title="An overview of the DHS Usability Testing Kit" >}}
   
 Remember, this webinar covered just one of many ways available to agencies to help manage their social media programs — as part of our effort to <a title="Innovation Means More, Better, Cost Effective Digital Training" href="{{< ref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}" target="_blank">offer social media training throughout each month</a>, if you have an idea for an upcoming webinar please contact us at justin.herman@gsa.gov.
 

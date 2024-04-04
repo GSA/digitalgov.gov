@@ -9,11 +9,8 @@ authors:
   - hilary-parkinson
   - dana-allen-greil
 topics:
-  - content
-  - product-management
-  - social-media
-  - strategy
   - content-strategy
+  - product-and-project-management
   - social-media
 ---
 

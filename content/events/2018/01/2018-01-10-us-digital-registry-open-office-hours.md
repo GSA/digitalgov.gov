@@ -17,7 +17,6 @@ aliases:
 topics:
   - mobile
   - social-media
-  - us-digital-registry
 
 ---
 

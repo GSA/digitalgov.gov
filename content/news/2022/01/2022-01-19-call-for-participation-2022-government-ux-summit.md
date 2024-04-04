@@ -6,11 +6,9 @@ summary: "Learn more about the User Experience Summit submission process, and su
 
 # See all topics at https://digital.gov/topics
 topics:
-  - community-ux
   - user-experience
   - customer-experience
   - research
-  - user-research
 # See all authors at https://digital.gov/authors
 authors:
   - jean-fox

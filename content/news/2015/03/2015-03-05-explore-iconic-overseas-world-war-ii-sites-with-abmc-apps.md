@@ -7,9 +7,8 @@ authors:
   - kdowney
 topics:
   - mobile
-  - strategy
-  - mobile-apps
-  - thursday-mobile-products
+  - content-strategy
+ 
 ---
 
 <div class="testimonial small">

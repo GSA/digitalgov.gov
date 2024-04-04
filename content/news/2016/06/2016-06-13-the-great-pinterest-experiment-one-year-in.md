@@ -7,13 +7,9 @@ authors:
   - edgardo-morales
   - phat-nguyen
 topics:
-  - content
-  - product-management
-  - strategy
   - content-strategy
+  - product-and-project-management
   - social-media
-  - social-media-metrics
-
 ---
 
 Last summer, Kids.Gov [revamped](https://blog.usa.gov/how-kids-gov-pins-down-their-audiences) its presence on [Pinterest](https://www.pinterest.com/kidsgov/) in an attempt to find new ways to connect with its followers.

@@ -8,12 +8,7 @@ authors:
 topics:
   - design
   - mobile
-  - user-testing-and-research
-  - mobile
-  - mobile-apps
-  - mobile-ux-guideline-4
-  - mobile-ux-guideline-5
-  - prototype
+  - research
   - user-experience
 ---
 
@@ -33,7 +28,7 @@ Michelle Chronister works on the USA.gov team at the U.S. General Services Admin
 
 So Michelle built a clever (and free!) paper prototype of her mobile sites out of things she found in her office supply room. She printed out early designs of her sites, and created a “mobile viewer” where a user could interact with them.
 
-{{< youtube isKvctKuWFk >}}
+{{< youtube id="isKvctKuWFk" title="How to Make a Mobile Paper Prototype" >}}
 
 Her team wanted to get the opinions of people outside their working group. Over the course of three months they asked potential users in the halls of her building and at a local coffee shop. Michelle said people were “not shy” about saying how they felt about the wire-frame design (i.e., “they hated it”, “didn’t like it at all”, or “thought it was okay”). Honesty equals good data, so even hearing “that’s boring” is helpful. By February 2014 they had tested almost 20 people.
 

@@ -7,7 +7,7 @@ authors:
   - crystal-peeler
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
   - customer-experience
   - usability

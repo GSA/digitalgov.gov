@@ -6,9 +6,9 @@ summary: 'A few days ago a coworker asked me to look at a paragraph. He said it 
 authors:
   - katherine-spivey
 topics:
-  - content
+  - content-strategy
   - user-experience
-  - writing
+  - communication
   - plain-language
 ---
 

@@ -6,18 +6,16 @@ summary: Covering the breadth of federal web policy, the new downloadable checkl
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - content
   - content-strategy
   - user-experience
   - design
   - mobile
   - governance
   - analytics
-  - metrics
   - search
   - privacy
   - security
-  - 21st-century-idea
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg
@@ -36,7 +34,7 @@ In the federal government, this involves all the standard things, like getting a
 
 You’re probably thinking, “How complicated could it be?” 
 
-You may be surprised. Check the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/?dg). This long list covers topics such as accessibility, privacy, security, design, and user experience. 
+You may be surprised. Check the [Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/). This long list covers topics such as accessibility, privacy, security, design, and user experience. 
 
 Fortunately, the [Federal Web Council](https://digital.gov/resources/federal-web-council/) and GSA have developed a new checklist tool. It will help federal agencies understand and meet all the laws, policies, and requirements for their websites and digital services.
 
@@ -45,7 +43,7 @@ This new checklist explains how to meet various criteria:
 * When launching a new website, and 
 * When maintaining that website over time.
 
-Download the {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="Go-Live Checklist for Federal Websites and Digital Services (Excel spreadsheet, 69 KB, 14 tabs)" >}}.
+To have a detailed look at what it takes to comply with policy, you can also [download a copy of the tool as a spreadsheet on the Requirements for Federal Websites and Digital Services page](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/).
 
 ## What’s in the Checklist?
 

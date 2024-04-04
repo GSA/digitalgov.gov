@@ -9,10 +9,9 @@ authors:
   - gil-alterovitz
   - ed-simcox
 topics:
-  - code
-  
+  - software-engineering
   - innovation
-  - mobile-apps
+  - mobile
   - open-data
 featured_image:
   uid: pif-ai-open-data

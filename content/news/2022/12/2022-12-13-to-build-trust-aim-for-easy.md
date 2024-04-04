@@ -5,7 +5,7 @@ summary: "Trust is earned through consistency and commitment. Build sites that b
 
 # See all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - plain-language
   - customer-experience
   - usability
@@ -107,7 +107,7 @@ Maintaining less information in fewer places means faster reviews and posting ti
 * Strategically promote your content and comms channels so people know where to go.
 * Use the same words when talking about the same thing across pages and platforms.
 
-{{< note "activity" >}}**Join the UX Community**<br />
+{{< note variant="activity" >}}**Join the UX Community**<br />
 The [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) brings together government user experience practitioners to create better user-centered products for the public.
 
 **Join the CX Community**<br />

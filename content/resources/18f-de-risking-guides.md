@@ -11,10 +11,9 @@ authors:
 # Topics that best describe this product or service
 topics:
   - acquisition
-  - product-management
-  - strategy
-  - agile
-  - project-management
+  - product-and-project-management
+  - content-strategy
+  - software-engineering
 
 # What source published this?
 source: "18f"

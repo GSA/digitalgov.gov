@@ -15,19 +15,12 @@
 
 
   <main role="main" id="main-content">
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-
-
     <div class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
     </div>
 
     {{/* Default & Collection Header */}}
-    <header class="grid-container-desktop" data-gh-edit-page="{{- $path -}}">
+    <header class="grid-container-desktop">
       <h1
         class="{{ if .Params.legislation }}
           dg-topic__header-title--collection
@@ -49,10 +42,7 @@
     {{/* Collection — Summary & Legislation */}}
     {{ if or .Params.summary .Params.legislation }}
       {{ if $is_first_page }}
-        <div
-          class="grid-container-desktop margin-top-2"
-          data-gh-edit-page="{{- $path -}}"
-        >
+        <div class="grid-container-desktop margin-top-2">
           <div class="grid-row desktop:grid-gap-4">
             <div class="desktop:grid-col margin-bottom-4">
               {{ if .Params.summary }}
@@ -72,10 +62,7 @@
     {{/* Collection — Featured Resources and Communities */}}
     {{ if or .Params.featured_resources .Params.featured_communities }}
       {{ if $is_first_page }}
-        <div
-          class="dg-topic__featured grid-container-desktop"
-          data-gh-edit-page="{{- $path -}}"
-        >
+        <div class="dg-topic__featured grid-container-desktop">
           {{ range .Params.featured_resources.resources }}
             {{ $featured_resource_page := $.GetPage .link }}
             {{ $kicker := "" }}
@@ -135,7 +122,7 @@
       {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
       {{ if $is_first_page }}
         <section class="dg-stream usa-section">
-          <div class="grid-row grid-container-desktop">
+          <div class="grid-container-desktop">
             {{/* Display first 5 events */}}
             {{- $featured_events_stream := first 5 $events -}}
             {{- if $featured_events_stream -}}
@@ -149,7 +136,7 @@
             {{- end -}}
           </div>
 
-          <div class="grid-row grid-container-desktop">
+          <div class="grid-container-desktop">
             {{/* Display first 5 news posts */}}
             {{- $featured_posts_stream := first 5 $posts.ByDate.Reverse -}}
 

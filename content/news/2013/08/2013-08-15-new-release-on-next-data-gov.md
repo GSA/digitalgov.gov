@@ -6,8 +6,7 @@ summary: 'Since the launch of Next.Data.gov, your help and ideas have made it po
 authors:
   - sally-bourrie
 topics:
-  - code
-  - data-gov
+  - software-engineering
   - open-data
 
 ---

@@ -6,9 +6,8 @@ summary: 'Automated translation is touted as a one click solution. But is it? Fr
 authors:
   - lgodfrey
 topics:
-  - content
-  - product-management
-  - LEP
+  - content-strategy
+  - product-and-project-management
   - multilingual
 ---
 

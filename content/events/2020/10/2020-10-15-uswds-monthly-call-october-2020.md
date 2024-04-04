@@ -14,8 +14,8 @@ end_date: 2020-10-15 15:30:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - 21st-century-idea
-  - user-centered-design
+  - digital-service-delivery
+  - human-centered-design
   - content-strategy
   - user-experience
 # See all authors at https://digital.gov/authors

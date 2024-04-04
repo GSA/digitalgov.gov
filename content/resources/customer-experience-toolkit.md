@@ -3,8 +3,11 @@ slug: customer-experience-toolkit
 date: 2016-01-07 5:52:31 -0400
 title: Customer Experience Toolkit
 summary: "This Toolkit is intended to help government agencies improve how we deliver services and information to the public."
+
 topics:
   - customer-experience
+  - information-collection
+
 authors:
   - rflagg
 
@@ -241,7 +244,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 - [Lessons from the 2021 Federal Plain Language Report Card](https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/)
 - [Bilingual Glossaries, Dictionaries, and Style Guides](https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides/)
 - [Customer Experience Case Study: CDC’s Clear Communication Index](https://www.youtube.com/watch?v=HdHAAaCNirk) &#8211; YouTube video
-- [Join the Plain Language Communty of Practice](https://digital.gov/communities/plain-language/)
+- [Join the Plain Language Community of Practice](https://digital.gov/communities/plain-language/)
 - [Join the Multilingual Community of Practice](https://digital.gov/communities/multilingual/)
 
 ### Conduct regular and ongoing user testing
@@ -255,7 +258,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 ### Solicit ideas from customers
 
 - [Challenge.gov](https://www.challenge.gov/)
-- [Join the Challenge and Prize Communithy of Practice](https://www.challenge.gov/community/)
+- [Join the Challenge and Prize Community of Practice](https://www.challenge.gov/community/)
 
 ## Measurement
 

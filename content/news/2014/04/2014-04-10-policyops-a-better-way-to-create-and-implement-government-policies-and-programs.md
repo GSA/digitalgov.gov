@@ -6,9 +6,9 @@ summary: '&ldquo;PolicyOps&rdquo; is a better way to create and implement govern
 authors:
   - bbrantley
 topics:
-  - devops
+  - software-engineering
   - governance
-  - product-management
+  - product-and-project-management
   - analytics
 
 ---
