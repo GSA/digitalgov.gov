@@ -53,6 +53,7 @@
     "postcss-csso": "^6.0.1",
     "sass": "^1.69.7",
     "sass-embedded": "^1.69.7",
+    "sharp": "^0.33.3",
     "webpack-stream": "^7.0.0"
   },
   "devDependencies": {
