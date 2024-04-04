@@ -17,6 +17,10 @@ aliases:
 # see all topics at https://digital.gov/topics
 topics:
   - accessibility
+  - content-strategy
+  - user-experience
+  - communication
+  - plain-language
 
 # see all authors at https://digital.gov/authors
 authors:
