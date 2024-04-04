@@ -26,5 +26,4 @@ featured_resources:
 # Featured community to display at the top of the page
 featured_communities:
   - "user-experience"
-  - "contact-centers"
 ---
