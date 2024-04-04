@@ -13,7 +13,6 @@ topics:
   - plain-language
   - social-media
   - communication
-  - communication
 
 # See all authors at https://digital.gov/authors
 authors:
