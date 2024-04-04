@@ -7,7 +7,7 @@ identifier_data:
   parent_agency:
     name: U.S. General Services Administration
     acronym: GSA
-    logo: /img/gsa-logo-w100.png
+    logo: img/gsa-logo-w100.png
     url: https://www.gsa.gov
   required_links:
     label: Important links

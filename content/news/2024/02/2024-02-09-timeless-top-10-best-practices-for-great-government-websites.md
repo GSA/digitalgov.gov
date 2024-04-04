@@ -28,9 +28,9 @@ weight: 1
 
 ---
 
-As the saying goes, the more things change, the more they stay the same.
-
 {{< img-right src="web-content-gov-top-ten-list-clipboard" >}}
+
+As the saying goes, the more things change, the more they stay the same.
 
 Digital.gov — celebrating its 10th anniversary on February 14, 2024 — used to be called [WebContent.gov](https://web.archive.org/web/20040101000000*/webcontent.gov). In the mid-2000s, the WebContent.gov team published the [top 10 best practices for great government websites](https://web.archive.org/web/20070610235006/http://www.usa.gov/webcontent/reqs_bestpractices/checklist/criticaltasks.shtml). In those days, they printed this list on a clipboard so every web manager across the government could have it at their fingertips, on their desks.
 
@@ -70,7 +70,7 @@ People are busy. If they don’t have a reason, they won’t visit your website.
 
 There are two core elements of top tasks: top tasks identification and task performance indicator. Watch this one-hour talk to understand how to use top tasks to prioritize and continuously improve what is truly important.
 
-{{< youtube 5llJ98UkXYI >}}
+{{< youtube id="5llJ98UkXYI" >}}
 
 {{< /ring >}}
 
@@ -90,7 +90,7 @@ As agencies look more and more to digital channels to serve customers and meet m
 
 Learn from the Internal Revenue Service as they share how they collect user feedback and use web analytics to improve Free File, one of the IRS’s most widely used applications.
 
-{{< youtube 8zkHN3rxXHw >}}
+{{< youtube id="8zkHN3rxXHw" >}}
 
 {{< /ring >}}
 

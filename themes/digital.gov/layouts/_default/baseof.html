@@ -58,7 +58,7 @@
       glossaryPath = "{{ $glossaryPath | absURL }}";
     {{- end -}}
     // Needed to pass relURL to JS
-    const glossaryIcon = "{{ "/uswds/img/sprite.svg#expand_more" | relURL }}"
+    const glossaryIcon = "{{ "uswds/img/sprite.svg#expand_more" | relURL }}"
   </script>
 
   <script src="{{ "dist/js/uswds.min.js" | absURL }}"></script>
