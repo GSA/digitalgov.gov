@@ -1,7 +1,6 @@
 @use "uswds-core" as *;
 
 // Content settings
-
 .content {
   @include u-margin-bottom(5);
 }
@@ -40,7 +39,6 @@
   // HR tags
   hr {
     @include u-margin-y(3);
-
     clear: both;
   }
 
@@ -58,8 +56,8 @@
   pre {
     @include u-padding-x(3);
     @include u-padding-y(2);
-    @include u-padding-right(4);
     @include u-padding-bottom("205");
+    @include u-padding-right(4);
     @include u-bg("base-lightest");
     @include u-border("1px", "solid", "base-lighter");
     @include u-color("indigo-warm-80");
@@ -78,46 +76,8 @@
     @include u-border-left("05", "solid", "base-lighter");
   }
 
-  // tables
-  table {
-    @include u-margin-y(5);
-    @include u-font("sans", "xs");
-    @include u-width("full");
-
-    tr {
-      th,
-      td {
-        @include u-padding-y(1);
-        @include u-padding-x("05");
-
-        vertical-align: top;
-
-        @include u-border-x(0);
-        @include u-border-y("1px", "base-light", "solid");
-
-        a {
-          @include u-text("no-underline");
-
-          &:hover {
-            span {
-              @include u-text("underline");
-            }
-          }
-        }
-
-        .icon {
-          @include u-width("205");
-        }
-      }
-
-      th {
-        @include u-text("left");
-        @include u-text("bold");
-        @include u-border(0);
-        @include u-padding-x("05");
-        @include u-border-top("2px", "black", "solid");
-      }
-    }
+  table tbody {
+    vertical-align: baseline;
   }
 }
 
