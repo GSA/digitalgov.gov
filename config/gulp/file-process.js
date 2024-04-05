@@ -4,6 +4,13 @@ const fs = require("fs");
 const path = require("path");
 const del = require("del");
 
+// TODO:
+// - [x] compress original file, refactor code
+// - [ ] fix file not found bug
+// - [ ] fix https://app.circleci.com/pipelines/github/GSA/digitalgov.gov/19407/workflows/bf81f99c-5c44-4c44-8970-4cc36e15fea2/jobs/53101
+// - [ ] test with aws
+// - [ ] regression test respnsive image srcset with 200, 400, 800
+
 /**
  * Set input and output directories for image processing
  */
@@ -34,8 +41,10 @@ const variantSettings = {
  */
 async function processImages() {
   fs.readdir(`${processImagesDirectory}`, (err, images) => {
-    for (let image of images) {
-      processImageVariants(image);
+    for (let imageToProcess of images) {
+      imageToProcess = getImageDetails(imageToProcess);
+      processImageOriginal(imageToProcess);
+      processImageVariants(imageToProcess);
     }
     if (err) {
       process.output.write(
@@ -44,6 +53,45 @@ async function processImages() {
       );
     }
   });
+}
+
+/**
+ * Separate image name, extension and directory path and return as an object
+ *
+ * @param {string} image - original image filename
+ */
+
+function getImageDetails(image) {
+  const imageVariant = {};
+  imageVariant.name = image.split(".")[0];
+  imageVariant.extension = image.split(".")[1];
+  // get the full filepath for the provided image
+  imageVariant.path = path.join(__dirname, `${processImagesDirectory}`, image);
+
+  return imageVariant;
+}
+
+/**
+ * Create compressed original image
+ *
+ * @param {string} imageToProcess - image name
+ */
+async function processImageOriginal(imageToProcess) {
+  // const image = getImageDetails(imageToProcess);
+
+  await sharp(imageToProcess.path).toFile(
+    `${processedImagesDirectory}/${imageToProcess.name}.${imageToProcess.extension}`,
+    (err, info) => {
+      if (err) {
+        console.error(`Error processing variant ${imageToProcess.path}:`, err);
+      } else {
+        console.log(
+          `Processed variant ${imageToProcess.path} successfully: `,
+          info
+        );
+      }
+    }
+  );
 }
 
 /**
@@ -72,24 +120,23 @@ async function processImageVariants(image) {
  * @param {number} variantSetting - variant size and name
  */
 async function createResponsiveVariant(imageToProcess, imageVariantSetting) {
-  const imageName = imageToProcess.split(".")[0];
-  const imageExtension = imageToProcess.split(".")[1];
-  // get the full filepath for the provided image
-  const image = path.join(
-    __dirname,
-    `${processImagesDirectory}`,
-    imageToProcess
-  );
+  // const image = getImageDetails(imageToProcess);
 
-  await sharp(image)
+  await sharp(imageToProcess.path)
     .resize(imageVariantSetting.width)
     .toFile(
-      `${processedImagesDirectory}/${imageName}${imageVariantSetting.suffix}.${imageExtension}`,
+      `${processedImagesDirectory}/${imageToProcess.name}${imageVariantSetting.suffix}.${imageToProcess.extension}`,
       (err, info) => {
         if (err) {
-          console.error(`Error processing variant ${image}:`, err);
+          console.error(
+            `Error processing variant ${imageToProcess.path}:`,
+            err
+          );
         } else {
-          console.log(`Processed variant ${image} successfully: `, info);
+          console.log(
+            `Processed variant ${imageToProcess.path} successfully: `,
+            info
+          );
         }
       }
     );
