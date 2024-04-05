@@ -1,6 +1,11 @@
-<div class="dg-news__section">
+{{/* Creates a reusable component linking to the news page to add consistency to visual design and content.
+
+  ** Example Usage: Visit homepage and scroll to the bottom of 'News and Event Section'
+*/}}
+
+<div class="dg-see-all-footer">
   <footer>
-    <a class="btn" href="{{ "news" | absURL }}" title="">
+    <a class="btn" href="{{ "news" | relURL }}" title="">
       <span>See all News</span>
       <svg
         class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
@@ -16,7 +21,6 @@
     <p>
       Have a case study to share? Did your team recently launch something?<br /><a
         href="mailto:digitalgov@gsa.gov"
-        title=""
         ><strong>Send us an email</strong></a
       >
     </p>
