@@ -12,7 +12,7 @@ const scripts = require("./config/gulp/scripts");
 const styles = require("./config/gulp/styles");
 
 function watchUploads() {
-  return series(file.prep.do, file.process.do);
+  return series(file.prep.do, file.process.do, file.upload.do);
 }
 
 function gulpWatch() {

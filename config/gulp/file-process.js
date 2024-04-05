@@ -1,4 +1,4 @@
-const { parallel } = require("gulp");
+const { series } = require("gulp");
 const sharp = require("sharp");
 const fs = require("fs");
 const path = require("path");
@@ -6,10 +6,10 @@ const del = require("del");
 
 // TODO:
 // - [x] compress original file, refactor code
-// - [ ] fix file not found bug
+// - [x] fix file not found bug
 // - [ ] fix https://app.circleci.com/pipelines/github/GSA/digitalgov.gov/19407/workflows/bf81f99c-5c44-4c44-8970-4cc36e15fea2/jobs/53101
 // - [ ] test with aws
-// - [ ] regression test respnsive image srcset with 200, 400, 800
+// - [ ] regression test responsive image srcset with 200, 400, 800
 
 /**
  * Set input and output directories for image processing
@@ -41,16 +41,18 @@ const variantSettings = {
  */
 async function processImages() {
   fs.readdir(`${processImagesDirectory}`, (err, images) => {
-    for (let imageToProcess of images) {
-      imageToProcess = getImageDetails(imageToProcess);
-      processImageOriginal(imageToProcess);
-      processImageVariants(imageToProcess);
-    }
-    if (err) {
-      process.output.write(
-        `Error cleaning and copying file [${image}]
+    if (images.length > 0) {
+      for (let imageToProcess of images) {
+        imageToProcess = getImageDetails(imageToProcess);
+        processImageOriginal(imageToProcess);
+        processImageVariants(imageToProcess);
+      }
+      if (err) {
+        process.output.write(
+          `Error cleaning and copying file [${image}]
             Error message: ${err.message}`
-      );
+        );
+      }
     }
   });
 }
@@ -66,7 +68,11 @@ function getImageDetails(image) {
   imageVariant.name = image.split(".")[0];
   imageVariant.extension = image.split(".")[1];
   // get the full filepath for the provided image
-  imageVariant.path = path.join(__dirname, `${processImagesDirectory}`, image);
+  imageVariant.path = path.join(
+    path.resolve(),
+    `${processImagesDirectory}`,
+    image
+  );
 
   return imageVariant;
 }
@@ -82,14 +88,8 @@ async function processImageOriginal(imageToProcess) {
   await sharp(imageToProcess.path).toFile(
     `${processedImagesDirectory}/${imageToProcess.name}.${imageToProcess.extension}`,
     (err, info) => {
-      if (err) {
+      if (err)
         console.error(`Error processing variant ${imageToProcess.path}:`, err);
-      } else {
-        console.log(
-          `Processed variant ${imageToProcess.path} successfully: `,
-          info
-        );
-      }
     }
   );
 }
@@ -127,17 +127,11 @@ async function createResponsiveVariant(imageToProcess, imageVariantSetting) {
     .toFile(
       `${processedImagesDirectory}/${imageToProcess.name}${imageVariantSetting.suffix}.${imageToProcess.extension}`,
       (err, info) => {
-        if (err) {
+        if (err)
           console.error(
             `Error processing variant ${imageToProcess.path}:`,
             err
           );
-        } else {
-          console.log(
-            `Processed variant ${imageToProcess.path} successfully: `,
-            info
-          );
-        }
       }
     );
 }
@@ -150,4 +144,4 @@ function removeProcessedImage() {
   return del([`content/uploads/_working-images/to-process/*}`]);
 }
 
-exports.do = parallel(processImages, removeProcessedImage);
+exports.do = series(processImages, removeProcessedImage);
