@@ -5,6 +5,7 @@ title: Plain Writing Act of 2010
 summary: "The law requires that federal agencies provide clear communication about government information and services for the public."
 topics:
   - plain-language
+  - policy
 authors:
   - apiazza
 ---
