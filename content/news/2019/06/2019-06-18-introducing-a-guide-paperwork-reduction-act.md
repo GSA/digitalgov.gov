@@ -11,7 +11,7 @@ authors:
   - sharon-mar
   - jeremyzilar
 topics:
-  - product-and-project-management
+  - policy
   - information-collection
 
 featured_image:
