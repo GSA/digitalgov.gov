@@ -1,270 +1,132 @@
-const { src, dest, parallel } = require("gulp");
+const { series } = require("gulp");
+const sharp = require("sharp");
+const fs = require("fs");
+const path = require("path");
 const del = require("del");
-const responsive = require("gulp-responsive");
 
 /**
- * Retrieves images from /to-process and creates responsive variants saved to /processed
- * Creates 33 image variants of png/jpg and webp
- * Sizes: 200, 400, 600, 800, 1200, 1600, 2400
- * Creates black and white versions which are not needed
- * TODO: Needs to refactor this to create smaller set of variants and options
+ * Set input and output directories for image processing
  */
-function variants() {
-  return (
-    src(`content/uploads/_working-images/to-process/*`)
-      // Create responsive variants
-      .pipe(
-        responsive(
-          {
-            "*": [
-              {
-                width: 200,
-                rename: {
-                  suffix: "_w200",
-                },
-              },
-              {
-                width: 200,
-                skipOnEnlargement: false,
-                rename: {
-                  suffix: "_bu",
-                  extname: ".jpg",
-                },
-                quality: 20,
-                blur: true,
-              },
-              {
-                width: 200,
-                rename: {
-                  suffix: "_w200",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 200,
-                grayscale: true,
-                rename: {
-                  suffix: "_w200bw",
-                },
-              },
-              {
-                width: 200,
-                grayscale: true,
-                rename: {
-                  suffix: "_w200bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 400,
-                rename: {
-                  suffix: "_w400",
-                },
-              },
-              {
-                width: 400,
-                rename: {
-                  suffix: "_w400",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 400,
-                grayscale: true,
-                rename: {
-                  suffix: "_w400bw",
-                },
-              },
-              {
-                width: 400,
-                grayscale: true,
-                rename: {
-                  suffix: "_w400bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 600,
-                rename: {
-                  suffix: "_w600",
-                },
-              },
-              {
-                width: 600,
-                rename: {
-                  suffix: "_w600",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 600,
-                grayscale: true,
-                rename: {
-                  suffix: "_w600bw",
-                },
-              },
-              {
-                width: 600,
-                grayscale: true,
-                rename: {
-                  suffix: "_w600bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 800,
-                rename: {
-                  suffix: "_w800",
-                },
-              },
-              {
-                width: 800,
-                rename: {
-                  suffix: "_w800",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 800,
-                grayscale: true,
-                rename: {
-                  suffix: "_w800bw",
-                },
-              },
-              {
-                width: 800,
-                grayscale: true,
-                rename: {
-                  suffix: "_w800bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 1200,
-                rename: {
-                  suffix: "_w1200",
-                },
-              },
-              {
-                width: 1200,
-                rename: {
-                  suffix: "_w1200",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 1200,
-                grayscale: true,
-                rename: {
-                  suffix: "_w1200bw",
-                },
-              },
-              {
-                width: 1200,
-                grayscale: true,
-                rename: {
-                  suffix: "_w1200bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 1600,
-                rename: {
-                  suffix: "_w1600",
-                },
-              },
-              {
-                width: 1600,
-                rename: {
-                  suffix: "_w1600",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 1600,
-                grayscale: true,
-                rename: {
-                  suffix: "_w1600bw",
-                },
-              },
-              {
-                width: 1600,
-                grayscale: true,
-                rename: {
-                  suffix: "_w1600bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 2400,
-                rename: {
-                  suffix: "_w2400",
-                },
-              },
-              {
-                width: 2400,
-                rename: {
-                  suffix: "_w2400",
-                  extname: ".webp",
-                },
-              },
-              {
-                width: 2400,
-                grayscale: true,
-                rename: {
-                  suffix: "_w2400bw",
-                },
-              },
-              {
-                width: 2400,
-                grayscale: true,
-                rename: {
-                  suffix: "_w2400bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                // original -> grayscale
-                grayscale: true,
-                rename: {
-                  suffix: "_bw",
-                },
-              },
-              {
-                // original -> grayscale webp
-                grayscale: true,
-                rename: {
-                  suffix: "_bw",
-                  extname: ".webp",
-                },
-              },
-              {
-                // original -> webp
-                rename: {
-                  suffix: "",
-                  extname: ".webp",
-                },
-              },
-              {
-                // Empty case to produce a copy of the original
-              },
-            ],
-          },
-          {
-            // Global configuration for all images
-            quality: 80,
-            compressionLevel: 7,
-            progressive: true,
-            withMetadata: false,
-            errorOnUnusedConfig: false,
-            skipOnEnlargement: true,
-            errorOnEnlargement: false,
-            silent: true,
-          }
-        )
-      )
-      .pipe(dest("content/uploads/_working-images/processed/"))
+const processImagesDirectory = "./content/uploads/_working-images/to-process";
+const processedImagesDirectory = "./content/uploads/_working-images/processed";
+
+/**
+ * Settings object for each image variant width and suffix
+ * Device name is not used in image name
+ */
+const variantSettings = {
+  mobile: {
+    width: 200,
+    suffix: "_w200",
+  },
+  tablet: {
+    width: 400,
+    suffix: "_w400",
+  },
+  desktop: {
+    width: 800,
+    suffix: "_w800",
+  },
+};
+
+/**
+ * Read image(s) in the upload directory
+ */
+async function processImages() {
+  fs.readdir(`${processImagesDirectory}`, (err, images) => {
+    if (!err) {
+      for (let imageToProcess of images) {
+        imageToProcess = getImageDetails(imageToProcess);
+        processImageOriginal(imageToProcess);
+        processImageVariants(imageToProcess);
+      }
+    } else {
+      if (images === undefined) {
+        console.log(`No images to process`);
+      } else {
+        console.error(`Error processing file: [${images}]. ${err.message}`);
+      }
+    }
+  });
+}
+
+/**
+ * Separate image name, extension and directory path and return as an object
+ *
+ * @param {string} image - original image filename
+ */
+
+function getImageDetails(image) {
+  const imageVariant = {};
+  imageVariant.name = image.split(".")[0];
+  imageVariant.extension = image.split(".")[1];
+  // get the full filepath for the provided image
+  imageVariant.path = path.join(
+    path.resolve(),
+    `${processImagesDirectory}`,
+    image
   );
+
+  return imageVariant;
+}
+
+/**
+ * Create compressed original image
+ *
+ * @param {string} imageToProcess - image name
+ */
+async function processImageOriginal(imageToProcess) {
+  // const image = getImageDetails(imageToProcess);
+
+  await sharp(imageToProcess.path).toFile(
+    `${processedImagesDirectory}/${imageToProcess.name}.${imageToProcess.extension}`,
+    (err, info) => {
+      if (err)
+        console.error(`Error processing variant ${imageToProcess.path}:`, err);
+    }
+  );
+}
+
+/**
+ * Create resized and renamed image for each variant setting
+ * New image filename will read 'name-of-image_w200.jpg'
+ *
+ * @param {string} image - name of the image
+ */
+async function processImageVariants(image) {
+  for (let imageVariant in variantSettings) {
+    await createResponsiveVariant(image, variantSettings[imageVariant]).catch(
+      (err) => {
+        console.error(
+          `Failed to process variant ${variantSettings[imageVariant].width}:`,
+          err
+        );
+      }
+    );
+  }
+}
+
+/**
+ * Create the variant with the sharp package
+ *
+ * @param {string} imageToProcess - name of the image file
+ * @param {number} variantSetting - variant size and name
+ */
+async function createResponsiveVariant(imageToProcess, imageVariantSetting) {
+  // const image = getImageDetails(imageToProcess);
+
+  await sharp(imageToProcess.path)
+    .resize(imageVariantSetting.width)
+    .toFile(
+      `${processedImagesDirectory}/${imageToProcess.name}${imageVariantSetting.suffix}.${imageToProcess.extension}`,
+      (err, info) => {
+        if (err)
+          console.error(
+            `Error processing variant ${imageToProcess.path}:`,
+            err
+          );
+      }
+    );
 }
 
 /**
@@ -272,9 +134,7 @@ function variants() {
  */
 function removeProcessedImage() {
   console.log("Removing processed images");
-  return del([
-    `content/uploads/_working-images/to-process/*}`,
-  ]);
+  return del([`content/uploads/_working-images/to-process/*}`]);
 }
 
-exports.do = parallel(variants, removeProcessedImage);
+exports.do = series(processImages, removeProcessedImage);
