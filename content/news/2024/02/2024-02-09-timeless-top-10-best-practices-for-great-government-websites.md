@@ -24,7 +24,7 @@ primary_image: colorful-digital-10-vuifah-istock-getty-images-166056002
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 8
 
 ---
 
