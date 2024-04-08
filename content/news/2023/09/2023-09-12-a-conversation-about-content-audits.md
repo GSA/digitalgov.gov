@@ -22,7 +22,7 @@ primary_image: website-audit-control-panel-olivier-le-moal-istock-getty-images-6
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 6
+weight: 1
 
 ---
 
