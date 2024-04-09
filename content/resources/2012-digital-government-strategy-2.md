@@ -5,10 +5,10 @@ redirectto: https://digital.gov/resources/21st-century-integrated-digital-experi
 
 date: 2015-12-03 12:21:21 -0400
 title: 2012 Digital Government Strategy
-summary: "The Digital Government Strategy complements several initiatives aimed at building a 21st century government that works better for the American people. These include Executive Order 13571 (Streamlining Service Delivery and Improving Customer Service), Executive Order 13576 (Delivering an Efficient, Effective, and Accountable Government), the Presidential Memorandum on Transparency and Open Government, OMB Memorandum M-10-06 (Open Government Directive), the National"
+summary: "The Digital Government Strategy complements several initiatives aimed at building a 21st century government that works better for the American people."
 
 topics:
-  - product-and-project-management
+  - policy
 authors:
   - apiazza
 
