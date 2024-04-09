@@ -10,7 +10,13 @@ summary: The Digital Experience Council plays a critical role in coordinating
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+author: Jonathan Finch
 slug: meet-your-digital-experience-council
+topics: 
+ - digital-service-delivery
+ - governance
+ - public-policy
+ - Product-and-project management
 ---
 We’d like to introduce you to the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), a new subcommittee of the Federal Chief Information Officer’s Council that partners with agency practitioners to deliver a digital-first public experience. 
 
@@ -44,7 +50,7 @@ Each month, we send highlights from the Council meeting to all members of the [W
 
 {{< note variant=”join” >}}
 
-\*\*Web Managers Community\*\*
+**Web Managers Community**
 
 The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. Join the Web Managers Community.
 
