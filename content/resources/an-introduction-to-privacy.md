@@ -7,6 +7,9 @@ summary: "Introductory guidance on implementing privacy protections for users of
 authors:
   - rflagg
 
+aliases:
+  - /resources/required-web-content-and-links/?dg#privacy-policy-2
+
 # See all topics at https://digital.gov/topics
 topics:
   - privacy

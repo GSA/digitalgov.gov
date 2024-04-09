@@ -11,6 +11,7 @@ aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
+  - /resources/required-web-content-and-links/?dg#accessibility-statement
 weight: 2
 topics:
   - product-and-project-management
