@@ -206,9 +206,6 @@
   {{- if $.Params.source_url -}}
     {{- "<!-- Redirect =============== -->" | safeHTML }}
     <meta http-equiv="refresh" content="0; url={{- $.Params.source_url -}}" />
-    <script type="text/javascript">
-      window.location.href = "{{- $.Params.source_url -}}"
-    </script>
   {{- end -}}
 
   {{ "<!-- CSS -->" | safeHTML }}
