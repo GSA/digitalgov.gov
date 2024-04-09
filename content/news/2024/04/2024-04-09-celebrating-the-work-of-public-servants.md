@@ -18,7 +18,6 @@ topics:
   - innovation
   - trust
   - open-government
-  -""
 slug: celebrating-the-work-of-public-servants
 # Controls how this page appears across the site
 # 0 -- hidden
