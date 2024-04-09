@@ -10,7 +10,8 @@ summary: The Digital Experience Council plays a critical role in coordinating
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-author: Jonathan Finch
+authors:
+  - jonathan-finch
 slug: meet-your-digital-experience-council
 topics: 
  - digital-service-delivery
