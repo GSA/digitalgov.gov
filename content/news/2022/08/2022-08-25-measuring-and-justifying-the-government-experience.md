@@ -29,6 +29,7 @@ topics:
   - research
   - open-government
   - design
+  - policy
 slug: measuring-and-justifying-the-government-experience
 # Controls how this page appears across the site
 # 0 -- hidden

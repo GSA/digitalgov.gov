@@ -16,6 +16,7 @@ topics:
   - privacy
   - security
   - digital-service-delivery
+  - policy
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg

@@ -9,6 +9,8 @@ title: "An introduction to the Federal Web Council"
 deck: "A cross-agency group that is working to improve the online delivery of government information and digital services."
 summary: "Launched in January 2004, the Federal Web Council is a cross-agency group that works together to improve the online delivery of U.S. government information and services."
 
+expirydate: "2024-04-03"
+
 # see all topics at https://digital.gov/topics
 topics:
   - product-and-project-management

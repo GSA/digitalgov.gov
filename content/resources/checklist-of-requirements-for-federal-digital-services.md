@@ -16,6 +16,7 @@ weight: 2
 topics:
   - product-and-project-management
   - governance
+  - policy
 primary_image: "checklist-topics"
 ---
 

@@ -5,7 +5,7 @@ title: OMB Memos, Circulars, Executive Orders and Other Policies
 summary: Tech- and digital-related policies, memos, circulars and executive orders.
 
 topics:
-  - product-and-project-management
+  - policy
 weight: 2
 
 ---
