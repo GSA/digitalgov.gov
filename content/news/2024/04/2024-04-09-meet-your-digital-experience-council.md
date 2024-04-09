@@ -16,7 +16,7 @@ topics:
  - digital-service-delivery
  - governance
  - public-policy
- - Product-and-project management
+ - Product-and-project-management
 ---
 We’d like to introduce you to the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), a new subcommittee of the Federal Chief Information Officer’s Council that partners with agency practitioners to deliver a digital-first public experience. 
 
