@@ -21,14 +21,12 @@
     {{/* Pass these vars into the list item template (botton of page) */}}
     {{- template "service-contact" dict "item" . "href" .Params.source_url "src" $src -}}
 
-
     {{/* No source? let's attempt to get the favicon for the URL */}}
   {{- else -}}
     {{/* get the Favicon via Google Favicon service */}}
     {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
     {{/* Pass these vars into the list item template (botton of page) */}}
     {{- template "service-contact" dict "item" . "href" .Params.source_url "src" $src -}}
-
   {{- end -}}
 
   {{/* If an internal link... */}}
@@ -39,12 +37,11 @@
     {{- $src := (print "logos/" .Params.logo "-icon.png") -}}
     {{/* Pass these vars into the list item template (botton of page) */}}
     {{- template "service-contact" dict "item" . "href" .Params.source_url "src" $src -}}
-
   {{- else -}}
     {{/* Use the digital.gov logo */}}
     {{/* Pass these vars into the list item template (botton of page) */}}
-      {{- template "service-contact" dict "item" . "href" .Params.source_url "src" $src -}}
-      {{- $src := (print "logos/" "digitalgov-icon.png") -}}
+    {{- template "service-contact" dict "item" . "href" .Params.source_url "src" $src -}}
+    {{- $src := (print "logos/" "digitalgov-icon.png") -}}
   {{- end -}}
 
 {{- end -}}
