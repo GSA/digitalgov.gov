@@ -10,5 +10,5 @@ bio:
 agency_full_name: Office of Management and Budget
 # Agency Acronym [e.g., GSA]
 agency: OMB
-slug: jonathan-finsh
+slug: jonathan-finch
 ---
