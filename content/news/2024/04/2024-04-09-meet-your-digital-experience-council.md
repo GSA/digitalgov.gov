@@ -49,11 +49,8 @@ Council members will regularly engage with members of digital-related communitie
 Each month, we send highlights from the Council meeting to all members of the [Web Managers community of practice](https://digital.gov/communities/web-content-managers/) so those responsible for building federal websites and digital services can understand and align efforts with the Council’s top priorities.
 
 {{< note variant="join" >}}
-
 **Web Managers Community**
-
 The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. Join the Web Managers Community.
-
 {{< /note >}}
 
 As Federal CIO Clare Mortorana said in her opening remarks at the [2024 Spring Community Summit](https://digital.gov/event/2024/03/13/spring-2024-community-summit/), “Together, we are here to drive progress for the American public. Technology enables the government to deliver on its mission, and working collaboratively is the only way I have seen change happen in government.”
