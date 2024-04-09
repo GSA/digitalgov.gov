@@ -47,7 +47,7 @@ Council members will regularly engage with members of digital-related communitie
 
 Each month, we send highlights from the Council meeting to all members of the [Web Managers community of practice](https://digital.gov/communities/web-content-managers/) so those responsible for building federal websites and digital services can understand and align efforts with the Council’s top priorities.
 
-{{< note variant=”join” >}}
+{{< note variant="join" >}}
 
 **Web Managers Community**
 
