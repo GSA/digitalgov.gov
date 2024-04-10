@@ -13,6 +13,7 @@ aliases:
 topics:
   - product-and-project-management
   - digital-service-delivery
+  - policy
 
 # See all authors at https://digital.gov/authors
 authors:
