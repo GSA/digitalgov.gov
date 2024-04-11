@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/piechart-2-website-a-does-not-meets-standards.png
+  # Image shortcode: {{< img src=piechart-2-website-a-does-not-meets-standards >}}'
+  date     :  2024-04-09 15:48:14 -0400
+  uid      :  piechart-2-website-a-does-not-meets-standards
+  width    :  300
+  height   :  300
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "A round chart divided into 6 wedges, centered on a gray circle. None of the wedges fills the gray circle, meaning the website does not meet standards."
+  
