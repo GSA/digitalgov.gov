@@ -3,9 +3,7 @@ source: ""
 date: 2024-04-09
 title: Meet your Digital Experience Council
 deck: Your partners in delivering a digital-first public experience
-summary: The Digital Experience Council plays a critical role in coordinating
-  governmentwide efforts and assisting agencies in delivering digital
-  experiences that meet the public’s needs and expectations.
+summary: The Digital Experience Council plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -17,7 +15,9 @@ topics:
  - digital-service-delivery
  - governance
  - Product-and-project-management
+
 ---
+
 We’d like to introduce you to the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), a new subcommittee of the Federal Chief Information Officer’s Council that partners with agency practitioners to deliver a digital-first public experience. 
 
 The Digital Experience Council was required by a recent OMB memo, M-23-22, Delivering a Digital-First Public Experience. The Council held its kickoff meeting in February 2024 — setting a vision for the work ahead and celebrating the accomplishments of the [former Federal Web Council](https://web.archive.org/web/20240315150501/https://digital.gov/resources/federal-web-council/), which sunset in January 2024.
@@ -49,8 +49,9 @@ Council members will regularly engage with members of digital-related communitie
 Each month, we send highlights from the Council meeting to all members of the [Web Managers community of practice](https://digital.gov/communities/web-content-managers/) so those responsible for building federal websites and digital services can understand and align efforts with the Council’s top priorities.
 
 {{< note variant="join" >}}
-**Web Managers Community**
-The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. Join the Web Managers Community.
+
+The **Web Managers Community of Practice** is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).
+
 {{< /note >}}
 
 As Federal CIO Clare Mortorana said in her opening remarks at the [2024 Spring Community Summit](https://digital.gov/event/2024/03/13/spring-2024-community-summit/), “Together, we are here to drive progress for the American public. Technology enables the government to deliver on its mission, and working collaboratively is the only way I have seen change happen in government.”
