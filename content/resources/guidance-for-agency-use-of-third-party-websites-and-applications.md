@@ -4,7 +4,7 @@ date: 2015-11-23 2:48:38 -0400
 title: Guidance for Agency Use of Third-Party Websites and Applications
 summary: "This Memorandum requires Federal agencies to take specific steps to protect individual privacy whenever they use third-party websites and applications to engage with the public."
 topics:
-  - product-and-project-management
+  - policy
 authors:
   - andreanocesigritz
 ---
