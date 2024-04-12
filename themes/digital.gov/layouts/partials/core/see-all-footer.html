@@ -1,0 +1,29 @@
+{{/* Creates a reusable component linking to the news page adding consistency to visual design and content.
+
+  ** Example Usage: Visit https://digital.gov/ and scroll to the bottom of 'News and Event Section'
+*/}}
+
+
+<div class="dg-see-all-footer">
+  <footer>
+    <a class="btn" href="{{ "news" | relURL }}" title="">
+      <span>See all News</span>
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
+        <use
+          xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+        ></use>
+      </svg>
+    </a>
+    <p>
+      Have a case study to share? Did your team recently launch something?<br /><a
+        href="mailto:digitalgov@gsa.gov"
+        ><strong>Send us an email</strong></a
+      >
+    </p>
+  </footer>
+</div>
