@@ -54,6 +54,4 @@ The **Web Managers Community of Practice** is a group of government employees an
 
 {{< /note >}}
 
-As Federal CIO Clare Mortorana said in her opening remarks at Digital.gov's [2024 Spring Community Summit](https://digital.gov/event/2024/03/13/spring-2024-community-summit/):
-
-{{< card-quote text="Together, we are here to drive progress for the American public. Technology enables the government to deliver on its mission, and working collaboratively is the only way I have seen change happen in government." cite="" >}}
+As Federal CIO Clare Mortorana said in her opening remarks at Digital.gov's [2024 Spring Community Summit](https://digital.gov/event/2024/03/13/spring-2024-community-summit/), "Together, we are here to drive progress for the American public. Technology enables the government to deliver on its mission, and working collaboratively is the only way I have seen change happen in government."
