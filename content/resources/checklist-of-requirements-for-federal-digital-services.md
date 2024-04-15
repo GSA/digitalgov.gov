@@ -48,7 +48,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 
 - [Section 508 of the Rehabilitation Act of 1973 (29 U.S.C § 794 (d))](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm)
 - [Information and Communication Technology (ICT) Accessibility 508 Standards](https://www.access-board.gov/ict/)
-- [Required Link - Accessibility Statement](https://digital.gov/resources/required-web-content-and-links/?dg#accessibility-statement)
+- [Required Link - Accessibility Statement](https://digital.gov/resources/required-web-content-and-links/#accessibility-statement)
 - [Overview of Section 508 and related laws](https://www.section508.gov/manage/laws-and-policies/)
 - [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 

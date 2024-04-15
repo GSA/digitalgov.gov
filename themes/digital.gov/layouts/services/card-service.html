@@ -1,11 +1,6 @@
 <div class="card-service">
   {{/* set the href as a variable */}}
   {{- $href := "" -}}
-  {{- if .Params.source_url -}}
-    {{- $href = (print .Params.source_url "?dg") -}}
-  {{- else -}}
-    {{- $href = (print .Permalink "?dg") -}}
-  {{- end -}}
 
   {{/* Logos
     Get the "source" in the file and looks up the icon that is used there.
