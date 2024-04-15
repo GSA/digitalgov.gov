@@ -37,7 +37,7 @@ Accessibility must be considered throughout design, development, content creatio
 - **Missing ALT text** - Always add descriptive ALT (alternative) text to images, so screen reader software can convey the meaning of an image, even if someone can’t see it.
 - **Lack of structure** - When creating content, use document styles to organize content and properly tag headings, which will make it easier for screen reader software to navigate through a document or web page.
 - **Insufficient color contrast** - Follow the [U.S. Web Design System (USWDS) guidance on color](https://designsystem.digital.gov/utilities/color/) to ensure sufficient contrast between text and background colors.
-- **Content quality** - Write concisely and clearly using [plain language](https://digital.gov/resources/an-introduction-to-plain-language/?dg), and put the most important information at the top of the page.
+- **Content quality** - Write concisely and clearly using [plain language](https://digital.gov/resources/an-introduction-to-plain-language), and put the most important information at the top of the page.
 
 Automated testing can find some accessibility issues, but only manual testing will catch everything, so use your agency’s standard testing tool and follow the [Section 508 ICT Testing Baseline](https://ictbaseline.access-board.gov/) to test all code and content before publication. Using this testing baseline ensures you address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
 

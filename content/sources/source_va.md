@@ -13,7 +13,7 @@ summary: "VA's mission is to care for those who have served in our nation’s mi
 
 # What is the URL for this product or service?
 # Primary Domain — the link to your website, blog homepage, or news feed. (e.g., https://18f.gsa.gov/)
-# Note: We'll automatically add ?dg to the end of your URL, to help you track links back to your site.
+
 domain: "https://www.va.gov"
 
 # Images need to be 250x250 px with a transparent background.

@@ -6,7 +6,7 @@ title: "Pages"
 summary: "A publishing platform that helps federal partners launch, maintain and manage Government websites."
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://cloud.gov/pages/documentation/why-use-pages/"
 
 # Images need to be 200x200px with a transparent background

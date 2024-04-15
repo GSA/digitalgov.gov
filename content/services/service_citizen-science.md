@@ -6,7 +6,7 @@ title: "CitizenScience.gov"
 summary: "A catalog of federal crowdsourcing and citizen science projects."
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.CitizenScience.gov/"
 
 # Images need to be 200x200px with a transparent background

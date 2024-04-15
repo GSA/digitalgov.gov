@@ -73,5 +73,5 @@ We held our [first community meeting in October 2000](https://web.archive.org/we
 ## Related Resources
 
 - [Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/) — The relevant laws, policies, and regulations for federal agencies.
-- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/?dg) — A list of required links that all federal websites need to have.
+- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links) — A list of required links that all federal websites need to have.
 - [Website Standards](https://designsystem.digital.gov/website-standards/) — Adopt the U.S. Web Design System incrementally, and prioritize implementation to align with the modernization plans and priorities.

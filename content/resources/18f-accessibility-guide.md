@@ -10,7 +10,7 @@ summary: "A resource for developing accessible products."
 source: "18f"
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://accessibility.18f.gov/"
 
 # Images need to be 200x200px with a transparent background
