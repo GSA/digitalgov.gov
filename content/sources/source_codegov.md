@@ -13,7 +13,7 @@ summary: "Code.gov is the federal government's platform for sharing America's op
 
 # What is the URL for this product or service?
 # Primary Domain — the link to your website, blog homepage, or news feed. (e.g., https://18f.gsa.gov/)
-# Note: We'll automatically add ?dg to the end of your URL, to help you track links back to your site.
+
 domain: "https://www.code.gov"
 
 # Images need to be 250x250 px with a transparent background.

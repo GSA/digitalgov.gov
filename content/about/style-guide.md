@@ -303,7 +303,7 @@ Please always send us the original image, as large as possible. Our content mana
 
 All images require alt text for screen readers, and/or a caption that appears below the photo. Be descriptive, yet succinct. Take care to note if the image is an infographic, factoid, diagram, chart, photo, or logo. If related to a program, agency, or event, include the name and/or acronym (and if an event, please include the date).
 
-Please do not use images of text; we can highlight text in call-out box, an accordion (e.g., [event transcripts](https://digital.gov/event/2023/06/15/uswds-monthly-call-june-2023/) or [policy memos](https://digital.gov/resources/required-web-content-and-links/?dg)), a [quote box](https://digital.gov/2020/05/12/promote-continuity-better-support-customer-journeys/), or other styles.
+Please do not use images of text; we can highlight text in call-out box, an accordion (e.g., [event transcripts](https://digital.gov/event/2023/06/15/uswds-monthly-call-june-2023/) or [policy memos](https://digital.gov/resources/required-web-content-and-links)), a [quote box](https://digital.gov/2020/05/12/promote-continuity-better-support-customer-journeys/), or other styles.
 
 ### Attribution
 

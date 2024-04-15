@@ -9,7 +9,7 @@ summary: "A toolkit of principles, guidance, and code that helps agency digital 
 source: 'uswds'
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://designsystem.digital.gov/"
 
 contact: uswds@gsa.gov
