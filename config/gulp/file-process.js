@@ -30,43 +30,24 @@ const variantSettings = {
 };
 
 /**
- * Read image(s) in the upload directory
- */
-async function processImages() {
-  fs.readdir(`${processImagesDirectory}`, (err, images) => {
-    if (!err) {
-      for (let imageToProcess of images) {
-        imageToProcess = getImageDetails(imageToProcess);
-        processImageOriginal(imageToProcess);
-        processImageVariants(imageToProcess);
-      }
-    } else {
-      if (images === undefined) {
-        console.log(`No images to process`);
-      } else {
-        console.error(`Error processing file: [${images}]. ${err.message}`);
-      }
-    }
-  });
-}
-
-/**
  * Separate image name, extension and directory path and return as an object
- *
  * @param {string} image - original image filename
  */
 
 function getImageDetails(image) {
-  const imageVariant = {};
-  imageVariant.name = image.split(".")[0];
-  imageVariant.extension = image.split(".")[1];
+  const [imageName, imageExtension] = image.split(".");
   // get the full filepath for the provided image
-  imageVariant.path = path.join(
+  const imagePath = path.join(
     path.resolve(),
     `${processImagesDirectory}`,
     image
   );
 
+  const imageVariant = {
+    name: imageName,
+    extension: imageExtension,
+    path: imagePath,
+  };
   return imageVariant;
 }
 
@@ -80,30 +61,11 @@ async function processImageOriginal(imageToProcess) {
 
   await sharp(imageToProcess.path).toFile(
     `${processedImagesDirectory}/${imageToProcess.name}.${imageToProcess.extension}`,
-    (err, info) => {
+    (err) => {
       if (err)
         console.error(`Error processing variant ${imageToProcess.path}:`, err);
     }
   );
-}
-
-/**
- * Create resized and renamed image for each variant setting
- * New image filename will read 'name-of-image_w200.jpg'
- *
- * @param {string} image - name of the image
- */
-async function processImageVariants(image) {
-  for (let imageVariant in variantSettings) {
-    await createResponsiveVariant(image, variantSettings[imageVariant]).catch(
-      (err) => {
-        console.error(
-          `Failed to process variant ${variantSettings[imageVariant].width}:`,
-          err
-        );
-      }
-    );
-  }
 }
 
 /**
@@ -113,13 +75,11 @@ async function processImageVariants(image) {
  * @param {number} variantSetting - variant size and name
  */
 async function createResponsiveVariant(imageToProcess, imageVariantSetting) {
-  // const image = getImageDetails(imageToProcess);
-
   await sharp(imageToProcess.path)
     .resize(imageVariantSetting.width)
     .toFile(
       `${processedImagesDirectory}/${imageToProcess.name}${imageVariantSetting.suffix}.${imageToProcess.extension}`,
-      (err, info) => {
+      (err) => {
         if (err)
           console.error(
             `Error processing variant ${imageToProcess.path}:`,
@@ -127,6 +87,43 @@ async function createResponsiveVariant(imageToProcess, imageVariantSetting) {
           );
       }
     );
+}
+
+/**
+ * Create resized and renamed image for each variant setting
+ * New image filename will read 'name-of-image_w200.jpg'
+ *
+ * @param {string} image - name of the image
+ */
+async function processImageVariants(image) {
+  Object.values(variantSettings).forEach((imageVariant) => {
+    createResponsiveVariant(image, imageVariant).catch((err) => {
+      console.error(
+        `Failed to process variant ${variantSettings[imageVariant].width}:`,
+        err
+      );
+    });
+  });
+}
+
+/**
+ * Read image(s) in the upload directory
+ */
+async function processImages() {
+  fs.readdir(`${processImagesDirectory}`, (err, images) => {
+    if (images === undefined) {
+      console.error("No images to process");
+    }
+    if (!err) {
+      images.forEach((image) => {
+        const imageToProcess = getImageDetails(image);
+        processImageOriginal(imageToProcess);
+        processImageVariants(imageToProcess);
+      });
+    } else {
+      console.error(`Error processing file: [${images}]. ${err.message}`);
+    }
+  });
 }
 
 /**
