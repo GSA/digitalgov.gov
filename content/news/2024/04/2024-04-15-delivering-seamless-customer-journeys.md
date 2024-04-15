@@ -4,14 +4,17 @@ date: 2024-04-15
 title: Delivering seamless customer journeys
 deck: Back-end coordination is key
 summary: A case study on how GSA measures and analyzes related websites to create a more seamless customer journey.
+
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
   - user-experience
   - analytics
+
 # See all authors at https://digital.gov/authors
 authors:
-  - 
+  - aaron-meyers
+
 slug: delivering-seamless-customer-journeys
 
 primary_image: 
@@ -66,7 +69,7 @@ Back in October 2022, the Office of Customer Experience [wrote about measuring o
 
 We generated narrative reports, with visualizations that look like the following:
 
-{{< img-right src="pie-chart-acquisition-dot-gov-measurement-criteria" alt="" >}}
+{{< img src="pie-chart-acquisition-dot-gov-measurement-criteria" alt="" >}}
 
 Each slice of this colorful “pie” represents one of the six categories above. The bigger the slice, the closer the website is to performing in an ideal manner, according to our methodology. Read more about how we use this methodology to determine the true value of a website.
 
