@@ -115,32 +115,56 @@
 }
 
 .dg-accordion-mobile-menu {
+  position: sticky;
+  top: -1px;
+  z-index: 100;
+
   &--heading {
     align-items: center;
     background-color: color("gray-cool-5");
     display: flex;
     flex-direction: row;
-    padding-left: 1rem;
+    padding-left: 1.5rem;
 
     .dg-guide__menu-bar-image {
       img {
-        height: 2.5rem;
-        width: 2.5rem;
+        height: 2rem;
+        width: 2rem;
       }
     }
 
     .dg-glossary__toggle {
-      height: 2.5rem;
+      margin-left: 0.75rem;
+      width: max-content;
     }
   }
 
   &--heading-images {
     align-items: flex-end;
     display: flex;
+    flex: 1 0 0;
     flex-direction: row;
+
+    img {
+      flex: 1 0 0;
+    }
+  }
+
+  .usa-accordion__heading {
+    height: 3.25rem;
   }
 
   .usa-accordion__button {
+    flex: 1 0 0;
     text-align: right;
+
+    &:focus {
+      outline: none;
+    }
+
+    h4 {
+      margin: 0;
+      padding: 0;
+    }
   }
 }
