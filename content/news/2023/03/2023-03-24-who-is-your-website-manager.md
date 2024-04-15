@@ -36,7 +36,7 @@ At GSA, we have over 150 public-facing websites. Some of those began as passion 
 There are three main reasons why one person needs to be in charge of each website. Someone must:
 
 1. Determine how well the website serves customers and meets agency mission, and oversee improvements when needed.
-2. Monitor compliance with the [more than 100 federal and agency laws, policies, and regulations](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/?dg) governing federal websites.
+2. Monitor compliance with the [more than 100 federal and agency laws, policies, and regulations](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services) governing federal websites.
 3. Receive credit for tackling this challenging job.
 
 Federal website management is not easy, and there is currently no standardized position description describing the knowledge, skills, and abilities required for people in this role. The work is varied and complex, requiring not only programmatic expertise, but a broad range of skills in design, accessibility, content management, user experience, and more. Even within our own agency, people holding this title were often tackling the work in very different ways. 

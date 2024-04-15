@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/piechart-1-website-a-meets-standards.png
+  # Image shortcode: {{< img src=piechart-1-website-a-meets-standards >}}'
+  date     :  2024-04-09 15:48:14 -0400
+  uid      :  piechart-1-website-a-meets-standards
+  width    :  300
+  height   :  300
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "A circular chart divided into 6 wedges, centered on a gray circle. Only 5 fill the circle, indicating the website almost completely meets standards."
+  

@@ -47,5 +47,5 @@ We are any federal employee who has ever struggled to bring about big or small c
 ## Related Resources
 
 * [18F Methods](https://methods.18f.gov/)
-* [Customer Experience Toolkit](https://digital.gov/resources/customer-experience-toolkit/?dg)
+* [Customer Experience Toolkit](https://digital.gov/resources/customer-experience-toolkit)
 * [GAO Agile Assessment Guide](hhttps://www.gao.gov/products/gao-20-590g)

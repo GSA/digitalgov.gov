@@ -5,6 +5,7 @@ title: Federal Plain Language Guidelines
 summary: "The Plain Language Action and Information Network (PLAIN) put together these federal guidelines to help implement the Plain Language Act of 2010."
 topics:
   - plain-language
+  - policy
 authors:
   - apiazza
 ---

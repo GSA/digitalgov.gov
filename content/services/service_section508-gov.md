@@ -9,7 +9,7 @@ summary: "Guidance for federal agencies on IT accessibility compliance."
 source: 'gsa'
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.section508.gov/"
 
 contact: section.508@gsa.gov
@@ -29,5 +29,6 @@ topics:
   - product-and-project-management
   - accessibility
   - governance
+  - policy
 
 ---

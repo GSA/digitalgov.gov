@@ -5,6 +5,7 @@ title: Antideficiency Act Implications of Certain Online Terms of Service Agreem
 summary: "This memo contains the opinion by the Office of Legal Counsel (OLC) of the Department of Justice (DOJ) and sheds light on specific, problematic terms of use in social media products."
 topics:
   - terms-of-service
+  - policy
 authors:
   - andreanocesigritz
 expirydate: "2023-11-21"

@@ -14,6 +14,7 @@ topics:
   - communication
   - multilingual
   - user-experience
+  - policy
 featured_image:
   uid: usagov-marketing
   alt: 'USAGov Logo'

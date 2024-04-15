@@ -88,34 +88,7 @@
 
         {{- end -}}
 
-
-        <footer>
-          <a
-            class="btn"
-            href="{{- "news" | relURL -}}"
-            title="View news and updates page"
-          >
-            <span>See all News</span>
-            <svg
-              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
-              aria-hidden="true"
-              focusable="false"
-              role="img"
-            >
-              <use
-                xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
-              ></use>
-            </svg>
-          </a>
-          <p>
-            Have a case study to share? Did your team recently launch
-            something?<br /><a
-              href="{{- "contribute" | relURL -}}"
-              title="Contribute to Digital.gov"
-              ><strong>Learn how you can contribute</strong></a
-            >
-          </p>
-        </footer>
+        {{- partial "partials/core/see-all-footer.html" -}}
       </section>
     </div>
   </div>
