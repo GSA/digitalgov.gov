@@ -11,7 +11,7 @@ topics:
   - analytics
 # See all authors at https://digital.gov/authors
 authors:
-  - aaron-meyers
+  - 
 slug: delivering-seamless-customer-journeys
 
 primary_image: 
