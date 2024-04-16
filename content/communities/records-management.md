@@ -4,7 +4,7 @@ title: Records management
 summary: "These communities of interest are for federal staff seeking to improve records management across the government."
 
 # Redirects: Enter the full URL that this page will point to.
-redirectto: https://www.section508.gov/manage/join-the-508-community/
+redirectto: https://www.archives.gov/records-mgmt/policy/coi
 
 # See all topics at https://digital.gov/topics
 topics:
