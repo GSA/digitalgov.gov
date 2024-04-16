@@ -7,7 +7,7 @@ summary: "An inventory of official government social media accounts and mobile a
 
 # Will this point to an external source URL?
 
-# source_url: "https://digital.gov/services/u-s-digital-registry/"
+source_url: "https://digital.gov/services/u-s-digital-registry/"
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
