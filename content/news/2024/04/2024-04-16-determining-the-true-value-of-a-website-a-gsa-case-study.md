@@ -111,7 +111,7 @@ View all sections of the law and the circular mentioned above:
 
 We visualize this evaluation in website maps, rendered as charts that are available internally to GSA employees. This helps us see examples of good performers, such as Website A (on the left), and not-so-good performers, like Website B (on the right.) 
 
-{{< img src="piechart-1-website-a-meets-standards" >}} {{< img src="piechart-2-website-a-does-not-meets-standards" >}}
+<center><img src="https://s3.amazonaws.com/digitalgov/piechart-1-website-a-meets-standards.png" width="300"> <img src="https://s3.amazonaws.com/digitalgov/piechart-2-website-a-does-not-meets-standards.png" width="300"></center>
 
 In addition, these charts, like all maps <sup>1</sup>, contains some decisions that prioritize how the information is rendered. They include: 
 
