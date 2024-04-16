@@ -1,6 +1,4 @@
 ---
-url: /services/u-s-digital-registry/
-
 # What is the name of the product or service?
 title: "U.S. Digital Registry"
 
