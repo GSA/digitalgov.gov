@@ -30,25 +30,33 @@ const variantSettings = {
 };
 
 /**
- * Separate image name, extension and directory path and return as an object
- * @param {string} image - original image filename
+ * Returns file system image path
+ *
+ * @param {image} image - original image filename
  */
-
-function getImageDetails(image) {
-  const [imageName, imageExtension] = image.split(".");
-  // get the full filepath for the provided image
+function getImagePath(image) {
   const imagePath = path.join(
     path.resolve(),
     `${processImagesDirectory}`,
     image
   );
+  return path.parse(imagePath);
+}
 
-  const imageVariant = {
-    name: imageName,
-    extension: imageExtension,
-    path: imagePath,
+/**
+ * Separate image name, extension and directory path and return as an object
+ *
+ * @param {string} image - original image filename
+ */
+
+function getImageDetails(image) {
+  const imageData = getImagePath(image);
+
+  return {
+    name: imageData.name,
+    extension: imageData.ext,
+    path: `${imageData.dir}/${imageData.name}${imageData.ext}`,
   };
-  return imageVariant;
 }
 
 /**
@@ -57,10 +65,8 @@ function getImageDetails(image) {
  * @param {string} imageToProcess - image name
  */
 async function processImageOriginal(imageToProcess) {
-  // const image = getImageDetails(imageToProcess);
-
-  await sharp(imageToProcess.path).toFile(
-    `${processedImagesDirectory}/${imageToProcess.name}.${imageToProcess.extension}`,
+  await sharp(`${imageToProcess.path}`).toFile(
+    `${processedImagesDirectory}/${imageToProcess.name}${imageToProcess.extension}`,
     (err) => {
       if (err)
         console.error(`Error processing variant ${imageToProcess.path}:`, err);
@@ -75,10 +81,10 @@ async function processImageOriginal(imageToProcess) {
  * @param {number} variantSetting - variant size and name
  */
 async function createResponsiveVariant(imageToProcess, imageVariantSetting) {
-  await sharp(imageToProcess.path)
+  await sharp(`${imageToProcess.path}`)
     .resize(imageVariantSetting.width)
     .toFile(
-      `${processedImagesDirectory}/${imageToProcess.name}${imageVariantSetting.suffix}.${imageToProcess.extension}`,
+      `${processedImagesDirectory}/${imageToProcess.name}${imageVariantSetting.suffix}${imageToProcess.extension}`,
       (err) => {
         if (err)
           console.error(
@@ -111,6 +117,7 @@ async function processImageVariants(image) {
  */
 async function processImages() {
   fs.readdir(`${processImagesDirectory}`, (err, images) => {
+    // images.length returns undefined when no images exist
     if (images === undefined) {
       console.error("No images to process");
     }
