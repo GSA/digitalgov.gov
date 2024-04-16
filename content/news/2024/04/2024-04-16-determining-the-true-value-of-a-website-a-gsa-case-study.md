@@ -113,18 +113,18 @@ We visualize this evaluation in website maps, rendered as charts that are availa
 
 <center><img src="https://s3.amazonaws.com/digitalgov/piechart-1-website-a-meets-standards.png" width="300"> <img src="https://s3.amazonaws.com/digitalgov/piechart-2-website-a-does-not-meets-standards.png" width="300"></center>
 
-In addition, these charts, like all maps <sup>1</sup>, contains some decisions that prioritize how the information is rendered. They include: 
+In addition, these charts, like all maps <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>, contains some decisions that prioritize how the information is rendered. They include: 
 
 - **An equal weight to all datasets and data types, regardless of fidelity**. In the charts above, the slices spread out from 0 along even increments. Our measurement of customer-centricity gives equal weight to whether a site proactively listens to their customers, as well as to whether it has the resources to implement change.
 - **A direct comparison by slice**. For example, our customer-centricity slice gives the same amount of distance from the center for listening to its customers as our required links slice gives for including information about privacy, regardless of the fact that customer listening is foundationally different (and more complicated) as an activity than including required links.
 
-We made these decisions because to weight all of the metrics would be to travel down the coastline paradox <sup>2</sup>, meaning: we had to identify a stopping point for measurement and comparison that is somewhat arbitrary because, paradoxically, the more closely we measure and compare, the less clear the GSA digital ecosystem would become. These measures are the baseline because, broadly, they are fair in their unfairness: some things are easier to do, and some things are harder, but what is “easier” and what is “harder” differs depending on the resources available to each website team.
+We made these decisions because to weight all of the metrics would be to travel down the coastline paradox <sup><a aria-describedby="footnote-label" href="#fn2" id="footnotes-ref2">[2]</a></sup>, meaning: we had to identify a stopping point for measurement and comparison that is somewhat arbitrary because, paradoxically, the more closely we measure and compare, the less clear the GSA digital ecosystem would become. These measures are the baseline because, broadly, they are fair in their unfairness: some things are easier to do, and some things are harder, but what is “easier” and what is “harder” differs depending on the resources available to each website team.
 
 But even in comparing websites using charts and maps containing multiple dataset types, we’re missing some nuance. “Website A” is a simple, informational site, whereas “Website B” contains a pricing feature, which introduces additional complexities that are more difficult to manage than simple textual information. To give visibility to this nuance, the Service Design team uses these maps as part of a broader website evaluation package, which includes qualitative research interviews and subsequent evaluation write ups. These are sent to every website team within three weeks after we conduct the research interview. Taken together, the quantitative and qualitative data in the website evaluation packages allow GSA staff to consistently measure how digital properties are functioning, and what their impact is on customers.
 
 ## Concluding which websites should exist
 
-The reality is: value exists in dimensions, not in single data points, or even in single datasets. To further complicate things, the closer you look at single datasets, the more your decision-making process is complicated, rather than clarified. This is because each data type and each data point in complex systems can be broken down into infinitely smaller pieces, rendering decisions made based on these pieces more accurate, but also of smaller and smaller impact. <sup>3</sup>
+The reality is: value exists in dimensions, not in single data points, or even in single datasets. To further complicate things, the closer you look at single datasets, the more your decision-making process is complicated, rather than clarified. This is because each data type and each data point in complex systems can be broken down into infinitely smaller pieces, rendering decisions made based on these pieces more accurate, but also of smaller and smaller impact. <sup><a aria-describedby="footnote-label" href="#fn3" id="footnotes-ref3">[3]</a></sup>
 
 None of the measures in the Enterprise Digital Experience composite indicator or their use as a whole pie results in an affirmation or denial of the value of a digital property to the agency or to the public; value will always exist as an interpretation of these datasets. The indicator can tell us how existing sites are doing, but not whether we should continue supporting them. 
 
@@ -136,7 +136,7 @@ To understand whether a website is worth supporting and how to evolve it, the Se
 
 Customer dialogue is the responsibility of each team, and technical evaluations are readily available, thanks to tools like the Digital Analytics Program (DAP), but enterprise-level meta-analyses require a cross-functional view. This view can be attained through matrixed initiatives like GSA’s Service Design program, or cross-functional groups like GSA’s Digital Council, in collaboration with program teams and leadership. 
 
-From an enterprise perspective, the next phase in our evaluation of GSA properties is to apply service categories to each website, to better understand how GSA is working along categorical lines, instead of businesses or brands. Taxonomical work like this is the domain of enterprise architecture. Our service category taxonomy was compiled by using the Federal Enterprise Architecture Framework (FEAF) <sup>4</sup as a starting point, and crosswalks a website’s designed function with its practical function, evaluated through general and agency use.
+From an enterprise perspective, the next phase in our evaluation of GSA properties is to apply service categories to each website, to better understand how GSA is working along categorical lines, instead of businesses or brands. Taxonomical work like this is the domain of enterprise architecture. Our service category taxonomy was compiled by using the Federal Enterprise Architecture Framework (FEAF) <sup><a aria-describedby="footnote-label" href="#fn4" id="footnotes-ref4">[4]</a></sup> as a starting point, and crosswalks a website’s designed function with its practical function, evaluated through general and agency use.
 
 We’re starting to leverage service categories, and working with teams to create a more coalesced view of website value as we do so.
 
@@ -152,9 +152,13 @@ If you work at a U.S. federal government agency, and would like to learn more ab
 
 ---
 
-## Footnotes
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+<ol>
+<li id="fn1">Wu HY, Niedermann B, Takahashi S, Roberts MJ, Nöllenburg M. “A Survey on Transit Map Layout - from Design, Machine, and Human Perspectives.” Comput Graph Forum. 2020 Jun;39(3):619-646. doi: 10.1111/cgf.14030. Epub 2020 Jul 18. PMID: 33041405; PMCID: PMC7539984 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539984/ <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn2">High resolution. 2012. What Is The Coastline Paradox? Hosted by Veritasium, YouTube. https://www.youtube.com/watch?v=I_rw-AJqpCM  <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
+<li id="fn3">Stoa, Ryan, The Coastline Paradox (August 30, 2019). Rutgers University Law Review, Volume 72, Issue 2 (2020), Available at SSRN: https://ssrn.com/abstract=3445756 or http://dx.doi.org/10.2139/ssrn.3445756 <a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
+<li id="fn4">Various, including Tupper, Charles D, 2011. “Enterprise Architecture Frameworks and Methodologies.” ScienceDirect. https://www.sciencedirect.com/topics/computer-science/federal-enterprise-architecture <a href="#footnotes-ref4" aria-label="Back to content">↩</a></li>
+</ol>
+</footer>
 
-1. Wu HY, Niedermann B, Takahashi S, Roberts MJ, Nöllenburg M. “A Survey on Transit Map Layout - from Design, Machine, and Human Perspectives.” Comput Graph Forum. 2020 Jun;39(3):619-646. doi: 10.1111/cgf.14030. Epub 2020 Jul 18. PMID: 33041405; PMCID: PMC7539984 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539984/ .
-2. High resolution. 2012. What Is The Coastline Paradox? Hosted by Veritasium, YouTube. https://www.youtube.com/watch?v=I_rw-AJqpCM 
-3. Stoa, Ryan, The Coastline Paradox (August 30, 2019). Rutgers University Law Review, Volume 72, Issue 2 (2020), Available at SSRN: https://ssrn.com/abstract=3445756 or http://dx.doi.org/10.2139/ssrn.3445756
-4. Various, including Tupper, Charles D, 2011. “Enterprise Architecture Frameworks and Methodologies.” ScienceDirect. https://www.sciencedirect.com/topics/computer-science/federal-enterprise-architecture 
