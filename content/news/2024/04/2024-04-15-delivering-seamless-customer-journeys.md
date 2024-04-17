@@ -2,7 +2,7 @@
 date: 2024-04-16
 title: Delivering seamless customer journeys
 deck: Back-end coordination is key
-summary: GSA shares their 4-step process used to measure and analyze related websites to improve customer experience.
+summary: GSA shares a 4-step process used to measure and analyze related websites, and additional plans to improve customers' digital experience.
 
 # See all topics at https://digital.gov/topics
 topics:
