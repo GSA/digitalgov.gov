@@ -79,84 +79,54 @@
   }
 }
 
-.usa-accordion__content {
-  background-color: color("gray-10");
-  padding: 0;
-}
-
-.dg-guide__menu-bar-links--mobile {
-  ul {
-    display: flex;
-    flex-direction: column;
-
-    margin: 0;
-    padding: 0;
-  }
-
-  li {
-    align-items: center;
-    border-bottom: 2px solid black;
-    display: flex;
-    height: units(5);
-    list-style-type: none;
-
-    .dg-current {
-      // font-weight: bold;
-      // border-bottom-width: 0.25rem;
-      // border-bottom-color: #2672de;
-      // border-bottom-style: solid;
-      font-weight: 600;
-    }
-  }
-
-  .dg-guide__menu-bar-link {
-    // margin-left: units(2.5);
-  }
-}
-
 .dg-accordion-mobile-menu {
   position: sticky;
   top: -1px;
-  z-index: 100;
+  z-index: z-index(100);
 
-  &--heading {
+  &__content {
+    background-color: color("gray-3");
+    padding: 0;
+  }
+
+  &__heading {
     align-items: center;
     background-color: color("gray-cool-5");
     display: flex;
     flex-direction: row;
-    padding-left: 1.5rem;
+    height: 3.25rem;
 
-    .dg-guide__menu-bar-image {
-      img {
-        height: 2rem;
-        width: 2rem;
-      }
-    }
-
-    .dg-glossary__toggle {
-      margin-left: 0.75rem;
-      width: max-content;
+    svg {
+      margin-top: units(1);
     }
   }
 
-  &--heading-images {
+  &__image {
+    display: flex;
+    margin-right: 1.5rem;
+    &-icon {
+      flex: 1 0 0;
+      height: 2rem;
+      width: 2rem;
+    }
+  }
+
+  &__image-container {
     align-items: flex-end;
     display: flex;
-    flex: 1 0 0;
+    flex: 10 0 0;
     flex-direction: row;
-
-    img {
-      flex: 1 0 0;
-    }
+    justify-content: right;
   }
 
-  .usa-accordion__heading {
-    height: 3.25rem;
+  &__image-glossary {
+    margin-left: 0.75rem;
   }
 
-  .usa-accordion__button {
+  &__button {
+    background-color: color("blue-warm-20v");
     flex: 1 0 0;
-    text-align: right;
+    text-align: left;
 
     &:focus {
       outline: none;
@@ -165,6 +135,44 @@
     h4 {
       margin: 0;
       padding: 0;
+    }
+  }
+
+  &__nav {
+    &-list {
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+      padding: units(2);
+    }
+
+    &-list-item {
+      align-items: center;
+      display: flex;
+      height: units(6);
+      list-style-type: none;
+    }
+  }
+
+  &__link {
+    color: color("black");
+    font-size: font-size("sans", "md");
+    font-weight: font-weight(400);
+    margin: 0 units(1.5);
+    text-decoration: none;
+
+    &:hover {
+      @include u-border-bottom("05", "primary", "solid");
+      color: color("black");
+    }
+
+    &:visited {
+      color: color("black");
+    }
+
+    &.dg-current {
+      color: color("blue-warm-60v");
+      font-weight: 700;
     }
   }
 }
