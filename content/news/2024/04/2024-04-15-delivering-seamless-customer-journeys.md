@@ -2,7 +2,7 @@
 date: 2024-04-16
 title: Delivering seamless customer journeys
 deck: Back-end coordination is key
-summary: A case study on how GSA measures and analyzes related websites to create a more seamless customer journey.
+summary: GSA's Office of Customer Experience shares their 4-step process used to measure and analyze related websites to improve customer experience.
 
 # See all topics at https://digital.gov/topics
 topics:
