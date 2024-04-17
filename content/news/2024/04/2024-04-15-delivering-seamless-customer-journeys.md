@@ -16,7 +16,7 @@ authors:
 
 slug: delivering-seamless-customer-journeys
 
-primary_image: "area-chart-six-measurement-criteria-mst-akhi-alamgir-istock-getty-images-1421829831"
+primary_image: 
 
 # Controls how this page appears across the site
 # 0 -- hidden
