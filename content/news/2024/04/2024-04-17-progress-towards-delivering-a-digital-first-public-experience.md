@@ -31,6 +31,7 @@ topics:
   - design
   - innovation
   - content-strategy
+  - policies-and-regulations
 
 slug: progress-towards-delivering-a-digital-first-public-experience
 # Controls how this page appears across the site
