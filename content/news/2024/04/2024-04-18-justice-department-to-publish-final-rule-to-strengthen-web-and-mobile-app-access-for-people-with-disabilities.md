@@ -17,6 +17,7 @@ topics:
   - human-centered-design
   - diversity-equity-and-inclusion
   - policy
+  - digital-service-delivery
 slug: justice-department-to-publish-final-rule-to-strengthen-web-and-mobile-app-access-for-people-with-disabilities
 # Controls how this page appears across the site
 # 0 -- hidden
