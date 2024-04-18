@@ -2,7 +2,7 @@
 # Originally published at the following URL
 source_url: https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people
 source: doj
-date: 2024-04-18
+date: 2024-04-08
 title: Justice Department to Publish Final Rule to Strengthen Web and Mobile App
   Access for People with Disabilities
 deck: Attorney General Merrick B. Garland today signed a final rule under Title
