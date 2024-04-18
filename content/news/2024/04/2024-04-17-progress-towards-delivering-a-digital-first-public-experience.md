@@ -3,7 +3,7 @@
 source_url: https://www.whitehouse.gov/omb/briefing-room/2024/04/17/progress-towards-delivering-a-digital-first-public-experience/
 source: whitehouse
 date: 2024-04-17
-title: "Progress Towards Delivering a Digital-First Public Experience"
+title: "Progress towards delivering a digital-first public experience"
 deck: President Biden and Vice President Harris are driving a bold vision for
   government agencies to provide excellent digital experiences for Americans, as
   outlined in the recent guidance from the Office of Management and Budget
