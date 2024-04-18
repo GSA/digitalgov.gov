@@ -1,8 +1,8 @@
 ---
-date: 2024-04-15
-title: Delivering seamless customer journeys
-deck: Back-end coordination is key
-summary: A case study on how GSA measures and analyzes related websites to create a more seamless customer journey.
+date: 2024-04-16
+title: "Delivering seamless customer journeys"
+deck: "Back-end coordination is key"
+summary: "GSA shares a 4-step process used to measure and analyze related websites, and additional plans to improve customers' digital experience."
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -16,7 +16,7 @@ authors:
 
 slug: delivering-seamless-customer-journeys
 
-primary_image: "area-chart-six-measurement-criteria-mst-akhi-alamgir-istock-getty-images-1421829831"
+primary_image: 
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -70,7 +70,7 @@ We generated narrative reports, with visualizations that look like the following
 
 <img src="https://s3.amazonaws.com/digitalgov/pie-chart-website-alignment-six-measurement-criteria.png" width="400" align="center">
 
-Each slice of this colorful “pie” represents one of the six categories above. The bigger the slice, the closer the website is to performing in an ideal manner, according to our methodology. Read more about how we use this methodology to determine the true value of a website.
+Each slice of this colorful “pie” represents one of the six categories above. The bigger the slice, the closer the website is to performing in an ideal manner, according to our methodology. Read more about how we use this methodology to [determine the true value of a website](https://digital.gov/2024/04/16/determining-the-true-value-of-a-website-a-gsa-case-study/).
 
 A year later, we’ve reviewed 136 websites, and we’re reviewing the remaining sites this year to gain further insights from across our entire web portfolio.
 
