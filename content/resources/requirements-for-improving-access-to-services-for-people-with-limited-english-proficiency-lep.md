@@ -1,0 +1,52 @@
+---
+date: 2024-04-19
+source: ""
+title: Requirements for improving access to services for people with limited
+  English proficiency (LEP)
+deck: "Understand the policy framework: Executive Order 13166, Attorney General
+  memorandum, and Title VI of the Civil Rights Act"
+summary: Learn how to strengthen and improve meaningful language access for all
+  people in the U.S., regardless of the language they speak.
+# See all topics at https://digital.gov/topics
+topics:
+  - multilingual
+  - governance
+slug: requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 1
+---
+## What is Executive Order 13166?
+
+All people in this country, regardless of the language they speak, deserve meaningful access to programs and activities that are conducted or supported by federal agencies. 
+
+[Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency](https://www.federalregister.gov/documents/2000/08/16/00-20938/improving-access-to-services-for-persons-with-limited-english-proficiency) was issued more than two decades ago in August 2000. It affirms the federal government's commitment to improve the accessibility of these services, and to help ensure full participation by individuals with limited English proficiency.
+
+In November 2022, Attorney General Merrick B. Garland issued a memorandum to all federal agencies, [Strengthening the Federal Government’s Commitment to Language Access (PDF, 282 KB, 3 pages)](https://www.justice.gov/ag/file/1554086/dl?inline). This memo builds upon Executive Order 13166 — requiring agencies to reexamine and enhance their practices for creating a more accessible environment to those with limited English proficiency. Additionally, the memo asks agencies to share best practices for providing access to multilingual information with each other.
+
+## Why is it important?
+
+Millions of Americans have [limited English proficiency](https://www.lep.gov/), meaning that they have difficulty reading, writing, speaking—or any combination of the three—in English. For example, finding a job, receiving education, and accessing healthcare can all be extremely difficult for these individuals when resources and information are not provided in their language. 
+
+The Census Bureau estimates that about [8.3% of the U.S. population](https://public.tableau.com/views/PeopleThatSpeakEnglishLessthanVeryWellintheUnitedStates/2018LanguageCounty?:showVizHome=no) is of [limited English proficiency (LEP)](https://www.census.gov/topics/population/language-use/about/faqs.html), which they [define](https://www.census.gov/topics/population/language-use/about/faqs.html#ti1043546883) as those who respond that they speak English at any level less than "very well." And the need for language access will continue to grow as the population with limited English proficiency grows. 
+
+Further strengthening and improving meaningful language access ensures we address linguistic barriers in governmental services that would otherwise deny individuals a full opportunity to participate in economic, social, and civic life.
+
+## What’s in the Executive Order?
+
+The executive order requires agencies to examine the services they provide, and then develop and implement a system by which LEP individuals can meaningfully access these services. 
+
+[Title VI of the landmark Civil Rights Act of 1964](https://www.justice.gov/crt/fcs/TitleVI) prohibits discrimination on the basis of race, color, and national origin in programs and activities receiving federal financial assistance. Executive Order 13166 also requires agencies to ensure that these recipients of federal financial assistance provide meaningful access to their applicants and beneficiaries with limited English proficiency. The [Department of Justice’s Final LEP Guidance](https://www.justice.gov/crt/doj-final-lep-guidance-signed-6-12-02) provides compliance standards that recipients must follow.
+
+## How does the memo strengthen the Executive Order? 
+
+The Attorney General’s November 2022 memorandum requires agencies to improve upon their current processes for language access. The criteria for enhancing agency language access systems involves assessing whether agencies: 
+
+* Can enhance their existing language access policies and plans
+* Can effectively reach individuals with limited English proficiency when disseminating information
+* Have considered updates to guidance for federal financial assistance recipients regarding obligations to provide meaningful language access under the requirements of Title VI of the Civil Rights Act of 1964 and its implementing regulations
+* Can adapt their digital communications to welcome individuals with limited English proficiency
+
+Executive Order 13166 requires each federal agency to create a limited English proficiency (LEP) plan. In November 2023, as part of the one-year anniversary of the Attorney General’s memorandum on strengthening the federal government’s commitment to language access, several agencies released their [federal agency language access plans on LEP.gov](https://www.lep.gov/language-access-plans).
