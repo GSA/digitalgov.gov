@@ -121,7 +121,7 @@ However, CSS can increase application load time if absolute dimensions and posit
 
 **Solution** – In the `<head>` section of the HTML, use language to call the CSS file externally, keeping the CSS instructions in a separate file from the HTML (see below).
 
-```
+```html
 <link rel="stylesheet" type="text/css" href="https://mysite.com/main.css" media="screen" title="style (screen)" />
 ```
 
@@ -195,7 +195,7 @@ Page weight, also known as "the gravity of the web," decreases your application 
 
 **Solution** - Specify image width and height by including the `width` and `height` attributes when you use the `img` element (see below).
 
-```
+```html
 <img src="images/clown.jpg" width="50" height="50" />
 ```
 
@@ -216,7 +216,7 @@ Reducing the number of times your application requests and processes resources w
 
 **Solution** - Leverage browser caching by changing the request headers of your resources to use caching. You can either add some code to the `.htaccess` configuration file on the web host/server or use the basic `Cache-Control` HTTP header (see below).
 
-```
+```bash
 Cache-Control: max-age=2592000, public
 ```
 
