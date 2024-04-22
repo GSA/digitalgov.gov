@@ -38,7 +38,7 @@ weight: 1
 
 Each image has a corresponding data file in `/data/images/`. That file specifies the
 
-```
+```bash
 
 date     : 2017-08-22 21:04:32 -0400
 uid      : very-large-array-nm
