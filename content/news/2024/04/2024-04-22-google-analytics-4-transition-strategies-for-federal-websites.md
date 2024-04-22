@@ -3,7 +3,7 @@
 source_url: https://blog-nrrd.doi.gov/ga4-transition/
 source: doi-revenuedata
 date: 2024-04-22
-title: Google Analytics 4 transition strategies for federal websites
+title: "Google Analytics 4: Transition strategies for federal websites"
 deck: Learn how the Open Data, Design, and Development (ODDD) team from the
   Department of the Interior (DOI) agency property transitioned from Google
   Analytics - Universal Analytics to Google Analytics 4! This blog outlines how
