@@ -98,15 +98,13 @@
     display: grid;
     grid-template-columns: 1fr 3fr;
     height: units(7);
-
-    svg {
-      margin-top: units(1);
-    }
   }
 
   &__image {
     display: flex;
     margin-right: units(4);
+    width: max-content;
+
     &-icon {
       flex: 1 0 0;
       height: units(4);
@@ -123,6 +121,12 @@
 
   &__image-glossary {
     margin-right: units(1);
+    width: auto; // override max-content;
+
+    svg {
+      margin-top: units(1);
+      width: auto;
+    }
   }
 
   &__button {
