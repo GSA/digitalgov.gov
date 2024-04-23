@@ -54,6 +54,6 @@ Influencer programs can require extensive planning. Use this resource to make it
 
 Explore the full guide, [Influencers 101: Best Practices and Practical Approaches for Public Health Campaigns](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237).
 
-Then, check out some multilingual examples of how this guide has been put into action by the [Tobacco Education Resource Library (TERL)](https://digitalmedia.hhs.gov/tobacco).
+Then, check out some [multilingual examples](https://digitalmedia.hhs.gov/tobacco/print_materials/search) of how this guide has been put into action by the FDA's [Tobacco Education Resource Library](https://digitalmedia.hhs.gov/tobacco), as well as their [downloadable influencer resources](https://digitalmedia.hhs.gov/tobacco/search?search=influencers).
 
 Finally, if you want to connect with others interested in or experienced working with social media influencers, join the [Digital.gov social media community](https://digital.gov/communities/social-media/).
