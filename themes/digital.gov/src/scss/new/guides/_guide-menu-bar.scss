@@ -26,13 +26,14 @@
   }
 
   &-link {
-    @include u-font("sans", "md");
-    @include u-text("light", "black");
+    color: color("black");
+    font-size: size("sans", "md");
+    font-weight: font-weight("light");
     margin: 0 units(3);
     text-decoration: none;
 
     &:hover {
-      @include u-border-bottom("05", "primary", "solid");
+      border-bottom: units(0.5) color("primary") solid;
       color: color("black");
     }
 
@@ -64,7 +65,7 @@
   }
 
   .dg-current {
-    @include u-border-bottom("05", "primary", "solid");
+    border-bottom: units(0.5) color("primary") solid;
     font-weight: font-weight("medium");
   }
 
@@ -86,15 +87,17 @@
 
   &__content {
     background-color: color("gray-3");
+    box-shadow: 0px 12px 12px 2px rgba(0, 0, 0, 0.35);
     padding: 0;
   }
 
   &__heading {
     align-items: center;
     background-color: color("gray-cool-5");
-    display: flex;
-    flex-direction: row;
-    height: 3.25rem;
+    // Fixes flexbox width layout overflow
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    height: units(7);
 
     svg {
       margin-top: units(1);
@@ -103,29 +106,29 @@
 
   &__image {
     display: flex;
-    margin-right: 1.5rem;
+    margin-right: units(4);
     &-icon {
       flex: 1 0 0;
-      height: 2rem;
-      width: 2rem;
+      height: units(4);
+      width: units(4);
     }
   }
 
   &__image-container {
     align-items: flex-end;
     display: flex;
-    flex: 10 0 0;
     flex-direction: row;
     justify-content: right;
   }
 
   &__image-glossary {
-    margin-left: 0.75rem;
+    margin-right: units(1);
   }
 
   &__button {
     background-color: color("blue-warm-20v");
     flex: 1 0 0;
+    height: 100%;
     text-align: left;
 
     &:focus {
@@ -162,7 +165,7 @@
     text-decoration: none;
 
     &:hover {
-      @include u-border-bottom("05", "primary", "solid");
+      border-bottom: units(0.5) color("primary") solid;
       color: color("black");
     }
 
