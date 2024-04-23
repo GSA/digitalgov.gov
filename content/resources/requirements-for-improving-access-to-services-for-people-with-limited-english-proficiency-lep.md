@@ -40,6 +40,23 @@ The executive order requires agencies to examine the services they provide, and 
 
 [Title VI of the landmark Civil Rights Act of 1964](https://www.justice.gov/crt/fcs/TitleVI) prohibits discrimination on the basis of race, color, and national origin in programs and activities receiving federal financial assistance. Executive Order 13166 also requires agencies to ensure that these recipients of federal financial assistance provide meaningful access to their applicants and beneficiaries with limited English proficiency. The [Department of Justice’s Final LEP Guidance](https://www.justice.gov/crt/doj-final-lep-guidance-signed-6-12-02) provides compliance standards that recipients must follow.
 
+<article class="dg-ring">
+  <h2 class="dg-ring__title"><a id="executive-order-13166" class="usa-anchor"></a>Executive Order 13166</h2>
+  <p>Executive Order 13166 requires:</p>
+<ul>
+<li>
+<p>Each agency to prepare a plan to improve access to its programs and activities by eligible LEP individuals</p>
+</li>
+<li>
+<p>Each agency providing financial assistance to draft title VI guidance specifically tailored to its recipients that is consistent with the LEP Guidance issued by the Department of Justice</p>
+</li>
+<li>
+<p>Agencies to ensure that stakeholders, such as LEP people and their representative organizations, recipients, and other appropriate individuals or entities, have an adequate opportunity to provide input.</p>
+<p><a href="https://www.federalregister.gov/documents/2000/08/16/00-20938/improving-access-to-services-for-persons-with-limited-english-proficiency">Explore Executive Order 13166</a></p>
+</li>
+</ul>
+</article>
+
 ## How does the memo strengthen the Executive Order? 
 
 The Attorney General’s November 2022 memorandum requires agencies to improve upon their current processes for language access. The criteria for enhancing agency language access systems involves assessing whether agencies: 
@@ -48,5 +65,11 @@ The Attorney General’s November 2022 memorandum requires agencies to improve u
 * Can effectively reach individuals with limited English proficiency when disseminating information
 * Have considered updates to guidance for federal financial assistance recipients regarding obligations to provide meaningful language access under the requirements of Title VI of the Civil Rights Act of 1964 and its implementing regulations
 * Can adapt their digital communications to welcome individuals with limited English proficiency
+
+{{< note >}} 
+Digital.gov provides information and resources for federal agencies related to web and digital policies. However, we cannot interpret the statutes or specific requirements.
+
+Visit <a href="https://www.lep.gov/contact-us">LEP.gov/contact-us</a> to contact the Department of Justice’s Civil Rights Division with any questions about interpretations of the executive order, memo, or Title VI of the Civil Rights Act. 
+{{< /note >}}
 
 Executive Order 13166 requires each federal agency to create a limited English proficiency (LEP) plan. In November 2023, as part of the one-year anniversary of the Attorney General’s memorandum on strengthening the federal government’s commitment to language access, several agencies released their [federal agency language access plans on LEP.gov](https://www.lep.gov/language-access-plans).
