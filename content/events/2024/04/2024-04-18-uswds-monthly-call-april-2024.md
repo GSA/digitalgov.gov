@@ -21,6 +21,8 @@ primary_image: 2024-uswds-monthly-call-april-title-card
 youtube_id: 
 ---
 
+{{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
+
 Web Components have been mentioned in a lot of recent discussions about the future of the U.S. Web Design System (USWDS) . What is this technology, exactly, and what can it mean for the design system?
 
 In this session, the USWDS team will:
