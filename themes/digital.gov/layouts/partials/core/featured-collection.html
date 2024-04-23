@@ -30,7 +30,7 @@
               {{/* Pass these vars into the collection template
                 (see bottom of collection.html partial)
               */}}
-              {{- template "collection-list-item" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+              {{- template "collection-list-item" dict "item" . "href" .Params.source_url "src" $src -}}
 
             {{- end -}}
 
@@ -42,7 +42,7 @@
             {{/* Pass these vars into the collection template
               (see bottom of collection.html partial)
             */}}
-            {{- template "collection-list-item" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
+            {{- template "collection-list-item" dict "item" . "href" .Params.source_url "src" $src -}}
 
           {{- end -}}
 

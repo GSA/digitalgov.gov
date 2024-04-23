@@ -11,7 +11,7 @@ summary: "A free hosted search platform for federal websites."
 source: 'searchgov'
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.search.gov/"
 
 

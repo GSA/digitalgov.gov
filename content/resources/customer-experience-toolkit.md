@@ -101,7 +101,7 @@ Designate a single person to be responsible for the customer experience agency-w
 - Identify content owners and establish editorial controls over content publication across the entire organization
 - [7 Inspiring Examples of Omni-Channel User Experiences](http://blog.hubspot.com/marketing/omni-channel-user-experience-examples) &#8211; HubSpot
 - [Join the Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/)
-- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/?dg) — A list of required links that all federal websites need to have.
+- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links) — A list of required links that all federal websites need to have.
 - [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 
 ### Follow all relevant laws and policies

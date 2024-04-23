@@ -6,7 +6,7 @@ title: "Federal Crowdsource Mobile Testing Program"
 summary: "Compatibility testing service that agencies can use to test the mobile-friendliness of their websites."
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 # source_url: ''
 
 # Images need to be 200x200px with a transparent background

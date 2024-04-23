@@ -12,6 +12,7 @@ topics:
   - social-media
   - podcast
   - communication
+  - records-management
 # See all authors at https://digital.gov/authors
 authors:
   - dominique-gebru

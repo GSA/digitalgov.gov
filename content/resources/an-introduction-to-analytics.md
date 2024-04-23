@@ -20,7 +20,7 @@ slug: an-introduction-to-analytics
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 6
+weight: 1
 
 ---
 

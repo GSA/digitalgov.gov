@@ -10,7 +10,7 @@ summary: "We make it easy to register and manage a .gov domain for US-based gove
 source: 'dotgov'
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://home.dotgov.gov/"
 
 contact: "registrar@dotgov.gov"
