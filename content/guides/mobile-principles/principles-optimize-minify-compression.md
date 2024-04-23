@@ -33,7 +33,6 @@ Your web server has gzip compression enabled (but may be configured differently 
 **General .htaccess** — Enable the zip parameters in the `.htaccess` file. Below is an example:
 
 ```bash
-
 <ifModule mod_gzip.c>
 mod_gzip_on Yes
 mod_gzip_dechunk Yes
