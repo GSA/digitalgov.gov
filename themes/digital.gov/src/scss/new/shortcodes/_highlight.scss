@@ -1,12 +1,8 @@
 @use "uswds-core" as *;
 
 .highlight {
-  @include u-padding-y(1);
-  @include u-padding-x(2);
-  @include u-bg("blue-warm-5");
-
   code {
-    background-color: #fff;
-    border-style: none;
+    background: none;
+    border: none;
   }
 }
