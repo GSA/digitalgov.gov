@@ -18,7 +18,7 @@ slug: uswds-monthly-call-april-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2024-uswds-monthly-call-april-title-card
-youtube_id: 
+youtube_id: GHomUbYTgwQ
 ---
 
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
