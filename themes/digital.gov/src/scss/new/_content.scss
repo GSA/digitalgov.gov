@@ -46,6 +46,7 @@
   // Example: `/resources/guide-create-mobile-friendly-websites`
   p > code {
     @include u-padding("1px");
+    @include u-bg("white");
     @include u-font("mono", "xs");
     @include u-line-height("mono", 1);
     @include u-border("1px", "solid", "base-lighter");
