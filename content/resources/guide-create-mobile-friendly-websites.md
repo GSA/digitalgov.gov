@@ -216,7 +216,7 @@ Reducing the number of times your application requests and processes resources w
 
 **Solution** - Leverage browser caching by changing the request headers of your resources to use caching. You can either add some code to the `.htaccess` configuration file on the web host/server or use the basic `Cache-Control` HTTP header (see below).
 
-```bash
+```nginx
 Cache-Control: max-age=2592000, public
 ```
 
