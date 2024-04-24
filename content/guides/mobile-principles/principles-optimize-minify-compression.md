@@ -32,7 +32,7 @@ Your web server has gzip compression enabled (but may be configured differently 
 
 **General .htaccess** — Enable the zip parameters in the `.htaccess` file. Below is an example:
 
-```bash
+```.htaccess
 <ifModule mod_gzip.c>
 mod_gzip_on Yes
 mod_gzip_dechunk Yes
@@ -47,7 +47,7 @@ mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
 
 **Apache Server** — Enable the zip parameters in the .htaccess file. Below is an example:
 
-```bash
+```.htaccess
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/html
 AddOutputFilterByType DEFLATE text/xml
@@ -62,7 +62,7 @@ AddOutputFilterByType DEFLATE application/x-javascript
 **NGINX Server** — Enable compression by adding the following code to your config file:
 
 
-```bash
+```nginx
 gzip on;
 gzip_comp_level 2;
 gzip_http_version 1.0;
