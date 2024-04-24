@@ -13,7 +13,7 @@ summary: "Guidance to Federal agency staff who play a role in IT accessibility."
 
 # What is the URL for this product or service?
 # Primary Domain — the link to your website, blog homepage, or news feed. (e.g., https://18f.gsa.gov/)
-# Note: We'll automatically add ?dg to the end of your URL, to help you track links back to your site.
+
 domain: "https://www.section508.gov"
 
 # Images need to be 250x250 px with a transparent background.
