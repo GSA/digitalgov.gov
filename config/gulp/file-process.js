@@ -23,9 +23,13 @@ const variantSettings = {
     width: 400,
     suffix: "_w400",
   },
-  desktop: {
+  desktop_md: {
     width: 800,
     suffix: "_w800",
+  },
+  desktop_lg: {
+    width: 1200,
+    suffix: "_w1200",
   },
 };
 
