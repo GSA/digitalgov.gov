@@ -2,6 +2,12 @@
   {{/* set the href as a variable */}}
   {{- $href := "" -}}
 
+  {{ if .Params.source_url }}
+    {{ $href = .Params.source_url }}
+  {{ else }}
+    {{ $href = .Params.url }}
+  {{ end }}
+
   {{/* Logos
     Get the "source" in the file and looks up the icon that is used there.
   */}}
