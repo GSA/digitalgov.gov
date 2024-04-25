@@ -27,11 +27,15 @@ summary: Embark on a journey into the heart of the Public Experience (PX)
   improvement, ensuring that every interaction leaves a lasting impact.
 # See all topics at https://digital.gov/topics
 topics:
+  - analytics
   - contact-centers
   - information-collection
   - human-centered-design
   - user-centered-design
   - best-practices
+  - trust
+  - multilingual
+  - budgeting-and-performance
 slug: creating-a-blueprint-for-quality-how-the-px-contact-center-helps-agents-grow-their-skills
 # Controls how this page appears across the site
 # 0 -- hidden
