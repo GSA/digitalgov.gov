@@ -74,5 +74,5 @@ Executive Order 13166 requires each federal agency to create a limited English p
 {{< note >}} 
 Digital.gov provides information and resources for federal agencies related to web and digital policies. However, we cannot interpret the statutes or specific requirements.
 
-Visit <a href="https://www.lep.gov/contact-us">LEP.gov/contact-us</a> to contact the Department of Justice’s Civil Rights Division with any questions about interpretations of the executive order, memo, or Title VI of the Civil Rights Act. 
+To contact the Department of Justice’s Civil Rights Division with any questions about interpretations of the executive order, memo, or Title VI of the Civil Rights Act, visit <a href="https://www.lep.gov/contact-us">LEP.gov/contact-us</a>. 
 {{< /note >}}
