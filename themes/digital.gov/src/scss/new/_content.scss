@@ -44,7 +44,7 @@
 
   // Inline code
   // Example: `/resources/guide-create-mobile-friendly-websites`
-  p > code {
+  code {
     @include u-padding-x(0.5);
     @include u-bg("white");
     @include u-font("mono", "xs");
