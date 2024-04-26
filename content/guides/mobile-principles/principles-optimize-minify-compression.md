@@ -45,7 +45,7 @@ mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
 </ifModule>
 ```
 
-**Apache Server** — Enable the zip parameters in the .htaccess file. Below is an example:
+**Apache Server** — Enable the zip parameters in the `.htaccess` file. Below is an example:
 
 ```.htaccess
 AddOutputFilterByType DEFLATE text/plain
