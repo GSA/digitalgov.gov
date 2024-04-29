@@ -1,7 +1,11 @@
 ---
 slug: comscore-report-october-2012
 date: 2012-11-14 14:13:09 -0400
+# Set date archived. Page will not publish if after date.
 expirydate: "2024-04-25"
+# Redirects: Enter the full URL that this page will point to.
+redirectto: https://digital.gov/guides/site-scanning/
+
 title: comScore Report, October 2012
 summary: 'In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA’s contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore'
 authors:
