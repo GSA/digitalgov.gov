@@ -242,7 +242,7 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 
 `Have a question about government services? Contact USA.gov`
 
-```
+```html
 <a href="https://www.usa.gov/" title="Contact USA.gov">Contact USA.gov</a>
 ```
 

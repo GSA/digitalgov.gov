@@ -263,7 +263,7 @@ Here’s what the request would look like using the curl-like tool [httpie](http
 
 **Redacted Inventory (PDL)**
 
-```
+```bash
 http -v POST https://inventory.data.gov/organization/[organization-id]/redacted.json
 Authorization:xxx-your-api-key-xxx
 Content-Type:application/x-www-form-urlencoded
@@ -272,7 +272,7 @@ Cookie:auth_tkt=foo
 
 **Unredacted Inventory (EDI)**
 
-```
+```bash
 http -v POST https://inventory.data.gov/organization/[organization-id]/unredacted.json
 Authorization:xxx-your-api-key-xxx
 Content-Type:application/x-www-form-urlencoded

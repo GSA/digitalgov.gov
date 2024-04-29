@@ -42,11 +42,11 @@
     clear: both;
   }
 
-  // Code
+  // Inline code
+  // Example: `/resources/guide-create-mobile-friendly-websites`
   code {
-    @include u-padding-x("05");
-    @include u-padding-y("1px");
-    @include u-bg("base-lightest");
+    @include u-padding-x(0.5);
+    @include u-bg("white");
     @include u-font("mono", "xs");
     @include u-line-height("mono", 1);
     @include u-border("1px", "solid", "base-lighter");
