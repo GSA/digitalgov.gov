@@ -12,6 +12,7 @@ aliases:
   - /sitescan/
   - /site-scans/
   - /sitescans/
+  - /comscore-report-october-2012/
 image: guide-site-scanning
 primary_image: guide-site-scanning
 layout: single
