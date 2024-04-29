@@ -5,9 +5,6 @@ date: 2012-11-14 14:13:09 -0400
 # Redirects: Enter the full URL that this page will point to.
 redirectto: https://digital.gov/guides/site-scanning/
 
-# Set date archived. Page will not publish if after date.
-expirydate: "2024-04-25"
-
 title: "comScore Report, October 2012"
 summary: "In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors."
 
