@@ -2,6 +2,9 @@
 # What is the name of the product or service?
 title: "Federal Crowdsource Mobile Testing Program"
 
+# Redirects: Enter the full URL that this page will point to.
+redirectto: https://digital.gov/topics/mobile/
+
 # Keep it short — should be no longer than 10 words.
 summary: "Compatibility testing service that agencies can use to test the mobile-friendliness of their websites."
 
