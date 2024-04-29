@@ -57,6 +57,9 @@ markup:
     endLevel: 3
     ordered: false
     startLevel: 1
+  highlight:
+    style: lovelace
+    tabwidth: 2
 
 params:
   description: "Guidance on building better digital services in government"
