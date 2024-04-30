@@ -53,9 +53,6 @@ So, how do you accomplish all of this on a government budget? Luckily, with many
 
 As Cooper, a psychologist by training, pointed out you can find many low cost and free online training resources as well as various books and YouTube videos (Google Analytics, Google Ventures, etc.) As he pointed out in his concluding remarks, “other people are writing mobile app and websites and are sharing their experiences like I am with you. That is how I learned. A lot of trial and error.”
 
-Watch the webinar to see how you can learn how to use pirate metrics in your agency!
-
-{{< youtube id="C_P1_iXOwJc" >}}
 
 Helpful Training Links Cooper mentioned in his slides:
 
