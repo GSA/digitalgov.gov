@@ -296,7 +296,7 @@ For the time being, the Data.gov PMO will continue to provide this hosting capab
 ## Webinar on inventory.data.gov
 
 Data.gov, working with DigitalGov University, presented a webinar for agencies interested in using inventory on December 16, 2014\. For more information, consult the recording of the [This link is no longer maintained](http://youtu.be/ciLYjDsF4lo).
- 
+
 Here are some questions and answers raised during the webinar:
 
 1. If your agency already has an admin listed, do you need their approval to be appointed as an admin?
