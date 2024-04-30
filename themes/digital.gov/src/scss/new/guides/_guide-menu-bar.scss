@@ -1,5 +1,6 @@
 @use "uswds-core" as *;
 
+// Styles the desktop horizontal menu bar
 .dg-guide__menu-bar {
   @include u-border-y("1px", "gray-cool-30", "solid");
   @include u-z(200);
@@ -11,6 +12,10 @@
   position: sticky;
   top: -1px;
   white-space: nowrap;
+
+  &--hide {
+    display: none;
+  }
 
   &-image-container {
     flex-shrink: 0;
@@ -25,7 +30,20 @@
     }
   }
 
-  &-link {
+  &-links {
+    // Fade out overflowing items when scrolling
+    mask: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 0 units(3);
+    scrollbar-width: none;
+  }
+
+  &-links::-webkit-scrollbar {
+    display: none;
+  }
+
+  &-links a {
     color: color("black");
     font-size: size("sans", "md");
     font-weight: font-weight("light");
@@ -40,19 +58,6 @@
     &:visited {
       color: color("black");
     }
-  }
-
-  &-links {
-    // Fade out overflowing items when scrolling
-    mask: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
-    overflow-x: scroll;
-    overflow-y: hidden;
-    padding: 0 units(3);
-    scrollbar-width: none;
-  }
-
-  &-links::-webkit-scrollbar {
-    display: none;
   }
 
   &.sticky {
@@ -80,10 +85,16 @@
   }
 }
 
-.dg-accordion-mobile-menu {
+// Styles the mobile vertical menu bar
+.guide-mobile-menu {
+  display: block;
   position: sticky;
   top: -1px;
   z-index: z-index(100);
+
+  &--hide {
+    display: none;
+  }
 
   &__content {
     background-color: color("gray-3");
@@ -102,14 +113,13 @@
 
   &__image {
     display: flex;
-    margin-right: units(4);
     width: max-content;
+  }
 
-    &-icon {
-      flex: 1 0 0;
-      height: units(4);
-      width: units(4);
-    }
+  &__image-icon {
+    flex: 1 0 0;
+    height: units(4);
+    width: units(4);
   }
 
   &__image-container {
@@ -119,52 +129,57 @@
     justify-content: right;
   }
 
+  &__image-dg-icon {
+    margin-left: units(2);
+  }
+
   &__image-glossary {
+    margin-left: units(2);
     margin-right: units(1);
     width: auto; // override max-content;
+  }
 
-    svg {
-      margin-top: units(1);
-      width: auto;
-    }
+  &__image-glossary-svg {
+    margin-top: units(1);
+    width: auto;
   }
 
   &__button {
+    align-items: center;
     background-color: color("blue-warm-20v");
+    display: flex;
     flex: 1 0 0;
     height: 100%;
+    justify-self: end;
     text-align: left;
+    width: 10rem;
 
     &:focus {
       outline: none;
     }
 
-    h4 {
-      margin: 0;
-      padding: 0;
+    &:hover {
+      background-color: color("blue-warm-20v");
     }
+  }
+
+  &__button-header {
+    margin: 0;
+    padding: 0;
   }
 
   &__nav {
-    &-list {
-      display: flex;
-      flex-direction: column;
-      margin: 0;
-      padding: units(2);
-    }
-
-    &-list-item {
-      align-items: center;
-      display: flex;
-      height: units(6);
-      list-style-type: none;
-    }
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: units(2);
   }
 
-  &__link {
+  &__nav a {
     color: color("black");
     font-size: font-size("sans", "md");
     font-weight: font-weight(400);
+    height: units(6);
     margin: 0 units(1.5);
     text-decoration: none;
 
@@ -179,7 +194,7 @@
 
     &.dg-current {
       color: color("blue-warm-60v");
-      font-weight: 700;
+      font-weight: font-weight(700);
     }
   }
 }
