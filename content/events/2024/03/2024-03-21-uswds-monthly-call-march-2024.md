@@ -23,7 +23,7 @@ youtube_id: M2_SVDc_eCM
 
 {{< asset-static file="uswds-monthly-call-march-2024.pptx" label="View the slides (Powerpoint presentation, 1.9 MB, 20 slides)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for January 2024" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for for March, 2024 — This month we're celebrating Women's History Month (with shades of orange, teal, purple, and pink. As well as the first day of Spring, the Vernal Equinox, which was on Tuesday with shades of pink like a cherry blossom.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for March 2024" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for for March, 2024 — This month we're celebrating Women's History Month (with shades of orange, teal, purple, and pink. As well as the first day of Spring, the Vernal Equinox, which was on Tuesday with shades of pink like a cherry blossom.
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS product lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a black and white checked flannel shirt.
 
