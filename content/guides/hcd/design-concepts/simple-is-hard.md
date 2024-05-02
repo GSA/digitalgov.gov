@@ -12,7 +12,7 @@ primary_image: hcd-design-concepts
 Leadership and clients should not expect a design solution to be completely finished in a month, especially if the team is working on multiple projects either together or apart, but rationally defining the term of the design phase can help.
 
 
-### Making decisions
+## Making decisions
 
 A successful design phase requires the team to make a lot of decisions. Some of these include: what to design, how to make a model or prototype of it, who to test with, how to test it, how to get on those peoples’ calendars, how long to wait before finding other people to test with, how to integrate their feedback, and how to move through iterations on that feedback.
 
