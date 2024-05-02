@@ -19,6 +19,7 @@ topics:
 slug: uswds-monthly-call-may-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: 2024-uswds-monthly-call-may-title-card
 ---
 Join the U.S. Web Design System team on Global Accessibility Awareness Day. Guest speaker Whitney Quesenbery will discuss her work to create a more accessible voting process. She previously served as a member of the U.S. Election Assistance Commission’s [Technical Guidelines Development Committee](https://www.eac.gov/about/technical_guidelines_development_committee) and helped draft versions 1.0 and 1.1 of the [Voluntary Voting System Guidelines](https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines). Whitney's experience advocating for people with disabilities can help you design usable and accessible civic spaces on the web and beyond.
 
