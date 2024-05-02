@@ -27,10 +27,10 @@ Join the U.S. Web Design System team on Global Accessibility Awareness Day. Gues
 
 **Speakers**
 
-* **Dan Williams** - Product Lead, USWDS
-* **Anne Petersen** - Experience Design Lead, USWDS
-* **Amy Cole** - Accessibility Specialist, USWDS Contractor
-* **Alex Hull** - Accessibility Specialist, USWDS Contractor
+* **Dan Williams** **-** Product Lead, USWDS
+* **Anne Petersen** **-** Experience Design Lead, USWDS
+* **Amy Cole** **-** Accessibility Specialist, USWDS Contractor
+* **Alex Hull** **-** Accessibility Specialist, USWDS Contractor
 * **Whitney Quesenbery** - Co-founder, Center for Civic Design
 
 ## Join our Communities of Practice
