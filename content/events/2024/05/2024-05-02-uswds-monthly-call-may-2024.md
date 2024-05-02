@@ -8,8 +8,8 @@ host: U.S. Web Design System
 event_organizer: Digital.gov
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItcO6qpjsiGK0hB4N06M49z5wbessGW2Y
-date: 2024-05-16T14:00
-end_date: 2024-05-16T15:00
+date: 2024-05-16 14:00:00 -0500
+end_date: 2024-05-16 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - design
@@ -34,17 +34,17 @@ Join the U.S. Web Design System team on Global Accessibility Awareness Day. Gues
 
 ## Join our Communities of Practice
 
-* \[USWDS](https://designsystem.digital.gov/about/community/)
-* \[Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+* [USWDS](https://designsystem.digital.gov/about/community/)
+* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
 
 ## About the USWDS
 
-\[The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
+[The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* \[The U.S. Web Design System](https://designsystem.digital.gov/)
-* \[Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* \[Email Us](mailto:uswds@gsa.gov)
-* \[Join our community](https://digital.gov/communities/uswds/)
-* \[Follow @uswds on Twitter](https://twitter.com/uswds)
+* [The U.S. Web Design System](https://designsystem.digital.gov/)
+* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+* [Email Us](mailto:uswds@gsa.gov)
+* [Join our community](https://digital.gov/communities/uswds/)
+* [Follow @uswds on Twitter](https://twitter.com/uswds)
