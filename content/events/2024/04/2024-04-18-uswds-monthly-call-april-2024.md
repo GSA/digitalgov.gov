@@ -59,7 +59,7 @@ And then hopefully we'll have plenty of time for Q&A.
 
 **Slide 11:** We'll have more to come on findings from this last round of research, but we learn a lot with every round, and we're gearing up for the next ones now.
 
-**Slide 12:** Next a quick update on component discussions. We're adding [a link to our new component proposal discussion board in the chat](github.com/uswds/uswds/discussions/categories/component-proposals) where we're working to solicit discussion on components teams hope to see in the design system. We've got ten active discussions right now:
+**Slide 12:** Next a quick update on component discussions. We're adding [a link to our new component proposal discussion board in the chat](https://github.com/uswds/uswds/discussions/categories/component-proposals) where we're working to solicit discussion on components teams hope to see in the design system. We've got ten active discussions right now:
 * Common feedback
 * CUI banner
 * Glossary
@@ -95,7 +95,7 @@ Back when the web was young, this was one of the best ways to learn how the web 
 
 **Slide 17:** This is what — technically — we refer to as "brackety stuff"
 
-**Slide 18:** Or perhaps * *more* * technically, as * *markup* *.
+**Slide 18:** Or perhaps *more* technically, as *markup*.
 
 **Slide 19:** This markup language has changed a bit since the early days of the web, but if you looked at the markup from a website from 1996, it would be remarkably similar to what you see today. Probably a lot simpler — our markup style has gotten a bit…verbose these days — but it wouldn't be like reading a completely different language. It wouldn't even be as archaic as something like Old English.
 
@@ -117,7 +117,7 @@ The stability, consistency, and dependability of standardization helped the inte
 
 **Slide 25:** These components are meant to be repeated and reused all across our applications, across all kinds of different forms, pages, and workflows. Most of the stuff we see on any website or service is a component of some type. A wireframe for a web page or interaction flow — something like what we see on screen — can sometimes just be a way to see how components are remixed and reassembled to create a coherent layout.
 
-**Slide 26:** For modern websites, anything that appears again and again, like a component, is a great candidate for a * *template* * — like a stamp or a little printing press — that outputs that component wherever it's needed, with the proper content and data for * *just* * that instance: * *just that* * button, * *just that* * form field, * *just that* * breadcrumb trail, * *just that* * side navigation. Design this little component printing press once, and include it every time you need to output a component. 
+**Slide 26:** For modern websites, anything that appears again and again, like a component, is a great candidate for a *template* — like a stamp or a little printing press — that outputs that component wherever it's needed, with the proper content and data for *just* that instance: *just that* button, *just that* form field, *just that* breadcrumb trail, *just that* side navigation. Design this little component printing press once, and include it every time you need to output a component. 
 
 **Slide 27:** So what does a template do? A template receives unique data and content as an input and outputs the HTML that the browser interprets.
 
@@ -135,7 +135,7 @@ The stability, consistency, and dependability of standardization helped the inte
 
 **Slide 34:** Yet even while the hare of templating languages scurries this way and that, constantly whizzing back and forth, the tortoise of the standardized world of web technologies continues to plod ever forward.
 
-**Slide 35:** About ten years ago, in 2013, the web standards body responsible for HTML published the beginning of a way to integrate the power of component templates into the fundamental technology of markup, by adding the ability to build custom * *additions* * to HTML.
+**Slide 35:** About ten years ago, in 2013, the web standards body responsible for HTML published the beginning of a way to integrate the power of component templates into the fundamental technology of markup, by adding the ability to build custom *additions* to HTML.
 
 **Slide 36:** To understand what this means, let's take a look at some HTML elements…
 
@@ -157,13 +157,13 @@ So for an anchor link, you really just need two things:
 * The text that serves as the link
 * And the destination address for the link
 
-That's what this element encodes. That's the * *model* * for a hyperlink.
+That's what this element encodes. That's the *model* for a hyperlink.
 
 **Slide 40:** On-screen, this is what we see. 
 
 We see USWDS, blue and underlined by default. If we select this link, our browser will take us to the address we specified in the element's **href**. If we hover over this link with a mouse, the cursor will change into a pointing finger to indicate that this element can be selected.
 
-We * *don't* * see the element's tags, or any of the attributes, exactly. What we see is the browser's * *interpretation* * of the element model, with the content and data we specified.  
+We *don't* see the element's tags, or any of the attributes, exactly. What we see is the browser's *interpretation* of the element model, with the content and data we specified.  
 
 **Slide 41:** HTML elements are the starting point for modeling components. But what about when a component doesn't have an analogous element?
 
@@ -198,11 +198,11 @@ If you had just this content, you'd have everything you need to build a breadcru
 * We've defined the collection of links as an ordered list
 * And we've defined a **class** attribute for each element, so we can write styles that target each of these unique classes.
   
-Our model can be very simple. Complex interpretation doesn't * *require* * a complex model. Our model doesn't have to answer the questions we address in the interpretation, it only has to sufficiently describe the content.
+Our model can be very simple. Complex interpretation doesn't *require* a complex model. Our model doesn't have to answer the questions we address in the interpretation, it only has to sufficiently describe the content.
 
 From this relatively simple model, we've developed a fairly complex bit of markup!
 
-**Slide 51:** But USWDS doesn't deliver models or interpreters, it delivers only the final stage in this process: the markup. What we might call a markup * *specification* *.
+**Slide 51:** But USWDS doesn't deliver models or interpreters, it delivers only the final stage in this process: the markup. What we might call a markup *specification*.
 
 **Slide 52:** So what does a project team do with what USWDS delivers; with this specification?
 
@@ -252,7 +252,7 @@ The diversity of template languages has meant that we've never been able to supp
 
 **Slide 71:** Or maybe there should be an option to omit the house icon altogether?
 
-**Slide 72:** This is only the beginning of this type of discussion, but it begins to develop not only a content model for the element, but an * *attributes* * model as well. Attributes might include
+**Slide 72:** This is only the beginning of this type of discussion, but it begins to develop not only a content model for the element, but an *attributes* model as well. Attributes might include
 * font
 * houseIcon
 * separatorIcon
@@ -262,7 +262,7 @@ But there could be other kinds of configuration options as well.
 
 **Slide 73:** And a really powerful thing about defining models is that they can support all kinds of potential output and markup. This concise model defines not only a current state for the Breadcrumb, as we see here with those Breadcrumbs we've seen before…
 
-**Slide 74:** …but potentially different presentations of Breadcrumb as well. Now I'm not saying what we see here on screen is a good idea: For longer breadcrumbs, replacing the inner items with a dropdown menu. Probably a bad idea! But it's possible that there's something that's either better than the current state, or becomes a user expectation. Our model describes * *this potential* * version of a breadcrumb * *just as well as* * the current version. And as long as breadcrumb stays, * *conceptually* *, as a collection of links that starts with Home and ends with the current page, our model doesn't have to change, and the way we interface with our custom element doesn't need to change either.
+**Slide 74:** …but potentially different presentations of Breadcrumb as well. Now I'm not saying what we see here on screen is a good idea: For longer breadcrumbs, replacing the inner items with a dropdown menu. Probably a bad idea! But it's possible that there's something that's either better than the current state, or becomes a user expectation. Our model describes *this potential* version of a breadcrumb *just as well as* the current version. And as long as breadcrumb stays, *conceptually*, as a collection of links that starts with Home and ends with the current page, our model doesn't have to change, and the way we interface with our custom element doesn't need to change either.
 
 **Slide 75:** The power of the Web Component is the ability to have a simple, elegant model, as expressed as a custom element, that can be a consistent interface for a developer, even as the element interpreter changes under the hood.
 
@@ -316,13 +316,13 @@ And that's it. The element interpreter does the rest, and developers don't have 
 
 **Slide 88:** This can be things like markup, logic, accessibility support, metadata, static content, styling, and behaviors.
 
-**Slide 89:** And this means a move to thinking about theming as * *configuration* * — something that can happen closer to the custom element layer. Theming is more like input data to a component, rather than a layer of styling that's applied from an external stylesheet.
+**Slide 89:** And this means a move to thinking about theming as *configuration* — something that can happen closer to the custom element layer. Theming is more like input data to a component, rather than a layer of styling that's applied from an external stylesheet.
 
 **Slide 90:** All together, the custom elements and element interpreters model of Web Components combines the power, continuity, and broad support of standards with the flexibility of templates and templating languages. It's a well supported, cross-browser, platform-agnostic standard that takes the design system out of the static world of a markup spec into the dynamic world of templating. 
 
 **Slide 91:** Making the design system easier to implement, and easier to stay up to date.
 
-**Slide 92:** Because maintenance and maintainability * *is just the baseline* *. Not just for the design system, but for everyone who uses it. What would you do if you weren't focused on maintenance? What higher order questions could you begin to solve? What * *mission-* * and * *user-* *centered questions would you try to solve?
+**Slide 92:** Because maintenance and maintainability *is just the baseline*. Not just for the design system, but for everyone who uses it. What would you do if you weren't focused on maintenance? What higher order questions could you begin to solve? What *mission-* and *user-*centered questions would you try to solve?
 
 **Slide 93:** What could we do if we had the opportunity to focus on our shared mission: Shaping the future of government digital services? This technology is critical, necessary infrastructure, but the important question is what we're able to do with it. And that's a great question to start to ask.
 
