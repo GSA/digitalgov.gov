@@ -23,11 +23,9 @@ youtube_id: GHomUbYTgwQ
 
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call…
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April, 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue)
 
-**Slide 2:** ...for April, 2024 — This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue)
-
-**Slide 3:** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a simple green checked shirt. It's also a bright-green socks day!
+**Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a simple green checked shirt. It's also a bright-green socks day!
 
 As Jeannie mentioned, we are recording this call, and I'm happy to say we've started to be able to share the recordings of these monthly calls publicly. You can find pretty much everything from the last year's worth of monthly calls — back to January 2023 — on our website, at [designsystem.digital.gov/about/monthly-calls](https://designsystem.digital.gov/about/monthly-calls/). We typically post videos shortly after the monthly call, and we also link out to the slides and the script, hosted at digital.gov. We've posted a link to our monthly call page in the chat.
 
@@ -37,7 +35,7 @@ For those of you who find the chat distracting, you’re welcome to close or hid
 
 So thanks! And, with that, let's get started!
 
-**Slide 4:** So what's our agenda for today? 
+**Slide 3:** So what's our agenda for today? 
 
 We’ve got a nice site launch, some product updates, and then we’ll spend the rest of the time with an introduction to something we think is super important to the future of the design system: something called Web Components.
 
@@ -145,13 +143,13 @@ An element is simply a way to describe a part of a document. Like a heading, or 
 
 If you look around at the grid of HTML elements on screen now (this isn't all of them, by the way!) you may see a bunch of things that look familiar: heading levels like **h1-h6**; **table**, **form**, **input**, and **button**; the paragraph **p**, and perhaps the hydrogen of the HTML elements… 
 
-**Slide 38:** …the Anchor Link: **a**. — Which we now see highlighted in the grid. **A** is a great element, and is the element that made the web what it is. Let's use the a element to look at the parts of an element.
+**Slide 38:** …the Anchor Link: **a**. Which we now see highlighted in the grid. **A** is a great element, and is the element that made the web what it is. Let's use the a element to look at the parts of an element.
 
 **Slide 39:** So here's an element in the wild. Since most — but not all — elements are designed to structure content, they're designed with a two-part system, an opening tag and a closing tag that enclose some kind of content. 
 
 Opening and closing tags are surrounded by angle brackets. The closing tag uses a forward slash to indicate that it's a closing tag, and the opening tag can also include **attributes**, or information about this specific instance of the element. 
 
-In this case, the attribute for the **a** element, is one that's pretty critical for any anchor link, the hyperlink reference to the destination address, otherwise known as an **href**. href → hyperlink reference
+In this case, the attribute for the **a** element, is one that's pretty critical for any anchor link, the hyperlink reference to the destination address, otherwise known as an **href**.
 
 So for an anchor link, you really just need two things:
 * The text that serves as the link
@@ -274,7 +272,7 @@ When we're thinking about developing custom element interfaces, we have four goa
 
 **Slide 78:** On this slide, we get a look at what the custom element interface might look like for a Breadcrumb Web Component. 
 
-We want it to be **clear** and *concise**: This five-link breadcrumb instance is only six lines long, focusing on the collection of anchor links unique to this instance. We see from the first line of code in the opening tag, that this element is called **usa-breadcrumb**. And it contains four unique anchor links. 
+We want it to be *clear* and *concise*: This five-link breadcrumb instance is only six lines long, focusing on the collection of anchor links unique to this instance. We see from the first line of code in the opening tag, that this element is called **usa-breadcrumb**. And it contains four unique anchor links. 
 
 Why not the Home link? Well, since the home link has the same text from instance to instance, we can leave out that link from the collection, and only capture its url in the element properties. Why ask someone to write out the word "Home" if they don't have to?
 
@@ -322,7 +320,7 @@ And that's it. The element interpreter does the rest, and developers don't have 
 
 **Slide 91:** Making the design system easier to implement, and easier to stay up to date.
 
-**Slide 92:** Because maintenance and maintainability *is just the baseline*. Not just for the design system, but for everyone who uses it. What would you do if you weren't focused on maintenance? What higher order questions could you begin to solve? What *mission-* and *user-*centered questions would you try to solve?
+**Slide 92:** Because maintenance and maintainability *is just the baseline*. Not just for the design system, but for everyone who uses it. What would you do if you weren't focused on maintenance? What higher order questions could you begin to solve? What *mission-* and *user-* centered questions would you try to solve?
 
 **Slide 93:** What could we do if we had the opportunity to focus on our shared mission: Shaping the future of government digital services? This technology is critical, necessary infrastructure, but the important question is what we're able to do with it. And that's a great question to start to ask.
 
