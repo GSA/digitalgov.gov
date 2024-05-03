@@ -23,7 +23,7 @@ youtube_id: GHomUbYTgwQ
 
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April, 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue)
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April, 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue).
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a simple green checked shirt. It's also a bright-green socks day!
 
@@ -73,11 +73,11 @@ We're also getting ready to get the tabs discussion into the formal proposal pha
 
 We'll be talking more about component proposals and evaluation in the coming months.
 
-**Slide 13:** And finally, I'd like to point to a couple other discussions on the boards right now. We've had some interesting conversation around the idea of "dull colors" or what we might think of as the "calm" equivalent of the "vivid" color variants we currently support. 
+**Slide 13:** And finally, I'd like to point to a couple other discussions on the borders right now. We've had some interesting conversation around the idea of "dull colors" or what we might think of as the "calm" equivalent of the "vivid" color variants we currently support. 
 
 It's a good proposal, and is a thoughtful look at how we might provide an even fuller gamut of color token options.
 
-There are also a couple other accessibility related discussions that might be of interest. This month is recognized as National Stress Awareness month, and we're wondering how teams think about designing with stress in mind, and also how we might think about usability research that gives insight into usability under conditions of stress. 
+There are also a couple other accessibility related discussions that might be of interest. This month is recognized as National Stress Awareness Month, and we're wondering how teams think about designing with stress in mind, and also how we might think about usability research that gives insight into usability under conditions of stress. 
 
 There are also a couple other accessibility-related discussions on WCAG 2.2, and the overlap between content and WCAG. So jump in if you have something to contribute!
 
@@ -109,7 +109,7 @@ The stability, consistency, and dependability of standardization helped the inte
 
 **Slide 22:** HTML is everywhere… except where you might expect it! With all the HTML lying just beneath every single website and service we visit, it may come as a surprise to learn that — for the most part — most modern websites aren't typically written in HTML at all.
 
-**Slide 23:** And to understand why, it's worth thinking about something we talk about pretty often here at USWDS: and that's Components.
+**Slide 23:** And to understand why, it's worth thinking about something we talk about pretty often here at USWDS: and that's components.
 
 **Slide 24:** Components are a way to think about how websites are constructed from modular, remixable building blocks: these are things like headers and footers, buttons, cards, icons, date pickers, navigations, step indicators, breadcrumbs, and search, etc. We see something of a simplified example of these on screen, with components as little squares with dotted-line borders. 
 
@@ -137,19 +137,19 @@ The stability, consistency, and dependability of standardization helped the inte
 
 **Slide 36:** To understand what this means, let's take a look at some HTML elements…
 
-**Slide 37:** The fundamental unit of HTML is the element, and today, in the current Living Standard, there are just a bit more than 100 of them. Almost exactly as many as there are in the periodic table of the elements, for the physical elements of chemistry! (There are about 111 HTML elements — depending on how you count them — and there are about 118 physical elements…)
+**Slide 37:** The fundamental unit of HTML is the element, and today, in the current living standard, there are just a bit more than 100 of them. Almost exactly as many as there are in the periodic table of the elements, for the physical elements of chemistry! (There are about 111 HTML elements — depending on how you count them — and there are about 118 physical elements…)
 
 An element is simply a way to describe a part of a document. Like a heading, or an article, or a paragraph, a section, or a general division. Elements give structure to documents. They describe a model of the content of a document.
 
 If you look around at the grid of HTML elements on screen now (this isn't all of them, by the way!) you may see a bunch of things that look familiar: heading levels like **h1-h6**; **table**, **form**, **input**, and **button**; the paragraph **p**, and perhaps the hydrogen of the HTML elements… 
 
-**Slide 38:** …the Anchor Link: **a**. Which we now see highlighted in the grid. **A** is a great element, and is the element that made the web what it is. Let's use the a element to look at the parts of an element.
+**Slide 38:** …the anchor link: **a**. Which we now see highlighted in the grid. **A** is a great element, and is the element that made the web what it is. Let's use the a element to look at the parts of an element.
 
 **Slide 39:** So here's an element in the wild. Since most — but not all — elements are designed to structure content, they're designed with a two-part system, an opening tag and a closing tag that enclose some kind of content. 
 
 Opening and closing tags are surrounded by angle brackets. The closing tag uses a forward slash to indicate that it's a closing tag, and the opening tag can also include **attributes**, or information about this specific instance of the element. 
 
-In this case, the attribute for the **a** element, is one that's pretty critical for any anchor link, the hyperlink reference to the destination address, otherwise known as an **href**.
+In this case, the attribute for the **a** element is one that's pretty critical for any anchor link, the hyperlink reference to the destination address, otherwise known as an **href**.
 
 So for an anchor link, you really just need two things:
 * The text that serves as the link
@@ -192,11 +192,11 @@ On screen we see four breadcrumbs of differing lengths. Each has a house icon at
 If you had just this content, you'd have everything you need to build a breadcrumb.
 
 **Slide 50:** And if we want to express this in the language of standard elements, we have to manually interpret the model into standard elements. This can be complicated, and there are all kinds of questions you need to answer in this interpretation process, but this slide shows a bit of where we might land over in the gold markup area:
-* We've defined the breadcrumb as a **nav** navigation element
-* We've defined the collection of links as an ordered list
+* We've defined the breadcrumb as a **nav** navigation element.
+* We've defined the collection of links as an ordered list.
 * And we've defined a **class** attribute for each element, so we can write styles that target each of these unique classes.
   
-Our model can be very simple. Complex interpretation doesn't *require* a complex model. Our model doesn't have to answer the questions we address in the interpretation, it only has to sufficiently describe the content.
+Our model can be very simple. Complex interpretation doesn't *require* a complex model. Our model doesn't have to answer the questions we address in the interpretation; it only has to sufficiently describe the content.
 
 From this relatively simple model, we've developed a fairly complex bit of markup!
 
@@ -204,7 +204,7 @@ From this relatively simple model, we've developed a fairly complex bit of marku
 
 **Slide 52:** So what does a project team do with what USWDS delivers; with this specification?
 
-**Slide 53:** Well teams have to reverse-engineer our markup specification back into a model they can use as a project component template…
+**Slide 53:** Well teams have to reverse engineer our markup specification back into a model they can use as a project component template…
 
 **Slide 54:** …then they can pass their own project data into their template, and use that template as an interpreter to output their own project-specific markup that matches the USWDS spec.
 
@@ -242,7 +242,7 @@ The diversity of template languages has meant that we've never been able to supp
 
 **Slide 67:** Let's return to our Breadcrumb model, and to the set of different Breadcrumb instances we used to develop that model. Here again, we see those four breadcrumb instances, of different lengths.
 
-**Slide 68:** Our content model can stay as it was. But now we want to investigate what it might mean to **configure** our Breadcrumb. That is, if we think back to the html element model, are there any attributes we could imagine that would be little knobs or switches for our element, that might affect the way the breadcrumb looks or behaves?
+**Slide 68:** Our content model can stay as it was. But now we want to investigate what it might mean to **configure** our Breadcrumb. That is, if we think back to the HTML element model, are there any attributes we could imagine that would be little knobs or switches for our element, that might affect the way the breadcrumb looks or behaves?
 
 **Slide 69:** For example, maybe you should be able to change the font? Like we see here changing the font to a serif.
 
@@ -279,7 +279,7 @@ Why not the Home link? Well, since the home link has the same text from instance
 (Though I will say, as an aside, that it's a longer topic, but we do want to consider multilingual needs in here as well, and we'd build in the ability to do that…)
 
 And we also want to make the breadcrumb **configurable**. This example shows how you
-might add a configuration option to add special RDF-a metadata to the breadcrumb to improve search results and findability just by adding a rdfa attribute. 
+might add a configuration option to add special RDFa metadata to the breadcrumb to improve search results and findability just by adding an RDFa attribute. 
 
 And finally, **consistency**: Since this custom element interface includes all the information the element interpreter needs to build all kinds of breadcrumbs, the custom elements interface doesn't need to change over time. Crucially, the interface can remain the same, while the interpreter does all the heavy lifting, and that interpreter can be easily updated from version to version of the design system.
 
@@ -297,7 +297,7 @@ What if it was closer to the clear, concise, configurable, and consistent six li
 
 This custom element, usa-banner, contains all the critical information a developer needs to set up and configure the banner:
 * We can set the domain as "gov" so the rendered banner shows shows copy that refers to .gov domains
-( We can set the background to dark, so it has a custom color.
+* We can set the background to dark, so it has a custom color.
 * And we can use USWDS design tokens to set the width of the component to "widescreen" so the text extends the same width as the rest of the elements on the site.
   
 And that's it. The element interpreter does the rest, and developers don't have to worry about 93 lines of custom markup, and copy that are subject to change and evolution over time!
