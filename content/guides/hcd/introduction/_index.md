@@ -10,6 +10,7 @@ image: hcd-guide-intro
 primary_image: hcd-guide-intro
 layout: single
 weight: 1
+guide_weight: 2
 ---
 
 Human-centered design (HCD) is a qualitative research method that helps groups solve problems and seek solutions that prioritize customer needs over a system’s needs. It’s also a design and management framework to develop solutions to problems by involving the human perspective in all steps of the problem-solving process.

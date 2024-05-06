@@ -5,10 +5,10 @@ deck: "Automate reptitive business processes without writing code"
 summary: "Configure bots to execute repetitive tasks to save users from performing mundane tasks repeatedly for the same process."
 guide: rpa
 aliases:
-
 primary_image: "guide-rpa"
 image: guide-rpa
 layout: single
+guide_weight: 4
 ---
 
 {{< box >}}

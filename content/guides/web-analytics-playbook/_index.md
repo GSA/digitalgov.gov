@@ -8,6 +8,7 @@ aliases:
 image: guide-web-analytics-playbook
 primary_image: guide-web-analytics-playbook
 layout: single
+guide_weight: 1
 ---
 
 Federal websites vary greatly in content and purpose, but they all share a common objective: to deliver information or services to the public in an efficient, easy, and accessible way.

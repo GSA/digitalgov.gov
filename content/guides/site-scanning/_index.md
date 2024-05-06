@@ -16,6 +16,7 @@ image: guide-site-scanning
 primary_image: guide-site-scanning
 layout: single
 weight: 8
+guide_weight: 3
 ---
 
 **The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices.
