@@ -1,0 +1,51 @@
+{{/* Display guides in a card list that uses the guide_weight field to display each card */}}
+
+{{ define "content" }}
+
+  {{ $guidesList := slice }}
+  {{ $guidesData := slice }}
+  {{ $guidePages := slice }}
+
+  {{/* Build list of guide names from yaml files in string format */}}
+  {{ range $i, $names := $.Site.Data.guidenav }}
+    {{ $guidesList = $guidesList | append $i }}
+  {{ end }}
+
+  {{/* Iterate over list of guide names and save each as a map of strings */}}
+  {{ range $guidesList }}
+    {{ $guidesData = $guidesData | append (index $.Site.Data.guidenav .) }}
+  {{ end }}
+
+  {{/* Save each guide homepage as hugo page collection */}}
+  {{ range $guidesData }}
+    {{/* Get the first nav item from each guide, the guide homepage */}}
+    {{ range first 1 .nav }}
+      {{ $guidePages = $guidePages | append ($.Site.GetPage .path) }}
+    {{ end }}
+  {{ end }}
+
+
+  <main role="main" id="main-content">
+    {{/* Iterate over the guides pages and display as a card grid */}}
+    <section class="grid-container dg-guides">
+      {{ range $guidePages }}
+        {{ if .Params.guide_weight }}
+          <article class="dg-guides-card">
+            <span>Digital.gov Guide</span>
+            <h2>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </h2>
+            <p>
+              {{ .Params.Summary }}
+            </p>
+            <div class="dg-guides-card__header-image">
+              <a href="{{ .Permalink }}">
+                {{- partial "core/img-flexible.html" (dict "Site" .Site "src" .Params.Image "small" "false") -}}
+              </a>
+            </div>
+          </article>
+        {{ end }}
+      {{ end }}
+    </section>
+  </main>
+{{ end }}

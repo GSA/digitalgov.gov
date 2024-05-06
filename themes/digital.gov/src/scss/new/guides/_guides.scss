@@ -1,0 +1,51 @@
+@use "uswds-core" as *;
+
+.dg-guides {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  padding-top: units(4);
+
+  @include at-media("tablet") {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include at-media("desktop") {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  &-card {
+    border: 1px color("black") solid;
+    border-radius: 10px;
+    margin: 0.5rem;
+    padding: 1rem;
+  }
+
+  &-card span {
+    color: color("blue-cool-30");
+    font-weight: 200;
+    text-transform: uppercase;
+  }
+
+  &-card h2 {
+    margin: 0;
+    text-transform: capitalize;
+    a {
+      color: black;
+      text-decoration: none;
+    }
+  }
+
+  &-card p {
+    font-size: font-size("sans", "lg");
+    font-weight: font-weight(400);
+  }
+
+  &-card__header-image {
+    display: flex;
+    justify-content: center;
+
+    @include at-media("desktop") {
+      margin-top: units(6);
+    }
+  }
+}
