@@ -10,7 +10,7 @@ aliases:
 
 ## Privacy
 
-The U.S. General Services Administration (GSA) will not share or sell any of your personal information with any other organization or government agency except as required by law. Please view [GSA’s privacy and security notice](http://www.gsa.gov/portal/content/116609).
+The U.S. General Services Administration (GSA) will not share or sell any of your personal information with any other organization or government agency except as required by law. Please view [GSA’s privacy and security notice](https://srp.fas.gsa.gov/portal/privacy-security.html).
 
 ### Cookies and analytics
 
