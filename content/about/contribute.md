@@ -32,7 +32,7 @@ We’re always on the lookout for contributions from our community members. Keep
 ### Web content
 Agency stories are an important tool to empower and support colleagues who are working “in the trenches” to improve digital content.
 
-Email [digitalgov@gsa.gov](digitalgov@gsa.gov) to submit your ideas for web content. We will review your ideas and provide feedback, prioritizing the ideas that best align with our mission and audience. We will also share an easy-to-follow content template with you. You’ll have a few weeks to write the content and submit it to us. Then, our editorial team will copy edit the content and publish it on Digital.gov and related channels.
+Email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) to submit your ideas for web content. We will review your ideas and provide feedback, prioritizing the ideas that best align with our mission and audience. We will also share an easy-to-follow content template with you. You’ll have a few weeks to write the content and submit it to us. Then, our editorial team will copy edit the content and publish it on Digital.gov and related channels.
 
 * [Resources](https://digital.gov/resources/): Submit a 300- to 500-word guidance document, checklist, toolkit, style guide, or other similar resource to help agencies improve their digital content.
 
@@ -43,7 +43,7 @@ Email [digitalgov@gsa.gov](digitalgov@gsa.gov) to submit your ideas for web cont
 ### Informational events
 [Digital.gov events](https://digital.gov/events/) highlight the work federal employees are doing across government to improve digital services and provides a range of free events — from huddles to webinars to summits — for people and teams across the federal government.
 
-Email [digitalgov@gsa.gov](digitalgov@gsa.gov) to volunteer to present or moderate at an event. You can also submit ideas for event topics in the [Digital.gov event submission form](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm). Speakers must be federal employees or federal contractors presenting along with their federal counterparts. Read our [Guidelines for Digital.gov event presenters](https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/) to know what to expect.
+Email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) to volunteer to present or moderate at an event. You can also submit ideas for event topics in the [Digital.gov event submission form](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm). Speakers must be federal employees or federal contractors presenting along with their federal counterparts. Read our [Guidelines for Digital.gov event presenters](https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/) to know what to expect.
 
 * **Webinars:** Webinars generally consist of a 15- to 20-minute presentation followed by a moderated Q&A session. Most webinars are open to the public.
 
@@ -56,4 +56,4 @@ While we welcome event and content contributions from community members across a
 
 **Community mailing lists:** Share your thoughts and ideas on the community LISTSERV. Tell us about your agency and team and some of your noteworthy projects. Share best practices and resources. Ask questions about new research, industry trends, and other topics. All community members can post messages on the LISTSERV. And be sure to [join several Digital.gov communities of practice](https://digital.gov/communities/). Each community has its own culture, and you’ll learn something new by joining more than one community.
 
-**Feedback:** We want to hear from you. We use feedback from community members and the public to continually improve Digital.gov. Complete our post-event, website, and community surveys, or write to us at [digitalgov@gsa.gov](digitalgov@gsa.gov) to share what’s on your mind.
+**Feedback:** We want to hear from you. We use feedback from community members and the public to continually improve Digital.gov. Complete our post-event, website, and community surveys, or write to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) to share what’s on your mind.
