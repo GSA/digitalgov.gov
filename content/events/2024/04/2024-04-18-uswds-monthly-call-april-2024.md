@@ -23,7 +23,7 @@ youtube_id: GHomUbYTgwQ
 
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April, 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue).
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue).
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a simple green checked shirt. It's also a bright-green socks day!
 
@@ -31,27 +31,27 @@ As Jeannie mentioned, we are recording this call, and I'm happy to say we've sta
 
 We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
 
-For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
+For those of you who find the chat distracting, you're welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 
 So thanks! And, with that, let's get started!
 
 **Slide 3:** So what's our agenda for today? 
 
-We’ve got a nice site launch, some product updates, and then we’ll spend the rest of the time with an introduction to something we think is super important to the future of the design system: something called Web Components.
+We've got a nice site launch, some product updates, and then we'll spend the rest of the time with an introduction to something we think is super important to the future of the design system: something called Web Components.
 
 And then hopefully we'll have plenty of time for Q&A.
 
 **Slide 4:** So let's get into it with new site launches
 
-**Slide 5:** Today we're looking at [beta.notify.gov](https://beta.notify.gov/): This is the beta site for a new service from TTS here at GSA, notify.gov. Notify.gov is a text message service that helps federal, state, local, tribal and territorial governments more effectively communicate with the people they serve. It's currently in a select pilot program. On the notify.gov homepage, we see a simple and direct bell icon with a bright red notification dot. The hero area is bold and blue, with an illustration of a mobile device receiving a text message, and the words "Reach people where they are with government-powered text messages."
+**Slide 5:** Today we're looking at [beta.notify.gov](https://beta.notify.gov/): This is the beta site for a new service from TTS here at GSA, Notify.gov. Notify.gov is a text message service that helps federal, state, local, tribal and territorial governments more effectively communicate with the people they serve. It's currently in a select pilot program. On the Notify.gov homepage, we see a simple and direct bell icon with a bright red notification dot. The hero area is bold and blue, with an illustration of a mobile device receiving a text message, and the words "Reach people where they are with government-powered text messages."
 
 **Slide 6:** Congratulations and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
 **Slide 7:** Now for a few product updates…
 
-**Slide 8:** First a number of research updates. We've put a bunch of effort into operationalizing usability research over the last year, and it's really starting to come together. Last month we performed some usability research focused on five components: Banner, Site Alert, Memorable Date, Time Picker, and Radio Buttons
+**Slide 8:** First a number of research updates. We've put a bunch of effort into operationalizing usability research over the last year, and it's really starting to come together. Last month we performed some usability research focused on five components: Banner, Site Alert, Memorable Date, Time Picker, and Radio Buttons.
 
-**Slide 9:** We've been continuing our focus on research with people with disabilities and users of assistive technology. In this last round, we had 5 users with visual impairments (3 blind and 2 low-vision); one user with a motor impairment; and two users with mental health conditions (ADHD, anxiety, and depression)
+**Slide 9:** We've been continuing our focus on research with people with disabilities and users of assistive technology. In this last round, we had five users with visual impairments (three blind and two low-vision); one user with a motor impairment; and two users with mental health conditions (ADHD, anxiety, and depression)
 
 **Slide 10:** We were also able to test on a broad range of devices and user agents: four screen readers, one instance of screen magnification, and tests on both mobile and desktop.
 
@@ -77,7 +77,7 @@ We'll be talking more about component proposals and evaluation in the coming mon
 
 It's a good proposal, and is a thoughtful look at how we might provide an even fuller gamut of color token options.
 
-There are also a couple other accessibility related discussions that might be of interest. This month is recognized as National Stress Awareness Month, and we're wondering how teams think about designing with stress in mind, and also how we might think about usability research that gives insight into usability under conditions of stress. 
+There are also a couple other accessibility-related discussions that might be of interest. This month is recognized as National Stress Awareness Month, and we're wondering how teams think about designing with stress in mind, and also how we might think about usability research that gives insight into usability under conditions of stress. 
 
 There are also a couple other accessibility-related discussions on WCAG 2.2, and the overlap between content and WCAG. So jump in if you have something to contribute!
 
@@ -89,23 +89,23 @@ We'll be talking about this a bunch more over the foreseeable future, and this i
 
 Back when the web was young, this was one of the best ways to learn how the web worked. And it's still sort of gratifying to know that you can peel the lid off even the most sophisticated of sites and look right down into its guts.
 
-**Slide 16:** And when you do, you'll see something kinda like what's on this slide. Here we've peeled the lid off the USWDS homepage, and underneath is a bunch of code like we see on the right side of the screen, in gold: monospaced, code-y stuff, things that look like a computer was writing an outline. Maybe you see things in there like **body**, **section**, **class**, or **div**. Lots of angle brackets!
+**Slide 16:** And when you do, you'll see something kinda like what's on this slide. Here we've peeled the lid off the USWDS homepage, and underneath is a bunch of code like we see on the right side of the screen, in gold: monospaced, code-y stuff, things that look like a computer was writing an outline. Maybe you see things in there like `<body>`, `<section>`, `class`, or `<div>`. Lots of angle brackets!
 
-**Slide 17:** This is what — technically — we refer to as "brackety stuff"
+**Slide 17:** This is what — technically — we refer to as "brackety stuff."
 
 **Slide 18:** Or perhaps *more* technically, as *markup*.
 
-**Slide 19:** This markup language has changed a bit since the early days of the web, but if you looked at the markup from a website from 1996, it would be remarkably similar to what you see today. Probably a lot simpler — our markup style has gotten a bit…verbose these days — but it wouldn't be like reading a completely different language. It wouldn't even be as archaic as something like Old English.
+**Slide 19:** This markup language has changed a bit since the early days of the web, but if you looked at the markup from a website from 1996, it would be remarkably similar to what you see today. Probably a lot simpler — our markup style has gotten a bit… verbose these days — but it wouldn't be like reading a completely different language. It wouldn't even be as archaic as something like Old English.
 
 Since the earliest days, this common markup has been the stable foundation of the web.
 
-**Slide 20:** In fact, it was in 1994 — still in the very early days of the web — that the web standards body known as the W3C was formed. By 1996, they'd assumed standardization responsibilities for this markup language. 
+**Slide 20:** In fact, it was in 1994 — still in the very early days of the web — that the web standards body known as the [W3C (World Wide Web Consortium)](https://pagesix.com/2023/07/12/rfk-jr-press-dinner-explodes-in-war-of-words-and-farts/) was formed. By 1996, they'd assumed standardization responsibilities for this markup language. 
 
 This standardization was important because of what the web was trying to do — connect information across the world, between pages and documents that might not share any commonalities but a common language. If they were going to connect successfully, it was because they shared this common language.
 
 The stability, consistency, and dependability of standardization helped the internet grow.
 
-**Slide 21:** And this common language, this markup language, has a very 90s name. It's the HyperText Markup Language. HyperText (a term actually coined in the 60s) essentially just means text connected by links. And this HyperText Markup Language, is our common language of the web, HTML. And these days, most folks have heard of that.
+**Slide 21:** And this common language, this markup language, has a very '90s name. It's the HyperText Markup Language. HyperText (a term actually coined in the '60s) essentially just means text connected by links. And this HyperText Markup Language is our common language of the web, HTML. And these days, most folks have heard of that.
 
 **Slide 22:** HTML is everywhere… except where you might expect it! With all the HTML lying just beneath every single website and service we visit, it may come as a surprise to learn that — for the most part — most modern websites aren't typically written in HTML at all.
 
@@ -125,7 +125,7 @@ The stability, consistency, and dependability of standardization helped the inte
 
 **Slide 30:** Essentially, template languages allow applications to output HTML dynamically, based on data and logic. You're not writing a bunch of HTML, you're writing logic and passing data, and letting the machine take care of the repetitive hassle of writing all that HTML.
 
-**Slide 31:** If HTML is highly standardized. The world of templates and template languages is… not so much. There are all kinds of template languages, changing all the time. Developers might know a bunch of them, or they might only know one really well. While HTML evolves slowly, the product of a centralized international standards body, template languages follow the logic of the marketplace, finding new evolutionary niches based on new developer needs, individual passion, and a desire to build something new and better, or even just different. There will always be more of them.
+**Slide 31:** If HTML is highly standardized, the world of templates and template languages is… not so much. There are all kinds of template languages, changing all the time. Developers might know a bunch of them, or they might only know one really well. While HTML evolves slowly, the product of a centralized international standards body, template languages follow the logic of the marketplace, finding new evolutionary niches based on new developer needs, individual passion, and a desire to build something new and better, or even just different. There will always be more of them.
 
 **Slide 32:** So, the web wouldn't exist without the standardized interoperability of a common HTML…
 
@@ -141,15 +141,15 @@ The stability, consistency, and dependability of standardization helped the inte
 
 An element is simply a way to describe a part of a document. Like a heading, or an article, or a paragraph, a section, or a general division. Elements give structure to documents. They describe a model of the content of a document.
 
-If you look around at the grid of HTML elements on screen now (this isn't all of them, by the way!) you may see a bunch of things that look familiar: heading levels like **h1-h6**; **table**, **form**, **input**, and **button**; the paragraph **p**, and perhaps the hydrogen of the HTML elements… 
+If you look around at the grid of HTML elements on screen now (this isn't all of them, by the way!) you may see a bunch of things that look familiar: heading levels like `h1`-`h6`; `table`, `form`, `input`, and `button`; the paragraph `p`, and perhaps the hydrogen of the HTML elements… 
 
-**Slide 38:** …the anchor link: **a**. Which we now see highlighted in the grid. **A** is a great element, and is the element that made the web what it is. Let's use the a element to look at the parts of an element.
+**Slide 38:** …the anchor link: `a`. Which we now see highlighted in the grid. `A` is a great element, and is the element that made the web what it is. Let's use the `a` element to look at the parts of an element.
 
 **Slide 39:** So here's an element in the wild. Since most — but not all — elements are designed to structure content, they're designed with a two-part system, an opening tag and a closing tag that enclose some kind of content. 
 
 Opening and closing tags are surrounded by angle brackets. The closing tag uses a forward slash to indicate that it's a closing tag, and the opening tag can also include **attributes**, or information about this specific instance of the element. 
 
-In this case, the attribute for the **a** element is one that's pretty critical for any anchor link, the hyperlink reference to the destination address, otherwise known as an **href**.
+In this case, the attribute for the `a` element is one that's pretty critical for any anchor link, the hyperlink reference to the destination address, otherwise known as an `href`.
 
 So for an anchor link, you really just need two things:
 * The text that serves as the link
@@ -159,7 +159,7 @@ That's what this element encodes. That's the *model* for a hyperlink.
 
 **Slide 40:** On-screen, this is what we see. 
 
-We see USWDS, blue and underlined by default. If we select this link, our browser will take us to the address we specified in the element's **href**. If we hover over this link with a mouse, the cursor will change into a pointing finger to indicate that this element can be selected.
+We see USWDS, blue and underlined by default. If we select this link, our browser will take us to the address we specified in the element's `href`. If we hover over this link with a mouse, the cursor will change into a pointing finger to indicate that this element can be selected.
 
 We *don't* see the element's tags, or any of the attributes, exactly. What we see is the browser's *interpretation* of the element model, with the content and data we specified.  
 
@@ -192,9 +192,9 @@ On screen we see four breadcrumbs of differing lengths. Each has a house icon at
 If you had just this content, you'd have everything you need to build a breadcrumb.
 
 **Slide 50:** And if we want to express this in the language of standard elements, we have to manually interpret the model into standard elements. This can be complicated, and there are all kinds of questions you need to answer in this interpretation process, but this slide shows a bit of where we might land over in the gold markup area:
-* We've defined the breadcrumb as a **nav** navigation element.
+* We've defined the breadcrumb as a `nav` navigation element.
 * We've defined the collection of links as an ordered list.
-* And we've defined a **class** attribute for each element, so we can write styles that target each of these unique classes.
+* And we've defined a `class` attribute for each element, so we can write styles that target each of these unique classes.
   
 Our model can be very simple. Complex interpretation doesn't *require* a complex model. Our model doesn't have to answer the questions we address in the interpretation; it only has to sufficiently describe the content.
 
@@ -206,7 +206,7 @@ From this relatively simple model, we've developed a fairly complex bit of marku
 
 **Slide 53:** Well teams have to reverse engineer our markup specification back into a model they can use as a project component template…
 
-**Slide 54:** …then they can pass their own project data into their template, and use that template as an interpreter to output their own project-specific markup that matches the USWDS spec.
+**Slide 54:** Then they can pass their own project data into their template, and use that template as an interpreter to output their own project-specific markup that matches the USWDS spec.
 
 **Slide 55:** And what happens when USWDS updates the HTML spec? Teams have to go in and update their component templates.
 
@@ -251,10 +251,10 @@ The diversity of template languages has meant that we've never been able to supp
 **Slide 71:** Or maybe there should be an option to omit the house icon altogether?
 
 **Slide 72:** This is only the beginning of this type of discussion, but it begins to develop not only a content model for the element, but an *attributes* model as well. Attributes might include
-* font
-* houseIcon
-* separatorIcon
-* hasHouse
+* `font`
+* `houseIcon`
+* `separatorIcon`
+* `hasHouse`
 
 But there could be other kinds of configuration options as well.
 
@@ -272,7 +272,7 @@ When we're thinking about developing custom element interfaces, we have four goa
 
 **Slide 78:** On this slide, we get a look at what the custom element interface might look like for a Breadcrumb Web Component. 
 
-We want it to be *clear* and *concise*: This five-link breadcrumb instance is only six lines long, focusing on the collection of anchor links unique to this instance. We see from the first line of code in the opening tag, that this element is called **usa-breadcrumb**. And it contains four unique anchor links. 
+We want it to be *clear* and *concise*: This five-link breadcrumb instance is only six lines long, focusing on the collection of anchor links unique to this instance. We see from the first line of code in the opening tag, that this element is called `usa-breadcrumb`. And it contains four unique anchor links. 
 
 Why not the Home link? Well, since the home link has the same text from instance to instance, we can leave out that link from the collection, and only capture its url in the element properties. Why ask someone to write out the word "Home" if they don't have to?
 
@@ -295,20 +295,20 @@ In the end, you can see the difference between our new Web Component — and its
 
 What if it was closer to the clear, concise, configurable, and consistent six lines we see on this slide?
 
-This custom element, usa-banner, contains all the critical information a developer needs to set up and configure the banner:
+This custom element, `usa-banner`, contains all the critical information a developer needs to set up and configure the banner:
 * We can set the domain as "gov" so the rendered banner shows shows copy that refers to .gov domains
 * We can set the background to dark, so it has a custom color.
 * And we can use USWDS design tokens to set the width of the component to "widescreen" so the text extends the same width as the rest of the elements on the site.
   
 And that's it. The element interpreter does the rest, and developers don't have to worry about 93 lines of custom markup, and copy that are subject to change and evolution over time!
 
-**Slide 83:** So for example, what if we wanted to display the Spanish version of the banner. Instead of copying all the Spanish language copy and metadata into a custom template, we can just add a new attribute: **Lang="es"**, and the banner updates to Spanish with just a single line of code.
+**Slide 83:** So for example, what if we wanted to display the Spanish version of the banner. Instead of copying all the Spanish language copy and metadata into a custom template, we can just add a new attribute: `lang="es"`, and the banner updates to Spanish with just a single line of code.
 
 **Slide 84:** Clear, concise, configurable, and consistent custom elements. The element interface stays consistent…
 
 **Slide 85:** …while the element interpreter handles changes under the hood.
 
-**Slide 86:** This makes the move to Web Components a big change in terms of upgradeability and maintainability. When you're updating a Web Component, you're updating interpreters, not markup. And upgrading the interpreter can be as simple as running a simple update script —essentially pushing a button.
+**Slide 86:** This makes the move to Web Components a big change in terms of upgradeability and maintainability. When you're updating a Web Component, you're updating interpreters, not markup. And upgrading the interpreter can be as simple as running a simple update script — essentially pushing a button.
 
 **Slide 87:** Anything handled by the interpreter updates automatically…
 
@@ -316,7 +316,7 @@ And that's it. The element interpreter does the rest, and developers don't have 
 
 **Slide 89:** And this means a move to thinking about theming as *configuration* — something that can happen closer to the custom element layer. Theming is more like input data to a component, rather than a layer of styling that's applied from an external stylesheet.
 
-**Slide 90:** All together, the custom elements and element interpreters model of Web Components combines the power, continuity, and broad support of standards with the flexibility of templates and templating languages. It's a well supported, cross-browser, platform-agnostic standard that takes the design system out of the static world of a markup spec into the dynamic world of templating. 
+**Slide 90:** Altogether, the custom elements and element interpreters model of Web Components combines the power, continuity, and broad support of standards with the flexibility of templates and templating languages. It's a well supported, cross-browser, platform-agnostic standard that takes the design system out of the static world of a markup spec into the dynamic world of templating… 
 
 **Slide 91:** Making the design system easier to implement, and easier to stay up to date.
 
@@ -324,11 +324,11 @@ And that's it. The element interpreter does the rest, and developers don't have 
 
 **Slide 93:** What could we do if we had the opportunity to focus on our shared mission: Shaping the future of government digital services? This technology is critical, necessary infrastructure, but the important question is what we're able to do with it. And that's a great question to start to ask.
 
-**Slide 94:** So before we get into Q&A, I'd like to introduce Jame Mejia, a front-end engineer, and a contractor on the USWDS core team, and the person who knows more of the details than I do! James, can you introduce yourself, and we'll move on to Q&A!
+**Slide 94:** So before we get into Q&A, I'd like to introduce James Mejia, a front-end engineer, and a contractor on the USWDS core team, and the person who knows more of the details than I do! James, can you introduce yourself, and we'll move on to Q&A!
 
 **Slide 95:** Q&A
 
-**Slide 96:** Thanks for joining today’s USWDS monthly call. We'll be back next month to help celebrate Global Accessibility Awareness Day with a special guest and discussion on building accessible civic spaces. This is going to be a good one! Please look out for an event feedback survey from Digital.gov. You'll get this in your email, and there's also a link in the chat. Your feedback makes a difference to us, so we'd appreciate the extra time it takes you to provide it.
+**Slide 96:** Thanks for joining today's USWDS monthly call. We'll be back next month to help celebrate Global Accessibility Awareness Day with a special guest and discussion on building accessible civic spaces. This is going to be a good one! Please look out for an event feedback survey from Digital.gov. You'll get this in your email, and there's also a link in the chat. Your feedback makes a difference to us, so we'd appreciate the extra time it takes you to provide it.
 
 And if you have a question we weren't able to answer in the call, or thought of later, please head into our public Slack and ask it there. We'll be around after the call to answer questions.
 
