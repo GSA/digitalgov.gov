@@ -54,6 +54,10 @@
   &__title a {
     color: color("gray-90");
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   &__summary {
