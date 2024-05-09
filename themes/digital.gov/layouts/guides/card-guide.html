@@ -1,0 +1,16 @@
+<article class="dg-guides-card">
+  <div class="dg-guides-card__content">
+    <span class="dg-guides-card__kicker">Digital.gov Guide</span>
+    <h2 class="dg-guides-card__title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="dg-guides-card__summary">
+      {{ .Params.Summary }}
+    </p>
+  </div>
+  <div class="dg-guides-card__media">
+    <a href="{{ .Permalink }}">
+      {{- partial "core/img-flexible.html" (dict "Site" .Site "src" .Params.Image "small" "false") -}}
+    </a>
+  </div>
+</article>

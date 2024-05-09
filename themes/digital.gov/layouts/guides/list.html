@@ -26,26 +26,24 @@
 
 
   <main role="main" id="main-content">
-    {{/* Iterate over the guides pages and display as a card grid */}}
-    <section class="grid-container dg-guides">
-      {{ range $guidePages }}
-        {{ if .Params.guide_weight }}
-          <article class="dg-guides-card">
-            <span>Digital.gov Guide</span>
-            <h2>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </h2>
-            <p>
-              {{ .Params.Summary }}
-            </p>
-            <div class="dg-guides-card__header-image">
-              <a href="{{ .Permalink }}">
-                {{- partial "core/img-flexible.html" (dict "Site" .Site "src" .Params.Image "small" "false") -}}
-              </a>
-            </div>
-          </article>
+    <div class="grid-container-desktop">
+      <header class="page-head">
+        {{/* Page Title */}}
+        <h1>{{- .Title | markdownify -}}</h1>
+
+        {{/* Deck */}}
+        {{- if .Params.deck -}}
+          <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
+        {{- end -}}
+      </header>
+
+      <section class="dg-guides usa-section">
+        {{ range $guidePages }}
+          {{ if .Params.guide_weight }}
+            {{ .Render "card-guide" }}
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </section>
+      </section>
+    </div>
   </main>
 {{ end }}
