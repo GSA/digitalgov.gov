@@ -38,7 +38,7 @@
       </header>
 
       <section class="dg-guides usa-section">
-        {{ range $guidePages }}
+        {{ range $guidePages.ByParam "guide_weight" }}
           {{ if .Params.guide_weight }}
             {{ .Render "card-guide" }}
           {{ end }}
