@@ -179,9 +179,9 @@ On screen we see four breadcrumbs of differing lengths. Each has a house icon at
 
 **Slide 46:** As we see highlighted in the screen, the first thing we might notice is that those bits of underlined text are links. A breadcrumb is a collection of links. 
 
-**Slide 47:** At the start of each collection is a home. Now highlighted on the screen.
+**Slide 47:** At the start of each collection is a home, now highlighted on the screen.
 
-**Slide 48:** And at the end of each collection is the current page. Now highlighted on the screen.
+**Slide 48:** And at the end of each collection is the current page, now highlighted on the screen.
 
 **Slide 49:** So this might be our content model:
 * A collection of links
