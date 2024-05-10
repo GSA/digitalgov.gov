@@ -51,7 +51,7 @@ And then hopefully we'll have plenty of time for Q&A.
 
 **Slide 8:** First a number of research updates. We've put a bunch of effort into operationalizing usability research over the last year, and it's really starting to come together. Last month we performed some usability research focused on five components: Banner, Site Alert, Memorable Date, Time Picker, and Radio Buttons.
 
-**Slide 9:** We've been continuing our focus on research with people with disabilities and users of assistive technology. In this last round, we had five users with visual impairments (three blind and two low-vision); one user with a motor impairment; and two users with mental health conditions (ADHD, anxiety, and depression)
+**Slide 9:** We've been continuing our focus on research with people with disabilities and users of assistive technology. In this last round, we had five users with visual impairments (three blind and two low-vision); one user with a motor impairment; and two users with mental health conditions (ADHD, anxiety, and depression).
 
 **Slide 10:** We were also able to test on a broad range of devices and user agents: four screen readers, one instance of screen magnification, and tests on both mobile and desktop.
 
@@ -99,7 +99,7 @@ Back when the web was young, this was one of the best ways to learn how the web 
 
 Since the earliest days, this common markup has been the stable foundation of the web.
 
-**Slide 20:** In fact, it was in 1994 — still in the very early days of the web — that the web standards body known as the [W3C (World Wide Web Consortium)](https://pagesix.com/2023/07/12/rfk-jr-press-dinner-explodes-in-war-of-words-and-farts/) was formed. By 1996, they'd assumed standardization responsibilities for this markup language. 
+**Slide 20:** In fact, it was in 1994 — still in the very early days of the web — that the web standards body known as the [W3C (World Wide Web Consortium)](https://www.w3.org/) was formed. By 1996, they'd assumed standardization responsibilities for this markup language. 
 
 This standardization was important because of what the web was trying to do — connect information across the world, between pages and documents that might not share any commonalities but a common language. If they were going to connect successfully, it was because they shared this common language.
 
