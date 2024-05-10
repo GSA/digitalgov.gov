@@ -51,8 +51,8 @@ The Digital Experience Council is led by a Leadership Committee composed of two 
 
 The current Leadership Committee is:
 
+* **Abby Bowman**, co-chair, [Office of the Chief Information Officer](https://www.nasa.gov/ocio/), National Aeronautics and Space Administration
 * **[Gary Washington](https://www.usda.gov/ocio/leadership/gary-washington)**, co-chair, Office of the Chief Information Officer, U.S. Department of Agriculture
-* \[Second co-chair to be selected]
 * **Jonathan Finch**, [Office of the Federal Chief Information Officer](https://www.whitehouse.gov/omb/management/ofcio/), OMB
 * **Lauren Bracey-Scheidt**, [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services), GSA
 * **Larry Bafundo**, [Technology Modernization Fund](https://tmf.cio.gov/), GSA
