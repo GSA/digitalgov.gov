@@ -1,24 +1,33 @@
 ---
+# View this page at https://digital.gov/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government
+# Learn how to edit our pages at https://workflow.digital.gov
+
+slug: requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government
 date: 2024-05-14
-title: Requirements for the registration and use of .gov domains in the federal
-  government
-deck: "Understand the policy framework: DOTGOV Online Trust in Government Act
-  and OMB Memo M-23-10"
-summary: Learn how to implement the DOTGOV Online Trust in Government Act and
-  understand how to register federal internet domain names.
+title: "Requirements for the registration and use of .gov domains in the federal government"
+deck: "Understand the policy framework: DOTGOV Online Trust in Government Act and OMB Memo M-23-10"
+summary: "Learn how to implement the DOTGOV Online Trust in Government Act and understand how to register federal internet domain names."
+
+# see all authors at https://digital.gov/authors
+authors:
+  - cathryn-camenzind
+
 # See all topics at https://digital.gov/topics
 topics:
   - domain-management
   - governance
   - policy
-slug: requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government
-primary_image: 10x-areas-of-focus
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 ## What is the DOTGOV Online Trust in Government Act?
 
 The [DOTGOV Online Trust in Government Act](https://www.congress.gov/bill/116th-congress/house-bill/133), was signed into law in December 2020 as part of the 2021 Consolidated Appropriations Act.
