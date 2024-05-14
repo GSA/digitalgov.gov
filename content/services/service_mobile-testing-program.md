@@ -1,7 +1,7 @@
 ---
 url: /services/mobile-application-testing-program/
 
-# 2013, approximate date
+# Approximate date, mentioned August 2013 https://digital.gov/2013/08/22/mobile-product-testing-guidelines/ 
 date: 2013-06-16 11:20:38 -0400
 
 # What is the name of the product or service?
