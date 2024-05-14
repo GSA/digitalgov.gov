@@ -5,9 +5,11 @@ title: "Federal Crowdsource Mobile Testing Program"
 # Keep it short — should be no longer than 10 words.
 summary: "Compatibility testing service that agencies can use to test the mobile-friendliness of their websites."
 
+redirectto: https://digital.gov/topics/mobile/
+
 # Will this point to an external source URL?
 
-# source_url: ''
+# source_url: ""
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
