@@ -68,6 +68,7 @@ params:
   git_org: "GSA"
   git_repo: "digitalgov.gov"
   devmode: false
+  hostName: "https://digital.gov"
 
   # Homepage settings
   dg_tagline: "Better websites. Better government."
@@ -157,5 +158,5 @@ menu:
       Weight: 2
     - Name: "Contact Us"
       Identifier: "contact"
-      URL: "/about/contact/"  
+      URL: "/about/contact/"
       Weight: 3
