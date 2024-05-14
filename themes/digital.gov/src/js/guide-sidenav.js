@@ -154,12 +154,12 @@ function findTopHeading(
 
   // Recursive case
   /* eslint-disable no-param-reassign */
-  // Caluclate the distance of the current heading fro the top of the page
+  // Calculate the distance of the current heading fro the top of the page
   // getBoundingClientRect().top gives the distance from the viewport, so we add the scrollY to get the distance from the top of the page
   const currentHeadingTop =
     headings[i].getBoundingClientRect().top + window.scrollY;
 
-  //   // Calculate the distance of the next heading from the top of the document, if there is a next heading
+  //  Calculate the distance of the next heading from the top of the document, if there is a next heading
   // If there is no next heading, set nextHeadingTop to Infinity
   const nextHeadingTop =
     i < headings.length - 1
