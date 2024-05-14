@@ -3,9 +3,9 @@ date: 2019-06-24
 # Originally published at the following URL
 source_url: https://cloud.cio.gov/strategy/
 source: cio-council
-title: Federal Cloud Computing Strategy
+title: "Cloud Smart: Federal Cloud Computing Strategy"
 deck: ""
-summary: "Cloud Smart covers three key pillars of successful cloud adoption: security, procurement, and workforce."
+summary: "Founded on three key pillars of successful cloud adoption—security, procurement, and workforce—the Cloud Smart strategy includes 11 action items from the Chief Information Officers (CIO) Council."
 # See all topics at https://digital.gov/topics
 topics:
   - cloud-and-infrastructure
