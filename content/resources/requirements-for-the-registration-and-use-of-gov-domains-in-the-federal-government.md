@@ -57,13 +57,10 @@ The DOTGOV Online Trust in Government Act requires executive branch agencies to 
 
 It also requires the [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/) (CISA) to establish and publish the following requirements for the registration and operation of .gov internet domains:
 
-Minimize the risk of .gov domains whose names could mislead or confuse users
-
-Establish that .gov internet domains may not be used for commercial or political campaign purposes
-
-Ensure that domains are registered and maintained only by authorized individuals
-
-Limit the sharing or use of any information obtained through the administration of the .gov internet domain
+* Minimize the risk of .gov domains whose names could mislead or confuse users
+* Establish that .gov internet domains may not be used for commercial or political campaign purposes
+* Ensure that domains are registered and maintained only by authorized individuals
+* Limit the sharing or use of any information obtained through the administration of the .gov internet domain
 
 {{< ring title="Public Law No: 116-260">}}
 [Explore DOTGOV Online Trust in Government Act, Public Law No: 116-26](https://www.congress.gov/bill/116th-congress/house-bill/133)
