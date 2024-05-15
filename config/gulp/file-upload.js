@@ -30,7 +30,7 @@ function uploadImage() {
 
 function uploadFile() {
   console.log("starting file upload");
-  publisher.config.params.Bucket = "digitalgov"; // Change to your specific static files bucket
+  publisher.config.params.Bucket = "digitalgov";
   return gulp.src("content/uploads/_working-files/to-process/*")
     .pipe(publisher.publish())
     .pipe(awspublish.reporter({
