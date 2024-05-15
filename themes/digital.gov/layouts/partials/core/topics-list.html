@@ -1,0 +1,25 @@
+{{ $topics := .data }}
+{{ $scope := .scope }}
+
+{{/* TODO:
+
+  - [x] Use page title for display, use name for link
+  - [x] second list is adding padding top to first item????
+  - [x] bem classes
+  - [ ] ! we should change title to include acronyms
+*/}}
+
+
+<div class="dg-topics-list">
+  <h3 class="dg-topics-list__header">{{ $topics.category }}</h3>
+  <ul class="dg-topics-list__list usa-list usa-list--unstyled">
+    {{ range $topics.topics }}
+      <li class="dg-topics-list__list-item">
+        {{ $page := $scope.GetPage .name }}
+        <a class="dg-topics-list__link" href="{{ $page.Permalink }}"
+          >{{ $page.Title }}</a
+        >
+      </li>
+    {{ end }}
+  </ul>
+</div>

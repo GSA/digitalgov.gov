@@ -1,123 +1,41 @@
-{{/* All Tags */}}
-{{/* lists out the tags for the site */}}
+{{/* All Tags
+  lists out the tags for the site
+
+  TODO:
+  1. create topics grid list component
+  2. create list component
+  3. test all links point to topic
+*/}}
 {{- define "content" -}}
+  {{ $design_topics := .Site.Data.topics.design }}
+  {{ $data_analysis_topics := .Site.Data.topics.data_and_analysis }}
+  {{ $operations_topics := .Site.Data.topics.operations }}
+  {{ $content_communications_topics := .Site.Data.topics.content_and_communications }}
+  {{ $technology_topics := .Site.Data.topics.technology }}
+  {{ $strategic_development_topics := .Site.Data.topics.strategic_development }}
+
+
   <main role="main" id="main-content">
-    <header>
-      <div class="grid-container grid-container-desktop margin-top-2">
-        {{- $topics := (where .Site.Pages "Section" "topics") -}}
-        <h1>Topics</h1>
-        <h4 class="display-none">There are {{ len $topics }} topics</h4>
-      </div>
-    </header>
-
     <section class="grid-container-desktop">
-      <div class="grid-row tablet:grid-gap-2">
-        {{- $top_topics := $.Site.Taxonomies.topics -}}
-        {{- range $name, $taxonomy := $top_topics -}}
-          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-            {{- if eq .Params.weight 2 -}}
-              <div class="grid-col-12 tablet:grid-col-4">
-                {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title) }}
-              </div>
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
-      </div>
-    </section>
+      <header class="page-head">
+        <h1>Topics</h1>
+        <p>
+          When you have a requirement to meet or an improvement to introduce to
+          your team or product, but you don’t know where to start: start here.
+          We have introductory level collections so you can explore how to meet
+          the requirements of web legislation.
+        </p>
+      </header>
 
-    <section class="grid-container grid-container-desktop margin-bottom-4">
-      <div class="grid-row tablet-lg:grid-gap-2">
-        <div class="grid-col-auto">
-          {{- $topics_tax := $.Site.Taxonomies.topics -}}
-          {{- $topics_count := len $topics_tax -}}
-          <h2>All {{ $topics_count }} Topics</h2>
-        </div>
-      </div>
-      <div class="topics-button__list">
-        {{/* How we're dividing all the topics into 4 columns
-          Set the counter to 0.
-        */}}
-        {{- $.Scratch.Set "counter" 0 -}}
-
-        {{/* Loop through all the terms */}}
-        {{- range $name, $taxonomy := $topics_tax -}}
-          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-            {{/* Increment the counter for each topic */}}
-            {{- $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) -}}
-            {{- $count := $.Scratch.Get "counter" -}}
-
-            {{/* Output the topic HTML */}}
-            {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title "tag_count" $taxonomy.Count) }}
-          {{- end -}}
-        {{- end -}}
-      </div>
-    </section>
-
-    <section class="topic-csv display-none">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-auto">
-            {{- $topics_tax := $.Site.Taxonomies.topics -}}
-            {{- range $name, $topic := $topics_tax }}
-              {{- with $.Site.GetPage (printf "/topics/%s" $name) }}
-                {{ .Title }}, {{ $name }},
-                {{ .Params.weight }}
-                <br />
-              {{ end -}}
-            {{- end -}}
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="display-none">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-6">
-            <table>
-              {{- $topics := (where .Site.Pages "Section" "topics") -}}
-              {{- range $name, $taxonomy := $topics.ByTitle -}}
-                <tr>
-                  <td class="padding-1 border-bottom-1px border-base-lighter">
-                    <a href="{{- .Permalink -}}" title="{{- $name -}}"
-                      ><span>{{- .Title -}}</span></a
-                    >
-                  </td>
-                  <td
-                    class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs"
-                  >
-                    {{ .Data.Term }}
-                  </td>
-                </tr>
-              {{- end -}}
-            </table>
-          </div>
-          <div class="grid-col-6">
-            <table>
-              {{- $topics_tax := $.Site.Taxonomies.topics -}}
-              {{- range $name, $taxonomy := $topics_tax -}}
-                {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                  <tr>
-                    <td class="padding-1 border-bottom-1px border-base-lighter">
-                      <a href="{{- .Permalink -}}" title="{{- $name -}}">
-                        <span>{{- .Title -}}</span>
-                      </a>
-                    </td>
-                    <td
-                      class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs"
-                    >
-                      {{ .Data.Term }}
-                    </td>
-                    <td
-                      class="display-none padding-1 border-bottom-1px border-base-lighter font-mono-2xs"
-                    >
-                      {{ $taxonomy.Count }}
-                    </td>
-                  </tr>
-                {{- end -}}
-              {{- end -}}
-            </table>
-          </div>
+      <div class="usa-section">
+        <h2>Browse by topic</h2>
+        <div class="dg-topics-grid">
+          {{ partial "core/topics-list.html" (dict "data" $design_topics "scope" .) }}
+          {{ partial "core/topics-list.html" (dict "data" $data_analysis_topics "scope" .) }}
+          {{ partial "core/topics-list.html" (dict "data" $operations_topics "scope" .) }}
+          {{ partial "core/topics-list.html" (dict "data" $content_communications_topics "scope" .) }}
+          {{ partial "core/topics-list.html" (dict "data" $technology_topics "scope" .) }}
+          {{ partial "core/topics-list.html" (dict "data" $strategic_development_topics "scope" .) }}
         </div>
       </div>
     </section>

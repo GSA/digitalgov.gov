@@ -28,3 +28,32 @@
     }
   }
 }
+
+.dg-topics-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+
+  @include at-media("tablet") {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include at-media("desktop") {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.dg-topics-list {
+  &__list-item {
+    padding-bottom: units(1);
+  }
+
+  &__link {
+    // color: color("cyan-60v");
+    color: color("blue-70v");
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
