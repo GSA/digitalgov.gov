@@ -1,8 +1,10 @@
 require("dotenv").config(); 
+
 const gulp = require("gulp");
 const awspublish = require('gulp-awspublish');
 const del = require("del");
 const vinylPaths = require("vinyl-paths");  
+
 // Create a new publisher using S3 options
 const publisher = awspublish.create({
   region: 'us-east-1', // Change to your AWS region
@@ -28,9 +30,13 @@ function uploadImage() {
 
 function uploadFile() {
   console.log("starting file upload");
-  publisher.config.params.Bucket = "digitalgov/static"; // Change to your specific static files bucket
+  publisher.config.params.Bucket = "digitalgov"; // Change to your specific static files bucket
   return gulp.src("content/uploads/_working-files/to-process/*")
     .pipe(publisher.publish())
+    .pipe(awspublish.reporter({
+      states: ['create', 'update', 'delete']
+    }))
+    .pipe(vinylPaths(del))
 }
 
 function cleanup() {
