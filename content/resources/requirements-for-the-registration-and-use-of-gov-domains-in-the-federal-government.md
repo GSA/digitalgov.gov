@@ -53,8 +53,7 @@ The DOTGOV Online Trust in Government Act requires executive branch agencies to 
 * Local entities
 * Tribal entities (federally- and state-recognized tribes)
 * Territory entities
-
-Any other publicly-controlled entity
+* Any other publicly-controlled entity
 
 It also requires the [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/) (CISA) to establish and publish the following requirements for the registration and operation of .gov internet domains:
 
@@ -74,7 +73,7 @@ Limit the sharing or use of any information obtained through the administration 
 
 OMB’s policy guidance in M-23-10 requires all executive branch agencies to understand the acceptable use and registration of federal internet domain names.
 
-The use of .gov by agencies
+### The use of .gov by agencies
 
 The public assumes that any federal information, services, and communications under the .gov domain are official and authoritative. To maintain this public trust, executive branch agencies are required to use a .gov or .mil domain for official communications, information, publications, delivery of services, design of online content, and development of digital products and tools.
 
