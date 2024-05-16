@@ -55,6 +55,9 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 
 #### Prerequisites
 
+Unix-based systems are recommended for development. If you are using Windows, consider using the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) to run a Unix-based system on your machine.
+If you do not have a Unix-based system, you will recieve additional linting errors when running the `npm run lint` commands.
+
 Install [Gulp](https://gulpjs.com/) globally from your terminal command line:
 
 ```bash
