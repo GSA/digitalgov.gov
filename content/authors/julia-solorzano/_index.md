@@ -20,7 +20,7 @@ slug: julia-solorzano
 email: "julia.solorzano@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Julia Solórzano is the User Experience Branch Chief for Login.gov. She leads design and development teams, and coaches people to help them reach their full potential and create amazing things. She is passionate about the streamlining process, and is an advocate for open-source development and user-centered design. She is based in Durham, NC."
+bio: "Julia Solórzano is the Branch Chief of User Experience for Login.gov, where she leads a team of designers and developers to create secure and user-friendly identity solutions for federal agencies and the public. She has over twenty years of experience in design leadership, people management, user experience, web development, and open source projects. She is based in Durham, NC."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
