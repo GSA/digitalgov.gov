@@ -2,7 +2,7 @@
 slug: socialgov-round-up-2015
 date: 2015-06-08 11:30:55 -0400
 title: '#SocialGov Round Up 2015'
-summary: 'The #SocialGov Community is coming up on three years of hard work and pushing the boundaries on using social tools across the federal government. I’d like to start this round up by taking a look at the event we hosted last year, State of the #SocialGov 2014: 2 Years of Smashing Silos + Elevating Citizen'
+summary: 'The SocialGov Community is coming up on three years of hard work and pushing the boundaries on using social tools across the federal government. I’d like to start this round up by taking a look at the event we hosted last year, State of the #SocialGov 2014: 2 Years of Smashing Silos + Elevating Citizen'
 authors:
   - apiazza
 topics:
@@ -20,13 +20,17 @@ I’d like to start this round up by taking a look at the event we hosted last y
 
 In August, we hosted yet another [#SocialGov Summit]({{< ref "2014-08-19-white-house-socialgov-summit-aims-to-improve-open-data-innovation.md" >}}); this time, it was held at the White House and focused on Opening Data. Representatives from The Case Foundation, WeWork, General Assembly, ThinkUp and Fosterly opened the session with a discussion on the unique needs of their communities and how government managers can listen better to design public/private partnerships that encourage sustainable innovation.
 
-## “Social” Security {{< legacy-img src="2015/06/250-x-176-Online-Security-Technology-solarseven-iStock-Thinkstock-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." caption="" >}} 
+## “Social” Security
+
+{{< legacy-img src="2015/06/250-x-176-Online-Security-Technology-solarseven-iStock-Thinkstock-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." caption="" >}} 
 
 One big topic of conversation this year was security and privacy using social tools. This topic was so popular that the #SocialGov community put together a working group and a [toolkit to help agencies protect themselves while using social media]({{< ref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}).
 
 In 2013, we published an article on how [government must respond rapidly to social media hacking]({{< ref "2013-04-25-government-must-respond-rapidly-to-social-media-hacking.md" >}}) which identifies some steps you can take to make sure you are protected. In 2014, we hosted the event [How to Recover from a Social Media Crisis](https://youtu.be/K0yy3wviTvM), and we also hosted the webinar [How to Respond to Social Media Hacks](https://youtu.be/tesgduqeyjI), talking to agencies about how they prepare and respond when there is a hack.
 
-## Social Tools and Terms of Service {{< legacy-img src="2014/05/250-x-166-Terms-of-Service-alexskopje-iStock-Thinkstock-176024832.jpg" alt="Terms of Service typed out on a sheet of paper in a typewriter" caption="" >}} 
+## Social Tools and Terms of Service
+
+{{< legacy-img src="2014/05/250-x-166-Terms-of-Service-alexskopje-iStock-Thinkstock-176024832.jpg" alt="Terms of Service typed out on a sheet of paper in a typewriter" caption="" >}} 
 
 GSA has been working on negotiating [federal friendly terms of service agreements]({{< ref "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}}) since 2009, and we have a long list of [tools that are acceptable for the federal government]({{< ref "negotiated-terms-of-service-agreements.md" >}}) to use because of these renegotiated terms. This past year we hosted some events with the newer tools that we’ve added to the list.
 
