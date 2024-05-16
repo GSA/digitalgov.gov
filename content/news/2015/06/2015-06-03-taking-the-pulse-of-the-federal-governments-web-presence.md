@@ -2,7 +2,7 @@
 slug: taking-the-pulse-of-the-federal-governments-web-presence
 date: 2015-06-03 13:10:57 -0400
 title: 'Taking the Pulse of the Federal Government&#8217;s Web Presence'
-summary: 'The U.S. federal government is launching a new project to monitor how it&#8217;s doing at best practices on the Web. A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s called Pulse and you can find it at pulse.cio.gov. Pulse is a lightweight dashboard that uses the official .gov domain list'
+summary: 'The U.S. federal government is launching a new project to monitor how it&#8217;s doing at best practices on the Web.'
 authors:
   - eric-mill
   - julia-solorzano
@@ -88,7 +88,7 @@ We lean heavily on the open source [site-inspector](https://github.com/benbalter
 
 To get the precision we wanted, we needed to take into account several subtle things about domains:
 
-  * Domains have 4 possible &#8220;endpoints&#8221;—https://www, https://, http://www, and http://—which may each exhibit very different behavior.
+  * Domains have 4 possible &#8220;endpoints&#8221;—`https://www`, `https://`, `http://www`, and `http://`—which may each exhibit very different behavior.
   * Describing a domain&#8217;s HTTPS support means detecting which endpoint is &#8220;canonical,&#8221; as well as looking holistically at which endpoints redirect to others.
   * A domain&#8217;s HTTPS certificate might be issued for an invalid hostname (e.g. a248.e.akamai.net). In this case, HTTPS is likely an **unsupported** way to access the domain.
   * A domain&#8217;s HTTPS certificate might have an incomplete or untrusted chain (e.g. missing intermediates, or a private root certificate), in which case HTTPS is likely a **supported** way to access the domain.
@@ -107,5 +107,8 @@ We&#8217;re still in the process of fully documenting the tools we used. If you&
 
 Pulse is clearly a small and simple website, but we think it&#8217;s a promising foundation for celebrating (and motivating) the U.S. government&#8217;s progress on making world-class websites and online services.
 
-We&#8217;re thrilled we had the opportunity to work with the Office of Government-wide Policy here at GSA to get Pulse started, and we hope others find it useful. Feel free to [leave feedback](https://github.com/18F/pulse/issues/new) on the project so far, and where to take Pulse next!_Eric Mill, Julia Solórzano, and Gray Brooks work at 18F. John Tindel works in the Office of Government-wide Policy._
+We&#8217;re thrilled we had the opportunity to work with the Office of Government-wide Policy here at GSA to get Pulse started, and we hope others find it useful. Feel free to [leave feedback](https://github.com/18F/pulse/issues/new) on the project so far, and where to take Pulse next!
+
+_Eric Mill, Julia Solórzano, and Gray Brooks work at 18F. John Tindel works in the Office of Government-wide Policy._
+
 _This article was originally posted on the [18F blog](https://18f.gsa.gov/2015/06/02/taking-the-pulse-of-the-federal-governments-web-presence/)._
