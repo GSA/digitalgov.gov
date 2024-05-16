@@ -1,26 +1,26 @@
 ---
 
 # Your author profile page lives at:
-# https://digital.gov/authors/julia-elman
+# https://digital.gov/authors/julia-solorzano
 
-display_name: "Julia Elman"
+display_name: "Julia Solórzano"
 first_name: "Julia"
-last_name: "Elman"
+last_name: "Solórzano"
 
 # Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
 # List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
 # See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
 # Examples: they/them, she/her, or he/him
-pronoun: ""
+pronoun: "she/her"
 
 # slug — the specific user-id for an author.
-slug: julia-elman
+slug: julia-solorzano
 
 # if you include an email address, it will be displayed on your profile page
-email: "julia.elman@gsa.gov"
+email: "julia.solorzano@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Julia Elman is the UX Lead for login.gov. She leads design and development teams, and coaches people to help them reach their full potential and create amazing things. She is passionate about the streamlining process, and is an advocate for open-source development and user-centered design. She is based in Durham, NC."
+bio: "Julia Solórzano is the User Experience Branch Chief for Login.gov. She leads design and development teams, and coaches people to help them reach their full potential and create amazing things. She is passionate about the streamlining process, and is an advocate for open-source development and user-centered design. She is based in Durham, NC."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
@@ -46,7 +46,7 @@ profile_source: "github"
 # Professional Social Media [e.g., Digital_Gov]
 twitter: ""
 facebook: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/juliasolorzano"
 YouTube: ""
 
 # For more information on managing your author page,

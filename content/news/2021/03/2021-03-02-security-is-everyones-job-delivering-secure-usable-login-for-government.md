@@ -18,7 +18,7 @@ topics:
   - human-centered-design
 # See all authors at https://digital.gov/authors
 authors:
-  - julia-elman
+  - julia-solorzano
 slug: security-is-everyones-job-delivering-secure-usable-login-for-government
 primary_image: login-gov-launch
 # Controls how this page appears across the site
@@ -28,13 +28,13 @@ weight: 1
 
 ---
 
-Creating easy-to-use online products and services is not something you read much about when referring to the government. In this blog post, I'll share how the cross-functional teams on [login.gov](https://login.gov) designs and delivers human-centered experience to create a modern, secure, and impactful login service for the public.
+Creating easy-to-use online products and services is not something you read much about when referring to the government. In this blog post, I'll share how the cross-functional teams on [Login.gov](https://login.gov) designs and delivers human-centered experience to create a modern, secure, and impactful login service for the public.
 
-## What is login.gov?
+## What is Login.gov?
 
 {{< img-right src="login-lock-graphic" >}}
 
-Trusted by government agencies, login.gov is a shared service used by the public. Our program's mission is to simplify secure access to online government services for the public, and reduce costs for agencies and taxpayers. With one login.gov account, the sign-in process is streamlined; the need to remember different passwords for each agency is eliminated.
+Trusted by government agencies, Login.gov is a shared service used by the public. Our program's mission is to simplify secure access to online government services for the public, and reduce costs for agencies and taxpayers. With one Login.gov account, the sign-in process is streamlined; the need to remember different passwords for each agency is eliminated.
 
 ### Security experience
 
@@ -66,15 +66,15 @@ Usability testing is a priority when trying to obtain information directly from 
 
 ### Performing cross disciplinary ideation sessions
 
-We’ve also incorporated remote [human-centered design methods](https://methods.18f.gov/) to perform cross disciplinary ideation sessions for convergent and divergent thinking. Bringing together engineers, product managers and user experience subject matter experts to ideate has been beneficial to creating new, enriching concepts for login.gov products and services. It has also been a great way for our team to bond and get to know how we all think and work.
+We’ve also incorporated remote [human-centered design methods](https://methods.18f.gov/) to perform cross disciplinary ideation sessions for convergent and divergent thinking. Bringing together engineers, product managers and user experience subject matter experts to ideate has been beneficial to creating new, enriching concepts for Login.gov products and services. It has also been a great way for our team to bond and get to know how we all think and work.
 
 ### Working transparently
 
-We ensure that all members of the login.gov team are aware of user experience methods that are happening around the program (e.g., user interviews) and invite them to join. This can be done by joining various meetings (e.g., engineering weekly) for feedback on concepts and watching user interviews together over a conference call.
+We ensure that all members of the Login.gov team are aware of user experience methods that are happening around the program (e.g., user interviews) and invite them to join. This can be done by joining various meetings (e.g., engineering weekly) for feedback on concepts and watching user interviews together over a conference call.
 
 ## Case study: Increasing our identity verification proofing rates
 
-Now that you know a bit more about what login.gov is and how we work, I’d like to outline a case study of how we put our methods into practice to increase our proofing rates for our identity verification service.
+Now that you know a bit more about what Login.gov is and how we work, I’d like to outline a case study of how we put our methods into practice to increase our proofing rates for our identity verification service.
 
 ### Creating user flows for IAL2
 
@@ -82,7 +82,7 @@ Identity verification, also referred to as [Identity Assurance Level 2 NIST](htt
 
 ### Performing usability testing on new concepts
 
-After creating these flows, we targeted the image capture portion of the flow and how we could better enhance the experience to better meet the public’s needs. There were a few updates to the flow that we made, based on feedback we received from our study: 
+After creating these flows, we targeted the image capture portion of the flow and how we could better enhance the experience to better meet the public’s needs. There were a few updates to the flow that we made, based on feedback we received from our study:
 
 * Being on mobile, having large, easy to click areas is important when creating a quality user experience. We decided to make the entire “Photo” box clickable, which tested well! 
 * We also decided to use more plain language to describe the interactions required for verification. For example, this screen asked for the user to take a “selfie” of themselves. Now, some folks on this call may know what a “selfie” is, but that is an assumption we knew we could not make for the public’s understanding of this term. Therefore, we changed the language to read, “Take a photo of yourself.”
@@ -95,22 +95,22 @@ We also heard from users that certain screens were unhelpful or unuseful in the 
 
 ### Increased to 60% proofing success rates in two weeks
 
-We implemented the recommendations that were based off of our usability testing and saw our actual* proofing rates increase from 51% to 60% within two weeks. This was a remarkable outcome for us to see after making a few incremental changes to improving our service, based on our teams findings and recommendations. 
+We implemented the recommendations that were based off of our usability testing and saw our actual* proofing rates increase from 51% to 60% within two weeks. This was a remarkable outcome for us to see after making a few incremental changes to improving our service, based on our teams findings and recommendations.
 
-Within 30 days of implementation, our average actual success rate increased to 74%, and with a daily high as high as much 84%. These numbers will continue to climb by using continuous discovery and human-centered design techniques. As you can see, not only does this improve the public’s experience of login.gov, but also has serious business impact - making our product more attractive to partners, and reducing our costs to proof users.
+Within 30 days of implementation, our average actual success rate increased to 74%, and with a daily high as high as much 84%. These numbers will continue to climb by using continuous discovery and human-centered design techniques. As you can see, not only does this improve the public’s experience of Login.gov, but also has serious business impact - making our product more attractive to partners, and reducing our costs to proof users.
 
 _&#42; Note: Actual is the percent of successfully proofed users who actually start the proofing process and complete all steps._
 
 ## And we’re just getting started
 
-In fiscal year 2021, we are expanding upon our work and continuing to build the best security user experience for the public. By taking a human-centered approach to our metrics, product iterations, and service design, we will continue to build an even better login.gov for everyone.
+In fiscal year 2021, we are expanding upon our work and continuing to build the best security user experience for the public. By taking a human-centered approach to our metrics, product iterations, and service design, we will continue to build an even better Login.gov for everyone.
 
-You can learn more by visiting our [login.gov website](https://www.login.gov).
+You can learn more by visiting our [Login.gov website](https://www.login.gov).
 
 Is your agency looking for a login solution for your online products and services? Visit [partners.login.gov](https://partners.login.gov).
 
 ## _About the Author_
-{{< author-bio "julia-elman" >}}
+{{< author-bio "julia-solorzano" >}}
 
 ---
 

@@ -119,7 +119,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 
 > “I’m really proud of the Draft U.S. Web Design Standards because it’s the first step at improving government website experiences at scale and creating and supporting a community around them. (By the numbers….we’ve accepted 397 contributions from 49 people. We’ve had 207 people participating in conversations on GitHub issues and 128 people who have submitted GitHub issues. We’ve had 46 code developers — 3 core, 6 regular, and 33 casual users.)”—**Maya Benari**
 >
-> “I am honored to have worked on the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) with an amazing group of talented colleagues. It&#8217;s truly awesome to see the impact our work has already made and will hopefully continue to make for years to come.”—**Julia Elman**
+> “I am honored to have worked on the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) with an amazing group of talented colleagues. It&#8217;s truly awesome to see the impact our work has already made and will hopefully continue to make for years to come.”—**Julia Solórzano*
 >
 > “I was lucky to get to coach along some smart folks with the Method Cards and a tiny bit around the Draft U.S. Web Design Standards. Mostly, my role has me looking for more opportunities for the design team to lead, and I’m really proud of them for all the work that they’ve done this year. I feel lucky, every day, to get to work with such an amazing group of people.”—**Russ Unger**
 >
