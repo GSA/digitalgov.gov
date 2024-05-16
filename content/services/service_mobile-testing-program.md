@@ -1,13 +1,20 @@
 ---
+url: /services/mobile-application-testing-program/
+
+# Approximate date, mentioned August 2013 https://digital.gov/2013/08/22/mobile-product-testing-guidelines/ 
+date: 2013-06-16 11:20:38 -0400
+
 # What is the name of the product or service?
 title: "Federal Crowdsource Mobile Testing Program"
 
 # Keep it short — should be no longer than 10 words.
 summary: "Compatibility testing service that agencies can use to test the mobile-friendliness of their websites."
 
+redirectto: https://digital.gov/topics/mobile/
+
 # Will this point to an external source URL?
 
-# source_url: ''
+# source_url: ""
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder

@@ -1,8 +1,12 @@
 ---
 url: /services/mobile-application-testing-program/tester-information-for-the-federal-crowdsource-mobile-testing-program/
 date: 2014-06-16 11:20:38 -0400
+
+redirectto: https://digital.gov/topics/mobile/
+
 title: "Tester Information for the Federal Crowdsource Mobile Testing Program"
 summary: "Armed with only a mobile device, federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the Crowdsource Mobile Testing Program."
+
 weight: 0
 
 ---
