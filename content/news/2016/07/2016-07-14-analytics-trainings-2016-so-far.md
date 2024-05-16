@@ -40,7 +40,7 @@ The standard reports in Google Analytics provide a view of data applicable to ma
   * Special features that are only available in the custom reports
   * How you can gather multiple reports in one place
 
-  ## DAP 101 Training
+## DAP 101 Training
 
 Our 3-hour 101 training for DAP users. If you’re just getting started with DAP/Google Analytics, this is the training for you! We realize it might be tough to run through in one setting, so we’ve broken it down for you by topics.
 
