@@ -40,5 +40,23 @@ The standard reports in Google Analytics provide a view of data applicable to ma
   * Special features that are only available in the custom reports
   * How you can gather multiple reports in one place
 
+  ## DAP 101 Training
+
+Our 3-hour 101 training for DAP users. If you’re just getting started with DAP/Google Analytics, this is the training for you! We realize it might be tough to run through in one setting, so we’ve broken it down for you by topics.
+
+  * Intro
+  * What is DAP
+  * GA terms and concepts
+  * Measurements for goals of success for a site (using GA)
+  * GA demo &#8211; basics to access
+  * Audience overview reports
+  * Real time reporting
+  * Pages Report
+  * Landing page reports
+  * How are visitors finding your pages/site? (Acquisition metrics)
+  * 3 custom reports (Landing page report, Content drilldown report & Funnel report) &#8211; include part where talks about sampling
+  * Choosing the right metrics in your reports
+  * Emailing and exporting reports
+  * Wrap up
 
 If you’re wondering how you can get access to DAP or have more questions, [send DAP Support an email](mailto:dap@gsa.gov).
