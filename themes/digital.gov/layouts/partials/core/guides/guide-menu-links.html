@@ -22,12 +22,11 @@
         {{- $subPage := $pageScope.Site.GetPage $subItem.path -}}
         {{- if eq $currentPage $subPage.RelPermalink -}}
           {{- $current = true -}}
-          {{ printf "%#v" $current }}
         {{- end -}}
       {{- end -}}
     {{- end -}}
     <a
-      class="{{ cond $current "dg-current" "" }}"
+      class="dg-guide__menu-bar-link {{ cond $current "dg-current" "" }}"
       href="{{- $page.Permalink -}}#content-start"
       title="{{- $item.title -}}"
       >{{- $item.title -}}</a

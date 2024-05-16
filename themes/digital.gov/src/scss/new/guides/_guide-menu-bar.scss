@@ -43,7 +43,7 @@
     display: none;
   }
 
-  &-links a {
+  .dg-guide__menu-bar-link {
     color: color("black");
     font-size: size("sans", "md");
     font-weight: font-weight("light");
@@ -126,7 +126,7 @@
     align-items: flex-end;
     display: flex;
     flex-direction: row;
-    justify-content: right;
+    justify-content: left;
   }
 
   &__image-dg-icon {
@@ -175,8 +175,10 @@
     padding: units(2);
   }
 
-  &__nav a {
+  .dg-guide__menu-bar-link {
+    align-items: center;
     color: color("black");
+    display: flex;
     font-size: font-size("sans", "md");
     font-weight: font-weight(400);
     height: units(6);
@@ -184,7 +186,6 @@
     text-decoration: none;
 
     &:hover {
-      border-bottom: units(0.5) color("primary") solid;
       color: color("black");
     }
 
