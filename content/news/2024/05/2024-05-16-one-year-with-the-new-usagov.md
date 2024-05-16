@@ -24,6 +24,7 @@ summary: It has been a year since USA.gov and USAGov en Español were relaunched
   content, and exploring interactive and personalized user experiences.
 # See all topics at https://digital.gov/topics
 topics:
+  - analytics
   - content-strategy
   - best-practices
   - design
