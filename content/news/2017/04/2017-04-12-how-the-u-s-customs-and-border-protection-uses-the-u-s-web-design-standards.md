@@ -2,7 +2,7 @@
 slug: how-the-u-s-customs-and-border-protection-uses-the-u-s-web-design-standards
 date: 2017-04-12 11:00:14 -0400
 title: How the U.S. Customs and Border Protection Uses the U.S. Web Design Standards
-summary: 'As mentioned in our recent Q&A with the team at NASA, the U.S. Web Design Standards team is sitting down with various agencies that are using the Standards. In this second post in our series, we met with the team at the U.S. Customs and Border Protection and learned how they used the Standards to'
+summary: 'In this second post in our series, we met with the team at the U.S. Customs and Border Protection and learned how they used the Standards to train, develop, and design their various websites and applications.'
 authors:
   - julia-solorzano
 topics:
@@ -45,6 +45,8 @@ To assist in CBP redesign efforts, we’ve created a “Step It Up” program th
 
 **U.S. CBP team:** Yes! Our team could use more guidance on mobile form factors and applications. It would be useful to have guidance UI/UX standards for mobile-first products that we could look to when developing applications for particular devices – such as Android, iOS, and Windows devices.
 
-<hr width="75%" />
+---
 
-We’re looking to learn more [from agencies that have used the Standards](https://github.com/18F/web-design-standards/blob/staging/WHO_IS_USING_USWDS.md); if you’re interested in talking to us about your experience or have any feedback, feel free to [send us an email](mailto:uswebdesignstandards@gsa.gov). You can also chat with the team in the new [public Slack channel for the Standards](https://chat.18f.gov./)!_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+We’re looking to learn more [from agencies that have used the Standards](https://github.com/18F/web-design-standards/blob/staging/WHO_IS_USING_USWDS.md); if you’re interested in talking to us about your experience or have any feedback, feel free to [send us an email](mailto:uswebdesignstandards@gsa.gov). You can also chat with the team in the new [public Slack channel for the Standards](https://chat.18f.gov./)!
+
+_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
