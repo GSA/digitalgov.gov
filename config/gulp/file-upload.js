@@ -15,8 +15,7 @@ const publisher = awspublish.create({
   secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
 });
  
-function uploadImage() {
-  console.log("starting image upload");
+function uploadImage() { 
   return gulp.src("content/uploads/_working-images/processed/*")
   .pipe(publisher.publish())  
   .pipe(awspublish.reporter({
@@ -28,15 +27,17 @@ function uploadImage() {
   });
 }
 
-function uploadFile() {
-  console.log("starting file upload");
-  publisher.config.params.Bucket = "digitalgov";
+function uploadFile() { 
+  publisher.config.params.Bucket = "digitalgov/static";
   return gulp.src("content/uploads/_working-files/to-process/*")
     .pipe(publisher.publish())
     .pipe(awspublish.reporter({
       states: ['create', 'update', 'delete']
     }))
     .pipe(vinylPaths(del))
+    .on('error', function(err) {
+      console.error('File upload failed:', err);
+    }); 
 }
 
 function cleanup() {
