@@ -33,13 +33,9 @@ Potential audiences include:
 ## Our Recorded Webinars
 
 **User Centered Design** (November 2013)
-
-{{< youtube id="GwBBtTkUAcA" >}}
-
+  
 **Usability Testing and Debriefing Best Practices** (March 2012)
-
-{{< youtube id="n8d8AHQ-lwE" >}}
-
+ 
 ## Our Presentations
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/fRnpmnC0DUZCq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/why-the-best-gov-sites-use-user-centered-design" title="Why the best gov sites use User-Centered Design" target="_blank">Why the best gov sites use User-Centered Design</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>

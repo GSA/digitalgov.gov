@@ -154,11 +154,25 @@ function findTopHeading(
 
   // Recursive case
   /* eslint-disable no-param-reassign */
-  if (scrollPos < headings[i].offsetTop) {
+  // Calculate the distance of the current heading from the top of the page
+  // getBoundingClientRect().top gives the distance from the element to the top of the viewport, then we add the scrollY to get the distance from the top of the viewport to the top of the page
+  const currentHeadingTop =
+    headings[i].getBoundingClientRect().top + window.scrollY;
+
+  // Calculate the distance of the next heading from the top of the document, if there is a next heading
+  // If there is no next heading, set nextHeadingTop to Infinity
+  const nextHeadingTop =
+    i < headings.length - 1
+      ? headings[i + 1].getBoundingClientRect().top + window.scrollY
+      : Infinity;
+
+  // If the scroll position is greater than the current heading's distance from the top of the page
+  // and less than the next heading's distance from the top of the page, the current heading is the top heading
+  if (scrollPos >= currentHeadingTop && scrollPos < nextHeadingTop) {
     found = true;
-  } else {
     topHeading = headings[i];
   }
+  // Call the function recursively for the next heading
   return findTopHeading(i + 1, found, scrollPos, headings, topHeading);
 }
 
