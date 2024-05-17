@@ -31,6 +31,8 @@ topics:
   - information-collection
   - user-centered-design
   - policy
+  - research
+  - user-experience
 slug: equity-in-action-gsas-study-on-remote-identityproofing-technologies
 # Controls how this page appears across the site
 # 0 -- hidden
