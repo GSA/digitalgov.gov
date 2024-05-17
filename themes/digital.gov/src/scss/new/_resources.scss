@@ -28,9 +28,9 @@
 
   &__link {
     color: color("blue-70v");
-    text-decoration: none;
     // allows first-letter psuedo element to target anchor tags
     display: inline-block;
+    text-decoration: none;
     text-transform: lowercase;
 
     &::first-letter {
