@@ -6,6 +6,7 @@ summary: Managing web records properly is essential to effective web site operat
 
 topics:
   - records-management
+  - policy
 
 authors:
   - andreanocesigritz

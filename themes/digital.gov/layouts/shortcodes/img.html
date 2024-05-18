@@ -39,14 +39,11 @@
         {{- if ge $imgWidth 200 -}}
           {{- $imgBaseCDN -}}_bu.jpg 48w,
           {{- if ge $imgWidth 400 -}}
-            {{- if ge $imgWidth 600 -}}
-              {{- if ge $imgWidth 800 -}}
-                {{- if ge $imgWidth 1200 -}}
-                  {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w,
-                {{- end -}}
-                {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
+            {{- if ge $imgWidth 800 -}}
+              {{- if ge $imgWidth 1200 -}}
+                {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w,
               {{- end -}}
-              {{- $imgBaseCDN -}}_w600.{{- $imgExt }} 600w,
+              {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
             {{- end -}}
             {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
           {{- end -}}

@@ -1,0 +1,10 @@
+@use "uswds-core" as *;
+
+.dg-see-all-footer {
+  @include u-margin-y(2);
+  text-align: center;
+
+  p {
+    max-width: 100%;
+  }
+}
