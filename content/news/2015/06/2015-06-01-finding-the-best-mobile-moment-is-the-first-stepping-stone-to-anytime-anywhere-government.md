@@ -1,8 +1,8 @@
 ---
 slug: finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government
 date: 2015-06-01 11:10:30 -0400
-title: Finding the Best Mobile Moment Is the First Stepping Stone to Anytime, Anywhere Government
-summary: Mobile-friendliness is a must for government. But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the Department of Education and National Park Service have illustrated. Many agencies are thinking big things for 2015, but if your agency is struggling with that first mobile implementation, you will be asking yourself
+title: "Finding the Best Mobile Moment Is the First Stepping Stone to Anytime, Anywhere Government"
+summary: "Mobile-friendliness is a must for government. But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the Department of Education and National Park Service have illustrated."
 authors:
   - jparcell
 topics:

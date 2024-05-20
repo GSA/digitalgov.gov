@@ -55,8 +55,6 @@ As Cooper, a psychologist by training, pointed out you can find many low cost an
 
 Watch the webinar to see how you can learn how to use pirate metrics in your agency!
 
-{{< youtube id="C_P1_iXOwJc" >}}
-
 Helpful Training Links Cooper mentioned in his slides:
 
   * [Pragmatic Marketing Webinars](http://pragmaticmarketing.com/resources/webinars)
