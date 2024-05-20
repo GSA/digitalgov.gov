@@ -6,7 +6,7 @@ title: "Section508.gov"
 summary: "Guidance for federal agencies on IT accessibility compliance."
 
 # What source published this?
-source: 'gsa'
+source: 'section508gov'
 
 # Will this point to an external source URL?
 

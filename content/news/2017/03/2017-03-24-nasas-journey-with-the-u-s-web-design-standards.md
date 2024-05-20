@@ -4,7 +4,7 @@ date: 2017-03-24 15:17:05 -0400
 title: 'NASA&#8217;s Journey With the U.S. Web Design Standards'
 summary: 'The U.S. Web Design Standards were created by the government, for the government. They’re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users.'
 authors:
-  - julia-elman
+  - julia-solorzano
 topics:
   - accessibility
   - design

@@ -15,9 +15,7 @@ In 2016, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (D
 
 Bookmark this page, but don’t forget about it! Here are some things we’ve covered in 2016:
 
-## DAP Learning Series: Measuring User Behavior
-
-{{< youtube id="H9RQf8a4DQE" >}}
+## DAP Learning Series: Measuring User Behavior 
 
 Find out how users are engaging with your site using the reports that we cover in this webinar. You can view the classic overview in the behavior flow report, but we recommend some more useful reports. The custom funnel reports that show the percentage of users completing intended journeys or where they’re dropping off. The navigation summary shows which pages users are clicking to and from.
 
@@ -46,19 +44,19 @@ The standard reports in Google Analytics provide a view of data applicable to ma
 
 Our 3-hour 101 training for DAP users. If you’re just getting started with DAP/Google Analytics, this is the training for you! We realize it might be tough to run through in one setting, so we’ve broken it down for you by topics.
 
-  * [Intro](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=0)
-  * [What is DAP](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=106)
-  * [GA terms and concepts](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=368)
-  * [Measurements for goals of success for a site (using GA)](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=972)
-  * [GA demo &#8211; basics to access](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=1596)
-  * [Audience overview reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=1738)
-  * [Real time reporting](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=2245)
-  * [Pages Report](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=2414)
-  * [Landing page reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=3012)
-  * [How are visitors finding your pages/site? (Acquisition metrics)](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=4612)
-  * [3 custom reports (Landing page report, Content drilldown report & Funnel report) &#8211; include part where talks about sampling](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=6704)
-  * [Choosing the right metrics in your reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=6826)
-  * [Emailing and exporting reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=8751)
-  * [Wrap up](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=8795)
+  * Intro
+  * What is DAP
+  * GA terms and concepts
+  * Measurements for goals of success for a site (using GA)
+  * GA demo &#8211; basics to access
+  * Audience overview reports
+  * Real time reporting
+  * Pages Report
+  * Landing page reports
+  * How are visitors finding your pages/site? (Acquisition metrics)
+  * 3 custom reports (Landing page report, Content drilldown report & Funnel report) &#8211; include part where talks about sampling
+  * Choosing the right metrics in your reports
+  * Emailing and exporting reports
+  * Wrap up
 
 If you’re wondering how you can get access to DAP or have more questions, [send DAP Support an email](mailto:dap@gsa.gov).
