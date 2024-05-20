@@ -573,7 +573,7 @@ Within `180 days` of the launch of the Federal Services Index (date to be determ
 
 Join the [Web Managers Community](https://digital.gov/communities/web-content-managers/) to learn about other related best practices and share your knowledge. We encourage everyone to join this community — whether you are already familiar with how to deliver a digital-first public experience or just getting started.
 
-Also, reach out to your agency’s [Federal Web Council](https://digital.gov/2019/11/12/meet-your-federal-web-council/) representative and get involved in your agency’s digital services working group or guild. If one doesn’t exist, consider setting one up in your agency.
+Also, reach out to your agency’s [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/) representative and get involved in your agency’s digital services working group or guild. If one doesn’t exist, consider setting one up in your agency.
 
 {{< note >}}
 Digital.gov provides information and resources for federal agencies related to web and digital policies.  However, we cannot interpret the statutes or specific requirements.
