@@ -36,16 +36,20 @@ Keep this in mind when talking with leadership. They presume you have come with 
 
 A good way to structure the conversation is to: 
 
-A) Define the problem or issue and why it matters<br />
-B) Provide recommended solutions or options<br />
-C) Give a recommendation<br />
-D) Ask for their action
+A. Define the problem or issue and why it matters<br />
+B. Provide recommended solutions or options<br />
+C. Give a recommendation<br />
+D. Ask for their action
 
 ## Tip 2. Be actionable; what’s your solution?
 
 Anticipate their first questions: Why can’t you solve this on your level or with your team? What are the solutions? 
 
-Always go to leadership with a defined problem and always include solutions.Do your research first to understand its impact, and go to leadership with ideas. “A tree has fallen across the path, and we have three plans to remove it. I’d like you to approve one of those plans. I recommend option No. 2 because it is the quickest and most cost effective.”
+Always go to leadership with a defined problem and always include solutions.Do your research first to understand its impact, and go to leadership with ideas.
+
+{{< box >}}
+“A tree has fallen across the path, and we have three plans to remove it. I’d like you to approve one of those plans. I recommend option No. 2 because it is the quickest and most cost effective.”
+{{< /box >}}
 
 Have support ready. Work as a team. Show that the team has worked on the problem, and that you have support and a structure in place. You just need a yes. Come with a one-page proposal, a graph that shows the problem and its solution. This gives leadership confidence in your solution.Only recommend workable options. Yes, hiring more people would solve problems, and leadership knows that. But it’s not likely in the budget. Nor is recommending big policy changes or pricey solutions. Think about what is practical and affordable.
 
@@ -59,7 +63,7 @@ This relationship will give you critical insight into leadership’s goals, and 
 
 ## Tip 4. Find out their preferred communication style and use it
 
-Determine how your leaders like to receive communications while you’re building this relationship. Some supervisors dislike emails and would rather engage face to face, in person or virtually. Other supervisors prefer formal documentation at a set time and location. There is no right or wrong way. Follow your leaders’ communication preferences.
+Determine how your leaders like to receive communications while you’re building this relationship. Some supervisors dislike emails and would rather engage face-to-face, in-person, or virtually. Other supervisors prefer formal documentation at a set time and location. There is no right or wrong way. Follow your leaders’ communication preferences.
 
 Take the time to learn what your leadership prefers and honor their preference. If you know that they find emails tedious, don’t constantly send stream-of-thought messages to their inbox. (Yes, this is another of my own personal pitfalls.) If your leader finds slide presentations or handouts to be effective, use them. If you’re not sure what your institution’s leadership prefers, then just ask.
 
