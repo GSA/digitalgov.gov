@@ -2,8 +2,7 @@
 date: 2024-05-20
 title: A five-step plan for communicating with leadership
 deck: Communication is key, in and out of the workplace
-summary: How to engage leadership personally, adapt communication styles, and
-  choose appropriate timing for effective interactions and feedback.
+summary: How to engage leadership personally, adapt communication styles, and choose appropriate timing for effective interactions and feedback.
 # See all topics at https://digital.gov/topics
 topics:
   - communication
@@ -18,7 +17,9 @@ primary_image: 5-step-communication-plan-makhbubakhon-ismatova-istock-getty-imag
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Often, you have only one brief chance to engage your organization’s leadership. Think of this as your “elevator pitch" moment. You need to hit the high points, make your recommendations, and solicit leadership’s buy-in and approval — usually in a few minutes — when they are likely distracted and multitasking.
 
 Below are five tips to help you do just that.
@@ -35,9 +36,9 @@ Keep this in mind when talking with leadership. They presume you have come with 
 
 A good way to structure the conversation is to: 
 
-A) Define the problem or issue and why it matters
-B) Provide recommended solutions or options
-C) Give a recommendation
+A) Define the problem or issue and why it matters<br />
+B) Provide recommended solutions or options<br />
+C) Give a recommendation<br />
 D) Ask for their action
 
 ## Tip 2. Be actionable; what’s your solution?
