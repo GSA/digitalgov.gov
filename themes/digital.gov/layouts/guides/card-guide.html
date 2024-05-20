@@ -1,14 +1,35 @@
+{{/* Displays a guide kicker, title, summary and image if present in a rounded box
+  This component is used on the guides landing page to display a list of all guides
+
+  @param {string} required $link - URL link to the guide
+  @param {string} required $title - the guide title
+  @param {string} required $summary - the guide summary
+  @param {string} required $image - name of image to be displayed
+  @param {scope} required $site - site level data for passing in cdnurl to image partial
+*/}}
+
+{{ $link := .Permalink }}
+{{ $title := .Title }}
+{{ $summary := .Params.Summary }}
+{{ $image := .Params.Image }}
+{{ $site := .Site }}
+
+
 <article class="dg-guides-card">
   <div class="dg-guides-card__content">
     <span class="dg-guides-card__kicker">Digital.gov Guide</span>
     <h2 class="dg-guides-card__title">
-      <a href="{{ .Permalink | relURL }}">{{ .Title }}</a>
+      <a href="{{ $link | relURL }}">{{ $title }}</a>
     </h2>
+    {{ if $summary }}
     <p class="dg-guides-card__summary">
-      {{ .Params.Summary }}
+      {{ $summary }}
     </p>
+    {{ end }}
   </div>
-  <div class="dg-guides-card__media">
-    {{- partial "core/img-flexible.html" (dict "Site" .Site "src" .Params.Image "small" "false") -}}
-  </div>
+  {{ if $image }}
+    <div class="dg-guides-card__media">
+      {{- partial "core/img-flexible.html" (dict "Site" $site "src" $image "small" "false") -}}
+    </div>
+  {{ end }}
 </article>
