@@ -2,7 +2,7 @@
 date: 2020-09-15 09:00:00 -0500
 title: "Web analytics playbook"
 deck: "Use web analytics to reach your strategic website goals"
-summary: "Use these plays to reach your strategic website goals."
+summary: "This guide provides actionable strategies for effectively using web analytics to improve federal websites and digital services."
 guide: web-analytics-playbook
 aliases:
 image: guide-web-analytics-playbook
