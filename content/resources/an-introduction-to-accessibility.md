@@ -30,7 +30,7 @@ primary_image: "accessibility-101-title-card"
 
 In the federal government, accessibility means that agencies must give disabled employees and members of the public access to information comparable to the access available to others.
 
-Familiarize yourself with [Section508,gov](https://www.section508.gov/), and read this deeper dive on [understanding accessibility in government](https://digital.gov/resources/introduction-accessibility) to gain a solid foundation on accessibility in the federal space.
+Familiarize yourself with [Section508,gov](https://www.section508.gov/), and read this deeper dive on [understanding accessibility in government](https://digital.gov/resources/an-advanced-approach-to-accessibility/) to gain a solid foundation on accessibility in the federal space.
 
 Accessibility must be considered throughout design, development, content creation, and maintenance of digital assets. It’s much easier to build accessibility in from the start, than to remediate something after it’s already built. Some of the most common accessibility issues we see on federal websites include:
 
