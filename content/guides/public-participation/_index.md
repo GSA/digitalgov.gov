@@ -9,7 +9,7 @@ aliases:
 image: guide-public-participation
 primary_image: guide-public-participation
 layout: single
-guide_weight: 5
+guide_weight: 7
 ---
 
 ## What is the U.S. Public Participation Playbook?

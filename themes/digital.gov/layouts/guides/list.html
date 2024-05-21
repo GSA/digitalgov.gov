@@ -22,6 +22,14 @@
     {{ range first 1 .nav }}
       {{ $guidePages = $guidePages | append ($.Site.GetPage .path) }}
     {{ end }}
+
+    {{/* If guide is an HCD sub-guide, get the parent url which is the HCD home page */}}
+    {{ if .landingURL }}
+      {{ $guidePages = $guidePages | append ($.Site.GetPage .landingURL) }}
+    {{ end }}
+
+    {{/* Remove any duplicates from the previous step */}}
+    {{ $guidePages = uniq $guidePages }}
   {{ end }}
 
 
@@ -37,7 +45,7 @@
         {{- end -}}
       </header>
 
-      <section class="dg-guides usa-section">
+      <section class="dg-guides">
         {{ range $guidePages.ByParam "guide_weight" }}
           {{ if .Params.guide_weight }}
             {{ .Render "card-guide" }}

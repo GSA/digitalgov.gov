@@ -15,7 +15,7 @@ aliases:
 image: guide-dap
 primary_image: guide-dap
 weight: 1
-guide_weight: 7
+guide_weight: 5
 layout: single
 ---
 

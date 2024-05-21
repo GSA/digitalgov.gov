@@ -19,7 +19,7 @@ topics:
   - usability
   - research
 layout: single
-guide_weight: 8
+guide_weight: 4
 ---
 
 Everyone who works on government websites has a role to play in making federal resources accessible and inclusive.

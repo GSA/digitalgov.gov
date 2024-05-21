@@ -8,7 +8,7 @@ aliases:
 primary_image: "guide-rpa"
 image: guide-rpa
 layout: single
-guide_weight: 4
+guide_weight: 8
 ---
 
 {{< box >}}
