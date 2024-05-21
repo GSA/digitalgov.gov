@@ -19,7 +19,7 @@ topics:
 slug: uswds-monthly-call-may-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-
+layout: "two-column"
 primary_image: "uswds-gaad-monthly-call-may-2024"
 
 ---
