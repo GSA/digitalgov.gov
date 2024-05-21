@@ -2,7 +2,7 @@
 date: 2020-09-08 09:00:00 -0500
 title: "U.S. public participation playbook"
 deck: "Build better services through public participation"
-summary: "A resource for government managers to effectively evaluate and build better services through public participation."
+summary: "A resource for government managers to effectively evaluate and build better services through public participation"
 summary_box: true 
 guide: public-participation
 aliases:
