@@ -1,0 +1,27 @@
+<!-- layouts/_default/two-column.html -->
+{{ define "main" }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .Title }}</title>
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    <header>
+        <!-- Header content here -->
+    </header>
+    <div class="container">
+        <main role="main" id="main-content">
+            {{ block "content" . }}{{ end }}
+        </main>
+        <aside class="dg-sidebar">
+            {{ block "sidebar" . }}{{ end }}
+        </aside>
+    </div>
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+</body>
+</html>
+{{ end }}
