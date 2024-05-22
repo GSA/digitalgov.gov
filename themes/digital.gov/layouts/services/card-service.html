@@ -1,6 +1,6 @@
 <div class="card-service">
   {{/* set the href as a variable */}}
-  {{- $href := "" -}}
+  {{- $href := or .Params.source_url .Permalink -}}
 
   {{/* Logos
     Get the "source" in the file and looks up the icon that is used there.
@@ -25,7 +25,7 @@
 
   <div class="copy">
     <h2 class="card__title">
-      <a href="{{- $href -}}" title="{{- .Params.title -}}"
+      <a href="{{- $href | relURL -}}" title="{{- .Params.title -}}"
         >{{- .Params.title -}}</a
       >
     </h2>
