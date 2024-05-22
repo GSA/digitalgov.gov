@@ -14,7 +14,7 @@
   white-space: nowrap;
 
   &--hide {
-    display: none;
+    visibility: hidden;
   }
 
   &-image-container {
@@ -44,7 +44,7 @@
   }
 
   .dg-guide__menu-bar-link {
-    color: color("black");
+    color: color("ink");
     font-size: size("sans", "md");
     font-weight: font-weight("light");
     margin: 0 units(3);
@@ -93,7 +93,7 @@
   z-index: z-index(100);
 
   &--hide {
-    display: none;
+    visibility: hidden;
   }
 
   &__content {
