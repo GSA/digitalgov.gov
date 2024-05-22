@@ -1,6 +1,4 @@
-{{/* *  Lookup data/topics/*yml by category type to display as lists of topic links
-  *
-*/}}
+{{/* Lookup data/topics yaml files by category type to display as lists of topic links */}}
 {{- define "content" -}}
   {{ $design_topics := .Site.Data.topics.design }}
   {{ $data_analysis_topics := .Site.Data.topics.data_and_analysis }}
@@ -12,7 +10,7 @@
 
   <main role="main" id="main-content">
     <section class="grid-container-desktop">
-      <header class="page-head">
+      <header class="page-head padding-bottom-0">
         <h1>Resources</h1>
         <p>
           When you have a requirement to meet or an improvement to introduce to
@@ -22,8 +20,8 @@
         </p>
       </header>
 
-      <div class="usa-section">
-        <h2>Browse by topic</h2>
+      <div class="dg-resource-topics margin-bottom-8">
+        <h2 class="margin-top-0">Browse by topic</h2>
         <div class="dg-resource-topics-grid">
           {{ partial "core/topics-list.html" (dict "data" $design_topics "scope" .) }}
           {{ partial "core/topics-list.html" (dict "data" $data_analysis_topics "scope" .) }}

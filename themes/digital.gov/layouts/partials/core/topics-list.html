@@ -1,15 +1,21 @@
 {{/* Display a header and list of topic links
 
-  @param {string} .data - A list of topic strings to render a link
+  @param {string} .data.topics - A list of topic strings to render a link
+  @param {string} .data.color_label - A label for the resource-topic header to display a color, see _resources.scss for values
   @param {scope} .scope - page scope to access top level functions
 */}}
 
 {{ $topics := .data }}
+{{ $topic_color := .data.color_label }}
 {{ $scope := .scope }}
 
 
 <div class="dg-resource-topics-list">
-  <h3 class="dg-resource-topics-list__header">{{ $topics.category }}</h3>
+  <h3
+    class="dg-resource-topics-list__header dg-resource-topics-list__header--{{ $topic_color }}"
+  >
+    {{ $topics.category }}
+  </h3>
   <ul class="dg-resource-topics-list__list usa-list usa-list--unstyled">
     {{ range $topics.topics }}
       <li class="dg-resource-topics-list__list-item">

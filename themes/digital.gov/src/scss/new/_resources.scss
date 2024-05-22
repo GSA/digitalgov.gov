@@ -21,7 +21,23 @@
   }
 }
 
+// sass key field maps to theme field in data/topics yaml file
+$resource-topics: (
+  "design": color("blue-warm-50"),
+  "data": color("green-50"),
+  "operations": color("magenta-50"),
+  "content": color("gold-40v"),
+  "technology": color("mint-cool-50"),
+  "strategy": color("violet-60"),
+);
+
 .dg-resource-topics-list {
+  @each $topic, $color in $resource-topics {
+    &__header--#{$topic} {
+      color: $color;
+    }
+  }
+
   &__list-item {
     padding-bottom: units(1);
   }

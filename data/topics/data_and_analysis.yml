@@ -1,10 +1,12 @@
 category: Data & analysis
+color_label: data
 topics:
   - name: analytics
   - name: crowdsourcing-and-citizen-science
   - name: data-visualization
   - name: information-collection
   - name: open-data
+  - name: open-government
   - name: research
   - name: search
   - name: search-engine-optimization
