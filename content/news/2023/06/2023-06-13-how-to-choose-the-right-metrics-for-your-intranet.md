@@ -140,3 +140,14 @@ To sum it up, building a successful intranet for your federal agency means choos
 Through usage, engagement, and satisfaction metrics, you can continually assess your intranet's performance, identify areas for improvement, and push your intranet towards its objectives.
 
 Remember, metrics are not a one-size-fits-all solution. The best approach is to continually review, update, and refine them to best serve your evolving intranet objectives and user needs. After all, it's all about making your intranet more useful and engaging for the people who use it every day.
+
+_Check out our related blog post on [defining benchmarks and targets for intranet key performance indicators](https://digital.gov/2023/11/15/defining-benchmarks-and-targets-for-intranet-kpis/)._
+
+{{< box >}} **Learn more with Digital.gov communities, guides, and resources:**
+
+In government, those with analytics as part of their duties are faced with a fast-paced, ever-changing environment. Technologies, strategies, and tools change regularly. The **Web Analytics and Optimization Community of Practice** (WAO CoP) aims to uncover best practices, case studies, tips, and tools for web analytics and optimization. Government employees and contractors with an official .gov or .mil email are eligible to [join the community](https://digital.gov/communities/web-analytics-and-optimization/).
+
+* [Digital.gov Guide: Web analytics playbook](https://digital.gov/guides/web-analytics-playbook/)
+* [How to build an analytics strategy](https://digital.gov/resources/how-to-build-an-analytics-strategy/)
+
+{{< /box >}}

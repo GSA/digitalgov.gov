@@ -18,6 +18,7 @@ topics:
   - user-experience
   - plain-language
   - customer-experience
+  - policy
 # See all authors at https://digital.gov/authors
 authors:
   - katina-stapleton
