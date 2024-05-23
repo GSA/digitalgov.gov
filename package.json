@@ -55,6 +55,7 @@
     "sass": "^1.69.7",
     "sass-embedded": "^1.69.7",
     "sharp": "^0.33.3",
+    "terser-webpack-plugin": "^5.3.10",
     "webpack-stream": "^7.0.0"
   },
   "devDependencies": {
