@@ -1,6 +1,6 @@
 ---
 title: Sources
-name: source_aigov
+name: AI.gov
 summary: AI.gov connects the American people with information on federal
   government activities advancing the design, development, and responsible use
   of trustworthy artificial intelligence.
