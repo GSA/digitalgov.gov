@@ -2,7 +2,7 @@
 slug: trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information
 date: 2015-04-07 10:00:52 -0400
 title: 'Trends on Tuesday: 40% of Smartphone Users Look up Government Information'
-summary: 'The Pew Research Center released a deep research dive into &ldquo;U.S. Smartphone Use in 2015&rdquo; that provided three big ideas and data points for government agencies to consider when planning their digital strategies. More than 2/3 of Americans have smartphones; many of those are mobile first or mobile only Internet users.'
+summary: 'The Pew Research Center released a deep research dive into U.S. Smartphone Use in 2015 that provided three big ideas and data points for government agencies to consider when planning their digital strategies.'
 authors:
   - wsullivan
 topics:
@@ -16,7 +16,7 @@ The [Pew Research Center released a deep research dive into “U.S. Smartphone U
 
 ## More than 2/3 of Americans have smartphones; many of those are mobile first or mobile only Internet users.
 
-{{< legacy-img src="2015/04/313-x-558-Pew-Internet\_2015-04-01\_smartphones\_01.jpg" alt="313-x-558-Pew-Internet\_2015-04-01\_smartphones\_01" >}}
+{{< legacy-img src="2015/04/313-x-558-Pew-Internet_2015-04-01_smartphones_01.jpg" alt="A 2014 smartphone-dependent population chart shows that of the 64 percent of Americans with a smartphone, 7 percent of them rely heavily on a smartphone for online access." >}}
 
 The report detailed that 6 in 10 Americans own a smartphone (64%), and 2 in 10 Americans now access the Internet primarily through their mobile phone (25%).
 
@@ -40,7 +40,7 @@ The report also said that 17% of American smartphone owners have used their phon
 
 ## Smartphones are critical tools for spreading local news and community information.
 
-{{< legacy-img src="2015/04/421-x-447-Pew-Internet\_2015-04-01\_smartphones\_16.jpg" alt="421-x-447-Pew-Internet\_2015-04-01\_smartphones\_16" >}}
+{{< legacy-img src="2015/04/421-x-447-Pew-Internet_2015-04-01_smartphones_16.jpg" alt="A 2014 chart shows the percentage of smartphone owners by four age groups, and what they use it for; following breaking news, to share info about local events, and to learn about community events." >}}
 
 The report also discussed [the types of content audiences engaged with on their mobile devices](http://www.pewinternet.org/2015/04/01/u-s-smartphone-use-in-2015/pi_2015-04-01_smartphones_16/), and a high portion used the devices for sharing and learning about community and local news events, including sharing photos and videos. Rates were especially high among survey respondents under the age of 50.
 
