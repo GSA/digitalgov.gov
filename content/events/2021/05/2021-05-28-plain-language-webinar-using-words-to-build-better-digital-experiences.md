@@ -21,6 +21,7 @@ topics:
   - user-experience
   - user-centered-design
   - human-centered-design
+  - policy
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
@@ -45,7 +46,7 @@ During the session, Andy will discuss how to:
 
 * **[Andy Welfle](https://digital.gov/authors/andy-welfle/),** author, Plain Language and design expert.
 
-**Following the curated discussion, there will be an opportunity for Q & A. Please submit questions in advance by emailing [info@plainlanguage.gov](mailto:info@plainlanguage.gov). We will answer as many questions as time allows.**
+*Following the curated discussion, there will be an opportunity for Q & A. Please submit questions in advance by emailing [info@plainlanguage.gov](mailto:info@plainlanguage.gov). We will answer as many questions as time allows.*
 
 - - -
 

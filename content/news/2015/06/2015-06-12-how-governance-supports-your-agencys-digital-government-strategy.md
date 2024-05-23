@@ -54,7 +54,7 @@ Only after we had all of the pieces of the puzzle before us were we able to deve
 
 Illustrating the enterprise-wide governance areas in this way helped make real the issues, risks, and dependencies for SAMHSA’s Project Evolve. They were, quite literally, staring us in the face.
 
-{{< legacy-img src="2015/06/600-x-433-Functional-Governance-figure-Jacoby-May-29-2015.jpg" alt="This Functional Governance chart has 5 points in a circle graph showing: 1) Staff: Identify Roles and Content areas 2) Current Workflow Outside CMS: People, Roles, and Processes or policies 3) Drupal C M S: Users, Roles or permissions, and Content workflows 4) Supporting Areas: Content strategy, Usability, Communications, Training, and Change management and 5) Documentation: Web style guide, CMS user guide, User manuals, SOPs." >}}
+{{< legacy-img src="2015/06/600-x-433-Functional-Governance-figure-Jacoby-May-29-2015.jpg" alt="This Functional Governance chart has 5 points in a circular graph showing: Staff: Identify Roles and Content areas; Current Workflow Outside CMS: People, Roles, and Processes or policies; Drupal C M S: Users, Roles or permissions, and Content workflows; Supporting Areas: Content strategy, Usability, Communications, Training, and Change management; and Documentation: Web style guide, CMS user guide, User manuals, SOPs." >}}
 
 ## Governance is a Process
 
