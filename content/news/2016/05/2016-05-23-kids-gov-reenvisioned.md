@@ -1,8 +1,8 @@
 ---
 slug: kids-gov-reenvisioned
 date: 2016-05-23 10:00:16 -0400
-title: Kids.Gov Reenvisioned
-summary: 'At USAGov, we always put our customers first. In the wake of our rebranding efforts, our desire to create a positive user experience across the organization has pushed us to turn a scrutinous eye toward Kids.gov &#8212; a site focused on providing information and resources to parents, teachers, and kids. In a cross-organizational effort, individuals'
+title: "Kids.Gov Reenvisioned"
+summary: "At USAGov, we always put our customers first. In the wake of our rebranding efforts, our desire to create a positive user experience across the organization has pushed us to turn a scrutinous eye toward Kids.gov; a site focused on providing information and resources to parents, teachers, and kids."
 authors:
   - megan-fella
 topics:
@@ -15,11 +15,12 @@ topics:
   - usability
   - human-centered-design
   - user-experience
+
 ---
 
 At USAGov, we always put our customers first. In the wake of our rebranding efforts, our desire to create a positive user experience across the organization has pushed us to turn a scrutinous eye toward [Kids.gov](https://kids.usa.gov/) &#8212; a site focused on providing information and resources to parents, teachers, and kids. In a cross-organizational effort, individuals from the marketing, user experience, and performance measurement teams have joined forces to “reenvision” the site’s content and presentation to better suit the public’s needs.
 
-{{< legacy-img src="2016/05/600-x-350-white-bg-Logo\_Kids\_Old.jpg" alt="The old Kids.gov logo" >}}
+{{< legacy-img src="2016/05/600-x-350-white-bg-Logo_Kids_Old.jpg" alt="The old Kids.gov logo" >}}
 
 In order to accomplish this objective, we broke the project out into three components:
 

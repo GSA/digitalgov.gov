@@ -12,6 +12,8 @@ topics:
   - search-engine-optimization
   - open-data
   - open-source
+  - policy
+
 ---
 
 Many forces are converging to strengthen the political, economic and commercial ties that bind the United States, Canada and Mexico. The GSA Office of Citizen Services and Innovative Technologies (OCSIT) has anticipated this drive toward collaboration for decades, building a network of links among the three nations’ Chief Information Officers and other national technology and data experts.
@@ -25,7 +27,7 @@ Annual OCSIT-sponsored North American Day (NAD) talks have contributed to improv
   * Following the lead of the [UK Government Digital Service](https://gds.blog.gov.uk/about/), [U.S. Presidential Innovation Fellows](https://www.whitehouse.gov/innovationfellows), [18F](https://18f.gsa.gov/) and [U.S. Digital Services](http://www.whitehouse.gov/digital/united-states-digital-service) teams, Mexico has created “Data Squads” to bring in private-sector technology skills and entrepreneurial energy to solve public-sector problems;
   * And the U.S. government’s [Connect.gov](https://www.connect.gov/), which enables easy access to digital government services and applications, benefits from learning about Canada’s pioneering experience with 3rd-party credentials.
 
-{{< legacy-img src="2015/03/600-x-350-North-American-Day-2015.jpg" alt="North American Day 2015" >}}
+{{< legacy-img src="2015/03/600-x-350-North-American-Day-2015.jpg" alt="A group of people seated in a conference room. The flags of Canada, Mexico, and the United States are on poles in the room." caption="North American Day 2015" >}}
 
 During the 2015 NAD talks in Mexico City on January 29-30, US-Mexico-Canada collaboration gained further ground. Several new projects are being explored that will:
 
@@ -36,4 +38,4 @@ During the 2015 NAD talks in Mexico City on January 29-30, US-Mexico-Canada coll
 
 That same week, Mexico also sponsored an International Identity Summit, which began as a North American Day spin-off two years ago. OCSIT leaders, and experts from seven other countries—Mexico, Canada, Australia, New Zealand, United Kingdom, Denmark and Japan—met to compare notes on their national governments’ identity management programs (like Connect.gov) and each country’s progress in providing a single credential for access to all government digital services.
 
-{{< legacy-img src="2015/03/600-x-350-International-Identity-Summit-2015.jpg" alt="International Identity Summit 2015" >}}
+{{< legacy-img src="2015/03/600-x-350-International-Identity-Summit-2015.jpg" alt="Three people seated in a conference room smile for the photo." caption="International Identity Summit 2015" >}}
