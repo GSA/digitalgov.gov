@@ -8,7 +8,7 @@ title: "U.S. Digital Registry"
 summary: "An inventory of official government social media accounts and mobile apps."
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 # source_url: 'https://digital.gov/services/u-s-digital-registry/'
 
 # Images need to be 200x200px with a transparent background

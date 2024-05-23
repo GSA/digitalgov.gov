@@ -7,7 +7,7 @@ deck: "A guide to making products more accessible for everyone."
 summary: "A guide to making products more accessible for everyone."
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.digital.gov/guides/accessibility-for-teams"
 
 # Weight: control how services appear across the site

@@ -5,6 +5,7 @@ title: OMB Final Guidance on Implementing the Plain Writing Act of 2010 (M-11-15
 summary: "Provides final guidance on implementing the Plain Writing Act of 2010 and is designed to promote the goals of the president’s Open Government Initiative."
 topics:
   - plain-language
+  - policy
 authors:
   - apiazza
 

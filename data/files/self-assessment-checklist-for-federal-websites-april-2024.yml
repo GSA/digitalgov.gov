@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/self-assessment-checklist-for-federal-websites-april-2024.xlsx
+  # File shortcode: {{< asset-static file="self-assessment-checklist-for-federal-websites-april-2024.xlsx" label="self-assessment-checklist-for-federal-websites-april-2024 (PDF, 4 pages, 2MB)">}}
+  date     :  2024-04-29 17:44:10 -0400
+  uid      :  self-assessment-checklist-for-federal-websites-april-2024
+  format   :  xlsx
+  

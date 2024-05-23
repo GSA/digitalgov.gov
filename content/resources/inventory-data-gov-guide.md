@@ -263,7 +263,7 @@ Here’s what the request would look like using the curl-like tool [httpie](http
 
 **Redacted Inventory (PDL)**
 
-```
+```bash
 http -v POST https://inventory.data.gov/organization/[organization-id]/redacted.json
 Authorization:xxx-your-api-key-xxx
 Content-Type:application/x-www-form-urlencoded
@@ -272,7 +272,7 @@ Cookie:auth_tkt=foo
 
 **Unredacted Inventory (EDI)**
 
-```
+```bash
 http -v POST https://inventory.data.gov/organization/[organization-id]/unredacted.json
 Authorization:xxx-your-api-key-xxx
 Content-Type:application/x-www-form-urlencoded
@@ -295,9 +295,7 @@ For the time being, the Data.gov PMO will continue to provide this hosting capab
 
 ## Webinar on inventory.data.gov
 
-Data.gov, working with DigitalGov University, presented a webinar for agencies interested in using inventory on December 16, 2014\. For more information, consult the recording of the [webinar](http://youtu.be/ciLYjDsF4lo).
-
-{{< youtube id="ciLYjDsF4lo" >}}
+Data.gov, working with DigitalGov University, presented a webinar for agencies interested in using inventory on December 16, 2014. For more information, consult the recording of the webinar.
 
 Here are some questions and answers raised during the webinar:
 

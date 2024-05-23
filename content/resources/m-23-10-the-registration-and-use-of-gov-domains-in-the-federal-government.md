@@ -10,6 +10,7 @@ summary: "Provides guidance to all federal agencies on the acceptable use and re
 # See all topics at https://digital.gov/topics
 topics:
   - domain-management
+  - policy
 
 slug: m-23-10-the-registration-and-use-of-gov-domains-in-the-federal-government
 

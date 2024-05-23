@@ -1,9 +1,8 @@
-
 ---
 slug: the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices
 date: 2015-06-09 11:10:14 -0400
 title: 'The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?'
-summary: 'Government agencies have created a variety of apps to meet the needs of the public. As you join in on the mobile first trend and begin developing your shiny new mobile application, you will need to test it. There are a basic set of questions that must be answered: Does it function properly? Does it function properly'
+summary: 'Government agencies have created a variety of apps to meet the needs of the public. As you join in on the mobile-first trend and begin developing your shiny new mobile application, you will need to test it.'
 authors:
   - david-fern
   - awichman
