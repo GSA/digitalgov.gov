@@ -1,12 +1,13 @@
 ---
 slug: the-content-corner-creating-a-content-style-guide
 date: 2015-06-08 10:00:02 -0400
-title: 'The Content Corner: Creating a Content Style Guide'
-summary: One of the more commonly overlooked pieces of any effective content strategy is a content style guide. Many times, content contribution takes place without even being aware of the need for a style guide, while other times a content style guide is considered something only used by print editors and publishers. Stalwarts like the AP
+title: "The Content Corner: Creating a Content Style Guide"
+summary: "One of the more commonly overlooked pieces of any effective content strategy is a content style guide."
 authors:
   - tyrus-manuel
 topics:
   - content-strategy
+
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 
