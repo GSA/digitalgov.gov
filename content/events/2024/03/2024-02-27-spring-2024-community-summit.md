@@ -77,8 +77,6 @@ Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-lea
 
 {{< youtube id="uwedXPjqOLE" title="Opening keynote with Clare Martorana" >}}
 
-<img src="https://s3.amazonaws.com/digitalgov/250-eop-omb-executive-office-president-office-management-budget.png" alt="Seal of the Executive Office of the President, Office of Management and Budget, OMB." style="text-align: center; border:0px; height: 150px;">
-
 ---
 
 ### 10:10 am - 11:00 am, ET
@@ -217,8 +215,6 @@ Closing remarks with Ann Lewis, Director, Technology Transformation Services (TT
 <br /><br /><br /><br />
 
 {{< youtube id="5cnCfuXevgA" title="Closing remarks with Ann Lewis" >}}
-
-<img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a medium blue square." style="text-align: center; border:0px; height: 150px;">
 
 ---
 
