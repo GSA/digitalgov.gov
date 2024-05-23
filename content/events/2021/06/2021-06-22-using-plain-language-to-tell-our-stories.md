@@ -17,6 +17,7 @@ topics:
   - plain-language
   - communication
   - professional-development
+  - policy
 # See all authors at https://digital.gov/authors
 authors:
   - bethany-blakey
@@ -38,7 +39,7 @@ Some of us don’t do it naturally; we have to learn it. In this session, Bethan
 
 * **[Bethany Blakey](https://digital.gov/authors/bethany-blakey/)**, Chief Modernization Strategist & Director of Innovation Adoption for the General Services Administration (GSA), Technology Transformation Service (TTS)
 
-**Following the presentation, there will be an opportunity for Q & A. Please submit questions in advance by emailing [info@plainlanguage.gov](mailto:info@plainlanguage.gov). We will answer as many questions as time allows.**
+*Following the presentation, there will be an opportunity for Q & A. Please submit questions in advance by emailing [info@plainlanguage.gov](mailto:info@plainlanguage.gov). We will answer as many questions as time allows.*
 
 - - -
 
