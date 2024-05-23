@@ -2,7 +2,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: advanced-accessibility
+slug: an-advanced-approach-to-accessibility
 date: 2019-12-04 8:00:00 -0500
 title: "An advanced approach to accessibility"
 deck: "What to do, how to do it, and why it matters"
@@ -12,6 +12,7 @@ summary: "A deeper look at accessibility: what to do, how to do it, and why it m
 aliases:
   - /resources/intro-accessibility/
   - /resources/introduction-accessibility/
+  - /resources/advanced-accessibility/
 
 # see all topics at https://digital.gov/topics
 topics:
