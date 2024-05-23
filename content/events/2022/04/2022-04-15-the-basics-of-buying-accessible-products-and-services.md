@@ -20,6 +20,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - best-practices
+  - policy
 
 # See all authors at https://digital.gov/authors
 authors:
