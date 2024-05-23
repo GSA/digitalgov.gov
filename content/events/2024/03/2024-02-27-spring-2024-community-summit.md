@@ -69,9 +69,11 @@ The event agenda below includes the speakers, agencies, and descriptions for all
 
 ### 10:00 am - 10:10 am, ET
 
-<img src="https://s3.amazonaws.com/digitalgov/250-eop-omb-executive-office-president-office-management-budget.png" alt="Seal of the Executive Office of the President, Office of Management and Budget, OMB." width="20%">
+{{< img-right src="clare-martorana-flag-federal-cio-600-square" >}}
 
-Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, Executive Office of the President, Office of Management and Budget (OMB)
+Opening keynote with [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), Federal Chief Information Officer, Executive Office of the President, Office of Management and Budget (OMB).
+
+<br /><br /><br /><br />
 
 {{< youtube id="uwedXPjqOLE" title="Opening keynote with Clare Martorana" >}}
 
@@ -206,9 +208,11 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 ### 3:50 pm - 4:00 pm, ET
 
-<img src="https://s3.amazonaws.com/digitalgov/gsa-blue-logo-sq.png" alt="The GSA logo in white, at the bottom of a medium blue square." width="150px">
+{{< img-right src="ann-lewis-flag-tts-director-600-square" >}}
 
-Closing remarks with Ann Lewis, Director, Technology Transformation Services (TTS), GSA
+Closing remarks with Ann Lewis, Director, Technology Transformation Services (TTS), GSA.
+
+<br /><br /><br /><br />
 
 {{< youtube id="5cnCfuXevgA" title="Closing remarks with Ann Lewis" >}}
 
