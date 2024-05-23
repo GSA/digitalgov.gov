@@ -2,7 +2,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # slug (url path) — changing this requires a redirect
-slug: advanced-accessibility
+slug: an-advanced-approach-to-accessibility
 date: 2019-12-04 8:00:00 -0500
 title: "An advanced approach to accessibility"
 deck: "What to do, how to do it, and why it matters"
@@ -12,6 +12,7 @@ summary: "A deeper look at accessibility: what to do, how to do it, and why it m
 aliases:
   - /resources/intro-accessibility/
   - /resources/introduction-accessibility/
+  - /resources/advanced-accessibility/
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -102,6 +103,8 @@ The idea that things that help people with disabilities can benefit everyone ins
 
 {{< youtube id="JQ0iMulicgg" title="It's not fair having 12 pairs of legs" >}}
 
+### Temporary and Situational Disabilities
+
 Let’s review temporary and situational disabilities in a bit more detail.
 
 {{< img src="accessibility-disability-see" >}}
@@ -116,7 +119,7 @@ Someone with an arm in a cast will have difficulty typing on their keyboard, or,
 
 Examples include a new parent holding a baby, someone trying to open a door while holding one or multiple items, or if calling into meeting where they have a visual presentation.
 
-### Cognitive, Learning, and Neurological Disabilities
+### Invisible (Cognitive, Learning, and Neurological) Disabilities
 
 It’s also good to remember that there are disabilities that are not physical that have an affect on our work, like anxiety, dyslexia, and autism. These [posters from the U.K. government](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) illustrate the do’s and don'ts around about designing for these types of disabilities.
 

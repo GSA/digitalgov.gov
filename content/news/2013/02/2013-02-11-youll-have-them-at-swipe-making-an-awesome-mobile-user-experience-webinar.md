@@ -24,8 +24,6 @@ In this webinar, Mobile Gov developers from the National Institutes of Health an
 
 Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s, mobile web, mobile implementation in the federal government and the digital government strategy.
 
-{{< youtube id="EurlOmfLcPA" >}}
-
 Three presentations:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/iV2wVHqZzvhn4R" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/user-experiencedavidhale" title="User Experience" target="_blank" alt="Slides: User experience with David Hale">User Experience</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>

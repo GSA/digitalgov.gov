@@ -42,7 +42,7 @@ community_list:
     subscribe_email: "fmwc-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Multilingual Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 702
+    members: 721
     join_cop_button: "Multilingual community members"
 
 kicker: "Join the Multilingual Community"
@@ -68,5 +68,5 @@ We are a group of translators, editors, content designers, digital product manag
 - [Multilingual Digital Content](https://digital.gov/2014/07/01/multilingual-digital-content/)
 - [Lost in Translation](https://digital.gov/2012/10/01/automated-translation-good-solution-or-not/)
 - [Executive Order 13166](https://digital.gov/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/#:~:text=All%20Resources-,Improving%20Access%20to%20Services%20for,Limited%20English%20Proficiency%20(EO%2013166)&text=The%20Executive%20Order%20also%20requires,their%20LEP%20applicants%20and%20beneficiaries.)
-- Department of Justice 2022 Memorandum for Executive Order 13166, [Strengthening the Federal Government's Commitment to Language Access (PDF, 289 KB, 2 pages)](https://www.justice.gov/file/1553196/download)
+- Department of Justice 2022 Memorandum for Executive Order 13166, [Strengthening the Federal Government's Commitment to Language Access](https://www.justice.gov/ag/file/1554081/dl?inline=) (PDF, 2.3 MB, 2 pages)
 - [Commonly Asked Questions and Answers Regarding Executive Order 13166](https://www.lep.gov/faq/faqs-executive-order-13166/commonly-asked-questions-and-answers-regarding-executive-order-13166)

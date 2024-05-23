@@ -16,6 +16,7 @@ topics:
   - accessibility
   - user-experience
   - communication
+  - policy
 slug: the-plain-language-tie-to-translating-digital-content
 captions: https://www.streamtext.net/player/?event=BIS-GSA-1589
 # zoom, youtube_live, adobe_connect, google
@@ -23,6 +24,7 @@ event_platform: zoom
 primary_image: "2023-the-plain-language-tie-title-card"
 # YouTube ID
 youtube_id: ZpHzs9jGnnw
+
 ---
 
 {{< asset-static file="2023-march-tie-to-plain-event.pptx" label="View the slides (PowerPoint presentation, 3.6 MB, 10 pages)" >}}
