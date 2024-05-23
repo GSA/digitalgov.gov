@@ -27,7 +27,7 @@ weight: 1
 
 ---
 
-In a previous post, we explored [selecting the right metrics to optimize your intranet's performance](https://digital.gov/2023/06/13/how-to-choose-the-right-metrics-for-your-intranet/). In this post we will explore the next step — defining benchmarks and targets for key performance indicators (KPIs). This sequel blog post is designed to build upon the insights from our initial post and help you craft a comprehensive strategy for intranet optimization.
+_In a previous post, we explored [selecting the right metrics to optimize your intranet's performance](https://digital.gov/2023/06/13/how-to-choose-the-right-metrics-for-your-intranet/). In this post we will explore the next step — defining benchmarks and targets for key performance indicators (KPIs). This sequel blog post is designed to build upon the insights from our initial post and help you craft a comprehensive strategy for intranet optimization._
 
 ## Why benchmarks and targets are vital
 
