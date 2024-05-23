@@ -2,7 +2,7 @@
 slug: explore-iconic-overseas-world-war-ii-sites-with-abmc-apps
 date: 2015-03-05 10:22:36 -0400
 title: Explore Iconic Overseas World War II Sites with ABMC Apps
-summary: 'We have not forgotten, we will never forget, the debt of infinite gratitude that we have contracted with those who gave everything for our freedom. Rene Coty, Pr&eacute;sident de la R&eacute;publique Francaise Those are the words of Rene Coty, the president'
+summary: 'The Normandy American Cemetery is one of the 25 permanent American military cemeteries in foreign countries that the American Battle Monuments Commission (ABMC) maintains to honor the service, achievements and sacrifices of U.S. armed forces.'
 authors:
   - kdowney
 topics:
@@ -15,7 +15,7 @@ topics:
   We have not forgotten, we will never forget, the debt of infinite gratitude that we have contracted with those who gave everything for our freedom.<br /> <span class="test-author">Rene Coty, Président de la République Francaise</span>
 </div>
 
-{{< legacy-img src="2015/03/250-x-427-American-Battle-Monuments-Commission-ABMC-Normandy-American-Cemetery-Android-app.jpg" alt="Screen capture of home screen for the Normandy American Cemetery app" >}}Those are the words of Rene Coty, the president of France from 1954 to 1959, inscribed in the American Battle Monuments Commission’s Normandy American Cemetery Visitor Center in France.
+{{< legacy-img-right src="2015/03/250-x-427-American-Battle-Monuments-Commission-ABMC-Normandy-American-Cemetery-Android-app.jpg" alt="Screen capture of home screen for the Normandy American Cemetery app" >}}Those are the words of Rene Coty, the president of France from 1954 to 1959, inscribed in the American Battle Monuments Commission’s Normandy American Cemetery Visitor Center in France.
 
 The Normandy American Cemetery is one of the 25 permanent American military cemeteries in foreign countries that the [American Battle Monuments Commission](http://www.abmc.gov) (ABMC) maintains to honor the service, achievements and sacrifices of U.S. armed forces.
 
@@ -23,7 +23,9 @@ Through newly released smartphone apps by ABMC, this iconic World War II site an
 
 The Normandy American Cemetery app serves as a personal tour guide around the cemetery, where 9,387 Americans are buried in the grounds overlooking Omaha Beach. On June 6, 1944, D-Day, Allied forces changed the course of history with the successful invasion of France that marked the beginning of the end of World War II in Europe.
 
-{{< legacy-img src="2015/03/250-x-444-Cambridge-American-Cemetery-American-Battle-Monuments-Commission-ABMC-iOS-Apple-app.jpg" alt="Screen capture of the Cambridge American Cemetery app" >}}ABMC also released a similar tour-guide app in February to service the Cambridge American Cemetery in the U.K., where 3,812 Americans who died in World War II are buried. American armed forces used Great Britain as a base of operations during the war, further solidifying the friendship and alliance between the two nations.
+{{< legacy-img-right src="2015/03/250-x-444-Cambridge-American-Cemetery-American-Battle-Monuments-Commission-ABMC-iOS-Apple-app.jpg" alt="Screen capture of the Cambridge American Cemetery app" >}}
+
+ABMC also released a similar tour-guide app in February to service the Cambridge American Cemetery in the U.K., where 3,812 Americans who died in World War II are buried. American armed forces used Great Britain as a base of operations during the war, further solidifying the friendship and alliance between the two nations.
 
 The Normandy American Cemetery app is available for [iOS](https://itunes.apple.com/app/normandy-american-cemetery/id953276481?mt=8&ign-mpt=uo%3D8) and [Android](https://play.google.com/store/apps/details?id=gov.abmc.normandy) tablet and smartphone devices.
 
