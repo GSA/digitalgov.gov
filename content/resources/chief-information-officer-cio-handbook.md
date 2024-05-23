@@ -8,6 +8,7 @@ summary: This handbook aims to give CIOs important information needed to be a
 # See all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
+  - policy
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

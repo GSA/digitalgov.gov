@@ -10,6 +10,7 @@ topics:
   - accessibility
   - digital-service-delivery
   - diversity-equity-and-inclusion
+  - policy
 
 # See all authors at https://digital.gov/authors
 authors:

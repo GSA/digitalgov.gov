@@ -150,8 +150,8 @@ Use metrics and feedback to make your website better. Metrics are simply numbers
 
 ### Additional Resources
 
-* [How to build an analytics strategy](https://digital.gov/resources/how-to-build-an-analytics-strategy/?dg) — Digital.gov
-* [Web analytics playbook](https://digital.gov/guides/web-analytics-playbook/?dg) — Digital.gov
+* [How to build an analytics strategy](https://digital.gov/resources/how-to-build-an-analytics-strategy) — Digital.gov
+* [Web analytics playbook](https://digital.gov/guides/web-analytics-playbook) — Digital.gov
 * [Analytics playlist](https://www.youtube.com/watch?v=H0YMQe4rZug&list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba&index=5) — Digital.gov videos
 
 {{< note >}}*The **Web Analytics Community of Practice** aims to uncover best practices, case studies, tips, and tools for web analytics and optimization. We are federal website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with federal sites. [Join the Web Analytics and Optimization community](https://digital.gov/communities/web-analytics-and-optimization/) today.*{{< /note >}}

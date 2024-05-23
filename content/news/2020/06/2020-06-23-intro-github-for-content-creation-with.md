@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # originally published at the following URL
-source_url: "https://digital.gov/resources/an-introduction-github/?dg"
+source_url: "https://digital.gov/resources/an-introduction-github"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources

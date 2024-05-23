@@ -8,7 +8,7 @@ title: "Resources.Data.gov"
 summary: "An online repository of policies, schema standards, tools, best practices, and case studies to provide agencies with resources for federal data management."
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.data.gov/"
 
 # Images need to be 200x200px with a transparent background
@@ -35,6 +35,7 @@ topics:
   - software-engineering
   - open-source
   - open-data
+  - policy
 
 ---
 
