@@ -6,20 +6,12 @@ summary: 'Armed with the knowledge that &lsquo;most studies suggest that losses 
 authors:
   - andreanocesigritz
 topics:
-  - product-management
-  - monthly-theme
-  - agile
-  - agile-lean-community-of-practice
-  - Census
-  - digitalgov-university
-  - digitalgov-university
-  - recaps
-  - united-states-census-bureau
-  - United States Patent and Trademark Office
-  - USPTO
+  - product-and-project-management
 ---
 
-Armed with the knowledge that ‘[most studies suggest that losses are twice as powerful, psychologically, as gains](https://en.wikipedia.org/wiki/Loss_aversion#cite_note-1),’ federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it in different ways) those seeking change will need to understand to be successful. Bill Brantley, ‘agile OG,’ from the U.S. Patent and Trademark Office, shared his experience with these personas with the participants on the [Agile/Lean Community’s first webinar]({{< tmp "events/how-to-overcome-cultural-resistance-to-agile-in-government.md" >}}). {{< legacy-img src="2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" >}} 
+Armed with the knowledge that ‘[most studies suggest that losses are twice as powerful, psychologically, as gains](https://en.wikipedia.org/wiki/Loss_aversion#cite_note-1),’ federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it in different ways) those seeking change will need to understand to be successful. Bill Brantley, ‘agile OG,’ from the U.S. Patent and Trademark Office, shared his experience with these personas with the participants on the [Agile/Lean Community’s first webinar]({{< tmp "events/how-to-overcome-cultural-resistance-to-agile-in-government.md" >}}).
+
+{{< legacy-img src="2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="TimArbaev, iStock, Thinkstock" >}} 
 
 The personas range from active to passive resistance:
 

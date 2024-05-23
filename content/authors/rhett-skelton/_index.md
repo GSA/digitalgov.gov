@@ -12,7 +12,7 @@ last_name: "Skelton"
 pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: rhett.skelton@gsa.gov
+email: ""
 
 # Bio — keep it under 50 words
 bio: ""

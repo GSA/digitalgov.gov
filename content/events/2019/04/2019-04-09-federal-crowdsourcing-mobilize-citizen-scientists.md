@@ -18,10 +18,8 @@ end_date: 2019-04-09 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - crowdsourcing
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
+  - crowdsourcing-and-citizen-science
+  - challenges-and-prize-competitions
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -42,7 +40,7 @@ _{{< asset-static file="ep1-challengegov.pdf" label="View the slides from this p
 
 This is the first installment in GSA’s Federal Crowdsourcing Webinar Series. You will hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
-The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
+The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
 
 Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
@@ -68,4 +66,4 @@ For information on this episode or upcoming events in the crowdsourcing series, 
 
 _This talk is hosted by [Challenge.gov](https://challenge.gov/). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).

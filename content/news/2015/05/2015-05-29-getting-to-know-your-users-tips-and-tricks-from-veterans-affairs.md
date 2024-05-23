@@ -7,16 +7,11 @@ authors:
   - sarah-brooks
   - mollie-ruskin
 topics:
-  - product-management
-  - monthly-theme
-  - cx
-  - customer-satisfaction
-  - customer-service
-  - personas
-  - us-department-of-veterans-affairs
-  - user-centered-design
+  - product-and-project-management
+  - customer-experience
+  - research
+  - human-centered-design
   - user-experience
-  - VA
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="Green Business Strategy" caption="" >}}

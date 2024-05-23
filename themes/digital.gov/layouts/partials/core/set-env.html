@@ -1,6 +1,7 @@
 {{/* Core */}}
 {{- $.Scratch.Set "env" (replaceRE "^([^/]+).+$" "$1" (getenv "SITE_PREFIX")) -}}
 
+
 <!-- If the branch_name is empty (usually on localhost), set it to "main" -->
 {{- if eq (getenv "BRANCH") "" -}}
   {{- $.Scratch.Set "branch" "main" -}}

@@ -7,13 +7,11 @@ authors:
   - angela-hooker
 topics:
   - accessibility
-  - monthly-theme
   - user-experience
   - accessibility
   - content-strategy
   - mobile
   - plain-language
-  - section-508
   - social-media
 ---
 

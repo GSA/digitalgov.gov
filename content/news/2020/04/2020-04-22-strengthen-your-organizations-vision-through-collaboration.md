@@ -12,7 +12,7 @@ summary: "Inclusive visioning helps accelerate successful outcomes. To help agen
 # see all topics at https://digital.gov/topics
 topics:
   - governance
-  - project-management
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors:

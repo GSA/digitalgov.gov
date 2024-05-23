@@ -11,13 +11,13 @@ date: 2022-08-24 10:30:00 -0500
 end_date: 2022-08-24 15:45:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - accessibility
-  - writing
+  - communication
   - content-strategy
   - user-experience
   - plain-language
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - katina-stapleton
@@ -66,7 +66,7 @@ In this session you will hear from the following speakers:
 * **Shuly Babitz** &mdash; Health Communications Strategist, Health Resources and Services Administration (HRSA)
 * **Katy Karnell** &mdash; Communications Team Lead, Health Resources and Services Administration (HRSA)
 
-{{< youtube 9U2wzbWpCso >}}
+{{< youtube id="9U2wzbWpCso" title="Debunking the Oversimplification Myth: Making the Case for Plain Language" >}}
 
 ---
 
@@ -128,7 +128,7 @@ In this session you will hear from the following speaker:
 
 * **Laura Rabuck** &mdash; Research Health Science Specialist / Lead Content Strategist, United States Department of Veterans Affairs (VA)
 
-{{< youtube tfjKAYKLnvg >}}
+{{< youtube id="tfjKAYKLnvg" title="Jargon Madness: A Plain Language Exercise" >}}
 
 ---
 
@@ -189,7 +189,7 @@ In this session you will hear from the following speaker:
 
 * **Dr. Rachael Bradley Montgomery** &mdash; Digital Accessibility Architect, Library of Congress (LOC)
 
-{{< youtube 9Ae8bUlSSXU >}}
+{{< youtube id="9Ae8bUlSSXU" title="Designing for People with Cognitive Disabilities and Everyone Else" >}}
 
 ---
 

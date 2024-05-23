@@ -1,9 +1,10 @@
 ---
 date: 2020-05-15 09:00:00 -0500
-title: "RPA Playbook Internal Controls Addendum"
+title: "Internal Controls Addendum"
 deck: ""
-summary: ""
+summary: "This addendum provides practical insights for federal programs looking to minimize the risks associated with implementing RPA."
 guide: rpa
+primary_image: "guide-rpa"
 ---
 ## RPA Internal Controls
 

@@ -7,16 +7,9 @@ authors:
   - office-of-information-policy-doj
 topics:
   - governance
-  - product-management
-  - strategy
-  - policy
-  - DOJ
-  - FOIA
-  - freedom-of-information-act
-  - office-of-information-policy
-  - OIP
-  - training
-  - us-department-of-justice
+  - product-and-project-management
+  - content-strategy
+  - open-government
 ---
 
 > _This post was originally published on the [U.S. Department of Justice Blog](https://www.justice.gov/blogs)._

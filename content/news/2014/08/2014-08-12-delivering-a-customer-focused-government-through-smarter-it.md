@@ -8,14 +8,10 @@ authors:
   - todd-park
   - beth-cobert
 topics:
-  - content
-  - data
+  - content-strategy
+  - open-data
   - mobile
-  - 18f
-  - cx
-  - Digital Services Playbook
-  - us-digital-service
-  - USDS
+  - customer-experience
 ---
 
 As technology changes, government must change with it to address new challenges and take advantage of new opportunities. This Administration has made important strides in modernizing government so that it serves its constituents more effectively and efficiently, but we know there is much more to do.

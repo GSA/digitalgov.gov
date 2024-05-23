@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/uswds-monthly-call-june-2023.pptx
+  # File shortcode: {{< asset-static file="uswds-monthly-call-june-2023.pptx" label="uswds-monthly-call-june-2023 (PDF, 4 pages, 2MB)">}}
+  date     :  2023-06-15 15:27:49 -0400
+  uid      :  uswds-monthly-call-june-2023
+  format   :  pptx
+  

@@ -1,38 +1,45 @@
 @use "uswds-core" as *;
 
-.paper{
-  @include u-bg('white');
-  -webkit-transition: margin .2s;
-  transition: margin .2s;
-  z-index: 5;
+.paper {
+  @include u-bg("white");
   position: relative;
+
+  transition: margin 0.2s;
+  z-index: 5;
 }
 
-body > .paper.testing{
-  @include u-bg('white');
+body > .paper.testing {
+  @include u-bg("white");
 
-  @include at-media('card'){
-    @include u-bg('red-warm-20');
+  @include at-media("card") {
+    @include u-bg("red-warm-20");
   }
-  @include at-media('card-lg'){
-    @include u-bg('red-20');
+
+  @include at-media("card-lg") {
+    @include u-bg("red-20");
   }
-  @include at-media('mobile'){
-    @include u-bg('red-cool-20');
+
+  @include at-media("mobile") {
+    @include u-bg("red-cool-20");
   }
-  @include at-media('mobile-lg'){
-    @include u-bg('blue-warm-20');
+
+  @include at-media("mobile-lg") {
+    @include u-bg("blue-warm-20");
   }
-  @include at-media('tablet'){
-    @include u-bg('orange-20');
+
+  @include at-media("tablet") {
+    @include u-bg("orange-20");
   }
-  @include at-media('tablet-lg'){
-    @include u-bg('gold-20');
+
+  @include at-media("tablet-lg") {
+    @include u-bg("gold-20");
   }
-  @include at-media('desktop'){
-    @include u-bg('yellow-20');
+
+  @include at-media("desktop") {
+    @include u-bg("yellow-20");
   }
-  @include at-media('desktop-lg'){
-    @include u-bg('green-warm-20');
+
+  @include at-media("desktop-lg") {
+    @include u-bg("green-warm-20");
   }
 }

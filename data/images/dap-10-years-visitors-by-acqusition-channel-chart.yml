@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/dap-10-years-visitors-by-acqusition-channel-chart.png
+  # Image shortcode: {{< img src=dap-10-years-visitors-by-acqusition-channel-chart >}}'
+  date     :  2023-09-12 17:06:06 -0400
+  uid      :  dap-10-years-visitors-by-acqusition-channel-chart
+  width    :  825
+  height   :  505
+  format   :  png
+  credit   :  
+  caption  :  
+  alt      :  "Chart: percent of government website users by acquisition channel (organic search, direct, social media, referral) from 2013 to 2023."
+  

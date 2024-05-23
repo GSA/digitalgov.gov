@@ -7,25 +7,8 @@ authors:
   - lgodfrey
   - lmartinez
 topics:
-  - content
-  - ANLE
-  - cdc
-  - Census
-  - centers-for-disease-control-and-prevention
-  - DOJ
-  - GobiernoUSAgov
-  - HUD
-  - Internal Revenue Service
-  - IRS
-  - LEP
+  - content-strategy
   - multilingual
-  - multilingual-community
-  - National Library of Medicine
-  - SSA
-  - the-united-states-social-security-administration
-  - us-department-of-justice
-  - united-states-census-bureau
-  - united-states-department-of-housing-and-urban-development
 
 ---
 

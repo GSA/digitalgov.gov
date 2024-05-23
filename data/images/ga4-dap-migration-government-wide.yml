@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/ga4-dap-migration-government-wide.png
+  # Image shortcode: {{< img src=ga4-dap-migration-government-wide >}}'
+  date     :  2023-08-10 22:56:14 -0400
+  uid      :  ga4-dap-migration-government-wide
+  width    :  1200
+  height   :  250
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "An image of the DAP Government-wide Account and a corresponding GA4 Gov-wide Property with ID Number."
+  

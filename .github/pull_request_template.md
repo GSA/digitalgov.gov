@@ -1,10 +1,27 @@
-This PR implements the following **changes:**
+## Summary
 
-* insert your summary of your request here, add more bullets as needed
+Basic description of work done. Closes [#issue_no].
 
+### Preview
 
-**URL / Link to page**
+[Link to Preview]()
 
-<!-- Link to the page that will be changed -->
-<!-- Delete this section if not needed -->
+<!--
+⚠️ Significant visual changes require submitting previous design to wayback machine.
+-->
 
+### Solution
+
+### How To Test
+
+1. First Step
+2. Second Step
+3. Third Step
+
+---
+
+### Dev Checklist
+
+- [ ] PR has correct labels
+- [ ] A11y testing (voice over testing, meets WCAG, run axe tools)
+- [ ] Code is formatted properly

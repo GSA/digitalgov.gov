@@ -6,9 +6,8 @@ summary: 'The General Services Administration&#8217;s (GSA’s) focus on custome
 authors:
   - phaedra-chrousos
 topics:
-  - product-management
-  - our-work
-  - cx
+  - product-and-project-management
+  - customer-experience
 ---
 
 The General Services Administration&#8217;s (GSA’s) focus on customer experience can be traced back to its inception on July 1, 1949, when President Truman created a new federal agency to manage and store government records, handle emergency preparedness, and stockpile strategic supplies for wartime. While our customer focus has stayed with us, GSA’s mission has morphed and expanded to include real estate, contracting, technology, and much more. With such a wide and varied portfolio, it’s often hard for customers to navigate all the programs and services we offer, so we’re making some changes to improve customer experience at GSA.

@@ -19,8 +19,7 @@ end_date: 2019-10-15 13:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - multilingual
-  - multilingual-community
-  - ai
+  - artificial-intelligence
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -59,7 +58,7 @@ For 20+ years, Beth has led business development efforts and program execution t
 - [Systran Translation Tool](https://translate.systran.net/translationTools/text)
 - [Designing for Translation](https://digital.gov/2018/12/20/designing-for-translation/)
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 
 ---
 

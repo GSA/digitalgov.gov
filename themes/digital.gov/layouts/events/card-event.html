@@ -1,49 +1,104 @@
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
+{{ $now := now.Format "2006-01-02" }}
+{{ $eventDate := .Date.Format "2006-01-02" }}
+{{ $isPastEvent := cond (lt $eventDate $now) true false }}
+
 
 <article
-  class="card card-event card-event-promo card-linked"
-  data-edit-this="{{- $path -}}"
+  class="card card-event {{ if $isPastEvent }}
+    card-event--past
+  {{ end }}card-linked"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ .Title | urlize }}"
 >
-  <div class="card__content">
-    {{- if .Params.kicker -}}
-    <div class="kicker">{{- .Params.kicker -}}</div>
-    {{- end -}}
-    <h3 id="{{ .Title | urlize }}">
-      <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
-    </h3>
+  <div class="card-event__main">
+    <div class="card-event__header">
+      {{- if .Params.kicker -}}
+        <div class="flex-align-end card-event__kicker">
+          <span>{{- .Params.kicker -}}</span>
+        </div>
+      {{- end -}}
+      <h2 class="card-event__title" id="{{ .Title | urlize }}">
+        <a
+          href="{{ .Permalink }}"
+          title="{{ .Title | markdownify }}"
+          rel="bookmark"
+          >{{ .Title | markdownify }}</a
+        >
+      </h2>
+    </div>
 
-    {{- if .Params.summary -}}
-    <div class="summary">{{ .Params.summary | markdownify }}</div>
-    {{- else -}}
-    <div class="deck">{{ .Params.deck | markdownify }}</div>
-    {{- end -}}
+    <div class="card-event__body">
+      {{- if .Params.summary -}}
+        <div class="card-event__summary">
+          {{ .Params.summary | markdownify }}
+        </div>
+      {{- else -}}
+        <div class="card-event__deck">{{ .Params.deck | markdownify }}</div>
+      {{- end -}}
 
-    {{- if .Params.host -}}
-    <p class="host">Hosted by Digital.gov and the {{ .Params.host }}</p>
-    {{- end -}}
+      {{- if .Params.youtube_id -}}
+        <div class="card-event__watch-label">
+          <svg
+            class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"
+            ></use>
+          </svg>
+          Watch Video
+        </div>
+      {{- end -}}
 
-    <a
-      aria-label="Register for {{- .Params.title -}}"
-      class="btn btn-register"
-      href="{{- .Params.registration_url -}}"
-      onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
-        Register
-    </a>
+      {{ if $isPastEvent }}
+        {{- partial "core/get_authors_short.html" . -}}
+      {{ end }}
+    </div>
   </div>
 
-  <div class="card__media">
-    <div class="date">
-      <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
-      <span class="date-day">{{- dateFormat "02" .Date -}}</span>
-      <a
-        aria-label="Register for {{- .Params.title -}}"
-        class="btn btn-register"
-        href="{{- .Params.registration_url -}}"
-        onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">
+  <div class="card-event__aside">
+    <div class="card-event__date">
+      <time class="card-event__datetime" datetime="{{- $eventDate -}}">
+        <span class="card-event__datetime-month"
+          >{{ dateFormat "Jan" .Date }}</span
+        >
+        <span class="card-event__datetime-day"
+          >{{- dateFormat "02" .Date -}}
+          <span class="card-event__datetime-comma">,</span>
+        </span>
+        <span class="card-event__datetime-year--mobile"
+          >{{ dateFormat "2006" .Date }}</span
+        >
+      </time>
+      {{ if $isPastEvent }}
+        <span class="card-event__date-label">
+          <span class="card-event__datetime-year"
+            >{{ dateFormat "2006" .Date }}</span
+          >
+        </span>
+      {{ else }}
+        <a
+          aria-label="Register for {{ .Params.title }}"
+          class="card-event__cta"
+          href="{{- .Params.registration_url -}}"
+          onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+        >
           Register
-      </a>
+          <time
+            class="card-event__datetime--mobile"
+            datetime="{{- $eventDate -}}"
+          >
+            <span>for</span>
+            <span class="card-event__datetime-month"
+              >{{- dateFormat "Jan" .Date -}}</span
+            >
+            <span class="card-event__datetime-day"
+              >{{- dateFormat "02" .Date -}}</span
+            >
+          </time>
+        </a>
+      {{ end }}
     </div>
   </div>
 </article>

@@ -6,29 +6,14 @@ summary: 'Animated gifs are increasingly found throughout the digital experience
 authors:
   - jherman
 topics:
-  - content
-  - social-media
-  - 18f
+  - content-strategy
   - accessibility
-  - digitalgov-university
-  - GobiernoUSAgov
+  - multilingual
   - multimedia
-  - NARA
-  - national-archives-and-records-administration
-  - ODNI
-  - Office of the Director of National Intelligence
-  - peace-corps
-  - recaps
   - social-media
-  - socialgov
-  - socialgov-community
-  - usa-gov
-  - webinar
 ---
 
 Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
-
-{{< youtube ohmyOKPSGPg >}}
 
 To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community]({{< ref "communities/social-media.md" >}}) through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
 
@@ -100,4 +85,4 @@ Darren Cole of the [National Archives and Records Administration](http://todaysd
   * Use animated gifs to make your content engaging and government records relevant to modern communities.
   * Make your own .gov gifs with free, public domain sources from [the National Archives catalog](https://catalog.archives.gov/).
 
-[Gifs from Government Records](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Gifs-from-Government-Records-Darren-Cole-National-Archives-and-Records-Administration-NARA.pptx) (.pptx PowerPoint presentation Presentation, 3 MB)
+[Gifs from Government Records (PowerPoint, 3 MB)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Gifs-from-Government-Records-Darren-Cole-National-Archives-and-Records-Administration-NARA.pptx)

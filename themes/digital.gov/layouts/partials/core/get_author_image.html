@@ -1,62 +1,60 @@
-{{/*
-
-======================================
-Get the author image
-This starts with in the $author data from the author's YML file.
+{{/* ======================================
+  Get the author image
+  This starts with in the $author data from the author's YML file.
 
 
-If the author has defined where they want to pull their author photo from:
-- github
-- digit-dark
-- digit-light
-- digit-pride
+  If the author has defined where they want to pull their author photo from:
+  - github
+  - digit-dark
+  - digit-light
+  - digit-pride
 */}}
 {{- if .author.Params.profile_source -}}
-
   {{/* Sets $profile_source as a variable */}}
   {{- $profile_source := .author.Params.profile_source -}}
 
-  {{/* if the $profile_source is equal to "github" */}}
+  {{/* If the $profile_source is equal to "github" */}}
   {{- if eq $profile_source "github" -}}
     {{/* A quick check to see if they also have a github ID set */}}
     {{- if .author.Params.github -}}
-      {{/* get the GitHub template (see bottom of this file) */}}
+      {{/* Get the GitHub template (see bottom of this file) */}}
       {{- template "github" (dict "id" .author.Params.github ) -}}
     {{- else -}}
-      {{/* If they selected github, but don't have a GitHub ID, we're giving them a random 'digit-light' or 'digit-dark' icon */}}
-      {{- $icon_path := print "img/" (index (shuffle (slice "digit-light" "digit-dark")) 0) ".png" -}}
+      {{/* If they selected github, but don't have a GitHub ID, we're giving them a semi-random 'digit-light' or 'digit-dark' icon */}}
+      {{- $icon_path := print "img/digit-" (cond (eq (mod (len .author.Params.slug) 2) 0) "light" "dark") ".png" -}}
       {{- template "digitalgov_icon" (dict "id" $profile_source "icon_path" $icon_path ) -}}
     {{- end -}}
-  {{/* if the $profile_source is not "github", meaning it is one of the other options... */}}
+    {{/* If the $profile_source is not "github", meaning it is one of the other options... */}}
   {{- else -}}
-    {{/* set the $icon_path to their choice */}}
+    {{/* Set the $icon_path to their choice */}}
     {{- $icon_path := (printf "img/%s.png" $profile_source ) -}}
     {{- template "digitalgov_icon" (dict "id" $profile_source "icon_path" $icon_path ) -}}
   {{- end -}}
 
-{{/*
-Logic for if the author.Params.profile_source is not set in the author file
-which accounts for most of the author files on Digital.gov
-*/}}
+  {{/* Logic for if the author.Params.profile_source is not set in the author file
+    which accounts for most of the author files on Digital.gov
+  */}}
 {{- else -}}
-  {{/* A quick check to see if they have a github ID set */}}
-  {{- if .author.Params.github -}}
-    {{- template "github" (dict "id" .author.Params.github ) -}}
+  {{/* A quick check to make sure this isn't the index page */}}
+  {{- if .author.Params.slug -}}
+    {{/* A quick check to see if they have a github ID set */}}
+    {{- if .author.Params.github -}}
+      {{- template "github" (dict "id" .author.Params.github ) -}}
 
-  {{/* If they do not have a GitHub ID, then we're giving them a random 'digit-light' or 'digit-dark' icon */}}
-  {{- else -}}
-    {{- $icon_path := print "img/" (index (shuffle (slice "digit-light" "digit-dark")) 0) ".png" -}}
-    {{- template "digitalgov_icon" (dict "id" .author.Params.profile_source "icon_path" $icon_path ) -}}
+      {{/* If they do not have a GitHub ID, then we're giving them a semi-random 'digit-light' or 'digit-dark' icon */}}
+    {{- else -}}
+      {{- $icon_path := print "img/digit-" (cond (eq (mod (len .author.Params.slug) 2) 0) "light" "dark") ".png" -}}
+      {{- template "digitalgov_icon" (dict "id" .author.Params.profile_source "icon_path" $icon_path ) -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
-
 
 {{/* Templates for images ============== */}}
 
 {{ define "github" }}
-  <img src="https://github.com/{{- .id -}}.png?size=50" alt="">
+  <img src="https://github.com/{{- .id -}}.png?size=50" alt="" />
 {{ end }}
 
 {{ define "digitalgov_icon" }}
-  <img src="{{- .icon_path | absURL -}}" alt="">
+  <img src="{{- .icon_path | absURL -}}" alt="" />
 {{ end }}

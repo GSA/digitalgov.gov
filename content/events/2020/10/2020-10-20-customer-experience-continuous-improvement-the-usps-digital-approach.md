@@ -10,23 +10,25 @@ end_date: 2020-11-12 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
-  - cx
-  - best-practices
+  - customer-experience
   - usability
-  - seo
+  - search-engine-optimization
   - user-experience
+  - information-collection
 
 # See all authors at https://digital.gov/authors
 authors:
   - jeff-pass
   - alexander-turgeon
   - matt-petrowski
+
 slug: customer-experience-continuous-improvement-the-usps-digital-approach
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4612713&CustomerID=321
 date: 2020-11-12 14:00:00 -0500
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 youtube_id: I3wywGJ4KHA
 
 ---
@@ -61,7 +63,6 @@ Jeff has been a long-time UX event organizer, including GoodGov UX, World IA Day
 
 ## Related Links
 
-  * [2012 Digital Government Strategy](https://digital.gov/resources/2012-digital-government-strategy/) 
   * [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) 
   * [USPS Digital Style Guide](https://www.usps.com/styleguide/) 
   * [Analytics.usa.gov](https://analytics.usa.gov/) 

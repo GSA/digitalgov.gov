@@ -6,17 +6,9 @@ summary: 'Agencies can participate in the Digital Analytics Program (DAP) by imp
 authors:
   - ilee
 topics:
-  - code
-  - data
-  - metrics
-  - monthly-theme
-  - our-work
+  - software-engineering
+  - open-data
   - analytics
-  - code
-  - dap
-  - data
-  - digital-analytics-program
-  - metrics
 ---
 
 Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP:

@@ -1,28 +1,22 @@
 ---
 slug: social-media-accessibility-issues-and-solutions
 date: 2014-06-30 10:00:10 -0400
-title: 'Social Media: Accessibility Issues and Solutions'
-summary: 'The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information&mdash;people with disabilities&mdash;since they have the least access to it. Like many websites, social media platforms'
+title: "Social Media: Accessibility Issues and Solutions"
+summary: "The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information&mdash;people with disabilities, since they have the least access to it."
 authors:
   - victoria-wales
 topics:
   - accessibility
-  - monthly-theme
-  - social-media
-  - video
-  - writing
-  - accessibility
-  - crowdsourcing
-  - FCC
-  - federal-communications-commission
-  - infographic
+  - multimedia
+  - communication
   - plain-language
   - social-media
+
 ---
 
-{{< legacy-img src="2014/06/600-x-215-The-Art-of-Social-Media-by-mkhmarketing-flickr-CC-BY-2-0.jpg" alt="Social media icons on the ends of brightly colored chalk" caption="The Art of Social Media by mkhmarketing CC BY 2.0" >}} 
+The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information—people with disabilities, since they have the least access to it. Like many websites, social media platforms present some of the greatest barriers in digital accessibility.
 
-The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information—people with disabilities—since they have the least access to it. Like many websites, social media platforms present some of the greatest barriers in digital accessibility.
+{{< legacy-img src="2014/06/600-x-215-The-Art-of-Social-Media-by-mkhmarketing-flickr-CC-BY-2-0.jpg" alt="Social media icons on the ends of brightly colored chalk" caption="The Art of Social Media by mkhmarketing CC BY 2.0" >}}
 
 ## Social media connects people and so much more
 
@@ -37,11 +31,12 @@ These are practices that content managers, rather than developers, can put in pl
 
 > In fact, many of these accessibility principles happen to benefit all users.
 
-Imagine, if you aren’t deaf or hard-of-hearing, clicking on a video for more information and being unable to listen to the content because you’re using a public library’s computer that doesn’t have speakers or a sound card. In this scenario, captions and a video transcript would benefit you, as well as people with disabilities. Social media can be a tool for inclusion and an opportunity to connect with all customers—this can’t be overlooked any longer. The accessibility community is abuzz with hearing more ideas and discussing how to increase awareness and collaboration, to keep accessibility practices in mind. To learn more about these crowdsourcing ideas and potential solutions, [check out the NCD-ODEP National Online Dialogue: Advancing Accessibility and Inclusion in Social Media—The User Experience March 17–April 4, 2014 Participation Metrics Report](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/NCD-ODEP-Online-Dialogue-Participation-Metrics-Report.pdf) (PDF, 370 KB, 34 pages). You can find [social media accessibility guidelines and tips](http://queensu.ca/accessibility/how-info/social-media-accessibility) on the Social Media Accessibility Hub from Queen’s University.
+Imagine, if you aren’t deaf or hard-of-hearing, clicking on a video for more information and being unable to listen to the content because you’re using a public library’s computer that doesn’t have speakers or a sound card. In this scenario, captions and a video transcript would benefit you, as well as people with disabilities. Social media can be a tool for inclusion and an opportunity to connect with all customers—this can’t be overlooked any longer. The accessibility community is abuzz with hearing more ideas and discussing how to increase awareness and collaboration, to keep accessibility practices in mind. To learn more about these crowdsourcing ideas and potential solutions, check out the [NCD-ODEP National Online Dialogue: Advancing Accessibility and Inclusion in Social Media — The User Experience, March 17 – April 4, 2014 Participation Metrics Report (PDF, 370 KB, 34 pages)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/NCD-ODEP-Online-Dialogue-Participation-Metrics-Report.pdf). the Social Media Accessibility Hub from Queen’s University has [social media accessibility guidelines and tips](http://queensu.ca/accessibility/how-info/social-media-accessibility).
 
 ## Participate in the conversation
 
 The FCC’s Accessibility and Innovation Initiative will host a [public event, July 17, called “Accessing Social Media.&#8221;](http://www.fcc.gov/events/accessing-social-media) For more information, contact Jamal Mazrui at 202.418-0069 or by [email](mailto:jamal.mazrui@fcc.gov), or call Kelly Jones at 202.418-7078 or contact her via [email](mailto:kelly.jones@fcc.gov). You may also join in the ongoing discussions on [ePolicyWorks Online’s Dialogues page](https://www.epolicyworks.org/epw/dialogues/).
 
 _**Victoria Wales** is a Bilingual Web Content Manager with [USA.gov](http://www.usa.gov/), at the U.S. General Services Administration (GSA)._
-_This article is part of this month&#8217;s editorial theme on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+
+_This article is part of this month&#8217;s editorial theme on social media. Check out our articles, events, and resources on social media._

@@ -2,31 +2,25 @@
 slug: is-there-a-generic-equivalent-to-my-brand-name-drug-find-out-with-fda-ob-express
 date: 2015-11-19 1:00:14 -0400
 title: Is There a Generic Equivalent to My Brand Name Drug? Find out with FDA OB Express
-summary: 'Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked'
+summary: 'The FDA has released a free native app for the public called Orange Book Express, or OB Express, as a mobile version of its Approved Drug Products with Therapeutic Equivalence Evaluations publication that is primarily used by pharmacists.'
 authors:
   - nramprasad
 topics:
+  - software-engineering
   - mobile
-  - fda
-  - ios
-  - mobile-apps
-  - native-app
-  - native-apps
-  - SSA
-  - the-united-states-social-security-administration
-  - thursday-mobile-products
-  - us-food-and-drug-administration
 ---
 
-Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked for reassurance from the pharmacist that he/she has dispensed an equivalent generic drug at the direction of my doctor.
+Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked for reassurance from the pharmacist that they have dispensed an equivalent generic drug at the direction of my doctor.
 
 {{< legacy-img src="2015/11/600-x-450-FDA-Orange-Book-OB-Express-logo.jpg" alt="Logo for the Federal Drug Administration's Orange Book Express app" >}}
 
-The [Food and Drug Administration (FDA)](http://www.fda.gov) is required to publish reference material on [Approved Drug Products with Therapeutic Equivalence Evaluations](http://www.accessdata.fda.gov/scripts/cder/ob/), commonly known as the Orange Book (OB). Pharmacists are probably the typical and predominant users of the Orange Book. The Orange Book has been in publication for the past 35 years and has many purposes, including promoting the use of generic drugs, listing the patents of various drugs and annotating when the patents run out.
+The [Food and Drug Administration (FDA)](http://www.fda.gov) is required to publish reference material on [Approved Drug Products with Therapeutic Equivalence Evaluations](http://www.accessdata.fda.gov/scripts/cder/ob/), commonly known as the Orange Book (OB). Pharmacists are probably the typical and predominant users of the Orange Book. The Orange Book has been in publication for the past 35 years and has many purposes, including promoting the use of generic drugs, listing the patents of various drugs, and annotating when the patents run out.
 
-Now technology has made it possible for you and me to have an instantaneous answer to the question: “What are the generic equivalents to my brand name drug?&#8221; FDA very recently released a mobile app called Orange Book Express, or OB Express. The app is free to download and is available for the [iOS](https://itunes.apple.com/us/app/ob-express/id1051007579?mt=8) and [Android](https://play.google.com/store/apps/details?id=gov.fda.fdaob) platforms.
+Now technology has made it possible for you and me to have an instantaneous answer to the question: “What are the generic equivalents to my brand name drug?" FDA very recently released a mobile app called Orange Book Express, or OB Express. The app is free to download and is available for the [iOS](https://itunes.apple.com/us/app/ob-express/id1051007579?mt=8) and [Android](https://play.google.com/store/apps/details?id=gov.fda.fdaob) platforms.
 
-{{< legacy-img src="2015/11/250-x-444-FDA-Orange-Book-OB-Express-Andrid-home-screen-menu.jpg" alt="Screen capture of the home menu screen from the Federal Drug Administration's Orange Book Express app (Android)." >}}The app&#8217;s home screen allows users to search by:
+{{< legacy-img-right src="2015/11/250-x-444-FDA-Orange-Book-OB-Express-Andrid-home-screen-menu.jpg" alt="Screen capture of the home menu screen from the Federal Drug Administration's Orange Book Express app (Android)." >}}
+
+The app&#8217;s home screen allows users to search by:
 
   * Active Ingredient
   * Proprietary Name

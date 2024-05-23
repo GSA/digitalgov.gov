@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/2023-march-oes-event.pptx
+  # File shortcode: {{< asset-static file="2023-march-oes-event.pptx" label="2023-march-oes-event (PDF, 4 pages, 2MB)">}}
+  date     :  2023-03-02 13:53:29 -0400
+  uid      :  2023-march-oes-event
+  format   :  pptx
+  

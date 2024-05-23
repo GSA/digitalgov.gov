@@ -6,11 +6,8 @@ summary: ' As the 2016 presidential election heats up, here at 18F we’ve been 
 authors:
   - emileigh-barnes
 topics:
-  - content
-  - 18f
-  - api
-  - FEC
-  - federal-election-commission
+  - application-programming-interface
+  - content-strategy
 ---
 
 {{< legacy-img src="2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" >}}

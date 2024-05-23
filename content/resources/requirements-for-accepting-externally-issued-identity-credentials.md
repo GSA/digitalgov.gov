@@ -2,16 +2,18 @@
 slug: requirements-for-accepting-externally-issued-identity-credentials
 date: 2015-12-03 2:20:17 -0400
 title: Requirements for Accepting Externally Issued Identity Credentials
-summary: "This memo dated October 6, 2011, from the Federal CIO to the CIO&#8217;s of Executive Departments and Agencies, mandates that &#8220;agencies are to begin leveraging externally-issued credentials, in addition to continuing to offer federally-issued credentials.&#8221; The memo begins with the observation that the use of externally-issued credentials (i.e., those that have been issued by an"
+summary: "This memo dated October 6, 2011, from the Federal CIO to the CIO&#8217;s of Executive Departments and Agencies, mandates that agencies are to begin leveraging externally-issued credentials, in addition to continuing to offer federally-issued credentials."
+
 topics:
   - policy
 authors:
   - apiazza
+
 ---
 
-This memo dated October 6, 2011, from the Federal CIO to the CIO&#8217;s of Executive Departments and Agencies, mandates that &#8220;agencies are to begin leveraging externally-issued credentials, in addition to continuing to offer federally-issued credentials.&#8221; The memo begins with the observation that the use of externally-issued credentials (i.e., those that have been issued by an entity other than the federal government) will decrease the burden on uses of government information systems and reduce costs associated with managing credentials.
+This memo dated October 6, 2011, from the Federal CIO to the CIO's of Executive Departments and Agencies, mandates that "agencies are to begin leveraging externally-issued credentials, in addition to continuing to offer federally-issued credentials." The memo begins with the observation that the use of externally-issued credentials (i.e., those that have been issued by an entity other than the federal government) will decrease the burden on uses of government information systems and reduce costs associated with managing credentials.
 
-<a class="button" style="color: #000000" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/ombreqforacceptingexternally_issuedidcred10-6-2011.pdf">View the Requirements for Accepting Externally Issued Identity Credentials</a>
+{{< button href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/ombreqforacceptingexternally_issuedidcred10-6-2011.pdf" text="View the Requirements for Accepting Externally Issued Identity Credentials" >}}
 
 ## Related Resources
 

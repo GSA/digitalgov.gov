@@ -6,21 +6,12 @@ summary: 'Several federal agencies and offices have worked together to create a 
 authors:
   - christen-geiler
 topics:
-  - content
+  - content-strategy
   - mobile
-  - video
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - content-syndication
-  - fda
-  - HHS
-  - national-institutes-of-health
-  - nih
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
+  - multimedia
 ---
 
-{{< legacy-img src="2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." caption="" >}} 
+{{< legacy-img src="2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." caption="" >}}
 
 Several federal agencies and offices have worked together to create a free and easy way for public health partners to incorporate our Web content, images, video, data, and infographics into other sites, apps, and social media. Through digital media syndication, the science-based resources of the Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), Food and Drug Administration (FDA), and the National Institutes of Health (NIH) can be combined with your ongoing activities at the state and local levels, and can help coordinate health messaging for maximum impact and reach.
 
@@ -76,11 +67,11 @@ These resources are offered through federal digital media syndication sites that
 
 Think about it, Content Syndication (CS) allows:
 
-  * Content Re-use 
+  * Content Re-use
       * Leverage inter-agency content to reduce overhead and streamline content channels
-  * Audience Retention 
+  * Audience Retention
       * Retain and grow audiences based on content
-  * 24/7 Content 
+  * 24/7 Content
       * Deliver content to your audience where, when, and how they want to consume it
 
 ## Why is this being done?

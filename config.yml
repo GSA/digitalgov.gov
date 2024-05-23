@@ -1,18 +1,18 @@
-title                   : "Digital.gov"
-baseURL                 : "/"
-languageCode            : "en-us"
-theme                   : "digital.gov"
-themesDir               : "./themes"
+title: "Digital.gov"
+baseURL: "/"
+languageCode: "en-us"
+theme: "digital.gov"
+themesDir: "./themes"
 
-MetaDataFormat          : "yaml"
-DefaultContentLanguage  : "en"
-SectionPagesMenu        : "main"
-Paginate                : 20
-googleAnalytics         : ""
-enableRobotsTXT         : true
-enableEmoji             : true
-enableGitInfo           : true
-buildFuture             : true
+MetaDataFormat: "yaml"
+DefaultContentLanguage: "en"
+SectionPagesMenu: "main"
+Paginate: 20
+googleAnalytics: ""
+enableRobotsTXT: true
+enableEmoji: true
+enableGitInfo: true
+buildFuture: true
 
 ignoreFiles:
   - "^_template"
@@ -21,9 +21,9 @@ ignoreFiles:
   - "content/_archived/*"
 
 sitemap:
-  changefreq            : "daily"
-  priority              : 1
-  filename              : "sitemap.xml"
+  changefreq: "daily"
+  priority: 1
+  filename: "sitemap.xml"
 
 outputFormats:
   SiteImages:
@@ -34,17 +34,17 @@ outputFormats:
   JSON:
     mediatype: "application/json"
 
-preserveTaxonomyNames   : true
+preserveTaxonomyNames: true
 
 taxonomies:
-  topic                 : "topics"
-  author                : "authors"
+  topic: "topics"
+  author: "authors"
 
 outputs:
-  home: ["HTML","RSS", "SiteImages", "JSON"]
-  section: ["HTML","RSS", "JSON"]
+  home: ["HTML", "RSS", "SiteImages", "JSON"]
+  section: ["HTML", "RSS", "JSON"]
   page: ["HTML", "JSON"]
-  term: ["HTML","RSS", "JSON"]
+  term: ["HTML", "RSS", "JSON"]
 
 # Goldmark is from Hugo 0.60 the default library used for Markdown.
 # Deprecated blackfriday was removed in https://github.com/GSA/digitalgov.gov/issues/5089
@@ -57,19 +57,20 @@ markup:
     endLevel: 3
     ordered: false
     startLevel: 1
+  highlight:
+    style: lovelace
+    tabwidth: 2
 
 params:
   description: "Guidance on building better digital services in government"
   agency_refer: "U.S. General Services Administration"
-  cdnurl                : "https://s3.amazonaws.com/digitalgov"
-  git_org               : "GSA"
-  git_repo              : "digitalgov.gov"
-  goUsaUsername         : ""
-  goUsaApiKey           : ""
-  devmode               : false
+  cdnurl: "https://s3.amazonaws.com/digitalgov"
+  git_org: "GSA"
+  git_repo: "digitalgov.gov"
+  devmode: false
 
   # Homepage settings
-  dg_tagline: "Build better digital services"
+  dg_tagline: "Better websites. Better government."
 
   # number of news items to include on the homepage
   stream_count: 10
@@ -84,12 +85,11 @@ params:
     - technology
     - civic-tech
 
-
 refLinksNotFoundURL: https://digital.gov/resources/
 
 permalinks:
-  news                 : ":year/:month/:day/:slug/"
-  events                : "event/:year/:month/:day/:slug/"
+  news: ":year/:month/:day/:slug/"
+  events: "event/:year/:month/:day/:slug/"
 
 # Related Posts Config
 # See: https://gohugo.io/content-management/related/#default-configuration
@@ -98,10 +98,10 @@ related:
   includeNewer: true
   toLower: false
   indices:
-  - name: topics
-    weight: 100
+    - name: topics
+      weight: 100
 
-pluralizelisttitles     : false
+pluralizelisttitles: false
 
 security:
   funcs:
@@ -111,47 +111,51 @@ security:
 
 menu:
   primary:
-    - Name            : "News"
-      Identifier      : "news"
-      URL             : "/news/"
-      Weight          : 1
-    - Name            : "Events"
-      Identifier      : "events"
-      URL             : "/events/"
-      Weight          : 2
-    - Name            : "Resources"
-      Identifier      : "resources"
-      URL             : "/resources/"
-      Weight          : 3
-    - Name            : "Communities"
-      Identifier      : "communities"
-      URL             : "/communities/"
-      Weight          : 4
-    - Name            : "Tools"
-      Identifier      : "tools"
-      URL             : "/services/"
-      Weight          : 5
+    - Name: "News"
+      Identifier: "news"
+      URL: "/news/"
+      Weight: 1
+    - Name: "Events"
+      Identifier: "events"
+      URL: "/events/"
+      Weight: 2
+    - Name: "Resources"
+      Identifier: "resources"
+      URL: "/resources/"
+      Weight: 3
+    - Name: "Communities"
+      Identifier: "communities"
+      URL: "/communities/"
+      Weight: 4
+    - Name: "Tools"
+      Identifier: "tools"
+      URL: "/services/"
+      Weight: 5
 
   contribute:
-    - Name            : "Write for us"
-      Identifier      : "contribute"
-      URL             : "/contribute/"
-      Weight          : 1
-    - Name            : "Host an event"
-      Identifier      : "digitalgov-university"
-      URL             : "/digitalgov-university/"
-      Weight          : 2
-    - Name            : "Edit on GitHub"
-      Identifier      : "edit"
-      URL             : "https://github.com/GSA/digitalgov.gov/"
-      Weight          : 3
+    - Name: "Write for us"
+      Identifier: "contribute"
+      URL: "/contribute/"
+      Weight: 1
+    - Name: "Host an event"
+      Identifier: "digitalgov-university"
+      URL: "/digitalgov-university/"
+      Weight: 2
+    - Name: "Submit GitHub issue"
+      Identifier: "edit"
+      URL: "https://github.com/GSA/digitalgov.gov/issues"
+      Weight: 3
 
   about:
-    - Name            : "About Us"
-      Identifier      : "about"
-      URL             : "/about/"
-      Weight          : 1
-    - Name            : "Site Policies"
-      Identifier      : "policies"
-      URL             : "/policies/"
-      Weight          : 2
+    - Name: "About Us"
+      Identifier: "about"
+      URL: "/about/"
+      Weight: 1
+    - Name: "Site Policies"
+      Identifier: "policies"
+      URL: "/policies/"
+      Weight: 2
+    - Name: "Contact Us"
+      Identifier: "contact"
+      URL: "/about/contact/"  
+      Weight: 3

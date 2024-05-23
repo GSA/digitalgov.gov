@@ -6,21 +6,26 @@ summary: Two Presidential Innovation Fellows share how we can build digital
   crisis.
 # See all topics at https://digital.gov/topics
 topics:
-  - product-management
-  - user-research
-  - presidential-innovation-fellows
+  - product-and-project-management
+  - research
+  - communication
+
 # See all authors at https://digital.gov/authors
 authors:
   - likhitha-patha
   - dr-kaeli-yuen
 slug: product-lessons-from-the-front-lines-of-covid-19-civic-tech-response
 primary_image: hero-image
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 {{< img src="hero-image" >}}
+
 **Likhitha Patha**: When Kaeli Yuen and I joined the federal government as part of the 2020 cohort of [Presidential Innovation Fellows](https://pif.gov/) (PIF), we did not anticipate a global pandemic on the horizon. For us, this unprecedented time turned out to be a call to step up and serve the American people in a time of need. We prioritized helping agencies respond to COVID-19 by building new digital services that addressed public needs. I was detailed to the Department of Health and Human Services (HHS) and Health Resources and Services Administration (HRSA) where I led the launch of [telehealth.hhs.gov](https://telehealth.hhs.gov/), a website that centralizes telehealth policy updates and resources for health care providers and patients. Kaeli was detailed to the Department of Veterans Affairs (VA), where she led the launch of the [VA coronavirus chatbot](https://www.va.gov/coronavirus-chatbot/) to speed Veteran access to information on the impact of COVID-19 to their VA benefits and services, and the [VA COVID-19 screener tool](https://www.va.gov/covid19screen/) to help assess COVID-19 risk factors at VA medical centers’ building entrances.
 
 Developing products during this time of crisis was uniquely challenging for a couple of reasons:
@@ -42,11 +47,15 @@ Despite intense timelines, we ended up launching new digital products and servic
 4.  Don’t let perfect be the enemy of the good
 
 ## 1. Start by digging into the problem space
+
 {{< img-right src="likhitha" >}}
+
 **Likhitha**: When I initially started working on an effort to accelerate telehealth adoption and was still early in the exploration phase, I heard several ideas and wish lists spanning from wanting to build two-sided marketplaces to automatic triage bots from invested stakeholders. It was tempting to pick something that a highly influential stakeholder was asking for or something involving a latest tech trend because it was exciting to work on. However, taking a pause from reviewing/prioritizing solutions presented to me and instead investing time to dive deep into the problem space paid off. We started by talking to doctors and patients on the front lines to understand broader problems they’re dealing with to deliver and receive care. After validating a few hypotheses with user testing, we learned that the crux of the problem that the government was positioned to solve was providing easy access to trusted [plain-language guidance](https://plainlanguage.gov/) on evolving telehealth policies. This narrowed down the problem to “need for a centralized place to get plain language telehealth policy guidance for health care providers, and scale access to trusted information for the public.” And that’s exactly what we did with [telehealth.hhs.gov](https://telehealth.hhs.gov/)  — it provides trusted, plain language resources on telehealth (telemedicine) to patients and healthcare professionals.
+
 {{< img src="telehealth-website" >}}
 
 {{< img-right src="chatbot-phone" >}}
+
 **Kaeli**: In early March, there was a big surge in VA call center volume due to coronavirus-related questions from Veterans, leading to frustrating hold times for Veterans, staffing challenges for VA, and delayed access to clinical care for callers with urgent healthcare questions. Given multiple challenges, it was challenging for our VA team to prioritize where to focus our efforts, and tempting to jump at the many solutions being offered both from inside VA and from external third parties. However, taking time to understand the problem before jumping to solutions is counterintuitively more important in a crisis, given that there isn’t time to lose on solving the wrong problem.
 
 By spending time on user research, including deep dives with VA call centers and multiple rounds of interviews with Veterans, our team at VA Office of the Chief Technology Officer (VA CTO) learned that the majority of calls to VA were about a handful of the same, VA-specific frequently asked questions related to COVID-19 (e.g., “how can I switch my scheduled VA healthcare appointments to telehealth appointments?”). We developed the VA coronavirus chatbot as an automated way to deliver this information to Veterans without requiring a phone call. During peak usage, the VA coronavirus chatbot handled twice as many COVID-19 related queries as the VA’s national call center.
@@ -56,6 +65,7 @@ By spending time on user research, including deep dives with VA call centers and
 **Likhitha**: Given the short amount of time to address the identified challenge, we couldn’t wait for all of our insights to be learned solely via user research. We had to diversify our sources of insight by getting connected to entities directly plugged in with frontline workers. By sharing our understanding of the problem space, we were able to seek people on the front lines who can partner with us and support us. We got creative and tapped into second-degree learnings by identifying non-profits and academic entities who work regularly on problems faced by healthcare providers and patients. Overall, our coalition of support and partnerships included stakeholders for buy-in, leaders for approval, and partners for collaboration. What makes a coalition strong is how you earn trust and build relationships, as that is crucial for influencing without authority. We had to also accelerate internal processes to ship faster, and having this strong support from leaders and stakeholders from involved agencies enabled us to cut through a lot of red tape.
 
 {{< img-right src="kaeli" >}}
+
 **Kaeli**: As part of VA’s central office, our team relies on strong partnerships with our colleagues in the field to help us identify and solve the most important problems, especially in a crisis. For example, the VA CTO team’s partnership with the VA Medical Center is Durham, North Carolina surfaced a problem we were well-equipped to help solve: when VA medical centers began to reopen their non-emergency services (e.g., outpatient visits), they began implementing pre-entry screenings for COVID-19 symptoms and risk factors for all patients and employees. However, these manual in-person screenings created long lines and unnecessary crowding at entrances. The VA Medical Center in Durham had begun piloting a digital screening tool, and came to our team for help with improving and scaling the tool. This time crunch made the most of our technical skills and our network. While the team at VA CTO improved the usability and dependability of the tool, the field medical center shared a clear use case and call to action with their peers at medical centers across the country. After pilot success in North Carolina, the [VA COVID-19 screener](https://www.va.gov/covid19screen/) is being used by VA medical centers across the country, and has provided over 2 million screening results.
 
 ## 3. Build your “2-pizza team" to stay nimble
@@ -65,6 +75,7 @@ By spending time on user research, including deep dives with VA call centers and
 **Kaeli**: Key to the speedy delivery (the VA COVID-19 screener was launched in just 12 days!) of multiple COVID-19-related tools from VA has been not only the “2 pizza” team size but also the fact that we had those tech teams in-house. VA has a dedicated tech team (the Digital Experience Product Office, made of designers, content strategists, engineers, product managers) focused on delivering digital products with a modern, shared VA.gov platform. Having a team like this on hand means you don’t have to worry about contract management, waiting for task orders, onboarding new teams, negotiating scope, or waiting for access to systems. Plus, the entrepreneurial mindset of the team was key for quick delivery. The heavy-lift required to get this infrastructure and in-house tech team in place turned out to be a great investment that allowed the VA CTO team to respond rapidly to the urgent needs of Veterans.
 
 ## 4. Don’t let perfect be the enemy of the good
+
 {{< card-quote text="If you’re not embarrassed by the first version of your product, you’ve launched too late." cite="Reid Hoffman, an American entrepreneur" >}}
 
 **Likhitha**: It’s easy to get hung up on wanting to ship a perfect product from the get-go, be it for precision or for risk aversion. In the wise words of Reid Hoffman, an American entrepreneur, “If you’re not embarrassed by the first version of your product, you’ve launched too late.” By waiting to ship the perfect product, we’d be wasting time instead of actually getting the product in the hands of real users through which we can further learn and iterate. Creating a culture for iteration rather than striving for perfection was critical — this mindset had to be adopted by our immediate team and leaders supporting us. We knew going in that what we put out on Day 1 wouldn’t be perfect; we prepared ourselves to iterate quickly and employed mechanisms where we could collect and incorporate user feedback. As we kicked off the effort, we declared a set of guiding principles and “ship-it must-haves” to align towards this mindset. Having these criteria pre-established also helped us stay focused on priorities and stick to our immediate goals. Our “ship-it must-haves” were the following:

@@ -21,22 +21,22 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 <details>
   <summary>Platform</summary>
 
-| Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov)                               | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [cloud.pages.gov](https://cloud.gov/).|
-| [18F/**dns**](https://github.com/18F/dns)                              | DNS configuration for digital.gov domains managed by GSA TTS.|
-| [uswds/**uswds**](https://github.com/uswds/uswds)                              | This site is developed using the U.S. Web Design System v2, managed by GSA TTS.|
+| Project                                                         | Description                                                                                                                                              |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GSA/**digitalgov.gov**](https://github.com/GSA/digitalgov.gov) | (This repo) Site platform currently deployed as a static site built with [Hugo](https://gohugo.io/) and hosted by [cloud.pages.gov](https://cloud.gov/). |
+| [18F/**dns**](https://github.com/18F/dns)                       | DNS configuration for digital.gov domains managed by GSA TTS.                                                                                            |
+| [uswds/**uswds**](https://github.com/uswds/uswds)               | This site is developed using the U.S. Web Design System v2, managed by GSA TTS.                                                                          |
 
 </details>
 
 <details>
   <summary>Tools - projects we have created in order to better aid our work on the digital.gov platform.</summary>
 
-| Project                                                                                       | Description                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GSA/**digital.gov-design**](https://github.com/GSA/digital.gov-design)      | A collection of design assets used for the digital.gov platform.                                                          |
-| [GSA/**digitalgov-workflow**](https://github.com/GSA/digitalgov-workflow)                           | A tool for managing the digital.gov editorial workflow on GitHub (**archived**).                                                                                                                                                                            |
-| [GSA/**redir**](https://github.com/GSA/redir)                   | A basic [Jekyll](https://jekyllrb.com/) template to use for temporary redirects.
+| Project                                                                                    | Description                                                                      |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [GSA/**digital.gov-design**](https://github.com/GSA/digital.gov-design)                    | A collection of design assets used for the digital.gov platform.                 |
+| ~[GSA/**digitalgov-workflow**](https://github.com/GSA/digitalgov-workflow)~ (**archived**) | A tool for managing the digital.gov editorial workflow on GitHub.                |
+| ~[GSA/**redir**](https://github.com/GSA/redir)~ (**archived**)                             | A basic [Jekyll](https://jekyllrb.com/) template to use for temporary redirects. |
 
 </details>
 
@@ -55,18 +55,21 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 
 #### Prerequisites
 
+Unix-based systems are recommended for development. If you are using Windows, consider using the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) to run a Unix-based system on your machine.
+If you do not have a Unix-based system, you will recieve additional linting errors when running the `npm run lint` commands.
+
 Install [Gulp](https://gulpjs.com/) globally from your terminal command line:
 
-```
+```bash
 npm install gulp-cli -g
 ```
 
 To use Gulp, you must have [Node](https://nodejs.org/) and [NPM](https://www.npmjs.com) installed.
-We're currently using Node v14. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
+We're currently using Node v18. A recommended way of changing your Node version is to use a node version manager tool like [`n`](https://www.npmjs.com/package/n) to quickly change between node versions.
 
 NPM is package along with Node. Check your versions of these in your terminal command line by typing:
 
-```
+```bash
 node -v
 npm -v
 ```
@@ -83,7 +86,7 @@ _see https://gohugo.io/getting-started/installing/ for other OSs_
 
 Quickly check your Hugo version at your terminal command line by running:
 
-```
+```bash
 hugo version
 ```
 
@@ -94,7 +97,7 @@ If Hugo has released a new version, but digital.gov hasn't been upgraded to that
 
 Once the prerequisites are installed, [clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to your local machine. Then navigate to the project folder in your terminal and run:
 
-```
+```bash
 npm install
 ```
 
@@ -104,7 +107,7 @@ This will install all of the Node dependencies needed to run your Hugo environme
 
 Running the local development server is as simple as running:
 
-```
+```bash
 npm start
 ```
 
@@ -117,7 +120,7 @@ NPM will run the following scripts:
 
 When Hugo is done building, you should see a success message like:
 
-```
+```bash
 Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
@@ -148,7 +151,7 @@ All style and image build tasks are handled by [Gulp](https://gulpjs.com/docs/en
 
 Starting the gulp watch tasks to compile styles. This can be done in the terminal command line by running:
 
-```
+```bash
 gulp
 ```
 
@@ -165,7 +168,7 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 - `hugo build` — builds all the pages in the site, without creating a server
 - `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
 - `hugo serve --templateMetricsHints` — for seeing where you can apply caching in templates and speed up the build time
-[See more in the Hugo docs »](https://gohugo.io/commands/hugo/)
+  [See more in the Hugo docs »](https://gohugo.io/commands/hugo/)
 
 ## Upgrading Hugo
 
@@ -181,22 +184,20 @@ We follow the WCAG2AA standard, and one of the ways we check that we're followin
 
 ### Running tests
 
+> **Warning**
+> Site must be running locally to perform the scan.
+
 To run a web accessibility test on digital.gov do the following:
 
 1. Check out the site from GitHub https://github.com/GSA/digitalgov.gov/
-1. Install and run the site locally following the `Install` and `Run` instructions above. *Site must be running locally to perform the scan.*
-
-- If this is your first time running pa11y, then you'll need to run `npm install` to make sure pa11ly is installed.
-
-2. In a separate terminal window, run `npm run test:pa11y` to initiate the accessibility checker.
-
-*Note*: Currently, this only runs accessibility checks on the site home page as a Proof of Concept demonstration.
+1. Install and run the site locally following the `Install` and `Run` instructions above.
+1. In a separate terminal window, run `npm run test:pa11y` to initiate the accessibility checker.
 
 Accessibility testing configuration is located in the .pa11yci file.
 
 ## Linters
 
-To test the validity of API JSON files, run `npm run lint:json` in the terminal on your local machine.  This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, `jsonlint` will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues.
+To test the validity of API JSON files, run `npm run lint:json` in the terminal on your local machine. This will check the validity of the Hugo generated JSON files used for the API. Currently, it validates authors, images, and topics using the tool `jsonlint`. If an issue is found with the JSON, `jsonlint` will return a non-zero exit code causing CircleCI to fail. See the [wiki API page](https://github.com/GSA/digitalgov.gov/wiki/APIs) for fixing API issues.
 
 Markdown testing can be performed by running `npm run lint:markdown`. The rules that are used for the linter can be found in `.markdown-lint.yml`.
 
@@ -207,24 +208,24 @@ To have HTMLproofer ignore certain content see: https://github.com/gjtorikian/ht
 
 ### convert legacy-img to standard img
 
-```
-{{< legacy-img src="/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"( alt=".+?")* >}}
+```bash
+{{< legacy-img src="/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"(
+alt=".+?")* >}}
 ```
 
-```
+```bash
 {{< img src="$1"$2 >}}
 ```
 
 ### convert CDN links
 
-```
-{{< legacy-img src="/(\d{4,4})
-{{< legacy-img src="$1
+```bash
+{{< legacy-img src="/(\d{4,4}) {{< legacy-img src="$1
 ```
 
 ### replace `url` with `slug` in posts
 
-```
+```bash
 ^url: .+/([^/]+)\.md
 slug: $1
 ```

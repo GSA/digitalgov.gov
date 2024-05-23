@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/foundations-of-agile-part-2-slides.pdf
+  # File shortcode: {{< asset-static file="foundations-of-agile-part-2-slides.pdf" label="foundations-of-agile-part-2-slides (PDF, 4 pages, 2MB)">}}
+  date     :  2023-09-22 00:41:35 -0400
+  uid      :  foundations-of-agile-part-2-slides
+  format   :  pdf
+  

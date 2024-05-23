@@ -11,7 +11,7 @@ summary: "GSA’s customer experience team has released a federal buying guide t
 
 # see all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - design
   - governance
   - research

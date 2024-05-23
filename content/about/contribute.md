@@ -11,66 +11,61 @@ aliases:
   - /contribute/
 
 ---
+Digital.gov provides guidance on building better digital services in government. Do you have a case study or success story to share? Did your team recently accomplish something noteworthy?
 
-While our primary mission is helping agencies implement new technologies or innovations to increase public experience, Digital.gov has several channels to reach our stakeholders. We send out a newsletter, host informational blog posts, resources, and videos on our site, as well as offer various learning opportunities.
+We’re always on the lookout for contributions from our community members. Keep reading for more information on the requirements and how to contribute.
 
-We regularly accept content for this site from various federal agencies. [Learn more about what our readers need »](#what-our-readers-need)
+{{< box color="light-blue" >}}
+**Contribution requirements**
 
-- **News, Updates, and Blog Posts** — Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. We are looking for posts that show what your team is working on, what challenges you’re facing, or how you’re working to make digital better for the public.
-- **Case Studies** — We are looking for examples of what agencies are doing, case studies, or collections of validated federal-wide news that has an impact on digital in one spot.
-- **Informational Events** — Digital.gov provides a range of free events for people and teams across the federal government.
-- **Resources, Tools, and Services** — To help agencies confidently take steps toward working smarter, we try to collect a list of available implementation playbooks, guidance documents, checklists, toolkits, style guides, and other similar content organized by specific topic areas.
+**Who:** We welcome insights and expertise from folks across all levels of experience. You must belong to at least one Digital.gov community and be a federal employee or contractor with a .gov or .mil email. Federal employees must have approval from their supervisors for all work submitted to Digital.gov. Federal contractors must have approval from their federal product manager, COR, or both. We cannot accept promotional content or pitches from the public.
 
-<!-- {{< hs-form-contribute >}} -->
+**What:** You can contribute to content, events, or both. And if you’re not ready to take that big of a leap, there are plenty of other ways to contribute.
 
-## Submission Considerations
+**When:** We accept contributions on a rolling basis.
 
-Just a few quick notes to consider before submitting your contribution request:
+**Why:** We will share your story with tens of thousands of community members, readers, and event attendees. You and your team deserve the recognition!
 
-- **Your Organization** — We cannot accept promotional content or pitches from vendors. If content is about programs at your agency, you must have it reviewed and approved by your agency’s communications team before submitting.
-- **Format** — We can post content in various formats, including presentations, video, and written prose. We also link to content posted by other agencies. As is required for any online content, please make sure that your submission and any related files are accessible and mobile-friendly.
-- **Length** — We generally like to keep people’s attention so we just ask that you consider your reader or audience.
-- **Style and Editing** — Digital.gov follows the Associated Press (AP) Style Guide and general Plain Language guidance. When we make edits, it’s usually to ensure that your content reaches and engages our audience. View our full [Digital.gov Style Guide]({{< ref "style-guide.md" >}}).
-- **Visuals/Media** — Photos, screenshots, charts, and other visuals help engage the reader and keep them interested in your content. If you have visuals that we can include, please try to identify the highest resolution of the file possible (i.e., usually anything 150 dpi or greater works best) and we can work with you to adjust the image to an appropriate format and file size. Alternative text also must be provided for accessibility tools like screen readers.
-- **Timing** — We generally try to post content within two weeks of your submission. Events are most successful when we post them four weeks out from the event date. So we ask that you take this into account before submitting an event. Videos from events are usually posted within a week after an event once closed captioning and other supporting information is available.
+**How:** Email digitalgov@gsa.gov to submit your ideas.
+{{< /box >}}
 
-## What Our Readers Need
+## How to contribute content and events
 
-<div class="deck">Through our user research, we have found that there are three things product managers in government need to be successful in their work.</div>
+### Web content
 
-### Tools and Resources
+Agency stories are an important tool to empower and support colleagues who are working “in the trenches” to improve digital content.
 
-This information is crucial to modernizing services and much of it is government-specific, dealing with the various rules, regulations and policies.
+Email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) to submit your ideas for web content. We will review your ideas and provide feedback, prioritizing the ideas that best align with our mission and audience. We will also share an easy-to-follow content template with you. You’ll have a few weeks to write the content and submit it to us. Then, our editorial team will copy edit the content and publish it on Digital.gov and related channels.
 
-Access to the right tools and resources will help them confidently take steps toward working smarter, iterating more frequently and delivering better, more effective services to the public.
+* [Resources](https://digital.gov/resources/): Submit a 300- to 500-word guidance document, checklist, toolkit, style guide, or other similar resource to help agencies improve their digital content.
 
-**Some examples**
+* [Blog posts](https://digital.gov/news/): Submit a newsworthy 500- to 750-word article to share a case study, success story, or challenge you faced while working to make federal digital services better for the public.
 
-- [A resource page that explains how to do something]({{< ref "how-to-prevent-security-certificates-from-expiring-during-shutdown.md" >}})
-- [A template for a much needed, common document]({{< ref "digital-governance-policies.md" >}})
-- [A link to a helpful guide that your agency relies upon](https://accessibility.18f.gov/)
+Want to request a content update, report a bug, or suggest a feature? Use the green "New Issue" button on [our GitHub Issues page](https://github.com/GSA/digitalgov.gov/issues). When filling out the issue, apply any relevant labels (in the right column), and be sure to:
 
-### Examples of problems being solved in government
+1. include the URL of the page
+2. describe the issue or request
 
-Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices.
+{{< box color="light-gray" >}}
+**Did you know?** Digital.gov follows the [Associated Press (AP) Stylebook](https://www.apstylebook.com/) and [general plain language guidance](https://www.plainlanguage.gov/). When we make edits, it’s to ensure the content reaches and engages our audience. View our full [Digital.gov Style Guide](https://digital.gov/style-guide/).
+{{< /box >}}
 
-They want more information that is specific to government — examples of what agencies are doing; case studies; collections of validated federal-wide news that has an impact on digital in one spot.
+### Informational events
 
-**Some examples**
+[Digital.gov events](https://digital.gov/events/) highlight the work federal employees are doing across government to improve digital services and provides a range of free events — from huddles to webinars to summits — for people and teams across the federal government.
 
-- [A link to a blog post](https://revenuedata.doi.gov/blog/journey-mapping/)
-- [A blog post from an agency]({{< ref "2019-06-13-building-trust-with-users-through-open-communication-feedback.md" >}})
-- [An explainer in a blog post]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}})
-- [An explainer over video]({{< ref "2019-04-24-dap-learning-series-using-advanced-analysis-tool.md" >}})
+Email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) to volunteer to present or moderate at an event. You can also submit ideas for event topics in the [Digital.gov event submission form](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm). Speakers must be federal employees or federal contractors presenting along with their federal counterparts. Read our [Guidelines for Digital.gov event presenters](https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/) to know what to expect.
 
-## Start Collaborating
+* **Webinars:** Webinars generally consist of a 15- to 20-minute presentation followed by a moderated Q&A session. Most webinars are open to the public.
 
-**Here are some ways to start collaborating**
+* **Huddles:** Huddles provide Digital.gov community members a place to discuss specific topics, share best practices, and spark ideas. Community huddles generally consist of a 5- to 10-minute presentation followed by a moderated, open mic discussion among panelists and community members.
 
-- Get in touch with us by emailing [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
-- [Join a community of practice]({{< ref "/communities/_index.md" >}})
-- [Subscribe to our newsletter]({{< ref "/about/subscribe.md" >}})
+## Other ways to contribute
 
-This guidance stems from qualitative user research we conducted with over nearly two dozen federal members of our audience — content managers, designers, developers, innovation leaders — who are involved with all aspects of agencies’ digital services.
+While we welcome event and content contributions from community members across all levels of experience, we know that can feel like a big leap, especially for folks who are new to the federal government or Digital.gov. So, we offer other ways to contribute.
 
-As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart:
+**Open Opportunities:** We occasionally post short, recurring tasks on the Open Opportunities platform. Each task takes about 8 hours. [Browse all Digital.gov tasks](https://openopps.usajobs.gov/search?state=open&state=in%20progress&term=digital.gov&page=1) to find one that is a good fit for you.
+
+**Community mailing lists:** Share your thoughts and ideas on the community LISTSERV. Tell us about your agency and team and some of your noteworthy projects. Share best practices and resources. Ask questions about new research, industry trends, and other topics. All community members can post messages on the LISTSERV. And be sure to [join several Digital.gov communities of practice](https://digital.gov/communities/). Each community has its own culture, and you’ll learn something new by joining more than one community.
+
+**Feedback:** We want to hear from you. We use feedback from community members and the public to continually improve Digital.gov. Complete our post-event, website, and community surveys, or write to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) to share what’s on your mind.

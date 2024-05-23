@@ -6,9 +6,8 @@ summary: 'As part of 18F&#8217;s mission to deliver effective, user-centric serv
 authors:
   - mike-bland
 topics:
-  - code
+  - software-engineering
   - user-experience
-  - 18f
   - open-source
 ---
 

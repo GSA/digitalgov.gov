@@ -7,8 +7,8 @@ deck: "DECK goes here"
 topics:
   - accessibility
   - design
-  - code
-  - cloud
+  - software-engineering
+  - cloud-and-infrastructure
   - policy
 authors:
   - jeremyzilar

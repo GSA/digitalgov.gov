@@ -6,21 +6,16 @@ summary: 'A hybrid approach of waterfall and agile practices is helping the USGS
 authors:
   - andrew-j-stauffer
 topics:
-  - product-management
-  - strategy
   - policy
-  - agile
-  - lean
-  - methodology
-  - scrum
-  - sprint
-  - usgs
+  - software-engineering
+  - content-strategy
+  - research
+
 featured_image:
   uid: agile-flow-600
   alt: 'bakhtiar_zein iStock Thinkstock'
 
 ---
-
 
 It can often be difficult for organizations to adopt agile methodologies in their truest sense. Water-Scrum-Fall is a hybrid approach of [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) and [agile](https://en.wikipedia.org/wiki/Agile_software_development) practices, blended together in a manner that facilitates the transition to agile.
 
@@ -34,11 +29,9 @@ It is crucial to have as many levels of involvement as possible during annual pl
 
 The development team and product owners must get together during annual planning and determine if these are truly achievable goals. They review known knowns and known unknowns and develop a rudimentary plan. As the unknowns are identified throughout the year, the original plan will be amended and iterated on to account for these unexpected efforts.
 
-
 - What major tasks must be done to achieve a milestone?
 - What dependencies exist?
 - How accurate are the estimates?
-
 
 As this happens, the first round of plan refinement ensures that expectations can be met. It slowly evolves into a large plan of moving parts and time estimates. Lists of tasks and objectives have an initial round of categorization into “must have,” “like to have,” and “wish to have.” Based on budgeting, timing, unexpected hurdles, and multi-year plans, this type of categorization begins forming the framework and scope of annual work while setting expectations at multiple levels of management within the organization.
 

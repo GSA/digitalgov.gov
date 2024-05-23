@@ -7,8 +7,6 @@ authors:
   - lnelson
 topics:
   - social-media
-  - nih
-  - Twitter
 ---
 
 [{{< legacy-img src="2014/01/NLM-twitter-chat-250x140.jpg" alt="People meeting around a conference table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/NLM-twitter-chat.jpg)In helping support the social media team at the National Center for Complementary and Alternative Medicine (NCCAM), part of the National Institutes of Health (NIH),  we have been hosting monthly [Twitter Chats](http://nccam.nih.gov/news/events/twitterchat?nav=gsa) since March 2012. The topics of these chats have covered a wide variety of complementary health approaches including:

@@ -2,20 +2,20 @@
 slug: trends-on-tuesday-the-total-market-approach
 date: 2015-04-21 10:00:13 -0400
 title: 'Trends on Tuesday: The Total Market Approach'
-summary: Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities. Marketers who recognize the need for a coherent, effective multicultural
+summary: Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities.
 authors:
   - awichman
 topics:
-  - product-management
+  - product-and-project-management
+  - diversity-equity-and-inclusion
   - multilingual
-  - personas
+  - research
   - usability
-  - usability-case-study
 ---
 
-{{< legacy-img src="2015/02/600-x-400-Closeup-Of-Raised-Multiethnic-Hands-IPGGutenbergUKLtd-iStock-Thinkstock-462848199.jpg" alt="Close-up of raised, multi-ethnic hands." caption="" >}}
-
 Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities.
+
+{{< legacy-img src="2015/02/600-x-400-Closeup-Of-Raised-Multiethnic-Hands-IPGGutenbergUKLtd-iStock-Thinkstock-462848199.jpg" alt="Close-up of raised, multi-ethnic hands." caption="" >}}
 
 Marketers who recognize the need for a coherent, effective multicultural strategy have turned to the Total Market Approach (TMA). A coalition of marketing agencies, clients and associations led by [AHAA: The Voice of Hispanic Marketing](http://www.ahaa.org/About) released [an industry-sanctioned definition of TMA](http://www.ana.net/content/show/id/31579) in September. An [article by Inc.com](http://www.inc.com/yuriy-boykiv/what-leaders-need-to-know-about-the-total-market-approach-to-diverse-audiences.html) summarized the definition:
 

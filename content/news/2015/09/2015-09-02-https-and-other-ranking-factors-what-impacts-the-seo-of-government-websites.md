@@ -6,14 +6,11 @@ summary: Following the recent OMB memo that all publicly available federal websi
 authors:
   - dmccleskey
 topics:
-  - content
-  - our-work
-  - digitalgov-search
-  - https
+  - content-strategy
+  - search
+  - security
   - plain-language
   - search-engine-optimization
-  - seo
-
 ---
 
 Following the [recent OMB memo](https://https.cio.gov/) that all publicly available federal websites and Web services must [implement HTTPS](http://www.digitalgov.gov/2015/07/21/an-introduction-to-https-by-18f-and-digitalgov-university/) by December 31, 2016, Web content managers across government are considering the [SEO](http://search.digitalgov.gov/blog/seo-joe-pagano.html) (search engine optimization) implications of the transition, among other details.

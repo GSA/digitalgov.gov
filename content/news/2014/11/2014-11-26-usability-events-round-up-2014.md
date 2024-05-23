@@ -6,23 +6,13 @@ summary: 'This past year DigitalGov University has hosted at least one Usability
 authors:
   - apiazza
 topics:
-  - monthly-theme
   - usability
-  - usability-testing
   - user-experience
-  - dgu
-  - digitalgov-user-experience-program
-  - user-experience-community-of-practice
-  - recaps
-  - usability
-  - usability-testing
-  - user-experience
-  
 ---
 
-{{< legacy-img src="2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" caption="" >}}
-
 This past year DigitalGov University has hosted at least one Usability event per month and we thought we&#8217;d give you a round-up of those events. After all, November 13th was [World Usability Day]({{< ref "2014-11-13-world-usability-day-engagement.md" >}} "World Usability Day 2014 theme: Engagement").
+
+{{< legacy-img src="2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" caption="Rafal Olechowski, iStock, Thinkstock" >}}
 
 Since this year&#8217;s theme of World Usability Day is _Engagement_ it would be great to take a look at the event recap article, [Improving the User Experience with Usability.gov]({{< ref "2013-07-30-improving-the-user-experience-with-the-usability-gov-reboot.md" >}} "Improving the User Experience with the Usability.gov Reboot"). The folks at Usability.gov took a user-centered approach to refresh their site and make the design more engaging.
 

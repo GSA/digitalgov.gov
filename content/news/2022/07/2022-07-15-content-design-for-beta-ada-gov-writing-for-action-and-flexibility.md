@@ -10,12 +10,12 @@ deck: "**Content Design for beta.ADA.gov: Writing for Action and
   content for some of the most sought-after ADA topics."
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - design
-  - content
+  - content-strategy
   - research
   - user-centered-design
-  - writing
+  - human-centered-design
+  - communication
   - plain-language
 slug: content-design-for-beta-ada-gov-writing-for-action-and-flexibility
 # Controls how this page appears across the site

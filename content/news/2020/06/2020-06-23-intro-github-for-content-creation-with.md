@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # originally published at the following URL
-source_url: "https://digital.gov/resources/an-introduction-github/?dg"
+source_url: "https://digital.gov/resources/an-introduction-github"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
@@ -18,10 +18,7 @@ summary: "In this live training, Content Strategy and Design Specialist for GSAâ
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - code
-  - training
-  - github
-
+  - software-engineering
 # see all authors at https://digital.gov/authors
 authors: 
   - malaika-carpenter

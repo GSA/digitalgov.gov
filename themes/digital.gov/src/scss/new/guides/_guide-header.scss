@@ -1,45 +1,20 @@
 @use "uswds-core" as *;
 
-.guides {
-	main {
-    @include u-padding(0);
-    @include u-border-top(0, !important);
+.dg-guide__header {
+  @include at-media("tablet") {
+    align-items: center;
+    display: flex;
+    justify-content: center;
   }
 
-  // ================
-  // Header styles
+  &-title {
+    margin-top: units(5);
+    max-width: 100%;
+  }
 
-  .hero {
-    @include u-margin-bottom(0);
-    @include u-padding-y(5);
-    @include u-bg("base-lightest");
-
-    // If is the guide home
-    h1 {
-      @include u-font("sans", "xl");
-      @include u-text("heavy");
-      @include u-text("primary-darker");
-      a {
-        @include u-text("primary-darker");
-        @include u-text("no-underline");
-      }
-    }
-    h2 {
-      @include u-font("sans", "lg");
-      @include u-text("heavy");
-      a {
-        @include u-text("primary-darker");
-        @include u-text("no-underline");
-      }
-    }
-    .deck {
-      @include u-margin(0);
-      @include u-margin-top("05");
-      @include u-font("sans", "lg");
-      @include u-text("normal");
-      @include u-text("primary-dark");
-      @include u-line-height("sans", 2);
-      @include u-maxw("desktop");
-    }
+  &-image {
+    height: units("card-lg");
+    margin-top: units(5);
+    max-width: units("mobile-lg");
   }
 }

@@ -7,18 +7,10 @@ authors:
   - denise-turner-roth
   - david-mader
 topics:
-  - product-management
-  - gsa
-  - infrastructure
+  - product-and-project-management
+  - cloud-and-infrastructure
   - innovation
-  - M3 Framework
-  - Modernization and Migration Management Framework
-  - Office of Management and Budget
-  - OMB
-  - us-general-services-administration
-  - Unified Shared Services Management
-  - white-house
-
+  - budgeting-and-performance
 ---
 
 > **Summary**: Today, we’re launching the M3 Framework to provide agencies with leading best practices for mission-support function modernizations and migrations.

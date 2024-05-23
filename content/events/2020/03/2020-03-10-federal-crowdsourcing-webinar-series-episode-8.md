@@ -18,10 +18,9 @@ end_date: 2020-03-10 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - challenges
-  - crowdsourcing
+  - challenges-and-prize-competitions
+  - crowdsourcing-and-citizen-science
   - innovation
-  - nasa
 
 # see all authors at https://digital.gov/authors
 authors: 

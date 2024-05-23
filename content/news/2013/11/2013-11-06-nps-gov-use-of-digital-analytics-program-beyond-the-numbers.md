@@ -1,19 +1,18 @@
 ---
 slug: nps-gov-use-of-digital-analytics-program-beyond-the-numbers
 date: 2013-11-06 13:04:29 -0400
-title: 'NPS.gov Use of Digital Analytics Program: Beyond the Numbers'
-summary: 'The National Park Service website, NPS.gov, is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country,'
+title: "NPS.gov Use of Digital Analytics Program: Beyond the Numbers"
+summary: "The National Park Service website, NPS.gov, is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people."
 authors:
   - marina-fox
 topics:
-  - metrics
-  - our-work
-  - digital-analytics-program
-  - NPS
-  - us-department-of-the-interior
+  - analytics
+
 ---
 
-[{{< legacy-img src="2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/NPS-logo.jpg)The National Park Service website, [NPS.gov](http://www.nps.gov/), is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov receives nearly 50 million page views per month during the peak summer season, when visitors are planning their vacations.
+The National Park Service website, [NPS.gov](http://www.nps.gov/), is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov receives nearly 50 million page views per month during the peak summer season, when visitors are planning their vacations.
+
+{{< legacy-img-right src="2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="The National Park Service logo is in the shape of an arrowhead, with a mountain, tree, and buffalo, and the name of the agency." >}}
 
 In February 2013, the NPS migrated from Adobe SiteCatalyst to the Digital Analytics Program (DAP) solution. From the very beginning, our goal has been to give content authors the necessary tools and knowledge to use analytics to gain an understanding of how visitors are using their pages and where they can make improvements to their content.
 
@@ -25,10 +24,10 @@ To further help our DAP users, an analytics team looked at some of the more comm
   * Using a weighted sort on the bounce rate to figure out what content might need improving
   * Understanding the Navigation Summary reports to see the visitor’s path on a site and adjust content accordingly
 
-[{{< legacy-img src="2013/11/NPS1.jpg" alt="National Park Service screen shot of the teachers web page" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/NPS1.jpg)
+{{< legacy-img src="2013/11/NPS1.jpg" alt="National Park Service screen shot of the teachers web page" >}}
 
 Education Portal for teachers, which was promoted through many digital avenues such as email, promotional web links, social media, etc.
 
 To help us determine which promotional methods were most successful and at what times of the day (this was especially important for social media posts), as well as which methods we should focus on for the next promoted event, we set up a campaign and used the results to make those conclusions. We also created a real-time dashboard to allow us to see the current number of visitors, active pages, visitor location, and through which campaign source visitors entered the site as the events were being promoted.
 
-By guest bloggers Ken Handwerger, PMP, Chief, Web Services Division, National Park Service and Judy Jaffie, Web Management Division, Office of Communications, National Park Service.
+_By guest bloggers Ken Handwerger, PMP, Chief, Web Services Division, National Park Service and Judy Jaffie, Web Management Division, Office of Communications, National Park Service._

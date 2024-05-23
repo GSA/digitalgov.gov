@@ -6,20 +6,9 @@ summary: 'The National Institute of Standards and Technology (NIST) wants YOU to
 authors:
   - jparcell
 topics:
-  - challenges
-  - mobile
-  - apps-challenges
-  - Census
   - challenges-and-prize-competitions
-  - epa
-  - mobile-ux-guideline-5
-  - national-institute-of-standards-and-technology
-  - native-apps
-  - NIST
+  - mobile
   - open-data
-  - thursday-mobile-products
-  - us-environmental-protection-agency
-  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 

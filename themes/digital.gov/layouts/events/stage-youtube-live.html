@@ -4,47 +4,86 @@
       <div class="grid-col-12 tablet:grid-col-9">
         <div class="video-box">
           <div class="youtube-player">
-            <iframe src="https://www.youtube.com/embed/{{- .Params.youtube_id -}}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
+            <iframe
+              src="https://www.youtube.com/embed/{{- .Params.youtube_id -}}?autoplay=1"
+              frameborder="0"
+              allowfullscreen="1"
+            ></iframe>
           </div>
         </div>
       </div>
       <div class="grid-col-12 tablet:grid-col-3">
         <div class="chat-box">
-          <iframe allowfullscreen="" height="561px" frameborder="0" src="https://www.youtube.com/live_chat?v={{- .Params.youtube_id -}}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
+          <iframe
+            allowfullscreen=""
+            height="561px"
+            frameborder="0"
+            src="https://www.youtube.com/live_chat?v={{- .Params.youtube_id -}}&embed_domain=digital.gov&output=embed"
+            scrolling="auto"
+          ></iframe>
         </div>
       </div>
     </div>
     <div class="grid-row tablet-lg:grid-gap-2">
       <div class="grid-col-12 tablet:grid-col-9">
         <div class="event-tools">
-          <a class="youtube" href="https://www.youtube.com/watch?v={{- .Params.youtube_id -}}" title="Watch on YouTube">
+          <a
+            class="youtube"
+            href="https://www.youtube.com/watch?v={{- .Params.youtube_id -}}"
+            title="Watch on YouTube"
+          >
             <strong>
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"></use>
+              <svg
+                class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                aria-hidden="true"
+                focusable="false"
+                role="img"
+              >
+                <use
+                  xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"
+                ></use>
               </svg>
               <span>Watch on YouTube</span>
             </strong>
           </a>
 
           {{- if (isset .Params "captions") -}}
-          <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}">
-            <strong>
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="{{ "uswds/img/sprite.svg#closed_caption" | relURL }}"></use>
-              </svg>
-              <span>View captions</span>
-            </strong>
-          </a>
+            <a
+              class="captions"
+              href="{{- .Params.captions -}}"
+              title="Captions for the {{ .Title -}}"
+            >
+              <strong>
+                <svg
+                  class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                  aria-hidden="true"
+                  focusable="false"
+                  role="img"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#closed_caption" | relURL }}"
+                  ></use>
+                </svg>
+                <span>View captions</span>
+              </strong>
+            </a>
           {{- end -}}
         </div>
       </div>
       <div class="grid-col-12 tablet:grid-col-3">
         <div class="event-tools">
           <p class="notice">
-            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-              <use xlink:href="{{ "uswds/img/sprite.svg#flag" | relURL }}"></use>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#flag" | relURL }}"
+              ></use>
             </svg>
-            You'll need to sign in to Google to chat. All chats will be archived alongside the video.
+            You'll need to sign in to Google to chat. All chats will be archived
+            alongside the video.
           </p>
         </div>
       </div>

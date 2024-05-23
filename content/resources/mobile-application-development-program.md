@@ -33,7 +33,7 @@ authors:
           See what other agencies are doing in the mobile space on the <a href="https://www.usa.gov/mobile-apps">Federal Mobile Apps Directory</a>.
         </li>
         <li>
-          Learn how agencies created these mobile products with our more than <a href="{{< ref "/topics/mobile-gov-experience" >}}">25 Mobile Gov Case Studies</a>.
+          Learn how agencies created these mobile products with our more than <a href="{{< ref "/topics/mobile" >}}">25 Mobile Gov Case Studies</a>.
         </li>
         <li>
           Create your Statement of Work on <a title="Cracking the Mobile Contracting Nut" href="{{< ref "2013-05-06-cracking-the-mobile-contracting-nut.md" >}}">RFP-EZ </a>by leveraging our <a title="Mobile SOW and Developer Qualifications" href="{{< ref "mobile-sow-and-developer-qualifications.md" >}}">Sample Contracting Language for Mobile SOW&#8217;s</a> for product development (apps, mobile web), testing and code-sharing.

@@ -6,9 +6,8 @@ summary: " In this webinar, Laura Godfrey and Fedora Braverman share tips for
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - multilingual-community
   - design
-  - content
+  - content-strategy
   - plain-language
   - content-strategy
 # See all authors at https://digital.gov/authors
@@ -45,4 +44,4 @@ Before creating any piece of content, consider the following:
 
 The video below, from the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) huddle on designing for translation, is 26 minutes and 18 seconds long.
 
-{{< youtube AP0PJYySH_4 >}}
+{{< youtube id="AP0PJYySH_4" title="Designing for Translation - Multilingual Community Huddle" >}}

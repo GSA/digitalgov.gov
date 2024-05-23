@@ -46,4 +46,4 @@ We’ll highlight several case studies and solutions for the unique challenges s
 
 - [Learn more about the DHA Usability Lab »](https://health.mil/About-MHS/OASDHA/Defense-Health-Agency/Operations/Clinical-Support-Division/Connected-Health/Usability-Lab)
 
-**Questions about this event or future events?** Send them to digitalgovu@gsa.gov.
+**Questions about this event or future events?** Send them to digitalgov@gsa.gov.

@@ -6,7 +6,7 @@ title: "Touchpoints"
 summary: "Touchpoints offers a simple, flexible, and convenient way to start collecting customer feedback so you can focus on serving customers rather than managing surveys."
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://touchpoints.digital.gov/"
 
 # Images need to be 200x200px with a transparent background
@@ -25,8 +25,8 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - user-research
-  - cx
+  - research
+  - customer-experience
 
 # see all authors at https://digital.gov/authors
 authors:

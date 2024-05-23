@@ -18,7 +18,7 @@ end_date: 2019-07-23 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - devops
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -38,6 +38,6 @@ weight: 0
 
 Kevin Portanova, of the Real Estate Assessment Center (REAC) at the U.S. Department of Housing and Urban Development (HUD), will be presenting on their transition to DevOps methods&mdash;as well as the changes to the program and resulting organizational transformation&mdash;to improve services to the public. 
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._ 
 
 [Join the DevOps Community of Practice](https://digital.gov/communities/devops/) 

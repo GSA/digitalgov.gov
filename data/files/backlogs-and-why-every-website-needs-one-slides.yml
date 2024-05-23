@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/backlogs-and-why-every-website-needs-one-slides.pptx
+  # File shortcode: {{< asset-static file="backlogs-and-why-every-website-needs-one-slides.pptx" label="backlogs-and-why-every-website-needs-one-slides (PDF, 4 pages, 2MB)">}}
+  date     :  2023-10-11 20:52:15 -0400
+  uid      :  backlogs-and-why-every-website-needs-one-slides
+  format   :  pptx
+  

@@ -7,9 +7,10 @@ summary: "For the second year, college and university students are leveraging th
 # See all topics at https://digital.gov/topics
 topics:
   - innovation
-  - census
+  - diversity-equity-and-inclusion
   - open-data
   - emerging-tech
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - haley-ashcom
@@ -38,7 +39,7 @@ Learn more about the [problem statements](https://opportunity.census.gov/sprints
 
 ## Why Include Artists?
 
-This is the first time artists and designers are joining The Opportunity Project to use artwork, data visualizations, and design solutions addressing the issues of data accessibility and data equity. The idea of data equity encourages us to examine 6the ways in which data is collected, analyzed, interpreted, and distributed through a lens of equity, diversity, and inclusion, with particular consideration for  the nation’s most underrepresented, marginalized, and underserved communities.
+This is the first time artists and designers are joining The Opportunity Project to use artwork, data visualizations, and design solutions addressing the issues of data accessibility and data equity. The idea of data equity encourages us to examine the ways in which data is collected, analyzed, interpreted, and distributed through a lens of equity, diversity, and inclusion, with particular consideration for  the nation’s most underrepresented, marginalized, and underserved communities.
 
 However, this is not the first time the U.S. Census Bureau has engaged art to  promote inclusion and accessibility. To increase participation in the 2020 Census, the [Census Accelerate Program](https://accelerate.census.gov/), through it’s [Creatives for the Count initiative](https://creativesforthecount.org/), activated designers and artists across the nation from 2018 to 2020 to engage hard-to-count communities in producing compelling and shareable digital [content](https://accelerate.census.gov/showcase/). With the inclusion of art as a medium, these teams have the power to engage individuals and families from any community in the nation, not just those with tech access and high literacy.
 

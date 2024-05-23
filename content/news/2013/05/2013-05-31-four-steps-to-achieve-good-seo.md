@@ -6,45 +6,35 @@ summary: 'Search Engine Optimization (SEO) is the active practice of improving a
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
+  - content-strategy
   - search-engine-optimization
 ---
 
-[{{< legacy-img src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle " >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png)Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally expect to find the most relevant results at the top of the search engine’s results page.
+Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally expect to find the most relevant results at the top of the search engine’s results page.
+
+{{< legacy-img-right src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle " >}}
 
 These four steps can help you achieve good SEO:
 
-  1. Register for the commercial search engines&#8217; webmaster tools.
+1. **Register for the commercial search engines&#8217; webmaster tools.**
 
   * Bing Webmaster [Tools](http://www.bing.com/toolbox/webmaster) and [Guidelines](http://www.bing.com/webmaster/help/webmaster-guidelines-30fba23a)
   * Google WebMaster [Tools](http://www.google.com/webmasters/) and [Guidelines](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35769)
 
-<ol start="2">
-  <li>
-    Follow search protocols to improve indexing.
-  </li>
-</ol>
+2. **Follow search protocols to improve indexing.**
 
   * [How to Create a Robots .txt File](http://www.robotstxt.org/)
   * [How to Create an XML Sitemap](http://www.sitemaps.org/) (tools: [Bing XML Sitemap Plugin](http://www.bing.com/webmaster/help/bing-sitemap-plugin-beta-f50bebf5) and [Google Sitemap Generator](https://code.google.com/p/googlesitemapgenerator/))
   * [How to Create Schema to Markup Structured Pages](http://schema.org/)
 
-<ol start="3">
-  <li>
-    Stay current with recommendations for improving SEO.
-  </li>
-</ol>
+3. **Stay current with recommendations for improving SEO.**
 
   * [The Beginner&#8217;s Guide to SEO ](http://www.seomoz.org/beginners-guide-to-seo)
   * [Collection of SEO-related documents from the Bing Ecosystem](http://www.bing.com/community/site_blogs/b/webmaster/archive/2011/04/13/collection-of-seo-related-documents-from-the-bing-ecosystem.aspx)
   * [Search Engine Land&#8217;s Guide to SEO](http://searchengineland.com/guide/seo)
   * [Google&#8217;s SEO Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf) (PDF, 4.12 MB, 32 pages, September 2010)
 
-<ol start="4">
-  <li>
-    Understand the building blocks of SEO.
-  </li>
-</ol>
+4. **Understand the building blocks of SEO.**
 
 There are key aspects of a website that need attention for search engines to identify, retrieve, and display the best content for a user’s search. The building blocks of good SEO include understanding:
 

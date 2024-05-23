@@ -4,13 +4,8 @@ date: 2014-01-02 13:39:35 -0400
 title: 'FCC&#8217;s Speed Test App'
 summary: 'Feeling the need for [more] speed? Well, so is the mobile team at the Federal Communications Commission. As part of the agency’s Measuring Broadband America Program, the FCC is looking to the crowd (that means you!) to help them assess America’s mobile broadband performance on a national scale. Their hope is'
 topics:
-  - code
+  - software-engineering
   - mobile
-  - FCC
-  - mobile
-  - mobile-apps
-  - mobile-gov
-  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/01/FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27.jpg" alt="FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27" >}}**Feeling the need for [more] speed?** Well, so is the mobile team at the [Federal Communications Commission](http://www.fcc.gov/).

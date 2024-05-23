@@ -1,101 +1,219 @@
 @use "uswds-core" as *;
 
-.collection{
-  @include u-margin-bottom('105');
-
-  h2{
-    @include u-margin(0);
-    @include u-margin-bottom(2);
-    @include u-font('sans', 'md');
-    @include u-text('semibold');
+// move to topics styles, this affects only on topics/{topic}
+.main-topic {
+  .dg-collection {
+    @include u-padding-y(1);
   }
 
-  p.deck{
-    @include u-margin(0);
-    @include u-margin-bottom(1);
-    @include u-font('sans', 'lg');
-    @include u-line-height('sans', 1);
-    @include u-text('light');
-  }
-
-  .external-link[href^=http]:not([href*=".gov"]):after {
-    background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
-    background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
-    background-size: 100%;
-    content: "";
-    display: inline-block;
-    height: .9em;
-    margin-bottom: -2px;
-    margin-left: .15rem;
-    width: .9em;
-  }
-
-  ul{
-    @include add-list-reset;
-    @include u-margin(0);
-    @include u-margin-bottom('105');
-    li{
-      @include u-margin-bottom('105');
-      @include u-maxw('tablet-lg');
-      @include u-font('sans', 'sm');
-      @include u-line-height('sans', 3);
-      @include u-display('flex');
-      @include u-flex('align-start');
-
-      // the DIV that wraps the icon in collections
-      .icon{
-        @include u-margin-top('1px');
-        @include u-margin-right(1);
-        img{
-          @include u-width(2);
-          @include u-maxw(2);
-          @include u-position('relative');
-          @include u-top('2px');
-        }
-      }
-
-      // the DIV that wraps the text used in collections
-      .copy{
-        & > div{
-          @include u-display('flex');
-          @include u-flex('align-center');
-          h3{
-            @include u-font('sans', 'sm');
-            @include u-line-height('sans', 4);
-            a{
-              @include u-text('no-underline', !important);
-              @include u-text('medium');
-              &:hover{
-                span{
-                  @include u-border-bottom('1px', 'blue-warm-70v', 'solid');
-                }
-              }
-            }
-          }
-        }
-
-        p{
-          @include u-margin-top(0);
-          a{
-            @include u-text('no-underline', !important);
-            @include u-text('medium');
-            &:hover{
-              span{
-                @include u-border-bottom('1px', 'blue-warm-70v', 'solid');
-              }
-            }
-          }
-        }
-
-      }
-      .members{
-        @include u-font('sans', 'xs');
-      }
+  // set h2 on topics-standard to be consistent with collection component h2's
+  #news_featured {
+    .main-topic__news-featured-header {
+      font-size: 1.5em;
+      font-weight: 700;
     }
   }
 }
 
-.main-topic .collection{
-  @include u-padding-y(1);
-  @include u-border-top('1px', 'gray-cool-40', 'solid');
+// Placeholder component to preserve current styles for future re-work
+// "Popular Guides and Resources" — https://digital.gov/ & https://digital.gov/resources
+.featured-collection {
+  margin-bottom: units("105");
+
+  h2 {
+    @include u-font("sans", "md");
+    @include u-text("semibold");
+    margin-bottom: units(2);
+  }
+
+  .icon {
+    margin-right: units(1);
+    margin-top: units("1px");
+    img {
+      @include u-position("relative");
+      @include u-top("2px");
+      max-width: units(2);
+      width: units(2);
+    }
+  }
+
+  // refactor code to 3 levels of nesting, bem-ify classes
+  ul {
+    @include add-list-reset;
+    margin: units(0);
+    margin-bottom: units("105");
+
+    li {
+      @include u-maxw("tablet-lg");
+      @include u-font("sans", "sm");
+      @include u-line-height("sans", 3);
+      @include u-display("flex");
+      @include u-flex("align-start");
+      margin-bottom: units("105");
+    }
+
+    // the DIV that wraps the icon in collections
+    .icon {
+      margin-right: units(1);
+      margin-top: units("1px");
+
+      img {
+        @include u-width(2);
+        @include u-maxw(2);
+        @include u-position("relative");
+        @include u-top("2px");
+      }
+    }
+
+    // the DIV that wraps the text used in collections
+    .copy {
+      & > div {
+        @include u-display("flex");
+        @include u-flex("align-center");
+
+        h3 {
+          @include u-font("sans", "sm");
+          @include u-line-height("sans", 4);
+
+          a {
+            @include u-text("no-underline", !important);
+            @include u-text("medium");
+
+            &:hover {
+              span {
+                @include u-border-bottom("1px", "blue-warm-70v", "solid");
+              }
+            }
+          }
+        }
+      }
+
+      p {
+        margin-top: units(0);
+
+        a {
+          @include u-text("no-underline", !important);
+          @include u-text("medium");
+
+          &:hover {
+            span {
+              @include u-border-bottom("1px", "blue-warm-70v", "solid");
+            }
+          }
+        }
+      }
+    }
+
+    .members {
+      @include u-font("sans", "xs");
+    }
+  }
+}
+
+// Wrapper component around .usa-collection
+.dg-collection {
+  padding-top: units(7);
+
+  &:first-of-type {
+    padding-top: units(0);
+  }
+
+  &__header {
+    margin: units(0);
+    padding: units(0);
+
+    h2,
+    h3,
+    h4 {
+      margin: units(0);
+    }
+
+    a {
+      @include u-color("gray-90");
+      @include u-text("no-underline");
+
+      &:hover {
+        @include u-text("underline");
+      }
+    }
+  }
+
+  &__more {
+    margin-bottom: units("05");
+    margin-top: units("05");
+    @include u-font("sans", "xs");
+    @include u-text("normal", !important);
+
+    a {
+      @include u-text("no-underline");
+
+      &:hover {
+        span {
+          @include u-border-bottom("2px", "solid", "accent-warm");
+        }
+      }
+    }
+  }
+
+  &__footer {
+    @include u-padding-top(2);
+  }
+}
+
+.usa-collection {
+  @include u-font("sans", "md");
+  @include u-text("normal");
+
+  &__item--full-width {
+    max-width: 100%;
+
+    .usa-collection__description {
+      max-width: 100%;
+    }
+  }
+
+  &__img-wrapper {
+    margin-right: units(1);
+    margin-top: units("2px");
+    img {
+      @include u-width(2);
+      @include u-maxw(2);
+      @include u-position("relative");
+      @include u-top("2px");
+    }
+  }
+
+  &__body {
+    padding-top: units(0);
+  }
+
+  h2,
+  h3,
+  h4 {
+    margin: units(0);
+  }
+
+  h2 {
+    padding-top: units(0);
+  }
+
+  h4 {
+    padding-top: units("2px");
+  }
+
+  &__header {
+    a {
+      @include u-text("no-underline");
+
+      &:hover {
+        @include u-text("underline");
+      }
+    }
+  }
+
+  &__meta-item {
+    .usa-icon {
+      margin-right: units("2px");
+    }
+  }
 }

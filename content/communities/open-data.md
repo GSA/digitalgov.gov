@@ -20,7 +20,6 @@ redirectto: https://resources.data.gov/open-data/
 
 # see all topics at https://digital.gov/topics
 topics:
-  - data
   - open-data
 
 # Weight: controls how this page appears across the site
@@ -35,7 +34,7 @@ community_list:
     subscribe_email_body: "Subscribe Open-Data"
     members: 925
     emails_per_week: 1
-    blurb: "Open Data community members"
+    join_cop_button: "Open Data community members"
 
 ---
 

@@ -1,0 +1,39 @@
+@media print {
+  // chrome print hack
+  * {
+    transition: none !important;
+  }
+
+  .usa-banner {
+    display: none !important;
+  }
+
+  .usa-menu-btn {
+    display: none !important;
+  }
+
+  .usa-nav {
+    display: none !important;
+  }
+
+  #newsletter-signup {
+    display: none !important;
+  }
+
+  .toc,
+  .usa-in-page-nav {
+    display: none !important;
+  }
+
+  .touchpoints-form-container {
+    display: none !important;
+  }
+
+  .usa-identifier {
+    display: none !important;
+  }
+
+  .usa-footer {
+    display: none !important;
+  }
+}

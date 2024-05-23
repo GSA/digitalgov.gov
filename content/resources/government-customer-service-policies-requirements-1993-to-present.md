@@ -4,15 +4,15 @@ date: 2016-01-07 5:41:53 -0400
 title: "Government Customer Service Policies & Requirements: 1993 to Present"
 summary: "A list of government customer service policies and requirements."
 topics:
+  - customer-experience
   - policy
-  - customer-service
 authors:
   - rflagg
 ---
 
-December 2021 — [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
+August 2023 — [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 
-August 2021 — [OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)
+December 2021 — [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) and related [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
 
 December 2018 - [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)
 
@@ -57,7 +57,7 @@ January 1993 — [Government Performance and Results Act (GPRA)](https://obamawh
 
 Expands the list of High Impact Service Providers (HISPs) and builds a framework for federal agencies to collaborate around delivering services related to certain significant "life events" such as retiring, or filing taxes.
 
-**August 2021 — [OMB Circular A-11 Section 280 (PDF, 11 pages, August 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)**
+**August 2023 — [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf))**
 
 Establishes standards for federal agencies to collect customer feedback.
 

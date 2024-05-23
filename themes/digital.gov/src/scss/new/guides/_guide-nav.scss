@@ -1,116 +1,97 @@
 @use "uswds-core" as *;
 
-.guide-nav-box {
-	@include u-display('none');
-	@include at-media('tablet-lg') {
-		@include u-display('block');
-	}
+.dg-guide__nav-container {
+  display: none;
+  flex-shrink: 0;
+  margin: units(5) units(2) units(0) units(2);
+  position: sticky;
+  top: units(15);
+  width: 10rem;
 
-	ul.guide-nav{
-		@include u-margin-bottom(3);
-		@include u-font('sans', 'xs');
-		li{
-			a{
-				@include u-padding-y(1);
-				@include u-text('black');
-				@include u-text('normal');
-				@include u-text('no-underline');
-				// Flex for the arrows
-				@include u-display('flex');
-				@include u-flex('align-center');
+  @include at-media("tablet") {
+    display: block;
+  }
 
-				&:hover{
-					@include u-text('underline');
-				}
-			}
-			.usa-current{
-				@include u-bg('primary');
-				@include u-text('white');
-				&:hover{
-					@include u-text('white');
-					@include u-bg('primary-dark');
-				}
-			}
-		}
+  @include at-media("desktop") {
+    margin: units(5);
+    width: 15rem;
+  }
 
-		// Hides any nested ul that is not part of the current tree
-		li{
-			ul{
-				@include u-display('none');
-			}
-		}
+  ul.dg-guide__nav-list {
+    @include u-font("sans", "xs");
+    border-radius: units(2);
+    overflow-x: hidden;
 
-		// When any child item is selected, the top-most parent li gets the .current class (via javascript)
-		li.current {
-			@include u-position('relative');
-			// @include u-border-top('1px', 'base-light', 'solid');
-			& > a{
-				@include u-text('semibold');
-				&:after{
-					content: "";
-					@include u-border-left('05', 'primary-darker', 'solid');
-					@include u-radius(0);
-					@include u-position('absolute');
-					@include u-top(0);
-					@include u-bottom(0);
-					@include u-left(0);
-					@include u-z(100);
-				}
-			}
-			a{
-				span.arrow-right{
-					@include u-margin-left('105');
-					transform: rotate(90deg);
-				}
-			}
-			a.usa-current{
-				@include u-position('static');
-			}
+    li {
+      font-weight: font-weight("medium");
 
+      a {
+        @include u-padding-y(2);
+        @include u-text("black", "normal", "no-underline");
 
-			ul{
-				@include u-display('block');
-			}
-		}
+        &:focus {
+          border: units("05") solid color("primary");
+          border-radius: units(2);
+          outline: 0;
+        }
 
-		// Adding arrows to any li that has child elements.
-		li{
-			@include u-text('medium');
-			a{
-				.arrow-right{
-					@include u-margin-left(1);
-					@include u-width('105');
-					@include u-height(2);
-					@include u-display('inline-block');
-					background-image: url('../uswds/img/angle-arrow-right-black.svg');
-					background-size: .49rem;
-					background-repeat: no-repeat;
-					background-position: center bottom;
-				}
-			}
-			.usa-current{
-				.arrow-right{
-					background-image: url('../uswds/img/angle-arrow-right-white.svg');
-				}
-			}
+        &:hover {
+          text-decoration: none;
+        }
+      }
 
-			// Styles for nested li tags, at each level
-			li{
-				@include u-text('normal');
-				@include u-font('sans', 'xs');
-				a{
-					.arrow-right{
-						@include u-margin-left('05');
-						background-size: .42rem;
-					}
-				}
-				li{
-					@include u-font('sans', '2xs');
-					li{
-						@include u-font('sans', '3xs');
-					}
-				}
-			}
-		}
-	}
+      .dg-current {
+        background-color: color("gray-cool-4");
+        font-weight: font-weight("semibold");
+      }
+
+      .usa-current {
+        background-color: color("primary");
+        color: color("white");
+
+        &:hover {
+          background-color: color("blue-warm-60v");
+          color: color("white");
+        }
+      }
+    }
+
+    li.current {
+      & > a {
+        font-weight: font-weight("semibold");
+      }
+    }
+
+    li.usa-sidenav__item {
+      a {
+        &:not(.usa-current) {
+          color: color("gray-cool-90");
+        }
+
+        &:hover:not(.usa-current) {
+          color: color("blue-warm-60v");
+        }
+      }
+    }
+
+    // * After first top level link, indent following subnav links to show visual hierarchy
+    & > li.usa-sidenav__item:not(:first-child) a:not(.usa-button) {
+      padding-left: 2rem;
+    }
+
+    // * Indent sublist links for current page to show visual hierarchy
+    ul.usa-sidenav__sublist li.usa-sidenav__item a:not(.usa-button) {
+      padding-left: 2.75rem;
+    }
+
+    li.usa-sidenav__item--read {
+      background-color: color("gray-cool-4");
+    }
+  }
+
+  .usa-sidenav {
+    .usa-current::after {
+      content: none;
+    }
+  }
 }

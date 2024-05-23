@@ -7,29 +7,20 @@ authors:
   - brian-forde
   - carrie-hessler-radelet
 topics:
-  - api
+  - application-programming-interface
   - mobile
-  - Digital Services Playbook
-  - GitHub
-  - mobile-ux-guideline-5
   - open-source
-  - peace-corps
-  - us-digital-service
-  - USDS
-
 ---
 
-{{< legacy-img src="2014/11/600-x-450-First-Aid-Kit-Alena-Brozova-iStock-Thinksotck-91519315.jpg" alt="600-x-450-First-Aid-Kit-Alena-Brozova-iStock-Thinksotck-91519315" >}}
+{{< legacy-img src="2014/11/600-x-450-First-Aid-Kit-Alena-Brozova-iStock-Thinksotck-91519315.jpg" alt="An open first aid kit." caption="Alena Brozova, iStock, Thinkstock" >}}
 
 Today, refilling your medicine cabinet with bandages and over the counter medicine from your local drugstore may seem like a trivial task, but for Peace Corps volunteers working in remote villages around the world, this task can be much more challenging. As we take steps to forge a 21st century Peace Corps, such as dramatically reducing the time it takes to complete a volunteer application from eight hours to less than one hour, we are also looking into ways to tap the ingenuity of volunteer developers to support our Peace Corps volunteers abroad.
 
-<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/11/600-x-263-Peace-Corps-PC-Medlink-text-response-on-Nokia-phone.jpg" alt="Peace Corps' PC Medlink SMS text response on a Nokia cell phone.">
+<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/11/600-x-263-Peace-Corps-PC-Medlink-text-response-on-Nokia-phone.jpg" alt="Three Peace Corps PC Medlink SMS text responses are seen on a Nokia cell phone.">
 
 One recent example of this was the development of Medlink, an SMS-based platform, allowing volunteers to text in requests for their medical kit refills to get supplies in a timely manner. An internal study showed that the overseas medical staff members spent up to eight hours a week responding to requests from Volunteers to resupply their medical kits that were being transmitted to medical units via emails, phone calls, and text messages. Peace Corps realized that a more efficient way to collect these requests and communicate with volunteers was needed. The health and safety of volunteers is our top priority, and we are always looking for new ways to improve internal processes.
 
 At a recent convention in Atlanta, the Peace Corps’ Director of Innovation met with several inspired developers to describe this global challenge. Excited, developers volunteered their time and skills to help improve the medical resupply process. The result is PC Medlink. As seen in the video, the application allows Volunteers to easily text in a request to refill supplies, allowing medical staff to focus on outreach, prevention, and treatment of volunteers, rather than administrative tasks.
-
-{{< youtube uNkwizhzMVA >}}
 
 This application followed many of the same steps outlined in the recently released [U.S. Digital Services Playbook](https://playbook.cio.gov/). We will continue to leverage open source, crowd-based solutions to better serve volunteers in the field.
 

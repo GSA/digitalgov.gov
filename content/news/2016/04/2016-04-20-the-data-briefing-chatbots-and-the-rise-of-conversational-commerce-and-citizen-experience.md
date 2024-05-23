@@ -6,22 +6,13 @@ summary: 'Ten months ago, I wrote about the rise of the post-app world in which 
 authors:
   - bbrantley
 topics:
-  - api
-  - data
-  - api
-  - augmented-reality
-  - chatbots
-  - cx
-  - customer-service
-  - cx
-  - data
-  - internet-of-things
-  - the-data-briefing
-  - United States Patent and Trademark Office
+  - application-programming-interface
+  - emerging-tech
+  - artificial-intelligence
+  - customer-experience
+  - open-data
   - user-experience
-  - USPTO
-  - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 Ten months ago, I wrote about the <a href="{{< ref "2015-06-24-the-api-briefing-government-apis-in-a-post-apps-world.md" >}}" target="_blank">rise of the post-app world</a> in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people to access information services and perform complicated online tasks. {{< legacy-img src="2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 
@@ -38,7 +29,12 @@ Here is how chatbots will bring value through conversational user experience. Pe
 
 The chatbots will need a lot of data to power their services. This is where U.S. government datasets and APIs come in. As discussed in earlier columns, the U.S. government provides essential data such as [weather information]({{< ref "2014-07-09-the-api-briefing-how-apis-provide-localized-information-noaas-weather-service-data-and-fccs-broadband-services-map.md" >}}), [census data]({{< ref "2015-06-03-the-api-briefing-make-it-an-api-the-census-bureaus-census-of-governments.md" >}}) and [business information]({{< ref "2015-03-25-the-api-briefing-free-federal-energy-and-economic-information-delivered-straight-to-your-spreadsheet.md" >}}). The challenge is that, even if some of the data is provided through APIs, there are many datasets that are only available as Excel spreadsheets and flat files. Federal agencies are making great strides in releasing more datasets in machine-readable code, but are the datasets and APIs readable by the chatbots?
 
-There is also another great opportunity for federal agencies. Chatbots, through good conversational user experience design, can improve how federal agencies interact with citizens. Chatbots promise reduced barriers to accessing government services through highly scalable services that people can access in a more natural manner. I am not sure which agencies are experimenting with machine learning in providing citizen services, but I believe that chatbots will be in the strategic plans of agencies shortly, both as a way to help fuel the emerging conversational commerce market and to provide better government service to the public._(Facebook, Google, Apple, Amazon and Microsoft are used for illustrative purposes and do not imply endorsement by the U.S. federal government or by any of the federal agencies.)_
+There is also another great opportunity for federal agencies. Chatbots, through good conversational user experience design, can improve how federal agencies interact with citizens. Chatbots promise reduced barriers to accessing government services through highly scalable services that people can access in a more natural manner. I am not sure which agencies are experimenting with machine learning in providing citizen services, but I believe that chatbots will be in the strategic plans of agencies shortly, both as a way to help fuel the emerging conversational commerce market and to provide better government service to the public.
+
+**Disclaimer**: The mention of Facebook, Google, Apple, Amazon, and Microsoft are used for illustrative purposes and do not imply endorsement by the U.S. federal government or by any of the federal agencies.
+
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
+
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

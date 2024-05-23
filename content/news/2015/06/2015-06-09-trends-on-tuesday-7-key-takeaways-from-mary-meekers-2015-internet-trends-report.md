@@ -1,23 +1,19 @@
 ---
 slug: trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report
 date: 2015-06-09 10:00:25 -0400
-title: 'Trends on Tuesday: 7 Key Takeaways From Mary Meeker&#8217;s 2015 Internet Trends Report'
-summary: ' Silicon Valley analyst Mary Meeker’s annual 2015 Internet Trends report has been released and is an exhaustive analysis of the world’s digital evolution (often mobile first driven) and how it is affecting business, culture'
+title: "Trends on Tuesday: 7 Key Takeaways From Mary Meeker's 2015 Internet Trends Report"
+summary: 'Silicon Valley analyst Mary Meeker’s annual 2015 Internet Trends report has been released and is an exhaustive analysis of the world’s digital evolution (often mobile-first driven) and how it is affecting business, culture, and information.'
 authors:
   - wsullivan
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - mobile
-  - mobile-ux-guideline-2
-  - mobile-ux-guideline-5
-  - mobile-first
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Government-Just-Beginning.jpg)
 
-Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](http://www.kpcb.com/internet-trends) has been released and is an exhaustive analysis of the world’s digital evolution (often [mobile first]({{< ref "2013-09-30-mobile-first.md" >}}) driven) and how it is affecting business, culture and information. [Previous years&#8217; reports]({{< ref "2014-06-03-trends-on-tuesday-mary-meekers-2014-internet-trends.md" >}}) have tracked emerging tech from mobile to 3D printing, and this year is no different.
+Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](http://www.kpcb.com/internet-trends) has been released and is an exhaustive analysis of the world’s digital evolution (often [mobile first]({{< ref "2013-09-30-mobile-first.md" >}}) driven) and how it is affecting business, culture, and information. [Previous years&#8217; reports]({{< ref "2014-06-03-trends-on-tuesday-mary-meekers-2014-internet-trends.md" >}}) have tracked emerging tech from mobile to 3D printing, and this year is no different.
 
 Here are some of the key highlights from the report for government agencies and mobile-focused people:
 

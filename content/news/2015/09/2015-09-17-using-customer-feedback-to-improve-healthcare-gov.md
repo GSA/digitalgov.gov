@@ -2,20 +2,21 @@
 slug: using-customer-feedback-to-improve-healthcare-gov
 date: 2015-09-17 11:10:00 -0400
 title: Using Customer Feedback to Improve HealthCare.gov
-summary: 'We recently polled the Customer Experience Community of Practice (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action. To learn how agencies such as the Department of Health and Human'
+summary: 'We recently polled the Customer Experience Community of Practice (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency.'
+
 authors:
   - jacqueline-snee
+
 topics:
-  - product-management
-  - Centers for Medicare and Medicaid Services
-  - cx
-  - customer-experience-community-of-practice
-  - cx
+  - product-and-project-management
+  - customer-experience
+  - information-collection
+
 ---
 
-{{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
+We recently polled the [Customer Experience Community of Practice](https://digital.gov/communities/customer-experience/) (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.
 
-We recently polled the [Customer Experience Community of Practice]({{< ref "customer-experience.md" >}}) (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.
+{{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-_ba_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="ba/iStock/Thinkstock" >}}
 
 To learn how agencies such as the Department of Health and Human Services use data to inform customer understanding and make program improvements, we invited Jon Booth, Director of Web and New Media at the Center for Medicare and Medicaid Services (CMS), to speak to the CX-COP via a webinar on [Using Customer Feedback to Improve HealthCare.gov](https://www.youtube.com/watch?v=4ZtfdD5RNac&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW). His presentation focused on three key areas:
 
@@ -36,17 +37,19 @@ Since it first launched, HealthCare.gov has had a “voice of the customer” to
   * First-click tests
   * Individual interviews
   * Focus groups
-  * Card sort tests {{< legacy-img src="2015/09/600-x-380-Clean-and-color-speech-balloons-with-simbols-danteddt-iStock-thinkstock-469163369.jpg" alt="Clean and color speech balloons with question, information, and chat symbols" caption="" >}} 
+  * Card sort tests
+
+{{< legacy-img src="2015/09/600-x-380-Clean-and-color-speech-balloons-with-simbols-danteddt-iStock-thinkstock-469163369.jpg" alt="Clean and color speech balloons with question, information, and chat symbols." caption="danteddt/iStock/Thinkstock" >}} 
 
 Some tips to prioritize qualitative feedback and receive actionable data:
 
-  * Ask the right question 
-      * If you ask for only negative responses, that will help identify pages that fail to meet users’ needs.
-      * Give users an opportunity to isolate comment types to associate feedback with specific issues (e.g., provide a list of the most common issues to categorize problems.)
-  * When analyzing feedback, visually display comments so key themes are easy to spot. (For example, Jon shared a word cloud.)
-  * Develop a “Pain Index.” This allows you to: 
-      * Identify pages with the most negative comments.
-      * Prioritize your workload. Where is the worst experience happening for your users?
+* Ask the right question 
+   * If you ask for only negative responses, that will help identify pages that fail to meet users’ needs.
+   * Give users an opportunity to isolate comment types to associate feedback with specific issues (e.g., provide a list of the most common issues to categorize problems.)
+* When analyzing feedback, visually display comments so key themes are easy to spot. (For example, Jon shared a word cloud.)
+* Develop a “Pain Index.” This allows you to: 
+   * Identify pages with the most negative comments.
+   * Prioritize your workload. Where is the worst experience happening for your users?
 
 ## Quantitative Feedback—Analytics Tools Assist in Customer Understanding
 
@@ -54,14 +57,14 @@ Booth and his team use a suite of analytics and testing tools to collect quantit
 
 Collectively, these tools allow them to:
 
-  * Collect “traditional” Web analytics (page views, unique users, returning users, paths through website, and ad clicks)
-  * Measure site performance and how long it takes for people to complete transactions
-  * Collect “events” or customer journeys, following where people go and what they click on
-  * Measure real-time website traffic
-  * Improve completion rates
-  * Implement a tag management system
-  * Perform A/B testing
-  * Build a dashboard integrating multiple data sources
+* Collect “traditional” Web analytics (page views, unique users, returning users, paths through website, and ad clicks)
+* Measure site performance and how long it takes for people to complete transactions
+* Collect “events” or customer journeys, following where people go and what they click on
+* Measure real-time website traffic
+* Improve completion rates
+* Implement a tag management system
+* Perform A/B testing
+* Build a dashboard integrating multiple data sources
 
 “One thing I love about working on the Web is that things are always changing. You always need to be looking out 6, 9, 12 months ahead to plan how you will handle the future,” Booth said.
 
@@ -71,14 +74,16 @@ Customer feedback from a variety of tools is reviewed daily by the content team,
 
 HealthCare.gov is supported by a matrix team. These contractors and federal employees have expertise in:
 
-  * Design
-  * Data analytics
-  * Usability testing
-  * Content development
-  * Research
-  * Marketing
-  * Editing
+* Design
+* Data analytics
+* Usability testing
+* Content development
+* Research
+* Marketing
+* Editing
 
 Based on analysis and user feedback, Booth engaged multiple design teams within CMS to develop [Styleguide.HealthCare.gov](http://styleguide.healthcare.gov/), which defines the common design framework to be used across all HHS websites. You can find images, style sheets, fonts and much more.
 
-To hear Booth’s presentation and learn about the specific analytics tools used by Jon and his team you can [watch the webinar recap video](https://www.youtube.com/watch?v=4ZtfdD5RNac&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW)._Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting]({{< ref "customer-experience.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos._
+To hear Booth’s presentation and learn about the specific analytics tools used by Jon and his team you can [watch the webinar recap video](https://www.youtube.com/watch?v=4ZtfdD5RNac&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW).
+
+_Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://digital.gov/communities/customer-experience/) (U.S. government (.gov, .mil, etc.) email address required), [visiting](https://digital.gov/communities/customer-experience/) the Community page and [viewing our playlist of on-demand training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW)._

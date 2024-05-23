@@ -6,13 +6,9 @@ summary: 'At the end of last year, DigitalGov posted an article predicting that 
 authors:
   - awichman
 topics:
-  - product-management
-  - monthly-theme
-  - cx
-  - customer-satisfaction
-  - customer-service
-  - Government Contact Center Council
-  - government-contact-centers
+  - product-and-project-management
+  - customer-experience
+  - contact-centers
 ---
 
 {{< legacy-img src="2015/04/600-x-230-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-chat-and-group-icons-from-NiroDesign-175617593.jpg" alt="Contact icons: envelope, handset, cell phone, at symbol, chat bubbles, group of figures" caption="" >}} 

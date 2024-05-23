@@ -6,21 +6,14 @@ summary: 'They say that life can be summed up as the process of a series of door
 authors:
   - gay-gilbert
 topics:
-  - content
-  - data
+  - content-strategy
+  - open-data
   - design
-  - product-management
+  - product-and-project-management
   - mobile
-  - audio-video
-  - data
-  - digital-audio-video-community
-  - mobile
-  - mobile-friendly
-  - mobile-gov
-  - user-centered-design
+  - human-centered-design
   - user-experience
-  - video
-  - video-production-pros-community
+  - multimedia
 ---
 
 > _This post was originally published on the [U.S. Department of Labor Blog](https://blog.dol.gov/)._

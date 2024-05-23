@@ -1,24 +1,13 @@
 ---
 slug: finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government
 date: 2015-06-01 11:10:30 -0400
-title: Finding the Best Mobile Moment Is the First Stepping Stone to Anytime, Anywhere Government
-summary: Mobile-friendliness is a must for government. But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the Department of Education and National Park Service have illustrated. Many agencies are thinking big things for 2015, but if your agency is struggling with that first mobile implementation, you will be asking yourself
+title: "Finding the Best Mobile Moment Is the First Stepping Stone to Anytime, Anywhere Government"
+summary: "Mobile-friendliness is a must for government. But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the Department of Education and National Park Service have illustrated."
 authors:
   - jparcell
 topics:
+  - software-engineering
   - mobile
-  - monthly-theme
-  - Internal Revenue Service
-  - ios
-  - IRS
-  - mobile-ux-guideline-5
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - 'Occupational Safety and Health Administration'
-  - OSHA
-  - us-department-of-veterans-affairs
-  - usa-gov
-  - VA
 ---
 
 Mobile-friendliness is a [must for government]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}). But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the [Department of Education]({{< ref "2015-02-12-building-brick-by-brick-ed-govs-website-redesign-and-mobile-implementation.md" >}}) and [National Park Service]({{< ref "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) have illustrated.

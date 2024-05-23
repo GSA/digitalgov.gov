@@ -1,34 +1,27 @@
 @use "uswds-core" as *;
 
 // Content settings
-
-.content{
+.content {
   @include u-margin-bottom(5);
 }
-.main-topic .content *{
+
+.main-topic .content * {
   @include u-measure(6);
 }
 
-.usa-prose{
-  a{
-    @include u-text('no-underline');
-    &:hover{
-      @include u-text('underline');
-    }
-  }
-
+.usa-prose {
   // Applies the arrow to all external links
   // Select all the links with href that start with "http" and do not contain ".gov"
   // See https://css-tricks.com/attribute-selectors/
-  a[href^=http]:not([href*=".gov"]):after {
-    background: url(../uswds/img/external-link.svg) no-repeat 0 0;
+  a[href^="http"]:not([href*=".gov"])::after {
+    background: url("../uswds/img/external-link.svg") no-repeat 0 0;
     background-size: 100%;
     content: "";
     display: inline-block;
-    height: .65em;
+    height: 0.65em;
     margin-bottom: -1px;
-    margin-left: .25rem;
-    width: .65em;
+    margin-left: 0.25rem;
+    width: 0.65em;
   }
 
   h2,
@@ -39,103 +32,53 @@
     @include u-margin-bottom(0);
   }
 
-
-  h3{
-    @include u-text('medium');
+  h3 {
+    @include u-text("medium");
   }
 
   // HR tags
-  hr{
+  hr {
     @include u-margin-y(3);
-    clear:both;
+    clear: both;
   }
 
-  // Lists
-  // ul{
-  //   li{
-  //     @include u-line-height('sans', 3);
-  //     ul,
-  //     ol{
-  //       @include u-margin-top(1);
-  //       @include u-margin-bottom('105');
-  //     }
-  //   }
-  // }
-
-  // Code
-  code{
-    @include u-padding-x('05');
-    @include u-padding-y('1px');
-    @include u-bg('gray-cool-3');
-    @include u-font('mono', 'xs');
-    @include u-line-height('mono', 1);
-    @include u-color('red-50');
-    @include u-border('1px', 'solid', 'base-lighter');
+  // Inline code
+  // Example: `/resources/guide-create-mobile-friendly-websites`
+  code {
+    @include u-padding-x(0.5);
+    @include u-bg("white");
+    @include u-font("mono", "xs");
+    @include u-line-height("mono", 1);
+    @include u-border("1px", "solid", "base-lighter");
     @include u-radius(sm);
   }
 
   pre {
     @include u-padding-x(3);
     @include u-padding-y(2);
+    @include u-padding-bottom("205");
     @include u-padding-right(4);
-    @include u-padding-bottom('205');
-    @include u-bg('gray-cool-3');
-    @include u-border('1px', 'solid', 'base-lighter');
-    @include u-color('indigo-warm-80');
-    @include u-radius('md');
-    @include u-font('mono', '2xs');
-    white-space: pre-wrap;       /* css-3 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    @include u-bg("base-lightest");
+    @include u-border("1px", "solid", "base-lighter");
+    @include u-color("indigo-warm-80");
+    @include u-radius("md");
+    @include u-font("mono", "2xs");
+    white-space: pre-wrap;
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
   }
 
   // Quotes
-  blockquote{
+  blockquote {
     @include u-margin-x(5);
-    @include u-measure(4);
+    @include u-measure(6);
     @include u-margin-left(0);
     @include u-padding-left(5);
-    @include u-border-left('05', 'solid', 'base-lighter');
+    @include u-border-left("05", "solid", "base-lighter");
   }
 
-
-  // tables
-  table{
-    @include u-margin-y(5);
-    @include u-font('sans', 'xs');
-    @include u-width('full');
-    tr{
-      th,
-      td{
-        @include u-padding-y(1);
-        @include u-padding-x('05');
-        vertical-align: top;
-        @include u-border-x(0);
-    		@include u-border-y('1px','base-light','solid');
-        a{
-    			@include u-text('no-underline');
-    			&:hover{
-    				span{
-    					@include u-text('underline');
-    				}
-    			}
-    		}
-        .icon{
-          @include u-width('205');
-        }
-      }
-      th{
-        @include u-text('left');
-    		@include u-text('bold');
-        @include u-border(0);
-    		@include u-padding-x('05');
-        @include u-border-top('2px','black','solid');
-      }
-    }
+  table tbody {
+    vertical-align: baseline;
   }
-
 }
 
 .usa-prose > *:first-child {

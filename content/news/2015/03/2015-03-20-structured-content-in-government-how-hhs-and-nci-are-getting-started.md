@@ -2,29 +2,19 @@
 slug: structured-content-in-government-how-hhs-and-nci-are-getting-started
 date: 2015-03-20 9:50:12 -0400
 title: 'Structured Content in Government: How HHS and NCI Are Getting Started'
-summary: 'Metadata, tagging, content modeling &hellip; they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed. If you’re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall content'
+summary: 'Metadata, tagging, content modeling ... they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed.'
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - content
-  - data
-  - mobile
-  - monthly-theme
-  - content-models
   - content-strategy
-  - digitalgov-university
-  - HHS
-  - metadata
-  - mobile-ux-guideline-1
-  - national-cancer-institute
-  - NCI
-  - open-and-structured-content-models
-  - united-states-department-of-health-and-human-services
+  - open-data
+  - mobile
+  - search-engine-optimization
 ---
 
-{{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
-
 Metadata, tagging, content modeling … they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed.
+
+{{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="hoodesigns, iStock, Thinkstock" >}}
 
 If you’re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall [content strategy]({{< ref "/topics/content-strategy" >}}). In practice, however, a lot depends on your agency’s culture, its technical resources, its existing practices, and the state of your content.
 
@@ -48,7 +38,9 @@ The team saw a “huge opportunity” to integrate the new content types into a 
 
 ## NCI: New Content Structure for a Responsive Website
 
-{{< legacy-img src="2015/03/250-x-444-responsive-redesign-of-CancerGov-homepage-on-Android-smart-phone.jpg" alt="The Cancer.gov homepage on an Android smart phone" >}}At NCI, a responsive redesign of [Cancer.gov](http://www.cancer.gov/) was the impetus for improving content structure—content needs a consistent structure to work properly on a responsive site. Some content was already well-structured, but other material on the site did not have consistent structure or metadata. Since content on Cancer.gov is not centrally managed, that adds to the challenge.
+{{< legacy-img-right src="2015/03/250-x-444-responsive-redesign-of-CancerGov-homepage-on-Android-smart-phone.jpg" alt="The Cancer.gov homepage on an Android smart phone" >}}
+
+At NCI, a responsive redesign of [Cancer.gov](http://www.cancer.gov/) was the impetus for improving content structure—content needs a consistent structure to work properly on a responsive site. Some content was already well-structured, but other material on the site did not have consistent structure or metadata. Since content on Cancer.gov is not centrally managed, that adds to the challenge.
 
 NCI managers backed the project from the start. The challenge, Cheryan said, has been educating authors who are distributed throughout the organization and are used to publishing directly to the site.
 
@@ -62,7 +54,6 @@ Dadjou and Cheryan will discuss their projects at the upcoming DigitalGov Univer
 
 If you want to learn more about structured content, you can also join the cross-agency [Open and Structured Content Models Working Group](http://gsa.github.io/Open-And-Structured-Content-Models/), coordinated by GSA. The group created models for two common content types—[articles](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [events](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html)—to help government agencies publish consistently across different platforms and has offered webinars and workshops on content modeling.
 
-_Hannah Gladfelter Rubin is an Information Research Specialist with the Congressional Research Service at the Library of Congress. The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress.
-  _ 
+_Hannah Gladfelter Rubin is an Information Research Specialist with the Congressional Research Service at the Library of Congress. The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress._ 
   
 _Lynn Cheryan is a contractor from Sapient Government Services working closely with Lakshmi Grama, Acting Associate Director, Office of Dissemination and Digital Communications, Office of Communications and Public Liaison at NCI._

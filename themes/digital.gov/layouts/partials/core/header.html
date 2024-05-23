@@ -3,60 +3,90 @@
   <div class="usa-navbar">
     <div class="usa-logo" id="extended-logo">
       <em class="usa-logo__text">
-        <a href="{{- "/" | relURL -}}" title="{{- .Site.Title }} Home" aria-label="{{- .Site.Title }} Home">
-          <img class="logo-black" src="{{- "img/digitalgov-logo.svg" | absURL -}}" alt="{{ .Site.Title }} Logo" />
+        <a
+          href="{{- .Site.BaseURL -}}"
+          title="{{- .Site.Title }} Home"
+          aria-label="{{- .Site.Title }} Home"
+        >
+          <img
+            class="logo-black"
+            src="{{- "img/digitalgov-logo.svg" | absURL -}}"
+            alt="{{ .Site.Title }} Logo"
+            width="220"
+            height="36"
+          />
         </a>
       </em>
       <p class="sub-head display-none">{{- .Site.Params.description -}}</p>
-
     </div>
 
     <button class="usa-menu-btn">
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-2px" aria-hidden="true" focusable="false" role="img">
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-2px"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
         <use xlink:href="{{ "uswds/img/sprite.svg#menu" | relURL }}"></use>
-      </svg> Menu
+      </svg>
+      Menu
     </button>
   </div>
   <nav aria-label="Primary navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
-        <img src="{{ "/uswds/img/close.svg" | relURL }}" alt="close">
+        <img src="{{ "uswds/img/close.svg" | relURL }}" alt="close" />
       </button>
 
       {{- $currentNode := . -}}
       {{- $menuClasses := "usa-nav__primary-item" -}}
       <ul class="usa-nav__primary usa-accordion">
         {{- range .Site.Menus.primary -}}
-          <li class="usa-nav__primary-item {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} usa-current{{ end }}">
-            <a class="usa-nav__link" href="{{- .URL -}}"><span>{{- .Name -}}</span></a>
+          <li
+            class="usa-nav__primary-item {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }}
+              usa-current
+            {{ end }}"
+          >
+            <a class="usa-nav__link" href="{{- .URL -}}"
+              ><span>{{- .Name -}}</span></a
+            >
           </li>
         {{- end -}}
-      </ul><!-- .nav -->
+      </ul>
+      <!-- .nav -->
 
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           <li class="usa-nav__secondary-item">
-            <a href="{{- "/about/" | relURL -}}"><span>About</span></a>
-          </li>
-          <li class="usa-nav__secondary-item">
-            <a href="{{- "/subscribe/" | relURL -}}"><span>Subscribe</span></a>
-          </li>
-          <li class="usa-nav__secondary-item">
-            <a href="{{- "/contribute/" | relURL -}}"><span>Write for us</span></a>
-          </li>
-          <li class="usa-nav__secondary-item">
-            <a href="{{- "/about/contact/" | relURL -}}"><span>Contact</span></a>
+            <a href="{{- "subscribe" | relURL -}}"
+              ><span>Subscribe to our newsletter</span></a
+            >
           </li>
         </ul>
 
-        <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get" class="usa-search usa-search--small">
+        <form
+          accept-charset="UTF-8"
+          action="https://find.digitalgov.gov/search"
+          id="search_form"
+          method="get"
+          class="usa-search usa-search--small"
+        >
           <input name="utf8" type="hidden" value="&#x2713;" />
-          <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
+          <input
+            id="affiliate"
+            name="affiliate"
+            type="hidden"
+            value="digitalgov"
+          />
           <div role="search">
             <label class="usa-sr-only" for="query">Search small</label>
-            <input class="usa-input" id="query" type="search" name="query">
+            <input class="usa-input" id="query" type="search" name="query" />
             <button class="usa-button" name="commit" type="submit">
-              <img src="{{- "/uswds/img/usa-icons-bg/search--white.svg" | relURL -}}" class="usa-search__submit-icon" alt="Search" />
+              <img
+                src="{{- "uswds/img/usa-icons-bg/search--white.svg" | relURL -}}"
+                class="usa-search__submit-icon"
+                alt="Search"
+              />
             </button>
           </div>
         </form>

@@ -19,11 +19,8 @@ end_date: 2019-11-04 14:30:00
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
-  - product-management
-  - kanban
-  - scrum
-
+  - product-and-project-management
+  - software-engineering
 # see all authors at https://digital.gov/authors
 authors: 
   - alan-brouilette
@@ -95,4 +92,4 @@ _Learn more about how 18F can support your team at [https://18f.gsa.gov](https:/
 
 ---
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 

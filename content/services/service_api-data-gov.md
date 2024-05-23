@@ -6,7 +6,7 @@ title: "API.Data.gov"
 summary: "A free API management service for federal agencies."
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://api.data.gov/"
 
 # Images need to be 200x200px with a transparent background
@@ -30,6 +30,6 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - api
-  - data
+  - application-programming-interface
+  - open-data
 ---

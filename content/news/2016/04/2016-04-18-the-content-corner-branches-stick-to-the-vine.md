@@ -6,20 +6,10 @@ summary: A branch that does not stick to its source of nutrition will wither awa
 authors:
   - kyle-s-richardson
 topics:
-  - content
+  - content-strategy
   - accessibility
-  - DOE
-  - firstnet
-  - National Weather Service
-  - NWS
   - social-media
-  - socialgov
-  - the-content-corner
-  - us-digital-service
-  - united-states-department-of-energy
-  - USDS
   - user-experience
-
 ---
 
 A branch that does not stick to its source of nutrition will wither away and die. Just ask anyone who has received a bouquet of beautiful flowers about how long they really last. In the same way, as communicators we must stay connected to our audience, or we risk the chance of fading away into insignificance. {{< legacy-img src="2016/04/600-x-400-Napa-Valley-Grape-Vine-closeup-in-Spring-bbourdages-iStock-Thinkstock-106443252.jpg" alt="Rows of vines at a Napa Valley vineyard in spring" caption="" >}} 
@@ -50,4 +40,4 @@ _I’m no expert at this stuff; I simply want to provide my perspective. Us cont
 
 --- 
 
-_You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._ 
+_You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/content-strategy" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._ 

@@ -3,43 +3,37 @@ slug: creating-a-culture-of-engagement-webinar-recap
 date: 2016-03-18 11:00:57 -0400
 title: 'Creating a Culture of Engagement &#8211; Webinar Recap'
 summary: Employee engagement, evidenced by displays of dedication, persistence, effort and overall attachment to organization and mission, is a key factor in business success, but it can be a struggle for government organizations. Organizational leaders seeking to cultivate a culture of engagement need tangible examples of how to successfully move the needle in a positive direction.
+
 authors:
   - john-paul
   - rflagg
+
 topics:
-  - product-management
-  - cx
-  - cx
-  - DOL
-  - HUD
-  - OPM
-  - recaps
-  - us-bureau-of-engraving-and-printing
-  - us-department-of-labor
-  - united-states-department-of-housing-and-urban-development
-  - united-states-office-of-personnel-management
+  - product-and-project-management
+  - customer-experience
+
 ---
 
 Employee engagement, evidenced by displays of dedication, persistence, effort and overall attachment to organization and mission, is a key factor in business success, but it can be a struggle for government organizations. Organizational leaders seeking to cultivate a culture of engagement need tangible examples of how to successfully move the needle in a positive direction. The annual Employee Viewpoint Survey (EVS) can provide agencies with a tangible way to measure employee engagement.
 
 {{< legacy-img src="2016/03/600-x-338-Creating-the-Employee-Experience-Big-Benefits.jpg" alt="The Creating the Employee Experience slide from the Cultivating a Culture of Engagement PowerPoint presentation presentation. It gives 10 examples of things that make employees stay, such as feeling empowered, valued, and trusted, and when they are challenged, paid well, and receive mentoring." >}}
 
-This webinar provides a deeper look at workforce engagement in the Government. Led by DOL thought leader Mika Johanna Cross, a panel of experts from OPM, HUD, DOL, and BEP take us through how organizations can change their culture one small step at a time. Justin Johnson of OPM identifies challenges and success factors, such as understanding engagement as a product, and the need to make it a personal interaction. Towanda Brooks shares HUD’s success through leadership strategy with the “Department of Opportunity “and the importance of building trust. BEP strategist Kristin McNally reviews their six-step information sharing strategy for successfully engaging a highly diverse workforce. Finally, Sydney Rose describes the DOL “Cinderella story” of Secretary Perez’ efforts to personally listen to the Department’s widely distributed workforce, taking DOL from 2nd-to-last to the top 10 best places to work in the federal government.
+This webinar provides a deeper look at workforce engagement in the Government. Led by DOL thought leader Mika Johanna Cross, a panel of experts from the Office of Personnel Management (OPM), Department of Housing and Urban Development (HUD), Department of Labor (DOL), and Bureau of Engraving and Printing (BEP) take us through how organizations can change their culture one small step at a time. Justin Johnson of OPM identifies challenges and success factors, such as understanding engagement as a product, and the need to make it a personal interaction. Towanda Brooks shares HUD’s success through leadership strategy with the “Department of Opportunity “and the importance of building trust. BEP strategist Kristin McNally reviews their six-step information sharing strategy for successfully engaging a highly diverse workforce. Finally, Sydney Rose describes the DOL “Cinderella story” of Secretary Perez’ efforts to personally listen to the Department’s widely distributed workforce, taking DOL from 2nd-to-last to the top 10 best places to work in the federal government.
 
 According to this panel of experts, the main drivers of employee engagement are:
 
-  * Constructive performance conversations
-  * Career development and training opportunities
-  * Work-life balance
-  * Inclusive work environment
-  * Employee involvement
-  * Communication from management
+* Constructive performance conversations
+* Career development and training opportunities
+* Work-life balance
+* Inclusive work environment
+* Employee involvement
+* Communication from management
 
 A key to success is changing culture one small step at a time. While change is never easy, these strategies may make you rethink how your own organization approaches employee engagement.
 
 Our moderator, **Mika Johanna Cross**, is from the Office of Strategic Outreach, Veterans Employment and Training Service (VETS), U.S. Department of Labor (DOL). While working at OPM as a President’s Management Council Interagency Fellow, Mika helped create an Employee Engagement Community of Practice (eCOP) for [Unlocking Federal Talent](https://www.unlocktalent.gov/), OPM’s interactive data visualization dashboard that helps Federal agencies use data to create a more engaged workplace.
 
-## OPM
+## Office of Personnel Management
 
 Our first speaker, **Justin Johnson**, is ‎Executive Director of the Chief Human Capital Officers (CHCO) Council, ‎U.S. Office of Personnel Management (OPM). Justin works with senior officials across government to implement the President’s Management Agenda for People and Culture, including efforts to improve employee engagement, the Senior Executive Service and Federal hiring.
 
@@ -53,7 +47,7 @@ OPM manages the annual Employee Viewpoint Survey (EVS) and they’ve learned tha
 
 It’s all about people. When employees move past “roles” and learn to see managers as people, they understand that, when tough decisions come down, the manager is not trying to make things difficult, but it’s a real person who has to deliver bad news.
 
-## Tools from OPM
+### Tools from OPM
 
 To help agencies improve engagement, OPM offers:
 
@@ -61,7 +55,7 @@ To help agencies improve engagement, OPM offers:
   * [HR University—](https://hru.gov/index.aspx)targeted to HR, but applicable to all employees, particularly the “Manager’s Corner.” They offer a course on maximizing employee engagement. USDA, employees were encouraged to take it, and over 1200 USDA employees so far have taken the course.
   * In September 2015, OPM published [Engaging the Federal Workforce: How To Do It & Prove It](https://admin.govexec.com/media/gbc/docs/pdfs_edit/engaging_the_federal_workforce_white_paper.pdf).
 
-## HUD
+## Department of Housing and Urban Development
 
 Our next speaker, **Towanda Brooks**, is Chief Human Capital Officer from the U.S. Department of Housing and Urban Development (HUD). Towanda aligns human capital management strategies, policies and initiatives, including talent management, learning and development; recruitment and staffing; employee labor relations; and performance management and outcomes programs, in support of HUD’s mission.
 
@@ -75,7 +69,7 @@ A big challenge is how to connect engagement and customer experience. There is a
 
 HUD focused on helping managers learn how to effectively gather employee feedback. They developed a template to help managers spark those conversations, and train them on how to frame the conversation in a productive way, to surface problems so they can be addressed.
 
-## BEP
+## Bureau of Engraving and Printing
 
 Our third speaker, **Kristin McNally,** is a Human Capital, Engagement & Communications Strategist at the Bureau of Engraving and Printing (BEP), U.S. Department of the Treasury. Kristin leads Strategic Communications for BEP’s Human Capital and Engagement initiatives, which include their Human Capital Strategic Plan and longstanding Best Place to Work efforts.
 
@@ -91,7 +85,7 @@ They’ve sustained several organizational efforts around accountability, such a
 
 Employees don’t see top-level managers very often, so people used to think something bad was happening when top managers walked the floor. They’ve changed that perception by sharing what happens behind closed doors, being transparent, showing how feedback is used to make change. Their Associate Director for Management/CIO recently [won the Causey Award](http://federalnewsradio.com/management/2014/08/2014-causey-award-winner-will-levy-iii/) &#8211; he founded their Best Places to Work program.
 
-## DOL
+## Department of Labor
 
 Our final speaker, **Sydney Rose**, is Director and Chief Human Capital Officer at the Human Resources Center, Office of the Assistant Secretary for Administration and Management (OASAM), U.S. Department of Labor (DOL). Ms. Rose provides leadership, guidance, and technical expertise in management of human resources, including staff recruitment and development, personnel systems management, and labor management partnerships.
 
@@ -132,10 +126,6 @@ Kristin—Focus on their future vision, looking a decade ahead to imagine what t
   * Actively show people you are listening and taking action on their feedback &#8211; particularly if the changes may not be immediately visible to employees.
   * We’re all in this together!
 
-You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/03/Employee-Engagement-FINAL-FINAL-2_25_16.pptx) (PowerPoint presentation, 3.4 MB, 20 slides) or watch the webinar in its entirety to learn more about this topic.
+You can [view the presentation slides (PowerPoint presentation, 3.4 MB, 20 slides)](https://s3.amazonaws.com/digitalgov/_legacy-img/2016/03/Employee-Engagement-FINAL-FINAL-2_25_16.pptx) or watch the webinar in its entirety to learn more about this topic.
 
-[youtube=http://www.youtube.com/watch?v=THvdtQQURZ0&w=600]
-
-
-
-For more content like this, [join the Customer Experience Community (CX-COP)]({{< ref "customer-experience.md" >}}).
+For more content like this, [join the Customer Experience Community (CX-COP)](https://digital.gov/communities/customer-experience/).

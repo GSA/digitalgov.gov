@@ -1,12 +1,11 @@
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
 
-{{/*  Unique ID to link article to its title in screen readers  */}}
+{{/* Unique ID to link article to its title in screen readers */}}
 {{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
+
 
 <article
   class="card card-elsewhere card-linked"
-  data-edit-this="{{- $path -}}"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"
 >
@@ -21,23 +20,38 @@
         {{- end -}}
         {{- if $source -}}
           {{ $url := urls.Parse .Params.source_url }}
-          <em class="card__source source">— via <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{- else -}}{{- .Params.source_url -}}{{- end -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
+          <em class="card__source source"
+            >— via
+            <a
+              href="{{- if .Params.short_url -}}
+                {{- .Params.short_url -}}
+              {{- else -}}
+                {{- .Params.source_url -}}
+              {{- end -}}"
+              title="Read at {{ $source.Params.name -}}"
+              >{{- $source.Params.name -}}</a
+            ></em
+          >
         {{ end }}
       </p>
     </div>
   </div>
   <div class="card__media">
     {{/* Favicon
-    If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+      If the there is a custom favicon set in /sources/source_[slug].md, then use that...
+    */}}
     {{- if $source -}}
       {{- if $source.Params.logo -}}
-        {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
-        <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} logo">
+        {{- $src := (printf "logos/%s%s" $source.Params.logo "-logo.png") -}}
+        <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} logo" />
       {{- end -}}
 
-    {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
     {{- else -}}
-      <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source }} logo">
+      <img
+        src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}"
+        alt="{{- .Params.source }} logo"
+      />
     {{ end }}
   </div>
   <div class="card__meta">

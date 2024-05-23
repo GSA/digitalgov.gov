@@ -7,8 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - user-testing-and-research
-  - mobile
+  - research
   - user-experience
 ---
 

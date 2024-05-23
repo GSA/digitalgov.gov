@@ -8,12 +8,6 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - federal-emergency-management-agency
-  - fema
-  - mobile
-  - mobile-apps
-  - National Weather Service
-  - NWS
 ---
 
 No one wants to feel helpless in an emergency situation. To provide tips and assistance anytime, anywhere, the Federal Emergency Management Agency (FEMA) stepped up their mobile game.

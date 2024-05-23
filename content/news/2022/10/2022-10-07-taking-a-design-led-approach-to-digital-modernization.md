@@ -9,9 +9,9 @@ summary: Learn how GSA uses collaboration, empathy, and existing expertise to mo
 topics:
   - design
   - governance
-  - performance
-  - cx
-  - 21st-century-idea
+  - budgeting-and-performance
+  - customer-experience
+  - digital-service-delivery
 
 # See all authors at https://digital.gov/authors
 authors:

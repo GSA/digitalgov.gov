@@ -6,12 +6,9 @@ summary: 'Things you don&#8217;t know about this website, DigitalGov.gov, that i
 authors:
   - gwynne-kostin
 topics:
-  - content
-  - our-work
-  - analytics
   - content-strategy
-  - digitalgov-search
-  - gsa
+  - analytics
+  - search
 ---
 
 {{< legacy-img src="2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" caption="" >}} 

@@ -5,19 +5,14 @@
     @include u-font("sans", "xl");
     @include u-text("bold");
     @include u-text("indigo-warm-80");
+
     @include at-media("tablet-lg") {
-      @include u-font("sans", "xl");
+      @include u-font("sans", "lg");
     }
   }
+
   .card:first-child {
     @include u-margin-top(0);
-  }
-  footer {
-    @include u-margin-y(2);
-    @include u-text("center");
-    p {
-      @include u-maxw("full");
-    }
   }
 }
 
@@ -25,15 +20,17 @@
   @include u-margin-top(3);
   @include u-margin-bottom(5);
   @include u-padding(0);
-  display: flex;
-  flex-flow: row wrap;
   align-items: center;
   column-gap: units("2px");
 
+  display: flex;
+  flex-flow: row wrap;
+
   li {
-    @include add-list-reset();
+    @include add-list-reset;
     @include u-display("inline-block");
     @include u-text("center");
+
     a {
       @include u-text("blue-warm-70v");
       @include u-text("no-underline");
@@ -42,13 +39,19 @@
       @include u-flex("column");
       @include u-flex("justify-center");
       @include u-flex("align-center");
+
       &:hover {
         @include u-bg("blue-10");
       }
     }
   }
+
   li.active a {
     @include u-text("white");
     @include u-bg("blue-warm-70v");
   }
+}
+
+.dg-stream {
+  background-color: color("blue-warm-5");
 }

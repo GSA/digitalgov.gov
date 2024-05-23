@@ -18,6 +18,7 @@ end_date: 2019-09-18 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
+  - product-and-project-management
   - policy
 
 # see all authors at https://digital.gov/authors
@@ -49,7 +50,7 @@ In her role as Chief of the New Media and Web Policy Branch at the NIAID&mdash;o
 
 _This talk is hosted Digital.gov. Our team will send a reminder email prior to the event that includes your link to join the video. _ 
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 
 
 ---
 

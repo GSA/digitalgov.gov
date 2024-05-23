@@ -2,23 +2,19 @@
 slug: how-the-nationals-customer-experience-principles-can-be-a-home-run-for-agencies
 date: 2015-07-22 10:00:32 -0400
 title: How the Nationals’ Customer Experience Principles Can Be a Home Run for Agencies
-summary: ' In June, the new Customer Experience Community of Practice (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared. Develop and'
+summary: ' In June, the new Customer Experience Community of Practice (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience.'
+
 authors:
   - jacqueline-snee
   - rflagg
+
 topics:
-  - communities
-  - monthly-theme
-  - cx
-  - customer-experience-community-of-practice
-  - customer-satisfaction
-  - customer-service
-  - recaps
+  - customer-experience
 ---
 
-{{< legacy-img src="2015/07/600-x-400-Washington-Nationals-MLB-main-seal-logo.jpg" alt="Washington Nationals 2011 to present logo" >}}
+In June, the new [Customer Experience Community of Practice](https://digital.gov/communities/customer-experience/) (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared.
 
-In June, the new [Customer Experience Community of Practice]({{< ref "customer-experience.md" >}}) (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared.
+{{< legacy-img src="2015/07/600-x-400-Washington-Nationals-MLB-main-seal-logo.jpg" alt="Washington Nationals 2011 to present logo" >}}
 
 ## Develop and Share Core Values
 
@@ -47,7 +43,9 @@ The Nationals developed a TEAM Service Playbook which has everything employees n
 
 Stahl said that the rule of thumb is to “do anything that is ethical and legal to take care of guests.” This attitude empowers employees to do any reasonable thing they can to meet and exceed customer expectations.
 
-## Rewards and Recognition Matter {{< legacy-img src="2015/07/600-x-400-Winning-Team-Brian-Jackson-iStock-Thinkstock-108791935.jpg" alt="Winning Team" caption="" >}} 
+## Rewards and Recognition Matter
+
+{{< legacy-img src="2015/07/600-x-400-Winning-Team-Brian-Jackson-iStock-Thinkstock-108791935.jpg" alt="Winning Team" caption="Brian Jackson/iStock/Thinkstock" >}} 
 
 The Nationals created a very visible recognition program so that employees would understand what it means to deliver world-class service. Sharing awards and recognition with all employees removes perceptions of favoritism because everyone can participate and be recognized.
 
@@ -63,4 +61,4 @@ These gems from the baseball diamond can also work for government:
   * **Empower employees with the right tools.** The Nationals use the TEAM Service Playbook to help employees answer questions and respond to customer needs immediately. What processes or tools would help your employees more easily respond to customer needs?
   * **Be creative with rewards and recognition.** No, we can’t offer lunch with Bryce Harper as a reward, but there are “stars” in each organization who can spend time with “rising stars” and pass along wisdom and core values.
 
-This was the first learning session hosted by the CX-COP, which is a collaboration platform for government CX practitioners. [Register for our next event]({{< ref "2015-08-14-federal-student-aid-customer-experience-journey-a-recap.md" >}}) with Brenda Wensil from the Department of Education’s Federal Student Aid Office, and join the [CX-COP]({{< ref "customer-experience.md" >}}).
+This was the first learning session hosted by the CX-COP, which is a collaboration platform for government CX practitioners. [Register for our next event]({{< ref "2015-08-14-federal-student-aid-customer-experience-journey-a-recap.md" >}}) with Brenda Wensil from the Department of Education’s Federal Student Aid Office, and join the [CX-COP](https://digital.gov/communities/customer-experience/).

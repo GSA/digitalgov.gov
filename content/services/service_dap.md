@@ -6,7 +6,7 @@ title: "Digital Analytics Program"
 summary: "A free analytics tool for measuring digital services in the federal government."
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://digital.gov/guide/dap"
 
 # Images need to be at 200x200px with a transparent background
@@ -17,7 +17,7 @@ logo: "dap"
 
 # see all authors at https://digital.gov/authors
 authors:
-  - freddie-blicher
+  - 
 
 contact: dap@gsa.gov
 
@@ -29,10 +29,6 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - metrics
-  - product-management
   - analytics
-  - analytics-usa-gov
-  - dap
-  - digital-analytics-program
+  - product-and-project-management
 ---

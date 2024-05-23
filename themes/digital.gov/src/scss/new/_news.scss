@@ -1,30 +1,36 @@
 @use "uswds-core" as *;
 
 // Homepage — https://digital.gov/
-.home, .topics.taxonomy{
-  #news_featured{
-    .paper{
+.home,
+.topics.taxonomy {
+  #news_featured {
+    .paper {
+      @include u-bg("blue-warm-5");
       @include u-padding-y(1);
-      @include at-media('tablet') {
+
+      @include at-media("tablet") {
         @include u-padding-y(3);
       }
-      @include u-bg('blue-warm-5');
     }
-    header.page-head{
+
+    header.page-head {
       @include u-padding-y(2);
-      h2{
-        @include u-font('sans', 'xl');
-        @include at-media('tablet') {
-          @include u-font('sans', '2xl');
+
+      h2 {
+        @include u-font("sans", "xl");
+
+        @include at-media("tablet") {
+          @include u-font("sans", "2xl");
         }
       }
 
-      .newsletter{
-        p{
-          @include u-font('sans', 'md');
+      .newsletter {
+        p {
+          @include u-font("sans", "md");
         }
-        a{
-          @include u-radius('md');
+
+        a {
+          @include u-radius("md");
         }
       }
     }
@@ -32,8 +38,8 @@
 }
 
 // All news page — https://digital.gov/news/
-.news.section{
-  .paper{
-    @include u-bg('blue-warm-5');
+.news.section {
+  .paper {
+    @include u-bg("blue-warm-5");
   }
 }

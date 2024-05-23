@@ -7,7 +7,8 @@ summary: "Help create inclusive digital spaces with these tips for using self-de
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
-  - presentations
+  - communication
+  - digital-service-delivery
 
 slug: introduction-to-self-description
 
@@ -35,13 +36,16 @@ Self-descriptions are one way to make your events more inclusive. We want to rei
 
 ## Why use self-description?
 
-These self-descriptions help people who may not be able to see the presentation know some of the context and identity markers of the presenters. They also let attendees know that this is a space where people of different health statuses, ages, gender identities, family types, etc. are present and leading the conversation. There is a subtext within these introductions that turns sharing personal identity into a way to ensure that the event feels inclusive and welcoming to others.
+These self-descriptions help people who may not be able to see the presentation know some of the context and identity markers of the presenters. They also let attendees know that this is a space where people of different health statuses, ages, gender identities, family types, etc. are present and leading the conversation. There is a subtext within these introductions that turns sharing personal identity into a way to ensure that the event feels inclusive and welcoming.
+
+You may even learn about self-descriptors that are unfamiliar to you. It's important in these cases to research terms that are new to you on your own, rather than asking the speaker directly. For example, if someone describes themselves as "cisgender" (also “cis” for short) and you're unfamiliar with the word, a quick internet search would tell you that the adjective *cisgender* is a term to describe someone who identifies with the same gender that they were assigned at birth&mdash; just as *transgender* describes someone who identifies with a gender that is different from the one they were assigned at birth. This terminology has its roots in the sciences where the Latin prefix "*cis-*" is added to a word to indicate that something is "on this side of" or “on the same side,” while the Latin prefix "*trans-*" means that something is “on the other side of” or “across from."
 
 ## How to create your self-description
 
 What you include in your self-description is up to you. Some possibilities are:
 
-* Clothing color or background
+* Clothing or hair color
+* What type of room you're in, or background photo filter in use
 * Personal identity
 * Preferred pronouns
 

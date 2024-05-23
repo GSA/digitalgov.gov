@@ -21,7 +21,6 @@ end_date: 2020-06-10 15:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - professional-development
-  - cio-council
 
 # see all authors at https://digital.gov/authors
 authors: 

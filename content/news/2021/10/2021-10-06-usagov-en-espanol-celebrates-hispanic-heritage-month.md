@@ -2,21 +2,20 @@
 date: 2021-10-06 21:05:00 -0500
 kicker: Multilingual
 title: USAGov en Español Celebrates Hispanic Heritage Month
-summary: Since 2003, one program in GSA’s Technology Transformation Services
-  (TTS) has been leading the way in which the government serves the
-  Spanish-speaking community in the U.S. That program is USAGov en Español, the
-  official guide to government information and services in Spanish.
+summary: Since 2003, one program in GSA’s Technology Transformation Services (TTS) has been leading the way in which the government serves the Spanish-speaking community in the U.S. That program is USAGov en Español, the official guide to government information and services in Spanish.
+
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - content
-  - usagov
-  - gobiernousagov
-  - multilingual-community
+  - content-strategy
+  - diversity-equity-and-inclusion
+
 # See all authors at https://digital.gov/authors
 authors:
   - usagov-outreach-team
+
 slug: usagov-en-espanol-celebrates-hispanic-heritage-month
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

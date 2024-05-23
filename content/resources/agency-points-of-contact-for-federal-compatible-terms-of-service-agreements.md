@@ -1,15 +1,17 @@
 ---
 url: /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
 date: 2014-01-08 10:49:03 -0400
+redirectto: https://digital.gov/resources/federal-compatible-terms-of-service-agreements/
 title: Agency Points of Contact for Federal Compatible Terms of Service Agreements
 guide: terms-of-service
 summary: "The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements."
 deck: "The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements."
 topics:
   - terms-of-service
+
 ---
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 **The Terms of Service (TOS) program** at the U.S. General Services Administration (GSA) is no longer active. It applied to no-cost tools only.<br /><br />However, see the note in the blue box below on how to submit a new point of contact update.
 {{< /note >}}
 

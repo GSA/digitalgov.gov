@@ -10,7 +10,6 @@ summary: "Supporting and coordinating the use of artificial intelligence technol
 redirectto: https://coe.gsa.gov/communities/ai.html
 # see all topics at https://digital.gov/topics
 topics:
-  - data
   - artificial-intelligence
 
 # see all authors at https://digital.gov/authors

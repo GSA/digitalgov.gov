@@ -2,23 +2,23 @@
 slug: customer-experience-roundup-2015
 date: 2015-05-11 14:01:57 -0400
 title: Customer Experience Roundup 2015
-summary: 'This month, our round up focuses on customer experience (CX). As I was rounding up the CX events and articles we’ve shared on DigitalGov over the past year, I realized that CX touches all of the work we do. From Web to mobile to contact centers and social media, we need to not only be'
+summary: 'Customer experience touches all of the work we do. From Web to mobile to contact centers and social media, we need to not only be aware of our customers’ experiences but also respond quickly and make changes that will enhance their experiences.'
+
 authors:
   - apiazza
+
 topics:
-  - product-management
-  - monthly-theme
-  - centers-for-disease-control-and-prevention
-  - cx
-  - customer-satisfaction
-  - Export-Import Bank of the United States
-  - national-cancer-institute
-  - personas
+  - product-and-project-management
+  - diversity-equity-and-inclusion
+  - customer-experience
+  - customer-experience
+  - research
+
 ---
 
-{{< legacy-img src="2014/09/600-x-450-Positive-Feedback-Simile-face-icon-bayhayalet-iStock-Thinkstock-478052387.jpg" alt="Happy or positive feedback smiley face icon" caption="" >}} 
-
 This month, our round up focuses on customer experience (CX). As I was rounding up the CX events and articles we’ve shared on DigitalGov over the past year, I realized that CX touches all of the work we do. From Web to mobile to contact centers and social media, we need to not only be aware of our customers’ experiences but also respond quickly and make changes that will enhance their experiences.
+
+{{< legacy-img src="2014/09/600-x-450-Positive-Feedback-Simile-face-icon-bayhayalet-iStock-Thinkstock-478052387.jpg" alt="Happy or positive feedback smiley face icon" caption="bayhayalet/iStock/Thinkstock" >}} 
 
 ## Predictions and Trends
 

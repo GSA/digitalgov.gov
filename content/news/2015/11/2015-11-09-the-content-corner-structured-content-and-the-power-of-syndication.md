@@ -6,28 +6,12 @@ summary: 'A recent DigitalGov webinar on syndicated content and the recent achie
 authors:
   - tyrus-manuel
 topics:
-  - content
+  - application-programming-interface
+  - content-strategy
   - mobile
-  - monthly-theme
-  - api
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - content-syndication
-  - COPE
-  - fda
-  - HHS
-  - mobile
-  - mobile-ux-guideline-1
-  - national-institutes-of-health
-  - nih
-  - open-and-structured-content-models
-  - structured-content
-  - the-content-corner
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
 ---
 
-A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{< ref "/topics/open-and-structured-content-models" >}}). By offering critical health information via [syndication]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
+A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{< ref "/topics/content-strategy" >}}). By offering critical health information via [syndication]({{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
 
 <p>
   {{< legacy-img src="2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" >}}
@@ -136,5 +120,5 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </p>
   
   <p>
-    <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+    <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/content-strategy" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
   </p>

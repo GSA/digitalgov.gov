@@ -15,7 +15,7 @@ pronoun: ""
 email: rachel.flagg@gsa.gov
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Rachel is a digital strategist on the Service Design team in GSA's Office of Customer Experience (OCE)."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: 

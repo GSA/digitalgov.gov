@@ -7,10 +7,8 @@ authors:
   - ellen-langhans
   - tim-hudak
 topics:
-  - user-testing-and-research
-  - cx
-  - HHS
-  - USDA
+  - research
+  - customer-experience
 ---
 
 <p style="text-align: left;">

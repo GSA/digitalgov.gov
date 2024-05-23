@@ -6,16 +6,10 @@ summary: 'The Office of Information Policy (OIP) is pleased to announce its coll
 authors:
   - office-of-information-policy-doj
 topics:
-  - product-management
-  - strategy
-  - policy
-  - user-testing-and-research
-  - 18f
-  - FOIA
-  - gsa
-  - OIP
-  - us-department-of-justice
-  - us-general-services-administration
+  - product-and-project-management
+  - content-strategy
+  - research
+  - open-government
 ---
 
 The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s [18F](https://18f.gsa.gov/) team on the development of a National FOIA Portal.

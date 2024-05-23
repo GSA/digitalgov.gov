@@ -13,10 +13,8 @@ end_date: 2021-04-14 15:30:00 -0500
 topics:
   - user-experience
   - plain-language
-  - plain-language-community-of-practice
-  - usability-testing
   - usability
-  - content
+  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - ginny-redish

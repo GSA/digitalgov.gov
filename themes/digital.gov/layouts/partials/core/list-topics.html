@@ -1,46 +1,38 @@
-{{/*
-  ======================================
+{{/* ======================================
   TOPICS
   The styles for .list-topics
   (those topics that can be found on the article and event pages).
   ======================================
 */}}
 
-{{/* This outputs the topics used on a specific page.*/}}
+{{/* This outputs the topics used on a specific page. */}}
 
 {{/* Checks if there are topics applied to this page */}}
 {{- if .Params.topics -}}
-<div class="list-topics">
-  <header>
-    <h3>Related Topics</h3>
-  </header>
-  {{/* Sets the taxonomy we're pulling here */}}
-  {{- $taxonomy := "topics" -}}
-  {{- $topics := .Param $taxonomy -}}
-  {{/* Gets the number of topics that are applied */}}
-  {{- $length := $topics | len -}}
+  <article class="list-topics">
+    <h3 class="dg-promos__heading">Related Topics</h3>
+    {{/* Sets the taxonomy we're pulling here */}}
+    {{- $taxonomy := "topics" -}}
+    {{- $topics := .Param $taxonomy -}}
+    {{/* Gets the number of topics that are applied */}}
+    {{- $length := $topics | len -}}
 
-  {{/* For each of the topics,... */}}
+    {{/* For each of the topics,... */}}
 
-  {{/* NOTE: Many of the pages in digital.gov have duplicate topics after our last migration —— So we are running "uniq" on the array to remove duplicates */}}
-  {{- range $i, $e := uniq (sort $topics) -}}
-    {{- $slug := . -}}
+    {{/* NOTE: Many of the pages in digital.gov have duplicate topics after our last migration —— So we are running "uniq" on the array to remove duplicates */}}
+    {{- range $i, $e := uniq (sort $topics) -}}
+      {{- $slug := . -}}
 
-    {{/* Gets the Topics page */}}
-    {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
+      {{/* Gets the Topics page */}}
+      {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
 
-      {{/* Show all the topics */}}
-      {{/* <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a> */}}
+        {{/* Show all the topics */}}
 
-      {{/* Show only topics with weight 2 or 3 */}}
-      {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-        {{/* <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a> */}}
+        {{/* Show all topics, regardless of weight */}}
+        <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}"
+          >{{- .Title -}}</a
+        >
       {{- end -}}
-
-      {{/* Show all topics, regardless of weight */}}
-      <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>
-
     {{- end -}}
-  {{- end -}}
-</div>
+  </article>
 {{- end -}}

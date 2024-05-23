@@ -6,15 +6,9 @@ summary: 'At HIV.gov, we’re often asked if videos are effective tools for comm
 authors:
   - hiv-gov
 topics:
-  - content
+  - content-strategy
   - social-media
-  - video
-  - audio-video
-  - content
-  - hiv-gov
-  - social-media
-  - video
-  - video-production-pros-community
+  - multimedia
 ---
 
 <p>
@@ -137,4 +131,6 @@ For more resources on how HIV.gov is using video, <a class="external-link" href=
 
 _This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/numbers-why-video-effective)._
 
-_(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+---
+
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

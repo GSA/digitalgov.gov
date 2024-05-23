@@ -1,131 +1,134 @@
 @use "uswds-core" as *;
 
-.note{
-	@include u-margin-bottom(2);
-	@include u-padding-y(2.5);
-	@include u-padding-x(3);
-	@include u-text('light');
-	@include u-radius('sm');
-	h4{
-		@include u-margin-bottom('105');
-		@include u-margin-top(0);
-		@include u-font('sans', 'lg');
-		@include u-text('light');
-		i{
-			@include u-margin-right('05');
-		}
-	}
-	a{
-		@include u-text('no-underline');
-		&:hover{
-			@include u-text('no-underline');
-		}
-	}
+.dg-note {
+  background-color: color("blue-5");
+  border-left-color: color("blue-20");
+  border-left-style: solid;
+  border-left-width: 5px;
+  color: color("blue-70");
+  font-size: size("ui", "md");
+  font-weight: font-weight("light");
+  padding: units(3);
 
-	.highlight{
-		@include u-bg('yellow-5');
-	}
+  &__heading {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    font-family: family("sans");
+    font-size: units(2.5);
+    font-weight: font-weight("light");
+    margin-bottom: units(1.5) !important;
+    margin-top: 0;
+  }
 
-	strong{
-		@include u-text('medium');
-	}
-	p:last-child{
-		@include u-margin-bottom(0);
-	}
-	blockquote{
-		@include u-padding-left(0);
-		@include u-border(0);
-	}
-	ol,ul{
-		@include u-margin-y(0);
-		@include u-padding-left('205');
-		li{
-			@include u-margin-bottom(2);
-		}
-	}
-}
+  &__icon {
+    margin-right: units(1);
+  }
 
+  a {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: color("blue-70");
+    text-decoration: none;
 
-// For notes within list items
-li .note{
-	@include u-padding-y('05');
-	@include u-padding-x(1);
-}
+    &:hover {
+      @include u-text("no-underline");
+      color: color("blue-70");
+    }
+  }
 
+  strong {
+    font-weight: font-weight("medium");
+  }
 
-// Note — color settings
-.note{
-	@include u-bg('blue-5');
-	@include u-text('blue-70');
-	@include u-border-left('05', 'solid', 'blue-20');
-	a{
-		@include u-text('blue-70');
-		@include u-border-bottom('1px', 'solid', 'blue-70');
-		&:hover{
-			@include u-text('blue-80');
-		}
-	}
-	.highlight{
-		@include u-bg('blue-10');
-	}
-}
+  p:last-child {
+    margin-bottom: 0;
+  }
 
-// Activities  — color settings
-.note.activity{
-	@include u-bg('orange-warm-5');
-	@include u-text('orange-warm-60');
-	@include u-border-left('05', 'solid', 'orange-warm-30');
-	a{
-		@include u-text('orange-warm-60');
-		@include u-border-bottom('1px', 'solid', 'orange-warm-60');
-		&:hover{
-			@include u-text('orange-warm-80');
-		}
-	}
-	.highlight{
-		@include u-bg('orange-warm-10');
-	}
-}
+  blockquote {
+    border: 0;
+    padding-left: 0;
+  }
 
-// Activities  — color settings
-.note.alert{
-	@include u-bg('red-5');
-	@include u-text('red-60v');
-	@include u-border-left('05', 'solid', 'red-40v');
-	a{
-		@include u-text('red-60v');
-		@include u-border-bottom('1px', 'solid', 'red-60v');
-		&:hover{
-			@include u-text('red-80v');
-		}
-	}
-	.highlight{
-		@include u-bg('red-10');
-	}
-}
+  ol,
+  ul {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: units(2.5);
 
-// Comment — color settings
-.note.comment{
-	@include u-bg('blue-cool-10');
-	@include u-text('blue-cool-70');
-	@include u-border-left('05', 'solid', 'blue-cool-50');
-	h4{
-		i{
-			@include u-text('blue-cool-60');
-		}
-	}
-	a{
-		@include u-text('blue-cool-70');
-		@include u-border-bottom('1px', 'solid', 'blue-cool-50');
-		&:hover{
-			@include u-text('blue-cool-80');
-		}
-	}
-	.highlight{
-		@include u-bg('white');
-		@include u-bg('yellow-5');
-	}
-	blockquote{
-		@include u-font('serif', 'lg');
-	}
+    li {
+      margin-bottom: units(2);
+    }
+  }
+  // For notes within list items
+  li .note {
+    @include u-padding-y("05");
+    @include u-padding-x(1);
+  }
+  // Activities  — color settings
+  &--activity {
+    background-color: color("orange-warm-5");
+    border-left-color: color("orange-warm-30");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("orange-warm-60");
+
+    a {
+      border-bottom-color: color("orange-warm-60");
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
+      color: color("orange-warm-60");
+
+      &:hover {
+        color: color("orange-warm-80");
+      }
+    }
+  }
+  // Alert styles
+  &--alert {
+    background-color: color("red-5");
+    border-left-color: color("red-40v");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("red-60v");
+
+    a {
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
+      color: color("red-60v");
+
+      &:hover {
+        color: color("red-80v");
+      }
+    }
+  }
+  // Comment — color settings
+  &--comment {
+    background-color: color("blue-cool-10");
+    border-left-color: color("blue-cool-50");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("blue-cool-80");
+
+    a {
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
+
+      &:hover {
+        color: color("blue-cool-80");
+      }
+    }
+
+    blockquote {
+      font-family: family("serif");
+      font-size: size("ui", "lg");
+    }
+  }
+  &--disclaimer {
+    background-color: color("gray-cool-3");
+    border-left-color: color("gray-cool-20");
+    border-left-style: solid;
+    border-left-width: 5px;
+    color: color("gray-warm-90");
+  }
 }

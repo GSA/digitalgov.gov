@@ -19,7 +19,6 @@ end_date: 2019-06-25 15:15:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - innovation
-  - presidential-innovation-fellows
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -48,7 +47,7 @@ weight: 0
 
 Together with [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS), we are launching this series in conjunction with GSA’s 70th Anniversary. Curated by TTS’s [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs) (OPP), the [Presidential Innovation Fellows Program](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-presidential-innovation-fellows) (PIF), and [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU), these chats foster learnings and a collective voice on applied innovation. The series is produced and hosted by PIF leaders, Davar Ardalan and Joshua Di Frances.
 
-*Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).*
+*Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).*
 
 - [Meet Our Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/)
 - [On the Front Lines of Civic Tech](https://digital.gov/2018/12/19/looking-back-at-pifs-in-2018/)

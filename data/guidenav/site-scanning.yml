@@ -1,0 +1,13 @@
+showNextPrevious: true
+showInPageNav: false
+nav:
+  - title: "Overview"
+    path: "/guides/site-scanning/_index.md"
+  - title: "Access the data"
+    path: "/guides/site-scanning/data.md"
+  - title: "Understand the data"
+    path: "/guides/site-scanning/understand-the-data.md"
+  - title: "Technical details"
+    path: "/guides/site-scanning/technical-details.md"
+  - title: "Learn more about the program"
+    path: "/guides/site-scanning/learn-more-about-the-program.md"

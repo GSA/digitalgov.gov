@@ -7,12 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - user-experience
-  - cx
-  - customer-experience-community-of-practice
-  - cx
-  - Ex-Im Bank
-  - GAO
-  - us-government-accountability-office
+  - customer-experience
 ---
 
 Cross-agency collaboration in the federal government has become a prevalent topic, more widely spoken and written about in the recent past than ever before, thanks, in part, to a bigger-than-ever focus on customer experience as a way of thinking within government. Rising customer expectations, advances in technology, and recommendations from government oversight organizations continue to challenge agencies’ efforts to forge partnerships that benefit citizens and customers.

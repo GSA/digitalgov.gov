@@ -9,22 +9,8 @@ authors:
   - edgardo-morales
   - victoria-wales
 topics:
-  - social-media
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - facebook
-  - federal-emergency-management-agency
-  - fema
-  - GobiernoUSAgov
   - multilingual
-  - peace-corps
-  - recaps
-  - SBA
   - social-media
-  - Twitter
-  - us-small-business-administration
-  - usa-gov
-  - usagov
 ---
 
 Hispanics are one of [fastest growing demographics](http://www.pewresearch.org/fact-tank/2014/06/26/u-s-hispanic-and-asian-populations-growing-but-for-different-reasons/) in the U.S. But like any demographic, there are important nuances to consider when connecting with this audience. Insight into your audience’s motivations, behavior and preferences is key for anyone trying to engage with the public.

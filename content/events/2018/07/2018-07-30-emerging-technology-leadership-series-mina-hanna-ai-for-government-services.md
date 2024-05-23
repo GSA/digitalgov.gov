@@ -20,7 +20,6 @@ end_date: 2018-07-30 15:00:00 -0500
 topics: 
   - emerging-tech
   - artificial-intelligence
-  - artificial-intelligence-for-citizen-services-community
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -28,7 +27,7 @@ authors:
   - mina-hanna
 
 # YouTube ID
-youtube_id: 8b2i7H63rzc
+youtube_id: 
 
 # Make it better ♥
 ---

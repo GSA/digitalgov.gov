@@ -1,20 +1,25 @@
 ---
 slug: using-visual-content-to-drive-engagement
 date: 2014-06-23 10:00:41 -0400
-title: Using Visual Content to Drive Engagement
-summary: 'You’ve probably noticed the trend toward more visual content being shared across social platforms&mdash;pictures, infographics and how-to videos seem to be popping up everywhere. We certainly noticed that trend across several government social media properties, so when'
+title: "Using Visual Content to Drive Engagement"
+summary: "When USA.gov was preparing to launch our campaign introducing the 2014 Consumer Action Handbook (CAH), we wanted to create highly-visual social content to see how it would do in comparison to standard text and link social media content."
+
 authors:
   - jonathan-rubin
+
 topics:
-  - monthly-theme
+  - communication
+  - multimedia
   - social-media
-  - video
-  - writing
-  - Consumer Action Handbook
-  - usagov
+
 ---
 
-[{{< legacy-img src="2014/06/250-x-250-Army-CAH-Consumer-Action-Handbook.jpg" alt="Picture of soldier and a woman talking about how they like the Consumer Action Handbook" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/403-x-403-Army-CAH-Consumer-Action-Handbook.jpg)You’ve probably noticed the trend toward more visual content being shared across social platforms—pictures, infographics and how-to videos seem to be popping up everywhere.
+{{< note variant="alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
+To request other free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/).{{< /note >}}
+
+You’ve probably noticed the trend toward more visual content being shared across social platforms—pictures, infographics and how-to videos seem to be popping up everywhere.
+
+{{< legacy-img-right src="2014/06/250-x-250-Army-CAH-Consumer-Action-Handbook.jpg" alt="Picture of soldier and a woman talking about how they like the Consumer Action Handbook" >}}
 
 We certainly noticed that trend across several government social media properties, so when USA.gov was preparing to launch our campaign introducing the [2014 Consumer Action Handbook](http://promotions.usa.gov/my-cah.html) (CAH), we wanted to create highly-visual social content to see how it would do in comparison to standard text and link social content.
 
@@ -42,5 +47,8 @@ I was constantly surprised by how well some of our non-visual content did—some
   
 No matter how much I tried to make sense of why one image or video performed better than another, sometimes I just couldn’t figure it out. Occasionally you get lucky and a post you didn’t think was that special will win the Internet. Other times a post that you think has all the potential in the world, and follows all the best practices will flop. You won’t know what works best with your audience until you try it and measure the results.
 
-What has your experience been with visuals and multimedia?_**Jessica Milcetich** is a Social Media and Digital Strategist on the USA.gov marketing team at the U.S. General Services Administration (GSA)._
-_This article is part of this month&#8217;s editorial theme on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+What has your experience been with visuals and multimedia?
+
+_**Jessica Milcetich** is a Social Media and Digital Strategist on the USA.gov marketing team at the U.S. General Services Administration (GSA)._
+
+_This article is part of this month's editorial theme on Social Media. Check out more articles related to this theme._

@@ -8,12 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - facebook
-  - mobile
-  - mobile-first
-  - mobile-friendly
-  - social-media
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 How do you capture millennial and Hispanic eyes? Through their hands. (More specifically: their mobile devices, and the social apps within!). {{< legacy-img src="2015/11/600-x-400-Popular-social-media-icons-on-smartphone-device-screen-scyther5-iStock-Editorial-Thinkstock482565588.jpg" alt="Popular social media icons on smartphone device screen" caption="" >}} 

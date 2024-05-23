@@ -6,22 +6,11 @@ summary: 'The Office of the National Coordinator (ONC) is a small agency in the 
 authors:
   - adam-wong
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - strategy
-  - policy
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - crowdsourcing
-  - hhs
+  - crowdsourcing-and-citizen-science
+  - content-strategy
   - innovation
-  - office-of-minority-health
-  - office-of-the-national-coordinator-for-health-it
-  - omh
-  - onc
-  - prizes-and-competitions
-  - united-states-department-of-health-and-human-services
-  - user-centered-design
+  - human-centered-design
 ---
 
 The [Office of the National Coordinator](https://www.healthit.gov/) (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don’t have the funding and personnel of larger agencies, and, for the most part, this is fine. The entrenched industry stakeholders know what’s happening at ONC, our policies, toolkits and initiatives.

@@ -8,9 +8,6 @@ authors:
 topics:
   - social-media
   - security
-  - social-media
-  - socialgov
-  - Twitter
 ---
 
 <p>

@@ -7,31 +7,11 @@ primary_image: tropical-storm-darby-viirs-sat-miles-22jul2016-cropped
 authors:
   - toni-bonitto
 topics:
-  - code
-  - content
-  - mobile
-  - social-media
-  - app
-  - content
-  - content-syndication
-  - dhs
-  - federal-emergency-management-agency
-  - fema
-  - HHS
-  - mobile
-  - mobile-apps
+  - software-engineering
+  - content-strategy
   - multilingual
-  - national-oceanic-and-atmospheric-administration
-  - National Weather Service
-  - NOAA
-  - NWS
-  - sms
   - social-media
-  - thursday-mobile-products
-  - us-department-of-veterans-affairs
-  - VA
-  - white-house
-
+  - mobile
 ---
 
 According to recent Pew Research Center surveys, [45 percent of American adults have tablets and 68 percent have smartphones](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/). While the majority of smartphone owners use their mobile devices to keep up with breaking news and stay informed about what is happening in their communities, nearly half, [40 percent](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/), also reported using their smartphones to look up government services or information.
@@ -93,7 +73,7 @@ The app has 3 main sections:
 
 **Post-deployment Guide** <br />Provides content, links, and helpline phone numbers to assist responders who may need training and/or emotional support as they transition in returning to their regular duties.
 
-{{< youtube eaQ9GimkZbs >}}
+{{< youtube id="eaQ9GimkZbs" title="SAMHSA's Behavioral Health Disaster Response Mobile App" >}}
 
 The SAMHSA Behavioral Health Disaster Response App is available for free in the [iTunes App Store](https://itunes.apple.com/us/app/samhsa-behavioral-health-disaster/id787518271), [Google Play](https://play.google.com/store/apps/details?id=gov.hhs.samhsa.app.disaster), and [BlackBerry World](https://appworld.blackberry.com/webstore/content/47454887/). Since it launched in 2014, the app received a Silver Mobile Web Health Award from the National Health Information Center and has been downloaded over 8,200 times; use of the app, instead of printed Disaster Kits, [has been estimated to have saved the agency over $73,000 in printing and shipping costs](http://www.iqsolutions.com/our-work/behavioral-health-disaster-response-goes-digital).
 

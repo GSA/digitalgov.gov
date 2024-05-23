@@ -6,13 +6,8 @@ summary: 'It has finally happened: Mobile has bumped TV as America&#8217;s first
 authors:
   - tjohnson
 topics:
+  - emerging-tech
   - mobile
-  - BLS
-  - mobile
-  - mobile-app-development-program
-  - mobile-apps
-  - trends-on-tuesday
-  - us-bureau-of-labor-statistics
 ---
 
 {{< legacy-img src="2014/12/600-x-450-Shows-tablet-denphumi-iStock-Thinkstock-176622799.jpg" alt="concept image of a mobile tablet being used for a variety of tasks; television, movies, games, music, email, social networks, et cetera." caption="" >}} 

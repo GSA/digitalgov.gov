@@ -6,12 +6,7 @@ summary: " VISIT EVENT PAGE REGISTER NOW The U.S. Census Bureau this week will s
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - Census
-  - challenge-gov
-  - Commerce
-  - department-of-commerce
-  - united-states-census-bureau
+  - challenges-and-prize-competitions
 ---
 
 {{< legacy-img src="2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}

@@ -2,31 +2,22 @@
 slug: the-data-briefing-three-significant-events-in-federal-open-data-this-past-week
 date: 2016-03-23 10:00:52 -0400
 title: 'The Data Briefing: Three Significant Events in Federal Open Data This Past Week'
-summary: Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. In its Second Open Government National Action Plan (PDF, 639 KB, 5 pages, September 2014), the White House called for a government-wide policy on
+summary: Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public.
+
 authors:
   - bbrantley
 topics:
-  - api
-  - data
-  - monthly-theme
-  - agile
-  - api
-  - dhs
-  - national-action-plan-on-open-government
-  - Office of Management and Budget
-  - OMB
+  - application-programming-interface
+  - software-engineering
+  - open-government
   - open-data
   - open-source
-  - the-data-briefing
-  - us-department-of-veterans-affairs
-  - united-states-department-of-homeland-security
-  - United States Patent and Trademark Office
-  - USPTO
-  - VA
-  - white-house
+  - emerging-tech
 ---
 
-Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. {{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}} 
+Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public.
+
+{{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="Vicente Barcelo Varona/Hemera/Thinkstock" >}} 
 
 1. In its Second Open Government National Action Plan (<a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/new_nap_commitments_report_092314.pdf" target="_blank">PDF</a>, 639 KB, 5 pages, September 2014), the White House called for a government-wide policy on open source software. Recently, the Office of Management and Budget released a <a href="https://sourcecode.cio.gov/">draft policy</a> &#8220;to improve the way custom-developed government code is acquired and distributed moving forward.&#8221; Agencies are encouraged to use open source software and standards to develop government software. This software will also be made available to all federal agencies and, for some of the source code, to the public. As the policy states, the benefits will include creating communities of interest around the software and APIs* to crowdsource the maintenance and testing of the software. The policy is open to public comment. It will be interesting to see how the public responds to this unprecedented access to federal government software resources. 
 
@@ -36,11 +27,10 @@ Three recent stories demonstrate how opening up federal government data and usin
 
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}">APIs in Government</a> for more information._ 
 
+---
 
-*** 
+**Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
-_(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
-
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._ 
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._ 
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 

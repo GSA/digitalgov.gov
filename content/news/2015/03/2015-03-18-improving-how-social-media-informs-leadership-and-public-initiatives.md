@@ -7,10 +7,8 @@ authors:
   - corina-dubois
   - david-a-bray
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
-  - social-media
-  - Twitter
 ---
 
   {{< legacy-img src="2015/03/600-x-366-Social-Network-People-Andrew-Johnson-iStock-Thinkstock-164900909.jpg" alt="Social Network People" caption="" >}} 

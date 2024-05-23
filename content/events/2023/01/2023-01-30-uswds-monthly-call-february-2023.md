@@ -14,13 +14,14 @@ date: 2023-02-16 14:00:00 -0500
 end_date: 2023-02-16 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - uswds
   - open-source
   - design
 slug: uswds-monthly-call-february-2023
 # zoom, youtube_live, adobe_connect, google
-event_platform: zoom\
+event_platform: zoom
 primary_image: 2023-uswds-monthly-call-feb-title-card
+# YouTube ID
+youtube_id: ObqPeagLZ5o
 ---
 
 {{< asset-static file="uswds-monthly-call-february-2023.pptx" label="View the slides (PowerPoint presentation, 1.4 MB, 67 pages)" >}}

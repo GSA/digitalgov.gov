@@ -248,7 +248,7 @@ function imageData(format, uid, dimensions) {
   format   :  ${format}
   credit   :  
   caption  :  
-  alt      :
+  alt      :  
   `;
 }
 

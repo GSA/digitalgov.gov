@@ -2,21 +2,20 @@
 slug: trends-on-tuesday-the-digital-interface-without-a-face-is-coming-fast
 date: 2016-10-18 11:00:14 -0400
 title: 'Trends on Tuesday: The Digital Interface — Without a Face — Is Coming Fast'
-summary: The seemingly sci-fi world envisioned in the movie Her is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, chatbots and persistent audio assistants are now available, with software developer kits to expand the platforms. Amazon was first to market with their Echo device, and since have added the Echo
+summary: 'The seemingly sci-fi world envisioned in the movie Her is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, chatbots and persistent audio assistants are now available, with software developer kits to expand the platforms.'
 authors:
   - wsullivan
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - ai
   - artificial intelligence
-  - chatbots
-  - mobile
-  - trends-on-tuesday
-  - voice
+  - emerging-tech
+  - multimedia
 ---
 
-The seemingly sci-fi world envisioned in the movie [Her](http://www.imdb.com/title/tt1798709/) is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, [chatbots]({{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}) and persistent audio assistants are now available, with software developer kits to expand the platforms. {{< legacy-img src="2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 
+The seemingly sci-fi world envisioned in the movie [Her](http://www.imdb.com/title/tt1798709/) is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, [chatbots]({{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}) and persistent audio assistants are now available, with software developer kits to expand the platforms.
+
+{{< legacy-img src="2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="Kirillm, iStock, Thinkstock" >}} 
 
 Amazon was first to market with their [Echo device](http://amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E), and since have added the [Echo Dot](https://amazon.com/dp/B01DFKC2SO/), both using their voice assistant “Alexa” to allow users to play music, buy goods from Amazon, call for a cab, check the weather and other tasks—all just using their voice commands.
 
@@ -44,3 +43,5 @@ The majority of Echo users also continue using the device after purchase, even a
 Also, as AI, chatbots ([like the 15,000+ on Facebook](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)), and voice-to-text commands continue to evolve, the range of services available on these new platforms is going to exponentially expand—and very quickly. As William Gibson said, “The future is here, it’s just not evenly distributed.”
 
 You can read more about the [Experian Amazon Echo research](https://www.experian.com/innovation/thought-leadership/amazon-echo-consumer-survey.jsp) and share this blog post with your co-workers to start envisioning if there are potential future opportunities for your government digital services and content to be integrated into these interface-less digital experiences.
+
+_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

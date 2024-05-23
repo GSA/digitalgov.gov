@@ -9,7 +9,6 @@ source_url: "https://www.access-board.gov/ict/"
 topics:
   - accessibility
   - policy
-  - section-508
 
 authors:
   - apiazza

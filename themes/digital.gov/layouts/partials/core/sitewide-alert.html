@@ -1,12 +1,45 @@
-// Creates sitewide banner alert at top of page under the banner
-<section
-  class="usa-site-alert usa-site-alert--info" aria-label="Site alert">
-  <div class="usa-alert">
-    <div class="usa-alert__body">
-      <p class="usa-alert__text">
-        <strong>Hurricane Ian</strong> Guidance for U.S. Government Websites and Social Media
-        <a class="usa-link" href="{{- "/resources/hurricane-ian-guidance-for-us-government/" | relURL -}}">digital.gov/hurricane-ian</a>
-      </p>
-    </div>
-  </div>
-</section>
+{{ range .Site.Data.sitewide_alert }}
+  {{ $is_emergency := .is_emergency }}
+  {{ $has_icon := .has_icon }}
+  {{ $is_slim := .is_slim }}
+  {{ $header := .header }}
+
+  {{ $variant := "usa-site-alert--info" }}
+  {{ if $is_emergency }}
+    {{ $variant = "usa-site-alert--emergency" }}
+  {{ end }}
+
+  {{ if (eq .display_alert true ) }}
+    <section
+      class="dg-site-alert usa-site-alert {{ $variant }}
+      {{ if not $has_icon }}usa-site-alert--no-icon{{ end }}
+      {{ if $is_slim }}usa-site-alert--slim{{ end }}"
+      aria-label="Site alert"
+    >
+      <div class="usa-alert">
+        <div class="usa-alert__body">
+          {{ if $header }}
+            <h3 class="usa-alert__heading">{{- $header -}}</h3>
+          {{ end }}
+          {{ if eq (len .alerts) 1 }}
+            <p class="usa-alert__text">
+              {{ index (.alerts) 0 | markdownify }}
+            </p>
+          {{ else }}
+            <ul class="usa-list">
+              {{ range .alerts }}
+                <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
+
+<script type="text/javascript">
+  {{/*  Add the usa-link classes to for consistent link styles  */}}
+  const links = document.querySelectorAll(".dg-site-alert a");
+  links.forEach((link) => link.classList.add("usa-link"));
+</script>

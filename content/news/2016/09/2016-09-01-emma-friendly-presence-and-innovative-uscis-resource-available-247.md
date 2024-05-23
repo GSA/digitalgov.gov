@@ -7,16 +7,13 @@ authors:
   - andrea-sanchez
   - limary-suarez-pacheco
 topics:
-  - content
-  - product-management
-  - ai
+  - content-strategy
+  - product-and-project-management
   - artificial intelligence
-  - cx
-  - cx
+  - customer-experience
   - multilingual
-  - US Citizenship and Immigration Service
-  - USCIS
   - user-centered-design
+  - human-centered-design
   - user-experience
   
 ---

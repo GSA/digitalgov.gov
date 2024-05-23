@@ -3,6 +3,7 @@ url: /services/usa-gov-short-urls/
 
 # What is the name of the product or service?
 title: "Go.USA.gov"
+redirectto: https://blog.usa.gov/sunsetting-go.usa.gov-frequently-asked-questions
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
@@ -29,11 +30,6 @@ weight: 0
 # see all authors at https://digital.gov/authors
 authors:
   - russell-oneill
-
-# Topics that best describe this product or service
-topics:
-  - social-media
-  - content-strategy
 
 ---
 

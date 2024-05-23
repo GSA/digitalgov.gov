@@ -7,8 +7,8 @@ summary: 'After recently celebrating our Fifth Birthday and logo update, the Fed
 authors:
   - fedramp
 topics:
-  - content
-  - fedramp
+  - content-strategy
+  - security
 ---
 
 After recently celebrating our [Fifth Birthday and logo update]({{< ref "2017-06-13-fedramp-5th-anniversary.md" >}}), the FedRAMP PMO is excited to announce a few more changes to our website in the form of a new blog series and newly created [Tips & Cues page](https://www.fedramp.gov/?p=66820).

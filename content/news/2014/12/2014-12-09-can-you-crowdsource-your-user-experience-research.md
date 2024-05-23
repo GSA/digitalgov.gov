@@ -6,22 +6,14 @@ summary: 'In one sense, almost any type of user research is crowdsourced&mdash;y
 authors:
   - jonathan-rubin
 topics:
-  - crowdsourcing-and-citizen-science
   - design
-  - monthly-theme
-  - user-testing-and-research
-  - api
-  - crowdsourcing
-  - data-gov
-  - Federal CrowdSource Mobile Testing Program
-  - National Renewable Energy Laboratory
-  - NREL
+  - research
+  - application-programming-interface
+  - crowdsourcing-and-citizen-science
+  - open-data
+  - mobile
   - usability
-  - usability-case-study
-  - usability starter kit
-  - usability-testing
   - user-experience
-  
 ---
 
 {{< legacy-img src="2014/12/600-x-415-orange-Business-team-Network-isolated-on-white-Mostafa-Fawzy-Hemera-Thinkstock-101365600.jpg" alt="Business team Network isolated on white" caption="Mostafa Fawzy, Hemera, Thinkstock" >}} 

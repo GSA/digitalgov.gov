@@ -6,16 +6,8 @@ summary: ' When it comes to implementing a social media strategy, determining ho
 authors:
   - byrhonda-lyons
 topics:
-  - metrics
+  - analytics
   - social-media
-  - DOI
-  - facebook
-  - National Resources Conservation Service
-  - Twitter
-  - US Department of Agriculture
-  - us-department-of-the-interior
-  - USDA
-  - YouTube
 ---
 
 {{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="600 x 332 Strategy concepts on chalk board Melpomenem iStock Thinkstock 466815611" >}}

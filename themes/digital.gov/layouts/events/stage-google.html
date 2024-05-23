@@ -1,25 +1,52 @@
 <section class="stage stage-zoom">
   <div class="icon">
     <p>
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
+      <svg
+        class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+      >
         <use xlink:href="{{ "uswds/img/sprite.svg#keyboard" | relURL }}"></use>
       </svg>
     </p>
   </div>
   <div>
-    <p><strong>This event will be held over Google Meet.</strong> A link to join this event will be sent via email to those who register. <a href="https://support.google.com/meet/answer/9303069" title="Learn more about joining a video meeting over Google Meet">Learn more about joining a video meeting over Google Meet</a>.</p>
-    <p>Please contact us directly at <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a> if you need accessible accommodations to be able to attend. </p>
-    {{- if .Params.captions -}}
     <p>
-      <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}">
-        <strong>
-          <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-            <use xlink:href="{{ "uswds/img/sprite.svg#closed_caption" | relURL }}"></use>
-          </svg>
-          <span>View captions</span>
-        </strong>
-      </a>
+      <strong>This event will be held over Google Meet.</strong> A link to join
+      this event will be sent via email to those who register.
+      <a
+        href="https://support.google.com/meet/answer/9303069"
+        title="Learn more about joining a video meeting over Google Meet"
+        >Learn more about joining a video meeting over Google Meet</a
+      >.
     </p>
+    <p>
+      Please contact us directly at
+      <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a> if you need
+      accessible accommodations to be able to attend.
+    </p>
+    {{- if .Params.captions -}}
+      <p>
+        <a
+          class="captions"
+          href="{{- .Params.captions -}}"
+          title="Captions for the {{ .Title -}}"
+        >
+          <strong>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#closed_caption" | relURL }}"
+              ></use>
+            </svg>
+            <span>View captions</span>
+          </strong>
+        </a>
+      </p>
     {{- end -}}
 
   </div>

@@ -6,24 +6,16 @@ summary: 'It is at the intersections of fields where you find the most fascinati
 authors:
   - bbrantley
 topics:
-  - api
-  - code
-  - data
-  - product-management
-  - strategy
-  - policy
-  - api
-  - blockchain
-  - chatbots
-  - cx
-  - customer-service
-  - cx
-  - data
-  - internet-of-things
+  - application-programming-interface
+  - software-engineering
+  - product-and-project-management
+  - content-strategy
+  - emerging-tech
+  - artificial-intelligence
+  - customer-experience
+  - open-data
   - security
-  - the-data-briefing
   - user-experience
-  
 ---
 
 It is at the intersections of fields where you find the most fascinating and innovative concepts. Recently, a conference on “Open Human Resources and the Cognitive Era” explored the use of chatbots and blockchain technologies in human resources. Human Resources (HR) is quietly undergoing a revolution as many HR practitioners are transforming HR by using open source concepts. It is fascinating to see how cognitive technologies and cloud technologies are changing HR from a transactional and compliance function to an essential strategic organizational asset. Let us examine three innovative technologies that, joined, can reinvent how Federal agencies do their HR work (and work in general).

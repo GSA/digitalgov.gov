@@ -1,27 +1,24 @@
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-
-{{/*  Unique ID to link article to its title in screen readers  */}}
+{{/* Unique ID to link article to its title in screen readers */}}
 {{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
+
 
 <article
   class="card card-article card-linked"
-  data-edit-this="{{- $path -}}"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"
-
 >
   <div class="card__content">
     {{- if .Params.kicker -}}
-    <div class="kicker">{{- .Params.kicker -}}</div>
+      <div class="kicker">{{- .Params.kicker -}}</div>
     {{- end -}}
     <h3 id="{{ $titleID }}">
       <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
     </h3>
 
     {{- if .Params.summary -}}
-    <div class="summary">{{ .Params.summary | markdownify }}</div>
+      <div class="summary">{{ .Params.summary | markdownify }}</div>
     {{- else -}}
-    <div class="deck">{{ .Params.deck | markdownify }}</div>
+      <div class="deck">{{ .Params.deck | markdownify }}</div>
     {{- end -}}
 
     {{- partial "core/get_authors_short.html" . -}}

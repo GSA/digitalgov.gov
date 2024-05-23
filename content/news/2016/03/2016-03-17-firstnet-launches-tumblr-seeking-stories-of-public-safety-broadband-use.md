@@ -7,8 +7,6 @@ authors:
   - kyle-s-richardson
 topics:
   - social-media
-  - 'National Telecommunications and Information Administration'
-  - NTIA
 ---
 
 FirstNet is a relatively new “startup” federal government agency with the mission of building, operating and maintaining a broadband network for the millions of first responders in the 56 states, territories and Washington D.C. Given the nature of our mission, we are always looking for new avenues to connect with our nation’s courageous law enforcement, fire service and EMS personnel who put their lives on the line everyday to make our communities safer and educate them about the FirstNet network. While we have a content-rich website and social media presence to help “get the word out,” we also see the incredible value in the blogging platform that some call &#8220;[the anti-blog](http://techcrunch.com/2013/02/18/tumblr-is-not-what-you-think/)&#8221; because of it&#8217;s &#8216;against the grain&#8217; approach to building readership.

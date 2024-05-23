@@ -6,14 +6,9 @@ summary: 'Merriam-Webster officially defines a meme as &ldquo;an idea, behavior,
 authors:
   - sarah-herrmann
 topics:
-  - content
   - social-media
-  - abmc
-  - american-battle-monuments-commission
-  - content
   - content-strategy
-  - infographic
-  - social-media
+  - data-visualization
 ---
 
 Merriam-Webster officially defines a meme as “an idea, behavior, style, or usage that spreads from person to person within a culture.” But these days, most of us think of memes as those viral posts online that convey a message using a photo with text. They range from funny to serious to offensive, and everything in between. Sometimes they include a call to action, and other times they focus on creating an emotion. While you might think memes are so 21st century, I’d make the argument that World War I propaganda posters were the original memes.

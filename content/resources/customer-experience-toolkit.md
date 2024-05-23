@@ -3,8 +3,11 @@ slug: customer-experience-toolkit
 date: 2016-01-07 5:52:31 -0400
 title: Customer Experience Toolkit
 summary: "This Toolkit is intended to help government agencies improve how we deliver services and information to the public."
+
 topics:
-  - cx
+  - customer-experience
+  - information-collection
+
 authors:
   - rflagg
 
@@ -12,11 +15,11 @@ authors:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 3
+weight: 2
 
 ---
 
-Customer Experience (CX) is defined as the sum of all experiences a customer has with your organization. Since government is often a sole-source service provider (e.g., there’s only one place to pay taxes, or get a driver’s license), CX is even more important in the public sector than in other organizations. If that’s not enough to convince you, view this [webinar on why federal agencies must improve CX](https://www.youtube.com/watch?v=JFJg-8KwR9I).
+Customer Experience (CX) is defined as the sum of all experiences a customer has with your organization. Since government is often a sole-source service provider (e.g., there’s only one place to pay taxes, or get a driver’s license), CX is even more important in the public sector than in other organizations.
 
 This Toolkit is intended to help government agencies improve how we deliver services and information to the public.
 
@@ -36,14 +39,13 @@ Make the customer experience a strategic priority for your entire organization.
 
 - [Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) (December 2021)
     - [FACT SHEET: Putting the Public First: Improving Customer Experience and Service Delivery for the American People](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/) (December 2021)
-- [OMB Circular A-11, Section 280: Managing Customer Experience and Improving Service Delivery (PDF, 420 kb, 11 pages, 2021)](https://www.performance.gov/cx/assets/files/a11_2021-FY22.pdf)
+- [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 - [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.htm)
 - [The CX Cookbook: A Collection of Key Ingredients & Recipes for Embedding Customer Experience in Federal Services (PDF, 1.8 MB, 34 pages, 2020)](https://www.va.gov/ve/docs/cx/customer-experience-cookbook.pdf) - U.S. Department of Veterans Affairs
 - [Customer Service Cross-Agency Priority (CAP) Goal Update (2015)](https://digital.gov/2015/12/14/government-customer-service-update-webinar-recap/)
 - [The Customer Service Playbook for Government (PDF, 17.4 MB, 34 pages, 2015)](https://www.govloop.com/wp-content/uploads/2015/10/CustomerServicePlaybook.pdf) - GovLoop
 - [Serving Citizens: Strategies for Customer-Centered Government in the Digital Age (PDF, 1.3 MB, 44 pages, 2014)](https://ourpublicservice.org/wp-content/uploads/2014/09/809b0d873a2bebe10611a1c4a054e5f0-1422459562.pdf) - Partnership for Public Service
 - [Re-Imagining Customer Service in Government](https://www.govloop.com/govloop-research-report-re-imagining-customer-service-in-government/) - GovLoop
-- [The Essentials of Customer Experience: Going Beyond Customer Service](https://www.youtube.com/watch?v=7MFjWiused8) – YouTube video featuring Forrester and U.S. Department of Education
 
 ### Develop a strategy
 
@@ -99,7 +101,7 @@ Designate a single person to be responsible for the customer experience agency-w
 - Identify content owners and establish editorial controls over content publication across the entire organization
 - [7 Inspiring Examples of Omni-Channel User Experiences](http://blog.hubspot.com/marketing/omni-channel-user-experience-examples) &#8211; HubSpot
 - [Join the Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/)
-- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/?dg) — A list of required links that all federal websites need to have.
+- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links) — A list of required links that all federal websites need to have.
 - [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
 
 ### Follow all relevant laws and policies
@@ -193,7 +195,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
 
 - Ask your contact center and front-line staff which questions they’re asked most often
 - Document and share common questions
-    - [FAFSA Help](https://fafsa.ed.gov/help.htm) &#8211; ED
+    - [FAFSA Help](https://studentaid.gov/apply-for-aid/fafsa/filling-out/help) &#8211; ED
     - [Common Questions](http://portal.hud.gov/hudportal/HUD?src=/faqs) &#8211; Department of Housing and Urban Development (HUD)
     - [Frequently Asked Questions: Smoking & Tobacco Use](http://www.cdc.gov/tobacco/about/faq/index.htm) &#8211; CDC
 
@@ -242,7 +244,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 - [Lessons from the 2021 Federal Plain Language Report Card](https://digital.gov/resources/lessons-from-the-2021-federal-plain-language-report-card/)
 - [Bilingual Glossaries, Dictionaries, and Style Guides](https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides/)
 - [Customer Experience Case Study: CDC’s Clear Communication Index](https://www.youtube.com/watch?v=HdHAAaCNirk) &#8211; YouTube video
-- [Join the Plain Language Communty of Practice](https://digital.gov/communities/plain-language/)
+- [Join the Plain Language Community of Practice](https://digital.gov/communities/plain-language/)
 - [Join the Multilingual Community of Practice](https://digital.gov/communities/multilingual/)
 
 ### Conduct regular and ongoing user testing
@@ -256,7 +258,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 ### Solicit ideas from customers
 
 - [Challenge.gov](https://www.challenge.gov/)
-- [Join the Challenge and Prize Communithy of Practice](https://www.challenge.gov/community/)
+- [Join the Challenge and Prize Community of Practice](https://www.challenge.gov/community/)
 
 ## Measurement
 
@@ -286,7 +288,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 - [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) - website analytics
 - [Search.gov](http://www.search.gov/) - hosted search service
 - [Federalist](https://federalist.18f.gov/) - web publishing platform
-- [DOI Federal Consulting Group (FCG)](https://www.fcg.gov/) - survey tools and analysis support
+- [DOI Federal Consulting Group (FCG)](https://www.doi.gov/fcg) - survey tools and analysis support
 
 ### Engage your team
 
@@ -302,7 +304,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
     - [Code for America Analytics Dashboard](https://dashboard-setup.codeforamerica.org/)
 - Agency examples
     - [Digital Metrics Dashboard](http://www.cdc.gov/metrics/) &#8211; CDC
-    - [Annual Performance Report—Fiscal Years 2014–2016](http://www.dhs.gov/sites/default/files/publications/DHS-FY-2014-FY-2016-APR_1_0.pdf) &#8211; DHS
+    - [Annual Performance Report—Fiscal Years 2014–2016](https://www.dhs.gov/sites/default/files/publications/DHS-FY-2014-FY-2016-APR_1_0.pdf) (PDF, 3.1 KB, 136 Pages, 2014-2016) &#8211; DHS
 
 ## Digital Services
 
@@ -322,6 +324,7 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
 ### Communicate clearly
 
 - [Plain Language and Writing for the Web](https://www.youtube.com/watch?v=j9FCji6-UJE) &#8211; video
+- [DHS CX Glossary](https://www.dhs.gov/cx/glossary)
 - [Join the Federal Communicators Network](https://digital.gov/communities/federal-communicators-network/)
 
 ### Adopt shared services

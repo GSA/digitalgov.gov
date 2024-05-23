@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/notify-gov-dashboard.png
+  # Image shortcode: {{< img src=notify-gov-dashboard >}}'
+  date     :  2023-10-03 13:34:01 -0400
+  uid      :  notify-gov-dashboard
+  width    :  1200
+  height   :  630
+  format   :  png
+  credit   :  
+  caption  :  
+  alt      :  "Screenshot of the Notify.gov dashboard page that displays the number of text messages sent over a period of time."
+  

@@ -7,11 +7,8 @@ authors:
   - alison-rowland
   - aaron-snow
 topics:
-  - code
-  - 18f
-  - GitHub
-  - gsa
-  - RFP
+  - software-engineering
+  - acquisition
 ---
 
 {{< legacy-img src="2014/04/tumblr\_static\_logo-18f-250-x-250-1.jpg" alt="18F logo" >}}Today we’re announcing our first product launch: [FBOpen](https://fbopen.gsa.gov/), a set of open-source tools to help small businesses search for opportunities to work with the U.S. government.

@@ -7,23 +7,13 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - epa
-  - fda
-  - HHS
-  - recaps
-  - socialgov-community
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
 ---
 
 Now that Thunderclap has been [approved for government use]({{< ref "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
 
-{{< youtube QuACkq02GVw >}}
-
 ## What Makes a Thunderclap?
 
- **Nicholas Garlow**, public affairs specialist with the **Department of Health and Human Services (HHS)** used Thunderclap to [support Open Enrollment Season](https://www.thunderclap.it/projects/9544-getcovered-by-march-31st) for Healthcare.gov. He outlined the necessary components to a campaign:
+**Nicholas Garlow**, public affairs specialist with the **Department of Health and Human Services (HHS)** used Thunderclap to [support Open Enrollment Season](https://www.thunderclap.it/projects/9544-getcovered-by-march-31st) for Healthcare.gov. He outlined the necessary components to a campaign:
 
   * Create a **message** that will be shared, and a story that explains the campaign or event. Including a graphic will make your message more engaging.
   * Set a **date and time** when the message will be sent. Allow at least two weeks for promotion.
@@ -44,7 +34,7 @@ Now that Thunderclap has been [approved for government use]({{< ref "2013-08-05-
   * New product or service launch
   * Issue/topic support
 
- **Jessica Orquina**, social media lead for the **Environmental Protection Agency** **(EPA)**, has worked on three Thunderclaps, two of which were successful. She shared some lessons learned from their first campaign, [Protect Your Kids!](https://www.thunderclap.it/projects/5938-protect-your-kids), which didn’t reach its goal.
+**Jessica Orquina**, social media lead for the **Environmental Protection Agency** **(EPA)**, has worked on three Thunderclaps, two of which were successful. She shared some lessons learned from their first campaign, [Protect Your Kids!](https://www.thunderclap.it/projects/5938-protect-your-kids), which didn’t reach its goal.
 
   * Short campaign (less than a week) was not enough time to reach the goal.
   * People didn’t want to give Thunderclap access to their account.

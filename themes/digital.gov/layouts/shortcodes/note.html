@@ -1,87 +1,53 @@
-{{/*
+{{ $variant := (.Get "variant") }}
+{{ $icon := "notifications" }}
 
-Note Shortcode — the following are all the iterations of the "note" shortcode and how to use them.
+{{ if eq $variant "activity" }}
+  {{ $icon = "assessment" }}
+{{ else if eq $variant "action" }}
+  {{ $icon = "campaign" }}
+{{ else if eq $variant "alert" }}
+  {{ $icon = "report" }}
+{{ else if eq $variant "comment" }}
+  {{ $icon = "comment" }}
+{{ else if eq $variant "video" }}
+  {{ $icon = "fast_forward" }}
+{{ else if eq $variant "join" }}
+  {{ $icon = "groups" }}
+{{ else if eq $variant "note" }}
+  {{ $icon = "notifications" }}
+{{ else if eq $variant "disclaimer" }}
+  {{ $icon = "info" }}
+{{ end }}
 
-Note —
-{{< note >}}
-text goes here...
-{{< /note >}}
+{{- $iconPath := (printf "uswds/img/sprite.svg#%s" $icon) -}}
 
-Activity —
-{{< note "activity" >}}
-Activity text goes here...
-{{< /note >}}
 
-Alert —
-{{< note "alert" >}}
-Alert text goes here...
-{{< /note >}}
-
-Action —
-{{< note "action" >}}
-Action text goes here...
-{{< /note >}}
-
-Video —
-{{< note "video" >}}
-Video text goes here...
-{{< /note >}}
-
-Comment —
-{{< note "alert" >}}
-> Comment goes here as a blockquote
-
-additional text goes here...
-{{< /note >}}
-
-*/}}
-
-<div class="note {{ if .Get 0 -}}{{- .Get 0 -}}{{- end -}}">
-  {{- if and (.Get 0) (eq (.Get 0) "activity") -}}
-    <h4>
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#assessment" | relURL }}"></use>
-      </svg> Activity
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "action") -}}
-    <h4>
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#campaign" | relURL }}"></use>
-      </svg> Action
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "alert") -}}
-    <h4>
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#report" | relURL }}"></use>
-      </svg> Alert
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "comment") -}}
-    <h4>
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#comment" | relURL }}"></use>
-      </svg> Comment
-    </h4>
-  {{- else if and (.Get 0) (eq (.Get 0) "video") -}}
-    <h4>
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#fast_forward" | relURL }}"></use>
-      </svg> Video
-    </h4>
-  {{- else -}}
-    <h4>
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#notifications" | relURL }}"></use>
-      </svg> Note
-    </h4>
-  {{- end -}}
-
-  {{- .Inner | markdownify -}}
-
-  {{- if (.Get "button-text") -}}
-  <div class="submit">
-    <button class="usa-button"><a href="{{- .Get "button-url" -}}" title="{{- .Get "button-text" -}}">{{- .Get "button-text" -}}</a></button>
-    <span></span>
-  </div>
-  {{- end -}}
-
-</div>
+<article
+  class="dg-note {{ if $variant }}dg-note--{{- $variant | lower -}}{{ end }}"
+>
+  <h4 class="dg-note__heading">
+    <svg
+      class="dg-note__icon usa-icon dg-icon dg-icon--large"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <use xlink:href="{{ $iconPath | relURL }}"></use>
+    </svg>
+    {{ if $variant }}
+      {{ if eq $variant "join" }}
+        Who can join?
+      {{ else }}
+        {{ $variant | title }}
+      {{ end }}
+    {{ else }}
+      Note
+    {{ end }}
+  </h4>
+  {{ if eq $variant "disclaimer" }}
+    All references to specific brands, products, and/or companies are used only
+    for illustrative purposes and do not imply endorsement by the U.S. federal
+    government or any federal government agency.
+  {{ else }}
+    {{- .Inner | markdownify -}}
+  {{ end }}
+</article>

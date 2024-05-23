@@ -6,9 +6,9 @@ summary: These are the elements that make up a well-rounded developer hub. Homep
 authors:
   - gray-brooks
 topics:
-  - code
-  - api
-  - usa-gov-federal-mobile-apps-directory
+  - software-engineering
+  - application-programming-interface
+ 
 ---
 
 These are the elements that make up a well-rounded developer hub.

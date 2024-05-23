@@ -6,10 +6,9 @@ summary: 'How important is it to show the most relevant result at the top of you
 authors:
   - ammie-farraj-feijoo
 topics:
-  - content
-  - our-work
+  - content-strategy
   - analytics
-  - digitalgov-search
+  - search
 ---
 
 How important is it to show the most relevant result at the top of your search results page? Very.

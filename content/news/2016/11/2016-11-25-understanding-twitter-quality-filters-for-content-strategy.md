@@ -6,30 +6,19 @@ summary: 'In a move to win back users and improve the company’s image, Twitter
 authors:
   - julia-jackson
 topics:
-  - content
-  - social-media
-  - content
   - content-strategy
   - social-media
 ---
 
-In a move to win back users and improve the company’s image, Twitter introduced quality filters in August. They followed this move in November with an option to mute certain words. These changes will have larger ramifications for federal agencies, who will need to focus on quality of content in order to retain their audience base and reach. {{< legacy-img src="2017/03/600-x-400-Doodle-twitter-seamless-pattern-background-hchjjl-iStock-Thinkstock-473354124-copy1.jpg" alt="A seamless pattern of the Twitter icon" caption="" >}} 
+In a move to win back users and improve the company’s image, Twitter introduced quality filters in August. They followed this move in November with an option to mute certain words. These changes will have larger ramifications for federal agencies, who will need to focus on quality of content in order to retain their audience base and reach.
+
+{{< legacy-img src="2017/03/600-x-400-Doodle-twitter-seamless-pattern-background-hchjjl-iStock-Thinkstock-473354124-copy1.jpg" alt="A seamless pattern of the Twitter icon" caption="hchjjl/iStock/Thinkstock" >}} 
 
 In recent statement on the change, Twitter promised that the filters would “[improve the quality of Tweets you see by using a variety of signals, such as account origin and behavior](https://blog.twitter.com/2016/new-ways-to-control-your-experience-on-twitter).” The algorithm seems designed to limit spam and automated tweets, and learn user preferences over time. Accounts that a user follows, or has interacted with recently, will not be affected, the company said.
 
 Such Twitter filters are not new, but were originally restricted to verified accounts. The move to expand the change came after a year of this limited test. Now that they’re available to all users, Twitter has listed filters in the settings menu under notifications.
 
-<blockquote class="twitter-tweet" data-width="500">
-  <p lang="en">
-    Two simple settings to give you better control over your Twitter experience. <a href="https://t.co/pEJuMUhCYs">https://t.co/pEJuMUhCYs</a> <a href="https://t.co/jmFd0rDoV6">pic.twitter.com/jmFd0rDoV6</a>
-  </p>
-  
-  <p>
-    &mdash; Twitter Support (@Support) <a href="https://twitter.com/Support/status/766319755531649025">August 18, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< tweet user="TwitterSupport" id="766319755531649025" >}}
 
 There are three ways to filter notifications: quality filters, only people you follow, and muted words. The _quality filter_ limits “[lower-quality content, like duplicate Tweets or content that appears to be automated](https://support.twitter.com/articles/20169398),” which not only affects tweets in a user’s timeline, but also top search results and replies. The _only people you follow_ option limits notifications to followed accounts. The third and most recent addition, _muted words_, allows users to remove tweets that contain specific “[words, phrases, usernames, emojis, or hashtags](https://support.twitter.com/articles/20175032).”
 

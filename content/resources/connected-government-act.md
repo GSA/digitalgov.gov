@@ -3,20 +3,19 @@ slug: connected-government-act
 date: 2018-06-25 9:00:00 -0400
 title: "Connected Government Act"
 summary: "Resources to help your agency comply with the Connected Government Act."
-deck: "As of July of 2018, all new and redesigned agency websites are required to be mobile friendly."
+deck: "As of July of 2018, all new and redesigned agency websites are required to be mobile-friendly."
+
 featured_image:
   uid: hr2331-connected-govt-act
+
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - policy
+  - design
+
 ---
 
-The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/house-bill/2331) (H.R.2331) was signed into law on January 10, 2018, and requires new and redesigned federal agency public websites to be mobile-friendly. The [General Services Administration](https://www.gsa.gov/) (GSA) and [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) will submit a report to Congress in 2019 that describes how agencies can implement the law and assess their compliance.
-
-The new law codifies OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
-
-The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law.
+The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/house-bill/2331) (H.R.2331) was signed into law on January 10, 2018, and requires new and redesigned federal agency public websites to be mobile-friendly. The [General Services Administration](https://www.gsa.gov/) (GSA) and [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) submitted a report to Congress in 2019 that describes how agencies can implement the law and assess their compliance.
 
 {{< card-policy src="https://www.congress.gov/bill/115th-congress/house-bill/2331/text" kicker="Law" title="**H.R.2331**: Connected Government Act" >}}
 
@@ -165,7 +164,7 @@ Should you focus your efforts on either of these two options?
 - **Progressive Web Applications, Part 1: the New Pack Mule of the Internet** <br />Progressive Web Apps have been able to take the best of native and web applications and combine them into a hybrid application that is fast (with or without a fast network connection), can work across devices, and does not need to be distributed through a store as it is as linkable and shareable as a web page. <br />https://www.digitalgov.gov/2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/
 - **Progressive Web Applications, Part 2: Pros, Cons, and Looking Ahead** <br />Along with the advantages, PWAs bring challenges, and these may be deal breakers for some. <br />https://www.digitalgov.gov/2016/10/13/progressive-web-applications-part-2-pros-cons-and-looking-ahead/
 
-### Public Trends, Policies, Legislation or Initiatives
+### Initiatives, security, and privacy
 
 When you are building an app or creating a mobile-friendly site, there are certain requirements to be aware of.
 
@@ -178,12 +177,6 @@ When you are building an app or creating a mobile-friendly site, there are certa
 - [Public Participation Playbook](https://participation.usa.gov/), February 2015
 - [U.S. Digital Government Strategy](https://obamawhitehouse.archives.gov/digitalgov/about), May 2012-2013
 
-#### Policies
-
-- [Connected Government Act](https://www.congress.gov/bill/115th-congress/house-bill/2331/text), December 2017
-- [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf) (M-17-06), November 2016 (PDF, 1.2 MB, 18 pages)
-- [Open Data Policy—Managing Information as an Asset](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf) (M-13-13), May 2013 (PDF, 5.83 MB, 12 pages)
-
 #### Security
 
 - **Navigating the Future of Mobile Services** <br />This document provides guidance and recommendations for vetting the security of mobile apps based on standards and agency best practices. <br />https://www.atarc.org/wp-content/uploads/2017/10/ATARC-MSCT-Report-Navigating-Future-of-Mobile-Services.pdf (PDF, 5.6 MB, 242 pages, October 2017)
@@ -194,20 +187,8 @@ When you are building an app or creating a mobile-friendly site, there are certa
 #### Privacy
 
 - **Mobile SOW and Developer Qualifications** <br />We are providing sample Statement of Work (SOW) language for the procurement of customer or external-facing mobile products, skills, testing and mobile code sharing. This language is also included in the RFP-EZ contracting tool. Here are some guidelines for its use. <br />https://www.digitalgov.gov/resources/mobile-sow-and-developer-qualifications/
-- **Policies for Federal Agency Public Websites and Digital Services** <br />The review of privacy risks should begin at the earliest planning and development stages of agency actions and policies that involve PII, and should continue throughout the life cycle of the information. (See page 6) <br />https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf (PDF, 1.2 MB, 18 pages, November 2016)
-
-#### Negotiated Federal Terms of Service
-
-- This is a list of free tools and services that have federal-compatible Terms of Service agreements. <br />[https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)
-
-### Federal Mobile Apps Directory
-
-A sortable list of all known federal government apps. <br />[https://www.usa.gov/mobile-apps](https://www.usa.gov/mobile-apps)
+- **Policies for Federal Agency Public Websites and Digital Services** The review of privacy risks should begin at the earliest planning and development stages of agency actions and policies that involve PII, and should continue throughout both the development and information lifecycles. See [Delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 
 ### U.S. Digital Registry
 
-Resource to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites. <br />[https://digital.gov/services/u-s-digital-registry/](https://digital.gov/services/u-s-digital-registry/)
-
-### MobileGov Community of Practice
-
-Join this network of federal employees who are tackling mobile technology challenges together. <br />[https://www.digitalgov.gov/communities/mobile/](https://www.digitalgov.gov/communities/mobile/)
+Resource to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites: [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)

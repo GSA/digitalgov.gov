@@ -6,14 +6,8 @@ summary: 'The first phase of our partnership with Facebook included Facebook &#8
 authors:
   - jessica-milcetich
 topics:
-  - metrics
-  - social-media
   - analytics
-  - analytics-usa-gov
-  - facebook
   - social-media
-  - social-media-metrics
-  - usagov
 ---
 
 The first phase of our partnership with Facebook included Facebook &#8220;megaphones&#8221; being rolled out in a handful of states with rapidly approaching voter registration deadlines. Facebook&#8217;s megaphone is a featured box that is displayed at the top of all user&#8217;s News Feeds. (You may recall seeing these after certain disasters giving users the option to quickly donate to Red Cross or other organizations).

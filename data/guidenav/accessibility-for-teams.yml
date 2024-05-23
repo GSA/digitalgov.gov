@@ -1,0 +1,15 @@
+showNextPrevious: true
+showInPageNav: false
+nav:
+  - title: "Overview"
+    path: "/guides/accessibility-for-teams/_index.md"
+  - title: "Product management"
+    path: "/guides/accessibility-for-teams/product-management.md"
+  - title: "Content design"
+    path: "/guides/accessibility-for-teams/content-design.md"
+  - title: "UX design"
+    path: "/guides/accessibility-for-teams/ux-design.md"
+  - title: "Visual design"
+    path: "/guides/accessibility-for-teams/visual-design.md"
+  - title: "Front-end development"
+    path: "/guides/accessibility-for-teams/front-end-development.md"

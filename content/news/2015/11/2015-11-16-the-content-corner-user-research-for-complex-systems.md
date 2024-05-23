@@ -6,10 +6,7 @@ summary: 'My office is preparing to embark on a complete redesign of a 10-year-o
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - monthly-theme
-  - administrative-office-of-the-united-states-courts
-  - the-content-corner
+  - content-strategy
   - user-experience
 ---
 

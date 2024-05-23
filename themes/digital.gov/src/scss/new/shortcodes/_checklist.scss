@@ -1,0 +1,33 @@
+@use "uswds-core" as *;
+
+.dg-checklist {
+  @include u-padding-left(0, !important);
+  @include u-margin-top(0, "!important");
+  @include u-border-top("2px", "gray-cool-10", "solid");
+
+  &__item {
+    list-style-type: none;
+
+    @include u-padding-bottom(1);
+
+    &:first-child {
+      @include u-margin-top(2, "!important");
+    }
+
+    &::before {
+      content: "";
+
+      @include u-border("2px", "gray-cool-90", "solid");
+      @include u-margin-right(1);
+      @include u-display("inline-block");
+      @include u-width(2);
+      @include u-height(2);
+    }
+  }
+
+  &__sublist {
+    &-item {
+      list-style-type: disc !important;
+    }
+  }
+}

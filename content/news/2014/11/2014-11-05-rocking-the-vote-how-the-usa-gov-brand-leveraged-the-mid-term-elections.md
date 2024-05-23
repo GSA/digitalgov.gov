@@ -7,7 +7,6 @@ authors:
   - jessica-milcetich
 topics:
   - social-media
-  - usagov
 ---
 
 You might have noticed a lot of people were talking about the elections yesterday, especially on social media. Election and voting hashtags were trending all day long as people around the country hit the polls to vote for senators, representatives, governors and more.

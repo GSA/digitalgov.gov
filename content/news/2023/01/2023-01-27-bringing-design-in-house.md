@@ -2,21 +2,23 @@
 date: 2023-01-27 10:11:00 -0500
 title: Bringing design in-house
 deck: How to find, hire, and support design in your agency
-summary: What is design, who are designers, and how can they help your agency?
-  Learn how to build a design team that can help your agency solve “wicked
-  problems” and be more innovative.
+summary: What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative.
+
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - agile
-  - project-management
+  - product-and-project-management
   - professional-development
   - user-experience
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - ana-monroe
+
 slug: bringing-design-in-house
 primary_image: u-x-designers-wear-face-masks-collaborating-in-the-office-yakobchuk-olena-istock-getty-images-1297220263
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

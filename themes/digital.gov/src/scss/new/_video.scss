@@ -3,74 +3,74 @@
 // Video & Video Player
 
 .youtube-card,
-.youtube-player{
+.youtube-player {
   @include u-margin(0);
-  @include u-position('relative');
-  padding-bottom: 56.23%;
-  /* Use 75% for 4:3 videos */
-  @include u-height(0);
+  @include u-position("relative");
+  @include u-height(0); // Use 75% for 4:3 videos
+  @include u-maxw("full");
+  @include u-bg("indigo-warm-90");
   overflow: hidden;
-  @include u-maxw('full');
-  @include u-bg('indigo-warm-90');
+  padding-bottom: 56.23%;
 
   img {
-    margin: auto;
-    @include u-display('block');
-    @include u-maxw('full');
-    @include u-position('absolute');
+    @include u-display("block");
+    @include u-maxw("full");
+    @include u-position("absolute");
     @include u-right(0);
     @include u-top(0);
     @include u-left(0);
     @include u-bottom(0);
     @include u-border(0);
-    @include u-height('auto');
-    -webkit-transition: .4s all;
-    -moz-transition: .4s all;
-    transition: .4s all;
+    @include u-height("auto");
+    margin: auto;
+    transition: 0.4s all;
   }
+
   iframe {
-    @include u-position('absolute');
+    @include u-position("absolute");
     @include u-top(0);
     @include u-left(0);
-    @include u-width('full');
-    @include u-height('full');
-    z-index: 100;
+    @include u-width("full");
+    @include u-height("full");
     background: transparent;
+    z-index: 100;
   }
+
   .play {
     @include u-left(1);
     @include u-bottom(1);
-    @include u-text('indigo-warm-10');
-    @include u-text('center');
+    @include u-text("indigo-warm-10");
+    @include u-text("center");
     @include u-width(7);
     @include u-height(7);
-    @include u-radius('lg');
-    background-color: rgba(0, 0, 0, .85); // #18161d - indigo-warm-90
-    transition: background-color .2s;
-    @include u-border('white', 'solid', '2px');
-    @include u-position('absolute');
+    @include u-radius("lg");
+    @include u-border("white", "solid", "2px");
+    @include u-position("absolute");
+    background-color: rgb(0 0 0 / 85%); // #18161d - indigo-warm-90
     cursor: pointer;
+    transition: background-color 0.2s;
   }
+
   .play::after {
-    @include u-position('relative');
-    @include u-top('105');
-    @include u-left('2px');
-    content: " ";
-    @include u-display('inline-block');
+    @include u-position("relative");
+    @include u-top("105");
+    @include u-left("2px");
+    @include u-display("inline-block");
     @include u-width(0);
     @include u-height(0);
+    border-color: transparent transparent transparent #fff;
     border-style: solid;
     border-width: 14px 0 14px 24px;
-    border-color: transparent transparent transparent #fff;
+    content: " ";
   }
 
   // See card.scss for card overlay styles
-  &:hover .play{
-    @include u-bg('primary-vivid');
+  &:hover .play {
+    @include u-bg("primary-vivid");
   }
-
 }
-.youtube-player img{
+
+.youtube-player img {
   cursor: pointer;
 }
 

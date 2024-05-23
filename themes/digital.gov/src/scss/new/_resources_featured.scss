@@ -1,83 +1,47 @@
 @use "uswds-core" as *;
 
-#resources_featured{
-  @include u-bg('white');
-  @include u-padding-y(2);
-  @include u-padding-top(4);
+#resources_featured {
+  background-color: color("white");
+  padding: units(2) 0;
+  padding-top: units(4);
 }
 
+.home #resources_featured {
+  background-color: color("primary-dark");
+  padding: 0;
 
-.home #resources_featured{
-  @include u-bg('primary-dark');
-  @include u-padding-y(0);
-  @include at-media('tablet-lg') {
-    @include u-padding-top(3);
+  @include at-media("tablet-lg") {
+    padding-top: units(3);
   }
-  .box{
-    @include u-bg('transparent');
-    @include u-margin(0);
-    @include u-padding(0);
-    @include u-radius(0);
-    @include at-media('tablet-lg') {
-      @include u-display('flex');
-      @include u-flex('align-center');
-      @include u-height('full');
-      @include u-padding-bottom(8);      
-    }
 
-    h2{
-      @include u-margin(0);
-      @include u-padding(2);
-      @include u-padding-right(4);
-      @include u-font('sans', 'xl');
-      @include u-line-height('sans', 2);
-      @include u-text('white');
-      @include u-text('thin');
-      @include at-media('tablet-lg') {
-        @include u-margin-bottom(0);
-        @include u-padding(0);
-        @include u-font('sans', '2xl');
-      }
-    }
-    p{
-      @include u-margin-top(0);
-      @include u-padding-y('105');
-      @include u-padding-x(2);
-      @include u-border-bottom('1px', 'base-lightest', 'solid');
-      @include u-bg('primary-darkest');
-      @include u-text('white');
-      @include u-font('sans', 'xs');
-      @include u-line-height('sans', 2);
-      @include u-text('normal');
-      @include u-maxw('full');
-      @include at-media('tablet-lg') {
-        @include u-font('sans', 'sm');
-        @include u-padding(2);
-      }
-      a{
-        @include u-display('flex');
-        @include u-flex('align-center');
-        @include u-text('no-underline');
-        @include u-text('white');
-        img{
-          @include u-margin-right('105');
-          @include u-width(5);
-          @include u-minw(5);
-          @include at-media('tablet-lg') {
-            @include u-width(7);
-            @include u-minw(7);
-          }
-        }
+  .box {
+    background-color: color("transparent");
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
 
+    .resources-featured__title {
+      @include u-font("sans", "xl");
+      @include u-line-height("sans", 2);
+      @include u-text("white", "thin");
+      margin: 0;
+      padding: units(2) units(4) 0 units(2);
+      width: 75%;
+
+      @include at-media("tablet-lg") {
+        margin: units(4) 0;
+        padding: 0;
+        @include u-font("sans", "2xl");
       }
     }
   }
+
   .resources-content {
-    @include u-bg('white');
-    @include u-padding-x(2);
-    @include u-padding-y(3);
-    @include at-media('tablet-lg') {
-      @include u-radius-top('lg');
+    background-color: color("white");
+    padding: units(3) units(2);
+
+    @include at-media("tablet-lg") {
+      @include u-radius-top("lg");
     }
   }
 }

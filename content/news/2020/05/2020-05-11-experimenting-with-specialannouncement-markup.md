@@ -23,9 +23,9 @@ weight: 1
 
 topics: 
   - content-strategy
-  - cx
-  - metadata
+  - customer-experience
   - search-engine-optimization
+  - communication
 
 # Make it better ♥
 

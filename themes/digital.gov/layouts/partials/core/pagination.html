@@ -5,48 +5,69 @@
 -->
 {{ $paginator := .Paginator }}
 
+
 <!-- Number of links either side of the current page. -->
 {{ $adjacent_links := 2 }}
+
 
 <!-- $max_links = ($adjacent_links * 2) + 1 -->
 {{ $max_links := (add (mul $adjacent_links 2) 1) }}
 
+
 <!-- $lower_limit = $adjacent_links + 1 -->
 {{ $lower_limit := (add $adjacent_links 1) }}
+
 
 <!-- $upper_limit = $paginator.TotalPages - $adjacent_links -->
 {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
 
+
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
-
   <ul class="pagination">
     <!-- First page. -->
     {{ if ne $paginator.PageNumber 1 }}
-    <li class="pagination-first">
-      <a href="{{ $paginator.First.URL }}" aria-label="First page">
-        <svg class="usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{ "uswds/img/sprite.svg#first_page" | relURL }}"></use>
-        </svg>
-      </a>
-    </li>
+      <li class="pagination-first">
+        <a href="{{ $paginator.First.URL }}" aria-label="First page">
+          <svg
+            class="usa-icon dg-icon dg-icon--large"
+            aria-hidden="true"
+            focusable="false"
+            role="img"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#first_page" | relURL }}"
+            ></use>
+          </svg>
+        </a>
+      </li>
     {{ end }}
+
 
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
-    <li class="pagination-previous">
-      <a href="{{ $paginator.Prev.URL }}" aria-label="Previous page">
-        <svg class="usa-icon dg-icon dg-icon--standard" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-        </svg>
-      </a>
-    </li>
+      <li class="pagination-previous">
+        <a href="{{ $paginator.Prev.URL }}" aria-label="Previous page">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard"
+            aria-hidden="true"
+            focusable="false"
+            role="img"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"
+            ></use>
+          </svg>
+        </a>
+      </li>
     {{ end }}
+
 
     <!-- Page numbers. -->
     {{ range $paginator.Pagers }}
 
       {{ $.Scratch.Set "page_number_flag" false }}
+
 
       <!-- Advanced page numbers. -->
       {{ if gt $paginator.TotalPages $max_links }}
@@ -60,8 +81,9 @@
             {{ $.Scratch.Set "page_number_flag" true }}
           {{ end }}
 
-        <!-- Upper limit pages. -->
-        <!-- If the user is on a page which is in the upper limit. -->
+
+          <!-- Upper limit pages. -->
+          <!-- If the user is on a page which is in the upper limit. -->
         {{ else if ge $paginator.PageNumber $upper_limit }}
 
           <!-- If the current loop page is greater than total pages minus $max_links -->
@@ -69,7 +91,8 @@
             {{ $.Scratch.Set "page_number_flag" true }}
           {{ end }}
 
-        <!-- Middle pages. -->
+
+          <!-- Middle pages. -->
         {{ else }}
 
           {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
@@ -78,16 +101,18 @@
 
         {{ end }}
 
-      <!-- Simple page numbers. -->
+
+        <!-- Simple page numbers. -->
       {{ else }}
 
         {{ $.Scratch.Set "page_number_flag" true }}
 
       {{ end }}
 
+
       <!-- Output page numbers. -->
       {{ if eq ($.Scratch.Get "page_number_flag") true }}
-        <li class="page{{ if eq . $paginator }} active{{ end }}">
+        <li class="page {{ if eq . $paginator }}active{{ end }}">
           <a href="{{ .URL }}" class="pagination__link">
             {{ .PageNumber }}
           </a>
@@ -96,27 +121,44 @@
 
     {{ end }}
 
+
     <!-- Next page. -->
     {{ if $paginator.HasNext }}
-    <li class="pagination-next">
-      <a href="{{ $paginator.Next.URL }}" aria-label="Next page">
-        <svg class="usa-icon dg-icon dg-icon--standard" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-        </svg>
-      </a>
-    </li>
+      <li class="pagination-next">
+        <a href="{{ $paginator.Next.URL }}" aria-label="Next page">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard"
+            aria-hidden="true"
+            focusable="false"
+            role="img"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+            ></use>
+          </svg>
+        </a>
+      </li>
     {{ end }}
+
 
     <!-- Last page. -->
     {{ if ne $paginator.PageNumber $paginator.TotalPages }}
-    <li class="pagination-last">
-      <a href="{{ $paginator.Last.URL }}" aria-label="Last page">
-        <svg class="usa-icon dg-icon dg-icon--large" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{ "uswds/img/sprite.svg#last_page" | relURL }}"></use>
-        </svg>
-      </a>
-    </li>
+      <li class="pagination-last">
+        <a href="{{ $paginator.Last.URL }}" aria-label="Last page">
+          <svg
+            class="usa-icon dg-icon dg-icon--large"
+            aria-hidden="true"
+            focusable="false"
+            role="img"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#last_page" | relURL }}"
+            ></use>
+          </svg>
+        </a>
+      </li>
     {{ end }}
 
-  </ul><!-- .pagination -->
+  </ul>
+  <!-- .pagination -->
 {{ end }}

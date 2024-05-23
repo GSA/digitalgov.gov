@@ -6,24 +6,14 @@ summary: As localities struggle with issues such as the Zika virus and the Opioi
 authors:
   - christen-geiler
 topics:
-  - content
-  - product-management
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - content
   - content-strategy
-  - content-syndication
-  - fda
-  - HHS
-  - national-institutes-of-health
-  - nih
-  - us-food-and-drug-administration
-  - united-states-department-of-health-and-human-services
+  - budgeting-and-performance
 ---
 
 As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting.
 
-But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites, apps, and social media. {{< legacy-img src="2016/10/600-x-400-Woman-carrying-a-box-with-word.-Content-marketing-distribution-concept-zakokor-iStock-Thinkstock-72-dpi-536077001.jpg" alt="Woman carrying a box with word Content on it; a content marketing distribution concept." caption="" >}} 
+But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites, apps, and social media. {{< legacy-img src="2016/10/600-x-400-Woman-carrying-a-box-with-word.-Content-marketing-distribution-concept-zakokor-iStock-Thinkstock-72-dpi-536077001.jpg" alt="Woman carrying a box with word Content on it; a content marketing distribution concept." caption="" >}}
+But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites, apps, and social media. {{< legacy-img src="2016/10/600-x-400-Woman-carrying-a-box-with-word.-Content-marketing-distribution-concept-zakokor-iStock-Thinkstock-72-dpi-536077001.jpg" alt="Woman carrying a box with word Content on it; a content marketing distribution concept." caption="" >}}
 
 Digital media syndication of science-based resources from the Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), Food and Drug Administration (FDA), and the National Institutes of Health (NIH) can be combined with your ongoing activities and can help coordinate health messaging for maximum impact and reach.
 
@@ -65,13 +55,16 @@ These resources are offered through federal digital media syndication sites that
 
 ### Benefits of Content Syndication
 
-  * Content Re-use 
+  * Content Re-use
+  * Content Re-use
       * Leverage inter-agency content to reduce overhead and streamline content channels
-  * Audience Retention 
+  * Audience Retention
+  * Audience Retention
       * Retain and grow audiences based on content
-  * 24/7 Content 
+  * 24/7 Content
+  * 24/7 Content
       * Deliver content to your audience where, when, and how they want to consume it
 
 <div class="Divider3">
   If you need additional information or have any feedback, please contact the Syndication team <a href="mailto:Syndication@nih.gov">via email</a>. <a href="https://digitalmedia.hhs.gov/storefront/usageGuidelines">Usage guidelines</a> for the HHS Syndication Storefront are also available.
-</div>_This post was originally published on the [ICMA blog](http://icma.org/en/icma/knowledge_network/blogs/blog/26/ICMA__blog) and shared on DigitalGov.gov with permission of the author._ _Check out our recent DigitalGov articles on the benefits of [content syndication]({{< ref "/topics/content-syndication" >}}) and effective [content strategies]({{< ref "/topics/content-strategy" >}})._
+</div>_This post was originally published on the [ICMA blog](http://icma.org/en/icma/knowledge_network/blogs/blog/26/ICMA__blog) and shared on DigitalGov.gov with permission of the author._ _Check out our recent DigitalGov articles on the benefits of [content syndication]({{< ref "/topics/content-strategy" >}}) and effective [content strategies]({{< ref "/topics/content-strategy" >}})._

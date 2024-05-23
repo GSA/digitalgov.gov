@@ -2,67 +2,30 @@
 slug: digitalgov-university-in-review-2016-training-trends
 date: 2017-01-11 12:00:02 -0400
 title: 'DigitalGov University in Review: 2016 Training Trends'
-summary: 'DigitalGov University (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.'
+summary: 'Thanks to your participation, DigitalGov University (DGU), the events platform for DigitalGov, hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.'
+
 authors:
+
   - jthalls
 topics:
   - accessibility
-  - api
-  - challenges
-  - communities
-  - content
-  - data
+  - application-programming-interface
+  - challenges-and-prize-competitions
+  - content-strategy
+  - open-data
   - design
   - governance
-  - product-management
-  - metrics
-  - mobile
-  - our-work
-  - social-media
-  - strategy
-  - policy
-  - user-testing-and-research
-  - user-experience
-  - 18f
-  - ai
+  - product-and-project-management
   - analytics
-  - api
-  - artificial intelligence
-  - artificial-intelligence-for-citizen-services-community
-  - challenges-and-prizes-community-of-practice
-  - chatbots
-  - cloud
-  - cloud-gov
-  - communities
-  - content
-  - cx
-  - customer-experience-community-of-practice
-  - cx
-  - dap
-  - digitalgov-university
-  - digital-analytics-program
-  - digitalgov-university
-  - fedramp
-  - gsa
-  - metrics
-  - mobile-gov
-  - nasa
-  - National Aeronautics and Space Administration
-  - OCSIT
-  - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
-  - open-data
-  - open-opportunities-program
-  - OPP
+  - mobile
+  - research
+  - user-experience
+  - artificial-intelligence
+  - cloud-and-infrastructure
+  - customer-experience
+  - professional-development
   - social-media
-  - socialgov-community
-  - technology-transformation-services
-  - training
-  - tts
-  - us-general-services-administration
-  - virtual-reality
-  - virtual-augmented-reality-community
-  - webinar
+  - multimedia
 ---
 
 [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.
@@ -71,29 +34,27 @@ topics:
 
 DGU strives to provide training throughout the year that is useful and relevant to you. One of the most resounding comments from digital managers last year was people wanted to be able to attend all of our classes virtually. With very few exceptions, we made sure that there was a virtual component in every training, so that all our attendees, no matter where they were located, can attend and learn.
 
-#### **Analytics and new communications technologies, anyone?** {#4299.graf.graf--h4.graf-after--p}
+## Analytics and new communications technologies, anyone? {#4299.graf.graf--h4.graf-after--p}
 
-Some of our most popular training topics throughout the year focused on using programs such as analytics trainings offered through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) and trainings on how to use the [DigitalGov Search]({{< ref "service_search.md" >}}) program. Other popular events were from the various [DigitalGov Communities]({{< ref "/communities" >}}) like the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}}), [Challenge and Prizes Community of Practice]({{< ref "challenges-prizes.md" >}}), and the [Government Customer Experience Community of Practice]({{< ref "customer-experience.md" >}}) where best practices, case studies, and innovations were shared.
+Some of our most popular training topics throughout the year focused on using programs such as analytics trainings offered through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) and trainings on how to use the [DigitalGov Search]({{< ref "service_search.md" >}}) program. Other popular events were from the various [DigitalGov Communities]({{< ref "/communities" >}}) like the [MobileGov Community of Practice]({{< ref "/topics/mobile" >}}), [Challenge and Prizes Community of Practice]({{< ref "challenges-prizes.md" >}}), and the [Government Customer Experience Community of Practice](https://digital.gov/communities/customer-experience/) where best practices, case studies, and innovations were shared.
 
 We heard that you are interested in the latest tools and trends and how federal agencies are using those products, which is why “[Snaps and Stripes: Sharing Public Service Stories with SnapChat](https://www.youtube.com/watch?v=G82jBHxE4Tk)” was a popular webinar this year. Also, you wanted to know how tools like social listening to address and better understand your audience and their needs so many of you attended the “[Listening Before We Speak: Understanding Our Audience in Times of Disaster](https://www.youtube.com/watch?v=YWhRLCxTYxk)” webinar.
 
-One of the highest attended (and highest rated) events came from longtime community member, [Sam Bronson]({{< ref "/authors/sam-bronson" >}}) of HHS, who shared the need for actionable analytics and the important steps agencies can take in setting up their own analytics program in his webinar, “[The Golden Partnership: How to Improve Website Findability with Actionable Analytics and Content Analysis](https://www.youtube.com/watch?v=Pjc-dEPBExE).” In fact, we heard from one attendee following the event who [has written about how it inspired her to take a different approach for a website project](https://medium.com/@DigitalGov/well-begun-is-half-done-lets-tidy-up-the-website-c19134c53af). We’d like to host more events driven by [community members in the digital government space]({{< ref "/communities" >}}) so we look forward to more examples of great work being done in 2017. We’ll also continue to make sure that all of our trainings have an online component that let’s you attend from anywhere. {{< legacy-img src="2016/01/600-x-450-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="E-learning concept: schooldesks and a chalkboard on a laptop keyboard" caption="" >}}
+One of the highest attended (and highest rated) events came from longtime community member, [Sam Bronson]({{< ref "/authors/sam-bronson" >}}) of HHS, who shared the need for actionable analytics and the important steps agencies can take in setting up their own analytics program in his webinar, “[The Golden Partnership: How to Improve Website Findability with Actionable Analytics and Content Analysis](https://www.youtube.com/watch?v=Pjc-dEPBExE).” In fact, we heard from one attendee following the event who [has written about how it inspired her to take a different approach for a website project](https://medium.com/@DigitalGov/well-begun-is-half-done-lets-tidy-up-the-website-c19134c53af). We’d like to host more events driven by [community members in the digital government space]({{< ref "/communities" >}}) so we look forward to more examples of great work being done in 2017. We’ll also continue to make sure that all of our trainings have an online component that let’s you attend from anywhere.
+
+{{< legacy-img src="2016/01/600-x-450-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="E-learning concept: schooldesks and a chalkboard on a laptop keyboard" caption="Bet Noire, iStock, Thinkstock" >}}
 
 Now, let’s take a look at the most popular events (by attendance) and most watched recordings throughout 2016. You can check out all of our events, which we record, in our [event library](https://www.youtube.com/c/digitalgov).
 
-#### **Top 5 Webinars:**
+## Top 5 Webinars:
 
-  1. FedRAMP Results of the High Baseline Pilot
-
-    The FedRAMP team captured large audiences from the vendor community with updates and tips on the using the program. [Learn more about FedRAMP](https://www.fedramp.gov/).
+  1. FedRAMP Results of the High Baseline Pilot. The FedRAMP team captured large audiences from the vendor community with updates and tips on the using the program. [Learn more about FedRAMP](https://www.fedramp.gov/).
   2. [Open Opportunities and the Acquisition Community](https://www.youtube.com/watch?v=Qcs-Ce0Hzys) This webinar provided an overview of the upcoming [Open Opportunities](https://openopps.digitalgov.gov/) pilot for the Acquisition Community
-  3. [JAB P-ATO Prioritization Criteria and Process](https://www.youtube.com/watch?v=A0X8edhEOxY)
-
-    Another FedRAMP webinar focusing on using the Joint Authorization Board (JAB) to obtain a provisional authorization (P-ATO) for Cloud Service Providers (CSPs).
+  3. [JAB P-ATO Prioritization Criteria and Process](https://www.youtube.com/watch?v=A0X8edhEOxY). Another FedRAMP webinar focusing on using the Joint Authorization Board (JAB) to obtain a provisional authorization (P-ATO) for Cloud Service Providers (CSPs).
   4. [DAP Learning Series: Measuring User Behavior](https://www.youtube.com/watch?v=H9RQf8a4DQE) This webinar in the DAP Learning Series covered the ways you can see how users are navigating your site through Funnel Visualization Beta, navigation summary, and behavior flow.
   5. [Health Literacy Online](https://www.youtube.com/watch?v=55IlBerIsLc) This webinar covered highlights from the second edition of [Health Literacy Online](http://health.gov/healthliteracyonline/), a research-based guide with practical tips for creating easy-to-use health websites and digital health information tools.
 
-#### **Top 5 hybrid events _(in-person & virtual)_:**
+## Top 5 hybrid events _(both in-person & virtual)_:
 
   1. [Good Communication is a CX Imperative](https://www.youtube.com/watch?v=DywmfyLpGQo) This panel brought communicators together from multiple agencies to discuss how they infuse CX into outreach and marketing efforts, supporting successful engagement with government customers.
   2. [18F Design Presents: Bill Barry, NASA Chief Historian](https://www.youtube.com/watch?v=UluotgvuLnU) In this talk, NASA Chief Historian Bill Barry illustrated the convoluted origins of the NASA insignia.
@@ -101,7 +62,7 @@ Now, let’s take a look at the most popular events (by attendance) and most wat
   4. [Automatic for the People: AI, Machine Learning and Chatbots for Digital Customer Service in Government]({{< tmp "events/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}) This session covered how automated services powered by government data and new advances in artificial intelligence and machine learning can help improve and expand digital customer service initiatives.
   5. [October Challenge and Prize Community of Practice meeting]({{< tmp "events/october-challenge-prize-community-of-practice-meeting.md" >}}) This quarterly informative session highlighted the latest in public-sector prize practice.
 
-#### **Top viewed webinars in 2016 from the DigitalGov YouTube Channel**
+## Top viewed webinars in 2016 from the DigitalGov YouTube Channel
 
 Lastly, we took a look at our webinar recordings and evaluated which were most viewed this year. Overall, we’ve had more than 48,000 views on-demand. DGU webinars have a great shelf life — some of these webinars took place in 2012:
 
@@ -113,4 +74,4 @@ Lastly, we took a look at our webinar recordings and evaluated which were most v
 
 We are planning more great events for 2017 and we hope you can join us.
 
-_Federal employees:_ [_email us_](mailto:DigitalGovU@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form]({{< ref "/about/digitalgov-university.md" >}}) to contact the team about creating an online or in-person DGU event._
+_Federal employees:_ [_email us_](mailto:digitalgov@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form]({{< ref "/about/digitalgov-university.md" >}}) to contact the team about creating an online or in-person DGU event._

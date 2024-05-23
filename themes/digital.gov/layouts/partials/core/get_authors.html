@@ -1,5 +1,4 @@
-{{/*
-  ======================================
+{{/* ======================================
   AUTHORS
   ======================================
 */}}
@@ -19,7 +18,8 @@
       {{- $uid := . -}}
 
       {{/* If the byline was entered as a display name (i.e. - John Smith )
-      then this will turn that into a UID for use in a URL. */}}
+        then this will turn that into a UID for use in a URL.
+      */}}
       {{- $uid := $e | urlize -}}
 
       {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
@@ -34,21 +34,30 @@
           </div>
           <div class="grid-col-9">
             <div class="details">
-              <h5>
-                <span class="usa-sr-only">Originally posted by {{ $author.Params.display_name | default $uid }} on {{ $.Date.Format "Jan 2, 2006" }}</span>
-                <a href="{{ (printf "authors/%s/" $uid) | absURL }} " title="Posts by {{ $author.Params.display_name | default $uid }}" rel="author" aria-label="Read more articles by {{ $author.Params.display_name | default $uid }}">
-                  {{- $author.Params.display_name | default $uid -}}
-                </a>
-              </h5>
-
+              <span class="usa-sr-only">
+                Originally posted by
+                {{ $author.Params.display_name | default $uid }} on
+                {{ $.Date.Format "Jan 2, 2006" }}
+              </span>
+              <a
+                href="{{ (printf "authors/%s/" $uid) | absURL }} "
+                title="Posts by {{ $author.Params.display_name | default $uid }}"
+                rel="author"
+                aria-label="Read more articles by {{ $author.Params.display_name | default $uid }}"
+              >
+                {{- $author.Params.display_name | default $uid -}}
+              </a>
               {{- if $author.Params.agency -}}
-              <p>{{- $author.Params.agency -}}{{- if $author.Params.location -}}&nbsp;|&nbsp;{{- $author.Params.location -}}{{- end -}}</p>
+                <p>
+                  {{- $author.Params.agency -}}{{- if $author.Params.location -}}
+                    &nbsp;|&nbsp;{{- $author.Params.location -}}
+                  {{- end -}}
+                </p>
               {{- end -}}
 
             </div>
           </div>
         </div>
-
       {{- end -}}
 
     {{- end -}}

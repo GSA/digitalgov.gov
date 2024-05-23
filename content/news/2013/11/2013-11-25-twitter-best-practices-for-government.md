@@ -7,7 +7,6 @@ authors:
   - lnelson
 topics:
   - social-media
-  - Twitter
 ---
 
 

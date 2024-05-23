@@ -6,13 +6,8 @@ summary: Mobile First is the idea that web sites should first be designed for mo
 topics:
   - design
   - mobile
-  - strategy
-  - policy
+  - content-strategy
   - user-experience
-  - mobile
-  - mobile-first
-  - recaps
-  - responsive-web-design
 
 ---
 
@@ -28,8 +23,6 @@ This means the site will work (to some degree) on that shiny new web-enabled giz
 
 By first creating an experience that prioritizes a worst-case mobile scenario, you ensure that your users will be able to accomplish their goals despite a lot of factors working against them. In short, if you can support the mobile web, you can support anything.
 
-{{< youtube lTYZTwWKaNI >}}
-  
 According to <a href="http://www.lukew.com/resources/mobile_first.asp" rel="nofollow">Luke Wroblewski</a>, a leading proponent of mobile first design, going mobile first:
 
   * prepares you for the explosive growth and new opportunities emerging on mobile today,

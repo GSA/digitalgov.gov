@@ -1,0 +1,3 @@
+{{/* Display the large version of a flexible image by default */}}
+{{- $small := or (.Get "small") "false" -}}
+{{- partial "core/img-flexible.html" (dict "Site" .Site "src" (.Get "src") "small" $small) -}}

@@ -1,43 +1,89 @@
 {{/* Share tools */}}
 
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
 
 <!-- Test syntax -->
-<section class="share_tools">
+<section class="share-tools">
   <div class="grid-row">
     <div class="grid-col-4">
-      <a class="twitter" aria-label="Share on Twitter" href="http://twitter.com/share?url=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&amp;text={{ .Title }}">
-        <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#twitter" | relURL }}"></use>
+      <a
+        class="twitter"
+        aria-label="Share on Twitter"
+        href="http://twitter.com/share?url=https://digital.gov{{ (urls.Parse .Permalink) }}&amp;text={{ .Title }}"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="{{ "uswds/img/sprite.svg#x" | relURL }}"></use>
         </svg>
       </a>
     </div>
     <div class="grid-col-4">
-      <a class="facebook" aria-label="Share on Facebook" href="http://www.facebook.com/sharer.php?u=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&t={{ .Title | urlize }}">
-        <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#facebook" | relURL }}"></use>
+      <a
+        class="facebook"
+        aria-label="Share on Facebook"
+        href="http://www.facebook.com/sharer.php?u=https://digital.gov{{ (urls.Parse .Permalink) }}&t={{ .Title | urlize }}"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#facebook" | relURL }}"
+          ></use>
         </svg>
       </a>
     </div>
     <div class="grid-col-4">
-      <a class="linkedin" aria-label="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=https://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}&title={{ .Title | urlize }}&summary={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}">
-        <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#linkedin" | relURL }}"></use>
+      <a
+        class="linkedin"
+        aria-label="Share on LinkedIn"
+        href="https://www.linkedin.com/shareArticle?mini=true&url=https://digital.gov{{ (urls.Parse .Permalink) }}&title={{ .Title | urlize }}&summary={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#linkedin" | relURL }}"
+          ></use>
         </svg>
       </a>
     </div>
   </div>
   <div class="grid-row">
     <div class="grid-col-6">
-      <a target="_blank" title="Email this page" class="email" href="mailto:?subject={{ .Title }}%20%7C%20Digital.gov&body=%20%20%0A-------%0A{{ .Title }}%0Ahttps://digital.gov{{ (urls.Parse .Permalink)}}{{$path}}%3Fem%0A-------%0A%0A&#9829; Sign-up%20for%20the%20Digital.gov%20newsletter%3A%20https%3A%2F%2Fdigital.gov%2Fsubscribe%2F" data-proofer-ignore>
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <a
+        target="_blank"
+        title="Email this page"
+        class="email"
+        href="mailto:?subject={{ .Title }}%20%7C%20Digital.gov&body=%20%20%0A-------%0A{{ .Title }}%0Ahttps://digital.gov{{ (urls.Parse .Permalink) }}%3Fem%0A-------%0A%0A&#9829; Sign-up%20for%20the%20Digital.gov%20newsletter%3A%20https%3A%2F%2Fdigital.gov%2Fsubscribe%2F"
+        data-proofer-ignore
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
           <use xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"></use>
         </svg>
-        Email</a>
+        Email</a
+      >
     </div>
     <div class="grid-col-6">
-      <a class="print" href="javascript:window.print()" onclick="window.print();return false;">
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
+      <a
+        class="print"
+        href="javascript:window.print()"
+        onclick="window.print();return false;"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
           <use xlink:href="{{ "uswds/img/sprite.svg#print" | relURL }}"></use>
         </svg>
         Print

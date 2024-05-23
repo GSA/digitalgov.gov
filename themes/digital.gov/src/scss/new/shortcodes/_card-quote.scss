@@ -1,41 +1,47 @@
 @use "uswds-core" as *;
 
-.card-quote{
-	@include u-margin-bottom(3);
-	@include u-bg('gold-5');
-	@include u-radius('sm');
-	blockquote{
-		@include u-margin(0);
-		@include u-padding-y(3);
-		@include u-padding-x(5);
-		@include u-padding-right(3);
-		@include u-text-indent(-2);
-		@include u-text('gold-60');
-		@include u-font('serif', 'md');
-		@include u-border-left('05', 'solid', 'gold-30');
-		@include at-media('tablet') {
-			@include u-padding-x(5);
-			@include u-padding-right(4);
-		}
-		.q{
-			@include u-margin-right('05');
-		}
-		cite{
-			@include u-display('block');
-			@include u-padding-right(4);
-			@include u-text('right');
-			@include u-text('italic');
-			@include u-line-height('serif', 2);
-			@include u-measure(4);
-			@include u-font('sans', 'md');
-		}
-	}
+.card-quote {
+  @include u-measure(6);
+  @include u-margin-bottom(3);
+  @include u-bg("gold-5");
+  @include u-radius("sm");
+
+  blockquote {
+    @include u-margin(0);
+    @include u-padding-y(3);
+    @include u-padding-x(5);
+    @include u-padding-right(3);
+    @include u-text-indent(-2);
+    @include u-text("gold-60");
+    @include u-font("serif", "md");
+    @include u-border-left("05", "solid", "gold-30");
+
+    @include at-media("tablet") {
+      @include u-padding-x(5);
+      @include u-padding-right(4);
+    }
+
+    .q {
+      @include u-margin-right("05");
+    }
+
+    cite {
+      @include u-display("block");
+      @include u-margin-top(2);
+      @include u-padding-right(4);
+      @include u-text("right");
+      @include u-text("italic");
+      @include u-line-height("serif", 2);
+      @include u-font("sans", "md");
+    }
+  }
 }
 
-.card-quote.dark{
-	@include u-bg('gray-cool-70');
-	blockquote{
-		@include u-text('white');
-		@include u-border-left('05', 'solid', 'gray-cool-20');
-	}
+.card-quote.dark {
+  @include u-bg("gray-cool-70");
+
+  blockquote {
+    @include u-text("white");
+    @include u-border-left("05", "solid", "gray-cool-20");
+  }
 }

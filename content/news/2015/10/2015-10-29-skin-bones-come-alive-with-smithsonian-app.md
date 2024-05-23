@@ -7,23 +7,14 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - monthly-theme
-  - mobile-apps
-  - native-app
-  - native-apps
-  - smithsonian-institution
-  - SSA
-  - the-united-states-social-security-administration
-  - thursday-mobile-products
+
 ---
 
 {{< legacy-img src="2015/10/600-x-450-Smithsonian-Skin-and-Bones-app-iPad-home-screen.jpg" alt="The home screen of the Smithsonian Skin and Bones iPad app" >}}
 
 The night air is cool and crisp, the autumn leaves are falling, your costume is ready, jack-o-lanterns carved, lights dimmed, candy in the basket—what else do you need to make &#8220;All Hallows’ Eve trick or treat&#8221; complete? Some eerie music, a spine tingling, blood curdling horror movie? No, no—those are for yesteryears!
 
-<p style="text-align: left">
-  This Halloween, let’s make the skeletons in the Smithsonian National Museum of Natural History come alive. Let’s try and capture that vampire bat skeleton that pulls itself off the mount to run away, or watch the horror of an extinct Steller&#8217;s sea cow materialize in the flesh.
-</p>
+This Halloween, let’s make the skeletons in the Smithsonian National Museum of Natural History come alive. Let’s try and capture that vampire bat skeleton that pulls itself off the mount to run away, or watch the horror of an extinct Steller&#8217;s sea cow materialize in the flesh.
 
 The Skin & Bones mobile app from the Smithsonian Institution allows you to view, in 3D, exhibits from three centuries ago with the latest 21<sup>st</sup> century augmented reality technology.
 

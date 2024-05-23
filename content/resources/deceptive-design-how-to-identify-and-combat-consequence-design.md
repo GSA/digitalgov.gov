@@ -7,9 +7,7 @@ deck: ""
 summary: Consequence design is part of everyday life. Deceptive techniques like “dark patterns” and “hostile design” trick people into taking unintended actions — learn how to prevent them from sneaking into our design work.
 # See all topics at https://digital.gov/topics
 topics:
-  - 18f
   - user-experience
-  - uswds
   - design
 # See all authors at https://digital.gov/authors
 authors:
@@ -22,7 +20,7 @@ slug: deceptive-design-how-to-identify-and-combat-consequence-design
 weight: 1
 ---
 
-{{< youtube Aw5ovySXf6o >}}
+{{< youtube id="Aw5ovySXf6o" title="USWDS Monthly Call: Deceptive Design Patterns Dark Patterns (Oct 2020)">}}
 
 {{< note >}} In this training, Ron Bronson, who leads the product design teams for GSA/TTS 18F team, discusses what we all can do to assure that deceptive design patterns stay out of the sites we build. The article below provides an overview of the presentation. {{< /note >}}
 

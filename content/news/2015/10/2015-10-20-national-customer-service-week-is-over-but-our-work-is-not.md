@@ -6,25 +6,19 @@ summary: 'Get your customer personas right, and you will improve the customer ex
 authors:
   - ktrebon
 topics:
-  - product-management
-  - strategy
-  - policy
-  - "508"
   - accessibility
-  - cx
-  - customer-satisfaction
-  - customer-service
-  - cx
-  - personas
-  - section-508
+  - product-and-project-management
+  - content-strategy
+  - customer-experience
+  - research
   - user-experience
 ---
 
-{{< legacy-img src="2015/10/600-x-400-Man-builds-rating-Palto-iStock-Thinkstock-527857125.jpg" alt="Man builds rating" caption="" >}} 
-
 Get your customer personas right, and you will improve the customer experience (CX) for the rest of your audience.
 
-That&#8217;s advice [Rick Parrish](https://www.forrester.com/Rick%20Parrish) from [Forrester Research](https://www.forrester.com/home/) gave in response to an audience question during the September 29 [DigitalGov University webinar](https://www.youtube.com/watch?v=JFJg-8KwR9I) on the state of CX in the federal government. Your key customers are those that are most important to the organization, and often most difficult to serve, he explained.
+{{< legacy-img src="2015/10/600-x-400-Man-builds-rating-Palto-iStock-Thinkstock-527857125.jpg" alt="Man builds rating" caption="Palto, iStock, Thinkstock" >}} 
+
+That&#8217;s advice [Rick Parrish](https://www.forrester.com/Rick%20Parrish) from [Forrester Research](https://www.forrester.com/home/) gave in response to an audience question during the September 29 DigitalGov University webinar on the state of CX in the federal government. Your key customers are those that are most important to the organization, and often most difficult to serve, he explained.
 
 When you get into [personas]({{< ref "2015-01-09-personas-101.md" >}}), user stories, [customer journey maps](http://blogs.forrester.com/maxie_schmidt_subramanian/14-12-08-there_is_a_secret_to_better_cx_metrics_journey_mapping) and the like, it’s easy to go down the rabbit hole, Parrish said. Most organizations—even big companies—maintain 3-5 personas for their key customers.
 
@@ -74,24 +68,16 @@ Given the recent [National Customer Service Week](http://www.csweek.com/customer
 
 <ul>
   <li>
-    <b>All 3 Es (Effectiveness, Ease, and Emotion). </b>This doesn’t need to be complicated when you are just starting out. Simply make sure customers can accomplish what they are trying to do, easily, and that they feel good about it.
+    <b>All 3 Es (Effectiveness, Ease, and Emotion).</b> This doesn’t need to be complicated when you are just starting out. Simply make sure customers can accomplish what they are trying to do, easily, and that they feel good about it.
   </li>
   <li>
-    <b>The customer’s perspective. </b>It’s so easy to accidentally measure your own internal perspective rather than the customers’. For instance, if your internal IT help desks have very fast trouble ticket closure rates, it’s easy to think that they are solving solving customers’ problems easily. And they may be—but that’s not what you’re measuring. You’re simply measuring how fast help desk employees can close tickets, not whether the customers’ problems were actually solved.
+    <b>The customer’s perspective.</b> It’s so easy to accidentally measure your own internal perspective rather than the customers’. For instance, if your internal IT help desks have very fast trouble ticket closure rates, it’s easy to think that they are solving solving customers’ problems easily. And they may be—but that’s not what you’re measuring. You’re simply measuring how fast help desk employees can close tickets, not whether the customers’ problems were actually solved.
   </li>
   <li>
-    <b><b>How your CX performance affects your mission success.</b> CX isn’t an end in itself—it has to help you accomplish your agency’s goals. So identify mission performance metrics that you can match up with CX performance measures. Then see how well units that score well on CX perform on mission metrics as compared to units that do not score well on CX. That way you’ll quickly identify which CX changes drive the biggest wins on your mission performance goals, and you’ll build hard data on the <a href="http://blogs.forrester.com/harley_manning/15-07-15-better_customer_experience_correlates_with_higher_revenue_growth_in_most_industries">ROI of CX investments</a>.</b>
+    <b>How your CX performance affects your mission success.</b> CX isn’t an end in itself—it has to help you accomplish your agency’s goals. So identify mission performance metrics that you can match up with CX performance measures. Then see how well units that score well on CX perform on mission metrics as compared to units that do not score well on CX. That way you’ll quickly identify which CX changes drive the biggest wins on your mission performance goals, and you’ll build hard data on the <a href="http://blogs.forrester.com/harley_manning/15-07-15-better_customer_experience_correlates_with_higher_revenue_growth_in_most_industries">ROI of CX investments</a>.
   </li>
 </ul>
 
 <p>
-  <b></b>So, based on what you learned here and on the <a href="https://www.youtube.com/watch?v=fI6o7hxSJQw">webinar</a>, what does your agency plan to do to improve CX in the coming year? Get started now, so you have good stories to tell during the next Customer Service Week in October 2016.
-</p>
-
-<p>
-  [youtube=http://www.youtube.com/watch?v=JFJg-8KwR9I&w=600]
-</p>
-
-<p>
-   
+  <b></b>So, based on what you learned here and on the webinar, what does your agency plan to do to improve CX in the coming year? Get started now, so you have good stories to tell during the next Customer Service Week in October 2016.
 </p>

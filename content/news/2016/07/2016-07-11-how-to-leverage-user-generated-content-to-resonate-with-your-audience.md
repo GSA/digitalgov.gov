@@ -2,47 +2,21 @@
 slug: how-to-leverage-user-generated-content-to-resonate-with-your-audience
 date: 2016-07-11 13:30:29 -0400
 title: 'The Content Corner: How to Leverage User-Generated Content to Resonate With Your Audience'
-summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let’s look to a shining example of it,Wikipedia, as a source, &#8220;any form of content such as blogs, wikis, discussion forums, posts, chats,tweets, podcasts, digital images, video, audio files, advertisements, and other'
+summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content.'
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - mobile
+  - content-strategy
   - social-media
   - user-experience
-  - apps-challenges
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - content
-  - COPS Office
-  - crowdsourcing
-  - DOJ
+  - crowdsourcing-and-citizen-science
   - mobile
-  - mobile-apps
-  - mobile-gov
-  - NARA
-  - national-archives-and-records-administration
-  - nih
-  - NPS
-  - Office of Community Oriented Policing Services
-  - SAMHSA
-  - social-media
-  - socialgov
-  - the-content-corner
-  - US Department of Agriculture
-  - us-department-of-justice
-  - us-forest-service
-  - us-national-park-service
-  - UGC
-  - USDA
-  - user-generated-content
-  - USFS
 ---
 
-**User-Generated Content** (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let’s look to a shining example of it,Wikipedia, as a source, &#8220;**any form of content** such as [blogs](https://en.wikipedia.org/wiki/Blog "Blog"), [wikis](https://en.wikipedia.org/wiki/Wiki "Wiki"), [discussion forums](https://en.wikipedia.org/wiki/Internet_forum "Discussion forum"), [posts](https://en.wikipedia.org/wiki/Internet_post "Internet post - page does not exist"), [chats](https://en.wikipedia.org/wiki/Online_chat "Online chat"),[tweets](https://en.wikipedia.org/wiki/Twitter "Twitter"), [podcasts](https://en.wikipedia.org/wiki/Podcast "Podcast"), digital images, video, audio files, advertisements, and other forms of media that was created by **users** of an online system or service, often made available via [social media websites](https://en.wikipedia.org/wiki/List_of_social_networking_websites "List of social networking websites").&#8221; {{< legacy-img src="2016/07/600-x-400-color-edits-Communication-concept-network-VLADGRIN-iStock-Thinkstock-480561776.jpg" alt="Communication concept network." caption="" >}} 
+**User-Generated Content** (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let’s look to a shining example of it,Wikipedia, as a source, &#8220;**any form of content** such as [blogs](https://en.wikipedia.org/wiki/Blog "Blog"), [wikis](https://en.wikipedia.org/wiki/Wiki "Wiki"), [discussion forums](https://en.wikipedia.org/wiki/Internet_forum "Discussion forum"), [posts](https://en.wikipedia.org/wiki/Internet_post "Internet post - page does not exist"), [chats](https://en.wikipedia.org/wiki/Online_chat "Online chat"),[tweets](https://en.wikipedia.org/wiki/Twitter "Twitter"), [podcasts](https://en.wikipedia.org/wiki/Podcast "Podcast"), digital images, video, audio files, advertisements, and other forms of media that was created by **users** of an online system or service, often made available via [social media websites](https://en.wikipedia.org/wiki/List_of_social_networking_websites "List of social networking websites").&#8221;
+
+{{< legacy-img src="2016/07/600-x-400-color-edits-Communication-concept-network-VLADGRIN-iStock-Thinkstock-480561776.jpg" alt="Communication concept network." caption="VLADGRIN, iStock, Thinkstock" >}} 
 
 Whether it’s [sharing relevant content to your brand](https://twitter.com/wernerc/status/746348823186808832) with your audience, or posting [guest blogs from influencers or subject matter experts](https://theiacpblog.org/2016/07/05/lets-all-be-a-player-police-legitimacy-and-youth-engagement-results/), we probably all implement user-generated content into our strategy in some way these days. Well, at least there are many reasons we should be.
 
@@ -64,13 +38,15 @@ Just a few other benefits of UGC include:
 
 > _&#8220;[Authenticity is key &#8211; if you don’t believe what someone is telling you and you don’t think they are being genuine or telling the truth, then it means nothing.](http://www.socialmediatoday.com/marketing/influencer-marketing-collaboration-not-transaction)&#8221; – Dan Neale, Social Media Today_
 
-As previously stated on [The Content Corner]({{< ref "/topics/the-content-corner" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
+As previously stated on [The Content Corner]({{< ref "/topics/content-strategy" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
 
 There are many ideas for how to implement user-generated content into your content strategy. I’ve gathered several case studies from across the government, to provide a glimpse at some of the many ways agencies are seeing the value in UGC.
 
 To highlight community policing efforts in action, the Community Oriented Policing Services Office hosts a [Community Policing in Action](http://www.cops.usdoj.gov/photocontest) photo contest to celebrate examples of community policing and showcase the work of American law enforcement.
 
-{{< legacy-img src="2016/07/600-x-172-Community-Policing-2016-Photo-Contest_WebBanner.jpg" alt="Community Policing 2016 Photo Contest banner." >}}<figure class="tmblr-full"></figure> _National Archives_, through the _National Archives Foundation_, hosted a [#ArchivesJuly4 Transcribe-a-thon](https://www.archivesfoundation.org/event/archivesjuly4-transcribe-thon/) where participants using their computers on site, helped to unlock info to put in the records on the National Archives’ online catalog.
+{{< legacy-img src="2016/07/600-x-172-Community-Policing-2016-Photo-Contest_WebBanner.jpg" alt="Community Policing 2016 Photo Contest banner." >}}<figure class="tmblr-full"></figure>
+
+_National Archives_, through the _National Archives Foundation_, hosted a [#ArchivesJuly4 Transcribe-a-thon](https://www.archivesfoundation.org/event/archivesjuly4-transcribe-thon/) where participants using their computers on site, helped to unlock info to put in the records on the National Archives’ online catalog.
 
 {{< legacy-img src="2016/07/600-x-300-National-Archives-and-Records-Administration-July-4th-Transcribe-a-thon.jpg" alt="National Archives and Records Administration graphic for the July 4th Transcribe-a-thon." >}}<figure class="tmblr-full"></figure> 
 
@@ -82,18 +58,20 @@ Crowdsourcing can be another tactic to reach out for user-generated content. [Ch
 
 By providing an incentive, in this case cash and other prizes, Challenge.gov receives useful solutions:
 
-Last week, the _Substance Abuse and Mental Health Services Administration_ completed a challenge for [participants to create a mobile app](http://www.samhsa.gov/newsroom/press-announcements/201603041100) to provide opioid recovery support for patients. They provided tiered prizes for up to eight participants, with the top app developer receiving $15,000.<figure class="tmblr-full">{{< legacy-img src="2016/07/600-x-80-SAMHSA-Opioid-Recovery-App-Challenge-banner.jpg" alt="SAMHSA Opioid Recovery App Challenge banner." >}}</figure> 
+{{< box >}}Last week, the _Substance Abuse and Mental Health Services Administration_ completed a challenge for [participants to create a mobile app](http://www.samhsa.gov/newsroom/press-announcements/201603041100) to provide opioid recovery support for patients. They provided tiered prizes for up to eight participants, with the top app developer receiving $15,000.
 
-The [National Park Service](https://www.nps.gov/) and [National Capital Planning Commission](https://www.ncpc.gov/) recently completed an ideas competition called [Memorials of the Future](https://future.ncpc.gov/), with the goal of site-specific designs for memorials in Washington, DC. One submission virtualized National Parks using ultra-high definition videos and audio recordings through an interactive, immersive installation.
+<figure class="tmblr-full">{{< legacy-img src="2016/07/600-x-80-SAMHSA-Opioid-Recovery-App-Challenge-banner.jpg" alt="SAMHSA Opioid Recovery App Challenge banner." >}}</figure> 
+
+The [National Park Service](https://www.nps.gov/) and [National Capital Planning Commission](https://www.ncpc.gov/) recently completed an ideas competition called [Memorials of the Future](https://future.ncpc.gov/), with the goal of site-specific designs for memorials in Washington, DC. One submission virtualized National Parks using ultra-high definition videos and audio recordings through an interactive, immersive installation.{{< /box >}}
 
 Similar to Challenge.gov, [CitizenScience.gov](http://www.citizenscience.gov/) is designed to accelerate the use of crowdsourcing and citizen science across the U.S. government. At the time this piece was written, 301 projects represented by 25 agencies are live and mapped in their [virtual catalog](http://www.citizenscience.gov/catalog/).
 
-In an effort to increase “surface observations” [NOAA’s National Severe Storms Laboratory](http://www.nssl.noaa.gov/) recently announced, “Summer Spotlight: [mPING!](https://www.citizenscience.gov/2016/07/06/noaa-summer-spotlight-mping/ "Permanent Link to NOAA Summer Spotlight: mPING!")” a [crowdsourcing project](https://ccsinventory.wilsoncenter.org/#projectId/24) to collect public weather reports through a free app available for smartphones and mobile devices.
+{{< box >}}In an effort to increase “surface observations” [NOAA’s National Severe Storms Laboratory](http://www.nssl.noaa.gov/) recently announced, “Summer Spotlight: [mPING!](https://www.citizenscience.gov/2016/07/06/noaa-summer-spotlight-mping/ "Permanent Link to NOAA Summer Spotlight: mPING!")” a [crowdsourcing project](https://ccsinventory.wilsoncenter.org/#projectId/24) to collect public weather reports through a free app available for smartphones and mobile devices.
+  
+{{< youtube id="bf129k6ZiF8" title="Bite-Sized Science: The mPING App" >}}
 
-[youtube=http://www.youtube.com/watch?v=bf129k6ZiF8&w=600]
+The <a href="http://www.fs.fed.us/">U.S. Forest Service</a> and <a href="http://www.usda.gov/">U.S. Department of Agriculture</a> host many <a href="http://www.citizenscience.gov/catalog/">projects in the catalog</a> that collaborate with NGO’s, schools and state and local governments, that, among other things, support conservation goals/policy and research advancement, build new technologies, and gather or classify data.{{< /box >}}
 
-<p style="padding-left: 30px;padding-top: 15px">
-  The <a href="http://www.fs.fed.us/">U.S. Forest Service</a> and <a href="http://www.usda.gov/">U.S. Department of Agriculture</a> host many <a href="http://www.citizenscience.gov/catalog/">projects in the catalog</a> that collaborate with NGO’s, schools and state and local governments, that, among other things, support conservation goals/policy and research advancement, build new technologies, and gather or classify data.
-</p>
-
-There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich).
+  
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

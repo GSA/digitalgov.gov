@@ -8,13 +8,8 @@ authors:
   - allison-baker
   - perryn-ashmore
 topics:
-  - data
-  - cloud
-  - CMS
-  - data
+  - cloud-and-infrastructure
   - data-visualization
-  - FCC
-  - federal-communications-commission
   - open-data
 ---
 

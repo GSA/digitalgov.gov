@@ -15,11 +15,10 @@ summary: "**How to Present Like a Pro**&mdash;When you are presenting on
   improve your presentation skills in the “zoom” era."
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - plain-language
-  - audio-video
+  - multimedia
   - professional-development
-  - video
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

@@ -3,15 +3,18 @@ slug: thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-met
 date: 2018-04-03 12:00:00 -0500
 title: 'Thinking About Going Agile&#63; 5 Benefits Your Office Will Reap With Agile Methods'
 summary: 'Five benefits of using agile methodologies that can help federal employees improve the quality of their work.'
+
 authors:
   - brian-fox
+
 topics:
-  - product-management
-  - agile
-  - sprint
+  - product-and-project-management
+  - software-engineering
+
 featured_image:
   uid: agile-project-planning
   alt: 'Different colored sticky notes from an agile project planning session.'
+
 ---
 
 Some organizations are curious about agile and want to know the benefits of working with this methodology. While there are a number of benefits and opportunities from going agile, there are also a few challenges for leaders to manage.

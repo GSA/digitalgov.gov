@@ -2,18 +2,14 @@
 slug: content-management-systems-toolkit
 date: 2013-10-30 8:45:15 -0400
 title: Content Management Systems Toolkit
-summary: 'Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device&mdash;via open content&mdash;is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information. The key steps'
+summary: 'Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device via open content is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information.'
 authors:
   - rflagg
 topics:
-  - api
-  - content
-  - CMS
-  - content-management-system
+  - application-programming-interface
   - content-strategy
-  - metadata
+  - search-engine-optimization
   - open-source
-  - sitesusagov
 ---
 
 Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
@@ -57,12 +53,12 @@ Once you’ve built it, you should continue to update and maintain it, tracking 
 Before implementing a CMS, you should get rid of “ROT” (Redundant, Outdated, Trivial) content. Your completed content inventory can help you spot the ROT.
 
   * Look for pages with similar content, and review to see if you can combine them and delete one of the pages.
-  * [Examine your metrics]({{< ref "/topics/metrics" >}}). Do you have pages that are only getting a few visits a month? Those pages may not be worth keeping, if no one is looking at them.
+  * [Examine your metrics]({{< ref "/topics/analytics" >}}). Do you have pages that are only getting a few visits a month? Those pages may not be worth keeping, if no one is looking at them.
   * Review search terms and compare your IA to the topics and terms people search for on your site. If a topic or page has low search traffic, and low visits, review to see if it’s a candidate for removal.
 
 ### Determine Content Structure
 
-Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content").
+Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy](https://digital.gov/2013/07/29/how-to-create-open-structured-content/).
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
@@ -74,7 +70,7 @@ See how [EPA uses Dublin Core metadata to structure content]({{< legacy-file "20
 
 [Metadata](http://en.wikipedia.org/wiki/Metadata) is essentially “data about data,” and consists of machine-readable descriptions that tell other computers important facts about your digital content. It provides a standardized system to label and classify content. It also:
 
-  * Enables content aggregation, re-use, and syndication via Really Simple Syndication (RSS), [Application Programming Interfaces (APIs)]({{< ref "/topics/api" >}}), and other technologies
+  * Enables content aggregation, re-use, and syndication via Really Simple Syndication (RSS), [Application Programming Interfaces (APIs)]({{< ref "/topics/application-programming-interface" >}}), and other technologies
   * Provides an audit trail, with information about who created the information, and when
   * Helps identify redundant, duplicative, and possibly obsolete content
 
@@ -340,7 +336,7 @@ If you have a key group of external stakeholders, and you anticipate the migrati
 
 ### Test Design Upgrades with Users
 
-If you’re making any design changes along with your content migration, do [user testing]({{< ref "/topics/user-research" >}}) early-on, to gather feedback and make improvements before launch.
+If you’re making any design changes along with your content migration, do [user testing]({{< ref "/topics/research" >}}) early-on, to gather feedback and make improvements before launch.
 
 ### Plan for Structured Content
 
@@ -386,3 +382,7 @@ If you’ve done your research and followed your plan, you should have a smooth 
   * [Why NCI Moved to a Structured Content Model]({{< ref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}} "Why NCI Moved to a Structured Content Model")
   * [How NASA Chose a New Content Management System]({{< ref "2012-11-21-how-nasa-chose-a-new-content-management-system.md" >}} "How NASA Chose a New Content Management System")
   * [How the Department of Education Automated Publication of Press Releases]({{< ref "2012-11-21-how-the-department-of-education-automated-publication-of-press-releases.md" >}} "How the Department of Education Automated Publication of Press Releases")
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

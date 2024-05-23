@@ -1,0 +1,18 @@
+{{/* Collection Icon
+
+  Display agency icon for the media variant
+
+  @param {string} logo_source - Path to agency logo, can be internal or external. Value is calculated from front matter fields to lookup agency logo
+*/}}
+
+{{ $logo_source := .logo_source }}
+
+
+<div class="usa-collection__img-wrapper">
+  <img
+    class="usa-collection__img"
+    src="{{ $logo_source | relURL }}"
+    alt=""
+    aria-hidden="true"
+  />
+</div>

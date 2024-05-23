@@ -1,0 +1,34 @@
+{{/* Display a sidebar of glossary terms populated by a json file used on guide pages.
+
+  Example (click on glossary button):
+  https://digital.gov/guides/hcd/discovery-concepts/
+*/}}
+
+
+<aside
+  class="dg-glossary__container"
+  aria-describedby="dg-glossary__result"
+  aria-hidden="true"
+>
+  <button title="Close glossary" class="dg-glossary__close" disabled>
+    <svg
+      class="usa-icon dg-icon dg-icon--large"
+      aria-hidden="true"
+      focusable="true"
+    >
+      <use xlink:href="{{ "uswds/img/sprite.svg#close" | relURL }}"></use>
+    </svg>
+  </button>
+  {{/* Used as a hook in `summary-box.js`. */}}
+  <h2 class="dg-glossary__header">Glossary</h2>
+  <label for="dg-glossary__search" class="usa-label">Search for a term:</label>
+  <input
+    id="dg-glossary__search"
+    class="dg-glossary__search usa-input"
+    type="text"
+    disabled
+  />
+  <div class="dg-glossary__content" id="dg-glossary__result">
+    <ul class="dg-glossary__list add-list-reset"></ul>
+  </div>
+</aside>

@@ -1,0 +1,54 @@
+{{/* Collection Component
+
+  Wrapper component around uswds-collection that returns a collection of links built from a list of internal resources or external links.
+  Takes in a collection_data object and settings object
+
+  @param {object} collection_data - List of pages or links that have a required header, description, link
+  @param {object} settings — Settings to control how the collection list should be displayed
+  @see collection-list-item.html for explanation on each setting type
+  @param {number} settings.limit — number of list items to be displayed, defaults to 10 max
+  @param {object} settings.footer - an object for setting the footer message
+  - @param {string } settings.footer.title - link text that should read "More on ..." with an arrow icon before the text
+  - @param {string } settings.footer.href - url for the link
+
+  @example
+  {{ $top_resources := .Params.top_resources.resources
+}}
+{{ $footer := ( dict "title" .Params.top_resources.footer.title "href" .Params.top_resources.footer.href ) }}
+{{ $collection_settings := ( dict "variant" "custom" "limit" 10 "list_header" 3 false "footer" $footer ) }}
+{{- partial "partials/core/collection/collection.html" (dict "collection_data" $top_resources "settings" $collection_settings) -}}
+*/}}
+{{ $settings := .settings }}
+{{ $collection_data := .collection_data }}
+{{ $collection_settings := ( dict "length" (or $settings.limit 10) "variant" $settings.variant "list_header" $settings.list_header "meta_source" $settings.meta_source) }}
+{{ $header_data := ( dict "title" $settings.header_title "size" $settings.header_size "link" $settings.header_link "id" $settings.header_id ) }}
+{{ $footer := $settings.footer }}
+
+{{ if $collection_data }}
+  <div class="dg-collection">
+    {{ if $settings.header_title }}
+      {{ partial "core/collection/collection-header" (dict "header_data" $header_data) }}
+    {{ end }}
+
+    {{ partial "core/usa-collection" (dict "collection_data" $collection_data "settings" $collection_settings) }}
+
+    {{ if $footer.title }}
+      <div class="dg-collection__footer">
+        <p class="dg-collection__more">
+          <a href="{{- $footer.href | relURL -}}">
+            <span>{{ $footer.title }}</span>
+            <svg
+              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <use
+                xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+              ></use>
+            </svg>
+          </a>
+        </p>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

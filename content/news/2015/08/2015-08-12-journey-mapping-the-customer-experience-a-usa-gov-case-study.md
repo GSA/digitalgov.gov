@@ -9,10 +9,9 @@ authors:
 topics:
   - user-experience
   - analytics
-  - cx
-  - government-contact-centers
-  - personas
-  - usa-gov
+  - customer-experience
+  - contact-centers
+  - research
 ---
 
 Journey maps are a visual representation of a customer’s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services.
@@ -39,7 +38,7 @@ To create Linda’s behavior line, we looked at:
   * Web analytics specifically for our [Government Benefits, Grants, and Loans](https://www.usa.gov/benefits-grants-loans) content
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov
-  * [Contact center]({{< ref "/topics/government-contact-centers" >}}) content usage
+  * [Contact center]({{< ref "/topics/contact-centers" >}}) content usage
   * Web analytics for other government websites available through the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})
   * General search trends on Google
 
@@ -69,7 +68,7 @@ The journey mapping process and results helped us clearly see the pain points an
 
 ## Next Steps and Key Takeaways
 
-While the process of journey mapping is enlightening, it doesn’t end with a map. Follow-up and planning for improvement are key. We’ve incorporated many outcomes from our journey maps into our [customer experience]({{< ref "/topics/cx" >}}) (CX) improvement queue. We’ve prioritized several projects into our fourth quarter objectives and key results across our content, user experience, performance measurement, and contact center teams.
+While the process of journey mapping is enlightening, it doesn’t end with a map. Follow-up and planning for improvement are key. We’ve incorporated many outcomes from our journey maps into our [customer experience]({{< ref "/topics/customer-experience" >}}) (CX) improvement queue. We’ve prioritized several projects into our fourth quarter objectives and key results across our content, user experience, performance measurement, and contact center teams.
 
 [{{< legacy-img src="2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="600-x-480-USAgov-Personas-and-Journey-Maps" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/07/1000-x-800-USAgov-Personas-and-Journey-Maps.jpg)
 

@@ -6,11 +6,10 @@ summary: 'Children&#8217;s mobile media use has doubled and in some cases triple
 authors:
   - lisa-wilcox
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - mobile
-  - mobile
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 {{< legacy-img src="2014/02/250-x-185-girl-reading-on-tablet-six-new-changes-in-kids-media-habits.jpg" alt="250 x 185 - girl reading on tablet - six new changes in kids media habits" >}}Children&#8217;s mobile media use has doubled and in some cases tripled in the last two years, according an [eSchool News report](http://www.eschoolnews.com/2013/10/28/childrens-media-use-197/) of a [study by Common Sense Media](http://www.commonsensemedia.org/research/zero-to-eight-childrens-media-use-in-america-2013). Here are the other key findings:

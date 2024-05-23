@@ -2,19 +2,20 @@
 slug: digitalgov-user-experience-resources
 date: 2013-12-04 4:26:11 -0400
 title: DigitalGov User Experience Resources
-summary: "DigitalGov&#8217;s user experience resources provide tools for federal employees on how to make products and services more user-friendly, save money via user research, and create successful experiences"
+summary: "DigitalGov&#8217;s user experience resources provide tools for federal employees on how to make products and services more user-friendly, save money via user research, and create successful experiences."
 topics:
   - user-experience
-  - user-research
+  - research
 authors:
   - andreanocesigritz
 aliases:
   - /resources/digitalgov-user-experience-program/
+
 ---
 
 We want to help you make better digital products. We believe that a little user research makes government a lot better.
 
-{{< legacy-img src="/2014/01/usajobs-hallway-test-high-five-250x244.jpeg" alt="Two people high fiving at a usability training" >}}
+{{< legacy-img-right src="/2014/01/usajobs-hallway-test-high-five-250x244.jpeg" alt="Two people high fiving at a usability training" >}}
 
 DigitalGov&#8217;s user experience resources provide tools for federal employees on how to:
 
@@ -22,7 +23,7 @@ DigitalGov&#8217;s user experience resources provide tools for federal employees
 - Save money via user research
 - Create successful experiences
 
-## Four User Experience Resources to Help You:
+## Four User Experience Resources to Help You
 
 **1. Usability Starter Kit**
 

@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/survey-channel-response-values-hisp-dashboard.png
+  # Image shortcode: {{< img src=survey-channel-response-values-hisp-dashboard >}}'
+  date     :  2023-10-30 14:35:38 -0400
+  uid      :  survey-channel-response-values-hisp-dashboard
+  width    :  1075
+  height   :  412
+  format   :  png
+  credit   :  
+  caption  :  
+  alt      :  "Screenshot of Service Level Analysis for an unnamed HISP showing the distribution of scores by survey channel, and the survey channel response counts over time for automated phone and computer (other channels not shown)."
+  

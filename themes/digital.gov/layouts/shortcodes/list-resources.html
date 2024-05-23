@@ -1,44 +1,55 @@
 {{- $page := .Page -}}
 
-<section class="usa-section" id="resources_by_topic">
+
+<section class="usa-section resources-by-topic">
   <div class="grid-row">
     <div class="grid-col-12">
       <h2>Related resources</h2>
     </div>
   </div>
 
-{{/* Loops through the parameters passed through the shortcode */}}
-{{- range .Params -}}
-  {{- $topic := $.Site.GetPage (printf "/topics/%s/_index.md" . ) -}}
-  <div class="topic-section">
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <h3>
-          <a href="{{- $topic.Permalink | absURL -}}" title="{{- $topic.Title -}}">{{- $topic.Title }}</a>
-        </h3>
-      </div>
-    </div>
-    <div class="grid-row">
-      <div class="grid-col-12 tablet-lg:grid-col-10">
-        {{- $related_pages := $.Site.Pages.RelatedTo ( keyVals "topics" . ) -}}
-        {{- $resources := where $related_pages "Section" "resources" -}}
-        {{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $resources) -}}
-      </div>
-    </div>
-    <footer>
+  {{/* Loops through the parameters passed through the shortcode */}}
+  {{- range .Params -}}
+    {{- $topic := $.Site.GetPage (printf "/topics/%s/_index.md" . ) -}}
+    <div class="topic-section">
       <div class="grid-row">
         <div class="grid-col-12">
-          <p class="more">
-            <a href="{{- $topic.Permalink -}}">
-              <span>More on {{ $topic.Title -}}</span>
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-              </svg>
-            </a>
-          </p>
+          <h3>
+            <a
+              href="{{- $topic.Permalink | absURL -}}"
+              title="{{- $topic.Title -}}"
+              >{{- $topic.Title }}</a
+            >
+          </h3>
         </div>
       </div>
-    </footer>
-  </div>
+      <div class="grid-row">
+        <div class="grid-col-12 tablet-lg:grid-col-10">
+          {{- $related_pages := $.Site.Pages.RelatedTo ( keyVals "topics" . ) -}}
+          {{- $resources := where $related_pages "Section" "resources" -}}
+          {{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $resources) -}}
+        </div>
+      </div>
+      <footer>
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <p>
+              <a href="{{- $topic.Permalink -}}" class="dg-more-link">
+                <span>More on {{ $topic.Title -}}</span>
+                <svg
+                  class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                  aria-hidden="true"
+                  focusable="false"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+                  ></use>
+                </svg>
+              </a>
+            </p>
+          </div>
+        </div>
+      </footer>
+    </div>
   {{- end -}}
 </section>

@@ -1,0 +1,13 @@
+showNextPrevious: true
+showInPageNav: false
+nav:
+  - title: "Overview"
+    path: "/guides/rpa/_index.md"
+  - title: "Playbook"
+    path: "/guides/rpa/rpa-playbook.md"
+  - title: "Internal Controls Addendum"
+    path: "/guides/rpa/rpa-playbook-internal-controls.md"
+  - title: "Use case inventory"
+    path: "/guides/rpa/rpa-use-case-inventory.md"
+  - title: "State of Federal RPA Report"
+    path: "/guides/rpa/state-of-federal-rpa.md"

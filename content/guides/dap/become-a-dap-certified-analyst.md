@@ -4,13 +4,17 @@ title: "Become a DAP Certified Analyst"
 summary: "Download the study guide and learn how to become a DAP Certified Analyst at your federal agency."
 # deck: "This is your opportunity to demonstrate mastery of the DAP Google Analytics account by becoming a certified analyst"
 guide: dap
+primary_image: guide-dap
 aliases:
   - /dap/certified-analyst/
   - /guide/dap/become-a-dap-certified-analyst/
   - /services/dap/become-a-dap-certified-analyst/
   - /services/dap/certified-analyst/
 
+expirydate: "2023-06-16"
+
 ---
+
 ## Overview
 
 The [Digital Analytics Program](https://digital.gov/services/dap/) (DAP) now offers the opportunity to become a DAP Certified Analyst. Prospective analysts must complete the DAP Certification Exam with a score of 80 percent or better. The exam is 50 questions and is multiple choice. Prospective analysts can take the exam more than once. 

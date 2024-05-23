@@ -2,49 +2,53 @@
 // NOTE: The authors-list is included twice on the page. Once for desktop, the other for mobile.
 @use "uswds-core" as *;
 
-.authors-list{
-	@include u-margin-top(0);
-	@include u-margin-bottom(7);
-	.author{
-		@include u-margin-bottom('105');
-		@include u-padding-top('105');
-		@include u-border-top('1px','solid', 'gray-10');
-		@include u-flex('no-wrap');
-		img{
-			@include u-border('1px','solid', 'indigo-30');
-		}
-		.photo{
-			@include u-margin-right(1);
-			@include u-height(5);
-			@include u-width(5);
-			@include u-display('flex');
-			@include u-flex('align-center');
-			@include u-flex('justify-center');
-			img{
-				@include u-circle(5);
-			}
-		}
-		.details{
-			h5{
-				@include u-margin-y('05');
-				@include u-font('sans', 'xs');
-				@include u-text('bold');
-				@include u-line-height('sans', 1);
-				a{
-					@include u-text('black');
-					@include u-text('no-underline');
-				}
-				a:hover{
-					@include u-border-bottom('2px', 'accent-warm', 'solid');
-				}
-			}
-			p{
-				@include u-margin(0);
-				@include u-font('sans', '3xs');
-			}
-		}
-		&:first-child{
-			@include u-border-top(0);
-		}
-	}
+.authors-list {
+  @include u-margin-top(0);
+  @include u-margin-bottom(7);
+
+  .author {
+    @include u-margin-bottom("105");
+    @include u-padding-top("105");
+    @include u-border-top("1px", "solid", "gray-10");
+    @include u-flex("no-wrap");
+
+    img {
+      @include u-border("1px", "solid", "indigo-30");
+    }
+
+    .photo {
+      @include u-margin-right(1);
+      @include u-height(5);
+      @include u-width(5);
+      @include u-display("flex");
+      @include u-flex("align-center");
+      @include u-flex("justify-center");
+
+      img {
+        @include u-circle(5);
+      }
+    }
+
+    .details {
+      .authors-list__title {
+        @include u-font("sans", "xs");
+        @include u-line-height("sans", 1);
+        @include u-margin-y("05");
+        @include u-text("bold", "black", "no-underline");
+
+        &:hover {
+          @include u-border-bottom("2px", "accent-warm", "solid");
+        }
+      }
+
+      p {
+        @include u-margin(0);
+        @include u-font("sans", "3xs");
+      }
+    }
+
+    &:first-child {
+      @include u-border-top(0);
+    }
+  }
 }

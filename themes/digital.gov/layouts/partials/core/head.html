@@ -1,34 +1,42 @@
 <!-- Logic for featured image -->
 {{/* Featured_image call */}}
 
-  {{/* Sets a variable for $primary_image */}}
-  {{- $primary_image := "" -}}
-  {{/*
-    Checks if $primary_image exists if not, it will use the featured_image
-  */}}
-  {{- if .Params.primary_image -}}
-    {{- $primary_image = .Params.primary_image -}}
-  {{- else -}}
-    {{- if .Params.featured_image.uid -}}
-      {{- $primary_image = .Params.featured_image.uid -}}
-    {{- end -}}
+{{/* Sets a variable for $primary_image */}}
+{{- $primary_image := "" -}}
+{{/* Checks if $primary_image exists if not, it will use the featured_image */}}
+{{- if .Params.primary_image -}}
+  {{- $primary_image = .Params.primary_image -}}
+{{- else -}}
+  {{- if .Params.featured_image.uid -}}
+    {{- $primary_image = .Params.featured_image.uid -}}
   {{- end -}}
+{{- end -}}
 
-  {{- $cdnurl := .Site.Params.cdnurl -}}
-  {{- $featImg := index $.Site.Data.images (default "digitalgov-2022-card-v3" $primary_image) -}}
-  {{- $featImgBase := $featImg.uid -}}
-  {{- $featImgExt := $featImg.format -}}
-  {{- $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase -}}
-  {{- $featImgWidth := $featImg.width -}}
-  {{- $featImgHeight := $featImg.height -}}
-  {{- $.Scratch.Set "featImgSuffix" "" -}}
-  {{- if gt $featImgWidth 1200 -}}
-    {{- $.Scratch.Set "featImgSuffix" "_w1200" -}}
-  {{- end -}}
-  {{- if gt $featImgWidth 800 -}}
-    {{- $.Scratch.Set "featImgTwitterSuffix" "_w800" -}}
-  {{- end -}}
-  {{- $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt -}}
+{{/* Set primary_image from topics/_index.md if not set on individual topic */}}
+{{ if eq .Type "topics" }}
+  {{ if .Params.primary_image }}
+    {{ $primary_image = .Params.primary_image }}
+  {{ else }}
+    {{ $topics_page := .Site.GetPage "topics" }}
+    {{ $primary_image = $topics_page.Params.primary_image }}
+  {{ end }}
+{{ end }}
+
+{{- $cdnurl := .Site.Params.cdnurl -}}
+{{- $featImg := index $.Site.Data.images (default "digitalgov-2022-card-v3" $primary_image) -}}
+{{- $featImgBase := $featImg.uid -}}
+{{- $featImgExt := $featImg.format -}}
+{{- $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase -}}
+{{- $featImgWidth := $featImg.width -}}
+{{- $featImgHeight := $featImg.height -}}
+{{- $.Scratch.Set "featImgSuffix" "" -}}
+{{- if gt $featImgWidth 1200 -}}
+  {{- $.Scratch.Set "featImgSuffix" "_w1200" -}}
+{{- end -}}
+{{- if gt $featImgWidth 800 -}}
+  {{- $.Scratch.Set "featImgTwitterSuffix" "_w800" -}}
+{{- end -}}
+{{- $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt -}}
 {{/* End featured_image call */}}
 <!-- Logic for Page Types -->
 {{/* Get Page Type */}}
@@ -38,104 +46,166 @@
   {{- $.Scratch.Set "pagetype" "website" -}}
 {{- end -}}
 
-<html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
 
 <head profile="http://gmpg.org/xfn/11">
-
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
   {{ "<!-- Google Tag Manager Data Layer -->" | safeHTML }}
   <script>
-    dataLayer = [{
-      'content-type': 'resource+page',
-      'topics': 'design, analytics, Tag+Manager'
-    }];
+    dataLayer = [
+      {
+        "content-type": "resource+page",
+        topics: "design, analytics, Tag+Manager",
+      },
+    ];
   </script>
 
   {{ "<!-- Google Tag Manager -->" | safeHTML }}
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-MZCKZPQ');</script>
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MZCKZPQ");
+  </script>
   {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
   {{- $pagetitle := (printf "%s %s" .Title " / ") -}}
   {{- if .Title -}}
-  {{/* if is a post or a page with a title */}}
-  {{/* Page title – Digital.gov */}}
-  <title>{{- .Title | markdownify }} – {{ .Site.Title -}}</title>
+    {{/* If is a post or a page with a title */}}
+    {{/* Page title – Digital.gov */}}
+    <title>{{- .Title | markdownify }} – {{ .Site.Title -}}</title>
   {{ else -}}
-  {{/* if is the homepage */}}
-  {{/* Digital.gov */}}
-  <title>{{- .Site.Title }} — {{ .Site.Params.description -}}</title>
+    {{/* If it's the homepage */}}
+    {{/* Digital.gov */}}
+    <title>{{- .Site.Title }} — {{ .Site.Params.description -}}</title>
   {{ end -}}
 
   {{ "<!-- Meta Description -->" | safeHTML }}
-  <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-  <meta name="keywords" content="{{- if .Site.Params.keywords -}}{{ if .Params.topics -}}{{- delimit .Site.Params.keywords ", " ", " -}}, {{- delimit .Params.topics ", " -}}{{- else -}}{{- delimit .Site.Params.keywords ", " -}}{{- end -}}{{- end -}}" />
+  <meta
+    name="description"
+    content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}"
+  />
+  <meta
+    name="keywords"
+    content="{{- if .Site.Params.keywords -}}
+      {{ if .Params.topics -}}
+        {{- delimit .Site.Params.keywords ", " ", " -}},
+        {{- delimit .Params.topics ", " -}}
+      {{- else -}}
+        {{- delimit .Site.Params.keywords ", " -}}
+      {{- end -}}
+
+    {{- end -}}
+    "
+  />
 
   {{ "<!-- Start of Facebook Open Graph -->" | safeHTML }}
-  <meta property="og:title" content="{{- $.Params.title | default $.Site.Title | markdownify -}}" />
-  <meta property="og:description" content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}">
-  <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}">
+  <meta
+    property="og:title"
+    content="{{- $.Params.title | default $.Site.Title | markdownify -}}"
+  />
+  <meta
+    property="og:description"
+    content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}"
+  />
+  <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}" />
   <meta property="og:url" content="{{- .Permalink -}}" />
-  <meta property="og:site_name" content="Digital.gov">
-  {{ if $featImgURL -}}<meta property="og:image" content="{{- $featImgURL -}}" />{{- end }}
-  {{ if $.Params.youtube_id }}<meta property='og:video' content='https://www.youtube.com/v/{{ $.Params.youtube_id }}' />{{- end }}
+  <meta property="og:site_name" content="Digital.gov" />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:locale" content="en_US" />
+  {{ if $featImgURL -}}
+    <meta property="og:image" content="{{- $featImgURL -}}" />
+    <meta property="og:image:alt" content=" " />
+  {{- end }}
+  {{ if $.Params.youtube_id }}
+    <meta
+      property="og:video"
+      content="https://www.youtube.com/v/{{ $.Params.youtube_id }}"
+    />
+  {{- end }}
   <meta property="fb:admins" content="100000569454928" />
-  <meta property="article:publisher" content="https://www.facebook.com/digitalgov" />
-  {{- if $.Params.date -}}<meta property="article:published_time" content="{{ ($.Params.date).Format "2006-01-02T15:04:05" }}-0500" />{{- end }}
+  <meta
+    property="article:publisher"
+    content="https://www.facebook.com/digitalgov"
+  />
+  {{- if $.Params.date -}}
+    <meta
+      property="article:published_time"
+      content="{{ ($.Params.date).Format "2006-01-02T15:04:05" }}-0500"
+    />
+  {{- end }}
   {{ "<!-- End of Facebook Open Graph -->" | safeHTML }}
 
   {{ "<!-- Start of Twitter Card -->" | safeHTML }}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
   <meta name="twitter:creator" content="@Digital_Gov" />
-  {{ if $featImgURL -}}<meta name="twitter:image:src" content="{{- $featImgURL -}}">{{- end }}
-  <meta property="twitter:description" content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}">
-  <meta property="twitter:title" content="{{- $.Params.title | default $.Site.Title | markdownify -}}">
+  {{ if $featImgURL -}}
+    <meta name="twitter:image:src" content="{{- $featImgURL -}}" />
+  {{- end }}
+  <meta
+    property="twitter:description"
+    content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}"
+  />
+  <meta
+    property="twitter:title"
+    content="{{- $.Params.title | default $.Site.Title | markdownify -}}"
+  />
   {{ "<!-- End of Twitter -->" | safeHTML }}
 
   {{ "<!-- RSS Feed -->" | safeHTML }}
   {{ with .OutputFormats.Get "RSS" -}}
-  <link href="{{- .RelPermalink -}}" rel="feed" type="application/rss+xml" />
+    <link href="{{- .RelPermalink -}}" rel="feed" type="application/rss+xml" />
   {{- end }}
 
   {{ "<!-- JSON Feed -->" | safeHTML }}
-  <link href="{{- .Permalink -}}index.json" data-proofer-ignore rel="alternate" type="application/json" title="{{- .Site.Title -}}" />
+  <link
+    href="{{- .Permalink -}}index.json"
+    data-proofer-ignore
+    rel="alternate"
+    type="application/json"
+    title="{{- .Site.Title -}}"
+  />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
-  <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
+  <link
+    rel="sitemap"
+    type="application/xml"
+    title="Digital.gov Sitemap"
+    href="{{- "sitemap.xml" | absURL -}}"
+  />
 
   <!-- Theme Color / Browser -->
   <!-- https://developers.google.com/web/tools/lighthouse/audits/address-bar -->
-  <meta name="theme-color" content="#656bd7"/>
+  <meta name="theme-color" content="#656bd7" />
 
   <!-- Bing Validation -->
   <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
 
   {{ if $.Params.canonical -}}
-  {{- "<!-- Canonical URL =============== -->" | safeHTML -}}
-  <link rel="canonical" href="{{- $.Params.canonical -}}" />
+    {{- "<!-- Canonical URL =============== -->" | safeHTML -}}
+    <link rel="canonical" href="{{- $.Params.canonical -}}" />
   {{ end }}
 
   {{- if $.Params.redirectto -}}
-  {{- "<!-- Redirect =============== -->" | safeHTML -}}
-  <meta http-equiv="refresh" content="0; url={{- $.Params.redirectto -}}">
+    {{- "<!-- Redirect =============== -->" | safeHTML -}}
+    <meta http-equiv="refresh" content="0; url={{- $.Params.redirectto -}}" />
   <script type="text/javascript">
     window.location.href = "{{- $.Params.redirectto -}}"
   </script>
   {{- end -}}
 
   {{- if $.Params.source_url -}}
-  {{- "<!-- Redirect =============== -->" | safeHTML }}
-  <meta http-equiv="refresh" content="0; url={{- $.Params.source_url -}}">
-  <script type="text/javascript">
-    window.location.href = "{{- $.Params.source_url -}}?dg"
-  </script>
+    {{- "<!-- Redirect =============== -->" | safeHTML }}
+    <meta http-equiv="refresh" content="0; url={{- $.Params.source_url -}}" />
   {{- end -}}
 
   {{ "<!-- CSS -->" | safeHTML }}
@@ -144,42 +214,52 @@
     {{- range $.Params.css -}}
       {{- $path := (printf "dist/%s" .) | absURL -}}
       <!-- CUSTOM CSS -->
-      <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+      <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css" />
     {{- end -}}
   {{- end -}}
 
   {{/* Base styles */}}
-  <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
-  <script src='{{ "dist/uswds-init.min.js" | absURL }}'></script>
+  <link
+    rel="stylesheet"
+    href="{{- "dist/styles.css" | absURL -}}"
+    type="text/css"
+    media="all"
+  />
+  <script src="{{ "dist/js/uswds-init.min.js" | absURL }}"></script>
 
   {{ "<!-- Favicons & Icons -->" | safeHTML }}
-  <link rel="apple-touch-icon" sizes="180x180" href='{{- "img/icons/apple-touch-icon.png?v=3" | absURL -}}'>
-  <link rel="icon" type="image/png" sizes="32x32" href='{{- "img/icons/favicon-32x32.png?v=3" | absURL -}}'>
-  <link rel="icon" type="image/png" sizes="16x16" href='{{- "img/icons/favicon-16x16.png?v=3" | absURL -}}'>
-  <link rel="manifest" href='{{- "img/icons/site.webmanifest?v=3" | absURL -}}'>
-  <link rel="mask-icon" href='{{- "img/icons/safari-pinned-tab.svg?v=3" | absURL -}}' color="#0076d6">
-  <link rel="shortcut icon" href='{{- "img/icons/favicon.ico?v=3" | absURL -}}'>
-  <meta name="msapplication-TileColor" content="#0076d6">
-  <meta name="theme-color" content="#ffffff">
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="{{- "img/icons/apple-touch-icon.png?v=3" | absURL -}}"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="{{- "img/icons/favicon-32x32.png?v=3" | absURL -}}"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="{{- "img/icons/favicon-16x16.png?v=3" | absURL -}}"
+  />
+  <link
+    rel="manifest"
+    href="{{- "img/icons/site.webmanifest?v=3" | absURL -}}"
+  />
+  <link
+    rel="mask-icon"
+    href="{{- "img/icons/safari-pinned-tab.svg?v=3" | absURL -}}"
+    color="#0076d6"
+  />
+  <link
+    rel="shortcut icon"
+    href="{{- "img/icons/favicon.ico?v=3" | absURL -}}"
+  />
+  <meta name="msapplication-TileColor" content="#0076d6" />
+  <meta name="theme-color" content="#ffffff" />
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-
-  <!-- GitHub -->
-  <script type="text/javascript">
-    git_org          = {{ .Site.Params.git_org }};
-    git_repo         = {{ .Site.Params.git_repo }};
-    goUsaUsername    = {{ .Site.Params.goUsaUsername }};
-    goUsaApiKey      = {{ .Site.Params.goUsaApiKey }};
-    branch           = {{ $.Scratch.Get "branch" }};
-    short_url        = {{ if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}""{{- end -}};
-    filename         = {{ with .File -}}{{- .LogicalName -}}{{- end }};
-    {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-    filepath         = {{ with .File -}}{{ $path }}{{- end }};
-    filepathURL      = {{ with .File -}}{{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}{{- end }};
-    editpathURL      = {{ with .File -}}{{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path -}}{{- end }};
-    <!-- {{ getenv "BRANCH" }} | {{ $.Scratch.Get "branch" }} -->
-  </script>
-
-  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0007/9651.js" async="async" ></script>
-
 </head>

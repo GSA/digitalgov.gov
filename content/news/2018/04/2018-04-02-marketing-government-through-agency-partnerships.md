@@ -6,21 +6,15 @@ summary: 'The Outreach and Marketing team from USAGov helps agencies amplify the
 authors:
   - claire-loxsom
 topics:
-  - content
-  - design
-  - metrics
   - social-media
-  - strategy
-  - policy
-  - writing
-  - accessibility
+  - content-strategy
   - accessibility
   - analytics
-  - content
   - design
-  - marketing
+  - communication
   - multilingual
   - user-experience
+  - policy
 featured_image:
   uid: usagov-marketing
   alt: 'USAGov Logo'
@@ -31,8 +25,6 @@ canonical: https://blog.usa.gov/marketing-the-government-through-agency-partners
 _This article was originally posted on the [USAGov blog](https://blog.usa.gov/marketing-the-government-through-agency-partnerships). Claire Loxsom is a Program Analyst on USAGov’s Content and Outreach team._
 
 All government agencies have a common goal: to serve the public. As the front door to government information and services, we help agencies achieve this goal. We strive to make it easier for the public to find what they need by aggregating and disseminating information about government programs and services.
-
-{{< youtube PS3GS0QrBAI >}}
 
 USAGov has an Outreach and Marketing team that helps agencies amplify their key messages through a variety of channels. We’re most successful when we partner with agencies to develop and promote initiatives that are tailored to different audiences. In our partnerships, agency staff serve as the subject matter experts who understand the content and trends in fields like health care, benefits, and consumer protection. In turn, we provide a powerful brand, marketing expertise, and an omni-channel platform.
 

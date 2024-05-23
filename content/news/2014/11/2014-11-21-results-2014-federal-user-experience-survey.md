@@ -2,27 +2,22 @@
 slug: results-2014-federal-user-experience-survey
 date: 2014-11-21 10:00:29 -0400
 title: 'Results: 2014 Federal User Experience Survey'
-summary: 'The cream of the crop of the top of the mountain of ALL of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with Jean Fox, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning'
+summary: 'The Federal User Experience (UX) Survey helpsus to learn how we can best improve the effectiveness, ease-of-use, and value of federal digital systems by connecting their teams to their customers.'
 authors:
   - jonathan-rubin
 topics:
   - accessibility
-  - communities
   - design
-  - monthly-theme
-  - user-testing-and-research
-  - aoi
-  - bls
-  - user-experience-community-of-practice
-  - us-bureau-of-labor-statistics
+  - research
   - usability
   - user-experience
+  - information-collection
 
 ---
 
 The cream of the crop of the top of the mountain of ALL of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with **Jean Fox**, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning what all of my UX colleagues are doing, and designing solutions for them based on real data, I start clasping my fingers together like Mr. Burns.
 
-The purpose of the survey is simple: to learn about how we can best improve the effectiveness, ease-of-use and value of federal digital systems by connecting their teams to their customers. For the 2014 survey, we heard from 101 respondents from 35 agencies, so it&#8217;s not a scientific survey, but still very telling.
+The purpose of the survey is simple: to learn about how we can best improve the effectiveness, ease-of-use, and value of federal digital systems by connecting their teams to their customers. For the 2014 survey, we heard from 101 respondents from 35 agencies, so it&#8217;s not a scientific survey, but still very telling.
 
 Here are a few things we found out:
 

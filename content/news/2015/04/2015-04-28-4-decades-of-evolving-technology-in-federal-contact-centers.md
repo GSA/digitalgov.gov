@@ -6,12 +6,9 @@ summary: For more than 40 years, Warren Snaider has been working at the General 
 authors:
   - coqui-aspiazu
 topics:
-  - product-management
-  - monthly-theme
-  - cx
-  - customer-service
-  - government-contact-centers
-  - gsa
+  - product-and-project-management
+  - customer-experience
+  - contact-centers
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Telephone-Robert-Redelowski-iStock-Thinkstock-152157402.jpg" alt="An old rotary telephone with the receiver off the hook and in the foreground" caption="" >}} 

@@ -6,7 +6,7 @@ title: "PlainLanguage.gov"
 summary: "Guidance on the use of plain language for government communications and training for federal employees."
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.PlainLanguage.gov/"
 
 # Images need to be 200x200px with a transparent background
@@ -31,7 +31,7 @@ authors:
 topics:
   - plain-language
   - content-strategy
-  - content
+  - content-strategy
   - accessibility
 
 ---

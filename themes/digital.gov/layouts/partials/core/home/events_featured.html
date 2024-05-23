@@ -1,6 +1,6 @@
 {{/* Events */}}
 
-{{/* Future Events ===========================  */}}
+{{/* Future Events =========================== */}}
 {{- $events := where .Site.RegularPages  "Section" "events" -}}
 
 {{/* gets the # of news items to display from the config.yml */}}
@@ -12,60 +12,43 @@
 
 {{- with $stream -}}
 
-<section id="events_featured">
-  <div class="paper">
-    <div class="grid-container grid-container-desktop">
+  <section id="events_featured">
+    <div class="paper">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row tablet-lg:grid-gap-4">
+          <div class="grid-col-12">
+            <header class="header-events">
+              <h2>Upcoming Events</h2>
+              <p>
+                Training and events for people and teams across the federal
+                government.
+              </p>
 
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12">
-          <header class="header-events">
-            <h2>Upcoming Events</h2>
-            <p>Training and events for people and teams across the federal government.</p>
-
-            <div class="join-buttons">
-              <a href="{{- "/join" | absURL -}}">Contribute</a>
-              <a href="{{- "/communities" | absURL -}}">Join a community</a>
-            </div>
-
-          </header>
+              <div class="join-buttons">
+                <a href="{{- "/join" | absURL -}}">Contribute</a>
+                <a href="{{- "/communities" | absURL -}}">Join a community</a>
+              </div>
+            </header>
+          </div>
         </div>
-      </div>
 
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12">
+        <div class="grid-row tablet-lg:grid-gap-4">
+          <div class="grid-col-12">
+            <section class="stream">
+              {{ range $stream.Reverse }}
+                {{- if (.Params.End_date) .After now -}}
+                  {{ if .Params.registration_url }}
+                    {{ .Render "card-event" }}
+                  {{ end }}
+                {{- end -}}
 
-          <section class="stream">
+              {{ end }}
 
-            {{ range $stream.Reverse }}
-
-              {{- if (.Params.End_date) .After now -}}
-                {{ if .Params.registration_url }}
-                  {{ .Render "card-event"}}
-                {{ end }}
-              {{- end -}}
-
-            {{ end }}
-
-          </section>
-
+            </section>
+          </div>
         </div>
+        {{- partial "partials/core/see-all-footer.html" -}}
       </div>
-
-      <div class="grid-row tablet-lg:grid-gap-4">
-        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
-          <footer>
-            <a class="btn" href="{{ "news" | absURL }}" title="">
-              <span>See all News</span>
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-                <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-              </svg>
-              </a>
-            <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Send us an email</strong></a></p>
-          </footer>
-        </div>
-      </div>
-
     </div>
-  </div>
-</section>
+  </section>
 {{- end -}}

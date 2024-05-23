@@ -7,10 +7,7 @@ authors:
   - awichman
 topics:
   - social-media
-  - socialgov-community
-  - State
-  - tos
-  - us-department-of-state
+  - terms-of-service
 ---
 
 {{< legacy-img src="2015/07/600-x-226-Slack-browser-phones-cutoff.jpg" alt="Slack device group – Browser+Phones – Cutoff" >}}

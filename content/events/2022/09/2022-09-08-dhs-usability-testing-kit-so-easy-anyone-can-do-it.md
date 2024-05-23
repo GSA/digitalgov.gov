@@ -10,13 +10,10 @@ date: 2022-09-27 13:00:00 -0500
 end_date: 2022-09-27 14:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - research
   - usability
   - user-experience
-  - user-research
-  - user-testing-and-research
-  - usability-testing
 # See all authors at https://digital.gov/authors
 authors:
   - dana-chisnell
@@ -42,11 +39,11 @@ The resources provided in the [DHS Usability Kit](https://www.dhs.gov/cx/dhs-usa
 
 1. An overview of the DHS Usability Testing Kit (time length: 13:01)
 
-{{< youtube G0Eij3E7RLQ >}}
+{{< youtube id="G0Eij3E7RLQ" title="An overview of the DHS Usability Testing Kit" >}}
 
 2. Example templates from the DHS Usability Testing Kit (time length: 6:56)
 
-{{< youtube inTKUSKpHjQ >}}
+{{< youtube id="inTKUSKpHjQ" title="Example templates from the DHS Usability Testing Kit" >}}
 
 ---
 

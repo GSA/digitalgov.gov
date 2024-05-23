@@ -1,171 +1,204 @@
 @use "uswds-core" as *;
 
-.more{
-	a{
-		@include u-text('no-underline');
-		&:hover{
-			span{
-				@include u-border-bottom('2px', 'solid', 'accent-warm');
-			}
-		}
-	}
+.dg-more-link {
+  &:hover {
+    text-decoration-color: color("accent-warm");
+  }
 }
 
-div.more{
-	@include u-margin-y(2);
-}
-p.more {
-	@include u-margin-top('05');
-	@include u-margin-bottom('05');
-	@include u-font('sans', 'xs');
-	@include u-text('normal', !important);
+a.btn {
+  transition: background-color 0.2s, border 0.2s, border-color 0.2s;
+
+  i {
+    @include u-margin-left("05");
+  }
+
+  &:hover {
+    @include u-bg("indigo-70");
+
+    span {
+      @include u-border-bottom("2px", "white", "solid");
+    }
+  }
+  @include u-padding-y("105");
+  @include u-padding-x(2);
+  @include u-display("inline-block");
+  @include u-font("sans", "sm");
+  @include u-color("white");
+  @include u-text("medium");
+  @include u-text("center");
+  @include u-text("no-underline");
+  @include u-radius("md");
+  @include u-bg("indigo-60v");
+
+  @include at-media("tablet") {
+    @include u-padding-y("105");
+    @include u-padding-x(3);
+    @include u-font("sans", "md");
+  }
 }
 
-a.btn{
-	@include u-padding-y('105');
-	@include u-padding-x(2);
-	@include u-display('inline-block');
-	@include u-font('sans', 'sm');
-	@include u-color('white');
-	@include u-text('medium');
-	@include u-text('center');
-	@include u-text('no-underline');
-	@include u-radius('md');
-	@include u-bg('indigo-60v');
-	@include at-media('tablet') {
-		@include u-padding-y('105');
-		@include u-padding-x(3);
-		@include u-font('sans', 'md');
-	}
-	i{
-		@include u-margin-left('05');
-	}
-	transition: background-color .2s, border .2s, border-color .2s;
-	&:hover{
-		@include u-bg('indigo-70');
-		span{
-			@include u-border-bottom('2px','white','solid');
-		}
-	}
-}
-a.btn-sm{
-	@include u-padding-y('05');
-	@include u-padding-x(1);
-	@include u-font('sans', '2xs');
-	@include u-bg('white');
-	@include u-text('primary');
-	@include u-text('medium');
-	@include u-border('2px','primary','solid');
-	@include at-media('tablet') {
-		@include u-padding-y('05');
-		@include u-padding-x(1);
-		@include u-font('sans', '2xs');
-	}
-	&:hover{
-		@include u-bg('white');
-		@include u-text('indigo-70');
-		@include u-border('2px','indigo-70','solid');
-	}
+a.btn-home {
+  @include u-border("2px");
+  background-color: color("transparent");
+  margin: units(2);
+
+  &:first-of-type {
+    margin-bottom: 0;
+  }
+
+  @include at-media("tablet-lg") {
+    @include u-margin-x(0);
+  }
+
+  &:hover {
+    background-color: color("white");
+    border-color: color("white");
+    color: color("black");
+    span {
+      @include u-border-bottom("2px", "black", "solid");
+    }
+  }
 }
 
-.join-buttons{
-	@include u-margin-y(1);
-	@include u-text('center');
-	@include u-display('flex');
-	@include u-flex('wrap');
-	@include u-flex('row');
-	@include u-flex('justify-center');
-	@include u-flex('align-center');
-	@include at-media('tablet'){
-		@include u-margin-y(3);
-	}
-	a{
-		@include u-margin-x('05');
-		@include u-margin-bottom(1);
-		@include u-padding-y('05');
-		@include u-padding-x(1);
-		@include u-text('no-underline');
-		@include u-text('medium');
-		@include u-text('primary-vivid');
-		@include u-radius('md');
-		@include u-display('inline-block');
-		@include u-font('sans', 'xs');
-		transition: background-color .5s, color .5s;
-		@include at-media('tablet'){
-			@include u-padding-y('05');
-			@include u-padding-x('105');
-			@include u-font('sans', 'sm');
-			@include u-border('1px', 'primary-vivid', 'solid');
-		}
+a.btn-sm {
+  @include u-padding-y("05");
+  @include u-padding-x(1);
+  @include u-font("sans", "2xs");
+  @include u-bg("white");
+  @include u-text("primary");
+  @include u-text("medium");
+  @include u-border("2px", "primary", "solid");
 
-		&:hover{
-			@include u-bg('primary-vivid');
-			@include u-text('white');
-		}
-		img{
-			@include u-position('relative');
-			@include u-top('05');
-			@include u-width(3);
-			@include at-media('tablet'){
-				@include u-top('2px');
-			}
-		}
-	}
+  @include at-media("tablet") {
+    @include u-padding-y("05");
+    @include u-padding-x(1);
+    @include u-font("sans", "2xs");
+  }
+
+  &:hover {
+    @include u-bg("white");
+    @include u-text("indigo-70");
+    @include u-border("2px", "indigo-70", "solid");
+  }
 }
 
-.actions{
+.join-buttons {
+  @include u-margin-y(1);
+  @include u-text("center");
+  @include u-display("flex");
+  @include u-flex("wrap");
+  @include u-flex("row");
+  @include u-flex("justify-center");
+  @include u-flex("align-center");
+
+  @include at-media("tablet") {
+    @include u-margin-y(3);
+  }
+
+  a {
+    @include u-margin-x("05");
+    @include u-margin-bottom(1);
+    @include u-padding-y("05");
+    @include u-padding-x(1);
+    @include u-text("no-underline");
+    @include u-text("medium");
+    @include u-text("primary-vivid");
+    @include u-radius("md");
+    @include u-display("inline-block");
+    @include u-font("sans", "xs");
+
+    transition: background-color 0.5s, color 0.5s;
+
+    @include at-media("tablet") {
+      @include u-padding-y("05");
+      @include u-padding-x("105");
+      @include u-font("sans", "sm");
+      @include u-border("1px", "primary-vivid", "solid");
+    }
+
+    &:hover {
+      @include u-bg("primary-vivid");
+      @include u-text("white");
+    }
+
+    img {
+      @include u-position("relative");
+      @include u-top("05");
+      @include u-width(3);
+
+      @include at-media("tablet") {
+        @include u-top("2px");
+      }
+    }
+  }
+}
+
+.actions {
   @include u-margin-bottom(3);
-  @include u-display('flex');
-  .btn{
+  @include u-display("flex");
+
+  .btn {
     @include u-radius(0);
-    @include u-width('auto');
-    @include u-font('sans', 'md');
+    @include u-width("auto");
+    @include u-font("sans", "md");
     @include u-padding-x(4);
   }
-  .btn-register{
-    @include u-text('light');
-    @include u-text('uppercase');
+
+  .btn-register {
+    @include u-text("light");
+    @include u-text("uppercase");
   }
-	.btn-details{
-    @include u-bg('indigo-70');
+
+  .btn-details {
+    @include u-bg("indigo-70");
   }
-  .addtocalendar{
-    @include u-display('inline-block');
-    var{
-      @include u-display('none');
+
+  .addtocalendar {
+    @include u-display("inline-block");
+
+    var {
+      @include u-display("none");
     }
-    a{
+
+    a {
       @include u-padding-x(4);
-      @include u-padding-y('105');
+      @include u-padding-y("105");
       @include u-padding-bottom(2);
-      @include u-bg('indigo-80');
-      @include u-display('block');
-      @include u-text('white');
-      @include u-text('center');
-      @include u-text('no-underline');
-      @include u-font('sans', 'md');
-      @include u-text('light');
+      @include u-bg("indigo-80");
+      @include u-display("block");
+      @include u-text("white");
+      @include u-text("center");
+      @include u-text("no-underline");
+      @include u-font("sans", "md");
+      @include u-text("light");
     }
-    ul{
+
+    ul {
       border: none;
+      box-shadow: 0 0 5px #aaa;
       width: 162px;
-      box-shadow: 0 0 5px #AAA;
+
       @include u-padding(0);
-      li{
+
+      li {
         @include u-margin(0);
-        @include u-text('primary-darkest');
+        @include u-text("primary-darkest");
+
         background: none;
         list-style-type: none;
-        a{
+
+        a {
           @include u-padding-y(1);
-          @include u-padding-x('105');
-          @include u-text('indigo-80');
-          @include u-text('normal');
-          @include u-font('sans', 'xs');
-          @include u-bg('indigo-10');
-          &:hover{
-            @include u-bg('indigo-50');
-            @include u-text('gray-1');
+          @include u-padding-x("105");
+          @include u-text("indigo-80");
+          @include u-text("normal");
+          @include u-font("sans", "xs");
+          @include u-bg("indigo-10");
+
+          &:hover {
+            @include u-bg("indigo-50");
+            @include u-text("gray-1");
           }
         }
       }
@@ -173,16 +206,19 @@ a.btn-sm{
   }
 }
 
-.actions-stacked{
-  @include u-display('block');
-  .btn{
-    @include u-display('block');
+.actions-stacked {
+  @include u-display("block");
+
+  .btn {
+    @include u-display("block");
     @include u-padding-x(1);
   }
+
   .addtocalendar {
-    @include u-display('block');
-    a{
-      @include u-display('block');
+    @include u-display("block");
+
+    a {
+      @include u-display("block");
       @include u-padding-x(1);
     }
   }

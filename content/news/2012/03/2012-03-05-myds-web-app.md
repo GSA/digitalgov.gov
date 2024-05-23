@@ -5,17 +5,17 @@ title: MyDS Web App
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the NIH Office of Dietary Supplements. The Office of Dietary Supplements (ODS) at the National Institute of Health has developed a free mobile app for consumers called My Dietary Supplements (MyDS).MyDS gives the user'
 topics:
   - mobile
-  - HHS
-  - mobile-apps
-  - mobile-gov-experience
-  - nih
+
+
 ---
 
-[{{< legacy-img src="2013/12/MyDS-homescreen.png" alt="MyDS-homescreen" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/MyDS-homescreen.png)_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the NIH Office of Dietary Supplements._
+_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the NIH Office of Dietary Supplements._
 
 The <a href="http://ods.od.nih.gov/" rel="nofollow">Office of Dietary Supplements</a> (ODS) at the <a href="http://www.nih.gov/" rel="nofollow">National Institute of Health</a> has developed a free mobile app for consumers called <a href="http://ods.od.nih.gov/About/mobile/aboutmyds.aspx" rel="nofollow">My Dietary Supplements (MyDS).</a>MyDS gives the user an easy, portable way to keep track of the vitamins, minerals, herbs, and other products they take; access to science-based, reliable information on dietary supplements; and general information about ODS—who we are and what we do.
 
 ## Why We Did It
+
+{{< legacy-img-right src="2013/12/MyDS-homescreen.png" alt="MyDS-homescreen" >}}
 
 A majority of Americans take dietary supplements in an effort to be well and to stay healthy. However, many fail to share information about their supplement use with their health care providers and may not know that there is a real potential for interactions between dietary supplements and prescription medications. We developed MyDS to improve the communication between patients and health care providers and to provide consumers with our science-based, reliable information about dietary supplements.
 

@@ -7,14 +7,6 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Federal Mobile Products Registry
-  - ICE
-  - native-app
-  - thursday-mobile-products
-  - US Department of Agriculture
-  - us-immigration-and-customs-enforcement
-  - usa-gov-federal-mobile-apps-directory
-  - USDA
 ---
 
 {{< legacy-img src="2015/02/250-x-333-USDA-DRI-Calculator-for-Healthcare-Professionals-iPad-app-menu.jpg" alt="USDA DRI Calculator for Healthcare Professionals iPad app menu" >}}For those of us who need to get our diet under control—and keep it that way—we surely have noticed the recent explosion of health apps and wearable fitness trackers. No doubt we’ve all thought about buying one of those at $100 to $150 bucks a pop even if we didn’t know for sure exactly what it did.
@@ -30,5 +22,3 @@ The DRI app includes user-friendly features such as pregnancy weight gain charts
 **One caveat:** Although the DRI recommendations are based on current scientific knowledge, they are not appropriate for everyone. Underlying illness and vitamin deficiencies are just two reasons why your nutrient needs might be different from the recommendations. To figure out your nutrient needs, talk with your healthcare provider or find a registered dietitian near you.
 
 The app is available for [iOS](https://itunes.apple.com/us/app/dri-calculator-for-healthcare/id922494493?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.bluepane.usda_dri) smartphones and tablets._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
-
- 

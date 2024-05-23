@@ -8,14 +8,11 @@ authors:
   - lgodfrey
 topics: 
   - design
-  - metrics
-  - content
-  - metrics
   - analytics
+  - content-strategy
   - user-experience
   - accessibility
-  - cx
-  - cx
+  - customer-experience
 featured_image: 
   uid: travel-journey-mapping-processes-slide
   alt: 'A sample sequence of events journey map for a recently naturalized citizen seeking to travel abroad&#46;'

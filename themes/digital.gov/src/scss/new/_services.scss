@@ -1,20 +1,21 @@
 @use "uswds-core" as *;
 
 // Services
-.services.section{
-  .paper{
+.services.section {
+  .paper {
     // @include u-bg('gray-warm-5');
   }
 
-  .services-list{
+  .services-list {
     @include u-margin-y(2);
-    footer{
-  		@include u-margin-y(2);
-  		@include u-text('center');
-  		p{
-  			@include u-maxw('full');
-  		}
-  	}
-  }
 
+    footer {
+      @include u-margin-y(2);
+      @include u-text("center");
+
+      p {
+        @include u-maxw("full");
+      }
+    }
+  }
 }

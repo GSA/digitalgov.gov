@@ -6,17 +6,13 @@ summary: 'It can be easy to forget that customer experience (CX) improvement eff
 authors:
   - stephanie-thum
 topics:
-  - product-management
-  - cx
-  - customer-satisfaction
-  - customer-service
-  - Ex-Im Bank
-  - Export-Import Bank of the United States
+  - product-and-project-management
+  - customer-experience
 ---
 
 {{< legacy-img src="2015/04/600-x-375-Connected-Modern-World-solarseven-iStock-Thinkstock-ThinkstockPhotos-482353395.jpg" alt="Connected Modern World" caption="" >}} 
 
-It can be easy to forget that [customer experience]({{< ref "/topics/cx" >}}) (CX) improvement efforts within the government sphere aren’t limited to surveys, journey maps, [analytics]({{< ref "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" >}}), big data, apps, and technology. Watching Export-Import Bank’s Annual Conference come together, I’m reminded of the fundamental role that interpersonal communication plays in improving customer experience, from the front line of our unique agency. The [conference](http://www.exim.gov/newsandevents/events/annualconference/2015/) is happening April 23rd-24th at the Omni Shoreham Hotel in Washington, D.C. and will bring together more than 1,200 U.S. exporters, brokers, bankers, buyers from foreign countries, and government officials, including Ex-Im Bank staff, who will work together to discover more ways to expand exports and create American jobs.
+It can be easy to forget that [customer experience]({{< ref "/topics/customer-experience" >}}) (CX) improvement efforts within the government sphere aren’t limited to surveys, journey maps, [analytics]({{< ref "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" >}}), big data, apps, and technology. Watching Export-Import Bank’s Annual Conference come together, I’m reminded of the fundamental role that interpersonal communication plays in improving customer experience, from the front line of our unique agency. The [conference](http://www.exim.gov/newsandevents/events/annualconference/2015/) is happening April 23rd-24th at the Omni Shoreham Hotel in Washington, D.C. and will bring together more than 1,200 U.S. exporters, brokers, bankers, buyers from foreign countries, and government officials, including Ex-Im Bank staff, who will work together to discover more ways to expand exports and create American jobs.
 
 Here’s how the conference shines a light on the fundamental communication aspects of CX.
 

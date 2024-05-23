@@ -1,17 +1,36 @@
 {{/* Listserv Platforms without form sign-up option */}}
 
-<p>Email <strong>{{ .e.subscribe_email }}</strong> to join. {{ if .e.subscribe_email_subject }} Include <strong>{{ .e.subscribe_email_subject }}</strong> in the subject line{{ else }} Leave the subject line empty{{ end }}{{- if .e.subscribe_email_body }} and <strong>{{ .e.subscribe_email_body }}</strong> in the body{{- end -}}.</p>
 
-<a class="join-community-form__body-form-button usa-button" href="mailto:{{- .e.subscribe_email -}}
+<p>
+  Email <strong>{{ .e.subscribe_email }}</strong> to join.
+  {{ if .e.subscribe_email_subject }}
+    Include <strong>{{ .e.subscribe_email_subject }}</strong> in the subject
+    line
+  {{ else }}
+    Leave the subject line empty
+  {{ end }}
+  {{- if .e.subscribe_email_body }}
+    and <strong>{{ .e.subscribe_email_body }}</strong> in the body
+  {{- end -}}
+  .
+</p>
+
+<a
+  class="join-community-form__body-form-button usa-button"
+  href="mailto:{{- .e.subscribe_email -}}
 {{- if .e.subscribe_email_subject -}}
-  ?subject={{- .e.subscribe_email_subject -}}
-  {{- if .e.subscribe_email_body -}}
-    &body={{- .e.subscribe_email_body -}}
-  {{- end -}}
-{{- else -}}
-  {{- if .e.subscribe_email_body -}}
-    ?body={{- .e.subscribe_email_body -}}
-  {{- end -}}
-{{- end -}}" class="join type-{{- .e.platform -}}">
-  Join {{ if .e.subscribe_email_subject }}{{ .e.members }}{{ end }} {{ .e.blurb }}
+    ?subject={{- .e.subscribe_email_subject -}}
+    {{- if .e.subscribe_email_body -}}
+      &body={{- .e.subscribe_email_body -}}
+    {{- end -}}
+  {{- else -}}
+    {{- if .e.subscribe_email_body -}}
+      ?body={{- .e.subscribe_email_body -}}
+    {{- end -}}
+  {{- end -}}"
+  class="join type-{{- .e.platform -}}"
+>
+  Join
+  {{ if .e.subscribe_email_subject }}{{ .e.members }}{{ end }}
+  {{ .e.join_cop_button }}
 </a>

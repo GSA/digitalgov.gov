@@ -1,25 +1,27 @@
 <!-- Gets the value of the attribute that gets passed in the shortcode -->
 {{- $thisHref := .Get 0 -}}
 
+
 <!-- checking to see if $thisHref starts with a slash, and removing it -->
 {{- $thisHref := replaceRE "^/" "" $thisHref -}}
 
+
 <!-- Sets $thisHref as a Scratch var -->
 {{- $.Scratch.Set "thisHref" $thisHref -}}
+
 
 <!-- finds and replaces (not sure whats happening here) -->
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisHref -}}
 {{- $suffix := replaceRE "^.+(.{3,3})$" "$1" $thisHref -}}
 {{- $anchorlink := replaceRE "^.+\\.md(#).+$" "$1" $thisHref -}}
 
+
 <!-- if $prefix is NOT equal to $thisHref -->
 {{- if ne $prefix $thisHref -}}
-
   {{/* Process the link as is */}}
 
-<!-- if $suffix is equal to '.md' OR if $anchorlink is equal to '#' -->
+  <!-- if $suffix is equal to '.md' OR if $anchorlink is equal to '#' -->
 {{- else if or (eq $suffix ".md") (eq $anchorlink "#") -}}
-
   <!-- If in DEVMODE: -->
   <!-- I think this is a fix to links that are pointing back to old content that is not included in the DEV build -->
   {{- if .Site.Params.devmode -}}
@@ -35,14 +37,16 @@
       {{- end -}}
     {{- end -}}
 
-  <!-- If NOT in DEVMODE, set thisHref to the   -->
+
+    <!-- If NOT in DEVMODE, set thisHref to the   -->
   {{- else -}}
     {{- $.Scratch.Set "thisHref" (relref $.Page $thisHref) -}}
   {{- end -}}
 
 {{- else -}}
-    {{- $.Scratch.Set "thisHref" ($thisHref | absURL) -}}
+  {{- $.Scratch.Set "thisHref" ($thisHref | absURL) -}}
 {{- end -}}
+
 
 <!-- Sets $thisHref from Scratch -->
 {{- $thisHref := $.Scratch.Get "thisHref" -}}

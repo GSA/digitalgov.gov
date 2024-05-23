@@ -6,8 +6,8 @@ summary: 'Before you can create your customer experience (CX) strategy, you have
 authors:
   - martha-dorris
 topics:
-  - product-management
-  - cx
+  - product-and-project-management
+  - customer-experience
 ---
 
 [{{< legacy-img src="2013/12/CX-is-250x166.jpg" alt="Hands holding a sign that says Customer Experience is." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/CX-is.jpg)Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers?

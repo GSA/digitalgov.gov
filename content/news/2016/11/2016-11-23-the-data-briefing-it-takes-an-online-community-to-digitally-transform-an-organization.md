@@ -6,14 +6,13 @@ summary: 'The open source movement has changed how we develop software, create c
 authors:
   - bbrantley
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
   - challenges-and-prize-competitions
-  - crowdsourcing
-  - the-data-briefing
+  - emerging-tech
 ---
 
-The [open source]({{< ref "/topics/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< ref "/topics/crowdsourcing" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
+The [open source]({{< ref "/topics/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< ref "/topics/crowdsourcing-and-citizen-science" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform.
+
+{{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="nevarpp/iStock/Thinkstock" >}} 
 
 _“Driving successful change in a large organization has always been one of the most difficult activities in business. . . . [Digital transformation is especially hard] because digital itself is so intangible. It’s hard to understand all of the moving parts of the vast technology stacks, ecosystems, and platforms that now surround us because it’s hard to discern them. It’s often even harder to understand the diverse needs, perspectives, and skill gaps of the people that have to change along with the technology.” — Dion Hinchcliffe,_ [_On Digital Strategy_](https://dionhinchcliffe.com/2016/11/18/using-online-community-for-digital-transformation/)
 
@@ -23,26 +22,15 @@ So, how would crowdsourcing help change efforts succeed? [According to some rese
 
 What is needed to use crowdsourcing in digital transformation effectively?
 
-<ul class="ul1">
-  <li>
-    A community platform to coordinate actions and to support the constant communication among the change community.
-  </li>
-  <li>
-    Facilitation because communities needed to be managed to keep the momentum going — and in the right direction.
-  </li>
-  <li>
-    Learning is a vital component. Members need to share best practices and lessons learned as they undertake the change effort.
-  </li>
-  <li>
-    Empowerment is also vital because there will be times when the change effort will stall, or the latest crisis will threaten to overwhelm the community.
-  </li>
-  <li>
-    There is no over-communication in digital transformation. Both bottom-up, top-down, and peer-to-peer communication is needed to help all members make sense of the changes that are occurring during the digital transformation.
-  </li>
-  <li>
-    Co-creation ensures that there is alignment between all members on the strategic goals of the digital transformation. People more readily accept change that they helped to bring about rather than change that is imposed on the organization’s members.
-  </li>
-</ul>
+- A community platform to coordinate actions and to support the constant communication among the change community.
+- Facilitation because communities needed to be managed to keep the momentum going — and in the right direction.
+- Learning is a vital component. Members need to share best practices and lessons learned as they undertake the change effort.
+- Empowerment is also vital because there will be times when the change effort will stall, or the latest crisis will threaten to overwhelm the community.
+- There is no over-communication in digital transformation. Both bottom-up, top-down, and peer-to-peer communication is needed to help all members make sense of the changes that are occurring during the digital transformation.
+- Co-creation ensures that there is alignment between all members on the strategic goals of the digital transformation. People more readily accept change that they helped to bring about rather than change that is imposed on the organization’s members.
 
-Digital transformation is necessary to realize the promise of the 21st century federal government. All federal employees are vital partners in bringing about the digital transformations of their agencies._Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
-_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+Digital transformation is necessary to realize the promise of the 21st century federal government. All federal employees are vital partners in bringing about the digital transformations of their agencies.
+
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
+
+_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -1,0 +1,34 @@
+{{ with .card_data }}
+  <div class="dg-card-legislation">
+    <div class="usa-card__container usa-card-group usa-card--flag">
+      {{ if .title }}
+        <div class="usa-card__header">
+          <h2 class="dg-featured-resource__text-kicker">Related Policy</h2>
+          <h2 class="usa-card__heading">
+            {{ .title }}
+          </h2>
+        </div>
+      {{ end }}
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img
+            src="{{ $.image }}/legislative-stamp-card-logo-600.png"
+            alt="{{ .title }}"
+          />
+        </div>
+      </div>
+      {{ if .description }}
+        <div class="usa-card__body">
+          <p>
+            {{ .description }}
+          </p>
+        </div>
+      {{ end }}
+      {{ if .link }}
+        <div class="usa-card__footer">
+          <a href="{{- .link | relURL -}}" class="usa-button"> View policy </a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

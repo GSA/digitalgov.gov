@@ -7,13 +7,14 @@ authors:
   - ktrebon
 topics:
   - governance
-  - strategy
-  - policy
-  - user-testing-and-research
+  - content-strategy
+  - research
   - innovation
 ---
 
-We hear a lot about [agile software development](https://pages.18f.gov/agile/) being used in work with customers and end users. [User stories](https://pages.18f.gov/agile/3-steps.html) are developed, coders and programmers turn them into prototypes, then [testing](https://pages.18f.gov/agile/4-validate.html) is done to make sure the features work and do what is expected. But, agile is more than a way to develop software; it&#8217;s a mindset that favors [iteration](https://pages.18f.gov/agile/6-iterate.html) over knowing everything up front. {{< legacy-img src="2016/02/600-x-322-Loop-iteration-sprint-illustrated-as-street-arrow-Connel_Design-iStock-Thinkstock-530900547.jpg" alt="Loop iteration sprint illustrated as a street arrow." caption="" >}} 
+We hear a lot about [agile software development](https://pages.18f.gov/agile/) being used in work with customers and end users. [User stories](https://pages.18f.gov/agile/3-steps.html) are developed, coders and programmers turn them into prototypes, then [testing](https://pages.18f.gov/agile/4-validate.html) is done to make sure the features work and do what is expected. But, agile is more than a way to develop software; it&#8217;s a mindset that favors [iteration](https://pages.18f.gov/agile/6-iterate.html) over knowing everything up front.
+
+{{< legacy-img src="2016/02/600-x-322-Loop-iteration-sprint-illustrated-as-street-arrow-Connel_Design-iStock-Thinkstock-530900547.jpg" alt="Loop iteration sprint illustrated as a street arrow." caption="Connel_Design, iStock, Thinkstock" >}} 
 
 So how can you have an agile mindset inside YOUR agency? At [GSA&#8217;s Office of Citizen Services and Innovative Technologies (OCSIT)](http://www.gsa.gov/portal/content/141613), we have a process where employees “pitch” new ideas to a panel of judges for the chance to win funding and staffing.. It&#8217;s like the TV show Shark Tank — we call it The Great Pitch. Since [agile favors responding to change](http://www.agilemanifesto.org/) over following a plan, we gather ideas and award funding every MONTH, instead of just in step with the yearly budget process.
 
@@ -29,7 +30,9 @@ OCSIT and 18F employees serve as the subject matter expert judges. They evaluate
 
   1. Moving forward/being funded
   2. More information is needed, or the project needs to be re-scoped, or
-  3. The project will not move forward or be funded {{< legacy-img src="2016/02/600-x-400-Sticks-note-paper-on-wall-xmee-iStock-Thinkstock-497284431.jpg" alt="Three rows of different colored paper sticky notes on a wall." caption="" >}} 
+  3. The project will not move forward or be funded
+  
+  {{< legacy-img src="2016/02/600-x-400-Sticks-note-paper-on-wall-xmee-iStock-Thinkstock-497284431.jpg" alt="Three rows of different colored paper sticky notes on a wall." caption="xmee, iStock, Thinkstock" >}} 
 
 Some of the ideas that move forward are given a portion of their requested funding for [discovery](https://pages.18f.gov/digital-team-playbook/about-18f-consulting-services/discovery-sprint/). In line with agile methodology, this allows a team to investigate the idea further for a short period of time (a [sprint](https://pages.18f.gov/agile/practices.html)) before moving full steam ahead. This allows us to &#8220;fail fast&#8221; and not invest too much time and money in a product that is not needed. We average 10-12 ideas a month.
 

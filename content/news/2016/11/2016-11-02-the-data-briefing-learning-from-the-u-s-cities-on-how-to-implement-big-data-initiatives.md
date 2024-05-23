@@ -6,13 +6,11 @@ summary: 'A recent study of big data initiatives in 65 cities has interesting gu
 authors:
   - bbrantley
 topics:
-  - data
-  - product-management
-  - strategy
-  - policy
-  - big-data
-  - data
-  - the-data-briefing
+  - product-and-project-management
+  - content-strategy
+  - analytics
+  - open-data
+  - emerging-tech
 ---
 
 A [recent study of big data initiatives in 65 cities](http://www.businessofgovernment.org/report/ten-actions-implement-big-data-initiatives-study-65-cities) has interesting guidance for Federal big data initiatives. The researchers studied how data is collected and then used for decision making in what they called “the framework for Big Data initiatives.” There are two major cycles in the framework:

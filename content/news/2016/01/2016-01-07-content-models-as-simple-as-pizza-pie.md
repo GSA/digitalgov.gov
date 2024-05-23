@@ -6,12 +6,7 @@ summary: 'Open and structured content models assist in the dissemination of info
 authors:
   - christen-geiler
 topics:
-  - content
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - content-models
-  - COPE
-  - open-and-structured-content-models
+  - content-strategy
 ---
 
 Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for [modular content is growing]({{< ref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).
@@ -74,7 +69,7 @@ seamlessly appears here <http://www.niaid.nih.gov/topics/hookworm/Pages/Default.
 
 You have your data and are now ready to start “cooking” with a content model (pizza). The U.S. General Services Administration’s Office of Citizen Services and Innovative Technologies (OCSIT) convened a working group to create [two open and structured content models](https://github.com/GSA/Open-And-Structured-Content-Models/issues) you can use and adapt to make your own. These content models were created to help government agencies easily publish content in multiple forms (slices) and on multiple platforms.
 
-The [Article](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [Event](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html) models, are geared to provide a template for structuring digital information that makes [Create Once, Publish Everywhere (COPE)]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}}) possible. The Article and Events models are not intended to be exhaustive. They serve as a common starting point. When agencies identify elements not covered by these two content models they can extend them with additional elements.
+The [Article](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [Event](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html) models, are geared to provide a template for structuring digital information that makes [Create Once, Publish Everywhere (COPE)](https://digital.gov/2013/07/29/how-to-create-open-structured-content/) possible. The Article and Events models are not intended to be exhaustive. They serve as a common starting point. When agencies identify elements not covered by these two content models they can extend them with additional elements.
 
 These [models are located on GitHub](https://github.com/GSA/Open-And-Structured-Content-Models/issues)—check them out, help update them and start making your slices!
 

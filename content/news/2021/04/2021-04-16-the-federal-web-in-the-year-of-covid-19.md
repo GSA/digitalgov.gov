@@ -5,10 +5,9 @@ title: The Federal Web in the Year of COVID-19
 summary: The past year was like no other. We take a look at how it affected federal website traffic and search data.
 # See all topics at https://digital.gov/topics
 topics:
-  - data
-  - metrics
+  - open-data
   - analytics
-  - digitalgov-search
+  - search
 # See all authors at https://digital.gov/authors
 authors:
   - dmccleskey

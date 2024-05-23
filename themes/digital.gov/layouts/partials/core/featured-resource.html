@@ -1,0 +1,66 @@
+{{/* Featured Resource Component
+
+  @params {string} resourcePath - A relative hugo path to lookup a page to feature, use a forward slash before the path and no trailing slash.
+  @params {string} kicker - Text that is displayed above the resources main content.
+
+  @example shortcode
+  {{< featured-resource resourcePath = "/guides/hcd/discovery-concepts"
+>}}
+
+
+<!-- prettier-ignore -->
+Resource paths allowed:
+  - 18f-accessibility-guide
+  - /18f-accessibility-guide
+  - /resources/18f-accessibility-guide
+
+@example Community shortcodes
+{{< featured-resource resourcePath = "/communities/communicators" kicker = "Join the Community" >}}
+
+
+<!-- prettier-ignore -->
+Community resource paths:
+  - communicators
+  - multilingual
+  - plain-language
+  - social-media
+  - user-experience
+  - web-analytics-and-optimization
+  - web-managers-forum
+*/}}
+
+{{- $resourcePath := .resourcePath -}}
+{{- $kicker := .kicker -}}
+{{- if $resourcePath -}}
+  {{- $resource := .Site.GetPage $resourcePath -}}
+  {{- if $resource -}}
+
+    <div class="dg-featured-resource">
+      <a
+        href="{{- $resource.Permalink | relURL -}}"
+        class="dg-featured-resource__body"
+      >
+        <div class="dg-featured-resource__text">
+          <p class="dg-featured-resource__text-kicker">
+            {{- if $kicker -}}
+              {{- $kicker | markdownify -}}
+            {{- else -}}
+              Featured Resource
+            {{- end -}}
+          </p>
+          <h2 class="dg-featured-resource__text-title">
+            {{- $resource.Params.title -}}
+          </h2>
+          <p class="dg-featured-resource__text-description">
+            {{- $resource.Params.summary -}}
+          </p>
+        </div>
+        {{ if $resource.Params.image }}
+          <div class="dg-featured-resource__image">
+            {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
+          </div>
+        {{ end }}
+      </a>
+    </div>
+  {{- end -}}
+{{- end -}}

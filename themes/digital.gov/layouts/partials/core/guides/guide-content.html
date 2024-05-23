@@ -1,0 +1,14 @@
+<section class="dg-guide__content grid-container-desktop">
+  <div>
+    {{- partial "core/guides/guide-content-header.html" . -}}
+    <div class="dg-guide__content-body usa-prose">
+      {{- .Content -}}
+    </div>
+  </div>
+</section>
+
+<section class="dg-guide__footer grid-container-desktop">
+  {{- partial "core/guides/guide-prev-next.html" . -}}
+  {{- partial "core/attribution.html" . -}}
+  {{- partial "core/touchpoints-form.html" . -}}
+</section>

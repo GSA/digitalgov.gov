@@ -7,8 +7,8 @@ deck: "Managing Information as a Strategic Resource"
 summary: "Managing Information as a Strategic Resource"
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-source_url: "https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf"
+
+source_url: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf"
 
 # Which team or website published this?
 source: whitehouse
@@ -21,8 +21,7 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - policy
   - security
   - governance
-  - product-management
+  - product-and-project-management
 ---

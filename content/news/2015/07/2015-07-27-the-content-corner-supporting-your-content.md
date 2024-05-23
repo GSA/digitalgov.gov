@@ -6,10 +6,7 @@ summary: 'This column revolves mostly around content creation and strategy, but 
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
   - content-strategy
-  - the-content-corner
 ---
 
 {{< legacy-img src="2015/07/600-x-425-Magnifying-glass-showing-content-word-in-white-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224248.jpg" alt="Magnifying glass over the word content in white text." caption="" >}} 
@@ -62,4 +59,4 @@ The second part of this method involves making communication to these interested
 
 These tools also include social media, especially when considering external or public content. DigitalGov has great resources on [social media promotion]({{< ref "/topics/social-media" >}}) and using it to increase awareness of your content. The success of an [NIH healthy aging Twitter chat]({{< ref "2015-05-15-how-a-twitter-chat-about-healthy-aging-reached-more-than-4-million-people.md" >}}) is a great example of leveraging the power of social media to promote a topic and your relevant content.
 
-Just as with developing an [editorial calendar]({{< ref "2015-03-02-the-content-corner-catching-a-wave.md" >}}) and using [content pillars]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}){.markup--anchor.markup--p-anchor}, you should also have a plan in place to support new content, especially if it is event-driven or time-sensitive._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Just as with developing an [editorial calendar]({{< ref "2015-03-02-the-content-corner-catching-a-wave.md" >}}) and using [content pillars]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}){.markup--anchor.markup--p-anchor}, you should also have a plan in place to support new content, especially if it is event-driven or time-sensitive._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -7,9 +7,8 @@ authors:
   - jason-kelly
 topics:
   - social-media
-  - video
+  - multimedia
   - mobile
-  - YouTube
 ---
 
 [{{< legacy-img src="2013/06/Usa.govyoutubeimage-250x129.jpg" alt="Screenshot of USA.gov Youtube image" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/Usa.govyoutubeimage.jpg)YouTube recently upgraded  to the new [One Channel design](http://www.youtube.com/onechannel). The new design emphasizes responsive layouts for mobile devices, tablets, desktops and laptops, and TVs. A single banner on a white background replaces a customizable background and color scheme. YouTube recommends using a single 2560 x 1440 px image that fits its template.

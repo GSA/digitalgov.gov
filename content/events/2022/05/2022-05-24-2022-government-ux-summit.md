@@ -11,10 +11,11 @@ end_date: 2022-06-08 16:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - user-experience
-  - cx
+  - customer-experience
   - design
-  - user-research
+  - research
   - accessibility
+  - information-architecture
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -54,7 +55,7 @@ In this session you will hear from the following speakers:
 * **Samuel Chapman** &mdash; Digital User Experience Analyst, Internal Revenue Service
 * **Kira Prin** &mdash; Product Development Specialist, Internal Revenue Service
 
-{{< youtube cl6sVFjzZG4 >}}
+{{< youtube id="cl6sVFjzZG4" title="How to Redesign a 19-Year-old Legacy Application Using Agile and UX Methodologies" >}}
 
 ---
 
@@ -173,7 +174,7 @@ In this session you will hear from the following speaker:
 
 * **Sheila Walsh** &mdash; Public Affairs Specialist, Department of Health and Human Services
 
-{{< youtube d1MDLbZoEwQ >}}
+{{< youtube id="d1MDLbZoEwQ" title="Designing Digital Products for Adults With Low Literacy" >}}
 
 ---
 

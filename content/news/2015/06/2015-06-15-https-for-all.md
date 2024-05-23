@@ -6,10 +6,8 @@ summary: With the release of a new dashboard to measure best Web practices in th
 authors:
   - kdaniel
 topics:
-  - product-management
-  - 18f
-  - data
-  - https
+  - product-and-project-management
+  - open-data
   - security
 ---
 

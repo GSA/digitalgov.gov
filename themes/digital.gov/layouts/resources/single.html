@@ -1,73 +1,44 @@
 {{- define "content" -}}
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-
-<main role="main" id="main-content">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- $path -}}">
-            <p class="breadcrumb">
-              <a href="{{- "resources/" | absURL -}}" aria-label="Back to Resources landing page">
-                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                  <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-                </svg>
-                <span>All Resources</span>
-              </a>
-            </p>
-            {{- if .Params.kicker -}}
+  <main role="main" id="main-content">
+    <article class="grid-container grid-container-desktop">
+      {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+      <header>
+        <div>
+          {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
-            {{- end -}}
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
+          {{- end -}}
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}}</h1>
 
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-          </div>
+          {{- end -}}
         </div>
-      </div>
-    </header>
+      </header>
 
-    <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-6">
-
-          <div class="grid-col-12 tablet:grid-col-9" data-edit-this="{{- $path -}}">
-
-            {{/* Content */}}
-            <div class="content usa-prose">
-              {{- .Content -}}
-            </div>
-
-            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-
+      <div class="usa-in-page-nav-container">
+        <div>
+          {{/* Content */}}
+          <div class="content usa-prose">
+            {{- .Content -}}
           </div>
 
-          <div class="grid-col-12 tablet:grid-col-3">
-
-            {{/* Table of contents */}}
-            {{- partial "core/toc.html" . -}}
-
-            {{/* Last updated */}}
-            {{/* {{- partial "last-updated.html" . -}}  */}}
-
+          {{/* Touchpoints Form */}}
+          {{- partial "core/touchpoints-form.html" . -}}
+        </div>
+        <aside
+          class="dg-sidebar usa-in-page-nav"
+          data-title-heading-level="h4"
+          data-root-margin="-350px 0px -350px 0px"
+          aria-label="Related content"
+        >
+          <div class="dg-related-items" data-related-items>
             {{/* Related Communities and Services */}}
             {{- partial "core/get_related.html" . -}}
-
-            {{/* Topics */}}
-            {{/* {{- partial "core/list-topics.html" . -}} */}}
-
-            {{/* Share Tools */}}
-            {{/* {{- partial "core/get_sharetools.html" . -}} */}}
-
           </div>
-
-        </div>
+        </aside>
       </div>
-    </section>
-
-  </article>
-</main>
+    </article>
+  </main>
 {{- end -}}

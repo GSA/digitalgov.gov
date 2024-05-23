@@ -6,14 +6,9 @@ summary: 'Summary: We&#8217;re taking action to accelerate efforts to increase t
 authors:
   - tony-scott
 topics:
-  - product-management
-  - strategy
-  - policy
-  - Federal Information Technology Acquisition Reform Act
-  - FITARA
-  - green IT
-  - Office of Management and Budget
-  - OMB
+  - product-and-project-management
+  - content-strategy
+  - budgeting-and-performance
 ---
 
 > **Summary**: We&#8217;re taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the government&#8217;s overall IT security posture.

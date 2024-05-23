@@ -1,0 +1,10 @@
+@use "uswds-core" as *;
+
+.dg-read-time {
+  @include u-font("sans", "2xs");
+  background-color: color("indigo-10");
+  border-radius: units(2);
+  display: inline-block;
+  margin-top: units("105");
+  padding: units("05") units("105");
+}

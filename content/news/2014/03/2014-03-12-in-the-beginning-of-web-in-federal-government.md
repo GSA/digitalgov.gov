@@ -2,38 +2,25 @@
 slug: in-the-beginning-of-web-in-federal-government
 date: 2014-03-12 10:01:57 -0400
 title: 'In the Beginning&#8230;of Web in Federal Government'
-summary: ' With the 25th anniversary of the Web, we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since. The State Department may have been one of the first, in 1991, with a'
+summary: 'With the 25th anniversary of the Web, we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.'
+
 authors:
   - andreanocesigritz
+
 topics:
-  - content
-  - CNCS
-  - Corporation for National and Community Service
-  - Court Services and Offender Supervision Agency
-  - CSOSA
-  - dhs
-  - epa
-  - fema
-  - Government Publishing Office
-  - GPO
-  - HHS
-  - HUD
-  - NARA
-  - nasa
-  - national-archives-and-records-administration
-  - us-department-of-state
-  - united-states-department-of-health-and-human-services
-  - united-states-department-of-homeland-security
-  - united-states-department-of-housing-and-urban-development
-  - usagov
-  - web-content-managers-forum
+  - content-strategy
+
 ---
 
-{{< legacy-img-right src="2014/03/Birthday-Cake\_Internet\_World-Wide-Web\_25-years-old\_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}With the [25th anniversary of the Web](http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/), we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.
+{{< legacy-img-right src="2014/03/Birthday-Cake_Internet_World-Wide-Web_25-years-old_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}
+
+With the [25th anniversary of the Web](http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/), we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.
 
 The State Department may have been one of the first, in 1991, with a bulletin board presence launched thru the Government Printing Office, according to Janice Clark, Director in the Office of Website Management, Bureau of Public Affairs. “We saw the transition from hot type to cold and onto desktop publishing, and finally in the early 90’s began to morph into Web editors.
 
-In the Department as a whole, reliance on hard copy to inform the American public of the work of the Department and U.S. foreign policy was slowly replaced by the Web, with some bureaus and offices more resistant than others.” In 1994, the precursor to [state.gov](http://www.state.gov/index.htm) was a text-only “gopher” site through the Federal Depository Library at the University of Illinois at Chicago.[{{< legacy-img src="2014/03/state-department-gopher-site-250-x-330-2.png" alt="state department gopher site 250 x 330 (2)" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/state-department-gopher-site-250-x-330-2.png)
+In the Department as a whole, reliance on hard copy to inform the American public of the work of the Department and U.S. foreign policy was slowly replaced by the Web, with some bureaus and offices more resistant than others.” In 1994, the precursor to [state.gov](http://www.state.gov/index.htm) was a text-only “gopher” site through the Federal Depository Library at the University of Illinois at Chicago.
+
+{{< legacy-img-right src="2014/03/state-department-gopher-site-250-x-330-2.png" alt="state department gopher site 250 x 330 (2)" >}}
 
 The beginning was like the “Wild, Wild, West,” Candi Harrison, former Web Manager at the Department of Housing and Urban Development shared. Content was published without management review or ownership and everyone was reinventing the wheel, she said.
 
@@ -47,11 +34,11 @@ Early Web managers had a difficult time convincing their agencies they should be
 
 [Healthfinder.gov](http://healthfinder.gov/) morphed from simply being a health portal site, to a site that’s focused on actionable prevention and wellness information, Ellen Langhans, Program Manager, Health Communication and eHealth Division, Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, said. “The Web has changed the way we communicate to our constituents. While healthfinder has always been a Web-based resource, the Healthy People initiative used to look like this.”
 
-[{{< legacy-img src="2014/03/HHS-health-binders-600-x-337.png" alt="HHS health binders" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/HHS-health-binders-600-x-337.png)
+{{< legacy-img src="2014/03/HHS-health-binders-600-x-337.png" alt="HHS health binders" >}}
 
 “Lots of binders, big cost to produce and distribute those binders. Now the Healthy People initiative is completely Web-based,” she explained.
 
-[{{< legacy-img src="2014/03/HealthyPeople.gov-image-600-x-440.png" alt="screenshot of HealthyPeople.gov" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/HealthyPeople.gov-image-600-x-440.png)
+{{< legacy-img src="2014/03/HealthyPeople.gov-image-600-x-440.png" alt="screenshot of HealthyPeople.gov" >}}
 
 In 2010, [archives.gov](http://www.archives.gov/) got a redesign driven by citizen input in [online card sorts, survey and search data and site comments](http://www.archives.gov/open/redesign/about.html), shared Sarah Araghi, Archives.gov Team Leader, at the National Archives & Records Administration (NARA). The online card sorts were used to help us learn how citizens would organize the site.
 
@@ -59,7 +46,7 @@ In 2010, [archives.gov](http://www.archives.gov/) got a redesign driven by citiz
 
 The Court Services and Offender Supervision Agency (CSOSA) had the first [podcast series incorporating social media](http://media.csosa.gov/) within the federal government. Approximately 150 criminal justice and government organizations now accept their material via RSS feed, Leonard Sipes, Jr., Senior Public Affairs Specialist/Social Media Manager at CSOSA said. And recently they found out that their tv shows are being offered thru TV Guide.
 
-NASA’s digital presence goes well beyond the Web. Its [Twitter feed](https://twitter.com/NASA) has more than 6 million followers, and NASA regularly posts to Facebook, Instagram and other social media sites. NASA is becoming part of the conversation for events only indirectly connected to the agency, as when a meteor exploded over Russia in 2013. This year, the film “Gravity” won six Oscars and users continually referred to NASA’s “#[RealGravity](https://twitter.com/search?q=%23RealGravity&src=typd)” collection of online images reflecting the film.
+NASA’s digital presence goes well beyond the Web. Its [Twitter feed](https://twitter.com/NASA) has more than 6 million followers, and NASA regularly posts to Facebook, Instagram and other social media sites. NASA is becoming part of the conversation for events only indirectly connected to the agency, as when a meteor exploded over Russia in 2013. This year, the film “Gravity” won six Oscars and users continually referred to NASA’s “[#RealGravity](https://twitter.com/search?q=%23RealGravity&src=typd)” collection of online images reflecting the film.
 
 ## Power of the Web
 
@@ -75,7 +62,7 @@ One surprising thing, has been how intimately, and individually, we can help peo
 
 As customer service and open government became more of a focus, agencies met the challenge with creative offerings. The Corporation for National and Community Service (CNCS) launched [Serve.gov](http://www.serve.gov/), an innovative, dynamic website that helps Americans find and create volunteer opportunities in their communities. The key feature of Serve.gov is an open source application—All For Good—that allows people to find local volunteer opportunities, David Sherman, Drupal Developer and Web Designer at CNCS, said. The search engine has more than 250,000 searchable opportunities in communities across the country.
 
-## What&#8217;s the Future?
+## What's the Future?
 
 While no one knows what online government will look like in the next 25 years, agencies have predictions. “It’s here to stay. While newer technologies such as social media are gaining ground, traditional Web is where our users go to get the detailed information and harvest from official documents for their work, travel, and school projects.” &#8211; Janice Clark, State Department
 

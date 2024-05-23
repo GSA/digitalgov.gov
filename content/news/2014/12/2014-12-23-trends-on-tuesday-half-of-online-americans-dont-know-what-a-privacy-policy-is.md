@@ -1,32 +1,26 @@
 ---
 slug: trends-on-tuesday-half-of-online-americans-dont-know-what-a-privacy-policy-is
 date: 2014-12-23 9:00:17 -0400
-title: 'Trends on Tuesday: Half of Online Americans Don’t Know What a Privacy Policy Is'
-summary: Federal agencies are required by law (see the list of applicable ones here) to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data. The problem, according to Pew
+title: "Trends on Tuesday: Half of Online Americans Don’t Know What a Privacy Policy Is"
+summary: "Federal agencies are required by law to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data."
 authors:
   - jparcell
 topics:
-  - product-management
+  - product-and-project-management
   - mobile
-  - Defense Intelligence Agency
-  - DIA
-  - digitalgov-summit
-  - Federal Trade Commission
-  - FTC
-  - internet-of-things
-  - mobile-gov-community-of-practice
-  - mobile-ux-guideline-6
-  - Privacy Impact Assessment
-  - trends-on-tuesday
+  - emerging-tech
+  - privacy
+  - security
+  - emerging-tech
 ---
-
-{{< legacy-img src="2014/12/600-x-226-Online-privacy-tupungato-iStock-Thinkstock-482992487.jpg" alt="Word cloud about online privacy" caption="" >}}
 
 Federal agencies are required by law [see the list of applicable ones here](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services#privacy-and-identity-management) to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data.
 
+{{< legacy-img src="2014/12/600-x-226-Online-privacy-tupungato-iStock-Thinkstock-482992487.jpg" alt="Word cloud about online privacy" caption="tupungato/iStock/Thinkstock" >}}
+
 The problem, according to Pew Research, is that [half of these users don&#8217;t know what a privacy policy is](http://www.pewresearch.org/fact-tank/2014/12/04/half-of-americans-dont-know-what-a-privacy-policy-is/?utm_source=Pew+Research+Center&utm_campaign=2d494ce46d-Pew_Internet_newsletter_121014&utm_medium=email&utm_term=0_3e953b9b70-2d494ce46d-399422789).
 
-&#8220;When Pew Research Center asked about this [a privacy policy] on a recent survey measuring [public knowledge of technology and the Web](http://www.pewinternet.org/2014/11/25/web-iq/), we found that it was one that many Americans answered incorrectly. Our true/false statement question asked, “When a company posts a privacy policy, it ensures that the company keeps confidential all the information it collects on users.” _Some 52% of Internet users believe—incorrectly—that this statement is true, and that privacy policies actually ensure the confidentiality of their personal information_.&#8221;
+"When Pew Research Center asked about this [a privacy policy] on a recent survey measuring [public knowledge of technology and the Web](http://www.pewinternet.org/2014/11/25/web-iq/), we found that it was one that many Americans answered incorrectly. Our true/false statement question asked, “When a company posts a privacy policy, it ensures that the company keeps confidential all the information it collects on users.” _Some 52% of Internet users believe—incorrectly—that this statement is true, and that privacy policies actually ensure the confidentiality of their personal information_."
 
 In the article, researcher Joseph Turow states there are several issues contributing to confusion over privacy policies:
 

@@ -20,8 +20,8 @@ end_date: 2020-03-11 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - content
-  - cx
+  - content-strategy
+  - customer-experience
   - plain-language
   - user-experience
 

@@ -11,7 +11,7 @@ last_name: "Lowden"
 # List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
 # See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
 # Examples: they/them, she/her, or he/him
-pronoun: ""
+pronoun: "he/him"
 
 # slug — the specific user-id for an author.
 slug: tlowden
@@ -41,7 +41,7 @@ github: "tdlowden"
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: ""
+profile_source: "github"
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: ""

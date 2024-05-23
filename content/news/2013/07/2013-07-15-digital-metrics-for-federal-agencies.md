@@ -6,9 +6,8 @@ summary: 'Digital metrics are critical for measuring, analyzing, and reporting o
 authors:
   - marina-fox
 topics:
-  - metrics
-  - our-work
-  - customer-satisfaction
+  - analytics
+  - customer-experience
   - mobile
   - social-media
   - usability
@@ -159,7 +158,7 @@ The use of these five Web dimensions will allow for insightful, sophisticated re
 
 **7. Set performance targets and make sure they align with agency and business goals.** Setting performance targets will give you defined goals that align with your agency mission and particular business objectives. You can identify targets based on prevailing practices from government or industry, or you can set goals to improve a particular metric over time. For example, you could set a goal to achieve a particular bounce rate, knowing that the average bounce rate for websites is 50%, according to Inc.com. Given this information, there might be cause for concern if you have a higher than [average bounce rate](http://www.inc.com/guides/2011/01/how-to-reduce-your-website-bounce-rate.html) or if your bounce rate continues to increase (unless of course, you determine that a high bounce rate is good, as may be the case with a link portal site). In this scenario, you’d want to look at other metrics to get a complete picture and identify ways to improve the content and better engage your customers.
 
-**8. Measure what matters to your customers.** Keep in mind that people may use government websites specifically (when filing tax returns, to get a form), periodically (travel advisories abroad), or continuously (weather site). Depending on your site’s purpose and goals, some measures may be more important and better indicators of success. For example, when looking at average visits per visitor, the expectations of what is good or bad may vary widely by business model, as explained by Web Analytics Demystified.  If you have a customer support type website, having a low average visits per visitor may be good since it could suggest that people don’t need to have multiple visits because they’re quickly satisfied with your service or they’re able to quickly resolve problems via other customer service channels (i.e., phone, in-person). But having a high visit per visitor may be good for a website whose primary purpose is a marketing campaign where you’re looking for many people to return often to your site and engage regularly.
+**8. Measure what matters to your customers.** Keep in mind that people may use government websites specifically (when filing tax returns, to get a form), periodically (travel advisories abroad), or continuously (weather site). Depending on your site’s purpose and goals, some measures may be more important and better indicators of success. For example, when looking at average visits per visitor, the expectations of what is good or bad may vary widely by business model, as explained by Web Analytics Demystified. If you have a customer support type website, having a low average visits per visitor may be good since it could suggest that people don’t need to have multiple visits because they’re quickly satisfied with your service or they’re able to quickly resolve problems via other customer service channels (i.e., phone, in-person). But having a high visit per visitor may be good for a website whose primary purpose is a marketing campaign where you’re looking for many people to return often to your site and engage regularly.
 
 **9. Create compelling reports that turn data into action.** Learn how to present your data in ways that clearly convey key messages for decision-makers and those creating your digital content.
 

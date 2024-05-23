@@ -4,8 +4,8 @@ date: 2014-01-09 3:01:38 -0400
 title: Paperwork Reduction Act Fast Track Process
 summary: "Protect Your Customer&#8217;s Privacy Federal agencies must follow various laws and regulations, including the Paperwork Reduction Act (PRA) and the Privacy Act, when collecting information from the public. You should also be familiar with SORN (Systems of Records Notice), as well as rules around personally identifiable information, and laws that relate to your specific method of feedback collection"
 topics:
+  - information-collection
   - policy
-  - pra
 authors:
   - rflagg
 ---

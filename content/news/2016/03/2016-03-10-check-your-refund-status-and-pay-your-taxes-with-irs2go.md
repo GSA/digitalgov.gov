@@ -8,12 +8,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Internal Revenue Service
-  - IRS
-  - mobile-apps
-  - thursday-mobile-products
-  - us-digital-registry
-  - usa-gov-federal-mobile-apps-directory
+  - social-media
 primary_image: irs2go-google-play-logo-1200
 
 ---

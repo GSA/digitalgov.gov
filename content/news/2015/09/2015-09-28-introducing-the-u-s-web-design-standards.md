@@ -1,8 +1,9 @@
 ---
 slug: introducing-the-u-s-web-design-standards
 date: 2015-09-28 3:18:18 -0400
-title: Introducing the U.S. Web Design Standards
-summary: Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college. In trying to access the federal programs which will allow her to afford college, Joanne must navigate the websites of multiple agencies. She finds dozens of government websites which
+title: "Introducing the U.S. Web Design Standards"
+summary: "The U.S. Web Design Standards are the U.S. government’s very own set of common UI components and visual styles for websites. It’s a resource designed to make things easier for government designers and developers, while raising the bar on what the American people can expect from their digital experiences."
+
 authors:
   - mollie-ruskin
   - carolyn-dew
@@ -10,10 +11,8 @@ authors:
   - colin-macarthur
 topics:
   - design
-  - 18f
-  - us-digital-service
-  - USDS
   - user-experience
+
 ---
 
 Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college.
@@ -88,11 +87,14 @@ Like any true alpha, this is a living product; we will continue to test our deci
 
 [Check out the U.S. Web Design Standards](https://playbook.cio.gov/designstandards) and [let us know what you think](https://github.com/18F/web-design-standards/issues)!
 
-_This project was a collaboration between 18F and the U.S. Digital Service (USDS). The team was lead by Mollie Ruskin (USDS), and made up of designers and developers in both groups, including Maya Benari (18F), Carolyn Dew (18F), Julia Elman (18F), Victor Garcia (USDS), Angel Kittiyachavalit (USDS), Colin MacArthur (18F), and Marco Segreto (18F)._
-_This project was a major feat of collaboration. We’d probably still be off in a corner designing buttons if it hadn’t been for the encouragement, feedback, and support of this incredible group of people both inside and outside of government._
-_A heartfelt thanks to Mollie Bates, Nick Bristow, Danny Chapman, Scott Cranfill, Elizabeth Goodman, Victor Garcia, Kavi Harshawat, Michael Jovel, Jeremiah Kimelman, Deepa Kunapuli, Maria Marrero, Brad Nunnally, Alex Ose, Eric Ronne, Nick Setthachayanon, Jessica Teal, Jennifer Thibault, Ryan Thurlwell, Russ Unger, Charles Worthington, and Emily Wright-Moore for always being available to help us think through some of the extra sticky bits. Major kudos to Mike Bland and Alison Rowland for making 18F Pages work seamlessly for this project._
-_And finally, a special shout out to Julia Elman for her hard work in getting this thing off the ground and to John Yuda for seeing us through to the end!_
+_This project was a collaboration between 18F and the U.S. Digital Service (USDS). The team was lead by Mollie Ruskin (USDS), and made up of designers and developers in both groups, including Maya Benari (18F), Carolyn Dew (18F), Julia Solórzano (18F), Victor Garcia (USDS), Angel Kittiyachavalit (USDS), Colin MacArthur (18F), and Marco Segreto (18F)._
 
- 
+_This project was a major feat of collaboration. We’d probably still be off in a corner designing buttons if it hadn’t been for the encouragement, feedback, and support of this incredible group of people both inside and outside of government._
+
+_A heartfelt thanks to Mollie Bates, Nick Bristow, Danny Chapman, Scott Cranfill, Elizabeth Goodman, Victor Garcia, Kavi Harshawat, Michael Jovel, Jeremiah Kimelman, Deepa Kunapuli, Maria Marrero, Brad Nunnally, Alex Ose, Eric Ronne, Nick Setthachayanon, Jessica Teal, Jennifer Thibault, Ryan Thurlwell, Russ Unger, Charles Worthington, and Emily Wright-Moore for always being available to help us think through some of the extra sticky bits. Major kudos to Mike Bland and Alison Rowland for making 18F Pages work seamlessly for this project._
+
+_And finally, a special shout out to Julia Solórzano for her hard work in getting this thing off the ground and to John Yuda for seeing us through to the end!_
+
+---
 
 This article was originally published on the [18F blog](https://18f.gsa.gov/2015/09/28/web-design-standards/) by Mollie Ruskin of USDS and Carolyn Dew, Maya Benari and Colin MacArthur, 18F team members.

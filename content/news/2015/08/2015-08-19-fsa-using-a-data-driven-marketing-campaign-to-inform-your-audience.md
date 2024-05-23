@@ -7,10 +7,6 @@ authors:
   - kdaniel
 topics:
   - social-media
-  - FAFSA
-  - federal-student-aid
-  - us-department-of-education
-  - YouTube
 ---
 
 {{< legacy-img src="2015/08/600-x-337-Matt-and-Mike-Awkward-Restaurant-Moment-video-FSA-FAFSA-Using-a-Data-Driven-Marketing-Campaign-to-Inform-Your-Audience.jpg" alt="Video screenshot from Matt and Mike ad for Awkward Restaurant Moment" >}}
@@ -46,7 +42,7 @@ All of these new tactics are based on website search data and the most popular c
 Another major component of the new campaign is the [Matt and Mike video series](https://www.youtube.com/user/FederalStudentAid) that comically depicts to borrowers that you do not have to take drastic measures to repay student loans. Since the launch of the campaign, FSA has released a new video every week to keep the Matt and Mike series fresh and to garner interest. The video series garnered more than 10 million views over the course of the campaign.
 
 [youtube=http://www.youtube.com/watch?v=JcyQp774enU&w=600]
-  
+
 The Matt and Mike video series has been a great way to improve awareness about the loan repayment process in an interesting way. Callahan believes that the Matt and Mike video series has been very successful because the videos are relatable to a large audience.
 
 “They’re fun!,” said Callahan. “The things Mike does are outlandish, but relatable at the same time. There probably aren’t many people who recycle the milk from their cereal or get a pet alpaca so they can make their own socks, but the concept, cutting corners to save a few dollars, is something all of us can relate to. The message we’re trying to drive with these videos is that your student loans don’t have to stop you from living your life.”

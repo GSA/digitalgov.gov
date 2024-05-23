@@ -1,0 +1,24 @@
+{{/* Partial for displaying any image type given its uid
+  @param {string} src - The uid of the image to display
+  @param {boolean} [small] - Whether or not to display the small version of the image
+*/}}
+
+{{/* Gets the id of the image and matches it to a .yml file */}}
+{{- $thisuid := .src -}}
+{{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
+{{- $thisimg := index $.Site.Data.images $thisuid -}}
+
+{{/* Gets the url of the image by concatenating the CDN url with the image uid */}}
+{{- $cdnurl := .Site.Params.cdnurl -}}
+{{- $imgBaseCDN := printf "%s/%s" $cdnurl $thisimg.uid -}}
+{{- $imgExt := $thisimg.format -}}
+{{- $small := or (.small) "false" -}}
+{{- $imgSmall := cond (eq $small "true") "_w600" "" -}}
+
+{{- if $thisimg -}}
+  <img
+    class="dg-img-flexible"
+    src="{{- $imgBaseCDN -}}{{- $imgSmall -}}.{{- $imgExt -}}"
+    alt="{{- $thisimg.alt | markdownify -}}"
+  />
+{{- end -}}

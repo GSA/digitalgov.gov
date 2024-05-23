@@ -4,20 +4,8 @@ date: 2016-05-05 11:28:07 -0400
 title: How to Create Portable Content with Structured Content Models
 summary: Structuring your content for portability across media platforms gives your agency the ability to not only place your message on other properties, but gives you the assurance that your information will always be up-to-date across multiple platforms. This ability is never more important than during an emergency, whether it is a natural disaster or a
 topics:
-  - content
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - content-syndication
-  - HHS
-  - mobile-gov-community-of-practice
-  - mobile-gov
-  - national-institutes-of-health
-  - nih
-  - open-and-structured-content-models
-  - recaps
-  - structured-content
-  - united-states-department-of-health-and-human-services
-  - usagov
+  - content-strategy
+  - mobile
 ---
 
 Structuring your content for portability across media platforms gives your agency the ability to not only place your message on other properties, but gives you the assurance that your information will always be up-to-date across multiple platforms. This ability is never more important than during an emergency, whether it is a natural disaster or a health crisis such as the [Zika virus disease](http://www.cdc.gov/zika/).
@@ -39,7 +27,3 @@ Russell O’Neill, web operations team lead, USAGov, from GSA, then provided a m
 Thalken and Geiler closed the webinar with a discussion about the how [CDC](https://tools.cdc.gov/medialibrary/index.aspx#/results) and [HHS](https://syndication.hhs.gov/) are offering health related content through their federal content syndication storefronts. Agencies and partners can embed the various storefronts’ code on their own website, and not have to worry about updating that content, as it will update when the content is updated on the host site.
 
 As far as getting your organization on board? Start small and find content that would be valuable for reuse. Pair that with a group in your organization you know, and go from there. As Jacob Parcell, MobileGov Community of Practice lead put it, “we are all looking to franchise each others’ content and the more we can franchise it together, the better.”
-
-View the entire webinar below.
-
-{{< youtube 3WO0PK4mV6k >}}

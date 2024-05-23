@@ -18,14 +18,8 @@ end_date: 2019-03-20 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - a-b-testing
-  - metrics
+  - research
   - analytics
-  - cfpb
-  - consumer-financial-protection-bureau
-  - dap
-  - digital-analytics-program
-
 # see all authors at https://digital.gov/authors
 authors: 
   - freddie-blicher

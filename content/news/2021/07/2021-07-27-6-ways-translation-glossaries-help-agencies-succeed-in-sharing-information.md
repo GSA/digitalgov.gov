@@ -6,8 +6,6 @@ summary: Learn how multilingual glossaries set your content translations up for 
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - multilingual-community
-  - content
   - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
@@ -36,7 +34,7 @@ There are many benefits of having a translation glossary, here are six  to cons
 1. **Consistency**: A translation glossary keeps your message consistent across all translations and your branding. It also reduces the cognitive burden on your audience when it recognizes the word and doesn’t have to think about it twice. It sets the standard for all users; internal and external.
 2. **Time-saving**: Yes, creating a translation glossary takes time in the beginning of the process. It frequently gets pushed down the priority list by tight deadlines and other projects. However, this is a one-time investment which will save so much time in the long run. With a glossary as a reference tool, translators don’t waste time researching the correct word to use and employees can fully dedicate themselves to producing quality [multilingual](https://digital.gov/topics/multilingual/) content.
 3. **Improved quality of your materials**: Having a translation glossary improves the quality of your translations. It will help to avoid common errors in the content creation process. Furthermore, the audience will receive the message in a manner that they will understand.
-4. **Better audience engagement**: When your audience can better relate to and understand your content, it automatically increases their ability to engage with your agency and improves [customer experience](https://digital.gov/topics/cx/) (CX).
+4. **Better audience engagement**: When your audience can better relate to and understand your content, it automatically increases their ability to engage with your agency and improves [customer experience](https://digital.gov/topics/customer-experience/) (CX).
 5. **Cost-effectiveness**: Having a translation glossary is a lot more efficient than researching the same terms over and over. It simplifies the translation process, and saves resources and time.
 6. **Branding**: Consistent translation of your services and keywords means your audience can always identify your message.
 

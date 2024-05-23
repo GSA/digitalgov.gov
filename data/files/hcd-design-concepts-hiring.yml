@@ -1,0 +1,6 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/hcd-design-concepts-hiring.pdf
+  # File shortcode: {{< asset-static file="hcd-design-concepts-hiring.pdf" label="hcd-design-concepts-hiring (PDF, 4 pages, 2MB)">}}
+  date     :  2023-08-03 21:14:44 -0400
+  uid      :  hcd-design-concepts-hiring
+  format   :  pdf

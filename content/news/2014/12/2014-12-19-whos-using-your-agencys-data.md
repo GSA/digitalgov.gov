@@ -6,8 +6,7 @@ summary: ' For months, I’ve been trying to figure out how to get leads for the
 authors:
   - myehsha-boone
 topics:
-  - data
-  - FOIA
+  - open-government
   - open-data
 ---
 

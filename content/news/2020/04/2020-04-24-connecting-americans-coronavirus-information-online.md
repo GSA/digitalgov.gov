@@ -19,9 +19,9 @@ summary: "**The American people need access to the most up-to-date public health
 # see all topics at https://digital.gov/topics
 topics: 
   - content-strategy
-  - cx
-  - metadata
+  - customer-experience
   - search-engine-optimization
+  - communication
 
 authors:
   - matt-harmon

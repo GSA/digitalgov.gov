@@ -1,19 +1,11 @@
 ---
-# This topic lives at
-# https://digital.gov/topics/policy
-
-slug: "policy"
-
-# Topic Title
-title: "Policies and Regulations"
-
-# description — keep it short and clear
-summary: "The relevant laws, policies, and regulations for federal agencies."
-
-
-# Weight
+title: Policies and Regulations
+summary: The relevant laws, policies, and regulations for federal agencies.
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- featured on the Resource page
 weight: 2
+slug: policy
 
-# For more information on managing topics,
-# see https://github.com/GSA/digitalgov.gov/wiki
 ---

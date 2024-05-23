@@ -2,28 +2,18 @@
 slug: the-api-briefing-make-2015-the-year-you-create-an-app
 date: 2015-01-07 10:00:04 -0400
 title: 'The API Briefing: Make 2015 the Year You Create an App'
-summary: 'According to some experts, over 80% of Americans will make a least one New Year’s resolution. There are the usual &ldquo;lose weight,&rdquo; &ldquo;quit smoking,&rdquo; or &ldquo;exercise more&rdquo; resolutions. Another popular set of resolutions involves learning new skills. So, if you are looking for a way to improve yourself while helping others, think about making a'
+summary: 'According to some experts, over 80% of Americans will make a least one New Year’s resolution. So, if you are looking for a way to improve yourself while helping others, think about making a resolution to learn how to build a mobile app that can be used in disaster relief.'
 authors:
   - bbrantley
 topics:
-  - api
-  - challenges
-  - data
-  - app
-  - apps
-  - apps-challenges
+  - application-programming-interface
   - challenges-and-prize-competitions
-  - data
-  - data-gov
+  - open-data
   - innovation
   - mobile
-  - mobile-apps
-  - US Department of Agriculture
-  - USDA
-  - wednesday-api-briefing
 ---
 
-{{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
+{{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="Kirillm/iStock/Thinkstock" >}} 
 
 According to some experts, over 80% of Americans will make a least one New Year’s resolution. There are the usual “lose weight,” “quit smoking,” or “exercise more” resolutions. Another popular set of resolutions involves learning new skills. So, if you are looking for a way to improve yourself while helping others, think about making a resolution to learn how to build a mobile app that can be used in disaster relief.
 
@@ -36,5 +26,8 @@ There are numerous free resources online to start learning how to create apps. Y
   * <a href="http://developer.android.com/training/basics/firstapp/index.html" target="_blank">Building Your First App (Google Android)</a>
   * <a href="http://phonegap.com/" target="_blank">PhoneGap (HTML, CSS, and Javascript)</a>_(Please be aware that this is just a partial list for informational purposes and that none of these resources are endorsed by the federal government.)_ 
 
-Once you become comfortable building apps, try using one or more of the federal disaster datasets to build a free app to help in disasters. Try the <a href="http://www.data.gov/disasters/innovator-challenge/" target="_blank">First Innovator Challenge</a> and build an app to reduce flooding fatalities. Not only will you have a New Year’s resolution that helps you grow new skills, but also gives you the satisfaction of making a real difference for someone else in 2015._Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs]({{< ref "2013-04-30-apis-in-government.md" >}} "APIs in Government") are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:bill.brantley@wdc.usda.gov)_._
+Once you become comfortable building apps, try using one or more of the federal disaster datasets to build a free app to help in disasters. Try the <a href="http://www.data.gov/disasters/innovator-challenge/" target="_blank">First Innovator Challenge</a> and build an app to reduce flooding fatalities. Not only will you have a New Year’s resolution that helps you grow new skills, but also gives you the satisfaction of making a real difference for someone else in 2015.
+
+_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs]({{< ref "2013-04-30-apis-in-government.md" >}} "APIs in Government") are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:bill.brantley@wdc.usda.gov)_._
+
 _**Dr. William A. Brantley** is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_. All opinions are his own and do not reflect the opinions of the USDA and GSA._

@@ -5,8 +5,18 @@
     <th>Tool / Service</th>
   </tr>
   {{ range where .Site.Data.termsofservice.termsofservice "status" "==" "inactive" }}
-  <tr>
-    <td><a href="{{ .url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .url }}" alt="{{ .name }}"> <strong><span>{{ .name }}</span></strong></a> {{ if .description }} — {{ .description -}}{{- end -}}</td>
-  </tr>
+    <tr>
+      <td>
+        <a href="{{ .url }}" title="{{ .name }}"
+          ><img
+            class="favicon"
+            src="https://www.google.com/s2/favicons?domain={{ .url }}"
+            alt="{{ .name }}"
+          />
+          <strong><span>{{ .name }}</span></strong></a
+        >
+        {{ if .description }}— {{ .description -}}{{- end -}}
+      </td>
+    </tr>
   {{ end }}
 </table>

@@ -1,36 +1,40 @@
 @use "uswds-core" as *;
 
-.box{
-	@include u-margin-bottom(1);
-	@include u-padding(2);
-	@include u-bg('gray-cool-5');
-	@include u-radius('sm');
-	@include u-text('black');
-	@include u-font('sans', 'xs');
-	h5{
-		@include u-text('black');
-		@include u-font('sans', 'xs');
-	}
-	ul{
-		li{
-			@include u-margin-bottom('05');
-		}
-		&:last-child{
-			@include u-margin-bottom(0);
-		}
-	}
+.box {
+  @include u-margin-bottom(1);
+  @include u-measure(6);
+  @include u-padding(2);
+  @include u-bg("gray-cool-5");
+  @include u-radius("sm");
+  @include u-text("black");
+  @include u-font("sans", "xs");
+
+  h5 {
+    @include u-text("black");
+    @include u-font("sans", "xs");
+  }
+
+  ul {
+    li {
+      @include u-margin-bottom("05");
+    }
+
+    &:last-child {
+      @include u-margin-bottom(0);
+    }
+  }
 }
 
-.box.base-light{
-	@include u-bg('base-light');
+.box.base-light {
+  @include u-bg("base-light");
 }
 
-.box.base{
-	@include u-bg('base');
-	@include u-text('white');
+.box.base {
+  @include u-bg("base");
+  @include u-text("white");
 }
 
-.box.base-dark{
-	@include u-bg('base-dark');
-	@include u-text('white');
+.box.base-dark {
+  @include u-bg("base-dark");
+  @include u-text("white");
 }

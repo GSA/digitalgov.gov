@@ -11,7 +11,7 @@ last_name: "Johnson"
 # List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
 # See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
 # Examples: they/them, she/her, or he/him
-pronoun: ""
+pronoun: "He, him"
 
 # slug — the specific user-id for an author.
 slug: ryan-johnson
@@ -20,7 +20,7 @@ slug: ryan-johnson
 email: "b.ryan.johnson@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "**Ryan Johnson** is a content strategist at [18F](https://18f.gsa.gov/). He has worked at the intersection of communications and technology for over a decade. Before joining 18F earlier this year, Ryan worked for nonprofits, academia, local government, and the Department of the Interior. Ryan specializes in content strategy, content design, accessibility, and information architecture. He lives in Portland, Oregon."
+bio: "Ryan Johnson is a content strategist at [18F](https://18f.gsa.gov/). He has worked at the intersection of communications and technology for over a decade. Before joining 18F, Ryan worked for nonprofits, academia, local government, and the U.S. Department of the Interior. Ryan specializes in content strategy, content design, accessibility, and information architecture."
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""
@@ -32,7 +32,7 @@ agency_full_name: "U.S. General Services Administration"
 agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: "Portland, OR"
+location: ""
 
 # Your GitHub username [e.g. 'jeremyzilar']
 # See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.

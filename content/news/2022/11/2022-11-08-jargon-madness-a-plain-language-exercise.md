@@ -6,8 +6,7 @@ summary: During the 2022 Plain Language Summit, Laura Rabuck of the Veterans Hea
 # See all topics at https://digital.gov/topics
 topics:
   - plain-language
-  - training
-  - writing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - joshua-hardy
@@ -22,7 +21,7 @@ weight: 1
 
 Federal plain writing practitioners may find it hard to engage with their colleagues, and formal plain language training programs can sometimes be a difficult sell to leadership.
 
-One agency developed an entertaining exercise to promote plain language practices by focusing on a common enemy of the plain writer: jargon.
+One agency developed an entertaining exercise to promote plain language practices by focusing on a common enemy of the plain writer: [jargon](https://www.plainlanguage.gov/guidelines/words/avoid-jargon/).
 
 Laura Rabuck, a research health science specialist and lead content strategist at the Veterans Health Administration, created a "Jargon Madness" tournament-style bracket. It’s modeled after a similar annual college basketball-themed bracket. In this version, jargon battles for the title of “Most confusing” based on votes.
 

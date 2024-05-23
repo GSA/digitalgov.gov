@@ -2,32 +2,32 @@
 slug: the-content-corner-finding-your-voice
 date: 2015-04-20 10:00:55 -0400
 title: 'The Content Corner: Finding Your Voice'
-summary: No, this is not another post about podcasting but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an article from Larsen Design states,
+summary: 'No, this is not another post about podcasting but about a different voice entirely. It is the words you use, the conversation that you are having with your users.'
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - administrative-office-of-the-united-states-courts
   - content-strategy
-  - personas
+  - content-strategy
+  - research
   - social-media
-  - the-content-corner
+  - content-strategy
+  - communication
 
 ---
 
-{{< legacy-img src="2015/04/600-x-400-Speech-Bubble-Key-pressureUA-iStock-Thinkstock-ThinkstockPhotos-140790012.jpg" alt="Speech Bubble Key" caption="" >}} 
-
 No, this is not another post about [podcasting]({{< ref "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an [article from Larsen Design](http://larsen.com/insights/creating-the-right-brand-voice/) states, &#8220;You don&#8217;t want to sound like Brahms when your audience is listening to Beck.&#8221; Have you stopped to consider what you sound like to your user, and is it appropriate for your subject matter, agencies, or audience?
 
-# What Does Your Agency Sound Like?
+{{< legacy-img src="2015/04/600-x-400-Speech-Bubble-Key-pressureUA-iStock-Thinkstock-ThinkstockPhotos-140790012.jpg" alt="Speech Bubble Key" caption="pressureUA, iStock, Thinkstock" >}}
+
+## What Does Your Agency Sound Like?
 
 As most of us are aware, online brands both large and small must be authentic to succeed in the modern environment. A great deal of this authenticity comes via your content and how it is written: what is the tone? Do you normally present content in a very dry, matter of fact way? Does your agency have a set style guide where things such as active voice are encouraged? If there is no real guidance (which is more common in my experience), then it might be worthwhile to do a little soul searching and think of how you want to sound or how you should sound. Keep in mind that your agency’s mission and primary audience should influence these decisions. And every government agency should certainly not [sound the same](http://www.inc.com/magazine/20100501/why-is-business-writing-so-awful.html).
 
-# Listen and Learn
+## Listen and Learn
 
 After turning your attention inward and focusing on the mission of your agency and how that should influence your tone and voice, it is beneficial to turn your attention outwards. At this stage you should have a decent idea of your core audience and their demographic. Some agencies certainly have a harder time of this and essentially speak to the entire United States; however, they should have [personas]({{< ref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}) and can use those as a guide or point of reference. Then listen to this audience. Watch how they interact with your agency and how they communicate on forums and various social media platforms. How do they speak to each other? What is their general tone? Learning and understanding how your audience generally communicates will help you communicate with them in turn.
 
-# Voice and Tone
+## Voice and Tone
 
 I have generally used voice and tone interchangeably during this post, but others (rightly) make an important distinction between the two. Stephanie Schwab even divides voice into [four distinct components](https://crackerjackmarketing.com/blog/finding-brand-voice/) which are:
 
@@ -38,9 +38,9 @@ I have generally used voice and tone interchangeably during this post, but other
 
 For sake of brevity, I have basically blended these traits into either the voice or tone, but I suggest you read further and work with whatever structure works best for you and for your agency. If you are the main evangelist at your agency, you need to be able to live and breathe this stuff, so do what works best in achieving your goals. One of the more common ways to differentiate the two is that voice is more of a concept of your agency as a set of adjectives whereas tone is a product of this concept that changes depending on the audience or situation.
 
-# A Different Tone for Different Times 
+## A Different Tone for Different Times 
 
-{{< legacy-img src="2015/04/600-x-155-Social-media-chat-bubble-words-Qstockmedia-iStock-Thinkstock-ThinkstockPhotos-474237751.jpg" alt="Social media chat bubble words" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-155-Social-media-chat-bubble-words-Qstockmedia-iStock-Thinkstock-ThinkstockPhotos-474237751.jpg" alt="Social media chat bubble words" caption="Qstockmedia, iStock, Thinkstock" >}} 
 
 Just as we all speak differently to our parents, our friends, and our boss, we should also at least consider a different tone depending upon our platform or content. Social media is the clear content type that will need a specific tone and is probably one of the main drivers of agencies even discussing brand, voice, and tone. Rocket Media outlines a nice set of [steps to help you establish the proper tone](http://rocketmedia.com/blog/steps-for-creating-a-voice-and-tone-guide) depending on various channels and content types:
 
@@ -55,4 +55,4 @@ With this template, the first question of content type such as tweets, blogs, or
 
 The most important thing is to have a guide for voice and tone established so that it can be followed for critical content such as any social media or email promotional pieces. As stated earlier, social media is especially sensitive to proper tone and voice because at its core it is a conversation you are having with your users. And to be engaging and create benefit for your users you need to be able to not only communicate the proper information, at the proper time, but also in the proper way, and that requires the right voice.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

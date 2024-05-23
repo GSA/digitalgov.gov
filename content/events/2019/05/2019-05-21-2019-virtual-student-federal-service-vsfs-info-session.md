@@ -60,4 +60,4 @@ Take your pick — from info graphic designer to data visualizer, app developer,
 
 This talk is hosted by the Digital.gov in support of the U.S. Department of State’s [Virtual Student Federal Service](https://www.state.gov/vsfs-a-great-opportunity-for-students-and-federal-employees-alike/) program.
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._

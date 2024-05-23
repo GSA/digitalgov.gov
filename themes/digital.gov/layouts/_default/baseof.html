@@ -1,76 +1,66 @@
 {{- partial "core/set-env.html" . -}}
 {{ partialCached "core/head-comment.html" . }}
 
+
 <!DOCTYPE html>
 
-{{ "<!--[if lt IE 9]><html class='lt-ie9'><![endif]-->" | safeHTML }}
-{{ "<!--[if gt IE 8]><!--><html lang='en'><!--<![endif]-->" | safeHTML }}
-
-{{- partial "core/head.html" . -}}
-
-<body class="{{- .Type }} {{ .Kind -}}">
-
-  {{- "<!-- Google Tag Manager (noscript) -->" | safeHTML -}}
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZCKZPQ"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  {{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
+<html
+  lang="en-US"
+  itemscope
+  itemtype="http://schema.org/WebSite"
+  prefix="og: http://ogp.me/ns#"
+>
+  {{- partial "core/head.html" . -}}
 
 
-  <div class="paper">
-
-    {{- partialCached "core/notice-bar.html" . -}}
-    {{- partialCached "core/usa-banner.html" . -}}
-    {{- partialCached "core/header.html" . -}}
-
-
-    {{/* Main Content */}}
-    {{ block "data" . }}{{ end }}
-    {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
-
-
-    {{- partialCached "core/newsletter-signup.html" . -}}
-    {{- partialCached "core/footer.html" . -}}
-    {{- partialCached "core/usa-identifier.html" . -}}
-
-  </div> <!-- end paper -->
-
-  <div id="clicks_iframe" class="display-none"></div>
-
-  <div class="edit_tools">
-    <button class="edit edit-open" aria-label="edit" type="button">
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#edit" | relURL }}"></use>
-      </svg>
-    </button>
-    <a class="edit edit-issue" role="button" target="_blank" href="https://github.com/GSA/digitalgov.gov/issues/new?body=%0D%0A%2A%2A{{- .Title -}}%2A%2A%0D%0Ahttps%3A%2F%2Fdigital.gov%2F{{- .Permalink -}}%0D%0A%0D%0A---%0D%0A%0D%0A%2A%2APlease+describe+the+issue+clearly.+Include+a+screenshot+if+needed%2A%2A%0D%0A">
-      <svg class="usa-icon dg-icon dg-icon--large margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#bug_report" | relURL }}"></use>
-      </svg>
-      <span class="usa-sr-only">Report an issue</span>
-    </a>
-  </div>
-
-</body>
-
-<script src='{{ "dist/jquery.min.js" | absURL }}'></script>
-<script src='{{ "dist/uswds.min.js" | absURL }}'></script>
-<script src='{{ "dist/common.js" | absURL }}'></script>
-
-<!-- Set the Images API as a variable -->
-<script type="text/javascript">
-  var root_url = {{ "" | absURL }};
-  var all_images_json = {{ "images/v1/json/" | absURL }};
-</script>
+  <body class="{{- .Type }} {{ .Kind -}}">
+    {{- "<!-- Google Tag Manager (noscript) -->" | safeHTML -}}
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-MZCKZPQ"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    {{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
 
 
-{{/* Custom JS */}}
-{{- if $.Params.js -}}
-  {{- range $.Params.js -}}
-    {{- $path := (printf "dist/%s" .) | absURL -}}
-    <!-- CUSTOM JS -->
-    <script src="{{ $path }}" type='text/javascript' charset='utf-8'></script>
-  {{- end -}}
-{{- end -}}
+    <div class="paper">
+      {{- partialCached "core/notice-bar.html" . -}}
+      {{- partialCached "core/usa-banner.html" . -}}
+      {{- partialCached "core/sitewide-alert.html" . -}}
+      {{- partialCached "core/header.html" . -}}
 
+      {{/* Main Content */}}
+      {{ block "data" . }}{{ end }}
+      {{ block "content" . }}The BASE CONTENT didn't load. :/{{ end }}
 
+      {{- partialCached "core/newsletter-signup.html" . -}}
+      {{- partialCached "core/footer.html" . -}}
+      {{- partialCached "core/usa-identifier.html" . -}}
+
+    </div>
+    <!-- end paper -->
+
+    <div id="clicks_iframe" class="display-none"></div>
+  </body>
+
+  <!-- Set the glossary terms as a variable -->
+  <script type="text/javascript">
+    {{- $terms := .Params.glossary -}}
+    {{- if (not .IsNode) -}}
+      {{- $terms = .Parent.Params.glossary -}}
+    {{- end -}}
+    {{- $glossaryPath := (printf "%s/%s" "glossary/" $terms | absURL) -}}
+    let glossaryPath = null;
+    {{- if and ($terms) (os.FileExists (printf "%s/%s" "themes/digital.gov/static/glossary/" $terms)) -}}
+      glossaryPath = "{{ $glossaryPath | absURL }}";
+    {{- end -}}
+    // Needed to pass relURL to JS
+    const glossaryIcon = "{{ "uswds/img/sprite.svg#expand_more" | relURL }}"
+  </script>
+
+  <script src="{{ "dist/js/uswds.min.js" | absURL }}"></script>
+  <script src="{{ "dist/js/main.js" | absURL }}"></script>
 </html>

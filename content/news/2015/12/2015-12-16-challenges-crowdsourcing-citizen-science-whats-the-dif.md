@@ -6,35 +6,9 @@ summary: 'There’s more than one way to harness the wisdom of the crowd. In hon
 authors:
   - awichman
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - monthly-theme
-  - Bureau of Reclamation
-  - CFPB
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - Consumer Financial Protection Bureau
-  - crowdfunding
-  - crowdsourcing
-  - epa
-  - FCPCCS
-  - gsa
-  - HHS
+  - crowdsourcing-and-citizen-science
   - innovation
-  - nasa
-  - national-oceanic-and-atmospheric-administration
-  - NOAA
-  - prizes-and-competitions
-  - US Department of Agriculture
-  - us-environmental-protection-agency
-  - united-states-department-of-energy
-  - united-states-department-of-health-and-human-services
-  - united-states-geological-survey
-  - USDA
-  - USGS
 ---
 
 There’s more than one way to harness the wisdom of the crowd.
@@ -100,7 +74,7 @@ Among the most recent competitions:
   * The Environmental Protection Agency (EPA) is looking for [technologies to recycle nutrients from livestock manure](https://www.challenge.gov/challenge/nutrient-recycling-challenge/).
   * The Bureau of Reclamation is looking for solutions to [count food for critical fish species](https://www.challenge.gov/challenge/quantifying-drift-invertebrates-in-river-and-estuary-systems/).
 
-Read more about [successful federal challenges]({{< ref "/topics/challenges" >}}) and best practices for those interested in hosting one.
+Read more about [successful federal challenges]({{< ref "/topics/challenges-and-prize-competitions" >}}) and best practices for those interested in hosting one.
 
 ## Crowdfunding
 

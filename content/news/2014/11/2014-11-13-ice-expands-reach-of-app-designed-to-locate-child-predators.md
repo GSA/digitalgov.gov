@@ -7,11 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - ICE
-  - mobile-apps
   - multilingual
-  - thursday-mobile-products
-  - us-immigration-and-customs-enforcement
 ---
 
 Catching child predators? There&#8217;s an app for that, and it&#8217;s expanding its reach to Android smartphones.

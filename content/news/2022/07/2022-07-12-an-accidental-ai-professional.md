@@ -8,9 +8,8 @@ deck: "This feature on Agata Ciesielski, a fellow in the White House Presidentia
 summary: 
 # See all topics at https://digital.gov/topics
 topics:
-  - ai
+  - artificial-intelligence
   - emerging-tech
-  - pif
 slug: an-accidental-ai-professional
 primary_image: 
 # Controls how this page appears across the site

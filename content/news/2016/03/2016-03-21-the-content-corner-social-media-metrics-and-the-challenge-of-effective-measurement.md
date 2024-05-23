@@ -6,15 +6,9 @@ summary: 'I’ve recently been required to focus more attention on social media 
 authors:
   - tyrus-manuel
 topics:
-  - content
-  - metrics
-  - social-media
-  - administrative-office-of-the-united-states-courts
-  - analytics
   - content-strategy
   - social-media
-  - social-media-metrics
-  - the-content-corner
+  - analytics
 ---
 
 I’ve recently been required to focus more attention on social media from a federal agency standpoint and this has directly led to a greater consideration of content. One of my first steps was to begin sharing various forms of content and gauge the success of each type. In today’s post, I’ll share what I have learned and hope it opens your eyes to how we measure success and whether our metrics are right or completely meaningless. {{< legacy-img src="2016/03/600-x-300-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="Icons for social media marketing and analytics" caption="" >}} 
@@ -43,4 +37,4 @@ The most important thing we can do is be clear about the ambiguity that may exis
 
 Comments can also be a mixed bag. I have found them pretty useful on LinkedIn, for example, but on other platforms such as blogs they are so ineffective that companies ([and agencies]({{< ref "2014-05-29-why-we-turned-off-comments-on-the-usa-gov-blog.md" >}}) turn them off. It saddens me to say, but the instances of a really valuable and value-add conversation popping up in a piece of content’s comment section are pretty rare (and most comments today are generally downright horrifying).
 
-By understanding the limitations of my metrics, I am trying to take a measured approach to conclusions drawn regarding various content types. Engagement numbers, for instance, do have value to me as they help me determine at this very early stage what types of content I should try to post or share more of. And you need to keep in mind what you are hoping to achieve. We won’t be looking for conversions or sales, but we do want to measure the effectiveness and usefulness of our content somehow. Be clear about your goals and how metrics help you determine how well you are reaching them._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+By understanding the limitations of my metrics, I am trying to take a measured approach to conclusions drawn regarding various content types. Engagement numbers, for instance, do have value to me as they help me determine at this very early stage what types of content I should try to post or share more of. And you need to keep in mind what you are hoping to achieve. We won’t be looking for conversions or sales, but we do want to measure the effectiveness and usefulness of our content somehow. Be clear about your goals and how metrics help you determine how well you are reaching them._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

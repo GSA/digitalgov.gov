@@ -5,19 +5,15 @@ title: "Style Guides by Government Agencies"
 summary: "This page is a collection of style guides created by government agencies."
 topics:
   - plain-language
-  - writing
-  - content
+  - communication
+  - content-strategy
 ---
 
-Style guides are used to set the tone and guidelines for how an agency communicates with the public.
+Style guides are used to set the tone and guidelines for how an agency communicates with the public. This page is a collection of style guides created by government agencies.
 
-This page is a collection of style guides created by government agencies. You can add your agency&#8217;s guide by [emailing DigitalGov]({{< ref "/about/_index.md" >}}) or sharing in the [Plain Language Community of Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}).
+{{< note >}}You can add your agency&#8217;s guide here by [emailing DigitalGov]({{< ref "/about/_index.md" >}}). You can also share it with the [Plain Language Community of Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}).{{< /note >}}
 
----
-
-**18F**
-
-- [Content Guide](https://content-guide.18f.gov/)
+## Federal style guides
 
 **Centers for Disease Control and Prevention (CDC)**
 
@@ -28,12 +24,12 @@ This page is a collection of style guides created by government agencies. You ca
 - [Emerging Infectious Diseases Journal Editorial Style Guide](https://wwwnc.cdc.gov/eid/pdfs/StyleGuide.pdf) (PDF, 794 KB, 88 pgs)
 - [Plain Writing at CDC](https://www.cdc.gov/other/plainwriting.html)
 - [Facebook Guidelines and Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/facebook-guidelines.html)
-- [The Health Communicator’s Social Media Toolkit](https://www.cdc.gov/socialmedia/tools/guidelines/socialmediatoolkit.html) (PDF, 2.5 MB, 59 pgs)
-- [Twitter Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/twitter.html)
+- [The Health Communicator’s Social Media Toolkit](https://www.cdc.gov/healthcommunication/toolstemplates/socialmediatoolkit_bm.pdf) (PDF, 2.5 MB, 59 pgs)
+- [Twitter Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/pdf/microblogging.pdf) (PDF, 250 KB, 7 pgs)
 
 **Central Intelligence Agency (CIA)**
 
-- [Directorate of Intelligence’s Style Manual & Writers Guide for Intelligence Publications, 8th edition, 2011](https://www.scribd.com/doc/233259974/Directorate-of-Intelligence-Style-Manual-Writers-Guide-for-Intelligence-Publications-Eighth-Edition-2011)
+- [Directorate of Intelligence’s Style Manual & Writers Guide for Intelligence Publications, 8th edition, 2011](https://irp.fas.org/cia/product/style.pdf) (PDF, 7 MB, 190 pgs)
 
 **Congressional Budget Office (CBO)**
 
@@ -47,31 +43,29 @@ This page is a collection of style guides created by government agencies. You ca
 
 - [NARA Style Guide](https://www.archives.gov/files/open/plain-writing/style-guide.pdf) (PDF, 428 KB, 63 pgs)
 
-**Plain Language**
-
-- [PlainLanguage.gov](https://plainlanguage.gov/)
-
 **U.S. Department of Health and Human Services (HHS)**
 
 - [Administration for Children & Families Editorial Style Guide](https://www.acf.hhs.gov/digital-toolbox/content/editorial-style-guide)
-- [HealthCare.gov Styleguide](https://styleguide.healthcare.gov/)
-- [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
+- [HealthCare.gov Styleguide](https://styleguide.healthcare.gov/) - Centers for Medicare & Medicaid Services (CMS)
+- [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/)
 - [HHS Web Style Guide](https://www.hhs.gov/web/policies-and-standards/web-style-guide/)
+- [National Institutes of Health (NIH) Style Guide](https://www.nih.gov/nih-style-guide)
+- [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (SAMHSA) (PDF, 285 KB, 4 pgs)
 
 **U.S. Department of Veterans Affairs (VA)**
 
 - [VA.gov Content Style Guide](https://design.va.gov/content-style-guide/)
+- [Documentation Style Guide (PDF, 408 KB, 17 pages)](https://www.va.gov/PROCESS/artifacts/documentation_style_guide.pdf)
+- [DigitalVA Accessibility Guide](https://digital.va.gov/accessibility/)
 
 **U.S. Energy Information Administration (EIA)**
 
 - [EIA Writing Style Guide](https://www.eia.gov/about/eiawritingstyleguide.pdf) (PDF, 1.3 MB, 139 pgs)
 
-**U.S. Environmental Protection Agency (EPA)**
-
-- [EPA Communications Style Book](https://www.epa.gov/stylebook)
-
 **U.S. General Services Administration (GSA)**
 
+- [18F Content Guide](https://content-guide.18f.gov/)
+- [PlainLanguage.gov](https://www.plainlanguage.gov/)
 - [USAGov Bilingual Style Guide: Table of Contents](https://www.usa.gov/style-guide/table-of-contents)
 
 **U.S. Government Publishing Office (GPO)**
@@ -86,17 +80,11 @@ This page is a collection of style guides created by government agencies. You ca
 
 - [Program Operational Manual for Notice Standards](https://secure.ssa.gov/apps10/poms.nsf/lnx/0900610000)
 
----
+## Other writing resources
 
-## Other Writing Resources
+Here's a collection of guides created by digital communities of practice and other groups.
 
-Here&#8217;s a collection of guides created by digital communities of practice and other groups.
-
+- [Department of Defense's Introduction to Plain Language](https://www.esd.whs.mil/Portals/54/Documents/DD/plain_language/PlainLanguageCourse.pdf?ver=2017-04-04-163823-677) (PDF, 398 KB, 44 pgs)
+- [PLAIN's Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
 - [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}})
-- [Department of Defense&#8217;s Introduction to Plain Language](http://www.dtic.mil/whs/directives/plainlanguage/PlainLanguageCourse.pdf) (PDF, 407 KB, 44 pgs)
-- [PLAIN&#8217;s Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
-- [Spanish Health Care Terms in the United States]({{< ref "spanish-health-care-terms-in-the-united-states.md" >}})
-- [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms]({{< ref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}})
-- [Spanish Language Style Guide and Glossaries: Grammar]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md" >}})
-- [Spanish Language Style Guide & Glossaries: Information Technology Terms]({{< ref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}})
-- [Spanish Language Style Guide & Glossaries: Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}})
+- [Spanish Language Style Guides and Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/)

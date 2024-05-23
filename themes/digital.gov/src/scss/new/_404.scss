@@ -1,0 +1,7 @@
+// @TODO Remove on layout refactor
+// Hide touchpoints survey on *all* 404 pages.
+
+// Using attribute selector because the class is a number.
+[class*="404"] .touchpoints-form-container {
+  display: none !important;
+}

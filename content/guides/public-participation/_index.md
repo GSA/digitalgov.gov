@@ -1,26 +1,29 @@
 ---
 date: 2020-09-08 09:00:00 -0500
-title: "U. S. Public Participation Playbook"
-deck: ""
-summary: 
+title: "U.S. Public Participation Playbook"
+deck: "Build better services through public participation"
+summary: "A resource for government managers to effectively evaluate and build better services through public participation."
+summary_box: true 
 guide: public-participation
 aliases:
-
+image: guide-public-participation
+primary_image: guide-public-participation
+layout: single
 ---
-{{< guide-toc >}}
+
 ## What is the U.S. Public Participation Playbook?
 
 The U.S. Public Participation Playbook is a resource for government managers to effectively evaluate and build better services through public participation using best practices and performance metrics.
 
-Public participation—where citizens help shape and implement government programs—is a foundation of open, transparent, and engaging government services. From emergency management, town hall discussions and regulatory development to science and education, better engagement with those who use public services can measurably improve those services for everyone.
+Public participation&mdash;where citizens help shape and implement government programs—is a foundation of open, transparent, and engaging government services. From emergency management, town hall discussions and regulatory development to science and education, better engagement with those who use public services can measurably improve those services for everyone.
 
-Developing a U.S. Public Participation Playbook is an [open government priority](http://www.whitehouse.gov/blog/2014/04/30/open-government-public-participation-we-can-t-do-it-without-you) included in both the first and second U.S. Open Government National Action Plans as part of the United States effort to increase public integrity in government programs. This resource reflects the commitment of the government and civic partners to measurably improve participation programs, and is designed using the same inclusive principles that it champions. 
+Developing a U.S. Public Participation Playbook is an [open government priority](http://www.whitehouse.gov/blog/2014/04/30/open-government-public-participation-we-can-t-do-it-without-you) included in both the first and second U.S. Open Government National Action Plans as part of the United States effort to increase public integrity in government programs. This resource reflects the commitment of the government and civic partners to measurably improve participation programs, and is designed using the same inclusive principles that it champions.
 
 ## How is the playbook structured?
 
-We needed to create a resource that combines best practices and suggested performance metrics for public servants to use to evaluate and build better services &#8212; to meet this need, based on discussions with federal managers and stakeholders, we identified five main categories that should be addressed in all programs, whether digital or offline. Within each category we identified 12 unifying plays to start with, each including a checklist to consider, resources and training. We then provide suggested performance metrics for each main category. 
+We needed to create a resource that combines best practices and suggested performance metrics for public servants to use to evaluate and build better services &#8212; to meet this need, based on discussions with federal managers and stakeholders, we identified five main categories that should be addressed in all programs, whether digital or offline. Within each category we identified 12 unifying plays to start with, each including a checklist to consider, resources and training. We then provide suggested performance metrics for each main category.
 
-This is only the beginning, however, and we hope the plays will quickly expand and enrich. The U.S. Public Participation Playbook was not just designed for a more open government &#8212; it was designed collaboratively through a more open government. 
+This is only the beginning, however, and we hope the plays will quickly expand and enrich. The U.S. Public Participation Playbook was not just designed for a more open government &#8212; it was designed collaboratively through a more open government.
 
 ## How was the playbook developed?
 

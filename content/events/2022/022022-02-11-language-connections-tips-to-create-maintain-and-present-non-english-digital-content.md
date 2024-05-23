@@ -10,11 +10,9 @@ end_date: 2022-02-24 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
-  - multilingual-community
-  - lep
-  - content
+  - content-strategy
   - accessibility
-  - cx
+  - customer-experience
   - user-experience
 # See all authors at https://digital.gov/authors
 authors:

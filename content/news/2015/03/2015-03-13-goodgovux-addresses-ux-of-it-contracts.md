@@ -8,8 +8,8 @@ authors:
 topics:
   - accessibility
   - design
-  - user-testing-and-research
-  - RFP
+  - research
+  - acquisition
   - usability
   - user-experience
 ---

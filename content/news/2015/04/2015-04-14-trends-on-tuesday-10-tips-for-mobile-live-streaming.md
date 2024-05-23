@@ -6,13 +6,11 @@ summary: ' Mobile video is starting to hit its second wave for both consumption 
 authors:
   - wsullivan
 topics:
-  - content
+  - content-strategy
   - mobile
-  - video
-  - mobile
-  - mobile-ux-guideline-1
-  - trends-on-tuesday
-  - Twitter
+  - multimedia
+  - emerging-tech
+  - social-media
 ---
 
 {{< legacy-img src="2015/04/600-x-360-ADI\_Video\_2.jpg" alt="Adobe Digital Index: Device share of online video starts" >}}

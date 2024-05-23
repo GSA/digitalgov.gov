@@ -8,13 +8,7 @@ authors:
   - jason-furman
 topics:
   - mobile
-  - 5g
-  - broadband
   - innovation
-  - mobile
-  - mobile-gov
-  - white-house
-  - wireless
 ---
 
 > Summary: The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies.

@@ -5,15 +5,11 @@ title: USDA App Helps ID Your Potpourri
 summary: 'Got a thing for dried botanicals? (No, not THOSE &#8230; but the stuff of fragrant sachets, decorative wreaths and glass jars filled with heavenly scents?) Before you discard your old potpourri or put some within reach of pets and children, you&#8217;ll want to take a look at'
 topics:
   - mobile
-  - animal-and-plant-health-inspection-service
-  - mobile-apps
-  - thursday-mobile-products
-  - US Department of Agriculture
-  - usa-gov-federal-mobile-apps-directory
-  - USDA
 ---
 
-{{< legacy-img src="2014/08/250-x-333-USDA-Lucid-dried-botanicals.jpg" alt="USDA Dried Botanicals app cover" >}}Got a thing for dried botanicals?
+Got a thing for dried botanicals?
+
+{{< legacy-img-right src="2014/08/250-x-333-USDA-Lucid-dried-botanicals.jpg" alt="USDA Dried Botanicals app cover" >}}
 
 (No, not THOSE &#8230; but the stuff of fragrant sachets, decorative wreaths and glass jars filled with heavenly scents?)
 
@@ -21,7 +17,9 @@ Before you discard your old potpourri or put some within reach of pets and child
 
 The **Dried Botanicals Key app** for [iOS](https://itunes.apple.com/us/app/dried-botanicals-key/id818972882?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.lucidcentral.mobile.dried_bot&hl=en) was designed for professional botanists and plant-enthusiasts alike to quickly identify the variety of dried (scented, bleached or color-dyed) fungi, fruits, seeds and leaves you&#8217;re likely to find at your local craft shops and gift stores. Because these mixes can include poisonous, toxic, and invasive plant material capable of carrying plant diseases, it&#8217;s &#8220;key&#8221; that you know what you are using.
 
-{{< legacy-img src="2014/08/250-x-333-USDA-Lucid-entities-list.jpg" alt="250-x-333-USDA-Lucid-entities-list" >}}The app features close-up, full-color photos for each entry with descriptive language both scientists and amateurs will find helpful on-the-go.
+{{< legacy-img-right src="2014/08/250-x-333-USDA-Lucid-entities-list.jpg" alt="250-x-333-USDA-Lucid-entities-list" >}}
+
+The app features close-up, full-color photos for each entry with descriptive language both scientists and amateurs will find helpful on-the-go.
 
 For instance, select &#8220;Flowers buds&#8221; under the Flowers drop-down menu and &#8220;Radial&#8221; shape under the Symmetry menu, swipe to the left, and you&#8217;ll learn more about the finer aspects of eucalyptus buds than you ever dreamed.
 
@@ -34,5 +32,6 @@ If you need to go further into the weeds about plant threats and pests, USDA APH
   * [Terrestrial Mollusk Key:](https://itunes.apple.com/us/app/terrestrial-mollusc-key/id818984385?mt=8) Identifies slugs and snails that can impact agriculture; and
   * [Federal Noxious Weeds Key](https://itunes.apple.com/us/app/federal-noxious-weeds-key/id819013797?mt=8): Identifies non-native species of weeds that could become invasive.
 
-You can access the full menu of USDA ID apps on [ID Tools](http://idtools.org/) by selecting for &#8220;app&#8221; under the drop down menu._Get your investigative green thumb on: Download these (and more) great government mobile apps from the [USA.gov Apps Gallery](http://apps.usa.gov/)._
-__
+You can access the full menu of USDA ID apps on [ID Tools](http://idtools.org/) by selecting for &#8220;app&#8221; under the drop down menu.
+
+_Get your investigative green thumb on: Download these (and more) great government mobile apps from the [USA.gov Apps Gallery](http://apps.usa.gov/)._

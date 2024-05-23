@@ -1,9 +1,0 @@
-{{/* Check if there no headers in the list to hide the "In this page" sidebar */}}
-{{/* https://discourse.gohugo.io/t/check-for-empty-tableofcontents/29737 */}}
-{{- if eq .TableOfContents "<nav id=\"TableOfContents\"></nav>" -}}
-{{- else -}}
-<div class="toc">
-  <h4>In this page</h4>
-  {{- .TableOfContents -}}
-</div>
-{{- end -}}

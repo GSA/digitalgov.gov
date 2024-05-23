@@ -6,13 +6,7 @@ summary: ' Planning your next national park adventure (from the comfort of your 
 authors:
   - awichman
 topics:
-  - monthly-theme
   - social-media
-  - instagram
-  - NPS
-  - social-media
-  - Twitter
-  - us-national-park-service
 ---
 
 {{< legacy-img src="2015/06/600-x-300-NPS-Liberty-still-from-promo-video.jpg" alt="Park logo over Statue of Liberty from NPS promo video" >}}

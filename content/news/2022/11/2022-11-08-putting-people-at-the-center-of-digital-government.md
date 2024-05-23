@@ -10,8 +10,8 @@ summary: "USAGov and USAGov en Español are working to reimagine the way we prov
 
 # See all topics at https://digital.gov/topics
 topics:
-  - usa-gov
-  - tts
+  - multilingual
+  - customer-experience
 
 # See all authors at https://digital.gov/authors
 authors:

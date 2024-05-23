@@ -1,6 +1,5 @@
-{{/*
-  ======================================
-  Related Communities and Services
+{{/* ======================================
+  Related Communities
   ======================================
 */}}
 
@@ -10,133 +9,52 @@
 {{- $related_pages := .Site.Pages.Related  . -}}
 
 {{/* gets only the related community pages */}}
-{{- $communities := where $related_pages "Section" "communities" -}}
+{{- $.Scratch.Set "communities" (where $related_pages "Section" "communities") -}}
 
-{{/* Now shuffle the community pages and pick the first 5 */}}
-{{- $communities := first 5 $communities | shuffle -}}
+{{/* Now conditionally shuffle the community pages and pick the first 5 */}}
+{{ if (gt (len ($.Scratch.Get "communities")) 5) }}
+  {{- $.Scratch.Set "communities" (first 5 ($.Scratch.Get "communities") | shuffle) -}}
+{{ end }}
+{{ $communities := ($.Scratch.Get "communities") }}
 
 {{/* If there are community pages... */}}
 {{- with $communities -}}
-<section id="related_communities">
+  <article class="dg-promos dg-related-communities">
+    <h3 class="dg-promos__heading">Join a Community</h3>
 
-  <header>
-    <h3>Join a Community</h3>
-  </header>
-
-  <ul class="usa-list usa-list--unstyled">
-    {{- range $communities -}}
-    <li class="promo">
-      <div class="promo__link-wrapper">
-        <a href="{{ .Permalink }}?promo" title="Visit {{ .Title }} community page">{{ .Title }}</a>
-        {{- if .Params.members -}}
-        <p class="members">{{- .Params.members -}}+</p>
-        {{- end -}}
-      </div>
-    </li>
-    {{- end -}}
-  </ul>
-
-  <footer>
-    <p class="more">
-      <a href="{{ "/communities/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "communities") }} communities</span>
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-        </svg>
-      </a>
-    </p>
-  </footer>
-
-</section>
-{{- end -}}
-
-
-{{/* Services ====================== */}}
-
-{{/* gets only the related service pages */}}
-{{- $services := where $related_pages "Section" "services" -}}
-
-{{/* Now shuffle the service pages and pick the first 5 */}}
-{{- $services := first 5 $services | shuffle -}}
-
-{{/* If there are services... */}}
-{{- with $services -}}
-<section id="related_services">
-
-  <header>
-    <h3>Get Started Building</h3>
-  </header>
-
-  <ul class="usa-list usa-list--unstyled">
-
-  {{- range $services -}}
-
-    {{/* If an external link  */}}
-    {{- if or .Params.source_url .Params.source -}}
-
-      {{/* If there is a defined source for this page */}}
-      {{- if .Params.source -}}
-        {{/* Get the source data */}}
-        {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
-        {{/* If there is a logo defined in the source */}}
-        {{- if $source.Params.logo -}}
-          {{/* get the path for the icon — e.g. 18f-icon.png */}}
-          {{- $src := (printf "/logos/%s%s" $source.Params.logo "-icon.png") -}}
-          {{/* Pass these vars into the list item template (botton of page) */}}
-          
-          
-          {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
-          
-
-        {{- end -}}
-      {{/* No source? let's attempt to get the favicon for the URL */}}
-      {{- else -}}
-        {{/* get the Favicon via Google Favicon service */}}
-        {{- $src := (print "https://www.google.com/s2/favicons?domain=" .Params.source_url) -}}
-        {{/* Pass these vars into the list item template (botton of page) */}}
-        {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" $src -}}
-        
+    <ul class="dg-promos__list">
+      {{- range $communities -}}
+        <li class="promo dg-promos__list-item">
+          <a
+            href="{{ .Permalink }}?promo"
+            title="Visit {{ .Title }} community page"
+            class="dg-promos__link"
+          >
+            {{ .Title }}
+          </a>
+        </li>
       {{- end -}}
+    </ul>
 
-    {{/* If an internal link... */}}
-    {{- else -}}
+    <footer class="dg-promos__footer">
+      {{ $communityCount := len (where $.Site.RegularPages "Section" "communities") }}
 
-      {{/* Use the digital.gov logo */}}
-      {{/* Pass these vars into the list item template (botton of page) */}}
-      {{- template "promo" dict "item" . "href" (print .Params.source_url "?dg") "src" (print "/img/digit-50.png") -}}
 
-    {{- end -}}
-
-  {{- end -}}
-
-  </ul>
-
-  <footer>
-    <p class="more">
-      <a href="{{ "/services/" | absURL }}"><span>See all {{ len (where $.Site.RegularPages "Section" "services") }} services</span>
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
+      <a
+        href="{{ "communities" | relURL }}"
+        class="dg-promos__more-link dg-more-link"
+      >
+        <span> See all {{ $communityCount }} communities </span>
+        <svg
+          class="usa-icon dg-icon dg-icon--small margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+          ></use>
         </svg>
       </a>
-    </p>
-  </footer>
-
-</section>
-{{- end -}}
-
-{{- define "promo" -}}
-  {{- $href := .href -}}
-  {{- $src := .src -}}
-  {{- with .item -}}
-    {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-    <li class="promo" data-edit-this="{{- $path -}}">
-      <div class="promo__link-wrapper">
-        {{- if isset .Params "source_url"}}
-          <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="Visit {{ .Title | markdownify -}} services page"><span>{{- .Title | markdownify -}}</span></a>
-        {{- else -}}
-          <a class="external-link" href="{{- .Permalink -}}?=dg" title="Visit {{ .Title | markdownify -}} services page"><span>{{- .Title | markdownify -}}</span></a>
-        {{- end -}}
-      </div>
-      <img src="{{- $src | relURL -}}" alt="" aria-hidden="true"/>
-    </li> 
-  {{- end -}}
+    </footer>
+  </article>
 {{- end -}}

@@ -6,24 +6,13 @@ summary: "The second annual DigitalGov Citizen Services Summit was held at GSA h
 authors:
   - bernetta-reese
 topics:
-  - our-work
-  - agile
+  - product-and-project-management
   - analytics
-  - connect-gov
-  - cx
-  - digitalgov-summit
-  - FCC
-  - federal-communications-commission
-  - gsa
-  - OSTP
+  - customer-experience
   - privacy
-  - us-department-of-state
-  - united-states-department-of-health-and-human-services
-  - white-house-office-of-science-and-technology-policy
-
 ---
 
-The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.
+The second annual [DigitalGov Citizen Services Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.
 
 {{< tweet user="BernettaReese" id="601377952014696449" >}}
 
@@ -33,9 +22,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
 
 {{< tweet user="OpenGov" id="601358263167377409" >}}
 
-**Open** was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
-
-{{< youtube nvB1udoMKfM >}}
+**Open** was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://web.archive.org/web/20150706191031/https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
 
 Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technology Policy at the White House, gave the keynote opening and challenged agencies to “unlock federal talent.” She noted that agencies should “not just work on products and services,” but that they must unlock the talent of federal employees and make sure techies are brought to the table where the decisions are being made.
 
@@ -55,7 +42,7 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
 
 {{< tweet user="eDipAtState" id="601381376940728320" >}}
 
-Federal agencies were also invited to showcase their programs, tools and innovations at the [Summit Expo](https://summit.digitalgov.gov/expo/). I had the opportunity to interview several agency representatives from across the federal government, including Corina DuBois from the U.S. Department of State, Sally Dadjou from the U.S. Department of Health and Human Services, Marina Fox from the General Services Administration, Jennifer Kerber with Connect.gov, and many more.
+Federal agencies were also invited to showcase their programs, tools and innovations at the [Summit Expo](https://web.archive.org/web/20150706193127/https://summit.digitalgov.gov/expo/). I had the opportunity to interview several agency representatives from across the federal government, including Corina DuBois from the U.S. Department of State, Sally Dadjou from the U.S. Department of Health and Human Services, Marina Fox from the General Services Administration, Jennifer Kerber with Connect.gov, and many more.
 
 {{< tweet user="usgsa" id="601395959889801216" >}}
 
@@ -81,4 +68,4 @@ The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov
 
 ---
 
-*This post was originally published on [Bernetta Reese's personal website](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html).*
+*This post was originally published on Bernetta Reese's personal website.*

@@ -8,7 +8,6 @@ authors:
 topics:
   - design
   - user-experience
-  - USPTO
   
 ---
 

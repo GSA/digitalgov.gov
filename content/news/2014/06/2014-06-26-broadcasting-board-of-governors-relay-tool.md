@@ -6,17 +6,10 @@ summary: 'World Cup fever, everyone&#8217;s got it&mdash;even the Broadcasting B
 authors:
   - jparcell
 topics:
-  - content
+  - content-strategy
   - mobile
-  - monthly-theme
-  - bbg
-  - broadcasting-board-of-governors
-  - CMS
-  - GitHub
   - multilingual
   - open-source
-  - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
 ---
 
 World Cup fever, everyone&#8217;s got it—even the [Broadcasting Board of Governors](http://www.bbg.gov/)&#8216; (BBG) Voice of America has reporters covering the event.

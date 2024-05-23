@@ -1,78 +1,50 @@
 {{- define "content" -}}
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-<main role="main" id="main-content">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
-        <div class="grid-row">
-          <div class="grid-col-12">
+  <main role="main" id="main-content">
+    <article>
+      <header>
+        <div class="grid-container grid-container-desktop">
+          <div class="grid-row">
+            <div class="grid-col-12">
+              {{/* Breadcrumbs */}}
+              {{- if .Parent -}}
+                {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+              {{- end -}}
 
-            {{/* Breadcrumbs */}}
-            {{- if .Parent -}}
-            <p class="breadcrumb">
-              <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">
-                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                  <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-                </svg>
-                <span>{{ .Parent.Title }}</span>
-              </a>
-            </p>
-            {{- end -}}
+              {{- if .Params.kicker -}}
+                <p class="kicker">{{- .Params.kicker -}}</p>
+              {{- end -}}
 
-            {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-            {{- end -}}
+              {{/* Page Title */}}
+              <h1>{{- .Title | markdownify -}}</h1>
 
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
-
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
+              {{/* Deck */}}
+              {{- if .Params.deck -}}
+                <div class="deck">{{- .Params.deck | markdownify -}}</div>
+              {{- end -}}
+            </div>
           </div>
         </div>
-      </div>
-    </header>
+      </header>
 
-    <section>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
-        <div class="grid-row tablet-lg:grid-gap-6">
-
-          <div class="grid-col-12 tablet:grid-col-9">
-
+      <section class="grid-container grid-container-desktop">
+        <div class="usa-in-page-nav-container">
+          <!-- 
+        data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
+        the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
+       -->
+          <aside
+            class="usa-in-page-nav"
+            data-title-heading-level="h3"
+            data-root-margin="-350px 0px -350px 0px"
+          ></aside>
+          <div class="">
             {{/* Content */}}
             <div class="content usa-prose">
               {{- .Content -}}
             </div>
-
-            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-
           </div>
-
-          <div class="grid-col-12 tablet:grid-col-3">
-
-            {{/* Table of contents */}}
-            {{- partial "core/toc.html" . -}}
-
-            {{/* Last updated */}}
-            {{/* {{- partial "last-updated.html" . -}}  */}}
-
-            {{/* Related Communities and Services */}}
-            {{- partial "core/get_related.html" . -}}
-
-            {{/* Topics */}}
-            {{/* {{- partial "core/list-topics.html" . -}} */}}
-
-            {{/* Share Tools */}}
-            {{/* {{- partial "core/get_sharetools.html" . -}} */}}
-
-          </div>
-
         </div>
-      </div>
-    </section>
-
-  </article>
-</main>
+      </section>
+    </article>
+  </main>
 {{- end -}}

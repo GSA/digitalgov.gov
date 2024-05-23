@@ -1,0 +1,61 @@
+showNextPrevious: true
+showReadTime: true
+showInPageNav: true
+landingURL: "/guides/hcd"
+nav:
+  - title: "Overview"
+    path: "/guides/hcd/discovery-operations/_index.md"
+  - title: "Framing"
+    path: "/guides/hcd/discovery-operations/framing"
+    subnav:
+      - title: "Desk research"
+        path: "/guides/hcd/discovery-operations/desk-research"
+      - title: "Reframing"
+        path: "/guides/hcd/discovery-operations/reframing"
+  - title: "Team building"
+    path: "/guides/hcd/discovery-operations/team-building"
+    subnav:
+      - title: "Roles and responsibilities"
+        path: "/guides/hcd/discovery-operations/roles-and-responsibilities"
+      - title: "Roles by phase"
+        path: "/guides/hcd/discovery-operations/roles-by-phase"
+  - title: "Planning"
+    path: "/guides/hcd/discovery-operations/overview-planning"
+    subnav:
+      - title: "Determine scale"
+        path: "/guides/hcd/discovery-operations/determine-scale"
+      - title: "Timeline"
+        path: "/guides/hcd/discovery-operations/timeline"
+      - title: "Getting buy-in"
+        path: "/guides/hcd/discovery-operations/getting-buy-in"
+  - title: "Research"
+    path: "/guides/hcd/discovery-operations/research-planning"
+    subnav:
+      - title: "Research by week and day"
+        path: "/guides/hcd/discovery-operations/research-by-week-and-day"
+  - title: "Interviews"
+    path: "/guides/hcd/discovery-operations/interviews"
+    subnav:
+      - title: "Research checklist"
+        path: "/guides/hcd/discovery-operations/research-checklist"
+      - title: "Interview checklist"
+        path: "/guides/hcd/discovery-operations/interview-checklist"
+      - title: "Interview tips"
+        path: "/guides/hcd/discovery-operations/interview-tips"
+  - title: "Observation"
+    path: "/guides/hcd/discovery-operations/observation"
+    subnav:
+      - title: "Observation methods"
+        path: "/guides/hcd/discovery-operations/observation-methods"
+  - title: "Synthesis"
+    path: "/guides/hcd/discovery-operations/synthesis"
+    subnav:
+      - title: "Finding insights"
+        path: "/guides/hcd/discovery-operations/finding-insights"
+      - title: "Finding opportunities"
+        path: "/guides/hcd/discovery-operations/finding-opportunities"
+  - title: "Up next"
+    path: "/guides/hcd/discovery-operations/present"
+    subnav:
+      - title: "Production"
+        path: "/guides/hcd/discovery-operations/production"

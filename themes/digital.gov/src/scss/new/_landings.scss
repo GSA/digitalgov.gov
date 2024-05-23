@@ -1,0 +1,94 @@
+@use "uswds-core" as *;
+
+.dg-landing {
+  &__hero {
+    position: relative;
+    width: 100%;
+
+    .dg-img-flexible {
+      filter: brightness(30%);
+      height: 30rem;
+      object-fit: cover;
+      width: 100%;
+    }
+
+    &-text {
+      margin-left: 15%;
+      position: absolute;
+      top: 20%;
+      width: 70%;
+
+      a {
+        margin-top: units(5);
+      }
+
+      h1 {
+        color: color("base-lightest");
+        font-size: 2.5em;
+        font-weight: font-weight("heavy");
+
+        @include at-media("tablet-lg") {
+          font-size: 4em;
+        }
+      }
+    }
+  }
+
+  &__body {
+    a:hover {
+      border: none;
+      color: color($theme-link-color);
+      text-decoration: underline;
+    }
+
+    &-featured-resources {
+      font-size: units(4);
+      font-weight: font-weight("heavy");
+      margin-top: units(4);
+    }
+
+    .dg-attribution {
+      @include u-font("sans", "2xs");
+    }
+
+    .dg-featured-resource {
+      max-width: none;
+
+      p {
+        @include u-font("sans", "sm");
+      }
+    }
+
+    .dg-glossary__toggle {
+      color: color($theme-link-color);
+      cursor: pointer;
+      display: inline;
+      padding-left: 0;
+      text-decoration: underline;
+    }
+
+    h1 {
+      font-size: 3em;
+      font-weight: font-weight("heavy");
+    }
+
+    p,
+    ul {
+      @include u-font("sans", "lg");
+      @include u-measure(6);
+      font-weight: font-weight("light");
+    }
+
+    .dg-ring {
+      max-width: none;
+    }
+
+    .usa-card__img {
+      height: units("card-lg");
+    }
+
+    .usa-card__footer a:hover {
+      color: color("base-lightest");
+    }
+  }
+}

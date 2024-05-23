@@ -1,0 +1,10 @@
+<nav class="usa-breadcrumb usa-breadcrumb--wrap" aria-label="Breadcrumb">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a href="{{- .Site.BaseURL -}}" class="usa-breadcrumb__link">
+        <span>Home</span>
+      </a>
+    </li>
+    {{- partial "partials/core/usa-breadcrumb.html" (dict "current" . "id" .File.UniqueID) -}}
+  </ol>
+</nav>

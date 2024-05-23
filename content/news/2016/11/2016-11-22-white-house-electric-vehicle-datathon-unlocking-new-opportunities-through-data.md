@@ -2,25 +2,21 @@
 slug: white-house-electric-vehicle-datathon-unlocking-new-opportunities-through-data
 date: 2016-11-22 11:08:26 -0400
 title: 'White House Electric Vehicle Datathon: Unlocking New Opportunities through Data'
-summary: 'Summary: The White House is hosting its first-ever Electric Vehicle Datathon, and nominations for participation are now open. Don&#8217;t miss your chance to join the discussion! The White House Domestic Policy Council and Office of Science and Technology Policy will convene its first-ever Electric Vehicle (EV) Datathon on November 29. This event, held in partnership'
+summary: 'The White House is hosting its first-ever Electric Vehicle Datathon, and nominations for participation are now open. Don&#8217;t miss your chance to join the discussion!'
 authors:
   - austin-brown
   - candace-vahlsing
 topics:
-  - data
-  - data
-  - DOE
   - innovation
   - open-data
-  - OSTP
-  - united-states-department-of-energy
-  - white-house
-  - white-house-office-of-science-and-technology-policy
+
 ---
 
 > _Summary: The White House is hosting its first-ever Electric Vehicle Datathon, and nominations for participation are now open. Don&#8217;t miss your chance to join the discussion!_
 
-The [White House Domestic Policy Council](https://www.whitehouse.gov/administration/eop/dpc) and [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) will convene its first-ever Electric Vehicle (EV) Datathon on November 29. This event, held in partnership with the [Department of Energy](http://www.energy.gov/) and four of its National Laboratories will bring together EV experts, charging-station providers, cities and states, automakers, and the software-development and data-analysis communities. This group will explore best practices on how data can inform efforts to deploy EVs and charging stations and how data collection and curation can serve the growing EV community. {{< legacy-img src="2016/11/600-x-400-POTUS-with-Chevy-Bolt.jpg" alt="President Barack Obama talks with Patrick Foley, Bolt EV Specialist, left, and Dan Ammann, President of GM, right, while sitting in the driver’s seat of the Chevy Bolt during a tour of the 2016 North American International Auto Show at the Cobo Center in Detroit, Mich., Jan. 20, 2016." caption="" >}} 
+The [White House Domestic Policy Council](https://www.whitehouse.gov/administration/eop/dpc) and [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) will convene its first-ever Electric Vehicle (EV) Datathon on November 29. This event, held in partnership with the [Department of Energy](http://www.energy.gov/) and four of its National Laboratories will bring together EV experts, charging-station providers, cities and states, automakers, and the software-development and data-analysis communities. This group will explore best practices on how data can inform efforts to deploy EVs and charging stations and how data collection and curation can serve the growing EV community.
+
+{{< legacy-img src="2016/11/600-x-400-POTUS-with-Chevy-Bolt.jpg" alt="President Barack Obama talks with Patrick Foley, Bolt EV Specialist, left, and Dan Ammann, President of GM, right, while sitting in the driver’s seat of the Chevy Bolt during a tour of the 2016 North American International Auto Show at the Cobo Center in Detroit, Mich., Jan. 20, 2016." caption="Official White House Photo by Pete Souza." >}} 
 
 ## Progress on EVs:
 
@@ -34,6 +30,10 @@ Despite the progress in EVs and in data to support their deployment, more work i
 
 ## How to get involved:
 
-Due to space constraints, attendance is invitation only. You can nominate yourself or someone else, who would be an excellent contributor to the discussion or suggest or submit a data set for use by the research community. **[Email the datathon team](mailto:oecc@who.eop.gov?subject=NOMINATION%3A%20White%20House%20EV%20Datathon)**._Austin Brown is Assistant Director for Clean Energy and Transportation for the Office of Science and Technology Policy_
+Due to space constraints, attendance is invitation only. You can nominate yourself or someone else, who would be an excellent contributor to the discussion or suggest or submit a data set for use by the research community. **[Email the datathon team](mailto:oecc@who.eop.gov?subject=NOMINATION%3A%20White%20House%20EV%20Datathon)**.
+
+_Austin Brown is Assistant Director for Clean Energy and Transportation for the Office of Science and Technology Policy_
+
 _Candace Vahlsing is a Senior Policy Advisor for Energy and Climate Change_
+
 _This post was originally published on the [White House OSTP blog](https://www.whitehouse.gov/administration/eop/ostp/blog)._

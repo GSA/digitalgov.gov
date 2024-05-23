@@ -6,11 +6,10 @@ summary: 'Analyzing your visitors&#8217; search terms can help you better unders
 authors:
   - michelle-chronister
 topics:
-  - content
-  - data
-  - product-management
-  - metrics
-  - digitalgov-search
+  - content-strategy
+  - product-and-project-management
+  - analytics
+  - search
 ---
 
 {{< legacy-img src="2013/10/250-x-166-Magnifier-and-documents-SarapulSar38-iStock-Thinkstock-179126082.jpg" alt="Magnifying glass and documents." caption="" >}} 

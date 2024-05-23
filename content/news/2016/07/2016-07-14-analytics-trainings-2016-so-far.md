@@ -6,37 +6,24 @@ summary: 'In 2016, the Digital Analytics Program (DAP) team has ramped up our tr
 authors:
   - ilee
 topics:
-  - metrics
   - analytics
-  - dap
-  - digitalgov-university
-  - digital-analytics-program
-  - digitalgov-university
-  - google-analytics
-  - metrics
-  - recaps
-  - webinar
 ---
 
-In 2016, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we’re happy to provide the material. We’ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from 2016 so far. {{< legacy-img src="2015/11/600-x-414-Website-SEO-and-analytics-icons-Anatoliy-Babiy-iStock-Thinkstock-185517378.jpg" alt="Website SEO and analytics graphics" caption="" >}}
+In 2016, the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we’re happy to provide the material. We’ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from 2016 so far.
+
+{{< legacy-img src="2015/11/600-x-414-Website-SEO-and-analytics-icons-Anatoliy-Babiy-iStock-Thinkstock-185517378.jpg" alt="Website SEO and analytics graphics" caption="Anatoliy Babiy, iStock, Thinkstock" >}}
 
 Bookmark this page, but don’t forget about it! Here are some things we’ve covered in 2016:
 
-## DAP Learning Series: Measuring User Behavior
-
-[youtube=http://www.youtube.com/watch?v=H9RQf8a4DQE&w=600]
+## DAP Learning Series: Measuring User Behavior 
 
 Find out how users are engaging with your site using the reports that we cover in this webinar. You can view the classic overview in the behavior flow report, but we recommend some more useful reports. The custom funnel reports that show the percentage of users completing intended journeys or where they’re dropping off. The navigation summary shows which pages users are clicking to and from.
 
 ## DAP Learning Series: Creating Measurable Campaigns
 
-[youtube=http://www.youtube.com/watch?v=EOOO6WVsrc4&w=600]
-
 If you’re a communication officer, marketer, content manager, or social media practitioner, you’ll want to take a look at this training. Using custom campaign URLs allows you to see the source from which users are being directed to your site. You can assess the success of your outreach with various pieces of content or in various channels. We cover the creation of campaign URLs, how they work, and how you can measure them in DAP.
 
 ## DAP Learning Series: Analytics Events
-
-[youtube=http://www.youtube.com/watch?v=GpWUgYutGwU&w=600]
 
 “Events” can refer to a lot of things in analytics tools. Here, we cover how you can track actions that users might perform on your website. By default, DAP tracks downloaded files, mailto links, outbound links, and outbound downloads. We review all of them in this webinar, show you optional events you can turn on, and how to implement your own. We cover:
 
@@ -47,8 +34,6 @@ If you’re a communication officer, marketer, content manager, or social media 
 
 ## DAP Learning Series: Custom Reports Demystified
 
-[youtube=http://www.youtube.com/watch?v=gbfDO2YXYZI&w=600]
-
 The standard reports in Google Analytics provide a view of data applicable to many users. However, each website serves different purposes, has different goals, and has specific reporting needs. Custom reporting allows you to conveniently access the data that you need. We’ll show you:
 
   * The types of reports that you can create
@@ -57,23 +42,21 @@ The standard reports in Google Analytics provide a view of data applicable to ma
 
 ## DAP 101 Training
 
-[youtube=http://www.youtube.com/watch?v=CKMTK77PrJE&w=600]
-
 Our 3-hour 101 training for DAP users. If you’re just getting started with DAP/Google Analytics, this is the training for you! We realize it might be tough to run through in one setting, so we’ve broken it down for you by topics.
 
-  * [Intro](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=0)
-  * [What is DAP](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=106)
-  * [GA terms and concepts](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=368)
-  * [Measurements for goals of success for a site (using GA)](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=972)
-  * [GA demo &#8211; basics to access](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=1596)
-  * [Audience overview reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=1738)
-  * [Real time reporting](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=2245)
-  * [Pages Report](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=2414)
-  * [Landing page reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=3012)
-  * [How are visitors finding your pages/site? (Acquisition metrics)](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=4612)
-  * [3 custom reports (Landing page report, Content drilldown report & Funnel report) &#8211; include part where talks about sampling](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=6704)
-  * [Choosing the right metrics in your reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=6826)
-  * [Emailing and exporting reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=8751)
-  * [Wrap up](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=8795)
+  * Intro
+  * What is DAP
+  * GA terms and concepts
+  * Measurements for goals of success for a site (using GA)
+  * GA demo &#8211; basics to access
+  * Audience overview reports
+  * Real time reporting
+  * Pages Report
+  * Landing page reports
+  * How are visitors finding your pages/site? (Acquisition metrics)
+  * 3 custom reports (Landing page report, Content drilldown report & Funnel report) &#8211; include part where talks about sampling
+  * Choosing the right metrics in your reports
+  * Emailing and exporting reports
+  * Wrap up
 
-If you’re wondering how you can get access to DAP or have more questions, [send DAP Support an email](mailto:dap@support.digitalgov.gov).
+If you’re wondering how you can get access to DAP or have more questions, [send DAP Support an email](mailto:dap@gsa.gov).

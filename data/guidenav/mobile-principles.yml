@@ -1,21 +1,21 @@
 showNextPrevious: true
-showReadTime: true
+showInPageNav: false
 nav:
-- title  : 'Overview'
-  path   : '/guides/mobile-principles/_index.md'
-- title  : '1. JavaScript is really cool, when used with care'
-  path   : '/guides/mobile-principles/principles-javascript.md'
-- title  : '2. The viewport is the window to your site'
-  path   : '/guides/mobile-principles/principles-viewport.md'
-- title  : '3. Remember That We Navigate Mobile Sites Using Our Fingers'
-  path   : '/guides/mobile-principles/principles-tap-targets.md'
-- title  : '4. Installing additional software to properly view your site should not be necessary'
-  path   : '/guides/mobile-principles/principles-plugins.md'
-- title  : '5. Conserve resources, recycle when possible'
-  path   : '/guides/mobile-principles/principles-cache.md'
-- title  : '6. The smaller the better, when it comes to page resources!'
-  path   : '/guides/mobile-principles/principles-optimize-minify-compression.md'
-- title  : '7. Properly configure the server'
-  path   : '/guides/mobile-principles/principles-configuration.md'
-- title  : '8. Don’t forget accessibility!'
-  path   : '/guides/mobile-principles/principles-accessibility.md'
+  - title: "Overview"
+    path: "/guides/mobile-principles/_index.md"
+  - title: "Javascript"
+    path: "/guides/mobile-principles/principles-javascript.md"
+  - title: "Viewport"
+    path: "/guides/mobile-principles/principles-viewport.md"
+  - title: "Navigation"
+    path: "/guides/mobile-principles/principles-tap-targets.md"
+  - title: "Plugins"
+    path: "/guides/mobile-principles/principles-plugins.md"
+  - title: "Cache"
+    path: "/guides/mobile-principles/principles-cache.md"
+  - title: "Optimization"
+    path: "/guides/mobile-principles/principles-optimize-minify-compression.md"
+  - title: "Configuration"
+    path: "/guides/mobile-principles/principles-configuration.md"
+  - title: "Accessibility"
+    path: "/guides/mobile-principles/principles-accessibility.md"

@@ -5,12 +5,15 @@ title: "Social Media Cyber-Vandalism Toolkit"
 deck: "Guidance on how to respond to cyber-hijacking."
 summary: "Cyber-vandalism presents a serious challenge to online-based communication tools. This document provides guidance and security practices to federal, state, and local government employees. Suggestions and resources prepare users to respond to cyber-hijacking."
 
+redirectto: https://digital.gov/resources/prepare-recovery-respond-social-media-cyber-vandalism-toolkit/
+
 topics:
   - social-media
   - security
 
 authors:
   - jherman
+
 ---
 
 Cyber-vandalism presents a serious challenge to online-based communication tools. Users need available resources to counter intrusions of social media accounts.
@@ -77,8 +80,8 @@ Online-based communication tools offer resources, each with unique strengths and
 6. Use only authorized URL Shorteners, e.g. [go.USA.gov](https://go.usa.gov/).
 7. Add all official accounts to the [U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}), verifying authenticity of ownership.
    - This tool, used by both Facebook and Google to verify accounts, tracks official federal social media accounts.
-   - List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](http://www.defense.gov/RegisteredSites/SocialMediaSites.aspx).
-     - Per [DOD Web Policy](http://www.defense.gov/webmasters/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](http://www.defense.gov/RegisteredSites/SubmitLink.aspx).
+   - List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](https://dodcio.defense.gov/Social-Media/).
+     - Per [DOD Web Policy](https://dodcio.defense.gov/DoD-Web-Policy/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](https://www.defense.gov/Resources/Register-a-Site/).
 8. Follow best practices for secure passwords.
    - [Guide to Enterprise Password Management (Draft)](http://csrc.nist.gov/publications/drafts/800-118/draft-sp800-118.pdf) by the National Institute of Standards and Technology
 
@@ -103,7 +106,7 @@ This type of authentication verifies a user attempting to access a device or sys
 
 **Live training:** [Cybersecurity Online Learning (COL)](https://colcqpub1.connectsolutions.com/content/connect/c1/7/en/events/catalog.html) program supplements mandatory FISMA security role-based training by offering in-demand cybersecurity workshops. The Information Assurance Branch, United States Department of State, offers monthly social media security online courses for free for anyone with a “.mil” or “.gov” email address, regardless if the applicant is an FTE, military, or contractor.
 
-- [Department of Defense Social Media Security/Privacy Education & Training](http://www.defense.gov/socialmedia/education-and-training.aspx/)
+- [Department of Defense Social Media Security/Privacy Education & Training](https://dodcio.defense.gov/Social-Media/SMEandT/)
 - [Consumer.ftc.gov/scam-alerts](https://consumer.ftc.gov/scam-alerts)
 - [OnGuardOnline.gov](https://onguardonline.gov/)
 - [National Cyber Awareness System](https://www.us-cert.gov/ncas)

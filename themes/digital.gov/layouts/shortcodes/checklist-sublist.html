@@ -1,0 +1,5 @@
+{{- if .Inner -}}
+  <ul class="dg-checklist__sublist">
+    {{- .Inner | markdownify -}}
+  </ul>
+{{- end -}}

@@ -1,0 +1,83 @@
+{{/* prettier-ignore-start */}}
+{{/*
+  When setting up a **do-dont-table**, you need to make sure you have the correct formatting.
+
+  1. Start with a a **do-dont-table**
+  2. Add a caption to **do-dont-table** that describes the table contents
+  3. Create an opening and closing {{< row >}}
+  4. Nest **do-row** and **dont-row** inside
+  5. Place text, markdown and shortcodes between the {{ do-row }} & {{ dont-row }}
+*/}}
+
+{{/*
+  Example:
+
+  {{< do-dont-table caption="This is a table" >}}
+    {{< row >}}
+      {{< do-row >}} [Multilingual](https://digital.gov/communities/multilingual/)
+      {{< /do-row >}}
+      {{< dont-row >}} Don't follow these bad
+      practices{{< /dont-row >}}
+    {{< /row >}}
+
+    {{< row >}}
+      {{< do-row >}} open &#34;the door&#34; for those who need a hand{{< /do-row >}}
+      {{< dont-row >}} Don't follow these bad practices{{< /dont-row >}}
+    {{< /row >}}
+
+    {{< row >}}
+      {{< do-row >}} read `the directions` before using{{< /do-row >}}
+      {{< dont-row >}}
+        forget {{< highlight >}}to wash your hands{{< /highlight >}} for 20 seconds
+      {{< /dont-row >}}
+    {{< /row >}}
+  {{< /do-dont-table >}}
+*/}}
+{{/* prettier-ignore-end */}}
+
+<table
+  class="usa-table usa-table--borderless dg-do-dont-table usa-table--stacked"
+>
+  {{- if (.Get "caption") -}}
+    <caption>
+      {{ .Get "caption" }}
+    </caption>
+  {{- end -}}
+  <thead class="dg-do-dont-table__header">
+    <tr class="dg-do-dont-table__header-row" scope="row">
+      <th
+        class="dg-do-dont-table__header dg-do-dont-table__header--do"
+        scope="col"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#check_circle" | relURL }}"
+          ></use>
+        </svg>
+        What you should do
+      </th>
+      <th
+        class="dg-do-dont-table__header dg-do-dont-table__header--dont"
+        scope="col"
+      >
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="{{ "uswds/img/sprite.svg#cancel" | relURL }}"></use>
+        </svg>
+        What you shouldn't do
+      </th>
+    </tr>
+  </thead>
+  <tbody class="dg-do-dont-table__body">
+    {{- if .Inner -}}
+      {{- .Inner | markdownify -}}
+    {{- end -}}
+  </tbody>
+</table>

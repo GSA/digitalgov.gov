@@ -1,0 +1,5 @@
+themes/digital.gov/layouts/shortcodes/img-right.html
+# see line 23, doesn't like the h2 safeHTML markup
+themes/digital.gov/layouts/partials/core/collection/collection-header.html
+# see line 44, doesn't like the h2 safeHTML markup
+themes/digital.gov/layouts/partials/core/collection/collection-list-item.html

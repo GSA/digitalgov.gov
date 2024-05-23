@@ -1,19 +1,14 @@
 ---
 slug: safe-travels-with-travwell
 date: 2015-07-15 11:02:14 -0400
-redirectto: https://www.cdc.gov/digital-social-media-tools/mobile/mobileapp.html
+redirectto: https://blogs.cdc.gov/publichealthmatters/2016/03/spring-adventures-6-apps-for-healthier-travels
 title: Safe Travels with TravWell
 summary: 'Ahhh ... Summer is here at last! It’s time for relaxing vacation! Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris&mdash;it is time for a travel app.'
 authors:
   - nirmala-ramprasad
 topics:
+  - software-engineering
   - mobile
-  - cdc
-  - ios
-  - mobile-apps
-  - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
-
 ---
 
 Ahhh ... Summer is here at last! It’s time for relaxing vacation!

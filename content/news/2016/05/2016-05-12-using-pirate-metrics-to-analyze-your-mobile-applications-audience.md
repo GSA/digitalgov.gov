@@ -1,23 +1,14 @@
 ---
 slug: using-pirate-metrics-to-analyze-your-mobile-applications-audience
 date: 2016-05-12 10:00:28 -0400
-title: 'Using Pirate Metrics to Analyze Your Mobile Application&#8217;s Audience'
-summary: What Makes a Native App Successful? There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful? Is the one with fewer users who are more engaged more successful? It depends on what you are trying to accomplish. David Cooper, the Mobile
+title: "Using Pirate Metrics to Analyze Your Mobile Application&#8217;s Audience"
+summary: "There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful?"
 authors:
   - jparcell
 topics:
-  - metrics
+  - analytics
   - mobile
-  - DoD
-  - metrics
-  - mobile-apps
-  - mobile-gov-community-of-practice
-  - mobile-gov
-  - National Center for Telehealth and Technology
-  - native-app
-  - prototype
-  - recaps
-  - united-states-department-of-defense
+  - design
 ---
 
 What Makes a Native App Successful?
@@ -26,15 +17,15 @@ There are over 200 native applications in the federal government with various do
 
 David Cooper, the [Mobile Application Development Lead]({{< ref "2015-06-25-using-apps-for-mental-healthcare.md" >}}) with the National Center for Telehealth and Technology (T2) and member of the [MobileGov Community of Practice]({{< ref "/communities" >}}), said during a recent DigitalGov University (DGU) webinar, that while vanity metrics such as page views for websites and downloads for apps make you feel good, they don’t tell you anything about how users like your app or site. For that, you need actionable metrics, ones that provide you with the information you need to help improve your app. Downloads won’t give you that information.
 
-{{< legacy-img src="2016/05/600-x-400-Pirate-Lady_Reiterlied_flickr_CC-BY-NC-SA-2.0_21900258113_db59a364a7_o.jpg" alt="A colorful lady pirate LEGO toy against a black background" caption="" >}}
+{{< legacy-img src="2016/05/600-x-400-Pirate-Lady_Reiterlied_flickr_CC-BY-NC-SA-2.0_21900258113_db59a364a7_o.jpg" alt="A colorful lady pirate LEGO toy against a black background" caption="flickr, CC BY-NC-SA 2.0" >}}
 
 The pirate metrics framework, according to Cooper, is a good way to understand how your product is performing. Coined by [David McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version), the “pirate” in the metrics comes from the first letters of the lifecycle stages of the framework.
 
-A &#8211; Acquisition
-A &#8211; Activation
-R &#8211; Retention
-R &#8211; Revenue
-R &#8211; Referral
+* A &#8211; Acquisition
+* A &#8211; Activation
+* R &#8211; Retention
+* R &#8211; Revenue
+* R &#8211; Referral
 
 One of the things Cooper likes about Pirate Metrics is that it does focus on actionable metrics. Cooper walked listeners through the five stages of the Pirate Metric framework and applied his native app use cases to each of them. I’ve provided the stages and some of the examples he gave below.
 
@@ -64,8 +55,6 @@ As Cooper, a psychologist by training, pointed out you can find many low cost an
 
 Watch the webinar to see how you can learn how to use pirate metrics in your agency!
 
-{{< youtube C_P1_iXOwJc >}}
-
 Helpful Training Links Cooper mentioned in his slides:
 
   * [Pragmatic Marketing Webinars](http://pragmaticmarketing.com/resources/webinars)
@@ -73,4 +62,4 @@ Helpful Training Links Cooper mentioned in his slides:
   * [Udemy Marketing Courses](https://www.udemy.com/courses/marketing/all-courses/?price=price-free&lang=en)
   * Google [Analytics](https://www.youtube.com/user/googleanalytics) and [Ventures](https://www.youtube.com/user/GoogleVentures)
 
-  _Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_
+_Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_

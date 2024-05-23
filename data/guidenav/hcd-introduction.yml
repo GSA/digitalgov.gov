@@ -1,0 +1,13 @@
+showNextPrevious: true
+showReadTime: true
+showInPageNav: false
+landingURL: "/guides/hcd"
+nav:
+  - title: "Overview"
+    path: "/guides/hcd/introduction/_index.md"
+  - title: "Approach"
+    path: "/guides/hcd/introduction/approach.md"
+  - title: "Principles"
+    path: "/guides/hcd/introduction/principles.md"
+  - title: "Background"
+    path: "/guides/hcd/introduction/background.md"

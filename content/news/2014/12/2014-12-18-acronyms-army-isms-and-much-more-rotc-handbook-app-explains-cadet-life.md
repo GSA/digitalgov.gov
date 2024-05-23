@@ -7,11 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - api
-  - native-app
-  - ROTC
-  - thursday-mobile-products
-  - united-states-army
+  - application-programming-interface
 ---
 
 {{< legacy-img src="2014/12/600-x-450-Army-ROTC-at-Ohio-State-University-May-21-2009-by-Ibagli-from-Wikimedia-Commons.jpg" alt="Army ROTC at Ohio State University, May 21, 2009" caption="" >}}

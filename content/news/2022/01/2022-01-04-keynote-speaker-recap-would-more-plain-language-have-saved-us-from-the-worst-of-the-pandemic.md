@@ -7,9 +7,9 @@ summary: A summary of Cynthia Baur’s keynote at the 2021 Plain Language Summit
 topics:
   - plain-language
   - user-experience
-  - user-research
-  - writing
-  - recaps
+  - research
+  - communication
+
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey
@@ -78,4 +78,4 @@ Additional information and resources include:
 
 ***
 
-_Connect with other federal employees working with [plain language](https://digital.gov/topics/plain-language/) to improve [content](https://digital.gov/topics/content/), [writing](https://digital.gov/topics/writing/), [customer experience](https://digital.gov/topics/cx/), and [user experience](https://digital.gov/topics/user-experience/) by joining our [Communities of Practice](https://digital.gov/communities/)._
+_Connect with other federal employees working with [plain language](https://digital.gov/topics/plain-language/) to improve [content](https://digital.gov/topics/content/), [writing](https://digital.gov/topics/writing/), [customer experience](https://digital.gov/topics/customer-experience/), and [user experience](https://digital.gov/topics/user-experience/) by joining our [Communities of Practice](https://digital.gov/communities/)._

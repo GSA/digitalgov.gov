@@ -6,14 +6,8 @@ summary: 'After leading a complex effort to crowdsource ideas to solve a problem
 authors:
   - tlowden
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
-  - challenge-gov
-  - crowdsourcing
-  - dhs
-  - recaps
-  - united-states-department-of-homeland-security
-
 ---
 
 {{< legacy-img-right src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}
@@ -36,7 +30,7 @@ The participants in the workshop were given a mock scenario, improving the “lu
 
 Emphasis was placed on listening rather than leading, and using phrases like “tell me more” and “why.”
 
-The results were telling and varied.  The &#8220;important&#8221; part of a lunch break was reported in many forms:
+The results were telling and varied. The &#8220;important&#8221; part of a lunch break was reported in many forms:
 
   * Escaping the office
   * A chance to get needed exercise
@@ -66,7 +60,5 @@ For example, instead of opening your competition description with, "We want idea
 _"Recent weather conditions have caused this year's crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey."_
 
 With this method, the potential solver has a much better idea of what he/she is trying to accomplish.
-
-{{< youtube oLAtcfGCcdc >}}
 
 *For more information on challenges and crowdsourcing, see the <a href="{{< ref "crowdsourcing-toolkit-for-federal-agencies.md" >}}">Crowdsourcing Toolkit for Federal Agencies</a> or email <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> to join the Challenges and Prizes Community of Practice listserv. To join the Federal Ideation Community of Practice, which focuses on internal agency ideation, email <a href="mailto:meredith.lee@st.dhs.gov">meredith.lee@st.dhs.gov</a>.*

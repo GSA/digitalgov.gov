@@ -6,11 +6,8 @@ summary: 'One challenge with digital government: it&#8217;s hard to see people. 
 authors:
   - jonathan-rubin
 topics:
-  - monthly-theme
-  - cx
-  - digitalgov-user-experience-program
+  - customer-experience
   - user-experience
-  
 ---
 
 {{< legacy-img src="2014/11/600-x-250-UX-monthly-theme-slider-by-Jessica-Skretch-FTCgov.jpg" alt="UX monthly theme slider image" caption="By Jessica Skretch, FTC" >}}

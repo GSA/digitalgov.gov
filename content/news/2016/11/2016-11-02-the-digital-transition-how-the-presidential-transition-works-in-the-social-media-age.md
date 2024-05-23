@@ -2,35 +2,21 @@
 slug: the-digital-transition-how-the-presidential-transition-works-in-the-social-media-age
 date: 2016-11-02 12:00:25 -0400
 title: 'The Digital Transition: How the Presidential Transition Works in the Social Media Age'
+deck: "Take a look at how we plan to preserve and pass on the digital history of the Obama administration"
 summary: 'Take a look at how we plan to preserve and pass on the digital history of the Obama administration. President Obama is the first &ldquo;social media president&rdquo;: the first to have @POTUS on Twitter, the first to go live on Facebook from the Oval Office, the first to answer questions from citizens on YouTube.'
 authors:
   - kori-schulman
 topics:
-  - code
-  - content
-  - data
-  - product-management
+  - software-engineering
+  - content-strategy
+  - open-data
+  - product-and-project-management
   - mobile
   - social-media
-  - strategy
-  - policy
-  - video
-  - audio-video
-  - code
-  - content
-  - data
-  - digital records
-  - executive-office-of-the-president
-  - mobile
-  - NARA
-  - national-archives-and-records-administration
+  - multimedia
+  - records-management
   - open-source
-  - social-media
-  - video
-  - white-house
 ---
-
-> _Summary: Take a look at how we plan to preserve and pass on the digital history of the Obama administration._
 
 President Obama is the first “social media president”: the first to have [@POTUS on Twitter](https://twitter.com/potus/status/600324682190053376?lang=en), the first to [go live on Facebook](https://www.facebook.com/potus/videos/443819269141252) from the Oval Office, the first to answer questions [from citizens on YouTube](https://www.youtube.com/watch?v=0pqzNJYzh7I), the first to use a [filter on Snapchat](https://www.youtube.com/watch?v=OIDEGN4Js40). Over the past eight years, the President, Vice President, First Lady, and the White House have used social media and technology to engage with people around the country and the world on the most important issues of our time (while having some [fun along the way](https://twitter.com/POTUS/status/763744742072913920)).
 
@@ -46,7 +32,7 @@ The past eight years have left us with tremendous optimism about how future admi
 
 The President has made clear that a smooth transition between administrations is one of his top priorities, and digital is a key component of that effort. While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not. There are some important principles we can work from. Accordingly, we have been working to ensure that our digital transition meets three key goals. First, we are preserving the material we’ve created with the [National Archives and Records Administration (NARA)](https://www.archives.gov/era). From tweets to snaps, all of the material we’ve published online will be preserved with NARA just as previous administrations have done with records ranging from handwritten notes to faxes to emails. Second, wherever possible, we are working to ensure these materials continue to be accessible on the platforms where they were created, allowing for real time access to the content we’ve developed. Finally, we are working to ensure that the next president and administration – regardless of party – can continue to use and develop the digital assets we have created to connect directly with the people they serve.
 
-## Here is an overview of our plans for how this will work:
+## Here is an overview of our plans for how this will work
 
 ### Social Media:
 

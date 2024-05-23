@@ -20,10 +20,10 @@ slug: toni-bonitto
 email: ""
 
 # Bio — keep it under 50 words
-bio: "Toni spent most of her tech career in the private and non-profit sectors. Serving as an Innovation Specialist in GSA's [Technology Transformation Services](https://tts.gsa.gov) (TTS), her main role is as Digital.gov's content and platform lead where she edits and writes content, recruits and manages rotations of volunteer writers via the [Open Opportunities](https://openopps.usajobs.gov/) program and [Communities of Practice](https://digital.gov/communities/), and provides front- and back-end development. She also manages the social media, marketing, and customer service for the program. Additionally, Toni is a member of the TTS Digital Council and its Review Team, is a Level I Contracting Officer's Representative (COR), has certifications in email marketing and social media, and served a year-plus term as the co-lead for the TTS Accessibility Guild, which included contributing to the development of and teaching an _Accessibility 101_ course as part of onboarding requirements for new TTS hires."
+bio: ""
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: "https://digital.gov/about/"
+bio_url: ""
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
@@ -32,7 +32,7 @@ agency_full_name: "U.S. General Services Administration"
 agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: "Washington, DC"
+location: ""
 
 # Your GitHub username [e.g. 'jeremyzilar']
 # See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.
@@ -44,10 +44,10 @@ github: "ToniBonittoGSA"
 profile_source: "github"
 
 # Professional Social Media [e.g., Digital_Gov]
-twitter: "Digital_Gov"
-facebook: "DigitalGov"
+twitter: ""
+facebook: ""
 linkedin: ""
-YouTube: "digitalgov"
+YouTube: ""
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors

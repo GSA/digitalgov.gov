@@ -3,45 +3,67 @@
 
 {{ range .Site.Data.usa_identifier }}
 
-<div class="usa-identifier">
-  <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="{{ .aria_label }}">
-    <div class="usa-identifier__container">
-      <div class="usa-identifier__logos">
-        <a href="{{ .parent_agency.url }}" class="usa-identifier__logo">
-          <img class="usa-identifier__logo-img" src="{{ .parent_agency.logo | relURL }}" alt="{{ .parent_agency.acronym }} logo" role="img">
+  <div class="usa-identifier">
+    <section
+      class="usa-identifier__section usa-identifier__section--masthead"
+      aria-label="{{ .aria_label }}"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__logos">
+          <a href="{{ .parent_agency.url }}" class="usa-identifier__logo">
+            <img
+              class="usa-identifier__logo-img"
+              src="{{ .parent_agency.logo | relURL }}"
+              alt="{{ .parent_agency.acronym }} logo"
+              role="img"
+              width="100"
+              height="100"
+            />
+          </a>
+        </div>
+        <section
+          class="usa-identifier__identity"
+          aria-label="Agency description"
+        >
+          <p class="usa-identifier__identity-domain">{{ .domain }}</p>
+          <p class="usa-identifier__identity-disclaimer">
+            An official website of the
+            <a href="{{ .parent_agency.url }}">{{ .parent_agency.name }}</a>
+          </p>
+        </section>
+      </div>
+    </section>
+    <nav
+      class="usa-identifier__section usa-identifier__section--required-links"
+      aria-label="Important links"
+    >
+      <div class="usa-identifier__container">
+        <ul class="usa-identifier__required-links-list">
+          {{ range .required_links.links }}
+            <li class="usa-identifier__required-links-item">
+              <a
+                href="{{ .url }}"
+                class="usa-identifier__required-link usa-link"
+              >
+                {{ .label }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </nav>
+    <section
+      class="usa-identifier__section usa-identifier__section--usagov"
+      aria-label="{{ .usagov.label }}"
+    >
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__usagov-description">
+          {{ .usagov.description }}
+        </div>
+        <a href="{{ .usagov.link.url }}" class="usa-link">
+          {{ .usagov.link.label }}
         </a>
       </div>
-      <section class="usa-identifier__identity" aria-label="Agency description">
-        <p class="usa-identifier__identity-domain">{{ .domain }}</p>
-        <p class="usa-identifier__identity-disclaimer">
-          An official website of the
-          <a href="{{ .parent_agency.url }}">{{ .parent_agency.name }}</a>
-        </p>
-      </section>
-    </div>
-  </section>
-  <nav class="usa-identifier__section usa-identifier__section--required-links" aria-label="Important links">
-    <div class="usa-identifier__container">
-      <ul class="usa-identifier__required-links-list">
-        {{ range .required_links.links }}
-          <li class="usa-identifier__required-links-item">
-            <a href="{{ .url }}" class="usa-identifier__required-link usa-link">
-              {{ .label }}
-            </a>
-          </li>
-        {{ end }}
-    </div>
-  </nav>
-  <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="{{ .usagov.label }}">
-    <div class="usa-identifier__container">
-      <div class="usa-identifier__usagov-description">
-        {{ .usagov.description }}
-      </div>
-      <a href="{{ .usagov.link.url }}" class="usa-link">
-        {{ .usagov.link.label}}
-      </a>
-    </div>
-  </section>
-</div>
-
+    </section>
+  </div>
 {{ end }}

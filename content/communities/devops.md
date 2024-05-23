@@ -10,7 +10,7 @@ summary: "The practice of operations and development staff participating in the 
 
 # see all topics at https://digital.gov/topics
 topics:
-  - devops
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -29,7 +29,7 @@ community_list:
     type: government
     subscribe_email: "devops-today-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to DevOps"
-    blurb: "DevOps community members"
+    join_cop_button: "DevOps community members"
 ---
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.

@@ -1,109 +1,44 @@
 @use "uswds-core" as *;
 
+.dg-sidebar {
+  @include u-font("sans", "2xs");
+}
+
 // promos
+.dg-promos {
+  margin-bottom: units(6);
+}
 
-// The individual promos
-.promo {
-  @include u-margin-y(1);
-  @include u-padding(1);
-  @include u-border("1px", "gray-cool-10", "solid");
-  @include u-radius("md");
-  @include u-display("flex");
-  @include u-flex("align-center");
-  @include u-flex("justify");
-  & > div {
-    @include u-margin-top(0);
-    @include u-font("sans", "xs");
-    @include u-line-height("sans", 2);
-    @include u-text("semibold");
-    @include u-margin-bottom(2.5);
-  }
-  a {
-    @include u-margin-top(0);
-    @include u-font("sans", "xs");
-    @include u-line-height("sans", 2);
-    @include u-text("semibold");
-    @include u-text("no-underline");
-    @include u-text("indigo-70");
-    
-    &:hover {
-      @include u-border-bottom('05', "accent-warm", "solid");
-    }
-    &::after {
-      content: "";
-      @include u-position("absolute");
-      @include u-top(0);
-      @include u-left(0);
-      @include u-right(0);
-      @include u-bottom(0);
-    }
-  }
-  .members {
-    @include u-font("sans", "3xs");
-    @include u-line-height("sans", 3);
-    @include u-text("medium");
-    @include u-text("indigo-60v");
-    @include u-bg("indigo-warm-10");
-    @include u-padding-x(1);
-    @include u-padding-y("2px");
-    @include u-radius("pill");
-  }
-  img {
-    @include u-margin-top(0);
-    @include u-width(3);
-  }
-  img.thumb {
-    @include u-margin-top("05");
-    @include u-margin-right(2);
-    @include u-width(5);
-    @include u-height(5);
-  }
-  p {
-    @include u-margin-top(0);
-    // @include u-font('sans', 'md');
-    // @include u-line-height('sans', 3);
-  }
-  a {
-    @include u-text("indigo-80");
-    @include u-text("no-underline");
-  }
+.dg-promos__heading {
+  margin-bottom: units(1);
+}
 
-  // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
-  position: relative;
-  &:hover {
-    @include u-bg("gray-cool-5");
-    a {
-      @include u-border-bottom("05", "accent-warm", "solid");
-    }
-    p a {
-      @include u-border-bottom("05", "accent-warm", "solid");
-    }
+.dg-promos__list {
+  list-style: none;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+.dg-promos__list-item {
+  margin-bottom: units(1);
+
+  &:last-child {
+    margin-bottom: 0;
   }
 }
 
-.promo-card {
-  @include u-margin-bottom(1);
-  @include u-padding(2);
-  @include u-minh(0);
-  @include at-media("tablet") {
-    @include u-margin-bottom("105");
-    @include u-minh(15);
-  }
+.dg-promos__link {
+  @include u-border("1px", "gray-cool-10", "solid");
+  @include u-line-height("sans", 2);
+  @include u-radius("md");
+  @include u-text("semibold");
+  color: color("indigo-80");
+  display: flex;
+  margin-top: 0;
+  padding: units("105");
+
   &:hover {
     @include u-bg("gray-cool-5");
-    a {
-      @include u-border-bottom("05", "accent-warm", "solid");
-    }
-  }
-  p {
-    @include u-margin-top(1);
-    @include u-font("sans", "sm");
-    @include u-line-height("sans", 2);
-  }
-  img {
-    @include u-float("right");
-    @include u-margin-left(1);
-    @include u-margin-bottom(1);
-    @include u-width(7);
+    text-decoration-color: color("accent-warm");
   }
 }

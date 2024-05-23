@@ -1,0 +1,21 @@
+{{- $fiveYearsFromToday := now.AddDate -5 0 0 -}}
+{{- if lt .Date $fiveYearsFromToday -}}
+  <div
+    class="usa-alert usa-alert--warning dg-alert dg-alert--out-of-date"
+    role="alert"
+  >
+    <div class="usa-alert__body">
+      <h2 class="usa-alert__heading">
+        You have reached a collection of archived material
+      </h2>
+      <div class="usa-alert__text">
+        <p>
+          The content available is no longer being updated and as a result you
+          may encounter hyperlinks which no longer function. This content may
+          contain text and references which are no longer applicable as a result
+          of changes in law, regulation, and/or administration.
+        </p>
+      </div>
+    </div>
+  </div>
+{{- end -}}

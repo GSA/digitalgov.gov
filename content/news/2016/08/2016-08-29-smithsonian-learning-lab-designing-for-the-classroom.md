@@ -7,17 +7,11 @@ authors:
   - ben-bloom
 topics:
   - design
-  - product-management
-  - user-testing-and-research
-  - content
-  - prototype
-  - SCLDA
-  - Smithsonian Center for Learning and Digital Access
-  - smithsonian-institution
-  - user-centered-design
+  - product-and-project-management
+  - research
+  - content-strategy
+  - human-centered-design
   - user-experience
-  - user research
-  
 ---
 
 The Smithsonian’s mission statement is wonderfully simple: &#8220;The increase and diffusion of knowledge.&#8221; The &#8220;increasing&#8221; is arguably the straightforward part – the Smithsonian has amassed a collection of over 138 million objects and specimens, and the Institution’s curators and scientists obsessively add to the world’s knowledge base, publishing papers, creating exhibitions, and sharing their expertise. But how can all this informational goodness get passed along to teachers, our nation’s most powerful &#8220;diffusers&#8221; of knowledge?
@@ -38,7 +32,7 @@ The team convened focus groups and conducted user testing with over 100 teachers
 
 {{< legacy-img src="2016/08/600-x-400-Smithsonian-02\_learning\_lab.jpg" alt="Teacher at a prototyping session." >}}
 
-The extensive [user testing]({{< ref "/topics/user-research" >}}) and feedback sessions resulted in key observations and feature requests. One of the biggest eye-openers was that high school teachers saw the Learning Lab as a tool for their students rather than themselves.
+The extensive [user testing]({{< ref "/topics/research" >}}) and feedback sessions resulted in key observations and feature requests. One of the biggest eye-openers was that high school teachers saw the Learning Lab as a tool for their students rather than themselves.
 
 &#8220;The high school teachers said, &#8216;Yeah, this is great but I’d never use this to build collections. This is a tool for my students – doing their own research and creating collections is where the learning happens,'&#8221; said Darren Milligan, senior digital strategist at SCLDA.
 

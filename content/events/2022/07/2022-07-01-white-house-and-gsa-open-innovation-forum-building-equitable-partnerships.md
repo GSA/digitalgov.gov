@@ -8,21 +8,14 @@ registration_url: https://www.eventbrite.com/e/white-house-gsa-open-innovation-f
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2022-07-20 14:00:00 -0500
 end_date: 2022-07-20 16:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
-  - challenges-and-prizes-community-of-practice
-  - challenges
-  - crowdsourcing
+  - challenges-and-prize-competitions
+  - diversity-equity-and-inclusion
   - crowdsourcing-and-citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - white-house-office-of-science-and-technology-policy
-  - white-house
-  - open
   - innovation
-  - tts
-  - gsa
-  - technology-transformation-services
-  - citizen-science
+
 # See all authors at https://digital.gov/authors
 authors:
   - jarah-meador
@@ -35,16 +28,21 @@ authors:
   - v-david-zvenyach
   - dr-alondra-nelson
   - dr-jedidah-isler
+
 slug: white-house-and-gsa-open-innovation-forum-building-equitable-partnerships
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 primary_image: white-house-gsa-open-innovation-forum-title-card
 
 ---
 
-*This event is co-hosted by the Open Innovation Program within the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions) (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP), in partnership with Digital.gov.*
-
 {{< asset-static file="ostp-gsa-open-innovation-forum-building-equitable-partnerships.pptx" label="View the slides (PowerPoint presentation, 11 MB, 18 pages)" >}}
+
+---
+
+*This event is co-hosted by the Open Innovation Program within the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions) (TTS) Office of Solutions at U.S. General Services Administration (GSA) and the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP), in partnership with Digital.gov.*
 
 Join General Services Administration Administrator Robin Carnahan, Head of White House Office of Science and Technology Policy Dr. Alondra Nelson, and federal citizen science and prize competition and challenge practitioners to celebrate public engagement, the role of community-led partnerships, and equitable forms of participation in innovation and scientific discovery.
 

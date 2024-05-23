@@ -1,27 +1,32 @@
 ---
 title: USWDS Monthly Call - August 2022
 kicker: USWDS Inclusive Design Patterns
-summary: Join us to learn more about design patterns and how they fit into the
-  design system.
+summary: Join us to learn more about design patterns and how they fit into the design system.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-inclusive-design-patterns-aug-2022-tickets-397267256057
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2022-08-18 14:00:00 -0500
 end_date: 2022-08-18 15:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - design
+  - diversity-equity-and-inclusion
   - emerging-tech
-  - uswds
   - user-experience
+
 # See all authors at https://digital.gov/authors
 authors:
   - dan-williams
+
 slug: uswds-monthly-call-august-2022
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 primary_image: uswds-august-2022-monthly-call-title-card
+
 ---
 
 {{< asset-static file="uswds-monthly-call-august-2022.pptx" label="View the slides (PowerPoint presentation, 7.8 MB, 83 pages)" >}}

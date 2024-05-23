@@ -14,13 +14,14 @@ USWDS SASS GULPFILE
 const { src, dest, series } = require("gulp");
 const autoprefixer = require("autoprefixer");
 const csso = require("postcss-csso");
-const pkg = require("../../node_modules/@uswds/uswds/package.json");
 const postcss = require("gulp-postcss");
 const replace = require("gulp-replace");
 const sass = require("gulp-sass")(require("sass-embedded"));
 const sourcemaps = require("gulp-sourcemaps");
 const svgSprite = require("gulp-svg-sprite");
+const del = require("del");
 const rename = require("gulp-rename");
+const pkg = require("../../node_modules/@uswds/uswds/package.json");
 
 /*
 ----------------------------------------
@@ -41,17 +42,11 @@ const USWDS_SRC = "./themes/digital.gov/src/scss/uswds";
 // Project Sass source directory
 const PROJECT_SASS_SRC = "./themes/digital.gov/src/scss/new";
 
-// Project JS source directory
-const PROJECT_JS_SRC = "./themes/digital.gov/src/js";
-
 // Images destination
 const IMG_DEST = "./themes/digital.gov/static/uswds/img";
 
 // Fonts destination
 const FONTS_DEST = "./themes/digital.gov/static/uswds/fonts";
-
-// Javascript destination
-const JS_DEST = "./themes/digital.gov/static/dist";
 
 // Compiled CSS destination
 const CSS_DEST = "./themes/digital.gov/static/dist";
@@ -59,7 +54,7 @@ const CSS_DEST = "./themes/digital.gov/static/dist";
 // Site CSS destination
 // Like the _site/assets/css directory in Jekyll, if necessary.
 // If using, uncomment line 112
-const SITE_CSS_DEST = "./path/to/site/css/destination";
+// const SITE_CSS_DEST = "./path/to/site/css/destination";
 
 // SVG sprite configuration
 const spriteConfig = {
@@ -98,10 +93,6 @@ function copyUswdsFonts() {
 
 function copyUswdsImages() {
   return src(`${USWDS}/uswds/dist/img/**/**`).pipe(dest(`${IMG_DEST}`));
-}
-
-function copyUswdsJs() {
-  return src(`${USWDS}/uswds/dist/js/**/**`).pipe(dest(`${JS_DEST}`));
 }
 
 function buildSass() {
@@ -160,12 +151,10 @@ exports.init = series(
   copyUswdsSetup,
   copyUswdsFonts,
   copyUswdsImages,
-  copyUswdsJs,
   buildSass
 );
 
+exports.buildSprite = buildSprite;
 exports.copyUswdsFonts = copyUswdsFonts;
 exports.copyUswdsImages = copyUswdsImages;
-exports.copyUswdsJs = copyUswdsJs;
-
 exports.buildSass = buildSass;

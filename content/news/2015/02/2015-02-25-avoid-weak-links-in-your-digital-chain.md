@@ -6,29 +6,20 @@ summary: 'Users don’t like surprises. Unexpected or unwanted content undermine
 authors:
   - awichman
 topics:
-  - content
-  - monthly-theme
+  - content-strategy
+  - trust
   - analytics
-  - digitalgov-search
-  - digitalgov-user-experience-program
-  - epa
-  - fda
-  - gsa
+  - search
+  - user-experience
   - plain-language
   - search-engine-optimization
-  - us-department-of-labor
-  - us-environmental-protection-agency
-  - us-food-and-drug-administration
   - usability
-  - usability-testing
   - user-experience
-  - user-experience-community-of-practice
-  
 ---
 
-{{< legacy-img src="2015/02/250-x-185-Abstract-internet-connection-concept-with-cmputer-mouse-agawa288-iStock-Thinkstock-457944729.jpg" alt="Abstract internet connection concept with computer mouse" caption="" >}} 
-
 Users don’t like surprises.
+
+{{< legacy-img-right src="2015/02/250-x-185-Abstract-internet-connection-concept-with-cmputer-mouse-agawa288-iStock-Thinkstock-457944729.jpg" alt="Abstract internet connection concept with computer mouse" caption="agawa288/iStock/Thinkstock" >}}
 
 Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an [article by Kara Pernice](http://www.nngroup.com/articles/link-promise/) of the Nielsen Norman Group.
 
@@ -48,7 +39,9 @@ One element people look for is distinct text: when links are differentiated thro
 
 ## Linking For Good User Experience
 
-[{{< legacy-img src="2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" >}}](http://www2.epa.gov/international-cooperation/epa-collaboration-china)Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
+{{< legacy-img-right src="2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" >}}
+
+Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice]({{< ref "communities/user-experience.md" >}}) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
 
 John Felleman, Industry Specialist for the Common Acquisition Platform Program Management Office in the General Services Administration, shared with the listserv how links open on [GSA&#8217;s Acquisition Gateway](https://hallways.cap.gsa.gov/homepage/welcome.html). His office uses different link opening practices, depending on context.
 

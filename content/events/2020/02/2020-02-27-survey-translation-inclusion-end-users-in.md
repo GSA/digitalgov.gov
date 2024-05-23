@@ -19,9 +19,10 @@ end_date: 2020-02-27 15:30:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - multilingual
-  - multilingual-community
+  - design
   - research
   - user-centered-design
+  - human-centered-design
 
 # see all authors at https://digital.gov/authors
 authors: 

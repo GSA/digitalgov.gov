@@ -35,16 +35,19 @@ QR codes (or Quick Response codes) are two-dimensional codes that you can scan w
 
 ## Why use QR codes?
 
-QR codes are a great tool to connect web resources with physical places or processes, but they may not be right in every context. Before using this tool, first ask yourself: why do I need a QR code?
+QR codes are a tool used to connect web resources with physical places or processes, but they may not be right in every context. Before using this tool, ask yourself: why do I need a QR code?
 
-Use a QR code to bridge the online and offline worlds. Here are a few examples of QR codes used in ideal ways:
+It's important to know that there can be security issues with QR codes. Cybercriminals can tamper with QR codes, replacing them altogether with QR code stickers or interfering with the link that's embedded in the code. The [FBI published guidance in 2022](https://www.ic3.gov/Media/Y2022/PSA220118) that details steps you can take to keep yourself safe. If possible, it may be wise to consider using alternatives listed later in this article.  
+
+If you have assessed your situation and choose to use a QR code to bridge the online and offline worlds, here are a few examples of them used in ideal ways:
 
 * Public health information. A poster with flu information in a bus stop can have a code that can lead to a website with additional information.
 * Instructions for use. A piece of equipment can have a QR code that can bring up a reference manual or how-to video.
 * Supplemental learning. Museums or historic sites can use QR codes on waysides to connect visitors with videos to enhance their visit.
 
-## Alternatives to consider
+Encourage your audience to use safety protocols and good judgement when using QR codes, including verifying links and avoiding downloads via QR code. Learn about more QR code safe practices with [FBI's 2022 guidance for QR codes](https://www.ic3.gov/Media/Y2022/PSA220118).
 
+## Alternatives to consider
 Although a QR code is a flexible tool for bridging the online and offline worlds, there are some other use cases where another technology would be more appropriate. For example, consider using another tool if you are using the QR code primarily as a:
 
 * URL shortener. If using a QR Code to point to a web page, keep in mind the size of the QR code is directly proportional to the length of the URL it points to. This can become an issue if the generated QR code image becomes too large for use in printed materials. In that case, consider using a URL shortener.

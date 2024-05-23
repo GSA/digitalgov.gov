@@ -11,7 +11,7 @@ summary: "Provides resources and collaborative opportunities to facilitate the u
 source: 'challengegov'
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.challenge.gov/"
 
 # Images need to be 200x200px with a transparent background
@@ -30,7 +30,7 @@ weight: 2
 
 # Topics that best describe this product or service
 topics:
-  - challenges
+  - challenges-and-prize-competitions
   - innovation
 
 # see all authors at https://digital.gov/authors

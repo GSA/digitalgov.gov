@@ -5,11 +5,7 @@ title: 'NOAA&#8217;s National Ocean Service Goes Responsive'
 summary: ' Let&#8217;s ponder this for a moment: Maybe you live in South'
 topics:
   - mobile
-  - cx
-  - mobile
-  - NOAA
-  - responsive-web-design
-  - thursday-mobile-products
+  - customer-experience
   - user-experience
 ---
 

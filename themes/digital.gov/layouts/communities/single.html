@@ -1,94 +1,87 @@
 {{ define "content" }}
+  <main role="main" id="main-content" class="page main-content">
+    <article class="grid-container grid-container-desktop">
+      {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+      <header>
+        <div>
+          {{/* Page Title */}}
+          <h1>{{ .Title | markdownify }} Community</h1>
 
-<main role="main" id="main-content" class="page main-content usa-prose">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-          <div class="grid-col-12" data-edit-this="{{- $path -}}">
-
-            <p class="breadcrumb">
-              <a href="{{ .Parent.Permalink }}" aria-label="Back to {{ .Parent.Title }}">
-                <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                  <use xlink:href="{{ "uswds/img/sprite.svg#arrow_back" | relURL }}"></use>
-                </svg>
-                <span>{{ .Parent.Title }}</span>
-              </a>
-            </p>
-            {{/* Page Title */}}
-            <h1>{{ .Title | markdownify }} Community</h1>
-
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-
-          </div>
+          {{- end -}}
         </div>
-      </div>
-    </header>
+      </header>
 
-    <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-4">
+      <div class="usa-in-page-nav-container">
+        <!--
+        data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
+        the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
+       -->
+        <aside
+          class="usa-in-page-nav"
+          data-title-heading-level="h3"
+          data-root-margin="-350px 0px -350px 0px"
+        ></aside>
+        {{/* Summary */}}
+        {{- if .Params.summary -}}
+          <div class="content usa-prose">
+            <p>{{- .Params.summary | markdownify -}}</p>
 
-          <div class="grid-col-12 tablet-lg:grid-col-9">
-
-            {{/* Summary */}}
-            {{- if .Params.summary -}}
-            <div class="content">
-              <p>{{- .Params.summary | markdownify -}}</p>
-
-              {{- if .Params.community_list -}}
+            {{- if .Params.community_list -}}
               <section class="join-community-form">
                 <h4 class="join-community-form__header">
-                  <svg class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05" aria-hidden="true" focusable="false">
-                    <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
+                  <svg
+                    class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"
+                    ></use>
                   </svg>
                   Connect with us
                 </h4>
 
                 {{- range $i, $e := .Params.community_list -}}
                   <div class="join-community-form__body">
-
                     <div class="join-community-form__body-eligibility">
-                      {{/*
-                        Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter
-                      */}}
+                      {{/* Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter */}}
 
                       {{/* PUBLIC */}}
                       {{- if eq $e.type "public" -}}
                         {{/* Checking to see if community terms are defined */}}
                         {{- if $e.terms -}}
-                        <p>{{- $e.terms | markdownify -}}</p>
+                          <p>{{- $e.terms | markdownify -}}</p>
                         {{- else -}}
-                        <p>Open to the public.</p>
+                          <p>Open to the public.</p>
                         {{- end -}}
                       {{- end -}}
 
                       {{/* GOVT */}}
                       {{- if eq $e.type "government" -}}
                         {{- if $e.terms -}}
-                        <p>{{- $e.terms | markdownify -}}</p>
+                          <p>{{- $e.terms | markdownify -}}</p>
                         {{- else -}}
-                        <p>Open to anyone with a .gov or .mil email address.</p>
+                          <p>
+                            Open to anyone with a .gov or .mil email address.
+                          </p>
                         {{- end -}}
                       {{- end -}}
 
                       {{/* GOVT_ONLY */}}
                       {{- if eq $e.type "government_only" -}}
                         {{- if $e.terms -}}
-                        <p>{{- $e.terms | markdownify -}}</p>
+                          <p>{{- $e.terms | markdownify -}}</p>
                         {{- else -}}
-                        <p>Open to any government employee.</p>
+                          <p>Open to any government employee.</p>
                         {{- end -}}
                       {{- end -}}
                     </div>
 
                     <div class="join-community-form__body-email">
-                      {{/*
-                        Community JOIN types ---
+                      {{/* Community JOIN types ---
                         - Listerv via an email (most common)
                         - Listerv via a form
                         - Google Group
@@ -114,39 +107,26 @@
                 {{- end -}}
 
               </section>
-              {{- end -}}
-              <div>
-                {{- .Content -}}
-              </div>
-              
-              <div class="community_events">
-                {{- partial "core/get-upcomingevents.html" . -}}
-              </div>
-
-              <div class="Community_conduct">
-                <h2 id="community-conduct">Community Conduct</h2>
-                {{- partial "core/community_pagefooter.html" . -}}
-                <br>
-              </div>
-              <div>
-                <br/>
-                {{- partial "core/page-data.html" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
-              </div>
-
-
-            </div>
             {{- end -}}
+            <div>
+              {{- .Content -}}
+            </div>
 
+            <div class="community_events">
+              {{- partial "core/get-upcomingevents.html" . -}}
+            </div>
+
+            <div class="Community_conduct">
+              <h2 id="community-conduct">Community Conduct</h2>
+              {{- partial "core/community_pagefooter.html" . -}}
+              <br />
+            </div>
+            <div>
+              <br />
+            </div>
           </div>
-
-          <div class="grid-col-12 tablet-lg:grid-col-3">
-            {{/* Table of contents */}}
-            {{- partial "core/toc.html" . -}}
-          </div>
-
-        </div>
+        {{- end -}}
       </div>
-    </section>
-  </article>
-</main>
-{{ end }} {{/* end 'content' block */}}
+    </article>
+  </main>
+{{ end }}

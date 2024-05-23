@@ -19,7 +19,8 @@ end_date: 2019-08-21 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - social-media
-  - marketing
+  - communication
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -37,6 +38,7 @@ primary_image: "socialgov-linkedin-2"
 weight: 0
 
 # Make it better ♥
+
 ---
 
 Does your agency’s LinkedIn content strategy need an update? Have you been successful in gaining followers? Hear some tips and best practices from Matt Ross, of LinkedIn’s Marketing Solutions Government & Advocacy team, on how to improve your agency’s use of content to maximize engagement with your core audience.
@@ -53,4 +55,4 @@ Our team will send a reminder email prior to the event that includes your link t
 
 This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).

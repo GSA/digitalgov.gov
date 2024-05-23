@@ -6,20 +6,13 @@ summary: 'If the silos and barriers that separated our programs are smashed, wha
 authors:
   - jherman
 topics:
-  - product-management
+  - product-and-project-management
   - social-media
-  - american-red-cross
-  - digitalgov-university
-  - peace-corps
-  - recaps
-  - socialgov
-  - usaid
-  - world-bank
 ---
 
-{{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada." caption="" >}} 
-
 If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service?
+
+{{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland, and Canada." caption="" >}}
 
 Whether you’re a citizen who needs better access to services, an entrepreneur looking to spark innovation in the marketplace, or a public servant who wants to get your mission done more effectively and efficiently &#8212; there have never been more opportunities to achieve these through social media in government.
 
@@ -56,7 +49,3 @@ Digital engagement to support entrepreneurs and small businesses is just one of 
 If you&#8217;re a federal employee, keep an eye on the <a href="{{< ref "/topics/social-media" >}}" target="_blank">Social Media homepage</a> of **DigitalGov** for posts on digital engagement across government, events and training opportunities from **DigitalGov University**, and information about how you can join the #SocialGov Community. You can also [sign up for daily or weekly updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new) so you don&#8217;t miss a thing.
 
 You can start by <a href="http://www.eventbrite.com/e/socialgov-summit-global-registration-10544780723?aff=eorg" target="_blank">registering for our next workshop</a>, #**SocialGov Summit: Global** &#8212; keynoted by **Edwin Lacierda**, spokesperson of the President of the Philippines, and featuring the **State Department**, **USAID**, **Peace Corps**, **American Red Cross** and **World Bank**. The challenges and opportunities we face in advancing digital engagement is one shared by all agencies, and together we can  work together &#8212; including our international partners &#8212; to continue raising the bar to improve citizen services and make them more cost effective.
-
-Please enjoy the State of the SocialGov 2014:
-
-[youtube https://www.youtube.com/watch?v=mmpG94tDtWQ?list=UU5V8jrK77-8gsa9RL_taG9A]

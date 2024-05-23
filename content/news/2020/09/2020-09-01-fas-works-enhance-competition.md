@@ -13,14 +13,12 @@ slug: fas-works-enhance-competition
 date: 2020-09-01 14:00:00 -0500
 kicker: "Acquisition"
 title: "FAS Works to Enhance Competition"
-deck: "**FAS Works to Enhance Competition**—Have you heard? The Federal Acquisition Service (FAS) is making exciting progress through the Federal Marketplace Strategy towards implementing new authorities and flexibilities that enhance competition in acquisition."
-summary: "**FAS Works to Enhance Competition**—Have you heard? The Federal Acquisition Service (FAS) is making exciting progress through the Federal Marketplace Strategy towards implementing new authorities and flexibilities that enhance competition in acquisition."
+deck: "Have you heard? The Federal Acquisition Service (FAS) is making exciting progress through the Federal Marketplace Strategy towards implementing new authorities and flexibilities that enhance competition in acquisition."
+summary: "Have you heard? The Federal Acquisition Service (FAS) is making exciting progress through the Federal Marketplace Strategy towards implementing new authorities and flexibilities that enhance competition in acquisition."
 
 # see all topics at https://digital.gov/topics
 topics: 
   - acquisition
-  - fas
-  - federal-acquisition-service
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

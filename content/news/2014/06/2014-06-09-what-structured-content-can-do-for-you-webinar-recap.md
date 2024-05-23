@@ -1,3 +1,4 @@
+
 ---
 slug: what-structured-content-can-do-for-you-webinar-recap
 date: 2014-06-09 10:00:42 -0400
@@ -6,22 +7,10 @@ summary: 'Structured content and open content models can help you create content
 authors:
   - kristen-onell
 topics:
-  - api
-  - communities
-  - content
-  - aoi
-  - api
-  - Census
-  - content-models
-  - GitHub
-  - gsa
-  - metadata
-  - national-institutes-of-health
-  - nih
-  - open-and-structured-content-models
-  - recaps
-  - structured-content
-  - united-states-census-bureau
+  - application-programming-interface
+  - content-strategy
+  - user-experience
+  - search-engine-optimization
 ---
 
 Structured content and open content models [can help you create content]({{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) that is platform-agnostic, format-free, and device-independent. This was the theme of the &#8220;What Structured Content Can Do For You: Article Model&#8221; webinar last month.

@@ -6,17 +6,10 @@ summary: 'We have received an amazing response to the U.S. Digital Registry, our
 authors:
   - jparcell
 topics:
+  - social-media
+  - application-programming-interface
+  - analytics
   - mobile
-  - social-media
-  - api
-  - dap
-  - digital-analytics-program
-  - mobile-apps
-  - mobile-friendly
-  - mobile-gov
-  - social-media
-  - us-digital-registry
-  - usa-gov-federal-mobile-apps-directory
 ---
 
 We have received an amazing response to the [U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.

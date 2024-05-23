@@ -1,86 +1,81 @@
 @use "uswds-core" as *;
 
-.community-info{
+.community-info {
   @include u-margin-bottom(3);
-  // @include u-bg('gray-warm-4');
-  @include u-font('sans', '2xs');
-  .join-box{
-    @include u-margin-bottom('205');
-    @include u-bg('gray-warm-10');
-    @include u-line-height('sans', 1);
-    &:first-child{
+  @include u-font("sans", "2xs");
+
+  .join-box {
+    @include u-margin-bottom("205");
+    @include u-bg("gray-warm-10");
+    @include u-line-height("sans", 1);
+
+    &:first-child {
       border: none;
     }
 
-    .type{
+    .type {
       @include u-padding-x(2);
       @include u-padding-y(1);
-      @include u-bg('gray-warm-20');
-      p{
-        @include u-line-height('sans', 3);
-        @include u-font('sans', '3xs');
+      @include u-bg("gray-warm-20");
+
+      p {
+        @include u-line-height("sans", 3);
+        @include u-font("sans", "3xs");
       }
     }
 
-    .join-box-wrapper{
+    .join-box-wrapper {
       @include u-padding(2);
     }
-    h3{
-      @include u-margin-top(0);
-      @include u-font('sans', 'xs');
-      @include u-text('bold');
-    }
-    code{
-      @include u-bg('yellow-5');
-      @include u-padding-y('2px');
-      @include u-padding-x('05');
-      @include u-radius('sm');
-    }
-    .join{
-      @include u-margin-bottom(2);
-      @include u-padding-y('105');
-      @include u-text('center');
-      @include u-text('white');
-      @include u-text('no-underline');
-      @include u-font('sans', 'md');
-      @include u-bg('cyan-50v');
-      @include u-display('block');
-      @include u-radius('md');
-      @include u-text('bold');
-      &:hover{
-        @include u-bg('cyan-60v');
-      }
-    }
-    .join.type-google-group{
-      @include u-bg('blue-50v');
-      &:hover{
-        @include u-bg('blue-60v');
-      }
-    }
-    .join.type-slack{
-      @include u-bg('violet-50v');
-      &:hover{
-        @include u-bg('violet-60v');
-      }
-    }
-    .terms{
-      // @include u-font('sans', '2xs');
-      // @include u-text('black');
-    }
-    .members{
-      @include u-font('sans', '3xs');
-    }
-  }
-  .community_managers{
-    h3{
-      @include u-margin(0);
-      @include u-margin-bottom('05');
-      @include u-font('sans', 'sm');
-    }
-  }
-  .community_admin{
-    @include u-padding-y(1);
-    @include u-font('sans', '3xs');
-  }
 
+    h3 {
+      @include u-margin-top(0);
+      @include u-font("sans", "xs");
+      @include u-text("bold");
+    }
+
+    code {
+      @include u-bg("yellow-5");
+      @include u-padding-y("2px");
+      @include u-padding-x("05");
+      @include u-radius("sm");
+    }
+
+    .join {
+      @include u-margin-bottom(2);
+      @include u-padding-y("105");
+      @include u-text("center");
+      @include u-text("white");
+      @include u-text("no-underline");
+      @include u-font("sans", "md");
+      @include u-bg("cyan-50v");
+      @include u-display("block");
+      @include u-radius("md");
+      @include u-text("bold");
+
+      &:hover {
+        @include u-bg("cyan-60v");
+      }
+    }
+
+    .join.type-google-group {
+      @include u-bg("blue-50v");
+
+      &:hover {
+        @include u-bg("blue-60v");
+      }
+    }
+
+    .join.type-slack {
+      @include u-bg("violet-50v");
+
+      &:hover {
+        @include u-bg("violet-60v");
+      }
+    }
+
+    .members {
+      @include u-font("sans", "3xs");
+    }
+  }
 }

@@ -1,73 +1,83 @@
 {{ define "content" }}
+  {{/* NOTE:
+    I am quite sure that this template is being overriden by the individual taxonomy templates (authors, topics, etc...)
+  */}}
 
-{{/*
 
-  NOTE:
-  I am quite sure that this template is being overriden by the individual taxonomy templates (authors, topics, etc...)
+  <main role="main" id="main-content" class="main-topic collection">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-3">
+          <nav class="topics-featured">
+            <header>
+              <h4>Topics</h4>
+              <p>
+                Categories /
+                <a href="{{ "categories" | relURL }}">See all »</a>
+              </p>
+            </header>
 
-*/}}
-
-<main role="main" id="main-content" class="main-topic collection">
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row tablet-lg:grid-gap-4">
-      <div class="grid-col-12 tablet:grid-col-3">
-        <nav class="topics-featured">
-          <header>
-            <h4>Topics</h4>
-            <p>Categories / <a href="{{ "/categories/" | absURL }}">See all »</a></p>
-          </header>
-
-          <ul>
-            {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
-              {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
-              <li>
-                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
-              </li>
+            <ul>
+              {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
+                {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
+                  <li>
+                    <a href="{{ .Permalink }}" title="{{ $name }}"
+                      ># <span>{{ .Title }}</span></a
+                    >
+                  </li>
+                {{ end }}
               {{ end }}
-            {{ end }}
-          </ul>
+            </ul>
+          </nav>
+        </div>
 
-        </nav>
-      </div>
-
-
-      <div class="grid-col-12 tablet:grid-col-9">
-        <section class="article-list">
-          <header>
-
-            <h1>{{ .Title }}</h1>
-
-          </header>
-          {{ range .Paginator.Pages }}
-
-          <article>
-            <div class="grid-row tablet-lg:grid-gap-3">
-              <div class="grid-col-3">
-                <div class="media">
-                  <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
-                  </a>
+        <div class="grid-col-12 tablet:grid-col-9">
+          <section class="article-list">
+            <header>
+              <h1>{{ .Title }}</h1>
+            </header>
+            {{ range .Paginator.Pages }}
+              <article>
+                <div class="grid-row tablet-lg:grid-gap-3">
+                  <div class="grid-col-3">
+                    <div class="media">
+                      <a
+                        href="{{ .Permalink }}"
+                        title="{{ $.Scratch.Get "card_title" }}"
+                      >
+                      </a>
+                    </div>
+                  </div>
+                  <div class="grid-col-9">
+                    <header>
+                      <h3>
+                        <a
+                          href="{{- .Permalink -}}"
+                          title="{{- .Title | markdownify -}}"
+                          >{{- .Title | markdownify -}}</a
+                        >
+                      </h3>
+                      <p>
+                        {{- .Params.summary | default .Summary | safeHTML | markdownify -}}
+                      </p>
+                    </header>
+                    <footer>
+                      <a
+                        href="{{- .Permalink -}} "
+                        rel="nofollow"
+                        title="{{- .Title | markdownify -}} "
+                        >{{- .Date.Format "Jan _2" -}}</a
+                      ><span>&#10038;</span
+                      >{{- partial "core/get_authors_short.html" . -}}
+                    </footer>
+                  </div>
                 </div>
-              </div>
-              <div class="grid-col-9">
-                <header>
-                  <h3><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></h3>
-                  <p>{{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
-
-                </header>
-                <footer>
-                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short.html" . -}}
-                </footer>
-              </div>
-            </div>
-          </article>
-
-          {{ end }}
-          {{ partial "core/pagination.html" . }}
-        </section>
-
+              </article>
+            {{ end }}
+            {{ partial "core/pagination.html" . }}
+          </section>
+        </div>
       </div>
     </div>
-  </div>
-</main>
-
+  </main>
 {{ end }}

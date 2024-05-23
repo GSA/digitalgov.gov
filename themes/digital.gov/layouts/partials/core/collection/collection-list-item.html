@@ -1,0 +1,76 @@
+{{/*
+
+  Collection List Item
+  Returns a list item variant for USWDS Collection
+
+  @see see collection.html for other component settings
+
+  @param {string} settings.variant — the collection list type according to https://designsystem.digital.gov/components/collection/
+  - @type default - displays title and description. Used for hugo internal pages
+  - @type media - displays agency icon, title and description. Used for hugo internal pages
+  - @type headings - display title and meta_source. Used for external links
+  - @type custom - displays agency icon, title and description. Used for custom data set in front matter pages like topic/design
+
+  @param {string} list_header - header that can be a link or plain header text
+  @param {string} summary - description text that follows the header
+  @param {string} href - link url for internal pages and external sites
+  @param {string} settings.meta_source - The referring source for an external link used with the "headings" variant that reads "Performance.gov".
+  - @description - Pass in .Params.source if using a set of resources pages for the collection component, otherwise provide a external link source
+
+*/}}
+
+{{ $list_item_data := .list_item_data }}
+{{ $settings := .settings }}
+{{ $variant := .variant }}
+{{ $logo_source := .logo_source }}
+{{ $list_header := .list_header }}
+{{ $title := .title }}
+{{ $href := .href }}
+{{ $summary := .summary }}
+{{ $url := urls.Parse $href }}
+{{ $meta_source := .meta_source }}
+
+
+{{- with $list_item_data -}}
+
+  {{ if .title }}
+    <li class="usa-collection__item">
+      {{ if or (eq $settings.variant "media") (eq $settings.variant "custom") }}
+        {{- partial "core/collection/collection-icon" (dict "logo_source" $settings.logo_source) -}}
+      {{ end }}
+      <div class="usa-collection__body">
+        {{ if .title }}
+        <h{{ $settings.list_header | safeHTML }} class="usa-collection__header">
+          <a class="usa-link" href="{{- .href | relURL -}}" title="{{- .title | markdownify -}}">
+            {{- .title | markdownify -}}
+          </a>
+        </h{{ $settings.list_header | safeHTML }}>
+        {{ end }}
+        {{ if ne $settings.variant "headings" }}
+          {{ if .summary }}
+            <p class="usa-collection__description">
+              {{ .summary | markdownify }}
+            </p>
+          {{ end }}
+        {{ else }}
+          {{ if $settings.meta_source }}
+            <ul class="usa-collection__meta">
+              <li class="usa-collection__meta-item position-relative">
+                <svg
+                  class="usa-icon position-relative bottom-neg-2px"
+                  aria-hidden="true"
+                  role="img"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#public" | relURL }}"
+                  ></use>
+                </svg>
+                {{- $settings.meta_source -}}
+              </li>
+            </ul>
+          {{ end }}
+        {{ end }}
+      </div>
+    </li>
+  {{ end }}
+{{- end -}}

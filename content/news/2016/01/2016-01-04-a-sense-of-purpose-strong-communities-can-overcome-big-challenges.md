@@ -6,15 +6,8 @@ summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not t
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - monthly-theme
-  - challenge-gov
   - challenges-and-prize-competitions
-  - crowdsourcing
-  - HUD
-  - recaps
-  - united-states-department-of-housing-and-urban-development
+  - crowdsourcing-and-citizen-science
 ---
 
 Cook-offs, bike rides, parades and dance parties—these are not the traditional public hearing-style events for which government agencies are known.

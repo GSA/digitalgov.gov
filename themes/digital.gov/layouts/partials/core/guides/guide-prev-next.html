@@ -1,136 +1,67 @@
-{{- $guide_data := index $.Site.Data.guidenav (.Params.guide) -}}
+{{/* Logic for displaying the next/previous buttons to navigate between guide pages */}}
 
-{{- if and $guide_data $guide_data.showNextPrevious -}}
-  {{- $current_page := . -}}
-  {{- $current_url := $current_page.Permalink -}}
+{{- $guideData := index $.Site.Data.guidenav -}}
+{{ if .Params.guide }}
+  {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
+{{ end }}
 
-  {{- $guide_files := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+{{- if $guideData.showNextPrevious -}}
+  {{- $currentPage := . -}}
+  {{- $currentURL := $currentPage.Permalink -}}
 
-  {{- $prev_item := 0 -}}
-  {{- $point_item := 0 -}}
+  {{- $prevItem := 0 -}}
+  {{- $nextItem := 0 -}}
 
-  <div class="guide-prev-next grid-row">
-    {{- if $guide_data.nav -}}
-      {{- range $guide_data.nav -}}
-        {{- $item := . -}}
 
-        {{- $prev_item = $point_item -}}
-        {{- $point_item = $item -}}
+  <div class="dg-guide__prev-next grid-row">
+    {{- range $guideData.nav -}}
+      {{- $item := . -}}
 
-        {{- if not (eq $prev_item 0) -}}
+      {{- $prevItem = $nextItem -}}
+      {{- $nextItem = $item -}}
 
-          {{- $point_page := $.Site.GetPage $point_item.path  -}}
-          {{- $prev_page := $.Site.GetPage $prev_item.path -}}
+      {{/* Check if the current item is valid (if it exists in the yml file) */}}
+      {{- if not (eq $prevItem 0) -}}
 
-          {{- if eq $current_url $point_page.Permalink  -}}
-            <a class="prev-item usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
-              Previous
-            </a>
-          {{- end -}}
+        {{- $nextPage := $.Site.GetPage $nextItem.path -}}
+        {{- $prevPage := $.Site.GetPage $prevItem.path -}}
 
-          {{- if eq $current_url $prev_page.Permalink  -}}
-            <a class="next-item usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
-              Next
-            </a>
-          {{- end -}}
-
+        {{/* Display the previous page button if the page exists */}}
+        {{- if eq $currentURL $nextPage.Permalink -}}
+          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prevItem "page" $prevPage) -}}
         {{- end -}}
 
-        {{- if $item.subnav -}}
-          {{- range $item.subnav -}}
-            {{- $sub_item := . -}}
-
-            {{- $prev_item = $point_item -}}
-            {{- $point_item = $sub_item -}}
-
-            {{- if not (eq $prev_item 0) -}}
-
-              {{- $point_page := $.Site.GetPage $point_item.path  -}}
-              {{- $prev_page := $.Site.GetPage $prev_item.path -}}
-
-              {{- if eq $current_url $point_page.Permalink  -}}
-                <a class="prev-item usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
-                  Previous
-                </a>
-              {{- end -}}
-
-              {{- if eq $current_url $prev_page.Permalink  -}}
-                <a class="next-item usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
-                  Next
-                </a>
-              {{- end -}}
-            {{- end -}}
-
-            {{- if $sub_item.subnav -}}
-              {{- range $sub_item.subnav -}}
-                {{- $subsub_item := . -}}
-
-                {{- $prev_item = $point_item -}}
-                {{- $point_item = $subsub_item -}}
-
-                {{- if not (eq $prev_item 0) -}}
-
-                  {{- $point_page := $.Site.GetPage $point_item.path  -}}
-                  {{- $prev_page := $.Site.GetPage $prev_item.path -}}
-
-                  {{- if eq $current_url $point_page.Permalink  -}}
-                    <a class="prev-item usa-button usa-button--outline" href="{{- $prev_page.Permalink  -}}" title="{{- $prev_item.title -}}">
-                      Previous
-                    </a>
-                  {{- end -}}
-
-                  {{- if eq $current_url $prev_page.Permalink  -}}
-                    <a class="next-item usa-button" href="{{- $point_page.Permalink  -}}" title="{{- $point_item.title -}}">
-                      Next
-                    </a>
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
-            {{- end -}}
-
-          {{- end -}}
+        {{/* Display the next page button if the page exists */}}
+        {{- if eq $currentURL $prevPage.Permalink -}}
+          {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $nextItem "page" $nextPage) -}}
         {{- end -}}
 
       {{- end -}}
 
-    {{- else -}}
-      {{- range sort ($guide_files) ".Params.weight" "desc" -}}
+      {{/* If the item has a second layer of navigation (subnav), display the next/previous buttons for this subnav */}}
+      {{- if $item.subnav -}}
+        {{- range $item.subnav -}}
+          {{- $subItem := . -}}
 
-        {{- if not (eq .Kind "section") -}}
+          {{- $prevItem = $nextItem -}}
+          {{- $nextItem = $subItem -}}
 
-          {{- $item := . -}}
+          {{/* Check if the current item is valid (if it exists in the yml file) */}}
+          {{- if not (eq $prevItem 0) -}}
 
-          {{- $prev_item = $point_item -}}
-          {{- $point_item = $item -}}
+            {{- $nextPage := $.Site.GetPage $nextItem.path -}}
+            {{- $prevPage := $.Site.GetPage $prevItem.path -}}
 
-          {{- if eq $current_page.Kind "section" -}}
-            {{- if (eq $prev_item 0) -}}
-              <a class="next-item usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
-                Next
-              </a>
+            {{/* Display the previous page button if the page exists */}}
+            {{- if eq $currentURL $nextPage.Permalink -}}
+              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "previous" "item" $prevItem "page" $prevPage) -}}
+            {{- end -}}
+
+            {{/* Display the next page button if the page exists */}}
+            {{- if eq $currentURL $prevPage.Permalink -}}
+              {{- partial "core/guides/guide-prev-next-button.html" (dict "type" "next" "item" $nextItem "page" $nextPage) -}}
             {{- end -}}
           {{- end -}}
-
-          {{- if eq $current_url $point_item.Permalink  -}}
-            {{- if not (eq $prev_item 0) -}}
-              <a class="prev-item usa-button usa-button--outline" href="{{- $prev_item.Permalink | relURL -}}" title="{{- $prev_item.Title -}}">
-                Previous
-              </a>
-            {{- else -}}
-              <a class="prev-item usa-button usa-button--outline" href="{{- $current_page.CurrentSection.Permalink | relURL -}}" title="Overview">
-                Previous
-              </a>
-            {{- end -}}
-          {{- end -}}
-
-          {{- if not (eq $prev_item 0) -}}
-            {{- if eq $current_url $prev_item.Permalink  -}}
-              <a class="next-item usa-button" href="{{- $point_item.Permalink | relURL -}}" title="{{- $point_item.Title -}}">
-                Next
-              </a>
-            {{- end -}}
-          {{- end -}}
-
         {{- end -}}
       {{- end -}}
     {{- end -}}

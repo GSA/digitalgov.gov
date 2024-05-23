@@ -2,28 +2,24 @@
 slug: a-new-prize-challenge-for-virtual-and-augmented-reality-learning-tools
 date: 2016-11-18 12:00:22 -0400
 title: A New Prize Challenge for Virtual and Augmented Reality Learning Tools
-summary: 'Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education. &ldquo;I’m calling for investments in educational technology that will help create. . . educational software that’s as compelling as the best video game. I want you guys to be stuck on'
+summary: 'The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education.'
 authors:
   - erik-martin
   - albert-palacios
 topics:
-  - challenges
   - mobile
-  - apps-challenges
-  - augmented-reality
+  - emerging-tech
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - virtual-reality
-  - virtual-augmented-reality-community
+  - multimedia
 ---
 
 _Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education._
 
-<div class="testimonial small">
-  “I’m calling for investments in educational technology that will help create. . . educational software that’s as compelling as the best video game. I want you guys to be stuck on a video game that’s teaching you something other than just blowing something up.”<br /> <em><span class="test-author">President Obama, March 2011, <a href="https://www.whitehouse.gov/blog/2011/03/08/president-obama-talks-education-boston-moral-and-economic-imperative-give-every-chil" target="_blank"><u>speaking</u></a> about the need for innovation in education.</span></em>
-</div>
+{{< card-quote text="I’m calling for investments in educational technology that will help create ... educational software that’s as compelling as the best video game. I want you guys to be stuck on a video game that’s teaching you something other than just blowing something up." cite="President Obama, March 2011,<br />[speaking about the need for innovation in education](https://obamawhitehouse.archives.gov/blog/2011/03/08/president-obama-talks-education-boston-moral-and-economic-imperative-give-every-chil)." >}}
 
-Imagine learning about biology by traveling inside human cells, or chemistry by experimenting with all of the elements of the periodic table, or computer science by programing robots to explore other planets. Virtual reality and augmented reality are new and emergent technologies that have received wide media coverage in the past year with the potential to make all of these experiences come to life. As evidenced by the Virtual Reality Developers Conference that was held this month in San Francisco, there is a growing developer community that is experimenting with these technologies and hungry to create experiences that are not only immersive and engaging, but can also transform the way stories are told and the way people learn. {{< legacy-img src="2016/11/600-x-400-VR-education-President-Barack-Obama.jpg" alt="President Barack Obama uses a virtual reality headset in the Outer Oval Office, Aug. 24, 2016. Personal aide Ferial Govashiri sits at her desk at left." caption="" >}} 
+Imagine learning about biology by traveling inside human cells, or chemistry by experimenting with all of the elements of the periodic table, or computer science by programing robots to explore other planets. Virtual reality and augmented reality are new and emergent technologies that have received wide media coverage in the past year with the potential to make all of these experiences come to life. As evidenced by the Virtual Reality Developers Conference that was held this month in San Francisco, there is a growing developer community that is experimenting with these technologies and hungry to create experiences that are not only immersive and engaging, but can also transform the way stories are told and the way people learn.
+
+{{< legacy-img src="2016/11/600-x-400-VR-education-President-Barack-Obama.jpg" alt="President Barack Obama uses a virtual reality headset in the Outer Oval Office, Aug. 24, 2016. Personal aide Ferial Govashiri sits at her desk at left." caption="" >}}
 
 To harness the creativity and ingenuity of this developer community on behalf of America’s students, the U.S. Department of Education has launched the <a href="http://edsimchallenge.com/" target="_blank">EdSim Challenge</a> for next-generation educational simulations that will prepare students for the globally competitive workforce of the 21st century. The Department is calling on the virtual reality, video game developer, and educational technology communities to submit concepts for immersive-learning experiences that strengthen career and technical skills. The Challenge will award $680,000 in cash prizes and additional sponsor prizes from IBM, Microsoft, and Samsung.
 
@@ -37,5 +33,15 @@ Those interested in entering the Challenge should <a href="http://edsimchallenge
 
 Stay tuned and visit the <a href="http://edsimchallenge.com/" target="_blank">EdSim Challenge website</a> to learn how you can reimagine the future of learning.
 
- _Erik Martin is a Policy Advisor for the White House Office of Science and Technology Policy._ _Albert Palacios is an Education Program Specialist at the U.S. Department of Education._
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ _For more on challenges and prize competitions, read our latest [Challenges articles]({{< ref "/topics/challenges" >}}). Thinking about running a challenge and prize competition at your agency? Connect with over 700 government professionals by joining the [Challenges & Prizes Community]({{< ref "challenges-prizes.md" >}})._ _Read our recent articles on [virtual and augmented reality]({{< ref "/topics/virtual-augmented-reality-community" >}}) and the new [AI and Virtual/Augmented Reality Communities]({{< ref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}})—join both via our main [Communities]({{< ref "/communities" >}}) page._ _This post was originally published on the [Office of Science and Technology Policy (OSTP) blog](https://www.whitehouse.gov/administration/eop/ostp/blog)._
+ _Erik Martin is a Policy Advisor for the White House Office of Science and Technology Policy. Albert Palacios is an Education Program Specialist at the U.S. Department of Education._
+
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
+_For more on challenges and prize competitions, read our latest [Challenges articles]({{< ref "/topics/challenges-and-prize-competitions" >}}). Thinking about running a challenge and prize competition at your agency? Connect with over 700 government professionals by joining the [Challenges & Prizes Community]({{< ref "challenges-prizes.md" >}})._ 
+
+_Read our recent articles on [virtual and augmented reality]({{< ref "/topics/emerging-tech" >}}) and the new [AI and Virtual/Augmented Reality Communities]({{< ref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}})—join both via our main [Communities]({{< ref "/communities" >}}) page._ 
+
+_This post was originally published on the [Office of Science and Technology Policy (OSTP) blog](https://obamawhitehouse.archives.gov/omb/blog)._

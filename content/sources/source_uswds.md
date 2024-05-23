@@ -1,30 +1,42 @@
 ---
-# What is the headline of this promo?
-slug: 'uswds'
-name: 'U.S. Web Design System'
+# View this page at https://digital.gov/sources/uswds
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# The slug name should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
+slug: uswds
+
+# Source Name for Workflow
+name: "U.S. Web Design System"
 
 # Keep it short — should be no longer than 10 words.
-summary: 'A design system for the federal government'
+summary: "A design system for the federal government."
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: 'https://designsystem.digital.gov'
+# Primary Domain — the link to your website, blog homepage, or news feed. (e.g., https://18f.gsa.gov/)
 
-# Images need to be 200x200px with a transparent background
+domain: "https://designsystem.digital.gov"
+
+# Images need to be 250x250 px with a transparent background.
 # Upload new images to Github in the /static/logos/ folder
-# https://github.com/GSA/digitalgov.gov/tree/master/static/source/
-# The filename should reflect the name of the source or team (e.g., usds-logo.png)
-logo: 'uswds'
+# https://github.com/GSA/digitalgov.gov/tree/main/static/source/
+# The filename should match the name of the agency or team in the image (e.g., gsa-logo.png or 18f-logo.png)
+logo: uswds
 
+# To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
+# Copy and paste that full path here: 
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
-
 # 1 == will show on the all services page
 # 0 == hidden promo
 # weight: 3
 
-# topics:
-#   - accessibility
-#   - design
+# See all topics at https://digital.gov/topics
+# Topics that best describe this product or service
+topics:
+  - design
+  - digital-service-delivery
+
+# Make it better ♥
+
 ---

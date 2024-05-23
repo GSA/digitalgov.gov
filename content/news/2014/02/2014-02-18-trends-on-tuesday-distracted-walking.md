@@ -6,13 +6,10 @@ summary: 'Piggybacking on one of my earlier posts, People are Crazy about Mobile
 authors:
   - lisa-wilcox
 topics:
-  - content
-  - product-management
+  - content-strategy
+  - product-and-project-management
   - mobile
-  - mobile
-  - mobile-gov
-  - responsive-web-design
-  - trends-on-tuesday
+  - emerging-tech
 ---
 
 [{{< legacy-img src="2013/06/hands-holding-smartphone-450x300.jpg" alt="Hands holding and using a smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/hands-holding-smartphone.jpg)Piggybacking on one of my earlier posts, [People are Crazy about Mobile]({{< ref "2013-08-13-trends-on-tuesday-people-are-crazy-about-mobile.md" >}} "Trends on Tuesday: People Are Crazy about Mobile!"), I’m going to talk about &#8220;Distracted Walking.&#8221; Who among us hasn&#8217;t walked and texted or checked Facebook or Twitter on our smartphones, but have bumped into someone or something while texting on your smartphone? I know I am guilty of that.

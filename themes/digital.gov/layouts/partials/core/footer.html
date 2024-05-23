@@ -1,10 +1,18 @@
 <footer class="usa-footer usa-footer--big" role="contentinfo">
   <section class="return-to-top">
-    <div class="grid-container grid-container-desktop usa-footer__return-to-top">
+    <div
+      class="grid-container grid-container-desktop usa-footer__return-to-top"
+    >
       <a href="#">
         <span>Return to top</span>
-        <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-          <use xlink:href="{{ "uswds/img/sprite.svg#arrow_upward" | relURL }}"></use>
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#arrow_upward" | relURL }}"
+          ></use>
         </svg>
       </a>
     </div>
@@ -14,76 +22,136 @@
       <nav class="usa-footer__nav" aria-label="Footer navigation">
         <div class="grid-row grid-gap-4">
           <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
-            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
               <h4 class="usa-footer__primary-link">Learn</h4>
               <ul class="usa-list usa-list--unstyled">
                 {{- range .Site.Menus.primary -}}
-                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                  <li class="usa-footer__secondary-link">
+                    <a href="{{- .URL -}}">{{- .Name -}}</a>
+                  </li>
                 {{- end -}}
               </ul>
             </section>
           </div>
           <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
-            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
               <h4 class="usa-footer__primary-link">Contribute</h4>
               <ul class="usa-list usa-list--unstyled">
                 {{- range .Site.Menus.contribute -}}
-                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                  <li class="usa-footer__secondary-link">
+                    <a href="{{- .URL -}}">{{- .Name -}}</a>
+                  </li>
                 {{- end -}}
               </ul>
             </section>
           </div>
           <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
-            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
               <h4 class="usa-footer__primary-link">About</h4>
               <ul class="usa-list usa-list--unstyled">
                 {{- range .Site.Menus.about -}}
-                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                  <li class="usa-footer__secondary-link">
+                    <a href="{{- .URL -}}">{{- .Name -}}</a>
+                  </li>
                 {{- end -}}
               </ul>
             </section>
           </div>
-
           <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
-            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+            <section
+              class="usa-footer__primary-content usa-footer__primary-content--collapsible"
+            >
               <h4 class="usa-footer__primary-link">Social</h4>
               <ul class="usa-list usa-list--unstyled social-links">
                 <li class="usa-footer__secondary-link">
-                  <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                    <use xlink:href="{{ "uswds/img/sprite.svg#twitter" | relURL }}"></use>
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="{{ "uswds/img/sprite.svg#x" | relURL }}"
+                    ></use>
                   </svg>
-                  <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://twitter.com/digital_gov">Twitter</a>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://twitter.com/digital_gov"
+                    >X (Formerly Twitter)</a
+                  >
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                    <use xlink:href="{{ "uswds/img/sprite.svg#facebook" | relURL }}"></use>
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="{{ "uswds/img/sprite.svg#facebook" | relURL }}"
+                    ></use>
                   </svg>
-                  <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://www.facebook.com/digitalgov/">Facebook</a>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://www.facebook.com/digitalgov/"
+                    >Facebook</a
+                  >
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                    <use xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"></use>
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"
+                    ></use>
                   </svg>
-                  <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://youtube.com/@DigitalGov">YouTube</a>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://youtube.com/@DigitalGov"
+                    >YouTube</a
+                  >
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                    <use xlink:href="{{ "uswds/img/sprite.svg#rss_feed" | relURL }}"></use>
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="{{ "uswds/img/sprite.svg#linkedin" | relURL }}"
+                    ></use>
                   </svg>
-                  <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="{{- "/" | relURL -}}index.xml">RSS</a>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="https://www.linkedin.com/company/digitalgov-gsa/"
+                    >LinkedIn</a
+                  >
                 </li>
                 <li class="usa-footer__secondary-link">
-                  <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                    <use xlink:href="{{ "uswds/img/sprite.svg#mail_outline" | relURL }}"></use>
+                  <svg
+                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <use
+                      xlink:href="{{ "uswds/img/sprite.svg#rss_feed" | relURL }}"
+                    ></use>
                   </svg>
-                  <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="mailto:digitalgov@gsa.gov">Email us</a>
+                  <a
+                    class="text-ink hover:text-ink text-no-underline hover:text-underline"
+                    href="{{- "index.xml" | relURL -}}"
+                    >RSS</a
+                  >
                 </li>
               </ul>
-
             </section>
           </div>
-
-
         </div>
       </nav>
     </div>

@@ -1,6 +1,7 @@
 ---
 # View this page at https://digital.gov/event/2020/04/accessibility-intersection-between-plain-language-508
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: accessibility-intersection-between-plain-language-508
 kicker: "Accessibility"
 title: "The Intersection Between Plain Language and 508 Compliance"
@@ -19,10 +20,9 @@ end_date: 2020-04-15 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:
-  - content
+  - content-strategy
   - accessibility
   - plain-language
-  - plain-language-community-of-practice
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -63,10 +63,9 @@ At its core, plain language is about making documents accessible to readers. In 
  - [Accessibility for Teams](https://accessibility.digital.gov/)
  - [18F's Guide to Accessibility](https://accessibility.18f.gov/)
  - [Join the Accessibility Community]({{< ref "/communities/it-accessibility-section-508.md" >}})
- - [An Introduction to Accessibility]({{< ref "/resources/intro-accessibility.md" >}})
+
  - [Plain language training](https://plainlanguage.gov/)
  - [Join the Plain Community]({{< ref "/communities/plain-language-community-of-practice.md" >}})
-
 
  ---
 

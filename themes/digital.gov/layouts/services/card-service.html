@@ -1,36 +1,34 @@
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-<div class="card-service" data-edit-this="{{- $path -}}">
-
+<div class="card-service">
   {{/* set the href as a variable */}}
-  {{- $href := "" -}}
-  {{- if .Params.source_url -}}
-    {{- $href = (print .Params.source_url "?dg") -}}
-  {{- else -}}
-    {{- $href = (print .Permalink "?dg") -}}
-  {{- end -}}
+  {{- $href := or .Params.source_url .Permalink -}}
 
   {{/* Logos
-  Get the "source" in the file and looks up the icon that is used there.
+    Get the "source" in the file and looks up the icon that is used there.
   */}}
+
+  {{ .Scratch.Set "logo_src" "" }}
   {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+
+  {{/* Find the logo source. */}}
+  {{/* @TODO: Simplify even further. */}}
   {{- if $source -}}
-
-    {{- $src := (printf "/logos/%s%s" $source.Params.logo "-logo.png") -}}
-    {{- template "logo" dict "src" $src "alt" $source.Params.name "href" $href -}}
-
+    {{ .Scratch.Set "logo_src" (printf "logos/%s%s" $source.Params.logo "-logo.png") }}
   {{- else if .Params.logo -}}
-
-    {{- $src := (printf "/logos/%s%s" .Params.logo "-logo.png") -}}
-    {{- template "logo" dict "src" $src "alt" .Params.name "href" $href -}}
-
+    {{ .Scratch.Set "logo_src" (printf "logos/%s%s" .Params.logo "-logo.png") }}
   {{- else -}}
-
-    {{- template "logo" dict "src" "/logos/digit-gold.png" "alt" .Params.source "href" $href -}}
-
+    {{ .Scratch.Set "logo_src" "logos/digit-gold.png" }}
   {{- end -}}
 
+  {{/* Call logo template once with new found source. */}}
+  {{- template "logo" dict "src" (.Scratch.Get "logo_src") "href" $href -}}
+
+
   <div class="copy">
-    <h3><a href="{{- $href -}}" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
+    <h2 class="card__title">
+      <a href="{{- $href | relURL -}}" title="{{- .Params.title -}}"
+        >{{- .Params.title -}}</a
+      >
+    </h2>
 
     <p>{{- .Params.summary | markdownify -}}</p>
 
@@ -39,11 +37,12 @@
     {{- end -}}
 
   </div>
-
 </div>
 
 {{- define "logo" -}}
   <div class="logo">
-    <a href="{{- .href -}}" title="{{- .alt -}}"><img src="{{ .src | relURL }}" alt="{{- .alt }} logo"></a>
+    <a href="{{- .href -}}" title="{{- .alt -}}"
+      ><img src="{{ .src | relURL }}" alt="{{- .alt }} logo"
+    /></a>
   </div>
 {{- end -}}

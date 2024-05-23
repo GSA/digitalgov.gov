@@ -11,9 +11,8 @@ authors:
   - sharon-mar
   - jeremyzilar
 topics:
-  - product-management
-  - pra
   - policy
+  - information-collection
 
 featured_image:
 primary_image: "pra-guide-launch"

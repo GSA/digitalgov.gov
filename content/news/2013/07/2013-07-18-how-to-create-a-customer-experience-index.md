@@ -6,8 +6,8 @@ summary: 'In my last post I talked about how we’re kicking off our Customer Ex
 authors:
   - martha-dorris
 topics:
-  - product-management
-  - cx
+  - product-and-project-management
+  - customer-experience
 ---
 
 <p>

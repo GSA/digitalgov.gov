@@ -2,23 +2,17 @@
 slug: digitalgov-summit-recap-leveraging-open-analytics
 date: 2015-08-07 11:10:54 -0400
 title: 'DigitalGov Summit Recap: Leveraging Open Analytics'
-summary: 'Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report. While government agencies may not have big budgets for data analysis, we do have tons of data&mdash;survey data, usability data, campaign data&mdash;that should be leveraged to drive decisions.'
+summary: 'While government agencies may not have big budgets for data analysis, we do have tons of data&mdash;survey data, usability data, campaign data&mdash;that should be leveraged to drive decisions.'
 authors:
   - andreanocesigritz
 topics:
-  - our-work
-  - digitalgov-summit
-  - HHS
-  - National Center for Telehealth and Technology
-  - PBGC
-  - Pension Benefit Guaranty Corporation
-  - recaps
-  - united-states-department-of-health-and-human-services
+  - analytics
+
 ---
 
-{{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}}
-
 Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report.
+
+{{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="stevanovicigor/iStock/Thinkstock" >}}
 
 While government agencies may not have big budgets for data analysis, we do have tons of data—survey data, usability data, campaign data—that should be leveraged to drive decisions. This idea was the subject of a panel discussion during the second annual [DigitalGov Citizen Services Summit]({{< ref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}), held in May.
 

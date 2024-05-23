@@ -6,20 +6,13 @@ summary: 'When faced with a big, daunting problem to solve, it’s human nature 
 authors:
   - tlowden
 topics:
-  - challenges
-  - Centers for Medicare and Medicaid Services
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
-  - CMS
-  - digitalgov-university
-  - HHS
-  - recaps
-  - united-states-department-of-health-and-human-services
+  - challenges-and-prize-competitions
+
 ---
 
-{{< legacy-img src="2014/07/600-x-420-Gold-medals-Igor-Poleshchuk-Hemera-Thinkstock-101861678.jpg" alt="Gold medals" caption="Igor Poleshchuk/Hemera/Thinkstock" >}}
-
 When faced with a big, daunting problem to solve, it’s human nature to try to tackle it by breaking it down into smaller parts and taking it “one step at a time.” The message from a recent DigitalGov University webinar on public prize competitions (AKA ‘challenges’) was that the government can often receive better solutions by going through the exact same process, and giving awards at each step.
+
+{{< legacy-img src="2014/07/600-x-420-Gold-medals-Igor-Poleshchuk-Hemera-Thinkstock-101861678.jpg" alt="Gold medals" caption="Igor Poleshchuk/Hemera/Thinkstock" >}}
 
 A great example of the power of this style of challenge is the <a href="http://www.topcoder.com/cms/hfpp/" target="_blank">Healthcare Fraud Prevention Partnership (HFPP) Challenge</a>, which was run by the Centers for Medicare and Medicaid Services (CMS). It was broken into 55 discrete pieces, with an award at the end of each “mini-competition.”
 

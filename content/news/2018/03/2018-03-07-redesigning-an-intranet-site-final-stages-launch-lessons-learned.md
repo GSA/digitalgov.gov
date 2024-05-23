@@ -7,26 +7,15 @@ authors:
   - karla-blaine
 topics:
   - accessibility
-  - data
   - design
-  - product-management
-  - strategy
-  - policy
-  - user-testing-and-research
-  - content
+  - product-and-project-management
   - content-strategy
-  - cx
-  - cx
-  - national-center-for-complementary-and-integrative-health
-  - national-institutes-of-health
-  - nccih
-  - nih
-  - prototype
+  - customer-experience
   - usability
-  - usability-testing
   - user-experience
-  - user-research
-  
+  - research
+  - policy
+
 featured_image:
   uid: featured-301-x-212-nih-logo-national-institutes-of-health
   alt: 'NIH logo'

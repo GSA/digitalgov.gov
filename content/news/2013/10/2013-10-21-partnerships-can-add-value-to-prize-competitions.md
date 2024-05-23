@@ -6,15 +6,7 @@ summary: 'The right partner can be the key to a successful challenge competition
 authors:
   - ktrebon
 topics:
-  - challenges
   - challenges-and-prize-competitions
-  - HUD
-  - nasa
-  - OSTP
-  - us-agency-for-international-development
-  - united-states-department-of-housing-and-urban-development
-  - usaid
-  - white-house-office-of-science-and-technology-policy
 ---
 
 The right partner can be the key to a successful challenge competition.
@@ -23,7 +15,7 @@ The right partner can be the key to a successful challenge competition.
 
 **Why we form partnerships**
 
-[{{< legacy-img src="2014/06/250-x-167-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966\_6a6e425825\_o.jpg" alt="Daniel Fleming, Puzzle Pieces, CC-BY-SA-2.0" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/600-x-400-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966_6a6e425825_o.jpg) 
+[{{< legacy-img src="2014/06/250-x-167-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966\_6a6e425825\_o.jpg" alt="Daniel Fleming, Puzzle Pieces, CC-BY-SA-2.0" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/600-x-400-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966_6a6e425825_o.jpg)
 
 Often times, the answer is, &#8220;no.&#8221; But that shouldn&#8217;t stop you from pursuing solutions to your problems. Challenge managers weighed-in on partnerships at a recent community meeting, and here are a few of their tips on how agencies partner for success.
 

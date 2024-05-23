@@ -10,11 +10,10 @@ end_date: 2020-12-11 15:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
+  - podcast
   - social-media
-  - socialgov
-  - socialgov-community
-  - social-media-metrics
-  - writing
+  - podcast
+  - communication
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -26,9 +25,13 @@ authors:
   - tanner-iskra
 slug: federal-social-week-2020
 
+# YouTube ID
+youtube_id: GY5uoQt6sZ0
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: social-media-week-2020
+
 ---
 
 Join SocialGov for a week of afternoon sessions on all things federal social media! We’ll be hearing from the best federal government accounts on how they get the job done in the most creative, engaging way possible.
@@ -43,11 +46,9 @@ Join SocialGov for a week of afternoon sessions on all things federal social med
 
 When’s the best time to tweet? The USAGov team behind @USAGovEspanol experimented with Twitter to ensure they’re reaching the right people at the right time with valuable content. Hear some takeaways and lessons learned in rethinking the team's strategy.
 
-In this session you will hear from the following speakers: 
+In this session you will hear from: 
 
 * Carolina Landsberger and Andres Quinones Ortiz, USAGov Outreach Team, U.S. General Services Administration (GSA)
-
-{{< youtube GY5uoQt6sZ0 >}}
 
 ## Session Two
 
@@ -63,7 +64,7 @@ In this session you will hear from:
 
 * Sara Eckert, Social Media Strategist, Social Media Branch, Strategic Communications and Public Affairs, TSA
 
-{{< youtube ZjoNsDqUTUg >}}
+{{< youtube id="ZjoNsDqUTUg" title="SocialGov Week Session 2: TSA’s Quest to Determine the Cutest Canine" >}}
 
 
 ## Session Three 
@@ -82,7 +83,7 @@ In this session you will hear from the following speakers:
 * Peter Lenentine, Director of User Experience & Usability, GSA
 * Victoria Wales, Strategic Outreach Specialist, GSA
 
-{{< youtube iNGQ0cKw_o4 >}}
+{{< youtube id="iNGQ0cKw_o4" title="SocialGov Week Session 3: 5 Insider Secrets to Email Marketing" >}}
 
 ## Session Four
 
@@ -96,7 +97,7 @@ In this session you will hear from:
 
 * Tanner Iskra, video producer and host of the VA’s "Borne the Battle" Podcast, VA
 
-{{< youtube PonDDNV8fAw >}}
+{{< youtube id="PonDDNV8fAw" title="SocialGov Week Session 4: What’s New and Interesting in Podcasting" >}}
 
 ## Session Five
 
@@ -108,11 +109,11 @@ In this session you will hear from:
 
 Hear how the U.S. Department of State's TravelGov team has adapted their Instagram strategy with travel being restricted during COVID-19! 
 
-In this session you will hear from the following speakers: 
+In this session you will hear from: 
 
 * Alyssa Zalenski, Digital Content Manager, Bureau of Consular Affairs
 
-{{< youtube GxZQn1M56eU >}}
+{{< youtube id="GxZQn1M56eU" title="SocialGov Week Session 5: Posting Travel Content When No One is Traveling" >}}
 
 ## Session Six
 
@@ -142,4 +143,4 @@ In this session you will hear from:
 * Briana D Kaya, Deputy Division Chief, Center for New Media & Promotion, U.S. Census Bureau 
 * Yolanda Byrd, Deputy Chief in the Promotions Branch, Center for New Media & Promotions 
 
-{{< youtube 276o55Ir9AI >}}
+{{< youtube id="276o55Ir9AI" title="SocialGov Week Session 7: Using Social Media Influencers in the Federal Government" >}}

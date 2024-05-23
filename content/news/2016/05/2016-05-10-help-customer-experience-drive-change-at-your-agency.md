@@ -6,11 +6,8 @@ summary: 'With the recent launch of the Core Federal Services Council&mdash;whic
 authors:
   - andreanocesigritz
 topics:
-  - product-management
-  - monthly-theme
-  - cx
-  - customer-experience-community-of-practice
-  - cx
+  - product-and-project-management
+  - customer-experience
 ---
 
 With the recent launch of the [Core Federal Services Council](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m-16-08.pdf)—which seeks to improve the customer experience for core federal programs by ensuring use of customer feedback data and identifying strategies—building on the [Feedback USA pilot]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}), the [Federal Front Door](https://labs.usa.gov/) and other [customer experience initiatives](https://18f.gsa.gov/2016/04/26/thinking-about-the-future-of-the-post-office-an-interview-with-amanda-weaver/), 2016 may in fact be the [Year of the Customer]({{< ref "2014-12-01-will-2016-be-the-federal-governments-year-of-the-customer.md" >}}).

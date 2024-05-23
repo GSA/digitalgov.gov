@@ -7,12 +7,11 @@ authors:
   - jherman
 topics:
   - social-media
-  - digitalgov-university
-  - social-media
-  - socialgov
 ---
 
-[<img class="alignright  wp-image-126922" alt="Screenshot of Hootsuite showing two Twitter streams" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Hootsuite-screenshot.jpg" width="409" height="238" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Hootsuite-screenshot.jpg)Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.
+Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.
+
+{{< legacy-img src="2014/02/Hootsuite-screenshot.jpg" alt="Screenshot of Hootsuite showing two Twitter streams" caption="" >}}
 
 We dispelled the notion that technology limits agencies from tackling these challenges by highlighting how agencies can achieve all these in one dashboard — and in the process hope it opened eyes to all the possibilities available to government.
 
@@ -26,7 +25,7 @@ Highlights of the presentation include:
 
 You can view a recording of the presentation below:
 
-
+{{< youtube id="G0Eij3E7RLQ" title="An overview of the DHS Usability Testing Kit" >}}
   
 Remember, this webinar covered just one of many ways available to agencies to help manage their social media programs — as part of our effort to <a title="Innovation Means More, Better, Cost Effective Digital Training" href="{{< ref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}" target="_blank">offer social media training throughout each month</a>, if you have an idea for an upcoming webinar please contact us at justin.herman@gsa.gov.
 

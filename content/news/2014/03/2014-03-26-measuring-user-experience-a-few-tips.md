@@ -6,14 +6,9 @@ summary: 'With a calculated process, the right tools, and a staff willing to mak
 authors:
   - tlowden
 topics:
-  - communities
-  - user-testing-and-research
-  - a-b-testing
-  - aoi
-  - recaps
-  - united-states-department-of-health-and-human-services
-  - usability-testing
+  - research
   - user-experience
+  - usability
 ---
 
 With a calculated process, the right tools, and a staff willing to make it work, you can measure user experience (UX) on your websites and implement usability changes that show results.
@@ -43,7 +38,5 @@ Build a suite of tools that are relevant to measurement of your KPI targets. If 
 After you make changes, you need to test if it made a difference. Popular ways to do this include implemented measure testing (measuring change from a baseline), <a href="http://en.wikipedia.org/wiki/A/B_testing" target="_blank">A/B testing</a>, or <a href="http://en.wikipedia.org/wiki/Multivariate_testing" target="_blank">multivariate testing</a>. Remember that the process is iterative! Be willing to try a few things to see what works.
 
 Creating an optimal user experience for your audience can’t be explained in an article or even a full webinar, but we hope this might give you a base to work from. For more information, watch the video below of Achaia talking UX with the Digital User Experience Program’s Jonathan Rubin and <a href="http://bit.ly/uxmeasuredeck" target="_blank">view the slides</a> of the presentation.
-
-{{< youtube x8jALM4I65U >}}
 
 Also, check out the <a href="{{< ref "/resources/digitalgov-user-experience-resources.md" >}}" target="_blank">Digital User Experience Program page</a> on <a href="http://digitalgov.gov" target="_blank">Digitalgov</a>, and if you aren’t already a member of the Federal User Experience Community of Practice listserv, email [Jon Rubin](mailto:jonathan.rubin@cfpb.gov) to request being added to the list.

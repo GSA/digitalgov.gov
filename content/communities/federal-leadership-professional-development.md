@@ -11,9 +11,8 @@ redirectto: https://community.max.gov/x/bWSvgQ
 
 # see all topics at https://digital.gov/topics
 topics:
-  - product-management
+  - product-and-project-management
   - professional-development
-  - training
   - innovation
 
 # Page weight: controls how this page appears across the site

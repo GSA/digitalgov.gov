@@ -1,19 +1,19 @@
 ---
 slug: trends-on-tuesday-thinking-about-your-agencys-glanceable-moment-strategy
 date: 2015-06-02 10:00:49 -0400
-title: 'Trends on Tuesday: Thinking about Your Agency&#8217;s &#8220;Glanceable&#8221; Moment Strategy'
-summary: 'Mobile device penetration is growing, with larger screens providing more real-estate for content and users completing more complex tasks over longer periods of engagement. However, the new wave of digital screens on watches and wearables is requiring organizations to consider how to build smaller, faster and simpler interfaces to prepare for &ldquo;glanceable moments.&rdquo; Ted Schadler from Forrester Research provided the following explanation:'
+title: "Trends on Tuesday: Thinking about Your Agency's &#8220;Glanceable&#8221; Moment Strategy"
+summary: "Mobile device penetration is growing. Yhe new wave of digital screens on watches and wearables is requiring organizations to consider how to build smaller, faster and simpler interfaces to prepare for glanceable moments."
+
 authors:
   - wsullivan
+
 topics:
   - mobile
-  - mobile
-  - mobile-ux-guideline-1
-  - mobile-ux-guideline-5
-  - trends-on-tuesday
+  - emerging-tech
+
 ---
 
-{{< legacy-img src="2015/06/250-x-250-Smartwatch-infographic-isolated-with-icons-time-line-concept-ponsuwan-iStock-Thinkstock-472723982-Converted.jpg" alt="Mobile devices (a laptop, a smart watch, a cell phone and tablet) show the same content." caption="" >}} 
+{{< legacy-img-right src="2015/06/250-x-250-Smartwatch-infographic-isolated-with-icons-time-line-concept-ponsuwan-iStock-Thinkstock-472723982-Converted.jpg" alt="Mobile devices (a laptop, a smart watch, a cell phone and tablet) show the same content." caption="" >}} 
 
 [Mobile device penetration is growing]({{< ref "2015-05-26-trends-on-tuesday-186-3-million-people-own-smartphones-in-the-u-s.md" >}}), with [larger screens providing more real-estate for content]({{< ref "2015-05-12-trends-on-tuesday-consumer-purchases-and-usage-of-tablets-shrink-as-phablets-grow.md" >}}) and users completing [more complex tasks over longer periods of engagement]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}). However, the new wave of digital screens on watches and wearables is requiring organizations to consider how to build smaller, faster and simpler interfaces to prepare for “glanceable moments.”
 

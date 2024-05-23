@@ -8,10 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - user-testing-and-research
-  - mobile
-  - social-media
-  - Twitter
+  - research
 ---
 
 [{{< legacy-img src="2013/10/digital-news.jpg" alt="Laptop screen showing homepage of New York Times, and a smartphone showing Yahoo News page." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/digital-news.jpg)A report by the PEW Research Center, <a href="http://www.pewresearch.org/fact-tank/2013/10/16/12-trends-shaping-digital-news/" target="_blank">12 trends for shaping digital news</a>,  looks at how the internet and digital devices are changing news consumption habits. While half of all Americans still prefer to get their news from television and print, younger Americans cite the Internet as their main source for national and international news.

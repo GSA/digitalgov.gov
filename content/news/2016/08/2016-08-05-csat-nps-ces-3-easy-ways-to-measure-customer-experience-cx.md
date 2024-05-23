@@ -2,21 +2,20 @@
 slug: csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx
 date: 2016-08-05 14:00:45 -0400
 title: 'CSAT, NPS, and CES: 3 Easy Ways to Measure Customer Experience (CX)'
-summary: 'Have you ever wondered how to measure a customer’s experience? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance,'
+summary: 'Have you ever wondered how to measure a customer’s experience? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other.'
 authors:
   - craig-chavez
 topics:
-  - metrics
-  - strategy
-  - policy
   - analytics
-  - cx
-  - customer-experience-community-of-practice
-  - cx
-  - metrics
+  - content-strategy
+  - customer-experience
+  - information-collection
+
 ---
 
-Have you ever wondered how to measure a [customer’s experience]({{< ref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
+Have you ever wondered how to measure a [customer’s experience]({{< ref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans.
+
+{{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="Gajus, iStock, Thinkstock" >}}
 
 Honestly, I was overwhelmed. Luckily, I got in touch with Kelly J. Ohaver, Customer Experience Manager from the [City of Centennial, Colorado](http://www.centennialco.gov/). This introductory blog spells three customer experience metrics that Kelly shared with me, along with some examples and graphs.
 
@@ -24,7 +23,9 @@ Honestly, I was overwhelmed. Luckily, I got in touch with Kelly J. Ohaver, Custo
 
 Let’s start with the simplest and most well-known metric: customer satisfaction—or CSAT. It’s a measurement that looks at how well a product or service experience meets a customer’s expectation. A customer satisfaction survey can help you determine your customers&#8217; overall level of satisfaction.
 
-For example, one of the CSAT survey questions the City of Centennial uses is, &#8220;How satisfied were you with the service you received?&#8221; Survey respondents are then asked to rate their experience on a scale of 1 to 5, where 1 equals ‘Very Satisfied’ and 5 equals ‘Very Dissatisfied.’ The CSAT is expressed as a percentage; the score ranges from 1 to 100%, with 1% being the lowest level of customer satisfaction and 100% being the highest level of customer satisfaction. {{< legacy-img src="2016/08/600-x-400-Survey-form-alexskopje-iStock-Thinkstock-179780149.jpg" alt="A printed customer satisfaction survey form." caption="" >}} 
+For example, one of the CSAT survey questions the City of Centennial uses is, &#8220;How satisfied were you with the service you received?&#8221; Survey respondents are then asked to rate their experience on a scale of 1 to 5, where 1 equals ‘Very Satisfied’ and 5 equals ‘Very Dissatisfied.’ The CSAT is expressed as a percentage; the score ranges from 1 to 100%, with 1% being the lowest level of customer satisfaction and 100% being the highest level of customer satisfaction.
+
+{{< legacy-img src="2016/08/600-x-400-Survey-form-alexskopje-iStock-Thinkstock-179780149.jpg" alt="A printed customer satisfaction survey form." caption="alexskopje, iStock, Thinkstock" >}}
 
 ## Net Promoter Score (NPS)
 
@@ -34,7 +35,7 @@ NPS is determined by a single calculation based on the question, &#8220;How like
 
 Responses are categorized as follows:
 
-  * **Promoters** (score 9-10) are loyal enthusiasts who will keep buying and refer others, fueling growth
+  * **Promoters** (score 9-10) are loyal enthusiasts who will keep buying and refer others, fueling growth.
   * **Passives** (score 7-8) are satisfied but unenthusiastic customers who are vulnerable to competitive offerings.
   * **Detractors** (score 0-6) are unhappy customers who can damage your brand and impede growth through negative word-of-mouth.
 

@@ -6,23 +6,20 @@ summary: 'A mule is the hybrid offspring of a male donkey and a horse. This new 
 authors:
   - david-fern
 topics:
-  - code
-  - content
+  - software-engineering
+  - content-strategy
   - design
-  - product-management
+  - product-and-project-management
   - mobile
   - user-experience
-  - app
-  - code
   - innovation
-  - mobile
-  - mobile-apps
-  - native-apps
 ---
 
 A mule is the hybrid offspring of a male donkey and a horse. This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound, and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins. Finally, mules do not require expensive grains, eat less and don&#8217;t tend to overeat as horses do.
 
-Progressive Web Applications are the new hybrid mules of the Internet! {{< legacy-img src="2016/09/600-x-400-Pack-Mule-cartoon-toonerman-iStock-Thinkstock-454943937.jpg" alt="A cartoon illustration of a pack mule." caption="" >}} 
+Progressive Web Applications are the new hybrid mules of the Internet!
+
+{{< legacy-img src="2016/09/600-x-400-Pack-Mule-cartoon-toonerman-iStock-Thinkstock-454943937.jpg" alt="A cartoon illustration of a pack mule." caption="toonerman/iStock/Thinkstock" >}} 
 
 ## What Are Progressive Web Applications (PWA)?
 
@@ -46,7 +43,9 @@ These three components create a browser wrapper for PWAs:
 
   * **Chocolate/Presentation** – This is the middle tier that contains the CSS
 
-  * **Hard Candy Shell/Client Side Scripting** – JavaScript that works with the service worker to increase speed, loading times, and functionality to create the user experience. {{< legacy-img src="2016/09/600-x-400-Sweet-candy-AppleZoomZoom-iStock-Thinkstock-496973541.jpg" alt="Peanut M&M candies." caption="" >}} 
+  * **Hard Candy Shell/Client Side Scripting** – JavaScript that works with the service worker to increase speed, loading times, and functionality to create the user experience.
+
+{{< legacy-img src="2016/09/600-x-400-Sweet-candy-AppleZoomZoom-iStock-Thinkstock-496973541.jpg" alt="Peanut M&M candies." caption="AppleZoomZoom/iStock/Thinkstock" >}} 
 
 To pull the PWA together we need to add in the service worker and the web App manifest.
 

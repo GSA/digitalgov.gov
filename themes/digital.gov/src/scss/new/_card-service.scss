@@ -1,61 +1,72 @@
 @use "uswds-core" as *;
 
-.card-service{
+.card-service {
   @include u-margin-y(1);
-  @include u-padding-y('205');
-  @include u-border-top('base-lighter', '1px', 'solid');
-  @include u-display('flex');
-  @include u-flex('justify-start');
-  @include u-flex('align-start');
-  &:first-child{
+  @include u-padding-y("205");
+  @include u-border-top("base-lighter", "1px", "solid");
+  @include u-display("flex");
+  @include u-flex("justify-start");
+  @include u-flex("align-start");
+
+  &:first-child {
     @include u-border-top(0);
   }
 
-  .logo{
-    @include u-margin-right('105');
+  .logo {
+    @include u-margin-right("105");
     @include u-square(6);
-    @include at-media('mobile-lg'){
+
+    @include at-media("mobile-lg") {
       @include u-margin-right(3);
       @include u-square(7);
     }
 
-    img{
+    img {
       @include u-circle(6);
-      @include at-media('mobile-lg'){
+
+      @include at-media("mobile-lg") {
         @include u-circle(7);
       }
-      @include u-border('1px', 'gray-cool-10', 'solid');
+
+      @include u-border("1px", "gray-cool-10", "solid");
     }
-    &:hover{
-      img{
-        @include u-border('1px', 'gray-cool-20', 'solid');
+
+    &:hover {
+      img {
+        @include u-border("1px", "gray-cool-20", "solid");
       }
     }
   }
-  .copy{
+
+  .copy {
     flex: 1;
-    h3{
-      @include u-margin-bottom(1);
-      @include u-font('sans', 'lg');
-      a{
-        @include u-text('black');
-        @include u-text('no-underline');
-        &:hover{
-          @include u-border-bottom('2px', 'accent-warm', 'solid');
-        }
-      }
+
+    p {
+      @include u-margin-top(0);
+      @include u-line-height("sans", 3);
+      @include u-display("flex");
     }
 
-    p{
-      @include u-margin-top(0);
-      @include u-line-height('sans', 3);
-      @include u-display('flex');
-    }
-    .list-topics{
+    .list-topics {
       @include u-margin-bottom(0);
     }
-    .authors-list{
+
+    .authors-list {
       @include u-margin-bottom(0);
+    }
+  }
+
+  .card__title {
+    @include u-margin-bottom(1);
+    @include u-font("sans", "lg");
+
+    a {
+      @include u-text("black");
+      @include u-text("no-underline");
+
+      &:hover {
+        @include u-border-bottom("2px", "accent-warm", "solid");
+      }
     }
   }
 }

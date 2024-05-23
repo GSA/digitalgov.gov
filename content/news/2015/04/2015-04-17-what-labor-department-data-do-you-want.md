@@ -6,14 +6,9 @@ summary: ' Four years ago, we released our Labor Department-wide API&mdash;that 
 authors:
   - michael-pulsifer
 topics:
-  - api
-  - code
-  - data
-  - api
-  - data
-  - GitHub
-  - National Weather Service
-  - us-department-of-labor
+  - application-programming-interface
+  - software-engineering
+  - open-data
 ---
 
 {{< legacy-img src="2015/04/600-x-135-labor-data-sets.jpg" alt="Data set icons from the US Department of Labor's Developer Portal; a maroon plus sign, a green bank icon, a blue bar chart and a purple question mark" >}}

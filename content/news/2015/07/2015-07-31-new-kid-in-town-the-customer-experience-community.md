@@ -2,23 +2,23 @@
 slug: new-kid-in-town-the-customer-experience-community
 date: 2015-07-31 10:00:20 -0400
 title: 'New Kid in Town: The Customer Experience Community'
-summary: Cross-Agency Priority (CAP) Goals prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP)
+summary: Cross-Agency Priority (CAP) Goals prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government.
 authors:
   - jacqueline-snee
   - rflagg
 topics:
-  - product-management
-  - cx
-  - customer-experience-community-of-practice
-  - customer-satisfaction
-  - customer-service
----
+  - product-and-project-management
+  - customer-experience
+  - customer-experience
+  - customer-experience
 
-{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
+---
 
 [Cross-Agency Priority (CAP) Goals](http://www.performance.gov/node/3400/view?view=public#overview) prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP) was launched in early 2015.
 
-The CX-COP supports collaboration and sharing among government customer experience practitioners. The group is sponsored by [GSA’s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729), which also sponsors several other [government Communities of Practice]({{< ref "/communities" >}}). The CX-COP, though it is the newest community, already has over 450 members from over 70 government agencies, with more people joining every day.
+{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="olm26250/iStock/Thinkstock" >}}
+
+The CX-COP supports collaboration and sharing among government customer experience practitioners. The group is sponsored by [GSA’s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729), which also sponsors several other [government Communities of Practice](https://digital.gov/communities/). The CX-COP, though it is the newest community, already has over 450 members from over 70 government agencies, with more people joining every day.
 
 ## Bring Customers to the Table
 
@@ -44,7 +44,7 @@ The CX-COP supports collaboration and sharing among government customer experien
 
 This is just the beginning! In our recent survey, CX-COP members also told us that people join this community so they can share ideas and solve problems with colleagues across government. To support this collaborative problem-solving, the CX-COP team is knee-deep in planning activities and developing content to help agencies meet the CAP Goal priorities.
 
-  * We have a new [community page]({{< ref "customer-experience.md" >}}) to keep members connected to the latest government and industry best practices and training opportunities.
+  * We have a new [community page](https://digital.gov/communities/customer-experience/) to keep members connected to the latest government and industry best practices and training opportunities.
   * We distribute a weekly e-newsletter that features CX news and articles from across the Internet, delivered right to your inbox. [Sign up to join the listserv and receive our e-newsletter](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform). Note, a U.S. government (.gov, .mil, etc.) email address is required. (Have a question or need help with registration? [Email us](mailto:rachel.flagg@gsa.gov).)
   * In June we hosted our first guest speaker, Jonathan Stahl from the Washington Nationals Baseball Club. Stahl shared the Nat’s strategy to enhance the customer experience for both customers and employees. Check out the [event recap]({{< ref "2015-07-22-how-the-nationals-customer-experience-principles-can-be-a-home-run-for-agencies.md" >}}).
   * We’re planning at least one new training event each month and collaborating with CAP Goal teams and other stakeholders to build a toolkit to help agencies improve the customer experience.

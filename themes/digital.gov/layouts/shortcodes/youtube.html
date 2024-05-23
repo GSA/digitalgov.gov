@@ -1,3 +1,27 @@
-<div class="video" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/{{ index .Params 0 }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" frameborder="0"></iframe>
+{{/* <!-- prettier-ignore -->
+  Embeds a youtube player into the page
+  Use the share link on the youtube.com to get the id and start time
+
+  @param {string} id - the required youtube video id
+  @params {number} [start_time] - the optional start time in seconds for the video
+  @params {string} title - The required title of the video for screen reader accessibility
+
+
+  <!-- prettier-ignore -->
+  @example
+  {{< youtube id="Hvo7WVKvPGU" start_time"101" title="Youtube video title goes here"
+>}}
+
+*/}}
+{{ $id := (.Get "id") }}
+{{ $start_time := (.Get "start_time") }}
+{{ $title := (.Get "title") }}
+
+
+<div
+  class="video"
+  style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"
+>
+  <!-- prettier-ignore -->
+  <iframe src="https://www.youtube.com/embed/{{ $id }}{{ if $start_time }}?start={{ $start_time }}{{ end }}" title="{{ $title }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" frameborder="0" ></iframe>
 </div>

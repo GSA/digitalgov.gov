@@ -19,7 +19,7 @@ end_date: 2018-11-15 15:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - fedramp
+  - security
 
 # see all authors at https://digital.gov/authors
 authors: 

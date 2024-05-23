@@ -7,8 +7,6 @@ authors:
   - michael-niedzwiecki
 topics:
   - mobile
-  - gsa
-  - mobile-gov
 ---
 
 [{{< legacy-img src="2013/08/eBuy-pic-352x300.jpg" alt="The mobile site provides ease of access to small businesses and customers to keep an eye on new bidding opportunities and other information associated with their contract(s) while on the go." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/eBuy-pic.jpg)The [General Services Administration](http://www.gsa.gov/portal/category/100000?utm_source=OCM&utm_medium=print-radio&utm_term=&utm_campaign=shortcuts) has made a mobile version of its [eBuy website](https://www.ebuy.gsa.gov/mobile/login). The mobile site provides ease of access to small businesses and customers to keep an eye on new bidding opportunities and other  information associated with their contract(s) while on the go.

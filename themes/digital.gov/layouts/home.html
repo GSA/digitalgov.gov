@@ -1,52 +1,100 @@
 {{- define "content" -}}
-
-<main role="main" id="main-content" aria-label="Content" >
-
-  <section class="usa-section" id="resources_featured">
-    <div class="tablet-lg:grid-container tablet-lg:grid-container-desktop">
-      <div class="grid-row tablet-lg:grid-gap-4">
-
-        <div class="grid-col-12 tablet-lg:grid-col-4">
-          <div class="box">
-            <h2>Guidance on building better digital services in government.</h2>
+  <main role="main" id="main-content" aria-label="Content">
+    <section class="usa-section" id="resources_featured">
+      <div class="tablet-lg:grid-container tablet-lg:grid-container-desktop">
+        <div class="grid-row tablet-lg:grid-gap-4">
+          <div class="grid-col-12 tablet-lg:grid-col-4">
+            <div class="box">
+              <h1 class="resources-featured__title">
+                {{ $.Site.Params.dg_tagline }}
+              </h1>
+              <a
+                class="btn btn-home"
+                href="{{- "events" | relURL -}}"
+                title="View events page"
+              >
+                <span>View Events</span>
+                <svg
+                  class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                  aria-hidden="true"
+                  focusable="false"
+                  role="img"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+                  ></use>
+                </svg>
+              </a>
+              <a
+                class="btn btn-home"
+                href="{{- "communities" | relURL -}}"
+                title="View communities page"
+              >
+                <span>Join Communities</span>
+                <svg
+                  class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                  aria-hidden="true"
+                  focusable="false"
+                  role="img"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+                  ></use>
+                </svg>
+              </a>
+            </div>
           </div>
-        </div>
 
-        <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="resources-content">
-            {{/* Get all of the resources */}}
-            {{- $resources := (where .Site.Pages.ByTitle "Section" "resources") -}}
+          <div class="grid-col-12 tablet-lg:grid-col-8">
+            <div class="resources-content">
+              {{/* Get all of the resources */}}
+              {{- $resources := (where .Site.Pages.ByTitle "Section" "resources") -}}
+              {{- $guides := (where .Site.Pages.ByTitle "Section" "guides") -}}
 
-            {{/* Get only the pages that are greater than or equal to 3 */}}
-            {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 3 ) -}}
+              {{/* Get only the pages that are greater than or equal to 3 */}}
+              {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 3 ) -}}
+              {{- $guidesfeatured := (where $guides ".Params.weight" "ge" 6 ) -}}
 
-            {{/* Sort all of the resources by weight */}}
-            {{- $resourcesfeatured := (sort $resourcesfeatured "Weight" "desc" ) -}}
+              {{- $allFeatured := union $resourcesfeatured $guidesfeatured -}}
 
-            {{- partialCached "core/collection.html" (dict "list" $resourcesfeatured "heading" "Popular Guides and Resources") -}}
-            <footer>
-              <div class="grid-row tablet-lg:grid-gap-2">
-                <div class="grid-col-12">
-                  <p class="more">
-                    <a href="/resources"><span>See all guides and resources</span>
-                      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                        <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-                      </svg>
-                    </a>
-                  </p>
+              {{/* Sort all of the resources by weight */}}
+              {{- $resourcesfeatured := (sort $allFeatured "Weight" "desc" ) -}}
+
+              {{- partialCached "core/featured-collection.html" (dict "list" $resourcesfeatured "heading" "How to implement 21st Century IDEA") -}}
+              <footer>
+                <div class="grid-row tablet-lg:grid-gap-2">
+                  <div class="grid-col-12">
+                    <p class="dg-more-link">
+                      <a
+                        href="{{ "topics/digital-service-delivery/" | relURL }}"
+                      >
+                        <span>Deliver better digital services</span>
+                        <svg
+                          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                          aria-hidden="true"
+                          focusable="false"
+                        >
+                          <use
+                            xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+                          ></use>
+                        </svg>
+                      </a>
+                    </p>
+                  </div>
                 </div>
-              </div>
-            </footer>
+              </footer>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
+    {{/* Digital.gov Communities of Practice */}}
+    <section class="grid-container-desktop usa-section">
+      {{ partial "core/featured-communities.html" (dict "context" .) }}
+    </section>
 
-  {{/* News */}}
-  {{- partialCached "core/home/news_featured.html" . -}}
-
-</main>
-
+    {{/* News */}}
+    {{- partialCached "core/home/news_featured.html" . -}}
+  </main>
 {{- end -}}

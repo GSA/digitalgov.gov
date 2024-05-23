@@ -7,26 +7,15 @@ authors:
   - karla-blaine
 topics:
   - accessibility
-  - content
-  - data
-  - design
-  - product-management
-  - strategy
-  - policy
-  - user-testing-and-research
-  - content
   - content-strategy
-  - cx
-  - cx
-  - National Center for Complementary and Integrative Health
-  - national-institutes-of-health
-  - NCCIH
-  - nih
-  - prototype
+  - open-data
+  - product-and-project-management
+  - customer-experience
+  - design
   - usability
-  - usability-testing
   - user-experience
-  - user research
+  - research
+  - information-architecture
 primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"
 
 ---

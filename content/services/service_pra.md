@@ -10,7 +10,7 @@ summary: "Get help with the PRA, planning and submitting an information request,
 source: 'pra-guide'
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://pra.digital.gov/contact/"
 
 
@@ -30,7 +30,7 @@ authors:
 topics:
   - plain-language
   - content-strategy
-  - content
+  - content-strategy
   - accessibility
 
 ---

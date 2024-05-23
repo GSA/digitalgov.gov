@@ -6,11 +6,7 @@ summary: 'You can now help your audience stay up-to-date on the Zika virus outbr
 authors:
   - andreanocesigritz
 topics:
-  - content
-  - monthly-theme
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - content-syndication
+  - content-strategy
 ---
 
 You can now help your audience stay up-to-date on the Zika virus outbreak—and others—through the Centers for Disease Control and Prevention (CDC)’s microsite, which is an [easily embeddable collection of virus information](https://tools.cdc.gov/medialibrary/index.aspx#/microsite/id/234558) for your agency’s website.

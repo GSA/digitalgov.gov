@@ -3,34 +3,29 @@ title: Challenge and Prize Community Spotlight Chat with the Small Business
   Administration
 deck: 
 kicker: Spotlight Chat
-summary: A discussion of lessons learned from implementing the Lab-to-Market
-  (L2M) Inclusive Innovation Ecosystem prize competition with members of the
-  prize planning committee, including the White House Office of Science and
-  Technology Policy (OSTP), the U.S. Small Business Administration (SBA), and
-  the Science and Technology Policy Institute (STPI)-- one of three federally
-  funded research and development centers of the Institute for Defense Analyses
-  (IDA), a non-profit corporation that assists the federal government in
-  addressing national security issues.
+summary: A discussion of lessons learned from implementing the Lab-to-Market (L2M) Inclusive Innovation Ecosystem prize competition with members of the prize planning committee, including the White House Office of Science and Technology Policy (OSTP), the U.S. Small Business Administration (SBA), and the Science and Technology Policy Institute (STPI)-- one of three federally funded research and development centers of the Institute for Defense Analyses (IDA), a non-profit corporation that assists the federal government in addressing national security issues.
 host: Challenge & Prize Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/challenge-prize-community-spotlight-chat-registration-156270187337
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4795465&CustomerID=321
 date: 2021-06-08 14:00:00 -0500
 end_date: 2021-06-08 15:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - challenges-and-prize-competitions
-  - challenges
-  - challenge-gov
-  - challenges-and-prizes-community-of-practice
+
 # See all authors at https://digital.gov/authors
 authors:
   - jarah-meador
   - brittany-sickler
   - katherine-tyner
+
 slug: challenge-and-prize-community-spotlight-chat-with-the-small-business-administration
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+
 primary_image: ""
 
 ---

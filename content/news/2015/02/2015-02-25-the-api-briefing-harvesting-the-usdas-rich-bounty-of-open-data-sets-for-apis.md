@@ -6,12 +6,8 @@ summary: APIs and apps have been created for almost every aspect of human life. 
 authors:
   - bbrantley
 topics:
-  - api
-  - api
-  - internet-of-things
-  - US Department of Agriculture
-  - USDA
-  - wednesday-api-briefing
+  - application-programming-interface
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="Data Center" caption="" >}} 

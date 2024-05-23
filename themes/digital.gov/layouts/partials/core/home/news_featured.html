@@ -1,32 +1,31 @@
 {{/* News & Updates */}}
 
+
 <section id="news_featured" class="stream">
   <div class="paper">
     <div class="grid-container grid-container-desktop">
-
       <div class="grid-row">
         <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
             <h2>News and Events</h2>
-            <p>Innovative work, news, and ideas from people and teams in government</p>
+            <p>
+              Innovative work, news, and ideas from people and teams in
+              government
+            </p>
 
             <div class="join-buttons">
-              <a href="{{- "/join" | relURL -}}">Write for us</a>
+              <a href="{{- "join" | relURL -}}">Write for us</a>
             </div>
-
           </header>
         </div>
       </div>
 
       <section class="stream" aria-label="Featured news and events">
-
-        {{/* Future Events ===========================  */}}
-        {{- $events := where .Site.RegularPages.Reverse "Section" "events" -}}
-
+        {{/* Future Events =========================== */}}
         {{/* gets the # of news items to display from the config.yml */}}
         {{- $events_count := .Site.Params.events_count -}}
-
-        {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}}
+        {{- $events_future := where (where .Site.RegularPages "Section" "events") ".Date.Unix" ">" now.Unix -}}
+        {{- $events_future := $events_future | first $events_count }}
 
         {{/* Past Events =========================== */}}
         {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
@@ -37,11 +36,9 @@
 
         {{/* Merges the past events and the recent blog posts */}}
         {{ $stream := union $posts $past_events }}
-        {{/* {{ $stream := union $posts $events }} */}}
 
         {{/* Sorting all the items by date and reverse chron */}}
         {{ $stream := $stream.ByDate.Reverse }}
-        {{/* $stream := $stream.ByWeight */}}
 
         {{/* gets the # of news items to display from the config.yml */}}
         {{ $stream_count := .Site.Params.stream_count }}
@@ -50,15 +47,17 @@
         {{/* The # is defined in the config.yml file */}}
         {{- range $i, $el := first $stream_count $stream -}}
 
-          {{- with $events -}}
+          {{/* Display first future event in 3 position of the stream */}}
+          {{- with $events_future -}}
             {{- if eq $i 2 -}}
-              {{- range first 1 $events -}}
+              {{- range first 1 $events_future -}}
                 {{- .Render "card-event" -}}
               {{- end -}}
             {{- end -}}
 
+            {{/* Display second future event in 9 position of the stream */}}
             {{- if eq $i 8 -}}
-              {{- range first 1 (after 1 $events) -}}
+              {{- range first 1 (after 1 $events_future) -}}
                 {{- .Render "card-event" -}}
               {{- end -}}
             {{- end -}}
@@ -66,7 +65,7 @@
 
           {{- if eq .Type "events" -}}
             {{- if .Date.Before now -}}
-              {{- .Render "card-event-past" -}}
+              {{- .Render "card-event" -}}
             {{- end -}}
           {{- end -}}
 
@@ -74,30 +73,22 @@
             {{/* External links */}}
             {{- if .Params.source -}}
               {{/* see /layouts/news/ for card templates */}}
-              {{ .Render "card-elsewhere"}}
+              {{ .Render "card-elsewhere" }}
             {{ else }}
               {{/* Blog Posts — Internal links */}}
               {{- if .Params.deck }}
                 {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{ .Render "card-article" }}
               {{ else }}
                 {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{ .Render "card-article" }}
               {{ end }}
             {{ end }}
           {{- end -}}
 
         {{- end -}}
 
-        <footer>
-          <a class="btn" href="{{- "news" | relURL -}}" title="View news and updates page">
-            <span>See all News</span>
-            <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false" role="img">
-              <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-            </svg>
-          </a>
-          <p>Have a case study to share? Did your team recently launch something?<br/><a href="{{- "contribute" | relURL -}}" title="Contribute to Digital.gov"><strong>Learn how you can contribute</strong></a></p>
-        </footer>
+        {{- partial "partials/core/see-all-footer.html" -}}
       </section>
     </div>
   </div>

@@ -6,13 +6,10 @@ summary: 'Next in our video blog series, Sarah Crane from USA.gov shares how mul
 authors:
   - sarah-crane
 topics:
-  - product-management
-  - api
-  - usagov
+  - product-and-project-management
+  - application-programming-interface
 ---
 
 Next in our video blog series, Sarah Crane from USA.gov shares how multiple product lines have led to an inconsistent customer experience and how new functional teams are helping them become more efficient.
 
 And check back next Monday to hear how the team is tackling content sprawl with the USA.gov API.
-
-{{< youtube lObSjX82aBg >}}

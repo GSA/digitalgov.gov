@@ -28,7 +28,7 @@ i.e.
   $theme-focus-color: "blue-50v",
   $theme-grid-container-max-width: "widescreen",
   $theme-site-margins-breakpoint: "widescreen",
-  //typography
+  // typography
   $theme-global-paragraph-styles: true,
   $theme-global-link-styles: true,
   $theme-font-type-sans: "public-sans",
@@ -45,7 +45,7 @@ i.e.
   $theme-body-line-height: 4,
   $theme-style-body-element: true,
   $theme-text-measure: 5,
-  //Colors from _uswds_theme-color.scss
+  // Colors from _uswds_theme-color.scss
   $theme-color-base-lightest: "gray-cool-5",
   $theme-color-primary-light: "blue-30v",
   $theme-color-primary: "blue-warm-50v",
@@ -63,27 +63,28 @@ i.e.
   $theme-utility-breakpoints: (
     "card": false,
     "card-lg": false,
-    "mobile": false,
+    "mobile": true,
     "mobile-lg": true,
     "tablet": true,
     "tablet-lg": true,
-    "desktop": false,
-    "desktop-lg": false,
-    "widescreen": false
+    "desktop": true,
+    "desktop-lg": true,
+    "widescreen": true,
   ),
   $output-these-utilities: (
-      "add-list-reset",
-      "align-items",
-      "align-self",
-      "border",
-      "border-style",
-      "border-width",
-      "color",
-      "display",
-      "font",
-      "font-weight",
-      "margin-vertical",
-      "order",
-      "text-decoration"
-      ),
+    "add-list-reset",
+    "align-items",
+    "align-self",
+    "border",
+    "border-style",
+    "border-width",
+    "color",
+    "display",
+    "font",
+    "font-weight",
+    "margin-vertical",
+    "order",
+    "text-decoration",
+  ),
+  $theme-breadcrumb-separator-color: "gray-90"
 );

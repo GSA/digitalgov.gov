@@ -19,8 +19,7 @@ end_date: 2019-11-12 14:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - multilingual
-  - content
-  - multilingual-community
+  - content-strategy
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -62,4 +61,4 @@ Hyejin Hickey and Christina Lantuh will share details of the NLSC—an agile, fl
 
 *This talk is hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov.* 
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 

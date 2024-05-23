@@ -6,26 +6,17 @@ summary: 'The debate between responsive websites and mobile apps took a decisive
 authors:
   - bbrantley
 topics:
-  - data
-  - mobile
-  - ai
   - artificial intelligence
-  - big-data
-  - cx
-  - cx
-  - data
-  - mobile
-  - mobile-apps
-  - national-oceanic-and-atmospheric-administration
-  - native-app
-  - native-apps
-  - NOAA
+  - analytics
+  - customer-experience
+  - emerging-tech
   - open-data
-  - responsive-web-design
-  - the-data-briefing
+  - mobile
 ---
 
-The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’s Digital Service (UKDS) banned the creation of mobile apps. In an [interview with _GovInsider_](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/), the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build and updating the application only requires changing one platform. &#8220;For government services that we were providing, the web is a far far better way… and still works on mobile,&#8221; Terrett said. {{< legacy-img src="2016/07/600-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}} 
+The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’s Digital Service (UKDS) banned the creation of mobile apps. In an [interview with _GovInsider_](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/), the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build and updating the application only requires changing one platform. &#8220;For government services that we were providing, the web is a far far better way… and still works on mobile,&#8221; Terrett said.
+
+{{< legacy-img src="2016/07/600-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="monicaodo/iStock/Thinkstock" >}} 
 
 These are similar arguments I repeated in my March 2016 column on [mobile apps versus responsive websites]({{< ref "2016-03-09-the-data-briefing-mobile-websites-or-mobile-apps-or-both.md" >}}). When Government Computing News reported on this issue, they asked the General Services Administration’s Jacob Parcell about his view of the debate. According to Parcell, the decision of choosing a mobile app or responsive website [depends on the users’ mobile moments](https://gcn.com/articles/2016/07/06/apps-vs-web.aspx#). That is, determine what the user&#8217;s needs are and build around that. The IRS built a mobile app, [IRS2Go](https://www.irs.gov/uac/irs2goapp), because of the heavy customer demand to check on their tax refund status, make payments, and obtain free tax preparation. Using a mobile app allows for the personalization and complex transactions that the taxpayer demands.
 
@@ -38,5 +29,5 @@ I also wonder if [chatbots]({{< ref "2016-07-06-the-data-briefing-i-for-one-welc
 **On a related note**: The National Oceanic and Atmospheric Administration (NOAA) just [released a data set of rain data reaching back to 1991](https://www.meritalk.com/articles/noaa-encourages-apps-from-big-data-sets/). What is unique about this release is that NOAA’s Big Data Project released the data set to the clouds provided by Amazon, Google, IBM, Microsoft, and the Open Cloud Consortium. The purpose is to encourage mobile app developers to create third-party applications based on the data set. According to NOAA, there will be more data sets released, including data from a planned joint NOAA-NASA (National Aeronautics and Space Administration) environmental satellite project.
 
 Whether it is through mobile apps, responsive websites, or large data sets, the U.S. federal government is still committed to using its vast data assets for the benefit of the American public._(GovInsider, Government Computing News, Amazon, Google, IBM, Microsoft, and the Open Cloud Consortium were used only for illustrative purposes and did not imply endorsement by the General Services Administration and the U.S. Federal Government.)_
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

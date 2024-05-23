@@ -1,68 +1,62 @@
 {{ define "content" }}
+  <main role="main" id="main-content">
+    <section class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12">
+          <div class="page-head page-head-{{- .Type -}}">
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}}</h1>
 
-<main role="main" id="main-content">
-
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row tablet-lg:grid-gap-4">
-      <div class="grid-col-12">
-        <header class="page-head page-head-{{- .Type -}}">
-
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}} </h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-          <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
-
-        </header>
-      </div>
-    </div>
-  </div>
-
-  <section class="services-list">
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row tablet-lg:grid-gap-2">
-        <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
-
-        {{/* Gets all service pages */}}
-        {{- $services := (where .Site.Pages "Section" "services") -}}
-
-        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-        {{- $services_featured := (where $services ".Params.weight" "ge" 2) -}}
-
-        {{- with $services_featured -}}
-
-          {{- range sort . "Title" -}}
-
-            {{- .Render "card-service" -}}
-
-          {{- end -}}
-
-        {{- end -}}
-        
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+              <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+          </div>
         </div>
       </div>
+    </section>
 
-      <div class="grid-row">
-        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
-          <footer>
-            <a class="btn" href="{{- "services/directory" | absURL -}}" title="">
-              <span>See the full directory</span>
-              <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-                <use xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"></use>
-              </svg>
-            </a>
-          </footer>
+    <section class="services-list">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row tablet-lg:grid-gap-2">
+          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+            {{/* Gets all service pages */}}
+            {{- $services := (where .Site.Pages "Section" "services") -}}
+
+            {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+            {{- $services_featured := (where $services ".Params.weight" "ge" 2) -}}
+
+            {{- with $services_featured -}}
+              {{- range sort . "Title" -}}
+                {{- .Render "card-service" -}}
+              {{- end -}}
+            {{- end -}}
+          </div>
+        </div>
+
+        <div class="grid-row">
+          <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+            <footer>
+              <a
+                class="btn"
+                href="{{- "services/directory" | relURL -}}"
+                title=""
+              >
+                <span>See the full directory</span>
+                <svg
+                  class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                  aria-hidden="true"
+                  focusable="false"
+                >
+                  <use
+                    xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
+                  ></use>
+                </svg>
+              </a>
+            </footer>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
-
-</main>
-
-{{- end -}} {{/* end 'content' block */}}
-
-
-
-
+    </section>
+  </main>
+{{- end -}}

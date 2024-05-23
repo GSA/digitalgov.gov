@@ -2,15 +2,15 @@
 slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
 title: Web Analytics and Optimization
-summary: "Brings together government analytics practitioners to make better decisions using web analytics and other optimization strategies."
+summary: "Make better decisions using web analytics and other optimization strategies."
 # See all topics at https://digital.gov/topics
 topics:
-  - a-b-testing
+  - research
   - analytics
-  - data
   - user-experience
   - usability
   - search-engine-optimization
+  - search
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -24,7 +24,6 @@ authors:
 event_cop:
   - web-analytics
 
-
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
@@ -34,6 +33,7 @@ weight: 1
 dg_highlight: true
 dg_shortname: Web Analytics
 dg_acronym: WAO
+dg_logo: communities-web-analytics.svg
 
 # Enter the path of the URL that you want redirected to this page
 community_list:
@@ -41,12 +41,13 @@ community_list:
     type: government
     subscribe_email: "analyze-optimize-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Analytics Community"
-    terms: "Federal government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 719
-    terms: Government employees and contractors only.
-    blurb: "Web Analytic community members"
+    terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
+    members: 1,006
+    join_cop_button: "Web Analytic community members"
 
-primary_image: "white-bg-digital-gov-card-community"
+kicker: "Join the Web Analytics Community"
+
+primary_image: "digital-gov-card-community"
 
 ---
 
@@ -54,11 +55,11 @@ In government, those with analytics as part of their duties are faced with a fas
 
 ## What We Do
 
-We run quarterly meetings and trainings, engage in collaborative discussion, and send general emails with updates on new technology and trends.
+We run meetings and trainings, engage in collaborative discussion, and send general emails with updates on new technology and trends.
 
 ## Who We Are
 
-We’re federal website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with federal sites.
+We’re government website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with government sites.
 
 ## Related Resources
 

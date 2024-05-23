@@ -1,67 +1,58 @@
 {{ define "content" }}
+  <main role="main" id="main-content" class="services-contacts">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12">
+          <header class="page-head page-head-{{- .Type -}}">
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}}</h1>
 
-<main role="main" id="main-content" class="services-contacts">
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+              <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
 
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row tablet-lg:grid-gap-4">
-      <div class="grid-col-12">
-        {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-        <header class="page-head page-head-{{- .Type -}}" data-edit-this="{{- $path -}}">
-
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}} </h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-          <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
-
-          {{/* {{ partial "last-updated.html" . }} */}}
-
-        </header>
+            {{/* {{ partial "last-updated.html" . }} */}}
+          </header>
+        </div>
       </div>
     </div>
-  </div>
 
-  {{/* Gets all service pages */}}
-  {{- $services := (where .Site.RegularPages "Section" "services") -}}
+    {{/* Gets all service pages */}}
+    {{- $services := (where .Site.RegularPages "Section" "services") -}}
 
-  {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-  {{- $services := (where $services ".Params.weight" "ge" 1) -}}
+    {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+    {{- $services := (where $services ".Params.weight" "ge" 1) -}}
 
-  <div class="grid-container grid-container-desktop-lg">
-    <div class="grid-row">
-      <div class="grid-col-12">
 
-        {{/* Gather all the service pages */}}
-        {{- with $services -}}
-
-          <div class="service-contact service-contact-heading">
-            <div class="grid-row grid-gap-2">
-              <div class="grid-col-12 tablet:grid-col-3">
-                <strong>Name</strong>
-              </div>
-              <div class="grid-col-12 tablet:grid-col-5">
-                <strong>Description</strong>
-              </div>
-              <div class="grid-col-12 tablet:grid-col-4">
-                <strong>Contact</strong>
+    <div class="grid-container grid-container-desktop-lg">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          {{/* Gather all the service pages */}}
+          {{- with $services -}}
+            <div class="service-contact service-contact-heading">
+              <div class="grid-row grid-gap-2">
+                <div class="grid-col-12 tablet:grid-col-3">
+                  <strong>Name</strong>
+                </div>
+                <div class="grid-col-12 tablet:grid-col-5">
+                  <strong>Description</strong>
+                </div>
+                <div class="grid-col-12 tablet:grid-col-4">
+                  <strong>Contact</strong>
+                </div>
               </div>
             </div>
-          </div>
 
-          {{- range sort . "Title" -}}
+            {{- range sort . "Title" -}}
 
-            {{- .Render "service-contact" -}}
+              {{- .Render "service-contact" -}}
+
+            {{- end -}}
 
           {{- end -}}
-
-        {{- end -}}
+        </div>
       </div>
     </div>
-  </div>
-
-
-</main>
-
-{{- end -}} {{/* end 'content' block */}}
+  </main>
+{{- end -}}

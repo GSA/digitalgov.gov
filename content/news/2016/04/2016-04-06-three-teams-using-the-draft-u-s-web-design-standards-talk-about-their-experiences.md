@@ -2,23 +2,18 @@
 slug: three-teams-using-the-draft-u-s-web-design-standards-talk-about-their-experiences
 date: 2016-04-06 14:46:02 -0400
 title: Three Teams Using the Draft U.S. Web Design Standards Talk about Their Experiences
-summary: 'In the five months since we launched the Draft U.S. Web Design Standards &mdash; the U.S. government’s very own set of common UI components and visual styles for websites &mdash; over a dozen websites have used components of the Draft Standards on their sites. Recently, we talked to three federal web designers about their experiences'
+summary: "In the five months since we launched the Draft U.S. Web Design Standards, over a dozen government websites have begun to use it."
 authors:
   - melody-kramer
 topics:
-  - code
+  - software-engineering
   - design
-  - product-management
-  - strategy
-  - policy
-  - 18f
-  - code
-  - draft-web-design-standards
+  - product-and-project-management
+  - content-strategy
   - open-source
-  - us-digital-service
   - user-experience
-  - usds
-  
+  - policy
+
 ---
 
 In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.
@@ -31,7 +26,7 @@ Recently, we talked to three federal web designers about their experiences using
 
 Each site incorporates parts of the Draft Standards in different ways. We chatted with Maria, Eddie, and Luke about their experiences using the Draft Standards — and how they would improve them.
 
-## 1. How did you hear about the Draft Standards and how did you integrate them into your sites? {#1.-how-did-you-hear-about-the-draft-standards-and-how-did-you-integrate-them-into-your-sites?}
+## 1. How did you hear about the Draft Standards and how did you integrate them into your sites?
 
 **Maria Marrero:** I first heard about the Draft Standards when this effort was just an initial idea by the U.S. Digital Service and 18F teams. As a User Experience Designer for [USA.gov](https://www.usa.gov/), another platform managed by the General Services Administration, I found it incredibly useful and something that is needed across government websites. The USAGov team then started connecting with the core team of developers and designers to get this effort kicked off.
 
@@ -43,7 +38,7 @@ Each site incorporates parts of the Draft Standards in different ways. We chatte
 
 **Eddie Hunter:** The Web Design Standards project was brought to the attention of the team by our boss who had spotted the effort on Twitter. We had been iterating our own template with similar design elements and decided to start incorporating the 18F Draft Standards into what we were developing.
 
-## 2. What components did you use? {#2.-what-components-did-you-use?}
+## 2. What components did you use?
 
 **MM:** So far, we have incorporated form templates on a few of our promotional pages where users can order government publications online. We are currently mapping components from the USAGov platform with the ones included into the draft release of the Standards and will continue to incorporate them in the future.
 
@@ -59,7 +54,7 @@ The 18F form controls provide a flatter and easier-to-read alternative to our pr
 
 We theme our different websites in order to inform users about which site they are currently on. We used Sass variables to organize the design elements and style our pages with site specific colors. We adopted the 18F variables that configure primary and secondary colors. This helped us simplify our Sass markup by reducing the number of variables we use.
 
-## 3. Do you have any advice for other federal web administrators who might want to adapt the Draft Standards? {#3.-do-you-have-any-advice-for-other-federal-web-administrators-who-might-want-to-adapt-the-draft-standards?}
+## 3. Do you have any advice for other federal web administrators who might want to adapt the Draft Standards?
 
 **MM:** As the Draft Standards continue to reach a more mature level, I would say that planning to implement components that are simple and easy to integrate first is the best approach. The USAGov team decided to adopt some of the Standards in incremental phases and based on their level of complexity. That way, if there are any updates, the effort to get the latest version would be minimal.
 
@@ -67,7 +62,7 @@ We theme our different websites in order to inform users about which site they a
 
 **EH:** Although we chose an iterative approach towards adopting these design standards I would advocate for a more wholesale adoption of the style guidelines/template. With full integration into the the 18F Web Design Standards you become a more engaged participant in the improvement and debugging of the current standards.
 
-## 4. What could 18F do to improve the standards? {#4.-what-could-18f-do-to-improve-the-standards?}
+## 4. What could 18F do to improve the standards?
 
 **MM:** This effort is an evolving product where updates are constantly being made, so I think that improving a public maintenance and communication plan would be helpful for agencies or projects that have already implemented the Standards and are in need of updated code.
 
@@ -81,7 +76,7 @@ It would also be helpful to limit the number of dependencies that are being used
 
 A large part of this 18F project is focused on providing a template for developers to build webpages. While working with this project I was surprised to find that occasionally items break out of the template and cause horizontal scrolling on the page. It would be nice if tables were responsive so that they wouldn&#8217;t break the page layout on small screens.
 
-## 5. Anything else you&#8217;d like to add? {#5.-anything-else-you'd-like-to-add?}
+## 5. Anything else you&#8217;d like to add?
 
 **MM:** The team working on the Standards is doing a great job at pulling people together from different agencies and projects across government to get feedback on what is needed for future releases. This is a good way to engage developers and designers and produce a more complete product.
 

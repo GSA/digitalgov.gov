@@ -1,3 +1,9 @@
+{{/* Renders image on right side of screen
+
+  <!-- TODO: move lines 11-20 into comment block for better break down of use -->
+
+*/}}
+
 <!-- image -->
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisimg := index $.Site.Data.images (.Get "src" | lower) -}}
@@ -11,32 +17,34 @@
 
 <div class="image image-right">
   <img
-    src='{{- $imgBaseCDN -}}_w200.{{- $imgExt -}}' {{ if or (.Get "alt") $thisimg.alt }} alt='{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $thisimg.alt -}}{{- end -}}'{{ end }}
+    src="{{- $imgBaseCDN -}}_w200.{{- $imgExt -}}" {{ if or (.Get "alt") $thisimg.alt }} alt='{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $thisimg.alt -}}{{- end -}}'{{ end }}
     srcset="
-    {{- if ge $imgWidth 200 -}}{{- $imgBaseCDN -}}_bu.jpg 48w,
-      {{- if ge $imgWidth 400 -}}
-        {{- if ge $imgWidth 600 -}}
+      {{- if ge $imgWidth 200 -}}
+        {{- $imgBaseCDN -}}_bu.jpg 48w,
+        {{- if ge $imgWidth 400 -}}
           {{- if ge $imgWidth 800 -}}
             {{- if ge $imgWidth 1200 -}}
               {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w,
             {{- end -}}
             {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
           {{- end -}}
-          {{- $imgBaseCDN -}}_w600.{{- $imgExt }} 600w,
+          {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
         {{- end -}}
-        {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
+        {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w
+      {{- else -}}
+        {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
       {{- end -}}
-      {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w
-    {{- else -}}
-    {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
-    {{- end -}}
-      "
-    sizes='(max-width: 600px) 40vw, 400px'/>
+    "
+    sizes="(max-width: 600px) 40vw, 400px"
+  />
 
-    {{- if or $imgCaption $imgCredit -}}
-      <p>{{- $imgCaption | markdownify -}}{{- if $imgCredit }} <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>{{- end -}}
-      </p>
-    {{- end -}}
+  {{- if or $imgCaption $imgCredit -}}
+    <p>
+      {{- $imgCaption | markdownify -}}{{- if $imgCredit }}
+        <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>
+      {{- end -}}
+    </p>
+  {{- end -}}
 
 </div>
 <!-- image -->

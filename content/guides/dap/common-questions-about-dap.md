@@ -1,8 +1,10 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Common Questions about DAP"
-summary: ""
+title: "Common questions about DAP"
+summary: "The most common questions about implementing, customizing, and utilizing the DAP program."
 guide: dap
+primary_image: guide-dap
+summary_box: true
 aliases:
   - /services/dap/common-questions-about-dap-faq/
   - /services/dap/common-questions-about-dap/
@@ -11,10 +13,59 @@ aliases:
 ---
 
 {{< box >}}
-**Have a question for the DAP team?** Send an email to [dap@sgsa.gov](mailto:dap@gsa.gov) and we’ll get back to you.
+**Do you have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov).
 {{< /box >}}
 
-{{< guide-toc >}}
+---
+## About the Digital Analytics Program’s migration to Google Analytics 4
+Understand how and why DAP is transitioning from Universal Analytics to Google Analytics 4.
+
+### Q: When will the Digital Analytics program migrate to Google Analytics 4?
+
+A: On July 1, 2024, the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) will replace Universal Analytics (UA) with [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4). 
+
+Between August 1, 2023, and June 31, 2024, DAP users will have access to both the legacy UA data and the new GA4 data. This overlap will allow everyone to become accustomed to interpreting and analyzing data in GA4. 
+
+Keep reading to learn more about how the DAP team is preparing for the transition and what you need to do.
+
+### Q: How is DAP preparing for the GA4 migration?
+
+A: GA4 is very different from UA — from data collection and metrics, to user interface and reporting features. For example, GA4 tracks analytics for both websites and applications, while UA tracks analytics for websites only. Also, while UA uses measurement based on pageviews, GA4 uses a measurement model based solely on events. 
+
+The DAP team is taking several steps to prepare for the GA4 migration.
+
+- **The DAP team released dual tracking code.** To best serve the DAP customers during the migration to GA4, the DAP team released new custom code for `dual tracking` on August 1, 2023. This dual tracking code collects both UA and GA4 data. It continues to collect UA data in the governmentwide and agency-specific profiles until July 1, 2024. In other words, there is no change to existing DAP governmentwide and agency profiles. In parallel, the dual tracking code kicks off collecting and reporting for the GA4 governmentwide DAP property and agency-specific GA4 subproperties. [Subproperties](https://support.google.com/analytics/answer/11525732?hl=en) are similar to UA profiles or views.
+
+- **The DAP team set up a new GA4 account structure.** The DAP team has created agency subproperties for GA4. This account structure ensures federal agencies continue to benefit from DAP’s dedicated agency-specific reporting and analysis structure and to be able to analyze governmentwide data. The GA4 agency subproperties collect analytics using the same rules and filters as the UA agency profiles. 
+- **The DAP team is creating new GA4 custom reports.** Using the GA4 user interface, DAP customers will be able to view governmentwide and agency-specific metrics using DAP's custom reports. Those reports will be published by a DAP administrator under `DAP reports` on the left navigation bar. 
+- **The DAP team is creating training and customer support.** As GA4 collects more data, the DAP team plans to release training to help support DAP customers throughout the migration and beyond. The training plan includes short videos, such as “DAP (GA4) in a minute” as well as a more comprehensive introduction to DAP GA4. The DAP team also plans to hold monthly office hours for DAP customers to attend and ask questions. 
+- **The DAP team is planning necessary updates for analytics.usa.gov.** The DAP team is evaluating solutions for analytics.usa.gov real-time and trend reporting. 
+- **The DAP team is planning to retain access to historical data**. After the DAP UA account is deprecated on July 1, 2024, it will no longer be available to DAP customers. The DAP team is working to ensure that customers continue to have access to over 10 years of historical data from the UA property. 
+- **The DAP team is supporting the parallel UA (PUA) tracking parameter.** They will provide more information about the parallel GA4 tracking parameter soon
+The DAP team will continue to update this page and provide more information in the coming months. 
+
+### Q: What actions are required for me to move to GA4?
+
+A: As a DAP customer, you should begin to explore the new GA4 data, reports, and available training resources. You should also complete the following two actions as soon as possible.
+
+**Action 1: Review whether you use central hosting or host the DAP code locally.**
+
+Most agencies call the DAP code from the centrally hosted file, [https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js](https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js). If you use central hosting, no action is needed to switch to DAP GA4 and the latest code. 
+
+If your agency hosts the DAP code locally on your own servers, you will be required to replace the existing DAP code version with the new DAP dual tracking code. See the latest [Universal-Federated-Analytics-Min.js](https://github.com/digital-analytics-program/gov-wide-code/blob/master/Universal-Federated-Analytics-Min.js) file under the `gov-wide-code` repository in the [Digital Analytics program Github organization](https://github.com/digital-analytics-program) (published on August 1, 2023).
+
+**Action 2: Use the agency parameter.**
+
+Use the custom agency parameter to more efficiently analyze and filter data in GA4 and understand differences in trends across participating agencies. Also use the custom sub-agency parameter, if applicable. See, for example, the agency parameter used in a DAP tag with central hosting:
+
+`<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script>`
+
+Contact the DAP team at [dap@gsa.gov](dap@gsa.gov) with any questions about these two action items.
+
+**Connect with others interested in the DAP GA4 migration.**
+
+Want to learn more? 
+Join the [Web Analytics community of practice](https://digital.gov/communities/web-analytics-and-optimization/) to connect with other federal analytics professionals who are using data to transform how the government interacts with the public.
 
 ## Digital Analytics Program (DAP) User Agreement
 
@@ -33,10 +84,6 @@ A. By logging in and accessing the Digital Analytics Program account, you unders
 **Q. What tool is being used to collect the data?**
 
 A. Currently, DAP uses Google Analytics 360 to collect and analyze the Web traffic data.
-
-**Q. Does this tool have to go on all websites? Or just top-level domains?**
-
-A. On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP javascript code on all public facing federal websites. Please see the `Adding Your Site to DAP` page for more information.
 
 **Q. Can the DAP code be implemented with other Google Analytics and/or other web analytics tools?**
 
@@ -104,9 +151,9 @@ A. No. None of the federal government data tracked as part of the Digital Analyt
 
 A. IP anonymization/masking takes place as soon as data is received by Google Analytics and before any storage or takes place. At no time is the full IP address written to disk as all anonymization happens in memory nearly instantaneously after the request has been received. The full IP address is never written to disk when the anonymization flag is turned on as it is with GSA’s account. [Read more about IP Anonymization in Google Analytics](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2763052). 
 
-**Q. Does my agency need a TOS with Google to use the services provided under GSA’s Digital Analytics Program?**
+**Q. Does my agency need a terms of service with Google to use the services provided under DAP?**
 
-GSA has negotiated a federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics 360, it can use the DAP TOS as a starting point, but will need to sign a separate agreement. Please contact [dap@gsa.gov](mailto:dap@gsa.gov) to request a copy of the terms.
+GSA has negotiated a federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics 360, it can use the DAP terms of service as a starting point, but will need to sign a separate agreement. Please contact [dap@gsa.gov](mailto:dap@gsa.gov) to request a copy of the terms.
 
 **Q. Is a new privacy notice needed on my agency website if we add Google Analytics 360?**
 

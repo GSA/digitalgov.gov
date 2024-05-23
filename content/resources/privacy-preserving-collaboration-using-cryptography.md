@@ -9,17 +9,18 @@ summary: In conjunction with her May 2020 presentation, Dr. Emily Shen outlines
 topics:
   - privacy
   - security
-  - emerging-tech
-  - design
+
 # See all authors at https://digital.gov/authors
 authors:
   - dr-emily-shen
 slug: privacy-preserving-collaboration-using-cryptography
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
 
 For many applications, organizations want to collaborate to gain insights from their collective data but can’t share their data due to security and privacy concerns. These needs arise within government (e.g., intelligence sharing), between government and industry (e.g., cyber threat sharing), and between governments (e.g., coordination with coalition partners).

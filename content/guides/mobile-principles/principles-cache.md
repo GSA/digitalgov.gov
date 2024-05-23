@@ -1,10 +1,10 @@
 ---
 slug: cache
 date: 2018-12-10 10:00:00 -0500
-title: 'Conserve Resources, Recycle When Possible'
-summary: 'Week five of our series, Eight Principles of Mobile-Friendliness, offers tips for increasing page loading speeds, and making the mobile web experience better for users overall.'
+title: "Conserve resources, recycle when possible"
+summary: "Week five of our series offers tips for increasing page loading speeds, and making the mobile web experience better for users overall."
 guide: mobile-principles
-
+primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/cache
 

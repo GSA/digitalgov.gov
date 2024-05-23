@@ -5,11 +5,12 @@ summary: "Trust is earned through consistency and commitment. Build sites that b
 
 # See all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
   - plain-language
-  - cx
+  - customer-experience
   - usability
   - accessibility
+  - trust
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -62,7 +63,7 @@ Listen to what people are saying about their experiences.
 * Review help desk feedback and site surveys to identify targeted improvements (following the requirements for information collections in the [Paperwork Reduction Act](https://pra.digital.gov/about/), of course!).
 * Perform automated and manual scans to test for accessibility and usability issues.
 
-Check out the [CX Toolkit](https://digital.gov/resources/customer-experience-toolkit/?dg) and the Department of Veteran Affairs’ [CX Cookbook (PDF, 1.8 MB, 34 pages)](https://www.va.gov/ve/docs/cx/customer-experience-cookbook.pdf) for more ideas.
+Check out the [CX Toolkit](https://digital.gov/resources/customer-experience-toolkit) and the Department of Veteran Affairs’ [CX Cookbook (PDF, 1.8 MB, 34 pages)](https://www.va.gov/ve/docs/cx/customer-experience-cookbook.pdf) for more ideas.
 
 ## Respect people’s time
 
@@ -106,7 +107,7 @@ Maintaining less information in fewer places means faster reviews and posting ti
 * Strategically promote your content and comms channels so people know where to go.
 * Use the same words when talking about the same thing across pages and platforms.
 
-{{< note "activity" >}}**Join the UX Community**<br />
+{{< note variant="activity" >}}**Join the UX Community**<br />
 The [User Experience Community of Practice](https://digital.gov/communities/user-experience/) (UX CoP) brings together government user experience practitioners to create better user-centered products for the public.
 
 **Join the CX Community**<br />

@@ -1,45 +1,44 @@
 {{ define "content" }}
-
-<main role="main" id="main-content">
-
-  <article>
-    <div class="grid-container">
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header>
-            {{/* The Parent Guide */}}
-            <h5 class="guide-title"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
-            {{/* Page Title */}}
-            <h1>{{ .Title | markdownify }}</h1>
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div>{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-            {{/* {{ partial "last-updated.html" . }} */}}
-          </header>
-        </div>
-      </div>
-
-      <div class="grid-row tablet-lg:grid-gap-6">
-
-        <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="content">
-            {{ .Content }}
+  <main role="main" id="main-content">
+    <article>
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <header>
+              {{/* The Parent Guide */}}
+              <h5 class="guide-title">
+                <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"
+                  >{{ .Parent.Title }}</a
+                >
+              </h5>
+              {{/* Page Title */}}
+              <h1>{{ .Title | markdownify }}</h1>
+              {{/* Deck */}}
+              {{- if .Params.deck -}}
+                <div>{{- .Params.deck | markdownify -}}</div>
+              {{- end -}}
+              {{/* {{ partial "last-updated.html" . }} */}}
+            </header>
           </div>
         </div>
 
-      </div>
+        <div class="grid-row tablet-lg:grid-gap-6">
+          <div class="grid-col-12 tablet-lg:grid-col-8">
+            <div class="content">
+              {{ .Content }}
+            </div>
+          </div>
+        </div>
 
-      <div class="grid-row tablet-lg:grid-gap-6">
-        <div class="grid-col-12">
-          {{ partial "core/page-data.html" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+        <div class="grid-row tablet-lg:grid-gap-6">
+          <div class="grid-col-12">
+            {{/* Touchpoints Form */}}
+            {{- partial "core/touchpoints-form.html" . -}}
+          </div>
         </div>
       </div>
-
-    </div>
-  </article>
-</main>
+    </article>
+  </main>
 
   {{ partial "core/overlay.html" . }}
-
-{{ end }} {{/* end 'content' block */}}
+{{ end }}

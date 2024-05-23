@@ -1,10 +1,10 @@
 ---
 slug: optimize-minify-compression
 date: 2018-12-21 10:00:00 -0500
-title: 'The Smaller the Better, When It Comes to Page Resources!'
-summary: "This week's addition to the Eight Principles of Mobile-Friendliness guide covers making page resources smaller to improve page rendering."
+title: "The smaller the better, when it comes to page resources!"
+summary: "Week six of our series covers making page resources smaller to improve page rendering."
 guide: mobile-principles
-
+primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/optimize-minify-compression
 
@@ -32,8 +32,8 @@ Your web server has gzip compression enabled (but may be configured differently 
 
 **General .htaccess** — Enable the zip parameters in the `.htaccess` file. Below is an example:
 
-<pre>
-&#60;ifModule mod_gzip.c&#62;
+```.htaccess
+<ifModule mod_gzip.c>
 mod_gzip_on Yes
 mod_gzip_dechunk Yes
 mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
@@ -42,12 +42,12 @@ mod_gzip_item_include mime ^text/.*
 mod_gzip_item_include mime ^application/x-javascript.*
 mod_gzip_item_exclude mime ^image/.*
 mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
-&#60; /ifModule&#62;
-</pre>
+</ifModule>
+```
 
-**Apache Server** — Enable the zip parameters in the .htaccess file. Below is an example:
+**Apache Server** — Enable the zip parameters in the `.htaccess` file. Below is an example:
 
-<pre>
+```.htaccess
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/html
 AddOutputFilterByType DEFLATE text/xml
@@ -57,11 +57,12 @@ AddOutputFilterByType DEFLATE application/xhtml+xml
 AddOutputFilterByType DEFLATE application/rss+xml
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
-</pre>
+```
 
 **NGINX Server** — Enable compression by adding the following code to your config file:
 
-<pre>
+
+```nginx
 gzip on;
 gzip_comp_level 2;
 gzip_http_version 1.0;
@@ -77,7 +78,8 @@ gzip_disable "MSIE [1-6].(?!.*SV1)";
 # Add a vary header for downstream proxies to avoid sending cached
 gzipped files to IE6
 gzip_vary on;
-</pre>
+```
+
 
 **Litespeed Server** — Under the server's configuration section, go to “Tuning” and make sure that “enable compression” is on.
 
@@ -101,20 +103,20 @@ The following is an example of how minification reduces a CSS file.
 
 The following is the CSS file text that has not been minimized:
 
-<pre>
-&#47;&#42; Slider Comment 1 &#42;&#47;
+```css
+/* Slider Comment 1 */
 
-&#35;slider ul &#123;
+#slider ul {
   position: relative;
   margin: 0;
   padding: 0;
   height: 200px;
   list-style: none;
-&#125;
+}
 
-&#47;&#42; Slider Comment 2 &#42;&#47;
+/* Slider Comment 2 */
 
-#slider ul li &#123;
+#slider ul li {
   position: relative;
   display: block;
   float: left;
@@ -125,8 +127,8 @@ The following is the CSS file text that has not been minimized:
   background: #ccc;
   text-align: center;
   line-height: 300px;
-&#125;
-</pre>
+}
+```
 
 The following is the CSS file text minimized, notice the difference, no white space and everything on one line:
 
@@ -254,4 +256,4 @@ In addition to the other performance recommendations above (such as enabling com
 
 ---
 
-_(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

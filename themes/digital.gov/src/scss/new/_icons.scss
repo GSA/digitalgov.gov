@@ -3,7 +3,7 @@
 // overrides usa-icon with different width and height
 @mixin base-icon {
   display: inline-block;
-  fill: currentColor;
+  fill: currentcolor;
   position: relative;
   vertical-align: middle;
 }
@@ -13,7 +13,7 @@ $icon-sizes: (
   small: units(2),
   standard: units(2.5),
   large: units(3),
-  extra-large: units(4)
+  extra-large: units(4),
 );
 
 .dg-icon {

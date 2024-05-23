@@ -4,7 +4,7 @@
 slug: socialgov-talks-leveraging-pop-culture-with-paul-lester-doe
 title: "SocialGov Talks: Leveraging Pop Culture With Paul Lester of the DOE"
 deck: ""
-summary: "Learn from a social media expert at Department of Energy how to use pop culture references as a jumping off point to talk about your agency’s work.  "
+summary: "Learn from a social media expert at Department of Energy how to use pop culture references as a jumping off point to talk about your agency’s work."
 host: "Socialgov"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/socialgov-talks-leveraging-pop-culture-with-paul-lester-of-the-doe-registration-66348428937
@@ -19,6 +19,7 @@ end_date: 2019-09-26 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - social-media
+  - podcast
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -40,7 +41,6 @@ weight: 0
 # Make it better ♥
 ---
 
-
 Join Paul Lester, Digital Content Specialist for the [Department of Energy](https://www.energy.gov/) (DOE), to discuss how DOE leveraged the popular TV show, _Stranger Things_ as a conversation starter about the agency’s mission and work using digital media (social media, blog, podcast, etc.). Paul will also discuss how he got management buy-in to use a pop culture phenomenon to promote the agency’s work.
 
 **A list of the blog posts we'll be talking about:**
@@ -55,7 +55,7 @@ Join Paul Lester, Digital Content Specialist for the [Department of Energy](http
 
 He moved to Washington in 2008 for a web editor role with [The Guardian](http://www.theguardian.com/us) before working as a contractor for the [Wind](https://www.energy.gov/node/779761) and [Water](https://www.energy.gov/node/779756) Technologies Office, the [Small Business Administration](https://www.sba.gov/), and DOE’s [Office of Energy Efficiency and Renewable Energy](https://www.energy.gov/eere/office-energy-efficiency-renewable-energy). Paul joined the Energy.gov team in March 2015, contributing to [Energy Blog](https://www.energy.gov/blog-archive) and assisting with managing the Energy Department’s [social media channels](https://www.energy.gov/about-us/web-policies/social-media). When he’s not in the office, Paul can be seen slowly running around D.C. training for his next half marathon.
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 
 This SocialGov Talk is hosted by [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media Community of Practice (CoP). SocialGov has over 1,200 members from 90+ departments and agencies across the federal government. 
 

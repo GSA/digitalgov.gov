@@ -7,13 +7,15 @@
   @include u-padding("105");
   @include u-padding-bottom(2);
   @include u-bg("white");
+
   display: grid;
-  transition: background-color 0.2s;
   gap: units("105"); // Vertical spacing on mobile and horizontal on desktop
+  transition: background-color 0.2s;
 
   @include at-media("tablet") {
     @include u-margin-bottom(1);
     @include u-padding("205");
+
     grid-template-areas:
       "c-content c-media"
       "c-meta c-meta";
@@ -32,6 +34,7 @@
     @include at-media("tablet") {
       grid-area: c-media;
     }
+
     @include at-media("tablet-lg") {
       order: unset;
     }
@@ -43,7 +46,6 @@
     }
   }
 
-
   .kicker {
     @include u-margin(0);
     @include u-margin-bottom("05");
@@ -52,15 +54,19 @@
     @include u-text("uppercase");
     @include u-color("primary-vivid");
   }
+
   h3 {
     @include u-margin(0);
     @include u-font("sans", "lg");
     @include u-text("bold");
+
     a {
       @include u-text("primary-darker");
       @include u-text("no-underline");
+
       &::after {
         content: "";
+
         @include u-position("absolute");
         @include u-top(0);
         @include u-left(0);
@@ -69,6 +75,7 @@
       }
     }
   }
+
   .card__summary,
   .deck {
     @include u-margin-top(1);
@@ -80,6 +87,7 @@
   .card__meta {
     @include u-margin-top("105");
     @include u-display("flex");
+
     @include at-media("tablet-lg") {
       @include u-margin-top("105");
     }
@@ -88,26 +96,29 @@
       @include u-margin-top(0);
       @include u-margin-right("105");
       @include u-font("sans", "2xs");
+
       @include at-media("tablet-lg") {
         @include u-font("sans", "xs");
         @include u-margin-right(2);
       }
+
       @include u-text("gray-cool-60");
       @include u-text("normal");
+
       a {
         @include u-text("gray-cool-60");
         @include u-text("no-underline");
+
         &:hover {
           @include u-border-bottom("2px", "accent-warm", "solid");
         }
       }
     }
-    .authors-list-short {
-    }
   }
 
   .media-featured {
     @include u-margin-bottom(2);
+
     @include at-media("tablet") {
       @include u-margin-bottom(0);
     }
@@ -117,27 +128,63 @@
 .card-linked {
   // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
   @include u-position("relative");
+
   &:hover {
     .paper {
       @include u-bg("gray-cool-2", !important);
     }
+
     h3 a {
       @include u-border-bottom("2px", "accent-warm", "solid");
     }
+
     .play {
       @include u-bg("primary-vivid");
     }
+
     .btn-register {
       @include u-bg("primary-vivid");
       @include u-text("white");
     }
+
     .topics {
       a {
         @include u-bg("indigo-warm-20");
+
         &:hover {
           @include u-bg("indigo-warm-30");
         }
       }
+    }
+  }
+}
+
+// Used in upcoming events section
+.card.card--placeholder {
+  @include u-font("ui", "lg");
+
+  border-top: 2px solid color("base-lighter");
+  display: block;
+  font-weight: font-weight(300);
+  padding: units(7);
+  text-align: center;
+}
+
+// topics page card-legislation
+.dg-card-legislation {
+  .usa-card-group {
+    margin: 0;
+
+    .usa-card__img {
+      background-color: white;
+    }
+
+    .usa-card__heading {
+      @include u-font("sans", "md");
+    }
+
+    img {
+      object-fit: contain;
     }
   }
 }

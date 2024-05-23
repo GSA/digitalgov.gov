@@ -1,0 +1,42 @@
+showNextPrevious: true
+showReadTime: true
+showInPageNav: true
+landingURL: "/guides/hcd"
+nav:
+  - title: "Overview"
+    path: "/guides/hcd/design-concepts/_index.md"
+  - title: "Design principles"
+    path: "/guides/hcd/design-concepts/design-phase-principles"
+    subnav:
+      - title: "Simple is hard"
+        path: "/guides/hcd/design-concepts/simple-is-hard"
+      - title: "Teamwork"
+        path: "/guides/hcd/design-concepts/teamwork"
+      - title: "Design for humans"
+        path: "/guides/hcd/design-concepts/design-for-humans"
+      - title: "Design at scale"
+        path: "/guides/hcd/design-concepts/design-at-scale"
+      - title: "Design for change"
+        path: "/guides/hcd/design-concepts/design-for-change"
+  - title: "Designed things"
+    path: "/guides/hcd/design-concepts/designed-things"
+    subnav:
+      - title: "Products"
+        path: "/guides/hcd/design-concepts/products"
+      - title: "Services"
+        path: "/guides/hcd/design-concepts/services"
+      - title: "Systems"
+        path: "/guides/hcd/design-concepts/systems"
+  - title: "Communicating ideas"
+    path: "/guides/hcd/design-concepts/communicating-ideas"
+    subnav:
+      - title: "Envisioning ideas"
+        path: "/guides/hcd/design-concepts/envisioning-ideas"
+      - title: "Iteration"
+        path: "/guides/hcd/design-concepts/iteration"
+      - title: "Feedback"
+        path: "/guides/hcd/design-concepts/feedback"
+  - title: "Design & Implementation"
+    path: "/guides/hcd/design-concepts/design-and-implementation"
+  - title: "Up next"
+    path: "/guides/hcd/design-concepts/up-next"

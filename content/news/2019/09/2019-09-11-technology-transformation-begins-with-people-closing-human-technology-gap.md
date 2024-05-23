@@ -5,16 +5,13 @@ title: 'Technology Transformation Begins With People&#58; Closing the Human-Tech
 summary: 'GSA&#39;s Technology Transformation Services is prototyping a human-centered approach to cultivating an environment of lifelong learning to attract and retain the best talent to serve our citizens&#46;'
 authors:
   - nina-bianchi
-categories:
-  - data
+
+topics:
   - design
   - emerging-tech
-  - managing-digital
-  - strategy-and-policy
-tag:
   - customer-experience
-  - cx
   - professional-development
+
 featured_image:
   uid: pif-people-transformation-1
   alt: ''

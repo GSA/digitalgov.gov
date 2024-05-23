@@ -1,31 +1,26 @@
+
 ---
 slug: track-time-and-wages-with-labors-timesheet-app
 date: 2015-09-24 10:00:37 -0400
 title: 'Track Time and Wages with Labor&#8217;s Timesheet App'
-summary: Believe it or not, even a couple years ago, I was using pen and paper to record and track the hours I worked. It was definitely a chore, reconciling work hours with leave, overtime and any number of other entries, week after week. However, in these times of mobile apps for almost anything, several products
+summary: "The U.S. Department of Labor has created a free mobile app for employees to independently capture and track the hours they work and determine the wages they are owed."
 authors:
   - nramprasad
 topics:
   - mobile
-  - mobile-apps
-  - native-app
-  - native-apps
-  - SSA
-  - the-united-states-social-security-administration
-  - thursday-mobile-products
-  - us-department-of-labor
-  - usa-gov-federal-mobile-apps-directory
 ---
 
-{{< legacy-img src="2015/09/600-x-400-Timesheet-Form-Hailshadow-iStock-Thinkstock-492303047.jpg" alt="A paper timesheet form" caption="" >}} 
-
 Believe it or not, even a couple years ago, I was using pen and paper to record and track the hours I worked. It was definitely a chore, reconciling work hours with leave, overtime and any number of other entries, week after week. However, in these times of mobile apps for almost anything, several products are available to capture and track time. While this category is quite crowded, the U.S. Department of Labor has created a free mobile app for employees to independently capture and track the hours they work and determine the wages they are owed.
+
+{{< legacy-img src="2015/09/600-x-400-Timesheet-Form-Hailshadow-iStock-Thinkstock-492303047.jpg" alt="A paper timesheet form" caption="Hailshadow/iStock/Thinkstock" >}} 
 
 The app is currently compatible with the iPhone and iPod Touch and is available for download from [iTunes](https://itunes.apple.com/us/app/dol-timesheet/id433638193?mt=8) in both English and Spanish. It is categorized as a utility and has a very small footprint. The app can be downloaded in less than a minute and is easy to use, with the added convenience of increasing/decreasing the size of display screens with just a click.
 
 The app opens up and directs you to add one or more employers. Once you add the employers, you are able to start recording regular work hours and break time on any working day for the chosen employer. The app automatically computes any hours over the regular 40 hours / week as overtime hours.
 
-{{< legacy-img src="2015/09/250-x-444-U.S.-Department-of-Labor-DOL-Timesheet-App.jpg" alt="U.S. Department of Labor Timesheet App" >}}Although the app includes overtime pay calculations at a rate of one and one-half times (1.5) the regular rate of pay for all hours you work over 40 in a workweek, the app does not handle items such as tips, commissions, bonuses, deductions, holiday pay, pay for weekends, shift differentials, or pay for regular days of rest.
+{{< legacy-img-right src="2015/09/250-x-444-U.S.-Department-of-Labor-DOL-Timesheet-App.jpg" alt="U.S. Department of Labor Timesheet App" >}}
+
+Although the app includes overtime pay calculations at a rate of one and one-half times (1.5) the regular rate of pay for all hours you work over 40 in a workweek, the app does not handle items such as tips, commissions, bonuses, deductions, holiday pay, pay for weekends, shift differentials, or pay for regular days of rest.
 
 You are able to obtain weekly and monthly summaries of the hours worked and the wages. The app gives you the ability to email a report of time worked for a chosen date range to any of your contacts.
 

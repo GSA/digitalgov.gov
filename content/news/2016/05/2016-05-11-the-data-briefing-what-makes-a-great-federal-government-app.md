@@ -2,32 +2,12 @@
 slug: the-data-briefing-what-makes-a-great-federal-government-app
 date: 2016-05-11 11:00:51 -0400
 title: 'The Data Briefing: What Makes a Great Federal Government App?'
-summary: 'USAGov recently released a list of six great federal government mobile apps. There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. Many are well-designed and useful to the American public. So, what are the outstanding federal government apps for 2016?'
+summary: 'There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. So, what are the outstanding federal government apps for 2016?'
 authors:
   - bbrantley
 topics:
-  - data
   - mobile
-  - cdc
-  - Census
-  - centers-for-disease-control-and-prevention
-  - federal-emergency-management-agency
-  - fema
-  - Internal Revenue Service
-  - IRS
-  - mobile
-  - mobile-apps
-  - native-app
-  - native-apps
-  - State
-  - the-data-briefing
-  - US Department of Agriculture
-  - us-department-of-state
-  - united-states-census-bureau
-  - United States Patent and Trademark Office
-  - usagov
-  - USDA
-
+  - emerging-tech
 ---
 
 USAGov recently released a <a href="http://www.prnewswire.com/news-releases/discover-six-of-the-governments-best-mobile-apps-300236300.html" target="_blank">list of six great federal government mobile apps</a>. There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. Many are well-designed and useful to the American public. So, what are the outstanding federal government apps for 2016?
@@ -51,4 +31,4 @@ The federal government is continually releasing apps and will offer even more ap
 
 ***
 
-_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Each week, [The Data Briefing]({{< ref "/topics/emerging-tech" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -7,11 +7,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - mobile-apps
-  - NARA
-  - national-archives-and-records-administration
-  - thursday-mobile-products
-  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-Constitutional-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Constitutional amendment screen on an iPad" >}}

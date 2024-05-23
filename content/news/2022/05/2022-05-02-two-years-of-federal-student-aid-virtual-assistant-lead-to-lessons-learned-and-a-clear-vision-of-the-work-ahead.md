@@ -5,9 +5,8 @@ summary: Education's FSA team behind Aidan® shares what they’ve learned over 
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - cx
+  - customer-experience
   - user-experience
-  - chatbots
   - artificial-intelligence
   - security
 # See all authors at https://digital.gov/authors
@@ -85,4 +84,4 @@ Improvement is a never-ending process, and our team is continually seeking ways 
 
 **Related Information**
 
-[Using Chatbots To Improve Customer Experience](https://digital.gov/2021/04/07/using-chatbots-to-improve-customer-experience/): A cross-agency panel hosted by the [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) shares how they have used chatbots and other virtual assistants to improve [customer experience](https://digital.gov/topics/cx/). Aidan is covered by [Abraham Marinez](https://digital.gov/authors/abraham-marinez/) of FSA.
+[Using Chatbots To Improve Customer Experience](https://digital.gov/2021/04/07/using-chatbots-to-improve-customer-experience/): A cross-agency panel hosted by the [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) shares how they have used chatbots and other virtual assistants to improve [customer experience](https://digital.gov/topics/customer-experience/). Aidan is covered by [Abraham Marinez](https://digital.gov/authors/abraham-marinez/) of FSA.

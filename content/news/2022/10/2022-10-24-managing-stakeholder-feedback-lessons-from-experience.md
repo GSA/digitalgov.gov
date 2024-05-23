@@ -8,10 +8,8 @@ summary: During the 2022 Plain Language Summit, Stephanie Morrison from the Depa
 topics:
   - plain-language
   - research
-  - user-research
   - usability
-  - writing
-  - training
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - alexander-wilson
@@ -63,4 +61,4 @@ At times you will disagree with suggestions or feedback. It's normal to feel def
 
 While asking stakeholders to review and make suggestions on a document can be tricky, these tips will set you up for success when working with reviews within, as well as outside of, your agency.
 
-{{< note "action" >}}To connect with others, [join the Plain Language Community of Practice](https://digital.gov/communities/plain-language/). Visit the PlainLanuage.gov website to review its [guidelines](https://www.plainlanguage.gov/guidelines/), and explore [resources](https://www.plainlanguage.gov/resources/) and [examples](https://www.plainlanguage.gov/examples/) across a variety of content types.{{< /note >}}
+{{< note variant="action" >}}To connect with others, [join the Plain Language Community of Practice](https://digital.gov/communities/plain-language/). Visit the PlainLanuage.gov website to review its [guidelines](https://www.plainlanguage.gov/guidelines/), and explore [resources](https://www.plainlanguage.gov/resources/) and [examples](https://www.plainlanguage.gov/examples/) across a variety of content types.{{< /note >}}

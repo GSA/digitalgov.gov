@@ -2,15 +2,25 @@
 title: "Guides and Resources"
 deck: ":evergreen_tree: Essential ‘how-to’ guidance for product managers in government."
 summary: "Essential ‘how-to’ guidance from across government product managers in government."
+
 aliases:
   - /tools/
   - /pages/
   - /coronavirus/
   - /resources/coronavirus-covid19-guidance-for-us-government/
+  - /hawaii-wildfires/
+  - /resources/hawaii-wildfires-guidance-for-us-government/
+  - /hurricane-idalia/
+  - /resources/hurricane-idalia-guidance-for-us-government/
+  - /topics/consumer-action-handbook/
+  - /topics/fact-sheet/
+  - /topics/federal-register/
+  - /topics/government-publishing-office/
+  - /topics/gpo/
+  - /topics/pbs/
+  - /topics/public-buildings-service/
+
 ---
-
-
-
 
 {{< search-resources >}}
 
@@ -51,7 +61,7 @@ aliases:
 
 ## Customer Experience
 
-- [Customer Experience Community of Practice (CX-COP)]({{< ref "customer-experience.md" >}})
+- [Customer Experience Community of Practice (CX-COP)]({{< ref "/communities/customer-experience.md" >}})
 - [Customer Experience Toolkit]({{< ref "customer-experience-toolkit.md" >}})
 - [Government Customer Service Policies & Requirements]({{< ref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 - [Paperwork Reduction Act Fast Track Process]({{< ref "paperwork-reduction-act-fast-track-process.md" >}})

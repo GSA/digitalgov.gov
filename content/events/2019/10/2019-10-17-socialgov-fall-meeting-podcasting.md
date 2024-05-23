@@ -19,6 +19,7 @@ end_date: 2019-10-17 14:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - social-media
+  - podcast
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -90,4 +91,4 @@ SocialGov’s fall meeting is bringing together four top experts in federal podc
 
 _This meeting is the fall meeting for [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from 90+ departments and agencies across the federal government._
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 

@@ -2,19 +2,29 @@
 {{/* Mostly used in the style guide. */}}
 
 {{- if .Get "path" -}}
-{{- $path := .Get "path" -}}
+  {{- $path := .Get "path" -}}
 
-<div class="theme-img {{ if .Get "bg" -}}{{- .Get "bg" -}}{{- end -}}">
-  <img src="{{- $path | relURL -}}" alt="{{- .Get "alt" -}}" {{ if .Get "width" -}}width="{{- .Get "width" -}}"{{- end -}}>
-  <p>
-    <strong class="ext">{{- path.Ext $path }}</strong> {{- path.Base $path }} 
-    <a class="download" href="{{- path.Base $path | relURL -}}">
-      <svg class="usa-icon dg-icon dg-icon--standard margin-bottom-05" aria-hidden="true" focusable="false">
-        <use xlink:href="{{ "uswds/img/sprite.svg#file_unload" | relURL }}"></use>
-      </svg>
-      <span>download</span>
-    </a>
-  </p>
-</div>
 
+  <div class="theme-img {{ if .Get "bg" -}}{{- .Get "bg" -}}{{- end -}}">
+    <img
+      src="{{- $path | relURL -}}"
+      alt="{{- .Get "alt" -}}"
+      {{ if .Get "width" -}}width="{{- .Get "width" -}}"{{- end -}}
+    />
+    <p>
+      <strong class="ext">{{- path.Ext $path }}</strong> {{- path.Base $path }}
+      <a class="download" href="{{- path.Base $path | relURL -}}">
+        <svg
+          class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use
+            xlink:href="{{ "uswds/img/sprite.svg#file_unload" | relURL }}"
+          ></use>
+        </svg>
+        <span>download</span>
+      </a>
+    </p>
+  </div>
 {{- end -}}

@@ -5,9 +5,9 @@ title: "Zero Pageviews Is Your Goal: Finding Problem Pages with Website Analytic
 summary: Improve customer experience by turning your website analytics upside down to track the numbers for pages you DON’T want visitors to see.
 # See all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - data
-  - cx
+  - analytics
+  - open-data
+  - customer-experience
   - usability
 # See all authors at https://digital.gov/authors
 authors:

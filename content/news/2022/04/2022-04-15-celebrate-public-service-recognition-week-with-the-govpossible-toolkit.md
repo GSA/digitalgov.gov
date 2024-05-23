@@ -14,7 +14,7 @@ deck: "**Celebrate Public Service Recognition Week with the #GovPossible Toolkit
 summary: summ
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
 # See all authors at https://digital.gov/authors
 authors:
   - catie-miller

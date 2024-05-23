@@ -6,9 +6,7 @@ summary: 'You probably have heard this before, or may even hear it all the time,
 authors:
   - kyle-s-richardson
 topics:
-  - content
-  - firstnet
-  - the-content-corner
+  - content-strategy
 ---
 
 You probably have heard this before, or may even hear it all the time, “Content is King.” What that means is, that in today’s fast moving digital communications age, with social media as the driver—organizations (agencies) must have a content plan to stay relevant.
@@ -75,4 +73,4 @@ As you look to develop your content strategy, remember these words from Gary Vay
 
 > “Every single tweet, every comment you leave, every post, every image you make becomes part of your brand. Period. Every time you post, you need to be laddering it back to your brand’s goals. Your core story needs to be consistent and your personality needs to be constant too. Doing this sets up a larger narrative, the broad context, for your content to succeed and have a clear message.”
 
-What other types of unique content do you think agencies should be leveraging?_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+What other types of unique content do you think agencies should be leveraging?_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

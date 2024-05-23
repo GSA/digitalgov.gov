@@ -1,0 +1,10 @@
+# https://s3.amazonaws.com/digitalgov/hcd-guide-intro-1.png
+  # Image shortcode: {{< img src=hcd-guide-intro-1 >}}'
+  date     :  2023-08-03 20:50:42 -0400
+  uid      :  hcd-guide-intro-1
+  width    :  1200
+  height   :  589
+  format   :  png
+  credit   :  
+  caption  :  
+  alt      : "Four circles indicate the four phases of Human Centered Design: discovery, design, delivery, and measurement. Arrows connect these circles to indicate that the process is also cyclical, and steps need to be repeated at different phases."

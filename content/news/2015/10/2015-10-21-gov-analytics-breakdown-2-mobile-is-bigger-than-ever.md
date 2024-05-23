@@ -2,35 +2,35 @@
 slug: gov-analytics-breakdown-2-mobile-is-bigger-than-ever
 date: 2015-10-21 13:22:30 -0400
 title: 'Gov Analytics Breakdown #2: Mobile Is Bigger than Ever'
-summary: 'A review of the Digital Analytics Program (DAP) data confirms what many are already saying: Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing. Three things are evident when looking at the breakdown of sessions on federal government websites across device types over the'
+summary: 'A review of the Digital Analytics Program (DAP) data confirms what many are already saying: Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.'
+
 authors:
   - tlowden
+
 topics:
-  - data
-  - metrics
-  - mobile
+  - open-data
   - analytics
-  - cx
-  - dap
-  - data
-  - digital-analytics-program
   - mobile
+  - customer-experience
   - user-experience
+
 ---
 
 A review of the <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**
 
 Three things are evident when looking at the breakdown of sessions on federal government websites across device types over the last three years:
 
-  * Percentage of tablet sessions stayed about the same (~7%)
-  * Share of sessions via desktop (includes laptop) dropped significantly (from 80% to 66%)
-  * Share of sessions via mobile devices (not including tablet) more than doubled (from 13% to 27%)
+* Percentage of tablet sessions stayed about the same (~7%)
+* Share of sessions via desktop (includes laptop) dropped significantly (from 80% to 66%)
+* Share of sessions via mobile devices (not including tablet) more than doubled (from 13% to 27%)
 
 {{< legacy-img src="2015/10/600-x-371-Desk-Mobile-tablet.jpg" alt="A chart showing the Percentage of Device Usage for desktop, mobile, and tablets, covering the years 2013, 2014, and 2015. It shows that while tablet usage has remained pretty steady, desktop usage has decreased and mobile usage has increased." >}}
 
 Within the last year, we saw the combined mobile and tablet percentage exceed one-third of all sessions. **A third of the time, content on DAP-participating websites is viewed via mobile or tablet**, which has significant implications for Web design, responsiveness and mobile websites.
 
-## Brands and Devices_Note: In an effort to make things simpler, the term “mobile” is used in the following paragraphs to refer to both handheld mobile devices and tablets._
+## Brands and Devices
+
+_Note: In an effort to make things simpler, the term “mobile” is used in the following paragraphs to refer to both handheld mobile devices and tablets._
 
 If we look at mobile sessions on their own (not compared to desktop), Apple devices account for almost half of the total mobile share in 2015. The iPhone (34% of mobile sessions) and the iPad (15%) combine to make Apple the most used mobile brand. That said, sessions viewed on one of the many versions of the Samsung Galaxy add up to make it the number two device, contributing about 21% of the share of total mobile sessions. As evidenced in the chart below, after that, there’s quite a dropoff. LG and Motorola represent about 8% of mobile sessions combined; HTC, Sony, Nokia and Amazon all have slightly over 1% each (not shown in chart).
 
@@ -57,5 +57,8 @@ In sum, one-in-three visits to federal websites are on a mobile device (includin
 
 We hope this information proves useful as you think about the maintenance, design and creation of federal sites!
 
-**_*For all DAP figures cited, the date range of August 16 &#8211; September 15 was used in the three consecutive years (2013, 2014 and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight into the public’s behavior trends._**_Author’s Note: This is Part 2 of a blog in which we use data from the Digital Analytics Program (DAP) to discuss shifts in the ways the public interacts with U.S. federal government websites. This part focuses on mobile vs desktop usage, while <a href="{{< ref "2015-10-15-gov-analytics-breakdown-1-browsers-chrome-takes-the-cake.md" >}}" target="_blank">Part 1 discussed browser usage</a>. The DAP collects data from more than 4,000 U.S. federal government websites. See more data at <a href="http://analytics.usa.gov" target="_blank">analytics.usa.gov</a>._
-_To learn more about the <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program</a>, request access to the data (federal employees only) or to learn how to participate, <a href="mailto:dap@support.digitalgov.gov" target="_blank">email DAP support</a>._
+_* For all DAP figures cited, the date range of August 16 - September 15 was used in the three consecutive years (2013, 2014 and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight into the public’s behavior trends._
+
+_Author’s Note: This is Part 2 of a blog in which we use data from the Digital Analytics Program (DAP) to discuss shifts in the ways the public interacts with U.S. federal government websites. This part focuses on mobile vs desktop usage, while [Part 1 discussed browser usage](https://digital.gov/2015/10/15/gov-analytics-breakdown-1-browsers-chrome-takes-the-cake/). The DAP collects data from more than 4,000 U.S. federal government websites. See more data at <a href="http://analytics.usa.gov">analytics.usa.gov</a>._
+
+_To learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/), request access to the data (federal employees only), or to learn how to participate, <a href="mailto:dap@gsa.gov">email DAP support</a>._

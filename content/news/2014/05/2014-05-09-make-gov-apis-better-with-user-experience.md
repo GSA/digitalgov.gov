@@ -6,20 +6,10 @@ summary: 'APIs and User Experience go together like gummi bears and ice cream. A
 authors:
   - jonathan-rubin
 topics:
-  - api
-  - code
-  - user-testing-and-research
+  - application-programming-interface
+  - software-engineering
+  - research
   - user-experience
-  - 18f
-  - api
-  - api-keys
-  - digitalgov-user-experience-program
-  - federal-emergency-management-agency
-  - fema
-  - OPM
-  - US Department of Agriculture
-  - united-states-office-of-personnel-management
-  - USDA
 ---
 
 [{{< legacy-img src="2014/05/250-x-150-API-Blog-image-circles.jpg" alt="A graphic depicting how APIs help build apps, which are then used by citizens, industry and government." >}}APIs]({{< ref "2013-04-30-apis-in-government.md" >}}) and [User Experience](http://www.usability.gov/what-and-why/user-experience.html) go together like gummi bears and ice cream.

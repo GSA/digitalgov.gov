@@ -6,12 +6,9 @@ summary: 'Federal agencies now have the ability to create a challenge competitio
 authors:
   - tlowden
 topics:
-  - challenges
   - crowdsourcing-and-citizen-science
-  - challenge-gov
-  - crowdsourcing
+  - challenges-and-prize-competitions
   - innovation
-  - recaps
 ---
 
 Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool.
@@ -62,7 +59,5 @@ _(Click on the hyperlink to be taken directly to that discussion point in the we
     The discussion section allows the solvers to ask questions and interact with other competitors or [with the challenge manager](http://www.youtube.com/watch?v=Yw58jVvppAw&feature=youtu.be&t=14m).
 
 Challenge.sites.usa.gov was built with the shared sites.usa.gov service, which aims to offer agencies a system to provide content without having to build a site from scratch.
-
-{{< youtube Yw58jVvppAw >}}
 
 For more information, contact the team at <challenge@gsa.gov>. Happy crowdsourcing!

@@ -13,9 +13,8 @@ summary: Aidan, Federal Student Aid’s new virtual assistant, gives customers
   servicers, and more, without having to contact a call center.
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
+  - customer-experience
   - artificial-intelligence
-  - chatbots
 # See all authors at https://digital.gov/authors
 authors:
   - abraham-marinez

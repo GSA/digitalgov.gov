@@ -6,20 +6,15 @@ summary: Multilingual does not always mean multiple accounts or websites. Increa
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
   - analytics
-  - content-strategy
-  - Library of Congress
-  - LOC
-  - metadata
+  - search-engine-optimization
   - multilingual
-  - responsive-web-design
-  - social-media
-  - Twitter
+  - mobile
 ---
 
-{{< legacy-img src="2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, Welcome, in various languages" caption="" >}} 
+{{< legacy-img src="2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, Welcome, in various languages" caption="" >}}
 
 Multilingual does not always mean multiple accounts or websites. Increasingly, multilingual content is delivered in an integrated way, with two (or more!) languages delivered on the same website, app, or social media platform.
 
@@ -29,15 +24,15 @@ WDL is a project of the Library of Congress and is supported by the United Natio
 
 ## The WDL Website
 
-Jason Yasner, Operations Manager for WDL, said the project has been very well-received around the world. In 2014, the site had 3.3 million unique visitors, 3.9 million visits, and 25.1 million pageviews. The top 10 countries for unique visitors in 2014 were the United States, Brazil, Spain, Mexico, United Kingdom, Germany, France, China, Argentina, and the Russian Federation. Usage has since expanded significantly following the introduction of a revamped user interface (UI) in November 2014 that offers new features and that is [optimized for mobile]({{< ref "/topics/responsive-web-design" >}}) and tablet access.
+Jason Yasner, Operations Manager for WDL, said the project has been very well-received around the world. In 2014, the site had 3.3 million unique visitors, 3.9 million visits, and 25.1 million pageviews. The top 10 countries for unique visitors in 2014 were the United States, Brazil, Spain, Mexico, United Kingdom, Germany, France, China, Argentina, and the Russian Federation. Usage has since expanded significantly following the introduction of a revamped user interface (UI) in November 2014 that offers new features and that is [optimized for mobile]({{< ref "/topics/mobile" >}}) and tablet access.
 
 Yasner noted that there are several Spanish-speaking countries on the list, and in past years, Spain was the number one country with Brazil and United States vying for number two. The WDL actively reviews their content to better serve their audiences.
 
 “We’d like to have more users from Arabic-speaking countries and are implementing strategies to attain this.” Yasner said. “One is working on better ways to display the content and make it more engaging, e.g., timelines, interactive maps, and themes.”
 
-All navigation tools, [metadata]({{< ref "/topics/metadata" >}}), and content descriptions are provided in the seven interface languages. Metadata and descriptions can be listened to with a text-to-voice conversion option that is available for every item in all seven languages, as well.
+All navigation tools, [metadata]({{< ref "/topics/search-engine-optimization" >}}), and content descriptions are provided in the seven interface languages. Metadata and descriptions can be listened to with a text-to-voice conversion option that is available for every item in all seven languages, as well.
 
-## Making Content Multilingual {{< legacy-img src="2015/04/600-x-437-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Language poster design using social speech bubbles with the word, Hello, in various languages" caption="" >}} 
+## Making Content Multilingual {{< legacy-img src="2015/04/600-x-437-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Language poster design using social speech bubbles with the word, Hello, in various languages" caption="" >}}
 
 WDL’s partner organizations play a critical role in delivering WDL’s multilingual content. Currently, WDL has 185 partners from 81 countries.
 

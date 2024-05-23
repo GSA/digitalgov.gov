@@ -13,7 +13,7 @@ deck: "**Search.gov 2021 Year In Review**&mdash;This report explores the top
 summary: Search.gov 2021 Year In Review
 # See all topics at https://digital.gov/topics
 topics:
-  - 21st-century-idea
+  - digital-service-delivery
 # See all authors at https://digital.gov/authors
 authors:
   - dmccleskey

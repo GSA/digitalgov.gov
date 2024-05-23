@@ -4,8 +4,8 @@ date: 2015-11-12 3:18:42 -0400
 title: "Executive Order 13571&#8211;Streamlining Service Delivery and Improving Customer Service"
 summary: "The Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service &#8220;requires agencies that provide significant services directly to the public to identify and survey their customers, establish service standards and track performance against those standards, and benchmark customer service performance against the best in business.&#8221; View Executive Order 13571&#8211;Streamlining Service Delivery and Improving Customer Service"
 topics:
+  - customer-experience
   - policy
-  - customer-service
 authors:
   - andreanocesigritz
 ---

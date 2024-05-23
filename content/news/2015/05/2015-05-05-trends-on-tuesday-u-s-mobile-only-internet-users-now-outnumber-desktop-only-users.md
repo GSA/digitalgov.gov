@@ -7,12 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - mobile-ux-guideline-1
-  - mobile-first
-  - mobile-friendly
-  - native-app
-  - trends-on-tuesday
-  - us-national-park-service
+  - emerging-tech
 ---
 
 {{< legacy-img src="2015/05/600-x-369-comScore-Single-Platform-Users-Share-of-Total-Digital-Population_reference.jpg" alt="comScore graph showing Single-Platform Users Share of Total Digital Population" >}}
@@ -25,4 +20,4 @@ What’s even more interesting is the drop desktop-only usage has taken over the
 
 While desktops won’t disappear anytime soon, especially for highly complex tasks, mobile and tablet devices are clearly becoming the primary tool for audiences to interact with the Internet and [they’re growing more comfortable with complex tasks on the smaller, touch interfaces]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}).
 
-So, government agencies should [join our friends at the National Park Service]({{< ref "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) and get [mobile-friendly fast]({{< ref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}} "Helpful Resources to Make Your Content Mobile-Friendly"). If your organization is not already moving swiftly to prepare for a [mobile-first]({{< ref "/topics/mobile-first" >}}) and mobile-majority audience, it’s time to start immediate plans to prepare for the future because in many ways, it’s already here.
+So, government agencies should [join our friends at the National Park Service]({{< ref "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) and get [mobile-friendly fast]({{< ref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}} "Helpful Resources to Make Your Content Mobile-Friendly"). If your organization is not already moving swiftly to prepare for a [mobile-first]({{< ref "/topics/mobile" >}}) and mobile-majority audience, it’s time to start immediate plans to prepare for the future because in many ways, it’s already here.

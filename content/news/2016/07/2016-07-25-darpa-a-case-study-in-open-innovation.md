@@ -6,24 +6,11 @@ summary: 'You may not know it, but the Defense Advanced Research Projects Agency
 authors:
   - eric-beidel
 topics:
-  - challenges
-  - crowdsourcing-and-citizen-science
-  - product-management
-  - challenge-gov
   - challenges-and-prize-competitions
-  - challenges-and-prizes-community-of-practice
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - DARPA
-  - defense-advanced-research-projects-agency
-  - DoD
+  - crowdsourcing-and-citizen-science
+  - product-and-project-management
   - innovation
   - open-government
-  - prizes-and-competitions
-  - technology-transformation-services
-  - tts
-  - united-states-department-of-defense
-
 ---
 
 You may not know it, but the Defense Advanced Research Projects Agency, or DARPA, has changed your life.

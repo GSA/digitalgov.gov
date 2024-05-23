@@ -6,9 +6,9 @@ summary: 'In our very first customer experience (CX) blog post about GSA’s Off
 authors:
   - martha-dorris
 topics:
-  - product-management
-  - cx
-  - customer-satisfaction
+  - product-and-project-management
+  - customer-experience
+  - customer-experience
 ---
 
 {{< legacy-img src="2014/06/250-x-240-Customer-Service-Experience-NemanjaZs-iStock-Thinkstock-462082529.jpg" alt="Customer word puzzle" caption="" >}} 

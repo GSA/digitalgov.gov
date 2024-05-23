@@ -2,8 +2,8 @@
 
 // Notice Bar
 
-.notice-bar{
+.notice-bar {
   @include u-padding-y(4);
-  @include u-font('sans', 'lg');
-  @include u-bg('gold-20v');
+  @include u-font("sans", "lg");
+  @include u-bg("gold-20v");
 }

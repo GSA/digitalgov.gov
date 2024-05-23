@@ -2,14 +2,13 @@
 slug: fedramp-5th-anniversary
 date: 2017-06-13 14:10:23 -0400
 title: FedRAMP 5th Anniversary
-summary: 'This week we’re excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue meeting our partners’ evolving needs. FedRAMP'
+summary: "This week we are excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue to meet the evolving needs of our partners ."
 authors:
   - fedramp
 topics:
-  - product-management
-  - cloud
-  - fedramp
-
+  - product-and-project-management
+  - cloud-and-infrastructure
+  - security
 ---
 
 This week we’re excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue meeting our partners’ evolving needs.
@@ -22,53 +21,24 @@ A few things we are particularly proud of:
 
 <table>
   <tr>
-    <td>
-      <b>2012</b>
-    </td>
-    
-    <td>
-      <b>2017</b>
-    </td>
+    <td><b>2012</b></td>
+    <td><b>2017</b></td>
   </tr>
-  
   <tr>
-    <td>
-      <b>1</b> authorized Cloud Service Provider (CSP)
-    </td>
-    
-    <td>
-      <b>82</b> authorized CSPs (100% year-over-year growth with no funding increase)
-    </td>
+    <td><b>1</b> authorized Cloud Service Provider (CSP)</td>
+    <td><b>82</b> authorized CSPs (100% year-over-year growth with no funding increase)</td>
   </tr>
-  
   <tr>
-    <td>
-      <b>12-18</b> month timeframe for the Joint Authorization Board (JAB) authorization process
-    </td>
-    
-    <td>
-      <b>3-6</b> month timeframe for the JAB authorization process (75% time reduction)
-    </td>
+    <td><b>12-18</b> month timeframe for the Joint Authorization Board (JAB) authorization process</td>
+    <td><b>3-6</b> month timeframe for the JAB authorization process (75% time reduction)</td>
   </tr>
-  
   <tr>
-    <td>
-      <b>1</b> baseline for cloud authorizations: FedRAMP Low/Moderate
-    </td>
-    
-    <td>
-      <b>4</b> baselines in response to stakeholder needs and feedback: FedRAMP Low, FedRAMP Moderate, FedRAMP High, FedRAMP Tailored (to be released late summer)
-    </td>
+    <td><b>1</b> baseline for cloud authorizations: FedRAMP Low/Moderate</td>
+    <td><b>4</b> baselines in response to stakeholder needs and feedback: FedRAMP Low, FedRAMP Moderate, FedRAMP High, FedRAMP Tailored (to be released late summer)</td>
   </tr>
-  
   <tr>
-    <td>
-      <b>3</b> JAB agencies (DoD, DHS, GSA) initially engaged
-    </td>
-    
-    <td>
-      <b>107</b> agencies and all <b>24</b> CFO Act agencies agencies engaged
-    </td>
+    <td><b>3</b> JAB agencies (DoD, DHS, GSA) initially engaged</td>
+    <td><b>107</b> agencies and all <b>24</b> CFO Act agencies agencies engaged</td>
   </tr>
 </table>
 

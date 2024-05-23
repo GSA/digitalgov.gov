@@ -6,8 +6,8 @@ summary: 'Help us celebrate the Everyday Heroes in our agencies during Customer 
 authors:
   - alison-sturgeon
 topics:
-  - product-management
-  - customer-service
+  - product-and-project-management
+  - customer-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" caption="" >}} 

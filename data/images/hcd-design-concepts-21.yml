@@ -1,0 +1,11 @@
+
+  # https://s3.amazonaws.com/digitalgov/hcd-design-concepts-21.png
+  # Image shortcode: {{< img src=hcd-design-concepts-21 >}}'
+  date     :  2023-08-04 00:15:45 -0400
+  uid      :  hcd-design-concepts-21
+  width    :  2070
+  height   :  844
+  format   :  png
+  credit   :  
+  caption  : "This four-phase diagram shows the Human-Centered Design process. The four phases shown in the circles are: discovery, design, deliver, and measure. These phases are sequential with the expectation that the process as a whole will be cyclical. Each part builds on and references each other, and teams can revisit previous phases as they find the need or investigate different aspects of their project."
+  alt      : "Four circles indicate the four phases of Human Centered Design: discovery, design, delivery, and measurement. Arrows connect these circles to indicate that the process is also cyclical, and steps need to be repeated at different phases. The delivery phase is highlighted."

@@ -6,14 +6,10 @@ summary: 'This is the fifth in a series describing how the Social Security Admin
 authors:
   - rob-klopp
 topics:
-  - code
-  - product-management
-  - strategy
-  - policy
-  - architecture
-  - infrastructure
-  - SSA
-  - the-united-states-social-security-administration
+  - software-engineering
+  - product-and-project-management
+  - content-strategy
+  - cloud-and-infrastructure
 ---
 
 > _This is the fifth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure. You can find part 1 [here](https://cio.gov/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/), part 2 [here](https://cio.gov/modernizing-federal-it-part-2-the-gravity-of-ip/), part 3 [here](https://cio.gov/modernizing-federal-it-part-3-teasing-apart-the-problem/) and part 4 [here](https://cio.gov/modernizing-federal-it-part-4-building-a-modern-data-foundation/)._

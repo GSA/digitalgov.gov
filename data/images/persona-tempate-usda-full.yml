@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/persona-tempate-usda-full.png
+  # Image shortcode: {{< img src=persona-tempate-usda-full >}}'
+  date     :  2023-05-20 01:16:29 -0400
+  uid      :  persona-tempate-usda-full
+  width    :  1200
+  height   :  927
+  format   :  png
+  credit   :  
+  caption  :  "U.S. Department of Agriculture"
+  alt      :  "A blue and white template from the USDA has placeholder fields for a persona name, photo, demographics, and a couple of user story description paragraphs. It also has short bulleted lists to add goals, motivations, frustrations, previous experience, and expectations." 
+  

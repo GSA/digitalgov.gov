@@ -18,7 +18,8 @@ end_date: 2019-07-25 16:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - data
+  - software-engineering
+  - emerging-tech
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -40,4 +41,4 @@ Come and learn about the eight year journey of integrating machine learning (ML)
 
 Joining us will be presenter **Alex Measure**, an economist-turned-machine learning and natural language processing (NLP) practitioner at BLS. He designs, builds, and maintains machine learning systems that automate difficult text classification, information extraction, and record-matching problems in production systems. 
 
-_Questions about this event or future events? Email them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+_Questions about this event or future events? Email them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._ 

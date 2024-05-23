@@ -18,20 +18,18 @@ end_date: 2019-12-03 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - devops
-  - big-data
-  - cloud
-  - dod
-  - internet-of-things
-  - united-states-air-force
-  - virtual-reality
+  - software-engineering
+  - analytics
+  - cloud-and-infrastructure
+  - emerging-tech
+  - multimedia
 
 # see all authors at https://digital.gov/authors
 authors: 
   - nicolas-chaillan
 
 # YouTube ID
-youtube_id: RB7s9xCW2CM
+youtube_id: 
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -58,4 +56,4 @@ In addition to his public service, Mr. Chaillan is a technology entrepreneur, so
 
 **Join the DevOps Community** by visiting [our community page](https://digital.gov/communities/devops/).
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._

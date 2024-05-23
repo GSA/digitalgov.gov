@@ -6,17 +6,10 @@ summary: If you have ever been a caregiver for an elderly family member or frien
 authors:
   - bbrantley
 topics:
-  - api
-  - administration-on-aging
-  - api
-  - HHS
-  - OPM
-  - united-states-department-of-health-and-human-services
-  - united-states-office-of-personnel-management
-  - wednesday-api-briefing
+  - application-programming-interface
 ---
 
-{{< legacy-img src="2014/09/600-x-400-Old-and-young-hands-hxdbzxy-iStock-Thinkstock-457342679.jpg" alt="Old and young hands" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-400-Old-and-young-hands-hxdbzxy-iStock-Thinkstock-457342679.jpg" alt="Old and young hands" caption="" >}}
 
 If you have ever been a caregiver for an elderly family member or friend, you know that there are many resources to help you in giving care. But finding these resources can be difficult and frustrating. The Administration on Aging in the Department of Health and Human Services (HHS) has been guiding people to local resources since 1991. Starting with a phone service, the Administration on Aging created its first website in 2001. Now, it offers an API.
 

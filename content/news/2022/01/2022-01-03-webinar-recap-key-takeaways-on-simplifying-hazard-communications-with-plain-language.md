@@ -5,15 +5,10 @@ title: "Webinar Recap: Key Takeaways on Simplifying Hazard Communications With P
 summary: "An overview of the presentation by Danielle Nagele of NOAA at the 2021 Plain Language Summit. Learn how she and her team used feedback to decrease confusion and increase impact."
 # See all topics at https://digital.gov/topics
 topics:
-  - cx
-  - nws
-  - noaa
-  - national-oceanic-and-atmospheric-administration
-  - national-weather-service
+  - customer-experience
   - plain-language
-  - user-research
+  - research
   - user-experience
-  - recaps
 # See all authors at https://digital.gov/authors
 authors:
   - rebecca-nelson
@@ -52,4 +47,4 @@ NWS is exploring three standard formats to present hazards in plain language:
 
 *The National Weather Service’s Hazard Simplification Project is a case study in investigating how audiences understand messages and applying [plain language principles](https://www.plainlanguage.gov/guidelines/) to lower property damage, reduce injuries, and save lives. [Visit their website](https://www.weather.gov/hazardsimplification/) to learn more.*
 
-*Connect with other federal employees working with [plain language](https://digital.gov/topics/plain-language/) to improve [content](https://digital.gov/topics/content/), [writing](https://digital.gov/topics/writing/), [customer experience](https://digital.gov/topics/cx/), and [user experience](https://digital.gov/topics/user-experience/) by joining our [Communities of Practice](https://digital.gov/communities/).*
+*Connect with other federal employees working with [plain language](https://digital.gov/topics/plain-language/) to improve [content](https://digital.gov/topics/content/), [writing](https://digital.gov/topics/writing/), [customer experience](https://digital.gov/topics/customer-experience/), and [user experience](https://digital.gov/topics/user-experience/) by joining our [Communities of Practice](https://digital.gov/communities/).*

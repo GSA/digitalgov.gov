@@ -2,18 +2,18 @@
 slug: building-elements-that-earn-trust
 date: 2019-11-18 08:34:00 -0500
 kicker: "This Week's IDEA"
-title: 'Building the Elements That Earn Trust'
-deck: "Let’s talk about the elements that go into building trust with people who are using our services&#46;"
-summary: 'This week, we’d like to talk about trust, and the elements that go into building trust with people who are using our services&#46;'
+title: "Building the Elements That Earn Trust"
+deck: "Let’s talk about the elements that go into building trust with people who are using our services."
+summary: "This week, we’d like to talk about trust, and the elements that go into building trust with people who are using our services."
 authors:
   - jeremyzilar
   - ammie-farraj-feijoo
   - dan-williams
 
 topics:
-  - product-management
-  - 21st-century-idea
-  - this-weeks-idea
+  - product-and-project-management
+  - digital-service-delivery
+  - trust
 
 featured_image:
   uid: this-weeks-idea-card-wk3

@@ -1,17 +1,17 @@
 ---
 slug: a-six-month-update-on-how-weve-been-using-data-and-how-it-benefits-all-americans
 date: 2015-08-20 11:10:58 -0400
+
 expirydate: "2021-02-18"
-title: A Six Month Update on How We’ve Been Using Data, and How it Benefits All Americans
-summary: 'Memorandum: A Six Month Update on How We’ve Been Using Data, and How it Benefits All Americans To: The American People From: Dr. DJ Patil, U.S. Chief Data Scientist Date: August 19, 2015 In my last memorandum, I discussed the opportunity to unleash the power of data to benefit'
+
+title: "A Six Month Update on How We’ve Been Using Data, and How it Benefits All Americans"
+summary: "U.S. Chief Data Scientist Dr. DJ Patil provides an update on how his team is helping federal agencies as they work to ensure they are using data to benefit all Americans, and using the data available responsibly."
+
 authors:
   - dr-dj-patil
+
 topics:
-  - data
-  - Commerce
-  - department-of-commerce
-  - national-institutes-of-health
-  - nih
+  - open-data
 ---
 
 **Memorandum**: A Six Month Update on How We’ve Been Using Data, and How it Benefits All Americans

@@ -6,19 +6,15 @@ summary: Many of you are part of a government community. We lead a few of them h
 authors:
   - ktrebon
 topics:
-  - communities
-  - monthly-theme
-  - communities
-  - digitalgov-university
-  - digital-analytics-program
-  - open-opportunities-program
+  - analytics
+  - professional-development
   - social-media
-  - web-content-managers-forum
+  - content-strategy
 ---
 
-{{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}}
-
 Many of you are part of a government community. [We lead a few of them here]({{< ref "/communities" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).
+
+{{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="cogal, iStock, Thinkstock" >}}
 
 A co-worker recently asked me for research on communities because she is trying to increase the sense of community among her program&#8217;s customers. Her question made me realize that the public and private sectors use communities in different ways. Check out the [material written about private communities](https://www.forrester.com/search?tmtxt=communities&N=10003&range=504001). Here&#8217;s roughly how they work:
 

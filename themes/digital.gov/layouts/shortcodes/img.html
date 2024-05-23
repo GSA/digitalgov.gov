@@ -2,7 +2,7 @@
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisuid := (.Get "src" | lower) -}}
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
-{{- $thisimg := index $.Site.Data.images $thisuid  -}}
+{{- $thisimg := index $.Site.Data.images $thisuid -}}
 {{- $imgBase := $thisimg.uid -}}
 {{- $imgExt := $thisimg.format -}}
 {{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
@@ -12,33 +12,67 @@
 {{- $imgCredit := $thisimg.credit -}}
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
 
-<div class="image{{- if (.Get "align") -}} image-{{- .Get "align" -}}{{- else}}{{- if lt $imgWidth 600 -}} image-right{{- end -}}{{- end -}}">
-  <img src="{{- if ne $prefix $thisuid -}}{{- $thisuid -}}{{- else -}}{{- $imgBaseCDN -}}_w800.{{- $imgExt -}}{{- end -}}"
-  {{ if or (.Get "alt" ) $thisimg.alt }} alt="{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $thisimg.alt -}}{{ end }}"
-  {{- end -}}
-  {{- if eq $prefix $thisuid }} srcset="
-    {{- if ge $imgWidth 200 -}}{{- $imgBaseCDN -}}_bu.jpg 48w,
-      {{- if ge $imgWidth 400 -}}
-        {{- if ge $imgWidth 600 -}}
-          {{- if ge $imgWidth 800 -}}
-            {{- if ge $imgWidth 1200 -}}
-              {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w,
-            {{- end -}}
-            {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
-          {{- end -}}
-          {{- $imgBaseCDN -}}_w600.{{- $imgExt }} 600w,
-        {{- end -}}
-        {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
-      {{- end -}}
-      {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w
-    {{- else -}}
-    {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
-    {{- end -}}
-    "
-  {{- end }} sizes="(max-width: 800px) 100vw, 800px"/>
 
+<div
+  class="image{{- if (.Get "align") -}}
+    image-{{- .Get "align" -}}
+  {{- else }}
+    {{- if lt $imgWidth 600 -}}image-right{{- end -}}
+  {{- end -}}"
+>
+  {{- if (or (eq $imgExt "jpg") (or (eq $imgExt "jpeg") (eq $imgExt "png"))) -}}
+    <img
+      src="{{- if ne $prefix $thisuid -}}
+        {{- $thisuid -}}
+      {{- else -}}
+        {{- $imgBaseCDN -}}_w800.{{- $imgExt -}}
+      {{- end -}}"
+      {{ if or (.Get "alt" ) $thisimg.alt }}
+        alt="{{- with .Get "alt" -}}
+          {{- . -}}
+        {{- else -}}
+          {{- $thisimg.alt -}}
+        {{ end }}"
+      {{- end -}}
+      {{- if eq $prefix $thisuid }}
+        srcset="
+        {{- if ge $imgWidth 200 -}}
+          {{- $imgBaseCDN -}}_bu.jpg 48w,
+          {{- if ge $imgWidth 400 -}}
+            {{- if ge $imgWidth 800 -}}
+              {{- if ge $imgWidth 1200 -}}
+                {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w,
+              {{- end -}}
+              {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
+            {{- end -}}
+            {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
+          {{- end -}}
+          {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w
+        {{- else -}}
+          {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
+        {{- end -}}
+        "
+      {{- end }}
+
+      sizes="(max-width: 800px) 100vw, 800px"
+    />
+  {{- else -}}
+    <img
+      src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+      {{ if or (.Get "alt" ) $thisimg.alt }}
+        alt="{{- with .Get "alt" -}}
+          {{- . -}}
+        {{- else -}}
+          {{- $thisimg.alt -}}
+        {{ end }}"
+      {{- end -}}
+    />
+  {{- end -}}
   {{- if or $imgCaption $imgCredit -}}
-    <p>{{- $imgCaption | markdownify -}}{{- if $imgCredit }} <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>{{- end -}}
+    <p>
+      {{- $imgCaption | markdownify -}}{{- if $imgCredit }}
+        <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>
+      {{- end -}}
     </p>
   {{- end -}}
 

@@ -6,13 +6,10 @@ summary: Like any newer technology, cloud computing has faced adoption challenge
 authors:
   - mary-davie
 topics:
-  - product-management
-  - strategy
-  - policy
-  - cloud
-  - gsa
+  - product-and-project-management
+  - content-strategy
+  - cloud-and-infrastructure
   - security
-  - us-general-services-administration
 ---
 
 Like any newer technology, cloud computing has faced adoption challenges. IT managers understand the huge potential efficiency improvements and savings that cloud computing can bring to their agencies, but also have questions about security, compatibility, and funding. With these concerns and without a clear path to cloud computing, many agencies continue to maintain on-premises solutions. However, the costs of legacy systems are expensive, and this is a particularly important issue in a budget-constrained environment.

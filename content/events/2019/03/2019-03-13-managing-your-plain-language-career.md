@@ -19,8 +19,7 @@ end_date: 2019-03-13 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - plain-language
-  - writing
-  - plain-language-community-of-practice
+  - communication
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -45,7 +44,7 @@ weight: 0
 
 Get the credit you deserve!
 
-{{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
+{{< img-right src="plain-language" caption="" alt="The plain language quotation marks logo." >}}
 
 We'll discuss your formal and informal plain language work (teaching, training, reviewing, or copyediting) and how to best document and publicize it so you can get credit for the work you’re doing.
 

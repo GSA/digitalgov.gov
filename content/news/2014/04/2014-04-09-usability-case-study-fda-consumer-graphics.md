@@ -7,12 +7,9 @@ authors:
   - jonathan-rubin
 topics:
   - design
-  - user-testing-and-research
-  - fda
-  - infographic
-  - us-food-and-drug-administration
+  - research
+  - data-visualization
   - usability
-  - usability-case-study
   - user-experience
 ---
 

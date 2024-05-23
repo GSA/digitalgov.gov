@@ -2,17 +2,17 @@
 slug: gov-analytics-breakdown-1-browsers-chrome-takes-the-cake
 date: 2015-10-15 15:25:39 -0400
 title: 'Gov Analytics Breakdown #1 &#8211; Browsers: Chrome Takes the Cake'
-summary: 'If you were visiting a federal government website two years ago, the best odds were that you’d have been using Internet Explorer as your Internet browser. But today, that’s no longer the case. Within just the last year, Chrome has taken over the top spot as the browser most used to view federal websites, according to'
+summary: 'We wanted to take a look at overall browser usage now that DAP has a few years of data, and the changes tell an interesting story. Here’s a breakdown of the percent of total sessions of the top five browsers during the last three years.'
+
 authors:
   - tlowden
+
 topics:
-  - content
-  - data
-  - metrics
-  - user-experience
+  - content-strategy
+  - open-data
   - analytics
-  - browsers
-  - digital-analytics-program
+  - user-experience
+  - software-engineering
 ---
 
 If you were visiting a federal government website two years ago, the best odds were that you’d have been using Internet Explorer as your Internet browser. But today, that’s no longer the case. Within just the last year, Chrome has taken over the top spot as the browser most used to view federal websites, according to data from the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), and it seems to show no signs of slowing.
@@ -33,28 +33,15 @@ Both Mozilla Firefox and the Android browser have had modest decreases year over
 
 <table id="breakbox" class="bordered" style="margin-left: 5px" width="250" align="right">
   <tr>
-    <th>
-      <strong>Interesting browser facts:</strong>
-    </th>
+    <th><strong>Interesting browser facts:</strong></th>
   </tr>
-
   <tr>
-    <td>
-      <ul style="padding-left: 5px;margin-bottom: 0px">
-        <li>
-          Safari has kept nearly the same percentage of visits (~19%).
-        </li>
-        <li>
-          Visits using Firefox and Android have been decreasing each year (10% and 3% this year).
-        </li>
-        <li>
-          Chrome has increased to a 40% share of visits in 2015 from 20% in 2013.
-        </li>
-        <li>
-          Internet Explorer has gone from being used for 40% of visits in 2013 to only 24% in 2015.
-        </li>
-      </ul>
-    </td>
+    <td><ul style="padding-left: 5px;margin-bottom: 0px">
+        <li>Safari has kept nearly the same percentage of visits (~19%).</li>
+        <li>Visits using Firefox and Android have been decreasing each year (10% and 3% this year).</li>
+        <li>Chrome has increased to a 40% share of visits in 2015 from 20% in 2013.</li>
+        <li>Internet Explorer has gone from being used for 40% of visits in 2013 to only 24% in 2015.</li>
+      </ul></td>
   </tr>
 </table>
 
@@ -76,7 +63,10 @@ Regardless, what that means is that in 2015, only around **2% of all recorded no
 
 This data is not exhaustive, and represents only the sites that participated in DAP at the time of the records, but it is interesting, nonetheless. We hope it proves useful for insights about the federal websites you work on. Check back next week, when we’ll dive deeper into the shift in mobile usage on federal websites over the last few years.
 
-***For all DAP figures cited, the date range of August 16 &#8211; September 15 was used in the three consecutive years (2013, 2014, and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight to the public’s behavior trends.**
+_* For all DAP figures cited, the date range of August 16 - September 15 was used in the three consecutive years (2013, 2014, and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight to the public’s behavior trends._
 
-** **Correction: This was incorrectly first reported as 98%, which actually referred to the percentage of mobile sessions using Safari on either an iPhone or iPad. We regret the error.**_Author’s Note: This is Part 1 of a blog in which we use data from the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) to discuss shifts in the ways the public interacts with U.S. federal government websites. Part 1 focuses on Web browser usage, while Part 2 (to be published next week) will discuss the change in mobile vs. desktop visits. The DAP collects data from more than 4,000 U.S. federal government websites. See more data at [analytics.usa.gov](https://analytics.usa.gov)._
-_To learn more about the Digital Analytics Program, request access to the data (federal employees or contractors only; subject to approval) or to learn how to participate, [email DAP](mailto:dap@support.digitalgov.gov)._
+_**Correction**: This was incorrectly first reported as 98%, which actually referred to the percentage of mobile sessions using Safari on either an iPhone or iPad. We regret the error._
+
+*Author’s Note: This is Part 1 of a blog in which we use data from the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) to discuss shifts in the ways the public interacts with U.S. federal government websites. Part 1 focuses on Web browser usage, while Part 2 (to be published next week) [will discuss the change in mobile vs. desktop visits](https://digital.gov/2015/10/21/gov-analytics-breakdown-2-mobile-is-bigger-than-ever/). The DAP collects data from more than 4,000 U.S. federal government websites. See more data at [analytics.usa.gov](https://analytics.usa.gov).*
+
+_To learn more about the Digital Analytics Program, request access to the data (federal employees or contractors only; subject to approval) or to learn how to participate, [email DAP](mailto:dap@gsa.gov)._

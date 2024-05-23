@@ -7,7 +7,6 @@ authors:
   - blogger-bob
 topics:
   - social-media
-  - social-media
 ---
 
 <p>

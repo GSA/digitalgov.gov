@@ -9,13 +9,9 @@ featured_image:
   uid: 'english-cfpb-placemat-fill-in-the-blank'
   alt: 'A placemat for financial scams in English.'
 topics:
-  - content
+  - content-strategy
   - design
   - user-experience
-  - CFPB
-  - Consumer Financial Protection Bureau
-  - content
-  - content-strategy
   - multilingual
 ---
 

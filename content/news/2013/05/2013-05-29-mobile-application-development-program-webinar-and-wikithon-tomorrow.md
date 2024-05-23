@@ -6,9 +6,8 @@ summary: ' Anytime, anywhere government information and services are becoming mo
 authors:
   - jparcell
 topics:
-  - code
+  - software-engineering
   - mobile
-  - mobile-gov
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](http://gsablogs.gsa.gov/dsic/get-it-done/mobile-application-development-program/)

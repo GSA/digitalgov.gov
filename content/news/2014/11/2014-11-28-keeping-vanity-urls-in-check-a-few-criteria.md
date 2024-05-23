@@ -6,13 +6,7 @@ summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests W
 authors:
   - andreanocesigritz
 topics:
-  - content
-  - go-usa-gov
-  - National Institute of Allergy and Infectious Diseases
-  - NIAID
-  - United States Patent and Trademark Office
-  - USPTO
-  - web-content-managers-forum
+  - content-strategy
 ---
 
 {{< legacy-img src="2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" >}}
@@ -64,7 +58,7 @@ The U.S. Patent and Trademark Office (USPTO) calls them marketing URLs, accordin
   * Avoid acronyms, unless they are commonly used terminology in the industry (e.g., TM, FAQ).
   * Even if it seems long, words are easier for your audience to remember than letters. For example, www.uspto.gov/patentsforhumanity is easier for your audience to remember than www.uspto.gov/p4h or www.uspto.gov/pfh, especially if the audience is unfamiliar with the program.
 
- 
+
 
 ## Why Go.USA.gov Doesn&#8217;t Create Custom URLs
 

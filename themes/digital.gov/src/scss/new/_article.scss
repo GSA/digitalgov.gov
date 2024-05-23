@@ -2,120 +2,105 @@
 
 // Article
 
-main{
-	@include u-padding-y(3);
-	@include at-media('tablet') {
-		@include u-padding-y(4);
-	}
+// Base Article Header Styles
+main.header.page-header,
+main > header,
+section > header,
+article > header {
+  @include u-padding-bottom(2);
+  @include u-margin-bottom(3);
 
-	// Base Article Header Styles
-	header.page-header,
-	> header,
- 	> article > header{
-		@include u-padding-bottom(2);
-		@include u-margin-bottom(3);
+  .kicker {
+    @include u-margin(0);
+    @include u-margin-bottom("05");
+    @include u-font("sans", "sm");
+    @include u-text("normal");
+    @include u-text("uppercase");
+    @include u-color("indigo-warm-80");
+  }
 
-		// Breadcrumbs
-   	.breadcrumb{
-     	@include u-margin-y(2);
-     	@include u-text('bold');
-     	@include u-font('sans', 'md');
-     	a{
-       	span{
-         	@include u-padding-bottom('2px');
-       	}
-       	@include u-text('no-underline');
-       	&:hover span{
-         	border-bottom: 3px #656bd7 solid; // $indigo-40
-       	}
-     	}
-   	}
+  // Page Titles
+  h1 {
+    @include u-margin(0);
+    @include u-margin-bottom("2px");
+    @include u-text("heavy");
+    @include u-line-height("sans", 2);
+    @include u-font("sans", "xl");
 
-		.kicker{
-			@include u-margin(0);
-			@include u-margin-bottom('05');
-			@include u-font('sans', 'sm');
-			@include u-text('normal');
-			@include u-text('uppercase');
-			@include u-color('indigo-warm-80');
-		}
-   	// Page Titles
-   	h1{
-     	@include u-margin(0);
-     	@include u-margin-bottom('2px');
-     	@include u-text('heavy');
-     	@include u-line-height('sans', 2);
-			@include u-font('sans', 'xl');
-			@include at-media('tablet') {
-				@include u-font('sans', '2xl');
-				@include u-line-height('sans', 2);
-			}
-   	}
+    @include at-media("tablet") {
+      @include u-font("sans", "2xl");
+      @include u-line-height("sans", 2);
+    }
+  }
 
-   	// Deck
-   	.deck{
-			@include u-margin-y(1);
-     	@include u-font('sans', 'lg');
-     	@include u-text('light');
-     	@include u-text('primary-darker');
-			@include u-line-height('sans', 2);
-			@include at-media('tablet') {
-				@include u-font('sans', 'xl');
-				@include u-line-height('sans', 2);
-			}
-   	}
+  // Deck
+  .deck {
+    @include u-margin-y(1);
+    @include u-font("sans", "lg");
+    @include u-text("light");
+    @include u-text("primary-darker");
+    @include u-line-height("sans", 2);
 
-		p{
-			@include u-margin(0);
-			@include u-font('sans', 'md');
-		}
+    @include at-media("tablet") {
+      @include u-font("sans", "xl");
+      @include u-line-height("sans", 2);
+    }
+  }
 
- 	}
+  p {
+    @include u-margin(0);
+    @include u-font("sans", "md");
+  }
+}
 
+// Base Article Styles
+article {
+  @include u-margin-bottom(5);
 
-	// Base Article Styles
-	article{
-		@include u-margin-bottom(5);
-		header{
-			.authors-list-short{
-				@include u-display('flex');
-				@include at-media('tablet-lg') {
-					@include u-display('none');
-				}
-			}
-			.meta{
-				@include at-media('tablet-lg') {
-					@include u-display('none');
-				}
-			}
-		}
+  header {
+    .authors-list-short {
+      @include u-display("flex");
 
-		.meta{
-			@include u-margin-top('205');
-			@include u-display('flex');
-			@include at-media('tablet-lg') {
-				@include u-margin-top(0);
-			}
-			.date{
-				@include u-margin-right('105');
-				@include u-font('sans', '2xs');
-				@include at-media('tablet-lg') {
-					@include u-font('sans', 'xs');
-					@include u-margin-right(2);
-				}
-				@include u-text('gray-cool-60');
-				@include u-text('normal');
-				a{
-					@include u-text('gray-cool-60');
-					@include u-text('no-underline');
-					&:hover{
-						@include u-border-bottom('2px', 'accent-warm', 'solid');
-					}
-				}
-			}
-			.clicks{
-				
-			}
-		}
-	}
+      @include at-media("tablet-lg") {
+        @include u-display("none");
+      }
+    }
+
+    .meta {
+      @include at-media("tablet-lg") {
+        @include u-display("none");
+      }
+    }
+  }
+
+  .meta {
+    @include u-margin-top("205");
+    @include u-display("flex");
+
+    @include at-media("tablet-lg") {
+      @include u-margin-top(0);
+    }
+
+    .date {
+      @include u-margin-right("105");
+      @include u-font("sans", "2xs");
+
+      @include at-media("tablet-lg") {
+        @include u-font("sans", "xs");
+        @include u-margin-right(2);
+      }
+
+      @include u-text("gray-cool-60");
+      @include u-text("normal");
+
+      a {
+        @include u-text("gray-cool-60");
+        @include u-text("no-underline");
+
+        &:hover {
+          @include u-border-bottom("2px", "accent-warm", "solid");
+        }
+      }
+    }
+  }
 }

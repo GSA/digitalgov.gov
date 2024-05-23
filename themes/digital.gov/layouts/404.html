@@ -1,50 +1,32 @@
 {{- define "content" -}}
-{{- with site.GetPage "/404" -}}
-{{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-
-<main role="main" id="main-content">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
-        <div class="grid-row">
-          <div class="grid-col-12">
-
+  {{- with site.GetPage "/404" -}}
+    <main role="main" id="main-content">
+      <article>
+        <header>
+          <div class="grid-container grid-container-desktop">
             {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
+            <h1>{{- .Title | markdownify -}}</h1>
 
             {{/* Deck */}}
             {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+              <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
           </div>
-        </div>
-      </div>
-    </header>
+        </header>
 
-    <section>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- $path -}}">
-        <div class="grid-row tablet-lg:grid-gap-6">
-
-          <div class="grid-col-12 tablet:grid-col-9">
-
-            {{/* Content */}}
-            <div class="content">
-              {{- .Content -}}
+        <section>
+          <div class="grid-container grid-container-desktop">
+            <div class="grid-row">
+              <div class="grid-col-12 tablet:grid-col-9">
+                {{/* Content */}}
+                <div class="content">
+                  {{- .Content -}}
+                </div>
+              </div>
             </div>
-
-            {{- partial "core/page-data.html" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
-
           </div>
-
-          <div class="grid-col-12 tablet:grid-col-3">
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-  </article>
-</main>
-
-{{- end -}}
+        </section>
+      </article>
+    </main>
+  {{- end -}}
 {{- end -}}

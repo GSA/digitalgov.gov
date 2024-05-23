@@ -9,7 +9,6 @@ summary: "The DOD released a policy that for the first time spells out, from the
 # See all topics at https://digital.gov/topics
 topics:
   - social-media
-  - united-states-department-of-defense
   - policy
 slug: u-s-department-of-defense-dod-releases-first-departmentwide-social-media-policy
 # Controls how this page appears across the site

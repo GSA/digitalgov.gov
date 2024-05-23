@@ -25,4 +25,4 @@ To receive seminar invitations and resources, you may join the seminar series li
 
 For more information, please contact the FLPDSS Chair, Kim Wittenberg, via email at [kim.wittenberg@ahrq.hhs.gov](mailto:kim.wittenberg@ahrq.hhs.gov).
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).

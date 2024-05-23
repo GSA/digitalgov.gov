@@ -1,0 +1,36 @@
+showNextPrevious: true
+showReadTime: true
+showInPageNav: true
+landingURL: "/guides/hcd"
+nav:
+  - title: "Overview"
+    path: "/guides/hcd/design-operations/_index.md"
+    subnav:
+      - title: "Principles"
+        path: "/guides/hcd/design-operations/principles"
+  - title: "Thinking"
+    path: "/guides/hcd/design-operations/thinking"
+  - title: "Building"
+    path: "/guides/hcd/design-operations/building"
+    subnav:
+      - title: "Communicate to stakeholders"
+        path: "/guides/hcd/design-operations/communicate-to-stakeholders"
+  - title: "Making"
+    path: "/guides/hcd/design-operations/making"
+    subnav:
+      - title: "Methods"
+        path: "/guides/hcd/design-operations/methods"
+      - title: "Analyzing designs"
+        path: "/guides/hcd/design-operations/analyzing-designs"
+      - title: "Generating design expressions"
+        path: "/guides/hcd/design-operations/generating-design-expressions"
+  - title: "Testing"
+    path: "/guides/hcd/design-operations/testing"
+    subnav:
+      - title: "Testing evaluation"
+        path: "/guides/hcd/design-operations/testing-evaluation"
+  - title: "Up next"
+    path: "/guides/hcd/design-operations/up-next"
+    subnav:
+      - title: "Propose a model"
+        path: "/guides/hcd/design-operations/propose-a-model"

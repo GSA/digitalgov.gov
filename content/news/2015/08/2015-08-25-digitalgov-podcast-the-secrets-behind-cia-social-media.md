@@ -7,23 +7,12 @@ authors:
   - jherman
 topics:
   - social-media
-  - Central Intelligence Agency
-  - CIA
   - podcast
-  - socialgov
-  - united-states-geological-survey
-  - USGS
+primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
+
 ---
 
-<blockquote class="twitter-tweet" lang="en">
-  <p lang="en">
-    Julia Child and the OSS Recipe for Shark Repellent: <a href="http://t.co/q3cC4QiJhR">http://t.co/q3cC4QiJhR</a> <a href="https://twitter.com/hashtag/SharkWeek?src=hash">#SharkWeek</a> <a href="https://twitter.com/hashtag/OSS?src=hash">#OSS</a> <a href="https://twitter.com/hashtag/WWII?src=hash">#WWII</a> <a href="http://t.co/Idbo1OkPLP">pic.twitter.com/Idbo1OkPLP</a>
-  </p>
-
-  <p>
-    — CIA (@CIA) <a href="https://twitter.com/CIA/status/619224775483785216">July 9, 2015</a>
-  </p>
-</blockquote>
+{{< tweet user="CIA" id="619224775483785216" >}}
 
 The Central Intelligence Agency launched their Twitter account with [the second most retweeted inaugural post](https://twitter.com/CIA/status/474971393852182528) in the platform’s history: “_We can neither confirm nor deny that this is our first tweet_.”
 
@@ -37,10 +26,8 @@ Justin Herman, GSA lead for the government-wide [SocialGov Community]({{< ref "c
   * Behind the scenes accounts of well-known CIA social media engagements, including: “The Dr. Zhivago Incident” and “The #Sharkweek Case of Julia Child and the Shark Repellent.”
   * What’s next?
 
-Also joining the conversation is Scott Horvath, social media lead for the U.S. Geological Survey, providing perspectives from his more than eight years of experience in government social media.<audio class="wp-audio-shortcode" id="audio-302122-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA\_Podcast.mp3?\_=4" />
+Also joining the conversation is Scott Horvath, social media lead for the U.S. Geological Survey, providing perspectives from his more than eight years of experience in government social media.
 
-<https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3></audio>
-
-
+<audio class="wp-audio-shortcode" id="audio-302122-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3" /><https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3></audio>
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3) (21 MB). You can also download and [read the transcript](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA-Social-Media-Podcast-Aug-2015-Transcript.docx) (Word document, 14 KB, 10 pages).

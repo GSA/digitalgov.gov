@@ -1,5 +1,69 @@
 @use "uswds-core" as *;
 
 .usa-identifier img[alt] {
-  @include u-text('white');
+  @include u-text("white");
 }
+
+//overrides for in-page nav component on /resources
+.usa-in-page-nav {
+  // sets in-page column to be even with content
+  margin-top: 0;
+
+  &__nav {
+    padding-left: 0;
+    padding-top: units("05");
+  }
+
+  &__heading {
+    @include u-font("sans", "sm");
+  }
+
+  &__item--sub-item {
+    @include u-display("none");
+  }
+}
+
+.cop-table {
+  thead tr th:first-child {
+    @include u-border-top("05", "green-40v", "solid");
+    @include u-color("green-50v");
+  }
+
+  thead tr th:last-child {
+    @include u-border-top("05", "red-50v", "solid");
+    @include u-color("red-50v");
+  }
+
+  tbody tr td {
+    width: 50%;
+  }
+
+  svg {
+    @include u-margin-right(1);
+  }
+}
+
+// adds vertical space between content and summary box
+.dg-guide-summary {
+  margin-bottom: units(2);
+}
+
+// Archived alerts
+// Seen on: `2011/06/21/making-mobile-gov-project`
+.dg-alert--out-of-date {
+  .usa-alert__body::before {
+    background-image: url("../img/svg-icons/material-icon-inventory_2.svg"); // Fallback for mask-image
+    mask-image: url("../img/svg-icons/material-icon-inventory_2.svg");
+  }
+}
+
+// Override USA footer until USWDS 3.8.0 is released
+// TODO: Reconfigure footer to match USWDS footer component
+// Disable stylelint BEM format check because we need the specificity.
+/* stylelint-disable */
+@include at-media("tablet-lg") {
+  .usa-footer .grid-row .tablet-lg\:grid-col-3 {
+    width: 25%;
+  }
+}
+/* stylelint-enable */

@@ -8,14 +8,14 @@ title: "U.S. Digital Corps"
 summary: "A two-year fellowship for early-career technologists to start careers in public service, with professional development and mentorship."
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 # source_url: 'https://digital.gov/services/u-s-digital-corps/'
 
 # What source published this?
 source: ''
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://digitalcorps.gsa.gov/"
 
 # Images need to be 200x200px with a transparent background
@@ -39,6 +39,5 @@ authors:
 
 # Topics that best describe this product or service
 topics:
-  - tts
-
+  - software-engineering
 ---

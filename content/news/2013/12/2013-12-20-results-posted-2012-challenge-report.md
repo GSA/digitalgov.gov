@@ -6,11 +6,8 @@ summary: ' This week the White House Office of Science and Technology Policy rel
 authors:
   - tammi-marcoullier
 topics:
-  - challenges
-  - our-work
-  - crowdsourcing
-  - OSTP
-  - white-house
+  - challenges-and-prize-competitions
+  - crowdsourcing-and-citizen-science
 ---
 
 {{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="The Challenge dot gov logo" >}}

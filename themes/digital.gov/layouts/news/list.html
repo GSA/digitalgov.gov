@@ -1,85 +1,76 @@
 {{ define "content" }}
+  <main role="main" id="main-content">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <header class="page-head page-head-{{- .Type -}}">
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}}</h1>
 
-<main role="main" id="main-content">
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+              <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
+            {{- end -}}
 
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row">
-      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-      <div class="grid-col-12" data-edit-this="{{- $path -}}">
-        <header class="page-head page-head-{{- .Type -}}">
 
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}} </h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-          <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
-          {{- end -}}
-
-          <div class="join-buttons">
-            <a href="{{- "/join" | absURL -}}">Write for us</a>
-          </div>
-
-        </header>
+            <div class="join-buttons">
+              <a href="{{- "/join" | absURL -}}">Write for us</a>
+            </div>
+          </header>
+        </div>
       </div>
     </div>
-  </div>
 
+    <section class="stream">
+      <div class="grid-container grid-container-desktop">
+        {{/* Blog Posts by Topic —
+          List all of the blog posts tagged with this topic
+        */}}
 
-  <section class="stream">
-    <div class="grid-container grid-container-desktop">
-      {{/* Blog Posts by Topic —
-      List all of the blog posts tagged with this topic */}}
+        {{/* Gets the past events */}}
+        {{- $events := where .Site.RegularPages.ByDate.Reverse "Section" "events" -}}
 
-      {{/* Gets the past events */}}
-      {{- $events := where .Site.RegularPages.ByDate.Reverse "Section" "events" -}}
+        {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
-      {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+        {{ $all_events := union $past_events $events }}
 
-      {{ $all_events := union $past_events $events }}
+        {{/* Gets the recent blog posts */}}
+        {{- $posts := where .Pages "Section" "news" -}}
 
-      {{/* Gets the recent blog posts */}}
-      {{- $posts := where .Pages "Section" "news" -}}
+        {{/* Merges the past events and the recent blog posts */}}
+        {{ $stream := union $all_events $posts }}
 
-      {{/* Merges the past events and the recent blog posts */}}
-      {{ $stream := union $all_events $posts }}
+        {{/* If there are any items at all... */}}
+        {{- if $stream -}}
+          {{/* Loop through all the pages */}}
+          {{/* Also sorting all the items by date and reverse chron */}}
+          {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
 
-      {{/* If there are any items at all... */}}
-      {{- if $stream -}}
-
-        {{/* Loop through all the pages */}}
-        {{/* Also sorting all the items by date and reverse chron */}}
-        {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
-
-          {{- if eq .Type "events" -}}
-            {{- if ge .Date now.Unix }}
+            {{- if eq .Type "events" -}}
               {{- .Render "card-event" -}}
-            {{- else -}}
-              {{- .Render "card-event-past" -}}
             {{- end -}}
-          {{- end -}}
 
-          {{- if eq .Type "news" -}}
-            {{/* External links */}}
-            {{- if .Params.source -}}
-              {{/* see /layouts/news/ for card templates */}}
-              {{ .Render "card-elsewhere"}}
-            {{ else }}
-              {{/* Blog Posts — Internal links */}}
-              {{- if .Params.deck }}
+            {{- if eq .Type "news" -}}
+              {{/* External links */}}
+              {{- if .Params.source -}}
                 {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{ .Render "card-elsewhere" }}
               {{ else }}
-                {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{/* Blog Posts — Internal links */}}
+                {{- if .Params.deck }}
+                  {{/* see /layouts/news/ for card templates */}}
+                  {{ .Render "card-article" }}
+                {{ else }}
+                  {{/* see /layouts/news/ for card templates */}}
+                  {{ .Render "card-article" }}
+                {{ end }}
               {{ end }}
-            {{ end }}
-          {{- end -}}
+            {{- end -}}
 
+          {{ end }}
         {{ end }}
-      {{ end }}
-      {{ partial "core/pagination.html" . }}
-    </div>
-  </section>
-</main>
+        {{ partial "core/pagination.html" . }}
+      </div>
+    </section>
+  </main>
 {{ end }}

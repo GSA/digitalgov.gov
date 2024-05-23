@@ -1,0 +1,21 @@
+@use "uswds-core" as *;
+
+.dg-do-dont-table {
+  &__header--do {
+    @include u-border-top("05", "green-40v", "solid", "!important");
+    @include u-color("green-50v", "!important");
+  }
+
+  &__header--dont {
+    @include u-border-top("05", "red-50v", "solid", "!important");
+    @include u-color("red-50v", "!important");
+  }
+
+  svg {
+    @include u-margin-right(1);
+  }
+
+  &__body td {
+    width: 50%;
+  }
+}

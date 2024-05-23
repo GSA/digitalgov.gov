@@ -8,19 +8,15 @@ authors:
 featured_image:
   uid: 'foodkeeper-app-on-phone-held-in-front-of-open-refrigerator'
   alt: 'USDA Foodkeeper app held in front of a refrigerator.'
+
 topics:
-  - content
+  - content-strategy
   - mobile
-  - apps
-  - content
-  - dhs
-  - fda
-  - mobile
-  - mobile-apps
   - multilingual
-  - USDA
+
 aliases:
   - /2017/09/07/usdas-foodkeeper-app-update-features-food-safety-recall-information/
+
 ---
 
 > _The USDA&#8217;s multilingual FoodKeeper app has been updated to include three options for receiving food recall updates and expands storage timelines to over 500 products._

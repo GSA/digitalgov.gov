@@ -6,8 +6,7 @@ summary: 'This post was originally published on the IDEA Lab blog by Read Holman
 authors:
   - andreanocesigritz
 topics:
-  - product-management
-  - HHS
+  - product-and-project-management
   - innovation
 ---
 

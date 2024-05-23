@@ -1,25 +1,19 @@
 ---
 slug: bia-wikithon
 date: 2012-07-12 15:04:12 -0400
-title: BIA Wikithon
-summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Bureau of Indian Affairs. The
+title: Bureau of Indian Affairs Wikithon
+summary: "Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Bureau of Indian Affairs."
+
 authors:
   - jparcell
+
 topics:
   - mobile
-  - BIA
-  - Bureau of Indian Affairs
-  - mobile
-  - mobile-gov-experience
-  - Tribal
-  - Tribal Government
-  - us-department-of-the-interior
 ---
 
-_[{{< legacy-img src="2012/07/BIA\_Wikithon\_Picture\_Lady\_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/BIA_Wikithon_Picture_Lady_DC.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**.__
-  _ 
+_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**._
 
-The Bureau of Indian Affairs held three separate Wikithons in three different locations to help improve and build upon their Wiki pages.
+The Bureau of Indian Affairs (BIA) held three separate Wikithons in three different locations to help improve and build upon their Wiki pages.
 
 ## Why We Did It
 
@@ -27,11 +21,13 @@ The goal of these was to promote creation of employee profiles on our Wiki and t
 
 ## What We Did
 
+{{< legacy-img-right src="2012/07/BIA_Wikithon_Picture_Lady_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}
+
 With some very solid advice from some folks at GSA, we held three seperate Wikithons in Reston, Herndon, and D.C. offices.
 
 Thanks to gallons of coffee, mountains of cupcakes and doughnuts, and a lot of hard work we&#8217;ve gotten some great results!
 
-  * Created a total of 82 profiles, doubling the number of profiles. .
+  * Created a total of 82 profiles, doubling the number of profiles.
   * Wrote 46 articles, so we now have over 170 pages of excellent information.
   * Uploaded over 50 profile pictures, including 20+ that were taken at the Wikithon itself (we set-up a photo booth)!
 

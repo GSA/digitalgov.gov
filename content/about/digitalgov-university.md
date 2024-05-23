@@ -5,6 +5,7 @@ title: Digital.gov Events
 summary: 'Digital.gov helps agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops, and connect with each other.'
 aliases:
   - /digitalgov-university/digitalgov-university-event-and-training-request-form/
+  - /2015/02/03/let-us-share-your-events/
 
 ---
 
@@ -20,7 +21,7 @@ We want to learn more about your ideas! Federal employees can start a conversati
 
 **Submit by online form:** The event submission form will give you an opportunity to tell us more about your event, including who would be presenting. You must be a federal employee to make a submission. [Submit an event »](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm)
 
-**Submit by email:** Contact us to describe your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. As a federal employee, you must use your federal agency-issued email address (usally ends in .gov or .mil) for work-related messages. [Email us your event idea](mailto:digitalgovu@gsa.gov?subject=Event%20Training%20Idea).
+**Submit by email:** Contact us to describe your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. As a federal employee, you must use your federal agency-issued email address (usally ends in .gov or .mil) for work-related messages. [Email us your event idea](mailto:digitalgov@gsa.gov?subject=Event%20Training%20Idea).
 
 ## Use of Digital.gov Materials
 

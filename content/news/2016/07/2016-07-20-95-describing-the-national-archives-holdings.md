@@ -6,13 +6,10 @@ summary: 'The National Archives Catalog has reached a milestone: we now have 95%
 authors:
   - david-s-ferriero
 topics:
-  - product-management
-  - data
-  - digital records
-  - NARA
-  - national-archives-and-records-administration
-  - records management
+  - product-and-project-management
+  - records-management
   - research
+
 ---
 
 The National Archives Catalog has reached a milestone: we now have 95% of our holdings completely described at the series level in our <a href="https://catalog.archives.gov/" target="_blank">online catalog</a>. This is a monumental achievement. Why? Because the National Archives holds over 14 billion pages of records, and we are adding hundreds of millions of pages to that total every year.
@@ -33,6 +30,6 @@ The credit for describing our records goes to the over 500 archival staff at Nat
 
 Just because we’ve reached 95% doesn’t mean our work is done. Our holdings continue to grow each year as we constantly receive new records. Our plan for the foreseeable future is to maintain 95% described as our overall holdings continue to grow, while working to add more lower level descriptions as well. To do this, archivists will continue to actively describe our remaining records, and will complete descriptions as new records are accessioned. We are committed to continuing to provide online access to as many of our records as we possibly can.
 
-Description of the records of the National Archives is vital to our strategic goal to Make Access Happen. Without description, the public will not have enough information to access and make use of the records. Fundamental to the archival profession, description shines a light on our holdings so the public can search and make use of the records of the National Archives, increasing transparency and accountability in our democracy._This post was originally published on the [AOTUS blog](https://aotus.blogs.archives.gov/).
+Description of the records of the National Archives is vital to our strategic goal to Make Access Happen. Without description, the public will not have enough information to access and make use of the records. Fundamental to the archival profession, description shines a light on our holdings so the public can search and make use of the records of the National Archives, increasing transparency and accountability in our democracy.
 
-_
+_This post was originally published on the [AOTUS blog](https://aotus.blogs.archives.gov/)._

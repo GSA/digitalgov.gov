@@ -6,13 +6,9 @@ summary: Sonia stands at the pharmacy counter, flashing her most brilliant smile
 authors:
   - awichman
 topics:
-  - content
+  - content-strategy
   - social-media
-  - video
-  - fda
-  - multilingual
-  - multilingual-community
-  - social-media
+  - multimedia
 ---
 
 {{< legacy-img src="2014/12/600-x-336-Nunca-Mas-Lourdes-y-Sonia.jpg" alt="Lourdes and Sonia, at the pharmacy." >}}Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions.

@@ -7,12 +7,9 @@ authors:
   - crystal-peeler
 topics:
   - design
-  - user-testing-and-research
+  - research
   - user-experience
-  - cx
-  - HHS
-  - Office of Child Support Enforcement
-  - united-states-department-of-health-and-human-services
+  - customer-experience
   - usability
 ---
 

@@ -1,12 +1,12 @@
 ---
 date: 2022-10-11 12:10:00 -0500
 title: "Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection of Identity and Public Service"
-deck: Members of the Latinx employee resource group share their stories of public service.
-summary: In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service.
+deck: "Members of the Latinx employee resource group share their stories of public service."
+summary: "In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service."
 
 # See all topics at https://digital.gov/topics
 topics:
-  - tts
+  - diversity-equity-and-inclusion
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -29,7 +29,7 @@ To advance and increase the understanding of [Latinx identity in design, tech, a
 
 <hr width="75%">
 
-{{< note "comment" >}}## Laura Godfrey, Vote.gov — Public Experience Portfolio, TTS Solutions
+{{< note variant="comment" >}}## Laura Godfrey, Vote.gov — Public Experience Portfolio, TTS Solutions
 
 **How do you identify?**
 
@@ -63,7 +63,7 @@ Many moments have made me feel good about my career with the government. But if 
 
 <hr width="75%">
 
-{{< note "comment" >}}## Toni Bonitto, Innovation Specialist, Digital.gov – Innovation Portfolio, TTS Solutions
+{{< note variant="comment" >}}## Toni Bonitto, Innovation Specialist, Digital.gov – Innovation Portfolio, TTS Solutions
 
 **How do you identify?**
 
@@ -83,7 +83,7 @@ Special shout-out to the U.S. National Archives and Records Administration (NARA
 
 **How do you show up as Latinx? Why is that important to you?**
 
-Having such a diverse background allows me to share perspectives that don't seem to have been common in government. As individuals, I see how we are helping to improve digital products and services for the public, but as a cultural group, we are also helping to ensure that our government, as a whole, becomes more diverse, inclusive, equitable, and accessible. Over the last eight years, I have been happy to be part of a work culture that is increasingly intentional in how it can better serve the public, actively working to improve not only user and customer experience, but representation in our national workforce&mdash;which I think will be an important factor in improving the public's trust in government.
+Having such a diverse background allows me to share perspectives that don't seem to have been common in government. As individuals, I see how we are helping to improve digital products and services for the public, but as a cultural group, we are also helping to ensure that our government, as a whole, becomes more diverse, equitable, inclusive, and accessible. Over the last eight years, I have been happy to be part of a work culture that is increasingly intentional in how it can better serve the public, actively working to improve not only user and customer experience, but representation in our national workforce&mdash;which I think will be an important factor in improving the public's trust in government.
 
 **Why do you serve?**
 
@@ -103,7 +103,7 @@ When COVID-19 was declared a pandemic in March 2020, Digital.gov was able to piv
 
 <hr width="75%">
 
-{{< note "comment" >}}## Austin Hernandez, Product Design — 18F
+{{< note variant="comment" >}}## Austin Hernandez, Product Design — 18F
 
 **How do you identify?**
 
@@ -137,7 +137,7 @@ I really liked being the lead product designer on [FindTreatment.gov](https://fi
 
 <hr width="75%">
 
-{{< note "comment" >}}## Edwin Torres, Consulting Software Engineer — 18F
+{{< note variant="comment" >}}## Edwin Torres, Consulting Software Engineer — 18F
 
 **How do you identify?**
 
@@ -171,7 +171,7 @@ I co-authored a [10X idea to improve digital services for the U.S. territories](
 
 <hr width="75%">
 
-{{< note "comment" >}}## Rebeca Lamadrid Villarreal, PIF Executive Director — Presidential Innovation Fellows
+{{< note variant="comment" >}}## Rebeca Lamadrid Villarreal, PIF Executive Director — Presidential Innovation Fellows
 
 **How do you identify?**
 
@@ -205,7 +205,7 @@ To be here! My career in government just started earlier in 2022 and I feel very
 
 <hr width="75%">
 
-{{< note "comment" >}}## Dahianna Salazar Foreman, Communications and Marketing — U.S. Digital Corps, TTS Outreach
+{{< note variant="comment" >}}## Dahianna Salazar Foreman, Communications and Marketing — U.S. Digital Corps, TTS Outreach
 
 **How do you identify?**
 
@@ -239,6 +239,8 @@ Using my communications and marketing skills to ensure underrepresented communit
 
 <hr width="75%">
 
+{{< note >}} Read part two: [Latinx Identity in Design, Tech, and Government: The TTS Latinx employee resource group shares definitions, data, and the importance of representation in civic tech](https://digital.gov/2022/10/14/latinx-identity-in-design-tech-and-government/). {{< /note >}}
+
 ## Join our team
 
-We are currently have a number of positions open for [Designers—UX, Service, Content Strategy, and Product](https://join.tts.gsa.gov/join/tts-designer/). We are opening a role specifically for [bilingual (Spanish/English) UX Designers and Content Strategists](https://join.tts.gsa.gov/join/tts-bilingualdesigner/) to help improve services for the Spanish-speaking public. Check out open positions or register for an info session to ask questions and learn more about the process [on the TTS join page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/).
+We currently have a number of positions open for Designers—UX, Service, Content Strategy, and Product. We are opening a role specifically for bilingual (Spanish/English) UX Designers and Content Strategists to help improve services for the Spanish-speaking public. Check out open positions or register for an info session to ask questions and learn more about the process [on the TTS join page](https://join.tts.gsa.gov/). If you would like to be notified when an application is open, please join our mailing list at: [join.tts.gsa.gov/newsletter](https://join.tts.gsa.gov/newsletter/).

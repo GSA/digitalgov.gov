@@ -1,13 +1,20 @@
 ---
+url: /services/mobile-application-testing-program/
+
+# Approximate date, mentioned August 2013 https://digital.gov/2013/08/22/mobile-product-testing-guidelines/ 
+date: 2013-06-16 11:20:38 -0400
+
 # What is the name of the product or service?
 title: "Federal Crowdsource Mobile Testing Program"
 
 # Keep it short — should be no longer than 10 words.
 summary: "Compatibility testing service that agencies can use to test the mobile-friendliness of their websites."
 
+redirectto: https://digital.gov/topics/mobile/
+
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-# source_url: ''
+
+# source_url: ""
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
@@ -29,7 +36,7 @@ authors:
 
 ---
 
-{{< note "alert" >}}
+{{< note variant="alert" >}}
 **The Federal Crowdsource Mobile Testing Program** at the U.S. General Services Administration (GSA) is no longer active. This page will be archived.
 {{< /note >}}
 
@@ -59,4 +66,4 @@ Whether you have a site ready for testing or want to join our cadre of volunteer
 
 Our program has tested a native app or two, but there have been some challenges to doing so. If your app is already in the app stores, then we won’t have a problem. Just send us an email and let us know how we might be able to help.
 
-_Want to learn more about what we've learned in the Federal Crowdsource Mobile Testing program? [Check out our lessons learned blog posts]({{< ref "/topics/mobile-testing" >}})!_
+_Want to learn more about what we've learned in the Federal Crowdsource Mobile Testing program? [Check out our lessons learned blog posts]({{< ref "/topics/mobile" >}})!_

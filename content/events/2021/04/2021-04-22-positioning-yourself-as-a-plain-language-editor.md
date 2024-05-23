@@ -13,7 +13,7 @@ end_date: 2021-05-19 15:30:00 -0500
 topics:
   - professional-development
   - plain-language
-  - writing
+  - communication
 # See all authors at https://digital.gov/authors
 authors:
   - wendy-wagner-smith

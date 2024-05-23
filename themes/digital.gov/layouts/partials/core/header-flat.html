@@ -4,8 +4,18 @@
     <div class="usa-navbar">
       <div class="usa-logo" id="basic-logo">
         <em class="usa-logo__text">
-          <a href="{{- "/" | relURL -}}" title="{{- .Site.Title }} Home" aria-label="{{- .Site.Title }} Home">
-            <img class="logo-black" src="{{- "img/digitalgov-logo.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" />
+          <a
+            href="{{- .Site.BaseURL -}}"
+            title="{{- .Site.Title }} Home"
+            aria-label="{{- .Site.Title }} Home"
+          >
+            <img
+              class="logo-black"
+              src="{{- "img/digitalgov-logo.svg" | absURL -}}"
+              alt="{{- .Site.Title -}} Logo"
+              width="220"
+              height="36"
+            />
           </a>
         </em>
       </div>
@@ -14,20 +24,25 @@
 
     <nav aria-label="Primary navigation" class="usa-nav">
       <button class="usa-nav__close">
-        <img src="{{ "/uswds/img/close.svg" | relURL }}" alt="close">
+        <img src="{{ "uswds/img/close.svg" | relURL }}" alt="close" />
       </button>
 
       {{- $currentNode := . -}}
       {{- $menuClasses := "usa-nav__primary-item" -}}
       <ul class="usa-nav__primary usa-accordion">
         {{- range .Site.Menus.primary -}}
-          <li class="usa-nav__primary-item {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} usa-current{{ end }}">
-            <a class="usa-nav__link" href="{{- .URL -}}"><span>{{- .Name -}}</span></a>
+          <li
+            class="usa-nav__primary-item {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }}
+              usa-current
+            {{ end }}"
+          >
+            <a class="usa-nav__link" href="{{- .URL -}}"
+              ><span>{{- .Name -}}</span></a
+            >
           </li>
         {{- end -}}
-      </ul><!-- .nav -->
-
+      </ul>
+      <!-- .nav -->
     </nav>
   </div>
-
 </header>

@@ -6,7 +6,7 @@ slug: guide-paperwork-reduction-act
 date: 2019-10-09 15:00:00 -0500
 title: "Guide to the Paperwork Reduction Act"
 deck: "A plain language guide which answers the most common questions to the PRA"
-summary: "A plain language guide which answers the most common questions to the PRA"
+summary: "A plain language guide which answers the most common questions to the PRA."
 
 # originally published at the following URL
 source_url: "https://pra.digital.gov/"
@@ -17,11 +17,10 @@ source: pra-guide
 
 # see all topics at https://digital.gov/topics
 topics:
-  - cx
-  - pra
-  - policy
+  - customer-experience
+  - information-collection
   - research
-  - user-research
+  - policy
 
 # see all authors at https://digital.gov/authors
 authors:

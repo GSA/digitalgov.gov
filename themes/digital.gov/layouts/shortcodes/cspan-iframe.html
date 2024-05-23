@@ -1,0 +1,19 @@
+{{/* Pass in the src url and the title attributes
+  {{< cspan-iframe src="https://www.c-span.org/video/standalone/?512480-1/confirmation-hearing-gsa-administration-intelligence-agencies-nominees" title="Confirmation Hearing for GSA Administration and Intelligence Agencies Nominees"
+>}}
+*/}}
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" -}}
+
+
+<section class="iframe-embed add-aspect-4x3">
+  <iframe
+    title="{{ $title }}"
+    width="512"
+    height="330"
+    src="{{ $src }}"
+    allowfullscreen="allowfullscreen"
+    frameborder="0"
+    sandbox="allow-same-origin allow-scripts"
+  ></iframe>
+</section>

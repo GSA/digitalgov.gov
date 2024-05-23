@@ -18,10 +18,8 @@ end_date: 2019-11-05 16:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - agile
-  - product-management
-  - kanban
-  - scrum
+  - product-and-project-management
+  - software-engineering
 
 # see all authors at https://digital.gov/authors
 authors: 
@@ -42,7 +40,7 @@ weight: 0
 # Make it better ♥
 ---
 
-[View the slides](https://digital.gov/pdf/Foundations-of-Agile-%20Part-2-Slides.pdf) (PDF, 1.67 MB, 38 pages)
+[View the slides](https://s3.amazonaws.com/digitalgov/static/foundations-of-agile-part-2-slides.pdf) (PDF, 1.67 MB, 38 pages)
 
 Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
 
@@ -102,6 +100,6 @@ _Learn more about how 18F can support your team at [https://18f.gsa.gov](https:/
 
 ---
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). 
 
 _This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._

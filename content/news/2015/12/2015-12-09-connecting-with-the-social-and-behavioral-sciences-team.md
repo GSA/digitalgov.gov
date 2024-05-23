@@ -2,23 +2,20 @@
 slug: connecting-with-the-social-and-behavioral-sciences-team
 date: 2015-12-09 1:40:55 -0400
 title: Connecting with the Social and Behavioral Sciences Team
-summary: 'The new Social and Behavioral Sciences Team (SBST) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on. Amira also shared how agencies can propose projects for the SBST to tackle, and explained'
+summary: 'The new Social and Behavioral Sciences Team (SBST) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on.'
+
 authors:
   - jsnee
   - rflagg
+
 topics:
-  - product-management
-  - monthly-theme
-  - cx
-  - customer-experience-community-of-practice
-  - cx
-  - recaps
-  - SBST
-  - Social and Behavioral Sciences Team
+  - product-and-project-management
+  - customer-experience
   - user-experience
+
 ---
 
-The new [Social and Behavioral Sciences Team (SBST)](https://sbst.gov/) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on. Amira also shared how agencies can propose projects for the SBST to tackle, and explained how social and behavioral sciences, customer experience (CX) and user experience (UX) work together to enhance government products and services.
+The new [Social and Behavioral Sciences Team (SBST)](https://www.sbst.gov/) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on. Amira also shared how agencies can propose projects for the SBST to tackle, and explained how social and behavioral sciences, customer experience (CX) and user experience (UX) work together to enhance government products and services.
 
 {{< legacy-img src="2015/12/600-x-400-SBST-team-group-photo.jpg" alt="Group photo of the new Social and Behavioral Sciences Team" >}}
 
@@ -28,7 +25,9 @@ The SBST works to fundamentally understand how people act and make decisions, to
 
 The SBST is a Subcommittee of the National Science and Technology Council, which is comprised of representation from more than 15 organizations from across government. The team applies findings from social and behavioral sciences to the implementation of government policy and programs. OMB requires agencies to report on how they apply evidence-based thinking to their work, and the SBST gives agencies a place to connect around this discipline.
 
-[Read about SBST projects](https://sbst.gov/work/) in areas such as: health, education, retirement security, economic opportunity, sustainability and government operations. {{< legacy-img src="2015/12/600-x-400-Intellectual-thinker-DigtialStorm-iStock-Thinkstock-176979199.jpg" alt="Blue x-ray of human head with gears in the brain, centered on a black background" caption="" >}} 
+[Read about SBST projects](https://www.sbst.gov/work/) in areas such as: health, education, retirement security, economic opportunity, sustainability and government operations.
+
+{{< legacy-img src="2015/12/600-x-400-Intellectual-thinker-DigtialStorm-iStock-Thinkstock-176979199.jpg" alt="Blue x-ray of human head with gears in the brain, centered on a black background" caption="DigtialStorm, iStock, Thinkstock" >}} 
 
 ## Partnering with the SBST
 
@@ -46,4 +45,4 @@ How can CX, UX and social and behavioral sciences collaborate to improve the pub
 
 Each group asks a different but important question. By combining these disciplines, you can develop a great product.
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) (U.S. government email address [.gov, .mil, etc.] required), [visiting]({{< ref "customer-experience.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.
+Keep up with all that’s happening in government customer experience by [joining the CX Community](https://digital.gov/communities/customer-experience/) and by [viewing our government customer experience playlist of on-demand training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW).

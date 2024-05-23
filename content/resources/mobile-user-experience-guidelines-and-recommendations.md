@@ -2,26 +2,26 @@
 slug: mobile-user-experience-guidelines
 date: 2013-12-11 4:13:00 -0400
 title: Mobile User Experience Guidelines
-summary: "Six user experience guidelines for creating a mobile product."
 deck: "Six user experience guidelines for creating a mobile product."
-guidenav: connected-government
+summary: "These mobile user experience guidelines were distilled from community feedback about mobile UX practices."
+
 authors:
   - jparcell
+
 topics:
   - mobile
   - user-experience
-  - mobile-gov
-  - mobile-gov-community-of-practice
+
 aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/
 
 ---
 
-If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
+If your app doesn't have a good user experience, it goes to the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
 
-The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://participation.usa.gov/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
+The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://digital.gov/guides/public-participation/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
 
-As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< ref "/communities" >}}) members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
+As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do's and Don'ts. To answer their call, we asked [MobileGov Community of Practice]({{< ref "/communities" >}}) members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
 
 **[Guideline 1](#guideline1 "Mobile User Experience Guidelines and Recommendations 1")**: Make sure your content is structured and chunked appropriately for multiple devices
 
@@ -29,17 +29,15 @@ As more agencies develop mobile apps and websites, they need quick guidance on m
 
 **[Guideline 3](#guideline3 "Mobile User Experience Guidelines and Recommendations 3")**: Leverage the device’s features for usability and accessibility
 
-**[Guideline 4](#guideline4 "Mobile User Experience Guidelines and Recommendations 4")**: Test at multiple points in the design/development process
+**[Guideline 4](#guideline4 "Mobile User Experience Guidelines and Recommendations 4")**: Test at multiple points in the design or development process
 
-**[Guideline 5](#guideline5 "Mobile User Experience Guidelines and Recommendations 5")**: Collect and use data (quantitative and qualitative) to determine what content your users want and where
+**[Guideline 5](#guideline5 "Mobile User Experience Guidelines and Recommendations 5")**: Collect and use quantitative and qualitative data to determine what content your users want and where
 
-**[Guideline 6](#guideline6 "Mobile User Experience Guidelines and Recommendations 6")**: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems
+**[Guideline 6](#guideline6 "Mobile User Experience Guidelines and Recommendations 6")**: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems
 
 Below we have added specific resources to each guideline.
 
-<h2 id="guideline1">
-  Guideline 1: Make sure your content is structured and chunked appropriately for multiple devices
-</h2>
+<h2 id="guideline1">Guideline 1: Make sure your content is structured and chunked appropriately for multiple devices</h2>
 
 ### Government Examples and Resources:
 
@@ -47,8 +45,6 @@ Below we have added specific resources to each guideline.
 - [Why NCI Moved to a Structured]({{< ref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}}) Content Model (a case study)
 - [Structured]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}) Content in Government: How HHS and NCI Are Getting Started
 - [18F Digital Content Guide](https://pages.18f.gov/content-guide/index.html) &#8211; This guide helps writers create content that’s easy to use and meets citizens where they’re at.
-- [Sites.USA.gov](https://sites.usa.gov/)
-- Sites is a shared service to help agencies focus on creating great content rather than on building systems to deliver that content.
 - Open Source Code for [Making Tables Responsive]({{< ref "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}) &#8211; Learn how the Defense Financial Accounting Service [leveraged code that the Department of Health and Human Services developed]({{< ref "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" >}}) to make their tables and charts responsive.
 - Open and Structured Content: &#8220;Article&#8221; and &#8220;Event&#8221; Models
 - [Government Open and Structured Content Models Are Here]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) &#8211; Introduction to the content models developed by the Open and Structured Content Working Group
@@ -62,13 +58,11 @@ Below we have added specific resources to each guideline.
 - Guidelines to [making Mobile Websites]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}) mobile search friendly &#8211; A how-to guide written by the Search.gov _(formerly DigitalGov Search)_ team
 - [How to Use Open Source CMS to Implement Responsive Web Design]({{< ref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
 
-<h2 id="guideline2">
-  Guideline 2: Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product
-</h2>
+<h2 id="guideline2">Guideline 2: Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product</h2>
 
 ### Government Regulations and Resources:
 
-- [Section 508 Rules refresh](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/proposed-rule/ii-executive-summary) &#8211; includes guidance for smartphones and other new devices.
+- [Section 508 Rules refresh](https://www.access-board.gov/ict/#i-executive-summary) &#8211; includes guidance for smartphones and other new devices.
 - [Status of Worldwide Efforts to Update Accessibility Guidance]({{< ref "2015-06-23-trends-on-tuesday-global-efforts-underway-to-update-mobile-accessibility-guidelines.md" >}})
 - U.S. Department of Labor&#8217;s Accessibility [test script for Section 508 compliance of native apps](https://github.com/USDepartmentofLabor/Mobile-Accessibility-Test-Script) .
 - [Mobile Statement of Work and Developer Qualifications]({{< ref "mobile-sow-and-developer-qualifications.md" >}})
@@ -85,9 +79,7 @@ Below we have added specific resources to each guideline.
 - [Google Mobile Friendly PDF](http://services.google.com/fh/files/misc/mobile-friendly-starter-guide.pdf) &#8211; Basic one sheeter for webmasters.
 - [Google Principles of Mobile Site Design](http://static.googleusercontent.com/media/www.google.com/en//intl/ALL_ALL/think/multiscreen/pdf/multi-screen-moblie-whitepaper_research-studies.pdf) &#8211; Tips for delighting mobile users and increasing mobile conversions.
 
-<h2 id="guideline3">
-  Guideline 3: Leverage the device’s features for usability and accessibility
-</h2>
+<h2 id="guideline3">Guideline 3: Leverage the device’s features for usability and accessibility</h2>
 
 ### Government Examples and Resources:
 
@@ -101,9 +93,7 @@ Below we have added specific resources to each guideline.
 - [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)
 - [Accordions on Mobile](http://www.nngroup.com/articles/mobile-accordions/)
 
-<h2 id="guideline4">
-  Guideline 4: Test at multiple points in the design/development process
-</h2>
+<h2 id="guideline4">Guideline 4: Test at multiple points in the design or development process</h2>
 
 ### Government Examples and Resources:
 
@@ -122,9 +112,7 @@ Below we have added specific resources to each guideline.
 - [W3C Mobile OK Checker](https://validator.w3.org/mobile/)
 - [Why Mobile Testing is Tough](http://www.softwaretestinghelp.com/why-mobile-testing-is-tough/)
 
-<h2 id="guideline5">
-  Guideline 5: Collect and use data (quantitative and qualitative) to determine what content your users want and where
-</h2>
+<h2 id="guideline5">Guideline 5: Collect and use quantitative and qualitative data to determine what content your users want and where</h2>
 
 ### Government Examples & Resources:
 
@@ -136,21 +124,19 @@ Below we have added specific resources to each guideline.
 
 ### Non-Government Examples & Resources:
 
-- [Google Mobile Analytics](https://analyticsacademy.withgoogle.com/course04)
+- [Google Analytics Academy - Mobile App Analytics Fundamentals (YouTube playlist, 14 videos)](https://www.youtube.com/watch?v=kXvA5CqGPbI&list=PLI5YfMzCfRtZCt8JgQWN-irBbYYAuJ_U9)
 - [Flurry Mobile Analytics](https://developer.yahoo.com/flurry/docs/analytics/)
 - [GovUK Analysis of Mobile User Habits](https://insidegovuk.blog.gov.uk/2015/06/26/improving-content-display-mobile/)
 - [Multi-armed Bandit Approach to Testing](http://stevehanov.ca/blog/index.php?id=132)
 - [The Ultimate Guide to A/B Testing](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/)
 
-<h2 id="guideline6">
-  Guideline 6: Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems
-</h2>
+<h2 id="guideline6">Guideline 6: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems</h2>
 
 ### Government Examples & Resources:
 
-- [Mobile Technology Tiger Team](https://cio.gov/mobile-technology-tiger-team-sets-federal-mobile-applications-security-standards/)
+- [Federal Mobility Group](https://www.cio.gov/about/members-and-leadership/Federal-Mobility-Group/)
 - [Mobile Privacy Disclosures: Building Trust Through Transparency: A Federal Trade Commission Staff Report](https://www.ftc.gov/reports/mobile-privacy-disclosures-building-trust-through-transparency-federal-trade-commission), Feb 2013
-- [Mobile App Developers: Start with Security](https://www.ftc.gov/tips-advice/business-center/guidance/mobile-app-developers-start-security), FTC
+- [Mobile App Developers: Start with Security](https://www.ftc.gov/business-guidance/resources/app-developers-start-security), FTC
 
 ### Non-Government Examples & Resources:
 

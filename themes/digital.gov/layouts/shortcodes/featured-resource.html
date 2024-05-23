@@ -1,0 +1,12 @@
+<!-- prettier-ignore-start -->
+{{/* Featured rounded box that displays a guide kicker, title, summary, and image and links to a resource
+
+@param $resourcePath path to guide "/guides/dap"
+@param $kicker display kicker text if exists
+  
+Example usage:
+{{< featured-resource resourcePath = "/guides/dap/" kicker = "kicker to display">}}
+*/}}
+<!-- prettier-ignore-end -->
+
+{{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" (.Get "resourcePath") "kicker" (.Get "kicker")) -}}

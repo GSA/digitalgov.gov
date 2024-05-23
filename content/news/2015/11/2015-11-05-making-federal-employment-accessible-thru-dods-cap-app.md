@@ -1,22 +1,15 @@
 ---
 slug: making-federal-employment-accessible-thru-dods-cap-app
 date: 2015-11-05 10:00:43 -0400
-title: Making Federal Employment Accessible thru DOD’s CAP App
-summary: '&ldquo;My Disability is One Part of Who I Am&rdquo; was the theme of the 70th National Disability Employment Awareness Month this past October. We celebrated the many contributions of our friends and co-workers with disabilities and recognized the diverse skills and talents they bring to our workplace. However, the real question is: how do we create a'
+title: Making Federal Employment Accessible Through DOD’s CAP App
+summary: "The Department of Defense CAP app allows U.S. government employees to use their mobile devices to look up information about services and resources."
 authors:
   - nramprasad
 topics:
   - accessibility
   - mobile
-  - accessibility
-  - DoD
   - mobile
-  - native-app
-  - native-apps
-  - SSA
-  - the-united-states-social-security-administration
-  - thursday-mobile-products
-  - united-states-department-of-defense
+
 ---
 
 “My Disability is One Part of Who I Am” was the theme of the [70th National Disability Employment Awareness Month](http://www.dol.gov/odep/topics/ndeam/) this past October. We celebrated the many contributions of our friends and co-workers with disabilities and recognized the diverse skills and talents they bring to our workplace.
@@ -31,7 +24,9 @@ The CAP mobile app allows people to use their mobile devices to look up informat
 
 You can use this app to learn about a variety of accommodation solutions. The solutions describe in detail smart phone accessibility features and lead you to other useful mobile apps and self-help tools. For example, there are tools that allow you to recognize and rate your level of anxiety, and the [Breathe2Relax app]({{< ref "2015-06-25-using-apps-for-mental-healthcare.md" >}}) teaches stress-reducing breathing techniques.
 
-{{< legacy-img src="2015/11/250-x-444-CAP-Mobile-App-iPhonevideos-screen.jpg" alt="The videos screen from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}The app includes many useful features such as:
+{{< legacy-img-right src="2015/11/250-x-444-CAP-Mobile-App-iPhonevideos-screen.jpg" alt="The videos screen from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}
+
+The app includes many useful features such as:
 
   * A running tally of accommodations provided to federal employees
   * News and tips on the latest assistive technologies

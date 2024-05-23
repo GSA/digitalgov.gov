@@ -18,13 +18,9 @@ summary: "**The USA.gov's team launched a new analytics dashboard** that shows t
 
 # see all topics at https://digital.gov/topics
 topics:
-  - metrics
-  - multilingual
   - analytics
-  - analytics-usa-gov
-  - customer-service
-  - dap
-  - usa-gov
+  - multilingual
+  - customer-experience
 
 # see all authors at https://digital.gov/authors
 authors:

@@ -12,13 +12,12 @@ source: uswds
 slug: website-standards
 date: 2020-01-23 20:00:00 -0500
 title: "The website standards"
-deck: "as defined in 21st Century IDEA"
-summary: "as defined in 21st Century IDEA"
+deck: "The Design System incorporates federal standards to improve federal websites and digital services."
+summary: "As defined in 21st Century IDEA, the Design System incorporates federal standards to improve federal websites and digital services."
 
 # see all topics at https://digital.gov/topics
 topics:
-  - uswds
-  - 21st-century-idea
+  - digital-service-delivery
   - policy
 
 # see all authors at https://digital.gov/authors

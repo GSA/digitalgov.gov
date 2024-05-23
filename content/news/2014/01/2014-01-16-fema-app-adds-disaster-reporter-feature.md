@@ -7,14 +7,11 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - social-media
-  - crowdsourcing
-  - fema
-  - mobile-apps
-  - mobile-gov
-  - thursday-mobile-products
 ---
 
-[{{< legacy-img src="2014/01/femaappphoto-266x400.png" alt="Fema App Screenshot of Disaster Reporter Feature" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/femaappphoto.png)The [Federal Emergency Management Agency](http://www.fema.gov) (FEMA) is taking the well-known slogan, &#8220;See something, say something,&#8221;__ to the crowd. Consider it more &#8220;See something, submit something.&#8221;
+The [Federal Emergency Management Agency](http://www.fema.gov) (FEMA) is taking the well-known slogan, &#8220;See something, say something,&#8221;__ to the crowd. Consider it more &#8220;See something, submit something.&#8221;
+
+{{< legacy-img-right src="2014/01/femaappphoto.png" alt="Fema App Screenshot of Disaster Reporter Feature" >}}
 
 Harnessing the power of _citizen intelligence_ to understand and respond to disasters, FEMA in late 2013 launched **[a new feature in its iOS/Android app](https://itunes.apple.com/us/app/fema/id474807486?ls=1&mt=8)** that crowd-sources photos of disasters and extreme events.
 

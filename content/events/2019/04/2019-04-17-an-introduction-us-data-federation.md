@@ -18,8 +18,7 @@ end_date: 2019-04-17 14:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
-  - api
-  - data
+  - application-programming-interface
   - open-source
 
 # see all authors at https://digital.gov/authors
@@ -52,7 +51,7 @@ That’s where the [U.S. Data Federation](https://github.com/18F/data-federation
 
 **In this presentation**: Find out how the U.S. Data Federation’s work can help you. The team will give an introduction to the problems the U.S. Data Federation seeks to address, describe its approach, and share its vision for the future of the initiative. The presentation will also include a demo of the first of U.S. Data Federation’s reusable tools, an API-based data validation service.
 
-*Questions about this event or other events? Send them to digitalgovu@gsa.gov.*
+*Questions about this event or other events? Send them to digitalgov@gsa.gov.*
 
 **Other resources:**
 

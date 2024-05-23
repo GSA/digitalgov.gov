@@ -7,12 +7,6 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - mobile-apps
-  - NORAD
-  - North American Defense Command
-  - SSA
-  - the-united-states-social-security-administration
-  - thursday-mobile-products
 ---
 
 > &#8216;Twas the night before Christmas, when all through the house,

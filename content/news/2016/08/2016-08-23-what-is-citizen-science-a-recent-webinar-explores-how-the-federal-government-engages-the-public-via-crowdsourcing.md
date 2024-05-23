@@ -7,23 +7,13 @@ authors:
   - zohaa-ahmad
 topics:
   - crowdsourcing-and-citizen-science
-  - cdc
-  - centers-for-disease-control-and-prevention
-  - citizen-science
-  - citizen-science-and-crowdsourcing-community-of-practice
-  - communities
-  - crowdsourcing
-  - digitalgov-university
-  - NPS
-  - recaps
-  - us-national-park-service
 ---
 
 From the [National Park Service](https://www.nps.gov/) (NPS) to the [Centers for Disease Control and Prevention](http://www.cdc.gov/) (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government.
 
 {{< legacy-img src="2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government." >}}
 
-A recent [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) [webinar](https://www.youtube.com/watch?v=FfrUME9y-wI) provides an introduction to the concept and shows how the federal government is using it to engage the public and address important issues.
+A recent [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar provides an introduction to the concept and shows how the federal government is using it to engage the public and address important issues.
 
 The federal government has seen [a surge of citizen science initiatives]({{< ref "2016-06-24-white-house-challenges-citizen-science-among-top-innovation-efforts-of-past-8-years.md" >}}) thanks to several developments, starting with a [memo](https://www.whitehouse.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) (OSTP) that outlined ways agencies can use citizen science. The memo also gave birth to [CitizenScience.gov](https://www.citizenscience.gov/), the government’s new hub for all things citizen science.
 
@@ -43,12 +33,12 @@ Beyond this general definition are three big ideas that are enhanced by the new 
 
   * **Requires collaboration for maximum impact:** Communication plays a big role in the success of citizen science. When an issue in program design, implementation or evaluation arises, communication via different channels can alleviate the problem. Conferences, meetings and working groups are just some of the ways those involved can work together. The [community](https://www.citizenscience.gov/community/) page on CitizenScience.gov allows agencies to support the participants in their citizen science projects, as well as make connections throughout the federal government. This page lists nearly 30 coordinators who help organize and promote citizen projects at their respective agencies.
 
-If this sounds like something you or your agency want to be a part of, you should check out the [webinar](https://www.youtube.com/watch?v=FfrUME9y-wI) and spend some time exploring [CitizenScience.gov](https://www.citizenscience.gov/).
+If this sounds like something you or your agency want to be a part of, you should check out the webinar and spend some time exploring [CitizenScience.gov](https://www.citizenscience.gov/).
 
 There, you will find a diverse community that is transforming society within the learning and the science worlds through a variety of collaborations. It’s a perfect illustration of public engagement and open innovation, bringing together people to help solve scientific problems regardless of age, gender, race, class, or other factors.
 
-{{< youtube FfrUME9y-wI >}}
+---
 
 _Zohaa Ahmad is a rising junior at Riverside High School in Leesburg, VA who is interested in pursuing the medical field in the future. She is interning with the Innovation Portfolio in the Technology Transformation Service (TTS) Office of Citizen Services and Innovative Technologies (OCSIT) at GSA for summer 2016._
 
-Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) and [register for an upcoming event]({{< ref "/events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgovu@gsa.gov).
+Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) and [register for an upcoming event]({{< ref "/events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgov@gsa.gov).

@@ -2,10 +2,15 @@
 slug: contact-center-guidelines/contact-center-technologies
 date: 2014-02-05 10:27:01 -0400
 title: Contact Center Technologies
-summary: "A contact center is supported by many technologies designed to enhance the customer experience, improve the operating and management efficiency, or lower the overall costs of running a contact center. These technologies are: Automatic Call Distributor Systems Email Response Management Systems Intelligent Call Routing Interactive Voice Response Systems Knowledge Management Systems TTY/TDD Communications Toll-Free Telephone"
+summary: "A contact center is supported by many technologies designed to enhance the customer experience, improve the operating and management efficiency, or lower the overall costs of running a contact center."
+
+authors:
+  - tonya-beres
+
 topics:
   - contact-centers
-  - cx
+  - customer-experience
+
 ---
 
 A contact center is supported by many technologies designed to enhance the customer experience, improve the operating and management efficiency, or lower the overall costs of running a contact center. These technologies are:
@@ -52,34 +57,34 @@ Contact centers are striving to serve their customers using communication channe
 
 ### Key Features for Email Response Management Systems
 
-- **Source Filtering—**Ability to accept email only from approved sources (for example, specified domains and sub–domains, specified webforms).
-- **Support Large Number of Incoming Mailboxes—**Ability to support large number of mailboxes with disparate routing and business rules.
-- **Support Multiple Email Formats—**Ability to accept freeform email as well as email submitted via a webform.
-- **Support Multiple Content Formats—**Ability to send and receive email inquiries in ASCII text and rich-text formats.
-- **Attachments—**Ability to send and receive email with attachments.
-- **Configurable Content Filtering—**Ability to automatically filter out spam, duplicates, tests, and other nuisance or invalid emails based on predefined rules.
-- **Blocking—**Ability to block emails from automated submission systems and from specific email addresses and domains.
-- **Auto-Acknowledgement—**Ability to send auto acknowledgement immediately upon receipt of an email inquiry.
-- **Auto–Forward—**Ability to immediately forward a copy of all incoming email to designated recipient(s).
-- **Routing—**Ability to analyze the source, destination, subject, and/or content of the email inquiries and route to the appropriate resources based on agent availability and/or skills, and business rules.
-- **Tracking Number—**Ability to automatically generate a tracking number and associate it with each incoming email immediately upon receipt.
-- **Status Tracking—**Ability to track status of email inquiries from receipt to completion, including date and time of receipt and completion, response time, and disposition.
-- **Response Library—**Ability to create and store a comprehensive library of response templates for common inquiries.
-- **Auto-Response—**Ability to analyze email subject and content and automatically respond with a preapproved response that corresponds to the inquiry.
-- **Auto-Suggest—**Ability to analyze email subject and content and suggest the most relevant answer(s) for use by the agent to respond.
-- **Grammar and Spelling Checks—**Ability to allow email agents to perform grammar and spelling checks on email correspondence before it is prior to sending of email.
-- **Bcc—**Ability to send Blind carbon copy(s) or Bcc(s) to designated recipient(s) when an email response is sent.
-- **Management Reports—**Ability to provide comprehensive daily reports with weekly, monthly, and annual rollups.
+- **Source Filtering**&mdash;Ability to accept email only from approved sources (for example, specified domains and sub–domains, specified webforms).
+- **Support Large Number of Incoming Mailboxes**&mdash;Ability to support large number of mailboxes with disparate routing and business rules.
+- **Support Multiple Email Formats**&mdash;Ability to accept freeform email as well as email submitted via a webform.
+- **Support Multiple Content Formats**&mdash;Ability to send and receive email inquiries in ASCII text and rich-text formats.
+- **Attachments**&mdash;Ability to send and receive email with attachments.
+- **Configurable Content Filtering**&mdash;Ability to automatically filter out spam, duplicates, tests, and other nuisance or invalid emails based on predefined rules.
+- **Blocking**&mdash;Ability to block emails from automated submission systems and from specific email addresses and domains.
+- **Auto-Acknowledgement**&mdash;Ability to send auto acknowledgement immediately upon receipt of an email inquiry.
+- **Auto–Forward**&mdash;Ability to immediately forward a copy of all incoming email to designated recipient(s).
+- **Routing**&mdash;Ability to analyze the source, destination, subject, and/or content of the email inquiries and route to the appropriate resources based on agent availability and/or skills, and business rules.
+- **Tracking Number**&mdash;Ability to automatically generate a tracking number and associate it with each incoming email immediately upon receipt.
+- **Status Tracking**&mdash;Ability to track status of email inquiries from receipt to completion, including date and time of receipt and completion, response time, and disposition.
+- **Response Library**&mdash;Ability to create and store a comprehensive library of response templates for common inquiries.
+- **Auto-Response**&mdash;Ability to analyze email subject and content and automatically respond with a preapproved response that corresponds to the inquiry.
+- **Auto-Suggest**&mdash;Ability to analyze email subject and content and suggest the most relevant answer(s) for use by the agent to respond.
+- **Grammar and Spelling Checks**&mdash;Ability to allow email agents to perform grammar and spelling checks on email correspondence before it is prior to sending of email.
+- **Bcc**&mdash;Ability to send Blind carbon copy(s) or Bcc(s) to designated recipient(s) when an email response is sent.
+- **Management Reports**&mdash;Ability to provide comprehensive daily reports with weekly, monthly, and annual rollups.
 
 ### Things to Consider When Adding Email Service
 
-- **Complexity—**Email may not be the most effective channel for supporting your customers if the questions involve diverse or complex subject matters and the response workflow does not allow for back–and–forth probing to clarify questions. The inability for agents to probe the customers to clarify their questions before responding may lead to wrong or incomplete answers, which directly affects customer satisfaction. Decide whether you want to permit or block back–and–forth exchanges between agent and customer. The nature of your program will help you decide whether the possibility of multiple exchanges provides an optimal response and is worth the added cost and complexity, whether it adds little value, or whether it is necessary but cost–prohibitive considering your budget. If the latter is true, email may not be a good fit for your program.
-- **Cost—**While much about the email channel makes it a pricey alternative (complexity, time needed to respond), it does offer one cost benefit. Email doesn’t require that your center to be staffed with a large number of agents needed to handle incoming inquiries quickly—often within a timeframe specified in seconds, as is true with phone calls and web chats. Email allows more flexibility in staffing since inquiries don&#8217;t need to be answered in real time.
-- **Auto-Response/Auto-Suggest or Agent-Answered—**Decide whether the questions your customers will ask can readily be answered without human intervention. If you believe they can be, consider a system that offers an immediate response based on key content in the question. You can combine this feature with the ability to allow a customer to go on to an agent if he or she feels that the auto–response does not satisfy the question.
-- **Personalized or Canned Responses—**For agent-answered responses, think again about the questions your customers will ask and how you want to answer them. Customers prefer personalized answers over canned answers but preparing personalized answers is more labor intensive, thus costs more to support. Choosing responses from a library of canned answers is less labor intensive for the agent, but customers may be less satisfied with the impersonal experience.
-- **Systems Integration—**To the extent practicable, select a system that can be easily integrated with systems that support other contact center activities, such as phone and web chat, knowledgebase, and Customer Relationship Management (CRM) systems.
-- **Privacy and Security—**Think about your business and what you need from customers in order to answer their email inquiries. If you need customers to include personally identifiable information (PII) in their email, you’ll need to secure the information to guard against unauthorized access and use of sensitive data.
-- **Linking to Web Resources—**The URLs of your Web resources can be lengthy and cumbersome for your agents to use when responding to an email or web chat inquiry. If your website is maintained by government employees or a contractor who has access to a government email account, you can use [Go.USA.gov](https://go.usa.gov/) to create short .gov URLs from official government domains, such as .gov, .mil, .si.edu, or .fed.us URLs. If your website is maintained by a contractor who doesn&#8217;t have access to a government email account, you can use [bitly](https://bitly.com/), the [Google URL Shortener](http://goo.gl/), or some similar service to shorten a .gov or .mil URL. You can include the short URL in the corresponding resource in your knowledgebase. The agent can then reference the short URL in the email or web chat response when providing a link to that resource.
+- **Complexity**&mdash;Email may not be the most effective channel for supporting your customers if the questions involve diverse or complex subject matters and the response workflow does not allow for back–and–forth probing to clarify questions. The inability for agents to probe the customers to clarify their questions before responding may lead to wrong or incomplete answers, which directly affects customer satisfaction. Decide whether you want to permit or block back–and–forth exchanges between agent and customer. The nature of your program will help you decide whether the possibility of multiple exchanges provides an optimal response and is worth the added cost and complexity, whether it adds little value, or whether it is necessary but cost–prohibitive considering your budget. If the latter is true, email may not be a good fit for your program.
+- **Cost**&mdash;While much about the email channel makes it a pricey alternative (complexity, time needed to respond), it does offer one cost benefit. Email doesn’t require that your center to be staffed with a large number of agents needed to handle incoming inquiries quickly—often within a timeframe specified in seconds, as is true with phone calls and web chats. Email allows more flexibility in staffing since inquiries don&#8217;t need to be answered in real time.
+- **Auto-Response/Auto-Suggest or Agent-Answered**&mdash;Decide whether the questions your customers will ask can readily be answered without human intervention. If you believe they can be, consider a system that offers an immediate response based on key content in the question. You can combine this feature with the ability to allow a customer to go on to an agent if he or she feels that the auto–response does not satisfy the question.
+- **Personalized or Canned Responses**&mdash;For agent-answered responses, think again about the questions your customers will ask and how you want to answer them. Customers prefer personalized answers over canned answers but preparing personalized answers is more labor intensive, thus costs more to support. Choosing responses from a library of canned answers is less labor intensive for the agent, but customers may be less satisfied with the impersonal experience.
+- **Systems Integration**&mdash;To the extent practicable, select a system that can be easily integrated with systems that support other contact center activities, such as phone and web chat, knowledgebase, and Customer Relationship Management (CRM) systems.
+- **Privacy and Security**&mdash;Think about your business and what you need from customers in order to answer their email inquiries. If you need customers to include personally identifiable information (PII) in their email, you’ll need to secure the information to guard against unauthorized access and use of sensitive data.
+- **Linking to Web Resources**&mdash;The URLs of your Web resources can be lengthy and cumbersome for your agents to use when responding to an email or web chat inquiry. If your website is maintained by government employees or a contractor who has access to a government email account, you can use [Go.USA.gov](https://go.usa.gov/) to create short .gov URLs from official government domains, such as .gov, .mil, .si.edu, or .fed.us URLs. If your website is maintained by a contractor who doesn&#8217;t have access to a government email account, you can use [bitly](https://bitly.com/), the [Google URL Shortener](http://goo.gl/), or some similar service to shorten a .gov or .mil URL. You can include the short URL in the corresponding resource in your knowledgebase. The agent can then reference the short URL in the email or web chat response when providing a link to that resource.
 
 ## Intelligent Call Routing {#intelligent}
 
@@ -91,11 +96,11 @@ A contact center may handle a variety of call types, each requiring a special sk
 
 Intelligent Call Routing can support these common types of instructions:
 
-- **Rules-Based Routing—**Route calls by percent allocation, destination priority, caller or called number, caller phone type (e.g., home phone, pay phone)
-- **Time-Based Routing—**Route calls by time of the day, day of the week, day of year
-- **Area-Based Routing—**Route calls by NPA (Area Code), NPA-NXX (Area and Exchange Codes), Zip Code
-- **Skills-Based Routing—**Route calls by call types and agent skills
-- **Menu/Database-Driven Routing—**Route calls by IVR menu selection, caller–entered data
+- **Rules-Based Routing**&mdash;Route calls by percent allocation, destination priority, caller or called number, caller phone type (e.g., home phone, pay phone)
+- **Time-Based Routing**&mdash;Route calls by time of the day, day of the week, day of year
+- **Area-Based Routing**&mdash;Route calls by NPA (Area Code), NPA-NXX (Area and Exchange Codes), Zip Code
+- **Skills-Based Routing**&mdash;Route calls by call types and agent skills
+- **Menu/Database-Driven Routing**&mdash;Route calls by IVR menu selection, caller–entered data
 
 These instruction types can be combined to form customized routing instructions that will define how calls are to be handled to provide the best customer service and to enable the contact center to operate at optimum efficiency.
 
@@ -129,16 +134,16 @@ IVRs can be provided on-premise or hosted by a service provider at a remote loca
 
 An IVR is an entry point for incoming telephone calls. It directs callers to the appropriate resources to answer calls in the most efficient manner. An IVR can enhance a contact center’s performance by:
 
-- **Increasing operating efficiency and improving the customer experience—**An IVR can answer a large volume of calls automatically without delay. When equipped with sufficient number of ports, an IVR can eliminate the frustrating busy signals so often experienced during periods of high call volume. It can enable callers to obtain recorded information and/or to conduct transactions without the assistance of trained specialists. For calls that require live assistance, the IVR can collect caller information and route the calls expeditiously, without multiple hand-offs.
-- **Lowering overall operating costs—**An IVR can reduce the staff needed during business hours by providing information to callers without the help of trained specialists, which in turn lowers the contact center&#8217;s operating costs.
-- **Extending service hours—**An IVR can operate around-the-clock without human intervention, providing a menu of information and services based on times-of-the-day, days-of-the-week, and holiday schedules.
-- **Polling and collecting customer survey and performance data—**An IVR can serve as a customer survey tool to collect feedback on performance of the IVR and trained specialists. It can also log call detail information into its own database for auditing, analysis, and reporting, which can further improve the IVR and contact center performance.
+- **Increasing operating efficiency and improving the customer experience**&mdash;An IVR can answer a large volume of calls automatically without delay. When equipped with sufficient number of ports, an IVR can eliminate the frustrating busy signals so often experienced during periods of high call volume. It can enable callers to obtain recorded information and/or to conduct transactions without the assistance of trained specialists. For calls that require live assistance, the IVR can collect caller information and route the calls expeditiously, without multiple hand-offs.
+- **Lowering overall operating costs**&mdash;An IVR can reduce the staff needed during business hours by providing information to callers without the help of trained specialists, which in turn lowers the contact center&#8217;s operating costs.
+- **Extending service hours**&mdash;An IVR can operate around-the-clock without human intervention, providing a menu of information and services based on times-of-the-day, days-of-the-week, and holiday schedules.
+- **Polling and collecting customer survey and performance data**&mdash;An IVR can serve as a customer survey tool to collect feedback on performance of the IVR and trained specialists. It can also log call detail information into its own database for auditing, analysis, and reporting, which can further improve the IVR and contact center performance.
 
 ### Different Types of IVR
 
 IVRs can be located in the same location as other contact center systems or hosted by a telecommunications service provider or an IVR application service provider at a remote location. These two different types of IVR are described below, along with the advantages and disadvantages for each.
 
-**1.** **On-Premise IVRs<a name="On-Premise"></a>**
+**1.** **On-Premise IVRs** <a name="On-Premise"></a>
 
 On-premise IVRs are generally located with Automatic Call Distributors (ACDs) and [Customer Relationship Management (CRM)](http://en.wikipedia.org/wiki/Customer_relationship_management) systems that support contact center operations.
 
@@ -158,7 +163,7 @@ Disadvantages:
 - Call transfers outside the system will be treated as separate calls and will tie-up both incoming and outgoing trunks for the duration of the calls, resulting in higher telecommunications costs.
 - Time required for initial implementation is generally longer than that of hosted IVRs.
 
-**2.** **Hosted IVRs<a name="Hosted IVRs"></a>**
+**2.** **Hosted IVRs** <a name="Hosted IVRs"></a>
 
 Hosted IVR services are provided by third-party providers who leverage their technology infrastructure and management expertise to serve many customers. Generally, hosted IVR services provided by established nationwide telecommunications service providers are perceived as more scalable than those provided by IVR application service providers.
 
@@ -187,7 +192,7 @@ For federal agencies and entities authorized to obtain products and services fro
 
 A Knowledge Management System (KMS) is a computerized system designed to support the creation, storage, and dissemination of information. Such a system contains a central repository of information that is well structured and employs a variety of effective and easy to use search tools that users can use to find answers to questions quickly.
 
-<span style="line-height: 1.5em;">One of the greatest challenges of running a contact center is making sure that customers are getting consistent, accurate, and timely information. KMS are developed to help contact center operators meet this challenge. By having answers to frequently asked questions in a central repository, agents and/or customers can search and retrieve the correct answers quickly and consistently. The concept of &#8220;create once, use by many&#8221; employed in the knowledge management process greatly increases the operating efficiency of contact centers and reduces overall costs. Other tangible benefits include:</span>
+One of the greatest challenges of running a contact center is making sure that customers are getting consistent, accurate, and timely information. KMS are developed to help contact center operators meet this challenge. By having answers to frequently asked questions in a central repository, agents and/or customers can search and retrieve the correct answers quickly and consistently. The concept of &#8220;create once, use by many&#8221; employed in the knowledge management process greatly increases the operating efficiency of contact centers and reduces overall costs. Other tangible benefits include:
 
 - Greater consistency and accuracy of information to customers
 - Improved handling and response times
@@ -196,7 +201,7 @@ A Knowledge Management System (KMS) is a computerized system designed to support
 - Reduced training time and costs for new agents
 - More effective feedback from users on the quality and usefulness of the knowledge.
 
-Most importantly, a KMS can provide comprehensive reporting to help contact center managers to continuously evaluate and manage the quality and effectiveness of the knowledge and productivity of their staff. Here&#8217;s information to help you [select a Knowledge Management Tool](http://www.icmi.com/Resources/Technology/2010/06/Selecting-a-Knowledge-Management-Tool-for-Your-Contact-Support-Center).
+Most importantly, a KMS can provide comprehensive reporting to help contact center managers to continuously evaluate and manage the quality and effectiveness of the knowledge and productivity of their staff. Here's information to help you [select a Knowledge Management Tool](http://www.icmi.com/Resources/Technology/2010/06/Selecting-a-Knowledge-Management-Tool-for-Your-Contact-Support-Center).
 
 ### How To Implement a KMS
 
@@ -226,7 +231,7 @@ There are a few ways you can serve people who are deaf, hard-of-hearing, or spee
 
 You can establish a separate TTY phone number, provide the necessary TTY/TDD equipment, and staff your center with TTY proficient agents to serve these customers. Your call volume and customer service goals will likely dictate whether you’ll answer the calls in real–time or call the callers back at a later time. For low call volume, you can provide a recorded text message informing the callers to leave their phone number for a callback later. For higher call volume, you’ll have to provide sufficient equipment and staff capacity to handle the incoming calls in real-time.
 
-You can educate and encourage your TTY callers to take advantage of the national [&#8220;711&#8221; Telecommunications Relay Service](http://www.fcc.gov/guides/711-telecommunications-relay-service), if your TTY call volume is low or if you don’t have TTY proficient agents. The relay service allows people to dial “711” to access all relay services anywhere in the United States, 24 hours a day, free of any surcharges to all callers within the country. The advantage of this arrangement is that you won’t have to set up and publicize a separate TTY phone number for your center, provide the necessary TTY equipment, and your agents can answer the calls in real-time just like they do for other callers.
+You can educate and encourage your TTY callers to take advantage of the national ["711" Telecommunications Relay Service](http://www.fcc.gov/guides/711-telecommunications-relay-service), if your TTY call volume is low or if you don’t have TTY proficient agents. The relay service allows people to dial “711” to access all relay services anywhere in the United States, 24 hours a day, free of any surcharges to all callers within the country. The advantage of this arrangement is that you won’t have to set up and publicize a separate TTY phone number for your center, provide the necessary TTY equipment, and your agents can answer the calls in real-time just like they do for other callers.
 
 ### Do TTY Numbers Need To Be Listed In Telephone Directories?
 
@@ -240,31 +245,31 @@ It is recommended that you not list your TTY number, unless you serve a large po
 
 There are different levels of service available. Choose the toll-free service provider that works best for your agency, then choose the features you need. **Basic toll-free service** includes the following routing features:
 
-- **Dialed Number Identification Service (DNIS)—**Identify which toll-free number your caller dialed, so your reps can answer the call with a personalized greeting.
-- **Caller ID/Real-time Automatic Number Identification (ANI)—**Also, known as caller ID. Helps reps to easily retrieve customer information from your database. You can handle more calls per day, since this typically shortens each call by 10 to 20 seconds.
-- **Route Advance—**Directs overflow calls to another dedicated circuit (On-Net Route Advance) or local lines (Off-Net Route Advance), so callers never get a busy signal.
-- **Uniform Call Distribution (UCD)—**Move excessive call traffic on your business lines to a toll-free trunk group. Track and distribute incoming calls evenly.
-- **Shared Location Service—**Redirects overflow toll-free calls to other locations, and can serve as a backup/disaster recovery solution.
-- **Multi-Carrier Routing—**Manage multiple carriers through a single point of contact.
+- **Dialed Number Identification Service (DNIS)**&mdash;Identify which toll-free number your caller dialed, so your reps can answer the call with a personalized greeting.
+- **Caller ID/Real-time Automatic Number Identification (ANI)**&mdash;Also, known as caller ID. Helps reps to easily retrieve customer information from your database. You can handle more calls per day, since this typically shortens each call by 10 to 20 seconds.
+- **Route Advance**&mdash;Directs overflow calls to another dedicated circuit (On-Net Route Advance) or local lines (Off-Net Route Advance), so callers never get a busy signal.
+- **Uniform Call Distribution (UCD)**&mdash;Move excessive call traffic on your business lines to a toll-free trunk group. Track and distribute incoming calls evenly.
+- **Shared Location Service**&mdash;Redirects overflow toll-free calls to other locations, and can serve as a backup/disaster recovery solution.
+- **Multi-Carrier Routing**&mdash;Manage multiple carriers through a single point of contact.
 
 You can also screen calls based on the following controls:
 
-- **Information Digits—**Block calls based on phone type, to help control pay phone surcharges.
-- **Area Code/Exchange—**Offer customers in your geographic market a toll-free local number, to better manage costs.
-- **Time of the Day—**Limit toll-free calls to hours of operation.
-- **Day of the Week—**Greet callers with a recorded announcement on the days your call center is closed.
-- **Day of the Year—**Greet callers with a recorded announcement when your office is closed for a holiday.
+- **Information Digits**&mdash;Block calls based on phone type, to help control pay phone surcharges.
+- **Area Code/Exchange**&mdash;Offer customers in your geographic market a toll-free local number, to better manage costs.
+- **Time of the Day**&mdash;Limit toll-free calls to hours of operation.
+- **Day of the Week**&mdash;Greet callers with a recorded announcement on the days your call center is closed.
+- **Day of the Year**&mdash;Greet callers with a recorded announcement when your office is closed for a holiday.
 
 **Enhanced toll-free service** adds even more functionality:
 
-- **Information Digit Control—**Identifies the caller&#8217;s phone type, to route calls to designated locations. For example, calls from pay phones can be routed differently than residential phones.
-- **Area Code Control—**Offers one toll-free number for all regions, and calls are automatically routed to the closest answer center.
-- **Area Code/Exchange Control—**Pinpoints a caller&#8217;s exchange to provide toll-free calling to all exchanges within an area code, and calls are routed to the correct answer center.
-- **Time-of-Day Routing—**Take advantage of time zone differences to expand your business day, by routing calls to different locations at different times.
-- **Day of Week—**Routes calls to different destinations, or deliver a courtesy announcement if your office is closed, depending on the day.
-- **Day of Year—**Same as “day of week”, but useful for holidays.
-- **Dynamic Network Routing (DNR)—**Includes: call-by-call, skills-based routing, and uses customer-defined business rules (like IVR); designed for sophisticated customer segmentation strategies.
-- **Call Allocation—**Distributes calls across different locations, helps match call volume to each location&#8217;s capabilities.
+- **Information Digit Control**&mdash;Identifies the caller&#8217;s phone type, to route calls to designated locations. For example, calls from pay phones can be routed differently than residential phones.
+- **Area Code Control**&mdash;Offers one toll-free number for all regions, and calls are automatically routed to the closest answer center.
+- **Area Code/Exchange Control**&mdash;Pinpoints a caller&#8217;s exchange to provide toll-free calling to all exchanges within an area code, and calls are routed to the correct answer center.
+- **Time-of-Day Routing**&mdash;Take advantage of time zone differences to expand your business day, by routing calls to different locations at different times.
+- **Day of Week**&mdash;Routes calls to different destinations, or deliver a courtesy announcement if your office is closed, depending on the day.
+- **Day of Year**&mdash;Same as “day of week”, but useful for holidays.
+- **Dynamic Network Routing (DNR)**&mdash;Includes: call-by-call, skills-based routing, and uses customer-defined business rules (like IVR); designed for sophisticated customer segmentation strategies.
+- **Call Allocation**&mdash;Distributes calls across different locations, helps match call volume to each location&#8217;s capabilities.
 
 ### Toll-Free Service Providers
 
@@ -302,35 +307,35 @@ Web chat is a real-time communications system between your users and contact cen
 
 Here are the desirable features to look for in a web chat system:
 
-- **Routing—**Routes chat sessions to agents with specific expertise.
-- **Co-Browsing—**Allows agents and users to view the same Web page and enables agents to push active Web pages to guide users through a website or an application.
-- **Knowledgebase Access—**Allows users to directly access a knowledgebase to find answers without agent intervention.
-- **Canned Messages—**Provides automated greetings, reminders, and pre-written responses for common inquiries, to enhance agent productivity and responsiveness to customers.
-- **Session Tracking—**Tracks response and transaction time for each session and exchange.
-- **Timestamp—**Displays timestamp (in a government-specified time zone) at the start of the session and subsequent exchanges between agent and user.
-- **Session Transcript—**Emails copy of the requested transcript to the user.
-- **Copying/Printing Chat Session—**Allows users to copy and/or print part or the entire chat session.
-- **Agent/Chat User Identification—**Displays agent identity and user sessions in different color text in the chat box.
-- **Automatic Emailing of Chat Transcript—**Emails transcript copy automatically to designated recipient(s) upon completion of each chat for quality-control purposes.
-- **Performance Monitoring—**Provides real-time performance monitoring capability.
-- **Management Reports—**Provides real-time and historical session and activity management reports, including pre-arranged and customized reports.
-- **Accessibility—**Complies with [Section 508](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) requirements.
+- **Routing**&mdash;Routes chat sessions to agents with specific expertise.
+- **Co-Browsing**&mdash;Allows agents and users to view the same Web page and enables agents to push active Web pages to guide users through a website or an application.
+- **Knowledgebase Access**&mdash;Allows users to directly access a knowledgebase to find answers without agent intervention.
+- **Canned Messages**&mdash;Provides automated greetings, reminders, and pre-written responses for common inquiries, to enhance agent productivity and responsiveness to customers.
+- **Session Tracking**&mdash;Tracks response and transaction time for each session and exchange.
+- **Timestamp**&mdash;Displays timestamp (in a government-specified time zone) at the start of the session and subsequent exchanges between agent and user.
+- **Session Transcript**&mdash;Emails copy of the requested transcript to the user.
+- **Copying/Printing Chat Session**&mdash;Allows users to copy and/or print part or the entire chat session.
+- **Agent/Chat User Identification**&mdash;Displays agent identity and user sessions in different color text in the chat box.
+- **Automatic Emailing of Chat Transcript**&mdash;Emails transcript copy automatically to designated recipient(s) upon completion of each chat for quality-control purposes.
+- **Performance Monitoring**&mdash;Provides real-time performance monitoring capability.
+- **Management Reports**&mdash;Provides real-time and historical session and activity management reports, including pre-arranged and customized reports.
+- **Accessibility**&mdash;Complies with [Section 508](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) requirements.
 
 ### Before You Get Started
 
 Here are a few more things to consider when adding a web chat service to your website:
 
-- **Systems Integration—**Select a system that can be easily integrated with your phone, email, knowledgebase, and Customer Relationship Management (CRM) systems.
-- **Privacy—**Think about what you need from users to conduct business. If you ask for personal information such as: name, address, Social Security Number (SSN) at sign-in, your application will be more complex, harder to implement, and the chat sessions longer and less appealing to the user. If you are providing referrals, non-sensitive information, and not looking at application status, you could just require a screen name or email address. Don&#8217;t ask for anything at sign-in you aren&#8217;t going to need.
-- **Security—**Ensure all transactions and personal information are secure and can&#8217;t be seen by an unauthorized third party.
-- **Staffing—**Train your best-performing phone and/or email agents to support web chat, if your contact center already provides these services.
-- **Scripting—**Avoid the urge to have agents create big blocks of prepared text. Your representatives should interact with customers as if they are having a phone conversation.
-- **Accessibility—**[Section 508](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) (including 1194.21 and 1194.22) applies to live help software, although many chat applications have not been built with accessibility in mind. [WebAIM](http://webaim.org/) discusses the different types of chat software, including live help, and links to programs that may be more accessible than others.
-- **Linking to Web Resources—**The URLs of your Web resources can be lengthy and cumbersome for your agents to use when responding to an email or web chat inquiry.If your website is maintained by government employees or a contractor who has access to a government email account, you can use [Go.USA.gov](http://go.usa.gov/) to create short .gov URLs from official government domains, such as .gov, .mil, .si.edu, or .fed.us URLs. If your website is maintained by a contractor who doesn&#8217;t have access to a government email account, you can use [bitly](https://bitly.com/), the [Google URL Shortener](http://goo.gl/), or some similar service to shorten a .gov or .mil URL. You can include the short URL in the corresponding resource in your knowledgebase. The agent can then reference the short URL in the email or web chat response when providing a link to that resource.
+- **Systems Integration**&mdash;Select a system that can be easily integrated with your phone, email, knowledgebase, and Customer Relationship Management (CRM) systems.
+- **Privacy**&mdash;Think about what you need from users to conduct business. If you ask for personal information such as: name, address, Social Security Number (SSN) at sign-in, your application will be more complex, harder to implement, and the chat sessions longer and less appealing to the user. If you are providing referrals, non-sensitive information, and not looking at application status, you could just require a screen name or email address. Don&#8217;t ask for anything at sign-in you aren&#8217;t going to need.
+- **Security**&mdash;Ensure all transactions and personal information are secure and can&#8217;t be seen by an unauthorized third party.
+- **Staffing**&mdash;Train your best-performing phone and/or email agents to support web chat, if your contact center already provides these services.
+- **Scripting**&mdash;Avoid the urge to have agents create big blocks of prepared text. Your representatives should interact with customers as if they are having a phone conversation.
+- **Accessibility**&mdash;[Section 508](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) (including 1194.21 and 1194.22) applies to live help software, although many chat applications have not been built with accessibility in mind. [WebAIM](http://webaim.org/) discusses the different types of chat software, including live help, and links to programs that may be more accessible than others.
+- **Linking to Web Resources**&mdash;The URLs of your Web resources can be lengthy and cumbersome for your agents to use when responding to an email or web chat inquiry.If your website is maintained by government employees or a contractor who has access to a government email account, you can use [Go.USA.gov](http://go.usa.gov/) to create short .gov URLs from official government domains, such as .gov, .mil, .si.edu, or .fed.us URLs. If your website is maintained by a contractor who doesn&#8217;t have access to a government email account, you can use [bitly](https://bitly.com/), the [Google URL Shortener](http://goo.gl/), or some similar service to shorten a .gov or .mil URL. You can include the short URL in the corresponding resource in your knowledgebase. The agent can then reference the short URL in the email or web chat response when providing a link to that resource.
 
 ### Examples of Federal Web Chat Implementations
 
-- [Answers.USA.gov](https://www.usa.gov/chat "Answers dot USA dot gov "Chat With Us" page")
+- [Answers.USA.gov](https://www.usa.gov/chat)
 - [U.S. Census Bureau Question & Answer Center](https://ask.census.gov/)
 
 ## Workforce Management Systems {#workforce}
@@ -350,5 +355,5 @@ Payroll costs represent the biggest single expense for a contact center operatio
 
 - [Workforce Management: From Forecasting to Optimization](http://www.icmi.com/Resources/Articles/2007/May/Workforce-Management-From-Forecasting-to-Optimization)
 - [Best Practices in Workforce Management](http://www.icmi.com/Resources/Articles/2005/May/Best-Practices-in-Workforce-Management)
-- [Automating Workforce Management – A Guide to Acquisition and Implementation](http://www.thecallcenterschool.com/articles/Automating_WFM_Acquisition_and_Implementation.pdf) (PDF, 36 KB, 4 pages, October 2009)
-- [Managing the ACD Interface](http://www.thecallcenterschool.com/articles/Managing_the_ACD_Interface.pdf) (PDF, 35 KB, 4 pages, October 2009)
+- [Automating Workforce Management – A Guide to Acquisition and Implementation](https://www.swpp.org/member/newsletter-archive/winter2011/managing.html)
+- [Managing the ACD Interface](https://www.swpp.org/member/newsletter-archive/summer2003/acdinterface.html)

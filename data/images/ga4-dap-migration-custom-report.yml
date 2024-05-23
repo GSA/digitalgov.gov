@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/ga4-dap-migration-custom-report.png
+  # Image shortcode: {{< img src=ga4-dap-migration-custom-report >}}'
+  date     :  2023-08-10 22:49:29 -0400
+  uid      :  ga4-dap-migration-custom-report
+  width    :  1200
+  height   :  430
+  format   :  png
+  credit   :  
+  caption  :  ""
+  alt      :  "An image of DAP GA4 events with a trend and bar charts of top events by category."
+  
