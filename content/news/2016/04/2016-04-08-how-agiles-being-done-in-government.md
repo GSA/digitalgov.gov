@@ -19,4 +19,4 @@ The concepts of agile may not be new, but there is a renewed push across governm
 
 * * * 
 
-_If you have a **.gov** or **.mil** email address and are interested in joining the new Agile/Lean listserv, [send an email](mailto:listserv@listserv.gsa.gov). The message should have **no subject** and the body should say, &#8220;subscribe agile-lean-cop.&#8221;_
+_If you have a **.gov** or **.mil** email address and are interested in joining the new Agile/Lean community LISTSERV, send an email. The message should have **no subject** and the body should say, &#8220;subscribe agile-lean-cop.&#8221; You can [join additional communities of practice](https://digital.gov/communities/) as well._
