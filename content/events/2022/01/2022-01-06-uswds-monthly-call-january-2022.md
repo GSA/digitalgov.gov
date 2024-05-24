@@ -96,7 +96,7 @@ Wouldn't it be better if we were more able to abstract away the Gulp internals a
 
 There are a few important benefits to scoped packages. First, it keeps all USWDS packages together. It's also more secure — we're the only ones who can publish a uswds-scoped package, so — as we move forward — if you're wondering whether a package that has USWDS in the name is really published by us, look for the @uswds org scope. And finally, it'll be easy to know which packages we support. If it's published to our org, it's our package and we support it!
 
-**Slide 25:** We'll dig into USWDS Compile a bit more in today's tutorial, but for now I'll point you to the new [uswds-compile repo] (https://github.com/uswds/uswds-compile). uswds-compile is currently out as a beta release, and we urge you to check it out and give it a shot. If you currently compile with Gulp, it could be worth using uswds-compile, and if you're a current user of uswds-gulp, definitely check out uswds-compile. At some point soon — after we release the final 1.0 version of uswds-compile — we're going to be archiving uswds-gulp.
+**Slide 25:** We'll dig into USWDS Compile a bit more in today's tutorial, but for now I'll point you to the new [uswds-compile repo](https://github.com/uswds/uswds-compile). uswds-compile is currently out as a beta release, and we urge you to check it out and give it a shot. If you currently compile with Gulp, it could be worth using uswds-compile, and if you're a current user of uswds-gulp, definitely check out uswds-compile. At some point soon — after we release the final 1.0 version of uswds-compile — we're going to be archiving uswds-gulp.
 
 Personally, I've been waiting for these improvements for some time, and I'm really happy to release them today!
 
@@ -114,7 +114,7 @@ We'll walk through:
 * Harmonizing USWDS with any existing CSS, and 
 * Customizing USWDS to adapt to your project tone and needs.
 
-So let's get to it. I'll get started by heading over to our [uswds-tutorial repo on Github] (https://github.com/uswds/uswds-tutorial).
+So let's get to it. I'll get started by heading over to our [uswds-tutorial repo on Github](https://github.com/uswds/uswds-tutorial).
 
 **Slide 27:**  DEMO
 
@@ -131,7 +131,7 @@ Here's what you'll learn:
 * How to customize USWDS
 * How to optimize USWDS and use less unused CSS
 
-**Slide 28:** And that's “getting started with USWDS”: installing, compiling, adding, harmonizing, and customizing. And there are plenty of places to go from there. To try it for yourself, head over to the [repo on Github] (https://github.com/uswds/uswds-tutorial) and follow the instructions in the README.
+**Slide 28:** And that's “getting started with USWDS”: installing, compiling, adding, harmonizing, and customizing. And there are plenty of places to go from there. To try it for yourself, head over to the [repo on Github](https://github.com/uswds/uswds-tutorial) and follow the instructions in the README.
 
 **Slide 29:** So let's move on to Q&A.
 
