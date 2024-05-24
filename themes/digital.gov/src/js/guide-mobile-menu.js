@@ -20,10 +20,11 @@
    */
   function handleResize(breakpoint) {
     if (breakpoint.matches) {
-      dgAccordionMobileMenu.setAttribute("hidden", "true");
+      dgAccordionMobileMenu.setAttribute("hidden", "");
+      dgGuideMenuBar.removeAttribute("hidden");
     } else {
       dgAccordionMobileMenu.removeAttribute("hidden");
-      dgGuideMenuBar.setAttribute("hidden", "true");
+      dgGuideMenuBar.setAttribute("hidden", "");
     }
   }
 
