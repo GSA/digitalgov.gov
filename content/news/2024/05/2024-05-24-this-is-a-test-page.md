@@ -1,6 +1,6 @@
 ---
 # Originally published at the following URL
-source_url: test-page
+source_url:
 source: digitalgov
 date: 2024-05-24
 kicker: test
