@@ -20,11 +20,10 @@
    */
   function handleResize(breakpoint) {
     if (breakpoint.matches) {
-      dgAccordionMobileMenu.classList.add("dg-hide");
-      dgGuideMenuBar.classList.remove("dg-hide");
+      dgAccordionMobileMenu.setAttribute("hidden", "true");
     } else {
-      dgAccordionMobileMenu.classList.remove("dg-hide");
-      dgGuideMenuBar.classList.add("dg-hide");
+      dgAccordionMobileMenu.removeAttribute("hidden");
+      dgGuideMenuBar.setAttribute("hidden", "true");
     }
   }
 
