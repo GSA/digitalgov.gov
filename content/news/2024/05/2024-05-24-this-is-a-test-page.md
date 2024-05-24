@@ -25,9 +25,4 @@ weight: 1
 I am testing to see how the workflow will work and how we can make it better
 
 
-
-{{< youtube https://www.youtube.com/watch?v=dQw4w9WgXcQ >}}
-
-
-
 {{< note "alert">}} this is an alert  {{< /note >}}
