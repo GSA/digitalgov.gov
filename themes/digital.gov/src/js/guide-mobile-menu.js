@@ -20,11 +20,11 @@
    */
   function handleResize(breakpoint) {
     if (breakpoint.matches) {
-      dgAccordionMobileMenu.classList.add("guide-mobile-menu--hide");
-      dgGuideMenuBar.classList.remove("dg-guide__menu-bar--hide");
+      dgAccordionMobileMenu.classList.add("dg-hide");
+      dgGuideMenuBar.classList.remove("dg-hide");
     } else {
-      dgAccordionMobileMenu.classList.remove("guide-mobile-menu--hide");
-      dgGuideMenuBar.classList.add("dg-guide__menu-bar--hide");
+      dgAccordionMobileMenu.classList.remove("dg-hide");
+      dgGuideMenuBar.classList.add("dg-hide");
     }
   }
 
