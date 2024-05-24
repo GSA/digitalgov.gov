@@ -6,7 +6,7 @@
 slug: cloudgov
 
 # Source Name for Workflow
-name: "cloud.gov"
+name: "Cloud.gov"
 
 # Keep it short — should be no longer than 10 words.
 summary: 'cloud.gov is a secure and compliant Platform as a Service (PaaS).'

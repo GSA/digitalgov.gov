@@ -1,5 +1,5 @@
 ---
-name: Plain Language
+name: "PlainLanguage.gov"
 summary: A resource to help federal employees write in plain language and comply
   with the Plain Writing Act of 2010.
 # The link to your blog homepage or news feed. (e.g. https://18f.gsa.gov/)
