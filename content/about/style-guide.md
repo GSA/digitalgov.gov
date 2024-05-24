@@ -274,7 +274,6 @@ The overarching name of the site is Digital.gov. You may see references to "Digi
     - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
 - **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
 - **[Digital.gov University](https://www.digital.gov/digitalgov-university/)** (DGU)
-- **[Federal CrowdSource Mobile Testing Program](https://www.digital.gov/services/mobile-application-testing-program/)** (no acronym)
 - **[U.S. Digital Registry](https://www.digital.gov/services/u-s-digital-registry/)** (no acronym; replaced the Federal Social Media Registry and the Federal Mobile Products Registry)
 - **U.S. Web Design Standards** was renamed: **[U.S. Web Design System](https://designsystem.digital.gov/)** (USWDS)
 
