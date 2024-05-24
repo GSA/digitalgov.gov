@@ -6,12 +6,15 @@
   @include u-z(200);
   align-items: center;
   background-color: color("gray-10");
-  display: flex;
   height: units(10);
   justify-content: center;
   position: sticky;
   top: -1px;
   white-space: nowrap;
+
+  @include at-media("mobile-lg") {
+    display: flex;
+  }
 
   &-image-container {
     flex-shrink: 0;
@@ -83,7 +86,6 @@
 
 // Styles the mobile vertical menu bar
 .guide-mobile-menu {
-  display: block;
   position: sticky;
   top: -1px;
   z-index: z-index(100);
