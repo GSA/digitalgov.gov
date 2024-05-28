@@ -1,0 +1,35 @@
+{{/* Generates a list of menu links for a guide page that is generated from a yaml data file
+
+  @param {map} guideData - a go map of links generated from a yaml file located in data/guidenav
+  @param {string} currentPage - a string that contains the relative permalink of the current page
+  @param {scope} pageScope - the current page scope context to enable consistent use of the Site.GetPage function
+*/}}
+
+{{- $guideData := .guideData -}}
+{{- $currentPage := .currentPage -}}
+{{- $pageScope := .pageScope }}
+{{- if $guideData.nav -}}
+  {{- range $guideData.nav -}}
+    {{- $item := . -}}
+    {{- $page := $pageScope.Site.GetPage $item.path -}}
+    {{- $current := false -}}
+    {{- if eq $currentPage $page.RelPermalink -}}
+      {{- $current = true -}}
+    {{- end -}}
+    {{- if $item.subnav -}}
+      {{- range $item.subnav -}}
+        {{- $subItem := . -}}
+        {{- $subPage := $pageScope.Site.GetPage $subItem.path -}}
+        {{- if eq $currentPage $subPage.RelPermalink -}}
+          {{- $current = true -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    <a
+      class="dg-guide__menu-bar-link {{ cond $current "dg-current" "" }}"
+      href="{{- $page.Permalink -}}#content-start"
+      title="{{- $item.title -}}"
+      >{{- $item.title -}}</a
+    >
+  {{- end -}}
+{{- end -}}
