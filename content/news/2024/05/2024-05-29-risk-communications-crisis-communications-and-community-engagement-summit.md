@@ -20,6 +20,9 @@ summary: The Federal Emergency Management Agency (FEMA), alongside co-sponsors,
   all-hazards challenges and the climate crisis. Attendees will focus on
   culturally competent communications, behavior change strategies, and enhancing
   incident response practices.
+# See all topics at https://digital.gov/topics
+topics:
+  - communications
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
