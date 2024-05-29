@@ -32,6 +32,7 @@ weight: 2
 topics:
   - challenges-and-prize-competitions
   - innovation
+  - policy
 
 # see all authors at https://digital.gov/authors
 authors:
