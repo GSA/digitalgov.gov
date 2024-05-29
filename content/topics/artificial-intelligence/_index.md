@@ -29,7 +29,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://ai.gov/"
+    - source: "ai-gov.md"
 
 # Featured community to display at the top of the page
 featured_communities:
