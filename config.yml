@@ -1,5 +1,5 @@
 title: "Digital.gov"
-baseURL: "/"
+baseURL: "https://digital.gov"
 languageCode: "en-us"
 theme: "digital.gov"
 themesDir: "./themes"
@@ -157,5 +157,5 @@ menu:
       Weight: 2
     - Name: "Contact Us"
       Identifier: "contact"
-      URL: "/about/contact/"  
+      URL: "/about/contact/"
       Weight: 3
