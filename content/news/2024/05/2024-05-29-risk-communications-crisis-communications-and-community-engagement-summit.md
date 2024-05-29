@@ -22,7 +22,7 @@ summary: The Federal Emergency Management Agency (FEMA), alongside co-sponsors,
   incident response practices.
 # See all topics at https://digital.gov/topics
 topics:
-  - communications
+  - communication
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
