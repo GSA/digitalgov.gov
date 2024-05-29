@@ -150,7 +150,7 @@ But before we talk about what we're planning, I'd like to take a moment and look
 
 **Slide 45:** Just as implementation costs can be helped by abstracting or automating aspects of implementation, like through a consistent and thoughtful API that constrains change to outputs while maintaining consistent inputs, justification costs can be helped by abstracting or automating aspects of justification, like through consistent and thoughtful processes that pass decisions through consistent collaborative standards of evaluation and decision-making.
 
-**Slide 46:** So as we build to change, we'll be focussing on these two elements as our foundation: API and process.
+**Slide 46:** So as we build to change, we'll be focusing on these two elements as our foundation: API and process.
 
 **Slide 47:** And this is the biggest change from USWDS 1.0. A fundamental change we've been slowly — very slowly — moving toward from release to release: that we really need to support staying up-to-date over time. Improving the ongoing update process so we can all grow and improve together.
 
