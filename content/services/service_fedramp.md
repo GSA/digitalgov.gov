@@ -32,6 +32,6 @@ topics:
   - cloud-and-infrastructure
   - security
   - product-and-project-management
-  - security
+  - policy
 
 ---
