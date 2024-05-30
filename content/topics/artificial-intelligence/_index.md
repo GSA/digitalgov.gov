@@ -28,7 +28,7 @@ legislation:
 
 # Featured resource to at the top of the page
 featured_sources:
-    - source: "source_ai-gov"
+    - source: "ai-gov"
 
 # Featured community to display at the top of the page
 featured_communities:
