@@ -84,7 +84,7 @@ Well, a component lifecycle is not just for devs and pedants. Today we'd like to
 
 **Slide 18:** Thinking about how components start, grow, and mature is something of a scale model of how the design system itself grows and matures, since components are such an important part of what we deliver.
 
-**Slide 19:** Specifically, we're really focussed on how USWDS can be a place to connect digital design and delivery teams across government, to better know what we know, and learn from each other.
+**Slide 19:** Specifically, we're really focused on how USWDS can be a place to connect digital design and delivery teams across government, to better know what we know, and learn from each other.
 
 **Slide 20:** You know, I hate to be the person to tell you this, but our government is big.
 

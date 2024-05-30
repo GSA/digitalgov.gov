@@ -1,7 +1,7 @@
 {{- $current := "https://digital.gov" -}}
 {{- if eq ($.Scratch.Get "env") "site" -}}
 {{- else -}}
-  {{- if eq (printf "%v" $.Site.BaseURL) "//localhost:1313/" -}}
+  {{- if eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/" -}}
   {{- else -}}
     <section class="notice-bar">
       <div class="grid-container grid-container-desktop">
