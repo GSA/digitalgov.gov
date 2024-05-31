@@ -1,0 +1,40 @@
+---
+# Originally published at the following URL
+source_url: https://www.fema.gov/event/risk-communications-crisis-communications-and-community-engagement-summit
+source: fema
+date: 2024-05-29
+title: Risk communications crisis communications and community engagement summit
+deck: The Federal Emergency Management Agency (FEMA), alongside co-sponsors, is
+  hosting their risk communications, crisis communications, and community
+  engagement summit at the National Academy of Sciences in Washington, D.C.
+  (onsite and virtual). This one-day event brings together cross-sector leaders
+  to share tools, insights, and strategies for improving community responses to
+  emerging hazards and the climate crisis. Attendees will focus on culturally
+  competent communications, behavior change strategies, and enhancing incident
+  response practices.
+summary: The Federal Emergency Management Agency (FEMA), alongside co-sponsors,
+  is hosting their risk communications, crisis communications, and community
+  engagement summit at the National Academy of Sciences in Washington, D.C.
+  (onsite and virtual). This one-day event brings together cross-sector leaders
+  to share tools, insights, and strategies for improving community responses to
+  emerging hazards and the climate crisis. Attendees will focus on culturally
+  competent communications, behavior change strategies, and enhancing incident
+  response practices.
+# See all topics at https://digital.gov/topics
+topics:
+  - communication
+  - human-centered-design
+  - user-centered-design
+  - accessibility
+  - innovation
+  - information-collection
+  - open-government
+  - crowdsourcing-and-citizen-science
+  - plain-language
+  - best-practices
+slug: risk-communications-crisis-communications-and-community-engagement-summit
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+---
