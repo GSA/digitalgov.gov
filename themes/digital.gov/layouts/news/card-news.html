@@ -1,5 +1,5 @@
-{{/* Display a news card for internal or external links
-  External links use both source and source_url
+{{/* Display a news card for internal (card-article) or external (card-elsewhere) links.
+  External links use both source and source_url.
 */}}
 
 {{/* Flag to display internal or external card styles */}}
@@ -16,10 +16,10 @@
 
 <article
   class="card {{ if $isExternal }}
-    card-elsewhere
+    card-news-external
   {{ else }}
-    card-article
-  {{ end }} card-linked"
+    card-news-internal
+  {{ end }}card-linked"
   {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"
 >
@@ -69,10 +69,8 @@
   </div>
 
   <div class="card__media">
-    {{/* Favicon
-      If the there is a custom favicon set in /sources/source_[slug].md, then use that...
-    */}}
-    {{ if $source }}
+    {{/* Use a custom favicon set in /sources/source_[slug].md */}}
+    {{ if $isExternal }}
       {{- if $source.Params.logo -}}
         {{- $src := (printf "logos/%s%s" $source.Params.logo "-logo.png") -}}
         <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} logo" />
