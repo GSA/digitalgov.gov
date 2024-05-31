@@ -26,12 +26,12 @@ legislation:
   title: "Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence"
   link: "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/"
 
+# Featured community to display at the top of the page
+featured_communities:
+  - "artificial-intelligence"
+
 # Featured resource to at the top of the page
 featured_resources:
   resources:
     - link: "https://ai.gov/"
-
-# Featured community to display at the top of the page
-featured_communities:
-  - "artificial-intelligence"
 ---
