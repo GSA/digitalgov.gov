@@ -6,5 +6,5 @@ summary: The Federal Emergency Management Agency supports American citizens in
 domain: https://www.fema.gov/
 # Images must be uploaded in the /static/logos/ folder before they can be used here.
 logo: fema
-slug: federal-emergency-management-agency
+slug: fema
 ---
