@@ -1,20 +1,19 @@
-{{/* ======================================
-  AUTHORS
-  ======================================
+{{/* Displays the author circular image and name next to it
+  Used on events and news single
 */}}
+{{ $data := .data }}
+{{ $layout := .layout }}
 
-{{- if .Params.authors -}}
-  <div class="authors-list">
-    {{/* Sets the taxonomy we're pulling here */}}
-    {{- $taxonomy := "authors" -}}
-    {{- $authors := .Param $taxonomy -}}
+{{ $isShort := true }}
+{{ if eq $layout "long" }}
+  {{ $isShort = false }}
+{{ end }}
 
-    {{/* Count the number of authors */}}
-    {{- $length := $authors | len -}}
+{{- if $data.Params.authors -}}
+  <div class="authors-list {{ if $isShort }}authors-list-short{{ end }}">
+    {{- $authors_count := $data.Params.authors | len -}}
 
-    {{/* NOTE: Many of the pages in digital.gov have duplicate authors. */}}
-    {{/* So we are running "uniq" on the array to remove duplicates */}}
-    {{- range $i, $e := uniq (sort $authors) -}}
+    {{- range $i, $e := $data.Params.authors -}}
       {{- $uid := . -}}
 
       {{/* If the byline was entered as a display name (i.e. - John Smith )
@@ -23,41 +22,56 @@
       {{- $uid := $e | urlize -}}
 
       {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
-      {{- $author := $.Site.GetPage (printf "/%s/%s" $taxonomy $uid) -}}
-      {{- with $author -}}
+      {{- with $data.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
 
-        <div class="author grid-row">
-          <div class="grid-col-auto">
-            <div class="photo">
-              {{- partial "core/get_author_image.html" (dict "author" $author ) -}}
+        {{ if $isShort }}
+          <a
+            class="author"
+            href="{{- (printf "authors/%s/" $uid) | absURL -}}"
+            rel="author"
+          >
+            {{- partial "core/get_author_image.html" (dict "author" . ) -}}
+            <span class="usa-sr-only">Posts by</span>
+            <span
+              >{{- .Params.display_name | default $uid | markdownify -}}</span
+            > </a
+          >{{ if lt (add $i 1) $authors_count }}<!--,-->{{ end }}
+
+        {{ else }}
+          <div class="author grid-row">
+            <div class="grid-col-auto">
+              <div class="photo">
+                {{- partial "core/get_author_image.html" (dict "author" . ) -}}
+              </div>
+            </div>
+            <div class="grid-col-9">
+              <div class="details">
+                <span class="usa-sr-only">
+                  Originally posted by
+                  {{ .Params.display_name | default $uid }}
+                  on
+                  {{ $.Date.Format "Jan 2, 2006" }}
+                </span>
+                <a
+                  href="{{ (printf "authors/%s/" $uid) | absURL }} "
+                  title="Posts by {{ .Params.display_name | default $uid }}"
+                  rel="author"
+                  aria-label="Read more articles by {{ .Params.display_name | default $uid }}"
+                >
+                  {{- .Params.display_name | default $uid -}}
+                </a>
+                {{- if .Params.agency -}}
+                  <p>
+                    {{- .Params.agency -}}{{- if .Params.location -}}
+                      &nbsp;|&nbsp;{{- .Params.location -}}
+                    {{- end -}}
+                  </p>
+                {{- end -}}
+
+              </div>
             </div>
           </div>
-          <div class="grid-col-9">
-            <div class="details">
-              <span class="usa-sr-only">
-                Originally posted by
-                {{ $author.Params.display_name | default $uid }} on
-                {{ $.Date.Format "Jan 2, 2006" }}
-              </span>
-              <a
-                href="{{ (printf "authors/%s/" $uid) | absURL }} "
-                title="Posts by {{ $author.Params.display_name | default $uid }}"
-                rel="author"
-                aria-label="Read more articles by {{ $author.Params.display_name | default $uid }}"
-              >
-                {{- $author.Params.display_name | default $uid -}}
-              </a>
-              {{- if $author.Params.agency -}}
-                <p>
-                  {{- $author.Params.agency -}}{{- if $author.Params.location -}}
-                    &nbsp;|&nbsp;{{- $author.Params.location -}}
-                  {{- end -}}
-                </p>
-              {{- end -}}
-
-            </div>
-          </div>
-        </div>
+        {{ end }}
       {{- end -}}
 
     {{- end -}}

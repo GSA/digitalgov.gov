@@ -148,7 +148,7 @@
               {{/* Authors */}}
               {{- if .Params.authors -}}
                 <h4>In this talk</h4>
-                {{- partial "core/get_authors.html" . -}}
+                {{- partial "core/get_authors.html" (dict "data" . "layout" "long") -}}
               {{- end -}}
 
               {{- if eq .Params.event_platform "youtube_live" -}}

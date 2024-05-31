@@ -22,7 +22,8 @@
                 <div class="deck">{{- .Params.deck | markdownify -}}</div>
               {{- end -}}
 
-              {{- partial "core/get_authors_short.html" . -}}
+              {{/* TODO: Not displayed on all pages */}}
+              {{- partial "core/get_authors_short.html" -}}
 
 
               <div class="meta">
@@ -52,7 +53,7 @@
 
             <div class="dg-sidebar grid-col-12 tablet-lg:grid-col-3">
               {{/* Authors */}}
-              {{- partial "core/get_authors.html" . -}}
+              {{- partial "core/get_authors.html" (dict "data" . "layout" "long") -}}
 
 
               <div class="meta">
