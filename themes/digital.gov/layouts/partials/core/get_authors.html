@@ -1,5 +1,10 @@
 {{/* Displays the author circular image and name next to it
-  Used on events and news single
+  Long layout is used on events and news single.html
+  Short layout is used on card-*.html
+
+  @param {page object} data - hugo page object that contains the associated authors for a post
+  @param {string} layout - layout variant to display, short will display image and full name while long will display agency and location.
+  @param {boolean} isShort - flag to toggle between short and long variant to display
 */}}
 {{ $data := .data }}
 {{ $layout := .layout }}

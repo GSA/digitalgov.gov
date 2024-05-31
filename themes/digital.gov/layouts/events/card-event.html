@@ -52,7 +52,7 @@
       {{- end -}}
 
       {{ if $isPastEvent }}
-        {{- partial "core/get_authors_short.html" . -}}
+        {{- partial "core/get_authors.html" (dict "data" . "layout" "short") -}}
       {{ end }}
     </div>
   </div>

@@ -21,7 +21,7 @@
       <div class="deck">{{ .Params.deck | markdownify }}</div>
     {{- end -}}
 
-    {{- partial "core/get_authors_short.html" . -}}
+    {{- partial "core/get_authors.html" (dict "data" . "layout" "short") -}}
   </div>
 
   <div class="card__media">

@@ -52,3 +52,52 @@
     }
   }
 }
+
+.authors-list-short {
+  @include u-margin-top("105");
+  @include u-margin-bottom(1);
+  @include u-maxw("full");
+  @include u-display("flex");
+  @include u-flex("wrap");
+
+  .author {
+    @include u-margin(0);
+    @include u-margin-y("05");
+    @include u-margin-right("105");
+    @include u-padding(0);
+    @include u-display("flex");
+    @include u-flex("align-center");
+    @include u-border(0);
+    @include u-text("primary-darker");
+    @include u-text("medium");
+    @include u-font("sans", "2xs");
+    z-index: 2;
+
+    @include at-media("tablet") {
+      @include u-font("sans", "2xs");
+    }
+
+    img {
+      @include u-margin-right("05");
+      @include u-circle(3);
+    }
+
+    span {
+      flex: 1;
+      white-space: nowrap;
+    }
+  }
+
+  .author.contact {
+    @include u-margin-right(1);
+    @include u-padding-y("2px");
+    @include u-padding-right(1);
+    @include u-text("primary-darker");
+    @include u-bg("white");
+    @include u-border-right("1px", "base", "solid");
+
+    i {
+      @include u-text("primary-darker");
+    }
+  }
+}
