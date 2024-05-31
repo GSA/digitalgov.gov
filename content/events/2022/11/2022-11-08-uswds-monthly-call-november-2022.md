@@ -71,9 +71,9 @@ On this slide we see the in-page navigation component page, and we've put the li
 
 **Slide 11:** We've also been talking about inclusive patterns for a few months now, and all of that work is now live and published. Our new pattern guidance is drawn from research and conversations with teams from more than 20 government agencies and programs, including 16 high impact service providers. This report summarizes what we did and what we learned, how teams are supporting inclusive design. On this slide we see the hero image of the report and the text Inclusive Design Patterns: Working together to reduce barriers to participation through every interaction. And that's what it's all about — what we've been talking about for the last few months and what we'll discuss today as well.
 
-The report is available at [designsystem.digital.gov/together](designsystem.digital.gov/together). So check out the report and share it with coworkers, colleagues, and anyone that might find it useful.
+The report is available at [designsystem.digital.gov/together](https://designsystem.digital.gov/together/). So check out the report and share it with coworkers, colleagues, and anyone that might find it useful.
 
-**Slide 12:** We've also published the pattern guidance itself at [designsystem.digital.gov/patterns](designsystem.digital.gov/patterns). This slide shows the patterns homepage on the USWDS website, pointing to three pattern families: Complete a complex form, Select a language, and Create a user profile.
+**Slide 12:** We've also published the pattern guidance itself at [designsystem.digital.gov/patterns]([designsystem.digital.gov/patterns](https://designsystem.digital.gov/patterns/). This slide shows the patterns homepage on the USWDS website, pointing to three pattern families: Complete a complex form, Select a language, and Create a user profile.
 
 **Slide 13:** And here are just a couple examples of USWDS pattern guidance. Here's a language selection pattern: [Select from three or more languages](https://designsystem.digital.gov/patterns/select-a-language/three-or-more-languages/). This pattern is meant to help a user choose from multiple available languages. This slide shows the top of the **Three or more languages** pattern page on the USWDS website, with the name of the pattern and some general information about the pattern.
 
