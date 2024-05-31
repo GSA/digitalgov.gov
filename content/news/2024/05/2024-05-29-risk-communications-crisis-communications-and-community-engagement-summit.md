@@ -1,7 +1,7 @@
 ---
 # Originally published at the following URL
 source_url: https://www.fema.gov/event/risk-communications-crisis-communications-and-community-engagement-summit
-source: fcc
+source: fema
 date: 2024-05-29
 title: "Risk communications, crisis communications, and community engagement summit"
 deck: The Federal Emergency Management Agency (FEMA), alongside co-sponsors, is
