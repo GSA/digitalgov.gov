@@ -59,16 +59,22 @@
       </div>
     {{ else }}
       {{- if $kicker -}}
-        <div class="kicker">{{- $kicker -}}</div>
+        <div class="kicker">
+          <span>{{- $kicker -}}</span>
+        </div>
       {{- end -}}
       <h3 id="{{ $titleID }}">
         <a href="{{- $link -}}">{{- $title | markdownify -}}</a>
       </h3>
 
       {{- if $summary -}}
-        <div class="summary">{{ $summary | markdownify }}</div>
+        <div class="summary">
+          <p>{{ $summary | markdownify }}</p>
+        </div>
       {{- else -}}
-        <div class="deck">{{ $deck | markdownify }}</div>
+        <div class="deck">
+          <p>{{ $deck | markdownify }}</p>
+        </div>
       {{- end -}}
 
       {{- partial "core/get_authors_short.html" . -}}
