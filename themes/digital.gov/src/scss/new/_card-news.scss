@@ -7,32 +7,30 @@
   grid-template-columns: #{units(7)} 1fr;
 
   .card__summary {
-    @include u-margin-top(0);
+    margin-top: 0;
 
     p {
-      @include u-line-height("sans", 3);
-      @include u-font("sans", "md");
-      @include u-text("normal");
-
+      line-height: line-height("sans", 3);
+      font-family: font-family("sans");
+      font-weight: font-weight("normal");
       max-width: none;
     }
   }
 
   .card__source {
-    @include u-margin-top("05");
-    @include u-display("block");
+    margin-top: units("05");
+    display: block;
 
     a {
-      @include u-color("blue-50v");
+      color: color("blue-50v");
 
       &::after {
         content: "";
-
-        @include u-position("absolute");
-        @include u-top(0);
-        @include u-left(0);
-        @include u-right(0);
-        @include u-bottom(0);
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
       }
     }
   }
@@ -43,7 +41,7 @@
     order: -1;
 
     img {
-      @include u-border("1px", "gray-cool-10", "solid");
+      border: 1px color("gray-cool-10") "solid";
       @include u-circle(7);
 
       @include at-media("mobile-lg") {

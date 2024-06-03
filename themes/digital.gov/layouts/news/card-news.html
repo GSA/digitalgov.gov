@@ -1,5 +1,5 @@
-{{/* Display a news card for internal (card-article) or external (card-elsewhere) links.
-  External links use both source and source_url.
+{{/* Display a news card for internal or external blog links.
+  External links use both source and source_url to set the logo and external link.
 */}}
 
 {{/* Flag to display internal or external card styles */}}
@@ -12,6 +12,13 @@
 {{ $source := $.Site.GetPage "page" (print "source_" .Params.source ) }}
 {{/* Unique ID to link article to its title in screen readers */}}
 {{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
+{{ $title := .Title }}
+{{ $kicker := .Params.kicker }}
+{{ $deck := .Params.deck }}
+{{ $summary := .Params.summary }}
+{{ $link := .Permalink }}
+{{ $short_url := .Params.short_url }}
+{{ $source_url := .Params.source_url }}
 
 
 <article
@@ -20,28 +27,28 @@
   {{ else }}
     card-news-internal
   {{ end }}card-linked"
-  {{ if .Params.short_url }}data-short_url="{{- .Params.short_url -}}"{{ end }}
+  {{ if $short_url }}data-short_url="{{- $short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"
 >
   <div class="card__content">
     {{ if $isExternal }}
       <div class="card__summary">
         <h3 id="{{ $titleID }}">
-          <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+          <a href="{{- $link -}}">{{- $title | markdownify -}}</a>
         </h3>
         <p>
-          {{- if .Params.deck -}}
-            {{- .Params.deck | markdownify | emojify -}}
+          {{- if $deck -}}
+            {{- $deck | markdownify | emojify -}}
           {{- end -}}
           {{- if $source -}}
-            {{ $url := urls.Parse .Params.source_url }}
+            {{ $url := urls.Parse $source_url }}
             <em class="card__source source"
               >— via
               <a
-                href="{{- if .Params.short_url -}}
-                  {{- .Params.short_url -}}
+                href="{{- if $short_url -}}
+                  {{- $short_url -}}
                 {{- else -}}
-                  {{- .Params.source_url -}}
+                  {{- $source_url -}}
                 {{- end -}}"
                 title="Read at {{ $source.Params.name -}}"
                 >{{- $source.Params.name -}}</a
@@ -51,17 +58,17 @@
         </p>
       </div>
     {{ else }}
-      {{- if .Params.kicker -}}
-        <div class="kicker">{{- .Params.kicker -}}</div>
+      {{- if $kicker -}}
+        <div class="kicker">{{- $kicker -}}</div>
       {{- end -}}
       <h3 id="{{ $titleID }}">
-        <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+        <a href="{{- $link -}}">{{- $title | markdownify -}}</a>
       </h3>
 
-      {{- if .Params.summary -}}
-        <div class="summary">{{ .Params.summary | markdownify }}</div>
+      {{- if $summary -}}
+        <div class="summary">{{ $summary | markdownify }}</div>
       {{- else -}}
-        <div class="deck">{{ .Params.deck | markdownify }}</div>
+        <div class="deck">{{ $deck | markdownify }}</div>
       {{- end -}}
 
       {{- partial "core/get_authors_short.html" . -}}
