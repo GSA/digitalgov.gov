@@ -23,9 +23,9 @@
 
 <article
   class="card {{ if $isExternal }}
-    card-news-external
+    card-news--external
   {{ else }}
-    card-news-internal
+    card-news--internal
   {{ end }}card-linked"
   {{ if $short_url }}data-short_url="{{- $short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"

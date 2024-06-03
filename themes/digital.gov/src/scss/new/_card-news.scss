@@ -1,6 +1,6 @@
 @use "uswds-core" as *;
 
-.card.card-news-external {
+.card.card-news--external {
   grid-template-areas:
     "c-media c-content"
     "c-meta c-meta";
@@ -10,27 +10,27 @@
     margin-top: 0;
 
     p {
-      line-height: line-height("sans", 3);
       font-family: font-family("sans");
       font-weight: font-weight("normal");
+      line-height: line-height("sans", 3);
       max-width: none;
     }
   }
 
   .card__source {
-    margin-top: units("05");
     display: block;
+    margin-top: units("05");
 
     a {
       color: color("blue-50v");
 
       &::after {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
         bottom: 0;
+        content: "";
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
       }
     }
   }
