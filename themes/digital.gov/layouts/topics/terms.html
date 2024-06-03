@@ -70,56 +70,5 @@
       </div>
     </section>
 
-    <section class="display-none">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-6">
-            <table>
-              {{- $topics := (where .Site.Pages "Section" "topics") -}}
-              {{- range $name, $taxonomy := $topics.ByTitle -}}
-                <tr>
-                  <td class="padding-1 border-bottom-1px border-base-lighter">
-                    <a href="{{- .Permalink -}}" title="{{- $name -}}"
-                      ><span>{{- .Title -}}</span></a
-                    >
-                  </td>
-                  <td
-                    class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs"
-                  >
-                    {{ .Data.Term }}
-                  </td>
-                </tr>
-              {{- end -}}
-            </table>
-          </div>
-          <div class="grid-col-6">
-            <table>
-              {{- $topics_tax := $.Site.Taxonomies.topics -}}
-              {{- range $name, $taxonomy := $topics_tax -}}
-                {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                  <tr>
-                    <td class="padding-1 border-bottom-1px border-base-lighter">
-                      <a href="{{- .Permalink -}}" title="{{- $name -}}">
-                        <span>{{- .Title -}}</span>
-                      </a>
-                    </td>
-                    <td
-                      class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs"
-                    >
-                      {{ .Data.Term }}
-                    </td>
-                    <td
-                      class="display-none padding-1 border-bottom-1px border-base-lighter font-mono-2xs"
-                    >
-                      {{ $taxonomy.Count }}
-                    </td>
-                  </tr>
-                {{- end -}}
-              {{- end -}}
-            </table>
-          </div>
-        </div>
-      </div>
-    </section>
   </main>
 {{- end -}}
