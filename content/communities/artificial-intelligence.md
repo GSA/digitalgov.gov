@@ -12,6 +12,8 @@ redirectto: https://coe.gsa.gov/communities/ai.html
 topics:
   - artificial-intelligence
 
+kicker: "Join the Artificial Intelligence Community"
+
 # see all authors at https://digital.gov/authors
 authors:
   - eric-ewing
