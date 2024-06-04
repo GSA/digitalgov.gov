@@ -6,14 +6,11 @@
 */}}
 
 {{ $topics := .data }}
-{{ $topic_color := .data.color_label }}
 {{ $scope := .scope }}
 
 
 <div class="dg-resource-topics-list">
-  <h3
-    class="dg-resource-topics-list__header dg-resource-topics-list__header--{{ $topic_color }}"
-  >
+  <h3 class="dg-resource-topics-list__header">
     {{ $topics.category }}
   </h3>
   <ul class="dg-resource-topics-list__list usa-list usa-list--unstyled">
