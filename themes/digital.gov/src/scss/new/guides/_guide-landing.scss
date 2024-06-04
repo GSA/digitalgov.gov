@@ -23,23 +23,6 @@
   padding: units(2);
   position: relative;
 
-  &:first-child {
-    grid-column: 1 / 2;
-
-    @include at-media("tablet") {
-      grid-column: 1 / 3;
-      grid-template-columns: 2fr 1fr;
-    }
-
-    @include at-media("desktop") {
-      grid-column: 1 / 4;
-    }
-
-    .dg-guides-card__media {
-      margin-top: 0;
-    }
-  }
-
   &__kicker {
     color: color("blue-70v");
     font-weight: font-weight(200);
