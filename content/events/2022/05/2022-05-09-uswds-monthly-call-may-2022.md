@@ -53,18 +53,18 @@ And then we'll talk about packages and performance in USWDS 3.0.
 
 **Slide 4:** So let's get into it with site launches.
 
-**Slide 5:** Just one this month: [pandemicoversight.gov] (https://www.pandemicoversight.gov/), the home of the Pandemic Response Accountability Committee, overseeing more than $5 trillion dollars in pandemic related programs and spending. The pandemic oversight home page has a blue gov banner at the top of the page, a closeup of George Washington's dollar bill portrait peering up from a hero section, and a red button that says "report fraud, waste, and abuse" up the the top-right corner.
+**Slide 5:** Just one this month: [pandemicoversight.gov](https://www.pandemicoversight.gov/), the home of the Pandemic Response Accountability Committee, overseeing more than $5 trillion dollars in pandemic related programs and spending. The pandemic oversight home page has a blue gov banner at the top of the page, a closeup of George Washington's dollar bill portrait peering up from a hero section, and a red button that says "report fraud, waste, and abuse" up the the top-right corner.
 
 
 **Slide 6:** Congratulations, and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
 **Slide 7:** So now, a quick product update.
 
-**Slide 8:** Well, as you might have seen, [we released USWDS 3.0 last month] (https://designsystem.digital.gov/whats-new/updates/2022/04/28/introducing-uswds-3-0/). We've been using it on our own sites, as well as Digital.gov. As a bit of foreshadowing to our presentation a bit later, the image on this page shows 3.0 made out of a wireframe mesh with colorful cubic packages at the vertices. Packages are central to USWDS 3.0, and we think there's a lot of possibility for both performance improvements, and to really allow teams to tailor their implementations to their projects.
+**Slide 8:** Well, as you might have seen, [we released USWDS 3.0 last month](https://designsystem.digital.gov/whats-new/updates/2022/04/28/introducing-uswds-3-0/). We've been using it on our own sites, as well as Digital.gov. As a bit of foreshadowing to our presentation a bit later, the image on this page shows 3.0 made out of a wireframe mesh with colorful cubic packages at the vertices. Packages are central to USWDS 3.0, and we think there's a lot of possibility for both performance improvements, and to really allow teams to tailor their implementations to their projects.
 
-**Slide 9:** But yeah, USWDS 3.0 is out now, and we're working to patch any issues we find or you report. We published a couple small bugfixes to our Sass theme files in [USWDS 3.0.1] (https://github.com/uswds/uswds/releases/tag/v3.0.1) and we're readying a few more little bugfixes for a 3.0.2 release sometime in the next week or so.
+**Slide 9:** But yeah, USWDS 3.0 is out now, and we're working to patch any issues we find or you report. We published a couple small bugfixes to our Sass theme files in [USWDS 3.0.1](https://github.com/uswds/uswds/releases/tag/v3.0.1) and we're readying a few more little bugfixes for a 3.0.2 release sometime in the next week or so.
 
-If you're thinking about migrating — and you should — check out the [migration resources on our website] (https://designsystem.digital.gov/documentation/migration/) and also feel free to join the [migration discussion on Github] (https://github.com/uswds/uswds/discussions/4660) or on Slack. If you find bugs, let us know and we'll get them fixed. If you run into any other issues or have questions related to migration, we'll do our best to answer them.
+If you're thinking about migrating — and you should — check out the [migration resources on our website](https://designsystem.digital.gov/documentation/migration/) and also feel free to join the [migration discussion on Github](https://github.com/uswds/uswds/discussions/4660) or on Slack. If you find bugs, let us know and we'll get them fixed. If you run into any other issues or have questions related to migration, we'll do our best to answer them.
 
 **Slide 10:** Today, I want to talk about what I think is one of the major features of USWDS 3.0: the concept of USWDS packages, and its implications for performance and CSS size. Packages are a concept that has existed in USWDS since just after the launch of 2.0, but it's only now that we've been able to do it properly and begin to provide a modular solution that allows teams to use only the parts of the design system that they need.
 
