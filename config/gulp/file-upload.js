@@ -45,7 +45,7 @@ function uploadFile() {
   return gulp
     .src("content/uploads/_working-files/to-process/*")
     .pipe(staticRename)
-    .pipe(publisher.publish())
+    .pipe(publisher.publish(headers))
     .pipe(
       awspublish.reporter({
         states: ["create", "update", "delete"],
