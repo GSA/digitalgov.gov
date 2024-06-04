@@ -16,10 +16,15 @@ const publisher = awspublish.create({
   secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
 });
 
+const headers = {
+  "Cache-Control": "max-age=315360000, no-transform, public",
+  'x-amz-acl': 'public-read'
+}
+
 function uploadImage() {
   return gulp
     .src("content/uploads/_working-images/processed/*")
-    .pipe(publisher.publish())
+    .pipe(publisher.publish(headers))
     .pipe(
       awspublish.reporter({
         states: ["create", "update", "delete"],
