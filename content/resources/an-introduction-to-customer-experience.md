@@ -10,6 +10,9 @@ summary: Understand what customer experience (CX) is and how to leverage
 # See all topics at https://digital.gov/topics
 topics:
   - information-collection
+  - customer-experience
+  - analytics
+  - information-collection
 slug: an-introduction-to-customer-experience
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -27,7 +30,7 @@ The ultimate goal of customer experience in the federal government is to ensure 
 
 ## Why focus on customer experience?
 
-A recent study showed that customers are on average nine times more likely to trust a government agency if they’re satisfied with its service.1 By focusing on the customer's needs and expectations, you can create more user-friendly and efficient processes, provide more timely and helpful support, and deliver better experiences. This can lead to increased public satisfaction, greater trust in government, and improved outcomes for all.
+A recent study showed that customers are on average nine times more likely to trust a government agency if they’re satisfied with its service.<sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> By focusing on the customer's needs and expectations, you can create more user-friendly and efficient processes, provide more timely and helpful support, and deliver better experiences. This can lead to increased public satisfaction, greater trust in government, and improved outcomes for all.
 
 Engage in comprehensive customer and user research, both qualitatively and quantitatively, for deeper insights into customer needs and preferences. By proactively identifying pain points and areas for improvement, you can gain a better understanding of user perceptions and align services more closely with customer expectations. This proactive approach enhances customer experience and reduces public burden.
 
@@ -49,4 +52,10 @@ If you manage a federal website, be sure you understand [the requirements for tr
 
 For example, at GSA, the agency’s Digital Presence Guidelines state, “All GSA public-facing websites must participate in the federal Digital Analytics Program by including the DAP tracking code on your website. All GSA public-facing websites should review site usage and search metrics at least monthly, and use the data to make informed decisions on how to continuously improve your site and exceed customer expectations. In addition to DAP, GSA sites have access to the free standard version of Google Analytics. GSA program offices should use this version of Google Analytics on your external and internal websites, if you need data capabilities above and beyond what DAP offers.”
 
-{{< footnote >}} D’Emidio, T., Greenberg, S., Heidenreich, K., Klier, J., Wagner, J., & Weber, T. (2019). The global case for customer experience in government (Public Sector Practice, Rep.). McKinsey & Company. {{< /footnote >}}
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+<ol>
+<li id="fn1">
+The global case for customer experience in government (Public Sector Practice, Rep.). D’Emidio, T., Greenberg, S., Heidenreich, K., Klier, J., Wagner, J., & Weber, T. McKinsey & Company (2019). https://www.mckinsey.com/industries/public-sector/our-insights/the-global-case-for-customer-experience-in-government <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+</ol>
+</footer>
