@@ -9,4 +9,9 @@ Example usage:
 */}}
 <!-- prettier-ignore-end -->
 
-{{- partial "core/featured-resource.html" (dict "Site" .Site "resourcePath" (.Get "resourcePath") "kicker" (.Get "kicker")) -}}
+{{ $resourcePath := (.Get "resourcePath") }}
+{{ $kicker := (.Get "kicker") }}
+
+{{ $data := (dict "link" $resourcePath "kicker" $kicker ) }}
+
+{{- partial "core/featured-resource.html" (dict "Site" .Site "data" $data ) -}}

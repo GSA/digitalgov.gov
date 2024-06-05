@@ -29,38 +29,78 @@ Community resource paths:
   - web-managers-forum
 */}}
 
-{{- $resourcePath := .resourcePath -}}
-{{- $kicker := .kicker -}}
-{{- if $resourcePath -}}
-  {{- $resource := .Site.GetPage $resourcePath -}}
-  {{- if $resource -}}
+{{ $resource := .data }}
+{{ $internalLink := "" }}
+{{ $externalLink := "" }}
+{{ $title := "" }}
+{{ $summary := "" }}
+{{ $image := "" }}
+{{ $kicker := "" }}
+{{ $isExternal := false }}
 
-    <div class="dg-featured-resource">
-      <a
-        href="{{- $resource.Permalink | relURL -}}"
-        class="dg-featured-resource__body"
-      >
-        <div class="dg-featured-resource__text">
-          <p class="dg-featured-resource__text-kicker">
-            {{- if $kicker -}}
-              {{- $kicker | markdownify -}}
-            {{- else -}}
-              Featured Resource
-            {{- end -}}
-          </p>
-          <h2 class="dg-featured-resource__text-title">
-            {{- $resource.Params.title -}}
-          </h2>
-          <p class="dg-featured-resource__text-description">
-            {{- $resource.Params.summary -}}
-          </p>
+
+
+{{/* Check if page is an external link, otherwise return a hugo page object */}}
+{{ if strings.HasPrefix $resource.link "https://" }}
+  {{ $isExternal = true }}
+  {{ $title = $resource.title }}
+  {{ $summary = $resource.summary }}
+  {{ $kicker = $resource.kicker }}
+  {{ $externalLink = $resource.link }}
+{{ else }}
+  {{ $page := .Site.GetPage $resource.link }}
+  {{ $title = $page.Title }}
+  {{ $internalLink = $page.Permalink }}
+  {{ $summary = $page.Params.summary }}
+  {{ $image = $page.Params.image }}
+
+  {{/* Check if kicker is present as a custom key, otherwise use page parameter to set */}}
+  {{ if $resource.kicker }}
+    {{ $kicker = $resource.kicker }}
+  {{ else }}
+    {{ if $page.Params.kicker }}
+      {{ $kicker = $page.Params.kicker }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+
+
+
+{{- if $resource -}}
+  <div class="dg-featured-resource">
+    <a
+      href="{{ if $isExternal }}
+        {{ $externalLink }}
+      {{ else }}
+        {{- $internalLink | relURL -}}
+      {{ end }}"
+      class="dg-featured-resource__body"
+    >
+      <div class="dg-featured-resource__text">
+        <p class="dg-featured-resource__text-kicker">
+          {{- if $kicker -}}
+            {{- $kicker | markdownify -}}
+          {{- else -}}
+            Featured Resource
+          {{- end -}}
+        </p>
+        <h2 class="dg-featured-resource__text-title">
+          {{ if $title }}
+            {{- $title -}}
+          {{ end }}
+        </h2>
+        <p class="dg-featured-resource__text-description">
+          {{ if $summary }}
+            {{- $summary -}}
+          {{ end }}
+        </p>
+      </div>
+      {{ if $image }}
+        <div class="dg-featured-resource__image">
+          {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $image "small" "true") -}}
         </div>
-        {{ if $resource.Params.image }}
-          <div class="dg-featured-resource__image">
-            {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
-          </div>
-        {{ end }}
-      </a>
-    </div>
-  {{- end -}}
+      {{ end }}
+    </a>
+  </div>
 {{- end -}}
