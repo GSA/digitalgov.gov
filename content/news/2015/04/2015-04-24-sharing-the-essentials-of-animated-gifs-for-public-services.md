@@ -72,7 +72,7 @@ Victoria Wales of [USAGov](http://www.usa.gov/) and [USAGov en Espa&#241;ol](htt
 In order to help meet those challenges, she suggested:
 
   * Ensure animated content is sufficiently described in text, using best practices outlined on [WebAccessibility.com](https://www.webaccessibility.com/).
-  * Ensure elements like blink or flash are in a safe threshold (the guideline is to avoid anything that flashes more than three times a second) using [best practices](https://www.webaccessibility.com/best_practices.php?best_practice_id=1342) and the open source [PEAT epilepsy analysis tool](http://trace.wisc.edu/peat/).
+  * Ensure elements like blink or flash are in a safe threshold (the guideline is to avoid anything that flashes more than three times a second) using [best practices](https://www.webaccessibility.com/resource-library/platform/?platform=11) and the open source [photosensitive epilepsy analysis tool (PEAT)](https://trace.umd.edu/peat/).
 
 [Accessibility for Animated Gifs](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Accessibility-for-Animated-Gifs-Victoria-Wales-USAgov-GobiernoUSAgov.pptx) (.pptx PowerPoint presentation Presentation, 3 MB)
 
