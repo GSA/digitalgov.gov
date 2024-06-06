@@ -78,3 +78,8 @@ _Looking for help planning or releasing a mobile product or service? Contact Dig
 ---
 
 _You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_]({{< ref "/topics/content-strategy" >}})_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+
