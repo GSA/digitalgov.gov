@@ -31,13 +31,13 @@ In this session, the USWDS team will:
 * Understand the design principles supporting this work
 * Find out what's coming next for USWDS web components
 
-**This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend — it requires no specialized knowledge.
+**This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend; it requires no specialized knowledge.
 
 **Speakers**
 
-* **Dan Williams** **-** Product Lead, USWDS
-* **Matt Henry** **-** Engineering Lead, USWDS
-* **James Mejia** **-** Developer, USWDS contractor
+* **Dan Williams** - Product Lead, USWDS
+* **Matt Henry** - Engineering Lead, USWDS
+* **James Mejia** - Developer, USWDS contractor
 
 ## Join our Communities of Practice
 
