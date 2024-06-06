@@ -37,7 +37,7 @@ Thomas also said that there are lots of tools available to make gifs, but the re
   * Portray a juxtaposition
   * Use as a design element
 
-[Animated gifs and the Office of the Director of National Intelligence](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Animated-gifs-and-the-Office-of-the-Director-of-National-Intelligence-Michael-Thomas-ODNI.pptx) (.pptx PowerPoint presentation Presentation, 10MB)
+[Animated gifs and the Office of the Director of National Intelligence (.pptx presentation, 10 MB)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Animated-gifs-and-the-Office-of-the-Director-of-National-Intelligence-Michael-Thomas-ODNI.pptx)
 
 ## Repurpose user-generated content for cost-efficient programming
 
@@ -48,7 +48,7 @@ Erika Brown of the [Peace Corps](http://www.peacecorps.gov/) has a world of cont
   * Leverage user generated content to tell your organization’s story, and find opportunities to give quality content a second life.
   * Make sure to get approvals from appropriate stakeholders, most importantly, the people who created the content.
 
-[Peace Corps and Animated Gifs](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Peace-Corps-and-Animated-Gifs-Erika-Brown.pptx) (.pptx PowerPoint presentation Presentation, 5 MB)
+[Peace Corps and Animated Gifs (.pptx presentation, 5 MB)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Peace-Corps-and-Animated-Gifs-Erika-Brown.pptx)
 
 ## Create eye catching and easy to follow tutorials and instructions
 
@@ -61,7 +61,7 @@ In the webinar, she demonstrated how to:
   * Use animated gifs to explain how people can do a certain task, such as how to sign into a website, or how to set privacy settings on a website. For example, 18F used animated gifs in a tutorial for [how to use the command line and the terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
   * Try a free, open source program called [LiceCap](http://www.cockos.com/licecap/) to create tutorial and instructional animated gifs.
 
-[Animated Gif Tutorials with 18F](http://www.slideshare.net/DigitalGov/animated-gif-tutorials-with-18-f-melody-kramer "Animated Gif Tutorials with 18F") (.pptx PowerPoint presentation Presentation, 105 kb)
+[Animated Gif Tutorials with 18F](http://www.slideshare.net/DigitalGov/animated-gif-tutorials-with-18-f-melody-kramer "Animated Gif Tutorials with 18F")
 
 ## Animated gifs should meet accessibility standards
 
@@ -74,7 +74,7 @@ In order to help meet those challenges, she suggested:
   * Ensure animated content is sufficiently described in text, using best practices outlined on [WebAccessibility.com](https://www.webaccessibility.com/).
   * Ensure elements like blink or flash are in a safe threshold (the guideline is to avoid anything that flashes more than three times a second) using [best practices](https://www.webaccessibility.com/resource-library/platform/?platform=11) and the open source [photosensitive epilepsy analysis tool (PEAT)](https://trace.umd.edu/peat/).
 
-[Accessibility for Animated Gifs](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Accessibility-for-Animated-Gifs-Victoria-Wales-USAgov-GobiernoUSAgov.pptx) (.pptx PowerPoint presentation Presentation, 3 MB)
+[Accessibility for Animated Gifs (.pptx presentation, 3 MB)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Accessibility-for-Animated-Gifs-Victoria-Wales-USAgov-GobiernoUSAgov.pptx)
 
 ## Use U.S. government records to bring history to life
 
@@ -85,4 +85,8 @@ Darren Cole of the [National Archives and Records Administration](http://todaysd
   * Use animated gifs to make your content engaging and government records relevant to modern communities.
   * Make your own .gov gifs with free, public domain sources from [the National Archives catalog](https://catalog.archives.gov/).
 
-[Gifs from Government Records (PowerPoint, 3 MB)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Gifs-from-Government-Records-Darren-Cole-National-Archives-and-Records-Administration-NARA.pptx)
+[Gifs from Government Records (.pptx presentation, 3 MB)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Gifs-from-Government-Records-Darren-Cole-National-Archives-and-Records-Administration-NARA.pptx)
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
