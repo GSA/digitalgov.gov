@@ -56,7 +56,7 @@ The EAC also has a really nice USWDS implementation that they launched last summ
 
 **Slide 7:** Now for a few product updates.
 
-**Slide 8:** Next week we'll be releasing USWDS 3.8.1. This will be a nice little bugfix release, addressing an issue with input mask not working in some situations, some focus issues with the validation component, and a number of nice improvements to the functionality of tooltip. Keep your eyes peeled for USWDS 3.8.1 next week!
+**Slide 8:** Next week we'll be releasing USWDS 3.8.1. This will be a nice little bug fix release, addressing an issue with input mask not working in some situations, some focus issues with the validation component, and a number of nice improvements to the functionality of tooltip. Keep your eyes peeled for USWDS 3.8.1 next week!
 
 Slide 9: Next, we're going to be trying something different for our August monthly call. I know it's a few months away, but after we come back from July break, we're going to have a "community choice" call. We're soliciting your feedback in a GitHub discussion, starting now, to help us understand what's important to you, and build a monthly call around it. So if you've got opinions, share them in [the discussion link we're posting in the chat](https://github.com/uswds/uswds/discussions/5923).
 
@@ -75,7 +75,7 @@ Amy Cole introduction.
 **Slide 13:** Next I'd like to introduce Alex Hull. Alex is also an Accessibility Specialist on the USWDS core team and a contractor. Alex, can you introduce yourself and give a quick self-description?
 
 Alex Hull introduction.
- 
+
 **Slide 14:** And finally, I'm very pleased to introduce Whitney Quesenbery. Whitney is the Co-Founder and Director of the Center for Civic Design.
 
 The Center for Civic Design is a nonpartisan nonprofit working with state and local elections offices and community organizations to make all the materials of democracy clear and usable.
@@ -186,11 +186,11 @@ So, let’s look at this in a voting booth.
 
 **Slide 22:** Assistance is what we used to have — someone marking a ballot for a voter. There’s neither privacy nor independence, so there is no illustration for this.
 
-**Accommodation** is represented with a sign and bell for curbside voting. These are often used in polling places where the entrance is not accessible. It’s the genesis of curbside voting where pollworkers bring the ballot to the person.
+**Accommodation** is represented with a sign and bell for curbside voting. These are often used in polling places where the entrance is not accessible. It’s the genesis of curbside voting where poll workers bring the ballot to the person.
 
 **Accessibility** is represented by an accessible voting system sitting on a table as part of a line of voting booths for hand-marked ballots.
 
-And **universal design** that is, **accessibity** + **usability** by a photo of a voting system with a screen, tactile controller and headsets, designed to be used by all voters, including voters with disabilities.
+And **universal design** that is, **accessibility** + **usability** by a photo of a voting system with a screen, tactile controller and headsets, designed to be used by all voters, including voters with disabilities.
 
 You may have heard of the “curb cut effect” — where something designed for accessibility turns out to be valuable for everyone.
 
@@ -208,7 +208,7 @@ I was the chair for human factors and privacy — including usability and access
 
 The official words in HAVA 301(a)(3) are that voting systems **shall be accessible**
 
-* for individuals with disabilities, including **nonvisual accessibility** for the blind and visually impaired,
+* for individuals with disabilities, including **non=visual accessibility** for the blind and visually impaired,
 * in a manner that provides the same opportunity for access and participation including **privacy and independence** as for other voters
 
 While I was on the committee, we wrote the first and most of the 1.1 version of the Voluntary Voting System Guidelines ([VVSG](https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines)). We started from an almost blank page: 2 existing requirements for accessibility, some preliminary work on an IEEE standards, and Section 508/WCAG.
@@ -287,7 +287,7 @@ In 2020, the voting system was launched – called the Voting System for All Peo
 
 **Slide 29:** One of the more innovative ideas is the [poll pass](https://www.lavote.gov/home/voting-elections/voting-options/interactive-sample-ballot) that lets a voter make their selections at home and then transfer them to the VSAP BMD where they can review them before printing and casting a ballot.
 
-It took 10 years + funding + leadership + a lot of technical innovation. And it survived a bumpy rollout with epollbook problems.
+It took 10 years + funding + leadership + a lot of technical innovation. And it survived a bumpy rollout with ePollbook problems.
 
 But it’s an innovative, beautiful, voting system that has accessibility built in from the start.
 
