@@ -15,7 +15,7 @@ topics:
 
 Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
 
-To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community]({{< ref "communities/social-media.md" >}}) through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
+To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [SocialGov Community of Practice]({{< ref "communities/social-media.md" >}}) through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
 
 Notably, this became the highest rated SocialGov webinar based on user feedback from a post-event survey. By popular demand, we will follow-up with another article highlighting the practical and efficient ways other agencies are using this training to develop and use animated gifs in their digital programs.
 
