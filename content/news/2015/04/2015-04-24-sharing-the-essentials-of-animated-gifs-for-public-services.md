@@ -15,7 +15,7 @@ topics:
 
 Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
 
-To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community]({{< ref "communities/social-media.md" >}}) through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
+To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [SocialGov Community of Practice]({{< ref "communities/social-media.md" >}}) through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
 
 Notably, this became the highest rated SocialGov webinar based on user feedback from a post-event survey. By popular demand, we will follow-up with another article highlighting the practical and efficient ways other agencies are using this training to develop and use animated gifs in their digital programs.
 
@@ -72,7 +72,7 @@ Victoria Wales of [USAGov](http://www.usa.gov/) and [USAGov en Espa&#241;ol](htt
 In order to help meet those challenges, she suggested:
 
   * Ensure animated content is sufficiently described in text, using best practices outlined on [WebAccessibility.com](https://www.webaccessibility.com/).
-  * Ensure elements like blink or flash are in a safe threshold (the guideline is to avoid anything that flashes more than three times a second) using [best practices](https://www.webaccessibility.com/best_practices.php?best_practice_id=1342) and the open source [PEAT epilepsy analysis tool](http://trace.wisc.edu/peat/).
+  * Ensure elements like blink or flash are in a safe threshold (the guideline is to avoid anything that flashes more than three times a second) using [best practices](https://www.webaccessibility.com/resource-library/platform/?platform=11) and the open source [photosensitive epilepsy analysis tool (PEAT)](https://trace.umd.edu/peat/).
 
 [Accessibility for Animated Gifs](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Accessibility-for-Animated-Gifs-Victoria-Wales-USAgov-GobiernoUSAgov.pptx) (.pptx PowerPoint presentation Presentation, 3 MB)
 
