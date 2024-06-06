@@ -32,11 +32,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-  # - link: "/an-introduction-to-accessibility"
-  - link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf"
-    title: "External website title goes here"
-    summary: "Short summary goes here for the reader to understand the nature of the external content."
-    kicker: "Customer kicker"
+  - link: "/guides/dap"
 
 # Featured community to display at the top of the page
 featured_communities:

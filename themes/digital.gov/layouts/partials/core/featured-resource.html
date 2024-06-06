@@ -1,47 +1,48 @@
-{{/* Featured Resource Component
+<!-- prettier-ignore-start -->
+{{/* 
 
-  @params {string} resourcePath - A relative hugo path to lookup a page to feature, use a forward slash before the path and no trailing slash.
-  @params {string} kicker - Text that is displayed above the resources main content.
+  Featured Resource Component displays an internal or external resource wrapped in a gray rounded box.
+  If the link is internal the hugo page lookup will return the fields to display.
+  If the link is external then yaml data or shortcode fields will be used to populate the display fields.
+  The source data can be from a hugo page, yaml data from a topics page frontmatter or a shortcode used in markdown.
 
-  @example shortcode
-  {{< featured-resource resourcePath = "/guides/hcd/discovery-concepts"
->}}
+  @params {object} resource_data - a dictionary object to display a resource
+    - link (required) - can be internal hugo path or external http(s) link
+    - title - the title of the resource
+    - summary - the short description for the resource
+    - kicker - a short label or message at the top of the resource box
 
-
-<!-- prettier-ignore -->
-Resource paths allowed:
+  @example link paths allowed:
   - 18f-accessibility-guide
   - /18f-accessibility-guide
   - /resources/18f-accessibility-guide
+  - https://wwww.ai.gov
+  - http://www.usps.com/
 
-@example Community shortcodes
-{{< featured-resource resourcePath = "/communities/communicators" kicker = "Join the Community" >}}
+  @example shortcode with internal link:
+  {{< featured-resource link = "/guides/hcd/discovery-concepts" >}}
+@example shortcode with external link:
+{{< featured-resource link = "https://wwww.ai.gov" >}}
 
+@example display a community in a shortcode:
+{{< featured-resource link = "/communities/communicators" kicker = "Join the Community" >}}
 
-<!-- prettier-ignore -->
-Community resource paths:
-  - communicators
-  - multilingual
-  - plain-language
-  - social-media
-  - user-experience
-  - web-analytics-and-optimization
-  - web-managers-forum
-*/}}
+@example allowed community resource paths: - communicators - multilingual -
+plain-language - social-media - user-experience - web-analytics-and-optimization
+- web-managers-forum */}}
+<!-- prettier-ignore-end -->
 
-{{ $resource := .data }}
-{{ $internalLink := "" }}
-{{ $externalLink := "" }}
+{{ $resource := .resource_data }}
 {{ $title := "" }}
 {{ $summary := "" }}
 {{ $image := "" }}
 {{ $kicker := "" }}
+{{ $internalLink := "" }}
+{{ $externalLink := "" }}
 {{ $isExternal := false }}
 
-
-
 {{/* Check if page is an external link, otherwise return a hugo page object */}}
-{{ if strings.HasPrefix $resource.link "https://" }}
+{{ if or (strings.HasPrefix $resource.link "https://") (strings.HasPrefix $resource.link "http://") }}
   {{ $isExternal = true }}
   {{ $title = $resource.title }}
   {{ $summary = $resource.summary }}
@@ -63,9 +64,6 @@ Community resource paths:
     {{ end }}
   {{ end }}
 {{ end }}
-
-
-
 
 {{- if $resource -}}
   <div class="dg-featured-resource">

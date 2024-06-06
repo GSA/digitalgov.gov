@@ -1,17 +1,31 @@
 <!-- prettier-ignore-start -->
-{{/* Featured rounded box that displays a guide kicker, title, summary, and image and links to a resource
+{{/*
 
-@param $resourcePath path to guide "/guides/dap"
-@param $kicker display kicker text if exists
+Featured rounded box that displays a guide kicker, title, summary, and image and links to a resource
+The link can be an internal hugo page or external website.
+If an internal link is used then only the link and optional custom kicker is required.
+If an external link is used then all fields in the shortcode are required.
+
+See themes/digital.gov/layouts/partials/core/featured-resource.html for more implementation details
+
+@params {string} title - if link is external the title will need to be provided
+@params {string} link - path to resource such as "/guides/dap" or "https://www.ai.gov"
+@params {string} summary - if link is external the summary will need to be provided
+@params {string} kicker - optional custom kicker for internal or external links
   
-Example usage:
-{{< featured-resource resourcePath = "/guides/dap/" kicker = "kicker to display">}}
+@example with internal link:
+{{< featured-resource link = "/guides/dap/" kicker = "kicker to display">}}
+@example with external link:
+{{< featured-resource link = "https://www.ai.gov" kicker = "Visit ai.gov" title = "Check out ai.gov" summary = "ai.gov is the go to reference for all artifical intelligence in the federal government" >}}
+
 */}}
 <!-- prettier-ignore-end -->
 
-{{ $resourcePath := (.Get "resourcePath") }}
+{{ $title := (.Get "title") }}
+{{ $summary := (.Get "summary") }}
+{{ $link := (.Get "link") }}
 {{ $kicker := (.Get "kicker") }}
 
-{{ $data := (dict "link" $resourcePath "kicker" $kicker ) }}
+{{ $data := (dict "title" $title "summary" $summary "link" $link "kicker" $kicker ) }}
 
-{{- partial "core/featured-resource.html" (dict "Site" .Site "data" $data ) -}}
+{{- partial "core/featured-resource.html" (dict "Site" .Site "resource_data" $data ) -}}
