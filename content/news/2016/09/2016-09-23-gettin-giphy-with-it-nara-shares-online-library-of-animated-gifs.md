@@ -78,7 +78,7 @@ If creating animated GIFs are up your creative alley, check out the <a href="htt
 
 Want to learn more about making GIFs? <a href="https://pro.dp.la/events/workshops" target="_blank">Join us for a GIF-making workshop</a>, hosted by Darren Cole of the <a href="http://todaysdocument.tumblr.com/" target="_blank">National Archives’ Today’s Document</a>, and Richard Naples of the <a href="http://smithsonianlibraries.tumblr.com/" target="_blank">Smithsonian Libraries</a>. Sponsored by the Digital Public Library of America (DPLA), the workshop is on Wednesday, September 28, 2016, at 3:00 pm.
 
-In 2018, Cole and Naples did an hour-long follow-up workshop with DPLA, Advanced GIF-Making Techniques, that can be watched either [https://pro.dp.la/events/workshops#gifs](on their workshops page), or [on YouTube](https://www.youtube.com/watch?v=_jjByILtVE4).
+In 2018, Cole and Naples did an hour-long follow-up workshop with DPLA, Advanced GIF-Making Techniques, that can be watched either [on their workshops page](https://pro.dp.la/events/workshops#gifs), or [on YouTube](https://www.youtube.com/watch?v=_jjByILtVE4).
 
 Cheers! {{< legacy-img src="https://media2.giphy.com/media/3o6ZtfLJXFkJEROJSU/giphy.gif" alt="Animated gif of a man drinking wine." caption="" >}}
 
