@@ -2,23 +2,31 @@
   External links use both source and source_url to set the logo and external link.
 */}}
 
-{{/* Flag to display internal or external card styles */}}
-{{ $isExternal := false }}
-{{ if and (.Params.source) (.Params.source_url) }}
-  {{ $isExternal = true }}
-{{ end }}
-
-{{/* Get the source to lookup the logo for an external image */}}
-{{ $source := $.Site.GetPage "page" (print "source_" .Params.source ) }}
-{{/* Unique ID to link article to its title in screen readers */}}
+{{/* Unique ID to link article to its title in screen readers. Turns "18f at ten" into "title-18f-at-ten" */}}
 {{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
 {{ $title := .Title }}
 {{ $kicker := .Params.kicker }}
 {{ $deck := .Params.deck }}
 {{ $summary := .Params.summary }}
-{{ $link := .Permalink }}
-{{ $short_url := .Params.short_url }}
-{{ $source_url := .Params.source_url }}
+{{ $authors := .Params.authors }}
+{{/* source_url is an external link */}}
+{{ $externalLink := .Params.source_url }}
+{{ $internalLink := .Permalink }}
+
+{{/* Get the source to lookup the logo for an external image */}}
+{{ $source := .Params.source }}
+{{ $sourcePage := $.Site.GetPage "page" (print "source_" $source ) }}
+{{/* sourceName returns name of agency to display on page (i.e. "USA.gov", "The White House") */}}
+{{ $sourceName := $sourcePage.Params.name }}
+{{/* sourceLogo returns lowercase name of agency used for internal image mapping (i.e. "10x", "gsa", "usagov", "whitehouse") */}}
+{{ $sourceLogo := $sourcePage.Params.logo }}
+{{ $sourceLogoPath := (printf "logos/%s%s" $sourceLogo "-logo.png") }}
+
+{{/* Flag to display internal or external card styles */}}
+{{ $isExternal := false }}
+{{ if and $source $externalLink }}
+  {{ $isExternal = true }}
+{{ end }}
 
 
 <article
@@ -27,31 +35,23 @@
   {{ else }}
     card-news--internal
   {{ end }}card-linked"
-  {{ if $short_url }}data-short_url="{{- $short_url -}}"{{ end }}
   aria-labelledby="{{ $titleID }}"
 >
   <div class="card__content">
     {{ if $isExternal }}
       <div class="card__summary">
         <h3 id="{{ $titleID }}">
-          <a href="{{- $link -}}">{{- $title | markdownify -}}</a>
+          <a href="{{- $externalLink -}}">{{- $title | markdownify -}}</a>
         </h3>
         <p>
           {{- if $deck -}}
             {{- $deck | markdownify | emojify -}}
           {{- end -}}
-          {{- if $source -}}
-            {{ $url := urls.Parse $source_url }}
+          {{- if $sourcePage -}}
             <em class="card__source source"
               >— via
-              <a
-                href="{{- if $short_url -}}
-                  {{- $short_url -}}
-                {{- else -}}
-                  {{- $source_url -}}
-                {{- end -}}"
-                title="Read at {{ $source.Params.name -}}"
-                >{{- $source.Params.name -}}</a
+              <a href="{{ $externalLink }}" title="Read at {{ $sourceName -}}"
+                >{{- $sourceName -}}</a
               ></em
             >
           {{ end }}
@@ -64,7 +64,7 @@
         </div>
       {{- end -}}
       <h3 id="{{ $titleID }}">
-        <a href="{{- $link -}}">{{- $title | markdownify -}}</a>
+        <a href="{{- $internalLink -}}">{{- $title | markdownify -}}</a>
       </h3>
 
       {{- if $summary -}}
@@ -77,21 +77,25 @@
         </div>
       {{- end -}}
 
-      {{- partial "core/get_authors_short.html" . -}}
+      {{ if $authors }}
+        {{- partial "core/get_authors_short.html" . -}}
+      {{ end }}
     {{ end }}
   </div>
 
   <div class="card__media">
     {{/* Use a custom favicon set in /sources/source_[slug].md */}}
     {{ if $isExternal }}
-      {{- if $source.Params.logo -}}
-        {{- $src := (printf "logos/%s%s" $source.Params.logo "-logo.png") -}}
-        <img src="{{ $src | relURL }}" alt="{{- $source.Params.name }} logo" />
+      {{ if $sourceLogo }}
+        <img
+          src="{{ $sourceLogoPath | relURL }}"
+          alt="{{- $sourceLogo }} logo"
+        />
       {{ else }}
         {{/* Otherwise, use the Favicon that Google stores for the site. */}}
         <img
-          src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}"
-          alt="{{- .Params.source }} logo"
+          src="https://www.google.com/s2/favicons?domain={{- $externalLink -}}"
+          alt="{{- $source }} logo"
         />
       {{ end }}
     {{ else }}
