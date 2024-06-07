@@ -25,7 +25,7 @@
       </div>
     </section>
 
-    <section class="grid-container grid-container-desktop margin-bottom-4">
+    <section class="grid-container-desktop margin-bottom-4">
       <div class="grid-row tablet-lg:grid-gap-2">
         <div class="grid-col-auto">
           {{- $topics_tax := $.Site.Taxonomies.topics -}}
@@ -50,23 +50,6 @@
             {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title "tag_count" $taxonomy.Count) }}
           {{- end -}}
         {{- end -}}
-      </div>
-    </section>
-
-    <section class="topic-csv display-none">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-2">
-          <div class="grid-col-auto">
-            {{- $topics_tax := $.Site.Taxonomies.topics -}}
-            {{- range $name, $topic := $topics_tax }}
-              {{- with $.Site.GetPage (printf "/topics/%s" $name) }}
-                {{ .Title }}, {{ $name }},
-                {{ .Params.weight }}
-                <br />
-              {{ end -}}
-            {{- end -}}
-          </div>
-        </div>
       </div>
     </section>
   </main>
