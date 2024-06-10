@@ -1,25 +1,30 @@
 ---
 source: ""
 date: 2024-06-10
-title: How the U.S. Department of the Navy is delivering IT that just works
-deck: A case study from the Navy’s Chief Information Officer and Program
-  Executive Office for Digital and Enterprise Services
-summary: The U.S. Navy’s Program Executive Office for Digital and Enterprise
-  Services is working to revolutionize how information technology is acquired.
+title: "How the U.S. Department of the Navy is delivering IT that just works"
+deck: "A case study from the Navy’s Chief Information Officer and Program Executive Office for Digital and Enterprise Services"
+summary: "The U.S. Navy’s Program Executive Office for Digital and Enterprise Services is working to revolutionize how information technology is acquired."
+
 # See all topics at https://digital.gov/topics
 topics:
-  - application-programming-interface
-  - budgeting-and-performance
+  - analytics
+  - user-experience
+
 # See all authors at https://digital.gov/authors
 authors:
   - amanda-hawkins
+
 slug: how-the-u-s-department-of-the-navy-is-delivering-it-that-just-works
-primary_image: 10x-areas-of-focus
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 {{< note >}}
 The United States Navy’s Program Executive Office for Digital and Enterprise Services supports about 750,000 users across the globe. Their team is working to revolutionize how information technology is acquired within the Department of Defense and focusing on the warfighter with modern service delivery principles aligned with world-class alignment metrics. Learn more about their approach in this case study.
 {{< /note >}}
