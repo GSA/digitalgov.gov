@@ -1,19 +1,20 @@
 ---
 slug: the-content-corner-making-those-connections
 date: 2015-03-30 10:00:27 -0400
-title: 'The Content Corner: Making Those Connections'
-summary: ' A (possibly infamous) blog post from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose'
+title: "The Content Corner: Making Those Connections"
+summary: "A (possibly infamous) blog post from last Friday and the discussion or debate that followed reminded me of several important points that we all may lose sight of during our hectic schedules."
 authors:
   - tyrus-manuel
 topics:
   - content-strategy
   - data-visualization
   - social-media
+
 ---
 
-{{< legacy-img src="2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}
-
 A (possibly infamous) [blog post](http://www.zdnet.com/article/us-congress-publishes-press-release-made-of-copyright-violating-animated-gifs) from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose sight of during our hectic schedules.
+
+{{< legacy-img src="2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}
 
 ## 1. Audience Determines the Message
 
@@ -27,7 +28,7 @@ Along with audience determining your message, your message can help determine ho
 
 One great example of this that has gained popularity of late is the [infographic]({{< ref "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}). It&#8217;s fast and can quickly provide a ton of useful information to a user. Add animation (when you need to) and you have an even more effective communication tool.
 
-[{{< legacy-img src="2015/03/600-x-325-quick-sprout.jpg" alt="A Rule of Thumb for images: 1) Don't add an image just to have an image. 2) Don't use boring or irrelevant images 3) Avoid overused stock photos 4) Keep size in mind depending on how you use visual images. Click image for full infographic." caption="" >}}](http://www.quicksprout.com/2015/03/20/the-ultimate-guide-to-creating-visually-appealing-content/?display=wide) 
+{{< legacy-img src="2015/03/600-x-325-quick-sprout.jpg" alt="A Rule of Thumb for images: 1, Don't add an image just to have an image. 2, Don't use boring or irrelevant images 3, Avoid overused stock photos 4, Keep size in mind depending on how you use visual images. Click image for full infographic." caption="" >}}
 
 As opposed to a video, if you have a brief segment without audio that you need to share, then use the animated gif. 18F has several great examples of this from their [GitHub/Terminal tutorial](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 
@@ -35,7 +36,9 @@ As opposed to a video, if you have a brief segment without audio that you need t
 
 ## 3. Don&#8217;t Lose the Joy
 
-[{{< legacy-img src="2015/03/250-x-312-tumblr\_nczzmcpicN1rn3gulo1\_500.gif" alt="Animated Victorian sketch of a woman turns her into a DJ, wearing headphones and scratching on a dark shape representing a vinyl record." >}}](http://smithsonianlibraries.tumblr.com/tagged/gif)This may be the biggest thing that smacked me in the face this week. The world we work and live in is fast-paced; many of us are constantly working to feed the beast along with juggling tons of other issues. It&#8217;s easy to lose sight of the bigger picture; it happens to everyone.
+{{< legacy-img src="2015/03/250-x-312-tumblr_nczzmcpicN1rn3gulo1_500.gif" alt="Animated Victorian sketch of a woman turns her into a DJ, wearing headphones and scratching on a dark shape representing a vinyl record." >}}
+
+This may be the biggest thing that smacked me in the face this week. The world we work and live in is fast-paced; many of us are constantly working to feed the beast along with juggling tons of other issues. It&#8217;s easy to lose sight of the bigger picture; it happens to everyone.
 
 All the other stuff I write about is important:
 
@@ -45,4 +48,8 @@ All the other stuff I write about is important:
 
 and I will keep writing about it, but every so often I need to go to [Smithsonian&#8217;s Tumblr](http://smithsonianlibraries.tumblr.com/tagged/gif) and remind myself how much fun this can and should be.
 
-We have to always remember that our main mission is reaching out and building community and making people&#8217;s lives better. That&#8217;s a wonderful responsibility and we have so many exciting [tools]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}) (with more popping up all the time) to play with and try and fail when needed. Animated gifs, kinetic infographics, live-streamed video: whatever it takes to make that connection, because that&#8217;s why we&#8217;re doing this. If you need to increase your comfort level with at least one of these visual platforms, then sign-up for [Essentials of Animated Gifs for Government]({{< tmp "events/essentials-of-animated-gifs-for-government.md" >}} "Essentials of Animated Gifs for Government")._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+We have to always remember that our main mission is reaching out and building community and making people&#8217;s lives better. That&#8217;s a wonderful responsibility and we have so many exciting [tools]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}) (with more popping up all the time) to play with and try and fail when needed. Animated gifs, kinetic infographics, live-streamed video: whatever it takes to make that connection, because that&#8217;s why we&#8217;re doing this. If you need to increase your comfort level with at least one of these visual platforms, then sign-up for [Essentials of Animated Gifs for Government]({{< tmp "events/essentials-of-animated-gifs-for-government.md" >}} "Essentials of Animated Gifs for Government").
+
+---
+
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

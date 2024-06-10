@@ -513,7 +513,7 @@ Within `90 days` of issuance (originally due December 23, 2023; deadline extende
 
 - **Purpose:** Each agency must identify their public-facing websites. This inventory will allow the digital experience delivery leads (identified in action 1 above) and OMB to establish an accurate baseline and assess progress in implementing the policy guidance requirements.
 
-- **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites (requires a Max.gov account)](https://collectvnext.max.gov/site/171/home-page). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
+- **Instructions:** Coordinate with your agency digital experience delivery lead to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #2: Identify public-facing websites (requires a Max.gov account)](https://collect.omb.gov/site/171/home-page). This tool includes a pre-populated list of federal websites, and it can be accessed by any federal employee.
 
 ### Action 3. Identify and assess top websites
 
@@ -521,23 +521,27 @@ Within `180 days` of issuance (due March 20, 2024)
 
 - **Purpose**: Each agency must identify its top websites using web traffic data. This list of top websites will determine relative public engagement across each agency’s websites and help inform how agencies and OMB prioritize digital experience improvements across the federal government.
 
-- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collectvnext.max.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. Once you’ve made your final submission, please update the workflow status to `OMB review`. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #3: Identify and Assess Top Facing Sites (requires a Max.gov account)](https://collect.omb.gov/site/174/home-page). This inventory provides a pre-populated list of all public-facing federal websites, and it can be accessed by any federal employee with a Max.gov account. Once you’ve made your final submission, please update the workflow status to `OMB review`. For websites that participate in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP), website traffic data is pre-populated.
 
 Note that agencies must complete [action 2 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-2-identify-public-facing-websites) before action 3.
 
 ### Action 4. Assess common questions and top content for deduplication and SEO
 
-Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024. Additional details and instructions are forthcoming)
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to April 19, 2024
 
 - **Purpose**: Each agency must identify its top content and common questions based on web analytics and customer feedback. This information will help agencies identify opportunities for deduplication and search engine optimization (SEO). It will also inform inter- and intra-agency strategies.
 
-- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #4: Assess common questions and top content for deduplication and SEO (requires a Max.gov account)](https://collectvnext.max.gov/site/179/home-page). This tool can be accessed by any federal employee with a Max.gov account. Once you’ve made your final submission, please update the workflow status to `OMB review`.
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency Action Item #4: Assess common questions and top content for deduplication and SEO (requires a Max.gov account)](https://collect.omb.gov/site/179/home-page). This tool can be accessed by any federal employee with a Max.gov account. Once you’ve made your final submission, please update the workflow status to `OMB review`.
 
 Note that agencies must complete [action 3 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-3-identify-and-assess-top-websites) before completing action item 4.
 
 ### Action 5. Assess top tasks for self-service optimization
 
-Within `180 days` of issuance (originally due March 20, 2024; deadline extended to June 21, 2024. Additional details and instructions are forthcoming).
+Within `180 days` of issuance (originally due March 20, 2024; deadline extended to June 21, 2024
+
+- **Purpose**: Each agency must provide a list of opportunities for no less than five top tasks that can be newly designed or further optimized as self-service digital options. This information will help agencies prepare for action on these opportunities, when they are able to prioritize them.
+  
+- **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #5: Assess top tasks for self-service optimization (requires a MAX.gov account)](https://collect.omb.gov/site/195/home-page).  This tool can be accessed by any federal employee with a Max.gov account. Once you’ve made your final submission, please update the workflow status to OMB review.
 
 ### Action 6. Inventory public services
 

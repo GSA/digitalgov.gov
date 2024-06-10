@@ -62,7 +62,7 @@ And there should be some time for Q&A at the end!
 
 **Slide 9:** Next, a few quick product updates.
 
-**Slide 10:** We're currently working on wrapping up USWDS 3.7.0, a nice release focussed on a couple important accessibility updates, and improvements to the interactivity of some of our components in modern dynamic applications.
+**Slide 10:** We're currently working on wrapping up USWDS 3.7.0, a nice release focused on a couple important accessibility updates, and improvements to the interactivity of some of our components in modern dynamic applications.
 
 **Slide 11:** So what are the key improvements coming in USWDS 3.7.0?
 
