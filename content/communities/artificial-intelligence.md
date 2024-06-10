@@ -7,12 +7,12 @@ date: 2019-12-31 19:03:00 -0500
 title: "Artificial Intelligence (AI)"
 deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
+
 redirectto: https://coe.gsa.gov/communities/ai.html
+
 # see all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
-
-kicker: "Join the Artificial Intelligence Community"
 
 # see all authors at https://digital.gov/authors
 authors:
