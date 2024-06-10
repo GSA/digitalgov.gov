@@ -92,7 +92,7 @@ PEO Digital uses investment horizons, a term to identify technology that ranges 
 
 Pilot programs are at the core of the transition from strategy to execution. They serve as testing grounds for innovative technology and processes, providing a controlled environment to assess feasibility and effectiveness. Priority is given to pilots that are quick to onboard and execute, allowing for smaller investments and hypothesis testing to meet user needs.
 
-{{< card-quote text="If I have to switch back &#91;to my previous computer&#93; you will have to take this computer from my clutching hands." cite="Quote from a participant in one of the pilot programs" >}}
+{{< card-quote text="If I have to switch back &#91;to my previous computer&#93;, you will have to take this computer from my clutching hands." cite="Quote from a participant in one of the pilot programs" >}}
 
 ## Measuring success with world-class alignment metrics
 
