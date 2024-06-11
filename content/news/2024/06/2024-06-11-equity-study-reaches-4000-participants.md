@@ -20,6 +20,7 @@ summary: The General Services Administration’s (GSA) equity study on remote
   improved equitable services delivery in technology across the government.
 # See all topics at https://digital.gov/topics
 topics:
+  - analytics
   - human-centered-design
   - user-centered-design
   - trust
