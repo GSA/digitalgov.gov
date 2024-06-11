@@ -20,6 +20,7 @@ summary: The Federal Risk and Authorization Management Program (FedRAMP) has
   capabilities.
 # See all topics at https://digital.gov/topics
 topics:
+  - analytics
   - governance
   - cloud-and-infrastructure
   - privacy
