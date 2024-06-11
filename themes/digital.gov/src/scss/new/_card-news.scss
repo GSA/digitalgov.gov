@@ -20,19 +20,6 @@
   .card__source {
     display: block;
     margin-top: units("05");
-
-    a {
-      color: color("blue-50v");
-
-      &::after {
-        bottom: 0;
-        content: "";
-        left: 0;
-        position: absolute;
-        right: 0;
-        top: 0;
-      }
-    }
   }
 
   .card__media {
@@ -41,7 +28,7 @@
     order: -1;
 
     img {
-      border: 1px color("gray-cool-10") "solid";
+      border: 1px color("base-lighter") solid;
       @include u-circle(7);
 
       @include at-media("mobile-lg") {

@@ -28,13 +28,11 @@
   {{ $isExternal = true }}
 {{ end }}
 
+{{ $cardClasses := slice "card" (print (cond $isExternal "card-news--external" "card-news--internal")) "card-linked" }}
+
 
 <article
-  class="card {{ if $isExternal }}
-    card-news--external
-  {{ else }}
-    card-news--internal
-  {{ end }}card-linked"
+  class="{{ delimit $cardClasses " " }}"
   aria-labelledby="{{ $titleID }}"
 >
   <div class="card__content">
