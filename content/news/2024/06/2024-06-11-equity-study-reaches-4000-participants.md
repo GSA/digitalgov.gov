@@ -3,7 +3,7 @@
 source_url: https://www.gsa.gov/blog/2024/06/05/equity-study-reaches-4000-participants
 source: gsa
 date: 2024-06-05
-title: Equity study reaches 4000 participants
+title: "Equity study reaches 4,000 participants"
 deck: The General Services Administration’s (GSA) equity study on remote
   identity proofing, launched last fall, aims to determine if biases exist in
   the algorithms used for online identity verification. The study has now
