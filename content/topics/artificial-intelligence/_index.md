@@ -30,8 +30,10 @@ legislation:
 featured_resources:
   resources:
     - link: "https://ai.gov/"
-    title: "AI.gov"
-    summary: "Ensuring the U.S. leads in safe, secure, and trustworthy artificial intelligence innovation to harness the opportunities of AI while mitigating its risks."
+     title: "External website title goes here"
+    summary: "Short summary goes here for the reader to understand the nature of the external content."
+    kicker: "Custom kicker"
+
 
     
 
