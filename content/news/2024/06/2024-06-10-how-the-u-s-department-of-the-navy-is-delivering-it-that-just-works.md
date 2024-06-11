@@ -16,7 +16,7 @@ authors:
 
 slug: how-the-u-s-department-of-the-navy-is-delivering-it-that-just-works
 
-primary_image: 
+primary_image: "title-card-navy-peo-digital-delivering-it-that-just-works-case-study-trio"
 
 # Controls how this page appears across the site
 # 0 -- hidden
