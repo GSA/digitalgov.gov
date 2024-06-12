@@ -36,6 +36,8 @@ legislation:
 featured_resources:
   resources:
     - link: "https://www.citizenscience.gov/"
+      title: "CitizenScience.gov"
+      summary: " An official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government."
 
 # Featured community to display at the top of the page
 featured_communities:
