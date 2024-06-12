@@ -8,14 +8,14 @@ deck: The Federal Risk and Authorization Management Program (FedRAMP) has
   recently updated its governance structure to better serve its customers. Learn
   about their recently-formed FedRAMP Board, composed of federal executives; the
   FedRAMP Technical Advisory Group (TAG), composed of technology experts; and
-  updates made to the Federal Security Cloud Advisory Committee (FSCAC).These
+  updates made to the Federal Security Cloud Advisory Committee (FSCAC). These
   groups collectively aim to strengthen and expand FedRAMP’s cloud service
   capabilities.
 summary: The Federal Risk and Authorization Management Program (FedRAMP) has
   recently updated its governance structure to better serve its customers. Learn
   about their recently-formed FedRAMP Board, composed of federal executives; the
   FedRAMP Technical Advisory Group (TAG), composed of technology experts; and
-  updates made to the Federal Security Cloud Advisory Committee (FSCAC).These
+  updates made to the Federal Security Cloud Advisory Committee (FSCAC). These
   groups collectively aim to strengthen and expand FedRAMP’s cloud service
   capabilities.
 # See all topics at https://digital.gov/topics
