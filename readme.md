@@ -76,7 +76,7 @@ npm -v
 
 Using [Homebrew](https://docs.brew.sh/) is a quick and easy way to install Hugo. [Install Homebrew](https://docs.brew.sh/Installation) before getting started.
 
-#### Install Hugo 0.92.0
+#### Install Hugo 0.123.3
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
@@ -90,8 +90,8 @@ Quickly check your Hugo version at your terminal command line by running:
 hugo version
 ```
 
-**Note:** Digital.gov currently uses Hugo version 0.92.0. This is noted in our [.hugo-version](.hugo-version) file.
-If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legacy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
+**Note:** Digital.gov currently uses Hugo version 0.123.3. This is noted in our [.hugo-version](.hugo-version) file.
+If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: https://docs.google.com/document/d/1nNkYBOppnVldgtQQhFRQuQrZNsZnobpBEHdBWzyqgPE/edit?usp=sharing
 
 #### Setup
 
