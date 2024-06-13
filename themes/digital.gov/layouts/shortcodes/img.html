@@ -11,14 +11,15 @@
 {{- $imgCaption := $thisimg.caption -}}
 {{- $imgCredit := $thisimg.credit -}}
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
+{{- $align := .Get "align" | default "" -}}
 
 
 <div
-  class="image{{- if (.Get "align") -}}
-    image-{{- .Get "align" -}}
-  {{- else }}
-    {{- if lt $imgWidth 600 -}}image-right{{- end -}}
-  {{- end -}}"
+  class="image{{- if $align }}
+    image-{{ $align }}
+  {{- else if lt $imgWidth 600 }}
+    image-right
+  {{- end }}"
 >
   {{- if (or (eq $imgExt "jpg") (or (eq $imgExt "jpeg") (eq $imgExt "png"))) -}}
     <img
@@ -27,7 +28,7 @@
       {{- else -}}
         {{- $imgBaseCDN -}}_w800.{{- $imgExt -}}
       {{- end -}}"
-      {{ if or (.Get "alt" ) $thisimg.alt }}
+      {{- if or (.Get "alt") $thisimg.alt }}
         alt="{{- with .Get "alt" -}}
           {{- . -}}
         {{- else -}}
@@ -53,13 +54,12 @@
         {{- end -}}
         "
       {{- end }}
-
       sizes="(max-width: 800px) 100vw, 800px"
     />
   {{- else -}}
     <img
       src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-      {{ if or (.Get "alt" ) $thisimg.alt }}
+      {{- if or (.Get "alt") $thisimg.alt }}
         alt="{{- with .Get "alt" -}}
           {{- . -}}
         {{- else -}}
@@ -75,6 +75,5 @@
       {{- end -}}
     </p>
   {{- end -}}
-
 </div>
 <!-- image -->
