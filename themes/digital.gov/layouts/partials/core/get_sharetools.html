@@ -46,7 +46,7 @@
         aria-label="Share on LinkedIn"
         target="_blank"
         rel="noreferrer"
-        href="https://www.linkedin.com/shareArticle?mini=true&url=https://digital.gov{{ (urls.Parse .Permalink) }}&title={{ .Title | urlize }}&summary={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}"
+        href="https://www.linkedin.com/feed/?shareActive&mini=true&url=https://digital.gov{{ (urls.Parse .Permalink) }}&title={{ .Title | urlize }}&text={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}"
       >
         <svg
           class="usa-icon dg-icon dg-icon--large margin-bottom-05"
