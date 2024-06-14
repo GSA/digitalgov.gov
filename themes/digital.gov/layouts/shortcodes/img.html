@@ -13,25 +13,22 @@
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
 {{- $align := .Get "align" | default "" -}}
 
-
-<div
-  class="image{{- if $align }} image-{{ $align }}{{- end }}"
->
+<div class="image{{- if $align }} image-{{ $align }}{{- end }}">
   {{- if (or (eq $imgExt "jpg") (or (eq $imgExt "jpeg") (eq $imgExt "png"))) -}}
-    < img
+    <img
       src="{{- if ne $prefix $thisuid -}}
         {{- $thisuid -}}
       {{- else -}}
         {{- $imgBaseCDN -}}_w800.{{- $imgExt -}}
       {{- end -}}"
-      {{- if or (.Get "alt") $thisimg.alt }}
+      {{- if or (.Get "alt") $thisimg.alt -}}
         alt="{{- with .Get "alt" -}}
           {{- . -}}
         {{- else -}}
           {{- $thisimg.alt -}}
-        {{ end }}"
+        {{- end -}}
       {{- end -}}
-      {{- if eq $prefix $thisuid }}
+      {{- if eq $prefix $thisuid -}}
         srcset="
         {{- if ge $imgWidth 200 -}}
           {{- $imgBaseCDN -}}_bu.jpg 48w,
@@ -49,18 +46,18 @@
           {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
         {{- end -}}
         "
-      {{- end }}
+      {{- end -}}
       sizes="(max-width: 800px) 100vw, 800px"
     />
   {{- else -}}
     <img
       src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-      {{- if or (.Get "alt") $thisimg.alt }}
+      {{- if or (.Get "alt") $thisimg.alt -}}
         alt="{{- with .Get "alt" -}}
           {{- . -}}
         {{- else -}}
           {{- $thisimg.alt -}}
-        {{ end }}"
+        {{- end -}}
       {{- end -}}
     />
   {{- end -}}
