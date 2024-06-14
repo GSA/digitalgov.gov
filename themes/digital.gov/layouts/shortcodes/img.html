@@ -15,14 +15,10 @@
 
 
 <div
-  class="image{{- if $align }}
-    image-{{ $align }}
-  {{- else if lt $imgWidth 600 }}
-    image-right
-  {{- end }}"
+  class="image{{- if $align }} image-{{ $align }}{{- end }}"
 >
   {{- if (or (eq $imgExt "jpg") (or (eq $imgExt "jpeg") (eq $imgExt "png"))) -}}
-    <img
+    < img
       src="{{- if ne $prefix $thisuid -}}
         {{- $thisuid -}}
       {{- else -}}
