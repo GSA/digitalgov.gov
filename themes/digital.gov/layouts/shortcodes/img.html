@@ -13,7 +13,8 @@
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
 {{- $align := .Get "align" | default "" -}}
 
-<div class="image{{- if $align }} image-{{ $align }}{{- end }}">
+
+<div class="image{{- if $align }}image-{{ $align }}{{- end }}">
   {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
     <img
       src="{{- if ne $prefix $thisuid -}}
