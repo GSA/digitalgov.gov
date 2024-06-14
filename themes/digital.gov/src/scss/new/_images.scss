@@ -52,13 +52,9 @@
   @include u-display("block");
   @include u-margin-left("auto");
   @include u-margin-right("auto");
-  @include u-maxw("100%");
+  @include u-maxw("full");
   text-align: center;
 }
-
-
-
-
 
 img[alt] {
   font-style: italic;

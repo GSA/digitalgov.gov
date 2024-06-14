@@ -14,7 +14,7 @@
 {{- $align := .Get "align" | default "" -}}
 
 <div class="image{{- if $align }} image-{{ $align }}{{- end }}">
-  {{- if (or (eq $imgExt "jpg") (or (eq $imgExt "jpeg") (eq $imgExt "png"))) -}}
+  {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
     <img
       src="{{- if ne $prefix $thisuid -}}
         {{- $thisuid -}}
@@ -26,7 +26,7 @@
           {{- . -}}
         {{- else -}}
           {{- $thisimg.alt -}}
-        {{- end -}}
+        {{- end -}}"
       {{- end -}}
       {{- if eq $prefix $thisuid -}}
         srcset="
@@ -57,13 +57,13 @@
           {{- . -}}
         {{- else -}}
           {{- $thisimg.alt -}}
-        {{- end -}}
+        {{- end -}}"
       {{- end -}}
     />
   {{- end -}}
   {{- if or $imgCaption $imgCredit -}}
     <p>
-      {{- $imgCaption | markdownify -}}{{- if $imgCredit }}
+      {{- $imgCaption | markdownify -}}{{- if $imgCredit -}}
         <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>
       {{- end -}}
     </p>
