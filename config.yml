@@ -133,7 +133,7 @@ menu:
       Weight: 4
     - Name: "Tools"
       Identifier: "tools"
-      URL: "/services/directory"
+      URL: "/services/directory/"
       Weight: 5
 
   contribute:
