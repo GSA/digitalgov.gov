@@ -1,6 +1,6 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Terms of Service"
+title: "Terms of service"
 deck: "GSA offers DAP subject to your acceptance of these terms"
 summary: "Access to or use of the Digital Analytics Program (DAP) constitutes acceptance of these terms of service."
 guide: dap
@@ -15,11 +15,11 @@ The following terms of service govern the Digital Analytics Program (DAP), inclu
 GSA has negotiated federal terms of service for Google Analytics 360. Therefore, agencies do not need to sign new terms of service to use DAP. If your agency would like its own separate implementation of Google Analytics, you can use the DAP terms of service as a starting point, but your agency will need to sign a separate agreement. Please contact the DAP team at [dap@gsa.gov](mailto:dap@gsa.gov) to request a copy of the DAP terms.
 
 ## Privacy
-Google allows people to [opt out of Google Analytics](https://support.google.com/analytics/answer/181881?hl=en) through a [browser extension](https://tools.google.com/dlpage/gaoptout) for many major browsers. 
+Google allows people to [opt out of Google Analytics](https://support.google.com/analytics/answer/181881) through a [browser extension](https://tools.google.com/dlpage/gaoptout) for many major browsers. 
 
 GSA does not have any processes in place to collect [personally identifiable information](https://digital.gov/topics/information-collection/) (PII) using the Digital Analytics Program tool, and agencies are forbidden to pass any PII into the DAP account.
 
-IP-address masking (anonymization) takes place as soon as data is received by Google Analytics and before any storage takes place. The full IP address is not written to disk as all anonymization happens in memory. Read more about [IP-anonymization in Google Analytics](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2763052). None of the federal government data tracked as part of the Digital Analytics Program are shared with Google's corporate advertising partners.
+IP-address masking (anonymization) takes place as soon as data is received by Google Analytics and before any storage takes place. The full IP address is not written to disk as all anonymization happens in memory. Read more about [IP-anonymization in Google Analytics](https://support.google.com/analytics/answer/2763052). None of the federal government data tracked as part of the Digital Analytics Program are shared with Google's corporate advertising partners.
 
 Check out the section on cookies on [USA.gov’s privacy and security policies page](https://www.usa.gov/privacy-security) as an example of how a website’s privacy policy statement can be updated to reflect the information collection.
 
