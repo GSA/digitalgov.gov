@@ -16,8 +16,15 @@ aliases:
   - /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
   - /services/dap/dap-digital-metrics-guidance-and-best-practices/
   - /services/dap/guidance-for-dap-gov-wide-data/
+  - /guides/dap/add-your-site-dap/
+  - /guides/dap/common-questions-about-dap/
+  - /guides/dap/gaining-access-to-dap-data/
+  - /guides/dap/guidelines-for-sharing-dap-data/
+
 image: guide-dap
+
 primary_image: guide-dap
+
 weight: 1
 layout: single
 
