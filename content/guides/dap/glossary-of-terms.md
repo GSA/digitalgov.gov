@@ -28,7 +28,7 @@ Not every agency website or app is alike, so you can add `custom dimensions` in 
 
 A `hostname` is a unique name for a domain or website (such as `gsa.gov`, or `analytics.usa.gov`). Think of a hostname as a book.
 
-A `page` is a portion of a hostname (such as `www.analytics.usa.gov/<strong>data</strong>/`, `www.irs.gov/<strong>newsroom</strong>`, or `www.nasa.gov/learning-resources/<strong>colleges-and-universities/</strong>`). Think of a page as a chapter or page in a book.
+A `page` is a portion of a hostname (such as: analytics.usa.gov/**data**, irs.gov/**newsroom**, or nasa.gov/learning-resources/**colleges-and-universities**). Think of it as a single page in the book.
 
 ### Metrics and dimensions
 
@@ -66,7 +66,7 @@ To use agency-specific data, choose the corresponding agency subproperty. Data f
 To view governmentwide data for all websites using DAP, visit https://google.com/analytics and sign in with your official .gov or .mil email address. Then, choose the option, `0 - DAP Gov-wide View`.
 
 {{< note >}} 
-You must use the `Agency` and `Sub-agency` parameters when implementing the DAP code script. Visit the Get started with DAP page in this guide for more information.
+You must use the `Agency` and `Sub-agency` parameters when implementing the DAP code script. Visit the [Get started with DAP](https://digital.gov/guides/dap/get-started-with-dap/#content-star) page in this guide for more information.
 {{< /note >}}
 
 {{< box >}}
