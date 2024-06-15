@@ -21,15 +21,15 @@ The DAP team offers several custom reports to deliver website traffic, usage met
 
 Watch the video below, Guide to the Digital Analytics Program (DAP): How to find info on user devices, regions, & languages, to learn about the three user-detailed reports for User Device, User Region, and User Language.
 
-{{< youtube pCW4jmTyKpU >}}
+{{< youtube id="pCW4jmTyKpU" title="Guide to the Digital Analytics Program (DAP): How to find info on user devices, regions, & languages" >}}
 
-View the slides (PowerPoint presentation, 3.7 MB, 14 pages)
+[View the slides (PowerPoint presentation, 3.7 MB, 14 pages)](https://docs.google.com/presentation/d/1qY46hReIzyP5rml3bs3PgLWp38SU_a2mCM0BlajI3VU/edit)
 
 Watch the video below, Guide to the Digital Analytics Program (DAP): How to find info on traffic, engagement, and downloads, to learn about four other user-detailed reports: User Traffic (Channel), User Traffic (Source/Medium), User Engagement, and User Downloads.
 
-{{< youtube Wj3h_-ThPgA >}}
+{{< youtube id="Wj3h_-ThPgA" title="Guide to the Digital Analytics Program (DAP): How to find info on traffic, engagement, and downloads" >}}
 
-View the slides (PowerPoint presentation, 3.8 MB, 15 pages)
+[View the slides (PowerPoint presentation, 3.8 MB, 15 pages)](https://docs.google.com/presentation/d/1XywS_6eYVZ_Z8UhI_9lo_6q_LQXzQmrpCzISkF-zf_4/edit)
 
 {{< note >}} 
 DAP is for governmentwide use, and only the DAP team has admin rights to create dashboards and manage users in DAP.
