@@ -4,6 +4,7 @@ title: "Guide to the Digital Analytics Program"
 deck: "Understand how and why to use DAP"
 summary: "The Digital Analytics Program (DAP) provides advanced, easy-to-use web analytics for all federal agencies."
 guide: dap
+
 topics:
   - analytics
   - digital-service-delivery
