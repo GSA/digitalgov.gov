@@ -73,7 +73,7 @@ Registered DAP users can also access more detailed governmentwide and agency-lev
 
 Watch the video below, Guide to the Digital Analytics Program (DAP): How to access DAP and find your agency data, for a brief introduction on how to access DAP and find your agency data. Then, visit [https://google.com/analytics](https://google.com/analytics) and sign in with your official .gov or .mil email address.
 
-{{< youtube id="tjvQlkVBCqQ" title="How to access DAP and find your agency data" >}}
+{{< youtube id="tjvQlkVBCqQ" title="Guide to the Digital Analytics Program (DAP): How to access DAP and find your agency data" >}}
 
 [View the slides (PowerPoint presentation, 3.8 MB, 22 pages)](https://docs.google.com/presentation/d/1Ao6r3LXjpzMJUkQX2qdB4h_ADK_fYYqAn23TrogmGBU/edit)
 
