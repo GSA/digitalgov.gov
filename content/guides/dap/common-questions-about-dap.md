@@ -1,5 +1,7 @@
 ---
 date: 2019-07-31 09:00:00 -0500
+expirydate: "2024-06-14"
+
 title: "Common questions about DAP"
 summary: "The most common questions about implementing, customizing, and utilizing the DAP program."
 guide: dap
@@ -22,27 +24,27 @@ Understand how and why DAP is transitioning from Universal Analytics to Google A
 
 ### Q: When will the Digital Analytics program migrate to Google Analytics 4?
 
-A: On July 1, 2024, the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) will replace Universal Analytics (UA) with [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4). 
+A: On July 1, 2024, the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) will replace Universal Analytics (UA) with [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4).
 
-Between August 1, 2023, and June 31, 2024, DAP users will have access to both the legacy UA data and the new GA4 data. This overlap will allow everyone to become accustomed to interpreting and analyzing data in GA4. 
+Between August 1, 2023, and June 31, 2024, DAP users will have access to both the legacy UA data and the new GA4 data. This overlap will allow everyone to become accustomed to interpreting and analyzing data in GA4.
 
 Keep reading to learn more about how the DAP team is preparing for the transition and what you need to do.
 
 ### Q: How is DAP preparing for the GA4 migration?
 
-A: GA4 is very different from UA — from data collection and metrics, to user interface and reporting features. For example, GA4 tracks analytics for both websites and applications, while UA tracks analytics for websites only. Also, while UA uses measurement based on pageviews, GA4 uses a measurement model based solely on events. 
+A: GA4 is very different from UA — from data collection and metrics, to user interface and reporting features. For example, GA4 tracks analytics for both websites and applications, while UA tracks analytics for websites only. Also, while UA uses measurement based on pageviews, GA4 uses a measurement model based solely on events.
 
 The DAP team is taking several steps to prepare for the GA4 migration.
 
 - **The DAP team released dual tracking code.** To best serve the DAP customers during the migration to GA4, the DAP team released new custom code for `dual tracking` on August 1, 2023. This dual tracking code collects both UA and GA4 data. It continues to collect UA data in the governmentwide and agency-specific profiles until July 1, 2024. In other words, there is no change to existing DAP governmentwide and agency profiles. In parallel, the dual tracking code kicks off collecting and reporting for the GA4 governmentwide DAP property and agency-specific GA4 subproperties. [Subproperties](https://support.google.com/analytics/answer/11525732?hl=en) are similar to UA profiles or views.
 
-- **The DAP team set up a new GA4 account structure.** The DAP team has created agency subproperties for GA4. This account structure ensures federal agencies continue to benefit from DAP’s dedicated agency-specific reporting and analysis structure and to be able to analyze governmentwide data. The GA4 agency subproperties collect analytics using the same rules and filters as the UA agency profiles. 
-- **The DAP team is creating new GA4 custom reports.** Using the GA4 user interface, DAP customers will be able to view governmentwide and agency-specific metrics using DAP's custom reports. Those reports will be published by a DAP administrator under `DAP reports` on the left navigation bar. 
-- **The DAP team is creating training and customer support.** As GA4 collects more data, the DAP team plans to release training to help support DAP customers throughout the migration and beyond. The training plan includes short videos, such as “DAP (GA4) in a minute” as well as a more comprehensive introduction to DAP GA4. The DAP team also plans to hold monthly office hours for DAP customers to attend and ask questions. 
-- **The DAP team is planning necessary updates for analytics.usa.gov.** The DAP team is evaluating solutions for analytics.usa.gov real-time and trend reporting. 
-- **The DAP team is planning to retain access to historical data**. After the DAP UA account is deprecated on July 1, 2024, it will no longer be available to DAP customers. The DAP team is working to ensure that customers continue to have access to over 10 years of historical data from the UA property. 
+- **The DAP team set up a new GA4 account structure.** The DAP team has created agency subproperties for GA4. This account structure ensures federal agencies continue to benefit from DAP’s dedicated agency-specific reporting and analysis structure and to be able to analyze governmentwide data. The GA4 agency subproperties collect analytics using the same rules and filters as the UA agency profiles.
+- **The DAP team is creating new GA4 custom reports.** Using the GA4 user interface, DAP customers will be able to view governmentwide and agency-specific metrics using DAP's custom reports. Those reports will be published by a DAP administrator under `DAP reports` on the left navigation bar.
+- **The DAP team is creating training and customer support.** As GA4 collects more data, the DAP team plans to release training to help support DAP customers throughout the migration and beyond. The training plan includes short videos, such as “DAP (GA4) in a minute” as well as a more comprehensive introduction to DAP GA4. The DAP team also plans to hold monthly office hours for DAP customers to attend and ask questions.
+- **The DAP team is planning necessary updates for analytics.usa.gov.** The DAP team is evaluating solutions for analytics.usa.gov real-time and trend reporting.
+- **The DAP team is planning to retain access to historical data**. After the DAP UA account is deprecated on July 1, 2024, it will no longer be available to DAP customers. The DAP team is working to ensure that customers continue to have access to over 10 years of historical data from the UA property.
 - **The DAP team is supporting the parallel UA (PUA) tracking parameter.** They will provide more information about the parallel GA4 tracking parameter soon
-The DAP team will continue to update this page and provide more information in the coming months. 
+The DAP team will continue to update this page and provide more information in the coming months.
 
 ### Q: What actions are required for me to move to GA4?
 

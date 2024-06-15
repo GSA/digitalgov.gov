@@ -1,5 +1,7 @@
 ---
 date: 2019-07-31 09:00:00 -0500
+expirydate: "2024-06-14"
+
 title: "Add your site to DAP"
 deck: ""
 summary: "The best ways to participate in DAP and add analytics code to federal websites."
@@ -35,6 +37,6 @@ Agencies have two options for the DAP code implementation, all described in deta
 
 In addition, those implementing should read capabilities of the code in the [version 4.1 Code Summary](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20DAP%20Code%20Capabilities%20Summary%20and%20Reference.pdf) (PDF, 472 kb, 20 pages PDF), and the [version 4.1 Release Notes](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20Release%20Notes.pdf) (PDF, 143 kb, 3 pages PDF).
 
-With either option (centrally or locally hosted), the governmentwide DAP website traffic data flows into its own separate Google Analytics account, and should cause no change in your independent Google Analytics account metrics. 
+With either option (centrally or locally hosted), the governmentwide DAP website traffic data flows into its own separate Google Analytics account, and should cause no change in your independent Google Analytics account metrics.
 
 If you have any questions, please email the DAP team at [dap@gsa.gov](mailto:dap@gsa.gov).

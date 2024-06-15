@@ -1,5 +1,7 @@
 ---
 date: 2019-07-31 09:00:00 -0500
+expirydate: "2024-06-14"
+
 title: "Gaining access to the data"
 deck: ""
 summary: "The best way to register for access to the DAP reporting interface."
