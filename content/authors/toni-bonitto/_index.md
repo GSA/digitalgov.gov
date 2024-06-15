@@ -2,6 +2,8 @@
 
 # Your author profile page lives at:
 # https://digital.gov/authors/toni-bonitto
+# For more information on managing your author page,
+# see https://workflow.digital.gov/authors
 
 display_name: "Toni Bonitto"
 first_name: "Toni"
@@ -48,8 +50,5 @@ twitter: ""
 facebook: ""
 linkedin: ""
 YouTube: ""
-
-# For more information on managing your author page,
-# see https://workflow.digital.gov/authors
 
 ---
