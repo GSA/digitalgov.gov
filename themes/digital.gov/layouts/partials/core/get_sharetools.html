@@ -8,6 +8,8 @@
       <a
         class="twitter"
         aria-label="Share on Twitter"
+        target="_blank"
+        rel="noreferrer"
         href="http://twitter.com/share?url=https://digital.gov{{ (urls.Parse .Permalink) }}&amp;text={{ .Title }}"
       >
         <svg
@@ -23,6 +25,8 @@
       <a
         class="facebook"
         aria-label="Share on Facebook"
+        target="_blank"
+        rel="noreferrer"
         href="http://www.facebook.com/sharer.php?u=https://digital.gov{{ (urls.Parse .Permalink) }}&t={{ .Title | urlize }}"
       >
         <svg
@@ -40,6 +44,8 @@
       <a
         class="linkedin"
         aria-label="Share on LinkedIn"
+        target="_blank"
+        rel="noreferrer"
         href="https://www.linkedin.com/shareArticle?mini=true&url=https://digital.gov{{ (urls.Parse .Permalink) }}&title={{ .Title | urlize }}&summary={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}"
       >
         <svg
