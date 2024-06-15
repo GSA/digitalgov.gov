@@ -20,7 +20,7 @@ Want to learn more? Join the [Web Analytics community of practice](https://digit
 
 ## Differences between GA4 and UA
 
-From data collection and metrics, to user interface and reporting features, GA4 is very different from UA. For example, GA4 tracks analytics for both websites and applications, while UA tracks analytics for websites only. Also, while UA uses measurement based on pageviews, GA4 uses a measurement model based solely on `events`, which is a measure of a specific user interaction with a website, such as a click or a file download.
+From data collection and metrics, to user interface and reporting features, GA4 is very different from UA. For example, GA4 tracks analytics for both websites and applications, while UA only tracks analytics for websites. Also, while UA uses measurement based on pageviews, GA4 uses a measurement model based solely on `events`, which is a measure of a specific user interaction with a website, such as a click or a file download.
 
 The DAP team took several steps to prepare for GA4:
 
