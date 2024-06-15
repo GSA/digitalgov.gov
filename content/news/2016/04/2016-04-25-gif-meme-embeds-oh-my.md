@@ -1,8 +1,8 @@
 ---
 slug: gif-meme-embeds-oh-my
 date: 2016-04-25 11:48:11 -0400
-title: 'The Content Corner: GIF? Meme? Embeds? Oh, My!'
-summary: 'You probably have heard this before, or may even hear it all the time, &ldquo;Content is King.&rdquo; What that means is, that in today’s fast moving digital communications age, with social media as the driver&mdash;organizations (agencies) must have a content plan to stay relevant. Sure, not every agency has the resources, or frankly is as'
+title: "The Content Corner: GIF? Meme? Embeds? Oh, My!"
+summary: "You probably have heard this before, or may even hear it all the time, &ldquo;Content is King.&rdquo; What that means is, that in today’s fast moving digital communications age, with social media as the driver&mdash;organizations (agencies) must have a content plan to stay relevant."
 authors:
   - kyle-s-richardson
 topics:
@@ -11,7 +11,9 @@ topics:
 
 You probably have heard this before, or may even hear it all the time, “Content is King.” What that means is, that in today’s fast moving digital communications age, with social media as the driver—organizations (agencies) must have a content plan to stay relevant.
 
-Sure, not every agency has the resources, or frankly is as interesting as NASA, with spectacular [4K video of the Aurora Borealis](https://www.youtube.com/watch?v=PBJAR3-UvSQ&feature=youtu.be) as a show on [their own non-commercial consumer ultra-high definition (UHD) channel](https://www.nasa.gov/press-release/nasa-harmonic-launch-first-non-commercial-uhd-channel-in-north-america). But each agency has a citizen-base to serve, to connect with and meet their needs—they just need to do it differently. {{< legacy-img src="2016/04/600-x-336-NASA-Stunning-Aurora-Borealis-from-Space-in-Ultra-High-Definition-4K.jpg" alt="Aurora Borealis from Space in Ultra-High Definition (4K)" caption="" >}} 
+Sure, not every agency has the resources, or frankly is as interesting as NASA, with spectacular [4K video of the Aurora Borealis](https://www.youtube.com/watch?v=PBJAR3-UvSQ&feature=youtu.be) as a show on [their own non-commercial consumer ultra-high definition (UHD) channel](https://www.nasa.gov/press-release/nasa-harmonic-launch-first-non-commercial-uhd-channel-in-north-america). But each agency has a citizen-base to serve, to connect with and meet their needs—they just need to do it differently.
+
+{{< legacy-img src="2016/04/600-x-336-NASA-Stunning-Aurora-Borealis-from-Space-in-Ultra-High-Definition-4K.jpg" alt="Aurora Borealis from Space in Ultra-High Definition (4K)" caption="" >}}
 
 Give your audience, and your potential audience, what they want, and in many cases, what they need. As government communicators, some of us with less than interesting content for the average person, we need to [think outside the box](http://www.inc.com/matthew-swyers/5-steps-to-thinking-outside-of-the-box.html) on ways to display the valuable data our agency has for the American’s who need it. Providing value should be our focus, and can be done by considering the context to our content. But you can’t do that until you understand what each piece of content is, and eventually which platform—social media-wise or other—to publish it on for maximum value.
 
@@ -19,7 +21,7 @@ You may already know what each one of the following content types are, but let m
 
 ## Video
 
-These days, it’s essential for any communications/marketing department to have access to high-quality videography skills, whether it be a videographer (or two) on staff or outsourced to a talented firm. With each social media platform vying to keep its loyal visitors, [implementing native video](http://blog.visual.ly/native-video/), that trend looks continue to grow. In fact, [one marketing firm predicted](http://syndacast.com/video-marketing-statistics-trends-2015) that in 2017, 74% of ALL Internet traffic will be video.
+These days, it’s essential for any communications or marketing department to have access to high-quality videography skills, whether it be a videographer (or two) on staff or outsourced to a talented firm. With each social media platform vying to keep its loyal visitors, [implementing native video](http://blog.visual.ly/native-video/), that trend looks continue to grow. In fact, [one marketing firm predicted](http://syndacast.com/video-marketing-statistics-trends-2015) that in 2017, 74% of ALL Internet traffic will be video.
 
 As I mentioned earlier in this post, not all of us have the spectacular footage that NASA has, but look to produce videos on topics important to those you serve.
 
@@ -35,7 +37,9 @@ During the livestream of your video, traffic will be flooding into your site, so
 
 Not to be confused by infographics (below), graphics are a fun way to take some textual information and inform your audience about a certain topic or encourage them to take action. I really like what [DoD Inspector General did with this graphic](https://www.flickr.com/photos/dodigmedia/14483863137/in/album-72157645312232457/)—it’s quick and to the point, and grabs attention for anyone who may casually pass by it.
 
-## Infographics {{< legacy-img src="2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements" caption="" >}} 
+## Infographics
+
+{{< legacy-img src="2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements" caption="aqabiz/iStock/Thinkstock" >}} 
 
 Often used, rarely perfected. Infographics allow content creators to display a lot of statistics, data, processes and images in one graphic. Infographics are eye-catching, and can be used for almost any subject, to display it another way. When shared on your social media channels, [such as Pinterest]({{< ref "2015-06-10-how-agencies-pin-down-their-audiences.md" >}}), infographics can also be good for bringing people to your site. We’re a visual generation, and it&#8217;s been proven that a person’s craving for any form of visually-strong information arises from the human brain’s penchant for the more visually-appealing graphic information rather than text.
 
@@ -47,7 +51,9 @@ By now, probably most of us know what a blog is—you hopefully have a blog on y
 
 As Tyrus Manuel said in a [previous Content Corner post]({{< ref "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}), “there is great benefit in allowing a subject matter expert (SME) to simply convey the knowledge that they have”—and a blog is a great platform to allow for that.
 
-## Animated GIFs {{< legacy-img src="2016/04/Obama-Karp-fist-bump-at-White-House-tumblr-chat-on-education-June-2014.gif" alt="President Barack Obama and David Karp, CEO and co-founder of Tumblr, fist bump at the White House for his Tumblr chat about issues surrounding college, education and student loans in June 2014." caption="" >}} 
+## Animated GIFs
+
+{{< legacy-img src="2016/04/Obama-Karp-fist-bump-at-White-House-tumblr-chat-on-education-June-2014.gif" alt="President Barack Obama and David Karp, CEO and co-founder of Tumblr, fist bump at the White House for his Tumblr chat about issues surrounding college, education and student loans in June 2014." caption="" >}}
 
 Not since recent memory, have animated GIFs (Graphics Interchange Format) been mainstream on the Internet. [Originally created in 1987](http://www.dailydot.com/entertainment/gif-history-steve-wilhite-olia-lialina-interview/), the aforementioned blogging platform Tumblr has brought GIFs back into fashion with a passion. These fun animations can add an interesting visual element to your content. The [National Archives and Records Administration (NARA) does a great job with GIFs](http://usnatarchives.tumblr.com/), animating their textual archived content to “make government records relevant,” according to experienced [GIF’er Darren A. Cole from the Office of Innovation at NARA](http://todaysdocument.tumblr.com/tagged/gif). Said Darren, “A picture is worth a thousand words? Well a GIF is worth a million.” [More on GIFs](http://find.digitalgov.gov/search?utf8=%E2%9C%93&affiliate=digitalgov&query=GIF&commit=Search) is available on DigitalGov.
 
@@ -73,4 +79,6 @@ As you look to develop your content strategy, remember these words from Gary Vay
 
 > “Every single tweet, every comment you leave, every post, every image you make becomes part of your brand. Period. Every time you post, you need to be laddering it back to your brand’s goals. Your core story needs to be consistent and your personality needs to be constant too. Doing this sets up a larger narrative, the broad context, for your content to succeed and have a clear message.”
 
-What other types of unique content do you think agencies should be leveraging?_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+What other types of unique content do you think agencies should be leveraging?
+
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
