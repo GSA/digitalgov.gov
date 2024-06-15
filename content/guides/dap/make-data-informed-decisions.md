@@ -5,7 +5,6 @@ deck: "How to turn the DAP data into actionable insights"
 summary: "Learn how to use custom reports to turn the DAP data into actionable insights."
 guide: dap
 primary_image: guide-dap
-summary_box: true
 aliases:
   - /services/dap/common-questions-about-dap-faq/
   - /services/dap/common-questions-about-dap/
