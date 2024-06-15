@@ -28,7 +28,7 @@ You must associate your .gov or .mil email address with Google.
 
 If your agency uses Google, this association is done automatically. You don’t need to do anything.
 
-If your agency does not use Google, visit [https://accounts.google.com/SignUpWithoutGmail?hl=en](https://accounts.google.com/SignUpWithoutGmail?hl=en) and follow the prompts to associate your .gov or .mil email account with Google Analytics.
+If your agency does not use Google, visit [https://accounts.google.com/SignUpWithoutGmail](https://accounts.google.com/SignUpWithoutGmail) and follow the prompts to associate your .gov or .mil email account with Google Analytics.
 
 Do not use your personal Gmail address or create a new Gmail address. 
 
@@ -75,7 +75,7 @@ Watch the video below, Guide to the Digital Analytics Program (DAP): How to acce
 
 {{< youtube id="tjvQlkVBCqQ" title="Guide to the Digital Analytics Program (DAP): How to access DAP and find your agency data" >}}
 
-[View the slides (PowerPoint presentation, 3.8 MB, 22 pages)](https://docs.google.com/presentation/d/1Ao6r3LXjpzMJUkQX2qdB4h_ADK_fYYqAn23TrogmGBU/edit)
+[View the slides (Google Slides presentation, 3.8 MB, 22 pages)](https://docs.google.com/presentation/d/1Ao6r3LXjpzMJUkQX2qdB4h_ADK_fYYqAn23TrogmGBU/edit)
 
 ## Other web analytics tools 
 
