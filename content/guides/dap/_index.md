@@ -1,10 +1,10 @@
 ---
 date: 2019-07-31 09:00:00 -0500
+# Updated for GA4 migration June 14, 2024
 title: "Guide to the Digital Analytics Program"
 deck: "Understand how and why to use DAP"
 summary: "The Digital Analytics Program (DAP) provides advanced, easy-to-use web analytics for all federal agencies."
 guide: dap
-
 topics:
   - analytics
   - digital-service-delivery
@@ -21,12 +21,9 @@ aliases:
   - /guides/dap/common-questions-about-dap/
   - /guides/dap/gaining-access-to-dap-data/
   - /guides/dap/guidelines-for-sharing-dap-data/
-
 image: guide-dap
-
 primary_image: guide-dap
-
-weight: 1
+weight: 5
 layout: single
 
 ---
