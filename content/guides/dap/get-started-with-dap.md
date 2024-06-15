@@ -13,9 +13,9 @@ aliases:
 
 Are you ready to start using the Digital Analytics Program (DAP) to understand how the public finds, accesses, and uses your agency’s online information and services? Get started in three easy steps:
 
-1. [Register as a DAP user]
-2. [Add the DAP code to collect data]
-3. [Explore the data]
+1. [Register as a DAP user](#step-1-register-as-a-dap-user)
+2. [Add the DAP code to collect data](#step-2-add-the-dap-code-to-your-website-to-collect-data)
+3. [Explore the data](#step-3-explore-the-data)
 
 ## Step 1. Register as a DAP user
 
