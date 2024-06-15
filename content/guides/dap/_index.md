@@ -4,6 +4,7 @@ title: "Guide to the Digital Analytics Program"
 deck: "Understand how and why to use DAP"
 summary: "The Digital Analytics Program (DAP) provides advanced, easy-to-use web analytics for all federal agencies."
 guide: dap
+
 topics:
   - analytics
   - digital-service-delivery
@@ -50,11 +51,11 @@ Additionally, [M-23-22, Delivering a Digital-First Public Experience](https://di
 
 ## Learn more about DAP
 
-- [Get started with DAP: Use DAP to better understand user behavior](/get-started-with-dap/#content-start)
-- [Make data-informed decisions: How to turn the DAP data into actionable insights](/make-data-informed-decisions/#content-start)
-- [Glossary of terms: Browse DAP terms](/glossary-of-terms/#content-start)
-- [Migration: Learn about the migration from Universal Analytics to Google Analytics 4](/migration-from-universal-analytics-to-google-analytics-4/#content-start)
-- [Terms of service: GSA offers DAP subject to your acceptance of these terms](/gsa-dap-terms-of-service/#content-start)
+- [Get started with DAP: Use DAP to better understand user behavior](https://digital.gov/guides/dap/get-started-with-dap/#content-start)
+- [Make data-informed decisions: How to turn the DAP data into actionable insights](https://digital.gov/guides/dap/make-data-informed-decisions/#content-start)
+- [Glossary of terms: Browse DAP terms](https://digital.gov/guides/dap/glossary-of-terms/#content-start)
+- [Migration: Learn about the migration from Universal Analytics to Google Analytics 4](https://digital.gov/guides/dap/migration-from-universal-analytics-to-google-analytics-4/#content-start)
+- [Terms of service: GSA offers DAP subject to your acceptance of these terms](https://digital.gov/guides/dap/gsa-dap-terms-of-service/#content-start)
 
 {{< box >}}
 **Do you have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov), and they’ll get back to you.
