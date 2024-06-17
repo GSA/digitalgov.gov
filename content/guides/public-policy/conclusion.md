@@ -1,19 +1,17 @@
 ---
 date: 2024-06-14 09:00:00 -0500
 title: "Conclusion"
-deck: "deck"
-summary: "summary"
+deck: ""
+summary: ""
 guide: public-policy
 primary_image: guide-public-policy
 
 ---
 
-Overall, building products and services in government requires understanding how public policy impacts government technology design and implementation. This guide serves as an introductory crash course into how you can engage your teammates in understanding how policy may interact with your team’s design, engineering, product, and security considerations. 
-
-TABLE
+Overall, building products and services in government requires understanding how public policy impacts government technology design and implementation. This guide serves as an introductory crash course into how you can engage your teammates in understanding how policy may interact with your team’s design, engineering, product, and security considerations.
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
       <th scope="col">Framing question</th>
@@ -38,7 +36,7 @@ TABLE
       <td>Requires agencies to create cybersecurity plans, conduct regular risk assessments, implement cybersecurity controls, and monitor their systems for vulnerabilities.</td>
     </tr>
     <tr style="text-align: left; vertical-align: top;">
-      <td>Privacy Act </td>
+      <td>Privacy Act</td>
       <td>Requires agencies to give public notice about recordkeeping systems, establishes best practices for managing data, and much more.</td>
     </tr>
   </tbody>
