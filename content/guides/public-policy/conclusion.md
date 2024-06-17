@@ -35,7 +35,7 @@ Overall, building products and services in government requires understanding how
       <td>Federal Information Security and Management Act (FISMA)</td>
       <td>Requires agencies to create cybersecurity plans, conduct regular risk assessments, implement cybersecurity controls, and monitor their systems for vulnerabilities.</td>
     </tr>
-    <tr style="text-align: left; vertical-align: top;">
+    <tr style="text-align: left; vertical-align: top; background-color: f0f0f0;">
       <td>Privacy Act</td>
       <td>Requires agencies to give public notice about recordkeeping systems, establishes best practices for managing data, and much more.</td>
     </tr>
