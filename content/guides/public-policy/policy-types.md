@@ -2,7 +2,7 @@
 date: 2024-06-14 09:00:00 -0500
 title: "Policy types"
 deck: ""
-summary: "Introduces government web and digital practitioners to different types of public policy and explores the policy framing for Findsupport.gov as a case study."
+summary: "Learn about different types of public policy, and explore the policy framing for Findsupport.gov as a case study."
 guide: public-policy
 primary_image: guide-public-policy
 
