@@ -24,7 +24,7 @@ To use the image and file upload processing feature, follow these steps:
 
 2. Run the `npm run gulp upload` command to execute the entire upload process, including file preparation, image processing, and uploading to Amazon S3.
 
-The `gulpupload` command will perform the following steps:
+The `gulp upload` command will perform the following steps:
 - Normalize filenames, create necessary directories, and generate YAML metadata files.
 - Process the uploaded images by creating responsive variants and compressing the original image.
 - Upload the processed images and files to Amazon S3.
