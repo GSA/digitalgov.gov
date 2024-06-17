@@ -71,9 +71,3 @@ Keep reading to learn more about the different [types of policies](https://digit
 <li id="fn1">University of Cambridge. 2016. “Force Field Analysis.” Cam.ac.uk. University of Cambridge. 2016. <a href="https://www.ifm.eng.cam.ac.uk/research/dstools/force-field-analysis/">https://www.ifm.eng.cam.ac.uk/research/dstools/force-field-analysis/</a>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 <footer>
-
-
-
-{{< box >}}
-**Do you have a question for the DAP team?** Send an email to [dap@gsa.gov](mailto:dap@gsa.gov), and they’ll get back to you.
-{{< /box >}}
