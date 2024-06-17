@@ -8,7 +8,7 @@ primary_image: guide-public-policy
 
 ---
 
-In the [previous section](#), we touched on Section 508 of the Rehabilitation Act of 1973 and the importance of building accessible digital products and federal resources. Now, we will cover how the Privacy Act of 1974 and the Federal Information Security Modernization Act (FISMA) work and share resources to learn more.
+In the [previous section](https://digital.gov/guides/public-policy/accessibility/#content-start), we touched on Section 508 of the Rehabilitation Act of 1973 and the importance of building accessible digital products and federal resources. Now, we will cover how the Privacy Act of 1974 and the Federal Information Security Modernization Act (FISMA) work and share resources to learn more.
 
 {{< note >}}
 This information is best practices based on our own experience. We encourage you to get in touch with [your agency’s privacy official](https://www.fpc.gov/council-members/) and Chief Information Security Officer (CISO) to answer any specific privacy- and security-related questions.
@@ -37,12 +37,12 @@ Visit Justice.gov to learn more about the [Privacy Act of 1974](https://www.just
 
 ## What is FISMA?
 
-FISMA requires agencies to protect federal information. It requires agencies to:
+The Federal Information Security Modernization Act requires agencies to protect federal information by:
 
-- Create cybersecurity plans
-- Conduct regular risk assessments
-- Implement cybersecurity controls
-- Continuously monitor their systems for vulnerabilities and attacks
+- Creating a cybersecurity plans
+- Conducting regular risk assessments
+- Implementing cybersecurity controls
+- Continuously monitoring their systems for vulnerabilities and attacks
 
 For more information, see the [Centers for Medicare and Medicaid Services’ helpful one-pager on FISMA](https://security.cms.gov/learn/federal-information-security-management-act-fisma).
 
