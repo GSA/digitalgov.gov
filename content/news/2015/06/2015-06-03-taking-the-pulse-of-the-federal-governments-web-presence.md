@@ -22,7 +22,7 @@ A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s ca
 
 [Pulse](https://pulse.cio.gov/) is a lightweight dashboard that uses the [official .gov domain list](https://github.com/GSA/data/blob/gh-pages/dotgov-domains/2015-03-15-federal.csv) to measure two things:
 
-  * [Analytics](https://pulse.cio.gov/analytics/domains/): Whether federal executive branch domains are participating in the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) that powers [analytics.usa.gov](https://analytics.usa.gov/).
+  * [Analytics](https://pulse.cio.gov/analytics/domains/): Whether federal executive branch domains are participating in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) that powers [analytics.usa.gov](https://analytics.usa.gov/).
   * [HTTPS](https://pulse.cio.gov/https/domains/): Whether federal domains have deployed the [HTTPS protocol](https://https.cio.gov/faq/), and how well they&#8217;ve done it.
 
 These two things are just a start—there are a lot of other important things worth measuring! It&#8217;s also important to note that Pulse is currently only measuring parent domains (e.g. agency.gov) and is _not_ measuring subdomains (e.g. portal.agency.gov).
@@ -64,9 +64,9 @@ The process is not fully automated, and so Pulse isn&#8217;t updated every day. 
 
 [{{< legacy-img src="2015/06/600-x-181-analytics.jpg" alt="600-x-181-analytics" >}}](https://pulse.cio.gov/analytics/domains/)
 
-The [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
+The [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
 
-To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls]({{< ref "common-questions-about-dap.md#data-access-retention-and-privacy" >}}) that anonymize visitor addresses and restrict data sharing.
+To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls](https://digital.gov/guides/dap/common-questions-about-dap/) that anonymize visitor addresses and restrict data sharing.
 
 Access to the account is shared within the federal government, and much of its data is shared publicly on [analytics.usa.gov](https://analytics.usa.gov/). DAP also regularly publishes a list of around 4,000 participating websites that have reported visitor data in the preceding 2 weeks.
 
