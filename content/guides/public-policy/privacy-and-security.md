@@ -1,7 +1,7 @@
 ---
 date: 2024-06-14 09:00:00 -0500
 title: "Privacy and security"
-deck: "deck"
+deck: ""
 summary: "Introduces government web and digital practitioners to public policy, which influence technology projects as a force both for and against change."
 guide: public-policy
 primary_image: guide-public-policy
