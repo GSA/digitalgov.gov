@@ -8,16 +8,16 @@ image: guide-public-policy
 primary_image: guide-public-policy
 
 topics:
-  - customer-experience
-  - user-experience
-  - product-and-project-management
-  - policy
-  - design
-  - innovation
-  - information-collection
-  - accessibility
-  - privacy
-  - security
+ - customer-experience
+ - user-experience
+ - product-and-project-management
+ - policy
+ - design
+ - innovation
+ - information-collection
+ - accessibility
+ - privacy
+ - security
 
 weight: 2
 layout: single
