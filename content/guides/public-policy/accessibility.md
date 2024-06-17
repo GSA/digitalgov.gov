@@ -16,7 +16,7 @@ This information is best practices based on our own experience. We encourage you
 
 ## Why is accessibility important?
 
-Tim Berners Lee, credited as the founder of the internet, once said “the power of the web is in its universality. Access by everyone regardless of disability is an essential aspect.” <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> In short, accessibility ensures all users can access a product or service. 
+Tim Berners Lee, credited as the founder of the internet, once said “The power of the web is in its universality. Access by everyone regardless of disability is an essential aspect.” <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> In short, accessibility ensures all users can access a product or service. 
 
 ## Why Section 508 exists
 
