@@ -1,0 +1,15 @@
+showNextPrevious: true
+showInPageNav: false
+nav:
+  - title: "Overview"
+    path: "/guides/public-policy/_index.md"
+  - title: "Policy types"
+    path: "/guides/public-policy/policy-types.md"
+  - title: "Information collection"
+    path: "/guides/public-policy/information-collection.md"
+  - title: "Accessibility"
+    path: "/guides/public-policy/accessibility.md"
+  - title: "Privacy and security"
+    path: "/guides/public-policy/privacy-and-security.md"
+  - title: "Conclusion"
+    path: "/guides/public-policy/conclusion.md"
