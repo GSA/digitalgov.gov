@@ -1,7 +1,7 @@
 ---
 date: 2024-06-14 09:00:00 -0500
 title: "Accessibility"
-deck: "deck"
+deck: ""
 summary: "Introduces government web and digital practitioners to Section 508 of the Rehabilitation Act of 1973."
 guide: public-policy
 primary_image: guide-public-policy
@@ -32,8 +32,8 @@ Consider Section 508 as part of a collection of federal policies that maximize t
 
 - [Section 503 of the Rehabilitation Act of 1973](https://www.dol.gov/agencies/ofccp/section-503/law)
 - [Sections 501 and 505 of the Rehabilitation Act of 1973](https://www.eeoc.gov/statutes/rehabilitation-act-1973#:~:text=Section%20501%20prohibits%20employment%20discrimination,attorney's%20fees%20under%20Section%20501.)
-- [American for Disabilities Act of 1990](https://www.ada.gov/law-and-regs/ada/)
-- [Section 255 of the Communications Act of 1996](https://www.access-board.gov/ict/guide/2555_guide.md.html)
+- [Americans with Disabilities Act of 1990, as amended](https://www.ada.gov/law-and-regs/ada/)
+- [Section 255 of the Telecommunications Act of 1996](https://www.access-board.gov/ict/guide/2555_guide.md.html)
 - [Assistive Technology Act of 1998](https://www.congress.gov/bill/105th-congress/senate-bill/2432)
 - [Plain Language Act of 2010](https://www.plainlanguage.gov/law/)
 - [Agency accessibility policies](https://www.section508.gov/manage/laws-and-policies/update-agency-policies/)
@@ -47,7 +47,7 @@ Disability is a mismatch between a person and their environment. For the person 
 See the below table for a short list of disability types.
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
       <th scope="col">Type of disability</th>
@@ -79,7 +79,7 @@ See the below table for a short list of disability types.
 See the below table for a short list of different types of situations to consider when building and designing products in government.  Although these conditions are not explicitly outlined in Section 508, they remain important barriers to consider when building products in government. 
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
       <th scope="col">Barriers to access</th>
@@ -111,7 +111,7 @@ See the below table for a short list of different types of situations to conside
 When it comes to accessible digital experiences, the Web Content Accessibility Guide 2.0 (WCAG 2.0) outlines four principles for designing accessible web content. The guidelines state that all web content must be perceivable, operable, understandable, and robust—otherwise, users with disabilities cannot access the web. Embracing these principles aligns with Section 508 requirements.
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
       <th scope="col">WCAG 2.0 Principles</th>
