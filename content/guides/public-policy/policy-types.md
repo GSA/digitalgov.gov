@@ -8,7 +8,7 @@ primary_image: guide-public-policy
 
 ---
 
-In the [overview section](https://digital.gov/guides/public-policy/#content-start), we discussed why policy matters. Now, we’ll explore the types of policies and useful frameworks for understanding how they work.
+In the [overview section](/guides/public-policy/#content-start), we discussed why policy matters. Now, we’ll explore the types of policies and useful frameworks for understanding how they work.
 
 Web and digital practitioners who work with or for federal agencies are often tasked with implementing products within the bounds of existing policies. Knowing the difference between various types of policies proves useful when engaging with stakeholders.
 
@@ -17,7 +17,7 @@ Web and digital practitioners who work with or for federal agencies are often ta
 All policies can be categorized as binding or non-binding. Binding policies carry the force of law. They serve as contracts between you and the government. There are usually penalties or consequences for breaking or dishonoring a binding policy. Non-binding policies offer contracts that carry no legal weight for carrying or not carrying out their terms.
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
       <th scope="col">Binding policies: Carry the force of law</th>
@@ -104,7 +104,7 @@ At Performance.gov, learn more about the [Biden-Harris PMA](https://www.performa
 ## Understand the players
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
       <th scope="col">Who</th>
@@ -173,7 +173,7 @@ Not every federal statute greatly impacts product development and maintenance. H
 The remainder of this guide focuses on four key federal statutes and considerations they aim to address, as outlined in the below table. After introducing each, we use FindSupport.gov as a case study to demonstrate how policy and product development interact. These considerations are useful for framing how tech teams in government approach product development. 
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
       <th scope="col">Key federal statute</th>
@@ -196,4 +196,4 @@ The remainder of this guide focuses on four key federal statutes and considerati
   </tbody>
 </table>
 
-Check out the [next section](https://digital.gov/guides/public-policy/information-collection/#content-start) that discusses information collection and the Paperwork Reduction Act.
+Check out the [next section](/guides/public-policy/information-collection/#content-start) that discusses information collection and the Paperwork Reduction Act.
