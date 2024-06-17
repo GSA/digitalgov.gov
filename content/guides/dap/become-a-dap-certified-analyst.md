@@ -4,7 +4,6 @@ date: 2019-07-31 09:00:00 -0500
 expirydate: "2023-06-16"
 
 title: "Become a DAP Certified Analyst"
-# deck: "This is your opportunity to demonstrate mastery of the DAP Google Analytics account by becoming a certified analyst"
 summary: "Download the study guide and learn how to become a DAP Certified Analyst at your federal agency."
 guide: dap
 primary_image: guide-dap
