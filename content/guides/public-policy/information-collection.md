@@ -7,7 +7,8 @@ guide: public-policy
 primary_image: guide-public-policy
 
 ---
-In the previous section, we discussed the types of policy and a case study on FindSupport.gov that we will use to frame the remainder of this guide. Now, we will focus on the Paperwork Reduction Act (PRA) by covering why it exists, when it applies, tips for designing research studies with PRA in mind, and user research insights from the FindSupport.gov team. 
+
+In the [previous section](https://digital.gov/guides/public-policy/policy-types/#content-start), we discussed the types of policy and a case study on FindSupport.gov that we will use to frame the remainder of this guide. Now, we will focus on the Paperwork Reduction Act (PRA) by covering why it exists, when it applies, tips for designing research studies with PRA in mind, and user research insights from the FindSupport.gov team. 
 
 {{< note >}} 
 This information is best practices based on our own experience. We encourage you to [get in touch with your agency’s PRA contact](https://pra.digital.gov/contact/) to answer any specific information collection-related questions.
@@ -88,4 +89,4 @@ Our early user research insights indicated that a broad locator tool may not cle
 
 The spirit of the PRA aligns closely with [digital service delivery](https://digital.gov/resources/delivering-digital-first-public-experience/) goals to improve the public’s digital experience. As government web and digital practitioners, it is important to understand how and when PRA clearance may be required to understand and better meet user needs.
 
-In the [next section](#), we will discuss another key federal statute for government web and digital practitioners: Section 508 of the Rehabilitation Act of 1973.
+In the [next section](https://digital.gov/guides/public-policy/accessibility/#content-start), we will discuss another key federal statute for government web and digital practitioners: Section 508 of the Rehabilitation Act of 1973.
