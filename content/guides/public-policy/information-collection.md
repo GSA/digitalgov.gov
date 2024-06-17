@@ -2,7 +2,7 @@
 date: 2024-06-14 09:00:00 -0500
 title: "Information collection"
 deck: ""
-summary: "Introduces government web and digital practitioners to key federal statutes, starting with the Paperwork Reduction Act."
+summary: "The Paperwork Reduction Act (PRA) is a key federal statute. Learn when and how it applies."
 guide: public-policy
 primary_image: guide-public-policy
 
@@ -73,7 +73,6 @@ OMB offered the following tips for designing research studies with PRA in mind:
 ## Understand how your agency approaches PRA
 
 Each agency may manage PRA differently and have their own resources to help people understand and navigate the PRA clearance process. For example, the [18F User Experience Guide](https://guides.18f.gov/ux-guide/) offers a [legal section](https://ux-guide.18f.gov/research/legal/#pra-clearance-considerations) that covers the PRA based on shared understanding between 18F, GSA’s Privacy Office, and GSA’s Office of General Counsel. It is worth seeing if your agency holds similar resources including but not limited to an internal guide, a service blueprint describing the PRA process, or tips on designing research studies.
-
 
 {{< ring title="Case study">}}
 **Navigating PRA for FindSupport.gov**
