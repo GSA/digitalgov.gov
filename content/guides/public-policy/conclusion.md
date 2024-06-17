@@ -31,11 +31,12 @@ Overall, building products and services in government requires understanding how
       <td>Requires agencies to ensure that people with disabilities have equal access to government information.</td>
     </tr>
     <tr style="text-align: left; vertical-align: top;">
-      <th scope="row" rowspan="2">Privacy and security: Are we protecting user data? Are we ensuring security?</th>
+      <th scope="row">Security: Are we ensuring security?</th>
       <td>Federal Information Security and Management Act (FISMA)</td>
       <td>Requires agencies to create cybersecurity plans, conduct regular risk assessments, implement cybersecurity controls, and monitor their systems for vulnerabilities.</td>
     </tr>
-    <tr style="text-align: left; vertical-align: top; background-color: f0f0f0;">
+    <tr style="text-align: left; vertical-align: top;">
+      <th scope="row" rowspan="2">Privacy: Are we protecting user data?</th>
       <td>Privacy Act</td>
       <td>Requires agencies to give public notice about recordkeeping systems, establishes best practices for managing data, and much more.</td>
     </tr>
