@@ -1,7 +1,7 @@
 ---
 date: 2024-06-14 09:00:00 -0500
 title: "Information collection"
-deck: "deck"
+deck: ""
 summary: "Introduces government web and digital practitioners to key federal statutes, starting with the Paperwork Reduction Act."
 guide: public-policy
 primary_image: guide-public-policy
@@ -14,7 +14,7 @@ In the [previous section](https://digital.gov/guides/public-policy/policy-types/
 This information is best practices based on our own experience. We encourage you to [get in touch with your agency’s PRA contact](https://pra.digital.gov/contact/) to answer any specific information collection-related questions.
 {{< /note >}}
 
-What is the PRA?
+## What is the PRA?
 
 The PRA is a federal law designed to “maximize the practical utility and public benefit from information collected by and for the Federal government.” In other words, the PRA asks: “How might the federal government reduce burden on the public?” 
 
@@ -78,12 +78,12 @@ Each agency may manage PRA differently and have their own resources to help peop
 {{< ring title="Case study">}}
 **Navigating PRA for FindSupport.gov**
 
-To achieve the administration priority and build this product, understanding our users was extremely important. When it came to [FindSupport.gov](https://www.samhsa.gov/find-support), our team quickly learned that navigating behavioral health issues is a complex and personal process. With a deadline within one year, the team designed research studies that did not require seeking PRA clearance. This included using the tips listed in the OMB memo, M-22-10 Improving Access to Public Benefits Programs Through the Paperwork Reduction Act.
+To achieve the administration priority and build this product, understanding our users was extremely important. When it came to [FindSupport.gov](https://www.samhsa.gov/find-support), our team quickly learned that navigating behavioral health issues is a complex and personal process. With a deadline within one year, the team designed research studies that did not require seeking PRA clearance. This included using the tips listed in the OMB memo, [M-22-10, Improving Access to Public Benefits Programs Through the Paperwork Reduction Act (PDF, 616 KB, 18 pages)](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf).
 
 Our early user research insights indicated that a broad locator tool may not clearly meet the needs of those experiencing behavioral health issues. Many research participants shared that they experienced difficulty knowing how to start seeking care, figuring out how to cope, and finding a reliable resource that could cover information about mental health *and* substance use issues. Without conducting user research, we may have not designed a product that could truly meet people where they were. 
 {{< /ring >}}
 
-{{< img src="cms-digital-service-site-naming-card-sort-session" >}} {{< img src="cms-designers-prototype-usability-testing" >}}
+<!-- {{< img src="cms-digital-service-site-naming-card-sort-session" >}} {{< img src="cms-designers-prototype-usability-testing" >}} -->
 
 ## Conclusion
 
