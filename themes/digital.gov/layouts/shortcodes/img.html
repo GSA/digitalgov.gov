@@ -15,7 +15,12 @@
 {{- $align := .Get "align" | default "" -}}
 {{- $inline := .Get "inline" | default "false" -}}
 
-<div class="image{{- if $align }} image-{{ $align }}{{- end }}{{- if eq $inline "true" }} image-inline{{- end }}">
+
+<div
+  class="image{{- if $align }}
+    image-{{ $align }}
+  {{- end }}{{- if eq $inline "true" }}image-inline{{- end }}"
+>
   {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
     <img
       src="{{- if ne $prefix $thisuid -}}

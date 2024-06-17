@@ -47,25 +47,25 @@
 }
 
 .image-center {
-  @include u-display('block');
-  @include u-text-align('center');
-  
+  @include u-display("block");
+  @include u-text-align("center");
+
   img {
-    @include u-width('card-lg'); 
-    @include u-maxw('full');
+    @include u-width("card-lg");
+    @include u-maxw("full");
   }
 }
 
 .image-inline {
-  @include u-display('inline-block');
-  @include u-vertical-align('middle');
-  @include u-text-align('center');
-  @include u-margin('05'); 
+  @include u-display("inline-block");
+  @include u-vertical-align("middle");
+  @include u-text-align("center");
+  @include u-margin("05");
 
   img {
-    @include u-maxw('full');
-    @include u-height('auto');
-    @include u-display('inline-block');
+    @include u-maxw("full");
+    @include u-height("auto");
+    @include u-display("inline-block");
   }
 }
 
