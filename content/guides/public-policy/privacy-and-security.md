@@ -29,7 +29,7 @@ The following items illustrate some things you can do to respect the public’s 
 - Minimize collecting information where possible; consider public burden
 - Conduct Privacy Impact Assessments (PIAs) for systems with PII
 - For agency information exchanges – consider pursuing a Computer Matching Agreement
-- Agencies must publish notice of its systems of records in the Federal Register (also known as System of Records Notice or SORN)
+- Agencies must publish notice of its systems of records (also known as System of Records Notice or SORN) in the [Federal Register](https://www.federalregister.gov/)
 - Abide by agency and federal disclosure rules
 - Consider the Health Insurance Portability and Accountability Act (HIPAA) implications if applicable
 
