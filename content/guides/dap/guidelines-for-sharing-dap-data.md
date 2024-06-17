@@ -4,16 +4,14 @@ date: 2019-07-31 09:00:00 -0500
 expiryDate: "2024-06-14"
 
 title: "Guidelines for sharing DAP data"
-# deck: ""
 summary: "Your responsibilities in sharing and managing DAP data. "
 guide: dap
 primary_image: guide-dap
 aliases:
   - /services/dap/guidelines-for-sharing-dap-data/
   - /guide/dap/guidelines-for-sharing-dap-data/
+
 ---
-
-
 
 ## Data that is publicly shareable
 Any data appearing on our public dashboard ([analytics.usa.gov](https://analytics.usa.gov/)) can be freely communicated or shared. We also [offer an API](https://open.gsa.gov/api/dap/) for the data behind [analytics.usa.gov](https://analytics.usa.gov/), which is powered by a wealth of data from the Digital Analytics Program (DAP) Google Analytics account.
