@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31 09:00:00 -0500
+date: 2024-06-14 09:00:00 -0500
 title: "Get started with DAP"
 deck: "Use DAP to better understand user behavior"
 summary: "Learn how to use DAP to better understand user behavior."
@@ -24,7 +24,7 @@ All federal employees and contractors who work for a participating agency can re
 Email the DAP team at [dap@gsa.gov](mailto:dap@gsa.gov) to request a registration form.
 
 {{< note >}} 
-You must associate your .gov or .mil email address with Google. 
+You must associate your **.gov** or **.mil** email address with Google. 
 
 If your agency uses Google, this association is done automatically. You don’t need to do anything.
 
@@ -32,7 +32,7 @@ If your agency does not use Google, visit [https://accounts.google.com/SignUpWit
 
 Do not use your personal Gmail address or create a new Gmail address. 
 
-Also, if applicable, unlink any personal `gmail.com` accounts from your government email account in Google Analytics. Linking these addresses could result in your removal from DAP.
+Also, if applicable, unlink any personal gmail.com accounts from your government email account in Google Analytics. Linking these addresses could result in your removal from DAP.
 {{< /note >}}
 
 ## Step 2. Add the DAP code to your website to collect data

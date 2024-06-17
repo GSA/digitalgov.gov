@@ -1,7 +1,10 @@
 ---
 date: 2019-07-31 09:00:00 -0500
+
+expiryDate: "2024-06-14"
+
 title: "Guidelines for sharing DAP data"
-deck: ""
+# deck: ""
 summary: "Your responsibilities in sharing and managing DAP data. "
 guide: dap
 primary_image: guide-dap

@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31 09:00:00 -0500
+date: 2024-06-14 09:00:00 -0500
 title: "Terms of service"
 deck: "GSA offers DAP subject to your acceptance of these terms"
 summary: "Access to or use of the Digital Analytics Program (DAP) constitutes acceptance of these terms of service."

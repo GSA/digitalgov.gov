@@ -1,7 +1,10 @@
 ---
 date: 2019-07-31 09:00:00 -0500
+
+expiryDate: "2024-06-14"
+
 title: "Add your site to DAP"
-deck: ""
+# deck: ""
 summary: "The best ways to participate in DAP and add analytics code to federal websites."
 guide: dap
 primary_image: guide-dap

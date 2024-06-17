@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31 09:00:00 -0500
+date: 2024-06-14 09:00:00 -0500
 title: "Make data-informed decisions"
 deck: "How to turn the DAP data into actionable insights"
 summary: "Learn how to use custom reports to turn the DAP data into actionable insights."

@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31 09:00:00 -0500
+date: 2024-06-14 09:00:00 -0500
 title: "Glossary of terms"
 deck: "Browse DAP terms"
 summary: "Browse common terms that you will need to understand when using DAP."

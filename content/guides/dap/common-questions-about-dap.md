@@ -1,6 +1,10 @@
 ---
 date: 2019-07-31 09:00:00 -0500
+
+expiryDate: "2024-06-14"
+
 title: "Common questions about DAP"
+# deck: ""
 summary: "The most common questions about implementing, customizing, and utilizing the DAP program."
 guide: dap
 primary_image: guide-dap

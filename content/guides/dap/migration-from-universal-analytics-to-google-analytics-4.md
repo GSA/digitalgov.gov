@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31 09:00:00 -0500
+date: 2024-06-14 09:00:00 -0500
 title: "Migration Guidelines"
 deck: "Learn about the migration from Universal Analytics to Google Analytics 4"
 summary: "Understand what you need to do to migrate from Universal Analytics to Google Analytics 4."
