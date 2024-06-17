@@ -8,7 +8,7 @@ primary_image: guide-public-policy
 
 ---
 
-In the [overview section](#), we discussed why policy matters. Now, we’ll explore the types of policies and useful frameworks for understanding how they work.
+In the [overview section](https://digital.gov/guides/public-policy/#content-start), we discussed why policy matters. Now, we’ll explore the types of policies and useful frameworks for understanding how they work.
 
 Web and digital practitioners who work with or for federal agencies are often tasked with implementing products within the bounds of existing policies. Knowing the difference between various types of policies proves useful when engaging with stakeholders.
 
@@ -20,8 +20,8 @@ All policies can be categorized as binding or non-binding. Binding policies carr
   <caption>Bordered table with horizontal stripes</caption>
   <thead>
     <tr style="text-align: left; vertical-align: top;">
-      <th scope="col"><strong>Binding policies</strong><br>Carry the force of law</th>
-      <th scope="col"><strong>Non-binding policies</strong><br>Carry no legal weight</th>
+      <th scope="col">Binding policies: Carry the force of law</th>
+      <th scope="col">Non-binding policies: Carry no legal weight</th>
     </tr>
   </thead>
   <tbody>
@@ -196,4 +196,4 @@ The remainder of this guide focuses on four key federal statutes and considerati
   </tbody>
 </table>
 
-Check out the [next section](#) that discusses information collection and the Paperwork Reduction Act.
+Check out the [next section](https://digital.gov/guides/public-policy/information-collection/#content-start) that discusses information collection and the Paperwork Reduction Act.
