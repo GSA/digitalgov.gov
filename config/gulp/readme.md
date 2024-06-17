@@ -22,7 +22,7 @@ To use the image and file upload processing feature, follow these steps:
 
 1. Place the uploaded images and files in the designated upload directory (`content/uploads/_inbox`).
 
-2. Run the `npm run gulpupload` command to execute the entire upload process, including file preparation, image processing, and uploading to Amazon S3.
+2. Run the `npm run gulp upload` command to execute the entire upload process, including file preparation, image processing, and uploading to Amazon S3.
 
 The `gulpupload` command will perform the following steps:
 - Normalize filenames, create necessary directories, and generate YAML metadata files.
