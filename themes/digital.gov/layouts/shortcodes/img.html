@@ -1,4 +1,5 @@
 <!-- image -->
+
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisuid := (.Get "src" | lower) -}}
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
@@ -12,9 +13,9 @@
 {{- $imgCredit := $thisimg.credit -}}
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
 {{- $align := .Get "align" | default "" -}}
+{{- $inline := .Get "inline" | default "false" -}}
 
-
-<div class="image{{- if $align }}image-{{ $align }}{{- end }}">
+<div class="image{{- if $align }} image-{{ $align }}{{- end }}{{- if eq $inline "true" }} image-inline{{- end }}">
   {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
     <img
       src="{{- if ne $prefix $thisuid -}}
@@ -48,7 +49,7 @@
         {{- end -}}
         "
       {{- end -}}
-      sizes="(max-width: 800px) 100vw, 800px"
+      sizes="(max-width: 800px) 100vw, 400px"
     />
   {{- else -}}
     <img

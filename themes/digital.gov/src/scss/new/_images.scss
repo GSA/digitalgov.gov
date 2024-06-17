@@ -1,6 +1,5 @@
 @use "uswds-core" as *;
 
-// Images
 .image {
   @include u-margin-top(2);
   @include u-margin-bottom(4);
@@ -33,7 +32,6 @@
   }
 }
 
-// Making the older, right-aligned images smaller on desktop because they were cut to smaller sizes back then...
 .image-right-legacy {
   @include at-media("tablet") {
     @include u-width("card-lg");
@@ -49,11 +47,26 @@
 }
 
 .image-center {
-  @include u-display("block");
-  @include u-margin-left("auto");
-  @include u-margin-right("auto");
-  @include u-maxw("full");
-  text-align: center;
+  @include u-display('block');
+  @include u-text-align('center');
+  
+  img {
+    @include u-width('card-lg'); 
+    @include u-maxw('full');
+  }
+}
+
+.image-inline {
+  @include u-display('inline-block');
+  @include u-vertical-align('middle');
+  @include u-text-align('center');
+  @include u-margin('05'); 
+
+  img {
+    @include u-maxw('full');
+    @include u-height('auto');
+    @include u-display('inline-block');
+  }
 }
 
 img[alt] {
