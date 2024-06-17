@@ -8,7 +8,7 @@ primary_image: guide-public-policy
 
 ---
 
-In the previous section, we discussed the Paperwork Reduction Act (PRA) — specifically why it exists, when it applies, tips for designing research studies with PRA in mind, and user research insights from the FindSupport.gov team. Now, we will touch on Section 508 of the Rehabilitation Act of 1973 and the importance of building accessible digital products.
+In the [previous section](https://digital.gov/guides/public-policy/information-collection/#content-start), we discussed the Paperwork Reduction Act (PRA) — specifically why it exists, when it applies, tips for designing research studies with PRA in mind, and user research insights from the FindSupport.gov team. Now, we will touch on Section 508 of the Rehabilitation Act of 1973 and the importance of building accessible digital products.
 
 {{< note >}} 
 This information is best practices based on our own experience. We encourage you to [get in touch with your agency’s Section 508 program manager](https://www.section508.gov/tools/program-manager-listing/) to answer any specific accessibility-related questions.
@@ -163,6 +163,6 @@ Focusing on our product roadmap, the Substance Abuse and Mental Health Administr
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">“World Wide Web Consortium Launches International Program Office for Web Accessibility Initiative.” 1997. W3C. October 22, 1997. [https://www.w3.org/press-releases/1997/ipo-announce/](https://www.w3.org/press-releases/1997/ipo-announce/). <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">“World Wide Web Consortium Launches International Program Office for Web Accessibility Initiative.” 1997. W3C. October 22, 1997. <a href="https://www.w3.org/press-releases/1997/ipo-announce/">https://www.w3.org/press-releases/1997/ipo-announce/</a>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 <footer>
