@@ -1,7 +1,7 @@
 ---
 date: 2024-06-14 09:00:00 -0500
 title: "Building by the rules: A crash course for federal technologists"
-deck: "deck"
+deck: ""
 summary: "A guide for web and digital practitioners on why public policy matters."
 guide: public-policy
 image: guide-public-policy
