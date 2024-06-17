@@ -52,9 +52,13 @@
 {{/* Templates for images ============== */}}
 
 {{ define "github" }}
-  <img src="https://github.com/{{- .id -}}.png?size=50" alt="" />
+  <img
+    class="author__photo-img"
+    src="https://github.com/{{- .id -}}.png?size=50"
+    alt=""
+  />
 {{ end }}
 
 {{ define "digitalgov_icon" }}
-  <img src="{{- .icon_path | absURL -}}" alt="" />
+  <img class="author__photo-img" src="{{- .icon_path | absURL -}}" alt="" />
 {{ end }}

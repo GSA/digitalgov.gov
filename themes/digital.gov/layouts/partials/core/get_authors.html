@@ -15,19 +15,21 @@
 {{ end }}
 
 {{ if $context.Params.authors }}
-  <div class="authors-list {{ if $isShort }}authors-list-short{{ end }}">
+  <div class="authors-list {{ if $isShort }}authors-list--short{{ end }}">
     {{- $authors_count := $context.Params.authors | len -}}
 
-    {{- range $i, $e := $context.Params.authors -}}
-      {{/* Convert into UID (i.e. john-smith) if author name is set as display name (i.e. John Smith) */}}
-      {{- $uid := $e | urlize -}}
+    {{- range $index, $authorName := $context.Params.authors -}}
+      {{/* Converts capital case author name (i.e. John Smith) to lower case hyphenated (i.e. john-smith) string
+        to lookup the author page
+      */}}
+      {{- $uid := $authorName | urlize -}}
 
-      {{/* Look up the author data using the UID (i.e. john-smith) */}}
+      {{/* Look up the author page with the $uid (i.e. john-smith) */}}
       {{- with $context.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
         {{ $displayName := .Params.display_name }}
         {{ $agency := .Params.agency }}
 
-        {{ if $isShort }}
+        {{- if $isShort -}}
           <a
             class="author"
             href="{{- (printf "authors/%s/" $uid) | absURL -}}"
@@ -35,18 +37,19 @@
           >
             {{- partial "core/get_author_image.html" (dict "author" . ) -}}
             <span class="usa-sr-only">Posts by</span>
-            <span>{{- $displayName | default $uid | markdownify -}}</span> </a
-          >{{ if lt (add $i 1) $authors_count }}<!--,-->{{ end }}
-
-        {{ else }}
+            <span class="author__name"
+              >{{- $displayName | default $uid | markdownify -}}</span
+            >
+          </a>
+        {{- else -}}
           <div class="author grid-row">
             <div class="grid-col-auto">
-              <div class="photo">
+              <div class="author__photo">
                 {{- partial "core/get_author_image.html" (dict "author" . ) -}}
               </div>
             </div>
             <div class="grid-col-9">
-              <div class="details">
+              <div class="author__details">
                 <span class="usa-sr-only">
                   Originally posted by
                   {{ $displayName | default $uid }}
@@ -62,16 +65,15 @@
                   {{- $displayName | default $uid -}}
                 </a>
                 {{- if $agency -}}
-                  <p>
+                  <p class="author__details-agency">
                     {{- $agency -}}
                   </p>
                 {{- end -}}
               </div>
             </div>
           </div>
-        {{ end }}
+        {{- end -}}
       {{- end -}}
-
     {{- end -}}
   </div>
 {{- end -}}
