@@ -19,7 +19,7 @@ topics:
   - privacy
   - security
 
-weight: 5
+weight: 2
 layout: single
 
 ---
