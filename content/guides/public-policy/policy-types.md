@@ -1,14 +1,14 @@
 ---
 date: 2024-06-14 09:00:00 -0500
 title: "Policy types"
-deck: "deck"
+deck: ""
 summary: "Introduces government web and digital practitioners to different types of public policy and explores the policy framing for Findsupport.gov as a case study."
 guide: public-policy
 primary_image: guide-public-policy
 
 ---
 
-In the [overview section](/guides/public-policy/#content-start), we discussed why policy matters. Now, we’ll explore the types of policies and useful frameworks for understanding how they work.
+In the [overview section](https://digital.gov/guides/public-policy/#content-start), we discussed why policy matters. Now, we’ll explore the types of policies and useful frameworks for understanding how they work.
 
 Web and digital practitioners who work with or for federal agencies are often tasked with implementing products within the bounds of existing policies. Knowing the difference between various types of policies proves useful when engaging with stakeholders.
 
@@ -76,7 +76,7 @@ Guidance defines standard practice and clarifies ambiguities. It is non-binding 
 
 For example, in September 2023, OMB issued M-23-22, Delivering a Digital-First Public Experience, offering policy guidance on how federal agencies should fully implement the 21st Century Integrated Digital Experience Act (21st Century IDEA).
 
-This guidance required that agencies take the following steps:
+This guidance required that agencies take the following six steps:
 
 1. Identify a digital experience delivery lead
 2. Identify public-facing websites
@@ -154,11 +154,9 @@ At Performance.gov, learn more about the [Biden-Harris PMA](https://www.performa
 </table>
 
 {{< ring title="Case study">}}
-
 Now that you understand the different types of policy levers that exist, let us dive into a real-world case study and product example.
 
-**About FindSupport.gov**
-
+**About FindSupport.gov**<br>
 As part of continuing efforts by the Biden-Harris Administration to increase access to mental health and substance use resources, the U.S. Department of Health and Human Services (HHS) launched [FindSupport.gov](https://www.samhsa.gov/find-support), a new user-friendly website, designed for the general public, to help people identify available resources, explore unbiased information about various treatment options, and learn how to reach out to get the support they need for issues related to mental health, drugs, or alcohol.
 {{< /ring >}}
 
@@ -196,4 +194,4 @@ The remainder of this guide focuses on four key federal statutes and considerati
   </tbody>
 </table>
 
-Check out the [next section](/guides/public-policy/information-collection/#content-start) that discusses information collection and the Paperwork Reduction Act.
+Check out the [next section](https://digital.gov/guides/public-policy/information-collection/#content-start) that discusses information collection and the Paperwork Reduction Act.
