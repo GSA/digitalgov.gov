@@ -118,7 +118,7 @@
   />
   <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}" />
   {{ $baseURL := getenv "BASEURL" | default "https://digital.gov" }}
-<meta property="og:url" content="{{ $baseURL }}{{ .RelPermalink }}" />
+  <meta property="og:url" content="{{ $baseURL }}{{ .RelPermalink }}" />
 
   <meta property="og:site_name" content="Digital.gov" />
   <meta name="robots" content="index, follow" />
