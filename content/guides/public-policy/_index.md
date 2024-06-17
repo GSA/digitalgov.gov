@@ -56,7 +56,7 @@ Public policy as a force for change grants permission to innovate or improve. Fo
 
 Public policy as a force *against* change places constraints or conditions on how innovation takes place, often in a tradeoff with other important considerations. For example:
 
-- The [Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition) protects personally identifiable information and prohibits disclosure of protected information without consent. For instance, this may preclude use of software tools available to the private sector or limit access to data for secondary or experimental uses. 
+- The [Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition) protects personally identifiable information (PII) and prohibits disclosure of protected information without consent. For instance, this may preclude use of software tools available to the private sector or limit access to data for secondary or experimental uses. 
 - The [Paperwork Reduction Act of 1995](https://pra.digital.gov/about/) requires that agencies obtain Office of Management and Budget (OMB) approval before requesting most types of information from the public. As public servants, we must make sure the data we collect from the public is accurate, helpful, and a good fit for its proposed use.
 
 Overall, public policy plays a vital role in how federal agencies serve the public. There are hundreds of [requirements for federal websites and digital services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/). As web and digital practitioners in government, we need to keep in mind different circumstances where policy serves as a potential accelerator or blocker to innovation.
