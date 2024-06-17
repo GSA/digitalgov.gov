@@ -45,7 +45,7 @@ In general, our “private policies” help to:
 
 ## Public policy as opposing forces
 
-When government technology teams consider a change to a government service or information technology system, policy may be a force for or against that change. There are many frameworks for understanding this concept, including Kurt Lewin’s `force field analysis` <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>. The diagram below is a high-level adaptation of Lewin’s analysis.
+When government technology teams consider a change to a government service or information technology system, policy may be a force for or against that change. There are many frameworks for understanding this concept, including Kurt Lewin’s force field analysis <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>. The diagram below is a high-level adaptation of Lewin’s analysis.
 
 {{< img src="public-policy-opposing-forces-force-field-analysis" >}}
 
