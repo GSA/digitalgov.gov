@@ -7,6 +7,11 @@ guide: public-policy
 image: guide-public-policy
 primary_image: guide-public-policy
 
+# See all authors at https://digital.gov/authors
+authors:
+  - chizobam-nwagwu
+  - trey-gordner
+# See all topics at https://digital.gov/topics
 topics:
  - customer-experience
  - user-experience
