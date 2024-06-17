@@ -4,10 +4,15 @@
 
 slug: artificial-intelligence
 date: 2019-12-31 19:03:00 -0500
+
+kicker: "Join the Artificial Intelligence Community"
+
 title: "Artificial Intelligence (AI)"
 deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
+
 redirectto: https://coe.gsa.gov/communities/ai.html
+
 # see all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
