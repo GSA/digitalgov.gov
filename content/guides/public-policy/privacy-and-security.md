@@ -50,7 +50,7 @@ To use, buy, or build software for the government, you need an authorization to 
 
 Federal security compliance is based on evaluating security criteria. Those criteria are a wide-ranging set of considerations called controls. The National Institute for Standards and Technology (NIST) defines these controls in a special publication (SP) called NIST SP 800-53 (Revision 5), Security and Privacy Controls for Information Systems and Organizations. Read [An introduction to security and privacy controls](https://digital.gov/resources/an-introduction-to-security-and-privacy-controls/) for a brief explainer of NIST’s 800-53 control families for information systems and organizations.
 
-FedRAMP is a governmentwide program that provides a standardized, reusable approach to security assessment and authorization for cloud computing products and services. Visit FedRAMP.gov to learn more about the [FedRAMP program basics](https://www.fedramp.gov/program-basics/).
+The Federal Risk and Authorization Management Program (FedRAMP) is a governmentwide program that provides a standardized, reusable approach to security assessment and authorization for cloud computing products and services. Visit FedRAMP.gov to learn more about the [FedRAMP program basics](https://www.fedramp.gov/program-basics/).
 
 {{< ring title="Case study">}}
 **Considering privacy and security for FindSupport.gov**
