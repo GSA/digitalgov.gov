@@ -108,6 +108,7 @@ security:
     getenv:
       - ^SITE_
       - ^BRANCH
+      - ^BASEURL
 
 menu:
   primary:
