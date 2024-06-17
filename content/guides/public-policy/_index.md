@@ -19,7 +19,7 @@ topics:
   - privacy
   - security
 
-weight: 1
+weight: 5
 layout: single
 
 ---
@@ -61,14 +61,14 @@ Public policy as a force *against* change places constraints or conditions on ho
 
 Overall, public policy plays a vital role in how federal agencies serve the public. There are hundreds of [requirements for federal websites and digital services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/). As web and digital practitioners in government, we need to keep in mind different circumstances where policy serves as a potential accelerator or blocker to innovation.
 
-Keep reading to learn more about the different [types of policies](#) and useful frameworks for understanding how they work.
+Keep reading to learn more about the different [types of policies](https://digital.gov/guides/public-policy/policy-types/#content-start) and useful frameworks for understanding how they work.
 
 ---
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">University of Cambridge. 2016. “Force Field Analysis.” Cam.ac.uk. University of Cambridge. 2016. [https://www.ifm.eng.cam.ac.uk/research/dstools/force-field-analysis/](https://www.ifm.eng.cam.ac.uk/research/dstools/force-field-analysis/). <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">University of Cambridge. 2016. “Force Field Analysis.” Cam.ac.uk. University of Cambridge. 2016. <a href="https://www.ifm.eng.cam.ac.uk/research/dstools/force-field-analysis/">https://www.ifm.eng.cam.ac.uk/research/dstools/force-field-analysis/</a>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 <footer>
 
