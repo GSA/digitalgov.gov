@@ -29,7 +29,7 @@ layout: single
 
 ---
 
-Shipping user-centered products in government requires understanding public policy. As [U.S. Digital Corps](https://digitalcorps.gsa.gov/) Fellows, we quickly learned how policy impacted the work led by our teams and other technology teams across the federal government. In this six-part guide, “Building by the rules: A crash course for federal technologists,” we explore why public policy matters, share the different types of public policy, and discuss a case study for navigating three key federal policies most relevant for web and digital teams across government.
+Shipping user-centered products in government requires understanding public policy. [U.S. Digital Corps](https://digitalcorps.gsa.gov/) Fellows, who quickly learned how policy impacted the work led by their teams and other technology teams across the federal government, created this six-part guide, “Building by the rules: A crash course for federal technologists,” to explore why public policy matters, share the different types of public policy, and discuss a case study for navigating three key federal policies most relevant for web and digital teams across government.
 
 ## Why public policy matters
 
