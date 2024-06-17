@@ -31,7 +31,7 @@ Overall, building products and services in government requires understanding how
       <td>Requires agencies to ensure that people with disabilities have equal access to government information.</td>
     </tr>
     <tr style="text-align: left; vertical-align: top;">
-      <th scope="row" rowspan="2">Privacy: Are we protecting user data?</th>
+      <th scope="row">Privacy: Are we protecting user data?</th>
       <td>Privacy Act</td>
       <td>Requires agencies to give public notice about recordkeeping systems, establishes best practices for managing data, and much more.</td>
     </tr>
