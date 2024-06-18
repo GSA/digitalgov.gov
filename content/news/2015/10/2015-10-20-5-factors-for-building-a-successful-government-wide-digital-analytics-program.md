@@ -78,7 +78,7 @@ Data management and governance lie at the heart of the DAP program. Frankly, at 
 
 At DAP, data is monitored closely on an hourly basis with the help of automated alerts to pick up significant changes and perform diagnostics. In addition, to ensure that the data is processed and standardized before it is available for reporting, we apply a set of data [standardization rules](https://github.com/digital-analytics-program/gov-wide-code/issues/10) against all of the collected data. As DAP continues to evolve, the role of the DAP Experts Community will continue to expand.
 
-Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules]({{< ref "common-questions-about-dap.md" >}}) to protect the integrity of the data upon receiving access to it.
+Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules](https://digital.gov/guides/dap/common-questions-about-dap/) to protect the integrity of the data upon receiving access to it.
 
 ## It’s a Journey
 
