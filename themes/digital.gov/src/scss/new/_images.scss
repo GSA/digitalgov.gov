@@ -1,71 +1,73 @@
 @use "uswds-core" as *;
 
 .image {
-  @include u-margin-top(2);
-  @include u-margin-bottom(4);
+  margin-bottom: units(4); // 32px
+  margin-top: units(2); // 16px
 
   // Captions
   p {
-    @include u-margin-top("1px");
-    @include u-padding-x("2px");
-    @include u-font("sans", "2xs");
-    @include u-line-height("sans", 3);
-    @include u-color("gray-cool-60");
-    @include u-text("light");
-    @include u-maxw("full");
+    color: color("gray-cool-60");
+    font-family: family("sans");
+    font-size: size("sans", "2xs");
+    font-weight: font-weight("light");
+    line-height: line-height("sans", 3);
+    margin-top: 1px;
+    max-width: 100%;
+    padding-left: units(2px);
+    padding-right: units(2px);
 
     span {
-      @include u-text("italic");
+      font-style: italic;
     }
   }
 }
 
 .image-right {
-  @include u-margin-top(1);
-  @include u-margin-bottom(3);
-  @include u-margin-left(3);
-  @include u-float("right");
-  @include u-width(15);
+  float: right;
+  margin-bottom: units(3); // 24px
+  margin-left: units(3); // 24px
+  margin-top: units(1); // 8px
+  width: units(15); // 120px
 
   @include at-media("tablet") {
-    @include u-width("card");
+    width: units("card"); // 160px
   }
 }
 
 .image-right-legacy {
   @include at-media("tablet") {
-    @include u-width("card-lg");
+    width: units("card-lg"); // 240px
   }
 }
 
 .image-left {
-  @include u-margin-y("205");
-  @include u-margin-top("205");
-  @include u-margin-right(2);
-  @include u-float("left");
-  @include u-width("card-lg");
+  float: left;
+  margin-bottom: units(5); // 40px
+  margin-right: units(2); // 16px
+  margin-top: units(5); // 40px
+  width: units("card-lg"); // 240px
 }
 
 .image-center {
-  @include u-display("block");
-  @include u-text-align("center");
+  display: block;
+  text-align: center;
 
   img {
-    @include u-width("card-lg");
-    @include u-maxw("full");
+    max-width: 100%;
+    width: units("card-lg"); // 240px
   }
 }
 
 .image-inline {
-  @include u-display("inline-block");
-  @include u-vertical-align("middle");
-  @include u-text-align("center");
-  @include u-margin("05");
+  display: inline-block;
+  margin: units(1); // 8px
+  text-align: center;
+  vertical-align: middle;
 
   img {
-    @include u-maxw("full");
-    @include u-height("auto");
-    @include u-display("inline-block");
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
   }
 }
 
