@@ -60,7 +60,7 @@ Email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) to volunteer to present or
 
 * **Huddles:** Huddles provide Digital.gov community members a place to discuss specific topics, share best practices, and spark ideas. Community huddles generally consist of a 5- to 10-minute presentation followed by a moderated, open mic discussion among panelists and community members.
 
-## Other ways to contribute
+### Other ways to contribute
 
 While we welcome event and content contributions from community members across all levels of experience, we know that can feel like a big leap, especially for folks who are new to the federal government or Digital.gov. So, we offer other ways to contribute.
 
