@@ -96,14 +96,14 @@ function fileTidy(done) {
         // copies uploaded file to /to-process with new normalized name 
         // convert jpg to png
         if (filetype === "image" && fileExt === ".jpg" || fileExt === ".jpeg") {
-         let result =  await convertJpgToPng(path.join(paths.uploads, file)).catch
+         let convertedPng =  await convertJpgToPng(path.join(paths.uploads, file)).catch
           ((err) => {
             console.error(`Error converting image ${file} to PNG: ${err.message}`);
             return;
           });
           // ensure the folder for the process image exists. 
-          if (result != file) {
-            file = result;
+          if (convertedPng != file) {
+            file = convertedPng;
           }
 
         } 
