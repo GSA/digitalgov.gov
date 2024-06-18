@@ -13,7 +13,7 @@ topics:
 
 ---
 
-{{< legacy-img src="2014/03/Kidsgov-Usability-test-IMG_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG_9987a-600-x-400" >}}
+{{< legacy-img src="2014/03/Kidsgov-Usability-test-IMG_9987a-600-x-400.jpg" alt="Adults and children participate in the Kids.gov usability test." >}}
 
 What do kids know about Web design? As we found out, quite a lot.
 
