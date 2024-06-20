@@ -1,36 +1,62 @@
-{{/* Lookup data/topics yaml files by category type to display as lists of topic links */}}
 {{- define "content" -}}
-  {{ $design_topics := .Site.Data.topics.design }}
-  {{ $data_analysis_topics := .Site.Data.topics.data_and_analysis }}
-  {{ $operations_topics := .Site.Data.topics.operations }}
-  {{ $content_communications_topics := .Site.Data.topics.content_and_communications }}
-  {{ $technology_topics := .Site.Data.topics.technology }}
-  {{ $strategic_development_topics := .Site.Data.topics.strategic_development }}
+  {{/* ==========
+    Store each resource category topics list from the front matter in resources/_index.md
+  */}}
+  {{ $design_topics := .Params.resource_topics.design }}
+  {{ $data_analysis_topics := .Params.resource_topics.data_and_analysis }}
+  {{ $operations_topics := .Params.resource_topics.operations }}
+  {{ $content_communications_topics := .Params.resource_topics.content_and_communications }}
+  {{ $technology_topics := .Params.resource_topics.technology }}
+  {{ $strategic_development_topics := .Params.resource_topics.strategic_development }}
 
 
   <main role="main" id="main-content">
     <section class="grid-container-desktop">
       <header class="page-head padding-bottom-0">
-        <h1>Resources</h1>
+        <h1>{{ .Title }}</h1>
         <p>
-          When you have a requirement to meet or an improvement to introduce to
-          your team or product, but you don’t know where to start: start here.
-          We have resources at every level available by collection so you can
-          explore how to meet the requirements of web legislation.
+          {{ .Params.deck }}
         </p>
       </header>
 
       <div class="dg-resource-topics margin-bottom-8">
         <h2 class="margin-top-0">Browse by topic</h2>
         <div class="dg-resource-topics-grid">
-          {{ partial "core/topics-list.html" (dict "data" $design_topics "scope" .) }}
-          {{ partial "core/topics-list.html" (dict "data" $data_analysis_topics "scope" .) }}
-          {{ partial "core/topics-list.html" (dict "data" $operations_topics "scope" .) }}
-          {{ partial "core/topics-list.html" (dict "data" $content_communications_topics "scope" .) }}
-          {{ partial "core/topics-list.html" (dict "data" $technology_topics "scope" .) }}
-          {{ partial "core/topics-list.html" (dict "data" $strategic_development_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Design" "data" $design_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Data & analysis" "data" $data_analysis_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Operations" "data" $operations_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Content & communication" "data" $content_communications_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Technology" "data" $technology_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Strategic development" "data" $strategic_development_topics "scope" .) }}
         </div>
       </div>
     </section>
   </main>
 {{- end -}}
+
+{{/* Display a list of topic links and resource category header
+
+  @param {string} - title for the header of the resource category topic list
+  @param {list} - data list of topic strings to display for each link
+  @param {scope} - scope of current page context
+*/}}
+{{ define "topics-list" }}
+  {{ $title := .title }}
+  {{ $data := .data }}
+  {{ $scope := .scope }}
+  <div class="dg-resource-topics-list">
+    <h3 class="dg-resource-topics-list__header">
+      {{ .title }}
+    </h3>
+    <ul class="dg-resource-topics-list__list usa-list usa-list--unstyled">
+      {{ range $data }}
+        <li class="dg-resource-topics-list__list-item">
+          {{ $page := $scope.GetPage (printf "/topics/%s" . ) }}
+          <a class="dg-resource-topics-list__link" href="{{ $page.Permalink }}"
+            >{{ $page.Title }}</a
+          >
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}

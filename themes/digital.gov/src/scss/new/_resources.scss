@@ -1,18 +1,8 @@
 @use "uswds-core" as *;
 
-.usa-prose .resources__plain-language-table td {
-  background-color: #fff;
-  border-bottom-color: rgb(27 27 27);
-  border-style: solid;
-  font-weight: 400;
-  @include u-border-right("1px", "gray-90", "solid");
-}
-
 .dg-resource-topics-grid {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-
   @include at-media("tablet") {
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -23,7 +13,7 @@
 
 .dg-resource-topics-list {
   &__header {
-    color: color("blue-warm-50v");
+    color: color("primary");
   }
 
   &__list-item {
@@ -31,15 +21,8 @@
   }
 
   &__link {
-    color: color("blue-70v");
     // allows first-letter psuedo element to target anchor tags
     display: inline-block;
-    text-decoration: none;
-    text-transform: lowercase;
-
-    &::first-letter {
-      text-transform: uppercase;
-    }
 
     &:hover {
       text-decoration: underline;

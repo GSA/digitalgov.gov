@@ -1,9 +1,10 @@
 ---
 title: "Resources"
-deck: ":evergreen_tree: Essential ‘how-to’ guidance for product managers in government."
+deck: "When you have a requirement to meet or an improvement to introduce to your team or product, but you don’t know where to start: start here. We have resources at every level available by collection so you can explore how to meet the requirements of web legislation."
 summary: "Essential ‘how-to’ guidance from across government product managers in government."
 
 aliases:
+  - /topics/
   - /tools/
   - /pages/
   - /coronavirus/
@@ -19,6 +20,69 @@ aliases:
   - /topics/gpo/
   - /topics/pbs/
   - /topics/public-buildings-service/
+
+
+# Displays the resource category topics as links — see https://digital.gov/resources/
+# Adding a topic will display in the order provided in the list below
+# Use lowercase spelling and kebab casing for each topic (i.e. content-strategy instead of content strategy)
+resource_topics:
+  content_and_communications:
+    - communication
+    - content-strategy
+    - multilingual
+    - multimedia
+    - plain-language
+    - podcast
+    - social-media
+    - trust
+  data_and_analysis:
+    - analytics
+    - crowdsourcing-and-citizen-science
+    - data-visualization
+    - information-collection
+    - open-data
+    - open-government
+    - research
+    - search
+    - search-engine-optimization
+  design:
+    - accessibility
+    - customer-experience
+    - design
+    - digital-service-delivery
+    - human-centered-design
+    - information-architecture
+    - usability
+    - user-centered-design
+    - use-experience
+  operations:
+    - acquisition
+    - budgeting-and-performance
+    - contact-centers
+    - product-and-project-management
+    - privacy
+    - records-management
+    - terms-of-service
+  strategic_development:
+    - best-practices
+    - challenges-and-prize-competitions
+    - diversity-equity-and-inclusion
+    - governance
+    - innovation
+    - policy
+    - professional-development
+  technology:
+    - application-programming-interface
+    - artificial-intelligence
+    - cloud-and-infrastructure
+    - domain-management
+    - emerging-tech
+    - mobile
+    - open-source
+    - robotic-process-automation
+    - security
+    - software-engineering
+
 
 ---
 
