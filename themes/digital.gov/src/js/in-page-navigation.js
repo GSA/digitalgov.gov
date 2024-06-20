@@ -17,4 +17,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   inPageNavHeader.removeAttribute("tabindex");
   relatedItems.before(inPageNav);
+
+  // Filter out items within .dg-ring
+  navItems.forEach((item) => {
+    const targetId = item.querySelector("a").getAttribute("href").slice(1);
+    const targetElement = document.getElementById(targetId);
+
+    if (targetElement && targetElement.closest(".dg-ring")) {
+      const newItem = item;
+      newItem.style.display = 'none';
+    }
+  });
 });

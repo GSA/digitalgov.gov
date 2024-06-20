@@ -19,7 +19,6 @@ topics:
 weight: 5
 
 slug: an-introduction-to-digital-governance
-summary_box: true
 
 ---
 
