@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (targetElement && targetElement.closest(".dg-ring")) {
       const newItem = item;
-      newItem.style.display = 'none';
+      newItem.style.display = "none";
     }
   });
 });
