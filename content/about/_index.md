@@ -69,11 +69,11 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
     </tr>
     <tr>
       <th scope="row">Migrate the accessibility.digital.gov microsite to Digital.gov as a guide</th>
-      <td>In progress</td>
+      <td>Completed</td>
     </tr>
     <tr>
       <th scope="row">Plan and host the Spring 2024 Digital.gov Community Summit</th>
-      <td>In progress</td>
+      <td>Completed</td>
     </tr>
     <tr>
       <th scope="row">Share more agency case studies and success stories with community members</th>
