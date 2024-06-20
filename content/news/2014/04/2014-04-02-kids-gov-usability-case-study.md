@@ -12,7 +12,7 @@ topics:
 
 ---
 
-For a children&#8217;s site, <a href="http://kids.usa.gov/">Kids.gov</a> is pretty old—it was launched back in 2001. And it has the unenviable task of trying to keep pace with the rapidly changing online habits of youngsters. So in 2012, Kids.gov Director Arlene Hernandez thought her site was due a usability test with its two main audiences: kids and their parents.
+For a children&#8217;s site, <a href="http://kids.usa.gov/">Kids.gov</a> is pretty old — it was launched back in 2001. And it has the unenviable task of trying to keep pace with the rapidly changing online habits of youngsters. So in 2012, Kids.gov Director Arlene Hernandez thought her site was due a usability test with its two main audiences: kids and their parents.
 
 Hernandez already had a good deal of data on the current design based on Web traffic and emailed feedback. She and her team knew people weren&#8217;t clicking on the top menu items, and that all graphic content was expected to be interactive and clickable. And some tasks, like learning about George Washington, were difficult to complete.
 
