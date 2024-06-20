@@ -8,14 +8,14 @@ deck: The federal government is actively discussing the transformative potential
   of artificial intelligence (AI), with agencies like 18F focusing on the
   opportunities and risks involved. While AI can automate tasks and enhance data
   analysis, it also presents challenges such as bias and ethical concerns. To
-  navigate this landscape, 18F leverages existing design practices, addresses
+  navigate this landscape, the team at 18F leverages existing design practices, addresses
   power dynamics, minimizes bias, and anticipates potential harms, ensuring AI
   is used responsibly and effectively in government operations.
 summary: The federal government is actively discussing the transformative
   potential of artificial intelligence (AI), with agencies like 18F focusing on
   the opportunities and risks involved. While AI can automate tasks and enhance
   data analysis, it also presents challenges such as bias and ethical concerns.
-  To navigate this landscape, 18F leverages existing design practices, addresses
+  To navigate this landscape, the team at 18F leverages existing design practices, addresses
   power dynamics, minimizes bias, and anticipates potential harms, ensuring AI
   is used responsibly and effectively in government operations.
 # See all topics at https://digital.gov/topics
