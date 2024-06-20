@@ -117,7 +117,7 @@
     content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}"
   />
   <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}" />
-  {{ $baseURL := getenv "BASEURL" | default "https://digital.gov" }}
+  {{ $baseURL := getenv "site.baseurl" | default "https://digital.gov" }}
   <meta property="og:url" content="{{ $baseURL }}{{ .RelPermalink }}" />
 <script>
   console.log("{{ $baseURL }}{{ .RelPermalink }}");

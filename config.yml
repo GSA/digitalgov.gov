@@ -109,6 +109,7 @@ security:
       - ^SITE_
       - ^BRANCH
       - ^BASEURL
+      - ^site.baseurl
 
 menu:
   primary:
