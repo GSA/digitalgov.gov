@@ -4,6 +4,7 @@
       {{- partial "core/guides/guide-header.html" . -}}
       {{- partial "core/guides/guide-menu-bar.html" . -}}
       {{- $guideData := index $.Site.Data.guidenav -}}
+      {{ printf "%#v" .Params.guide }}
       {{ if .Params.guide }}
         {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
       {{ end }}

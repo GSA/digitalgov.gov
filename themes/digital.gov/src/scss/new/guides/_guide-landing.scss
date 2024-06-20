@@ -1,11 +1,10 @@
 @use "uswds-core" as *;
 
 .dg-guides {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
   padding-top: units(2);
 
   @include at-media("tablet") {
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -15,17 +14,16 @@
 }
 
 .dg-guides-card {
-  border: 2px color("gray-cool-10") solid;
+  border: 2px color("base-lightest") solid;
   border-radius: units(1);
   display: grid;
-  grid-template-rows: max-content 1fr;
   margin: units(1);
   padding: units(2);
   position: relative;
 
   &__kicker {
-    color: color("blue-70v");
-    font-weight: font-weight(200);
+    color: color("primary-dark");
+    font-weight: font-weight(100);
     text-transform: uppercase;
   }
 
@@ -44,7 +42,6 @@
 
   &__summary {
     font-size: font-size("sans", "lg");
-    font-weight: font-weight(400);
   }
 
   &__media {

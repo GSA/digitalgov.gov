@@ -34,7 +34,7 @@
 
 
   <main role="main" id="main-content">
-    <div class="grid-container-desktop">
+    <div class="grid-container-desktop margin-bottom-5">
       <header class="page-head">
         {{/* Page Title */}}
         <h1>{{- .Title | markdownify -}}</h1>
@@ -47,11 +47,51 @@
 
       <section class="dg-guides">
         {{ range $guidePages.ByParam "guide_weight" }}
+          {{/*  The guide_weight setting allows to set the guide order on the guides page and nowhere else  */}}
           {{ if .Params.guide_weight }}
-            {{ .Render "card-guide" }}
+            {{ template "card-guide" (dict "title" .Title "summary" .Params.summary "link" .Permalink "image" .Params.image "site" .Site) }}
           {{ end }}
         {{ end }}
       </section>
     </div>
   </main>
+{{ end }}
+
+{{/* =======
+  Round box that displays optional guide kicker, title, summary and image.
+  Seen on: https://digital.gov/guides/.
+
+  @param {string} required $title - The guide title.
+  @param {string} required $summary - The guide summary.
+  @param {string} required $link - Guide URL.
+  @param {string} required $image - The name of the guide illustration image.
+  @param {scope}  required $site - Hugo object for accessing site settings from config.yml. Used to pass cdnurl to image partial.
+*/}}
+
+{{ define "card-guide" }}
+  {{ $title := .title }}
+  {{ $summary := .summary }}
+  {{ $link := .link }}
+  {{ $image := .image }}
+  {{ $site := .site }}
+
+
+  <article class="dg-guides-card">
+    <div class="dg-guides-card__content">
+      <span class="dg-guides-card__kicker">Digital.gov Guide</span>
+      <h2 class="dg-guides-card__title">
+        <a href="{{ $link | relURL }}">{{ $title }}</a>
+      </h2>
+      {{ if $summary }}
+        <p class="dg-guides-card__summary">
+          {{ $summary }}
+        </p>
+      {{ end }}
+    </div>
+    {{ if $image }}
+      <div class="dg-guides-card__media">
+        {{- partial "core/img-flexible.html" (dict "Site" $site "src" $image "small" "false") -}}
+      </div>
+    {{ end }}
+  </article>
 {{ end }}
