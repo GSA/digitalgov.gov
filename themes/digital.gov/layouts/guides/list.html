@@ -47,7 +47,7 @@
 
       <section class="dg-guides">
         {{ range $guidePages.ByParam "guide_weight" }}
-          {{/*  The guide_weight setting allows to set the guide order on the guides page and nowhere else  */}}
+          {{/* The guide_weight setting allows to set the guide order on the guides page and nowhere else */}}
           {{ if .Params.guide_weight }}
             {{ template "card-guide" (dict "title" .Title "summary" .Params.summary "link" .Permalink "image" .Params.image "site" .Site) }}
           {{ end }}
