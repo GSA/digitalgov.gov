@@ -10,7 +10,7 @@
         aria-label="Share on Twitter"
         target="_blank"
         rel="noreferrer"
-        href="http://twitter.com/share?url=https://digital.gov{{ (urls.Parse .Permalink) }}&amp;text={{ .Title }}"
+        href="http://twitter.com/share?url=https://digital.gov{{ (urls.Parse .RelPermalink) }}&amp;text={{ .Title }}"
       >
         <svg
           class="usa-icon dg-icon dg-icon--large margin-bottom-05"
@@ -27,7 +27,7 @@
         aria-label="Share on Facebook"
         target="_blank"
         rel="noreferrer"
-        href="https://www.facebook.com/sharer/sharer.php?u=https://digital.gov{{ (urls.Parse .Permalink) }}"
+        href="https://www.facebook.com/sharer/sharer.php?u=https://digital.gov{{ (urls.Parse .RelPermalink) }}"
       >
         <svg
           class="usa-icon dg-icon dg-icon--large margin-bottom-05"
@@ -46,7 +46,7 @@
         aria-label="Share on LinkedIn"
         target="_blank"
         rel="noreferrer"
-        href="https://www.linkedin.com/sharing/share-offsite/?url={{ (urls.Parse .Permalink) }}"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=https://digital.gov{{ (urls.Parse .RelPermalink) }}"
       >
         <svg
           class="usa-icon dg-icon dg-icon--large margin-bottom-05"
