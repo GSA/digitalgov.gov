@@ -3,8 +3,8 @@ url: /lost-and-found-mapping-page/
 date: 2014-09-16 4:20:55 -0400
 title: "Lost and Found &#8211; Mapping Page"
 summary: "Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL."
-expiryDate: 2020-10-20
-redirectto: https://digital.gov/resources/
+# expiryDate: 2020-10-20
+redirectto: "https://digital.gov/resources/"
 
 ---
 
