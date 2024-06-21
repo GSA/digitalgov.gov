@@ -1,5 +1,23 @@
-<!-- image -->
+{{/* =======
 
+  Displays an image with optional metadata
+  See wiki for more details https://github.com/GSA/digitalgov.gov/wiki/Hugo-shortcodes
+  TODO: finish documenting the other properties of this component
+
+  align - set the alignment for the image to be left (default if left blank), center, or right aligned.
+  inline - displays multiples images on the same line
+
+  @example for right aligned image
+  {{< img src="image-1" align="right" alt="UX Summit Image"
+>}}
+
+@example for two images on same line starting justified left align
+{{< img src="image-1" align="center" inline="true" alt="UX Summit Image 1" >}}
+{{< img src="image-2" align="center" inline="true" alt="UX Summit Image 2" >}}
+
+*/}}
+
+<!-- image -->
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisuid := (.Get "src" | lower) -}}
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}

@@ -1,8 +1,8 @@
 @use "uswds-core" as *;
 
 .image {
-  margin-bottom: units(4); // 32px
-  margin-top: units(2); // 16px
+  margin-bottom: units(4);
+  margin-top: units(2);
 
   // Captions
   p {
@@ -24,28 +24,28 @@
 
 .image-right {
   float: right;
-  margin-bottom: units(3); // 24px
-  margin-left: units(3); // 24px
-  margin-top: units(1); // 8px
-  width: units(15); // 120px
+  margin-bottom: units(3);
+  margin-left: units(3);
+  margin-top: units(1);
+  width: units(15);
 
   @include at-media("tablet") {
-    width: units("card"); // 160px
+    width: units("card");
   }
 }
 
 .image-right-legacy {
   @include at-media("tablet") {
-    width: units("card-lg"); // 240px
+    width: units("card-lg");
   }
 }
 
 .image-left {
   float: left;
-  margin-bottom: units(5); // 40px
-  margin-right: units(2); // 16px
-  margin-top: units(5); // 40px
-  width: units("card-lg"); // 240px
+  margin-bottom: units(5);
+  margin-right: units(2);
+  margin-top: units(5);
+  width: units("card-lg");
 }
 
 .image-center {
@@ -54,13 +54,13 @@
 
   img {
     max-width: 100%;
-    width: units("card-lg"); // 240px
+    width: units("card-lg");
   }
 }
 
 .image-inline {
   display: inline-block;
-  margin: units(1); // 8px
+  margin: units(1);
   text-align: center;
   vertical-align: middle;
 
