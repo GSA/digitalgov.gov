@@ -1,3 +1,6 @@
+// Only show the in-page navigation when 3 or more nav items are present on the page
+// Only display h2's as the primary nav items and set h3 and h4 sub-items to display: none
+
 document.addEventListener("DOMContentLoaded", () => {
   const relatedItems = document.querySelector("[data-related-items]");
   const inPageNav = document.querySelector(".usa-in-page-nav__nav");
@@ -18,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
   inPageNavHeader.removeAttribute("tabindex");
   relatedItems.before(inPageNav);
 
-  // Filter out items with ring class
+  // Hide nav links when they are a child of a ring component
   navItems.forEach((item) => {
     const targetId = item.querySelector("a").getAttribute("href").slice(1);
     const targetElement = document.getElementById(targetId);
