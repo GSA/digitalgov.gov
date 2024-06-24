@@ -68,3 +68,29 @@
     }
   }
 }
+
+.dg-featured-resource--trusted {
+  .dg-featured-resource__body {
+    background: color("blue-5");
+
+    &:hover {
+      background: color("blue-10");
+    }
+  }
+
+  .dg-featured-resource__text-kicker {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+    p {
+      padding-right: units(1);
+    }
+
+    img {
+      height: units(2);
+      margin: 0;
+      width: units(2);
+    }
+  }
+}

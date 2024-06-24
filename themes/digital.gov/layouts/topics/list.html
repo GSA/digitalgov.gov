@@ -72,13 +72,17 @@
             {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" $kicker) -}}
           {{ end }}
 
+          {{ range .Params.trusted_resources.resources }}
+            {{- partial "core/trusted-resource.html" (dict "data" . ) -}}
+          {{ end }}
+
           {{ range .Params.featured_communities }}
             {{ $community_page := $.GetPage (printf "communities/%s" .) }}
             {{ $kicker := "" }}
             {{ if $community_page.Params.kicker }}
               {{ $kicker = $community_page.Params.kicker }}
             {{ end }}
-            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" (printf "/communities/%s" .) "kicker" $kicker ) -}}
+            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" (printf "/communities/%s" .) "kicker" $kicker) -}}
           {{ end }}
         </div>
       {{ end }}
