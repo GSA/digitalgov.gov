@@ -80,13 +80,13 @@ As a best practice, consider setting up a process to continuously monitor and ev
 
 ### How to register or renew a .gov domain
 
-To register or renew a .gov domain, follow the [domain name requirements](https://get.gov/domains/) outlined on [Get.gov](https://get.gov/). 
+To register or renew a .gov domain, follow the [domain name requirements](https://get.gov/domains/) outlined on [Get.gov](https://get.gov/).
 
-You should also review the [naming requirements for executive branch federal agencies](https://get.gov/domains/executive-branch-guidance/#naming-requirements-for-executive-branch-federal-agencies) that were issued along with M-23-10, The Registration and Use of .gov Domains in the Federal Government. All requests must be approved by your Chief Information Officer or head of agency, and include a description of how the domain will be used, its intended audience, why the domain is needed, and how the domain will conform to OMB policies and requirements. 
+You should also review the [naming requirements for executive branch federal agencies](https://get.gov/domains/executive-branch-guidance/#naming-requirements-for-executive-branch-federal-agencies) that were issued along with M-23-10, The Registration and Use of .gov Domains in the Federal Government. All requests must be approved by your Chief Information Officer or head of agency, and include a description of how the domain will be used, its intended audience, why the domain is needed, and how the domain will conform to OMB policies and requirements.
 
-OMB reviews executive branch agency domain requests and may contact the submitting agency with any questions during the process; they may deny a domain request or domain renewal. 
+OMB reviews executive branch agency domain requests and may contact the submitting agency with any questions during the process; they may deny a domain request or domain renewal.
 
-Federal agencies can establish .gov domain names for any legitimate purpose and can register domains as needed to most effectively meet their mission. However, .gov domain names are a shared resource across all U.S.-based government organizations, and agencies have a responsibility to carefully consider how potential domains might impact the public and how they interact with government information and services. 
+Federal agencies can establish .gov domain names for any legitimate purpose and can register domains as needed to most effectively meet their mission. However, .gov domain names are a shared resource across all U.S.-based government organizations, and agencies have a responsibility to carefully consider how potential domains might impact the public and how they interact with government information and services.
 
 {{< ring title="OMB Memo M-23-10">}}
 [Explore OMB Memo M-23-10, The Registration and Use of .gov Domains in the Federal Government (PDF, 98 KB, 3 pages)](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf)
