@@ -27,9 +27,11 @@ legislation:
   link: "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/"
 
 # Featured resource to at the top of the page
-featured_resources:
+trusted_resources:
   resources:
-    - link: "https://ai.gov/"
+  - link: "https://ai.gov/"
+    title: "AI.GOV"
+    summary: "Short summary goes here for the reader to understand the nature of the external content."
 
 # Featured community to display at the top of the page
 featured_communities:

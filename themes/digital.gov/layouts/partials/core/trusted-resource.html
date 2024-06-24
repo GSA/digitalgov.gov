@@ -1,0 +1,45 @@
+{{/* ==================
+
+  Trusted Resource Component
+
+  Displays a rounded box for an an external resource, similar to a featured resource.
+  Use front matter or a shortcode in markdown to display on page.
+
+  @params {object} data - a dictionary object to display a resource
+  - link    - required to display an external link
+  - title   - required title of the resource
+  - summary - required to display a short description for the resource
+
+  @example shortcode
+  {{< trusted-resource resourcePath = "/guides/hcd/discovery-concepts"
+>}}
+*/}}
+{{ $link := .data.link }}
+{{ $title := .data.title }}
+{{ $summary := .data.summary }}
+
+{{- if $link -}}
+  <div class="dg-featured-resource dg-featured-resource--trusted">
+    <a href="{{- $link -}}" class="dg-featured-resource__body">
+      <div class="dg-featured-resource__text">
+        <div class="dg-featured-resource__text-kicker">
+          <p>Trusted Resource</p>
+          <img
+            src="{{ "uswds/img/usa-icons/launch.svg" | relURL }}"
+            alt="link"
+          />
+        </div>
+        <h2 class="dg-featured-resource__text-title">
+          {{ if $title }}
+            {{ $title }}
+          {{ end }}
+        </h2>
+        <p class="dg-featured-resource__text-description">
+          {{ if $summary }}
+            {{ $summary }}
+          {{ end }}
+        </p>
+      </div>
+    </a>
+  </div>
+{{- end -}}

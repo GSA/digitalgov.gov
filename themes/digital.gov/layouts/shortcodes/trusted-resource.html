@@ -1,0 +1,16 @@
+{{/* ====
+
+  Shortcode for using a trusted-resource component.
+  See themes/digital.gov/layouts/partials/core/trusted-resource.html
+
+  @example
+  {{< trusted-resource link = "https://www.ai.gov" title = "title to display" summary = "summary goes here"
+>}}
+
+*/}}
+{{ $title := (.Get "title" ) }}
+{{ $summary := (.Get "summary" ) }}
+{{ $link := (.Get "link" ) }}
+{{ $data := (dict "title" $title "summary" $summary "link" $link) }}
+
+{{ partial "core/trusted-resource.html" (dict "data" $data ) }}
