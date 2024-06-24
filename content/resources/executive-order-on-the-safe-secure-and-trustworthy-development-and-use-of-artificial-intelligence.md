@@ -17,6 +17,7 @@ summary: Establishes new standards for AI safety and security, protects
 topics:
   - artificial-intelligence
   - emerging-tech
+  - diversity-equity-and-inclusion
 slug: executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence
 # Controls how this page appears across the site
 # 0 -- hidden
