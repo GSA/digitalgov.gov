@@ -54,7 +54,7 @@ resource_topics:
     - information-architecture
     - usability
     - user-centered-design
-    - use-experience
+    - user-experience
   operations:
     - acquisition
     - budgeting-and-performance
