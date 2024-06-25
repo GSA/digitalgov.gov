@@ -1,21 +1,30 @@
 ---
-source: ""
+# View this page at https://digital.gov/2024/06/25/unsolicited-data-a-valuable-resource-for-digital-customer-experience-enhancement
+# Learn how to edit our pages at https://workflow.digital.gov
+
+slug: unsolicited-data-a-valuable-resource-for-digital-customer-experience-enhancement
 date: 2024-06-25
-title: Unsolicited data A valuable resource for digital customer experience
-  enhancement
-summary: Optimizing federal service touchpoints involves analyzing both
-  actively-sought and spontaneous feedback, introducing new metrics and data
-  points.
+title: "Unsolicited data: A valuable resource for digital customer experience enhancement"
+summary: "Optimizing federal service touchpoints involves analyzing both actively-sought and spontaneous feedback, introducing new metrics and data points."
+
+# See all authors at https://digital.gov/authors
+authors:
+  - isabel-izzy-metzger
+
 # See all topics at https://digital.gov/topics
 topics:
-  - accessibility
-  - user-centered-design
+ - analytics
+ - user-experience
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-slug: unsolicited-data-a-valuable-resource-for-digital-customer-experience-enhancement
+
+primary_image: ""
+
 ---
+
 When it comes to digital federal services, the stakes are high. For millions of the American public, these platforms are not just convenient online options; they are lifelines for essential needs. As highlighted in [Transforming the American digital experience: A report about what’s next for the U.S. Web Design System](https://designsystem.digital.gov/next/introduction/):
 
 {{< card-quote text="For millions, access to digital services isn’t a luxury — it’s critical. And their experiences using government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food can dramatically affect how they feel about the government." cite="" >}}
@@ -114,7 +123,7 @@ Analyze the types of queries and issues raised by users to understand needs and 
 
 Shortcomings with CX metrics based solely on structured data — such as website hits and solicited survey satisfaction ratings like [CSAT and NPS](https://digital.gov/2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx/) — are well-documented.
 
-As highlighted in an article about using artificial intelligence to track how customers feel <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">\[1]</a></sup>:
+As highlighted in an article about using artificial intelligence to track how customers feel <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>:
 
 {{< card-quote text=“Companies spend huge amounts of time and money in efforts to get to know their customers better. But despite this hefty investment, most firms are not very good at listening to customers. It’s not for lack of trying, though — the tools they’re using and what they’re trying to measure may just not be up to the task. Our research shows that the two most widely used measures, customer satisfaction (CSAT) and Net Promoter Scores (NPS), fail to tell companies what customers really think and feel, and can even mask serious problems.” cite="" >}}
 
@@ -122,9 +131,9 @@ To address this within the General Services Administration (GSA), the Office of 
 
 The code supports calculating metrics that offer a more comprehensive understanding of how different users engage with the platform’s services; an example metric is shown below. The metrics range in level of difficulty to implement, but offer new ways of understanding digital service performance and customer experience. While the toolkit was piloted with Department of Labor’s Employment Training Administration’s CareerOneStop platform, the code repository can be adapted and applied across various digital services.
 
-{{< note >}}\*\*Example of one of the metrics a user can generate from the code repository\*\*
+{{< note >}}**Example of one of the metrics a user can generate from the code repository**
 
-\*\*Help Request Rate Measure\*\*: You can monitor the rate at which different user groups are making help requests or asking for assistance by leveraging keyword matching on emails (e.g., “please assist,” “having trouble”) to further identify and measure gaps across your user groups. For example, if certain user groups exhibit higher help request rates, this could indicate usability issues that disproportionately affect those users. Differences in rates across user groups could point to issues with content clarity. Content that resonates well with one user group might be confusing or less intuitive for another, prompting more help requests.{{< /note >}}
+**Help Request Rate Measure**: You can monitor the rate at which different user groups are making help requests or asking for assistance by leveraging keyword matching on emails (e.g., “please assist,” “having trouble”) to further identify and measure gaps across your user groups. For example, if certain user groups exhibit higher help request rates, this could indicate usability issues that disproportionately affect those users. Differences in rates across user groups could point to issues with content clarity. Content that resonates well with one user group might be confusing or less intuitive for another, prompting more help requests.{{< /note >}}
 
 ## Call to action: Embrace unsolicited customer feedback
 
