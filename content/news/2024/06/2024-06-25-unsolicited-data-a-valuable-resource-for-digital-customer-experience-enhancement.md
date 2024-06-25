@@ -154,6 +154,6 @@ We hope this work holds value for you and your agency. If you have questions or 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">Zaki, Mohamed, Janet McColl-Kennedy, and Andy Neely. 2021. “Using AI to Track How Customers Feel — in Real Time.” <em>Harvard Business Review</em>, May 4, 2021. <a htef="https://hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time">https://hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time</a> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">Zaki, Mohamed, Janet McColl-Kennedy, and Andy Neely. 2021. “Using AI to Track How Customers Feel — in Real Time.” <em>Harvard Business Review</em>, May 4, 2021. <a href="https://www.hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time">www.hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time</a> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
