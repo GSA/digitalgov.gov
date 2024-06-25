@@ -53,19 +53,19 @@ The table below shows types of customer feedback along with examples:
   </thead>
   <tbody>
     <tr>
-      <th scope="row">**Solicited and structured**: Requested by a provider and limited to predefined response options</th>
+      <th scope="row"><strong>Solicited and structured</strong>: Requested by a provider and limited to predefined response options</th>
       <td>Numerical ratings in survey responses and comment cards</td>
     </tr>
     <tr>
-      <th scope="row">**Solicited and unstructured**: Requested by a provider but free-form</th>
+      <th scope="row"><strong>Solicited and unstructured</strong>: Requested by a provider but free-form</th>
       <td>Open-ended survey responses, customer advisory board interviews</td>
     </tr>
     <tr>
-      <th scope="row">**Unsolicited and structured**: Initiated by customer but limited to predefined response options</th>
+      <th scope="row"><strong>Unsolicited and structured</strong>: Initiated by customer but limited to predefined response options</th>
       <td>Product and service ratings on third-party review sites</td>
     </tr>
     <tr>
-      <th scope="row">**Unsolicited and unstructured**: Initiated by customer and free-form</th>
+      <th scope="row"><strong>Unsolicited and unstructured</strong>: Initiated by customer and free-form</th>
       <td>Social media posts, contact center calls, emails, and chats</td>
     </tr>
   </tbody>
