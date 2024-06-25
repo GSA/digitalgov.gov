@@ -149,11 +149,30 @@ There are various areas where your agency can begin to tap in to unsolicited fee
 > 
 > **Start using new CX metrics**: Leverage the CX analysis toolkit [to implement new CX metrics](https://github.com/GSA/GovCXAnalyzer/blob/main/notebooks/digitalcx/digital_metrics.py). In the toolkit, measures such as Help Request Rate, User Sentiment Score, Resource Utilization Rate, and Service-Specific Metrics, enable you to make informed decisions by pinpointing specific issues and successes within different user groups or service areas. For instance, high Request Rates can directly signal areas where users need more support, allowing you to focus improvements where they are most needed. Similarly, you can leverage the User Sentiment Score tool to give you a detailed view of user emotions, which can guide enhancements in user interaction and service delivery. We encourage you to adopt these measures and metrics to understand your service’s impact, actively refine your strategies, and drive meaningful improvements in your digital offerings.
 
+
+
+test
+
+{{< box >}} Box with no color {{< /box >}}
+Screen Shot 2020-06-18 at 2 03 35 PM
+
+{{< box color="base" >}} Box with base {{< /box >}}
+Screen Shot 2020-06-18 at 1 52 25 PM
+
+{{< box color="base-light" >}} Box with base-light {{< /box >}}
+Screen Shot 2020-06-18 at 2 02 59 PM
+
+{{< box color="base-dark" >}} Box with base-dark {{< /box >}}
+
+
+test
+
+
 We hope this work holds value for you and your agency. If you have questions or would like to learn more about this work, please reach out to the Analytics and Decision Support Division at [bia@gsa.gov](mailto:bia@gsa.gov).
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1">Zaki, Mohamed, Janet McColl-Kennedy, and Andy Neely. 2021. “Using AI to Track How Customers Feel — in Real Time.” <em>Harvard Business Review</em>, May 4, 2021. https://hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1">Zaki, Mohamed, Janet McColl-Kennedy, and Andy Neely. 2021. “Using AI to Track How Customers Feel — in Real Time.” <em>Harvard Business Review</em>, May 4, 2021. [https://hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time](https://hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time) <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
