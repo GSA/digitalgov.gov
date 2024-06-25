@@ -22,9 +22,9 @@ weight: 1
 ---
 ## What is customer experience?
 
-Customer experience (CX) is a person’s perception of an organization as a total sum of all of their experiences with that organization. For federal agencies, customer experience goes beyond individual transactions, or even a single agency, and encompasses the public's entire journey with government services. This includes everything from finding information to resolving issues. A deliberate [customer experience](https://digital.gov/topics/customer-experience/) strategy is to proactively design systems with the user in mind. 
+Customer experience (CX) is a person’s perception of an organization as a total sum of all of their experiences with that organization. For federal agencies, customer experience goes beyond individual transactions, or even a single agency, and encompasses the public's entire journey with government services. This includes everything from finding information to resolving issues. A deliberate [customer experience](https://digital.gov/topics/customer-experience/) strategy is to proactively design systems with the user in mind.
 
-When the public has positive interactions with a government service, it builds [trust](https://digital.gov/topics/trust/) in the government as a whole. Furthermore, a strong customer experience focus makes government more effective and efficient, saving both the public and the government time and resources. 
+When the public has positive interactions with a government service, it builds [trust](https://digital.gov/topics/trust/) in the government as a whole. Furthermore, a strong customer experience focus makes government more effective and efficient, saving both the public and the government time and resources.
 
 The ultimate goal of customer experience in the federal government is to ensure that our services successfully meet the public's needs, leading to better outcomes for individuals, and the nation.
 
@@ -36,7 +36,7 @@ Engage in comprehensive customer and user research, both qualitatively and quant
 
 ## How to start measuring customer experience
 
-Measuring a customer’s experience provides insight on how to improve a digital product or service. Tracking the customer journey involves collecting and analyzing data from various sources to effectively understand customer interactions. 
+Measuring a customer’s experience provides insight on how to improve a digital product or service. Tracking the customer journey involves collecting and analyzing data from various sources to effectively understand customer interactions.
 
 Here are some approaches you can use to leverage customer feedback and analytics:
 
@@ -46,9 +46,9 @@ Here are some approaches you can use to leverage customer feedback and analytics
 * **Analyze the data and information** to identify areas that should be improved.
 * **Iterate** to continuously improve and enhance customer experience.
 
-## What can I do next? 
+## What can I do next?
 
-If you manage a federal website, be sure you understand [the requirements for transforming federal customer experience and service delivery](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) to rebuild trust in government. Also, learn how to use and optimize the Digital Analytics Program and Touchpoints. 
+If you manage a federal website, be sure you understand [the requirements for transforming federal customer experience and service delivery](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) to rebuild trust in government. Also, learn how to use and optimize the Digital Analytics Program and Touchpoints.
 
 For example, at GSA, the agency’s Digital Presence Guidelines state, “All GSA public-facing websites must participate in the federal Digital Analytics Program by including the DAP tracking code on your website. All GSA public-facing websites should review site usage and search metrics at least monthly, and use the data to make informed decisions on how to continuously improve your site and exceed customer expectations. In addition to DAP, GSA sites have access to the free standard version of Google Analytics. GSA program offices should use this version of Google Analytics on your external and internal websites, if you need data capabilities above and beyond what DAP offers.”
 
