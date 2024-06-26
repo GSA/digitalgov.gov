@@ -28,7 +28,7 @@ weight: 1
 
 # Spotlight Digital.gov Communities of Practice (COP) at top of /communities
 dg_highlight: true
-dg_shortname: contact-center
+dg_shortname: Contact Center
 dg_acronym: CC
 dg_logo: communities-contact-center.svg
 
