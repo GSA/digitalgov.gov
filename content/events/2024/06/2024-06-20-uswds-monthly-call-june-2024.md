@@ -22,9 +22,11 @@ primary_image: 2024-uswds-monthly-call-june-title-card
 
 ---
 
+{{< asset-static file="uswds-monthly-call-june-2024.pptx" label="View the slides (Powerpoint presentation, 3 MB, 33 slides)">}}
+
 Join the U.S. Web Design System (USWDS) team to see their progress toward developing web components for the design system. They’ll demo early working prototypes of a few components, and talk about some of the design questions they’re trying to answer through the prototyping process.
 
-In this session, the USWDS team will:
+In this online session with the USWDS team, you will:
 
 * See examples of working USWDS web components
 * Learn how the USWDS team built these components
