@@ -1,7 +1,7 @@
 ---
 slug: contact-center
 date: 2024-05-26 16:36:00 -0500
-title: Contact center
+title: Contact Center
 summary: "Explore methods of service delivery that improve customer experience in government contact centers."
 
 # See all topics at https://digital.gov/topics
