@@ -53,12 +53,16 @@
 
 {{ define "github" }}
   <img
-    class="author__photo-img"
+    class="author__photo-img usa-media-block__img"
     src="https://github.com/{{- .id -}}.png?size=50"
     alt=""
   />
 {{ end }}
 
 {{ define "digitalgov_icon" }}
-  <img class="author__photo-img" src="{{- .icon_path | absURL -}}" alt="" />
+  <img
+    class="author__photo-img usa-media-block__img"
+    src="{{- .icon_path | absURL -}}"
+    alt=""
+  />
 {{ end }}

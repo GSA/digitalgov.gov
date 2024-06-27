@@ -18,15 +18,6 @@
     }
   }
 
-  .author__photo {
-    align-items: center;
-    display: flex;
-    height: units(5);
-    justify-content: center;
-    margin-right: units(1);
-    width: units(5);
-  }
-
   .author__photo-img {
     border: 1px color("indigo-30") solid;
     @include u-circle(5);
@@ -39,7 +30,7 @@
 }
 
 // Display as an inline list of authors
-.authors-list--short {
+.authors-list--inline {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: units(1);
@@ -49,25 +40,25 @@
   .author {
     align-items: center;
     border: none;
-    color: color("primary-darker");
     display: flex;
-    font-size: font-size("sans", "2xs");
-    font-weight: font-weight("medium");
     margin-bottom: units("05");
     margin-left: 0;
     margin-right: units("105");
     margin-top: units("05");
-
     padding: 0;
     z-index: 2;
   }
 
   .author__name {
+    color: color("primary-darker");
     flex: 1;
+    font-size: font-size("sans", "2xs");
+    font-weight: font-weight("medium");
     white-space: nowrap;
   }
 
   .author__photo-img {
+    border: 1px color("indigo-30") solid;
     margin-right: units("05");
     @include u-circle(3);
   }

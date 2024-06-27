@@ -3,6 +3,12 @@
     I am quite sure that this template is being overriden by the individual taxonomy templates (authors, topics, etc...)
   */}}
 
+  {{ $authors := where $.Site.Pages "Section" "authors" }}
+  {{ $authorData := slice }}
+  {{ range $authorName := .Params.authors }}
+    {{ $authorData = $authorData | append ( where $authors ".Params.slug" "eq" . ) }}
+  {{ end }}
+
 
   <main role="main" id="main-content" class="main-topic collection">
     <div class="grid-container grid-container-desktop">
@@ -68,7 +74,7 @@
                         title="{{- .Title | markdownify -}} "
                         >{{- .Date.Format "Jan _2" -}}</a
                       ><span>&#10038;</span
-                      >{{- partial "core/get_authors.html" (dict "context" . "layout" "short") -}}
+                      >{{- partial "core/authors_list.html" (dict "data" $authorData) -}}
                     </footer>
                   </div>
                 </div>

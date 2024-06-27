@@ -1,0 +1,48 @@
+{{/* =========
+
+  Displays an authors github image as a circle profile and name next to it.
+  The default layout is an inline list used on card-*.html templates.
+  An optional override to display a stacked vertical list is used on events and news single.html templates.
+
+  @param {object} data - required list of author pages
+  @param {boolean} isStacked - optional flag to display a stacked vertical list of authors
+
+  @example
+  {{- partial "core/authors_list.html" (dict "data" $authorData "isStacked" true)
+-}}
+*/}}
+{{ $data := .data }}
+{{ $isStacked := default false .isStacked }}
+{{ $authorClasses := slice (print (cond $isStacked "authors-list" "authors-list--inline")) }}
+
+{{ if $data }}
+  <div class="{{ delimit $authorClasses " " }}">
+    {{ range $data }}
+      {{ $authorSlug := .Params.slug }}
+      {{ $authorDisplayName := .Params.display_name }}
+      {{ $authorAgency := .Params.agency }}
+
+
+      <div class="author usa-media-block">
+        {{ partial "core/author_image.html" (dict "author" . ) }}
+        <div class="usa-media-block__body">
+          <a
+            class="author__name"
+            href="{{ .Permalink }} "
+            title="Posts by {{ $authorDisplayName | default $authorSlug }}"
+            rel="author"
+            aria-label="Read more articles by {{ $authorDisplayName | default $authorSlug }}"
+            >{{ $authorDisplayName }}</a
+          >
+          {{ if $isStacked }}
+            {{ if $authorAgency }}
+              <p class="author__details-agency">
+                {{ $authorAgency }}
+              </p>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}
