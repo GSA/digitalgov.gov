@@ -1,5 +1,5 @@
 ---
-name: cisa
+name: Cybersecurity and Infrastructure Security Agency CISA
 summary: CISA works with partners to defend against today’s threats and
   collaborate to build a more secure and resilient infrastructure for the
   future.

@@ -55,13 +55,13 @@ And then we'll take a look at a preview of USWDS 3.0, and show what it means to 
 
 **Slide 8:** So now, a few product updates.
 
-**Slide 9:** First up, USWDS 2.13.3. We're working on prepping a new USWDS release right now, hot on the heels of USWDS 2.13.12, focussed on improvements to the visual display of our components when rendered in Windows High Contrast mode.
+**Slide 9:** First up, USWDS 2.13.3. We're working on prepping a new USWDS release right now, hot on the heels of USWDS 2.13.12, focused on improvements to the visual display of our components when rendered in Windows High Contrast mode.
 
 **Slide 10:** High contrast and forced colors mode is an accessibility setting that constrains the number of colors available to the display to a fixed palette of system colors. We've needed to add some new style rules to make our components more compatible with forced colors mode, and starting with USWDS 2.13.3, all our components should be usable and fully accessible when constrained to limited fixed system colors.
 
 **Slide 11:** We're also releasing some changes to that improve the accessibility of the footer — specifically with the actions that hide and reveal content navigation content in the big footer. I'd hoped that this would get into the last release, but it's going into this one instead!
 
-**Slide 12:** So that's USWDS 2.13.3 — a great accessibility-focussed release — coming next week!
+**Slide 12:** So that's USWDS 2.13.3 — a great accessibility-focused release — coming next week!
 
 **Slide 13:** Next, USWDS 3.0.0 Beta 4. This one's out now, and it's what we'll be showing here today. This is the first of the beta releases published to the new home of the uswds package on npm: [@uswds/uswds] (https://www.npmjs.com/package/@uswds/uswds).
 
@@ -69,7 +69,7 @@ And then we'll take a look at a preview of USWDS 3.0, and show what it means to 
 
 **Slide 15:** And that's USWDS 3.0 Beta 4 —out now. We're linking to the [full release notes] (https://github.com/uswds/uswds/releases/tag/v3.0.0-beta.4) in the chat. You'll want to take a look at the release notes if you're planning to use this Beta, the reorganization and the new package name will affect how you compile your USWDS Sass. If you're not using USWDS Compile, you'll need to make a few manual changes to your compiler's load paths.
 
-**Slide 16:** Which is a great segue into the last of our product updates today, USWDS Compile Beta 2. We've released a couple new USWDS Compile Betas in the last couple days: Compile Beta 1 and Compile Beta 2. The [npm link] (http://npmjs.com/@uswds/compile) and the release note links for [Compile Beta 1] (https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.1)and [Compile Beta 2] (https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.2)are in the chat. These new Betas get USWDS Compile ready to use with USWDS 3.0.
+**Slide 16:** Which is a great segue into the last of our product updates today, USWDS Compile Beta 2. We've released a couple new USWDS Compile Betas in the last couple days: Compile Beta 1 and Compile Beta 2. The [npm link] (http://npmjs.com/@uswds/compile) and the release note links for [Compile Beta 1] (https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.1) and [Compile Beta 2] (https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.2) are in the chat. These new Betas get USWDS Compile ready to use with USWDS 3.0.
 
 **Slide 17:** In fact, we think that USWDS Compile is the fastest and easiest way to compile USWDS 2 code, but it's the best way to migrate to USWDS 3.0. And this is another part of what we'll show today.
 
@@ -87,13 +87,13 @@ And it's fast. We've updated to the newest [sass-embedded] (https://www.npmjs.co
 
 **Slide 22:** So, USWDS 3.0 will be here next month. At this point, we're largely working on documentation and testing. For all intents and purposes, we'd like to consider next month's monthly call to be the launch date — that would be April 21, 2022, almost exactly three years from the launch of USWDS 2.0.
 
-**Slide 23:** With USWDS 3.0, the idea of USWDS Packages has grown up. What we launched in USWDS 2.1 is now a bit more mature: a version of USWDS centered around components and packages, allowing teams to use just the packages they need, optimize for performance, and update at their own pace. And on the design system side, we can deliver code that focussed on the component, we can be really explicit about dependencies between components, and we can keep components at the center of what we deliver, giving ourselves room to improve how we deliver these components, and to let components evolve at their own pace. Some more slowly, some more quickly.
+**Slide 23:** With USWDS 3.0, the idea of USWDS Packages has grown up. What we launched in USWDS 2.1 is now a bit more mature: a version of USWDS centered around components and packages, allowing teams to use just the packages they need, optimize for performance, and update at their own pace. And on the design system side, we can deliver code that focused on the component, we can be really explicit about dependencies between components, and we can keep components at the center of what we deliver, giving ourselves room to improve how we deliver these components, and to let components evolve at their own pace. Some more slowly, some more quickly.
 
 **Slide 24:** With USWDS 3.0, we're starting the process of unbundling USWDS, making it less of an all-or-nothing proposition. And you may ask, at this point, what's happening with independent component packages, distributed via npm. Well, it's still happening, but we're not ready to launch component packages with 3.0. But what we will do is make sure a component's package is ready to publish before we make any kind of breaking change to any component. So, if we want to make a breaking change to the footer, we'll release a usa-footer package in its existing state, then the breaking change will be published as a subsequent release to both USWDS and to usa-footer. So more to come on independent component packages, as we consider any changes that might require them.
 
 **Slide 25:** USWDS 3.0 is the foundation of a more modular design system. One that lets teams define the parts of USWDS they want to use, customize their implementations, and update at their own pace.
 
-**Slide 26:** We think it's going to deliver a lot, with just a little bit of upgrade and migration effort. We think that most teams will be able to move from USWDS 2 to USWDS 3 in a matter of hours, not days or weeks. And if you're thinking of migrating, USWDS Compile could be your friend. We think more teams should use it, and we want to make it as useful as possible. So if you have feedback, let us know, either in an issue or a discussion. We're putting the [github discussion link] (https://github.com/uswds/uswds/discussions/4587)to the most recent 3.0 Beta release in the chat.
+**Slide 26:** We think it's going to deliver a lot, with just a little bit of upgrade and migration effort. We think that most teams will be able to move from USWDS 2 to USWDS 3 in a matter of hours, not days or weeks. And if you're thinking of migrating, USWDS Compile could be your friend. We think more teams should use it, and we want to make it as useful as possible. So if you have feedback, let us know, either in an issue or a discussion. We're putting the [github discussion link](https://github.com/uswds/uswds/discussions/4587) to the most recent 3.0 Beta release in the chat.
 
 **Slide 27:** Above all, we're working to deliver a simple migration process — not just for USWDS 3.0, but that 3.0 is the platform that will begin to deliver simpler updates and migrations going forward. We think that teams should make the effort to move to USWDS 3.0 and we'll help you get there.
 

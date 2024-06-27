@@ -15,9 +15,30 @@ aliases:
 # see all topics at https://digital.gov/topics
 topics:
   - analytics
-  - product-and-project-management
-  - user-experience
+  - accessibility
+  - communication
+  - customer-experience
   - content-strategy
+  - design
+  - plain-language
+  - product-and-project-management
+  - usability
+  - user-experience
+  - governance
+  - digital-service-delivery
+  - user-centered-design
+  - human-centered-design
+  - search-engine-optimization
+  - multimedia
+  - multilingual
+  - mobile
+  - policy
+  - information-architecture
+  - social-media
+  - privacy
+  - security
+
+
 # see all authors at https://digital.gov/authors
 authors:
   - toni-bonitto
@@ -45,7 +66,7 @@ community_list:
     subscribe_email: "content-managers-l-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Web Managers Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 2,084
+    members: 2,119
     join_cop_button: "Web Manager community members"
 
 primary_image: "white-on-gsa-blue-digital-gov-card-community"

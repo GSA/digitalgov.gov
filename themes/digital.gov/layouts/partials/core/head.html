@@ -117,7 +117,7 @@
     content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}"
   />
   <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}" />
-  <meta property="og:url" content="{{- .Permalink -}}" />
+  <meta property="og:url" content="{{- .Permalink | absURL -}}" />
   <meta property="og:site_name" content="Digital.gov" />
   <meta name="robots" content="index, follow" />
   <meta property="og:locale" content="en_US" />

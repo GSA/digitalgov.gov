@@ -1,69 +1,68 @@
 require("dotenv").config();
-const { series, src } = require("gulp"),
-  vinylPaths = require("vinyl-paths"),
-  del = require("del"),
-  s3config = {
-    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
-    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
-  },
-  s3 = require("gulp-s3-upload")(s3config);
 
-/**
- * Uploads images in /processed folder to digitalgov s3 bucket
- * TODO: Refactor both functions into one
- * https://github.com/uswds/uswds-compile/blob/223fe67c335135c55cf1be9dead44e6d363e219d/gulpfile.js#L204-L232
- */
+const gulp = require("gulp");
+const awspublish = require("gulp-awspublish");
+const rename = require("gulp-rename");
+const del = require("del");
+const vinylPaths = require("vinyl-paths");
+
+// Create a new publisher using S3 options
+const publisher = awspublish.create({
+  region: "us-east-1", // Change to your AWS region
+  params: {
+    Bucket: "digitalgov", // Change to your bucket name
+  },
+  accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+  secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
+});
+
+const headers = {
+  "Cache-Control": "max-age=315360000, no-transform, public",
+  'x-amz-acl': 'public-read'
+}
 
 function uploadImage() {
-  console.log("starting image upload");
-
-  return src("content/uploads/_working-images/processed/*")
+  return gulp
+    .src("content/uploads/_working-images/processed/*")
+    .pipe(publisher.publish(headers))
     .pipe(
-      s3(
-        {
-          Bucket: "digitalgov",
-          ACL: "public-read",
-        },
-        {
-          maxRetries: 5,
-        }
-      )
+      awspublish.reporter({
+        states: ["create", "update", "delete"],
+      })
     )
-    .pipe(vinylPaths(del));
+    .pipe(vinylPaths(del))
+    .on("error", function (err) {
+      console.error("Image upload failed:", err);
+    });
 }
-
-/**
- * Uploads files in /to-process folder to s3 static file bucket
- * TODO: Refactor both functions into one
- */
 
 function uploadFile() {
-  console.log("starting file upload");
+  // renames file to /static/filename to upload to digitalgov/static directory
+  const staticRename = rename((path) => {
+    path.basename = `/static/${path.basename}`;
+  });
 
-  return src("content/uploads/_working-files/to-process/*")
+  return gulp
+    .src("content/uploads/_working-files/to-process/*")
+    .pipe(staticRename)
+    .pipe(publisher.publish(headers))
     .pipe(
-      s3(
-        {
-          Bucket: "digitalgov/static",
-          ACL: "public-read",
-        },
-        {
-          maxRetries: 5,
-        }
-      )
+      awspublish.reporter({
+        states: ["create", "update", "delete"],
+      })
     )
-    .pipe(vinylPaths(del));
+    .pipe(vinylPaths(del))
+    .on("error", function (err) {
+      console.error("File upload failed:", err);
+    });
 }
 
-/**
- * Deletes working directories after uploading is complete
- * @returns nothing
- */
 function cleanup() {
+  console.log("cleanup");
   return del([
-    "content/uploads/_working-images/**",
-    "content/uploads/_working-files/**",
+    "content/uploads/_working-images",
+    "content/uploads/_working-files",
   ]);
 }
 
-exports.do = series(uploadImage, uploadFile, cleanup);
+exports.do = gulp.series(uploadImage, uploadFile, cleanup);

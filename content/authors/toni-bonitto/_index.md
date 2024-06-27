@@ -2,6 +2,8 @@
 
 # Your author profile page lives at:
 # https://digital.gov/authors/toni-bonitto
+# For more information on managing your author page,
+# see https://workflow.digital.gov/authors
 
 display_name: "Toni Bonitto"
 first_name: "Toni"
@@ -9,7 +11,7 @@ last_name: "Bonitto"
 
 # Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
 # List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
-# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
+# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns.
 # Examples: they/them, she/her, or he/him
 pronoun: "She/her"
 
@@ -48,8 +50,5 @@ twitter: ""
 facebook: ""
 linkedin: ""
 YouTube: ""
-
-# For more information on managing your author page,
-# see https://workflow.digital.gov/authors
 
 ---
