@@ -19,13 +19,4 @@
   &__list-item {
     padding-bottom: units(1);
   }
-
-  &__link {
-    // allows first-letter psuedo element to target anchor tags
-    display: inline-block;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
 }
