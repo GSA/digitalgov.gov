@@ -116,7 +116,7 @@
     content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}"
   />
   <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}" />
-  {{ $baseURL := getenv "Site.BASEURL" }}
+  {{ $baseURL := getenv "BASEURL" }}
   <meta property="og:url" content="{{ $baseURL }}{{ .RelPermalink }}" />
 <script>
   console.log("{{ $baseURL }}{{ .RelPermalink }}");
