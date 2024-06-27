@@ -77,18 +77,18 @@ $communities-of-practice: (
   .usa-card {
     max-width: none !important;
 
-    // Make the first card wider for emphasis
-    &:first-child {
-      grid-column: 1 / 3;
+    // Make the first card wider for emphasis, commented out if needed in the future
+    // &:first-child {
+    //   grid-column: 1 / 3;
 
-      .usa-button--outline {
-        box-shadow: inset 0 0 0 2px map.get($communities-of-practice, "WCM");
-        color: map.get($communities-of-practice, "WCM");
-        &:hover {
-          color: #fff;
-        }
-      }
-    }
+    //   .usa-button--outline {
+    //     box-shadow: inset 0 0 0 2px map.get($communities-of-practice, "WCM");
+    //     color: map.get($communities-of-practice, "WCM");
+    //     &:hover {
+    //       color: #fff;
+    //     }
+    //   }
+    // }
   }
 
   .usa-card__media {
