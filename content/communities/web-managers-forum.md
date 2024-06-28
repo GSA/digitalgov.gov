@@ -15,9 +15,30 @@ aliases:
 # see all topics at https://digital.gov/topics
 topics:
   - analytics
-  - product-and-project-management
-  - user-experience
+  - accessibility
+  - communication
+  - customer-experience
   - content-strategy
+  - design
+  - plain-language
+  - product-and-project-management
+  - usability
+  - user-experience
+  - governance
+  - digital-service-delivery
+  - user-centered-design
+  - human-centered-design
+  - search-engine-optimization
+  - multimedia
+  - multilingual
+  - mobile
+  - policy
+  - information-architecture
+  - social-media
+  - privacy
+  - security
+
+
 # see all authors at https://digital.gov/authors
 authors:
   - toni-bonitto
