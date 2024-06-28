@@ -27,6 +27,11 @@ summary: "The 2021 President’s Management Agenda prioritizes enhancing federal
 topics:
   - user-centered-design
   - human-centered-design
+  - analytics
+  - customer-experience
+  - best-practices
+  - data-visualization
+  - governance
 slug: federal-customer-experience-omb-has-taken-actions-to-implement-cross-agency-priority-goals
 # Controls how this page appears across the site
 # 0 -- hidden
