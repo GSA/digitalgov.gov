@@ -28,6 +28,8 @@ event_cop:
 # 1 -- visible
 weight: 1
 
+is_job_board: true
+
 kicker: "Go to CoP Job Board"
 
 ---
