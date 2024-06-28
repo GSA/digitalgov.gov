@@ -1,8 +1,13 @@
 ---
 slug: contact-center
-date: 2024-05-26 16:36:00 -0500
+date: 2024-06-28 16:36:00 -0500
 title: Contact Center
 summary: "Explore methods of service delivery that improve customer experience in government contact centers."
+
+# Alias Redirects: Enter the paths of the old URLs that you want redirected to this page.
+aliases:
+  - /communities/government-contact-center-council-g3c/
+  - /communities/government-contact-center-council/
 
 # See all topics at https://digital.gov/topics
 topics:
