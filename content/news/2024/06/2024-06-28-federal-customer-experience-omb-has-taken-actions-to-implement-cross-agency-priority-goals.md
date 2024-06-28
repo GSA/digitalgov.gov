@@ -3,8 +3,8 @@
 source_url: https://www.gao.gov/products/gao-24-106632
 source: gao
 date: 2024-06-06
-title: Federal customer experience OMB has taken actions to implement
-  cross-agency priority goals
+title: "Federal customer experience: OMB has taken actions to implement
+  cross-agency priority goals"
 deck: "The 2021 President’s Management Agenda prioritizes enhancing federal
   customer experience, leading the Office of Management and Budget (OMB) to set
   two long-term goals: improving service experiences and key life events
