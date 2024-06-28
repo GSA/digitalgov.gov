@@ -51,7 +51,7 @@ And then we'll talk with Matthew Bogdan from Digital.gov to talk about his exper
 
 **Slide 4:** So let's get into it with site launches.
 
-**Slide 5:** First up, [fai.gov](https://fai.gov/) The Federal Acquisition Institute provides certification, training, and tools for federal acquisition professionals. The homepage features a large notification banner announcing the redesign and the familiar USWDS header.
+**Slide 5:** First up, [fai.gov](https://fai.gov/), the Federal Acquisition Institute provides certification, training, and tools for federal acquisition professionals. The homepage features a large notification banner announcing the redesign and the familiar USWDS header.
 
 **Slide 6:** Next, [The Wood’s Hole Aquarium Visitor Log](https://apps-nefsc.fisheries.noaa.gov/AVL). While we aren't Wood's Hole employees and we can't log in — here we see a USWDS-powered sign in to the visitor log at Wood's Hole aquarium, in Cape Cod, Massachusetts. Someone should stop by and sign in, and let us know how it goes.
 
