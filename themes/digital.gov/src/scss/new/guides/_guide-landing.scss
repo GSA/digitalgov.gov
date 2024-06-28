@@ -1,57 +1,14 @@
 @use "uswds-core" as *;
 
-.dg-guides {
-  padding-top: units(2);
-
-  @include at-media("tablet") {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  @include at-media("desktop") {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
 .dg-guides-card {
-  border: 2px color("base-lightest") solid;
-  border-radius: units(1);
-  display: grid;
-  margin: units(1);
-  padding: units(2);
-  position: relative;
-
   &__kicker {
     color: color("primary-dark");
     font-weight: font-weight(100);
     text-transform: uppercase;
   }
 
-  &__title {
-    margin: 0;
-  }
-
-  &__title a {
-    color: color("gray-90");
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  &__summary {
-    font-size: font-size("sans", "lg");
-  }
-
-  &__media {
-    align-self: end;
-    display: flex;
-    height: max-content;
-    justify-content: center;
-
-    @include at-media("desktop") {
-      margin-top: units(6);
-    }
+  .usa-card__img {
+    background: none;
+    height: 10rem;
   }
 }
