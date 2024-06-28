@@ -3,17 +3,20 @@
   {{ $communities := (where (where .Site.Pages "Section" "communities").ByTitle ".Params.weight" "ge" 1) }}
   {{ $other_communities := (where $communities ".Params.dg_highlight" "!=" true) }}
 
+
   <main class="grid-container-desktop" id="main-content">
     {{/* Digital.gov Communities of Practice */}}
     {{ partial "core/featured-communities.html" (dict "context" . "layout" "has-image") }}
 
     {{/* Communities of Practice Job Board */}}
-    <div class="page=head">
+    <div class="page-head">
       <h2>Communities of Practice Job Board</h2>
       <div class="deck">
-        Discover CoP and technology-related job openings in the government gathered by our CoP members.
+        Discover CoP and technology-related job openings in the government <br />
+        gathered by our CoP members.
       </div>
-      {{ partial "core/usa-button.html" (dict "href" "/communities/job-board" "text" "Go to Job Board")}}
+      <br>
+      {{ partial "core/usa-button.html" (dict "href" "/communities/job-board" "text" "Go to Job Board") }}
     </div>
 
     {{/* Other Communities of Practice */}}
