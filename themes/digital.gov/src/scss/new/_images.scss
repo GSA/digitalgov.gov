@@ -1,51 +1,74 @@
 @use "uswds-core" as *;
 
-// Images
 .image {
-  @include u-margin-top(2);
-  @include u-margin-bottom(4);
+  margin-bottom: units(4);
+  margin-top: units(2);
 
   // Captions
   p {
-    @include u-margin-top("1px");
-    @include u-padding-x("2px");
-    @include u-font("sans", "2xs");
-    @include u-line-height("sans", 3);
-    @include u-color("gray-cool-60");
-    @include u-text("light");
-    @include u-maxw("full");
+    color: color("gray-cool-60");
+    font-family: family("sans");
+    font-size: size("sans", "2xs");
+    font-weight: font-weight("light");
+    line-height: line-height("sans", 3);
+    margin-top: 1px;
+    max-width: 100%;
+    padding-left: units(2px);
+    padding-right: units(2px);
 
     span {
-      @include u-text("italic");
+      font-style: italic;
     }
   }
 }
 
 .image-right {
-  @include u-margin-top(1);
-  @include u-margin-bottom(3);
-  @include u-margin-left(3);
-  @include u-float("right");
-  @include u-width(15);
+  float: right;
+  margin-bottom: units(3);
+  margin-left: units(3);
+  margin-top: units(1);
+  width: units(15);
 
   @include at-media("tablet") {
-    @include u-width("card");
+    width: units("card");
   }
 }
 
-// Making the older, right-aligned images smaller on desktop because they were cut to smaller sizes back then...
 .image-right-legacy {
   @include at-media("tablet") {
-    @include u-width("card-lg");
+    width: units("card-lg");
   }
 }
 
 .image-left {
-  @include u-margin-y("205");
-  @include u-margin-top("205");
-  @include u-margin-right(2);
-  @include u-float("left");
-  @include u-width("card-lg");
+  float: left;
+  margin-bottom: units(5);
+  margin-right: units(2);
+  margin-top: units(5);
+  width: units("card-lg");
+}
+
+.image-center {
+  display: block;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    width: units("card-lg");
+  }
+}
+
+.image-inline {
+  display: inline-block;
+  margin: units(1);
+  text-align: center;
+  vertical-align: middle;
+
+  img {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+  }
 }
 
 img[alt] {
