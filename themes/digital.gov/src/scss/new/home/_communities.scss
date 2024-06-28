@@ -26,7 +26,6 @@ $communities-of-practice: (
   "UX": color("mint-cool-50"),
   "WAO": color("orange-60"),
   "WCM": color("indigo-60v"),
-  "JB" : color("indigo-60v")
 );
 
 @each $community, $color in $communities-of-practice {
@@ -78,17 +77,17 @@ $communities-of-practice: (
     max-width: none !important;
 
     // Make the first card wider for emphasis
-    // &:first-child {
-    //   grid-column: 1 / 3;
+    &:first-child {
+      grid-column: 1 / 3;
 
-    //   .usa-button--outline {
-    //     box-shadow: inset 0 0 0 2px map.get($communities-of-practice, "WCM");
-    //     color: map.get($communities-of-practice, "WCM");
-    //     &:hover {
-    //       color: #fff;
-    //     }
-    //   }
-    // }
+      .usa-button--outline {
+        box-shadow: inset 0 0 0 2px map.get($communities-of-practice, "WCM");
+        color: map.get($communities-of-practice, "WCM");
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
   }
 
   .usa-card__media {
