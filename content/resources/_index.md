@@ -6,6 +6,7 @@ summary: "Essential ‘how-to’ guidance from across government product manager
 aliases:
   - /tools/
   - /pages/
+  - /about/lost-and-found-mapping-page/
   - /coronavirus/
   - /resources/coronavirus-covid19-guidance-for-us-government/
   - /hawaii-wildfires/
