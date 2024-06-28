@@ -6,8 +6,8 @@ summary: "Explore methods of service delivery that improve customer experience i
 
 # Alias Redirects: Enter the paths of the old URLs that you want redirected to this page.
 aliases:
-  - /government-contact-center-council-g3c/
-  - /government-contact-center-council/
+  - /communities/government-contact-center-council-g3c/
+  - /communities/government-contact-center-council/
 
 # See all topics at https://digital.gov/topics
 topics:
