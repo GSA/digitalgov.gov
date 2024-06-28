@@ -4,10 +4,10 @@
 
 slug: government-contact-center-council
 date: 2013-11-21 3:28:02 -0400
-title: 'Government Contact Center Council (G3C)'
-summary: 'The Government Contact Center Council (G3C) Community of Practice (CoP) consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience.'
-redirectto: https://coe.gsa.gov/communities/contact-center.html
-# Redirects: enter the path of the URL that you want redirected to this page
+title: "Government Contact Center Council (G3C)"
+summary: "The Government Contact Center Council (G3C) Community of Practice (CoP) consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience."
+
+# Alias Redirects: Enter the paths of the old URLs that you want redirected to this page.
 aliases:
   - /government-contact-center-council-g3c/
 
