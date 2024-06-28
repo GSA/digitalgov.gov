@@ -20,10 +20,10 @@
 {{/* If there are community pages... */}}
 {{- with $communities -}}
   <article class="dg-promos dg-related-communities">
-    <h3 class="dg-promos__heading">Join a Community</h3>
+    <h3 class="dg-promos__heading">Related Communities</h3>
 
     <ul class="dg-promos__list">
-      {{- range $communities -}}
+      {{- range $communities -}}  
         <li class="promo dg-promos__list-item">
           <a
             href="{{ .Permalink }}?promo"

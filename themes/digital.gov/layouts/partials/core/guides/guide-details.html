@@ -1,0 +1,19 @@
+
+<div class="dg-guide__header-title">
+    {{ if .landingURL }}
+      <a class="usa-link kicker" href="{{ .landingURL | relURL }}">
+        {{- .kicker -}}
+      </a>
+    {{ else }}
+      <p class="kicker">{{- .kicker -}}</p>
+    {{ end }}
+  
+    <h1>{{- .title | markdownify -}}</h1>
+    
+    {{ if .summary }}
+      <div class="deck">
+        {{- .summary | markdownify -}}
+      </div>
+    {{ end }}
+  </div>
+  
