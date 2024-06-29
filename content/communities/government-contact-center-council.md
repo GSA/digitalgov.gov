@@ -6,7 +6,6 @@ expirydate: "2022-04-29"
 
 slug: government-contact-center-council
 date: 2013-11-21 3:28:02 -0400
-
 title: "Government Contact Center Council (G3C)"
 summary: "The Government Contact Center Council (G3C) Community of Practice (CoP) consists of contact center leaders from agencies in all levels of government focused on delivering exceptional customer experience."
 
