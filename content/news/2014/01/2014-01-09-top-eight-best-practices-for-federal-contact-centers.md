@@ -68,7 +68,7 @@ topics:
 
 ## 8. Stay Current with the Latest Research and Best Practices
 
-  * Attend training through courses, workshops, webcasts, and [webinars]({{< ref "/communities/government-contact-center-council.md" >}} "Government Contact Center Council - G3C") to gain knowledge about latest information, methods, policies, and best practices.
+  * Attend training through courses, workshops, webcasts, and [webinars](https://digital.gov/communities/government-contact-center-council/) to gain knowledge about latest information, methods, policies, and best practices.
   * Review industry reports:
       * [2011 Federal Contact Center Survey Final Report](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/2011-federal-contact-center-survey-final-report.pdf)  (PDF, 1.49 MB, 54 pages, September 2011)
       *  [An Analysis of the Feasibility of Employing Home-Based Agents in Economically Depressed Rural Areas to Staff Federal Contact Centers](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/G3C-Analysis-of-Employing-Home-Based-Agents.doc) (Word document, 115 KB, 20 pages, October 2009)
