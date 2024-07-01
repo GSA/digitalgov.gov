@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-deck: "When you have a requirement to meet or an improvement to introduce to your team, but you don’t know where to start &mdash; start here. We have resources at every level. Explore the topics below so you can meet the requirements of web legislation."
+deck: "Don't know where to start with a federal requirement? Aren't sure how to adopt a new technology with your team? Start here! We have resources for every level. Our collections are organized by popular topics, and they will help you meet the requirements of federal web legislation."
 summary: "Essential how-to guidance for government product managers and digital teams."
 
 aliases:
