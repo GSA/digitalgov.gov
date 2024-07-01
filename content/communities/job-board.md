@@ -33,37 +33,9 @@ is_job_board: true
 kicker: "Go to CoP Job Board"
 
 ---
-
-##Job Openings
-
+## Job Openings
 Our job board consists of positions that members of our CoPs would like to advertise. Please note that this is not a comprehensive list of CoP or technology-related job openings.
 
-<table class="usa-table usa-table--striped">
-  <thead>
-    <tr>
-      <th scope="col">Title</th>
-      <th scope="col">Department</th>
-      <th scope="col">Description</th>
-      <th scope="col">Open</th>
-      <th scope="col">Close</th>
-      <th scope="col">Apply</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row"> Public Affairs Specialist</th>
-      <td scope="row">  U.S. International Development Finance Corporation (DFC)</td>
-      <th scope="row"> It's a role that blends strategy, communication, and media savvy to help elevate the impactful work we're doing.</th>
-      <th scope="row">6/25/24</th>
-      <th scope="row">7/1/24</th>
-      <th scope="row"><a href="https://www.usajobs.gov/job/797053700" target="__blank">Apply</a>
-    </tr>
-    <tr>
-      <th scope="row"> Public Affairs Specialist</th>
-      <td scope="row">  U.S. International Development Finance Corporation (DFC)</td>
-      <th scope="row"> It's a role that blends strategy, communication, and media savvy to help elevate the impactful work we're doing.</th>
-      <th scope="row">6/25/24</th>
-      <th scope="row">7/1/24</th>
-      <th scope="row"><a href="https://www.usajobs.gov/job/797053700" target="__blank">Apply</a>
-    </tr>
-</table>
+{{< job-board >}}
+
+
