@@ -1,31 +1,36 @@
-{{/* Communities of Practice Job Board Shortcode*/}}
-{{/* Custom html formatting on communities job board page, connects to job-board.md*/}}
-{{/* Job posting information comes from job_board.yml*/}}
+{{/* <!-- prettier-ignore -->
+    Communities of Practice Job Board Shortcode
+    Formats job posting information from "job-board.yml" into a table, as seen on Communities of Practice Job Board "job-board.md"
+    Add new job posting on "job-board.yml" to display in job posting table.
+    No params needed
+    
+    <!-- prettier-ignore -->
+    @example
+    {{< job-board >}}
+  */}}
+  
 
 <table class="usa-table usa-table--striped">
-    <thead>
-        <tr>
-            <th scope="col">Title</th>
-            <th scope="col">Department</th>
-            <th scope="col">Description</th>
-            <th scope="col">Open Date</th>
-            <th scope="col">Close Date</th>
-            <th scope="col">Apply</th>
-        </tr>
-    </thead>
-    <tbody>
+  <thead>
+    <tr>
+      <th scope="col">Title</th>
+      <th scope="col">Department</th>
+      <th scope="col">Description</th>
+      <th scope="col">Open Date</th>
+      <th scope="col">Close Date</th>
+      <th scope="col">Apply</th>
+    </tr>
+  </thead>
+  <tbody>
     {{ range .Site.Data.job_board }}
-        <tr>
-            <th scope="row">{{ .title }}</th>
-            <th scope="row">{{ .department }}</th>
-            <th scope="row">{{ .description }}</th>
-            <th scope="row">{{ .open_date }}</th>
-            <th scope="row">{{ .close_date }}</th>
-            <th scope="row">{{ .apply_link }}</th>
-        </tr>
+      <tr>
+        <th scope="row">{{ .title }}</th>
+        <th scope="row">{{ .department }}</th>
+        <th scope="row">{{ .description }}</th>
+        <th scope="row">{{ .open_date }}</th>
+        <th scope="row">{{ .close_date }}</th>
+        <th scope="row">{{ .apply_link }}</th>
+      </tr>
     {{ end }}
-    </tbody>    
+  </tbody>
 </table>
-
-
-
