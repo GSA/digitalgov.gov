@@ -15,9 +15,9 @@ Top tasks matter. Visitors come to your website with specific goals in mind. Usi
 
 Our government websites also have a large range of tiny tasks that, when managed carefully, have the potential to deliver value.
 
-In [_The Stranger&#8217;s Long Neck,_](http://www.gerrymcgovern.com/first-chapter/26/books/strangers-long-neck) Gerry McGovern explains how, when visitors come to your website, they have a small set of top tasks they want to complete quickly and easily. He calls these tasks the “long neck.” They’re also sometimes referred to as the “short head.”
+In [The Stranger's Long Neck,](http://www.gerrymcgovern.com/first-chapter/26/books/strangers-long-neck) Gerry McGovern explains how, when visitors come to your website, they have a small set of top tasks they want to complete quickly and easily. He calls these tasks the “long neck.” They’re also sometimes referred to as the “short head.”
 
-{{< legacy-img src="2015/02/450-x-254-DG-Search-long-neck\_body\_tail-graph-from-Gerry-McGovern-The-Strangers-Long-Neck.jpg" alt="Graph showing long neck, body, and tail; from Gerry McGovern's The Strangers' Long Neck" >}}
+{{< legacy-img src="2015/02/450-x-254-DG-Search-long-neck_body_tail-graph-from-Gerry-McGovern-The-Strangers-Long-Neck.jpg" alt="Graph showing long neck, body, and tail; from Gerry McGovern's The Strangers' Long Neck" >}}
 
 According to McGovern, the breakdown is:
 
