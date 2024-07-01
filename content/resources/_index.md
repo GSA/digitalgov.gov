@@ -1,19 +1,20 @@
 ---
 title: "Resources"
-deck: "When you have a requirement to meet or an improvement to introduce to your team or product, but you don’t know where to start: start here. We have resources at every level available by collection so you can explore how to meet the requirements of web legislation."
-summary: "Essential ‘how-to’ guidance from across government product managers in government."
+deck: "When you have a requirement to meet or an improvement to introduce to your team, but you don’t know where to start &mdash; start here. We have resources at every level. Explore the topics below so you can meet the requirements of web legislation."
+summary: "Essential how-to guidance for government product managers and digital teams."
 
 aliases:
-  - /topics/
-  - /tools/
-  - /pages/
   - /about/lost-and-found-mapping-page/
+  - /pages/
+  - /hurricane-ian/
+  - /resources/hurricane-ian-guidance-for-us-government/
   - /coronavirus/
   - /resources/coronavirus-covid19-guidance-for-us-government/
   - /hawaii-wildfires/
   - /resources/hawaii-wildfires-guidance-for-us-government/
   - /hurricane-idalia/
   - /resources/hurricane-idalia-guidance-for-us-government/
+  - /topics/
   - /topics/consumer-action-handbook/
   - /topics/fact-sheet/
   - /topics/federal-register/
@@ -21,7 +22,6 @@ aliases:
   - /topics/gpo/
   - /topics/pbs/
   - /topics/public-buildings-service/
-
 
 # Displays the resource category topics as links — see https://digital.gov/resources/
 # Adding a topic will display in the order provided in the list below
@@ -83,7 +83,6 @@ resource_topics:
     - robotic-process-automation
     - security
     - software-engineering
-
 
 ---
 
