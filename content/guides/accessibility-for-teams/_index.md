@@ -1,6 +1,6 @@
 ---
 date: 2017-02-01 09:00:00 -0500
-title: "Accessibility for Teams"
+title: "Accessibility for teams"
 deck: "A ‘quick-start’ guide for embedding accessibility and inclusive design practices into your team’s workflow"
 summary: "A ‘quick-start’ guide for embedding accessibility and inclusive design practices into your team’s workflow"
 guide: accessibility-for-teams
@@ -19,6 +19,7 @@ topics:
   - usability
   - research
 layout: single
+guide_weight: 4
 ---
 
 Everyone who works on government websites has a role to play in making federal resources accessible and inclusive.

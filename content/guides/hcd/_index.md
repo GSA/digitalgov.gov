@@ -22,7 +22,7 @@ topics:
 # 1 -- visible
 # 2 -- highlighted
 weight: 2
-
+guide_weight: 2
 ---
 
 # Welcome!

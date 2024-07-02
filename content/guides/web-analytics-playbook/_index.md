@@ -2,12 +2,13 @@
 date: 2020-09-15 09:00:00 -0500
 title: "Web analytics playbook"
 deck: "Use web analytics to reach your strategic website goals"
-summary: "Use these plays to reach your strategic website goals."
+summary: "This guide provides actionable strategies for effectively using web analytics to improve federal websites and digital services."
 guide: web-analytics-playbook
 aliases:
 image: guide-web-analytics-playbook
 primary_image: guide-web-analytics-playbook
 layout: single
+guide_weight: 1
 ---
 
 Federal websites vary greatly in content and purpose, but they all share a common objective: to deliver information or services to the public in an efficient, easy, and accessible way.

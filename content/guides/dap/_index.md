@@ -1,8 +1,8 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Guide to the Digital Analytics Program"
-deck: "Understand how and why to use DAP"
-summary: "The Digital Analytics Program (DAP) provides advanced, easy-to-use web analytics for all federal agencies."
+title: "Understanding the Digital Analytics Program"
+deck: "A free analytics tool for measuring digital services in the federal government"
+summary: "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies."
 guide: dap
 
 topics:
@@ -27,6 +27,7 @@ image: guide-dap
 primary_image: guide-dap
 
 weight: 1
+guide_weight: 5
 layout: single
 
 ---

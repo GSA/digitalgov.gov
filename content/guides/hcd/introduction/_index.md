@@ -16,4 +16,4 @@ Human-centered design (HCD) is a qualitative research method that helps groups s
 
 HCD involves four phases of sequential work: **discovery, design, delivery,** and **measurement**. HCD is also cyclical. Once a design solution is launched, you should measure its effectiveness against initial and intended aims, and continually tweak it to improve the solution over time. HCD recognizes that people and their needs are dynamic and changing, and so solutions must also adapt to changing needs.
 
-{{< img src=hcd-guide-intro-1 >}}
+{{< img src="hcd-guide-intro-1" >}}
