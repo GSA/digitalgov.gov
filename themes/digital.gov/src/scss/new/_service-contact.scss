@@ -7,7 +7,6 @@
   @include u-line-height("sans", 3);
   @include u-bg("white");
   @include u-border-bottom("1px", "gray-cool-10", "solid");
-  @include u-bg("white");
 
   @include at-media("tablet") {
     @include u-padding-y("105");
@@ -17,6 +16,7 @@
   .copy {
     @include u-display("flex");
     @include u-flex("align-start");
+    @include u-overflow("hidden");
 
     p {
       @include u-margin-top(0);

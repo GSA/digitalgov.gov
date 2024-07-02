@@ -2,10 +2,6 @@
 
 .services-contacts {
   @include u-bg("blue-warm-5");
-
-  header {
-    @include u-margin-bottom(5);
-  }
 }
 
 .service-contact-heading {
@@ -14,4 +10,8 @@
   @include at-media("tablet") {
     @include u-display("block");
   }
+}
+
+.directory {
+  @include u-padding-bottom(10);
 }
