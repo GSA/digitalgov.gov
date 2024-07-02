@@ -23,7 +23,7 @@
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
 {{- $thisimg := index $.Site.Data.images $thisuid -}}
 {{- $imgBase := $thisimg.uid -}}
-{{- $imgExt := $thisimg.format  -}}
+{{- $imgExt := $thisimg.format -}}
 {{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
 {{- $imgWidth := $thisimg.width -}}
 {{- $imgHeight := $thisimg.height -}}
@@ -40,6 +40,7 @@
 {{ if eq $inline "true" }}
   {{ $imageClasses = $imageClasses | append "image-inline" }}
 {{ end }}
+
 
 <div class="{{ delimit $imageClasses " " }}">
   {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
