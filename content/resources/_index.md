@@ -1,17 +1,20 @@
 ---
-title: "Guides and Resources"
-deck: ":evergreen_tree: Essential ‘how-to’ guidance for product managers in government."
-summary: "Essential ‘how-to’ guidance from across government product managers in government."
+title: "Resources"
+deck: "Don't know where to start with a federal requirement? Aren't sure how to adopt a new technology with your team? Start here! We have resources for every level. Our collections are organized by popular topics, and they will help you meet the requirements of federal web legislation."
+summary: "Essential how-to guidance for government product managers and digital teams."
 
 aliases:
-  - /tools/
+  - /about/lost-and-found-mapping-page/
   - /pages/
+  - /hurricane-ian/
+  - /resources/hurricane-ian-guidance-for-us-government/
   - /coronavirus/
   - /resources/coronavirus-covid19-guidance-for-us-government/
   - /hawaii-wildfires/
   - /resources/hawaii-wildfires-guidance-for-us-government/
   - /hurricane-idalia/
   - /resources/hurricane-idalia-guidance-for-us-government/
+  - /topics/
   - /topics/consumer-action-handbook/
   - /topics/fact-sheet/
   - /topics/federal-register/
@@ -19,6 +22,67 @@ aliases:
   - /topics/gpo/
   - /topics/pbs/
   - /topics/public-buildings-service/
+
+# Displays the resource category topics as links — see https://digital.gov/resources/
+# Adding a topic will display in the order provided in the list below
+# Use lowercase spelling and kebab casing for each topic (i.e. content-strategy instead of content strategy)
+resource_topics:
+  content_and_communications:
+    - communication
+    - content-strategy
+    - multilingual
+    - multimedia
+    - plain-language
+    - podcast
+    - social-media
+    - trust
+  data_and_analysis:
+    - analytics
+    - crowdsourcing-and-citizen-science
+    - data-visualization
+    - information-collection
+    - open-data
+    - open-government
+    - research
+    - search
+    - search-engine-optimization
+  design:
+    - accessibility
+    - customer-experience
+    - design
+    - digital-service-delivery
+    - human-centered-design
+    - information-architecture
+    - usability
+    - user-centered-design
+    - user-experience
+  operations:
+    - acquisition
+    - budgeting-and-performance
+    - contact-centers
+    - product-and-project-management
+    - privacy
+    - records-management
+    - terms-of-service
+  strategic_development:
+    - best-practices
+    - challenges-and-prize-competitions
+    - diversity-equity-and-inclusion
+    - governance
+    - innovation
+    - policy
+    - professional-development
+  technology:
+    - application-programming-interface
+    - artificial-intelligence
+    - cloud-and-infrastructure
+    - domain-management
+    - emerging-tech
+    - mobile
+    - open-source
+    - robotic-process-automation
+    - security
+    - software-engineering
 
 ---
 
