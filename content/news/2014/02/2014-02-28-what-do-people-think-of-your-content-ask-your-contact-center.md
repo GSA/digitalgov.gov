@@ -43,6 +43,6 @@ Talk to your agency’s contact center manager and agents to learn more!
 
 So let’s make sure we’re using all the information from our customers—Web data and contact center data. Talk to your contact center manager to learn how you can ensure you’re delivering an awesome customer experience! Partner with your contact center team—they are an integral channel in your agency’s digital environment.
 
-Interested in interacting with other contact center managers and directors across government? [Join the Government Contact Center Council]({{< ref "/communities/government-contact-center-council.md" >}}) (G3C).
+Interested in interacting with other contact center managers and directors across government? [Join the Government Contact Center Council](https://digital.gov/communities/government-contact-center-council/) (G3C).
 
 Not sure how to get in touch with your agency&#8217;s contact center manager? Contact [Tonya Beres](mailto:tonya.beres@gsa.gov), the Co-Chair of the G3C, who may be able to assist you.
