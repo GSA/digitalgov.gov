@@ -120,20 +120,34 @@ async function processImageVariants(image) {
  * Read image(s) in the upload directory
  */
 async function processImages() {
-  fs.readdir(`${processImagesDirectory}`, (err, images) => {
-    // images.length returns undefined when no images exist
-    if (images === undefined) {
-      console.error("No images to process");
-    }
-    if (!err) {
-      images.forEach((image) => {
+  return new Promise((resolve, reject) => {
+    fs.readdir(`${processImagesDirectory}`, async (err, images) => {
+      if (images === undefined) { 
+        resolve();
+        return;
+      }
+      if (err) {
+        console.error(`Error reading directory: ${err.message}`);
+        reject(err);
+        return;
+      }
+
+      const processingPromises = images.map((image) => {
         const imageToProcess = getImageDetails(image);
-        processImageOriginal(imageToProcess);
-        processImageVariants(imageToProcess);
+        return Promise.all([
+          processImageOriginal(imageToProcess),
+          processImageVariants(imageToProcess)
+        ]);
       });
-    } else {
-      console.error(`Error processing file: [${images}]. ${err.message}`);
-    }
+
+      try {
+        await Promise.all(processingPromises);
+        resolve();
+      } catch (err) {
+        console.error(`Error processing images: ${err.message}`);
+        reject(err);
+      }
+    });
   });
 }
 
@@ -141,8 +155,17 @@ async function processImages() {
  * Removes the /to-process temporary working folder after variants are created
  */
 function removeProcessedImage() {
-  console.log("Removing processed images");
-  return del([`content/uploads/_working-images/to-process/*}`]);
+return new Promise((resolve, reject) => {
+  const imageDir = "content/uploads/_working-images/processed";
+ 
+  if (fs.existsSync(imageDir) && fs.readdirSync(imageDir).length > 0) {
+    return del([
+      "content/uploads/_working-images/to-process",
+    ]).then(() => resolve()).catch((err) => reject(err));
+  } else {
+    resolve();
+    }
+  });
 }
 
 exports.do = series(processImages, removeProcessedImage);
