@@ -105,12 +105,7 @@
             {{- end -}}
 
             {{ if .Params.authors }}
-              {{ $authors := where .Site.Pages "Section" "authors" }}
-              {{ $authorData := slice }}
-              {{ range $authorName := .Params.authors }}
-                {{ $authorData = $authorData | append ( where $authors ".Params.slug" "eq" . ) }}
-              {{ end }}
-              {{ partial "core/authors_list.html" (dict "data" $authorData) }}
+              {{ partial "core/authors_list.html" (dict "scope" . "isInline" true) }}
             {{ end }}
 
           </div>

@@ -9,11 +9,6 @@
   {{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
   {{- $event_description := (print $event_desc $event_url) -}}
   {{- $event_location := .Params.venue.venue_name -}}
-  {{- $authors := where $.Site.Pages "Section" "authors" -}}
-  {{- $authorData := slice -}}
-  {{- range $authorName := .Params.authors -}}
-    {{- $authorData = $authorData | append ( where $authors ".Params.slug" "eq" . ) -}}
-  {{- end -}}
 
 
   <main role="main" id="main-content" class="event">
@@ -153,7 +148,7 @@
               {{/* Authors */}}
               {{- if .Params.authors -}}
                 <h4>In this talk</h4>
-                {{- partial "core/authors_list.html" (dict "data" $authorData "isStacked" true) -}}
+                {{- partial "core/authors_list.html" (dict "scope" .) -}}
               {{- end -}}
 
               {{- if eq .Params.event_platform "youtube_live" -}}

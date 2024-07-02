@@ -1,11 +1,6 @@
 {{ $now := now.Format "2006-01-02" }}
 {{ $eventDate := .Date.Format "2006-01-02" }}
 {{ $isPastEvent := cond (lt $eventDate $now) true false }}
-{{ $authors := where $.Site.Pages "Section" "authors" }}
-{{ $authorData := slice }}
-{{ range $authorName := .Params.authors }}
-  {{ $authorData = $authorData | append ( where $authors ".Params.slug" "eq" . ) }}
-{{ end }}
 
 
 <article
@@ -57,7 +52,7 @@
       {{- end -}}
 
       {{ if $isPastEvent }}
-        {{- partial "core/authors_list.html" (dict "data" $authorData) -}}
+        {{- partial "core/authors_list.html" (dict "scope" . "isInline" true) -}}
       {{ end }}
     </div>
   </div>

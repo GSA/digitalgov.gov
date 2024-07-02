@@ -1,11 +1,4 @@
 {{- define "content" -}}
-  {{ $authors := where $.Site.Pages "Section" "authors" }}
-  {{ $authorData := slice }}
-  {{ range $authorName := .Params.authors }}
-    {{ $authorData = $authorData | append ( where $authors ".Params.slug" "eq" . ) }}
-  {{ end }}
-
-
   <main role="main" id="main-content">
     {{ partial "core/blog-date-warning.html" . }}
     <article
@@ -57,7 +50,7 @@
 
             <div class="dg-sidebar grid-col-12 tablet-lg:grid-col-3">
               {{/* Authors */}}
-              {{- partial "core/authors_list.html" (dict "data" $authorData "isStacked" true) -}}
+              {{- partial "core/authors_list.html" (dict "scope" .) }}
 
 
               <div class="meta">

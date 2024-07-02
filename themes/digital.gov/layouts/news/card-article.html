@@ -1,10 +1,5 @@
 {{/* Unique ID to link article to its title in screen readers */}}
 {{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
-{{ $authors := where $.Site.Pages "Section" "authors" }}
-{{ $authorData := slice }}
-{{ range $authorName := .Params.authors }}
-  {{ $authorData = $authorData | append ( where $authors ".Params.slug" "eq" . ) }}
-{{ end }}
 
 
 <article
@@ -26,7 +21,7 @@
       <div class="deck">{{ .Params.deck | markdownify }}</div>
     {{- end -}}
 
-    {{- partial "core/authors_list.html" (dict "data" $authorData) -}}
+    {{- partial "core/authors_list.html" (dict "scope" . "isInline" true) -}}
   </div>
 
   <div class="card__media">
