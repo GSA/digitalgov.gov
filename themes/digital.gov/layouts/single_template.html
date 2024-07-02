@@ -1,0 +1,35 @@
+{{- define "content" -}}
+<main role="main" id="main-content">
+  <article class="grid-container-desktop">
+    {{- partial "partials/core/usa-breadcrumbs.html". -}}
+    <header>
+      <div>
+        {{/* Optional Kicker */}}
+        {{- if.Params.kicker -}}
+          <p class="kicker">{{-.Params.kicker -}}</p>
+        {{- end -}}
+
+        {{/* Page Title */}}
+        <h1>{{-.Title | markdownify -}}</h1>
+
+        {{/* Optional Deck */}}
+        {{- if.Params.deck -}}
+          <div class="deck">{{-.Params.deck | markdownify -}}</div>
+        {{- end -}}
+      </div>
+    </header>
+
+    <div class="usa-in-page-nav-container">
+      <aside class="usa-in-page-nav" data-title-heading-level="h3" data-root-margin="-350px 0px -350px 0px"></aside>
+      <div>
+        {{/* Main Content */}}
+        <div class="content usa-prose">
+          {{-.Content -}}
+        </div>
+
+        {{/* Section Specific Components */}}
+        <!-- Include components specific to Resources, Communities, Services here -->
+      </div>
+    </article>
+</main>
+{{- end -}}
