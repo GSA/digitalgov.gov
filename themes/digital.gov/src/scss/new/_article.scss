@@ -58,14 +58,6 @@ article {
   @include u-margin-bottom(5);
 
   header {
-    .authors-list-short {
-      @include u-display("flex");
-
-      @include at-media("tablet-lg") {
-        @include u-display("none");
-      }
-    }
-
     .meta {
       @include at-media("tablet-lg") {
         @include u-display("none");
