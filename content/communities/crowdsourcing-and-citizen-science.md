@@ -4,6 +4,7 @@
 
 slug: crowdsourcing-citizen-science
 date: 2015-09-29 2:17:00 -0500
+kicker: "Join the Crowdsourcing and Citizen Science Community"
 title: "Crowdsourcing and Citizen Science"
 deck: ""
 summary: "We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives."
