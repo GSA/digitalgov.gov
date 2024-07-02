@@ -15,7 +15,7 @@ On the web, people are in a hurry. They skim and scan, looking for fast answers 
 
 Help your readers complete their tasks with these Plain Language writing tips:
 
-<table class="resources__plain-language-table" style="width: 100%" border="1">
+<table style="width: 100%" border="1">
   <tr>
     <td><strong>Audience</strong></td><td>Write for your reader. Don&#8217;t write for the experts, the lawyers, or your management, unless they are your intended audience.</td>
   </tr>

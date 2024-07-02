@@ -1,154 +1,62 @@
 {{- define "content" -}}
-  <main id="main-content" class="main-resources">
-    <article>
-      <div class="page-head page-head-{{- .Type -}}">
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row">
-            <div class="grid-col-12">
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}}</h1>
+  {{/* ==========
+    Store each resource category topics list from the front matter in resources/_index.md
+  */}}
+  {{ $design_topics := .Params.resource_topics.design }}
+  {{ $data_analysis_topics := .Params.resource_topics.data_and_analysis }}
+  {{ $operations_topics := .Params.resource_topics.operations }}
+  {{ $content_communications_topics := .Params.resource_topics.content_and_communications }}
+  {{ $technology_topics := .Params.resource_topics.technology }}
+  {{ $strategic_development_topics := .Params.resource_topics.strategic_development }}
 
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-                <div class="deck">
-                  {{- .Params.deck | markdownify | emojify -}}
-                </div>
-              {{- end -}}
 
-              {{/* {{ partial "last-updated.html" . }} */}}
-            </div>
-          </div>
+  <main role="main" id="main-content">
+    <section class="grid-container-desktop">
+      <header class="page-head padding-bottom-0">
+        <h1>{{ .Title }}</h1>
+        <p>
+          {{ .Params.deck }}
+        </p>
+      </header>
+
+      <div class="dg-resource-topics margin-bottom-8">
+        <h2 class="margin-top-0">Browse by topic</h2>
+        <div class="dg-resource-topics-grid">
+          {{ template "topics-list" (dict "title" "Design" "data" $design_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Data & analysis" "data" $data_analysis_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Operations" "data" $operations_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Content & communication" "data" $content_communications_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Technology" "data" $technology_topics "scope" .) }}
+          {{ template "topics-list" (dict "title" "Strategic development" "data" $strategic_development_topics "scope" .) }}
         </div>
       </div>
-
-      {{/* Popular Resources */}}
-      <section class="usa-section" id="resources_featured">
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row">
-            <div class="grid-col-12 tablet-lg:grid-col-10">
-              {{/* Get all of the resources */}}
-              {{- $resources := (where .Site.Pages.ByTitle "Section" "resources") -}}
-
-              {{/* Get only the pages that are greater than or equal to 3 */}}
-              {{- $resourcesfeatured := (where $resources ".Params.weight" "ge" 3 ) -}}
-
-              {{/* Sort all of the resources by weight */}}
-              {{- $resourcesfeatured := (sort $resourcesfeatured "Weight" "desc" ) -}}
-
-              {{/* Pass $resourcesfeatured to the collection template */}}
-              {{- partial "core/featured-collection.html" (dict "list" $resourcesfeatured "heading" "Popular Guides and Resources") -}}
-
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {{/* Resources Listed by Topic */}}
-      {{- $page := .Page -}}
-      <section class="usa-section resources-by-topic">
-        <div class="grid-container grid-container-desktop">
-          <h2>All Resources by Topic</h2>
-
-          <div class="grid-row grid-gap-4">
-            <div class="grid-col-12 tablet:grid-col-9">
-              {{/* Gets all the pages in the /topics directory */}}
-              {{- with ($.Site.GetPage (printf "/%s" "topics")) -}}
-                {{/* Get only the pages that are greater than or equal to 2 */}}
-                {{- $topics_featured := (where .Pages ".Params.weight" "ge" 2 ) -}}
-
-                {{/* Loop through all the topics... */}}
-                {{ range $name, $taxonomy := $topics_featured }}
-
-                  {{/* Get all resource pages with this current taxonomy */}}
-                  {{- $resources_by_topic := (where .Pages "Section" "resources") -}}
-                  {{- $resources_by_topic = (sort $resources_by_topic "Weight" "desc") -}}
-
-                  {{/* If there are resources... */}}
-                  {{- if $resources_by_topic -}}
-                    {{ $header_id := path.Base .RelPermalink }}
-                    {{ $footer := ( dict "title" (printf "More on %s" .Title) "href" .Permalink ) }}
-                    {{ $settings := (dict "length" 10 "header_title" .Title "header_link" .Permalink "header_size" 3 "header_id" $header_id "variant" "media" "list_header" 4 "footer" $footer) }}
-                    {{- partial "partials/core/collection/collection.html" (dict "collection_data" $resources_by_topic "settings" $settings) -}}
-                  {{- end -}}
-                {{ end }}
-              {{ end }}
-            </div>
-
-            <div class="grid-col-12 tablet:grid-col-3 tablet:order-first">
-              <nav class="toc" aria-label="Resources by topic">
-                <ul>
-                  {{/* Gets all the pages in the /topics directory */}}
-                  {{- with ($.Site.GetPage (printf "/%s" "topics")) -}}
-                    {{/* Get only the pages that are greater than or equal to 2 */}}
-                    {{- $topics_featured := (where .Pages ".Params.weight" "ge" 2 ) -}}
-
-                    {{/* Loop through all the topics... */}}
-                    {{ range $name, $taxonomy := $topics_featured }}
-
-                      {{/* Get all resource pages with this current taxonomy */}}
-                      {{- $resources_by_topic := (where .Pages "Section" "resources") -}}
-                      {{- if $resources_by_topic -}}
-                        {{- $slug := .RelPermalink -}}
-                        <li>
-                          <a href="#{{- path.Base .RelPermalink -}}">
-                            <span>{{- .Title -}}</span>
-                          </a>
-                        </li>
-                      {{- end -}}
-                    {{- end -}}
-                  {{- end -}}
-
-                </ul>
-              </nav>
-              <p>
-                <a href="{{- "topics" | relURL -}}" class="dg-more-link">
-                  <span>See all topics</span>
-                  <svg
-                    class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
-                    aria-hidden="true"
-                    focusable="false"
-                  >
-                    <use
-                      xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
-                    ></use>
-                  </svg>
-                </a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="grid-container grid-container-desktop">
-        <h2>Resources by Topic</h2>
-
-        <div class="grid-row tablet:grid-gap-2">
-          {{- $top_topics := $.Site.Taxonomies.topics -}}
-          {{- range $name, $taxonomy := $top_topics -}}
-            {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-              {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-                <div class="grid-col-12 tablet:grid-col-4">
-                  {{ partial "core/topics-button" (dict "link" .Permalink "title" .Title) }}
-                </div>
-              {{- end -}}
-            {{- end -}}
-          {{- end -}}
-        </div>
-        <div>
-          <a href="{{ "topics" | relURL }}" class="dg-more-link__label">
-            <span>See all topics</span>
-            <svg
-              class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
-              aria-hidden="true"
-              focusable="false"
-            >
-              <use
-                xlink:href="{{ "uswds/img/sprite.svg#arrow_forward" | relURL }}"
-              ></use>
-            </svg>
-          </a>
-        </div>
-      </section>
-    </article>
+    </section>
   </main>
 {{- end -}}
+
+{{/* Display a list of topic links and resource category header
+
+  @param {string} - title for the header of the resource category topic list
+  @param {list} - data list of topic strings to display for each link
+  @param {scope} - scope of current page context
+*/}}
+{{ define "topics-list" }}
+  {{ $title := .title }}
+  {{ $data := .data }}
+  {{ $scope := .scope }}
+  <div class="dg-resource-topics-list">
+    <h3 class="dg-resource-topics-list__header">
+      {{ .title }}
+    </h3>
+    <ul class="dg-resource-topics-list__list usa-list usa-list--unstyled">
+      {{ range $data }}
+        <li class="dg-resource-topics-list__list-item">
+          {{ $page := $scope.GetPage (printf "/topics/%s" . ) }}
+          <a class="dg-resource-topics-list__link" href="{{ $page.Permalink }}"
+            >{{ $page.Title }}</a
+          >
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
