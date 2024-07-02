@@ -76,7 +76,7 @@
       {{- end -}}
 
       {{ if $authors }}
-        {{- partial "core/get_authors_short.html" . -}}
+        {{ partial "core/authors_list.html" (dict "scope" . "isInline" true) }}
       {{ end }}
     {{ end }}
   </div>
