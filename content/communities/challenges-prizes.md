@@ -4,6 +4,9 @@
 
 slug: challenges-prizes
 date: 2013-12-05 10:46:00 -0500
+
+kicker: "Join the Challenge & Prize Community"
+
 title: "Challenge & Prize"
 deck: ""
 summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
