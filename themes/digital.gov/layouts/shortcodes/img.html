@@ -23,7 +23,7 @@
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
 {{- $thisimg := index $.Site.Data.images $thisuid -}}
 {{- $imgBase := $thisimg.uid -}}
-{{- $imgExt := $thisimg.format -}}
+{{- $imgExt := $thisimg.format  -}}
 {{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
 {{- $imgWidth := $thisimg.width -}}
 {{- $imgHeight := $thisimg.height -}}
@@ -41,14 +41,13 @@
   {{ $imageClasses = $imageClasses | append "image-inline" }}
 {{ end }}
 
-
 <div class="{{ delimit $imageClasses " " }}">
   {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
     <img
       src="{{- if ne $prefix $thisuid -}}
         {{- $thisuid -}}
       {{- else -}}
-        {{- $imgBaseCDN -}}_w800.{{- $imgExt -}}
+        {{- $imgBaseCDN -}}_w1200.{{- $imgExt -}}
       {{- end -}}"
       {{- if or (.Get "alt") $thisimg.alt -}}
         alt="{{- with .Get "alt" -}}
@@ -76,7 +75,7 @@
         {{- end -}}
         "
       {{- end -}}
-      sizes="(max-width: 800px) 100vw, 400px"
+      sizes="(max-width: 800px) 100vw, 1200px"
     />
   {{- else -}}
     <img
