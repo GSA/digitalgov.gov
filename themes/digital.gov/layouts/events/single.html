@@ -141,8 +141,6 @@
 
             <div class="dg-sidebar grid-col-12 tablet:grid-col-3">
               {{/* Authors */}}
-              {{- partial "core/primary_communities.html" . -}}
-
               {{- if .Params.authors -}}
                 <h4>In this talk</h4>
                 {{- partial "core/get_authors.html" . -}}
@@ -162,6 +160,10 @@
                   </div>
                 {{- end -}}
               {{- end -}}
+
+              
+              {{/* Display Primary communities */}}
+              {{- partial "core/display_primary_communities.html" . -}}
 
               {{/* Topics */}}
               {{- partial "core/list-topics.html" . -}}
