@@ -20,26 +20,28 @@
       </header>
 
       <div class="usa-in-page-nav-container">
-        <div>
-          {{/* Content */}}
-          <div class="content usa-prose">
-            {{- .Content -}}
-          </div>
+        <section>
+          <div>
+            {{/* Main Content */}}
+            <div class="content usa-prose">
+              {{- .Content -}}
+            </div>
 
-          {{/* Touchpoints Form */}}
-          {{- partial "core/touchpoints-form.html" . -}}
-        </div>
-        <aside
-          class="dg-sidebar usa-in-page-nav"
-          data-title-heading-level="h4"
-          data-root-margin="-350px 0px -350px 0px"
-          aria-label="Related content"
-        >
-          <div class="dg-related-items" data-related-items>
-            {{/* Related Communities and Services */}}
-            {{- partial "core/get_related.html" . -}}
+            {{/* Touchpoints Form */}}
+            {{- partial "core/touchpoints-form.html" . -}}
           </div>
-        </aside>
+          <aside
+            class="dg-sidebar usa-in-page-nav"
+            data-title-heading-level="h4"
+            data-root-margin="-350px 0px -350px 0px"
+            aria-label="Related content"
+          >
+            <div class="dg-related-items" data-related-items>
+              {{/* Related Communities and Services */}}
+              {{- partial "core/get_related.html" . -}}
+            </div>
+          </aside>
+        </section>
       </div>
     </article>
   </main>
