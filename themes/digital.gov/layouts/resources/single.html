@@ -1,12 +1,14 @@
 {{- define "content" -}}
   <main role="main" id="main-content">
-    <article class="grid-container grid-container-desktop">
+    <article class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         <div>
+          {{/* Kicker */}}
           {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
           {{- end -}}
+
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}}</h1>
 
