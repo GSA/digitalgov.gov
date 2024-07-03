@@ -6,6 +6,7 @@ summary: "A guide for web and digital practitioners on why public policy matters
 guide: public-policy
 image: guide-public-policy
 primary_image: guide-public-policy
+guide_weight: 9
 
 # See all authors at https://digital.gov/authors
 authors:
