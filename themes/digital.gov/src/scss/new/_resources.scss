@@ -1,25 +1,18 @@
 @use "uswds-core" as *;
 
-.main-resources {
-  .in-page {
-    @include u-bg("gray-warm-3");
-    @include u-text("indigo-80");
+.dg-resource-topics-grid {
+  @include at-media("tablet") {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include at-media("desktop") {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
-.resources-by-topic {
-  @include u-bg("white");
-  @include u-padding-top(1);
-
-  h2 {
-    @include u-font("sans", "sm");
+.dg-resource-topics-list {
+  &__list-item {
+    padding-bottom: units(1);
   }
-}
-
-.usa-prose .resources__plain-language-table td {
-  background-color: #fff;
-  border-bottom-color: rgb(27 27 27);
-  border-style: solid;
-  font-weight: 400;
-  @include u-border-right("1px", "gray-90", "solid");
 }
