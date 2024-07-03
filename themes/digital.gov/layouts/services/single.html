@@ -1,15 +1,14 @@
 {{- define "content" -}}
   <main role="main" id="main-content">
-    <article class="grid-container grid-container-desktop">
+    <article class="grid-container-desktop">
+      {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         <div>
-          {{- if .Parent -}}
-            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-          {{- end -}}
-
+          {{/* Kicker */}}
           {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
           {{- end -}}
+
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}}</h1>
 
@@ -36,12 +35,14 @@
           data-title-heading-level="h3"
           data-root-margin="-350px 0px -350px 0px"
         ></aside>
-        <div>
-          {{/* Content */}}
-          <div class="content">
-            {{- .Content -}}
+        <section>
+          <div>
+            {{/* Main Content */}}
+            <div class="content usa-prose">
+              {{- .Content -}}
+            </div>
           </div>
-        </div>
+        </section>
       </div>
     </article>
   </main>
