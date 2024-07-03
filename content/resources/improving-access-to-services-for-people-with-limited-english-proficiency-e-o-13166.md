@@ -1,4 +1,4 @@
-/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/
+url: /resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/
 ---
 slug: improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166
 date: 2015-12-01 10:46:16 -0400
