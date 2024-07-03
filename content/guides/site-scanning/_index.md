@@ -1,8 +1,8 @@
 ---
 date: 2020-06-25 09:00:00 -0500
-title: "Guide to the Site Scanning program"
+title: "Handbook for the Site Scanning Program"
 deck: "A set of daily scans of the federal web presence."
-summary: "A program to automatically generate data about the health and best practices of federal websites."
+summary: "This program is available to automatically generate data about the health and best practices of federal websites."
 guide: site-scanning
 aliases:
   - /guide/site-scanning/
@@ -16,6 +16,7 @@ image: guide-site-scanning
 primary_image: guide-site-scanning
 layout: single
 weight: 8
+guide_weight: 3
 ---
 
 **The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices.
