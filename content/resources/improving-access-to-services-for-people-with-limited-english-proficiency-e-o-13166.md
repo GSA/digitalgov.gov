@@ -1,6 +1,7 @@
 ---
 slug: improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166
 date: 2015-12-01 10:46:16 -0400
+expirydate: "2024-07-03"
 title: Improving Access to Services for People with Limited English Proficiency (Executive Order 13166)
 summary: "EO 13166 requires federal agencies to examine the services they provide, identify any need for services to those with limited English proficiency (LEP), and develop and implement a system to provide those services so LEP persons can have meaningful access to them."
 topics:
@@ -8,7 +9,6 @@ topics:
   - policy
 authors:
   - apiazza
-
 ---
 
 On August 11, 2000, the president signed Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency. The Executive Order requires federal agencies to examine the services they provide, identify any need for services to those with limited English proficiency (LEP), and develop and implement a system to provide those services so LEP persons can have meaningful access to them.
