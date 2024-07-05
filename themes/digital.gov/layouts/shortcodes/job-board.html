@@ -1,23 +1,22 @@
 {{/* <!-- prettier-ignore -->
-    Communities of Practice Job Board Shortcode
-    Formats job posting information from "job-board.yml" into a table, as seen on Communities of Practice Job Board "job-board.md"
-    Add new job posting on "job-board.yml" to display in job posting table.
-    No params needed
-    
-    <!-- prettier-ignore -->
-    @example
-    {{< job-board >}}
-  */}}
-  
+  Communities of Practice Job Board Shortcode
+  Formats job posting information from "job-board.yml" into a table, as seen on Communities of Practice Job Board "job-board.md"
+  Add new job posting on "job-board.yml" to display in job posting table.
+  No params needed
 
-<table class="usa-table usa-table--striped">
+  <!-- prettier-ignore -->
+  @example
+  {{< job-board >}}
+*/}}
+
+<!-- This is a table for non-api input -->
+<table class="usa-table usa-table--striped" onLoad="get_links()">
   <thead>
     <tr>
       <th scope="col">Title</th>
       <th scope="col">Department</th>
       <th scope="col">Description</th>
-      <th scope="col">Open Date</th>
-      <th scope="col">Close Date</th>
+      <th scope="col">Open</th>
       <th scope="col">Apply</th>
     </tr>
   </thead>
@@ -27,9 +26,8 @@
         <th scope="row">{{ .title }}</th>
         <th scope="row">{{ .department }}</th>
         <th scope="row">{{ .description }}</th>
-        <th scope="row">{{ .open_date }}</th>
-        <th scope="row">{{ .close_date }}</th>
-        <th scope="row">{{ .apply_link }}</th>
+        <th scope="row">{{ .open_date }} to {{ .close_date }}</th>
+        <th scope="row"><a href="{{ .apply_link }}" target="__blank">Apply</a></th>
       </tr>
     {{ end }}
   </tbody>
