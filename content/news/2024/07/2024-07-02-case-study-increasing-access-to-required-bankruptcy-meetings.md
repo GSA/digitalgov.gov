@@ -3,9 +3,10 @@
 source_url: https://www.justice.gov/atj/access-doj/case-studies/increasing-access-required-bankruptcy-meetings
 source: doj
 date: 2024-06-06
-title: Case study Increasing access to required bankruptcy meetings
-deck: The U.S. Trustee Program (USTP) within the U.S. Department of Justice (DOJ) is responsible for overseeing the administration of bankruptcy cases and private trustees. Their mission is to promote the integrity and efficiency of the bankruptcy system for the benefit of all stakeholders–debtors, creditors, and the public. Learn about the USTP’s recent efforts and plans for increasing public access to Section 341 bankruptcy meetings, or initial “meetings of creditors”. These efforts include shifting to a virtual meeting structure, developing mock meeting videos, and revising guidance documents.
-summary: The U.S. Trustee Program (USTP) within the U.S. Department of Justice (DOJ) is responsible for overseeing the administration of bankruptcy cases and private trustees. Their mission is to promote the integrity and efficiency of the bankruptcy system for the benefit of all stakeholders–debtors, creditors, and the public. Learn about the USTP’s recent efforts and plans for increasing public access to Section 341 bankruptcy meetings, or initial “meetings of creditors”. These efforts include shifting to a virtual meeting structure, developing mock meeting videos, and revising guidance documents.
+title: "Case study: Increasing access to required bankruptcy meetings"
+deck: "The Department of Justice's U.S. Trustee Program (USTP) oversees the administration of bankruptcy cases and private trustees. During the COVID-19 pandemic, virtual Section 341 bankruptcy meetings lead to more participation from both consumers and creditors, minimized delays, and saved time and money for all. Learn about USTP’s human-centered design process for a pilot program in three states to increase public access to these virtual meetings."
+summary: "The Department of Justice's U.S. Trustee Program (USTP) oversees the administration of bankruptcy cases and private trustees. During the COVID-19 pandemic, virtual Section 341 bankruptcy meetings lead to more participation from both consumers and creditors, minimized delays, and saved time and money for all. Learn about USTP’s human-centered design process for a pilot program in three states to increase public access to these virtual meetings."
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
@@ -18,4 +19,5 @@ slug: case-study-increasing-access-to-required-bankruptcy-meetings
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
