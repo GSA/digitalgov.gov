@@ -1,17 +1,13 @@
 ---
-source: ""
 date: 2024-07-08
-title: Bridge the gap between policy and implementation Impactful solutions and
-  strategies for success from Digital.gov spring 2024 summit
-summary: The summit highlighted digital transformation, emphasizing the
-  significance of recent OMB memos for improving accessibility and customer
-  experience.
+title: "Bridge the gap between policy and implementation: Impactful solutions and strategies for success from Digital.gov's spring 2024 summit"
+summary: "The summit highlighted digital transformation, emphasizing the significance of recent OMB memos for improving accessibility and customer experience."
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - crowdsourcing-and-citizen-science
+  - digital-service-delivery
   - innovation
-  - artificial-intelligence
+  - acquisition
   - communication
   - content-strategy
   - user-centered-design
@@ -21,12 +17,14 @@ topics:
 authors:
   - frances-carden
 slug: bridge-the-gap-between-policy-and-implementation-impactful-solutions-and-strategies-for-success-from-digital-gov-spring-2024-summit
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 On March 13, 2024, over 1,000 people gathered for Digital.gov’s online community summit to discuss [delivering a government digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/). The [summit](https://digital.gov/event/2024/03/13/spring-2024-community-summit/) featured five main sessions covering:
 
 * Strategies for building a successful digital team
