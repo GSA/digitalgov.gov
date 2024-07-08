@@ -4,26 +4,9 @@ source_url: https://www.justice.gov/atj/access-doj/case-studies/removing-barrier
 source: doj
 date: 2024-06-06
 title: "Case study: Removing barriers to applying for a presidential pardon"
-deck: The Office of the Pardon Attorney (PARDON) partnered with Access DOJ, a
-  department-wide initiative led by the Office for Access, both within the U.S.
-  Department of Justice, to simplify and streamline the Presidential pardon
-  application process, particularly for those without legal assistance. By
-  conducting usability testing and gathering feedback, they identified issues
-  with the existing application, such as its complexity and length. As a result,
-  they redesigned the forms to be more accessible and understandable, reducing
-  the overall length and complexity, and providing clear guidance and resources,
-  which led to positive initial feedback and a more efficient process for both
-  applicants and staff.
-summary: The Office of the Pardon Attorney (PARDON) partnered with Access DOJ, a
-  department-wide initiative led by the Office for Access, both within the U.S.
-  Department of Justice, to simplify and streamline the Presidential pardon
-  application process, particularly for those without legal assistance. By
-  conducting usability testing and gathering feedback, they identified issues
-  with the existing application, such as its complexity and length. As a result,
-  they redesigned the forms to be more accessible and understandable, reducing
-  the overall length and complexity, and providing clear guidance and resources,
-  which led to positive initial feedback and a more efficient process for both
-  applicants and staff.
+deck: "At the Department of Justice, Access DOJ and the Office of the Pardon Attorney (PARDON) partnered to simplify and streamline the presidential pardon application process. By conducting usability testing and gathering feedback, they identified key issues with the existing application, such as its complexity and length. See how redesigning the forms to be more accessible and understandable led to a more efficient process for both applicants and staff."
+summary: "At the Department of Justice, Access DOJ and the Office of the Pardon Attorney (PARDON) partnered to simplify and streamline the presidential pardon application process. By conducting usability testing and gathering feedback, they identified key issues with the existing application, such as its complexity and length. See how redesigning the forms to be more accessible and understandable led to a more efficient process for both applicants and staff."
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
@@ -40,4 +23,5 @@ slug: case-study-removing-barriers-to-applying-for-a-presidential-pardon
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
