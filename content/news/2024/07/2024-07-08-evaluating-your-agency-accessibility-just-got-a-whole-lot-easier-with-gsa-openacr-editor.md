@@ -1,7 +1,7 @@
 ---
 date: 2024-07-08
-title: Evaluating your agency accessibility just got a whole lot easier with GSA OpenACR Editor
-summary: To help agencies evaluate the accessibility of their digital products, GSA is making it easier to create Accessibility Conformance Reports through its new OpenACR Editor.
+title: "Evaluating your agency's accessibility just got a whole lot easier with GSA's OpenACR Editor"
+summary: "To help agencies evaluate the accessibility of their digital products, GSA is making it easier to create Accessibility Conformance Reports through its new OpenACR Editor."
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
@@ -13,8 +13,11 @@ topics:
 authors:
   - brianna-gomez-mcgowan
   - margot-johnson
+
 slug: evaluating-your-agency-accessibility-just-got-a-whole-lot-easier-with-gsa-openacr-editor
-primary_image: 10x-funded-cover
+
+primary_image: "gsa-accessibility-conformance-report-acr-editor-logo"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
