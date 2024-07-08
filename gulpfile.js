@@ -1,4 +1,4 @@
-// Import Gulp 4
+// Import Gulp 5
 const { parallel, series, src, watch } = require("gulp");
 
 // Import task functions

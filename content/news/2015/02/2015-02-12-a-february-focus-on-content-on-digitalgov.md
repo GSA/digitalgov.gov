@@ -1,15 +1,15 @@
 ---
 slug: a-february-focus-on-content-on-digitalgov
 date: 2015-02-12 10:28:00 -0400
-title: A February Focus on Content on DigitalGov
-summary: 'Good content drives your digital presence. No matter what you produce content for&mdash;social media, websites, blogs&mdash;getting people to see your work is critical. But getting noticed is not as easy as it used to be. A recent Vox article on the future of blogging talked about this problem: &ldquo;The incentives of the social Web make'
+title: "A February Focus on Content on DigitalGov"
+summary: "Good content drives your digital presence. No matter what you produce content for - social media, websites, blogs - getting people to see your work is critical. But getting noticed is not as easy as it used to be."
 authors:
   - andreanocesigritz
 topics:
   - content-strategy
 ---
 
-Good content drives your digital presence. No matter what you produce content for—social media, websites, blogs—getting people to see your work is critical. But getting noticed is not as easy as it used to be. A recent Vox article on the [future of blogging](http://www.vox.com/2015/1/30/7948091/andrew-sullivan-leaving-blogging) talked about this problem:
+Good content drives your digital presence. No matter what you produce content for — social media, websites, blogs — getting people to see your work is critical. But getting noticed is not as easy as it used to be. A recent Vox article on the [future of blogging](http://www.vox.com/2015/1/30/7948091/andrew-sullivan-leaving-blogging) talked about this problem:
 
 > “The incentives of the social Web make it a threat to the conversational Web. The need to create content that ‘travels’ is at war with the fact that great work often needs to be rooted in a particular place and context—a place and context that the reader and the author already share.”
 
@@ -20,7 +20,8 @@ This month we’re also welcoming our new contributor, Ty Manuel, from the Admin
 Check back later this week and the rest of the month to read these pieces:
 
   * [The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}} "The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy")
-  * [Don’t Forget the Long Tail: It Can Deliver Value]({{< ref "2015-02-13-dont-forget-the-long-tail-it-can-deliver-value.md" >}} "Don’t Forget the Long Tail: It Can Deliver Value")
+  * [Don’t Forget the Long Tail: It Can Deliver Value](https://digital.gov/2015/02/13/dont-forget-the-long-tail-it-can-deliver-value/)
   * [Building Brick By Brick: Ed.Gov’s Website Redesign and Mobile Implementation]({{< ref "2015-02-12-building-brick-by-brick-ed-govs-website-redesign-and-mobile-implementation.md" >}} "Building Brick by Brick: Ed.gov’s Website Redesign and Mobile Implementation")
   * [ForeignAssistance.gov’s Redesign: Using Agile Methodology to Keep Users in Mind]({{< ref "2015-02-27-foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md" >}})
   * [Avoid Weak ‘Links’ in Your Digital Chain]({{< ref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}})
+  

@@ -22,4 +22,4 @@ topics:
 
 The infographic suggests based on the data that organizations should have a &#8220;click to call&#8221; link on every mobile optimized page. Agencies have been highlighting traditional channels on their mobile websites and native apps. In the spring, I noted some examples of good practices by federal agencies when it comes to tying [contact centers with their mobile products]({{< ref "2014-04-22-trends-on-tuesday-how-contact-centers-are-adapting-to-the-mobile-user.md" >}} "Trends on Tuesday: How Contact Centers are Adapting to the Mobile User").
 
-Should agencies have a click to call on every mobile page? Sounds like a good discussions for the [Government Contact Center Council]({{< ref "/communities/government-contact-center-council.md" >}} "Government Contact Center Council - G3C") and the [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile").
+Should agencies have a click to call on every mobile page? Sounds like a good discussions for the [Government Contact Center Council](https://digital.gov/communities/government-contact-center-council/) and the [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile").
