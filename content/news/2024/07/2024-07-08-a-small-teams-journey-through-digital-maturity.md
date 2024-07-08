@@ -1,28 +1,27 @@
 ---
-source: ""
 date: 2024-07-08
-title: A small teams journey through digital maturity
-deck: How Digital.gov starts with real user needs
-summary: As a small team, Digital.gov adopted user research and customer
-  experience early. That foundation helps develop evidence-based strategies for
-  today.
+title: "A small team's journey through digital maturity"
+deck: "How Digital.gov starts with real user needs"
+summary: "As a small team, Digital.gov adopted user research and customer experience early. That foundation helps develop evidence-based strategies for today."
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
   - user-centered-design
-  - accessibility
-  - communication
-  - challenges-and-prize-competitions
+  - usability
+  - customer-experience
+  - user-experience
 # See all authors at https://digital.gov/authors
 authors:
-  - aaron-meyers
+  - sarah-schroeder
 slug: a-small-teams-journey-through-digital-maturity
-primary_image: 10x-areas-of-focus
+primary_image: 
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Digital.gov is where federal employees go for advice and best practices in human-centered web design.
 
 So you might think that Digital.gov’s community feedback processes have always run like a well-oiled machine. But in truth, Digital.gov has faced the same challenges as many other teams when it comes to delivering digital services. Still, we are pleased with how our feedback channels have scaled, matured, and improved with effort.
@@ -43,10 +42,6 @@ We started by implementing a simple Touchpoints feedback form that featured a �
 
 Revising our feedback form made it easier to identify where to make improvements to site content. For example, we discovered low satisfaction ratings on blog posts that were more than five years old. In response, we created an alert banner that is automatically added to blogs that are more than five years old. The banner, which explains that links may be broken due to the age of the content, serves to improve user trust and reduces the number of customer support requests.
 
-IMAGE
-
-alt: Screen capture of a Digital.gov blog page features a yellow alert banner that explains that the page may contain broken links or outdated references.
-
 ## New policies brought new challenges
 
 By the time the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience/) in September 2023, Digital.gov was well-positioned to develop evidence-based strategies for implementing the new policy guidance. However, we had to work fast because the community expected us to respond  as soon as the memo came out — and at that point, Digital.gov’s own staff was still reading and absorbing the memo’s contents.
@@ -65,7 +60,7 @@ The post-memo user interviews were accompanied by a large content audit, which s
 
 We responded by setting up redirects from old blog posts to new content. We’re also improving templates, adjusting Digital.gov’s information architecture, and — of course — publishing new content about M-23-22, other web and digital policies, and what these requirements mean for agency web teams and the public.
 
-Start small and scale
+## Start small and scale
 
 Based on her experience at Digital.gov, Ammie hopes that other teams won’t let their current capacity control their aspirations for the future. "Don’t make the excuse that you’re a small team," she advises. "Do what you can with what you have. Collect the data, analyze it, show what you can do with the right resources, and keep pushing the envelope."
 
