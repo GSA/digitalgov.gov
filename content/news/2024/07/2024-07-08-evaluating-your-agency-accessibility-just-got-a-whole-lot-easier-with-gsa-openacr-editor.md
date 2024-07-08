@@ -1,29 +1,27 @@
 ---
-source: ""
 date: 2024-07-08
-title: Evaluating your agency accessibility just got a whole lot easier with GSA
-  OpenACR Editor
-summary: To help agencies evaluate the accessibility of their digital products,
-  GSA is making it easier to create Accessibility Conformance Reports through
-  its new OpenACR Editor.
+title: Evaluating your agency accessibility just got a whole lot easier with GSA OpenACR Editor
+summary: To help agencies evaluate the accessibility of their digital products, GSA is making it easier to create Accessibility Conformance Reports through its new OpenACR Editor.
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
   - product-and-project-management
-  - artificial-intelligence
-  - best-practices
-  - budgeting-and-performance
+  - user-experience
+  - acquisition
+  - diversity-equity-and-inclusion
 # See all authors at https://digital.gov/authors
 authors:
-  - aaron-snow
-  - abby-covert
+  - brianna-gomez-mcgowan
+  - margot-johnson
 slug: evaluating-your-agency-accessibility-just-got-a-whole-lot-easier-with-gsa-openacr-editor
 primary_image: 10x-funded-cover
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Do you want to make it easier to meet the accessibility needs of everyone your agency interacts with and serves online?
 
 The U.S. General Services Administration (GSA) created a new tool, [OpenACR Editor](https://acreditor.section508.gov/), to guide you through completing the [Accessibility Conformance Reports](https://www.section508.gov/sell/acr/) (ACRs) that evaluate the accessibility of your digital products. This editing tool is part of GSA’s OpenACR initiative to modernize and standardize conformance reports to improve their use and effectiveness in evaluating products and services. The reports are used to measure how well a digital product or service meets the accessibility standards required by [Section 508 of the Rehabilitation Act of 1973, as amended](https://www.access-board.gov/about/law/ra.html). The goal is to make sure people with disabilities can access government websites and services.
