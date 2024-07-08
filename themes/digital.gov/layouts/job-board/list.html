@@ -1,0 +1,30 @@
+{{ define "content" }}
+{{ $job_board_page := ( .Site.Pages )}}
+<main role="main" id="main-content">
+    <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+            <div class="grid-col-12">
+                <header class="page-head page-head-{{- .Type -}}">
+                    <h1>{{- .Title | markdownify -}}</h1>
+                    
+                    {{/* Deck */}}
+                    {{- if .Params.deck -}}
+                      <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
+                    {{- end -}}
+                    <br>
+                    {{ partial "core/usa-button.html" (dict "href" .RelPermalink "text" "Submit Job Posting") }}
+                </header>
+            </div>
+        </div>
+    </div>
+    <section class="stream">
+        <div class="grid-container grid-container-desktop">
+            {{ .Content }}
+        </div>
+    </section>
+
+
+
+    
+</main>
+{{ end }}

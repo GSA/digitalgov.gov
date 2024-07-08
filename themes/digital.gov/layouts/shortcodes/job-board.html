@@ -5,6 +5,7 @@
   No params needed
 */}}
 
+
 <!-- This is a table for non-api input -->
 <table class="usa-table usa-table--striped" onLoad="get_links()">
   <thead>
@@ -23,7 +24,9 @@
         <th scope="row">{{ .department }}</th>
         <th scope="row">{{ .description }}</th>
         <th scope="row">{{ .open_date }} to {{ .close_date }}</th>
-        <th scope="row"><a href="{{ .apply_link }}" target="__blank">Apply</a></th>
+        <th scope="row">
+          <a href="{{ .apply_link }}" target="__blank">Apply</a>
+        </th>
       </tr>
     {{ end }}
   </tbody>
