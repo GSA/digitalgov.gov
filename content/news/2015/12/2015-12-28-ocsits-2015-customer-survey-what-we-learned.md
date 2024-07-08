@@ -41,7 +41,7 @@ During the the past three years, the GCXi showed us that our agency customers, t
 
   * Depend on the [Communities of Practice]({{< ref "/communities" >}}) we sponsor to network, learn from their peers and keep up-to-date on requirements and best practices. Thousands of you are listening and learning via our listservs, even if you don’t speak up.
   * Want to consume content (including [webinars and training from DigitalGov University]({{< ref "/events" >}})) when and where it’s most convenient for you (this is particularly important for people outside of DC).
-  * Appreciate [services]({{< ref "/services/_index.md" >}}) tailored to government—easy, free, timely and convenient.
+  * Appreciate [services]({{< ref "/services/directory.md" >}}) tailored to government—easy, free, timely and convenient.
   * Love the open sharing of data, through the new [analytics dashboard](https://analytics.usa.gov/), for example, with its ability for cross-agency benchmarking.
 
 Some of our favorite customer quotes include:
