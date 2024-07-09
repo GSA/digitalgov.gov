@@ -19,7 +19,7 @@ image: guide-mobile-principles
 
 # Featured image, for social media shares
 primary_image: guide-mobile-principles
-
+guide_weight: 6
 ---
 
 Federal websites and digital services should be available, accessible, and usable on a wide range of devices and platforms. The majority of the public accesses online information and services from mobile devices according to [analytics.usa.gov](https://analytics.usa.gov/). 

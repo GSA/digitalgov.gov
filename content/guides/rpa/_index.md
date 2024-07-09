@@ -1,14 +1,14 @@
 ---
 date: 2020-05-15 09:00:00 -0500
-title: "Guide to robotic process automation"
+title: "Understanding robotic process automation"
 deck: "Automate reptitive business processes without writing code"
-summary: "Configure bots to execute repetitive tasks to save users from performing mundane tasks repeatedly for the same process."
+summary: "Configure bots to execute repetitive tasks and save users from performing mundane tasks repeatedly for the same process."
 guide: rpa
 aliases:
-
 primary_image: "guide-rpa"
 image: guide-rpa
 layout: single
+guide_weight: 8
 ---
 
 {{< box >}}
