@@ -57,7 +57,7 @@ And if all goes well, we'll have some time left at the end of Q&A. So let's get 
 
 **Slide 5:** First up: [CHIPS.gov](https://www.nist.gov/chips) from the Department of Commerce. CHIPS.gov supports the CHIPS and Science Act of 2022 and serves as a public portal for implementation priorities related to that legislation. The CHIPS.gov homepage features a logo of a semiconductor chip with an american flag printed on it, and a video of Commerce Secretary Gina Raimondo titled, "A message from the Secretary of Commerce."
 
-**Slide 6:** Next is a new tool in [USAGov](https://www.usa.gov/death-loved-one) — meant to help the public understand what benefits they qualify for, based on the details of their situation and circumstance.The USAGov benefits tool shows a header reading, "Government Assistance After Losing a Loved One" followed by a USWDS process list.
+**Slide 6:** Next is a new tool in [Beta from USAGov](https://www.usa.gov/death-loved-one) — meant to help the public understand what benefits they qualify for, based on the details of their situation and circumstance.The USAGov benefits tool shows a header reading, "Government Assistance After Losing a Loved One" followed by a USWDS process list.
 
 **Slide 7:** Next is an update to [USGS WaterAlert](https://accounts.waterdata.usgs.gov/wateralert/) from the US Geological Survey. WaterAlert provides notifications to an email or text phone number when a monitoring location exceeds the trigger levels set by the user. This interface allows users to create and manage their alert subscriptions and also uses login.gov as its identity provider. The USGS WaterAlert page shows an image of a mobile phone displaying multiple notification configuration options. A header reads, "Welcome to WaterAlert."
 
