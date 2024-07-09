@@ -27,7 +27,7 @@ topics:
 
 Here’s where you come in.
 
-[Join in]({{< ref "/about/contribute.md" >}} "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities]({{< ref "/communities/_index.md" >}} "Communities"), [services]({{< ref "/services/_index.md" >}} "Services"), [resources]({{< ref "/resources/_index.md" >}} "Resources") and [events]({{< ref "/events/_index.md" >}}) that will help you build out the government of the 21st century.
+[Join in]({{< ref "/about/contribute.md" >}} "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities]({{< ref "/communities/_index.md" >}} "Communities"), [services]({{< ref "/services/directory.md" >}} "Services"), [resources]({{< ref "/resources/_index.md" >}} "Resources") and [events]({{< ref "/events/_index.md" >}}) that will help you build out the government of the 21st century.
 
 Take a look around and kick the tires on this new platform. Let us know what’s working and what we could do better in the comments or [contact us]({{< ref "/about/_index.md" >}} "Contact Us").
 
