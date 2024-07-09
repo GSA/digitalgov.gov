@@ -1,5 +1,5 @@
 ---
-date: 2024-07-08
+date: 2024-07-08 15:55:00 -0500
 title: "A small team's journey through digital maturity"
 deck: "How Digital.gov starts with real user needs"
 summary: "As a small team, Digital.gov adopted user research and customer experience early. That foundation helps develop evidence-based strategies for today."

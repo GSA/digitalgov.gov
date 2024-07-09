@@ -1,5 +1,5 @@
 ---
-date: 2024-07-08
+date: 2024-07-08 10:55:00 -0500
 title: "Bridge the gap between policy and implementation: Impactful solutions and strategies for success from Digital.gov's spring 2024 summit"
 summary: "The summit highlighted digital transformation, emphasizing the significance of recent OMB memos for improving accessibility and customer experience."
 # See all topics at https://digital.gov/topics
