@@ -135,12 +135,7 @@
               <h2>{{ .Title }} news</h2>
 
               {{- range $featured_posts_stream -}}
-                {{- if .Params.source -}}
-                  {{/* Display external links, see layouts/news for news card template */}}
-                  {{- .Render "card-elsewhere" -}}
-                {{- else -}}
-                  {{ .Render "card-article" }}
-                {{- end -}}
+                {{ .Render "card-news" }}
               {{- end -}}
             {{- else -}}
               <h3>No News to Display</h3>
@@ -165,13 +160,7 @@
               {{- end -}}
 
               {{- if eq .Type "news" -}}
-                {{/* Display external links, see layouts/news for news card template */}}
-                {{- if .Params.source -}}
-                  {{ .Render "card-elsewhere" }}
-                {{ else }}
-                  {{/* Internal links */}}
-                  {{ .Render "card-article" }}
-                {{ end }}
+                {{ .Render "card-news" }}
               {{- end -}}
             {{- end -}}
           {{- end -}}
@@ -209,13 +198,7 @@
               {{- end -}}
 
               {{- if eq .Type "news" -}}
-                {{/* Display external links */}}
-                {{- if .Params.source -}}
-                  {{ .Render "card-elsewhere" }}
-                {{ else }}
-                  {{/* Internal links */}}
-                  {{ .Render "card-article" }}
-                {{ end }}
+                {{ .Render "card-news" }}
               {{- end -}}
             {{ end }}
             {{- partial "core/pagination.html" . -}}

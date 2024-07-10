@@ -213,7 +213,7 @@ As Austin said, asking about gender and sex in a respectful and inclusive way is
 
 While the definition used for the “X” choice is a little muddy, blurring the lines between sex and gender identity, it’s still a really important first step in offering more inclusive options.
 
-**Slide 58:** [Social Security recently announced that they will allow individuals to self-select their sex on their Social Security number (SSN) record](https://www.ssa.gov/news/press/releases/2022/#10-2022-3). [CDC has developed guidelines for their programs](https://www.cdc.gov/hiv/clinicians/transforming-health/health-care-providers/collecting-sexual-orientation.html). And the [Federal Committee on Statistical Methodology, an interagency working group, has published some excellent research](https://www.fcsm.gov/resources/sogi/). OMB is also looking at how best to ask about sexual orientation and gender identity.
+**Slide 58:** [Social Security recently announced that they will allow individuals to self-select their sex on their Social Security number (SSN) record](https://www.ssa.gov/news/press/releases/2022/#10-2022-3). [CDC has developed guidelines for their programs](https://www.cdc.gov/hiv/clinicians/transforming-health/health-care-providers/collecting-sexual-orientation.html). And the [Federal Committee on Statistical Methodology, an interagency working group, has published some excellent research](https://www.fcsm.gov/groups/sogisc/). OMB is also looking at how best to ask about sexual orientation and gender identity.
 
 So research is ongoing and there are a lot of smart folks trying to figure out how we can ask about sex and gender in a way that 
 

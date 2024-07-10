@@ -19,7 +19,7 @@ When people call to ask how much it will or should cost their agency to have a c
 
 It&#8217;s similar to buying a car. There’s not one answer to how much it costs to buy car; it depends on what you&#8217;re looking for. Do you want a car or an SUV? Automatic or manual? High-performance or economy? Leather or fabric interior? Just as all these elements weigh into the cost of a car, the cost of a contact center is dependent on many factors.
 
-As the manager of the [USA.gov Contact Center](http://www.usa.gov/phone.shtml) and the Co-Chair of the [Government Contact Center Council]({{< ref "/communities/government-contact-center-council.md" >}}) (G3C), I get this question about once a month. We&#8217;ve developed a set of questions that will help an agency determine the type of contact center support they need.
+As the manager of the [USA.gov Contact Center](http://www.usa.gov/phone.shtml) and the Co-Chair of the [Government Contact Center Council](https://digital.gov/communities/government-contact-center-council/) (G3C), I get this question about once a month. We&#8217;ve developed a set of questions that will help an agency determine the type of contact center support they need.
 
 If you’re starting a contact center, or thinking of changing your model, first, determine the answers to these questions. (Note: this list is [available for download](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ContactCenterCost-FactorsToConsider.docx) [22.5 kb, Ms Word, .docx])
 
@@ -313,4 +313,4 @@ If you’re starting a contact center, or thinking of changing your model, first
   </ul>
 </li>
 
-Good luck to you as you assess your support needs. If you’re a federal employee who’d like to network with other contact center managers, please join the [G3C Community of Practice]({{< ref "/communities/government-contact-center-council.md" >}}). We discuss the best practices, research, and trends that improve government contact centers.
+Good luck to you as you assess your support needs. If you’re a federal employee who’d like to network with other contact center managers, please join the [G3C Community of Practice](https://digital.gov/communities/government-contact-center-council/). We discuss the best practices, research, and trends that improve government contact centers.
