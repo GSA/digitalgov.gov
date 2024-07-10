@@ -201,7 +201,7 @@ Well, the engineers replied, we'll have to do the best we can at first, ask what
 
 **Slide 68:** When we think about what we're building with USWDS, our components are essentially similar to the VirtuWheel, instead of making wheels for cars, we're delivering buttons, form fields, custom lists, modals, cards, etc. for websites and services. But our components share the original VirtuWheel's implementation and maintenance issues. VirtuWheel's blueprints, sensors, names, and definitions are our markup, class names, and styling.
 
-And when we think about a component API — an application programming interface — just as with VirtuWheel, we're talking about abstracting all of that internal stuff away, and focussing on the control panel: what settings does the component need? what content does it accept? and how does it connect to the rest of the service and other components?
+And when we think about a component API — an application programming interface — just as with VirtuWheel, we're talking about abstracting all of that internal stuff away, and focusing on the control panel: what settings does the component need? what content does it accept? and how does it connect to the rest of the service and other components?
 
 For each component, we need to ask: What does its control panel do? what inputs and outputs does it have? and what's the shape of its power cable, essentially — does it have three prongs or two?
 
