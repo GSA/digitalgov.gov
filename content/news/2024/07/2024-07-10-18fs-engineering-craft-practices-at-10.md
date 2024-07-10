@@ -3,7 +3,7 @@
 source_url: https://18f.gsa.gov/2024/07/09/18fs-engineering-craft-basics-at-10/
 source: 18f
 date: 2024-07-09
-title: 18Fs engineering craft practices at 10
+title: "18F's engineering craft practices at 10"
 deck: 18F recently celebrated its 10th anniversary by renewing its commitment to
   refining and sharing best practices through regular publications, tech talks,
   and updates to its Engineering Guide. They also instructed a permanent
