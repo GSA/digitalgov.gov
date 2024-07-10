@@ -1,5 +1,5 @@
 ---
-date: 2024-07-08
+date: 2024-07-08 12:55:00 -0500
 title: "Evaluating your agency's accessibility just got a whole lot easier with GSA's OpenACR Editor"
 summary: "To help agencies evaluate the accessibility of their digital products, GSA is making it easier to create Accessibility Conformance Reports through its new OpenACR Editor."
 # See all topics at https://digital.gov/topics
