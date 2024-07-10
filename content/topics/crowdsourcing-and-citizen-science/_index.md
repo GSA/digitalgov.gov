@@ -20,7 +20,7 @@ aliases:
 
 summary: "Through citizen science and crowdsourcing, the federal government and nongovernmental organizations can engage the public in addressing societal needs and accelerating science, technology, and innovation.
 
-In citizen science, the public participates voluntarily in the scientific process, addressing real-world problems in ways that may include formulating research questions, conducting scientific experiments, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems. 
+In citizen science, the public voluntarily participates in the scientific process, addressing real-world problems in ways that may include formulating research questions, conducting scientific experiments, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems. 
 
 In crowdsourcing, organizations submit an open call for voluntary assistance from a large group of individuals for online, distributed problem solving."
 
