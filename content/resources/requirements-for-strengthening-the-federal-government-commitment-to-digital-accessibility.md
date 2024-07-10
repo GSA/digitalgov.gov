@@ -1,26 +1,32 @@
 ---
 date: 2024-07-10
-source: ""
-title: Requirements for strengthening the federal government commitment to
-  digital accessibility
-deck: "Understand the policy framework: Section 508 of the Rehabilitation Act of
-  1973, Section 508 Standards, and OMB Memo M-24-08"
-summary: Learn how to implement Section 508, and strengthen and maintain your
-  agency’s commitment to digital accessibility.
+
+title: "Requirements for strengthening the federal government's commitment to digital accessibility"
+deck: "Understand the policy framework: Section 508 of the Rehabilitation Act of 1973, Section 508 Standards, and OMB Memo M-24-08"
+summary: "Learn how to implement Section 508, and strengthen and maintain your agency's commitment to digital accessibility."
+
+# See all authors at https://digital.gov/authors
+authors:
+  - cathryn-camenzind
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
   - governance
   - human-centered-design
   - policy
+
 slug: requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility
-primary_image: 10th-anniversary-gold-stamp-olivier-le-moal-istock-getty-images-1215894273
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 ## What is Section 508?
 
 [Section 508 of the Rehabilitation Act of 1973](https://www.access-board.gov/about/law/ra.html) seeks to eliminate barriers to using technology. In 1998, President Clinton signed into law the Rehabilitation Act Amendments of 1998, which covers access to federally funded programs and services. The law strengthens Section 508 of the Rehabilitation Act and requires access to electronic and information technology provided by the federal government. Specifically, federal agencies must ensure that information and communication technology is accessible to employees and members of the public with disabilities by complying with the Section 508 standards issued by the U.S. Access Board.
@@ -51,7 +57,7 @@ Together, these laws, regulations, and policies describe how to develop, procure
 
 {{< ring title="IT accessibility laws and policies">}}
 
-\[Explore all Section 508 laws and policies](https://www.section508.gov/manage/laws-and-policies/)
+[Explore all Section 508 laws and policies](https://www.section508.gov/manage/laws-and-policies/)
 
 {{< /ring >}}
 
@@ -72,19 +78,17 @@ OMB’s policy guidance in M-24-08 outlines six areas for agencies to focus on t
 
 OMB’s policy guidance in M-24-08 also requires agencies to complete a series of actions after the memo’s issuance on December 21, 2023. 
 
-* Within \`30 days\` of issuance (by January 20, 2024), agencies must report the name and contact information of the agency-wide Section 508 program manager to OMB. After this action, agencies are required to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.
-* Within \`90 days\` of issuance (by March 20, 2024), agencies must have digital [accessibility statements](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on all agency websites.
-* Within \`90 days\` of issuance (by March 20, 2024), agencies must have a public feedback mechanism for receiving complaints or reports about accessibility issues with agency websites and digital services and begin to track, review, and address feedback.
-* Within \`180 days\` of issuance (by June 18, 2024), agencies must [assess their policies](https://www.section508.gov/manage/policy-framework/introduction/) to ensure that accessibility considerations are incorporated in all relevant agency functions; develop a plan to update agency policies to align with the requirements of this memorandum, as needed; ensure any changes to policies are also updated in agency digital strategies; and make accessibility policies publicly available.
-* \`Each year\`, agencies must report on their compliance with Section 508, in accordance with [criteria and instructions disseminated by OMB and published on Section508.gov](https://www.section508.gov/manage/section-508-assessment/).
+* Within `30 days` of issuance (by January 20, 2024), agencies must report the name and contact information of the agency-wide Section 508 program manager to OMB. After this action, agencies are required to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.
+* Within `90 days` of issuance (by March 20, 2024), agencies must have digital [accessibility statements](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on all agency websites.
+* Within `90 days` of issuance (by March 20, 2024), agencies must have a public feedback mechanism for receiving complaints or reports about accessibility issues with agency websites and digital services and begin to track, review, and address feedback.
+* Within `180 days` of issuance (by June 18, 2024), agencies must [assess their policies](https://www.section508.gov/manage/policy-framework/introduction/) to ensure that accessibility considerations are incorporated in all relevant agency functions; develop a plan to update agency policies to align with the requirements of this memorandum, as needed; ensure any changes to policies are also updated in agency digital strategies; and make accessibility policies publicly available.
+* `Each year`, agencies must report on their compliance with Section 508, in accordance with [criteria and instructions disseminated by OMB and published on Section508.gov](https://www.section508.gov/manage/section-508-assessment/).
 
 {{< ring title="OMB Memo M-24-08">}}
 
-\[Explore OMB Memo M-24-08, Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/)
+[Explore OMB Memo M-24-08, Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/)
 
 {{< /ring >}}
-
-
 
 {{< note >}}
 
