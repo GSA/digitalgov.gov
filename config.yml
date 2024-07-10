@@ -1,5 +1,5 @@
 title: "Digital.gov"
-baseURL: "/"
+baseURL: "https://digital.gov"
 languageCode: "en-us"
 theme: "digital.gov"
 themesDir: "./themes"
@@ -111,25 +111,29 @@ security:
 
 menu:
   primary:
-    - Name: "News"
-      Identifier: "news"
+    - Name: "Blogs"
+      Identifier: "blogs"
       URL: "/news/"
       Weight: 1
-    - Name: "Events"
-      Identifier: "events"
-      URL: "/events/"
-      Weight: 2
     - Name: "Resources"
       Identifier: "resources"
       URL: "/resources/"
       Weight: 3
+    - Name: "Events"
+      Identifier: "events"
+      URL: "/events/"
+      Weight: 2
     - Name: "Communities"
       Identifier: "communities"
       URL: "/communities/"
       Weight: 4
+    - Name: "Guides"
+      Identifier: "guides"
+      URL: "/guides/"
+      Weight: 4
     - Name: "Tools"
       Identifier: "tools"
-      URL: "/services/"
+      URL: "/services/directory/"
       Weight: 5
 
   contribute:
@@ -157,5 +161,5 @@ menu:
       Weight: 2
     - Name: "Contact Us"
       Identifier: "contact"
-      URL: "/about/contact/"  
+      URL: "/about/contact/"
       Weight: 3

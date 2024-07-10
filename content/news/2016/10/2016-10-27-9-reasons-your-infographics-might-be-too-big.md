@@ -1,8 +1,8 @@
 ---
 slug: 9-reasons-your-infographics-might-be-too-big
 date: 2016-10-27 12:00:27 -0400
-title: 9 Reasons Your Infographics Might Be Too Big
-summary: Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures. While a massive infographic immediately arrests due to
+title: "9 Reasons Your Infographics Might Be Too Big"
+summary: "Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures."
 authors:
   - sara-smith
   - anne-rancourt
@@ -15,11 +15,17 @@ topics:
   - multimedia
 ---
 
-Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures. {{< legacy-img src="2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements." caption="" >}}
+Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures.
+
+{{< legacy-img src="2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements." caption="aqabiz/iStock/Thinkstock" >}}
 
 While a massive infographic immediately arrests due to its overwhelming data content and creative approach, sometimes it can still fall flat by just being plain overwhelming. Some infographics communicate several data points when there’s really just one key point to be made, obscuring the real message. Remember the popular web design principle—offering your audience information sized to be a bite, snack, or meal—can also apply to infographics. Here’s how to know if a smaller infographic would better satisfy your audience’s appetite.
 
-  1. **Big infographics don’t display well on Twitter or Facebook, but that is where they are usually shared.**
+<ol start="1">
+  <li>
+    <b>Big infographics don’t display well on Twitter or Facebook, but that is where they are usually shared.</b>
+  </li>
+</ol>
 
 Sure, you can house an infographic on your website, and there’s always Pinterest, but your best connection with your audience is likely on [Facebook](https://www.facebook.com/ajplusenglish/photos/a.409210322553814.1073741828.407570359384477/502960276512151/) or [Twitter](https://twitter.com/WhiteHouse/status/761596821701529601). Those platforms only allow a sliver of a large infographic to be displayed, and any user is going to have to really want to dig into a big data display to click through.
 
@@ -32,8 +38,6 @@ Sure, you can house an infographic on your website, and there’s always Pintere
     &mdash; The White House (@WhiteHouse) <a href="https://twitter.com/WhiteHouse/status/761596821701529601">August 5, 2016</a>
   </p>
 </blockquote>
-
-
 
 Smaller infographics optimized to fit into social media image proportions in a legible form are much more likely to draw a reader in, and more importantly, convey the topline message without depending on the user to click through to expand a graphic. If you have multiple messages you want to communicate, develop a [suite of smaller, bite-size infographics](http://www.nhlbi.nih.gov/health/educational/hearttruth/materials/infographics.htm) that work together. Five different graphics give you a workweek of beautifully illustrated social media content. Plus, they’re great to deploy during Twitter and Facebook chats.
 
@@ -55,9 +59,11 @@ Have you ever spent months planning, designing, and clearing an infographic, onl
 
 <ol start="4">
   <li>
-    <b>{{< legacy-img src="2016/10/250-x-444-CDC-infographic-from-Pinterest.jpg" alt="250-x-444-cdc-infographic-from-pinterest" >}}Viewing large infographics on mobile devices = the worst.</b>
+    <b>Viewing large infographics on mobile devices = the worst.</b>
   </li>
 </ol>
+
+{{< legacy-img-right src="2016/10/250-x-444-CDC-infographic-from-Pinterest.jpg" alt="250-x-444-cdc-infographic-from-pinterest" >}}
 
 Have you ever tried to look at a large infographic on your phone? It’s nearly impossible and involves a lot of expanding and zooming. No one has the patience for that. If you design your infographic to be device agnostic and viewable on a variety of devices, you will better serve your audience.
 
@@ -65,7 +71,7 @@ This is also another reason to make sure the infographic you share on social med
 
 <ol start="5">
   <li>
-    <b> Long infographics on Pinterest are still a PITA. Yes, you can see the whole thing, but it’s hard to read the (often) small print.</b>
+    <b>Long infographics on Pinterest are still a PITA. Yes, you can see the whole thing, but it’s hard to read the (often) small print.</b>
   </li>
 </ol>
 
@@ -105,7 +111,9 @@ At any large organization, accuracy of data is of paramount importance &#8212; f
 
 {{< legacy-img src="2016/10/600-x-299-NIDAnews-cocaine-fact-infographic-from-Twitter.jpg" alt="A NIDA News cocaine fact infographic used on Twitter." >}}
 
-
-
 [_Sara Smith_](https://www.linkedin.com/in/saramariecrocoll) _([@CrocollSmith](https://twitter.com/CrocollSmith)) is the Social Media Strategist for the National Institute on Drug Abuse (NIDA) and_ [_Anne Rancourt_](https://www.linkedin.com/in/annerancourt) _([@annerancourt](https://twitter.com/AnneRancourt)) is a Communications Section Chief at the National Institute of Allergy and Infectious Diseases (NIAID); both part of the National Institutes of Health (NIH)._
-_(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
+
+
+---
+
+**Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

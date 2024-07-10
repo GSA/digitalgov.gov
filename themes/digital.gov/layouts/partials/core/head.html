@@ -72,8 +72,9 @@
       j.async = true;
       j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
       f.parentNode.insertBefore(j, f);
-    })(window, document, "script", "dataLayer", "GTM-MZCKZPQ");
+    })(window, document, "script", "dataLayer", "G-HBYXWFP794");
   </script>
+
   {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
@@ -117,7 +118,7 @@
     content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}"
   />
   <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}" />
-  <meta property="og:url" content="{{- .Permalink -}}" />
+  <meta property="og:url" content="{{- .Permalink | absURL -}}" />
   <meta property="og:site_name" content="Digital.gov" />
   <meta name="robots" content="index, follow" />
   <meta property="og:locale" content="en_US" />
