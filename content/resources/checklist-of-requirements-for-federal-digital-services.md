@@ -217,7 +217,7 @@ Improve priority customer facing services for mobile use. Shift to an enterprise
 
 Comply with the requirements of Executive Order 13166, based on Title VI of the Civil Rights Act of 1964, which bans discrimination on the basis of national origin.
 
-- [Executive Order 13166, Improving Access to Services for People with Limited English Proficiency]({{< ref "/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166.md" >}})
+- [Executive Order 13166, Improving Access to Services for People with Limited English Proficiency](https://digital.gov/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/)
 - [Department of Justice 2022 Memo Reaffirming the Mandates of EO 13166]({{< ref "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166.md" >}})
 - [Federal Agency LEP Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html) (Department of Justice)
 - [Commonly Asked Questions and Answers Regarding Executive Order 13166](https://www.lep.gov/faq/faqs-executive-order-13166/commonly-asked-questions-and-answers-regarding-executive-order-13166)
