@@ -16,7 +16,6 @@
   .copy {
     @include u-display("flex");
     @include u-flex("align-start");
-    @include u-overflow("hidden");
 
     p {
       @include u-margin-top(0);
@@ -25,10 +24,6 @@
       @include at-media("tablet") {
         @include u-margin-left(0);
       }
-    }
-
-    div {
-      flex: 1;
     }
 
     .icon {
@@ -46,6 +41,7 @@
       @include u-margin(0);
       @include u-font("sans", "sm");
       @include u-line-height("sans", 3);
+      word-break: break-word;
 
       a {
         @include u-text("no-underline", !important);
@@ -65,6 +61,7 @@
       @include u-margin-left(0);
       @include u-font("sans", "3xs");
       @include u-line-height("sans", 2);
+      word-break: break-all;
 
       a {
         @include u-text("base-dark");
@@ -88,6 +85,11 @@
     .authors-list-short {
       @include u-margin(0);
     }
+
+    .author span {
+      word-break: break-word;
+      white-space: wrap;
+    }
   }
 
   .copy-contacts {
@@ -96,9 +98,6 @@
     @include at-media("tablet") {
       @include u-margin-left(0);
     }
-
-    @include u-display("flex");
-    @include u-flex("align-start");
 
     .contact {
       @include u-margin-top(1);
