@@ -4,6 +4,10 @@ title: Requirements for improving access to services for people with limited Eng
 deck: "Understand the policy framework: Executive Order 13166, Attorney General memorandum, and Title VI of the Civil Rights Act"
 summary: Learn how to strengthen and improve meaningful language access for all people in the U.S., regardless of the language they speak.
 
+# resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/
+aliases:
+  - /resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/
+
 # See all authors at https://digital.gov/authors
 authors:
   - cathryn-camenzind
