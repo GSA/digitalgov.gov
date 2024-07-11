@@ -65,20 +65,18 @@ function uploadFile() {
 function cleanup() {
   return new Promise((resolve, reject) => {
     let imageDir = "content/uploads/_working-images/processed";
-    let fileDir = "content/uploads/_working-files/to-process";
+    let fileDir = "content/uploads/_working-files";
 
     if (fs.existsSync(imageDir)) {
-      if (fs.readdirSync(imageDir).length > 0) {
-        console.log(`Images have number of files ${fs.readdirSync(imageDir).length}`);
-        // delete tht folder
-        del([imageDir]);
-        resolve();
-      } else {
-        resolve();
-      }
-    } else {
-      resolve();
+      // remove the folder
+      del([imageDir]);
+    } 
+
+    if (fs.existsSync(fileDir)) {
+      // remove the folder
+      del([fileDir]);
     }
+    resolve();
   });
 }
 
