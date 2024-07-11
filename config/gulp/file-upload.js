@@ -24,7 +24,9 @@ const headers = {
 
 function uploadImage() {
   return gulp
-    .src("content/uploads/_working-images/processed/*")
+    .src("content/uploads/_working-images/processed/*", { 
+      encoding: false,
+    })
     .pipe(publisher.publish(headers))
     .pipe(
       awspublish.reporter({
@@ -44,7 +46,9 @@ function uploadFile() {
   });
 
   return gulp
-    .src("content/uploads/_working-files/to-process/*")
+    .src("content/uploads/_working-files/to-process/*", { 
+      removeBOM: true, 
+    })
     .pipe(staticRename)
     .pipe(publisher.publish(headers))
     .pipe(
@@ -114,33 +118,19 @@ function determineWhichToUpload() {
 
     if (imageFiles.length > 0) {
       uploadsToComplete += 1;
-      const imageUploadStream = uploadImage();
-      imageUploadStream.on('finish', () => {
-        uploadsCompleted += 1;
-        checkCompletion();
-      });
-      imageUploadStream.on('error', (err) => {
-        console.error("Error uploading images:", err);
-        reject(err);
-      });
+      uploadImage(); 
+      uploadsCompleted += 1;
+      checkCompletion();
     }
 
     if (fileFiles.length > 0) {
       uploadsToComplete += 1;
-      const fileUploadStream = uploadFile();
-      fileUploadStream.on('finish', () => {
-        uploadsCompleted += 1;
-        checkCompletion();
-      });
-      fileUploadStream.on('error', (err) => {
-        console.error("Error uploading files:", err);
-        reject(err);
-      });
+      uploadFile();
+      uploadsCompleted += 1;
+      checkCompletion();
     }
 
-    if (uploadsToComplete === 0) {
-      resolve(); // If no uploads are initiated, resolve immediately.
-    }
+  return resolve();
   });
 }
 
