@@ -2,7 +2,7 @@
 
   Displays an image with optional metadata
   See wiki for more details https://github.com/GSA/digitalgov.gov/wiki/Hugo-shortcodes
-  TODO: finish documenting the other properties of this component
+
 
   align - set the alignment for the image to be left (default if left blank), center, or right aligned.
   inline - displays multiples images on the same line
@@ -66,7 +66,7 @@
         {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
         {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w "
       {{- end -}}
-      sizes="(max-width: 400px) 100vw, (max-width: 800px) 100vw, (max-width: 1200px) 100vw, 50vw"
+      sizes="(max-width: 400px) 100vw, (max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"  
     />
   {{- else -}}
     <img
