@@ -45,7 +45,7 @@ In part, this memo provides policy guidance to help federal agencies integrate d
 
 Disability impacts all of us. Up to [one in four adults in the United States](https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html) (27%) have some type of disability, many of which are hidden or not recognizable.
 
-Technology is a fundamental part of our daily routines — making it critical that technology remains accessible for everyone. Adopting digital accessibility best practices ensures we are serving the diverse needs of both the public and the federal workforce. 
+Technology is a fundamental part of our daily routines — making it critical that technology remains accessible for everyone. Adopting digital accessibility best practices ensures we are serving the diverse needs of both the public and the federal workforce.
 
 Aside from the legal requirements, accessibility is good for business. Creating products and information that everyone can use [drives innovation](https://digital.gov/topics/innovation/), improves [customer experience](https://digital.gov/topics/customer-experience/), and [builds public trust in government](https://digital.gov/topics/trust/). Accessibility also helps you reach more stakeholders and, ultimately, achieve your agency’s mission.
 
@@ -53,7 +53,7 @@ Aside from the legal requirements, accessibility is good for business. Creating 
 
 “Section 508” is often used colloquially as shorthand to refer to the various IT accessibility laws, regulations, and policies.
 
-Together, these laws, regulations, and policies describe how to develop, procure, maintain, and use information and communication technology that are accessible to users with disabilities. This work applies to technology used by federal employees, as well as members of the public who use federal websites, digital services, and other technology. 
+Together, these laws, regulations, and policies describe how to develop, procure, maintain, and use information and communication technology that are accessible to users with disabilities. This work applies to technology used by federal employees, as well as members of the public who use federal websites, digital services, and other technology.
 
 {{< ring title="IT accessibility laws and policies">}}
 
@@ -76,7 +76,7 @@ OMB’s policy guidance in M-24-08 outlines six areas for agencies to focus on t
 
 ### Agency reporting actions
 
-OMB’s policy guidance in M-24-08 also requires agencies to complete a series of actions after the memo’s issuance on December 21, 2023. 
+OMB’s policy guidance in M-24-08 also requires agencies to complete a series of actions after the memo’s issuance on December 21, 2023.
 
 * Within `30 days` of issuance (by January 20, 2024), agencies must report the name and contact information of the agency-wide Section 508 program manager to OMB. After this action, agencies are required to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.
 * Within `90 days` of issuance (by March 20, 2024), agencies must have digital [accessibility statements](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on all agency websites.
