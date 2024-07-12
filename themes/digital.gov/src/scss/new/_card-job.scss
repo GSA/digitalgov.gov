@@ -1,0 +1,111 @@
+@use "uswds-core" as *;
+@use "sass:map";
+
+
+.card.card-job {
+    display: grid;
+    grid-template-areas:
+        "c-content c-content"
+        "c-meta c-meta";
+    grid-template-columns: auto 1fr;
+    align-items: start;
+    position: relative;
+
+    .h3{
+        margin: 0; 
+    }
+    .card__apply {
+        position: absolute;
+        top: 1rem;
+        right: 0;
+    }
+
+    .card__summary {
+        @include u-margin-top(0);
+
+        p {
+        @include u-line-height("sans", 3);
+        @include u-font("sans", "md");
+        @include u-text("normal");
+
+        max-width: none;
+        }
+
+        .card__department {
+            @include u-font("sans", "xs");
+        }
+
+        .card__location {
+            @include u-font("sans", "xs");
+        }
+    }
+
+
+
+  .card__source {
+    @include u-margin-top("05");
+    @include u-display("block");
+
+    a {
+      @include u-color("blue-50v");
+
+      &::after {
+        content: "";
+
+        @include u-position("absolute");
+        @include u-top(0);
+        @include u-left(0);
+        @include u-right(0);
+        @include u-bottom(0);
+      }
+    }
+  }
+
+  .card__content {
+    @include at-media("tablet") {
+        grid-area: c-content;
+    }
+  }
+
+  .card__media {
+    @include u-square(7);
+
+    order: -1;
+
+    img {
+      @include u-border("1px", "gray-cool-10", "solid");
+      @include u-circle(7);
+
+      @include at-media("mobile-lg") {
+        @include u-circle(7);
+      }
+    }
+  }
+
+    $communities-of-practice: (
+        "FCN": color("magenta-50"),
+        "ML": color("red-50"),
+        "PL": color("blue-cool-60v"),
+        "SM": color("gold-40v"),
+        "UX": color("mint-cool-50"),
+        "WAO": color("orange-60"),
+        "WCM": color("indigo-60v"),
+    );
+  
+    .card__meta {
+        grid-area: c-meta;
+        .date{
+            font-style: italic;
+        }
+
+        @each $community, $color in $communities-of-practice {
+            .cop-topic--#{$community} {
+                @include u-margin-top(0);
+                @include u-margin-right("105");
+                @include u-font("sans", "xs");
+                color: map.get($communities-of-practice, $community);
+                border: map.get($communities-of-practice, $community);
+            }
+        }
+  }
+}

@@ -5,29 +5,47 @@
   No params needed
 */}}
 
+{{/* Dictionary used to convert CoP names to its acronym for style formatting */}}
+{{ $acronymToCop := dict 
+    "Communicators" "FCN" 
+    "Multilingual" "ML"
+    "Plain Language" "PL"
+    "Social Media" "SM"
+    "User Experience" "UX"
+    "Web Analytics" "WAO"
+    "Web Managers" "WCM" }}
 
-<!-- This is a table for non-api input -->
-<table class="usa-table usa-table--striped" onLoad="get_links()">
-  <thead>
-    <tr>
-      <th scope="col">Title</th>
-      <th scope="col">Department</th>
-      <th scope="col">Description</th>
-      <th scope="col">Open</th>
-      <th scope="col">Apply</th>
-    </tr>
-  </thead>
-  <tbody>
-    {{ range .Site.Data.job_board }}
-      <tr>
-        <th scope="row">{{ .title }}</th>
-        <th scope="row">{{ .department }}</th>
-        <th scope="row">{{ .description }}</th>
-        <th scope="row">{{ .open_date }} to {{ .close_date }}</th>
-        <th scope="row">
-          <a href="{{ .apply_link }}" target="__blank">Apply</a>
-        </th>
-      </tr>
+<!-- This formats job postings into the DG blog style -->
+{{ range .Site.Data.job_board }}
+<article 
+  class ="card card-job"
+  aria-labelledby="{{ .title }}"
+>
+  <div class="card__content">
+    <h3 id="{{ .title }}">{{- .title | markdownify -}}</h3>
+    <a class="card__apply usa-button" href="{{ .apply_link | safeURL }}" target="__blank">
+      Apply
+    </a>
+    <div class="card__summary">
+      <div class="card__department">{{ .department | markdownify }}</div>
+      <div class="card__location">{{ .location | markdownify }}</div>
+      <p>{{ .description | markdownify }}</p>
+    </div>
+  </div>
+
+  <div class="card__meta">
+    <div class="date">Open {{ .open_date }} to {{ .close_date }}</div>
+    {{ range .cop_topics }}
+      {{ $topic := . }}
+      {{ $acronym := index $acronymToCop $topic }}
+      <div class="cop-topic--{{ $acronym }}">
+        {{- $topic -}}
+      </div>
     {{ end }}
-  </tbody>
-</table>
+  </div>
+
+</article>
+
+{{ end }}
+
+
