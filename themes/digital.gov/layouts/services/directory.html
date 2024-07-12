@@ -1,6 +1,11 @@
 {{ define "content" }}
+  {{/* Gets all service pages with a weight greater than or equal to 1 */}}
+  {{- $services := (where .Site.RegularPages "Section" "services") -}}
+  {{- $services := (where $services ".Params.weight" "ge" 1) -}}
+
+
   <main role="main" id="main-content" class="services-contacts">
-    <div class="grid-container grid-container-desktop">
+    <div class="grid-container-desktop">
       <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
@@ -16,14 +21,7 @@
       </div>
     </div>
 
-    {{/* Gets all service pages */}}
-    {{- $services := (where .Site.RegularPages "Section" "services") -}}
-
-    {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-    {{- $services := (where $services ".Params.weight" "ge" 1) -}}
-
-
-    <div class="grid-container grid-container-desktop-lg directory">
+    <div class="grid-container-desktop-lg services-directory">
       <div class="grid-row">
         <div class="grid-col-12">
           {{/* Gather all the service pages */}}
@@ -43,9 +41,7 @@
             </div>
 
             {{- range sort . "Title" -}}
-
               {{- .Render "service-contact" -}}
-
             {{- end -}}
 
           {{- end -}}

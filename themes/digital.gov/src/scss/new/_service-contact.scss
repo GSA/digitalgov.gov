@@ -87,8 +87,8 @@
     }
 
     .author span {
-      word-break: break-word;
       white-space: wrap;
+      word-break: break-word;
     }
   }
 
@@ -102,6 +102,7 @@
     .contact {
       @include u-margin-top(1);
       @include u-margin-right("105");
+      word-break: unset;
 
       @include at-media("tablet") {
         @include u-margin-right(2);

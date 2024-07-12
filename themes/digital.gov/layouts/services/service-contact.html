@@ -1,8 +1,10 @@
-{{/* set the href and src variables */}}
-{{ $href := "" }}
-{{ $src := "" }}
+{{/* ==========
+  Display a 3 column list of GSA services.
+*/}}
 
 {{/* Determine href and src based on conditions */}}
+{{ $href := "" }}
+{{ $src := "" }}
 {{ if .Params.source_url }}
   {{/* If an external link */}}
   {{ $href = .Params.source_url }}
@@ -30,5 +32,75 @@
   {{ end }}
 {{ end }}
 
-{{/* Calls the the service-contact template once! */}}
-{{ template "service-contact" dict "item" . "href" $href "src" $src }}
+
+<div class="service-contact">
+  <div class="grid-row grid-gap-2">
+    <div class="grid-col-12 tablet:grid-col-3">
+      <div class="copy">
+        {{- template "icon-resource" dict "item" . "src" $src "href" $href -}}
+        <div>
+          <h3>
+            <a href="{{- $href -}}" title="{{- .Title | markdownify -}}"
+              ><span>{{- .Title | markdownify -}}</span></a
+            >
+          </h3>
+          <p class="source-url">
+            <a href="{{- $href -}}" title="{{- .Title | markdownify -}}"
+              >{{- .Params.source_url -}}</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="grid-col-12 tablet:grid-col-5">
+      <div class="copy">
+        {{- if .Params.deck -}}
+          <p class="summary">{{- .Params.deck | markdownify -}}</p>
+        {{- else -}}
+          <p class="summary">
+            {{- .Params.summary | markdownify | truncate 140 -}}
+          </p>
+        {{- end -}}
+      </div>
+    </div>
+
+    <div class="grid-col-12 tablet:grid-col-4">
+      <div class="copy copy-contacts">
+        {{ if .Params.contact }}
+          <a
+            class="contact"
+            href="mailto:{{- .Params.contact -}}"
+            title="Contact"
+          >
+            <span>
+              <svg
+                class="usa-icon dg-icon dg-icon--small margin-bottom-05"
+                aria-hidden="true"
+                focusable="false"
+              >
+                <use
+                  xlink:href="{{ "uswds/img/sprite.svg#mail" | relURL }}"
+                ></use>
+              </svg>
+              Contact</span
+            >
+          </a>
+        {{- end -}}
+
+        {{- partial "core/get_authors_short.html" . -}}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{- define "icon-resource" -}}
+  {{- $src := .src -}}
+  {{- $href := .href -}}
+  {{- with .item -}}
+    <div class="icon">
+      <a href="{{- $href -}}" title="{{- .Title | markdownify -}}"
+        ><img src="{{ $src | relURL }}" alt="{{- .Params.name }} icon"
+      /></a>
+    </div>
+  {{- end -}}
+{{- end -}}
