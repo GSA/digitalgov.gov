@@ -1,89 +1,90 @@
 @use "uswds-core" as *;
 
 .service-contact {
-  @include u-margin-bottom(0);
-  @include u-padding("105");
+  margin-bottom: 0;
+  padding: units(1.5); // Equivalent to u-padding("105")
   @include u-font("sans", "2xs");
-  @include u-line-height("sans", 3);
-  @include u-bg("white");
-  @include u-border-bottom("1px", "gray-cool-10", "solid");
+  line-height: line-height("sans", 3);
+  background-color: color("white");
+  border-bottom: 1px solid color("gray-cool-10"); // Equivalent to u-border-bottom
 
   @include at-media("tablet") {
-    @include u-padding-y("105");
-    @include u-padding-x("205");
+    padding: units(1.5) units(2.5); // Equivalent to u-padding-y("105"), u-padding-x("205")
   }
 
-  .copy {
-    @include u-display("flex");
-    @include u-flex("align-start");
+  &__copy {
+    display: flex;
+    align-items: start;
 
     p {
-      @include u-margin-top(0);
-      @include u-margin-left(3);
+      margin-top: 0;
+      margin-left: units(3);
 
       @include at-media("tablet") {
-        @include u-margin-left(0);
+        margin-left: 0;
       }
     }
 
-    .icon {
+    &-icon {
       flex: none;
 
       img {
-        @include u-margin-right(1);
-        @include u-width(2);
-        @include u-position("relative");
-        @include u-top("2px");
+        margin-right: units(1);
+        width: units(2);
+        position: relative;
+        top: 2px;
       }
     }
 
     h3 {
-      @include u-margin(0);
+      margin: 0;
       @include u-font("sans", "sm");
-      @include u-line-height("sans", 3);
+      line-height: line-height("sans", 3);
       word-break: break-word;
 
       a {
-        @include u-text("no-underline", !important);
-        @include u-text("medium");
-        @include u-color("blue-warm-80");
+        text-decoration: none !important;
+        font-weight: font-weight("medium");
+        color: color("blue-warm-80");
 
         &:hover {
           span {
-            @include u-border-bottom("1px", "blue-warm-80", "solid");
+            border-bottom: 1px solid color("blue-warm-80");
           }
         }
       }
     }
 
     .source-url {
-      @include u-margin-top("2px");
-      @include u-margin-left(0);
+      margin-top: 2px;
+      margin-left: 0;
       @include u-font("sans", "3xs");
-      @include u-line-height("sans", 2);
+      line-height: line-height("sans", 2);
       word-break: break-all;
 
       a {
-        @include u-text("base-dark");
-        @include u-text("no-underline");
+        color: color("base-dark");
+        text-decoration: none;
 
         &:hover {
-          @include u-text("underline");
+          text-decoration: underline;
         }
       }
     }
 
     .summary {
-      @include u-margin-y("105");
+      margin: units(1.5) 0; // Equivalent to u-margin-y("105")
       @include u-font("sans", "xs");
 
       @include at-media("tablet") {
-        @include u-margin-y(0);
+        margin-bottom: 0;
+        margin-top: 0;
       }
     }
 
     .authors-list-short {
-      @include u-margin(0);
+      margin: 0;
+      width: units("card-lg");
     }
 
     .author span {
@@ -93,27 +94,28 @@
   }
 
   .copy-contacts {
-    @include u-margin-left(3);
+    margin-left: units(3);
 
     @include at-media("tablet") {
-      @include u-margin-left(0);
+      margin-left: 0;
     }
 
-    .contact {
-      @include u-margin-top(1);
-      @include u-margin-right("105");
+    &__contact {
+      margin-top: units(1);
+      margin-right: units(1.5);
       word-break: unset;
+      width: units(15);
 
       @include at-media("tablet") {
-        @include u-margin-right(2);
+        margin-right: units(2);
       }
 
-      @include u-text("black");
-      @include u-text("no-underline");
+      color: color("black");
+      text-decoration: none;
 
       &:hover {
         span {
-          @include u-border-bottom("1px", "black", "solid");
+          border-bottom: 1px solid color("black");
         }
       }
     }

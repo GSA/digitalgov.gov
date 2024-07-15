@@ -1,17 +1,17 @@
 @use "uswds-core" as *;
 
 .services-contacts {
-  @include u-bg("blue-warm-5");
+  background-color: color("blue-warm-5");
 }
 
 .service-contact-heading {
-  @include u-display("none");
+  display: block;
 
   @include at-media("tablet") {
-    @include u-display("block");
+    display: block;
   }
 }
 
 .services-directory {
-  @include u-padding-bottom(10);
+  padding-bottom: units(10);
 }

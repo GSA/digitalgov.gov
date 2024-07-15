@@ -36,7 +36,7 @@
 <div class="service-contact">
   <div class="grid-row grid-gap-2">
     <div class="grid-col-12 tablet:grid-col-3">
-      <div class="copy">
+      <div class="service-contact__copy">
         {{- template "icon-resource" dict "item" . "src" $src "href" $href -}}
         <div>
           <h3>
@@ -53,7 +53,7 @@
       </div>
     </div>
     <div class="grid-col-12 tablet:grid-col-5">
-      <div class="copy">
+      <div class="service-contact__copy">
         {{- if .Params.deck -}}
           <p class="summary">{{- .Params.deck | markdownify -}}</p>
         {{- else -}}
@@ -65,10 +65,10 @@
     </div>
 
     <div class="grid-col-12 tablet:grid-col-4">
-      <div class="copy copy-contacts">
+      <div class="service-contact__copy copy-contacts">
         {{ if .Params.contact }}
           <a
-            class="contact"
+            class="copy-contacts__contact"
             href="mailto:{{- .Params.contact -}}"
             title="Contact"
           >
@@ -97,7 +97,7 @@
   {{- $src := .src -}}
   {{- $href := .href -}}
   {{- with .item -}}
-    <div class="icon">
+    <div class="service-contact__copy-icon">
       <a href="{{- $href -}}" title="{{- .Title | markdownify -}}"
         ><img src="{{ $src | relURL }}" alt="{{- .Params.name }} icon"
       /></a>
