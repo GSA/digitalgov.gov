@@ -20,6 +20,7 @@
 {{ $now := now.Format "2006-01-02" }}
 {{ $anyActivePost := false }}
 
+
 <!-- This formats job postings into the DG blog style -->
 {{ range .Site.Data.job_board }}
   {{ if ge .close_date $now }}
@@ -42,7 +43,10 @@
       </div>
 
       <div class="card__meta">
-        <div class="date">Open {{ .open_date | time.Format ":date_long" }} to {{ .close_date | time.Format ":date_long" }}</div>
+        <div class="date">
+          Open {{ .open_date | time.Format ":date_long" }} to
+          {{ .close_date | time.Format ":date_long" }}
+        </div>
         {{ range .cop_topics }}
           {{ $topic := . }}
           {{ $acronym := index $acronymToCop $topic }}
@@ -55,9 +59,9 @@
   {{ end }}
 {{ end }}
 
-
 {{ if not $anyActivePost }}
-    <div id="no_job_postings">There are no active job postings at the moment. Please check back another time.</div>
+  <div id="no_job_postings">
+    There are no active job postings at the moment. Please check back another
+    time.
+  </div>
 {{ end }}
-
-

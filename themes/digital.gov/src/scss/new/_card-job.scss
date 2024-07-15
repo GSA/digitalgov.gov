@@ -11,12 +11,12 @@
 }
 
 .card.card-job {
+  align-items: start;
   display: grid;
   grid-template-areas:
     "c-content c-content"
     "c-meta c-meta";
   grid-template-columns: auto 1fr;
-  align-items: start;
   position: relative;
 
   .h3 {
@@ -24,8 +24,8 @@
   }
   .card__apply {
     position: absolute;
-    top: 1rem;
     right: 0;
+    top: 1rem;
   }
 
   .card__summary {
@@ -96,7 +96,7 @@
     "UX": color("mint-cool-50"),
     "WAO": color("orange-60"),
     "WCM": color("indigo-60v"),
-    "CC": color("blue-60v")
+    "CC": color("blue-60v"),
   );
 
   .card__meta {
@@ -110,8 +110,8 @@
         @include u-margin-top(0);
         @include u-margin-right("105");
         @include u-font("sans", "xs");
-        color: map.get($communities-of-practice, $community);
         border: map.get($communities-of-practice, $community);
+        color: map.get($communities-of-practice, $community);
       }
     }
   }
