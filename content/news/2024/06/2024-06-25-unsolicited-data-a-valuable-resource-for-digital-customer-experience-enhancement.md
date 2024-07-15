@@ -21,7 +21,7 @@ topics:
 # 1 -- visible
 weight: 1
 
-primary_image: ""
+primary_image: "feedback-communication-gentle-studio-istock-getty-images-1428649542"
 
 ---
 

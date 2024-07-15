@@ -38,7 +38,7 @@ The fact is today’s practices rapidly evolved from yesterday’s “best” pr
 
 ## The Vision
 
-We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities]({{< ref "/communities" >}} "Communities"), [Services]({{< ref "/services/_index.md" >}} "Services") and [Resources]({{< ref "/resources/_index.md" >}} "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
+We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities]({{< ref "/communities" >}} "Communities"), [Services]({{< ref "/services/directory.md" >}} "Services") and [Resources]({{< ref "/resources/_index.md" >}} "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
 
 ## The Roll-Out
 

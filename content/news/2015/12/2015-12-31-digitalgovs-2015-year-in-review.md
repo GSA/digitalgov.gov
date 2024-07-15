@@ -1,8 +1,8 @@
 ---
 slug: digitalgovs-2015-year-in-review
 date: 2015-12-31 11:00:26 -0400
-title: 'DigitalGov&#8217;s 2015 Year in Review'
-summary: 'As we look ahead to 2016, we wanted to take a minute to look at our most popular content in 2015 and reflect on our second year. This was a big year for DigitalGov as we saw our session traffic nearly double and our weekly and daily email subscribers increase by 15%. DigitalGov was also'
+title: "DigitalGov's 2015 Year in Review"
+summary: "As we look ahead to 2016, we wanted to take a minute to look at our most popular content in 2015 and reflect on our second year. This was a big year for DigitalGov as we saw our session traffic nearly double and our weekly and daily email subscribers increase by 15%."
 authors:
   - andreanocesigritz
 topics:
@@ -13,13 +13,15 @@ topics:
   - user-experience
 ---
 
-{{< legacy-img src="2015/12/250-x-375-New-Year-2016-Pogonici-iStock-Thinkstock-488570622.jpg" alt="A 2016 New Year concept: an hourglass with sands of 2015 flowing into the bottom chamber for 2016." caption="" >}} 
+{{< legacy-img src="2015/12/250-x-375-New-Year-2016-Pogonici-iStock-Thinkstock-488570622.jpg" alt="A 2016 New Year concept: an hourglass with sands of 2015 flowing into the bottom chamber for 2016." caption="Pogonici/iStock/Thinkstock" >}} 
 
 As we look ahead to 2016, we wanted to take a minute to look at our most popular content in 2015 and reflect on our second year. This was a big year for DigitalGov as we saw our session traffic nearly double and our [weekly and daily email subscribers](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new) increase by 15%. DigitalGov was also named as a [2015 must-read blog](http://www.fedtechmagazine.com/article/2015/12/50-must-read-federal-it-blogs-2015) by FedTech magazine, which is due to the great contributions from our guest authors, representing 42 agencies and departments across the federal government!
 
-Looking over the content we published this year and at the pieces you were most interested in, we were happy to see that your interest spans several areas of the digital space, including: [security]({{< ref "/topics/software-engineering" >}}), [user experience]({{< ref "/topics/user-experience" >}}, [accessibility]({{< ref "/topics/accessibility" >}}), [social media]({{< ref "/topics/social-media" >}}) and [Terms of Service]({{< ref "/topics/terms-of-service" >}}), and information about our [services]({{< ref "/services/_index.md" >}}).
+Looking over the content we published this year and at the pieces you were most interested in, we were happy to see that your interest spans several areas of the digital space, including: [security]({{< ref "/topics/software-engineering" >}}), [user experience]({{< ref "/topics/user-experience" >}}, [accessibility]({{< ref "/topics/accessibility" >}}), [social media]({{< ref "/topics/social-media" >}}) and [Terms of Service]({{< ref "/topics/terms-of-service" >}}), and information about our [services]({{< ref "/services/directory.md" >}}).
 
-So as 2015 comes to a close, we want to THANK YOU for reading, [sharing](https://twitter.com/digital_gov) and commenting. You can look forward to more interesting content in 2016. If there’s something you’d like to see featured on DigitalGov, [let us know]({{< ref "/about/_index.md" >}}). {{< legacy-img src="2015/12/600-x-400-Top-10-Concept-Clipped-Cards-and-Lights-Jason-Enterline-iStock-Thinkstock-470951074.jpg" alt="Top 10 spelled out on note cards clipped to a clothesline, with the night sky and twinkling lights in the background" caption="" >}} 
+So as 2015 comes to a close, we want to THANK YOU for reading, [sharing](https://twitter.com/digital_gov) and commenting. You can look forward to more interesting content in 2016. If there’s something you’d like to see featured on DigitalGov, [let us know]({{< ref "/about/_index.md" >}}).
+
+{{< legacy-img src="2015/12/600-x-400-Top-10-Concept-Clipped-Cards-and-Lights-Jason-Enterline-iStock-Thinkstock-470951074.jpg" alt="Top 10 spelled out on note cards clipped to a clothesline, with the night sky and twinkling lights in the background" caption="Jason Enterline/iStock/Thinkstock" >}} 
 
 Here are the top 10 most-popular 2015 articles (in terms of pageviews):
 
@@ -43,4 +45,6 @@ Here are the top 10 most-popular 2015 articles (in terms of pageviews):
 
 1. [15 Government Customer Service Trends for 2015]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}})
 
-You can also read about what our division, the Office of Citizen Services and Innovative Technologies (OCSIT), was [up to in 2015]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}). {{< legacy-img src="2015/12/600-x-415-2016-Greeting-card-for-smile-titoOnz-iStock-Thinkstock-501937374.jpg" alt="Multi-colored and sparkly Happy New Year 2016." caption="" >}}
+You can also read about what our division, the Office of Citizen Services and Innovative Technologies (OCSIT), was [up to in 2015]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}).
+
+{{< legacy-img src="2015/12/600-x-415-2016-Greeting-card-for-smile-titoOnz-iStock-Thinkstock-501937374.jpg" alt="Multi-colored and sparkly Happy New Year 2016." caption="titoOnz/iStock/Thinkstock" >}}
