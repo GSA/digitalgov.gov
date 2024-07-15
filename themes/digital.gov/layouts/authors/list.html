@@ -35,173 +35,13 @@
 
                   {{- if or .Params.location .Params.agency -}}
                     <p>
-                      {{- if .Params.agency -}}{{- .Params.agency }} |{{ end -}}
-                      {{- if .Params.location -}}
-                        {{- .Params.location }}
-                      {{- end -}}
-                      {{ if .Params.email }}
-                        <br /><a
-                          href="mailto:{{- .Params.email -}}"
-                          title="Email {{ .Params.display_name -}}"
-                          >{{- .Params.email -}}</a
-                        >
-                      {{- end -}}
+                      {{- if .Params.agency -}}{{- .Params.agency }}{{ end -}}
                     </p>
                   {{- end -}}
 
                   {{- with .Params.bio -}}
                     <p>{{- . | markdownify -}}</p>
                   {{- end -}}
-
-                  {{/* Website */}}
-                  {{- if .Params.bio_url -}}
-                    <p>
-                      <a
-                        rel="external"
-                        title="{{ .Params.display_name }} Website"
-                        href="{{- .Params.bio_url -}}"
-                        >{{- .Params.bio_url -}}</a
-                      >
-                    </p>
-                  {{- end -}}
-                  <ul>
-                    {{- if .Params.facebook -}}
-                      <li>
-                        <a
-                          class="facebook"
-                          rel="external"
-                          title="{{- .Params.display_name }} on Facebook"
-                          href="http://www.facebook.com/{{- .Params.facebook -}}/"
-                        >
-                          <svg
-                            class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                            aria-hidden="true"
-                            focusable="false"
-                          >
-                            <use
-                              xlink:href="{{ "uswds/img/sprite.svg#facebook" | relURL }}"
-                            ></use>
-                          </svg>
-                        </a>
-                      </li>
-                    {{- end -}}
-                    {{- if .Params.twitter -}}
-                      <li>
-                        <a
-                          class="x"
-                          rel="external"
-                          title="{{- .Params.display_name }} on X"
-                          href="https://www.twitter.com/{{- .Params.twitter -}}/"
-                        >
-                          <svg
-                            class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                            aria-hidden="true"
-                            focusable="false"
-                          >
-                            <use
-                              xlink:href="{{ "uswds/img/sprite.svg#x" | relURL }}"
-                            ></use>
-                          </svg>
-                        </a>
-                      </li>
-                    {{- end -}}
-                    {{- if .Params.linkedin -}}
-                      <li>
-                        <a
-                          class="linkedin"
-                          rel="external"
-                          title="{{- .Params.display_name -}} on LinkedIn"
-                          href="http://www.linkedin.com/in/{{- .Params.linkedin -}}/"
-                        >
-                          <svg
-                            class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                            aria-hidden="true"
-                            focusable="false"
-                          >
-                            <use
-                              xlink:href="{{ "uswds/img/sprite.svg#linkedin" | relURL }}"
-                            ></use>
-                          </svg>
-                        </a>
-                      </li>
-                    {{- end -}}
-                    {{- if .Params.youtube -}}
-                      <li>
-                        <a
-                          class="youtube"
-                          rel="external"
-                          title="{{- .Params.display_name -}} on YouTube"
-                          href="http://www.youtube.com/user/{{- .Params.youtube -}}"
-                        >
-                          <svg
-                            class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                            aria-hidden="true"
-                            focusable="false"
-                          >
-                            <use
-                              xlink:href="{{ "uswds/img/sprite.svg#youtube" | relURL }}"
-                            ></use>
-                          </svg>
-                        </a>
-                      </li>
-                    {{- end -}}
-                    {{- if .Params.github -}}
-                      <li>
-                        <a
-                          class="github"
-                          rel="external"
-                          title="{{- .Params.display_name }} on GitHub"
-                          href="http://www.github.com/{{- .Params.github -}}"
-                        >
-                          <svg
-                            class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                            aria-hidden="true"
-                            focusable="false"
-                          >
-                            <use
-                              xlink:href="{{ "uswds/img/sprite.svg#github" | relURL }}"
-                            ></use>
-                          </svg>
-                        </a>
-                      </li>
-                    {{- end -}}
-                    {{- if .OutputFormats.Get "RSS" -}}
-                      <li>
-                        <a
-                          class="rss"
-                          title="RSS Feed for {{ .Params.display_name -}}"
-                          href="{{- .RelPermalink -}}"
-                        >
-                          <svg
-                            class="usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                            aria-hidden="true"
-                            focusable="false"
-                          >
-                            <use
-                              xlink:href="{{ "uswds/img/sprite.svg#rss_feed" | relURL }}"
-                            ></use>
-                          </svg>
-                        </a>
-                      </li>
-                    {{- end -}}
-                    <li>
-                      <a
-                        class="json"
-                        title="API for {{ .Params.display_name -}}"
-                        href="{{- .Permalink -}}index.json"
-                      >
-                        <svg
-                          class="usa-icon dg-icon dg-icon--extra-large"
-                          aria-hidden="true"
-                          focusable="false"
-                        >
-                          <use
-                            xlink:href="{{ "uswds/img/sprite.svg#code" | relURL }}"
-                          ></use>
-                        </svg>
-                      </a>
-                    </li>
-                  </ul>
                 </div>
               </div>
             </header>
@@ -230,6 +70,56 @@
               {{/* Gets the recent blog posts */}}
               {{- $posts := where .Paginator.Pages "Section" "news" -}}
 
+              {{/* Gets the guides they have written */}}
+              {{- $guides := where .Paginator.Pages "Section" "guides" -}}
+
+              {{/* Gets the resources they have written */}}
+              {{- $resources := where .Paginator.Pages "Section" "resources" -}}
+
+              {{/* Gets the news they have written */}}
+              {{- $news := where .Paginator.Pages "Section" "news" -}}
+
+              
+              {{/* merges all the topics into one */}}
+              {{- $content := union (union (union $posts $guides) $resources) $news -}}
+
+              
+
+              {{/* Merges the past events and the content */}}
+              {{ $stream := union $content $past_events }}
+
+              {{/* Sorting all the items by date and reverse chron */}}
+              {{ $stream := $stream.ByDate.Reverse }}
+
+              {{/* If there are any blog posts at all... */}}
+              {{- if $stream -}}
+                <h2>Latest Content by {{ .Params.display_name }}</h2>
+
+                {{/* Loop through all the pages */}}
+                {{- range $stream -}}
+
+                  {{- if eq .Type "events" -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
+
+                  {{- if eq .Type "news" -}}
+                    {{ .Render "card-news" }}
+                  {{- end -}}
+
+                {{- end -}}
+              {{- end -}}
+
+              {{- partial "core/pagination.html" . -}}
+
+              {{/* Gets the blog posts they have written */}}
+              {{- $posts := where $posts ".Params.author" "intersect" (slice .Params.slug) -}}
+
+              {{/* Gets the guides they have written */}}
+              {{- $guides := where $guides ".Params.author" "intersect" (slice .Params.slug) -}}
+
+              {{/* Merges the blog posts and the guides */}}
+              {{- $posts := union $posts $guides -}}
+
               {{/* Merges the past events and the recent blog posts */}}
               {{ $stream := union $posts $past_events }}
 
@@ -238,7 +128,7 @@
 
               {{/* If there are any blog posts at all... */}}
               {{- if $stream -}}
-                <h2>News and Events</h2>
+                <h2>Latest Content by {{ .Params.display_name }}</h2>
 
                 {{/* Loop through all the pages */}}
                 {{- range $stream -}}
