@@ -1,24 +1,24 @@
 @use "uswds-core" as *;
 
 .service-contact {
+  background-color: color("white");
+  border-bottom: 1px solid color("gray-cool-10"); // Equivalent to u-border-bottom
+  line-height: line-height("sans", 3);
   margin-bottom: 0;
   padding: units(1.5); // Equivalent to u-padding("105")
   @include u-font("sans", "2xs");
-  line-height: line-height("sans", 3);
-  background-color: color("white");
-  border-bottom: 1px solid color("gray-cool-10"); // Equivalent to u-border-bottom
 
   @include at-media("tablet") {
     padding: units(1.5) units(2.5); // Equivalent to u-padding-y("105"), u-padding-x("205")
   }
 
   &__copy {
-    display: flex;
     align-items: start;
+    display: flex;
 
     p {
-      margin-top: 0;
       margin-left: units(3);
+      margin-top: 0;
 
       @include at-media("tablet") {
         margin-left: 0;
@@ -30,22 +30,22 @@
 
       img {
         margin-right: units(1);
-        width: units(2);
         position: relative;
         top: 2px;
+        width: units(2);
       }
     }
 
     h3 {
-      margin: 0;
-      @include u-font("sans", "sm");
       line-height: line-height("sans", 3);
+      margin: 0;
       word-break: break-word;
+      @include u-font("sans", "sm");
 
       a {
-        text-decoration: none !important;
-        font-weight: font-weight("medium");
         color: color("blue-warm-80");
+        font-weight: font-weight("medium");
+        text-decoration: none !important;
 
         &:hover {
           span {
@@ -56,11 +56,11 @@
     }
 
     .source-url {
-      margin-top: 2px;
-      margin-left: 0;
-      @include u-font("sans", "3xs");
       line-height: line-height("sans", 2);
+      margin-left: 0;
+      margin-top: 2px;
       word-break: break-all;
+      @include u-font("sans", "3xs");
 
       a {
         color: color("base-dark");
@@ -101,17 +101,16 @@
     }
 
     &__contact {
-      margin-top: units(1);
+      color: color("black");
       margin-right: units(1.5);
-      word-break: unset;
+      margin-top: units(1);
+      text-decoration: none;
       width: units(15);
+      word-break: unset;
 
       @include at-media("tablet") {
         margin-right: units(2);
       }
-
-      color: color("black");
-      text-decoration: none;
 
       &:hover {
         span {
