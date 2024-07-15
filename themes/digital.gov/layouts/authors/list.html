@@ -1,143 +1,137 @@
 {{- define "content" -}}
   <main role="main" id="main-content">
     <section class="author-profile">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-6">
-          <div class="grid-col-12">
-            <header class="margin-top-5">
-              {{- if .Params.github -}}
-                <img
-                  class="profile"
-                  src="https://github.com/{{- .Params.github -}}.png?size=100"
-                  srcset="
-                    https://www.github.com/{{- .Params.github -}}.png?size=200
-                  "
-                  alt="Profile image for {{- .Params.display_name -}}"
-                />
-              {{- else -}}
-                <img
-                  class="profile"
-                  src="{{- "img/digit-light.png" | absURL -}}"
-                  alt="Profile image for {{- .Params.display_name -}}"
-                />
+      <div class="grid-container-desktop">
+        <header class="margin-top-5">
+          {{- if .Params.github -}}
+            <img
+              class="profile"
+              src="https://github.com/{{- .Params.github -}}.png?size=100"
+              srcset="
+                https://www.github.com/{{- .Params.github -}}.png?size=200
+              "
+              alt="Profile image for {{- .Params.display_name -}}"
+            />
+          {{- else -}}
+            <img
+              class="profile"
+              src="{{- "img/digit-light.png" | absURL -}}"
+              alt="Profile image for {{- .Params.display_name -}}"
+            />
+          {{- end -}}
+
+
+          <div>
+            {{/* Name */}}
+            <h1>{{- .Params.display_name | markdownify -}}</h1>
+
+            {{/* Bio */}}
+            <div class="bio">
+              {{- if .Params.pronoun -}}
+                <p class="pronouns">{{ .Params.pronoun }}</p>
               {{- end -}}
 
-
-              <div>
-                {{/* Name */}}
-                <h1>{{- .Params.display_name | markdownify -}}</h1>
-
-                {{/* Bio */}}
-                <div class="bio">
-                  {{- if .Params.pronoun -}}
-                    <p class="pronouns">{{ .Params.pronoun }}</p>
-                  {{- end -}}
-
-                  {{- if or .Params.location .Params.agency -}}
-                    <p>
-                      {{- if .Params.agency -}}{{- .Params.agency }}{{ end -}}
-                    </p>
-                  {{- end -}}
-                </div>
-              </div>
-            </header>
+              {{- if or .Params.location .Params.agency -}}
+                <p>
+                  {{- if .Params.agency -}}{{- .Params.agency }}{{ end -}}
+                </p>
+              {{- end -}}
+            </div>
           </div>
-        </div>
+        </header>
       </div>
     </section>
 
     <section id="news">
-      <div class="grid-container grid-container-desktop">
+      <div class="grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-4">
-          <div class="grid-col-12 ">
-            <section class="stream">
-              {{/* Blog Posts by Topic —
-                List all of the blog posts and events tagged with this topic
-              */}}
+          <section class="stream">
+            {{/* Blog Posts by Topic —
+              List all of the blog posts and events tagged with this topic
+            */}}
 
-              {{- $allpages := (where .Pages "Section" "news") -}}
+            {{- $allpages := (where .Pages "Section" "news") -}}
 
-              {{/* Gets the past events */}}
-              {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+            {{/* Gets the past events */}}
+            {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
-              {{/* Gets the past events that have youtube_id set */}}
-              {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+            {{/* Gets the past events that have youtube_id set */}}
+            {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
-              {{/* Gets the recent blog posts */}}
-              {{- $posts := where .Paginator.Pages "Section" "news" -}}
+            {{/* Gets the recent blog posts */}}
+            {{- $posts := where .Paginator.Pages "Section" "news" -}}
 
-              {{/* Gets the guides they have written */}}
-              {{- $guides := where .Paginator.Pages "Section" "guides" -}}
+            {{/* Gets the guides they have written */}}
+            {{- $guides := where .Paginator.Pages "Section" "guides" -}}
 
-              {{/* Gets the resources they have written */}}
-              {{- $resources := where .Paginator.Pages "Section" "resources" -}}
+            {{/* Gets the resources they have written */}}
+            {{- $resources := where .Paginator.Pages "Section" "resources" -}}
 
-              {{/* Gets the news they have written */}}
-              {{- $news := where .Paginator.Pages "Section" "news" -}}
+            {{/* Gets the news they have written */}}
+            {{- $news := where .Paginator.Pages "Section" "news" -}}
 
-              {{/* merges all the topics into one */}}
-              {{- $content := union (union (union $posts $guides) $resources) $news -}}
+            {{/* merges all the topics into one */}}
+            {{- $content := union (union (union $posts $guides) $resources) $news -}}
 
-              {{/* Merges the past events and the content */}}
-              {{ $stream := union $content $past_events }}
+            {{/* Merges the past events and the content */}}
+            {{ $stream := union $content $past_events }}
 
-              {{/* Sorting all the items by date and reverse chron */}}
-              {{ $stream := $stream.ByDate.Reverse }}
+            {{/* Sorting all the items by date and reverse chron */}}
+            {{ $stream := $stream.ByDate.Reverse }}
 
-              {{/* If there are any blog posts at all... */}}
-              {{- if $stream -}}
-                <h2>Latest Content by {{ .Params.display_name }}</h2>
+            {{/* If there are any blog posts at all... */}}
+            {{- if $stream -}}
+              <h2>Latest Content by {{ .Params.display_name }}</h2>
 
-                {{/* Loop through all the pages */}}
-                {{- range $stream -}}
-                  {{- if eq .Type "events" -}}
-                    {{- .Render "card-event" -}}
-                  {{- end -}}
-
-                  {{- if eq .Type "news" -}}
-                    {{ .Render "card-news" }}
-                  {{- end -}}
-
+              {{/* Loop through all the pages */}}
+              {{- range $stream -}}
+                {{- if eq .Type "events" -}}
+                  {{- .Render "card-event" -}}
                 {{- end -}}
-              {{- end -}}
 
-              {{- partial "core/pagination.html" . -}}
-
-              {{/* Gets the blog posts they have written */}}
-              {{- $posts := where $posts ".Params.author" "intersect" (slice .Params.slug) -}}
-
-              {{/* Gets the guides they have written */}}
-              {{- $guides := where $guides ".Params.author" "intersect" (slice .Params.slug) -}}
-
-              {{/* Merges the blog posts and the guides */}}
-              {{- $posts := union $posts $guides -}}
-
-              {{/* Merges the past events and the recent blog posts */}}
-              {{ $stream := union $posts $past_events }}
-
-              {{/* Sorting all the items by date and reverse chron */}}
-              {{ $stream := $stream.ByDate.Reverse }}
-
-              {{/* If there are any blog posts at all... */}}
-              {{- if $stream -}}
-                <h2>Latest Content by {{ .Params.display_name }}</h2>
-
-                {{/* Loop through all the pages */}}
-                {{- range $stream -}}
-                  {{- if eq .Type "events" -}}
-                    {{- .Render "card-event" -}}
-                  {{- end -}}
-
-                  {{- if eq .Type "news" -}}
-                    {{ .Render "card-news" }}
-                  {{- end -}}
-
+                {{- if eq .Type "news" -}}
+                  {{ .Render "card-news" }}
                 {{- end -}}
-              {{- end -}}
 
-              {{- partial "core/pagination.html" . -}}
-            </section>
-          </div>
+              {{- end -}}
+            {{- end -}}
+
+            {{- partial "core/pagination.html" . -}}
+
+            {{/* Gets the blog posts they have written */}}
+            {{- $posts := where $posts ".Params.author" "intersect" (slice .Params.slug) -}}
+
+            {{/* Gets the guides they have written */}}
+            {{- $guides := where $guides ".Params.author" "intersect" (slice .Params.slug) -}}
+
+            {{/* Merges the blog posts and the guides */}}
+            {{- $posts := union $posts $guides -}}
+
+            {{/* Merges the past events and the recent blog posts */}}
+            {{ $stream := union $posts $past_events }}
+
+            {{/* Sorting all the items by date and reverse chron */}}
+            {{ $stream := $stream.ByDate.Reverse }}
+
+            {{/* If there are any blog posts at all... */}}
+            {{- if $stream -}}
+              <h2>Latest Content by {{ .Params.display_name }}</h2>
+
+              {{/* Loop through all the pages */}}
+              {{- range $stream -}}
+                {{- if eq .Type "events" -}}
+                  {{- .Render "card-event" -}}
+                {{- end -}}
+
+                {{- if eq .Type "news" -}}
+                  {{ .Render "card-news" }}
+                {{- end -}}
+
+              {{- end -}}
+            {{- end -}}
+
+            {{- partial "core/pagination.html" . -}}
+          </section>
         </div>
         {{- partial "partials/core/see-all-footer.html" -}}
       </div>
