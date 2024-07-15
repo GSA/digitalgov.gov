@@ -79,11 +79,8 @@
               {{/* Gets the news they have written */}}
               {{- $news := where .Paginator.Pages "Section" "news" -}}
 
-              
               {{/* merges all the topics into one */}}
               {{- $content := union (union (union $posts $guides) $resources) $news -}}
-
-              
 
               {{/* Merges the past events and the content */}}
               {{ $stream := union $content $past_events }}
@@ -97,7 +94,6 @@
 
                 {{/* Loop through all the pages */}}
                 {{- range $stream -}}
-
                   {{- if eq .Type "events" -}}
                     {{- .Render "card-event" -}}
                   {{- end -}}
@@ -132,7 +128,6 @@
 
                 {{/* Loop through all the pages */}}
                 {{- range $stream -}}
-
                   {{- if eq .Type "events" -}}
                     {{- .Render "card-event" -}}
                   {{- end -}}
