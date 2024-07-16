@@ -1,3 +1,8 @@
+{{/* ====
+  This template renders an event page with dynamic content including date, time, host, registration options,
+  and different event stages based on the platform and whether the event is in the future or past.
+  It includes the event title, description, location, and actions for users to register or add the event to their calendar.
+*/}}
 {{- define "content" -}}
   {{/* This sets $future_event to true or false */}}
   {{- $future_event := (time .Params.end_date).After now -}}
@@ -26,8 +31,6 @@
               {{- if .Params.deck -}}
                 <div class="deck">{{- .Params.deck | markdownify -}}</div>
               {{- end -}}
-
-
               <p class="datetime">
                 <svg
                   class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
@@ -48,17 +51,15 @@
                   –
                   {{ with .Params.end_date -}}
                     {{- . | dateFormat "3:04 PM ET" -}}
-                  {{- end -}}
+                  {{- end }}
                 </span>
               </p>
-
               {{- if .Params.host -}}
                 <p class="host">
                   Hosted by Digital.gov and the
                   {{ .Params.host }}
                 </p>
               {{- end -}}
-
             </div>
           </div>
         </div>
@@ -87,7 +88,7 @@
 
       {{/* EVENT Stages —
         Depending on the type of event, different "event stages" appear on the page.
-        - Only for upcomming events
+        - Only for upcoming events
         ====================================
       */}}
 
@@ -97,7 +98,6 @@
         {{- if eq $future_event true -}}
           {{- .Render "stage-youtube-live" -}}
         {{- end -}}
-
       {{- end -}}
 
       {{/* PAST EVENT / Video  -------------------- */}}
@@ -166,8 +166,8 @@
                 {{- end -}}
               {{- end -}}
 
-              {{/* Related Communities and Services */}}
-              {{- partial "core/get_related.html" . -}}
+              {{/* Display Primary Communities */}}
+              {{- partial "core/primary-communities.html" . -}}
 
               {{/* Topics */}}
               {{- partial "core/list-topics.html" . -}}
