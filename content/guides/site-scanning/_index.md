@@ -15,7 +15,7 @@ aliases:
 image: guide-site-scanning
 primary_image: guide-site-scanning
 layout: single
-weight: 8
+weight: 2
 guide_weight: 3
 ---
 
