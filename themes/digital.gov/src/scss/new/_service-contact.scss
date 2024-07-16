@@ -2,14 +2,14 @@
 
 .service-contact {
   background-color: color("white");
-  border-bottom: 1px solid color("gray-cool-10"); // Equivalent to u-border-bottom
+  border-bottom: 1px solid color("gray-cool-10");
+  font-size: font-size("sans", "2xs");
   line-height: line-height("sans", 3);
   margin-bottom: 0;
-  padding: units(1.5); // Equivalent to u-padding("105")
-  @include u-font("sans", "2xs");
+  padding: units(1.5);
 
   @include at-media("tablet") {
-    padding: units(1.5) units(2.5); // Equivalent to u-padding-y("105"), u-padding-x("205")
+    padding: units(1.5) units(2.5);
   }
 
   &__copy {
@@ -37,10 +37,10 @@
     }
 
     h3 {
+      font-size: font-size("sans", "sm");
       line-height: line-height("sans", 3);
       margin: 0;
       word-break: break-word;
-      @include u-font("sans", "sm");
 
       a {
         color: color("blue-warm-80");
@@ -56,11 +56,11 @@
     }
 
     .source-url {
+      font-size: font-size("sans", "3xs");
       line-height: line-height("sans", 2);
       margin-left: 0;
       margin-top: 2px;
       word-break: break-all;
-      @include u-font("sans", "3xs");
 
       a {
         color: color("base-dark");
@@ -73,8 +73,8 @@
     }
 
     .summary {
-      margin: units(1.5) 0; // Equivalent to u-margin-y("105")
-      @include u-font("sans", "xs");
+      font-size: font-size("sans", "xs");
+      margin: units(1.5) 0;
 
       @include at-media("tablet") {
         margin-bottom: 0;
