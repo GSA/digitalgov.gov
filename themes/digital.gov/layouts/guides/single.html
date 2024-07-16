@@ -1,7 +1,7 @@
 {{ define "content" }}
   <main role="main" id="main-content">
     <article class="dg-guide">
-      {{- partial "core/guides/guide-header.html" . -}}
+      {{- partial "partials/universal-header.html" . -}}
       {{- partial "core/guides/guide-menu-bar.html" . -}}
       {{- $guideData := index $.Site.Data.guidenav -}}
       {{ if .Params.guide }}
