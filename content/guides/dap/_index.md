@@ -26,7 +26,7 @@ image: guide-dap
 
 primary_image: guide-dap
 
-weight: 1
+weight: 6
 guide_weight: 5
 layout: single
 
