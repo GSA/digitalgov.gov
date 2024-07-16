@@ -2,7 +2,7 @@
 
   Displays an image with optional metadata
   See wiki for more details https://github.com/GSA/digitalgov.gov/wiki/Hugo-shortcodes
-  TODO: finish documenting the other properties of this component
+
 
   align - set the alignment for the image to be left (default if left blank), center, or right aligned.
   inline - displays multiples images on the same line
@@ -16,7 +16,6 @@
 {{< img src="image-2" align="center" inline="true" alt="UX Summit Image 2" >}}
 
 */}}
-
 <!-- image -->
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisuid := (.Get "src" | lower) -}}
@@ -40,6 +39,9 @@
 {{ if eq $inline "true" }}
   {{ $imageClasses = $imageClasses | append "image-inline" }}
 {{ end }}
+{{ if eq $align "center" }}
+  {{ $imageClasses = $imageClasses | append "image-center" }}
+{{ end }}
 
 
 <div class="{{ delimit $imageClasses " " }}">
@@ -48,7 +50,7 @@
       src="{{- if ne $prefix $thisuid -}}
         {{- $thisuid -}}
       {{- else -}}
-        {{- $imgBaseCDN -}}_w800.{{- $imgExt -}}
+        {{- $imgBaseCDN -}}_w1200.{{- $imgExt -}}
       {{- end -}}"
       {{- if or (.Get "alt") $thisimg.alt -}}
         alt="{{- with .Get "alt" -}}
@@ -58,25 +60,13 @@
         {{- end -}}"
       {{- end -}}
       {{- if eq $prefix $thisuid -}}
-        srcset="
-        {{- if ge $imgWidth 200 -}}
-          {{- $imgBaseCDN -}}_bu.jpg 48w,
-          {{- if ge $imgWidth 400 -}}
-            {{- if ge $imgWidth 800 -}}
-              {{- if ge $imgWidth 1200 -}}
-                {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w,
-              {{- end -}}
-              {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
-            {{- end -}}
-            {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
-          {{- end -}}
-          {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w
-        {{- else -}}
-          {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
-        {{- end -}}
-        "
+        srcset=" {{- $imgBaseCDN -}}_bu.jpg 48w,
+        {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w,
+        {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
+        {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
+        {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w "
       {{- end -}}
-      sizes="(max-width: 800px) 100vw, 400px"
+      sizes="(max-width: 400px) 100vw, (max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
     />
   {{- else -}}
     <img
@@ -92,7 +82,8 @@
   {{- end -}}
   {{- if or $imgCaption $imgCredit -}}
     <p>
-      {{- $imgCaption | markdownify -}}{{- if $imgCredit -}}
+      {{- $imgCaption | markdownify -}}
+      {{- if $imgCredit -}}
         <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>
       {{- end -}}
     </p>
