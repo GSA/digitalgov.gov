@@ -1,119 +1,120 @@
 @use "uswds-core" as *;
 
 .service-contact {
-  @include u-margin-bottom(0);
-  @include u-padding("105");
-  @include u-font("sans", "2xs");
-  @include u-line-height("sans", 3);
-  @include u-bg("white");
-  @include u-border-bottom("1px", "gray-cool-10", "solid");
-  @include u-bg("white");
+  background-color: color("white");
+  border-bottom: 1px solid color("gray-cool-10");
+  font-size: font-size("sans", "2xs");
+  line-height: line-height("sans", 3);
+  margin-bottom: 0;
+  padding: units(1.5);
 
   @include at-media("tablet") {
-    @include u-padding-y("105");
-    @include u-padding-x("205");
+    padding: units(1.5) units(2.5);
   }
 
-  .copy {
-    @include u-display("flex");
-    @include u-flex("align-start");
+  &__copy {
+    align-items: start;
+    display: flex;
 
     p {
-      @include u-margin-top(0);
-      @include u-margin-left(3);
+      margin-left: units(3);
+      margin-top: 0;
 
       @include at-media("tablet") {
-        @include u-margin-left(0);
+        margin-left: 0;
       }
     }
 
-    div {
-      flex: 1;
-    }
-
-    .icon {
+    &-icon {
       flex: none;
 
       img {
-        @include u-margin-right(1);
-        @include u-width(2);
-        @include u-position("relative");
-        @include u-top("2px");
+        margin-right: units(1);
+        position: relative;
+        top: 2px;
+        width: units(2);
       }
     }
 
     h3 {
-      @include u-margin(0);
-      @include u-font("sans", "sm");
-      @include u-line-height("sans", 3);
+      font-size: font-size("sans", "sm");
+      line-height: line-height("sans", 3);
+      margin: 0;
+      word-break: break-word;
 
       a {
-        @include u-text("no-underline", !important);
-        @include u-text("medium");
-        @include u-color("blue-warm-80");
+        color: color("blue-warm-80");
+        font-weight: font-weight("medium");
+        text-decoration: none !important;
 
         &:hover {
           span {
-            @include u-border-bottom("1px", "blue-warm-80", "solid");
+            border-bottom: 1px solid color("blue-warm-80");
           }
         }
       }
     }
 
     .source-url {
-      @include u-margin-top("2px");
-      @include u-margin-left(0);
-      @include u-font("sans", "3xs");
-      @include u-line-height("sans", 2);
+      font-size: font-size("sans", "3xs");
+      line-height: line-height("sans", 2);
+      margin-left: 0;
+      margin-top: 2px;
+      word-break: break-all;
 
       a {
-        @include u-text("base-dark");
-        @include u-text("no-underline");
+        color: color("base-dark");
+        text-decoration: none;
 
         &:hover {
-          @include u-text("underline");
+          text-decoration: underline;
         }
       }
     }
 
     .summary {
-      @include u-margin-y("105");
-      @include u-font("sans", "xs");
+      font-size: font-size("sans", "xs");
+      margin: units(1.5) 0;
 
       @include at-media("tablet") {
-        @include u-margin-y(0);
+        margin-bottom: 0;
+        margin-top: 0;
       }
     }
 
     .authors-list--inline {
-      @include u-margin(0);
+      margin: 0;
+      width: units("card-lg");
+    }
+
+    .author span {
+      white-space: wrap;
+      word-break: break-word;
     }
   }
 
   .copy-contacts {
-    @include u-margin-left(3);
+    margin-left: units(3);
 
     @include at-media("tablet") {
-      @include u-margin-left(0);
+      margin-left: 0;
     }
 
-    @include u-display("flex");
-    @include u-flex("align-start");
-
-    .contact {
-      @include u-margin-top(1);
-      @include u-margin-right("105");
+    &__contact {
+      color: color("black");
+      margin-right: units(1.5);
+      margin-top: units(1);
+      text-decoration: none;
+      width: units(15);
+      word-break: unset;
 
       @include at-media("tablet") {
-        @include u-margin-right(2);
+        margin-right: units(2);
       }
-
-      @include u-text("black");
-      @include u-text("no-underline");
 
       &:hover {
         span {
-          @include u-border-bottom("1px", "black", "solid");
+          border-bottom: 1px solid color("black");
         }
       }
     }

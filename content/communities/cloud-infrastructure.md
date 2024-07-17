@@ -4,6 +4,7 @@
 
 slug: cloud-infrastructure
 date: 2020-04-30 10:00:00 -0500
+kicker: "Join the Cloud and Infrastructure Community"
 title: "Cloud and Infrastructure"
 deck: "We connect data center and cloud colleagues to share insights and knowledge."
 summary: "A community for those who support their agency’s IT modernization efforts, and want to learn about application rationalization, data center optimization, and federal cloud computing."
