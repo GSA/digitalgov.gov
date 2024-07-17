@@ -31,6 +31,7 @@ aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
+primary_image: "checklist-topics"
 ---
 In the federal government, standing up a new website involves all of the standard things, like selecting a content management system, designing easy-to-use templates, and creating great content that meets user needs. But it also involves ensuring that your site and content serve the public in alignment with relevant policy requirements.
 
