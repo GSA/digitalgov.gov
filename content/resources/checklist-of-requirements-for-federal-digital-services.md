@@ -2,6 +2,14 @@
 date: 2014-01-09 1:20:11 -0400
 title: Checklist of requirements for federal websites and digital services
 deck: A self-assessment tool to review and evaluate product maturity
+authors:
+  - rflagg
+  - ammie-farraj-feijoo
+aliases:
+  - /resources/dot-gov-domain-freeze-and-waivers/
+  - /resources/checklist/
+  - /resources/policies-for-federal-agency-public-websites-m-05-04/
+weight: 2
 summary: Links to relevant laws, policies, and regulations for federal agencies.
 # See all topics at https://digital.gov/topics
 topics:
