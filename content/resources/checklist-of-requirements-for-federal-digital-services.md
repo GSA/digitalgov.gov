@@ -69,6 +69,12 @@ Policy plays a vital role in how federal agencies serve the public. With over 10
 
 Here are a few examples of policy areas you need to navigate:
 
+{{< featured-resource resourcePath="resources/delivering-digital-first-public-experience" kicker ="Digital first policy">}}
+{{< featured-resource resourcePath="resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/" kicker =".gov policy">}}
+{{< featured-resource resourcePath="/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/" kicker ="Multilingual policy">}}
+{{< featured-resource resourcePath="resources/requirements-for-improving-the-management-of-federal-programs-and-projects/" kicker ="Project management policy">}}
+
+
 ## Conclusion
 
 Managing a federal website is a complex endeavor, requiring broad knowledge of both web management best practices and federal law and policy. We offer this checklist as a practical tool to help you assess your progress, and identify opportunities to improve customer experience and streamline the federal digital footprint. 
