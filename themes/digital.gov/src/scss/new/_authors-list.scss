@@ -2,6 +2,24 @@
 // NOTE: The authors-list is included twice on the page. Once for desktop, the other for mobile.
 @use "uswds-core" as *;
 
+// authors landing override
+.authors {
+  .authors-list .author {
+    border-top: 1px color("gray-10") solid;
+  }
+
+  .author__name {
+    @include u-font("sans", "xs");
+    @include u-line-height("sans", 1);
+    @include u-margin-y("05");
+    @include u-text("bold", "black", "no-underline");
+
+    &:hover {
+      @include u-border-bottom("2px", "accent-warm", "solid");
+    }
+  }
+}
+
 // Display a vertically stacked list of authors
 .authors-list {
   margin-bottom: units(7);

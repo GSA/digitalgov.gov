@@ -50,7 +50,7 @@
 
             <div class="dg-sidebar grid-col-12 tablet-lg:grid-col-3">
               {{/* Authors */}}
-              {{- partial "core/authors_list.html" (dict "scope" .) }}
+              {{- partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors) }}
 
 
               <div class="meta">

@@ -4,21 +4,23 @@
   The default layout is a stacked vertical list used on events and news single.html templates.
   Allows an optional override to display a inline list on card-*.html templates.
 
-  @param {object} scope - the current template page scope used to get the associated authors
-  @param {boolean} isInline - optional flag to display an inline list of authors
+  @param {object} scope (required) - the parent scope
+  @param {array} authors (required) - an array of strings of author names in the format of "firstname-lastname"
+  @param {boolean} isInline (optional)- flag to display an inline list of authors
 
   @example
-  {{- partial "core/authors_list.html" (dict "scope" . "isInline" true)
+  {{- partial "core/authors-list.html" (dict "scope" . "authors" $authors "isInline" true)
 -}}
-*/}}
+
+======== */}}
 {{ $scope := .scope }}
+{{ $authors := .authors }}
 {{ $isInline := default false .isInline }}
-{{/* Returns the list of authors from the parent scope */}}
-{{ $authors := $scope.Param "authors" }}
 
 {{ if $authors }}
   <div class="authors-list {{ if $isInline }}authors-list--inline{{ end }}">
     {{ range $i, $e := uniq (sort $authors) }}
+      {{/* urlize with ensure there is a hyphen between the firstname and lastname to read firstname-lastname */}}
       {{ $uid := $e | urlize }}
       {{ $author := $scope.Site.GetPage (printf "/%s/%s" "authors" $uid) }}
       {{ with $author }}
@@ -28,7 +30,7 @@
 
 
         <div class="author usa-media-block">
-          {{ partial "core/author_image.html" (dict "author" . ) }}
+          {{ partial "core/author-image.html" (dict "author" . ) }}
           <div class="usa-media-block__body">
             <a
               class="author__name"

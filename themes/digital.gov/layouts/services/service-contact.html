@@ -105,7 +105,7 @@
             {{- end -}}
 
             {{ if .Params.authors }}
-              {{ partial "core/authors_list.html" (dict "scope" . "isInline" true) }}
+              {{ partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors  "isInline" true) }}
             {{ end }}
 
           </div>
