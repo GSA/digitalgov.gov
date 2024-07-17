@@ -1,8 +1,8 @@
 ---
 date: 2014-01-09 1:20:11 -0400
 slug: checklist-of-requirements-for-federal-digital-services
-title: Checklist of requirements for federal websites and digital services
-deck: A self-assessment tool to review and evaluate product maturity
+title: "Checklist of requirements for federal websites and digital services"
+deck: "A self-assessment tool to review and evaluate product maturity"
 authors:
   - rflagg
   - ammie-farraj-feijoo
