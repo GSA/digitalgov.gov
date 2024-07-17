@@ -86,13 +86,10 @@
             >
           </a>
         {{- end -}}
-        
-            {{ if .Params.authors }}
-              {{ partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors  "isInline" true) }}
-            {{ end }}
 
-          </div>
-        </div>
+        {{ if .Params.authors }}
+          {{ partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors  "isInline" true) }}
+        {{ end }}
       </div>
     </div>
   </div>
