@@ -3,7 +3,9 @@
   {{ $authors := (where .Site.Pages "Section" "authors") }}
   {{ $authors_data := slice }}
   {{ range $i, $e := $authors }}
-    {{ $authors_data = $authors_data | append $e.Params.slug }}
+    {{ if ne $e.Params.slug nil }}
+      {{ $authors_data = $authors_data | append $e.Params.slug }}
+    {{ end }}
   {{ end }}
 
 
