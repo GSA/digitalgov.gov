@@ -63,7 +63,7 @@ Together, we accomplished these deliverables [work done to date and outcome&#93;
 
 In the table below are some scenarios and acceptance criteria that both teams can use to define success and signal when it’s time for the &#91;name of the short-term project team&#93; team to roll off the project.
 
-<table class="usa-table usa-table--striped">
+<table class="usa-table">
 <caption></caption>
 <thead>
 <tr>
