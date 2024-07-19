@@ -49,7 +49,8 @@ You can also use this as a visioning tool by thinking about what success and fai
 #### Background
 
 Over the last &#91;&#35;&#93; months, the &#91;name of the short-term project team&#93; team has partnered with &#91;name of the long-term team&#93; for &#91;purpose from project proposal and a link to project proposal&#93;.
-Together, we accomplished these deliverables [work done to date and outcome&#93;:
+
+Together, we accomplished these deliverables &#91;work done to date and outcome&#93;:
 
 - Description of Activity 1 &#91;link as appropriate&#93;
 - Description of Activity 2 &#91;link as appropriate&#93;
