@@ -63,13 +63,13 @@ A project reflection can happen either in person or online. The goal is to creat
 Facilitators should schedule one-and-a-half to two hours for a productive reflection session. A two-hour session is highly recommended for sessions with more than six participants, or for teams that encounter challenges throughout a project. Leading up to the session, facilitators will: 
 
 1. Prepare the project reflection prompts.
-  * Remind the team of project goals.
-  * Did we achieve our goals? How do we know?
-  * Did the outcomes change? When and why?
-  * What are a few of our biggest achievements?
-  * What are a few of our biggest challenges?
-  * What would we do differently knowing what we know now?
-  * What should we look for to assess our impact in the future?
+   - Remind the team of project goals.
+   - Did we achieve our goals? How do we know?
+   - Did the outcomes change? When and why?
+   - What are a few of our biggest achievements?
+   - What are a few of our biggest challenges?
+   - What would we do differently knowing what we know now?
+   - What should we look for to assess our impact in the future?
 2. Share reflection prompts with all participants two to three days ahead of the scheduled session to allow participants to gather their thoughts ahead of time. Project reflection prompts should be a series of questions that allow team members to thoughtfully look back on their former project’s engagements and goals.
 3. Devote the first 10 to 15 minutes of the session to giving the team some space to verbally reflect on the project goals. This includes assessing if team goals were met or if they changed over the course of the engagement. 
 
