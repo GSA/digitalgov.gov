@@ -1,24 +1,36 @@
 ---
+# View this page at https://digital.gov/resources/how-to-transition-a-team-off-of-a-project
+# Learn how to edit our pages at https://workflow.digital.gov
+
 date: 2024-07-19
-source: ""
-title: How to transition a team off of a project
-deck: A template for transitioning projects to another team
-summary: Use this template, shared at the 2024 Spring Community Summit, to
-  improve your own service delivery.
+title: "How to transition a team off of a project"
+deck: "A template for transitioning projects to another team"
+summary: "Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery."
+
+# Redirects: Enter the paths of the old URLs that you want redirected to this page.
+aliases:
+  - /resources/service-delivery-transition-plan/
+
 # See all topics at https://digital.gov/topics
 topics:
-  - user-centered-design
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - jessica-marine
+
 slug: how-to-transition-a-team-off-of-a-project
-primary_image: 10th-anniversary-gold-stamp-olivier-le-moal-istock-getty-images-1215894273
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 When bringing in a short-term project team, it’s important to formally transition them off the project, once their part of the project ends. This transition helps to prepare the long-term team for success.
 
 Use this resource to serve as a hand-off document when a short-term project team is transitioning off of a project. You can modify the template to meet your team’s needs.
@@ -31,7 +43,7 @@ You can also use this as a visioning tool by thinking about what success and fai
 
 ### Transition plan for &#91;project name&#93;
 
-**Dates**: &#91;start date - end date&#31;
+**Dates**: &#91;start date - end date&#93;8
 **Teams**: &#91;long-term team&#93; + &#91;short-term project team&#93;
 
 #### Background
