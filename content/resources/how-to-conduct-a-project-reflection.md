@@ -63,7 +63,6 @@ A project reflection can happen either in person or online. The goal is to creat
 Facilitators should schedule one-and-a-half to two hours for a productive reflection session. A two-hour session is highly recommended for sessions with more than six participants, or for teams that encounter challenges throughout a project. Leading up to the session, facilitators will: 
 
 1. Prepare the project reflection prompts.
-
   * Remind the team of project goals.
   * Did we achieve our goals? How do we know?
   * Did the outcomes change? When and why?
@@ -71,9 +70,7 @@ Facilitators should schedule one-and-a-half to two hours for a productive reflec
   * What are a few of our biggest challenges?
   * What would we do differently knowing what we know now?
   * What should we look for to assess our impact in the future?
-
 2. Share reflection prompts with all participants two to three days ahead of the scheduled session to allow participants to gather their thoughts ahead of time. Project reflection prompts should be a series of questions that allow team members to thoughtfully look back on their former project’s engagements and goals.
-
 3. Devote the first 10 to 15 minutes of the session to giving the team some space to verbally reflect on the project goals. This includes assessing if team goals were met or if they changed over the course of the engagement. 
 
 ## Project reflection template
@@ -165,11 +162,9 @@ Once each team member has had time to reflect on their project engagements and g
    - Plus sign (**+**) to signal they agree with another member’s prompt
    - Dollar sign (**$**) to spend time unpacking the thought as a group
    - ​Question mark (**?**) to indicate they don’t understand the response
-
 - Limit the number of + and $ each participant has to “spend” if it seems they are being used too much.
 - Spend 10 minutes discussing each topic. Start with the topic that has the most + and work backwards from there. Pay attention to who is speaking during each discussion and encourage the quieter voices to weigh in as well.
 - Save the last 20 minutes of the session for the following:
-
    - Five to 10 minutes to ask, "is there anything that you think is critical to cover that we haven’t addressed yet?"
    - Five to 10 minutes to celebrate what went well and reflect on lessons and resources the team could share more broadly, even if they weren’t the highest-voted topics. Otherwise, it can be easy to only focus on the negative during sessions, which can inadvertently leave teams feeling deflated.
    - One to two minutes to share next steps. Facilitators should highlight how they plan to synthesize key takeaways from the discussion and how this information will be shared.
