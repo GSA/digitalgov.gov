@@ -1,24 +1,35 @@
 ---
+# View this page at https://digital.gov/resources/how-to-conduct-a-project-reflection
+# Learn how to edit our pages at https://workflow.digital.gov
+
 date: 2024-07-19
-source: ""
-title: How to conduct a project reflection
-deck: A template for ending projects
-summary: Use this template, shared at the 2024 Spring Community Summit, to
-  improve your own service delivery.
+title: "How to conduct a project reflection"
+deck: "A template for ending projects"
+summary: "Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery."
+
+# Redirects: Enter the paths of the old URLs that you want redirected to this page.
+aliases:
+  - /resources/service-delivery-project-reflection/
+
 # See all topics at https://digital.gov/topics
 topics:
-  - accessibility
+  - digital-service-delivery
+
 # See all authors at https://digital.gov/authors
 authors:
   - jessica-marine
+
 slug: how-to-conduct-a-project-reflection
-primary_image: 10th-anniversary-gold-stamp-olivier-le-moal-istock-getty-images-1215894273
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 Reflecting on a completed project is important because it enables digital service delivery teams to identify strengths and weaknesses in current methods, allows for targeted improvement, and fosters a culture of excellence within teams. The process of reflecting and learning requires planning and whole-team participation. 
 
 ## The five Ws of a project reflection: What, when, why, who, and where
