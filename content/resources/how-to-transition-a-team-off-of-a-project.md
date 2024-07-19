@@ -43,7 +43,7 @@ You can also use this as a visioning tool by thinking about what success and fai
 
 ### Transition plan for &#91;project name&#93;
 
-**Dates**: &#91;start date - end date&#93;8
+**Dates**: &#91;start date - end date&#93;<br />
 **Teams**: &#91;long-term team&#93; + &#91;short-term project team&#93;
 
 #### Background
