@@ -1,0 +1,46 @@
+{{- $guideData := index $.Site.Data.guidenav -}}
+{{ if .Params.guide }}
+  {{- $guideData = index $.Site.Data.guidenav (.Params.guide) -}}
+{{ end }}
+{{- $title := cond .IsNode .Title .Parent.Title -}}
+{{- $summary := cond .IsNode .Params.summary .Parent.Params.summary -}}
+{{- $kicker := cond .IsNode (cond (isset .Params "kicker") .Params.kicker "Digital.gov Resource") (cond (isset .Parent.Params "kicker") .Parent.Params.kicker "Digital.gov Resource") -}}
+{{- $glossary := cond .IsNode .Params.glossary .Parent.Params.glossary -}}
+{{ $landingURL := $guideData.landingURL }}
+
+<header class="dg-resource__header grid-container grid-container-desktop">
+  <div class="dg-resource__header-title">
+    {{ if $landingURL }}
+      <a class="usa-link kicker" href="{{ $landingURL | relURL }}">
+        {{- $kicker -}}
+      </a>
+    {{ else }}
+      <p class="kicker">{{- $kicker -}}</p>
+    {{ end }}
+    <h1>{{- $title | markdownify -}}</h1>
+    <div class="deck">
+      {{- $summary | markdownify -}}
+    </div>
+    {{- if $glossary -}}
+      <button class="dg-glossary__toggle">
+        <svg
+          width="16"
+          height="16"
+          aria-hidden="true"
+          class="dg-glossary__toggle-icon"
+        >
+          <path
+            d="M13.9583 2.99612C13.9583 2.25376 13.5274 1.631 12.9074 1.25803C12.2875 0.885127 11.4706 0.755653 10.6759 0.999207L7.41667 1.99802L4.15746 0.999208C3.36272 0.755654 2.54584 0.885127 1.92596 1.25803C1.30597 1.631 0.875 2.25376 0.875 2.99612V11.6299C0.875 12.5372 1.54014 13.3298 2.50921 13.6268L7.41667 15.1307L12.3241 13.6268C13.2932 13.3298 13.9583 12.5372 13.9583 11.6299V2.99612ZM11.1429 2.17693C11.4882 2.07112 11.8416 2.12807 12.107 2.28774C12.3723 2.44735 12.5417 2.7033 12.5417 2.99612V11.6299C12.5417 11.9855 12.2789 12.3198 11.8571 12.4491L8.125 13.5928V3.10179L11.1429 2.17693ZM2.29167 2.99612C2.29167 2.7033 2.46099 2.44735 2.7263 2.28774C2.99172 2.12808 3.34516 2.07112 3.69046 2.17694L6.70833 3.10179V13.5928L2.97621 12.4491C2.55441 12.3198 2.29167 11.9855 2.29167 11.6299V2.99612Z"
+          />
+        </svg>
+        Glossary
+      </button>
+    {{- end -}}
+  </div>
+  {{- $uid := cond .IsNode .Params.Image .Parent.Params.Image -}}
+  {{ if $uid }}
+    <div class="dg-resource__header-image">
+      {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $uid "small" "false") -}}
+    </div>
+  {{- end -}}
+</header>
