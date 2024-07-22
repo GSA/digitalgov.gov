@@ -18,15 +18,13 @@
       </header>
 
       <div class="usa-in-page-nav-container">
-        <div>
-          {{/* Content */}}
-          <div class="content usa-prose">
-            {{- .Content -}}
-          </div>
-
-          {{/* Touchpoints Form */}}
-          {{- partial "core/touchpoints-form.html" . -}}
+        <div class="content usa-prose">
+          {{- .Content -}}
         </div>
+
+        {{- partial "core/touchpoints-form.html" . -}}
+
+
         <aside
           class="dg-sidebar usa-in-page-nav"
           data-title-heading-level="h4"
@@ -34,7 +32,6 @@
           aria-label="Related content"
         >
           <div class="dg-related-items" data-related-items>
-            {{/* Related Communities and Services */}}
             {{- partial "core/get_related.html" . -}}
           </div>
         </aside>
