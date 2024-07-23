@@ -1,11 +1,20 @@
 {{ define "content" }}
-  <main role="main" id="main-content">
+  {{/* Stores an array of string author names */}}
+  {{ $authors := (where .Site.Pages "Section" "authors") }}
+  {{ $authors_data := slice }}
+  {{ range $i, $e := $authors }}
+    {{ if ne $e.Params.slug nil }}
+      {{ $authors_data = $authors_data | append $e.Params.slug }}
+    {{ end }}
+  {{ end }}
+
+
+  <main role="main" id="main-content" class="authors">
     <article>
       <header>
-        <div class="grid-container grid-container-desktop">
+        <div class="grid-container grid-container-desktop margin-top-5">
           <div class="grid-row">
             <div class="grid-col-12">
-              {{- $authors := (where .Site.Pages "Section" "authors") -}}
               <h1>{{ .Title }}</h1>
               {{/* Deck */}}
               {{- if .Params.deck -}}
@@ -19,49 +28,7 @@
 
       <section>
         <div class="grid-container grid-container-desktop">
-          <div class="authors-list">
-            {{- range $i, $author := $authors -}}
-              {{ if .Params.slug }}
-                {{ $link := printf "authors/%s/" .Params.slug }}
-                <div class="author grid-row">
-                  <div class="grid-col-auto">
-                    <div class="photo">
-                      {{- if $author.Params.github -}}
-                        <img
-                          src="https://github.com/{{- $author.Params.github -}}.png?size=50"
-                          alt=""
-                        />
-                      {{- else -}}
-                        {{- $default_profile := print "img/digit-" (cond (eq (mod $i 2) 0) "light" "dark") ".png" -}}
-                        <img src="{{- $default_profile | absURL -}}" alt="" />
-                      {{- end -}}
-                    </div>
-                  </div>
-                  <div class="grid-col-9">
-                    <div class="details">
-                      <a
-                        class="authors-list__title"
-                        href="{{- $link | absURL -}} "
-                        title="Posts by {{- $author.Params.display_name | default $i -}} "
-                        rel="author"
-                      >
-                        {{- $author.Params.display_name | default $i | markdownify -}}
-                      </a>
-
-                      {{- if $author.Params.agency -}}
-                        <p>
-                          {{- $author.Params.agency -}}{{- if $author.Params.location -}}
-                            &nbsp;|&nbsp;{{- $author.Params.location -}}
-                          {{- end -}}
-                        </p>
-                      {{- end -}}
-
-                    </div>
-                  </div>
-                </div>
-              {{ end }}
-            {{ end }}
-          </div>
+          {{ partial "core/authors-list.html" (dict "scope" . "authors" $authors_data) }}
         </div>
       </section>
     </article>
