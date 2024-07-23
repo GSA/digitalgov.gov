@@ -3,7 +3,7 @@ import { config } from "dotenv";
 import * as fs from "fs";
 import path = require("path");
 import { rm } from "fs/promises";
-
+import * as mimeTypes from "mime-types";
 config();
 
 const client = new AWS.S3Client({
@@ -22,12 +22,12 @@ const fileDir = "content/uploads/_working-files/to-process/";
 async function uploadImage(filePath: string, fileName: string): Promise<string | undefined> {
     try {
         const fileContent = await fs.promises.readFile(filePath);
-        
+        let contentType = mimeTypes.lookup(filePath) || "application/octet-stream";
         await client.send(new AWS.PutObjectCommand({
             Bucket: bucketName,
             Key: fileName,
             Body: fileContent,
-            ContentType: "image/jpeg", // Adjust content type as needed
+            ContentType: contentType,
             ACL: "public-read"
         }));
 
@@ -36,7 +36,7 @@ async function uploadImage(filePath: string, fileName: string): Promise<string |
         
         await fs.promises.unlink(filePath);
         return url;
-    } catch (error) {
+    } catch (error: Error | any) {
         console.error("Error uploading image", error);
         if (error instanceof Error) {
             console.error("Error message:", error.message);
@@ -64,7 +64,7 @@ async function uploadFile(filePath: string, fileName: string): Promise<string | 
         
         await fs.promises.unlink(filePath);
         return url;
-    } catch (error) {
+    } catch (error: Error | any) {
         console.error("Error uploading file", error);
         if (error instanceof Error) {
             console.error("Error message:", error.message);

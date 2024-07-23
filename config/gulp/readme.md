@@ -22,7 +22,7 @@ npm i -g typescript
 
 Then run this: 
 ```
-tsc config/typescript/upload.ts --outDir config/gulp 
+tsc 
 ```
 
 4. `scripts.js`: Bundles and compiles JavaScript files using webpack.
