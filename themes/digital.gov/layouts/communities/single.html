@@ -4,21 +4,15 @@
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         <div>
-          {{/* Page Title */}}
-          <h1>{{ .Title | markdownify }} Community</h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
+          {{- partial "partials/core/header-stack.html" (dict "Title" .Title "Params" (dict "kicker" .Params.kicker "deck" .Params.deck "hide_kicker" true "append_community" true)) -}}
         </div>
       </header>
 
       <div class="usa-in-page-nav-container">
         <!--
-        data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
-        the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
-       -->
+      data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
+      the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
+     -->
         <aside
           class="usa-in-page-nav"
           data-title-heading-level="h3"

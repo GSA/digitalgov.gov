@@ -8,19 +8,10 @@
 {{- $glossary := cond .IsNode .Params.glossary .Parent.Params.glossary -}}
 {{ $landingURL := $guideData.landingURL }}
 
+
 <header class="dg-resource__header grid-container grid-container-desktop">
   <div class="dg-resource__header-title">
-    {{ if $landingURL }}
-      <a class="usa-link kicker" href="{{ $landingURL | relURL }}">
-        {{- $kicker -}}
-      </a>
-    {{ else }}
-      <p class="kicker">{{- $kicker -}}</p>
-    {{ end }}
-    <h1>{{- $title | markdownify -}}</h1>
-    <div class="deck">
-      {{- $summary | markdownify -}}
-    </div>
+    {{- partial "partials/header-stack.html" . -}}
     {{- if $glossary -}}
       <button class="dg-glossary__toggle">
         <svg
