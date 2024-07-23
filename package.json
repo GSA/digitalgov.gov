@@ -35,6 +35,7 @@
   },
   "license": "",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.614.0",
     "@prantlf/jsonlint": "^14.0.3",
     "@uswds/uswds": "^3.7.1",
     "autoprefixer": "^10.4.16",
@@ -64,7 +65,6 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-prettier": "^4.2.1",
-    "gulp-awspublish": "^8.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-responsive": "3.0.1",
     "gulp-strip-css-comments": "^3.0.0",
