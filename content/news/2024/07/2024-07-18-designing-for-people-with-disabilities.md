@@ -4,24 +4,8 @@ source_url: https://blog.usa.gov/designing-for-people-with-disabilities
 source: usagov
 date: 2024-07-16
 title: Designing for people with disabilities
-deck: The Public Experience Portfolio’s UX team conducted a study focused on
-  users who rely on assistive technology to access USA.gov, partnering with a
-  local organization to gather insights from a diverse group of participants,
-  including those who are blind or deaf. The study revealed various habits and
-  challenges faced by these users, such as a preference for mobile sites,
-  difficulties with website carousels, and the importance of clear headings and
-  action-oriented descriptions. These findings guide improvements in
-  accessibility, such as clever link labeling and better navigation aids for
-  assistive technology users.
-summary: The Public Experience Portfolio’s UX team conducted a study focused on
-  users who rely on assistive technology to access USA.gov, partnering with a
-  local organization to gather insights from a diverse group of participants,
-  including those who are blind or deaf. The study revealed various habits and
-  challenges faced by these users, such as a preference for mobile sites,
-  difficulties with website carousels, and the importance of clear headings and
-  action-oriented descriptions. These findings guide improvements in
-  accessibility, such as clever link labeling and better navigation aids for
-  assistive technology users.
+deck: The User Experience (UX) team at USA.gov’s  Public Experience Portfolio recently conducted a study to analyze the experiences of individuals who access USA.gov through assistive technology.., The team partnered with a local organization to gather insights from a diverse group of participants, many of whom are blind or deaf. The study revealed various habits and challenges faced by these users, such as a preference for mobile sites, difficulty with website carousels, and a reliance on clear headings and action-oriented descriptions. These findings can guide improvements in accessibility, such as clever link labeling and better navigation aids for assistive technology users.
+summary: The User Experience (UX) team at USA.gov’s  Public Experience Portfolio recently conducted a study to analyze the experiences of individuals who access USA.gov through assistive technology.., The team partnered with a local organization to gather insights from a diverse group of participants, many of whom are blind or deaf. The study revealed various habits and challenges faced by these users, such as a preference for mobile sites, difficulty with website carousels, and a reliance on clear headings and action-oriented descriptions. These findings can guide improvements in accessibility, such as clever link labeling and better navigation aids for assistive technology users.
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
