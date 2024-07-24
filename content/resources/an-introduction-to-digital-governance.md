@@ -16,7 +16,8 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 5
+weight: 6
+
 
 slug: an-introduction-to-digital-governance
 
