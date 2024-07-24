@@ -113,12 +113,11 @@
               <div class="content usa-prose">
                 {{- .Content -}}
               </div>
-
-              <div class="community_events">
+              
+              {{/* Community Events */}}
                 {{- partial "core/get-upcomingevents.html" . -}}
-              </div>
 
-              <div class="Community_conduct">
+              <div class="community_conduct">
                 <h2 id="community-conduct">Community Conduct</h2>
                 {{- partial "core/community_pagefooter.html" . -}}
               </div>

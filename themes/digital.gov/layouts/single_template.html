@@ -4,7 +4,7 @@
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         <div>
-          {{/* Optional Kicker */}}
+          {{/* Kicker */}}
           {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
           {{- end -}}
@@ -12,7 +12,7 @@
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}}</h1>
 
-          {{/* Optional Deck */}}
+          {{/* Deck */}}
           {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
           {{- end -}}
@@ -32,7 +32,7 @@
           </div>
 
           {{/* Section Specific Components */}}
-          <!-- Include components specific to Resources, Communities, Services here -->
+          <!-- Include components specific to Resources, Communities, Services, etc here -->
         </div>
       </div>
     </article>
