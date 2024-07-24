@@ -4,22 +4,8 @@ source_url: https://blog-nrrd.doi.gov/work-priorities/
 source: doi-revenuedata
 date: 2024-07-23
 title: "Reassessing priorities: Adapting to additional work without additional resources"
-deck: The Open Data, Design, and Development team (ODDD) had to take on the
-  additional workload of managing an existing website without extra resources,
-  prompting a reassessment of their yearly goals. They utilized a prioritization
-  matrix to evaluate and prioritize tasks based on effort and reward, leading to
-  a structured impact assessment and transition plan. This process not only
-  ensured realistic workload adjustments but also improved team morale and
-  highlighted the need for practical goal-setting, especially when
-  short-staffed.
-summary: The Open Data, Design, and Development team (ODDD) had to take on the
-  additional workload of managing an existing website without extra resources,
-  prompting a reassessment of their yearly goals. They utilized a prioritization
-  matrix to evaluate and prioritize tasks based on effort and reward, leading to
-  a structured impact assessment and transition plan. This process not only
-  ensured realistic workload adjustments but also improved team morale and
-  highlighted the need for practical goal-setting, especially when
-  short-staffed.
+deck: The Office of Natural Resources Revenue’s Open Data, Design, and Development (ODD) team is taking on management of a fourth website, despite being short-staffed., As a result, they have revisited and reprioritized their yearly goals. To do so, they utilized a prioritization matrix, developed  a structured impact assessment, and laid out a transition plan. Their process ensured realistic workload adjustments, improved team morale, and highlighted the importance of practical goal-setting, especially when teams are short-staffed.
+summary: The Office of Natural Resources Revenue’s Open Data, Design, and Development (ODD) team is taking on management of a fourth website, despite being short-staffed., As a result, they have revisited and reprioritized their yearly goals. To do so, they utilized a prioritization matrix, developed  a structured impact assessment, and laid out a transition plan. Their process ensured realistic workload adjustments, improved team morale, and highlighted the importance of practical goal-setting, especially when teams are short-staffed.
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
