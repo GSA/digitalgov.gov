@@ -65,10 +65,10 @@ Policy plays a vital role in how federal agencies serve the public. With over 10
 Here are a few examples of policy areas you need to navigate:
 
 {{< ring title="Policy areas">}}
-  resourcePath="resources/delivering-digital-first-public-experience"
-  resourcePath="resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/"
-  resourcePath="/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/"
-  resourcePath="resources/requirements-for-improving-the-management-of-federal-programs-and-projects/"
+  {{< resourcePath="resources/delivering-digital-first-public-experience">}}
+  {{< resourcePath="resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/">}}
+  {{< resourcePath="/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/">}}
+  {{< resourcePath="resources/requirements-for-improving-the-management-of-federal-programs-and-projects/"}}
 {{< /ring >}}
 
 ## Conclusion
