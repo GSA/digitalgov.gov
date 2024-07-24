@@ -5,10 +5,13 @@ deck: "A free analytics tool for measuring digital services in the federal gover
 summary: "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies."
 guide: dap
 
+# See all topics at https://digital.gov/topics
 topics:
   - analytics
   - digital-service-delivery
   - user-experience
+
+# Redirects: Enter the paths of the old URLs that you want redirected to this page.
 aliases:
   - /guide/dap/
   - /guides/dap/become-a-dap-certified-analyst/
@@ -22,13 +25,19 @@ aliases:
   - /guides/dap/gaining-access-to-dap-data/
   - /guides/dap/guidelines-for-sharing-dap-data/
 
-image: guide-dap
-
+# For social media shares; if not provided, the default Digital.gov logo card appears.
 primary_image: guide-dap
 
-weight: 1
 guide_weight: 5
+image: guide-dap
 layout: single
+
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+# 10, 9, 8, 7, or 6 -- for the five items that appear in the white box on homepage; 10 is first or at the top, and 6 is fifth or last.
+weight: 9
 
 ---
 
