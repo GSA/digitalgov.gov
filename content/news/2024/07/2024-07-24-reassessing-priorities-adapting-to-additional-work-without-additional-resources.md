@@ -3,7 +3,7 @@
 source_url: https://blog-nrrd.doi.gov/work-priorities/
 source: doi-revenuedata
 date: 2024-07-23
-title: Reassessing priorities adapting to additional work without additional resources
+title: "Reassessing priorities: Adapting to additional work without additional resources"
 deck: The Open Data, Design, and Development team (ODDD) had to take on the
   additional workload of managing an existing website without extra resources,
   prompting a reassessment of their yearly goals. They utilized a prioritization
