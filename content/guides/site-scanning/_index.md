@@ -3,7 +3,13 @@ date: 2020-06-25 09:00:00 -0500
 title: "Understanding the Site Scanning program"
 deck: "A set of daily scans of the federal web presence."
 summary: "This program is available to automatically generate data about the health and best practices of federal websites."
+
 guide: site-scanning
+image: guide-site-scanning
+layout: single
+guide_weight: 3
+
+# Redirects: Enter the paths of the old URLs that you want redirected to this page.
 aliases:
   - /guide/site-scanning/
   - /site-scanning/
@@ -12,11 +18,22 @@ aliases:
   - /sitescan/
   - /site-scans/
   - /sitescans/
-image: guide-site-scanning
+
+# See all topics at https://digital.gov/topics
+topics:
+  - analytics
+  - budgeting-and-performance
+
+# For social media shares; if not provided, the default Digital.gov logo card appears.
 primary_image: guide-site-scanning
-layout: single
-weight: 8
-guide_weight: 3
+
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+# 10, 9, 8, 7, or 6 -- for the five items that appear in the white box on homepage; 10 is first or at the top, and 6 is fifth or last.
+weight: 2
+
 ---
 
 **The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices.
