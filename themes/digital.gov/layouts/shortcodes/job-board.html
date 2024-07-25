@@ -1,7 +1,7 @@
 {{/* <!-- prettier-ignore -->
   Communities of Practice Job Board Shortcode
-  Formats job posting information from "job-board.yml" into a table, as seen on Communities of Practice Job Board "job-board.md"
-  Add new job posting on "job-board.yml" to display in job posting table.
+  Formats job posting information from "job_board.yml" into a table, as seen on Communities of Practice Job Board "job-board.md"
+  Add new job posting on "job_board.yml" to display in job posting table.
   No params needed
 */}}
 
@@ -26,34 +26,37 @@
   {{ if ge .close_date $now }}
     {{ $anyActivePost = true }}
     <article class="card card-job" aria-labelledby="{{ .title }}">
-      <div class="card__content">
+      <div class="card-job__content">
         <h3 id="{{ .title }}">{{- .title | markdownify -}}</h3>
+        <div class="card-job__summary">
+          <div class="card-job__department">{{ .department | markdownify }}</div>
+          <div class="card-job__location">{{ .location | markdownify }}</div>
+          <p>{{ .description | markdownify }}</p>
+        </div>
+      </div>
+      <div class="card-job__apply">
         <a
-          class="card__apply usa-button"
+          class="usa-button"
           href="{{ .apply_link | safeURL }}"
           target="__blank"
         >
           Apply
         </a>
-        <div class="card__summary">
-          <div class="card__department">{{ .department | markdownify }}</div>
-          <div class="card__location">{{ .location | markdownify }}</div>
-          <p>{{ .description | markdownify }}</p>
-        </div>
       </div>
-
-      <div class="card__meta">
-        <div class="date">
+      <div class="card-job__meta">
+        <div id="date">
           Open {{ .open_date | time.Format ":date_long" }} to
           {{ .close_date | time.Format ":date_long" }}
         </div>
-        {{ range .cop_topics }}
-          {{ $topic := . }}
-          {{ $acronym := index $acronymToCop $topic }}
-          <div class="cop-topic--{{ $acronym }}">
-            {{- $topic -}}
-          </div>
-        {{ end }}
+        <div id="topics">
+          {{ range .cop_topics }}
+            {{ $topic := . }}
+            {{ $acronym := index $acronymToCop $topic }}
+            <div class="cop-topic--{{ $acronym }}">
+              {{- $topic -}}
+            </div>
+          {{ end }}
+        </div>
       </div>
     </article>
   {{ end }}

@@ -10,25 +10,41 @@
   }
 }
 
-.card.card-job {
-  align-items: start;
-  display: grid;
-  grid-template-areas:
-    "c-content c-content"
-    "c-meta c-meta";
-  grid-template-columns: auto 1fr;
-  position: relative;
+.card-job {
+  @include at-media("tablet"){
+    align-items: start;
+    display: grid;
+    grid-template-areas:
+      "c-content c-apply"
+      "c-meta c-meta";
+    grid-template-columns: 7fr 1fr;
+    // position: relative;
+  }
+
+  @include at-media-max("tablet"){
+    align-items: start;
+    display: grid;
+    grid-template-areas:
+      "c-content"
+      "c-meta"
+      "c-apply";
+    grid-template-rows: 2fr 1fr;
+    // position: relative;
+  }
+
 
   .h3 {
     margin: 0;
   }
-  .card__apply {
-    position: absolute;
-    right: 0;
-    top: 1rem;
+
+  &__content {
+    grid-area: c-content;
+    flex-direction: column;
+    display: flex;
   }
 
-  .card__summary {
+  &__summary {
+    grid-area: c-content;
     @include u-margin-top(0);
 
     p {
@@ -39,53 +55,33 @@
       max-width: none;
     }
 
-    .card__department {
+    &__department {
       @include u-font("sans", "xs");
+      text-wrap: wrap;
     }
 
-    .card__location {
+    &__location {
       @include u-font("sans", "xs");
+      text-wrap: wrap;
     }
   }
 
-  .card__source {
-    @include u-margin-top("05");
-    @include u-display("block");
-
-    a {
-      @include u-color("blue-50v");
-
-      &::after {
-        content: "";
-
-        @include u-position("absolute");
-        @include u-top(0);
-        @include u-left(0);
-        @include u-right(0);
-        @include u-bottom(0);
-      }
+  &__apply {
+    @include at-media("mobile-lg"){
+      grid-area: c-apply;
+      display: grid;
     }
-  }
-
-  .card__content {
-    @include at-media("tablet") {
-      grid-area: c-content;
+    
+    @include at-media-max("mobile-lg"){
+      grid-area: c-apply;
+      display: grid;
+      // position: relative;
+      // display: flex;
     }
-  }
-
-  .card__media {
-    @include u-square(7);
-
-    order: -1;
-
-    img {
-      @include u-border("1px", "gray-cool-10", "solid");
-      @include u-circle(7);
-
-      @include at-media("mobile-lg") {
-        @include u-circle(7);
-      }
-    }
+    // position: relative;
+    // position: absolute;
+    // right: 0;
+    // top: 1rem;
   }
 
   $communities-of-practice: (
@@ -99,22 +95,40 @@
     "CC": color("blue-60v"),
   );
 
-  .card__meta {
+
+
+  &__meta {
     grid-area: c-meta;
-    .date {
+    // display: block;
+    display: flex;
+    // position: relative;
+
+    // grid-template-columns: repeat(5, 1fr);
+    
+    #date {
       font-style: italic;
+      margin-right: units(3);
+    }
+
+    #topics {
+      position: relative;
+      display: grid;
+      grid-template-columns: repeat(4, auto);
     }
 
     @each $community, $color in $communities-of-practice {
       .cop-topic--#{$community} {
-        @include u-margin-top(0);
-        @include u-margin-right("105");
-        @include u-font("sans", "xs");
+        margin-top: units(0);
+        margin-right: units(1);
+        margin-bottom: units(1);
         border: map.get($communities-of-practice, $community);
         color: map.get($communities-of-practice, $community);
       }
     }
   }
+
+
+
 }
 
 #no_job_postings {
