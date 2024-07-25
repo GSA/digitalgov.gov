@@ -18,7 +18,6 @@
       "c-content c-apply"
       "c-meta c-meta";
     grid-template-columns: 7fr 1fr;
-    // position: relative;
   }
 
   @include at-media-max("tablet") {
@@ -29,7 +28,6 @@
       "c-meta"
       "c-apply";
     grid-template-rows: 2fr 1fr;
-    // position: relative;
   }
 
   .h3 {
@@ -37,20 +35,19 @@
   }
 
   &__content {
-    grid-area: c-content;
-    flex-direction: column;
     display: flex;
+    flex-direction: column;
+    grid-area: c-content;
   }
 
   &__summary {
     grid-area: c-content;
-    @include u-margin-top(0);
+    margin-top: units(0);
 
     p {
       @include u-line-height("sans", 3);
       @include u-font("sans", "md");
       @include u-text("normal");
-
       max-width: none;
     }
 
@@ -66,21 +63,8 @@
   }
 
   &__apply {
-    @include at-media("mobile-lg") {
-      grid-area: c-apply;
-      display: grid;
-    }
-
-    @include at-media-max("mobile-lg") {
-      grid-area: c-apply;
-      display: grid;
-      // position: relative;
-      // display: flex;
-    }
-    // position: relative;
-    // position: absolute;
-    // right: 0;
-    // top: 1rem;
+    display: grid;
+    grid-area: c-apply;
   }
 
   $communities-of-practice: (
@@ -95,12 +79,8 @@
   );
 
   &__meta {
-    grid-area: c-meta;
-    // display: block;
     display: flex;
-    // position: relative;
-
-    // grid-template-columns: repeat(5, 1fr);
+    grid-area: c-meta;
 
     #date {
       font-style: italic;
@@ -108,18 +88,18 @@
     }
 
     #topics {
-      position: relative;
       display: grid;
       grid-template-columns: repeat(4, auto);
+      position: relative;
     }
 
     @each $community, $color in $communities-of-practice {
       .cop-topic--#{$community} {
-        margin-top: units(0);
-        margin-right: units(1);
-        margin-bottom: units(1);
         border: map.get($communities-of-practice, $community);
         color: map.get($communities-of-practice, $community);
+        margin-bottom: units(1);
+        margin-right: units(1);
+        margin-top: units(0);
       }
     }
   }
