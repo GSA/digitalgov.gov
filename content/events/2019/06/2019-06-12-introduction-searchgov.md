@@ -43,6 +43,6 @@ In this online event, we’ll provide a basic overview of Search.gov’s essenti
 
 [**Search.gov**](https://search.gov/) is a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains.
 
-For more information about Search.gov, email [search@support.digitalgov.gov](mailto:search@gsa.gov), or call 202-969-7426. 
+For more information about Search.gov, email [search@gsa.gov](mailto:search@gsa.gov), or call 202-969-7426. 
 
 _Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
