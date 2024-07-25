@@ -1,5 +1,10 @@
 ---
 
+# Replace everything below this comment with the YAML formatted jobs from Google Sheets
+# DELETE the quotation marks ("") at the start and end of the YAML block
+# Do not change the indentation of the YAML content
+# Jobs with a close date before the current date will automatically be omitted
+
 - title: Translator
   department: European Branch, Translating Division, Office of Language Services, Bureau of Administration (A/OPR/LS)
   description: I wanted to pass along a job opening at the Department of State.  The job is a GS13 English-to-Spanish translator opening on the listservs of the ATA GovDiv.  It will be open from 07/11/2024 to 07/25/2024. Please feel free to share with your networks.
