@@ -33,12 +33,17 @@ const client = new AWS.S3Client({
     region: "us-east-1",
     credentials: {
         accessKeyId: process.env.AWS_ACCESS_KEY_ID,
-        secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
-    }
+        secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
+    },
 });
 const bucketName = "digitalgov";
 const imageDir = "content/uploads/_working-images/processed/";
 const fileDir = "content/uploads/_working-files/to-process/";
+/**
+ * Uploads an image to s3 bucket
+ * @param {string} filePath - path of the file
+ * @param {string} fileName - name of the file
+ */
 async function uploadImage(filePath, fileName) {
     try {
         const fileContent = await fs.promises.readFile(filePath);
@@ -48,7 +53,7 @@ async function uploadImage(filePath, fileName) {
             Key: fileName,
             Body: fileContent,
             ContentType: contentType,
-            ACL: "public-read"
+            ACL: "public-read",
         }));
         const url = `https://${bucketName}.s3.amazonaws.com/${fileName}`;
         console.log("Image uploaded successfully. Public URL:", url);
@@ -60,11 +65,16 @@ async function uploadImage(filePath, fileName) {
         if (error instanceof Error) {
             console.error("Error message:", error.message);
         }
-        if ('$metadata' in error) {
+        if ("$metadata" in error) {
             console.error("Error metadata:", error.$metadata);
         }
     }
 }
+/**
+ * Uploads a file to s3 bucket
+ * @param {string} filePath - path of the file
+ * @param {string} fileName - name of the file
+ */
 async function uploadFile(filePath, fileName) {
     try {
         const fileContent = await fs.promises.readFile(filePath);
@@ -73,7 +83,7 @@ async function uploadFile(filePath, fileName) {
             Key: `static/${fileName}`,
             Body: fileContent,
             ContentType: "application/octet-stream",
-            ACL: "public-read"
+            ACL: "public-read",
         }));
         const url = `https://${bucketName}.s3.amazonaws.com/static/${fileName}`;
         console.log("File uploaded successfully. Public URL:", url);
@@ -85,11 +95,14 @@ async function uploadFile(filePath, fileName) {
         if (error instanceof Error) {
             console.error("Error message:", error.message);
         }
-        if ('$metadata' in error) {
+        if ("$metadata" in error) {
             console.error("Error metadata:", error.$metadata);
         }
     }
 }
+/**
+ * Removes the image and file working directories
+ */
 async function cleanup() {
     const imageWorkingDir = "content/uploads/_working-images";
     const fileWorkingDir = "content/uploads/_working-files";
@@ -102,13 +115,16 @@ async function cleanup() {
     }
     try {
         await Promise.all(deletions);
-        console.log('Cleanup completed');
+        console.log("Cleanup completed");
     }
     catch (error) {
-        console.error('Cleanup failed:', error);
+        console.error("Cleanup failed:", error);
         throw error;
     }
 }
+/**
+ * Initiates the upload process for both images and files
+ */
 const upload = async () => {
     let imageDirExists = fs.existsSync(imageDir);
     let imageFiles = imageDirExists ? fs.readdirSync(imageDir) : [];
