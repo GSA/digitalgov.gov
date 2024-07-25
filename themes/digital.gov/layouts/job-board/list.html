@@ -1,6 +1,5 @@
 {{ define "content" }}
   {{ $job_board_page := ( .Site.Pages ) }}
-  <div class="paper">
     <main role="main" id="main-content">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
@@ -13,9 +12,8 @@
                 <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
               {{- end -}}
               <br />
-              <div>
-                {{ partial "core/usa-button.html" (dict "href" .RelPermalink "text" "Submit Job Posting") }}
-              </div>
+                <!-- <div id="submit_job_postings">To request a job posting to be published, email us at <a href = "mailto: digitalgov@gsa.gov">digitalgov@gsa.gov</a>. Include "Job Posting" in the subject line, the job link, a plain text position description (optional), and the related CoP(s) to the posting.</div> -->
+                <!--<div> {{ partial "core/usa-button.html" (dict "href" .RelPermalink "text" "Submit Job Posting") }} </div>-->
             </header>
           </div>
         </div>
@@ -25,7 +23,7 @@
         <div class="grid-container grid-container-desktop">
           {{ .Content }}
         </div>
+        {{- partial "core/pagination.html" . -}}
       </section>
     </main>
-  </div>
 {{ end }}
