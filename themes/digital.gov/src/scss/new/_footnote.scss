@@ -1,0 +1,7 @@
+@use "uswds-core" as *;
+
+.dg-footnote {
+  li {
+    word-break: break-word;
+  }
+}
