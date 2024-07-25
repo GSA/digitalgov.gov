@@ -105,13 +105,13 @@
   }
 }
 
-#submit_job_postings{
+#submit_job_postings {
   @include u-margin-y(1);
   @include u-font("sans", "lg");
   @include u-text("light");
   @include u-text("primary-darker");
   @include u-line-height("sans", 2);
-  text-align: center; 
+  text-align: center;
 }
 
 #no_job_postings {

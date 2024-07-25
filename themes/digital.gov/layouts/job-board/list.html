@@ -1,29 +1,29 @@
 {{ define "content" }}
   {{ $job_board_page := ( .Site.Pages ) }}
-    <main role="main" id="main-content">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
-            <header class="page-head page-head-{{- .Type -}}">
-              <h1>{{- .Title | markdownify -}}</h1>
+  <main role="main" id="main-content">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <header class="page-head page-head-{{- .Type -}}">
+            <h1>{{- .Title | markdownify -}}</h1>
 
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-                <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
-              {{- end -}}
-              <br />
-                <!-- <div id="submit_job_postings">To request a job posting to be published, email us at <a href = "mailto: digitalgov@gsa.gov">digitalgov@gsa.gov</a>. Include "Job Posting" in the subject line, the job link, a plain text position description (optional), and the related CoP(s) to the posting.</div> -->
-                <!--<div> {{ partial "core/usa-button.html" (dict "href" .RelPermalink "text" "Submit Job Posting") }} </div>-->
-            </header>
-          </div>
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+              <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
+            {{- end -}}
+            <br />
+            <!-- <div id="submit_job_postings">To request a job posting to be published, email us at <a href = "mailto: digitalgov@gsa.gov">digitalgov@gsa.gov</a>. Include "Job Posting" in the subject line, the job link, a plain text position description (optional), and the related CoP(s) to the posting.</div> -->
+            <!--<div> {{ partial "core/usa-button.html" (dict "href" .RelPermalink "text" "Submit Job Posting") }} </div>-->
+          </header>
         </div>
       </div>
+    </div>
 
-      <section class="stream">
-        <div class="grid-container grid-container-desktop">
-          {{ .Content }}
-        </div>
-        {{- partial "core/pagination.html" . -}}
-      </section>
-    </main>
+    <section class="stream">
+      <div class="grid-container grid-container-desktop">
+        {{ .Content }}
+      </div>
+      {{- partial "core/pagination.html" . -}}
+    </section>
+  </main>
 {{ end }}
