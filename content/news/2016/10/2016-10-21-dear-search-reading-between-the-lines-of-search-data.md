@@ -59,7 +59,7 @@ Because the relationships between all these data points can be complex, we gave 
 
 By looking at trends for individual queries, query topics, locations, and destinations, you’ve begun the journey towards using data to better inform your search configuration and content strategy. We also recommend looking at your website data from the <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program</a> or any other analytics software you have running on your site.
 
-If you have further questions, Vexed, you can always [email the DigitalGov Search team](mailto:search@support.digitalgov.gov).
+If you have further questions, Vexed, you can always [email the DigitalGov Search team](mailto:search@gsa.gov).
 
 Happy searching,
 
