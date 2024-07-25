@@ -52,10 +52,10 @@ If you manage a federal website, be sure you understand [the requirements for tr
 
 For example, at GSA, the agency’s Digital Presence Guidelines state, “All GSA public-facing websites must participate in the federal Digital Analytics Program by including the DAP tracking code on your website. All GSA public-facing websites should review site usage and search metrics at least monthly, and use the data to make informed decisions on how to continuously improve your site and exceed customer expectations. In addition to DAP, GSA sites have access to the free standard version of Google Analytics. GSA program offices should use this version of Google Analytics on your external and internal websites, if you need data capabilities above and beyond what DAP offers.”
 
-<footer>
+<div class="dg-footnote">
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
 <li id="fn1">
 The global case for customer experience in government (Public Sector Practice, Rep.). D’Emidio, T., Greenberg, S., Heidenreich, K., Klier, J., Wagner, J., & Weber, T. McKinsey & Company (2019). <a href="https://www.mckinsey.com/industries/public-sector/our-insights/the-global-case-for-customer-experience-in-government"> https://www.mckinsey.com/industries/public-sector/our-insights/the-global-case-for-customer-experience-in-government</a> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>

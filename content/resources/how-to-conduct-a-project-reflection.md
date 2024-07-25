@@ -30,7 +30,7 @@ weight: 1
 
 ---
 
-Reflecting on a completed project is important because it enables digital service delivery teams to identify strengths and weaknesses in current methods, allows for targeted improvement, and fosters a culture of excellence within teams. The process of reflecting and learning requires planning and whole-team participation. 
+Reflecting on a completed project is important because it enables digital service delivery teams to identify strengths and weaknesses in current methods, allows for targeted improvement, and fosters a culture of excellence within teams. The process of reflecting and learning requires planning and whole-team participation.
 
 ## The five Ws of a project reflection: What, when, why, who, and where
 
@@ -40,7 +40,7 @@ Teams can use a project reflection as a learning mechanism. Project reflections 
 
 ### When do you conduct a project reflection?
 
-A project reflection generally occurs at the end of a project. Mid-project check-ins may also be appropriate given the length, complexity, or size of a project. 
+A project reflection generally occurs at the end of a project. Mid-project check-ins may also be appropriate given the length, complexity, or size of a project.
 
 ### Why do you conduct project reflections?
 
@@ -60,7 +60,7 @@ A project reflection can happen either in person or online. The goal is to creat
 
 ### Prepare
 
-Facilitators should schedule one-and-a-half to two hours for a productive reflection session. A two-hour session is highly recommended for sessions with more than six participants, or for teams that encounter challenges throughout a project. Leading up to the session, facilitators will: 
+Facilitators should schedule one-and-a-half to two hours for a productive reflection session. A two-hour session is highly recommended for sessions with more than six participants, or for teams that encounter challenges throughout a project. Leading up to the session, facilitators will:
 
 1. Prepare the project reflection prompts.
    - Remind the team of project goals.
@@ -71,13 +71,13 @@ Facilitators should schedule one-and-a-half to two hours for a productive reflec
    - What would we do differently knowing what we know now?
    - What should we look for to assess our impact in the future?
 2. Share reflection prompts with all participants two to three days ahead of the scheduled session to allow participants to gather their thoughts ahead of time. Project reflection prompts should be a series of questions that allow team members to thoughtfully look back on their former project’s engagements and goals.
-3. Devote the first 10 to 15 minutes of the session to giving the team some space to verbally reflect on the project goals. This includes assessing if team goals were met or if they changed over the course of the engagement. 
+3. Devote the first 10 to 15 minutes of the session to giving the team some space to verbally reflect on the project goals. This includes assessing if team goals were met or if they changed over the course of the engagement.
 
 ## Project reflection template
 
-Helper text: Use this template to plan your team’s approach to reflecting on web and digital projects, and gather the information you will need to have a productive retrospective. You can modify the template below (originally developed by 18F) to meet your team’s needs. This template can be adapted to digital or in-person environments. Use your team’s preferred collaboration tools to create different areas for each of the sections within the template. 
+Helper text: Use this template to plan your team’s approach to reflecting on web and digital projects, and gather the information you will need to have a productive retrospective. You can modify the template below (originally developed by 18F) to meet your team’s needs. This template can be adapted to digital or in-person environments. Use your team’s preferred collaboration tools to create different areas for each of the sections within the template.
 
-The conversation this template generates should focus on process, not people. If there is a disagreement about a particular point, take a stance of curiosity, indicate that you wish to discuss that point further, and have a conversation as a team. 
+The conversation this template generates should focus on process, not people. If there is a disagreement about a particular point, take a stance of curiosity, indicate that you wish to discuss that point further, and have a conversation as a team.
 
 {{< box >}}
 
@@ -118,20 +118,20 @@ Let's spend 5 minutes (more or less) responding to each of the prompts. Feel fre
 
 #### What are a few of our biggest achievements?
 
-- 
-- 
-- 
+-
+-
+-
 
 #### What are a few of the biggest challenges we faced?
 
-- 
-- 
-- 
+-
+-
+-
 
 #### What would we do differently if we could go back in time to the start of this project knowing what we know now?
 
-- 
-- 
+-
+-
 
 #### Six months from now, what should we look for to assess our impact?
 
@@ -155,19 +155,19 @@ If we were to check in on the project 6 months from now, what would tell us whet
 
 ### Reflect
 
-Once each team member has had time to reflect on their project engagements and goals, facilitators should carry out the following actions for each assigned reflection prompt: 
+Once each team member has had time to reflect on their project engagements and goals, facilitators should carry out the following actions for each assigned reflection prompt:
 
 - Give the participants five minutes to silently write their thoughts and post them in the collaborative space. If this is in a remote environment, recommend to participants that they go on mute and turn off their cameras during this writing time.
 - Once participants are done writing, give another three to five minutes for participants to read their team member’s responses. Then, at the beginning of each response add a:
-   - Plus sign (**+**) to signal they agree with another member’s prompt
-   - Dollar sign (**$**) to spend time unpacking the thought as a group
-   - ​Question mark (**?**) to indicate they don’t understand the response
+    - Plus sign (**+**) to signal they agree with another member’s prompt
+    - Dollar sign (**$**) to spend time unpacking the thought as a group
+    - ​Question mark (**?**) to indicate they don’t understand the response
 - Limit the number of + and $ each participant has to “spend” if it seems they are being used too much.
 - Spend 10 minutes discussing each topic. Start with the topic that has the most + and work backwards from there. Pay attention to who is speaking during each discussion and encourage the quieter voices to weigh in as well.
 - Save the last 20 minutes of the session for the following:
-   - Five to 10 minutes to ask, "is there anything that you think is critical to cover that we haven’t addressed yet?"
-   - Five to 10 minutes to celebrate what went well and reflect on lessons and resources the team could share more broadly, even if they weren’t the highest-voted topics. Otherwise, it can be easy to only focus on the negative during sessions, which can inadvertently leave teams feeling deflated.
-   - One to two minutes to share next steps. Facilitators should highlight how they plan to synthesize key takeaways from the discussion and how this information will be shared.
+    - Five to 10 minutes to ask, "is there anything that you think is critical to cover that we haven’t addressed yet?"
+    - Five to 10 minutes to celebrate what went well and reflect on lessons and resources the team could share more broadly, even if they weren’t the highest-voted topics. Otherwise, it can be easy to only focus on the negative during sessions, which can inadvertently leave teams feeling deflated.
+    - One to two minutes to share next steps. Facilitators should highlight how they plan to synthesize key takeaways from the discussion and how this information will be shared.
 
 ### Synthesize and share
 

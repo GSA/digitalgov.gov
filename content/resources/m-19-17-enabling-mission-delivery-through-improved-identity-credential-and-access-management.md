@@ -43,9 +43,9 @@ OMB rescinds the following with the release of this memorandum:
 
 Address all questions or inquiries regarding this memorandum to the OMB Office ofthe Federal Chief Information Officer (OFCIO) via email: ofcio@omb.eop.gov.
 
-<footer>
+<div class="dg-footnote">
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
 <li id="fn1">This memorandum is not applicable to national security systems (NSS) as defined in 44 U.S.C. § 3552 (Federal Information Security Modernization Act of 2014), although OMB encourages owners and operators of NSS to utilize the requirements in this document where appropriate. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>

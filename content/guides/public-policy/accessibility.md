@@ -160,9 +160,9 @@ Focusing on our product roadmap, the Substance Abuse and Mental Health Administr
 
 ---
 
-<footer>
+<div class="dg-footnote">
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
 <li id="fn1">“World Wide Web Consortium Launches International Program Office for Web Accessibility Initiative.” 1997. W3C. October 22, 1997. <a href="https://www.w3.org/press-releases/1997/ipo-announce/">https://www.w3.org/press-releases/1997/ipo-announce/</a>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
-<footer>
+</div>

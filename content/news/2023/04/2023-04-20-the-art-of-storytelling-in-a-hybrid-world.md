@@ -107,10 +107,10 @@ Remember accessibility! Do you have captioning enabled? Can everyone access your
 
 The bottom line? You cannot always be “in person” physically, but you can still channel the dynamics of face-to-face, one-on-one interactions. The key is to make sure you create an experience — a conversation — instead of a data dump. Learn who your audience is and what they need, craft your story, use the right mix of mediums to reach your audience, and make sure to be accessible and inclusive. Yes, there are challenges in this increasingly global, online world, but there are so many opportunities to connect to more people, more often, and dare I say, more effectively.
 
-<footer>
+<div class="dg-footnote">
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
 <li id="fn1">Bohns, Vanessa. 2017. Review of A Face-To-Face Request Is 34 Times More Successful than an Email. Harvard Business Review. April 11, 2017. https://hbr.org/2017/04/a-face-to-face-request-is-34-times-more-successful-than-an-email. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 <li id="fn2">Canaday, Sara. 2021. Review of Post-Pandemic Communication. Reviewed by Gary Drevitch. Psychology Today. August 6, 2021. https://www.psychologytoday.com/us/blog/you-according-them/202108/post-pandemic-communication. <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>

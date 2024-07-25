@@ -91,7 +91,7 @@ Also, explore [USDA's research plays](https://www.usda.gov/digital-strategy/rese
 
 ---
 
-<footer>
+<div class="dg-footnote">
 <h3 id="footnote-label">Footnotes</h3>
 
 <ol>
@@ -101,4 +101,4 @@ Also, explore [USDA's research plays](https://www.usda.gov/digital-strategy/rese
 
 <li id="fn3">In addition to risk, anticipating and designing for unhappy paths presents an opportunity for resilience as well. If an organization does not anticipate negative possibilities, it “...has little to no resilience in the face of behaviors that diverge from that &#91;happy path] scenario.” This means that “...if and when the system breaks down and&#91;/or] people use it with ill intentions, &#91;the organization]...will be slow to respond or possibly incapable of recovering, as &#91;it tries] to react to a circumstance they’ve hardly considered.” https://uxmag.com/articles/resilience-is-the-design-imperative-of-the-21st-century. <a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>

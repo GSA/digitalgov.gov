@@ -74,10 +74,10 @@ Are you passionate about the civic impact of communications and data? Interested
 _Adele Luta and Georgeta Dragoiu are Presidential Innovation Fellows detailed to the National Institutes of Health. Both joined PIF as private-sector industry leaders in their respective fields across STEM and communications._
 
 ---
-<footer>
+<div class="dg-footnote">
 <h2 id="footnote-label">Footnotes</h2>
 <ol>
 <li id="fn1">Popejoy, Alice B., and Stephanie M. Fullerton. “Genomics Is Failing on Diversity.” Nature News, Nature Publishing Group, 12 Oct. 2016, [www.nature.com/news/genomics-is-failing-on-diversity-1.20759](http://www.nature.com/news/genomics-is-failing-on-diversity-1.20759). <a href="#footnotes-ref1" aria-label="Back to content">↵</a></li>
 <li id="fn2">"The ‘_All of Us_’ Research Program." New England Journal of Medicine, Massachusetts Medical Society, 15 Aug. 2019, [www.nejm.org/doi/full/10.1056/NEJMsr1809937](http://www.nejm.org/doi/full/10.1056/NEJMsr1809937). <a href="#footnotes-ref2" aria-label="Back to content">↵</a></li>
 </ol>
-<footer>
+</div>

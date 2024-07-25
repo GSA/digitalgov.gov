@@ -93,7 +93,7 @@ Or, to reduce it further: The Service Design team improves customer experience t
 
 Read [Bringing design in-house](https://digital.gov/2023/01/27/bringing-design-in-house/) to learn about hiring designers in the federal government, and reach out to [customerexperience@gsa.gov](mailto:customerexperience@gsa.gov) with any questions.
 
-<footer>
+<div class="dg-footnote">
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
 <li id="fn1">Dilemmas in a general theory of planning. Rittel, H.W.J., Webber, M.M. Policy Sci 4, 155–169 (1973). https://doi.org/10.1007/BF01405730 <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
@@ -103,4 +103,4 @@ Read [Bringing design in-house](https://digital.gov/2023/01/27/bringing-design-i
 <li id="fn5">Good to Great: Why Some Companies Make the Leap...and Others Don't. Collins, Jim. Harper Business. 2001. <a href="#footnotes-ref5" aria-label="Back to content">↩</a></li>
 <li id="fn6">High Resolution Podcast. Episode 7. 27 March 2017. https://www.youtube.com/watch?v=TeE6Tx_nO94 (1 hour, 8 minutes) <a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>
