@@ -11,7 +11,7 @@
 }
 
 .card-job {
-  @include at-media("tablet"){
+  @include at-media("tablet") {
     align-items: start;
     display: grid;
     grid-template-areas:
@@ -21,7 +21,7 @@
     // position: relative;
   }
 
-  @include at-media-max("tablet"){
+  @include at-media-max("tablet") {
     align-items: start;
     display: grid;
     grid-template-areas:
@@ -31,7 +31,6 @@
     grid-template-rows: 2fr 1fr;
     // position: relative;
   }
-
 
   .h3 {
     margin: 0;
@@ -67,12 +66,12 @@
   }
 
   &__apply {
-    @include at-media("mobile-lg"){
+    @include at-media("mobile-lg") {
       grid-area: c-apply;
       display: grid;
     }
-    
-    @include at-media-max("mobile-lg"){
+
+    @include at-media-max("mobile-lg") {
       grid-area: c-apply;
       display: grid;
       // position: relative;
@@ -95,8 +94,6 @@
     "CC": color("blue-60v"),
   );
 
-
-
   &__meta {
     grid-area: c-meta;
     // display: block;
@@ -104,7 +101,7 @@
     // position: relative;
 
     // grid-template-columns: repeat(5, 1fr);
-    
+
     #date {
       font-style: italic;
       margin-right: units(3);
@@ -126,9 +123,6 @@
       }
     }
   }
-
-
-
 }
 
 #no_job_postings {
