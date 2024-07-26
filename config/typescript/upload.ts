@@ -30,7 +30,8 @@ async function uploadImage(
 ): Promise<string | undefined> {
   try {
     const fileContent = await fs.promises.readFile(filePath);
-    let contentType = mimeTypes.lookup(filePath) || "application/octet-stream";
+    const contentType =
+      mimeTypes.lookup(filePath) || "application/octet-stream";
     await client.send(
       new AWS.PutObjectCommand({
         Bucket: bucketName,
@@ -125,11 +126,11 @@ async function cleanup(): Promise<void> {
  * Initiates the upload process for both images and files
  */
 const upload = async (): Promise<void> => {
-  let imageDirExists = fs.existsSync(imageDir);
-  let imageFiles = imageDirExists ? fs.readdirSync(imageDir) : [];
+  const imageDirExists = fs.existsSync(imageDir);
+  const imageFiles = imageDirExists ? fs.readdirSync(imageDir) : [];
 
-  let fileDirExists = fs.existsSync(fileDir);
-  let fileFiles = fileDirExists ? fs.readdirSync(fileDir) : [];
+  const fileDirExists = fs.existsSync(fileDir);
+  const fileFiles = fileDirExists ? fs.readdirSync(fileDir) : [];
 
   try {
     // Upload image files
