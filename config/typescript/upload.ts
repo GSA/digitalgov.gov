@@ -4,6 +4,7 @@ import * as fs from "fs";
 import path = require("path");
 import { rm } from "fs/promises";
 import * as mimeTypes from "mime-types";
+
 config();
 
 const client = new AWS.S3Client({
