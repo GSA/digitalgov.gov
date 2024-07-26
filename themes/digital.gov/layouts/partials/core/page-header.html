@@ -1,0 +1,31 @@
+{{/* @params {object} data - a dictionary object that contains the following string properties:
+  - title - the required page title
+  - deck - an optional summary text displayed below the title
+  - kicker - an optional short introduction text displayed above the title
+  @params {string} append_title_text - optional text that is appended to the title text field
+*/}}
+
+{{ $title := .data.Params.title }}
+{{ $deck := .data.Params.deck }}
+{{ $kicker := .data.Params.kicker }}
+{{ $append_title_text := .append_title_text }}
+
+
+<div class="page-header">
+  {{- if $kicker -}}
+    <p class="kicker">
+      {{- $kicker -}}
+    </p>
+  {{- end -}}
+  <h1>
+    {{ $title | markdownify }}
+    {{ if $append_title_text }}
+      {{ $append_title_text }}
+    {{ end }}
+  </h1>
+  {{- if $deck -}}
+    <div class="deck">
+      {{- $deck | markdownify -}}
+    </div>
+  {{- end -}}
+</div>

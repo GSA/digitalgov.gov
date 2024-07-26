@@ -11,7 +11,7 @@
 
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
-    {{- partial "partials/core/header-stack.html" . -}}
+    {{- partial "partials/core/page-header.html" (dict "data" .) -}}
     {{- if $glossary -}}
       <button class="dg-glossary__toggle">
         <svg

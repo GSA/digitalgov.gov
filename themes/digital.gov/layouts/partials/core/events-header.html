@@ -3,7 +3,7 @@
     {{- partial "partials/core/usa-breadcrumbs.html" . -}}
     <div class="grid-row">
       <div class="grid-col-12">
-        {{- partial "partials/core/header-stack.html" . -}}
+        {{- partial "partials/core/page-header.html" (dict "data" .) -}}
         <p class="datetime">
           <svg
             class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
