@@ -20,14 +20,14 @@
     grid-template-columns: 7fr 1fr;
     overflow-wrap: anywhere;
   }
-  @media (max-width: units(tablet-lg)) and (min-width: units(tablet)){
+  @media (max-width: units(tablet-lg)) and (min-width: units(tablet)) {
     align-items: start;
     display: grid;
     grid-template-areas:
       "c-content c-apply"
       "c-meta c-meta";
     grid-template-columns: 3fr 1fr;
-    overflow-wrap: anywhere;    
+    overflow-wrap: anywhere;
   }
 
   @include at-media-max("tablet") {
