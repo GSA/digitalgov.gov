@@ -15,7 +15,7 @@ source: 'searchgov'
 source_url: "https://www.search.gov/"
 
 
-contact: search@support.digitalgov.gov
+contact: search@gsa.gov
 
 # Weight — controls how services appear across the site
 # 2 == will appear as related service (ADs) on blog posts and event pages
