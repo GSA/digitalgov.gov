@@ -12,7 +12,7 @@ last_name: "Mundstock"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# slug — the specific user-id for an author.
+# slug — the specific user-id for an author
 slug: rachel-mundstock
 
 # if you include an email address, it will be displayed on your profile page
