@@ -45,7 +45,8 @@ There is a line of thinking that says if a site is designed optimally, then <a h
 
 <a href="https://search.gov" target="_blank">DigitalGov Search</a>, like any search tool worth its salt, provides robust search analytics. We give views into to the top <a href="http://search.digitalgov.gov/manual/queries.html" target="_blank">queries</a> your site gets and the <a href="http://search.digitalgov.gov/manual/clicks.html" target="_blank">top pages clicked on</a> out of your results pages. We also provide click-through rates for all queries: for all the times a query was run, how many clicks did that search results page get? You can see this for the top queries, or you can search for a particular term and see all the queries that contain that term.
 
-{{< legacy-img src="2016/09/Queries\_-\_USA_gov-600w.png" alt="Screenshot of DigitalGov Search report on the top queries performed on USA.gov" >}}
+{{< legacy-img src="2016/09/Queries-USA_gov-600w.png" alt="Screenshot of DigitalGov Search report on the top queries performed on USA.gov" >}}
+
 
 A really low click-through rate, or one well above 100%, is a sign that some sort of change would be helpful to searchers, but what that change is will depend on what they were looking for.
 
@@ -53,16 +54,15 @@ Does a particular page need to be boosted in the search results, or do you need 
 
 The next important question is: Where were the searchers when they ran a particular query? I’ve seen cases where a query was run directly from a page that, from the look of the url, should have contained the information the person was looking for. In our <a href="http://search.digitalgov.gov/manual/referrers.html" target="_blank">referrers</a> report you can see the pages where the most queries were run on your site, and from there you can see all the queries that were run on any particular page. This is a gold mine for determining whether it’s your search configuration or your site content &#8211; or structure! &#8211; that needs tweaking.
 
-{{< legacy-img src="2016/09/Referrers\_-\_USA_gov-600w.png" alt="The DigitalGov Search Top Referring URLs report, showing the pages on which people most frequently used the search box." >}}
+{{< legacy-img src="2016/09/Referrers-USA_gov-600w.png" alt="The DigitalGov Search Top Referring URLs report, showing the pages on which people most frequently used the search box." >}}
 
-Because the relationships between all these data points can be complex, we gave a webinar in December 2015 on analytics. Michelle Chronister, the former user experience team lead for USAgov, described how that team looks at search data for trends that can guide USAgov’s content strategy. They group query terms into topics, and analyze at the topic level. A <a href="{{< ref "2016-01-08-what-are-your-customers-searching-for.md" >}}" target="_blank">webinar recap</a> is available that includes a video recording, slide deck, and data tracking/report template as well as an infographic of USAgov’s 2015 search traffic.
+Because the relationships between all these data points can be complex, we gave a webinar in December 2015 on analytics. Michelle Chronister, the former user experience team lead for USAgov, described how that team looks at search data for trends that can guide USAgov’s content strategy. They group query terms into topics, and analyze at the topic level. A <a href="https://digital.gov/2016/01/08/what-are-your-customers-searching-for/>">webinar recap</a> is available that includes a video recording, slide deck, and data tracking/report template as well as an infographic of USAgov’s 2015 search traffic.
 
-By looking at trends for individual queries, query topics, locations, and destinations, you’ve begun the journey towards using data to better inform your search configuration and content strategy. We also recommend looking at your website data from the <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program</a> or any other analytics software you have running on your site.
+By looking at trends for individual queries, query topics, locations, and destinations, you’ve begun the journey towards using data to better inform your search configuration and content strategy. We also recommend looking at your website data from the <a href="https://digital.gov/guides/dap/">Digital Analytics Program</a> or any other analytics software you have running on your site.
 
-If you have further questions, Vexed, you can always [email the DigitalGov Search team](mailto:search@support.digitalgov.gov).
+If you have further questions, Vexed, you can always [email the DigitalGov Search team](mailto:search@gsa.gov).
 
 Happy searching,
 
-Dawn
-
+Dawn <br />
 Program Manager, DigitalGov Search
