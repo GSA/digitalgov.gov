@@ -11,13 +11,23 @@
 }
 
 .card-job {
-  @include at-media("tablet") {
+  @include at-media("tablet-lg") {
     align-items: start;
     display: grid;
     grid-template-areas:
       "c-content c-apply"
       "c-meta c-meta";
     grid-template-columns: 7fr 1fr;
+    overflow-wrap: anywhere;
+  }
+  @media (max-width: units(tablet-lg)) and (min-width: units(tablet)){
+    align-items: start;
+    display: grid;
+    grid-template-areas:
+      "c-content c-apply"
+      "c-meta c-meta";
+    grid-template-columns: 3fr 1fr;
+    overflow-wrap: anywhere;    
   }
 
   @include at-media-max("tablet") {
@@ -28,6 +38,7 @@
       "c-meta"
       "c-apply";
     grid-template-rows: 2fr 1fr;
+    overflow-wrap: anywhere;
   }
 
   .h3 {
