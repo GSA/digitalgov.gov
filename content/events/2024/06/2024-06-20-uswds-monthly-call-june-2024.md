@@ -19,7 +19,7 @@ slug: uswds-monthly-call-june-2024
 event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-june-title-card
-
+youtube_id: yBCLyWO0yCo
 ---
 
 {{< asset-static file="uswds-monthly-call-june-2024.pptx" label="View the slides (Powerpoint presentation, 3 MB, 33 slides)">}}
