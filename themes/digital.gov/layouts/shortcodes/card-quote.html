@@ -1,11 +1,13 @@
-{{- if (.Get "text") -}}
-  <div class="card-quote {{ if (.Get "bg") -}}{{- .Get "bg" -}}{{- end -}}">
-    <blockquote>
-      <span class="q">“</span>{{- .Get "text" | markdownify -}}<span class="q"
-        >”</span
-      >
-      {{- if (.Get "cite") -}}
-        <cite>— {{- .Get "cite" | markdownify -}}</cite>
+{{ $bg := (.Get "bg") }}
+{{ $cite := (.Get "cite") }}
+{{ $text := (.Get "text") }}
+
+{{- if $text -}}
+  <div class="card-quote {{ if $bg }}{{ $bg }}{{ end }}">
+    <blockquote class="card-quote__blockquote">
+      <span class="q">“</span>{{ $text | markdownify }}<span class="q">”</span>
+      {{- if $cite -}}
+        <cite>— {{ $cite | markdownify }}</cite>
       {{- end -}}
     </blockquote>
   </div>
