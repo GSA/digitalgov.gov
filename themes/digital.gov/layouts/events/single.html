@@ -8,6 +8,7 @@
   {{- $event_description := (print $event_desc $event_url) -}}
   {{- $event_location := .Params.venue.venue_name -}}
 
+
   <main role="main" id="main-content" class="event">
     <article>
       {{- partial "core/events-header.html" . -}}
@@ -43,6 +44,7 @@
         {{- .Render "stage-youtube" -}}
       {{- end -}}
 
+
       <section>
         <div class="grid-container grid-container-desktop">
           <div class="grid-row tablet-lg:grid-gap-4">
@@ -64,6 +66,7 @@
                   {{- .Render "stage-google" -}}
                 {{- end -}}
               {{- end -}}
+
 
               <div class="content usa-prose">
                 {{- .Content -}}

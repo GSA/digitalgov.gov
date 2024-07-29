@@ -16,7 +16,9 @@
             aria-hidden="true"
             focusable="false"
           >
-            <use xlink:href="{{ "uswds/img/sprite.svg#calendar_today" | relURL }}"></use>
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#calendar_today" | relURL }}"
+            ></use>
           </svg>
           {{ with .Date }}
             {{ . | dateFormat "Monday, January 02, 2006" }}
@@ -33,7 +35,8 @@
         </p>
         {{- if .Params.host -}}
           <p class="host">
-            Hosted by Digital.gov and the {{ .Params.host }}
+            Hosted by Digital.gov and the
+            {{ .Params.host }}
           </p>
         {{- end -}}
       </div>
