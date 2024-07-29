@@ -5,27 +5,6 @@
 # Do not change the indentation of the YAML content
 # Jobs with a close date before the current date will automatically be omitted
 
-- title: Technical Writer-Editor (Scientific)
-  department: Department of Health and Human Services
-  location: Anywhere in the U.S. (remote job)
-  description: (Official position summary) This position is in the Communications Branch of the Office of Science Policy and Communications (OSPC) at the National Institute on Drug Abuse (NIDA), National Institutes of Health (NIH).
-  open_date: 2024-07-22
-  close_date: 2024-07-27
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/798403100
-  cop_topics:
-    - Communicators
-
-- title: Public Affairs Specialist (Social Media)
-  department: Department of Energy
-  location: Portland, Oregon
-  description: (Official position summary) This position is located in Digital Media & Visual Design (DKD) organization within Communications (DK), which reports to the Workforce and Strategy Office (D) of the Bonneville Power Administration (BPA) A successful candidate in the Public Affairs Specialist (Social Media) position will primarily focus on the development, co-development, review, and editing of web articles, social media posts, and other digital content in support of the agency's communication goals and strategies.
-  open_date: 2024-07-17
-  close_date: 2024-07-27
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800403600
-  cop_topics:
-    - Communicators
-    - Social Media
-
 - title: Supv IT Specialist (Division Branch Manager)
   department: Legislative Branch
   location: Washington, District of Columbia
@@ -111,7 +90,58 @@
   location: Washington, District of Columbia
   description: (Official position summary) This position is part of the U.S. International Development Finance Corporation (DFC), Office of Administration (OA), Corporate Administrative Services (CAS) Division. As a Records and Information Management Specialist, you will serve as a technical expert in the maintenance, preservation, and disposal of official Federal records held or created by the Corporation.
   open_date: 2024-07-18
-  close_date: 2024-07-30
+  close_date: 2024-07-31
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800485800
+  cop_topics:
+    - Communicators
+
+- title: Videographer
+  department: Other Agencies and Independent Organizations
+  location: Washington, District of Columbia
+  description: (Official position summary) This position serves as videographer and photographer for the National Transportation Safety Board (NTSB), in the Digital Services Division (DS), Office of Safety Recommendations and Communications (SRC), in Washington, DC. The incumbent will work with in collaboration with the senior audiovisual production specialist on a wide variety of mission-related products.
+  open_date: 2024-07-24
+  close_date: 2024-08-08
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/801422400
+  cop_topics:
+    - Web Managers
+
+- title: Digital Services Analyst (Content Strategist)
+  department: Other Agencies and Independent Organizations
+  location: Multiple Locations
+  description: (Official position summary) This position serves in the Office of the Chief Business Officer (OCBO). The incumbent will be responsible for using current service design principles and techniques to improve the agency's in person and digital customer experience.
+  open_date: 2024-07-29
+  close_date: 2024-08-03
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/801852200
+  cop_topics:
+    - Web Managers
+
+- title: Web Communications Strategist
+  department: Department of Commerce
+  location: Anywhere in the U.S. (remote job)
+  description: (Official position summary) The Deputy Commissioner for Trademark Examination Policy is made up of the Petitions Office, Legal Policy Office, Identification and Classification Policy Office, Trademark Assistance Center, Trademark Law Library, and Office of Trademark Quality Review and Training. The primary purpose of the position is to develop and execute Trademark internal strategies for identifying customer segments and effectively engaging with them online.
+  open_date: 2024-07-26
+  close_date: 2024-08-10
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/801925000
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+- title: Public Affairs Specialist
+  department: Department of Health and Human Services
+  location: Atlanta, Georgia
+  description: (Official position summary) As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
+  open_date: 2024-07-23
+  close_date: 2024-08-07
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800556000
+  cop_topics:
+    - Communicators
+
+- title: Public Affairs Specialist
+  department: Department of Health and Human Services
+  location: Atlanta, Georgia
+  description: (Official position summary) As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
+  open_date: 2024-07-23
+  close_date: 2024-08-07
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800545900
   cop_topics:
     - Communicators
