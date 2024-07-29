@@ -122,7 +122,7 @@ async function processImageVariants(image) {
 async function processImages() {
   return new Promise((resolve, reject) => {
     fs.readdir(`${processImagesDirectory}`, async (err, images) => {
-      if (images === undefined) { 
+      if (images === undefined) {
         resolve();
         return;
       }
@@ -155,15 +155,15 @@ async function processImages() {
  * Removes the /to-process temporary working folder after variants are created
  */
 function removeProcessedImage() {
-return new Promise((resolve, reject) => {
-  const imageDir = "content/uploads/_working-images/processed";
- 
-  if (fs.existsSync(imageDir) && fs.readdirSync(imageDir).length > 0) {
-    return del([
-      "content/uploads/_working-images/to-process",
-    ]).then(() => resolve()).catch((err) => reject(err));
-  } else {
-    resolve();
+  return new Promise((resolve, reject) => {
+    const imageDir = "content/uploads/_working-images/processed";
+
+    if (fs.existsSync(imageDir) && fs.readdirSync(imageDir).length > 0) {
+      return del([
+        "content/uploads/_working-images/to-process",
+      ]).then(() => resolve()).catch((err) => reject(err));
+    } else {
+      resolve();
     }
   });
 }
