@@ -25,6 +25,10 @@ weight: 1
 
 ---
 
+Watch the video below, Beginner's guide: Getting started with ATOs, for an overview of the authorization to operate process with practical advice to help authorize your system for the first time.
+
+{{< youtube id="vOPO2a33Bak" title="Beginner's guide: Getting started with ATOs" >}}
+
 ## What is an ATO?
 
 ATO stands for authorization to operate, also known as "authority to operate." Because there is no perfect, risk-free software system, the ATO process is aimed at minimizing and managing risk responsibility. This process mostly comes from the Federal Information Security Management Act (FISMA). FISMA is an effort to standardize and consolidate security review and reporting across agencies. For more information, see the [Centers for Medicare and Medicaid Services’ helpful one-pager on FISMA.](https://security.cms.gov/learn/federal-information-security-management-act-fisma)
