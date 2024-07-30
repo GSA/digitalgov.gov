@@ -1,11 +1,9 @@
 @use "uswds-core" as *;
 @use "sass:map";
 
-.job-board {
-  .section {
-    .paper {
-      @include u-bg("blue-warm-5");
-    }
+.job-board.section {
+  .paper {
+    @include u-bg("blue-warm-5");
   }
 }
 
