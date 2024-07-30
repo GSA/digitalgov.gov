@@ -10,7 +10,20 @@ The image and file upload processing feature consists of the following scripts:
 
 2. `file-process.js`: Processes the uploaded images by creating responsive variants and compressing the original image.
 
-3. `file-upload.js`: Uploads the processed images and files to Amazon S3 and cleans up temporary directories.
+3. `upload.js`: Uploads the processed images and files to Amazon S3 and cleans up temporary directories.
+> [!NOTE]
+> This script is derived from typescript code located in ./config/typescript/upload.ts. 
+
+If you want to make edits to this code you must recompile the javascript for upload.js, run the following command from the root directory.
+
+```shell
+npm i -g typescript
+```  
+
+Then run this: 
+```
+tsc 
+```
 
 4. `scripts.js`: Bundles and compiles JavaScript files using webpack.
 
