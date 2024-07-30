@@ -20,7 +20,7 @@ slug: rachel-mundstock
 email: "rachel.mundstock@gsa.gov"
 
 # Bio — keep it under 50 words
-bio: "Rachel is the Information Specialist for GSA&#39;s DigitalGov Search. She helps power the search experience on over 1,500 government websites. Feel free to email her at search@support.digitalgov.gov with any questions or check out DigitalGov Search for more information."
+bio: ""
 
 # Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
 bio_url: ""

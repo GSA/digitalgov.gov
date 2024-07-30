@@ -8,11 +8,13 @@ summary: Learn why search functionality is an important component of federal
 topics:
   - digital-service-delivery
   - search-engine-optimization
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 6
+weight: 7
+
 slug: an-introduction-to-search
 
 ---
