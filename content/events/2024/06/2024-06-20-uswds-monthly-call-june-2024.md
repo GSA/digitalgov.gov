@@ -172,7 +172,7 @@ And this also means that USWDS Web Components will be largely unaffected by any 
 
 **Slide 25:** So let's take a look at what we're building. And to do that, I'd like to introduce a couple of my colleagues. First James Mejia. James is an engineer and a contractor on the USWDS Core team. James, can you introduce yourself and give a brief self description for anyone audio-only?
 
-James: _James Mejia Intro_
+James: Yes, of course. Thanks, Dan. Hello, everyone. My name is James Mejia. I have short dark hair, brown skin, and a blue button-up. Happy to be here today.
 
 **Slide 26:** Dan: Thanks James! I'd also like to introduce Matt Henry. Matt's our new Engineering Lead, and we're very pleased to have him on the USWDS team. Matt, can you introduce yourself and give a brief self description for anyone audio-only?
 
