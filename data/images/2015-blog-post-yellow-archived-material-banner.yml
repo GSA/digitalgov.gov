@@ -1,12 +1,12 @@
 
   # https://s3.amazonaws.com/digitalgov/2015-blog-post-yellow-archived-material-banner.png
   # Image shortcode: {{< img src=2015-blog-post-yellow-archived-material-banner >}}'
-  date     :  2024-07-08 15:40:59 -0400
+  date     :  2024-07-31 15:24:33 -0400
   uid      :  2015-blog-post-yellow-archived-material-banner
   width    :  1200
   height   :  630
   format   :  png
   credit   :  
-  caption  :  ""
-  alt      :  "Screen capture of a Digital.gov blog page features a yellow alert banner that explains that the page may contain broken links or outdated references."
+  caption  :  
+  alt      :  
   
