@@ -1,7 +1,6 @@
 {{/* Display guides in a card list that uses the guide_weight field to display each card */}}
 
 {{ define "content" }}
-
   {{ $guidesList := slice }}
   {{ $guidesData := slice }}
   {{ $guidePages := slice }}
@@ -18,35 +17,27 @@
 
   {{/* Save each guide homepage as hugo page collection */}}
   {{ range $guidesData }}
-    {{/* Get the first nav item from each guide, the guide homepage */}}
     {{ range first 1 .nav }}
       {{ $guidePages = $guidePages | append ($.Site.GetPage .path) }}
     {{ end }}
-
-    {{/* If guide is an HCD sub-guide, get the parent url which is the HCD home page */}}
     {{ if .landingURL }}
       {{ $guidePages = $guidePages | append ($.Site.GetPage .landingURL) }}
     {{ end }}
-
-    {{/* Remove any duplicates from the previous step */}}
     {{ $guidePages = uniq $guidePages }}
   {{ end }}
 
 
   <main role="main" id="main-content">
-    <div class="grid-container-desktop margin-bottom-5">
+    <div class="grid-container margin-bottom-5">
       <header class="page-head">
         <h1>{{- .Title | markdownify -}}</h1>
-
         {{- if .Params.deck -}}
           <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
         {{- end -}}
       </header>
-
       <section class="dg-guides">
         <ul class="usa-card-group">
           {{ range $guidePages.ByParam "guide_weight" }}
-            {{/* The guide_weight sets guide order on the guides page and nowhere else */}}
             {{ if .Params.guide_weight }}
               {{ template "card-guide" (dict "title" .Title "summary" .Params.summary "link" .Permalink "image" .Params.image "site" .Site) }}
             {{ end }}
@@ -57,54 +48,21 @@
   </main>
 {{ end }}
 
-{{/* =======
-  Round box that displays optional guide kicker, title, summary and image.
-  Seen on: https://digital.gov/guides/.
-
-  @param {string} required $title - The guide title.
-  @param {string} required $summary - The guide summary.
-  @param {string} required $link - Guide URL.
-  @param {string} required $image - The name of the guide illustration image.
-  @param {scope}  required $site - Hugo object for accessing site settings from config.yml. Used to pass cdnurl to image partial.
-*/}}
-
 {{ define "card-guide" }}
   {{ $title := .title }}
   {{ $summary := .summary }}
   {{ $link := .link }}
   {{ $image := .image }}
   {{ $site := .site }}
+  {{ $layout := "" }}
+  {{ if $image }}
+    {{ $layout = "has-image" }}
+  {{ else }}
+    {{ $layout = "no-image" }}
+  {{ end }}
 
 
   <li class="usa-card tablet:grid-col-4 dg-guides-card">
-    <div class="usa-card__container">
-      {{ if $image }}
-        <div class="usa-card__media usa-card__media--indent">
-          <div class="usa-card__img">
-            {{- partial "core/img-flexible.html" (dict "Site" $site "src" $image "small" "false") -}}
-          </div>
-        </div>
-      {{ end }}
-      {{ if $title }}
-        <div class="usa-card__header">
-          <span class="dg-guides-card__kicker margin-bottom-2"
-            >Digital.gov Guide</span
-          >
-          <h2 class="usa-card__heading">
-            {{ $title }}
-          </h2>
-        </div>
-      {{ end }}
-      {{ if $summary }}
-        <div class="usa-card__body">
-          <p>{{ $summary }}</p>
-        </div>
-      {{ end }}
-      {{ if $link }}
-        <div class="usa-card__footer">
-          <a href="{{- $link -}}" class="usa-button">{{ $title }}</a>
-        </div>
-      {{ end }}
-    </div>
+    {{ partial "core/usa-card" (dict "card_data" (dict "header" $title "body" $summary "link" $link "link_title" "Learn More" "image" $image "alt" "Test Alt" "layout" $layout "kicker" "Digital.gov Guide" "site" $site)) }}
   </li>
 {{ end }}

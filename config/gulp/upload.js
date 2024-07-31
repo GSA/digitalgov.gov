@@ -47,7 +47,7 @@ const fileDir = "content/uploads/_working-files/to-process/";
 async function uploadImage(filePath, fileName) {
     try {
         const fileContent = await fs.promises.readFile(filePath);
-        let contentType = mimeTypes.lookup(filePath) || "application/octet-stream";
+        const contentType = mimeTypes.lookup(filePath) || "application/octet-stream";
         await client.send(new AWS.PutObjectCommand({
             Bucket: bucketName,
             Key: fileName,
@@ -126,10 +126,10 @@ async function cleanup() {
  * Initiates the upload process for both images and files
  */
 const upload = async () => {
-    let imageDirExists = fs.existsSync(imageDir);
-    let imageFiles = imageDirExists ? fs.readdirSync(imageDir) : [];
-    let fileDirExists = fs.existsSync(fileDir);
-    let fileFiles = fileDirExists ? fs.readdirSync(fileDir) : [];
+    const imageDirExists = fs.existsSync(imageDir);
+    const imageFiles = imageDirExists ? fs.readdirSync(imageDir) : [];
+    const fileDirExists = fs.existsSync(fileDir);
+    const fileFiles = fileDirExists ? fs.readdirSync(fileDir) : [];
     try {
         // Upload image files
         for (const file of imageFiles) {
