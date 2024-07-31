@@ -46,16 +46,16 @@
   {{ end }}
   {{ if $members }}
     <div class="usa-card__members">
-      <p>
+      <span class="usa-card__member-count">
         <svg
-          class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
+          class="join-community-form__header-svg usa-icon dg-icon dg-icon--large margin-bottom-05"
           aria-hidden="true"
           focusable="false"
         >
           <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
         </svg>
         {{ $members }} Members
-      </p>
+      </span>
     </div>
   {{ end }}
   {{ if $body }}

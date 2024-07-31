@@ -18,6 +18,15 @@
   width: 84%;
 }
 
+.usa-card__members {
+  font-size: size("sans", "3xs");
+  text-align: center;
+
+  .join-community-form__header-svg {
+    margin-right: units(1);
+  }
+}
+
 $communities-of-practice: (
   "CC": color("blue-60v"),
   "FCN": color("magenta-50"),
@@ -120,6 +129,11 @@ $communities-of-practice: (
     .usa-card__img {
       background-color: transparent;
       max-width: 4rem;
+    }
+
+    .usa-card__members {
+      padding-left: units(3);
+      text-align: left;
     }
   }
 }
