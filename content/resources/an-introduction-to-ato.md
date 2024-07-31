@@ -1,8 +1,8 @@
 ---
 date: 2023-10-18 09:39:00 -0500
-title: An introduction to ATOs
-deck: Understand the authority to operate process
-summary: What is an Authorization to Operate? Before you use software in government, you need to make sure it is allowed. You should know what an ATO is and when you need one.
+title: "An introduction to ATOs"
+deck: "Understand the authority to operate process"
+summary: "What is an Authorization to Operate? Before you use software in government, you need to make sure it is allowed. You should know what an ATO is, and when you need one."
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -24,10 +24,6 @@ primary_image: "title-card-intro-ato-karpenko-ilia-istock-getty-images-604030034
 weight: 1
 
 ---
-
-Watch the video below, Beginner's guide: Getting started with ATOs, for an overview of the authorization to operate process with practical advice to help authorize your system for the first time.
-
-{{< youtube id="vOPO2a33Bak" title="Beginner's guide: Getting started with ATOs" >}}
 
 ## What is an ATO?
 
@@ -135,6 +131,15 @@ The agency's security team usually supports projects with things like regular se
 As the system changes, the system owner needs to work with the security team to update the SSPP documentation. This process is called a Significant Change Request (SCR). For example, if your website is adding a new service like emailing updates to users, this adds new technical tools and data to your system; you’ll need to go through the SCR process to gain permission.
 
 Finally, you will also need to follow your agency's policies for renewing or updating your ATO. That may mean redoing this process every several years, or reviewing a subset of the process every year to make sure the SSPP is up to date.
+
+## Presentation video
+
+Watch the 19-minute video, Beginner's guide: Getting started with ATOs, for an overview of the authorization to operate process with practical advice to help authorize your system for the first time.
+
+{{< youtube id="vOPO2a33Bak" title="Beginner's guide: Getting started with ATOs" >}}
+
 {{< note >}} **Web Managers Community**
 
-The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
+The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).
+
+{{< /note >}}
