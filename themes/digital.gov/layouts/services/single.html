@@ -1,9 +1,12 @@
 {{- define "content" -}}
   <main role="main" id="main-content">
     <article class="grid-container-desktop">
-      {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         <div>
+          {{- if .Parent -}}
+            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+          {{- end -}}
+
           {{/* Kicker */}}
           {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
@@ -38,7 +41,7 @@
         <section>
           <div>
             {{/* Main Content */}}
-            <div class="content usa-prose">
+            <div class="content">
               {{- .Content -}}
             </div>
           </div>
