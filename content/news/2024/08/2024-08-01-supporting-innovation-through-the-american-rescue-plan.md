@@ -1,23 +1,31 @@
 ---
-source: ""
 date: 2024-08-01
-title: Supporting innovation through the American Rescue Plan
-deck: A case study on using ARP funding as a catalyst for long-term resilience
-summary: GSA uses American Rescue Plan funding for over 40 initiatives to foster
-  community, improve user experiences, and empower underserved populations.
+title: "Supporting innovation through the American Rescue Plan"
+deck: "A case study on using ARP funding as a catalyst for long-term resilience"
+summary: "GSA uses American Rescue Plan funding for over 40 initiatives to foster community, improve user experiences, and empower underserved populations."
+
 # See all topics at https://digital.gov/topics
 topics:
-  - innovation
+  - digital-service-delivery
   - cloud-and-infrastructure
   - search
+  - user-centered-design
+  - innovation
+
 # See all authors at https://digital.gov/authors
-authors: []
+authors: ambuj-neupane
+
 slug: supporting-innovation-through-the-american-rescue-plan
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 In March 2021, the [American Rescue Plan (ARP)](https://www.congress.gov/bill/117th-congress/house-bill/1319) was passed to provide direct relief to the public, rescue the American economy, and beat the COVID-19 virus.
 
 GSA’s [Technology Transformation Services (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) includes a portfolio of over 40 initiatives that are using ARP funding to improve the public’s experience and access to government services. While these investments initially focused on immediate needs to recover and rebuild from the COVID-19 pandemic, the TTS ARP team and our partner agencies saw an emerging long-term need to support services in an increasingly digital world.
@@ -44,7 +52,7 @@ Often the best user experience is built on thoughtful backend design.
 
 Search.gov worked with the Social Security Administration (SSA) to improve the [search results on SSA.gov](https://search.ssa.gov/search?affiliate=ssa&sort_by=&query=benefits) to make it easier for eligible users to access their benefits using the website. SSA prioritized user needs and compiled feedback over nine months in 75 sessions and 100 interviews.
 
-With the support of Search.gov, the navigation experience is not only quicker and more direct on SSA.gov, the search experience is more effective, too. People clicked on search results more often, indicating it’s easier for people to identify what resources are most useful after they have run a search. 
+With the support of Search.gov, the navigation experience is not only quicker and more direct on SSA.gov, the search experience is more effective, too. People clicked on search results more often, indicating it’s easier for people to identify what resources are most useful after they have run a search.
 
 ## Success story 3. Understanding equity in identity verification
 
@@ -54,7 +62,7 @@ As agencies continue to transition to newer technologies and enhance experience 
 
 With ARP funding, GSA created the [equity study on remote identity proofing](https://www.gsa.gov/governmentwide-initiatives/diversity-equity-inclusion-and-accessibility/equity-study-on-remote-identity-proofing) to identify and address potential biases in facial matching and other methods used to verify identities remotely. In 2024, the ARP team welcomed participation from thousands of individuals from diverse backgrounds.
 
-Using the results of this study and findings from other federal agency efforts, GSA will establish recommendations and inform future product iterations. The results from this study will pave the way for a more inclusive future, and help ensure fair and equal access to government services for every community. 
+Using the results of this study and findings from other federal agency efforts, GSA will establish recommendations and inform future product iterations. The results from this study will pave the way for a more inclusive future, and help ensure fair and equal access to government services for every community.
 
 ## Success story 4. Investing in innovative ideas
 
@@ -78,6 +86,6 @@ Check out the [FY 2023 American Rescue Plan success stories on GSA.gov](https://
 
 Moving into the new fiscal year, GSA will continue to design and deliver a digital government with and for the public.
 
-\---
+---
 
 **Disclaimer**: All references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
