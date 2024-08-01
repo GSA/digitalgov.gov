@@ -4,9 +4,7 @@
       {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $.Params.image "small" "false") -}}
       <div class="dg-landing__hero-text">
         <h1>{{- .Params.title -}}</h1>
-        <a href="#content-start" class="usa-button usa-button--big"
-          >Get Started</a
-        >
+        <a href="#content-start" class="usa-button usa-button--big">Get Started</a>
       </div>
     </header>
     <article class="dg-landing__body grid-container grid-container-desktop">
@@ -15,11 +13,18 @@
       </div>
       <h2 class="dg-landing__body-featured-resources">Featured Resources</h2>
       <ul class="usa-card-group" id="content-start">
-        {{- range .Pages -}}
+        {{- range .Pages }}
           <li class="usa-card tablet:grid-col-4">
-            {{- partial "usa-card" (dict "card_data" (dict "header" .Title "body" .Params.summary "link" (.Permalink | absURL) "link_title" (print "Explore " (.Title | markdownify | lower)) "image" .Params.image "alt" (.Params.image | replaceRE ".*\/" "") "layout" (if .Params.image "has-image" "no-image") "site" .Site)) -}}
+            {{- $image := .Params.image -}}
+            {{- $layout := "no-image" -}}
+            {{- if $image -}}
+              {{- $layout = "has-image" -}}
+            {{- end -}}
+            {{- $imageAlt := (index (split $image "/") (sub (len (split $image "/")) 1)) -}}
+            {{- $cardData := dict "header" .Title "body" .Params.summary "link" (.Permalink | absURL) "link_title" (print "Explore " (.Title | markdownify | lower)) "image" $image "alt" $imageAlt "layout" $layout "site" .Site -}}
+            {{- partial "core/usa-card" (dict "card_data" $cardData) -}}
           </li>
-        {{- end -}}
+        {{- end }}
       </ul>
       {{- if .Params.additional_resources }}
         {{- partial "core/render-markdown.html" (dict "Site" .Site "file" $.Params.additional_resources) -}}
