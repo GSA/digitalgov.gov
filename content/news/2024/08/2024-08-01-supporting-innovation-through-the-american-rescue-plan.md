@@ -13,7 +13,8 @@ topics:
   - innovation
 
 # See all authors at https://digital.gov/authors
-authors: ambuj-neupane
+authors:
+  - ambuj-neupane
 
 slug: supporting-innovation-through-the-american-rescue-plan
 
