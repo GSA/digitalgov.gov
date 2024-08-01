@@ -75,11 +75,11 @@ Some of you may remember the research project we undertook last year focussed on
 
 **Slide 13:** We looked at 5 Top Tasks in this study:
 
-* Browsing components
-* Finding specific component guidance
-* Finding specific pattern guidance
-* Finding examples of sites that use USWDS…
-* and Getting design kits.
+1. Browsing components
+2. Finding specific component guidance
+3. Finding specific pattern guidance
+4. Finding examples of sites that use USWDS… and
+5. Getting design kits.
 
 **Slide 14:** We did 45-minute moderated usability testing sessions with 7 people who use the design system. Most of them described themselves as designers and researchers, with a couple of folks with a developer background, and 1 person who was a product manager. We expect to run another round of usability testing focusing on developers, but for this round, we focused on designers.
 
