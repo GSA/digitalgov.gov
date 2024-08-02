@@ -19,10 +19,10 @@
 }
 
 .usa-card__members {
-  font-size: size("sans", "3xs");
+  font-size: size("sans", "xs");
   text-align: center;
 
-  .join-community-form__header-svg {
+  &-icon {
     margin-right: units(1);
   }
 }
@@ -136,17 +136,4 @@ $communities-of-practice: (
       text-align: left;
     }
   }
-}
-
-// Seen in "Join a Community" in sidebar.
-// Template: get_related.html
-.dg-community__count {
-  @include u-font("sans", "3xs");
-  @include u-line-height("sans", 3);
-  @include u-text("medium");
-  @include u-text("indigo-60v");
-  @include u-bg("indigo-warm-10");
-  @include u-padding-x(1);
-  @include u-padding-y("2px");
-  @include u-radius("pill");
 }
