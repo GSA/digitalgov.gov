@@ -106,8 +106,7 @@
 
 // Cards
 @forward "card";
-@forward "card-article";
-@forward "card-elsewhere";
+@forward "card-news";
 @forward "card-event";
 @forward "card-job";
 @forward "article";
@@ -129,10 +128,10 @@
 @forward "guides/guide-menu-bar";
 @forward "guides/guide-nav";
 @forward "guides/guide-prev-next";
+@forward "guides/guide-landing";
 
 // Authors lists
 @forward "authors-list";
-@forward "authors-list-short";
 
 // Authors profile
 @forward "author-profile";

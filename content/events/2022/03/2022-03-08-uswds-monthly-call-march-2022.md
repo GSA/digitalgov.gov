@@ -93,7 +93,7 @@ And it's fast. We've updated to the newest [sass-embedded] (https://www.npmjs.co
 
 **Slide 25:** USWDS 3.0 is the foundation of a more modular design system. One that lets teams define the parts of USWDS they want to use, customize their implementations, and update at their own pace.
 
-**Slide 26:** We think it's going to deliver a lot, with just a little bit of upgrade and migration effort. We think that most teams will be able to move from USWDS 2 to USWDS 3 in a matter of hours, not days or weeks. And if you're thinking of migrating, USWDS Compile could be your friend. We think more teams should use it, and we want to make it as useful as possible. So if you have feedback, let us know, either in an issue or a discussion. We're putting the [github discussion link] (https://github.com/uswds/uswds/discussions/4587)to the most recent 3.0 Beta release in the chat.
+**Slide 26:** We think it's going to deliver a lot, with just a little bit of upgrade and migration effort. We think that most teams will be able to move from USWDS 2 to USWDS 3 in a matter of hours, not days or weeks. And if you're thinking of migrating, USWDS Compile could be your friend. We think more teams should use it, and we want to make it as useful as possible. So if you have feedback, let us know, either in an issue or a discussion. We're putting the [github discussion link](https://github.com/uswds/uswds/discussions/4587) to the most recent 3.0 Beta release in the chat.
 
 **Slide 27:** Above all, we're working to deliver a simple migration process — not just for USWDS 3.0, but that 3.0 is the platform that will begin to deliver simpler updates and migrations going forward. We think that teams should make the effort to move to USWDS 3.0 and we'll help you get there.
 

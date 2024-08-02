@@ -1,4 +1,5 @@
 const { src, series } = require("gulp");
+const sharp = require("sharp");
 const del = require("del");
 const tap = require("gulp-tap");
 const sizeOf = require("image-size");
@@ -21,10 +22,28 @@ const allExtensions = [...imageExtensions, ...fileExtensions];
 // removes . separator to read jpg,png,jpeg...
 const extensionsString = allExtensions
   .map((extension) => extension.replace(".", ""))
-  .join(","); 
+  .join(",");
 
 const imageRegex = /(png|jpg|jpeg)/;
 const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
+
+/**
+ * Converts JPG images to PNG format
+ * @param {string} imagePath - path of the image file
+ */
+async function convertJpgToPng(imagePath) {
+  console.log(`Converting image ${imagePath} to PNG`);
+  const outputPath = imagePath.replace(/\.jpe?g$/i, ".png");
+
+  await sharp(imagePath).toFormat("png").toFile(outputPath);
+
+  // Check if the original JPG file exists before unlinking
+  if (fs.existsSync(imagePath)) {
+    fs.unlinkSync(imagePath); // Remove the original JPG file
+  }
+
+  return path.basename(outputPath);
+}
 
 /**
  * Object containing working folder paths used for lifecycle steps of uploading
@@ -53,32 +72,67 @@ function fileTidy(done) {
   let filetype = "";
   let paths = filePaths;
 
-  fs.readdir(paths.uploads, (err, files) => {
-    // process.stdout.write(files.length.toString() + "\n");
+  fs.readdir(paths.uploads, async (err, files) => {
+    if (err) {
+      console.error(
+        `Failed to read directory ${paths.uploads}: ${err.message}`
+      );
+      done(err);
+      return;
+    }
+
     for (let file of files) {
-      // checks for .pdf, .png
-      if (allExtensions.includes(path.extname(file))) {
-        // creates new normalized file name
-        newfileName = cleanFileName(file);
+      const fileExt = path.extname(file);
+      if (allExtensions.includes(fileExt)) {
         filetype = fileType(file);
+        const dirToProcess = paths[filetype].toProcess;
         // create working directories if they do not exist
         createDir(paths[filetype].toProcess, 3);
         if (filetype === "image") createDir(paths[filetype].processed, 3);
         // copies uploaded file to /to-process with new normalized name
-        fs.renameSync(
-          `${paths.uploads}/${file}`,
-          `${paths[filetype].toProcess}/${newfileName}`
-        );
+        // convert jpg to png
+        if (
+          (filetype === "image" && fileExt === ".jpg") ||
+          fileExt === ".jpeg"
+        ) {
+          let convertedPng = await convertJpgToPng(
+            path.join(paths.uploads, file)
+          ).catch((err) => {
+            console.error(
+              `Error converting image ${file} to PNG: ${err.message}`
+            );
+            return;
+          });
+          // ensure the folder for the process image exists.
+          if (convertedPng != file) {
+            file = convertedPng;
+          }
+        }
+        newfileName = cleanFileName(file);
+        const newFilePath = path.join(dirToProcess, newfileName);
+
+        // Rename and move the file to the new path
+        try {
+          console.log(
+            `Moving file from ${path.join(
+              paths.uploads,
+              file
+            )} to ${newFilePath}`
+          );
+          fs.renameSync(path.join(paths.uploads, file), newFilePath);
+        } catch (renameError) {
+          console.error(
+            `Error moving file from ${path.join(
+              paths.uploads,
+              file
+            )} to ${newFilePath}: ${renameError.message}`
+          );
+          continue;
+        }
       }
     }
-    if (err) {
-      process.output.write(
-        `Error cleaning and copying file [${file}]
-         Error message: ${err.message}`
-      );
-    }
+    done();
   });
-  done();
 }
 
 /**
@@ -117,8 +171,8 @@ function createDir(directoryPath, foldersDeep) {
 
 /**
  * Checks the file extension and returns a string value of file or image
- * @param {String} extension - file name extension (.pdf, .png, etc...)
- * @returns a string value of image or file
+ * @param {string} extension - file name extension (.pdf, .png, etc...)
+ * @returns {string} a string value of image or file
  */
 function fileType(extension) {
   if (fileRegex.test(extension)) return "file";
