@@ -4,7 +4,7 @@
 
 {{- if $text -}}
   <div class="card-quote {{ if $bg }}{{ $bg }}{{ end }}">
-    <blockquote class="card-quote__blockquote">
+    <blockquote>
       <span class="q">“</span>{{ $text | markdownify }}<span class="q">”</span>
       {{- if $cite -}}
         <cite>— {{ $cite | markdownify }}</cite>
