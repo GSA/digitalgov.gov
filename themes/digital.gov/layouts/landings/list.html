@@ -22,8 +22,7 @@
             {{- if $image -}}
               {{- $layout = "has-image" -}}
             {{- end -}}
-            {{- $imageAlt := (index (split $image "/") (sub (len (split $image "/")) 1)) -}}
-            {{- $cardData := dict "header" .Title "body" .Params.summary "link" (.Permalink | absURL) "link_title" (print "Explore " (.Title | markdownify | lower)) "image" $image "alt" $imageAlt "layout" $layout "site" .Site -}}
+            {{- $cardData := dict "header" .Title "body" .Params.summary "link" (.Permalink | absURL) "link_title" (print "Explore " (.Title | markdownify | lower)) "layout" $layout "site" .Site -}}
             {{- partial "core/usa-card" (dict "card_data" $cardData) -}}
           </li>
         {{- end }}
