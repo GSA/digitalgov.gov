@@ -178,7 +178,7 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 
 **Other helpful HUGO commands:**
 
-- `hugo build` — builds all the pages in the site, without creating a server
+- `hugo` — builds all the pages in the site, without creating a server
 - `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
 - `hugo serve --templateMetricsHints` — for seeing where you can apply caching in templates and speed up the build time
   [See more in the Hugo docs »](https://gohugo.io/commands/hugo/)
