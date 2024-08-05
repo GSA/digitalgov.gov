@@ -26,15 +26,15 @@
   {{ if ge .close_date $now }}
     {{ $anyActivePost = true }}
     <article class="card card-job" aria-labelledby="{{ .title }}">
-      <div class="card-job__content">
+      <div class="card-job__content-header">
         <h3 id="{{ .title }}">{{- .title | markdownify -}}</h3>
-        <div class="card-job__summary">
-          <div class="card-job__department">
-            {{ .department | markdownify }}
-          </div>
-          <div class="card-job__location">{{ .location | markdownify }}</div>
-          <p>{{ .description | markdownify }}</p>
+      </div>
+      <div class="card-job__content-summary">
+        <div class="card-job__department">
+          {{ .department | markdownify }}
         </div>
+        <div class="card-job__location">{{ .location | markdownify }}</div>
+        <p>{{ .description | markdownify }}</p>
       </div>
       <div class="card-job__apply">
         <a
