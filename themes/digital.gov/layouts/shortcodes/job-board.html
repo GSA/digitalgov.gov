@@ -45,20 +45,18 @@
           Apply
         </a>
       </div>
-      <div class="card-job__meta">
-        <div id="date">
-          Open {{ .open_date | time.Format ":date_long" }} to
-          {{ .close_date | time.Format ":date_long" }}
-        </div>
-        <div id="topics">
-          {{ range .cop_topics }}
-            {{ $topic := . }}
-            {{ $acronym := index $acronymToCop $topic }}
-            <div class="cop-topic--{{ $acronym }}">
-              {{- $topic -}}
-            </div>
-          {{ end }}
-        </div>
+      <div class="card-job__meta-date">
+        Open {{ .open_date | time.Format ":date_long" }} to
+        {{ .close_date | time.Format ":date_long" }}
+      </div>
+      <div class="card-job__meta-topics">
+        {{ range .cop_topics }}
+          {{ $topic := . }}
+          {{ $acronym := index $acronymToCop $topic }}
+          <div class="cop-topic--{{ $acronym }}">
+            {{- $topic -}}
+          </div>
+        {{ end }}
       </div>
     </article>
   {{ end }}

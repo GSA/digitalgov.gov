@@ -14,7 +14,8 @@
     grid-template-areas:
       "c-content-header c-apply"
       "c-content-summary c-apply"
-      "c-meta c-meta";
+      "c-meta-date c-meta-date"
+      "c-meta-topics c-meta-topics";
     grid-template-columns: 7fr 1fr;
     overflow-wrap: anywhere;
   }
@@ -24,7 +25,8 @@
     grid-template-areas:
       "c-content-header c-apply"
       "c-content-summary c-apply"
-      "c-meta c-meta";
+      "c-meta-date c-meta-date"
+      "c-meta-topics c-meta-topics";
     grid-template-columns: 3fr 1fr;
     overflow-wrap: anywhere;
   }
@@ -35,7 +37,8 @@
     grid-template-areas:
       "c-content-header"
       "c-content-summary"
-      "c-meta"
+      "c-meta-date"
+      "c-meta-topics"
       "c-apply";
     // grid-template-rows: 1fr 1fr;
     overflow-wrap: anywhere;
@@ -92,21 +95,20 @@
     "CC": color("blue-60v"),
   );
 
-  &__meta {
+
+  &__meta-date {
     display: flex;
-    grid-area: c-meta;
-
-    #date {
-      font-style: italic;
-      margin-right: units(3);
-    }
-
-    #topics {
-      display: grid;
-      grid-template-columns: repeat(4, auto);
-      position: relative;
-    }
-
+    grid-area: c-meta-date;
+    font-style: italic;
+    margin-right: units(3);
+  }
+  
+  &__meta-topics {
+    grid-area: c-meta-topics;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    position: relative;
+  
     @each $community, $color in $communities-of-practice {
       .cop-topic--#{$community} {
         border: map.get($communities-of-practice, $community);
