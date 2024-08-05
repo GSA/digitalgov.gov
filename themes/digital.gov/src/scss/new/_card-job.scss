@@ -44,15 +44,14 @@
     overflow-wrap: anywhere;
   }
 
-  .h3 {
-    margin: 0;
-  }
-
   &__content-header {
     display: flex;
     flex-direction: column;
     grid-area: c-content-header;
     padding-bottom: units(1);
+    h3 {
+      margin: 0;
+    }
   }
 
   &__content-summary {
@@ -62,19 +61,20 @@
     margin-top: units(0);
 
     p {
-      line-height: line-height("sans", 3);
       font-size: font-size("sans", "md");
       font-weight: font-weight("normal");
+      line-height: line-height("sans", 3);
       max-width: none;
     }
 
     &__department {
-      @include u-font("sans", "xs");
+      font-size: font-size("sans", "md");
+      font-weight: bold;
       text-wrap: wrap;
     }
 
     &__location {
-      @include u-font("sans", "xs");
+      font-size: font-size("sans", "md");
       text-wrap: wrap;
     }
   }
@@ -97,8 +97,8 @@
 
   &__meta-date {
     display: flex;
-    grid-area: c-meta-date;
     font-style: italic;
+    grid-area: c-meta-date;
     margin-right: units(3);
   }
 
@@ -121,9 +121,9 @@
 }
 
 #no_job_postings {
-  line-height: line-height("sans", 2);
   font-size: font-size("sans", "lg");
   font-weight: font-weight("light");
+  line-height: line-height("sans", 2);
   margin-bottom: units(4);
   text-align: center;
 }
