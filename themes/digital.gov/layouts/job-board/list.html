@@ -47,15 +47,16 @@
         {{ range .Site.Data.job_board }}
           {{ if ge .close_date $now }}
             {{ $anyActivePost = true }}
+            {{ $jobLink := .apply_link | safeURL }}
             <article class="card card-job" aria-labelledby="{{ .title }}">
               <div class="card-job__content-header">
-                <h3 id="{{ .title }}">{{- .title | markdownify -}}</h3>
+                <a href="{{ $jobLink }}" target="__blank"><h3 id="{{ .title }}">{{- .title | markdownify -}}</h3></a>
               </div>
               <div class="card-job__content-summary">
-                <div class="card-job__content-summary__department">
+                <div class="card-job__content-summary-department">
                   {{ .department | markdownify }}
                 </div>
-                <div class="card-job__location">
+                <div class="card-job__content-summary-location">
                   {{ .location | markdownify }}
                 </div>
                 <p>{{ .description | markdownify }}</p>
@@ -63,7 +64,7 @@
               <div class="card-job__apply">
                 <a
                   class="usa-button"
-                  href="{{ .apply_link | safeURL }}"
+                  href="{{ $jobLink }}"
                   target="__blank"
                 >
                   Apply

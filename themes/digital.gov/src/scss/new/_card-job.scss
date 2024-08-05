@@ -51,7 +51,18 @@
     padding-bottom: units(1);
     h3 {
       margin: 0;
+      text-decoration: none;
     }
+
+    a {
+      @include u-text("primary-darker");
+      text-decoration: none;
+
+      :hover{
+        text-decoration: underline;
+      }
+    }
+    
   }
 
   &__content-summary {
