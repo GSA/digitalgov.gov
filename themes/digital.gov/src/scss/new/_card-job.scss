@@ -59,9 +59,9 @@
     margin-top: units(0);
 
     p {
-      @include u-line-height("sans", 3);
-      @include u-font("sans", "md");
-      @include u-text("normal");
+      line-height: line-height("sans", 3);
+      font-size: font-size("sans", "md");
+      font-weight: font-weight("normal");
       max-width: none;
     }
 
@@ -119,20 +119,11 @@
   }
 }
 
-#submit_job_postings {
-  @include u-margin-y(1);
-  @include u-font("sans", "lg");
-  @include u-text("light");
-  @include u-text("primary-darker");
-  @include u-line-height("sans", 2);
-  text-align: center;
-}
 
 #no_job_postings {
-  @include u-margin-y(1);
-  @include u-font("sans", "lg");
-  @include u-text("light");
-  @include u-text("primary-darker");
-  @include u-line-height("sans", 2);
+  margin-bottom: units(4);
+  line-height: line-height("sans", 2);
+  font-size: font-size("sans", "lg");
+  font-weight: font-weight("light");
   text-align: center;
 }
