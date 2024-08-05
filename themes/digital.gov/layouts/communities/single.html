@@ -4,7 +4,7 @@
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         <div>
-          {{- partial "partials/core/page-header.html" (dict "data" . "append_title_text" "Community" ) -}}
+          {{- partial "partials/core/page-header.html" (dict "title" .Params.title "deck" .Params.deck "append_title_text" "Community") -}}
         </div>
       </header>
 

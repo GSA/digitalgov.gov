@@ -2,12 +2,15 @@
   - title - the required page title
   - deck - an optional summary text displayed below the title
   - kicker - an optional short introduction text displayed above the title
+  @params {string} title - the required page title (used if data object is not provided)
+  @params {string} deck - an optional summary text displayed below the title (used if data object is not provided)
+  @params {string} kicker - an optional short introduction text displayed above the title (used if data object is not provided)
   @params {string} append_title_text - optional text that is appended to the title text field
 */}}
 
-{{ $title := .data.Params.title }}
-{{ $deck := .data.Params.deck }}
-{{ $kicker := .data.Params.kicker }}
+{{ $title := .title | default (and .data.Params .data.Params.title) }}
+{{ $deck := .deck | default (and .data.Params .data.Params.deck) }}
+{{ $kicker := .kicker | default (and .data.Params .data.Params.kicker) }}
 {{ $append_title_text := .append_title_text }}
 
 

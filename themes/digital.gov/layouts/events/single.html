@@ -10,9 +10,47 @@
 
 
   <main role="main" id="main-content" class="event">
-    <article>
-      {{- partial "core/events-header.html" . -}}
+    <header>
+      <div class="grid-container grid-container-desktop">
+        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+        <div class="grid-row">
+          <div class="grid-col-12">
+            {{- partial "partials/core/page-header.html" (dict "data" .) -}}
+            <p class="datetime">
+              <svg
+                class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+                aria-hidden="true"
+                focusable="false"
+              >
+                <use
+                  xlink:href="{{ "uswds/img/sprite.svg#calendar_today" | relURL }}"
+                ></use>
+              </svg>
+              {{ with .Date }}
+                {{ . | dateFormat "Monday, January 02, 2006" }}
+              {{ end }}
+              <span>
+                {{- with .Date -}}
+                  {{- . | dateFormat "3:04 PM" -}}
+                {{- end }}
+                –
+                {{ with .Params.end_date -}}
+                  {{- . | dateFormat "3:04 PM ET" -}}
+                {{- end }}
+              </span>
+            </p>
+            {{- if .Params.host -}}
+              <p class="host">
+                Hosted by Digital.gov and the
+                {{ .Params.host }}
+              </p>
+            {{- end -}}
+          </div>
+        </div>
+      </div>
+    </header>
 
+    <article>
       {{/* EVENT Actions — REGISTER and Add to Calendar */}}
       {{- if eq $future_event true -}}
         <div class="grid-container grid-container-desktop">
