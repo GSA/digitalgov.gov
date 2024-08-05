@@ -68,7 +68,7 @@
                         title="{{- .Title | markdownify -}} "
                         >{{- .Date.Format "Jan _2" -}}</a
                       ><span>&#10038;</span
-                      >{{- partial "core/get_authors_short.html" . -}}
+                      >{{- partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors "isInline" true) -}}
                     </footer>
                   </div>
                 </div>

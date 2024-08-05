@@ -111,25 +111,29 @@ security:
 
 menu:
   primary:
-    - Name: "News"
-      Identifier: "news"
+    - Name: "Blogs"
+      Identifier: "blogs"
       URL: "/news/"
       Weight: 1
-    - Name: "Events"
-      Identifier: "events"
-      URL: "/events/"
-      Weight: 2
     - Name: "Resources"
       Identifier: "resources"
       URL: "/resources/"
       Weight: 3
+    - Name: "Events"
+      Identifier: "events"
+      URL: "/events/"
+      Weight: 2
     - Name: "Communities"
       Identifier: "communities"
       URL: "/communities/"
       Weight: 4
+    - Name: "Guides"
+      Identifier: "guides"
+      URL: "/guides/"
+      Weight: 4
     - Name: "Tools"
       Identifier: "tools"
-      URL: "/services/"
+      URL: "/services/directory/"
       Weight: 5
     - Name: "Job Board"
       Identifier: "job-board"

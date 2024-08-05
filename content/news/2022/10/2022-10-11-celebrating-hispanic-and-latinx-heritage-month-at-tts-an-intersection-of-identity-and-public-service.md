@@ -7,13 +7,11 @@ summary: "In this blog, six Technology Transformation Services (TTS) employees s
 # See all topics at https://digital.gov/topics
 topics:
   - diversity-equity-and-inclusion
-
 # See all authors at https://digital.gov/authors
 authors:
   - austin-hernandez
 
 slug: celebrating-hispanic-and-latinx-heritage-month-at-tts-an-intersection-of-identity-and-public-service
-
 primary_image: "tts-hhm-yulia-novik-istock-getty-images-1402997939-copy"
 
 # Controls how this page appears across the site

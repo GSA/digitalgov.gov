@@ -70,20 +70,7 @@
           {{- end -}}
 
           {{- if eq .Type "news" -}}
-            {{/* External links */}}
-            {{- if .Params.source -}}
-              {{/* see /layouts/news/ for card templates */}}
-              {{ .Render "card-elsewhere" }}
-            {{ else }}
-              {{/* Blog Posts — Internal links */}}
-              {{- if .Params.deck }}
-                {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article" }}
-              {{ else }}
-                {{/* see /layouts/news/ for card templates */}}
-                {{ .Render "card-article" }}
-              {{ end }}
-            {{ end }}
+            {{ .Render "card-news" }}
           {{- end -}}
 
         {{- end -}}
