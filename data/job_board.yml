@@ -5,20 +5,10 @@
 # Do not change the indentation of the YAML content
 # Jobs with a close date before the current date will automatically be omitted
 
-- title: Supv IT Specialist (Division Branch Manager)
-  department: Legislative Branch
-  location: Washington, District of Columbia
-  description: (Official position summary) The GAO is part of the Legislative Branch of the Federal government. This position is located in the Government Accountability Office. As a Supv IT Specialist (Division Branch Manager) you will be responsible for facilitating the vision, alignment, and execution of the designated division. This position is responsible for managing assigned resources (i.e. budget, people, contractor, space, equipment) effectively and within the level of responsibility assigned to the position.
-  open_date: 2024-07-17
-  close_date: 2024-08-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800295500
-  cop_topics:
-    - Web Managers
-
 - title: Marketing & Outreach Specialist (Publications Coordinator)
   department: Department of Housing and Urban Development
   location: Washington, District of Columbia
-  description: (Official position summary) This position is located in the Department of Housing and Urban Development, Asst Secretary for Fair Housing and Equal Opportunity. If you do not meet any of the categories listed below, you may wish to apply under announcement 24-HUD-1760-P which is open for any U.S. citizen to apply. Please refer to that announcement for details on open period, eligibility, and how to apply.
+  description: This position is located in the Department of Housing and Urban Development, Asst Secretary for Fair Housing and Equal Opportunity. If you do not meet any of the categories listed below, you may wish to apply under announcement 24-HUD-1760-P which is open for any U.S. citizen to apply. Please refer to that announcement for details on open period, eligibility, and how to apply.
   open_date: 2024-07-22
   close_date: 2024-08-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800738300
@@ -28,7 +18,7 @@
 - title: Marketing & Outreach Specialist (Publications Coordinator)
   department: Department of Housing and Urban Development
   location: Washington, District of Columbia
-  description: (Official position summary) This position is located at Department of Housing and Urban Development, Asst Secretary for Fair Housing and Equal Opportunity. This opportunity is also open to Status eligibles under announcement 24-HUD-1759. Please refer to that announcement for details on open period, eligibility, and how to apply.
+  description: This position is located at Department of Housing and Urban Development, Asst Secretary for Fair Housing and Equal Opportunity. This opportunity is also open to Status eligibles under announcement 24-HUD-1759. Please refer to that announcement for details on open period, eligibility, and how to apply.
   open_date: 2024-07-22
   close_date: 2024-08-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800738700
@@ -38,7 +28,7 @@
 - title: Project Finance Specialist (Investment Officer - Emerging Markets)
   department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
-  description: (Official position summary) This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. As a Project Finance Specialist you will be responsible for developing, underwriting, and executing transactions in emerging markets, collaborating with financial institutions and USAID, and managing relationships with executive stakeholders.
+  description: This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. As a Project Finance Specialist you will be responsible for developing, underwriting, and executing transactions in emerging markets, collaborating with financial institutions and USAID, and managing relationships with executive stakeholders.
   open_date: 2024-07-23
   close_date: 2024-08-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800935400
@@ -48,7 +38,7 @@
 - title: Project Finance Specialist (Investment Officer - Emerging Markets)
   department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
-  description: (Official position summary) This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. As a Project Finance Specialist you will be responsible for developing, underwriting, and executing transactions in emerging markets, collaborating with financial institutions and USAID, and managing relationships with executive stakeholders.
+  description: This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. As a Project Finance Specialist you will be responsible for developing, underwriting, and executing transactions in emerging markets, collaborating with financial institutions and USAID, and managing relationships with executive stakeholders.
   open_date: 2024-07-23
   close_date: 2024-08-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800937600
@@ -58,7 +48,7 @@
 - title: Project Finance Specialist (Investment Officer - Sustainable and Inclusive Finance)
   department: Other Agencies and Independent Organizations
   location: Multiple Locations
-  description: (Official position summary) This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. You will serve as an investment officer(s) supporting project eligibility screening, intake incubation, underwriting and analysis across an array of regions or sectors for new corporate financings in emerging markets from initial screening through due diligence, negotiating and structuring, approval, documentation, closing and disbursement.
+  description: This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. You will serve as an investment officer(s) supporting project eligibility screening, intake incubation, underwriting and analysis across an array of regions or sectors for new corporate financings in emerging markets from initial screening through due diligence, negotiating and structuring, approval, documentation, closing and disbursement.
   open_date: 2024-07-23
   close_date: 2024-08-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800961700
@@ -68,29 +58,19 @@
 - title: Project Finance Specialist (Investment Officer - Sustainable and Inclusive Finance)
   department: Other Agencies and Independent Organizations
   location: Multiple Locations
-  description: (Official position summary) This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. You will serve as an investment officer supporting project eligibility screening, intake incubation, underwriting and analysis across an array of regions or sectors for new corporate financings in emerging markets from initial screening through due diligence, negotiating and structuring, approval, documentation, closing and disbursement.
+  description: This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business and Financial Services. You will serve as an investment officer supporting project eligibility screening, intake incubation, underwriting and analysis across an array of regions or sectors for new corporate financings in emerging markets from initial screening through due diligence, negotiating and structuring, approval, documentation, closing and disbursement.
   open_date: 2024-07-23
   close_date: 2024-08-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800964300
   cop_topics:
     - Communicators
 
-- title: SUPERVISORY TRAVEL SPECIALIST
-  department: Other Agencies and Independent Organizations
-  location: Washington, District of Columbia
-  description: (Official position summary) DFC ranked a Best Places to Work in 2022. This position is part of the U.S. International Development Finance Corporation (DFC), Office of Administration (OA), Corporate Travel and Relocation Division. As a Supervisory Travel Specialist you will serve as the primary point of contact and expert Program Manager on Federal Travel Regulations (FTR) and administration of the agency's travel program through the development of policies and procedures for domestic and international travel.
-  open_date: 2024-07-17
-  close_date: 2024-08-01
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800439200
-  cop_topics:
-    - Communicators
-
 - title: RECORDS & INFORMATION MANAGEMENT SPECIALIST
   department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
-  description: (Official position summary) This position is part of the U.S. International Development Finance Corporation (DFC), Office of Administration (OA), Corporate Administrative Services (CAS) Division. As a Records and Information Management Specialist, you will serve as a technical expert in the maintenance, preservation, and disposal of official Federal records held or created by the Corporation.
+  description: This position is part of the U.S. International Development Finance Corporation (DFC), Office of Administration (OA), Corporate Administrative Services (CAS) Division. As a Records and Information Management Specialist, you will serve as a technical expert in the maintenance, preservation, and disposal of official Federal records held or created by the Corporation.
   open_date: 2024-07-18
-  close_date: 2024-07-31
+  close_date: 2024-08-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800485800
   cop_topics:
     - Communicators
@@ -98,38 +78,17 @@
 - title: Videographer
   department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
-  description: (Official position summary) This position serves as videographer and photographer for the National Transportation Safety Board (NTSB), in the Digital Services Division (DS), Office of Safety Recommendations and Communications (SRC), in Washington, DC. The incumbent will work with in collaboration with the senior audiovisual production specialist on a wide variety of mission-related products.
+  description: This position serves as videographer and photographer for the National Transportation Safety Board (NTSB), in the Digital Services Division (DS), Office of Safety Recommendations and Communications (SRC), in Washington, DC. The incumbent will work with in collaboration with the senior audiovisual production specialist on a wide variety of mission-related products.
   open_date: 2024-07-24
   close_date: 2024-08-08
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/801422400
   cop_topics:
     - Web Managers
 
-- title: Digital Services Analyst (Content Strategist)
-  department: Other Agencies and Independent Organizations
-  location: Multiple Locations
-  description: (Official position summary) This position serves in the Office of the Chief Business Officer (OCBO). The incumbent will be responsible for using current service design principles and techniques to improve the agency's in person and digital customer experience.
-  open_date: 2024-07-29
-  close_date: 2024-08-03
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/801852200
-  cop_topics:
-    - Web Managers
-
-- title: Web Communications Strategist
-  department: Department of Commerce
-  location: Anywhere in the U.S. (remote job)
-  description: (Official position summary) The Deputy Commissioner for Trademark Examination Policy is made up of the Petitions Office, Legal Policy Office, Identification and Classification Policy Office, Trademark Assistance Center, Trademark Law Library, and Office of Trademark Quality Review and Training. The primary purpose of the position is to develop and execute Trademark internal strategies for identifying customer segments and effectively engaging with them online.
-  open_date: 2024-07-26
-  close_date: 2024-08-10
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/801925000
-  cop_topics:
-    - Communicators
-    - Web Managers
-
 - title: Public Affairs Specialist
   department: Department of Health and Human Services
   location: Atlanta, Georgia
-  description: (Official position summary) As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
+  description: As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
   open_date: 2024-07-23
   close_date: 2024-08-07
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800556000
@@ -139,9 +98,29 @@
 - title: Public Affairs Specialist
   department: Department of Health and Human Services
   location: Atlanta, Georgia
-  description: (Official position summary) As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
+  description: As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
   open_date: 2024-07-23
   close_date: 2024-08-07
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/800545900
   cop_topics:
     - Communicators
+
+- title: Public Notice for General Natural Resources & Biological Science (Direct Hire)
+  department: Department of Transportation
+  location: Multiple Locations
+  description: Direct hiring authority for 0401 series is being used to fill this position.
+  open_date: 2023-09-30
+  close_date: 2024-10-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/647248000
+  cop_topics:
+    - User Experience
+
+- title: Supervisory Program Analyst
+  department: General Services Administration
+  location: Washington, District of Columbia
+  description: As the Director of the Digital Communications Program Management Office within the Office of Strategic Communication you will be responsible for oversight and improvement of the agency's flagship website, gsa.gov, and the intranet site, Insite, and for ensuring the content is consistent with GSA publication policies and communications strategy. Location of position: GSA, Office of Strategic Communication, 1800 F Street, NW, Washington, DC.
+  open_date: 2024-08-01
+  close_date: 2024-08-09
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802475200
+  cop_topics:
+    - Web Managers

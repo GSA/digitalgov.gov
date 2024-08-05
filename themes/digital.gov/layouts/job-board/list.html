@@ -50,7 +50,9 @@
             {{ $jobLink := .apply_link | safeURL }}
             <article class="card card-job" aria-labelledby="{{ .title }}">
               <div class="card-job__content-header">
-                <a href="{{ $jobLink }}" target="__blank"><h3 id="{{ .title }}">{{- .title | markdownify -}}</h3></a>
+                <a href="{{ $jobLink }}" target="__blank"
+                  ><h3 id="{{ .title }}">{{- .title | markdownify -}}</h3></a
+                >
               </div>
               <div class="card-job__content-summary">
                 <div class="card-job__content-summary-department">
@@ -62,11 +64,7 @@
                 <p>{{ .description | markdownify }}</p>
               </div>
               <div class="card-job__apply">
-                <a
-                  class="usa-button"
-                  href="{{ $jobLink }}"
-                  target="__blank"
-                >
+                <a class="usa-button" href="{{ $jobLink }}" target="__blank">
                   Apply
                 </a>
               </div>

@@ -58,11 +58,10 @@
       @include u-text("primary-darker");
       text-decoration: none;
 
-      :hover{
+      :hover {
         text-decoration: underline;
       }
     }
-    
   }
 
   &__content-summary {
