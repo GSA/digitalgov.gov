@@ -75,9 +75,9 @@ It requires imagination. It requires theory and practice. It requires design.
 ---
 
 <div class="dg-footnote">
-<h3 id="footnote-label">Footnotes</h3>
-<ol>
-<li id="fn1">Eames Office. 2013, July 23. Design Q & A. &#91;video&#93; YouTube. https://www.youtube.com/watch?v=bmgxDCujTUw. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+<ol class="dg-footnote__list">
+<li class="dg-footnote__list-item" id="fn1">Eames Office. 2013, July 23. Design Q & A. &#91;video&#93; YouTube. https://www.youtube.com/watch?v=bmgxDCujTUw. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 <li id="fn2">Buchanan, Richard. Wicked Problems in Design Thinking. Design Issues, Vol. 8, No. 2, (Spring, 1992). The MIT Press. pp. 5-21. Stable URL: http://www.jstor.org/stable/1511637. <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
 </ol>
 </div>

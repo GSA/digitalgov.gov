@@ -155,11 +155,11 @@ If you work at a U.S. federal government agency, and would like to learn more ab
 ---
 
 <div class="dg-footnote">
-<h3 id="footnote-label">Footnotes</h3>
-<ol>
-<li id="fn1">Wu HY, Niedermann B, Takahashi S, Roberts MJ, Nöllenburg M. “A Survey on Transit Map Layout - from Design, Machine, and Human Perspectives.” Comput Graph Forum. 2020 Jun;39(3):619-646. doi: 10.1111/cgf.14030. Epub 2020 Jul 18. PMID: 33041405; PMCID: PMC7539984 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539984/> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
-<li id="fn2">High resolution. 2012. What Is The Coastline Paradox? Hosted by Veritasium, YouTube. <https://www.youtube.com/watch?v=I_rw-AJqpCM> <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
-<li id="fn3">Stoa, Ryan, The Coastline Paradox (August 30, 2019). Rutgers University Law Review, Volume 72, Issue 2 (2020), Available at SSRN: <https://ssrn.com/abstract=3445756> or <http://dx.doi.org/10.2139/ssrn.3445756> <a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
-<li id="fn4">Various, including Tupper, Charles D, 2011. “Enterprise Architecture Frameworks and Methodologies.” ScienceDirect. <https://www.sciencedirect.com/topics/computer-science/federal-enterprise-architecture> <a href="#footnotes-ref4" aria-label="Back to content">↩</a></li>
+<h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+<ol class="dg-footnote__list">
+<li class="dg-footnote__list-item" id="fn1">Wu HY, Niedermann B, Takahashi S, Roberts MJ, Nöllenburg M. “A Survey on Transit Map Layout - from Design, Machine, and Human Perspectives.” Comput Graph Forum. 2020 Jun;39(3):619-646. doi: 10.1111/cgf.14030. Epub 2020 Jul 18. PMID: 33041405; PMCID: PMC7539984 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539984/> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li class="dg-footnote__list-item" id="fn2">High resolution. 2012. What Is The Coastline Paradox? Hosted by Veritasium, YouTube. <https://www.youtube.com/watch?v=I_rw-AJqpCM> <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
+<li class="dg-footnote__list-item" id="fn3">Stoa, Ryan, The Coastline Paradox (August 30, 2019). Rutgers University Law Review, Volume 72, Issue 2 (2020), Available at SSRN: <https://ssrn.com/abstract=3445756> or <http://dx.doi.org/10.2139/ssrn.3445756> <a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
+<li class="dg-footnote__list-item" id="fn4">Various, including Tupper, Charles D, 2011. “Enterprise Architecture Frameworks and Methodologies.” ScienceDirect. <https://www.sciencedirect.com/topics/computer-science/federal-enterprise-architecture> <a href="#footnotes-ref4" aria-label="Back to content">↩</a></li>
 </ol>
 </div>
