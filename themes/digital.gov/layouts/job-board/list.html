@@ -63,7 +63,7 @@
                 </div>
                 <p>{{ .description | markdownify }}</p>
               </div>
-              <div class="card-job__apply">
+              <div class="card-job__apply" aria-labelledby="Apply for {{ .title }}">
                 <a class="usa-button" href="{{ $jobLink }}" target="__blank">
                   Apply
                 </a>
