@@ -5,6 +5,7 @@
 # Do not change the indentation of the YAML content
 # Jobs with a close date before the current date will automatically be omitted
 
+
 - title: Marketing & Outreach Specialist (Publications Coordinator)
   department: Department of Housing and Urban Development
   location: Washington, District of Columbia
@@ -118,7 +119,7 @@
 - title: Supervisory Program Analyst
   department: General Services Administration
   location: Washington, District of Columbia
-  description: As the Director of the Digital Communications Program Management Office within the Office of Strategic Communication you will be responsible for oversight and improvement of the agency's flagship website, gsa.gov, and the intranet site, Insite, and for ensuring the content is consistent with GSA publication policies and communications strategy. Location of position: GSA, Office of Strategic Communication, 1800 F Street, NW, Washington, DC.
+  description: As the Director of the Digital Communications Program Management Office within the Office of Strategic Communication you will be responsible for oversight and improvement of the agency's flagship website, gsa.gov, and the intranet site, Insite, and for ensuring the content is consistent with GSA publication policies and communications strategy. Location of position GSA, Office of Strategic Communication, 1800 F Street, NW, Washington, DC.
   open_date: 2024-08-01
   close_date: 2024-08-09
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802475200
