@@ -103,8 +103,8 @@
   }
 
   &__meta-topics {
-    grid-area: c-meta-topics;
     display: grid;
+    grid-area: c-meta-topics;
     grid-template-columns: repeat(4, auto);
     position: relative;
 
@@ -113,17 +113,17 @@
         border: map.get($communities-of-practice, $community);
         color: map.get($communities-of-practice, $community);
         margin-bottom: units(1);
-        margin-top: units(0);
         margin-right: units(1);
+        margin-top: units(0);
       }
     }
   }
 }
 
 #no_job_postings {
-  margin-bottom: units(4);
   line-height: line-height("sans", 2);
   font-size: font-size("sans", "lg");
   font-weight: font-weight("light");
+  margin-bottom: units(4);
   text-align: center;
 }

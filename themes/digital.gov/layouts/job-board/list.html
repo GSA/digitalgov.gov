@@ -22,6 +22,7 @@
     "Contact Center" "CC"
   }}
 
+
   <main role="main" id="main-content">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
@@ -54,7 +55,9 @@
                 <div class="card-job__department">
                   {{ .department | markdownify }}
                 </div>
-                <div class="card-job__location">{{ .location | markdownify }}</div>
+                <div class="card-job__location">
+                  {{ .location | markdownify }}
+                </div>
                 <p>{{ .description | markdownify }}</p>
               </div>
               <div class="card-job__apply">
@@ -82,14 +85,14 @@
             </article>
           {{ end }}
         {{ end }}
-        
+
         {{ if not $anyActivePost }}
           <div id="no_job_postings">
-            There are no active job postings at the moment. Please check back another
-            time.
+            There are no active job postings at the moment. Please check back
+            another time.
           </div>
         {{ end }}
-      
+
       </div>
       {{- partial "core/pagination.html" . -}}
     </section>
