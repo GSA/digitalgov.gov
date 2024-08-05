@@ -36,7 +36,27 @@
         cop-card--{{ .Params.dg_acronym }}
       {{ end }}"
     >
-      {{ $card_data := (dict "header" .Params.dg_shortname "body" .Params.summary "link" .Permalink "link_title" (printf "%s%s" "Connect with <br/>" .Params.dg_shortname) "image" .Params.dg_logo "alt" (printf "%s%s" .Params.dg_shortname " logo") "layout" $layout "kicker" "" "site" $context.Site) }}
+      {{ $members := "" }}
+      {{ range .Params.community_list }}
+        {{ if .members }}
+          {{ $members = .members }}
+        {{ end }}
+      {{ end }}
+
+      {{ $card_data := (dict
+        "header" .Params.dg_shortname
+        "body" .Params.summary
+        "link" .Permalink
+        "link_title" (printf "%s%s" "Connect with <br/>" .Params.dg_shortname)
+        "image" .Params.dg_logo
+        "alt" (printf "%s%s" .Params.dg_shortname " logo")
+        "layout" $layout
+        "kicker" ""
+        "site" $context.Site
+        "members" $members
+        )
+      }}
+
       {{- partial "core/usa-card.html" (dict "card_data" $card_data) -}}
     </div>
   {{ end }}
