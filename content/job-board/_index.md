@@ -17,7 +17,3 @@ topics:
   - professional-development
 
 ---
-
-{{< job-board >}}
-
-

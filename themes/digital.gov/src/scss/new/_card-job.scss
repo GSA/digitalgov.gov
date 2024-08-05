@@ -95,32 +95,30 @@
     "CC": color("blue-60v"),
   );
 
-
   &__meta-date {
     display: flex;
     grid-area: c-meta-date;
     font-style: italic;
     margin-right: units(3);
   }
-  
+
   &__meta-topics {
     grid-area: c-meta-topics;
     display: grid;
     grid-template-columns: repeat(4, auto);
     position: relative;
-  
+
     @each $community, $color in $communities-of-practice {
       .cop-topic--#{$community} {
         border: map.get($communities-of-practice, $community);
         color: map.get($communities-of-practice, $community);
         margin-bottom: units(1);
-        margin-right: units(1);
         margin-top: units(0);
+        margin-right: units(1);
       }
     }
   }
 }
-
 
 #no_job_postings {
   margin-bottom: units(4);
