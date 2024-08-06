@@ -11,6 +11,7 @@
   @param {string} [layout] - String used to adjust styles for variants
   @param {string} [kicker] - Optional kicker text to be displayed above the title
   @param {object} [site] - The Hugo site object for context
+  @param {bool} [outline] - Boolean to determine if the usa-button--outline class should be applied
 */}}
 
 {{- $header := default "" .card_data.header -}}
@@ -23,6 +24,7 @@
 {{- $kicker := default "" .card_data.kicker -}}
 {{- $context := .card_data.site -}}
 {{- $members := default "" .card_data.members -}}
+{{- $outline := default false .card_data.outline -}}
 {{- $has_image := false -}}
 
 {{ if eq $layout "has-image" }}
@@ -34,29 +36,23 @@
   {{ if $header }}
     <div class="usa-card__header">
       {{ if $kicker }}
-        <span class="dg-guides-card__kicker margin-bottom-2"
-          >{{- $kicker -}}</span
-        >
+        <span class="usa-card__kicker margin-bottom-2">{{- $kicker -}}</span>
       {{ end }}
-      <h2 class="usa-card__heading">
-        {{- $header | markdownify -}}
-      </h2>
+      <h2 class="usa-card__heading">{{- $header | markdownify -}}</h2>
     </div>
   {{ end }}
 
-  {{ if $has_image }}
-    {{ if not (eq $image "") }}
-      <div class="usa-card__media usa-card__media--indent">
-        <div class="usa-card__img">
-          {{ if (strings.Contains $image ".") }}
-            {{ $image_path := (printf "%s/%s" "img" $image | relURL) }}
-            <img src="{{- $image_path -}}" alt="{{- $alt -}}" />
-          {{ else }}
-            {{- partial "core/img-flexible.html" (dict "Site" $context "src" $image "small" "false") -}}
-          {{ end }}
-        </div>
+  {{ if and $has_image (not (eq $image "")) }}
+    <div class="usa-card__media usa-card__media--indent">
+      <div class="usa-card__img">
+        {{ if (strings.Contains $image ".") }}
+          {{ $image_path := (printf "%s/%s" "img" $image | relURL) }}
+          <img src="{{- $image_path -}}" alt="{{- $alt -}}" />
+        {{ else }}
+          {{- partial "core/img-flexible.html" (dict "Site" $context "src" $image "small" "false") -}}
+        {{ end }}
       </div>
-    {{ end }}
+    </div>
   {{ end }}
 
   {{ if $members }}
@@ -84,9 +80,10 @@
     <div class="usa-card__footer">
       <a
         href="{{- $link -}}"
-        class="usa-button {{ if $has_image }}usa-button--outline{{ end }}"
-        >{{- $link_title | markdownify -}}</a
+        class="usa-button {{ if $outline }}usa-button--outline{{ end }}"
       >
+        {{- $link_title | markdownify -}}
+      </a>
     </div>
   {{ end }}
 </div>
