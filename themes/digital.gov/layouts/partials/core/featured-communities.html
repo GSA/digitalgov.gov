@@ -4,10 +4,12 @@
   @param {object} context - Parent scope context object
   @param {string} layout - Optional variant setting for card styles
   - "has-media" variant displays an image, full background colors on buttons, and left justified copy
+  @param {bool} outline - Boolean to determine if the usa-button--outline class should be applied
 */}}
 
 {{ $context := .context }}
 {{ $layout := .layout }}
+{{ $outline := .outline }}
 
 {{/* list featured communities in alphabetical order */}}
 {{ $page_header := $context.Site.GetPage "/communities" }}
@@ -15,13 +17,12 @@
 {{ $communities = (where $communities ".Params.weight" "ge" 1) }}
 {{ $dg_communities := (where $communities ".Params.dg_highlight" "eq" true) }}
 
-
 <div class="page-head">
   {{ with $page_header }}
     <h1>{{- .Title | markdownify -}}</h1>
     {{- if .Params.deck -}}
       <div class="deck">{{- .Params.deck | markdownify -}}</div>
-    {{- end -}}
+    {{- end }}
   {{ end }}
 </div>
 
@@ -53,7 +54,7 @@
         "layout" $layout
         "site" $context.Site
         "members" $members
-        "outline" true
+        "outline" $outline
         )
       }}
 
