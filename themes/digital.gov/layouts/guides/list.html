@@ -58,7 +58,7 @@
   {{ else }}
     {{ $layout = "no-image" }}
   {{ end }}
-  {{ $kicker := "Digital.gov Guide" }}
+{{ $kicker := "Digital.gov Guide" }}
   <li class="usa-card tablet:grid-col-4 dg-guides-card">
     {{ partial "core/usa-card" (dict "card_data" (dict "header" $title "body" $summary "link" $link "link_title" $title "image" $image "alt" "Test Alt" "layout" $layout "kicker" $kicker "site" $site)) }}
   </li>

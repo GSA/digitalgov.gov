@@ -17,6 +17,7 @@
 {{ $communities = (where $communities ".Params.weight" "ge" 1) }}
 {{ $dg_communities := (where $communities ".Params.dg_highlight" "eq" true) }}
 
+
 <div class="page-head">
   {{ with $page_header }}
     <h1>{{- .Title | markdownify -}}</h1>
