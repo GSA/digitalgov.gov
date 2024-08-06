@@ -21,7 +21,7 @@
       @include u-padding-right(4);
     }
 
-    .q {
+    &__quotation-mark {
       @include u-margin-right("05");
     }
 
@@ -35,13 +35,14 @@
       @include u-font("sans", "md");
     }
   }
-}
 
-.card-quote.dark {
-  @include u-bg("gray-cool-70");
+  // variant to display a darker background and light text
+  &--dark {
+    @include u-bg("gray-cool-70");
 
-  blockquote {
-    @include u-text("white");
-    @include u-border-left("05", "solid", "gray-cool-20");
+    blockquote {
+      @include u-text("white");
+      @include u-border-left("05", "solid", "gray-cool-20");
+    }
   }
 }

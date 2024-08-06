@@ -1,11 +1,24 @@
+{{/* card-quote short code to display a block of quoted text with optional citation
+
+  @param {string} bg - optional value of "dark" to display a dark background color otherwise will display as gold
+  @param {string} cite - optional string to display a citation
+  @param {string} text - required text for displaying a quote
+
+  @example usage
+  {{< card-quote text="The big idea goes here" cite="Dr. Meredith Larson, Department of Education"
+>}}
+
+*/}}
 {{ $bg := (.Get "bg") }}
 {{ $cite := (.Get "cite") }}
 {{ $text := (.Get "text") }}
 
 {{- if $text -}}
-  <div class="card-quote {{ if $bg }}{{ $bg }}{{ end }}">
+  <div class="card-quote {{ if $bg }}card-quote--{{ $bg }}{{ end }}">
     <blockquote>
-      <span class="q">“</span>{{ $text | markdownify }}<span class="q">”</span>
+      <span class="card_quote__quotation-mark">“</span>
+      {{ $text | markdownify }}
+      <span class="card_quote__quotation-mark">”</span>
       {{- if $cite -}}
         <cite>— {{ $cite | markdownify }}</cite>
       {{- end -}}
