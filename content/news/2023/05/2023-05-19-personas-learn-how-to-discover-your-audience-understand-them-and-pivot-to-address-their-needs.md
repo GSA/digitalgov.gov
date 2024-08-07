@@ -138,9 +138,9 @@ You’ve identified your audience, made your proto-persona, done your research, 
 * [Energy.gov - Customer Profiles and Personas Templates](https://www.energy.gov/eere/communicationstandards/articles/templates-and-examples-customer-profiles-and-personas)
 * [Digital Services Georgia - Template and Personas Class Materials](https://digital.georgia.gov/training/state-certified-content-workshop/personas)
 
-<footer>
-<h2 id="footnote-label">Footnotes</h2>
-<ol>
-<li id="fn1">Campbell, Joseph. (1949) 2008. The Hero with a Thousand Faces. Novato, Calif.: New World Library. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<div class="dg-footnote">
+<h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+<ol class="dg-footnote__list">
+<li class="dg-footnote__list-item" id="fn1">Campbell, Joseph. (1949) 2008. The Hero with a Thousand Faces. Novato, Calif.: New World Library. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>

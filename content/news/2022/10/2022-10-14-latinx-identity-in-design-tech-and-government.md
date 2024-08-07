@@ -120,10 +120,10 @@ Check out open positions or register for an info session to ask questions and le
 
 ---
 
-<footer>
-<h3 id="footnote-label">Footnotes</h3>
-<ol>
-<li id="fn1">"Google Diversity Annual Report 2020." Diversity Reports list in footer, <a href="https://about.google/belonging/">Google Belonging</a>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<div class="dg-footnote">
+<h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+<ol class="dg-footnote__list">
+<li class="dg-footnote__list-item" id="fn1">"Google Diversity Annual Report 2020." Diversity Reports list in footer, <a href="https://about.google/belonging/">Google Belonging</a>. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 <li id="fn2">"Microsoft’s 2020 Diversity & Inclusion report: A commitment to accelerate progress amidst global change." <a href="https://blogs.microsoft.com/blog/2020/10/21/microsofts-2020-diversity-inclusion-report-a-commitment-to-accelerate-progress-amidst-global-change/">The Official Microsoft Blog, Oct 21, 2020</a>. <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
 </ol>
-<footer>
+</div>
