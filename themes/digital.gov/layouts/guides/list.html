@@ -36,30 +36,35 @@
       <section class="dg-guides">
         <ul class="usa-card-group">
           {{ range $guidePages.ByParam "guide_weight" }}
+            {{ $image := .Params.image }}
+            {{ $layout := "" }}
+            {{ if $image }}
+              {{ $layout = "has-image" }}
+            {{ else }}
+              {{ $layout = "no-image" }}
+            {{ end }}
+            {{ $kicker := "Digital.gov Guide" }}
             {{ if .Params.guide_weight }}
-              {{ template "card-guide" (dict "title" .Title "summary" .Params.summary "link" .Permalink "image" .Params.image "site" .Site) }}
+              <li class="usa-card tablet:grid-col-4 dg-guides-card">
+                {{ $card_data := (dict
+                  "header" .Title
+                  "body" .Params.summary
+                  "link" (.Permalink | relURL)
+                  "link_title" .Title
+                  "image" $image
+                  "alt" "Test Alt"
+                  "layout" $layout
+                  "kicker" $kicker
+                  "site" .Site
+                  )
+                }}
+
+                {{ partial "core/usa-card" (dict "card_data" $card_data) }}
+              </li>
             {{ end }}
           {{ end }}
         </ul>
       </section>
     </div>
   </main>
-{{ end }}
-
-{{ define "card-guide" }}
-  {{ $title := .title }}
-  {{ $summary := .summary }}
-  {{ $link := .link }}
-  {{ $image := .image }}
-  {{ $site := .site }}
-  {{ $layout := "" }}
-  {{ if $image }}
-    {{ $layout = "has-image" }}
-  {{ else }}
-    {{ $layout = "no-image" }}
-  {{ end }}
-  {{ $kicker := "Digital.gov Guide" }}
-  <li class="usa-card tablet:grid-col-4 dg-guides-card">
-    {{ partial "core/usa-card" (dict "card_data" (dict "header" $title "body" $summary "link" $link "link_title" $title "image" $image "alt" "Test Alt" "layout" $layout "kicker" $kicker "site" $site)) }}
-  </li>
 {{ end }}
