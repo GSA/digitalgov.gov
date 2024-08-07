@@ -53,13 +53,13 @@ And section III(A)(2), [Do not alarm or frighten your users in ways that erode t
 
 With that in mind, we worked with GSA’s Tech Law Division and GSA IT Security to update the agency’s policies to be consistent with M-23-22. The following updated guidance was provided to GSA websites managers:
 
-1. For public websites, systems, and applications like Digital.gov where **users do NOT register or log in** – don’t actively present a warning banner to users; instead, link to [GSA.gov’s Privacy and Security policies](https://www.gsa.gov/website-information/website-policies#privacy). GSA websites that leverage the [U.S. Web Design System identifier component](https://www.gsa.gov/website-information/website-policies#privacy) already satisfy this recommendation, as shown below. **No additional System Use Notification is required**.
+1. For public websites, systems, and applications like Digital.gov where **users do NOT register or log in**: Don’t actively present a warning banner to users; instead, link to [GSA.gov’s Privacy and Security policies](https://www.gsa.gov/website-information/website-policies#privacy). GSA websites that leverage the [U.S. Web Design System identifier component](https://www.gsa.gov/website-information/website-policies#privacy) already satisfy this recommendation, as shown below. **No additional System Use Notification is required**.
 
 {{< img src="digital-gov-identifier-policy-circled-med" >}}
 
-2. For public websites, systems, and applications where **users register or log in** – display system use language with the terms and conditions the user must agree to. The example below from Login.gov presents the Rules of Use at account creation. This method satisfies the acknowledgements required from users that the system they’re using will be monitored, and ensures they are aware that they’re accessing a federal government system every subsequent time they log in.
+2. For public websites, systems, and applications where **users register or log in**: Display system use language with the terms and conditions the user must agree to. The example below from Login.gov presents the Rules of Use at account creation. This method satisfies the acknowledgements required from users that the system they’re using will be monitored, and ensures they are aware that they’re accessing a federal government system every subsequent time they log in.
 
-{{< img src="rules-of-use-login-gov" >}}
+<div style="text-align:center;"><img src="https://s3.amazonaws.com/digitalgov/rules-of-use-login-gov.png"></div>
 
 This work is a great example of a policy tweak that can be immediately applied to public-facing websites to improve user experience.
 
