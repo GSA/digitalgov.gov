@@ -1,48 +1,47 @@
 @use "uswds-core" as *;
 
-.card-quote {
-  @include u-measure(6);
-  @include u-margin-bottom(3);
-  @include u-bg("gold-5");
-  @include u-radius("sm");
+.quote-block {
+  width: measure(6);
+  margin-bottom: units(3);
+  background-color: color("gold-5");
+  border-radius: radius("sm");
 
   blockquote {
-    @include u-margin(0);
-    @include u-padding-y(3);
-    @include u-padding-x(5);
-    @include u-padding-right(3);
-    @include u-text-indent(-2);
-    @include u-text("gold-60");
-    @include u-font("serif", "md");
-    @include u-border-left("05", "solid", "gold-30");
+    margin: 0;
+    padding: units(3) units(5) units(3) units(5);
+    padding-right: units(3);
+    text-indent: -units(2);
+    color: color("gold-60");
+    font-family: font("serif", "md");
+    border-left: units(0.5) solid color("gold-30");
 
     @include at-media("tablet") {
-      @include u-padding-x(5);
-      @include u-padding-right(4);
+      padding: units(3) units(5) units(3) units(5);
+      padding-right: units(4);
     }
 
     &__quotation-mark {
-      @include u-margin-right("05");
+      margin-right: units(0.5);
     }
 
     cite {
-      @include u-display("block");
-      @include u-margin-top(2);
-      @include u-padding-right(4);
-      @include u-text("right");
-      @include u-text("italic");
-      @include u-line-height("serif", 2);
-      @include u-font("sans", "md");
+      display: block;
+      margin-top: units(2);
+      padding-right: units(4);
+      text-align: right;
+      font-style: italic;
+      line-height: line-height("serif", 2);
+      font-family: font("sans", "md");
     }
   }
 
   // variant to display a darker background and light text
   &--dark {
-    @include u-bg("gray-cool-70");
+    background-color: color("gray-cool-70");
 
     blockquote {
-      @include u-text("white");
-      @include u-border-left("05", "solid", "gray-cool-20");
+      color: color("white");
+      border-left: units(0.5) solid color("gray-cool-20");
     }
   }
 }

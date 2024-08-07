@@ -49,7 +49,7 @@ The DHS Trusted Tester program offers:
 
 The Trusted Tester process aligns with the [Section 508 ICT Testing Baseline](https://section508coordinators.github.io/ICTTestingBaseline/introduction.html) to evaluate the accessibility of a website, which provides more standardized and less subjective results. Automated testing is only capable of inspecting a portion of possible issues, with manual inspections required to evaluate the remainder. Trusted Testers can help identify a broader spectrum of accessibility issues when they are integrated into the review process.
 
-{{< card-quote text="Informal testing is valuable, but in order to be really sure that you’re making something as inclusive and accessible as possible, you have to have some knowledge of what to test for and the Trusted Tester process is that process." cite="Robert Jolly, 18F Product Manager" >}}
+{{< quote-block text="Informal testing is valuable, but in order to be really sure that you’re making something as inclusive and accessible as possible, you have to have some knowledge of what to test for and the Trusted Tester process is that process." cite="Robert Jolly, 18F Product Manager" >}}
 
 There are several [testing methods](https://www.section508.gov/test/testing-overview) to validate conformance to the [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule):
 
