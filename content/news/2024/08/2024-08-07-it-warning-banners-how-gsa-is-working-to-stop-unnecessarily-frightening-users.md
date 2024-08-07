@@ -59,7 +59,7 @@ With that in mind, we worked with GSA’s Tech Law Division and GSA IT Security 
 
 2. For public websites, systems, and applications where **users register or log in**: Display system use language with the terms and conditions the user must agree to. The example below from Login.gov presents the Rules of Use at account creation. This method satisfies the acknowledgements required from users that the system they’re using will be monitored, and ensures they are aware that they’re accessing a federal government system every subsequent time they log in.
 
-<div style="text-align:center;"><img src="https://s3.amazonaws.com/digitalgov/rules-of-use-login-gov.png"></div>
+<div style="text-align:center;"><img src="https://s3.amazonaws.com/digitalgov/rules-of-use-login-gov.png" alt="Login.gov's create an account screen ends with a checkbox and sentence, I read and accept the Login.gov Rules of Use. Rules of use is linked and circled in red."></div>
 
 This work is a great example of a policy tweak that can be immediately applied to public-facing websites to improve user experience.
 
