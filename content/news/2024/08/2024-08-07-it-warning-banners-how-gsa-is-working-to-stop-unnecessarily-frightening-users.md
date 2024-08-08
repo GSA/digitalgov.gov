@@ -25,21 +25,21 @@ primary_image: "example-gsa-official-use-system-warning-blue-bg-sm-comp"
 weight: 1
 
 ---
-Does your agency use a pop-up, modal, or overlay to present its IT warning banner (system use notifications) to users? The U.S. General Services Administration did.
+Does your agency use a pop-up, modal, or overlay to present its IT warning banner (system use notifications) to users? The U.S. General Services Administration (GSA) did.
 
 In fact, 34% of GSA’s public-facing websites contained some version of the following warning banner: 
 
 {{< box >}}
-<center>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;<strong>WARNING</strong>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
+<center>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;<strong>WARNING</strong>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
 
 This is a U.S. General Services Administration Federal Government computer system that is "FOR OFFICIAL USE ONLY." This system is subject to monitoring. Therefore, no expectation of privacy is to be assumed. Individuals found performing unauthorized activities may be subject to disciplinary action including criminal prosecution.
 
 &#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;</center>
 {{< /box >}}
 
-In September 2023, OMB issued M-23-22 Delivering a Digital-First Public Experience which provides further guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the [requirements for a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+In September 2023, the Office of Management and Budget (OMB) issued M-23-22, Delivering a Digital-First Public Experience, which provides further guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the [requirements for a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 
-The memo advises agencies on how to handle system use notifications.
+The M-23-22 memo advises agencies on how to handle system use notifications.
 
 Section III(A)(2), [Reduce user friction by limiting warnings](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/#IIIA:~:text=Reduce%20user%20friction%20by%20limiting%20warnings%3A), says:
 
