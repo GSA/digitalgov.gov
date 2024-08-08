@@ -22,9 +22,6 @@
           {{- .Content -}}
         </div>
 
-        {{- partial "core/touchpoints-form.html" . -}}
-
-
         <aside
           class="dg-sidebar usa-in-page-nav"
           data-title-heading-level="h4"
@@ -36,6 +33,7 @@
           </div>
         </aside>
       </div>
+      {{- partial "core/touchpoints-form.html" . -}}
     </article>
   </main>
 {{- end -}}
