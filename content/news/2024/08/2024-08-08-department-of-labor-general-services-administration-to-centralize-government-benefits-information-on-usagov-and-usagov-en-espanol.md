@@ -5,20 +5,8 @@ source: gsa
 date: 2024-08-07
 title: "Department of Labor, General Services Administration to centralize
   government benefits information on USA.gov and USAGov en Español"
-deck: The Department of Labor and General Services Administration announced that
-  Benefits.gov will be discontinued in September 2024, with its services and
-  information being centralized on USA.gov and USAGov en Español. This move,
-  aligned with Executive Order 14058, aims to create a seamless, user-friendly
-  experience for accessing government benefits in both English and Spanish. The
-  new platform will feature improved navigation, benefit-finding tools, and a
-  focus on equitable access to information.
-summary: The Department of Labor and General Services Administration announced
-  that Benefits.gov will be discontinued in September 2024, with its services
-  and information being centralized on USA.gov and USAGov en Español. This move,
-  aligned with Executive Order 14058, aims to create a seamless, user-friendly
-  experience for accessing government benefits in both English and Spanish. The
-  new platform will feature improved navigation, benefit-finding tools, and a
-  focus on equitable access to information.
+deck: The Department of Labor and General Services Administration announced that Benefits.gov will be discontinued in September 2024, with its services and information being centralized on USA.gov and USAGov en Español. This move, aligned with Executive Order 14058 on Customer Experience and Service delivery, aims to create a seamless, user-friendly experience for accessing government benefits in both English and Spanish. The new platform will feature improved navigation, benefit-finding tools, and a focus on equitable access to information. 
+summary: The Department of Labor and General Services Administration announced that Benefits.gov will be discontinued in September 2024, with its services and information being centralized on USA.gov and USAGov en Español. This move, aligned with Executive Order 14058 on Customer Experience and Service delivery, aims to create a seamless, user-friendly experience for accessing government benefits in both English and Spanish. The new platform will feature improved navigation, benefit-finding tools, and a focus on equitable access to information. 
 # See all topics at https://digital.gov/topics
 topics:
   - communication
