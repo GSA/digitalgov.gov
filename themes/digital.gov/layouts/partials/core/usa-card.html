@@ -2,6 +2,7 @@
   Renders a USWDS card given a heading, image, body, and footer
 
   @param {string} [header] - String to be displayed as the title of the card
+  @param {string} [members] - Number of members to be displayed as subheader of the card
   @param {string} [body] - String to be displayed in the body of the card
   @param {string} [link] - String passed into the "href" field of the button at the footer of the card
   @param {string} [link_title] - String passed into the "title" field of the button at the footer of the card
@@ -17,6 +18,7 @@
 {{- $image := default "" .card_data.image -}}
 {{- $alt := default "" .card_data.alt -}}
 {{- $layout := default "" .card_data.layout -}}
+{{- $members := default "" .card_data.members -}}
 {{- $has_image := false -}}
 
 {{ if eq $layout "has-image" }}
@@ -41,6 +43,20 @@
         </div>
       </div>
     {{ end }}
+  {{ end }}
+  {{ if $members }}
+    <div class="usa-card__members">
+      <span class="usa-card__member-count">
+        <svg
+          class="usa-card__members-icon usa-icon dg-icon dg-icon--large margin-bottom-05"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"></use>
+        </svg>
+        {{ $members }} Members
+      </span>
+    </div>
   {{ end }}
   {{ if $body }}
     <div class="usa-card__body">
