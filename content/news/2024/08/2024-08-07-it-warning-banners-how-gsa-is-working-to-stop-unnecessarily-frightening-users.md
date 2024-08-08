@@ -34,7 +34,7 @@ In fact, 34% of GSA’s public-facing websites contained some version of the fol
 
 This is a U.S. General Services Administration Federal Government computer system that is "FOR OFFICIAL USE ONLY." This system is subject to monitoring. Therefore, no expectation of privacy is to be assumed. Individuals found performing unauthorized activities may be subject to disciplinary action including criminal prosecution.
 
-&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;</center>
+&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;</center>
 {{< /box >}}
 
 In September 2023, the Office of Management and Budget (OMB) issued M-23-22, Delivering a Digital-First Public Experience, which provides further guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the [requirements for a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
@@ -43,11 +43,11 @@ The M-23-22 memo advises agencies on how to handle system use notifications.
 
 Section III(A)(2), [Reduce user friction by limiting warnings](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/#IIIA:~:text=Reduce%20user%20friction%20by%20limiting%20warnings%3A), says:
 
-> Agencies should avoid the use of unnecessary pop-ups, modals, overlays, interstitials, and other messages that interrupt the user experience and impede the user from completing a task, unless it is a necessary part of the design of the user experience.
+> *Agencies should avoid the use of unnecessary pop-ups, modals, overlays, interstitials, and other messages that interrupt the user experience and impede the user from completing a task, unless it is a necessary part of the design of the user experience.*
 
 And section III(A)(2), [Do not alarm or frighten your users in ways that erode trust](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/#IIIA:~:text=Do%20not%20alarm%20or%20frighten%20your%20users%20in%20ways%20that%20erode%20trust), says:
 
-> Agencies should consider how legal, security, and error messages are presented and conveyed to users.
+> *Agencies should consider how legal, security, and error messages are presented and conveyed to users.*
 
 {{< card-quote text="The warning message reads like a 'no trespassing' sign. It’s an unwelcoming signal." cite="GSA employee" >}}
 
