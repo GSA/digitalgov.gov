@@ -30,9 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id:
-
 # Make it better ♥
-
 ---
 
 {{< youtube id="aOy9UzClmMA" title="The Average American Reader Needs You to Write (Even More) Clearly" >}}
@@ -45,9 +43,9 @@ When communicating with the public, we must change our assumptions about their a
 
 Over 50% of U.S. adults score below an international benchmark for literacy, with roughly 20% scoring at the very lowest levels. These adults span all demographics and are a part of your audience. Don’t assume they’re not.
 
-You must  communicate clearly with your audience. Keep it simple and convenient, and use plain language. Present the most important information you want to convey first. Get feedback from your readers on whether they understand the information you’re trying to convey.
+You must communicate clearly with your audience. Keep it simple and convenient, and use plain language. Present the most important information you want to convey first. Get feedback from your readers on whether they understand the information you’re trying to convey.
 
-{{< card-quote text="One of the most important things we know about writing is to have some idea of your audience and whom you might be writing for." cite="Dr. Meredith Larson, Department of Education" >}}
+{{< quote-block text="One of the most important things we know about writing is to have some idea of your audience and whom you might be writing for." cite="Dr. Meredith Larson, Department of Education" >}}
 
 ## Background
 
@@ -60,9 +58,11 @@ PIAAC is designed to assess adults in different countries over a broad range of 
 PIAAC has four domains:
 
 ### 1. Literacy
+
 "Literacy is understanding, evaluating, using, and engaging with written text to participate in the society, to achieve one's goals, and to develop one's knowledge and potential." [PIAAC Literacy Domain Page](<https://nces.ed.gov/surveys/piaac/literacy.asp).
 
 ### 2. Numeracy
+
 "The ability to access, use, interpret, and communicate mathematical information and ideas, to engage in and manage mathematical demands of a range of situations in adult life." [PIAAC Numeracy Domain Page](https://nces.ed.gov/surveys/piaac/numeracy.asp).
 
 {{< note >}}
@@ -83,6 +83,7 @@ For Literacy and Numeracy, **Level 3** should be sufficient for participation in
 - **Level 5**: Integrate information across multiple dense texts; construct syntheses, ideas or points of view; or evaluate evidence based arguments.
 
 ### 3. Digital Problem Solving in Technology-Rich Environments
+
 "Using digital technology, communication tools, and networks to acquire and evaluate information, communicate with others, and perform practical tasks." [PIAAC Problem Solving in Technology-Rich Environments Domain Page](https://nces.ed.gov/surveys/piaac/problem-solving.asp).
 
 {{< note >}}
@@ -99,6 +100,7 @@ For Digital Problem Solving, **Level 2** should be sufficient for participation 
 - **Level 3**: Navigating multiple pages to find a form, etc.
 
 ### 4. Reading Components
+
 “Focuses on elements of reading that are comparable across the range of languages in the participating countries: reading vocabulary, sentence comprehension, and basic passage comprehension.” [PIAAC Reading Components Domain Page](https://nces.ed.gov/surveys/piaac/reading-components.asp).
 
 ## How the United States ranks
@@ -112,6 +114,7 @@ One of the most important things to know about writing is to have some idea of y
 ### Demographics
 
 Are those scoring below a sufficient level ...
+
 - Old or young? **Answer**: No. Low skills are fairly evenly distributed across age groups.
 - Non-native speakers? **Answer**: No. We cannot assume it’s just a language issue.
 - Unemployed? **Answer**: No. Most (62%) are employed.
@@ -129,9 +132,9 @@ Are those scoring below a sufficient level ...
 
 ## Related Links
 
- - IES research on [adult basic skills](https://ies.ed.gov/topics/adultBasic.asp)
- - [PIAAC assessment](https://nces.ed.gov/surveys/piaac/current_results.asp) of adult skills
- - Georgia State University [Adult Literacy Research Center](https://education.gsu.edu/research-outreach/alrc/)
+- IES research on [adult basic skills](https://ies.ed.gov/topics/adultBasic.asp)
+- [PIAAC assessment](https://nces.ed.gov/surveys/piaac/current_results.asp) of adult skills
+- Georgia State University [Adult Literacy Research Center](https://education.gsu.edu/research-outreach/alrc/)
 
 ---
 
