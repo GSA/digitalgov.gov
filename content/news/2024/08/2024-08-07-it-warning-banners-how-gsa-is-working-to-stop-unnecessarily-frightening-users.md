@@ -43,7 +43,7 @@ The M-23-22 memo advises agencies on how to handle system use notifications.
 
 Section III(A)(2), [Reduce user friction by limiting warnings](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/#IIIA:~:text=Reduce%20user%20friction%20by%20limiting%20warnings%3A), says:
 
-<div style="text-align:left; margin-left: 1em;">
+<div style="text-align:left; margin-left: 2em;">
 <p><em>Agencies should avoid the use of unnecessary pop-ups, modals, overlays, interstitials, and other messages that interrupt the user experience and impede the user from completing a task, unless it is a necessary part of the design of the user experience.</em></p>
 </div>
   
