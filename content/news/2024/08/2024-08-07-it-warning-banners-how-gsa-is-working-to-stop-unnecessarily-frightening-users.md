@@ -17,7 +17,7 @@ authors:
 
 slug: it-warning-banners-how-gsa-is-working-to-stop-unnecessarily-frightening-users
 
-primary_image: 
+primary_image: "example-gsa-official-use-system-warning-blue-bg-sm-comp"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -29,8 +29,8 @@ Does your agency use a pop-up, modal, or overlay to present its IT warning banne
 
 In fact, 34% of GSA’s public-facing websites contained some version of the following warning banner: 
 
-{{< box >}}<center>
-&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;<strong>WARNING</strong>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
+{{< box >}}
+<center>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;<strong>WARNING</strong>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
 
 This is a U.S. General Services Administration Federal Government computer system that is "FOR OFFICIAL USE ONLY." This system is subject to monitoring. Therefore, no expectation of privacy is to be assumed. Individuals found performing unauthorized activities may be subject to disciplinary action including criminal prosecution.
 
