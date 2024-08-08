@@ -2,7 +2,7 @@
 date: 2024-08-07
 title: "IT warning banners: How GSA is working to stop unnecessarily frightening users"
 deck: "Driving policy changes and improving user experience through M-23-22"
-summary: "OMB Memo M-23-22 discourages the use of pop-ups and modals. GSA IT updated security policies so IT warning banners are presented less intrusively to users."
+summary: "OMB Memo M-23-22 discourages the use of pop-ups and modals. GSA IT updated security policies so that IT warning banners are presented less intrusively to users."
 
 # See all topics at https://digital.gov/topics
 topics:
