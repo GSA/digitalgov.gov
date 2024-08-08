@@ -9,11 +9,12 @@
   blockquote {
     border-left: units(0.5) solid color("gold-30");
     color: color("gold-60");
-    font-family: font("serif", "md");
+    font-family: font-family("serif");
+    font-size: font-size("serif", "md");
     margin: 0;
     padding: units(3) units(5) units(3) units(5);
     padding-right: units(3);
-    text-indent: -units(2);
+    text-indent: units(-2);
 
     @include at-media("tablet") {
       padding: units(3) units(5) units(3) units(5);
@@ -26,7 +27,8 @@
 
     cite {
       display: block;
-      font-family: font("sans", "md");
+      font-family: font-family("sans");
+      font-size: font-size("serif", "md");
       font-style: italic;
       line-height: line-height("serif", 2);
       margin-top: units(2);
