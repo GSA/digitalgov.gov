@@ -8,40 +8,32 @@
 }
 
 .card-job {
-  @include at-media("tablet-lg") {
-    align-items: start;
-    display: grid;
-    grid-template-areas:
-      "c-content-header c-apply"
-      "c-content-summary c-apply"
-      "c-meta-date c-meta-date"
-      "c-meta-topics c-meta-topics";
-    grid-template-columns: 7fr 1fr;
-    overflow-wrap: anywhere;
-  }
-  @media (max-width: units(tablet-lg)) and (min-width: units(tablet)) {
-    align-items: start;
-    display: grid;
+  align-items: start;
+  display: grid;
+  grid-template-areas:
+    "c-content-header"
+    "c-content-summary"
+    "c-meta-date"
+    "c-meta-topics"
+    "c-apply";
+  overflow-wrap: anywhere;
+
+  @include at-media("tablet") {
     grid-template-areas:
       "c-content-header c-apply"
       "c-content-summary c-apply"
       "c-meta-date c-meta-date"
       "c-meta-topics c-meta-topics";
     grid-template-columns: 3fr 1fr;
-    overflow-wrap: anywhere;
   }
 
-  @include at-media-max("tablet") {
-    align-items: start;
-    display: grid;
+  @include at-media("tablet-lg") {
     grid-template-areas:
-      "c-content-header"
-      "c-content-summary"
-      "c-meta-date"
-      "c-meta-topics"
-      "c-apply";
-    // grid-template-rows: 1fr 1fr;
-    overflow-wrap: anywhere;
+      "c-content-header c-apply"
+      "c-content-summary c-apply"
+      "c-meta-date c-meta-date"
+      "c-meta-topics c-meta-topics";
+    grid-template-columns: 7fr 1fr;
   }
 
   &__content-header {
@@ -68,25 +60,25 @@
     display: flex;
     flex-direction: column;
     grid-area: c-content-summary;
-    margin-top: units(0);
+    margin-top: 0;
+  }
 
-    p {
-      font-size: font-size("sans", "md");
-      font-weight: font-weight("normal");
-      line-height: line-height("sans", 3);
-      max-width: none;
-    }
+  &__description {
+    font-size: font-size("sans", "md");
+    font-weight: font-weight("normal");
+    line-height: line-height("sans", 3);
+    max-width: none;
+  }
 
-    &__department {
-      font-size: font-size("sans", "md");
-      font-weight: bold;
-      text-wrap: wrap;
-    }
+  &__department {
+    font-size: font-size("sans", "md");
+    font-weight: font-weight("bold");
+    text-wrap: wrap;
+  }
 
-    &__location {
-      font-size: font-size("sans", "md");
-      text-wrap: wrap;
-    }
+  &__location {
+    font-size: font-size("sans", "md");
+    text-wrap: wrap;
   }
 
   &__apply {
@@ -124,7 +116,7 @@
         color: map.get($communities-of-practice, $community);
         margin-bottom: units(1);
         margin-right: units(1);
-        margin-top: units(0);
+        margin-top: 0;
       }
     }
   }

@@ -24,7 +24,7 @@
 
 
   <main role="main" id="main-content">
-    <div class="grid-container grid-container-desktop">
+    <div class="grid-container-desktop">
       <div class="grid-row">
         <div class="grid-col-12">
           <header class="page-head page-head-{{- .Type -}}">
@@ -43,7 +43,7 @@
     </div>
 
     <section class="stream">
-      <div class="grid-container grid-container-desktop">
+      <div class="grid-container-desktop">
         {{ range .Site.Data.job_board }}
           {{ if ge .close_date $now }}
             {{ $anyActivePost = true }}
@@ -55,13 +55,15 @@
                 >
               </div>
               <div class="card-job__content-summary">
-                <div class="card-job__content-summary-department">
+                <div class="card-job__department">
                   {{ .department | markdownify }}
                 </div>
-                <div class="card-job__content-summary-location">
+                <div class="card-job__location">
                   {{ .location | markdownify }}
                 </div>
-                <p>{{ .description | markdownify }}</p>
+                <p class="card-job__description">
+                  {{ .description | markdownify }}
+                </p>
               </div>
               <div
                 class="card-job__apply"
