@@ -54,7 +54,7 @@ And section III(A)(2), [Do not alarm or frighten your users in ways that erode t
 <p><em>Agencies should consider how legal, security, and error messages are presented and conveyed to users.</em></p>
 </div>
 
-{{< quote-block text="The warning message reads like a ‘no trespassing’ sign. It’s an unwelcoming signal." cite="GSA employee" >}}
+{{< quote-block text="The warning message reads like a ‘no trespassing’ sign. It's an unwelcoming signal." cite="GSA employee" >}}
 
 With that in mind, we worked with GSA’s Tech Law Division and GSA IT Security to update the agency’s policies to be consistent with M-23-22. The following updated guidance was provided to GSA websites managers:
 
