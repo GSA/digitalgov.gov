@@ -7,7 +7,7 @@ primary_image: hcd-discovery-operations
 ---
 <div style="margin-left: 20px">
 <input type="checkbox">
-Review the <a href="{{< ref "/guides/hcd/discovery-concepts/do-research.md" >}}">research section of the HCD Discovery Concepts Guide.</a>
+Review the [research section of the HCD Discovery Concepts Guide](https://digital.gov/guides/hcd/discovery-concepts/do-research/).
 </input><br>
 <input type="checkbox">
 Check with the Logistics Coordinator for details on each interview site before going into the field.
