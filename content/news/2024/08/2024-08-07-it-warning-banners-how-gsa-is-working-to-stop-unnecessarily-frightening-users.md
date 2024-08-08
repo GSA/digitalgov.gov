@@ -23,6 +23,7 @@ primary_image: "example-gsa-official-use-system-warning-blue-bg-sm-comp"
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
 
 Does your agency use a pop-up, modal, or overlay to present its IT warning banner (system use notifications) to users? The U.S. General Services Administration (GSA) did.
@@ -30,12 +31,11 @@ Does your agency use a pop-up, modal, or overlay to present its IT warning banne
 In fact, 34% of GSA’s public-facing websites contained some version of the following warning banner:
 
 {{< box >}}
-
 <center>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;<strong>WARNING</strong>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;
 
 This is a U.S. General Services Administration Federal Government computer system that is "FOR OFFICIAL USE ONLY." This system is subject to monitoring. Therefore, no expectation of privacy is to be assumed. Individuals found performing unauthorized activities may be subject to disciplinary action including criminal prosecution.
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*</center>
+&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;</center>
 {{< /box >}}
 
 In September 2023, the Office of Management and Budget (OMB) issued M-23-22, Delivering a Digital-First Public Experience, which provides further guidance to help agencies fully implement 21st Century IDEA. The law and policy guidance collectively establish a framework and the [requirements for a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
@@ -54,7 +54,7 @@ And section III(A)(2), [Do not alarm or frighten your users in ways that erode t
 <p><em>Agencies should consider how legal, security, and error messages are presented and conveyed to users.</em></p>
 </div>
 
-{{< quote-block text="The warning message reads like a 'no trespassing' sign. It’s an unwelcoming signal." cite="GSA employee" >}}
+{{< quote-block text="The warning message reads like a ‘no trespassing’ sign. It's an unwelcoming signal." cite="GSA employee" >}}
 
 With that in mind, we worked with GSA’s Tech Law Division and GSA IT Security to update the agency’s policies to be consistent with M-23-22. The following updated guidance was provided to GSA websites managers:
 
