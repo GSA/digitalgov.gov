@@ -51,6 +51,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
+  <!-- DAP script to send data to analytics.usa.gov. -->
+  <script
+    async
+    type="text/javascript"
+    id="_fed_an_ua_tag"
+    src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA&subagency=TTS"
+  ></script>
+
   {{ "<!-- Google Tag Manager Data Layer -->" | safeHTML }}
   <script>
     dataLayer = [
@@ -74,6 +82,7 @@
       f.parentNode.insertBefore(j, f);
     })(window, document, "script", "dataLayer", "GTM-MZCKZPQ");
   </script>
+
   {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
@@ -117,7 +126,7 @@
     content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}"
   />
   <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}" />
-  <meta property="og:url" content="{{- .Permalink -}}" />
+  <meta property="og:url" content="{{- .Permalink | absURL -}}" />
   <meta property="og:site_name" content="Digital.gov" />
   <meta name="robots" content="index, follow" />
   <meta property="og:locale" content="en_US" />

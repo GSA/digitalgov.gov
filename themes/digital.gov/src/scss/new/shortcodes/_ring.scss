@@ -10,7 +10,7 @@
   position: relative;
 
   &__title {
-    $font-size: units(3);
+    $font-size: units(4);
 
     background: color("white");
     font-size: $font-size;
@@ -23,6 +23,7 @@
 
   h2 {
     @include u-font("sans", "lg");
+    font-size: size("sans", 11);
     font-weight: font-weight("semibold");
   }
 }

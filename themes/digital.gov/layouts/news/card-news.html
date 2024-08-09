@@ -1,0 +1,107 @@
+{{/* Display a news card for internal or external blog links.
+  External links use both source and source_url to set the logo and external link.
+*/}}
+
+{{/* Unique ID to link article to its title in screen readers. Turns "18f at ten" into "title-18f-at-ten" */}}
+{{ $titleID := (printf "%s%s" "title-" .Title) | urlize }}
+{{ $title := .Title }}
+{{ $kicker := .Params.kicker }}
+{{ $deck := .Params.deck }}
+{{ $summary := .Params.summary }}
+{{ $authors := .Params.authors }}
+{{/* source_url is an external link */}}
+{{ $externalLink := .Params.source_url }}
+{{ $internalLink := .Permalink }}
+
+{{/* Get the source to lookup the logo for an external image */}}
+{{ $source := .Params.source }}
+{{ $sourcePage := $.Site.GetPage "page" (print "source_" $source ) }}
+{{/* sourceName returns name of agency to display on page (i.e. "USA.gov", "The White House") */}}
+{{ $sourceName := $sourcePage.Params.name }}
+{{/* sourceLogo returns lowercase name of agency used for internal image mapping (i.e. "10x", "gsa", "usagov", "whitehouse") */}}
+{{ $sourceLogo := $sourcePage.Params.logo }}
+{{ $sourceLogoPath := (printf "logos/%s%s" $sourceLogo "-logo.png") }}
+
+{{/* Flag to display internal or external card styles */}}
+{{ $isExternal := false }}
+{{ if and $source $externalLink }}
+  {{ $isExternal = true }}
+{{ end }}
+
+{{ $cardClasses := slice "card" (print (cond $isExternal "card-news--external" "card-news--internal")) "card-linked" }}
+
+
+<article
+  class="{{ delimit $cardClasses " " }}"
+  aria-labelledby="{{ $titleID }}"
+>
+  <div class="card__content">
+    {{ if $isExternal }}
+      <div class="card__summary">
+        <h3 id="{{ $titleID }}">
+          <a href="{{- $externalLink -}}">{{- $title | markdownify -}}</a>
+        </h3>
+        <p>
+          {{- if $deck -}}
+            {{- $deck | markdownify | emojify -}}
+          {{- end -}}
+          {{- if $sourcePage -}}
+            <em class="card__source source"
+              >— via
+              <a href="{{ $externalLink }}" title="Read at {{ $sourceName -}}"
+                >{{- $sourceName -}}</a
+              ></em
+            >
+          {{ end }}
+        </p>
+      </div>
+    {{ else }}
+      {{- if $kicker -}}
+        <div class="kicker">
+          <span>{{- $kicker -}}</span>
+        </div>
+      {{- end -}}
+      <h3 id="{{ $titleID }}">
+        <a href="{{- $internalLink -}}">{{- $title | markdownify -}}</a>
+      </h3>
+
+      {{- if $summary -}}
+        <div class="summary">
+          <p>{{ $summary | markdownify }}</p>
+        </div>
+      {{- else -}}
+        <div class="deck">
+          <p>{{ $deck | markdownify }}</p>
+        </div>
+      {{- end -}}
+
+      {{ if $authors }}
+        {{ partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors "isInline" true) }}
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <div class="card__media">
+    {{/* Use a custom favicon set in /sources/source_[slug].md */}}
+    {{ if $isExternal }}
+      {{ if $sourceLogo }}
+        <img
+          src="{{ $sourceLogoPath | relURL }}"
+          alt="{{- $sourceLogo }} logo"
+        />
+      {{ else }}
+        {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+        <img
+          src="https://www.google.com/s2/favicons?domain={{- $externalLink -}}"
+          alt="{{- $source }} logo"
+        />
+      {{ end }}
+    {{ else }}
+      {{ partial "core/img-featured.html" . }}
+    {{ end }}
+  </div>
+
+  <div class="card__meta">
+    <div class="date">{{ dateFormat "Jan 02, 2006" .Date }}</div>
+  </div>
+</article>

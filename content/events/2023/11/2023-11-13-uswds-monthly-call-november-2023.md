@@ -62,7 +62,7 @@ And this month I'm pretty confident we'll have time for Q&A at the end.
 
 **Slide 8:** Now let's look at a few quick product updates.
 
-**Slide 9:** We released [USWDS 3.7.0](https://github.com/uswds/uswds/releases/tag/v3.7.0) last week, a nice release focussed on a couple important accessibility updates, and improvements to the interactivity of some of our components in modern dynamic applications.
+**Slide 9:** We released [USWDS 3.7.0](https://github.com/uswds/uswds/releases/tag/v3.7.0) last week, a nice release focused on a couple important accessibility updates, and improvements to the interactivity of some of our components in modern dynamic applications.
 
 **Slide 10:** So what are the key improvements released in USWDS 3.7.0?
 
@@ -80,7 +80,7 @@ And this month I'm pretty confident we'll have time for Q&A at the end.
 
 **Added an X social media icon**
 
-And there are a few other nice bugfixes and improvements in 3.7.0. Why not stay up to date? We've also got 3.7.1 in the pipeline right now, and it's mostly focussed on a number of great small improvements from the community. If you're interested, we've posted the link to that [release milestone in the chat](https://github.com/uswds/uswds/milestone/137). 3.7.1 will probably be out after Thanksgiving, and with any luck we'll get to 3.8.0 by the end of the year. We've dropped [the 3.8.0 milestone](https://github.com/uswds/uswds/milestone/135) in the chat as well. These could change a bit, but this is what we're planning.
+And there are a few other nice bugfixes and improvements in 3.7.0. Why not stay up to date? We've also got 3.7.1 in the pipeline right now, and it's mostly focused on a number of great small improvements from the community. If you're interested, we've posted the link to that [release milestone in the chat](https://github.com/uswds/uswds/milestone/137). 3.7.1 will probably be out after Thanksgiving, and with any luck we'll get to 3.8.0 by the end of the year. We've dropped [the 3.8.0 milestone](https://github.com/uswds/uswds/milestone/135) in the chat as well. These could change a bit, but this is what we're planning.
 
 **Slide 11:** Out tomorrow, it'll be the first minor release for USWDS Compile, a little application that allows projects to quickly and consistently compile USWDS stylesheets. [USWDS Compile](https://www.npmjs.com/package/@uswds/compile) is now up to version 1.1.0.
 
