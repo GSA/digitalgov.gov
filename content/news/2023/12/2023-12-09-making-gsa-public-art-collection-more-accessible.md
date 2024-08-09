@@ -22,7 +22,6 @@ primary_image: screen-at-fda-by-doh-ho-suh-library-of-congress-photo-carol-m-hig
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
 ---
 
 Imagine if the Louvre’s vast collection of masterpieces was hidden away from public view, or the museum was accessible to only 5,000 visitors a year! The GSA Fine Arts Program faced this very challenge: How do you share one of the largest U.S. public art collections with the world without them having to visit every federal building?
@@ -39,7 +38,7 @@ Today, the GSA Fine Arts Program team maintains this collection. Much of the art
 
 Last year, GSA celebrated the [50th anniversary of the Art in Architecture program](https://www.gsa.gov/real-estate/design-and-construction/art-in-architecturefine-arts/art-in-architecture-50). Launched in 1972 under the recommendations of President John F. Kennedy's Ad Hoc Committee on Federal Office Space, the program proposed:
 
-{{< card-quote text="Where appropriate, fine art should be incorporated into the designs of federal buildings with emphasis on the work of living American artists." cite="" >}}
+{{< quote-block text="Where appropriate, fine art should be incorporated into the designs of federal buildings with emphasis on the work of living American artists." cite="" >}}
 
 ## Identifying the barriers
 
@@ -55,14 +54,14 @@ The first step in all of our projects is discovery research. Discovery research 
 
 Our discovery research included:
 
-* Stakeholder interviews to understand business needs
-* User research to understand the goals, pain points, and scenarios in which people were using the site
-* Usability testing of the existing website to uncover additional insights
-* System reviews to inform the technical direction of the project
+- Stakeholder interviews to understand business needs
+- User research to understand the goals, pain points, and scenarios in which people were using the site
+- Usability testing of the existing website to uncover additional insights
+- System reviews to inform the technical direction of the project
 
 Discussions with public art professionals during this research helped highlight the importance of the site for the art community:
 
-{{< card-quote text="When people think [of] GSA, they don’t think art. [GSA’s Fine Arts program] is a valuable asset and resource that, unfortunately, a lot of museum curators do not know exists." cite="" >}}
+{{< quote-block text="When people think [of] GSA, they don’t think art. [GSA’s Fine Arts program] is a valuable asset and resource that, unfortunately, a lot of museum curators do not know exists." cite="" >}}
 
 Our research findings helped us identify three core opportunities to improve the current site:
 
@@ -72,7 +71,7 @@ Our research findings helped us identify three core opportunities to improve the
 
 From those high-level findings, we developed a product vision statement to guide the project:
 
-*Make it easier for the public to find art they’re interested in, and for the Fine Arts program to keep the website updated.*
+_Make it easier for the public to find art they’re interested in, and for the Fine Arts program to keep the website updated._
 
 ### Acquisition process
 
@@ -104,9 +103,9 @@ The GSA Service Delivery team has developed a user type template. After you have
 
 Our research also informed the design principles for the site. We needed the website to be:
 
-* **User-friendly**: content is structured, accessible, and easy to navigate
-* **Informative**: content is clear, compelling, consistent, and accurate
-* **Relevant**: content is current and can be easily updated
+- **User-friendly**: content is structured, accessible, and easy to navigate
+- **Informative**: content is clear, compelling, consistent, and accurate
+- **Relevant**: content is current and can be easily updated
 
 ## Taking an iterative approach to website design
 
@@ -114,7 +113,7 @@ We used a collaborative design tool to prototype the first few versions of key p
 
 With the second version, we conducted usability testing to get feedback from the public and our internal users. We received feedback from an arts advocate and outreach professional that confirmed we were on the right path:
 
-{{< card-quote text="There are some new things here that pique my curiosity. I like how the art is categorized and the navigation menu is really simple." cite="" >}}
+{{< quote-block text="There are some new things here that pique my curiosity. I like how the art is categorized and the navigation menu is really simple." cite="" >}}
 
 We revised the prototype based on the feedback we received, and the vendor used the last prototype version as a starting point for development.
 
@@ -130,15 +129,15 @@ We conducted another round of usability testing, this time with members of the a
 
 The findings and insights from this testing led to the final version of the site (see Figure 2). Some of the major changes we made include:
 
-* Updating the branding to spell out GSA and emphasizing the collection portion for new users who had never heard of GSA or the art collection
-* Adding the tagline to give users a sense of the collection scale
-* Improving wayfinding by adding navigation tiles
+- Updating the branding to spell out GSA and emphasizing the collection portion for new users who had never heard of GSA or the art collection
+- Adding the tagline to give users a sense of the collection scale
+- Improving wayfinding by adding navigation tiles
 
 {{< img src="gsa-fine-arts-figure-2-prototype-and-final" alt="" >}}
 
 During usability testing, an arts program manager at another federal agency told us:
 
-{{< card-quote text="I will be spending my entire day on this site when it's live because there’s some really amazing artwork. I love that GSA is realizing what a great resource this is." cite="" >}}
+{{< quote-block text="I will be spending my entire day on this site when it's live because there’s some really amazing artwork. I love that GSA is realizing what a great resource this is." cite="" >}}
 
 Once the vendor completed development, we coordinated with our security and operations teams to migrate the site to our test environment. The project team conducted user acceptance testing and worked with the vendor to resolve any issues encountered with the transition.
 
@@ -152,7 +151,7 @@ The new website makes it easier for the public to navigate and engage with GSA�
 
 To summarize the impact of the new site on the art community, an executive director of a non-profit arts organization shared:
 
-{{< card-quote text="This collection represents the history of this country and belongs to every US citizen. It’s creative, celebratory, and shows the ingenuity and innovation of American people. [The website] should reflect this and capture that dynamic so people can discover this incredible resource and treasure." cite="" >}}
+{{< quote-block text="This collection represents the history of this country and belongs to every US citizen. It’s creative, celebratory, and shows the ingenuity and innovation of American people. [The website] should reflect this and capture that dynamic so people can discover this incredible resource and treasure." cite="" >}}
 
 ---
 

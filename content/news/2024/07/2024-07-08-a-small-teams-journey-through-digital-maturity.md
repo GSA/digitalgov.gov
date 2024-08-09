@@ -14,12 +14,11 @@ topics:
 authors:
   - sarah-schroeder
 slug: a-small-teams-journey-through-digital-maturity
-primary_image: 
+primary_image:
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
 ---
 
 Digital.gov is where federal employees go for advice and best practices in human-centered web design.
@@ -44,13 +43,13 @@ Revising our feedback form made it easier to identify where to make improvements
 
 ## New policies brought new challenges
 
-By the time the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience/) in September 2023, Digital.gov was well-positioned to develop evidence-based strategies for implementing the new policy guidance. However, we had to work fast because the community expected us to respond  as soon as the memo came out — and at that point, Digital.gov’s own staff was still reading and absorbing the memo’s contents.
+By the time the Office of Management and Budget (OMB) issued [M-23-22, Delivering a Digital-First Public Experience](https://digital.gov/resources/delivering-digital-first-public-experience/) in September 2023, Digital.gov was well-positioned to develop evidence-based strategies for implementing the new policy guidance. However, we had to work fast because the community expected us to respond as soon as the memo came out — and at that point, Digital.gov’s own staff was still reading and absorbing the memo’s contents.
 
 “It was the ‘fly the plane while you’re building the engine’ problem that so many small teams face,” says Ammie Farraj Feijoo, product manager for Digital.gov at GSA’s Technology Transformation Services (TTS). Customer experience, Ammie says, best practices encourage “you be honest with customers about what you can provide. Don’t set their expectations too high; be honest about what you’re doing, when, and how. We had to be forthright and vulnerable about where we were in the process of responding to M-23-22.”
 
 Thanks to the human-centered infrastructure the Digital.gov team put in place before M-23-22 was released, we managed to quickly conduct interviews with agency leaders who needed support implementing recommendations in the memo. “One thing we heard,” Ammie remembers, “is that users needed help understanding the context of the memo, including a focus on the big-picture goals, and the why.” We realized that government teams would be best motivated by focusing on the human needs and frustrations that the policy guidance seeks to address through its hundred-plus requirements.
 
-{{< card-quote text="Users can't find what they actually need on websites. Leaders \[in the digital space] need to realize this memo is about the people we're here to serve. Our websites need to add value, be easy to use, fast, and accessible for our users." cite="Digital.gov community member" >}}
+{{< quote-block text="Users can't find what they actually need on websites. Leaders \[in the digital space] need to realize this memo is about the people we're here to serve. Our websites need to add value, be easy to use, fast, and accessible for our users." cite="Digital.gov community member" >}}
 
 ## Helping the federal community adapt
 

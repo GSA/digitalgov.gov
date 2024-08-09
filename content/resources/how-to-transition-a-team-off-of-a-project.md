@@ -37,7 +37,7 @@ Use this resource to serve as a hand-off document when a short-term project team
 
 You can also use this resource to remind folks of project goals, provide links to all the deliverables over the course of the project, and outline the goals that both teams want in place before the short-term team transitions off. These goals can include things like having an empowered product owner in place, the ability to run a full agile sprint cycle without assistance, being able to get code from inception to production, and having redundancies in place, among other things.
 
-You can also use this as a visioning tool by thinking about what success and failure might look like a year from now. This helps set the mindset that this work is a continuing process and will be ongoing. 
+You can also use this as a visioning tool by thinking about what success and failure might look like a year from now. This helps set the mindset that this work is a continuing process and will be ongoing.
 
 {{< box >}}
 

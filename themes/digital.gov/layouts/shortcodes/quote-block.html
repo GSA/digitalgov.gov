@@ -1,0 +1,16 @@
+{{/* Shortcode to include the quote-block partial
+
+  @param {string} bg - optional value of "dark" to display a dark background color otherwise will display as gold
+  @param {string} cite - optional string to display a citation
+  @param {string} text - required text for displaying a quote
+
+  @example usage
+  {{< quote-block text="The big idea goes here" cite="Dr. Meredith Larson, Department of Education"
+>}}
+
+*/}}
+{{ $bg := .Get "bg" }}
+{{ $cite := .Get "cite" }}
+{{ $text := .Get "text" }}
+
+{{- partial "core/quote-block" (dict "bg" $bg "cite" $cite "text" $text) -}}
