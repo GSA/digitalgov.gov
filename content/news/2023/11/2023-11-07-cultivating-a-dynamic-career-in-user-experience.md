@@ -89,9 +89,9 @@ In conclusion, a dynamic career is the path forward in today's ever-changing wor
 
 Stay curious, be proactive, and continually invest in your growth to thrive in the dynamic career landscape.
 
-<footer>
-<h2 id="footnote-label">Footnotes</h2>
-<ol>
-<li id="fn1">n.d. Abdul Latif Jameel World Education Lab (J-WEL). Massachusetts Institute of Technology (MIT).Accessed October 17, 2023. <https://www.jwel.mit.edu/> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<div class="dg-footnote">
+<h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+<ol class="dg-footnote__list">
+<li class="dg-footnote__list-item" id="fn1">n.d. Abdul Latif Jameel World Education Lab (J-WEL). Massachusetts Institute of Technology (MIT).Accessed October 17, 2023. <https://www.jwel.mit.edu/> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>

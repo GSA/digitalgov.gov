@@ -1,0 +1,7 @@
+@use "uswds-core" as *;
+
+.dg-footnote {
+  &__list-item {
+    overflow-wrap: anywhere;
+  }
+}
