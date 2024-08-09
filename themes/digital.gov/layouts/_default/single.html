@@ -27,23 +27,7 @@
       </header>
 
       <section class="grid-container grid-container-desktop">
-        <div class="usa-in-page-nav-container">
-          <!-- 
-        data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
-        the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
-       -->
-          <aside
-            class="usa-in-page-nav"
-            data-title-heading-level="h3"
-            data-root-margin="-350px 0px -350px 0px"
-          ></aside>
-          <div class="">
-            {{/* Content */}}
-            <div class="content usa-prose">
-              {{- .Content -}}
-            </div>
-          </div>
-        </div>
+        {{- partial "partials/core/usa-in-page-nav.html" . -}}
       </section>
     </article>
   </main>
