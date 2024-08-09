@@ -26,4 +26,4 @@ Create a presentation deck of your findings and deliverables. Your slide progres
 
 A well-crafted deck enhances a well-crafted verbal presentation. So, to make an impactful presentation, practice your speaking component with your visual component. Finally, a good deck will be useful if you want to continue to grow the project later with the same or different stakeholders.
 
-{{< featured-resource resourcePath = "/guides/hcd/design-concepts" kicker = "Up next">}}
+{{< featured-resource link = "/guides/hcd/design-concepts" kicker = "Up next">}}
