@@ -13,7 +13,6 @@ topics:
   - research
   - design
   - human-centered-design
-  - user-centered-design
   - search-engine-optimization
   - usability
   - analytics
