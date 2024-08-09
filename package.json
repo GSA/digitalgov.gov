@@ -6,6 +6,7 @@
   "scripts": {
     "federalist": "export NODE_ENV=production && gulp buildAssets",
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
+    "hugo-no-livereload": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0' --disableLiveReload",
     "lint:json": "find public/**/v1/json/index.html -print0 | xargs -0I {} jsonlint '{}'",
     "lint:js": "eslint './themes/digital.gov/src/js/*.js' './config/typescript/**/*.ts'",
     "lint:js:fix": "eslint --fix './themes/digital.gov/src/js/*.js' './config/typescript/**/*.ts'",
