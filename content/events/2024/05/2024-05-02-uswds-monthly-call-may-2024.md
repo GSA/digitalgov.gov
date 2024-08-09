@@ -14,7 +14,7 @@ end_date: 2024-05-16 15:00:00 -0500
 topics:
   - design
   - accessibility
-  - user-centered-design
+  - human-centered-design
   - software-engineering
 slug: uswds-monthly-call-may-2024
 # zoom, youtube_live, adobe_connect, google
