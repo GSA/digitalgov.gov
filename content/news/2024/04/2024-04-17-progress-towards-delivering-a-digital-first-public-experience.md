@@ -15,7 +15,6 @@ topics:
   - best-practices
   - usability
   - human-centered-design
-  - user-centered-design
   - customer-experience
   - user-experience
   - design
