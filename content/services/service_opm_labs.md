@@ -12,7 +12,6 @@ contact: lab@opm.gov
 topics:
   - design
   - content-strategy
-  - user-centered-design
   - human-centered-design
 # Controls how this page appears across the site
 # 0 -- hides this service from all pages, but URL is still public

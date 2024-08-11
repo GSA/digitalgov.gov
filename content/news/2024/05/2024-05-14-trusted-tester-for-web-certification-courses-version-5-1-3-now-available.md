@@ -14,7 +14,6 @@ topics:
   - accessibility
   - governance
   - human-centered-design
-  - user-centered-design
 
 slug: trusted-tester-for-web-certification-courses-version-5-1-3-now-available
 

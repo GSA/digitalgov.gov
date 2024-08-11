@@ -12,7 +12,6 @@ summary: "The Federal Emergency Management Agency Office of External Affairs is 
 topics:
   - communication
   - human-centered-design
-  - user-centered-design
   - accessibility
   - innovation
   - information-collection
