@@ -2,6 +2,8 @@
 # This topic lives at
 # https://digital.gov/topics/user-centered-design
 
+expirydate: "2024-08-09"
+
 slug: "user-centered-design"
 
 # Topic Title
