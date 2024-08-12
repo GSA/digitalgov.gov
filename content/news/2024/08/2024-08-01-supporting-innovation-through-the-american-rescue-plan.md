@@ -9,7 +9,7 @@ topics:
   - digital-service-delivery
   - cloud-and-infrastructure
   - search
-  - user-centered-design
+  - human-centered-design
   - innovation
 
 # See all authors at https://digital.gov/authors

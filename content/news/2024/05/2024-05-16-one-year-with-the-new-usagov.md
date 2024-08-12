@@ -29,7 +29,6 @@ topics:
   - best-practices
   - design
   - human-centered-design
-  - user-centered-design
   - usability
   - communication
   - contact-centers
