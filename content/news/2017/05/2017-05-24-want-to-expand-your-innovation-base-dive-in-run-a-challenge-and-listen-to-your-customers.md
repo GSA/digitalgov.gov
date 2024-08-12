@@ -1,8 +1,8 @@
 ---
 slug: want-to-expand-your-innovation-base-dive-in-run-a-challenge-and-listen-to-your-customers
 date: 2017-05-24 14:00:58 -0400
-title: ​Want to Expand Your Innovation Base? Dive In, Run a Challenge, and Listen to Your Customers
-summary: 'The Office of the National Coordinator (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don’t have the funding and personnel of larger agencies, and, for the most part, this is fine. The'
+title: ​"Want to Expand Your Innovation Base? Dive In, Run a Challenge, and Listen to Your Customers"
+summary: "The Office of the National Coordinator is a small agency in the Department of Health and Human Services whose mission is to increase the interoperability and use of electronic health records and health IT."
 authors:
   - adam-wong
 topics:
@@ -11,15 +11,18 @@ topics:
   - content-strategy
   - innovation
   - human-centered-design
+
 ---
 
 The [Office of the National Coordinator](https://www.healthit.gov/) (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don’t have the funding and personnel of larger agencies, and, for the most part, this is fine. The entrenched industry stakeholders know what’s happening at ONC, our policies, toolkits and initiatives.
 
 But to be truly innovative, we need input from more than just the big stakeholders, particularly in this age of smartphones and apps. We also need innovation from people and entities that are completely new to health IT. But if they don&#8217;t know about ONC and aren&#8217;t up to speed on the newest policies, tools, and initiatives that we offer, that&#8217;s going to lead to reengineering and hurdles down the line as they develop new products and enter the marketplace.
 
-Enter prize competitions. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}}
+Enter prize competitions.
 
-We created a prize challenge program to help address this innovator and startup issue. One of the benefits of a challenge is being able to tap expertise you didn’t know existed and put you in contact with innovators you otherwise would not have engaged. Having these “outsiders” work on problems presented by ONC would help bring them into the fold. At the beginning, my colleagues and I didn&#8217;t know much about the actual mechanics of running challenges, so we brought on private sector contractors with the relevant experience to help us get things up and running. We also had to create a structure that would accommodate different kinds of challenges with their unique goals and outputs.
+{{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}}
+
+We created a prize challenge program to help address this innovator and startup issue. One of the benefits of a challenge is being able to tap expertise you didn’t know existed and put you in contact with innovators you otherwise would not have engaged. Having these “outsiders” work on problems presented by ONC would help bring them into the fold. At the beginning, my colleagues and I didn't know much about the actual mechanics of running challenges, so we brought on private sector contractors with the relevant experience to help us get things up and running. We also had to create a structure that would accommodate different kinds of challenges with their unique goals and outputs.
 
 As much preparation and research as we did, the only way to really do this, and to get better at it, was to dive right in and start doing them. With each challenge we ran, we learned something new—which in turn affected the next one, and the next. Though we were not consciously attempting to, we were engaged in [human-centered design]({{< ref "/topics/human-centered-design" >}}).
 
@@ -35,4 +38,4 @@ Having learned that one of these barriers was a simple lack of access to the rig
 
 In closing, I want to emphasize the importance of consumer testing and continuous learning in whatever form they take. Beyond the direct improvement that those can drive, taking the time to listen to your customers&#8217; underlying issues can drive new insights that take you in entirely different and rewarding directions.
 
-_Adam Wong is a_ _senior innovation analyst in the Office of the National Coordinator for Health Information Technology at the Department of Health and Human Services. He also served as content coordinator for the federal government’s online_ [_Challenges and Prizes Toolkit_](https://www.challenge.gov/toolkit/)_._
+_Adam Wong is a senior innovation analyst in the Office of the National Coordinator for Health Information Technology at the Department of Health and Human Services. He also served as content coordinator for the federal government’s online [Challenges and Prizes Toolkit](https://www.challenge.gov/toolkit/)._
