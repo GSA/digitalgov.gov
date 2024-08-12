@@ -9,7 +9,7 @@ summary: How well do 18F software development practices work? The 18F team refle
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
-  - user-centered-design
+  - human-centered-design
   - security
   - open-source
   - robotic-process-automation
