@@ -18,7 +18,7 @@ slug: uswds-monthly-call-august-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
-primary_image: 2024-uswds-monthly-call-august-title-card
+primary_image: 2024-uswds-monthly-call-aug-title-card
 
 ---
 
