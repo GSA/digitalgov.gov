@@ -2,6 +2,7 @@
 # This topic lives at
 # https://digital.gov/topics/user-centered-design
 
+# Set date archived. Page will not publish if after date.
 expirydate: "2024-08-09"
 
 slug: "user-centered-design"
