@@ -17,27 +17,26 @@ topics:
 authors:
   - frances-carden
 slug: bridge-the-gap-between-policy-and-implementation-impactful-solutions-and-strategies-for-success-from-digital-gov-spring-2024-summit
-primary_image: 
+primary_image:
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
 ---
 
 On March 13, 2024, over 1,000 people gathered for Digital.gov’s online community summit to discuss [delivering a government digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/). The [summit](https://digital.gov/event/2024/03/13/spring-2024-community-summit/) featured five main sessions covering:
 
-* Strategies for building a successful digital team
-* Impactful solutions using research and technical discovery
-* Crafting quality content and managing legacy information online
-* Managing agile procurements and acquisitions
-* How to determine a successful path forward, post-launch
+- Strategies for building a successful digital team
+- Impactful solutions using research and technical discovery
+- Crafting quality content and managing legacy information online
+- Managing agile procurements and acquisitions
+- How to determine a successful path forward, post-launch
 
 Each session connected guidance from two recently released memos, [M-23-22, Delivering a Digital-First Public Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/) and [M-24-08, Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/).
 
 Office of Management and Budget (OMB) Federal Chief Information Officer (CIO) Clare Martorana kicked off the event with her keynote speech, noting to the audience:
 
-{{< card-quote text="You are the people we need to actually commit this government to delivering a digital-first public experience. … during the many discussions, you will be reminded of just how big this opportunity is, improving websites and digital services across the federal government impacts millions of people." cite="Federal Chief Information Officer, Clare Martorana" >}}
+{{< quote-block text="You are the people we need to actually commit this government to delivering a digital-first public experience. … during the many discussions, you will be reminded of just how big this opportunity is, improving websites and digital services across the federal government impacts millions of people." cite="Federal Chief Information Officer, Clare Martorana" >}}
 
 {{< img-right src="clare-martorana-flag-federal-cio-600-square" >}}
 
@@ -57,13 +56,13 @@ Mortorana highlighted the themes of OMB’s policy guidance in the memos, which 
 
 The speakers agreed that “small and scrappy” teams can consistently implement big changes by embracing cross-functionality, focusing on a strong mission, and taking advantage of existing intergovernmental [resources](https://digital.gov/resources/) and [communities](https://digital.gov/communities/). During this session, the speakers recommended hiring strategies that solicit employees with diverse skill sets, and highlighted the necessity of creating a goal-driven atmosphere that allows for [innovation](https://digital.gov/topics/innovation/), risk-taking, and an open culture of feedback.
 
-## Impactful solutions gained through user research and technical discovery 
+## Impactful solutions gained through user research and technical discovery
 
-The second session took the next step in digital content creation by emphasizing impactful solutions gained through user [research](https://digital.gov/topics/research/) and technical discovery. User research tests a team’s assumptions by allowing them to witness and understand real user behaviors. Technical discovery involves integrating developers and designers throughout the process, allowing them to see how their tools and solutions work. As developers and designers watch users interacting with the solution, they can make suggestions, tweak designs, and apply innovative solutions. 
+The second session took the next step in digital content creation by emphasizing impactful solutions gained through user [research](https://digital.gov/topics/research/) and technical discovery. User research tests a team’s assumptions by allowing them to witness and understand real user behaviors. Technical discovery involves integrating developers and designers throughout the process, allowing them to see how their tools and solutions work. As developers and designers watch users interacting with the solution, they can make suggestions, tweak designs, and apply innovative solutions.
 
 ## Crafting quality content
 
-In the third session, speakers discussed keeping [content](https://digital.gov/topics/content-strategy/) relevant. For example, when content should be published, updated, and removed; how and by whom should content be maintained; and how tone and platform relate. The group delved into topics such as  publishing standards, accessibility, the liability of unmanaged content, governance strategies, leveraging career federal employees, and the importance of metrics and content auditing.
+In the third session, speakers discussed keeping [content](https://digital.gov/topics/content-strategy/) relevant. For example, when content should be published, updated, and removed; how and by whom should content be maintained; and how tone and platform relate. The group delved into topics such as publishing standards, accessibility, the liability of unmanaged content, governance strategies, leveraging career federal employees, and the importance of metrics and content auditing.
 
 In one memorable insight, Sally Harris, the Managing Director of the Digital Media and Creative Services at the Department of Education, noted that digital content is like a puppy; there are multiple life stages, each demanding unique attention and activities. The work doesn’t stop when you bring the puppy home, or in this case, when you post your content online. The adventure has only just begun! In other words, maintaining the content you publish requires a long-term commitment of your team’s time and resources, so publish wisely.
 
@@ -71,18 +70,18 @@ In one memorable insight, Sally Harris, the Managing Director of the Digital Med
 
 The fourth session discussed navigating digital [acquisition](https://digital.gov/topics/acquisition/), specifically the “build a thing” and “buy a thing” approaches. If you are building a custom digital solution, the speakers recommended:
 
-* Structuring your procurement around a statement of objectives (SOO)
-* Asking vendors to showcase past work and provide access to code repositories for experts on your team to analyze
-* Using a time and materials (T&M) contract type, and
-* Building the solution using iterative sprints.
+- Structuring your procurement around a statement of objectives (SOO)
+- Asking vendors to showcase past work and provide access to code repositories for experts on your team to analyze
+- Using a time and materials (T&M) contract type, and
+- Building the solution using iterative sprints.
 
 If you are buying an existing product, you’ll want to:
 
-* Structure your procurement around a statement of work (SOW)
-* Leverage a firm fixed price (FFP) contract type
-* Perform usability testing with actual end users
-* Review the product’s accessibility, and
-* Plan to configure (never modify!) the product to your environment.
+- Structure your procurement around a statement of work (SOW)
+- Leverage a firm fixed price (FFP) contract type
+- Perform usability testing with actual end users
+- Review the product’s accessibility, and
+- Plan to configure (never modify!) the product to your environment.
 
 During this procurement phase, you’ll want to ensure that any solution is [FedRAMP-authorized](https://www.fedramp.gov/faqs/#faq-authorization), and you may want to start by creating a minimum viable product. A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development lifecycle. It is a good way to solicit internal buy-in from leadership and stakeholders before developing or buying the full-featured product.
 
@@ -106,6 +105,6 @@ Lewis highlighted the importance of M-23-22 and encouraged practitioners to use 
 
 She ended the event with a resonating call-to-action:
 
-{{< card-quote text="I hope you all feel empowered by what you have learned and heard from each other … the meaningful discussion today can and should be taken back to your agency to improve your processes, websites, programs, and to start conversations about what is actually possible with digital experience in government." cite="Technology Transformation Services Director, Ann Lewis" >}}
+{{< quote-block text="I hope you all feel empowered by what you have learned and heard from each other … the meaningful discussion today can and should be taken back to your agency to improve your processes, websites, programs, and to start conversations about what is actually possible with digital experience in government." cite="Technology Transformation Services Director, Ann Lewis" >}}
 
 In future blog posts, we’ll do a deeper dive on each of the five sessions and share additional resources to help you on your digital content journey — and show you how M-23-22 can help you successfully serve the public through creation and maintenance of quality digital resources.

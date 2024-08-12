@@ -27,12 +27,10 @@ primary_image: "this-weeks-idea-card-wk6"
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /2020/01/29/adopting-uswds-one-step-at-time/
-
 # Make it better ♥
-
 ---
 
-{{< card-quote text="Learning is never cumulative, it is a movement of knowing which has no beginning and no end." cite="Bruce Lee" >}}
+{{< quote-block text="Learning is never cumulative, it is a movement of knowing which has no beginning and no end." cite="Bruce Lee" >}}
 
 Last week, [General Services Administration (GSA) officially released](https://www.gsa.gov/blog/2020/01/22/gsa-publishes-standards-for-building-federal-websites-and-digital-services) the ‘website standards’ referenced in Section 3(e) of [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/).
 
@@ -50,16 +48,14 @@ Specifically, the [website standards](https://designsystem.digital.gov/website-s
 
 In short, agencies will need to incrementally implement USWDS principles, guidance, and code.
 
-
 {{< note >}}
 Three important things that you should understand about adopting [USWDS](https://designsystem.digital.gov/):
 
--   **You don’t need to adopt the design system all at once.** In fact, we encourage you to adopt the design system incrementally, and adapt it to meet your agency’s mission and user needs.
--   **You don’t need to add any special code to your website to get started.** In fact, we encourage you to start with the principles and guidance.
--   **You don’t need to do a full-scale site redesign to start incorporating USWDS code and components.** In fact, we encourage you to start with something smaller like color tokens or the gov banner.
+- **You don’t need to adopt the design system all at once.** In fact, we encourage you to adopt the design system incrementally, and adapt it to meet your agency’s mission and user needs.
+- **You don’t need to add any special code to your website to get started.** In fact, we encourage you to start with the principles and guidance.
+- **You don’t need to do a full-scale site redesign to start incorporating USWDS code and components.** In fact, we encourage you to start with something smaller like color tokens or the gov banner.
 
 {{< /note >}}
-
 
 ## A Quick Intro to Design Systems
 
@@ -86,7 +82,7 @@ A design system like USWDS provides:
 
 Using a design system like USWDS is like following the rules of baseball. No two games are exactly the same, but they're all recognizably baseball.
 
-Similarly, sites that use the design system follow similar rules to achieve different and unique outcomes.  Each site can adapt to the mission, context and user needs specific to the agency or project, while promoting greater continuity of experience across the federal government.
+Similarly, sites that use the design system follow similar rules to achieve different and unique outcomes. Each site can adapt to the mission, context and user needs specific to the agency or project, while promoting greater continuity of experience across the federal government.
 
 ### Supporting Teams and Users
 
@@ -113,7 +109,7 @@ Agencies don’t need to use the U.S. Website Design System all at once. In fact
 The maturity model acts as a guide to help teams incrementally adopt the USWDS and continuously improve their website (and not attempt to do it all at once, which is not advised. Really.)
 
 > “A maturity model is a tool that helps people assess the current effectiveness of a person or group and supports figuring out what capabilities they need to acquire next in order to improve their performance.”
-— _Martin Fowler on maturity models_
+> — _Martin Fowler on maturity models_
 
 Engaging with the USWDS maturity model at each maturity level is what it means to adopt the design system.
 
@@ -122,6 +118,7 @@ Engaging with the USWDS maturity model at each maturity level is what it means t
 Here is a short breakdown of all three levels:
 
 ### 1. Start by understanding and integrating the principles
+
 _**The “why”**_
 
 USWDS Design Principles support and reflect the important guidance codified in 21st Century IDEA, and are intended to help government teams align on common goals and better use the design system—to be a guiding light for design and implementation decisions.
@@ -172,7 +169,6 @@ Here is an activity you could use get started:
 
 _**The “what”**_
 
-
 You do not need to do a full-site redesign to start incorporating USWDS code and components on your site.
 
 USWDS code has been built to complement, not conflict with, your site’s existing HTML, CSS, and JavaScript. Once you include USWDS code on your site, you can begin incorporating [design tokens](https://designsystem.digital.gov/design-tokens/) into your site design (like colors, typography, responsive layouts) or replace small parts of your site with one of the existing [components](https://designsystem.digital.gov/components/) (like the [gov banner](https://designsystem.digital.gov/components/banner/) or [header](https://designsystem.digital.gov/components/header/).)
@@ -181,11 +177,10 @@ USWDS code has been built to complement, not conflict with, your site’s existi
 
 This means you can start small and get some quick wins. You also have time to plan. There isn’t a large, looming upfront cost to use USWDS. You can:
 
--   Set and align maturity goals with your budget cycles
--   Build the requirements for the website standards into your contracts
--   Focus on the highest-traffic and -impact websites in alignment with [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and the [customer experience CAP goal](https://www.performance.gov/CAP/cx/)
--   Use the maturity model to support and defend your existing modernization plans
-
+- Set and align maturity goals with your budget cycles
+- Build the requirements for the website standards into your contracts
+- Focus on the highest-traffic and -impact websites in alignment with [21st Century IDEA](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and the [customer experience CAP goal](https://www.performance.gov/CAP/cx/)
+- Use the maturity model to support and defend your existing modernization plans
 
 ## Assessing Maturity and Prioritizing Next Steps
 

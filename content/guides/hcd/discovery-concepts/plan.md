@@ -10,10 +10,9 @@ primary_image: hcd-discovery-concepts
 
 A project brief will provide direction and help pave the way for a smooth start. You may get your brief from a supervisor or other group, or you or others may develop your own brief, to identify what you want to study.
 
-
 ## Framing
 
-{{< card-quote text="Tighter framing directly correlates with a more meaningful, targeted solution." cite="Veterans Affairs (VA) Center for Innovation">}}
+{{< quote-block text="Tighter framing directly correlates with a more meaningful, targeted solution." cite="Veterans Affairs (VA) Center for Innovation">}}
 
 Take time to frame a guiding question that will become the foundation of your research. When the FDA sought to align their testing standard for facemasks with testing standards for the same product managed by another federal agency, the problem was initially framed as a technical negotiation between scientists. However, during a co-design session it became clear that comfort was a critical factor that was missing from both testing standards and needed to be included in the problem frame. This recognition of what was missing led to a family of problem frames that would take the effort in new directions:
 
@@ -23,7 +22,6 @@ Take time to frame a guiding question that will become the foundation of your re
 
 Select a question that is broad enough to encompass the full shape of the issue you want to research, but defined enough to keep your research focused and on-track.
 
-
 ## Why use the “How might we” phrase?
 
 In the design research process, a “How Might We” (HMW) question serves two purposes:
@@ -32,7 +30,6 @@ In the design research process, a “How Might We” (HMW) question serves two p
 2. The phrase “how might we” can provide inspiration to help your team approach a problem from many different angles.
 
 Use these specific words as you frame your problem. ‘Might’ is open, something to play with. Compare this to ‘should,’ which adds undue pressure and narrows the research from the start. The word ‘we’ centers the work on the team.
-
 
 ## Organize your team
 
@@ -44,11 +41,9 @@ Assign team members specific roles and responsibilities for HCD discovery, inclu
 - Logistics Coordinator, who schedules interviews, coordinates travel for site visits, manages supplies, etc.
 - A local contact, who supports on-site recruiting and logistics.
 
-
 ## Select your research strategy
 
 Discuss and select your methods for gathering qualitative data. The key research method for discovery is in-depth interviewing. Ideally, you will interview participants for an hour or more (if time allows) in a place where they feel comfortable (such as their home, workplace, or a coffee shop). Consider using additional research strategies to supplement in-depth interviews, such as spending time observing people in their world.
-
 
 ## Secure allies
 
