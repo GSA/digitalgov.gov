@@ -26,7 +26,6 @@ topics:
   - user-experience
   - governance
   - digital-service-delivery
-  - user-centered-design
   - human-centered-design
   - search-engine-optimization
   - multimedia

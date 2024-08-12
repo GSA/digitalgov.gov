@@ -8,7 +8,6 @@ authors:
 topics:
   - research
   - usability
-  - user-centered-design
   - user-experience
   - human-centered-design
 

@@ -11,7 +11,7 @@ summary: Discover the transformative power of empathy in design with USAGov’s 
 # See all topics at https://digital.gov/topics
 topics:
   - mobile
-  - user-centered-design
+  - human-centered-design
   - accessibility
   - multilingual
 

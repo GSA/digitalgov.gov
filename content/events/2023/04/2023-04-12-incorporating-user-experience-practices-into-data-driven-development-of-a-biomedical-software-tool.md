@@ -14,7 +14,6 @@ end_date: 2023-05-03 15:00:00 -0500
 topics:
   - user-experience
   - data-visualization
-  - user-centered-design
   - human-centered-design
   - design
 

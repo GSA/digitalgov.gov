@@ -13,7 +13,6 @@ topics:
   - contact-centers
   - information-collection
   - human-centered-design
-  - user-centered-design
   - best-practices
   - trust
   - multilingual
