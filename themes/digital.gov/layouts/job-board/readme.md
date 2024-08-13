@@ -4,7 +4,7 @@
 The Communities of Practice (CoP) Job Board aims to be a public resource for CoP related positions in the government. All job posting data comes from the USAJOBS.
 
 ## How to contribute a job to the job board 
-- Submit a job posting through a related [Communities of Practice listserv](https://digital.gov/communities/), or email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+- Submit a job posting through a related [Communities of Practice listserv](https://digital.gov/communities/), or email [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov). Please provide a USAJOBS application link.
 
 
 ## Development Guide
