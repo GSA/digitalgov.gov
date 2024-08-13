@@ -11,7 +11,17 @@
 
 <header class="dg-guide__header grid-container grid-container-desktop">
   <div class="dg-guide__header-title">
-    {{- partial "partials/core/page-header.html" (dict "data" .) -}}
+    {{ if $landingURL }}
+      <a class="usa-link kicker" href="{{ $landingURL | relURL }}">
+        {{- $kicker -}}
+      </a>
+    {{ else }}
+      <p class="kicker">{{- $kicker -}}</p>
+    {{ end }}
+    <h1>{{- $title | markdownify -}}</h1>
+    <div class="deck">
+      {{- $summary | markdownify -}}
+    </div>
     {{- if $glossary -}}
       <button class="dg-glossary__toggle">
         <svg

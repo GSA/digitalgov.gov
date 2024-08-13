@@ -1,11 +1,11 @@
-{{/* @params {object} data - a dictionary object that contains the following string properties:
+{{/* ====
+  Page header component that displays the title, deck and kicker.
+
+  @params {object} data - a dictionary object that contains the following string properties:
   - title - the required page title
   - deck - an optional summary text displayed below the title
   - kicker - an optional short introduction text displayed above the title
-  @params {string} title - the required page title (used if data object is not provided)
-  @params {string} deck - an optional summary text displayed below the title (used if data object is not provided)
-  @params {string} kicker - an optional short introduction text displayed above the title (used if data object is not provided)
-  @params {string} append_title_text - optional text that is appended to the title text field
+  - append_title_text - optional text that is appended to the title text field
 */}}
 
 {{ $title := .title | default (and .data.Params .data.Params.title) }}
@@ -14,21 +14,23 @@
 {{ $append_title_text := .append_title_text }}
 
 
-<div class="page-header">
-  {{- if $kicker -}}
+<div class="dg-page-header">
+  {{ if $kicker }}
     <p class="kicker">
-      {{- $kicker -}}
+      {{ $kicker }}
     </p>
-  {{- end -}}
-  <h1>
-    {{ $title | markdownify }}
-    {{ if $append_title_text }}
-      {{ $append_title_text }}
-    {{ end }}
-  </h1>
-  {{- if $deck -}}
+  {{ end }}
+  {{ if $title }}
+    <h1>
+      {{ $title | markdownify }}
+      {{ if $append_title_text }}
+        {{ $append_title_text }}
+      {{ end }}
+    </h1>
+  {{ end }}
+  {{ if $deck }}
     <div class="deck">
-      {{- $deck | markdownify -}}
+      {{ $deck | markdownify }}
     </div>
-  {{- end -}}
+  {{ end }}
 </div>
