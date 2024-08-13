@@ -1,8 +1,9 @@
 {{/* <!-- prettier-ignore -->
-  Communities of Practice Job Board Shortcode
-  Formats job posting information from "job_board.yml" into a table, as seen on Communities of Practice Job Board "job-board.md"
-  Add new job posting on "job_board.yml" to display in job posting table.
-  No params needed
+  Communities of Practice Job Board 
+  Job postings from "job_board.yml" are formatted and displayed here, on job board
+  Communities of practice tags are added to the bottom of job cards
+  Job postings are removed if end apply date precedes current date
+  If no job postings are available, a note is placed on page so that the webpage is not empty
 */}}
 
 {{ define "content" }}
