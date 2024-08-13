@@ -9,12 +9,15 @@ cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItcumgrzIoHjYBsYQS-9h1vFpz0KMCvHE
 date: 2024-08-15 14:00:00 -0500
 end_date: 2024-08-15 15:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
   - design
   - human-centered-design
   - software-engineering
+
 slug: uswds-monthly-call-august-2024
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
@@ -26,10 +29,9 @@ Join the U.S. Web Design System (USWDS) team to understand their progress toward
 
 In this online session with the USWDS team, you will:
 
-* Learn how to use beta versions of our first web components
+* Learn how to use beta versions of our next batch of new web components
 * Gain insight to the USWDS team’s progress on building a Figma design kit
 * Get our answers to your community choice questions
-
 
 **This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend; it requires no specialized knowledge.
 
@@ -55,3 +57,7 @@ In this online session with the USWDS team, you will:
 * [Email Us](mailto:uswds@gsa.gov)
 * [Join our community](https://digital.gov/communities/uswds/)
 * [Follow @uswds on Twitter](https://twitter.com/uswds)
+
+---
+
+*Disclaimer*: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
