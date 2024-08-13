@@ -12,7 +12,6 @@ topics:
   - design
   - research
   - privacy
-  - user-centered-design
   - human-centered-design
 
 # See all authors at https://digital.gov/authors

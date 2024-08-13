@@ -10,7 +10,7 @@ topics:
   - acquisition
   - communication
   - content-strategy
-  - user-centered-design
+  - human-centered-design
   - policy
   - best-practices
 # See all authors at https://digital.gov/authors

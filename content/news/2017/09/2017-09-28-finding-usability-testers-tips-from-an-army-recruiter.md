@@ -8,7 +8,6 @@ authors:
 topics:
   - research
   - usability
-  - user-centered-design
   - user-experience
   - human-centered-design
 
@@ -30,7 +29,7 @@ I spent 22 years in the Army, all of which were in the enlisted ranks. I started
 
 I can’t say that I found usability because honestly, I had never heard of it before I came to OPM. I was looking for a federal career after I retired from the Army. I was working as a contractor for another agency. One of my co-workers had just been hired under the Pathways program, and I asked her for some information. That same day, I started looking for jobs in the Pathways program and one day found this interesting job announcement with USAJOBS. I thought, I have done all of that (the duties) and it looks like I am qualified, so I applied.
 
-When I got my first interview I was really intrigued. I was so excited when I got my second interview and even more excited when I got the call that I was selected for the position. I had an amazing mentor who explained [usability and customer experience]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), and I immediately attended [the human centered design class](https://lab.opm.gov/class-sign-up/) in [the Lab at OPM](https://lab.opm.gov/). Once I understood what usability and [human-centered design]({{< ref "/topics/user-centered-design" >}}) was, I realized I had been using those concepts for a long time and just didn’t know that it had a name.
+When I got my first interview I was really intrigued. I was so excited when I got my second interview and even more excited when I got the call that I was selected for the position. I had an amazing mentor who explained [usability and customer experience]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), and I immediately attended [the human centered design class](https://lab.opm.gov/class-sign-up/) in [the Lab at OPM](https://lab.opm.gov/). Once I understood what usability and [human-centered design]({{< ref "/topics/human-centered-design" >}}) was, I realized I had been using those concepts for a long time and just didn’t know that it had a name.
 
 I started working for USAJOBS in October of 2014, so, I have been here almost 3 years now and have enjoyed coming to work every day. I get to talk to people every day about a product that I believe in and I know that the changes we are making is making a difference in the way people search and apply for federal jobs.
 

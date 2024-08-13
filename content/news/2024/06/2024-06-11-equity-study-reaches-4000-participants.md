@@ -11,7 +11,6 @@ summary: "Launched last fall, the General Services Administration equity study o
 topics:
   - analytics
   - human-centered-design
-  - user-centered-design
   - trust
   - accessibility
   - best-practices
