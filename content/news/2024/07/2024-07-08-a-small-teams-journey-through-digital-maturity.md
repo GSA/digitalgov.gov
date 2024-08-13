@@ -6,7 +6,7 @@ summary: "As a small team, Digital.gov adopted user research and customer experi
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
-  - user-centered-design
+  - human-centered-design
   - usability
   - customer-experience
   - user-experience

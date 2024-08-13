@@ -19,7 +19,6 @@ topics:
   - communication
   - design
   - user-experience
-  - user-centered-design
   - human-centered-design
   - policy
 # See all authors at https://digital.gov/authors

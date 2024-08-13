@@ -8,7 +8,6 @@ authors:
 topics:
   - product-and-project-management
   - research
-  - user-centered-design
   - human-centered-design
   - user-experience
   - podcast

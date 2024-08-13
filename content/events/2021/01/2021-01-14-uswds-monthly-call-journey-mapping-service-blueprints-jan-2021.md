@@ -12,7 +12,6 @@ end_date: 2021-01-21 15:30:00 -0500
 topics:
   - design
   - digital-service-delivery
-  - user-centered-design
   - human-centered-design
   - customer-experience
   - user-experience
