@@ -39,7 +39,8 @@ In this online session with the USWDS team, you will:
 
 * **Dan Williams** - Product Lead, USWDS
 * **Matt Henry** - Engineering Lead, USWDS
-* **James Mejia** - Developer, USWDS contractor
+* **Anne Petersen** - Experience Design Lead, USWDS
+* **Amy Leadem** - Developer, USWDS contractor
 
 ## Join our Communities of Practice
 
