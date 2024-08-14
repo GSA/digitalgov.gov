@@ -13,7 +13,6 @@ topics:
   - human-centered-design
   - information-collection
   - best-practices
-  - user-centered-design
   - usability
 slug: designing-for-people-with-disabilities
 # Controls how this page appears across the site

@@ -7,7 +7,6 @@ authors:
   - rhonda-a-pretlow
 topics:
   - research
-  - user-centered-design
   - human-centered-design
 ---
 
