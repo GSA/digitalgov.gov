@@ -15,7 +15,6 @@ end_date: 2020-12-17 15:30:00 -0500
 topics:
   - digital-service-delivery
   - design
-  - user-centered-design
   - human-centered-design
 
 # See all authors at https://digital.gov/authors
