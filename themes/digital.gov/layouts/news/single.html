@@ -18,12 +18,12 @@
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}}</h1>
 
-          {{- partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors "isInline" true) }}
-
           {{/* Deck */}}
           {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
           {{- end -}}
+
+          {{- partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors "isInline" true) }}
 
 
           <div class="meta">
