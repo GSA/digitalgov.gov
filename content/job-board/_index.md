@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/communities/...
+# View this page at https://digital.gov/job-board/...
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: job-board
