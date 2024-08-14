@@ -9,7 +9,6 @@ topics:
   - design
   - user-experience
   - innovation
-  - user-centered-design
   - human-centered-design
 ---
 
