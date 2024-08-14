@@ -15,7 +15,7 @@
       </div>
       <h2 class="dg-landing__body-featured-resources">Featured Resources</h2>
       <ul class="usa-card-group" id="content-start">
-        {{- range .Pages }}
+        {{- range .Pages -}}
           <li class="usa-card tablet:grid-col-4">
             {{- $image := .Params.image -}}
             {{- $layout := "no-image" -}}
@@ -34,15 +34,15 @@
             }}
             {{- partial "core/usa-card.html" (dict "card_data" $cardData) -}}
           </li>
-        {{- end }}
+        {{- end -}}
       </ul>
-      {{- if .Params.additional_resources }}
+      {{- if .Params.additional_resources -}}
         {{- partial "core/render-markdown.html" (dict "Site" .Site "file" $.Params.additional_resources) -}}
-      {{- end }}
+      {{- end -}}
       {{- partial "core/attribution.html" . -}}
     </article>
-    {{- if .Params.glossary }}
+    {{- if .Params.glossary -}}
       {{- partial "core/glossary.html" . -}}
-    {{- end }}
+    {{- end -}}
   </main>
 {{ end }}
