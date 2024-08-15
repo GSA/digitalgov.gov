@@ -22,6 +22,7 @@ slug: uswds-monthly-call-august-2024
 event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-aug-title-card
+{{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
 
 ---
 
