@@ -116,14 +116,6 @@
               {{- end -}}
             {{- end -}}
 
-            {{/* Adobe Connect Stage */}}
-            {{- if eq .Params.event_platform "adobe_connect" -}}
-              {{/* If is a Future Event */}}
-              {{- if eq $future_event true -}}
-                {{- .Render "stage-adobe_connect" -}}
-              {{- end -}}
-            {{- end -}}
-
             {{/* Google Stage */}}
             {{- if eq .Params.event_platform "google" -}}
               {{/* If is a Future Event */}}
