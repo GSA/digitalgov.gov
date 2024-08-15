@@ -22,9 +22,10 @@ slug: uswds-monthly-call-august-2024
 event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-aug-title-card
-{{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
 
 ---
+
+{{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
 
 Join the U.S. Web Design System (USWDS) team to understand their progress toward developing beta web components. They’ll also answer questions and requests posted by the [community in the community choice discussion thread for the August monthly call on GitHub](https://github.com/uswds/uswds/discussions/5923). 
 
