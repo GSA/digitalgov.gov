@@ -74,13 +74,13 @@ We work to increase inclusivity through efforts such as:
 - Conducting an annual survey on inclusion and belonging, which guides action items.
 - Building products for the public and the rest of the government which follow [18F's inclusive language principles](https://content-guide.18f.gov/our-style/inclusive-language/) and other inclusive approaches, such as the [U.S. Web Design System’s inclusive design patterns](https://designsystem.digital.gov/together/) and leading [GSA’s equity study on identity proofing](https://www.gsa.gov/governmentwide-initiatives/diversity-equity-inclusion-and-accessibility/equity-study-on-remote-identity-proofing).
 - Speaking publicly about how and why we work inclusively. Watch some of the presentations on Digital.gov’s YouTube channel:
-  - [Designing metaphors, designing collaboration](https://www.youtube.com/watch?v=4Fz9xqu89XU) (12 min)
-  - [Designing with people of all abilities](https://www.youtube.com/watch?v=_QjXiQOa33Y) (52 min)
-  - [Equity-centered design: Challenges in government](https://www.youtube.com/watch?v=j1ZJO8maV7s) (38 min)
-  - [Increasing public participation in user research](https://www.youtube.com/watch?v=LI0uhEi70gc) (34 min)
-  - [Reflecting the diversity of the public we serve (18F and PIF)](https://www.youtube.com/watch?v=fYEoLKEbjlo) (14 min)
-  - [Supporting inclusive language through automation](https://www.youtube.com/watch?v=4xwC2q8G4J8&t=4s) (15 min)
-  - [U.S. Web Design System and accessibility: Creating more inclusive federal websites](https://www.youtube.com/watch?v=D-CQtJYBZz0) (39 min)
+    - [Designing metaphors, designing collaboration](https://www.youtube.com/watch?v=4Fz9xqu89XU) (12 min)
+    - [Designing with people of all abilities](https://www.youtube.com/watch?v=_QjXiQOa33Y) (52 min)
+    - [Equity-centered design: Challenges in government](https://www.youtube.com/watch?v=j1ZJO8maV7s) (38 min)
+    - [Increasing public participation in user research](https://www.youtube.com/watch?v=LI0uhEi70gc) (34 min)
+    - [Reflecting the diversity of the public we serve (18F and PIF)](https://www.youtube.com/watch?v=fYEoLKEbjlo) (14 min)
+    - [Supporting inclusive language through automation](https://www.youtube.com/watch?v=4xwC2q8G4J8&t=4s) (15 min)
+    - [U.S. Web Design System and accessibility: Creating more inclusive federal websites](https://www.youtube.com/watch?v=D-CQtJYBZz0) (39 min)
 
 Note that inclusion may look different at your agency, depending on your values.
 
