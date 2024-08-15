@@ -242,3 +242,8 @@ alt=".+?")* >}}
 ^url: .+/([^/]+)\.md
 slug: $1
 ```
+
+### New Features
+- Communities of Practice Job Board
+  - [Development Guide](./themes/digital.gov/layouts/job-board/readme.md)
+  - [Demo](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/kl-job-board-mvp/job-board/)
