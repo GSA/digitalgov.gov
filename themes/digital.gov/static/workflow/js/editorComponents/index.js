@@ -2,7 +2,7 @@ import accordion from "./accordion.js";
 import assetImg from "./asset-img.js";
 import box from "./box.js";
 import button from "./button.js";
-import cardQuote from "./card-quote.js";
+import cardQuote from "./quote-block.js";
 import fbVideo from "./fb-video.js";
 import footnote from "./footnote.js";
 import imgRight from "./img-right.js";

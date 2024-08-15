@@ -11,7 +11,6 @@ topics:
   - product-and-project-management
   - mobile
   - research
-  - user-centered-design
   - human-centered-design
   - user-experience
 ---

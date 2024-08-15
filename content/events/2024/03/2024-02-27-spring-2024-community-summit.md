@@ -16,7 +16,7 @@ topics:
   - digital-service-delivery
   - acquisition
   - design
-  - user-centered-design
+  - human-centered-design
   - analytics
   - user-experience
   - accessibility

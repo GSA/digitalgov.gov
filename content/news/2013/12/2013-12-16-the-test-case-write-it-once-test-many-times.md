@@ -1,17 +1,16 @@
 ---
 slug: the-test-case-write-it-once-test-many-times
 date: 2013-12-16 11:38:54 -0400
-title: 'The Test Case: Write It Once, Test Many Times'
-summary: 'What if Thomas Edison Didn’t Use Test Cases? &ldquo;I have not failed. I&#8217;ve just found 10,000 ways that won&#8217;t work.&rdquo; ~Thomas A. Edison Software testing is like a science experiment. The Tester must plan: methods, steps, and paths through the Application Under Test (AUT) to completely exercise the'
+title: "The Test Case: Write It Once, Test Many Times"
+summary: "What if Thomas Edison Didn’t Use Test Cases? &ldquo;I have not failed. I&#8217;ve just found 10,000 ways that won&#8217;t work.&rdquo; ~Thomas A. Edison Software testing is like a science experiment. The Tester must plan: methods, steps, and paths through the Application Under Test (AUT) to completely exercise the"
 topics:
   - mobile
   - research
-
 ---
 
 **What if Thomas Edison Didn’t Use Test Cases?**
 
-{{< card-quote text="I have not failed. I've just found 10,000 ways that won't work." cite="Thomas A. Edison" >}}
+{{< quote-block text="I have not failed. I've just found 10,000 ways that won't work." cite="Thomas A. Edison" >}}
 
 {{< legacy-img-right src="2013/12/250-x-281-Mobile-Tester-Newsletter.jpg" alt="Mobile testing on a laptop" >}}
 
@@ -39,15 +38,15 @@ If you want your test cases to be reusable and usable by different Testers, you 
 
 Some fields you may want to include in your test case are:
 
-  * **Test Case ID** – The unique identifier for this test case
-  * **Test Case Title** – A short description of test case
-  * **Test Case Summary** – A detailed description of what the test case does and why it is important
-  * **Precondition/Test Data** – Required test data, or anything else that needs to be in place before the test case start, such as a certain version of Windows or Internet Explorer to use
-  * **Test Steps** – The actual steps that the Tester should execute, such as to enter data and press submit button
-  * **Expected Result** – What the Tester should expect to see or occur at the end of the test case
-  * **Actual Result** – What the Tester actually saw or what occurred at the end of the test case
-  * **Test Case Status** – Did the test pass or fail?
-  * **Comments** – Notes on the test execution.
+- **Test Case ID** – The unique identifier for this test case
+- **Test Case Title** – A short description of test case
+- **Test Case Summary** – A detailed description of what the test case does and why it is important
+- **Precondition/Test Data** – Required test data, or anything else that needs to be in place before the test case start, such as a certain version of Windows or Internet Explorer to use
+- **Test Steps** – The actual steps that the Tester should execute, such as to enter data and press submit button
+- **Expected Result** – What the Tester should expect to see or occur at the end of the test case
+- **Actual Result** – What the Tester actually saw or what occurred at the end of the test case
+- **Test Case Status** – Did the test pass or fail?
+- **Comments** – Notes on the test execution.
 
 **How are mobile test cases different for Web test cases?**
 
@@ -62,17 +61,17 @@ None! While there are many free and paid tools dedicated to creating, storing an
 ## **Conclusion**
 
 > “Many of life&#8217;s failures are people who did not realize how close they were to success when they gave up.”
-  
+
 > ~Thomas A. Edison
 
 As an inventor and scientist, Thomas Edison knew the value of writing and using test cases. As Testers we need to be as thorough and organized as a scientist by developing and writing our own test cases, and organizing and linking our test cases to requirements to ensure that we are testing every aspect of the application under test. The failure to use test cases in our test experiments many cause us to miss issues that will certainly be found by our users in production.
 
 ## **References**
 
-  * <a class="wiki_link_ext" href="http://www.softwaretestinghelp.com/how-to-write-effective-test-cases-test-cases-procedures-and-definitions/" rel="nofollow">How to Write Effective Test Cases, Procedures, and Definitions</a>
-  * <a class="wiki_link_ext" href="http://file:http://help.utest.com/testers/crash-courses/functional/test-case-writing-creation-101" rel="nofollow">Test Case Writing (Creation) 101</a>
-  * <a class="wiki_link_ext" href="http://www.qualitytesting.info/profiles/blogs/how-to-write-a-good-test-case" rel="nofollow">How to Write a Good Test Case</a>
-  * <a class="wiki_link_ext" href="http://www.softwaretestingclass.com/tips-guidelines-for-writing-test-cases/" rel="nofollow">Tips/Guidelines for Writing Test Cases</a>
-  * <a class="wiki_link_ext" href="http://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=ART&ObjectId=8965" rel="nofollow">The Test Case as a Scientific Experiment</a>
+- <a class="wiki_link_ext" href="http://www.softwaretestinghelp.com/how-to-write-effective-test-cases-test-cases-procedures-and-definitions/" rel="nofollow">How to Write Effective Test Cases, Procedures, and Definitions</a>
+- <a class="wiki_link_ext" href="http://file:http://help.utest.com/testers/crash-courses/functional/test-case-writing-creation-101" rel="nofollow">Test Case Writing (Creation) 101</a>
+- <a class="wiki_link_ext" href="http://www.qualitytesting.info/profiles/blogs/how-to-write-a-good-test-case" rel="nofollow">How to Write a Good Test Case</a>
+- <a class="wiki_link_ext" href="http://www.softwaretestingclass.com/tips-guidelines-for-writing-test-cases/" rel="nofollow">Tips/Guidelines for Writing Test Cases</a>
+- <a class="wiki_link_ext" href="http://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=ART&ObjectId=8965" rel="nofollow">The Test Case as a Scientific Experiment</a>
 
 _The Mobile Tester Newsletter was sent bi-monthly to the volunteer Testers in our Federal Crowdsource Mobile Testing Program. Each newsletter contained a feature article, and interesting trends and statistics from the world of mobile testing._

@@ -13,7 +13,7 @@ end_date: 2024-02-15 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - user-centered-design
+  - human-centered-design
 slug: uswds-monthly-call-february-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom

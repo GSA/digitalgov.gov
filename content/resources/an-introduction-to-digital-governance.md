@@ -77,9 +77,9 @@ In addition to a website manager, [Who’s on your digital dream team?](https://
 
 The Web Managers Community of Practice is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/). {{< /note >}}
 
-<footer>
-<h3 id="footnote-label">Footnotes</h3>
-<ol>
-<li id="fn1">Merriam-Webster. 2018. “Definition of GOVERNANCE.” Merriam-Webster.com. 2018. https://www.merriam-webster.com/dictionary/governance. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<div class="dg-footnote">
+<h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+<ol class="dg-footnote__list">
+<li class="dg-footnote__list-item" id="fn1">Merriam-Webster. 2018. “Definition of GOVERNANCE.” Merriam-Webster.com. 2018. https://www.merriam-webster.com/dictionary/governance. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>
