@@ -3,15 +3,7 @@
     <article class="grid-container grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
-        <div>
-          {{/* Page Title */}}
-          <h1>{{ .Title | markdownify }} Community</h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
-        </div>
+        {{- partial "partials/core/page-header.html" (dict "title" .Params.title "deck" .Params.deck "append_title_text" "Community") -}}
       </header>
 
       <div class="usa-in-page-nav-container">
