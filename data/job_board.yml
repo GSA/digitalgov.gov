@@ -5,32 +5,22 @@
 # Do not change the indentation of the YAML content
 # Jobs with a close date before the current date will automatically be omitted
 
-
 - title: Public Notice for General Natural Resources & Biological Science (Direct Hire)
   department: Department of Transportation
   location: Multiple Locations
-  description: Direct hiring authority for 0401 series is being used to fill this position.
+  description: >
+          Direct hiring authority for 0401 series is being used to fill this position.
   open_date: 2023-09-30
   close_date: 2024-10-01
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/647248000
   cop_topics:
     - User Experience
 
-- title: Supervisory Program Analyst
-  department: General Services Administration
-  location: Washington, District of Columbia
-  description: As the Director of the Digital Communications Program Management Office within the Office of Strategic Communication you will be responsible for oversight and improvement of the agency's flagship website, gsa.gov, and the intranet site, Insite, and for ensuring the content is consistent with GSA publication policies and communications strategy. Location of position- GSA, Office of Strategic Communication, 1800 F Street, NW, Washington, DC.
-  open_date: 2024-08-01
-  close_date: 2024-08-16
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802475200
-  cop_topics:
-    - Communicators
-    - Web Managers
-
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
-  description: 1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested- 0343 Security Clearance- None Virtual/Remote- Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
+  description: >
+          1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested: 0343 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-07-31
   close_date: 2024-08-30
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
@@ -40,19 +30,33 @@
 - title: Communications Specialist
   department: Department of Justice
   location: Washington, District of Columbia
-  description: This position is located in the Department of Justice, Office of Justice Programs, Bureau of Justice Assistance (BJA), Operations, Communications & Government Affairs. This position implements and manages aspects of the BJA communications program and coordinates with OJP's Office of Communications on public affairs, congressional and intergovernmental affairs and media-related activities related to BJA.
+  description: >
+          This position is located in the Department of Justice, Office of Justice Programs, Bureau of Justice Assistance (BJA), Operations, Communications & Government Affairs. This position implements and manages aspects of the BJA communications program and coordinates with OJP's Office of Communications on public affairs, congressional and intergovernmental affairs and media-related activities related to BJA.
   open_date: 2024-08-07
   close_date: 2024-08-18
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/803784900
   cop_topics:
     - Communicators
 
-- title: Technical Writer Editor
-  department: Department of Commerce
-  location: Anywhere in the U.S. (remote job)
-  description: Do you want to be part of a team striving to be a catalyst for fostering compliance, innovation, and equitability? Do you want to be on the cutting edge of customer service, customer relationship, and team building? Do you want to support an organization dedicated to developing, implementing and evaluating initiatives to support their customer? Join the USPTO; America's Innovation Agency supporting 13,000 people nationwide. This is a workforce who work daily with innovators to protect hard work!
-  open_date: 2024-08-13
-  close_date: 2024-08-28
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804599300
+- title: Associate Chief Information Officer (ACIO) Digital Services
+  department: Department of the Treasury
+  location: Washington, District of Columbia
+  description: >
+          This position serves as the Associate Chief Information Officer (ACIO) for Digital Services and reports to the Deputy Chief Information Officer for Enterprise Applications & Digital Services under the Deputy Assistant Secretary for Information Systems and Chief Information Officer. Enterprise Applications (EA) delivers scalable mission enabling IT platforms, services, and applications solutions across the Treasury and other federal agencies, as well as Treasury Departmental Offices (DO).
+  open_date: 2024-07-22
+  close_date: 2024-08-24
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/801034800
   cop_topics:
-    - Plain Language
+    - Web Managers
+
+- title: Deputy Director, Office of Digital Services and Technical Architecture (Chief Artificial Intelligence Officer)
+  department: Other Agencies and Independent Organizations
+  location: Washington, District of Columbia
+  description: >
+          **This announcement has been reposted to correct an error in the closing date.** This Senior Executive Service (SES) position is in the Office of Mission Support, Office of Digital Services and Technical Architecture. About OMS. This is an office-centered position*--you must physically report to the duty station stated in this announcement on a regular basis. *EPA offers work-from-home and work schedule flexibilities as described in the Benefits section.
+  open_date: 2024-08-13
+  close_date: 2024-09-14
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804486700
+  cop_topics:
+    - Web Analytics
+    - Web Managers
