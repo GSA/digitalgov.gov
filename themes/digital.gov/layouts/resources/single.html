@@ -3,24 +3,11 @@
     <article class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
-        <div>
-          {{/* Kicker */}}
-          {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-          {{- end -}}
-
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}}</h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
-        </div>
+        {{- partial "partials/core/page-header.html" (dict "data" .) -}}
       </header>
 
-      <div class="usa-in-page-nav-container">
-        <section>
+      <section class="usa-in-page-nav-container">
+        <div>
           {{/* Content */}}
           <div class="content usa-prose">
             {{- .Content -}}
@@ -28,7 +15,7 @@
 
           {{/* Touchpoints Form */}}
           {{- partial "core/touchpoints-form.html" . -}}
-        </section>
+        </div>
         <aside
           class="dg-sidebar usa-in-page-nav"
           data-title-heading-level="h4"
@@ -36,11 +23,11 @@
           aria-label="Related content"
         >
           <div class="dg-related-items" data-related-items>
-            {{/* Related Communities and Services */}}
             {{- partial "core/get_related.html" . -}}
           </div>
         </aside>
-      </div>
+      </section>
+      {{- partial "core/touchpoints-form.html" . -}}
     </article>
   </main>
 {{- end -}}

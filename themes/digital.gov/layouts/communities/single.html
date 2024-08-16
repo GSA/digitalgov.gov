@@ -3,28 +3,16 @@
     <article class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
-        <div>
-          {{/* Page Title */}}
-          <h1>{{ .Title | markdownify }} Community</h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
-        </div>
+        {{- partial "partials/core/page-header.html" (dict "title" .Params.title "deck" .Params.deck "append_title_text" "Community") -}}
       </header>
 
-      <div class="usa-in-page-nav-container">
-        <!--
-        data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
-        the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
-       -->
+      <section class="usa-in-page-nav-container">
         <aside
           class="usa-in-page-nav"
           data-title-heading-level="h3"
           data-root-margin="-350px 0px -350px 0px"
         ></aside>
-        <section>
+        <div>
           {{- if .Params.summary -}}
             <div class="content usa-prose">
               <p>{{- .Params.summary | markdownify -}}</p>
@@ -124,8 +112,8 @@
               </div>
             </div>
           {{- end -}}
-        </section>
-      </div>
+        </div>
+      </section>
     </article>
   </main>
 {{ end }}

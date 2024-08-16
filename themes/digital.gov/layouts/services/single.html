@@ -2,49 +2,23 @@
   <main role="main" id="main-content">
     <article class="grid-container-desktop">
       <header>
-        <div>
-          {{- if .Parent -}}
-            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-          {{- end -}}
+        {{- if .Parent -}}
+          {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+        {{- end -}}
 
-          {{/* Kicker */}}
-          {{- if .Params.kicker -}}
-            <p class="kicker">{{- .Params.kicker -}}</p>
-          {{- end -}}
-
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}}</h1>
-
-          {{/* Deck */}}
-          {{- if .Params.summary -}}
-            <div class="deck">{{- .Params.summary | markdownify -}}</div>
-          {{- end -}}
-
-          {{- if .Params.source_url -}}
-            <p>
-              <a
-                href="{{- .Params.source_url -}}"
-                title="Go to: {{- .Title | markdownify -}}"
-                >{{- .Params.source_url -}}</a
-              >
-            </p>
-          {{- end -}}
-        </div>
+        {{- partial "partials/core/page-header.html" (dict "data" .) -}}
+        {{- if .Params.source_url -}}
+          <p>
+            <a
+              href="{{- .Params.source_url -}}"
+              title="Go to: {{- .Title | markdownify -}}"
+              >{{- .Params.source_url -}}</a
+            >
+          </p>
+        {{- end -}}
       </header>
 
-      <div class="usa-in-page-nav-container">
-        <aside
-          class="usa-in-page-nav"
-          data-title-heading-level="h3"
-          data-root-margin="-350px 0px -350px 0px"
-        ></aside>
-        <section>
-          {{/* Main Content */}}
-          <div class="content">
-            {{- .Content -}}
-          </div>
-        </section>
-      </div>
+      {{- partial "partials/core/usa-in-page-nav.html" . -}}
     </article>
   </main>
 {{- end -}}
