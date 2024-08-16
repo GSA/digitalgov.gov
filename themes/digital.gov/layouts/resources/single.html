@@ -1,16 +1,21 @@
 {{- define "content" -}}
   <main role="main" id="main-content">
-    <article class="grid-container grid-container-desktop">
+    <article class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         {{- partial "partials/core/page-header.html" (dict "data" .) -}}
       </header>
 
-      <div class="usa-in-page-nav-container">
-        <div class="content usa-prose">
-          {{- .Content -}}
-        </div>
+      <section class="usa-in-page-nav-container">
+        <div>
+          {{/* Content */}}
+          <div class="content usa-prose">
+            {{- .Content -}}
+          </div>
 
+          {{/* Touchpoints Form */}}
+          {{- partial "core/touchpoints-form.html" . -}}
+        </div>
         <aside
           class="dg-sidebar usa-in-page-nav"
           data-title-heading-level="h4"
@@ -21,7 +26,7 @@
             {{- partial "core/get_related.html" . -}}
           </div>
         </aside>
-      </div>
+      </section>
       {{- partial "core/touchpoints-form.html" . -}}
     </article>
   </main>
