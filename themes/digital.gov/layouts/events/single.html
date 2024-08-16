@@ -85,13 +85,16 @@
             {{- end -}}
           {{- end -}}
 
-          {{/* Google Stage */}}
+
+          <!-- Ref: https://github.com/GSA/digitalgov.gov/pull/7795#discussion_r1719950917 -->
+          <!-- {{/* Google Stage */}} 
           {{- if eq .Params.event_platform "google" -}}
             {{/* If is a Future Event */}}
             {{- if eq $future_event true -}}
               {{- .Render "stage-google" -}}
             {{- end -}}
           {{- end -}}
+           -->
 
           {{/* Main Content */}}
           <div class="content usa-prose">
