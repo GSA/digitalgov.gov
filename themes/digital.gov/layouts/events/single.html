@@ -10,63 +10,55 @@
 
 
   <main role="main" id="main-content" class="event">
-    <header>
-      <div class="grid-container grid-container-desktop">
-        {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-        <div class="grid-row">
-          <div class="grid-col-12">
-            {{- partial "partials/core/page-header.html" (dict "data" .) -}}
-            <p class="datetime">
-              <svg
-                class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
-                aria-hidden="true"
-                focusable="false"
-              >
-                <use
-                  xlink:href="{{ "uswds/img/sprite.svg#calendar_today" | relURL }}"
-                ></use>
-              </svg>
-              {{ with .Date }}
-                {{ . | dateFormat "Monday, January 02, 2006" }}
-              {{ end }}
-              <span>
-                {{- with .Date -}}
-                  {{- . | dateFormat "3:04 PM" -}}
-                {{- end }}
-                –
-                {{ with .Params.end_date -}}
-                  {{- . | dateFormat "3:04 PM ET" -}}
-                {{- end }}
-              </span>
-            </p>
-            {{- if .Params.host -}}
-              <p class="host">
-                Hosted by Digital.gov and the
-                {{ .Params.host }}
-              </p>
-            {{- end -}}
-          </div>
-        </div>
-      </div>
-    </header>
+    <article class="grid-container-desktop">
+      {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+      <header>
+        {{- partial "partials/core/page-header.html" (dict "data" .) -}}
 
-    <article>
+
+        <p class="datetime">
+          <svg
+            class="usa-icon dg-icon dg-icon--standard margin-bottom-05"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use
+              xlink:href="{{ "uswds/img/sprite.svg#calendar_today" | relURL }}"
+            ></use>
+          </svg>
+          {{ with .Date }}
+            {{ . | dateFormat "Monday, January 02, 2006" }}
+          {{ end }}
+          <span>
+            {{- with .Date -}}
+              {{- . | dateFormat "3:04 PM" -}}
+            {{- end }}
+            –
+            {{ with .Params.end_date -}}
+              {{- . | dateFormat "3:04 PM ET" -}}
+            {{- end }}
+          </span>
+        </p>
+        {{- if .Params.host -}}
+          <p class="host">
+            Hosted by Digital.gov and the
+            {{ .Params.host }}
+          </p>
+        {{- end -}}
+      </header>
+
       {{/* EVENT Actions — REGISTER and Add to Calendar */}}
       {{- if eq $future_event true -}}
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row">
-            <div class="grid-col-12">
-              <div class="actions">
-                <a
-                  aria-label="Register for {{- .Params.title -}}"
-                  class="btn btn-register"
-                  href="{{- .Params.registration_url -}}"
-                  onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
-                >
-                  Register
-                </a>
-              </div>
-            </div>
+        <div class="grid-container-desktop">
+          <div class="actions">
+            {{/* Register */}}
+            <a
+              aria-label="Register for {{- .Params.title -}}"
+              class="btn btn-register"
+              href="{{- .Params.registration_url -}}"
+              onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+              >Register</a
+            >
           </div>
         </div>
       {{- end -}}
@@ -83,62 +75,66 @@
       {{- end -}}
 
 
-      <section>
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row tablet-lg:grid-gap-4">
-            <div class="grid-col-12 tablet:grid-col-9">
-              {{- if eq .Params.event_platform "zoom" -}}
-                {{- if eq $future_event true -}}
-                  {{- .Render "stage-zoom" -}}
-                {{- end -}}
-              {{- end -}}
-
-              {{- if eq .Params.event_platform "adobe_connect" -}}
-                {{- if eq $future_event true -}}
-                  {{- .Render "stage-adobe_connect" -}}
-                {{- end -}}
-              {{- end -}}
-
-              {{- if eq .Params.event_platform "google" -}}
-                {{- if eq $future_event true -}}
-                  {{- .Render "stage-google" -}}
-                {{- end -}}
-              {{- end -}}
+      <section class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-9">
+          {{/* ZOOM Stage */}}
+          {{- if eq .Params.event_platform "zoom" -}}
+            {{/* If is a Future Event */}}
+            {{- if eq $future_event true -}}
+              {{- .Render "stage-zoom" -}}
+            {{- end -}}
+          {{- end -}}
 
 
-              <div class="content usa-prose">
-                {{- .Content -}}
-              </div>
+          <!-- Ref: https://github.com/GSA/digitalgov.gov/pull/7795#discussion_r1719950917 -->
+          <!-- {{/* Google Stage */}} 
+          {{- if eq .Params.event_platform "google" -}}
+            {{/* If is a Future Event */}}
+            {{- if eq $future_event true -}}
+              {{- .Render "stage-google" -}}
+            {{- end -}}
+          {{- end -}}
+           -->
 
-              {{- partial "core/touchpoints-form.html" . -}}
-            </div>
-
-            <div class="dg-sidebar grid-col-12 tablet:grid-col-3">
-              {{- if .Params.authors -}}
-                <h4>In this talk</h4>
-                {{- partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors) -}}
-              {{- end -}}
-
-              {{- if eq .Params.event_platform "youtube_live" -}}
-                {{- if eq $future_event true -}}
-                  <div class="actions actions-stacked">
-                    <a
-                      aria-label="Register for {{- .Params.title -}}"
-                      class="btn btn-register"
-                      href="{{- .Params.registration_url -}}"
-                      onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
-                    >
-                      Register
-                    </a>
-                  </div>
-                {{- end -}}
-              {{- end -}}
-
-              {{- partial "core/primary-communities.html" . -}}
-              {{- partial "core/list-topics.html" . -}}
-              {{- partial "core/get_sharetools.html" . -}}
-            </div>
+          {{/* Main Content */}}
+          <div class="content usa-prose">
+            {{- .Content -}}
           </div>
+
+          {{/* Touchpoints Form */}}
+          {{- partial "core/touchpoints-form.html" . -}}
+        </div>
+
+        <div class="dg-sidebar grid-col-12 tablet:grid-col-3">
+          {{/* Authors */}}
+          {{- if .Params.authors -}}
+            <h4>In this talk</h4>
+            {{- partial "core/authors-list.html" (dict "scope" . "authors" .Params.authors) -}}
+          {{- end -}}
+
+          {{- if eq .Params.event_platform "youtube_live" -}}
+            {{- if eq $future_event true -}}
+              <div class="actions actions-stacked">
+                {{/* Register */}}
+                <a
+                  aria-label="Register for {{- .Params.title -}}"
+                  class="btn btn-register"
+                  href="{{- .Params.registration_url -}}"
+                  onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+                  >Register</a
+                >
+              </div>
+            {{- end -}}
+          {{- end -}}
+
+          {{/* Display Primary Communities */}}
+          {{- partial "core/primary-communities.html" . -}}
+
+          {{/* Topics */}}
+          {{- partial "core/list-topics.html" . -}}
+
+          {{/* Share Tools */}}
+          {{- partial "core/get_sharetools.html" . -}}
         </div>
       </section>
     </article>

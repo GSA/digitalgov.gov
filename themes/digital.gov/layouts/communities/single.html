@@ -1,104 +1,119 @@
-{{ define "content" }}
-  <main role="main" id="main-content" class="page main-content">
-    <article class="grid-container grid-container-desktop">
+{{- define "content" -}}
+  <main role="main" id="main-content">
+    <article class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
         {{- partial "partials/core/page-header.html" (dict "title" .Params.title "deck" .Params.deck "append_title_text" "Community") -}}
       </header>
 
-      <div class="usa-in-page-nav-container">
+      <section class="usa-in-page-nav-container">
         <aside
           class="usa-in-page-nav"
           data-title-heading-level="h3"
           data-root-margin="-350px 0px -350px 0px"
         ></aside>
-        <div class="content usa-prose">
+        <div>
           {{- if .Params.summary -}}
-            <p>{{- .Params.summary | markdownify -}}</p>
+            <div class="content usa-prose">
+              <p>{{- .Params.summary | markdownify -}}</p>
 
-            {{- if .Params.community_list -}}
-              <section class="join-community-form">
-                <h4 class="join-community-form__header">
-                  <svg
-                    class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                    aria-hidden="true"
-                    focusable="false"
-                  >
-                    <use
-                      xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"
-                    ></use>
-                  </svg>
-                  Connect with us
-                </h4>
+              {{- if .Params.community_list -}}
+                <section class="join-community-form">
+                  <h4 class="join-community-form__header">
+                    <svg
+                      class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
+                      aria-hidden="true"
+                      focusable="false"
+                    >
+                      <use
+                        xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"
+                      ></use>
+                    </svg>
+                    Connect with us
+                  </h4>
 
-                {{- range $i, $e := .Params.community_list -}}
-                  <div class="join-community-form__body">
-                    <div class="join-community-form__body-eligibility">
-                      {{- if eq $e.type "public" -}}
-                        {{- if $e.terms -}}
-                          <p>{{- $e.terms | markdownify -}}</p>
-                        {{- else -}}
-                          <p>Open to the public.</p>
+                  {{- range $i, $e := .Params.community_list -}}
+                    <div class="join-community-form__body">
+                      <div class="join-community-form__body-eligibility">
+                        {{/* Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter */}}
+
+                        {{/* PUBLIC */}}
+                        {{- if eq $e.type "public" -}}
+                          {{/* Checking to see if community terms are defined */}}
+                          {{- if $e.terms -}}
+                            <p>{{- $e.terms | markdownify -}}</p>
+                          {{- else -}}
+                            <p>Open to the public.</p>
+                          {{- end -}}
                         {{- end -}}
-                      {{- end -}}
 
-                      {{- if eq $e.type "government" -}}
-                        {{- if $e.terms -}}
-                          <p>{{- $e.terms | markdownify -}}</p>
-                        {{- else -}}
-                          <p>
-                            Open to anyone with a .gov or .mil email address.
-                          </p>
+                        {{/* GOVT */}}
+                        {{- if eq $e.type "government" -}}
+                          {{- if $e.terms -}}
+                            <p>{{- $e.terms | markdownify -}}</p>
+                          {{- else -}}
+                            <p>
+                              Open to anyone with a .gov or .mil email address.
+                            </p>
+                          {{- end -}}
                         {{- end -}}
-                      {{- end -}}
 
-                      {{- if eq $e.type "government_only" -}}
-                        {{- if $e.terms -}}
-                          <p>{{- $e.terms | markdownify -}}</p>
-                        {{- else -}}
-                          <p>Open to any government employee.</p>
+                        {{/* GOVT_ONLY */}}
+                        {{- if eq $e.type "government_only" -}}
+                          {{- if $e.terms -}}
+                            <p>{{- $e.terms | markdownify -}}</p>
+                          {{- else -}}
+                            <p>Open to any government employee.</p>
+                          {{- end -}}
                         {{- end -}}
-                      {{- end -}}
+                      </div>
+
+                      <div class="join-community-form__body-email">
+                        {{/* Community JOIN types ---
+                          - Listerv via an email (most common)
+                          - Listerv via a form
+                          - Google Group
+                          - Slack
+                        */}}
+                        {{/* Listserv Platforms without form sign-up option */}}
+                        {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
+                          {{- partial "core/community-join-without-form.html" (dict "context" . "e" $e) -}}
+                        {{- end -}}
+
+                        {{/* Google Group platforms */}}
+                        {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
+                          {{- partial "core/community-join-google-group.html" (dict "context" . "e" $e) -}}
+                        {{- end -}}
+
+                        {{/* Slack platforms */}}
+                        {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
+                          {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
+                        {{- end -}}
+
+                      </div>
                     </div>
+                  {{- end -}}
 
-                    <div class="join-community-form__body-email">
-                      {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
-                        {{- partial "core/community-join-without-form.html" (dict "context" . "e" $e) -}}
-                      {{- end -}}
+                </section>
+              {{- end -}}
 
-                      {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
-                        {{- partial "core/community-join-google-group.html" (dict "context" . "e" $e) -}}
-                      {{- end -}}
+              {{/* Main Content */}}
+              <div class="content">
+                {{- .Content -}}
+              </div>
 
-                      {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
-                        {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
-                      {{- end -}}
-                    </div>
-                  </div>
-                {{- end -}}
-              </section>
-            {{- end -}}
+              {{/* Community Events */}}
+              {{- partial "core/get-upcomingevents.html" . -}}
+
+
+              <div class="community_conduct">
+                <h2 id="community-conduct">Community Conduct</h2>
+                {{- partial "core/community_pagefooter.html" . -}}
+              </div>
+            </div>
           {{- end -}}
-
-
-          <div>
-            {{- .Content -}}
-          </div>
-
-          <div class="community_events">
-            {{- partial "core/get-upcomingevents.html" . -}}
-          </div>
-
-          <div class="Community_conduct">
-            <h2 id="community-conduct">Community Conduct</h2>
-            {{- partial "core/community_pagefooter.html" . -}}
-            <br />
-          </div>
-          <div>
-            <br />
-          </div>
         </div>
-      </div>
+      </section>
     </article>
   </main>
 {{ end }}

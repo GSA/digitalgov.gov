@@ -1,28 +1,13 @@
 {{- define "content" -}}
   <main role="main" id="main-content">
-    <article>
+    <article class="grid-container-desktop">
       <header>
         <div class="grid-container grid-container-desktop">
-          <div class="grid-row">
-            <div class="grid-col-12">
-              {{/* Breadcrumbs */}}
-              {{- if .Parent -}}
-                {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-              {{- end -}}
+          {{- if .Parent -}}
+            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+          {{- end -}}
 
-              {{- if .Params.kicker -}}
-                <p class="kicker">{{- .Params.kicker -}}</p>
-              {{- end -}}
-
-              {{/* Page  Title */}}
-              <h1>{{- .Title | markdownify -}}</h1>
-
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-                <div class="deck">{{- .Params.deck | markdownify -}}</div>
-              {{- end -}}
-            </div>
-          </div>
+          {{- partial "partials/core/page-header.html" (dict "data" .) -}}
         </div>
       </header>
 
