@@ -30,19 +30,7 @@
         </div>
       </header>
 
-      <div class="usa-in-page-nav-container">
-        <aside
-          class="usa-in-page-nav"
-          data-title-heading-level="h3"
-          data-root-margin="-350px 0px -350px 0px"
-        ></aside>
-        <div>
-          {{/* Content */}}
-          <div class="content">
-            {{- .Content -}}
-          </div>
-        </div>
-      </div>
+      {{- partial "partials/core/usa-in-page-nav.html" . -}}
     </article>
   </main>
 {{- end -}}
