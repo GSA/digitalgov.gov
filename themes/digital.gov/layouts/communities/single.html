@@ -7,18 +7,13 @@
       </header>
 
       <div class="usa-in-page-nav-container">
-        <!--
-      data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
-      the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
-     -->
         <aside
           class="usa-in-page-nav"
           data-title-heading-level="h3"
           data-root-margin="-350px 0px -350px 0px"
         ></aside>
-        {{/* Summary */}}
-        {{- if .Params.summary -}}
-          <div class="content usa-prose">
+        <div class="content usa-prose">
+          {{- if .Params.summary -}}
             <p>{{- .Params.summary | markdownify -}}</p>
 
             {{- if .Params.community_list -}}
@@ -39,11 +34,7 @@
                 {{- range $i, $e := .Params.community_list -}}
                   <div class="join-community-form__body">
                     <div class="join-community-form__body-eligibility">
-                      {{/* Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter */}}
-
-                      {{/* PUBLIC */}}
                       {{- if eq $e.type "public" -}}
-                        {{/* Checking to see if community terms are defined */}}
                         {{- if $e.terms -}}
                           <p>{{- $e.terms | markdownify -}}</p>
                         {{- else -}}
@@ -51,7 +42,6 @@
                         {{- end -}}
                       {{- end -}}
 
-                      {{/* GOVT */}}
                       {{- if eq $e.type "government" -}}
                         {{- if $e.terms -}}
                           <p>{{- $e.terms | markdownify -}}</p>
@@ -62,7 +52,6 @@
                         {{- end -}}
                       {{- end -}}
 
-                      {{/* GOVT_ONLY */}}
                       {{- if eq $e.type "government_only" -}}
                         {{- if $e.terms -}}
                           <p>{{- $e.terms | markdownify -}}</p>
@@ -73,51 +62,42 @@
                     </div>
 
                     <div class="join-community-form__body-email">
-                      {{/* Community JOIN types ---
-                        - Listerv via an email (most common)
-                        - Listerv via a form
-                        - Google Group
-                        - Slack
-                      */}}
-                      {{/* Listserv Platforms without form sign-up option */}}
                       {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
                         {{- partial "core/community-join-without-form.html" (dict "context" . "e" $e) -}}
                       {{- end -}}
 
-                      {{/* Google Group platforms */}}
                       {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
                         {{- partial "core/community-join-google-group.html" (dict "context" . "e" $e) -}}
                       {{- end -}}
 
-                      {{/* Slack platforms */}}
                       {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
                         {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
                       {{- end -}}
-
                     </div>
                   </div>
                 {{- end -}}
-
               </section>
             {{- end -}}
-            <div>
-              {{- .Content -}}
-            </div>
+          {{- end -}}
 
-            <div class="community_events">
-              {{- partial "core/get-upcomingevents.html" . -}}
-            </div>
 
-            <div class="Community_conduct">
-              <h2 id="community-conduct">Community Conduct</h2>
-              {{- partial "core/community_pagefooter.html" . -}}
-              <br />
-            </div>
-            <div>
-              <br />
-            </div>
+          <div>
+            {{- .Content -}}
           </div>
-        {{- end -}}
+
+          <div class="community_events">
+            {{- partial "core/get-upcomingevents.html" . -}}
+          </div>
+
+          <div class="Community_conduct">
+            <h2 id="community-conduct">Community Conduct</h2>
+            {{- partial "core/community_pagefooter.html" . -}}
+            <br />
+          </div>
+          <div>
+            <br />
+          </div>
+        </div>
       </div>
     </article>
   </main>
