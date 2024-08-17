@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/04/accessibility-intersection-between-plain-language-508
+# View this page at https://digital.gov/event/2020/04/15/accessibility-intersection-between-plain-language-508/
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: accessibility-intersection-between-plain-language-508
@@ -43,12 +43,12 @@ youtube_id: tFkN0s7UWcE
 
 At its core, plain language is about making documents accessible to readers. In this month’s meeting we will discuss how plain language intersects with 508 compliance requirements to make federal electronic documents and technology accessible to people with disabilities. We invite 508 program managers and plain language experts to join us for an informative discussion. Topics include:
 
- - What do plain language experts need to know about 508 compliance?
- - How can plain language support 508 compliance (and vice versa)
- - Disabilities can be permanent, temporary, or situational, and even when they’re permanent, they can be new or longstanding. What are some of the ways in which we all experience disabilities that might increase our need for plain language?
- - What are some common disabilities we need to consider when writing documents in plain language?
- - What formatting techniques hinder access to electronic or print texts?
- - Are there times when plain language and accessibility might be at odds?
+- What do plain language experts need to know about 508 compliance?
+- How can plain language support 508 compliance (and vice versa)
+- Disabilities can be permanent, temporary, or situational, and even when they’re permanent, they can be new or longstanding. What are some of the ways in which we all experience disabilities that might increase our need for plain language?
+- What are some common disabilities we need to consider when writing documents in plain language?
+- What formatting techniques hinder access to electronic or print texts?
+- Are there times when plain language and accessibility might be at odds?
 
 ## In This Talk
 
@@ -59,13 +59,12 @@ At its core, plain language is about making documents accessible to readers. In 
 
 ## Related Links and Resources:
 
- - [Section 508 training](https://www.section508.gov/training)
- - [Accessibility for Teams](https://accessibility.digital.gov/)
- - [18F's Guide to Accessibility](https://accessibility.18f.gov/)
- - [Join the Accessibility Community]({{< ref "/communities/it-accessibility-section-508.md" >}})
-
- - [Plain language training](https://plainlanguage.gov/)
- - [Join the Plain Community]({{< ref "/communities/plain-language-community-of-practice.md" >}})
+- [Section 508 training](https://www.section508.gov/training)
+- [Accessibility for Teams](https://accessibility.digital.gov/)
+- [18F's Guide to Accessibility](https://accessibility.18f.gov/)
+- [Join the Accessibility Community]({{< ref "/communities/it-accessibility-section-508.md" >}})
+- [Plain language training](https://plainlanguage.gov/)
+- [Join the Plain Community]({{< ref "/communities/plain-language-community-of-practice.md" >}})
 
  ---
 
