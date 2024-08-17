@@ -4,10 +4,12 @@
   @param {object} context - Parent scope context object
   @param {string} layout - Optional variant setting for card styles
   - "has-media" variant displays an image, full background colors on buttons, and left justified copy
+  @param {bool} outline - Boolean to determine if the usa-button--outline class should be applied
 */}}
 
 {{ $context := .context }}
 {{ $layout := .layout }}
+{{ $outline := .outline }}
 
 {{/* list featured communities in alphabetical order */}}
 {{ $page_header := $context.Site.GetPage "/communities" }}
@@ -51,9 +53,12 @@
         "image" .Params.dg_logo
         "alt" (printf "%s%s" .Params.dg_shortname " logo")
         "layout" $layout
+        "site" $context.Site
         "members" $members
+        "outline" $outline
         )
       }}
+
       {{- partial "core/usa-card.html" (dict "card_data" $card_data) -}}
     </div>
   {{ end }}
