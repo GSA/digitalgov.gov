@@ -96,7 +96,7 @@ Mitch: Hi, I'm Mitch Moccia, and I'm the front-end developer and engineer on the
 3. Then we'll talk about a few new or improved components we've developed to support these patterns.
 4. And finally, we'll talk a bit about what this means and what's next.
 
-This is only our first monthly call focussed on Patterns. This month we'll introduce the concept of patterns and what we did to build out this new content. Next month we'll look at the new patterns we've documented in depth.
+This is only our first monthly call focused on Patterns. This month we'll introduce the concept of patterns and what we did to build out this new content. Next month we'll look at the new patterns we've documented in depth.
 
 **Slide 17:** So let's get going, and talk about what USWDS provides today: What we might call the building blocks of websites.
 

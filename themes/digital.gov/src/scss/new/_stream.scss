@@ -14,15 +14,6 @@
   .card:first-child {
     @include u-margin-top(0);
   }
-
-  footer {
-    @include u-margin-y(2);
-    @include u-text("center");
-
-    p {
-      @include u-maxw("full");
-    }
-  }
 }
 
 .pagination {

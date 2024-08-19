@@ -1,5 +1,5 @@
 title: "Digital.gov"
-baseURL: "/"
+baseURL: "https://digital.gov"
 languageCode: "en-us"
 theme: "digital.gov"
 themesDir: "./themes"
@@ -57,6 +57,9 @@ markup:
     endLevel: 3
     ordered: false
     startLevel: 1
+  highlight:
+    style: lovelace
+    tabwidth: 2
 
 params:
   description: "Guidance on building better digital services in government"
@@ -108,26 +111,34 @@ security:
 
 menu:
   primary:
-    - Name: "News"
-      Identifier: "news"
+    - Name: "Blogs"
+      Identifier: "blogs"
       URL: "/news/"
       Weight: 1
-    - Name: "Events"
-      Identifier: "events"
-      URL: "/events/"
-      Weight: 2
     - Name: "Resources"
       Identifier: "resources"
       URL: "/resources/"
       Weight: 3
+    - Name: "Events"
+      Identifier: "events"
+      URL: "/events/"
+      Weight: 2
     - Name: "Communities"
       Identifier: "communities"
       URL: "/communities/"
       Weight: 4
+    - Name: "Guides"
+      Identifier: "guides"
+      URL: "/guides/"
+      Weight: 4
     - Name: "Tools"
       Identifier: "tools"
-      URL: "/services/"
+      URL: "/services/directory/"
       Weight: 5
+    - Name: "Job Board"
+      Identifier: "job-board"
+      URL: "/job-board/"
+      Weight: 6
 
   contribute:
     - Name: "Write for us"
@@ -154,5 +165,5 @@ menu:
       Weight: 2
     - Name: "Contact Us"
       Identifier: "contact"
-      URL: "/about/contact/"  
+      URL: "/about/contact/"
       Weight: 3

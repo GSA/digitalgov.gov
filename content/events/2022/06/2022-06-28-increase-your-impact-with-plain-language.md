@@ -16,6 +16,7 @@ topics:
   - plain-language
   - usability
   - communication
+  - policy
 # See all authors at https://digital.gov/authors
 authors:
   - daniel-yi

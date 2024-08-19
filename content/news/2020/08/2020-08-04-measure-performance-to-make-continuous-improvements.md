@@ -4,7 +4,6 @@ cms_date:
   dd: "04"
   yyyy: "2020"
 
-
 kicker: This Week's IDEA
 
 title: Measure Performance to Make Continuous Improvements
@@ -37,10 +36,9 @@ primary_image: this-weeks-idea-card-wk3
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
 ---
 
-{{< card-quote text="When people talk, listen completely. Most people never listen." cite="Ernest Hemingway" >}}
+{{< quote-block text="When people talk, listen completely. Most people never listen." cite="Ernest Hemingway" >}}
 
 {{< img-right src="this-weeks-idea-icon-wk3" >}}
 
@@ -70,7 +68,7 @@ HHS uses a common survey platform, and runs surveys on all of their websites. Fe
 
 To analyze and benchmark customer satisfaction data across sites, HHS uses the `Was this page helpful?` metric as the key benchmark for cross-page and cross-site satisfaction comparison.
 
-{{< card-quote text="Customer survey questions let us delve into the real issues with the site. Web analytics today are a fantastic tool, and can easily define areas of improvement, but to get the true feeling of customers, the surveys are paramount." cite="Stacey Palosky, Digital Communications Director at HHS" >}}
+{{< quote-block text="Customer survey questions let us delve into the real issues with the site. Web analytics today are a fantastic tool, and can easily define areas of improvement, but to get the true feeling of customers, the surveys are paramount." cite="Stacey Palosky, Digital Communications Director at HHS" >}}
 
 Customer feedback and satisfaction data are shared internally with both employees and managers, primarily through dashboards that consolidate data into easily digestible information. They also host regular meetings to brief staff on high-level trends, and dive deeper into specific inquiries. They don’t currently share customer satisfaction data publicly, but are considering doing so in the future.
 
@@ -94,11 +92,9 @@ Their current challenge, along with many others in government right now, is adap
 
 Attend any or all webinars in the Digital Analytics Program’s three-part analytics case study series:
 
--  [Part 1: Assessment](https://digital.gov/event/2020/08/26/dap-analytics-case-study-part-1/)—How to assess your analytics strategy to ensure you’re pulling impactful and relevant data (August 26)
-    
--  [Part 2: Analysis](https://digital.gov/event/2020/09/24/dap-analytics-case-study-part-2/)—How to pull reporting and conduct analysis through the lens of your analytics strategy (September 24)
-    
--  [Part 3: Action](https://digital.gov/event/2020/10/21/analytics-case-study-part-3-action/)—How to take actions using the analysis and insights you created using DAP and Google Analytics (October 21)
+- [Part 1: Assessment](https://digital.gov/event/2020/08/26/dap-analytics-case-study-part-1/)—How to assess your analytics strategy to ensure you’re pulling impactful and relevant data (August 26)
+- [Part 2: Analysis](https://digital.gov/event/2020/09/24/dap-analytics-case-study-part-2/)—How to pull reporting and conduct analysis through the lens of your analytics strategy (September 24)
+- [Part 3: Action](https://digital.gov/event/2020/10/21/analytics-case-study-part-3-action/)—How to take actions using the analysis and insights you created using DAP and Google Analytics (October 21)
 
 Listen to [Analytics Lessons From Canada.ca](https://digital.gov/event/2020/07/23/dap-learning-series-lessons-from-canadaca/) and learn how our northern neighbors approach analytics.
 
@@ -106,6 +102,6 @@ Listen to [Analytics Lessons From Canada.ca](https://digital.gov/event/2020/07/2
 
 “In the past two years, the HHS.gov team has vastly improved page load speeds, working to make sure that our pages load quickly on phones. Now, you’re going to start to see more of the visible changes that will continue to make it easier for our users to find what they are looking for. Today, 80 percent of HHS.gov visitors consistently report they found or partially found what they were looking for. Just five years ago, it was less than 20 percent. With improved understanding of user goals, needs, and behavior driving our design and functional decisions, we expect to see customer satisfaction continue to rise.”—via [HHS.gov](https://www.hhs.gov/blog/2020/03/17/website-modernization-continues.html)
 
-***
+---
 
 Do you have a 21st Century IDEA-related comment or question? Or would you like to give a shout out to your colleagues? Send it to us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov), and we’ll work to incorporate it into the next newsletter.

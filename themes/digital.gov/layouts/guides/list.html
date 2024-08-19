@@ -1,0 +1,70 @@
+{{ define "content" }}
+  {{ $guidesList := slice }}
+  {{ $guidesData := slice }}
+  {{ $guidePages := slice }}
+
+  {{/* Build list of guide names from yaml files in string format */}}
+  {{ range $i, $names := $.Site.Data.guidenav }}
+    {{ $guidesList = $guidesList | append $i }}
+  {{ end }}
+
+  {{/* Iterate over list of guide names and save each as a map of strings */}}
+  {{ range $guidesList }}
+    {{ $guidesData = $guidesData | append (index $.Site.Data.guidenav .) }}
+  {{ end }}
+
+  {{/* Save each guide homepage as hugo page collection */}}
+  {{ range $guidesData }}
+    {{ range first 1 .nav }}
+      {{ $guidePages = $guidePages | append ($.Site.GetPage .path) }}
+    {{ end }}
+    {{ if .landingURL }}
+      {{ $guidePages = $guidePages | append ($.Site.GetPage .landingURL) }}
+    {{ end }}
+    {{ $guidePages = uniq $guidePages }}
+  {{ end }}
+
+
+  <main role="main" id="main-content">
+    <div class="grid-container-desktop margin-bottom-5">
+      <header class="page-head">
+        <h1>{{- .Title | markdownify -}}</h1>
+        {{- if .Params.deck -}}
+          <h2 class="deck">{{- .Params.deck | markdownify -}}</h2>
+        {{- end -}}
+      </header>
+      <section class="dg-guides">
+        <ul class="usa-card-group">
+          {{ range $guidePages.ByParam "guide_weight" }}
+            {{ $image := .Params.image }}
+            {{ $layout := "" }}
+            {{ if $image }}
+              {{ $layout = "has-image" }}
+            {{ else }}
+              {{ $layout = "no-image" }}
+            {{ end }}
+            {{ $kicker := "Digital.gov Guide" }}
+            {{ if .Params.guide_weight }}
+              <li class="usa-card tablet:grid-col-4 dg-guides-card">
+                {{ $card_data := (dict
+                  "header" .Title
+                  "body" .Params.summary
+                  "link" (.Permalink | relURL)
+                  "link_title" .Title
+                  "image" $image
+                  "alt" "Test Alt"
+                  "layout" $layout
+                  "kicker" $kicker
+                  "site" .Site
+                  )
+                }}
+
+                {{ partial "core/usa-card.html" (dict "card_data" $card_data) }}
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+  </main>
+{{ end }}

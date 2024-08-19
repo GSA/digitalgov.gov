@@ -11,7 +11,6 @@ topics:
   - research
   - user-experience
   - customer-experience
-  - user-centered-design
   - human-centered-design
 ---
 

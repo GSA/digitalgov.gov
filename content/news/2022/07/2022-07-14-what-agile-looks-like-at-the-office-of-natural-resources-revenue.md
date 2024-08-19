@@ -4,12 +4,11 @@ source_url: https://blog-nrrd.doi.gov/agile/
 source: doi-revenuedata
 date: 2022-07-14 14:10:00 -0500
 title: "What Agile Looks Like at the Office of Natural Resources Revenue"
-deck: "**What Agile Looks Like at the Office of Natural Resources Revenue**&mdash;Agile at the Office of Natural Resources Revenue (ONRR) started with 18F. They reflect on where they are today, five years later."
-summary: asdf
+deck: "Agile at the Office of Natural Resources Revenue (ONRR) started with 18F. They reflect on where they are today, five years later."
+summary: "Agile at the Office of Natural Resources Revenue (ONRR) started with 18F. They reflect on where they are today, five years later."
 # See all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
-  - user-centered-design
   - human-centered-design
   - design
 slug: what-agile-looks-like-at-the-office-of-natural-resources-revenue

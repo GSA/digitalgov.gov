@@ -9,7 +9,7 @@ summary: "An identity management service that provides secure and private online
 source: 'logingov'
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.login.gov/"
 
 
@@ -23,7 +23,7 @@ weight: 2
 
 # see all authors at https://digital.gov/authors
 authors:
-  - amos-stone
+  - 
 
 # Topics that best describe this product or service
 topics:

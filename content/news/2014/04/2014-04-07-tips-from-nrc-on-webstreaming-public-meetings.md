@@ -1,8 +1,8 @@
 ---
 slug: tips-from-nrc-on-webstreaming-public-meetings
 date: 2014-04-07 10:00:46 -0400
-title: Tips from NRC on Webstreaming Public Meetings
-summary: 'In support of open government, the U.S. Nuclear Regulatory Commission’s (NRC) expansion of webstreamed meetings has allowed more participants around the country to hear about existing and proposed nuclear sites. It was lauded in a recent White House Office of Science and Technology Policy (OSTP) blog about the upcoming 2014 Open Government plans and achievements'
+title: "Tips from NRC on Webstreaming Public Meetings"
+summary: "In support of open government, the U.S. Nuclear Regulatory Commission’s (NRC) expansion of webstreamed meetings has allowed more participants around the country to hear about existing and proposed nuclear sites."
 authors:
   - christine-kundrat
   - danita-stenberg
@@ -11,9 +11,9 @@ topics:
   - open-government
 ---
 
-[{{< legacy-img src="2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg" alt="A video camera is positioned behind a crowd of people seated at a public meeting or conference." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg) 
+{{< legacy-img-right src="2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg" alt="A video camera is positioned behind a crowd of people seated at a public meeting or conference." caption="" >}}
 
-In support of open government, the U.S. Nuclear Regulatory Commission’s (NRC) expansion of webstreamed meetings has allowed more participants around the country to hear about existing and proposed nuclear sites. It was lauded in a recent [White House Office of Science and Technology Policy (OSTP) blog](http://www.whitehouse.gov/blog/2014/02/28/we-love-it-when-plan-comes-together-0) about the upcoming 2014 Open Government plans and [achievements from past plans]({{< ref "2014-03-10-we-love-it-when-a-plan-comes-together.md" >}}). An agency that prides itself on openness in its regulatory activities, NRC has been webstreaming public meetings since 1997, when the Office of Information Services conducted a “pilot” test of nine Commission meetings to ascertain the interest of stakeholders and the public in viewing these meetings, as they took place over the Internet.
+In support of open government, the U.S. Nuclear Regulatory Commission’s (NRC) expansion of webstreamed meetings has allowed more participants around the country to hear about existing and proposed nuclear sites. It was lauded in a recent [White House Office of Science and Technology Policy (OSTP) blog](http://www.whitehouse.gov/blog/2014/02/28/we-love-it-when-plan-comes-together-0) about the upcoming 2014 Open Government plans and [achievements from past plans](https://digital.gov/2014/03/10/we-love-it-when-a-plan-comes-together/). An agency that prides itself on openness in its regulatory activities, NRC has been webstreaming public meetings since 1997, when the Office of Information Services conducted a “pilot” test of nine Commission meetings to ascertain the interest of stakeholders and the public in viewing these meetings, as they took place over the Internet.
 
 The pilot test garnered such positive response from the public and stakeholders, as it gave the ability to monitor NRC public meetings without having to travel to the NRC HQ campus, that the program was transferred internally to the Audio-Visual group and was implemented in 1999. It was approved as part of an overall effort to make NRC business more accessible and transparent to the public.
 
@@ -33,4 +33,6 @@ Here are a few tips your agency should think about before starting a webstreamin
   
 3. Study/consider the advantages, disadvantages, and cost between providing the service yourself and the cost of contracting the service long term.
 
-You can find the list of upcoming NRC Commission public meetings [including webcast information](http://video.nrc.gov/) on its video portal and also in the [_Federal Register_](https://www.federalregister.gov/agencies/nuclear-regulatory-commission)._**Christine Kundrat** is a Program Analyst and former Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC). **Danita Stenberg** is a Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC)._
+You can find the list of upcoming NRC Commission public meetings [including webcast information](http://video.nrc.gov/) on its video portal and also in the [Federal Register](https://www.federalregister.gov/agencies/nuclear-regulatory-commission).
+
+_**Christine Kundrat** is a Program Analyst and former Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC). **Danita Stenberg** is a Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC)._

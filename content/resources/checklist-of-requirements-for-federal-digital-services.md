@@ -48,7 +48,7 @@ Ensure access for people with disabilities, including motor, auditory, cognitive
 
 - [Section 508 of the Rehabilitation Act of 1973 (29 U.S.C § 794 (d))](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm)
 - [Information and Communication Technology (ICT) Accessibility 508 Standards](https://www.access-board.gov/ict/)
-- [Required Link - Accessibility Statement](https://digital.gov/resources/required-web-content-and-links/?dg#accessibility-statement)
+- [Required Link - Accessibility Statement](https://digital.gov/resources/required-web-content-and-links/#accessibility-statement)
 - [Overview of Section 508 and related laws](https://www.section508.gov/manage/laws-and-policies/)
 - [Governmentwide Section 508 Strategic Plan (2013)](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)
 
@@ -217,7 +217,7 @@ Improve priority customer facing services for mobile use. Shift to an enterprise
 
 Comply with the requirements of Executive Order 13166, based on Title VI of the Civil Rights Act of 1964, which bans discrimination on the basis of national origin.
 
-- [Executive Order 13166, Improving Access to Services for People with Limited English Proficiency]({{< ref "/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166.md" >}})
+- [Executive Order 13166, Improving Access to Services for People with Limited English Proficiency](https://digital.gov/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/)
 - [Department of Justice 2022 Memo Reaffirming the Mandates of EO 13166]({{< ref "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166.md" >}})
 - [Federal Agency LEP Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html) (Department of Justice)
 - [Commonly Asked Questions and Answers Regarding Executive Order 13166](https://www.lep.gov/faq/faqs-executive-order-13166/commonly-asked-questions-and-answers-regarding-executive-order-13166)

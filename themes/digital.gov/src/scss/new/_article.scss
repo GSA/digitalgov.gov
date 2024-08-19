@@ -3,7 +3,7 @@
 // Article
 
 // Base Article Header Styles
-main.header.page-header,
+main.header.dg-page-header,
 main > header,
 section > header,
 article > header {
@@ -58,11 +58,11 @@ article {
   @include u-margin-bottom(5);
 
   header {
-    .authors-list-short {
-      @include u-display("flex");
+    .authors-list--inline {
+      display: flex;
 
       @include at-media("tablet-lg") {
-        @include u-display("none");
+        display: none;
       }
     }
 

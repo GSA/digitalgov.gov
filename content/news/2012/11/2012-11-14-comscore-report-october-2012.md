@@ -1,13 +1,20 @@
 ---
 slug: comscore-report-october-2012
 date: 2012-11-14 14:13:09 -0400
-title: comScore Report, October 2012
-summary: 'In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA’s contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore'
+
+# Redirects: Enter the full URL that this page will point to.
+redirectto: https://digital.gov/guides/site-scanning/
+
+title: "comScore Report, October 2012"
+summary: "In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors."
+
 authors:
   - marina-fox
+
 topics:
   - analytics
   - customer-experience
+
 ---
 
 In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA’s contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore gets its data from representative consumer panels, so the analysis does not include business or government users.
@@ -18,6 +25,6 @@ The analysis of this and other data, such as the [American Customer Satisfaction
 
 The report supports the federal-wide [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}} "DAP: Digital Analytics Program"), which provides tools and guidance to help agencies use digital metrics to add value to their programs and mission. These efforts are part of the larger [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) and [Executive Order on Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser), aimed at transforming how federal agencies improve the customer experience to citizens.
 
-**NOTE: In all cases, the limitations of the methodology used in this report must be taken into consideration. Sites assessed as underperforming may be designed for a specific purpose not fully addressed by this methodology. The categorization of websites may differ from how agencies categorize their online presence. The methodology is not universally applicable to all government websites. Therefore, these results should be used as a starting point for further investigation. The analysis should be understood as comScore&#8217;s own perspective, not the opinions of GSA.  — comScore**
+**NOTE: In all cases, the limitations of the methodology used in this report must be taken into consideration. Sites assessed as underperforming may be designed for a specific purpose not fully addressed by this methodology. The categorization of websites may differ from how agencies categorize their online presence. The methodology is not universally applicable to all government websites. Therefore, these results should be used as a starting point for further investigation. The analysis should be understood as comScore&#8217;s own perspective, not the opinions of GSA. — comScore**
 
 Read the full [comScore Report](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/comscore-best-of-web-report.pdf)  (PDF, 1.2 MB, 26 pages, October 2012)

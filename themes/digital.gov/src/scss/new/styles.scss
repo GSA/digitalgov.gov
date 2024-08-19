@@ -102,12 +102,13 @@
 @forward "read-time";
 @forward "icons";
 @forward "sitewide-alert";
+@forward "see-all-footer";
 
 // Cards
 @forward "card";
-@forward "card-article";
-@forward "card-elsewhere";
+@forward "card-news";
 @forward "card-event";
+@forward "card-job";
 @forward "article";
 @forward "page-head";
 @forward "news";
@@ -127,10 +128,10 @@
 @forward "guides/guide-menu-bar";
 @forward "guides/guide-nav";
 @forward "guides/guide-prev-next";
+@forward "guides/guide-landing";
 
 // Authors lists
 @forward "authors-list";
-@forward "authors-list-short";
 
 // Authors profile
 @forward "author-profile";
@@ -170,11 +171,12 @@
 @forward "shortcodes/highlight";
 @forward "shortcodes/ring";
 @forward "shortcodes/card-policy";
-@forward "shortcodes/card-quote";
+@forward "shortcodes/quote-block";
 @forward "shortcodes/asset-img";
 @forward "shortcodes/card-prompt";
 @forward "shortcodes/termsofservice-compatible";
 
+@forward "footnote";
 @forward "uswds-overrides";
 
 a {

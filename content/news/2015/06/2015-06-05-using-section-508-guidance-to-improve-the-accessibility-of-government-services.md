@@ -1,8 +1,8 @@
 ---
 slug: using-section-508-guidance-to-improve-the-accessibility-of-government-services
 date: 2015-06-05 11:10:22 -0400
-title: Using Section 508 Guidance to Improve the Accessibility of Government Services
-summary: 'Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether procured, developed, or maintained.'
+title: "Using Section 508 Guidance to Improve the Accessibility of Government Services"
+summary: "Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether procured, developed, or maintained."
 authors:
   - jamal-mazrui
 topics:
@@ -171,4 +171,3 @@ Functional Performance Criteria [#Criteria]
   * [VA Course on Testing HTML for Section 508 Compliance](http://www.section508.va.gov/support/html/)
   * [VA Section 508 Checklist for Web-based Internet Information and Applications](http://www.section508.va.gov/docs/1194_22_VASection508_web_checklist.doc) (doc)
   * [VA Web Best Practices Guide](http://www.section508.va.gov/docs/VAWebBestPracticesGuide.pdf) (PDF)
-

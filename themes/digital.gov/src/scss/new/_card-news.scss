@@ -1,0 +1,43 @@
+@use "uswds-core" as *;
+
+.card.card-news--external {
+  grid-template-areas:
+    "c-media c-content"
+    "c-meta c-meta";
+  grid-template-columns: #{units(7)} 1fr;
+
+  .card__summary {
+    margin-top: 0;
+
+    p {
+      font-family: font-family("sans");
+      font-weight: font-weight("normal");
+      line-height: line-height("sans", 3);
+      max-width: none;
+    }
+  }
+
+  .card__source {
+    display: block;
+    margin-top: units("05");
+  }
+
+  .card__media {
+    @include u-square(7);
+
+    order: -1;
+
+    img {
+      border: 1px color("base-lighter") solid;
+      @include u-circle(7);
+
+      @include at-media("mobile-lg") {
+        @include u-circle(7);
+      }
+    }
+  }
+
+  .card__meta {
+    grid-area: c-meta;
+  }
+}

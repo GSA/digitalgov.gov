@@ -1,9 +1,15 @@
 ---
 date: 2020-06-25 09:00:00 -0500
-title: "Guide to the Site Scanning program"
+title: "Understanding the Site Scanning program"
 deck: "A set of daily scans of the federal web presence."
-summary: "A program to automatically generate data about the health and best practices of federal websites."
+summary: "This program is available to automatically generate data about the health and best practices of federal websites."
+
 guide: site-scanning
+image: guide-site-scanning
+layout: single
+guide_weight: 3
+
+# Redirects: Enter the paths of the old URLs that you want redirected to this page.
 aliases:
   - /guide/site-scanning/
   - /site-scanning/
@@ -12,9 +18,22 @@ aliases:
   - /sitescan/
   - /site-scans/
   - /sitescans/
-image: guide-site-scanning
+
+# See all topics at https://digital.gov/topics
+topics:
+  - analytics
+  - budgeting-and-performance
+
+# For social media shares; if not provided, the default Digital.gov logo card appears.
 primary_image: guide-site-scanning
-layout: single
+
+# Controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+# 10, 9, 8, 7, or 6 -- for the five items that appear in the white box on homepage; 10 is first or at the top, and 6 is fifth or last.
+weight: 2
+
 ---
 
 **The Site Scanning program** automates a wide range of scans of public federal websites and generates data about website health, policy compliance, and best practices.
@@ -39,12 +58,12 @@ All scan data can be downloaded directly as a [CSV or JSON file](data/) or acces
 
 Much deeper program detail can be found in the program's [documentation hub](https://github.com/gsa/site-scanning-documentation). The major sections include:
 
-- [About the Program](https://github.com/gsa/site-scanning-documentation#about)
-- [Understanding the Data](https://github.com/gsa/site-scanning-documentation#understanding-the-data)
-- [Program Management Documentation](https://github.com/gsa/site-scanning-documentation#program-management)
+- [About the program](https://github.com/gsa/site-scanning-documentation#about)
+- [Understanding the data](https://github.com/gsa/site-scanning-documentation#understanding-the-data)
+- [Program management](https://github.com/gsa/site-scanning-documentation#program-management)
 
 The creation of the underlying website index is explained in the separate [Federal Website Index repository](https://github.com/GSA/federal-website-index). It includes links to the original datasets, as well as descriptions of how they are assembled and filtered in order to create the list of URLs that are then scanned.
 
-## Contact the Site Scanning Team
+## Contact the Site Scanning team
 
 **Questions?** Email the Site Scanning team at [site-scanning@gsa.gov](mailto:site-scanning@gsa.gov).

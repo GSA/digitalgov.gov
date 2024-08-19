@@ -1,0 +1,14 @@
+@use "uswds-core" as *;
+
+.dg-guides {
+  .usa-card__kicker {
+    color: color("primary-dark");
+    font-weight: font-weight(100);
+    text-transform: uppercase;
+  }
+
+  .usa-card__img {
+    background: none;
+    height: 10rem;
+  }
+}

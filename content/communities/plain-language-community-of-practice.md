@@ -45,7 +45,7 @@ community_list:
     subscribe_email: "pl-cop-main-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Plain Language Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 2,149
+    members: 2,366
     join_cop_button: "Plain Language community members"
 
 kicker: "Join the Plain Language Community"

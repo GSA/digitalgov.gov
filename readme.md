@@ -55,6 +55,9 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 
 #### Prerequisites
 
+Unix-based systems are recommended for development. If you are using Windows, consider using the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) to run a Unix-based system on your machine.
+If you do not have a Unix-based system, you will recieve additional linting errors when running the `npm run lint` commands.
+
 Install [Gulp](https://gulpjs.com/) globally from your terminal command line:
 
 ```bash
@@ -73,7 +76,7 @@ npm -v
 
 Using [Homebrew](https://docs.brew.sh/) is a quick and easy way to install Hugo. [Install Homebrew](https://docs.brew.sh/Installation) before getting started.
 
-#### Install Hugo 0.92.0
+#### Install Hugo 0.123.3
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
@@ -87,8 +90,21 @@ Quickly check your Hugo version at your terminal command line by running:
 hugo version
 ```
 
-**Note:** Digital.gov currently uses Hugo version 0.92.0. This is noted in our [.hugo-version](.hugo-version) file.
-If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legacy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
+**Note:** Digital.gov currently uses Hugo version 0.123.3. This is noted in our [.hugo-version](.hugo-version) file.
+If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: 
+1.  Uninstall the current version with `brew uninstall hugo`
+2.  Visit
+    [<u>https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb</u>](https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb)
+3.  Click the “History” link
+4.  Find the “bottle” commit for the desired version (Ex: 'hugo: update 0.123.3' bottle)
+5.  Press the “View at this point in history” button
+6.  Press the “Raw” button
+7.  Right-click anywhere on the page and choose “Save as…”
+8.  Save hugo.rb to any directory (home, downloads, etc.)
+9.  Open a terminal
+10. CD into the directory where you saved the hugo.rb file
+11. Install with `brew install hugo.rb`
+12. Prevent automatic updates with `brew pin hugo`
 
 #### Setup
 
@@ -162,7 +178,7 @@ Images found in `content/images/inbox/` will be optimized and compressed and sen
 
 **Other helpful HUGO commands:**
 
-- `hugo build` — builds all the pages in the site, without creating a server
+- `hugo` — builds all the pages in the site, without creating a server
 - `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
 - `hugo serve --templateMetricsHints` — for seeing where you can apply caching in templates and speed up the build time
   [See more in the Hugo docs »](https://gohugo.io/commands/hugo/)
@@ -226,3 +242,8 @@ alt=".+?")* >}}
 ^url: .+/([^/]+)\.md
 slug: $1
 ```
+
+### New Features
+- Communities of Practice Job Board
+  - [Development Guide](./themes/digital.gov/layouts/job-board/readme.md)
+  - [Demo](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/kl-job-board-mvp/job-board/)

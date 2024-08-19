@@ -10,7 +10,7 @@ summary: "We deploy small, responsive groups of designers, engineers, product ma
 source: 'usds'
 
 # What is the URL for this product or service?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.usds.gov/"
 
 contact: 'USDS@omb.eop.gov'

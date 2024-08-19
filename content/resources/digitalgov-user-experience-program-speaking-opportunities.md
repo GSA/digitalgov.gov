@@ -33,12 +33,8 @@ Potential audiences include:
 ## Our Recorded Webinars
 
 **User Centered Design** (November 2013)
-
-{{< youtube id="GwBBtTkUAcA" >}}
-
+  
 **Usability Testing and Debriefing Best Practices** (March 2012)
-
-{{< youtube id="n8d8AHQ-lwE" >}}
 
 ## Our Presentations
 

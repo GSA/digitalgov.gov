@@ -11,11 +11,11 @@ summary: "A free hosted search platform for federal websites."
 source: 'searchgov'
 
 # Will this point to an external source URL?
-# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+
 source_url: "https://www.search.gov/"
 
 
-contact: search@support.digitalgov.gov
+contact: search@gsa.gov
 
 # Weight — controls how services appear across the site
 # 2 == will appear as related service (ADs) on blog posts and event pages

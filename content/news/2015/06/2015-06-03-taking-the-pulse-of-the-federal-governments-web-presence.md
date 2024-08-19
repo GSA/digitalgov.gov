@@ -1,11 +1,11 @@
 ---
 slug: taking-the-pulse-of-the-federal-governments-web-presence
 date: 2015-06-03 13:10:57 -0400
-title: 'Taking the Pulse of the Federal Government&#8217;s Web Presence'
-summary: 'The U.S. federal government is launching a new project to monitor how it&#8217;s doing at best practices on the Web. A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s called Pulse and you can find it at pulse.cio.gov. Pulse is a lightweight dashboard that uses the official .gov domain list'
+title: "Taking the Pulse of the Federal Government's Web Presence"
+summary: "The U.S. federal government is launching a new project to monitor how it's doing at best practices on the Web."
 authors:
   - eric-mill
-  - julia-elman
+  - julia-solorzano
   - gray-brooks
   - john-tindel
 topics:
@@ -22,7 +22,7 @@ A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s ca
 
 [Pulse](https://pulse.cio.gov/) is a lightweight dashboard that uses the [official .gov domain list](https://github.com/GSA/data/blob/gh-pages/dotgov-domains/2015-03-15-federal.csv) to measure two things:
 
-  * [Analytics](https://pulse.cio.gov/analytics/domains/): Whether federal executive branch domains are participating in the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) that powers [analytics.usa.gov](https://analytics.usa.gov/).
+  * [Analytics](https://pulse.cio.gov/analytics/domains/): Whether federal executive branch domains are participating in the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) that powers [analytics.usa.gov](https://analytics.usa.gov/).
   * [HTTPS](https://pulse.cio.gov/https/domains/): Whether federal domains have deployed the [HTTPS protocol](https://https.cio.gov/faq/), and how well they&#8217;ve done it.
 
 These two things are just a start—there are a lot of other important things worth measuring! It&#8217;s also important to note that Pulse is currently only measuring parent domains (e.g. agency.gov) and is _not_ measuring subdomains (e.g. portal.agency.gov).
@@ -64,9 +64,9 @@ The process is not fully automated, and so Pulse isn&#8217;t updated every day. 
 
 [{{< legacy-img src="2015/06/600-x-181-analytics.jpg" alt="600-x-181-analytics" >}}](https://pulse.cio.gov/analytics/domains/)
 
-The [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
+The [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
 
-To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls]({{< ref "common-questions-about-dap.md#data-access-retention-and-privacy" >}}) that anonymize visitor addresses and restrict data sharing.
+To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls](https://digital.gov/guides/dap/common-questions-about-dap/) that anonymize visitor addresses and restrict data sharing.
 
 Access to the account is shared within the federal government, and much of its data is shared publicly on [analytics.usa.gov](https://analytics.usa.gov/). DAP also regularly publishes a list of around 4,000 participating websites that have reported visitor data in the preceding 2 weeks.
 
@@ -88,7 +88,7 @@ We lean heavily on the open source [site-inspector](https://github.com/benbalter
 
 To get the precision we wanted, we needed to take into account several subtle things about domains:
 
-  * Domains have 4 possible &#8220;endpoints&#8221;—https://www, https://, http://www, and http://—which may each exhibit very different behavior.
+  * Domains have 4 possible &#8220;endpoints&#8221;—`https://www`, `https://`, `http://www`, and `http://`—which may each exhibit very different behavior.
   * Describing a domain&#8217;s HTTPS support means detecting which endpoint is &#8220;canonical,&#8221; as well as looking holistically at which endpoints redirect to others.
   * A domain&#8217;s HTTPS certificate might be issued for an invalid hostname (e.g. a248.e.akamai.net). In this case, HTTPS is likely an **unsupported** way to access the domain.
   * A domain&#8217;s HTTPS certificate might have an incomplete or untrusted chain (e.g. missing intermediates, or a private root certificate), in which case HTTPS is likely a **supported** way to access the domain.
@@ -107,5 +107,8 @@ We&#8217;re still in the process of fully documenting the tools we used. If you&
 
 Pulse is clearly a small and simple website, but we think it&#8217;s a promising foundation for celebrating (and motivating) the U.S. government&#8217;s progress on making world-class websites and online services.
 
-We&#8217;re thrilled we had the opportunity to work with the Office of Government-wide Policy here at GSA to get Pulse started, and we hope others find it useful. Feel free to [leave feedback](https://github.com/18F/pulse/issues/new) on the project so far, and where to take Pulse next!_Eric Mill, Julia Elman, and Gray Brooks work at 18F. John Tindel works in the Office of Government-wide Policy._
+We&#8217;re thrilled we had the opportunity to work with the Office of Government-wide Policy here at GSA to get Pulse started, and we hope others find it useful. Feel free to [leave feedback](https://github.com/18F/pulse/issues/new) on the project so far, and where to take Pulse next!
+
+_Eric Mill, Julia Solórzano, and Gray Brooks work at 18F. John Tindel works in the Office of Government-wide Policy._
+
 _This article was originally posted on the [18F blog](https://18f.gsa.gov/2015/06/02/taking-the-pulse-of-the-federal-governments-web-presence/)._
