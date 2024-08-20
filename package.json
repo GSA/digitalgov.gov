@@ -90,6 +90,9 @@
     "gulp-responsive": {
       "sharp": "0.32.6"
     },
-    "glob-parent": "6.0.2"
+    "glob-parent": "6.0.2",
+    "eslint": {
+      "file-entry-cache": "8.x"
+    }
   }
 }
