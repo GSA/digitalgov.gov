@@ -35,14 +35,15 @@ event_platform: adobe_connect
 # YouTube ID
 youtube_id: 
 
-
-
 # Make it better ♥
 
 ---
+
 {{< note >}}This event is for federal government employees only; you must have a **.gov** or **.mil** email address to register!{{< /note >}}
 
-**Moderator: Shila Cooch, OMB** 
+## Moderator
+
+### Shila Cooch, OMB
 
 Shila Cooch, an 18-year civil servant of the U.S. Federal Government, is recognized as an accomplished government technology and policy executive who expertly manages monumental organizational change - currently serving under the Federal Chief Information Officer (CIO), in the White House Office of Management and Budget (OMB).
 
@@ -52,7 +53,9 @@ Previously, Shila served as the Chief of Staff for the Department of Homeland Se
 
 When not working, Shila can often be found cheering for her children at sporting events.
 
-**Panelist #1: Kyra Stewart, GSA** 
+## Panelists
+
+### Kyra Stewart, GSA
 
 Kyra M. Stewart serves as the Team Lead for the Technology Business Management (TBM) Program Management Office (PMO) at the General Services Administration. In this role, she supports TBM Implementation across the Federal government. With more than $90 billion spent on Federal IT each year, her work is integral to increasing cost transparency and enabling better data-driven decision making. As part of GSA’s Office of Governmentwide Policy, the TBM PMO partners with OMB to identify best practices, understand agency needs, and establish related guidance and policy. Ms. Stewart originally came to GSA when she was selected as 1 of 14 White House Leadership Development Program (WHLDP) Fellows in 2017. As a Fellow, Kyra staffed the Federal IT Spending Transparency Cross-Agency Performance (CAP) Goal team, part of the President’s Management Agenda.
 
@@ -60,12 +63,12 @@ Ms. Stewart was selected for WHLDP by the Department of Transportation where she
 
 Ms. Stewart holds a Master of Public Administration from American University’s Key Executive program and a bachelor’s degree in economics from the University of Virginia. She was an INROADS scholar. Kyra lives in Washington, DC with her husband, son, daughter, and two dogs.
 
-**Panelist #2: Rotimi Abimbola, DOI** 
+### Rotimi Abimbola, DOI
 
 Rotimi Abimbola serves as the Chief of Staff to the Chief Information Officer (CIO) at the U.S. Department of the Interior. In this capacity she works alongside the CIO to bridge the gap between technical and non-technical communities and support mission functions. Rotimi embraces the opportunity to utilize technology as an enabler and a resource to empower and equip staff and citizens with the resources they need.
 
 Rotimi is always interested in identifying solutions that are designed to effectively meet the complex mission needs of our workforce and end-user population.
 
-**Panelist #3: Sarah Moffat, VA** 
+### Sarah Moffat, VA
 
 Sarah Moffat is a talent development expert, an ideator, and strategic initiator. Sarah’s passion is working with people, strengthening the culture of learning and leadership development, and finding new ways to engage, empower, and excite learners. When leading teams, Sarah employs transformational and servant leadership to engage them and create space for team members to build their strengths and contribute in a way that brings fulfillment and job satisfaction. Sarah has more than 15 years in talent development, a B.S. in Psychology, and is an Independent Certified Coach, Teacher, Trainer, and Speaker with the John Maxwell Team.
