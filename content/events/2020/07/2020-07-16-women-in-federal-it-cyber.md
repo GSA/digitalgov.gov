@@ -1,6 +1,7 @@
 ---
-# View this page at https://digital.gov/event/2020/07/women-in-federal-it-cyber
+# View this page at https://digital.gov/event/2020/07/16/women-in-federal-it-cyber/
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: women-in-federal-it-cyber
 title: "Women In Federal IT & Cyber Conference Panel Discussion #2: Expanding Our Network"
 deck: ""
@@ -42,13 +43,13 @@ As leaders, how do you reach out and connect with the right people to expand you
 
 You can expect to come away with tips for:
 
- 1. strategies to expand your network;
- 2. working with individuals from other functions and perspectives; and
- 3. creating opportunities that not only expand your network, but expand your thinking.
+1. strategies to expand your network;
+2. working with individuals from other functions and perspectives; and
+3. creating opportunities that not only expand your network, but expand your thinking.
 
 ## Presenters: 
  
- **Moderator: Ravoyne "Ray" Payton, USDA**
+### Moderator: Ravoyne "Ray" Payton, USDA
 
 Ms. Payton is Associate Chief Information Officer (ACIO) for the Information Resource Management Center (IRMC). As the IRMC ACIO, she is responsible for Capital Planning and IT Governance, Enterprise Architecture, e-Government, Information Management, IT Policy/IT Strategic Planning and Section 508 Compliance.
 
@@ -58,7 +59,7 @@ Prior to joining USDA, Ms. Payton worked at the United States Small Business Adm
 
 Ms. Payton is a graduate of George Mason University and Troy State University. She holds a Bachelor’s in Government and Political Science and a Master’s in Public Administration with an emphasis in IT.
 
-**Panelist #1: Karen Matragrano, DOI**
+### Panelist #1: Karen Matragrano, DOI
 
 Karen Matragrano began her federal career at DOI in 2005 with the Interior Business Center (IBC) working as a management and program analyst for the Appraisal Services Directorate. Ms. Matragrano worked in numerous organizations in the IBC on process improvement and budget and administrative management before taking on the role of project manager for the Customer Support Center (CSC) as a project manager in 2009.
 
@@ -68,11 +69,11 @@ Ms. Matragrano was named Service Delivery Director in 2016, leading the largest 
 
 Ms. Matragrano received her B.A. in International Relations from American University in Washington, DC and her MBA from the University of Maryland.
 
-**Panelist #2: Wanda Jones-Heath, DoD**
+### Panelist #2: Wanda Jones-Heath, DoD
 
 Ms. Wanda Jones-Heath is the Chief Information Security Officer for the Office of the Deputy CIO, Office of the Secretary of the Air Force. She leads a Directorate composed of military, civilian, and contractor personnel responsible for developing Air Force Cybersecurity strategy and policy for over 5,000 Air Force Information Technology systems. She also manages the Air Force’s transition to the Risk Management Framework and provides oversight for the freedom of information act and privacy act laws. Ms. Jones-Heath manages oversight for the protect portfolio, including operating system lifecycle management and capabilities for the Comply to Connect program. She delivers cryptographic modernization across the Air Force with implementing the enterprise-wide cross domain solution and cryptographic information technology standards. Ms. Jones-Heath graduated from the University of South Carolina in 1990 with a degree in Computer Science. She began her Civil Service career as a Palace Acquire Intern as an Information Systems Specialist in various functional areas. She moved to Headquarters Air Combat Command, Langley Air Force Base, Virginia, in 1993. There she held positions responsible for policy and guidance for security and network systems. Prior to arriving at the Headquarters Air Force staff, Ms. Jones-Heath was the Program Manager, Defense Information Systems Agency. Ms. Jones-Heath led the effort to establish a DoD Mobile capability to include infrastructure. Her joint experience includes working in various positions at Ramstein Air Base, Germany.
 
-**Panelist #3: Nancy Kreidler, DoD**
+### Panelist #3: Nancy Kreidler, DoD
 
 Ms. Nancy Kreidler was selected for the Senior Executive Service and assumed her duties as the Director of Cybersecurity and Information Assurance at the Headquarters, Department of the U.S. Army, CIO/G-6 in March 2019.
 
@@ -88,10 +89,10 @@ She has an Executive Certificate in Leadership Coaching from Georgetown Universi
 
 ---
 
-**Related Links:**
+## Related Links
 
- - [CIO Website](https://www.cio.gov/)
+- [CIO Website](https://www.cio.gov/)
  
- ---
+---
  
- *The Women in Federal IT and Cyber series of virtual engagements is hosted by the Chief Information Officer Council (CIOC) and Digital.gov.*
+*The Women in Federal IT and Cyber series of virtual engagements is hosted by the Chief Information Officer Council (CIOC) and Digital.gov.*

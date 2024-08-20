@@ -13,16 +13,14 @@ summary: "Web analytics provide valuable insights into how users interact with a
 aliases:
   - /topics/analytics-usa-gov
   - /topics/data/
-
-# Weight
-weight: 2
-
-aliases:
   - /topics/big-data/
   - /topics/dap/
   - /topics/digital-analytics-program/
   - /topics/google-analytics/
   - /topics/metrics/
+
+# Weight
+weight: 2
 
 # Set the legislation card title and link
 legislation:

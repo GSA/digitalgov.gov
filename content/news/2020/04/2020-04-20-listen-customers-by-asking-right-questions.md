@@ -22,12 +22,10 @@ authors:
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk2"
-
 # Make it better ♥
-
 ---
 
-{{< card-quote text="If you do not know how to ask the right question, you discover nothing." cite="W. Edwards Deming" >}}
+{{< quote-block text="If you do not know how to ask the right question, you discover nothing." cite="W. Edwards Deming" >}}
 
 {{< img-right src="this-weeks-idea-icon-wk2" >}}
 
@@ -63,7 +61,7 @@ Also, follow these [tips for starting your customer experience journey](https://
 
 The good news is that there are several tools available to gather feedback. Here are a few tools to help you get started:
 
-- **[Digital Analytics Program (DAP)](https://digital.gov/services/dap/)**  - An analytics tool for measuring digital services in the federal government. It also powers [analytics.USA.gov](http://analytics.USA.gov), which offers a quick window into your website. (Note, [M-17-06 requires DAP](https://digital.gov/guides/dap/common-questions-about-dap#implementation) on all federal executive branch public-facing websites.)
+- **[Digital Analytics Program (DAP)](https://digital.gov/services/dap/)** - An analytics tool for measuring digital services in the federal government. It also powers [analytics.USA.gov](http://analytics.USA.gov), which offers a quick window into your website. (Note, [M-17-06 requires DAP](https://digital.gov/guides/dap/common-questions-about-dap#implementation) on all federal executive branch public-facing websites.)
 - **[Search.gov](https://www.search.gov/)** - A hosted search platform for federal websites, which helps you understand what your customers may be looking for on your product. (Note, [M-17-06 requires a search function](https://search.gov/about/policy/) on all federal executive branch public-facing websites with content intended for public use.)
 - **Customer Experience Surveys** - [OMB Circular A-11, Preparation, Submission, and Execution of the Budget (for Fiscal Year 2025) (PDF, 12.1 MB, 1,070 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf) provides a framework for product surveys to help you focus on seven dimensions of experience when you query your customers. USDA has published its guidance on [how to create an A-11 survey](https://www.usda.gov/digital-strategy/research/plays#research2).
 - **[18F Methods](https://methods.18f.gov/)** - A list of research methods to help you bring human-centered design into each phase of your project, including potential tools for each step.
@@ -94,8 +92,8 @@ When we listen, we learn. We’d like your help in learning what actions federal
 
 {{< card-prompt intro="**In your words, help us complete this sentence.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button-text="Submit your answers" button-url="https://github.com/GSA/digitalgov.gov/issues/2415">}}
 
-> 1. To build a greater understanding of the problem and the people it impacts, we need to _____________.
-{{< /card-prompt >}}
+> 1. To build a greater understanding of the problem and the people it impacts, we need to ******\_******.
+>    {{< /card-prompt >}}
 
 We’ll be taking your answers and using them to create content on Digital.gov to provide you with the guidance and tools you need.
 

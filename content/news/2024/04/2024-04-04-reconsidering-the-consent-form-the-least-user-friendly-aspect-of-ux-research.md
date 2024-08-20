@@ -8,7 +8,6 @@ deck: The Open Data, Design, and Development (ODDD) team has replaced signed con
 summary: The Open Data, Design, and Development (ODDD) team has replaced signed consent forms with a more accessible user research agreement process, offering multiple opt-in points. This ensures informed consent and participant autonomy. Explore why and how the ODDD team implemented this comprehensive participant consent process in their user research.
 # See all topics at https://digital.gov/topics
 topics:
-  - user-centered-design
   - human-centered-design
   - research
   - plain-language

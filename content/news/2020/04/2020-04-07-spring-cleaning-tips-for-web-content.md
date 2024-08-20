@@ -24,12 +24,10 @@ authors:
 
 # primary Image (for social media)
 primary_image: "this-weeks-idea-card-wk3"
-
 # Make it better ♥
-
 ---
 
-{{< card-quote text="Dispose of anything that does not fall into one of three categories: currently in use, needed for a limited period of time, or must be kept indefinitely." cite="Marie Kondo" >}}
+{{< quote-block text="Dispose of anything that does not fall into one of three categories: currently in use, needed for a limited period of time, or must be kept indefinitely." cite="Marie Kondo" >}}
 
 {{< img-right src="this-weeks-idea-icon-wk3" >}}
 

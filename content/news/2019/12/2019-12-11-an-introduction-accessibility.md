@@ -3,7 +3,7 @@ slug: an-introduction-accessibility
 date: 2019-12-11 09:11:00 -0500
 kicker: "This Week's IDEA"
 title: "An Introduction to Accessibility"
-summary: 'This week, we&#39;re taking at look at how to reframe our approach to encouraging others to build with accessibility&#46;'
+summary: "This week, we&#39;re taking at look at how to reframe our approach to encouraging others to build with accessibility&#46;"
 authors:
   - jeremyzilar
   - toni-bonitto
@@ -14,11 +14,10 @@ topics:
 
 featured_image:
   uid: this-weeks-idea-card
-  alt: ''
-
+  alt: ""
 ---
 
-{{< card-quote text="We need to make every single thing accessible to every single person with a disability." cite="Stevie Wonder" >}}
+{{< quote-block text="We need to make every single thing accessible to every single person with a disability." cite="Stevie Wonder" >}}
 
 We all know that building accessible products and services is fundamental toward building trust and serving the broadest possible definition of the public.
 
@@ -42,4 +41,4 @@ We hope you’ll use resource this to onboard someone to the topic of accessibil
 
 Huge shout-out to **Robert Jolly, a Product Manager at 18F** who recently took on the task of updating the [18F Accessibility Guide](https://accessibility.18f.gov/) to USWDS 2.0 from USWDS 1.0. Along the way, Robert stated, “I’m not an engineer by trade/title!” yet found his way through the guidance and made it happen.
 
-_“Thanks for all the great work y’all are doing&mdash;it’s extremely helpful and sorely needed in the federal government.”_ — **Steven “Shep” Shepherd**, who works in the Policy and Legislative Initiatives Division at the U.S. Department of Housing and Urban Development (HUD) and is working with to revise their existing web forms using [USWDS](https://designsystem.digital.gov/) 2.0. 
+_“Thanks for all the great work y’all are doing&mdash;it’s extremely helpful and sorely needed in the federal government.”_ — **Steven “Shep” Shepherd**, who works in the Policy and Legislative Initiatives Division at the U.S. Department of Housing and Urban Development (HUD) and is working with to revise their existing web forms using [USWDS](https://designsystem.digital.gov/) 2.0.

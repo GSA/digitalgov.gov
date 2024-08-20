@@ -22,7 +22,6 @@ primary_image: green-structured-unstructured-data-iceberg-chavapong-prateep-na-t
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
 ---
 
 Agencies rely on customer experience surveys to collect critical feedback about how their services and products are working for the public. Some services across the government have been designated as `high impact` because they have an extensive customer base or a profound impact on the individuals they serve.
@@ -40,7 +39,7 @@ When customers answer survey questions like `Were you satisfied?`, the structure
 GSA’s Analytics and Decision Support Division within the Office of the Chief Financial Officer sought to dive deeper into this unstructured data to gain richer insights into the customer experiences with two different services at the [Department of Labor](https://www.dol.gov/): an in-person service, and an online, digital-based service. We set out to answer two questions:
 
 1. **What's driving customer satisfaction?** Beyond surface-level metrics and aggregated scores, we wanted to pinpoint specific elements and features that resonate positively with users. Using natural language processing, especially techniques like `topic modeling`, we sought to discover hidden themes and sentiments. The goal was not only to identify these themes but to understand their correlation with satisfaction levels and potential pain points.
-2. **Are there varied experiences across customer types?** With the digital service catering to a broad spectrum of users, it was important to discern variations in experiences. Key questions posed included: *Do different user categories experience similar challenges? Is the level of satisfaction consistent across the board?* Comprehensive analysis and statistical tests of ratings – segmented by user groups and coupled with deep dives into their responses via natural language processing – enabled us to discern these differences, offering insights into the distinct journeys and experiences of various users.
+2. **Are there varied experiences across customer types?** With the digital service catering to a broad spectrum of users, it was important to discern variations in experiences. Key questions posed included: _Do different user categories experience similar challenges? Is the level of satisfaction consistent across the board?_ Comprehensive analysis and statistical tests of ratings – segmented by user groups and coupled with deep dives into their responses via natural language processing – enabled us to discern these differences, offering insights into the distinct journeys and experiences of various users.
 
 In our efforts to support High-impact Service Providers in analyzing and understanding their data, we created a [dashboard to decode public sentiment](https://digital.gov/2023/10/30/decoding-public-sentiment-harnessing-open-data-to-gain-insights-into-service-delivery/) and a [reusable code repository](https://github.com/GSA/GovCXAnalyzer). The code repository provides the statistical and text analysis methods we describe in this blog post.
 
@@ -61,22 +60,23 @@ Additionally, our analysis uncovered a critical issue with survey design that im
 In response to this finding, we proposed a survey redesign to accurately capture customer experience. We suggested rephrasing the questions in the following formats:
 
 {{< box >}}
+
 1. Do you agree or disagree with the following statement:<br />"The information I needed to complete \[service] was easy to find and understand."
 
-* Strongly Agree
-* Agree
-* Neutral
-* Disagree
-* Strongly Disagree
+- Strongly Agree
+- Agree
+- Neutral
+- Disagree
+- Strongly Disagree
 
 2. On a scale of 1-5 (with 1 being very difficult and 5 being very easy), please rate your ease of finding the information you needed to complete \[service].
 
-* 1 (very difficult)
-* 2
-* 3
-* 4
-* 5 (very easy)
-{{< /box >}}
+- 1 (very difficult)
+- 2
+- 3
+- 4
+- 5 (very easy)
+  {{< /box >}}
 
 By clarifying the phrasing of the question and explicitly labeling the rating scale, these questions aim to prevent misunderstandings and improve the quality of the data collected.
 
@@ -84,20 +84,20 @@ By clarifying the phrasing of the question and explicitly labeling the rating sc
 
 As mentioned earlier, GSA’s Analytics and Decision Support Division within the Office of the Chief Financial Officer applied natural language processing techniques to customer survey data from two services at the Department of Labor: an in-person service and an online, digital-based service.
 
-{{< card-quote text="...\[GSA] was able to look at the data we had collected, along with additional data they collected, and provide us insights into our program that gave us a roadmap to really improve the customer experience..\[Their analysis] provided us with an excellent summary of their findings, and some concrete actions we could take to improve our interactions with both our internal and external stakeholders. At the same time that \[GSA] was analyzing our processes and data, we were working on a project to modernize our program. The recommendations from \[the analysis] dovetailed well with our own discoveries during this process and provided support for making changes...we intend to investigate those recommendations further and incorporate them in the upcoming fiscal year, where we can." cite="Department of Labor HISP Customer Experience manager (in-person service)" >}}
+{{< quote-block text="...\[GSA] was able to look at the data we had collected, along with additional data they collected, and provide us insights into our program that gave us a roadmap to really improve the customer experience..\[Their analysis] provided us with an excellent summary of their findings, and some concrete actions we could take to improve our interactions with both our internal and external stakeholders. At the same time that \[GSA] was analyzing our processes and data, we were working on a project to modernize our program. The recommendations from \[the analysis] dovetailed well with our own discoveries during this process and provided support for making changes...we intend to investigate those recommendations further and incorporate them in the upcoming fiscal year, where we can." cite="Department of Labor HISP Customer Experience manager (in-person service)" >}}
 
 **Highlights from the in-person service deep dive analysis**
 
-* **Understanding high satisfaction drivers**: Customers reported overwhelmingly high satisfaction, with the majority of survey respondents rating the service at 4 or 5. Free-text offered important context because there was a lack of variation in the numerical customer ratings. Sentiment analysis highlighted employee interactions (people factor) and the perceived service quality as the primary drivers behind positive customer experience. Customer free-text responses praised Department of Labor personnel for their helpfulness, dedication, and competence.
-* **Efficiency challenges**: Despite the high satisfaction ratings, analysis of the free-text responses revealed issues with the speed and efficiency of the service. In particular, customers highlighted delays in the notification process. Additional analysis revealed that certain industry sectors felt these pain points more acutely than others. Based on these findings, we recommended that the service:
-   * Establish clear benchmarks for each stage of the process to identify and address inefficiencies,
-   * Notify customers upfront about expected timeframes (particularly if lengthy) to set accurate expectations and alleviate user anxieties.
+- **Understanding high satisfaction drivers**: Customers reported overwhelmingly high satisfaction, with the majority of survey respondents rating the service at 4 or 5. Free-text offered important context because there was a lack of variation in the numerical customer ratings. Sentiment analysis highlighted employee interactions (people factor) and the perceived service quality as the primary drivers behind positive customer experience. Customer free-text responses praised Department of Labor personnel for their helpfulness, dedication, and competence.
+- **Efficiency challenges**: Despite the high satisfaction ratings, analysis of the free-text responses revealed issues with the speed and efficiency of the service. In particular, customers highlighted delays in the notification process. Additional analysis revealed that certain industry sectors felt these pain points more acutely than others. Based on these findings, we recommended that the service:
+  - Establish clear benchmarks for each stage of the process to identify and address inefficiencies,
+  - Notify customers upfront about expected timeframes (particularly if lengthy) to set accurate expectations and alleviate user anxieties.
 
 **Highlights from the website service deep dive analysis**
 
-* **Varied experience across customer segments**: Customer segments interacted with the platform differently, leading to remarkably varied feedback scores. One customer segment in particular reported a less satisfactory experience across most of the survey prompts. Their main pain points revolved around the perceived absence of required services in certain geographic areas, and the platform's complexity. The insight indicates that they may require a user-specific interface or website page to address a perceived lack of clear information and/or service availability. Other customer segments had much more positive experiences in comparison. Testimonials such as, “I have been using this website for a couple of years... It has been very helpful,” highlighted their positive journey. They expressed genuine appreciation for the resources provided, often citing specific tools and pages the platform offers.
-* **Emotion as a key dimension**: For users with complex information needs, such as searching for information on federal disaster assistance and unemployment benefits, emotion played a pivotal role in their customer experience. When these users didn’t find solutions to their challenges, they often expressed stronger negative emotions and broader frustrations that went beyond the platform to include the entire U.S. government. This aligns with the [Recovering from a Disaster](https://www.performance.gov/cx/life-experiences/recovering-from-a-disaster) project on Performance.gov, which focuses on developing trauma-informed communication guidelines. The project aims to provide agency staff with the knowledge, skills, and support for a trauma-informed approach, enhancing the recovery experience for disaster-impacted individuals. It also introduces a holistic methodology to calculate the end-to-end burden on users, considering psychological and learning costs. Adopting these practices in customer service is highly recommended, especially for federal services that are serving customers in challenging situations.
-* **Emergent theme from analyzing customer responses**: Topic modeling identified a theme in the text feedback around outdated content and broken links. For this web-based service, we recommended leveraging the user feedback to identify and prioritize areas for content updates.
+- **Varied experience across customer segments**: Customer segments interacted with the platform differently, leading to remarkably varied feedback scores. One customer segment in particular reported a less satisfactory experience across most of the survey prompts. Their main pain points revolved around the perceived absence of required services in certain geographic areas, and the platform's complexity. The insight indicates that they may require a user-specific interface or website page to address a perceived lack of clear information and/or service availability. Other customer segments had much more positive experiences in comparison. Testimonials such as, “I have been using this website for a couple of years... It has been very helpful,” highlighted their positive journey. They expressed genuine appreciation for the resources provided, often citing specific tools and pages the platform offers.
+- **Emotion as a key dimension**: For users with complex information needs, such as searching for information on federal disaster assistance and unemployment benefits, emotion played a pivotal role in their customer experience. When these users didn’t find solutions to their challenges, they often expressed stronger negative emotions and broader frustrations that went beyond the platform to include the entire U.S. government. This aligns with the [Recovering from a Disaster](https://www.performance.gov/cx/life-experiences/recovering-from-a-disaster) project on Performance.gov, which focuses on developing trauma-informed communication guidelines. The project aims to provide agency staff with the knowledge, skills, and support for a trauma-informed approach, enhancing the recovery experience for disaster-impacted individuals. It also introduces a holistic methodology to calculate the end-to-end burden on users, considering psychological and learning costs. Adopting these practices in customer service is highly recommended, especially for federal services that are serving customers in challenging situations.
+- **Emergent theme from analyzing customer responses**: Topic modeling identified a theme in the text feedback around outdated content and broken links. For this web-based service, we recommended leveraging the user feedback to identify and prioritize areas for content updates.
 
 The comprehensive analysis provided a rich and detailed picture of user sentiment, allowing for targeted recommendations for improving the online platform's user experience across diverse customer segments. We’re continuing to partner with this Department of Labor service to perform a [Voice of the Customer](https://www.performance.gov/policies/terms/cx/#voc) analysis that goes beyond the survey data to look at unsolicited feedback from customers, such as emails and chat messages.
 

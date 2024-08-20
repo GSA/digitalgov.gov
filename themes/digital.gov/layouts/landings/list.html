@@ -5,8 +5,8 @@
       <div class="dg-landing__hero-text">
         <h1>{{- .Params.title -}}</h1>
         <a href="#content-start" class="usa-button usa-button--big"
-          >Get Started
-        </a>
+          >Get Started</a
+        >
       </div>
     </header>
     <article class="dg-landing__body grid-container grid-container-desktop">
@@ -17,30 +17,26 @@
       <ul class="usa-card-group" id="content-start">
         {{- range .Pages -}}
           <li class="usa-card tablet:grid-col-4">
-            <div class="usa-card__container">
-              <div class="usa-card__media usa-card__media--indent">
-                <div class="usa-card__img">
-                  {{- partial "core/img-flexible.html" (dict "Site" .Site "src" .Params.image "small" "true") -}}
-                </div>
-              </div>
-              <div class="usa-card__header">
-                <h2 class="usa-card__heading">
-                  {{- .Title | markdownify -}}
-                </h2>
-              </div>
-              <div class="usa-card__body">
-                <p>{{- .Params.summary | markdownify -}}</p>
-              </div>
-              <div class="usa-card__footer">
-                <a href="{{- .Permalink | absURL -}}" class="usa-button"
-                  >Explore {{ .Title | markdownify | lower }}</a
-                >
-              </div>
-            </div>
+            {{- $image := .Params.image -}}
+            {{- $layout := "no-image" -}}
+            {{- if $image -}}
+              {{- $layout = "has-image" -}}
+            {{- end -}}
+            {{ $cardData := (dict
+              "header" .Title
+              "body" .Params.summary
+              "link" (.Permalink | absURL)
+              "link_title" (print "Explore " (.Title | markdownify | lower))
+              "layout" $layout
+              "site" .Site
+              "image" $image
+              )
+            }}
+            {{- partial "core/usa-card.html" (dict "card_data" $cardData) -}}
           </li>
         {{- end -}}
       </ul>
-      {{- if .Params.additional_resources }}
+      {{- if .Params.additional_resources -}}
         {{- partial "core/render-markdown.html" (dict "Site" .Site "file" $.Params.additional_resources) -}}
       {{- end -}}
       {{- partial "core/attribution.html" . -}}
