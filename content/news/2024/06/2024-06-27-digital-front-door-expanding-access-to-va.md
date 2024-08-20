@@ -15,7 +15,6 @@ topics:
   - content-strategy
   - design
   - human-centered-design
-  - user-centered-design
   - trust
   - best-practices
 slug: digital-front-door-expanding-access-to-va

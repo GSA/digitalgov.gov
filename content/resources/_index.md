@@ -54,7 +54,6 @@ resource_topics:
     - human-centered-design
     - information-architecture
     - usability
-    - user-centered-design
     - user-experience
   operations:
     - acquisition

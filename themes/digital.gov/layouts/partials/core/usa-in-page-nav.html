@@ -1,0 +1,20 @@
+<!-- 
+  This Partial creates an in-page navigation component and a content area using USWDS
+  The component includes a sidebar for navigation and a content section where the main content is displayed.
+  - The `usa-in-page-nav-container` class wraps the entire structure.
+  - The `usa-in-page-nav` class and its attributes are used to set up the in-page navigation sidebar.
+  - The `data-root-margin` sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
+    The values set ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
+  - The `data-title-heading-level` attribute determines the heading level for the navigation titles.
+-->
+
+<div class="usa-in-page-nav-container">
+  <aside
+    class="usa-in-page-nav"
+    data-title-heading-level="h3"
+    data-root-margin="-350px 0px -350px 0px"
+  ></aside>
+  <div class="content usa-prose">
+    {{- .Content -}}
+  </div>
+</div>

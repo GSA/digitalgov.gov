@@ -8,7 +8,6 @@ authors:
 topics:
   - product-and-project-management
   - accessibility
-  - user-centered-design
   - human-centered-design
   - user-experience
 

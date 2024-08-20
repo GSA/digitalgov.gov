@@ -12,7 +12,6 @@ topics:
   - accessibility
   - best-practices
   - human-centered-design
-  - user-centered-design
   - crowdsourcing-and-citizen-science
 slug: case-study-increasing-access-to-required-bankruptcy-meetings
 # Controls how this page appears across the site

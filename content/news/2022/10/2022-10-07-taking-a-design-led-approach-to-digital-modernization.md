@@ -24,7 +24,6 @@ primary_image: "gsa-logo-blue-bg-1200-x-630"
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
 ---
 
 How does an 11,000-person organization with a large portfolio of websites and dozens of lines of business manage its digital footprint?
@@ -56,7 +55,7 @@ That may sound easy; data is everywhere, especially in an agency with such a bro
 
 That’s why we created brief (approximately 200-word) [plain language](https://www.plainlanguage.gov/) narratives in which we explain the data, contextualize it, and provide recommendations for action. The best part is, the teams we’ve advised have been very appreciative, often fast-tracking recommendations so that they can enhance their websites to better serve the actual people - our customers - who use them.
 
-{{< card-quote text="Thank you so much for sharing the report. I am excited to review and bring this back to my team so we can improve our site. I appreciate the work the Enterprise Digital Experience team is doing! I'll be sure to update your team as we make progress towards your recommendations to meet agency goals." cite="GSA web manager" >}}
+{{< quote-block text="Thank you so much for sharing the report. I am excited to review and bring this back to my team so we can improve our site. I appreciate the work the Enterprise Digital Experience team is doing! I'll be sure to update your team as we make progress towards your recommendations to meet agency goals." cite="GSA web manager" >}}
 
 Building an interdisciplinary team and building on what you have is tough. Working on modernization efforts in the federal conte xt is even tougher. But it’s possible with an empathetic and collaborative approach. We call it design-led, and we know it’s possible in every agency.
 

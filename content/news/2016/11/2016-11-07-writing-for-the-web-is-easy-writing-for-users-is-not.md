@@ -13,7 +13,6 @@ topics:
   - communication
   - accessibility
   - plain-language
-  - user-centered-design
   - human-centered-design
 ---
 
