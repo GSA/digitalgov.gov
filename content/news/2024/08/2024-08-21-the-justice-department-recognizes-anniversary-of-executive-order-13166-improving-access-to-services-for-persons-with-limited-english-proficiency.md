@@ -3,8 +3,8 @@
 source_url: https://www.justice.gov/opa/pr/justice-department-statement-anniversary-executive-order-13166-improving-access-services
 source: doj
 date: 2024-08-12 00:00:00 -0500
-title: The Justice Department recognizes anniversary of Executive Order 13166
-  Improving Access to Services for Persons with Limited English Proficiency
+title: "The Justice Department recognizes anniversary of Executive Order 13166:
+  Improving Access to Services for Persons with Limited English Proficiency"
 deck: The Justice Department marked the 24th anniversary of Executive Order
   13166, which aims to improve access to federal services for individuals with
   limited English proficiency (LEP). The Civil Rights Division reviewed language
