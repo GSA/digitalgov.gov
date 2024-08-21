@@ -59,6 +59,12 @@
 {{ $isExternal := false }}
 
 
+
+
+
+
+
+
 {{/* Check if page is an external link, otherwise return a hugo page object */}}
 {{ if or (strings.HasPrefix $resource.link "https://") (strings.HasPrefix $resource.link "http://") }}
   {{ $isExternal = true }}
@@ -84,11 +90,23 @@
 {{ end }}
 
 
+
+
+
+
+
+
 {{ if $isExternal }}
   {{ $href = $externalLink }}
 {{ else }}
   {{ $href = ($internalLink | relURL) }}
 {{ end }}
+
+
+
+
+
+
 
 
 {{- if $resource -}}
