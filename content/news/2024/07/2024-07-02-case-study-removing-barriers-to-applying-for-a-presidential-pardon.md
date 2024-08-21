@@ -13,7 +13,6 @@ topics:
   - design
   - research
   - human-centered-design
-  - user-centered-design
   - usability
   - best-practices
   - trust

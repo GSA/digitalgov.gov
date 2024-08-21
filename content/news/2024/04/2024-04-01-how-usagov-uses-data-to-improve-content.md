@@ -11,7 +11,7 @@ topics:
   - Analytics
   - best-practices
   - content-strategy
-  - user-centered-design
+  - human-centered-design
   - design
   - search
   - research

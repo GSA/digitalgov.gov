@@ -9,7 +9,6 @@ summary: The White House Office of Management and Budget (OMB) wants your though
 # See all topics at https://digital.gov/topics
 topics:
   - human-centered-design
-  - user-centered-design
   - accessibility
   - innovation
   - information-collection

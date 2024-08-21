@@ -17,11 +17,10 @@ topics:
 
 featured_image:
   uid: this-weeks-idea-card-wk3
-  alt: ''
-
+  alt: ""
 ---
 
-{{< card-quote text="The people when rightly and fully trusted will return the trust." cite="Abraham Lincoln" >}}
+{{< quote-block text="The people when rightly and fully trusted will return the trust." cite="Abraham Lincoln" >}}
 
 {{< img-right src="this-weeks-idea-icon-wk3" >}}
 
@@ -37,14 +36,12 @@ The more we do this work, it becomes clear that trust is a key value that overla
 
 We’d like to get your help in defining the elements that we all need to have in place to start earning trust, and what actions federal digital teams need to take to get there.
 
-
 {{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button-text="Submit your answers" button-url="https://github.com/GSA/digitalgov.gov/issues/1517">}}
 
-> 1. To deliver an experience that is trustworthy, we need to _____________.
-> 2. To perform this action, we need _______________.
+> 1. To deliver an experience that is trustworthy, we need to ******\_******.
+> 2. To perform this action, we need ******\_\_\_******.
 
 {{< /card-prompt >}}
-
 
 **An example might be**:
 
@@ -58,7 +55,7 @@ Over the course of the next few weeks, we'll be taking your answers and using th
 
 - [We published an overview of 21st Century IDEA]({{< link "resources/21st-century-integrated-digital-experience-act.md" >}}) where we break down the key sections of the law in clear, plain language. We’ll be building on this in the coming weeks.
 - Chat with others in government about 21st Century IDEA in the [Web Managers community](https://digital.gov/communities/web-content-managers/). This listserv has the right mix of people who work at the intersection of communication and technology in government.
-{{< /box >}}
+  {{< /box >}}
 
 ## Up Next
 
@@ -68,8 +65,8 @@ Over the course of the next few weeks, we'll be taking your answers and using th
 
 ## Quotes from the field and shout-outs
 
-:tada: Congratulations to *Sarah Bryant* and the whole GSA.gov team on updating [https://www.gsa.gov/](https://www.gsa.gov/), which uses the [U.S. Web Design System](https://designsystem.digital.gov/). We look forward to hearing more about how visitors are responding to the changes in the coming weeks.
+:tada: Congratulations to _Sarah Bryant_ and the whole GSA.gov team on updating [https://www.gsa.gov/](https://www.gsa.gov/), which uses the [U.S. Web Design System](https://designsystem.digital.gov/). We look forward to hearing more about how visitors are responding to the changes in the coming weeks.
 
 ---
 
-_Have a 21st Century IDEA related comment or question? Or maybe you’d like to shout out some work your team has done? Send it to us by 3 pm ET on Thursdays ([digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)) and we’ll work to incorporate it into the next week’s newsletter._ 
+_Have a 21st Century IDEA related comment or question? Or maybe you’d like to shout out some work your team has done? Send it to us by 3 pm ET on Thursdays ([digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)) and we’ll work to incorporate it into the next week’s newsletter._

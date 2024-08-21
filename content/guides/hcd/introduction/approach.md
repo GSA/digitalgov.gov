@@ -5,7 +5,7 @@ guide: hcd-introduction
 primary_image: hcd-guide-intro
 ---
 
-{{< card-quote text="What people say, and what people do, and what people say they do, are entirely different things." cite="Dr. Margaret Mead, Anthropologist">}}
+{{< quote-block text="What people say, and what people do, and what people say they do, are entirely different things." cite="Dr. Margaret Mead, Anthropologist">}}
 
 This famous quote by Dr. Margaret Mead is a central truth to the social sciences and processes that build on them. Human-centered design is grounded in empathy and understanding. It begins with observation and research. We hear from people in their own words, to gain an understanding of what they want, expect, and need from a system, product, or experience.
 

@@ -13,7 +13,6 @@ topics:
   - design
   - content-strategy
   - research
-  - user-centered-design
   - human-centered-design
   - communication
   - plain-language

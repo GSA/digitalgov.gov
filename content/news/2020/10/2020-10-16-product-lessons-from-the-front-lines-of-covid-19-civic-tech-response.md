@@ -21,7 +21,6 @@ primary_image: hero-image
 # 0 -- hidden
 # 1 -- visible
 weight: 1
-
 ---
 
 {{< img src="hero-image" >}}
@@ -30,10 +29,10 @@ weight: 1
 
 Developing products during this time of crisis was uniquely challenging for a couple of reasons:
 
--  Every problem we came across was urgent in its own sense
--  Visibility and scrutiny on work delivered was higher than usual, which also meant that the appetite for risks and tolerance for hiccups was very low
--  We didn’t have the luxury of time on our side and results needed to be delivered “yesterday”
--  We were working 100% remote for the first time while coming together as new teams
+- Every problem we came across was urgent in its own sense
+- Visibility and scrutiny on work delivered was higher than usual, which also meant that the appetite for risks and tolerance for hiccups was very low
+- We didn’t have the luxury of time on our side and results needed to be delivered “yesterday”
+- We were working 100% remote for the first time while coming together as new teams
 
 These constraints led us to ask ourselves:
 
@@ -50,7 +49,7 @@ Despite intense timelines, we ended up launching new digital products and servic
 
 {{< img-right src="likhitha" >}}
 
-**Likhitha**: When I initially started working on an effort to accelerate telehealth adoption and was still early in the exploration phase, I heard several ideas and wish lists spanning from wanting to build two-sided marketplaces to automatic triage bots from invested stakeholders. It was tempting to pick something that a highly influential stakeholder was asking for or something involving a latest tech trend because it was exciting to work on. However, taking a pause from reviewing/prioritizing solutions presented to me and instead investing time to dive deep into the problem space paid off. We started by talking to doctors and patients on the front lines to understand broader problems they’re dealing with to deliver and receive care. After validating a few hypotheses with user testing, we learned that the crux of the problem that the government was positioned to solve was providing easy access to trusted [plain-language guidance](https://plainlanguage.gov/) on evolving telehealth policies. This narrowed down the problem to “need for a centralized place to get plain language telehealth policy guidance for health care providers, and scale access to trusted information for the public.” And that’s exactly what we did with [telehealth.hhs.gov](https://telehealth.hhs.gov/)  — it provides trusted, plain language resources on telehealth (telemedicine) to patients and healthcare professionals.
+**Likhitha**: When I initially started working on an effort to accelerate telehealth adoption and was still early in the exploration phase, I heard several ideas and wish lists spanning from wanting to build two-sided marketplaces to automatic triage bots from invested stakeholders. It was tempting to pick something that a highly influential stakeholder was asking for or something involving a latest tech trend because it was exciting to work on. However, taking a pause from reviewing/prioritizing solutions presented to me and instead investing time to dive deep into the problem space paid off. We started by talking to doctors and patients on the front lines to understand broader problems they’re dealing with to deliver and receive care. After validating a few hypotheses with user testing, we learned that the crux of the problem that the government was positioned to solve was providing easy access to trusted [plain-language guidance](https://plainlanguage.gov/) on evolving telehealth policies. This narrowed down the problem to “need for a centralized place to get plain language telehealth policy guidance for health care providers, and scale access to trusted information for the public.” And that’s exactly what we did with [telehealth.hhs.gov](https://telehealth.hhs.gov/) — it provides trusted, plain language resources on telehealth (telemedicine) to patients and healthcare professionals.
 
 {{< img src="telehealth-website" >}}
 
@@ -76,7 +75,7 @@ By spending time on user research, including deep dives with VA call centers and
 
 ## 4. Don’t let perfect be the enemy of the good
 
-{{< card-quote text="If you’re not embarrassed by the first version of your product, you’ve launched too late." cite="Reid Hoffman, an American entrepreneur" >}}
+{{< quote-block text="If you’re not embarrassed by the first version of your product, you’ve launched too late." cite="Reid Hoffman, an American entrepreneur" >}}
 
 **Likhitha**: It’s easy to get hung up on wanting to ship a perfect product from the get-go, be it for precision or for risk aversion. In the wise words of Reid Hoffman, an American entrepreneur, “If you’re not embarrassed by the first version of your product, you’ve launched too late.” By waiting to ship the perfect product, we’d be wasting time instead of actually getting the product in the hands of real users through which we can further learn and iterate. Creating a culture for iteration rather than striving for perfection was critical — this mindset had to be adopted by our immediate team and leaders supporting us. We knew going in that what we put out on Day 1 wouldn’t be perfect; we prepared ourselves to iterate quickly and employed mechanisms where we could collect and incorporate user feedback. As we kicked off the effort, we declared a set of guiding principles and “ship-it must-haves” to align towards this mindset. Having these criteria pre-established also helped us stay focused on priorities and stick to our immediate goals. Our “ship-it must-haves” were the following:
 
@@ -89,6 +88,6 @@ By spending time on user research, including deep dives with VA call centers and
 
 **Kaeli**: An important part of this piece of advice is “don’t reinvent the wheel.” Even though we had the in-house tech team available who could have built the VA coronavirus chatbot themselves, we saved precious time by starting with a commercial off-the-shelf chatbot framework. There were some minor trade-offs in customizability, but it got the job done and addressed the pressing need to get information to Veterans quickly.
 
-----------
+---
 
 Are you passionate about the civic impact of human-centered design and product development? Interested in using your expertise for public good? Learn more about PIF [at our website](https://pif.gov/), and follow us on [Twitter](https://www.twitter.com/PIFgov) and [LinkedIn](https://www.linkedin.com/company/white-house-presidential-innovation-fellows/) to find the latest work from our fellows.

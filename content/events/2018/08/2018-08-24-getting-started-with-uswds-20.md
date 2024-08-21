@@ -17,7 +17,6 @@ topics:
   - accessibility
   - software-engineering
   - design
-  - user-centered-design
   - human-centered-design
   - user-experience
 
