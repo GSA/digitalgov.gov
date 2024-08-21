@@ -60,11 +60,6 @@
 
 
 
-
-
-
-
-
 {{/* Check if page is an external link, otherwise return a hugo page object */}}
 {{ if or (strings.HasPrefix $resource.link "https://") (strings.HasPrefix $resource.link "http://") }}
   {{ $isExternal = true }}
@@ -91,21 +86,11 @@
 
 
 
-
-
-
-
-
 {{ if $isExternal }}
   {{ $href = $externalLink }}
 {{ else }}
   {{ $href = ($internalLink | relURL) }}
 {{ end }}
-
-
-
-
-
 
 
 
@@ -133,7 +118,7 @@
       </div>
       {{ if $image }}
         <div class="dg-featured-resource__image">
-          {{- partial "core/img-flexible.html" (dict "src" $image "small" "true") -}}
+          {{- partial "core/img-flexible.html" (dict "site" .Site "src" $image "small" "true") -}}
         </div>
       {{ end }}
     </a>
