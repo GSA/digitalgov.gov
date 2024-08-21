@@ -3,8 +3,8 @@
 source_url: https://blog-nrrd.doi.gov/m-23-22-self-assessment/
 source: doi-revenuedata
 date: 2024-08-20 00:00:00 -0500
-title: A journey of improvement creating a self assessment for ONRRs digital
-  experience
+title: "A journey of improvement: Creating a self-assessment for ONRR's digital
+  experience"
 deck: "The Office of Natural Resources Revenue’s Open Data, Design, and
   Development (ODD) team conducted a self-assessment of its digital products to
   ensure compliance with M-23-22, a memo issued by the Office of Management and
