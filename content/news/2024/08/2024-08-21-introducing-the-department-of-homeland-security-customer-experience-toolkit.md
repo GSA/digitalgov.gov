@@ -8,14 +8,14 @@ deck: The Department of Homeland Security’s Customer Experience (DHS CX)
   Directorate developed a customer experience (CX) toolkit to help agencies
   implement customer experience strategies using a human-centered design
   approach. The toolkit offers resources to enhance service delivery, processes,
-  and systems, following a “ready, Set, Grow” framework for planning and
+  and systems, following a “Ready, Set, Grow” framework for planning and
   implementing CX strategies. It aims to improve government interactions with
   citizens by prioritizing ease, efficiency, and transparency.
 summary: The Department of Homeland Security’s Customer Experience (DHS CX)
   Directorate developed a customer experience (CX) toolkit to help agencies
   implement customer experience strategies using a human-centered design
   approach. The toolkit offers resources to enhance service delivery, processes,
-  and systems, following a “ready, Set, Grow” framework for planning and
+  and systems, following a “Ready, Set, Grow” framework for planning and
   implementing CX strategies. It aims to improve government interactions with
   citizens by prioritizing ease, efficiency, and transparency.
 # See all topics at https://digital.gov/topics
