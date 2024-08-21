@@ -31,11 +31,6 @@ legislation:
   title: "21st Century IDEA) & M-23-22"
   link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
-# Featured resource to at the top of the page
-featured_resources:
-  resources:
-    - link: ""
-
 # Featured community to display at the top of the page
 featured_communities:
   - "web-managers-forum"

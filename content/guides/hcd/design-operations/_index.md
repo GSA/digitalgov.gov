@@ -20,7 +20,7 @@ Human-centered design generally has four phases: discover, design, deliver, and 
 
 This guide explains _how_ to go about the work of design, while the concept guide explains _why_ we do design. Together, the two will give you an orientation to HCD, and walk you through the workflow to move a project from research insights towards product development.
 
-{{< featured-resource link = "/guides/hcd/design-concepts">}}
+{{< featured-resource link="/guides/hcd/design-concepts" >}}
 
 
 ## Participants

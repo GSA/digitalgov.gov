@@ -1,4 +1,5 @@
-{{/* ======
+<!-- prettier-ignore-start -->
+{{/*
 
   Featured Resource Component displays an internal or external resource wrapped in a gray rounded box.
   If the link is internal the hugo page lookup will return the fields to display.
@@ -11,7 +12,6 @@
   - summary (required) - the short description for the resource
   - kicker (optional) - a short label or message at the top of the resource box
 
-  <!-- prettier-ignore -->
   @example link paths allowed:
   - 18f-accessibility-guide
   - /18f-accessibility-guide
@@ -19,34 +19,19 @@
   - https://wwww.ai.gov
   - http://www.usps.com/
 
-
-  <!-- prettier-ignore -->
   @example shortcode with internal link:
   {{< featured-resource link="/guides/hcd/discovery-concepts"
 >}}
-
-
-<!-- prettier-ignore -->
 @example shortcode with external link:
-  {{< featured-resource link="https://wwww.ai.gov" >}}
+{{< featured-resource link="https://wwww.ai.gov" >}}
 
-
-<!-- prettier-ignore -->
 @example display a community in a shortcode:
-  {{< featured-resource link="/communities/communicators" kicker="Join the Community" >}}
+{{< featured-resource link="/communities/communicators" kicker="Join the Community" >}}
 
-
-<!-- prettier-ignore -->
-@example allowed community resource paths:
-    - communicators
-    - multilingual
-    - plain-language
-    - social-media
-    - user-experience
-    - web-analytics-and-optimization
-    - web-managers-forum
-*/}}
-
+@example allowed community resource paths: - communicators - multilingual -
+plain-language - social-media - user-experience - web-analytics-and-optimization
+- web-managers-forum */}}
+<!-- prettier-ignore-end -->
 
 {{ $resource := .resource_data }}
 {{ $title := "" }}
@@ -57,8 +42,6 @@
 {{ $externalLink := "" }}
 {{ $href := "" }}
 {{ $isExternal := false }}
-
-
 
 {{/* Check if page is an external link, otherwise return a hugo page object */}}
 {{ if or (strings.HasPrefix $resource.link "https://") (strings.HasPrefix $resource.link "http://") }}
@@ -84,15 +67,11 @@
   {{ end }}
 {{ end }}
 
-
-
 {{ if $isExternal }}
   {{ $href = $externalLink }}
 {{ else }}
   {{ $href = ($internalLink | relURL) }}
 {{ end }}
-
-
 
 {{- if $resource -}}
   <div class="dg-featured-resource">
@@ -118,7 +97,7 @@
       </div>
       {{ if $image }}
         <div class="dg-featured-resource__image">
-          {{- partial "core/img-flexible.html" (dict "site" .Site "src" $image "small" "true") -}}
+          {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
         </div>
       {{ end }}
     </a>
