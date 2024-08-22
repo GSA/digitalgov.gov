@@ -3,8 +3,8 @@
 source_url: https://www.usds.gov/news-and-blog/positioning-government-for-a-meaningful-relationship-with-its-public
 source: usds
 date: 2024-06-25 00:00:00 -0500
-title: Grounding in community Positioning government for a meaningful
-  relationship with its public
+title: "Grounding in community: Positioning government for a meaningful
+  relationship with its public"
 deck: The U.S. Digital Service (USDS) emphasizes human-centered,
   community-focused approaches to improve government services by understanding
   and addressing the needs of those they serve. Through diverse teams,
