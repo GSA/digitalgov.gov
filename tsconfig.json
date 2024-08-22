@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "NodeNext",
+    "lib": ["ES2020", "DOM"],
+    "outDir": "./config/gulp",
+    "rootDir": "./config/typescript",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "NodeNext"
+  },
+  "include": ["config/typescript/**/*"],
+  "exclude": ["node_modules"]
+}

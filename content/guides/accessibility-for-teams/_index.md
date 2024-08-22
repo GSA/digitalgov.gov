@@ -13,7 +13,6 @@ topics:
   - design
   - content-strategy
   - human-centered-design
-  - user-centered-design
   - software-engineering
   - mobile
   - usability

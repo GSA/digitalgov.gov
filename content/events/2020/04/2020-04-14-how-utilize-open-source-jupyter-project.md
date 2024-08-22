@@ -1,6 +1,7 @@
 ---
-# View this page at https://digital.gov/event/2020/04/how-utilize-open-source-jupyter-project
+# View this page at https://digital.gov/event/2020/04/14/how-utilize-open-source-jupyter-project/
 # Learn how to edit our pages at https://workflow.digital.gov
+
 slug: how-utilize-open-source-jupyter-project
 kicker: Open Source
 title: "AI Tech Workshop: How to Utilize the Open Source Jupyter Project for your Research"
@@ -38,11 +39,9 @@ youtube_id: 8p2wmUl2Dow
 
 ---
 
-
 **In this talk**, we will introduce the Jupyter Project and how it is being used by the greater research community to engage in technical discussions surrounding data analytics, artificial intelligence products, machine-learning models, and reproducing results.
 
 We’ll walk through some of the ways to help break down common challenges into smaller, more decomposable problems and be able to showcase solutions utilizing the Jupyter Project. We'll also discuss how to navigate Jupyter notebook, and showcase how easy it is to render mathematical expressions using Jupyter built in support for Latex and show how easy it is to wrangle data.
-
 
 ## Presenter
 
@@ -52,9 +51,9 @@ We’ll walk through some of the ways to help break down common challenges into 
 
 **Related Links:**
 
- - Join the [Artificial Intelligence Community]({{< ref "/communities/artificial-intelligence.md" >}})
- - [https://jupyter.org/](https://jupyter.org/)
- - [https://github.com/Wildertrek/Jupyter-Latex](https://github.com/Wildertrek/Jupyter-Latex)
+- Join the [Artificial Intelligence Community]({{< ref "/communities/artificial-intelligence.md" >}})
+- [https://jupyter.org/](https://jupyter.org/)
+- [https://github.com/Wildertrek/Jupyter-Latex](https://github.com/Wildertrek/Jupyter-Latex)
 
 ---
 

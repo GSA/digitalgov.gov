@@ -108,6 +108,7 @@
 @forward "card";
 @forward "card-news";
 @forward "card-event";
+@forward "card-job";
 @forward "article";
 @forward "page-head";
 @forward "news";
@@ -131,7 +132,6 @@
 
 // Authors lists
 @forward "authors-list";
-@forward "authors-list-short";
 
 // Authors profile
 @forward "author-profile";
@@ -171,11 +171,12 @@
 @forward "shortcodes/highlight";
 @forward "shortcodes/ring";
 @forward "shortcodes/card-policy";
-@forward "shortcodes/card-quote";
+@forward "shortcodes/quote-block";
 @forward "shortcodes/asset-img";
 @forward "shortcodes/card-prompt";
 @forward "shortcodes/termsofservice-compatible";
 
+@forward "footnote";
 @forward "uswds-overrides";
 
 a {

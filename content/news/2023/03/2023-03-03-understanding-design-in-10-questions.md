@@ -93,14 +93,14 @@ Or, to reduce it further: The Service Design team improves customer experience t
 
 Read [Bringing design in-house](https://digital.gov/2023/01/27/bringing-design-in-house/) to learn about hiring designers in the federal government, and reach out to [customerexperience@gsa.gov](mailto:customerexperience@gsa.gov) with any questions.
 
-<footer>
-<h3 id="footnote-label">Footnotes</h3>
-<ol>
-<li id="fn1">Dilemmas in a general theory of planning. Rittel, H.W.J., Webber, M.M. Policy Sci 4, 155–169 (1973). https://doi.org/10.1007/BF01405730 <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
-<li id="fn2">Wicked Problems in Design Thinking. Buchanan, Richard. Design. The M.I.T. Press. Issues, Vol. 8, No. 2, (Spring, 1992), pp. 9-10. http://www.jstor.org/stable/1511637 <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
-<li id="fn3">https://www.linkedin.com/in/sara-schnadt-2735134 <a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
-<li id="fn4">Designing the Invisible: An Introduction to Service Design. Author: Lara Penin. Publisher: Bloomsbury. 2018. <a href="#footnotes-ref4" aria-label="Back to content">↩</a></li>
-<li id="fn5">Good to Great: Why Some Companies Make the Leap...and Others Don't. Collins, Jim. Harper Business. 2001. <a href="#footnotes-ref5" aria-label="Back to content">↩</a></li>
-<li id="fn6">High Resolution Podcast. Episode 7. 27 March 2017. https://www.youtube.com/watch?v=TeE6Tx_nO94 (1 hour, 8 minutes) <a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
-</ol>
-</footer>
+<div class="dg-footnote">
+   <h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+   <ol class="dg-footnote__list">
+      <li class="dg-footnote__list-item" id="fn1">Dilemmas in a general theory of planning. Rittel, H.W.J., Webber, M.M. Policy Sci 4, 155–169 (1973). https://doi.org/10.1007/BF01405730 <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+      <li class="dg-footnote__list-item" id="fn2">Wicked Problems in Design Thinking. Buchanan, Richard. Design. The M.I.T. Press. Issues, Vol. 8, No. 2, (Spring, 1992), pp. 9-10. http://www.jstor.org/stable/1511637 <a href="#footnotes-ref2" aria-label="Back to content">↩</a></li>
+      <li class="dg-footnote__list-item" id="fn3">https://www.linkedin.com/in/sara-schnadt-2735134 <a href="#footnotes-ref3" aria-label="Back to content">↩</a></li>
+      <li class="dg-footnote__list-item" id="fn4">Designing the Invisible: An Introduction to Service Design. Author: Lara Penin. Publisher: Bloomsbury. 2018. <a href="#footnotes-ref4" aria-label="Back to content">↩</a></li>
+      <li class="dg-footnote__list-item" id="fn5">Good to Great: Why Some Companies Make the Leap...and Others Don't. Collins, Jim. Harper Business. 2001. <a href="#footnotes-ref5" aria-label="Back to content">↩</a></li>
+      <li class="dg-footnote__list-item" id="fn6">High Resolution Podcast. Episode 7. 27 March 2017. https://www.youtube.com/watch?v=TeE6Tx_nO94 (1 hour, 8 minutes) <a href="#footnotes-ref6" aria-label="Back to content">↩</a></li>
+   </ol>
+</div>

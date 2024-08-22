@@ -25,3 +25,6 @@ content/images/_inbox/Refine_Listen.png
 content/images/_inbox/Triangulate.png
 static/img/proxy/fedramp-logo-stamp.jpeg
 .hugo_build.lock
+
+# Editor settings
+.vscode/

@@ -9,7 +9,6 @@ topics:
   - research
   - content-strategy
   - social-media
-  - user-centered-design
   - human-centered-design
   - user-experience
 ---
