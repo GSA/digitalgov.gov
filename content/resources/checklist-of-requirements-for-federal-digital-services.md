@@ -73,23 +73,23 @@ Here are a few examples of policy areas you need to navigate:
 
 {{< box >}}
   **21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22**
-  {{< button href="https://digital.gov/resources/delivering-digital-first-public-experience/" text="Explore digital service delivery policy" >}}
+  <button type="button" href="https://digital.gov/resources/delivering-digital-first-public-experience/">Explore digital service delivery policy</button>
 {{< /box >}}
-
+ 
 {{< box >}}
   **DOTGOV Online Trust in Government Act and OMB Memo M-23-10**
-  {{< button href="https://digital.gov/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/" text="Explore domain management policy" >}}
+    <button type="button" href="https://digital.gov/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/">Explore domain management policy</button>
 {{< /box >}}
 
 {{< box >}}
- **Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency**
-  {{< button href="https://digital.gov/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/" text="Explore multilingual policy" >}}
-  {{< /box >}}
+**Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency**
+  <button type="button" href="https://digital.gov/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/">Explore multilingual policy</button>
+{{< /box >}}
 
 {{< box >}}
 **Program Management Improvement Accountability Act and OMB Memo M-18-19**
-{{< button href="https://digital.gov/resources/requirements-for-improving-the-management-of-federal-programs-and-projects/" text=Explore product and project management policy" >}}
-  {{< /box >}}
+  <button type="button" href="https://digital.gov/resources/requirements-for-improving-the-management-of-federal-programs-and-projects/">Explore product and project management policy</button>
+{{< /box >}}
 
 ## Conclusion
 
