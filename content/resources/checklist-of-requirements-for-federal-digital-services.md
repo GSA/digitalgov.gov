@@ -71,9 +71,9 @@ Policy plays a vital role in how federal agencies serve the public. With over 10
 
 Here are a few examples of policy areas you need to navigate:
 
-{{< note button-text="Explore digital service delivery policy">}}
+{{< box title="Explore digital service delivery policy">}}
   [21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22](https://digital.gov/resources/delivering-digital-first-public-experience/)
-{{< /note >}}
+{{< /box >}}
 
 {{< note button-text="Explore domain management policy">}}
   [DOTGOV Online Trust in Government Act and OMB Memo M-23-10
