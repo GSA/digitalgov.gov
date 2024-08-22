@@ -3,7 +3,7 @@
 source_url: https://www.dhs.gov/cx/resources/guides-kits/cx-toolkit
 source: dhs
 date: 2024-07-16 00:00:00 -0500
-title: " Introducing the Department of Homeland Security customer experience toolkit"
+title: "Introducing the Department of Homeland Security customer experience toolkit"
 deck: The Department of Homeland Security’s Customer Experience
   Directorate developed a customer experience (CX) toolkit to help agencies
   implement CX strategies using a human-centered design
