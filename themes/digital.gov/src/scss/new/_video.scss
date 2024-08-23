@@ -84,3 +84,9 @@
 .content .video:is(:first-child) {
   margin-top: 0;
 }
+
+.dg-youtube {
+  @include u-bg("blue-warm-5");
+  @include u-margin-bottom(5);
+  @include u-padding(3);
+}
