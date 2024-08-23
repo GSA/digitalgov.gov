@@ -73,7 +73,7 @@ Here are a few examples of policy areas you need to navigate:
 
 {{< box >}}
   **21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22**
-  <button href="https://digital.gov/resources/delivering-digital-first-public-experience/">Explore digital service delivery policy</button>
+{{< button href="https://digital.gov/resources/delivering-digital-first-public-experience/" text="Explore digital service delivery policy" >}}
 {{< /box >}}
  
 {{< box >}}
