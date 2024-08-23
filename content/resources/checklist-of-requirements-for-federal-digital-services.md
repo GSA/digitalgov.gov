@@ -57,11 +57,11 @@ The checklist is organized into 11 broad categories, listed below, that cover th
 
 ## How to use the self-assessment checklist
 
-The ``Overview`` tab presents a dashboard, which automatically updates as you work through the rest of the tool.
+The `Overview` tab presents a dashboard, which automatically updates as you work through the rest of the tool.
 
-The remaining tabs list requirements and guidance for each policy area. Use the drop-down in the far right ``Status`` column to indicate how much  your site is meeting the requirements (done, partial, not done) for each policy area.
+The remaining tabs list requirements and guidance for each policy area. Use the drop-down in the far right `Status` column to indicate how much  your site is meeting the requirements (done, partial, not done) for each policy area.
 
-The data from the ``Status`\` column will automatically populate the \``Overview`` tab as you work to provide an at-a-glance status for each policy area. The intent is to help you understand where the site is doing well, and where it could be improved.
+The data from the `Status` column will automatically populate the `Overview` tab as you work to provide an at-a-glance status for each policy area. The intent is to help you understand where the site is doing well, and where it could be improved.
 
 Share the spreadsheet with your team so everyone can see the dashboard and the policy areas.
 
