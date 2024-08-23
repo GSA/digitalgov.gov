@@ -3,35 +3,19 @@
 source_url: https://blog-nrrd.doi.gov/m-23-22-self-assessment/
 source: doi-revenuedata
 date: 2024-08-20 00:00:00 -0500
-title: "A journey of improvement: Creating a self-assessment for ONRR's digital
+title: "A journey of improvement: Creating a self-assessment for digital
   experience"
-deck: "The Office of Natural Resources Revenue’s Open Data, Design, and
-  Development (ODD) team conducted a self-assessment of its digital products to
-  ensure compliance with M-23-22, a memo issued by the Office of Management and
-  Budget (OMB) guiding federal agencies toward a digital-first public
-  experience. The team created a detailed spreadsheet to measure compliance
-  across key areas such as accessibility, design consistency, and mobile
-  responsiveness. Through collaboration efforts, they identified strengths and
-  areas for improvement and developed a plan to prioritize improvements and
-  engage with higher management for support on larger initiatives. "
-summary: "The Office of Natural Resources Revenue’s Open Data, Design, and
-  Development (ODD) team conducted a self-assessment of its digital products to
-  ensure compliance with M-23-22, a memo issued by the Office of Management and
-  Budget (OMB) guiding federal agencies toward a digital-first public
-  experience. The team created a detailed spreadsheet to measure compliance
-  across key areas such as accessibility, design consistency, and mobile
-  responsiveness. Through collaboration efforts, they identified strengths and
-  areas for improvement and developed a plan to prioritize improvements and
-  engage with higher management for support on larger initiatives. "
+deck: "Memo M-23-22 from the Office of Management and Budget provides guidance to federal agencies on delivering a digital-first public experience. To quantify its compliance with the memo, the Open Data, Design, and Development team at the Department of the Interior created and conducted a self-assessment of its digital products. The team used a scoring spreadsheet to measure compliance across categories like accessibility, design consistency, and mobile responsiveness. The results helped the team develop a plan to prioritize improvements and engage with leadership for support on other initiatives."
+summary: "Memo M-23-22 from the Office of Management and Budget provides guidance to federal agencies on delivering a digital-first public experience. To quantify its compliance with the memo, the Open Data, Design, and Development team at the Department of the Interior created and conducted a self-assessment of its digital products. The team used a scoring spreadsheet to measure compliance across categories like accessibility, design consistency, and mobile responsiveness. The results helped the team develop a plan to prioritize improvements and engage with leadership for support on other initiatives."
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - best-practices
   - content-strategy
   - design
   - governance
   - digital-service-delivery
-  - analytics
+  - mobile
+  - search
 slug: a-journey-of-improvement-creating-a-self-assessment-for-onrrs-digital-experience
 # Controls how this page appears across the site
 # 0 -- hidden
