@@ -20,6 +20,7 @@ topics:
 weight: 2
 # Enter the path of the URL that you want redirected to this page
 aliases:
+  - /2022/01/13/go-live-checklist-for-federal-websites/
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
   - /resources/policies-for-federal-agency-public-websites-m-05-04/
