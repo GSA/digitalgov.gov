@@ -45,7 +45,7 @@
 
 
 <div class="{{ delimit $imageClasses " " }}">
-  {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
+  {{- if or (eq $imgExt "webp") (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
     <img
       src="{{- if ne $prefix $thisuid -}}
         {{- $thisuid -}}
@@ -60,13 +60,10 @@
         {{- end -}}"
       {{- end -}}
       {{- if eq $prefix $thisuid -}}
-        srcset=" {{- $imgBaseCDN -}}_bu.jpg 48w,
-        {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w,
-        {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
-        {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
-        {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w "
+        srcset=" {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
+        {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w"
       {{- end -}}
-      sizes="(max-width: 400px) 100vw, (max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
+      sizes="(max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
     />
   {{- else -}}
     <img

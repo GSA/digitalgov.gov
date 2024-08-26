@@ -28,24 +28,6 @@ const imageRegex = /(png|jpg|jpeg)/;
 const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 
 /**
- * Converts JPG images to PNG format
- * @param {string} imagePath - path of the image file
- */
-async function convertJpgToPng(imagePath) {
-  console.log(`Converting image ${imagePath} to PNG`);
-  const outputPath = imagePath.replace(/\.jpe?g$/i, ".png");
-
-  await sharp(imagePath).toFormat("png").toFile(outputPath);
-
-  // Check if the original JPG file exists before unlinking
-  if (fs.existsSync(imagePath)) {
-    fs.unlinkSync(imagePath); // Remove the original JPG file
-  }
-
-  return path.basename(outputPath);
-}
-
-/**
  * Object containing working folder paths used for lifecycle steps of uploading
  * to-process contains the normalized filename, static files are upload to s3 from here
  * processed contains responsive letiants that are are uploaded to s3
@@ -90,24 +72,6 @@ function fileTidy(done) {
         createDir(paths[filetype].toProcess, 3);
         if (filetype === "image") createDir(paths[filetype].processed, 3);
         // copies uploaded file to /to-process with new normalized name
-        // convert jpg to png
-        if (
-          (filetype === "image" && fileExt === ".jpg") ||
-          fileExt === ".jpeg"
-        ) {
-          let convertedPng = await convertJpgToPng(
-            path.join(paths.uploads, file)
-          ).catch((err) => {
-            console.error(
-              `Error converting image ${file} to PNG: ${err.message}`
-            );
-            return;
-          });
-          // ensure the folder for the process image exists.
-          if (convertedPng != file) {
-            file = convertedPng;
-          }
-        }
         newfileName = cleanFileName(file);
         const newFilePath = path.join(dirToProcess, newfileName);
 
