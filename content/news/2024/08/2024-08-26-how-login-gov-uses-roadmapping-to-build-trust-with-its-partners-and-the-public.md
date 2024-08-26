@@ -13,8 +13,7 @@ topics:
   - communication
   - product-and-project-management
 # See all authors at https://digital.gov/authors
-authors:
-  - jeff-bordogna
+authors: []
 slug: how-login-gov-uses-roadmapping-to-build-trust-with-its-partners-and-the-public
 # Controls how this page appears across the site
 # 0 -- hidden
