@@ -1,9 +1,28 @@
+@use "sass:map";
 @use "uswds-core" as *;
 
 // Styles for inline form on the DG7 community pages
+
+$communities-of-practice-colors: (
+  "CC": color("blue-60v"),
+  "FCN": color("magenta-50"),
+  "ML": color("red-50"),
+  "PL": color("blue-cool-60v"),
+  "SM": color("gold-40v"),
+  "UX": color("mint-cool-50"),
+  "WAO": color("orange-50v"),
+  "WCM": color("indigo-60v"),
+);
+
+@each $community, $color in $communities-of-practice-colors {
+  .join-community-form--#{$community} {
+    border: units("05") solid $color;
+  }
+}
+
 .join-community-form {
-  @include u-border-left("05", "solid", "gray-warm-20");
-  @include u-bg("gray-warm-10");
+  // @include u-border-left("05", "solid", "gray-warm-20");
+  // @include u-bg("gray-warm-10");
   @include u-margin-bottom(5);
   @include u-padding-top(2.5);
   @include u-padding-bottom(4);
@@ -17,6 +36,18 @@
     @include u-margin-bottom("105");
     @include u-margin-top(0);
     @include u-text("normal");
+    align-items: center;
+    display: flex;
+
+    h3 {
+      margin: 0;
+      padding-left: 1rem;
+    }
+
+    img {
+      max-width: 4rem;
+      object-fit: cover;
+    }
   }
 
   &__header-svg {
