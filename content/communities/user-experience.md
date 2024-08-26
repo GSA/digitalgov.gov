@@ -44,7 +44,7 @@ authors:
 
 kicker: "Join the User Experience Community"
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "communities-card-ux"
 
 ---
 
