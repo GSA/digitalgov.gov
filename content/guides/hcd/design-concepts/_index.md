@@ -45,8 +45,8 @@ Since you have either completed or are wrapping up the discovery phase, that mea
 
 If you're not sure if you've completed all these points, or feel that you need more information or direction on them, please see the HCD discovery guides.
 
-{{< featured-resource resourcePath = "/guides/hcd/discovery-concepts">}}
-{{< featured-resource resourcePath = "/guides/hcd/discovery-operations">}}
+{{< featured-resource link="/guides/hcd/discovery-concepts" >}}
+{{< featured-resource link="/guides/hcd/discovery-operations" >}}
 
 
 ### A note on team structure

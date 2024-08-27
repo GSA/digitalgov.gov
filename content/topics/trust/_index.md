@@ -19,11 +19,6 @@ legislation:
   title: "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government"
   link: "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government"
 
-# Featured resource to at the top of the page
-featured_resources:
-  resources:
-    - link: ""
-
 # Featured community to display at the top of the page
 featured_communities:
   - "web-managers-forum"
