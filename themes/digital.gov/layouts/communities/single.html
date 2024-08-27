@@ -1,5 +1,9 @@
 {{- define "content" -}}
   {{ $community_acronym := .Params.dg_acronym }}
+  {{ $community_join_copy := "" }}
+  {{ range .Params.community_list }}
+    {{ $community_join_copy = .subscribe_email_subject }}
+  {{ end }}
   <main role="main" id="main-content">
     <article class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
@@ -35,18 +39,16 @@
                       or .mil email are eligible to join.
                     </p>
                     <p>
-                      After you select "Join the Communicators community," a
-                      form will ask for your name and email address. The form
-                      should take most people a minute or less to complete.
+                      After you select "{{ $community_join_copy }}" a form will
+                      ask for your name and email address. The form should take
+                      most people a minute or less to complete.
                     </p>
                     {{/* Get the form link */}}
                     <a
-                      class="join-community-form__body-form-button usa-button"
-                      href=""
+                      class="usa-button"
+                      href="https://feedback.gsa.gov/jfe/form/SV_3dwvggn0tq8HIzk"
                     >
-                      {{ range .Params.community_list }}
-                        {{ .subscribe_email_subject }}
-                      {{ end }}
+                      {{ $community_join_copy }}
                     </a>
                   </div>
                 </section>
