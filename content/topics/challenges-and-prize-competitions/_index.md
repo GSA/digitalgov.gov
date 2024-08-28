@@ -33,8 +33,6 @@ featured_resources:
     - link: "https://www.challenge.gov/"
       title: "Challenge.gov"
       summary: "Where competition delivers innovation for the public good."
-      kicker: ""
-    
 
 # Featured community to display at the top of the page
 featured_communities:

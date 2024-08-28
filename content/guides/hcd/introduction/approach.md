@@ -13,15 +13,15 @@ This famous quote by Dr. Margaret Mead is a central truth to the social sciences
 
 In the initial phase of HCD, you will become an expert in the context for your design project. You’ll build a problem frame. You’ll observe situations and talk to people. You’ll challenge your assumptions by going to the source and being open to what you see and hear.
 
-{{< featured-resource resourcePath = "/guides/hcd/discovery-concepts">}}
-{{< featured-resource resourcePath = "/guides/hcd/discovery-operations">}}
+{{< featured-resource link="/guides/hcd/discovery-concepts" >}}
+{{< featured-resource link="/guides/hcd/discovery-operations" >}}
 
 ### Design phase
 
 After gathering insights and defining opportunities, you’ll start to build prototypes and work through design ideas. You won’t try to perfect these too soon. Instead, you will prioritize iteration, test with customers, and make incremental refinements. Build, test, and repeat.
 
-{{< featured-resource resourcePath = "/guides/hcd/design-concepts">}}
-{{< featured-resource resourcePath = "/guides/hcd/design-operations">}}
+{{< featured-resource link="/guides/hcd/design-concepts" >}}
+{{< featured-resource link="/guides/hcd/design-operations" >}}
 
 ### Delivery phase
 

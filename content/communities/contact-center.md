@@ -39,7 +39,7 @@ dg_logo: communities-contact-center.svg
 
 kicker: "Join the Contact center community"
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "communities-card-contact-center"
 ---
 
 Government contact centers are often the primary means of communication between an organization and its customers. In government, contact centers often set expectations for satisfaction and trust across the customer experience. Simply put, the voice of the organization and the customer is fostered through the contact center experience.

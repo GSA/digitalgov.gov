@@ -21,10 +21,6 @@ legislation:
   title: "M-13-10, Antideficiency Act Implications of Certain Online Terms of Service Agreements (April 4, 2013) (PDF, 1.11 MB, 17 Pages)"
   link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-10.pdf"
 
-# Featured resource to at the top of the page
-featured_resources:
-  resources:
-    - link: ""
 
 # Featured community to display at the top of the page
 featured_communities:

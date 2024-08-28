@@ -64,21 +64,12 @@
       {{ if $is_first_page }}
         <div class="dg-topic__featured grid-container-desktop">
           {{ range .Params.featured_resources.resources }}
-            {{ $featured_resource_page := $.GetPage .link }}
-            {{ $kicker := "" }}
-            {{ if $featured_resource_page.Params.kicker }}
-              {{ $kicker = $featured_resource_page.Params.kicker }}
-            {{ end }}
-            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" .link "kicker" $kicker) -}}
+            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resource_data" .) -}}
           {{ end }}
 
           {{ range .Params.featured_communities }}
-            {{ $community_page := $.GetPage (printf "communities/%s" .) }}
-            {{ $kicker := "" }}
-            {{ if $community_page.Params.kicker }}
-              {{ $kicker = $community_page.Params.kicker }}
-            {{ end }}
-            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resourcePath" (printf "/communities/%s" .) "kicker" $kicker ) -}}
+            {{ $community_page := (dict "link" (printf "communities/%s" .)) }}
+            {{- partial "core/featured-resource.html" (dict "Site" $.Site "resource_data" $community_page) -}}
           {{ end }}
         </div>
       {{ end }}
