@@ -1,7 +1,6 @@
 version: 2.1
 
 orbs:
-  hugo: circleci/hugo@1.3.1
   node: circleci/node@5.2.0
 
 defaults: &defaults
@@ -15,10 +14,18 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Read Hugo version
-          command: echo "HUGO_VERSION=$(cat .hugo-version)" >> $BASH_ENV
-      - hugo/install:
-          version: ${HUGO_VERSION}
+          name: Install Hugo
+          command: |
+            if [ ! -f ".hugo-version" ]; then
+              echo ".hugo-version file not found" >&2
+              exit 1
+            fi
+            HUGO_VERSION=$(cat .hugo-version)
+            wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+            tar xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+            sudo mv hugo /usr/local/bin/
+            rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+            hugo version
       - node/install-packages:
           cache-path: ~/project/node_modules
           override-ci-command: npm install
@@ -34,14 +41,17 @@ jobs:
             - public
           root: .
   html-proofer:
-    executor:
-      name: hugo/default
+    docker:
+      - image: cimg/ruby:3.0
     steps:
       - attach_workspace:
           at: .
       - run:
-          name: "Test generated website with HTML Proofer."
-          command: "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0"
+          name: Install HTMLProofer
+          command: gem install html-proofer
+      - run:
+          name: Test generated website with HTML Proofer
+          command: htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0
   test:
     <<: *defaults
     steps:
