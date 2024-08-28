@@ -33,8 +33,64 @@ jobs:
             - node_modules
             - public
           root: .
-
-  # ... rest of the configuration remains the same ...
+  html-proofer:
+    executor:
+      name: hugo/default
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: "Test generated website with HTML Proofer."
+          command: "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0"
+  test:
+    <<: *defaults
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: Lint JSON
+          command: npm run lint:json
+      - run:
+          name: Lint & fix Markdown
+          command: npm run lint:markdown:fix && npm run lint:markdown
+      - run:
+          name: Lint Styles
+          command: npm run lint:styles
+      - run:
+          name: Lint JavaScript
+          command: npm run lint:js
+      - run:
+          name: Check Style formatting
+          command: npm run prettier:styles
+      - run:
+          name: Check JavaScript formatting
+          command: npm run prettier:js
+      - run:
+          name: Check Template formatting
+          command: npm run prettier:templates
+  process:
+    <<: *defaults
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: Install Gulp
+          command: sudo npm install gulp-cli -g
+      - run:
+          name: Process Upload
+          command: gulp upload
+      - add_ssh_keys:
+          fingerprints:
+            - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
+      - run:
+          name: Commit to GitHub
+          command: |
+            git config user.email "digitalgov@gsa.gov"
+            git config user.name "CircleCI"
+            git add content/uploads/_inbox data/images data/files
+            git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
 
 workflows:
   build_test_process:
