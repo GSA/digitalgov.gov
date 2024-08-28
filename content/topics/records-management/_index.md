@@ -23,7 +23,9 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://www.archives.gov/records-mgmt/policy/managing-web-records-index.html"
+    - title: "NARA Guidance on Managing Web Records"
+      summary: " Managing web records properly is essential to effective web site operations, especially the mitigation of the risks an agency faces by using the web to carry out agency business."
+      link: "https://www.archives.gov/records-mgmt/policy/managing-web-records-index.html"
 
 # Featured community to display at the top of the page
 featured_communities:

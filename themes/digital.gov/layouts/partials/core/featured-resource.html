@@ -1,66 +1,105 @@
-{{/* Featured Resource Component
+<!-- prettier-ignore-start -->
+{{/*
 
-  @params {string} resourcePath - A relative hugo path to lookup a page to feature, use a forward slash before the path and no trailing slash.
-  @params {string} kicker - Text that is displayed above the resources main content.
+  Featured Resource Component displays an internal or external resource wrapped in a gray rounded box.
+  If the link is internal the hugo page lookup will return the fields to display.
+  If the link is external then yaml data or shortcode fields will be used to populate the display fields.
+  The source data can be from a hugo page, yaml data from a topics page frontmatter, or a shortcode used in markdown.
 
-  @example shortcode
-  {{< featured-resource resourcePath = "/guides/hcd/discovery-concepts"
->}}
+  @params {object} resource_data - a dictionary object of strings to display a resource composed of the following properties:
+  - link (required) - can be internal hugo path or external http(s) link
+  - title (required) - the title of the resource
+  - summary (required) - the short description for the resource
+  - kicker (optional) - a short label or message at the top of the resource box
 
-
-<!-- prettier-ignore -->
-Resource paths allowed:
+  @example link paths allowed:
   - 18f-accessibility-guide
   - /18f-accessibility-guide
   - /resources/18f-accessibility-guide
+  - https://wwww.ai.gov
+  - http://www.usps.com/
 
-@example Community shortcodes
-{{< featured-resource resourcePath = "/communities/communicators" kicker = "Join the Community" >}}
+  @example shortcode with internal link:
+  {{< featured-resource link="/guides/hcd/discovery-concepts"
+>}}
+@example shortcode with external link:
+{{< featured-resource link="https://wwww.ai.gov" >}}
 
+@example display a community in a shortcode:
+{{< featured-resource link="/communities/communicators" kicker="Join the Community" >}}
 
-<!-- prettier-ignore -->
-Community resource paths:
-  - communicators
-  - multilingual
-  - plain-language
-  - social-media
-  - user-experience
-  - web-analytics-and-optimization
-  - web-managers-forum
-*/}}
+@example allowed community resource paths: - communicators - multilingual -
+plain-language - social-media - user-experience - web-analytics-and-optimization
+- web-managers-forum */}}
+<!-- prettier-ignore-end -->
 
-{{- $resourcePath := .resourcePath -}}
-{{- $kicker := .kicker -}}
-{{- if $resourcePath -}}
-  {{- $resource := .Site.GetPage $resourcePath -}}
-  {{- if $resource -}}
+{{ $resource := .resource_data }}
+{{ $title := "" }}
+{{ $summary := "" }}
+{{ $image := "" }}
+{{ $kicker := "" }}
+{{ $internalLink := "" }}
+{{ $externalLink := "" }}
+{{ $href := "" }}
+{{ $isExternal := false }}
 
-    <div class="dg-featured-resource">
-      <a
-        href="{{- $resource.Permalink | relURL -}}"
-        class="dg-featured-resource__body"
-      >
-        <div class="dg-featured-resource__text">
-          <p class="dg-featured-resource__text-kicker">
-            {{- if $kicker -}}
-              {{- $kicker | markdownify -}}
-            {{- else -}}
-              Featured Resource
-            {{- end -}}
-          </p>
+{{/* Check if page is an external link, otherwise return a hugo page object */}}
+{{ if or (strings.HasPrefix $resource.link "https://") (strings.HasPrefix $resource.link "http://") }}
+  {{ $isExternal = true }}
+  {{ $title = $resource.title }}
+  {{ $summary = $resource.summary }}
+  {{ $kicker = $resource.kicker }}
+  {{ $externalLink = $resource.link }}
+{{ else }}
+  {{ $page := .Site.GetPage $resource.link }}
+  {{ $title = $page.Title }}
+  {{ $summary = $page.Params.summary }}
+  {{ $image = $page.Params.image }}
+  {{ $internalLink = $page.Permalink }}
+
+  {{/* Check if kicker is present as a custom key, otherwise use page parameter to set */}}
+  {{ if $resource.kicker }}
+    {{ $kicker = $resource.kicker }}
+  {{ else }}
+    {{ if $page.Params.kicker }}
+      {{ $kicker = $page.Params.kicker }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if $isExternal }}
+  {{ $href = $externalLink }}
+{{ else }}
+  {{ $href = ($internalLink | relURL) }}
+{{ end }}
+
+{{- if $resource -}}
+  <div class="dg-featured-resource">
+    <a href="{{ $href }}" class="dg-featured-resource__body">
+      <div class="dg-featured-resource__text">
+        <p class="dg-featured-resource__kicker">
+          {{- if $kicker -}}
+            {{- $kicker | markdownify -}}
+          {{- else -}}
+            Featured Resource
+          {{- end -}}
+        </p>
+        {{ if $title }}
           <h2 class="dg-featured-resource__text-title">
-            {{- $resource.Params.title -}}
+            {{- $title -}}
           </h2>
-          <p class="dg-featured-resource__text-description">
-            {{- $resource.Params.summary -}}
-          </p>
-        </div>
-        {{ if $resource.Params.image }}
-          <div class="dg-featured-resource__image">
-            {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
-          </div>
         {{ end }}
-      </a>
-    </div>
-  {{- end -}}
+        {{ if $summary }}
+          <p class="dg-featured-resource__text-description">
+            {{- $summary -}}
+          </p>
+        {{ end }}
+      </div>
+      {{ if $image }}
+        <div class="dg-featured-resource__image">
+          {{- partial "core/img-flexible.html" (dict "Site" .Site "src" $resource.Params.image "small" "true") -}}
+        </div>
+      {{ end }}
+    </a>
+  </div>
 {{- end -}}
