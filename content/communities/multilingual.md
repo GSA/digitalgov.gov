@@ -4,7 +4,7 @@
 
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
-title: "Multilingual"
+title: "Multilingual Community"
 summary: "Expand and improve digital content in languages other than English."
 
 # Redirects: enter the path of the URL that you want redirected to this page
