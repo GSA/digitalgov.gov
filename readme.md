@@ -76,7 +76,7 @@ npm -v
 
 Using [Homebrew](https://docs.brew.sh/) is a quick and easy way to install Hugo. [Install Homebrew](https://docs.brew.sh/Installation) before getting started.
 
-#### Install Hugo 0.123.3
+#### Install Hugo 0.133.1
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
