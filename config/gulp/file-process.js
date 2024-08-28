@@ -71,7 +71,7 @@ async function processImageOriginal(imageToProcess) {
 }
 
 /**
- * Create the variant with the sharp package
+ * Create the webp variant with the sharp package
  *
  * @param {string} imageToProcess - name of the image file
  * @param {number} variantSetting - variant size and name
@@ -79,6 +79,7 @@ async function processImageOriginal(imageToProcess) {
 async function createResponsiveVariant(imageToProcess, imageVariantSetting) {
   await sharp(`${imageToProcess.path}`)
     .resize(imageVariantSetting.width)
+    .webp()
     .toFile(
       `${processedImagesDirectory}/${imageToProcess.name}${imageVariantSetting.suffix}.webp`,
       (err) => {

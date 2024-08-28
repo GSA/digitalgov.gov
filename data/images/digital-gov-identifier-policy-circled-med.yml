@@ -1,12 +1,10 @@
-
-  # https://s3.amazonaws.com/digitalgov/digital-gov-identifier-policy-circled-med.png
-  # Image shortcode: {{< img src=digital-gov-identifier-policy-circled-med >}}'
-  date     :  2024-08-06 14:07:22 -0400
-  uid      :  digital-gov-identifier-policy-circled-med
-  width    :  1750
-  height   :  430
-  format   :  png
-  credit   :  
-  caption  :  ""
-  alt      :  "Screen capture of the U.S. Web Design System identifier component at the bottom of Digital.gov. The link for privacy policy is circled in yellow."
-  
+# https://s3.amazonaws.com/digitalgov/digital-gov-identifier-policy-circled-med.webp
+# Image shortcode: {{< img src=digital-gov-identifier-policy-circled-med >}}'
+date: 2024-08-06 14:07:22 -0400
+uid: digital-gov-identifier-policy-circled-med
+width: 1750
+height: 430
+format: webp
+credit:
+caption: ""
+alt: "Screen capture of the U.S. Web Design System identifier component at the bottom of Digital.gov. The link for privacy policy is circled in yellow."

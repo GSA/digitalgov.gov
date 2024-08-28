@@ -217,7 +217,7 @@ function writeDataFile() {
     tap(function writeYMLFile(file) {
       let data;
       let uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
-      let format = file.path.split(".").pop();
+      let format = "webp"; // existing images uses jpg/png, going forward we will use webp
       let type = fileType(format);
       if (type === "image") {
         let dimensions = sizeOf(file.path);
