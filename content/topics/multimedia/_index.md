@@ -26,11 +26,6 @@ weight: 2
 
 # Set the legislation card title and link
 
-# Featured resource to at the top of the page
-featured_resources:
-  resources:
-    - link: ""
-
 # Featured community to display at the top of the page
 featured_communities:
   - "communicators"
