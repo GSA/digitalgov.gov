@@ -16,18 +16,10 @@ const processedImagesDirectory = "./content/uploads/_working-images/processed";
  */
 const variantSettings = {
   mobile: {
-    width: 200,
-    suffix: "_w200",
-  },
-  tablet: {
-    width: 400,
-    suffix: "_w400",
-  },
-  desktop_md: {
     width: 800,
     suffix: "_w800",
   },
-  desktop_lg: {
+  desktop: {
     width: 1200,
     suffix: "_w1200",
   },
@@ -136,7 +128,7 @@ async function processImages() {
         const imageToProcess = getImageDetails(image);
         return Promise.all([
           processImageOriginal(imageToProcess),
-          processImageVariants(imageToProcess)
+          processImageVariants(imageToProcess),
         ]);
       });
 
@@ -159,9 +151,9 @@ function removeProcessedImage() {
     const imageDir = "content/uploads/_working-images/processed";
 
     if (fs.existsSync(imageDir) && fs.readdirSync(imageDir).length > 0) {
-      return del([
-        "content/uploads/_working-images/to-process",
-      ]).then(() => resolve()).catch((err) => reject(err));
+      return del(["content/uploads/_working-images/to-process"])
+        .then(() => resolve())
+        .catch((err) => reject(err));
     } else {
       resolve();
     }
