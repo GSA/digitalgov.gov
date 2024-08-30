@@ -34,7 +34,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "/open-opportunities"
+    - link: "open-opportunities"
 
 # Featured community to display at the top of the page
 featured_communities:
