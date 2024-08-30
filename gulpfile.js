@@ -1,11 +1,11 @@
 // Import Gulp 5
-const { parallel, series, src, watch } = require("gulp"); 
+const { parallel, series, src, watch } = require("gulp");
 // Import task functions
 // file tasks upload both images (png,jpg,jpeg) and static files (pdf, xls,...) to their respective s3 buckets
 const file = {
   prep: require("./config/gulp/file-prep"),
   process: require("./config/gulp/file-process"),
-  upload: require("./config/gulp/upload")
+  upload: require("./config/gulp/upload"),
 };
 const scripts = require("./config/gulp/scripts");
 const styles = require("./config/gulp/styles");
@@ -17,13 +17,15 @@ const styles = require("./config/gulp/styles");
  * @returns a completed task
  */
 function uploadTask(cb) {
-  return file.upload().then(() => cb()).catch(err => cb(err));
+  return file
+    .upload()
+    .then(() => cb())
+    .catch((err) => cb(err));
 }
 
 function watchUploads() {
   return series(file.prep.do, file.process.do, uploadTask);
 }
-
 
 function gulpWatch() {
   const THEME_DIR = "./themes/digital.gov/src";
