@@ -3,7 +3,7 @@
 source_url: https://blog.usa.gov/how-multicultural-research-guides-usagovs-benefit-finder
 source: usagov
 date: 2024-08-27 00:00:00 -0500
-title: How multicultural research guides USAGovs benefit finder
+title: "How multicultural research guides USAGov's benefit finder"
 deck: Discover how USAGov’s Benefit Finder tailors its experience for both
   English and Spanish-speaking users through culturally nuanced content. By
   using a dual-track research approach, a fully bilingual team, and ABC testing,
