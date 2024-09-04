@@ -76,7 +76,7 @@ Creating the Login.gov Program Roadmap invites an ongoing conversation with Logi
 
 With each iteration, the Login.gov Program Roadmap becomes an increasingly useful resource that Login.gov partners have come to rely on for updates and information. It informs how we talk about our program with stakeholders and motivates the team to work together toward common goals.
 
-If you’re interested in learning more about what we did or about Login.gov, let us know how we can help. Connect with us at [partners@login.gov](partners@login.gov).
+If you’re interested in learning more about what we did or about Login.gov, let us know how we can help. Connect with us at [partners@login.gov](mailto:partners@login.gov).
 
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
