@@ -90,13 +90,13 @@ Quickly check your Hugo version at your terminal command line by running:
 hugo version
 ```
 
-**Note:** Digital.gov currently uses Hugo version 0.123.3. This is noted in our [.hugo-version](.hugo-version) file.
+**Note:** Digital.gov currently uses Hugo version 0.133.1. This is noted in our [.hugo-version](.hugo-version) file.
 If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: 
 1.  Uninstall the current version with `brew uninstall hugo`
 2.  Visit
     [<u>https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb</u>](https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb)
 3.  Click the “History” link
-4.  Find the “bottle” commit for the desired version (Ex: 'hugo: update 0.123.3' bottle)
+4.  Find the “bottle” commit for the desired version (Ex: 'hugo: update 0.133.1' bottle)
 5.  Press the “View at this point in history” button
 6.  Press the “Raw” button
 7.  Right-click anywhere on the page and choose “Save as…”
