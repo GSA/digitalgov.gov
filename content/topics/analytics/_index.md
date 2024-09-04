@@ -30,7 +30,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "/guides/dap/"
+  - link: "/guides/dap"
 
 # Featured community to display at the top of the page
 featured_communities:

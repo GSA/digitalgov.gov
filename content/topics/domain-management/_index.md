@@ -21,7 +21,9 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "https://get.gov/"
+    - title: "get.gov"
+      summary: ".gov is the top-level domain for governments in the U.S. and helps to identify U.S. governments on the internet."
+      link: "https://get.gov/"
 
 # Featured community to display at the top of the page
 featured_communities:

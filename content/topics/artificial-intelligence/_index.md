@@ -26,22 +26,16 @@ legislation:
   title: "Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence"
   link: "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/"
 
-# Featured internal resource to at the top of the page
+# Featured resource at the top of the page
 featured_resources:
   resources:
-    - link: ""
+  - title: "Artificial intelligence: Essential knowledge"
+    summary: "Ensuring the U.S. leads in safe, secure, and trustworthy artificial intelligence innovation to harness the opportunities of AI while mitigating its risks."
+    link: "https://www.ai.gov/"
 
 # Featured community to display at the top of the page
 featured_communities:
   - "artificial-intelligence"
   - "communicators"
-
-# Curated list of content, can be internal or external links
-featured_links:
-  title: "Artificial intelligence: Essential knowledge"
-  resources:
-  - title: "AI.gov"
-    summary: "Ensuring the U.S. leads in safe, secure, and trustworthy artificial intelligence innovation to harness the opportunities of AI while mitigating its risks."
-    href: "https://www.ai.gov/"
 
 ---

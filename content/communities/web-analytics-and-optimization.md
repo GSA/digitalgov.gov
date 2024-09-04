@@ -47,7 +47,7 @@ community_list:
 
 kicker: "Join the Web Analytics Community"
 
-primary_image: "digital-gov-card-community"
+primary_image: "communities-card-analytics"
 
 ---
 

@@ -68,7 +68,7 @@ community_list:
     members: 2,166
     join_cop_button: "Web Manager community members"
 
-primary_image: "white-on-gsa-blue-digital-gov-card-community"
+primary_image: "communities-card-web-mgrs"
 
 kicker: "Join the Web Managers Community"
 
