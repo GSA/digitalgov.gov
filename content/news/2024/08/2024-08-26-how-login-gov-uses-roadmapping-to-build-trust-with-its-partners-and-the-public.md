@@ -81,6 +81,6 @@ If you’re interested in learning more about what we did or about Login.gov, le
 <footer>
 <h3 id="footnote-label">Footnotes</h3>
 <ol>
-<li id="fn1"> ["Trust in Government Dashboard"](https://ourpublicservice.org/our-solutions/rebuilding-trust-in-government/dashboard/) (Partnership for Public Service). 2024. https://ourpublicservice.org/our-solutions/rebuilding-trust-in-government/dashboard/. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+<li id="fn1"> "Trust in Government Dashboard" (Partnership for Public Service). 2024. https://ourpublicservice.org/our-solutions/rebuilding-trust-in-government/dashboard/. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
 </footer>
