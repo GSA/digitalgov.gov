@@ -29,7 +29,7 @@ Login.gov enables members of the public to create a single digital account that 
 
 ## The problem: providing meaningful transparency
 
-Public [trust](https://digital.gov/topics/trust/) is valuable, hard-earned currency for government agencies, and it’s becoming harder to earn. Over the last two years, trust in the federal government dropped 12 percentage points — from 35% in 2022 down to 23% in 2024. Trust is especially important when it comes to online services because people are being asked to supply sensitive information digitally to receive benefits and assistance.
+Public [trust](https://digital.gov/topics/trust/) is valuable, hard-earned currency for government agencies, and it’s becoming harder to earn. Over the last two years, trust in the federal government dropped 12 percentage points — from 35% in 2022 down to 23% in 2024. <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup> Trust is especially important when it comes to online services because people are being asked to supply sensitive information digitally to receive benefits and assistance.
 
 At Login.gov, we serve the public by giving them a way to securely and seamlessly access government websites. By working with agency partners that choose to use Login.gov as the “front door” into their systems, we help them reduce the overhead costs of managing an identity solution while they focus on their core mission.
 
@@ -76,3 +76,10 @@ Creating the Login.gov Program Roadmap invites an ongoing conversation with Logi
 With each iteration, the Login.gov Program Roadmap becomes an increasingly useful resource that Login.gov partners have come to rely on for updates and information. It informs how we talk about our program with stakeholders and motivates the team to work together toward common goals.
 
 If you’re interested in learning more about what we did or about Login.gov, let us know how we can help. Connect with us at [partners@login.gov](partners@login.gov).
+
+<footer>
+<h3 id="footnote-label">Footnotes</h3>
+<ol>
+<li id="fn1"> ["Trust in Government Dashboard"](https://ourpublicservice.org/our-solutions/rebuilding-trust-in-government/dashboard/) (Partnership for Public Service). 2024. https://ourpublicservice.org/our-solutions/rebuilding-trust-in-government/dashboard/. <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
+</ol>
+</footer>
