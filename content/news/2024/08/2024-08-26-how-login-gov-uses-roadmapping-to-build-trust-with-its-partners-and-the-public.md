@@ -62,7 +62,7 @@ We published the first Login.gov Program Roadmap in May 2023, with subsequent up
 
 In the roadmap, we lay out the impact of the program, as well as learnings that will inform future initiatives and strategic development. As a living document that is regularly updated, the roadmap is able to incorporate ongoing user research as well as feedback from agency partners to adapt these plans over time. In the interest of transparency, the roadmap also addresses challenges and potential barriers that Login.gov faces in achieving its mission and goals.
 
-## What we learned: How to build a roadmap that builds trust
+## What we learned: how to build a roadmap that builds trust
 
 Creating the Login.gov Program Roadmap invites an ongoing conversation with Login.gov partners. It allows the program to declare a destination and set a course based on agencies’ needs. And like a “map”, it allows for alternative routes and detours to accommodate shifts and overcome barriers to reach the destination together. Based on our experience, here are a few takeaways for other programs interested in building their own roadmaps:
 
