@@ -243,7 +243,7 @@ So what does this mean for the USWDS pattern guidance?
 
 **Slide 68:** And let people indicate that they prefer not to answer. There are many reasons people may choose not to provide their gender identity, and we need to be respectful of that.
 
-**Slide 69:** If you do need to ask for both gender identity and sex, consider asking for gender identity first, since this is the designation that determined an individual’s sense of self. And [consider phrasing the question in the same way the CDC does](https://www.cdc.gov/hiv/clinicians/transforming-health/health-care-providers/collecting-sexual-orientation.html): I think of myself as…. This is also a place where “prefer not to answer” might be a viable option for sex  —  the CDC recommends this, and while we generally discourage it, it is an important option when you are asking for both sex and gender especially in a patient-provider relationship where trust is so important.
+**Slide 69:** If you do need to ask for both gender identity and sex, consider asking for gender identity first, since this is the designation that determined an individual’s sense of self. And [consider phrasing the question in the same way the CDC does](https://www.cdc.gov/hiv-data/initiatives/index.html): I think of myself as…. This is also a place where “prefer not to answer” might be a viable option for sex  —  the CDC recommends this, and while we generally discourage it, it is an important option when you are asking for both sex and gender especially in a patient-provider relationship where trust is so important.
 
 **Slide 70:** Now let’s look at guidance around Pronouns.
 
