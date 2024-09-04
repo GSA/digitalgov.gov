@@ -568,7 +568,7 @@ Within `180 days` of the launch of the Federal Services Index (date to be determ
 ## Resources
 
 - Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/digital-service-delivery/)
-- Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
+- Use the [self-assessment checklist for federal websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)
 - Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
 - Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)
 - Learn more about [how to use the U.S. Web Design System](https://designsystem.digital.gov/how-to-use-uswds/#get-started-with-uswds)
