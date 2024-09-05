@@ -40,7 +40,7 @@ As such, we are responsible for building trust in three ways:
 * Directly with agency partners that use Login.gov, and 
 * Indirectly with the public as part of each agency’s service delivery channels. 
 
-Login.gov has always valued transparency, so we found it challenging to make meaningful, concrete progress given this complex dynamic.
+Given the complex environment for building trust with these various audiences, the question became how best to navigate it while applying our foundational value of transparency.
 
 A popular approach in software development is to build and share a product roadmap that articulates the direction of the service. However, these roadmaps can often become just lists of features and dates. This outcome can be counterintuitive and undermines trust by boxing an organization into a plan that isn’t adaptable to an agile development process. Furthermore, these roadmaps often leave out the “why” — what the organization is doing, why the work is valuable, what tradeoffs the team makes, and more.
 
