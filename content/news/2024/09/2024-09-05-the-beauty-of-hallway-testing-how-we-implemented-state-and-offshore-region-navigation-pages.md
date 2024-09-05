@@ -3,8 +3,8 @@
 source_url: https://blog-nrrd.doi.gov/hallway-study-state-offshore-navigation/
 source: doi-revenuedata
 date: 2024-09-03 00:00:00 -0500
-title: The beauty of hallway testing How we implemented state and offshore
-  region navigation pages
+title: "The beauty of hallway testing: How we implemented state and offshore
+  region navigation pages"
 deck: User feedback is key to creating great digital products, but limited
   resources can hinder research efforts. Hallway testing provides a quick,
   effective solution. By conducting informal interviews, the team gathered
