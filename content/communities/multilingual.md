@@ -47,7 +47,7 @@ community_list:
 
 kicker: "Join the Multilingual Community"
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "communities-card-ml"
 
 ---
 

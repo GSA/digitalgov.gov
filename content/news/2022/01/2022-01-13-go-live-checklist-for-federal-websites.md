@@ -20,6 +20,7 @@ topics:
 # See all authors at https://digital.gov/authors
 authors:
   - rflagg
+expirydate: "2024-08-23" 
 slug: go-live-checklist-for-federal-websites
 primary_image: checklist-topics
 # Controls how this page appears across the site
