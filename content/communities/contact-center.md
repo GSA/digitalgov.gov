@@ -21,7 +21,7 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "g3c-request@listserv.gsa.gov"
-    subscribe_email_subject: "Join the Contact center community"
+    subscribe_email_subject: "Join the Contact Center Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 380
     join_cop_button: "Contact center community members"
