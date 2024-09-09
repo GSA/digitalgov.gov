@@ -7,6 +7,7 @@
 
 
 
+
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -40,7 +41,6 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/805843500
   cop_topics:
     - Social Media
-    - Communicators
 
 - title: Community Outreach Specialist
   department: Department of Homeland Security
@@ -53,4 +53,27 @@
   cop_topics:
     - Communicators
     - Plain Language
+
+- title: Program Specialist
+  department: Department of Transportation
+  location: Washington, District of Columbia
+  description: >
+          The position is located within the Office of Finance & Management, AFN-001. AFN Strategic Communications provides communications support with broad awareness messaging and digital presentation to enhance the visibility of AFN efforts, including the FedView Survey, awards programs, Robotics Process Automation (RPA), Enterprise Information Management (EIM), Freedom of Information Act (FOIA), AFN Connect, branding and other initiatives.
+  open_date: 2024-08-31
+  close_date: 2024-09-14
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807444900
+  cop_topics:
+    - Social Media
+
+- title: Program Specialist
+  department: Department of Transportation
+  location: Washington, District of Columbia
+  description: >
+          The position is located within the Office of Finance & Management, AFN-001. AFN Strategic Communications provides communications support with broad awareness messaging and digital presentation to enhance the visibility of AFN efforts, including the FedView Survey, awards programs, Robotics Process Automation (RPA), Enterprise Information Management (EIM), Freedom of Information Act (FOIA), AFN Connect, branding and other initiatives.
+  open_date: 2024-08-31
+  close_date: 2024-09-14
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807442100
+  cop_topics:
+    - Social Media
+
 
