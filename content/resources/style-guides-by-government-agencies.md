@@ -52,6 +52,10 @@ Style guides are used to set the tone and guidelines for how an agency communica
 - [National Institutes of Health (NIH) Style Guide](https://www.nih.gov/nih-style-guide)
 - [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (SAMHSA) (PDF, 285 KB, 4 pgs)
 
+**U.S. Department of the Interior**
+
+- [Indian Affairs Web Standards](https://www.bia.gov/webstandards/content-guide)
+
 **U.S. Department of Veterans Affairs (VA)**
 
 - [VA.gov Content Style Guide](https://design.va.gov/content-style-guide/)
@@ -70,7 +74,7 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 **U.S. Government Publishing Office (GPO)**
 
-- [U.S. Government Publishing Office Style Manual](https://www.gpo.gov/fdsys/search/pagedetails.action?collectionCode=GPO&granuleId=&packageId=GPO-STYLEMANUAL-2016)
+- [U.S. Government Publishing Office Style Manual](https://www.govinfo.gov/collection/gpo-style-manual?path=/GPO/U.S.%20Government%20Publishing%20Office%20Style%20Manual)
 
 **U.S. Postal Service (USPS)**
 

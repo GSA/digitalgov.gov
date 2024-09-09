@@ -1,66 +1,99 @@
+@use "sass:map";
 @use "uswds-core" as *;
 
 // Styles for inline form on the DG7 community pages
+
+$communities-of-practice-colors: (
+  "CC": color("blue-60v"),
+  "FCN": color("magenta-50"),
+  "ML": color("red-50"),
+  "PL": color("blue-cool-60v"),
+  "SM": color("gold-40v"),
+  "UX": color("mint-cool-50"),
+  "WAO": color("orange-50v"),
+  "WCM": color("indigo-60v"),
+);
+
+@each $community, $color in $communities-of-practice-colors {
+  .join-community-form--#{$community} {
+    border: units("05") solid $color;
+  }
+}
+
 .join-community-form {
-  @include u-border-left("05", "solid", "gray-warm-20");
-  @include u-bg("gray-warm-10");
-  @include u-margin-bottom(5);
-  @include u-padding-top(2.5);
-  @include u-padding-bottom(4);
-  @include u-padding-x(3);
+  color: color("gray-90");
+  font-weight: font-weight("light");
+  margin-bottom: units(5);
+  padding-bottom: units(4);
+  padding-left: units(3);
+  padding-right: units(3);
+  padding-top: units(2.5);
   @include u-radius("sm");
-  @include u-text("light");
-  @include u-text("gray-90");
 
   &__header {
-    @include u-font("sans", "lg");
-    @include u-margin-bottom("105");
-    @include u-margin-top(0);
-    @include u-text("normal");
+    align-items: center;
+    display: flex;
+    font-family: font-family("sans");
+    font-size: font-size("sans", "lg");
+    font-weight: font-weight("normal");
+    margin-bottom: units("105");
+    margin-top: 0;
+
+    h3 {
+      margin: 0;
+      padding-left: units(2);
+    }
+
+    img {
+      max-width: units(8);
+      object-fit: cover;
+    }
   }
 
   &__header-svg {
-    @include u-margin-right(2);
+    margin-right: units(2);
   }
 
   &__body {
-    @include u-padding-top(2);
+    font-weight: font-weight(400);
+    padding-top: units(2);
   }
 
   &__body-eligibility {
-    @include u-padding-bottom(2);
+    padding-bottom: units(2);
   }
 
   &__body-form-button {
-    @include u-bg("cyan-60v");
-    @include u-text("gray-warm-1");
+    background-color: color("cyan-60v");
+    color: color("gray-warm-1");
 
     &:hover {
-      @include u-bg("cyan-70v");
-      @include u-text("gray-warm-1");
+      background-color: color("cyan-70v");
+      color: color("gray-warm-1");
     }
   }
 
   strong {
-    @include u-text("medium");
+    font-weight: font-weight("medium");
   }
 
   p:last-child {
-    @include u-margin-bottom(0);
+    margin-bottom: 0;
   }
 
   blockquote {
-    @include u-border(0);
-    @include u-padding-left(0);
+    border: 0;
+    padding-left: 0;
   }
 
   ol,
   ul {
-    @include u-margin-y(0);
-    @include u-padding-left("205");
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: units("205");
 
     li {
-      @include u-margin-bottom(2);
+      margin-bottom: units(2);
     }
   }
 }
