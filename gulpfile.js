@@ -4,7 +4,7 @@ const { parallel, series, src, watch } = require("gulp");
 // file tasks upload both images (png,jpg,jpeg) and static files (pdf, xls,...) to their respective s3 buckets
 const file = {
   prep: require("./config/gulp/file-prep"),
-  process: require("./config/gulp/file-process"),
+  process: require("./config/gulp/process"),
   upload: require("./config/gulp/upload"),
 };
 const scripts = require("./config/gulp/scripts");
@@ -23,8 +23,21 @@ function uploadTask(cb) {
     .catch((err) => cb(err));
 }
 
+/**
+ * Sets up a gulp style task to conform to the current convention
+ * for processing & converting image variants for s3.
+ * @param {*} cb Gulp callback function
+ * @returns a completed task
+ */
+function processTask(cb) {
+  return file
+    .process()
+    .then(() => cb())
+    .catch((err) => cb(err));
+}
+
 function watchUploads() {
-  return series(file.prep.do, file.process.do, uploadTask);
+  return series(file.prep.do, processTask, uploadTask);
 }
 
 function gulpWatch() {
@@ -49,6 +62,6 @@ exports.copyUswdsAssets = parallel(
 exports.buildAssets = parallel(styles.buildSass, scripts.compile);
 exports.buildSass = styles.buildSass;
 exports.buildJS = scripts.compile;
-exports.upload = series(file.prep.do, file.process.do, uploadTask);
+exports.upload = series(file.prep.do, processTask, uploadTask);
 exports.watch = gulpWatch;
 exports.default = series(styles.buildSass, gulpWatch);

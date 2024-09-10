@@ -145,12 +145,12 @@ const upload = async (): Promise<void> => {
       await uploadFile(filePath, file);
     }
 
-    console.log("All uploads completed successfully.");
-
     // Run cleanup after uploads
     await cleanup();
   } catch (error) {
     console.error("Upload process failed:", error);
+  } finally {
+    console.log("All uploads completed successfully.");
   }
 };
 

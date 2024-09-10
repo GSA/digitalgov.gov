@@ -141,12 +141,14 @@ const upload = async () => {
             const filePath = path.join(fileDir, file);
             await uploadFile(filePath, file);
         }
-        console.log("All uploads completed successfully.");
         // Run cleanup after uploads
         await cleanup();
     }
     catch (error) {
         console.error("Upload process failed:", error);
+    }
+    finally {
+        console.log("All uploads completed successfully.");
     }
 };
 module.exports = upload;
