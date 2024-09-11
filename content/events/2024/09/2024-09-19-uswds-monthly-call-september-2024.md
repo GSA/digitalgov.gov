@@ -6,6 +6,7 @@ summary: The U.S. Web Design System team will share their exploration of Web Com
 event_organizer: Digital.gov
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsdemgrT8tHZvOdHYHRTKhveBs1rHPdBc
+date: 2024-09-19 14:00:00 -0500
 end_date: 2024-09-19 15:00:00 -0500
 
 # See all topics at https://digital.gov/topics
