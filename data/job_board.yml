@@ -8,11 +8,6 @@
 
 
 
-" Instructions: 
-   1. Replace everything in ""job_board.yml"" cell A2. 
-   2. Copy/paste cell A2 into ""job_board.yml"" underneath comments. 
-   3. After pasting, remove the quotation marks around the yaml entry."
-
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
