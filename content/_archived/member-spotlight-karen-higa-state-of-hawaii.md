@@ -1,11 +1,14 @@
 ---
 url: /communities/web-managers-forum/member-spotlight-karen-higa-state-of-hawaii/
 date: 2014-10-14 2:12:31 -0400
-title: Member Spotlight – Karen Higa, State of Hawaii
-summary: 'This month, we turn the spotlight on Karen Higa, who manages Hawaii.gov.'
+title: "Member Spotlight – Karen Higa, State of Hawaii"
+summary: "This month, we turn the spotlight on Karen Higa, who manages Hawaii.gov."
+
 ---
 
-{{< legacy-img src="/2014/10/250-x-319-Karen-Higa-HawaiiGov.jpg" alt="Karen Higa, Hawaii.gov" >}}This month, we turn the spotlight on Karen Higa, who manages [Hawaii.gov](https://portal.ehawaii.gov/ "Hawaii.gov"). Besides being arguably the most beautiful government website (what can I say? I’m a fan of blue water, brilliant sunsets, and palm trees&#8230;), Hawaii.gov has just won the [2014 Best of the Web](http://oimt.hawaii.gov/hawaii-gov-wins-2014-best-of-the-web-national-award/) Digital Government Achievement Award (DGAA) for State Web Portals. The site was also recently recognized by the [National Association of Government Web Professionals (NAGW)](https://www.nagw.org/) as a Member’s Choice [2014 Pinnacle Award Winner](https://www.nagw.org/news/2014/09/14/2014-nagw-pinnacle-award-winners-announced). We want to congratulate Karen and her team on these honors, and help them to celebrate by acknowledging their work, and getting to know them a little better.
+{{< legacy-img-right src="/2014/10/250-x-319-Karen-Higa-HawaiiGov.jpg" alt="Karen Higa, Hawaii.gov" >}}
+
+This month, we turn the spotlight on Karen Higa, who manages [Hawaii.gov](https://portal.ehawaii.gov/ "Hawaii.gov"). Besides being arguably the most beautiful government website (what can I say? I’m a fan of blue water, brilliant sunsets, and palm trees&#8230;), Hawaii.gov has just won the [2014 Best of the Web](http://oimt.hawaii.gov/hawaii-gov-wins-2014-best-of-the-web-national-award/) Digital Government Achievement Award (DGAA) for State Web Portals. The site was also recently recognized by the [National Association of Government Web Professionals (NAGW)](https://www.nagw.org/) as a Member’s Choice [2014 Pinnacle Award Winner](https://www.nagw.org/news/2014/09/14/2014-nagw-pinnacle-award-winners-announced). We want to congratulate Karen and her team on these honors, and help them to celebrate by acknowledging their work, and getting to know them a little better.
 
 ### What do you love most about your job?
 

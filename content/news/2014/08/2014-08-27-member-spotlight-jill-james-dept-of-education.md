@@ -10,7 +10,9 @@ topics:
   - mobile
 ---
 
-{{< legacy-img src="2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" >}}Welcome to the first edition of a new series of articles spotlighting members of our [Government Web Manager Community]({{< ref "web-managers-forum.md" >}} "Web Content Managers Forum"). This month, we introduce Jill James, who’s the Senior Web Editor/Director for the **Department of Education**, in their Communications and Outreach Office. We asked Jill a few questions about her work at Dept. of Ed, as well as her life outside of work, and we’re happy for the chance to get to know her better!
+{{< legacy-img-right src="2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" >}}
+
+Welcome to the first edition of a new series of articles spotlighting members of our [Government Web Manager Community]({{< ref "web-managers-forum.md" >}} "Web Content Managers Forum"). This month, we introduce Jill James, who’s the Senior Web Editor/Director for the **Department of Education**, in their Communications and Outreach Office. We asked Jill a few questions about her work at Dept. of Ed, as well as her life outside of work, and we’re happy for the chance to get to know her better!
 
 ## What’s the best job you&#8217;ve ever had (and why)?
 
@@ -52,6 +54,4 @@ I was the editor-in-chief of my high school newspaper, and I won an award for hi
 
 If I could work anywhere, I would still work for the federal government on digital communications! I love serving the public and working to make government information more transparent and easier to find.
 
- 
-
-_This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles related to this theme._
