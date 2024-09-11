@@ -8,6 +8,11 @@
 
 
 
+" Instructions: 
+   1. Replace everything in ""job_board.yml"" cell A2. 
+   2. Copy/paste cell A2 into ""job_board.yml"" underneath comments. 
+   3. After pasting, remove the quotation marks around the yaml entry."
+
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -31,17 +36,6 @@
     - Web Analytics
     - Web Managers
 
-- title: Director of Public Engagement
-  department: Other Agencies and Independent Organizations
-  location: College Park, Maryland
-  description: >
-          The National Archives and Records Administration is seeking a Director of Public Engagement to lead the Office of Public Engagement within the Office of the Presidential Libraries (P) of the National Archives and Records Administration (NARA). The incumbent is responsible for envisioning, facilitating, managing and executing national exhibition, public programming, education and communications initiatives and coordinated public-facing projects for the Presidential Library system.
-  open_date: 2024-08-23
-  close_date: 2024-09-10
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/805843500
-  cop_topics:
-    - Social Media
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -64,6 +58,25 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807444900
   cop_topics:
     - Social Media
+
+- title: Program Specialist
+  department: Department of Transportation
+  location: Washington, District of Columbia
+  description: >
+          The position is located within the Office of Finance & Management, AFN-001. AFN Strategic Communications provides communications support with broad awareness messaging and digital presentation to enhance the visibility of AFN efforts, including the FedView Survey, awards programs, Robotics Process Automation (RPA), Enterprise Information Management (EIM), Freedom of Information Act (FOIA), AFN Connect, branding and other initiatives.
+  open_date: 2024-08-31
+  close_date: 2024-09-14
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807442100
+  cop_topics:
+    - Social Media
+
+- title: Writer/Editor
+  department: Department of Health and Human Services
+  location: Multiple Locations
+  description: >
+          This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Medicare and Medicaid Innovation, Policy and Programs Group, Division of Stakeholder Engagement and Policy. As a Writer/Editor, GS-1082-13, you will lead the planning, implementation, and evaluation of a variety of program and policy communications.
+  open_date: 2024-09-10
+  close_date: 2024-09-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808598200
+  cop_topics:
     - Communicators
-
-
