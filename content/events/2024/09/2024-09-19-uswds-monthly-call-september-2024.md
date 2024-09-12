@@ -30,7 +30,8 @@ This month, join the U.S. Web Design System (USWDS) team in exploring the landsc
 In this online session with the USWDS team, you will:
 
 * Learn what’s new in USWDS 3.9
-* Explore how other design systems are approaching Web ComponentsGain insight to the team’s thoughts about where USWDS might fit in the broader landscape of modern design systems
+* Explore how other design systems are approaching Web Components
+* Gain insight to the team’s thoughts about where USWDS might fit in the broader landscape of modern design systems
 
 
 **This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend; it requires no specialized knowledge.
