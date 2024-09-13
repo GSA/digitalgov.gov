@@ -4,7 +4,7 @@
   background-color: color("gold-5");
   border-radius: radius("sm");
   margin-bottom: units(3);
-  width: measure(6);
+  max-width: 100%;
 
   blockquote {
     border-left: units(0.5) solid color("gold-30");
