@@ -51,7 +51,7 @@ On the Data.gov [metrics landing page](http://data.gov/metrics), you’ll find a
 
 {{< img src="datagov-metrics-users" >}}
 
-As we noted earlier, you can download full reports for any of these topics with the Download Full Report link at the bottom of each table. You never know what insights you might find in your data. For example, did you know that the search term shark was entered 51 times in July 2024?
+As we noted earlier, you can download full reports for any of these topics with the `Download Full Report` link at the bottom of each table. You never know what insights you might find in your data. For example, did you know that the search term shark was entered 51 times in July 2024?
 
 The landing page offers the ability to view and download the number of total datasets available on Data.gov by organization. You can also view and download the number of data harvest sources for each organization in descending order.
 
