@@ -83,7 +83,7 @@ By building this collaborative environment, TTS maximized ARP funding, providing
 
 ARP investments are helping to spur change to digital government services to build stronger communities, improve the public’s experience, and serve the underserved.
 
-Check out the [FY 2023 American Rescue Plan success stories on GSA.gov](https://www.gsa.gov/technology/government-it-initiatives/tts-american-rescue/american-rescue-plan-end-of-year-report/connect-with-success-stories) to learn more about this work, including how agencies are tracking grant funding more effectively, improving federal benefits program enrollment and engagement using Notify.gov, and tackling challenges like homelessness and [Long COVID](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html).
+Check out the [FY 2023 American Rescue Plan success stories on GSA.gov](https://www.gsa.gov/technology/government-it-initiatives/tts-american-rescue/american-rescue-plan-end-of-year-report/connect-with-success-stories) to learn more about this work, including how agencies are tracking grant funding more effectively, improving federal benefits program enrollment and engagement using Notify.gov, and tackling challenges like homelessness and [Long COVID](https://www.cdc.gov/covid/long-term-effects/index.html).
 
 Moving into the new fiscal year, GSA will continue to design and deliver a digital government with and for the public.
 

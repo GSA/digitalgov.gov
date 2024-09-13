@@ -135,7 +135,7 @@ menu:
       Identifier: "tools"
       URL: "/services/directory/"
       Weight: 5
-    - Name: "Job Board"
+    - Name: "Job board"
       Identifier: "job-board"
       URL: "/job-board/"
       Weight: 6

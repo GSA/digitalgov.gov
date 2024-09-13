@@ -1,39 +1,38 @@
 ---
-title: USWDS Monthly Call - August 2024
-deck: A look at beta web components
+title: USWDS Monthly Call - September 2024
+deck: The landscape of Web Components
 kicker: USWDS
-summary: The U.S. Web Design System team will answer community questions and give an update on their work developing web components for the design system.
-host: U.S. Web Design System
+summary: The U.S. Web Design System team will share their exploration of Web Component-based design systems and best practices. 
 event_organizer: Digital.gov
 cop_events: ""
-registration_url: https://gsa.zoomgov.com/meeting/register/vJItcumgrzIoHjYBsYQS-9h1vFpz0KMCvHE
-date: 2024-08-15 14:00:00 -0500
-end_date: 2024-08-15 15:00:00 -0500
+registration_url: https://gsa.zoomgov.com/meeting/register/vJIsdemgrT8tHZvOdHYHRTKhveBs1rHPdBc
+date: 2024-09-19 14:00:00 -0500
+end_date: 2024-09-19 15:00:00 -0500
 
 # See all topics at https://digital.gov/topics
 topics:
   - design
   - human-centered-design
   - software-engineering
+  - open-source
 
-slug: uswds-monthly-call-august-2024
+slug: uswds-monthly-call-september-2024
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
-primary_image: 2024-uswds-monthly-call-aug-title-card
+primary_image: 2024-uswds-monthly-call-sep-title-card
 
 ---
 
-{{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
-
-Join the U.S. Web Design System (USWDS) team to understand their progress toward developing beta web components. They’ll also answer questions and requests posted by the [community in the community choice discussion thread for the August monthly call on GitHub](https://github.com/uswds/uswds/discussions/5923). 
+This month, join the U.S. Web Design System (USWDS) team in exploring the landscape of Web Components. The team will share their recent landscape analysis of Web Components-based design systems and discuss how these findings set a course for future USWDS development.  
 
 In this online session with the USWDS team, you will:
 
-* Learn how to use beta versions of our next batch of new web components
-* Gain insight to the USWDS team’s progress on building a Figma design kit
-* Get our answers to your community choice questions
+* Learn what’s new in USWDS 3.9
+* Explore how other design systems are approaching Web Components
+* Gain insight to the team’s thoughts about where USWDS might fit in the broader landscape of modern design systems
+
 
 **This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend; it requires no specialized knowledge.
 
@@ -42,7 +41,7 @@ In this online session with the USWDS team, you will:
 * **Dan Williams** - Product Lead, USWDS
 * **Matt Henry** - Engineering Lead, USWDS
 * **Anne Petersen** - Experience Design Lead, USWDS
-* **Amy Leadem** - Developer, USWDS contractor
+* **Jacline Contrino** - UX Researcher, USWDS contractor
 
 ## Join our Communities of Practice
 
