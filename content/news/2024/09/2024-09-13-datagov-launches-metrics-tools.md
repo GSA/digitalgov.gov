@@ -11,7 +11,7 @@ topics:
   - analytics
 # See all authors at https://digital.gov/authors
 authors: 
-  - tim-lowden
+  - tlowden
 slug: datagov-launches-metrics-tools
 # Controls how this page appears across the site
 # 0 -- hidden
