@@ -20,11 +20,13 @@ weight: 1
 ---
 Data.gov is the home of the U.S. government’s open data. The site’s catalog includes metadata from more than 300,000 datasets across multiple levels of government. Until recently, however, there wasn’t a detailed way to see how the public interacted with the dataset pages by publishing organization.
 
-The Data.gov team wanted to help our data providers and the public understand and explore how our people use the data and content on our site. That’s why we are excited to announce the launch of the Data.gov metrics dashboard. This dashboard includes a dedicated page for every data provider organization in our system. 
+The Data.gov team wanted to help our data providers and the public understand and explore how our people use the data and content on our site. **That’s why we are excited to announce the launch of the [Data.gov metrics dashboard](http://Data.gov/metrics).** This dashboard includes a dedicated page for every data provider organization in our system. 
 
-Previously, users could only see “recent views,” which are calculated using views from the last two weeks. This information is a feature of CKAN, the underlying open source data management system that runs our catalog.
+Previously, users could only see “recent views,” which are calculated using views from the last two weeks. This information is a feature of [CKAN](https://ckan.org/), the underlying open source data management system that runs our catalog.
 
-The ability to sort datasets by recent popularity is helpful, but it left a gap in understanding. We wanted to know if our users could accomplish Data.gov’s ultimate goal: Did our users find and access the data they wanted?
+{{< img src=datagov-metrics-recent-views >}}
+
+The ability to sort datasets by recent popularity is helpful, but it left a gap in understanding. We wanted to know if our users could accomplish Data.gov’s ultimate goal: **Did our users find and access the data they wanted?**
 
 ## Identifying the right features 
 
@@ -41,11 +43,13 @@ Our team set out to create basic dashboard pages to help data providers answer t
 
 ### Landing page
 
-On the Data.gov metrics landing page, you’ll find a few tables with metrics that apply to the entire site. These include:
+On the Data.gov [metrics landing page](http://data.gov/metrics), you’ll find a few tables with metrics that apply to the entire site. These include:
 
 * Total pageviews
 * Users by device type
 * Top search terms
+
+{{< img src=datagov-metrics-users >}}
 
 As we noted earlier, you can download full reports for any of these topics with the Download Full Report link at the bottom of each table. You never know what insights you might find in your data. For example, did you know that the search term shark was entered 51 times in July 2024?
 
@@ -55,13 +59,17 @@ The landing page offers the ability to view and download the number of total dat
 
 From the metrics landing page, you can search for any particular organization. Just choose your organization in the drop-down menu and click `View Report`. In the example here, we will view the report for the U.S. Census Bureau. 
 
-From there, you will be taken to the Census Bureau-specific page. You can bookmark it to visit again later, or view and download several reports:
+{{< img src=datagov-metrics-search >}}
+
+From there, you will be taken to the [Census Bureau-specific page](https://data.gov/metrics/organization/census-gov/index.html). You can bookmark it to visit again later, or view and download several reports:
 
 * Most viewed dataset pages
 * Most downloaded files
 * Most clicked outbound links
 
 At the top of the page, you can also select `View Harvest Source Data` to see where data is sourced from, how often it is re-harvested, and when it was last updated. This information is also available to download as a comma-separated values (CSV) or JavaScript Object Notation (JSON) file.
+
+{{< img src=datagov-metrics-table >}}
 
 ## Looking ahead
 
