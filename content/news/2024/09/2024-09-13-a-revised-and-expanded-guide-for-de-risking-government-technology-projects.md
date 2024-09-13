@@ -3,7 +3,7 @@
 source_url: https://18f.gsa.gov/2024/09/12/derisking-guide-update/
 source: 18f
 date: 2024-09-12 00:00:00 -0500
-title: A revised and expanded guide for de risking government technology projects
+title: "A revised and expanded guide for de-risking government technology projects"
 deck: "18F recently launched an updated version of the De-risking Government
   Technology Guide, combining the State Software Budgeting Handbook and Federal
   Field Guide into one unified resource. The guide includes a new section on
