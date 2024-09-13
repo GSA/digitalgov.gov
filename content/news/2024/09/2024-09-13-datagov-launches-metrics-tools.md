@@ -24,7 +24,7 @@ The Data.gov team wanted to help our data providers and the public understand an
 
 Previously, users could only see “recent views,” which are calculated using views from the last two weeks. This information is a feature of [CKAN](https://ckan.org/), the underlying open source data management system that runs our catalog.
 
-{{< img src=datagov-metrics-recent-views >}}
+{{< img src="datagov-metrics-recent-views" >}}
 
 The ability to sort datasets by recent popularity is helpful, but it left a gap in understanding. We wanted to know if our users could accomplish Data.gov’s ultimate goal: **Did our users find and access the data they wanted?**
 
@@ -49,7 +49,7 @@ On the Data.gov [metrics landing page](http://data.gov/metrics), you’ll find a
 * Users by device type
 * Top search terms
 
-{{< img src=datagov-metrics-users >}}
+{{< img src="datagov-metrics-users" >}}
 
 As we noted earlier, you can download full reports for any of these topics with the Download Full Report link at the bottom of each table. You never know what insights you might find in your data. For example, did you know that the search term shark was entered 51 times in July 2024?
 
@@ -59,7 +59,7 @@ The landing page offers the ability to view and download the number of total dat
 
 From the metrics landing page, you can search for any particular organization. Just choose your organization in the drop-down menu and click `View Report`. In the example here, we will view the report for the U.S. Census Bureau. 
 
-{{< img src=datagov-metrics-search >}}
+{{< img src="datagov-metrics-search" >}}
 
 From there, you will be taken to the [Census Bureau-specific page](https://data.gov/metrics/organization/census-gov/index.html). You can bookmark it to visit again later, or view and download several reports:
 
@@ -69,7 +69,7 @@ From there, you will be taken to the [Census Bureau-specific page](https://data.
 
 At the top of the page, you can also select `View Harvest Source Data` to see where data is sourced from, how often it is re-harvested, and when it was last updated. This information is also available to download as a comma-separated values (CSV) or JavaScript Object Notation (JSON) file.
 
-{{< img src=datagov-metrics-table >}}
+{{< img src="datagov-metrics-table" >}}
 
 ## Looking ahead
 
