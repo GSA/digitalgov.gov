@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/datagov-metrics-table.png
+  # Image shortcode: {{< img src=datagov-metrics-table >}}'
+  date     :  2024-09-13 17:43:48 -0400
+  uid      :  datagov-metrics-table
+  width    :  614
+  height   :  324
+  format   :  png
+  credit   :  
+  caption  :  
+  alt      :  A screenshot of an example table with harvest source information, including title, data created, frequency of harvest, and last harvest date.
+  
