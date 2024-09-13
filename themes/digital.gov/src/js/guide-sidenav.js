@@ -120,15 +120,18 @@ function createSublist() {
   const subList = document.createElement("ul");
   subList.classList.add("usa-sidenav__sublist");
   const links = createLinks();
-  links.forEach((link) => {
-    const subItem = document.createElement("li");
-    subItem.classList.add("usa-sidenav__item");
-    subItem.appendChild(link);
-    subList.appendChild(subItem);
-  });
-  const currentItem = document.querySelector(".usa-sidenav__item.current");
-  if (currentItem) {
-    currentItem.appendChild(subList);
+  // check if links has items to avoid displaying an empty ul
+  if (links.length !== 0) {
+    links.forEach((link) => {
+      const subItem = document.createElement("li");
+      subItem.classList.add("usa-sidenav__item");
+      subItem.appendChild(link);
+      subList.appendChild(subItem);
+    });
+    const currentItem = document.querySelector(".usa-sidenav__item.current");
+    if (currentItem) {
+      currentItem.appendChild(subList);
+    }
   }
 }
 
