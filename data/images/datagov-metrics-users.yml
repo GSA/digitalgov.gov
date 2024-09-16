@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/datagov-metrics-users.png
+  # Image shortcode: {{< img src=datagov-metrics-users >}}'
+  date     :  2024-09-13 18:08:13 -0400
+  uid      :  datagov-metrics-users
+  width    :  1058
+  height   :  646
+  format   :  png
+  credit   :  
+  caption  :  
+  alt      :  A table showing users of Data.gov by device type, including 86.97% on desktop, 12.53% on mobile, 0.49% on tablet, and 0.01% on smart TV.
+  

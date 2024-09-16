@@ -32,7 +32,6 @@ featured_resources:
     - link: "https://cloud.cio.gov/strategy/"
       title: "Cloud Smart: Federal Cloud Computing Strategy"
       summary: "A long-term, high-level strategy to drive cloud adoption in federal agencies. It offers a path forward for agencies to migrate to a safe and secure cloud infrastructure — supporting agencies to achieve additional savings, better security, and faster delivery of services."
-      kicker: ""
 
 # Featured community to display at the top of the page
 featured_communities:

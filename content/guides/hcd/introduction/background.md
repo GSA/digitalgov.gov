@@ -25,4 +25,4 @@ Numerous people across many agencies contributed to this guide. We are grateful 
 
 We would also like acknowledge other leaders in the field of human-centered design who inspired and informed this guide: The VA Innovators Network, 18F, the United States Digital Service (USDS), Deloitte & Doblin, Helsinki Design Lab, Luma Institute, Ideo and Ideo.org, Frog Design, IBM Design, and The d.School at Stanford University.
 
-{{< featured-resource resourcePath = "/guides/hcd/discovery-concepts" kicker = "Up Next">}}
+{{< featured-resource link="/guides/hcd/discovery-concepts" kicker="Up Next" >}}
