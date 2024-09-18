@@ -43,29 +43,10 @@ aliases:
 
 ---
 
-To help prevent exploitation from unofficial sources, phishing scams, or malicious entities, the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry) serves as a resource for agencies and the public to confirm the official status of social media, collaboration accounts, and mobile apps.
+**Notice:**  The U.S. Digital Registry originated in [OMB Memorandum M-17-06](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf). In September 2023, M-17-06 was rescinded by [M-23-22 - Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf).
 
-The accounts in the registry are independently updated by federal employees across the government who maintain individual agency accounts.
+In September 2024, the public-facing Digital Registry search page has been deprecated.
 
----
-
-## How to access the U.S. Digital Registry
-
-{{< button href="https://touchpoints.app.cloud.gov/registry" text="Register and Manage Accounts" >}}
-
-**To register and manage accounts on the U.S. Digital Registry** you must have a [Login.gov](http://login.gov/) account, which is available to federal government employees and contractors with a valid .gov or .mil email address.
-
-1. Go to the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry).
-2. In the top navigation bar, click the "Sign in with Login.gov" link. You'll be brought to the Login.gov page for the U.S. Digital Registry.
-
-If you already have a Login.gov account with your government email address, you won't have to do anything else. Just use that account information to access the registry.
-
-If you don't already have a Login.gov account with your government email address, follow the instructions to create an account.
-
-For assistance with your accounts, [email feedback-analytics@gsa.gov](mailto:feedback-analytics@gsa.gov).
+For questions, please contact feedback-analytics@gsa.gov.
 
 ---
-
-**Notice:** As of April 19, 2018, all entries that have not been updated by agencies since January 1, 2017 have been archived. Archived accounts will not appear in the list of official, active accounts. This was done to help ensure that users can trust that accounts listed in the U.S. Digital Registry are official and active.
-
-If your agency accounts have been archived but are still active, you can easily log in and update the accounts to make them active again.
