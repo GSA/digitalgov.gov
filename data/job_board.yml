@@ -9,6 +9,7 @@
 
 
 
+
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -28,29 +29,6 @@
   open_date: 2024-09-03
   close_date: 2024-10-05
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
-  cop_topics:
-    - Communicators
-    - Plain Language
-
-- title: Deputy Chief Information Officer
-  department: Other Agencies and Independent Organizations
-  location: Alexandria, Virginia
-  description: >
-          This position is located in the Office of the Chief Information Officer (OCIO), National Credit Union Administration (NCUA). The incumbent will be responsible for supporting the Chief Information Officer (CIO) in establishing the organization's IT strategy and roadmap, and safeguarding, operating, and maintaining its technology resources.
-  open_date: 2024-09-11
-  close_date: 2024-10-12
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809114100
-  cop_topics:
-    - Web Managers
-
-- title: SENIOR WRITER EDITOR
-  department: Department of Defense
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          This position is part of the Defense Media Activity. The incumbent will serve as the principal subject matter expert on DoD editorial policies and practices for writers and editors in DMA. Edits content for defense.gov including articles, social media posts and photo captions.
-  open_date: 2024-09-12
-  close_date: 2024-09-27
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809197500
   cop_topics:
     - Communicators
     - Plain Language
@@ -99,4 +77,29 @@
   cop_topics:
     - Communicators
     - Plain Language
+    - User Experience
     - Web Analytics
+    - Web Managers
+
+- title: Supervisory IT Specialist (DATAMGT/INET)
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          As a Supervisory IT Specialist (DATAMGT/INET), you will serve as a senior expert and advisor to management on matters related to efforts for cross-agency development via communities of practice. Internal title: Communities & Collaboration Branch Chief Location: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS), Platforms and Services Division. We are currently filling one vacancy, but add'l vacancies may be filled as needed.
+  open_date: 2024-09-23
+  close_date: 2024-09-28
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810717200
+  cop_topics:
+    - Web Managers
+
+- title: Supervisory Writer-Editor
+  department: General Services Administration
+  location: GSA - US Locations
+  description: >
+          The Office of Strategic Communication is responsible for using communication to help the agency meet its mission and business goals. Location of position: GSA, Office of Strategic Communication. Location will be in one of GSA's regional office or Central Office. Location will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-13
+  close_date: 2024-09-28
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809231000
+  cop_topics:
+    - Communicators
+    - Plain Language
