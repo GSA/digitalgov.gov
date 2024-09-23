@@ -1,26 +1,32 @@
 ---
-source: ""
 date: 2024-09-23 00:00:00 -0500
-title: Delivering a digital-first public experience One agencys plan
-deck: Learn how GSA is approaching the requirements in OMB memo M-23-22
-summary: Learn how GSA is tackling the 100+ requirements of OMB memo M-23-22,
-  Delivering a Digital-First Public Experience.
+title: "Delivering a digital-first public experience: One agency's plan"
+deck: "Learn how GSA is approaching the requirements in OMB memo M-23-22"
+summary: "Learn how GSA is tackling the 100+ requirements of OMB memo M-23-22, Delivering a Digital-First Public Experience."
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
   - digital-service-delivery
   - content-strategy
   - design
+  - user-experience
+
 # See all authors at https://digital.gov/authors
 authors:
   - jessica-marine
+
 slug: delivering-a-digital-first-public-experience-one-agencys-plan
-primary_image: 10x-areas-of-focus
+
+primary_image: ""
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 In December 2018, the 21st Century Integrated Digital Experience Act (21st Century IDEA) was signed into law. It requires all executive branch agencies to:
 
 * Modernize their websites
