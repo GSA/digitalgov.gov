@@ -2,7 +2,7 @@
 date: 2024-09-23 00:00:00 -0500
 title: "Delivering a digital-first public experience: One agency's plan"
 deck: "Learn how GSA is approaching the requirements in OMB memo M-23-22"
-summary: "Learn how GSA is tackling the 100+ requirements of OMB memo M-23-22, Delivering a Digital-First Public Experience."
+summary: "Learn how the U.S. General Services Administration is tackling the 100+ requirements of OMB memo M-23-22, Delivering a Digital-First Public Experience."
 
 # See all topics at https://digital.gov/topics
 topics:
