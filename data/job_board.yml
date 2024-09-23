@@ -8,6 +8,7 @@
 
 
 
+
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -18,29 +19,6 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
   cop_topics:
     - Communicators
-
-- title: Deputy Director, Office of Digital Services and Technical Architecture (Chief Artificial Intelligence Officer)
-  department: Other Agencies and Independent Organizations
-  location: Washington, District of Columbia
-  description: >
-          **This announcement has been reposted to correct an error in the closing date.** This Senior Executive Service (SES) position is in the Office of Mission Support, Office of Digital Services and Technical Architecture. About OMS. This is an office-centered position*--you must physically report to the duty station stated in this announcement on a regular basis. *EPA offers work-from-home and work schedule flexibilities as described in the Benefits section.
-  open_date: 2024-08-13
-  close_date: 2024-09-14
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804486700
-  cop_topics:
-    - Web Analytics
-    - Web Managers
-
-- title: Director of Public Engagement
-  department: Other Agencies and Independent Organizations
-  location: College Park, Maryland
-  description: >
-          The National Archives and Records Administration is seeking a Director of Public Engagement to lead the Office of Public Engagement within the Office of the Presidential Libraries (P) of the National Archives and Records Administration (NARA). The incumbent is responsible for envisioning, facilitating, managing and executing national exhibition, public programming, education and communications initiatives and coordinated public-facing projects for the Presidential Library system.
-  open_date: 2024-08-23
-  close_date: 2024-09-10
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/805843500
-  cop_topics:
-    - Social Media
 
 - title: Community Outreach Specialist
   department: Department of Homeland Security
@@ -54,16 +32,71 @@
     - Communicators
     - Plain Language
 
-- title: Program Specialist
-  department: Department of Transportation
-  location: Washington, District of Columbia
+- title: Deputy Chief Information Officer
+  department: Other Agencies and Independent Organizations
+  location: Alexandria, Virginia
   description: >
-          The position is located within the Office of Finance & Management, AFN-001. AFN Strategic Communications provides communications support with broad awareness messaging and digital presentation to enhance the visibility of AFN efforts, including the FedView Survey, awards programs, Robotics Process Automation (RPA), Enterprise Information Management (EIM), Freedom of Information Act (FOIA), AFN Connect, branding and other initiatives.
-  open_date: 2024-08-31
-  close_date: 2024-09-14
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807444900
+          This position is located in the Office of the Chief Information Officer (OCIO), National Credit Union Administration (NCUA). The incumbent will be responsible for supporting the Chief Information Officer (CIO) in establishing the organization's IT strategy and roadmap, and safeguarding, operating, and maintaining its technology resources.
+  open_date: 2024-09-11
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809114100
+  cop_topics:
+    - Web Managers
+
+- title: SENIOR WRITER EDITOR
+  department: Department of Defense
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          This position is part of the Defense Media Activity. The incumbent will serve as the principal subject matter expert on DoD editorial policies and practices for writers and editors in DMA. Edits content for defense.gov including articles, social media posts and photo captions.
+  open_date: 2024-09-12
+  close_date: 2024-09-27
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809197500
+  cop_topics:
+    - Communicators
+    - Plain Language
+
+- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
+  department: Department of Defense
+  location: Patrick AFB, Florida
+  description: >
+          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
+  open_date: 2024-09-10
+  close_date: 2024-09-25
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808856100
   cop_topics:
     - Social Media
+
+- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
+  department: Department of Defense
+  location: Patrick AFB, Florida
+  description: >
+          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
+  open_date: 2024-09-10
+  close_date: 2024-09-25
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808864700
+  cop_topics:
+    - Social Media
+
+- title: Writer-Editor (Social Media)
+  department: Department of Commerce
+  location: Gaithersburg, Maryland
+  description: >
+          The Department of Commerce ranked top 5 in the 2023 Best Places to Work in the Federal Government amongst large agencies for the 12th year in a row! The ranking showcases the Department's continued commitment to increasing our employee engagement, employee satisfaction, and positive perceptions towards diversity, equity, accessibility, and inclusion. Come join our team!
+  open_date: 2024-09-16
+  close_date: 2024-10-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809554800
+  cop_topics:
+    - Social Media
+
+- title: Business Marketing Automation Specialist
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          This position is in the This position is in the Office of Integrated Marketing, Office of Customer and Stakeholder Engagement (QC), Federal Acquisition Service (FAS), General Services Administration (GSA). Location of Position: This is a virtual position and duty location of this position will be determined upon selection We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-13
+  close_date: 2024-09-24
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809540800
+  cop_topics:
     - Communicators
-
-
+    - Plain Language
+    - Web Analytics
