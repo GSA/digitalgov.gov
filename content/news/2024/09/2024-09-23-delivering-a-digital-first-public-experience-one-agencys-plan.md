@@ -113,9 +113,7 @@ And, many government forms and services require paper processes, which add burde
 
 ## How we are getting started at the U.S. General Services Administration (GSA)
 
-M-23-22 contains more than **100 requirements** and the Office of the Federal Chief Information Officer (OFCIO) has stated that it is a [10-year roadmap for a modern digital experience](https://www.whitehouse.gov/omb/briefing-room/2024/04/17/progress-towards-delivering-a-digital-first-public-experience/#:~:text=a%20ten%2Dyear%20roadmap%20for%20a%20modern%20digital%20experience). It is impossible to tackle all these requirements at once, so we are using an agile, quick-start approach to get started at GSA.
-
-Here are eight of the M-23-22 requirements, each with a list of action items:
+M-23-22 contains more than **100 requirements** and the Office of the Federal Chief Information Officer (OFCIO) has stated that it is a [10-year roadmap for a modern digital experience](https://www.whitehouse.gov/omb/briefing-room/2024/04/17/progress-towards-delivering-a-digital-first-public-experience/#:~:text=a%20ten%2Dyear%20roadmap%20for%20a%20modern%20digital%20experience). It is impossible to tackle all these requirements at once, so we are using an agile, quick-start approach to get started at GSA with eight of them.
 
 ### 1) Accessible to people of diverse abilities
 
