@@ -121,6 +121,8 @@ Here are eight of the M-23-22 requirements, each with a list of action items:
 
 We have an obligation to equitably serve all users. Federal websites and digital services must be accessible to people of all different abilities.
 
+**Action items:**
+
 * Making accessibility part of our thought process on day one. Move it to the left on the timeline.
 * Not waiting until the end to test or treat accessibility issues like bugs (e.g., unintended behavior usually caught by testing).
 * Designing accessible experiences.
@@ -131,6 +133,8 @@ We have an obligation to equitably serve all users. Federal websites and digital
 
 When websites and digital services have an inconsistent look and feel as users navigate across an agency’s network or across federal websites, this causes a fragmented and confusing online experience.
 
+**Action items:**
+
 * Using [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) components across our sites — not just the [banner](https://designsystem.digital.gov/components/banner/) and [identifier](https://designsystem.digital.gov/components/identifier/).
 * Using a [government (.gov) domain name](https://digital.gov/resources/an-introduction-to-domain-management/).
 * Reducing user friction by [limiting warnings](https://digital.gov/2024/08/07/it-warning-banners-how-gsa-is-working-to-stop-unnecessarily-frightening-users/);  stop alarming or frightening our users in ways that erodes trust.
@@ -138,6 +142,8 @@ When websites and digital services have an inconsistent look and feel as users n
 ### 3) Content that is authoritative and easy to understand
 
 The public should not have to confront confusing jargon or decipher duplicative or conflicting sources of government information online. M-23-22 requires agencies to review and validate content to ensure the public gets the answers they need.
+
+**Action items:**
 
 * Checking for pre-existing sites before standing up a new one. Stop publishing duplicative content.
 * Always using [plain language](https://digital.gov/topics/plain-language/).
@@ -151,6 +157,8 @@ The public should not have to confront confusing jargon or decipher duplicative 
 
 Search is a basic and universal part of using the internet, and search functionality is an expected feature for all federal websites and digital services.
 
+**Action items:**
+
 * Using [on-site search](https://digital.gov/topics/search/) functionality, like [Search.gov](http://www.search.gov).
 * Designing content [optimized for search engines](https://digital.gov/topics/search-engine-optimization/).
 * Including the date the content was created or last updated.
@@ -160,6 +168,8 @@ Search is a basic and universal part of using the internet, and search functiona
 
 Secure websites and digital services are non-negotiable. We must ensure that every phase of the design and development lifecycle for our websites and digital services accounts for application security and its impact on users.
 
+**Action items:**
+
 * Engaging with our IT [security](https://digital.gov/topics/security/) representatives early and often.
 * Conducting regular security assessments and testing.
 * Maintaining a disclosure policy that allows the public to report potential security vulnerabilities without recourse.
@@ -168,6 +178,8 @@ Secure websites and digital services are non-negotiable. We must ensure that eve
 ### 6) User-centered and data-driven design
 
 Federal websites and digital services should be designed and delivered with users at the center of the experience.
+
+**Action items:**
 
 * Starting with users’ wants and needs.
 * Engaging users throughout design and development.
@@ -179,6 +191,8 @@ Federal websites and digital services should be designed and delivered with user
 
 A majority of the public accesses federal information and services online from mobile devices. All federal websites and digital services must be mobile-friendly.
 
+**Action items:**
+
 * Designing [mobile-friendly](https://digital.gov/topics/mobile/) and device-agnostic websites and digital services.
 * Testing on mobile phones and tablet devices.
 * Avoiding the building or maintenance of unnecessary mobile apps.
@@ -186,6 +200,8 @@ A majority of the public accesses federal information and services online from m
 ### 8) Digitization
 
 The public expects to be able to interact with the government through digital channels.
+
+**Action items:**
 
 * Considering web forms instead of fillable PDFs.
 * Accepting electronic signatures.
@@ -204,4 +220,4 @@ Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@om
 
 - - -
 
-*Jessica Marine served as GSA’s Digital Experience Delivery Lead for most of FY 2024. She also serves as a Product Manager on GSA’s Service Delivery team.*
+*Jessica Marine served as GSA’s Digital Experience Delivery Lead for most of fiscal year 2024. She also serves as a Product Manager on GSA’s Service Delivery team.*
