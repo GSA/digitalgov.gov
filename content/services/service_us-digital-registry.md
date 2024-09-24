@@ -20,8 +20,9 @@ summary: "An inventory of official government social media accounts and mobile a
 # Learn about sources at https://workflow.digital.gov/sources
 source: "digitalgov"
 
+redirectto: https://touchpoints.app.cloud.gov/registry
+
 # What is the URL for this product or service?
-# Will this point to an external source URL?
 source_url: "https://touchpoints.app.cloud.gov/registry"
 
 # Images need to be 200x200px with a transparent background
