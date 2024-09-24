@@ -5,10 +5,8 @@ const uploadTask = require("./config/gulp/upload");
 // file tasks upload both images (png,jpg,jpeg) and static files (pdf, xls,...) to their respective s3 buckets
 const file = {
   prep: require("./config/gulp/file-prep"),
-  process: require("./config/gulp/file-process")
 };
 const scripts = require("./config/gulp/scripts");
-
 const styles = require("./config/gulp/styles");
 
 function watchUploads() {

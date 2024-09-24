@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const { upload } = require('@evolvingriley/file-upload');
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const { upload } = require("@evolvingriley/file-upload");
 function uploadTask(cb) {
     console.log("Starting file upload process...");
     try {
