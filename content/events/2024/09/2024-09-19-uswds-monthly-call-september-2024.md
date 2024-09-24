@@ -25,6 +25,8 @@ primary_image: 2024-uswds-monthly-call-sep-title-card
 
 ---
 
+{{< asset-static file="uswds-monthly-call-september-2024.pptx" label="View the slides (Powerpoint presentation, 6.7 MB, 75 slides)">}}
+
 This month, join the U.S. Web Design System (USWDS) team in exploring the landscape of Web Components. The team will share their recent landscape analysis of Web Components-based design systems and discuss how these findings set a course for future USWDS development.  
 
 In this online session with the USWDS team, you will:
