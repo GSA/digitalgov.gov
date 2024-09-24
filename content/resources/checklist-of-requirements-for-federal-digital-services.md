@@ -68,7 +68,7 @@ Share the spreadsheet with your team so everyone can see the dashboard and the p
 
 ## Explore federal web policies
 
-Policy plays a vital role in how federal agencies serve the public. With over 100 requirements for federal websites and digital services, web and digital practitioners in government need a deep and broad understanding of these policies. 
+Policy plays a vital role in how federal agencies serve the public. With over 100 requirements for federal websites and digital services, web and digital practitioners in government need a deep and broad understanding of these policies.
 
 Here are a few examples of policy areas you need to navigate:
 
@@ -77,7 +77,7 @@ Here are a few examples of policy areas you need to navigate:
 21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22
 {{< button href="https://digital.gov/resources/delivering-digital-first-public-experience/" text="Explore digital service delivery policy" >}}
 {{< /box >}}
- 
+
 {{< box >}}
 ### Domain management
 DOTGOV Online Trust in Government Act and OMB Memo M-23-10
@@ -98,7 +98,7 @@ Program Management Improvement Accountability Act and OMB Memo M-18-19
 
 ## Conclusion
 
-Managing a federal website is a complex endeavor, requiring broad knowledge of both web management best practices and federal law and policy. We offer this checklist as a practical tool to help you assess your progress, and identify opportunities to improve customer experience and streamline the federal digital footprint. 
+Managing a federal website is a complex endeavor, requiring broad knowledge of both web management best practices and federal law and policy. We offer this checklist as a practical tool to help you assess your progress, and identify opportunities to improve customer experience and streamline the federal digital footprint.
 
 {{< note >}}
 

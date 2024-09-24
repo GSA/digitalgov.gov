@@ -1,5 +1,14 @@
 ---
+# View this page at https://digital.gov/services/u-s-digital-registry/
+# Learn how to edit our pages at https://workflow.digital.gov
+
 url: /services/u-s-digital-registry/
+
+aliases:
+  - /services/social-media-registry/
+  - /services/the-federal-mobile-apps-registry/
+  - /topics/federal-mobile-products-registry/
+  - /topics/usa-gov-federal-mobile-apps-directory/
 
 # What is the name of the product or service?
 title: "U.S. Digital Registry"
@@ -7,17 +16,25 @@ title: "U.S. Digital Registry"
 # Keep it short — should be no longer than 10 words.
 summary: "An inventory of official government social media accounts and mobile apps."
 
-# Will this point to an external source URL?
+# Which team published this?
+# Learn about sources at https://workflow.digital.gov/sources
+source: "digitalgov"
 
-# source_url: 'https://digital.gov/services/u-s-digital-registry/'
+# What is the URL for this product or service?
+# Will this point to an external source URL?
+source_url: "https://touchpoints.app.cloud.gov/registry"
 
 # Images need to be 200x200px with a transparent background
-# Upload new images to Github in the /static/logos/ folder
+# Upload new images to GitHub in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-logo: 'digitalgov'
+logo: "digitalgov"
 
 contact: feedback-analytics@gsa.gov
+
+# see all authors at https://digital.gov/authors
+authors:
+  - ryan-wold
 
 # Weight — controls how services appear across the site
 # 2 == will appear as related service (ADs) on blog posts and event pages
@@ -25,21 +42,11 @@ contact: feedback-analytics@gsa.gov
 # 0 == hides this service from all pages, but URL is still public
 weight: 2
 
-# see all authors at https://digital.gov/authors
-authors:
-  - ryan-wold
-
 # Topics that best describe this product or service
 topics:
   - social-media
   - mobile
   - product-and-project-management
-
-aliases:
-  - /services/social-media-registry/
-  - /services/the-federal-mobile-apps-registry/
-  - /topics/federal-mobile-products-registry/
-  - /topics/usa-gov-federal-mobile-apps-directory/
 
 ---
 
