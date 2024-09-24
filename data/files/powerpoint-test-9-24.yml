@@ -1,7 +1,0 @@
-
-  # https://s3.amazonaws.com/digitalgov/static/powerpoint-test-9-24.pptx
-  # File shortcode: {{< asset-static file="powerpoint-test-9-24.pptx" label="powerpoint-test-9-24 (PDF, 4 pages, 2MB)" >}}
-  date     :  2024-09-24 16:16:35 -0400
-  uid      :  powerpoint-test-9-24
-  format   :  pptx
-  
