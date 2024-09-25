@@ -15,12 +15,6 @@ aliases:
   - /topics/fas/
   - /topics/federal-acquisition-institute/
   - /topics/federal-acquisition-service/
-
-# Weight
-weight: 2
-
-
-aliases:
   - /topics/contingency-contracting-corps/
   - /topics/digital-acquisition-playbook/
   - /topics/digital-acquisitions-accelerator/
@@ -29,13 +23,15 @@ aliases:
   - /topics/it-schedule-70/
   - /topics/rfp/
 
+# Weight
+weight: 2
 
 # Set the legislation card title and link
 legislation:
   title: "Federal Acquisition Regulation"
   link: "https://www.acquisition.gov/browse/index/far"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/techfar-hub-get-started"

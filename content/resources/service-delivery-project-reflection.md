@@ -4,11 +4,14 @@ date: 2024-03-13 12:00:00 -0500
 title: "Service Delivery Project Reflection"
 summary: "Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery."
 
+expirydate: "2024-07-18"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 0
+
 
 topics:
   - digital-service-delivery

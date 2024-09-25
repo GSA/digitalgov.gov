@@ -53,7 +53,7 @@ legislation:
   title: "Connected Government Act"
   link: "/resources/connected-government-act/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/mobile-sow-and-developer-qualifications"

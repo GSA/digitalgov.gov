@@ -21,9 +21,9 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "g3c-request@listserv.gsa.gov"
-    subscribe_email_subject: "Join the Contact center community"
+    subscribe_email_subject: "Join the Contact Center Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 1,000
+    members: 380
     join_cop_button: "Contact center community members"
 
 # Controls how this page appears across the site
@@ -39,7 +39,7 @@ dg_logo: communities-contact-center.svg
 
 kicker: "Join the Contact center community"
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "communities-card-contact-center"
 ---
 
 Government contact centers are often the primary means of communication between an organization and its customers. In government, contact centers often set expectations for satisfaction and trust across the customer experience. Simply put, the voice of the organization and the customer is fostered through the contact center experience.

@@ -22,11 +22,10 @@ const allExtensions = [...imageExtensions, ...fileExtensions];
 // removes . separator to read jpg,png,jpeg...
 const extensionsString = allExtensions
   .map((extension) => extension.replace(".", ""))
-  .join(","); 
+  .join(",");
 
 const imageRegex = /(png|jpg|jpeg)/;
 const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
-
 
 /**
  * Converts JPG images to PNG format
@@ -36,9 +35,7 @@ async function convertJpgToPng(imagePath) {
   console.log(`Converting image ${imagePath} to PNG`);
   const outputPath = imagePath.replace(/\.jpe?g$/i, ".png");
 
-  await sharp(imagePath)
-    .toFormat("png")
-    .toFile(outputPath);
+  await sharp(imagePath).toFormat("png").toFile(outputPath);
 
   // Check if the original JPG file exists before unlinking
   if (fs.existsSync(imagePath)) {
@@ -47,8 +44,6 @@ async function convertJpgToPng(imagePath) {
 
   return path.basename(outputPath);
 }
-
-
 
 /**
  * Object containing working folder paths used for lifecycle steps of uploading
@@ -67,7 +62,6 @@ const filePaths = {
   },
 };
 
-
 /**
  * Creates directories for each step of the file uploading process
  * These directories are removed when a file has been uploaded
@@ -80,7 +74,9 @@ function fileTidy(done) {
 
   fs.readdir(paths.uploads, async (err, files) => {
     if (err) {
-      console.error(`Failed to read directory ${paths.uploads}: ${err.message}`);
+      console.error(
+        `Failed to read directory ${paths.uploads}: ${err.message}`
+      );
       done(err);
       return;
     }
@@ -93,29 +89,44 @@ function fileTidy(done) {
         // create working directories if they do not exist
         createDir(paths[filetype].toProcess, 3);
         if (filetype === "image") createDir(paths[filetype].processed, 3);
-        // copies uploaded file to /to-process with new normalized name 
+        // copies uploaded file to /to-process with new normalized name
         // convert jpg to png
-        if (filetype === "image" && fileExt === ".jpg" || fileExt === ".jpeg") {
-         let convertedPng =  await convertJpgToPng(path.join(paths.uploads, file)).catch
-          ((err) => {
-            console.error(`Error converting image ${file} to PNG: ${err.message}`);
+        if (
+          (filetype === "image" && fileExt === ".jpg") ||
+          fileExt === ".jpeg"
+        ) {
+          let convertedPng = await convertJpgToPng(
+            path.join(paths.uploads, file)
+          ).catch((err) => {
+            console.error(
+              `Error converting image ${file} to PNG: ${err.message}`
+            );
             return;
           });
-          // ensure the folder for the process image exists. 
+          // ensure the folder for the process image exists.
           if (convertedPng != file) {
             file = convertedPng;
           }
-
-        } 
+        }
         newfileName = cleanFileName(file);
         const newFilePath = path.join(dirToProcess, newfileName);
 
         // Rename and move the file to the new path
         try {
-          console.log(`Moving file from ${path.join(paths.uploads, file)} to ${newFilePath}`);
-          fs.renameSync(path.join(paths.uploads, file), newFilePath); 
+          console.log(
+            `Moving file from ${path.join(
+              paths.uploads,
+              file
+            )} to ${newFilePath}`
+          );
+          fs.renameSync(path.join(paths.uploads, file), newFilePath);
         } catch (renameError) {
-          console.error(`Error moving file from ${path.join(paths.uploads, file)} to ${newFilePath}: ${renameError.message}`);
+          console.error(
+            `Error moving file from ${path.join(
+              paths.uploads,
+              file
+            )} to ${newFilePath}: ${renameError.message}`
+          );
           continue;
         }
       }
@@ -123,8 +134,6 @@ function fileTidy(done) {
     done();
   });
 }
-
-
 
 /**
  * creates the originals and to-process directories for both files and images
@@ -178,7 +187,7 @@ function fileType(extension) {
  * @returns filename in string format
  */
 function cleanFileName(origfilename) {
- return  origfilename
+  return origfilename
     .toLowerCase()
     .replace(/[ &$_#!?.]/g, "-")
     .replace(/-+/g, "-") // multiple dashes to a single dash
@@ -188,7 +197,7 @@ function cleanFileName(origfilename) {
     .replace(/^\d{2,4}-*x-*\d{2,4}-*/g, "") // strip leading dimensions
     .replace(/-\./g, ".") // remove leading dashes
     .replace(/^-/g, "") // removes dashes from start of filename
-    .toLowerCase();  
+    .toLowerCase();
 }
 
 /**
@@ -268,7 +277,7 @@ function writeDataFile() {
 function fileData(format, uid) {
   return `
   # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
-  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)">}}
+  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)" >}}
   date     :  ${getCurrentDate()}
   uid      :  ${uid}
   format   :  ${format}
@@ -285,7 +294,7 @@ function fileData(format, uid) {
 function imageData(format, uid, dimensions) {
   return `
   # https://s3.amazonaws.com/digitalgov/${uid}.${format}
-  # Image shortcode: {{< img src=${uid} >}}'
+  # Image shortcode: {{< img src="${uid}" >}}'
   date     :  ${getCurrentDate()}
   uid      :  ${uid}
   width    :  ${dimensions.width}

@@ -18,10 +18,12 @@ legislation:
   title: " DOTGOV Act & M-23-10 (PDF, 96 KB, 3 pages, February 2023)"
   link: "https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "https://get.gov/"
+    - title: "get.gov"
+      summary: ".gov is the top-level domain for governments in the U.S. and helps to identify U.S. governments on the internet."
+      link: "https://get.gov/"
 
 # Featured community to display at the top of the page
 featured_communities:

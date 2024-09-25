@@ -1,132 +1,76 @@
-{{ define "content" }}
-  <main role="main" id="main-content" class="page main-content">
-    <article class="grid-container grid-container-desktop">
+{{- define "content" -}}
+  {{ $community_acronym := .Params.dg_acronym }}
+  {{ $community_join_copy := "" }}
+  {{ range .Params.community_list }}
+    {{ $community_join_copy = .subscribe_email_subject }}
+  {{ end }}
+  <main role="main" id="main-content">
+    <article class="grid-container-desktop">
       {{- partial "partials/core/usa-breadcrumbs.html" . -}}
       <header>
-        <div>
-          {{/* Page Title */}}
-          <h1>{{ .Title | markdownify }} Community</h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
-        </div>
+        {{- partial "partials/core/page-header.html" (dict "title" .Params.title "deck" .Params.deck "append_title_text" "Community") -}}
       </header>
 
-      <div class="usa-in-page-nav-container">
-        <!--
-        data-root-margin sets the observable "window" for the element, details here https://designsystem.digital.gov/components/in-page-navigation/#using-the-in-page-navigation-component-2
-        the values ensure that the sidenav links highlight in order when there are multiple headers visible on the viewport, otherwise the highlight skips headers
-       -->
+      <section class="usa-in-page-nav-container">
         <aside
           class="usa-in-page-nav"
           data-title-heading-level="h3"
           data-root-margin="-350px 0px -350px 0px"
         ></aside>
-        {{/* Summary */}}
-        {{- if .Params.summary -}}
-          <div class="content usa-prose">
-            <p>{{- .Params.summary | markdownify -}}</p>
+        <div>
+          {{- if .Params.summary -}}
+            <div class="content usa-prose">
+              <p>{{- .Params.summary | markdownify -}}</p>
 
-            {{- if .Params.community_list -}}
-              <section class="join-community-form">
-                <h4 class="join-community-form__header">
-                  <svg
-                    class="join-community-form__header-svg usa-icon dg-icon dg-icon--extra-large margin-bottom-05"
-                    aria-hidden="true"
-                    focusable="false"
-                  >
-                    <use
-                      xlink:href="{{ "uswds/img/sprite.svg#groups" | relURL }}"
-                    ></use>
-                  </svg>
-                  Connect with us
-                </h4>
-
-                {{- range $i, $e := .Params.community_list -}}
-                  <div class="join-community-form__body">
-                    <div class="join-community-form__body-eligibility">
-                      {{/* Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter */}}
-
-                      {{/* PUBLIC */}}
-                      {{- if eq $e.type "public" -}}
-                        {{/* Checking to see if community terms are defined */}}
-                        {{- if $e.terms -}}
-                          <p>{{- $e.terms | markdownify -}}</p>
-                        {{- else -}}
-                          <p>Open to the public.</p>
-                        {{- end -}}
-                      {{- end -}}
-
-                      {{/* GOVT */}}
-                      {{- if eq $e.type "government" -}}
-                        {{- if $e.terms -}}
-                          <p>{{- $e.terms | markdownify -}}</p>
-                        {{- else -}}
-                          <p>
-                            Open to anyone with a .gov or .mil email address.
-                          </p>
-                        {{- end -}}
-                      {{- end -}}
-
-                      {{/* GOVT_ONLY */}}
-                      {{- if eq $e.type "government_only" -}}
-                        {{- if $e.terms -}}
-                          <p>{{- $e.terms | markdownify -}}</p>
-                        {{- else -}}
-                          <p>Open to any government employee.</p>
-                        {{- end -}}
-                      {{- end -}}
-                    </div>
-
-                    <div class="join-community-form__body-email">
-                      {{/* Community JOIN types ---
-                        - Listerv via an email (most common)
-                        - Listerv via a form
-                        - Google Group
-                        - Slack
-                      */}}
-                      {{/* Listserv Platforms without form sign-up option */}}
-                      {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
-                        {{- partial "core/community-join-without-form.html" (dict "context" . "e" $e) -}}
-                      {{- end -}}
-
-                      {{/* Google Group platforms */}}
-                      {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
-                        {{- partial "core/community-join-google-group.html" (dict "context" . "e" $e) -}}
-                      {{- end -}}
-
-                      {{/* Slack platforms */}}
-                      {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
-                        {{- partial "core/community-join-slack.html" (dict "context" . "e" $e) -}}
-                      {{- end -}}
-
-                    </div>
+              {{- if .Params.community_list -}}
+                <section
+                  class="join-community-form join-community-form--{{ $community_acronym }}"
+                >
+                  <div class="join-community-form__header">
+                    <img
+                      src="{{ (printf "%s/%s" "img" .Params.dg_logo | relURL) }}"
+                      alt=""
+                    />
+                    <h3>Connect with us</h3>
                   </div>
-                {{- end -}}
+                  <div class="join-community-form__body">
+                    <p>
+                      Federal, state, territorial, tribal, and local government
+                      employees and contractors are eligible to join.
+                    </p>
+                    <p>
+                      Select "{{ $community_join_copy }}," then a form will ask
+                      for your name and email address. The form should take most
+                      people a minute or less to complete.
+                    </p>
+                    {{/* Get the form link */}}
+                    <a
+                      class="usa-button"
+                      href="https://feedback.gsa.gov/jfe/form/SV_3dwvggn0tq8HIzk"
+                    >
+                      {{ $community_join_copy }}
+                    </a>
+                  </div>
+                </section>
+              {{- end -}}
 
-              </section>
-            {{- end -}}
-            <div>
-              {{- .Content -}}
-            </div>
+              {{/* Main Content */}}
+              <div class="content">
+                {{- .Content -}}
+              </div>
 
-            <div class="community_events">
+              {{/* Community Events */}}
               {{- partial "core/get-upcomingevents.html" . -}}
-            </div>
 
-            <div class="Community_conduct">
-              <h2 id="community-conduct">Community Conduct</h2>
-              {{- partial "core/community_pagefooter.html" . -}}
-              <br />
+
+              <div class="community_conduct">
+                <h2 id="community-conduct">Community Conduct</h2>
+                {{- partial "core/community_pagefooter.html" . -}}
+              </div>
             </div>
-            <div>
-              <br />
-            </div>
-          </div>
-        {{- end -}}
-      </div>
+          {{- end -}}
+        </div>
+      </section>
     </article>
   </main>
 {{ end }}

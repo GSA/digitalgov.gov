@@ -1,0 +1,105 @@
+---
+
+# Replace everything BELOW this set of comments with the YAML formatted jobs from Google Sheets
+# DELETE the quotation marks ("") at the start and end of the YAML block
+# Do not change the indentation of the YAML content
+# Jobs with a close date before the current date will automatically be omitted
+
+
+
+
+
+
+- title: Data Analyst
+  department: Department of Homeland Security
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested: 0343 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
+  open_date: 2024-07-31
+  close_date: 2024-10-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
+  cop_topics:
+    - Communicators
+
+- title: Community Outreach Specialist
+  department: Department of Homeland Security
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          6-month non-reimbursable assignment with the possibility of extension. Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Community Outreach Specialist Series Requested: 0301 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
+  open_date: 2024-09-03
+  close_date: 2024-10-05
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
+  cop_topics:
+    - Communicators
+    - Plain Language
+
+- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
+  department: Department of Defense
+  location: Patrick AFB, Florida
+  description: >
+          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
+  open_date: 2024-09-10
+  close_date: 2024-09-25
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808856100
+  cop_topics:
+    - Social Media
+
+- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
+  department: Department of Defense
+  location: Patrick AFB, Florida
+  description: >
+          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
+  open_date: 2024-09-10
+  close_date: 2024-09-25
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808864700
+  cop_topics:
+    - Social Media
+
+- title: Writer-Editor (Social Media)
+  department: Department of Commerce
+  location: Gaithersburg, Maryland
+  description: >
+          The Department of Commerce ranked top 5 in the 2023 Best Places to Work in the Federal Government amongst large agencies for the 12th year in a row! The ranking showcases the Department's continued commitment to increasing our employee engagement, employee satisfaction, and positive perceptions towards diversity, equity, accessibility, and inclusion. Come join our team!
+  open_date: 2024-09-16
+  close_date: 2024-10-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809554800
+  cop_topics:
+    - Social Media
+
+- title: Business Marketing Automation Specialist
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          This position is in the This position is in the Office of Integrated Marketing, Office of Customer and Stakeholder Engagement (QC), Federal Acquisition Service (FAS), General Services Administration (GSA). Location of Position: This is a virtual position and duty location of this position will be determined upon selection We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-13
+  close_date: 2024-09-24
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809540800
+  cop_topics:
+    - Communicators
+    - Plain Language
+    - User Experience
+    - Web Analytics
+    - Web Managers
+
+- title: Supervisory IT Specialist (DATAMGT/INET)
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          As a Supervisory IT Specialist (DATAMGT/INET), you will serve as a senior expert and advisor to management on matters related to efforts for cross-agency development via communities of practice. Internal title: Communities & Collaboration Branch Chief Location: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS), Platforms and Services Division. We are currently filling one vacancy, but add'l vacancies may be filled as needed.
+  open_date: 2024-09-23
+  close_date: 2024-09-28
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810717200
+  cop_topics:
+    - Web Managers
+
+- title: Supervisory Writer-Editor
+  department: General Services Administration
+  location: GSA - US Locations
+  description: >
+          The Office of Strategic Communication is responsible for using communication to help the agency meet its mission and business goals. Location of position: GSA, Office of Strategic Communication. Location will be in one of GSA's regional office or Central Office. Location will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-13
+  close_date: 2024-09-28
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809231000
+  cop_topics:
+    - Communicators
+    - Plain Language

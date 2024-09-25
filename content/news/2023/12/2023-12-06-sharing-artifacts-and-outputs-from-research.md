@@ -9,7 +9,6 @@ summary: Have you conducted user research and are now wondering which artifacts 
 # See all topics at https://digital.gov/topics
 topics:
   - open-data
-  - user-centered-design
   - human-centered-design
 slug: sharing-artifacts-and-outputs-from-research
 # Controls how this page appears across the site

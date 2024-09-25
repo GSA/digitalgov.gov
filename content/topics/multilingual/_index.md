@@ -24,7 +24,7 @@ legislation:
   title: "Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency"
   link: "https://www.federalregister.gov/documents/2000/08/16/00-20938/improving-access-to-services-for-persons-with-limited-english-proficiency"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"

@@ -13,7 +13,6 @@ summary: Want to measure customer experience? Surveys aren’t the only way!
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
-  - user-centered-design
   - human-centered-design
   - analytics
 slug: customer-experience-beyond-surveys

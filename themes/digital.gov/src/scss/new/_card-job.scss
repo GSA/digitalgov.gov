@@ -1,0 +1,131 @@
+@use "uswds-core" as *;
+@use "sass:map";
+
+.job-board.section {
+  .paper {
+    @include u-bg("blue-warm-5");
+  }
+}
+
+.card-job {
+  align-items: start;
+  display: grid;
+  grid-template-areas:
+    "c-content-header"
+    "c-content-summary"
+    "c-meta-date"
+    "c-meta-topics"
+    "c-apply";
+  overflow-wrap: anywhere;
+
+  @include at-media("tablet") {
+    grid-template-areas:
+      "c-content-header c-apply"
+      "c-content-summary c-apply"
+      "c-meta-date c-meta-date"
+      "c-meta-topics c-meta-topics";
+    grid-template-columns: 3fr 1fr;
+  }
+
+  @include at-media("tablet-lg") {
+    grid-template-areas:
+      "c-content-header c-apply"
+      "c-content-summary c-apply"
+      "c-meta-date c-meta-date"
+      "c-meta-topics c-meta-topics";
+    grid-template-columns: 7fr 1fr;
+  }
+
+  &__content-header {
+    display: flex;
+    flex-direction: column;
+    grid-area: c-content-header;
+    padding-bottom: units(1);
+    h3 {
+      margin: 0;
+      text-decoration: none;
+    }
+
+    a {
+      @include u-text("primary-darker");
+      text-decoration: none;
+
+      :hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__content-summary {
+    display: flex;
+    flex-direction: column;
+    grid-area: c-content-summary;
+    margin-top: 0;
+  }
+
+  &__description {
+    font-size: font-size("sans", "md");
+    font-weight: font-weight("normal");
+    line-height: line-height("sans", 3);
+    max-width: none;
+  }
+
+  &__department {
+    font-size: font-size("sans", "md");
+    font-weight: font-weight("bold");
+    text-wrap: wrap;
+  }
+
+  &__location {
+    font-size: font-size("sans", "md");
+    text-wrap: wrap;
+  }
+
+  &__apply {
+    display: grid;
+    grid-area: c-apply;
+  }
+
+  $communities-of-practice: (
+    "FCN": color("magenta-50"),
+    "ML": color("red-50"),
+    "PL": color("blue-cool-60v"),
+    "SM": color("gold-40v"),
+    "UX": color("mint-cool-50"),
+    "WAO": color("orange-50v"),
+    "WCM": color("indigo-60v"),
+    "CC": color("blue-60v"),
+  );
+
+  &__meta-date {
+    display: flex;
+    font-style: italic;
+    grid-area: c-meta-date;
+    margin-right: units(3);
+  }
+
+  &__meta-topics {
+    display: grid;
+    grid-area: c-meta-topics;
+    grid-template-columns: repeat(4, auto);
+    position: relative;
+
+    @each $community, $color in $communities-of-practice {
+      .cop-topic--#{$community} {
+        border: map.get($communities-of-practice, $community);
+        color: map.get($communities-of-practice, $community);
+        margin-bottom: units(1);
+        margin-right: units(1);
+        margin-top: 0;
+      }
+    }
+  }
+}
+
+#no_job_postings {
+  font-size: font-size("sans", "lg");
+  font-weight: font-weight("light");
+  line-height: line-height("sans", 2);
+  margin-bottom: units(4);
+  text-align: center;
+}

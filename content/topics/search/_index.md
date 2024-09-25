@@ -21,7 +21,7 @@ legislation:
   title: "21st Century Integrated Digital Experience Act (21st Century IDEA) & Section III.A.4 of M-23-22"
   link: "https://digital.gov/resources/21st-century-integrated-digital-experience-act/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/an-introduction-to-search"

@@ -3,7 +3,7 @@
 // GovDelivery Newsletter
 #newsletter-signup {
   @include at-media("desktop") {
-    height: 22.6875rem;
+    height: 22.6875rem; // use this when replacement form is patched
   }
 
   @include u-padding-y("105");

@@ -12,7 +12,6 @@ topics:
   - artificial intelligence
   - customer-experience
   - multilingual
-  - user-centered-design
   - human-centered-design
   - user-experience
   

@@ -28,7 +28,7 @@ We all rely on design to facilitate our user experiences. So, shouldn’t design
 
 These tricks come in several forms, such as a popup window that demands a new subscription, or a spot designed to look like dirt on your phone screen, so you try to wipe it off and end up clicking a link instead. Even in the non-digital world, we can identify certain deceptive behaviors as “hostile design,” such as sleight of hand or trick questions. Designers, intentionally or unintentionally, can use psychology to mislead and trap users.
 
-{{< card-quote text="Products are not innocent; they mediate our behavior; how we collaborate, how we interact with our environment and how we deal with social issues." cite="Alain Dujardin" >}}
+{{< quote-block text="Products are not innocent; they mediate our behavior; how we collaborate, how we interact with our environment and how we deal with social issues." cite="Alain Dujardin" >}}
 
 ## **What are some common types of hostile design?**
 

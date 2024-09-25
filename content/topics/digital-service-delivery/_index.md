@@ -11,6 +11,9 @@ deck: "Make it easier for the public to access the information and services that
 summary: "For millions, access to digital services isn’t a luxury—it’s critical. The public’s experiences using government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food can dramatically affect how they feel about the government. Digital service delivery is the primary subject of 21st Century IDEA, and its policy guidance in OMB M-23-22, which requires federal agencies to enact best practices."
 
 aliases:
+  - /topics/21st-century-idea/
+  - /topics/diversity-equity-inclusion-accessibility-deia/
+  - /topics/this-weeks-idea/
   - /topics/18f/
   - /topics/abmc/
   - /topics/administration-on-aging/
@@ -306,17 +309,12 @@ aliases:
 # Weight
 weight: 2
 
-aliases:
-  - /topics/21st-century-idea/
-  - /topics/diversity-equity-inclusion-accessibility-deia/
-  - /topics/this-weeks-idea/
-
 # Set the legislation card title and link
 legislation:
   title: "21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22"
   link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
   - link: "/guides/hcd/"

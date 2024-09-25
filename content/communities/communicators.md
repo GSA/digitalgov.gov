@@ -28,7 +28,7 @@ community_list:
     subscribe_email: "fcn-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Communicators Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 2,453
+    members: 2,501
     join_cop_button: "Communicators community members"
 
 # Controls how this page appears across the site
@@ -44,7 +44,7 @@ dg_logo: communities-communicators.svg
 
 kicker: "Join the Communicators Community"
 
-primary_image: "white-bg-digital-gov-card-community"
+primary_image: "communities-card-comms"
 ---
 
 The Communicators community was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.

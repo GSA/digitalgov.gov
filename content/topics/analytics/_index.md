@@ -13,26 +13,24 @@ summary: "Web analytics provide valuable insights into how users interact with a
 aliases:
   - /topics/analytics-usa-gov
   - /topics/data/
-
-# Weight
-weight: 2
-
-aliases:
   - /topics/big-data/
   - /topics/dap/
   - /topics/digital-analytics-program/
   - /topics/google-analytics/
   - /topics/metrics/
 
+# Weight
+weight: 2
+
 # Set the legislation card title and link
 legislation:
   title: "M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 130 KB, 9 pages, June 2010)"
   link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/guides/dap/"
+  - link: "/guides/dap"
 
 # Featured community to display at the top of the page
 featured_communities:

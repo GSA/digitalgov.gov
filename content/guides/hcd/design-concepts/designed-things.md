@@ -16,7 +16,6 @@ Whatever opportunities your team identified, you will most likely design a produ
 
 The National Archives provides some useful guidelines for differentiating between product and service from the viewpoint of the participant (or client, in their wording):
 
-{{< card-quote text="One way to think of [products and services] is from the clients’ point of view. When a client asks “what can you make for me?” they are asking about products; when a client asks “what can you do for me?” they are asking about services. While a product is something that can be measured and counted, a service is less concrete and is the result of the application of skills and expertise towards an identified need." cite="[Defining Key Concepts: Products vs. Services](https://www.archives.gov/preservation/products/definitions/products-services.html), National Archives">}}
-
+{{< quote-block text="One way to think of [products and services] is from the clients’ point of view. When a client asks “what can you make for me?” they are asking about products; when a client asks “what can you do for me?” they are asking about services. While a product is something that can be measured and counted, a service is less concrete and is the result of the application of skills and expertise towards an identified need." cite="[Defining Key Concepts: Products vs. Services](https://www.archives.gov/preservation/products/definitions/products-services.html), National Archives">}}
 
 As you read through this section, consider your opportunities through the lens of “product versus service versus system.” Do some of them speak to being expressed as one of these designed things? Might some of their possible designed outcomes be a combination? Is it still unclear for some?

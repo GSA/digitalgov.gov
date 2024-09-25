@@ -18,6 +18,15 @@
   width: 84%;
 }
 
+.usa-card__members {
+  font-size: size("sans", "xs");
+  text-align: center;
+
+  &-icon {
+    margin-right: units(1);
+  }
+}
+
 $communities-of-practice: (
   "CC": color("blue-60v"),
   "FCN": color("magenta-50"),
@@ -25,7 +34,7 @@ $communities-of-practice: (
   "PL": color("blue-cool-60v"),
   "SM": color("gold-40v"),
   "UX": color("mint-cool-50"),
-  "WAO": color("orange-60"),
+  "WAO": color("orange-50v"),
   "WCM": color("indigo-60v"),
 );
 
@@ -121,18 +130,10 @@ $communities-of-practice: (
       background-color: transparent;
       max-width: 4rem;
     }
-  }
-}
 
-// Seen in "Join a Community" in sidebar.
-// Template: get_related.html
-.dg-community__count {
-  @include u-font("sans", "3xs");
-  @include u-line-height("sans", 3);
-  @include u-text("medium");
-  @include u-text("indigo-60v");
-  @include u-bg("indigo-warm-10");
-  @include u-padding-x(1);
-  @include u-padding-y("2px");
-  @include u-radius("pill");
+    .usa-card__members {
+      padding-left: units(3);
+      text-align: left;
+    }
+  }
 }

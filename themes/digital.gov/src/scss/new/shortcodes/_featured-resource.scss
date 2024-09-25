@@ -52,12 +52,6 @@
       max-width: 70%;
     }
 
-    &-kicker {
-      @include u-font("sans", "3xs");
-      font-weight: font-weight("light");
-      text-transform: uppercase;
-    }
-
     &-title {
       font-weight: font-weight("heavy");
       margin: 0;
@@ -66,5 +60,11 @@
     &-description {
       margin: 0;
     }
+  }
+
+  &__kicker {
+    font-size: font-size("sans", "3xs");
+    font-weight: font-weight("light");
+    text-transform: uppercase;
   }
 }

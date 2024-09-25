@@ -27,14 +27,12 @@ legislation:
   title: "American Innovation and Competitiveness Act (Public Law 114-329)"
   link: "https://www.congress.gov/bill/114th-congress/senate-bill/3084/text"
 
-  # Featured resource to at the top of the page
+  # Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "https://www.challenge.gov/"
       title: "Challenge.gov"
       summary: "Where competition delivers innovation for the public good."
-      kicker: ""
-    
 
 # Featured community to display at the top of the page
 featured_communities:

@@ -568,7 +568,7 @@ Within `180 days` of the launch of the Federal Services Index (date to be determ
 ## Resources
 
 - Visit other [21st Century IDEA-related resources, news, and events](https://digital.gov/topics/digital-service-delivery/)
-- Use the [Go-Live Checklist for Federal Websites](https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/)
+- Use the [self-assessment checklist for federal websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)
 - Learn more about the [Digital Analytics Program](https://digital.gov/guides/dap/)
 - Learn more about the [Site Scanning Program](https://digital.gov/guides/site-scanning/)
 - Learn more about [how to use the U.S. Web Design System](https://designsystem.digital.gov/how-to-use-uswds/#get-started-with-uswds)
@@ -587,11 +587,11 @@ Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@om
 
 <br>
 
-<footer>
-<h3 id="footnote-label">Citations</h3>
-<ol>
-<li id="fn1">Review of <i>Digital Government Experience, the Digital Citizen</i>. 2023. Deloitte Insights. Deloitte. 2023.<br>
+<div class="dg-footnote">
+<h3 class="dg-footnote__heading" id="footnote-label">Footnotes</h3>
+<ol class="dg-footnote__list">
+<li class="dg-footnote__list-item" id="fn1">Review of <i>Digital Government Experience, the Digital Citizen</i>. 2023. Deloitte Insights. Deloitte. 2023.<br>
 <a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html">
 https://www2.deloitte.com/us/en/insights/industry/public-sector/digital-government-public-service-experience.html</a> <a href="#footnotes-ref1" aria-label="Back to content">↩</a></li>
 </ol>
-</footer>
+</div>

@@ -23,7 +23,7 @@ legislation:
   title: "21st Century Integrated Digital Experience Act"
   link: "/resources/21st-century-integrated-digital-experience-act/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/guides/hcd/discovery-concepts"

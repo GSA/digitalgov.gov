@@ -33,7 +33,7 @@ legislation:
   title: "M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (PDF, 103 KB, 9 pages, June 2010)"
   link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/nara-guidance-on-managing-social-media-records"
