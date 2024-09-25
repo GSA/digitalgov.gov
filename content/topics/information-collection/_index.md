@@ -24,7 +24,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "https://pra.digital.gov/"
+    - link: "/services/service_pra"
 
 # Featured community to display at the top of the page
 featured_communities:
