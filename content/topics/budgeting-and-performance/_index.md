@@ -29,7 +29,7 @@ legislation:
   title: "The President’s Management Agenda"
   link: "https://www.performance.gov/pma/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/cdc-clear-communication-index"
