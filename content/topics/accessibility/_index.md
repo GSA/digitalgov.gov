@@ -23,7 +23,7 @@ legislation:
   title: "Section 508 of the Rehabilitation Act of 1973"
   link: "https://www.section508.gov/manage/laws-and-policies/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/an-introduction-to-accessibility"

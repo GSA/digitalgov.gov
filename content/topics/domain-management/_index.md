@@ -18,7 +18,7 @@ legislation:
   title: " DOTGOV Act & M-23-10 (PDF, 96 KB, 3 pages, February 2023)"
   link: "https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - title: "get.gov"

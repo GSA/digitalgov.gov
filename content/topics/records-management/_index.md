@@ -20,7 +20,7 @@ legislation:
   title: "44 U.S. Code, Chapter 31—Records Management by Federal Agencies"
   link: "https://www.archives.gov/about/laws/fed-agencies.html"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - title: "NARA Guidance on Managing Web Records"
