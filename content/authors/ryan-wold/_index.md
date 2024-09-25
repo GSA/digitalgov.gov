@@ -36,12 +36,12 @@ location: "CA"
 
 # Your GitHub username [e.g. 'jeremyzilar']
 # See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.
-github: ""
+github: "ryanwoldatwork"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: ""
+profile_source: "github"
 
 # Professional Social Media [e.g., Digital_Gov]
 twitter: ""

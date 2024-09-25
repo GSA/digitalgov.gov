@@ -21,10 +21,10 @@ legislation:
   title: "Paperwork Reduction Act (44 U.S.C. Chapter 35, PDF, 451 KB, 47 Pages)"
   link: "https://www.gpo.gov/fdsys/pkg/USCODE-2011-title44/pdf/USCODE-2011-title44-chap35.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/guide-paperwork-reduction-act"
+    - link: "/sources/source_pra-guide"
 
 # Featured community to display at the top of the page
 featured_communities:

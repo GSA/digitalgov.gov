@@ -23,7 +23,7 @@ legislation:
   title: "21st Century Integrated Digital Experience Act"
   link: "/resources/21st-century-integrated-digital-experience-act/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/guides/hcd/discovery-concepts"
@@ -35,7 +35,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Design: essential knowledge"
+  title: "Design: Essential knowledge"
   resources:
   - title: "An introduction to design"
     summary: "How to design government websites that meet customer needs, work well on any device, and follow federal web requirements."

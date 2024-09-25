@@ -38,7 +38,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Software engineering: essential knowledge"
+  title: "Software engineering: Essential knowledge"
   resources:
   - title: "An introduction to GitHub"
     summary: "Understand how to create, manage, and publish website content in GitHub."
