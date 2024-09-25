@@ -24,7 +24,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/guide-paperwork-reduction-act"
+    - link: "https://pra.digital.gov/"
 
 # Featured community to display at the top of the page
 featured_communities:
