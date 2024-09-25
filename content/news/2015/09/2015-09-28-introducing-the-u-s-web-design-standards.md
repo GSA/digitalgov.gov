@@ -1,6 +1,7 @@
 ---
 slug: introducing-the-u-s-web-design-standards
 date: 2015-09-28 3:18:18 -0400
+expirydate: 2024-09-25
 title: "Introducing the U.S. Web Design Standards"
 summary: "The U.S. Web Design Standards are the U.S. government’s very own set of common UI components and visual styles for websites. It’s a resource designed to make things easier for government designers and developers, while raising the bar on what the American people can expect from their digital experiences."
 
