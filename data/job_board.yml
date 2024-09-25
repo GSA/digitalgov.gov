@@ -6,53 +6,100 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
-- title: Public Notice for General Natural Resources & Biological Science (Direct Hire)
-  department: Department of Transportation
-  location: Multiple Locations
-  description: Direct hiring authority for 0401 series is being used to fill this position.
-  open_date: 2023-09-30
-  close_date: 2024-10-01
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/647248000
-  cop_topics:
-    - User Experience
 
-- title: Supervisory Program Analyst
-  department: General Services Administration
-  location: Washington, District of Columbia
-  description: As the Director of the Digital Communications Program Management Office within the Office of Strategic Communication you will be responsible for oversight and improvement of the agency's flagship website, gsa.gov, and the intranet site, Insite, and for ensuring the content is consistent with GSA publication policies and communications strategy. Location of position- GSA, Office of Strategic Communication, 1800 F Street, NW, Washington, DC.
-  open_date: 2024-08-01
-  close_date: 2024-08-16
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802475200
-  cop_topics:
-    - Communicators
-    - Web Managers
+
+
 
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
-  description: 1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested- 0343 Security Clearance- None Virtual/Remote- Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
+  description: >
+          1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested: 0343 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-07-31
-  close_date: 2024-08-30
+  close_date: 2024-10-01
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
   cop_topics:
     - Communicators
 
-- title: Communications Specialist
-  department: Department of Justice
-  location: Washington, District of Columbia
-  description: This position is located in the Department of Justice, Office of Justice Programs, Bureau of Justice Assistance (BJA), Operations, Communications & Government Affairs. This position implements and manages aspects of the BJA communications program and coordinates with OJP's Office of Communications on public affairs, congressional and intergovernmental affairs and media-related activities related to BJA.
-  open_date: 2024-08-07
-  close_date: 2024-08-18
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/803784900
+- title: Community Outreach Specialist
+  department: Department of Homeland Security
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          6-month non-reimbursable assignment with the possibility of extension. Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Community Outreach Specialist Series Requested: 0301 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
+  open_date: 2024-09-03
+  close_date: 2024-10-05
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
   cop_topics:
     - Communicators
+    - Plain Language
 
-- title: Technical Writer Editor
-  department: Department of Commerce
-  location: Anywhere in the U.S. (remote job)
-  description: Do you want to be part of a team striving to be a catalyst for fostering compliance, innovation, and equitability? Do you want to be on the cutting edge of customer service, customer relationship, and team building? Do you want to support an organization dedicated to developing, implementing and evaluating initiatives to support their customer? Join the USPTO; America's Innovation Agency supporting 13,000 people nationwide. This is a workforce who work daily with innovators to protect hard work!
-  open_date: 2024-08-13
-  close_date: 2024-08-28
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804599300
+- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
+  department: Department of Defense
+  location: Patrick AFB, Florida
+  description: >
+          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
+  open_date: 2024-09-10
+  close_date: 2024-09-25
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808856100
   cop_topics:
+    - Social Media
+
+- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
+  department: Department of Defense
+  location: Patrick AFB, Florida
+  description: >
+          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
+  open_date: 2024-09-10
+  close_date: 2024-09-25
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808864700
+  cop_topics:
+    - Social Media
+
+- title: Writer-Editor (Social Media)
+  department: Department of Commerce
+  location: Gaithersburg, Maryland
+  description: >
+          The Department of Commerce ranked top 5 in the 2023 Best Places to Work in the Federal Government amongst large agencies for the 12th year in a row! The ranking showcases the Department's continued commitment to increasing our employee engagement, employee satisfaction, and positive perceptions towards diversity, equity, accessibility, and inclusion. Come join our team!
+  open_date: 2024-09-16
+  close_date: 2024-10-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809554800
+  cop_topics:
+    - Social Media
+
+- title: Business Marketing Automation Specialist
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          This position is in the This position is in the Office of Integrated Marketing, Office of Customer and Stakeholder Engagement (QC), Federal Acquisition Service (FAS), General Services Administration (GSA). Location of Position: This is a virtual position and duty location of this position will be determined upon selection We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-13
+  close_date: 2024-09-24
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809540800
+  cop_topics:
+    - Communicators
+    - Plain Language
+    - User Experience
+    - Web Analytics
+    - Web Managers
+
+- title: Supervisory IT Specialist (DATAMGT/INET)
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          As a Supervisory IT Specialist (DATAMGT/INET), you will serve as a senior expert and advisor to management on matters related to efforts for cross-agency development via communities of practice. Internal title: Communities & Collaboration Branch Chief Location: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS), Platforms and Services Division. We are currently filling one vacancy, but add'l vacancies may be filled as needed.
+  open_date: 2024-09-23
+  close_date: 2024-09-28
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810717200
+  cop_topics:
+    - Web Managers
+
+- title: Supervisory Writer-Editor
+  department: General Services Administration
+  location: GSA - US Locations
+  description: >
+          The Office of Strategic Communication is responsible for using communication to help the agency meet its mission and business goals. Location of position: GSA, Office of Strategic Communication. Location will be in one of GSA's regional office or Central Office. Location will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-13
+  close_date: 2024-09-28
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809231000
+  cop_topics:
+    - Communicators
     - Plain Language

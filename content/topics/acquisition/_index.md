@@ -31,7 +31,7 @@ legislation:
   title: "Federal Acquisition Regulation"
   link: "https://www.acquisition.gov/browse/index/far"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/techfar-hub-get-started"

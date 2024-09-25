@@ -18,7 +18,7 @@ legislation:
   title: "OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery"
   link: "https://www.federalregister.gov/documents/2023/05/11/2023-10046/agency-information-collection-activities-improving-customer-experience-omb-circular-a-11-section-280"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "resources/fifteen-plays-of-our-contact-center-approach"

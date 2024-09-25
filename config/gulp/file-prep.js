@@ -277,7 +277,7 @@ function writeDataFile() {
 function fileData(format, uid) {
   return `
   # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
-  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)">}}
+  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)" >}}
   date     :  ${getCurrentDate()}
   uid      :  ${uid}
   format   :  ${format}
@@ -294,7 +294,7 @@ function fileData(format, uid) {
 function imageData(format, uid, dimensions) {
   return `
   # https://s3.amazonaws.com/digitalgov/${uid}.${format}
-  # Image shortcode: {{< img src=${uid} >}}'
+  # Image shortcode: {{< img src="${uid}" >}}'
   date     :  ${getCurrentDate()}
   uid      :  ${uid}
   width    :  ${dimensions.width}
