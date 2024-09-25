@@ -36,13 +36,13 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/resources/nara-guidance-on-managing-social-media-records"
+  - link: "/resources/nara-guidance-on-managing-social-media-records"
 
 # Featured community to display at the top of the page
 featured_communities:
   - "social-media"
   - "communicators"
-  - "plain-language"
+  - "plain-language-community-of-practice"
 
 # Curated list of content, can be internal or external links
 featured_links:
