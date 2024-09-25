@@ -29,10 +29,10 @@ legislation:
   title: "Federal Information Security Modernization Act of 2014 (FISMA) (Public Law 113-283) (PDF, 265 KB, 16 Pages)"
   link: "https://www.gpo.gov/fdsys/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/an-introduction-to-security"
+    - link: "resources/an-introduction-to-security"
 
 # Featured community to display at the top of the page
 featured_communities:

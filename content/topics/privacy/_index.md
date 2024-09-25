@@ -22,10 +22,10 @@ legislation:
   title: "Privacy Act of 1974 & various OMB memos"
   link: "https://www.fpc.gov/resources/omb/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/an-introduction-to-privacy"
+    - link: "an-introduction-to-privacy"
 
 # Featured community to display at the top of the page
 featured_communities:

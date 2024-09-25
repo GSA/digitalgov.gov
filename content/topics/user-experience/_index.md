@@ -24,7 +24,7 @@ legislation:
   title: "21st Century IDEA & M-23-22"
   link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/guides/hcd/"
@@ -35,7 +35,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "User experience: essential knowledge"
+  title: "User experience: Essential knowledge"
   resources:
   - title: "How to apply user experience principles and methodologies to deliver results"
     summary: "Learn from case studies and best practices from federal UX practitioners to drive innovation through inclusion."

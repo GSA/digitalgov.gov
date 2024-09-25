@@ -18,7 +18,7 @@ legislation:
   title: " DOTGOV Act & M-23-10 (PDF, 96 KB, 3 pages, February 2023)"
   link: "https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - title: "get.gov"
@@ -31,7 +31,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Domain management: essential knowledge"
+  title: "Domain management: Essential knowledge"
   resources:
   - title: "Domain security best practices"
     summary: "Follow these domain security best practices to ensure a safe experience for your organization and your users."

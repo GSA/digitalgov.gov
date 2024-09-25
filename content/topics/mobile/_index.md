@@ -53,7 +53,7 @@ legislation:
   title: "Connected Government Act"
   link: "/resources/connected-government-act/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/mobile-sow-and-developer-qualifications"
@@ -65,7 +65,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Mobile: essential knowledge"
+  title: "Mobile: Essential knowledge"
   resources:
   - title: "Eight principles of mobile-friendliness"
     summary: "Use these eight principles of mobile-friendliness to greatly improve the mobile-friendliness of your websites."
