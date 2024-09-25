@@ -24,7 +24,7 @@ legislation:
 # Featured resource to at the top of the page
 featured_resources:
   resources:
-    - link: "guide-paperwork-reduction-act"
+    - link: "/resources/guide-paperwork-reduction-act"
 
 # Featured community to display at the top of the page
 featured_communities:
