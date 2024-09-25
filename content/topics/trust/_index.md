@@ -25,7 +25,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Design: essential knowledge"
+  title: "Design: Essential knowledge"
   resources:
   - title: "An introduction to trust"
     href: "/resources/an-introduction-to-trust/"

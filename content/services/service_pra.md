@@ -3,6 +3,7 @@
 title: "The Guide to the Paperwork Reduction Act"
 
 # Keep it short — should be no longer than 10 words.
+# A guide to navigating the Paperwork Reduction Act.
 summary: "Get help with the PRA, planning and submitting an information request, and finding your agencies agency’s PRA contact."
 
 

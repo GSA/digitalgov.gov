@@ -33,7 +33,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Accessibility: essential knowledge"
+  title: "Accessibility: Essential knowledge"
   resources:
     - title: "Contact Information for Federal Agency Records Officers"
       summary: "NARA has oversight authority for the agencies and department level offices listed on these pages. The individuals listed here have authority to certify and submit records schedules to NARA."

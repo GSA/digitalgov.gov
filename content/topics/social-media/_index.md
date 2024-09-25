@@ -46,7 +46,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Social media: essential knowledge"
+  title: "Social media: Essential knowledge"
   resources:
   - title: "U.S. Digital Registry"
     summary: "An inventory of official government social media accounts, mobile websites, and apps, as reported and authenticated by federal managers."
