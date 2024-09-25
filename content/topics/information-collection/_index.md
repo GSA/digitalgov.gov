@@ -24,7 +24,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/services/service_pra"
+    - link: "/sources/source_pra-guide"
 
 # Featured community to display at the top of the page
 featured_communities:
