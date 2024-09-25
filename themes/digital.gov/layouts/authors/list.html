@@ -98,39 +98,6 @@
 
             {{- partial "core/pagination.html" . -}}
 
-            {{/* Gets the blog posts they have written */}}
-            {{- $posts := where $posts ".Params.author" "intersect" (slice .Params.slug) -}}
-
-            {{/* Gets the guides they have written */}}
-            {{- $guides := where $guides ".Params.author" "intersect" (slice .Params.slug) -}}
-
-            {{/* Merges the blog posts and the guides */}}
-            {{- $posts := union $posts $guides -}}
-
-            {{/* Merges the past events and the recent blog posts */}}
-            {{ $stream := union $posts $past_events }}
-
-            {{/* Sorting all the items by date and reverse chron */}}
-            {{ $stream := $stream.ByDate.Reverse }}
-
-            {{/* If there are any blog posts at all... */}}
-            {{- if $stream -}}
-              <h2>Latest Content by {{ .Params.display_name }}</h2>
-
-              {{/* Loop through all the pages */}}
-              {{- range $stream -}}
-                {{- if eq .Type "events" -}}
-                  {{- .Render "card-event" -}}
-                {{- end -}}
-
-                {{- if eq .Type "news" -}}
-                  {{ .Render "card-news" }}
-                {{- end -}}
-
-              {{- end -}}
-            {{- end -}}
-
-            {{- partial "core/pagination.html" . -}}
           </section>
         </div>
         {{- partial "partials/core/see-all-footer.html" -}}
