@@ -31,7 +31,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Domain management: essential knowledge"
+  title: "Domain management: Essential knowledge"
   resources:
   - title: "Domain security best practices"
     summary: "Follow these domain security best practices to ensure a safe experience for your organization and your users."

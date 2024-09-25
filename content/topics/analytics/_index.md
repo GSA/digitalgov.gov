@@ -39,7 +39,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Analytics: essential knowledge"
+  title: "Analytics: Essential knowledge"
   resources:
   - title: "How to build an analytics strategy"
     summary: "The Digital Analytics Program (DAP) provides a start-to-finish approach for assessing, reporting, and taking action using Digital.gov in a case study."

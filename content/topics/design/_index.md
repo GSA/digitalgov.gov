@@ -35,7 +35,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Design: essential knowledge"
+  title: "Design: Essential knowledge"
   resources:
   - title: "An introduction to design"
     summary: "How to design government websites that meet customer needs, work well on any device, and follow federal web requirements."

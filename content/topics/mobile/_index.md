@@ -65,7 +65,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Mobile: essential knowledge"
+  title: "Mobile: Essential knowledge"
   resources:
   - title: "Eight principles of mobile-friendliness"
     summary: "Use these eight principles of mobile-friendliness to greatly improve the mobile-friendliness of your websites."
