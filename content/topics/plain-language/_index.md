@@ -23,7 +23,7 @@ legislation:
   title: "Plain Writing Act of 2010"
   link: "https://www.govinfo.gov/app/details/PLAW-111publ274"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - title: "Plainlanaguage.gov"
@@ -36,7 +36,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Plain language: essential knowledge"
+  title: "Plain language: Essential knowledge"
   resources:
   - title: "An introduction to plain language"
     href: "/resources/an-introduction-to-plain-language/"

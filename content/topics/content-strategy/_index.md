@@ -40,7 +40,7 @@ legislation:
   title: "21st Century IDEA & M-23-22"
   link: "https://digital.gov/resources/21st-century-integrated-digital-experience-act/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/guides/site-scanning/"
@@ -52,7 +52,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Content strategy: essential knowledge"
+  title: "Content strategy: Essential knowledge"
   resources:
   - title: "An introduction to structured content"
     summary: "Learn how to transform how people find, understand, share, use, and reuse government information."

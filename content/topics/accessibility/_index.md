@@ -23,10 +23,10 @@ legislation:
   title: "Section 508 of the Rehabilitation Act of 1973"
   link: "https://www.section508.gov/manage/laws-and-policies/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/an-introduction-to-accessibility"
+    - link: "an-introduction-to-accessibility"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -34,7 +34,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Accessibility: essential knowledge"
+  title: "Accessibility: Essential knowledge"
   resources:
     - title: "Section508.gov"
       summary: "This site provides guidance for federal agencies on several topics in IT accessibility, including creating accessible websites and documents, accessibility testing, accessibility training, and accessibility in contracting and procurement."
