@@ -29,7 +29,7 @@ primary_image: 2024-uswds-monthly-call-aug-title-card
 
 {< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for August 2024" icon="content_copy" >}} **Slide 1** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for August 2024. Welcome back! I hope you're having as good a summer as possible. For our team, at least, July can be a great time to have a bit of focus time. This month we're simply celebrating the season with some warm summer colors in the USWDS logo: yellows, blue, green, and orange.
 
-**Slide 2 ** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. As of this month, the avatar now has glasses — matching real life me, who's wearing a gray shirt today, and yellow socks, approximately gold-30v.
+**Slide 2** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. As of this month, the avatar now has glasses — matching real life me, who's wearing a gray shirt today, and yellow socks, approximately gold-30v.
 As Jeannie mentioned, we are recording this call, and I'm happy to say we've started to be able to share the recordings of these monthly calls publicly. You can find pretty much everything from the last year's worth of monthly calls, back to January 2023, on our website, at [designsystem.digital.gov/about/monthly-calls](https://designsystem.digital.gov/about/monthly-calls/). We typically post videos shortly after the monthly call, and we also link out to the slides and the script, hosted at digital.gov. We've also started collecting each month's Q&A as a GitHub discussion linked from the monthly calls page. We've posted a link to our monthly calls page in the chat.
 We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so. Otherwise, there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
@@ -95,21 +95,21 @@ So in terms of the current state of that process, we’ve received several sugge
 **Slide 25** We ask questions like:
 
 * Does the component support a WCAG requirement? At what level (A, double AA, triple AAA)?
-*What alternatives are there to fulfill that requirement?
+* What alternatives are there to fulfill that requirement?
 
-*Does the component have a clear purpose and address a user need?
+* Does the component have a clear purpose and address a user need?
 
-*Is there an existing solution in USWDS that better meets the need than the proposed solution? If there is, we likely won’t move forward with that proposal.
+* Is there an existing solution in USWDS that better meets the need than the proposed solution? If there is, we likely won’t move forward with that proposal.
 
 **Slide 26** And then we consider what might _not_ support this proposal.
 
 **Slide 27** We ask:
 
-*Do the usability and accessibility _benefits_ outweigh any potential _risks_?
+* Do the usability and accessibility _benefits_ outweigh any potential _risks_?
 
-*Is this _particular_ solution needed by the USWDS community?
+* Is this _particular_ solution needed by the USWDS community?
 
-*Has it been requested, how often, _or_ to what extent is it already being used across the government digital landscape? Have teams or other agency design systems created their own, since they couldn’t find it in USWDS?
+* Has it been requested, how often, _or_ to what extent is it already being used across the government digital landscape? Have teams or other agency design systems created their own, since they couldn’t find it in USWDS?
 
 **Slide 28** We document answers to these questions in a simple rubric that gives us a high level picture. This slide shows these questions with columns for yes, somewhat, and no. The answer to these questions needs to be “Yes” for most of them (except for the middle question about whether there’s an _existing_ solution to fulfill the need, which should be a “no”). If _so_, we’ll feel more confident moving ahead.
 
@@ -137,7 +137,7 @@ As we move forward into USWDS Web Components, we will be thinking hard about com
 Today, design tools better support this connection between design and development. Since this connection is at the front of our mind in our shift to Web Components, it makes more and more sense for us to engage with these tools directly.
 So let's take a look at what we're building for USWDS in Figma.
 
-**Figma Demo Slides**
+**_Figma Demo Slides_**
 
 We’re working in the direction of delivering a USWDS-built Figma design kit. It’s not available yet and still exists now as an internal beta, but we hope to distribute it soon. I wanted to show you a preview in coordination with some of the things we’re thinking about in our move to Web Components.
 
@@ -176,15 +176,15 @@ So this is important to us, and one of the key elements in our vision of empower
 
 **Slide 36** The USWDS Beta Design Kit in Figma will feature:
 
-*Design tokens as variables
+* Design tokens as variables
 
-*Attribute-powered components
+* Attribute-powered components
 
-*Mode-based fonts and themes
+* Mode-based fonts and themes
 
-*Extensive examples and guidance
+* Extensive examples and guidance
 
-*And of course, auto layout, and other native functionality.
+* And of course, auto layout, and other native functionality.
 
 More to come on this. We hope to begin publishing our work soon.
 
@@ -204,11 +204,12 @@ Matt: Sure can. Hey yall, Matt Henry. Acting Engineering Lead for the design sys
 
 **Slide 42** Dan: Thank you Matt. Why don’t you take it away with a demo.
 
-**Demo presentation**
+**_Demo presentation_**
 
 **Slide 43** Dan: Thanks Matt and Amy. This is Dan again. So we're expecting to get an initial package for this work out tomorrow via npm (at uswds/web-components). This will still feature alpha components, but the npm package will be a good way to track our progress — in addition to what you'll find at the project hub: [github.com/uswds/web-components](http://github.com/uswds/web-components).
 
 **Slide 44** So what's next with this work? In the coming weeks, we'll be getting Banner, Identifier, and Link into the beta phase and publishing them via the web-components npm package. We'll be working on Button, Accordion, Card, Text Input, and Modal next. 
+
 **Slide 45** And then, by the end of the fall, we should have at least a dozen components in stable Beta. We're working hard, and we'll be updating folks on our progress through all our usual channels.
 
 **Slide 46** So onward, and here we go!
