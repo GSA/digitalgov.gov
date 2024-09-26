@@ -5,7 +5,7 @@ title: 'U.S. Web Design Standards + DigitalGov'
 summary: 'We’re excited to announce that the U.S. Web Design Standards team has moved over to OPP and joined the DigitalGov team.'
 
 redirectto: https://digital.gov/topics/design/
-expirydate: "2024-09-26"
+expirydate: "2024-09-25"
 
 authors:
   - jeremyzilar
