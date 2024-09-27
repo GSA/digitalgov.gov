@@ -15,6 +15,8 @@ aliases:
   - /topics/prototype/
   - /topics/public-sans/
   - /2017/11/14/uswds-digitalgov/
+  - /2017/03/2017-03-13-u-s-web-design-standards-releases-version-1-0
+  - /2015/09/2015-09-28-introducing-the-u-s-web-design-standards
 
 # Weight
 weight: 2
