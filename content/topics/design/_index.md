@@ -14,6 +14,7 @@ aliases:
   - /topics/draft-web-design-standards/
   - /topics/prototype/
   - /topics/public-sans/
+  - /news/2017/03/2017-03-13-u-s-web-design-standards-releases-version-1-0
 
 # Weight
 weight: 2
