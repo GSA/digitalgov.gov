@@ -17,6 +17,10 @@ aliases:
   - /2017/11/14/uswds-digitalgov/
   - /2017/03/2017-03-13-u-s-web-design-standards-releases-version-1-0/
   - /2015/09/2015-09-28-introducing-the-u-s-web-design-standards/
+  - /2015/11/2015-11-17-gsa-gov-refreshed-with-eye-toward-mobile-users/
+  - /2015/10/2015-10-05-the-content-corner-content-management-system-considerations/
+  - /2015/11/2015-11-10-trends-on-tuesday-5-tips-for-designing-touch-interactions/
+
 
 # Weight
 weight: 2
