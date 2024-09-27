@@ -4,6 +4,8 @@
 
 https://digital.gov
 
+Testing for verified commits
+
 - Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
 - Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
@@ -91,7 +93,8 @@ hugo version
 ```
 
 **Note:** Digital.gov currently uses Hugo version 0.133.1. This is noted in our [.hugo-version](.hugo-version) file.
-If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: 
+If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions:
+
 1.  Uninstall the current version with `brew uninstall hugo`
 2.  Visit
     [<u>https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb</u>](https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb)
@@ -244,6 +247,7 @@ slug: $1
 ```
 
 ### New Features
+
 - Communities of Practice Job Board
   - [Development Guide](./themes/digital.gov/layouts/job-board/readme.md)
   - [Demo](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/kl-job-board-mvp/job-board/)
