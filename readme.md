@@ -5,7 +5,7 @@
 https://digital.gov
 
 Testing for verified commits
-Commits should be working!
+Re-added key to github and selected key type
 
 - Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
