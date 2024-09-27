@@ -26,7 +26,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/resources/an-introduction-to-accessibility/"
+    - link: "an-introduction-to-accessibility"
 
 # Featured community to display at the top of the page
 featured_communities:
