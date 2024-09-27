@@ -1,15 +1,15 @@
 ---
 slug: a-better-digitalgov
 date: 2017-11-14 14:05:00 -0400
-title: 'A Better DigitalGov'
-summary: 'We’re going to try something new here, something better.'
+title: "A Better DigitalGov"
+summary: "We’re going to try something new here, something better."
 authors:
   - jeremyzilar
   - digitalgov-team
 featured_image:
   uid: tile-1
   alt: A better DigitalGov
-deck: 'We’re going to try something new here'
+deck: "We’re going to try something new here"
 communities:
   - apis
   - accessibility
@@ -27,8 +27,6 @@ Our research has shown that people in government need clear, practical, well-doc
 
 So we’re setting out to deliver just that. And we’re making a commitment to improve our site and its services iteratively and in the open. By clearly documenting each step of our process, we hope to be a practical example, make paths that others can follow or adapt, and create a space where government teams can share their own problems and solutions. We’ll need your help to make this happen.
 
-**Related:** [The U.S. Web Design Standards team has joined the DigitalGov team]({{< ref "2017-11-14-uswds-digitalgov.md" >}})
-
 **How to stay up-to-date:**
 
 - [Here's what we're working on][3ed80b13]
@@ -39,6 +37,7 @@ So we’re setting out to deliver just that. And we’re making a commitment to 
 - [Learn more about our team]({{< ref "/about/_index.md" >}})
 
   [3ed80b13]: https://github.com/GSA/digitalgov.gov/issues "What we're working on in GitHub"
+
   [20d731c7]: {{< ref "/about/subscribe.md" >}} "Sign up for our newsletter"
   [a4d3008a]: https://twitter.com/digital_gov/ "Follow us on Twitter"
   [48963c81]: https://www.facebook.com/digitalgov/ "Join us on Facebook"
