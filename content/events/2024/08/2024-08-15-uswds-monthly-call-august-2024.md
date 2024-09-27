@@ -74,7 +74,7 @@ So in our ongoing usability research, we now have our [“zebra”](https://gith
 
 **Slide 18** We’ve also had conversations going on in our public discussions on GitHub. I'd like to point out a handful.
 
-There are new component proposals for a Step indicator, both _track-status_ variant and _vertical_ variant. There’s continued discussion on a new component proposal for Tabs. We’ve also made progress on research for a new component called Glossary, which I’ll go into a little more. There’s an (accessibility discussion)[https://github.com/uswds/uswds/discussions/6023] about proving visitors’ humanness.
+There are new component proposals for a Step indicator, both _track-status_ variant and _vertical_ variant. There’s continued discussion on a new component proposal for Tabs. We’ve also made progress on research for a new component called Glossary, which I’ll go into a little more. There’s an [accessibility discussion](https://github.com/uswds/uswds/discussions/6023) about proving visitors’ humanness.
 
 And finally, we have the (Q&A from our June monthly call)[https://github.com/uswds/uswds/discussions/5977] posted so that if you missed that call, you can quickly catch up.
 
