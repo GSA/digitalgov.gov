@@ -5,7 +5,7 @@ source_url: "https://blog.usa.gov/how-our-developers-and-accessibility-speciali\
 source: usagov
 date: 2024-09-17 00:00:00 -0500
 title: "How our developers and accessibility specialists work together"
-deck: Planning for accessibility is critical to creating more inclusive digital
+deck: "Planning for accessibility is critical to creating more inclusive digital
   experiences. Discover how developers and accessibility specialists from
   USA.gov collaborate early in the development process to ensure that their
   government websites are accessible for everyone. By following established
