@@ -34,7 +34,7 @@ legislation:
 # Featured community to display at the top of the page
 featured_communities:
   - "web-managers-forum"
-  - "[U.S. Web Design System (USWDS) Community](https://designsystem.digital.gov/about/community/)" 
+  - "uswds"
 
 # Curated list of content, can be internal or external links
 featured_links:
