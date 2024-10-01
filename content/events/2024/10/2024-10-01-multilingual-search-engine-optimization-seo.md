@@ -12,6 +12,7 @@ date: 2024-10-10 14:00:00 -0500
 end_date: 2024-10-10 15:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+primary_image: "2024-09-11_Multilingual Webinar_ SEO_Title card"
 ---
 Search engine optimization (SEO) involves optimizing websites and their pages to be indexed and surfaced by search engines. 
 
