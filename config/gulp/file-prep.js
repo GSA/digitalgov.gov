@@ -192,7 +192,7 @@ function cleanFileName(origfilename) {
     .toLowerCase()
     .replace(/[ &$_#!?.]/g, "-")
     .replace(/-+/g, "-") // multiple dashes to a single dash
-    .replace(/-(png|jpg|jpeg|pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/g, ".$1") // remove trailing dashes
+    .replace(/-(csv|png|jpg|jpeg|pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/g, ".$1") // remove trailing dashes
     .replace(/\.jpeg$/g, ".jpg") // .jpeg to .jpg
     .replace(/-\d{2,4}x\d{2,4}(?=\.jpg)/g, "") // strip trailing dimensions
     .replace(/^\d{2,4}-*x-*\d{2,4}-*/g, "") // strip leading dimensions
