@@ -8,7 +8,7 @@ source_url: "https://blog.usa.gov/whens-the-best-time-to-tweet-usagovespanol-exp
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
 source: usagov
-slug: 
+slug: whens-the-best-time-to-tweet
 
 date: 2020-07-22 07:55:00 -0500
 kicker: "Multilingual"
