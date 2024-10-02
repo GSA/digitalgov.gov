@@ -26,7 +26,7 @@ const extensionsString = allExtensions
   .join(",");
 
 const imageRegex = /(png|jpg|jpeg)/;
-const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
+const fileRegex = /(csv|doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 
 /**
  * Converts JPG images to PNG format
