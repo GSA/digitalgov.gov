@@ -12,9 +12,6 @@ summary: "Addressing web and digital communications related to Hurricane Helene"
 aliases:
   - /hurricane-helene/
 
-# Archive - see Trello board
-# expirydate: "YYYY-MM-DD"
-
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
