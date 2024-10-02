@@ -8,6 +8,7 @@ const path = require("path");
 
 const imageExtensions = [".jpg", ".png", ".jpeg"];
 const fileExtensions = [
+  ".csv",
   ".pdf",
   ".doc",
   ".docx",
