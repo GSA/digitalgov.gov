@@ -17,6 +17,6 @@ data:
   is_emergency: false
   has_icon: true
   is_slim: false
-  header: "Guidance for U.S. government websites and social media for:"
+  header: "Hurricane Helene guidance for U.S. government websites and social media"
   alerts:
-    - "Hurricane Helene: [digital.gov/hurricane-helene](/hurricane-helene)"
+    - "[digital.gov/hurricane-helene](/hurricane-helene)"
