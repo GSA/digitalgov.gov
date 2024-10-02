@@ -25,7 +25,8 @@ topics:
   - customer-service
 
 # Primary Image (for social media)
-primary_image: "card-hurricane-helene-guidance"
+primary_image: "hurricane-helene-esf-15"
+
 ---
 
 {{< note variant="alert" >}} Atlantic hurricane season ended 11/30/2022. This page has been archived. {{< /note >}}
