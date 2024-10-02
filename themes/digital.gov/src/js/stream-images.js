@@ -47,7 +47,7 @@
    */
   function createImageElement(image) {
     return `<div class="card-img">
-    <div class="media style="max-width:400px;">
+    <div class="media" style="max-width:400px;">
       ${createImageThumbnail(image)}
       <p>${image.caption}</p>
     </div>
