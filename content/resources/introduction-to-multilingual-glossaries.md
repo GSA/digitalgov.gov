@@ -25,7 +25,7 @@ weight: 1
 
 A common struggle for translators is interpreting an English word or phrase when there is no direct equivalent in the language you’re translating to (often called the “target language”). 
 
-One example is the common English phrase “log in.” In Spanish, “to log in” actually means apertura de la sesión, which translates back into English as “to open the session.” It takes tremendous time and effort to research how to interpret common terms into the most universally-acceptable translation of Spanish.
+One example is the common English phrase “log in.” In Spanish, “to log in” translates to "apertura de la sesión," which translates back into English as “to open the session.” It takes tremendous time and effort to research how to interpret common terms into the most universally-acceptable translation of Spanish.
 
 A multilingual glossary is a tool that facilitates sharing common translations among subject matter experts across communities. These glossaries help translators and agencies better communicate with non-English speaking audiences and households. Pooling commonly translated government terms into a shared multilingual glossary supports consistent communication across government. 
 
