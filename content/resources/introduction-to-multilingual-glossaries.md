@@ -54,8 +54,8 @@ Explore the requirements for improving access to services for people with limite
 
 The Digital.gov Multilingual Community of Practice, GSA’s [10x Multilingual Glossary Tools project](https://10x.gsa.gov/news/multilingual-glossary-tool/), and an interagency working group worked to develop a shared translation glossary of health terms in Spanish. The glossary is available and use is encouraged by all translation teams working in both public and private sectors. The goal of the glossary is to ensure consistency, quality, and understandability of key health-related terms across government. 
 
-* Download the Health-Spanish Translation Glossary - Fall 2024 (CSV 506 KB)
-* Review the Health-Spanish Translation Glossary Data Dictionary - Fall 2024 (DOCX 16 KB)
+* Download the [Health-Spanish Translation Glossary - Fall 2024 (CSV 506 KB)](https://s3.amazonaws.com/digitalgov/static/multilingual-glossary-tool-fall-2024.csv)
+* Review the [Health-Spanish Translation Glossary Data Dictionary - Fall 2024 (DOCX 16 KB)](https://s3.amazonaws.com/digitalgov/static/data-dictionary-multilingual-glossary-health-fall-2024.docx)
 
 ## What can I do next?
 
