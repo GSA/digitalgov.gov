@@ -28,9 +28,9 @@
   function createImageThumbnail(image) {
     let thumbnail = "";
 
-    if (image.width > 400) {
-      // Example: big-bend_w400.jpg
-      thumbnail = `${baseURL}/${image.uid}_w400.${image.format}`;
+    if (image.width > 800) {
+      // Example: big-bend_w800.jpg
+      thumbnail = `${baseURL}/${image.uid}_w800.${image.format}`;
     } else {
       // Example: big-bend.jpg
       thumbnail = `${baseURL}/${image.uid}.${image.format}`;
@@ -47,7 +47,7 @@
    */
   function createImageElement(image) {
     return `<div class="card-img">
-    <div class="media">
+    <div class="media style="max-width:400px;">
       ${createImageThumbnail(image)}
       <p>${image.caption}</p>
     </div>
