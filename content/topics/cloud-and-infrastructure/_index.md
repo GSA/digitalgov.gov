@@ -26,7 +26,7 @@ legislation:
   title: "Circular No. A-130 - Managing Information as a Strategic Resource"
   link: "https://www.cio.gov/policies-and-priorities/circular-a-130/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "https://cloud.cio.gov/strategy/"

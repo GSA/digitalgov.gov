@@ -6,53 +6,65 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
-- title: Public Notice for General Natural Resources & Biological Science (Direct Hire)
-  department: Department of Transportation
-  location: Multiple Locations
-  description: Direct hiring authority for 0401 series is being used to fill this position.
-  open_date: 2023-09-30
-  close_date: 2024-10-01
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/647248000
-  cop_topics:
-    - User Experience
 
-- title: Supervisory Program Analyst
-  department: General Services Administration
-  location: Washington, District of Columbia
-  description: As the Director of the Digital Communications Program Management Office within the Office of Strategic Communication you will be responsible for oversight and improvement of the agency's flagship website, gsa.gov, and the intranet site, Insite, and for ensuring the content is consistent with GSA publication policies and communications strategy. Location of position- GSA, Office of Strategic Communication, 1800 F Street, NW, Washington, DC.
-  open_date: 2024-08-01
-  close_date: 2024-08-16
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802475200
-  cop_topics:
-    - Communicators
-    - Web Managers
+
+
 
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
-  description: 1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested- 0343 Security Clearance- None Virtual/Remote- Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
+  description: >
+          1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested: 0343 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-07-31
-  close_date: 2024-08-30
+  close_date: 2024-11-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
   cop_topics:
     - Communicators
 
-- title: Communications Specialist
-  department: Department of Justice
-  location: Washington, District of Columbia
-  description: This position is located in the Department of Justice, Office of Justice Programs, Bureau of Justice Assistance (BJA), Operations, Communications & Government Affairs. This position implements and manages aspects of the BJA communications program and coordinates with OJP's Office of Communications on public affairs, congressional and intergovernmental affairs and media-related activities related to BJA.
-  open_date: 2024-08-07
-  close_date: 2024-08-18
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/803784900
+- title: Community Outreach Specialist
+  department: Department of Homeland Security
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          6-month non-reimbursable assignment with the possibility of extension. Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Community Outreach Specialist Series Requested: 0301 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
+  open_date: 2024-09-03
+  close_date: 2024-10-05
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
   cop_topics:
     - Communicators
-
-- title: Technical Writer Editor
-  department: Department of Commerce
-  location: Anywhere in the U.S. (remote job)
-  description: Do you want to be part of a team striving to be a catalyst for fostering compliance, innovation, and equitability? Do you want to be on the cutting edge of customer service, customer relationship, and team building? Do you want to support an organization dedicated to developing, implementing and evaluating initiatives to support their customer? Join the USPTO; America's Innovation Agency supporting 13,000 people nationwide. This is a workforce who work daily with innovators to protect hard work!
-  open_date: 2024-08-13
-  close_date: 2024-08-28
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804599300
-  cop_topics:
     - Plain Language
+
+- title: Communications Specialist (Open to both U.S. Citizens and Federal Employees)
+  department: Department of Transportation
+  location: Washington, District of Columbia
+  description: >
+          This position is in the FHWA Office of Public Affairs (HPA). The Communications Specialist will report to the Program Manager (Division Chief) in the HPA, Office of Public Communications. You will be responsible for administering and maintaining a public information program for the FHWA, with primary responsibility of collecting, assembling, preparing, and disseminating content for various programs of the FHWA using social media and web 2.0 strategies and applications.
+  open_date: 2024-09-22
+  close_date: 2024-10-02
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810475700
+  cop_topics:
+    - Communicators
+    - Social Media
+
+- title: Public Affairs Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
+  open_date: 2024-09-26
+  close_date: 2024-10-11
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608400
+  cop_topics:
+    - Communicators
+    - Social Media
+
+- title: Public Affairs Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
+  open_date: 2024-09-26
+  close_date: 2024-10-11
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608700
+  cop_topics:
+    - Communicators
+    - Social Media

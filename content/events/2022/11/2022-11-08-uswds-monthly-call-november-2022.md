@@ -213,7 +213,7 @@ As Austin said, asking about gender and sex in a respectful and inclusive way is
 
 While the definition used for the “X” choice is a little muddy, blurring the lines between sex and gender identity, it’s still a really important first step in offering more inclusive options.
 
-**Slide 58:** [Social Security recently announced that they will allow individuals to self-select their sex on their Social Security number (SSN) record](https://www.ssa.gov/news/press/releases/2022/#10-2022-3). [CDC has developed guidelines for their programs](https://www.cdc.gov/hiv/clinicians/transforming-health/health-care-providers/collecting-sexual-orientation.html). And the [Federal Committee on Statistical Methodology, an interagency working group, has published some excellent research](https://www.fcsm.gov/groups/sogisc/). OMB is also looking at how best to ask about sexual orientation and gender identity.
+**Slide 58:** [Social Security recently announced that they will allow individuals to self-select their sex on their Social Security number (SSN) record](https://www.ssa.gov/news/press/releases/2022/#10-2022-3). [CDC has developed guidelines for their programs](https://www.cdc.gov/nchs/nhis/sexual_orientation/background.htm)). And the [Federal Committee on Statistical Methodology, an interagency working group, has published some excellent research](https://www.fcsm.gov/groups/sogisc/). OMB is also looking at how best to ask about sexual orientation and gender identity.
 
 So research is ongoing and there are a lot of smart folks trying to figure out how we can ask about sex and gender in a way that 
 
@@ -243,7 +243,7 @@ So what does this mean for the USWDS pattern guidance?
 
 **Slide 68:** And let people indicate that they prefer not to answer. There are many reasons people may choose not to provide their gender identity, and we need to be respectful of that.
 
-**Slide 69:** If you do need to ask for both gender identity and sex, consider asking for gender identity first, since this is the designation that determined an individual’s sense of self. And [consider phrasing the question in the same way the CDC does](https://www.cdc.gov/hiv/clinicians/transforming-health/health-care-providers/collecting-sexual-orientation.html): I think of myself as…. This is also a place where “prefer not to answer” might be a viable option for sex  —  the CDC recommends this, and while we generally discourage it, it is an important option when you are asking for both sex and gender especially in a patient-provider relationship where trust is so important.
+**Slide 69:** If you do need to ask for both gender identity and sex, consider asking for gender identity first, since this is the designation that determined an individual’s sense of self. And [consider phrasing the question in the same way the CDC does](https://www.cdc.gov/nchs/nhis/sexual_orientation/background.htm): I think of myself as…. This is also a place where “prefer not to answer” might be a viable option for sex  —  the CDC recommends this, and while we generally discourage it, it is an important option when you are asking for both sex and gender especially in a patient-provider relationship where trust is so important.
 
 **Slide 70:** Now let’s look at guidance around Pronouns.
 

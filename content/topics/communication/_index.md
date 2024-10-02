@@ -28,7 +28,7 @@ legislation:
   title: " Information Quality Act & OMB Memo M-19-15 (PDF 991KB 11 pages)"
   link: "https://www.whitehouse.gov/wp-content/uploads/2019/04/M-19-15.pdf"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/cdc-clear-communication-index"
