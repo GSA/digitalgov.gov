@@ -1,6 +1,6 @@
 ---
 slug: an-introduction-usability-testing-why
-title: "Missing title..."
+title: "Introduction to remote moderated usability testing, part 1: What and why"
 date: 2018-12-10 09:00:00 -0500
 deck: 'An introduction to usability testing, why it’s important, and how to talk about things that aren’t required to do a usability test&#46;'
 summary: ''
