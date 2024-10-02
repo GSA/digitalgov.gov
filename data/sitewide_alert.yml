@@ -13,11 +13,10 @@
 # @param {array} [alerts] - Each item is an individual alert. Accepts markdown. Uses an unordered list when there's more than a single item.
 
 data:
-  display_alert: false
+  display_alert: true
   is_emergency: false
   has_icon: true
   is_slim: false
-  header: "Guidance for U.S. government websites and social media for:"
+  header: "Hurricane Helene guidance for U.S. government websites and social media"
   alerts:
-    - "Hawaii wildfires: [digital.gov/hawaii-wildfires](/hawaii-wildfires)"
-    - "Hurricane Idalia: [digital.gov/hurricane-idalia](/hurricane-idalia)"
+    - "[digital.gov/hurricane-helene](/hurricane-helene)"
