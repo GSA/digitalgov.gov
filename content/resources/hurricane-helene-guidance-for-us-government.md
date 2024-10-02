@@ -83,62 +83,51 @@ Send the title and URL for any Hurricane Helene related materials posted on your
 
 Follow the following handles and retweet and share information relevant to your agency.
 
+### Federal resources
+
 * [@fema](https://twitter.com/fema)
 * [@FEMAespanol](https://x.com/femaespanol)
 * [@FEMARegion4](https://x.com/FEMAregion4)
 * [FEMA on Facebook](https://www.facebook.com/FEMA/)
 * [FEMA en Español on Facebook](https://www.facebook.com/FEMAespanol)
 
-## Local resources
+### Local resources
 
-### Alabama
+**Alabama**
 
-* [Alabama Emergency Management Agency](https://ema.alabama.gov/)
 * [Alabama Emergency Management Agency | Facebook](https://www.facebook.com/AlabamaEMA)
 * [@AlabamaEMA on X](https://twitter.com/AlabamaEMA)
 
-### Florida
+**Florida**
 
-* [Hurricane Helene | Florida Disaster](https://www.floridadisaster.org/disaster-updates/storm-updates/)
 * [Florida Division of Emergency Management | Facebook](https://www.facebook.com/FDEM/)
 * [@FLSERT on X](https://twitter.com/flsert)
 
-### Georgia 
+**Georgia**
 
-* [Hurricane Helene | Georgia Emergency Management and Homeland Security Agency](https://gema.georgia.gov/hurricane-helene)
 * [Georgia Emergency Management and Homeland Security Agency Facebook](https://www.facebook.com/GeorgiaEMAHS)
 * [@GeorgiaEMAHS on X](https://twitter.com/GeorgiaEMAHS)
 
-### North Carolina
+**North Carolina**
 
-* [http://www.governor.state.nc.us/](http://www.governor.state.nc.us/)
-*[https://www.fema.gov/assistance/individual/disaster-survivors/state-local-referral-lists/north-carolina](https://www.fema.gov/assistance/individual/disaster-survivors/state-local-referral-lists/north-carolina)
-* [North Carolina Tribal Communities](https://www.doa.nc.gov/divisions/american-indian-affairs/tribes)
-* [Eastern Band of Cherokee](https://ebci.com/)
 * [@NCEmergency on X](https://x.com/ncemergency)
 * [@NCEmergency | Facebook](https://www.facebook.com/NCEmergency)
 * [@FEMARegion4 on X](https://twitter.com/FEMAregion4)
 
-### South Carolina
+**South Carolina**
 
-* [South Carolina Office of the Governor](http://governor.sc.gov/)
-* [South Carolina State and Local Level Referrals](https://www.fema.gov/assistance/individual/disaster-survivors/state-local-referral-lists/south-carolina)
 * [@SCEMD on X](https://x.com/SCEMD)
 * [@SCEMD | Facebook](https://www.facebook.com/SCEMD)
 * [@FEMARegion4 on X](https://twitter.com/FEMAregion4)
 
-### Tennessee
+**Tennessee**
 
-* [Tennessee Office of the Governor](https://www.tn.gov/governor.html)
-* [Tennessee State and Local Referrals](https://www.fema.gov/assistance/individual/disaster-survivors/state-local-referral-lists/tennessee)
 * [@TennesseeEMA on X](https://x.com/tennesseeEMA)
 * [@TennesseeEMA | Facebook](https://www.facebook.com/TennesseeEMA/)
 * [https://twitter.com/FEMAregion4](https://twitter.com/FEMAregion4)
 
-### Virginia
+**Virginia**
 
-* [Virginia Office of the Governor](https://www.governor.virginia.gov/)
-* [Virginia State and Local Referrals](https://www.fema.gov/assistance/individual/disaster-survivors/state-local-referral-lists/virginia)
 * [@VDEM on X](https://x.com/VDEM)
 * [@VAEmergency | Facebook](https://www.facebook.com/VAemergency/)
 * [@FEMARegion3 on X](https://twitter.com/FEMAregion3)
