@@ -4,7 +4,7 @@
 
 # slug (url path) — changing this requires a redirect
 slug: hurricane-helene-guidance-for-us-government
-date: 2024-10-02
+date: 2024-09-26
 title: "Hurricane Helene guidance for U.S. government websites and social media"
 deck: "Addressing web and digital communications related to Hurricane Helene"
 summary: "Addressing web and digital communications related to Hurricane Helene"
@@ -38,7 +38,7 @@ In response to Hurricane Helene, the U.S. Department of Homeland Security (DHS) 
 
 The authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response#esf) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response) where, during incidents of national significance, DHS has the authority to coordinate all U.S. government communications.
 
-On October 2, 2024, in conjunction with the [Federal Web Council](https://digital.gov/resources/federal-web-council/), DHS issued ESF-15 guidance for federal web and social communications to support the national response to Hurricane Helene.
+On September 26, 2024, in conjunction with the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), DHS issued ESF-15 guidance for federal web and social communications to support the national response to Hurricane Helene.
 
 {{< note >}} **All federal agencies are required to follow this guidance.** {{< /note >}}
 
@@ -57,13 +57,13 @@ When distributing materials related to Hurricane Helene, please include links to
 When posting information to your agency website, please only post information related to your individual agency. Then, link to the authoritative information from other government agencies that is related to your agency mission or “lane.” Do NOT copy and paste content from other agencies or websites onto your site.
 {{< /note >}}
 
-Coordinate emergency response-related web and digital communications with your [Digital Experience (DX) Council representative](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/#agency-members).
+Coordinate emergency response-related web and digital communications with your [Digital Experience Council representative](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/#agency-members).
 
 ## Lanes of communication
 
 ### What DHS and FEMA are doing
 
-*English*: [https://www.fema.gov/hurricane-helene](https://www.fema.gov/hurricane-helene)<br />
+*English*: [https://www.fema.gov/hurricane-helene](https://www.fema.gov/hurricane-helene)<br/>
 *Spanish*: [https://www.fema.gov/es/hurricane-helene](https://www.fema.gov/es/hurricane-helene)
 
 FEMA has established a landing page on FEMA.gov with the latest information from FEMA and DHS on the disaster. The page is currently promoting response and recovery information and serves as a clearinghouse for related information from DHS. The page is located at [https://www.fema.gov/hurricane-helene](https://www.fema.gov/hurricane-helene) and is available in multiple languages.
