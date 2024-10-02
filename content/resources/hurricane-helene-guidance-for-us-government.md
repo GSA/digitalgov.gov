@@ -112,25 +112,21 @@ Follow the following handles and retweet and share information relevant to your 
 
 * [@NCEmergency on X](https://x.com/ncemergency)
 * [@NCEmergency | Facebook](https://www.facebook.com/NCEmergency)
-* [@FEMARegion4 on X](https://twitter.com/FEMAregion4)
 
 **South Carolina**
 
 * [@SCEMD on X](https://x.com/SCEMD)
 * [@SCEMD | Facebook](https://www.facebook.com/SCEMD)
-* [@FEMARegion4 on X](https://twitter.com/FEMAregion4)
 
 **Tennessee**
 
 * [@TennesseeEMA on X](https://x.com/tennesseeEMA)
 * [@TennesseeEMA | Facebook](https://www.facebook.com/TennesseeEMA/)
-* [https://twitter.com/FEMAregion4](https://twitter.com/FEMAregion4)
 
 **Virginia**
 
 * [@VDEM on X](https://x.com/VDEM)
 * [@VAEmergency | Facebook](https://www.facebook.com/VAemergency/)
-* [@FEMARegion3 on X](https://twitter.com/FEMAregion3)
 
 {{< note "action" >}}
 Follow and retweet the above accounts from your agency social media accounts as appropriate.
