@@ -28,10 +28,8 @@ In this session, you’ll learn how to:
 
 ## Speakers
 
-* **Fedora Braverman** - Multilingual Community Lead
 * **Laura Godfrey** - Multilingual Community Lead
 * **Linda Saucedo** - Translation Program Manager, NCI contractor
-* **Isabel Lansberry** - Translator and Terminologist, NCI contractor
 
 ## You may also be interested in:
 
