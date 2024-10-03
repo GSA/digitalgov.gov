@@ -29,7 +29,7 @@ legislation:
   title: "Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government"
   link: "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
   - link: "resources/customer-experience-toolkit/"
@@ -40,7 +40,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Customer experience: essential knowledge"
+  title: "Customer experience: Essential knowledge"
   resources:
   - title: "Embed equity in civic design to transform customer experience"
     summary: "Use lessons learned from this case study, which describes how two civic designers at different agencies embed equity in civic design to transform federal customer experience."

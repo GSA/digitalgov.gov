@@ -25,7 +25,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Governance: essential knowledge"
+  title: "Governance: Essential knowledge"
   resources:
   - title: "An introduction to digital governance"
     summary: "Get an overview of the internal systems and processes used to manage digital presence."

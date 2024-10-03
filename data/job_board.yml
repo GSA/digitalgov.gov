@@ -14,22 +14,10 @@
   description: >
           1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested: 0343 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-07-31
-  close_date: 2024-10-01
+  close_date: 2024-11-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
   cop_topics:
     - Communicators
-
-- title: Deputy Director, Office of Digital Services and Technical Architecture (Chief Artificial Intelligence Officer)
-  department: Other Agencies and Independent Organizations
-  location: Washington, District of Columbia
-  description: >
-          **This announcement has been reposted to correct an error in the closing date.** This Senior Executive Service (SES) position is in the Office of Mission Support, Office of Digital Services and Technical Architecture. About OMS. This is an office-centered position*--you must physically report to the duty station stated in this announcement on a regular basis. *EPA offers work-from-home and work schedule flexibilities as described in the Benefits section.
-  open_date: 2024-08-13
-  close_date: 2024-09-14
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804486700
-  cop_topics:
-    - Web Analytics
-    - Web Managers
 
 - title: Community Outreach Specialist
   department: Department of Homeland Security
@@ -43,36 +31,59 @@
     - Communicators
     - Plain Language
 
-- title: Program Specialist
-  department: Department of Transportation
-  location: Washington, District of Columbia
+- title: Public Affairs Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
   description: >
-          The position is located within the Office of Finance & Management, AFN-001. AFN Strategic Communications provides communications support with broad awareness messaging and digital presentation to enhance the visibility of AFN efforts, including the FedView Survey, awards programs, Robotics Process Automation (RPA), Enterprise Information Management (EIM), Freedom of Information Act (FOIA), AFN Connect, branding and other initiatives.
-  open_date: 2024-08-31
-  close_date: 2024-09-14
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807444900
-  cop_topics:
-    - Social Media
-
-- title: Program Specialist
-  department: Department of Transportation
-  location: Washington, District of Columbia
-  description: >
-          The position is located within the Office of Finance & Management, AFN-001. AFN Strategic Communications provides communications support with broad awareness messaging and digital presentation to enhance the visibility of AFN efforts, including the FedView Survey, awards programs, Robotics Process Automation (RPA), Enterprise Information Management (EIM), Freedom of Information Act (FOIA), AFN Connect, branding and other initiatives.
-  open_date: 2024-08-31
-  close_date: 2024-09-14
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807442100
-  cop_topics:
-    - Social Media
-
-- title: Writer/Editor
-  department: Department of Health and Human Services
-  location: Multiple Locations
-  description: >
-          This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Center for Medicare and Medicaid Innovation, Policy and Programs Group, Division of Stakeholder Engagement and Policy. As a Writer/Editor, GS-1082-13, you will lead the planning, implementation, and evaluation of a variety of program and policy communications.
-  open_date: 2024-09-10
-  close_date: 2024-09-17
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808598200
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
+  open_date: 2024-09-26
+  close_date: 2024-10-11
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608400
   cop_topics:
     - Communicators
-    - Plain Language
+    - Social Media
+
+- title: Public Affairs Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
+  open_date: 2024-09-26
+  close_date: 2024-10-11
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608700
+  cop_topics:
+    - Communicators
+    - Social Media
+
+- title: Writer-Editor
+  department: Department of the Treasury
+  location: Multiple Locations
+  description: >
+          This position is located at Office of the Inspector General for Tax Admin,Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
+  open_date: 2024-09-30
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810108600
+  cop_topics:
+    - Communicators
+
+- title: Writer-Editor
+  department: Department of the Treasury
+  location: Multiple Locations
+  description: >
+          This position is located at Office of the Inspector General for Tax Admin, Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
+  open_date: 2024-09-30
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810107300
+  cop_topics:
+    - Communicators
+
+- title: Translator (Recent Graduate)
+  department: Department of Health and Human Services
+  location: Atlanta, Georgia
+  description: >
+          As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
+  open_date: 2024-10-02
+  close_date: 2024-10-10
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812482600
+  cop_topics:
+    - Multilingual

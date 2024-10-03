@@ -8,6 +8,7 @@ const path = require("path");
 
 const imageExtensions = [".jpg", ".png", ".jpeg"];
 const fileExtensions = [
+  ".csv",
   ".pdf",
   ".doc",
   ".docx",
@@ -25,7 +26,7 @@ const extensionsString = allExtensions
   .join(",");
 
 const imageRegex = /(png|jpg|jpeg)/;
-const fileRegex = /(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
+const fileRegex = /(csv|doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)/;
 
 /**
  * Converts JPG images to PNG format
@@ -191,7 +192,7 @@ function cleanFileName(origfilename) {
     .toLowerCase()
     .replace(/[ &$_#!?.]/g, "-")
     .replace(/-+/g, "-") // multiple dashes to a single dash
-    .replace(/-(png|jpg|jpeg|pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/g, ".$1") // remove trailing dashes
+    .replace(/-(csv|png|jpg|jpeg|pdf|doc|docx|ppt|pptx|pptm|xls|xlsx)/g, ".$1") // remove trailing dashes
     .replace(/\.jpeg$/g, ".jpg") // .jpeg to .jpg
     .replace(/-\d{2,4}x\d{2,4}(?=\.jpg)/g, "") // strip trailing dimensions
     .replace(/^\d{2,4}-*x-*\d{2,4}-*/g, "") // strip leading dimensions
@@ -277,7 +278,7 @@ function writeDataFile() {
 function fileData(format, uid) {
   return `
   # https://s3.amazonaws.com/digitalgov/static/${uid}.${format}
-  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)">}}
+  # File shortcode: {{< asset-static file="${uid}.${format}" label="${uid} (PDF, 4 pages, 2MB)" >}}
   date     :  ${getCurrentDate()}
   uid      :  ${uid}
   format   :  ${format}
@@ -294,7 +295,7 @@ function fileData(format, uid) {
 function imageData(format, uid, dimensions) {
   return `
   # https://s3.amazonaws.com/digitalgov/${uid}.${format}
-  # Image shortcode: {{< img src=${uid} >}}'
+  # Image shortcode: {{< img src="${uid}" >}}'
   date     :  ${getCurrentDate()}
   uid      :  ${uid}
   width    :  ${dimensions.width}

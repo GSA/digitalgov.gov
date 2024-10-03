@@ -31,10 +31,10 @@ legislation:
   title: "The President’s Management Agenda: Workforce Priority"
   link: "https://www.performance.gov/pma/workforce/"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/open-opportunities"
+    - link: "open-opportunities"
 
 # Featured community to display at the top of the page
 featured_communities:

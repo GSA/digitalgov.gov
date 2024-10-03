@@ -22,7 +22,7 @@ legislation:
   title: "Executive Order 14091: Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government"
   link: "https://www.federalregister.gov/documents/2023/02/22/2023-03779/further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal"
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
     - link: "/resources/introduction-to-self-description"
@@ -34,7 +34,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Diversity, equity, inclusion, and accessibility: essential knowledge"
+  title: "Diversity, equity, inclusion, and accessibility: Essential knowledge"
   resources:
   - title: "Embedding equity in civic design to transform customer experience"
     summary: "Learn how designers in the federal government leverage design methods to build a foundation for improved customer experiences for all people."

@@ -15,10 +15,10 @@ Use podcasts to foster transparency, build trust, and inject a bit of humanity i
 # Weight
 weight: 2
 
-# Featured resource to at the top of the page
+# Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/how-to-start-and-sustain-a-federal-podcast"
+    - link: "how-to-start-and-sustain-a-federal-podcast"
 
 # Featured community to display at the top of the page
 featured_communities:
