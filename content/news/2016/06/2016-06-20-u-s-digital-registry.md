@@ -5,12 +5,11 @@ title: U.S. Digital Registry
 summary: The National Archives is pleased to participate in the U.S. Digital Registry, the authoritative resource for official third-party websites, social media platforms and mobile apps managed by the U.S. federal government. The U.S. Digital Registry is an API-generating platform designed to authenticate third-party sites in the federal government in order to help maintain accountability over
 authors:
   - david-s-ferriero
-topics:
-  - application-programming-interface
-  - product-and-project-management
-  - social-media
-aliases:
 
+expirydate: "2024-10-3"
+
+aliases:
+  -/topics/social-media/
 ---
 
 The National Archives is pleased to participate in the <a href="{{< ref "service_us-digital-registry.md" >}}" target="_blank">U.S. Digital Registry</a>, the authoritative resource for official third-party websites, social media platforms and mobile apps managed by the U.S. federal government. {{< legacy-img src="2016/06/600-x-400-United-States-National-Archives-OGphoto-iStock-Thinkstock-112783117.jpg" alt="Facade of the National Archives of the United States" caption="" >}} 
