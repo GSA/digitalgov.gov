@@ -24,6 +24,7 @@ aliases:
   - /topics/us-digital-registry/
   - /topics/yelp/
   - /topics/youtube/
+  - /news/2016/02/2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts
 
 # Weight
 weight: 2
