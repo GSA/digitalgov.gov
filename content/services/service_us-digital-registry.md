@@ -44,10 +44,7 @@ authors:
 weight: 2
 
 # Topics that best describe this product or service
-topics:
-  - social-media
-  - mobile
-  - product-and-project-management
+
 
 ---
 
