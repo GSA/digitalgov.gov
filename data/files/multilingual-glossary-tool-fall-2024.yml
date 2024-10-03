@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/multilingual-glossary-tool-fall-2024.csv
+  # File shortcode: {{< asset-static file="multilingual-glossary-tool-fall-2024.csv" label="multilingual-glossary-tool-fall-2024 (PDF, 4 pages, 2MB)" >}}
+  date     :  2024-10-02 20:29:32 -0400
+  uid      :  multilingual-glossary-tool-fall-2024
+  format   :  csv
+  
