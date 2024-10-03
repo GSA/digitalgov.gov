@@ -26,6 +26,7 @@ aliases:
   - /topics/youtube/
   - /news/2016/02/2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts
   - /news/2016/02/2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry
+  - /news/2016/06/2016-06-20-u-s-digital-registry
 
 # Weight
 weight: 2
