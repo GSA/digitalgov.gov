@@ -4,6 +4,8 @@
 
 url: /services/u-s-digital-registry/
 
+expirydate: "2024-10-3"
+
 aliases:
   - /services/social-media-registry/
   - /services/the-federal-mobile-apps-registry/
