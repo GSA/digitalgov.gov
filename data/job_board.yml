@@ -8,8 +8,6 @@
 
 
 
-
-
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -32,18 +30,6 @@
   cop_topics:
     - Communicators
     - Plain Language
-
-- title: Communications Specialist (Open to both U.S. Citizens and Federal Employees)
-  department: Department of Transportation
-  location: Washington, District of Columbia
-  description: >
-          This position is in the FHWA Office of Public Affairs (HPA). The Communications Specialist will report to the Program Manager (Division Chief) in the HPA, Office of Public Communications. You will be responsible for administering and maintaining a public information program for the FHWA, with primary responsibility of collecting, assembling, preparing, and disseminating content for various programs of the FHWA using social media and web 2.0 strategies and applications.
-  open_date: 2024-09-22
-  close_date: 2024-10-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810475700
-  cop_topics:
-    - Communicators
-    - Social Media
 
 - title: Public Affairs Specialist
   department: Department of Commerce
@@ -68,3 +54,36 @@
   cop_topics:
     - Communicators
     - Social Media
+
+- title: Writer-Editor
+  department: Department of the Treasury
+  location: Multiple Locations
+  description: >
+          This position is located at Office of the Inspector General for Tax Admin,Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
+  open_date: 2024-09-30
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810108600
+  cop_topics:
+    - Communicators
+
+- title: Writer-Editor
+  department: Department of the Treasury
+  location: Multiple Locations
+  description: >
+          This position is located at Office of the Inspector General for Tax Admin, Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
+  open_date: 2024-09-30
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810107300
+  cop_topics:
+    - Communicators
+
+- title: Translator (Recent Graduate)
+  department: Department of Health and Human Services
+  location: Atlanta, Georgia
+  description: >
+          As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
+  open_date: 2024-10-02
+  close_date: 2024-10-10
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812482600
+  cop_topics:
+    - Multilingual
