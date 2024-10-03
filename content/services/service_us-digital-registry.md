@@ -43,9 +43,6 @@ authors:
 # 0 == hides this service from all pages, but URL is still public
 weight: 2
 
-# Topics that best describe this product or service
-
-
 ---
 
 To help prevent exploitation from unofficial sources, phishing scams, or malicious entities, the [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry) serves as a resource for agencies and the public to confirm the official status of social media, collaboration accounts, and mobile apps.
