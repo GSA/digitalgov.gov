@@ -6,7 +6,7 @@ summary: The National Archives is pleased to participate in the U.S. Digital Reg
 authors:
   - david-s-ferriero
 
-expirydate: "2024-10-3"
+expirydate: "2024-10-03"
 
 ---
 

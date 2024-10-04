@@ -4,7 +4,7 @@
 
 url: /services/u-s-digital-registry/
 
-expirydate: "2024-10-3"
+expirydate: "2024-10-03"
 
 aliases:
   - /services/social-media-registry/
