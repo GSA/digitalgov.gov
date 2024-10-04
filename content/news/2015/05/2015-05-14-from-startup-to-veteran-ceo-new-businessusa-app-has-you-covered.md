@@ -32,4 +32,4 @@ The app features:
 
 The mobile app is based on the desktop version of the [Business.USA.gov business portal](http://business.usa.gov/) (also known as: BusinessUSA or BusinessUSA.gov), both of which are created and managed by BusinessUSA, a federal agency managed jointly by the U.S. Department of Commerce and the Small Business Administration.
 
-_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
+_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://touchpoints.app.cloud.gov/registry)._

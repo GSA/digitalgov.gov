@@ -274,7 +274,6 @@ The overarching name of the site is Digital.gov. You may see references to "Digi
     - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
 - **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
 - **[Digital.gov University](https://www.digital.gov/digitalgov-university/)** (DGU)
-- **[U.S. Digital Registry](https://www.digital.gov/services/u-s-digital-registry/)** (no acronym; replaced the Federal Social Media Registry and the Federal Mobile Products Registry)
 - **U.S. Web Design Standards** was renamed: **[U.S. Web Design System](https://designsystem.digital.gov/)** (USWDS)
 
 Additionally, we often abbreviate Community of Practice as CoP, and we have [over 20 communities](https://digital.gov/communities/) listed on Digital.gov. However, they are run by federal employees at agencies across the federal government, so they don’t always follow the same naming conventions. If writing about them or topics covered in their listservs, you can get the full, proper name (and any alternates) from their individual Community pages on Digital.gov.
