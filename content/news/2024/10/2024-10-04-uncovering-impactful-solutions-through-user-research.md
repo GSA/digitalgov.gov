@@ -1,9 +1,12 @@
 ---
-source: ""
-date: 2024-10-04 00:00:00 -0500
-title: Uncovering impactful solutions through user research
-summary: Get an overview of what user research and user testing are in a federal
-  context. Learn what policies apply and what resources are available.
+date: 2024-10-04 16:30:00 -0500
+title: "Uncovering impactful solutions through user research"
+summary: "Get an overview of what user research and user testing are in a federal context. Learn what policies apply and what resources are available."
+
+# See all authors at https://digital.gov/authors
+authors: 
+  - frances-carden
+
 # See all topics at https://digital.gov/topics
 topics:
   - research
@@ -11,13 +14,18 @@ topics:
   - user-centered-design
   - accessibility
   - usability
+
 slug: uncovering-impactful-solutions-through-user-research
-primary_image: 10x-areas-of-focus
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 The purpose of user research is to understand the needs and behaviors of your users so you can develop a product or service that supports them. Combined with user testing, it helps ensure that your product or service meets the needs of your users.
 
 ## Types of user research
