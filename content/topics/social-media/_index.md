@@ -24,6 +24,9 @@ aliases:
   - /topics/us-digital-registry/
   - /topics/yelp/
   - /topics/youtube/
+  - /news/2016/02/2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts
+  - /news/2016/02/2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry
+  - /news/2016/06/2016-06-20-u-s-digital-registry
 
 # Weight
 weight: 2
@@ -48,9 +51,6 @@ featured_communities:
 featured_links:
   title: "Social media: Essential knowledge"
   resources:
-  - title: "U.S. Digital Registry"
-    summary: "An inventory of official government social media accounts, mobile websites, and apps, as reported and authenticated by federal managers."
-    href: "https://digital.gov/services/u-s-digital-registry"
   - title: "6 important factors to consider for digital advertising in government"
     summary: "Learn about the benefits and potential pitfalls of digital advertising and paid media."
     href: "https://digital.gov/2022/10/18/6-important-factors-to-consider-for-digital-advertising-in-government"

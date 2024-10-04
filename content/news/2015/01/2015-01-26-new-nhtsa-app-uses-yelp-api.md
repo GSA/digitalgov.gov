@@ -22,4 +22,4 @@ NHTSA took the lead to negotiate a [Terms of Service]({{< ref "2014-05-13-what-i
 
 _You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._ 
 
-_Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
+_Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://touchpoints.app.cloud.gov/registry)._

@@ -28,4 +28,4 @@ No login is required to access safety performance information in the app. Just o
 
 QCMobile is available [via iTunes or the App Store for Apple devices](https://itunes.apple.com/us/app/qcmobile./id966285877?mt=8) and the [Google Play store for Android devices](https://play.google.com/store/apps/details?id=gov.fmcsa.qcmobile&hl=en).
 
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
+_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://touchpoints.app.cloud.gov/registry)._
