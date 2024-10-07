@@ -116,5 +116,5 @@ Follow and retweet the above accounts from your agency social media accounts as 
 {{< /note >}}
 
 {{< note "action" >}}
-If you have content that you would like FEMA to amplify, please forward the link to [FEMA-ESF15-Coordination@fema.dhs.gov](FEMA-ESF15-Coordination@fema.dhs.gov).
+If you have content that you would like FEMA to amplify, please forward the link to [FEMA-ESF15-Coordination@fema.dhs.gov](FEMA-ESF15-Coordination@fema.dhs.gov). Please include “Hurricane Milton” in the subject line of your email (and include “Hurricane Helene” with any materials related to [Hurricane Helene](https://digital.gov/resources/hurricane-helene-guidance-for-us-government/)).
 {{< /note >}}
