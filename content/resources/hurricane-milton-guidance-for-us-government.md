@@ -38,7 +38,7 @@ In response to Hurricane Milton, the U.S. Department of Homeland Security (DHS) 
 
 The authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response#esf) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response) where, during incidents of national significance, DHS has the authority to coordinate all U.S. government communications.
 
-On October 7, 2024, in conjunction with the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), DHS issued ESF-15 guidance for federal web and social communications to support the national response to Hurricane Milton.
+On October 7, 2024, in conjunction with the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), DHS issued ESF-15 guidance for federal web and social communications to support the national response to Hurricane Milton. This effort is in addition to the [existing guidance established for Hurricane Helene](https://digital.gov/resources/hurricane-helene-guidance-for-us-government/).
 
 {{< note >}} **All federal agencies are required to follow this guidance.** {{< /note >}}
 
@@ -62,7 +62,7 @@ Coordinate emergency response-related web and digital communications with your [
 {{< ring title="Requests from FEMA">}}
 Amplify messaging on listening to local officials, evacuating if told to do so, and finishing preparations as Milton intensifies.
 
-Hurricane Milton may affect areas already impacted by Hurricane Helene. Please share updates on Helene recovery while amplifying Milton response using your social accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance).
+Hurricane Milton may affect areas already impacted by [Hurricane Helene](https://digital.gov/resources/hurricane-helene-guidance-for-us-government/). Please share updates on Helene recovery while amplifying Milton response using your social media accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance).
 {{< /ring >}}
 
 ## Lanes of communication
