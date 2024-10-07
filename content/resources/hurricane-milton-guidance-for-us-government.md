@@ -60,12 +60,9 @@ When posting information to your agency website, please only post information re
 Coordinate emergency response-related web and digital communications with your [Digital Experience Council representative](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/#agency-members).
 
 {{< ring title="Requests from FEMA">}}
-**As of October 7, 2024, FEMA is also urgently asking that you amplify their messaging on the need to listen to local officials, evacuate if told to do so, and finish preparations immediately as Milton intensifies.**
+Amplify messaging on listening to local officials, evacuating if told to do so, and finishing preparations as Milton intensifies.
 
-Milton has the potential to have major impacts for areas that have recently been dealing with Helene. Help share updates on how your agency is handling Helene efforts while still leaning forward on Milton response using your social accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance) for amplification. 
-
-
-Finally, if you have social media content that you would like FEMA to amplify on its channels, please forward the link to [FEMA-ESF15-Coordination@fema.dhs.gov](FEMA-ESF15-Coordination@fema.dhs.gov). Please include “Hurricane Milton” in the subject line of your email (and include “Hurricane Helene” with any materials related to Helene).
+Hurricane Milton may affect areas already impacted by Hurricane Helene. Please share updates on Helene recovery while amplifying Milton response using your social accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance).
 {{< /ring >}}
 
 ## Lanes of communication
