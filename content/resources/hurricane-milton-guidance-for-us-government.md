@@ -70,7 +70,7 @@ Hurricane Milton may affect areas already impacted by Hurricane Helene. Please s
 ### What DHS and FEMA are doing
 
 *English*: [https://www.fema.gov/hurricane-milton](https://www.fema.gov/hurricane-milton)<br/>
-*Spanish*: [https://www.fema.gov/es/hurricane-milton](https://www.fema.gov/es/hurricane-milton)
+*Spanish*: [https://www.fema.gov/es/milton](https://www.fema.gov/es/hurricane-milton)
 
 FEMA has established a landing page on FEMA.gov with the latest information from FEMA and DHS on the disaster. The page is currently promoting response and recovery information and serves as a clearinghouse for related information from DHS. The page is located at [https://www.fema.gov/hurricane-milton](https://www.fema.gov/hurricane-milton) and is available in multiple languages.
 
