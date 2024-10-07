@@ -59,12 +59,16 @@ When posting information to your agency website, please only post information re
 
 Coordinate emergency response-related web and digital communications with your [Digital Experience Council representative](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/#agency-members).
 
+
+
 {{< ring title="Requests from FEMA">}}
 **Collaborate with FEMA on social media.** FEMA is amplifying as many social media posts from federal accounts as possible.
 
 - Tag [FEMA social media accounts](https://digital.gov/resources/hurricane-helene-guidance-for-us-government/#social-media-guidance) in your posts, or
 - Email the FEMA social content team [fema-social-content@fema.dhs.gov](mailto:fema-social-content@fema.dhs.gov) to let them know when you post.
 - To collaborate on social media posts, please reach out to FEMA’s social media team by emailing [fema-social-content@fema.dhs.gov](mailto:fema-social-content@fema.dhs.gov).
+
+[Hurricane Milton](https://digital.gov/resources/hurricane-milton-guidance-for-us-government) may affect areas already impacted by Hurricane Helene. Please share updates on Helene recovery while amplifying Milton response using your social accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance).
 
 **Share photos and videos on your social media accounts.** Help FEMA understand what’s happening in real-time.
 
@@ -151,5 +155,5 @@ Follow and retweet the above accounts from your agency social media accounts as 
 {{< /note >}}
 
 {{< note "action" >}}
-If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov.
+If you have content that you would like FEMA to amplify, please forward the link to [FEMA-ESF15-Coordination@fema.dhs.gov](mailto:FEMA-ESF15-Coordination@fema.dhs.gov). Please include “Hurricane Helene” in the subject line of your email (and include “Hurricane Milton” with any materials related to [Hurricane Milton](https://digital.gov/resources/hurricane-milton-guidance-for-us-government)).
 {{< /note >}}
