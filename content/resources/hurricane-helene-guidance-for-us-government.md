@@ -68,7 +68,7 @@ Coordinate emergency response-related web and digital communications with your [
 - Email the FEMA social content team [fema-social-content@fema.dhs.gov](mailto:fema-social-content@fema.dhs.gov) to let them know when you post.
 - To collaborate on social media posts, please reach out to FEMA’s social media team by emailing [fema-social-content@fema.dhs.gov](mailto:fema-social-content@fema.dhs.gov).
 
-Hurricane Milton may affect areas already impacted by Hurricane Helene. Please share updates on Helene recovery while amplifying Milton response using your social accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance).
+[Hurricane Milton](https://digital.gov/resources/hurricane-milton-guidance-for-us-government) may affect areas already impacted by Hurricane Helene. Please share updates on Helene recovery while amplifying Milton response using your social accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance).
 
 **Share photos and videos on your social media accounts.** Help FEMA understand what’s happening in real-time.
 
