@@ -12,10 +12,6 @@ authors:
   - chizobam-nwagwu
   - trey-gordner
 
-# See all authors at https://digital.gov/authors
-authors:
-  - chizobam-nwagwu
-  - trey-gordner
 # See all topics at https://digital.gov/topics
 topics:
  - customer-experience
