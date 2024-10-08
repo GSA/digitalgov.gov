@@ -6,7 +6,7 @@
   {{- end }}
 
   {{/* If .current has no parent, display the last breadcrumb as the current page title with no link styling */}}
-  {{- if eq .id .current.File.UniqueID }}
+  {{- if eq .id .current.File }}
     <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
       <span>
         {{ .current.Title -}}
