@@ -25,4 +25,4 @@ The app does not require you to register or provide any personal information. CB
 
 CBP is a component of the Department of Homeland Security and provides security and facilitation operations at 328 ports of entry throughout the country. The agency is charged with keeping terrorists and their weapons out of the U.S. while facilitating lawful international travel and trade.
 
-_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})__._
+_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry](https://touchpoints.app.cloud.gov/registry)__._

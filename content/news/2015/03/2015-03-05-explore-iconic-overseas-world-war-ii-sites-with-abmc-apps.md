@@ -37,4 +37,4 @@ These new ABMC apps, as well as the very popular [Pointe du Hoc](http://www.abmc
   Time will not dim the glory of their deeds.<br /> <span class="test-author">General of the Armies John J. Pershing, first chairman of ABMC</span>
 </div>
 
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
+_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://touchpoints.app.cloud.gov/registry)._

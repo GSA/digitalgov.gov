@@ -1,8 +1,7 @@
 ---
-title: Multilingual search engine optimization (SEO)
-deck: Improve the findability of multilingual content
-summary: Understand how search engines work, how people search online, and who
-  is your audience — while recognizing language and cultural differences.
+title: "Multilingual search engine optimization (SEO)"
+deck: "Improve the findability of multilingual content"
+summary: "Understand how search engines work, how people search online, and who is your audience — while recognizing language and cultural differences."
 event_organizer: Digital.gov
 cop_events:
   - multilingual
@@ -12,8 +11,10 @@ date: 2024-10-10 14:00:00 -0500
 end_date: 2024-10-10 15:00:00 -0500
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-primary_image: "2024-09-11_Multilingual Webinar_ SEO_Title card"
+primary_image: "2024-09-11-multilingual-webinar-seo-title-card"
+
 ---
+
 Search engine optimization (SEO) involves optimizing websites and their pages to be indexed and surfaced by search engines. 
 
 Join us for a webinar with the National Cancer Institute to discuss how to improve SEO for multilingual content. 
