@@ -35,7 +35,7 @@ The program is chock full of useful resources and tools. For starters, there is
 
   * Agencies can easily create mobile ready websites using [Sites.USA.gov](https://Sites.USA.gov "Sites.USA.gov"). This GSA-hosted content management tool supports open content, is secure, compliant and uses only responsive themes that work well on any-sized screen.
 
-The [Federal Apps Directory]({{< ref "service_us-digital-registry.md" >}} "U.S. Digital Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
+The [Federal Apps Directory]((https://touchpoints.app.cloud.gov/registry) "U.S. Digital Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
 
 ## Just Do It
 

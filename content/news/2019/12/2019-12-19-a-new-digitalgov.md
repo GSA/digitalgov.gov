@@ -74,7 +74,6 @@ In addition, we are proudly using:
 - [Digital Analytics Program](https://digital.gov/services/dap/) (DAP) — A free analytics tool for measuring digital services in the federal government
 - [Section508.gov](https://www.section508.gov/) and [PlainLanguage.gov](https://www.PlainLanguage.gov) resources
 - [API.data.gov](https://api.data.gov/) — a free API management service for federal agencies
-- [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/) — A resource for confirming the official status of government social media accounts, mobile apps, and mobile websites.
 
 ## Send us your feedback
 

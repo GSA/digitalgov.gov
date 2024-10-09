@@ -59,6 +59,26 @@ When posting information to your agency website, please only post information re
 
 Coordinate emergency response-related web and digital communications with your [Digital Experience Council representative](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/#agency-members).
 
+{{< ring title="Requests from FEMA">}}
+**Collaborate with FEMA on social media.** FEMA is amplifying as many social media posts from federal accounts as possible.
+
+- Tag [FEMA social media accounts](https://digital.gov/resources/hurricane-helene-guidance-for-us-government/#social-media-guidance) in your posts, or
+- Email the FEMA social content team [fema-social-content@fema.dhs.gov](mailto:fema-social-content@fema.dhs.gov) to let them know when you post.
+- To collaborate on social media posts, please reach out to FEMA’s social media team by emailing [fema-social-content@fema.dhs.gov](mailto:fema-social-content@fema.dhs.gov).
+
+[Hurricane Milton](https://digital.gov/resources/hurricane-milton-guidance-for-us-government) may affect areas already impacted by Hurricane Helene. Please share updates on Helene recovery while amplifying Milton response using your social media accounts and tag [FEMA social media accounts](https://digital.gov/resources/hurricane-milton-guidance-for-us-government/#social-media-guidance).
+
+**Share photos and videos on your social media accounts.** Help FEMA understand what’s happening in real-time.
+
+- FEMA is looking for media related to how agencies are supporting survivors “on the ground” in areas affected by Helene, as well as resources that are being provided. Examples include images of debris removal, generators in place, search and rescue, survivors receiving assistance, feeding centers, shelters, medical support, infrastructure restoration, etc.
+- For agencies using the Defense Visual Information Distribution Service (DVIDS), DVIDS asks that media related to Helene response and recovery use the hashtag **#HurricaneHelene24** to help with curation on their [Hurricane Helene Support page](https://www.dvidshub.net/feature/HurricaneHelene24). DVIDS support can be reached at [dvidsservicedesk@dvidshub.net](mailto:dvidsservicedesk@dvidshub.net).
+
+**Address, track, and report false information.** Help combat the spread of rumors and false or misleading information.
+
+- FEMA is concerned with the spread of rumors and false or misleading information, which can affect response efforts. If your agency is tracking specific rumors related to your efforts and Helene, please share accurate, timely corrections of those rumors on your Helene webpage and social media accounts.
+- If you’re tracking a rumor that appears to be gaining traction or is otherwise “high impact” for your agency, please email [ESF-15-Coordination@fema.dhs.gov](mailto:ESF-15-Coordination@fema.dhs.gov) for wider coordination on the [FEMA.gov Hurricane Helene Rumor Response page](https://www.fema.gov/disaster/current/hurricane-helene/rumor-response).
+{{< /ring >}}
+
 ## Lanes of communication
 
 ### What DHS and FEMA are doing
@@ -73,10 +93,10 @@ FEMA has established a landing page on FEMA.gov with the latest information from
 *English*: [https://www.usa.gov/hurricane-helene](https://www.usa.gov/hurricane-helene)<br />
 *Spanish*: [https://www.usa.gov/es/huracan-helene](https://www.usa.gov/es/huracan-helene)
 
-GSA has created a landing page on USA.gov for government-wide information related to Hurricane Helene activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email usagovemergency@gsa.gov and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/hurricane-helene](https://www.usa.gov/hurricane-helene), and the Spanish page is at [https://www.usa.gov/es/huracan-helene](https://www.usa.gov/es/huracan-helene).
+GSA has created a landing page on USA.gov for government-wide information related to Hurricane Helene activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov) and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/hurricane-helene](https://www.usa.gov/hurricane-helene), and the Spanish page is at [https://www.usa.gov/es/huracan-helene](https://www.usa.gov/es/huracan-helene).
 
 {{< note "action" >}}
-Send the title and URL for any Hurricane Helene related materials posted on your agency website to usagovemergency@gsa.gov.
+Send the title and URL for any Hurricane Helene related materials posted on your agency website to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov).
 {{< /note >}}
 
 ## Social media guidance
@@ -133,5 +153,5 @@ Follow and retweet the above accounts from your agency social media accounts as 
 {{< /note >}}
 
 {{< note "action" >}}
-If you have content that you would like FEMA to amplify, please forward the link to FEMA-ESF15-Coordination@fema.dhs.gov.
+If you have content that you would like FEMA to amplify, please forward the link to [FEMA-ESF15-Coordination@fema.dhs.gov](mailto:FEMA-ESF15-Coordination@fema.dhs.gov). Please include “Hurricane Helene” in the subject line of your email (and include “Hurricane Milton” with any materials related to [Hurricane Milton](https://digital.gov/resources/hurricane-milton-guidance-for-us-government)).
 {{< /note >}}
