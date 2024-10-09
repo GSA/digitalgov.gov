@@ -27,6 +27,7 @@ slug: federal-social-week-2020
 
 # YouTube ID
 youtube_id: GY5uoQt6sZ0
+youtube_title: "SocialGov Week Session 1: When Is the Best Time To Tweet?"
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom

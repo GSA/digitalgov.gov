@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: CeBGLZzfpAs
+youtube_title: "DevOps Lessons Learned from the Air Force’s Early Cloud Journey"
 
 # Make it better ♥
 

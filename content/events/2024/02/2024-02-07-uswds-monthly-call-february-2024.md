@@ -20,6 +20,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: cmP9XsYVwQI
+youtube_title: "How to suggest a new component for the U.S. Web Design System (2024)"
 
 primary_image: 2024-uswds-monthly-call-feb-title-card
 ---

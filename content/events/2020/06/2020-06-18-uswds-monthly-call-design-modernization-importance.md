@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: ieJykgw8U2I
+youtube_title: "USWDS Monthly Call: Design Modernization and the Importance of Designers (Jun 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

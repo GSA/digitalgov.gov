@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: TuOqjxirOUA
+youtube_title: "USWDS Monthly Call: U.S. Web Design System 2.0 Preview (Jul 2018)"
 
 # Primary Image (for social media)
 primary_image: "preview-uswds-2-0"

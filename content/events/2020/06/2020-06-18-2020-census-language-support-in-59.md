@@ -34,6 +34,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: feAX-G2OBoQ
+youtube_title: "2020 Census Language Support in 59 Non-English Languages"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

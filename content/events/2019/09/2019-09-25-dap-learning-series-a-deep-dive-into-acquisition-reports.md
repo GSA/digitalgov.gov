@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: ufbLmgJUdp8
+youtube_title: "DAP Learning Series: A Deep Dive Into Acquisition Reports"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

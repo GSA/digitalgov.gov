@@ -32,6 +32,7 @@ authors:
 
 # YouTube ID
 youtube_id: WA0Nk1I66uw
+youtube_title: "An Introduction to the Basics of DAP"
 
 # Make it better ♥
 

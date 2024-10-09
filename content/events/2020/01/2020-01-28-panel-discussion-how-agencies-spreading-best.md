@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: uSyGcxN-hTA
+youtube_title: "How Agencies Are Spreading Best Practices"
 
 # Make it better ♥
 

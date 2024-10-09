@@ -22,6 +22,7 @@ slug: positioning-yourself-as-a-plain-language-editor
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: tUeXL1Twbzg
+youtube_title: "Positioning Yourself as a Plain Language Editor"
 
 ---
 

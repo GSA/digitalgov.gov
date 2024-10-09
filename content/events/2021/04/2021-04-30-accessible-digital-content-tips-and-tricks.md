@@ -24,6 +24,7 @@ slug: accessible-digital-content-tips-and-tricks
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: CL6lOwJEMGQ
+youtube_title: "Accessible Digital Content: Tips and Tricks"
 
 ---
 
