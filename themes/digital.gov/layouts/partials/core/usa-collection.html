@@ -20,17 +20,6 @@
 {{ $url := "" }}
 {{ $meta_source := $settings.meta_source }}
 {{ $list_header := $settings.list_header }}
-{{ $isFeaturedCollection := false }}
-
-{{ if eq (printf "%T" $collection_data) "[]interface {}" }}
-  {{ $isFeaturedCollection = true }}
-{{ end }}
-
-{{/* 1. check if collection_data is page or interface
-  2. check if href url includes digital.gov
-  3. use google favicon lookup
-  4. display on list item for external featured links
-*/}}
 
 
 <ul class="usa-collection">
@@ -71,12 +60,11 @@
         {{ $href = .href }}
         {{ $title = .title }}
         {{ $summary = .summary }}
-
         {{ $url := urls.Parse $href }}
-        {{ $url = $url.Host }}
+        {{ $host := $url.Host }}
 
-        {{ if ne $url "digital.gov" }}
-          {{ $logo_source = (print "https://www.google.com/s2/favicons?domain=" $url) }}
+        {{ if ne $host "digital.gov" }}
+          {{ $logo_source = (print "https://www.google.com/s2/favicons?domain=" $host) }}
         {{ end }}
       {{ end }}
 
