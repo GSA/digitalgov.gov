@@ -2,7 +2,8 @@
 slug: communicators
 date: 2021-02-24 18:49:00 -0500
 title: Communicators
-summary: "Improve written and verbal communication to make government more effective."
+kicker: Communities of practice
+summary: "Share and learn with communications and public affairs practitioners."
 
 aliases:
   - /communities/federal-communicators-network/
@@ -13,11 +14,6 @@ topics:
   - plain-language
   - social-media
   - communication
-
-# See all authors at https://digital.gov/authors
-authors:
-  - deanna-mccray-james
-  - josie-anderson
 
 event_cop:
   - communicators
@@ -42,23 +38,14 @@ dg_shortname: Communicators
 dg_acronym: FCN
 dg_logo: communities-communicators.svg
 
-kicker: "Join the Communicators Community"
 
 primary_image: "communities-card-comms"
 ---
 
-The Communicators community was established in recognition that communication is an essential function for government activities at all organizational levels. Our community members are dedicated to the goals of improving communication and understanding among all people, and helping make government more effective.
+Government professionals from all levels come together in this community to Improve written and verbal communication to make government communication more effective.
 
-## What We Do
+Become a member to network with subject matter experts with extensive experience and deep subject knowledge in communications, public affairs, and other related areas.
 
-Government communicators have relied on this community for best practices, training and networking for almost 30 years.
+Digital.gov fosters this essential community by providing spaces designed to share best practices, resources, and networking opportunities. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-## Who We Are
-
-We are a community of government communicators with extensive experience and deep subject knowledge in communications, public affairs, social media, and other related areas.
-
-Beginners in the field can ask questions to the group on advice and best practices. The community also shares job opportunities to help members advance in their careers. The community works to bring relevant training to help members develop their communications skills.
-
-## Related Resources
-
-- [Digital.gov Communication Resources](https://digital.gov/topics/communication/)
+{{< featured-resource resourcePath="topics/communication" kicker= “Explore community-favorite communication resources:">}}
