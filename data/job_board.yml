@@ -37,7 +37,7 @@
   description: >
           This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
   open_date: 2024-09-26
-  close_date: 2024-10-11
+  close_date: 2024-10-18
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608400
   cop_topics:
     - Communicators
@@ -49,7 +49,7 @@
   description: >
           This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
   open_date: 2024-09-26
-  close_date: 2024-10-11
+  close_date: 2024-10-18
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608700
   cop_topics:
     - Communicators
@@ -83,7 +83,7 @@
   description: >
           As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
   open_date: 2024-10-02
-  close_date: 2024-10-10
+  close_date: 2024-10-12
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812482600
   cop_topics:
     - Multilingual
@@ -123,24 +123,13 @@
   cop_topics:
     - Social Media
 
-- title: Supervisory Information Technology Specialist (INET)
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          As a Supervisory Information Technology Specialist (INET), you will serve as the branch chief and program manager. Location of position:: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS), Public Experience Division. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-10-07
-  close_date: 2024-10-12
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812974600
-  cop_topics:
-    - Web Managers
-
 - title: Program Analyst (Data Analytics)
   department: General Services Administration
   location: Anywhere in the U.S. (remote job)
   description: >
           This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Office of Customer and Stakeholder Engagement (CASE), Office of Analysis & Business System, Analytics & Data Operations Division, Data Operations Branch. Location of position: This is a virtual position and duty location of this position will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
   open_date: 2024-09-30
-  close_date: 2024-10-11
+  close_date: 2024-10-17
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811995400
   cop_topics:
     - Web Analytics
@@ -168,4 +157,86 @@
     - Communicators
     - Web Analytics
     - Web Managers
+
+- title: Lead Public Affairs Specialist
+  department: Department of Energy
+  location: Washington, District of Columbia
+  description: >
+          The Federal Energy Regulatory Commission (FERC) is ranked within the top 5 mid-size agencies through the Partnership for Public Service’s Best Places to Work in the Federal Government Rankings! This Lead Public Affairs Specialist position is located in the Office of Public Participation. For more information visit: Office of Public Participation (OPP).
+  open_date: 2024-10-08
+  close_date: 2024-10-18
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/813193800
+  cop_topics:
+    - Plain Language
+    - Social Media
+
+- title: IT Specialist (APPSW)
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications; serves as Section 508 Coordinator.
+  open_date: 2024-10-04
+  close_date: 2024-10-19
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812557700
+  cop_topics:
+    - User Experience
+
+- title: IT Specialist (APPSW)
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications; serves as Section 508 Coordinator.
+  open_date: 2024-10-04
+  close_date: 2024-10-19
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812557300
+  cop_topics:
+    - User Experience
+
+- title: Content Developer
+  department: Legislative Branch
+  location: Washington DC, District of Columbia
+  description: >
+          Since 1789, the Office of the Clerk has served as the official record keeper of the U.S. House of Representatives and proudly supports the nonpartisan legislative functions of the institution. The Office of Communications serves all divisions of the Office of the Clerk and other nonpartisan House partners with a wide range of print and digital publications, an innovative approach to problem solving, and exceptional customer service.
+  open_date: 2024-09-18
+  close_date: 2024-11-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810320600
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+- title: Project Manager
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          The incumbent is responsible for leading project management facets of the Office’s primary digital communications platforms and other programs pertaining to high-performance buildings and sustainable procurement. Location of position: This is a REMOTE position. Duty location will be determined following selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-10-08
+  close_date: 2024-10-23
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/813220800
+  cop_topics:
+    - Contact Center
+    - Web Analytics
+    - Web Managers
+
+- title: Information Technology Project Manager
+  department: Judicial Branch
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          The Information Technology Project Manager position is located in the Department of Program Services (DPS), Case Management Systems Office (CMSO), Federal Judiciary Digital Services Division (FJDS). The CMSO develops and maintains case management and related systems for federal appellate, district, and bankruptcy court judges and staff, probation and pretrial services officers, federal defenders, and external stakeholders.
+  open_date: 2024-10-09
+  close_date: 2024-10-24
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812477400
+  cop_topics:
+    - Web Analytics
+
+- title: Executive Director, Portfolio Management for Digital Product Services
+  department: Department of Veterans Affairs
+  location: Location Negotiable After Selection
+  description: >
+          Located in the Office of Information Technology's Product Engineering Service, the Executive Director (ED), Portfolio Manager for Digital Product Services, is responsible for delivering digital products in support of business-wide initiatives. The ED will be responsible for vision, roadmaps, prioritization, and delivery of foundational information technology platforms, including Software as a Service (SaaS), Low-Code, APIs, Development Platforms, and Enterprise Data and Analytics Capabilities.
+  open_date: 2024-09-26
+  close_date: 2024-10-11
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811453900
+  cop_topics:
+    - Web Managers
+
 
