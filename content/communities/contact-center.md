@@ -1,8 +1,8 @@
 ---
 slug: contact-center
 date: 2024-06-28 16:36:00 -0500
-title: Contact Center
-summary: "Explore methods of service delivery that improve customer experience in government contact centers."
+title: Join the Contact Center Community 
+summary: "Share and learn with contact center practitioners."
 
 # Alias Redirects: Enter the paths of the old URLs that you want redirected to this page.
 aliases:
@@ -37,28 +37,14 @@ dg_shortname: Contact Center
 dg_acronym: CC
 dg_logo: communities-contact-center.svg
 
-kicker: "Join the Contact center community"
+kicker: "Communities of practice"
 
 primary_image: "communities-card-contact-center"
 ---
+Government professionals from all levels come together in this community to improve government contact centers’ performance, experience, and efficiency.
 
-Government contact centers are often the primary means of communication between an organization and its customers. In government, contact centers often set expectations for satisfaction and trust across the customer experience. Simply put, the voice of the organization and the customer is fostered through the contact center experience.
+Become a member to explore methods of service delivery that improve customer experience in government contact centers.
 
-The Contact Center Community was founded for government contact center professionals to collaborate and improve the experience of citizens and customers when they contact federal, tribal, state, and local agencies.
+Digital.gov fosters this passionate community by providing spaces designed to host educational forums and discussions. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-## What We Do
-
-Our mission is to share information and news, identify contact center best-in-class practices, and evaluate evolving contact center technologies.
-
-The educational forums and discussions help members find innovative methods to improve the customer experience with their agency’s contact centers. Members share ideas, ask questions, and request assistance on their agency’s projects through our community Listserv. All federal, tribal, local, and state government employees and contractors working towards best-in-class contact centers are invited to join the community.
-
-## Who We Are
-
-We are a collaborative interagency group of contact center professionals working together to improve government contact centers' performance, experience, and efficiency across federal, tribal, state, and local agencies.
-
-## Related Resources
-
-- [Topic: Contact centers](https://digital.gov/topics/contact-centers/)
-- [Contact center guidelines](https://digital.gov/resources/contact-center-guidelines/)
-- [Contact center technologies](https://digital.gov/resources/contact-center-guidelines/contact-center-technologies/)
-- [Customer experience](https://digital.gov/topics/customer-experience/)
+{{< featured-resource resourcePath="topics/contact-centers" >}}
