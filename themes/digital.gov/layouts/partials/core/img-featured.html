@@ -32,9 +32,11 @@
   {{- $imgHeight := $thisimg.height -}}
 
   {{- $.Scratch.Set "imgSuffix" "" -}}
-  {{- if ge $imgWidth -}}
+  {{- if ge $imgWidth 800 -}}
+    {{- $.Scratch.Set "imgSuffix" "_w800" -}}
+  {{- else -}}
     {{- $.Scratch.Set "imgSuffix" "" -}}
-  {{- end -}}
+  {{ end }}
 
 
   <div class="media-featured">
