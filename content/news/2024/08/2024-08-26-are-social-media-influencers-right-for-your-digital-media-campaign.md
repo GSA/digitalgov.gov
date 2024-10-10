@@ -130,8 +130,6 @@ Fresh Empire was the first federal public education campaign designed to prevent
 
 Fresh Empire partnered with nano influencers (1,000 –10,000 followers) in key city hubs to increase campaign credibility and authenticity. The goal for this campaign was to increase engagement with the campaign’s intended audience on social media and at live events. The campaign team selected influencers with a large number of local followers where the campaign was implemented. Influencers supported other media tactics by sharing branded content and posts with their immediate groups of friends and followers. Content included conversation starters to promote engagement (for example, comments and shares) with a tobacco-free message, and advertising for local events that the campaign was hosting in their area. The nano influencers would often attend the events and had personal relationships and connections with their followers, so they could authentically talk about living tobacco-free.
 
-<img src="https://s3.amazonaws.com/digitalgov/fda-hhs-influencers-101-tobacco-free-fresh.png" width="400">
-
 **Example of Fresh Empire social media content**
 
 {{< img-right src="fda-hhs-influencers-101-tobacco-free-fresh" >}}
