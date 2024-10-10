@@ -130,13 +130,13 @@ Fresh Empire was the first federal public education campaign designed to prevent
 
 Fresh Empire partnered with nano influencers (1,000 –10,000 followers) in key city hubs to increase campaign credibility and authenticity. The goal for this campaign was to increase engagement with the campaign’s intended audience on social media and at live events. The campaign team selected influencers with a large number of local followers where the campaign was implemented. Influencers supported other media tactics by sharing branded content and posts with their immediate groups of friends and followers. Content included conversation starters to promote engagement (for example, comments and shares) with a tobacco-free message, and advertising for local events that the campaign was hosting in their area. The nano influencers would often attend the events and had personal relationships and connections with their followers, so they could authentically talk about living tobacco-free.
 
-**Example of Fresh Empire social media content**
+<img src="https://s3.amazonaws.com/digitalgov/fda-hhs-influencers-101-tobacco-free-fresh.png" style="text-align: center;">
 
-{{< img-right src="fda-hhs-influencers-101-tobacco-free-fresh" >}}
+**Example of Fresh Empire social media content**
 
 These nano influencers allowed the campaign to demonstrate that it is possible to be a part of the hip-hop community without using cigarettes. Throughout the life cycle of the brand, nano influencers encouraged teens to have conversations about living tobacco-free and attend tobacco prevention campaign events.
 
-Fresh Empire also worked with a smaller number of mega influencers (over a million followers) to increase overall reach of the campaign. These influencers were carefully selected to ensure their followers were within the intended audience. Mega influencers generated hundreds of millions of impressions on content they created and posted, which increased the visibility of Fresh Empire and the tobacco prevention message. One influencer Fresh Empire worked with was Vince Staples, a popular rapper and singer. A 15-second video featuring Vince Staples generated almost 10 million impressions and almost 2 million video views.
+Fresh Empire also worked with a smaller number of mega influencers (over a million followers) to increase overall reach of the campaign. These influencers were carefully selected to ensure their followers were within the intended audience. Mega influencers generated hundreds of millions of impressions on content they created and posted, which increased the visibility of Fresh Empire and the tobacco prevention message. One influencer Fresh Empire worked with was Vince Staples, a popular rapper and singer. A 15-second video featuring Staples generated almost 10 million impressions and almost 2 million video views.
 
 For more information on collaborating with influencers, including additional case studies from FDA’s Center for Tobacco Products and details on implementation and measurement, please reference [Influencer 101: Best Practices for Public Health Campaigns (PDF, 1.7 MB, 33 Page, 2023)](https://digitalmedia.hhs.gov/tobacco/print_materials/CTP-237?locale=en).
 {{< /ring >}}
