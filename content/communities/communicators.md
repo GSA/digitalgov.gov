@@ -9,7 +9,7 @@ topics:
 dg_acronym: FCN
 dg_logo: communities-communicators.svg
 date: 2021-02-24 18:49:00 -0500
-title: Communicators
+title: Join the Communicators Community
 deck: Share and learn with communications and public affairs practitioners.
 # See all authors at https://digital.gov/authors
 authors: []
