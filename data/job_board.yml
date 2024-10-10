@@ -167,6 +167,7 @@
   close_date: 2024-10-18
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/813193800
   cop_topics:
+    - Communicators
     - Plain Language
     - Social Media
 
@@ -213,8 +214,7 @@
   close_date: 2024-10-23
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/813220800
   cop_topics:
-    - Contact Center
-    - Web Analytics
+    - Communicators
     - Web Managers
 
 - title: Information Technology Project Manager
