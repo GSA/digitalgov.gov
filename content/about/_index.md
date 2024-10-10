@@ -68,24 +68,24 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
       <td>Complete</td>
     </tr>
     <tr>
-      <th scope="row">Migrate the accessibility.digital.gov microsite to Digital.gov as a guide</th>
+      <th scope="row">Migrate the accessibility.digital.gov microsite to Digital.gov as a guide, <a href="https://digital.gov/guides/accessibility-for-teams/">Accessibility for teams</a></th></th>
       <td>Complete</td>
     </tr>
     <tr>
-      <th scope="row">Plan and host the Spring 2024 Digital.gov Community Summit</th>
+      <th scope="row">Plan and host the <a href="https://digital.gov/event/2024/03/13/spring-2024-community-summit/"> Spring 2024 Digital.gov Community Summit</a></th></th>
       <td>Complete</td>
     </tr>
     <tr>
       <th scope="row">Share more agency case studies and success stories with community members</th>
-      <td>In progress</td>
+      <td>Complete</td>
     </tr>
     <tr>
       <th scope="row">Publish more evergreen content, including topic and policy pages</th>
-      <td>In progress</td>
+      <td>Complete</td>
     </tr>
     <tr>
-      <th scope="row">Publish short, actionable, accessible video content</th>
-      <td>In progress</td>
+      <th scope="row">Publish short, actionable, accessible <a href=https://www.youtube.com/@DigitalGov/videos/">video content</a></th></th>
+      <td>Complete</td>
     </tr>
     <tr>
       <th scope="row">Increase engagement and create space for more community members to participate</th>
@@ -101,10 +101,6 @@ Our roadmap is an up-to-date report on the work we’re doing to improve Digital
     </tr>
     <tr>
       <th scope="row">Conduct pilot workshops with community members to identify problems and overcome challenges</th>
-      <td>Upcoming</td>
-    </tr>
-    <tr>
-      <th scope="row">Host the Fall 2024 Digital.gov Community Summit</th>
       <td>Upcoming</td>
     </tr>
     <tr>
