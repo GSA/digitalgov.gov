@@ -5,7 +5,8 @@
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: "Join the User Experience Community"
-summary: "Share and learn with user experience and design practitioners."
+deck: Share and learn with user experience and design practitioners.
+summary: "Create better user-centered products for the public."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:

@@ -5,7 +5,9 @@
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: "Join the Multilingual Community"
-summary: "Share and learn with multilingual practitioners."
+deck: Share and learn with multilingual practitioners.
+summary: "Expand and improve digital content in languages other than English."
+
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
