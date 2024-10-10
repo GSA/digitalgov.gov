@@ -1,5 +1,4 @@
 ---
-summary: Improve written and verbal communication to make government more effective.
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
