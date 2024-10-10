@@ -15,7 +15,8 @@ deck: Share and learn with communications and public affairs practitioners.
 authors: []
 dg_shortname: Communicators
 slug: communicators
-kicker: Join the Communicators Community
+kicker: Communities of practice
+
 primary_image: []
 # Controls how this page appears across the site
 # 0 -- hidden
