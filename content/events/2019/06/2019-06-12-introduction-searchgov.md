@@ -13,6 +13,7 @@ event_organizer: DigitalGov University
 host: Search.gov
 registration_url: https://www.eventbrite.com/e/introduction-to-searchgov-registration-61646616690
 youtube_id: niT9kU6AfP8
+youtube_title: "Introduction to Search.gov"
 
 ---
 

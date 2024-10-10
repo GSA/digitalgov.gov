@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: 8T8r7avEPF8
+youtube_title: "USWDS Monthly Call: Website Standards Panel Discussion (Feb 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

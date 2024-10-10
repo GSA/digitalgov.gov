@@ -25,6 +25,7 @@ slug: practical-tips-for-accessible-content-and-multilingual-websites
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: MCaMRyl6svQ
+youtube_title: "Practical Tips for Accessible Content and Multilingual Websites"
 
 ---
 

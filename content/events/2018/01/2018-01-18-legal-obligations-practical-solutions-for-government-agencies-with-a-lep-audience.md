@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: F3LM8LmysgU
+youtube_title: "How to Better Serve Your LEP Audience by Meeting the Federal Requirements"
 
 # Primary Image (for social media)
 primary_image: "doj"

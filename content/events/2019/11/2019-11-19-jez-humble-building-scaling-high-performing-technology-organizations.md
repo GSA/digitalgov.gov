@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: j6jxW_bax3Y
+youtube_title: "Jez Humble: Building and Scaling High Performing Technology Organizations"
 
 # Primary Image (for social media)
 primary_image: "devops-jez-humble"

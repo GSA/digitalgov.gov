@@ -30,6 +30,7 @@ event_platform: youtube_live
 
 # YouTube ID
 youtube_id: 3FKyVeipMss
+youtube_title: "An Around the World Recap: PLAIN Monthly Meeting"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

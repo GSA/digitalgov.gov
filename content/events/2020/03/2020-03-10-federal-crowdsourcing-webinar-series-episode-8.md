@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: zQWcKElVEFU
+youtube_title: "How NASA@WORK Ignites Ideas from Within"
 
 # Primary Image (for social media)
 primary_image: "challenge-card-episode-8"

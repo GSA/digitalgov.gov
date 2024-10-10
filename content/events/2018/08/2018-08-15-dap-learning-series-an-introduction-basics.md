@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: ph-ixyzCVbc
+youtube_title: "DAP Learning Series: An Introduction to the Basics"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

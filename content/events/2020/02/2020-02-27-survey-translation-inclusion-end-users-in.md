@@ -32,6 +32,7 @@ authors:
 
 # YouTube ID
 youtube_id: BxO4kS9rdF0
+youtube_title: "Survey Translation & the Inclusion of End Users in the Process: Experiences from the Census Bureau"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

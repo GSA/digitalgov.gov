@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: 49SJvZT3t2s
+youtube_title: "Infographics: Plain Language Considerations"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

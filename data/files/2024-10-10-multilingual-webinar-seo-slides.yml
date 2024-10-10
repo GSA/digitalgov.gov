@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/2024-10-10-multilingual-webinar-seo-slides.pptx
+  # File shortcode: {{< asset-static file="2024-10-10-multilingual-webinar-seo-slides.pptx" label="2024-10-10-multilingual-webinar-seo-slides (PDF, 4 pages, 2MB)" >}}
+  date     :  2024-10-10 16:55:08 -0400
+  uid      :  2024-10-10-multilingual-webinar-seo-slides
+  format   :  pptx
+  

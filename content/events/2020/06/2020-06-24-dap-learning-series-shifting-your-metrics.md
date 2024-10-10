@@ -31,6 +31,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: JFIEXzJfFlM
+youtube_title: "Shifting Your Metrics Mindset"
 
 # Make it better ♥
 

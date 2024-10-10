@@ -20,6 +20,7 @@ event_platform: zoom
 primary_image: "increasing-public-participation-in-user-research"
 # YouTube ID
 youtube_id: LI0uhEi70gc
+youtube_title: "Increasing public participation in user research"
 ---
 
 {{< asset-static file="2023-10x-event-slides.pptx" label="View the slides (PowerPoint presentation, 7.5 MB, 37 pages)" >}}
