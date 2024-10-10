@@ -4,8 +4,8 @@
 
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
-title: 'User Experience'
-summary: "Create better user-centered products for the public."
+title: "Join the User Experience Community"
+summary: "Share and learn with user experience and design practitioners."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -42,30 +42,15 @@ community_list:
 authors:
   - jean-fox
 
-kicker: "Join the User Experience Community"
+kicker: "Communities of Practice"
 
 primary_image: "communities-card-ux"
 
 ---
+Government professionals from all levels come together in this community to create better user-centered products for the public.
 
-Join other government user experience practitioners and learn how to make better user-centered products. Members of the User Experience Community of Practice can:
+Become a member to share and learn how to produce efficient, effective and useful user experiences and technologies. 
 
-- Ask questions and learn how other agencies are creating great user experiences!
-- Find out how to conduct valuable user research with little (or no) budget!
-- Meet other government usability practitioners!
-- Share your own successes and tips!
+Digital.gov fosters this lively community by providing spaces to help members connect, learn, and grow on their user experience journeys. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-## What We Do
-
-* Create case studies of why UX works!
-* Webinars and educational sessions for government web managers, usability specialists, project managers, etc…
-* User Experience (UX) networking events
-* Connect people to useful UX resources
-
-## Who We Are
-
-Our community welcomes program managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies.
-
-## Related Resources
-
-* https://www.usability.gov
+{{< featured-resource resourcePath="topics/user-experience" >}}
