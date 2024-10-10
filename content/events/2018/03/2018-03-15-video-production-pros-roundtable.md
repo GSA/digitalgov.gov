@@ -14,6 +14,7 @@ event_organizer: DigitalGov University
 host: Video Production Community
 registration_url: https://www.eventbrite.com/e/video-production-pros-roundtable-registration-43757301266
 youtube_id: uGYk-s7KrnY
+youtube_title: "Video Production Pros Roundtable"
 venue:
   venue_name: U.S. General Services Administration
   room: 1459

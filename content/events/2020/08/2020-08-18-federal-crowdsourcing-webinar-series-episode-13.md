@@ -31,6 +31,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: tr2h7wFoFoU
+youtube_title: "Federal Crowdsourcing Webinar Series, Episode 13: Securing Water for Food’s Crowdsourcing Culture"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: ZEeulpMFEvY
+youtube_title: "USWDS Monthly Call: UX Debt (Aug 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

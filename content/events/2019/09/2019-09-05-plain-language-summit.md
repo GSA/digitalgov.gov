@@ -36,6 +36,7 @@ authors:
 
 # YouTube ID
 youtube_id: cny1CIMuv3o
+youtube_title: "Plain Language Summit 2019"
 
 # Primary Image (for social media)
 primary_image: "plain-language-summit-2019"

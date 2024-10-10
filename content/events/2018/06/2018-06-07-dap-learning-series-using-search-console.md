@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: uuP0FAHOrz8
+youtube_title: "DAP Learning Series: Using the Search Console"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

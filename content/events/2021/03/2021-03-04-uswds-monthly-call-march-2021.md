@@ -21,6 +21,7 @@ slug: uswds-monthly-call-march-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: zmI4KHPavhc
+youtube_title: "USWDS Monthly Call: More Emergency Response Components (Mar 2021)"
 
 ---
 Join the U.S. Web Design System team as we look at what’s in USWDS 2.11.0, our most recent release. We’ll review the latest bundle of components designed with emergency response in mind — icon list component, modal component, sortable tables, 404 page template, link guidance, and print style guidance. We’ll also explain how you can use them to highlight critical information and actions on your websites during emergency response efforts for COVID-19, hurricanes, and other critical incidents. 

@@ -21,6 +21,7 @@ slug: tag-managers-part-2-configuration-framework
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: GOdPWl0gUqo
+youtube_title: "Tag Managers Part 2: Configuration Framework"
 
 ---
 

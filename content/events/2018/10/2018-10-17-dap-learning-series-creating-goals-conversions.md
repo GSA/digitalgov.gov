@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: -x7LoXw7vHc
+youtube_title: "DAP Learning Series: Creating Goals and Conversions"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

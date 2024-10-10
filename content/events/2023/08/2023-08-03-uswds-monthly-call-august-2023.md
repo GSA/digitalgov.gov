@@ -19,6 +19,7 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-august-title-card
 # YouTube ID
 youtube_id: Kj-MYq_0A3s
+youtube_title: "USWDS product roadmap"
 ---
 
 {{< asset-static file="uswds-monthly-call-august-2023.pptx" label="View the slides (PowerPoint presentation, 3.9 MB, 94 pages)" >}}

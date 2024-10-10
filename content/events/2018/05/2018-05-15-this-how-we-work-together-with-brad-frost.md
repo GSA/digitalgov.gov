@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: vtmnP2Lrf74
+youtube_title: "This is How We Work Together with Brad Frost"
 
 # Primary Image (for social media)
 primary_image: "this-is-how-we-work-together"

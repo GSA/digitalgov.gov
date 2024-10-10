@@ -25,6 +25,7 @@ host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-october-monthly-call-registration-75886136477
 zoom:
 youtube_id: l65ZNlYroco
+youtube_title: "USWDS Monthly Call: A Design System's Rules of Play (Oct 2019)"
 
 ---
 

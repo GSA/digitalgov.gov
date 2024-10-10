@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: N6cFKcPK8PU
+youtube_title: "DAP Learning Series: Using the analytics.usa.gov API"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

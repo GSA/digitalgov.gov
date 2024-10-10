@@ -24,6 +24,7 @@ event_platform: zoom
 primary_image: "2023-the-plain-language-tie-title-card"
 # YouTube ID
 youtube_id: ZpHzs9jGnnw
+youtube_title: "The plain language tie to translating digital content"
 
 ---
 

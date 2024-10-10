@@ -20,6 +20,7 @@ authors:
 event_organizer: DigitalGov University
 host: U.S. Web Design System
 youtube_id: ZxlIgbrP0No
+youtube_title: "USWDS Monthly Call: Bootstrapping with USWDS (Aug 2019)"
 
 ---
 

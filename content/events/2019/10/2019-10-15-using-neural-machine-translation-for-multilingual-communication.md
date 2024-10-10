@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: BGOEGD2_NyM
+youtube_title: "Using Neural Machine Translation for Multilingual Communication"
 
 # Primary Image (for social media)
 primary_image: "multilingual-neural-machine-translation"

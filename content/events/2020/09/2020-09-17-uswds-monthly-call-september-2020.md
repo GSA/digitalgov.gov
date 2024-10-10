@@ -24,6 +24,7 @@ slug: uswds-monthly-call-september-2020
 event_platform: zoom
 # YouTube ID
 youtube_id: YKT09mZxQZA
+youtube_title: "USWDS Monthly Call: New Components (Sep 2020)"
 weight: 0
 primary_image: uswds-2-illio-feature-image
 ---

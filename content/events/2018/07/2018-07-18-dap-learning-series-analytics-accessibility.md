@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: y0HD0baIIP0
+youtube_title: "DAP Learning Series: Analytics and Accessibility"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

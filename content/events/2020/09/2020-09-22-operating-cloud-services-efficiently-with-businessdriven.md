@@ -35,6 +35,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: RQP02kn7P5s
+youtube_title: "Operating Cloud Services Efficiently with Business-Driven IT"
 
 primary_image: "cloudgov-logo"
 

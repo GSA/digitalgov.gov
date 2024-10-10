@@ -29,6 +29,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: TQ2CXlEY3qw
+youtube_title: "DAP Learning Series – Visualizing Analytics Data Part 2"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

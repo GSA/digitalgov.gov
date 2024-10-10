@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: BQlgGotFUlQ
+youtube_title: "A Conversation with Evan Papp of Power Africa"
 
 # Primary Image (for social media)
 primary_image: "power-africa-evan-papp"
