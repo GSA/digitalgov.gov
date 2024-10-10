@@ -30,6 +30,7 @@ event_platform: youtube_live
 
 # YouTube ID
 youtube_id: V-HnGjvvqgE
+youtube_title: "DAP Learning Series: An Introduction to the Basics"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: hC9OJjtMgnE
+youtube_title: "SocialGov Talks: Leveraging Pop Culture With the DOE"
 
 # Primary Image (for social media)
 primary_image: "event-leveraging-pop-culture"

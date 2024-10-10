@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: tm3wk-GRS6g
+youtube_title: "Plain Language Basics: Online Workshop"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

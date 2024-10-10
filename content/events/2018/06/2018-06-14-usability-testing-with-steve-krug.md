@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: 6fjn1Zz3lMU
+youtube_title: "Usability Testing with Steve Krug"
 
 # Primary Image (for social media)
 primary_image: "usability-testing-steve-krug-ux"

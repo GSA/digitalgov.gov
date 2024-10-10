@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: 3smZz7PduK8
+youtube_title: "DAP Learning Series: Site Analysis, Live!"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

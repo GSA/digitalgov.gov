@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: Kux6qerjnNE
+youtube_title: "USWDS Monthly Call: Easing into the Design System (Apr 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

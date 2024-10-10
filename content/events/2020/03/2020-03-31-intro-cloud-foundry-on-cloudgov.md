@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: G3fk3cJci0I
+youtube_title: "Intro to Cloud Foundry on Cloud.gov"
 
 # Primary Image (for social media)
 primary_image: "cloudgov-intro-to-cloud-foundry"

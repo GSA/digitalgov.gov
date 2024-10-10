@@ -23,6 +23,7 @@ slug: uswds-monthly-call-october-2023
 event_platform: zoom
 primary_image: 2023-uswds-monthly-call-oct-title-card
 youtube_id: _uNXQpu6Dwg
+youtube_title: "How to develop a sustainable, repeatable research process"
 ---
 {{< asset-static file="uswds-monthly-call-october-2023.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 111 pages)" >}}
 

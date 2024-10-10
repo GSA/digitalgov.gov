@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: 76gvoSVOGkc
+youtube_title: "Federal Crowdsourcing Webinar Series Episode 11 Edited Video"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

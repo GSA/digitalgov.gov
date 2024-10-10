@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: S5DO-R2iy54
+youtube_title: "10x Project Lightning Talks"
 
 # Make it better ♥
 

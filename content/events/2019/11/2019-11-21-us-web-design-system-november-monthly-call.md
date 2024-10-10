@@ -32,6 +32,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: -mWm-2V-DLA
+youtube_title: "USWDS Monthly Call: Jekyll Theme and Drupal (Nov 2019)"
 
 # Primary Image (for social media)
 primary_image: "uswds-11-november"
