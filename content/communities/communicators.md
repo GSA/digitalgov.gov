@@ -45,4 +45,4 @@ Become a member to network with subject matter experts with extensive experience
 
 Digital.gov fosters this essential community by providing spaces designed to share best practices, resources, and networking opportunities. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/manage-your-subscription/).
 
-{{< featured-resource resourcePath="topics/communication" kicker= “Explore community-favorite communication resources:">}}
+{{< featured-resource resourcePath="topics/communication" kicker= “Explore community favorite communication resources:">}}
