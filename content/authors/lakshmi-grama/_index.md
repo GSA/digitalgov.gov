@@ -1,7 +1,4 @@
 ---
-# e.g. U.S. General Services Administration
-agency_full_name: National Cancer Institute, National Institutes of Health
-YouTube: ""
 display_name: Lakshmi Grama
 first_name: Lakshmi
 last_name: Grama
@@ -25,6 +22,7 @@ agency: NIH
 # Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
 # Learn more about getting a Github account at [URL]
 github: ""
+youtube: ""
 facebook: ""
 slug: lakshmi-grama
 profile_source: ""
