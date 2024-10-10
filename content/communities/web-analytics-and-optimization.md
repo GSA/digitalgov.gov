@@ -1,8 +1,8 @@
 ---
 slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
-title: Web Analytics and Optimization
-summary: "Make better decisions using web analytics and other optimization strategies."
+title: "Join the Web Analytics Community "
+summary: "Share and learn with web analytics and optimization practitioners."
 # See all topics at https://digital.gov/topics
 topics:
   - research
@@ -45,25 +45,13 @@ community_list:
     members: 1,061
     join_cop_button: "Web Analytic community members"
 
-kicker: "Join the Web Analytics Community"
+kicker: "Communities of Practice"
 
 primary_image: "communities-card-analytics"
 
 ---
+Government professionals from all levels come together in this community to make better decisions using web analytics and other optimization strategies.
 
-In government, those with analytics as part of their duties are faced with a fast-paced, ever-changing environment. Technologies, strategies, and tools change regularly. This community aims to uncover best practices, case studies, tips, and tools for web analytics and optimization.
+Become a member to uncover best practices, tips, and tools for web analytics, search, and search engine optimization.
 
-## What We Do
-
-We run meetings and trainings, engage in collaborative discussion, and send general emails with updates on new technology and trends.
-
-## Who We Are
-
-We’re government website analysts, developers, content strategists, user experience (UX) designers, communications professionals, or any and everyone else who use data to improve the public’s interaction with government sites.
-
-## Related Resources
-
-* [Digital Analytics Program](https://digital.gov/guides/dap/)
-* [Search.gov](https://search.gov/)
-* [U.S. Web Design System](https://designsystem.digital.gov/)
-* [Web Analytics Playbook](https://digital.gov/guides/web-analytics-playbook/)
+Digital.gov fosters this dynamic community by providing spaces to engage in collaborative discussion and share new technology and trends. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
