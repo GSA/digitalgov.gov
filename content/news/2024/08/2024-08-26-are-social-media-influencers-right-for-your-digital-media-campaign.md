@@ -1,5 +1,5 @@
 ---
-date: 2024-08-26 00:00:00 -0500
+date: 2024-10-10 00:00:00 -0500
 title: "Are social media influencers right for your digital media campaign?"
 summary: "Learn how to work with social media influencers to achieve your goals, while accounting for different budgets."
 
