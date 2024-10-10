@@ -4,8 +4,8 @@
 
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
-title: "Web Managers"
-summary: "Create a better online experience for the public alongside government web content managers."
+title: "Join the Web Managers Community "
+summary: "Share and learn with web and digital services practitioners."
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -70,28 +70,13 @@ community_list:
 
 primary_image: "communities-card-web-mgrs"
 
-kicker: "Join the Web Managers Community"
+kicker: "Communities of Practice"
 
 ---
+Government professionals from all levels come together in this community to create a better online experience for the public.
 
-We are a group for those who create, manage, and contribute to government websites and digital services. We are working to create a trusted, seamless online experience for all. You do not need to be a “manager” to be a part of this community; we are all managing different aspects of the digital experience and all have something to contribute — and something to learn — from one another.
+Become a member to learn more about creating, managing, and contributing to government websites and digital services.
 
-## What We Do
+Digital.gov fosters this fundamental community by providing spaces for sharing ideas, challenges, lessons learned, and best practices for managing government websites and digital services. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-Together, everyone achieves more. We recognize the expert in each of us. Our primary purpose is to collaborate and share ideas, challenges, lessons learned, and best practices in managing government websites and digital services—from all levels of skills and knowledge.
-
-We support efforts to implement the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) and other requirements for government websites and digital services.
-
-We meet several times a year and maintain an active LISTSERV. We also work with other [communities of practice](https://digital.gov/communities) and the [Federal Web Council](https://digital.gov/resources/federal-web-council/) to publish case studies, blog posts, and other resources on Digital.gov.
-
-We want to help our community find the answers to questions, to consider questions they perhaps haven’t thought to ask, and to learn from this diverse community.
-
-## Who We Are
-
-We held our [first community meeting in October 2000](https://web.archive.org/web/20010609224356/http://www.hud.gov/library/bookshelf15/webcontentmgr.cfm). The web content managers group was started as a way for content managers, not techies, to get together to discuss web content and management issues facing the federal government. We have evolved over the past 20 years to include everyone who has a role in building websites and digital services.
-
-## Related Resources
-
-- [Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/) — The relevant laws, policies, and regulations for federal agencies.
-- [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links) — A list of required links that all federal websites need to have.
-- [Website Standards](https://designsystem.digital.gov/website-standards/) — Adopt the U.S. Web Design System incrementally, and prioritize implementation to align with the modernization plans and priorities.
+{{< featured-resource resourcePath="topics/digital-service-delivery" >}}
