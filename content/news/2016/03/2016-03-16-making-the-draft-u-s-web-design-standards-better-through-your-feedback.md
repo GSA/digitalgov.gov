@@ -3,14 +3,13 @@ slug: making-the-draft-u-s-web-design-standards-better-through-your-feedback
 date: 2016-03-16 13:02:08 -0400
 title: Making the Draft U.S. Web Design Standards Better Through Your Feedback
 summary: 'Since our launch of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through GitHub issues and via email. We’ve received dozens of feature requests as well as over 400 contributions from the open source community.'
+
+redirectto: https://digital.gov/topics/design/
+expirydate: "2024-10-09"
+
 authors:
   - carolyn-dew
   - melody-kramer
-topics:
-  - content-strategy
-  - user-experience
-  - design
-  - human-centered-design
 ---
 
 Since [our launch](https://18f.gsa.gov/2015/09/28/web-design-standards/) of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through [GitHub issues](https://github.com/18F/web-design-standards/issues) and via email. We’ve received dozens of [feature requests](https://github.com/18F/web-design-standards/issues?q=is%3Aopen+is%3Aissue+label%3A%22feature+request%22) as well as over 400 contributions from the open source community.
