@@ -16,7 +16,8 @@ topics:
 # 1 -- visible
 weight: 1
 
-primary_image: "influencers-101-cover"
+primary_image: "social-media-influencer-marta-sher-istock-getty-images-1214053578"
+
 slug: are-social-media-influencers-right-for-your-digital-media-campaign
 
 ---
