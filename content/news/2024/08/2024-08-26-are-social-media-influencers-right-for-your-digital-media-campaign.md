@@ -124,7 +124,7 @@ View the fact sheet on the categories of influencers mentioned above:
 Although there is no set pricing for working with influencers, generally an influencer’s following dictates the cost of their services. Pricing also depends on what they are asked to do and on which platform. Keep in mind that influencers may have a larger presence on certain platforms and thus may be more influential on one platform compared to another. Some platforms also tend to generate higher costs. For example, the same influencer may cost more to work on one platform compared to another.
 
 {{< ring title="Case study">}}
-## When to work with nano influencers vs. mega influencers
+### When to work with nano influencers vs. mega influencers
 
 Fresh Empire was the first federal public education campaign designed to prevent and reduce tobacco use among 12- to 17-year-old African American, Hispanic, and Asian American and Pacific Islander youths who identify with hip-hop culture and are at an elevated risk for exposure to pro-tobacco influences. The Fresh Empire campaign collaborated with both nano and mega influencers for different purposes.
 
