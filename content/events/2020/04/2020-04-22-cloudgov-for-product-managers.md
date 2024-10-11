@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: zrq7lGEwIZY
+youtube_title: "Cloud.gov for Product Managers"
 
 # Make it better ♥
 

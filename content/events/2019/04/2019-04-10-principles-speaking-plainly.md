@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: VTXJoHara-4
+youtube_title: "Principles of Speaking Plainly"
 
 # Primary Image (for social media)
 primary_image: "plain-language"

@@ -27,6 +27,7 @@ primary_image: nist-logo-1200x630
 
 # YouTube ID
 youtube_id: KJ6_XphVNSw
+youtube_title: "NIST Initiatives on Artificial Intelligence Standards, Principles, and Critical AI Issues"
 
 ---
 

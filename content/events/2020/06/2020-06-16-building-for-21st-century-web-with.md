@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: 0_RsITB_LMw
+youtube_title: "Building for the 21st Century Web with Federalist"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

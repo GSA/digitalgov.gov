@@ -24,6 +24,7 @@ slug: uswds-monthly-call-june-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: W5689h4z6Jo
+youtube_title: "Pagination Component: Inside Look with the Design System Team (Jun 2021)"
 
 ---
 

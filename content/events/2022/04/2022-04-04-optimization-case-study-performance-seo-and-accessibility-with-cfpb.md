@@ -24,6 +24,7 @@ slug: optimization-case-study-performance-seo-and-accessibility-with-cfpb
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: WV6wCoUNUZI
+youtube_title: "Optimization Case Study: Performance, SEO, and Accessibility with CFPB"
 primary_image: april-wao-event-cfpb
 
 ---

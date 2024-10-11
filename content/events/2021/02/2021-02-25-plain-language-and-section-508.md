@@ -26,6 +26,7 @@ slug: plain-language-and-section-508
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: n_WYcQnVOf4
+youtube_title: "Plain Language: Accessibility for Content"
 
 ---
 

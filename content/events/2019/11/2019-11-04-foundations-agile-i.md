@@ -27,6 +27,7 @@ authors:
   - alan-atlas
 
 youtube_id: MRfsXVOicC8
+youtube_title: "Foundations of Agile, Part I with Alan Atlas and Alan Brouilette"
 
 featured_image:
   uid: agile-foundations-part-1

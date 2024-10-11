@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: Dtv2H1YsswQ
+youtube_title: "Foundations of Agile, Part II with Alan Atlas and Alan Brouilette"
 
 # Primary Image (for social media)
 primary_image: "agile-foundations-part-2"

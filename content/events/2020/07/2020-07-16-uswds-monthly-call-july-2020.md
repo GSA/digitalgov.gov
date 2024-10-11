@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: Hdl77ER-RY8
+youtube_title: "USWDS Monthly Call: Form Components Update (Jul 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

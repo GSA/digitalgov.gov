@@ -31,6 +31,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: tGr4rw2hm78
+youtube_title: "Short Case Study: A/B Testing for Data-Driven Design"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -31,6 +31,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: h97FNYlOExY
+youtube_title: "USWDS Monthly Call: Using the USWDS Maturity Model (Jan 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

@@ -22,6 +22,7 @@ event_platform: zoom
 
 primary_image: "uswds-gaad-monthly-call-may-2024"
 youtube_id: UfufY8gStqI
+youtube_title: "Creating accessible civic spaces"
 ---
 
 {{< asset-static file="uswds-monthly-call-may-2024.pptx" label="View the slides (Powerpoint presentation, 14 MB, 32 slides)">}}

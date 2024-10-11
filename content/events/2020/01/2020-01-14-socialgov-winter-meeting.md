@@ -34,6 +34,7 @@ authors:
 
 # YouTube ID
 youtube_id: hTjkSjkPP48
+youtube_title: "How Agencies Are Spreading Best Practices"
 
 # Primary Image (for social media)
 primary_image: "socialgov-winter-event-2020"
