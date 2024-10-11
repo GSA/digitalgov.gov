@@ -2,12 +2,12 @@
 source: ""
 date: 2024-10-11 00:00:00 -0500
 title: "Making targeted improvements to NPS.gov: A case study from the National Park Service"
-deck: Understand the value of combining GSA’s Digital Analytics Program and Touchpoints customer feedback data
-summary: NPS enhances user experience on NPS.gov by integrating Digital Analytics Program web analytics data and customer feedback from GSA Touchpoints.
+deck: "Understand the value of combining GSA’s Digital Analytics Program and Touchpoints customer feedback data"
+summary: "NPS enhances user experience on NPS.gov by integrating Digital Analytics Program web analytics data and customer feedback from GSA Touchpoints."
 
 # See all authors at https://digital.gov/authors
 authors: 
-  - marina-fox
+  - nathan-king
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -39,7 +39,7 @@ We frequently look at the DAP data for websites of landmarks within the National
 
 {{< ring title="Related guide">}}
 
-Check out the \[glossary of terms](https://digital.gov/guides/dap/glossary-of-terms/) to browse common terms that you will need to understand when using DAP.
+Check out the [glossary of terms](https://digital.gov/guides/dap/glossary-of-terms/) to browse common terms that you will need to understand when using DAP.
 
 {{< /ring >}}
 
