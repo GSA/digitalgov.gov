@@ -2,18 +2,14 @@
   <main role="main" id="main-content">
     <article class="grid-container-desktop">
       <header>
-        <div class="grid-container grid-container-desktop">
-          {{- if .Parent -}}
-            {{- partial "partials/core/usa-breadcrumbs.html" . -}}
-          {{- end -}}
+        {{- if .Parent -}}
+          {{- partial "partials/core/usa-breadcrumbs.html" . -}}
+        {{- end -}}
 
-          {{- partial "partials/core/page-header.html" (dict "data" .) -}}
-        </div>
+        {{- partial "partials/core/page-header.html" (dict "data" .) -}}
       </header>
 
-      <section class="grid-container grid-container-desktop">
-        {{- partial "partials/core/usa-in-page-nav.html" . -}}
-      </section>
+      {{- partial "partials/core/usa-in-page-nav.html" . -}}
     </article>
   </main>
 {{- end -}}
