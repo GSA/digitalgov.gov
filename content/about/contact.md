@@ -19,6 +19,7 @@ For a wider list of contacts, see our [**Directory of services, tools, and teams
 ## On social media
 
 - Follow [@digital_gov on X (Formerly Twitter)](https://X.com/digital_gov)
+- Follow [Digital.gov on LinkedIn](https://www.linkedin.com/company/digitalgov-gsa/)
 - Digital.gov on [GitHub](https://github.com/GSA/digitalgov.gov)
 - Join our [Facebook page](https://www.facebook.com/DigitalGov)
 - Subscribe to our [newsletter]({{< ref "/about/subscribe.md" >}})

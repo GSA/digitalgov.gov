@@ -23,10 +23,8 @@ At regular intervals outlined in the evaluation schedule table, we evaluate web 
 
 We may make exceptions outside of the established schedule if web analytics, accessibility and quality checks, or other indicators of current user needs reveal that changes need to be made.
 
-## Digital.gov’s evaluation schedule
-
 <table class="usa-table usa-table--striped">
-  <caption></caption>
+  <caption>Digital.gov’s evaluation schedule</caption>
   <thead>
     <tr>
       <th scope="col">Content Type</th>
