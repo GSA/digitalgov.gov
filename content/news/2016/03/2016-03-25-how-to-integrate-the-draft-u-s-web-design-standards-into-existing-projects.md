@@ -4,7 +4,6 @@ date: 2016-03-25 13:00:37 -0400
 title: How to Integrate the Draft U.S. Web Design Standards into Existing Projects
 summary: 'One of the most common questions we receive is: Should I integrate the Draft U.S. Web Design Standards into my existing project? The answer is: it depends. A lot of design research supports the notion that many people who use government websites or services may benefit from consistency across interactions, user experiences, and behavior across'
 
-redirectto: https://digital.gov/topics/design/
 expirydate: "2024-10-09"
 
 authors:
