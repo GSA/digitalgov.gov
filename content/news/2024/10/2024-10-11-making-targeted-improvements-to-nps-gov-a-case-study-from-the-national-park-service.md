@@ -1,24 +1,32 @@
 ---
 source: ""
 date: 2024-10-11 00:00:00 -0500
-title: "Making targeted improvements to NPS.gov: A case study from the National
-  Park Service"
-deck: Understand the value of combining GSA’s Digital Analytics Program and
-  Touchpoints customer feedback data
-summary: NPS enhances user experience on NPS.gov by integrating Digital
-  Analytics Program web analytics data and customer feedback from GSA
-  Touchpoints.
+title: "Making targeted improvements to NPS.gov: A case study from the National Park Service"
+deck: Understand the value of combining GSA’s Digital Analytics Program and Touchpoints customer feedback data
+summary: NPS enhances user experience on NPS.gov by integrating Digital Analytics Program web analytics data and customer feedback from GSA Touchpoints.
+
+# See all authors at https://digital.gov/authors
+authors: 
+  - marina-fox
+
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
   - digital-service-delivery
   - usability
+  - customer-experience
+
 slug: making-targeted-improvements-to-nps-gov-a-case-study-from-the-national-park-service
+
+primary_image: ""
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 How can we best serve our customers? The only way to really know is to ask them.
 
 ## Browsing habits on NPS.gov changed over the past decade
