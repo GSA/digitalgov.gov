@@ -19,6 +19,7 @@ slug: uswds-monthly-call-april-2024
 event_platform: zoom
 primary_image: 2024-uswds-monthly-call-april-title-card
 youtube_id: GHomUbYTgwQ
+youtube_title: "An introduction to Web Components"
 ---
 
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}

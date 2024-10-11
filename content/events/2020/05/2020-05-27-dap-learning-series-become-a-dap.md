@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: KsDJx7gMJms
+youtube_title: "DAP Learning Series: Become a DAP Certified Analyst!"
 
 # Make it better ♥
 

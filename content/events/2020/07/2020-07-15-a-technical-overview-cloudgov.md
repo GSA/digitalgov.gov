@@ -32,6 +32,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: lwQCDeIm1Es
+youtube_title: "A Technical Overview of cloud.gov"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -27,6 +27,7 @@ topics:
 
 # YouTube ID
 youtube_id: 53CYOKYvCRU
+youtube_title: "Dr Emily Shen on Secure Multi Party Computation"
 
 # Make it better ♥
 

@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: h9gDpsVoQTI
+youtube_title: "How to Navigate the Complex World of Federal Digital Policy"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

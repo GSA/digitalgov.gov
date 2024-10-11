@@ -31,6 +31,7 @@ event_platform: youtube_live
 
 # YouTube ID
 youtube_id: MqJFd9DX7cY
+youtube_title: "Responding to a Disaster: How USAGOV Helped Shape the Digital Response in Puerto Rico"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: kP-9tJFm3Ag
+youtube_title: "USWDS Monthly Call: Cards, Forms, and Data Visualizations (May 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

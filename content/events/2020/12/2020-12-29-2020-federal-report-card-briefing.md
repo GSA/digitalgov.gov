@@ -22,6 +22,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: mBtOH7FFxsw 
+youtube_title: "2020 Plain Language Federal Report Card Briefing"
 
 # Primary Image (for social media)
 primary_image: "plain-language-report-card-2020"

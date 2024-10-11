@@ -28,6 +28,7 @@ event_platform: zoom
 
 primary_image: 2023-uswds-monthly-call-nov-title-card
 youtube_id: EQ8Nb60xgXA
+youtube_title: "Designing a repeatable research process with people with disabilities"
 ---
 
 {{< asset-static file="uswds-monthly-call-november-2023.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 63 pages)" >}}
@@ -89,7 +90,7 @@ And we also added support for the pnpm package manager. We updated a couple smal
 
 And that's USWDS Compile 1.1.0, out tomorrow.
 
-**Slide 13:** As I've hinted, or somewhat explicitly mentioned earlier in the call, we now have the last year of USWDS monthly calls available online. Now you could get to them via Digital.gov or via your friendly streaming video service, but we think there's also a benefit to getting these videos on our own site as well. 
+**Slide 13:** As I've hinted, or somewhat explicitly mentioned earlier in the call, we now have the last year of USWDS monthly calls available online. Now you could get to them via Digital.gov or via your friendly streaming video service, but we think there's also a benefit to getting these videos on our own site as well.
 So now we have a monthly calls section of our website, at [designsystem.digital.gov/about/monthly-calls](https://designsystem.digital.gov/about/monthly-calls).
 We have all the monthly calls from 2023 available, and we'll be adding more in the future. We also directly link to each monthly call's slides, as well as to the script and event information on [Digital.gov](https://digital.gov/). And as we move forward we'll be thinking about other improvements to this page, like adding direct links to different sections of the video, providing links that we presented in the call, or other related materials.
 
@@ -119,7 +120,7 @@ We looked at Accordion, Character count, Combo box, Date picker, File input, Inp
 **Slide 23:** To do that, I'd like to introduce Jacline Contrino, a contractor, and a UX Researcher on the USWDS Core Team. Jacline, take it away!
 
 Jacline: Thanks, Dan. Hi everyone this is Jacline, she/her, I'm a white woman with shoulder length brown hair and also wearing a pumpkin colored sweater with black stripes so I think Dan and I are both feeling the fall vibes today. Let's pick up where we left off last month.
- 
+
 **Slide 24:** I just have a few more things to share from our last round of usability testing. The last time we met, I spoke about how some issues needed more research, with one being how there was some participant confusion with the banner component. One person had confused it for a header, thinking it was a way to navigate the site. She said “I was thinking it might be more menu options. Because usually any buttons that are collapsed at the top of the page like that are usually menu, navigation things.” Another person commented on how it was labeled as a button, but it didn’t look like a button. Instead, she said it looked more like a link and a dropdown or combo box, so that was a little confusing to her.
 
 **Slide 25:** Finally, another thing that came up is that we learned that sometimes people, especially those with low vision, might have external plugins installed on their computer to really customize their environment, such as special forced colors and high contrast plugins. This made some elements in the prototype completely disappear visually. When we found out she was using a lot of extensions that affected how things display, it was a good learning experience that it’s important to ask more detailed questions about users’ tech setup and to keep those things in mind.
@@ -127,7 +128,7 @@ Jacline: Thanks, Dan. Hi everyone this is Jacline, she/her, I'm a white woman wi
 **Slide 26:** Ok, so I presented all of these findings to the USWDS core team along with my recommendations. We unfortunately don’t have time to cover what my recommendations are today, but as Anne will discuss later, we published a complete research findings report for this round of usability research.
 We also discussed these findings as a team, and then, the next step was to make sure we could take some action. So we began creating Github issues.
 
-**Slide 27:** We started by creating one issue per component that consolidated all of the findings. So, for example, for date picker, there were several findings, such as: the keyboard controls did not work as users expected, that some users prefer to manually type in dates or use memorable date picker drop downs, that one user had trouble tabbing to the date picker calendar icon, and also a finding around lack of error feedback. [The screenshot on this slide shows the date picker](https://github.com/uswds/uswds/issues/5524) issue where we listed all of these findings.  We also linked video clips in the issues so developers can more fully understand contextual information or make more sense of what users were experiencing.
+**Slide 27:** We started by creating one issue per component that consolidated all of the findings. So, for example, for date picker, there were several findings, such as: the keyboard controls did not work as users expected, that some users prefer to manually type in dates or use memorable date picker drop downs, that one user had trouble tabbing to the date picker calendar icon, and also a finding around lack of error feedback. [The screenshot on this slide shows the date picker](https://github.com/uswds/uswds/issues/5524) issue where we listed all of these findings. We also linked video clips in the issues so developers can more fully understand contextual information or make more sense of what users were experiencing.
 
 **Slide 28:** Then, we met as a team to discuss each component, and further broke down those consolidated issues into individual issues for every finding. In [the screenshot on this slide, we’re showing the specific finding for date picker that a user had difficulty tabbing to the calendar icon](https://github.com/uswds/uswds/issues/5535). After trying to replicate the issue, we discovered that the actual issue appears to be that the focus indicator is not visible around the calendar icon in high contrast mode…this was another one of those special forced colors plugin issues. This breaking down into bite sized chunks of work for each finding will hopefully make it easier for us to track and tackle what needs to be improved in a reasonable amount of time.
 
@@ -147,13 +148,13 @@ Setup also includes things like: making sure all the tech was working as needed.
 
 The things that you should do BEFORE the actual session starts, like:
 
-* Making sure you have tabs open for all the materials you will need during the session, such as: your script. And special note on that - be sure your script appears on the screen where your camera is, so you appear to look at the participant as you talk (so, no side face!)
-* Have a tab open for any prototype you’re using
-* And also your notes document (although may be less important for facilitator)
-* Relatedly, close unneeded tabs to reduce clutter
-* Be sure the waiting room for the meeting is enabled, if applicable.
-* Start the meeting at least 5 minutes before the session is scheduled to start.
-* Right before you start the session, mute all notifications.
+- Making sure you have tabs open for all the materials you will need during the session, such as: your script. And special note on that - be sure your script appears on the screen where your camera is, so you appear to look at the participant as you talk (so, no side face!)
+- Have a tab open for any prototype you’re using
+- And also your notes document (although may be less important for facilitator)
+- Relatedly, close unneeded tabs to reduce clutter
+- Be sure the waiting room for the meeting is enabled, if applicable.
+- Start the meeting at least 5 minutes before the session is scheduled to start.
+- Right before you start the session, mute all notifications.
 
 These are some examples, we also have steps for what to do during the session as well. Again, this ‘Testing Day’ checklist is currently available [in our Github Wiki](https://github.com/uswds/uswds/wiki/Usability-testing-day-checklist).
 
@@ -234,19 +235,19 @@ During the [October 2023 monthly call](https://digital.gov/event/2023/10/19/uswd
 
 This month we’ll discuss:
 
-* More results from our usability research on Design System components
-* Changes we’re making based on the findings 
-* Continuing to publish what we learn
-* Operationalizing and improving on a transparent research process
-* Best practices for usability testing with participants who have disabilities 
+- More results from our usability research on Design System components
+- Changes we’re making based on the findings
+- Continuing to publish what we learn
+- Operationalizing and improving on a transparent research process
+- Best practices for usability testing with participants who have disabilities
 
 **This event is best suited for:** Anyone who uses the U.S. Web Design System. This event will have an accessibility and usability focus.
 
 ## Speakers
 
-* **Dan Williams** **—** Product Lead, USWDS
-* **Anne Petersen** **—** Experience Design Lead, USWDS
-* **Jacline Contrino** **—** UX Researcher, USWDS
+- **Dan Williams** **—** Product Lead, USWDS
+- **Anne Petersen** **—** Experience Design Lead, USWDS
+- **Jacline Contrino** **—** UX Researcher, USWDS
 
 ## Related resources
 
@@ -260,17 +261,17 @@ This month we’ll discuss:
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

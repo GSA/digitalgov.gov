@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: Uq-CstAvpds
+youtube_title: "Writing for Accessible Web"
 
 # Make it better ♥
 

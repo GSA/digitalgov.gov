@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: limXoQVPw2A
+youtube_title: "DAP Learning Series: Advanced Concepts"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 
