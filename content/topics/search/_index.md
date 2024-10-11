@@ -32,7 +32,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Search: essential knowledge"
+  title: "Search: Essential knowledge"
   resources:
   - title: "Going Live With Search.gov"
     summary: "Your pre-launch checklist will be unique to your agency’s workflow, requirements, and deadlines. Here is a typical checklist."

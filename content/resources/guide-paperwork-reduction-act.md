@@ -8,12 +8,7 @@ title: "Guide to the Paperwork Reduction Act"
 deck: "A plain language guide which answers the most common questions to the PRA"
 summary: "A plain language guide which answers the most common questions to the PRA."
 
-# originally published at the following URL
-source_url: "https://pra.digital.gov/"
-
-# Which team published this?
-# Learn about sources at https://workflow.digital.gov/sources
-source: pra-guide
+redirectto: https://pra.digital.gov/
 
 # see all topics at https://digital.gov/topics
 topics:

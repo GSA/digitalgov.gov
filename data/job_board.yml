@@ -8,15 +8,13 @@
 
 
 
-
-
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
   description: >
           1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested: 0343 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-07-31
-  close_date: 2024-10-01
+  close_date: 2024-11-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
   cop_topics:
     - Communicators
@@ -27,79 +25,218 @@
   description: >
           6-month non-reimbursable assignment with the possibility of extension. Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Community Outreach Specialist Series Requested: 0301 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-09-03
-  close_date: 2024-10-05
+  close_date: 2024-11-30
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
   cop_topics:
     - Communicators
     - Plain Language
 
-- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
-  department: Department of Defense
-  location: Patrick AFB, Florida
-  description: >
-          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
-  open_date: 2024-09-10
-  close_date: 2024-09-25
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808856100
-  cop_topics:
-    - Social Media
-
-- title: PUBLIC AFFAIRS SPECIALIST (SOCIAL MEDIA)
-  department: Department of Defense
-  location: Patrick AFB, Florida
-  description: >
-          This position is part of the Defense Human Resources Activity. The incumbent will be responsible for web content/social media for DEOMI. Establishes and maintains working relationships with the Office of the Secretary of Defense (OSD) Public Affairs, the DHRA Public Affairs, and the 45th Space Wing Public Affairs Offices concerning all issues related to DEOMI.
-  open_date: 2024-09-10
-  close_date: 2024-09-25
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/808864700
-  cop_topics:
-    - Social Media
-
-- title: Writer-Editor (Social Media)
+- title: Public Affairs Specialist
   department: Department of Commerce
-  location: Gaithersburg, Maryland
+  location: Alexandria, Virginia
   description: >
-          The Department of Commerce ranked top 5 in the 2023 Best Places to Work in the Federal Government amongst large agencies for the 12th year in a row! The ranking showcases the Department's continued commitment to increasing our employee engagement, employee satisfaction, and positive perceptions towards diversity, equity, accessibility, and inclusion. Come join our team!
-  open_date: 2024-09-16
-  close_date: 2024-10-01
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809554800
-  cop_topics:
-    - Social Media
-
-- title: Business Marketing Automation Specialist
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          This position is in the This position is in the Office of Integrated Marketing, Office of Customer and Stakeholder Engagement (QC), Federal Acquisition Service (FAS), General Services Administration (GSA). Location of Position: This is a virtual position and duty location of this position will be determined upon selection We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-09-13
-  close_date: 2024-09-24
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809540800
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
+  open_date: 2024-09-26
+  close_date: 2024-10-18
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608400
   cop_topics:
     - Communicators
-    - Plain Language
+    - Social Media
+
+- title: Public Affairs Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
+  open_date: 2024-09-26
+  close_date: 2024-10-18
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608700
+  cop_topics:
+    - Communicators
+    - Social Media
+
+- title: Writer-Editor
+  department: Department of the Treasury
+  location: Multiple Locations
+  description: >
+          This position is located at Office of the Inspector General for Tax Admin,Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
+  open_date: 2024-09-30
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810108600
+  cop_topics:
+    - Communicators
+
+- title: Writer-Editor
+  department: Department of the Treasury
+  location: Multiple Locations
+  description: >
+          This position is located at Office of the Inspector General for Tax Admin, Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
+  open_date: 2024-09-30
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810107300
+  cop_topics:
+    - Communicators
+
+- title: Translator (Recent Graduate)
+  department: Department of Health and Human Services
+  location: Atlanta, Georgia
+  description: >
+          As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
+  open_date: 2024-10-02
+  close_date: 2024-10-12
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812482600
+  cop_topics:
+    - Multilingual
+
+- title: Public Affairs Specialist (Web Content Manager)
+  department: Department of Agriculture
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          This position is located in the Food and Nutrition Service (FNS), Office of Communications and External Engagement, Communications Division. The incumbent will work with the Agency's webmaster to provide technical assistance and guidance to web authors on effective content and communication techniques on the Agency's public website.
+  open_date: 2024-10-04
+  close_date: 2024-10-19
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812779000
+  cop_topics:
+    - Communicators
     - User Experience
-    - Web Analytics
     - Web Managers
 
-- title: Supervisory IT Specialist (DATAMGT/INET)
+- title: PUBLIC AFFAIRS SPECIALIST
+  department: Other Agencies and Independent Organizations
+  location: Washington, District of Columbia
+  description: >
+          This position is part of the U.S. International Development Finance Corporation (DFC), Office of External Affairs. As a Public Affairs Specialist (Social Media), you will lead the management of DFC's social media sites to include X, LinkedIn, Facebook, Medium, Instagram, etc. The role will independently develop and execute sophisticated digital communications campaigns and collaborate internally and externally to create robust marketing products utilizing social media and digital assets.
+  open_date: 2024-10-02
+  close_date: 2024-10-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812359700
+  cop_topics:
+    - Social Media
+
+- title: PUBLIC AFFAIRS SPECIALIST
+  department: Other Agencies and Independent Organizations
+  location: Washington, District of Columbia
+  description: >
+          This position is part of the U.S. International Development Finance Corporation (DFC), Office of External Affairs. As a Public Affairs Specialist (Social Media), you will lead the management of DFC's social media sites to include X, LinkedIn, Facebook, Medium, Instagram, etc. The role will independently develop and execute sophisticated digital communications campaigns and collaborate internally and externally to create robust marketing products utilizing social media and digital assets.
+  open_date: 2024-10-02
+  close_date: 2024-10-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812359100
+  cop_topics:
+    - Social Media
+
+- title: Program Analyst (Data Analytics)
   department: General Services Administration
   location: Anywhere in the U.S. (remote job)
   description: >
-          As a Supervisory IT Specialist (DATAMGT/INET), you will serve as a senior expert and advisor to management on matters related to efforts for cross-agency development via communities of practice. Internal title: Communities & Collaboration Branch Chief Location: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS), Platforms and Services Division. We are currently filling one vacancy, but add'l vacancies may be filled as needed.
-  open_date: 2024-09-23
-  close_date: 2024-09-28
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810717200
+          This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Office of Customer and Stakeholder Engagement (CASE), Office of Analysis & Business System, Analytics & Data Operations Division, Data Operations Branch. Location of position: This is a virtual position and duty location of this position will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-30
+  close_date: 2024-10-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811995400
   cop_topics:
-    - Web Managers
+    - Web Analytics
 
-- title: Supervisory Writer-Editor
+- title: Visual Information Specialist
   department: General Services Administration
   location: GSA - US Locations
   description: >
-          The Office of Strategic Communication is responsible for using communication to help the agency meet its mission and business goals. Location of position: GSA, Office of Strategic Communication. Location will be in one of GSA's regional office or Central Office. Location will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-09-13
-  close_date: 2024-09-28
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/809231000
+          The Office of Strategic Communication is responsible for using communication to help the agency meet its mission and business goals. Location of position: GSA, Office of Strategic Communication. Selectee(s) will be expected to report to a GSA Regional Office/Central Office location listed in the Requirements section below. The location of this position will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-09-25
+  close_date: 2024-10-10
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811187000
+  cop_topics:
+    - Communicators
+
+- title: Digital Communications Specialist (Product Owner)
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This is a Competitive Career Development Detail for 120 days, and may be extended in increments of up to 120 days, not to exceed one year. The detailee can expect to perform the work under this detail a minimum of 75% of the time and maximum of 100%. These detail hours are not considered production related for production award purposes. The detailee will be selected for a detail assignment to commencing on or about October 2024.
+  open_date: 2024-10-01
+  close_date: 2024-10-16
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811948100
+  cop_topics:
+    - Communicators
+    - Web Analytics
+    - Web Managers
+
+- title: Lead Public Affairs Specialist
+  department: Department of Energy
+  location: Washington, District of Columbia
+  description: >
+          The Federal Energy Regulatory Commission (FERC) is ranked within the top 5 mid-size agencies through the Partnership for Public Service’s Best Places to Work in the Federal Government Rankings! This Lead Public Affairs Specialist position is located in the Office of Public Participation. For more information visit: Office of Public Participation (OPP).
+  open_date: 2024-10-08
+  close_date: 2024-10-18
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/813193800
   cop_topics:
     - Communicators
     - Plain Language
+    - Social Media
+
+- title: IT Specialist (APPSW)
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications; serves as Section 508 Coordinator.
+  open_date: 2024-10-04
+  close_date: 2024-10-18
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812557700
+  cop_topics:
+    - User Experience
+
+- title: IT Specialist (APPSW)
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications; serves as Section 508 Coordinator.
+  open_date: 2024-10-04
+  close_date: 2024-10-18
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812557300
+  cop_topics:
+    - User Experience
+
+- title: Content Developer
+  department: Legislative Branch
+  location: Washington DC, District of Columbia
+  description: >
+          Since 1789, the Office of the Clerk has served as the official record keeper of the U.S. House of Representatives and proudly supports the nonpartisan legislative functions of the institution. The Office of Communications serves all divisions of the Office of the Clerk and other nonpartisan House partners with a wide range of print and digital publications, an innovative approach to problem solving, and exceptional customer service.
+  open_date: 2024-09-18
+  close_date: 2024-11-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810320600
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+- title: Project Manager
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          The incumbent is responsible for leading project management facets of the Office’s primary digital communications platforms and other programs pertaining to high-performance buildings and sustainable procurement. Location of position: This is a REMOTE position. Duty location will be determined following selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-10-08
+  close_date: 2024-10-23
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/813220800
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+- title: Information Technology Project Manager
+  department: Judicial Branch
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          The Information Technology Project Manager position is located in the Department of Program Services (DPS), Case Management Systems Office (CMSO), Federal Judiciary Digital Services Division (FJDS). The CMSO develops and maintains case management and related systems for federal appellate, district, and bankruptcy court judges and staff, probation and pretrial services officers, federal defenders, and external stakeholders.
+  open_date: 2024-10-09
+  close_date: 2024-10-24
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812477400
+  cop_topics:
+    - Web Analytics
+
+- title: Executive Director, Portfolio Management for Digital Product Services
+  department: Department of Veterans Affairs
+  location: Location Negotiable After Selection
+  description: >
+          Located in the Office of Information Technology's Product Engineering Service, the Executive Director (ED), Portfolio Manager for Digital Product Services, is responsible for delivering digital products in support of business-wide initiatives. The ED will be responsible for vision, roadmaps, prioritization, and delivery of foundational information technology platforms, including Software as a Service (SaaS), Low-Code, APIs, Development Platforms, and Enterprise Data and Analytics Capabilities.
+  open_date: 2024-09-26
+  close_date: 2024-10-11
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811453900
+  cop_topics:
+    - Web Managers
+
+

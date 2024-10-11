@@ -32,6 +32,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: Q9BgnJqMP4Y
+youtube_title: "Basics of Scrum, Part 1 with Alan Atlas and Alan Brouilette"
 
 # Primary Image (for social media)
 primary_image: "agile-scrum-part-1"

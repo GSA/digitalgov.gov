@@ -29,6 +29,7 @@ event_platform: youtube_live
 
 # YouTube ID
 youtube_id: Ua0cwD_re7s
+youtube_title: "January PLAIN Monthly Meeting"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

@@ -1,8 +1,9 @@
 ---
 slug: the-content-corner-content-management-system-considerations
 date: 2015-10-05 11:24:31 -0400
-title: 'The Content Corner: Content Management System Considerations'
-summary: 'These days you couldn’t be faulted for thinking your content management system (CMS) choices are limited to two open source systems and maybe an enterprise-level offering that no one uses anymore. And while it&#8217;s true that for the public sector the popular open source options are extremely attractive from a cost standpoint, if nothing else,'
+title: "The Content Corner: Content Management System Considerations"
+summary: "These days you couldn’t be faulted for thinking your content management system (CMS) choices are limited to two open source systems and maybe an enterprise-level offering that no one uses anymore. And while it&#8217;s true that for the public sector the popular open source options are extremely attractive from a cost standpoint, if nothing else,"
+
 authors:
   - tyrus-manuel
 topics:
@@ -49,7 +50,7 @@ Within these user groups you need to determine whether or not the user will be a
 
 ## WYSI Not Always WYG {{< legacy-img src="2015/10/250-x-250-Vector-code-editor-Icon-Dacian_G-iStock-Thinkstock-528678591.jpg" alt="Split screen code editor icon" caption="" >}} 
 
-In many ways, a <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_blank">WYSIWYG</a> (What You See Is What You Get) can be a blessing and a curse. They allow for quick and easy content additions or edits. Even for simple tasks, I like to have one available. But without a proper pruning of features, they can allow a user far too much control and your site will suddenly start [partying like it&#8217;s 1999](http://archive.org/web/) with red text and animated gifs (the uncool kind). The most critical aspect on WYSIWYG control is to eliminate any formatting options that would allow a contributor to violate style or <a href="{{< ref "2015-09-28-introducing-the-u-s-web-design-standards.md" >}}" target="_blank">CSS standards for the site</a>, especially things like:
+In many ways, a <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_blank">WYSIWYG</a> (What You See Is What You Get) can be a blessing and a curse. They allow for quick and easy content additions or edits. Even for simple tasks, I like to have one available. But without a proper pruning of features, they can allow a user far too much control and your site will suddenly start [partying like it&#8217;s 1999](http://archive.org/web/) with red text and animated gifs (the uncool kind). The most critical aspect on WYSIWYG control is to eliminate any formatting options that would allow a contributor to violate style or CSS standards for the site, especially things like:
 
   * Colors,
   * Underlining and

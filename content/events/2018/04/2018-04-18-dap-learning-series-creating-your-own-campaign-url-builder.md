@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: LdusA4j9tM0
+youtube_title: "DAP Learning Series: Creating your own Campaign URL builder"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

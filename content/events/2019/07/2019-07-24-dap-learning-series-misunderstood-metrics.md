@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: nvNwmFEroWA
+youtube_title: "DAP Learning Series: Misunderstood Metrics"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -36,7 +36,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Multilingual: essential knowledge"
+  title: "Multilingual: Essential knowledge"
   resources:
   - title: "Top 10 best practices for multilingual websites"
     summary: "Tips for creating and managing multilingual government websites."

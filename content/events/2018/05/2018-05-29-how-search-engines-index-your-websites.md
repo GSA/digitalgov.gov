@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: THhe3Z7XSxg
+youtube_title: "How Search Engines Index Your Websites"
 
 # Primary Image (for social media)
 primary_image: "searchgov-advanced"

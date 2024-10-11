@@ -101,7 +101,7 @@ There are two ways to [merge your Facebook pages](https://www.facebook.com/help/
 
 Within a day, our pages were merged! We’d be lying if we didn’t say we were a little nervous about how it would come out, but our fans merged (for a total of nearly 75K fans) and there have been no issues on the NIDA Facebook page.
 
-Post-merge, you’ll want to remember to update your website and anywhere else linking to the page going away. You’ll also want to ensure you remove the page from any [social media registries]({{< ref "service_us-digital-registry.md" >}}).
+Post-merge, you’ll want to remember to update your website and anywhere else linking to the page going away. You’ll also want to ensure you remove the page from any [social media registries](https://touchpoints.app.cloud.gov/registry).
 
 ## Lessons Learned
 

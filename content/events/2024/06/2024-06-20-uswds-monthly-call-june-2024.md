@@ -20,6 +20,7 @@ event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-june-title-card
 youtube_id: yBCLyWO0yCo
+youtube_title: "A first look at working prototypes of U.S. Web Design System web components"
 
 ---
 

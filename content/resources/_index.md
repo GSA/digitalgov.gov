@@ -189,7 +189,6 @@ resource_topics:
 - [Electronic Capital Planning and Investment Control eCPIC]({{< ref "electronic-capital-planning-and-investment-control-ecpic.md" >}})
 - [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, January 2015)
 - [Sample Position Descriptions for Digital Government Jobs]({{< ref "sample-position-descriptions-for-digital-government-jobs.md" >}})
-- [U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}) to register official social media accounts and mobile apps
 
 ## Records Management
 

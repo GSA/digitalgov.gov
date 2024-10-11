@@ -62,7 +62,7 @@ topics:
 </p>
 
 <p>
-  Check out the <a href="{{< ref "2015-09-28-introducing-the-u-s-web-design-standards.md" >}}">U.S. Web Design Standards</a> and the <a href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< ref "/communities" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
+  Check out the <a href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< ref "/communities" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
 </p>
 
 ---

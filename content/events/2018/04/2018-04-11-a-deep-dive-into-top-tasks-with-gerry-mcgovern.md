@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: 5llJ98UkXYI
+youtube_title: "Top Tasks with Gerry McGovern"
 
 # Primary Image (for social media)
 primary_image: "event-top-tasks"

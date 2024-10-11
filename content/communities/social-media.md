@@ -57,7 +57,6 @@ The CoP includes social media communicators of all specialties and experience le
 
 ## Related Resources
 
-- [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)
 - [U.S. Public Participation Playbook](https://digital.gov/guides/public-participation/)
 - [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit](https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/)
 - [Federal Social Media Accessibility Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)

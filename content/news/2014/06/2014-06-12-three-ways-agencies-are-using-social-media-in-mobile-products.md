@@ -15,7 +15,7 @@ topics:
 
 As highlighted in this [Trends on Tuesday]({{< ref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.
 
-{{< legacy-img src="2014/06/citrus-250x448.png" alt="250-x-448-usda-citrus-image" >}}To take advantage of new opportunities for consumer interaction, federal agencies are implementing social media as part of their mobile products. We surveyed the mobile products submitted to the [Federal Apps Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Apps Registry") to see how agencies are incorporating social media into their mobile products.
+{{< legacy-img src="2014/06/citrus-250x448.png" alt="250-x-448-usda-citrus-image" >}}To take advantage of new opportunities for consumer interaction, federal agencies are implementing social media as part of their mobile products. We surveyed the mobile products submitted to the [Federal Apps Registry]((https://touchpoints.app.cloud.gov/registry) "The Federal Mobile Apps Registry") to see how agencies are incorporating social media into their mobile products.
 
 We found that agencies are using social media in 3 general ways.
 

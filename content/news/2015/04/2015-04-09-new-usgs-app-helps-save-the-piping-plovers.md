@@ -31,4 +31,4 @@ USGS and partners use the app to:
 
 The app was developed by the USGS Woods Hole Coastal and Marine Science Center and the USGS Center for Integrated Data Analytics. It is currently only available on Apple’s [App Store](https://itunes.apple.com/us/app/iplover/id975620593).
 
-_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
+_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://touchpoints.app.cloud.gov/registry)._

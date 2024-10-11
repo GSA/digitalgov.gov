@@ -34,6 +34,7 @@ event_platform: adobe_connect
 
 # YouTube ID
 youtube_id: 8p2wmUl2Dow
+youtube_title: "AI Tech Workshop: How to Utilize the Open Source Jupyter Project for your Research"
 
 # Make it better ♥
 

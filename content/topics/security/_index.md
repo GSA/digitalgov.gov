@@ -32,7 +32,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/an-introduction-to-security"
+    - link: "resources/an-introduction-to-security"
 
 # Featured community to display at the top of the page
 featured_communities:

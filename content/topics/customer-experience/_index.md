@@ -40,7 +40,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Customer experience: essential knowledge"
+  title: "Customer experience: Essential knowledge"
   resources:
   - title: "Embed equity in civic design to transform customer experience"
     summary: "Use lessons learned from this case study, which describes how two civic designers at different agencies embed equity in civic design to transform federal customer experience."

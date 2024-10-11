@@ -51,8 +51,6 @@ If you’re a federal employee, follow these steps (or [download our easy step-b
 
 4. **If approved, create an account**: If your agency point of contact approves and your agency has a signed TOS for that tool, you can work with your agency point of contact to set up your new account.
 
-5. **Put accounts in the [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)**: GSA created a federal-wide social media registry to help agencies inventory all their social media accounts and give the public a way to validate official social media accounts.
-
 Agencies should note that because these products and services are free and don&#8217;t involve agency appropriated funds, the agreements are not considered to be government contracts nor are they procurements under the Federal Acquisition Regulation (FAR). In contrast, fee–based products fall under all federal procurement rules and regulations, and are not included in this process.
 
 ## For Federal Agency Points of Contact

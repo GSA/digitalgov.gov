@@ -22,6 +22,7 @@ authors:
 
 # YouTube ID
 youtube_id: zxyJVrxWVmg
+youtube_title: "Indexing with Search.gov"
 
 # Primary Image (for social media)
 primary_image: "searchdotgovlogo"

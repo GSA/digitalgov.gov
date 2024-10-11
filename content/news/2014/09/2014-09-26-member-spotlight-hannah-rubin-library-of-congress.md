@@ -13,11 +13,11 @@ topics:
   - professional-development
 ---
 
-{{< legacy-img-right src="2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." >}}
-
 Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") via our [Open Opportunities program]({{< ref "open-opportunities.md" >}} "Open Opportunities Program").
 
 ## What do you love most about your current job/position?
+
+{{< legacy-img-right src="2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." >}}
 
 CRS has a unique mission: to provide objective, nonpartisan, confidential, and authoritative research and analysis for Congress throughout the legislative process. As a service unit of the Library of Congress, it’s also part of a world-class institution. Even though I don’t work with Congress directly, I feel privileged to support the CRS mission and come to work at the Library every day. I also love checking out books from the Library—one of my favorite employee benefits!
 

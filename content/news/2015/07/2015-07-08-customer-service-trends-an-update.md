@@ -39,7 +39,7 @@ Currently, the [federal government has hundreds of mobile apps](https://www.usa.
 
 ## 5. Service via Social Media
 
-Through the [Social Media Registry]({{< ref "service_us-digital-registry.md" >}}), agencies can register their official social media accounts so that the public can validate their authenticity when receiving information. This is especially important during emergency situations, when the Federal Emergency Management Agency, the National Oceanic and Atmospheric Administration, and other agencies share information to keep people safe and healthy during disasters, [bad weather]({{< ref "2015-05-06-the-api-briefing-be-prepared-with-the-federal-emergency-management-agencys-mobile-app.md" >}}), or [emergency response efforts]({{< ref "2015-06-11-when-catastrophe-strikes-provide-support-samhsas-disaster-response-app.md" >}}).
+Through the [Social Media Registry](https://touchpoints.app.cloud.gov/registry), agencies can register their official social media accounts so that the public can validate their authenticity when receiving information. This is especially important during emergency situations, when the Federal Emergency Management Agency, the National Oceanic and Atmospheric Administration, and other agencies share information to keep people safe and healthy during disasters, [bad weather]({{< ref "2015-05-06-the-api-briefing-be-prepared-with-the-federal-emergency-management-agencys-mobile-app.md" >}}), or [emergency response efforts]({{< ref "2015-06-11-when-catastrophe-strikes-provide-support-samhsas-disaster-response-app.md" >}}).
 
 ## 6. Contact Centers Remain a Key Channel {{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}}
 

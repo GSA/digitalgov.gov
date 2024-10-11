@@ -25,6 +25,7 @@ authors:
 
 # YouTube ID
 youtube_id: bYkOqGiPXKE
+youtube_title: "DAP Webinar for Federal Privacy Professionals"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

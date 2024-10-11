@@ -35,7 +35,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "User experience: essential knowledge"
+  title: "User experience: Essential knowledge"
   resources:
   - title: "How to apply user experience principles and methodologies to deliver results"
     summary: "Learn from case studies and best practices from federal UX practitioners to drive innovation through inclusion."

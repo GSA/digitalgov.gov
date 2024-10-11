@@ -5,20 +5,14 @@ title: New U.S. Digital Registry Authenticates Official Public Service Accounts
 summary: ' Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you'
 authors:
   - jherman
-topics:
-  - social-media
-  - analytics
-  - application-programming-interface
-  - mobile
-  - open-source
-  - terms-of-service
+expirydate: "2024-10-03"
 ---
 
 <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{{< legacy-img src="2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" >}}</a>
 
 Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do that and remove bureaucratic and technological barriers between users and digital public services.
 
-It’s called [the U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}), and we hope you’ll join us in using it to develop a new generation of services that:
+It’s called [the U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry), and we hope you’ll join us in using it to develop a new generation of services that:
 
   * delivers authenticated information to users across platforms, languages and topics
   * supports cyber-security by deterring fake accounts that spread misinformation and steal personal data.

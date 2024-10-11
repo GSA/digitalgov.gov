@@ -32,6 +32,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: XbLno4xrW8A
+youtube_title: "Plain Language Basics: Online Workshop"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

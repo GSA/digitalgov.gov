@@ -23,4 +23,4 @@ Future versions of the app will also include the ability to crowdsource informat
 
 The Lantern Live app is currently available for Android devices at the [Google Play Store](https://play.google.com/store/apps/details?id=gov.doe.lanternlive).
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry") [The Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry")._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the](https://touchpoints.app.cloud.gov/registry "The Federal Mobile Products Registry") [The Federal Mobile Products Registry](https://touchpoints.app.cloud.gov/registry "The Federal Mobile Products Registry")._

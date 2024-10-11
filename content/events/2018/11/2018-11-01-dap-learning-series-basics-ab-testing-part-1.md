@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: K5nnKM3srqI
+youtube_title: "DAP Learning Series: Basics of A/B Testing Part 1"
 
 # Make it better ♥
 ---

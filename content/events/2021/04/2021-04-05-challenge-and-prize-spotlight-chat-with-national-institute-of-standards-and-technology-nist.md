@@ -25,6 +25,7 @@ slug: challenge-and-prize-spotlight-chat-with-national-institute-of-standards-an
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: afh8DzWI2sQ
+youtube_title: "Challenge and Prize Spotlight Chat with National Institute of Standards and Technology (NIST)"
 
 ---
 

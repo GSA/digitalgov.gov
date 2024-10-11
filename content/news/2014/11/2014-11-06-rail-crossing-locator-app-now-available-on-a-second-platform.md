@@ -22,4 +22,4 @@ You can also:
 
 Download this app to join the Federal Railroad Administration&#8217;s efforts to improve rail crossing safety. The Rail Crossing Locator is available for [Android](https://play.google.com/store/apps/details?id=gov.dot.fra.RailCrossing) and [Apple iOS](https://itunes.apple.com/us/app/rail-crossing-locator/id643005214?mt=8) smartphone and tablet devices.
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by using the [Federal Mobile Product Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry")._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by using the [Federal Mobile Product Registry](https://touchpoints.app.cloud.gov/registry)._
