@@ -135,19 +135,19 @@ a.btn-sm {
 }
 
 .dg-register {
-  margin-bottom: units(3);
   display: flex;
+  margin-bottom: units(3);
 }
 
 a.dg-register__button {
   border-radius: 0;
-  width: auto;
-  padding-left: units(4);
-  padding-right: units(4);
   font-family: font-family("sans");
   font-size: font-size("sans", "md");
   font-weight: font-weight(200);
+  padding-left: units(4);
+  padding-right: units(4);
   text-transform: uppercase;
+  width: auto;
 }
 
 .actions-stacked {
