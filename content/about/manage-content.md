@@ -1,7 +1,7 @@
 ---
 url: /manage-content/
 date: 2020-10-11 08:25:54 -0400
-title: "How does Digital.gov manage content"
+title: "How does Digital.gov manage content?"
 deck: ""
 summary: "To maintain and curate the most useful experience possible, we regularly evaluate our web content for accuracy, relevance, and other indicators of quality."
 
