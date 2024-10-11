@@ -4,7 +4,6 @@ date: 2017-06-13 10:25:06 -0400
 title: Fractal and Federalist Join the U.S. Web Design Standards
 summary: 'We’ve recently added two powerful tools to the U.S. Web Design Standards development workflow that allow us to preview, test, and publish the Standards code more quickly and easily. Fractal Fractal is a powerful and flexible framework for building interactive component libraries. It’s similar to Jekyll (which we use to publish the Standards site) in'
 
-redirectto: https://digital.gov/topics/open-source/
 expirydate: "2024-10-09"
 
 authors:
