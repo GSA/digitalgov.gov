@@ -1,0 +1,12 @@
+
+  # https://s3.amazonaws.com/digitalgov/nps-ncr-sessions-by-mobile-device-chart-1.png
+  # Image shortcode: {{< img src="nps-ncr-sessions-by-mobile-device-chart-1" >}}'
+  date     :  2024-10-11 15:47:48 -0400
+  uid      :  nps-ncr-sessions-by-mobile-device-chart-1
+  width    :  1200
+  height   :  870
+  format   :  png
+  credit   :  
+  caption  :  
+  alt      :  "A line chart displaying two lines show the rate of growth for the percentages of mobile sessions and mobile pageviews from January 2014 to May 2024."
+  
