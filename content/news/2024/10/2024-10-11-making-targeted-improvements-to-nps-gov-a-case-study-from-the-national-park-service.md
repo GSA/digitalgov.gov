@@ -18,7 +18,7 @@ topics:
 
 slug: making-targeted-improvements-to-nps-gov-a-case-study-from-the-national-park-service
 
-primary_image: ""
+primary_image: "national-park-service-nps-homepage-october-2024"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -30,6 +30,8 @@ weight: 1
 How can we best serve our customers? The only way to really know is to ask them.
 
 ## Browsing habits on NPS.gov changed over the past decade
+
+{{< img-right src="national-park-service-nps-homepage-safari-400" >}}
 
 The National Park Service’s National Capital Region includes a number of historic, cultural, and natural landmarks — from the Washington Monument and Lincoln Memorial, to Civil War battlefields, to natural areas with hiking and camping. It is also one of the many metropolitan areas in the United States with high-speed internet and wireless access.
 

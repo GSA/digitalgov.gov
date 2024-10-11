@@ -15,12 +15,17 @@ authors:
   - kennedy-alexis
   - samantha-noor
   - louisa-sholar
+
+primary_image: "3-cards-life-experiences-project-government-wide-cx-efforts"
+
 slug: building-a-culture-of-customer-experience-across-government
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 In recent years, the federal government has recognized the critical importance of [customer experience](https://digital.gov/topics/customer-experience/) in its interactions with the public. According to [Performance.gov](https://www.performance.gov/cx/) and the Office of Management and Budget, customer experience is defined as “the public's perceptions of and overall satisfaction with interactions with any government agency, product, or service.” While this definition sets a clear goal, building a culture of customer experience within government agencies to consistently deliver positive experiences for the public remains a challenge. 
 
 Through the 2021 executive order on customer experience, the White House launched five inaugural interagency teams focused on improving customer experience during pivotal [life experiences](https://www.performance.gov/cx/projects/). Each of these life experience teams is staffed by a diverse, interdisciplinary group and represents a significant shift from traditional government operations toward a more collaborative, [human-centered approach](https://digital.gov/guides/hcd/).
