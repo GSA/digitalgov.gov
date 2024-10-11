@@ -167,3 +167,7 @@ menu:
       Identifier: "contact"
       URL: "/about/contact/"
       Weight: 3
+    - Name: "Manage content"
+      Identifier: "manage-content"
+      URL: "/about/manage-content/"
+      Weight: 3

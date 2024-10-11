@@ -49,17 +49,15 @@
 
       {{/* EVENT Actions — REGISTER and Add to Calendar */}}
       {{- if eq $future_event true -}}
-        <div class="grid-container-desktop">
-          <div class="actions">
-            {{/* Register */}}
-            <a
-              aria-label="Register for {{- .Params.title -}}"
-              class="btn btn-register"
-              href="{{- .Params.registration_url -}}"
-              onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
-              >Register</a
-            >
-          </div>
+        <div class="dg-register">
+          {{/* Register */}}
+          <a
+            aria-label="Register for {{ .Params.title }}"
+            class="dg-register__button btn"
+            href="{{- .Params.registration_url -}}"
+            onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');"
+            >Register</a
+          >
         </div>
       {{- end -}}
 
