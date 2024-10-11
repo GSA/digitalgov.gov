@@ -1,8 +1,7 @@
 ---
-url: /policies/
 date: 2013-12-19 12:58:33 -0400
-title: Policies
-summary: 'Policies for DigitalGov'
+title: "Policies"
+summary: "Policies for DigitalGov"
 aliases:
   - /about/policies/
 
