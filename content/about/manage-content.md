@@ -27,7 +27,7 @@ We may make exceptions outside of the established schedule if web analytics, acc
 ## Digital.gov’s evaluation schedule
 
 <table class="usa-table usa-table--striped">
-  <caption>Bordered table with horizontal stripes</caption>
+  <caption></caption>
   <thead>
     <tr>
       <th scope="col">Content Type</th>
@@ -37,34 +37,28 @@ We may make exceptions outside of the established schedule if web analytics, acc
   <tbody>
 <tr>
 <th scope="row">Dynamic homepage</th>
-<td>The Digital.gov [homepage](https://digital.gov) is reviewed and kept up to date under the Technology Transformation Services (TTS) content policy for accuracy and relevance on a quarterly basis.</td>
+<td>The Digital.gov <a href="https://digital.gov">homepage</a> is reviewed and kept up to date under the Technology Transformation Services (TTS) content policy for accuracy and relevance on a quarterly basis.</td>
 </tr>
-
 <tr>
 <th scope="row">Landing pages</th>
-<td>Key architectural landing pages (such as [community](https://digital.gov/communities/), [guide](https://digital.gov/guides/), or [resource](https://digital.gov/resources/) landing pages) are reviewed and kept up to date under the TTS content policy for accuracy and relevance on a quarterly basis.</td>
+<td>Key architectural landing pages (such as <a href="https://digital.gov/communities/">community</a>, <a href="https://digital.gov/guides/">guide</a>, or <a href="https://digital.gov/resources/">resource</a> landing pages) are reviewed and kept up to date under the TTS content policy for accuracy and relevance on a quarterly basis.</td>
 </tr>
-
 <tr>
 <th scope="row">Topic pages</th>
 <td>Topic pages are evaluated regularly for accuracy and relevance. We may remove topics if they no longer meet user needs.</td>
 </tr>
-
 <tr>
 <th scope="row">Event pages</th>
 <td>Event pages are reviewed and updated, or removed 5 years after the event date. Any relevant and useful content from these events, such as event recordings, is repurposed.</td>
 </tr>
-
 <tr>
 <th scope="row">Resources and guides</th>
 <td>Content is reviewed and updated, or removed 5 years after the publication date.</td>
 </tr>
-
 <tr>
 <th scope="row">News (blogs)</th>
 <td>Content is reviewed and updated, or removed 5 years after the publication date.</td>
 </tr>
-
 <tr>
 <th scope="row">Author pages</th>
 <td>Biographical pages of authors who have contributed to the site are removed along with their last remaining blog post, event, or other contribution in conjunction with the other content types.</td>
