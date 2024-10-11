@@ -34,6 +34,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: CO8_MOTZJsU
+youtube_title: "Air Force COOL and 18F: Partnership and Flight Operations Software Agile Lessons Learned"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

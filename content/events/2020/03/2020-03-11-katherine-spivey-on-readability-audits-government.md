@@ -34,6 +34,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: xuPLXDXbk_4
+youtube_title: "Katherine Spivey on Readability Audits of Government Websites"
 
 # Venue
 venue_name: "General Services Administration"

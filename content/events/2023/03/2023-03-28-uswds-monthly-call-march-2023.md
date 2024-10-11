@@ -17,6 +17,7 @@ date: 2023-03-28 14:00:00 -0500
 event_platform: zoom
 # YouTube ID
 youtube_id: ceRXbLwEgD0
+youtube_title: "Making sense: Cognition, perception, and design"
 ---
 
 {{< asset-static file="uswds-monthly-call-march-2023.pptx" label="View the slides (PowerPoint presentation, 1.8 MB, 56 pages)" >}}

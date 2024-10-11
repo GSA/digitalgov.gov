@@ -31,6 +31,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: H0YMQe4rZug
+youtube_title: "DAP: Analytics Case Study Part 1: Assessment"
 
 # Make it better ♥
 

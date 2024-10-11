@@ -18,6 +18,7 @@ event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-may-open-office-hours-registration-62047830732
 youtube_id: lPoDjkofV0Q
+youtube_title: "USWDS Monthly Call: Building & Customizing within the Design System (May 2019)"
 
 ---
 

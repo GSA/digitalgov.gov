@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: iKBCY7tfxSY
+youtube_title: "DAP Learning Series: Writing custom javascript for tag managers"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

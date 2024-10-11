@@ -32,6 +32,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: 7L3m26puP-M
+youtube_title: "Intro to Kanban, Part 1"
 
 # Primary Image (for social media)
 primary_image: "agile-kanban-part-1"

@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: G8j815ryxr0
+youtube_title: "Dalia El-Shimy on Mixed Methods Design Research"
 
 # Make it better ♥
 

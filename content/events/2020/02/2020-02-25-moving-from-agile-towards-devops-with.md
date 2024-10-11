@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: ubhn8xUQYVs
+youtube_title: "Moving From Agile Towards DevOps With a Small Team"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

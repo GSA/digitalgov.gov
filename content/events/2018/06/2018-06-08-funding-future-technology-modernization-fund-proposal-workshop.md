@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: 0UsrfJ9oiM4
+youtube_title: "Funding the Future: Technology Modernization Fund Proposal Workshop"
 
 # Primary Image (for social media)
 primary_image: "emerging-tech-tmf"

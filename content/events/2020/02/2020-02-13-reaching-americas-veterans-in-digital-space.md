@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: HZljlUjJBmc
+youtube_title: "Reaching America’s Veterans in the Digital Space"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

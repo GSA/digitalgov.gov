@@ -20,6 +20,7 @@ event_platform: zoom
 primary_image: "2023-uswds-monthly-call-may-title-card"
 # YouTube ID
 youtube_id: SG6Bbv-uKeg
+youtube_title: "Real-world accessibility: USWDS hears from Eric Yarberry of World Services for the Blind"
 ---
 
 {{< asset-static file="uswds-monthly-call-may-2023.pptx" label="View the slides (PowerPoint presentation, 5.4 MB, 23 pages)" >}}

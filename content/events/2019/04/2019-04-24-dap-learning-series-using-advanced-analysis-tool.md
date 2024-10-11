@@ -25,6 +25,7 @@ authors:
 
 # YouTube ID
 youtube_id: OoAisdLNhe0
+youtube_title: "DAP Learning Series: Using the Advanced Analysis Tool"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
