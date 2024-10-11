@@ -4,7 +4,6 @@ date: 2016-04-06 14:46:02 -0400
 title: Three Teams Using the Draft U.S. Web Design Standards Talk about Their Experiences
 summary: "In the five months since we launched the Draft U.S. Web Design Standards, over a dozen government websites have begun to use it."
 
-redirectto: https://digital.gov/topics/design/
 expirydate: "2024-10-09"
 
 authors:
