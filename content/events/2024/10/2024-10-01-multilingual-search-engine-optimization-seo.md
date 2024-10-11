@@ -14,7 +14,7 @@ event_platform: zoom
 primary_image: "2024-09-11-multilingual-webinar-seo-title-card"
 
 ---
-{{< asset-static file="2024-10-10-multilingual-webinar-slides-pptx" label="View the slides (PowerPoint presentation, 6.5 MB, 28 pages)" >}}
+{{< asset-static file="2024-10-10-multilingual-webinar-slides.pptx" label="View the slides (PowerPoint presentation, 6.5 MB, 28 pages)" >}}
 
 Search engine optimization (SEO) involves optimizing websites and their pages to be indexed and surfaced by search engines. 
 
