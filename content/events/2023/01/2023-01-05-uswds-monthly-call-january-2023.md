@@ -20,6 +20,7 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-jan-title-card
 # YouTube ID
 youtube_id: JApBVTwZans
+youtube_title: "Answering your most-asked questions about the U.S. Web Design System"
 ---
 
 {{< asset-static file="uswds-monthly-call-january-2023.pptx" label="View the slides (PowerPoint presentation, 1.9 MB, 60 pages)" >}}

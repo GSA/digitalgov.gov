@@ -22,6 +22,7 @@ topics:
 
 # YouTube ID
 youtube_id: -AVRn7uOjjc
+youtube_title: "SocialGov Community of Practice Virtual Spring Session 2020"
 
 # Make it better ♥
 

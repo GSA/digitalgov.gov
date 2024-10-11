@@ -30,6 +30,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: 2sOwbF7azGA
+youtube_title: "Why I Love My Agile Team!"
 
 # Make it better ♥
 

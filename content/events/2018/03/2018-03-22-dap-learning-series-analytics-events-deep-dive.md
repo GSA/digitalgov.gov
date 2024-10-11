@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: GkAme6gCeDw
+youtube_title: "DAP Learning Series: A Deep Dive into Analytics Events"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:

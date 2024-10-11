@@ -33,6 +33,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: 3tdj8SktL1Y
+youtube_title: "Analytics Lessons From Canada.ca"
 
 # Make it better ♥
 

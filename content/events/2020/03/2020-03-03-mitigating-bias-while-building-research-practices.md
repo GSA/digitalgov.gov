@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: fHTQcDNuXR8
+youtube_title: "Mitigating Bias While Building Research Practices"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

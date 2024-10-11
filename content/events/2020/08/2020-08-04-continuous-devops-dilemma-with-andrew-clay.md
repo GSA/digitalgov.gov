@@ -31,6 +31,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: ZT2vH1BgRGM
+youtube_title: "The Continuous DevOps Dilemma with Andrew Clay Shafer"
 
 # Make it better ♥
 ---

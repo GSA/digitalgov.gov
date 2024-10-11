@@ -21,6 +21,7 @@ slug: get-your-idea-funded-through-gsas-10x-program
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: eRymq96-Mng
+youtube_title: "Get Your Idea Funded Through GSA’s 10x Program"
 
 ---
 

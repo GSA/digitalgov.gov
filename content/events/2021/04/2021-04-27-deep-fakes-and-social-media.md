@@ -26,6 +26,7 @@ slug: deep-fakes-and-social-media
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: 5scPC80llnc
+youtube_title: "Deep Fakes and Social Media"
 
 ---
 

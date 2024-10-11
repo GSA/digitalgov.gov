@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: Cmxv70Tn2hk
+youtube_title: "How to Develop an Agency Brand Voice That Connects With Customers Online"
 
 # Primary Image (for social media)
 primary_image: "plain-language"

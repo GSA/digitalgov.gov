@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: 3jY7z9gYG5Y
+youtube_title: "Ginny Redish: How to Collaborate on Strategies"
 
 # Primary Image (for social media)
 primary_image: "plainlanguage-ginny-redish-card"

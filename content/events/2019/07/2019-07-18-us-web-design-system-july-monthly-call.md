@@ -21,6 +21,7 @@ event_organizer: DigitalGov University
 host: U.S. Web Design System, DigitalGov University
 registration_url: https://www.eventbrite.com/e/us-web-design-system-july-monthly-call-registration-63426916615
 youtube_id: 0Yp_tV7lf18
+youtube_title: "USWDS Monthly Call: Migrating Your Site to USWDS 2.0 (Jul 2019)"
 
 ---
 

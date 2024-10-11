@@ -19,6 +19,7 @@ slug: uswds-monthly-call-march-2024
 event_platform: zoom
 primary_image: 2024-uswds-monthly-call-march-title-card
 youtube_id: M2_SVDc_eCM
+youtube_title: "How to build with U.S. Web Design System tools (2024)"
 ---
 
 {{< asset-static file="uswds-monthly-call-march-2024.pptx" label="View the slides (Powerpoint presentation, 1.9 MB, 20 slides)" >}}

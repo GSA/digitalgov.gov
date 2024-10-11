@@ -1,8 +1,8 @@
 ---
 url: /policies/
 date: 2013-12-19 12:58:33 -0400
-title: Policies
-summary: 'Policies for DigitalGov'
+title: "Policies"
+summary: "Policies for DigitalGov"
 aliases:
   - /about/policies/
 
@@ -14,7 +14,7 @@ The U.S. General Services Administration (GSA) will not share or sell any of you
 
 ### Cookies and analytics
 
-DigitalGov uses single-session cookies to serve technical purposes, like providing seamless navigation through the platform. These cookies do not permanently record data, and they are not stored on your computer&#8217;s hard drive. DigitalGov&#8217;s session cookies are only available during an active browser session. When you close your browser, the session cookie disappears.
+DigitalGov uses single-session cookies to serve technical purposes, like providing seamless navigation through the platform. These cookies do not permanently record data, and they are not stored on your computer&#8217;s hard drive. DigitalGov's session cookies are only available during an active browser session. When you close your browser, the session cookie disappears.
 
 DigitalGov also uses multi-session cookies to help us understand how people use the platform, and how we can make it better. We use Google Analytics Web analytics software. We do not collect any personally identifiable information (PII). Traffic statistics are collected anonymously and aggregated, and no information is traceable to any specific individual. [You can change the setting of your browser to block cookies by following these instructions](https://www.usa.gov/optout-instructions).
 
