@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: hbx8Yrj3zS0
+youtube_title: "DAP Learning Series: A Deep Dive Into Behavior Reports"
 
 # Make it better ♥
 ---

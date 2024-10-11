@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: Kx1kSJ4y-7s
+youtube_title: "Federal Crowdsourcing Webinar Series, Episode 1: Citizen Science"
 
 # Primary Image (for social media)
 primary_image: "challengegov-card-episode-1"

@@ -20,6 +20,7 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-june-title-card
 # YouTube ID
 youtube_id: UxC-a48Vn7w
+youtube_title: "Developing and evaluating content for manual accessibility and user experience (UX) tests"
 ---
 
 {{< asset-static file="uswds-monthly-call-june-2023.pptx" label="View the slides (PowerPoint presentation, 2.0 MB, 79 pages)" >}}

@@ -21,6 +21,7 @@ event_organizer: DigitalGov University
 host: U.S. Web Design System, DigitalGov University
 registration_url: https://www.eventbrite.com/e/us-web-design-system-june-monthly-call-registration-63426163362
 youtube_id: l1u3umf5YXo
+youtube_title: "USWDS Monthly Call: Design Tokens (Jun 2019)"
 
 ---
 

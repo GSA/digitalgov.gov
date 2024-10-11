@@ -24,6 +24,7 @@ event_organizer: DigitalGov University
 host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/us-web-design-system-september-monthly-call-registration-70228448179
 youtube_id: 48tNlM9XQsM
+youtube_title: "USWDS Monthly Call: Components and Updates to USWDS 2.0 (September 2019)"
 
 ---
 

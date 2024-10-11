@@ -22,6 +22,7 @@ slug: uswds-monthly-call-november-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: r0H6CiP-FN0
+youtube_title: "USWDS Monthly Call: What's Next? and Emergency Response Research Findings (Nov 2020)"
 primary_image: uswds-2-illio-feature-image
 
 ---

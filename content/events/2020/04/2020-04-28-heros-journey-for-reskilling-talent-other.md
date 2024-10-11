@@ -41,6 +41,7 @@ authors:
   
 # YouTube ID
 youtube_id: -WOZq09cwMo
+youtube_title: "The Hero’s Journey for Re-Skilling Talent (And Other Digital Adventures)"
 
 # Make it better ♥
 

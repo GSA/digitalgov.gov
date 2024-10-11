@@ -32,6 +32,7 @@ authors:
 
 # YouTube ID
 youtube_id: F-WYipB6M7s
+youtube_title: "DAP Learning Series: The YouTube Event Option"
 
 # Make it better ♥
 

@@ -26,6 +26,7 @@ slug: uswds-monthly-call-october-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: Aw5ovySXf6o
+youtube_title: "USWDS Monthly Call: Deceptive Design Patterns [or Dark Patterns] (Oct 2020)"
 primary_image: uswds-logo
 ---
 {{< img-right src="uswds-logo" alt="" >}}

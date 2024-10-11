@@ -32,6 +32,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: u7LvthwLARU
+youtube_title: "Analytics Case Study Part 2: Analysis"
 
 # Make it better ♥
 

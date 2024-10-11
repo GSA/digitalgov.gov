@@ -36,6 +36,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: WrZaElp3u-4
+youtube_title: "How USAGov en Español uses quantitative and qualitative data to meet the needs of its audience"
 
 # Primary Image (for social media)
 primary_image: "usagov-espanol-logo"

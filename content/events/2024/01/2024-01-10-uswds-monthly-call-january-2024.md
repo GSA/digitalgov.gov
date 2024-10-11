@@ -19,6 +19,7 @@ slug: uswds-monthly-call-january-2024
 event_platform: zoom
 primary_image: 2024-uswds-monthly-call-jan-title-card
 youtube_id: xP4IWCdzWmA
+youtube_title: "Component-based accessibility tests for the U.S. Web Design System"
 ---
 
 {{< asset-static file="uswds-monthly-call-january-2024.pptx" label="View the slides (PowerPoint presentation, 7.8 MB, 87 pages)" >}}

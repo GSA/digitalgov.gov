@@ -134,76 +134,20 @@ a.btn-sm {
   }
 }
 
-.actions {
-  @include u-margin-bottom(3);
-  @include u-display("flex");
+.dg-register {
+  display: flex;
+  margin-bottom: units(3);
+}
 
-  .btn {
-    @include u-radius(0);
-    @include u-width("auto");
-    @include u-font("sans", "md");
-    @include u-padding-x(4);
-  }
-
-  .btn-register {
-    @include u-text("light");
-    @include u-text("uppercase");
-  }
-
-  .btn-details {
-    @include u-bg("indigo-70");
-  }
-
-  .addtocalendar {
-    @include u-display("inline-block");
-
-    var {
-      @include u-display("none");
-    }
-
-    a {
-      @include u-padding-x(4);
-      @include u-padding-y("105");
-      @include u-padding-bottom(2);
-      @include u-bg("indigo-80");
-      @include u-display("block");
-      @include u-text("white");
-      @include u-text("center");
-      @include u-text("no-underline");
-      @include u-font("sans", "md");
-      @include u-text("light");
-    }
-
-    ul {
-      border: none;
-      box-shadow: 0 0 5px #aaa;
-      width: 162px;
-
-      @include u-padding(0);
-
-      li {
-        @include u-margin(0);
-        @include u-text("primary-darkest");
-
-        background: none;
-        list-style-type: none;
-
-        a {
-          @include u-padding-y(1);
-          @include u-padding-x("105");
-          @include u-text("indigo-80");
-          @include u-text("normal");
-          @include u-font("sans", "xs");
-          @include u-bg("indigo-10");
-
-          &:hover {
-            @include u-bg("indigo-50");
-            @include u-text("gray-1");
-          }
-        }
-      }
-    }
-  }
+a.dg-register__button {
+  border-radius: 0;
+  font-family: font-family("sans");
+  font-size: font-size("sans", "md");
+  font-weight: font-weight(200);
+  padding-left: units(4);
+  padding-right: units(4);
+  text-transform: uppercase;
+  width: auto;
 }
 
 .actions-stacked {

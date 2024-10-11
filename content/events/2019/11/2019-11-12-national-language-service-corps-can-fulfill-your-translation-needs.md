@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: j9WrjjQyOSk
+youtube_title: "The National Language Service Corps Can Fulfill Your Translation Needs"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

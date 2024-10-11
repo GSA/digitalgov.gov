@@ -31,6 +31,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: X8ogMVm0mUc
+youtube_title: "Making Remote Work Work for Journey Mapping"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

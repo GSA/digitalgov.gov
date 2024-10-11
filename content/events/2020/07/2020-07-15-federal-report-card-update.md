@@ -31,6 +31,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: L-J6yCWzum4
+youtube_title: "Federal Report Card Update"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

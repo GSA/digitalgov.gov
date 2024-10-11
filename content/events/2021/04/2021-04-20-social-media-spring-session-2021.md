@@ -26,6 +26,7 @@ slug: social-media-spring-session-2021
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: Wj5SP_Ap0n8
+youtube_title: "Social Media Spring Session 2021: Day 1"
 
 ---
 
