@@ -36,31 +36,31 @@ We may make exceptions outside of the established schedule if web analytics, acc
   </thead>
   <tbody>
 <tr>
-<th scope="row">Dynamic homepage</th>
+<th scope="row"><strong>Dynamic homepage</strong></th>
 <td>The Digital.gov <a href="https://digital.gov">homepage</a> is reviewed and kept up to date under the Technology Transformation Services (TTS) content policy for accuracy and relevance on a quarterly basis.</td>
 </tr>
 <tr>
-<th scope="row">Landing pages</th>
+<th scope="row"><strong>Landing pages</strong></th>
 <td>Key architectural landing pages (such as <a href="https://digital.gov/communities/">community</a>, <a href="https://digital.gov/guides/">guide</a>, or <a href="https://digital.gov/resources/">resource</a> landing pages) are reviewed and kept up to date under the TTS content policy for accuracy and relevance on a quarterly basis.</td>
 </tr>
 <tr>
-<th scope="row">Topic pages</th>
+<th scope="row"><strong>Topic pages</strong></th>
 <td>Topic pages are evaluated regularly for accuracy and relevance. We may remove topics if they no longer meet user needs.</td>
 </tr>
 <tr>
-<th scope="row">Event pages</th>
+<th scope="row"><strong>Event pages</strong></th>
 <td>Event pages are reviewed and updated, or removed 5 years after the event date. Any relevant and useful content from these events, such as event recordings, is repurposed.</td>
 </tr>
 <tr>
-<th scope="row">Resources and guides</th>
+<th scope="row"><strong>Resources and guides</strong></th>
 <td>Content is reviewed and updated, or removed 5 years after the publication date.</td>
 </tr>
 <tr>
-<th scope="row">News (blogs)</th>
+<th scope="row"><strong>News (blogs)</strong></th>
 <td>Content is reviewed and updated, or removed 5 years after the publication date.</td>
 </tr>
 <tr>
-<th scope="row">Author pages</th>
+<th scope="row"><strong>Author pages</strong></th>
 <td>Biographical pages of authors who have contributed to the site are removed along with their last remaining blog post, event, or other contribution in conjunction with the other content types.</td>
 </tr>
   </tbody>
