@@ -42,13 +42,17 @@ After speaking with communities, the team learned that the communities’ needs 
 
 There can often be the assumption that change-work is the responsibility of the particular agency or team that is leading a project. This effort requires collaboration both across government and with external partners; it cannot be done by government alone. This looks like working across agency silos and also with partners outside of government, including the communities that are being impacted by the work. 
 
+{{< img-right src="life-experiences-project-facing-financial-shock" >}}
+
 On the [Facing a Financial Shock project](https://www.performance.gov/cx/life-experiences/facing-a-financial-shock/), the core services targeted for improvement were state- and county-administered, so the federal agencies could not do the work alone. The federal team needed to engage state benefit agencies and nonprofits to surface pain points, common practices, and work on solutions for benefit delivery at the state level. The team did so through [working groups](https://www.aspeninstitute.org/blog-posts/capturing-the-impact-of-public-benefits-coordination/), which provided a communication and co-design space to identify actions and collaborate on delivering them. Not only did this approach help produce and consolidate new strategies for states, but it also helped reduce silos across the industry. 
 
 The [Birth of a Child Alumni Peer Navigator Services pilot](https://www.performance.gov/cx/life-experiences/having-a-child-and-early-childhood/) was developed in direct partnership with agency partners at the Health Resources and Services Administration, and community-based organizations that are grantees of the [Healthy Start](https://mchb.hrsa.gov/programs-impact/healthy-start) program. This meant that the pilot had buy-in and trust at the community level, and encouraged community ownership over the project. Strong agency and community partnerships are also critical for scaling and sustaining pilot work.
 
 ## Lesson 3. Keep the end user in mind
 
-Finally, embodying a culture of customer experience means orienting teams around a single, steadfast goal: keeping the end user in mind. For government teams, that can mean supporting user research with funding, project design, and personnel (such as designers and product managers that advocate for users in their work). 
+Finally, embodying a culture of customer experience means orienting teams around a single, steadfast goal: keeping the end user in mind. For government teams, that can mean supporting user research with funding, project design, and personnel (such as designers and product managers that advocate for users in their work).
+
+{{< img-right src="life-experiences-project-having-a-child-and-early-childhood" >}}
 
 The Birth of a Child team was able to prioritize in-person site visits to speak with communities in the creation of their Alumni Peer Navigator Services pilot. In addition, they also [invited community members to directly give input](https://www.usds.gov/news-and-blog/solutions-by-families-for-families-4b8150) into the team’s project artifacts — and participate in the design of the project as much as was feasible. Doing so allowed the team to accurately define and shape the problem they were trying to solve for, and give them relationships they could rely on for further feedback. 
 
