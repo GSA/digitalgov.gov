@@ -4,7 +4,7 @@
 
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
-title: "Join the Plain Language Community"
+title: Join the Plain Language Community
 summary: "Promote the use of plain language to provide better service to the public."
 
 deck: Share and learn with plain language practitioners.
