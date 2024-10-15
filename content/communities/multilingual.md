@@ -5,7 +5,6 @@
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: Join the Multilingual Community
-summary: "Expand and improve digital content in languages other than English."
 
 deck: Share and learn with multilingual practitioners.
 

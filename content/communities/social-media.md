@@ -5,7 +5,6 @@
 slug: social-media
 date: 2019-12-12 19:00:00 -0500
 title: Join the Social Media Community
-summary: "Improve social media outreach and performance."
 
 deck: Share and learn with social media practitioners.
 

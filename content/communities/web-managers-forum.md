@@ -5,7 +5,6 @@
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: Join the Web Managers Community
-summary: "Create a better online experience for the public alongside government web content managers."
 
 deck: Share and learn with web and digital services practitioners.
 
