@@ -5,6 +5,7 @@
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
 title: Join the Web Managers Community
+summary: ""
 
 deck: Share and learn with web and digital services practitioners.
 

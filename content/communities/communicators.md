@@ -10,6 +10,7 @@ dg_acronym: FCN
 dg_logo: communities-communicators.svg
 date: 2021-02-24 18:49:00 -0500
 title: Join the Communicators Community
+summary: ""
 
 deck: Share and learn with communications and public affairs practitioners.
 

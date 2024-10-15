@@ -5,6 +5,7 @@
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: Join the Plain Language Community
+summary: ""
 
 deck: Share and learn with plain language practitioners.
 

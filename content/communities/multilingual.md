@@ -5,6 +5,7 @@
 slug: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: Join the Multilingual Community
+summary: ""
 
 deck: Share and learn with multilingual practitioners.
 

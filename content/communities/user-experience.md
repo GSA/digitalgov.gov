@@ -5,6 +5,7 @@
 slug: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: Join the User Experience Community
+summary: ""
 
 deck: Share and learn with user experience and design practitioners.
 
