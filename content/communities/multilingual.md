@@ -57,5 +57,3 @@ Government professionals from all levels come together in this community to expa
 Become a member to meet the growing demand for government information and services in other languages.
 
 Digital.gov fosters this unique community by providing spaces designed to collaborate to solve common issues, offer translation best practices, define terminology, and be a resource to each other. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
-
-{{< featured-resource resourcePath="topics/multilingual" >}}

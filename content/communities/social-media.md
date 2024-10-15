@@ -51,5 +51,3 @@ Government professionals from all levels come together in this community to elev
 Become a member to spark new ideas, connect, and collaborate.
 
 Digital.gov fosters this vibrant community by providing spaces designed to empower members on their digital and social media journeys. Remember, when participating in this community, you must follow Digital.gov community guidelines.
-
-{{< featured-resource resourcePath="topics/social-media" >}}

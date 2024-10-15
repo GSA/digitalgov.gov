@@ -54,5 +54,3 @@ Government professionals from all levels come together in this community to crea
 Become a member to share and learn how to produce efficient, effective and useful user experiences and technologies. 
 
 Digital.gov fosters this lively community by providing spaces to help members connect, learn, and grow on their user experience journeys. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
-
-{{< featured-resource resourcePath="topics/user-experience" >}}

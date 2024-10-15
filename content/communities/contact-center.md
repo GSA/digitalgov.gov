@@ -47,5 +47,3 @@ Government professionals from all levels come together in this community to impr
 Become a member to explore methods of service delivery that improve customer experience in government contact centers.
 
 Digital.gov fosters this passionate community by providing spaces designed to host educational forums and discussions. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
-
-{{< featured-resource resourcePath="topics/contact-centers" >}}
