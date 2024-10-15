@@ -2,6 +2,7 @@
 slug: contact-center
 date: 2024-06-28 16:36:00 -0500
 title: Join the Contact Center Community 
+summary: "Explore methods of service delivery that improve customer experience in government contact centers."
 deck: Share and learn with contact center practitioners.
 
 # Alias Redirects: Enter the paths of the old URLs that you want redirected to this page.

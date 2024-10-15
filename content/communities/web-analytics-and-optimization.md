@@ -2,6 +2,8 @@
 slug: web-analytics-and-optimization
 date: 2021-07-07 09:13:00 -0500
 title: "Join the Web Analytics Community "
+summary: "Make better decisions using web analytics and other optimization strategies."
+
 deck: Share and learn with web analytics and optimization practitioners.
 
 # See all topics at https://digital.gov/topics
