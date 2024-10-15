@@ -53,12 +53,12 @@ community_list:
 kicker: "Communities of practice"
 
 primary_image: "communities-card-pl"
-
 ---
-Government professionals from all levels come together in this community to promote the use of plain language to provide better services to the public. 
 
-Become a member to collaborate with colleagues who are dedicated to the idea that citizens deserve clear communications from government. 
+Government professionals from all levels come together in this community to promote the use of plain language to provide better services to the public.
+
+Become a member to collaborate with colleagues who are dedicated to the idea that citizens deserve clear communications from government.
 
 Digital.gov fosters this engaging community by providing spaces designed to empower members on their communication and plain language journeys. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-{{< featured-resource resourcePath="topics/plain-language" >}}
+{{< featured-resource link="topics/plain-language" >}}

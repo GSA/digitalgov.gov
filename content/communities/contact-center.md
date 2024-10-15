@@ -1,7 +1,7 @@
 ---
 slug: contact-center
 date: 2024-06-28 16:36:00 -0500
-title: Join the Contact Center Community 
+title: Join the Contact Center Community
 summary: "Explore methods of service delivery that improve customer experience in government contact centers."
 deck: Share and learn with contact center practitioners.
 
@@ -42,10 +42,11 @@ kicker: "Communities of practice"
 
 primary_image: "communities-card-contact-center"
 ---
+
 Government professionals from all levels come together in this community to improve government contact centers’ performance, experience, and efficiency.
 
 Become a member to explore methods of service delivery that improve customer experience in government contact centers.
 
 Digital.gov fosters this passionate community by providing spaces designed to host educational forums and discussions. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-{{< featured-resource resourcePath="topics/contact-centers" >}}
+{{< featured-resource link="topics/contact-centers" >}}

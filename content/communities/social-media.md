@@ -40,16 +40,16 @@ community_list:
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 1,509
     join_cop_button: "Social Media community members"
-    
+
 kicker: "Communities of Practice"
 
 primary_image: "communities-card-sm"
-
 ---
-Government professionals from all levels come together in this community to elevate social media content, outreach, and performance. 
+
+Government professionals from all levels come together in this community to elevate social media content, outreach, and performance.
 
 Become a member to spark new ideas, connect, and collaborate.
 
 Digital.gov fosters this vibrant community by providing spaces designed to empower members on their digital and social media journeys. Remember, when participating in this community, you must follow Digital.gov community guidelines.
 
-{{< featured-resource resourcePath="topics/social-media" >}}
+{{< featured-resource link="topics/social-media" >}}
