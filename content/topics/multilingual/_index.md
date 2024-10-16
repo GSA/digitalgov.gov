@@ -21,13 +21,13 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency"
-  link: "https://www.federalregister.gov/documents/2000/08/16/00-20938/improving-access-to-services-for-persons-with-limited-english-proficiency"
+  title: "Department of Justice 2022 Memo Reaffirming the Mandates of Executive Order 13166"
+  link: "https://digital.gov/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"
 
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"
+    - link: "/resources/introduction-to-multilingual-glossaries/"
 
 # Featured community to display at the top of the page
 featured_communities:
