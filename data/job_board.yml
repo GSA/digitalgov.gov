@@ -37,7 +37,7 @@
   description: >
           This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
   open_date: 2024-09-26
-  close_date: 2024-10-11
+  close_date: 2024-10-18
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608400
   cop_topics:
     - Communicators
@@ -49,44 +49,11 @@
   description: >
           This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of public affairs and communication activities. The incumbent will be responsible for writing and scheduling social media content, creating engaging graphics and videos, collecting and analyzing social media data, and representing OCCO on various teams.
   open_date: 2024-09-26
-  close_date: 2024-10-11
+  close_date: 2024-10-18
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811608700
   cop_topics:
     - Communicators
     - Social Media
-
-- title: Writer-Editor
-  department: Department of the Treasury
-  location: Multiple Locations
-  description: >
-          This position is located at Office of the Inspector General for Tax Admin,Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
-  open_date: 2024-09-30
-  close_date: 2024-10-12
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810108600
-  cop_topics:
-    - Communicators
-
-- title: Writer-Editor
-  department: Department of the Treasury
-  location: Multiple Locations
-  description: >
-          This position is located at Office of the Inspector General for Tax Admin, Office of Audit. As a Writer-Editor, you will be responsible for writing, reviewing, editing and managing written materials such as audit reports, Congressional presentations, and publications that interpret and explain highly complex and sometimes sensitive issues about the administration of the IRS tax laws.
-  open_date: 2024-09-30
-  close_date: 2024-10-12
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810107300
-  cop_topics:
-    - Communicators
-
-- title: Translator (Recent Graduate)
-  department: Department of Health and Human Services
-  location: Atlanta, Georgia
-  description: >
-          As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
-  open_date: 2024-10-02
-  close_date: 2024-10-10
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812482600
-  cop_topics:
-    - Multilingual
 
 - title: Public Affairs Specialist (Web Content Manager)
   department: Department of Agriculture
@@ -123,38 +90,16 @@
   cop_topics:
     - Social Media
 
-- title: Supervisory Information Technology Specialist (INET)
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          As a Supervisory Information Technology Specialist (INET), you will serve as the branch chief and program manager. Location of position:: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS), Public Experience Division. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-10-07
-  close_date: 2024-10-12
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812974600
-  cop_topics:
-    - Web Managers
-
 - title: Program Analyst (Data Analytics)
   department: General Services Administration
   location: Anywhere in the U.S. (remote job)
   description: >
           This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Office of Customer and Stakeholder Engagement (CASE), Office of Analysis & Business System, Analytics & Data Operations Division, Data Operations Branch. Location of position: This is a virtual position and duty location of this position will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
   open_date: 2024-09-30
-  close_date: 2024-10-11
+  close_date: 2024-10-17
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811995400
   cop_topics:
     - Web Analytics
-
-- title: Visual Information Specialist
-  department: General Services Administration
-  location: GSA - US Locations
-  description: >
-          The Office of Strategic Communication is responsible for using communication to help the agency meet its mission and business goals. Location of position: GSA, Office of Strategic Communication. Selectee(s) will be expected to report to a GSA Regional Office/Central Office location listed in the Requirements section below. The location of this position will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-09-25
-  close_date: 2024-10-10
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/811187000
-  cop_topics:
-    - Communicators
 
 - title: Digital Communications Specialist (Product Owner)
   department: Department of Commerce
@@ -168,4 +113,52 @@
     - Communicators
     - Web Analytics
     - Web Managers
+
+- title: Lead Public Affairs Specialist
+  department: Department of Energy
+  location: Washington, District of Columbia
+  description: >
+          The Federal Energy Regulatory Commission (FERC) is ranked within the top 5 mid-size agencies through the Partnership for Public Service’s Best Places to Work in the Federal Government Rankings! This Lead Public Affairs Specialist position is located in the Office of Public Participation. For more information visit: Office of Public Participation (OPP).
+  open_date: 2024-10-08
+  close_date: 2024-10-18
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/813193800
+  cop_topics:
+    - Plain Language
+    - Social Media
+
+- title: IT Specialist (APPSW)
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications; serves as Section 508 Coordinator.
+  open_date: 2024-10-04
+  close_date: 2024-10-19
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812557700
+  cop_topics:
+    - User Experience
+
+- title: IT Specialist (APPSW)
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications; serves as Section 508 Coordinator.
+  open_date: 2024-10-04
+  close_date: 2024-10-19
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812557300
+  cop_topics:
+    - User Experience
+
+- title: Content Developer
+  department: Legislative Branch
+  location: Washington DC, District of Columbia
+  description: >
+          Since 1789, the Office of the Clerk has served as the official record keeper of the U.S. House of Representatives and proudly supports the nonpartisan legislative functions of the institution. The Office of Communications serves all divisions of the Office of the Clerk and other nonpartisan House partners with a wide range of print and digital publications, an innovative approach to problem solving, and exceptional customer service.
+  open_date: 2024-09-18
+  close_date: 2024-11-01
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810320600
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+
 

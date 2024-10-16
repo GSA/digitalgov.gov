@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: LOxxXmCYU_A
+youtube_title: "DevOps Community of Practice Monthly Meeting"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

@@ -19,6 +19,7 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-april-title-card
 # YouTube ID
 youtube_id: d1wPuISaHIg
+youtube_title: "Top tasks: What the U.S. Web Design System team did and what they found."
 ---
 
 {{< asset-static file="uswds-monthly-call-april-2023.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 72 pages)" >}}

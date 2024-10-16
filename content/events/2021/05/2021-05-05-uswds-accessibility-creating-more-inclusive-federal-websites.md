@@ -28,6 +28,7 @@ slug: uswds-accessibility-creating-more-inclusive-federal-websites
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: D-CQtJYBZz0
+youtube_title: "USWDS & Accessibility: Creating More Inclusive Federal Websites (May 2021)"
 
 ---
 

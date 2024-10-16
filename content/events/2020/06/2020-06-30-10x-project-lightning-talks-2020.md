@@ -38,6 +38,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: lnQLt6DXoW4
+youtube_title: "10x Project Lightning Talks: 2020"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

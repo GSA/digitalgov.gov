@@ -32,6 +32,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: MzAuMy6LIjY
+youtube_title: "Federal Crowdsourcing Webinar Series Episode 7: Crowdsourcing for Code"
 
 # Primary Image (for social media)
 primary_image: "challenge-card-episode-7"

@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: AT-KLe47HKo
+youtube_title: "DAP Learning Series: A Deep Dive Into Audience Reports"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

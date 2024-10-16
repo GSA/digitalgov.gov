@@ -31,6 +31,7 @@ event_platform:
 
 # YouTube ID
 youtube_id: iTEI1JTHt_Q
+youtube_title: "USWDS Monthly Call: Answering the Hardest USWDS Questions (Dec 2019)"
 
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"

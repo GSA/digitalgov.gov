@@ -21,6 +21,7 @@ slug: tag-managers-part-1-the-data-layer
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: 4syWFTvssSY
+youtube_title: "Tag Managers Part 1: The Data Layer"
 
 ---
 

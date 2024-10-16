@@ -24,6 +24,7 @@ slug: uswds-monthly-call-december-2020
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: OhtiTfKAIRw
+youtube_title: "USWDS Monthly Call: Emergency Components (Dec 2020)"
 
 # Primary Image (for social media)
 primary_image: "uswds-dec-call"

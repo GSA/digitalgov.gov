@@ -35,6 +35,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: lpf6rA1OzzI
+youtube_title: "Analytics Case Study Part 3 Action"
 
 # Make it better ♥
 

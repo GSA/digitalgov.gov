@@ -34,6 +34,7 @@ event_platform: adobe_connect
 
 # YouTube ID
 youtube_id: tFkN0s7UWcE
+youtube_title: "The Intersection Between Plain Language and 508 Compliance"
 
 # Make it better ♥
 

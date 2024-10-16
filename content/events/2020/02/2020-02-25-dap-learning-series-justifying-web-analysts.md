@@ -32,6 +32,7 @@ authors:
 
 # YouTube ID
 youtube_id: gpWnl6ZZXC0
+youtube_title: "DAP:Justifying the Web Analyst’s Role in Your Organization"
 
 # Make it better ♥
 

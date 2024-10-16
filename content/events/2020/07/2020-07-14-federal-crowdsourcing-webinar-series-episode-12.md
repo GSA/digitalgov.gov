@@ -34,6 +34,7 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: AS0vBQsfvNI
+youtube_title: "Federal Crowdsourcing Webinar Series, Episode 12: How AFWERX Crowdsources an Innovation Culture"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

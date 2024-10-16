@@ -31,6 +31,7 @@ authors:
 
 # YouTube ID
 youtube_id: O7jKHjFPnUc
+youtube_title: "ADAPT MobileGov Webinar Video"
 
 # Primary Image (for social media)
 primary_image: "mobilegov-event"
