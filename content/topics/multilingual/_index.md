@@ -27,7 +27,9 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"
+    - title: "LEP.gov"
+      summary: "Find requirements and resources from the Department of Justice on improving access for people with limited English proficiency."
+      link: "https://www.lep.gov/"
 
 # Featured community to display at the top of the page
 featured_communities:
