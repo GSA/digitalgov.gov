@@ -1,8 +1,8 @@
 ---
 slug: multilingual-digital-content
 date: 2014-07-01 10:00:13 -0400
-title: Multilingual Digital Content
-summary: 'Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience.'
+title: "Multilingual Digital Content"
+summary: "Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This also applies to agency digital content."
 authors:
   - lgodfrey
   - lmartinez
@@ -12,9 +12,9 @@ topics:
 
 ---
 
-{{< legacy-img src="2016/02/600-x-400-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Global internet communication, online messaging and translation concept" caption="" >}}
-
 Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience.
+
+{{< legacy-img src="2016/02/600-x-400-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Global internet communication, online messaging and translation concept." caption="cybrain/iStock/Thinkstock" >}}
 
 ## The need is increasing
 
@@ -32,7 +32,7 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Tools to Make it Happen
 
-{{< legacy-img-right src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}}
+{{< legacy-img-right src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="A translate icon is on a note, pinned to a corkboard." caption="Tashatuvango/iStock/Thinkstock" >}}
 
  * [Top 10 Best Practices for Multilingual Websites]({{< ref "top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
  * [Official Directory of Federal Agency Names in Spanish](http://www.usa.gov/gobiernousa/directorios/federal/index.shtml)
