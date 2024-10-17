@@ -38,7 +38,7 @@ community_list:
     subscribe_email: "sm-cop-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Social Media Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 1,509
+    members: 1,596
     join_cop_button: "Social Media community members"
 
 kicker: "Communities of Practice"

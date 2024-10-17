@@ -15,20 +15,21 @@ summary: "Improve written and verbal communication to make government more effec
 deck: Share and learn with communications and public affairs practitioners.
 
 # See all authors at https://digital.gov/authors
-authors: []
+authors:
 dg_shortname: Communicators
 slug: communicators
 kicker: Communities of practice
 
-primary_image: []
+primary_image:
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 # Enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/federal-communicators-network/
-# Enter the path of the URL that you want redirected to this page
+
 community_list:
   - platform: listserv
     type: government

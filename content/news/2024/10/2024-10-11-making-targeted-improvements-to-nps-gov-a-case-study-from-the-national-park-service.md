@@ -33,7 +33,7 @@ How can we best serve our customers? The only way to really know is to ask them.
 
 The National Park Service’s National Capital Region includes a number of historic, cultural, and natural landmarks — from the Washington Monument and Lincoln Memorial, to Civil War battlefields, to natural areas with hiking and camping. It is also one of the many metropolitan areas in the United States with high-speed internet and wireless access.
 
-Half a billion people each year use the National Parks Service website ([NPS.gov](https://www.nps.gov/)), and the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) is vital for the National Park Service to serve these customers. Through the DAP data, we are better able to understand both basic page statistics and observe long-term trends and changes in user behavior.
+Half a billion people each year use the National Park Service website ([NPS.gov](https://www.nps.gov/)), and the [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) is vital for the National Park Service to serve these customers. Through the DAP data, we are better able to understand both basic page statistics and observe long-term trends and changes in user behavior.
 
 We frequently look at the DAP data for websites of landmarks within the National Capital Region. One goal in the early days of DAP was to gauge the influence of mobile devices. For example, if a large proportion of our traffic was shifting toward mobile devices, how would we need to adapt to that growing market? We also tracked a variety of data points including sessions, pageviews, bounce rate, and sessions and pageviews broken down by age demographics. 
 
