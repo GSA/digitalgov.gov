@@ -22,6 +22,9 @@ aliases:
   - /2015/11/2015-11-17-gsa-gov-refreshed-with-eye-toward-mobile-users/
   - /2015/10/2015-10-05-the-content-corner-content-management-system-considerations/
   - /2015/11/2015-11-10-trends-on-tuesday-5-tips-for-designing-touch-interactions/
+  - /2016/04/06/three-teams-using-the-draft-u-s-web-design-standards-talk-about-their-experiences/
+  - /2016/03/16/making-the-draft-u-s-web-design-standards-better-through-your-feedback/
+  - /2016/03/25/how-to-integrate-the-draft-u-s-web-design-standards-into-existing-projects/
 
 # Weight
 weight: 2
