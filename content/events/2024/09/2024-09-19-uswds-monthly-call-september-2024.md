@@ -31,7 +31,7 @@ primary_image: 2024-uswds-monthly-call-sep-title-card
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead. Here, on-screen, is my avatar: dark hair, blue sweater, collared shirt. As of this month, the avatar now has glasses — matching real life me, who's wearing a blue shirt today, green socks, and red slacks, approximately red-60.
 
-As Jeannie mentioned, we are recording this call, and I'm happy to say we've started to be able to share the recordings of these monthly calls publicly. You can find pretty much everything from the last year's worth of monthly calls — back to January 2023 — on our website, at [designsystem.digital.gov/about/monthly-calls](https://designsystem.digital.gov/about/monthly-calls/). We typically post videos shortly after the monthly call, and we also link out to the slides and the script, hosted at digital.gov. We've also started collecting each month's Q&A as a GitHub discussion linked from the monthly calls page. We've posted a link to our monthly calls page in the chat.
+As Jeannie mentioned, we are recording this call, and I'm happy to say we've started to be able to share the recordings of these monthly calls publicly. You can find pretty much everything from the last year's worth of monthly calls — back to January 2023 — on our website, at [designsystem.digital.gov/about/monthly-calls](https://designsystem.digital.gov/about/monthly-calls/). We typically post videos shortly after the monthly call, and we also link out to the slides and the script, hosted at Digital.gov. We've also started collecting each month's Q&A as a GitHub discussion linked from the monthly calls page. We've posted a link to our monthly calls page in the chat.
 
 We'll be posting other links and references into the chat as we go along. Today we're trying something new when it comes to chats and questions. Today, in your Zoom window you'll find a Q&A button in addition to a chat button, possibly under a "More" button. We'd like to encourage folks to ask questions in the Q&A section instead of the chat. Take a second now to find the Q&A section and open it up. If any member of our team can answer your question in the Q&A section, we'll do so. Otherwise, there'll be some time for questions and answers at the end of the hour. But the chat's _still_ nice too! Let's use the chat for introducing ourselves or for any other comments or discussion. Be sure to introduce yourself in the chat — it's nice to know who's here. It's good to have you here today.
 
@@ -41,9 +41,9 @@ For those of you who find the chat distracting, you’re welcome to close or hid
 
 **Slide 4:** So let's get into it with today’s featured sites. There are a couple exceptional examples today.
 
-**Slide 5:** First, [pbgc.gov](pbgc.gov), a USWDS-powered website for the Pension Benefit Guaranty Corporation. Since 1974, PBGC has protected retirement security and the retirement incomes of over 31 million American workers, retirees, and their families in private sector defined-benefit pension plans. The PBGC homepage features an immediately recognizable USWDS-themed header and navigation in red, white, and blue. The hero image is a complex texture of charts and graphs, with the words FY 2023 Projections Report.
+**Slide 5:** First, [pbgc.gov](https://www.pbgc.gov), a USWDS-powered website for the Pension Benefit Guaranty Corporation. Since 1974, PBGC has protected retirement security and the retirement incomes of over 31 million American workers, retirees, and their families in private sector defined-benefit pension plans. The PBGC homepage features an immediately recognizable USWDS-themed header and navigation in red, white, and blue. The hero image is a complex texture of charts and graphs, with the words FY 2023 Projections Report.
 
-**Slide 6:** And also, a bit closer to home, [tts.gsa.gov](tts.gsa.gov), a new website for the Technology Transformation Services, here at GSA. TTS applies modern methodologies and technologies to improve the lives of the public and public servants. They help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions. The TTS homepage shows a gray-blue hero section with an illustration of a diverse range of people using devices. The text reads, "Every interaction with the public is an opportunity to improve trust in government."
+**Slide 6:** And also, a bit closer to home, [tts.gsa.gov](https://tts.gsa.gov), a new website for the Technology Transformation Services, here at GSA. TTS applies modern methodologies and technologies to improve the lives of the public and public servants. They help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions. The TTS homepage shows a gray-blue hero section with an illustration of a diverse range of people using devices. The text reads, "Every interaction with the public is an opportunity to improve trust in government."
 
 **Slide 7:** Congratulations and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -54,18 +54,14 @@ For those of you who find the chat distracting, you’re welcome to close or hid
 **Slide 10:** As a reminder, here's some of [what's coming in USWDS 3.9.0](https://github.com/uswds/uswds/milestone/154).
 
 * Fixes a tab order bug in the mobile header
-
 * Fixes a keyboard/mouse interaction issue in date picker
-
 * Improves performance of input mask
-
 * Improves legibility of pagination links
-
 * Adds ability to add custom breakpoints to utilities
 
 **Slide 11:** We're also continuing progress with publishing accessibility test pages. We've got three new ones up on the site now: Checkbox, Radio button, and Combo box. We're posting links to these new pages in the chat, _and_ we're working on three new component test pages for next month: TK. So stay tuned for those!
 
-**Slide 12:** Next, it's been a bit over five years since we released USWDS 2.0, and it's finally time to sunset the version 1.0 documentation site. We'd been keeping it around as an archive for the last couple years, but it's not really possible for us to keep it up in perpetuity, preserved in amber, especially while all across government teams are pushed to be extra intentional about the number of active websites they maintain. So, we've targeted the end of the year as a decommissioning date. Please say your goodbyes, and [reach out at our email address](uswds@gsa.gov)
+**Slide 12:** Next, it's been a bit over five years since we released USWDS 2.0, and it's finally time to sunset the version 1.0 documentation site. We'd been keeping it around as an archive for the last couple years, but it's not really possible for us to keep it up in perpetuity, preserved in amber, especially while all across government teams are pushed to be extra intentional about the number of active websites they maintain. So, we've targeted the end of the year as a decommissioning date. Please say your goodbyes, and [reach out at our email address](mailto:uswds@gsa.gov)
  — uswds@gsa.gov — if your team uses any aspect of the 1.0 site in your day-to-day work, and we can try to determine if there's anything we should keep before the site is only available via a resource like archive.org.
 
 **Slide 13:** And finally, checking in on our public discussions. There’s a [new one since last month’s call, which is a proposal for Info or Follow](https://github.com/uswds/uswds/discussions/6047) as a sidebar or portion of a footer, along with a new pattern proposal. We should note we’re still working out the process for patterns to figure out how that should be different from component proposals. This pattern proposal is for [pre-filled information in a form](https://github.com/uswds/uswds/discussions/6053). We have an accessibility discussion about [how you’re all using the range slider](https://github.com/uswds/uswds/discussions/6063), and lastly, the summary of the [questions and answers from the August monthly call](https://github.com/uswds/uswds/discussions/6060).
@@ -103,15 +99,10 @@ And **performance**: How fast do they load? How much code do they require? How a
 **Slide 19:** Those are just a few of our questions — and since it’s nearly impossible to answer all of them with a single research approach, we’re using several methods, such as:
 
 * A **landscape analysis** of design systems that offer Web Components. What are other design systems doing and what might we want to adopt?
-
 * A **survey** to gauge government team size, staffing, tech stacks used, familiarity with certain programming languages, and more.
-
 ***Discussions** with teams that are already building with Web Components.
-
 * Doing one-on-one **interviews** for more in-depth and technical conversations with experts to learn about their experiences and lessons learned.
-
 * And finally, the **beta program** itself, and the feedback and issues you provide.
-
 * We’re nearly done with the landscape analysis and have completed the survey. We’ve started interviewing folks individually and will continue to do that for the next few weeks.
 
 **Slide 20:** So, let’s talk about what we found with our “Government teams and tools survey.” We sent out a survey last month to gauge team structures, resources, and technology of government digital or product teams.
@@ -157,11 +148,8 @@ And finally, now that we know a bit more about the tech stacks used on many gove
 **Slide 33:** We were interested in a few specific categories:
 
 * **Documentation**: What are other design systems prioritizing in terms of Web Component documentation? What types of content do we see?
-
 * **Code structure**: How are other design systems building Web Components? What's their component model? How does content and data get into them? In general, from a developer's perspective: what does a component look like?
-
 * **Code size and performance**: How big are these things? How much data does a browser have to load before the component loads? Is there any commonality around a component's footprint, when comparing similar components?
-
 * and **Distribution**: How are these components getting from the design system to the project using it? How are they loaded onto the page? How straightforward is it to add a component to a project?
 
 **Slide 34:** We’re approaching this landscape analysis in a collaborative way, since there's a lot of subject matter expertise required to collect and understand this information! Our three senior developers have been working with me, and we’re also working closely with our Product Lead (Dan) and Engineering Lead (Matt) on the fed side.
@@ -179,9 +167,7 @@ This effort is still ongoing but here’s what we've learned so far, starting wi
 **Slide 37:** Essentially, documentation helps you do what you need to do. What were we trying to do? Well, we looked at a few tasks:
 
 ***Getting familiar with a component**: Kicking the tires, as it were - understanding how to work with a component as directly as possible.
-
 * **Installing a component into a project**: How do you get it and use it?
-
 * and **Configuring and customizing a component**: How can you make a component do what you need it to do? Either changing what it does or changing how it looks.
 
 **Slide 38:** Let’s talk about the ways documentation can help users get familiar with a component.
@@ -209,26 +195,20 @@ So we took note of how other design systems are documenting their Web Component 
 **Slide 41:** When it comes to documenting an API, there are a number of common ways of interacting with components reflected in documentation.
 
 * **Properties**: Settings passed to component markup. For example, an alert component may have a `variant` property that can be set to something like `warning`, `info`, or `error` depending on the type of alert. This property usually changes the color of the alert and its icon.
-
 * **Events**: Data a component sends based on a component interaction. For example, an input component may have a `blur` event that the component emits (or "fires") when a user navigates away from the input and it loses focus. (It loses focus, thus, "blur").
-
 * **Slots**: Named content regions inside a component. For example, a Card component might have a slot named `footer` where you'd add the content that belongs at the bottom of the card.
-
 * **Parts**: Subsections of a component, styleable with CSS. For example, an Accordion component might have a part for an individual item's open/close indicator.
 * and **Tokens**: CSS variables that influence component styling. For example, an `card-border-radius` CSS variable might set the border radius for all application cards.
 
 Pretty much every component has properties of some sort, and we see property documentation in any Web Components–based design system. The rest of the elements of an API can vary from system to system and component to component. Less common elements of an API, but still potentially useful include:
 
 * **Methods**, which are JavaScript-specific controls for component interactivity.
-
 * and **Content model**, which is a way to group properties that accept content together.
 
 **Slide 42:** We found that overall, Web Component API shared some structural commonalities.
 
 * APIs are consistently organized using the categories we looked at in the previous slide.
-
 * The API almost always appears on the same page as other component information, though it can occasionally appear in a page-level tab.
-
 * API documentation is consistently organized using tables showing the names of the API items, the type of data they accept, and their default value.
 
 And all of this tends to be more understandable when it's tied either to some kind of example, or to an interactive component where you can try out the setting in the component.
@@ -262,15 +242,10 @@ Across design systems, status tags serve as a kind of mini set of dashboard ligh
 **Slide 50:** Dan: This is Dan. Documentation is a huge subject, and while there are lots of ways to approach guidance across design systems, we've identified a few key common user stories related to technical guidance for components. We need to support:
 
 * At-a-glance confirmation that a component is OK to use.
-
 * An obvious location for Web Components documentation, connected to our existing documentation.
-
 * The ability to interact with the component before installing it into a project.
-
 * Succinct component-level installation instructions.
-
 * Clear and logical API guidance alongside an interactive component.
-
 * A documentation-driven approach that keeps documentation current with functionality.
 
 Back to you Jacline!
@@ -348,13 +323,9 @@ It's still pretty early in our performance analysis, but we want to be really co
 First, our design principles:
 
 * Start with real user needs
-
 * Earn trust
-
 * Embrace accessibility
-
 * Promote continuity
-
 * Listen
 
 And next our mission, vision, and polestar: Helping government teams align, design, and keep their websites and services up to date. In the service of empowered and supported digital service teams and familiar and easy-to-use digital services. So, together we can shape the future of government digital services.
