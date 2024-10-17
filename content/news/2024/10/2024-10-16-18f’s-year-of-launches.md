@@ -3,7 +3,7 @@
 source_url: https://18f.gsa.gov/2024/10/08/18f-year-of-launches/
 source: 18f
 date: 2024-10-08 00:00:00 -0500
-title: 18F’s year of launches
+title: 18Fs year of launches
 deck: Over the past year, 18F has helped partner agencies launch innovative
   software products to improve the public’s experience with the federal
   government. From helping get.gov simplify domain requests to working with
