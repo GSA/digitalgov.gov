@@ -37,7 +37,7 @@ All people in this country, regardless of the language they speak, deserve meani
 
 According to the U.S. Census Bureau, nearly [68 million people spoke a language other than English](https://www.census.gov/library/stories/2022/12/languages-we-speak-in-united-states.html) in 2019.
 
-By providing [multilingual](https://digital.gov/topics/multilingual/) digital content in languages other than English, the government delivers digital services that are accessible to all communities. This leads to a more interconnected public and greater satisfaction and trust in government. 
+By providing [multilingual](https://digital.gov/topics/multilingual/) digital content in languages other than English, the government delivers digital services that are accessible to all communities. This leads to a more interconnected public and greater satisfaction and trust in government.
 
 {{< ring title="Related policy">}}
 ‌Two executive orders affirm the federal government’s commitment to improving language access services and ensuring full participation by individuals with limited English proficiency (LEP).
