@@ -5,7 +5,6 @@ kicker: Conducting user research with people with disabilities
 summary: This month, we'll share progress and findings from our recent effort to improve our ongoing research practice.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItd-quqDMoHlDxTzhAa_JdKCvcWG7ccyA#/registration
 date: 2023-10-19 14:00:00 -0500
 end_date: 2023-10-19 15:00:00 -0500
@@ -25,6 +24,7 @@ primary_image: 2023-uswds-monthly-call-oct-title-card
 youtube_id: _uNXQpu6Dwg
 youtube_title: "How to develop a sustainable, repeatable research process"
 ---
+
 {{< asset-static file="uswds-monthly-call-october-2023.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 111 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for October 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for October 2023, where some of us on the western half of the continental United States, just this weekend got to watch our little old moon pass right between us and our Sun and through some kind of cosmic coincidence, even though about 450 moons could fit across the diameter of the Sun, to us they look almost exactly the same size, and one can pretty much perfectly conceal the other, just as your thumb can cover up a mountain every once and a while. And just as we see the USWDS logo fading from yellow to black and back again.
@@ -41,7 +41,7 @@ For those of you who find the chat distracting, you’re welcome to close or hid
 
 So thanks! And, with that, let's get started!
 
-**Slide 3:** So what's our agenda for today? 
+**Slide 3:** So what's our agenda for today?
 
 First, we've got a few nice new site launches from close to home.
 
@@ -91,9 +91,9 @@ And there are a few other nice bugfixes and improvements in 3.7.0. If you're int
 
 **Slide 15:** So now I'd like to talk about some work we've done toward operationalizing user research and a user research practice on our team, and about usability research with people with disabilities as an explicit focus.
 
-**Slide 16:** A couple weeks ago, our team was talking through some of what we'll discuss later in the call: where to collect research artifacts and how to organize older research reports. In general, how we can better work to document ongoing and existing research. And one of our team members suggested that we might use our existing research page. *We have an existing research page?*
+**Slide 16:** A couple weeks ago, our team was talking through some of what we'll discuss later in the call: where to collect research artifacts and how to organize older research reports. In general, how we can better work to document ongoing and existing research. And one of our team members suggested that we might use our existing research page. _We have an existing research page?_
 
-**Slide 17:** Oh. It can be somewhat embarrassing to realize just what you don't know about what you do, and there are some parts of our website that I don't know as well as others. I don't know why this had escaped my attention for so long — and points to the value of the content audit that we're also working to finish in our roadmap — but taking a look through our research page was like looking into a time capsule, back into the earliest days of the design system, before I was a part of it. 
+**Slide 17:** Oh. It can be somewhat embarrassing to realize just what you don't know about what you do, and there are some parts of our website that I don't know as well as others. I don't know why this had escaped my attention for so long — and points to the value of the content audit that we're also working to finish in our roadmap — but taking a look through our research page was like looking into a time capsule, back into the earliest days of the design system, before I was a part of it.
 
 Like a fly preserved in amber, this research page gave an unusual look back at the past, and it shows how we've been thinking about research from the start, what progress we've made and what challenges we still face.
 
@@ -121,7 +121,7 @@ And lately, before we released our last batch of components, we performed user a
 
 And then afterwards, we rely on open source community feedback to drive further changes. When you notice bugs or usability issues, you tell us — either though issues, discussions, or emails, and we're able to make the necessary changes and push them out into new releases.
 
-**Slide 23:** But the reality is that we still need to be more proactive. This research is great, but we don't think it's enough. 
+**Slide 23:** But the reality is that we still need to be more proactive. This research is great, but we don't think it's enough.
 
 **Slide 24:** For one, our research is only getting older. While some findings can be evergreen and some guidance will be as well, people change, the web changes, and expectations change. We need to keep checking in, and we need to be ahead of changes in behavior and expectation. We need to better know where there's usability friction as early as possible.
 
@@ -129,7 +129,7 @@ And then afterwards, we rely on open source community feedback to drive further 
 
 **Slide 26:** And this is why, as we spoke about a couple months ago, it's on our roadmap to conduct inclusive research, and to work to operationalize it in our program and on our team.
 
-**Slide 27:** And this is why we also see the necessity of  conducting inclusive research called out in the new OMB policy guidance, M-23-22, delivering a digital-first public experience. This is a good idea, and it's also what we all need to be doing.
+**Slide 27:** And this is why we also see the necessity of conducting inclusive research called out in the new OMB policy guidance, M-23-22, delivering a digital-first public experience. This is a good idea, and it's also what we all need to be doing.
 
 **Slide 28:** So how do we conduct inclusive research? And how can we do it again and again?
 
@@ -153,7 +153,7 @@ PRA and Privacy
 
 **Slide 36:** Common challenges teams face
 
-**Slide 37:** We needed help getting over the finish line 
+**Slide 37:** We needed help getting over the finish line
 
 **Slide 38:** We needed help developing repeatable processes
 
@@ -202,7 +202,7 @@ And we're really intent on sharing what we've learned within our 10x program's e
 
 **Slide 57:** Ultimately what we want to do is support the people who use what we build. We want to support the public. And so we really feel like the public - and in particular, around accessibility - the sole arbiters of accessibility and usability are people that use assistive technologies or that have needs that we may not be bringing to bear in our work directly. So Jacline's going to talk a little bit more about how the US Web Design System team is helping that to take shape in their research efforts. Thank you.
 
-**Slide 58:** Jacline: Hi everyone. This is Jacline Contrino, she/her. I am a white woman with brown wavy shoulder length hair wearing a black blouse.  I’m the UX Researcher and contractor on the core USWDS team. In this next section, let’s talk about our most recent round of usability testing with participants with disabilities. How did we approach it, what’d we do, and what did we learn?
+**Slide 58:** Jacline: Hi everyone. This is Jacline Contrino, she/her. I am a white woman with brown wavy shoulder length hair wearing a black blouse. I’m the UX Researcher and contractor on the core USWDS team. In this next section, let’s talk about our most recent round of usability testing with participants with disabilities. How did we approach it, what’d we do, and what did we learn?
 
 **Slide 59:** First, some quick background: Not only were we wanting to test drive the PROCESS of HOW we operationalize usability research, we also wanted to assess how a few of our components perform for people with visual impairments who use assistive technology. But how did we decide which components to test?
 
@@ -220,7 +220,7 @@ And we're really intent on sharing what we've learned within our 10x program's e
 
 **Slide 66:** Finally, I wanted to mention that we compensated participants $100 for their time through virtual gift cards emailed to them. We obtained approval to do this through the GSA micropurchase program, which took a couple of months from application to final approval.
 
-**Slide 67:** Ok, so what did we learn? How did the components we were testing perform? Let’s dive into the findings. 
+**Slide 67:** Ok, so what did we learn? How did the components we were testing perform? Let’s dive into the findings.
 
 **Slide 68:** So, this slide is showing that the most friction experienced by participants centered around about 4 components tested, including combobox, date picker, input mask, and validation. 2 other components tested fairly well with only minor friction, including character count and file input. And 2 components performed well with virtually no friction - those include the accordion and step indicator. And even though we weren’t testing the banner component or links being styled as buttons, we still received feedback from users about them. We need more research for those - more on that later.
 
@@ -230,7 +230,7 @@ Ok, so let’s dig into the details!
 
 **Slide 69:** Starting with the components where we saw the most friction for participants.
 
-**Slide 70:** Let’s begin with what we found with the input mask component. We found that the current input mask component does not give proper feedback when disallowed characters are typed. So basically, if a user types a letter where only numbers are allowed, there is no clear indication that anything is wrong. Furthermore, it is unclear whether the character was typed at all for someone using  a screen reader. Let’s take a look at what I mean.
+**Slide 70:** Let’s begin with what we found with the input mask component. We found that the current input mask component does not give proper feedback when disallowed characters are typed. So basically, if a user types a letter where only numbers are allowed, there is no clear indication that anything is wrong. Furthermore, it is unclear whether the character was typed at all for someone using a screen reader. Let’s take a look at what I mean.
 
 **Slide 71:** I’m going to play a short video clip to demonstrate what we saw with input mask.
 
@@ -238,9 +238,9 @@ Ok, so let’s dig into the details!
 
 So, we could see there that folks felt unsure of whether the characters they typed were being accepted or not, and it just wasn’t giving them any error communication. We already knew about this feedback issue, so this testing was validation that it is something to improve in the near future.
 
-**Slide 72:** Let’s move on to discuss findings for date picker. We saw that all screen reader users that we tested with (3…we ran out of time with 1) had difficulty using the date picker. First, the keyboard controls did not work as expected. They could only use up and down arrows, not left or right or page up or down. 
+**Slide 72:** Let’s move on to discuss findings for date picker. We saw that all screen reader users that we tested with (3…we ran out of time with 1) had difficulty using the date picker. First, the keyboard controls did not work as expected. They could only use up and down arrows, not left or right or page up or down.
 
-We also learned that there were some issues around formatting and feedback. For example, users weren’t sure if the slashes would be entered for them or if they had to type them. And actually, we also discovered that it’d be beneficial for the slashes to be automatically entered for them. One person had a lot of difficulty typing the slashes and kept making mistakes, leaving him pretty frustrated.  
+We also learned that there were some issues around formatting and feedback. For example, users weren’t sure if the slashes would be entered for them or if they had to type them. And actually, we also discovered that it’d be beneficial for the slashes to be automatically entered for them. One person had a lot of difficulty typing the slashes and kept making mistakes, leaving him pretty frustrated.
 
 Finally, when manually entering dates, if users enter a disallowed format, there was no feedback given. For example, typing 10/1/2023 instead of the acceptable format of 10/01/2023 would not give any error message to the user.
 
@@ -258,15 +258,15 @@ A positive note about combobox is that one person really appreciated that it giv
 
 **Slide 78:** So, we tested file input and for the most part, this component is usable to folks. We did see some indication that it could be beneficial to offer some kind of instruction on how to choose a file, since some participants struggled with actually choosing and uploading the file . And one user thought it was confusing to have the ‘drag file here or choose from folder’ contained together within one element (a button), when it might make more sense to separate them into their own elements.
 
-**Slide 79:** Ok, let’s talk about character count. Overall, it was very well received from participants. They liked how the component offered delayed feedback, which was an enhancement since the last testing round. Before, it would announce how many characters were left immediately after users type a character which was a bit jarring. We implemented a delay so the screen reader announces how many characters are left after a short pause in typing. Participants liked this feature. One participant commented: 
+**Slide 79:** Ok, let’s talk about character count. Overall, it was very well received from participants. They liked how the component offered delayed feedback, which was an enhancement since the last testing round. Before, it would announce how many characters were left immediately after users type a character which was a bit jarring. We implemented a delay so the screen reader announces how many characters are left after a short pause in typing. Participants liked this feature. One participant commented:
 
-“Oh, it worked really well. It was…giving me updates. It wasn't like being overzealous with it and trying to tell me how many characters there were every single time I typed a character like it was waiting until it was done. I think that works pretty well.” 
+“Oh, it worked really well. It was…giving me updates. It wasn't like being overzealous with it and trying to tell me how many characters there were every single time I typed a character like it was waiting until it was done. I think that works pretty well.”
 
 They also liked how it let them know when they had gone over the character limit.
 
-**Slide 80:** Interestingly, we also heard from participants that they prefer a hard cutoff when they reach the character count limit. In other words, they want to be prevented from typing once they reach the limit. They said it’s annoying to type a lot of text in a box, not being told you’ve gone over the limit until you stop typing. It’s especially annoying for fast typers. Having to go back and see where to edit and cut content is a pain, so they’d rather  just be prevented from exceeding the limit in the first place.
+**Slide 80:** Interestingly, we also heard from participants that they prefer a hard cutoff when they reach the character count limit. In other words, they want to be prevented from typing once they reach the limit. They said it’s annoying to type a lot of text in a box, not being told you’ve gone over the limit until you stop typing. It’s especially annoying for fast typers. Having to go back and see where to edit and cut content is a pain, so they’d rather just be prevented from exceeding the limit in the first place.
 
-**Slide 81:** We also learned that users need more visual cues when they have reached the limit, such as outlining the box in red. This was feedback received from the person using only screen magnification. Let’s take a look at the brief video clip. 
+**Slide 81:** We also learned that users need more visual cues when they have reached the limit, such as outlining the box in red. This was feedback received from the person using only screen magnification. Let’s take a look at the brief video clip.
 
 video clip plays
 
@@ -278,47 +278,47 @@ video clip plays
 
 **Slide 85:** A couple of things came up in the research that we want to dig into more with future research. Let’s talk briefly about that.
 
-**Slide 86:** First, a major pain point for every participant using a screen reader had to do with the "Next Step" and "Sign in" buttons in our prototype. The problem was that since this was only a prototype and not a real form, we used links styled as buttons for these actions. 
+**Slide 86:** First, a major pain point for every participant using a screen reader had to do with the "Next Step" and "Sign in" buttons in our prototype. The problem was that since this was only a prototype and not a real form, we used links styled as buttons for these actions.
 
 We hadn't anticipated all the usability problems this would introduce for our participants, and it isn't something we'd ever do in a real form. It would be against our button guidance — and common sense — to use a link instead of a submit button to move from page to page in a real form with real data, but that was the case here. The result was that we observed participants really struggling to complete some interactions.
 
-We saw all participants who use a screen reader having trouble finding and interacting with the sign-in link. They expect a ‘submit’ or ‘sign in’ button to be an actual button, so that's what they looked for. And often, screen reader users use keyboard shortcuts to navigate to certain elements (like “b” to find all the buttons). Since our fake button was coded as a link, they missed it. 
+We saw all participants who use a screen reader having trouble finding and interacting with the sign-in link. They expect a ‘submit’ or ‘sign in’ button to be an actual button, so that's what they looked for. And often, screen reader users use keyboard shortcuts to navigate to certain elements (like “b” to find all the buttons). Since our fake button was coded as a link, they missed it.
 
 Users of assistive technology are often far more aware of and sensitive to markup semantics than other users, so we are discussing links styled as buttons with our team and need to design some experiments for future usability research.
 
 **Slide 87:** Something else we want to research further has to do with the banner component. [explain image] We weren’t intentionally testing it, but it came up. 2 users were confused by the banner component. One user confused it for a header. She said:
 
-“I was thinking it might be more menu options. Because usually any buttons that are collapsed at the top of the page like that are usually menu, navigation things.” 
+“I was thinking it might be more menu options. Because usually any buttons that are collapsed at the top of the page like that are usually menu, navigation things.”
 
 Another participant who has some vision commented that it was another example of something labeled as a button that wasn’t a button. She said it looks more like a drop down menu/combobox, or a link.
 
-Dan: So, I just want to jump in here and say that we have overstuffed this meeting with too many potatoes in this bag and we're almost at the end of time. We've tried to answer a lot of questions in the chat that we have seen in the chat. We also have a lot of next steps we've done in response to this and a lot of stuff that's still to come but I guess we'll save this for the next monthly call and we can also talk about it in public Slack or otherwise. But there's a lot that's still to come and I apologize for not getting to it. 
+Dan: So, I just want to jump in here and say that we have overstuffed this meeting with too many potatoes in this bag and we're almost at the end of time. We've tried to answer a lot of questions in the chat that we have seen in the chat. We also have a lot of next steps we've done in response to this and a lot of stuff that's still to come but I guess we'll save this for the next monthly call and we can also talk about it in public Slack or otherwise. But there's a lot that's still to come and I apologize for not getting to it.
 
 But we learned a lot, we did a lot, we're doing a lot and we will be following up on this next month and with folks, anyone who reaches out directly. So I apologize for overloading this presentation and not getting to all the Q&A at the end but we'll return to this and be talking about it again next month.
 
 {{< /accordion >}}
 
-One of our roadmap goals is to conduct more user research with people with disabilities — and to ensure we’re doing so regularly. 
+One of our roadmap goals is to conduct more user research with people with disabilities — and to ensure we’re doing so regularly.
 
 Over the last few months, we've made a lot of progress. This month we'll share our progress and report on findings from our first round of this research: conducting usability tests on [Design System components](https://designsystem.digital.gov/components/overview/) focused on users with visual impairments.
 
 We’ll discuss:
 
-* How we're working with GSA’s [10x program](https://10x.gsa.gov/) to develop a sustainable, repeatable research process
-* Steps to operationalize research with people with disabilities
-* Our work to recruit users of assistive technology to participate in user research
-* Our usability testing process
-* Findings from our recent usability testing
-* Where we go from here 
+- How we're working with GSA’s [10x program](https://10x.gsa.gov/) to develop a sustainable, repeatable research process
+- Steps to operationalize research with people with disabilities
+- Our work to recruit users of assistive technology to participate in user research
+- Our usability testing process
+- Findings from our recent usability testing
+- Where we go from here
 
 **This event is best suited for:** Anyone who uses the U.S. Web Design System. This event will have an accessibility and usability focus.
 
 ## Speakers
 
-* **Dan Williams** **—** Product Lead, USWDS
-* **Anne Petersen** **—** Experience Design Lead, USWDS
-* **Robert Jolly** **—** Product Manager and Accessibility Advocate, 10x
-* **Jacline Contrino** **—** UX Researcher, USWDS
+- **Dan Williams** **—** Product Lead, USWDS
+- **Anne Petersen** **—** Experience Design Lead, USWDS
+- **Robert Jolly** **—** Product Manager and Accessibility Advocate, 10x
+- **Jacline Contrino** **—** UX Researcher, USWDS
 
 ## Related resources
 
@@ -330,17 +330,17 @@ We’ll discuss:
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

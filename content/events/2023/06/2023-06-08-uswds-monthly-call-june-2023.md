@@ -5,7 +5,6 @@ summary: Developing and evaluating content for manual accessibility and user
   experience (UX) tests
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItceGprT0tHyOpdv40WB6ome7t20p6EHQ
 date: 2023-06-15 14:00:00 -0500
 end_date: 2023-06-15 15:00:00 -0500
@@ -31,11 +30,11 @@ youtube_title: "Developing and evaluating content for manual accessibility and u
 
 First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. Unfortunately, while we are recording this call, we currently aren't able to share the video publicly.
 
-I’d also like to remind you that by voluntarily attending this Digital.gov event, you agree to abide by Digital.gov’s community guidelines at [digital.gov/communities/community-guidelines/](https://digital.gov/communities/community-guidelines/) — you can leave the meeting at any time if you do not agree to abide by these guidelines. We’ve posted a link to the community guidelines in the chat. 
+I’d also like to remind you that by voluntarily attending this Digital.gov event, you agree to abide by Digital.gov’s community guidelines at [digital.gov/communities/community-guidelines/](https://digital.gov/communities/community-guidelines/) — you can leave the meeting at any time if you do not agree to abide by these guidelines. We’ve posted a link to the community guidelines in the chat.
 
 If you are in the Zoom app, you can use integrated live captioning by selecting the “CC” button on the bottom of the screen. If you prefer live captioning in a separate window, we've posted a link to the live captioning in the chat.
 
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 
@@ -53,11 +52,11 @@ And then we'll have some time left at the end for Q&A. So let's get right into i
 
 **Slide 5:** So, there are a number of key improvements in USWDS 3.5.0 that we outlined last month:
 
-- **Consistency and legibility of disabled form elements.** We updated and normalized disabled styling across our form elements, making disabled styles more distinct from active styles, and increasing the visibility of disabled elements. We also applied consistent styling to forced colors and high contrast mode, and are phasing out class-based disabled styling. 
+- **Consistency and legibility of disabled form elements.** We updated and normalized disabled styling across our form elements, making disabled styles more distinct from active styles, and increasing the visibility of disabled elements. We also applied consistent styling to forced colors and high contrast mode, and are phasing out class-based disabled styling.
 - **File input experience for voice and screen readers.** We made some important improvements to the file input component that improve its ability to interact as expected with voice command, and to better announce its status to screen readers.
 - **Space bar trigger to links styled as buttons.** With USWDS 3.5.0, if it looks like a button you can trigger it as you would a button, whether it's a button element or a link styled as usa-button.
-- **Updated Identifier accessibility link.** We also updated our Identifier's Accessibility Statement link. To align the component more closely with policy we're updating the text of the link from Accessibility Support to Accessibility Statement. 
-- **And in USWDS 3.5.0, we're updating our form guidance to finally suggest labeling both required fields and optional fields.** 
+- **Updated Identifier accessibility link.** We also updated our Identifier's Accessibility Statement link. To align the component more closely with policy we're updating the text of the link from Accessibility Support to Accessibility Statement.
+- **And in USWDS 3.5.0, we're updating our form guidance to finally suggest labeling both required fields and optional fields.**
 
 So in addition to those changes, we have a few more notable updates in this release.
 
@@ -66,9 +65,9 @@ So in addition to those changes, we have a few more notable updates in this rele
 - **Stopped using font smoothing.** Font smoothing was a technique that resulted in thinner fonts when displaying light text on dark backgrounds. It's a technique that's no longer in favor and can compromise legibility and readability, so we've removed it from the limited cases where we used it.
 - **Labeled external links for screen readers.** Now screen readers will announce links that use the external link icon as external links. It will also announce links that open in a new tab.
 - **Updated individual Sass map settings without affecting defaults.** Previously, changing a USWDS setting that was part of a Sass map — like utility output settings — meant you had to explicitly set every other value in the map as well, or else they'd get set to false. Now you can update only the map setting you want to change, and every other value in the map will retain its default settings.
-- **Added two new settings to customize accordion background colors.** Now you can change the background color of accordions site-wide using settings. 
+- **Added two new settings to customize accordion background colors.** Now you can change the background color of accordions site-wide using settings.
 - **Removed unused utility builder comments from compiled CSS.** Depending on how you compile your Sass, these comments could take up dozens of K. Now they're gone!
-- **Fixed an issue with large file previews in File Upload.** Adding large files into the file upload could result in an infinite spinner for the file's preview. Now the component can better handle large files. 
+- **Fixed an issue with large file previews in File Upload.** Adding large files into the file upload could result in an infinite spinner for the file's preview. Now the component can better handle large files.
 - **And finally, we fixed a bug that prevented links that start with a number from scrolling when clicked in In-page navigation.** Now you can use numbers at the beginning of page headings and the in-page navigation will be able to properly link and scroll to them.
 
 **Slide 7:** And that's a lot of what's new in USWDS 3.5.0. It's out now, so check it out!
@@ -103,7 +102,7 @@ Amy: Thanks for the introduction, Dan. I appreciate the time everyone is taking 
 
 **Slide 16:** When it comes to accessibility testing, and critical checklists, the first thing we asked ourselves is what's our opportunity? **How can we be useful?**
 
-**Slide 17:** As someone who has worked on a small state-funded web design team, I understand that many of you who work on a government project team have multiple roles and responsibilities. For example, designers are sometimes asked to do development work, developers to be designers, or to pitch in with writing. We often wear multiple hats. We can’t all be accessibility or Section 508 specialists, but we can all contribute to accessibility testing. That's where USWDS can help. 
+**Slide 17:** As someone who has worked on a small state-funded web design team, I understand that many of you who work on a government project team have multiple roles and responsibilities. For example, designers are sometimes asked to do development work, developers to be designers, or to pitch in with writing. We often wear multiple hats. We can’t all be accessibility or Section 508 specialists, but we can all contribute to accessibility testing. That's where USWDS can help.
 
 **Slide 18:** We take our role as accessibility supporters seriously. Our aim is to help scale specialized skills and expertise so that even the smallest team can benefit from the collective expertise of designers, developers, and accessibility specialists across government. It's our responsibility to help ensure that your websites and services meet the needs of your users and the letter of the law. Even if your team does have Section 508 support — and especially if you do not — you may rely on USWDS engineering, usability, and accessibility guidance to help direct your work.
 
@@ -161,7 +160,7 @@ And as we move through the content sections in the next few slides, each section
 
 **Slide 34:** **Section 3: Our testing protocols for USWDS components.** The third section outlined the steps USWDS takes to test accessibility on its components. These include:
 
-- Automated tests used in our continuous integration 
+- Automated tests used in our continuous integration
 - Manual high contrast mode testing in Windows & Chrome
 - Browser based accessibility tools for image accessibility
 - Manual keyboard and voice assistant and screen reader testing
@@ -190,7 +189,7 @@ Each section had started with some general guidance about how to approach that c
 
 **Slide 39:** **Section 9: Support.** The content ended with short support information and the date we last updated the page.
 
-**Slide 40:** Upon reflection, there was a lot of content in this test! But as we will learn, it gave us a good opportunity to see what was most of interest to our users. I’ll pass things over to Jacline now and she can share how we approached content testing for this first draft of critical checklists. 
+**Slide 40:** Upon reflection, there was a lot of content in this test! But as we will learn, it gave us a good opportunity to see what was most of interest to our users. I’ll pass things over to Jacline now and she can share how we approached content testing for this first draft of critical checklists.
 
 Jacline: Thanks Amy! We just heard how we developed our content and the type of content we were testing.
 
@@ -236,7 +235,7 @@ Our primary goals with the content test were pretty varied.
 
 **Slide 57:** This was a fairly lightweight study that we were able to get done (from planning to execution to findings) within about 3 weeks.
 
-**Slide 58:** We reached out to our community of testers for this study to invite them to participate. For those that were interested, we scheduled 30 minute testing sessions.  We also informed participants ahead of time of what to expect from the session and how their information would be protected. We also asked for permission to record the session and reiterated that participation is completely voluntary. Following ethical research practices is very important to us.
+**Slide 58:** We reached out to our community of testers for this study to invite them to participate. For those that were interested, we scheduled 30 minute testing sessions. We also informed participants ahead of time of what to expect from the session and how their information would be protected. We also asked for permission to record the session and reiterated that participation is completely voluntary. Following ethical research practices is very important to us.
 
 **Slide 59:** As mentioned before, the sessions were semi-structured interviews and we carried them out with 4 USWDS users individually. In the session, before we presented the content to participants, we first asked them what they expect to find in an Accordion Accessibility page on our website. This would help us discover if the way they think about accordion accessibility support documentation lined up with how we were thinking about it, and where there might be any gaps.
 
@@ -247,13 +246,13 @@ Then, we gave them about 7 minutes to thoroughly read through the entire documen
 **Slide 60:** Some of the questions we asked were:
 
 - Would you please summarize the information on that page in your own words?
-- What was easy or difficult to understand? Why? 
+- What was easy or difficult to understand? Why?
 - What questions do you have after reading that content?
 - What is missing that you’d like to see? Also, what might you change and why?
 
-These questions helped us tease out where we might need to make improvements to our Critical Checklists. 
+These questions helped us tease out where we might need to make improvements to our Critical Checklists.
 
-**Slide 61:** If there’s anything we’d change for next time we run a test like this, there’s one that comes to mind. 
+**Slide 61:** If there’s anything we’d change for next time we run a test like this, there’s one that comes to mind.
 One of the questions we asked folks was to summarize the information on the page in their own words. We found that this was not very effective with such a long document containing a lot of complex, detailed information. It forced participants to answer at a generalized high level, so it might have been more helpful to focus on one section of the content to ask users to summarize. We ended up leaving this question out in later sessions, and instead asked participants “what questions do you have after reading that information?”
 
 Overall, the sessions went really well and we got some excellent feedback. It’s always good to get more input on your ideas before building it out too much!
@@ -264,7 +263,7 @@ Overall, the sessions went really well and we got some excellent feedback. It’
 
 **Slide 64:** We discovered that we are on the right track with the content, mostly.
 
-**Slide 65:** Overall, it meets or exceeds user expectations — the quote you see on this slide shows one user saying, "*I think that's it's hard to think of all the pieces of accessibility… and I think this does a really good job (at a) high level, considering all of the pieces and also encouraging testing. Even showing or telling them how to test, (the) tools to use. It's very well put together*.”
+**Slide 65:** Overall, it meets or exceeds user expectations — the quote you see on this slide shows one user saying, "_I think that's it's hard to think of all the pieces of accessibility… and I think this does a really good job (at a) high level, considering all of the pieces and also encouraging testing. Even showing or telling them how to test, (the) tools to use. It's very well put together_.”
 
 **Slide 66:** So, participants were really excited about it and felt that it’d help them feel more confident that the accordion component checks all the accessibility boxes while also empowering them to test their own implementations. The content was also fairly complete — there were a few suggestions for content to add, but overall, the document covered most of what users seemed to need.
 
@@ -281,9 +280,9 @@ Finally, we learned that there is an appetite for more detailed information on t
 
 **Slide 68:** **What are we going to do next?**
 
-**Slide 69:** We got some great feedback through these content test sessions. We were thrilled that, overall, people were excited and happy with the content of these Critical Checklists, but we are taking the areas of opportunity into careful consideration as we work towards the next iteration of these checklists. All the raw material is there, so now how might we package it so that it meets the identified needs of users? How might we present the information on the site so that users can easily interact with it and get what they need out of it? 
+**Slide 69:** We got some great feedback through these content test sessions. We were thrilled that, overall, people were excited and happy with the content of these Critical Checklists, but we are taking the areas of opportunity into careful consideration as we work towards the next iteration of these checklists. All the raw material is there, so now how might we package it so that it meets the identified needs of users? How might we present the information on the site so that users can easily interact with it and get what they need out of it?
 
-These are the questions that are guiding  our next phase. We will soon begin prototyping our ideas for what these Critical Checklists might look like and how they might be structured on our site, and we hope to test those ideas again with our community of testers. We hope to roll out these checklists in the coming weeks, so stay tuned!
+These are the questions that are guiding our next phase. We will soon begin prototyping our ideas for what these Critical Checklists might look like and how they might be structured on our site, and we hope to test those ideas again with our community of testers. We hope to roll out these checklists in the coming weeks, so stay tuned!
 
 Dan: Thanks Jacline! This is Dan again. We learned a lot by pushing ourselves — perhaps — a little bit out of our comfort zone and testing something while it was still very new.
 
@@ -326,42 +325,42 @@ Join us as we talk about the easy-to-follow, manual accessibility and user exper
 
 In this session, you’ll learn how we're approaching `Critical Checklists`:
 
-* Our vision for `Critical Checklists`
-* How `Critical Checklists` address [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) requirements
-* How we're evaluating checklist content
-* How `Critical Checklists` can support your own accessibility testing
+- Our vision for `Critical Checklists`
+- How `Critical Checklists` address [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) requirements
+- How we're evaluating checklist content
+- How `Critical Checklists` can support your own accessibility testing
 
 **This event is best suited for:** Designers, developers, and accessibility specialists at all levels.
 
 ## Speakers
 
-* **Dan Williams** &mdash; Product Lead, USWDS
-* **Amy Cole** &mdash; Accessibility Specialist, USWDS
-* **Jacline Contrino** &mdash; UX Researcher, USWDS
+- **Dan Williams** &mdash; Product Lead, USWDS
+- **Amy Cole** &mdash; Accessibility Specialist, USWDS
+- **Jacline Contrino** &mdash; UX Researcher, USWDS
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
 ## Resources
 
-* [Accessibility resources — Digital.gov](https://digital.gov/topics/accessibility/)
-* [Accessibility: Usability for every ability — USWDS](https://designsystem.digital.gov/documentation/accessibility/)
-* [Create Accessible Digital Products — Section508.gov](https://www.section508.gov/create/)
-* [Find your federal agency’s Section 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/)
-* [How to Test Websites for Accessibility (with video)](https://digital.gov/resources/how-test-websites-for-accessibility/)
-* [Accessible Digital Content: Tips and Tricks (Digital.gov video playlist)](https://www.youtube.com/watch?v=CL6lOwJEMGQ&list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm&index=22)
-* [Accessibility for Teams](https://accessibility.digital.gov/)
+- [Accessibility resources — Digital.gov](https://digital.gov/topics/accessibility/)
+- [Accessibility: Usability for every ability — USWDS](https://designsystem.digital.gov/documentation/accessibility/)
+- [Create Accessible Digital Products — Section508.gov](https://www.section508.gov/create/)
+- [Find your federal agency’s Section 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/)
+- [How to Test Websites for Accessibility (with video)](https://digital.gov/resources/how-test-websites-for-accessibility/)
+- [Accessible Digital Content: Tips and Tricks (Digital.gov video playlist)](https://www.youtube.com/watch?v=CL6lOwJEMGQ&list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm&index=22)
+- [Accessibility for Teams](https://accessibility.digital.gov/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

@@ -6,7 +6,6 @@ summary: We’ll discuss our approach to developing User Profile design patterns
   look at some specific guidance, and talk about why it’s so important.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: null
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-user-profile-patterns-oct-2022-tickets-441135597447
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2022-10-20 14:00:00 -0500
@@ -24,7 +23,6 @@ slug: october-2022-uswds-monthly-call
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: uswds-monthly-call-october-title-card
-
 ---
 
 {{< asset-static file="uswds-monthly-call-october-2022.pptx" label="View the slides (PowerPoint presentation, 7.2 MB, 67 pages)" >}}
@@ -59,7 +57,7 @@ And if all goes well, we'll have some time left at the end of Q&A. So let's get 
 
 **Slide 4:** With a nice new site launch
 
-**Slide 5:** This month, it's exciting to share beta.usa.gov (and beta.usa.gov en español) with you.  For USAGov, launching these sites is the next step toward continuing USAGov’s role as the federal front door. Explore the new content structure focused on one user intent per page and interactive features that will allow users to find their answers quicker. On the beta.usa.gov homepage a crisp red, white, and blue design. We see an alert notifying folks that this is a beta site, a link to USAGov en Espanol in the top-right, and a blue hero box with the text: Welcome to the USA.gov beta site, the first step to a new USA.gov.
+**Slide 5:** This month, it's exciting to share beta.usa.gov (and beta.usa.gov en español) with you. For USAGov, launching these sites is the next step toward continuing USAGov’s role as the federal front door. Explore the new content structure focused on one user intent per page and interactive features that will allow users to find their answers quicker. On the beta.usa.gov homepage a crisp red, white, and blue design. We see an alert notifying folks that this is a beta site, a link to USAGov en Espanol in the top-right, and a blue hero box with the text: Welcome to the USA.gov beta site, the first step to a new USA.gov.
 
 **Slide 6:** Congratulations, and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -130,9 +128,9 @@ We all know that a website is more than just components on a page — the whole 
 
 What does this mean when it comes to name, address, and contact information? What barriers might this information introduce? I'd like to pass it to Meaghan to talk about why these are critical patterns, and what we've learned from our research.
 
-**Slide 25:** Meghan: As we discussed in the last monthly meeting, we did a lot of research to learn from our colleagues around the federal space, and hear from them what types of interactions they are wrestling with and what they would like USWDS to work on. We primarily spoke with people on web teams at high impact service providers  —  also known as HISPs  —  the agencies and programs that have the most direct contact with the American people. From these digital teams we heard how challenging asking about personal information can be. Teams discussed trying to design effective information collection tools, while also balancing validation requirements and reporting obligations. At the same time, teams wanted to respect the true diversity of their audience and the individuals that use their sites. We see a colorful illustration of people on the next slides.
+**Slide 25:** Meghan: As we discussed in the last monthly meeting, we did a lot of research to learn from our colleagues around the federal space, and hear from them what types of interactions they are wrestling with and what they would like USWDS to work on. We primarily spoke with people on web teams at high impact service providers — also known as HISPs — the agencies and programs that have the most direct contact with the American people. From these digital teams we heard how challenging asking about personal information can be. Teams discussed trying to design effective information collection tools, while also balancing validation requirements and reporting obligations. At the same time, teams wanted to respect the true diversity of their audience and the individuals that use their sites. We see a colorful illustration of people on the next slides.
 
-**Slide 26:** This respect  —  which often means supporting users from varying cultures, backgrounds, and perspectives —  and in all sorts of different situations  —  was something digital teams felt was critical to good and effective experience design. But it is also something that supports various executive orders, including [Executive Order 14058](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government and [Executive Order 13985](https://www.performance.gov/equity/) Advancing Racial Equity and Support for Underserved Communities through the Federal Government.
+**Slide 26:** This respect — which often means supporting users from varying cultures, backgrounds, and perspectives — and in all sorts of different situations — was something digital teams felt was critical to good and effective experience design. But it is also something that supports various executive orders, including [Executive Order 14058](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government and [Executive Order 13985](https://www.performance.gov/equity/) Advancing Racial Equity and Support for Underserved Communities through the Federal Government.
 
 **Slide 27:** We’ve developed ten patterns to help users:
 
@@ -147,7 +145,7 @@ What does this mean when it comes to name, address, and contact information? Wha
 9. Provide their biological sex or gender, and
 10. Share their pronouns
 
-Some of these patterns are pretty straightforward and some of these are really complicated  —  and some of these are only just emerging in a rapidly changing environment.
+Some of these patterns are pretty straightforward and some of these are really complicated — and some of these are only just emerging in a rapidly changing environment.
 
 **Slide 28:** Today we are going to focus on the first four: helping users to provide their name, enter their address, provide their email, and enter their phone number. In future Monthly Calls we’ll dive into the others.
 
@@ -155,7 +153,7 @@ Some of these patterns are pretty straightforward and some of these are really c
 
 **Slide 30:** Each pattern has a description, how it can apply to your website or service, and how to approach a solution.
 
-**Slide 31:** Each pattern has Guidance. Recommendations on what to do  —  and what not to do.
+**Slide 31:** Each pattern has Guidance. Recommendations on what to do — and what not to do.
 
 **Slide 32:** Each pattern has Considerations: Practical implementation details, often related to usability and accessibility.
 
@@ -163,7 +161,7 @@ Some of these patterns are pretty straightforward and some of these are really c
 
 **Slide 34:** And patterns have supporting information: Other examples, related components, and sources we used in addition to our direct research. So let’s get started.
 
-**Slide 35:** Let's start with name patterns. It might seem that asking for someone’s name is pretty straightforward  —  after all, everyone has one! But personal names are surprisingly complicated. For example,
+**Slide 35:** Let's start with name patterns. It might seem that asking for someone’s name is pretty straightforward — after all, everyone has one! But personal names are surprisingly complicated. For example,
 
 **Slide 36:** In some cultures people have only one name. So if you require a first and last name, not only will the user not have one of each, but they wouldn’t know in which field to place the one name they have.
 
@@ -175,7 +173,7 @@ Some of these patterns are pretty straightforward and some of these are really c
 
 **Slide 40:** And names can have multiple upper- and lowercase letters, as well as multiple spaces or hyphens.
 
-**Slide 41:** And in some cultures it is common to have two  — or more  —  last names.
+**Slide 41:** And in some cultures it is common to have two — or more — last names.
 
 **Slide 42:** You may have heard that Anna May Wong, an American actress of Chinese heritage, will be the first Asian American on U.S. currency. A true trailblazer, she will be on a new quarter. Born Wong Liu Tsong, she was known professionally as Anna May Wong. In many cultures, including Chinese, the family name comes first and the given name comes second, making “first name” inappropriate and potentially confusing.
 
@@ -191,15 +189,15 @@ The pattern guidance recommends providing multiple text entry fields, with direc
 
 Our pattern guidance also suggests
 
-- Supporting long text fields  —  and short names
+- Supporting long text fields — and short names
 - Supporting a rich array of special characters
 - Allowing users to enter more than one name in each field
 - Allowing both upper and lowercase letters in each field, along with hyphens, apostrophes and blank spaces
-- And we address asking for a maiden name  —  we recommend against this practice.  But if you do need a previous name, ask for it.
+- And we address asking for a maiden name — we recommend against this practice. But if you do need a previous name, ask for it.
 
 **Slide 44:** At this time we are recommending that you consider incorporating “given” and “family” name into your name field labels. This slide highlights the **First or given name** and **Last or Family name** labels in the name pattern. This seems to be an emerging best practice and also addresses some of the challenges with non-Western European names.
 
-**Slide 45:** As I mentioned, if you don’t need to parse apart the pieces of a name  —  if you don’t need to validate the name, for instance  —  just ask for the full name in one field.
+**Slide 45:** As I mentioned, if you don’t need to parse apart the pieces of a name — if you don’t need to validate the name, for instance — just ask for the full name in one field.
 
 **Slide 46:** And if you will be reaching out to verbally speak with someone, or expect formal correspondence, consider asking how they’d like to be addressed. For example, Dan, or Mr. Gonzalez, or Dr. Gonzalez.
 
@@ -249,13 +247,13 @@ A street address is required for a mailing address, but it may not be required f
 
 **Slide 54:** While we were working on the address pattern, we did make an unwelcome discovery. Users of assistive technology, especially screen readers, had a consistently difficult time navigating the Combobox used for the State dropdown.
 
-When the address pattern is published, you'll notice a change in how we're approaching the treatment of some elements because of these challenges.  We’ve replaced the Combobox with the Select component. This change will be making its way through related component guidance and templates within the design system, so stay tuned for more information.
+When the address pattern is published, you'll notice a change in how we're approaching the treatment of some elements because of these challenges. We’ve replaced the Combobox with the Select component. This change will be making its way through related component guidance and templates within the design system, so stay tuned for more information.
 
 **Slide 55:** The email address pattern is pretty straightforward, but there are considerations and opportunities.
 
 **Slide 56:** We recommend you clearly state why you need someone’s email address and under what circumstances you would use it to contact them.
 
-**Slide 57:** Email addresses can be very long. Make sure to accommodate up to 256 characters  —  which would be a really long (but valid!) email address.
+**Slide 57:** Email addresses can be very long. Make sure to accommodate up to 256 characters — which would be a really long (but valid!) email address.
 
 **Slide 58:** Email addresses can get complicated. Simple validation is best. We do recommend you validate formatting by checking for an at symbol that is preceded and followed by one or more characters. We also recommend both client-side and server-side validation, if possible.
 
@@ -264,7 +262,7 @@ When the address pattern is published, you'll notice a change in how we're appro
 - Make sure to accommodate up to 256 characters
 - Allow people to paste their email address and consider enabling autocomplete to enter the address if they’ve entered it before.
 - Also, consider the safety implications associated with people who share email addresses. You may need to ask for permission to leave potentially sensitive information.
-- It is great if you can check for common misspellings of popular email providers  —  but don’t autocorrect them! Warn people if you detect a likely misspelling, but allow them to continue, since it might be a genuine email address.
+- It is great if you can check for common misspellings of popular email providers — but don’t autocorrect them! Warn people if you detect a likely misspelling, but allow them to continue, since it might be a genuine email address.
 - Don’t restrict top-level domains, unless you have a very specific audience, such as only people with .gov or .mil addresses.
 
 This slide shows an email address field with a section below asking if sensitive information should be sent via email.
@@ -273,7 +271,7 @@ This slide shows an email address field with a section below asking if sensitive
 
 **Slide 61:** Some of the key guidance associated with helping users to enter phone numbers addresses this:
 
-- Use “text” input type  instead of “numeric”, since numeric inputs carry some usability and accessibility problems.   But you can help folks out by using the inputmode="numeric" attribute in that text field to both restrict the field to numbers and to automatically enable the numeric keyboard on mobile devices. On this slide we see an image of a mobile device with a phone number field on it. The device shows the numeric keyboard activated…
+- Use “text” input type instead of “numeric”, since numeric inputs carry some usability and accessibility problems. But you can help folks out by using the inputmode="numeric" attribute in that text field to both restrict the field to numbers and to automatically enable the numeric keyboard on mobile devices. On this slide we see an image of a mobile device with a phone number field on it. The device shows the numeric keyboard activated…
 - If you will be contacting the individual by phone, ask whether you can leave sensitive information in a voicemail or text message. Remember people may be sharing phones with others, and may not want to share personal information with them, too.
 - Another recommendation we made is that you consider using an input mask to shape the correct format, allowing the user to type in the numbers and see it represented in a familiar format. And to demo the input mask component, I’m going to turn it over to Jon.
 
@@ -310,14 +308,14 @@ Many of the digital solutions we create rely on collecting personal information 
 
 When what we ask for doesn’t allow users to confidently and accurately communicate their answers — or allow them to update this information as their circumstances change — we may have created a poor user experience and eroded trust from the start. We’ll discuss our approach to developing User Profile design patterns, look at some specific guidance, and talk about why it’s so important.
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

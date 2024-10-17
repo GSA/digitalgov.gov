@@ -25,8 +25,7 @@ topics:
   - plain-language
   - communication
 
-event_cop:
-  - plain-language
+event_cop: plain-language
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
@@ -51,7 +50,6 @@ community_list:
 kicker: "Join the Plain Language Community"
 
 primary_image: "communities-card-pl"
-
 ---
 
 The Plain Language community is a group of government employees and contractors dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves government agencies time and money and provides better service to the American public.

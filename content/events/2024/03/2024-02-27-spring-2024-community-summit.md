@@ -5,7 +5,6 @@ kicker: Annual Gathering
 summary: Digital service experts across the federal government will share case studies and best practices on delivering a digital-first public experience.
 
 event_organizer: Digital.gov
-cop_events: ""
 
 registration_url: https://gsa.zoomgov.com/webinar/register/WN_fS46iSeTSG6ww_VNpzUPeQ
 
@@ -40,24 +39,23 @@ end_date: 2024-03-13 16:00:00 -0500
 event_platform: zoom
 
 primary_image: "spring-2024-community-title-card"
-
 ---
 
 On March 13, 2024, the Digital.gov Spring Community Summit will bring together web and digital service practitioners to talk about the many facets of delivering a digital-first public experience. Federal Chief Information Officer, [Clare Martorana](https://www.cio.gov/about/members-and-leadership/martorana-clare/), will deliver the opening keynote.
 
 Join us for a day of inspiration and collaboration as leading voices across 16 U.S. federal government agencies share stories of innovation and excellence in every phase of the digital project journey. Topics include:
 
-* Recruiting the right talent
-* Uncovering impactful solutions
-* Crafting quality content
-* Navigating seamless acquisitions
-* Figuring out what to do after launch
+- Recruiting the right talent
+- Uncovering impactful solutions
+- Crafting quality content
+- Navigating seamless acquisitions
+- Figuring out what to do after launch
 
 This is your chance to:
 
-* Uncover approaches to building accessibility into every step of the process.
-* Gain practical insights from case studies and real-world experiences.
-* Witness the forefront of thought leadership during panel discussions.
+- Uncover approaches to building accessibility into every step of the process.
+- Gain practical insights from case studies and real-world experiences.
+- Witness the forefront of thought leadership during panel discussions.
 
 **This event is best suited for:** Anyone and everyone invested in advancing federal digital services.
 
@@ -87,11 +85,11 @@ Hear from a panel of experts on making the case for building a digital team with
 
 **Speakers**
 
-* **Jacquelyn Dolezal Morales** — Digital Communications Specialist, Inter-American Foundation (IAF)
-* **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue (ONRR), U.S. Department of the Interior (DOI)
-* **Robert Jolly** — Product Manager, 10x, U.S. General Services Administration (GSA)
-* **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
-* **Gregory Your** — Director of Website Management, U.S. Agency for International Development (USAID)
+- **Jacquelyn Dolezal Morales** — Digital Communications Specialist, Inter-American Foundation (IAF)
+- **Lindsay Goldstein** — Digital Services Specialist, Office of Natural Resources Revenue (ONRR), U.S. Department of the Interior (DOI)
+- **Robert Jolly** — Product Manager, 10x, U.S. General Services Administration (GSA)
+- **Vicki McFadden** — Product Manager, Service Delivery Team, GSA
+- **Gregory Your** — Director of Website Management, U.S. Agency for International Development (USAID)
 
 <table style="width:100%; border:0px;">
 <tr>
@@ -113,11 +111,11 @@ In this session, a panel of experts will share insights, methods, and strategies
 
 **Speakers**
 
-* **Kristen Lohman** — Design Strategist, Service Delivery Team, GSA
-* **Beth A. Martin** — Digital Services Expert (UX Designer), U.S. Office of Personnel Management (OPM)
-* **Mark Meyer** — Software Developer, Digital Service Team, GSA
-* **Christopher Patten** — Human-Centered Designer, U.S. Department of Homeland Security (DHS)
-* **Martha Wilkes** — Lead Accessibility Strategist, U.S. Department of Veterans Affairs (VA)
+- **Kristen Lohman** — Design Strategist, Service Delivery Team, GSA
+- **Beth A. Martin** — Digital Services Expert (UX Designer), U.S. Office of Personnel Management (OPM)
+- **Mark Meyer** — Software Developer, Digital Service Team, GSA
+- **Christopher Patten** — Human-Centered Designer, U.S. Department of Homeland Security (DHS)
+- **Martha Wilkes** — Lead Accessibility Strategist, U.S. Department of Veterans Affairs (VA)
 
 <table style="width:100%; border:0px;">
 <tr>
@@ -144,10 +142,10 @@ Join us for an engaging panel discussion on content strategy development, conten
 
 **Speakers**
 
-* **Joe Galbo** — Social Media Specialist, U.S. Consumer Product Safety Commission (CPSC)
-* **Sally Harris** — Managing Director, Digital Media and Creative Services, U.S. Department of Education (ED)
-* **Ryan Johnson** — Content Strategist, Service Delivery Team, GSA
-* **Rosamund Lannin** — Content Strategist, Service Delivery Team, GSA
+- **Joe Galbo** — Social Media Specialist, U.S. Consumer Product Safety Commission (CPSC)
+- **Sally Harris** — Managing Director, Digital Media and Creative Services, U.S. Department of Education (ED)
+- **Ryan Johnson** — Content Strategist, Service Delivery Team, GSA
+- **Rosamund Lannin** — Content Strategist, Service Delivery Team, GSA
 
 <table style="width:100%; border:0px;">
 <tr>
@@ -167,11 +165,11 @@ In this panel discussion, you’ll learn the key factors that contribute to the 
 
 **Speakers**
 
-* **Anthony Burley** — IT Management, Court Services & Offender Supervision Agency for the District of Columbia (CSOSA)
-* **Laura Larrimore** — Senior Digital Strategist, U.S. Department of State (DOS)
-* **Andrew Nielson** — Director, Government-wide IT Accessibility Program, GSA
-* **Ashley Owens** — Senior Digital Acquisition Strategist, Service Delivery Team, GSA
-* **Justen Proctor** — Senior Contracting Officer, GSA
+- **Anthony Burley** — IT Management, Court Services & Offender Supervision Agency for the District of Columbia (CSOSA)
+- **Laura Larrimore** — Senior Digital Strategist, U.S. Department of State (DOS)
+- **Andrew Nielson** — Director, Government-wide IT Accessibility Program, GSA
+- **Ashley Owens** — Senior Digital Acquisition Strategist, Service Delivery Team, GSA
+- **Justen Proctor** — Senior Contracting Officer, GSA
 
 <table style="width:100%; border:0px;">
 <tr>
@@ -191,10 +189,10 @@ Don’t miss the opportunity to hear from a panel of experts on experiences in s
 
 **Speakers**
 
-* **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), U.S. Department of Health and Human Services (HHS)
-* **Michael Horton** — Accessible Design & Development Advisor, GSA
-* **Gloria Huang** — Digital Engagement and Analytics Branch Chief, Federal Emergency Management Agency (FEMA), DHS
-* **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
+- **Tori Garten** — Chief of New Media and Web Policy Branch, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), U.S. Department of Health and Human Services (HHS)
+- **Michael Horton** — Accessible Design & Development Advisor, GSA
+- **Gloria Huang** — Digital Engagement and Analytics Branch Chief, Federal Emergency Management Agency (FEMA), DHS
+- **Jessica Marine** — Product Manager, Service Delivery Team & Digital Experience (DX) lead, GSA
 
 <table style="width:100%; border:none;">
 <tr>
@@ -220,12 +218,12 @@ Closing remarks with Ann Lewis, Director, Technology Transformation Services (TT
 
 ## Resources
 
-* [Digital service delivery](https://digital.gov/topics/digital-service-delivery/)
-* [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/)
-* [Timeless top 10 best practices for great government websites](https://digital.gov/2024/02/09/timeless-top-10-best-practices-for-great-government-websites/)
-* [Sunrise to sunset: Building a customer-centric digital ecosystem](https://digital.gov/2022/10/14/sunrise-to-sunset-building-a-customer-centric-digital-ecosystem/)
-* [Taking a design-led approach to digital modernization](https://digital.gov/2022/10/07/taking-a-design-led-approach-to-digital-modernization/)
+- [Digital service delivery](https://digital.gov/topics/digital-service-delivery/)
+- [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/)
+- [Timeless top 10 best practices for great government websites](https://digital.gov/2024/02/09/timeless-top-10-best-practices-for-great-government-websites/)
+- [Sunrise to sunset: Building a customer-centric digital ecosystem](https://digital.gov/2022/10/14/sunrise-to-sunset-building-a-customer-centric-digital-ecosystem/)
+- [Taking a design-led approach to digital modernization](https://digital.gov/2022/10/07/taking-a-design-led-approach-to-digital-modernization/)
 
-- - -
+---
 
 Collaborate and share resources with other communities across government who are focused on building better digital experience in government. [Join a Digital.gov Community of Practice](https://digital.gov/communities/).

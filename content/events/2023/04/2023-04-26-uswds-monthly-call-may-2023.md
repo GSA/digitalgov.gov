@@ -6,7 +6,6 @@ summary: Join us as we observe Global Accessibility Awareness Day and talk about
   the real-world experience of blind users on the web.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsc-6tpzIsHMfAzbOrvIBDAiCipibdW7w
 captions: https://www.streamtext.net/player?event=BIS-GSA-2133
 date: 2023-05-18 14:00:00 -0500
@@ -33,11 +32,11 @@ This month we're celebrating Mothers Day, which was this last weekend, as I'm su
 
 First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. Unfortunately, while we are recording this call, we currently aren't able to share the video publicly.
 
-I’d also like to remind you that by voluntarily attending this Digital.gov event, you agree to abide by Digital.gov’s community guidelines at [digital.gov/communities/community-guidelines/](https://digital.gov/communities/community-guidelines/) — you can leave the meeting at any time if you do not agree to abide by these guidelines. We’ve posted a link to the community guidelines in the chat. 
+I’d also like to remind you that by voluntarily attending this Digital.gov event, you agree to abide by Digital.gov’s community guidelines at [digital.gov/communities/community-guidelines/](https://digital.gov/communities/community-guidelines/) — you can leave the meeting at any time if you do not agree to abide by these guidelines. We’ve posted a link to the community guidelines in the chat.
 
 If you are in the Zoom app, you can use integrated live captioning by selecting the “CC” button on the bottom of the screen. If you prefer live captioning in a separate window, we've posted a link to the live captioning in the chat.
 
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 
@@ -64,17 +63,17 @@ And then we'll have some time left at the end for Q&A. So let's get right into i
 
 - **Consistency and legibility of disabled form elements.** We updated and normalized disabled styling across our form elements, making disabled styles more distinct from active styles, and increasing the visibility of disabled elements. We also applied consistent styling to forced colors and high contrast mode, and are phasing out class-based disabled styling. When possible, teams should work to move away from disabled styling on form elements and toward other validation workflows, but in the meantime, we'll do what we can to assure that disabled functionality is obvious and clear.
 - **File input experience for voice and screen readers.** We made some important improvements to the file input component that improve its ability to interact as expected with voice command, and to better announce its status to screen readers.
-- **Space bar trigger to links styled as buttons.** There isn't any clear consensus on whether sighted users make a distinction between types of actions a button triggers: whether there's a meaningful difference between buttons that follow a link or buttons that trigger a non-link action like form submission. But from the USWDS perspective, we want to make sure that if it looks like a button, you can trigger it like a button, with the spacebar. And in USWDS 3.5.0, now it does. 
+- **Space bar trigger to links styled as buttons.** There isn't any clear consensus on whether sighted users make a distinction between types of actions a button triggers: whether there's a meaningful difference between buttons that follow a link or buttons that trigger a non-link action like form submission. But from the USWDS perspective, we want to make sure that if it looks like a button, you can trigger it like a button, with the spacebar. And in USWDS 3.5.0, now it does.
 
-But is a link styled as a button actually a button? 
+But is a link styled as a button actually a button?
 
 Screen readers will not know whether a link looks like a link or looks like a button. It's parsed as the role we assign it. For these users, we should be as clear as possible about what the element is. If it's a link, it should vocalize as a link, if it's a button, it should vocalize as a button. Screen readers have a more direct connection to what the element is, and our markup should reflect that. So this is why we also want to be clear that **role="button"** is reserved only for button elements and not link elements.
 
 So, with USWDS 3.5.0, if it looks like a button you can trigger it as you would a button. And as it's been for some time in the design system, only button elements should get a role of button.
 
-- **Updated Identifier accessibility link.** Next, we'll be updating our Identifier's Accessibility Statement link. The Identifier is meant to link out to a service or agency's Accessibility Statement as required by OMB policy. Currently the link reads Accessibility Support, but to align the component more closely with policy, we'll be changing it to Accessibility Statement. 
+- **Updated Identifier accessibility link.** Next, we'll be updating our Identifier's Accessibility Statement link. The Identifier is meant to link out to a service or agency's Accessibility Statement as required by OMB policy. Currently the link reads Accessibility Support, but to align the component more closely with policy, we'll be changing it to Accessibility Statement.
 
-- **And finally, in USWDS 3.5.0, we're updating our form guidance to finally suggest labeling both required fields and optional fields.** This guidance has been a bit behind standards and norms, and we're finally updating and clarifying this guidance so we recommend that almost all forms — particularly those of three or more fields — label whether a each individual field is optional or required. 
+- **And finally, in USWDS 3.5.0, we're updating our form guidance to finally suggest labeling both required fields and optional fields.** This guidance has been a bit behind standards and norms, and we're finally updating and clarifying this guidance so we recommend that almost all forms — particularly those of three or more fields — label whether a each individual field is optional or required.
 
 - And those are the noteworthy updates in USWDS 3.5.0. But there are a few more nice developer-centered improvements that we'll leave to the release notes!
 
@@ -92,13 +91,13 @@ In general, we consider our design system components to be Section 508 and WCAG 
 
 **Slide 13:** But when it comes to documenting the conformance of our components, we think the answer isn't just a green checkmark or a simple badge like the silly badge on this slide that reads "Section 508 Inside!"
 
-That does have some value, but we think there's a next level of value, beyond the signal of conformance, that comes from how we made this assessment — of what accessibility and usability tests we consider critical to the success of a component. 
+That does have some value, but we think there's a next level of value, beyond the signal of conformance, that comes from how we made this assessment — of what accessibility and usability tests we consider critical to the success of a component.
 
 We want teams not only to be confident in the accessibility and usability features built into our components, but to be empowered to test the success of their own implementations — especially since there are some aspects to accessibility and usability (like using the appropriate heading level in some components) that are impossible to test before implementation.
 
 **Slide 14:** We're thinking of this documentation tool as component-based "critical checklists" for every component in the design system. Our minimum viable product here — or “phase one” if you will — will outline the relevant WCAG 2.1 requirements for each component, along with how to test this requirement, and when we last tested. And as the critical checklist project matures, it could expand to include other aspects of best-practice component accessibility and usability that aren't yet captured in any formal standard.
 
-**Slide 15:** The critical checklists will be easy-to-check functional accessibility and usability tests. 
+**Slide 15:** The critical checklists will be easy-to-check functional accessibility and usability tests.
 We know teams can feel overwhelmed with accessibility. And we also know plenty of folks are on lean teams with limited technical resources. As much as possible, these critical checklists will be designed for anyone with modest technical skills to follow. They'll be written in nontechnical plain language, and focused on outcomes instead of on technical markup.
 
 **Slide 16:** Critical checklists should outline what all of us can do to validate (and revalidate!) component functionality, both internally at USWDS and for project re-validation. When it comes to accessibility, the more evaluation the better!
@@ -107,9 +106,9 @@ It's also possible that as we move forward with these checklists, we'll identify
 
 We think there's an excellent opportunity here to not only be accurate and transparent about documenting what goes into our components, but also to be a resource for project teams, and perhaps to point in the direction of future improvements.
 
-**Slide 17:** We aim to publish at least one of these checklists by next month’s call and to establish a publishing schedule for the rest of them as well. 
+**Slide 17:** We aim to publish at least one of these checklists by next month’s call and to establish a publishing schedule for the rest of them as well.
 
-These checklists will also play an important role in a couple of other related process documents we're developing: a component maturity model, a component proposal framework, and a component acceptance framework. 
+These checklists will also play an important role in a couple of other related process documents we're developing: a component maturity model, a component proposal framework, and a component acceptance framework.
 
 **Slide 18:** As we develop this content and start to publish our first drafts, we'll be reaching out to Feds who've expressed interest in providing usability feedback to the design system in order to solicit input on our checklist approach; so be on the lookout for some communication from us over the next month.
 
@@ -117,24 +116,24 @@ These checklists will also play an important role in a couple of other related p
 
 Dan: Thanks Amy. I think there's a lot of promise in these checklists — sharing and building practical accessibility awareness from a number of different angles both here a the design system and across project teams.
 
-**Slide 20:** For the next half an hour, let's talk about real-world accessibility. Specifically, What’s it like to be blind and use the web here in 2023. 
+**Slide 20:** For the next half an hour, let's talk about real-world accessibility. Specifically, What’s it like to be blind and use the web here in 2023.
 
 **Slide 21:** Joining me today is Eric Yarberry, an educator, an advocate for the blind and visually impaired, and the president and CEO at World Services for the Blind. Eric is blind, and as we get started I wanted to mention something that will be a little different about this chat. I will be occasionally unmuting as we speak together to provide the type of "yeahs", "oks", and other social cues that we sometimes keep muted and convey gesturally or with facial expression in video conferences. So while this may be a little different and a little distracting, I hope you can get used to it since it's important to a good conversation. Which I can wait to get into!
 
 **Eric — welcome — it's great to have you with us today. To get started, can you take a sec and tell us a bit about who you are and what you do.**
 
-**ANSWER:** My name is Eric. I'm the President and CEO at World Services for the Blind. I've been blind my entire life and so I'm honored to be representing our community on this call today. It's fun getting to provide services to blind and visually impaired individuals.  A lot of what I do is working with adults who lose their vision later in life.  As you'll hear, in our call we will talk about teaching blind or visually impaired individuals how to use the internet and some of the things that impact us blind individuals in our day-to-day lives. 
+**ANSWER:** My name is Eric. I'm the President and CEO at World Services for the Blind. I've been blind my entire life and so I'm honored to be representing our community on this call today. It's fun getting to provide services to blind and visually impaired individuals. A lot of what I do is working with adults who lose their vision later in life. As you'll hear, in our call we will talk about teaching blind or visually impaired individuals how to use the internet and some of the things that impact us blind individuals in our day-to-day lives.
 
 **QUESTION:** You're an educator. What kind of advice (or warnings!) do you give to newly blind students learning about how to interact with digital sites and services?
 
-**ANSWER:** One of the first things I always tell folks is that you've got to re-learn the internet. The internet is visually based. I teach them to understand that the website content appearing on the screen when you first open it is the most important content. It’s the same as the concept of “above the fold” when you read a newspaper. 
+**ANSWER:** One of the first things I always tell folks is that you've got to re-learn the internet. The internet is visually based. I teach them to understand that the website content appearing on the screen when you first open it is the most important content. It’s the same as the concept of “above the fold” when you read a newspaper.
 We have to teach them how a screen reader actually reads a website. I encourage people to stay motivated and positive about it by finding a website that they really like to use. They can go back to that site to build their skills.
 Often, we encourage individuals who have just lost their vision to pick up a mobile device and learn to use the accessibility tools built on a mobile device, and then gradually build up to a desktop computer.
 
 **QUESTION:** I was wondering, can you think back to a time when you had a website experience that was frustrating to you? Can you describe that experience, and how you dealt with it?
 
 **ANSWER:** I was cooking and pulled up a recipe on my phone. The website had an ad on a timer. You may have seen an ad that ticks down from 15 to 0 seconds. Normally it’s not frustrating because it means the ad will change, and you can ignore it. But for someone using screen reader software, every second that changes it announces that second. So, I’m trying to read this recipe, and it just keeps reading the timer. Or sometimes I open a website and an automatic video starts playing.
-I’m starting to see more and more websites where the video is automatically muted, which is awesome. But even when the ads aren’t audible, they still have that timer, and I think that’s the most frustrating thing. More advanced screen reader users can find workarounds like scrolling down on the website, taking a screenshot, and importing it into an ocular character recognition app. It’s a lot of workaround to read a recipe. 
+I’m starting to see more and more websites where the video is automatically muted, which is awesome. But even when the ads aren’t audible, they still have that timer, and I think that’s the most frustrating thing. More advanced screen reader users can find workarounds like scrolling down on the website, taking a screenshot, and importing it into an ocular character recognition app. It’s a lot of workaround to read a recipe.
 Especially being blind, you just get used to piecing things together and problem solving.
 
 **QUESTION:** Do you find websites more usable and accessible today then they were in the past? What's better? What's worse?
@@ -162,13 +161,13 @@ A red flag is a website that just seems like a field of links, with forms that a
 
 **QUESTION:** Do you follow "accessibility" links and provide feedback when you find accessibility issues on sites? What do you hope to find on an accessibility page?
 
-**ANSWER:** Absolutely. If I have an issue or if I notice the website is really well done, I think it's important. A lot of the people that we work with are frustrated, and someone has got to speak up. 
+**ANSWER:** Absolutely. If I have an issue or if I notice the website is really well done, I think it's important. A lot of the people that we work with are frustrated, and someone has got to speak up.
 We’ll start off with the positive. One thing that's great is if I can access the accessibility link and a field for suggestions where I can actually share my contact information. I like to see a statement on the efforts of the organization and if possible a name of someone who is in charge of the accessibility efforts. If I fill out that form, a response within the first 48 hours would be awesome.
-When I’m accessing that form I am doing it because I intend to actually use the website. If the website isn’t accessible and I could go find that information somewhere else, I’m just going to go somewhere else. But in some cases it’s for work, and I like the services, but it’s just not accessible. I am there to work with those folks to make it accessible. I don't want to come across as a nuisance; trust me, it's not my intention. I didn't choose to be blind. It's just the fact of the matter. I want to come across as respectful, and I teach the folks I work with to be respectful. I know that it’s not people’s first intention to be inaccessible. 
+When I’m accessing that form I am doing it because I intend to actually use the website. If the website isn’t accessible and I could go find that information somewhere else, I’m just going to go somewhere else. But in some cases it’s for work, and I like the services, but it’s just not accessible. I am there to work with those folks to make it accessible. I don't want to come across as a nuisance; trust me, it's not my intention. I didn't choose to be blind. It's just the fact of the matter. I want to come across as respectful, and I teach the folks I work with to be respectful. I know that it’s not people’s first intention to be inaccessible.
 
 **QUESTION:** What's something you wish more people knew about how blind people use the web?
 
-**ANSWER:** The fact that blind people do use the internet, I think that shocks people. I will make comments on websites like, “Hey, I appreciate that from a blind perspective.” And I'll get replies to my comments such as, “Well, how are you blind? You're using the internet.” I think, oh, man, here we go. I don't go round and round with people anymore because it's not my goal to educate the world. But I appreciate this opportunity to get to share my experiences with you. Know that blind people do access the internet. 
+**ANSWER:** The fact that blind people do use the internet, I think that shocks people. I will make comments on websites like, “Hey, I appreciate that from a blind perspective.” And I'll get replies to my comments such as, “Well, how are you blind? You're using the internet.” I think, oh, man, here we go. I don't go round and round with people anymore because it's not my goal to educate the world. But I appreciate this opportunity to get to share my experiences with you. Know that blind people do access the internet.
 Especially with technology; that’s how we do our jobs. And that's keeping blind and visually impaired folks employed, and actually providing meaningful lives. We could go down that rabbit hole, but I think it's just important to know that we do access the internet, and we do appreciate the adjustments you make to your websites and your content. It helps so much. It really does.
 
 **Slide 22:** Q&A
@@ -179,44 +178,46 @@ Thank you, see you next month, and as Mike Horton at the Section 508 program say
 
 {{< /accordion >}}
 
-Join us as we observe Global Accessibility Awareness Day and talk about the real-world experience of blind users on the web. 
+Join us as we observe Global Accessibility Awareness Day and talk about the real-world experience of blind users on the web.
 
 In this session, we’ll:
 
-* Learn from the real-life experience of blind users of screen readers.
-* Understand the most common frustrations blind users have with their experience of the web. 
-* Dig into some of the differences between manual testing and real-world use. 
-* Discuss design system goals for including accessibility in future monthly calls. 
+- Learn from the real-life experience of blind users of screen readers.
+- Understand the most common frustrations blind users have with their experience of the web.
+- Dig into some of the differences between manual testing and real-world use.
+- Discuss design system goals for including accessibility in future monthly calls.
 
 **This event is best suited for:** Designers and developers of all levels, leadership
 
 ## Speakers
 
-* **Dan Williams -** Product Lead, USWDS
-* **Amy Cole -** Accessibility Specialist, USWDS
-* **Eric Yarberry -** President & CEO, World Services for the Blind
+- **Dan Williams -** Product Lead, USWDS
+- **Amy Cole -** Accessibility Specialist, USWDS
+- **Eric Yarberry -** President & CEO, World Services for the Blind
 
 ## Join our Communities of Practice
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
 ## Resources
-* [Accessibility resources — Digital.gov](https://digital.gov/topics/accessibility/)
-* [Accessibility: Usability for every ability — USWDS](https://designsystem.digital.gov/documentation/accessibility/)
-* [Create Accessible Digital Products — Section508.gov](https://www.section508.gov/create/)
-* [Find your federal agency’s Section 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/)
-* [How to Test Websites for Accessibility (with video)](https://digital.gov/resources/how-test-websites-for-accessibility/)
-* [Accessible Digital Content: Tips and Tricks (Digital.gov video playlist)](https://www.youtube.com/watch?v=CL6lOwJEMGQ&list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm&index=22)
-* [Accessibility for Teams](https://accessibility.digital.gov/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+- [Accessibility resources — Digital.gov](https://digital.gov/topics/accessibility/)
+- [Accessibility: Usability for every ability — USWDS](https://designsystem.digital.gov/documentation/accessibility/)
+- [Create Accessible Digital Products — Section508.gov](https://www.section508.gov/create/)
+- [Find your federal agency’s Section 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/)
+- [How to Test Websites for Accessibility (with video)](https://digital.gov/resources/how-test-websites-for-accessibility/)
+- [Accessible Digital Content: Tips and Tricks (Digital.gov video playlist)](https://www.youtube.com/watch?v=CL6lOwJEMGQ&list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm&index=22)
+- [Accessibility for Teams](https://accessibility.digital.gov/)
+
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

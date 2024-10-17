@@ -21,8 +21,7 @@ aliases:
 authors:
   - tlowden
 
-event_cop:
-  - web-analytics
+event_cop: web-analytics
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -48,7 +47,6 @@ community_list:
 kicker: "Join the Web Analytics Community"
 
 primary_image: "communities-card-analytics"
-
 ---
 
 In government, those with analytics as part of their duties are faced with a fast-paced, ever-changing environment. Technologies, strategies, and tools change regularly. This community aims to uncover best practices, case studies, tips, and tools for web analytics and optimization.
@@ -63,7 +61,7 @@ We’re government website analysts, developers, content strategists, user exper
 
 ## Related Resources
 
-* [Digital Analytics Program](https://digital.gov/guides/dap/)
-* [Search.gov](https://search.gov/)
-* [U.S. Web Design System](https://designsystem.digital.gov/)
-* [Web Analytics Playbook](https://digital.gov/guides/web-analytics-playbook/)
+- [Digital Analytics Program](https://digital.gov/guides/dap/)
+- [Search.gov](https://search.gov/)
+- [U.S. Web Design System](https://designsystem.digital.gov/)
+- [Web Analytics Playbook](https://digital.gov/guides/web-analytics-playbook/)

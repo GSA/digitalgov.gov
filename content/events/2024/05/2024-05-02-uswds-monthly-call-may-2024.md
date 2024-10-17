@@ -6,7 +6,6 @@ summary: The U.S. Web Design System (USWDS) team will chat with Center for Civic
   Design co-founder Whitney Quesenbery about designing accessible civic spaces.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItcO6qpjsiGK0hB4N06M49z5wbessGW2Y
 date: 2024-05-16 14:00:00 -0500
 end_date: 2024-05-16 15:00:00 -0500
@@ -139,9 +138,9 @@ For people with disabilities, it’s the signal that their needs for accessibili
 
 **Slide 17:** It is a two-way matrix of bad and good experience vs. low and high expectations.
 
-In the bottom left corner, there’s the black hole of low expectations and bad experience. It’s a *kind* of success: you’ve met their worst expectations!
+In the bottom left corner, there’s the black hole of low expectations and bad experience. It’s a _kind_ of success: you’ve met their worst expectations!
 
-Moving counterclockwise there’s the pleasant surprise when low expectations meet a good experience. It’s the moment the blue sky peeks out from behind the clouds. At this point, you can stop thinking about the basics of accessibility and start thinking about the needs that go along with *different* disabilities. And with different types of *users* with disabilities.
+Moving counterclockwise there’s the pleasant surprise when low expectations meet a good experience. It’s the moment the blue sky peeks out from behind the clouds. At this point, you can stop thinking about the basics of accessibility and start thinking about the needs that go along with _different_ disabilities. And with different types of _users_ with disabilities.
 
 Next, you reach the goal, where high expectations meet a good experience. That’s where every site or app should be.
 
@@ -171,11 +170,11 @@ The [ISO 9241](https://www.iso.org/standard/80709.html) series on **The ergonomi
 
 The new Part 20, on accessibility, ties accessibility and usability together, by defining accessibility as "The usability of a product, service, environment, or facility by people with the widest range of capabilities."
 
-In other words: *usability for more people*.
+In other words: _usability for more people_.
 
 Our goal is to make "usability for all" as wide as possible, and the edges of the curve where people need assistance as narrow as possible.
 
-**Slide 21:** Or, more simply, usability for more people. When you look at a normal distribution curve, as you move out from the middle: from **usability** to **accessibility**, more people are included when our tools and apps are built with a wider range of capabilities in mind. 
+**Slide 21:** Or, more simply, usability for more people. When you look at a normal distribution curve, as you move out from the middle: from **usability** to **accessibility**, more people are included when our tools and apps are built with a wider range of capabilities in mind.
 
 But sometimes we can’t meet that goal. The next step out towards the ends is **accommodation**. That’s when there is an alternative that addresses accessibility needs, but it’s separate. Think about a ramp to a side door vs. everyone being able to reach the front door. Or a different- though perhaps equally good solution.
 
@@ -209,8 +208,8 @@ I was the chair for human factors and privacy — including usability and access
 
 The official words in HAVA 301(a)(3) are that voting systems **shall be accessible**
 
-* for individuals with disabilities, including **non=visual accessibility** for the blind and visually impaired,
-* in a manner that provides the same opportunity for access and participation including **privacy and independence** as for other voters
+- for individuals with disabilities, including **non=visual accessibility** for the blind and visually impaired,
+- in a manner that provides the same opportunity for access and participation including **privacy and independence** as for other voters
 
 While I was on the committee, we wrote the first and most of the 1.1 version of the Voluntary Voting System Guidelines ([VVSG](https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines)). We started from an almost blank page: 2 existing requirements for accessibility, some preliminary work on an IEEE standards, and Section 508/WCAG.
 
@@ -242,7 +241,7 @@ The real test, however, is in action. Do our designs help reduce the number of b
 
 We can get anecdotal evidence. But the only meaningful answer is in robust data collection from every state. That lets us look at a state over time or in comparison to others.
 
-This is something else the EAC is mandated to do. The Election Administration Voting Survey (EAVS) collects data on even-year elections from all 55 states, DC, and territories. 
+This is something else the EAC is mandated to do. The Election Administration Voting Survey (EAVS) collects data on even-year elections from all 55 states, DC, and territories.
 
 The survey itself is designed in a process with public input.
 
@@ -268,7 +267,7 @@ Whitney: This is Whitney. Let's talk about something the city of Los Angeles has
 
 **Slide 25:** LA started with the Votomatic InkaVote - an adapted punchcard system.
 
-It took them 12 years to design and build and launch their new system. That seems like forever, but  what they did was remarkable.
+It took them 12 years to design and build and launch their new system. That seems like forever, but what they did was remarkable.
 
 They started with a [voter-focused process](https://vsap.lavote.gov/research/) with broad community and expert input.
 
@@ -280,7 +279,7 @@ The vote by mail design came first – not just in English, but supporting 19 la
 
 **Slide 26:** The ballots are delightful. They are also designed following the recommendations from an EAC research project and the requirements of the VVSG.
 
-In 2020, the voting system was launched – called the Voting System for All People or VSAP.  It’s a ballot marking device. Following a universal design approach, it’s not the accessible voting system. It’s the voting system.
+In 2020, the voting system was launched – called the Voting System for All People or VSAP. It’s a ballot marking device. Following a universal design approach, it’s not the accessible voting system. It’s the voting system.
 
 **Slide 27:** It has a tactile controller to complement the touch screen, audio in all 19 languages, and a ballot box at each station where the printed ballot is stored. It can be operated without the use of your hands.
 
@@ -322,25 +321,25 @@ Join the U.S. Web Design System team on Global Accessibility Awareness Day. Gues
 
 **Speakers**
 
-* **Dan Williams** **-** Product Lead, USWDS
-* **Anne Petersen** **-** Experience Design Lead, USWDS
-* **Amy Cole** **-** Accessibility Specialist, USWDS Contractor
-* **Alex Hull** **-** Accessibility Specialist, USWDS Contractor
-* **Whitney Quesenbery** **-** Co-founder, Center for Civic Design
+- **Dan Williams** **-** Product Lead, USWDS
+- **Anne Petersen** **-** Experience Design Lead, USWDS
+- **Amy Cole** **-** Accessibility Specialist, USWDS Contractor
+- **Alex Hull** **-** Accessibility Specialist, USWDS Contractor
+- **Whitney Quesenbery** **-** Co-founder, Center for Civic Design
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@gsa.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@gsa.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

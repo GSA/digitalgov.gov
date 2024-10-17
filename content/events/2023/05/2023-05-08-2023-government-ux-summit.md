@@ -6,9 +6,6 @@ summary: User experience (UX) experts across the federal government will share c
 
 host: User Experience Community of Practice
 event_organizer: Digital.gov
-cop_events:
-  - user-experience
-  - web-managers
 
 registration_url: https://gsa.zoomgov.com/webinar/register/WN_moRmnMLtQpmmrvtFgR6qiw
 captions: "https://www.streamtext.net/player?event=BIS-GSA-5334455"
@@ -34,21 +31,20 @@ event_platform: zoom
 youtube_id: ""
 
 primary_image: "title-card-2023-government-ux-summit"
-
 ---
 
 On June 14, 2023, Digital.gov will bring together user experience (UX) practitioners to share case studies and best practices from across the federal government with the theme of driving innovation through inclusion. Hear from our speakers about their experiences and lessons learned as they apply UX principles and methodologies in line with the [President’s Management Agenda](https://www.performance.gov/pma/) (PMA) to deliver results for all Americans.
 
 At this year’s summit, you will hear from speakers at eight U.S. federal agencies:
 
-* Department of Defense (DOD)
-* Department of Health and Human Services (HHS)
-* Department of Homeland Security (DHS)
-* Department of the Interior (DOI)
-* Department of Labor (DOL)
-* Department of Veterans Affairs (VA)
-* General Services Administration (GSA)
-* Office of Personnel Management (OPM)
+- Department of Defense (DOD)
+- Department of Health and Human Services (HHS)
+- Department of Homeland Security (DHS)
+- Department of the Interior (DOI)
+- Department of Labor (DOL)
+- Department of Veterans Affairs (VA)
+- General Services Administration (GSA)
+- Office of Personnel Management (OPM)
 
 The summit is virtual. There will be a short break after each session, and for an hour at noon, Eastern. Reserve your virtual seat today!
 
@@ -86,14 +82,14 @@ In this presentation, we will share actionable tips about managing project logis
 
 **Speakers**
 
-* **Kelly Wisneski**—Design Researcher, USAJOBS, OPM
-* **McKenna Cole**—Design Researcher, The Lab at OPM
-* **Patricia Morris**—Design Strategist, The Lab at OPM
-* **Simone Saldanha**—Design Researcher, The Lab at OPM
+- **Kelly Wisneski**—Design Researcher, USAJOBS, OPM
+- **McKenna Cole**—Design Researcher, The Lab at OPM
+- **Patricia Morris**—Design Strategist, The Lab at OPM
+- **Simone Saldanha**—Design Researcher, The Lab at OPM
 
 **Moderator**
 
-* **UX Community co-lead, Natalie Buda Smith**—Director of Digital Strategy, Library of Congress
+- **UX Community co-lead, Natalie Buda Smith**—Director of Digital Strategy, Library of Congress
 
 ---
 
@@ -117,17 +113,17 @@ Presenters will share a stakeholder feedback model that user experience professi
 
 **Key takeaways from this session will include:**
 
-* Methods for engaging with stakeholders and gathering feedback to produce more inclusive and accessible user experiences.
-* A model for gathering, categorizing, prioritizing, implementing, and measuring stakeholder feedback in user experience design and methods to apply in your own work.
+- Methods for engaging with stakeholders and gathering feedback to produce more inclusive and accessible user experiences.
+- A model for gathering, categorizing, prioritizing, implementing, and measuring stakeholder feedback in user experience design and methods to apply in your own work.
 
 **Speakers**
 
-* **Jennifer Shelley**—Health Communications Strategist, Division of Communications, NIH
-* **Leslie Westendorf**—Contractor, UX Strategy, NIH
+- **Jennifer Shelley**—Health Communications Strategist, Division of Communications, NIH
+- **Leslie Westendorf**—Contractor, UX Strategy, NIH
 
 **Moderator**
 
-* **Laura Lourenco**—Business Informatics Specialist, U.S. Food & Drug Administration (FDA)
+- **Laura Lourenco**—Business Informatics Specialist, U.S. Food & Drug Administration (FDA)
 
 ---
 
@@ -151,18 +147,18 @@ In 2022, the VA launched the [Health and Benefits flagship mobile app](https://n
 
 **In this session, we will share:**
 
-* How we set up the research
-* How we conducted accessibility-first synthesis sessions within the team
-* How research findings led to improvements in the app
+- How we set up the research
+- How we conducted accessibility-first synthesis sessions within the team
+- How research findings led to improvements in the app
 
 **Speakers**
 
-* **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
-* **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
+- **Martha Wilkes**—Accessibility Strategist, VA Office of the Chief Technology Officer (CTO)
+- **Elizabeth Straghalis**—Contractor, Staff Researcher, VA
 
 **Moderator**
 
-* **David Tucker**—Experience Strategist, U.S. Department of State
+- **David Tucker**—Experience Strategist, U.S. Department of State
 
 #### 2. Operation Rising Tide: Cognitive disability accommodations for the workforce
 
@@ -182,12 +178,12 @@ The presenters will brief Operation Rising Tide, which is an initiative intended
 
 **Speakers**
 
-* **Gordon Banks**—General Engineer, Defense Threat Reduction Agency (DTRA)
-* **MAJ Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
+- **Gordon Banks**—General Engineer, Defense Threat Reduction Agency (DTRA)
+- **MAJ Kirk Shoemaker**—Nuclear and Countering Weapons of Mass Destruction Officer, U.S. Army, DTRA
 
 **Moderator**
 
-* **David Tucker**—Experience Strategist, U.S. Department of State
+- **David Tucker**—Experience Strategist, U.S. Department of State
 
 ---
 
@@ -209,19 +205,19 @@ Alex (an engineer) and Laura (a designer) love that the right phrase can transla
 
 **In this session we will:**
 
-* Discuss the value and importance of understanding, interrogating, and improving our metaphors.
-* Help you listen for and track the existing metaphors invisibly shaping your workplace.
-* Help you reflect on their strengths, weaknesses, and impacts.
-* Offer methods to quickly generate new metaphors and refresh those that have grown stale.
+- Discuss the value and importance of understanding, interrogating, and improving our metaphors.
+- Help you listen for and track the existing metaphors invisibly shaping your workplace.
+- Help you reflect on their strengths, weaknesses, and impacts.
+- Offer methods to quickly generate new metaphors and refresh those that have grown stale.
 
 **Speakers**
 
-* **Alex Bielen**—Engineering Supervisor at 18F, GSA
-* **Laura Nash**—Design Supervisor at 18F, GSA
+- **Alex Bielen**—Engineering Supervisor at 18F, GSA
+- **Laura Nash**—Design Supervisor at 18F, GSA
 
 **Moderator**
 
-* **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
+- **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
 
 #### 2. Simplifying user experiences for complex content at USAGov
 
@@ -243,19 +239,19 @@ We’ll explain the process of how our [Scams Wizard](https://www.usa.gov/where-
 
 **Key takeaways from this session include:**
 
-* An example of simplifying complex content for people in an emotional state.
-* Our process, which involved content design, prototyping, and comparative usability testing with underserved communities.
-* How we put together a mini product team.
-* Launching imperfect tools and making iterative improvements based on data.
+- An example of simplifying complex content for people in an emotional state.
+- Our process, which involved content design, prototyping, and comparative usability testing with underserved communities.
+- How we put together a mini product team.
+- Launching imperfect tools and making iterative improvements based on data.
 
 **Speakers**
 
-* **Joanne McGovern**—UX Researcher, USAGov, GSA
-* **Mercedita Andrew**—Contractor, UX Researcher, GSA
+- **Joanne McGovern**—UX Researcher, USAGov, GSA
+- **Mercedita Andrew**—Contractor, UX Researcher, GSA
 
 **Moderator**
 
-* **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
+- **Jonella Culmer**—User Experience Designer, Federal Election Commission (FEC)
 
 ---
 
@@ -279,26 +275,26 @@ This panel includes user and customer experience specialists from three very dif
 
 {{< img-right src="dol-svg-seal" >}}
 
-* Is the signed form a requirement that builds or reduces inclusion?
-* What other options do we have?
-* What power dynamics do we have with our participants when providing government services? And how do consent forms play into those power dynamics?
+- Is the signed form a requirement that builds or reduces inclusion?
+- What other options do we have?
+- What power dynamics do we have with our participants when providing government services? And how do consent forms play into those power dynamics?
 
 **Speakers**
 
-* **Dana Chisnell**—Acting Director for Customer Experience, DHS
-* **Erin Elzi**—Digital Services Specialist, Office of Natural Resources Revenue, DOI
-* **Shannon McHarg**—User Experience Designer, Office of the Chief Information Officer (CIO), DOL
+- **Dana Chisnell**—Acting Director for Customer Experience, DHS
+- **Erin Elzi**—Digital Services Specialist, Office of Natural Resources Revenue, DOI
+- **Shannon McHarg**—User Experience Designer, Office of the Chief Information Officer (CIO), DOL
 
 **Moderator**
 
-* **UX Community co-lead, Jaime Kern**—Strategic Communications Lead, Office of Enterprise Strategy Management, GSA
+- **UX Community co-lead, Jaime Kern**—Strategic Communications Lead, Office of Enterprise Strategy Management, GSA
 
 ## Resources
 
-* [Digital.gov 2022 Government UX Summit](https://digital.gov/event/2022/06/07/2022-government-ux-summit/)
-* [How to Redesign a 19-Year-old Legacy Application Using Agile and User Experience Methodologies (video)](https://youtu.be/cl6sVFjzZG4)
-* [Designing Digital Products for Adults With Low Literacy (video)](https://youtu.be/d1MDLbZoEwQ)
+- [Digital.gov 2022 Government UX Summit](https://digital.gov/event/2022/06/07/2022-government-ux-summit/)
+- [How to Redesign a 19-Year-old Legacy Application Using Agile and User Experience Methodologies (video)](https://youtu.be/cl6sVFjzZG4)
+- [Designing Digital Products for Adults With Low Literacy (video)](https://youtu.be/d1MDLbZoEwQ)
 
-- - -
+---
 
-*The UX Community of Practice is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies. [Join the UX Community](https://digital.gov/communities/user-experience/).*
+_The UX Community of Practice is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies. [Join the UX Community](https://digital.gov/communities/user-experience/)._

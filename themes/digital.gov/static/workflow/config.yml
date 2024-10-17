@@ -388,12 +388,22 @@ collections:
         widget: "string"
         default: "Digital.gov"
       - label: "Event Related CoP"
-        name: "cop_events"
+        name: "event_cop"
         widget: "select"
-        options: ["communicators", "multilingual", "plain-language", "web-managers", "web-analytics", "social-media", "user-experience"]
+        options:
+          [
+            "contact-center",
+            "communicators",
+            "multilingual",
+            "plain-language",
+            "web-managers",
+            "web-analytics",
+            "social-media",
+            "user-experience",
+          ]
         collection: "events"
         default: ""
-        multiple: true
+        multiple: false
         required: false
         hint: "Associate any Community of Practices with the event"
       - label: "Registration URL"
@@ -786,7 +796,6 @@ collections:
         required: false
         <<: *editorComponents
 
-
   # SHORT LINK =======================
   - <<: *defaults
     name: "shortlink"
@@ -1047,11 +1056,15 @@ collections:
       - label: "File"
         name: "file"
         widget: "file"
-        pattern: ['.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$', "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m"]
+        pattern:
+          [
+            '.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$',
+            "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m",
+          ]
         media_library:
           config:
             multiple: true
-            
+
   # IMAGE UPLOAD =======================
   - <<: *defaults
     name: "image-upload"

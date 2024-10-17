@@ -5,7 +5,6 @@ kicker: USWDS product roadmap updates
 summary: What's in the newest iteration of the U.S. Web Design System's product roadmap.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItce2vqT4oG9uTweWBp0zBt9111H3ovcc
 captions: ""
 date: 2023-08-17 14:00:00 -0500
@@ -30,28 +29,28 @@ Oh, there's one.
 
 And welcome back after our July break. Thanks for being back with us today!
 
-**Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS product lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a light blue collared shirt. What you can't see is that it's hot here in the pacific northwest and my offscreen wardrobe features shorts. And I feel it's important to note that while my current heat at home is unpleasant, my heart goes out to those who are truly suffering in Hawaii. 
+**Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS product lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a light blue collared shirt. What you can't see is that it's hot here in the pacific northwest and my offscreen wardrobe features shorts. And I feel it's important to note that while my current heat at home is unpleasant, my heart goes out to those who are truly suffering in Hawaii.
 I'd also like to note that when we introduce ourselves in these calls, you'll hear things like self-descriptions and pronouns — these help everyone share the same context and know a bit more about who we are, whether or not you know us or can see us.
 
 First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. Unfortunately, while we are recording this call, we currently aren't able to always share the video publicly. That said, we are making progress on being able to share videos and we're building the capacity to slowly release more and more of these monthly calls publicly. So stay tuned for more updates. When we do post videos publicly, they'll be available via the Digital.gov event page.
 
-I’d also like to remind you that by voluntarily attending this Digital [dot] gov event, you agree to abide by Digital.gov’s community guidelines at digital.gov/communities/community-guidelines/ —you can leave the meeting at any time if you do not agree to abide by these guidelines. We’ve posted a link to the community guidelines in the chat. 
+I’d also like to remind you that by voluntarily attending this Digital [dot] gov event, you agree to abide by Digital.gov’s community guidelines at digital.gov/communities/community-guidelines/ —you can leave the meeting at any time if you do not agree to abide by these guidelines. We’ve posted a link to the community guidelines in the chat.
 
 If you are in the Zoom app, you can use integrated live captioning by selecting the “CC” button on the bottom of the screen. If you prefer live captioning in a separate window, we've posted a link to the live captioning in the chat.
 
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 
 So thanks! And, with that, let's get started!
 
-**Slide 3:** So what's our agenda for today? 
+**Slide 3:** So what's our agenda for today?
 
 First we'll look at a new site launch
 
 Then I'll highlight some product updates
 
-And then we’ll spend the rest of the time checking out our roadmap for the rest of 2023 and into 2024. 
+And then we’ll spend the rest of the time checking out our roadmap for the rest of 2023 and into 2024.
 
 We'll be leaving time for Q&A at the end so stick around!
 
@@ -93,7 +92,7 @@ But before we talk about what we're planning, I'd like to take a moment and look
 
 **Slide 16:** But all the time growing, growing, growing. Since USWDS 2.0 — around the time we started keeping reliable usage metrics — design system usage has about tripled.
 
-**Slide 17:** In the last four years, sites using USWDS from 103 to 461. 
+**Slide 17:** In the last four years, sites using USWDS from 103 to 461.
 
 **Slide 18:** The pageviews per month on USWDS-powered sites, as measured with the Digital Analytics Program (or DAP) has grown from 390 million to 1.1 billion.
 
@@ -139,7 +138,7 @@ But before we talk about what we're planning, I'd like to take a moment and look
 
 **Slide 39:** What are these costs of change?
 
-**Slide 40:** There are two general types of cost associated with a design system change. 
+**Slide 40:** There are two general types of cost associated with a design system change.
 
 **Slide 41:** The first is perhaps the simplest to understand: implementation cost. Which you can think of as the design and development time it takes to actually update to a new version and modify your project templates to reflect changes to the USWDS codebase. And because of the way we distribute our codebase, any change to the markup of a component necessitates a downstream change to a project implementation.
 
@@ -198,15 +197,15 @@ Anne: Hi! I’m Anne, my pronouns are they/them, and I’m the U.S. Web Design S
 
 The U.S. Web Design System right now is giving me “first, invent the universe” vibes here. We need the underlying structure and commonalities of the design system to support the government’s digital universe. But it needs to be both flexible and consistent enough to support everyone’s needs, from agencies and products to end users and what they need to get done.
 
-**Slide 67:** So how do we start — or really, continue — doing this big job? 
+**Slide 67:** So how do we start — or really, continue — doing this big job?
 
-Our roadmap is part of that: showing how we get from where we are to where we want to be. We know our challenges are big ones, as Dan covered. Those challenges are also opportunities, especially if we can use one to support the other. 
+Our roadmap is part of that: showing how we get from where we are to where we want to be. We know our challenges are big ones, as Dan covered. Those challenges are also opportunities, especially if we can use one to support the other.
 
-We’ll need to make fundamental shifts — foundational architectural and process changes — to make the future we want possible, especially with the continuous work we need to do to support the system as a living product. This move lets us more fully satisfy what a design system is supposed to solve for its users. These are fundamental platform basics that are necessary before we can expand our view in the roadmap’s next iteration. Part of that is figuring out the mechanics of how we change so we can be ready for those shifts. 
+We’ll need to make fundamental shifts — foundational architectural and process changes — to make the future we want possible, especially with the continuous work we need to do to support the system as a living product. This move lets us more fully satisfy what a design system is supposed to solve for its users. These are fundamental platform basics that are necessary before we can expand our view in the roadmap’s next iteration. Part of that is figuring out the mechanics of how we change so we can be ready for those shifts.
 
 And what we have for you today is about the next year’s worth of what we’re calling a roadmap but may not quite count in the way most product managers would define it.
 
-**Slide 68:** Our roadmap today is what we’d call a minimum viable product, or MVP. We wanted to communicate as much as we have as soon as we have it, to help you understand changes that are coming. So today’s roadmap is fairly near-term. Year-term, you might say. So how we got to this roadmap and the items on it leans a little bit on our old process: most recently, estimating the effort and impact of each future need and mapping those to what will both get us to the future we need to head toward, and also satisfy current needs. We’ll get into the detail of these in just a few minutes. 
+**Slide 68:** Our roadmap today is what we’d call a minimum viable product, or MVP. We wanted to communicate as much as we have as soon as we have it, to help you understand changes that are coming. So today’s roadmap is fairly near-term. Year-term, you might say. So how we got to this roadmap and the items on it leans a little bit on our old process: most recently, estimating the effort and impact of each future need and mapping those to what will both get us to the future we need to head toward, and also satisfy current needs. We’ll get into the detail of these in just a few minutes.
 
 So that’s how we did this prioritization this time. But this isn’t the ideal more long-term thinking we’d like to do. We’re moving from a continuous MVP model to considering our broader mission and vision, and making sure our direction aligns with those. More to come on that too.
 
@@ -225,7 +224,7 @@ So that’s how we did this prioritization this time. But this isn’t the ideal
 - Establish our ongoing accessibility-focused usability testing
 - Publish updated guidance for using disabled styles
 - Create critical checklists for components
-- Develop USWDS web components, and 
+- Develop USWDS web components, and
 - Convert design tokens to JSON and CSS variables
 
 Some of these are interdependent on each other, so we’ll get to more detail on each of these next.
@@ -240,19 +239,19 @@ The milestones we’ve set out include first: identifying key metrics and collec
 
 **Slide 77:** This item shows you, our community, as well as the public, the process of how our components move from being a proposal you or someone else makes, all the way to being published as part of the design system, as well as what happens after that, like ongoing testing, and also what happens when a component needs major changes.
 
-So why this item? We want to make it clear to everyone what every design system component has to have to be included. This also brings consistency and transparency to our decision making, and builds a common understanding and predictable process to how components develop and change. 
+So why this item? We want to make it clear to everyone what every design system component has to have to be included. This also brings consistency and transparency to our decision making, and builds a common understanding and predictable process to how components develop and change.
 
 These items are part of what’s typically called governance — a funny term here maybe — which is really important for process consistency and continuity.
 
-We’ve started on this one too, and as a preview, we anticipate in the proposal process we’ll be asking for things like a summary of your proposed component, why it would benefit end users and the system, details about its functionality and implementation, accessibility considerations, any documentation or evidence you might have, potential drawbacks or alternatives you considered, things like that. 
+We’ve started on this one too, and as a preview, we anticipate in the proposal process we’ll be asking for things like a summary of your proposed component, why it would benefit end users and the system, details about its functionality and implementation, accessibility considerations, any documentation or evidence you might have, potential drawbacks or alternatives you considered, things like that.
 
-Getting this in place has been holding up some current proposals, so we want to note it’s taken certainly longer than we’d like to get back to people there. We apologize for that, but we’re happy to share that they are still moving. 
+Getting this in place has been holding up some current proposals, so we want to note it’s taken certainly longer than we’d like to get back to people there. We apologize for that, but we’re happy to share that they are still moving.
 
 The milestones here are first defining the proposal process, as well as documenting the complete component lifecycle, from that proposal phase all the way to maybe being retired in the future. Next we’ll share that information and ask for feedback from you, along with trying out this process with a prototype. After that, we’ll publish both the proposal process and the lifecycle publicly.
 
 **Slide 78:** Our next item is establishing ongoing accessibility-focused usability testing of components.
 
-**Slide 79:** This one operationalizes our usability testing with people who use assistive technology and those with disabilities as a sustainable, repeatable process that we do in an ongoing way, and which could serve as a model that other teams could adopt. 
+**Slide 79:** This one operationalizes our usability testing with people who use assistive technology and those with disabilities as a sustainable, repeatable process that we do in an ongoing way, and which could serve as a model that other teams could adopt.
 
 Our reasoning here should hopefully be pretty evident due to how it aligns with our design principles, which Dan mentioned earlier. This supports at least two of them very directly, arguably more — helping us better understand how our components work for real people, including those with disabilities, and help us be more proactive in finding and fixing any usability issues. We’d also like to be able to share this, again, so other teams can use it.
 
@@ -262,9 +261,9 @@ First off here is creating our process for recruiting, managing information, com
 
 **Slide 81:** Which, as a spoiler, after some research will include discouraging using disabled styles in most cases, and also helps us create another new process that we should point out too — this process focuses on documenting and publishing our research. The research in question here happens to be what we did to support our decisions in this guidance, but how we did this could apply to other research we do.
 
-Why here — again supporting our design principles — well, this improves the usability and accessibility of our forms, and establishes a repeatable process for publishing our guidance, along with the research and reasoning we used to get to those decisions. 
+Why here — again supporting our design principles — well, this improves the usability and accessibility of our forms, and establishes a repeatable process for publishing our guidance, along with the research and reasoning we used to get to those decisions.
 
-We’re about halfway through these milestones: we’ve completed the research on this, and we’re in the midst of figuring out the scope of this updated guidance to publish on our site. Lastly, we’ll work on the repeatable process for publishing research generally. We have about three months left here. For the rest of the items, I’ll pass back over to Dan. 
+We’re about halfway through these milestones: we’ve completed the research on this, and we’re in the midst of figuring out the scope of this updated guidance to publish on our site. Lastly, we’ll work on the repeatable process for publishing research generally. We have about three months left here. For the rest of the items, I’ll pass back over to Dan.
 
 **Slide 82:** Dan: Thanks Anne. This is Dan again.
 
@@ -282,13 +281,13 @@ And to improve the accessibility of sites and services
 
 **Here are some milestones for how we'll get there:**
 
-First we'll establish component types and voice and tone 
+First we'll establish component types and voice and tone
 
-Next we'll document heuristics for each of our components and  prototype this content and format with our community
+Next we'll document heuristics for each of our components and prototype this content and format with our community
 
 After that, we'll publish checklists to our website alongside a mechanism for updating
 
-All-in-all we expect this to take about 6 months to finish. 
+All-in-all we expect this to take about 6 months to finish.
 
 **Slide 84:** The next one is the biggie. This is kinda one we've been thinking about and prepping for quite some time, one that I believe is a key milestone in the development of the design system: Developing USWDS web components.
 
@@ -298,7 +297,7 @@ All-in-all we expect this to take about 6 months to finish.
 
 To simplify integrations and provide out-of-the box components…
 
-To reduce time and cost of updating to  minor and patch versions…
+To reduce time and cost of updating to minor and patch versions…
 
 and to establish a documented API that teams can use with confidence.
 
@@ -310,17 +309,17 @@ Next we'll work toward an alpha release of our core components (banner and ident
 
 After, we'll conduct a thorough beta program for development, feedback, and testing. We'll also be thoroughly documenting these components and their API on our website. This is very likely in support of a new major version of the design system.
 
-When? In all, we expect that this process will take about a year. 
+When? In all, we expect that this process will take about a year.
 
 **Slide 86:** And finally, we want to convert design tokens to JSON and to CSS variables (or custom properties)
 
-**Slide 87:** What does it mean to Convert design tokens to JSON and CSS variables?  It means that we want to create a portable, canonical data format for USWDS design tokens, based on standard schemas.
+**Slide 87:** What does it mean to Convert design tokens to JSON and CSS variables? It means that we want to create a portable, canonical data format for USWDS design tokens, based on standard schemas.
 
 **Why are we doing this?**
 
 We're doing this to allow more teams to be able to use our design tokens across frameworks and platforms
 
-To reduce our dependency on specialized formats like Sass… 
+To reduce our dependency on specialized formats like Sass…
 
 To deliver design tokens in a modern, familiar format that teams expect…
 
@@ -336,7 +335,7 @@ Afterwards, we'll convert the remaining tokens, define the JSON transformations 
 
 In all, we expect this process to take 8 months.
 
-And that's our product roadmap! 
+And that's our product roadmap!
 
 Anne, back to you!
 
@@ -344,23 +343,23 @@ Anne, back to you!
 
 **Slide 89:** So, does what we shared just now in terms of features on our roadmap set us up for success? [pause]
 
-Arguably it sets us up for the next year-ish, but we do intend to take a step back to figure out how we continue to do this better. 
+Arguably it sets us up for the next year-ish, but we do intend to take a step back to figure out how we continue to do this better.
 
-I mentioned that this roadmap isn’t ideal, nor done the way we might want. Product managers looking at this version may look at it with some skepticism or twitch a little involuntarily. Roadmaps, by and large, should not be just a list of features to build. We need to get to a more strategic-mindset version, one that brings our mission and vision into focus and makes clear how we’ll move forward to accomplishing them.  
+I mentioned that this roadmap isn’t ideal, nor done the way we might want. Product managers looking at this version may look at it with some skepticism or twitch a little involuntarily. Roadmaps, by and large, should not be just a list of features to build. We need to get to a more strategic-mindset version, one that brings our mission and vision into focus and makes clear how we’ll move forward to accomplishing them.
 
-We’re also learning how an agile roadmap may work, so we should also note that what we’re sharing today may change as we learn more. We’ll work to validate what we did in the roadmap you see today, or learn that we need to shift one of these goals. We’re also learning how we might improve as we go, think more strategically, and react as we learn new things, or essential parts of our landscape change. 
+We’re also learning how an agile roadmap may work, so we should also note that what we’re sharing today may change as we learn more. We’ll work to validate what we did in the roadmap you see today, or learn that we need to shift one of these goals. We’re also learning how we might improve as we go, think more strategically, and react as we learn new things, or essential parts of our landscape change.
 
 **Slide 90:** To help provide some grounding, I should note the typical cadence of change in systems like ours: a mission changes the least often. Your mission is your purpose, what you intend to accomplish, and why that’s important.
 
 By frequency of change, that’s followed by a vision, which could adjust a little as you learn more. Your vision describes broadly what’s in the future and how you hope to get there, from the point of view of the person who needs it. Most are aspirational but not unrealistic: what does the design system solve, for who, how does this help, and what’s the outcome?
 
-After vision, the next thing that may change a little more frequently may be your polestar — how you do what you do to reach your vision. This is what you measure your actions against, your guiding mechanism for decision-making. It describes how the team should do the thing, motivating us all and showing how we contribute to the mission and vision. A polestar can also help you figure out if you’re about to prioritize something that doesn’t contribute to the core point of the organization. 
+After vision, the next thing that may change a little more frequently may be your polestar — how you do what you do to reach your vision. This is what you measure your actions against, your guiding mechanism for decision-making. It describes how the team should do the thing, motivating us all and showing how we contribute to the mission and vision. A polestar can also help you figure out if you’re about to prioritize something that doesn’t contribute to the core point of the organization.
 
-What changes more frequently is your roadmap, which you’ll update as you accomplish goals that move you toward accomplishing your mission and vision. Then much more frequently, maybe your API. 
+What changes more frequently is your roadmap, which you’ll update as you accomplish goals that move you toward accomplishing your mission and vision. Then much more frequently, maybe your API.
 
-But you can depend on the underlying principles, your mission especially. This prevents everything from changing all at once. 
+But you can depend on the underlying principles, your mission especially. This prevents everything from changing all at once.
 
-**Slide 91:** So in the interest of supporting the universe of government digital products and sites, our goal here is to introduce structure, and refocus on our mission and vision to create a solid foundation and plan for the system itself, farther into the future, ultimately to serve your systems and products and sites, and thus your users. 
+**Slide 91:** So in the interest of supporting the universe of government digital products and sites, our goal here is to introduce structure, and refocus on our mission and vision to create a solid foundation and plan for the system itself, farther into the future, ultimately to serve your systems and products and sites, and thus your users.
 
 So this is how we go from the wild Cosmos universe, all randomly placed stars and cosmic dust, so flexible as to maybe not feel as supportive as it could, to a more consistent system that functionally supports your efforts in a continuous way. A foundation, or a roof, or a net. Here we’re using a geodesic dome at the bottom of the slide to show how all the dots connect here. For what’s next to create this structure, I’ll pass it back to Dan.
 

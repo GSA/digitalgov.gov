@@ -6,7 +6,6 @@ summary: The USWDS team will continue sharing our progress to improve ongoing
   research, publishing results and addressing recent findings.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsceupqj0pE-Dt8ojRN1yCeZHcM0jWgO8#/registration
 date: 2023-11-16 14:00:00 -0500
 end_date: 2023-11-16 15:00:00 -0500

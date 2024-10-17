@@ -5,7 +5,6 @@ kicker: USWDS
 summary: The U.S. Web Design System team will answer community questions and give an update on their work developing web components for the design system.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItcumgrzIoHjYBsYQS-9h1vFpz0KMCvHE
 date: 2024-08-15 14:00:00 -0500
 end_date: 2024-08-15 15:00:00 -0500
@@ -22,7 +21,6 @@ slug: uswds-monthly-call-august-2024
 event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-aug-title-card
-
 ---
 
 {{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
@@ -31,7 +29,7 @@ primary_image: 2024-uswds-monthly-call-aug-title-card
 
 **Slide 2** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. As of this month, the avatar now has glasses — matching real life me, who's wearing a gray shirt today, and yellow socks, approximately gold-30v.
 As Jeannie mentioned, we are recording this call, and I'm happy to say we've started to be able to share the recordings of these monthly calls publicly. You can find pretty much everything from the last year's worth of monthly calls, back to January 2023, on our website, at [designsystem.digital.gov/about/monthly-calls](https://designsystem.digital.gov/about/monthly-calls/). We typically post videos shortly after the monthly call, and we also link out to the slides and the script, hosted at digital.gov. We've also started collecting each month's Q&A as a GitHub discussion linked from the monthly calls page. We've posted a link to our monthly calls page in the chat.
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so. Otherwise, there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so. Otherwise, there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 So thanks! And, with that, let's get started!
 
@@ -55,12 +53,12 @@ So thanks! And, with that, let's get started!
 
 **Slide 12** And we've also got USWDS 3.9.0 on the way. And this one has a number of good improvements.
 
-**Slide 13** Here are a couple of the key improvements in USWDS 3.9.0: 
+**Slide 13** Here are a couple of the key improvements in USWDS 3.9.0:
 *Fixes a tab order bug in the mobile header
 *Fixes a keyboard/mouse interaction issue in date picker
 *Improves performance of input mask
 *Improves legibility of pagination links
-*Adds the ability to add a custom breakpoint to utilities
+\*Adds the ability to add a custom breakpoint to utilities
 
 **Slide 14** We're working hard on USWDS 3.9.0, and this release will be available by the end of August.
 
@@ -94,22 +92,22 @@ So in terms of the current state of that process, we’ve received several sugge
 
 **Slide 25** We ask questions like:
 
-* Does the component support a WCAG requirement? At what level (A, double AA, triple AAA)?
-* What alternatives are there to fulfill that requirement?
+- Does the component support a WCAG requirement? At what level (A, double AA, triple AAA)?
+- What alternatives are there to fulfill that requirement?
 
-* Does the component have a clear purpose and address a user need?
+- Does the component have a clear purpose and address a user need?
 
-* Is there an existing solution in USWDS that better meets the need than the proposed solution? If there is, we likely won’t move forward with that proposal.
+- Is there an existing solution in USWDS that better meets the need than the proposed solution? If there is, we likely won’t move forward with that proposal.
 
 **Slide 26** And then we consider what might _not_ support this proposal.
 
 **Slide 27** We ask:
 
-* Do the usability and accessibility _benefits_ outweigh any potential _risks_?
+- Do the usability and accessibility _benefits_ outweigh any potential _risks_?
 
-* Is this _particular_ solution needed by the USWDS community?
+- Is this _particular_ solution needed by the USWDS community?
 
-* Has it been requested, how often, _or_ to what extent is it already being used across the government digital landscape? Have teams or other agency design systems created their own, since they couldn’t find it in USWDS?
+- Has it been requested, how often, _or_ to what extent is it already being used across the government digital landscape? Have teams or other agency design systems created their own, since they couldn’t find it in USWDS?
 
 **Slide 28** We document answers to these questions in a simple rubric that gives us a high level picture. This slide shows these questions with columns for yes, somewhat, and no. The answer to these questions needs to be “Yes” for most of them (except for the middle question about whether there’s an _existing_ solution to fulfill the need, which should be a “no”). If _so_, we’ll feel more confident moving ahead.
 
@@ -131,7 +129,7 @@ We’ll do regular testing on every component, including this one, to make sure 
 
 Dan: Thanks Anne. Dan here. We’ve been asked for years about modern design tool support. Now, as I get started, we talk about specific tools at these calls, and we do have to get into the nitty gritty of support for specific products, but, as it says on the box, all references to specific brands, products, and companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
 
-There are a couple great open source USWDS Figma design kits out there and available, but we _do_ want to support some of these tools more directly for a couple key reasons. 
+There are a couple great open source USWDS Figma design kits out there and available, but we _do_ want to support some of these tools more directly for a couple key reasons.
 As we move forward into USWDS Web Components, we will be thinking hard about component configuration and the styling and functionality dials and switches you can set in your theme. The more configuration we build into our components, the closer our design assets will need to match the final functionality. We'll also need to be thinking not just from the code side but from the design side as well — when designers are using this kit, what types of flexibility do they need to support their projects?
 
 Today, design tools better support this connection between design and development. Since this connection is at the front of our mind in our shift to Web Components, it makes more and more sense for us to engage with these tools directly.
@@ -159,7 +157,7 @@ With `add text` we can give it a size and a font connected to USWDS tokens. It s
 
 `open variables`: If I go into primary, I can set all the defaults and change things to be specific to your theme. You can define themes just like you would in code. The way we manipulate themes in the Figma kit is through layer modes, which are connected to modes in Figma. So we select a surrounding frame to assign a mode to a frame, and can see the colors change based on the new theme we applied.
 
-Typefaces are hard to do consistently. But we support more than Public Sans, and have the ability now to change faces with normalization applied using layer modes. 
+Typefaces are hard to do consistently. But we support more than Public Sans, and have the ability now to change faces with normalization applied using layer modes.
 `font role heading to serif and back`: This all happens at the layer mode level, so you can experiment with looking at a design through different themes. So copy this over, and you can look at the original theme applied.
 
 `see all layouts updated to the proper sizes of Source Sans Pro` begins to put some of the ideas of theming that we have in design system code into the design assets, which will also apply to components.
@@ -176,15 +174,15 @@ So this is important to us, and one of the key elements in our vision of empower
 
 **Slide 36** The USWDS Beta Design Kit in Figma will feature:
 
-* Design tokens as variables
+- Design tokens as variables
 
-* Attribute-powered components
+- Attribute-powered components
 
-* Mode-based fonts and themes
+- Mode-based fonts and themes
 
-* Extensive examples and guidance
+- Extensive examples and guidance
 
-* And of course, auto layout, and other native functionality.
+- And of course, auto layout, and other native functionality.
 
 More to come on this. We hope to begin publishing our work soon.
 
@@ -208,7 +206,7 @@ Matt: Sure can. Hey yall, Matt Henry. Acting Engineering Lead for the design sys
 
 **Slide 43** Dan: Thanks Matt and Amy. This is Dan again. So we're expecting to get an initial package for this work out tomorrow via npm (at uswds/web-components). This will still feature alpha components, but the npm package will be a good way to track our progress — in addition to what you'll find at the project hub: [github.com/uswds/web-components](http://github.com/uswds/web-components).
 
-**Slide 44** So what's next with this work? In the coming weeks, we'll be getting Banner, Identifier, and Link into the beta phase and publishing them via the web-components npm package. We'll be working on Button, Accordion, Card, Text Input, and Modal next. 
+**Slide 44** So what's next with this work? In the coming weeks, we'll be getting Banner, Identifier, and Link into the beta phase and publishing them via the web-components npm package. We'll be working on Button, Accordion, Card, Text Input, and Modal next.
 
 **Slide 45** And then, by the end of the fall, we should have at least a dozen components in stable Beta. We're working hard, and we'll be updating folks on our progress through all our usual channels.
 
@@ -226,40 +224,40 @@ Have a great day and a great conclusion to your summer. We'll see you in Septemb
 
 {{< /accordion >}}
 
-Join the U.S. Web Design System (USWDS) team to understand their progress toward developing beta web components. They’ll also answer questions and requests posted by the [community in the community choice discussion thread for the August monthly call on GitHub](https://github.com/uswds/uswds/discussions/5923). 
+Join the U.S. Web Design System (USWDS) team to understand their progress toward developing beta web components. They’ll also answer questions and requests posted by the [community in the community choice discussion thread for the August monthly call on GitHub](https://github.com/uswds/uswds/discussions/5923).
 
 In this online session with the USWDS team, you will:
 
-* Learn how to use beta versions of our next batch of new web components
-* Gain insight to the USWDS team’s progress on building a Figma design kit
-* Get our answers to your community choice questions
+- Learn how to use beta versions of our next batch of new web components
+- Gain insight to the USWDS team’s progress on building a Figma design kit
+- Get our answers to your community choice questions
 
 **This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend; it requires no specialized knowledge.
 
 **Speakers**
 
-* **Dan Williams** - Product Lead, USWDS
-* **Matt Henry** - Engineering Lead, USWDS
-* **Anne Petersen** - Experience Design Lead, USWDS
-* **Amy Leadem** - Developer, USWDS contractor
+- **Dan Williams** - Product Lead, USWDS
+- **Matt Henry** - Engineering Lead, USWDS
+- **Anne Petersen** - Experience Design Lead, USWDS
+- **Amy Leadem** - Developer, USWDS contractor
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@gsa.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@gsa.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)
 
 ---
 
-*Disclaimer*: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+_Disclaimer_: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

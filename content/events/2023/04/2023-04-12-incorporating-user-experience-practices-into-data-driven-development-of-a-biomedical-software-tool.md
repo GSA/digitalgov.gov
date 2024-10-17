@@ -4,8 +4,6 @@ kicker: User Experience
 summary: Join the National Cancer Institute and a university-based researcher to discuss interpreting complex data.
 host: User Experience Community of Practice
 event_organizer: Digital.gov
-cop_events:
-  - user-experience
 registration_url: https://gsa.zoomgov.com/webinar/register/WN_gPr80ezlSXeArAQvbBwUNw
 date: 2023-05-03 14:00:00 -0500
 end_date: 2023-05-03 15:00:00 -0500
@@ -35,21 +33,21 @@ Mary Goldman, an NCI grantee from the University of California Santa Cruz Genomi
 
 In this session, you’ll learn about:
 
-* Building for a scientific user
-* Thinking about the user from the beginning
-* The power of prototyping for both yourself and user testing
+- Building for a scientific user
+- Thinking about the user from the beginning
+- The power of prototyping for both yourself and user testing
 
 **This event is best suited for**: User experience and data science professionals who struggle to find ways to interpret complex data, especially those with limited resources.
 
 ## Speakers
 
-* **Dr. David Miller**, Program Director \[Modeling, Visualization, Interactive Media], National Cancer Institute, National Institutes of Health
-* **Mary Goldman**, Design and Outreach Engineer, UC Santa Cruz Genomics Institute
+- **Dr. David Miller**, Program Director \[Modeling, Visualization, Interactive Media], National Cancer Institute, National Institutes of Health
+- **Mary Goldman**, Design and Outreach Engineer, UC Santa Cruz Genomics Institute
 
 ## Moderator
 
-* **Natalie Buda Smith**, Community co-lead, User Experience community
+- **Natalie Buda Smith**, Community co-lead, User Experience community
 
-- - -
+---
 
-*The UX Community of Practice is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies. [Join the UX Community](https://digital.gov/communities/user-experience/).*
+_The UX Community of Practice is a group of managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies. [Join the UX Community](https://digital.gov/communities/user-experience/)._
