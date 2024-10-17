@@ -1,23 +1,28 @@
 ---
 slug: how-to-integrate-the-draft-u-s-web-design-standards-into-existing-projects
 date: 2016-03-25 13:00:37 -0400
-title: How to Integrate the Draft U.S. Web Design Standards into Existing Projects
-summary: 'One of the most common questions we receive is: Should I integrate the Draft U.S. Web Design Standards into my existing project? The answer is: it depends. A lot of design research supports the notion that many people who use government websites or services may benefit from consistency across interactions, user experiences, and behavior across'
+title: "How to Integrate the Draft U.S. Web Design Standards into Existing Projects"
+summary: "Design research supports the notion that many people who use government websites or services may benefit from consistency across interactions, user experiences, and behavior across those sites. A consistent look and feel with common design elements will feel familiar, trustworthy, and secure — and users will be able to navigate government websites more easily because of a common palette and design."
+
+expirydate: "2024-10-09"
+
 authors:
   - carolyn-dew
   - melody-kramer
   - maya-benari
+
 topics:
   - content-strategy
   - user-experience
   - design
+
 ---
 
 One of the most common questions we receive is: Should I integrate the Draft U.S. Web Design Standards into my existing project?
 
 The answer is: it depends.
 
-A lot of design research supports the notion that many people who use government websites or services may benefit from consistency across interactions, user experiences, and behavior across those websites. A consistent look and feel with common design elements will feel familiar, trustworthy, and secure—and users will be able to navigate government websites more easily because of a common palette and design.
+A lot of design research supports the notion that many people who use government websites or services may benefit from consistency across interactions, user experiences, and behavior across those websites. A consistent look and feel with common design elements will feel familiar, trustworthy, and secure — and users will be able to navigate government websites more easily because of a common palette and design.
 
 {{< legacy-img src="2015/09/600-x-315-US-Web-Design-Standards-colors.jpg" alt="The Design Standards include an extensive color palette." >}}
 
