@@ -16,6 +16,9 @@ deck: Share and learn with communications and public affairs practitioners.
 
 # See all authors at https://digital.gov/authors
 authors:
+  - deanna-mccray-james
+  - josie-anderson
+
 dg_shortname: Communicators
 slug: communicators
 kicker: Communities of practice
