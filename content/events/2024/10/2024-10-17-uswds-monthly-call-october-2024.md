@@ -5,7 +5,7 @@ kicker: USWDS
 summary: The U.S. Web Design System team will share the product and engineering principles they're using to guide the development of the design system.
 event_organizer: Digital.gov
 cop_events: ""
-registration_url: https://gsa.zoomgov.com/meeting/register/vjisfuqsrzwue5vksm7ggak9tfuz8dy-9sc
+registration_url: https://gsa.zoomgov.com/meeting/register/vJIsfuqsrzwuE5Vksm7GGAK9tfUz8dy-9Sc
 date: 2024-10-17 14:00:00 -0500
 end_date: 2024-10-17 15:00:00 -0500
 
@@ -23,6 +23,9 @@ event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-october-title-card
 ---
+
+
+{{< asset-static file="uswds-monthly-call-october-2024.pptx" label="View the slides (Powerpoint presentation, 2.5 MB, 109 slides)">}}
 
 Join the U.S. Web Design System (USWDS) team for a talk about the product and engineering principles and values that guide the team’s decision-making as they look towards the future.
 
