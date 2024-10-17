@@ -1,8 +1,8 @@
 ---
 slug: a-new-version-frbs-money-adventure-app-helps-expand-digital-outreach
 date: 2019-10-10 14:28:00 -0500
-title: 'A New Version of the FRB’s Money Adventure App Helps Expand Digital Outreach'
-summary: 'The Android version of the Federal Reserve Board’s first public mobile app, Money Adventure, is now available&#46; See how market research led to its development, and how it differs from the iOS version&#46;'
+title: "A New Version of the FRB’s Money Adventure App Helps Expand Digital Outreach"
+summary: "The Android version of the Federal Reserve Board’s first public mobile app, Money Adventure, is now available. See how market research led to its development, and how it differs from the iOS version."
 authors:
   - ayjah-thomas
 topics:
