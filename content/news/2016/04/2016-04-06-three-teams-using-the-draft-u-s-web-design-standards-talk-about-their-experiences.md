@@ -1,7 +1,7 @@
 ---
 slug: three-teams-using-the-draft-u-s-web-design-standards-talk-about-their-experiences
 date: 2016-04-06 14:46:02 -0400
-title: Three Teams Using the Draft U.S. Web Design Standards Talk about Their Experiences
+title: "Three Teams Using the Draft U.S. Web Design Standards Talk about Their Experiences"
 summary: "In the five months since we launched the Draft U.S. Web Design Standards, over a dozen government websites have begun to use it."
 
 expirydate: "2024-10-09"
@@ -9,15 +9,24 @@ expirydate: "2024-10-09"
 authors:
   - melody-kramer
 
+topics:
+  - software-engineering
+  - design
+  - product-and-project-management
+  - content-strategy
+  - open-source
+  - user-experience
+  - policy
+
 ---
 
 In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.
 
 Recently, we talked to three federal web designers about their experiences using the Draft Standards, which were designed with accessibility and flexibility in mind:
 
-  * Maria Marrero is the User Experience Designer for [USA.gov](https://www.usa.gov/).
-  * Luke Keller is a Presidential Innovation Fellow and product designer who worked on [vote.usa.gov](https://vote.usa.gov/).
-  * Eddie Hunter works on the U.S. Geological Survey’s HazDev web team, which is working on a [web application](https://github.com/usgs/earthquake-eventpages) for displaying earthquakes as well as [a website for the Earthquake Hazards program](http://earthquake.usgs.gov/).
+* Maria Marrero is the User Experience Designer for [USA.gov](https://www.usa.gov/).
+* Luke Keller is a Presidential Innovation Fellow and product designer who worked on [vote.usa.gov](https://vote.usa.gov/).
+  Eddie Hunter works on the U.S. Geological Survey’s HazDev web team, which is working on a [web application](https://github.com/usgs/earthquake-eventpages) for displaying earthquakes as well as [a website for the Earthquake Hazards program](http://earthquake.usgs.gov/).
 
 Each site incorporates parts of the Draft Standards in different ways. We chatted with Maria, Eddie, and Luke about their experiences using the Draft Standards — and how they would improve them.
 
@@ -85,9 +94,9 @@ Without the animation, the side navigation would appear instantly and the transi
 
 In an attempt to improve the Design Standards I would suggest a greater attention to this idea of meaningful transitions.
 
-  * When accordions expand or collapse, smooth that transition with an animation. Otherwise the content appears and disappears instantly in a jarring fashion.
-  * Establish a clear way to close the side-navigation. The side navigation slides into place, can you simply swipe it away with your finger?
-  * Give visual clues, add a drop-shadow or shadow-mask to emphasize that the menu is actually on top of the content.
+* When accordions expand or collapse, smooth that transition with an animation. Otherwise the content appears and disappears instantly in a jarring fashion.
+* Establish a clear way to close the side-navigation. The side navigation slides into place, can you simply swipe it away with your finger?
+* Give visual clues, add a drop-shadow or shadow-mask to emphasize that the menu is actually on top of the content.
 
 Google’s material design also talks about how, “Objects in material design possess similar qualities to objects in the physical world.” Therefore, when the side navigation slides into place, covering the main content of the page, there should be some sort of visual indication that the navigation is positioned above the main content on the page. On our pages, we use a drop shadow to indicate both the visual hierarchy of the top navigation, but also use a mask to cover the previously viewable content and highlight the side navigation that has transitioned into place. That way the new focus clearly becomes the side navigation.
 
