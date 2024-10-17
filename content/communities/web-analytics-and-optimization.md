@@ -51,10 +51,12 @@ community_list:
 kicker: "Communities of Practice"
 
 primary_image: "communities-card-analytics"
-
 ---
+
 Government professionals from all levels come together in this community to make better decisions using web analytics and other optimization strategies.
 
 Become a member to uncover best practices, tips, and tools for web analytics, search, and search engine optimization.
 
 Digital.gov fosters this dynamic community by providing spaces to engage in collaborative discussion and share new technology and trends. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
+
+{{< featured-resource link="topics/analytics" >}}
