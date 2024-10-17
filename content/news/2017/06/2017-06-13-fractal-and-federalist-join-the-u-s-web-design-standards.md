@@ -1,16 +1,21 @@
 ---
 slug: fractal-and-federalist-join-the-u-s-web-design-standards
 date: 2017-06-13 10:25:06 -0400
-title: Fractal and Federalist Join the U.S. Web Design Standards
-summary: 'We’ve recently added two powerful tools to the U.S. Web Design Standards development workflow that allow us to preview, test, and publish the Standards code more quickly and easily. Fractal Fractal is a powerful and flexible framework for building interactive component libraries. It’s similar to Jekyll (which we use to publish the Standards site) in'
+title: "Fractal and Federalist Join the U.S. Web Design Standards"
+summary: "We have recently added two powerful tools to the U.S. Web Design Standards development workflow that allow us to preview, test, and publish the Standards code more quickly and easily."
+
+expirydate: "2024-10-09"
+
 authors:
   - shawn-allen
+
 topics:
   - software-engineering
   - design
   - open-source
   - mobile
   - human-centered-design
+
 ---
 
 We’ve recently added two powerful tools to the [U.S. Web Design Standards](https://standards.usa.gov/) development workflow that allow us to preview, test, and publish the Standards code more quickly and easily.
@@ -23,11 +28,11 @@ _Check out the Standards in Fractal_</figcaption></figure>
 
 ### Why Fractal? {#why-fractal}
 
-  * **It’s open source**, so we didn’t have to pay for it (which can be time-consuming and difficult to authorize in government), and we can easily modify it to suit our needs.
-  * **It’s easy to use.** Fractal supports some of the same, user-friendly file formats as Jekyll, such as Markdown and YAML; and it comes with a handy development server that reloads the site automatically whenever you change a file.
-  * It generates **standalone HTML previews of each component**, which we can use for accessibility, cross-browser, performance, and visual regression testing.
-  * **It uses or supports many of the technologies we use already** (or intend to use in the future), such as Node.js (the JavaScript environment in which we write, build, and publish our code) and Nunjucks templates — which are compatible with a number of other template languages, including Jinja2 for Python and Twig, the PHP templating engine used by Drupal.
-  * Fractal offers a **customizable theme engine**, so we can make it look and feel like the Standards.
+* **It’s open source**, so we didn’t have to pay for it (which can be time-consuming and difficult to authorize in government), and we can easily modify it to suit our needs.
+* **It’s easy to use.** Fractal supports some of the same, user-friendly file formats as Jekyll, such as Markdown and YAML; and it comes with a handy development server that reloads the site automatically whenever you change a file.
+* It generates **standalone HTML previews of each component**, which we can use for accessibility, cross-browser, performance, and visual regression testing.
+* **It uses or supports many of the technologies we use already** (or intend to use in the future), such as Node.js (the JavaScript environment in which we write, build, and publish our code) and Nunjucks templates — which are compatible with a number of other template languages, including Jinja2 for Python and Twig, the PHP templating engine used by Drupal.
+* Fractal offers a **customizable theme engine**, so we can make it look and feel like the Standards.
 
 ### Thinking in components {#thinking-in-components}
 
