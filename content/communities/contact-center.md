@@ -1,7 +1,7 @@
 ---
 slug: contact-center
 date: 2024-06-28 16:36:00 -0500
-title: Join the Contact Center Community
+title: Join the Contact Center
 summary: "Explore methods of service delivery that improve customer experience in government contact centers."
 deck: Share and learn with contact center practitioners.
 
