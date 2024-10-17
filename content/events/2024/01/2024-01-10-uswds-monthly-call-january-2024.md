@@ -5,7 +5,6 @@ kicker: USWDS
 summary: This month the Design System team will talk about the development and rollout of their new accessibility tests for components.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsd-2upjwsHjfq2qWtf_LN9pVV8YV6SX8
 date: 2024-01-18 14:00:00 -0500
 end_date: 2024-01-18 15:00:00 -0500
@@ -53,38 +52,43 @@ We should also have some time for Q&A at the end of the hour.
 **Slide 8:** First, USWDS 3.8.0, featuring a focus on community PRs. We get a lot of good contributions from the community, and we're happy to publish a number of these contributions in this new release.
 
 **Slide 9:** Key improvements in USWDS 3.8.0 include:
-* Adding support for sticky headers in tables.
-* Better text wrapping and alignment in button groups (especially with longer button text).
-* We're also improving icon alignment in buttons as well.
-* We're giving teams more control over the headings included in in-page navigation, if you need to be more specific about which heading levels should be pulled into the in-page navigation.
-* We're also adding contrast checking for disabled elements. Technically disabled or inactive elements don't have the same contrast requirements as active elements, but teams increasingly want to deliver designs that go beyond the requirements, and this release will help teams understand any potential low-contrast elements.
-* And finally, indeterminate checkboxes. It turns out there can be three potential states for a checkbox: checked, unchecked, and indeterminate, for when, in a multi-level checklist, a parent checkbox contains child checkboxes in both checked and unchecked states. It's a bit of a complex case, but a real one, and we're happy to be able to support it.
+
+- Adding support for sticky headers in tables.
+- Better text wrapping and alignment in button groups (especially with longer button text).
+- We're also improving icon alignment in buttons as well.
+- We're giving teams more control over the headings included in in-page navigation, if you need to be more specific about which heading levels should be pulled into the in-page navigation.
+- We're also adding contrast checking for disabled elements. Technically disabled or inactive elements don't have the same contrast requirements as active elements, but teams increasingly want to deliver designs that go beyond the requirements, and this release will help teams understand any potential low-contrast elements.
+- And finally, indeterminate checkboxes. It turns out there can be three potential states for a checkbox: checked, unchecked, and indeterminate, for when, in a multi-level checklist, a parent checkbox contains child checkboxes in both checked and unchecked states. It's a bit of a complex case, but a real one, and we're happy to be able to support it.
 
 **Slide 10:** Those features, and others, make up USWDS 3.8.0, coming soon: by the end of the month.
 
 **Slide 11:** Next, I wanted to take a couple minutes to give an update on the items in our development roadmap. Currently we're on a planning cadence where we update our roadmap and schedule once a quarter, and we just finished planning for this quarter. Going forward, we expect to give these roadmap updates every three months.
 
 **Slide 12:** So, first up, web components. We expect to deliver a mature beta of USWDS web components by this fall, October 2024. Upcoming milestones include:
-* This month we're planning for a web components working group: identifying folks who can actively help us through this process, and also planning for sequencing and scheduling.
-* In February, we'll finish a requirements draft for Web Components.
-* In March, we'll have an alpha of a couple core components, most likely banner and identifier.
-* By June, we'll get to form components, with the goal of a mature web components beta by October of this year.
+
+- This month we're planning for a web components working group: identifying folks who can actively help us through this process, and also planning for sequencing and scheduling.
+- In February, we'll finish a requirements draft for Web Components.
+- In March, we'll have an alpha of a couple core components, most likely banner and identifier.
+- By June, we'll get to form components, with the goal of a mature web components beta by October of this year.
 
 **Slide 13:** Relatedly, JSON tokens: This is moving our tokens data from Sass into the more portable JSON data format. This is related to web components and shares a similar milestone: a mature beta in October.
-* This month, we're finishing a landscape analysis of how tokens are stored and used in other design systems, and finalizing a data structure for the JSON.
-* By April, we hope to use some of these new tokens internally and power our site with them.
-* By May, we'll complete theme and state tokens and be ready to demo color tokens
+
+- This month, we're finishing a landscape analysis of how tokens are stored and used in other design systems, and finalizing a data structure for the JSON.
+- By April, we hope to use some of these new tokens internally and power our site with them.
+- By May, we'll complete theme and state tokens and be ready to demo color tokens
 
 Together with web components, this begins to define the shape of a new major version of the design system, one that's tested with a long-term beta to make sure we're getting things right. Right now we think that a new major version could be on track for Spring 2025, but that's a bit too far in the future to really know for sure.
 
 **Slide 14:** Now for a few things that are shorter term: starting with publishing a component lifecycle model — describing how we develop components, how they’re proposed, and how they mature. We'll talk a lot more about this next month!
-* This month we're thinking about a proposal status page prototype and clarifying roles and responsibilities throughout the lifecycle.
-* Next month we'll be codifying our software lifecycle definitions, establishing a GitHub repo for component proposals, and presenting our work at a monthly call.
-* By March, all this documentation should be up on our site!
+
+- This month we're thinking about a proposal status page prototype and clarifying roles and responsibilities throughout the lifecycle.
+- Next month we'll be codifying our software lifecycle definitions, establishing a GitHub repo for component proposals, and presenting our work at a monthly call.
+- By March, all this documentation should be up on our site!
 
 **Slide 15:** We're also working to operationalize usability research, specifically component and pattern usability research with people with disabilities.
-* This month we're finishing a research plan for our second round of research (called "Zebra" in our GitHub issues) and publishing a recruitment page.
-* In February we'll perform this research, in March, we'll document the findings, and by April we should be planning for Round 3 with a repeatable process to get us through Rounds 4, 5, and beyond.
+
+- This month we're finishing a research plan for our second round of research (called "Zebra" in our GitHub issues) and publishing a recruitment page.
+- In February we'll perform this research, in March, we'll document the findings, and by April we should be planning for Round 3 with a repeatable process to get us through Rounds 4, 5, and beyond.
 
 **Slide 16:** We're working to finish up tasks related to a website content audit. By next month we should have the page-level analysis complete, and have a set of success metrics for key pages. We'll finish this roadmap item up in March by documenting a repeatable process for managing and evaluating our content.
 
@@ -98,9 +102,9 @@ Next month we'll be finalizing these guidance updates. In April, we'll finish ou
 
 **Slide 19:** And finally, critical checklists. We’ve been talking about this since last summer. As of today in January, we’re publishing our first tests. And now we're on a roll!
 
-* We'll do the next round of usability testing in March, all the while continuing on the first pass of testing, and finally documentation, which we should complete in July.
-* Each month we'll also be doing a second round of testing as well, and publishing new component checklists as we finish this work.
-* By August this should all be complete!
+- We'll do the next round of usability testing in March, all the while continuing on the first pass of testing, and finally documentation, which we should complete in July.
+- Each month we'll also be doing a second round of testing as well, and publishing new component checklists as we finish this work.
+- By August this should all be complete!
 
 **Slide 20:** As you can see, there's a lot on our plate right now! And you can check out the full roadmap over at GitHub at [github.com/orgs/uswds/projects/8/views/31](http://github.com/orgs/uswds/projects/8/views/31). And you don't have to write that down, we're pasting it into the chat.
 
@@ -122,7 +126,7 @@ Next month we'll be finalizing these guidance updates. In April, we'll finish ou
 
 **Slide 29:** So we've renamed Critical Checklists to Accessibility Tests.
 
-**Slide 30:** So here we go! Let's take a look at one of the three component accessibility test pages we published today, Accordion, at [designsystem.digital.gov/components/accordion](http://designsystem.digital.gov/components/accordion).  One of the first things you'll notice is that every component that has an accessibility tests page, now has an accessibility status badge. This is up at the top of the page, and this accordion badge reads "Passed WCAG 2.1 AA". The side navigation on this page also includes a link to "Accordion accessibility tests".
+**Slide 30:** So here we go! Let's take a look at one of the three component accessibility test pages we published today, Accordion, at [designsystem.digital.gov/components/accordion](http://designsystem.digital.gov/components/accordion). One of the first things you'll notice is that every component that has an accessibility tests page, now has an accessibility status badge. This is up at the top of the page, and this accordion badge reads "Passed WCAG 2.1 AA". The side navigation on this page also includes a link to "Accordion accessibility tests".
 
 **Slide 31:** Further down the page, in the accessibility section, you'll find a callout to test the accordion in your own project, and a call-to-action link to "Use accordion accessibility tests". We're trying to stress here and on the accessibility tests page as well, that it's also important to perform these tests on your own site, since any implementation will necessarily be different from the environment in which we perform our tests.
 
@@ -156,7 +160,7 @@ If there were a fail state, we'd note it similarly on that page and link to the 
 
 **Slide 40:** So before I pass it to my colleagues to dig into how we got here, let's check back in on our goals. First and foremost, we're interested in making accessibility more accessible to anyone working on the web. If you're working on a project, you can be a part of its accessibility.
 
-**Slide 41:** Next, we're interested in establishing a baseline for change. As the design system grows and changes, we want to make sure that we establish a  continuity of accessible functionality-that-teams-can-trust and that we can check from release to release.
+**Slide 41:** Next, we're interested in establishing a baseline for change. As the design system grows and changes, we want to make sure that we establish a continuity of accessible functionality-that-teams-can-trust and that we can check from release to release.
 
 **Slide 42:** And finally, this can be another great example of using the design system to scale expertise: It takes a fair amount of time to develop these tests and understand what to look for. To write in plain language. To make things simpler. It can be pretty complicated to make something simple! We're trying to do a lot of that hard work, so we can deliver not only accessible components, but a way to manually test components that takes minutes instead of hours or days. It took us hours and days so that it can take you only minutes! That's the hope at least.
 
@@ -204,7 +208,7 @@ Dan: Thanks Anne
 
 **Slide 57:** As I mentioned earlier, we realize that we are testing these components in isolation; but you won’t be. You might need to piece together multiple checks per page or perform a more comprehensive page-level test. In the future we hope to bring you guidance on how to do those tests, too. For now, we recommend you use these checks as prompts to begin a conversation or bring awareness to accessibility at a fundamental level. Anyone new to accessibility should feel welcome to try using the checks themselves. We hope they help reduce any reservations you might feel about testing web accessibility and expand your knowledge of the testing process.
 
-**Slide 58:** We want you to feel comfortable sharing suggestions and feedback on these checks. They, along with everything we do, are a work in progress, and we want to invite you to contribute to the accessibility of the design system.  If you feel a check could be worded better, or if we overlooked something or you just want to give us feedback, there are buttons for submitting an issue or suggesting a check on each page. We can’t claim to have thought of everything, but that’s where you come in! In the future we hope to expand these pages to include color contrast, design and other manual checks. This will help us ensure all audiences have equal access to our work. And speaking of audiences, it’s important that you use these checks in conjunction with usability testing. Something that doesn’t technically pass a check might actually work better for your particular audience. It’s important to know that distinction and include your audience in your process. And speaking of testing, I’m going to hand it off to Jacline to talk about how we tested prototypes of our new accessibility test pages.
+**Slide 58:** We want you to feel comfortable sharing suggestions and feedback on these checks. They, along with everything we do, are a work in progress, and we want to invite you to contribute to the accessibility of the design system. If you feel a check could be worded better, or if we overlooked something or you just want to give us feedback, there are buttons for submitting an issue or suggesting a check on each page. We can’t claim to have thought of everything, but that’s where you come in! In the future we hope to expand these pages to include color contrast, design and other manual checks. This will help us ensure all audiences have equal access to our work. And speaking of audiences, it’s important that you use these checks in conjunction with usability testing. Something that doesn’t technically pass a check might actually work better for your particular audience. It’s important to know that distinction and include your audience in your process. And speaking of testing, I’m going to hand it off to Jacline to talk about how we tested prototypes of our new accessibility test pages.
 
 **Slide 59:** Jacline: Thanks Amy - hi everyone, this is Jacline again. It’s important to us that WHAT we build is useful and usable to you, the USWDS community. So, before launching this page, we tested it with some of you. I’m going to talk a little bit about what we did, what we learned, and how it influenced the design of our new component Accessibility Tests pages.
 
@@ -219,10 +223,11 @@ And now, we just launched these new pages and we plan to test them again in Marc
 **Slide 61:** Our main goals for testing the prototype were to gauge first impressions, discover what’s confusing, get a sense of how the structure and presentation of information was working for people, and just generally discover what improvements need to be made before launch.
 
 Some specific research questions we were trying to answer were:
-* Is the purpose of the page clear? Do they know what it can help them do?
-* Is it useful and usable to someone who’s not an accessibility expert?
-* Is the page where they expect to find it?
-* What page title makes the most sense to users?
+
+- Is the purpose of the page clear? Do they know what it can help them do?
+- Is it useful and usable to someone who’s not an accessibility expert?
+- Is the page where they expect to find it?
+- What page title makes the most sense to users?
 
 Getting more insights into these areas would help us gauge if we are on the right track with our design choices and decide what changes to make.
 
@@ -292,7 +297,7 @@ All that to say: if you’re not doing manual accessibility testing alongside au
 
 Much like with our recent usability testing with people with visual disabilities from our last call in November, and this round of testing on these new pages, ensuring you’re informed means talking it about it here, but also means publishing our research, getting that connected logically on our website, and continuing to talk with you, our community, as we keep making our process more understandable and showing the progress we’ve made, which then supports your decision-making on when and how to use USWDS components.
 
-**Slide 83:** *And* showing we rarely start where we end up. We improve things in small cycles along the way.
+**Slide 83:** _And_ showing we rarely start where we end up. We improve things in small cycles along the way.
 
 Iterating — that is, learning and changing as we go, continuously — is key to our work. Amy talked about it in the audit, when we changed how we were explaining those tests. Jacline talked about it in our usability testing of these pages, when we changed those tests to include exploration of the page title, as well as changing the design of the prototype, to gather feedback on both.
 
@@ -322,33 +327,33 @@ Join the U.S. Web Design System (USWDS) team as they continue to highlight acces
 
 In this session, you will learn:
 
-* How the Design System team documents their accessibility testing
-* The new checklists to conduct your own accessibility testing
-* Our schedule for publishing additional component accessibility tests
-* Locating known issues for some Design System components
+- How the Design System team documents their accessibility testing
+- The new checklists to conduct your own accessibility testing
+- Our schedule for publishing additional component accessibility tests
+- Locating known issues for some Design System components
 
 **This event is best suited for:** Designers, accessibility specialists, developers, and content managers (all levels)
 
 ## Speakers
 
-* **Dan Williams** **—** Product Lead, USWDS
-* **Anne Petersen** **—** Experience Design Lead, USWDS
-* **Amy Cole** **—** Accessibility Specialist, USWDS Contractor
-* **Jacline Contrino** **—** UX Researcher, USWDS Contractor
+- **Dan Williams** **—** Product Lead, USWDS
+- **Anne Petersen** **—** Experience Design Lead, USWDS
+- **Amy Cole** **—** Accessibility Specialist, USWDS Contractor
+- **Jacline Contrino** **—** UX Researcher, USWDS Contractor
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)
