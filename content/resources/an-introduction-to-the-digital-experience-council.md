@@ -154,12 +154,12 @@ Development</th>
     <tr>
       <th scope="row">Environmental Protection Agency</th>
       <td>Lin Darlington</td>
-      <td>Angela Shogren</td>
+      <td>Chuck Widener</td>
     </tr>
     <tr>
       <th scope="row">General Services Administration</th>
-      <td>Jessica Marine</td>
       <td>Rachel Flagg</td>
+      <td>Jenn Noinaj</td>
     </tr>
     <tr>
       <th scope="row">National Aeronautics and Space
