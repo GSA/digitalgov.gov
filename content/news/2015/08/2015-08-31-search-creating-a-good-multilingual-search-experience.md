@@ -1,18 +1,19 @@
 ---
 slug: search-creating-a-good-multilingual-search-experience
 date: 2015-08-31 11:10:46 -0400
-title: 'Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience'
-summary: 'Government agencies across the United States publish content in a growing number of languages to do the business of the country. In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages.'
+title: "Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience"
+summary: "Government agencies across the United States publish content in a growing number of languages to do the business of the country. In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages."
 authors:
   - dmccleskey
 topics:
   - search
   - multilingual
+
 ---
 
-[{{< legacy-img src="2015/08/600-human-word-cloud-kgtoh-481085576.jpg" alt="Multilingual word cloud for human." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/600-human-word-cloud-kgtoh-481085576.jpg)
-
 In 2015, [DigitalGov Search](http://search.digitalgov.gov/) dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support [68 different languages](http://search.digitalgov.gov/manual/supported-languages.html). Government agencies across the United States publish content in a growing number of languages to do the business of the country. Language-specific websites and mobile apps include not just translated content, but also site navigation and other lexical elements.
+
+{{< legacy-img src="2015/08/600-human-word-cloud-kgtoh-481085576.jpg" alt="A word cloud of the word human, in multiple language and colors." caption="kgtoh/iStock/Thinkstock" >}}
 
 This month marks the 15th anniversary of [EO 13166](http://www.lep.gov/13166/eo13166.html), which directed federal agencies and federally funded programs to provide meaningful access to information for people with limited English proficiency. In the years since its signing, over 275 websites or subsites have been published in over 65 languages, including a few multilingual portals. If your agency supports sites or apps in other languages, [let us know about them](https://www.surveymonkey.com/r/BCZRZ6C)!
 
@@ -40,6 +41,6 @@ The following 58 languages have fully localized results page support with both l
 
 <div style="clear: both">
 </div>
-<br />Ten more—Baluchi, Bangla, Creole, Finnish, Icelandic, Japanese, Kazakh, Romanian, Slovene, and Swedish—provide language-specific results, but don’t yet have localized system text. We have open-sourced our [localizations](https://github.com/GSA/punchcard/tree/master/localizations), and encourage you to [contribute to them on GitHub](https://github.com/GSA/punchcard/blob/master/CONTRIBUTING.md).
+<br />Ten more — Baluchi, Bangla, Creole, Finnish, Icelandic, Japanese, Kazakh, Romanian, Slovene, and Swedish — provide language-specific results, but don’t yet have localized system text. We have open-sourced our [localizations](https://github.com/GSA/punchcard/tree/master/localizations), and encourage you to [contribute to them on GitHub](https://github.com/GSA/punchcard/blob/master/CONTRIBUTING.md).
 
-The next time your agency is setting up a non-English website, don’t forget about providing your visitors with a localized search experience, too. It’s easy. We’ve done the heavy lifting for you. Just sign up for [DigitalGov Search](https://search.gov), set up a search site for any of the above languages, and your visitors will have a good, seamless search experience—in any language.
+The next time your agency is setting up a non-English website, don’t forget about providing your visitors with a localized search experience, too. It’s easy. We’ve done the heavy lifting for you. Just sign up for [DigitalGov Search](https://www.search.gov), set up a search site for any of the above languages, and your visitors will have a good, seamless search experience—in any language.
