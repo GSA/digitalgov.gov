@@ -16,8 +16,7 @@ authors:
 topics:
   - social-media
 
-event_cop:
-  - social-media
+event_cop: social-media
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -38,11 +37,10 @@ community_list:
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
     members: 1,509
     join_cop_button: "Social Media community members"
-    
+
 kicker: "Join the Social Media Community"
 
 primary_image: "communities-card-sm"
-
 ---
 
 The Social Media Community of Practice (CoP) was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies to help the American public understand and access services and explain the role of government in their lives. The CoP connects digital managers and specialists in government as part of an effort aimed at improving how digital engagement programs are created, adopted, and evaluated.

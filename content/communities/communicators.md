@@ -19,8 +19,7 @@ authors:
   - deanna-mccray-james
   - josie-anderson
 
-event_cop:
-  - communicators
+event_cop: communicators
 
 community_list:
   - platform: listserv

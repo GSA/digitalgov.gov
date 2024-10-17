@@ -14,8 +14,7 @@ topics:
   - contact-centers
   - customer-experience
 
-event_cop:
-  - contact-center
+event_cop: contact-center
 
 community_list:
   - platform: listserv
