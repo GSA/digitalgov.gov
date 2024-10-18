@@ -21,13 +21,15 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency"
-  link: "https://www.federalregister.gov/documents/2000/08/16/00-20938/improving-access-to-services-for-persons-with-limited-english-proficiency"
+  title: "Executive Order 13166, Attorney General memorandum, and Title VI of the Civil Rights Act"
+  link: "/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/"
 
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"
+    - title: "LEP.gov"
+      summary: "Find requirements and resources from the Department of Justice on improving access for people with limited English proficiency."
+      link: "https://www.lep.gov/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -38,20 +40,19 @@ featured_communities:
 featured_links:
   title: "Multilingual: Essential knowledge"
   resources:
-  - title: "Top 10 best practices for multilingual websites"
-    summary: "Tips for creating and managing multilingual government websites."
-    href: "https://digital.gov/resources/top-10-best-practices-for-multilingual-websites/"
-  - title: "Introduction to translation technology"
-    summary: "Learn how and when to use translation technology to provide meaningful access for people with limited English proficiency."
-    href: "https://digital.gov/resources/introduction-to-translation-technology"
-  - title: "Select a language: Help a user to choose their preferred language"
-    summary: "U.S. Web Design System technical guidance on how to support users in their language of choice."
-    href: "https://designsystem.digital.gov/patterns/select-a-language/"
-  - title: "Designing for translation"
-    summary: "Learn about the importance of communicating information in several languages and designing for translation."
-    href: "https://digital.gov/resources/multilingual-huddle-designing-for-translation/"
-  - title: "Bilingual glossaries, dictionaries, and style guides"
-    summary: "Multilingual resources that improve the way we communicate with people in languages other than English."
-    href: "https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides"
-
+    - title: "An introduction to multilingual glossaries"
+      summary: "Understand how and why to use a multilingual glossary when translating content."
+      href: "https://digital.gov/resources/introduction-to-multilingual-glossaries/"
+    - title: "Top 10 best practices for multilingual websites"
+      summary: "Tips for creating and managing multilingual government websites."
+      href: "https://digital.gov/resources/top-10-best-practices-for-multilingual-websites/"
+    - title: "Introduction to translation technology"
+      summary: "Learn how and when to use translation technology to provide meaningful access for people with limited English proficiency."
+      href: "https://digital.gov/resources/introduction-to-translation-technology"
+    - title: "Select a language: Help a user to choose their preferred language"
+      summary: "U.S. Web Design System technical guidance on how to support users in their language of choice."
+      href: "https://designsystem.digital.gov/patterns/select-a-language/"
+    - title: "Bilingual glossaries, dictionaries, and style guides"
+      summary: "Multilingual resources that improve the way we communicate with people in languages other than English."
+      href: "https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides"
 ---
