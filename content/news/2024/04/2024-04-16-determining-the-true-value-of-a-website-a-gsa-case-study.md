@@ -111,7 +111,11 @@ View all sections of the law and the circular mentioned above:
 
 We visualize this evaluation in website maps, rendered as charts that are available internally to GSA employees. This helps us see examples of good performers, such as Website A (on the left), and not-so-good performers, like Website B (on the right.) 
 
-<center><img src="https://s3.amazonaws.com/digitalgov/piechart-1-website-a-meets-standards.png" width="300" alt="A circular chart divided into 6 wedges, centered on a gray circle. Only 5 fill the circle, indicating the website almost completely meets standards."> <img src="https://s3.amazonaws.com/digitalgov/piechart-2-website-a-does-not-meets-standards.png" width="300" alt="A round chart divided into 6 wedges, centered on a gray circle. None of the wedges fills the gray circle, meaning the website does not meet standards."></center>
+<center><img src="https://s3.amazonaws.com/digitalgov/piechart-1-website-a-meets-standards.png" alt="A circular chart divided into 6 wedges, centered on a gray circle. Only 5 fill the circle, indicating the website almost completely meets standards."> <img src="https://s3.amazonaws.com/digitalgov/piechart-2-website-a-does-not-meets-standards.png" alt="A round chart divided into 6 wedges, centered on a gray circle. None of the wedges fills the gray circle, meaning the website does not meet standards."></center>
+
+{{< img src="piechart-1-website-a-meets-standards" align="center" inline="true" >}}
+{{< img src="piechart-2-website-a-does-not-meets-standards" align="center" inline="true" >}}
+
 
 In addition, these charts, like all maps <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>, contains some decisions that prioritize how the information is rendered. They include: 
 
