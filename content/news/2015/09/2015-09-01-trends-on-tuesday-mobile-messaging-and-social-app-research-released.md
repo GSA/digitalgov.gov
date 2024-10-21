@@ -24,9 +24,13 @@ The report author, Maeve Duggan, said, &#8220;The results in this report reflect
 
 With more than 72% of adult Internet users, Facebook, by far, leads as the top mobile app and messaging channel.
 
-Besides the content on Facebook, when users in the Facebook app go to other websites, they’re kept within the Facebook app and content is displayed within a webview. Facebook drives so much traffic to other sites that it actually makes Facebook’s WebView within their app one of the worlds largest browsers, if not the largest browser, as Benedict Evans, one of the world’s most prominent mobile analysts, proclaimed: 
+Besides the content on Facebook, when users in the Facebook app go to other websites, they’re kept within the Facebook app and content is displayed within a webview. Facebook drives so much traffic to other sites that it actually makes Facebook’s WebView within their app one of the worlds largest browsers, if not the largest browser, as Benedict Evans, one of the world’s most prominent mobile analysts, proclaimed:
 
-{{< tweet user="BenedictEvans" id="637046046984568832" >}}
+<blockquote class="twitter-tweet" width="500">
+<p lang="en">On mobile, the most popular browser is Facebook, not Safari or Chrome</p>
+
+<p>&mdash; Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/status/637046046984568832">August 27, 2015</a></p>
+</blockquote>
 
 ## Pinterest and Instagram Have Seen the Largest Growth in the Past Two Years
 
