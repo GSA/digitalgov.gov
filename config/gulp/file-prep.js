@@ -301,9 +301,16 @@ function imageData(format, uid, dimensions) {
   width    :  ${dimensions.width}
   height   :  ${dimensions.height}
   format   :  ${format}
-  credit   :  
-  caption  :  
-  alt      :  
+
+  # REQUIRED alternative text for accessibility. 
+  # Keep within 150 characters; https://capitalizemytitle.com/character-counter/ will count characters.
+  alt      :  ""
+
+  # Caption text appears below the image.
+  caption  :  ""
+
+  # Credit text appears after the caption text, separated by an m-dash.
+  credit   :  ""
   `;
 }
 
