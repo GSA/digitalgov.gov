@@ -60,13 +60,13 @@ The following 58 languages have fully localized results page support with both l
 </tr>
 
 <tr>
-<th scope="row">1776</th>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/hy.yml">Armenian</a> [HY]</th>
 <td>1776</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/az.yml">Azerbaijani</a> [AZ]</th>
 <td>1776</td>
 <td>1776</td>
 </tr>
@@ -171,8 +171,8 @@ The following 58 languages have fully localized results page support with both l
   <br /> 
   <br /> 
   <br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/hy.yml">Armenian</a> [HY]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/az.yml">Azerbaijani</a> [AZ]<br /> 
+  <br /> 
+  <br /> 
   <a href="https://github.com/GSA/punchcard/blob/master/localizations/be.yml">Belarusian</a> [BE]<br /> 
   <a href="https://github.com/GSA/punchcard/blob/master/localizations/bs.yml">Bosnian</a> [BS]<br /> 
   <a href="https://github.com/GSA/punchcard/blob/master/localizations/bg.yml">Bulgarian</a> [BG]<br /> 
