@@ -4,19 +4,33 @@
 
 {{ $upcoming_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" ">" now.Unix }}
 {{ $upcoming_events = $upcoming_events | intersect (where $upcoming_events "Date" ">" now) }}
-{{ $community_events := where $upcoming_events ".Params.event_cop" "eq" .Params.event_cop }}
+{{ $community := .Params.event_cop }}
+{{ $hasEvents := false }}
+{{ $tags := "" }}
 
-{{ if $community_events }}
+{{ range $upcoming_events }}
+  {{/* Turn the slice of []strings into a string format for comparison */}}
+  {{ $tags = delimit .Params.event_cop ", " " " }}
+  {{ if strings.Contains $tags $community }}
+    {{ $hasEvents = true }}
+  {{ end }}
+{{ end }}
+
+{{ if $hasEvents }}
   <div class="upcoming-events">
-    <h2>Upcoming Events</h2>
+    <h2>Upcoming Event</h2>
     <ul>
-      {{ range $community_events }}
-        <li>
-          <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"
-            >{{ .Title | markdownify }}
-          </a>
-          ({{ dateFormat "01/02/2006" .Params.date }})
-        </li>
+      {{ range $upcoming_events }}
+        {{/* Displays an event if event has same community name */}}
+        {{ $tags = delimit .Params.event_cop ", " " " }}
+        {{ if strings.Contains $tags $community }}
+          <li>
+            <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"
+              >{{ .Title | markdownify }}
+            </a>
+            ({{ dateFormat "01/02/2006" .Params.date }})
+          </li>
+        {{ end }}
       {{ end }}
     </ul>
     <br />
