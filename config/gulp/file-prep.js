@@ -302,15 +302,16 @@ function imageData(format, uid, dimensions) {
   height   :  ${dimensions.height}
   format   :  ${format}
 
-  # REQUIRED alternative text for accessibility. 
+  # REQUIRED alternative text for accessibility.
   # Keep within 150 characters. https://capitalizemytitle.com/character-counter/ will count characters.
   alt      :  ""
 
-  # Caption text appears below the image. Usually attribution for stock images
+  # Caption text appears below the image; usually the attribution for stock images.
+  # Must be different from the alt text.
   caption  :  ""
 
   # Credit text appears after the caption text, separated by an m-dash.
-  # Example https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/ and 
+  # Example https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/ 
   credit   :  ""
   `;
 }
