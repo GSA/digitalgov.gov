@@ -12,7 +12,7 @@ summary: "How to contact the Digital.gov team."
 
 :video_camera: For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
-For a wider list of contacts, see our [**Directory of services, tools, and teams**]({{< ref "/services/directory.md" >}}) »
+:gear: For a wider list of contacts, see our [**Directory of services, tools, and teams**](https://digital.gov/services/directory/) »
 
 ---
 
