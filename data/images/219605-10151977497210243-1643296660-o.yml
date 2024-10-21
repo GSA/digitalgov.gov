@@ -1,0 +1,20 @@
+
+  # https://s3.amazonaws.com/digitalgov/219605-10151977497210243-1643296660-o.png
+  # Image shortcode: {{< img src="219605-10151977497210243-1643296660-o" >}}'
+  date     :  2024-10-21 22:44:38 -0400
+  uid      :  219605-10151977497210243-1643296660-o
+  width    :  843
+  height   :  562
+  format   :  png
+
+  # REQUIRED alternative text for accessibility. 
+  # Keep within 150 characters. https://capitalizemytitle.com/character-counter/ will count characters.
+  alt      :  ""
+
+  # Caption text appears below the image. Usually attribution for stock images
+  caption  :  ""
+
+  # Credit text appears after the caption text, separated by an m-dash.
+  # Example https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/ and 
+  credit   :  ""
+  
