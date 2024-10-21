@@ -18,7 +18,7 @@ This call is open to the public, specifically the people who are interested in l
   * Explain the basis for meeting the challenge
   * Answer your questions
 
-NDU will also be joined by &#8220;socialpreneur,&#8221; Nelson Jacobsen, CEO, Random Hacks of Kindness and the chief architect and guru who guides and grows Altavoz, the entertainment distribution company he co-founded in 2011.
+NDU will also be joined by &#8220;socialpreneur,&#8221; Nelson Jacobsen, CEO, Random Hacks of Kindness and the chief architect and expert who guides and grows Altavoz, the entertainment distribution company he co-founded in 2011.
 
 DETAILS:
   
