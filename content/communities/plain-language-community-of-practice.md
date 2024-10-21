@@ -4,8 +4,10 @@
 
 slug: plain-language
 date: 2016-02-03 10:58:53 -0400
-title: "Plain Language"
+title: Join the Plain Language
 summary: "Promote the use of plain language to provide better service to the public."
+
+deck: Share and learn with plain language practitioners.
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -45,29 +47,18 @@ community_list:
     subscribe_email: "pl-cop-main-request@listserv.gsa.gov"
     subscribe_email_subject: "Join the Plain Language Community"
     terms: "Government employees and contractors with an official .gov or .mil email are eligible to join."
-    members: 2,408
+    members: 2,550
     join_cop_button: "Plain Language community members"
 
-kicker: "Join the Plain Language Community"
+kicker: "Communities of practice"
 
 primary_image: "communities-card-pl"
-
 ---
 
-The Plain Language community is a group of government employees and contractors dedicated to the idea that citizens deserve clear communications from government. We believe that using plain language saves government agencies time and money and provides better service to the American public.
+Government professionals from all levels come together in this community to promote the use of plain language to provide better services to the public.
 
-## What We Do
+Become a member to collaborate with colleagues who are dedicated to the idea that the public deserves clear communications from government.
 
-Throughout the year, the community provides training and hosts plain-language related events. Our community offers support and answers to members’ questions.
+Digital.gov fosters this engaging community by providing spaces designed to empower members on their communication and plain language journeys. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-## Who We Are
-
-We’re a group of plain language practitioners with varying specialties and different levels of expertise.
-
-## Related Resources
-
-- [Plain Writing Act of 2010](https://www.plainlanguage.gov/law/)
-- [Federal Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/)
-- [2022 Federal Plain Language Summit](https://digital.gov/event/2022/08/24/2022-federal-plain-language-summit/)
-- [2021 Federal Plain Language Summit](https://digital.gov/event/2021/09/21/2021-federal-plain-language-summit/)
-- [2020 Federal Plain Language Summit](https://digital.gov/event/2020/10/27/plain-language-summit-2020/)
+{{< featured-resource link="topics/plain-language" >}}

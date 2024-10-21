@@ -2,7 +2,7 @@
 slug: deconstructing-public-prize-competitions-can-result-in-better-solutions
 date: 2014-07-29 10:07:10 -0400
 title: '&#8220;Deconstructing&#8221; Public Prize Competitions Can Result in Better Solutions'
-summary: 'When faced with a big, daunting problem to solve, it’s human nature to try to tackle it by breaking it down into smaller parts and taking it &ldquo;one step at a time.&rdquo; The message from a recent DigitalGov University webinar on public prize competitions (AKA &lsquo;challenges’) was that the government can often receive better solutions'
+summary: "The message from a recent DigitalGov University webinar on public prize competitions (challenges) was that the government can often receive better solutions by going through the exact same process, and giving awards at each step."
 authors:
   - tlowden
 topics:
@@ -36,4 +36,4 @@ See the slides for more information:
 
 The HFPP Challenge tandem of Zeiler and LaMora made clear that the process of deconstructing a challenge requires more thought and a reliable collaboration structure; but for the right kind of challenge, they said, it can be well worth the effort.
 
-_If you would like more information on challenges and prize competitions, become part of the <a href="{{< ref "challenges-prizes.md" >}}">Federal Challenge and Prize Community listserv</a>. If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at [Challenge.gov](https://www.challenge.gov)._
+*If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv](https://digital.gov/communities/challenges-prizes/). If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at [Challenge.gov](https://www.challenge.gov).*

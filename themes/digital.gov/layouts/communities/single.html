@@ -20,8 +20,6 @@
         <div>
           {{- if .Params.summary -}}
             <div class="content usa-prose">
-              <p>{{- .Params.summary | markdownify -}}</p>
-
               {{- if .Params.community_list -}}
                 <section
                   class="join-community-form join-community-form--{{ $community_acronym }}"
