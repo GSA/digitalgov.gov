@@ -20,10 +20,10 @@ Sam Ortega, the manager of the Centennial Challenges program at NASA, spoke abou
 
 However, Ortega says, some benefits of public prize competitions do give them an edge over contracts and grants in certain situations:
 
-  * Many possible solutions vs. usually one solution
-  * Broader pool of potential entrants
-  * Lesser cost to execute
-  * Payment for success only
+* Many possible solutions vs. usually one solution
+* Broader pool of potential entrants
+* Lesser cost to execute
+* Payment for success only
 
 The key for a challenge/public prize competition being a good option, he said, is having enough resources that already exist to believe a solution is feasible, even if difficult. The less successful challenges NASA has run are those in fields where heavy amounts of research and development are still needed.
 
@@ -35,5 +35,6 @@ For more, view Ortega’s slides or the webinar in its entirely below:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/bDhlFKAVs4Bj4V" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/prizes-contracts-grants-digital-gov-tb-corrected-typos-on-slides-1-and-2" title="Slides: Prizes, Contracts &amp; Grants: What Should I Do?" alt="Prizes, Contracts and Grants: What Should I Do?" target="_blank">Prizes, Contracts &amp; Grants: What Should I Do?</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
-_If you would like more information on challenges and prize competitions, become part of the_ [_Federal Challenge and Prize Community listserv_]({{< ref "challenges-prizes.md" >}})_. If you are interested in entering a challenge, see the list of government challenges at_ [_Challenge.gov_](http://challenge.gov/)_._
-_This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+*If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv]({{< ref "challenges-prizes.md" >}}). If you are interested in entering a challenge, see the list of government challenges at [Challenge.gov](http://challenge.gov/).*
+
+*This article is part of this month's editorial theme on our DigitalGov Services. Check out more articles related to this theme.*
