@@ -1,9 +1,9 @@
 ---
 slug: using-augmented-reality-teach-kids-about-currency
 date: 2019-03-05 12:00:00 -0500
-title: 'Using Augmented Reality to Teach Kids about Currency'
-summary: 'The U.S. Currency Education Program used research, prototyping, and user-feedback to develop a mobile app to teach young students about money.'
-deck: 'The U.S. Currency Education Program used research, prototyping, and user-feedback to develop a mobile app to teach young students about money.'
+title: "Using Augmented Reality to Teach Kids about Currency"
+summary: "The U.S. Currency Education Program used research, prototyping, and user-feedback to develop a mobile app to teach young students about money."
+deck: "The U.S. Currency Education Program used research, prototyping, and user-feedback to develop a mobile app to teach young students about money."
 authors:
   - ayjah-thomas
 topics:
