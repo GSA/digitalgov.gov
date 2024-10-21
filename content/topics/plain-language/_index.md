@@ -26,7 +26,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - title: "Plainlanaguage.gov"
+    - title: "Plainlanguage.gov"
       summary: "Plain language makes it easier for the public to read, understand, and use government communications."
       link: "https://www.plainlanguage.gov/"
 
