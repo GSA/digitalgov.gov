@@ -1,24 +1,26 @@
 ---
 slug: youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar
 date: 2013-02-11 14:02:07 -0400
-title: 'You&#8217;ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar'
-summary: 'Learn how to create amazing and engaging Mobile Gov User Experiences by watching this webinar. Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine'
+title: "You'll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar"
+summary: "Learn how to create amazing and engaging Mobile Gov User Experiences by watching this webinar. Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation."
 topics:
   - mobile
   - user-experience
 ---
 
-[{{< legacy-img src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}](https://sites.usa.gov/howtomobile/files/2011/05/PTSD_App.jpg)Learn how to create amazing and engaging [Mobile Gov User Experiences]({{< ref "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}} "Mobile Gov User Experience Resources and Design Tools") by watching this webinar.
+{{< legacy-img-right src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}
+
+Learn how to create amazing and engaging [Mobile Gov User Experiences]({{< ref "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}} "Mobile Gov User Experience Resources and Design Tools") by watching this webinar.
 
 Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine [has listed 12 elements](http://mobile.smashingmagazine.com/2012/07/12/elements-mobile-user-experience/) to consider for building good mobile user experiences.
 
-In this webinar, Mobile Gov developers from the National Institutes of Health and Department of Veteran&#8217;s Affairs talk about how mobile user experience is different from traditional channels, discuss how to approach user experience during mobile implementations, and demonstrate their successful practices.
+In this webinar, Mobile Gov developers from the National Institutes of Health and Department of Veterans Affairs talk about how mobile user experience is different from traditional channels, discuss how to approach user experience during mobile implementations, and demonstrate their successful practices.
 
-**You&#8217;ll Learn How To**
+**You'll Learn How To**
 
-  * Rethink user experience when implementing mobile
-  * Approach Mobile Gov user experiences
-  * Implement successful Mobile Gov user experiences and practices
+* Rethink user experience when implementing mobile
+* Approach Mobile Gov user experiences
+* Implement successful Mobile Gov user experiences and practices
 
 **Who Should Watch**
 
