@@ -1,8 +1,8 @@
 ---
 slug: challenge-and-prize-practitioners-gather-at-gsa
 date: 2014-06-13 10:00:48 -0400
-title: Challenge and Prize Practitioners Gather at GSA
-summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov team gathered the Challenges and Prizes Community of Practice together for its quarterly meeting. The group covered two topics: Highlights from challenge competitions run in 2013.'
+title: "Challenge and Prize Practitioners Gather at GSA"
+summary: "Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov team gathered the Challenges and Prizes Community of Practice together for its quarterly meeting."
 authors:
   - ktrebon
 topics:
@@ -10,14 +10,15 @@ topics:
   - crowdsourcing-and-citizen-science
   - innovation
   - software-engineering
+
 ---
 
 Got [innovation]({{< ref "/topics/challenges-and-prize-competitions" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
 On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the Challenges and Prizes Community of Practice. The group covered two topics:
 
-  1. Highlights from challenge competitions run in 2013.
-  2. Concepts and tips for working with solvers to build teams.
+1. Highlights from challenge competitions run in 2013.
+2. Concepts and tips for working with solvers to build teams.
 
 {{< legacy-img src="2014/06/600-x-450-Challenges-and-Prizes-Community-of-Practice-quarterly-meeting-May-28-2014-photo-11.jpg" alt="Challenges and Prizes Community of Practice quarterly meeting on May 28, 2014" >}}
 
@@ -25,15 +26,11 @@ Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Off
 
 Trends include:
 
-  * Federal agencies are maturing and are no longer using challenges for communications and engagement purposes. They are now using them to get novel solutions from non-standard solvers.
-
-  * Challenge and prize competitions are being used to frame future strategy. [HUD’s Rebuild by Design](http://www.rebuildbydesign.org/) and the [National Eye Institute’s Audacious Goals for Research](http://www.nei.nih.gov/challenge/) are great examples of this.
-
-  * Got code? [Challenges are becoming a great source of code, apps, algorithms](https://www.challenge.gov/list/?type=SoftwareApps "Software and apps challenges on Challenge.gov"), and shared service IT solutions, resulting in significant cost savings.
-
-  * Prize purses are increasing.
-
-  * Agencies are forging new paths to post-competition success.
+* Federal agencies are maturing and are no longer using challenges for communications and engagement purposes. They are now using them to get novel solutions from non-standard solvers.
+* Challenge and prize competitions are being used to frame future strategy. [HUD’s Rebuild by Design](http://www.rebuildbydesign.org/) and the [National Eye Institute’s Audacious Goals for Research](http://www.nei.nih.gov/challenge/) are great examples of this.
+* Got code? [Challenges are becoming a great source of code, apps, algorithms](https://www.challenge.gov/list/?type=SoftwareApps "Software and apps challenges on Challenge.gov"), and shared service IT solutions, resulting in significant cost savings.
+* Prize purses are increasing.
+* Agencies are forging new paths to post-competition success.
 
 ## Solver Teams
 
