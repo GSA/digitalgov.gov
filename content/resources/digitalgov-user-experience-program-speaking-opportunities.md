@@ -16,9 +16,7 @@ The DigitalGov User Experience Program presents to federal audiences by phone, w
 - How to Improve Federal Digital Services
 - and more
 
-<p style="text-align: center">
-  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/speaking-opportunities-2.png">{{< legacy-img src="/2014/01/speaking-opportunities-2.png" alt="A person presenting before a crowd." >}}</a>
-</p>
+{{< legacy-img src="/2014/01/speaking-opportunities-2.png" alt="A person presenting before a crowd." >}}
 
 Potential audiences include:
 
