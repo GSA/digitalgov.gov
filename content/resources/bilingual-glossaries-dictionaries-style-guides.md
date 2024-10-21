@@ -128,7 +128,7 @@ Financial and retirement terminology:
 
 #### General Services Administration (GSA)
 
-- The Digital.gov Multilingual Community of Practice, GSA’s [10x Multilingual Glossary Tool project](https://10x.gsa.gov/news/multilingual-glossary-tool/), and an interagency working group worked to develop a shared [translation glossary of health terms in Spanish](https://digital.gov/resources/introduction-to-multilingual-glossaries/#how-can-i-start-using-multilingual-glossaries-2). 
+- The Digital.gov Multilingual Community of Practice, GSA’s [10x Multilingual Glossary Tool project](https://10x.gsa.gov/news/multilingual-glossary-tool/), and an interagency working group worked to develop a shared [translation glossary of health terms in Spanish](https://digital.gov/resources/introduction-to-multilingual-glossaries/#how-can-i-start-using-multilingual-glossaries-2).
 
 #### U.S. Department of Health and Human Services (HHS)
 
