@@ -142,11 +142,11 @@ collections:
         hint: |-
           [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
           Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
-          Learn more about getting a Github account at [URL]
+          Learn more about getting a GitHub account at [URL]
         comment: |-
           [e.g. 'jeremyzilar'] — A GitHub account will allow you to edit pages on Digital.gov.
            Also, the image used in your GitHub account can be used to populate your digital.gov profile photo.
-           Learn more about getting a Github account at [URL]
+           Learn more about getting a GitHub account at [URL]
         pattern: ['^[a-zA-Z0-9\_\-\.]+$', "Can only contain letters or numbers"]
         required: false
       - label: "Profile Photo"
@@ -461,10 +461,10 @@ collections:
         widget: "string"
         hint: "e.g. 3FKyVeipMss"
         required: false
-      - label: "Youtube Title"
+      - label: "YouTube Title"
         name: "youtube_title"
         widget: "string"
-        hint: "Title of the published Youtube video as displayed on Youtube"
+        hint: "Title of the published YouTube video as displayed on YouTube"
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
