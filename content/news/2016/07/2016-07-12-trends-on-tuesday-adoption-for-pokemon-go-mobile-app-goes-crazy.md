@@ -1,7 +1,7 @@
 ---
-slug: trends-on-tuesday-adoption-for-pokemon-go-mobile-app-goes-crazy
+slug: trends-on-tuesday-adoption-for-pokemon-go-mobile-app-surges
 date: 2016-07-12 10:00:37 -0400
-title: 'Trends on Tuesday: Adoption for Pokémon Go Mobile App Goes Crazy'
+title: 'Trends on Tuesday: Adoption for Pokémon Go Mobile App Surges'
 summary: 'Augmented Reality games have existed for years, but have mostly failed to catch a mainstream audience; Pok&eacute;mon Go just changed all that this weekend. The game that launched early this month has exploded in popularity and is close to surpassing Twitter in daily active'
 authors:
   - wsullivan
