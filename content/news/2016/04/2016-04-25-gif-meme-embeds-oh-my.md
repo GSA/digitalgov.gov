@@ -63,7 +63,7 @@ Event though it’s 2016, there still are some out there (especially in governme
 
 ## Memes
 
-[A term allegedly coined in 1976](https://www.youtube.com/watch?v=CCPIt9lrohE&feature=youtu.be), catchy, fun, memorable—these are terms used to describe memes. It’s basically an image or GIF with text over it. Generally the most popular memes are comedic in nature, and can help you establish or put on display your agency’s personality. This can be dangerous territory for agency accounts. Some memes aren’t appropriate, some aren’t relevant, and sometimes it just makes the brand look quite lame. As I said in a previous post, [stick to your agency’s message]({{< ref "2016-04-18-the-content-corner-branches-stick-to-the-vine.md" >}})—try not to stray from your brand message or demographic for the sake of trends.
+[A term allegedly coined in 1976](https://www.youtube.com/watch?v=CCPIt9lrohE&feature=youtu.be), catchy, fun, memorable—these are terms used to describe memes. It’s basically an image or GIF with text over it. Generally the most popular memes are comedic in nature, and can help you establish or put on display your agency’s personality. This can be dangerous territory for agency accounts. Some memes aren’t appropriate, some aren’t relevant, and sometimes it just makes the brand look quite outdated. As I said in a previous post, [stick to your agency’s message]({{< ref "2016-04-18-the-content-corner-branches-stick-to-the-vine.md" >}})—try not to stray from your brand message or demographic for the sake of trends.
 
 ## Podcasts
 
