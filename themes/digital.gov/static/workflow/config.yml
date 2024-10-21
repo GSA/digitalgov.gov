@@ -390,7 +390,16 @@ collections:
       - label: "Event Related CoP"
         name: "cop_events"
         widget: "select"
-        options: ["communicators", "multilingual", "plain-language", "web-managers", "web-analytics", "social-media", "user-experience"]
+        options:
+          [
+            "communicators",
+            "multilingual",
+            "plain-language",
+            "web-managers",
+            "web-analytics",
+            "social-media",
+            "user-experience",
+          ]
         collection: "events"
         default: ""
         multiple: true
@@ -451,6 +460,11 @@ collections:
         name: "youtube_id"
         widget: "string"
         hint: "e.g. 3FKyVeipMss"
+        required: false
+      - label: "Youtube Title"
+        name: "youtube_title"
+        widget: "string"
+        hint: "Title of the published Youtube video as displayed on Youtube"
         required: false
       - label: "Primary Image (for social media)"
         name: "primary_image"
@@ -786,7 +800,6 @@ collections:
         required: false
         <<: *editorComponents
 
-
   # SHORT LINK =======================
   - <<: *defaults
     name: "shortlink"
@@ -1047,11 +1060,15 @@ collections:
       - label: "File"
         name: "file"
         widget: "file"
-        pattern: ['.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$', "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m"]
+        pattern:
+          [
+            '.*\.(doc|docx|pdf|ppt|pptx|pptm|xls|xlsx)$',
+            "Allowed files are .pdf, .xls/x, .doc/x, .ppt/x/m",
+          ]
         media_library:
           config:
             multiple: true
-            
+
   # IMAGE UPLOAD =======================
   - <<: *defaults
     name: "image-upload"
