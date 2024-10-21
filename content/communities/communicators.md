@@ -48,7 +48,7 @@ event_cop:
   - communicators
 ---
 
-Government professionals from all levels come together in this community to Improve written and verbal communication to make government communication more effective.
+Government professionals from all levels come together in this community to improve written and verbal communication to make government communication more effective.
 
 Become a member to network with subject matter experts with extensive experience and deep subject knowledge in communications, public affairs, and other related areas.
 
