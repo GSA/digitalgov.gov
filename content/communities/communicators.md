@@ -1,23 +1,26 @@
 ---
+
+title: Join the Communicators
+summary: "Improve written and verbal communication to make government more effective."
+deck: Share and learn with communications and public affairs practitioners.
+
+dg_shortname: Communicators
+dg_acronym: FCN
+dg_logo: communities-communicators.svg
+dg_highlight: true
+date: 2021-02-24 18:49:00 -0500
+
+# See all authors at https://digital.gov/authors
+authors:
+  - deanna-mccray-james
+  - josie-anderson
+
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
   - plain-language
   - social-media
   - communication
-
-dg_acronym: FCN
-dg_logo: communities-communicators.svg
-date: 2021-02-24 18:49:00 -0500
-title: Join the Communicators
-summary: "Improve written and verbal communication to make government more effective."
-
-deck: Share and learn with communications and public affairs practitioners.
-
-# See all authors at https://digital.gov/authors
-authors:
-  - deanna-mccray-james
-  - josie-anderson
 
 event_cop: communicators
 
@@ -49,9 +52,7 @@ community_list:
       are eligible to join.
     members: 2,501
     join_cop_button: Communicators community members
-dg_highlight: true
-event_cop:
-  - communicators
+
 ---
 
 Government professionals from all levels come together in this community to improve written and verbal communication to make government communication more effective.

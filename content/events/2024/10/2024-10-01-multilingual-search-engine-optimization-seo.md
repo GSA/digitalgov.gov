@@ -3,7 +3,8 @@ title: "Multilingual search engine optimization (SEO)"
 deck: "Improve the findability of multilingual content"
 summary: "Understand how search engines work, how people search online, and who is your audience — while recognizing language and cultural differences."
 event_organizer: Digital.gov
-event_cop: multilingual
+event_cop:
+  - multilingual
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItduivpzgrHkrXVyxLGsQH_vE3xukqNG4#/registration
 slug: multilingual-search-engine-optimization-seo
 date: 2024-10-20 14:00:00 -0500
