@@ -1,6 +1,7 @@
 {{- partial "core/set-env.html" . -}}
 User-agent: *
 {{ if eq ($.Scratch.Get "env") "site" }}
+Sitemap: {{ "https://your-site-url.com/sitemap.xml" | absURL }}
 {{- else -}}
 Disallow: /
 {{ end }}
