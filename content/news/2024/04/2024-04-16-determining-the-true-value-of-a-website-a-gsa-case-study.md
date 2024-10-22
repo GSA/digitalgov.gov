@@ -36,7 +36,7 @@ When the “things” we’re talking about are websites, this determination is 
 
 You decide to start by determining how many people visit each website each month. Delighted, you pull those numbers together and produce a chart that looks something like this:
 
-<img src="https://s3.amazonaws.com/digitalgov/bar-chart-average-visits-past-30-days-1200x744.png">
+{{< img src="bar-chart-average-visits-past-30-days-1200x744" >}}
 
 The chart states that the 10 least-visited GSA websites had only about 66 visits in the past 30 days, whereas the top 10 websites averaged over 629,000 visits, and the agency average websites averaged over 244,000 monthly visits. So there you have it: clearly, it appears the websites with only 66 visits are the least useful and should be decommissioned. (Note that the low-traffic websites all show 66 visits because of the analytics tool’s statistical sampling methodology.)
 
@@ -55,8 +55,6 @@ After some consideration, you realize that all the websites have to be fully acc
 
 {{< img src="bar-chart-sites-with-most-508-accessibility-issues-1200x744" >}}
 
-<img src="https://s3.amazonaws.com/digitalgov/bar-chart-sites-with-most-508-accessibility-issues-1200x744.png">
-
 Five websites stand out as having the worst accessibility errors, according to your tests. Clearly, these websites must go. As you prepare to get rid of them, however, you notice that the vast majority of the errors in the worst website are identical and all seem to originate from the same part of the website. You look closer and realize that the problem causing all those errors is actually quite basic and can be fixed easily, taking the worst website out of the bottom ranking. Looking at the other websites in your list, you realize that other errors that have surfaced are only errors in an automatic test, not a human one. Many of them aren’t on critical paths for the website’s use, so while they should be addressed, they are not meaningfully blocking access to the website.
 
 That throws your entire evaluation into question: how can you possibly batch and judge the usefulness of a website by accessibility, if the severity and impact of each accessibility error varies so much? Instead, you must pair automated accessibility tests with manual testing to reach conclusions on the least accessible websites. That won’t help you quickly get rid of the lowest value websites, so yet another evaluation tactic is needed.
@@ -67,7 +65,7 @@ After considering the number of visits and the accessibility, you realize that a
 
 To figure out which websites are so slow as to be essentially non-functional, you find a free online tool that tests website performance. Additionally, you get smart based on your previous experiments: this tool tests for a few different parameters, not just one element of performance. It then compiles these parameters into a single index score, so its results are compelling.
 
-<img src="https://s3.amazonaws.com/digitalgov/bar-chart-performance-measured-by-website-scan-1200x744.png">
+{{< img src="bar-chart-performance-measured-by-website-scan-1200x744" >}}
 
 This performance metric shows you that, on average, your websites perform at 84% of a perfect 100% score, and there are a few low-performing websites at 26% performance or lower. This works for you; you know you need to get rid of your agency’s low-performing websites. As you’re planning to decommission these sites, however, a user visits one of them to complete a task and provides some feedback.
 
@@ -111,9 +109,10 @@ View all sections of the law and the circular mentioned above:
 - [OMB Circular A-11 (PDF, 385 KB, 14 pages, 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
 {{< /ring >}}
 
-We visualize this evaluation in website maps, rendered as charts that are available internally to GSA employees. This helps us see examples of good performers, such as Website A (on the left), and not-so-good performers, like Website B (on the right.) 
+We visualize this evaluation in website maps, rendered as charts that are available internally to GSA employees. This helps us see examples of good performers, such as Website A (on the left), and not-so-good performers, like Website B (on the right.)
 
-<center><img src="https://s3.amazonaws.com/digitalgov/piechart-1-website-a-meets-standards.png" width="300"> <img src="https://s3.amazonaws.com/digitalgov/piechart-2-website-a-does-not-meets-standards.png" width="300"></center>
+{{< img src="piechart-1-website-a-meets-standards" align="center" inline="true" >}}
+{{< img src="piechart-2-website-a-does-not-meets-standards" align="center" inline="true" >}}
 
 In addition, these charts, like all maps <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>, contains some decisions that prioritize how the information is rendered. They include: 
 
