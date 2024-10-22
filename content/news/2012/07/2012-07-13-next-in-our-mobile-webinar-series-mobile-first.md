@@ -19,8 +19,8 @@ In this second webinar in our [mobile webinar series]({{< ref "2012-07-02-mobile
 
 ## What You’ll Learn
 
-  * How a &#8220;mobile first&#8221; approach can support device–agnostic content delivery—as called for in the recently released [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
-  * How to cultivate a &#8220;mobile first&#8221; approach in your agency
-  * How challenges, lessons learned and tips can help you think &#8220;mobile first&#8221;
+* How a &#8220;mobile first&#8221; approach can support device–agnostic content delivery—as called for in the recently released [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
+* How to cultivate a &#8220;mobile first&#8221; approach in your agency
+* How challenges, lessons learned and tips can help you think &#8220;mobile first&#8221;
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/j5nBfFNsZa98ii" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/mobile-first-july-2012-presentation-slides" title="Mobile First! - July 2012" target="_blank" alt="Slides: Mobile first slides">Mobile First! - July 2012</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>

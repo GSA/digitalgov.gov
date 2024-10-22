@@ -126,6 +126,10 @@ Financial and retirement terminology:
 
 ### Health and Well-being
 
+#### General Services Administration (GSA)
+
+- The Digital.gov Multilingual Community of Practice, GSA’s [10x Multilingual Glossary Tool project](https://10x.gsa.gov/news/multilingual-glossary-tool/), and an interagency working group worked to develop a shared [translation glossary of health terms in Spanish](https://digital.gov/resources/introduction-to-multilingual-glossaries/#how-can-i-start-using-multilingual-glossaries-2).
+
 #### U.S. Department of Health and Human Services (HHS)
 
 - [Health Resources and Services Administration](https://www.hrsa.gov/) (HRSA): <br />Offers the **Glossary for Organ Donation and Transplantation** on [their English website](https://www.organdonor.gov/about/facts-terms/terms.html), and [their Spanish website](https://donaciondeorganos.gov/sobre/datos-t%C3%A9rminos/1yv2/t%C3%A9rminos.html).
@@ -145,7 +149,7 @@ The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosa
 
 #### San Francisco City and County
 
-The [Translation Glossary page]([https://sfenvironment.org/download/sf-environment-translation-glossary](https://www.sfenvironment.org/media/11236) provides a link to download a .xlsx spreadsheet file for glossaries in three languages: Spanish, Chinese, and Filipino (Tagalog).
+The [Translation Glossary page](https://www.sfenvironment.org/media/11236) provides a link to download a .xlsx spreadsheet file for glossaries in three languages: Spanish, Chinese, and Filipino (Tagalog).
 
 ### Education
 
