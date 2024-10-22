@@ -19,6 +19,8 @@ slug: uswds-monthly-call-august-2024
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: duomgOmMwro
+youtube_title: "A look at beta web components"
 
 primary_image: 2024-uswds-monthly-call-aug-title-card
 ---
