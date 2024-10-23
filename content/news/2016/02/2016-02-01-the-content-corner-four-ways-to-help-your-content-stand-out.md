@@ -32,7 +32,7 @@ Again, it is a way to get users to interact with your content and possibly alter
 
 ## Interactive Videos
 
-If you think you are beginning to sense a theme, you are not mistaken. Yes, I have stumbled upon the crazy idea that one of the best ways to engage users with your content is to make it more interactive. But, interactive videos were something new to me when I found them while researching this post. A great example is the [Guardian’s Seven Digital Deadly Sins](http://digital-deadly-sins.theguardian.com/) that tackles the topic of our growing digital addictions through the lens of the original seven deadly sins.
+If you think you are beginning to sense a theme, you are not mistaken. Yes, I have stumbled upon the novel idea that one of the best ways to engage users with your content is to make it more interactive. But, interactive videos were something new to me when I found them while researching this post. A great example is the [Guardian’s Seven Digital Deadly Sins](http://digital-deadly-sins.theguardian.com/) that tackles the topic of our growing time spent in the digital world through the lens of the original seven deadly sins.
 
 They developed a fully immersive and interactive experience by combining video segments with articles and statistics that all provided a deeper analysis of the topic and sin such as greed, envy, or sloth.
 

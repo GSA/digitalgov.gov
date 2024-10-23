@@ -24,7 +24,7 @@ Videos remain a popular method for reaching customers and providing coverage for
 
 {{< legacy-img src="2015/05/550-x-290-NeoMam-Studios-blog-comparison-times-for-visual-content-understanding.jpg" alt="Source: NeoMam.com" >}}
 
-Visualized information has increased by more than 9,000 percent across all types of media, including digital, and despite that crazy number, it shouldn&#8217;t come as much of a surprise. One of the many reasons that content such as infographics have become so popular is due to the way humans consume and process information. As the image shows, we can process visuals in 1/10th of a second compared to 60 seconds to read 200-250 words. Survey data also shows that infographics are the third most effective marketing content with only 34% of respondents finding it difficult to create.
+Visualized information has increased by more than 9,000 percent across all types of media, including digital, and despite that large number, it shouldn&#8217;t come as much of a surprise. One of the many reasons that content such as infographics have become so popular is due to the way humans consume and process information. As the image shows, we can process visuals in 1/10th of a second compared to 60 seconds to read 200-250 words. Survey data also shows that infographics are the third most effective marketing content with only 34% of respondents finding it difficult to create.
 
 One concern that should always be considered when creating visual content, such as infographics, is ensuring [accessibility for customers](http://simplyaccessible.com/article/text-is-text/) with visual impairments. Strong alt text and including a brief description of the infographic for screen readers (and also for search engines) is recommended.
 

@@ -18,7 +18,7 @@ topics:
 
 Design research isn’t rocket science. But for many of us in the federal government, it can seem daunting and unfamiliar. We’re here to to help demystify the process of design research for those of you ready to wade into the waters.
 
-We’ve both done our fair share of design researching at the Department of Veterans Affairs (VA) over the past year. It hasn’t been easy—we’ve worked under itty bitty budgets and crazy timelines. Many doubted the value of the work or hadn’t been exposed to the design research approach before. Many equated research with [focus groups]({{< ref "2015-04-17-focus-groups-are-they-right-for-you.md" >}}), or demographic breakdowns of user data. But the need to bring rich insight into veterans’ experiences with VA was strong—so getting through the hurdles was worthwhile.
+We’ve both done our fair share of design researching at the Department of Veterans Affairs (VA) over the past year. It hasn’t been easy—we’ve worked under itty bitty budgets and frantic timelines. Many doubted the value of the work or hadn’t been exposed to the design research approach before. Many equated research with [focus groups]({{< ref "2015-04-17-focus-groups-are-they-right-for-you.md" >}}), or demographic breakdowns of user data. But the need to bring rich insight into veterans’ experiences with VA was strong—so getting through the hurdles was worthwhile.
 
 ## 1. Getting ready: Figure out what you’re trying to figure out.
 

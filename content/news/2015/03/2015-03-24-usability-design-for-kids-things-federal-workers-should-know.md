@@ -23,7 +23,7 @@ I wanted to add my take to some of the good material out there about usability t
 
 ## 1. Who are you REALLY designing for?
 
-While it may be convenient to group things as “K-12,” think about the differences in maturity levels for a second. What is “cool” to one group is going to be “really lame little kid stuff” to another. If you are designing a site like a library, it can be tough: look at this kids’ [library site](http://www.startsquad.org/) vs. this [gov site](http://www.si.edu) vs. this [educational site](http://www.exploratorium.edu/.).
+While it may be convenient to group things as “K-12,” think about the differences in maturity levels for a second. What is “cool” to one group is going to be “really boring little kid stuff” to another. If you are designing a site like a library, it can be tough: look at this kids’ [library site](http://www.startsquad.org/) vs. this [gov site](http://www.si.edu) vs. this [educational site](http://www.exploratorium.edu/.).
 
 So, remember, WHO are you designing for? Think about the content and message you are trying to put out there, who you are trying to reach, and what you want them to do with it when they find it. Remember: kids are different. Well, duh, right? Well, I mean really different. Depending on what you are designing, it will be seen by many unique points of view. “Know thy user,” right? Well, who are you designing for? Students? Parents? Teachers?
 
@@ -45,7 +45,7 @@ The best way to set up design and evaluation opportunities is to involve the peo
 
 And of course –actively involve educators in the process. They will give you their impressions, and may help you get access and testers (kids). They will also be able to validate your task list and usability evaluation metrics.
 
-As far as compensation, books,movie vouchers, and iStore gift cards may work. Just make sure it’s not “lame.” Again, ask the teachers what the kids are interested in &#8211; they will probably know better than the parents.
+As far as compensation, books,movie vouchers, and iStore gift cards may work. Just make sure it’s not "boring.” Again, ask the teachers what the kids are interested in &#8211; they will probably know better than the parents.
 
 {{< legacy-img src="2015/03/600-x-400-kids.gov-usability-test-kids-and-adults.jpg" alt="Adults help chidlren at kids.gov usability test" >}}
 

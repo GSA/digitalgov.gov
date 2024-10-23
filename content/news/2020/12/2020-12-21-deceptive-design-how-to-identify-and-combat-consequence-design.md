@@ -7,7 +7,7 @@ kicker: Design
 title: "Deceptive Design: How to Identify and Combat Consequence Design"
 deck: "**Deceptive Design: How to Identify and Combat Consequence
   Design**&mdash;Consequence design is part of everyday life. Deceptive
-  techniques like “dark patterns” and “hostile design” trick people into taking
+  techniques like “hostile design” trick people into taking
   unintended actions—learn how to prevent them from sneaking into our design
   work."
 # Controls how this page appears across the site

@@ -53,7 +53,7 @@ _Solve the Outbreak_ and _Health IQ_ were both developed on the philosophy of ma
   4. **Rewarding points systems**: Each app includes a unique points system with different rewards. The _Solve the Outbreak_ app allows users to earn badges from Trainee to Disease Detective as well as bonuses for good work. In developing the _Health IQ_ app, the team used a similar model but incorporated Google Play to provide leaderboards where users can compete against each other to earn the highest score, complete with achievements, ribbons and trophies.
   5. **Interesting content**: Most importantly, each app provides interesting, engaging content in a new format. The _Solve the Outbreak_ app includes original content encouraging players to solve the mystery to save lives. In developing the _Health IQ_ app, the team chose to re-use existing content on CDC’s website to develop quick trivia questions and categorized the questions into three levels of difficulty, easy, medium or hard, effectively allowing users to customize their experience by answering questions based on their own skill level and rewards more points for harder questions.
 
-By utilizing gaming principles coupled with interesting content, both of these apps aim to provide users with an educational experience that makes learning about health fun, interesting and hopefully addicting.
+By utilizing gaming principles coupled with interesting content, both of these apps aim to provide users with an educational experience that makes learning about health fun and interesting.
 
 Download the apps and try them for yourself!
 

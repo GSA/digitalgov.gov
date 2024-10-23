@@ -24,7 +24,7 @@ Number of IRS pages that are in the Top 20 pages: **10**
 ### Fun Facts:
 
   * We&#8217;re starting to see less traffic per hour than we did yesterday at this same time.
-  * Let us know other events that you&#8217;d like to follow in the future. Remember that [analytics.usa.gov](https://analytics.usa.gov) always displays the pulse of federal public web users. It&#8217;s addicting.
+  * Let us know other events that you&#8217;d like to follow in the future. Remember that [analytics.usa.gov](https://analytics.usa.gov) always displays the pulse of federal public web users. 
 
 _-gk, Digital Government, GSA_
 

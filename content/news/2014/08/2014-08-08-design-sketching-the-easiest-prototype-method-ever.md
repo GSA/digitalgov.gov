@@ -40,4 +40,4 @@ Sketching is faster and more efficient than using a computer. Really! Technology
 
 Your ability to create fast design ideas means you can create LOTS and move away from the bad ideas early. Each generation of designs will get better and stronger as they are tested in reality, and improved via conversations with your colleagues.
 
-So get out your 16th-century writing implements and start using them to create fantastic 21st century experiences. Those seemingly lame doodles can result in some very beautiful results.
+So get out your 16th-century writing implements and start using them to create fantastic 21st century experiences. Those seemingly unskilled doodles can result in some very beautiful results.

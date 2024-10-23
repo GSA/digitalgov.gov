@@ -2,7 +2,7 @@
 slug: agile-strategy-implementation
 date: 2015-08-21 11:17:27 -0400
 title: Agile Strategy Implementation
-summary: 'The Challenge Much like GSA experienced three years ago, the Management Information Systems Office (MISO) organization at the Centers for Disease Control and Prevention (CDC) had a vision, a crazy deadline, and the need to change and change fast. MISO is responsible for developing, maintaining, and managing a variety of enterprise business systems across the CDC.'
+summary: 'The Challenge Much like GSA experienced three years ago, the Management Information Systems Office (MISO) organization at the Centers for Disease Control and Prevention (CDC) had a vision, a short deadline, and the need to change and change fast. MISO is responsible for developing, maintaining, and managing a variety of enterprise business systems across the CDC.'
 authors:
   - suzi-connor
 topics:
@@ -14,7 +14,7 @@ topics:
 
 ## The Challenge
 
-Much like [GSA experienced three years ago]({{< ref "2012-08-12-agile-sprinting-to-digital-governance-recommendations.md" >}}), the Management Information Systems Office (MISO) organization at the Centers for Disease Control and Prevention (CDC) had a vision, a crazy deadline, and the need to change and change fast. MISO is responsible for developing, maintaining, and managing a variety of enterprise business systems across the CDC. A strategic planning process launched last year laid out a vision called MISO 2020 that would transform the organization into a Center for Excellence for enterprise business solutions. After what could best be described as a bumpy year of supporting internal customers, the MISO leadership team committed to the MISO 2020 vision. More significantly, the team committed to address some of the long-standing management and technology issues that would prevent MISO from being successful for fiscal year 2015 in the nine months left in the fiscal year.
+Much like [GSA experienced three years ago]({{< ref "2012-08-12-agile-sprinting-to-digital-governance-recommendations.md" >}}), the Management Information Systems Office (MISO) organization at the Centers for Disease Control and Prevention (CDC) had a vision, a short deadline, and the need to change and change fast. MISO is responsible for developing, maintaining, and managing a variety of enterprise business systems across the CDC. A strategic planning process launched last year laid out a vision called MISO 2020 that would transform the organization into a Center for Excellence for enterprise business solutions. After what could best be described as a bumpy year of supporting internal customers, the MISO leadership team committed to the MISO 2020 vision. More significantly, the team committed to address some of the long-standing management and technology issues that would prevent MISO from being successful for fiscal year 2015 in the nine months left in the fiscal year.
 
 ## The Solution {{< legacy-img src="2015/08/250-x-353-Agile-Scrum-collage-concepts-MacXever-iStock-Thinkstock-176675927.jpg" alt="A word cloud highlighting Agile- and Scrum-related software development terms" caption="" >}} 
 

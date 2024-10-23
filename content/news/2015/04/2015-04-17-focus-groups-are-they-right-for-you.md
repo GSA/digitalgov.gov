@@ -120,7 +120,7 @@ Conducting a focus group early in a project is a way to get a sample of opinions
 
 Once you have completed your focus group, validate and explore results with users one-on-one by conducting user research interviews and usability studies. Focus groups are considered a good start to triangulation, which is the practice of combining different methods of research to develop a complete picture of your user and the challenges they have using your product.
 
-If you have decided that conducting a focus group is a good idea for your project, the following resources will make you a focus group ninja:
+If you have decided that conducting a focus group is a good idea for your project, the following resources will make you a focus group expert:
 
   * [Focus Group Manual](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ManualFocusGroupHowtoGetStarted.pdf) (PDF, 4.8 MB, 35 pages): A step-by-step guide to conducting a focus group.
   * [Screener](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ScreenerTemplate.pdf) (PDF, 64.6 KB, 2 pages): A template designed to aid you through the recruitment process.

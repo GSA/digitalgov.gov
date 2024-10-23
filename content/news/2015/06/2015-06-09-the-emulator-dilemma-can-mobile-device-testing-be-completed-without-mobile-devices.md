@@ -51,7 +51,7 @@ Is this surprising to you? Which category do you fit into?
 
 Generally speaking, using emulators and simulators is a great, low cost way to increase your breadth of testing.
 
-These emulators and simulators are most valuable for developer testing: early stage testing, high level sanity and smoke testing. It is preferable to bring in a subset of “real” devices for testing in the final stages of development.
+These emulators and simulators are most valuable for developer testing: early stage testing, high level verification and smoke testing. It is preferable to bring in a subset of “real” devices for testing in the final stages of development.
 
 The following are 5 categories of test classes that are much better tested using physical devices rather than emulators.
 

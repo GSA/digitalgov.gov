@@ -2,7 +2,7 @@
 slug: data-act-prototype-simplicity-is-key
 date: 2016-09-09 11:00:54 -0400
 title: 'DATA Act Prototype: Simplicity Is Key'
-summary: 'Last week we wrote about how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform. This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is not meant to be a full retrospective or post-mortem; we’ll'
+summary: 'Last week we wrote about how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform. This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is not meant to be a full retrospective'
 authors:
   - cm-lubinski
   - becky-sweger
@@ -15,7 +15,7 @@ topics:
   - budgeting-and-performance
 ---
 
-Last week we wrote about [how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform](https://18f.gsa.gov/2016/08/25/micro-purchase-design-philosophy-do-one-thing-well/). This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is _not_ meant to be a full retrospective or post-mortem; we’ll be focusing on technical decisions. We should also delineate this from the more long term DATA Act broker, which is under active development.
+Last week we wrote about [how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform](https://18f.gsa.gov/2016/08/25/micro-purchase-design-philosophy-do-one-thing-well/). This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is _not_ meant to be a full retrospective; we’ll be focusing on technical decisions. We should also delineate this from the more long term DATA Act broker, which is under active development.
 
 {{< legacy-img src="2016/09/600-x-184-DATA-Act-logo.jpg" alt="DATA Act logo" >}}
 
