@@ -18,7 +18,7 @@ topics:
 
 slug: making-targeted-improvements-to-nps-gov-a-case-study-from-the-national-park-service
 
-primary_image: ""
+primary_image: "site-design-iconicprototype-istock-getty-images-2017785853"
 
 # Controls how this page appears across the site
 # 0 -- hidden
