@@ -2,7 +2,7 @@
 slug: search-creating-a-good-multilingual-search-experience
 date: 2015-08-31 11:10:46 -0400
 title: "Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience"
-summary: "Government agencies across the United States publish content in a growing number of languages to do the business of the country. In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages."
+summary: "In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages."
 
 authors:
   - dmccleskey
@@ -103,7 +103,7 @@ The following 58 languages have fully localized results page support with both l
 </tr>
 
 <tr>
-<th scope="row">a href="https://github.com/GSA/search-gov/blob/main/config/locales/hr.yml">Croatian</a> [HR]</th>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/hr.yml">Croatian</a> [HR]</th>
 <td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/lv.yml">Latvian</a> [LV]</td>
 <td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/tg.yml">Tajik</a> [TG]</td>
 </tr>
