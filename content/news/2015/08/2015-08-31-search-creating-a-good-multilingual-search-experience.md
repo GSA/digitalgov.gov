@@ -30,15 +30,15 @@ The following 58 languages have fully localized results page support with both l
 
 
 <table class="usa-table usa-table--striped">
-<caption>Bordered table with horizontal stripes</caption>
+<caption>A bordered, rhree-column table with horizontal stripes</caption>
 
-<thead>
+<! -- <thead>
 <tr>
 <th scope="col">Document title</th>
 <th scope="col">Description</th>
 <th scope="col">Year</th>
 </tr>
-</thead>
+</thead> -->
 
 <tbody>
 
