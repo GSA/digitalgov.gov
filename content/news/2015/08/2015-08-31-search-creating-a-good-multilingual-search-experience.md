@@ -43,121 +43,121 @@ The following 58 languages have fully localized results page support with both l
 
 <tr>
 <th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/sq.yml">Albanian</a> [SQ]</th>
-<td>1776</td>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ha.yml">Hausa</a> [HA]</td>
 <td>1776</td>
 </tr>
 
 <tr>
 <th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/am.yml">Amharic</a> [AM]</th>
-<td>1776</td>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/he.yml">Hebrew</a> [HE]</td>
 <td>1776</td>
 </tr>
 
 <tr>
 <th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/ar.yml">Arabic</a> [AR]</th>
-<td>1776</td>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/hi.yml">Hindi</a> [HI]</td>
 <td>1776</td>
 </tr>
 
 <tr>
 <th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/hy.yml">Armenian</a> [HY]</th>
-<td>1776</td>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/hu.yml">Hungarian</a> [HU]</td>
 <td>1776</td>
 </tr>
 
 <tr>
 <th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/az.yml">Azerbaijani</a> [AZ]</th>
-<td>1776</td>
-<td>1776</td>
-</tr>
-
-<tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/id.yml">Indonesian</a> [ID]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
-<td>1776</td>
-<td>1776</td>
-</tr>
-
-<tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/be.yml">Belarusian</a> [BE]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/it.yml">Italian</a> [IT]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
-<td>1776</td>
-<td>1776</td>
-</tr>
-
-<tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/bs.yml">Bosnian</a> [BS]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/kl.yml">Kalaallisut</a> [KL]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
-<td>1776</td>
-<td>1776</td>
-</tr>
-
-<tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/bg.yml">Bulgarian</a> [BG]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/km.yml">Khmer</a> [KM]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
-<td>1776</td>
-<td>1776</td>
-</tr>
-
-<tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/ca.yml">Catalan</a> [CA]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ko.yml">Korean</a> [KO]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
-<td>1776</td>
-<td>1776</td>
-</tr>
-
-<tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/zh.yml">Chinese</a> [ZH]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ky.yml">Kyrgyz</a> [KY]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
-<td>1776</td>
-<td>1776</td>
-</tr>
-
-<tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<th scope="row">a href="https://github.com/GSA/punchcard/blob/master/localizations/hr.yml">Croatian</a> [HR]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/lv.yml">Latvian</a> [LV]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
-<td>1776</td>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/cs.yml">Czech</a> [CS]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/lt.yml">Lithuanian</a> [LT]</td>
 <td>1776</td>
 </tr>
 
 <tr>
-<th scope="row">1776</th>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/da.yml">Danish</a> [DA]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/mk.yml">Macedonian</a> [MK]</td>
 <td>1776</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/nl.yml">Dutch</a> [NL]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ms.yml">Malay</a> [MS]</td>
+<td>1776</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/en.yml">English</a> [EN]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/mn.yml">Mongolian</a> [MN]</td>
+<td>1776</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/et.yml">Estonian</a> [ET]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/me.yml">Montenegrin</a> [ME]</td>
+<td>1776</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/fr.yml">French</a> [FR]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/no.yml">Norwegian</a> [NO]</td>
+<td>1776</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/ka.yml">Georgian</a> [KA]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ps.yml">Pashto</a> [PS]</td>
+<td>1776</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/de.yml">German</a> [DE]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/fa.yml">Persian</a> [FA]</td>
+<td>1776</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/el.yml">Greek</a> [EL]</th>
+<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/pl.yml">Polish</a> [PL]</td>
 <td>1776</td>
 </tr>
 
@@ -167,51 +167,6 @@ The following 58 languages have fully localized results page support with both l
 
 
 
-<div style="width: 30%;padding: 0 10px 0 0;float: left">
-  <br /> 
-  <br /> 
-  <br /> 
-  <br /> 
-  <br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/be.yml">Belarusian</a> [BE]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/bs.yml">Bosnian</a> [BS]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/bg.yml">Bulgarian</a> [BG]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/ca.yml">Catalan</a> [CA]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/zh.yml">Chinese</a> [ZH]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/hr.yml">Croatian</a> [HR]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/cs.yml">Czech</a> [CS]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/da.yml">Danish</a> [DA]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/nl.yml">Dutch</a> [NL]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/en.yml">English</a> [EN]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/et.yml">Estonian</a> [ET]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/fr.yml">French</a> [FR]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/ka.yml">Georgian</a> [KA]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/de.yml">German</a> [DE]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/el.yml">Greek</a> [EL]
-</div>
-
-<div style="width: 30%;padding: 0 10px 0 0;float: left">
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/ha.yml">Hausa</a> [HA]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/he.yml">Hebrew</a> [HE]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/hi.yml">Hindi</a> [HI]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/hu.yml">Hungarian</a> [HU]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/id.yml">Indonesian</a> [ID]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/it.yml">Italian</a> [IT]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/kl.yml">Kalaallisut</a> [KL]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/km.yml">Khmer</a> [KM]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/ko.yml">Korean</a> [KO]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/ky.yml">Kyrgyz</a> [KY]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/lv.yml">Latvian</a> [LV]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/lt.yml">Lithuanian</a> [LT]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/mk.yml">Macedonian</a> [MK]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/ms.yml">Malay</a> [MS]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/mn.yml">Mongolian</a> [MN]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/me.yml">Montenegrin</a> [ME]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/no.yml">Norwegian</a> [NO]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/ps.yml">Pashto</a> [PS]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/fa.yml">Persian</a> [FA]<br /> 
-  <a href="https://github.com/GSA/punchcard/blob/master/localizations/pl.yml">Polish</a> [PL]
-</div>
 
 <div style="width: 30%;padding: 0 10px 0 0;float: right">
   <a href="https://github.com/GSA/punchcard/blob/master/localizations/pt.yml">Portuguese</a> [PT]<br /> 
