@@ -43,128 +43,128 @@ The following 58 languages have fully localized results page support with both l
 <tbody>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/sq.yml">Albanian</a> [SQ]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ha.yml">Hausa</a> [HA]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/pt.yml">Portuguese</a> [PT]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/sq.yml">Albanian</a> [SQ]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ha.yml">Hausa</a> [HA]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/pt.yml">Portuguese</a> [PT]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/am.yml">Amharic</a> [AM]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/he.yml">Hebrew</a> [HE]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/pa.yml">Punjabi</a> [PA]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/am.yml">Amharic</a> [AM]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/he.yml">Hebrew</a> [HE]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/pa.yml">Punjabi</a> [PA]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/ar.yml">Arabic</a> [AR]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/hi.yml">Hindi</a> [HI]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ru.yml">Russian</a> [RU]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ar.yml">Arabic</a> [AR]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/hi.yml">Hindi</a> [HI]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ru.yml">Russian</a> [RU]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/hy.yml">Armenian</a> [HY]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/hu.yml">Hungarian</a> [HU]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/sr.yml">Serbian</a> [SR]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/hy.yml">Armenian</a> [HY]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/hu.yml">Hungarian</a> [HU]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/sr.yml">Serbian</a> [SR]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/az.yml">Azerbaijani</a> [AZ]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/id.yml">Indonesian</a> [ID]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/sd.yml">Sindhi</a>‎ [SD]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/az.yml">Azerbaijani</a> [AZ]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/id.yml">Indonesian</a> [ID]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/sd.yml">Sindhi</a>‎ [SD]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/be.yml">Belarusian</a> [BE]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/it.yml">Italian</a> [IT]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/sk.yml">Slovak</a> [SK]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/be.yml">Belarusian</a> [BE]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/it.yml">Italian</a> [IT]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/sk.yml">Slovak</a> [SK]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/bs.yml">Bosnian</a> [BS]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/kl.yml">Kalaallisut</a> [KL]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/so.yml">Somalian</a> [SO]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/bs.yml">Bosnian</a> [BS]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/kl.yml">Kalaallisut</a> [KL]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/so.yml">Somalian</a> [SO]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/bg.yml">Bulgarian</a> [BG]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/km.yml">Khmer</a> [KM]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/es.yml">Spanish</a> [ES]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/bg.yml">Bulgarian</a> [BG]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/km.yml">Khmer</a> [KM]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/es.yml">Spanish</a> [ES]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/ca.yml">Catalan</a> [CA]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ko.yml">Korean</a> [KO]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/sw.yml">Swahili</a> [SW]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ca.yml">Catalan</a> [CA]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ko.yml">Korean</a> [KO]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/sw.yml">Swahili</a> [SW]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/zh.yml">Chinese</a> [ZH]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ky.yml">Kyrgyz</a> [KY]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/tl.yml">Tagalog</a> [TL]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/zh.yml">Chinese</a> [ZH]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ky.yml">Kyrgyz</a> [KY]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/tl.yml">Tagalog</a> [TL]</td>
 </tr>
 
 <tr>
-<th scope="row">a href="https://github.com/GSA/punchcard/blob/master/localizations/hr.yml">Croatian</a> [HR]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/lv.yml">Latvian</a> [LV]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/tg.yml">Tajik</a> [TG]</td>
+<th scope="row">a href="https://github.com/GSA/search-gov/blob/main/config/locales/hr.yml">Croatian</a> [HR]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/lv.yml">Latvian</a> [LV]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/tg.yml">Tajik</a> [TG]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/cs.yml">Czech</a> [CS]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/lt.yml">Lithuanian</a> [LT]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/th.yml">Thai</a> [TH]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/cs.yml">Czech</a> [CS]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/lt.yml">Lithuanian</a> [LT]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/th.yml">Thai</a> [TH]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/da.yml">Danish</a> [DA]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/mk.yml">Macedonian</a> [MK]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/tr.yml">Turkish</a> [TR]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/da.yml">Danish</a> [DA]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/mk.yml">Macedonian</a> [MK]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/tr.yml">Turkish</a> [TR]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/nl.yml">Dutch</a> [NL]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ms.yml">Malay</a> [MS]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/tk.yml">Turkmen</a> [TK]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/nl.yml">Dutch</a> [NL]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ms.yml">Malay</a> [MS]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/tk.yml">Turkmen</a> [TK]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/en.yml">English</a> [EN]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/mn.yml">Mongolian</a> [MN]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/uk.yml">Ukrainian</a> [UK]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/en.yml">English</a> [EN]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/mn.yml">Mongolian</a> [MN]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/uk.yml">Ukrainian</a> [UK]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/et.yml">Estonian</a> [ET]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/me.yml">Montenegrin</a> [ME]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ur.yml">Urdu</a> [UR]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/et.yml">Estonian</a> [ET]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/me.yml">Montenegrin</a> [ME]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ur.yml">Urdu</a> [UR]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/fr.yml">French</a> [FR]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/no.yml">Norwegian</a> [NO]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/uz.yml">Uzbek</a> [UZ]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/fr.yml">French</a> [FR]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/no.yml">Norwegian</a> [NO]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/uz.yml">Uzbek</a> [UZ]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/ka.yml">Georgian</a> [KA]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/ps.yml">Pashto</a> [PS]</td>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/vi.yml">Vietnamese</a> [VI]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ka.yml">Georgian</a> [KA]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/ps.yml">Pashto</a> [PS]</td>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/vi.yml">Vietnamese</a> [VI]</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/de.yml">German</a> [DE]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/fa.yml">Persian</a> [FA]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/de.yml">German</a> [DE]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/fa.yml">Persian</a> [FA]</td>
 <td>&nbsp;</td>
 </tr>
 
 <tr>
-<th scope="row"><a href="https://github.com/GSA/punchcard/blob/master/localizations/el.yml">Greek</a> [EL]</th>
-<td><a href="https://github.com/GSA/punchcard/blob/master/localizations/pl.yml">Polish</a> [PL]</td>
+<th scope="row"><a href="https://github.com/GSA/search-gov/blob/main/config/locales/el.yml">Greek</a> [EL]</th>
+<td><a href="https://github.com/GSA/search-gov/blob/main/config/locales/pl.yml">Polish</a> [PL]</td>
 <td>&nbsp;</td>
 </tr>
 
 </tbody>
 </table>
 
-Ten more — Baluchi, Bangla, Creole, Finnish, Icelandic, Japanese, Kazakh, Romanian, Slovene, and Swedish — provide language-specific results, but don’t yet have localized system text. We have open-sourced our [localizations](https://github.com/GSA/punchcard/tree/master/localizations), and encourage you to [contribute to them on GitHub](https://github.com/GSA/punchcard/blob/master/CONTRIBUTING.md).
+Ten more — Baluchi, Bangla, Creole, Finnish, Icelandic, Japanese, Kazakh, Romanian, Slovene, and Swedish — provide language-specific results, but don’t yet have localized system text. We have open-sourced our [localizations](https://github.com/GSA/punchcard/tree/master?tab=readme-ov-file#localizations-l10n), and encourage you to [contribute to them on GitHub](https://github.com/GSA/search-gov/blob/main/CONTRIBUTING.md).
 
 The next time your agency is setting up a non-English website, don’t forget about providing your visitors with a localized search experience, too. It’s easy. We’ve done the heavy lifting for you. Just sign up for [DigitalGov Search](https://www.search.gov), set up a search site for any of the above languages, and your visitors will have a good, seamless search experience—in any language.
