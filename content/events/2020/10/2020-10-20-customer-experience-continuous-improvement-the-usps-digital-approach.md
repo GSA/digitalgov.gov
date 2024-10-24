@@ -68,7 +68,7 @@ Jeff has been a long-time UX event organizer, including GoodGov UX, World IA Day
   * [USPS Digital Style Guide](https://www.usps.com/styleguide/) 
   * [Analytics.usa.gov](https://analytics.usa.gov/) 
   * [Information Architecture Heuristics](https://understandinggroup.com/poster) (note: the basis for the USPS.com UX heuristics)
-  * [Research-Based Web Design and Usability Guidelines](https://guidelines.usability.gov/) 
+  * [Research-Based Web Design and Usability Guidelines](https://digital.gov/topics/usability/) 
   * [Usability.gov](https://www.usability.gov/) 
 
 ---
