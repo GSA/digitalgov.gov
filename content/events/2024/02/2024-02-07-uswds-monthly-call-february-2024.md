@@ -6,7 +6,6 @@ summary: Learn about the USWDS component lifecycle, and how you can suggest a
   new component.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsceyvpz4iGws79NmQy1Dj0BUoDVtPKzs#/registration
 date: 2024-02-15 14:00:00 -0500
 end_date: 2024-02-15 15:00:00 -0500
@@ -47,11 +46,11 @@ We’ve got a couple nice new site and feature launches, a couple product update
 
 **Slide 4:** Let's get into it with site launches.
 
-**Slide 5:** First, [simpler.grants.gov](https://www.google.com/url?q=https://simpler.grants.gov&sa=D&source=docs&ust=1711052748736300&usg=AOvVaw2YSQ8xGM91WUdioPsTCZMY), an exciting new initiative from the grants.gov team at the Department of Health and Human Services. 
+**Slide 5:** First, [simpler.grants.gov](https://www.google.com/url?q=https://simpler.grants.gov&sa=D&source=docs&ust=1711052748736300&usg=AOvVaw2YSQ8xGM91WUdioPsTCZMY), an exciting new initiative from the grants.gov team at the Department of Health and Human Services.
 
 Grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Simpler.grants.gov is a new site from the grants.gov team that's using a transparent, iterative, and agile process to document their progress modernizing and improving the grants.gov service. It's an exciting project where they'll be building software out in the open, and I for one, am pretty interested in their approach and their progress! The simpler.grants.gov homepage features a simple, text-focused layout, with a large blue hero field and the words "We're building a simpler Grants.gov!"
 
-**Slide 6:** Next, [Search.gov](https://www.google.com/url?q=https://search.gov&sa=D&source=docs&ust=1711052748730824&usg=AOvVaw3N-xMZKFbY9VHxVGWKAjS-) is starting to roll out hosted search results pages powered by USWDS code. 
+**Slide 6:** Next, [Search.gov](https://www.google.com/url?q=https://search.gov&sa=D&source=docs&ust=1711052748730824&usg=AOvVaw3N-xMZKFbY9VHxVGWKAjS-) is starting to roll out hosted search results pages powered by USWDS code.
 
 You know search.gov, right? It's the search engine by and for the federal government, a free service powering search results on over 2,000 websites. Earlier this year they released a beta of a USWDS-based redesign of their hosted results page. Now Digital.gov is the first site to be able to use it, hosting a USWDS-powered search result layout! Search.gov and DigitalGov — a real chocolate and peanut butter combination in my book.
 
@@ -89,7 +88,7 @@ Well, a component lifecycle is not just for devs and pedants. Today we'd like to
 
 **Slide 20:** You know, I hate to be the person to tell you this, but our government is big.
 
-And collectively, in the aggregate, we know a lot. There's incredible skill, talent, sensitivity, craftsmanship, and care across our teams, our agencies, and our products. 
+And collectively, in the aggregate, we know a lot. There's incredible skill, talent, sensitivity, craftsmanship, and care across our teams, our agencies, and our products.
 If you take a long view of what we, together, are building, I believe it's inarguable that government digital services are improving — and I would argue further that government digital services are improving faster than the internet as a whole.
 
 If government is the tortoise in the race between the tortoise and the hare, I'd say the tortoise has the momentum these days.
@@ -97,14 +96,13 @@ If government is the tortoise in the race between the tortoise and the hare, I'd
 **Slide 21:** And I'd say _that's_ because of a real mission-driven commitment to human centered design and to our inclination to pitch in, to help out, to share what we know with each other, and keep pushing forward.
 Because for sure, while momentum may be on our side, there's a long way to go, and honestly there's never really a finish line.
 
-
 **Slide 22:** It's long been our challenge here at USWDS to facilitate collaboration and contribution, to share and scale effective solutions from anywhere in government. To convert the skill and experience that we clearly have in the aggregate into a common infrastructure that supports and elevates any team and product. And that's been a tough nut to crack.
 
 **Slide 23:** Today we're going to get started on this challenge through the angle of splitting bigger problems into smaller problems, and trying to build a framework for solving complex problems — and building complex solutions — a little at a time. Lowering the barriers to participation in the service of delivering high quality finished work.
 
 We're going to approach this from two angles: one which you might call the food truck scenario, and the other which you might call finding the elephant. Or, _you_ might not yet call it that, yet, but _I_ am!
 
-**Slide 24:** First, the food truck scenario — or simply that it is hard to start something really big like a restaurant. It's complicated, expensive, and can take a huge amount of resources and risk to even consider building an operation like that. It really limits who can participate. 
+**Slide 24:** First, the food truck scenario — or simply that it is hard to start something really big like a restaurant. It's complicated, expensive, and can take a huge amount of resources and risk to even consider building an operation like that. It really limits who can participate.
 
 I live in Portland, and one solution to this problem that's popular here and now pretty much is popular everywhere else as well, is the food truck. What if you could begin to reduce the resources and risk to participate? What if you could prove an idea at a smaller scale? Or like a pop-up restaurant that exists for only a week, using an existing restaurant and kitchen. All these smaller-scale solutions to the problem of the restaurant — of getting food — still need to be safe, they still need to be up to code, and they still need to _deliver_ good food.
 
@@ -141,13 +139,13 @@ The overall shape is a bit like the rising and falling shape we see on the slide
 
 **Slide 34:** These main phases in our component lifecycle may seem familiar to you. They are:
 
-* **Proposal:** These components are under consideration for development through public discussion and a formal proposal. This part of the shape is now colored gold.
+- **Proposal:** These components are under consideration for development through public discussion and a formal proposal. This part of the shape is now colored gold.
 
-* **Development:** These are the components undergoing active design, development, testing, and documentation before public release. This part of the shape is now colored blue.
+- **Development:** These are the components undergoing active design, development, testing, and documentation before public release. This part of the shape is now colored blue.
 
-* **Released:** These are the components we've released to the public in our distribution package and documented on the USWDS website. This part of the shape is now colored green.
+- **Released:** These are the components we've released to the public in our distribution package and documented on the USWDS website. This part of the shape is now colored green.
 
-* **Deprecated:** These are the components that do not meet requirements or are no longer needed. This part of the shape is now colored pink.
+- **Deprecated:** These are the components that do not meet requirements or are no longer needed. This part of the shape is now colored pink.
 
 **Slide 35:** But what's perhaps less familiar are the sub-phases (or steps) within these larger lifecycle groupings. We're putting a lot of work into establishing smaller steps with clearer transitions between steps.
 
@@ -157,17 +155,17 @@ Establishing sub-phase steps allows us to know precisely what is happening — a
 
 The Experimental step of the Released phase — now colored in darker green in our diagram — is a bit of a pilot. To Dan's earlier point, we're considering Experimental to be something of the food truck to the brick-and-mortar of stable USWDS components. We're hoping we can use an Experimental step to release promising components earlier to help collect more real-world usability research. These components might have fewer documentation requirements, less research backup, maybe a few unanswered questions — along with the expectation that they might change more than stable components. But they would include accessibility tests and would be OK to use in production websites.
 
-Today, we've published an overview of all of these phases and steps on our new component lifecycle page on our website. Let’s take a look. 
+Today, we've published an overview of all of these phases and steps on our new component lifecycle page on our website. Let’s take a look.
 
 **Slide 37:** Our new component lifecycle page gives an overview of each phase and step of the component lifecycle. This page covers:
 
-   * What happens in each step,
-   
-   * When each step starts and ends,
-   
-   * How you can contribute during each step,
-   
-   * Where you can find the components that are in each step.
+- What happens in each step,
+
+- When each step starts and ends,
+
+- How you can contribute during each step,
+
+- Where you can find the components that are in each step.
 
 You can find this new page at [designsystem.digital.gov/components/lifecycle](https://designsystem.digital.gov/components/lifecycle).
 And now, since every component — from idea and proposal to stable and deprecation — is in one of the steps of the life cycle, we've also been able to build a new component status page to help you know what's happening with both components we've released in the design system and components that aren't in the design system yet.
@@ -262,19 +260,19 @@ But really, the discussions are where the action will be. So let’s take a look
 
 This discussion board has a lot of the tools folks expect for managing discussions:
 
-   * There are threaded comments to help organize different topics of conversation.
-   
-   * There are simple ways to sort and filter discussions, and labeling as well.
-   
-   * And discussions also offer native upvoting functionality, which gives everyone an easy method for expressing interest in a component, and gives the USWDS team an easy 
-    method of assessing that interest.
+- There are threaded comments to help organize different topics of conversation.
+
+- There are simple ways to sort and filter discussions, and labeling as well.
+
+- And discussions also offer native upvoting functionality, which gives everyone an easy method for expressing interest in a component, and gives the USWDS team an easy
+  method of assessing that interest.
 
 **Slide 62:** What do you need to know to start a discussion? Really, just two things:
 
-   * Are you interested in suggesting a new component?
-   
-   * And, is there already an existing discussion about that new component?
-   
+- Are you interested in suggesting a new component?
+
+- And, is there already an existing discussion about that new component?
+
 If you are, and there isn't, go ahead and start a new discussion!
 
 **Slide 63:** Discussions are meant to be **incremental**. You can start with a lot or a little. The person who authors the discussion doesn't need to know everything. We'll work it all out together eventually.
@@ -297,53 +295,53 @@ We've been converting existing component-request issues into discussions, and th
 
 **Slide 67:** First, we want to address some general information about the proposed component:
 
-   * What's the common name (or names) of this component?
-   
-   * What gap does it fill in the design system? And how is this different from existing USWDS components?
-   
-   * And does this component directly support any federal laws, guidance, or policies?
-   
+- What's the common name (or names) of this component?
+
+- What gap does it fill in the design system? And how is this different from existing USWDS components?
+
+- And does this component directly support any federal laws, guidance, or policies?
+
 **Slide 68:** As well as potential design ideas and context:
 
-   * What's the potential core functionality of this component?
-   
-   * Are there any examples of how the component might work?
+- What's the potential core functionality of this component?
+
+- Are there any examples of how the component might work?
 
 **Slide 69:** We'll want to address what this component is _used_ for.
 
 We want to outline the appropriate use cases:
 
-   * What common interactions does this component support?
+- What common interactions does this component support?
 
-   * What does this component need to do to be successful and effective?
-   
-   * What kind of content — that is, information inside it — would be ideal for this component?
+- What does this component need to do to be successful and effective?
+
+- What kind of content — that is, information inside it — would be ideal for this component?
 
 **Slide 70:** And also scenarios where this component would _not_ be the appropriate choice:
 
-   * Are there common ways this type of component is misused?
-   
-   * Are there similar interactions that would be better supported by other components?
-   
-   * What kind of content should teams not use with this component?
+- Are there common ways this type of component is misused?
+
+- Are there similar interactions that would be better supported by other components?
+
+- What kind of content should teams not use with this component?
 
 **Slide 71:** We also want to understand any usability considerations, with supporting evidence if possible.
 
 From a usability or UX perspective, we want to understand:
 
-   * What are the characteristics of a successful interaction with this component? How does that interaction go?
-   
-   * What would make this component less usable?
-   
-   * What are common pitfalls or implementation mistakes associated with this component?
-   
-   * How might the mobile context affect how folks use this component?
+- What are the characteristics of a successful interaction with this component? How does that interaction go?
+
+- What would make this component less usable?
+
+- What are common pitfalls or implementation mistakes associated with this component?
+
+- How might the mobile context affect how folks use this component?
 
 **Slide 72:** From the accessibility perspective we want to understand:
 
-   * Will this component cause difficulty for people who use any assistive technologies?
-   
-   * And could this component be difficult for any other audiences?
+- Will this component cause difficulty for people who use any assistive technologies?
+
+- And could this component be difficult for any other audiences?
 
 **Slide 73:** And finally, we want to identify potential stakeholders, advocates, and volunteers related to the component. These are folks willing to help design, develop, or test the component, and any significant support from an agency or group.
 
@@ -368,7 +366,7 @@ And I'd like to acknowledge that getting this far has been a really big team eff
 
 This is important because this process stuff is what everything else is built from. I think what we're beginning to develop here is the nervous system for the design system, and perhaps, by extension, a nervous system for digital service practitioners across government — helping a complex system move with coordination and intention because we've connected activities and information from across the network.
 
-**Slide 79:** We're still working to take baby steps, but this is really what it's all about when I think about the USWDS mission: Shaping the future of government digital services. This process of shaping is  complex and interesting and can be really challenging and satisfying. And it's something we can only effectively do together. And I know if we keep at it, there's going to be an elephant in there… somewhere.
+**Slide 79:** We're still working to take baby steps, but this is really what it's all about when I think about the USWDS mission: Shaping the future of government digital services. This process of shaping is complex and interesting and can be really challenging and satisfying. And it's something we can only effectively do together. And I know if we keep at it, there's going to be an elephant in there… somewhere.
 
 **Slide 80:** Q&A
 
@@ -384,31 +382,31 @@ Join the U.S. Web Design System (USWDS) team to learn more about the complete li
 
 In this session, you will learn:
 
-* How to suggest a new component
-* What to expect throughout the proposal process
-* What comes next in the component’s lifecycle
+- How to suggest a new component
+- What to expect throughout the proposal process
+- What comes next in the component’s lifecycle
 
 **This event is best suited for:** Developers and designers (all levels)
 
 ## Speakers
 
-* **Dan Williams** **—** Product Lead, USWDS
-* **Anne Petersen** **—** Experience Design Lead, USWDS
-* **Amy Leadem** **—** Developer, USWDS Contractor
+- **Dan Williams** **—** Product Lead, USWDS
+- **Anne Petersen** **—** Experience Design Lead, USWDS
+- **Amy Leadem** **—** Developer, USWDS Contractor
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

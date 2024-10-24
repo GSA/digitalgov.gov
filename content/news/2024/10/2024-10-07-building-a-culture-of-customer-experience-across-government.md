@@ -20,6 +20,9 @@ slug: building-a-culture-of-customer-experience-across-government
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
+primary_image: "lightbulb-anastasia-usenko-istock-getty-images-1208535618"
+
 ---
 In recent years, the federal government has recognized the critical importance of [customer experience](https://digital.gov/topics/customer-experience/) in its interactions with the public. According to [Performance.gov](https://www.performance.gov/cx/) and the Office of Management and Budget, customer experience is defined as “the public's perceptions of and overall satisfaction with interactions with any government agency, product, or service.” While this definition sets a clear goal, building a culture of customer experience within government agencies to consistently deliver positive experiences for the public remains a challenge. 
 

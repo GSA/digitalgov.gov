@@ -27,8 +27,7 @@ topics:
   - plain-language
   - communication
 
-event_cop:
-  - plain-language
+event_cop: plain-language
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
