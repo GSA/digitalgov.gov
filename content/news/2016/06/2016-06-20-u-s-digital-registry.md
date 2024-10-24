@@ -1,12 +1,12 @@
 ---
 slug: u-s-digital-registry
 date: 2016-06-20 10:00:48 -0400
-title: U.S. Digital Registry
+title: "U.S. Digital Registry"
 summary: The National Archives is pleased to participate in the U.S. Digital Registry, the authoritative resource for official third-party websites, social media platforms and mobile apps managed by the U.S. federal government. The U.S. Digital Registry is an API-generating platform designed to authenticate third-party sites in the federal government in order to help maintain accountability over
 authors:
   - david-s-ferriero
 
-expirydate: "2024-10-03"
+expirydate: "2029-10-03"
 
 ---
 
