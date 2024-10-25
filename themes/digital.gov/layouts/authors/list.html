@@ -46,53 +46,38 @@
       <div class="grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-4">
           <section class="stream">
-            {{/* Blog Posts by Topic —
-              List all of the blog posts and events tagged with this topic
-            */}}
+            {{/* Get all events, guides, news and resources for an author */}}
 
-            {{- $allpages := (where .Pages "Section" "news") -}}
-
-            {{/* Gets the past events */}}
-            {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
-
-            {{/* Gets the past events that have youtube_id set */}}
-            {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
-
-            {{/* Gets the recent blog posts */}}
-            {{- $posts := where .Paginator.Pages "Section" "news" -}}
-
-            {{/* Gets the guides they have written */}}
-            {{- $guides := where .Paginator.Pages "Section" "guides" -}}
-
-            {{/* Gets the resources they have written */}}
-            {{- $resources := where .Paginator.Pages "Section" "resources" -}}
-
-            {{/* Gets the news they have written */}}
-            {{- $news := where .Paginator.Pages "Section" "news" -}}
-
-            {{/* merges all the topics into one */}}
-            {{- $content := union (union (union $posts $guides) $resources) $news -}}
-
-            {{/* Merges the past events and the content */}}
-            {{ $stream := union $content $past_events }}
-
-            {{/* Sorting all the items by date and reverse chron */}}
-            {{ $stream := $stream.ByDate.Reverse }}
+            {{ $news := where .Pages "Section" "news" }}
+            {{ $past_events := where (where .Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix }}
+            {{ $past_events = where $past_events ".Params.youtube_id" "!=" nil }}
+            {{ $guides := where .Pages "Section" "guides" }}
+            {{ $resources := where .Pages "Section" "resources" }}
+            {{ $stream := union (union (union $news $past_events) $resources) $guides }}
+            {{ $stream_sorted := $stream.ByDate.Reverse }}
+            {{ $stream_paginated := (.Paginate $stream_sorted).Pages }}
 
             {{/* If there are any blog posts at all... */}}
-            {{- if $stream -}}
+            {{- if $stream_paginated -}}
               <h2>Latest Content by {{ .Params.display_name }}</h2>
 
               {{/* Loop through all the pages */}}
-              {{- range $stream -}}
+              {{- range $stream_paginated -}}
                 {{- if eq .Type "events" -}}
                   {{- .Render "card-event" -}}
                 {{- end -}}
 
-                {{- if eq .Type "news" -}}
+                {{- if or (eq .Type "news") -}}
                   {{ .Render "card-news" }}
                 {{- end -}}
 
+                {{- if eq .Type "resources" -}}
+                  {{ partial "partials/core/card-stream.html" . }}
+                {{- end -}}
+
+                {{- if eq .Type "guides" -}}
+                  {{ partial "partials/core/card-stream.html" . }}
+                {{- end -}}
               {{- end -}}
             {{- end -}}
 
