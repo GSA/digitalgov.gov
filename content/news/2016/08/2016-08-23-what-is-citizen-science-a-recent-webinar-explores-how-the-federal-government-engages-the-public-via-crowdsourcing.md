@@ -13,7 +13,7 @@ From the [National Park Service](https://www.nps.gov/) (NPS) to the [Centers for
 
 {{< legacy-img src="2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government." >}}
 
-A recent [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar provides an introduction to the concept and shows how the federal government is using it to engage the public and address important issues.
+A recent [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU) webinar provides an introduction to the concept and shows how the federal government is using it to engage the public and address important issues.
 
 The federal government has seen [a surge of citizen science initiatives]({{< ref "2016-06-24-white-house-challenges-citizen-science-among-top-innovation-efforts-of-past-8-years.md" >}}) thanks to several developments, starting with a [memo](https://www.whitehouse.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) (OSTP) that outlined ways agencies can use citizen science. The memo also gave birth to [CitizenScience.gov](https://www.citizenscience.gov/), the government’s new hub for all things citizen science.
 
@@ -41,4 +41,4 @@ There, you will find a diverse community that is transforming society within the
 
 _Zohaa Ahmad is a rising junior at Riverside High School in Leesburg, VA who is interested in pursuing the medical field in the future. She is interning with the Innovation Portfolio in the Technology Transformation Service (TTS) Office of Citizen Services and Innovative Technologies (OCSIT) at GSA for summer 2016._
 
-Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) and [register for an upcoming event]({{< ref "/events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgov@gsa.gov).
+Learn more about [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU) and [register for an upcoming event]({{< ref "/events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgov@gsa.gov).

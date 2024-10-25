@@ -57,6 +57,6 @@ A community grows and takes shape somewhat naturally, but Bacon and Davis also o
 Finally, Bacon and Davis emphasized that the positive impact doesn’t end once a winner is announced. The community formed during a challenge can help continue the work after the competition is over.
 
 [youtube=http://www.youtube.com/watch?v=9JhOZP61_XI&w=600]_Next up in their training series, Challenge.gov will cover the importance of capitalizing on the momentum of a challenge after a prize has been awarded._ _The [Post-Prize Industry and Post-Prize Impact webinar](https://www.youtube.com/watch?v=QdLSB2rjV9w) will take place on Jan. 14._
-_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success]({{< ref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}), hosted by [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}})._
+_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success]({{< ref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}), hosted by [DigitalGov University](https://digital.gov/digitalgov-university/)._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!
