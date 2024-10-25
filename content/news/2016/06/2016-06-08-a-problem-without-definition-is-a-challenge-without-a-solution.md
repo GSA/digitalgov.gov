@@ -17,7 +17,7 @@ Problems are like spaghetti—messy and complex, says Denys Resnick, Executive V
 
 Resnick joined Denice Shaw, the lead for challenges and prizes at the U.S. Environmental Protection Agency (EPA), for a recent webinar on how to approach defining and describing problem so that it can be successfully addressed.
 
-The [Untangling your Technology Challenge and Charting a Successful Path Forward: A Problem Definition Webinar](https://www.youtube.com/watch?v=aOT9vzNY8sY&feature=youtu.be) from [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) looked at various aspects of getting everybody on the same page in terms of understanding a problem.
+The [Untangling your Technology Challenge and Charting a Successful Path Forward: A Problem Definition Webinar](https://www.youtube.com/watch?v=aOT9vzNY8sY&feature=youtu.be) from [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU) looked at various aspects of getting everybody on the same page in terms of understanding a problem.
 
 This is a crucial step that comes before deciding what approach to take, be it a challenge or another method such as a grant or contract.
 
