@@ -15,7 +15,7 @@ topics:
 
 > _Summary: How to leverage your resources to reach Spanish-dominant Hispanics online._
 
-A recent [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness.
+A recent [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness.
 
 ## Social Media Outreach Goals {{< legacy-img src="2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" caption="" >}} 
 
