@@ -17,6 +17,6 @@ But even if you’ve gone past that point (or even if your site is live) you can
 
 If you are considering running a usability test or other user experience service &#8211; great! We&#8217;d be happy to offer some pointers, point you towards some templates to save you time, or take a look at your script or test plan. Our goal is for agencies to do as much user research as they can, so [email us for test support](mailto:digitalgov@gsa.gov) when you&#8217;re ready. Or check out our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}} "DigitalGov User Experience Program: Usability Starter Kit").
 
-From time to time we will conduct a demonstrate test, evaluation or other service for educational purposes. On rare occasions we will select a high-impact site for testing purposes. We will post notices of our tests through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}).
+From time to time we will conduct a demonstrate test, evaluation or other service for educational purposes. On rare occasions we will select a high-impact site for testing purposes. We will post notices of our tests through [DigitalGov University](https://digital.gov/digitalgov-university/).
 
 Other options for getting a test off the ground are to [hire a usability contractor](https://www.gsaadvantage.gov/advantage/s/search.do?q=0:2%22usability+testing%22&q=0:1%22usability+testing%22&db=1), or get [trained]({{< ref "2013-03-21-saferbus-mobile-usability-case-study.md" >}}) yourself.
