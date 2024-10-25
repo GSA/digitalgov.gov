@@ -3,6 +3,9 @@ slug: automated-translation-good-solution-or-not
 date: 2012-10-01 9:37:33 -0400
 title: Lost in Translation
 summary: 'Automated translation is touted as a one click solution. But is it? From time to time, the listserv lights up with the issue of translating websites into other languages and I&#8217;ve seen the interest increase as Web managers struggle to comply with competing mandates to serve their customers. Many Web managers are tasked with installing'
+
+expirydate: "2024-10-24"
+
 authors:
   - lgodfrey
 topics:
