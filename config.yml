@@ -131,10 +131,6 @@ menu:
       Identifier: "guides"
       URL: "/guides/"
       Weight: 4
-    - Name: "Tools"
-      Identifier: "tools"
-      URL: "/services/directory/"
-      Weight: 5
     - Name: "Job board"
       Identifier: "job-board"
       URL: "/job-board/"
