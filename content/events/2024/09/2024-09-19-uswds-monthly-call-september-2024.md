@@ -2,9 +2,8 @@
 title: USWDS Monthly Call - September 2024
 deck: The landscape of Web Components
 kicker: USWDS
-summary: The U.S. Web Design System team will share their exploration of Web Component-based design systems and best practices. 
+summary: The U.S. Web Design System team will share their exploration of Web Component-based design systems and best practices.
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsdemgrT8tHZvOdHYHRTKhveBs1rHPdBc
 date: 2024-09-19 14:00:00 -0500
 end_date: 2024-09-19 15:00:00 -0500
@@ -22,7 +21,6 @@ slug: uswds-monthly-call-september-2024
 event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-sep-title-card
-
 ---
 
 {{< asset-static file="uswds-monthly-call-september-2024.pptx" label="View the slides (Powerpoint presentation, 6.7 MB, 75 slides)">}}
@@ -53,11 +51,11 @@ For those of you who find the chat distracting, you’re welcome to close or hid
 
 **Slide 10:** As a reminder, here's some of [what's coming in USWDS 3.9.0](https://github.com/uswds/uswds/milestone/154).
 
-* Fixes a tab order bug in the mobile header
-* Fixes a keyboard/mouse interaction issue in date picker
-* Improves performance of input mask
-* Improves legibility of pagination links
-* Adds ability to add custom breakpoints to utilities
+- Fixes a tab order bug in the mobile header
+- Fixes a keyboard/mouse interaction issue in date picker
+- Improves performance of input mask
+- Improves legibility of pagination links
+- Adds ability to add custom breakpoints to utilities
 
 **Slide 11:** We're also continuing progress with publishing accessibility test pages. We've got three new ones up on the site now: Checkbox, Radio button, and Combo box. We're posting links to these new pages in the chat, _and_ we're working on three new component test pages for next month: TK. So stay tuned for those!
 
@@ -81,7 +79,7 @@ Dan: Thanks Matt!
 
 **Slide 16:** I'd also like to introduce Jacline Contrino, our UX researcher, and a contractor on the USWDS team. Jacline, can you introduce yourself and give a quick self description?
 
-Jacline:  Sure. Hi everyone, I’m Jacline. I use she/her pronouns and today I’m wearing a pink and white striped button-up shirt and big gold hoop earrings. I have shoulder length brown curly hair.
+Jacline: Sure. Hi everyone, I’m Jacline. I use she/her pronouns and today I’m wearing a pink and white striped button-up shirt and big gold hoop earrings. I have shoulder length brown curly hair.
 
 Dan: Thanks Jacline! Why don't you take it from here and talk about what we've been doing?
 
@@ -97,12 +95,12 @@ And **performance**: How fast do they load? How much code do they require? How a
 
 **Slide 19:** Those are just a few of our questions — and since it’s nearly impossible to answer all of them with a single research approach, we’re using several methods, such as:
 
-* A **landscape analysis** of design systems that offer Web Components. What are other design systems doing and what might we want to adopt?
-* A **survey** to gauge government team size, staffing, tech stacks used, familiarity with certain programming languages, and more.
-***Discussions** with teams that are already building with Web Components.
-* Doing one-on-one **interviews** for more in-depth and technical conversations with experts to learn about their experiences and lessons learned.
-* And finally, the **beta program** itself, and the feedback and issues you provide.
-* We’re nearly done with the landscape analysis and have completed the survey. We’ve started interviewing folks individually and will continue to do that for the next few weeks.
+- A **landscape analysis** of design systems that offer Web Components. What are other design systems doing and what might we want to adopt?
+- A **survey** to gauge government team size, staffing, tech stacks used, familiarity with certain programming languages, and more.
+  **\*Discussions** with teams that are already building with Web Components.
+- Doing one-on-one **interviews** for more in-depth and technical conversations with experts to learn about their experiences and lessons learned.
+- And finally, the **beta program** itself, and the feedback and issues you provide.
+- We’re nearly done with the landscape analysis and have completed the survey. We’ve started interviewing folks individually and will continue to do that for the next few weeks.
 
 **Slide 20:** So, let’s talk about what we found with our “Government teams and tools survey.” We sent out a survey last month to gauge team structures, resources, and technology of government digital or product teams.
 
@@ -146,10 +144,10 @@ And finally, now that we know a bit more about the tech stacks used on many gove
 
 **Slide 33:** We were interested in a few specific categories:
 
-* **Documentation**: What are other design systems prioritizing in terms of Web Component documentation? What types of content do we see?
-* **Code structure**: How are other design systems building Web Components? What's their component model? How does content and data get into them? In general, from a developer's perspective: what does a component look like?
-* **Code size and performance**: How big are these things? How much data does a browser have to load before the component loads? Is there any commonality around a component's footprint, when comparing similar components?
-* and **Distribution**: How are these components getting from the design system to the project using it? How are they loaded onto the page? How straightforward is it to add a component to a project?
+- **Documentation**: What are other design systems prioritizing in terms of Web Component documentation? What types of content do we see?
+- **Code structure**: How are other design systems building Web Components? What's their component model? How does content and data get into them? In general, from a developer's perspective: what does a component look like?
+- **Code size and performance**: How big are these things? How much data does a browser have to load before the component loads? Is there any commonality around a component's footprint, when comparing similar components?
+- and **Distribution**: How are these components getting from the design system to the project using it? How are they loaded onto the page? How straightforward is it to add a component to a project?
 
 **Slide 34:** We’re approaching this landscape analysis in a collaborative way, since there's a lot of subject matter expertise required to collect and understand this information! Our three senior developers have been working with me, and we’re also working closely with our Product Lead (Dan) and Engineering Lead (Matt) on the fed side.
 
@@ -165,9 +163,10 @@ This effort is still ongoing but here’s what we've learned so far, starting wi
 
 **Slide 37:** Essentially, documentation helps you do what you need to do. What were we trying to do? Well, we looked at a few tasks:
 
-***Getting familiar with a component**: Kicking the tires, as it were - understanding how to work with a component as directly as possible.
-* **Installing a component into a project**: How do you get it and use it?
-* and **Configuring and customizing a component**: How can you make a component do what you need it to do? Either changing what it does or changing how it looks.
+**\*Getting familiar with a component**: Kicking the tires, as it were - understanding how to work with a component as directly as possible.
+
+- **Installing a component into a project**: How do you get it and use it?
+- and **Configuring and customizing a component**: How can you make a component do what you need it to do? Either changing what it does or changing how it looks.
 
 **Slide 38:** Let’s talk about the ways documentation can help users get familiar with a component.
 
@@ -193,22 +192,22 @@ So we took note of how other design systems are documenting their Web Component 
 
 **Slide 41:** When it comes to documenting an API, there are a number of common ways of interacting with components reflected in documentation.
 
-* **Properties**: Settings passed to component markup. For example, an alert component may have a `variant` property that can be set to something like `warning`, `info`, or `error` depending on the type of alert. This property usually changes the color of the alert and its icon.
-* **Events**: Data a component sends based on a component interaction. For example, an input component may have a `blur` event that the component emits (or "fires") when a user navigates away from the input and it loses focus. (It loses focus, thus, "blur").
-* **Slots**: Named content regions inside a component. For example, a Card component might have a slot named `footer` where you'd add the content that belongs at the bottom of the card.
-* **Parts**: Subsections of a component, styleable with CSS. For example, an Accordion component might have a part for an individual item's open/close indicator.
-* and **Tokens**: CSS variables that influence component styling. For example, an `card-border-radius` CSS variable might set the border radius for all application cards.
+- **Properties**: Settings passed to component markup. For example, an alert component may have a `variant` property that can be set to something like `warning`, `info`, or `error` depending on the type of alert. This property usually changes the color of the alert and its icon.
+- **Events**: Data a component sends based on a component interaction. For example, an input component may have a `blur` event that the component emits (or "fires") when a user navigates away from the input and it loses focus. (It loses focus, thus, "blur").
+- **Slots**: Named content regions inside a component. For example, a Card component might have a slot named `footer` where you'd add the content that belongs at the bottom of the card.
+- **Parts**: Subsections of a component, styleable with CSS. For example, an Accordion component might have a part for an individual item's open/close indicator.
+- and **Tokens**: CSS variables that influence component styling. For example, an `card-border-radius` CSS variable might set the border radius for all application cards.
 
 Pretty much every component has properties of some sort, and we see property documentation in any Web Components–based design system. The rest of the elements of an API can vary from system to system and component to component. Less common elements of an API, but still potentially useful include:
 
-* **Methods**, which are JavaScript-specific controls for component interactivity.
-* and **Content model**, which is a way to group properties that accept content together.
+- **Methods**, which are JavaScript-specific controls for component interactivity.
+- and **Content model**, which is a way to group properties that accept content together.
 
 **Slide 42:** We found that overall, Web Component API shared some structural commonalities.
 
-* APIs are consistently organized using the categories we looked at in the previous slide.
-* The API almost always appears on the same page as other component information, though it can occasionally appear in a page-level tab.
-* API documentation is consistently organized using tables showing the names of the API items, the type of data they accept, and their default value.
+- APIs are consistently organized using the categories we looked at in the previous slide.
+- The API almost always appears on the same page as other component information, though it can occasionally appear in a page-level tab.
+- API documentation is consistently organized using tables showing the names of the API items, the type of data they accept, and their default value.
 
 And all of this tends to be more understandable when it's tied either to some kind of example, or to an interactive component where you can try out the setting in the component.
 
@@ -240,12 +239,12 @@ Across design systems, status tags serve as a kind of mini set of dashboard ligh
 
 **Slide 50:** Dan: This is Dan. Documentation is a huge subject, and while there are lots of ways to approach guidance across design systems, we've identified a few key common user stories related to technical guidance for components. We need to support:
 
-* At-a-glance confirmation that a component is OK to use.
-* An obvious location for Web Components documentation, connected to our existing documentation.
-* The ability to interact with the component before installing it into a project.
-* Succinct component-level installation instructions.
-* Clear and logical API guidance alongside an interactive component.
-* A documentation-driven approach that keeps documentation current with functionality.
+- At-a-glance confirmation that a component is OK to use.
+- An obvious location for Web Components documentation, connected to our existing documentation.
+- The ability to interact with the component before installing it into a project.
+- Succinct component-level installation instructions.
+- Clear and logical API guidance alongside an interactive component.
+- A documentation-driven approach that keeps documentation current with functionality.
 
 Back to you Jacline!
 
@@ -321,11 +320,11 @@ It's still pretty early in our performance analysis, but we want to be really co
 
 First, our design principles:
 
-* Start with real user needs
-* Earn trust
-* Embrace accessibility
-* Promote continuity
-* Listen
+- Start with real user needs
+- Earn trust
+- Embrace accessibility
+- Promote continuity
+- Listen
 
 And next our mission, vision, and polestar: Helping government teams align, design, and keep their websites and services up to date. In the service of empowered and supported digital service teams and familiar and easy-to-use digital services. So, together we can shape the future of government digital services.
 
@@ -335,44 +334,40 @@ These aren't abstract things, they influence what we do and our approach to judg
 
 {{< /accordion >}}
 
-
-
-
-This month, join the U.S. Web Design System (USWDS) team in exploring the landscape of Web Components. The team will share their recent landscape analysis of Web Components-based design systems and discuss how these findings set a course for future USWDS development.  
+This month, join the U.S. Web Design System (USWDS) team in exploring the landscape of Web Components. The team will share their recent landscape analysis of Web Components-based design systems and discuss how these findings set a course for future USWDS development.
 
 In this online session with the USWDS team, you will:
 
-* Learn what’s new in USWDS 3.9
-* Explore how other design systems are approaching Web Components
-* Gain insight to the team’s thoughts about where USWDS might fit in the broader landscape of modern design systems
-
+- Learn what’s new in USWDS 3.9
+- Explore how other design systems are approaching Web Components
+- Gain insight to the team’s thoughts about where USWDS might fit in the broader landscape of modern design systems
 
 **This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend; it requires no specialized knowledge.
 
 **Speakers**
 
-* **Dan Williams** - Product Lead, USWDS
-* **Matt Henry** - Engineering Lead, USWDS
-* **Anne Petersen** - Experience Design Lead, USWDS
-* **Jacline Contrino** - UX Researcher, USWDS contractor
+- **Dan Williams** - Product Lead, USWDS
+- **Matt Henry** - Engineering Lead, USWDS
+- **Anne Petersen** - Experience Design Lead, USWDS
+- **Jacline Contrino** - UX Researcher, USWDS contractor
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@gsa.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@gsa.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)
 
 ---
 
-*Disclaimer*: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+_Disclaimer_: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

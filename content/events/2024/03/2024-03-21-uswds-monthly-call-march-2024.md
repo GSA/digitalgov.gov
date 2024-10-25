@@ -5,7 +5,6 @@ kicker: USWDS
 summary: Join the U.S. Web Design System team for a lesson on customizing and extending the design system.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsdu6pqzwuH6ocAtOZ2fI_hHryn0lQ9es
 date: 2024-03-21 14:00:00 -0500
 end_date: 2024-03-21 15:00:00 -0500
@@ -30,7 +29,7 @@ youtube_title: "How to build with U.S. Web Design System tools (2024)"
 
 As Jeannie mentioned, we are recording this call, and I'm happy to say we've started to be able to share the recordings of these monthly calls publicly. You can find pretty much everything from the last year's worth of monthly calls — back to January 2023 — on our website, at [designsystem.digital.gov/about/monthly-calls/](https://designsystem.digital.gov/about/monthly-calls/). We typically post videos shortly after the monthly call, and we also link out to the slides and the script, hosted at digital.gov. We've posted a link to our monthly call page in the chat.
 
-We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today. 
+We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 
 For those of you who find the chat distracting, you’re welcome to close or hide the chat window during the main presentation. You can reopen it later during the Q&A session at the end of this call.
 
@@ -51,16 +50,17 @@ We’ve got a very relevant new site launch, a couple product updates, and then 
 **Slide 8:** First USWDS 3.8.0. We've mentioned it the last couple monthly calls, and it is finally out now. I won't go into the details of 3.8.0 since we've discussed it so much recently, but check out the release notes for lots of details. We're pasting the direct link in the chat, it's with all our other releases and release notes at [github.com/uswds/uswds/releases](https://github.com/uswds/uswds/releases/tag/v3.8.0).
 
 **Slide 9:** Next, new component discussions. We spent last month talking about our new component discussions, proposals, and the component lifecycle model. Well, we now have ten active component discussions on our discussion board:
-* Common feedback
-* CUI banner
-* Glossary
-* Spinner
-* Tabs
-* Toast
-* Toggle
-* Quote with attribution
-* Skipto
-* Sidebar primary navigation
+
+- Common feedback
+- CUI banner
+- Glossary
+- Spinner
+- Tabs
+- Toast
+- Toggle
+- Quote with attribution
+- Skipto
+- Sidebar primary navigation
 
 If you're interested in any of these components and would like to be part of the discussion that helps make the case for the component, head over to our discussion board at [github.com/uswds/uswds/discussions](http://github.com/uswds/uswds/discussions), then go to "Component proposals". We hope you get involved!
 
@@ -68,7 +68,7 @@ If you're interested in any of these components and would like to be part of the
 
 **Slide 11:** And finally, getting your feedback is critical for us to be able to deliver a design system that works for you. To that end, we’ve created a new webpage and signup form for federal employees who might like to participate in usability research with us.
 
-You can find this new information on our website at [designsystem.digital.gov/about/research/recruitment/general-fed](http://designsystem.digital.gov/about/research/recruitment/general-fed) — and of course, the link is also in the chat. 
+You can find this new information on our website at [designsystem.digital.gov/about/research/recruitment/general-fed](http://designsystem.digital.gov/about/research/recruitment/general-fed) — and of course, the link is also in the chat.
 
 We're looking for federal employees who serve as designers, developers, content strategists, accessibility specialists, UX leaders, or in any UX/CX-adjacent role and have any level of experience and proficiency with the design system, from being an absolute beginner to a seasoned expert.
 
@@ -82,7 +82,7 @@ First, James Mejia, a contractor and a front-end engineer on the USWDS core team
 
 James: Hey there everyone, my name is James Mejia. Like Dan said, I'm a contracted engineer and I'm wearing a brown jacket for this chilly weather and I have short dark hair.
 
-Dan: Cool, thanks James. 
+Dan: Cool, thanks James.
 
 **Slide 14:** And I'd also like to introduce Charlie Mahoney, a contractor and a front-end engineer on the USWDS core team. Charlie, can you introduce yourself and give a brief self description?
 
@@ -132,7 +132,7 @@ James: Okay, so I paste it in my new settings and I think I recognize two of th
 
 Charlie: So this border-radius-large allows us to update the sizing token for the large that we will be using in theme card border radius. It's a little bit larger than the standard large token and this will allow us to have a slightly more curved hard radius.
 
-James: Okay, if you don't mind I'm going to swap over to the preview just to see what it looks like before  and then I'll jump back to the code, give that a save and then see what changed. Hey, they got rounder.
+James: Okay, if you don't mind I'm going to swap over to the preview just to see what it looks like before and then I'll jump back to the code, give that a save and then see what changed. Hey, they got rounder.
 
 Charlie: Look at that, I like it, it's very modern looking.
 
@@ -214,7 +214,7 @@ Charlie: That's right, the first step of adding our custom styles is going to be
 
 James: Okay, I like the sound of that.
 
-Charlie: Yeah, let's jump back over into your editor and we have a card, that html file, that is housing all of our component markup at this time. 
+Charlie: Yeah, let's jump back over into your editor and we have a card, that html file, that is housing all of our component markup at this time.
 
 James: Okay, I found card html and it looks like the standard markup in the code example on the website.
 
@@ -222,7 +222,7 @@ Charlie: Exactly. This is exactly what you would copy and paste over if you were
 
 James: That sounds good to me. So you said I wouldn't want to use "usa-card" to add my custom styles.
 
-Charlie: Yeah, that's right.  It could just lead into specificity issues down the road, unintended changes, and you know if we make an update to what the "usa-card" styles are, it might wipe out your custom styles and you wouldn't want that.
+Charlie: Yeah, that's right. It could just lead into specificity issues down the road, unintended changes, and you know if we make an update to what the "usa-card" styles are, it might wipe out your custom styles and you wouldn't want that.
 
 James: Oh no, not at all. That sounds pretty bad.
 
@@ -250,7 +250,7 @@ Charlie: So if we want to make use of a lot of the tools that USWDS has to offer
 
 James: So copy the same file, "uswds-core" in step 5, right?
 
-Charlie: That's right, if you want to give that a copy and go back to our editor, we can paste it at the top using the Sass use directive and we're using it as *, the all selector. This allows us to use these with their name given to them by USWDS without having to prefix it with uswds-core color for example. You can just call the color function using color.
+Charlie: That's right, if you want to give that a copy and go back to our editor, we can paste it at the top using the Sass use directive and we're using it as \*, the all selector. This allows us to use these with their name given to them by USWDS without having to prefix it with uswds-core color for example. You can just call the color function using color.
 
 James: That's convenient, what's next?
 
@@ -258,7 +258,7 @@ Charlie: Let's hop back over to the demo and you'll see a couple styles that we'
 
 James: Alright, we're going to override the background of the card container, right?
 
-Charlie: That's right. 
+Charlie: That's right.
 
 James: Because we didn't have a setting that was available to us.
 
@@ -310,7 +310,7 @@ Charlie: Alrighty, back on the demo page we have some text for you to use as the
 
 James: Okay, it's kind of a core requirement of the testimonial huh?
 
-Charlie: Yeah, I'd say so and it's like it took the words right out of your mouth. Next let's go ahead and let's populate the footer section we have a little image for a profile photo for our 
+Charlie: Yeah, I'd say so and it's like it took the words right out of your mouth. Next let's go ahead and let's populate the footer section we have a little image for a profile photo for our
 "quotee" as well as a profile section to give them a name and a title.
 
 James: Alright, "Mr. J" fake name.
@@ -403,7 +403,7 @@ Charlie: Exactly. Just another way that you can use the theme settings available
 
 James: Yeah, I can just take what I need. So I've gotten rid of the padding setting that I set previously and I'm using the mixin now. I hit save and I really want to peek and see what it looks like now. Charlie: I think we should.
 
-James: Okay, oh look at that. 
+James: Okay, oh look at that.
 
 Charlie: Looks good. Looks just like the card right above it. Now let's play with some of the colors. Go ahead and let's copy those we're going to change the background color and the color and similar to what we were talking about in the theme setting. We're going to use these token names so we don't have to worry about indigo 10 we're simply going to change the color the text color to primary light and the background color to primary dark and keep things on brand with this tutorial.
 
@@ -455,17 +455,17 @@ James: I'd say so, look at how beautiful that is.
 
 Charlie: I like it. What do you think Dan? How do you like our new component?
 
-Dan: Thanks Charlie, this is Dan and I really do think that this is one of the best USWDS tutorials I've followed all the way to the end. This is all part of a USWDS tutorial repo that we posted a link to in the chat and we'll call back again later. Like James and Charlie mentioned part one of the tutorial and this is something we did about a year ago when we looked at part one and part one is really about like getting up to speed with the design system, installing it into a project and beginning to connect it to your project's existing styles so you can add USWDS incrementally into a project. And then as you follow along into part two, this part that we just looked at today, is like okay what if we want to begin to build more stuff with USWDS and begin to develop a higher level of integration between the design system and our project. So when you go and you visit that tutorial and you try to do it yourself you'll start from the very beginning and go all the way from nothing to building your own simple USWDS components. Now I'm going to share my screen and pop back over to the slides. 
+Dan: Thanks Charlie, this is Dan and I really do think that this is one of the best USWDS tutorials I've followed all the way to the end. This is all part of a USWDS tutorial repo that we posted a link to in the chat and we'll call back again later. Like James and Charlie mentioned part one of the tutorial and this is something we did about a year ago when we looked at part one and part one is really about like getting up to speed with the design system, installing it into a project and beginning to connect it to your project's existing styles so you can add USWDS incrementally into a project. And then as you follow along into part two, this part that we just looked at today, is like okay what if we want to begin to build more stuff with USWDS and begin to develop a higher level of integration between the design system and our project. So when you go and you visit that tutorial and you try to do it yourself you'll start from the very beginning and go all the way from nothing to building your own simple USWDS components. Now I'm going to share my screen and pop back over to the slides.
 
-**Slide 17:** Thank you James and thank you Charlie! There's a lot of stuff  enclosed in that tutorial and if you're interested it does make sense to just go and do it yourself to get a sense of of doing it and what we're actually talking about here. But when we're building with USWDS there are a few things I think we want to keep in mind. First, that we want to use USWDS tokens whenever possible when we're setting colors, when we're setting font sizes, when we're setting spacing units, use those tokens, use those pallets to build your new stuff. That's  the fundamental and lowest level way that we can begin to connect to all of our sites together by using the same  same pallets. And get familiar with settings. There's a lot of power in settings and there's a lot that you can begin to do in your project to tailor it to what your project needs without even modifying a lot of CSS. Just with a few settings you can  do some meaningful things. It's important to override our USWDS Sass, our stylesheets with project classes just like we made "my-card" that allows us to move our overrides into a separate section so it doesn't risk getting clobbered by updating USWDS, helps with specificity, keeps everything organized and separated. And that you can you can build with existing components that when we were looking at developing our testimonial component there are things that we could take from card.
+**Slide 17:** Thank you James and thank you Charlie! There's a lot of stuff enclosed in that tutorial and if you're interested it does make sense to just go and do it yourself to get a sense of of doing it and what we're actually talking about here. But when we're building with USWDS there are a few things I think we want to keep in mind. First, that we want to use USWDS tokens whenever possible when we're setting colors, when we're setting font sizes, when we're setting spacing units, use those tokens, use those pallets to build your new stuff. That's the fundamental and lowest level way that we can begin to connect to all of our sites together by using the same same pallets. And get familiar with settings. There's a lot of power in settings and there's a lot that you can begin to do in your project to tailor it to what your project needs without even modifying a lot of CSS. Just with a few settings you can do some meaningful things. It's important to override our USWDS Sass, our stylesheets with project classes just like we made "my-card" that allows us to move our overrides into a separate section so it doesn't risk getting clobbered by updating USWDS, helps with specificity, keeps everything organized and separated. And that you can you can build with existing components that when we were looking at developing our testimonial component there are things that we could take from card.
 
-We can use buttons in other things, we can use the grid, we can- when we're building new things, how can we use some of the existing design system components to give ourselves a starting point for something new. And really just to experiment with confidence that the design system really is meant to be building new things and to be  really trying to engage with your audience and to keep pushing. There are some things we like to do consistently again and again using USWDS tokens, using the banner, using other common components, but there is room for experimentation and you should experiment with confidence with the design system.
+We can use buttons in other things, we can use the grid, we can- when we're building new things, how can we use some of the existing design system components to give ourselves a starting point for something new. And really just to experiment with confidence that the design system really is meant to be building new things and to be really trying to engage with your audience and to keep pushing. There are some things we like to do consistently again and again using USWDS tokens, using the banner, using other common components, but there is room for experimentation and you should experiment with confidence with the design system.
 
 **Slide 18:** You can follow this tutorial today. [github.com/uswds/uswds-tutorial](http://github.com/uswds/uswds-tutorial)
 
 **Slide 19:** Q&A
 
-**Slide 20:** Thanks for joining today’s USWDS monthly call. We'll be back in April with an introduction to Web Components, the technology we're working toward as a design system. 
+**Slide 20:** Thanks for joining today’s USWDS monthly call. We'll be back in April with an introduction to Web Components, the technology we're working toward as a design system.
 If you have a question we weren't able to answer in the call, or thought of later, please head into our public Slack and ask it there. We'll be around after the call to answer questions.
 
 Have a great day and we'll see you next month!
@@ -476,32 +476,32 @@ Join the U.S. Web Design System team for a lesson on customizing and extending U
 
 You’ll learn to:
 
-* Work with design system settings
-* Apply tokens consistently with Sass functions and mixins
-* Avoid style conflicts when overriding defaults
-* Use tools for ensuring proper color contrast in every context
+- Work with design system settings
+- Apply tokens consistently with Sass functions and mixins
+- Avoid style conflicts when overriding defaults
+- Use tools for ensuring proper color contrast in every context
 
 **This event is best suited for:** Developers who have basic to advanced familiarity with the design system.
 
 ## Speakers
 
-* **Dan Williams** **-** Product Lead, USWDS
-* **James Mejia** **-** Developer, USWDS Contractor
-* **Charlie Mahoney** **-** Developer, USWDS Contractor
+- **Dan Williams** **-** Product Lead, USWDS
+- **James Mejia** **-** Developer, USWDS Contractor
+- **Charlie Mahoney** **-** Developer, USWDS Contractor
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@gsa.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@gsa.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

@@ -45,7 +45,7 @@ The [Inclusion Bot started small](https://18f.gsa.gov/2016/01/12/hacking-inclusi
 
 ## Where it is now: Inclusion Bot
 
-As the TTS team incorporated feedback, they began to iteratively refine. The purpose of the bot is not to shame, but to promote learning. With that in mind, the team made the response messages private to the person who used the word or term, while also using an emoji to show the public that the bot had already responded and that they didn’t need to. References to popular shows were taken out and [more words were added.](https://github.com/18F/charlie/blob/main/InclusionBot.md#racist) Information was added to the bot’s automatic message to provide more detail about why a user might want to reconsider a chosen term.
+As the TTS team incorporated feedback, they began to iteratively refine. The purpose of the bot is not to shame, but to promote learning. With that in mind, the team made the response messages private to the person who used the word or term, while also using an emoji to show the public that the bot had already responded and that they didn’t need to. References to popular shows were taken out and [more words were added.](https://github.com/18F/charlie/blob/main/InclusionBot.md) Information was added to the bot’s automatic message to provide more detail about why a user might want to reconsider a chosen term.
 
 ## How do you start?
 

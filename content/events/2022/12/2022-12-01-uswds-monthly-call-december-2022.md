@@ -5,7 +5,6 @@ kicker: USWDS
 summary: A look back at what took place in the Design System in 2022.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-2022-year-in-review-dec-2022-tickets-479345193377
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2022-12-15 14:00:00 -0500
@@ -43,8 +42,8 @@ For those of you who find the chat distracting, you’re welcome to close or hid
 
 So thanks! And, with that, let's get started!
 
-**Slide 3:** So what's our agenda for today? 
-Well this month we're looking at our year in review for 2022. We'll start with a few of the big things you may have heard about, and then we'll move on to a few other items we're proud of and didn't want to fall through the cracks! 
+**Slide 3:** So what's our agenda for today?
+Well this month we're looking at our year in review for 2022. We'll start with a few of the big things you may have heard about, and then we'll move on to a few other items we're proud of and didn't want to fall through the cracks!
 Like transparent workflows on our new Project Boards
 Telling the story of code through process documentation
 Adapting to user settings in Windows High Contrast Mode
@@ -78,7 +77,7 @@ The report is available at [designsystem.digital.gov/together](https://designsys
 
 **Slide 15:** And if you've been to any of the monthly calls in the last four or five months, you'll know that last month, in November, we launched our inclusive design patterns projects. Our inclusive design patterns report landing page is here on this slide.
 
-**Slide 16:** We wanted to learn from the experience of our peers and collect and develop guidance that helps any government team provide fair, equitable, respectful, and inclusive experiences for broad, diverse audiences. Our team talked to over 35 people from over 20 government agencies and programs as a part of a project to help expand our guidance to support not just components, but the interactions these components support. Things like complex forms, creating a user profile, and language selection. 
+**Slide 16:** We wanted to learn from the experience of our peers and collect and develop guidance that helps any government team provide fair, equitable, respectful, and inclusive experiences for broad, diverse audiences. Our team talked to over 35 people from over 20 government agencies and programs as a part of a project to help expand our guidance to support not just components, but the interactions these components support. Things like complex forms, creating a user profile, and language selection.
 
 We published a report that talks about what we did and what we found. We launched a new patterns section on our website with comprehensive guidance for 17 interactions. And we released three new components to support these interactions. To read more about this, the best place to start is at the report itself, at [designsystem.digital.gov/together](https://designsystem.digital.gov/together/).
 
@@ -106,25 +105,25 @@ Thank you Jacline! You'll hear more from the team as we go on. But I'd like to s
 
 **Slide 24:** We have a new Github Project board that organizes and prioritizes our issues, pull requests, and more as data that we can display across a number of views. This slide shows a tab in our project data called Leaderboard, where we can see all the open issues across our repos, assign them a weight (or priority), and complexity, and a status. From the leaderboard, we can grab issues, and collect them into sprints of work.
 
-**Slide 25:** This slide shows the Sprint Sequencing tab of our project board, where we assign issues to sprint and to team members. We use this every two weeks for sprint planning. If you ever want to know what we're working on right now, this is where to look. 
+**Slide 25:** This slide shows the Sprint Sequencing tab of our project board, where we assign issues to sprint and to team members. We use this every two weeks for sprint planning. If you ever want to know what we're working on right now, this is where to look.
 
 **Slide 26:** And work from our sprints is packaged and distributed as releases. This slide shows the Release Planning tab on our project board, where we collect issues and pull requests into coherent releases. This helps us be smart about our planning, and really helps speed up the process as we finalize releases and collect release notes. If you want to know more about what's coming up for the design system, this is the tab for you.
 
-**Slide 27:** And finally, it is technically a different project board, but we also collect our high level goals in a public Roadmap board. This board helps us plan 3 to 8 months into the future. 
+**Slide 27:** And finally, it is technically a different project board, but we also collect our high level goals in a public Roadmap board. This board helps us plan 3 to 8 months into the future.
 
 **Slide 28:** Our new project board has been super effective in helping us work better and faster in 2022. And it's not just an internal resource for the team. It's important to us that we're always clear and open about what we're doing and why. Come and see what we're doing at github.com/orgs/uswds/projects/8.
 
 **Slide 29:** **The story of the code: Improving Issues, pull requests, and changelogs**
 
-**Slide 30:** Hello again. This is Amy and I'm here today with James and Charlie to discuss the story of the code – the things we did this year to improve how we document our work. 
+**Slide 30:** Hello again. This is Amy and I'm here today with James and Charlie to discuss the story of the code – the things we did this year to improve how we document our work.
 
-Specifically we will be talking about our strategy for writing up GitHub issues and pull requests – or PRs as we’ll call them later in this talk – as well as our approach for our newly added changelogs. 
+Specifically we will be talking about our strategy for writing up GitHub issues and pull requests – or PRs as we’ll call them later in this talk – as well as our approach for our newly added changelogs.
 
 Improving our process documentation has already had a big impact on how our team works – and we’ll explain how we hope it can also benefit you as community members, users, and contributors.
 
 **Slide 31:** Just like with the project board Dan just spoke about, one of the primary benefits of this effort is that it increases transparency. By focusing on thoughtful, thorough writeups, we are able to expose more of our thought process and standards to the public.
 
-**Slide 32:** Second, we saw the opportunity to speed up our workflow. I’m sure anyone who has worked in a project management tool knows and understands this at a deep level. By sharing and receiving more information, we can assess, assign, prioritize, and review work faster,  and better, than before.
+**Slide 32:** Second, we saw the opportunity to speed up our workflow. I’m sure anyone who has worked in a project management tool knows and understands this at a deep level. By sharing and receiving more information, we can assess, assign, prioritize, and review work faster, and better, than before.
 
 **Slide 33:** And finally, we saw the opportunity to help out our future selves — and those that come after us — by adding to a comprehensive project history with every issue and pull request. This is a long-term project. Better process documentation lets us see the context and reasoning behind each change and will make it easier to build on existing work in the future.
 
@@ -137,7 +136,7 @@ The second thread is: Remember that a human – probably a busy one – is going
 
 This is the high level. Now, let’s dig in. Charlie is going to walk you through some of the things we learned about creating quality issue writeups. Take it away, Charlie.
 
-**Slide 35:** Thanks, Amy. Hi everyone, this is Charlie. Even if you’ve never seen or interacted with a GitHub issue, you are probably familiar with the concept. Issues are where we plan and track work on GitHub – they are similar to tickets, stories, bug reports, etc that you might find in other project management tools. It's a record of something that should be done, and why. 
+**Slide 35:** Thanks, Amy. Hi everyone, this is Charlie. Even if you’ve never seen or interacted with a GitHub issue, you are probably familiar with the concept. Issues are where we plan and track work on GitHub – they are similar to tickets, stories, bug reports, etc that you might find in other project management tools. It's a record of something that should be done, and why.
 
 Austin, you’ve written quite a bit about the challenges of collecting race and ethnicity information. Can you expand on this a bit?
 
@@ -155,12 +154,13 @@ This year, based on user research, we introduced two updated issue templates: on
 7. Lastly, Additional Context. A place to leave any other notes, ideas, or considerations related to the bug before wrapping up the report.
 
 **Slide 38:** A good issue needs to make the case for the work. A good writeup explains why this request matters. A good issue writeup should answer:
-1. Who is affected? Who benefits? 
-2. Is there a workaround? 
-3. How much effort is required to work around it? 
+
+1. Who is affected? Who benefits?
+2. Is there a workaround?
+3. How much effort is required to work around it?
 4. What is the effect if nothing is done?
 
-Each of these questions allows us to measure the weight of work and the benefit it will add. These new fields come together and help set the stage for quality, speedy problem resolution. 
+Each of these questions allows us to measure the weight of work and the benefit it will add. These new fields come together and help set the stage for quality, speedy problem resolution.
 
 Now I’ll pass it back to Amy to discuss the next step in our workflow: pull requests
 
@@ -174,21 +174,21 @@ We recently updated our PR template in GitHub to help make it easier to write an
 
 **Slide 41:** Hey there, it’s James. Let’s take a look at what makes a good PR.
 
-The first step is to include a summary. The summary provides a brief, 1-2 sentence overview of what you’re proposing. The summary should be easy to understand at a glance. In this example, you’ll see that we highlight the benefit first (*"Updated the aria-label in English versions of usa-banner."*) and then add a high-level explanation of what’s changed:
+The first step is to include a summary. The summary provides a brief, 1-2 sentence overview of what you’re proposing. The summary should be easy to understand at a glance. In this example, you’ll see that we highlight the benefit first (_"Updated the aria-label in English versions of usa-banner."_) and then add a high-level explanation of what’s changed:
 
-We updated the banner component's aria-label to read *"Official website of the United States government"* to minimize potential screen reader ambiguity between *"An official"* and *"Unofficial"*.
+We updated the banner component's aria-label to read _"Official website of the United States government"_ to minimize potential screen reader ambiguity between _"An official"_ and _"Unofficial"_.
 
 This example also shows that the PR has been connected to its related issue. (Fixes #4419) By connecting the PR to the issue, we give the reviewer the opportunity to learn more about the problem from the source. This additional context can be crucial, so please don’t forget to include it.
 
 **Slide 42:** After that, we’ll move on to the problem statement. A successful problem statement conveys the desired state, the actual state, and the effects of remaining in the current state. In this example, the problem statement summarizes what’s happening and the risk of leaving it unchanged.
 
-When read out on a screen reader, the statement *"An official website of the United States government"* can sound like *"UNofficial website of the United States government"*. This introduces the risk of conveying a meaning opposite of the intended meaning.
+When read out on a screen reader, the statement _"An official website of the United States government"_ can sound like _"UNofficial website of the United States government"_. This introduces the risk of conveying a meaning opposite of the intended meaning.
 
 **Slide 43:** Next up is the solution statement. This is where you can outline the changes that the PR is proposing. It can be helpful to share what the solution is, why this approach was chosen, how you implemented the change, and possible limitations of this approach and alternatives you’ve considered. In this example, we say:
 
-Updating the aria-label gives us the ability to reduce confusion for those using screen readers without creating inconsistency in the visual presentation. 
+Updating the aria-label gives us the ability to reduce confusion for those using screen readers without creating inconsistency in the visual presentation.
 
-For more complicated pull requests, the solution statement could be a bulleted list of individual tasks with links to related commits. 
+For more complicated pull requests, the solution statement could be a bulleted list of individual tasks with links to related commits.
 
 With any approach, the goal is to make it easy for a reviewer to understand what you did.
 
@@ -198,28 +198,28 @@ In this example, we see:
 
 This component was tested on VoiceOver on Safari, Chrome, Firefox, and Edge for Mac, and on Windows Narrator.
 
-Please test on your available screen readers to confirm that the component is introduced as *"Official website of the United States Government"*.
+Please test on your available screen readers to confirm that the component is introduced as _"Official website of the United States Government"_.
 
-**Slide 45:** As we discuss reviews, it is important to highlight that how we write review comments is as important as how we write PR descriptions. Some key things to keep in mind when writing comments are to be kind, thoughtful, and don’t be afraid to make suggestions. 
-The PR review process can make or break a code base. Make sure you are giving reviewers everything they need to do their job well so that the code changes are the best they can be. 
+**Slide 45:** As we discuss reviews, it is important to highlight that how we write review comments is as important as how we write PR descriptions. Some key things to keep in mind when writing comments are to be kind, thoughtful, and don’t be afraid to make suggestions.
+The PR review process can make or break a code base. Make sure you are giving reviewers everything they need to do their job well so that the code changes are the best they can be.
 
 Now that we have completed the pull request process, it is time to talk about changelogs. And for that, I’ll pass it back to Amy.
 
-**Slide 46:** Hi, it’s Amy again. We are now at the final stop in our workflow: Changelogs. 
+**Slide 46:** Hi, it’s Amy again. We are now at the final stop in our workflow: Changelogs.
 Changelogs are a record of the notable changes made to a product. They are a new addition to USWDS – something we started adding to our site just last month. Now, every time a change is released in USWDS – or merged into our documentation site – we will make a new changelog entry.
 
-**Slide 47:** If you look through enough repos or code bases, you’ll see that changelogs can take on a range of formats. For USWDS, our aim was simple: make a helpful history – for humans.  
+**Slide 47:** If you look through enough repos or code bases, you’ll see that changelogs can take on a range of formats. For USWDS, our aim was simple: make a helpful history – for humans.
 
-**Slide 48:** Changelogs give us the ability to tell a story over time. GitHub is great for tracking changes, but if you’ve ever had to dig through a commit history, you’ll find quickly that it can be hard to tell what is meaningful. 
+**Slide 48:** Changelogs give us the ability to tell a story over time. GitHub is great for tracking changes, but if you’ve ever had to dig through a commit history, you’ll find quickly that it can be hard to tell what is meaningful.
 Changelogs allow us to highlight the things that affect you and give you the information you need to get the full story – all without leaving the site. No more hunting, digging, or knowledge of Github required!
 
 **Slide 49:** One of our top priorities was to make our changelogs easy to find, so we added them to the bottom of the pages on our documentation website. You can access them quickly by clicking the “Latest updates” link in the secondary navigation.
 
 Second, we tried to include only the items and data that would have meaning.
 
-As you can see in this example, we first include the date that the change was merged into the system. We also identify and provide a link to the related USWDS version number. The aim here is to give a timeline and create a reference for what you might have missed since you last updated. 
+As you can see in this example, we first include the date that the change was merged into the system. We also identify and provide a link to the related USWDS version number. The aim here is to give a timeline and create a reference for what you might have missed since you last updated.
 
-We’ve also tagged our changelog items with a set of labels that describe what type of content has been affected, as well as identify if the change is breaking. You’ll see that we highlighted the “Accessibility” and “Breaking” tags in yellow and red for extra attention.  
+We’ve also tagged our changelog items with a set of labels that describe what type of content has been affected, as well as identify if the change is breaking. You’ll see that we highlighted the “Accessibility” and “Breaking” tags in yellow and red for extra attention.
 
 Next, we provide a brief description of the change. You’ll notice a lot of similarities between this summary and the one found in our pull requests. That’s because when we write a good PR summary, we can reuse it in our changelogs.
 And finally, we provide a link to the related pull request so that you can easily get more information if needed.
@@ -252,9 +252,9 @@ If this mode was making some of our components virtually unusable, we needed to 
 
 The new forced-colors media query allows for responsive design, detecting if the user is using Windows High Contrast or another forced color mode. Within these media queries we can use a number of special forced-color keywords to tell the operating system how to style our component with the forced color palette.
 
-**Slide 57:** So in the end we were able to fix the radio buttons, the date picker, and 11 more components that previously broke in forced colors mode. 
+**Slide 57:** So in the end we were able to fix the radio buttons, the date picker, and 11 more components that previously broke in forced colors mode.
 
-On the left you can see the green and white radio button component with all the radio buttons visible. On the right, you can see the green and white date range picker with a visible icon and a visible selected range. 
+On the left you can see the green and white radio button component with all the radio buttons visible. On the right, you can see the green and white date range picker with a visible icon and a visible selected range.
 
 USWDS also now supports all of the new system color tokens for forced color modes, making it easier for other developers to use these styles to improve their websites when using custom theming.
 
@@ -269,7 +269,7 @@ last 2 versions
 IE 11
 not dead**
 
-Speaking of not dead, we’re still including IE11 in our Autoprefixer settings *for now*. But this will probably change next year. And when it does, we'll update USWDS Compile as well. Using USWDS Compile pretty much means not having to think about USWDS stylesheet requirements. And that can be nice.
+Speaking of not dead, we’re still including IE11 in our Autoprefixer settings _for now_. But this will probably change next year. And when it does, we'll update USWDS Compile as well. Using USWDS Compile pretty much means not having to think about USWDS stylesheet requirements. And that can be nice.
 
 **Slide 61:** Because these requirements matter. Autoprefixer settings make a difference. At the top we see an example of a banner without using autoprefixing. It has a blue rectangle instead of the usual down caret. The example on the bottom shows the proper display of the banner. This isn't just an aesthetic issue, it affects the usability of the banner.
 
@@ -283,7 +283,7 @@ Speaking of not dead, we’re still including IE11 in our Autoprefixer settings 
 
 **Slide 66:** [DEMO]
 
-So now I'd like to do a brief demo of how to use USWDS compile to create a custom icon sprite. 
+So now I'd like to do a brief demo of how to use USWDS compile to create a custom icon sprite.
 
 On the screen we have the default sprite with all USWDS icons. You can compile a smaller sprite by only pulling in the icons you plan to use.
 
@@ -293,7 +293,7 @@ In our gulpfile we’ll add two settings to customize the sprite so we only keep
 
 Now when we compile again, our sprite.svg will only have these five arrow icons.
 
-Our sprite has been slimmed down from 71KB to 4KB. A lot of the previous icons have been removed. 
+Our sprite has been slimmed down from 71KB to 4KB. A lot of the previous icons have been removed.
 
 You can use this technique to add your own project icons on top of the defaults too. Just make sure to set the projectIconsOnly flag to false, instead of true.
 
@@ -309,7 +309,7 @@ You can learn more about integrating compile in [Phase Two of the Getting Starte
 
 Component guidance
 Component compliance to section 508
-Learn about design tokens… and 
+Learn about design tokens… and
 Code and guidance changes
 
 We'll be reaching out to you, our audience, to help us get from this long list to a shorter list.
@@ -332,14 +332,14 @@ Thank you, and see you next month - in 2023!
 
 What things — small and large — made 2022 a great year for the Design System? This month, we’ll hear members of the Core Team share their favorite Design System updates from 2022. Join us as we look back at the year — you never know what you might have missed!
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)
