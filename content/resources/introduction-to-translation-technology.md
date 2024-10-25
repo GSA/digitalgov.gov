@@ -6,7 +6,7 @@ summary: What is translation technology? This introductory resource will help yo
 
 aliases:
   - /news/2012/10/automated-translation-good-solution-or-not/
-  - /news/2018/12/20/designing-for-translation/
+  - /news/2018/12/designing-for-translation/
 
 # See all topics at https://digital.gov/topics
 topics:
