@@ -5,7 +5,7 @@ deck: How and why to use translation technology to create multilingual content
 summary: What is translation technology? This introductory resource will help you understand how and when to use translation technology to provide meaningful access for people with limited English proficiency.
 
 aliases:
-  - /news/2012/10/01/automated-translation-good-solution-or-not/
+  - /news/2012/10/automated-translation-good-solution-or-not/
   - /news/2018/12/20/designing-for-translation/
 
 # See all topics at https://digital.gov/topics
