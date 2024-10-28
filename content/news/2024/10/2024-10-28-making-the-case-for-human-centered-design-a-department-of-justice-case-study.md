@@ -1,5 +1,5 @@
 ---
-date: "2024-10-28T00:00:00-05:00"
+date: 2024-10-28 00:00:00 -0500
 title: Making the case for human-centered design: A Department of Justice case study
 deck: Lessons learned from the launch of Access DOJ.
 summary: The Access DOJ initiative shares nine lessons on making services more accessible, effective, and efficient.
