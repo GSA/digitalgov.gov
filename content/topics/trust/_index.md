@@ -25,8 +25,11 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Design: Essential knowledge"
+  title: "Trust: Essential knowledge"
   resources:
+    - title: "Federal website standards"
+      href: "https://standards.digital.gov/"
+      summary: "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices."
     - title: "An introduction to trust"
       href: "https://digital.gov/resources/an-introduction-to-trust/"
       summary: "Trusted digital services meet customer expectations, and they are easy to find, understand, and use. Understand how digital services impact trust in government."
