@@ -28,7 +28,7 @@ topics:
   - multimedia
 ---
 
-[DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.
+[DigitalGov University](https://digital.gov/digitalgov-university/) (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.
 
 {{< legacy-img src="2017/04/600-x-127-DigitalGov_University.png" alt="DigitalGov University (D G U) logo" >}}
 
@@ -74,4 +74,4 @@ Lastly, we took a look at our webinar recordings and evaluated which were most v
 
 We are planning more great events for 2017 and we hope you can join us.
 
-_Federal employees:_ [_email us_](mailto:digitalgov@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form]({{< ref "/about/digitalgov-university.md" >}}) to contact the team about creating an online or in-person DGU event._
+_Federal employees:_ [_email us_](mailto:digitalgov@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form](https://digital.gov/digitalgov-university/) to contact the team about creating an online or in-person DGU event._

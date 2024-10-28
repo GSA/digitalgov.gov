@@ -41,7 +41,7 @@ When the report looked at page load speed, it took desktop and mobile page speed
 
 Performance (load time) for Web pages has become so important that [Google now considers it]({{< ref "2016-03-29-google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md" >}}) one of three equal components to good user experience, along with design and functionality, he noted.
 
-If you are looking to improve your performance, or just get a sense for how well your site is doing, [start with this article on Why Speed Matters]({{< ref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}). It explains which metrics you should be measuring for and there is a [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) video course, Speed Matters: Web Design Performance Load Time (duration: 45 minutes), that details a number of free or low-cost testing tools for measuring performance.
+If you are looking to improve your performance, or just get a sense for how well your site is doing, [start with this article on Why Speed Matters]({{< ref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}). It explains which metrics you should be measuring for and there is a [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU) video course, Speed Matters: Web Design Performance Load Time (duration: 45 minutes), that details a number of free or low-cost testing tools for measuring performance.
 
 #### Resources & Tools
 
