@@ -213,7 +213,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * The number of people on the **“Where’s my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
-  * Data! It’s what the Dashboard is all about. [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) has hosted several trainings on [analyzing data and writing meaningful reports]({{< ref "2014-10-20-metrics-round-up.md" >}})._-Kendrick Daniel, Digital Gov Team_
+  * Data! It’s what the Dashboard is all about. [DigitalGov University](https://digital.gov/digitalgov-university/) has hosted several trainings on [analyzing data and writing meaningful reports]({{< ref "2014-10-20-metrics-round-up.md" >}})._-Kendrick Daniel, Digital Gov Team_
 
 ## Noon Update
 

@@ -62,4 +62,4 @@ Helpful Training Links Cooper mentioned in his slides:
   * [Udemy Marketing Courses](https://www.udemy.com/courses/marketing/all-courses/?price=price-free&lang=en)
   * Google [Analytics](https://www.youtube.com/user/googleanalytics) and [Ventures](https://www.youtube.com/user/GoogleVentures)
 
-_Learn more about [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_
+_Learn more about [DigitalGov University](https://digital.gov/digitalgov-university/) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_
