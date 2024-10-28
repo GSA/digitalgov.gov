@@ -1,9 +1,9 @@
 ---
-source: ""
 date: 2024-10-28 00:00:00 -0500
 title: Making the case for human-centered design: A Department of Justice case study
 deck: Lessons learned from the launch of Access DOJ.
 summary: The Access DOJ initiative shares nine lessons on making services more accessible, effective, and efficient.
+
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
@@ -11,17 +11,20 @@ topics:
   - human-centered-design
   - plain-language
   - user-experience
+
 # See all authors at https://digital.gov/authors
 authors: 
   - becky-slogeris
   - kim-lopez
+
 slug: making-the-case-for-human-centered-design-a-department-of-justice-case-study
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
 
-primary_image: ""
+primary_image:
 
 ---
 Millions of people interact with services provided, funded, or overseen by the U.S. Department of Justice every day. In turn, thousands of Justice Department staff work to improve those experiences.
