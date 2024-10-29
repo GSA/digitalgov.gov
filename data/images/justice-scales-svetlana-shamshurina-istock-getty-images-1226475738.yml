@@ -1,0 +1,21 @@
+
+  # https://s3.amazonaws.com/digitalgov/justice-scales-svetlana-shamshurina-istock-getty-images-1226475738.png
+  # Image shortcode: {{< img src="justice-scales-svetlana-shamshurina-istock-getty-images-1226475738" >}}'
+  date     :  2024-10-29 13:53:13 -0400
+  uid      :  justice-scales-svetlana-shamshurina-istock-getty-images-1226475738
+  width    :  1200
+  height   :  630
+  format   :  png
+
+  # REQUIRED alternative text for accessibility.
+  # Keep within 150 characters. https://capitalizemytitle.com/character-counter/ will count characters.
+  alt      :  "Illustration of scales of justice sitting on top of law books, next to a gavel. One book reads 'Justice' on the spine."
+
+  # Caption text appears below the image; usually the attribution for stock images.
+  # Must be different from the alt text.
+  caption  :  "Svetlana Shamshurina/iStock via Getty Images"
+
+  # Credit text appears after the caption text, separated by an m-dash.
+  # Example https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/ 
+  credit   :  ""
+  
