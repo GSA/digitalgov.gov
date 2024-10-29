@@ -13,7 +13,7 @@ topics:
   - user-experience
 
 # See all authors at https://digital.gov/authors
-authors: 
+authors:
   - becky-slogeris
   - kim-lopez
 
@@ -24,12 +24,12 @@ slug: making-the-case-for-human-centered-design-a-department-of-justice-case-stu
 # 1 -- visible
 weight: 1
 
-primary_image: 
-
+primary_image:
 ---
+
 Millions of people interact with services provided, funded, or overseen by the U.S. Department of Justice every day. In turn, thousands of Justice Department staff work to improve those experiences.
 
-To support and amplify this work, the Office for Access to Justice launched [Access DOJ](https://www.justice.gov/atj/access-doj) in June 2024. This is a department-wide initiative using human-centered design to make services more accessible, effective, and efficient for the diverse communities the Justice Department serves. 
+To support and amplify this work, the Office for Access to Justice launched [Access DOJ](https://www.justice.gov/atj/access-doj) in June 2024. This is a department-wide initiative using human-centered design to make services more accessible, effective, and efficient for the diverse communities the Justice Department serves.
 
 Behind our high-profile launch event was over two years of behind-the-scenes work. While we leaned on our own expertise and guides like the [Human-centered design guide series](https://digital.gov/guides/hcd/) on Digital.gov and [Customer experience cookbook (PDF, 1,114 KB, 33 pages)](https://department.va.gov/veterans-experience/wp-content/uploads/sites/2/2024/04/customer-experience-cookbook-508-4.23.24.pdf) from the Department of Veterans Affairs, there were many things we could only learn from doing.
 
@@ -43,7 +43,7 @@ Access DOJ found a natural home in the [Office for Access to Justice](https://ww
 
 ### Lesson 2. Find your people
 
-Along the way, our team connected with many Justice Department colleagues hoping to improve their services through user research. Some were already using design and other innovative methods, and all were hungry for connections and support. Every time we met someone new, we asked them a simple question: “Who else should we talk to?” These connections became our cheerleaders and early adopters. For example, two of the staff members behind the [Civil Rights Reporting Portal](https://18f.gsa.gov/our-work/doj-crt/) redesign later joined us as close advisors to guide and shape Access DOJ. 
+Along the way, our team connected with many Justice Department colleagues hoping to improve their services through user research. Some were already using design and other innovative methods, and all were hungry for connections and support. Every time we met someone new, we asked them a simple question: “Who else should we talk to?” These connections became our cheerleaders and early adopters. For example, two of the staff members behind the [Civil Rights Reporting Portal](https://18f.gsa.gov/our-work/doj-crt/) redesign later joined us as close advisors to guide and shape Access DOJ.
 
 ### Lesson 3. Don’t try to do everything at once
 
@@ -51,7 +51,7 @@ Spreading human-centered design methods and mindsets is a marathon, not a sprint
 
 ### Lesson 4. Show, don’t tell
 
-As soon as possible, do the work. We invested early in [two demonstration projects](https://www.justice.gov/atj/access-doj/case-studies) that we can point to when we need examples of what customer experience looks like in the Justice Department . In one project, we worked with the Office of the Pardon Attorney to [redesign and simplify the application for a presidential pardon](https://www.justice.gov/atj/access-doj/case-studies/removing-barriers-applying-presidential-pardon). This collaboration showed how design can reduce burden for both the public and staff. It also modeled our chosen methods of usability testing and plain language. Finally, the demonstration projects gave us a chance to refine our approach before going live with the Access DOJ initiative. 
+As soon as possible, do the work. We invested early in [two demonstration projects](https://www.justice.gov/atj/access-doj/case-studies) that we can point to when we need examples of what customer experience looks like in the Justice Department . In one project, we worked with the Office of the Pardon Attorney to [redesign and simplify the application for a presidential pardon](https://www.justice.gov/atj/access-doj/case-studies/removing-barriers-applying-presidential-pardon). This collaboration showed how design can reduce burden for both the public and staff. It also modeled our chosen methods of usability testing and plain language. Finally, the demonstration projects gave us a chance to refine our approach before going live with the Access DOJ initiative.
 
 ### Lesson 5. Bring in reinforcements
 
@@ -61,16 +61,16 @@ We started our customer experience work at the Justice Department as a team of t
 
 We call our unique approach “Designing for Access to Justice.” It brings an access to justice lens to traditional human-centered design. Here are some examples of our approach in practice:
 
-* Start each project by analyzing the justice gaps that exist by asking what barriers exist to equal justice under law, and for whom?
-* Look to the state and local levels for inspiration. 
-** What innovation is happening in state courts? What are local jurisdictions doing to increase access?
-* Engage legal aid providers to surface common challenges faced by people without lawyers.
-* Review existing access to justice and legal design research. 
-* Bring in subject matter experts from criminal and civil policy teams.
+- Start each project by analyzing the justice gaps that exist by asking what barriers exist to equal justice under law, and for whom?
+- Look to the state and local levels for inspiration.
+  \*\* What innovation is happening in state courts? What are local jurisdictions doing to increase access?
+- Engage legal aid providers to surface common challenges faced by people without lawyers.
+- Review existing access to justice and legal design research.
+- Bring in subject matter experts from criminal and civil policy teams.
 
 In the second U.S. Trustee Program project, we worked with legal aid providers who regularly assist low-income communities with the bankruptcy process. This includes people without access to reliable phone service, internet, or computers. Their perspectives were critical to understanding [experiences with virtual bankruptcy meetings](https://www.justice.gov/atj/access-doj/case-studies/increasing-access-required-bankruptcy-meetings) and opportunities to increase access, especially for people without legal representation.
 
-{{< card-quote text="When government forms and processes are only accessible to lawyers or those who can afford them, everyone suffers and the justice gap widens. We remain committed to ensuring that every American can truly access the legal system, services, and benefits of this nation." cite="Attorney General Merrick B. Garland, 2022 Legal Aid Interagency Roundtable Report" >}}
+{{< quote-block text="When government forms and processes are only accessible to lawyers or those who can afford them, everyone suffers and the justice gap widens. We remain committed to ensuring that every American can truly access the legal system, services, and benefits of this nation." cite="Attorney General Merrick B. Garland, 2022 Legal Aid Interagency Roundtable Report" >}}
 
 ### Lesson 7. Center impact
 
@@ -82,8 +82,8 @@ We looked for opportunities to incorporate human-centered design methods and min
 
 ### Lesson 9. Ask for help
 
-There are many generous and talented people who are eager to help improve federal government services and outcomes. We received help from leaders with the Department of Homeland Security, General Services Administration, VA, Consumer Financial Protection Bureau, Department of Agriculture, U.S. Digital Service, and many other groups. We worked with colleagues from the Office of Information and Regulatory Affairs and the customer experience team in the Office of Management and Budget (OMB) on the roundtable report and subsequent efforts. Other Presidential Innovation Fellows also provided invaluable connections and insights. 
+There are many generous and talented people who are eager to help improve federal government services and outcomes. We received help from leaders with the Department of Homeland Security, General Services Administration, VA, Consumer Financial Protection Bureau, Department of Agriculture, U.S. Digital Service, and many other groups. We worked with colleagues from the Office of Information and Regulatory Affairs and the customer experience team in the Office of Management and Budget (OMB) on the roundtable report and subsequent efforts. Other Presidential Innovation Fellows also provided invaluable connections and insights.
 
-*Special thanks to the rest of the Access DOJ team (Jay DuBois and Jenny Nelson), Office for Access to Justice staff and leadership, the Lab at OPM, our project partners at the Justice Department, and everyone who has connected with us along the way.*
+_Special thanks to the rest of the Access DOJ team (Jay DuBois and Jenny Nelson), Office for Access to Justice staff and leadership, the Lab at OPM, our project partners at the Justice Department, and everyone who has connected with us along the way._
 
 ---
