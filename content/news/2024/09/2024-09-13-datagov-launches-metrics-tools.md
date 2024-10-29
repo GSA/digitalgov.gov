@@ -17,6 +17,9 @@ slug: datagov-launches-metrics-tools
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
+primary_image: "charts-graphs-bestforbet-istock-getty-images-2154975217"
+
 ---
 Data.gov is the home of the U.S. government’s open data. The site’s catalog includes metadata from more than 300,000 datasets across multiple levels of government. Until recently, however, there wasn’t a detailed way to see how the public interacted with the dataset pages by publishing organization.
 

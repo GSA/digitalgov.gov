@@ -35,7 +35,10 @@ featured_communities:
 # Curated list of content, can be internal or external links
 featured_links:
   title: "Accessibility: Essential knowledge"
-  resources:
+  resources: 
+    - title: "Federal website standards"
+      summary: "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices."
+      href: "https://standards.digital.gov"
     - title: "Section508.gov"
       summary: "This site provides guidance for federal agencies on several topics in IT accessibility, including creating accessible websites and documents, accessibility testing, accessibility training, and accessibility in contracting and procurement."
       href: "https://www.section508.gov"

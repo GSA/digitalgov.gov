@@ -17,8 +17,8 @@ topics:
   - customer-experience
 
 slug: making-targeted-improvements-to-nps-gov-a-case-study-from-the-national-park-service
-
 primary_image: "national-park-service-nps-homepage-october-2024"
+
 
 # Controls how this page appears across the site
 # 0 -- hidden

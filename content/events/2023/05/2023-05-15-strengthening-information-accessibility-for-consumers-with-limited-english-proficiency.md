@@ -7,10 +7,6 @@ summary: Tune in to learn what the Consumer Financial Protection Bureau (CFPB) i
 host: Multilingual Community of Practice and Communicators Community of Practice
 event_organizer: Digital.gov
 
-cop_events:
-  - multilingual
-  - communicators
-
 registration_url: "https://gsa.zoomgov.com/webinar/register/WN_aPfczIYrQ_KwmKQ4ZTYDoQ"
 captions: https://www.streamtext.net/player?event=BIS-GSA-5351062
 
@@ -32,7 +28,6 @@ slug: strengthening-information-accessibility-for-consumers-with-limited-english
 event_platform: zoom
 
 primary_image: "cfpb-lep-may-2023-title-card"
-
 ---
 
 {{< asset-static file="2023-05-24-strengthening-information-accessibility-slides.pptx" label="View the slides (PowerPoint presentation, 1.3 MB, 18 pages)" >}}
@@ -47,24 +42,24 @@ This event is best suited for all levels of multilingual practitioners. Those wh
 
 ## Speakers
 
-* **Carmen Cruz** - Financial Education Program Analyst, CFPB
-* **Stephanie Osan** - Product Owner and Designer, CFPB
+- **Carmen Cruz** - Financial Education Program Analyst, CFPB
+- **Stephanie Osan** - Product Owner and Designer, CFPB
 
 ## Moderators
 
-* **Fedora Braverman** - Multilingual Community Lead
-* **Laura Godfrey** - Multilingual Community Lead
+- **Fedora Braverman** - Multilingual Community Lead
+- **Laura Godfrey** - Multilingual Community Lead
 
 ## Resources
 
-* [Strengthening information accessibility for consumers with limited English proficiency](https://www.consumerfinance.gov/about-us/blog/strengthening-information-accessibility-for-consumers-limited-english-proficiency/)
-* [LEP.gov](https://www.lep.gov/)
-* [PlainLanguage.gov](https://www.plainlanguage.gov/)
-* [Top 10 best practices for multilingual websites](https://digital.gov/resources/top-10-best-practices-for-multilingual-websites/)
-* [Tips to create, maintain, and present non-English digital content](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/)
+- [Strengthening information accessibility for consumers with limited English proficiency](https://www.consumerfinance.gov/about-us/blog/strengthening-information-accessibility-for-consumers-limited-english-proficiency/)
+- [LEP.gov](https://www.lep.gov/)
+- [PlainLanguage.gov](https://www.plainlanguage.gov/)
+- [Top 10 best practices for multilingual websites](https://digital.gov/resources/top-10-best-practices-for-multilingual-websites/)
+- [Tips to create, maintain, and present non-English digital content](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/)
 
 ---
 
-*The Multilingual Community of Practice is a group of government digital professionals working to expand and improve digital content in languages other than English. [Join the Multilingual Community](https://digital.gov/communities/multilingual/)* 
+_The Multilingual Community of Practice is a group of government digital professionals working to expand and improve digital content in languages other than English. [Join the Multilingual Community](https://digital.gov/communities/multilingual/)_
 
-*The Communicators Community of Practice is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Communicators Community](https://digital.gov/communities/communicators/)*
+_The Communicators Community of Practice is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. [Join the Communicators Community](https://digital.gov/communities/communicators/)_
