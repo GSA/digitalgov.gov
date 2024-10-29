@@ -24,7 +24,8 @@ slug: making-the-case-for-human-centered-design-a-department-of-justice-case-stu
 # 1 -- visible
 weight: 1
 
-primary_image:
+primary_image: "justice-scales-svetlana-shamshurina-istock-getty-images-1226475738"
+
 ---
 
 Millions of people interact with services provided, funded, or overseen by the U.S. Department of Justice every day. In turn, thousands of Justice Department staff work to improve those experiences.
