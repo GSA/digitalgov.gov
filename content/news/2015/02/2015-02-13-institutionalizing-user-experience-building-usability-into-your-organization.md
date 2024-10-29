@@ -44,4 +44,4 @@ In the right environment, people will gravitate towards UX activities because th
 
 ## Step 4: Keep current with training
 
-{{< legacy-img src="2015/02/250-x-188-Usability-training-IMG_7259.jpg" alt="Usability training session" >}}Is there a training budget? Can you devote chunks of time or do it piecemeal? Try something new and learn by doing. You can take classes through [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) and read some books. Shadow someone on a UX team outside your organization._**Beth A. Martin** is a Usability Lead at the Federal Aviation Administration._
+{{< legacy-img src="2015/02/250-x-188-Usability-training-IMG_7259.jpg" alt="Usability training session" >}}Is there a training budget? Can you devote chunks of time or do it piecemeal? Try something new and learn by doing. You can take classes through [DigitalGov University](https://digital.gov/digitalgov-university/) and read some books. Shadow someone on a UX team outside your organization._**Beth A. Martin** is a Usability Lead at the Federal Aviation Administration._

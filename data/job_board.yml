@@ -43,17 +43,6 @@
     - Communicators
     - Web Managers
 
-- title: Program Specialist
-  department: General Services Administration
-  location: Washington DC, District of Columbia
-  description: >
-          As a Program Specialist, you will serve in the area of project and program management. You will exercise initiative in defining, organizing and conducting programmatic duties and significantly impact Federal agency initiatives, programs, procedures and operations. Location of position: GSA, Office of Government-wide Policy, Office of Shared Solutions and Performance Improvement (OSSPI), Washington, DC. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-10-17
-  close_date: 2024-10-30
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/814356100
-  cop_topics:
-    - Communicators
-
 - title: Program Analyst
   department: General Services Administration
   location: Anywhere in the U.S. (remote job)
@@ -75,19 +64,30 @@
   close_date: 2024-10-31
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/814398700
   cop_topics:
-    - Communicators
     - Web Managers
 
-- title: Public Health Advisor
-  department: Department of Health and Human Services
-  location: Atlanta, Georgia
+- title: Chief Technology Officer, AD-2210-00 (Senior Manager) (Excepted Service)
+  department: Department of Education
+  location: Washington, District of Columbia
   description: >
-          As a global leader in public health & health promotion, CDC is the agency Americans trust with their lives. In addition to our everyday work, each CDC employee has a role in supporting public health emergency management, whether through temporary assignments to emergency responses or sustaining other CDC programs and activities while colleagues respond. Join our team to use your talent, training, & passion to help CDC continue as the world's premier public health organization. Visit www.cdc.gov
-  open_date: 2024-10-22
-  close_date: 2024-10-31
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/815400700
+          The Chief Technology Officer in Federal Student Aid (FSA) will lead IT modernization efforts, cybersecurity operations, and implementation of emerging technologies to provide best-in-class customer experiences for America’s students, borrowers, and institutions of higher education. This position is a key leader at FSA, reporting to the Principal Deputy Chief Operating Officer, and is responsible for establishing vision and direction for the organization's technology portfolio.
+  open_date: 2024-10-04
+  close_date: 2024-11-03
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812747700
   cop_topics:
-    - Communicators
+    - Web Managers
+
+- title: FAFSA Program Executive Director (Supervisory IT Specialist), AD-2210-00 (Excepted Service)
+  department: Department of Education
+  location: Washington, District of Columbia
+  description: >
+          This position in Federal Student Aid will have a significant impact on postsecondary educational opportunities for more than 10 million students nationwide. This position will serve as the Executive Director of the Free Application for Federal Student Aid (FAFSA) program under the Principal Deputy Chief Operating Officer (PDCOO), is responsible for incorporating new and cutting-edge technology to modernize the financial aid process, and will be a key leader in FSA’s overall modernization.
+  open_date: 2024-10-04
+  close_date: 2024-11-03
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812746200
+  cop_topics:
+    - Web Managers
+
 
 
 
