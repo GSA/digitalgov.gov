@@ -3,7 +3,7 @@
 source_url: https://18f.gsa.gov/2024/10/21/18f-folks/
 source: 18f
 date: 2024-10-21 00:00:00 -0500
-title: 18F Folks Adopting a new illustration library
+title: "18F Folks: Adopting a new illustration library"
 deck: 18F adopted a new illustration style, 18F Folks, to better represent the
   broad spectrum of human experiences. Moving away from simple bust portraits,
   this updated style captures more complex emotions and human interactions,
