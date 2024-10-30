@@ -13,9 +13,9 @@
 
   # Caption text appears below the image; usually the attribution for stock images.
   # Must be different from the alt text.
-  caption  :  ""
+  caption  :  "Whale Design/iStock via Getty Images"
 
   # Credit text appears after the caption text, separated by an m-dash.
   # Example https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/ 
-  credit   :  ""
+  credit   :  "Two silhouettes face each other, comparing quantitative and qualitative research terms."
   
