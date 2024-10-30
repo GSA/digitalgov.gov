@@ -10,7 +10,7 @@ deck: "Stakeholder and User Interview Checklist"
 summary: "Key interview moments and how to navigate them."
 
 # originally published at the following URL
-source_url: "https://methods.18f.gov/interview-checklist/"
+source_url: "https://guides.18f.gov/ux-guide/interview-checklist/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
