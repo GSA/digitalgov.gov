@@ -1,22 +1,31 @@
 ---
-source: ""
+
 date: 2024-10-30 00:00:00 -0500
-title: Enhancing the customer-centricity of GSA websites
-deck: How to assess wildly different websites in a consistent way
-summary: An overview of GSA’s website evaluation process, which combines
-  qualitative and quantitative data to assess website management and
-  performance.
+title: "Enhancing the customer-centricity of GSA websites"
+deck: "How to assess wildly different websites in a consistent way"
+summary: "An overview of GSA’s website evaluation process, which combines qualitative and quantitative data to assess website management and performance."
+
+# see all authors at https://digital.gov/authors
+authors:
+  - behati-hart
+
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
   - usability
+  - customer-experience
+
 slug: enhancing-the-customer-centricity-of-gsa-websites
+
 primary_image: quantitative-qualitative-data-research-whale-design-istock-getty-images-1533625139
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 ## Designing an evaluation process
 
 The public evaluates our mission and services primarily through online interactions. In 2021, GSA’s Service Design program in the Office of Customer Experience launched a strategy to enhance our customers' digital experience. Building upon our [case study on composite indicators](https://digital.gov/2024/04/16/determining-the-true-value-of-a-website-a-gsa-case-study/), we asked ourselves: How do we define compliance? How do we measure it in a consistent way? This led us to a critical prompt: How do we get these wildly different websites to behave in ways customers expect, while aligning to federal policy and law? 
