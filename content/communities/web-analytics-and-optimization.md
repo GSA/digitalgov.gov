@@ -24,8 +24,7 @@ aliases:
 authors:
   - tlowden
 
-event_cop:
-  - web-analytics
+event_cop: web-analytics
 
 # Controls how this page appears across the site
 # 0 -- hidden
