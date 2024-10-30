@@ -52,7 +52,7 @@ There are some common terms teams will need to understand when using GitHub. The
 - **Pull Request (PR)** &mdash; a request for changes made to a branch to be pulled into another branch. Allows multiple users to see, discuss and review work being suggested.
 - **Merge** &mdash; after a pull request is approved, the commit will be pulled in (or merged) from one branch to another and then, deployed on the live site
 - **Issues** &mdash; allow users to report issues or bugs and track progress of assigning the fix for the issues.
-- **[Federalist](https://federalist.18f.gov/features/)** &mdash; a platform that securely deploys a website from a GitHub repository in minutes and lets users preview proposed and published changes.
+- **Federalist** &mdash; a platform that securely deploys a website from a GitHub repository in minutes and lets users preview proposed and published changes.
 - **Projects** &mdash; allows you to use GitHub for project management and tracking a set of issues, either for a specific repo or an entire org
 - **Wiki** &mdash; a section of a repo made for hosting documentation. Documentation may be in the repo’s README files instead.
 
