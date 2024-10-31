@@ -17,7 +17,7 @@ topics:
 
 slug: enhancing-the-customer-centricity-of-gsa-websites
 
-primary_image: quantitative-qualitative-data-research-whale-design-istock-getty-images-1533625139
+primary_image: "quantitative-qualitative-research-data-whale-design-istock-getty-images-1533625139"
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -40,7 +40,7 @@ Customer-centricity, also known as the understanding of customer needs and expec
 
 The index uses qualitative and quantitative measures to determine whether sites are well-managed, and meet customer needs and agency mission. Our team leveraged a series of free, accessible digital analytics tools to evaluate the quantitative side. We also met with every website team in GSA to gather qualitative customer-centricity data. 
 
-{{< img src="quantitative-qualitative-data-research-whale-design-istock-getty-images-1533625139" >}}
+{{< img src="quantitative-qualitative-research-data-whale-design-istock-getty-images-1533625139" >}}
 
 The *qualitative* component of the index uses [human-centered design](https://digital.gov/guides/hcd/) interviews that have been compiled into evaluation documents. These evaluations identify such things as opportunities for additional coaching, sites that are not properly resourced to meet customer needs, and candidates for website modernization or decommissioning. We assessed each web team's ability to identify their primary audience, site purpose, whether they used repeatable customer feedback mechanisms, and whether they took action based on customer feedback. Additionally, we evaluated whether teams possessed the necessary skills to improve their websites, and whether they used robust methodologies (in addition to Digital Analytics Program data) to measure the impact of these improvements.
 
@@ -79,6 +79,6 @@ You can also join the [Digital.gov Web Analytics Community of Practice](https://
 If you work at a U.S. federal government agency, and would like to learn more about this work, reach out to GSA’s Service Design team at [customerexperience@gsa.gov](mailto:customerexperience@gsa.gov).
 {{< /box >}}
 
-- - -
+---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
