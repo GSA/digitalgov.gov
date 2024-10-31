@@ -8,6 +8,7 @@
 
 
 
+
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -30,30 +31,6 @@
   cop_topics:
     - Communicators
     - Plain Language
-
-- title: Content Developer
-  department: Legislative Branch
-  location: Washington DC, District of Columbia
-  description: >
-          Since 1789, the Office of the Clerk has served as the official record keeper of the U.S. House of Representatives and proudly supports the nonpartisan legislative functions of the institution. The Office of Communications serves all divisions of the Office of the Clerk and other nonpartisan House partners with a wide range of print and digital publications, an innovative approach to problem solving, and exceptional customer service.
-  open_date: 2024-09-18
-  close_date: 2024-10-31
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/810320600
-  cop_topics:
-    - Communicators
-    - Web Managers
-
-- title: Program Analyst
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          As a Program Analyst, you will apply modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible. Location of position: FAS, TTS The office is responsible to build, provide, and share technology applications, platforms, processes, personnel, and software solutions with federal agencies to help them better serve the public. We are filling multiple vacancies, but additional vacancies may be filled as needed.
-  open_date: 2024-10-21
-  close_date: 2024-10-30
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/814817400
-  cop_topics:
-    - Web Analytics
-    - Web Managers
 
 - title: Deputy Associate Administrator for Communications and Marketing
   department: General Services Administration
@@ -88,7 +65,61 @@
   cop_topics:
     - Web Managers
 
+- title: Management and Program Analyst
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          As a Management and Program Analyst, you will apply analytical ability, judgment, discretion, and expert knowledge of TTS policies, principles, concepts to managing audits, records management, and Freedom of Information Act for TTS. Location of position: FAS, TTS The office is responsible to provide oversight of TTS' consolidated management functions including strategic planning, performance management, governance, risk management, internal controls, and compliance program activities.
+  open_date: 2024-10-29
+  close_date: 2024-11-07
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/815399800
+  cop_topics:
+    - Web Managers
 
+- title: IT Specialist
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). As an IT Specialist, you’ll provide expert technical advice during IT projects, and engage with customer agencies, the public, and GSA management and staff to define opportunities for new or improved business processes, solutions, practices, products, services or strategies based on customer/user needs.
+  open_date: 2024-10-31
+  close_date: 2024-11-06
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816604300
+  cop_topics:
+    - Web Analytics
+
+- title: Supervisory Data Scientist
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          As a Supervisory Data Scientist, you will train and support early-career staff performing data science functions with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Location of position: General Services Administration, Technology Transformation Services (TTS), U.S. Digital Corps (USDC) Division. We are currently filling one vacancy, but additional vacancies may be filled as needed.
+  open_date: 2024-10-31
+  close_date: 2024-11-06
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816248400
+  cop_topics:
+    - Web Analytics
+
+- title: Information Technology Specialist (SYSANALYSIS)
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          As a Information Technology Specialist (SYSANALYSIS), you will serve as senior IT expert and authoritative technical advisor within TTS. Engages with customer agencies to perform needs analyses to define opportunities for new or improved business processes, solutions, practices, products, services or strategies based on user needs. Location: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS).
+  open_date: 2024-10-31
+  close_date: 2024-11-06
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816248000
+  cop_topics:
+    - Web Analytics
+
+- title: IT Specialist (APPSW/INFOSEC)
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
+  description: >
+          This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). As an IT Specialist (APPSW/INFOSEC), Agency Title: Senior Staff Software Engineer, you will serve as a senior IT expert software engineer and applications developer, foster collaborative relationships with clients and stakeholders, and partner with internal teams to develop a trustworthy and informative end-to-end customer experience.
+  open_date: 2024-10-31
+  close_date: 2024-11-06
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816611100
+  cop_topics:
+    - Web Analytics
+    - Web Managers
 
 
 
