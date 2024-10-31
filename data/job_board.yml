@@ -85,7 +85,9 @@
   close_date: 2024-11-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816604300
   cop_topics:
+    - User Experience
     - Web Analytics
+    - Web Managers
 
 - title: Supervisory Data Scientist
   department: General Services Administration
@@ -107,7 +109,9 @@
   close_date: 2024-11-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816248000
   cop_topics:
+    - User Experience
     - Web Analytics
+    - Web Managers
 
 - title: IT Specialist (APPSW/INFOSEC)
   department: General Services Administration
