@@ -7,7 +7,6 @@ summary: "Join us as we take a deep dive into USWDS design tokens. We’ll cover
   needs."
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdOitrTIjG0pADR0k0Ij_xeiSBknpJyE
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
 date: 2023-02-16 14:00:00 -0500
@@ -29,33 +28,32 @@ youtube_title: "Using USWDS design tokens (2023)"
 
 Join us as we take a deep dive into USWDS design tokens. What are they? How are they used? How can they be adapted to agencies’ branding needs?
 
-In this session, you’ll learn how to: 
+In this session, you’ll learn how to:
 
-* Get started with tokens
-* Set your own custom values
-* Make accessible choices
-
+- Get started with tokens
+- Set your own custom values
+- Make accessible choices
 
 **This event is best suited for:** Designers of all levels and skill sets plus front-end developers.
 
 ## Speakers
 
-* **Dan Williams -** Product Lead, USWDS
-* **James Mejia -** Engineer, USWDS Contractor
-* **Amy Leadem -** Front-End Developer, USWDS Contractor
+- **Dan Williams -** Product Lead, USWDS
+- **James Mejia -** Engineer, USWDS Contractor
+- **Amy Leadem -** Front-End Developer, USWDS Contractor
 
 ## Related Resources
-* [https://designsystem.digital.gov/design-tokens/](https://designsystem.digital.gov/design-tokens/)
 
+- [https://designsystem.digital.gov/design-tokens/](https://designsystem.digital.gov/design-tokens/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@support.digitalgov.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@support.digitalgov.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

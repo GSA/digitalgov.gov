@@ -388,10 +388,11 @@ collections:
         widget: "string"
         default: "Digital.gov"
       - label: "Event Related CoP"
-        name: "cop_events"
+        name: "event_cop"
         widget: "select"
         options:
           [
+            "contact-center",
             "communicators",
             "multilingual",
             "plain-language",
@@ -402,7 +403,7 @@ collections:
           ]
         collection: "events"
         default: ""
-        multiple: true
+        multiple: false
         required: false
         hint: "Associate any Community of Practices with the event"
       - label: "Registration URL"

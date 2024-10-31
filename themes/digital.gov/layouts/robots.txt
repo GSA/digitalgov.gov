@@ -4,3 +4,5 @@ User-agent: *
 {{- else -}}
 Disallow: /
 {{ end }}
+
+Sitemap: https://www.digital.gov/sitemap.xml
