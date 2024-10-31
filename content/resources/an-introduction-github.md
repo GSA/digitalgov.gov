@@ -24,14 +24,14 @@ weight: 2
 ---
 
 {{< note >}}
-In this first training video, Content Strategy and Design Specialist for GSA’s Technology Transformation Services (TTS), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content.
+In this first training video, Content Strategy and Design Specialist for GSA’s [Technology Transformation Services (TTS)](https://tts.gsa.gov/), Malaika Carpenter, breaks down how to use GitHub into easy, practical steps and demonstrates ways to use this tool to create, manage and publish website content.
 {{< /note >}}
 
-{{< youtube id="lZD7_kmc_zs" title="Using Github for content creation" >}}
+{{< youtube id="lZD7_kmc_zs" title="Using GitHub for content creation" >}}
 
 ## What is GitHub?
 
-[GitHub](https://github.com/) is a web-based interface that uses [Git](https://git-scm.com/), the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
+[GitHub](https://www.github.com/) is a web-based interface that uses [Git](https://www.git-scm.com/), the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
 
 ## How can GitHub help my team and me?
 
@@ -52,7 +52,7 @@ There are some common terms teams will need to understand when using GitHub. The
 - **Pull Request (PR)** &mdash; a request for changes made to a branch to be pulled into another branch. Allows multiple users to see, discuss and review work being suggested.
 - **Merge** &mdash; after a pull request is approved, the commit will be pulled in (or merged) from one branch to another and then, deployed on the live site
 - **Issues** &mdash; allow users to report issues or bugs and track progress of assigning the fix for the issues.
-- **Federalist** &mdash; a platform that securely deploys a website from a GitHub repository in minutes and lets users preview proposed and published changes.
+- **[Cloud.gov Pages (formerly Federalist)](https://cloud.gov/pages/features/)** &mdash; a platform that securely deploys a website from a GitHub repository in minutes, and lets users preview proposed and published changes.
 - **Projects** &mdash; allows you to use GitHub for project management and tracking a set of issues, either for a specific repo or an entire org
 - **Wiki** &mdash; a section of a repo made for hosting documentation. Documentation may be in the repo’s README files instead.
 
