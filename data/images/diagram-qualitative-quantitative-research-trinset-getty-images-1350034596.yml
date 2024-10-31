@@ -1,0 +1,21 @@
+
+  # https://s3.amazonaws.com/digitalgov/diagram-qualitative-quantitative-research-trinset-getty-images-1350034596.png
+  # Image shortcode: {{< img src="diagram-qualitative-quantitative-research-trinset-getty-images-1350034596" >}}'
+  date     :  2024-10-30 22:06:25 -0400
+  uid      :  diagram-qualitative-quantitative-research-trinset-getty-images-1350034596
+  width    :  1200
+  height   :  630
+  format   :  png
+
+  # REQUIRED alternative text for accessibility.
+  # Keep within 150 characters. https://capitalizemytitle.com/character-counter/ will count characters.
+  alt      :  "Diagram explains the difference between qualitative and quantitative research design with examples of: purpose, data type, approach, and analysis."
+
+  # Caption text appears below the image; usually the attribution for stock images.
+  # Must be different from the alt text.
+  caption  :  "Trinset/iStock via Getty Images"
+
+  # Credit text appears after the caption text, separated by an m-dash.
+  # Example https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/ 
+  credit   :  ""
+  
