@@ -68,7 +68,7 @@ We want to hear from you! We use feedback from community members and the public 
 
 ### Open Opportunities
 
-We occasionally post short, recurring tasks on the Open Opportunities platform. Each task takes about 8 hours. Browse all Digital.gov tasks to find one that is a good fit for you.
+We occasionally post short, recurring tasks on the Open Opportunities platform. Each task takes about 8 hours. [Browse all Digital.gov tasks](https://openopps.usajobs.gov/search?state=open&state=in%20progress&term=digital.gov&page=1) to find one that is a good fit for you.
 
 ---
 
