@@ -1,21 +1,28 @@
 ---
-source: ""
 date: 2024-11-01 00:00:00 -0500
-title: Tips for building a small, scrappy digital team
-summary: Explore hiring strategies, how to leverage contractors, and creative
-  approaches for building your digital team.
+title: "Tips for building a small, scrappy digital team"
+summary: "Explore hiring strategies, how to leverage contractors, and creative approaches for building your digital team."
+
+authors:
+  - frances-carden
+
 # See all topics at https://digital.gov/topics
 topics:
   - best-practices
   - product-and-project-management
   - professional-development
+
 slug: tips-for-building-a-small-scrappy-digital-team
-primary_image: 10x-areas-of-focus
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 ## Making it work
 
 Agencies with small, scrappy teams can implement big changes. How? Cross-functional, tightly-knit, and nimble teams can be a driving force. 
