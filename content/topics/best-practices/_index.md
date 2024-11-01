@@ -41,7 +41,7 @@ featured_links:
     - title: "Use the U.S. Web Design System Maturity Model"
       summary: "Understand how to adopt the design system incrementally and build better digital experiences."
       href: "https://designsystem.digital.gov/maturity-model/?_gl=1*n82411*_ga*MTc4OTg2MTQwOC4xNjk0NjI4NTAy*_ga_HBYXWFP794*MTcyNjYwMTkyNy4xNjcuMS4xNzI2NjAyNzc4LjAuMC4w"
-      - title: "Understanding the Digital Analytics Program"
+    - title: "Understanding the Digital Analytics Program"
       summary: "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies. All public-facing federal websites can participate."
       href: "https://digital.gov/guides/dap/"
 ---
