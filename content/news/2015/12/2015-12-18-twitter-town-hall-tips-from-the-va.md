@@ -47,7 +47,7 @@ If you’ve advertised well and picked a topic that matters to your audience, an
 
 ## What about Follow-up?
 
-Our tech gurus do a great Storify recap that can stay on our website or be sent out through social media for people to view the Q&A. This gives you a chance to reach out to other audiences with the same information.
+Our tech experts do a great Storify recap that can stay on our website or be sent out through social media for people to view the Q&A. This gives you a chance to reach out to other audiences with the same information.
 
 I was surprised to find little information online about the how-tos of Twitter Town Halls, so please feel free to comment here with your own lessons learned.
 
