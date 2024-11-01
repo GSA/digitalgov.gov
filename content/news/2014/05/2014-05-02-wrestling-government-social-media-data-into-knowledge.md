@@ -29,7 +29,7 @@ She defines the three terms as follows:
 
 In other words, data and information are useless without context. We&#8217;ve already proven that it&#8217;s possible to take the best data and information from our community and transform it into usable knowledge. The SocialGov Community, for example, is busy perfecting toolkits in priority areas which soon will be released on Github:
 
-  * We’ve seen The Social Media Accessibility Working Group, spearheaded by the **Department of Labor’s Office of Disability Employment Policy**, lead the charge for accessibility in social media for citizens with disabilities with a soon-to-be-updated [**Federal Social Media Accessibility toolkit**]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}}).
+  * We’ve seen The Social Media Accessibility Working Group, spearheaded by the **Department of Labor’s Office of Disability Employment Policy**, lead the charge for accessibility in social media for citizens with disabilities with a soon-to-be-updated [**Federal Social Media Accessibility toolkit**](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/).
 
   * According to **Justin Herman of GSA**, “Social media in government requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.” We developed the first [**Federal Social Media Performance Analysis toolkit**]({{< ref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}) so we can do just that.
 

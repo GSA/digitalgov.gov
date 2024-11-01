@@ -39,4 +39,5 @@ Here’s our step-by-step guide for improving Snapchat accessibility.
 You can check out our Snapchat stories in real-time on Snapchat (our username is USAGov or follow using the snapcode below) or you can watch our [more accessible versions on YouTube](https://www.youtube.com/watch?v=zogckVOaWJk&list=PLrcvzEeHM66sPsgTJSWdRx5zpKuGB-IhB).
 
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Jessica Milcetich, who manages social media for USAGov._
-_Read about [Improving the Accessibility of Social Media in Government]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}}) and the [Federal Social Media Accessibility Toolkit]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}})._
+
+_Read about [Improving the Accessibility of Social Media in Government]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}}) and the [Federal Social Media Accessibility Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)._
