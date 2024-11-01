@@ -18,8 +18,7 @@ authors:
 topics:
   - social-media
 
-event_cop:
-  - social-media
+event_cop: social-media
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

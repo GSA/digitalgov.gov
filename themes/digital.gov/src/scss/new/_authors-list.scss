@@ -4,10 +4,6 @@
 
 // authors landing override
 .authors {
-  .authors-list .author {
-    border-top: 1px color("gray-10") solid;
-  }
-
   .author__name {
     @include u-font("sans", "xs");
     @include u-line-height("sans", 1);
