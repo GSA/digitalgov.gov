@@ -6,9 +6,9 @@ slug: "innovation"
 
 # Topic Title
 title: "Innovation"
+deck: "New ideas and methods for improving federal programs and services"
 
-# description — keep it short and clear
-summary: ""
+summary: "Technology is always evolving. Exploring the latest developments and trends in digital service delivery helps practitioners find new ways to create outstanding digital experiences for users."
 
 aliases:
   - /topics/pif/
@@ -17,6 +17,27 @@ aliases:
 # Weight
 weight: 2
 
-# For more information on managing topics,
-# see https://github.com/GSA/digitalgov.gov/wiki
+# Set the legislation card title and link
+legislation:
+  title: "Open data policy (Memo M-13-13)"
+  link: "https://digital.gov/resources/open-data-policy-m-13-13/"
+
+# Featured community to display at the top of the page
+featured_communities:
+  - "innovation-adoption"
+  - "web-content-managers"
+
+# Curated list of content, can be internal or external links
+featured_links:
+  title: "Innovation: Essential knowledge"
+  resources: 
+    - title: "Supporting innovation through the American Rescue Plan"
+      summary: "Explore a case study on using ARP funding as a catalyst for long-term resilience"
+      href: "https://digital.gov/2024/08/01/supporting-innovation-through-the-american-rescue-plan/"
+    - title: "Presidential Innovation Fellows"
+      summary: "Get an overview of a program embedding seasoned technologists and innovators within federal agencies."
+      href: "https://presidentialinnovationfellows.gov/"
+    - title: "Prioritizing equity in government-led innovation programs"
+      summary: "Learn how the Census Open Innovation Labs team supports the next generation of technologists and designers."
+      href: "https://digital.gov/2021/10/25/prioritizing-equity-in-government-led-innovation-programs/"
 ---
