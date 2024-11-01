@@ -25,7 +25,7 @@ Bottom line: social media in government isn&#8217;t just about using digital eng
 
 New resources, which take the collaborative model for ePolicy and eRegulations and expands it, include:
 
-  * The new **[Federal Social Media Accessibility toolkit]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}})**, updated by the **Department of Labor Office of Disability Employment Policy**. Originally a product of eight agencies working together to provide guidance on better ensuring, it is now offered for open collaboration on **Hackpad** as well as a static webpage for more accessible viewing.
+  * The new [**Federal Social Media Accessibility toolkit**](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/), updated by the **Department of Labor Office of Disability Employment Policy**. Originally a product of eight agencies working together to provide guidance on better ensuring, it is now offered for open collaboration on **Hackpad** as well as a static webpage for more accessible viewing.
   * The new **Federal Social Media Policy Development toolkit**, a resource launched by a 20-agency working group to identify and provide customizable examples of key provisions found in government social media policies, or ones needed to drive positive change in the coming years &#8212; also on Hackpad for open collaboration.
   * The **[Federal Social Media Performance Analytics toolkit]({{< ref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}})**, a resource launched by a 12-agency working group to identify the metrics and reporting methodologies important or unique to public services &#8212; also, for the first time, open for public contribution.
 
