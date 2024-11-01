@@ -22,7 +22,7 @@ authors:
 
 - Read more [Accessibility related articles]({{< ref "/topics/accessibility" >}}) on DigitalGov
 - [Using Section 508 to Improve the Accessibility of Government Services]({{< ref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
-- [Federal Social Media Accessibility Toolkit]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}})
+- [Federal Social Media Accessibility Toolkit](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
 
 ---
 
