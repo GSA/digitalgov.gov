@@ -11,8 +11,15 @@ deck: "Cutting-edge technologies can improve the delivery of public services"
 summary: "The federal government monitors new technologies, especially those with great potential to change how the public lives and works. Adopting new technologies responsibly can improve the efficiency and quality of government services."
 
 aliases:
-  - /topics/resource/
-  - /topics/whats-new/
+  - /topics/darpa/
+  - /topics/3d-printing/
+  - /topics/augmented-reality/
+  - /topics/blockchain/
+  - /topics/internet-of-things/
+  - /topics/iot/
+  - /topics/the-data-briefing/
+  - /topics/trends-on-tuesday/
+  - /topics/zero-ui/
 
 # Weight
 weight: 2
