@@ -14,11 +14,25 @@ enableEmoji: true
 enableGitInfo: true
 buildFuture: true
 
-ignoreFiles:
-  - "^_template"
-  - "content/_tmp/*"
-  - "content/uploads/_inbox"
-  - "content/_archived/*"
+module:
+  mounts:
+    - source: content
+      target: content
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+    # Mount S3 bucket content as a global resource
+    - source: content/uploads/s3
+      target: assets/s3
 
 sitemap:
   changefreq: "daily"
@@ -46,8 +60,6 @@ outputs:
   page: ["HTML", "JSON"]
   term: ["HTML", "RSS", "JSON"]
 
-# Goldmark is from Hugo 0.60 the default library used for Markdown.
-# Deprecated blackfriday was removed in https://github.com/GSA/digitalgov.gov/issues/5089
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -92,7 +104,6 @@ permalinks:
   events: "event/:year/:month/:day/:slug/"
 
 # Related Posts Config
-# See: https://gohugo.io/content-management/related/#default-configuration
 related:
   threshold: 100
   includeNewer: true
