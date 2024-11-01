@@ -2,7 +2,7 @@
 slug: trends-on-tuesday-distracted-walking
 date: 2014-02-18 9:50:07 -0400
 title: 'Trends on Tuesday: Distracted Walking'
-summary: 'Piggybacking on one of my earlier posts, People are Crazy about Mobile, I’m going to talk about &#8220;Distracted Walking.&#8221; Who among us hasn&#8217;t walked and texted or checked Facebook or Twitter on our smartphones, but have bumped into someone or something while texting on your smartphone? I'
+summary: 'Piggybacking on one of my earlier posts, People are Excited about Mobile, I’m going to talk about &#8220;Distracted Walking.&#8221; Who among us hasn&#8217;t walked and texted or checked Facebook or Twitter on our smartphones, but have bumped into someone or something while texting on your smartphone? I'
 authors:
   - lisa-wilcox
 topics:
@@ -12,7 +12,7 @@ topics:
   - emerging-tech
 ---
 
-[{{< legacy-img src="2013/06/hands-holding-smartphone-450x300.jpg" alt="Hands holding and using a smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/hands-holding-smartphone.jpg)Piggybacking on one of my earlier posts, [People are Crazy about Mobile]({{< ref "2013-08-13-trends-on-tuesday-people-are-crazy-about-mobile.md" >}} "Trends on Tuesday: People Are Crazy about Mobile!"), I’m going to talk about &#8220;Distracted Walking.&#8221; Who among us hasn&#8217;t walked and texted or checked Facebook or Twitter on our smartphones, but have bumped into someone or something while texting on your smartphone? I know I am guilty of that.
+[{{< legacy-img src="2013/06/hands-holding-smartphone-450x300.jpg" alt="Hands holding and using a smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/hands-holding-smartphone.jpg)Piggybacking on one of my earlier posts, [People are Excited about Mobile]({{< ref "2013-08-13-trends-on-tuesday-people-are-excited-about-mobile.md" >}} "Trends on Tuesday: People Are Excited about Mobile!"), I’m going to talk about &#8220;Distracted Walking.&#8221; Who among us hasn&#8217;t walked and texted or checked Facebook or Twitter on our smartphones, but have bumped into someone or something while texting on your smartphone? I know I am guilty of that.
 
 Maybe you&#8217;ve seen this [viral video of a woman who, distracted by Facebook on her phone](http://www.youtube.com/watch?v=bGpVpsaItpU), fell into a fountain. Pew Research recently published an article on ‘[Distracted Walking](http://www.pewresearch.org/fact-tank/2014/01/02/more-than-half-of-cell-owners-affected-by-distracted-walking/).’ In the article, they stated 53% of all adult cellphone owners have been on the giving or receiving end of a distracted walking encounter. Check out the [Twitter replies to Pew’s article](https://twitter.com/pewinternet/status/418775359690375168).
 
