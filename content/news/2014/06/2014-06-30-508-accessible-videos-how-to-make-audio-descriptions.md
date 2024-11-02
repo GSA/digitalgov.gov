@@ -1,8 +1,8 @@
 ---
 slug: 508-accessible-videos-how-to-make-audio-descriptions
 date: 2014-06-30 10:00:33 -0400
-title: '508 Accessible Videos &#8211; How to Make Audio Descriptions'
-summary: ' What are Audio Descriptions? Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information. Audio Description makes videos and multimedia accessible to people who have &#8220;low vision&#8221; (very poor vision), or who are blind, by capturing what'
+title: "508 Accessible Videos &#8211; How to Make Audio Descriptions"
+summary: "An audio description is an additional audio track that describes and gives context for essential visual information, making videos and multimedia accessible to people who have low vision (very poor vision), or who are blind."
 authors:
   - jonathan-rubin
   - ryan-leisinger
@@ -42,7 +42,7 @@ There are a three ways to add audio descriptions to your videos:
 
 **2. Make another video**—Many video players don&#8217;t support the option to turn audio descriptions on and off, so some groups (including [AccessIT](https://www.washington.edu/doit/programs/accessit#:~:text=The%20National%20Center%20on%20Accessible,everyone%2C%20including%20people%20with%20disabilities) suggest that you create two versions of your video: one with audio descriptions and one without. You will need to make a copy of your finished video, delete the audio track, and add a new one, in which the describer’s audio-description of the visual information is integrated with the original audio track.
 
-Now you will have two videos—your initial one without audio descriptions and a second with Audio Descriptions mixed in the main audio track. You can post these videos with labels such as &#8220;Video with audio descriptions&#8221; and &#8220;Video without audio descriptions.&#8221; NASA, for example, posts [transcript files next to each video](https://www.nasa.gov/podcasts/).
+Now you will have two videos—your initial one without audio descriptions, and a second with audio descriptions mixed in the main audio track. You can post these videos with labels such as &#8220;Video with audio descriptions&#8221; and &#8220;Video without audio descriptions.&#8221;
 
 **3. Add an extra audio track**—In this option, your video can have more than one audio track attached to it, and the user can choose which one to play. It’s only available if your video player supports adding extra audio tracks. Most online video and multimedia players don&#8217;t support extra audio tracks. However, multimedia players that support extra tracks are currently under development.
 
@@ -53,4 +53,6 @@ You can add an extra audio track in two steps:
 
 A user can choose between the normal default audio track and the audio description audio track.
 
-Examples of extra audio tracks: [Art Beyond Sight](http://www.artbeyondsight.org/handbook/acs-verbalsamples.shtml), [Police Respond to People with Disabilities](http://www.ada.gov/policevideo/policebroadbandgallery.htm) and [Vocal Eye](https://soundcloud.com/vocaleye)._Note: YouTube doesn&#8217;t support extra audio tracks. Therefore, you will either need to use another video player that supports audio descriptions or post two versions of the video—one with audio descriptions (and closed captioning), and the other with just the closed captioning._
+Examples of extra audio tracks: [Art Beyond Sight](http://www.artbeyondsight.org/handbook/acs-verbalsamples.shtml), [Police Respond to People with Disabilities](http://www.ada.gov/policevideo/policebroadbandgallery.htm) and [Vocal Eye](https://soundcloud.com/vocaleye).
+
+_Note: YouTube doesn&#8217;t support extra audio tracks. Therefore, you will either need to use another video player that supports audio descriptions or post two versions of the video; one with audio descriptions (and closed captioning), and the other with just the closed captioning._
