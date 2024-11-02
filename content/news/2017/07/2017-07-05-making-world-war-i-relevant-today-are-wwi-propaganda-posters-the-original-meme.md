@@ -15,7 +15,7 @@ Merriam-Webster officially defines a meme as “an idea, behavior, style, or usa
 
 {{< img src="WWI-Back-our-Girls-Over-There" alt="A World War I poster shows an illustration of a woman working at a switchboard with the the text, Back our girls over there below her. The YMCA logo is on the right, and the text, United War Work Campaign, is along the bottom." >}}
 
-Maybe this argument sounds crazy to you, or maybe it makes perfect sense. Either way, it gives us a starting place for a conversation. It allows me to take a historic element from World War I and make it relevant today.
+Maybe this argument sounds odd to you, or maybe it makes perfect sense. Either way, it gives us a starting place for a conversation. It allows me to take a historic element from World War I and make it relevant today.
 
 To get the general American public interested in historic topics, we need to think about creative ways we can make connections to our agency missions and the world we live in today. We, the [American Battle Monuments Commission](http://www.abmc.gov), recently hosted a Facebook Live chat where we examined WWI posters that helped shape public opinion on the war.
 

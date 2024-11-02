@@ -56,7 +56,7 @@ To help kids use your directory:
 Young children are literal. They are learning to tell fact from fiction, and are on the lookout for what they think are tricks. For example:
 
   * Do not use sarcasm. Kids can’t judge beyond the words because they don’t have enough experience evaluating tone or meaning, and they’ll interpret as fact.
-  * Do not use silly or dumb characters to convey true facts. Kids are alert to tricks and will not trust your silly characters. Consider “Sesame Street” as an example of what works: on this show, the human adult characters tell the silly monsters the right way to do things.
+  * Do not use silly characters to convey true facts. Kids are alert to tricks and will not trust your silly characters. Consider “Sesame Street” as an example of what works: on this show, the human adult characters tell the silly monsters the right way to do things.
   * Use icons that match the ideas you’re trying to convey. Kids are put off by wrong icons and won’t trust your page.
 
 ## References and Additional Resources
