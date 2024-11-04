@@ -5,7 +5,7 @@
 slug: "best-practices"
 
 # Topic Title
-title: "Best Practices"
+title: "Best practices"
 deck: "Ideas and resources for delivering better digital experiences"
 
 summary: "Best practices can help jumpstart digital service delivery efforts. Agencies and teams across the federal government frequently share resources, case studies, and learnings that other practitioners can put into practice. Using best practices contributes to less guesswork and streamlined, consistent experiences for users."
@@ -39,7 +39,7 @@ featured_links:
       href: "https://standards.digital.gov/"
     - title: "Use the U.S. Web Design System Maturity Model"
       summary: "Understand how to adopt the design system incrementally and build better digital experiences."
-      href: "https://designsystem.digital.gov/maturity-model/?_gl=1*n82411*_ga*MTc4OTg2MTQwOC4xNjk0NjI4NTAy*_ga_HBYXWFP794*MTcyNjYwMTkyNy4xNjcuMS4xNzI2NjAyNzc4LjAuMC4w"
+      href: "https://designsystem.digital.gov/maturity-model/"
     - title: "Understanding the Digital Analytics Program"
       summary: "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies. All public-facing federal websites can participate."
       href: "https://digital.gov/guides/dap/"
