@@ -1,10 +1,12 @@
 ---
-source: ""
 date: 2024-11-04 00:00:00 -0500
-title: Youve launched, now what Planning for the future of your content
-summary: Creating quality digital content is not a one-time endeavor. Explore
-  these approaches to managing and improving excellent digital content over
-  time.
+title: "You've launched, now what? Planning for the future of your content"
+summary: "Creating quality digital content is not a one-time endeavor. Explore these approaches to managing and improving excellent digital content over time."
+
+# See all authors at https://digital.gov/authors
+authors:
+  - frances-carden
+
 # See all topics at https://digital.gov/topics
 topics:
   - product-and-project-management
@@ -13,13 +15,17 @@ topics:
   - digital-service-delivery
   - user-centered-design
   - content-strategy
+
 slug: youve-launched-now-what-planning-for-the-future-of-your-content
-primary_image: 10x-areas-of-focus
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Creating quality digital content is not a one-time endeavor. Once you’ve published content, you must then manage it over time. Sometimes management means making changes or enhancements. Other times, it means retiring legacy content or migrating content to another website, where it will be managed by another team. Regardless of the method, ongoing management keeps digital content relevant, accessible, and up to date.
 
 Most content will go through several launches over time. You’ll want to refresh, restructure, and update designs as you review metrics and receive feedback; continuously enhance usability; and potentially update technology platforms. You’ll also want to incorporate lessons learned.
@@ -54,12 +60,12 @@ Share successes and lessons learned internally and externally throughout the pos
 
 You can share what you learned with other teams by joining [Digital.gov communities of practice](https://digital.gov/communities/) and engaging in conversations with other federal practitioners.
 
-{{< note >}} 
-This blog post was inspired by the final session of the Spring 2024 Digital.gov Community Summit: Delivering a digital-first public experience, which focused on standing up a digital team and the topics that relate to the successful creation and inspiration of that team. These topics included the kind of skill sets to look for, hiring strategies, how to leverage contractors, how to use creative approaches to get started, and how to effectively implement requirements for delivering a digital-first public experience.
+{{< note >}}This blog post was inspired by the final session of the Spring 2024 Digital.gov Community Summit: Delivering a digital-first public experience, which focused on standing up a digital team and the topics that relate to the successful creation and inspiration of that team. These topics included the kind of skill sets to look for, hiring strategies, how to leverage contractors, how to use creative approaches to get started, and how to effectively implement requirements for delivering a digital-first public experience.
 
-* **This session’s panelists included:**
-  Session moderator, **Jessica Marine**, Product Manager and Digital Experience Lead for the General Services Administration (GSA)
+**This session’s panelists included:**
+
+* Session moderator, **Jessica Marine**, Product Manager and Digital Experience Lead for the General Services Administration (GSA)
 * **Gloria Huang**, Digital Engagement and Analytics Branch Chief for the Federal Emergency Management Agency (FEMA)
 * **Michael Horton**, Accessible Design and Development Advisor with GSA
 * **Tori Garten**, Chief of the New Media and Web Policy Grant at the National Institute of Allergy and Infectious Diseases (NIAID)
-  {{< /note >}}
+{{< /note >}}
