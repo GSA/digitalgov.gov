@@ -4,7 +4,7 @@
 
 url: /services/u-s-digital-registry/
 
-expirydate: "2024-10-03"
+redirectto: https://touchpoints.app.cloud.gov/registry
 
 aliases:
   - /services/social-media-registry/
