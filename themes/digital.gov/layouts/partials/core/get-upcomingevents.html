@@ -10,9 +10,11 @@
 
 {{ range $upcoming_events }}
   {{/* Turn the slice of []strings into a string format for comparison */}}
-  {{ $tags = delimit .Params.event_cop ", " " " }}
-  {{ if strings.Contains $tags $community }}
-    {{ $hasEvents = true }}
+  {{ if .Params.event_cop }}
+    {{ $tags = delimit .Params.event_cop ", " " " }}
+    {{ if strings.Contains $tags $community }}
+      {{ $hasEvents = true }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
@@ -22,14 +24,16 @@
     <ul>
       {{ range $upcoming_events }}
         {{/* Displays an event if event has same community name */}}
-        {{ $tags = delimit .Params.event_cop ", " " " }}
-        {{ if strings.Contains $tags $community }}
-          <li>
-            <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"
-              >{{ .Title | markdownify }}
-            </a>
-            ({{ dateFormat "01/02/2006" .Params.date }})
-          </li>
+        {{ if .Params.event_cop }}
+          {{ $tags = delimit .Params.event_cop ", " " " }}
+          {{ if strings.Contains $tags $community }}
+            <li>
+              <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"
+                >{{ .Title | markdownify }}
+              </a>
+              ({{ dateFormat "01/02/2006" .Params.date }})
+            </li>
+          {{ end }}
         {{ end }}
       {{ end }}
     </ul>

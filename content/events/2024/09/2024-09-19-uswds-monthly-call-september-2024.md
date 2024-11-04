@@ -19,6 +19,8 @@ slug: uswds-monthly-call-september-2024
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: E826mR1B6_Y
+youtube_title: "The landscape of Web Components"
 
 primary_image: 2024-uswds-monthly-call-sep-title-card
 ---
