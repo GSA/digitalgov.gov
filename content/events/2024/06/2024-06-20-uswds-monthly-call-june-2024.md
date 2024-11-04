@@ -5,7 +5,6 @@ kicker: USWDS
 summary: The U.S. Web Design System team will give an update on their work developing web components for the design system.
 host: U.S. Web Design System
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIscOyqrzsiHVsXeh0NaL14v3VGCFcbRgM
 date: 2024-06-20 14:00:00 -0500
 end_date: 2024-06-20 15:00:00 -0500
@@ -21,7 +20,6 @@ event_platform: zoom
 primary_image: 2024-uswds-monthly-call-june-title-card
 youtube_id: yBCLyWO0yCo
 youtube_title: "A first look at working prototypes of U.S. Web Design System web components"
-
 ---
 
 {{< asset-static file="uswds-monthly-call-june-2024.pptx" label="View the slides (Powerpoint presentation, 3 MB, 33 slides)">}}
@@ -100,7 +98,7 @@ The **most successful tasks** were finding examples of other sites that use USWD
 
 It’s also hard for people to find the full showcase list of sites that use USWDS and there’s room to improve how to present that list, as well.
 
-**Slide 16:** If we had to boil it down to one top takeaway from this study, it’s that **the way we name things doesn’t always match user expectations**. Participants often didn't intuitively understand the top-level navigation and weren’t sure what to expect in each category. 
+**Slide 16:** If we had to boil it down to one top takeaway from this study, it’s that **the way we name things doesn’t always match user expectations**. Participants often didn't intuitively understand the top-level navigation and weren’t sure what to expect in each category.
 
 **Slide 17:** So, we have some actionable insights and clear next steps to help make some of these Top Tasks easier for folks. We'll be getting new issues on our project board, and working on prioritizing some solutions. Some of these solutions are closer to low-hanging fruit, like increasing the prominence of design kit files, or adding better component synonyms on the component filter page.
 
@@ -138,7 +136,7 @@ Matt: First, by way of disclaimer, I should say that — as Dan mentioned — ev
 
 This is going to be sort of a re-introduction to USWDS so let's go back to basics with the USWDS tutorial project that you might recognize from some of these monthly calls. I'm going to start with a clean install of the tutorial so you can see everything I'll need to do to get something working. You may have gone through this tutorial before, so it may be familiar.
 
-Now just to prove there's nothing up my sleeve, here's a clean git status on the main branch of the tutorial. We originally developed this tutorial to walk through installing the design system and a couple components on a site that doesn't use USWDS. So not only does this fresh install not have USWDS on it already, but it's a great way for us to show how we might install a Web Components–based version of USWDS. 
+Now just to prove there's nothing up my sleeve, here's a clean git status on the main branch of the tutorial. We originally developed this tutorial to walk through installing the design system and a couple components on a site that doesn't use USWDS. So not only does this fresh install not have USWDS on it already, but it's a great way for us to show how we might install a Web Components–based version of USWDS.
 
 The first task the tutorial wants you to take on is adding the banner. This is the component you've probably worked with many many times that tells users that they're on an official government site, so it's a good place to start! Now let's get going and install the banner component.
 `# in uswds-tutorial project npm link @uswds-next/usa-banner`
@@ -159,22 +157,22 @@ Now I’m going to go ahead and spin up the 11ty dev server. But now that we've 
 `<script type="module" src="assets/usa-banner.js"></script>
 <usa-banner></usa-banner>`
 
-That's literally it. And the only reason we even needed to touch the eleventy configuration is because we installed a local copy of the component, so we needed to get that code out of the `node_modules` and into the website itself. 
+That's literally it. And the only reason we even needed to touch the eleventy configuration is because we installed a local copy of the component, so we needed to get that code out of the `node_modules` and into the website itself.
 
 If we were using a cloud-hosted version of the component, we wouldn't even need to do that, and all we would need to do is add the script tag and we could use the `<usa-banner>` tag straight away.
 
 Now let's see what we get out of the box:
 
-* The banner toggle just works.
-* CSS is included.
-* All of the images are part of the build.
+- The banner toggle just works.
+- CSS is included.
+- All of the images are part of the build.
 
 Let's jump back over to the tutorial project to see what we _didn't_ have to do to get this working. We _didn't_:
 
-* Install `@uswds/compile`
-* Configure gulp
-* Mess with theme settings
-* Touch any image paths
+- Install `@uswds/compile`
+- Configure gulp
+- Mess with theme settings
+- Touch any image paths
 
 This is all done at build time when we bundled the package.
 
@@ -187,7 +185,7 @@ _Simple!_ Now just to prove that this is just a plain-old HTML element, let's go
 
 `const banner = document.querySelector('usa-banner')`
 
-See how we can grab the banner element with the same DOM API methods you use to do anything else with HTML. `toggle` is just a method on the `UsaBanner` class, and it's part of the public API for that class, so you can call it yourself programmatically if you need to, like so: 
+See how we can grab the banner element with the same DOM API methods you use to do anything else with HTML. `toggle` is just a method on the `UsaBanner` class, and it's part of the public API for that class, so you can call it yourself programmatically if you need to, like so:
 
 `banner.toggle()`
 
@@ -235,9 +233,9 @@ So you might think you'd be able to just write some CSS like this:
     }
   </style>`
 
-Alas, this doesn't work. And the reason it doesn't work is this `#shadow-root` thing. That link in there is part of what's called the Shadow DOM. 
+Alas, this doesn't work. And the reason it doesn't work is this `#shadow-root` thing. That link in there is part of what's called the Shadow DOM.
 
-In a nutshell, Shadow DOM is just markup that the component writes. You can contrast shadow DOM with Light DOM, which is the markup you write. But what's important here is that styles from outside of the shadow DOM don't apply inside of it. A lot of the time, this is what we want! This provides a layer of encapsulation that protects your component from being styled by whatever styles happen to match it on whatever page your component ends up on. 
+In a nutshell, Shadow DOM is just markup that the component writes. You can contrast shadow DOM with Light DOM, which is the markup you write. But what's important here is that styles from outside of the shadow DOM don't apply inside of it. A lot of the time, this is what we want! This provides a layer of encapsulation that protects your component from being styled by whatever styles happen to match it on whatever page your component ends up on.
 
 But it also means that styling components is just a little bit trickier than you're used to. Fortunately, there are a couple of ways for styles to make their way into the shadow DOM. One of those is with CSS custom properties, or CSS variables. Unlike most CSS properties, the values of CSS variables do cascade into the Shadow DOM. So anything we set in a CSS variable will be available for our component to use.
 
@@ -267,7 +265,7 @@ Let’s modify the lang field to `es` and watch the component change to the Span
 
 Next, let’s checkout the Custom Aria label story.
 
-It’s hard to see here, but the `label` setting allows us to update the Banner’s aria label. This is useful when we’re using the custom content variant, which uses slots. If we were using a different language outside of English or Spanish, we can update the aria label to match the new language. 
+It’s hard to see here, but the `label` setting allows us to update the Banner’s aria label. This is useful when we’re using the custom content variant, which uses slots. If we were using a different language outside of English or Spanish, we can update the aria label to match the new language.
 
 If we click on the Custom Content Banner variant we’ll see even more controls.
 
@@ -305,32 +303,32 @@ Join the U.S. Web Design System (USWDS) team to see their progress toward develo
 
 In this online session with the USWDS team, you will:
 
-* See examples of working USWDS web components
-* Learn how the USWDS team built these components
-* Understand the design principles supporting this work
-* Find out what's coming next for USWDS web components
+- See examples of working USWDS web components
+- Learn how the USWDS team built these components
+- Understand the design principles supporting this work
+- Find out what's coming next for USWDS web components
 
 **This event is best suited for:** Design system users of all levels. This will be a technical discussion geared toward developers, but anyone can attend; it requires no specialized knowledge.
 
 **Speakers**
 
-* **Dan Williams** - Product Lead, USWDS
-* **Matt Henry** - Engineering Lead, USWDS
-* **James Mejia** - Developer, USWDS contractor
+- **Dan Williams** - Product Lead, USWDS
+- **Matt Henry** - Engineering Lead, USWDS
+- **James Mejia** - Developer, USWDS contractor
 
 ## Join our Communities of Practice
 
-* [USWDS](https://designsystem.digital.gov/about/community/)
-* [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
+- [USWDS](https://designsystem.digital.gov/about/community/)
+- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
-*This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
+_This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
 ## About the USWDS
 
 [The U.S. Web Design System](https://designsystem.digital.gov/) is a toolkit of principles, guidance, and code to help government teams design and build accessible, mobile-friendly websites backed by user research and modern best practices.
 
-* [The U.S. Web Design System](https://designsystem.digital.gov/)
-* [Contribute on GitHub](https://github.com/uswds/uswds/issues)
-* [Email Us](mailto:uswds@gsa.gov)
-* [Join our community](https://digital.gov/communities/uswds/)
-* [Follow @uswds on Twitter](https://twitter.com/uswds)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds/issues)
+- [Email Us](mailto:uswds@gsa.gov)
+- [Join our community](https://digital.gov/communities/uswds/)
+- [Follow @uswds on Twitter](https://twitter.com/uswds)

@@ -24,9 +24,9 @@ This Toolkit is your guide to **_Improving the Accessibility of Social Media for
 
 ## Who Developed This Toolkit?
 
-**_Improving the Accessibility of Social Media for Public Service_** is brought to you by the U.S. Department of Labor&#8217;s [Office of Disability Employment Policy (ODEP)](http://www.dol.gov/odep/), the U.S. General Services Administration’s [Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729) and the Social Media Accessibility Working Group, a committee within the [Federal Social Media Community of Practice](http://www.howto.gov/communities/federal-web-managers-council/social-media). Working together, these entities have aimed to curate and share best practices to help agencies ensure their social media content is accessible to everyone, including users with disabilities. Efforts are also being made to work with social media platform and tool developers, citizens and partners to encourage greater accessibility.
+**_Improving the Accessibility of Social Media for Public Service_** is brought to you by the U.S. Department of Labor&#8217;s [Office of Disability Employment Policy (ODEP)](http://www.dol.gov/odep/), the U.S. General Services Administration’s [Technology Transformation Services](https://tts.gsa.gov/) and the Social Media Accessibility Working Group, a committee within the [Federal Social Media Community of Practice](https://digital.gov/communities/social-media/). Working together, these entities have aimed to curate and share best practices to help agencies ensure their social media content is accessible to everyone, including users with disabilities. Efforts are also being made to work with social media platform and tool developers, citizens and partners to encourage greater accessibility.
 
-The genesis of this Toolkit is a collaborative document that originated at the [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)[Summit on Accessibility](http://blog.howto.gov/2012/11/30/socialgov-summit-highlights-accessibility-challenges/), which is a product of eight agencies: U.S. Geological Survey, Environmental Protection Agency, Department of Labor, Department of Transportation, National Oceanic and Atmospheric Administration, National Cancer Institute, National Human Genome Research Institute and the General Services Administration. Also included is input from “[Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media),” by Dr. Scott Hollier, Western Australia Manager for Media Access Australia (MAA) and member of the Advisory Committee of the World Wide Web Consortium (W3C).
+The genesis of this Toolkit is a collaborative document that originated at the [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)[Summit on Accessibility](https://digital.gov/2012/11/30/socialgov-summit-highlights-accessibility-challenges/), which is a product of eight agencies: U.S. Geological Survey, Environmental Protection Agency, Department of Labor, Department of Transportation, National Oceanic and Atmospheric Administration, National Cancer Institute, National Human Genome Research Institute and the General Services Administration. Also included is input from “[Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media),” by Dr. Scott Hollier, Western Australia Manager for Media Access Australia (MAA) and member of the Advisory Committee of the World Wide Web Consortium (W3C).
 
 ## Why Is The Accessibility of Social Media So Important?
 
@@ -81,7 +81,8 @@ Below is a set of recommended, baseline strategies to improve the accessibility 
 
 1. The federal government is full of acronyms. Don’t assume your audience is knowledgeable about all acronyms. Take advantage of the space Facebook provides and always spell out the first instance of the acronym and add the acronym, in parentheses after (e.g., Social Media Emergency Management (SMEM)). This is especially helpful for those using screen readers, because after the name is heard and the acronym is spelled out, the user will be better able to associate the sound of the acronym with the full name.
 2. Add captions to photos to ensure that individuals will understand what is going on in the picture. The captions do not need to be very long, but they should describe what the scene is, and how elements of the image appear and provide context for the image.
-3. Videos posted directly to Facebook should be closed captioned. This can be done by adding a SubRip file to the video after it is posted. For step-by-step instruction on captioning Facebook videos, please visit <http://www.reelseo.com/how-to-add-closed-captions-facebook-videos/>.
+3. Videos posted directly to Facebook should be closed captioned. This can be done by adding a SubRip file to the video after it is posted. For step-by-step instruction on captioning Facebook videos, please visit [Add captions to your Page's video on Facebook
+](https://www.facebook.com/help/509746615868430/).
 4. As an alternative to directly uploading videos to Facebook, upload videos to YouTube and post the link to the video in a status update. Since YouTube automatic captioning can be inaccurate, prepare an accurate transcript and upload it whenever possible. This will ensure that visitors will be taken to an accessible video with captioning.
 
 Facebook has an Accessibility Team that is dedicated to issues specific to accessibility and assistive technology. They can be reached through their [Facebook page](http://www.facebook.com/help/141636465971794) and their [Twitter account](https://twitter.com/fbaccess).
@@ -97,7 +98,7 @@ Facebook has an Accessibility Team that is dedicated to issues specific to acces
 6. Enable the setting on Twitter to use the “image description” feature, which will allow you to to add a descriptive caption to any photo that you directly include in a tweet. For step-by-step instructions on enabling the image description feature on the web and on iOS and Android mobile apps, please visit <https://support.twitter.com/articles/20174660>.
 7. If you are linking to content that your agency has not created and/or you do not know whether that content is accessible or not, make sure your audience is aware of these limitations. Simply provide a note briefly explaining the limitation, such as that: the photo is untagged; the video will auto start; the video does not include captioning; or the audio file is not accompanied by a written transcript. Also provide contact information should the individual require some kind of alternative method to access the content.
 8. Try to use camel case for multiple words within a hashtag; that is, capitalize the first letters of compound words. It makes it easier visually and for screen readers to pronounce the individual words more clearly (e.g., use [#DigitalGov](https://hackpad.com/ep/search/?q=%23DigitalGov&via=xWKKBxzGubh) instead of [#digitalgov](https://hackpad.com/ep/search/?q=%23digitalgov&via=xWKKBxzGubh)).
-9. Provide recaps of Twitter Chats. For example, the U.S. Department of Labor provided a detailed recap of its Twitter [#VetsJobChat](https://hackpad.com/ep/search/?q=%23VetsJobChat&via=xWKKBxzGubh) through a post on its [(Work in Progress) blog](http://social.dol.gov/blog/a-recap-of-the-vetsjobschat-round-2/). [Storify.com](https://storify.com/) is a popular web platform that allows users to compile tweets on a particular topic or hashtag.
+9. Provide recaps of Twitter Chats. For example, the U.S. Department of Labor provided a detailed recap of its Twitter [#VetsJobChat](https://hackpad.com/ep/search/?q=%23VetsJobChat&via=xWKKBxzGubh). [Storify.com](https://storify.me/) is a popular web platform that allows users to compile tweets on a particular topic or hashtag.
 
 ### Tips for Making Snapchat More Accessible
 
@@ -137,12 +138,6 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 3. Use camel case for multiple words within a hashtag if you include any in the caption.
 4. Avoid using acronyms in captions when possible, and always explain what the acronyms mean if you do use them.
 
-### Tips for Making Vine Posts Accessible
-
-1. Upon uploading a video clip, add a transcript to cover spoken and visual action to Vine&#8217;s “description” field.
-2. Remember that in addition to including captioning for individuals who are deaf or hard of hearing, information that is conveyed visually needs to include descriptive text readable by screen readers for individuals who are blind or who have low or limited vision.
-3. Alternatively, Vine videos can be embedded in a website where they can be captioned and described. Closed-caption can be embedded Vine video on your website using a tool like the [JW Player](https://support.jwplayer.com/).
-
 ### Tips for Making Blogs Accessible
 
 1. Choose a blog template that has few columns and a simple layout. The layout should be consistent across all pages of the blog so as not to confuse users. The blog’s design should have enough color contrast between the background and the font for ease of reading. Avoid using colors that clash and try to avoid using green, blue and yellow too close together. Black text on a white background is preferred.
@@ -168,8 +163,6 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 ### Resources recommended by the Community of Practice:
 
 - [Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media) (Australia)
-
-- [Emergency 2.0 Wiki Accessibility Toolkit](http://emergency20wiki.org/wiki/index.php/Accessibility_Toolkit) (Australia)
 
 - [Queen University’s Accessibility Hub](http://www.queensu.ca/accessibility/how-info/social-media-accessibility) (Canada)
 
@@ -197,7 +190,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 - [DigitalGov YouTube Channel](https://www.youtube.com/@DigitalGov)
 
-- [DigitalGov University On-Demand Training]({{< ref "/about/digitalgov-university.md" >}})
+- [DigitalGov University On-Demand Training](https://digital.gov/digitalgov-university/)
 
 ### Other Web resources
 
@@ -215,7 +208,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< ref "2016-03-29-usagovs-step-
 
 - [WAVE Accessibility Testing](http://wave.webaim.org/)
 
-- [Ask JAN SNAP Tool](http://askjan.org/bulletins/SNAPTool.htm)
+- [Ask JAN SNAP Tool](https://askjan.org/topics/upload/SNAPTool.xls)
 
 - [W3 Web Accessibility Initiative](http://www.w3.org/WAI/)
 

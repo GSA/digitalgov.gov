@@ -48,6 +48,9 @@ featured_communities:
 featured_links:
   title: "Design: Essential knowledge"
   resources:
+    - title: "Federal website standards"
+      summary: "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices."
+      href: "https://standards.digital.gov/"
     - title: "An introduction to design"
       summary: "How to design government websites that meet customer needs, work well on any device, and follow federal web requirements."
       href: "https://digital.gov/resources/an-introduction-to-design/"
