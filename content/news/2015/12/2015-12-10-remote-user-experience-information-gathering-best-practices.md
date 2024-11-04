@@ -31,7 +31,7 @@ One thing that is very important to work into your approach is that anyone using
 
 Keep your questions simple at first, and then build complexity—you don’t want to scare users off. Knowing who your users are will help you to come up with specific questions relevant to **them**&mdash;this can be helpful, especially with language questions. Remember: one size will NOT fit all—finding a local or regional contact is really helpful in terms of prep, as well as helping to fine-tune wording. Remember to stay flexible.
 
-Keep wording very basic and unambiguous, both for the people you are trying to contact and your clients. Every question asked should have a goal. If you are dealing with multiple languages, [automatic translations are often poor]({{< ref "2012-10-01-automated-translation-good-solution-or-not.md" >}}) at best, offensive at worst–know who you are trying to reach.
+Keep wording very basic and unambiguous, both for the people you are trying to contact and your clients. Every question asked should have a goal. If you are dealing with multiple languages, [automatic translations are often poor](https://digital.gov/resources/introduction-to-translation-technology/) at best, offensive at worst–know who you are trying to reach.
 
 Keep in mind that talking to your users, in the environment they are accessing your information, is the only real deal—presenting remotely-gathered information should always make this clear. It can help you identify risk, as well as help to justify travel/access requests. Of course, travel may not be an option and access can be a challenge (privacy, etc.), but remote evaluation can be very helpful.
 
