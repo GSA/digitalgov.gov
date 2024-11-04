@@ -5,7 +5,7 @@
 slug: video-production
 date: 2016-07-08 1:19:06 -0400
 title: 'Video Production Pros'
-summary: 'Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government.'
+summary: 'Video Production Pros brings together passionate storytellers, artists, social media experts, strategists, and video production experts from across the U.S. government.'
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
@@ -40,7 +40,7 @@ community_list:
 ---
 ## Who We Are
 
-Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government. We share leading trends, best practices, latest projects, feedback, techniques, and strategies to help our respective agencies connect with people through the power of video.
+Video Production Pros brings together passionate storytellers, artists, social media experts, strategists, and video production experts from across the U.S. government. We share leading trends, best practices, latest projects, feedback, techniques, and strategies to help our respective agencies connect with people through the power of video.
 
 ## What We Do
 
