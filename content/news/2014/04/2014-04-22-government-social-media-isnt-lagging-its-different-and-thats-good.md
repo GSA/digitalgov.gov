@@ -1,8 +1,8 @@
 ---
 slug: government-social-media-isnt-lagging-its-different-and-thats-good
 date: 2014-04-22 16:30:34 -0400
-title: 'Government Social Media Isn’t Lagging, It’s Different: And That’s Good'
-summary: ' Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs. It’s common to hear that government social media lags behind'
+title: "Government Social Media Isn’t Lagging, It’s Different: And That’s Good"
+summary: "Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs."
 authors:
   - jherman
 topics:
@@ -28,7 +28,7 @@ Social media for government is rightfully different from social media for the pr
 
 The differences between social media as a _public relations_ tool and as _public services_ tool do not stop there. Many companies seek to increase sales and brand likeability, are free to use whatever tools they may want to experiment with, and can manage their programs with analysis to &#8220;target influencers.&#8221;
 
-Federal agencies are less concerned with increasing likeability than increasing effectiveness of their programs &#8212; citizens like a government that works when they need it, but generally aren&#8217;t interested in fandom. The &#8220;targeting of influencers&#8221; is restricted by the **Privacy Act of 1974** in order to protect personally identifiable information, and agencies can only use free tools that adopt a <a href="{{< ref "negotiated-terms-of-service-agreements.md" >}}" target="_blank">legal Terms of Service for public use</a> &#8212; a process that can take days or months depending on the platform provider.
+Federal agencies are less concerned with increasing likeability than increasing effectiveness of their programs &#8212; citizens like a government that works when they need it, but generally aren&#8217;t interested in fandom. The &#8220;targeting of influencers&#8221; is restricted by the **Privacy Act of 1974** in order to protect personally identifiable information, and agencies can only use free tools that adopt a [legal Terms of Service for public use](https://digital.gov/resources/negotiated-terms-of-service-agreements/) &#8212; a process that can take days or months depending on the platform provider.
 
 Also, while private sector social media managers can allocate funds for promotional posts, many government agencies cannot &#8212; and if they are focusing on the right performance metrics and mission goals they shouldn&#8217;t need to. While federal programs like recruitment and awareness campaigns traditionally rely upon and benefit from promotional campaigns, citizens may not expect agencies to advertise in order for them to find official information on student loans or health care.
 
@@ -42,14 +42,14 @@ According to **Christopher Lagan**, Chief of Social Media for the **U.S. Coast G
 
 While changes to the Facebook news feed, for example, can mean improvements in how companies use the tool, they serve as a reminder to government social media managers to kick the tires of their programs and ensure that their goals address the needs of the mission and not the perceptions of what advertisers think we should be.
 
-In the next three months, the <a href="{{< ref "communities/social-media.md" >}}" target="_blank"><strong>Federal SocialGov Community</strong></a> is developing three new government social media toolkits for public comment and improvement on **Github** that agencies can use to improve their programs by standards important to public services:
+In the next three months, the [**Federal SocialGov Community**](https://digital.gov/communities/social-media/) is developing three new government social media toolkits for public comment and improvement on **Github** that agencies can use to improve their programs by standards important to public services:
 
   * The first **Federal Social Media Policy Development toolkit**, a product of a 20-agency working group that will help offices better evaluate and improve their governance policies
-  * The second version of the [**Social Media Accessibility toolkit**]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}}), updated by the **Department of Labor Office of Disability Employment Policy**
-  * The next phase of the<a href="{{< ref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}" target="_blank"><strong> Social Media Performance Analysis Recommendations</strong></a>, based on the **Digital Analytics Program** authorized by the **White House Digital Government Strategy**.
+  * The second version of the [**Social Media Accessibility toolkit**](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/), updated by the **Department of Labor Office of Disability Employment Policy**
+  * The next phase of the [**Social Media Performance Analysis Recommendations**](https://digital.gov/2013/04/19/social-media-metrics-for-federal-agencies/), based on the **Digital Analytics Program** authorized by the **White House Digital Government Strategy**.
 
-We need to do a better job communicating our unique needs and perspectives too &#8212; which is why we&#8217;re recruiting two <a href="http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/" target="_blank">Knowledge Managers through the Open Opportunities program</a> to track, curate and report the trends, ideas and issues facing social media in government.
+We need to do a better job communicating our unique needs and perspectives too &#8212; which is why we&#8217;re recruiting two [Knowledge Managers through the Open Opportunities program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/) to track, curate and report the trends, ideas and issues facing social media in government.
 
-We also look forward to more education programs with tools like **Facebook**, and challenge companies to use our **<a href="{{< tmp "events/3000-and-counting-verifying-federal-social-media-accounts" >}}">Federal Social Media Registry</a>** to verify accounts and help ensure that citizens don’t have to guess what information is real.
+We also look forward to more education programs with tools like **Facebook**, and challenge companies to use our [**Federal Social Media Registry**](https://digital.gov/services/social-media-registry/) to verify accounts and help ensure that citizens don’t have to guess what information is real.
 
 How do you think government agencies can best use social media? We look forward to hearing your ideas.

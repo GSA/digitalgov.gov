@@ -1,7 +1,7 @@
 ---
-slug: plain-language-ninja
+slug: plain-language-expert
 date: 2013-09-26 8:24:42 -0400
-title: Plain Language Ninja
+title: Plain Language Expert
 summary: 'A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division. So I scooted my chair over and looked at it. Then I looked at him and asked, &ldquo;But what'
 authors:
   - katherine-spivey
@@ -28,7 +28,7 @@ He wanted to tell me about the pilot study; I didn’t want to hear about the pi
 
 I wanted the results.
 
-So I took the mouse and went through my ninja routine, honed by about 20 years of plain language editing..
+So I took the mouse and went through my routine, honed by about 20 years of plain language editing..
 
 So my first step was to separate all the sentences so I could see them distinctly.
 
@@ -36,15 +36,13 @@ Then I deleted the pilot study sentences.
 
 Then I moved the last two sentences to the top.
 
-[{{< legacy-img src="2013/09/600-x-202-Plain-Language-Ninja-example.jpg" alt="Highlighted text is not essential content." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/932-x-314-Plain-Language-Ninja-example.jpg)
-
 Then I connected two sentences, took out three prepositional phrases, and changed all “Divisions” to “We.”
 
 I moved the screen over to my coworker. “How’s that?” I asked.
 
 His eyes were bugged out in surprise. “How did you do that so quickly?” he said.
 
-> You too can be a plain language ninja.
+> You too can be a plain language expert.
 
 Here’s what you do:
 
