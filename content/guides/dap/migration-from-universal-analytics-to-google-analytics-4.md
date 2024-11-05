@@ -8,6 +8,8 @@ primary_image: guide-dap
 aliases:
   - /services/dap/guidelines-for-sharing-dap-data/
   - /guide/dap/guidelines-for-sharing-dap-data/
+
+expirydate: "2024-10-22"
 ---
 
 On July 1, 2024, the Digital Analytics Program (DAP) will replace Universal Analytics (UA) with Google Analytics 4 (GA4).
