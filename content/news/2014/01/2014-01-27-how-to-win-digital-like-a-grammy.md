@@ -2,14 +2,14 @@
 slug: how-to-win-digital-like-a-grammy
 date: 2014-01-27 15:32:08 -0400
 title: How to Win Digital Like a Grammy
-summary: 'Digital Marketing Evangelist and analytics guru Avinash Kaushik recently published a fascinating article on Six Visual Solutions To Complex Digital Marketing/Analytics Challenges. The article is especially relevant to government organizations, because it talks about the importance of dynamic vs. static content. Government agencies tend'
+summary: 'Digital Marketing Evangelist and analytics expert Avinash Kaushik recently published a fascinating article on Six Visual Solutions To Complex Digital Marketing/Analytics Challenges. The article is especially relevant to government organizations, because it talks about the importance of dynamic vs. static content. Government agencies tend'
 authors:
   - rflagg
 topics:
   - product-and-project-management
 ---
 
-[{{< legacy-img src="2014/02/Digital-Content-Venn-Diagram.jpg" alt="Venn diagram highlighting what your digital content should include." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Digital-Content-Venn-Diagram.jpg)Digital Marketing Evangelist and analytics guru Avinash Kaushik recently published a fascinating article on [Six Visual Solutions To Complex Digital Marketing/Analytics Challenges](http://www.kaushik.net/avinash/six-visual-digital-marketing-analytics-strategic-solutions/). The article is especially relevant to government organizations, because it talks about the importance of dynamic vs. static content. Government agencies tend to have a LOT of static content on our websites&#8230; but once someone has read an article on your site, will they ever come back? How can we draw in new readers, and re-engage past visitors to return? How can we bring new life to older, evergreen content?
+[{{< legacy-img src="2014/02/Digital-Content-Venn-Diagram.jpg" alt="Venn diagram highlighting what your digital content should include." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Digital-Content-Venn-Diagram.jpg)Digital Marketing Evangelist and analytics expert Avinash Kaushik recently published a fascinating article on [Six Visual Solutions To Complex Digital Marketing/Analytics Challenges](http://www.kaushik.net/avinash/six-visual-digital-marketing-analytics-strategic-solutions/). The article is especially relevant to government organizations, because it talks about the importance of dynamic vs. static content. Government agencies tend to have a LOT of static content on our websites&#8230; but once someone has read an article on your site, will they ever come back? How can we draw in new readers, and re-engage past visitors to return? How can we bring new life to older, evergreen content?
 
 Dynamic content, such as blog posts, how-to videos, or case studies, can help. It gives you opportunities to reach new readers, highlight relevant older content in new ways, and engage with your audience to bring them back to your site again and again. Another huge bonus is that search engines tend to favor new content &#8212; so even if your evergreen content is great, it can lose its search ranking if you don’t update and refresh it over time.
 
