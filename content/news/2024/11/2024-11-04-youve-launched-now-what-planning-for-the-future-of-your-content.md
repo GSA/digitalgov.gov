@@ -17,7 +17,7 @@ topics:
   - content-strategy
 
 slug: youve-launched-now-what-planning-for-the-future-of-your-content
-primary_image: 
+primary_image: "jack-russell-puppy-at-laptop-eva-blanco-istock-getty-images-1217036838-crop"
 
 # Controls how this page appears across the site
 # 0 -- hidden

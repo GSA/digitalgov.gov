@@ -14,7 +14,7 @@ topics:
 
 slug: tips-for-building-a-small-scrappy-digital-team
 
-primary_image: 
+primary_image: "small-team-of-three-puzzle-pieces-rudzhan-nagiev-istock-getty-images-1332085780"
 
 # Controls how this page appears across the site
 # 0 -- hidden
