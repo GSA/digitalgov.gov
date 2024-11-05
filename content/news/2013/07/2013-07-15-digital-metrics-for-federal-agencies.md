@@ -461,7 +461,7 @@ Below is background and steps agencies can take now to prepare for this implemen
 
 If not, you’ll need a method for adding the code in the most efficient way. Many non-CMS websites include a server-side include (SSI) to manage common elements across many pages of the domain (for example, to maintain a common header or footer). The code can be integrated into existing common elements such as those that are already in use across the site. Alternatively, you can use bulk edit operations that can be performed across large volumes of html files to insert a common snippet into a consistent location within the source code.
 
-**5. Attend training and hear what other agencies are doing.** GSA will provide training in early September 2012 to help agencies learn about page tagging techniques, preparing for implementation, and how other agencies have implemented similar efforts. Check the [DigitalGov University class schedule and subscribe to email alerts]({{< ref "/about/digitalgov-university.md" >}}) to receive notices about the upcoming training.
+**5. Attend training and hear what other agencies are doing.** GSA will provide training in early September 2012 to help agencies learn about page tagging techniques, preparing for implementation, and how other agencies have implemented similar efforts. Check the [DigitalGov University class schedule and subscribe to email alerts](https://digital.gov/digitalgov-university/) to receive notices about the upcoming training.
 
 **6. Embed the Javascript-based tag.** Embed the tag once the common code is provided by GSA and customize as needed.
 
@@ -558,7 +558,7 @@ To support this common framework, agencies should collect performance and custom
 
 ### Training
 
-Get more information about training from [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}), and subscribe to get [email updates on new and upcoming events](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45).
+Get more information about training from [DigitalGov University](https://digital.gov/digitalgov-university/), and subscribe to get [email updates on new and upcoming events](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45).
 
 ## References
 

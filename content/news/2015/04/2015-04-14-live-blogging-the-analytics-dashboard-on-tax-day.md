@@ -24,7 +24,7 @@ Number of IRS pages that are in the Top 20 pages: **10**
 ### Fun Facts:
 
   * We&#8217;re starting to see less traffic per hour than we did yesterday at this same time.
-  * Let us know other events that you&#8217;d like to follow in the future. Remember that [analytics.usa.gov](https://analytics.usa.gov) always displays the pulse of federal public web users. It&#8217;s addicting.
+  * Let us know other events that you&#8217;d like to follow in the future. Remember that [analytics.usa.gov](https://analytics.usa.gov) always displays the pulse of federal public web users. 
 
 _-gk, Digital Government, GSA_
 
@@ -213,7 +213,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * The number of people on the **“Where’s my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
-  * Data! It’s what the Dashboard is all about. [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) has hosted several trainings on [analyzing data and writing meaningful reports]({{< ref "2014-10-20-metrics-round-up.md" >}})._-Kendrick Daniel, Digital Gov Team_
+  * Data! It’s what the Dashboard is all about. [DigitalGov University](https://digital.gov/digitalgov-university/) has hosted several trainings on [analyzing data and writing meaningful reports]({{< ref "2014-10-20-metrics-round-up.md" >}})._-Kendrick Daniel, Digital Gov Team_
 
 ## Noon Update
 

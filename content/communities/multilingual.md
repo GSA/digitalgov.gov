@@ -18,8 +18,7 @@ authors:
   - lgodfrey
   - fedora-braverman
 
-event_cop:
-  - multilingual
+event_cop: multilingual
 
 # see all topics at https://digital.gov/topics
 topics:

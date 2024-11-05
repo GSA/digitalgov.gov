@@ -12,7 +12,7 @@ topics:
 ---
 
 {{< box >}}
-_This month's [Plain Language of Community Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) webinar, she explains how you can move forward with plain language even when you don't have permission to edit copy, followed by a half hour Q & A session._
+_This month's [Plain Language of Community Practice]({{< ref "communities/plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU) webinar, she explains how you can move forward with plain language even when you don't have permission to edit copy, followed by a half hour Q & A session._
 {{< /box >}}
 
 Many people don&#8217;t get plain language (also known as plain communication or plain writing) right the very first time, but through practice, can gain clarity and improve their plain language skills. For newbies who may not feel 100 percent sure about diving into this concept, the guidelines below are helpful, but optional; you can visit [PlainLanguage.gov](http://www.plainlanguage.gov/) to find other ways to apply plain language to your specific content.

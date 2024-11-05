@@ -11,7 +11,7 @@ topics:
   - search-engine-optimization
 ---
 
-On June 10, 2014, the Metrics Community of Practice of the Federal Web Managers Council and [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) hosted an event to honor the memory of Joe Pagano, a former co-chair of the Web Metrics Sub-Council.
+On June 10, 2014, the Metrics Community of Practice of the Federal Web Managers Council and [DigitalGov University](https://digital.gov/digitalgov-university/) hosted an event to honor the memory of Joe Pagano, a former co-chair of the Web Metrics Sub-Council.
 
 This third lecture honoring Joe focused on search engine optimization (SEO).
 

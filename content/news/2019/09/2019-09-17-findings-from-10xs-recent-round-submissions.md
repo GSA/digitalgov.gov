@@ -21,7 +21,7 @@ Earlier this summer, [we asked people across the federal government to submit th
 
 In this recent round, we selected 32 projects to start at the Phase 1: Investigation level for FY19 Round 2 funding. In an effort to increase transparency, we’ve conducted a metrics analysis of the submissions process and wanted to share our findings with you.
 
-**Evaluation Process:** We assigned each submission an ID number and evaluated them blindly based on this ID number. Our evaluation panel consisted of five federal employees that specialize in IT program management, IT policy, engineering, and user-centered design. Each idea was scored in three areas: clarity, alignment, and impact.
+**Evaluation Process:** We assigned each submission an ID number and evaluated them impartially based on this ID number. Our evaluation panel consisted of five federal employees that specialize in IT program management, IT policy, engineering, and user-centered design. Each idea was scored in three areas: clarity, alignment, and impact.
 
 **Number of Submitters vs. Submissions:** We received 237 submissions from 129 individuals, meaning many people submitted multiple ideas. Of the 32 selected ideas, 28 (or 87.5 percent) were from distinct individuals. This shows that 10x chose projects from a variety of submitters, rather than selecting multiple ideas from just a few submitters.
 

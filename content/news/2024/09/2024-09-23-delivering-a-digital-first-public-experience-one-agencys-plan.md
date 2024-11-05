@@ -18,7 +18,7 @@ authors:
 
 slug: delivering-a-digital-first-public-experience-one-agencys-plan
 
-primary_image: ""
+primary_image: "completed-checklist-tasks-bullseye-calendar-icon-paperfox-gettyimages-1468937260"
 
 # Controls how this page appears across the site
 # 0 -- hidden
