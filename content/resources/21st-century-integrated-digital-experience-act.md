@@ -27,9 +27,6 @@ topics:
   - user-experience
   - content-strategy
   - analytics
-  - multilingual
-  - plain-language
-  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -39,7 +36,7 @@ authors:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 10
+weight: 1
 
 # primary Image (for social media)
 primary_image: "office-team-ideas-scyther5"
@@ -71,6 +68,7 @@ Delivering a digital-first public experience is a significant opportunity to imp
 - Accelerate use of e-signatures
 - Improve customer experience
 - Standardize and transition to centralized shared services
+- Improve government collaboration
 
 
 {{< card-policy src="https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf" kicker="Law" title="**Public Law 115-336**: 21st Century Integrated Digital Experience Act" >}}**SECTION 1. SHORT TITLE.**
@@ -539,7 +537,6 @@ Note that agencies must complete [action 3 above](https://digital.gov/resources/
 
 Within `180 days` of issuance (originally due March 20, 2024; deadline extended to June 21, 2024
 
-- **Purpose**: Each agency must provide a list of opportunities for no less than five top tasks that can be newly designed or further optimized as self-service digital options. This information will help agencies prepare for action on these opportunities, when they are able to prioritize them.
   
 - **Instructions**: Coordinate with your agency digital experience delivery lead (identified in [action 1 above](https://digital.gov/resources/delivering-digital-first-public-experience/#action-1-identify-digital-experience-delivery-lead)) to submit the agency response. Additional review and submission instructions are available via the online tool, [Agency action #5: Assess top tasks for self-service optimization (requires a MAX.gov account)](https://collect.omb.gov/site/195/home-page).  This tool can be accessed by any federal employee with a Max.gov account. Once you’ve made your final submission, please update the workflow status to OMB review.
 
