@@ -27,6 +27,9 @@ topics:
   - user-experience
   - content-strategy
   - analytics
+  - multilingual
+  - plain-language
+  - product-and-project-management
 
 # see all authors at https://digital.gov/authors
 authors:

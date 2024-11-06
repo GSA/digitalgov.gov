@@ -11,8 +11,6 @@ end_date: 2024-06-20 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - design
-  - human-centered-design
-  - software-engineering
 slug: uswds-monthly-call-june-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
