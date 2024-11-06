@@ -22,8 +22,8 @@ slug: uswds-monthly-call-november-2024
 event_platform: zoom
 
 primary_image: 2024-uswds-monthly-call-november-title-card
----
 
+---
 
 {{< asset-static file="">}}
 
@@ -35,7 +35,6 @@ In this session, you’ll learn about:
 - What the team expects to deliver in 2025
 - The design system’s shift toward modularity, and the future relationship between the existing codebase, design tokens, utilities, design kits, and web components
 - What these changes mean for you as a design system user
-
 
 **This event is best suited for:** Design system users of all levels, especially product managers and software engineers.
 
