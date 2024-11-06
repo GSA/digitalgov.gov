@@ -8,7 +8,6 @@
 
 
 
-
 - title: Data Analyst
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -32,39 +31,6 @@
     - Communicators
     - Plain Language
 
-- title: Deputy Associate Administrator for Communications and Marketing
-  department: General Services Administration
-  location: Washington, District of Columbia
-  description: >
-          As a Deputy Associate Administrator, you will work with the Associate Administrator to advance GSA’s mission and business goals through integrated communications strategies. Location of position: GSA, Office of Strategic Communication, 1800 F Street, NW, Washington, DC The Office of Strategic Communication is responsible for using communication to help the agency meet its mission and business goals. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-10-17
-  close_date: 2024-10-31
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/814398700
-  cop_topics:
-    - Web Managers
-
-- title: Chief Technology Officer, AD-2210-00 (Senior Manager) (Excepted Service)
-  department: Department of Education
-  location: Washington, District of Columbia
-  description: >
-          The Chief Technology Officer in Federal Student Aid (FSA) will lead IT modernization efforts, cybersecurity operations, and implementation of emerging technologies to provide best-in-class customer experiences for America’s students, borrowers, and institutions of higher education. This position is a key leader at FSA, reporting to the Principal Deputy Chief Operating Officer, and is responsible for establishing vision and direction for the organization's technology portfolio.
-  open_date: 2024-10-04
-  close_date: 2024-11-03
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812747700
-  cop_topics:
-    - Web Managers
-
-- title: FAFSA Program Executive Director (Supervisory IT Specialist), AD-2210-00 (Excepted Service)
-  department: Department of Education
-  location: Washington, District of Columbia
-  description: >
-          This position in Federal Student Aid will have a significant impact on postsecondary educational opportunities for more than 10 million students nationwide. This position will serve as the Executive Director of the Free Application for Federal Student Aid (FAFSA) program under the Principal Deputy Chief Operating Officer (PDCOO), is responsible for incorporating new and cutting-edge technology to modernize the financial aid process, and will be a key leader in FSA’s overall modernization.
-  open_date: 2024-10-04
-  close_date: 2024-11-03
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/812746200
-  cop_topics:
-    - Web Managers
-
 - title: Management and Program Analyst
   department: General Services Administration
   location: Anywhere in the U.S. (remote job)
@@ -74,19 +40,6 @@
   close_date: 2024-11-07
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/815399800
   cop_topics:
-    - Web Managers
-
-- title: IT Specialist
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). As an IT Specialist, you’ll provide expert technical advice during IT projects, and engage with customer agencies, the public, and GSA management and staff to define opportunities for new or improved business processes, solutions, practices, products, services or strategies based on customer/user needs.
-  open_date: 2024-10-31
-  close_date: 2024-11-06
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816604300
-  cop_topics:
-    - User Experience
-    - Web Analytics
     - Web Managers
 
 - title: Supervisory Data Scientist
@@ -100,30 +53,39 @@
   cop_topics:
     - Web Analytics
 
-- title: Information Technology Specialist (SYSANALYSIS)
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
+- title: Public Affairs Specialist
+  department: Department of the Interior
+  location: Gatlinburg, Tennessee
   description: >
-          As a Information Technology Specialist (SYSANALYSIS), you will serve as senior IT expert and authoritative technical advisor within TTS. Engages with customer agencies to perform needs analyses to define opportunities for new or improved business processes, solutions, practices, products, services or strategies based on user needs. Location: General Services Administration (GSA), Federal Acquisition Service, Technology Transformation Services (TTS).
+          This position is located in Great Smoky Mountains National Park, in the Superintendent's Office. THIS IS A MERIT PROMOTION ANNOUNCEMENT. Open to the first 100 applicants or until 11/14/2024 whichever comes first. All applications submitted by 11:59 (EST) on the closing day will receive consideration.
   open_date: 2024-10-31
-  close_date: 2024-11-06
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816248000
+  close_date: 2024-11-14
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816700600
   cop_topics:
-    - User Experience
-    - Web Analytics
+    - Communicators
+
+- title: Chief Technology Officer
+  department: General Services Administration
+  location: Location Negotiable After Selection
+  description: >
+          The General Services Administration (GSA) is interested in attracting the best technology leaders for our diverse cadre of Senior Executive Service (SES) members. We are hiring for a new Chief Technology Officer who will join GSA IT’s executive team and bring a passion for improving government services through technology. To ensure your application is considered, you must follow the instructions outlined in the "How to Apply" and "Required Documents" sections below.
+  open_date: 2024-10-28
+  close_date: 2024-11-15
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816093000
+  cop_topics:
     - Web Managers
 
-- title: IT Specialist (APPSW/INFOSEC)
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
+- title: Supervisory IT Program Manager (APPSW)
+  department: Department of the Treasury
+  location: Washington, District of Columbia
   description: >
-          This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). As an IT Specialist (APPSW/INFOSEC), Agency Title: Senior Staff Software Engineer, you will serve as a senior IT expert software engineer and applications developer, foster collaborative relationships with clients and stakeholders, and partner with internal teams to develop a trustworthy and informative end-to-end customer experience.
-  open_date: 2024-10-31
-  close_date: 2024-11-06
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816611100
+          This is located at Departmental Offices,Management CFO - Information Systems and Chief Information Officer. As a Supervisory IT Program Manager (APPSW), you will oversee a matrixed team whose work is to improve agencies' digital accessibility by maintaining accessible federal technology environment, promoting accessible digital experiences, and continuing the implementation of accessibility standards in accordance with Section 508.
+  open_date: 2024-11-04
+  close_date: 2024-11-11
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/817344900
   cop_topics:
-    - Web Analytics
     - Web Managers
+
 
 
 

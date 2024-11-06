@@ -47,7 +47,7 @@ We are also thrilled that m.cancer.gov was named among the top 10 government mob
   * If your content is structured (either XML or XHTML), it is much easier to port to mobile
   * Tables in content are really difficult to deal with on mobile
   * Be mindful of how users may be using their devices &#8211; we added the ability to directly call our contact center, but did not anticipate that on some devices, users are given an option to call or text. And our contact center was not prepared to respond to text messages.
-  * A cross-functional team of content experts, user research and web analytics experts, information architect and designer, and technology gurus are critical to success.
+  * A cross-functional team of content experts, user research and web analytics experts, information architect and designer, and technology experts are critical to success.
 
 ## What&#8217;s Next
 
