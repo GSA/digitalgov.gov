@@ -10,20 +10,22 @@ defaults: &defaults
 
 jobs:
   build:
-    <<: *defaults
+    machine:
+      image: ubuntu-2004:current
     steps:
       - checkout
       - run:
           name: Install Dependencies
           command: |
             sudo apt-get update
-            sudo apt-get install -y s3fs
+            sudo apt-get install -y s3fs fuse
       - run:
           name: Configure S3 Mount
           command: |
             mkdir -p content/uploads/s3
             echo "${AWS_ACCESS_KEY_ID}:${AWS_SECRET_ACCESS_KEY}" > ${HOME}/.passwd-s3fs
             chmod 600 ${HOME}/.passwd-s3fs
+            sudo modprobe fuse
             s3fs ${S3_BUCKET_NAME} content/uploads/s3 -o passwd_file=${HOME}/.passwd-s3fs -o umask=0022
       - run:
           name: Install Hugo
@@ -38,9 +40,14 @@ jobs:
             sudo mv hugo /usr/local/bin/
             rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
             hugo version
-      - node/install-packages:
-          cache-path: ~/project/node_modules
-          override-ci-command: npm install
+      - run:
+          name: Install Node.js
+          command: |
+            curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+            sudo apt-get install -y nodejs
+      - run:
+          name: Install npm packages
+          command: npm install
       - run:
           name: Build assets
           command: npm run federalist
@@ -97,8 +104,8 @@ jobs:
           name: Check Template formatting
           command: npm run prettier:templates
   process:
-    docker:
-      - image: cimg/node:lts
+    machine:
+      image: ubuntu-2004:current
     steps:
       - checkout
       - attach_workspace:
@@ -107,13 +114,14 @@ jobs:
           name: Install Dependencies
           command: |
             sudo apt-get update
-            sudo apt-get install -y s3fs
+            sudo apt-get install -y s3fs fuse nodejs npm
       - run:
           name: Configure S3 Mount
           command: |
             mkdir -p content/uploads/s3
             echo "${AWS_ACCESS_KEY_ID}:${AWS_SECRET_ACCESS_KEY}" > ${HOME}/.passwd-s3fs
             chmod 600 ${HOME}/.passwd-s3fs
+            sudo modprobe fuse
             s3fs ${S3_BUCKET_NAME} content/uploads/s3 -o passwd_file=${HOME}/.passwd-s3fs -o umask=0022
       - run:
           name: Install Gulp
