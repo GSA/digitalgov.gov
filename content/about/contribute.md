@@ -17,7 +17,7 @@ We’re always on the lookout for ideas from our [community members](https://dig
 
 ## How to contribute content and events
 
-Agency stories are an important tool to empower and support colleagues who are working to improve digital content. Digital.gov gathers ideas and expertise from across the federal government and shares that information with thousands of community members, readers, and event attendees. 
+Agency stories are an important tool to empower and support colleagues who are working to improve digital content. Digital.gov gathers ideas and expertise from across the federal government and shares that information with thousands of community members, readers, and event attendees.
 
 ### 1. Check if you are eligible to contribute.
 
@@ -25,21 +25,21 @@ We welcome ideas and expertise from folks across all levels of experience. You m
 
 ### 2. Make sure your contribution aligns with our users’ needs.
 
-Not sure what to share? Digital.gov focuses on creating content with direct and actionable connections to digital services. We are looking for ideas that will help generalists, technologists, and teams in the federal government create world-class digital experiences. You can find examples of recent case studies and stories in our [blogs](https://digital.gov/news/) and on our [resource](https://digital.gov/resources/) pages. 
+Not sure what to share? Digital.gov focuses on creating content with direct and actionable connections to digital services. We are looking for ideas that will help generalists, technologists, and teams in the federal government create world-class digital experiences. You can find examples of recent case studies and stories in our [blogs](https://digital.gov/news/) and on our [resource](https://digital.gov/resources/) pages.
 
 If you’re interested in pitching an event, check out our [video archive of past events](https://youtube.com/@DigitalGov). You can also explore our [guidelines for Digital.gov event presenters](https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/).
 
-### 3. Write and share your pitch. 
+### 3. Write and share your pitch.
 
 Write a 3-5 sentence summary of your idea and the content type you have in mind, like a blog or an event. Email this pitch to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 
 If you’re submitting an event, you can also use our [event submission form](https://feedback.gsa.gov/jfe/form/SV_1MS3YC4dieV8WQm).
 
-### 4. Digital.gov’s editorial team reviews the pitch. 
+### 4. Digital.gov’s editorial team reviews the pitch.
 
 We accept and review pitches on a rolling basis. Our team will look at your idea to determine the right format or event type, relevance to our audience, and match to our mission and goals.
 
-### 5. Work with our content strategists and editors to produce the content or event. 
+### 5. Work with our content strategists and editors to produce the content or event.
 
 If your pitch is accepted, we’ll work with you to produce the content. This can include interviewing relevant stakeholders, editing for style and voice, and making sure it is reviewed by subject matter experts. We aim to publish written content within 6 to 8 weeks from the time work begins. Most events are held 8 to 12 weeks after they are proposed.
 

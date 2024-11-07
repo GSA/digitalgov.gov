@@ -26,7 +26,8 @@
     "test:pa11y": "npx pa11y-ci --config .pa11yci --sitemap https://digital.gov/sitemap.xml --sitemap-find https://digital.gov --sitemap-replace localhost:1313 --sitemap-exclude '/201*|styleguide|images|img|join|apis'",
     "workflow": "npx netlify-cms-proxy-server",
     "typescript:build": "tsc",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix"
   },
   "directories": {
     "doc": "docs"
