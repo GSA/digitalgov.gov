@@ -25,7 +25,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: " Information Quality Act & OMB Memo M-19-15 (PDF 991KB 11 pages)"
+  title: "Information Quality Act & OMB Memo M-19-15 (PDF, 991 KB, 11 pages)"
   link: "https://www.whitehouse.gov/wp-content/uploads/2019/04/M-19-15.pdf"
 
 # Featured resource to display at the top of the page
