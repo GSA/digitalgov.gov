@@ -24,7 +24,7 @@ jobs:
             echo "$AWS_ACCESS_KEY_ID:$AWS_SECRET_ACCESS_KEY" | sudo tee /etc/passwd-s3fs
             sudo chmod 640 /etc/passwd-s3fs
             sudo mkdir -p content/uploads/s3
-            sudo s3fs ${S3_BUCKET_NAME} content/uploads/s3 -o passwd_file=/etc/passwd-s3fs -o allow_other -o umask=0022
+            sudo s3fs "${S3_BUCKET_NAME}" "$(pwd)/content/uploads/s3" -o passwd_file=/etc/passwd-s3fs -o allow_other -o umask=0022
       - run:
           name: Install Hugo
           command: |
@@ -114,7 +114,7 @@ jobs:
             echo "$AWS_ACCESS_KEY_ID:$AWS_SECRET_ACCESS_KEY" | sudo tee /etc/passwd-s3fs
             sudo chmod 640 /etc/passwd-s3fs
             sudo mkdir -p content/uploads/s3
-            sudo s3fs ${S3_BUCKET_NAME} content/uploads/s3 -o passwd_file=/etc/passwd-s3fs -o allow_other -o umask=0022
+            sudo s3fs "${S3_BUCKET_NAME}" "$(pwd)/content/uploads/s3" -o passwd_file=/etc/passwd-s3fs -o allow_other -o umask=0022
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
