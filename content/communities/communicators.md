@@ -42,17 +42,6 @@ weight: 1
 aliases:
   - /communities/federal-communicators-network/
 
-community_list:
-  - platform: listserv
-    type: government
-    subscribe_email: fcn-request@listserv.gsa.gov
-    subscribe_email_subject: Join the Communicators Community
-    terms:
-      Government employees and contractors with an official .gov or .mil email
-      are eligible to join.
-    members: 2,501
-    join_cop_button: Communicators community members
-
 ---
 
 Government professionals from all levels come together in this community to improve written and verbal communication to make government communication more effective.
