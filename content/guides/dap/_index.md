@@ -63,7 +63,6 @@ Additionally, [M-23-22, Delivering a Digital-First Public Experience](https://di
 - [Get started with DAP: Use DAP to better understand user behavior](https://digital.gov/guides/dap/get-started-with-dap/#content-start)
 - [Make data-informed decisions: How to turn the DAP data into actionable insights](https://digital.gov/guides/dap/make-data-informed-decisions/#content-start)
 - [Glossary of terms: Browse DAP terms](https://digital.gov/guides/dap/glossary-of-terms/#content-start)
-- [Migration: Learn about the migration from Universal Analytics to Google Analytics 4](https://digital.gov/guides/dap/migration-from-universal-analytics-to-google-analytics-4/#content-start)
 - [Terms of service: GSA offers DAP subject to your acceptance of these terms](https://digital.gov/guides/dap/gsa-dap-terms-of-service/#content-start)
 
 {{< box >}}

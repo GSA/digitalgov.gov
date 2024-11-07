@@ -9,7 +9,5 @@ nav:
     path: "/guides/dap/make-data-informed-decisions.md"
   - title: "Glossary"
     path: "/guides/dap/glossary-of-terms.md"
-  - title: "Migration"
-    path: "/guides/dap/migration-from-universal-analytics-to-google-analytics-4.md"
   - title: "Terms of service"
     path: "/guides/dap/gsa-dap-terms-of-service.md"
