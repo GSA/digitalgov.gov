@@ -17,10 +17,11 @@ jobs:
           name: Install Dependencies
           command: |
             sudo apt-get update
-            sudo apt-get install -y s3fs
+            sudo apt-get install -y s3fs fuse
       - run:
-          name: Configure S3 Mount
+          name: Configure FUSE and S3 Mount
           command: |
+            sudo modprobe fuse
             echo "$AWS_ACCESS_KEY_ID:$AWS_SECRET_ACCESS_KEY" | sudo tee /etc/passwd-s3fs
             sudo chmod 640 /etc/passwd-s3fs
             sudo mkdir -p content/uploads/s3
@@ -107,10 +108,11 @@ jobs:
           name: Install Dependencies
           command: |
             sudo apt-get update
-            sudo apt-get install -y s3fs
+            sudo apt-get install -y s3fs fuse
       - run:
-          name: Configure S3 Mount
+          name: Configure FUSE and S3 Mount
           command: |
+            sudo modprobe fuse
             echo "$AWS_ACCESS_KEY_ID:$AWS_SECRET_ACCESS_KEY" | sudo tee /etc/passwd-s3fs
             sudo chmod 640 /etc/passwd-s3fs
             sudo mkdir -p content/uploads/s3
