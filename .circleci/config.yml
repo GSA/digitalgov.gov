@@ -16,18 +16,27 @@ jobs:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
       - run:
-          name: Process Image/file
-          command: gulp upload
+          name: Process Image/file if needed
+          command: |
+            if [ -n "$(ls -A content/uploads/_inbox/ 2>/dev/null)" ] || [ -n "$(ls -A data/images/ 2>/dev/null)" ] || [ -n "$(ls -A data/files/ 2>/dev/null)" ]; then
+              gulp upload
+            else
+              echo "No files to process, skipping..."
+            fi
       - add_ssh_keys:
           fingerprints:
             - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
       - run:
-          name: Commit to GitHub
+          name: Commit to GitHub if needed
           command: |
-            git config user.email "digitalgov@gsa.gov"
-            git config user.name "CircleCI"
-            git add content/uploads/_inbox data/images data/files
-            git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
+            if [ -n "$(ls -A content/uploads/_inbox/ 2>/dev/null)" ] || [ -n "$(ls -A data/images/ 2>/dev/null)" ] || [ -n "$(ls -A data/files/ 2>/dev/null)" ]; then
+              git config user.email "digitalgov@gsa.gov"
+              git config user.name "CircleCI"
+              git add content/uploads/_inbox data/images data/files
+              git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "No changes to commit..."
+            else
+              echo "No files to commit, skipping..."
+            fi
       - run:
           name: Build assets
           command: npm run federalist
