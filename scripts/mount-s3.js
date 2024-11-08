@@ -9,7 +9,7 @@ try {
 // Function to create local directory
 function createLocalDir() {
   try {
-    require('fs').mkdirSync('/assets/images', { recursive: true });
+    require('fs').mkdirSync('./assets/images', { recursive: true });
     console.log('Created local images directory');
   } catch (err) {
     console.error('Error creating local directory:', err);
@@ -22,10 +22,12 @@ function createLocalDir() {
 // If s3fs is available, try to mount S3
 if (s3fs) {
   const s3fsInstance = new s3fs('digitalgov', {
-    region: process.env.AWS_DEFAULT_REGION || 'us-east-1'
+    region: process.env.AWS_DEFAULT_REGION || 'us-east-1',
+    accessKeyId: process.env.AWS_KEY_ID,
+    secretAccessKey: process.env.AWS_SECRET_KEY
   });
 
-  s3fsInstance.mkdirp('/assets/images')
+  s3fsInstance.mkdirp('./assets/images')
     .then(() => {
       console.log('Successfully mounted S3 bucket and created images directory');
     })
