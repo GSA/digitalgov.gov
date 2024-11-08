@@ -1,5 +1,4 @@
 {{/* =======
-
   Displays an image at 800 or 1200 width with optional metadata
   See wiki for more details https://github.com/GSA/digitalgov.gov/wiki/Hugo-shortcodes
 
@@ -7,14 +6,13 @@
   inline - displays multiples images on the same line
 
   @example for right aligned image
-  {{< img src="image-1" align="right" alt="UX Summit Image"
->}}
+  {{< img src="image-1" align="right" alt="UX Summit Image" >}}
 
-@example for two images on same line starting justified left align
-{{< img src="image-1" align="center" inline="true" alt="UX Summit Image 1" >}}
-{{< img src="image-2" align="center" inline="true" alt="UX Summit Image 2" >}}
-
+  @example for two images on same line starting justified left align
+  {{< img src="image-1" align="center" inline="true" alt="UX Summit Image 1" >}}
+  {{< img src="image-2" align="center" inline="true" alt="UX Summit Image 2" >}}
 */}}
+
 <!-- image -->
 {{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisuid := (.Get "src" | lower) -}}
@@ -42,15 +40,13 @@
   {{ $imageClasses = $imageClasses | append "image-center" }}
 {{ end }}
 
+{{ $imagePath := printf "images/%s.%s" $thisuid $imgExt }}
+{{ $image := resources.Get $imagePath }}
 
 <div class="{{ delimit $imageClasses " " }}">
   {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
     <img
-      src="{{- if ne $prefix $thisuid -}}
-        {{- $thisuid -}}
-      {{- else -}}
-        {{- $imgBaseCDN -}}_w1200.{{- $imgExt -}}
-      {{- end -}}"
+      src="{{ if $image }}{{ $image.RelPermalink }}{{ else }}{{ $imgBaseCDN }}.{{ $imgExt }}{{ end }}"
       {{- if or (.Get "alt") $thisimg.alt -}}
         alt="{{- with .Get "alt" -}}
           {{- . -}}
