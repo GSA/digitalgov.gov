@@ -221,6 +221,12 @@ Parameters:
 - `caption`: image caption (optional)
 - `credit`: image credit (optional)
 
+**Other helpful HUGO commands:**
+
+- `hugo` — builds all the pages in the site, without creating a server
+- `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
+- `hugo serve --templateMetricsHints` — for seeing where you can apply caching in templates and speed up the build time
+  [See more in the Hugo docs »](https://gohugo.io/commands/hugo/)
 
 ## Upgrading Hugo
 
