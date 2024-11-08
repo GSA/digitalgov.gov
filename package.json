@@ -28,7 +28,7 @@
     "typescript:build": "tsc",
     "type-check": "tsc --noEmit",
     "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix",
-    "mount-s3": "s3fs digitalgov /assets/images -o allow_other -o use_cache=/tmp"
+    "mount-s3": "node scripts/mount-s3.js"
   },
   "directories": {
     "doc": "docs"
