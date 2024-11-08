@@ -59,7 +59,7 @@
     {{- with .caption -}}
       <p>
         {{ . | markdownify }}
-        {{- with $.credit -}}
+        {{- with .credit -}}
           <span>—&nbsp;{{ . | markdownify }}</span>
         {{- end }}
       </p>
