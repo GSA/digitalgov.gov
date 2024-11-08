@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const BUCKET_NAME = 'digitalgov';
-const LOCAL_IMAGE_DIR = './assets/images';
+const LOCAL_IMAGE_DIR = './assets/s3-images';
 const IMAGE_DATA_DIR = './data/images';
 
 // Function to create local directory
