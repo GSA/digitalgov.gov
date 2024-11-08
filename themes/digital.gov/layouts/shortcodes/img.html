@@ -1,22 +1,24 @@
-{{/* ======= 
-  Displays an image using Hugo's image processing
-  See wiki for more details https://github.com/GSA/digitalgov.gov/wiki/Hugo-shortcodes
-
-  align - set the alignment for the image to be left (default if left blank), center, or right aligned.
-  inline - displays multiples images on same line
-
-  @example for right aligned image
-  {{< img src="images/my-image.jpg" align="right" alt="UX Summit Image" >}}
-
-  @example for two images on same line starting justified left align
-  {{< img src="images/image-1.jpg" align="center" inline="true" alt="UX Summit Image 1" >}}
-  {{< img src="images/image-2.jpg" align="center" inline="true" alt="UX Summit Image 2" >}}
+{{/* =======
+  Generic image shortcode with responsive image support
+  
+  Parameters:
+  - src: path to the image (required)
+  - alt: alt text for accessibility (required)
+  - align: alignment (left/center/right, optional)
+  - inline: display inline with other images (true/false, optional)
+  - caption: image caption (optional)
+  - credit: image credit (optional)
+  
+  @example
+  {{< img src="path/to/image.jpg" alt="Description" align="center" caption="My caption" credit="Photo by John Doe" >}}
 */}}
 
 {{- $src := .Get "src" -}}
-{{- $align := .Get "align" | default "" -}}
-{{- $inline := .Get "inline" | default "false" -}}
 {{- $alt := .Get "alt" -}}
+{{- $align := .Get "align" | default "left" -}}
+{{- $inline := .Get "inline" | default "false" -}}
+{{- $caption := .Get "caption" -}}
+{{- $credit := .Get "credit" -}}
 
 {{ $imageClasses := slice "image" }}
 {{ if $align }}
@@ -25,45 +27,35 @@
 {{ if eq $inline "true" }}
   {{ $imageClasses = $imageClasses | append "image-inline" }}
 {{ end }}
-{{ if eq $align "center" }}
-  {{ $imageClasses = $imageClasses | append "image-center" }}
-{{ end }}
 
 <div class="{{ delimit $imageClasses " " }}">
-
-  {{/* Check for local image first */}}
   {{ $image := resources.Get $src }}
   {{ if $image }}
-      {{/* Process local image with responsive resizing */}}
-      {{ $image1200x := $image.Resize "1200x" }}
-      {{ $image800x := $image.Resize "800x" }}
-      <img
-          src="{{ $image1200x.RelPermalink }}"
-          srcset="{{ $image800x.RelPermalink }} 800w, {{ $image1200x.RelPermalink }} 1200w"
-          sizes="(max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
-          {{ with $alt }}alt="{{ . }}"{{ end }}
-          {{ with $image.Height }}height="{{ . }}"{{ end }}
-          {{ with $image.Width }}width="{{ . }}"{{ end }}
-      >
+    {{/* Process local image with responsive resizing */}}
+    {{ $image1200x := $image.Resize "1200x" }}
+    {{ $image800x := $image.Resize "800x" }}
+    <img
+      src="{{ $image1200x.RelPermalink }}"
+      srcset="{{ $image800x.RelPermalink }} 800w, {{ $image1200x.RelPermalink }} 1200w"
+      sizes="(max-width: 800px) 100vw, 1200px"
+      alt="{{ $alt }}"
+      {{ with $image.Height }}height="{{ . }}"{{ end }}
+      {{ with $image.Width }}width="{{ . }}"{{ end }}
+    >
   {{ else if hasPrefix $src "http" }}
-      {{/* Fallback to external image if not found locally */}}
-      <img src="{{ $src }}" {{ with $alt }}alt="{{ . }}"{{ end }}>
+    {{/* External image */}}
+    <img src="{{ $src }}" alt="{{ $alt }}">
   {{ else }}
-      {{/* Fallback to the original src path if image is missing */}}
-      <img src="/images/{{ $src }}" {{ with $alt }}alt="{{ . }}"{{ end }}>
+    {{/* Static image */}}
+    <img src="/images/{{ $src }}" alt="{{ $alt }}">
   {{ end }}
 
-  {{/* Image metadata from data/images if available */}}
-  {{- $thisuid := $src | lower | replaceRE "\\.[jpegpn]{3,4}$" "" -}}
-  {{- with index $.Site.Data.images $thisuid -}}
-    {{- with .caption -}}
-      <p>
-        {{ . | markdownify }}
-        {{- with .credit -}}
-          <span>—&nbsp;{{ . | markdownify }}</span>
-        {{- end }}
-      </p>
-    {{- end }}
-  {{- end -}}
-
+  {{/* Optional caption and credit */}}
+  {{ if or $caption $credit }}
+    <p class="image-meta">
+      {{ with $caption }}{{ . | markdownify }}{{ end }}
+      {{ if and $caption $credit }} — {{ end }}
+      {{ with $credit }}{{ . | markdownify }}{{ end }}
+    </p>
+  {{ end }}
 </div>
