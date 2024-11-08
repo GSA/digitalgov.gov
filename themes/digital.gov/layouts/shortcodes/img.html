@@ -14,18 +14,10 @@
 */}}
 
 <!-- image -->
-{{- $cdnurl := .Site.Params.cdnurl -}}
 {{- $thisuid := (.Get "src" | lower) -}}
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
 {{- $thisimg := index $.Site.Data.images $thisuid -}}
-{{- $imgBase := $thisimg.uid -}}
 {{- $imgExt := $thisimg.format -}}
-{{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
-{{- $imgWidth := $thisimg.width -}}
-{{- $imgHeight := $thisimg.height -}}
-{{- $imgCaption := $thisimg.caption -}}
-{{- $imgCredit := $thisimg.credit -}}
-{{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
 {{- $align := .Get "align" | default "" -}}
 {{- $inline := .Get "inline" | default "false" -}}
 
@@ -44,39 +36,21 @@
 {{ $image := resources.Get $imagePath }}
 
 <div class="{{ delimit $imageClasses " " }}">
-  {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
-    <img
-      src="{{ if $image }}{{ $image.RelPermalink }}{{ else }}{{ $imgBaseCDN }}.{{ $imgExt }}{{ end }}"
-      {{- if or (.Get "alt") $thisimg.alt -}}
-        alt="{{- with .Get "alt" -}}
-          {{- . -}}
-        {{- else -}}
-          {{- $thisimg.alt -}}
-        {{- end -}}"
-      {{- end -}}
-      {{- if eq $prefix $thisuid -}}
-        srcset="{{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
-        {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w "
-      {{- end -}}
-      sizes="(max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
-    />
-  {{- else -}}
-    <img
-      src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-      {{- if or (.Get "alt") $thisimg.alt -}}
-        alt="{{- with .Get "alt" -}}
-          {{- . -}}
-        {{- else -}}
-          {{- $thisimg.alt -}}
-        {{- end -}}"
-      {{- end -}}
-    />
-  {{- end -}}
-  {{- if or $imgCaption $imgCredit -}}
+  <img
+    src="{{ $image.RelPermalink }}"
+    {{- if or (.Get "alt") $thisimg.alt -}}
+      alt="{{- with .Get "alt" -}}
+        {{- . -}}
+      {{- else -}}
+        {{- $thisimg.alt -}}
+      {{- end -}}"
+    {{- end -}}
+  />
+  {{- if or $thisimg.caption $thisimg.credit -}}
     <p>
-      {{- $imgCaption | markdownify -}}
-      {{- if $imgCredit -}}
-        <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>
+      {{- $thisimg.caption | markdownify -}}
+      {{- if $thisimg.credit -}}
+        <span>—&nbsp;{{ $thisimg.credit | markdownify -}}</span>
       {{- end -}}
     </p>
   {{- end -}}
