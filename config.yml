@@ -13,6 +13,7 @@ enableRobotsTXT: true
 enableEmoji: true
 enableGitInfo: true
 buildFuture: true
+refLinksErrorLevel: WARNING
 
 module:
   mounts:
