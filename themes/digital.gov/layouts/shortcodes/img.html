@@ -25,8 +25,6 @@
 {{- $imgBase := "" -}}
 {{- $imgExt := "" -}}
 {{- $imgBaseCDN := "" -}}
-{{- $imgWidth := 0 -}}
-{{- $imgHeight := 0 -}}
 {{- $imgCaption := "" -}}
 {{- $imgCredit := "" -}}
 
@@ -35,8 +33,6 @@
   {{- $imgBase = $thisimg.uid -}}
   {{- $imgExt = $thisimg.format -}}
   {{- $imgBaseCDN = printf "%s/%s" $cdnurl $imgBase -}}
-  {{- $imgWidth = $thisimg.width -}}
-  {{- $imgHeight = $thisimg.height -}}
   {{- $imgCaption = $thisimg.caption -}}
   {{- $imgCredit = $thisimg.credit -}}
 {{- end -}}
@@ -59,16 +55,27 @@
 <div class="{{ delimit $imageClasses " " }}">
   {{/* If image not found in data or is external URL, use direct src */}}
   {{- if or (not $thisimg) (ne $prefix $thisuid) -}}
-    <img
-      src="{{ $thisuid }}"
-      {{- if .Get "alt" -}}
-        alt="{{ .Get "alt" }}"
-      {{- end -}}
-    />
+    {{- $localImage := resources.Get $thisuid -}}
+    {{- if $localImage -}}
+      {{- $resized := $localImage.Resize "1200x" -}}
+      <img
+        src="{{ $resized.RelPermalink }}"
+        {{- if .Get "alt" -}}
+          alt="{{ .Get "alt" }}"
+        {{- end -}}
+      />
+    {{- else -}}
+      <img
+        src="{{ $thisuid }}"
+        {{- if .Get "alt" -}}
+          alt="{{ .Get "alt" }}"
+        {{- end -}}
+      />
+    {{- end -}}
   {{- else -}}
     {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
       <img
-        src="{{- $imgBaseCDN -}}_w1200.{{- $imgExt -}}"
+        src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
         {{- if or (.Get "alt") $thisimg.alt -}}
           alt="{{- with .Get "alt" -}}
             {{- . -}}
@@ -76,9 +83,6 @@
             {{- $thisimg.alt -}}
           {{- end -}}"
         {{- end -}}
-        srcset="{{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
-        {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w"
-        sizes="(max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
       />
     {{- else -}}
       <img
