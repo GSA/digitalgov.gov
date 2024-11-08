@@ -4,6 +4,7 @@ const path = require('path');
 
 const BUCKET_NAME = 'digitalgov';
 const LOCAL_IMAGE_DIR = './assets/images';
+const IMAGE_DATA_DIR = './data/images';
 
 // Function to create local directory
 function createLocalDir() {
@@ -16,9 +17,49 @@ function createLocalDir() {
   }
 }
 
+// Simple YAML parser for our specific case
+function parseImageYaml(content) {
+  const uidMatch = content.match(/uid\s*:\s*([^\n]+)/);
+  const formatMatch = content.match(/format\s*:\s*([^\n]+)/);
+  
+  if (uidMatch && formatMatch) {
+    return {
+      uid: uidMatch[1].trim(),
+      format: formatMatch[1].trim()
+    };
+  }
+  return null;
+}
+
+// Function to read image metadata files
+function getImageMetadata() {
+  const images = [];
+  const files = fs.readdirSync(IMAGE_DATA_DIR);
+  
+  files.forEach(file => {
+    if (file.endsWith('.yml')) {
+      try {
+        const content = fs.readFileSync(path.join(IMAGE_DATA_DIR, file), 'utf8');
+        const data = parseImageYaml(content);
+        if (data) {
+          images.push({
+            key: `${data.uid}.${data.format}`,
+            uid: data.uid,
+            format: data.format
+          });
+        }
+      } catch (err) {
+        console.error(`Error reading ${file}:`, err);
+      }
+    }
+  });
+  
+  return images;
+}
+
 // Function to download a file from S3
 async function downloadFile(s3Client, key) {
-  const localPath = path.join(LOCAL_IMAGE_DIR, path.basename(key));
+  const localPath = path.join(LOCAL_IMAGE_DIR, key);
   
   try {
     const command = new GetObjectCommand({
@@ -56,23 +97,15 @@ async function syncS3ToLocal() {
     // Create local directory
     createLocalDir();
 
-    // List all objects in the bucket
-    const command = new ListObjectsV2Command({
-      Bucket: BUCKET_NAME,
-      Prefix: 'images/' // Only sync files in the images directory
+    // Get list of images from metadata
+    const images = getImageMetadata();
+    console.log(`Found ${images.length} images in metadata`);
+
+    // Download each image
+    const downloadPromises = images.map(img => {
+      console.log(`Preparing to download: ${img.key}`);
+      return downloadFile(s3Client, img.key);
     });
-
-    const response = await s3Client.send(command);
-    
-    if (!response.Contents) {
-      console.log('No files found in S3 bucket');
-      return;
-    }
-
-    // Download each file
-    const downloadPromises = response.Contents
-      .filter(obj => !obj.Key.endsWith('/')) // Skip directories
-      .map(obj => downloadFile(s3Client, obj.Key));
 
     await Promise.all(downloadPromises);
     
