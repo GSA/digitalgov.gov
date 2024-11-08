@@ -31,8 +31,8 @@ module:
     - source: archetypes
       target: archetypes
     # Mount S3 bucket content as a global resource
-    - source: content/uploads/s3
-      target: assets/s3
+    - source: assets/images
+      target: assets/images
 
 sitemap:
   changefreq: "daily"

@@ -2,31 +2,21 @@ version: 2.1
 
 orbs:
   node: circleci/node@5.2.0
-
-defaults: &defaults
-  executor:
-    name: node/default
-    tag: "lts"
+  aws-cli: circleci/aws-cli@3.1
 
 jobs:
   build:
-    machine:
-      image: ubuntu-2004:current
+    docker:
+      - image: cimg/node:lts
     steps:
       - checkout
+      - aws-cli/setup
       - run:
-          name: Install Dependencies
-          command: |
-            sudo apt-get update
-            sudo apt-get install -y s3fs fuse
+          name: Create assets directory
+          command: mkdir -p assets/images
       - run:
-          name: Configure S3 Mount
-          command: |
-            mkdir -p content/uploads/s3
-            echo "${AWS_ACCESS_KEY_ID}:${AWS_SECRET_ACCESS_KEY}" > ${HOME}/.passwd-s3fs
-            chmod 600 ${HOME}/.passwd-s3fs
-            sudo modprobe fuse
-            s3fs ${S3_BUCKET_NAME} content/uploads/s3 -o passwd_file=${HOME}/.passwd-s3fs -o umask=0022
+          name: Sync S3 content
+          command: aws s3 sync s3://${S3_BUCKET_NAME} assets/images
       - run:
           name: Install Hugo
           command: |
@@ -40,29 +30,20 @@ jobs:
             sudo mv hugo /usr/local/bin/
             rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
             hugo version
-      - run:
-          name: Install Node.js
-          command: |
-            curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
-            sudo apt-get install -y nodejs
-      - run:
-          name: Install npm packages
-          command: npm install
+      - node/install-packages:
+          cache-path: ~/project/node_modules
+          override-ci-command: npm install
       - run:
           name: Build assets
           command: npm run federalist
       - run:
           name: Build with Hugo
           command: HUGO_ENV=production hugo --logLevel info -s . -d public
-      - run:
-          name: Cleanup S3 Mount
-          command: |
-            fusermount -u content/uploads/s3 || true
-          when: always
       - persist_to_workspace:
           paths:
             - node_modules
             - public
+            - assets
           root: .
   html-proofer:
     docker:
@@ -77,7 +58,8 @@ jobs:
           name: Test generated website with HTML Proofer
           command: htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0
   test:
-    <<: *defaults
+    docker:
+      - image: cimg/node:lts
     steps:
       - checkout
       - attach_workspace:
@@ -104,25 +86,19 @@ jobs:
           name: Check Template formatting
           command: npm run prettier:templates
   process:
-    machine:
-      image: ubuntu-2004:current
+    docker:
+      - image: cimg/node:lts
     steps:
       - checkout
       - attach_workspace:
           at: .
+      - aws-cli/setup
       - run:
-          name: Install Dependencies
-          command: |
-            sudo apt-get update
-            sudo apt-get install -y s3fs fuse nodejs npm
+          name: Create assets directory
+          command: mkdir -p assets/images
       - run:
-          name: Configure S3 Mount
-          command: |
-            mkdir -p content/uploads/s3
-            echo "${AWS_ACCESS_KEY_ID}:${AWS_SECRET_ACCESS_KEY}" > ${HOME}/.passwd-s3fs
-            chmod 600 ${HOME}/.passwd-s3fs
-            sudo modprobe fuse
-            s3fs ${S3_BUCKET_NAME} content/uploads/s3 -o passwd_file=${HOME}/.passwd-s3fs -o umask=0022
+          name: Sync S3 content
+          command: aws s3 sync s3://${S3_BUCKET_NAME} assets/images
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
@@ -133,17 +109,16 @@ jobs:
           fingerprints:
             - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
       - run:
-          name: Commit to GitHub
+          name: Configure Git
           command: |
-            git config user.email "digitalgov@gsa.gov"
-            git config user.name "CircleCI"
-            git add content/uploads/_inbox data/images data/files
-            git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
+            git config --global user.email "digitalgov@gsa.gov"
+            git config --global user.name "CircleCI"
+            git config --global push.default simple
       - run:
-          name: Cleanup S3 Mount
+          name: Commit and Push Changes
           command: |
-            fusermount -u content/uploads/s3 || true
-          when: always
+            git add content/uploads/_inbox data/images data/files
+            git diff-index --quiet HEAD || git commit -m "Images/Files processed [skip ci]" && git push origin $CIRCLE_BRANCH
 
 workflows:
   build_test_process:
