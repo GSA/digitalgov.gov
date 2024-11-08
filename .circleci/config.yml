@@ -16,7 +16,7 @@ jobs:
           command: mkdir -p assets/images
       - run:
           name: Sync S3 content
-          command: aws s3 sync s3://${S3_BUCKET_NAME} assets/images
+          command: aws s3 sync s3://digitalgov assets/images
       - run:
           name: Install Hugo
           command: |
