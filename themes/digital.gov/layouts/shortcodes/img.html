@@ -1,22 +1,49 @@
-{{/* ======= 
-  Displays an image using Hugo's image processing
+{{/* =======
+
+  Displays an image at 800 or 1200 width with optional metadata
   See wiki for more details https://github.com/GSA/digitalgov.gov/wiki/Hugo-shortcodes
 
   align - set the alignment for the image to be left (default if left blank), center, or right aligned.
-  inline - displays multiples images on same line
+  inline - displays multiples images on the same line
 
   @example for right aligned image
-  {{< img src="images/my-image.jpg" align="right" alt="UX Summit Image" >}}
+  {{< img src="image-1" align="right" alt="UX Summit Image"
+>}}
 
-  @example for two images on same line starting justified left align
-  {{< img src="images/image-1.jpg" align="center" inline="true" alt="UX Summit Image 1" >}}
-  {{< img src="images/image-2.jpg" align="center" inline="true" alt="UX Summit Image 2" >}}
+@example for two images on same line starting justified left align
+{{< img src="image-1" align="center" inline="true" alt="UX Summit Image 1" >}}
+{{< img src="image-2" align="center" inline="true" alt="UX Summit Image 2" >}}
+
 */}}
+<!-- image -->
+{{- $cdnurl := .Site.Params.cdnurl -}}
+{{- $thisuid := (.Get "src" | lower) -}}
+{{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
+{{- $thisimg := index $.Site.Data.images $thisuid -}}
 
-{{- $src := .Get "src" -}}
+{{/* Set default values if image not found */}}
+{{- $imgBase := "" -}}
+{{- $imgExt := "" -}}
+{{- $imgBaseCDN := "" -}}
+{{- $imgWidth := 0 -}}
+{{- $imgHeight := 0 -}}
+{{- $imgCaption := "" -}}
+{{- $imgCredit := "" -}}
+
+{{/* If image found in data, use its values */}}
+{{- if $thisimg -}}
+  {{- $imgBase = $thisimg.uid -}}
+  {{- $imgExt = $thisimg.format -}}
+  {{- $imgBaseCDN = printf "%s/%s" $cdnurl $imgBase -}}
+  {{- $imgWidth = $thisimg.width -}}
+  {{- $imgHeight = $thisimg.height -}}
+  {{- $imgCaption = $thisimg.caption -}}
+  {{- $imgCredit = $thisimg.credit -}}
+{{- end -}}
+
+{{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
 {{- $align := .Get "align" | default "" -}}
 {{- $inline := .Get "inline" | default "false" -}}
-{{- $alt := .Get "alt" -}}
 
 {{ $imageClasses := slice "image" }}
 {{ if $align }}
@@ -30,40 +57,49 @@
 {{ end }}
 
 <div class="{{ delimit $imageClasses " " }}">
-
-  {{/* Check for local image first */}}
-  {{ $image := resources.Get $src }}
-  {{ if $image }}
-      {{/* Process local image with responsive resizing */}}
-      {{ $image1200x := $image.Resize "1200x" }}
-      {{ $image800x := $image.Resize "800x" }}
+  {{/* If image not found in data or is external URL, use direct src */}}
+  {{- if or (not $thisimg) (ne $prefix $thisuid) -}}
+    <img
+      src="{{ $thisuid }}"
+      {{- if .Get "alt" -}}
+        alt="{{ .Get "alt" }}"
+      {{- end -}}
+    />
+  {{- else -}}
+    {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
       <img
-          src="{{ $image1200x.RelPermalink }}"
-          srcset="{{ $image800x.RelPermalink }} 800w, {{ $image1200x.RelPermalink }} 1200w"
-          sizes="(max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
-          {{ with $alt }}alt="{{ . }}"{{ end }}
-          {{ with $image.Height }}height="{{ . }}"{{ end }}
-          {{ with $image.Width }}width="{{ . }}"{{ end }}
-      >
-  {{ else if hasPrefix $src "http" }}
-      {{/* Fallback to external image if not found locally */}}
-      <img src="{{ $src }}" {{ with $alt }}alt="{{ . }}"{{ end }}>
-  {{ else }}
-      {{/* Fallback to the original src path if image is missing */}}
-      <img src="/images/{{ $src }}" {{ with $alt }}alt="{{ . }}"{{ end }}>
-  {{ end }}
-
-  {{/* Image metadata from data/images if available */}}
-  {{- $thisuid := $src | lower | replaceRE "\\.[jpegpn]{3,4}$" "" -}}
-  {{- with index $.Site.Data.images $thisuid -}}
-    {{- with .caption -}}
-      <p>
-        {{ . | markdownify }}
-        {{- with $.credit -}}
-          <span>—&nbsp;{{ . | markdownify }}</span>
-        {{- end }}
-      </p>
-    {{- end }}
+        src="{{- $imgBaseCDN -}}_w1200.{{- $imgExt -}}"
+        {{- if or (.Get "alt") $thisimg.alt -}}
+          alt="{{- with .Get "alt" -}}
+            {{- . -}}
+          {{- else -}}
+            {{- $thisimg.alt -}}
+          {{- end -}}"
+        {{- end -}}
+        srcset="{{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
+        {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w"
+        sizes="(max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
+      />
+    {{- else -}}
+      <img
+        src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+        {{- if or (.Get "alt") $thisimg.alt -}}
+          alt="{{- with .Get "alt" -}}
+            {{- . -}}
+          {{- else -}}
+            {{- $thisimg.alt -}}
+          {{- end -}}"
+        {{- end -}}
+      />
+    {{- end -}}
   {{- end -}}
-
+  {{- if and $thisimg (or $imgCaption $imgCredit) -}}
+    <p>
+      {{- $imgCaption | markdownify -}}
+      {{- if $imgCredit -}}
+        <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>
+      {{- end -}}
+    </p>
+  {{- end -}}
 </div>
+<!-- image -->
