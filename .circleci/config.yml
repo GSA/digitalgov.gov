@@ -32,9 +32,6 @@ jobs:
           name: Build assets
           command: npm run federalist
       - run:
-          name: Build with Hugo
-          command: HUGO_ENV=production hugo --logLevel info -s . -d public
-      - run:
           name: Lint JSON
           command: npm run lint:json
       - run:
@@ -68,6 +65,9 @@ jobs:
             sudo mv hugo /usr/local/bin/
             rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
             hugo version
+      - run:
+          name: Build with Hugo
+          command: HUGO_ENV=production hugo --logLevel info -s . -d public
   
 workflows:
   build_test_process:
