@@ -1,8 +1,7 @@
 version: 2.1
 
 orbs:
-  node: circleci/node@5.2.0
-  aws-cli: circleci/aws-cli@3.1
+  node: circleci/node@5.3.0 
 
 jobs:
   build:
@@ -10,60 +9,31 @@ jobs:
       - image: cimg/node:lts
     steps:
       - checkout
-      - aws-cli/setup
-      - run:
-          name: Create assets directory
-          command: mkdir -p assets/images
-      - run:
-          name: Sync S3 content
-          command: aws s3 sync s3://digitalgov assets/images
-      - run:
-          name: Install Hugo
-          command: |
-            if [ ! -f ".hugo-version" ]; then
-              echo ".hugo-version file not found" >&2
-              exit 1
-            fi
-            HUGO_VERSION=$(cat .hugo-version)
-            wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-            tar xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-            sudo mv hugo /usr/local/bin/
-            rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-            hugo version
       - node/install-packages:
           cache-path: ~/project/node_modules
           override-ci-command: npm install
+      - run:
+          name: Install Gulp
+          command: sudo npm install gulp-cli -g
+      - run:
+          name: Process Image/file
+          command: gulp upload
+      - add_ssh_keys:
+          fingerprints:
+            - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
+      - run:
+          name: Commit to GitHub
+          command: |
+            git config user.email "digitalgov@gsa.gov"
+            git config user.name "CircleCI"
+            git add content/uploads/_inbox data/images data/files
+            git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
       - run:
           name: Build assets
           command: npm run federalist
       - run:
           name: Build with Hugo
           command: HUGO_ENV=production hugo --logLevel info -s . -d public
-      - persist_to_workspace:
-          paths:
-            - node_modules
-            - public
-            - assets
-          root: .
-  html-proofer:
-    docker:
-      - image: cimg/ruby:3.0
-    steps:
-      - attach_workspace:
-          at: .
-      - run:
-          name: Install HTMLProofer
-          command: gem install html-proofer
-      - run:
-          name: Test generated website with HTML Proofer
-          command: htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0
-  test:
-    docker:
-      - image: cimg/node:lts
-    steps:
-      - checkout
-      - attach_workspace:
-          at: .
       - run:
           name: Lint JSON
           command: npm run lint:json
@@ -85,55 +55,21 @@ jobs:
       - run:
           name: Check Template formatting
           command: npm run prettier:templates
-  process:
-    docker:
-      - image: cimg/node:lts
-    steps:
-      - checkout
-      - attach_workspace:
-          at: .
-      - aws-cli/setup
       - run:
-          name: Create assets directory
-          command: mkdir -p assets/images
-      - run:
-          name: Sync S3 content
-          command: aws s3 sync s3://digitalgov assets/images
-      - run:
-          name: Install Gulp
-          command: sudo npm install gulp-cli -g
-      - run:
-          name: Process Upload
-          command: gulp upload
-      - add_ssh_keys:
-          fingerprints:
-            - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
-      - run:
-          name: Configure Git
+          name: Install Hugo
           command: |
-            git config --global user.email "digitalgov@gsa.gov"
-            git config --global user.name "CircleCI"
-            git config --global push.default simple
-      - run:
-          name: Commit and Push Changes
-          command: |
-            git add content/uploads/_inbox data/images data/files
-            git diff-index --quiet HEAD || git commit -m "Images/Files processed [skip ci]" && git push origin $CIRCLE_BRANCH
-
+            if [ ! -f ".hugo-version" ]; then
+              echo ".hugo-version file not found" >&2
+              exit 1
+            fi
+            HUGO_VERSION=$(cat .hugo-version)
+            wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+            tar xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+            sudo mv hugo /usr/local/bin/
+            rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+            hugo version
+  
 workflows:
   build_test_process:
     jobs:
       - build
-      - html-proofer:
-          requires:
-            - build
-      - test:
-          requires:
-            - build
-      - process:
-          requires:
-            - html-proofer
-            - test
-          filters:
-            branches:
-              ignore: main

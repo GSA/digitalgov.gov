@@ -33,26 +33,29 @@
 {{ end }}
 
 {{ $imagePath := printf "images/%s.%s" $thisuid $imgExt }}
-{{ $image := resources.Get $imagePath }}
-
-<div class="{{ delimit $imageClasses " " }}">
-  <img
-    src="{{ $image.RelPermalink }}"
-    {{- if or (.Get "alt") $thisimg.alt -}}
-      alt="{{- with .Get "alt" -}}
-        {{- . -}}
-      {{- else -}}
-        {{- $thisimg.alt -}}
-      {{- end -}}"
-    {{- end -}}
-  />
-  {{- if or $thisimg.caption $thisimg.credit -}}
-    <p>
-      {{- $thisimg.caption | markdownify -}}
-      {{- if $thisimg.credit -}}
-        <span>—&nbsp;{{ $thisimg.credit | markdownify -}}</span>
+{{ with resources.Get $imagePath }}
+  <div class="{{ delimit $imageClasses " " }}">
+    <img
+      src="{{ .RelPermalink }}"
+      {{- if or ($.Get "alt") $thisimg.alt -}}
+        alt="{{- with $.Get "alt" -}}
+          {{- . -}}
+        {{- else -}}
+          {{- $thisimg.alt -}}
+        {{- end -}}"
       {{- end -}}
-    </p>
-  {{- end -}}
-</div>
+    />
+    {{- if or $thisimg.caption $thisimg.credit -}}
+      <p>
+        {{- $thisimg.caption | markdownify -}}
+        {{- if $thisimg.credit -}}
+          <span>—&nbsp;{{ $thisimg.credit | markdownify -}}</span>
+        {{- end -}}
+      </p>
+    {{- end -}}
+  </div>
+{{ else }}
+  <!-- Log error if image not found -->
+  {{ errorf "Image not found: %s" $imagePath }}
+{{ end }}
 <!-- image -->
