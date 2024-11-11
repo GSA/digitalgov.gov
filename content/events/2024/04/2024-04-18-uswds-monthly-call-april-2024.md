@@ -1,6 +1,6 @@
 ---
 title: USWDS Monthly Call - April 2024
-deck: An introduction to Web Components
+deck: An Introduction to Web Components
 kicker: USWDS
 summary: The U.S. Web Design System (USWDS) team will go over some basics of Web Components and how they apply to the design system.
 host: U.S. Web Design System
@@ -10,15 +10,15 @@ date: 2024-04-18 14:00:00 -0500
 end_date: 2024-04-18 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
-  - design
   - software-engineering
   - human-centered-design
+  - open-gov
 slug: uswds-monthly-call-april-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2024-uswds-monthly-call-april-title-card
 youtube_id: GHomUbYTgwQ
-youtube_title: "An introduction to Web Components"
+youtube_title: "An Introduction to Web Components"
 ---
 
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
