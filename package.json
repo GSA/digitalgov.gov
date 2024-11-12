@@ -4,7 +4,7 @@
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
   "scripts": {
-    "federalist": "(echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] Starting federalist build...\" && npm install && echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] npm install completed successfully.\" || { echo \"[Error $(date '+%Y-%m-%d %H:%M:%S')] npm install failed! Check dependency configurations and network connectivity.\" >&2; exit 1; }) && (echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] Running mount-s3...\" && npm run mount-s3 && echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] mount-s3 completed successfully.\" || { echo \"[Error $(date '+%Y-%m-%d %H:%M:%S')] mount-s3 failed! Verify S3 configuration and credentials.\" >&2; exit 1; }) && (echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] Setting environment to production...\" && export NODE_ENV=production && echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] NODE_ENV set to production.\") && (echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] Running gulp buildAssets...\" && gulp buildAssets && echo \"[Log $(date '+%Y-%m-%d %H:%M:%S')] gulp buildAssets completed successfully.\" || { echo \"[Error $(date '+%Y-%m-%d %H:%M:%S')] gulp buildAssets failed! Check Gulp tasks and source files.\" >&2; exit 1; })",
+    "federalist": "npm install --include=optional sharp && npm run mount-s3 && export NODE_ENV=production && gulp buildAssets",
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.json -print0 | xargs -0I {} jsonlint '{}'",
     "lint:js": "eslint './themes/digital.gov/src/js/*.js' './config/typescript/**/*.ts'",
