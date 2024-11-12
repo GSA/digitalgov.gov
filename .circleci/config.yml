@@ -11,7 +11,7 @@ jobs:
       - checkout
       - node/install-packages:
           cache-path: ~/project/node_modules
-          override-ci-command: npm install
+          override-ci-command: npm install --include=optional
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
