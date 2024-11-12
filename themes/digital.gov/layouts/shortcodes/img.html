@@ -52,6 +52,7 @@
   {{ $imageClasses = $imageClasses | append "image-center" }}
 {{ end }}
 
+
 <div class="{{ delimit $imageClasses " " }}">
   {{/* If image not found in data or is external URL, use direct src */}}
   {{- if or (not $thisimg) (ne $prefix $thisuid) -}}
