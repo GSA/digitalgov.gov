@@ -38,6 +38,9 @@ jobs:
               echo "No files to commit, skipping..."
             fi
       - run:
+          name: Audit packages
+          command: npm run audit
+      - run:
           name: Build assets
           command: npm run federalist
       - run:
