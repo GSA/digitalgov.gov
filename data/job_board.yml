@@ -8,17 +8,6 @@
 
 
 
-- title: Data Analyst
-  department: Department of Homeland Security
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          1-year non-reimbursable assignment Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Data Analyst Series Requested: 0343 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
-  open_date: 2024-07-31
-  close_date: 2024-11-05
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/802537300
-  cop_topics:
-    - Communicators
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -30,28 +19,6 @@
   cop_topics:
     - Communicators
     - Plain Language
-
-- title: Management and Program Analyst
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          As a Management and Program Analyst, you will apply analytical ability, judgment, discretion, and expert knowledge of TTS policies, principles, concepts to managing audits, records management, and Freedom of Information Act for TTS. Location of position: FAS, TTS The office is responsible to provide oversight of TTS' consolidated management functions including strategic planning, performance management, governance, risk management, internal controls, and compliance program activities.
-  open_date: 2024-10-29
-  close_date: 2024-11-07
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/815399800
-  cop_topics:
-    - Web Managers
-
-- title: Supervisory Data Scientist
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          As a Supervisory Data Scientist, you will train and support early-career staff performing data science functions with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Location of position: General Services Administration, Technology Transformation Services (TTS), U.S. Digital Corps (USDC) Division. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-10-31
-  close_date: 2024-11-06
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/816248400
-  cop_topics:
-    - Web Analytics
 
 - title: Public Affairs Specialist
   department: Department of the Interior
@@ -75,18 +42,27 @@
   cop_topics:
     - Web Managers
 
-- title: Supervisory IT Program Manager (APPSW)
-  department: Department of the Treasury
+- title: MANAGING DIRECTOR COMMUNICATIONS
+  department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
   description: >
-          This is located at Departmental Offices,Management CFO - Information Systems and Chief Information Officer. As a Supervisory IT Program Manager (APPSW), you will oversee a matrixed team whose work is to improve agencies' digital accessibility by maintaining accessible federal technology environment, promoting accessible digital experiences, and continuing the implementation of accessibility standards in accordance with Section 508.
-  open_date: 2024-11-04
-  close_date: 2024-11-11
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/817344900
+          This position is part of the U.S. International Development Finance Corporation (DFC), Office of External Affairs. As the Managing Director, Communications you will develop and implement communication strategies that promote the DFC's mission, values, and objectives to key stakeholders, including the public, policymakers, media outlets, and private sector partners.
+  open_date: 2024-11-07
+  close_date: 2024-11-29
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804478300
   cop_topics:
-    - Web Managers
+    - Communicators
 
-
+- title: MANAGING DIRECTOR COMMUNICATIONS
+  department: Other Agencies and Independent Organizations
+  location: Washington, District of Columbia
+  description: >
+          This position is part of the U.S. International Development Finance Corporation (DFC), Office of External Affairs. As the Managing Director, Communications you will develop and implement communication strategies that promote the DFC's mission, values, and objectives to key stakeholders, including the public, policymakers, media outlets, and private sector partners.
+  open_date: 2024-11-07
+  close_date: 2024-11-29
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804477900
+  cop_topics:
+    - Communicators
 
 
 
