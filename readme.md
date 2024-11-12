@@ -174,7 +174,52 @@ You would want to have the Hugo build running along with a `gulp` session in sep
 
 ### Images
 
-Images found in `content/images/inbox/` will be optimized and compressed and sent to an AWS S3 bucket for usage in your layouts and content. This is done by running the `gulp img` command. See the digital.gov wiki for [how to process images](https://github.com/GSA/digitalgov.gov/wiki/Adding-Images).
+Digital.gov uses a hybrid image processing system that combines Hugo's built-in image processing with AWS S3 storage:
+
+#### Image Processing System
+
+Images found in `content/images/inbox/` are handled in two ways simultaneously:
+1. Optimized and compressed then sent to an AWS S3 bucket via `gulp img`
+2. Processed by Hugo's built-in image processing to create responsive variants (800px and 1200px)
+
+This dual approach ensures:
+- Optimized image delivery through S3
+- Responsive image variants through Hugo
+- Fallback paths when either system isn't available
+- Support for external images through direct URLs
+
+#### Setting up AWS Credentials
+
+1. Copy the environment template:
+   ```bash
+   cp env.example .env
+   ```
+
+2. Add your AWS credentials to the `.env` file:
+   ```
+   AWS_ACCESS_KEY_ID=[your access key]
+   AWS_SECRET_ACCESS_KEY=[your secret key]
+   ```
+
+3. Mount the S3 bucket:
+   ```bash
+   npm run mount-s3
+   ```
+
+#### Using the Image Shortcode
+
+The `img` shortcode provides flexible image handling with both S3 and Hugo processing:
+
+```go
+{{< img src="path/to/image.jpg" alt="Description" align="center" caption="My caption" credit="Photo by John Doe" >}}
+```
+
+Parameters:
+- `src`: path to the image (required)
+- `alt`: alt text for accessibility (required)
+- `align`: alignment (left/center/right, optional)
+- `caption`: image caption (optional)
+- `credit`: image credit (optional)
 
 **Other helpful HUGO commands:**
 
