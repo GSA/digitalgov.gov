@@ -1,11 +1,10 @@
-const { S3Client, ListObjectsV2Command, GetObjectCommand } = require('@aws-sdk/client-s3');
+const { S3Client, GetObjectCommand } = require('@aws-sdk/client-s3');
 const fs = require('fs');
 const path = require('path');
 
 const BUCKET_NAME = 'digitalgov';
 const LOCAL_IMAGE_DIR = './assets/s3-images';
 const IMAGE_DATA_DIR = './data/images';
-const MAX_RETRIES = 3;
 
 // Function to create local directory
 function createLocalDir() {
@@ -60,8 +59,8 @@ function getImageMetadata() {
   return images;
 }
 
-// Function to download a file from S3 with retry logic
-async function downloadFile(s3Client, key, retries = 0) {
+// Function to download a file from S3
+async function downloadFile(s3Client, key) {
   const localPath = path.join(LOCAL_IMAGE_DIR, key);
   try {
     const command = new GetObjectCommand({
@@ -80,16 +79,11 @@ async function downloadFile(s3Client, key, retries = 0) {
 
     console.log(`Downloaded: ${key}`);
   } catch (err) {
-    if (retries < MAX_RETRIES) {
-      console.warn(`Retry ${retries + 1} for ${key} due to error:`, err);
-      await downloadFile(s3Client, key, retries + 1);
-    } else {
-      console.error(`Failed to download ${key} after ${MAX_RETRIES} attempts:`, err);
-    }
+    console.error(`Error downloading ${key}:`, err);
   }
 }
 
-// Main function to sync S3 to local filesystem
+// Main function to sync S3 to local filesystem, downloading one file at a time
 async function syncS3ToLocal() {
   try {
     // Create S3 client
@@ -112,14 +106,12 @@ async function syncS3ToLocal() {
     }
     console.log(`Found ${images.length} images in metadata`);
 
-    // Download each image with error handling
-    const downloadPromises = images.map(img => {
+    // Sequentially download each image
+    for (const img of images) {
       console.log(`Preparing to download: ${img.key}`);
-      return downloadFile(s3Client, img.key);
-    });
+      await downloadFile(s3Client, img.key);
+    }
 
-    await Promise.all(downloadPromises);
-    
     console.log('Successfully synced S3 bucket to local filesystem');
   } catch (err) {
     console.error('Critical error in sync process:', err);
