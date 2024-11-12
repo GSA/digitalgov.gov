@@ -1,10 +1,13 @@
 ---
-source: ""
 date: 2024-11-12 00:00:00 -0500
-title: Crafting quality content throughout its lifecycle
-deck: Tips for content maintenance and governance
-summary: Learn about the life cycle of content, how content comes across to the
-  user, and how to develop a content management strategy.
+title: "Crafting quality content throughout its lifecycle"
+deck: "Tips for content maintenance and governance"
+summary: "Learn about the life cycle of content, how content comes across to the user, and how to develop a content management strategy."
+
+# see all authors at https://digital.gov/authors
+authors:
+  - frances-carden
+
 # See all topics at https://digital.gov/topics
 topics:
   - content-strategy
@@ -12,12 +15,18 @@ topics:
   - social-media
   - communication
   - product-and-project-management
+
 slug: crafting-quality-content-throughout-its-lifecycle
+
+primary_image: ""
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Digital content is like a puppy.
 
 You must care for it, feed it, and meet its needs at various points in its life. If you think publishing content is the end, think again. You’ve only just gotten the puppy. Now you need to support it and give it a good life.
