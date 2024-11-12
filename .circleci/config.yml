@@ -39,7 +39,7 @@ jobs:
             fi
       - run:
           name: Audit packages
-          command: npm run audit
+          command: npm audit
       - run:
           name: Build assets
           command: npm run federalist
