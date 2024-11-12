@@ -10,11 +10,14 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Install libvips
-          command: sudo apt-get update && sudo apt-get install -y libvips-dev
+          name: Install libvips and additional libraries
+          command: sudo apt-get update && sudo apt-get install -y libvips-dev libpng-dev libjpeg-dev
       - node/install-packages:
           cache-path: ~/project/node_modules
           override-ci-command: npm install --include=optional
+      - run:
+          name: Rebuild sharp
+          command: npm rebuild sharp
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
