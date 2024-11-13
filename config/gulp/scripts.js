@@ -24,13 +24,32 @@ function copyUswdsJS() {
  * @return {File} common.js - The bundled and uglified script.
  */
 function compile() {
-
   // check the environment mode
   // if it is development, then set the mode to development
   const isProduction = process.env.NODE_ENV === 'production';
   const webpackConfig = {
     mode: isProduction ? 'production' : 'development',
     devtool: isProduction ? false : 'inline-source-map',
+    entry: {
+      main: `${PROJECT_JS_SRC}/stream-images.js`
+    },
+    output: {
+      filename: '[name].js'
+    },
+    module: {
+      rules: [
+        {
+          test: /\.js$/,
+          exclude: /node_modules/,
+          use: {
+            loader: 'babel-loader',
+            options: {
+              presets: ['@babel/preset-env']
+            }
+          }
+        }
+      ]
+    },
     optimization: {
       minimize: true,
       minimizer: [new TerserPlugin({
@@ -42,15 +61,21 @@ function compile() {
     },
   };
 
-  
-  // Stream images is imported by itself in `content/images/_index.md`.
-  return src([`${PROJECT_JS_SRC}/*.js`], {
+  return src([`${PROJECT_JS_SRC}/stream-images.js`], {
     sourcemaps: true,
   })
     .pipe(
       webpack(
         webpackConfig,
-        compiler
+        compiler,
+        (err, stats) => {
+          if (err) {
+            console.error('Webpack Error:', err);
+          }
+          if (stats) {
+            console.log(stats.toString({ colors: true }));
+          }
+        }
       )
     )
     .pipe(dest(JS_DEST, { sourcemaps: true }));

@@ -1,7 +1,7 @@
 const { S3Client, GetObjectCommand } = require('@aws-sdk/client-s3');
 const fs = require('fs');
 const path = require('path');
-
+require('dotenv').config();
 const BUCKET_NAME = 'digitalgov';
 const LOCAL_IMAGE_DIR = './assets/s3-images';
 const IMAGE_DATA_DIR = './data/images';
