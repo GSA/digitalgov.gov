@@ -38,7 +38,7 @@ featured_links:
     - title: "How to get your open data on Data.gov"
       summary: "Find out how federal, federal geospatial, and non-federal data is funneled to Data.gov."
       href: "https://resources.data.gov/resources/data-gov-open-data-howto/"
-   - title: "Understanding the Site Scanning program"
+    - title: "Understanding the Site Scanning program"
       summary: "This program automatically generates data about the health and best practices of federal websites."
       href: "https://digital.gov/guides/site-scanning/"
 ---
