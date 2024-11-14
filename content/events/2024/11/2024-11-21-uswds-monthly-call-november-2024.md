@@ -21,7 +21,7 @@ slug: uswds-monthly-call-november-2024
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
-primary_image: 2024-uswds-monthly-call-november-title-card
+primary_image: 2024-uswds-monthly-call-nov-title-card
 
 ---
 
