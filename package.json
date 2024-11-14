@@ -28,7 +28,12 @@
     "typescript:build": "tsc",
     "type-check": "tsc --noEmit",
     "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix",
-    "mount-s3": "node scripts/mount-s3.js"
+    "mount-s3": "node scripts/mount-s3.js",
+    "dev": "npm-run-all --parallel rspack:watch hugo:dev browser-sync",
+    "dev:s3": "npm-run-all --parallel mount-s3 rspack:watch hugo:dev browser-sync",
+    "rspack:watch": "npx @rspack/cli build --watch",
+    "hugo:dev": "hugo server -D --bind='0.0.0.0' --disableFastRender",
+    "browser-sync": "browser-sync start --proxy 'localhost:1313' --files 'public/**/*' --port 3000"
   },
   "directories": {
     "doc": "docs"
@@ -73,6 +78,7 @@
     "@types/mime-types": "^2.1.4",
     "@typescript-eslint/eslint-plugin": "^7.17.0",
     "@typescript-eslint/parser": "^7.17.0",
+    "browser-sync": "^3.0.2",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",

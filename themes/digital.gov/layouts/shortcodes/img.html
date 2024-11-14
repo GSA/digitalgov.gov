@@ -52,11 +52,12 @@
   {{ $imageClasses = $imageClasses | append "image-center" }}
 {{ end }}
 
+
 <div class="{{ delimit $imageClasses " " }}">
   {{/* Try to get local image first */}}
   {{- $localImage := resources.Get (printf "s3-images/%s.%s" $thisuid $imgExt) -}}
   {{- if $localImage -}}
-  {{ warnf "Using local image: %s" $localImage.RelPermalink }}
+    {{ warnf "Using local image: %s" $localImage.RelPermalink }}
     {{- $resized := $localImage -}}
     {{- if gt $localImage.Width 1200 -}}
       {{- $resized = $localImage.Resize "1200x" -}}
@@ -68,7 +69,7 @@
       {{- end -}}
       loading="lazy"
     />
-  {{/* If no local image but we have CDN data */}}
+    {{/* If no local image but we have CDN data */}}
   {{- else if $thisimg -}}
     <img
       src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
@@ -81,7 +82,7 @@
       {{- end -}}
       loading="lazy"
     />
-  {{/* Fallback to direct source */}}
+    {{/* Fallback to direct source */}}
   {{- else -}}
     <img
       src="{{ $thisuid }}"

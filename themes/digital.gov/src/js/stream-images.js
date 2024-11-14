@@ -2,42 +2,46 @@
  * Handles image pagination and display
  */
 
-alert('stream-images.js loaded');
+alert("stream-images.js loaded");
 
-
-document.addEventListener('DOMContentLoaded', () => {
-  console.log('DOM loaded, initializing image stream...');
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("DOM loaded, initializing image stream...");
 
   const imagesStreamContainer = document.querySelector(".dg-image-stream");
   const paginationContainer = document.querySelector(".usa-pagination__list");
   const imageDataElement = document.querySelector("#image-data");
 
   if (!imagesStreamContainer) {
-    console.error('Images container not found');
+    console.error("Images container not found");
     return;
   }
   if (!paginationContainer) {
-    console.error('Pagination container not found');
+    console.error("Pagination container not found");
     return;
   }
   if (!imageDataElement) {
-    console.error('Image data element not found');
+    console.error("Image data element not found");
     return;
   }
 
   let DIGITALGOV_IMAGES;
   try {
-    const rawData = imageDataElement.getAttribute('data-images');
+    const rawData = imageDataElement.getAttribute("data-images");
     console.log(JSON.parse(rawData)); // Validate JSON
-    console.log('Raw image uuid: ')
+    console.log("Raw image uuid: ");
     DIGITALGOV_IMAGES = JSON.parse(rawData);
     if (!DIGITALGOV_IMAGES) {
-      throw new Error('No image data found');
+      throw new Error("No image data found");
     }
-    console.log('Successfully parsed image data:', Object.keys(DIGITALGOV_IMAGES).length, 'images');
+    console.log(
+      "Successfully parsed image data:",
+      Object.keys(DIGITALGOV_IMAGES).length,
+      "images"
+    );
   } catch (error) {
-    console.error('Error parsing image data:', error);
-    imagesStreamContainer.innerHTML = '<p>Error loading images. Please try again later.</p>';
+    console.error("Error parsing image data:", error);
+    imagesStreamContainer.innerHTML =
+      "<p>Error loading images. Please try again later.</p>";
     return;
   }
 
@@ -45,8 +49,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Get current page from URL
   const urlParams = new URLSearchParams(window.location.search);
-  let currentPage = parseInt(urlParams.get('page'), 10) || 1;
-  console.log('Current page:', currentPage);
+  let currentPage = parseInt(urlParams.get("page"), 10) || 1;
+  console.log("Current page:", currentPage);
 
   /**
    * Creates img card markup for individual images
@@ -55,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
     try {
       return `<div class="card-img">
         <div class="media" style="max-width:400px;">
-          <img src="${image.url}" loading="lazy" alt="${image.alt || ''}">
+          <img src="${image.url}" loading="lazy" alt="${image.alt || ""}">
           <p>${image.caption}</p>
         </div>
         <div class="img-data">
@@ -79,24 +83,26 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>`;
     } catch (error) {
-      console.error('Error creating image element:', error, { uid, image });
-      return '<p>Error displaying image</p>';
+      console.error("Error creating image element:", error, { uid, image });
+      return "<p>Error displaying image</p>";
     }
   }
 
   /**
    * Creates pagination markup following USWDS design system
    */
-  function createPagination(currentPage, totalPages) {
+  function createPagination(pageNum, totalPages) {
     try {
-      console.log('Creating pagination for page', currentPage, 'of', totalPages);
-      let paginationHTML = '';
+      console.log("Creating pagination for page", pageNum, "of", totalPages);
+      let paginationHTML = "";
 
       // Previous button (slot 0)
-      if (currentPage > 1) {
+      if (pageNum > 1) {
         paginationHTML += `
           <li class="usa-pagination__item usa-pagination__arrow">
-            <a href="?page=${currentPage - 1}" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
+            <a href="?page=${
+              pageNum - 1
+            }" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
               <svg class="usa-icon" aria-hidden="true" role="img">
                 <use xlink:href="/uswds/img/sprite.svg#navigate_before"></use>
               </svg>
@@ -108,26 +114,34 @@ document.addEventListener('DOMContentLoaded', () => {
       // First page (slot 1)
       paginationHTML += `
         <li class="usa-pagination__item usa-pagination__page-no">
-          <a href="?page=1" class="usa-pagination__button${currentPage === 1 ? ' usa-current' : ''}" 
-             aria-label="Page 1"${currentPage === 1 ? ' aria-current="page"' : ''}>1</a>
+          <a href="?page=1" class="usa-pagination__button${
+            pageNum === 1 ? " usa-current" : ""
+          }" 
+             aria-label="Page 1"${
+               pageNum === 1 ? ' aria-current="page"' : ""
+             }>1</a>
         </li>`;
 
       // Calculate visible page numbers
       let pages = [];
       if (totalPages <= 7) {
         // Show all pages if 7 or fewer
-        pages = Array.from({length: totalPages}, (_, i) => i + 1);
+        pages = Array.from({ length: totalPages }, (_, i) => i + 1);
+      } else if (pageNum <= 4) {
+        // Near start
+        pages = [1, 2, 3, 4, 5];
+      } else if (pageNum >= totalPages - 3) {
+        // Near end
+        pages = [
+          totalPages - 4,
+          totalPages - 3,
+          totalPages - 2,
+          totalPages - 1,
+          totalPages,
+        ];
       } else {
-        if (currentPage <= 4) {
-          // Near start
-          pages = [1, 2, 3, 4, 5];
-        } else if (currentPage >= totalPages - 3) {
-          // Near end
-          pages = [totalPages - 4, totalPages - 3, totalPages - 2, totalPages - 1, totalPages];
-        } else {
-          // Middle
-          pages = [currentPage - 2, currentPage - 1, currentPage, currentPage + 1, currentPage + 2];
-        }
+        // Middle
+        pages = [pageNum - 2, pageNum - 1, pageNum, pageNum + 1, pageNum + 2];
       }
 
       // Add ellipsis and pages
@@ -139,14 +153,16 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       // Middle pages (slots 2-6)
-      pages.slice(1).forEach(pageNum => {
+      pages.slice(1).forEach((pageNumber) => {
         paginationHTML += `
           <li class="usa-pagination__item usa-pagination__page-no">
-            <a href="?page=${pageNum}" 
-               class="usa-pagination__button${pageNum === currentPage ? ' usa-current' : ''}" 
-               aria-label="Page ${pageNum}"
-               ${pageNum === currentPage ? 'aria-current="page"' : ''}>
-              ${pageNum}
+            <a href="?page=${pageNumber}" 
+               class="usa-pagination__button${
+                 pageNumber === pageNum ? " usa-current" : ""
+               }" 
+               aria-label="Page ${pageNumber}"
+               ${pageNumber === pageNum ? 'aria-current="page"' : ""}>
+              ${pageNumber}
             </a>
           </li>`;
       });
@@ -164,19 +180,23 @@ document.addEventListener('DOMContentLoaded', () => {
         paginationHTML += `
           <li class="usa-pagination__item usa-pagination__page-no">
             <a href="?page=${totalPages}" 
-               class="usa-pagination__button${currentPage === totalPages ? ' usa-current' : ''}" 
+               class="usa-pagination__button${
+                 pageNum === totalPages ? " usa-current" : ""
+               }" 
                aria-label="Last page, page ${totalPages}"
-               ${currentPage === totalPages ? 'aria-current="page"' : ''}>
+               ${pageNum === totalPages ? 'aria-current="page"' : ""}>
               ${totalPages}
             </a>
           </li>`;
       }
 
       // Next button (after slot 7)
-      if (currentPage < totalPages) {
+      if (pageNum < totalPages) {
         paginationHTML += `
           <li class="usa-pagination__item usa-pagination__arrow">
-            <a href="?page=${currentPage + 1}" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
+            <a href="?page=${
+              pageNum + 1
+            }" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
               <span class="usa-pagination__link-text">Next</span>
               <svg class="usa-icon" aria-hidden="true" role="img">
                 <use xlink:href="/uswds/img/sprite.svg#navigate_next"></use>
@@ -189,9 +209,9 @@ document.addEventListener('DOMContentLoaded', () => {
         paginationContainer.innerHTML = paginationHTML;
       }
     } catch (error) {
-      console.error('Error creating pagination:', error);
+      console.error("Error creating pagination:", error);
       if (paginationContainer) {
-        paginationContainer.innerHTML = '';
+        paginationContainer.innerHTML = "";
       }
     }
   }
@@ -199,23 +219,23 @@ document.addEventListener('DOMContentLoaded', () => {
   /**
    * Displays images for the current page
    */
-  function displayImages(images, page) {
+  function displayImages(images, pageNumber) {
     try {
       const imageEntries = Object.entries(images);
-      console.log('Total images:', imageEntries.length);
-      
+      console.log("Total images:", imageEntries.length);
+
       const totalPages = Math.ceil(imageEntries.length / ITEMS_PER_PAGE);
-      console.log('Total pages:', totalPages);
-      
-      // Validate current page using a local variable
-      let validatedPage = page;
+      console.log("Total pages:", totalPages);
+
+      // Validate page number
+      let validatedPage = pageNumber;
       if (validatedPage < 1) validatedPage = 1;
       if (validatedPage > totalPages) validatedPage = totalPages;
 
       const start = (validatedPage - 1) * ITEMS_PER_PAGE;
       const currentImages = imageEntries.slice(start, start + ITEMS_PER_PAGE);
-      
-      let imagesMarkup = '';
+
+      let imagesMarkup = "";
       currentImages.forEach(([uid, image]) => {
         imagesMarkup += createImageElement(uid, image);
       });
@@ -225,19 +245,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Update URL without reloading
       const url = new URL(window.location);
-      url.searchParams.set('page', validatedPage);
-      window.history.pushState({}, '', url);
+      url.searchParams.set("page", validatedPage);
+      window.history.pushState({}, "", url);
     } catch (error) {
-      console.error('Error displaying images:', error);
-      imagesStreamContainer.innerHTML = '<p>Error displaying images. Please try again later.</p>';
+      console.error("Error displaying images:", error);
+      imagesStreamContainer.innerHTML =
+        "<p>Error displaying images. Please try again later.</p>";
     }
   }
 
   try {
     // Sort images by date
     const sortedImages = Object.fromEntries(
-      Object.entries(DIGITALGOV_IMAGES).sort(([,a], [,b]) => 
-        new Date(b.date) - new Date(a.date)
+      Object.entries(DIGITALGOV_IMAGES).sort(
+        ([, a], [, b]) => new Date(b.date) - new Date(a.date)
       )
     );
 
@@ -246,12 +267,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Handle pagination clicks
     if (paginationContainer) {
-      paginationContainer.addEventListener('click', (e) => {
+      paginationContainer.addEventListener("click", (e) => {
         e.preventDefault();
-        const link = e.target.closest('a');
+        const link = e.target.closest("a");
         if (link) {
           const params = new URLSearchParams(new URL(link.href).search);
-          const newPageNum = parseInt(params.get('page'), 10);
+          const newPageNum = parseInt(params.get("page"), 10);
           if (newPageNum) {
             currentPage = newPageNum;
             displayImages(sortedImages, currentPage);
@@ -261,7 +282,8 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
   } catch (error) {
-    console.error('Error initializing image display:', error);
-    imagesStreamContainer.innerHTML = '<p>Error initializing image display. Please try again later.</p>';
+    console.error("Error initializing image display:", error);
+    imagesStreamContainer.innerHTML =
+      "<p>Error initializing image display. Please try again later.</p>";
   }
 });

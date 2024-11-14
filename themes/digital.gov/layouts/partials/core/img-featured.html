@@ -39,6 +39,7 @@
       {{- $.Scratch.Set "imgSuffix" "" -}}
     {{- end -}}
 
+
     <div class="media-featured">
       {{/* Try to get local image first */}}
       {{- $localImage := resources.Get (printf "s3-images/%s.%s" $imgBase $imgExt) -}}
