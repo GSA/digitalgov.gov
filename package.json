@@ -3,8 +3,9 @@
   "version": "2.0.0",
   "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
+  "type": "commonjs",
   "scripts": {
-    "federalist": "npm install --include=optional sharp && npm run mount-s3 && export NODE_ENV=production && gulp buildAssets",
+    "federalist": "npm install --include=optional sharp && npm run mount-s3 && export NODE_ENV=production && npm run build",
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.json -print0 | xargs -0I {} jsonlint '{}'",
     "lint:js": "eslint './themes/digital.gov/src/js/*.js' './config/typescript/**/*.ts'",
@@ -13,7 +14,6 @@
     "lint:markdown:fix": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint:styles": "npx stylelint ./themes/**/*.scss",
     "lint:styles:fix": "npx stylelint ./themes/**/*.scss --fix",
-    "local-build": "npm run typescript:build && gulp buildAssets && gulp watch",
     "prepare": "husky install",
     "prettier:styles": "npx prettier -c ./themes/**/*.scss",
     "prettier:styles:fix": "npx prettier -w ./themes/**/*.scss",
@@ -21,7 +21,7 @@
     "prettier:js:fix": "npx prettier -w 'themes/digital.gov/src/js/*.js' 'config/typescript/**/*.ts'",
     "prettier:templates": "npx prettier -c ./themes/**/*.html",
     "prettier:templates:fix": "npx prettier -w ./themes/**/*.html",
-    "start": "npm-run-all --parallel local-build hugo workflow",
+    "start": "npm-run-all --parallel dev hugo workflow",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci --sitemap https://digital.gov/sitemap.xml --sitemap-find https://digital.gov --sitemap-replace localhost:1313 --sitemap-exclude '/201*|styleguide|images|img|join|apis'",
     "workflow": "npx netlify-cms-proxy-server",
@@ -29,11 +29,12 @@
     "type-check": "tsc --noEmit",
     "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix",
     "mount-s3": "node scripts/mount-s3.js",
-    "dev": "npm-run-all --parallel rspack:watch hugo:dev browser-sync",
-    "dev:s3": "npm-run-all --parallel mount-s3 rspack:watch hugo:dev browser-sync",
-    "rspack:watch": "npx @rspack/cli build --watch",
-    "hugo:dev": "hugo server -D --bind='0.0.0.0' --disableFastRender",
-    "browser-sync": "browser-sync start --proxy 'localhost:1313' --files 'public/**/*' --port 3000"
+    "dev": "npm-run-all --parallel dev:js dev:sass hugo",
+    "dev:js": "rsbuild build --watch",
+    "dev:sass": "gulp watch",
+    "build": "npm-run-all --parallel build:js build:sass",
+    "build:js": "NODE_ENV=production rsbuild build",
+    "build:sass": "gulp buildSass"
   },
   "directories": {
     "doc": "docs"
