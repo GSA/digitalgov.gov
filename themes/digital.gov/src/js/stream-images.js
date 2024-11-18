@@ -25,7 +25,7 @@ if (!window.imageStreamInitialized) {
       return;
     }
 
-    let DIGITALGOV_IMAGES = window.DIGITALGOV_IMAGES;
+    const { DIGITALGOV_IMAGES } = window;
     try {
       if (!DIGITALGOV_IMAGES) {
         throw new Error("No image data found");
@@ -68,19 +68,27 @@ if (!window.imageStreamInitialized) {
     function createImageElement(uid, image) {
       try {
         // Construct the full image URL using the CDN URL, uid, and format from the image data
-        const imageUrl = `${CDN_URL}/${uid}.${image.format || 'png'}`;
-        
+        const imageUrl = `${CDN_URL}/${uid}.${image.format || "png"}`;
+
         return `<div class="card-img">
           <div class="media" style="max-width:400px;">
             <img src="${imageUrl}" loading="lazy" alt="${image.alt || ""}">
-            ${image.caption ? `<p>${image.caption}</p>` : ''}
+            ${image.caption ? `<p>${image.caption}</p>` : ""}
           </div>
           <div class="img-data">
             <div class="box">
               <p><strong>uid:</strong> ${uid}</p>
-              ${image.credit ? `<p><strong>credit:</strong> ${image.credit}</p>` : ''}
-              ${image.caption ? `<p><strong>caption:</strong> ${image.caption}</p>` : ''}
-              ${image.alt ? `<p><strong>alt:</strong> ${image.alt}</p>` : ''}
+              ${
+                image.credit
+                  ? `<p><strong>credit:</strong> ${image.credit}</p>`
+                  : ""
+              }
+              ${
+                image.caption
+                  ? `<p><strong>caption:</strong> ${image.caption}</p>`
+                  : ""
+              }
+              ${image.alt ? `<p><strong>alt:</strong> ${image.alt}</p>` : ""}
               <div class="code">
                 <p class="label">Use this field in the front matter</p>
                 <pre>primary_image: "${uid}"</pre>
@@ -109,111 +117,83 @@ if (!window.imageStreamInitialized) {
         console.log("Creating pagination for page", pageNum, "of", totalPages);
         let paginationHTML = "";
 
-        // Previous button (slot 0)
+        // Previous button
         if (pageNum > 1) {
           paginationHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
               <a href="?page=${
                 pageNum - 1
               }" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
-                <svg class="usa-icon" aria-hidden="true" role="img">
-                  <use xlink:href="/uswds/img/sprite.svg#navigate_before"></use>
-                </svg>
-                <span class="usa-pagination__link-text">Previous</span>
+                ‹ Previous
               </a>
             </li>`;
         }
 
-        // First page (slot 1)
-        paginationHTML += `
-          <li class="usa-pagination__item usa-pagination__page-no">
-            <a href="?page=1" class="usa-pagination__button${
-              pageNum === 1 ? " usa-current" : ""
-            }" 
-               aria-label="Page 1"${
-                 pageNum === 1 ? ' aria-current="page"' : ""
-               }>1</a>
-          </li>`;
-
-        // Calculate visible page numbers
-        let pages = [];
-        if (totalPages <= 7) {
-          // Show all pages if 7 or fewer
-          pages = Array.from({ length: totalPages }, (_, i) => i + 1);
-        } else if (pageNum <= 4) {
-          // Near start
-          pages = [1, 2, 3, 4, 5];
-        } else if (pageNum >= totalPages - 3) {
-          // Near end
-          pages = [
-            totalPages - 4,
-            totalPages - 3,
-            totalPages - 2,
-            totalPages - 1,
-            totalPages,
-          ];
-        } else {
-          // Middle
-          pages = [pageNum - 2, pageNum - 1, pageNum, pageNum + 1, pageNum + 2];
+        // First page
+        if (pageNum > 2) {
+          paginationHTML += `
+            <li class="usa-pagination__item usa-pagination__page-no">
+              <a href="?page=1" class="usa-pagination__link" aria-label="Page 1">1</a>
+            </li>`;
         }
 
-        // Add ellipsis and pages
-        if (pages[0] > 2) {
+        // Ellipsis if needed
+        if (pageNum > 3) {
           paginationHTML += `
-            <li class="usa-pagination__item usa-pagination__overflow" aria-label="ellipsis indicating non-visible pages">
+            <li class="usa-pagination__item usa-pagination__overflow" role="presentation">
               <span>…</span>
             </li>`;
         }
 
-        // Middle pages (slots 2-6)
-        pages.slice(1).forEach((pageNumber) => {
-          paginationHTML += `
-            <li class="usa-pagination__item usa-pagination__page-no">
-              <a href="?page=${pageNumber}" 
-                 class="usa-pagination__button${
-                   pageNumber === pageNum ? " usa-current" : ""
-                 }" 
-                 aria-label="Page ${pageNumber}"
-                 ${pageNumber === pageNum ? 'aria-current="page"' : ""}>
-                ${pageNumber}
-              </a>
-            </li>`;
-        });
+        // Current page and surrounding pages
+        for (
+          let i = Math.max(1, pageNum - 2);
+          i <= Math.min(totalPages, pageNum + 2);
+          i++
+        ) {
+          if (i === pageNum) {
+            paginationHTML += `
+              <li class="usa-pagination__item usa-pagination__page-no">
+                <a href="?page=${i}" class="usa-pagination__link usa-current" aria-label="Page ${i}" aria-current="page">
+                  ${i}
+                </a>
+              </li>`;
+          } else {
+            paginationHTML += `
+              <li class="usa-pagination__item usa-pagination__page-no">
+                <a href="?page=${i}" class="usa-pagination__link" aria-label="Page ${i}">
+                  ${i}
+                </a>
+              </li>`;
+          }
+        }
 
-        // Add ending ellipsis if needed (slot 6)
-        if (pages[pages.length - 1] < totalPages - 1) {
+        // Ellipsis if needed
+        if (pageNum < totalPages - 2) {
           paginationHTML += `
-            <li class="usa-pagination__item usa-pagination__overflow" aria-label="ellipsis indicating non-visible pages">
+            <li class="usa-pagination__item usa-pagination__overflow" role="presentation">
               <span>…</span>
             </li>`;
         }
 
-        // Last page if not already shown (slot 7)
-        if (pages[pages.length - 1] !== totalPages) {
+        // Last page
+        if (pageNum < totalPages - 1) {
           paginationHTML += `
             <li class="usa-pagination__item usa-pagination__page-no">
-              <a href="?page=${totalPages}" 
-                 class="usa-pagination__button${
-                   pageNum === totalPages ? " usa-current" : ""
-                 }" 
-                 aria-label="Last page, page ${totalPages}"
-                 ${pageNum === totalPages ? 'aria-current="page"' : ""}>
+              <a href="?page=${totalPages}" class="usa-pagination__link" aria-label="Last page, page ${totalPages}">
                 ${totalPages}
               </a>
             </li>`;
         }
 
-        // Next button (after slot 7)
+        // Next button
         if (pageNum < totalPages) {
           paginationHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
               <a href="?page=${
                 pageNum + 1
               }" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
-                <span class="usa-pagination__link-text">Next</span>
-                <svg class="usa-icon" aria-hidden="true" role="img">
-                  <use xlink:href="/uswds/img/sprite.svg#navigate_next"></use>
-                </svg>
+                Next ›
               </a>
             </li>`;
         }
@@ -235,7 +215,7 @@ if (!window.imageStreamInitialized) {
     function displayImages(images, pageNumber) {
       try {
         showLoading();
-        
+
         const imageEntries = Object.entries(images);
         console.log("Total images:", imageEntries.length);
 
@@ -252,9 +232,12 @@ if (!window.imageStreamInitialized) {
 
         let imagesMarkup = '<div class="grid-row grid-gap">';
         currentImages.forEach(([uid, image]) => {
-          imagesMarkup += `<div class="tablet:grid-col-6 desktop:grid-col-4">${createImageElement(uid, image)}</div>`;
+          imagesMarkup += `<div class="tablet:grid-col-6 desktop:grid-col-4">${createImageElement(
+            uid,
+            image
+          )}</div>`;
         });
-        imagesMarkup += '</div>';
+        imagesMarkup += "</div>";
 
         imagesStreamContainer.innerHTML = imagesMarkup;
         createPagination(validatedPage, totalPages);
