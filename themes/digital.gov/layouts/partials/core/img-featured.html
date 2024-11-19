@@ -44,7 +44,6 @@
       {{/* Try to get local image first */}}
       {{- $localImage := resources.Get (printf "s3-images/%s.%s" $imgBase $imgExt) -}}
       {{- if $localImage -}}
-        {{ warnf "Using local image: %s" $localImage.RelPermalink }}
         {{- $resized := $localImage -}}
         {{- if gt $localImage.Width 1200 -}}
           {{- $resized = $localImage.Resize "1200x" -}}

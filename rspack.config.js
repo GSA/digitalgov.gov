@@ -13,11 +13,14 @@ const config = {
   output: {
     path: path.resolve(__dirname, 'themes/digital.gov/static/dist/js'),
     filename: '[name].js',
-    clean: true
+    clean: true,
+    environment: {
+      module: false
+    }
   },
   resolve: { 
     extensionAlias: {
-      '.js': ['.mjs', '.ts', '.js']
+      '.js': ['.js', '.ts']
     }
   },
   optimization: {
@@ -27,10 +30,14 @@ const config = {
     rules: [
       {
         test: /\.js$/,
-        type: 'javascript/auto'
+        type: 'javascript/auto',
+        parser: {
+          commonjs: true
+        }
       }
     ]
-  }
+  },
+  target: 'browserslist'
 };
 
 module.exports = config;
