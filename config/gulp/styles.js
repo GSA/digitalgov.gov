@@ -19,7 +19,6 @@ const replace = require("gulp-replace");
 const sass = require("gulp-sass")(require("sass-embedded"));
 const sourcemaps = require("gulp-sourcemaps");
 const svgSprite = require("gulp-svg-sprite");
-const del = require("del");
 const rename = require("gulp-rename");
 const pkg = require("../../node_modules/@uswds/uswds/package.json");
 
@@ -144,7 +143,8 @@ function renameSprite() {
 }
 
 function cleanSprite() {
-  return del.sync(`${IMG_DEST}/symbol`);
+  const spriteDir = `${IMG_DEST}/symbol`;
+  fs.rmdirSync(spriteDir, { recursive: true });
 }
 
 exports.init = series(
