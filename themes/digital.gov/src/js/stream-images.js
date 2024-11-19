@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /**
  * Handles image pagination and display
  */
@@ -149,7 +150,7 @@ if (!window.imageStreamInitialized) {
         for (
           let i = Math.max(1, pageNum - 2);
           i <= Math.min(totalPages, pageNum + 2);
-          i++
+          i += 1
         ) {
           if (i === pageNum) {
             paginationHTML += `
