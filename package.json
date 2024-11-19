@@ -30,10 +30,10 @@
     "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix",
     "mount-s3": "node scripts/mount-s3.js",
     "dev": "npm-run-all --parallel dev:js dev:sass hugo",
-    "dev:js": "rsbuild build --watch",
+    "dev:js": "npx rsbuild build --watch",
     "dev:sass": "gulp watch",
     "build": "npm-run-all --parallel build:js build:sass",
-    "build:js": "NODE_ENV=production rsbuild build",
+    "build:js": "NODE_ENV=production npx rsbuild build",
     "build:sass": "gulp buildSass"
   },
   "directories": {
