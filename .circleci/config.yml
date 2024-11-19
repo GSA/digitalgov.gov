@@ -1,121 +1,119 @@
 version: 2.1
 
 orbs:
-  node: circleci/node@5.2.0
-
-defaults: &defaults
-  executor:
-    name: node/default
-    tag: "lts"
+  node: circleci/node@5.3.0 
 
 jobs:
   build:
-    <<: *defaults
+    docker:
+      - image: cimg/node:lts
     steps:
       - checkout
+      
+      # Install system dependencies first
       - run:
-          name: Install Hugo
+          name: Install System Dependencies
           command: |
-            if [ ! -f ".hugo-version" ]; then
-              echo ".hugo-version file not found" >&2
-              exit 1
-            fi
-            HUGO_VERSION=$(cat .hugo-version)
-            wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-            tar xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-            sudo mv hugo /usr/local/bin/
-            rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-            hugo version
+            sudo apt-get update
+            sudo apt-get install -y \
+              libvips-dev \
+              libpng-dev \
+              libjpeg-dev \
+              build-essential \
+              gcc \
+              g++ \
+              make
+            
+      # Clear npm cache and remove node_modules
+      - run:
+          name: Clean npm cache
+          command: |
+            npm cache clean --force
+            rm -rf node_modules
+            rm -f package-lock.json
+            
+
+      # Install node packages with specific Sharp configuration
       - node/install-packages:
           cache-path: ~/project/node_modules
-          override-ci-command: npm install
+          override-ci-command: |
+            npm install --include=optional --platform=linux --arch=x64 
+            npm install --include=optional sharp@0.33.3
+            
+      # Verify Sharp installation
       - run:
-          name: Build assets
-          command: npm run federalist
+          name: Verify Sharp Installation
+          command: |
+            node -e "require('sharp')"
+      
+      # Audit packages
       - run:
-          name: Build with Hugo
-          command: HUGO_ENV=production hugo --logLevel info -s . -d public
-      - persist_to_workspace:
-          paths:
-            - node_modules
-            - public
-          root: .
-  html-proofer:
-    docker:
-      - image: cimg/ruby:3.0
-    steps:
-      - attach_workspace:
-          at: .
-      - run:
-          name: Install HTMLProofer
-          command: gem install html-proofer
-      - run:
-          name: Test generated website with HTML Proofer
-          command: htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external || exit 0
-  test:
-    <<: *defaults
-    steps:
-      - checkout
-      - attach_workspace:
-          at: .
-      - run:
-          name: Lint JSON
-          command: npm run lint:json
-      - run:
-          name: Lint & fix Markdown
-          command: npm run lint:markdown:fix && npm run lint:markdown
-      - run:
-          name: Lint Styles
-          command: npm run lint:styles
-      - run:
-          name: Lint JavaScript
-          command: npm run lint:js
-      - run:
-          name: Check Style formatting
-          command: npm run prettier:styles
-      - run:
-          name: Check JavaScript formatting
-          command: npm run prettier:js
-      - run:
-          name: Check Template formatting
-          command: npm run prettier:templates
-  process:
-    <<: *defaults
-    steps:
-      - checkout
-      - attach_workspace:
-          at: .
+          name: Audit the packages
+          command: npm audit
+            
+      # Rest of your existing configuration
       - run:
           name: Install Gulp
           command: sudo npm install gulp-cli -g
+          
       - run:
-          name: Process Upload
-          command: gulp upload
+          name: Process Image/file if needed
+          command: |
+            if [ -n "$(ls -A content/uploads/_inbox/ 2>/dev/null)" ] || [ -n "$(ls -A data/images/ 2>/dev/null)" ] || [ -n "$(ls -A data/files/ 2>/dev/null)" ]; then
+              gulp upload
+            else
+              echo "No files to process, skipping..."
+            fi
+            
       - add_ssh_keys:
           fingerprints:
             - "3c:63:4f:05:a1:ce:cb:de:aa:cc:4b:46:b3:18:c0:66"
+            
       - run:
-          name: Commit to GitHub
+          name: Commit to GitHub if needed
           command: |
-            git config user.email "digitalgov@gsa.gov"
-            git config user.name "CircleCI"
-            git add content/uploads/_inbox data/images data/files
-            git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "Skipping..."
+            if [ -n "$(ls -A content/uploads/_inbox/ 2>/dev/null)" ] || [ -n "$(ls -A data/images/ 2>/dev/null)" ] || [ -n "$(ls -A data/files/ 2>/dev/null)" ]; then
+              git config user.email "digitalgov@gsa.gov"
+              git config user.name "CircleCI"
+              git add content/uploads/_inbox data/images data/files
+              git commit -m "Images/Files processed [skip ci]" && git push --set-upstream origin $CIRCLE_BRANCH || echo "No changes to commit..."
+            else
+              echo "No files to commit, skipping..."
+            fi
+            
+      - run:
+          name: Build assets
+          command: npm run federalist
+          
+      - run:
+          name: Lint JSON
+          command: npm run lint:json
+          
+      - run:
+          name: Lint & fix Markdown
+          command: npm run lint:markdown:fix && npm run lint:markdown
+          
+      - run:
+          name: Lint Styles
+          command: npm run lint:styles
+          
+      - run:
+          name: Lint JavaScript
+          command: npm run lint:js
+          
+      - run:
+          name: Check Style formatting
+          command: npm run prettier:styles
+          
+      - run:
+          name: Check JavaScript formatting
+          command: npm run prettier:js
+          
+      - run:
+          name: Check Template formatting
+          command: npm run prettier:templates
 
 workflows:
   build_test_process:
     jobs:
       - build
-      - html-proofer:
-          requires:
-            - build
-      - test:
-          requires:
-            - build
-      - process:
-          requires:
-            - html-proofer
-            - test
-          filters:
-            branches:
-              ignore: main

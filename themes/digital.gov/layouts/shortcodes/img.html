@@ -20,13 +20,23 @@
 {{- $thisuid := (.Get "src" | lower) -}}
 {{- $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid -}}
 {{- $thisimg := index $.Site.Data.images $thisuid -}}
-{{- $imgBase := $thisimg.uid -}}
-{{- $imgExt := $thisimg.format -}}
-{{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
-{{- $imgWidth := $thisimg.width -}}
-{{- $imgHeight := $thisimg.height -}}
-{{- $imgCaption := $thisimg.caption -}}
-{{- $imgCredit := $thisimg.credit -}}
+
+{{/* Set default values if image not found */}}
+{{- $imgBase := "" -}}
+{{- $imgExt := "" -}}
+{{- $imgBaseCDN := "" -}}
+{{- $imgCaption := "" -}}
+{{- $imgCredit := "" -}}
+
+{{/* If image found in data, use its values */}}
+{{- if $thisimg -}}
+  {{- $imgBase = $thisimg.uid -}}
+  {{- $imgExt = $thisimg.format -}}
+  {{- $imgBaseCDN = printf "%s/%s" $cdnurl $imgBase -}}
+  {{- $imgCaption = $thisimg.caption -}}
+  {{- $imgCredit = $thisimg.credit -}}
+{{- end -}}
+
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid -}}
 {{- $align := .Get "align" | default "" -}}
 {{- $inline := .Get "inline" | default "false" -}}
@@ -44,39 +54,51 @@
 
 
 <div class="{{ delimit $imageClasses " " }}">
-  {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
-    <img
-      src="{{- if ne $prefix $thisuid -}}
-        {{- $thisuid -}}
-      {{- else -}}
-        {{- $imgBaseCDN -}}_w1200.{{- $imgExt -}}
-      {{- end -}}"
-      {{- if or (.Get "alt") $thisimg.alt -}}
-        alt="{{- with .Get "alt" -}}
-          {{- . -}}
-        {{- else -}}
-          {{- $thisimg.alt -}}
-        {{- end -}}"
-      {{- end -}}
-      {{- if eq $prefix $thisuid -}}
-        srcset="{{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
-        {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w "
-      {{- end -}}
-      sizes="(max-width: 800px) 100vw, (max-width: 1200px) 100vw, 100vw"
-    />
+  {{/* If image not found in data or is external URL, use direct src */}}
+  {{- if or (not $thisimg) (ne $prefix $thisuid) -}}
+    {{- $localImage := resources.Get $thisuid -}}
+    {{- if $localImage -}}
+      {{- $resized := $localImage.Resize "1200x" -}}
+      <img
+        src="{{ $resized.RelPermalink }}"
+        {{- if .Get "alt" -}}
+          alt="{{ .Get "alt" }}"
+        {{- end -}}
+      />
+    {{- else -}}
+      <img
+        src="{{ $thisuid }}"
+        {{- if .Get "alt" -}}
+          alt="{{ .Get "alt" }}"
+        {{- end -}}
+      />
+    {{- end -}}
   {{- else -}}
-    <img
-      src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-      {{- if or (.Get "alt") $thisimg.alt -}}
-        alt="{{- with .Get "alt" -}}
-          {{- . -}}
-        {{- else -}}
-          {{- $thisimg.alt -}}
-        {{- end -}}"
-      {{- end -}}
-    />
+    {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
+      <img
+        src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+        {{- if or (.Get "alt") $thisimg.alt -}}
+          alt="{{- with .Get "alt" -}}
+            {{- . -}}
+          {{- else -}}
+            {{- $thisimg.alt -}}
+          {{- end -}}"
+        {{- end -}}
+      />
+    {{- else -}}
+      <img
+        src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+        {{- if or (.Get "alt") $thisimg.alt -}}
+          alt="{{- with .Get "alt" -}}
+            {{- . -}}
+          {{- else -}}
+            {{- $thisimg.alt -}}
+          {{- end -}}"
+        {{- end -}}
+      />
+    {{- end -}}
   {{- end -}}
-  {{- if or $imgCaption $imgCredit -}}
+  {{- if and $thisimg (or $imgCaption $imgCredit) -}}
     <p>
       {{- $imgCaption | markdownify -}}
       {{- if $imgCredit -}}
