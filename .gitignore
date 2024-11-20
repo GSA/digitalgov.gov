@@ -28,3 +28,5 @@ static/img/proxy/fedramp-logo-stamp.jpeg
 
 # Editor settings
 .vscode/
+assets/s3-images
+resources/_gen

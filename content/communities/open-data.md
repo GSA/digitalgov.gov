@@ -27,6 +27,8 @@ topics:
 # 1 -- visible
 weight: 1
 
+kicker: "Communities of practice"
+
 community_list:
   - platform: "listserv"
     type: government
