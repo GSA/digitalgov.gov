@@ -37,7 +37,7 @@
     max-width: 100%;
     max-height: calc(100vh - 300px);
     width: auto;
-    @include u-object-fit("contain");
+    @include u-object-fit-contain;
   }
 }
 
