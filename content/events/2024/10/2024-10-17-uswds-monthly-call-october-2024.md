@@ -1,9 +1,9 @@
 ---
-title: USWDS Monthly Call - October 2024
-deck: Product and engineering principles
+title: "USWDS Monthly Call - October 2024"
+deck: "Product and engineering principles"
 kicker: USWDS
-summary: The U.S. Web Design System team will share the product and engineering principles they're using to guide the development of the design system.
-event_organizer: Digital.gov
+summary: "The U.S. Web Design System team will share the product and engineering principles they're using to guide the development of the design system.
+event_organizer: Digital.gov"
 cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsfuqsrzwuE5Vksm7GGAK9tfUz8dy-9Sc
 date: 2024-10-17 14:00:00 -0500
