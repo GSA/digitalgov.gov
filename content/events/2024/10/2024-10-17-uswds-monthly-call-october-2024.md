@@ -1,7 +1,7 @@
 ---
 title: "USWDS Monthly Call - October 2024"
 deck: "Product and engineering principles"
-kicker: USWDS
+kicker: "USWDS"
 summary: "The U.S. Web Design System team will share the product and engineering principles they're using to guide the development of the design system.
 event_organizer: Digital.gov"
 cop_events: ""
