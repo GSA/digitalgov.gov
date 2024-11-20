@@ -21,6 +21,7 @@ topics:
   - plain-language
   - social-media
   - communication
+  - open-government
 
 event_cop: communicators
 
@@ -41,6 +42,8 @@ weight: 1
 # Enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/federal-communicators-network/
+
+kicker: "Communities of Practice"
 
 ---
 
