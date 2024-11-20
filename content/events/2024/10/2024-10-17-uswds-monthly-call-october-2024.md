@@ -20,6 +20,8 @@ slug: uswds-monthly-call-october-2024
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
+youtube_id: H8XUPJxiUEc
+youtube_title: "Product and engineering principles"
 
 primary_image: 2024-uswds-monthly-call-october-title-card
 ---
