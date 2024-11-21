@@ -79,4 +79,4 @@ Become a member to learn more about creating, managing, and contributing to gove
 
 Digital.gov fosters this fundamental community by providing spaces for sharing ideas, challenges, lessons learned, and best practices for managing government websites and digital services. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-{{< featured-resource link="topics/digital-service-delivery" >}}
+{{< featured-resource link="topics/digital-service-delivery" kicker="Featured topic" >}}
