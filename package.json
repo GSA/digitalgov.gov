@@ -61,7 +61,6 @@
     "s3fs": "^2.5.0",
     "sass": "^1.69.7",
     "sass-embedded": "^1.69.7",
-    "sass-embedded-darwin-arm64": "^1.81.0",
     "sharp": "^0.33.5",
     "terser-webpack-plugin": "^5.3.10",
     "webpack-stream": "^7.0.0"
@@ -108,6 +107,9 @@
     },
     "xmlbuilder": {
       "lodash": "^4.17.21"
+    },
+    "npm-run-all": {
+      "cross-spawn": "7.0.6"
     },
     "xml2js": "^0.5.0",
     "lodash": "^4.17.21"
