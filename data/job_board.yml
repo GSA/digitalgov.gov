@@ -65,17 +65,6 @@
   cop_topics:
     - Communicators
 
-- title: Web Strategist
-  department: Department of the Treasury
-  location: Multiple Locations
-  description: >
-          Click on "Learn more about this agency" button below to view Eligibilities being considered and other IMPORTANT information. WHERE CAN I FIND OUT MORE ABOUT OTHER IRS CAREERS? Visit us on the web at www.jobs.irs.gov
-  open_date: 2024-11-04
-  close_date: 2024-11-18
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/817363000
-  cop_topics:
-    - Plain Language
-
 - title: Managing Director, Stakeholder Engagement and Events
   department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
@@ -135,17 +124,6 @@
     - Web Analytics
     - Web Managers
 
-- title: Government Information Specialist
-  department: Department of the Treasury
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          Located in the Office of the Treasury Inspector General for Tax Administration (TIGTA), Office of Chief Counsel. As a Government Information Specialist, you will serve as a principal focal point in (TIGTA) for implementation of the Freedom of Information Act (FOIA) (5 U.S.C. 552) and the Privacy Act (5 U.S.C. 552a), which are the chief public access statutes to identifiable government records, and as such, your opinions and judgments are relied upon for comprehensiveness and soundness.
-  open_date: 2024-11-18
-  close_date: 2024-12-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819083500
-  cop_topics:
-    - Communicators
-
 - title: IT Specialist (APPSW/PLCYPLN)
   department: Other Agencies and Independent Organizations
   location: Multiple Locations
@@ -168,3 +146,63 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/818473300
   cop_topics:
     - Communicators
+
+- title: Communications Engagement Specialist
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          This position serves as Communications Engagement Specialist in the Bureau of Justice Assistance (BJA), Operations Office, Communications and Governmental Affairs. This position is responsible for engaging with a variety of key BJA stakeholders using outreach strategies and tactics that include regular liaison, distribution of BJA resources, materials and information, public events and targeted campaigns.
+  open_date: 2024-11-19
+  close_date: 2024-12-02
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819779600
+  cop_topics:
+    - Communicators
+
+- title: Program Specialist (Direct Hire)
+  department: National Aeronautics and Space Administration
+  location: Multiple Locations
+  description: >
+          The Office of the Chief Information Officer (OCIO) at NASA Headquarters is currently seeking a highly qualified candidate to serve as an Internal Communications Specialist. This position is a critical part of the OCIO Customer Engagement Office, responsible for coordinating across OCIO to improve the effectiveness of communications and outreach products and activities aimed at internal stakeholders.
+  open_date: 2024-11-20
+  close_date: 2024-11-22
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819497300
+  cop_topics:
+    - Communicators
+    - Plain Language
+    - User Experience
+
+- title: Program Analyst
+  department: Department of Veterans Affairs
+  location: Multiple Locations
+  description: >
+          The incumbent reports to the Media Manager and serves as the Web Operations Manager working closely with the Enterprise Support Service (ESS) Executive Leadership Team (ELT) and the Healthcare Environment and Facilities Program (HEFP) Content Management Team (CMT). The incumbent oversees all strategic and operational website initiatives, website content management and integration of functional website processes utilizing new and current information technology systems and applications.
+  open_date: 2024-11-20
+  close_date: 2024-11-26
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819845200
+  cop_topics:
+    - Web Analytics
+    - Web Managers
+
+- title: Division Chief of Product Management, GS-0301-15, FPL 15 (DE)
+  department: Department of Education
+  location: Washington, District of Columbia
+  description: >
+          The position is telework eligible consistent with the Agency’s telework and remote work program policy. This position is located in Federal Student Aid, Technology Directorate Front Office in Washington DC, and is responsible for providing leadership in the evaluation, assessment, improvement and optimization of programs and management systems.
+  open_date: 2024-11-20
+  close_date: 2024-12-09
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819979700
+  cop_topics:
+    - User Experience
+    - Web Managers
+
+- title: Division Chief of Product Management, GS-0301-15, FPL 15 (MP)
+  department: Department of Education
+  location: Washington, District of Columbia
+  description: >
+          The position is telework eligible consistent with the Agency’s telework and remote work program policy. This position is located in Federal Student Aid, Technology Directorate Front Office in Washington DC, and is responsible for providing leadership in the evaluation, assessment, improvement and optimization of programs and management systems.
+  open_date: 2024-11-20
+  close_date: 2024-12-09
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819981600
+  cop_topics:
+    - User Experience
+    - Web Managers
