@@ -48,4 +48,4 @@ Become a member to explore methods of service delivery that improve customer exp
 
 Digital.gov fosters this passionate community by providing spaces designed to host educational forums and discussions. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-{{< featured-resource link="topics/contact-centers" >}}
+{{< featured-resource link="topics/contact-centers" kicker="Featured topic" >}}
