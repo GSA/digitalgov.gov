@@ -60,4 +60,4 @@ Become a member to collaborate with colleagues who are dedicated to the idea tha
 
 Digital.gov fosters this engaging community by providing spaces designed to empower members on their communication and plain language journeys. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-{{< featured-resource link="topics/plain-language" >}}
+{{< featured-resource link="topics/plain-language" kicker="Featured topic" >}}

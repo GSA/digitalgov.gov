@@ -58,4 +58,4 @@ Become a member to uncover best practices, tips, and tools for web analytics, se
 
 Digital.gov fosters this dynamic community by providing spaces to engage in collaborative discussion and share new technology and trends. Remember, when participating in this community, you must follow [Digital.gov community guidelines](https://digital.gov/communities/community-guidelines/).
 
-{{< featured-resource link="topics/analytics" >}}
+{{< featured-resource link="topics/analytics" kicker="Featured topic" >}}
