@@ -1,10 +1,7 @@
-/* eslint-disable no-console */
-/**
- * Handles image pagination and display
- */
+const STREAM_IMAGES_VERSION = '1.0.0';
+console.log(`stream-images.js version ${STREAM_IMAGES_VERSION}`);
 
-// Ensure we only initialize once
-if (!window.imageStreamInitialized) {
+if (!window.imageStreamInitialized && typeof window !== 'undefined') {
   window.imageStreamInitialized = true;
 
   document.addEventListener("DOMContentLoaded", () => {
@@ -40,16 +37,10 @@ if (!window.imageStreamInitialized) {
       return;
     }
 
-    const ITEMS_PER_PAGE = 1; // Show one image per page
     const CDN_URL = "https://s3.amazonaws.com/digitalgov";
-
-    // Get current page from URL
     const urlParams = new URLSearchParams(window.location.search);
     let currentPage = parseInt(urlParams.get("page"), 10) || 1;
 
-    /**
-     * Shows loading state while images are being loaded
-     */
     function showLoading() {
       imagesStreamContainer.innerHTML = `
         <div class="grid-container">
@@ -59,65 +50,71 @@ if (!window.imageStreamInitialized) {
         </div>`;
     }
 
-    /**
-     * Creates img card markup for individual images
-     */
     function createImageElement(uid, image, currentPage, totalPages) {
       try {
-        const imageUrl = `${CDN_URL}/${uid}.${image.format || "png"}`;
-
         return `
         <div class="grid-container">
           <div class="grid-row">
             <div class="grid-col-12">
-              <div id="image-container-${uid}" class="media">
-                <img src="${imageUrl}" loading="lazy" alt="${image.alt || ""}" class="usa-image">
-              </div>
+              <div class="image-card">
+                <div id="card-inner-${uid}" class="image-card__inner">
+                  <div class="image-card__face media">
+                    <img src="${CDN_URL}/${uid}.${image.format || "png"}" 
+                         loading="lazy" 
+                         alt="${image.alt || ""}" 
+                         class="usa-image">
+                    <button type="button" class="usa-button usa-button--outline metadata-toggle" aria-label="View metadata">
+                      View Metadata
+                    </button>
+                  </div>
 
-              <div id="metadata-${uid}" class="img-data display-none">
-                <h3>Image ${currentPage} of ${totalPages}</h3>
-                <dl>
-                  <dt>uid:</dt>
-                  <dd>${uid}</dd>
-                  
-                  ${image.credit ? `
-                    <dt>credit:</dt>
-                    <dd>${image.credit}</dd>
-                  ` : ''}
-                  
-                  ${image.caption ? `
-                    <dt>caption:</dt>
-                    <dd>${image.caption}</dd>
-                  ` : ''}
-                  
-                  ${image.alt ? `
-                    <dt>alt:</dt>
-                    <dd>${image.alt}</dd>
-                  ` : ''}
-                </dl>
+                  <div class="image-card__face img-data">
+                    <div class="metadata-header">
+                      <button type="button" class="usa-button usa-button--outline metadata-toggle" aria-label="View image">
+                        View Image
+                      </button>
+                      <h3 class="font-heading-lg">Image ${currentPage} of ${totalPages}</h3>
+                    </div>
 
-                <h4>Use this field in the front matter</h4>
-                <pre>primary_image: "${uid}"</pre>
+                    <div class="metadata-content">
+                      <dl class="usa-list">
+                        <dt>Image ID:</dt>
+                        <dd>${uid}</dd>
+                        
+                        ${image.credit ? `
+                          <dt>Credit:</dt>
+                          <dd>${image.credit}</dd>
+                        ` : ""}
+                        
+                        ${image.caption ? `
+                          <dt>Caption:</dt>
+                          <dd>${image.caption}</dd>
+                        ` : ""}
+                        
+                        ${image.alt ? `
+                          <dt>Alt Text:</dt>
+                          <dd>${image.alt}</dd>
+                        ` : ""}
+                      </dl>
 
-                <h4>Use this shortcode in the content body</h4>
-                <pre>{{< img src="${uid}" >}}</pre>
+                      <h4 class="font-heading-sm">Use in Front Matter</h4>
+                      <pre class="usa-code">primary_image: "${uid}"</pre>
 
-                <div class="margin-top-2">
-                  <a class="usa-button" target="_new" href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml" title="Edit on GitHub">
-                    Edit on GitHub »
-                  </a>
+                      <h4 class="font-heading-sm">Use in Content</h4>
+                      <pre class="usa-code">{{< img src="${uid}" >}}</pre>
+
+                      <div class="metadata-footer">
+                        <a class="usa-button" 
+                           target="_new" 
+                           href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml">
+                          Edit on GitHub »
+                        </a>
+                        <p class="margin-top-2 text-base">Uploaded on ${image.date}</p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-
-                <p class="margin-top-1">Uploaded on ${image.date}</p>
               </div>
-
-              <button id="toggle-btn-${uid}" class="usa-button width-full" onclick="
-                document.getElementById('metadata-${uid}').classList.toggle('display-none');
-                document.getElementById('image-container-${uid}').classList.toggle('display-none');
-                this.textContent = this.textContent === 'View Metadata' ? 'View Image' : 'View Metadata';
-              ">
-                View Metadata
-              </button>
             </div>
           </div>
         </div>`;
@@ -127,18 +124,13 @@ if (!window.imageStreamInitialized) {
       }
     }
 
-    /**
-     * Creates pagination markup following USWDS design system
-     */
     function createPagination(pageNum, totalPages) {
       try {
         console.log("Creating pagination for page", pageNum, "of", totalPages);
         
-        // Create the list element with USWDS classes
         const paginationList = document.createElement('ul');
         paginationList.className = 'usa-pagination__list';
         
-        // Previous button
         if (pageNum > 1) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
@@ -148,7 +140,6 @@ if (!window.imageStreamInitialized) {
             </li>`;
         }
 
-        // First page
         if (pageNum > 2) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__page-no">
@@ -156,7 +147,6 @@ if (!window.imageStreamInitialized) {
             </li>`;
         }
 
-        // Ellipsis if needed
         if (pageNum > 3) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__overflow" role="presentation">
@@ -164,26 +154,20 @@ if (!window.imageStreamInitialized) {
             </li>`;
         }
 
-        // Current page and surrounding pages
         for (let i = Math.max(1, pageNum - 1); i <= Math.min(totalPages, pageNum + 1); i++) {
-          if (i === pageNum) {
-            paginationList.innerHTML += `
-              <li class="usa-pagination__item usa-pagination__page-no">
-                <a href="?page=${i}" class="usa-pagination__link usa-current" aria-current="page" aria-label="Page ${i}">
-                  ${i}
-                </a>
-              </li>`;
-          } else {
-            paginationList.innerHTML += `
-              <li class="usa-pagination__item usa-pagination__page-no">
-                <a href="?page=${i}" class="usa-pagination__link" aria-label="Page ${i}">
-                  ${i}
-                </a>
-              </li>`;
-          }
+          paginationList.innerHTML += i === pageNum ?
+            `<li class="usa-pagination__item usa-pagination__page-no">
+              <a href="?page=${i}" class="usa-pagination__link usa-current" aria-current="page" aria-label="Page ${i}">
+                ${i}
+              </a>
+            </li>` :
+            `<li class="usa-pagination__item usa-pagination__page-no">
+              <a href="?page=${i}" class="usa-pagination__link" aria-label="Page ${i}">
+                ${i}
+              </a>
+            </li>`;
         }
 
-        // Ellipsis if needed
         if (pageNum < totalPages - 2) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__overflow" role="presentation">
@@ -191,7 +175,6 @@ if (!window.imageStreamInitialized) {
             </li>`;
         }
 
-        // Last page
         if (pageNum < totalPages - 1) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__page-no">
@@ -201,7 +184,6 @@ if (!window.imageStreamInitialized) {
             </li>`;
         }
 
-        // Next button
         if (pageNum < totalPages) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
@@ -211,7 +193,6 @@ if (!window.imageStreamInitialized) {
             </li>`;
         }
 
-        // Clear existing pagination and add new
         paginationContainer.innerHTML = '';
         paginationContainer.appendChild(paginationList);
       } catch (error) {
@@ -222,9 +203,6 @@ if (!window.imageStreamInitialized) {
       }
     }
 
-    /**
-     * Displays images for the current page
-     */
     function displayImages(images, pageNumber) {
       try {
         showLoading();
@@ -233,24 +211,50 @@ if (!window.imageStreamInitialized) {
         const totalImages = imageEntries.length;
         console.log("Total images:", totalImages);
 
-        const totalPages = totalImages; // Since ITEMS_PER_PAGE is 1
+        const totalPages = totalImages;
         console.log("Total pages:", totalPages);
 
-        // Validate page number
         let validatedPage = pageNumber;
         if (validatedPage < 1) validatedPage = 1;
         if (validatedPage > totalPages) validatedPage = totalPages;
 
-        const start = validatedPage - 1; // Since ITEMS_PER_PAGE is 1
+        const start = validatedPage - 1;
         const [uid, image] = imageEntries[start];
         
         imagesStreamContainer.innerHTML = createImageElement(uid, image, validatedPage, totalPages);
         createPagination(validatedPage, totalPages);
 
-        // Update URL without reloading
         const url = new URL(window.location);
         url.searchParams.set("page", validatedPage);
         window.history.pushState({}, "", url);
+
+        const cardInner = document.querySelector(`#card-inner-${uid}`);
+        if (cardInner) {
+          const toggleButtons = cardInner.querySelectorAll('.metadata-toggle');
+          
+          toggleButtons.forEach(button => {
+            button.addEventListener('click', (e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              cardInner.classList.toggle('is-flipped');
+            });
+          });
+
+          const oldKeyListener = window.cardKeyListener;
+          if (oldKeyListener) {
+            document.removeEventListener('keydown', oldKeyListener);
+          }
+
+          const keyListener = (e) => {
+            if (e.key === 'Escape') {
+              cardInner.classList.remove('is-flipped');
+            } else if (e.key === 'i') {
+              cardInner.classList.toggle('is-flipped');
+            }
+          };
+          document.addEventListener('keydown', keyListener);
+          window.cardKeyListener = keyListener;
+        }
       } catch (error) {
         console.error("Error displaying images:", error);
         imagesStreamContainer.innerHTML =
@@ -259,17 +263,14 @@ if (!window.imageStreamInitialized) {
     }
 
     try {
-      // Sort images by date
       const sortedImages = Object.fromEntries(
         Object.entries(DIGITALGOV_IMAGES).sort(
           ([, a], [, b]) => new Date(b.date) - new Date(a.date)
         )
       );
 
-      // Initial display
       displayImages(sortedImages, currentPage);
 
-      // Handle pagination clicks
       if (paginationContainer) {
         paginationContainer.addEventListener("click", (e) => {
           const link = e.target.closest("a");
@@ -291,4 +292,8 @@ if (!window.imageStreamInitialized) {
         "<p>Error initializing image display. Please try again later.</p>";
     }
   });
+}
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { version: STREAM_IMAGES_VERSION };
 }

@@ -14,116 +14,157 @@
   @include u-maxw("desktop");
 }
 
-// Common container styles
-.media,
-.img-data {
-  min-height: 200px;
-  max-height: calc(100vh - 250px);
-  @include u-padding(3);
-  @include u-margin-bottom(2);
-  @include u-bg("white");
-  @include u-radius("md");
-  @include u-border("1px");
-  @include u-border("base-lighter");
+// Card flip container
+.image-card {
+  position: relative;
+  min-height: 600px;
+  margin-bottom: 2rem;
+
+  &__inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+  }
+
+  &__face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    border: 1px solid #dfe1e2;
+    border-radius: 0.5rem;
+    background: white;
+  }
 }
 
-// Image Container
+// Image Container (Front face)
 .media {
-  @include u-display("flex");
-  @include u-flex("align-center");
-  @include u-flex("justify-center");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  transform: rotateY(0deg);
   
   img {
     max-width: 100%;
     max-height: calc(100vh - 300px);
     width: auto;
-    @include u-object-fit("contain");
+    object-fit: contain;
   }
 }
 
-// Metadata Container
+// Metadata Container (Back face)
 .img-data {
-  @include u-overflow("auto");
+  padding: 1rem;
+  transform: rotateY(180deg);
+  text-align: left;
+  overflow: auto;
 
   h3 {
-    @include u-font("sans", "lg");
-    @include u-text("bold");
-    @include u-margin-bottom(2);
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
   }
 
   h4 {
-    @include u-font("sans", "md");
-    @include u-text("bold");
-    @include u-margin-y(2);
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 1rem 0;
   }
 
   dl {
-    @include u-margin-y(2);
+    margin: 1rem 0;
 
     dt {
-      @include u-text("bold");
-      @include u-margin-bottom('05');
-      @include u-font("sans", "sm");
+      font-weight: bold;
+      margin-bottom: 0.25rem;
+      font-size: 0.9rem;
     }
 
     dd {
-      @include u-margin-left(0);
-      @include u-margin-bottom(2);
-      @include u-font("sans", "md");
-      @include u-bg("base-lightest");
-      @include u-padding(1);
-      @include u-radius("sm");
+      margin-left: 0;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+      background: #f0f0f0;
+      padding: 0.5rem;
+      border-radius: 0.25rem;
     }
   }
 
   pre {
-    @include u-bg("base-lightest");
-    @include u-padding(2);
-    @include u-radius("sm");
-    @include u-font("mono", "sm");
+    background: #f0f0f0;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    font-family: monospace;
+    font-size: 0.9rem;
     overflow-x: auto;
     word-wrap: break-word;
   }
 }
 
+// Toggle button
+.metadata-toggle {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.5rem 1rem;
+  background: #005ea2;
+  color: white;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font-weight: bold;
+
+  &:hover {
+    background: #1a4480;
+  }
+}
+
 // Pagination
 .usa-pagination {
-  @include u-margin-y(4);
-  @include u-text("center");
+  margin: 2rem 0;
+  text-align: center;
 
-  .usa-pagination__list {
-    @include u-display("flex");
-    @include u-flex("justify-center");
-    @include u-flex("align-center");
-    @include u-padding-left(0);
-    @include u-margin-y(0);
+  &__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0;
+    margin: 0;
     list-style: none;
-    gap: units(1);
+    gap: 0.5rem;
   }
 
-  .usa-pagination__link {
-    @include u-padding-x(2);
-    @include u-padding-y(1);
-    @include u-text("no-underline");
-    @include u-color("primary");
-    @include u-radius("md");
-    @include u-display("inline-flex");
-    @include u-flex("align-center");
-    @include u-flex("justify-center");
-    min-width: units(5);
-    @include u-font("sans", "sm");
-    @include u-text("bold");
+  &__link {
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: #005ea2;
+    border-radius: 0.25rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.5rem;
+    font-size: 0.9rem;
+    font-weight: bold;
     
     &:hover {
-      @include u-bg("primary-lighter");
-      @include u-text("no-underline");
+      background: #e6e6e6;
+      text-decoration: none;
     }
 
     &.usa-current {
-      @include u-bg("primary-vivid");
-      @include u-color("white");
-      @include u-text("bold");
+      background: #005ea2;
+      color: white;
       pointer-events: none;
     }
   }
+}
+
+// Card flip animation
+.image-card__inner.is-flipped {
+  transform: rotateY(180deg);
 }
