@@ -64,16 +64,13 @@ The standards are developed through an open and iterative process involving fede
 Visit the standards website to read more about [how standards are developed](https://standards.digital.gov/about/).
 
 ## What can I do next?
+
 As a federal web practitioner, you can take the following actions:
 
-{{< checklist >}}
-
-  {{< checkbox >}}Review the standards at [standards.digital.gov/standards](http://standards.digital.gov/standards).{{< /checkbox >}}
-  {{< checkbox >}}Consider how the standards apply to your websites and digital services that are intended for use by the public.{{< /checkbox >}}
-  {{< checkbox >}}Plan to evaluate your compliance with the [pending standards](https://standards.digital.gov/standards/#:~:text=at%20this%20time.-,Pending,-Pending%20standards%20are).{{< /checkbox >}}
-  {{< checkbox >}}Share this information with digital teams in your agency.{{< /checkbox >}}
-
-{{< /checklist >}}
+*Review the standards at [standards.digital.gov/standards](http://standards.digital.gov/standards).
+* Consider how the standards apply to your websites and digital services that are intended for use by the public.
+* Plan to evaluate your compliance with the [pending standards](https://standards.digital.gov/standards/#:~:text=at%20this%20time.-,Pending,-Pending%20standards%20are).
+* Share this information with digital teams in your agency.
 
 You can also browse related resources:
 
