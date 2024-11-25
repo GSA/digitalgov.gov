@@ -64,6 +64,8 @@ The standards are developed through an open and iterative process involving fede
 Visit the standards website to read more about [how standards are developed](https://standards.digital.gov/about/).
 
 ## What can I do next?
+As a federal web practitioner, you can take the following actions:
+
 {{< checklist >}}
 
   {{< checkbox >}}Review the standards at [standards.digital.gov/standards](http://standards.digital.gov/standards).{{< /checkbox >}}
@@ -77,9 +79,9 @@ You can also browse related resources:
 
 * Familiarize yourself with [U.S. Web Design System components](https://designsystem.digital.gov/components/overview/). 
 * Explore topical guides, blogs, and events on Digital.gov:
-** [Digital service delivery](https://digital.gov/topics/digital-service-delivery/)
-** [Governance](https://digital.gov/topics/governance/)
-** [Information architecture](https://digital.gov/topics/information-architecture/)
+  * [Digital service delivery](https://digital.gov/topics/digital-service-delivery/)
+  * [Governance](https://digital.gov/topics/governance/)
+  * [Information architecture](https://digital.gov/topics/information-architecture/)
 
 ### Get involved
 
