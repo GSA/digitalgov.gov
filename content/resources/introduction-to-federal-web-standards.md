@@ -67,7 +67,7 @@ Visit the standards website to read more about [how standards are developed](htt
 
 As a federal web practitioner, you can take the following actions:
 
-*Review the standards at [standards.digital.gov/standards](http://standards.digital.gov/standards).
+* Review the standards at [standards.digital.gov/standards](http://standards.digital.gov/standards).
 * Consider how the standards apply to your websites and digital services that are intended for use by the public.
 * Plan to evaluate your compliance with the [pending standards](https://standards.digital.gov/standards/#:~:text=at%20this%20time.-,Pending,-Pending%20standards%20are).
 * Share this information with digital teams in your agency.
