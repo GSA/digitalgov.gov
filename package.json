@@ -97,7 +97,8 @@
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.11.0",
     "stylelint-order": "^6.0.4",
-    "vinyl-paths": "^3.0.1"
+    "vinyl-paths": "^3.0.1",
+    "webpack": "^5.96.1"
   },
   "overrides": {
     "gulp-responsive": {

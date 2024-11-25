@@ -170,7 +170,11 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
             </li>`;
         }
 
-        for (let i = Math.max(1, pageNum - 1); i <= Math.min(totalPages, pageNum + 1); i = i + 1) {
+        for (
+          let i = Math.max(1, pageNum - 1);
+          i <= Math.min(totalPages, pageNum + 1);
+          i += 1
+        ) {
           paginationList.innerHTML +=
             i === pageNum
               ? `<li class="usa-pagination__item usa-pagination__page-no">

@@ -1,3 +1,4 @@
 declare module '@evolvingriley/file-upload' {
-    export function mkdirAndDownloadFiles(): void;
+    const mkdirAndDownloadFiles: () => void;
+    export default mkdirAndDownloadFiles;
 }
