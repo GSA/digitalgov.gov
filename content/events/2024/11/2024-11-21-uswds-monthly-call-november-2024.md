@@ -25,7 +25,7 @@ primary_image: 2024-uswds-monthly-call-nov-title-card
 
 ---
 
-{{< asset-static file="uswds-monthly-call-november-2024.pptx" label="View the slides (Powerpoint presentation, 5.3 MB, 108 slides)" >}}
+{{< asset-static file="uswds-monthly-call-november-2024.pptx" label="View the slides (Powerpoint presentation, 5 MB, 109 slides)" >}}
 
 This month, join the U.S. Web Design System (USWDS) team as they lay out their vision for the direction of the design system.
 
