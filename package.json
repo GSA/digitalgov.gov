@@ -35,7 +35,7 @@
     "build": "npm-run-all --parallel build:js build:sass",
     "build:rspack:prod": "rspack build --config rspack.prod.config.js",
     "build:rspack:dev": "rspack build --config rspack.dev.config.js",
-    "build:js": "NODE_ENV=production npm run build:rspack:prod",
+    "build:js": "npm run build:rspack:dev",
     "build:sass": "gulp buildSass"
   },
   "directories": {
