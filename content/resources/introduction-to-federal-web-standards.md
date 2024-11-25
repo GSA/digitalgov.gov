@@ -70,7 +70,7 @@ Visit the standards website to read more about [how standards are developed](htt
     {{< checkbox >}}Consider how the standards apply to your websites and digital services that are intended for use by the public.{{< /checkbox >}}
     {{< checkbox >}}Plan to evaluate your compliance with the [pending standards](https://standards.digital.gov/standards/#:~:text=at%20this%20time.-,Pending,-Pending%20standards%20are).{{< /checkbox >}}
     {{< checkbox >}}Share this information with digital teams in your agency.{{< /checkbox >}}
-
+    
   {{< /checklist >}}
 
 You can also browse related resources:
