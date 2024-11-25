@@ -18,7 +18,7 @@ authors:
   - michelle-rago
 
 slug: introduction-to-federal-web-standards
-primary_image: ""
+primary_image: "hands-puzzle-pieces-girafchik123-istock-getty-images-2091035051"
 
 # Controls how this page appears across the site
 # 0 -- hidden
