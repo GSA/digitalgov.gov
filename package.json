@@ -95,7 +95,8 @@
     },
     "glob-parent": "6.0.2",
     "eslint": {
-      "file-entry-cache": "8.x"
+      "file-entry-cache": "8.x",
+      "cross-spawn": "7.0.6"
     },
     "aws-sdk": {
       "xml2js": "^0.5.0",
@@ -107,9 +108,6 @@
     },
     "xmlbuilder": {
       "lodash": "^4.17.21"
-    },
-    "npm-run-all": {
-      "cross-spawn": "7.0.6"
     },
     "xml2js": "^0.5.0",
     "lodash": "^4.17.21"
