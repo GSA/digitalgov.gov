@@ -16,7 +16,7 @@ function gulpWatch() {
   const THEME_DIR = "./themes/digital.gov/src";
   watch(`${THEME_DIR}/scss/uswds/**/*.scss`, styles.buildSass);
   watch(`${THEME_DIR}/scss/new/**/*.scss`, styles.buildSass);
-  watch(`${THEME_DIR}/js/**/*.js`, scripts.compile);
+ // watch(`${THEME_DIR}/js/**/*.js`, scripts.compile);
   watch("./content/uploads/_inbox/.", watchUploads());
 }
 

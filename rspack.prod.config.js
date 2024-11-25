@@ -37,7 +37,8 @@ const config = {
       }
     ]
   },
-  target: 'browserslist'
+  target: 'browserslist',
+  cache: true
 };
 
 module.exports = config;

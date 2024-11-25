@@ -49,7 +49,7 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
           </div>
         </div>`;
     }
-
+    alert("This is a test alerfsdfsdft");
     function createImageElement(uid, image, currentPage, totalPages) {
       try {
         return `
@@ -58,7 +58,7 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
             <div class="grid-col-12">
               <div class="image-card">
                 <div id="card-inner-${uid}" class="image-card__inner">
-                  <div class="image-card__face media">
+                  <div class="image-card__face media" style="height: 700px;">
                     <img src="${CDN_URL}/${uid}.${image.format || "png"}" 
                          loading="lazy" 
                          alt="${image.alt || ""}" 
@@ -68,7 +68,7 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
                     </button>
                   </div>
 
-                  <div class="image-card__face img-data">
+                  <div class="image-card__face img-data" style="height: 700px;">
                     <div class="metadata-header">
                       <button type="button" class="usa-button usa-button--outline metadata-toggle" aria-label="View image">
                         View Image
