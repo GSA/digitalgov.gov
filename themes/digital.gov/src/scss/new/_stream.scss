@@ -3,67 +3,67 @@
 .stream {
   h2 {
     @include u-font("sans", "2xl");
+    @include u-margin-bottom(2);
     @include u-text("bold");
     @include u-text("indigo-warm-80");
-    @include u-margin-bottom(2);
   }
 }
 
 .grid-container {
-  @include u-padding-y(2);
   @include u-maxw("desktop");
+  @include u-padding-y(2);
 }
 
 // Card flip container
 .image-card {
-  position: relative;
-  min-height: 600px;
   margin-bottom: 2rem;
+  min-height: 600px;
+  position: relative;
 
   &__inner {
-    position: relative;
-    width: 100%;
     height: 100%;
+    position: relative;
     text-align: center;
-    transition: transform 0.6s;
     transform-style: preserve-3d;
+    transition: transform 0.6s;
+    width: 100%;
   }
 
   &__face {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background: white;
     border: 1px solid #dfe1e2;
     border-radius: 0.5rem;
-    background: white;
+    height: 100%;
+    position: absolute;
+    width: 100%;
   }
 }
 
 // Image Container (Front face)
 .media {
+  align-items: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   padding: 1rem;
   transform: rotateY(0deg);
-  
+
   img {
-    max-width: 100%;
     max-height: calc(100vh - 300px);
-    width: auto;
+    max-width: 100%;
     object-fit: contain;
+    width: auto;
   }
 }
 
 // Metadata Container (Back face)
 .img-data {
-  padding: 1rem;
-  transform: rotateY(180deg);
-  text-align: left;
   overflow: auto;
+  padding: 1rem;
+  text-align: left;
+  transform: rotateY(180deg);
 
   h3 {
     font-size: 1.25rem;
@@ -81,43 +81,43 @@
     margin: 1rem 0;
 
     dt {
+      font-size: 0.9rem;
       font-weight: bold;
       margin-bottom: 0.25rem;
-      font-size: 0.9rem;
     }
 
     dd {
-      margin-left: 0;
-      margin-bottom: 1rem;
-      font-size: 1rem;
       background: #f0f0f0;
-      padding: 0.5rem;
       border-radius: 0.25rem;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      margin-left: 0;
+      padding: 0.5rem;
     }
   }
 
   pre {
     background: #f0f0f0;
-    padding: 1rem;
     border-radius: 0.25rem;
     font-family: monospace;
     font-size: 0.9rem;
     overflow-x: auto;
+    padding: 1rem;
     word-wrap: break-word;
   }
 }
 
 // Toggle button
 .metadata-toggle {
-  display: block;
-  margin: 1rem auto;
-  padding: 0.5rem 1rem;
   background: #005ea2;
-  color: white;
   border: none;
   border-radius: 0.25rem;
+  color: white;
   cursor: pointer;
+  display: block;
   font-weight: bold;
+  margin: 1rem auto;
+  padding: 0.5rem 1rem;
 
   &:hover {
     background: #1a4480;
@@ -130,27 +130,27 @@
   text-align: center;
 
   &__list {
-    display: flex;
-    justify-content: center;
     align-items: center;
-    padding-left: 0;
-    margin: 0;
-    list-style: none;
+    display: flex;
     gap: 0.5rem;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
   }
 
   &__link {
-    padding: 0.5rem 1rem;
-    text-decoration: none;
-    color: #005ea2;
-    border-radius: 0.25rem;
-    display: inline-flex;
     align-items: center;
-    justify-content: center;
-    min-width: 2.5rem;
+    border-radius: 0.25rem;
+    color: #005ea2;
+    display: inline-flex;
     font-size: 0.9rem;
     font-weight: bold;
-    
+    justify-content: center;
+    min-width: 2.5rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+
     &:hover {
       background: #e6e6e6;
       text-decoration: none;
