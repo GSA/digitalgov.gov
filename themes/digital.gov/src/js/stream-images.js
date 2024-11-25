@@ -1,7 +1,7 @@
-const STREAM_IMAGES_VERSION = '1.0.0';
+const STREAM_IMAGES_VERSION = "1.0.0";
 console.log(`stream-images.js version ${STREAM_IMAGES_VERSION}`);
 
-if (!window.imageStreamInitialized && typeof window !== 'undefined') {
+if (!window.imageStreamInitialized && typeof window !== "undefined") {
   window.imageStreamInitialized = true;
 
   document.addEventListener("DOMContentLoaded", () => {
@@ -49,8 +49,8 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
           </div>
         </div>`;
     }
-    alert("This is a test alerfsdfsdft");
-    function createImageElement(uid, image, currentPage, totalPages) {
+
+    function createImageElement(uid, image, pageNum, totalPages) {
       try {
         return `
         <div class="grid-container">
@@ -73,7 +73,7 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
                       <button type="button" class="usa-button usa-button--outline metadata-toggle" aria-label="View image">
                         View Image
                       </button>
-                      <h3 class="font-heading-lg">Image ${currentPage} of ${totalPages}</h3>
+                      <h3 class="font-heading-lg">Image ${pageNum} of ${totalPages}</h3>
                     </div>
 
                     <div class="metadata-content">
@@ -81,20 +81,32 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
                         <dt>Image ID:</dt>
                         <dd>${uid}</dd>
                         
-                        ${image.credit ? `
+                        ${
+                          image.credit
+                            ? `
                           <dt>Credit:</dt>
                           <dd>${image.credit}</dd>
-                        ` : ""}
+                        `
+                            : ""
+                        }
                         
-                        ${image.caption ? `
+                        ${
+                          image.caption
+                            ? `
                           <dt>Caption:</dt>
                           <dd>${image.caption}</dd>
-                        ` : ""}
+                        `
+                            : ""
+                        }
                         
-                        ${image.alt ? `
+                        ${
+                          image.alt
+                            ? `
                           <dt>Alt Text:</dt>
                           <dd>${image.alt}</dd>
-                        ` : ""}
+                        `
+                            : ""
+                        }
                       </dl>
 
                       <h4 class="font-heading-sm">Use in Front Matter</h4>
@@ -109,7 +121,9 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
                            href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml">
                           Edit on GitHub »
                         </a>
-                        <p class="margin-top-2 text-base">Uploaded on ${image.date}</p>
+                        <p class="margin-top-2 text-base">Uploaded on ${
+                          image.date
+                        }</p>
                       </div>
                     </div>
                   </div>
@@ -127,14 +141,16 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
     function createPagination(pageNum, totalPages) {
       try {
         console.log("Creating pagination for page", pageNum, "of", totalPages);
-        
-        const paginationList = document.createElement('ul');
-        paginationList.className = 'usa-pagination__list';
-        
+
+        const paginationList = document.createElement("ul");
+        paginationList.className = "usa-pagination__list";
+
         if (pageNum > 1) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
-              <a href="?page=${pageNum - 1}" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
+              <a href="?page=${
+                pageNum - 1
+              }" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
                 <span class="usa-pagination__link-text">Previous</span>
               </a>
             </li>`;
@@ -154,14 +170,15 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
             </li>`;
         }
 
-        for (let i = Math.max(1, pageNum - 1); i <= Math.min(totalPages, pageNum + 1); i++) {
-          paginationList.innerHTML += i === pageNum ?
-            `<li class="usa-pagination__item usa-pagination__page-no">
+        for (let i = Math.max(1, pageNum - 1); i <= Math.min(totalPages, pageNum + 1); i = i + 1) {
+          paginationList.innerHTML +=
+            i === pageNum
+              ? `<li class="usa-pagination__item usa-pagination__page-no">
               <a href="?page=${i}" class="usa-pagination__link usa-current" aria-current="page" aria-label="Page ${i}">
                 ${i}
               </a>
-            </li>` :
-            `<li class="usa-pagination__item usa-pagination__page-no">
+            </li>`
+              : `<li class="usa-pagination__item usa-pagination__page-no">
               <a href="?page=${i}" class="usa-pagination__link" aria-label="Page ${i}">
                 ${i}
               </a>
@@ -187,13 +204,15 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
         if (pageNum < totalPages) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
-              <a href="?page=${pageNum + 1}" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
+              <a href="?page=${
+                pageNum + 1
+              }" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
                 <span class="usa-pagination__link-text">Next</span>
               </a>
             </li>`;
         }
 
-        paginationContainer.innerHTML = '';
+        paginationContainer.innerHTML = "";
         paginationContainer.appendChild(paginationList);
       } catch (error) {
         console.error("Error creating pagination:", error);
@@ -220,8 +239,13 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
 
         const start = validatedPage - 1;
         const [uid, image] = imageEntries[start];
-        
-        imagesStreamContainer.innerHTML = createImageElement(uid, image, validatedPage, totalPages);
+
+        imagesStreamContainer.innerHTML = createImageElement(
+          uid,
+          image,
+          validatedPage,
+          totalPages
+        );
         createPagination(validatedPage, totalPages);
 
         const url = new URL(window.location);
@@ -230,29 +254,29 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
 
         const cardInner = document.querySelector(`#card-inner-${uid}`);
         if (cardInner) {
-          const toggleButtons = cardInner.querySelectorAll('.metadata-toggle');
-          
-          toggleButtons.forEach(button => {
-            button.addEventListener('click', (e) => {
+          const toggleButtons = cardInner.querySelectorAll(".metadata-toggle");
+
+          toggleButtons.forEach((button) => {
+            button.addEventListener("click", (e) => {
               e.preventDefault();
               e.stopPropagation();
-              cardInner.classList.toggle('is-flipped');
+              cardInner.classList.toggle("is-flipped");
             });
           });
 
           const oldKeyListener = window.cardKeyListener;
           if (oldKeyListener) {
-            document.removeEventListener('keydown', oldKeyListener);
+            document.removeEventListener("keydown", oldKeyListener);
           }
 
           const keyListener = (e) => {
-            if (e.key === 'Escape') {
-              cardInner.classList.remove('is-flipped');
-            } else if (e.key === 'i') {
-              cardInner.classList.toggle('is-flipped');
+            if (e.key === "Escape") {
+              cardInner.classList.remove("is-flipped");
+            } else if (e.key === "i") {
+              cardInner.classList.toggle("is-flipped");
             }
           };
-          document.addEventListener('keydown', keyListener);
+          document.addEventListener("keydown", keyListener);
           window.cardKeyListener = keyListener;
         }
       } catch (error) {
@@ -294,6 +318,6 @@ if (!window.imageStreamInitialized && typeof window !== 'undefined') {
   });
 }
 
-if (typeof module !== 'undefined' && module.exports) {
+if (typeof module !== "undefined" && module.exports) {
   module.exports = { version: STREAM_IMAGES_VERSION };
 }
