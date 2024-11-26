@@ -9,19 +9,11 @@ first_name: "Annetta"
 last_name: "Cheek"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
-email: 
 
-# Bio — keep it under 50 words
-bio: "Annetta is an anthropologist by training and has a PhD from the University of Arizona. She worked for the U.S. government from 1980 until early 2007. Most of her federal career focused on writing and implementing regulations. She spent four years as the chief plain language expert on Vice President Al Gore’s National Partnership for Reinventing Government."
 
-# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: https://www.iplfederation.org/introducing-annetta-cheek/
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+
 
 # Agency Acronym [e.g., GSA]
 agency: ""
@@ -36,12 +28,11 @@ github: ""
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # Make it better ♥
 ---

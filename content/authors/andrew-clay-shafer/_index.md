@@ -9,19 +9,11 @@ first_name: "Andrew"
 last_name: "Clay Shafer"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
-email: 
 
-# Bio — keep it under 50 words
-bio: "Always fascinated with the dynamics of creating high performing individuals and organizations, Andrew has a long history helping people deliver systems with better tools and processes. Andrew evangelized DevOps before DevOps was a word, and helped to organize devopsdays events since the earliest days of the movement. With more than 20 years of experience in technology, he gravitated to Agile and Lean methods as a software developer in the early 2000s. Applying this to systems evolved into DevOps practices, he's now focused on helping traditional organizations change their behavior to deliver outcomes with new technology."
 
-# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+
 
 # Agency Acronym [e.g., GSA]
 agency: ""
@@ -36,12 +28,11 @@ github: ""
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # Make it better ♥
 ---
