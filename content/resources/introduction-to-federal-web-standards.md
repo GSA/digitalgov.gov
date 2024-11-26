@@ -81,6 +81,6 @@ You can also browse related resources:
 
 ### Get involved
 
-Share your feedback on the federal website standards by emailing GSA’s standards team at [website.standards@gsa.gov](mailto:website.standards@gsa.gov) or joining a [discussion on GitHub](https://github.com/GSA-TTS/federal-website-standards/discussions).
+To share your feedback on the federal website standards, email GSA’s standards team at [website.standards@gsa.gov](mailto:website.standards@gsa.gov) or join a [discussion on GitHub](https://github.com/GSA-TTS/federal-website-standards/discussions).
 
 You can also join Digital.gov’s [Web Managers Community](https://digital.gov/communities/web-content-managers/) to learn more about how other government web practitioners implement governance strategies and manage their content.
