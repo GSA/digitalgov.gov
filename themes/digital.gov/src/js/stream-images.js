@@ -75,20 +75,32 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
                         <dt>Image ID:</dt>
                         <dd>${uid}</dd>
                         
-                        ${image.credit ? `
+                        ${
+                          image.credit
+                            ? `
                           <dt>Credit:</dt>
                           <dd>${image.credit}</dd>
-                        ` : ""}
+                        `
+                            : ""
+                        }
                         
-                        ${image.caption ? `
+                        ${
+                          image.caption
+                            ? `
                           <dt>Caption:</dt>
                           <dd>${image.caption}</dd>
-                        ` : ""}
+                        `
+                            : ""
+                        }
                         
-                        ${image.alt ? `
+                        ${
+                          image.alt
+                            ? `
                           <dt>Alt Text:</dt>
                           <dd>${image.alt}</dd>
-                        ` : ""}
+                        `
+                            : ""
+                        }
                       </dl>
 
                       <h4 class="font-heading-sm">Use in Front Matter</h4>
@@ -104,7 +116,9 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
                            href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml">
                           Edit on GitHub »
                         </a>
-                        <p class="margin-top-2 text-base">Uploaded on ${image.date}</p>
+                        <p class="margin-top-2 text-base">Uploaded on ${
+                          image.date
+                        }</p>
                       </div>
                     </div>
                   </div>
@@ -143,7 +157,9 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         if (pageNum > 1) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
-              <a href="?page=${pageNum - 1}" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
+              <a href="?page=${
+                pageNum - 1
+              }" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
                 <span class="usa-pagination__link-text">Previous</span>
               </a>
             </li>`;
@@ -163,7 +179,11 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
             </li>`;
         }
 
-        for (let i = Math.max(1, pageNum - 1); i <= Math.min(totalPages, pageNum + 1); i += 1) {
+        for (
+          let i = Math.max(1, pageNum - 1);
+          i <= Math.min(totalPages, pageNum + 1);
+          i += 1
+        ) {
           paginationList.innerHTML +=
             i === pageNum
               ? `<li class="usa-pagination__item usa-pagination__page-no">
@@ -197,7 +217,9 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         if (pageNum < totalPages) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
-              <a href="?page=${pageNum + 1}" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
+              <a href="?page=${
+                pageNum + 1
+              }" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
                 <span class="usa-pagination__link-text">Next</span>
               </a>
             </li>`;
@@ -246,18 +268,22 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         // Set up card flip functionality
         const cardInner = document.querySelector(`#card-inner-${uid}`);
         const toggleButton = document.querySelector(".metadata-toggle");
-        
+
         if (cardInner && toggleButton) {
           toggleButton.addEventListener("click", (e) => {
             e.preventDefault();
             e.stopPropagation();
-            
+
             cardInner.classList.toggle("is-flipped");
-            
+
             // Update button text
-            const showText = toggleButton.dataset.showText;
-            const hideText = toggleButton.dataset.hideText;
-            toggleButton.textContent = cardInner.classList.contains("is-flipped") ? hideText : showText;
+            const { showText } = toggleButton.dataset;
+            const { hideText } = toggleButton.dataset;
+            toggleButton.textContent = cardInner.classList.contains(
+              "is-flipped"
+            )
+              ? hideText
+              : showText;
           });
 
           // Handle keyboard navigation
@@ -272,9 +298,13 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
               toggleButton.textContent = toggleButton.dataset.showText;
             } else if (e.key === "i") {
               cardInner.classList.toggle("is-flipped");
-              const showText = toggleButton.dataset.showText;
-              const hideText = toggleButton.dataset.hideText;
-              toggleButton.textContent = cardInner.classList.contains("is-flipped") ? hideText : showText;
+              const { showText } = toggleButton.dataset;
+              const { hideText } = toggleButton.dataset;
+              toggleButton.textContent = cardInner.classList.contains(
+                "is-flipped"
+              )
+                ? hideText
+                : showText;
             }
           };
           document.addEventListener("keydown", keyListener);

@@ -16,13 +16,13 @@
 
 // Card container
 .image-card {
-  margin-bottom: 2rem;
-  height: 700px;
-  position: relative;
   background: white;
   border: 1px solid #dfe1e2;
   border-radius: 0.5rem;
+  height: 700px;
+  margin-bottom: 2rem;
   overflow: hidden;
+  position: relative;
 
   &__inner {
     height: 100%;
@@ -57,9 +57,9 @@
 
   img {
     max-height: 600px;
-    width: auto;
     max-width: 100%;
     object-fit: contain;
+    width: auto;
   }
 }
 
@@ -72,11 +72,11 @@
   transform: rotateY(180deg);
 
   .metadata-header {
+    background: white;
+    margin-bottom: 1rem;
+    padding: 0.5rem 0;
     position: sticky;
     top: 0;
-    background: white;
-    padding: 0.5rem 0;
-    margin-bottom: 1rem;
     z-index: 1;
   }
 
@@ -134,15 +134,15 @@
 
 // Toggle button above pagination
 .metadata-toggle {
-  display: inline-block;
   background: #005ea2;
   border: none;
   border-radius: 0.25rem;
   color: white;
   cursor: pointer;
+  display: inline-block;
   font-weight: bold;
-  padding: 0.5rem 1rem;
   margin: 0;
+  padding: 0.5rem 1rem;
 
   &:hover {
     background: #1a4480;
