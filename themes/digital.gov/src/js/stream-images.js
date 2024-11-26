@@ -1,4 +1,4 @@
-const STREAM_IMAGES_VERSION = "1.0.0";
+const STREAM_IMAGES_VERSION = "1.0.1";
 console.log(`stream-images.js version ${STREAM_IMAGES_VERSION}`);
 
 if (!window.imageStreamInitialized && typeof window !== "undefined") {
@@ -6,7 +6,7 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
 
   document.addEventListener("DOMContentLoaded", () => {
     console.log("DOM loaded, initializing image stream...");
-
+    alert("test");
     const imagesStreamContainer = document.querySelector("#stream-images");
     const paginationContainer = document.querySelector(".usa-pagination");
 
@@ -37,7 +37,7 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
       return;
     }
 
-    const CDN_URL = "https://s3.amazonaws.com/digitalgov";
+    const IMAGE_PATH = `${window.origin}/s3-images/`;
     const urlParams = new URLSearchParams(window.location.search);
     let currentPage = parseInt(urlParams.get("page"), 10) || 1;
 
@@ -58,21 +58,15 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
             <div class="grid-col-12">
               <div class="image-card">
                 <div id="card-inner-${uid}" class="image-card__inner">
-                  <div class="image-card__face media" style="height: 700px;">
-                    <img src="${CDN_URL}/${uid}.${image.format || "png"}" 
+                  <div class="image-card__face media">
+                    <img src="${IMAGE_PATH}${uid}.${image.format || "png"}" 
                          loading="lazy" 
                          alt="${image.alt || ""}" 
                          class="usa-image">
-                    <button type="button" class="usa-button usa-button--outline metadata-toggle" aria-label="View metadata">
-                      View Metadata
-                    </button>
                   </div>
 
-                  <div class="image-card__face img-data" style="height: 700px;">
+                  <div class="image-card__face img-data">
                     <div class="metadata-header">
-                      <button type="button" class="usa-button usa-button--outline metadata-toggle" aria-label="View image">
-                        View Image
-                      </button>
                       <h3 class="font-heading-lg">Image ${pageNum} of ${totalPages}</h3>
                     </div>
 
@@ -81,32 +75,20 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
                         <dt>Image ID:</dt>
                         <dd>${uid}</dd>
                         
-                        ${
-                          image.credit
-                            ? `
+                        ${image.credit ? `
                           <dt>Credit:</dt>
                           <dd>${image.credit}</dd>
-                        `
-                            : ""
-                        }
+                        ` : ""}
                         
-                        ${
-                          image.caption
-                            ? `
+                        ${image.caption ? `
                           <dt>Caption:</dt>
                           <dd>${image.caption}</dd>
-                        `
-                            : ""
-                        }
+                        ` : ""}
                         
-                        ${
-                          image.alt
-                            ? `
+                        ${image.alt ? `
                           <dt>Alt Text:</dt>
                           <dd>${image.alt}</dd>
-                        `
-                            : ""
-                        }
+                        ` : ""}
                       </dl>
 
                       <h4 class="font-heading-sm">Use in Front Matter</h4>
@@ -117,18 +99,31 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
 
                       <div class="metadata-footer">
                         <a class="usa-button" 
-                           target="_new" 
+                           target="_blank" 
+                           rel="noopener noreferrer"
                            href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml">
                           Edit on GitHub »
                         </a>
-                        <p class="margin-top-2 text-base">Uploaded on ${
-                          image.date
-                        }</p>
+                        <p class="margin-top-2 text-base">Uploaded on ${image.date}</p>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-container">
+          <div class="grid-row">
+            <div class="grid-col-12 text-center margin-bottom-2">
+              <button type="button" 
+                      class="usa-button usa-button--outline metadata-toggle" 
+                      aria-label="Toggle metadata"
+                      data-show-text="View Metadata"
+                      data-hide-text="Back to Image">
+                View Metadata
+              </button>
             </div>
           </div>
         </div>`;
@@ -148,9 +143,7 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         if (pageNum > 1) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
-              <a href="?page=${
-                pageNum - 1
-              }" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
+              <a href="?page=${pageNum - 1}" class="usa-pagination__link usa-pagination__previous-page" aria-label="Previous page">
                 <span class="usa-pagination__link-text">Previous</span>
               </a>
             </li>`;
@@ -170,23 +163,19 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
             </li>`;
         }
 
-        for (
-          let i = Math.max(1, pageNum - 1);
-          i <= Math.min(totalPages, pageNum + 1);
-          i += 1
-        ) {
+        for (let i = Math.max(1, pageNum - 1); i <= Math.min(totalPages, pageNum + 1); i += 1) {
           paginationList.innerHTML +=
             i === pageNum
               ? `<li class="usa-pagination__item usa-pagination__page-no">
-              <a href="?page=${i}" class="usa-pagination__link usa-current" aria-current="page" aria-label="Page ${i}">
-                ${i}
-              </a>
-            </li>`
+                  <a href="?page=${i}" class="usa-pagination__link usa-current" aria-current="page" aria-label="Page ${i}">
+                    ${i}
+                  </a>
+                </li>`
               : `<li class="usa-pagination__item usa-pagination__page-no">
-              <a href="?page=${i}" class="usa-pagination__link" aria-label="Page ${i}">
-                ${i}
-              </a>
-            </li>`;
+                  <a href="?page=${i}" class="usa-pagination__link" aria-label="Page ${i}">
+                    ${i}
+                  </a>
+                </li>`;
         }
 
         if (pageNum < totalPages - 2) {
@@ -208,9 +197,7 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         if (pageNum < totalPages) {
           paginationList.innerHTML += `
             <li class="usa-pagination__item usa-pagination__arrow">
-              <a href="?page=${
-                pageNum + 1
-              }" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
+              <a href="?page=${pageNum + 1}" class="usa-pagination__link usa-pagination__next-page" aria-label="Next page">
                 <span class="usa-pagination__link-text">Next</span>
               </a>
             </li>`;
@@ -256,18 +243,24 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         url.searchParams.set("page", validatedPage);
         window.history.pushState({}, "", url);
 
+        // Set up card flip functionality
         const cardInner = document.querySelector(`#card-inner-${uid}`);
-        if (cardInner) {
-          const toggleButtons = cardInner.querySelectorAll(".metadata-toggle");
-
-          toggleButtons.forEach((button) => {
-            button.addEventListener("click", (e) => {
-              e.preventDefault();
-              e.stopPropagation();
-              cardInner.classList.toggle("is-flipped");
-            });
+        const toggleButton = document.querySelector(".metadata-toggle");
+        
+        if (cardInner && toggleButton) {
+          toggleButton.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            
+            cardInner.classList.toggle("is-flipped");
+            
+            // Update button text
+            const showText = toggleButton.dataset.showText;
+            const hideText = toggleButton.dataset.hideText;
+            toggleButton.textContent = cardInner.classList.contains("is-flipped") ? hideText : showText;
           });
 
+          // Handle keyboard navigation
           const oldKeyListener = window.cardKeyListener;
           if (oldKeyListener) {
             document.removeEventListener("keydown", oldKeyListener);
@@ -276,8 +269,12 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
           const keyListener = (e) => {
             if (e.key === "Escape") {
               cardInner.classList.remove("is-flipped");
+              toggleButton.textContent = toggleButton.dataset.showText;
             } else if (e.key === "i") {
               cardInner.classList.toggle("is-flipped");
+              const showText = toggleButton.dataset.showText;
+              const hideText = toggleButton.dataset.hideText;
+              toggleButton.textContent = cardInner.classList.contains("is-flipped") ? hideText : showText;
             }
           };
           document.addEventListener("keydown", keyListener);

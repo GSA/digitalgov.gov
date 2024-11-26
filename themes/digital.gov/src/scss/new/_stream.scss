@@ -14,11 +14,15 @@
   @include u-padding-y(2);
 }
 
-// Card flip container
+// Card container
 .image-card {
   margin-bottom: 2rem;
-  min-height: 600px;
+  height: 700px;
   position: relative;
+  background: white;
+  border: 1px solid #dfe1e2;
+  border-radius: 0.5rem;
+  overflow: hidden;
 
   &__inner {
     height: 100%;
@@ -33,15 +37,16 @@
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     background: white;
-    border: 1px solid #dfe1e2;
     border-radius: 0.5rem;
     height: 100%;
+    left: 0;
     position: absolute;
+    top: 0;
     width: 100%;
   }
 }
 
-// Image Container (Front face)
+// Image Container
 .media {
   align-items: center;
   display: flex;
@@ -51,19 +56,33 @@
   transform: rotateY(0deg);
 
   img {
-    max-height: calc(100vh - 300px);
+    max-height: 600px;
+    width: auto;
     max-width: 100%;
     object-fit: contain;
-    width: auto;
   }
 }
 
-// Metadata Container (Back face)
+// Metadata Container
 .img-data {
-  overflow: auto;
+  height: 100%;
+  overflow-y: auto;
   padding: 1rem;
   text-align: left;
   transform: rotateY(180deg);
+
+  .metadata-header {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 0.5rem 0;
+    margin-bottom: 1rem;
+    z-index: 1;
+  }
+
+  .metadata-content {
+    padding-right: 0.5rem;
+  }
 
   h3 {
     font-size: 1.25rem;
@@ -89,10 +108,11 @@
     dd {
       background: #f0f0f0;
       border-radius: 0.25rem;
-      font-size: 1rem;
+      font-size: 0.9rem;
       margin-bottom: 1rem;
       margin-left: 0;
       padding: 0.5rem;
+      word-break: break-word;
     }
   }
 
@@ -105,19 +125,24 @@
     padding: 1rem;
     word-wrap: break-word;
   }
+
+  .metadata-footer {
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+  }
 }
 
-// Toggle button
+// Toggle button above pagination
 .metadata-toggle {
+  display: inline-block;
   background: #005ea2;
   border: none;
   border-radius: 0.25rem;
   color: white;
   cursor: pointer;
-  display: block;
   font-weight: bold;
-  margin: 1rem auto;
   padding: 0.5rem 1rem;
+  margin: 0;
 
   &:hover {
     background: #1a4480;
@@ -126,7 +151,7 @@
 
 // Pagination
 .usa-pagination {
-  margin: 2rem 0;
+  margin-top: 1rem;
   text-align: center;
 
   &__list {
