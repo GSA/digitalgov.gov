@@ -1,10 +1,14 @@
 ---
-source: ""
 date: 2024-11-26 00:00:00 -0500
-title: Navigating digital acquisitions
-deck: How to adopt an agile approach for modernizing websites
-summary: Learn the best practices for agile acquisitions—from building and
-  buying solutions, to overcoming common roadblocks.
+title: "Navigating digital acquisitions"
+deck: "How to adopt an agile approach for modernizing websites"
+summary: "Learn the best practices for agile acquisitions—from building and buying solutions, to overcoming common roadblocks."
+
+# See all authors at https://digital.gov/authors
+authors:
+  - frances-carden
+  - ashley-owens
+
 # See all topics at https://digital.gov/topics
 topics:
   - application-programming-interface
@@ -13,13 +17,18 @@ topics:
   - best-practices
   - content-strategy
   - usability
+
 slug: navigating-digital-acquisitions
-primary_image: agile-project-developmemt-flashvector-istock-getty-images-2149784445-2160477593
+
+primary_image: agile-project-development-flashvector-istock-getty-images-2149784445-2160477593
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+
 ---
+
 Many of us have heard the term “agile acquisition,” but what does it look like in practice, and why is it better for digital modernizations?
 
 Agile [acquisitions](https://digital.gov/topics/acquisition/) are structured to reduce risks while ensuring that each solution meets a user’s complex needs throughout the web modernization process. Contracts often focus on the technical system behind the website. You may see these types of contracts involved in website modernization approaches. Typically, they begin by gathering requirements. However, if we are to change the user experience we must begin the process another way. During this phase, figuring out the problem you are trying to solve and the product (website) vision followed by user research is key — you want to ensure the assumed audience and problem is correct. User research is especially important for web modernization projects because websites are a primary way that the public interacts with the federal government.
