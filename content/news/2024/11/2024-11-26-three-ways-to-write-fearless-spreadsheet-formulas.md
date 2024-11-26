@@ -3,7 +3,7 @@
 source_url: https://18f.gsa.gov/2024/11/05/three-ways-to-write-fearless-spreadsheet-formulas/
 source: 18f
 date: 2024-11-05 00:00:00 -0500
-title: Three ways to write fearless spreadsheet formulas
+title: "Three ways to write fearless spreadsheet formulas"
 deck: "Spreadsheet formulas can be intimidating, especially given their critical
   role in government operations. Applying simple programming principles, 18F
   created a resource for making formulas clearer, easier to read, and less
