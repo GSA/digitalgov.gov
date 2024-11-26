@@ -1,5 +1,5 @@
 ---
-date: 2024-11-25 13:12:00 -0500
+date: 2024-11-26 10:12:00 -0500
 source: ""
 title: "An introduction to federal website standards"
 deck: "Understand how and why to use the federal website standards"
@@ -13,7 +13,7 @@ topics:
   - governance
   - product-and-project-management
 
-  # See all authors at https://digital.gov/authors
+# See all authors at https://digital.gov/authors
 authors:
   - michelle-rago
 
@@ -30,7 +30,7 @@ weight: 1
 
 ## What are the federal website standards?
 
-Federal agencies are required to comply with website standards per the 21st Century Integrated Digital Experience Act (21st Century IDEA). 
+Federal agencies are required to comply with website standards per the 21st Century Integrated Digital Experience Act (21st Century IDEA).
 
 The federal website standards align with 21st Century IDEA, OMB Memo M-23-22, Delivering a Digital-First Public Experience, and other relevant policy requirements and best practices. The standards cover common visual and technical elements and reflect user experience best practices.
 
@@ -52,9 +52,9 @@ The federal website standards help agencies provide high-quality, consistent dig
 
 ## How are standards developed?
 
-GSA’s [Technology Transformation Services](https://tts.gsa.gov/) manages standards development and publication through the Federal Website Standards program. 
+GSA’s [Technology Transformation Services](https://tts.gsa.gov/) manages standards development and publication through the Federal Website Standards program.
 
-The standards are developed through an open and iterative process involving federal agencies, the public, and other stakeholders and are published incrementally in the following four stages: 
+The standards are developed through an open and iterative process involving federal agencies, the public, and other stakeholders and are published incrementally in the following four stages:
 
 * **Research:** The standard is being researched with the public, federal agencies, and other stakeholders.
 * **Draft:** The standard has been drafted and is being shared with federal agencies and other stakeholders for feedback and iteration.
@@ -74,7 +74,7 @@ As a federal web practitioner, you can take the following actions:
 
 You can also browse related resources:
 
-* Familiarize yourself with [U.S. Web Design System components](https://designsystem.digital.gov/components/overview/). 
+* Familiarize yourself with [U.S. Web Design System components](https://designsystem.digital.gov/components/overview/).
 * Explore topical guides, blogs, and events on Digital.gov:
   * [Digital service delivery](https://digital.gov/topics/digital-service-delivery/)
   * [Governance](https://digital.gov/topics/governance/)
@@ -84,7 +84,4 @@ You can also browse related resources:
 
 Share your feedback on the federal website standards by emailing GSA’s standards team at [website.standards@gsa.gov](mailto:website.standards@gsa.gov) or joining a [discussion on GitHub](https://github.com/GSA-TTS/federal-website-standards/discussions).
 
-You can also join Digital.gov’s [Web Managers Community](https://digital.gov/communities/web-content-managers/) to learn more about how other government web practitioners implement governance strategies and manage their content. 
-
-
----
+You can also join Digital.gov’s [Web Managers Community](https://digital.gov/communities/web-content-managers/) to learn more about how other government web practitioners implement governance strategies and manage their content.
