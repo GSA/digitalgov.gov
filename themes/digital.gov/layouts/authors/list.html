@@ -27,13 +27,9 @@
 
             {{/* Bio */}}
             <div class="bio">
-              {{- if .Params.pronoun -}}
-                <p class="pronouns">{{ .Params.pronoun }}</p>
-              {{- end -}}
-
-              {{- if or .Params.location .Params.agency -}}
+              {{- if .Params.agency -}}
                 <p>
-                  {{- if .Params.agency -}}{{- .Params.agency }}{{ end -}}
+                  {{- .Params.agency }}
                 </p>
               {{- end -}}
             </div>
