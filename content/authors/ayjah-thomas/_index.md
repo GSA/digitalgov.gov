@@ -7,26 +7,16 @@ display_name: "Ayjah Thomas"
 first_name: "Ayjah"
 last_name: "Thomas"
 
-# Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
-# List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
-# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
-# Examples: they/them, she/her, or he/him
-pronoun: ""
+
 
 # slug — the specific user-id for an author.
 slug: ayjah-thomas
 
-# if you include an email address, it will be displayed on your profile page
-email: ""
 
-# Bio — keep it under 50 words
-bio: "As a Public Communications Specialist with the Federal Reserve Board’s U.S. Currency Education Program, Ayjah manages the program’s social media portfolio, orchestrates targeted email outputs, develops and edits content placed on uscurrency.gov, and is instrumental in the program’s response to public inquiries."
 
-# Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: ""
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+
+
 
 # Agency Acronym [e.g., GSA]
 agency: ""
@@ -43,11 +33,10 @@ github: ""
 # github-photo — requires a github ID
 profile_source: ""
 
-# Professional Social Media [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-linkedin: "ayjahthomas"
-youtube: ""
+
+
+
+
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors

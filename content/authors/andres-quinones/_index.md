@@ -9,19 +9,11 @@ first_name: "Andres"
 last_name: "Quinones"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
-email: 
 
-# Bio — keep it under 50 words
-bio: "Andres Quinones is a bilingual data analyst with many years of experience in optimization strategy, search and data analysis, and data storytelling. One of his key tasks in the team is to analyze all the data being collected from across different channels, including survey comments, and make recommendations to other teams in the organization."
 
-# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+
 
 # Agency Acronym [e.g., GSA]
 agency: ""
@@ -36,12 +28,11 @@ github: ""
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # Make it better ♥
 ---
