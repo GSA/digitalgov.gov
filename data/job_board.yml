@@ -8,14 +8,13 @@
 
 
 
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
   description: >
           6-month non-reimbursable assignment with the possibility of extension. Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Community Outreach Specialist Series Requested: 0301 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-09-03
-  close_date: 2024-11-29
+  close_date: 2024-12-18
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
   cop_topics:
     - Communicators
@@ -42,17 +41,6 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/804477900
   cop_topics:
     - Communicators
-
-- title: Management and Program Analyst
-  department: Department of Homeland Security
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          This position is located in External Affairs Directorate, Office of Access and Information Services, Digital Services Division. As an Management and Program Analyst, you will provide analysis, program/product support, and advice to branch and division leadership on division products and features.
-  open_date: 2024-11-13
-  close_date: 2024-11-22
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/818686500
-  cop_topics:
-    - User Experience
 
 - title: Visual Information Specialist
   department: Department of the Treasury
@@ -158,31 +146,6 @@
   cop_topics:
     - Communicators
 
-- title: Program Specialist (Direct Hire)
-  department: National Aeronautics and Space Administration
-  location: Multiple Locations
-  description: >
-          The Office of the Chief Information Officer (OCIO) at NASA Headquarters is currently seeking a highly qualified candidate to serve as an Internal Communications Specialist. This position is a critical part of the OCIO Customer Engagement Office, responsible for coordinating across OCIO to improve the effectiveness of communications and outreach products and activities aimed at internal stakeholders.
-  open_date: 2024-11-20
-  close_date: 2024-11-22
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819497300
-  cop_topics:
-    - Communicators
-    - Plain Language
-    - User Experience
-
-- title: Program Analyst
-  department: Department of Veterans Affairs
-  location: Multiple Locations
-  description: >
-          The incumbent reports to the Media Manager and serves as the Web Operations Manager working closely with the Enterprise Support Service (ESS) Executive Leadership Team (ELT) and the Healthcare Environment and Facilities Program (HEFP) Content Management Team (CMT). The incumbent oversees all strategic and operational website initiatives, website content management and integration of functional website processes utilizing new and current information technology systems and applications.
-  open_date: 2024-11-20
-  close_date: 2024-11-26
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819845200
-  cop_topics:
-    - Web Analytics
-    - Web Managers
-
 - title: Division Chief of Product Management, GS-0301-15, FPL 15 (DE)
   department: Department of Education
   location: Washington, District of Columbia
@@ -203,6 +166,101 @@
   open_date: 2024-11-20
   close_date: 2024-12-09
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819981600
+  cop_topics:
+    - User Experience
+    - Web Managers
+
+- title: Associate Chief Information Officer for Application and Digital Solutions
+  department: Department of Transportation
+  location: Washington, District of Columbia
+  description: >
+          The Chief Information Officer (CIO) leads the Office of the Chief Information Officer (OCIO) organization and serves as the principal advisor to the Secretary of Transportation and DOT Operating Administrations on matters involving information technology (IT), information assurance - cybersecurity, privacy, and records management; portfolio management; IT infrastructure and operations; IT innovation and emerging technologies; enterprise date management; and applications and digital solutions.
+  open_date: 2024-11-05
+  close_date: 2024-12-05
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/817601500
+  cop_topics:
+    - Web Managers
+
+- title: Digital Communications Strategist (Customer Experience)
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of USPTO's public affairs and communication activities which include media relations, internal communication, graphic design, social media, brand management, blogs and special initiatives, photography and video, writing and editing, digital strategy and governance, and oversite of web content on USPTO.gov.
+  open_date: 2024-11-25
+  close_date: 2024-12-06
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820782100
+  cop_topics:
+    - Web Analytics
+    - Web Managers
+
+- title: Digital Communications Strategist (Customer Experience)
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Office of the Chief Communications Officer (OCCO), United States Patent and Trademark Office (USPTO). OCCO is responsible for all aspects of USPTO's public affairs and communication activities which include media relations, internal communication, graphic design, social media, brand management, blogs and special initiatives, photography and video, writing and editing, digital strategy and governance, and oversite of web content on USPTO.gov.
+  open_date: 2024-11-25
+  close_date: 2024-12-06
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820781900
+  cop_topics:
+    - User Experience
+    - Web Analytics
+    - Web Managers
+
+- title: Director of Communications and Outreach, AD-0301-00 (Senior Manager) (Excepted Service)
+  department: Department of Education
+  location: Washington, District of Columbia
+  description: >
+          The Director Communication and Outreach is located in Principal Deputy Chief Operating Officer (PDCOO) in Washington, DC. This position is a key leader at FSA, reporting to the Principal Deputy Chief Operating Officer, and is responsible for advising senior staff on proposals and issues involving controversy, intensive outside interest, or significant long-range effects on the programs.
+  open_date: 2024-11-25
+  close_date: 2024-12-08
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820791300
+  cop_topics:
+    - Communicators
+
+- title: Digital Communications Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Web, Marketing, and Communications Division (WMC), Office of Patent Information Resources (OPIR), Office of Information Technology for Patents (OITP), Office of the Commissioner for Patents, U.S. Patent and Trademark Office (USPTO). Web, Marketing, and Communications Division (WMC) provides marketing and outreach services to facilitate greater understanding and knowledge of policy development and implementation of the various programs and applications.
+  open_date: 2024-11-25
+  close_date: 2024-12-10
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820912300
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+- title: Information Technology Specialist (INET)
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Web, Marketing, and Communications Division (WMC), Office of Patent Information Resources (OPIR), Office of Information Technology for Patents (OITP), Office of the Commissioner for Patents, U.S. Patent and Trademark Office (USPTO). Web, Marketing, and Communications Division (WMC) provides marketing and outreach services to facilitate greater understanding and knowledge of policy development and implementation of the various programs and applications.
+  open_date: 2024-11-25
+  close_date: 2024-12-10
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820907900
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+- title: Information Technology Specialist (INET)
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          This position is located in the Web, Marketing, and Communications Division (WMC), Office of Patent Information Resources (OPIR), Office of Information Technology for Patents (OITP), Office of the Commissioner for Patents, U.S. Patent and Trademark Office (USPTO). Web, Marketing, and Communications Division (WMC) provides marketing and outreach services to facilitate greater understanding and knowledge of policy development and implementation of the various programs and applications.
+  open_date: 2024-11-20
+  close_date: 2024-12-10
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820911000
+  cop_topics:
+    - Communicators
+    - Web Managers
+
+- title: Customer Experience Strategist
+  department: Department of Homeland Security
+  location: Multiple Locations
+  description: >
+          The Office of Inspector General (OIG) is an independent office whose mission is to promote excellence, integrity, and accountability throughout the Department of Homeland Security (DHS). In our dynamic environment, the OIG conducts investigations, audits, evaluations, and inspections to enhance program effectiveness and efficiency and to detect and prevent waste, fraud, and mismanagement in DHS programs and operations.
+  open_date: 2024-11-25
+  close_date: 2024-12-04
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820794100
   cop_topics:
     - User Experience
     - Web Managers
