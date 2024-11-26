@@ -1,10 +1,9 @@
 ---
 # Originally published at the following URL
-source_url: https://www.performance.gov/blog/2024-public-participation-federal-government/
+source_url: https://www.performance.gov/blog/2024-public-participation-federal-government
 source: performancegov
 date: 2024-10-29 00:00:00 -0500
-title: "Broadening Public Participation and Community Engagement with the Federal
-  Government"
+title: "Broadening Public Participation and Community Engagement With the Federal Government"
 deck: "Government works best when it incorporates transparent engagement and
   feedback from the public. The White House Office of Management and Budget
   (OMB) is enhancing public participation in federal decision-making through
