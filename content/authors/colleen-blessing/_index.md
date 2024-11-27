@@ -7,26 +7,16 @@ display_name: "Colleen Blessing"
 first_name: "Colleen"
 last_name: "Blessing"
 
-# Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
-# List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
-# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
-# Examples: they/them, she/her, or he/him
-pronoun: ""
+
 
 # slug — the specific user-id for an author.
 slug: colleen-blessing
 
-# if you include an email address, it will be displayed on your profile page
-email: "Colleen.Blessing@eia.gov"
 
-# Bio — keep it under 50 words
-bio: "Colleen Blessing is a senior editor at the U.S. Energy Information Administration and the lead author of her agency’s award-winning style guide. She’s been editing government writing since her agency was formed in 1977 and has worked in the Office of Communications since 2006. Contact Colleen at colleen.blessing@eia.gov"
 
-# Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: ""
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+
+
 
 # Agency Acronym [e.g., GSA]
 agency: ""
@@ -43,11 +33,11 @@ github: ""
 # github-photo — requires a github ID
 profile_source: ""
 
-# Professional Social Media [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors

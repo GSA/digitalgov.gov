@@ -9,19 +9,11 @@ first_name: "Caroline"
 last_name: "Kyungae Smith"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
 
-# Bio — keep it under 50 words
-bio: "Caroline Kyungae Smith is a Design Strategist with more than 8 years of experience designing and implementing innovation products and programs across a range of industries. USDS is her first role in the Public Sector."
 
-# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "Office of Management and Budget"
 
 # Agency Acronym [e.g., GSA]
 agency: "USDS"
@@ -36,12 +28,11 @@ github: ""
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # Make it better ♥
 ---

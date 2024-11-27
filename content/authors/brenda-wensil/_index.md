@@ -7,26 +7,16 @@ display_name: "Brenda Wensil"
 first_name: "Brenda"
 last_name: "Wensil"
 
-# Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
-# List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
-# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
-# Examples: they/them, she/her, or he/him
-pronoun: ""
+
 
 # slug — the specific user-id for an author.
 slug: brenda-wensil
 
-# if you include an email address, it will be displayed on your profile page
-email: "Brenda.Wensil@ed.gov"
 
-# Bio — keep it under 50 words
-bio: "Brenda Wensil is the Chief Customer Experience Officer for Federal Student Aid (FSA). Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid."
 
-# Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: ""
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+
+
 
 # Agency Acronym [e.g., GSA]
 agency: ""
@@ -43,11 +33,11 @@ github: ""
 # github-photo — requires a github ID
 profile_source: ""
 
-# Professional Social Media [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors
