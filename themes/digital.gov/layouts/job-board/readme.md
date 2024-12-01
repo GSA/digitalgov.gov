@@ -1,4 +1,6 @@
-## Communities of Practice Job Board 
+^url: .+/([^/]+)\.md
+slug: $1{{< legacy-img src="/(\d{4,4}) {{< legacy-img src="$1{{< legacy-img src="/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"(
+alt=".+?")* >}}{{< img src="path/to/image.jpg" alt="Description" align="center" caption="My caption" credit="Photo by John Doe" >}}## Communities of Practice Job Board 
 
 
 The Communities of Practice (CoP) Job Board aims to be a public resource for CoP related positions in the government. All job posting data comes from the [USAJOBS](https://www.usajobs.gov/).
