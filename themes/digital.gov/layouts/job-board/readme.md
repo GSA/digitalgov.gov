@@ -1,4 +1,4 @@
-## Communities of Practice Job Board 
+ ## Communities of Practice Job Board 
 
 
 The Communities of Practice (CoP) Job Board aims to be a public resource for CoP related positions in the government. All job posting data comes from the [USAJOBS](https://www.usajobs.gov/).
