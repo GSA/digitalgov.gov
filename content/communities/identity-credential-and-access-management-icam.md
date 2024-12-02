@@ -6,6 +6,6 @@ redirectto: https://www.idmanagement.gov/laws-policies-standards/icamsc/
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 0
 slug: identity-credential-and-access-management-icam
 ---
