@@ -6,7 +6,6 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
 
   document.addEventListener("DOMContentLoaded", () => {
     console.log("DOM loaded, initializing image stream...");
-    alert("test");
     const imagesStreamContainer = document.querySelector("#stream-images");
     const paginationContainer = document.querySelector(".usa-pagination");
 
@@ -56,88 +55,86 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         <div class="grid-container">
           <div class="grid-row">
             <div class="grid-col-12">
-              <div class="image-card">
-                <div id="card-inner-${uid}" class="image-card__inner">
-                  <div class="image-card__face media">
-                    <img src="${IMAGE_PATH}${uid}.${image.format || "png"}" 
-                         loading="lazy" 
-                         alt="${image.alt || ""}" 
-                         class="usa-image">
-                  </div>
-
-                  <div class="image-card__face img-data">
-                    <div class="metadata-header">
-                      <h3 class="font-heading-lg">Image ${pageNum} of ${totalPages}</h3>
+              <div class="image-viewer">
+                <div class="image-viewer__card">
+                  <div id="card-inner-${uid}" class="image-viewer__content">
+                    <div class="image-viewer__face image-viewer__face--front">
+                      <img src="${IMAGE_PATH}${uid}.${image.format || "png"}" 
+                           loading="lazy" 
+                           alt="${image.alt || ""}" 
+                           class="usa-image">
                     </div>
 
-                    <div class="metadata-content">
-                      <dl class="usa-list">
-                        <dt>Image ID:</dt>
-                        <dd>${uid}</dd>
-                        
-                        ${
-                          image.credit
-                            ? `
-                          <dt>Credit:</dt>
-                          <dd>${image.credit}</dd>
-                        `
-                            : ""
-                        }
-                        
-                        ${
-                          image.caption
-                            ? `
-                          <dt>Caption:</dt>
-                          <dd>${image.caption}</dd>
-                        `
-                            : ""
-                        }
-                        
-                        ${
-                          image.alt
-                            ? `
-                          <dt>Alt Text:</dt>
-                          <dd>${image.alt}</dd>
-                        `
-                            : ""
-                        }
-                      </dl>
+                    <div class="image-viewer__face image-viewer__face--back">
+                      <div class="metadata-header">
+                        <h3 class="font-heading-lg">Image ${pageNum} of ${totalPages}</h3>
+                      </div>
 
-                      <h4 class="font-heading-sm">Use in Front Matter</h4>
-                      <pre class="usa-code">primary_image: "${uid}"</pre>
+                      <div class="metadata-content">
+                        <dl class="usa-list">
+                          <dt>Image ID:</dt>
+                          <dd>${uid}</dd>
+                          
+                          ${
+                            image.credit
+                              ? `
+                            <dt>Credit:</dt>
+                            <dd>${image.credit}</dd>
+                          `
+                              : ""
+                          }
+                          
+                          ${
+                            image.caption
+                              ? `
+                            <dt>Caption:</dt>
+                            <dd>${image.caption}</dd>
+                          `
+                              : ""
+                          }
+                          
+                          ${
+                            image.alt
+                              ? `
+                            <dt>Alt Text:</dt>
+                            <dd>${image.alt}</dd>
+                          `
+                              : ""
+                          }
+                        </dl>
 
-                      <h4 class="font-heading-sm">Use in Content</h4>
-                      <pre class="usa-code">{{< img src="${uid}" >}}</pre>
+                        <h4 class="font-heading-sm">Use in Front Matter</h4>
+                        <pre class="usa-code">primary_image: "${uid}"</pre>
 
-                      <div class="metadata-footer">
-                        <a class="usa-button" 
-                           target="_blank" 
-                           rel="noopener noreferrer"
-                           href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml">
-                          Edit on GitHub »
-                        </a>
-                        <p class="margin-top-2 text-base">Uploaded on ${
-                          image.date
-                        }</p>
+                        <h4 class="font-heading-sm">Use in Content</h4>
+                        <pre class="usa-code">{{< img src="${uid}" >}}</pre>
+
+                        <div class="metadata-footer">
+                          <a class="usa-button" 
+                             target="_blank" 
+                             rel="noopener noreferrer"
+                             href="https://github.com/GSA/digitalgov.gov/edit/main/data/images/${uid}.yml">
+                            Edit on GitHub »
+                          </a>
+                          <p class="margin-top-2 text-base">Uploaded on ${
+                            image.date
+                          }</p>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="grid-container">
-          <div class="grid-row">
-            <div class="grid-col-12 text-center margin-bottom-2">
-              <button type="button" 
-                      class="usa-button usa-button--outline metadata-toggle" 
-                      aria-label="Toggle metadata"
-                      data-show-text="View Metadata"
-                      data-hide-text="Back to Image">
-                View Metadata
-              </button>
+                <div class="border-bottom border-base-lighter padding-y-4 margin-y-4">
+                  <div class="text-center">
+                    <button class="usa-button usa-button--outline toggle-button" 
+                            type="button" 
+                            aria-label="Toggle view">
+                      View Metadata
+                    </button>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>`;
@@ -267,48 +264,30 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
 
         // Set up card flip functionality
         const cardInner = document.querySelector(`#card-inner-${uid}`);
-        const toggleButton = document.querySelector(".metadata-toggle");
+        const toggleButton = document.querySelector(".toggle-button");
 
         if (cardInner && toggleButton) {
-          toggleButton.addEventListener("click", (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-
+          toggleButton.addEventListener("click", () => {
             cardInner.classList.toggle("is-flipped");
-
-            // Update button text
-            const { showText } = toggleButton.dataset;
-            const { hideText } = toggleButton.dataset;
-            toggleButton.textContent = cardInner.classList.contains(
-              "is-flipped"
-            )
-              ? hideText
-              : showText;
+            toggleButton.textContent = cardInner.classList.contains("is-flipped")
+              ? "View Image"
+              : "View Metadata";
           });
 
           // Handle keyboard navigation
-          const oldKeyListener = window.cardKeyListener;
-          if (oldKeyListener) {
-            document.removeEventListener("keydown", oldKeyListener);
-          }
-
-          const keyListener = (e) => {
+          const handleKeydown = (e) => {
             if (e.key === "Escape") {
               cardInner.classList.remove("is-flipped");
-              toggleButton.textContent = toggleButton.dataset.showText;
+              toggleButton.textContent = "View Metadata";
             } else if (e.key === "i") {
               cardInner.classList.toggle("is-flipped");
-              const { showText } = toggleButton.dataset;
-              const { hideText } = toggleButton.dataset;
-              toggleButton.textContent = cardInner.classList.contains(
-                "is-flipped"
-              )
-                ? hideText
-                : showText;
+              toggleButton.textContent = cardInner.classList.contains("is-flipped")
+                ? "View Image"
+                : "View Metadata";
             }
           };
-          document.addEventListener("keydown", keyListener);
-          window.cardKeyListener = keyListener;
+
+          document.addEventListener("keydown", handleKeydown);
         }
       } catch (error) {
         console.error("Error displaying images:", error);
