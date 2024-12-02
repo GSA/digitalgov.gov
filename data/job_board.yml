@@ -108,7 +108,8 @@
   close_date: 2024-12-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820782100
   cop_topics:
-    - Web Analytics
+    - Communicators
+    - Social Media
     - Web Managers
 
 - title: Digital Communications Strategist (Customer Experience)
@@ -120,8 +121,8 @@
   close_date: 2024-12-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820781900
   cop_topics:
-    - User Experience
-    - Web Analytics
+    - Communicators
+    - Social Media
     - Web Managers
 
 - title: Director of Communications and Outreach, AD-0301-00 (Senior Manager) (Excepted Service)
@@ -204,6 +205,7 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820826000
   cop_topics:
     - Communicators
+    - Social Media
 
 - title: Information Specialist
   department: Department of Commerce
