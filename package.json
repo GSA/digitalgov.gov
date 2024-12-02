@@ -28,7 +28,7 @@
     "type-check": "tsc --noEmit",
     "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix",
     "mount-s3": "node config/scripts/mount-s3.js",
-    "build": "npm run build:assets && hugo --minify",
+    "build": "npm run build:assets",
     "build:assets": "node scripts/build-assets.js",
     "build:sprites": "node scripts/build-sprites.js",
     "dev": "npm run build:assets && hugo serve --bind='0.0.0.0'",
