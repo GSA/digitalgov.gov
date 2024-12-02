@@ -1,5 +1,4 @@
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const { upload } = require("@evolvingriley/file-upload");
+import { upload } from "@evolvingriley/file-upload";
 
 async function uploadFiles(): Promise<void> {
   console.log("Starting file upload process...");
@@ -19,14 +18,17 @@ async function uploadFiles(): Promise<void> {
 }
 
 // Handle unhandled promise rejections
-process.on("unhandledRejection", (reason, promise) => {
-  console.error("Unhandled Rejection at:", promise, "reason:", reason);
-  process.exit(1);
-});
+process.on(
+  "unhandledRejection",
+  (reason: unknown, promise: Promise<unknown>) => {
+    console.error("Unhandled Rejection at:", promise, "reason:", reason);
+    process.exit(1);
+  }
+);
 
 // Execute if run directly
 if (require.main === module) {
   uploadFiles();
 }
 
-export { uploadFiles };
+export default uploadFiles;

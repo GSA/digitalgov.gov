@@ -20,7 +20,7 @@
   margin-bottom: 0;
 
   &__card {
-    border: 1px solid color('base-lighter');
+    border: 1px solid color("base-lighter");
     border-radius: 0.5rem;
     height: 700px;
     overflow: hidden;
@@ -109,7 +109,7 @@
         }
 
         dd {
-          background: color('base-lightest');
+          background: color("base-lightest");
           border-radius: 0.25rem;
           font-size: 0.9rem;
           margin-bottom: 1rem;
@@ -120,7 +120,7 @@
       }
 
       pre {
-        background: color('base-lightest');
+        background: color("base-lightest");
         border-radius: 0.25rem;
         font-family: monospace;
         font-size: 0.9rem;
@@ -155,7 +155,7 @@
   &__link {
     align-items: center;
     border-radius: 0.25rem;
-    color: color('primary');
+    color: color("primary");
     display: inline-flex;
     font-size: 0.9rem;
     font-weight: bold;
@@ -165,13 +165,13 @@
     text-decoration: none;
 
     &:hover {
-      background: color('base-lightest');
+      background: color("base-lightest");
       text-decoration: none;
     }
 
     &.usa-current {
-      background: color('primary');
-      color: color('white');
+      background: color("primary");
+      color: color("white");
       pointer-events: none;
     }
   }

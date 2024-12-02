@@ -1,6 +1,7 @@
 {{- partial "core/set-env.html" . -}}
 {{ partialCached "core/head-comment.html" . }}
 
+
 <!DOCTYPE html>
 <html
   lang="en-US"
@@ -9,6 +10,7 @@
   prefix="og: http://ogp.me/ns#"
 >
   {{- partial "core/head.html" . -}}
+
 
   <body class="{{- .Type }} {{ .Kind -}}">
     {{- "<!-- Google Tag Manager (noscript) -->" | safeHTML -}}
@@ -21,6 +23,7 @@
       ></iframe
     ></noscript>
     {{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
+
 
     <div class="paper">
       {{- partialCached "core/notice-bar.html" . -}}
@@ -51,16 +54,22 @@
         glossaryPath = {{ $glossaryPath | jsonify | safeJS }};
       {{- end -}}
       const glossaryIcon = {{ "uswds/img/sprite.svg#expand_more" | relURL | jsonify | safeJS }};
-    </script>
-
-    {{/* Load USWDS JS */}}
+    </script> {{/* Load USWDS JS */}}
     {{ $uswdsOpts := dict "targetPath" "js/uswds.min.js" }}
     {{ $uswds := resources.Get "js/uswds/uswds.js" | js.Build $uswdsOpts | fingerprint }}
-    <script src="{{ $uswds.RelPermalink }}" integrity="{{ $uswds.Data.Integrity }}" crossorigin="anonymous"></script>
+    <script
+      src="{{ $uswds.RelPermalink }}"
+      integrity="{{ $uswds.Data.Integrity }}"
+      crossorigin="anonymous"
+    ></script>
 
     {{/* Load main JS */}}
     {{ $mainOpts := dict "targetPath" "js/main.min.js" }}
     {{ $main := resources.Get "js/stream-images.js" | js.Build $mainOpts | fingerprint }}
-    <script src="{{ $main.RelPermalink }}" integrity="{{ $main.Data.Integrity }}" crossorigin="anonymous"></script>
+    <script
+      src="{{ $main.RelPermalink }}"
+      integrity="{{ $main.Data.Integrity }}"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>

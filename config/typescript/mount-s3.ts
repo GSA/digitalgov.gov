@@ -1,7 +1,5 @@
-// using new file-upload package.
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const { mkdir_and_download_files } = require("@evolvingriley/file-upload");
-require("dotenv/config");
+import { mkdir_and_download_files as mkdirAndDownloadFiles } from "@evolvingriley/file-upload";
+import "dotenv/config";
 
 // Run the sync
-mkdir_and_download_files();
+mkdirAndDownloadFiles();

@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const STREAM_IMAGES_VERSION = "1.0.1";
 console.log(`stream-images.js version ${STREAM_IMAGES_VERSION}`);
 
@@ -269,7 +270,9 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
         if (cardInner && toggleButton) {
           toggleButton.addEventListener("click", () => {
             cardInner.classList.toggle("is-flipped");
-            toggleButton.textContent = cardInner.classList.contains("is-flipped")
+            toggleButton.textContent = cardInner.classList.contains(
+              "is-flipped"
+            )
               ? "View Image"
               : "View Metadata";
           });
@@ -281,7 +284,9 @@ if (!window.imageStreamInitialized && typeof window !== "undefined") {
               toggleButton.textContent = "View Metadata";
             } else if (e.key === "i") {
               cardInner.classList.toggle("is-flipped");
-              toggleButton.textContent = cardInner.classList.contains("is-flipped")
+              toggleButton.textContent = cardInner.classList.contains(
+                "is-flipped"
+              )
                 ? "View Image"
                 : "View Metadata";
             }
