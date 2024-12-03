@@ -1,4 +1,3 @@
-{{/* Previous content up to the CSS section remains the same */}}
 <!-- Logic for featured image -->
 {{/* Featured_image call */}}
 
@@ -226,39 +225,32 @@
       {{- if $customCSS -}}
         {{- $customCSSMinified := $customCSS | minify | fingerprint -}}
         <!-- CUSTOM CSS -->
-        <link
-          rel="stylesheet"
-          media="all"
-          href="{{- $customCSSMinified.RelPermalink -}}"
-          type="text/css"
-        />
+        <link rel="stylesheet" media="all" href="{{- $customCSSMinified.RelPermalink -}}" type="text/css" />
       {{- end -}}
     {{- end -}}
   {{- end -}}
 
   {{/* Base styles */}}
-  {{- $styles := "dist/styles.css" -}}
-  {{- $css := resources.Get $styles -}}
-  {{- if $css -}}
-    {{- $cssMinified := $css | minify | fingerprint -}}
-    <link
-      rel="stylesheet"
-      href="{{- $cssMinified.RelPermalink -}}"
-      type="text/css"
-      media="all"
-      integrity="{{ $cssMinified.Data.Integrity }}"
-      crossorigin="anonymous"
-    />
+  {{- $sassOptions := (dict "targetPath" "css/styles.css" "enableSourceMap" true "includePaths" (slice "node_modules/@uswds/uswds/packages")) -}}
+  {{- $styles := resources.Get "scss/new/styles.scss" | resources.ToCSS $sassOptions | resources.PostCSS | resources.Minify | resources.Fingerprint -}}
+  {{- if $styles -}}
+  <link
+    rel="stylesheet"
+    href="{{- $styles.RelPermalink -}}"
+    type="text/css"
+    media="all"
+    integrity="{{ $styles.Data.Integrity }}"
+    crossorigin="anonymous"
+  />
   {{- end -}}
 
   {{/* USWDS Init JS */}}
-  {{- $uswdsInit := "dist/js/uswds-init.min.js" -}}
-  {{- $js := resources.Get $uswdsInit -}}
-  {{- if $js -}}
-    {{- $jsMinified := $js | minify | fingerprint -}}
-    <script
-      src="{{ $jsMinified.RelPermalink }}"
-      integrity="{{ $jsMinified.Data.Integrity }}"
+  {{- $uswdsInit := resources.Get "js/uswds/uswds-init.js" -}}
+  {{- if $uswdsInit -}}
+    {{- $uswdsInitMinified := $uswdsInit | minify | fingerprint -}}
+    <script 
+      src="{{ $uswdsInitMinified.RelPermalink }}"
+      integrity="{{ $uswdsInitMinified.Data.Integrity }}"
       crossorigin="anonymous"
     ></script>
   {{- end -}}
