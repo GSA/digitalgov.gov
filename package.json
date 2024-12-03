@@ -4,7 +4,7 @@
   "description": "Guidance for making a better digital government",
   "type": "commonjs",
   "scripts": {
-    "federalist": "npm install --include=optional sharp && npm run mount-s3 && export NODE_ENV=production && npm run build",
+    "federalist": "npm install --include=optional sharp && npm run mount-s3 && export NODE_ENV=production && if [ \"$BRANCH\" != \"main\" ]; then npm run build:preview; else npm run build; fi",
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.json -print0 | xargs -0I {} jsonlint '{}'",
     "lint:js": "eslint './themes/digital.gov/src/js/*.js' './config/typescript/**/*.ts'",
@@ -28,7 +28,8 @@
     "type-check": "tsc --noEmit",
     "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix",
     "mount-s3": "node config/scripts/mount-s3.js",
-    "build": "npm run build:assets",
+    "build": "npm run build:assets && hugo",
+    "build:preview": "npm run build:assets && node scripts/build-preview.js",
     "build:assets": "node scripts/build-assets.js",
     "build:sprites": "node scripts/build-sprites.js",
     "dev": "npm run build:assets && hugo serve --bind='0.0.0.0'",
