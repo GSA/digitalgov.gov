@@ -1,14 +1,20 @@
-Zconst { execSync } = require('child_process');
+cgit adonst { execSync } = require('child_process');
 const { copyUswdsAssets } = require('./build-assets');
+const fs = require('fs');
+const path = require('path');
 
 async function buildPreview() {
   try {
     // Copy USWDS assets first
     await copyUswdsAssets();
     
-    // Build the site using the preview config with Hugo extended version
+    // Get Hugo version from .hugo-version file
+    const hugoVersion = fs.readFileSync(path.join(__dirname, '../.hugo-version'), 'utf8').trim();
+    console.log(`Using Hugo version: ${hugoVersion}`);
+    
+    // Build the site using the preview config
     console.log('Building site with preview configuration...');
-    execSync('npx hugo-extended --config config.yml,config/env/preview/config.yml', {
+    execSync(`hugo_${hugoVersion} --config config.yml,config/env/preview/config.yml`, {
       stdio: 'inherit',
       env: {
         ...process.env,
