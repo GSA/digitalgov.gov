@@ -102,11 +102,12 @@ Given the significance of the services they provide and the requirements in Exec
 
 When crafting the customer feedback surveys, high-impact service providers include three prompts:
 
-1. This [interaction / service] increased my trust in [provider].
+
+1. This `[interaction / service]` increased my trust in `[provider]`.
 2. What about this interaction made the difference? **OR** What could have been better?
 3. Anything else you want us to know about your experience?
 
-To learn more about the survey framework, including question wording and branching logic, check out pages 9-12 of OMB Circular A-11; Section 280.14 How should HISPs collect and submit "post-transaction" feedback data?
+To learn more about the survey framework, including question wording and branching logic, check out pages 9-12 of [OMB Circular A-11 (PDF, 376 KB, 14 pages)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf); Section 280.14: "How should HISPs collect and submit 'post-transaction' feedback data?"
 {{< /note >}}
 
 ## Connect with others interested in transforming customer experience and service delivery
