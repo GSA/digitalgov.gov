@@ -224,7 +224,12 @@
       {{- $customCSS := resources.Get (printf "dist/%s" .) -}}
       {{- $customCSSMinified := $customCSS | resources.Minify -}}
       <!-- CUSTOM CSS -->
-      <link rel="stylesheet" media="all" href="{{- $customCSSMinified.RelPermalink -}}" type="text/css" />
+      <link
+        rel="stylesheet"
+        media="all"
+        href="{{- $customCSSMinified.RelPermalink -}}"
+        type="text/css"
+      />
     {{- end -}}
   {{- end -}}
 
@@ -243,7 +248,7 @@
   {{/* USWDS Init JS */}}
   {{- $uswdsInit := resources.Get "dist/js/uswds-init.min.js" -}}
   {{- $uswdsInitMinified := $uswdsInit | resources.Minify | resources.Fingerprint -}}
-  <script 
+  <script
     src="{{ $uswdsInitMinified.RelPermalink }}"
     integrity="{{ $uswdsInitMinified.Data.Integrity }}"
     crossorigin="anonymous"
