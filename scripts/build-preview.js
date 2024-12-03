@@ -8,8 +8,14 @@ async function buildPreview() {
     
     // Build the site using the preview config
     console.log('Building site with preview configuration...');
-    execSync('hugo --config config.yml,config/env/preview/config.yml', {
-      stdio: 'inherit'
+    
+    // Use npx to ensure hugo is available
+    execSync('npx hugo --config config.yml,config/env/preview/config.yml', {
+      stdio: 'inherit',
+      env: {
+        ...process.env,
+        NODE_ENV: 'production'
+      }
     });
     
     console.log('Preview build completed successfully');
