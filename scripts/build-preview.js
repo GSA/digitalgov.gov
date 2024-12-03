@@ -1,4 +1,4 @@
-cgit adonst { execSync } = require('child_process');
+const { execSync } = require('child_process');
 const { copyUswdsAssets } = require('./build-assets');
 const fs = require('fs');
 const path = require('path');
@@ -14,11 +14,12 @@ async function buildPreview() {
     
     // Build the site using the preview config
     console.log('Building site with preview configuration...');
-    execSync(`hugo_${hugoVersion} --config config.yml,config/env/preview/config.yml`, {
+    execSync(`hugo_extended_${hugoVersion} --config config.yml,config/env/preview/config.yml`, {
       stdio: 'inherit',
       env: {
         ...process.env,
-        NODE_ENV: 'production'
+        NODE_ENV: 'production',
+        HUGO_VERSION: hugoVersion
       }
     });
     
