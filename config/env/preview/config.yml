@@ -47,7 +47,6 @@ build:
     - source: themes/digital\.gov/src/js/.*\.js$
       target: js
   # SASS configuration  
-  transpiler: dartsass
   cssMinify: true
   options:
     targetPath: css/styles.css
@@ -115,3 +114,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+# SCSS processing
+sass:
+  transpiler: dartsass
+  outputStyle: compressed
+  includePaths:
+    - node_modules/@uswds/uswds/packages
+  sourceMap: true
