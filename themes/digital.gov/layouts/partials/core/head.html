@@ -226,7 +226,12 @@
       {{- if $customCSS -}}
         {{- $customCSSMinified := $customCSS | minify | fingerprint -}}
         <!-- CUSTOM CSS -->
-        <link rel="stylesheet" media="all" href="{{- $customCSSMinified.RelPermalink -}}" type="text/css" />
+        <link
+          rel="stylesheet"
+          media="all"
+          href="{{- $customCSSMinified.RelPermalink -}}"
+          type="text/css"
+        />
       {{- end -}}
     {{- end -}}
   {{- end -}}
@@ -251,7 +256,7 @@
   {{- $js := resources.Get $uswdsInit -}}
   {{- if $js -}}
     {{- $jsMinified := $js | minify | fingerprint -}}
-    <script 
+    <script
       src="{{ $jsMinified.RelPermalink }}"
       integrity="{{ $jsMinified.Data.Integrity }}"
       crossorigin="anonymous"
