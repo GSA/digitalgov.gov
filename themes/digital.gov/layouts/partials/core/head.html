@@ -1,3 +1,4 @@
+{{/* Previous content up to the CSS section remains the same */}}
 <!-- Logic for featured image -->
 {{/* Featured_image call */}}
 
@@ -222,37 +223,40 @@
   {{- if $.Params.css -}}
     {{- range $.Params.css -}}
       {{- $customCSS := resources.Get (printf "dist/%s" .) -}}
-      {{- $customCSSMinified := $customCSS | resources.Minify -}}
-      <!-- CUSTOM CSS -->
-      <link
-        rel="stylesheet"
-        media="all"
-        href="{{- $customCSSMinified.RelPermalink -}}"
-        type="text/css"
-      />
+      {{- if $customCSS -}}
+        {{- $customCSSMinified := $customCSS | minify | fingerprint -}}
+        <!-- CUSTOM CSS -->
+        <link rel="stylesheet" media="all" href="{{- $customCSSMinified.RelPermalink -}}" type="text/css" />
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 
   {{/* Base styles */}}
-  {{- $styles := resources.Get "dist/styles.css" -}}
-  {{- $stylesMinified := $styles | resources.Minify | resources.Fingerprint -}}
-  <link
-    rel="stylesheet"
-    href="{{- $stylesMinified.RelPermalink -}}"
-    type="text/css"
-    media="all"
-    integrity="{{ $stylesMinified.Data.Integrity }}"
-    crossorigin="anonymous"
-  />
+  {{- $styles := "dist/styles.css" -}}
+  {{- $css := resources.Get $styles -}}
+  {{- if $css -}}
+    {{- $cssMinified := $css | minify | fingerprint -}}
+    <link
+      rel="stylesheet"
+      href="{{- $cssMinified.RelPermalink -}}"
+      type="text/css"
+      media="all"
+      integrity="{{ $cssMinified.Data.Integrity }}"
+      crossorigin="anonymous"
+    />
+  {{- end -}}
 
   {{/* USWDS Init JS */}}
-  {{- $uswdsInit := resources.Get "dist/js/uswds-init.min.js" -}}
-  {{- $uswdsInitMinified := $uswdsInit | resources.Minify | resources.Fingerprint -}}
-  <script
-    src="{{ $uswdsInitMinified.RelPermalink }}"
-    integrity="{{ $uswdsInitMinified.Data.Integrity }}"
-    crossorigin="anonymous"
-  ></script>
+  {{- $uswdsInit := "dist/js/uswds-init.min.js" -}}
+  {{- $js := resources.Get $uswdsInit -}}
+  {{- if $js -}}
+    {{- $jsMinified := $js | minify | fingerprint -}}
+    <script 
+      src="{{ $jsMinified.RelPermalink }}"
+      integrity="{{ $jsMinified.Data.Integrity }}"
+      crossorigin="anonymous"
+    ></script>
+  {{- end -}}
 
   {{ "<!-- Favicons & Icons -->" | safeHTML }}
   <link
