@@ -218,23 +218,36 @@
   {{- end -}}
 
   {{ "<!-- CSS -->" | safeHTML }}
-  {{/* Custom CSS — needs to be included before the base styles */}}
+  {{/* Custom CSS — needs to be included before the base styles */}}
   {{- if $.Params.css -}}
     {{- range $.Params.css -}}
-      {{- $path := (printf "dist/%s" .) | absURL -}}
+      {{- $customCSS := resources.Get (printf "dist/%s" .) -}}
+      {{- $customCSSMinified := $customCSS | resources.Minify -}}
       <!-- CUSTOM CSS -->
-      <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css" />
+      <link rel="stylesheet" media="all" href="{{- $customCSSMinified.RelPermalink -}}" type="text/css" />
     {{- end -}}
   {{- end -}}
 
   {{/* Base styles */}}
+  {{- $styles := resources.Get "dist/styles.css" -}}
+  {{- $stylesMinified := $styles | resources.Minify | resources.Fingerprint -}}
   <link
     rel="stylesheet"
-    href="{{- "dist/styles.css" | absURL -}}"
+    href="{{- $stylesMinified.RelPermalink -}}"
     type="text/css"
     media="all"
+    integrity="{{ $stylesMinified.Data.Integrity }}"
+    crossorigin="anonymous"
   />
-  <script src="{{ "dist/js/uswds-init.min.js" | absURL }}"></script>
+
+  {{/* USWDS Init JS */}}
+  {{- $uswdsInit := resources.Get "dist/js/uswds-init.min.js" -}}
+  {{- $uswdsInitMinified := $uswdsInit | resources.Minify | resources.Fingerprint -}}
+  <script 
+    src="{{ $uswdsInitMinified.RelPermalink }}"
+    integrity="{{ $uswdsInitMinified.Data.Integrity }}"
+    crossorigin="anonymous"
+  ></script>
 
   {{ "<!-- Favicons & Icons -->" | safeHTML }}
   <link
