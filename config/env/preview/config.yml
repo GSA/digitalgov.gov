@@ -108,3 +108,10 @@ security:
     mediaTypes:
       "text/css": ["css"]
       "application/javascript": ["js"]
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
