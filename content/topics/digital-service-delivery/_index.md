@@ -317,7 +317,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-  - link: "/guides/hcd/"
+  - link: "resources/introduction-to-federal-web-standards/"
 
 # Featured community to display at the top of the page
 featured_communities:
