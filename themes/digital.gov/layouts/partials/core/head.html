@@ -225,7 +225,12 @@
       {{- if $customCSS -}}
         {{- $customCSSMinified := $customCSS | minify | fingerprint -}}
         <!-- CUSTOM CSS -->
-        <link rel="stylesheet" media="all" href="{{- $customCSSMinified.RelPermalink -}}" type="text/css" />
+        <link
+          rel="stylesheet"
+          media="all"
+          href="{{- $customCSSMinified.RelPermalink -}}"
+          type="text/css"
+        />
       {{- end -}}
     {{- end -}}
   {{- end -}}
@@ -234,21 +239,21 @@
   {{- $sassOptions := (dict "targetPath" "css/styles.css" "enableSourceMap" true "includePaths" (slice "node_modules/@uswds/uswds/packages")) -}}
   {{- $styles := resources.Get "scss/new/styles.scss" | resources.ToCSS $sassOptions | resources.PostCSS | resources.Minify | resources.Fingerprint -}}
   {{- if $styles -}}
-  <link
-    rel="stylesheet"
-    href="{{- $styles.RelPermalink -}}"
-    type="text/css"
-    media="all"
-    integrity="{{ $styles.Data.Integrity }}"
-    crossorigin="anonymous"
-  />
+    <link
+      rel="stylesheet"
+      href="{{- $styles.RelPermalink -}}"
+      type="text/css"
+      media="all"
+      integrity="{{ $styles.Data.Integrity }}"
+      crossorigin="anonymous"
+    />
   {{- end -}}
 
   {{/* USWDS Init JS */}}
   {{- $uswdsInit := resources.Get "js/uswds/uswds-init.js" -}}
   {{- if $uswdsInit -}}
     {{- $uswdsInitMinified := $uswdsInit | minify | fingerprint -}}
-    <script 
+    <script
       src="{{ $uswdsInitMinified.RelPermalink }}"
       integrity="{{ $uswdsInitMinified.Data.Integrity }}"
       crossorigin="anonymous"

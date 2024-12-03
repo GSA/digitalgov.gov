@@ -1,4 +1,6 @@
 baseURL: "https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/rs-lazy-load-images"
+publishDir: "public"
+assetDir: "assets"
 
 module:
   mounts:
@@ -72,15 +74,37 @@ build:
       minify: true
 
 mediaTypes:
-  text/css:
-    suffixes: ["css"]
-  application/javascript:
-    suffixes: ["js"]
+  "text/css":
+    suffixes:
+      - css
+    delimiter: "."
+  "application/javascript":
+    suffixes:
+      - js
+    delimiter: "."
 
 outputFormats:
   CSS:
     mediaType: text/css
     isPlainText: true
+    notAlternative: true
   JS:
     mediaType: application/javascript
     isPlainText: true
+    notAlternative: true
+
+server:
+  headers:
+    - for: "**.css"
+      values:
+        Content-Type: text/css
+    - for: "**.js"
+      values:
+        Content-Type: application/javascript
+
+security:
+  enableInlineShortcodes: true
+  http:
+    mediaTypes:
+      "text/css": ["css"]
+      "application/javascript": ["js"]
