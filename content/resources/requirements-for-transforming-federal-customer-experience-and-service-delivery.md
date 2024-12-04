@@ -80,7 +80,7 @@ OMB Circular A-11 requires agencies to gather and analyze customer experience da
 * Reviewing web analytics data, including clicks, pageviews, and other transactions
 * Attaching timestamps to data points to trace a user's journey through time and analyze macro-level shifts in user behavior over longer time periods
 
-{{< featured-resource link="guides/hcd/" kicker="Human-centered design">}}
+{{< featured-resource link="guides/hcd/introduction/" kicker="Get started">}}
 
 ### High-impact service providers
 
