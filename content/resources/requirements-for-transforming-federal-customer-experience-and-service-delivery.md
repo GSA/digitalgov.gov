@@ -80,10 +80,7 @@ OMB Circular A-11 requires agencies to gather and analyze customer experience da
 * Reviewing web analytics data, including clicks, pageviews, and other transactions
 * Attaching timestamps to data points to trace a user's journey through time and analyze macro-level shifts in user behavior over longer time periods
 
-{{< note >}}Web teams can also consider speaking with actual users to optimize customer experience in digital services.
-
-Check out our [Human-Centered Design Guide](https://digital.gov/guides/hcd/) for more information on how to leverage user-centered thinking in digital services and throughout the federal government.
-{{< /note >}}
+{{< featured-resource link="guides/hcd/" kicker="Human-centered design">}}
 
 ### High-impact service providers
 
