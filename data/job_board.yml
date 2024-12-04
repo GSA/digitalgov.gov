@@ -6,8 +6,6 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
-
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -86,7 +84,8 @@
   close_date: 2024-12-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820782100
   cop_topics:
-    - Web Analytics
+    - Communicators
+    - Social Media
     - Web Managers
 
 - title: Digital Communications Strategist (Customer Experience)
@@ -98,8 +97,8 @@
   close_date: 2024-12-06
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820781900
   cop_topics:
-    - User Experience
-    - Web Analytics
+    - Communicators
+    - Social Media
     - Web Managers
 
 - title: Director of Communications and Outreach, AD-0301-00 (Senior Manager) (Excepted Service)
@@ -172,39 +171,6 @@
   cop_topics:
     - Contact Center
 
-- title: Vice President, Financial Institutions
-  department: Other Agencies and Independent Organizations
-  location: Washington, District of Columbia
-  description: >
-          This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business & Financial Services (OSBFS). As the Vice President, you will serve as a senior leader, managing direct loans and loan guarantees to a wide range of financial intermediaries that lend to micro, small and medium businesses across an array of sectors in emerging markets.
-  open_date: 2024-12-03
-  close_date: 2024-12-31
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821769200
-  cop_topics:
-    - Communicators
-
-- title: Vice President, Financial Institutions
-  department: Other Agencies and Independent Organizations
-  location: Washington, District of Columbia
-  description: >
-          This position is part of the U.S. International Development Finance Corporation (DFC), Office of Small Business & Financial Services (OSBFS). As the Vice President, you will serve as a senior leader, managing direct loans and loan guarantees to a wide range of financial intermediaries that lend to micro, small and medium businesses across an array of sectors in emerging markets.
-  open_date: 2024-12-03
-  close_date: 2024-12-31
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821770800
-  cop_topics:
-    - Communicators
-
-- title: IT Specialist (INFOSEC)
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          This position is located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). As an IT Specialist (INFOSEC), Agency Title: Login.gov Fraud Specialist, you will be responsible for overall security of the Login.gov product and platform and serves as the Principal Advisor and Senior Identity Fraud Specialist and perform identity fraud detection, investigation, and analysis for the Login.gov service.
-  open_date: 2024-12-04
-  close_date: 2024-12-09
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821623200
-  cop_topics:
-    - Web Managers
-
 - title: Customer Experience Strategist
   department: Department of Health and Human Services
   location: Woodlawn, Maryland
@@ -228,4 +194,3 @@
   cop_topics:
     - User Experience
     - Web Analytics
-
