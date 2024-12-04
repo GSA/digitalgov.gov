@@ -20,22 +20,9 @@
     {{- if .Params.last_name -}}
     "last_name" : "{{- .Params.last_name -}}",
     {{- end -}}
-    {{- if .Params.pronoun -}}
-    "pronoun" : "{{- .Params.pronoun -}}",
-    {{- end -}}
 
     {{- partial "api/slug.html" . -}}
 
-    {{- if .Params.email -}}
-    "email" : "{{- .Params.email -}}",
-    {{- end -}}
-    {{- if .Params.location -}}
-    "location" : "{{- .Params.location -}}",
-    {{- end -}}
-    {{- partial "api/bio.html" . -}}
-    {{- if .Params.bio_url -}}
-    "bio_url" : "{{- .Params.bio_url -}}",
-    {{- end -}}
     {{- if .Params.agency -}}
     "agency" : "{{- .Params.agency -}}",
     {{- end -}}
@@ -47,18 +34,6 @@
     {{- end -}}
     {{- if .Params.profile_source -}}
     "profile_source" : "{{- .Params.profile_source -}}",
-    {{- end -}}
-    {{- if .Params.twitter -}}
-    "twitter" : "{{- .Params.twitter -}}",
-    {{- end -}}
-    {{- if .Params.facebook -}}
-    "facebook" : "{{- .Params.facebook -}}",
-    {{- end -}}
-    {{- if .Params.linkedin -}}
-    "linkedin" : "{{- .Params.linkedin -}}",
-    {{- end -}}
-    {{- if .Params.youtube -}}
-    "youtube" : "{{- .Params.youtube -}}",
     {{- end -}}
     "branch" : {{ $.Scratch.Get "branch" | jsonify }},
     "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
@@ -97,30 +72,6 @@
                 "{{- $uid -}}" : "{{- .Params.display_name | default $uid }}"
               {{- end -}}
             {{- end -}}
-          {{- end -}}
-          },
-        {{- end -}}
-
-        {{- if (isset .Params "topics") -}}
-          "topics" : {
-          {{/* Sets the taxonomy we're pulling here */}}
-          {{- $taxonomy := "topics" -}}
-          {{- $topics := .Param $taxonomy -}}
-          {{/* Gets the number of topics that are applied */}}
-          {{- $length := $topics | len -}}
-
-          {{/* For each of the topics,... */}}
-          {{- range $i, $e := sort $topics -}}
-            {{- $slug := . -}}
-            {{/* Gets the Topics page */}}
-            {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
-              {{ if lt (add $i 1) $length }}
-              "{{- $slug -}}" : "{{- .Title }}",
-              {{- else }}
-              "{{- $slug -}}" : "{{- .Title }}"
-              {{ end }}
-            {{- end -}}
-
           {{- end -}}
           },
         {{- end -}}

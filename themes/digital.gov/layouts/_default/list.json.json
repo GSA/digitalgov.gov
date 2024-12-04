@@ -35,6 +35,7 @@
     "items" : [
     {{- range $index, $element := $list -}}
     {
+      {{ if .Params.source_url }}
       {{- if (isset .Params "kicker") -}}
       "kicker" : "{{- .Params.kicker -}}",
       {{- end -}}
@@ -50,6 +51,15 @@
       "date_modified" : "{{- .Lastmod.Format "2006-01-02T15:04:05Z07:00" -}}",
       {{- else -}}
       "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}", -}}",
+      {{- end -}}
+      {{- if (isset .Params "guide") -}}
+      "guide" : "{{- .Params.guide -}}",
+      {{- end -}}
+      {{- if (isset .Params "guide_weight") -}}
+      "guide_weight" : "{{- .Params.guide_weight -}}",
+      {{- end -}}
+      {{- if (isset .Params "image") -}}
+      "image" : "{{- .Params.image -}}",
       {{- end -}}
       {{- if (isset .Params "authors") -}}
         {{- $_authors := .Params.authors -}}
@@ -98,6 +108,7 @@
 
       {{- partial "api/featured_image.html" . -}}
 
+
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
       {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
@@ -134,6 +145,8 @@
       {{- partial "api/slug.html" . -}}
 
       "url" : "{{- .Permalink -}}"
+
+    {{ end }}
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]
