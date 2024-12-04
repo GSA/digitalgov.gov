@@ -41,6 +41,9 @@ featured_communities:
 featured_links:
   title: "Analytics: Essential knowledge"
   resources:
+  - title: "An introduction to analytics"
+    summary: "Use metrics and data to understand how people use your website."
+    href: "https://digital.gov/resources/an-introduction-to-analytics/"
   - title: "How to build an analytics strategy"
     summary: "The Digital Analytics Program (DAP) provides a start-to-finish approach for assessing, reporting, and taking action using Digital.gov in a case study."
     href: "https://digital.gov/resources/how-to-build-an-analytics-strategy/"
