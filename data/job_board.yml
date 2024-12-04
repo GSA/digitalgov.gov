@@ -6,8 +6,6 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
-
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -39,28 +37,6 @@
   open_date: 2024-11-14
   close_date: 2024-12-05
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819000000
-  cop_topics:
-    - Communicators
-
-- title: Writer-Editor
-  department: Legislative Branch
-  location: Washington, District of Columbia
-  description: >
-          This position is located in the Office of Public Information and Education Directorate, Copyright Office. The position description number for this position is 414903. The salary range indicated reflects the locality pay adjustments for the Washington, D.C., Metropolitan area. This is a non-supervisory, non-bargaining unit position. Relocation expenses will not be authorized for the person(s) selected under this vacancy announcement.
-  open_date: 2024-11-07
-  close_date: 2024-12-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/818194900
-  cop_topics:
-    - Communicators
-
-- title: Communications Engagement Specialist
-  department: Department of Justice
-  location: Washington, District of Columbia
-  description: >
-          This position serves as Communications Engagement Specialist in the Bureau of Justice Assistance (BJA), Operations Office, Communications and Governmental Affairs. This position is responsible for engaging with a variety of key BJA stakeholders using outreach strategies and tactics that include regular liaison, distribution of BJA resources, materials and information, public events and targeted campaigns.
-  open_date: 2024-11-19
-  close_date: 2024-12-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/819779600
   cop_topics:
     - Communicators
 
@@ -184,36 +160,37 @@
     - User Experience
     - Web Managers
 
-- title: PUBLIC AFFAIRS SPECIALIST
-  department: Department of the Navy
-  location: Pearl Harbor Naval Base, Oahu, Hawaii
+- title: IT Project Manager (SYSANALYSIS)
+  department: General Services Administration
+  location: Anywhere in the U.S. (remote job)
   description: >
-          You will serve as a PUBLIC AFFAIRS SPECIALIST in the Public Affairs Office, Executive Support Staff, of PEARL HARBOR NSY AND IMF.
-  open_date: 2024-11-21
-  close_date: 2024-12-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820206600
+          As an IT Project Manager (SYSANALYSIS), you will serve as a Contact Center Modernization Lead. In this role, you will oversee cooperative critical Contact Center modernization efforts between the Centers of Excellence (CoE) and partnering agencies. These efforts will allow you to guide and improve the initial point of contact between the American public and federal agencies while facing some of the most complex and impactful challenges in public service.
+  open_date: 2024-12-03
+  close_date: 2024-12-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821822400
   cop_topics:
-    - Communicators
+    - Contact Center
 
-- title: Information Specialist
-  department: Department of Commerce
-  location: Gaithersburg, Maryland
+- title: Customer Experience Strategist
+  department: Department of Health and Human Services
+  location: Woodlawn, Maryland
   description: >
-          NIST works with industry and science to advance innovation and improve quality of life. We're looking for an Information Specialist to join our team! The Dept. of Commerce ranked top 5 in the 2023 Best Places to Work in the Federal Government amongst large agencies for the 12th year in a row! The ranking showcases the Dept's continued commitment to increasing our employee engagement, satisfaction, & positive perceptions towards diversity, equity, accessibility, & inclusion.
-  open_date: 2024-11-26
-  close_date: 2024-12-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820826000
+          This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Communications (OC), Web & Emerging Technologies Group (WETG). As a Customer Experience Strategist, GS-0301-13, you will be responsible for increasing the internal and/or external customer experience of the programs, services, and work unit and building competency for a data driven design approach.
+  open_date: 2024-12-04
+  close_date: 2024-12-08
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821854300
   cop_topics:
-    - Communicators
-    - Social Media
+    - User Experience
+    - Web Analytics
 
-- title: Information Specialist
-  department: Department of Commerce
-  location: Gaithersburg, Maryland
+- title: Customer Experience Strategist
+  department: Department of Health and Human Services
+  location: Woodlawn, Maryland
   description: >
-          NIST works with industry and science to advance innovation and improve quality of life. We're looking for a USAJOBS Job Title (to serve as a Partnership and Outreach Coordinator) to join our team! As a Partnership and Outreach Coordinator, you will be responsible for coordination of key projects and programs across the Division's portfolio of communication, outreach, and education and workforce development-related products and services for and with Manufacturing USA network partners.
-  open_date: 2024-11-27
-  close_date: 2024-12-03
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/820839400
+          This position is located in the Department of Health & Human Services (HHS), Centers for Medicare & Medicaid Services (CMS), Office of Communications (OC), Web & Emerging Technologies Group (WETG). As a Customer Experience Strategist, GS-0301-13, you will be responsible for increasing the internal and/or external customer experience of the programs, services, and work unit and building competency for a data driven design approach.
+  open_date: 2024-12-04
+  close_date: 2024-12-08
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821854100
   cop_topics:
-    - Communicators
+    - User Experience
+    - Web Analytics
