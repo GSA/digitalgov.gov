@@ -3,7 +3,6 @@
 
 
 <!DOCTYPE html>
-
 <html
   lang="en-US"
   itemscope
@@ -39,28 +38,38 @@
       {{- partialCached "core/newsletter-signup.html" . -}}
       {{- partialCached "core/footer.html" . -}}
       {{- partialCached "core/usa-identifier.html" . -}}
-
     </div>
-    <!-- end paper -->
 
     <div id="clicks_iframe" class="display-none"></div>
+
+    <!-- Set the glossary terms as a variable -->
+    <script type="text/javascript">
+      {{- $terms := .Params.glossary -}}
+      {{- if (not .IsNode) -}}
+        {{- $terms = .Parent.Params.glossary -}}
+      {{- end -}}
+      {{- $glossaryPath := (printf "%s/%s" "glossary/" $terms | absURL) -}}
+      let glossaryPath = null;
+      {{- if and ($terms) (os.FileExists (printf "%s/%s" "themes/digital.gov/static/glossary/" $terms)) -}}
+        glossaryPath = {{ $glossaryPath | jsonify | safeJS }};
+      {{- end -}}
+      const glossaryIcon = {{ "uswds/img/sprite.svg#expand_more" | relURL | jsonify | safeJS }};
+    </script> {{/* Load USWDS JS */}}
+    {{ $uswdsOpts := dict "targetPath" "js/uswds.min.js" }}
+    {{ $uswds := resources.Get "js/uswds/uswds.js" | js.Build $uswdsOpts | fingerprint }}
+    <script
+      src="{{ $uswds.RelPermalink }}"
+      integrity="{{ $uswds.Data.Integrity }}"
+      crossorigin="anonymous"
+    ></script>
+
+    {{/* Load main JS */}}
+    {{ $mainOpts := dict "targetPath" "js/main.min.js" }}
+    {{ $main := resources.Get "js/stream-images.js" | js.Build $mainOpts | fingerprint }}
+    <script
+      src="{{ $main.RelPermalink }}"
+      integrity="{{ $main.Data.Integrity }}"
+      crossorigin="anonymous"
+    ></script>
   </body>
-
-  <!-- Set the glossary terms as a variable -->
-  <script type="text/javascript">
-    {{- $terms := .Params.glossary -}}
-    {{- if (not .IsNode) -}}
-      {{- $terms = .Parent.Params.glossary -}}
-    {{- end -}}
-    {{- $glossaryPath := (printf "%s/%s" "glossary/" $terms | absURL) -}}
-    let glossaryPath = null;
-    {{- if and ($terms) (os.FileExists (printf "%s/%s" "themes/digital.gov/static/glossary/" $terms)) -}}
-      glossaryPath = "{{ $glossaryPath | absURL }}";
-    {{- end -}}
-    // Needed to pass relURL to JS
-    const glossaryIcon = "{{ "uswds/img/sprite.svg#expand_more" | relURL }}"
-  </script>
-
-  <script src="{{ "dist/js/uswds.min.js" | absURL }}"></script>
-  <script src="{{ "dist/js/main.js" | absURL }}"></script>
 </html>
