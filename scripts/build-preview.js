@@ -14,7 +14,7 @@ async function buildPreview() {
     
     // Build the site using the preview config
     console.log('Building site with preview configuration...');
-    execSync(`hugo_extended_${hugoVersion} --config config.yml,config/env/preview/config.yml`, {
+    execSync(`hugo --config config.yml,config/env/preview/config.yml`, {
       stdio: 'inherit',
       env: {
         ...process.env,
