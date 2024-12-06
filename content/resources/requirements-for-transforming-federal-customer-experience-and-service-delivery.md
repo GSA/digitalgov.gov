@@ -53,7 +53,6 @@ Executive Order 14058 requires all executive branch agencies to manage [customer
 
 ## What’s in OMB Circular A-11 Section 280?
 
-What’s in OMB Circular A-11 Section 280?
 In 2023, the Office of Management and Budget (OMB) updated [OMB Circular A-11 Section 280: Managing Customer Experience and Service Delivery (PDF, 376 KB, 14 pages)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf). The circular provided guidance to help federal agencies implement leading practices in customer experience across the federal government and [deliver trusted digital services](https://digital.gov/topics/trust/) that meet customer expectations. It also provided recommendations on how to manage and plan customer experience initiatives, strategies for measuring the performance of federal services, and guidance for [high-impact service providers](https://www.performance.gov/cx/hisps/) (HISPs) on delivering customer-facing services.
 
 This update simplified structures for transaction surveys and data collection, and outlined leading practices for effective management of customer experience. It also identified connections between customer research efforts and the [Paperwork Reduction Act](https://pra.digital.gov/), and additional detail on the collection of digital [analytics](https://digital.gov/topics/analytics/) data to augment transactional surveys.
