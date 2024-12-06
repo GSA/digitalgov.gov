@@ -7,6 +7,6 @@ redirectto: https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 0
 
 ---
