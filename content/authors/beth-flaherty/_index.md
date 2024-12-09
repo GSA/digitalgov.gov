@@ -9,19 +9,11 @@ first_name: "Beth"
 last_name: "Flaherty"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
-email: 
 
-# Bio — keep it under 50 words
-bio: "Beth Flaherty is SYSTRAN Software’s Director of Government Solutions and is based in the Washington, D.C. area. In her role, Beth is responsible for account management for current U.S. government clients and for educating prospective clients on the benefits of machine translation."
 
-# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+
 
 # Agency Acronym [e.g., GSA]
 agency: ""
@@ -36,12 +28,11 @@ github: ""
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # Make it better ♥
 ---

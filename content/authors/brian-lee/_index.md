@@ -9,19 +9,10 @@ first_name: "Brian"
 last_name: "Lee"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
-email: 
 
-# Bio — keep it under 50 words
-bio: "Senior Advisor for Informatics to Centers for Disease Control and Prevention’s Office of the Chief Information Officer where he works with data to make better technology investments to improve public health impact. Brian is the program official for open.cdc.gov and data.cdc.gov, helping public health programs across all CDC centers, institutes, and offices connect open technology with public health communities. Brian joined CDC in 2012 as the Deputy Director for the Informatics Innovation Unit and later served as the Chief Public Health Informatics Officer for the Office of Public Health Scientific Services. Brian is a self-taught programmer and holds a BBA from Georgia State University, an MPH from Emory University, and multiple certifications."
 
-# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "Centers for Disease Control"
 
 # Agency Acronym [e.g., GSA]
 agency: "CDC"
@@ -36,12 +27,11 @@ github: "leebrian"
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # Make it better ♥
 ---

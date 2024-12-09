@@ -7,26 +7,15 @@ display_name: "Beth Martin"
 first_name: "Beth"
 last_name: "Martin"
 
-# Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
-# List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
-# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
-# Examples: they/them, she/her, or he/him
-pronoun: "she/her"
+
 
 # slug — the specific user-id for an author.
 slug: beth-martin
 
-# if you include an email address, it will be displayed on your profile page
-email: "Beth.Martin@opm.gov"
 
-# Bio — keep it under 50 words
-bio: "Beth Martin is a Digital Services Expert (UX Designer) at the Office of Personnel Management (OPM). She  previously worked at the FAA as a UX Lead. Beth is also an adjunct professor in UX Design."
 
-# Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: ""
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "Office of Personnel Management"
+
 
 # Agency Acronym [e.g., GSA]
 agency: "OPM"
@@ -43,11 +32,11 @@ github: "bteamuno"
 # github-photo — requires a github ID
 profile_source: "github"
 
-# Professional Social Media [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors

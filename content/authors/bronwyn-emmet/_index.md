@@ -9,19 +9,10 @@ first_name: "Bronwyn "
 last_name: "Emmet"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
 
-# Email — If you include an email address, it will be displayed on your profile page
-email: 
 
-# Bio — keep it under 50 words
-bio: "Bronwyn Emmet leads digital outreach initiatives for the National Veterans Outreach Office within the VA Office of Public and Intergovernmental Affairs (OPIA). For six years, she was Program Manager of ExploreVA Outreach. The program resulted in over fourteen million visits to the VA website and over two million application starts. Today, Bronwyn continues to leverage partnerships to promote and execute social media events that focus on VA priorities."
 
-# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
 
-# Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: "U.S. Department of Veterans Affairs"
 
 # Agency Acronym [e.g., GSA]
 agency: "VA"
@@ -36,12 +27,11 @@ github: ""
 # See [URL] for a full list of profile photo options
 profile_photo: ""
 
-# [e.g., Digital_Gov]
-twitter: ""
-facebook: ""
-instagram: ""
-linkedin: ""
-youtube: ""
+
+
+
+
+
 
 # Make it better ♥
 ---
