@@ -27,9 +27,9 @@ featured_communities:
 featured_links:
   title: "Governance: Essential knowledge"
   resources:
-  - title: "Federal website standards"
-    summary: "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices."
-    href: "https://standards.digital.gov/"
+  - title: "An introduction to federal website standards"
+    summary: "Understand how and why to use the federal website standards. The standards cover common visual technical elements and reflect user experience best practices."
+    href: "https://digital.gov/resources/introduction-to-federal-web-standards/"
   - title: "An introduction to digital governance"
     summary: "Get an overview of the internal systems and processes used to manage digital presence."
     href: "https://digital.gov/resources/an-introduction-to-digital-governance/"
