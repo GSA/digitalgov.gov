@@ -1,0 +1,289 @@
+{
+    "version":"https://jsonfeed.org/version/1",
+    "content":"guides",
+    "type":"list",
+    "title":"Guides |Digital.gov",
+    "description":"Guides",
+    "home_page_url":"https://digital.gov/",
+    "count":"9",
+    "feed_url":"https://digital.gov/guides/index.json",
+    "section":"guides",
+    "items":[
+       {
+          "title":"Building by the rules: A crash course for federal technologists",
+          "deck":"",
+          "summary":"A guide for web and digital practitioners on why public policy matters.",
+          "date":"2024-06-14T09:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "authors":{
+             "chizobam-nwagwu":"Chizobam Nwagwu",
+             "trey-gordner":"Trey Gordner"
+          },
+          "topics":{
+             "accessibility":"Accessibility",
+             "customer-experience":"Customer experience",
+             "design":"Design",
+             "information-collection":"Information collection",
+             "innovation":"Innovation",
+             "policy":"Policies and Regulations",
+             "privacy":"Privacy",
+             "product-and-project-management":"Product and project management",
+             "security":"Security",
+             "user-experience":"User Experience"
+          },
+          "primary_image":{
+             "uid":"guide-public-policy",
+             "alt":"Illustration of a female lawyer, wooden gavel and block, scales of justice, and legal document.",
+             "width":"1200",
+             "height":"630",
+             "credit":"",
+             "caption":"BRO Vector/iStock via Getty Images",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/public-policy/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/public-policy/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/public-policy/_index.md",
+          "weight":"2",
+          "url":"https://digital.gov/guides/public-policy/"
+       },
+       {
+          "title":"Understanding the Site Scanning program",
+          "deck":"A set of daily scans of the federal web presence.",
+          "summary":"This program is available to automatically generate data about the health and best practices of federal websites.",
+          "date":"2020-06-25T09:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "topics":{
+             "analytics":"Analytics",
+             "budgeting-and-performance":"Budgeting and performance"
+          },
+          "primary_image":{
+             "uid":"guide-site-scanning",
+             "alt":"A person works in front of a computer with many internet symbols on it",
+             "width":"1200",
+             "height":"630",
+             "credit":"agny_illustration/iStock via Getty Images",
+             "caption":"",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/site-scanning/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/site-scanning/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/site-scanning/_index.md",
+          "weight":"2",
+          "aliases":{
+             "0":"/guide/site-scanning/",
+             "1":"/site-scanning/",
+             "2":"/sitescanning/",
+             "3":"/site-scan/",
+             "4":"/sitescan/",
+             "5":"/site-scans/",
+             "6":"/sitescans/"
+          },
+          "url":"https://digital.gov/guides/site-scanning/"
+       },
+       {
+          "title":"Human-Centered Design Guide Series",
+          "deck":"A series of guides to help you understand and practice human-centered design.",
+          "summary":"A series of guides to help you understand and practice human-centered design.",
+          "date":"0001-01-01T00:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "topics":{
+             "content-strategy":"Content Strategy",
+             "customer-experience":"Customer experience",
+             "design":"Design",
+             "human-centered-design":"Human centered design",
+             "research":"Research",
+             "user-experience":"User Experience"
+          },
+          "primary_image":{
+             "uid":"hcd-guide-intro",
+             "alt":"A creative design-development team is working on a project together",
+             "width":"1200",
+             "height":"630",
+             "credit":"Vladimir Kononok/iStock via Getty Images Plus",
+             "caption":"",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/hcd/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/hcd/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/hcd/_index.md",
+          "weight":"2",
+          "url":"https://digital.gov/guides/hcd/"
+       },
+       {
+          "title":"Understanding the Digital Analytics Program",
+          "deck":"A free analytics tool for measuring digital services in the federal government",
+          "summary":"The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies.",
+          "date":"2019-07-31T09:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "topics":{
+             "analytics":"Analytics",
+             "digital-service-delivery":"Digital Service Delivery",
+             "user-experience":"User Experience"
+          },
+          "primary_image":{
+             "uid":"guide-dap",
+             "alt":"Business people working on data analytics for the web",
+             "width":"1200",
+             "height":"630",
+             "credit":"drogatnev/iStock via Getty Images",
+             "caption":"",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/dap/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/dap/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/dap/_index.md",
+          "weight":"9",
+          "aliases":{
+             "0":"/guide/dap/",
+             "1":"/guides/dap/become-a-dap-certified-analyst/",
+             "2":"/dap/",
+             "3":"/services/dap/",
+             "4":"/services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/",
+             "5":"/services/dap/dap-digital-metrics-guidance-and-best-practices/",
+             "6":"/services/dap/guidance-for-dap-gov-wide-data/",
+             "7":"/guides/dap/add-your-site-dap/",
+             "8":"/guides/dap/common-questions-about-dap/",
+             "9":"/guides/dap/gaining-access-to-dap-data/",
+             "10":"/guides/dap/guidelines-for-sharing-dap-data/"
+          },
+          "url":"https://digital.gov/guides/dap/"
+       },
+       {
+          "title":"Web analytics playbook",
+          "deck":"Use web analytics to reach your strategic website goals",
+          "summary":"This guide provides actionable strategies for effectively using web analytics to improve federal websites and digital services.",
+          "date":"2020-09-15T09:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "primary_image":{
+             "uid":"guide-web-analytics-playbook",
+             "alt":"Illustration of man pointing to business strategy on a website",
+             "width":"1200",
+             "height":"630",
+             "credit":"Mykyta Dolmatov/iStock via Getty Images",
+             "caption":"",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/web-analytics-playbook/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/web-analytics-playbook/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/web-analytics-playbook/_index.md",
+          "url":"https://digital.gov/guides/web-analytics-playbook/"
+       },
+       {
+          "title":"U.S. public participation playbook",
+          "deck":"Build better services through public participation",
+          "summary":"A resource for government managers to effectively evaluate and build better services through public participation",
+          "date":"2020-09-08T09:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "primary_image":{
+             "uid":"guide-public-participation",
+             "alt":"Man points to clipboard illustration with customer satisfaction survey",
+             "width":"1200",
+             "height":"630",
+             "credit":"Mykyta Dolmatov/iStock via Getty Images",
+             "caption":"",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/public-participation/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/public-participation/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/public-participation/_index.md",
+          "url":"https://digital.gov/guides/public-participation/"
+       },
+       {
+          "title":"Understanding robotic process automation",
+          "deck":"Automate reptitive business processes without writing code",
+          "summary":"Configure bots to execute repetitive tasks and save users from performing mundane tasks repeatedly for the same process.",
+          "date":"2020-05-15T09:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "primary_image":{
+             "uid":"guide-rpa",
+             "alt":"A robot and a human work together on web content",
+             "width":"1200",
+             "height":"630",
+             "credit":"CreativaImages/iStock via Getty Images",
+             "caption":"",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/rpa/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/rpa/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/rpa/_index.md",
+          "url":"https://digital.gov/guides/rpa/"
+       },
+       {
+          "title":"Eight principles of mobile-friendliness",
+          "deck":"How to improve a site&rsquo;s accessibility to mobile devices",
+          "summary":"We&rsquo;re sharing eight principles of mobile-friendliness to help you improve your sites.",
+          "date":"2018-10-09T12:30:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "topics":{
+             "design":"Design",
+             "mobile":"Mobile"
+          },
+          "primary_image":{
+             "uid":"guide-mobile-principles",
+             "alt":"Vector illustration of a mobile phone",
+             "width":"1200",
+             "height":"630",
+             "credit":"Irina_Strelnikova/iStock via Getty Images",
+             "caption":"",
+             "format":"png"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/mobile-principles/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/mobile-principles/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/mobile-principles/_index.md",
+          "aliases":{
+             "0":"/resources/mobile/principles/"
+          },
+          "url":"https://digital.gov/guides/mobile-principles/"
+       },
+       {
+          "title":"Accessibility for teams",
+          "deck":"A ‘quick-start’ guide for embedding accessibility and inclusive design practices into your team’s workflow",
+          "summary":"A ‘quick-start’ guide for embedding accessibility and inclusive design practices into your team’s workflow",
+          "date":"2017-02-01T09:00:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "topics":{
+             "accessibility":"Accessibility",
+             "content-strategy":"Content Strategy",
+             "design":"Design",
+             "human-centered-design":"Human centered design",
+             "mobile":"Mobile",
+             "product-and-project-management":"Product and project management",
+             "research":"Research",
+             "software-engineering":"Software Engineering",
+             "usability":"Usability",
+             "user-experience":"User Experience"
+          },
+          "primary_image":{
+             "uid":"accessibility-for-teams-guide",
+             "alt":"Illustration of seven people in a meeting in office. One is standing, six, using laptops, are seated at a conference table. One employee is in a wheelchair.",
+             "width":"5800",
+             "height":"3379",
+             "credit":"",
+             "caption":"Color_life/iStock via Getty Images",
+             "format":"jpg"
+          },
+          "branch":"main",
+          "filename":"_index.md",
+          "filepath":"guides/accessibility-for-teams/_index.md",
+          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/guides/accessibility-for-teams/_index.md",
+          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/guides/accessibility-for-teams/_index.md",
+          "url":"https://digital.gov/guides/accessibility-for-teams/"
+       }
+    ]
+ }

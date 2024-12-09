@@ -35,7 +35,6 @@
     "items" : [
     {{- range $index, $element := $list -}}
     {
-      {{ if .Params.source_url }}
       {{- if (isset .Params "kicker") -}}
       "kicker" : "{{- .Params.kicker -}}",
       {{- end -}}
@@ -146,7 +145,6 @@
 
       "url" : "{{- .Permalink -}}"
 
-    {{ end }}
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]
