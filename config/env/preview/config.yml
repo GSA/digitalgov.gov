@@ -1,0 +1,124 @@
+baseURL: "https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/rs-lazy-load-images"
+publishDir: "public"
+assetDir: "assets"
+
+module:
+  mounts:
+    - source: content
+      target: content
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+    # Mount S3 bucket content as a global resource
+    - source: assets/s3-images
+      target: assets/s3-images
+    # Mount SCSS files
+    - source: themes/digital.gov/src/scss
+      target: assets/scss
+    # Mount JS files
+    - source: themes/digital.gov/src/js
+      target: assets/js
+    # Mount USWDS assets
+    - source: node_modules/@uswds/uswds/dist/fonts
+      target: static/uswds/fonts
+    - source: node_modules/@uswds/uswds/dist/img
+      target: static/uswds/img
+    - source: node_modules/@uswds/uswds/dist/js
+      target: assets/js/uswds
+
+build:
+  buildStats:
+    enable: true
+  # Cache busting configuration
+  cachebusters:
+    - source: assets/watching/hugo_stats\.json
+      target: styles\.css
+    - source: themes/digital\.gov/src/scss/.*\.(scss|sass)$
+      target: css
+    - source: themes/digital\.gov/src/js/.*\.js$
+      target: js
+  # SASS configuration  
+  cssMinify: true
+  options:
+    targetPath: css/styles.css
+    enableSourceMap: true
+    includePaths:
+      - node_modules/@uswds/uswds/packages
+    outputStyle: compressed
+    postcss:
+      - autoprefixer:
+          cascade: false
+          grid: true
+      - csso:
+          forceMediaMerge: true
+  # JavaScript configuration
+  js:
+    - source: assets/js/stream-images.js
+      target: js/stream-images.js
+      minify: true
+    - source: assets/js/uswds/uswds.js
+      target: js/uswds.js
+      minify: true
+    - source: assets/js/uswds/uswds-init.js
+      target: js/uswds-init.js
+      minify: true
+
+mediaTypes:
+  "text/css":
+    suffixes:
+      - css
+    delimiter: "."
+  "application/javascript":
+    suffixes:
+      - js
+    delimiter: "."
+
+outputFormats:
+  CSS:
+    mediaType: text/css
+    isPlainText: true
+    notAlternative: true
+  JS:
+    mediaType: application/javascript
+    isPlainText: true
+    notAlternative: true
+
+server:
+  headers:
+    - for: "**.css"
+      values:
+        Content-Type: text/css
+    - for: "**.js"
+      values:
+        Content-Type: application/javascript
+
+security:
+  enableInlineShortcodes: true
+  http:
+    mediaTypes:
+      "text/css": ["css"]
+      "application/javascript": ["js"]
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+# SCSS processing
+sass:
+  transpiler: dartsass
+  outputStyle: compressed
+  includePaths:
+    - node_modules/@uswds/uswds/packages
+  sourceMap: true
