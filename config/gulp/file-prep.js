@@ -1,6 +1,5 @@
 const { src, series } = require("gulp");
 const sharp = require("sharp");
-const del = require("del");
 const tap = require("gulp-tap");
 const sizeOf = require("image-size");
 const fs = require("fs");
@@ -205,12 +204,17 @@ function cleanFileName(origfilename) {
  * removes files in content/images/_inbox directories
  * keeps _inbox/__add image or static files to this folder__
  */
-function cleanInbox() {
-  return del([
-    "content/uploads/_inbox/**",
-    "!content/uploads/_inbox",
-    "!content/uploads/_inbox/__add image or static files to this folder__",
-  ]);
+function cleanInbox(done) {
+  const inboxDir = `${filePaths.uploads}`;
+  const filesToDelete = fs
+    .readdirSync(inboxDir)
+    .filter((file) => file !== "__add image or static files to this folder__");
+
+  filesToDelete.forEach((file) => {
+    const filePath = path.join(inboxDir, file);
+    fs.unlinkSync(filePath);
+  });
+  done();
 }
 
 /**
