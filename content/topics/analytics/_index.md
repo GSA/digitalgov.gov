@@ -41,7 +41,7 @@ featured_communities:
 featured_links:
   title: "Analytics: Essential knowledge"
   resources:
-   - title: "An introduction to analytics"
+  - title: "An introduction to analytics"
     summary: "Learn how to set performance goals, and identify specific KPIs and targets to measure and meet them, using web analytics."
     href: "https://digital.gov/resources/an-introduction-to-analytics/"
   - title: "How to build an analytics strategy"
