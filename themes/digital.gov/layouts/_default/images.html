@@ -30,7 +30,16 @@
                 {{- .Content -}}
               </div>
 
+              {{/* Pass image data to JavaScript */}}
+              <script>
+                window.DIGITALGOV_IMAGES = {{ $.Site.Data.images | jsonify | safeJS }};
+              </script> {{/* Images container - populated by JavaScript */}}
               <div id="stream-images" class="dg-image-stream usa-prose"></div>
+
+              {{/* Pagination container - populated by JavaScript */}}
+              <nav aria-label="Pagination" class="usa-pagination">
+                <ul class="usa-pagination__list"></ul>
+              </nav>
 
               {{/* Touchpoints Form */}}
               {{- partial "core/touchpoints-form.html" . -}}

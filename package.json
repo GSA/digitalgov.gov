@@ -2,9 +2,9 @@
   "name": "digitalgov.gov",
   "version": "2.0.0",
   "description": "Guidance for making a better digital government",
-  "main": "gulpfile.js",
+  "type": "commonjs",
   "scripts": {
-    "federalist": "npm install --include=optional sharp && npm run mount-s3 && export NODE_ENV=production && gulp buildAssets",
+    "federalist": "npm install --include=optional sharp && npm run mount-s3 && export NODE_ENV=production && if [ \"$BRANCH\" != \"main\" ]; then npm run build:preview; else npm run build; fi",
     "hugo": "export $(grep -v '^#' .env | xargs) && hugo serve --bind='0.0.0.0'",
     "lint:json": "find public/**/v1/json/index.json -print0 | xargs -0I {} jsonlint '{}'",
     "lint:js": "eslint './themes/digital.gov/src/js/*.js' './config/typescript/**/*.ts'",
@@ -13,7 +13,6 @@
     "lint:markdown:fix": "markdownlint --fix --config ./.markdown-lint.yml ./content/**/*.md --ignore './content/apis/*.md'",
     "lint:styles": "npx stylelint ./themes/**/*.scss",
     "lint:styles:fix": "npx stylelint ./themes/**/*.scss --fix",
-    "local-build": "npm run typescript:build && gulp buildAssets && gulp watch",
     "prepare": "husky install",
     "prettier:styles": "npx prettier -c ./themes/**/*.scss",
     "prettier:styles:fix": "npx prettier -w ./themes/**/*.scss",
@@ -21,14 +20,20 @@
     "prettier:js:fix": "npx prettier -w 'themes/digital.gov/src/js/*.js' 'config/typescript/**/*.ts'",
     "prettier:templates": "npx prettier -c ./themes/**/*.html",
     "prettier:templates:fix": "npx prettier -w ./themes/**/*.html",
-    "start": "npm-run-all --parallel local-build hugo workflow",
+    "start": "npm run mount-s3 && hugo serve --bind='0.0.0.0'",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci --sitemap https://digital.gov/sitemap.xml --sitemap-find https://digital.gov --sitemap-replace localhost:1313 --sitemap-exclude '/201*|styleguide|images|img|join|apis'",
     "workflow": "npx netlify-cms-proxy-server",
     "typescript:build": "tsc",
     "type-check": "tsc --noEmit",
     "lint-fix-all": "npm run lint:js:fix && npm run lint:styles:fix && npm run prettier:js:fix && npm run prettier:styles:fix && npm run prettier:templates:fix && npm run lint:markdown:fix",
-    "mount-s3": "node scripts/mount-s3.js"
+    "mount-s3": "node config/scripts/mount-s3.js",
+    "build": "npm run build:assets && hugo",
+    "build:preview": "npm run build:assets && node scripts/build-preview.js",
+    "build:assets": "node scripts/build-assets.js",
+    "build:sprites": "node scripts/build-sprites.js",
+    "dev": "npm run build:assets && hugo serve --bind='0.0.0.0'",
+    "upload": "node config/scripts/upload.js"
   },
   "directories": {
     "doc": "docs"
@@ -39,36 +44,24 @@
   },
   "license": "",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.689.0",
-    "@evolvingriley/file-upload": "0.1.6",
+    "@evolvingriley/file-upload": "0.1.9",
     "@prantlf/jsonlint": "^14.0.3",
     "@uswds/uswds": "^3.9.0",
     "autoprefixer": "^10.4.16",
-    "del": "^6.1.1",
+    "csso": "^5.0.5",
     "dotenv": "^16.3.1",
     "eslint": "^8.56.0",
-    "gulp": "^5.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-postcss": "^9.1.0",
-    "gulp-replace": "^1.1.4",
-    "gulp-sass": "^5.1.0",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-svg-sprite": "^2.0.3",
-    "gulp-uglify": "^3.0.2",
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.10",
     "list.js": "^2.3.1",
     "mime-types": "^2.1.35",
     "npm-run-all": "^4.1.5",
-    "postcss-csso": "^6.0.1",
-    "s3fs": "^2.5.0",
-    "sass": "^1.69.7",
-    "sass-embedded": "^1.69.7",
-    "sharp": "^0.33.3",
-    "terser-webpack-plugin": "^5.3.10",
-    "webpack-stream": "^7.0.0"
+    "svg-sprite": "^2.0.2"
   },
   "devDependencies": {
     "@18f/identity-stylelint-config": "^2.0.0",
     "@types/mime-types": "^2.1.4",
+    "@types/node": "^22.10.1",
     "@typescript-eslint/eslint-plugin": "^7.17.0",
     "@typescript-eslint/parser": "^7.17.0",
     "eslint-config-airbnb-base": "^15.0.0",
@@ -76,43 +69,11 @@
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsdoc": "^48.8.3",
     "eslint-plugin-prettier": "^4.2.1",
-    "gulp-rename": "^2.0.0",
-    "gulp-responsive": "3.0.1",
-    "gulp-strip-css-comments": "^3.0.0",
-    "gulp-tap": "^2.0.0",
     "husky": "^8.0.3",
-    "image-size": "^1.1.1",
     "markdownlint-cli": "^0.33.0",
-    "postcss": "^8.4.38",
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.11.0",
-    "stylelint-order": "^6.0.4",
-    "vinyl-paths": "^3.0.1"
-  },
-  "overrides": {
-    "gulp-responsive": {
-      "sharp": "0.32.6"
-    },
-    "glob-parent": "6.0.2",
-    "eslint": {
-      "file-entry-cache": "8.x"
-    },
-    "aws-sdk": {
-      "xml2js": "^0.5.0",
-      "xmlbuilder": "^15.1.0",
-      "lodash": "^4.17.21"
-    },
-    "s3fs": {
-      "aws-sdk": "2.1365.0"
-    },
-    "xmlbuilder": {
-      "lodash": "^4.17.21"
-    },
-    "npm-run-all": {
-      "cross-spawn": "7.0.6"
-    },
-    "xml2js": "^0.5.0",
-    "lodash": "^4.17.21"
+    "stylelint-order": "^6.0.4"
   }
 }
