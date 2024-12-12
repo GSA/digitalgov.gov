@@ -4,15 +4,15 @@ title: "An introduction to analytics"
 deck: "Use metrics and data to understand how people use your website"
 summary: "Learn how to set performance goals, and identify specific KPIs and targets to measure and meet them, using web analytics."
 
+# See all authors at https://digital.gov/authors
+authors:
+  - rflagg
+
 # See all topics at https://digital.gov/topics
 topics:
   - analytics
   - digital-service-delivery
   - budgeting-and-performance
-
-# See all authors at https://digital.gov/authors
-authors:
-  - rflagg
 
 slug: an-introduction-to-analytics
 
@@ -40,7 +40,7 @@ Sharing data from and about the real people who use your products and services i
 
 Before you begin collecting data, determine what your website is ultimately trying to accomplish. Establishing goals and objectives will help you identify the data you need to understand whether or not you’re meeting those overarching goals.
 
-Follow the “Key terms to know for measuring site performance” framework to create objectives and calls to action, and identify key performance indicators to measure their success or failure.
+To create objectives and calls to action, and identify key performance indicators (KPIs) to measure their success or failure, follow the framework in the table below:
 
 <table class="usa-table">
   <caption>Key terms to know for measuring site performance</caption>
