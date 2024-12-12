@@ -5,7 +5,7 @@ kicker: USWDS
 summary: The U.S. Web Design System team is joined by the Federal Website Standards team to share more about the standards, their origin, the research backing them, and what standards are coming next.
 event_organizer: Digital.gov
 cop_events: ""
-registration_url: https://gsa.zoomgov.com/meeting/register/vJItfumsrzwiGRcqviGv4fcTLhgHS8ClFEU
+registration_url: https://gsa.zoomgov.com/meeting/register/vJItfuitrT4pElUXm-Ua7iPb7LTizb8Sve4#/registration
 date: 2024-12-19 14:00:00 -0500
 end_date: 2024-12-19 15:00:00 -0500
 
@@ -25,8 +25,6 @@ event_platform: zoom
 primary_image: 2024-uswds-monthly-call-dec-title-card
 
 ---
-
-{{< asset-static file="uswds-monthly-call-november-2024.pptx" label="View the slides (Powerpoint presentation, 5 MB, 109 slides)" >}}
 
 This month, the U.S. Web Design System team hosts the Federal Website Standards team who will share more about the standards, their origin, the research backing them, and what standards are coming next. 
 
