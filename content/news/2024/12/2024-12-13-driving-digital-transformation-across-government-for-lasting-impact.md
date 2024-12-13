@@ -5,15 +5,15 @@ source: whitehouse
 date: 2024-12-12 00:00:00 -0500
 title: Driving Digital Transformation Across Government for Lasting Impact
 deck: Digital promotes effective, usable federal services that enhance public
-  trust in government.  Over the past four years, the Office of the Federal
+  trust in government. Over the past four years, the Office of the Federal
   Chief Information Officer (OFCIO) has laid the groundwork for a modern,
-  secure, and user-friendly Federal Government. From advancing cybersecurity to
+  secure, and user-friendly federal government. From advancing cybersecurity to
   forging global partnerships and streamlining IT investments, these efforts
   have improved how millions interact with government services.
 summary: Digital promotes effective, usable federal services that enhance public
-  trust in government.  Over the past four years, the Office of the Federal
+  trust in government. Over the past four years, the Office of the Federal
   Chief Information Officer (OFCIO) has laid the groundwork for a modern,
-  secure, and user-friendly Federal Government. From advancing cybersecurity to
+  secure, and user-friendly federal government. From advancing cybersecurity to
   forging global partnerships and streamlining IT investments, these efforts
   have improved how millions interact with government services.
 # See all topics at https://digital.gov/topics
