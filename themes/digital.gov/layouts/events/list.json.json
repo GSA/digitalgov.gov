@@ -3,7 +3,6 @@
 {
     "version" : "https://jsonfeed.org/version/1",
     "content" : "events",
-    "type" : "list",
     "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} | {{- end -}} {{ .Site.Title }} {{- end -}}",
     "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
     "home_page_url" : "{{- .Site.BaseURL -}}",
@@ -60,16 +59,16 @@
       {{ if (isset .Params "event_type") }}
         {{ $_eventtype := .Params.event_type }}
         {{ $length := $_eventtype | len }}
-        "event_type" : {
+        "event_type" : [
         {{ range $i, $e := $_eventtype }}
           {{ $etype := index $data $e }}
           {{- if lt (add $i 1) $length -}}
-            "{{- $e -}}" : "{{ $etype.name | default $e }}",
+            "{{- $e -}}",
           {{- else -}}
-            "{{- $e -}}" : "{{ $etype.name | default $e }}"
+            "{{- $e -}}"
           {{- end -}}
         {{ end }}
-        },
+      ],
       {{ end }}
       {{- if (isset .Params "event_organizer") -}}
       "event_organizer" : "{{- .Params.event_organizer -}}",
@@ -91,55 +90,31 @@
       {{- if (isset .Params "authors") -}}
         {{- $_authors := .Params.authors -}}
         {{- $length := $_authors | len -}}
-        "authors" : {
+        "authors" : [
         {{- range $i, $e := $_authors -}}
           {{- $uid := $e | urlize -}}
           {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
           {{- with $author -}}
             {{- if lt (add $i 1) $length -}}
-              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}",
+              "{{- $uid -}}",
             {{- else -}}
-              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}"
+              "{{- $uid -}}"
             {{- end -}}
           {{- end -}}
         {{- end -}}
-        },
+      ],
       {{- end -}}
 
-      {{- if (isset .Params "topics") -}}
-        "topics" : {
-        {{/* Sets the taxonomy we're pulling here */}}
-        {{- $taxonomy := "topics" -}}
-        {{- $topics := .Param $taxonomy -}}
-        {{/* Gets the number of topics that are applied */}}
-        {{- $length := $topics | len -}}
-
-        {{/* For each of the topics,... */}}
-        {{- range $i, $e := sort $topics -}}
-          {{- $slug := . -}}
-          {{/* Gets the Topics page */}}
-          {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
-            {{ if lt (add $i 1) $length }}
-            "{{- $slug -}}" : "{{- .Title }}",
-            {{- else }}
-            "{{- $slug -}}" : "{{- .Title }}"
-            {{ end }}
-          {{- end -}}
-
-        {{- end -}}
-        },
-      {{- end -}}
+      {{- partial "api/topics.html" . -}}
 
       {{- partial "api/primary_image.html" . -}}
 
       {{- partial "api/featured_image.html" . -}}
 
-      "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
       {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
       "filepath" : {{- with .File -}}{{- $path | jsonify -}}{{- end -}},
       "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
-      "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
       {{- if .Params.weight -}}
       "weight" : "{{- .Params.weight -}}",
       {{- end -}}

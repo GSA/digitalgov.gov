@@ -45,7 +45,7 @@ Visit [standards.digital.gov](https://standards.digital.gov/) to learn more abou
 
 ## Why are the federal website standards important?
 
-Most people interact with the federal government online. There are about [2 billion visits to federal websites](https://analytics.usa.gov/) by the public every month. It is critical that government websites and digital services are effective and easy to use. 
+Most people interact with the federal government online. There are about [2 billion visits to federal websites](https://analytics.usa.gov/) by the public every month. It is critical that government websites and digital services are effective and easy to use.
 
 The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. And, increased standardization and cross-government collaboration can reduce implementation costs for all agencies.
 
@@ -75,9 +75,9 @@ You can also browse related resources:
 
 * Familiarize yourself with [U.S. Web Design System components](https://designsystem.digital.gov/components/overview/).
 * Explore topical guides, blogs, and events on Digital.gov:
-  * [Digital service delivery](https://digital.gov/topics/digital-service-delivery/)
-  * [Governance](https://digital.gov/topics/governance/)
-  * [Information architecture](https://digital.gov/topics/information-architecture/)
+    * [Digital service delivery](https://digital.gov/topics/digital-service-delivery/)
+    * [Governance](https://digital.gov/topics/governance/)
+    * [Information architecture](https://digital.gov/topics/information-architecture/)
 
 ### Get involved
 
