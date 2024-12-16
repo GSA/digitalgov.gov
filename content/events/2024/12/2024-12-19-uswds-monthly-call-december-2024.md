@@ -40,11 +40,6 @@ In this session, you’ll:
 - **Dan Williams** **-** Product Lead, USWDS
 - **Anne Petersen** **-** Engineering Lead, USWDS
 - **Renata Phillippi** **-** Presidential Innovation Fellow, detailed to TTS
-  
-## Join our Communities of Practice
-
-- [USWDS](https://designsystem.digital.gov/about/community/)
-- [Section 508 IT Accessibility](https://www.section508.gov/manage/join-the-508-community/)
 
 _This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 
