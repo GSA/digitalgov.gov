@@ -52,14 +52,11 @@
 
   ol,
   ul {
-    margin-bottom: 0;
-    margin-top: 0;
-    padding-left: units(2.5);
-
     li {
-      margin-bottom: units(2);
+      margin-bottom: units(0.5);
     }
   }
+  
   // For notes within list items
   li .note {
     @include u-padding-y("05");
