@@ -1,23 +1,17 @@
-{{/*  Combines news and resources that are external links  */}}
+{{/* Combines news and resources that are external links */}}
 {{- partial "core/set-env.html" . -}}
 {{- $news := (where .Site.Pages "Section" "news") -}}
 {{- $resources := (where .Site.Pages "Section" "resources") -}}
 {{- $shortposts := union $news $resources -}}
 {{- $length := $shortposts | len -}}
-{
-    "version" : "https://jsonfeed.org/version/1",
-    "content" : "Shortposts",
-    "type": "list",
-    "title" : "Shortposts",
-    "description": "External news and resourcesposts",
-    "home_page_url" : "{{- .Site.BaseURL -}}",
-    "count" : "{{- $shortposts | len -}}",
-    "items" : [
+{ "version" : "https://jsonfeed.org/version/1", "content" : "Shortposts",
+"type": "list", "title" : "Shortposts", "description": "External news and
+resourcesposts", "home_page_url" : "{{- .Site.BaseURL -}}", "count" :
+"{{- $shortposts | len -}}", "items" : [
 {{- range $index, $element := $shortposts.ByParam "source_url" -}}
   {{- $isSourceURL := isset .Params "source_url" -}}
   {{- if eq $isSourceURL true -}}
-    {
-    "content_type" : "{{ .Type }}",
+    { "content_type" : "{{ .Type }}",
     {{- partial "api/metadata.html" . -}}
     {{- partial "api/sources.html" . -}}
     {{- partial "api/guides.html" . -}}
