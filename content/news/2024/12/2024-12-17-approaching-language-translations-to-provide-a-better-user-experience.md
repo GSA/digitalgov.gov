@@ -47,7 +47,8 @@ Changing the process would require buy-in across the Login.gov organization to b
 
 The new process involved using highly skilled, human translators from the [Office of Language Services](https://www.state.gov/about-us-ols/translating/) at the U.S. Department of State instead of machine translation. This requires more work on the front-end to do the initial translations and ongoing maintenance which could have a ripple effect on other related activities, features, and new product enhancements. However, using State Department language experts means higher-quality translations because the human translators can capture the specific linguistic, cultural, and technical nuances.
 
-{{< img src="login-gov-english-log-in-600" >}} {{< img src="login-gov-chinese-log-in-600" >}}
+{{< img src="login-gov-english-log-in-600" align="center" inline="true" alt="A screenshot showing the Login.gov sign in screen in English." >}}
+{{< img src="login-gov-chinese-log-in-600" align="center" inline="true" alt="A screenshot showing the Login.gov sign in screen in Simplified Chinese." >}}
 
 The leadership team carefully considered the trade-offs associated with using human translators instead of machines. It essentially boiled down to sacrificing some delivery speed for increased accuracy. Ultimately, our leadership team decided to adjust to our delivery schedules and provide a better user experience with higher-quality translations. 
 
