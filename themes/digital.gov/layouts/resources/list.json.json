@@ -1,9 +1,11 @@
+{{- partial "core/set-env.html" . -}}
 {{- $list := .Data.Pages -}}
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
-    "content" : "events",
-    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} | {{- end -}} {{ .Site.Title }} {{- end -}}",
+    "content" : "{{- .Type -}}",
+    "type" : "list",
+    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
     "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
     "home_page_url" : "{{- .Site.BaseURL -}}",
     "count" : "{{- $length -}}",
@@ -32,6 +34,8 @@
     {{ end }}
     "items" : [
     {{- range $index, $element := $list -}}
+    {{- $isSourceURL := isset .Params "source_url" -}}
+    {{- if eq $isSourceURL false -}}
     {
       {{- if (isset .Params "kicker") -}}
       "kicker" : "{{- .Params.kicker -}}",
@@ -41,54 +45,28 @@
       "deck" : "{{- .Params.deck | markdownify -}}",
       {{- end -}}
       {{- if (isset .Params "summary") -}}
-      "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
+      "summary" : "{{- .Params.summary | markdownify -}}",
       {{- end -}}
-      "date" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
+      "date" : "{{- .Date.Format "2006-01-02T15:04:05" -}}-0500",
       {{- if .Lastmod -}}
       "date_modified" : "{{- .Lastmod.Format "2006-01-02T15:04:05Z07:00" -}}",
       {{- else -}}
       "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}", -}}",
       {{- end -}}
-      {{- with .Date -}}
-      "start_date" : "{{ . | dateFormat "2006-01-02T15:04:05Z07:00" }}",
+      {{- if (isset .Params "guide") -}}
+      "guide" : "{{- .Params.guide -}}",
       {{- end -}}
-      {{- with .Params.end_date -}}
-      "end_date" : "{{ . | dateFormat "2006-01-02T15:04:05Z07:00" }}",
+      {{- if (isset .Params "guide_weight") -}}
+      "guide_weight" : "{{- .Params.guide_weight -}}",
       {{- end -}}
-      {{ $data := $.Site.Data.events }}
-      {{ if (isset .Params "event_type") }}
-        {{ $_eventtype := .Params.event_type }}
-        {{ $length := $_eventtype | len }}
-        "event_type" : [
-        {{ range $i, $e := $_eventtype }}
-          {{ $etype := index $data $e }}
-          {{- if lt (add $i 1) $length -}}
-            "{{- $e -}}",
-          {{- else -}}
-            "{{- $e -}}"
-          {{- end -}}
-        {{ end }}
-      ],
-      {{ end }}
-      {{- if (isset .Params "event_organizer") -}}
-      "event_organizer" : "{{- .Params.event_organizer -}}",
+      {{- if (isset .Params "image") -}}
+      "image" : "{{- .Params.image -}}",
       {{- end -}}
-      {{- if (isset .Params "host") -}}
-      "host" : "{{- .Params.host -}}",
-      {{- end -}}
-      {{- if (isset .Params "registration_url") -}}
-      "registration_url" : "{{- .Params.registration_url -}}",
+      {{- if .Params.weight -}}
+      "weight" : "{{- .Params.weight -}}",
       {{- end -}}
 
-      {{- partial "api/captions.html" . -}}
-
-      {{- partial "api/youtube_id.html" . -}}
-
-      {{- if (isset .Params "zoom_id") -}}
-      "zoom_id" : "{{- .Params.zoom_id -}}",
-      {{- end -}}
-      
-      {{- partial "api/authors.html" . }}
+      {{- partial "api/authors.html" . -}}
 
       {{- partial "api/topics.html" . -}}
 
@@ -96,16 +74,15 @@
 
       {{- partial "api/featured_image.html" . -}}
 
+      {{- partial "api/file-info.html" . }}
+
       {{- partial "api/aliases.html" . -}}
 
-      {{- partial "api/file-info.html" . -}}
-
       {{- partial "api/slug.html" . -}}
-      
-      "url" : "{{- .Permalink -}}"
 
-      
+
     }{{- if ne (add $index 1) $length -}},{{- end -}}
+    {{- end -}}
     {{- end -}}
     ]
 }

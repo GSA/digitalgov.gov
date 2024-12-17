@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "title": "An introduction to federal website standards",
+            "deck": "Understand how and why to use the federal website standards",
+            "summary": "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices.",
+            "date": "2024-11-26T10:12:00-0500",
+            "date_modified": "2024-12-16T13:07:25-05:00",
+            "weight": "1",
+            "authors": [
+                "michelle-rago"
+            ],
+            "topics": [
+                "content-strategy",
+                "design",
+                "digital-service-delivery",
+                "governance",
+                "product-and-project-management"
+            ],
+            "primary_image": "hands-puzzle-pieces-girafchik123-istock-getty-images-2091035051",
+            "filename": "introduction-to-federal-web-standards.md",
+            "filepath": "resources/introduction-to-federal-web-standards.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-federal-web-standards.md",
+            "slug": "introduction-to-federal-web-standards",
+            "url": "http://localhost:1313/resources/introduction-to-federal-web-standards/",
+        }
+    ]
+}

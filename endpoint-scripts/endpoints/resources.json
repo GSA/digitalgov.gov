@@ -1,0 +1,2680 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "content": "resources",
+    "type": "list",
+    "title": "Resources |Digital.gov",
+    "description": "Resources",
+    "home_page_url": "http://localhost:1313/",
+    "count": "205",
+    "feed_url": "http://localhost:1313/resources/index.json",
+    "section": "resources",
+    "items": [
+        {
+            "title": "An introduction to federal website standards",
+            "deck": "Understand how and why to use the federal website standards",
+            "summary": "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices.",
+            "date": "2024-11-26T10:12:00-0500",
+            "date_modified": "2024-12-16T13:07:25-05:00",
+            "weight": "1",
+            "authors": [
+                "michelle-rago"
+            ],
+            "topics": [
+                "content-strategy",
+                "design",
+                "digital-service-delivery",
+                "governance",
+                "product-and-project-management"
+            ],
+            "primary_image": "hands-puzzle-pieces-girafchik123-istock-getty-images-2091035051",
+            "filename": "introduction-to-federal-web-standards.md",
+            "filepath": "resources/introduction-to-federal-web-standards.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-federal-web-standards.md",
+            "slug": "introduction-to-federal-web-standards",
+            "url": "http://localhost:1313/resources/introduction-to-federal-web-standards/",
+        },
+        {
+            "title": "Hurricane Milton guidance for U.S. government websites and social media",
+            "deck": "Addressing web and digital communications related to Hurricane Milton",
+            "summary": "Addressing web and digital communications related to Hurricane Milton",
+            "date": "2024-10-07T00:00:00-0500",
+            "date_modified": "2024-10-08T10:42:19-04:00",
+            "weight": "1",
+            "topics": [
+                "communication",
+                "content",
+                "content-strategy",
+                "customer-service",
+                "design",
+                "multilingual",
+                "social-media",
+                "strategy",
+                "web-content-managers-forum"
+            ],
+            "primary_image": "card-hurricane-milton-guidance",
+            "filename": "hurricane-milton-guidance-for-us-government.md",
+            "filepath": "resources/hurricane-milton-guidance-for-us-government.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/hurricane-milton-guidance-for-us-government.md",
+            "aliases": [
+                "https://digital.gov/hurricane-milton/"
+            ],
+            "slug": "hurricane-milton-guidance-for-us-government",
+            "url": "http://localhost:1313/resources/hurricane-milton-guidance-for-us-government/",
+        },
+        {
+            "title": "An introduction to multilingual glossaries",
+            "deck": "Understand how and why to use a multilingual glossary when translating content",
+            "summary": "Learn how to use multilingual glossaries to share common translations and contribute to consistent communication across government.",
+            "date": "2024-10-02T13:12:00-0500",
+            "date_modified": "2024-10-09T17:14:47-04:00",
+            "weight": "1",
+            "topics": [
+                "communication",
+                "content-strategy",
+                "multilingual"
+            ],
+            "filename": "introduction-to-multilingual-glossaries.md",
+            "filepath": "resources/introduction-to-multilingual-glossaries.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-multilingual-glossaries.md",
+            "slug": "introduction-to-multilingual-glossaries",
+            "url": "http://localhost:1313/resources/introduction-to-multilingual-glossaries/",
+        },
+        {
+            "title": "Hurricane Helene guidance for U.S. government websites and social media",
+            "deck": "Addressing web and digital communications related to Hurricane Helene",
+            "summary": "Addressing web and digital communications related to Hurricane Helene",
+            "date": "2024-09-26T00:00:00-0500",
+            "date_modified": "2024-10-07T18:28:50-04:00",
+            "weight": "1",
+            "topics": [
+                "communication",
+                "content",
+                "content-strategy",
+                "customer-service",
+                "design",
+                "multilingual",
+                "social-media",
+                "strategy",
+                "web-content-managers-forum"
+            ],
+            "primary_image": "card-hurricane-helene-guidance",
+            "filename": "hurricane-helene-guidance-for-us-government.md",
+            "filepath": "resources/hurricane-helene-guidance-for-us-government.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/hurricane-helene-guidance-for-us-government.md",
+            "aliases": [
+                "https://digital.gov/hurricane-helene/"
+            ],
+            "slug": "hurricane-helene-guidance-for-us-government",
+            "url": "http://localhost:1313/resources/hurricane-helene-guidance-for-us-government/",
+        },
+        {
+            "title": "How to conduct a project reflection",
+            "deck": "A template for ending projects",
+            "summary": "Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery.",
+            "date": "2024-07-19T00:00:00-0500",
+            "date_modified": "2024-08-01T11:50:48-05:00",
+            "weight": "1",
+            "authors": [
+                "jessica-marine"
+            ],
+            "topics": [
+                "digital-service-delivery"
+            ],
+            "filename": "how-to-conduct-a-project-reflection.md",
+            "filepath": "resources/how-to-conduct-a-project-reflection.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-conduct-a-project-reflection.md",
+            "aliases": [
+                "https://digital.gov/resources/service-delivery-project-reflection/"
+            ],
+            "slug": "how-to-conduct-a-project-reflection",
+            "url": "http://localhost:1313/resources/how-to-conduct-a-project-reflection/",
+        },
+        {
+            "title": "How to transition a team off of a project",
+            "deck": "A template for transitioning projects to another team",
+            "summary": "Use this template, shared at the 2024 Spring Community Summit, to improve your own service delivery.",
+            "date": "2024-07-19T00:00:00-0500",
+            "date_modified": "2024-07-25T11:12:18-04:00",
+            "weight": "1",
+            "authors": [
+                "jessica-marine"
+            ],
+            "topics": [
+                "digital-service-delivery"
+            ],
+            "filename": "how-to-transition-a-team-off-of-a-project.md",
+            "filepath": "resources/how-to-transition-a-team-off-of-a-project.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-transition-a-team-off-of-a-project.md",
+            "aliases": [
+                "https://digital.gov/resources/service-delivery-transition-plan/"
+            ],
+            "slug": "how-to-transition-a-team-off-of-a-project",
+            "url": "http://localhost:1313/resources/how-to-transition-a-team-off-of-a-project/",
+        },
+        {
+            "title": "Requirements for strengthening the federal government's commitment to digital accessibility",
+            "deck": "Understand the policy framework: Section 508 of the Rehabilitation Act of 1973, Section 508 Standards, and OMB Memo M-24-08",
+            "summary": "Learn how to implement Section 508, and strengthen and maintain your agency&rsquo;s commitment to digital accessibility.",
+            "date": "2024-07-10T00:00:00-0500",
+            "date_modified": "2024-07-12T10:23:23-04:00",
+            "weight": "1",
+            "authors": [
+                "cathryn-camenzind"
+            ],
+            "topics": [
+                "accessibility",
+                "governance",
+                "human-centered-design",
+                "policy"
+            ],
+            "filename": "requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility.md",
+            "filepath": "resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility.md",
+            "slug": "requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility",
+            "url": "http://localhost:1313/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/",
+        },
+        {
+            "title": "An introduction to customer experience",
+            "deck": "Improving customer experience (CX) drives better performance in the federal government",
+            "summary": "Understand what customer experience (CX) is and how to leverage customer feedback and analytics to enhance the public&rsquo;s experience when interacting with government services.",
+            "date": "2024-06-05T00:00:00-0500",
+            "date_modified": "2024-12-04T15:15:59-05:00",
+            "weight": "1",
+            "topics": [
+                "analytics",
+                "customer-experience",
+                "information-collection"
+            ],
+            "filename": "an-introduction-to-customer-experience.md",
+            "filepath": "resources/an-introduction-to-customer-experience.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-customer-experience.md",
+            "slug": "an-introduction-to-customer-experience",
+            "url": "http://localhost:1313/resources/an-introduction-to-customer-experience/",
+        },
+        {
+            "title": "Requirements for the registration and use of .gov domains in the federal government",
+            "deck": "Understand the policy framework: DOTGOV Online Trust in Government Act and OMB Memo M-23-10",
+            "summary": "Learn how to implement the DOTGOV Online Trust in Government Act and understand how to register federal internet domain names.",
+            "date": "2024-05-14T00:00:00-0500",
+            "date_modified": "2024-06-13T11:15:25-07:00",
+            "weight": "1",
+            "authors": [
+                "cathryn-camenzind"
+            ],
+            "topics": [
+                "domain-management",
+                "governance",
+                "policy"
+            ],
+            "filename": "requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government.md",
+            "filepath": "resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government.md",
+            "slug": "requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government",
+            "url": "http://localhost:1313/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/",
+        },
+        {
+            "title": "Requirements for improving access to services for people with limited English proficiency (LEP)",
+            "deck": "Understand the policy framework: Executive Order 13166, Attorney General memorandum, and Title VI of the Civil Rights Act",
+            "summary": "Learn how to strengthen and improve meaningful language access for all people in the U.S., regardless of the language they speak.",
+            "date": "2024-04-19T00:00:00-0500",
+            "date_modified": "2024-10-24T12:40:24-04:00",
+            "weight": "1",
+            "authors": [
+                "cathryn-camenzind",
+                "james-hill"
+            ],
+            "topics": [
+                "governance",
+                "multilingual",
+                "policy"
+            ],
+            "filename": "requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep.md",
+            "filepath": "resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep.md",
+            "aliases": [
+                "https://digital.gov/resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/",
+                "https://digital.gov/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"
+            ],
+            "slug": "requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep",
+            "url": "http://localhost:1313/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/",
+        },
+        {
+            "title": "An introduction to the Digital Experience Council",
+            "deck": "A cross-agency group designed for delivering a digital-first public experience",
+            "summary": "The Digital Experience (DX) Council plays a critical role in coordinating governmentwide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.",
+            "date": "2024-04-04T00:00:00-0500",
+            "date_modified": "2024-10-17T08:51:41-04:00",
+            "weight": "1",
+            "authors": [
+                "cathryn-camenzind"
+            ],
+            "topics": [
+                "digital-service-delivery",
+                "policy",
+                "product-and-project-management"
+            ],
+            "filename": "an-introduction-to-the-digital-experience-council.md",
+            "filepath": "resources/an-introduction-to-the-digital-experience-council.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-the-digital-experience-council.md",
+            "aliases": [
+                "https://digital.gov/resources/federal-web-council/"
+            ],
+            "slug": "an-introduction-to-the-digital-experience-council",
+            "url": "http://localhost:1313/resources/an-introduction-to-the-digital-experience-council/",
+        },
+        {
+            "title": "Social media cyber-vandalism toolkit",
+            "deck": "How to prepare for, recover from, and respond to cyber incidents",
+            "summary": "Cyber-vandalism presents a serious challenge to online-based communication tools. This resource provides information for agency practitioners to prepare for, recover from, and respond to cyber-vandalism.",
+            "date": "2024-02-20T17:50:00-0500",
+            "date_modified": "2024-03-04T15:54:38-05:00",
+            "weight": "1",
+            "authors": [
+                "cathryn-camenzind"
+            ],
+            "topics": [
+                "security",
+                "social-media"
+            ],
+            "filename": "prepare-recovery-respond-social-media-cyber-vandalism-toolkit.md",
+            "filepath": "resources/prepare-recovery-respond-social-media-cyber-vandalism-toolkit.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/prepare-recovery-respond-social-media-cyber-vandalism-toolkit.md",
+            "aliases": [
+                "https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/"
+            ],
+            "slug": "prepare-recovery-respond-social-media-cyber-vandalism-toolkit",
+            "url": "http://localhost:1313/resources/prepare-recovery-respond-social-media-cyber-vandalism-toolkit/",
+        },
+        {
+            "title": "Requirements for improving the management of federal programs and projects",
+            "deck": "Understand the policy framework: Program Management Improvement Accountability Act and OMB Memo M-18-19",
+            "summary": "Learn how to implement the Program Management Improvement Accountability Act to deliver better websites and digital services.",
+            "date": "2024-02-20T16:02:00-0500",
+            "date_modified": "2024-03-28T10:46:37-04:00",
+            "weight": "1",
+            "topics": [
+                "budgeting-and-performance",
+                "governance",
+                "product-and-project-management"
+            ],
+            "filename": "requirements-for-improving-the-management-of-federal-programs-and-projects.md",
+            "filepath": "resources/requirements-for-improving-the-management-of-federal-programs-and-projects.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-improving-the-management-of-federal-programs-and-projects.md",
+            "slug": "requirements-for-improving-the-management-of-federal-programs-and-projects",
+            "url": "http://localhost:1313/resources/requirements-for-improving-the-management-of-federal-programs-and-projects/",
+        },
+        {
+            "title": "An introduction to working with social media influencers",
+            "deck": "How to create and manage a social media influencer program",
+            "summary": "Learn how to partner with social media influencers and  design, implement, and measure an influencer program.",
+            "date": "2024-02-02T13:12:00-0500",
+            "date_modified": "2024-04-12T17:05:41-04:00",
+            "weight": "1",
+            "topics": [
+                "communication",
+                "content-strategy",
+                "plain-language",
+                "social-media"
+            ],
+            "primary_image": "download-free-hhs-fda-influencers-101-guide",
+            "filename": "an-introduction-to-working-with-social-media-influencers.md",
+            "filepath": "resources/an-introduction-to-working-with-social-media-influencers.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-working-with-social-media-influencers.md",
+            "slug": "an-introduction-to-working-with-social-media-influencers",
+            "url": "http://localhost:1313/resources/an-introduction-to-working-with-social-media-influencers/",
+        },
+        {
+            "title": "An introduction to content",
+            "deck": "Understand why content matters to digital experience",
+            "summary": "Best practices for creating clear, useful, digital content for federal websites and digital services.",
+            "date": "2023-12-15T15:44:00-0500",
+            "date_modified": "2024-01-08T12:53:00-05:00",
+            "weight": "1",
+            "topics": [
+                "content-strategy",
+                "plain-language",
+                "usability"
+            ],
+            "filename": "an-introduction-to-content.md",
+            "filepath": "resources/an-introduction-to-content.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-content.md",
+            "slug": "an-introduction-to-content",
+            "url": "http://localhost:1313/resources/an-introduction-to-content/",
+        },
+        {
+            "title": "An introduction to inclusion",
+            "deck": "Understand why and how to create an inclusive culture",
+            "summary": "An inclusive culture contributes to a sense of belonging, promotes a healthier and more empowering workplace, respects differences, and optimizes for equal opportunities.",
+            "date": "2023-12-13T16:20:00-0500",
+            "date_modified": "2024-08-13T10:13:12-07:00",
+            "weight": "1",
+            "authors": [
+                "anne-petersen"
+            ],
+            "topics": [
+                "diversity-equity-and-inclusion",
+                "product-and-project-management",
+                "professional-development"
+            ],
+            "filename": "an-introduction-to-inclusion.md",
+            "filepath": "resources/an-introduction-to-inclusion.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-inclusion.md",
+            "slug": "an-introduction-to-inclusion",
+            "url": "http://localhost:1313/resources/an-introduction-to-inclusion/",
+        },
+        {
+            "title": "An introduction to web security",
+            "deck": "Understand how security impacts your website",
+            "summary": "Guidance on meeting security requirements for federal websites.",
+            "date": "2023-12-12T16:14:00-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "weight": "1",
+            "topics": [
+                "digital-service-delivery",
+                "policy",
+                "security"
+            ],
+            "filename": "an-introduction-to-security.md",
+            "filepath": "resources/an-introduction-to-security.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-security.md",
+            "slug": "an-introduction-to-security",
+            "url": "http://localhost:1313/resources/an-introduction-to-security/",
+        },
+        {
+            "title": "An introduction to privacy",
+            "deck": "Understand privacy requirements for agency websites",
+            "summary": "Introductory guidance on implementing privacy protections for users of federal websites.",
+            "date": "2023-12-08T06:46:00-0500",
+            "date_modified": "2024-04-11T12:27:25-04:00",
+            "weight": "1",
+            "authors": [
+                "rflagg"
+            ],
+            "topics": [
+                "analytics",
+                "privacy",
+                "trust",
+                "user-experience"
+            ],
+            "filename": "an-introduction-to-privacy.md",
+            "filepath": "resources/an-introduction-to-privacy.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-privacy.md",
+            "slug": "an-introduction-to-privacy",
+            "url": "http://localhost:1313/resources/an-introduction-to-privacy/",
+        },
+        {
+            "title": "An introduction to analytics",
+            "deck": "Use metrics and data to understand how people use your website",
+            "summary": "Learn how to set performance goals, and identify specific KPIs and targets to measure and meet them, using web analytics.",
+            "date": "2023-11-24T14:50:00-0500",
+            "date_modified": "2024-04-08T12:55:51-04:00",
+            "weight": "1",
+            "authors": [
+                "rflagg"
+            ],
+            "topics": [
+                "analytics",
+                "budgeting-and-performance",
+                "digital-service-delivery"
+            ],
+            "filename": "an-introduction-to-analytics.md",
+            "filepath": "resources/an-introduction-to-analytics.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-analytics.md",
+            "slug": "an-introduction-to-analytics",
+            "url": "http://localhost:1313/resources/an-introduction-to-analytics/",
+        },
+        {
+            "title": "An introduction to structured content",
+            "deck": "Understand the benefits of structuring digital content",
+            "summary": "Publishing content as modular pieces of information that are tagged with machine-readable descriptions can transform how people find, understand, share, use, and reuse government information.",
+            "date": "2023-11-01T13:38:00-0500",
+            "date_modified": "2024-01-08T12:53:00-05:00",
+            "weight": "1",
+            "topics": [
+                "content-strategy"
+            ],
+            "filename": "an-introduction-to-structured-content.md",
+            "filepath": "resources/an-introduction-to-structured-content.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-structured-content.md",
+            "aliases": [
+                "https://digital.gov/2013/07/29/how-to-create-open-structured-content/"
+            ],
+            "slug": "an-introduction-to-structured-content",
+            "url": "http://localhost:1313/resources/an-introduction-to-structured-content/",
+        },
+        {
+            "title": "An introduction to ATOs",
+            "deck": "Understand the authority to operate process",
+            "summary": "What is an Authorization to Operate? Before you use software in government, you need to make sure it is allowed. You should know what an ATO is, and when you need one.",
+            "date": "2023-10-18T09:39:00-0500",
+            "date_modified": "2024-07-31T15:45:16-04:00",
+            "weight": "1",
+            "authors": [
+                "lindsay-young"
+            ],
+            "topics": [
+                "policy",
+                "security",
+                "software-engineering"
+            ],
+            "primary_image": "title-card-intro-ato-karpenko-ilia-istock-getty-images-604030034-dg-logo",
+            "filename": "an-introduction-to-ato.md",
+            "filepath": "resources/an-introduction-to-ato.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-ato.md",
+            "slug": "an-introduction-to-ato",
+            "url": "http://localhost:1313/resources/an-introduction-to-ato/",
+        },
+        {
+            "title": "An introduction to security and privacy controls",
+            "deck": "Explaining NIST’s 800-53 control families for information systems and organizations",
+            "summary": "What do the control families of NIST 800-53 mean? Here&rsquo;s an overview of the control families that create the foundation of federal security compliance.",
+            "date": "2023-10-16T17:52:00-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "weight": "1",
+            "authors": [
+                "lindsay-young"
+            ],
+            "topics": [
+                "policy",
+                "security"
+            ],
+            "primary_image": "intro-security-privacy-controls-nist-800-53-rabbit-photo-istock-getty-images-1203479919",
+            "filename": "an-introduction-to-security-and-privacy-controls.md",
+            "filepath": "resources/an-introduction-to-security-and-privacy-controls.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-security-and-privacy-controls.md",
+            "slug": "an-introduction-to-security-and-privacy-controls",
+            "url": "http://localhost:1313/resources/an-introduction-to-security-and-privacy-controls/",
+        },
+        {
+            "title": "An introduction to trust",
+            "deck": "Understand how digital services impact trust in government",
+            "summary": "Guidance on how to build government websites that people can trust.",
+            "date": "2023-10-06T12:29:00-0500",
+            "date_modified": "2024-08-05T17:14:31-04:00",
+            "weight": "1",
+            "topics": [
+                "content-strategy",
+                "digital-service-delivery",
+                "governance",
+                "plain-language",
+                "trust"
+            ],
+            "filename": "an-introduction-to-trust.md",
+            "filepath": "resources/an-introduction-to-trust.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-trust.md",
+            "slug": "an-introduction-to-trust",
+            "url": "http://localhost:1313/resources/an-introduction-to-trust/",
+        },
+        {
+            "title": "An introduction to design",
+            "deck": "Understand how to implement a design-driven user experience",
+            "summary": "How to design government websites that meet customer needs, work well on any device, and follow federal web requirements.",
+            "date": "2023-08-30T15:32:00-0500",
+            "date_modified": "2024-08-05T13:37:18-04:00",
+            "weight": "1",
+            "topics": [
+                "design"
+            ],
+            "filename": "an-introduction-to-design.md",
+            "filepath": "resources/an-introduction-to-design.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-design.md",
+            "slug": "an-introduction-to-design",
+            "url": "http://localhost:1313/resources/an-introduction-to-design/",
+        },
+        {
+            "title": "An introduction to pronouns",
+            "deck": "Understand how and why to use pronouns",
+            "summary": "A guide for government employees and contractors to understand and use pronouns in the workplace.",
+            "date": "2023-05-12T11:25:00-0500",
+            "date_modified": "2023-12-12T13:21:49-05:00",
+            "weight": "1",
+            "authors": [
+                "alex-schulte",
+                "bonnie-cameron"
+            ],
+            "topics": [
+                "communication",
+                "digital-service-delivery"
+            ],
+            "primary_image": "people-hold-pronoun-signs-ekaterina-tveitan-getty-images-1395383185-comp",
+            "filename": "an-introduction-to-pronouns.md",
+            "filepath": "resources/an-introduction-to-pronouns.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-pronouns.md",
+            "slug": "an-introduction-to-pronouns",
+            "url": "http://localhost:1313/resources/an-introduction-to-pronouns/",
+        },
+        {
+            "title": "Introduction to translation technology",
+            "deck": "How and why to use translation technology to create multilingual content",
+            "summary": "What is translation technology? This introductory resource will help you understand how and when to use translation technology to provide meaningful access for people with limited English proficiency.",
+            "date": "2023-05-11T15:28:00-0500",
+            "date_modified": "2024-12-04T15:15:59-05:00",
+            "weight": "1",
+            "authors": [
+                "fedora-braverman"
+            ],
+            "topics": [
+                "communication",
+                "content-strategy",
+                "multilingual"
+            ],
+            "primary_image": "gesrey-istock-getty-images-1364367007-comp",
+            "filename": "introduction-to-translation-technology.md",
+            "filepath": "resources/introduction-to-translation-technology.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-translation-technology.md",
+            "aliases": [
+                "https://digital.gov/2012/10/01/automated-translation-good-solution-or-not/",
+                "https://digital.gov/2018/12/20/designing-for-translation/"
+            ],
+            "slug": "introduction-to-translation-technology",
+            "url": "http://localhost:1313/resources/introduction-to-translation-technology/",
+        },
+        {
+            "title": "An introduction to plain language",
+            "deck": "Using plain language is required on all government websites and also creates a better user experience.",
+            "summary": "Understand how and why to use plain language on government websites and other digital services",
+            "date": "2023-05-01T14:30:00-0500",
+            "date_modified": "2023-12-12T09:39:03-05:00",
+            "weight": "1",
+            "topics": [
+                "communication",
+                "plain-language"
+            ],
+            "filename": "an-introduction-to-plain-language.md",
+            "filepath": "resources/an-introduction-to-plain-language.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-plain-language.md",
+            "slug": "an-introduction-to-plain-language",
+            "url": "http://localhost:1313/resources/an-introduction-to-plain-language/",
+        },
+        {
+            "title": "How to start and sustain a federal podcast",
+            "deck": "It seems like everyone has a podcast these days, including the federal government. Should your agency decide to do the same — and if so, how do you even get started?",
+            "summary": "Discover how to create and maintain a successful podcast at your federal agency.",
+            "date": "2023-03-24T16:13:00-0500",
+            "date_modified": "2023-12-13T14:40:03-05:00",
+            "weight": "1",
+            "topics": [
+                "communication",
+                "multimedia",
+                "podcast",
+                "social-media"
+            ],
+            "primary_image": "podcast-mics-laptop-1200x630-vanessa-nunes-istock-getty-images-1434115344-comp",
+            "filename": "how-to-start-and-sustain-a-federal-podcast.md",
+            "filepath": "resources/how-to-start-and-sustain-a-federal-podcast.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-start-and-sustain-a-federal-podcast.md",
+            "slug": "how-to-start-and-sustain-a-federal-podcast",
+            "url": "http://localhost:1313/resources/how-to-start-and-sustain-a-federal-podcast/",
+        },
+        {
+            "title": "An introduction to design systems",
+            "deck": "Learn how and why to use design systems",
+            "summary": "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started.",
+            "date": "2023-02-10T14:30:00-0500",
+            "date_modified": "2024-01-08T12:53:00-05:00",
+            "weight": "1",
+            "topics": [
+                "design",
+                "digital-service-delivery"
+            ],
+            "primary_image": "uswds-interfaces-dark-1200x630",
+            "filename": "introduction-to-design-systems.md",
+            "filepath": "resources/introduction-to-design-systems.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-design-systems.md",
+            "slug": "introduction-to-design-systems",
+            "url": "http://localhost:1313/resources/introduction-to-design-systems/",
+        },
+        {
+            "title": "Introduction to QR codes",
+            "deck": "How and why to use QR codes to bridge the online and offline worlds",
+            "summary": "What is a QR code and how can you create one? What are some alternatives to using QR codes? This introductory resource will help you explore your options.",
+            "date": "2023-02-02T18:56:00-0500",
+            "date_modified": "2024-10-21T13:18:14-04:00",
+            "weight": "1",
+            "authors": [
+                "bonnie-cameron"
+            ],
+            "topics": [
+                "analytics",
+                "mobile",
+                "social-media"
+            ],
+            "primary_image": "3-d-quick-response-q-r-code-ktsimage-istock-getty-images-893155274",
+            "filename": "introduction-to-qr-codes.md",
+            "filepath": "resources/introduction-to-qr-codes.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-qr-codes.md",
+            "aliases": [
+                "https://digital.gov/2013/02/14/qr-codes/"
+            ],
+            "slug": "introduction-to-qr-codes",
+            "url": "http://localhost:1313/resources/introduction-to-qr-codes/",
+        },
+        {
+            "title": "Introduction to self-description",
+            "deck": "How and why to create self-descriptions when you introduce yourself during events and presentations",
+            "summary": "Help create inclusive digital spaces with these tips for using self-descriptions in virtual meetings or conference calls.",
+            "date": "2023-01-26T17:38:00-0500",
+            "date_modified": "2023-12-13T16:52:05-05:00",
+            "weight": "1",
+            "topics": [
+                "best-practices",
+                "communication",
+                "digital-service-delivery"
+            ],
+            "primary_image": "video-conference-call-kateryna-onyshchuk-istock-getty-images-1314080931",
+            "filename": "introduction-to-self-description.md",
+            "filepath": "resources/introduction-to-self-description.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-self-description.md",
+            "slug": "introduction-to-self-description",
+            "url": "http://localhost:1313/resources/introduction-to-self-description/",
+        },
+        {
+            "title": "Embedding Equity in Civic Design to Transform Customer Experience",
+            "deck": "",
+            "summary": "This case study describes how two civic designers at different agencies embed equity in civic design to transform federal customer experience.",
+            "date": "2022-05-23T10:22:00-0500",
+            "date_modified": "2024-02-13T19:45:13-05:00",
+            "weight": "1",
+            "authors": [
+                "lashanda-hodge",
+                "aaron-stienstra"
+            ],
+            "topics": [
+                "content-strategy",
+                "customer-experience",
+                "design",
+                "digital-service-delivery",
+                "diversity-equity-and-inclusion",
+                "trust"
+            ],
+            "primary_image": "barriers-illustration-interaction-institute-for-social-change-by-angus-maguire-lg",
+            "filename": "embedding-equity-in-civic-design-to-transform-customer-experience.md",
+            "filepath": "resources/embedding-equity-in-civic-design-to-transform-customer-experience.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/embedding-equity-in-civic-design-to-transform-customer-experience.md",
+            "slug": "embedding-equity-in-civic-design-to-transform-customer-experience",
+            "url": "http://localhost:1313/resources/embedding-equity-in-civic-design-to-transform-customer-experience/",
+        },
+        {
+            "title": "Lessons from the 2021 Federal Plain Language Report Card",
+            "deck": "What we learned from examples of web content that received both high and low scores.",
+            "summary": "This event recap highlights best practices, a short case study video, and examples of federal web content that received both high and low scores in the 2021 Plain Language Report Card.",
+            "date": "2022-03-11T17:26:00-0500",
+            "date_modified": "2024-02-20T16:37:22-05:00",
+            "weight": "1",
+            "authors": [
+                "mara-goldberg",
+                "gabby-fratanduono-king"
+            ],
+            "topics": [
+                "accessibility",
+                "communication",
+                "content-strategy",
+                "design",
+                "plain-language",
+                "user-experience"
+            ],
+            "primary_image": "title-card-2021-plain-language-report-card-slide-7-dhs-foia",
+            "filename": "lessons-from-the-2021-federal-plain-language-report-card.md",
+            "filepath": "resources/lessons-from-the-2021-federal-plain-language-report-card.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/lessons-from-the-2021-federal-plain-language-report-card.md",
+            "slug": "lessons-from-the-2021-federal-plain-language-report-card",
+            "url": "http://localhost:1313/resources/lessons-from-the-2021-federal-plain-language-report-card/",
+        },
+        {
+            "title": "Multilingual Huddle: Designing for Translation",
+            "summary": "In this webinar, Laura Godfrey and Fedora Braverman share tips for translating content in the digital context.",
+            "date": "2021-06-16T12:19:00-0500",
+            "date_modified": "2024-12-04T15:15:59-05:00",
+            "weight": "1",
+            "authors": [
+                "lgodfrey"
+            ],
+            "topics": [
+                "content-strategy",
+                "design",
+                "multilingual",
+                "plain-language"
+            ],
+            "primary_image": "multilingual-huddle-cfpb-homepage-vietnamese",
+            "filename": "multilingual-huddle-designing-for-translation.md",
+            "filepath": "resources/multilingual-huddle-designing-for-translation.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/multilingual-huddle-designing-for-translation.md",
+            "slug": "multilingual-huddle-designing-for-translation",
+            "url": "http://localhost:1313/resources/multilingual-huddle-designing-for-translation/",
+        },
+        {
+            "title": "How to Present Like a Pro",
+            "deck": "Presenting and Instructing via Streaming Video Using TV Pros’ Techniques",
+            "summary": "Wendy Wagner-Smith of the Small Business Administration (SBA) shares her tips and tricks for presenting virtually.",
+            "date": "2021-03-25T12:09:00-0500",
+            "date_modified": "2024-01-17T17:03:25-05:00",
+            "weight": "1",
+            "authors": [
+                "wendy-wagner-smith",
+                "katherine-spivey"
+            ],
+            "topics": [
+                "communication",
+                "customer-experience",
+                "multimedia",
+                "professional-development"
+            ],
+            "filename": "how-to-present-like-a-pro.md",
+            "filepath": "resources/how-to-present-like-a-pro.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-present-like-a-pro.md",
+            "slug": "how-to-present-like-a-pro",
+            "url": "http://localhost:1313/resources/how-to-present-like-a-pro/",
+        },
+        {
+            "title": "How to Build an Analytics Strategy",
+            "deck": "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy.",
+            "summary": "A case study using Digital.gov as an example of how to assess, report, and take action using web analytics as part of an analytics strategy.",
+            "date": "2020-12-22T14:01:00-0500",
+            "date_modified": "2024-02-20T16:37:22-05:00",
+            "weight": "1",
+            "authors": [
+                "tlowden",
+                "freddie-blicher"
+            ],
+            "topics": [
+                "analytics",
+                "budgeting-and-performance",
+                "open-data",
+                "product-and-project-management"
+            ],
+            "filename": "how-to-build-an-analytics-strategy.md",
+            "filepath": "resources/how-to-build-an-analytics-strategy.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-build-an-analytics-strategy.md",
+            "slug": "how-to-build-an-analytics-strategy",
+            "url": "http://localhost:1313/resources/how-to-build-an-analytics-strategy/",
+        },
+        {
+            "title": "Privacy-Preserving Collaboration Using Cryptography",
+            "summary": "In conjunction with her May 2020 presentation, Dr. Emily Shen outlines her work on Secure multi-party computation (MPC), a type of cryptography that allows parties to jointly analyze their data without disclosing it.",
+            "date": "2020-09-29T13:53:00-0500",
+            "date_modified": "2024-01-08T12:53:00-05:00",
+            "weight": "1",
+            "authors": [
+                "dr-emily-shen"
+            ],
+            "topics": [
+                "privacy",
+                "security"
+            ],
+            "filename": "privacy-preserving-collaboration-using-cryptography.md",
+            "filepath": "resources/privacy-preserving-collaboration-using-cryptography.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/privacy-preserving-collaboration-using-cryptography.md",
+            "slug": "privacy-preserving-collaboration-using-cryptography",
+            "url": "http://localhost:1313/resources/privacy-preserving-collaboration-using-cryptography/",
+        },
+        {
+            "title": "How to Test Websites for Accessibility",
+            "deck": "Use both manual and automated testing methods to create accessible websites.",
+            "summary": "Use both manual and automated testing methods to create accessible websites.",
+            "date": "2020-07-15T14:00:00-0500",
+            "date_modified": "2024-08-07T12:01:29-05:00",
+            "weight": "1",
+            "authors": [
+                "michael-horton"
+            ],
+            "topics": [
+                "accessibility",
+                "digital-service-delivery"
+            ],
+            "primary_image": "gettyimages-1073019390",
+            "filename": "how-test-websites-for-accessibility.md",
+            "filepath": "resources/how-test-websites-for-accessibility.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-test-websites-for-accessibility.md",
+            "slug": "how-test-websites-for-accessibility",
+            "url": "http://localhost:1313/resources/how-test-websites-for-accessibility/",
+        },
+        {
+            "title": "Federal-Compatible Terms of Service Agreements",
+            "deck": "A guide to the agreements negotiated between the federal government and vendors who offer digital tools and services.",
+            "summary": "Agreements negotiated between the federal government and vendors who offer digital tools and services.",
+            "date": "2014-01-09T02:40:58-0500",
+            "date_modified": "2024-10-03T13:03:47-04:00",
+            "weight": "1",
+            "topics": [
+                "terms-of-service"
+            ],
+            "filename": "federal-compatible-terms-of-service-agreements.md",
+            "filepath": "resources/federal-compatible-terms-of-service-agreements.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/federal-compatible-terms-of-service-agreements.md",
+            "aliases": [
+                "https://digital.gov/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/",
+                "https://digital.gov/resources/antideficiency-act-implications-of-rtain-online-terms-of-service-agreements/"
+            ],
+            "url": "http://localhost:1313/resources/federal-compatible-terms-of-service-agreements/",
+        },
+        {
+            "title": "Content Management Systems Used by Government Agencies",
+            "summary": "A list of Content Management Systems (CMS) used by government agencies.",
+            "date": "2013-06-13T01:30:35-0500",
+            "date_modified": "2023-12-12T09:52:29-05:00",
+            "weight": "1",
+            "topics": [
+                "content-strategy"
+            ],
+            "filename": "content-management-systems-used-by-government-agencies.md",
+            "filepath": "resources/content-management-systems-used-by-government-agencies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/content-management-systems-used-by-government-agencies.md",
+            "slug": "content-management-systems-used-by-government-agencies",
+            "url": "http://localhost:1313/resources/content-management-systems-used-by-government-agencies/",
+        },
+        {
+            "title": "An introduction to accessibility",
+            "deck": "Understand how to approach accessibility for all",
+            "summary": "An overview of how to design and deliver accessible digital products and services in the federal government",
+            "date": "2023-10-27T15:06:00-0500",
+            "date_modified": "2024-05-21T12:03:11-04:00",
+            "weight": "2",
+            "authors": [
+                "rflagg"
+            ],
+            "topics": [
+                "accessibility",
+                "digital-service-delivery",
+                "diversity-equity-and-inclusion"
+            ],
+            "primary_image": "accessibility-101-title-card",
+            "filename": "an-introduction-to-accessibility.md",
+            "filepath": "resources/an-introduction-to-accessibility.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-accessibility.md",
+            "slug": "an-introduction-to-accessibility",
+            "url": "http://localhost:1313/resources/an-introduction-to-accessibility/",
+        },
+        {
+            "title": "M-19-17 Enabling Mission Delivery through Improved Identity, Credential, and Access Management",
+            "summary": "This 2019 memorandum sets forth the federal government&rsquo;s Identity, Credential, and Access Management (ICAM) policy.",
+            "date": "2023-09-06T11:30:00-0500",
+            "date_modified": "2024-08-05T13:37:18-04:00",
+            "weight": "2",
+            "topics": [
+                "policy",
+                "security"
+            ],
+            "filename": "m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management.md",
+            "filepath": "resources/m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management.md",
+            "slug": "m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management",
+            "url": "http://localhost:1313/resources/m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management/",
+        },
+        {
+            "title": "Guidelines for Digital.gov event presenters",
+            "summary": "A checklist of requirements for people who are presenting at a Digital.gov event.",
+            "date": "2023-03-17T12:43:00-0500",
+            "date_modified": "2023-12-13T16:52:05-05:00",
+            "weight": "2",
+            "authors": [
+                "bonnie-cameron"
+            ],
+            "topics": [
+                "best-practices",
+                "communication",
+                "multimedia"
+            ],
+            "primary_image": "completed-checklist-tasks-bullseye-calendar-icon-paperfox-gettyimages-1468937260",
+            "filename": "guidelines-for-digital-gov-event-presenters.md",
+            "filepath": "resources/guidelines-for-digital-gov-event-presenters.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-for-digital-gov-event-presenters.md",
+            "slug": "guidelines-for-digital-gov-event-presenters",
+            "url": "http://localhost:1313/resources/guidelines-for-digital-gov-event-presenters/",
+        },
+        {
+            "title": "An introduction to GitHub",
+            "deck": "How to use GitHub to create, manage, and publish website content.",
+            "summary": "Steps for managing website content in GitHub.",
+            "date": "2020-06-18T13:00:00-0500",
+            "date_modified": "2024-10-30T21:06:24-04:00",
+            "weight": "2",
+            "topics": [
+                "software-engineering"
+            ],
+            "filename": "an-introduction-github.md",
+            "filepath": "resources/an-introduction-github.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-github.md",
+            "slug": "an-introduction-github",
+            "url": "http://localhost:1313/resources/an-introduction-github/",
+        },
+        {
+            "title": "An advanced approach to accessibility",
+            "deck": "What to do, how to do it, and why it matters",
+            "summary": "A deeper look at accessibility: what to do, how to do it, and why it matters.",
+            "date": "2019-12-04T08:00:00-0500",
+            "date_modified": "2024-12-04T15:15:59-05:00",
+            "weight": "2",
+            "authors": [
+                "toni-bonitto",
+                "jeremyzilar"
+            ],
+            "topics": [
+                "accessibility",
+                "content-strategy",
+                "customer-experience",
+                "diversity-equity-and-inclusion",
+                "plain-language",
+                "product-and-project-management",
+                "user-experience"
+            ],
+            "primary_image": "accessibility-icons-symbols-maanas-istock-getty-images-1073019390",
+            "filename": "an-advanced-approach-to-accessibility.md",
+            "filepath": "resources/an-advanced-approach-to-accessibility.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-advanced-approach-to-accessibility.md",
+            "aliases": [
+                "https://digital.gov/resources/intro-accessibility/",
+                "https://digital.gov/resources/introduction-accessibility/",
+                "https://digital.gov/resources/advanced-accessibility/"
+            ],
+            "slug": "an-advanced-approach-to-accessibility",
+            "url": "http://localhost:1313/resources/an-advanced-approach-to-accessibility/",
+        },
+        {
+            "title": "Guide to the Paperwork Reduction Act",
+            "deck": "A plain language guide which answers the most common questions to the PRA",
+            "summary": "A plain language guide which answers the most common questions to the PRA.",
+            "date": "2019-10-09T15:00:00-0500",
+            "date_modified": "2024-09-25T11:24:18-04:00",
+            "weight": "2",
+            "authors": [
+                "jeremyzilar"
+            ],
+            "topics": [
+                "customer-experience",
+                "information-collection",
+                "policy",
+                "research"
+            ],
+            "filename": "guide-paperwork-reduction-act.md",
+            "filepath": "resources/guide-paperwork-reduction-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guide-paperwork-reduction-act.md",
+            "slug": "guide-paperwork-reduction-act",
+            "url": "http://localhost:1313/resources/guide-paperwork-reduction-act/",
+        },
+        {
+            "title": "OMB Memos, Circulars, Executive Orders and Other Policies",
+            "summary": "Tech- and digital-related policies, memos, circulars and executive orders.",
+            "date": "2017-09-20T12:12:26-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "weight": "2",
+            "topics": [
+                "policy"
+            ],
+            "filename": "omb-memos-circulars-executive-orders-and-other-policies.md",
+            "filepath": "resources/omb-memos-circulars-executive-orders-and-other-policies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/omb-memos-circulars-executive-orders-and-other-policies.md",
+            "slug": "omb-memos-circulars-executive-orders-and-other-policies",
+            "url": "http://localhost:1313/resources/omb-memos-circulars-executive-orders-and-other-policies/",
+        },
+        {
+            "title": "Customer Experience Toolkit",
+            "summary": "This Toolkit is intended to help government agencies improve how we deliver services and information to the public.",
+            "date": "2016-01-07T05:52:31-0500",
+            "date_modified": "2024-04-04T16:45:17-04:00",
+            "weight": "2",
+            "authors": [
+                "rflagg"
+            ],
+            "topics": [
+                "customer-experience",
+                "information-collection"
+            ],
+            "filename": "customer-experience-toolkit.md",
+            "filepath": "resources/customer-experience-toolkit.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/customer-experience-toolkit.md",
+            "slug": "customer-experience-toolkit",
+            "url": "http://localhost:1313/resources/customer-experience-toolkit/",
+        },
+        {
+            "title": "Bilingual Glossaries, Dictionaries, and Style Guides",
+            "deck": "Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.",
+            "summary": "Multilingual resources to standardize the use of various languages across government.",
+            "date": "2014-06-11T09:55:00-0500",
+            "date_modified": "2024-10-21T14:03:48-05:00",
+            "weight": "2",
+            "authors": [
+                "lgodfrey",
+                "lmartinez"
+            ],
+            "topics": [
+                "accessibility",
+                "content-strategy",
+                "multilingual",
+                "plain-language"
+            ],
+            "filename": "bilingual-glossaries-dictionaries-style-guides.md",
+            "filepath": "resources/bilingual-glossaries-dictionaries-style-guides.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/bilingual-glossaries-dictionaries-style-guides.md",
+            "aliases": [
+                "https://digital.gov/resources/spanish-language-style-guide-and-glossaries/"
+            ],
+            "slug": "bilingual-glossaries-dictionaries-style-guides",
+            "url": "http://localhost:1313/resources/bilingual-glossaries-dictionaries-style-guides/",
+        },
+        {
+            "title": "Checklist of requirements for federal websites and digital services",
+            "deck": "A self-assessment tool to review and evaluate product maturity",
+            "summary": "Links to relevant laws, policies, and regulations for federal agencies.",
+            "date": "2014-01-09T01:20:11-0500",
+            "date_modified": "2024-09-23T16:14:30-05:00",
+            "weight": "2",
+            "authors": [
+                "rflagg",
+                "ammie-farraj-feijoo"
+            ],
+            "topics": [
+                "governance",
+                "policy",
+                "product-and-project-management"
+            ],
+            "primary_image": "checklist-topics",
+            "filename": "checklist-of-requirements-for-federal-digital-services.md",
+            "filepath": "resources/checklist-of-requirements-for-federal-digital-services.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/checklist-of-requirements-for-federal-digital-services.md",
+            "aliases": [
+                "https://digital.gov/2022/01/13/go-live-checklist-for-federal-websites/",
+                "https://digital.gov/resources/dot-gov-domain-freeze-and-waivers/",
+                "https://digital.gov/resources/checklist/",
+                "https://digital.gov/resources/policies-for-federal-agency-public-websites-m-05-04/"
+            ],
+            "slug": "checklist-of-requirements-for-federal-digital-services",
+            "url": "http://localhost:1313/resources/checklist-of-requirements-for-federal-digital-services/",
+        },
+        {
+            "title": "Required web content and links",
+            "deck": "A list of required links that all federal websites need to have.",
+            "summary": "Various policies require you to have certain content—or provide links to content—from specific places on your website.",
+            "date": "2011-12-05T12:37:26-0500",
+            "date_modified": "2024-12-04T15:15:59-05:00",
+            "weight": "2",
+            "authors": [
+                "ndavidson",
+                "rflagg",
+                "jeremyzilar",
+                "toni-bonitto"
+            ],
+            "topics": [
+                "content-strategy",
+                "customer-experience",
+                "governance",
+                "user-experience"
+            ],
+            "primary_image": "website-wireframes-ademay-istock-getty-images-plus-1235556451",
+            "filename": "required-web-content-and-links.md",
+            "filepath": "resources/required-web-content-and-links.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/required-web-content-and-links.md",
+            "url": "http://localhost:1313/resources/required-web-content-and-links/",
+        },
+        {
+            "title": "An introduction to digital governance",
+            "deck": "Understand how and why to implement digital governance",
+            "summary": "Learn why governance is essential to digital experience.",
+            "date": "2023-10-16T17:05:00-0500",
+            "date_modified": "2024-08-05T13:37:18-04:00",
+            "weight": "6",
+            "topics": [
+                "digital-service-delivery",
+                "digital-service-delivery",
+                "governance"
+            ],
+            "filename": "an-introduction-to-digital-governance.md",
+            "filepath": "resources/an-introduction-to-digital-governance.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-digital-governance.md",
+            "slug": "an-introduction-to-digital-governance",
+            "url": "http://localhost:1313/resources/an-introduction-to-digital-governance/",
+        },
+        {
+            "title": "An introduction to search",
+            "deck": "Understand how and why your content must be easy to search",
+            "summary": "Learn why search functionality is an important component of federal websites, and discover how to add a search function to your website.",
+            "date": "2023-10-04T12:01:00-0500",
+            "date_modified": "2024-07-24T16:23:05-04:00",
+            "weight": "7",
+            "topics": [
+                "digital-service-delivery",
+                "search-engine-optimization"
+            ],
+            "filename": "an-introduction-to-search.md",
+            "filepath": "resources/an-introduction-to-search.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-search.md",
+            "slug": "an-introduction-to-search",
+            "url": "http://localhost:1313/resources/an-introduction-to-search/",
+        },
+        {
+            "title": "An introduction to domain management",
+            "deck": "Understand how and why to manage your domain",
+            "summary": "A .gov domain instantly conveys credibility and trustworthiness, and proper domain management practices ensure that your website is secure and accessible.",
+            "date": "2023-11-28T14:38:00-0500",
+            "date_modified": "2024-07-24T16:23:05-04:00",
+            "weight": "8",
+            "topics": [
+                "domain-management",
+                "security",
+                "trust"
+            ],
+            "filename": "an-introduction-to-domain-management.md",
+            "filepath": "resources/an-introduction-to-domain-management.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-domain-management.md",
+            "slug": "an-introduction-to-domain-management",
+            "url": "http://localhost:1313/resources/an-introduction-to-domain-management/",
+        },
+        {
+            "title": "Requirements for delivering a digital-first public experience",
+            "deck": "Understand the policy framework: 21st Century Integrated Digital Experience Act and OMB Memo M-23-22",
+            "summary": "Learn how to implement 21st Century IDEA to design and deliver better websites and digital services.",
+            "date": "2019-11-01T15:00:00-0500",
+            "date_modified": "2024-10-17T14:33:04-04:00",
+            "weight": "10",
+            "authors": [
+                "ammie-farraj-feijoo"
+            ],
+            "topics": [
+                "accessibility",
+                "analytics",
+                "content-strategy",
+                "digital-service-delivery",
+                "governance",
+                "multilingual",
+                "plain-language",
+                "product-and-project-management",
+                "software-engineering",
+                "trust",
+                "user-experience"
+            ],
+            "primary_image": "office-team-ideas-scyther5",
+            "filename": "21st-century-integrated-digital-experience-act.md",
+            "filepath": "resources/21st-century-integrated-digital-experience-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/21st-century-integrated-digital-experience-act.md",
+            "aliases": [
+                "https://digital.gov/resources/21st-century-integrated-digital-experience-act/",
+                "https://digital.gov/resources/implications-of-recent-web-technologies-for-nara-web-guidance/",
+                "https://digital.gov/resources/omb-m-17-06",
+                "https://digital.gov/resources/nara-guidance-for-implementing-section-207e-of-the-e-government-act-of-2002/",
+                "https://digital.gov/resources/nara-guidance-on-managing-social-media-records/"
+            ],
+            "slug": "delivering-digital-first-public-experience",
+            "url": "http://localhost:1313/resources/delivering-digital-first-public-experience/",
+        },
+        {
+            "title": "M-23-07, Update to Transition to Electronic Records",
+            "summary": "M-23-07 updates the previous target dates described in M-19-21 to June 24, 2024.",
+            "date": "2023-03-03T15:45:00-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "toni-bonitto"
+            ],
+            "topics": [
+                "policy",
+                "records-management"
+            ],
+            "filename": "m-23-07-update-to-transition-to-electronic-records.md",
+            "filepath": "resources/m-23-07-update-to-transition-to-electronic-records.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-23-07-update-to-transition-to-electronic-records.md",
+            "slug": "m-23-07-update-to-transition-to-electronic-records.md",
+            "url": "http://localhost:1313/resources/m-23-07-update-to-transition-to-electronic-records.md/",
+        },
+        {
+            "title": "Best Practices for Writing for the Accessible Web",
+            "deck": "",
+            "summary": "Tips for making online information accessible for those with auditory and visual needs.",
+            "date": "2020-07-02T14:00:00-0500",
+            "date_modified": "2024-01-08T12:53:00-05:00",
+            "authors": [
+                "ryan-johnson"
+            ],
+            "topics": [
+                "accessibility",
+                "design",
+                "digital-service-delivery"
+            ],
+            "filename": "best-practices-writing-for-accessible-web.md",
+            "filepath": "resources/best-practices-writing-for-accessible-web.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/best-practices-writing-for-accessible-web.md",
+            "aliases": [
+                "https://digital.gov/resources/best-practices-for-writing-for-accessible/"
+            ],
+            "slug": "best-practices-writing-for-accessible-web",
+            "url": "http://localhost:1313/resources/best-practices-writing-for-accessible-web/",
+        },
+        {
+            "title": "How to Prevent Security Certificates From Expiring During a Lapse in Operations",
+            "summary": "These are the steps that people in government can take to avoid having security certificates expire during a lapse in operations.",
+            "date": "2019-02-07T11:30:00-0500",
+            "date_modified": "2022-06-21T15:05:50-04:00",
+            "topics": [
+                "security"
+            ],
+            "filename": "how-to-prevent-security-certificates-from-expiring-during-shutdown.md",
+            "filepath": "resources/how-to-prevent-security-certificates-from-expiring-during-shutdown.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-prevent-security-certificates-from-expiring-during-shutdown.md",
+            "slug": "how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations",
+            "url": "http://localhost:1313/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/",
+        },
+        {
+            "title": "Mobile Development Strategies",
+            "deck": "",
+            "summary": "The following is a list of the most common mobile development strategies.",
+            "date": "2018-10-09T12:30:00-0500",
+            "date_modified": "2024-01-17T16:53:51-05:00",
+            "topics": [
+                "content-strategy",
+                "mobile"
+            ],
+            "filename": "mobile-development-strategies.md",
+            "filepath": "resources/mobile-development-strategies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/mobile-development-strategies.md",
+            "slug": "mobile-development-strategies",
+            "url": "http://localhost:1313/resources/mobile-development-strategies/",
+        },
+        {
+            "title": "A Guide to Creating Mobile-Friendly Websites",
+            "deck": "Five tactics for improving the performance of your website",
+            "summary": "Based on a recent six-month study, this guide outlines the top five practices needed to improve the mobile-friendliness of federal websites: the optimization of JavaScript, CSS, and images, caching, and pop-ups.",
+            "date": "2018-09-29T12:30:00-0500",
+            "date_modified": "2024-04-24T11:01:28-04:00",
+            "topics": [
+                "content-strategy",
+                "mobile"
+            ],
+            "featured_image": "army-mobile",
+            "filename": "guide-create-mobile-friendly-websites.md",
+            "filepath": "resources/guide-create-mobile-friendly-websites.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guide-create-mobile-friendly-websites.md",
+            "slug": "guide-create-mobile-friendly-websites",
+            "url": "http://localhost:1313/resources/guide-create-mobile-friendly-websites/",
+        },
+        {
+            "title": "Connected Government Act",
+            "deck": "As of July of 2018, all new and redesigned agency websites are required to be mobile-friendly.",
+            "summary": "Resources to help your agency comply with the Connected Government Act.",
+            "date": "2018-06-25T09:00:00-0500",
+            "date_modified": "2024-10-30T16:21:20-04:00",
+            "topics": [
+                "design",
+                "mobile",
+                "product-and-project-management"
+            ],
+            "featured_image": "hr2331-connected-govt-act",
+            "filename": "connected-government-act.md",
+            "filepath": "resources/connected-government-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/connected-government-act.md",
+            "slug": "connected-government-act",
+            "url": "http://localhost:1313/resources/connected-government-act/",
+        },
+        {
+            "title": "Digital Governance Policy Outline",
+            "summary": "A template for digital governance policies.",
+            "date": "2017-05-31T06:27:04-0500",
+            "date_modified": "2022-12-14T17:31:41-05:00",
+            "authors": [
+                "jeremyzilar"
+            ],
+            "filename": "digital-governance-policies.md",
+            "filepath": "resources/digital-governance-policies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digital-governance-policies.md",
+            "slug": "digital-governance-policies",
+            "url": "http://localhost:1313/resources/digital-governance-policies/",
+        },
+        {
+            "title": "Style Guides by Government Agencies",
+            "summary": "This page is a collection of style guides created by government agencies.",
+            "date": "2017-05-23T03:43:08-0500",
+            "date_modified": "2024-08-21T14:43:39-04:00",
+            "topics": [
+                "communication",
+                "content-strategy",
+                "plain-language"
+            ],
+            "filename": "style-guides-by-government-agencies.md",
+            "filepath": "resources/style-guides-by-government-agencies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/style-guides-by-government-agencies.md",
+            "slug": "style-guides-by-government-agencies",
+            "url": "http://localhost:1313/resources/style-guides-by-government-agencies/",
+        },
+        {
+            "title": "Top 10 Best Practices for Multilingual Websites",
+            "summary": "Ten tips for creating and managing multilingual government websites.",
+            "date": "2016-09-07T10:00:45-0500",
+            "date_modified": "2024-10-25T15:57:59-04:00",
+            "authors": [
+                "lgodfrey",
+                "lmartinez",
+                "fedora-braverman",
+                "lina-younes"
+            ],
+            "topics": [
+                "multilingual"
+            ],
+            "filename": "top-10-best-practices-for-multilingual-websites.md",
+            "filepath": "resources/top-10-best-practices-for-multilingual-websites.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/top-10-best-practices-for-multilingual-websites.md",
+            "aliases": [
+                "https://digital.gov/2012/08/12/top-10-best-practices-for-multilingual-websites/"
+            ],
+            "slug": "top-10-best-practices-for-multilingual-websites",
+            "url": "http://localhost:1313/resources/top-10-best-practices-for-multilingual-websites/",
+        },
+        {
+            "title": "Government Customer Service Policies \u0026 Requirements: 1993 to Present",
+            "summary": "A list of government customer service policies and requirements.",
+            "date": "2016-01-07T05:41:53-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "rflagg"
+            ],
+            "topics": [
+                "customer-experience",
+                "policy"
+            ],
+            "filename": "government-customer-service-policies-requirements-1993-to-present.md",
+            "filepath": "resources/government-customer-service-policies-requirements-1993-to-present.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/government-customer-service-policies-requirements-1993-to-present.md",
+            "slug": "government-customer-service-policies-requirements-1993-to-present",
+            "url": "http://localhost:1313/resources/government-customer-service-policies-requirements-1993-to-present/",
+        },
+        {
+            "title": "Implementation of the Government Paperwork Elimination Act",
+            "summary": "The Office of Management and Budget (OMB) provided this guidance to implement the Government Paperwork Elimination Act (GPEA). GPEA required Federal agencies, by October 21, 2003, to allow individuals or entities that deal with the agencies the option to submit information or transact with the agency electronically, when practicable, and to maintain records electronically, when practicable.",
+            "date": "2015-12-03T12:36:37-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "implementation-of-the-government-paperwork-elimination-act.md",
+            "filepath": "resources/implementation-of-the-government-paperwork-elimination-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/implementation-of-the-government-paperwork-elimination-act.md",
+            "slug": "implementation-of-the-government-paperwork-elimination-act",
+            "url": "http://localhost:1313/resources/implementation-of-the-government-paperwork-elimination-act/",
+        },
+        {
+            "title": "2012 Digital Government Strategy",
+            "summary": "The Digital Government Strategy complements several initiatives aimed at building a 21st century government that works better for the American people.",
+            "date": "2015-12-03T12:21:21-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "2012-digital-government-strategy-2.md",
+            "filepath": "resources/2012-digital-government-strategy-2.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/2012-digital-government-strategy-2.md",
+            "slug": "2012-digital-government-strategy-2",
+            "url": "http://localhost:1313/resources/2012-digital-government-strategy-2/",
+        },
+        {
+            "title": "Requirements for Accepting Externally Issued Identity Credentials",
+            "summary": "This memo dated October 6, 2011, from the Federal CIO to the CIO’s of Executive Departments and Agencies, mandates that agencies are to begin leveraging externally-issued credentials, in addition to continuing to offer federally-issued credentials.",
+            "date": "2015-12-03T02:20:17-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "requirements-for-accepting-externally-issued-identity-credentials.md",
+            "filepath": "resources/requirements-for-accepting-externally-issued-identity-credentials.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-accepting-externally-issued-identity-credentials.md",
+            "slug": "requirements-for-accepting-externally-issued-identity-credentials",
+            "url": "http://localhost:1313/resources/requirements-for-accepting-externally-issued-identity-credentials/",
+        },
+        {
+            "title": "OMB Final Guidance on Implementing the Plain Writing Act of 2010 (M-11-15)",
+            "summary": "Provides final guidance on implementing the Plain Writing Act of 2010 and is designed to promote the goals of the president’s Open Government Initiative.",
+            "date": "2015-12-03T01:34:16-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "plain-language",
+                "policy"
+            ],
+            "filename": "omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15.md",
+            "filepath": "resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15.md",
+            "slug": "omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15",
+            "url": "http://localhost:1313/resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15/",
+        },
+        {
+            "title": "OMB Memo on Testing and Simplifying Federal Forms",
+            "summary": "View or download the OMB Memo on Testing and Simplifying Federal Forms",
+            "date": "2015-12-03T01:06:55-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "omb-memo-on-testing-and-simplifying-federal-forms.md",
+            "filepath": "resources/omb-memo-on-testing-and-simplifying-federal-forms.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/omb-memo-on-testing-and-simplifying-federal-forms.md",
+            "slug": "omb-memo-on-testing-and-simplifying-federal-forms",
+            "url": "http://localhost:1313/resources/omb-memo-on-testing-and-simplifying-federal-forms/",
+        },
+        {
+            "title": "Open Data Policy (M-13-13)",
+            "summary": "This Memorandum establishes a framework to help institutionalize the principles of effective information management at each stage of the information&rsquo;s life cycle to promote interoperability and openness.",
+            "date": "2015-12-01T12:50:58-0500",
+            "date_modified": "2023-12-12T10:18:57-05:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "content-strategy",
+                "innovation"
+            ],
+            "filename": "open-data-policy-m-13-13.md",
+            "filepath": "resources/open-data-policy-m-13-13.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/open-data-policy-m-13-13.md",
+            "aliases": [
+                "https://digital.gov/open-data-policy-m-13-13/"
+            ],
+            "slug": "open-data-policy-m-13-13",
+            "url": "http://localhost:1313/resources/open-data-policy-m-13-13/",
+        },
+        {
+            "title": "Making Open and Machine Readable the New Default for Government Information",
+            "summary": "Openness in government strengthens our democracy, promotes the delivery of efficient and effective services to the public, and contributes to economic growth. As one vital benefit of open government, making information resources easy to find, accessible, and usable can fuel entrepreneurship, innovation, and scientific discovery that improves Americans’ lives and contributes significantly to job creation.",
+            "date": "2015-12-01T12:12:10-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "making-open-and-machine-readable-the-new-default-for-government-information.md",
+            "filepath": "resources/making-open-and-machine-readable-the-new-default-for-government-information.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/making-open-and-machine-readable-the-new-default-for-government-information.md",
+            "slug": "making-open-and-machine-readable-the-new-default-for-government-information",
+            "url": "http://localhost:1313/resources/making-open-and-machine-readable-the-new-default-for-government-information/",
+        },
+        {
+            "title": "Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002 (M-03–22)",
+            "summary": "This guidance provides information to agencies on implementing the privacy provisions of the E-Government Act of 2002. It addresses privacy protections when Americans interact with their government.",
+            "date": "2015-12-01T09:39:40-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy",
+                "privacy"
+            ],
+            "filename": "guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22.md",
+            "filepath": "resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22.md",
+            "slug": "guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22",
+            "url": "http://localhost:1313/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/",
+        },
+        {
+            "title": "GOV Domain Registration Process Final Rule",
+            "summary": "This final rule provided a new policy for the .gov domain that will be included in the Federal Management Regulation.",
+            "date": "2015-12-01T09:17:58-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "gov-domain-registration-process-final-rule.md",
+            "filepath": "resources/gov-domain-registration-process-final-rule.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/gov-domain-registration-process-final-rule.md",
+            "slug": "gov-domain-registration-process-final-rule",
+            "url": "http://localhost:1313/resources/gov-domain-registration-process-final-rule/",
+        },
+        {
+            "title": "Digital Millennium Copyright Act",
+            "summary": "The Digital Millennium Copyright Act (DMCA) is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). Passed on October 12, 1998, the DMCA amended Title 17 of the United States Code to extend the reach of copyright, while limiting the liability of the providers of online services",
+            "date": "2015-12-01T09:02:15-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "digital-millennium-copyright-act.md",
+            "filepath": "resources/digital-millennium-copyright-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digital-millennium-copyright-act.md",
+            "slug": "digital-millennium-copyright-act",
+            "url": "http://localhost:1313/resources/digital-millennium-copyright-act/",
+        },
+        {
+            "title": "U.S. Trademark Law",
+            "summary": "United States trademark law is mainly governed by the Lanham Act. “Common law” trademark rights are acquired automatically when a business uses a name or logo in commerce, and are enforceable in state courts. Marks registered with the U.S. Patent and Trademark Office are given a higher degree of protection in federal courts than unregistered",
+            "date": "2015-12-01T08:42:48-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "u-s-trademark-law.md",
+            "filepath": "resources/u-s-trademark-law.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/u-s-trademark-law.md",
+            "slug": "u-s-trademark-law",
+            "url": "http://localhost:1313/resources/u-s-trademark-law/",
+        },
+        {
+            "title": "Paperwork Reduction Act (44 U.S.C. 3501 et seq.)",
+            "summary": "The Paperwork Reduction Act (PRA) of 1995 requires that agencies obtain Office of Management and Budget (OMB) approval before requesting most types of information from the public.",
+            "date": "2015-12-01T01:40:45-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "information-collection",
+                "policy"
+            ],
+            "filename": "paperwork-reduction-act-44-u-s-c-3501-et-seq.md",
+            "filepath": "resources/paperwork-reduction-act-44-u-s-c-3501-et-seq.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq.md",
+            "slug": "paperwork-reduction-act-44-u-s-c-3501-et-seq",
+            "url": "http://localhost:1313/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/",
+        },
+        {
+            "title": "Guidance on the Use of Challenges and Prizes to Promote Open Government",
+            "summary": "This guidance calls for the increased use of challenges and prizes to develop new tools and approaches to improve open government, and highlights for agencies policy and legal issues related to the use of prizes and challenges as tools for promoting open government, innovation, and other national priorities.",
+            "date": "2015-12-01T01:21:33-0500",
+            "date_modified": "2024-04-05T20:48:17-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "challenges-and-prize-competitions",
+                "policy"
+            ],
+            "filename": "guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government.md",
+            "filepath": "resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government.md",
+            "slug": "guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government",
+            "url": "http://localhost:1313/resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government/",
+        },
+        {
+            "title": "Circular A-130 Revised",
+            "summary": "Circular A-130 was first issued in December 1985 to meet information resource management requirements that were included in the Paperwork Reduction Act (PRA) of 1980. Specifically, the PRA assigned responsibility to the OMB Director to develop and maintain a comprehensive set of information resources management policies for use across the Federal government, and to promote",
+            "date": "2015-11-24T11:30:32-0500",
+            "date_modified": "2022-06-21T15:05:50-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "filename": "circular-a-130-revised.md",
+            "filepath": "resources/circular-a-130-revised.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/circular-a-130-revised.md",
+            "url": "http://localhost:1313/circular-a-130-revised/",
+        },
+        {
+            "title": "Quick Reference to Web Content Accessibility Guidelines 2.0 requirements",
+            "summary": "This quick reference guide will help you meet Web Content Accessibility Guidelines (WCAG) 2.0. It is a customizable quick reference to the requirements, success criteria and techniques.",
+            "date": "2015-11-24T10:23:16-0500",
+            "date_modified": "2023-12-04T22:43:24-05:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "accessibility"
+            ],
+            "filename": "quick-reference-to-web-content-accessibility-guidelines-2-0-requirements.md",
+            "filepath": "resources/quick-reference-to-web-content-accessibility-guidelines-2-0-requirements.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/quick-reference-to-web-content-accessibility-guidelines-2-0-requirements.md",
+            "aliases": [
+                "https://digital.gov/quick-reference-to-web-content-accessibility-guidelines-2-0-requirements"
+            ],
+            "slug": "quick-reference-to-web-content-accessibility-guidelines-2-0-requirements",
+            "url": "http://localhost:1313/resources/quick-reference-to-web-content-accessibility-guidelines-2-0-requirements/",
+        },
+        {
+            "title": "Guidelines for Secure Use of Social Media",
+            "summary": "Guidelines and recommendations for using social media technologies in a manner that minimizes risks are analyzed and presented in this document.",
+            "date": "2015-11-24T09:50:19-0500",
+            "date_modified": "2024-01-08T12:53:00-05:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "social-media"
+            ],
+            "filename": "guidelines-for-secure-use-of-social-media.md",
+            "filepath": "resources/guidelines-for-secure-use-of-social-media.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-for-secure-use-of-social-media.md",
+            "slug": "guidelines-for-secure-use-of-social-media",
+            "url": "http://localhost:1313/resources/guidelines-for-secure-use-of-social-media/",
+        },
+        {
+            "title": "Federal Information Security Management Act of 2002 \u0026#8211; Presentation to the 2003 FISSEA Conference",
+            "summary": "The head of the agency delegates to the CIO a number of information security responsibilities. The CIO in turn designates a senior agency information security officer.",
+            "date": "2015-11-23T04:31:09-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy",
+                "security"
+            ],
+            "filename": "federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference.md",
+            "filepath": "resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference.md",
+            "slug": "federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference",
+            "url": "http://localhost:1313/resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference/",
+        },
+        {
+            "title": "Guidelines on Securing Public Web Servers",
+            "summary": "The World Wide Web (WWW) is a system for exchanging information over the Internet. At the most basic level, the Web can be divided into two principal components: Web servers, which are applications that make information available over the Internet (in essence, publish information), and Web browsers (clients), which are used to access and display.",
+            "date": "2015-11-23T04:18:46-0500",
+            "date_modified": "2024-04-05T20:48:59-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "guidelines-on-securing-public-web-servers.md",
+            "filepath": "resources/guidelines-on-securing-public-web-servers.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-on-securing-public-web-servers.md",
+            "slug": "guidelines-on-securing-public-web-servers",
+            "url": "http://localhost:1313/resources/guidelines-on-securing-public-web-servers/",
+        },
+        {
+            "title": "FY 2004 Reporting Instructions for the Federal Information Security Management Act",
+            "summary": "This memorandum provides updated instructions for agency reporting under the Federal Information Security Management Act of 2002 (FISMA). Agency Chief Information Officers and Inspectors General have also received a copy of the attached instructions. View FY 2004 Reporting Instructions for the Federal Information Security Management Act Related Links OMB M-04-15 Reporting Instructions for the",
+            "date": "2015-11-23T04:06:49-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "fy-2004-reporting-instructions-for-the-federal-information-security-management-act.md",
+            "filepath": "resources/fy-2004-reporting-instructions-for-the-federal-information-security-management-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/fy-2004-reporting-instructions-for-the-federal-information-security-management-act.md",
+            "slug": "fy-2004-reporting-instructions-for-the-federal-information-security-management-act",
+            "url": "http://localhost:1313/resources/fy-2004-reporting-instructions-for-the-federal-information-security-management-act/",
+        },
+        {
+            "title": "NARA guidance on Managing Web Records",
+            "summary": "Managing web records properly is essential to effective web site operations, especially the mitigation of the risks an agency faces by using the web to carry out agency business.",
+            "date": "2015-11-23T03:34:32-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy",
+                "records-management"
+            ],
+            "filename": "nara-guidance-on-managing-web-records.md",
+            "filepath": "resources/nara-guidance-on-managing-web-records.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/nara-guidance-on-managing-web-records.md",
+            "slug": "nara-guidance-on-managing-web-records",
+            "url": "http://localhost:1313/resources/nara-guidance-on-managing-web-records/",
+        },
+        {
+            "title": "Code of Federal Regulations (CFR), Parts 1220-1238",
+            "summary": "Subchapter B  of the CFR specifies polices for federal agencies records management programs relating to proper records creation and maintenance, adequate documentation, and records disposition. View Code of Federal Regulations (CFR), Parts 1220-1238 Related Links NARA guidance for implementing Section 207(e) of the E-Gov Act NARA guidance on managing web records NARA Bulletin 2014-02 Guidance",
+            "date": "2015-11-23T03:13:12-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "code-of-federal-regulations-cfr-parts-1220-1238.md",
+            "filepath": "resources/code-of-federal-regulations-cfr-parts-1220-1238.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/code-of-federal-regulations-cfr-parts-1220-1238.md",
+            "slug": "code-of-federal-regulations-cfr-parts-1220-1238",
+            "url": "http://localhost:1313/resources/code-of-federal-regulations-cfr-parts-1220-1238/",
+        },
+        {
+            "title": "Children\u0026#8217;s Online Privacy Protection Rule (\u0026#8220;COPPA\u0026#8221;)",
+            "summary": "The Children’s Online Privacy Protection Rule,imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.",
+            "date": "2015-11-23T03:03:09-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "childrens-online-privacy-protection-rule-coppa.md",
+            "filepath": "resources/childrens-online-privacy-protection-rule-coppa.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/childrens-online-privacy-protection-rule-coppa.md",
+            "slug": "childrens-online-privacy-protection-rule-coppa",
+            "url": "http://localhost:1313/resources/childrens-online-privacy-protection-rule-coppa/",
+        },
+        {
+            "title": "Appendix I to OMB Circular No. A-130 Federal Agency Responsibilities for Maintaining Records About Individuals",
+            "summary": "This Appendix describes agency responsibilities for implementing the reporting and publication requirements of the Privacy Act of 1974, 5 U.S.C. 552a. It applies to all agencies subject to the Act. View Appendix I to OMB Circular No. A-130 Federal Agency Responsibilities for Maintaining Records About Individuals Related Resources OMB M-15-13, Policy to Require Secure Connections",
+            "date": "2015-11-23T02:52:12-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals.md",
+            "filepath": "resources/appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals.md",
+            "slug": "appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals",
+            "url": "http://localhost:1313/resources/appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals/",
+        },
+        {
+            "title": "Guidance for Agency Use of Third-Party Websites and Applications",
+            "summary": "This Memorandum requires Federal agencies to take specific steps to protect individual privacy whenever they use third-party websites and applications to engage with the public.",
+            "date": "2015-11-23T02:48:38-0500",
+            "date_modified": "2024-04-05T20:53:28-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "guidance-for-agency-use-of-third-party-websites-and-applications.md",
+            "filepath": "resources/guidance-for-agency-use-of-third-party-websites-and-applications.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-for-agency-use-of-third-party-websites-and-applications.md",
+            "slug": "guidance-for-agency-use-of-third-party-websites-and-applications",
+            "url": "http://localhost:1313/resources/guidance-for-agency-use-of-third-party-websites-and-applications/",
+        },
+        {
+            "title": "Open Government Directive",
+            "summary": "This memorandum is intended to direct executive departments and agencies to take specific actions to implement the principles of transparency, participation, and collaboration set forth in the President’s Memorandum on Transparency and Open Government. This Directive was informed by recommendations from the Federal Chief Technology Officer, who solicited public comment through the White House Open",
+            "date": "2015-11-23T02:47:48-0500",
+            "date_modified": "2022-06-21T15:05:50-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "filename": "open-government-directive.md",
+            "filepath": "resources/open-government-directive.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/open-government-directive.md",
+            "url": "http://localhost:1313/open-government-directive/",
+        },
+        {
+            "title": "No FEAR Act",
+            "summary": "The No FEAR Act requires a Federal agency to post on its public Web site summary statistical data pertaining to complaints of employment discrimination filed under 29 CFR part 1614 by employees, former employees and applicants for employment. View NO FEAR Act See more DigitalGov Resources",
+            "date": "2015-11-23T01:32:19-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "no-fear-act.md",
+            "filepath": "resources/no-fear-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/no-fear-act.md",
+            "slug": "no-fear-act",
+            "url": "http://localhost:1313/resources/no-fear-act/",
+        },
+        {
+            "title": "Guidance on President’s Management Agenda Scorecard Meetings",
+            "summary": "This memorandum provides Resource Management Offices and PMA Initiative Leads with instructions for preparing for the quarterly PMA scorecard meetings to discuss agencies’ status and progress in implementing the PMA for the period January 1, 2008 through March 31, 2008. View Guidance on President’s Management Agenda Scorecard Meetings See more DigitalGov Resources",
+            "date": "2015-11-23T01:30:19-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "guidance-on-presidents-management-agenda-scorecard-meetings.md",
+            "filepath": "resources/guidance-on-presidents-management-agenda-scorecard-meetings.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-on-presidents-management-agenda-scorecard-meetings.md",
+            "slug": "guidance-on-presidents-management-agenda-scorecard-meetings",
+            "url": "http://localhost:1313/resources/guidance-on-presidents-management-agenda-scorecard-meetings/",
+        },
+        {
+            "title": "Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act",
+            "summary": "This memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to federal agency use of social media and web-based interactive technologies.",
+            "date": "2015-11-23T01:24:51-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "topics": [
+                "information-collection",
+                "policy",
+                "social-media"
+            ],
+            "filename": "social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act.md",
+            "filepath": "resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act.md",
+            "slug": "social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act",
+            "url": "http://localhost:1313/resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act/",
+        },
+        {
+            "title": "Executive Order 13571\u0026#8211;Streamlining Service Delivery and Improving Customer Service",
+            "summary": "The Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service “requires agencies that provide significant services directly to the public to identify and survey their customers, establish service standards and track performance against those standards, and benchmark customer service performance against the best in business.” View Executive Order 13571–Streamlining Service Delivery and Improving Customer Service",
+            "date": "2015-11-12T03:18:42-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "customer-experience",
+                "policy"
+            ],
+            "filename": "executive-order-13571-streamlining-service-delivery-and-improving-customer-service.md",
+            "filepath": "resources/executive-order-13571-streamlining-service-delivery-and-improving-customer-service.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/executive-order-13571-streamlining-service-delivery-and-improving-customer-service.md",
+            "slug": "executive-order-13571-streamlining-service-delivery-and-improving-customer-service",
+            "url": "http://localhost:1313/resources/executive-order-13571-streamlining-service-delivery-and-improving-customer-service/",
+        },
+        {
+            "title": "M-11-24 Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service",
+            "summary": "Memo M-11-24 is guidance to Implement Executive Order 13571.",
+            "date": "2015-11-12T03:17:48-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "customer-experience",
+                "policy"
+            ],
+            "filename": "m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service.md",
+            "filepath": "resources/m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service.md",
+            "slug": "m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service",
+            "url": "http://localhost:1313/resources/m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service/",
+        },
+        {
+            "title": "M-10-22 Guidance for Online Use of Web Measurement and Customization Technologies",
+            "summary": "On January 21, 2009, the President issued a memorandum calling for the establishment of “a system of transparency, public participation, and collaboration.” The memorandum required an Open Government Directive to be issued by the Director of the Office of Management and Budget (OMB), instructing “executive departments and agencies to take specific actions implementing the principles",
+            "date": "2015-11-05T02:46:00-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies.md",
+            "filepath": "resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies.md",
+            "slug": "m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies",
+            "url": "http://localhost:1313/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/",
+        },
+        {
+            "title": "M-11-26 New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act",
+            "summary": "The new Paperwork Reduction Act Fast Track Process  will allow agencies to obtain timely feedback on service delivery while ensuring that the information collected is useful and minimally burdensome for the public, as required by the Paperwork Reduction Act of 1995.",
+            "date": "2015-11-05T02:31:45-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "information-collection",
+                "policy"
+            ],
+            "filename": "m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act.md",
+            "filepath": "resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act.md",
+            "slug": "m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act",
+            "url": "http://localhost:1313/resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/",
+        },
+        {
+            "title": "Plain Writing Act of 2010",
+            "summary": "The law requires that federal agencies provide clear communication about government information and services for the public.",
+            "date": "2015-11-05T02:13:05-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "plain-language",
+                "policy"
+            ],
+            "filename": "plain-writing-act-of-2010.md",
+            "filepath": "resources/plain-writing-act-of-2010.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/plain-writing-act-of-2010.md",
+            "slug": "plain-writing-act-of-2010",
+            "url": "http://localhost:1313/resources/plain-writing-act-of-2010/",
+        },
+        {
+            "title": "Federal Plain Language Guidelines",
+            "summary": "The Plain Language Action and Information Network (PLAIN) put together these federal guidelines to help implement the Plain Language Act of 2010.",
+            "date": "2015-11-05T02:06:53-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "plain-language",
+                "policy"
+            ],
+            "filename": "federal-plain-language-guidelines.md",
+            "filepath": "resources/federal-plain-language-guidelines.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/federal-plain-language-guidelines.md",
+            "slug": "federal-plain-language-guidelines",
+            "url": "http://localhost:1313/resources/federal-plain-language-guidelines/",
+        },
+        {
+            "title": "2012 Digital Government Strategy",
+            "summary": "The 2012 Digital Government Strategy mission drives agencies, and the need to deliver better services to customers at a lower cost.",
+            "date": "2015-09-29T10:15:27-0500",
+            "date_modified": "2023-10-02T17:23:30-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "governance"
+            ],
+            "filename": "2012-digital-government-strategy.md",
+            "filepath": "resources/2012-digital-government-strategy.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/2012-digital-government-strategy.md",
+            "slug": "2012-digital-government-strategy",
+            "url": "http://localhost:1313/resources/2012-digital-government-strategy/",
+        },
+        {
+            "title": "E-Gov Act of 2002",
+            "summary": "The E-Government Act of 2002 (Pub.L. 107–347, 116 Stat. 2899, 44 U.S.C. § 101, H.R. 2458/S. 803), is a United States statute enacted on December 17, 2002, with an effective date for most provisions of April 17, 2003. Its stated purpose is to improve the management and promotion of electronic government services and processes by",
+            "date": "2015-09-29T10:04:09-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "policy"
+            ],
+            "filename": "e-gov-act-of-2002.md",
+            "filepath": "resources/e-gov-act-of-2002.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/e-gov-act-of-2002.md",
+            "slug": "e-gov-act-of-2002",
+            "url": "http://localhost:1313/resources/e-gov-act-of-2002/",
+        },
+        {
+            "title": "Freedom of Information Act Memo 2009",
+            "summary": "The Freedom of Information Act (FOIA) is the law that gives anyone the right to access information from the federal government. It is often described as the law that keeps citizens in the know about their government. This 2009 FOIA memo covers the following: An agency should not withhold information simply because it may do so legally. Whenever an",
+            "date": "2015-09-03T01:10:21-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "open-government",
+                "policy"
+            ],
+            "filename": "freedom-of-information-act-memo-2009.md",
+            "filepath": "resources/freedom-of-information-act-memo-2009.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/freedom-of-information-act-memo-2009.md",
+            "slug": "freedom-of-information-act-memo-2009",
+            "url": "http://localhost:1313/resources/freedom-of-information-act-memo-2009/",
+        },
+        {
+            "title": "Open Opportunities Task Creator Toolkit",
+            "summary": "The step-by-step task creation process for Open Opportunities.",
+            "date": "2015-04-24T04:12:33-0500",
+            "date_modified": "2023-12-13T16:13:44-05:00",
+            "authors": [
+                "lnelson"
+            ],
+            "topics": [
+                "professional-development"
+            ],
+            "filename": "open-opportunities-task-creator-toolkit.md",
+            "filepath": "resources/open-opportunities-task-creator-toolkit.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/open-opportunities-task-creator-toolkit.md",
+            "slug": "open-opportunities-task-creator-toolkit",
+            "url": "http://localhost:1313/resources/open-opportunities-task-creator-toolkit/",
+        },
+        {
+            "title": "10 Tips for Creating the Perfect Open Opportunity Task",
+            "summary": "Ten tips for creating tasks in Open Opportunities on USAJOBS.",
+            "date": "2015-04-24T04:12:26-0500",
+            "date_modified": "2023-12-13T16:13:44-05:00",
+            "authors": [
+                "lnelson"
+            ],
+            "topics": [
+                "professional-development"
+            ],
+            "filename": "10-tips-for-creating-the-perfect-open-opportunity-task.md",
+            "filepath": "resources/10-tips-for-creating-the-perfect-open-opportunity-task.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/10-tips-for-creating-the-perfect-open-opportunity-task.md",
+            "slug": "open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task",
+            "url": "http://localhost:1313/resources/open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task/",
+        },
+        {
+            "title": "Plain Language Web Writing Tips",
+            "summary": "Help your readers complete their tasks with these Plain Language writing tips.",
+            "date": "2015-03-06T02:58:29-0500",
+            "date_modified": "2024-06-20T11:53:55-04:00",
+            "authors": [
+                "rflagg",
+                "awichman"
+            ],
+            "topics": [
+                "communication",
+                "plain-language"
+            ],
+            "filename": "plain-language-web-writing-tips.md",
+            "filepath": "resources/plain-language-web-writing-tips.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/plain-language-web-writing-tips.md",
+            "slug": "plain-language-web-writing-tips",
+            "url": "http://localhost:1313/resources/plain-language-web-writing-tips/",
+        },
+        {
+            "title": "Inventory.data.gov Guide",
+            "summary": "Introduction Features Using inventory.data.gov Creating a User Account Using inventory.data.gov to manage datasets Adding a Dataset Exporting Data.json Automating data.json downloads by agencies Dataset Hosting Webinar on inventory.data.gov Introduction Inventory.data.gov is a data management tool established in 2013 by the Data.gov Program Management Office (PMO) in what is now the Technology Transformation Service of the",
+            "date": "2015-01-27T05:47:03-0500",
+            "date_modified": "2024-05-16T13:29:57-05:00",
+            "authors": [
+                "pashlock"
+            ],
+            "topics": [
+                "open-data"
+            ],
+            "filename": "inventory-data-gov-guide.md",
+            "filepath": "resources/inventory-data-gov-guide.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/inventory-data-gov-guide.md",
+            "slug": "inventory-data-gov-guide",
+            "url": "http://localhost:1313/resources/inventory-data-gov-guide/",
+        },
+        {
+            "title": "Social Media Cyber-Vandalism Toolkit",
+            "deck": "Guidance on how to respond to cyber-hijacking.",
+            "summary": "Cyber-vandalism presents a serious challenge to online-based communication tools. This document provides guidance and security practices to federal, state, and local government employees. Suggestions and resources prepare users to respond to cyber-hijacking.",
+            "date": "2015-01-27T01:09:20-0500",
+            "date_modified": "2024-10-04T14:14:53-04:00",
+            "authors": [
+                "jherman"
+            ],
+            "topics": [
+                "security",
+                "social-media"
+            ],
+            "filename": "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md",
+            "filepath": "resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit.md",
+            "slug": "readiness-recovery-response-social-media-cyber-vandalism-toolkit",
+            "url": "http://localhost:1313/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/",
+        },
+        {
+            "title": "How to Get Your Open Data on Data.gov",
+            "summary": "Find out below how federal, federal geospatial, and non-federal data is funneled to Data.gov and how you can get your data federated on Data.gov for greater discoverability and and impact.",
+            "date": "2014-12-10T02:53:55-0500",
+            "date_modified": "2024-01-18T10:32:50-05:00",
+            "authors": [
+                "pashlock"
+            ],
+            "topics": [
+                "open-data"
+            ],
+            "filename": "how-to-get-your-open-data-on-data-gov.md",
+            "filepath": "resources/how-to-get-your-open-data-on-data-gov.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-get-your-open-data-on-data-gov.md",
+            "slug": "how-to-get-your-open-data-on-data-gov",
+            "url": "http://localhost:1313/resources/how-to-get-your-open-data-on-data-gov/",
+        },
+        {
+            "title": "Improving the Accessibility of Social Media in Government",
+            "summary": "Government agencies are increasingly using social media to engage with citizens, share information and deliver services more quickly and effectively than ever before. But as social content, data and platforms become more diverse, agencies have a responsibility to ensure these digital services are accessible to all citizens, including people with disabilities.",
+            "date": "2014-07-16T02:50:38-0500",
+            "date_modified": "2024-10-25T13:55:20-04:00",
+            "authors": [
+                "jherman"
+            ],
+            "topics": [
+                "accessibility",
+                "social-media"
+            ],
+            "filename": "improving-the-accessibility-of-social-media-in-government.md",
+            "filepath": "resources/improving-the-accessibility-of-social-media-in-government.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/improving-the-accessibility-of-social-media-in-government.md",
+            "slug": "improving-the-accessibility-of-social-media-in-government",
+            "url": "http://localhost:1313/resources/improving-the-accessibility-of-social-media-in-government/",
+        },
+        {
+            "title": "Federal Social Media Accessibility Toolkit Hackpad",
+            "deck": "Improving the accessibility of social media for public service",
+            "summary": "The following contains the shared document for the development of the Social Media Policy Toolkit, a shared service of the Federal Social Media Community of Practice lead by teams including The Department of Labor’s Office of Disability Employment Policy.",
+            "date": "2014-06-30T09:18:30-0500",
+            "date_modified": "2024-11-01T20:03:26-04:00",
+            "authors": [
+                "jherman"
+            ],
+            "topics": [
+                "accessibility",
+                "social-media"
+            ],
+            "filename": "federal-social-media-accessibility-toolkit-hackpad.md",
+            "filepath": "resources/federal-social-media-accessibility-toolkit-hackpad.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/federal-social-media-accessibility-toolkit-hackpad.md",
+            "slug": "federal-social-media-accessibility-toolkit-hackpad",
+            "url": "http://localhost:1313/resources/federal-social-media-accessibility-toolkit-hackpad/",
+        },
+        {
+            "title": "Sample Position Descriptions for Digital Government Jobs",
+            "summary": "Use and customize these sample position descriptions to hire your own digital gov team. Position descriptions, as defined by the Office of Personnel Management (OPM), include an official series, title, and grade based on the results of a classification determination. Accessibility Web Development and Accessibility Specialist (Word document, 22 KB, 1 page, September 2012) Analytics",
+            "date": "2014-06-24T09:50:15-0500",
+            "date_modified": "2022-12-22T11:17:46-05:00",
+            "authors": [
+                "rflagg"
+            ],
+            "filename": "sample-position-descriptions-for-digital-government-jobs.md",
+            "filepath": "resources/sample-position-descriptions-for-digital-government-jobs.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/sample-position-descriptions-for-digital-government-jobs.md",
+            "slug": "sample-position-descriptions-for-digital-government-jobs",
+            "url": "http://localhost:1313/resources/sample-position-descriptions-for-digital-government-jobs/",
+        },
+        {
+            "title": "Spanish Language Style Guide and Glossaries: Spanish Health Care Terms in the United States",
+            "summary": "A list of common English health care and medical terms, and their Spanish translations.",
+            "date": "2014-06-11T12:40:27-0500",
+            "date_modified": "2024-01-16T16:07:57-05:00",
+            "authors": [
+                "lgodfrey",
+                "lmartinez"
+            ],
+            "topics": [
+                "multilingual"
+            ],
+            "filename": "spanish-health-care-terms-in-the-united-states.md",
+            "filepath": "resources/spanish-health-care-terms-in-the-united-states.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-health-care-terms-in-the-united-states.md",
+            "slug": "spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/",
+        },
+        {
+            "title": "Spanish Language Style Guide and Glossaries: Internet Resources",
+            "summary": "A list of additional Internet resources to help standardize the use of Spanish across government.",
+            "date": "2014-06-11T09:59:14-0500",
+            "date_modified": "2022-06-21T15:05:50-04:00",
+            "authors": [
+                "lgodfrey",
+                "lmartinez"
+            ],
+            "topics": [
+                "multilingual"
+            ],
+            "filename": "spanish-language-style-guide-glossaries-internet-resources.md",
+            "filepath": "resources/spanish-language-style-guide-glossaries-internet-resources.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-glossaries-internet-resources.md",
+            "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/",
+        },
+        {
+            "title": "Spanish Language Style Guide and Glossaries: Information Technology Terms",
+            "summary": "A list of common English information technology terms, and their Spanish translations.",
+            "date": "2014-06-11T09:58:19-0500",
+            "date_modified": "2022-06-21T15:05:50-04:00",
+            "authors": [
+                "lgodfrey",
+                "lmartinez"
+            ],
+            "topics": [
+                "multilingual"
+            ],
+            "filename": "spanish-language-style-guide-glossaries-information-technology-terms.md",
+            "filepath": "resources/spanish-language-style-guide-glossaries-information-technology-terms.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-glossaries-information-technology-terms.md",
+            "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/",
+        },
+        {
+            "title": "Spanish Language Style Guide and Glossaries: Frequently Mistranslated English Terms",
+            "summary": "A collection of frequently mistranslated English terms and their equivalent in Spanish.",
+            "date": "2014-06-11T09:57:38-0500",
+            "date_modified": "2022-06-21T15:05:50-04:00",
+            "authors": [
+                "lgodfrey",
+                "lmartinez"
+            ],
+            "topics": [
+                "multilingual"
+            ],
+            "filename": "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md",
+            "filepath": "resources/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md",
+            "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/",
+        },
+        {
+            "title": "Spanish Language Style Guides and Glossaries",
+            "summary": "Spanish Language Style Guides are resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, and glossaries to standardize the use of Spanish across government.",
+            "date": "2014-06-11T09:55:09-0500",
+            "date_modified": "2023-09-22T10:16:20-04:00",
+            "authors": [
+                "lgodfrey",
+                "lmartinez"
+            ],
+            "topics": [
+                "multilingual"
+            ],
+            "filename": "spanish-language-style-guide-and-glossaries.md",
+            "filepath": "resources/spanish-language-style-guide-and-glossaries.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-and-glossaries.md",
+            "slug": "spanish-language-style-guide-and-glossaries",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/",
+        },
+        {
+            "title": "Open Opportunities",
+            "summary": "Open Opportunities is a government wide program offering professional development opportunities and facilitating collaboration and knowledge sharing across the Federal Government.",
+            "date": "2014-05-12T01:41:02-0500",
+            "date_modified": "2024-10-08T14:47:33-04:00",
+            "authors": [
+                "apiazza"
+            ],
+            "topics": [
+                "professional-development"
+            ],
+            "filename": "open-opportunities.md",
+            "filepath": "resources/open-opportunities.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/open-opportunities.md",
+            "aliases": [
+                "https://digital.gov/join/open-opportunities-in-digitalgov/",
+                "https://digital.gov/join/open-opportunities-in-digitalgov/how-open-opportunities-works/",
+                "https://digital.gov/join/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/"
+            ],
+            "slug": "open-opportunities",
+            "url": "http://localhost:1313/resources/open-opportunities/",
+        },
+        {
+            "title": "Guidelines for Improving Digital Services",
+            "summary": "The Digital Services Advisory Group and the Federal Web Managers Council have developed the following guidelines to meet the 6.1 milestone of the Digital Government Strategy. These recommendations apply to all digital services, including Web, mobile, apps, APIs, and online forms. Guidelines Guideline 1: Digital Strategy Integrate your digital presence into your agency’s overall business, communications, and customer experience strategy Guideline 2: Governance,",
+            "date": "2014-04-04T03:12:19-0500",
+            "date_modified": "2023-12-12T10:35:26-05:00",
+            "authors": [
+                "rflagg"
+            ],
+            "topics": [
+                "content-strategy"
+            ],
+            "filename": "guidelines-for-improving-digital-services.md",
+            "filepath": "resources/guidelines-for-improving-digital-services.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-for-improving-digital-services.md",
+            "slug": "guidelines-for-improving-digital-services",
+            "url": "http://localhost:1313/resources/guidelines-for-improving-digital-services/",
+        },
+        {
+            "title": "Crowdsourcing Toolkit for Federal Agencies",
+            "summary": "What is a Challenge? In a challenge, a “seeker” challenges “solvers” to identify a solution to a particular problem, or rewards contestants for accomplishing a goal.",
+            "date": "2014-03-05T12:01:06-0500",
+            "date_modified": "2023-12-12T11:08:40-05:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "crowdsourcing-and-citizen-science"
+            ],
+            "filename": "crowdsourcing-toolkit-for-federal-agencies.md",
+            "filepath": "resources/crowdsourcing-toolkit-for-federal-agencies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/crowdsourcing-toolkit-for-federal-agencies.md",
+            "slug": "crowdsourcing-toolkit-for-federal-agencies",
+            "url": "http://localhost:1313/resources/crowdsourcing-toolkit-for-federal-agencies/",
+        },
+        {
+            "title": "Guidance for Social Media Providers",
+            "summary": "GSA welcomes interest from providers that want to offer, for the federal government’s consideration, social media products that are free of charge. If you are such a provider, please email GSA and include the following information: Explanation of the",
+            "date": "2014-02-14T12:30:27-0500",
+            "date_modified": "2022-07-13T11:31:00-04:00",
+            "topics": [
+                "social-media",
+                "terms-of-service"
+            ],
+            "filename": "guidance-for-social-media-providers.md",
+            "filepath": "resources/guidance-for-social-media-providers.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-for-social-media-providers.md",
+            "slug": "guidance-for-social-media-providers",
+            "url": "http://localhost:1313/resources/guidance-for-social-media-providers/",
+        },
+        {
+            "title": "Spanish Language Style Guide and Glossaries: Grammar",
+            "summary": "Examples and explanations for words, phrases, acronyms, numbers, punctuation, capitalization, symbols, and more used in Spanish grammar.",
+            "date": "2014-02-07T05:16:19-0500",
+            "date_modified": "2022-12-27T11:39:44-06:00",
+            "authors": [
+                "lgodfrey"
+            ],
+            "topics": [
+                "multilingual"
+            ],
+            "filename": "spanish-language-style-guide-and-glossaries-grammar.md",
+            "filepath": "resources/spanish-language-style-guide-and-glossaries-grammar.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-and-glossaries-grammar.md",
+            "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/",
+        },
+        {
+            "title": "Contact Center Operation and Management",
+            "summary": "Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.",
+            "date": "2014-02-05T10:36:45-0500",
+            "date_modified": "2024-01-18T10:32:50-05:00",
+            "authors": [
+                "tonya-beres"
+            ],
+            "topics": [
+                "contact-centers"
+            ],
+            "filename": "contact-center-operation-and-management.md",
+            "filepath": "resources/contact-center-operation-and-management.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/contact-center-operation-and-management.md",
+            "slug": "contact-center-guidelines/contact-center-operation-and-management",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/contact-center-operation-and-management/",
+        },
+        {
+            "title": "Contact Center Technologies",
+            "summary": "A contact center is supported by many technologies designed to enhance the customer experience, improve the operating and management efficiency, or lower the overall costs of running a contact center.",
+            "date": "2014-02-05T10:27:01-0500",
+            "date_modified": "2024-01-18T10:32:50-05:00",
+            "authors": [
+                "tonya-beres"
+            ],
+            "topics": [
+                "contact-centers",
+                "customer-experience"
+            ],
+            "filename": "contact-center-technologies.md",
+            "filepath": "resources/contact-center-technologies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/contact-center-technologies.md",
+            "slug": "contact-center-guidelines/contact-center-technologies",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/contact-center-technologies/",
+        },
+        {
+            "title": "Getting Started with your Contact Center",
+            "deck": "Planning and creating a successful government contact center is a complex endeavor. This guide will provide you with the information and tools to get you started.",
+            "summary": "This guide provides you with the information to get a governement contact center started",
+            "date": "2014-02-05T10:25:54-0500",
+            "date_modified": "2024-01-18T10:32:50-05:00",
+            "authors": [
+                "tonya-beres"
+            ],
+            "topics": [
+                "contact-centers"
+            ],
+            "filename": "getting-started-with-your-contact-center.md",
+            "filepath": "resources/getting-started-with-your-contact-center.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/getting-started-with-your-contact-center.md",
+            "slug": "contact-center-guidelines/getting-started-with-your-contact-center",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/getting-started-with-your-contact-center/",
+        },
+        {
+            "title": "Contact Center Guidelines",
+            "summary": "The Contact Center is no longer viewed as only a center to receive complaints, but as a valued operation in an agency’s strategy to deliver a quality customer experience.",
+            "date": "2014-02-05T09:41:22-0500",
+            "date_modified": "2024-01-18T10:32:50-05:00",
+            "authors": [
+                "tonya-beres"
+            ],
+            "topics": [
+                "contact-centers",
+                "customer-experience"
+            ],
+            "filename": "contact-center-guidelines.md",
+            "filepath": "resources/contact-center-guidelines.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/contact-center-guidelines.md",
+            "slug": "contact-center-guidelines",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/",
+        },
+        {
+            "title": "Usability Starter Kit",
+            "summary": "Here are some tools and templates to help you create better user experiences.",
+            "date": "2014-01-16T11:28:18-0500",
+            "date_modified": "2022-12-27T14:12:15-06:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "usability",
+                "user-experience"
+            ],
+            "filename": "digitalgov-user-experience-program-usability-starter-kit.md",
+            "filepath": "resources/digitalgov-user-experience-program-usability-starter-kit.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-usability-starter-kit.md",
+            "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit/",
+        },
+        {
+            "title": "DigitalGov User Experience Program: Test Support",
+            "summary": "It’s always best to test a product BEFORE you release it. So the best time to evaluate the usability of a product is as early as possible, including when you are creating wireframes and prototypes. But even if you’ve gone past that point",
+            "date": "2014-01-16T11:25:23-0500",
+            "date_modified": "2024-10-25T13:55:20-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "user-experience"
+            ],
+            "filename": "digitalgov-user-experience-program-test-support.md",
+            "filepath": "resources/digitalgov-user-experience-program-test-support.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-test-support.md",
+            "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support/",
+        },
+        {
+            "title": "DigitalGov User Experience Program: Speaking Opportunities",
+            "summary": "The DigitalGov User Experience Program presents to federal audiences by phone, webinar and in person. We cover a variety of topics, including: User Centered Design and Usability Best (and Worst) Practices on Government Websites How to Improve Federal Digital Services and more Potential audiences include: CIOs",
+            "date": "2014-01-16T11:12:13-0500",
+            "date_modified": "2024-10-21T15:09:35-04:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "user-experience"
+            ],
+            "filename": "digitalgov-user-experience-program-speaking-opportunities.md",
+            "filepath": "resources/digitalgov-user-experience-program-speaking-opportunities.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-speaking-opportunities.md",
+            "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities/",
+        },
+        {
+            "title": "Fueleconomy.gov \u0026#8211; Extended Case Study",
+            "summary": "Like any valid business decision, User Experience work should produce results and demonstrable impact. To see a list of screenshots from websites we’ve improved, visit the rest of our Usability Case Studies. Or see a more complete case study below. Case Study: Fueleconomy.gov Mobile Site In December of 2012",
+            "date": "2014-01-16T11:01:12-0500",
+            "date_modified": "2024-01-22T09:41:02-05:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "usability",
+                "user-experience"
+            ],
+            "filename": "digitalgov-user-experience-program-results-and-case-studies.md",
+            "filepath": "resources/digitalgov-user-experience-program-results-and-case-studies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-results-and-case-studies.md",
+            "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies/",
+        },
+        {
+            "title": "Government Usability Case Studies",
+            "summary": "This list of government usability case studies shows how government sites, mobile apps and other products become more effective, more coherent and more usable by focusing on the User Experience of their customers. Want to be featured here? Just email us. National Cancer Institute Persona",
+            "date": "2014-01-16T10:24:24-0500",
+            "date_modified": "2024-01-22T09:41:02-05:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "usability",
+                "user-experience"
+            ],
+            "filename": "government-usability-case-studies.md",
+            "filepath": "resources/government-usability-case-studies.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/government-usability-case-studies.md",
+            "slug": "digitalgov-user-experience-resources/government-usability-case-studies",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/government-usability-case-studies/",
+        },
+        {
+            "title": "Negotiated Terms of Service Agreements",
+            "deck": "A list of free tools that have federal-compatible terms of service agreements.",
+            "summary": "The list of free tools that have federal-compatible terms of service agreements.",
+            "date": "2014-01-13T10:50:02-0500",
+            "date_modified": "2024-01-10T10:27:39-05:00",
+            "guide": "terms-of-service",
+            "topics": [
+                "terms-of-service"
+            ],
+            "filename": "negotiated-terms-of-service-agreements.md",
+            "filepath": "resources/negotiated-terms-of-service-agreements.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/negotiated-terms-of-service-agreements.md",
+            "aliases": [
+                "https://digital.gov/resources/negotiated-terms-of-service-agreements/",
+                "https://digital.gov/resources/chatwing-federal-terms-of-service/",
+                "https://digital.gov/resources/classmarker-federal-terms-of-service/",
+                "https://digital.gov/resources/eventbrite-federal-terms-of-service/",
+                "https://digital.gov/resources/github-federal-terms-of-service/",
+                "https://digital.gov/resources/govloop-federal-terms-of-service/",
+                "https://digital.gov/resources/hackpad-federal-terms-of-service/",
+                "https://digital.gov/resources/ideascale-federal-terms-of-service/",
+                "https://digital.gov/resources/instagram-federal-terms-of-service/",
+                "https://digital.gov/resources/mandrill-federal-terms-of-service/",
+                "https://digital.gov/resources/measured-voice-federal-terms-of-service/",
+                "https://digital.gov/resources/my-commetrics-federal-terms-of-service/",
+                "https://digital.gov/resources/news-genius-federal-terms-of-service/",
+                "https://digital.gov/resources/pinterest-federal-terms-of-service/",
+                "https://digital.gov/resources/quora-federal-terms-of-service/",
+                "https://digital.gov/resources/slideshare-federal-terms-of-service/",
+                "https://digital.gov/resources/socialoomph-federal-terms-of-service/",
+                "https://digital.gov/resources/stack-exchange-federal-terms-of-service/",
+                "https://digital.gov/resources/storify-federal-terms-of-service/",
+                "https://digital.gov/resources/surveymonkey-federal-terms-of-service/",
+                "https://digital.gov/resources/tint-federal-terms-of-service/",
+                "https://digital.gov/resources/trello-federal-terms-of-service/",
+                "https://digital.gov/resources/thunderclap-federal-terms-of-service/",
+                "https://digital.gov/resources/twitter-federal-terms-of-service/",
+                "https://digital.gov/resources/uservoice-federal-terms-of-service/",
+                "https://digital.gov/resources/vine-federal-terms-of-service/"
+            ],
+            "url": "http://localhost:1313/resources/negotiated-terms-of-service-agreements/",
+        },
+        {
+            "title": "Paperwork Reduction Act Fast Track Process",
+            "summary": "Protect Your Customer’s Privacy Federal agencies must follow various laws and regulations, including the Paperwork Reduction Act (PRA) and the Privacy Act, when collecting information from the public. You should also be familiar with SORN (Systems of Records Notice), as well as rules around personally identifiable information, and laws that relate to your specific method of feedback collection",
+            "date": "2014-01-09T03:01:38-0500",
+            "date_modified": "2024-04-05T20:44:40-04:00",
+            "authors": [
+                "rflagg"
+            ],
+            "topics": [
+                "information-collection",
+                "policy"
+            ],
+            "filename": "paperwork-reduction-act-fast-track-process.md",
+            "filepath": "resources/paperwork-reduction-act-fast-track-process.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/paperwork-reduction-act-fast-track-process.md",
+            "slug": "paperwork-reduction-act-fast-track-process",
+            "url": "http://localhost:1313/resources/paperwork-reduction-act-fast-track-process/",
+        },
+        {
+            "title": "Agency Points of Contact for Federal Compatible Terms of Service Agreements",
+            "deck": "The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements.",
+            "summary": "The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements.",
+            "date": "2014-01-08T10:49:03-0500",
+            "date_modified": "2024-01-10T10:27:39-05:00",
+            "guide": "terms-of-service",
+            "topics": [
+                "terms-of-service"
+            ],
+            "filename": "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md",
+            "filepath": "resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md",
+            "url": "http://localhost:1313/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/",
+        },
+        {
+            "title": "Mobile User Experience Guidelines",
+            "deck": "Six user experience guidelines for creating a mobile product.",
+            "summary": "These mobile user experience guidelines were distilled from community feedback about mobile UX practices.",
+            "date": "2013-12-11T04:13:00-0500",
+            "date_modified": "2024-02-21T15:22:18-05:00",
+            "authors": [
+                "jparcell"
+            ],
+            "topics": [
+                "mobile",
+                "user-experience"
+            ],
+            "filename": "mobile-user-experience-guidelines-and-recommendations.md",
+            "filepath": "resources/mobile-user-experience-guidelines-and-recommendations.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/mobile-user-experience-guidelines-and-recommendations.md",
+            "aliases": [
+                "https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/"
+            ],
+            "slug": "mobile-user-experience-guidelines",
+            "url": "http://localhost:1313/resources/mobile-user-experience-guidelines/",
+        },
+        {
+            "title": "DigitalGov User Experience Resources",
+            "summary": "DigitalGov’s user experience resources provide tools for federal employees on how to make products and services more user-friendly, save money via user research, and create successful experiences.",
+            "date": "2013-12-04T04:26:11-0500",
+            "date_modified": "2023-12-13T21:32:34-05:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "research",
+                "user-experience"
+            ],
+            "filename": "digitalgov-user-experience-resources.md",
+            "filepath": "resources/digitalgov-user-experience-resources.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-resources.md",
+            "aliases": [
+                "https://digital.gov/resources/digitalgov-user-experience-program/"
+            ],
+            "slug": "digitalgov-user-experience-resources",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/",
+        },
+        {
+            "title": "Using the do and don'ts table",
+            "summary": "What to do and what not to do, that is the question",
+            "date": "2013-12-04T04:26:11-0500",
+            "date_modified": "2023-12-13T21:32:34-05:00",
+            "authors": [
+                "andreanocesigritz"
+            ],
+            "topics": [
+                "research",
+                "user-experience"
+            ],
+            "filename": "do-dont-table.md",
+            "filepath": "resources/do-dont-table.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/do-dont-table.md",
+            "slug": "do-dont-table",
+            "url": "http://localhost:1313/resources/do-dont-table/",
+        },
+        {
+            "title": "Mobile SOW and Developer Qualifications",
+            "summary": "Structuring a Statement of Work (SOW) for the development or modification of mobile products should be similar to any SOW your government organization issues for IT products and services.",
+            "date": "2013-05-25T04:11:04-0500",
+            "date_modified": "2023-11-16T15:06:23-05:00",
+            "authors": [
+                "jparcell"
+            ],
+            "topics": [
+                "mobile"
+            ],
+            "filename": "mobile-sow-and-developer-qualifications.md",
+            "filepath": "resources/mobile-sow-and-developer-qualifications.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/mobile-sow-and-developer-qualifications.md",
+            "slug": "mobile-sow-and-developer-qualifications",
+            "url": "http://localhost:1313/resources/mobile-sow-and-developer-qualifications/",
+        },
+        {
+            "title": "Mobile Application Development Program",
+            "summary": "Helping agencies plan, develop, test and launch anytime, anywhere, any device mobile products and services for the public. Plan—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers. Develop—Create great mobile apps and sites",
+            "date": "2013-05-23T03:45:28-0500",
+            "date_modified": "2024-10-04T14:14:53-04:00",
+            "authors": [
+                "jparcell"
+            ],
+            "topics": [
+                "mobile"
+            ],
+            "filename": "mobile-application-development-program.md",
+            "filepath": "resources/mobile-application-development-program.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/mobile-application-development-program.md",
+            "slug": "mobile-application-development-program",
+            "url": "http://localhost:1313/resources/mobile-application-development-program/",
+        },
+    ]
+}

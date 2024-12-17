@@ -1,0 +1,9 @@
+{{- if (isset .Params "guide") -}}
+  "guide" : "{{- .Params.guide -}}",
+{{- end -}}
+{{- if (isset .Params "guide_weight") -}}
+  "guide_weight" : "{{- .Params.guide_weight -}}",
+{{- end -}}
+{{- if (isset .Params "image") -}}
+  "image" : "{{- .Params.image -}}",
+{{- end -}}

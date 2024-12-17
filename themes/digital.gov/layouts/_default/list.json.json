@@ -60,90 +60,31 @@
       {{- if (isset .Params "image") -}}
       "image" : "{{- .Params.image -}}",
       {{- end -}}
-      {{- if (isset .Params "authors") -}}
-        {{- $_authors := .Params.authors -}}
-        {{- $length := $_authors | len -}}
-        "authors" : {
-        {{- range $i, $e := $_authors -}}
-          {{- $uid := $e | urlize -}}
-          {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
-          {{- with $author -}}
-            {{- if lt (add $i 1) $length -}}
-              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}",
-            {{- else -}}
-              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}"
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
-        },
+      {{- if .Params.weight -}}
+      "weight" : "{{- .Params.weight -}}",
       {{- end -}}
 
-      {{- if (isset .Params "topics") -}}
-        "topics" : {
-        {{/* Sets the taxonomy we're pulling here */}}
-        {{- $taxonomy := "topics" -}}
-        {{- $topics := .Param $taxonomy -}}
-        {{/* Gets the number of topics that are applied */}}
-        {{- $length := $topics | len -}}
-
-        {{/* For each of the topics,... */}}
-        {{- range $i, $e := sort $topics -}}
-          {{- $slug := . -}}
-          {{/* Gets the Topics page */}}
-          {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
-            {{ if lt (add $i 1) $length }}
-            "{{- $slug -}}" : "{{- .Title }}",
-            {{- else }}
-            "{{- $slug -}}" : "{{- .Title }}"
-            {{ end }}
-          {{- end -}}
-
-        {{- end -}}
-        },
-      {{- end -}}
-
-
-      {{- partial "api/primary_image.html" . -}}
-
-      {{- partial "api/featured_image.html" . -}}
-
-
-      "branch" : {{ $.Scratch.Get "branch" | jsonify }},
-      "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
-      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-      "filepath" : {{- with .File -}}{{- $path | jsonify -}}{{- end -}},
-      "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
-      "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
       {{- if .Params.source -}}
       "source" : "{{- .Params.source -}}",
       {{- end -}}
       {{- if .Params.source_url -}}
       "source_url" : "{{- .Params.source_url -}}",
       {{- end -}}
-      {{- if .Params.weight -}}
-      "weight" : "{{- .Params.weight -}}",
-      {{- end -}}
-      {{- if .Params.aliases -}}
-      "aliases" : {
-        {{- $aliaslen := .Params.aliases | len -}}
-        {{- $.Scratch.Set "aliascount" 1 -}}
-        {{- range $i, $e := .Params.aliases -}}
-          {{- with $e -}}
-            {{- $aliascount := $.Scratch.Get "aliascount" -}}
-            {{- if eq $aliascount $aliaslen -}}
-              "{{- $i -}}" : "{{- $e -}}"
-            {{- else -}}
-              "{{- $i -}}" : "{{- $e -}}",
-            {{- end -}}
-            {{- $.Scratch.Add "aliascount" 1 -}}
-          {{- end -}}
-        {{- end -}}
-      },
-      {{- end -}}
+
+      {{- partial "api/authors.html" . -}}
+
+      {{- partial "api/topics.html" . -}}
+
+      {{- partial "api/primary_image.html" . -}}
+
+      {{- partial "api/featured_image.html" . -}}
+
+      {{- partial "api/file-info.html" . }}
+
+      {{- partial "api/aliases.html" . -}}
 
       {{- partial "api/slug.html" . -}}
 
-      "url" : "{{- .Permalink -}}"
 
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
