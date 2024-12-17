@@ -105,14 +105,14 @@ The Bureau has more than 1,200 words and terms in five languages:
 
 #### Federal Housing Finance Agency (FHFA)
 
-FHFA (along with partner agencies) has created a searchable [English-Spanish Glossary of Mortgage Translations](https://www.fhfa.gov/MortgageTranslations/Pages/glossary.aspx). Glossaries in other languages are planned for the future.
+FHFA (along with partner agencies) has created a searchable [English-Spanish Glossary of Mortgage Translations](https://www.fhfa.gov/mortgage-translations/glossaries?page=1). Glossaries in other languages are planned for the future.
 
 #### Internal Revenue Service (IRS)
 
 The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS** is currently available for download in six languages (all were last revised in August, 2018):
 
-- Publication 850 (EN-CN-S): [English-Chinese [Simplified]](https://www.irs.gov/pub/irs-pdf/p850encs.pdf) (1.5 MB PDF, 18 pages)
-- Publication 850 (EN-CN-T): [English-Chinese [Traditional]](https://www.irs.gov/pub/irs-pdf/p850enct.pdf) (1.5 MB PDF, 18 pages)
+- Publication 850 (EN-CN-S): [English-Chinese [Simplified]](https://www.irs.gov/pub/irs-pdf/p850enzs.pdf) (1.5 MB PDF, 22 pages)
+- Publication 850 (EN-CN-T): [English-Chinese [Traditional]](https://www.irs.gov/pub/irs-pdf/p850enzt.pdf) (1.5 MB PDF, 22 pages)
 - Publication 850 (EN-KR): [English-Korean](https://www.irs.gov/pub/irs-pdf/p850enkr.pdf) (1.4 MB PDF, 20 pages)
 - Publication 850 (EN-RU): [English-Russian](https://www.irs.gov/pub/irs-pdf/p850enru.pdf) (1.4 MB PDF, 25 pages)
 - Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages)
@@ -133,13 +133,9 @@ Financial and retirement terminology:
 #### U.S. Department of Health and Human Services (HHS)
 
 - [Health Resources and Services Administration](https://www.hrsa.gov/) (HRSA): <br />Offers the **Glossary for Organ Donation and Transplantation** on [their English website](https://www.organdonor.gov/about/facts-terms/terms.html), and [their Spanish website](https://donaciondeorganos.gov/sobre/datos-t%C3%A9rminos/1yv2/t%C3%A9rminos.html).
-- [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://minorityhealth.hhs.gov/office-minority-health-resource-center) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
 - The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers a glossary and a style guide:
     - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
     - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/culture-language/article/style-guide-translations-spanish).
-- [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish:
-    - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a)
-    - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a)
 
 ### Environment
 
@@ -167,12 +163,6 @@ The National Cancer Institute has a dictionary of cancer terms in English and Sp
 
 - English: https://www.cancer.gov/publications/dictionaries/cancer-terms
 - Spanish: https://www.cancer.gov/espanol/publicaciones/diccionario
-
-## Multilingual Language Style Guides
-
-#### USAGov Bilingual Style Guide
-
-The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/).
 
 #### The City and County of San Francisco
 

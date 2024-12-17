@@ -25,9 +25,9 @@ We welcome ideas and expertise from folks across all levels of experience. You m
 
 ### 2. Make sure your contribution aligns with our users’ needs.
 
-Not sure what to share? Digital.gov focuses on creating content with direct and actionable connections to digital services. We are looking for ideas that will help generalists, technologists, and teams in the federal government create world-class digital experiences. You can find examples of recent case studies and stories in our [blogs](https://digital.gov/news/) and on our [resource](https://digital.gov/resources/) pages.
+Not sure what to share? Digital.gov focuses on creating content with direct and actionable connections to digital services. We are looking for ideas that will help generalists, technologists, and teams in the federal government create world-class digital experiences. 
 
-If you’re interested in pitching an event, check out our [video archive of past events](https://youtube.com/@DigitalGov). You can also explore our [guidelines for Digital.gov event presenters](https://digital.gov/resources/guidelines-for-digital-gov-event-presenters/).
+You can find examples of recent case studies and stories in our [blogs](https://digital.gov/news/) and on our [resource](https://digital.gov/resources/) pages. If you’re interested in pitching an event, check out our [video archive of past events](https://youtube.com/@DigitalGov).
 
 ### 3. Write and share your pitch.
 
