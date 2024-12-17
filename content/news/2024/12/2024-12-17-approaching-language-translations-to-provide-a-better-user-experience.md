@@ -51,7 +51,7 @@ The new process involved using highly skilled, human translators from the [Offic
 
 The leadership team carefully considered the trade-offs associated with using human translators instead of machines. It essentially boiled down to sacrificing some delivery speed for increased accuracy. Ultimately, our leadership team decided to adjust to our delivery schedules and provide a better user experience with higher-quality translations. 
 
-{{< featured-resource link="resources/introduction-to-translation-technology/" kicker ="Learn more">}}
+{{< featured-resource link="resources/introduction-to-translation-technology/" kicker="Learn more">}}
 
 We met with product owners, scrum teams, engineers, and other stakeholders to set expectations for how long the process might take and explain any “worst case scenarios” that might make the process longer than anticipated. Each team adjusted their delivery to account for the longer process and created their own systems to manage a longer workflow in our project management software.
 
