@@ -15,12 +15,10 @@ summary: "Public policy plays a vital role in how federal programs serve the pub
 # Weight
 weight: 2
 
-# Featured resource at the top of the page
-featured_resources:
-  resources:
-  - title: "About our government"
-    summary: "Explore the three branches of the U.S. federal government and how their powers drive public policy."
-    link: "https://www.whitehouse.gov/about-the-white-house/our-government/"
+# Set the legislation card title and link
+legislation:
+  title: "21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22"
+  link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
 # Featured community to display at the top of the page
 featured_communities:
