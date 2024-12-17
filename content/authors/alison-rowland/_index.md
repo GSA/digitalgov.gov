@@ -6,18 +6,8 @@
 display_name: "Alison Rowland"
 first_name: "Alison"
 last_name: "Rowland"
-
-
-
 # slug — the specific user-id for an author.
 slug: alison-rowland
-
-
-
-
-
-
-
 # Agency Acronym [e.g., GSA]
 agency: ""
 
@@ -32,14 +22,6 @@ github: ""
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
 profile_source: ""
-
-
-
-
-
-
-
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors
-
 ---

@@ -7,15 +7,7 @@ slug: anamaria-sinitean
 display_name: "Ana-Maria Sinitean"
 first_name: "Ana-Maria"
 last_name: "Sinitean"
-
-# List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-
-
-
-
-
-# Agency Acronym [e.g., GSA]
-agency: "DOS"
+agency_full_name: "U.S. Department of State"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
@@ -26,12 +18,5 @@ github: ""
 # Profile Photo
 # See [URL] for a full list of profile photo options
 profile_photo: ""
-
-
-
-
-
-
-
 # Make it better ♥
 ---

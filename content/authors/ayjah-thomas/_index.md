@@ -6,18 +6,8 @@
 display_name: "Ayjah Thomas"
 first_name: "Ayjah"
 last_name: "Thomas"
-
-
-
 # slug — the specific user-id for an author.
 slug: ayjah-thomas
-
-
-
-
-
-
-
 # Agency Acronym [e.g., GSA]
 agency: ""
 
@@ -32,12 +22,6 @@ github: ""
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
 profile_source: ""
-
-
-
-
-
-
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors
 

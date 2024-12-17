@@ -6,18 +6,8 @@
 display_name: "AIDS.gov"
 first_name: "AIDS.gov"
 last_name: "Blog"
-
-
-
 # slug — the specific user-id for an author.
 slug: aids-gov
-
-
-
-
-
-
-
 # Agency Acronym [e.g., GSA]
 agency: ""
 
