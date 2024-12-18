@@ -1,3 +1,4 @@
+---
 date: 2024-12-18
 source: ""
 title: An introduction to decomissioning sites
@@ -84,11 +85,9 @@ Schedule time with your communications teams to develop effective messaging.
 Follow relevant policies, regulations, laws, and rules related to decommissioning, particularly around records management, including but not limited to:
 
 {{< ring title="Related policy">}}
-
 * [M-23-22 Delivering a digital first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/)
 * [NARA guidance on managing web records (January 2005)](https://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
 * [NARA Bulletin 2014-02: Guidance on managing social media records](https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html)
-
 {{/ring}}
 
 Review any existing agreements, to determine what actions you need to take to close those out.
@@ -119,7 +118,7 @@ Remember that once a site is decommissioned, your work is not done. Monitor user
 * Conduct post-decommission evaluation and monitoring
 * Document lessons learned and share them with others in your agency, through case studies, updated documentation, or other means
 
-### What can I do next?
+## What can I do next?
 As a website manager, it can be hard to admit that your website is no longer serving a relevant customer need, or adding real business value, but almost every website will reach the end of its useful life at some point.
 
 Use the decision-making framework and tips in this resource to determine whether it's time to decommission your website. If your answer is yes, define a timeline, responsibilities, and milestones. 
