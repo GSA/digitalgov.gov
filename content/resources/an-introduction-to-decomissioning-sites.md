@@ -22,7 +22,30 @@ When the content of your website has reached a stage where it’s no longer rele
 
 Consider this decision-making framework when you’re evaluating whether it is time to update, modernize, or decommission a site:
 
-TABLE
+<table class="usa-table">
+  <caption>Website decision-making framework</caption>
+  <tr>
+    <th>**Customer value** - The site is meeting a current customer need, and you have data to validate this.</th>
+    <td>Yes / No</td>
+  </tr>
+  <tr>
+    <td>**Content** - Content on the site is current and accurate.</td>
+    <td>Yes / No</td>
+  </tr>
+  <tr>
+    <td>**Technical infrastructure** - The site’s tech stack meets the latest federal security and technology requirements.</td>
+    <td>Yes / No</td>
+  </tr>
+  <tr>
+    <td>**Funding** - Your team has sufficient resources (funding and staff) to continue supporting the site for the foreseeable future.</td>
+    <td>Yes / No</td>
+  </tr>
+  <tr>
+    <td>**Mandate** - There is a requirement in law or policy for your agency to host the website.</td>
+    <td>Yes / No</td>
+  </tr>
+</table>
+</table>
 
 If you answered “no” to any of these prompts, it’s probably time to either modernize or decommission the website.
 
