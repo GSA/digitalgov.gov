@@ -88,7 +88,7 @@ Follow relevant policies, regulations, laws, and rules related to decommissionin
 * [M-23-22 Delivering a digital first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/)
 * [NARA guidance on managing web records (January 2005)](https://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
 * [NARA Bulletin 2014-02: Guidance on managing social media records](https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html)
-{{/ring}}
+{{< /ring >}}
 
 Review any existing agreements, to determine what actions you need to take to close those out.
 When decommissioning a site, here are some actions you will need to collaborate with your tech support team to accomplish: 
