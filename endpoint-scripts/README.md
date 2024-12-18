@@ -123,3 +123,5 @@ Cleaned up front matter escaping
 Some short posts have source_url with no value and were removed.
 
 - content/resources/deceptive-design-how-to-identify-and-combat-consequence-design.md
+
+

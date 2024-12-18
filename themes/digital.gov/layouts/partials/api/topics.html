@@ -1,23 +1,14 @@
 {{- if (isset .Params "topics") -}}
-  "topics" : [
-  {{/* Sets the taxonomy we're pulling here */}}
+  "topics":
   {{- $taxonomy := "topics" -}}
   {{- $topics := .Param $taxonomy -}}
-  {{/* Gets the number of topics that are applied */}}
-  {{- $length := $topics | len -}}
-
-  {{/* For each of the topics,... */}}
-  {{- range $i, $e := sort $topics -}}
-    {{- $slug := . -}}
-    {{/* Gets the Topics page */}}
+  {{- $topicLinks := slice -}}
+  {{- range $i, $slug := sort $topics -}}
     {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
-      {{ if lt (add $i 1) $length }}
-        "{{- $slug -}}",
-      {{- else }}
-        "{{- $slug -}}"
-      {{ end }}
+    {{- $topicLinks = $topicLinks | append (printf "%s" $slug) -}}
     {{- end -}}
-
   {{- end -}}
-  ],
+  {{- $topicsJSON := $topicLinks | jsonify -}}
+  {{- $topicsJSON -}}
+  ,
 {{- end -}}

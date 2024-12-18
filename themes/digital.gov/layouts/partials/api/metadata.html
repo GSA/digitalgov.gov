@@ -18,6 +18,15 @@
 {{- else -}}
   "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
 {{- end -}}
+{{- if (isset .Params "guide") -}}
+  "guide" : "{{- .Params.guide -}}",
+{{- end -}}
+{{- if (isset .Params "guide_weight") -}}
+  "guide_weight" : "{{- .Params.guide_weight -}}",
+{{- end -}}
+{{- if (isset .Params "image") -}}
+  "image" : "{{- .Params.image -}}",
+{{- end -}}
 {{- if .Params.weight -}}
   "weight" : "{{- .Params.weight -}}",
 {{- end -}}

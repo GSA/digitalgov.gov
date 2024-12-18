@@ -5,10 +5,34 @@
     "title": "Resources |Digital.gov",
     "description": "Resources",
     "home_page_url": "http://localhost:1313/",
-    "count": "205",
+    "count": "140",
     "feed_url": "http://localhost:1313/resources/index.json",
     "section": "resources",
     "items": [
+        {
+            "title": "Requirements for transforming federal customer experience and service delivery",
+            "deck": "Understand the policy framework: Executive Order 14058 and OMB Circular A-11 Section 280",
+            "summary": "Learn how to strengthen customer experience and service delivery within your federal agency.",
+            "date": "2024-12-04T00:00:00-0500",
+            "date_modified": "2024-12-06T14:30:06-05:00",
+            "weight": "1",
+            "authors": [
+                "cathryn-camenzind"
+            ],
+            "topics": [
+                "customer-experience",
+                "governance",
+                "human-centered-design",
+                "information-collection",
+                "policy",
+                "trust"
+            ],
+            "filename": "requirements-for-transforming-federal-customer-experience-and-service-delivery.md",
+            "filepath": "resources/requirements-for-transforming-federal-customer-experience-and-service-delivery.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery.md",
+            "slug": "requirements-for-transforming-federal-customer-experience-and-service-delivery",
+            "url": "http://localhost:1313/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/"
+        },
         {
             "title": "An introduction to federal website standards",
             "deck": "Understand how and why to use the federal website standards",
@@ -31,7 +55,7 @@
             "filepath": "resources/introduction-to-federal-web-standards.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-federal-web-standards.md",
             "slug": "introduction-to-federal-web-standards",
-            "url": "http://localhost:1313/resources/introduction-to-federal-web-standards/",
+            "url": "http://localhost:1313/resources/introduction-to-federal-web-standards/"
         },
         {
             "title": "Hurricane Milton guidance for U.S. government websites and social media",
@@ -59,7 +83,7 @@
                 "https://digital.gov/hurricane-milton/"
             ],
             "slug": "hurricane-milton-guidance-for-us-government",
-            "url": "http://localhost:1313/resources/hurricane-milton-guidance-for-us-government/",
+            "url": "http://localhost:1313/resources/hurricane-milton-guidance-for-us-government/"
         },
         {
             "title": "An introduction to multilingual glossaries",
@@ -77,7 +101,7 @@
             "filepath": "resources/introduction-to-multilingual-glossaries.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-multilingual-glossaries.md",
             "slug": "introduction-to-multilingual-glossaries",
-            "url": "http://localhost:1313/resources/introduction-to-multilingual-glossaries/",
+            "url": "http://localhost:1313/resources/introduction-to-multilingual-glossaries/"
         },
         {
             "title": "Hurricane Helene guidance for U.S. government websites and social media",
@@ -105,7 +129,7 @@
                 "https://digital.gov/hurricane-helene/"
             ],
             "slug": "hurricane-helene-guidance-for-us-government",
-            "url": "http://localhost:1313/resources/hurricane-helene-guidance-for-us-government/",
+            "url": "http://localhost:1313/resources/hurricane-helene-guidance-for-us-government/"
         },
         {
             "title": "How to conduct a project reflection",
@@ -127,7 +151,7 @@
                 "https://digital.gov/resources/service-delivery-project-reflection/"
             ],
             "slug": "how-to-conduct-a-project-reflection",
-            "url": "http://localhost:1313/resources/how-to-conduct-a-project-reflection/",
+            "url": "http://localhost:1313/resources/how-to-conduct-a-project-reflection/"
         },
         {
             "title": "How to transition a team off of a project",
@@ -149,7 +173,7 @@
                 "https://digital.gov/resources/service-delivery-transition-plan/"
             ],
             "slug": "how-to-transition-a-team-off-of-a-project",
-            "url": "http://localhost:1313/resources/how-to-transition-a-team-off-of-a-project/",
+            "url": "http://localhost:1313/resources/how-to-transition-a-team-off-of-a-project/"
         },
         {
             "title": "Requirements for strengthening the federal government's commitment to digital accessibility",
@@ -171,7 +195,7 @@
             "filepath": "resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility.md",
             "slug": "requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility",
-            "url": "http://localhost:1313/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/",
+            "url": "http://localhost:1313/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/"
         },
         {
             "title": "An introduction to customer experience",
@@ -189,7 +213,7 @@
             "filepath": "resources/an-introduction-to-customer-experience.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-customer-experience.md",
             "slug": "an-introduction-to-customer-experience",
-            "url": "http://localhost:1313/resources/an-introduction-to-customer-experience/",
+            "url": "http://localhost:1313/resources/an-introduction-to-customer-experience/"
         },
         {
             "title": "Requirements for the registration and use of .gov domains in the federal government",
@@ -210,7 +234,7 @@
             "filepath": "resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government.md",
             "slug": "requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government",
-            "url": "http://localhost:1313/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/",
+            "url": "http://localhost:1313/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/"
         },
         {
             "title": "Requirements for improving access to services for people with limited English proficiency (LEP)",
@@ -236,7 +260,7 @@
                 "https://digital.gov/resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/"
             ],
             "slug": "requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep",
-            "url": "http://localhost:1313/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/",
+            "url": "http://localhost:1313/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/"
         },
         {
             "title": "An introduction to the Digital Experience Council",
@@ -260,7 +284,7 @@
                 "https://digital.gov/resources/federal-web-council/"
             ],
             "slug": "an-introduction-to-the-digital-experience-council",
-            "url": "http://localhost:1313/resources/an-introduction-to-the-digital-experience-council/",
+            "url": "http://localhost:1313/resources/an-introduction-to-the-digital-experience-council/"
         },
         {
             "title": "Social media cyber-vandalism toolkit",
@@ -283,7 +307,7 @@
                 "https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/"
             ],
             "slug": "prepare-recovery-respond-social-media-cyber-vandalism-toolkit",
-            "url": "http://localhost:1313/resources/prepare-recovery-respond-social-media-cyber-vandalism-toolkit/",
+            "url": "http://localhost:1313/resources/prepare-recovery-respond-social-media-cyber-vandalism-toolkit/"
         },
         {
             "title": "Requirements for improving the management of federal programs and projects",
@@ -301,7 +325,7 @@
             "filepath": "resources/requirements-for-improving-the-management-of-federal-programs-and-projects.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-improving-the-management-of-federal-programs-and-projects.md",
             "slug": "requirements-for-improving-the-management-of-federal-programs-and-projects",
-            "url": "http://localhost:1313/resources/requirements-for-improving-the-management-of-federal-programs-and-projects/",
+            "url": "http://localhost:1313/resources/requirements-for-improving-the-management-of-federal-programs-and-projects/"
         },
         {
             "title": "An introduction to working with social media influencers",
@@ -321,7 +345,7 @@
             "filepath": "resources/an-introduction-to-working-with-social-media-influencers.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-working-with-social-media-influencers.md",
             "slug": "an-introduction-to-working-with-social-media-influencers",
-            "url": "http://localhost:1313/resources/an-introduction-to-working-with-social-media-influencers/",
+            "url": "http://localhost:1313/resources/an-introduction-to-working-with-social-media-influencers/"
         },
         {
             "title": "An introduction to content",
@@ -339,7 +363,7 @@
             "filepath": "resources/an-introduction-to-content.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-content.md",
             "slug": "an-introduction-to-content",
-            "url": "http://localhost:1313/resources/an-introduction-to-content/",
+            "url": "http://localhost:1313/resources/an-introduction-to-content/"
         },
         {
             "title": "An introduction to inclusion",
@@ -360,7 +384,7 @@
             "filepath": "resources/an-introduction-to-inclusion.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-inclusion.md",
             "slug": "an-introduction-to-inclusion",
-            "url": "http://localhost:1313/resources/an-introduction-to-inclusion/",
+            "url": "http://localhost:1313/resources/an-introduction-to-inclusion/"
         },
         {
             "title": "An introduction to web security",
@@ -378,7 +402,7 @@
             "filepath": "resources/an-introduction-to-security.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-security.md",
             "slug": "an-introduction-to-security",
-            "url": "http://localhost:1313/resources/an-introduction-to-security/",
+            "url": "http://localhost:1313/resources/an-introduction-to-security/"
         },
         {
             "title": "An introduction to privacy",
@@ -400,14 +424,14 @@
             "filepath": "resources/an-introduction-to-privacy.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-privacy.md",
             "slug": "an-introduction-to-privacy",
-            "url": "http://localhost:1313/resources/an-introduction-to-privacy/",
+            "url": "http://localhost:1313/resources/an-introduction-to-privacy/"
         },
         {
             "title": "An introduction to analytics",
             "deck": "Use metrics and data to understand how people use your website",
             "summary": "Learn how to set performance goals, and identify specific KPIs and targets to measure and meet them, using web analytics.",
             "date": "2023-11-24T14:50:00-0500",
-            "date_modified": "2024-04-08T12:55:51-04:00",
+            "date_modified": "2024-12-12T17:00:33-05:00",
             "weight": "1",
             "authors": [
                 "rflagg"
@@ -421,7 +445,7 @@
             "filepath": "resources/an-introduction-to-analytics.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-analytics.md",
             "slug": "an-introduction-to-analytics",
-            "url": "http://localhost:1313/resources/an-introduction-to-analytics/",
+            "url": "http://localhost:1313/resources/an-introduction-to-analytics/"
         },
         {
             "title": "An introduction to structured content",
@@ -440,7 +464,7 @@
                 "https://digital.gov/2013/07/29/how-to-create-open-structured-content/"
             ],
             "slug": "an-introduction-to-structured-content",
-            "url": "http://localhost:1313/resources/an-introduction-to-structured-content/",
+            "url": "http://localhost:1313/resources/an-introduction-to-structured-content/"
         },
         {
             "title": "An introduction to ATOs",
@@ -462,7 +486,7 @@
             "filepath": "resources/an-introduction-to-ato.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-ato.md",
             "slug": "an-introduction-to-ato",
-            "url": "http://localhost:1313/resources/an-introduction-to-ato/",
+            "url": "http://localhost:1313/resources/an-introduction-to-ato/"
         },
         {
             "title": "An introduction to security and privacy controls",
@@ -483,7 +507,7 @@
             "filepath": "resources/an-introduction-to-security-and-privacy-controls.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-security-and-privacy-controls.md",
             "slug": "an-introduction-to-security-and-privacy-controls",
-            "url": "http://localhost:1313/resources/an-introduction-to-security-and-privacy-controls/",
+            "url": "http://localhost:1313/resources/an-introduction-to-security-and-privacy-controls/"
         },
         {
             "title": "An introduction to trust",
@@ -503,7 +527,7 @@
             "filepath": "resources/an-introduction-to-trust.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-trust.md",
             "slug": "an-introduction-to-trust",
-            "url": "http://localhost:1313/resources/an-introduction-to-trust/",
+            "url": "http://localhost:1313/resources/an-introduction-to-trust/"
         },
         {
             "title": "An introduction to design",
@@ -519,7 +543,7 @@
             "filepath": "resources/an-introduction-to-design.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-design.md",
             "slug": "an-introduction-to-design",
-            "url": "http://localhost:1313/resources/an-introduction-to-design/",
+            "url": "http://localhost:1313/resources/an-introduction-to-design/"
         },
         {
             "title": "An introduction to pronouns",
@@ -541,7 +565,7 @@
             "filepath": "resources/an-introduction-to-pronouns.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-pronouns.md",
             "slug": "an-introduction-to-pronouns",
-            "url": "http://localhost:1313/resources/an-introduction-to-pronouns/",
+            "url": "http://localhost:1313/resources/an-introduction-to-pronouns/"
         },
         {
             "title": "Introduction to translation technology",
@@ -567,7 +591,7 @@
                 "https://digital.gov/2018/12/20/designing-for-translation/"
             ],
             "slug": "introduction-to-translation-technology",
-            "url": "http://localhost:1313/resources/introduction-to-translation-technology/",
+            "url": "http://localhost:1313/resources/introduction-to-translation-technology/"
         },
         {
             "title": "An introduction to plain language",
@@ -584,7 +608,7 @@
             "filepath": "resources/an-introduction-to-plain-language.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-plain-language.md",
             "slug": "an-introduction-to-plain-language",
-            "url": "http://localhost:1313/resources/an-introduction-to-plain-language/",
+            "url": "http://localhost:1313/resources/an-introduction-to-plain-language/"
         },
         {
             "title": "How to start and sustain a federal podcast",
@@ -604,7 +628,7 @@
             "filepath": "resources/how-to-start-and-sustain-a-federal-podcast.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-start-and-sustain-a-federal-podcast.md",
             "slug": "how-to-start-and-sustain-a-federal-podcast",
-            "url": "http://localhost:1313/resources/how-to-start-and-sustain-a-federal-podcast/",
+            "url": "http://localhost:1313/resources/how-to-start-and-sustain-a-federal-podcast/"
         },
         {
             "title": "An introduction to design systems",
@@ -622,7 +646,7 @@
             "filepath": "resources/introduction-to-design-systems.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-design-systems.md",
             "slug": "introduction-to-design-systems",
-            "url": "http://localhost:1313/resources/introduction-to-design-systems/",
+            "url": "http://localhost:1313/resources/introduction-to-design-systems/"
         },
         {
             "title": "Introduction to QR codes",
@@ -647,7 +671,7 @@
                 "https://digital.gov/2013/02/14/qr-codes/"
             ],
             "slug": "introduction-to-qr-codes",
-            "url": "http://localhost:1313/resources/introduction-to-qr-codes/",
+            "url": "http://localhost:1313/resources/introduction-to-qr-codes/"
         },
         {
             "title": "Introduction to self-description",
@@ -666,7 +690,7 @@
             "filepath": "resources/introduction-to-self-description.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-self-description.md",
             "slug": "introduction-to-self-description",
-            "url": "http://localhost:1313/resources/introduction-to-self-description/",
+            "url": "http://localhost:1313/resources/introduction-to-self-description/"
         },
         {
             "title": "Embedding Equity in Civic Design to Transform Customer Experience",
@@ -692,7 +716,7 @@
             "filepath": "resources/embedding-equity-in-civic-design-to-transform-customer-experience.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/embedding-equity-in-civic-design-to-transform-customer-experience.md",
             "slug": "embedding-equity-in-civic-design-to-transform-customer-experience",
-            "url": "http://localhost:1313/resources/embedding-equity-in-civic-design-to-transform-customer-experience/",
+            "url": "http://localhost:1313/resources/embedding-equity-in-civic-design-to-transform-customer-experience/"
         },
         {
             "title": "Lessons from the 2021 Federal Plain Language Report Card",
@@ -718,7 +742,7 @@
             "filepath": "resources/lessons-from-the-2021-federal-plain-language-report-card.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/lessons-from-the-2021-federal-plain-language-report-card.md",
             "slug": "lessons-from-the-2021-federal-plain-language-report-card",
-            "url": "http://localhost:1313/resources/lessons-from-the-2021-federal-plain-language-report-card/",
+            "url": "http://localhost:1313/resources/lessons-from-the-2021-federal-plain-language-report-card/"
         },
         {
             "title": "Multilingual Huddle: Designing for Translation",
@@ -740,7 +764,7 @@
             "filepath": "resources/multilingual-huddle-designing-for-translation.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/multilingual-huddle-designing-for-translation.md",
             "slug": "multilingual-huddle-designing-for-translation",
-            "url": "http://localhost:1313/resources/multilingual-huddle-designing-for-translation/",
+            "url": "http://localhost:1313/resources/multilingual-huddle-designing-for-translation/"
         },
         {
             "title": "How to Present Like a Pro",
@@ -763,7 +787,7 @@
             "filepath": "resources/how-to-present-like-a-pro.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-present-like-a-pro.md",
             "slug": "how-to-present-like-a-pro",
-            "url": "http://localhost:1313/resources/how-to-present-like-a-pro/",
+            "url": "http://localhost:1313/resources/how-to-present-like-a-pro/"
         },
         {
             "title": "How to Build an Analytics Strategy",
@@ -786,7 +810,27 @@
             "filepath": "resources/how-to-build-an-analytics-strategy.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-build-an-analytics-strategy.md",
             "slug": "how-to-build-an-analytics-strategy",
-            "url": "http://localhost:1313/resources/how-to-build-an-analytics-strategy/",
+            "url": "http://localhost:1313/resources/how-to-build-an-analytics-strategy/"
+        },
+        {
+            "title": "Deceptive Design: How to Identify and Combat Consequence Design",
+            "deck": "",
+            "summary": "Consequence design is part of everyday life. Techniques like “deceptive patterns” and “hostile design” trick people into taking unintended actions — learn how to prevent them from sneaking into our design work.",
+            "date": "2020-12-01T14:10:00-0500",
+            "date_modified": "2024-12-17T10:20:09-05:00",
+            "weight": "1",
+            "authors": [
+                "ron-bronson"
+            ],
+            "topics": [
+                "design",
+                "user-experience"
+            ],
+            "filename": "deceptive-design-how-to-identify-and-combat-consequence-design.md",
+            "filepath": "resources/deceptive-design-how-to-identify-and-combat-consequence-design.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/deceptive-design-how-to-identify-and-combat-consequence-design.md",
+            "slug": "deceptive-design-how-to-identify-and-combat-consequence-design",
+            "url": "http://localhost:1313/resources/deceptive-design-how-to-identify-and-combat-consequence-design/"
         },
         {
             "title": "Privacy-Preserving Collaboration Using Cryptography",
@@ -805,7 +849,7 @@
             "filepath": "resources/privacy-preserving-collaboration-using-cryptography.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/privacy-preserving-collaboration-using-cryptography.md",
             "slug": "privacy-preserving-collaboration-using-cryptography",
-            "url": "http://localhost:1313/resources/privacy-preserving-collaboration-using-cryptography/",
+            "url": "http://localhost:1313/resources/privacy-preserving-collaboration-using-cryptography/"
         },
         {
             "title": "How to Test Websites for Accessibility",
@@ -826,7 +870,7 @@
             "filepath": "resources/how-test-websites-for-accessibility.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-test-websites-for-accessibility.md",
             "slug": "how-test-websites-for-accessibility",
-            "url": "http://localhost:1313/resources/how-test-websites-for-accessibility/",
+            "url": "http://localhost:1313/resources/how-test-websites-for-accessibility/"
         },
         {
             "title": "Federal-Compatible Terms of Service Agreements",
@@ -845,7 +889,7 @@
                 "https://digital.gov/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/",
                 "https://digital.gov/resources/antideficiency-act-implications-of-rtain-online-terms-of-service-agreements/"
             ],
-            "url": "http://localhost:1313/resources/federal-compatible-terms-of-service-agreements/",
+            "url": "http://localhost:1313/resources/federal-compatible-terms-of-service-agreements/"
         },
         {
             "title": "Content Management Systems Used by Government Agencies",
@@ -860,7 +904,7 @@
             "filepath": "resources/content-management-systems-used-by-government-agencies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/content-management-systems-used-by-government-agencies.md",
             "slug": "content-management-systems-used-by-government-agencies",
-            "url": "http://localhost:1313/resources/content-management-systems-used-by-government-agencies/",
+            "url": "http://localhost:1313/resources/content-management-systems-used-by-government-agencies/"
         },
         {
             "title": "An introduction to accessibility",
@@ -882,7 +926,7 @@
             "filepath": "resources/an-introduction-to-accessibility.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-accessibility.md",
             "slug": "an-introduction-to-accessibility",
-            "url": "http://localhost:1313/resources/an-introduction-to-accessibility/",
+            "url": "http://localhost:1313/resources/an-introduction-to-accessibility/"
         },
         {
             "title": "M-19-17 Enabling Mission Delivery through Improved Identity, Credential, and Access Management",
@@ -898,7 +942,7 @@
             "filepath": "resources/m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management.md",
             "slug": "m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management",
-            "url": "http://localhost:1313/resources/m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management/",
+            "url": "http://localhost:1313/resources/m-19-17-enabling-mission-delivery-through-improved-identity-credential-and-access-management/"
         },
         {
             "title": "Guidelines for Digital.gov event presenters",
@@ -919,7 +963,7 @@
             "filepath": "resources/guidelines-for-digital-gov-event-presenters.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-for-digital-gov-event-presenters.md",
             "slug": "guidelines-for-digital-gov-event-presenters",
-            "url": "http://localhost:1313/resources/guidelines-for-digital-gov-event-presenters/",
+            "url": "http://localhost:1313/resources/guidelines-for-digital-gov-event-presenters/"
         },
         {
             "title": "An introduction to GitHub",
@@ -935,7 +979,7 @@
             "filepath": "resources/an-introduction-github.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-github.md",
             "slug": "an-introduction-github",
-            "url": "http://localhost:1313/resources/an-introduction-github/",
+            "url": "http://localhost:1313/resources/an-introduction-github/"
         },
         {
             "title": "An advanced approach to accessibility",
@@ -967,7 +1011,7 @@
                 "https://digital.gov/resources/advanced-accessibility/"
             ],
             "slug": "an-advanced-approach-to-accessibility",
-            "url": "http://localhost:1313/resources/an-advanced-approach-to-accessibility/",
+            "url": "http://localhost:1313/resources/an-advanced-approach-to-accessibility/"
         },
         {
             "title": "Guide to the Paperwork Reduction Act",
@@ -989,7 +1033,7 @@
             "filepath": "resources/guide-paperwork-reduction-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guide-paperwork-reduction-act.md",
             "slug": "guide-paperwork-reduction-act",
-            "url": "http://localhost:1313/resources/guide-paperwork-reduction-act/",
+            "url": "http://localhost:1313/resources/guide-paperwork-reduction-act/"
         },
         {
             "title": "OMB Memos, Circulars, Executive Orders and Other Policies",
@@ -1004,7 +1048,7 @@
             "filepath": "resources/omb-memos-circulars-executive-orders-and-other-policies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/omb-memos-circulars-executive-orders-and-other-policies.md",
             "slug": "omb-memos-circulars-executive-orders-and-other-policies",
-            "url": "http://localhost:1313/resources/omb-memos-circulars-executive-orders-and-other-policies/",
+            "url": "http://localhost:1313/resources/omb-memos-circulars-executive-orders-and-other-policies/"
         },
         {
             "title": "Customer Experience Toolkit",
@@ -1023,14 +1067,14 @@
             "filepath": "resources/customer-experience-toolkit.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/customer-experience-toolkit.md",
             "slug": "customer-experience-toolkit",
-            "url": "http://localhost:1313/resources/customer-experience-toolkit/",
+            "url": "http://localhost:1313/resources/customer-experience-toolkit/"
         },
         {
             "title": "Bilingual Glossaries, Dictionaries, and Style Guides",
             "deck": "Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.",
             "summary": "Multilingual resources to standardize the use of various languages across government.",
             "date": "2014-06-11T09:55:00-0500",
-            "date_modified": "2024-10-21T14:03:48-05:00",
+            "date_modified": "2024-12-13T17:19:18-05:00",
             "weight": "2",
             "authors": [
                 "lgodfrey",
@@ -1049,7 +1093,7 @@
                 "https://digital.gov/resources/spanish-language-style-guide-and-glossaries/"
             ],
             "slug": "bilingual-glossaries-dictionaries-style-guides",
-            "url": "http://localhost:1313/resources/bilingual-glossaries-dictionaries-style-guides/",
+            "url": "http://localhost:1313/resources/bilingual-glossaries-dictionaries-style-guides/"
         },
         {
             "title": "Checklist of requirements for federal websites and digital services",
@@ -1078,7 +1122,7 @@
                 "https://digital.gov/resources/policies-for-federal-agency-public-websites-m-05-04/"
             ],
             "slug": "checklist-of-requirements-for-federal-digital-services",
-            "url": "http://localhost:1313/resources/checklist-of-requirements-for-federal-digital-services/",
+            "url": "http://localhost:1313/resources/checklist-of-requirements-for-federal-digital-services/"
         },
         {
             "title": "Required web content and links",
@@ -1103,7 +1147,7 @@
             "filename": "required-web-content-and-links.md",
             "filepath": "resources/required-web-content-and-links.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/required-web-content-and-links.md",
-            "url": "http://localhost:1313/resources/required-web-content-and-links/",
+            "url": "http://localhost:1313/resources/required-web-content-and-links/"
         },
         {
             "title": "An introduction to digital governance",
@@ -1114,14 +1158,13 @@
             "weight": "6",
             "topics": [
                 "digital-service-delivery",
-                "digital-service-delivery",
                 "governance"
             ],
             "filename": "an-introduction-to-digital-governance.md",
             "filepath": "resources/an-introduction-to-digital-governance.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-digital-governance.md",
             "slug": "an-introduction-to-digital-governance",
-            "url": "http://localhost:1313/resources/an-introduction-to-digital-governance/",
+            "url": "http://localhost:1313/resources/an-introduction-to-digital-governance/"
         },
         {
             "title": "An introduction to search",
@@ -1138,7 +1181,7 @@
             "filepath": "resources/an-introduction-to-search.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-search.md",
             "slug": "an-introduction-to-search",
-            "url": "http://localhost:1313/resources/an-introduction-to-search/",
+            "url": "http://localhost:1313/resources/an-introduction-to-search/"
         },
         {
             "title": "An introduction to domain management",
@@ -1156,7 +1199,7 @@
             "filepath": "resources/an-introduction-to-domain-management.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/an-introduction-to-domain-management.md",
             "slug": "an-introduction-to-domain-management",
-            "url": "http://localhost:1313/resources/an-introduction-to-domain-management/",
+            "url": "http://localhost:1313/resources/an-introduction-to-domain-management/"
         },
         {
             "title": "Requirements for delivering a digital-first public experience",
@@ -1193,7 +1236,7 @@
                 "https://digital.gov/resources/nara-guidance-on-managing-social-media-records/"
             ],
             "slug": "delivering-digital-first-public-experience",
-            "url": "http://localhost:1313/resources/delivering-digital-first-public-experience/",
+            "url": "http://localhost:1313/resources/delivering-digital-first-public-experience/"
         },
         {
             "title": "M-23-07, Update to Transition to Electronic Records",
@@ -1211,7 +1254,7 @@
             "filepath": "resources/m-23-07-update-to-transition-to-electronic-records.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-23-07-update-to-transition-to-electronic-records.md",
             "slug": "m-23-07-update-to-transition-to-electronic-records.md",
-            "url": "http://localhost:1313/resources/m-23-07-update-to-transition-to-electronic-records.md/",
+            "url": "http://localhost:1313/resources/m-23-07-update-to-transition-to-electronic-records.md/"
         },
         {
             "title": "Best Practices for Writing for the Accessible Web",
@@ -1234,7 +1277,7 @@
                 "https://digital.gov/resources/best-practices-for-writing-for-accessible/"
             ],
             "slug": "best-practices-writing-for-accessible-web",
-            "url": "http://localhost:1313/resources/best-practices-writing-for-accessible-web/",
+            "url": "http://localhost:1313/resources/best-practices-writing-for-accessible-web/"
         },
         {
             "title": "How to Prevent Security Certificates From Expiring During a Lapse in Operations",
@@ -1248,7 +1291,7 @@
             "filepath": "resources/how-to-prevent-security-certificates-from-expiring-during-shutdown.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-prevent-security-certificates-from-expiring-during-shutdown.md",
             "slug": "how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations",
-            "url": "http://localhost:1313/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/",
+            "url": "http://localhost:1313/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/"
         },
         {
             "title": "Mobile Development Strategies",
@@ -1264,7 +1307,7 @@
             "filepath": "resources/mobile-development-strategies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/mobile-development-strategies.md",
             "slug": "mobile-development-strategies",
-            "url": "http://localhost:1313/resources/mobile-development-strategies/",
+            "url": "http://localhost:1313/resources/mobile-development-strategies/"
         },
         {
             "title": "A Guide to Creating Mobile-Friendly Websites",
@@ -1281,7 +1324,7 @@
             "filepath": "resources/guide-create-mobile-friendly-websites.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guide-create-mobile-friendly-websites.md",
             "slug": "guide-create-mobile-friendly-websites",
-            "url": "http://localhost:1313/resources/guide-create-mobile-friendly-websites/",
+            "url": "http://localhost:1313/resources/guide-create-mobile-friendly-websites/"
         },
         {
             "title": "Connected Government Act",
@@ -1299,7 +1342,7 @@
             "filepath": "resources/connected-government-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/connected-government-act.md",
             "slug": "connected-government-act",
-            "url": "http://localhost:1313/resources/connected-government-act/",
+            "url": "http://localhost:1313/resources/connected-government-act/"
         },
         {
             "title": "Digital Governance Policy Outline",
@@ -1313,13 +1356,13 @@
             "filepath": "resources/digital-governance-policies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digital-governance-policies.md",
             "slug": "digital-governance-policies",
-            "url": "http://localhost:1313/resources/digital-governance-policies/",
+            "url": "http://localhost:1313/resources/digital-governance-policies/"
         },
         {
             "title": "Style Guides by Government Agencies",
             "summary": "This page is a collection of style guides created by government agencies.",
             "date": "2017-05-23T03:43:08-0500",
-            "date_modified": "2024-08-21T14:43:39-04:00",
+            "date_modified": "2024-12-13T16:27:42-05:00",
             "topics": [
                 "communication",
                 "content-strategy",
@@ -1329,7 +1372,7 @@
             "filepath": "resources/style-guides-by-government-agencies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/style-guides-by-government-agencies.md",
             "slug": "style-guides-by-government-agencies",
-            "url": "http://localhost:1313/resources/style-guides-by-government-agencies/",
+            "url": "http://localhost:1313/resources/style-guides-by-government-agencies/"
         },
         {
             "title": "Top 10 Best Practices for Multilingual Websites",
@@ -1352,10 +1395,10 @@
                 "https://digital.gov/2012/08/12/top-10-best-practices-for-multilingual-websites/"
             ],
             "slug": "top-10-best-practices-for-multilingual-websites",
-            "url": "http://localhost:1313/resources/top-10-best-practices-for-multilingual-websites/",
+            "url": "http://localhost:1313/resources/top-10-best-practices-for-multilingual-websites/"
         },
         {
-            "title": "Government Customer Service Policies \u0026 Requirements: 1993 to Present",
+            "title": "Government Customer Service Policies & Requirements: 1993 to Present",
             "summary": "A list of government customer service policies and requirements.",
             "date": "2016-01-07T05:41:53-0500",
             "date_modified": "2024-04-05T20:44:40-04:00",
@@ -1370,7 +1413,7 @@
             "filepath": "resources/government-customer-service-policies-requirements-1993-to-present.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/government-customer-service-policies-requirements-1993-to-present.md",
             "slug": "government-customer-service-policies-requirements-1993-to-present",
-            "url": "http://localhost:1313/resources/government-customer-service-policies-requirements-1993-to-present/",
+            "url": "http://localhost:1313/resources/government-customer-service-policies-requirements-1993-to-present/"
         },
         {
             "title": "Implementation of the Government Paperwork Elimination Act",
@@ -1387,7 +1430,7 @@
             "filepath": "resources/implementation-of-the-government-paperwork-elimination-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/implementation-of-the-government-paperwork-elimination-act.md",
             "slug": "implementation-of-the-government-paperwork-elimination-act",
-            "url": "http://localhost:1313/resources/implementation-of-the-government-paperwork-elimination-act/",
+            "url": "http://localhost:1313/resources/implementation-of-the-government-paperwork-elimination-act/"
         },
         {
             "title": "2012 Digital Government Strategy",
@@ -1404,7 +1447,7 @@
             "filepath": "resources/2012-digital-government-strategy-2.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/2012-digital-government-strategy-2.md",
             "slug": "2012-digital-government-strategy-2",
-            "url": "http://localhost:1313/resources/2012-digital-government-strategy-2/",
+            "url": "http://localhost:1313/resources/2012-digital-government-strategy-2/"
         },
         {
             "title": "Requirements for Accepting Externally Issued Identity Credentials",
@@ -1421,7 +1464,7 @@
             "filepath": "resources/requirements-for-accepting-externally-issued-identity-credentials.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/requirements-for-accepting-externally-issued-identity-credentials.md",
             "slug": "requirements-for-accepting-externally-issued-identity-credentials",
-            "url": "http://localhost:1313/resources/requirements-for-accepting-externally-issued-identity-credentials/",
+            "url": "http://localhost:1313/resources/requirements-for-accepting-externally-issued-identity-credentials/"
         },
         {
             "title": "OMB Final Guidance on Implementing the Plain Writing Act of 2010 (M-11-15)",
@@ -1439,7 +1482,7 @@
             "filepath": "resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15.md",
             "slug": "omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15",
-            "url": "http://localhost:1313/resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15/",
+            "url": "http://localhost:1313/resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15/"
         },
         {
             "title": "OMB Memo on Testing and Simplifying Federal Forms",
@@ -1456,7 +1499,7 @@
             "filepath": "resources/omb-memo-on-testing-and-simplifying-federal-forms.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/omb-memo-on-testing-and-simplifying-federal-forms.md",
             "slug": "omb-memo-on-testing-and-simplifying-federal-forms",
-            "url": "http://localhost:1313/resources/omb-memo-on-testing-and-simplifying-federal-forms/",
+            "url": "http://localhost:1313/resources/omb-memo-on-testing-and-simplifying-federal-forms/"
         },
         {
             "title": "Open Data Policy (M-13-13)",
@@ -1477,7 +1520,7 @@
                 "https://digital.gov/open-data-policy-m-13-13/"
             ],
             "slug": "open-data-policy-m-13-13",
-            "url": "http://localhost:1313/resources/open-data-policy-m-13-13/",
+            "url": "http://localhost:1313/resources/open-data-policy-m-13-13/"
         },
         {
             "title": "Making Open and Machine Readable the New Default for Government Information",
@@ -1494,7 +1537,7 @@
             "filepath": "resources/making-open-and-machine-readable-the-new-default-for-government-information.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/making-open-and-machine-readable-the-new-default-for-government-information.md",
             "slug": "making-open-and-machine-readable-the-new-default-for-government-information",
-            "url": "http://localhost:1313/resources/making-open-and-machine-readable-the-new-default-for-government-information/",
+            "url": "http://localhost:1313/resources/making-open-and-machine-readable-the-new-default-for-government-information/"
         },
         {
             "title": "Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002 (M-03–22)",
@@ -1512,7 +1555,7 @@
             "filepath": "resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22.md",
             "slug": "guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22",
-            "url": "http://localhost:1313/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/",
+            "url": "http://localhost:1313/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/"
         },
         {
             "title": "GOV Domain Registration Process Final Rule",
@@ -1529,7 +1572,7 @@
             "filepath": "resources/gov-domain-registration-process-final-rule.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/gov-domain-registration-process-final-rule.md",
             "slug": "gov-domain-registration-process-final-rule",
-            "url": "http://localhost:1313/resources/gov-domain-registration-process-final-rule/",
+            "url": "http://localhost:1313/resources/gov-domain-registration-process-final-rule/"
         },
         {
             "title": "Digital Millennium Copyright Act",
@@ -1546,7 +1589,7 @@
             "filepath": "resources/digital-millennium-copyright-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digital-millennium-copyright-act.md",
             "slug": "digital-millennium-copyright-act",
-            "url": "http://localhost:1313/resources/digital-millennium-copyright-act/",
+            "url": "http://localhost:1313/resources/digital-millennium-copyright-act/"
         },
         {
             "title": "U.S. Trademark Law",
@@ -1563,7 +1606,7 @@
             "filepath": "resources/u-s-trademark-law.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/u-s-trademark-law.md",
             "slug": "u-s-trademark-law",
-            "url": "http://localhost:1313/resources/u-s-trademark-law/",
+            "url": "http://localhost:1313/resources/u-s-trademark-law/"
         },
         {
             "title": "Paperwork Reduction Act (44 U.S.C. 3501 et seq.)",
@@ -1581,7 +1624,7 @@
             "filepath": "resources/paperwork-reduction-act-44-u-s-c-3501-et-seq.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq.md",
             "slug": "paperwork-reduction-act-44-u-s-c-3501-et-seq",
-            "url": "http://localhost:1313/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/",
+            "url": "http://localhost:1313/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/"
         },
         {
             "title": "Guidance on the Use of Challenges and Prizes to Promote Open Government",
@@ -1599,7 +1642,7 @@
             "filepath": "resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government.md",
             "slug": "guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government",
-            "url": "http://localhost:1313/resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government/",
+            "url": "http://localhost:1313/resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government/"
         },
         {
             "title": "Circular A-130 Revised",
@@ -1612,7 +1655,7 @@
             "filename": "circular-a-130-revised.md",
             "filepath": "resources/circular-a-130-revised.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/circular-a-130-revised.md",
-            "url": "http://localhost:1313/circular-a-130-revised/",
+            "url": "http://localhost:1313/circular-a-130-revised/"
         },
         {
             "title": "Quick Reference to Web Content Accessibility Guidelines 2.0 requirements",
@@ -1632,7 +1675,7 @@
                 "https://digital.gov/quick-reference-to-web-content-accessibility-guidelines-2-0-requirements"
             ],
             "slug": "quick-reference-to-web-content-accessibility-guidelines-2-0-requirements",
-            "url": "http://localhost:1313/resources/quick-reference-to-web-content-accessibility-guidelines-2-0-requirements/",
+            "url": "http://localhost:1313/resources/quick-reference-to-web-content-accessibility-guidelines-2-0-requirements/"
         },
         {
             "title": "Guidelines for Secure Use of Social Media",
@@ -1649,10 +1692,10 @@
             "filepath": "resources/guidelines-for-secure-use-of-social-media.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-for-secure-use-of-social-media.md",
             "slug": "guidelines-for-secure-use-of-social-media",
-            "url": "http://localhost:1313/resources/guidelines-for-secure-use-of-social-media/",
+            "url": "http://localhost:1313/resources/guidelines-for-secure-use-of-social-media/"
         },
         {
-            "title": "Federal Information Security Management Act of 2002 \u0026#8211; Presentation to the 2003 FISSEA Conference",
+            "title": "Federal Information Security Management Act of 2002 &#8211; Presentation to the 2003 FISSEA Conference",
             "summary": "The head of the agency delegates to the CIO a number of information security responsibilities. The CIO in turn designates a senior agency information security officer.",
             "date": "2015-11-23T04:31:09-0500",
             "date_modified": "2024-04-05T20:44:40-04:00",
@@ -1667,7 +1710,7 @@
             "filepath": "resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference.md",
             "slug": "federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference",
-            "url": "http://localhost:1313/resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference/",
+            "url": "http://localhost:1313/resources/federal-information-security-management-act-of-2002-presentation-to-the-2003-fissea-conference/"
         },
         {
             "title": "Guidelines on Securing Public Web Servers",
@@ -1684,7 +1727,7 @@
             "filepath": "resources/guidelines-on-securing-public-web-servers.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-on-securing-public-web-servers.md",
             "slug": "guidelines-on-securing-public-web-servers",
-            "url": "http://localhost:1313/resources/guidelines-on-securing-public-web-servers/",
+            "url": "http://localhost:1313/resources/guidelines-on-securing-public-web-servers/"
         },
         {
             "title": "FY 2004 Reporting Instructions for the Federal Information Security Management Act",
@@ -1701,7 +1744,7 @@
             "filepath": "resources/fy-2004-reporting-instructions-for-the-federal-information-security-management-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/fy-2004-reporting-instructions-for-the-federal-information-security-management-act.md",
             "slug": "fy-2004-reporting-instructions-for-the-federal-information-security-management-act",
-            "url": "http://localhost:1313/resources/fy-2004-reporting-instructions-for-the-federal-information-security-management-act/",
+            "url": "http://localhost:1313/resources/fy-2004-reporting-instructions-for-the-federal-information-security-management-act/"
         },
         {
             "title": "NARA guidance on Managing Web Records",
@@ -1719,7 +1762,7 @@
             "filepath": "resources/nara-guidance-on-managing-web-records.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/nara-guidance-on-managing-web-records.md",
             "slug": "nara-guidance-on-managing-web-records",
-            "url": "http://localhost:1313/resources/nara-guidance-on-managing-web-records/",
+            "url": "http://localhost:1313/resources/nara-guidance-on-managing-web-records/"
         },
         {
             "title": "Code of Federal Regulations (CFR), Parts 1220-1238",
@@ -1736,10 +1779,10 @@
             "filepath": "resources/code-of-federal-regulations-cfr-parts-1220-1238.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/code-of-federal-regulations-cfr-parts-1220-1238.md",
             "slug": "code-of-federal-regulations-cfr-parts-1220-1238",
-            "url": "http://localhost:1313/resources/code-of-federal-regulations-cfr-parts-1220-1238/",
+            "url": "http://localhost:1313/resources/code-of-federal-regulations-cfr-parts-1220-1238/"
         },
         {
-            "title": "Children\u0026#8217;s Online Privacy Protection Rule (\u0026#8220;COPPA\u0026#8221;)",
+            "title": "Children&#8217;s Online Privacy Protection Rule (&#8220;COPPA&#8221;)",
             "summary": "The Children’s Online Privacy Protection Rule,imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.",
             "date": "2015-11-23T03:03:09-0500",
             "date_modified": "2024-04-05T20:44:40-04:00",
@@ -1753,7 +1796,7 @@
             "filepath": "resources/childrens-online-privacy-protection-rule-coppa.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/childrens-online-privacy-protection-rule-coppa.md",
             "slug": "childrens-online-privacy-protection-rule-coppa",
-            "url": "http://localhost:1313/resources/childrens-online-privacy-protection-rule-coppa/",
+            "url": "http://localhost:1313/resources/childrens-online-privacy-protection-rule-coppa/"
         },
         {
             "title": "Appendix I to OMB Circular No. A-130 Federal Agency Responsibilities for Maintaining Records About Individuals",
@@ -1770,7 +1813,7 @@
             "filepath": "resources/appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals.md",
             "slug": "appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals",
-            "url": "http://localhost:1313/resources/appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals/",
+            "url": "http://localhost:1313/resources/appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals/"
         },
         {
             "title": "Guidance for Agency Use of Third-Party Websites and Applications",
@@ -1787,7 +1830,7 @@
             "filepath": "resources/guidance-for-agency-use-of-third-party-websites-and-applications.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-for-agency-use-of-third-party-websites-and-applications.md",
             "slug": "guidance-for-agency-use-of-third-party-websites-and-applications",
-            "url": "http://localhost:1313/resources/guidance-for-agency-use-of-third-party-websites-and-applications/",
+            "url": "http://localhost:1313/resources/guidance-for-agency-use-of-third-party-websites-and-applications/"
         },
         {
             "title": "Open Government Directive",
@@ -1800,7 +1843,7 @@
             "filename": "open-government-directive.md",
             "filepath": "resources/open-government-directive.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/open-government-directive.md",
-            "url": "http://localhost:1313/open-government-directive/",
+            "url": "http://localhost:1313/open-government-directive/"
         },
         {
             "title": "No FEAR Act",
@@ -1817,7 +1860,7 @@
             "filepath": "resources/no-fear-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/no-fear-act.md",
             "slug": "no-fear-act",
-            "url": "http://localhost:1313/resources/no-fear-act/",
+            "url": "http://localhost:1313/resources/no-fear-act/"
         },
         {
             "title": "Guidance on President’s Management Agenda Scorecard Meetings",
@@ -1834,7 +1877,7 @@
             "filepath": "resources/guidance-on-presidents-management-agenda-scorecard-meetings.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-on-presidents-management-agenda-scorecard-meetings.md",
             "slug": "guidance-on-presidents-management-agenda-scorecard-meetings",
-            "url": "http://localhost:1313/resources/guidance-on-presidents-management-agenda-scorecard-meetings/",
+            "url": "http://localhost:1313/resources/guidance-on-presidents-management-agenda-scorecard-meetings/"
         },
         {
             "title": "Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act",
@@ -1850,10 +1893,10 @@
             "filepath": "resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act.md",
             "slug": "social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act",
-            "url": "http://localhost:1313/resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act/",
+            "url": "http://localhost:1313/resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act/"
         },
         {
-            "title": "Executive Order 13571\u0026#8211;Streamlining Service Delivery and Improving Customer Service",
+            "title": "Executive Order 13571&#8211;Streamlining Service Delivery and Improving Customer Service",
             "summary": "The Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service “requires agencies that provide significant services directly to the public to identify and survey their customers, establish service standards and track performance against those standards, and benchmark customer service performance against the best in business.” View Executive Order 13571–Streamlining Service Delivery and Improving Customer Service",
             "date": "2015-11-12T03:18:42-0500",
             "date_modified": "2024-04-05T20:44:40-04:00",
@@ -1868,7 +1911,7 @@
             "filepath": "resources/executive-order-13571-streamlining-service-delivery-and-improving-customer-service.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/executive-order-13571-streamlining-service-delivery-and-improving-customer-service.md",
             "slug": "executive-order-13571-streamlining-service-delivery-and-improving-customer-service",
-            "url": "http://localhost:1313/resources/executive-order-13571-streamlining-service-delivery-and-improving-customer-service/",
+            "url": "http://localhost:1313/resources/executive-order-13571-streamlining-service-delivery-and-improving-customer-service/"
         },
         {
             "title": "M-11-24 Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service",
@@ -1886,7 +1929,7 @@
             "filepath": "resources/m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service.md",
             "slug": "m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service",
-            "url": "http://localhost:1313/resources/m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service/",
+            "url": "http://localhost:1313/resources/m-11-24-implementing-executive-order-13571-on-streamlining-service-delivery-and-improving-customer-service/"
         },
         {
             "title": "M-10-22 Guidance for Online Use of Web Measurement and Customization Technologies",
@@ -1903,7 +1946,7 @@
             "filepath": "resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies.md",
             "slug": "m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies",
-            "url": "http://localhost:1313/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/",
+            "url": "http://localhost:1313/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/"
         },
         {
             "title": "M-11-26 New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act",
@@ -1921,7 +1964,7 @@
             "filepath": "resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act.md",
             "slug": "m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act",
-            "url": "http://localhost:1313/resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/",
+            "url": "http://localhost:1313/resources/m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/"
         },
         {
             "title": "Plain Writing Act of 2010",
@@ -1939,7 +1982,7 @@
             "filepath": "resources/plain-writing-act-of-2010.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/plain-writing-act-of-2010.md",
             "slug": "plain-writing-act-of-2010",
-            "url": "http://localhost:1313/resources/plain-writing-act-of-2010/",
+            "url": "http://localhost:1313/resources/plain-writing-act-of-2010/"
         },
         {
             "title": "Federal Plain Language Guidelines",
@@ -1957,7 +2000,7 @@
             "filepath": "resources/federal-plain-language-guidelines.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/federal-plain-language-guidelines.md",
             "slug": "federal-plain-language-guidelines",
-            "url": "http://localhost:1313/resources/federal-plain-language-guidelines/",
+            "url": "http://localhost:1313/resources/federal-plain-language-guidelines/"
         },
         {
             "title": "2012 Digital Government Strategy",
@@ -1974,7 +2017,7 @@
             "filepath": "resources/2012-digital-government-strategy.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/2012-digital-government-strategy.md",
             "slug": "2012-digital-government-strategy",
-            "url": "http://localhost:1313/resources/2012-digital-government-strategy/",
+            "url": "http://localhost:1313/resources/2012-digital-government-strategy/"
         },
         {
             "title": "E-Gov Act of 2002",
@@ -1991,7 +2034,7 @@
             "filepath": "resources/e-gov-act-of-2002.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/e-gov-act-of-2002.md",
             "slug": "e-gov-act-of-2002",
-            "url": "http://localhost:1313/resources/e-gov-act-of-2002/",
+            "url": "http://localhost:1313/resources/e-gov-act-of-2002/"
         },
         {
             "title": "Freedom of Information Act Memo 2009",
@@ -2009,7 +2052,7 @@
             "filepath": "resources/freedom-of-information-act-memo-2009.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/freedom-of-information-act-memo-2009.md",
             "slug": "freedom-of-information-act-memo-2009",
-            "url": "http://localhost:1313/resources/freedom-of-information-act-memo-2009/",
+            "url": "http://localhost:1313/resources/freedom-of-information-act-memo-2009/"
         },
         {
             "title": "Open Opportunities Task Creator Toolkit",
@@ -2026,7 +2069,7 @@
             "filepath": "resources/open-opportunities-task-creator-toolkit.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/open-opportunities-task-creator-toolkit.md",
             "slug": "open-opportunities-task-creator-toolkit",
-            "url": "http://localhost:1313/resources/open-opportunities-task-creator-toolkit/",
+            "url": "http://localhost:1313/resources/open-opportunities-task-creator-toolkit/"
         },
         {
             "title": "10 Tips for Creating the Perfect Open Opportunity Task",
@@ -2043,7 +2086,7 @@
             "filepath": "resources/10-tips-for-creating-the-perfect-open-opportunity-task.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/10-tips-for-creating-the-perfect-open-opportunity-task.md",
             "slug": "open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task",
-            "url": "http://localhost:1313/resources/open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task/",
+            "url": "http://localhost:1313/resources/open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task/"
         },
         {
             "title": "Plain Language Web Writing Tips",
@@ -2062,7 +2105,7 @@
             "filepath": "resources/plain-language-web-writing-tips.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/plain-language-web-writing-tips.md",
             "slug": "plain-language-web-writing-tips",
-            "url": "http://localhost:1313/resources/plain-language-web-writing-tips/",
+            "url": "http://localhost:1313/resources/plain-language-web-writing-tips/"
         },
         {
             "title": "Inventory.data.gov Guide",
@@ -2079,7 +2122,7 @@
             "filepath": "resources/inventory-data-gov-guide.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/inventory-data-gov-guide.md",
             "slug": "inventory-data-gov-guide",
-            "url": "http://localhost:1313/resources/inventory-data-gov-guide/",
+            "url": "http://localhost:1313/resources/inventory-data-gov-guide/"
         },
         {
             "title": "Social Media Cyber-Vandalism Toolkit",
@@ -2098,7 +2141,7 @@
             "filepath": "resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit.md",
             "slug": "readiness-recovery-response-social-media-cyber-vandalism-toolkit",
-            "url": "http://localhost:1313/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/",
+            "url": "http://localhost:1313/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/"
         },
         {
             "title": "How to Get Your Open Data on Data.gov",
@@ -2115,7 +2158,7 @@
             "filepath": "resources/how-to-get-your-open-data-on-data-gov.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/how-to-get-your-open-data-on-data-gov.md",
             "slug": "how-to-get-your-open-data-on-data-gov",
-            "url": "http://localhost:1313/resources/how-to-get-your-open-data-on-data-gov/",
+            "url": "http://localhost:1313/resources/how-to-get-your-open-data-on-data-gov/"
         },
         {
             "title": "Improving the Accessibility of Social Media in Government",
@@ -2133,7 +2176,7 @@
             "filepath": "resources/improving-the-accessibility-of-social-media-in-government.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/improving-the-accessibility-of-social-media-in-government.md",
             "slug": "improving-the-accessibility-of-social-media-in-government",
-            "url": "http://localhost:1313/resources/improving-the-accessibility-of-social-media-in-government/",
+            "url": "http://localhost:1313/resources/improving-the-accessibility-of-social-media-in-government/"
         },
         {
             "title": "Federal Social Media Accessibility Toolkit Hackpad",
@@ -2152,7 +2195,7 @@
             "filepath": "resources/federal-social-media-accessibility-toolkit-hackpad.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/federal-social-media-accessibility-toolkit-hackpad.md",
             "slug": "federal-social-media-accessibility-toolkit-hackpad",
-            "url": "http://localhost:1313/resources/federal-social-media-accessibility-toolkit-hackpad/",
+            "url": "http://localhost:1313/resources/federal-social-media-accessibility-toolkit-hackpad/"
         },
         {
             "title": "Sample Position Descriptions for Digital Government Jobs",
@@ -2166,7 +2209,7 @@
             "filepath": "resources/sample-position-descriptions-for-digital-government-jobs.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/sample-position-descriptions-for-digital-government-jobs.md",
             "slug": "sample-position-descriptions-for-digital-government-jobs",
-            "url": "http://localhost:1313/resources/sample-position-descriptions-for-digital-government-jobs/",
+            "url": "http://localhost:1313/resources/sample-position-descriptions-for-digital-government-jobs/"
         },
         {
             "title": "Spanish Language Style Guide and Glossaries: Spanish Health Care Terms in the United States",
@@ -2184,7 +2227,7 @@
             "filepath": "resources/spanish-health-care-terms-in-the-united-states.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-health-care-terms-in-the-united-states.md",
             "slug": "spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states",
-            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/"
         },
         {
             "title": "Spanish Language Style Guide and Glossaries: Internet Resources",
@@ -2202,7 +2245,7 @@
             "filepath": "resources/spanish-language-style-guide-glossaries-internet-resources.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-glossaries-internet-resources.md",
             "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources",
-            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/"
         },
         {
             "title": "Spanish Language Style Guide and Glossaries: Information Technology Terms",
@@ -2220,7 +2263,7 @@
             "filepath": "resources/spanish-language-style-guide-glossaries-information-technology-terms.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-glossaries-information-technology-terms.md",
             "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms",
-            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/"
         },
         {
             "title": "Spanish Language Style Guide and Glossaries: Frequently Mistranslated English Terms",
@@ -2238,7 +2281,7 @@
             "filepath": "resources/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md",
             "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms",
-            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/"
         },
         {
             "title": "Spanish Language Style Guides and Glossaries",
@@ -2256,7 +2299,7 @@
             "filepath": "resources/spanish-language-style-guide-and-glossaries.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-and-glossaries.md",
             "slug": "spanish-language-style-guide-and-glossaries",
-            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/"
         },
         {
             "title": "Open Opportunities",
@@ -2278,7 +2321,7 @@
                 "https://digital.gov/join/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/"
             ],
             "slug": "open-opportunities",
-            "url": "http://localhost:1313/resources/open-opportunities/",
+            "url": "http://localhost:1313/resources/open-opportunities/"
         },
         {
             "title": "Guidelines for Improving Digital Services",
@@ -2295,7 +2338,7 @@
             "filepath": "resources/guidelines-for-improving-digital-services.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidelines-for-improving-digital-services.md",
             "slug": "guidelines-for-improving-digital-services",
-            "url": "http://localhost:1313/resources/guidelines-for-improving-digital-services/",
+            "url": "http://localhost:1313/resources/guidelines-for-improving-digital-services/"
         },
         {
             "title": "Crowdsourcing Toolkit for Federal Agencies",
@@ -2312,7 +2355,7 @@
             "filepath": "resources/crowdsourcing-toolkit-for-federal-agencies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/crowdsourcing-toolkit-for-federal-agencies.md",
             "slug": "crowdsourcing-toolkit-for-federal-agencies",
-            "url": "http://localhost:1313/resources/crowdsourcing-toolkit-for-federal-agencies/",
+            "url": "http://localhost:1313/resources/crowdsourcing-toolkit-for-federal-agencies/"
         },
         {
             "title": "Guidance for Social Media Providers",
@@ -2327,7 +2370,7 @@
             "filepath": "resources/guidance-for-social-media-providers.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/guidance-for-social-media-providers.md",
             "slug": "guidance-for-social-media-providers",
-            "url": "http://localhost:1313/resources/guidance-for-social-media-providers/",
+            "url": "http://localhost:1313/resources/guidance-for-social-media-providers/"
         },
         {
             "title": "Spanish Language Style Guide and Glossaries: Grammar",
@@ -2344,7 +2387,7 @@
             "filepath": "resources/spanish-language-style-guide-and-glossaries-grammar.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/spanish-language-style-guide-and-glossaries-grammar.md",
             "slug": "spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar",
-            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/",
+            "url": "http://localhost:1313/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/"
         },
         {
             "title": "Contact Center Operation and Management",
@@ -2361,7 +2404,7 @@
             "filepath": "resources/contact-center-operation-and-management.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/contact-center-operation-and-management.md",
             "slug": "contact-center-guidelines/contact-center-operation-and-management",
-            "url": "http://localhost:1313/resources/contact-center-guidelines/contact-center-operation-and-management/",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/contact-center-operation-and-management/"
         },
         {
             "title": "Contact Center Technologies",
@@ -2379,7 +2422,7 @@
             "filepath": "resources/contact-center-technologies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/contact-center-technologies.md",
             "slug": "contact-center-guidelines/contact-center-technologies",
-            "url": "http://localhost:1313/resources/contact-center-guidelines/contact-center-technologies/",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/contact-center-technologies/"
         },
         {
             "title": "Getting Started with your Contact Center",
@@ -2397,7 +2440,7 @@
             "filepath": "resources/getting-started-with-your-contact-center.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/getting-started-with-your-contact-center.md",
             "slug": "contact-center-guidelines/getting-started-with-your-contact-center",
-            "url": "http://localhost:1313/resources/contact-center-guidelines/getting-started-with-your-contact-center/",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/getting-started-with-your-contact-center/"
         },
         {
             "title": "Contact Center Guidelines",
@@ -2415,7 +2458,7 @@
             "filepath": "resources/contact-center-guidelines.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/contact-center-guidelines.md",
             "slug": "contact-center-guidelines",
-            "url": "http://localhost:1313/resources/contact-center-guidelines/",
+            "url": "http://localhost:1313/resources/contact-center-guidelines/"
         },
         {
             "title": "Usability Starter Kit",
@@ -2433,7 +2476,7 @@
             "filepath": "resources/digitalgov-user-experience-program-usability-starter-kit.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-usability-starter-kit.md",
             "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit",
-            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit/",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit/"
         },
         {
             "title": "DigitalGov User Experience Program: Test Support",
@@ -2450,7 +2493,7 @@
             "filepath": "resources/digitalgov-user-experience-program-test-support.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-test-support.md",
             "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support",
-            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support/",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support/"
         },
         {
             "title": "DigitalGov User Experience Program: Speaking Opportunities",
@@ -2467,10 +2510,10 @@
             "filepath": "resources/digitalgov-user-experience-program-speaking-opportunities.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-speaking-opportunities.md",
             "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities",
-            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities/",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities/"
         },
         {
-            "title": "Fueleconomy.gov \u0026#8211; Extended Case Study",
+            "title": "Fueleconomy.gov &#8211; Extended Case Study",
             "summary": "Like any valid business decision, User Experience work should produce results and demonstrable impact. To see a list of screenshots from websites we’ve improved, visit the rest of our Usability Case Studies. Or see a more complete case study below. Case Study: Fueleconomy.gov Mobile Site In December of 2012",
             "date": "2014-01-16T11:01:12-0500",
             "date_modified": "2024-01-22T09:41:02-05:00",
@@ -2485,7 +2528,7 @@
             "filepath": "resources/digitalgov-user-experience-program-results-and-case-studies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/digitalgov-user-experience-program-results-and-case-studies.md",
             "slug": "digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies",
-            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies/",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies/"
         },
         {
             "title": "Government Usability Case Studies",
@@ -2503,7 +2546,7 @@
             "filepath": "resources/government-usability-case-studies.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/government-usability-case-studies.md",
             "slug": "digitalgov-user-experience-resources/government-usability-case-studies",
-            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/government-usability-case-studies/",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/government-usability-case-studies/"
         },
         {
             "title": "Negotiated Terms of Service Agreements",
@@ -2546,7 +2589,7 @@
                 "https://digital.gov/resources/uservoice-federal-terms-of-service/",
                 "https://digital.gov/resources/vine-federal-terms-of-service/"
             ],
-            "url": "http://localhost:1313/resources/negotiated-terms-of-service-agreements/",
+            "url": "http://localhost:1313/resources/negotiated-terms-of-service-agreements/"
         },
         {
             "title": "Paperwork Reduction Act Fast Track Process",
@@ -2564,7 +2607,7 @@
             "filepath": "resources/paperwork-reduction-act-fast-track-process.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/paperwork-reduction-act-fast-track-process.md",
             "slug": "paperwork-reduction-act-fast-track-process",
-            "url": "http://localhost:1313/resources/paperwork-reduction-act-fast-track-process/",
+            "url": "http://localhost:1313/resources/paperwork-reduction-act-fast-track-process/"
         },
         {
             "title": "Agency Points of Contact for Federal Compatible Terms of Service Agreements",
@@ -2579,7 +2622,7 @@
             "filename": "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md",
             "filepath": "resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md",
-            "url": "http://localhost:1313/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/",
+            "url": "http://localhost:1313/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/"
         },
         {
             "title": "Mobile User Experience Guidelines",
@@ -2601,7 +2644,7 @@
                 "https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/"
             ],
             "slug": "mobile-user-experience-guidelines",
-            "url": "http://localhost:1313/resources/mobile-user-experience-guidelines/",
+            "url": "http://localhost:1313/resources/mobile-user-experience-guidelines/"
         },
         {
             "title": "DigitalGov User Experience Resources",
@@ -2622,7 +2665,7 @@
                 "https://digital.gov/resources/digitalgov-user-experience-program/"
             ],
             "slug": "digitalgov-user-experience-resources",
-            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/",
+            "url": "http://localhost:1313/resources/digitalgov-user-experience-resources/"
         },
         {
             "title": "Using the do and don'ts table",
@@ -2640,7 +2683,7 @@
             "filepath": "resources/do-dont-table.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/do-dont-table.md",
             "slug": "do-dont-table",
-            "url": "http://localhost:1313/resources/do-dont-table/",
+            "url": "http://localhost:1313/resources/do-dont-table/"
         },
         {
             "title": "Mobile SOW and Developer Qualifications",
@@ -2657,7 +2700,7 @@
             "filepath": "resources/mobile-sow-and-developer-qualifications.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/mobile-sow-and-developer-qualifications.md",
             "slug": "mobile-sow-and-developer-qualifications",
-            "url": "http://localhost:1313/resources/mobile-sow-and-developer-qualifications/",
+            "url": "http://localhost:1313/resources/mobile-sow-and-developer-qualifications/"
         },
         {
             "title": "Mobile Application Development Program",
@@ -2674,7 +2717,7 @@
             "filepath": "resources/mobile-application-development-program.md",
             "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/mobile-application-development-program.md",
             "slug": "mobile-application-development-program",
-            "url": "http://localhost:1313/resources/mobile-application-development-program/",
-        },
+            "url": "http://localhost:1313/resources/mobile-application-development-program/"
+        }
     ]
 }

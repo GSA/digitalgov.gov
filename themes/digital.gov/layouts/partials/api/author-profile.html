@@ -1,0 +1,18 @@
+{{- if .Params.display_name -}}
+  "display_name" : "{{- .Params.display_name -}}",
+{{- end -}}
+{{- if .Params.first_name -}}
+  "first_name" : "{{- .Params.first_name  -}}",
+{{- end -}}
+{{- if .Params.last_name -}}
+  "last_name" : "{{- .Params.last_name -}}",
+{{- end -}}
+{{- if .Params.agency_full_name -}}
+  "agency_full_name" : "{{- .Params.agency_full_name -}}",
+{{- end -}}
+{{- if .Params.github -}}
+  "github" : "{{- .Params.github -}}",
+{{- end -}}
+{{- if .Params.profile_source -}}
+  "profile_source" : "{{- .Params.profile_source -}}",
+{{- end -}}

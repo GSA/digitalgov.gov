@@ -18,64 +18,11 @@
 {{ range $index, $author := $list -}}
   {{ with $author }}
     "{{- .Params.slug -}}" : {
-    {{- if .Params.display_name -}}
-      "display_name" : "{{- .Params.display_name -}}",
-    {{- end -}}
-    {{- if .Params.first_name -}}
-      "first_name" : "{{- .Params.first_name -}}",
-    {{- end -}}
-    {{- if .Params.last_name -}}
-      "last_name" : "{{- .Params.last_name -}}",
-    {{- end -}}
-
+    {{- partial "api/author-profile.html" . -}}
     {{- partial "api/slug.html" . -}}
-
-    {{- if .Params.agency -}}
-      "agency" : "{{- .Params.agency -}}",
-    {{- end -}}
-    {{- if .Params.agency_full_name -}}
-      "agency_full_name" : "{{- .Params.agency_full_name -}}",
-    {{- end -}}
-    {{- if .Params.github -}}
-      "github" : "{{- .Params.github -}}",
-    {{- end -}}
-    {{- if .Params.profile_source -}}
-      "profile_source" : "{{- .Params.profile_source -}}",
-    {{- end -}}
-    {{- with .File -}}
-      "filename" : {{- .LogicalName | jsonify -}},
-    {{- end -}}
-    {{ $path := "" }}{{ with .File }}
-      {{ $path = .Path }}
-    {{ else }}
-      {{ $path = .Path }}
-    {{ end }}
-    "filepath" : {{ with .File -}}{{- $path | jsonify -}}{{- end -}},
-    "filepathURL" :
-    {{- with .File -}}
-      {{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}
-    {{- end -}},
-    {{- if .Params.aliases -}}
-      "aliases" : {
-      {{- $aliaslen := .Params.aliases | len -}}
-      {{- $.Scratch.Set "aliascount" 1 -}}
-      {{- range $i, $e := .Params.aliases -}}
-        {{- with $e -}}
-          {{- $aliascount := $.Scratch.Get "aliascount" -}}
-          {{- if eq $aliascount $aliaslen -}}
-            "{{- $i -}}" : "{{- $e -}}"
-          {{- else -}}
-            "{{- $i -}}" : "{{- $e -}}",
-          {{- end -}}
-          {{- $.Scratch.Add "aliascount" 1 -}}
-        {{- end -}}
-      {{- end -}}
-      },
-    {{- end -}}
-    {{- if .Params.weight -}}
-      "weight" : "{{- .Params.weight -}}",
-    {{- end -}}
-    "url" : "{{- .Permalink | absURL -}}"
+    {{- partial "api/metadata.html" . -}}
+    {{- partial "api/file-info.html" . -}}
+    {{- partial "api/aliases.html" . -}}
     }{{- $.Scratch.Add "i" 1 -}}
     {{- $iterator := $.Scratch.Get "i" -}}
     {{- if not (eq $length $iterator) -}},{{- end -}}

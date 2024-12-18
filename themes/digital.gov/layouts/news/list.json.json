@@ -1,5 +1,5 @@
 {{- partial "core/set-env.html" . -}}
-{{- $list := .Data.Pages -}}
+{{- $list := where .Data.Pages "Params.source_url" "eq" nil -}}
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
@@ -34,55 +34,17 @@
     {{ end }}
     "items" : [
     {{- range $index, $element := $list -}}
-    {{- $isSourceURL := isset .Params "source_url" -}}
-    {{- if eq $isSourceURL false -}}
     {
-      {{- if (isset .Params "kicker") -}}
-      "kicker" : "{{- .Params.kicker -}}",
-      {{- end -}}
-      "title" : {{- .Title | jsonify -}},
-      {{- if (isset .Params "deck") -}}
-      "deck" : "{{- .Params.deck | markdownify -}}",
-      {{- end -}}
-      {{- if (isset .Params "summary") -}}
-      "summary" : "{{- .Params.summary | markdownify -}}",
-      {{- end -}}
-      "date" : "{{- .Date.Format "2006-01-02T15:04:05" -}}-0500",
-      {{- if .Lastmod -}}
-      "date_modified" : "{{- .Lastmod.Format "2006-01-02T15:04:05Z07:00" -}}",
-      {{- else -}}
-      "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}", -}}",
-      {{- end -}}
-      {{- if (isset .Params "guide") -}}
-      "guide" : "{{- .Params.guide -}}",
-      {{- end -}}
-      {{- if (isset .Params "guide_weight") -}}
-      "guide_weight" : "{{- .Params.guide_weight -}}",
-      {{- end -}}
-      {{- if (isset .Params "image") -}}
-      "image" : "{{- .Params.image -}}",
-      {{- end -}}
-      {{- if .Params.weight -}}
-      "weight" : "{{- .Params.weight -}}",
-      {{- end -}}
-
+      {{- partial "api/metadata.html" . -}}
       {{- partial "api/authors.html" . -}}
-
       {{- partial "api/topics.html" . -}}
-
       {{- partial "api/primary_image.html" . -}}
-
       {{- partial "api/featured_image.html" . -}}
-
       {{- partial "api/file-info.html" . }}
-
       {{- partial "api/aliases.html" . -}}
-
       {{- partial "api/slug.html" . -}}
 
-
     }{{- if ne (add $index 1) $length -}},{{- end -}}
-    {{- end -}}
     {{- end -}}
     ]
 }
