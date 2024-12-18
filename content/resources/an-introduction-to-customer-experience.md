@@ -9,7 +9,6 @@ summary: Understand what customer experience (CX) is and how to leverage
   interacting with government services.
 # See all topics at https://digital.gov/topics
 topics:
-  - information-collection
   - customer-experience
   - analytics
   - information-collection

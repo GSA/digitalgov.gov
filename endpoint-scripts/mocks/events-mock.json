@@ -1,0 +1,46 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "content": "events",
+    "type": "list",
+    "title": "Events |Digital.gov",
+    "description": "Events",
+    "home_page_url": "http://localhost:1313/",
+    "count": "321",
+    "feed_url": "http://localhost:1313/events/index.json",
+    "section": "events",
+    "items": [
+        {
+            "kicker": "",
+            "title": "The Hero's Journey for Re-Skilling Talent (And Other Digital Adventures)",
+            "deck": "",
+            "summary": "For those seeking ways to internally re-skill their workforce for digital transformation, a look at mythology reveals a recurring theme where those answering the call are involved in an iterative  cycle of 'leveling-up', a theme that may help change-agents set conditions for successful retention and growth of organic digital talent.",
+            "date": "2020-04-28T14:00:00-05:00",
+            "date_modified": "2024-10-09T17:14:47-04:00",
+            "start_date": "2020-04-28T14:00:00-05:00",
+            "end_date": "2020-04-28T14:30:00-05:00",
+            "event_type": [
+                "online"
+            ],
+            "event_organizer": "Digital.gov",
+            "host": "DevOps Community of Practice",
+            "registration_url": "https://www.eventbrite.com/e/102418841512",
+            "captions": "https://www.captionedtext.com/client/event.aspx?EventID=4411645&amp;CustomerID=321",
+            "youtube_id": "-WOZq09cwMo",
+            "authors": [
+                "brian-fox",
+                "major-jeremy-f-thomas"
+            ],
+            "topics": [
+                "product-and-project-management",
+                "software-engineering"
+            ],
+            "primary_image": "image-uid-name",
+            "featured_image": "",
+            "filename": "2020-04-28-heros-journey-for-reskilling-talent-other.md",
+            "filepath": "events/2020/04/2020-04-28-heros-journey-for-reskilling-talent-other.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/events/2020/04/2020-04-28-heros-journey-for-reskilling-talent-other.md",
+            "slug": "heros-journey-for-reskilling-talent-other",
+            "url": "http://localhost:1313/event/2020/04/28/heros-journey-for-reskilling-talent-other/"
+        }
+    ]
+}

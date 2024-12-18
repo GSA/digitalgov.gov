@@ -1,0 +1,1086 @@
+{
+    "version":"https://jsonfeed.org/version/1",
+    "content":"communities",
+    "type":"list",
+    "title":"Digital.gov Communities of Practice |Digital.gov",
+    "description":"Digital.gov Communities of Practice",
+    "home_page_url":"https://digital.gov/",
+    "count":"34",
+    "feed_url":"https://digital.gov/communities/index.json",
+    "section":"communities",
+    "items":[
+       {
+          "kicker":"Communities of practice",
+          "title":"Join the Contact Center",
+          "deck":"Share and learn with contact center practitioners.",
+          "summary":"Explore methods of service delivery that improve customer experience in government contact centers.",
+          "date":"2024-06-28T16:36:00-0500",
+          "date_modified":"2024-12-09T12:50:11-05:00",
+          "topics":{
+             "contact-centers":"Contact Centers",
+             "customer-experience":"Customer experience"
+          },
+          "community_list":{
+             "list_1":{
+                "join_cop_button":"Contact center community members",
+                "members":"410",
+                "platform":"listserv",
+                "subscribe_email":"g3c-request@listserv.gsa.gov",
+                "subscribe_email_subject":"Join the Contact Center Community",
+                "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                "type":"government"
+             },
+             "primary_image":{
+                "uid":"communities-card-contact-center",
+                "alt":"",
+                "width":"2501",
+                "height":"1307",
+                "credit":"",
+                "caption":"",
+                "format":"png"
+             },
+             "branch":"main",
+             "filename":"contact-center.md",
+             "filepath":"communities/contact-center.md",
+             "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/contact-center.md",
+             "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/contact-center.md",
+             "weight":"1",
+             "aliases":{
+                "0":"/communities/government-contact-center-council-g3c/",
+                "1":"/communities/government-contact-center-council/"
+             },
+             "slug":"contact-center",
+             "url":"https://digital.gov/communities/contact-center/"
+          },
+          {
+             "title":"Records management",
+             "summary":"These communities of interest are for federal staff seeking to improve records management across the government.",
+             "date":"2024-04-16T00:00:00-0500",
+             "date_modified":"2024-12-09T12:50:11-05:00",
+             "topics":{
+                "records-management":"Records management"
+             },
+             "branch":"main",
+             "filename":"records-management.md",
+             "filepath":"communities/records-management.md",
+             "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/records-management.md",
+             "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/records-management.md",
+             "weight":"1",
+             "slug":"records-management",
+             "url":"https://digital.gov/communities/records-management/"
+          },
+          {
+             "title":"Federal Information Security Educators (FISSEA)",
+             "summary":"The organization, formerly known as the Federal Information Systems Security Educators Association (or FISSEA), serves as a professional forum for federal government information security professionals to assist agencies in strengthening their employee cybersecurity awareness and training programs. FISSEA also holds an annual conference.",
+             "date":"2024-04-10T00:00:00-0500",
+             "date_modified":"2024-12-09T12:50:11-05:00",
+             "branch":"main",
+             "filename":"federal-information-security-educators-fissea.md",
+             "filepath":"communities/federal-information-security-educators-fissea.md",
+             "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/federal-information-security-educators-fissea.md",
+             "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/federal-information-security-educators-fissea.md",
+             "weight":"1",
+             "slug":"federal-information-security-educators-fissea",
+             "url":"https://digital.gov/communities/federal-information-security-educators-fissea/"
+          },
+          {
+             "title":"Federal Evidence and Evaluation",
+             "deck":"",
+             "summary":"For federal executive branch staff interested in evaluation and evidence-building. Connect with peers, share information, access resources and trainings, and sign up for events. Features content to support federal agencies as they implement the Evidence Act.",
+             "date":"2023-12-28T21:48:00-0500",
+             "date_modified":"2024-12-09T12:50:11-05:00",
+             "topics":{
+                "open-data":"Open data"
+             },
+             "branch":"main",
+             "filename":"federal-evidence-and-evaluation.md",
+             "filepath":"communities/federal-evidence-and-evaluation.md",
+             "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/federal-evidence-and-evaluation.md",
+             "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/federal-evidence-and-evaluation.md",
+             "weight":"1",
+             "slug":"federal-evidence-and-evaluation",
+             "url":"https://digital.gov/communities/federal-evidence-and-evaluation/"
+          },
+          {
+             "title":"Federal Program and Project Management (FedPM)",
+             "summary":"The Federal Program and Project Management (FedPM) Community of Practice is the central source for the sharing of program and project management expertise across the entire federal government.",
+             "date":"2023-11-16T12:16:00-0500",
+             "date_modified":"2024-12-09T12:50:11-05:00",
+             "branch":"main",
+             "filename":"federal-program-and-project-management-fedpm.md",
+             "filepath":"communities/federal-program-and-project-management-fedpm.md",
+             "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/federal-program-and-project-management-fedpm.md",
+             "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/federal-program-and-project-management-fedpm.md",
+             "weight":"1",
+             "slug":"federal-program-and-project-management-fedpm",
+             "url":"https://digital.gov/communities/federal-program-and-project-management-fedpm/"
+          },
+          {
+             "title":"Mindful FED",
+             "summary":"A community that offers guided meditations, team trainings, and curated digital resources for federal employees to boost mindfulness, and cultivate wellbeing and resilience in the workplace.",
+             "date":"2023-11-06T15:40:00-0500",
+             "date_modified":"2024-12-09T12:50:11-05:00",
+             "branch":"main",
+             "filename":"mindful-fed.md",
+             "filepath":"communities/mindful-fed.md",
+             "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/mindful-fed.md",
+             "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/mindful-fed.md",
+             "weight":"1",
+             "slug":"mindful-fed",
+             "url":"https://digital.gov/communities/mindful-fed/"
+          },
+          {
+             "title":"TechAcq",
+             "summary":"IT acquisitions are at the heart of federal IT modernization efforts. They support agencies in delivering modern, digital services to the public more effectively and efficiently.",
+             "date":"2022-11-16T17:21:00-0500",
+             "date_modified":"2024-12-09T12:50:11-05:00",
+             "topics":{
+                "acquisition":"Acquisition"
+             },
+             "community_list":{
+                "list_1":{
+                   "platform":"listserv",
+                   "subscribe_email":"IT-ACQ-COP-subscribe-request@LISTSERV.GSA.GOV",
+                   "terms":"Federal government employees only are eligible to join.",
+                   "type":"government_only"
+                },
+                "branch":"main",
+                "filename":"it-acquisition.md",
+                "filepath":"communities/it-acquisition.md",
+                "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/it-acquisition.md",
+                "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/it-acquisition.md",
+                "weight":"1",
+                "slug":"it-acquisition",
+                "url":"https://digital.gov/communities/it-acquisition/"
+             },
+             {
+                "kicker":"Communities of Practice",
+                "title":"Join the Web Analytics",
+                "deck":"Share and learn with web analytics and optimization practitioners.",
+                "summary":"Make better decisions using web analytics and other optimization strategies.",
+                "date":"2021-07-07T09:13:00-0500",
+                "date_modified":"2024-12-09T12:50:11-05:00",
+                "authors":{
+                   "tlowden":"Tim Lowden"
+                },
+                "topics":{
+                   "analytics":"Analytics",
+                   "research":"Research",
+                   "search":"Search",
+                   "search-engine-optimization":"Search Engine Optimization",
+                   "usability":"Usability",
+                   "user-experience":"User Experience"
+                },
+                "community_list":{
+                   "list_1":{
+                      "join_cop_button":"Web Analytic community members",
+                      "members":"1,146",
+                      "platform":"listserv",
+                      "subscribe_email":"analyze-optimize-request@listserv.gsa.gov",
+                      "subscribe_email_subject":"Join the Web Analytics Community",
+                      "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                      "type":"government"
+                   },
+                   "primary_image":{
+                      "uid":"communities-card-analytics",
+                      "alt":"",
+                      "width":"2501",
+                      "height":"1307",
+                      "credit":"",
+                      "caption":"",
+                      "format":"png"
+                   },
+                   "branch":"main",
+                   "filename":"web-analytics-and-optimization.md",
+                   "filepath":"communities/web-analytics-and-optimization.md",
+                   "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/web-analytics-and-optimization.md",
+                   "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/web-analytics-and-optimization.md",
+                   "weight":"1",
+                   "aliases":{
+                      "0":"/communities/a-b-testing-community",
+                      "1":"/communities/a-b-testing"
+                   },
+                   "slug":"web-analytics-and-optimization",
+                   "url":"https://digital.gov/communities/web-analytics-and-optimization/"
+                },
+                {
+                   "title":"Innovation Adoption",
+                   "summary":"Our purpose is to build innovation and intrapreneurship capacity across government by investing in and nurturing innovation, intrapreneurship capabilities, and the innovation experience.",
+                   "date":"2021-06-24T10:30:00-0500",
+                   "date_modified":"2024-12-09T12:50:11-05:00",
+                   "authors":{
+                      "bethany-blakey":"Bethany Blakey",
+                      "brooke-dine":"Brooke Dine",
+                      "vanessa-watters":"Vanessa Watters",
+                      "tina-chen":"Tina Chen",
+                      "julia-begley":"Julia Begley"
+                   },
+                   "topics":{
+                      "customer-experience":"Customer experience",
+                      "innovation":"Innovation",
+                      "product-and-project-management":"Product and project management"
+                   },
+                   "community_list":{
+                      "list_1":{
+                         "platform":"listserv",
+                         "subscribe_email":"INNOVATION-ADOPTION-subscribe-request@listserv.gsa.gov",
+                         "terms":"Federal government employees only are eligible to join.",
+                         "type":"government"
+                      },
+                      "branch":"main",
+                      "filename":"innovation-adoption.md",
+                      "filepath":"communities/innovation-adoption.md",
+                      "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/innovation-adoption.md",
+                      "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/innovation-adoption.md",
+                      "weight":"1",
+                      "slug":"innovation-adoption",
+                      "url":"https://digital.gov/communities/innovation-adoption/"
+                   },
+                   {
+                      "kicker":"Communities of Practice",
+                      "title":"Join the Communicators",
+                      "deck":"Share and learn with communications and public affairs practitioners.",
+                      "summary":"Improve written and verbal communication to make government more effective.",
+                      "date":"2021-02-24T18:49:00-0500",
+                      "date_modified":"2024-12-09T12:50:11-05:00",
+                      "authors":{
+                         "deanna-mccray-james":"Deanna McCray-James",
+                         "josie-anderson":"Josie Anderson"
+                      },
+                      "topics":{
+                         "communication":"Communication",
+                         "content-strategy":"Content Strategy",
+                         "open-government":"Open government",
+                         "plain-language":"Plain Language",
+                         "social-media":"Social Media"
+                      },
+                      "community_list":{
+                         "list_1":{
+                            "join_cop_button":"Communicators community members",
+                            "members":"2,554",
+                            "platform":"listserv",
+                            "subscribe_email":"fcn-request@listserv.gsa.gov",
+                            "subscribe_email_subject":"Join the Communicators Community",
+                            "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                            "type":"government"
+                         },
+                         "branch":"main",
+                         "filename":"communicators.md",
+                         "filepath":"communities/communicators.md",
+                         "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/communicators.md",
+                         "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/communicators.md",
+                         "weight":"1",
+                         "aliases":{
+                            "0":"/communities/federal-communicators-network/"
+                         },
+                         "url":"https://digital.gov/communities/communicators/"
+                      },
+                      {
+                         "title":"Federal Technology Investment Management",
+                         "deck":"Working to achieve greater government efficiency in the management of federal IT resources and assets.",
+                         "summary":"We share best practices and lessons learned to improve IT cost transparency across government.",
+                         "date":"2020-04-30T17:00:00-0500",
+                         "date_modified":"2024-12-09T12:50:11-05:00",
+                         "authors":{
+                            "shonna-evansthompson":"Shonna Evans-Thompson",
+                            "laura-szakmary":"Laura Szakmary",
+                            "kyra-stewart":"Kyra Stewart"
+                         },
+                         "topics":{
+                            "acquisition":"Acquisition"
+                         },
+                         "community_list":{
+                            "list_1":{
+                               "emails_per_week":"0.5",
+                               "members":"518",
+                               "platform":"listserv",
+                               "subscribe_email":"listserv@listserv.gsa.gov",
+                               "subscribe_email_body":"Subscribe FTIM-COP",
+                               "terms":"Open to any Federal employee or contractor with a .gov or .mil email address.",
+                               "type":"government"
+                            },
+                            "branch":"main",
+                            "filename":"federal-technology-investment-management.md",
+                            "filepath":"communities/federal-technology-investment-management.md",
+                            "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/federal-technology-investment-management.md",
+                            "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/federal-technology-investment-management.md",
+                            "weight":"1",
+                            "aliases":{
+                               "0":"/communities/federal-technology-investment-management-community/"
+                            },
+                            "slug":"federal-technology-investment-management",
+                            "url":"https://digital.gov/communities/federal-technology-investment-management/"
+                         },
+                         {
+                            "kicker":"Join the Cloud and Infrastructure Community",
+                            "title":"Cloud and Infrastructure",
+                            "deck":"We connect data center and cloud colleagues to share insights and knowledge.",
+                            "summary":"A community for those who support their agency’s IT modernization efforts, and want to learn about application rationalization, data center optimization, and federal cloud computing.",
+                            "date":"2020-04-30T10:00:00-0500",
+                            "date_modified":"2024-12-09T12:50:11-05:00",
+                            "authors":{
+                               "thomas-santucci":"Thomas Santucci",
+                               "guy-cavallo":"Guy Cavallo"
+                            },
+                            "topics":{
+                               "cloud-and-infrastructure":"Cloud and infrastructure"
+                            },
+                            "community_list":{
+                               "list_1":{
+                                  "emails_per_week":"0.5",
+                                  "members":"900",
+                                  "platform":"listserv",
+                                  "subscribe_email":"listserv@listserv.gsa.gov ",
+                                  "subscribe_email_body":"Subscribe datacenters [First Name] [Last Name], [Position Title] ",
+                                  "subscribe_email_subject":"Join: Cloud &amp; Infrastructure Community",
+                                  "terms":"Open to anyone with a .gov or .mil email address.",
+                                  "type":"government"
+                               },
+                               "branch":"main",
+                               "filename":"cloud-infrastructure.md",
+                               "filepath":"communities/cloud-infrastructure.md",
+                               "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/cloud-infrastructure.md",
+                               "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/cloud-infrastructure.md",
+                               "weight":"1",
+                               "aliases":{
+                                  "0":"/communities/cloud-infrastructure-community/"
+                               },
+                               "slug":"cloud-infrastructure",
+                               "url":"https://digital.gov/communities/cloud-infrastructure/"
+                            },
+                            {
+                               "title":"Federal Leadership and Professional Development",
+                               "deck":"Providing federal employees with seminars on leadership, professional development, and strategy.",
+                               "summary":"Providing federal employees with seminars on leadership, professional development, and strategy.",
+                               "date":"2020-03-10T16:00:00-0500",
+                               "date_modified":"2024-12-09T12:50:11-05:00",
+                               "topics":{
+                                  "innovation":"Innovation",
+                                  "product-and-project-management":"Product and project management",
+                                  "professional-development":"Professional Development"
+                               },
+                               "community_list":{
+                                  "list_1":{
+                                     "members":"4660",
+                                     "platform":"listserv",
+                                     "subscribe_email":"FedLeadershipSeminar-subscribe-request@listserv.gsa.gov",
+                                     "terms":"Anyone with a .gov or .mil email address is eligible to join",
+                                     "type":"government"
+                                  },
+                                  "branch":"main",
+                                  "filename":"federal-leadership-professional-development.md",
+                                  "filepath":"communities/federal-leadership-professional-development.md",
+                                  "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/federal-leadership-professional-development.md",
+                                  "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/federal-leadership-professional-development.md",
+                                  "weight":"1",
+                                  "slug":"federal-leadership-professional-development",
+                                  "url":"https://digital.gov/communities/federal-leadership-professional-development/"
+                               },
+                               {
+                                  "kicker":"Join the Artificial Intelligence Community",
+                                  "title":"Artificial Intelligence (AI)",
+                                  "deck":"",
+                                  "summary":"Supporting and coordinating the use of artificial intelligence technologies in federal agencies.",
+                                  "date":"2019-12-31T19:03:00-0500",
+                                  "date_modified":"2024-12-09T12:50:11-05:00",
+                                  "authors":{
+                                     "eric-ewing":"Eric Ewing"
+                                  },
+                                  "topics":{
+                                     "artificial-intelligence":"Artificial intelligence"
+                                  },
+                                  "community_list":{
+                                     "list_1":{
+                                        "members":"1118",
+                                        "platform":"listserv",
+                                        "subscribe_email":"AI-subscribe-request@listserv.gsa.gov",
+                                        "terms":"Only federal employees are eligible to join.",
+                                        "type":"government",
+                                        "list_2":{
+                                           "members":"357",
+                                           "platform":"listserv",
+                                           "subscribe_email":"AIPUBLIC-subscribe-request@listserv.gsa.gov",
+                                           "terms":"Anyone is eligible to join.",
+                                           "type":"public"
+                                        },
+                                        "branch":"main",
+                                        "filename":"artificial-intelligence.md",
+                                        "filepath":"communities/artificial-intelligence.md",
+                                        "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/artificial-intelligence.md",
+                                        "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/artificial-intelligence.md",
+                                        "weight":"1",
+                                        "slug":"artificial-intelligence",
+                                        "url":"https://digital.gov/communities/artificial-intelligence/"
+                                     },
+                                     {
+                                        "kicker":"Communities of Practice",
+                                        "title":"Join the Social Media",
+                                        "deck":"Share and learn with social media practitioners.",
+                                        "summary":"Improve social media outreach and performance.",
+                                        "date":"2019-12-12T19:00:00-0500",
+                                        "date_modified":"2024-12-09T12:50:11-05:00",
+                                        "authors":{
+                                           "laura-larrimore":"Laura Larrimore",
+                                           "catie-miller":"Catie Miller"
+                                        },
+                                        "topics":{
+                                           "social-media":"Social Media"
+                                        },
+                                        "community_list":{
+                                           "list_1":{
+                                              "join_cop_button":"Social Media community members",
+                                              "members":"1,596",
+                                              "platform":"listserv",
+                                              "subscribe_email":"sm-cop-request@listserv.gsa.gov",
+                                              "subscribe_email_subject":"Join the Social Media Community",
+                                              "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                                              "type":"government"
+                                           },
+                                           "primary_image":{
+                                              "uid":"communities-card-sm",
+                                              "alt":"",
+                                              "width":"2501",
+                                              "height":"1307",
+                                              "credit":"",
+                                              "caption":"",
+                                              "format":"png"
+                                           },
+                                           "branch":"main",
+                                           "filename":"social-media.md",
+                                           "filepath":"communities/social-media.md",
+                                           "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/social-media.md",
+                                           "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/social-media.md",
+                                           "weight":"1",
+                                           "slug":"social-media",
+                                           "url":"https://digital.gov/communities/social-media/"
+                                        },
+                                        {
+                                           "title":"Robotic Process Automation (RPA)",
+                                           "summary":"A collaborative body designed to rapidly accelerate the adoption of Robotic Process Automation (RPA) technology across the federal government.",
+                                           "date":"2019-12-12T19:00:00-0500",
+                                           "date_modified":"2024-12-09T12:50:11-05:00",
+                                           "authors":{
+                                              "gabrielle-perret":"Gabrielle Perret"
+                                           },
+                                           "topics":{
+                                              "emerging-tech":"Emerging tech",
+                                              "robotic-process-automation":"Robotic process automation"
+                                           },
+                                           "community_list":{
+                                              "list_1":{
+                                                 "members":"1175",
+                                                 "platform":"listserv",
+                                                 "subscribe_email":"FedRPA-subscribe-request@listserv.gsa.gov",
+                                                 "terms":"Only federal employees are eligible to join.",
+                                                 "type":"government_only"
+                                              },
+                                              "branch":"main",
+                                              "filename":"rpa-community.md",
+                                              "filepath":"communities/rpa-community.md",
+                                              "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/rpa-community.md",
+                                              "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/rpa-community.md",
+                                              "weight":"1",
+                                              "slug":"rpa",
+                                              "url":"https://digital.gov/communities/rpa/"
+                                           },
+                                           {
+                                              "title":"U.S. Web Design System",
+                                              "deck":"Making it easier to build accessible, mobile-friendly government websites for the public.",
+                                              "summary":"A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project.",
+                                              "date":"2019-12-12T19:00:00-0500",
+                                              "date_modified":"2024-12-09T12:50:11-05:00",
+                                              "authors":{
+                                                 "dan-williams":"Dan Williams"
+                                              },
+                                              "topics":{
+                                                 "accessibility":"Accessibility",
+                                                 "design":"Design",
+                                                 "open-source":"Open Source",
+                                                 "product-and-project-management":"Product and project management",
+                                                 "software-engineering":"Software Engineering",
+                                                 "user-experience":"User Experience"
+                                              },
+                                              "community_list":{
+                                                 "list_1":{
+                                                    "emails_per_week":"",
+                                                    "members":"108",
+                                                    "platform":"slack",
+                                                    "subscribe_email":"uswds@support.digitalgov.gov",
+                                                    "subscribe_email_subject":"Join USWDS Slack",
+                                                    "subscribe_form":"https://chat.18f.gov/",
+                                                    "type":"public"
+                                                 },
+                                                 "branch":"main",
+                                                 "filename":"uswds.md",
+                                                 "filepath":"communities/uswds.md",
+                                                 "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/uswds.md",
+                                                 "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/uswds.md",
+                                                 "weight":"1",
+                                                 "slug":"uswds",
+                                                 "url":"https://digital.gov/communities/uswds/"
+                                              },
+                                              {
+                                                 "title":"Section 508 IT Accessibility",
+                                                 "deck":"",
+                                                 "summary":"To support people working to enhance access to federal information technology (IT), we identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards.",
+                                                 "date":"2018-10-05T13:00:00-0500",
+                                                 "date_modified":"2024-12-09T12:50:11-05:00",
+                                                 "authors":{
+                                                    "avis-ryan":"Avis Ryan",
+                                                    "yvette-gibson":"Yvette Gibson"
+                                                 },
+                                                 "topics":{
+                                                    "accessibility":"Accessibility",
+                                                    "communication":"Communication",
+                                                    "content-strategy":"Content Strategy",
+                                                    "plain-language":"Plain Language",
+                                                    "user-experience":"User Experience"
+                                                 },
+                                                 "community_list":{
+                                                    "list_1":{
+                                                       "emails_per_week":"",
+                                                       "members":"939",
+                                                       "platform":"listserv",
+                                                       "subscribe_email":"section.508@gsa.gov",
+                                                       "subscribe_email_subject":"Join: Accessibility / Section 508",
+                                                       "terms":"U.S. government employees and U.S. educational institution employees are eligible to join.",
+                                                       "type":"government"
+                                                    },
+                                                    "branch":"main",
+                                                    "filename":"it-accessibility-section-508.md",
+                                                    "filepath":"communities/it-accessibility-section-508.md",
+                                                    "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/it-accessibility-section-508.md",
+                                                    "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/it-accessibility-section-508.md",
+                                                    "weight":"1",
+                                                    "aliases":{
+                                                       "0":"/communities/accessibility/"
+                                                    },
+                                                    "slug":"it-accessibility-section-508",
+                                                    "url":"https://digital.gov/communities/it-accessibility-section-508/"
+                                                 },
+                                                 {
+                                                    "title":"OpenGov",
+                                                    "summary":"The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.",
+                                                    "date":"2017-08-24T03:30:00-0500",
+                                                    "date_modified":"2024-12-09T12:50:11-05:00",
+                                                    "topics":{
+                                                       "open-source":"Open Source"
+                                                    },
+                                                    "branch":"main",
+                                                    "filename":"open-gov.md",
+                                                    "filepath":"communities/open-gov.md",
+                                                    "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/open-gov.md",
+                                                    "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/open-gov.md",
+                                                    "weight":"1",
+                                                    "aliases":{
+                                                       "0":"/communities/open-government-opengov-community-of-practice/",
+                                                       "1":"/communities/open-government/"
+                                                    },
+                                                    "slug":"open-gov",
+                                                    "url":"https://digital.gov/communities/open-gov/"
+                                                 },
+                                                 {
+                                                    "title":"Video Production Pros",
+                                                    "summary":"Video Production Pros brings together passionate storytellers, artists, social media experts, strategists, and video production experts from across the U.S. government.",
+                                                    "date":"2016-07-08T01:19:06-0500",
+                                                    "date_modified":"2024-12-09T12:50:11-05:00",
+                                                    "authors":{
+                                                       "bryan-drenning":"Bryan Drenning",
+                                                       "todd-folts":"Todd Folts"
+                                                    },
+                                                    "topics":{
+                                                       "multimedia":"Multimedia"
+                                                    },
+                                                    "community_list":{
+                                                       "list_1":{
+                                                          "join_cop_button":"Video Producers",
+                                                          "members":"510",
+                                                          "platform":"listserv",
+                                                          "subscribe_email":"VIDEO-PRODUCTION-subscribe-request@listserv.gsa.gov",
+                                                          "terms":"Anyone with a .gov or .mil email address is eligible to join.",
+                                                          "type":"government"
+                                                       },
+                                                       "branch":"main",
+                                                       "filename":"video.md",
+                                                       "filepath":"communities/video.md",
+                                                       "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/video.md",
+                                                       "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/video.md",
+                                                       "weight":"1",
+                                                       "aliases":{
+                                                          "0":"/communities/video-production-pros-community-of-practice/",
+                                                          "1":"/communities/digital-audio-video-community-of-practice/"
+                                                       },
+                                                       "slug":"video-production",
+                                                       "url":"https://digital.gov/communities/video-production/"
+                                                    },
+                                                    {
+                                                       "kicker":"Communities of practice",
+                                                       "title":"Join the Plain Language",
+                                                       "deck":"Share and learn with plain language practitioners.",
+                                                       "summary":"Promote the use of plain language to provide better service to the public.",
+                                                       "date":"2016-02-03T10:58:53-0500",
+                                                       "date_modified":"2024-12-09T12:50:11-05:00",
+                                                       "authors":{
+                                                          "katherine-spivey":"Katherine Spivey",
+                                                          "katina-stapleton":"Katina Stapleton",
+                                                          "jamie-stark":"Jamie Stark",
+                                                          "miriam-vincent":"Miriam Vincent"
+                                                       },
+                                                       "topics":{
+                                                          "accessibility":"Accessibility",
+                                                          "communication":"Communication",
+                                                          "content-strategy":"Content Strategy",
+                                                          "plain-language":"Plain Language"
+                                                       },
+                                                       "community_list":{
+                                                          "list_1":{
+                                                             "join_cop_button":"Plain Language community members",
+                                                             "members":"2,550",
+                                                             "platform":"listserv",
+                                                             "subscribe_email":"pl-cop-main-request@listserv.gsa.gov",
+                                                             "subscribe_email_subject":"Join the Plain Language Community",
+                                                             "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                                                             "type":"public"
+                                                          },
+                                                          "primary_image":{
+                                                             "uid":"communities-card-pl",
+                                                             "alt":"",
+                                                             "width":"2501",
+                                                             "height":"1307",
+                                                             "credit":"",
+                                                             "caption":"",
+                                                             "format":"png"
+                                                          },
+                                                          "branch":"main",
+                                                          "filename":"plain-language-community-of-practice.md",
+                                                          "filepath":"communities/plain-language-community-of-practice.md",
+                                                          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/plain-language-community-of-practice.md",
+                                                          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/plain-language-community-of-practice.md",
+                                                          "weight":"1",
+                                                          "aliases":{
+                                                             "0":"/communities/plain-language-community-of-practice/"
+                                                          },
+                                                          "slug":"plain-language",
+                                                          "url":"https://digital.gov/communities/plain-language/"
+                                                       },
+                                                       {
+                                                          "kicker":"Join the Crowdsourcing and Citizen Science Community",
+                                                          "title":"Crowdsourcing and Citizen Science",
+                                                          "deck":"",
+                                                          "summary":"We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.",
+                                                          "date":"2015-09-29T02:17:00-0500",
+                                                          "date_modified":"2024-12-09T12:50:11-05:00",
+                                                          "authors":{
+                                                             "jay-benforado":"Jay Benforado",
+                                                             "sophia-b-liu":"Sophia B. Liu",
+                                                             "john-mclaughlin":"John McLaughlin"
+                                                          },
+                                                          "topics":{
+                                                             "challenges-and-prize-competitions":"Challenges & Prize Competitions",
+                                                             "crowdsourcing-and-citizen-science":"Crowdsourcing and Citizen Science"
+                                                          },
+                                                          "community_list":{
+                                                             "list_1":{
+                                                                "emails_per_week":"4",
+                                                                "members":"427",
+                                                                "platform":"listserv",
+                                                                "subscribe_email":"FCPCCS-subscribe-request@listserv.gsa.gov",
+                                                                "subscribe_email_body":"enter your name &#43; agency you work for",
+                                                                "subscribe_email_subject":"subscribe FCPCCS",
+                                                                "type":"government"
+                                                             },
+                                                             "branch":"main",
+                                                             "filename":"crowdsourcing-and-citizen-science.md",
+                                                             "filepath":"communities/crowdsourcing-and-citizen-science.md",
+                                                             "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/crowdsourcing-and-citizen-science.md",
+                                                             "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/crowdsourcing-and-citizen-science.md",
+                                                             "weight":"1",
+                                                             "aliases":{
+                                                                "0":"/federal-crowdsourcing-and-citizen-science/",
+                                                                "1":"/communities/federal-crowdsourcing-and-citizen-science/"
+                                                             },
+                                                             "slug":"crowdsourcing-citizen-science",
+                                                             "url":"https://digital.gov/communities/crowdsourcing-citizen-science/"
+                                                          },
+                                                          {
+                                                             "title":"Customer Experience",
+                                                             "summary":"We are an interagency group of customer experience practitioners.",
+                                                             "date":"2015-07-08T10:30:37-0500",
+                                                             "date_modified":"2024-12-09T12:50:11-05:00",
+                                                             "topics":{
+                                                                "customer-experience":"Customer experience"
+                                                             },
+                                                             "community_list":{
+                                                                "list_1":{
+                                                                   "members":"1147",
+                                                                   "platform":"listserv",
+                                                                   "subscribe_email":"CX-COP-subscribe-request@listserv.gsa.gov",
+                                                                   "subscribe_email_subject":"CX LISTSERV",
+                                                                   "type":"government"
+                                                                },
+                                                                "branch":"main",
+                                                                "filename":"customer-experience.md",
+                                                                "filepath":"communities/customer-experience.md",
+                                                                "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/customer-experience.md",
+                                                                "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/customer-experience.md",
+                                                                "weight":"1",
+                                                                "slug":"customer-experience",
+                                                                "url":"https://digital.gov/communities/customer-experience/"
+                                                             },
+                                                             {
+                                                                "kicker":"Communities of practice",
+                                                                "title":"Open Data",
+                                                                "summary":"A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.",
+                                                                "date":"2015-07-08T10:30:37-0500",
+                                                                "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                "authors":{
+                                                                   "pashlock":"Phil Ashlock",
+                                                                   "hyon-kim":"Hyon Kim"
+                                                                },
+                                                                "topics":{
+                                                                   "open-data":"Open data"
+                                                                },
+                                                                "community_list":{
+                                                                   "list_1":{
+                                                                      "emails_per_week":"1",
+                                                                      "join_cop_button":"Open Data community members",
+                                                                      "members":"925",
+                                                                      "platform":"listserv",
+                                                                      "subscribe_email":"listserv@listserv.gsa.gov",
+                                                                      "subscribe_email_body":"Subscribe Open-Data",
+                                                                      "type":"government"
+                                                                   },
+                                                                   "branch":"main",
+                                                                   "filename":"open-data.md",
+                                                                   "filepath":"communities/open-data.md",
+                                                                   "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/open-data.md",
+                                                                   "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/open-data.md",
+                                                                   "weight":"1",
+                                                                   "aliases":{
+                                                                      "0":"/communities/open-data-community-of-practice/"
+                                                                   },
+                                                                   "slug":"open-data",
+                                                                   "url":"https://digital.gov/communities/open-data/"
+                                                                },
+                                                                {
+                                                                   "kicker":"Communities of practice",
+                                                                   "title":"Join the Multilingual",
+                                                                   "deck":"Share and learn with multilingual practitioners.",
+                                                                   "summary":"Expand and improve digital content in languages other than English.",
+                                                                   "date":"2014-02-21T04:58:10-0500",
+                                                                   "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                   "authors":{
+                                                                      "lgodfrey":"Laura Godfrey",
+                                                                      "fedora-braverman":"Fedora Braverman"
+                                                                   },
+                                                                   "topics":{
+                                                                      "content-strategy":"Content Strategy",
+                                                                      "multilingual":"Multilingual",
+                                                                      "user-experience":"User Experience"
+                                                                   },
+                                                                   "community_list":{
+                                                                      "list_1":{
+                                                                         "join_cop_button":"Multilingual community members",
+                                                                         "members":"765",
+                                                                         "platform":"listserv",
+                                                                         "subscribe_email":"fmwc-request@listserv.gsa.gov",
+                                                                         "subscribe_email_subject":"Join the Multilingual Community",
+                                                                         "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                                                                         "type":"government"
+                                                                      },
+                                                                      "primary_image":{
+                                                                         "uid":"communities-card-ml",
+                                                                         "alt":"",
+                                                                         "width":"2501",
+                                                                         "height":"1307",
+                                                                         "credit":"",
+                                                                         "caption":"",
+                                                                         "format":"png"
+                                                                      },
+                                                                      "branch":"main",
+                                                                      "filename":"multilingual.md",
+                                                                      "filepath":"communities/multilingual.md",
+                                                                      "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/multilingual.md",
+                                                                      "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/multilingual.md",
+                                                                      "weight":"1",
+                                                                      "aliases":{
+                                                                         "0":"/government-multilingual-websites-community/"
+                                                                      },
+                                                                      "slug":"multilingual",
+                                                                      "url":"https://digital.gov/communities/multilingual/"
+                                                                   },
+                                                                   {
+                                                                      "kicker":"Communities of Practice",
+                                                                      "title":"Join the User Experience",
+                                                                      "deck":"Share and learn with user experience and design practitioners.",
+                                                                      "summary":"Create better user-centered products for the public.",
+                                                                      "date":"2014-01-13T02:35:36-0500",
+                                                                      "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                      "authors":{
+                                                                         "jean-fox":"Jean Fox"
+                                                                      },
+                                                                      "topics":{
+                                                                         "user-experience":"User Experience"
+                                                                      },
+                                                                      "community_list":{
+                                                                         "list_1":{
+                                                                            "join_cop_button":"User Experience community members",
+                                                                            "members":"2,363",
+                                                                            "platform":"listserv",
+                                                                            "subscribe_email":"ux-cop-request@listserv.gsa.gov",
+                                                                            "subscribe_email_subject":"Join the User Experience Community",
+                                                                            "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                                                                            "type":"government"
+                                                                         },
+                                                                         "primary_image":{
+                                                                            "uid":"communities-card-ux",
+                                                                            "alt":"",
+                                                                            "width":"2501",
+                                                                            "height":"1307",
+                                                                            "credit":"",
+                                                                            "caption":"",
+                                                                            "format":"png"
+                                                                         },
+                                                                         "branch":"main",
+                                                                         "filename":"user-experience.md",
+                                                                         "filepath":"communities/user-experience.md",
+                                                                         "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/user-experience.md",
+                                                                         "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/user-experience.md",
+                                                                         "weight":"1",
+                                                                         "aliases":{
+                                                                            "0":"/federal-user-experience-community-of-practice/"
+                                                                         },
+                                                                         "slug":"user-experience",
+                                                                         "url":"https://digital.gov/communities/user-experience/"
+                                                                      },
+                                                                      {
+                                                                         "kicker":"Join the Challenge & Prize Community",
+                                                                         "title":"Challenge \u0026 Prize",
+                                                                         "deck":"",
+                                                                         "summary":"We encourage public participation in crowdsourcing competitions to find innovative government solutions.",
+                                                                         "date":"2013-12-05T10:46:00-0500",
+                                                                         "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                         "authors":{
+                                                                            "jarah-meador":"Dr. Jarah Meador"
+                                                                         },
+                                                                         "topics":{
+                                                                            "challenges-and-prize-competitions":"Challenges & Prize Competitions",
+                                                                            "crowdsourcing-and-citizen-science":"Crowdsourcing and Citizen Science"
+                                                                         },
+                                                                         "community_list":{
+                                                                            "list_1":{
+                                                                               "members":"800",
+                                                                               "platform":"listserv",
+                                                                               "subscribe_email":"challenges-subscribe-request@listserv.gsa.gov",
+                                                                               "terms":"Anyone with a .gov or .mil email address is eligible to join",
+                                                                               "type":"government"
+                                                                            },
+                                                                            "branch":"main",
+                                                                            "filename":"challenges-prizes.md",
+                                                                            "filepath":"communities/challenges-prizes.md",
+                                                                            "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/challenges-prizes.md",
+                                                                            "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/challenges-prizes.md",
+                                                                            "weight":"1",
+                                                                            "aliases":{
+                                                                               "0":"/challenges-prizes-community/"
+                                                                            },
+                                                                            "slug":"challenges-prizes",
+                                                                            "url":"https://digital.gov/communities/challenges-prizes/"
+                                                                         },
+                                                                         {
+                                                                            "kicker":"Communities of Practice",
+                                                                            "title":"Join the Web Managers",
+                                                                            "deck":"Share and learn with web and digital services practitioners.",
+                                                                            "summary":"Create a better online experience for the public alongside government web content managers.",
+                                                                            "date":"2013-11-21T02:31:00-0500",
+                                                                            "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                            "authors":{
+                                                                               "toni-bonitto":"Toni Bonitto",
+                                                                               "tori-garten":"Tori Garten",
+                                                                               "beth-martin":"Beth Martin",
+                                                                               "ruxi-giura":"Ruxi Giura"
+                                                                            },
+                                                                            "topics":{
+                                                                               "accessibility":"Accessibility",
+                                                                               "analytics":"Analytics",
+                                                                               "communication":"Communication",
+                                                                               "content-strategy":"Content Strategy",
+                                                                               "customer-experience":"Customer experience",
+                                                                               "design":"Design",
+                                                                               "digital-service-delivery":"Digital Service Delivery",
+                                                                               "governance":"Governance",
+                                                                               "human-centered-design":"Human centered design",
+                                                                               "information-architecture":"Information architecture",
+                                                                               "mobile":"Mobile",
+                                                                               "multilingual":"Multilingual",
+                                                                               "multimedia":"Multimedia",
+                                                                               "plain-language":"Plain Language",
+                                                                               "policy":"Policies and Regulations",
+                                                                               "privacy":"Privacy",
+                                                                               "product-and-project-management":"Product and project management",
+                                                                               "search-engine-optimization":"Search Engine Optimization",
+                                                                               "security":"Security",
+                                                                               "social-media":"Social Media",
+                                                                               "usability":"Usability",
+                                                                               "user-experience":"User Experience"
+                                                                            },
+                                                                            "community_list":{
+                                                                               "list_1":{
+                                                                                  "join_cop_button":"Web Manager community members",
+                                                                                  "members":"2,225",
+                                                                                  "platform":"listserv",
+                                                                                  "subscribe_email":"content-managers-l-request@listserv.gsa.gov",
+                                                                                  "subscribe_email_subject":"Join the Web Managers Community",
+                                                                                  "terms":"Government employees and contractors with an official .gov or .mil email are eligible to join.",
+                                                                                  "type":"government_only"
+                                                                               },
+                                                                               "primary_image":{
+                                                                                  "uid":"communities-card-web-mgrs",
+                                                                                  "alt":"",
+                                                                                  "width":"2501",
+                                                                                  "height":"1307",
+                                                                                  "credit":"",
+                                                                                  "caption":"",
+                                                                                  "format":"png"
+                                                                               },
+                                                                               "branch":"main",
+                                                                               "filename":"web-managers-forum.md",
+                                                                               "filepath":"communities/web-managers-forum.md",
+                                                                               "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/web-managers-forum.md",
+                                                                               "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/web-managers-forum.md",
+                                                                               "weight":"2",
+                                                                               "aliases":{
+                                                                                  "0":"/communities/web-managers-forum/",
+                                                                                  "1":"/communities/web-managers-forum/web-content-managers-listserv/"
+                                                                               },
+                                                                               "slug":"web-content-managers",
+                                                                               "url":"https://digital.gov/communities/web-content-managers/"
+                                                                            },
+                                                                            {
+                                                                               "title":"Identity, Credential, and Access Management Subcommittee (ICAMSC)",
+                                                                               "summary":"The Identity, Credential, and Access Management Subcommittee (ICAMSC) is the principal interagency forum for identity management, secure access, authentication, authorization, credentials, privileges, and access lifecycle management.",
+                                                                               "date":"2022-05-25T16:38:00-0500",
+                                                                               "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                               "branch":"main",
+                                                                               "filename":"identity-credential-and-access-management-icam.md",
+                                                                               "filepath":"communities/identity-credential-and-access-management-icam.md",
+                                                                               "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/identity-credential-and-access-management-icam.md",
+                                                                               "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/identity-credential-and-access-management-icam.md",
+                                                                               "slug":"identity-credential-and-access-management-icam",
+                                                                               "url":"https://digital.gov/communities/identity-credential-and-access-management-icam/"
+                                                                            },
+                                                                            {
+                                                                               "title":"IT Buyers",
+                                                                               "summary":"The Information Technology (IT) Buyers Community of Practice (ITB CoP) brings together acquisition programs, contract vehicle programs, and procurement specialists to create a community of federal IT buyers who share their experiences and scale their expertise across government.",
+                                                                               "date":"2022-03-24T14:36:00-0500",
+                                                                               "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                               "branch":"main",
+                                                                               "filename":"it-buyers.md",
+                                                                               "filepath":"communities/it-buyers.md",
+                                                                               "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/it-buyers.md",
+                                                                               "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/it-buyers.md",
+                                                                               "slug":"it-buyers",
+                                                                               "url":"https://digital.gov/communities/it-buyers/"
+                                                                            },
+                                                                            {
+                                                                               "title":"DevOps",
+                                                                               "deck":"Operating rapidly changing resilient systems at scale",
+                                                                               "summary":"The practice of operations and development staff participating in the entire service lifecycle to operate rapidly changing resilient systems at scale.",
+                                                                               "date":"2019-12-12T19:00:00-0500",
+                                                                               "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                               "authors":{
+                                                                                  "ken-kato":"Ken Kato",
+                                                                                  "angeli-hawkins":"Angeli Hawkins"
+                                                                               },
+                                                                               "topics":{
+                                                                                  "software-engineering":"Software Engineering"
+                                                                               },
+                                                                               "community_list":{
+                                                                                  "list_1":{
+                                                                                     "join_cop_button":"DevOps community members",
+                                                                                     "platform":"listserv",
+                                                                                     "subscribe_email":"devops-today-subscribe-request@listserv.gsa.gov",
+                                                                                     "subscribe_email_subject":"Subscribe to DevOps",
+                                                                                     "type":"government"
+                                                                                  },
+                                                                                  "branch":"main",
+                                                                                  "filename":"devops.md",
+                                                                                  "filepath":"communities/devops.md",
+                                                                                  "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/devops.md",
+                                                                                  "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/devops.md",
+                                                                                  "slug":"devops",
+                                                                                  "url":"https://digital.gov/communities/devops/"
+                                                                               },
+                                                                               {
+                                                                                  "title":"Results-Oriented Accountability for Grants",
+                                                                                  "summary":"Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal.",
+                                                                                  "date":"2018-05-31T12:00:00-0500",
+                                                                                  "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                                  "community_list":{
+                                                                                     "list_1":{
+                                                                                        "emails_per_week":"0.3",
+                                                                                        "members":"539",
+                                                                                        "platform":"listserv",
+                                                                                        "subscribe_email":"grantsfed-subscribe-request@listserv.gsa.gov",
+                                                                                        "subscribe_email_subject":"Federal Join: Results-Oriented Accountability for Grants Community of Practice",
+                                                                                        "type":"government",
+                                                                                        "list_2":{
+                                                                                           "emails_per_week":"",
+                                                                                           "members":"",
+                                                                                           "platform":"listserv",
+                                                                                           "subscribe_email":"grantscommunity-subscribe-request@listserv.gsa.gov",
+                                                                                           "subscribe_email_subject":"Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice",
+                                                                                           "type":"public"
+                                                                                        },
+                                                                                        "branch":"main",
+                                                                                        "filename":"results-oriented-accountability-for-grants.md",
+                                                                                        "filepath":"communities/results-oriented-accountability-for-grants.md",
+                                                                                        "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/results-oriented-accountability-for-grants.md",
+                                                                                        "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/results-oriented-accountability-for-grants.md",
+                                                                                        "slug":"results-oriented-accountability-for-grants",
+                                                                                        "url":"https://digital.gov/communities/results-oriented-accountability-for-grants/"
+                                                                                     },
+                                                                                     {
+                                                                                        "title":"Application Programming Interfaces (APIs)",
+                                                                                        "deck":"Working to advance the cause of APIs in the federal government",
+                                                                                        "summary":"Working to advance the cause of APIs in the federal government.",
+                                                                                        "date":"2018-03-29T03:30:00-0500",
+                                                                                        "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                                        "authors":{
+                                                                                           "gray-brooks":"Gray Brooks"
+                                                                                        },
+                                                                                        "topics":{
+                                                                                           "application-programming-interface":"Application programming interface",
+                                                                                           "open-source":"Open Source",
+                                                                                           "software-engineering":"Software Engineering"
+                                                                                        },
+                                                                                        "branch":"main",
+                                                                                        "filename":"apis.md",
+                                                                                        "filepath":"communities/apis.md",
+                                                                                        "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/apis.md",
+                                                                                        "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/apis.md",
+                                                                                        "slug":"apis",
+                                                                                        "url":"https://digital.gov/communities/apis/"
+                                                                                     },
+                                                                                     {
+                                                                                        "title":"Digital.gov Community Guidelines",
+                                                                                        "deck":"Ground rules to create a safe, inclusive, respectful, and welcoming environment",
+                                                                                        "summary":"GSA supports many communities of practice by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.",
+                                                                                        "date":"0001-01-01T00:00:00-0500",
+                                                                                        "date_modified":"2024-12-09T12:50:11-05:00",
+                                                                                        "branch":"main",
+                                                                                        "filename":"manage-listserv-subscription.md",
+                                                                                        "filepath":"communities/manage-listserv-subscription.md",
+                                                                                        "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/communities/manage-listserv-subscription.md",
+                                                                                        "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/communities/manage-listserv-subscription.md",
+                                                                                        "aliases":{
+                                                                                           "0":"/manage-your-listserv-subscription/",
+                                                                                           "1":"/communities/manage-your-subscription/",
+                                                                                           "2":"/communities/manage-your-listserv-subscription/",
+                                                                                           "3":"/manage-your-subscription"
+                                                                                        },
+                                                                                        "slug":"community-guidelines",
+                                                                                        "url":"https://digital.gov/communities/community-guidelines/"
+                                                                                     }
+                                                                                  ]
+                                                                               }

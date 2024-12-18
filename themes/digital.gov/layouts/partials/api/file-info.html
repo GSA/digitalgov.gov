@@ -1,0 +1,11 @@
+"filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+"filepath" : {{- with .File -}}{{- $path | jsonify -}}{{- end -}}, "filepathURL"
+:
+{{- with .File -}}
+  {{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}
+{{- end -}},
