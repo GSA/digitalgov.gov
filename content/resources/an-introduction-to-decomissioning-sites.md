@@ -45,7 +45,6 @@ Consider this decision-making framework when you’re evaluating whether it is t
     <td>Yes / No</td>
   </tr>
 </table>
-</table>
 
 If you answered “no” to any of these prompts, it’s probably time to either modernize or decommission the website.
 
