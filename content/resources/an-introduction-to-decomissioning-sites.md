@@ -26,23 +26,23 @@ Consider this decision-making framework when you’re evaluating whether it is t
 <table class="usa-table">
   <caption>Website decision-making framework</caption>
   <tr>
-    <th>**Customer value** - The site is meeting a current customer need, and you have data to validate this.</th>
+    <th><b>Customer value</b> - The site is meeting a current customer need, and you have data to validate this.</th>
     <td>Yes / No</td>
   </tr>
   <tr>
-    <td>**Content** - Content on the site is current and accurate.</td>
+    <td><b>Content</b> - Content on the site is current and accurate.</td>
     <td>Yes / No</td>
   </tr>
   <tr>
-    <td>**Technical infrastructure** - The site’s tech stack meets the latest federal security and technology requirements.</td>
+    <td><b>Technical infrastructure</b> - The site’s tech stack meets the latest federal security and technology requirements.</td>
     <td>Yes / No</td>
   </tr>
   <tr>
-    <td>**Funding** - Your team has sufficient resources (funding and staff) to continue supporting the site for the foreseeable future.</td>
+    <td><b>Funding</b> - Your team has sufficient resources (funding and staff) to continue supporting the site for the foreseeable future.</td>
     <td>Yes / No</td>
   </tr>
   <tr>
-    <td>**Mandate** - There is a requirement in law or policy for your agency to host the website.</td>
+    <td><b>Mandate</b> - There is a requirement in law or policy for your agency to host the website.</td>
     <td>Yes / No</td>
   </tr>
 </table>
