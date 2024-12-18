@@ -7,7 +7,8 @@ themesDir: "./themes"
 MetaDataFormat: "yaml"
 DefaultContentLanguage: "en"
 SectionPagesMenu: "main"
-Paginate: 20
+pagination:
+  pagerSize: 20
 googleAnalytics: ""
 enableRobotsTXT: true
 enableEmoji: true
@@ -34,6 +35,58 @@ module:
     # Mount S3 bucket content as a global resource
     - source: assets/s3-images
       target: assets/s3-images
+    # Mount SCSS files
+    - source: themes/digital.gov/src/scss
+      target: assets/scss
+    # Mount JS files
+    - source: themes/digital.gov/src/js
+      target: assets/js
+    # Mount USWDS assets
+    - source: node_modules/@uswds/uswds/dist/fonts
+      target: static/uswds/fonts
+    - source: node_modules/@uswds/uswds/dist/img
+      target: static/uswds/img
+    - source: node_modules/@uswds/uswds/dist/js
+      target: assets/js/uswds
+
+# Hugo asset pipeline configuration
+build:
+  buildStats:
+    enable: true
+  # Cache busting configuration
+  cachebusters:
+    - source: assets/watching/hugo_stats\.json
+      target: styles\.css
+    - source: themes/digital\.gov/src/scss/.*\.(scss|sass)$
+      target: css
+    - source: themes/digital\.gov/src/js/.*\.js$
+      target: js
+  # SASS configuration  
+  transpiler: dartsass
+  cssMinify: true
+  options:
+    targetPath: css/styles.css
+    enableSourceMap: true
+    includePaths:
+      - node_modules/@uswds/uswds/packages
+    outputStyle: compressed
+    postcss:
+      - autoprefixer:
+          cascade: false
+          grid: true
+      - csso:
+          forceMediaMerge: true
+  # JavaScript configuration
+  js:
+    - source: assets/js/stream-images.js
+      target: js/stream-images.js
+      minify: true
+    - source: assets/js/uswds/uswds.js
+      target: js/uswds.js
+      minify: true
+    - source: assets/js/uswds/uswds-init.js
+      target: js/uswds-init.js
+      minify: true
 
 sitemap:
   changefreq: "daily"
