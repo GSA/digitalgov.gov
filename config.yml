@@ -16,6 +16,9 @@ buildFuture: true
 refLinksErrorLevel: WARNING
 
 module:
+  helpers: ["./helpers"]
+
+module:
   mounts:
     - source: content
       target: content
