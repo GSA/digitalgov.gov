@@ -119,8 +119,6 @@ Remember that once a site is decommissioned, your work is not done. Monitor user
 * Document lessons learned and share them with others in your agency, through case studies, updated documentation, or other means
 
 ## What can I do next?
-As a website manager, it can be hard to admit that your website is no longer serving a relevant customer need, or adding real business value, but almost every website will reach the end of its useful life at some point.
+As a website manager, it can be hard to admit that your website is no longer serving a relevant customer need, or adding real business value, but almost every website will reach the end of its useful life at some point. Use the decision-making framework and tips in this resource to determine whether it's time to decommission your website. If your answer is yes, define a timeline, responsibilities, and milestones. Then, talk with your supervisor to make it happen!
 
-Use the decision-making framework and tips in this resource to determine whether it's time to decommission your website. If your answer is yes, define a timeline, responsibilities, and milestones. 
-
-Then, talk with your supervisor to make it happen!
+You can also join the Digital.gov [Web Managers Community of Practice](https://digital.gov/communities/web-content-managers/) to connect with fellow practitioners on topics like governance, design, and best practices.
