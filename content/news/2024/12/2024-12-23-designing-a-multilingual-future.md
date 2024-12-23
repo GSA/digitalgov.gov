@@ -15,7 +15,7 @@ topics:
 
 slug: designing-a-multilingual-future
 
-primary_image: 
+primary_image: "language-maria-petrishina-istock-getty-images-1414107897"
 
 # Controls how this page appears across the site
 # 0 -- hidden
