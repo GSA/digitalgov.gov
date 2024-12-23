@@ -40,11 +40,11 @@ Laura humbly credits her colleagues for her knowledge and insights. She acknowle
 
 Before retiring, Laura was the bilingual senior editor of USAGov, where she created the [USAGov bilingual style guide](https://blog.usa.gov/the-usagov-bilingual-style-guide-is-now-online) and served for 19 years as a leader within the [Digital.gov Multilingual Community of Practice](https://digital.gov/communities/multilingual/). As a leader, she cultivated events, conversations, and shared learning for hundreds of community members.
 
-In the [Multilingual Huddle: Designing for Translation](https://digital.gov/resources/multilingual-huddle-designing-for-translation/), Laura and her fellow community leader Fedora Braverman put forth the concept that designing for translation involves more than just translating words. It requires planning content with multilingual audiences in mind, considering factors like text direction, cultural nuances, and image appropriateness to ensure effective communication across different languages and cultures: 
+In the [Multilingual Huddle: Designing for Translation](https://digital.gov/resources/multilingual-huddle-designing-for-translation/), Laura and her fellow community leader, Fedora Braverman, put forth the concept that designing for translation involves more than just translating words. It requires planning content with multilingual audiences in mind, considering factors like text direction, cultural nuances, and image appropriateness to ensure effective communication across different languages and cultures:
 
 {{< youtube id="AP0PJYySH_4" title="Designing for Translation - Multilingual Community Huddle" >}}
 
-To create truly inclusive digital experiences, it’s imperative to design for multilingualism from the outset. 
+To create truly inclusive digital experiences, it’s imperative to design for multilingualism from the outset.
 
 “Plan and ask questions,” Laura said. “Who is the audience? If the audience is the public, how many languages? English or Spanish? Are we going to offer other languages? And if so, consider different characters. Some languages move right to left, others left to right. For this, bring the designers in, because that will save you a lot of headache, money, and time.”
 
