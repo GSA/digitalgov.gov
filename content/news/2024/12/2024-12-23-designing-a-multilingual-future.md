@@ -30,8 +30,6 @@ This foundational philosophy is a widespread, accepted best practice for multili
 
 I recently had the pleasure of speaking with Laura just before her retirement, and we talked about the past and future of multilingualism in federal digital services. While technology has made significant strides in machine translation, Laura’s message is that it’s crucial to remember that language is more than just words.
 
-“Machine translation is great, but if you are in any type of real, human communication, it’s not done by algorithms,” Laura said. “Your tone is different, choice of words is different. When we communicate from a government perspective, we have an audience, so we write for that audience.”
-
 {{< quote-block text="Machine translation is great, but if you are in any type of real, human communication, it’s not done by algorithms. Your tone is different, choice of words is different. When we communicate from a government perspective, we have an audience, so we write for that audience." cite="Laura Godfrey" >}}
 
 Laura humbly credits her colleagues for her knowledge and insights. She acknowledges that leadership involves bringing a team together, and she also recognizes the valuable contributions of the many multilingual experts in the government who deeply understand the languages and cultures they serve.
