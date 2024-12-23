@@ -1,14 +1,19 @@
 ---
 date: 2024-12-18
 source: ""
-title: An introduction to decomissioning sites
+title: An introduction to decommissioning sites
 deck: Learn how to decommission a federal agency website when it no longer provides value or meets user needs.
 summary: Learn how to decommission a federal agency website when it no longer provides value or meets user needs.
 # See all topics at https://digital.gov/topics
+
 topics:
   - governance
   - content-strategy
   - records-management
+
+aliases:
+  - /resources/an-introduction-to-decomissioning-sites/
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
