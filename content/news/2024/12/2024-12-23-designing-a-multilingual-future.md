@@ -32,6 +32,8 @@ I recently had the pleasure of speaking with Laura just before her retirement, a
 
 “Machine translation is great, but if you are in any type of real, human communication, it’s not done by algorithms,” Laura said. “Your tone is different, choice of words is different. When we communicate from a government perspective, we have an audience, so we write for that audience.”
 
+{{< quote-block text="Machine translation is great, but if you are in any type of real, human communication, it’s not done by algorithms. Your tone is different, choice of words is different. When we communicate from a government perspective, we have an audience, so we write for that audience." cite="Laura Godfrey" >}}
+
 Laura humbly credits her colleagues for her knowledge and insights. She acknowledges that leadership involves bringing a team together, and she also recognizes the valuable contributions of the many multilingual experts in the government who deeply understand the languages and cultures they serve.
 
 “I don’t consider myself an expert,” Laura said. “I learn every day. I came into this space 20 years ago, and I was prepared to learn from my colleagues who were all very knowledgeable. This space — the multilingual government community — is full of very qualified people, people who know the language and who they are writing for.”
@@ -40,7 +42,7 @@ Laura humbly credits her colleagues for her knowledge and insights. She acknowle
 
 Before retiring, Laura was the bilingual senior editor of USAGov, where she created the [USAGov bilingual style guide](https://blog.usa.gov/the-usagov-bilingual-style-guide-is-now-online) and served for 19 years as a leader within the [Digital.gov Multilingual Community of Practice](https://digital.gov/communities/multilingual/). As a leader, she cultivated events, conversations, and shared learning for hundreds of community members.
 
-In the [Multilingual Huddle: Designing for Translation](https://digital.gov/resources/multilingual-huddle-designing-for-translation/), Laura and her fellow community leader, Fedora Braverman, put forth the concept that designing for translation involves more than just translating words. It requires planning content with multilingual audiences in mind, considering factors like text direction, cultural nuances, and image appropriateness to ensure effective communication across different languages and cultures:
+In the [Multilingual Huddle: Designing for Translation](https://digital.gov/resources/multilingual-huddle-designing-for-translation/), Laura and her fellow community leader, Fedora Braverman, put forth the concept that designing for translation involves more than just translating words. It requires planning content with multilingual audiences in mind &mdash; considering factors like text direction, cultural nuances, and image appropriateness to ensure effective communication across different languages and cultures:
 
 {{< youtube id="AP0PJYySH_4" title="Designing for Translation - Multilingual Community Huddle" >}}
 
@@ -48,10 +50,9 @@ To create truly inclusive digital experiences, it’s imperative to design for m
 
 “Plan and ask questions,” Laura said. “Who is the audience? If the audience is the public, how many languages? English or Spanish? Are we going to offer other languages? And if so, consider different characters. Some languages move right to left, others left to right. For this, bring the designers in, because that will save you a lot of headache, money, and time.”
 
-By considering language and cultural factors early in the design and translation process, agencies can ensure that their products and services are accessible to all. It seems this is an approach many digital practitioners take for granted now. But as Fedora, Spanish health communications specialist at the National Institutes of Health said, “Laura was a trailblazer in the multilingual world. She not only shaped the Multilingual Community with her vision and expertise but also led with focus, perseverance, and collaboration. Laura’s dedication to building bridges between people, and her unwavering commitment to language access, fostered continuous learning and growth. Her impact will be felt for years to come.”
+By considering language and cultural factors early in the design and translation process, agencies can ensure that their products and services are accessible to all. It seems this is an approach that many digital practitioners take for granted now. But as Fedora, Spanish health communications specialist at the National Institutes of Health, said:
 
-{{< quote-block text="Laura was a trailblazer in the multilingual world. She not only shaped the Multilingual Community with her vision and expertise but also led with focus, perseverance, and collaboration. Laura’s dedication to building bridges between people, and her unwavering commitment to language access, fostered continuous learning and growth. Her impact will be felt for years to come." cite="" >}}
-
+{{< quote-block text="Laura was a trailblazer in the multilingual world. She not only shaped the Multilingual Community with her vision and expertise, but also led with focus, perseverance, and collaboration. Laura’s dedication to building bridges between people, and her unwavering commitment to language access, fostered continuous learning and growth. Her impact will be felt for years to come." cite="" >}}
 
 ## What’s next after looking back on a career in multilingual digital services?
 
@@ -61,7 +62,6 @@ Laura emphasized that communication in the appropriate language can be lifesavin
 
 Looking back on her career, Laura is most proud of “the multilingual adoption in the government as a whole, because people have realized that it’s not just English. We have an obligation to reach as many people as possible, especially in an emergency. FEMA (the Federal Emergency Management Agency) is a lot more expansive with their language reach now, for example. And I’m very proud of Digital.gov, as well because they are constantly thinking about multilingual leadership.”
 
-Perhaps just as striking as the impact of Laura’s philosophy and leadership has been this genuine connection with her colleagues. Renata Bartlett, a product manager at the Technology Transformation Services, shared: “I worked with Laura on a few different projects within the last four years. In this short time that I had an honor to work alongside her, I can tell without a doubt that her dedication and achievements have made a tremendous difference in the federal multilingual community. Laura is an inspirational leader and, above all, a genuine and kind friend.”
+Perhaps just as striking as the impact of Laura’s philosophy and leadership has been this genuine connection with her colleagues. Renata Bartlett, a product manager at the Technology Transformation Services, shared:
 
 {{< quote-block text="I worked with Laura on a few different projects within the last four years. In this short time that I had an honor to work alongside her, I can tell without a doubt that her dedication and achievements have made a tremendous difference in the federal multilingual community. Laura is an inspirational leader and, above all, a genuine and kind friend." cite="" >}}
-
