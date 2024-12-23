@@ -42,7 +42,7 @@ Before retiring, Laura was the bilingual senior editor of USAGov, where she crea
 
 In the [Multilingual Huddle: Designing for Translation](https://digital.gov/resources/multilingual-huddle-designing-for-translation/), Laura and her fellow community leader Fedora Braverman put forth the concept that designing for translation involves more than just translating words. It requires planning content with multilingual audiences in mind, considering factors like text direction, cultural nuances, and image appropriateness to ensure effective communication across different languages and cultures: 
 
-{{< cspan-iframe src="https://www.youtube.com/watch?v=AP0PJYySH_4" title="Designing for Translation - Multilingual Community Huddle" >}}
+{{< youtube id="AP0PJYySH_4" title="Designing for Translation - Multilingual Community Huddle" >}}
 
 To create truly inclusive digital experiences, it’s imperative to design for multilingualism from the outset. 
 
