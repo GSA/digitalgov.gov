@@ -147,7 +147,7 @@ Also, reach out to your agency’s [Digital Experience Council](https://digital.
 Digital.gov provides information and resources for federal agencies related to web and digital policies.  However, we cannot interpret the statutes or specific requirements.
 
 Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) with any questions about interpretations of the law and guidance, which collectively establish a framework and the requirements for a digital-first public experience.
-{{</ note>}}
+{{< /note>}}
 
 <br>
 
