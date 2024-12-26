@@ -80,7 +80,7 @@ Delivering a digital-first public experience is a significant opportunity to imp
 
 OMB’s policy guidance (M-23-22) provides guidance to agencies on how to design and deliver websites and digital services to the public and to assist agencies as they continue to implement 21st Century IDEA. 
 
-{{note}}
+{{< note >}} 
 OMB Memorandum M-23-22 rescinds M-17-06, Policies for Federal Agency Public Websites and Digital Services, published by OMB on November 8, 2016.
 
 M-23-22 also supersedes guidance in the digital government strategy, Digital Government: Building a 21st Century Platform to Better Serve the American People, released by OMB in 2012.
@@ -147,7 +147,7 @@ Also, reach out to your agency’s [Digital Experience Council](https://digital.
 Digital.gov provides information and resources for federal agencies related to web and digital policies.  However, we cannot interpret the statutes or specific requirements.
 
 Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) with any questions about interpretations of the law and guidance, which collectively establish a framework and the requirements for a digital-first public experience.
-{{< /note>}}
+{{< /note >}}
 
 <br>
 
