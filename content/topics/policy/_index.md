@@ -48,12 +48,3 @@ featured_links:
       href: "https://digital.gov/resources/requirements-for-improving-the-management-of-federal-programs-and-projects/"
 
 ---
-
-test hugo code
-
-{{< note variant="note" >}}
-Digital.gov provides information and resources for federal agencies related to web and digital policies. However, we cannot interpret the statutes or specific 
-requirements.
-
-Contact your agency's office of general counsel or OMB’s Office of the Federal CIO at ofcio@omb.eop.gov with any questions about interpretations of these policies.
-{{< /note >}}
