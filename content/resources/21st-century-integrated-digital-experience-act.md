@@ -119,9 +119,9 @@ OMB’s policy guidance (M-23-22) further clarifies requirements and sets specif
 
 ## What were the agency reporting requirements?
 
-21st Century IDEA required agencies to send an annual report to OMB on the progress of implementing the requirements of the law. This reporting requirement concluded after 2023 and was replaced by the below actions.
+21st Century IDEA required agencies to send an annual report to OMB on the progress of implementing the requirements of the law. This reporting requirement concluded after 2023 and was replaced by the actions in M-23-22.
 
-OMB’s policy guidance (M-23-22) required agencies to complete a series of immediate  actions by September 2024.
+OMB’s policy guidance (M-23-22) required agencies to complete a series of immediate actions by September 2024.
 
 {{< box >}}
 **Unlock more resources: Access the M-23-22 Max.gov collaboration space**
