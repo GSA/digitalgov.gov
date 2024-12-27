@@ -26,6 +26,8 @@ primary_image: 2024-uswds-monthly-call-dec-title-card
 
 ---
 
+{{< asset-static file="uswds-monthly-call-december-2024.pptx" label="View the slides (Powerpoint presentation, 2.5 MB, 39 slides)">}}
+
 This month, the U.S. Web Design System team hosts the Federal Website Standards team who will share more about the standards, their origin, the research backing them, and what standards are coming next. 
 
 In this session, you’ll:
@@ -38,8 +40,8 @@ In this session, you’ll:
 **Speakers**
 
 - **Dan Williams** **-** Product Lead, USWDS
-- **Anne Petersen** **-** Engineering Lead, USWDS
-- **Renata Phillippi** **-** Presidential Innovation Fellow, detailed to TTS
+- **Anne Petersen** **-** Experience Design Lead, USWDS
+- **Renata Phillippi** **-** Acting Program Manager, Federal Website Standards
 
 _This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._
 

@@ -75,7 +75,7 @@ Watch the video below, Guide to the Digital Analytics Program (DAP): How to acce
 
 {{< youtube id="tjvQlkVBCqQ" title="Guide to the Digital Analytics Program (DAP): How to access DAP and find your agency data" >}}
 
-<!-- [View the slides (Google Slides presentation, 3.8 MB, 22 pages)](https://docs.google.com/presentation/d/1Ao6r3LXjpzMJUkQX2qdB4h_ADK_fYYqAn23TrogmGBU/edit) -->
+[View the slides (PowerPoint presentation, 3.9 MB, 22 slides)](https://s3.amazonaws.com/digitalgov/static/dap-video-content-presentation-slides-video-1.pptx)
 
 ## Other web analytics tools 
 
