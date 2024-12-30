@@ -23,13 +23,13 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence"
+  title: "Executive Order on safe, secure, and trustworthy artificial intelligence"
   link: "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/"
 
 # Featured resource at the top of the page
 featured_resources:
   resources:
-  - title: "Artificial intelligence: Essential knowledge"
+  - title: "AI.gov"
     summary: "Ensuring the U.S. leads in safe, secure, and trustworthy artificial intelligence innovation to harness the opportunities of AI while mitigating its risks."
     link: "https://www.ai.gov/"
 
