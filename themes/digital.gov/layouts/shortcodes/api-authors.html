@@ -14,16 +14,16 @@
   {{- end -}}
   },
 {{- end -}}
-"items" : [{
+"items" : [
 {{ range $index, $author := $list -}}
   {{ with $author }}
-    "{{- .Params.slug -}}" : {
-    {{- partial "api/author-profile.html" . -}}
-    {{- partial "api/slug.html" . -}}
-    {{- partial "api/metadata.html" . -}}
-    {{- partial "api/file-info.html" . -}}
-    {{- partial "api/aliases.html" . -}}
-    }{{- $.Scratch.Add "i" 1 -}}
+    {
+      {{- partial "api/author-profile.html" . -}}
+      {{- partial "api/metadata.html" . -}}
+      {{- partial "api/aliases.html" . -}}
+      {{- partial "api/slug.html" . -}}
+    }
+    {{- $.Scratch.Add "i" 1 -}}
     {{- $iterator := $.Scratch.Get "i" -}}
     {{- if not (eq $length $iterator) -}},{{- end -}}
   {{- else -}}
@@ -31,4 +31,4 @@
   {{- end -}}
 
 {{ end }}
-}] }
+] }

@@ -26,11 +26,11 @@ community_list:
     terms: "Only federal employees are eligible to join."
     members: 695
 
-  - platform: "listserv"
-    type: public
-    subscribe_email: "BLOCKCHAINPUBLIC-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone is eligible to join."
-    members: 688
+  # - platform: "listserv"
+  #   type: public
+  #   subscribe_email: "BLOCKCHAINPUBLIC-subscribe-request@listserv.gsa.gov"
+  #   terms: "Anyone is eligible to join."
+  #   members: 688
 
 ---
 

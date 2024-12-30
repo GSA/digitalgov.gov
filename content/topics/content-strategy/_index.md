@@ -12,7 +12,6 @@ summary: "Content strategy involves planning, creating, delivering, and governin
 
 aliases:
   - /topics/blog/
-  - /topics/content/
   - /topics/content-management-system/
   - /topics/content-models/
   - /topics/content-syndication/

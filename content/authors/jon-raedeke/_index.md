@@ -6,7 +6,7 @@
 slug: jon-raedeke
 display_name: "Jon Raedeke "
 first_name: "Jon"
-last_name: "Raedeke "
+last_name: "Raedeke"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
@@ -44,6 +44,6 @@ linkedin: ""
 youtube: ""
 
 aliases:
- - john-raedeke
+ - /authors/john-raedeke
 # Make it better ♥
 ---

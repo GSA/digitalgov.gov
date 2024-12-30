@@ -28,18 +28,18 @@
 
 
 
-| content      | json serializer                        | endpoint                                   | notes |
-| ------------ | -------------------------------------- | ------------------------------------------ | ----- |
-| authors      | layouts/shortcodes/api-authors.html    | http://localhost:1313/authors/v1/json/     |       |
-| news         | layouts/news/list.json.json            | http://localhost:1313/news/index.json      |       |
-| short post   | layouts/shortcodes/api-shortposts.html | http://localhost:1313/short-posts/v1/json/ |       |
-| events       | layouts/events/list.json.json          | http://localhost:1313/events/index.json    |       |
-| communities  | communities/list.json.json             |                                            |       |
-| guides       | default/list.json.json                 |                                            |       |
-| resources    | layouts/resources/list.json.json       | http://localhost:1313/resources/index.json |       |
-| topics       | topics/v1/json                         |                                            |       |
-| sources      | sources/list.json.json                 |                                            |       |
-| ~~services~~ | ~~default/list.json.json~~             | ~~yes~~                                    |       |
+| content      | json serializer                        | endpoint                                      | notes |
+| ------------ | -------------------------------------- | --------------------------------------------- | ----- |
+| authors      | layouts/shortcodes/api-authors.html    | http://localhost:1313/authors/v1/json/        | valid |
+| news         | layouts/news/list.json.json            | http://localhost:1313/news/index.json         | valid |
+| short post   | layouts/shortcodes/api-shortposts.html | http://localhost:1313/short-posts/v1/json/    | valid |
+| events       | layouts/events/list.json.json          | http://localhost:1313/events/index.json       | valid |
+| communities  | communities/list.json.json             | http://localhost:1313/communities/index.json  | valid |
+| guides       | default/list.json.json                 |                                               | wait  |
+| resources    | layouts/resources/list.json.json       | http://localhost:1313/resources/index.json    | valid |
+| topics       | topics/v1/json                         |                                               |       |
+| sources      | sources/list.json.json                 |                                               |       |
+| ~~services~~ | ~~default/list.json.json~~             | ~~yes~~                                       |       |
   
 
 ## create shortposts
@@ -76,10 +76,17 @@ content/authors/abigail-abby-bowman/_index.md
 
 ## Communities
 
-Write a loop to get all nested guides for HCD, etc
+What data from community lists do we need, check with drupal form.
+
+Match field names to drupal fields.
 
 ### Issues
 
+Multiple community lists:
+
+- content/communities/artificial-intelligence.md
+- content/communities/blockchain.md
+- content/communities/results-oriented-accountability-for-grants.md
 
 ## Events
 http://localhost:1313/events/index.json
@@ -125,3 +132,10 @@ Some short posts have source_url with no value and were removed.
 - content/resources/deceptive-design-how-to-identify-and-combat-consequence-design.md
 
 
+## Topics
+http://localhost:1313/topics/v1/json/
+
+
+### Issues
+
+"content" is a ghost topic being generated.
