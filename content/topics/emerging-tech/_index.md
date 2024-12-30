@@ -6,7 +6,7 @@ slug: "emerging-tech"
 
 # Topic Title
 title: "Emerging tech"
-deck: "Cutting-edge technologies can improve the delivery of public services"
+deck: "Innovative technologies can improve the delivery of public services."
 
 summary: "The federal government monitors new technologies, especially those with great potential to change how the public lives and works. Adopting new technologies responsibly can improve the efficiency and quality of government services."
 
@@ -38,7 +38,7 @@ featured_communities:
 featured_links:
   title: "Emerging tech: Essential knowledge"
   resources: 
-    - title: "Administration Actions on AI"
+    - title: "Administration actions on AI"
       summary: "Find updates on the federal government’s work to promote the safe, secure, and trustworthy use of AI. This includes federal agency use cases, the Blueprint for an AI Bill of Rights and an AI risk management framework."
       href: "https://ai.gov/actions/"
     - title: "Understanding robotic process automation"
