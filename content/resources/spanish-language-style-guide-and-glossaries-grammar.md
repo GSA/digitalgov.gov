@@ -218,6 +218,7 @@ Each character and its code is listed below:
 <table border="1" summary="Listing of Diacritics and Their Character Codes">
   <tr>
     <th scope="col">
+      Character
     </th>
     <th scope="col" align="center">
       Number
@@ -440,8 +441,12 @@ Each character and its code is listed below:
 
 <table border="1" summary="Listing of Punctuation Marks and Their Character Codes">
   <tr>
-    <td align="center" width="18%"><strong>Symbol</strong></td>
-    <td width="82%"><strong>HTML Entity</strong></td>
+    <th scope="col">
+      Symbol
+    </th>
+    <th scope="col" align="center">
+      HTML Entity
+    </th>
   </tr>
 
   <tr>
