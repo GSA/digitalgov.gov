@@ -20,7 +20,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "Section 508 of the Rehabilitation Act of 1973, Section 508 standards, and OMB M-24-08, Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"
+  title: "Section 508 of the Rehabilitation Act of 1973 and OMB M-24-08, Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"
   link: "https://digital.gov/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/"
 
 # Featured resource to display at the top of the page
