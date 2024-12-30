@@ -46,7 +46,6 @@
   {{- $.Scratch.Set "pagetype" "website" -}}
 {{- end -}}
 
-
 <head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -217,24 +216,44 @@
     <meta http-equiv="refresh" content="0; url={{- $.Params.source_url -}}" />
   {{- end -}}
 
+
   {{ "<!-- CSS -->" | safeHTML }}
-  {{/* Custom CSS — needs to be included before the base styles */}}
+  {{/* Custom CSS — needs to be included before the base styles */}}
   {{- if $.Params.css -}}
     {{- range $.Params.css -}}
-      {{- $path := (printf "dist/%s" .) | absURL -}}
-      <!-- CUSTOM CSS -->
-      <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css" />
+      {{- $customCSS := resources.Get (printf "dist/%s" .) -}}
+      {{- if $customCSS -}}
+        {{- $customCSSMinified := $customCSS | minify | fingerprint -}}
+        <!-- CUSTOM CSS -->
+        <link rel="stylesheet" media="all" href="{{- $customCSSMinified.RelPermalink -}}" type="text/css" />
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 
   {{/* Base styles */}}
+  {{- $sassOptions := (dict "targetPath" "css/styles.css" "enableSourceMap" true "includePaths" (slice "node_modules/@uswds/uswds/packages")) -}}
+  {{- $styles := resources.Get "scss/new/styles.scss" | resources.ExecuteAsTemplate "scss/styles.scss" . | resources.ToCSS $sassOptions | minify | fingerprint -}}
+  {{- if $styles -}}
   <link
     rel="stylesheet"
-    href="{{- "dist/styles.css" | absURL -}}"
+    href="{{- $styles.RelPermalink -}}"
     type="text/css"
     media="all"
+    integrity="{{ $styles.Data.Integrity }}"
+    crossorigin="anonymous"
   />
-  <script src="{{ "dist/js/uswds-init.min.js" | absURL }}"></script>
+  {{- end -}}
+
+  {{/* USWDS Init JS */}}
+  {{- $uswdsInit := resources.Get "js/uswds/uswds-init.js" -}}
+  {{- if $uswdsInit -}}
+    {{- $uswdsInitMinified := $uswdsInit | minify | fingerprint -}}
+    <script 
+      src="{{ $uswdsInitMinified.RelPermalink }}"
+      integrity="{{ $uswdsInitMinified.Data.Integrity }}"
+      crossorigin="anonymous"
+    ></script>
+  {{- end -}}
 
   {{ "<!-- Favicons & Icons -->" | safeHTML }}
   <link
@@ -269,6 +288,7 @@
   />
   <meta name="msapplication-TileColor" content="#0076d6" />
   <meta name="theme-color" content="#ffffff" />
+
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 </head>

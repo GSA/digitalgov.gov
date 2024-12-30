@@ -25,27 +25,51 @@
 {{- if $primary_image -}}
   {{- $.Scratch.Set "defaultimg" "default" -}}
   {{- $thisimg := index $.Site.Data.images (default ($.Scratch.Get "defaultimg") $primary_image | lower) -}}
-  {{- $imgBase := $thisimg.uid -}}
-  {{- $imgExt := $thisimg.format -}}
-  {{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
-  {{- $imgWidth := $thisimg.width -}}
-  {{- $imgHeight := $thisimg.height -}}
+  {{- if $thisimg -}}
+    {{- $imgBase := $thisimg.uid -}}
+    {{- $imgExt := $thisimg.format -}}
+    {{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
+    {{- $imgWidth := $thisimg.width -}}
+    {{- $imgHeight := $thisimg.height -}}
 
-  {{- $.Scratch.Set "imgSuffix" "" -}}
-  {{- if ge $imgWidth 800 -}}
-    {{- $.Scratch.Set "imgSuffix" "_w800" -}}
-  {{- else -}}
     {{- $.Scratch.Set "imgSuffix" "" -}}
-  {{ end }}
+    {{- if ge $imgWidth 800 -}}
+      {{- $.Scratch.Set "imgSuffix" "_w800" -}}
+    {{- else -}}
+      {{- $.Scratch.Set "imgSuffix" "" -}}
+    {{- end -}}
 
 
-  <div class="media-featured">
-    <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">
-      <img
-        src="{{- $imgBaseCDN -}}{{- $.Scratch.Get "imgSuffix" -}}.{{- $imgExt -}}"
-        aria-hidden="true"
-        alt=""
-      />
-    </a>
-  </div>
+    <div class="media-featured">
+      {{/* Try to get local image first */}}
+      {{- $localImage := resources.Get (printf "s3-images/%s.%s" $imgBase $imgExt) -}}
+      {{- if $localImage -}}
+        {{- $resized := $localImage -}}
+        {{- if gt $localImage.Width 1200 -}}
+          {{- $resized = $localImage.Resize "1200x" -}}
+        {{- end -}}
+        <img
+          src="{{ $resized.RelPermalink }}"
+          {{- if .Params.featured_image.alt -}}
+            alt="{{ .Params.featured_image.alt }}"
+          {{- else -}}
+            alt=""
+          {{- end -}}
+          loading="lazy"
+        />
+      {{- else -}}
+        {{/* If no local image but we have CDN data */}}
+        <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">
+          <img
+            src="{{- $imgBaseCDN -}}{{- $.Scratch.Get "imgSuffix" -}}.{{- $imgExt -}}"
+            {{- if .Params.featured_image.alt -}}
+              alt="{{ .Params.featured_image.alt }}"
+            {{- else -}}
+              alt=""
+            {{- end -}}
+          />
+        </a>
+      {{- end -}}
+    </div>
+  {{- end -}}
 {{- end -}}

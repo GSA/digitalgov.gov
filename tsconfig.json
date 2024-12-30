@@ -3,14 +3,15 @@
     "target": "ES2020",
     "module": "NodeNext",
     "lib": ["ES2020", "DOM"],
-    "outDir": "./config/gulp",
+    "outDir": "./config/scripts",
     "rootDir": "./config/typescript",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "moduleResolution": "NodeNext"
+    "moduleResolution": "NodeNext",
+    "typeRoots": ["./types", "./node_modules/@types"]
   },
-  "include": ["config/typescript/**/*"],
+  "include": ["config/typescript/**/*", "types/**/*"],
   "exclude": ["node_modules"]
 }

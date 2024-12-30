@@ -2,56 +2,177 @@
 
 .stream {
   h2 {
-    @include u-font("sans", "xl");
+    @include u-font("sans", "2xl");
+    @include u-margin-bottom(2);
     @include u-text("bold");
     @include u-text("indigo-warm-80");
-
-    @include at-media("tablet-lg") {
-      @include u-font("sans", "lg");
-    }
-  }
-
-  .card:first-child {
-    @include u-margin-top(0);
   }
 }
 
-.pagination {
-  @include u-margin-top(3);
-  @include u-margin-bottom(5);
-  @include u-padding(0);
-  align-items: center;
-  column-gap: units("2px");
+.grid-container {
+  @include u-maxw("desktop");
+  @include u-padding-y(2);
+}
 
-  display: flex;
-  flex-flow: row wrap;
+// Image viewer
+.image-viewer {
+  background: white;
+  margin-bottom: 0;
 
-  li {
-    @include add-list-reset;
-    @include u-display("inline-block");
-    @include u-text("center");
+  &__card {
+    border: 1px solid color("base-lighter");
+    border-radius: 0.5rem;
+    height: 700px;
+    overflow: hidden;
+    position: relative;
+  }
 
-    a {
-      @include u-text("blue-warm-70v");
-      @include u-text("no-underline");
-      @include u-circle(5);
-      @include u-display("flex");
-      @include u-flex("column");
-      @include u-flex("justify-center");
-      @include u-flex("align-center");
+  &__content {
+    height: 100%;
+    position: relative;
+    text-align: center;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+    width: 100%;
 
-      &:hover {
-        @include u-bg("blue-10");
+    &.is-flipped {
+      transform: rotateY(180deg);
+    }
+  }
+
+  &__face {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background: white;
+    border-radius: 0.5rem;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+    &--front {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 1rem;
+      transform: rotateY(0deg);
+
+      img {
+        max-height: 600px;
+        max-width: 100%;
+        object-fit: contain;
+        width: auto;
+      }
+    }
+
+    &--back {
+      height: 100%;
+      overflow-y: auto;
+      padding: 1rem;
+      text-align: left;
+      transform: rotateY(180deg);
+
+      .metadata-header {
+        background: white;
+        margin-bottom: 1rem;
+        padding: 0.5rem 0;
+        position: sticky;
+        top: 0;
+        z-index: 1;
+      }
+
+      .metadata-content {
+        padding-right: 0.5rem;
+      }
+
+      h3 {
+        font-size: 1.25rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+      }
+
+      h4 {
+        font-size: 1.1rem;
+        font-weight: bold;
+        margin: 1rem 0;
+      }
+
+      dl {
+        margin: 1rem 0;
+
+        dt {
+          font-size: 0.9rem;
+          font-weight: bold;
+          margin-bottom: 0.25rem;
+        }
+
+        dd {
+          background: color("base-lightest");
+          border-radius: 0.25rem;
+          font-size: 0.9rem;
+          margin-bottom: 1rem;
+          margin-left: 0;
+          padding: 0.5rem;
+          word-break: break-word;
+        }
+      }
+
+      pre {
+        background: color("base-lightest");
+        border-radius: 0.25rem;
+        font-family: monospace;
+        font-size: 0.9rem;
+        overflow-x: auto;
+        padding: 1rem;
+        word-wrap: break-word;
+      }
+
+      .metadata-footer {
+        margin-top: 1rem;
+        padding-bottom: 1rem;
       }
     }
   }
-
-  li.active a {
-    @include u-text("white");
-    @include u-bg("blue-warm-70v");
-  }
 }
 
-.dg-stream {
-  background-color: color("blue-warm-5");
+// Pagination
+.usa-pagination {
+  @include u-margin-top(4);
+  text-align: center;
+
+  &__list {
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+  }
+
+  &__link {
+    align-items: center;
+    border-radius: 0.25rem;
+    color: color("primary");
+    display: inline-flex;
+    font-size: 0.9rem;
+    font-weight: bold;
+    justify-content: center;
+    min-width: 2.5rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+
+    &:hover {
+      background: color("base-lightest");
+      text-decoration: none;
+    }
+
+    &.usa-current {
+      background: color("primary");
+      color: color("white");
+      pointer-events: none;
+    }
+  }
 }

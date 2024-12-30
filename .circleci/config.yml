@@ -50,17 +50,11 @@ jobs:
       - run:
           name: Audit the packages
           command: npm audit
-            
-      # Rest of your existing configuration
-      - run:
-          name: Install Gulp
-          command: sudo npm install gulp-cli -g
-          
       - run:
           name: Process Image/file if needed
           command: |
             if [ -n "$(ls -A content/uploads/_inbox/ 2>/dev/null)" ] || [ -n "$(ls -A data/images/ 2>/dev/null)" ] || [ -n "$(ls -A data/files/ 2>/dev/null)" ]; then
-              gulp upload
+              npm run upload
             else
               echo "No files to process, skipping..."
             fi
@@ -80,10 +74,6 @@ jobs:
             else
               echo "No files to commit, skipping..."
             fi
-            
-      - run:
-          name: Build assets
-          command: npm run federalist
           
       - run:
           name: Lint JSON

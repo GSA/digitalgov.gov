@@ -54,50 +54,44 @@
 
 
 <div class="{{ delimit $imageClasses " " }}">
-  {{/* If image not found in data or is external URL, use direct src */}}
-  {{- if or (not $thisimg) (ne $prefix $thisuid) -}}
-    {{- $localImage := resources.Get $thisuid -}}
-    {{- if $localImage -}}
-      {{- $resized := $localImage.Resize "1200x" -}}
-      <img
-        src="{{ $resized.RelPermalink }}"
-        {{- if .Get "alt" -}}
-          alt="{{ .Get "alt" }}"
-        {{- end -}}
-      />
-    {{- else -}}
-      <img
-        src="{{ $thisuid }}"
-        {{- if .Get "alt" -}}
-          alt="{{ .Get "alt" }}"
-        {{- end -}}
-      />
+  {{/* Try to get local image first */}}
+  {{- $localImage := resources.Get (printf "s3-images/%s.%s" $thisuid $imgExt) -}}
+  {{- if $localImage -}}
+    {{- $resized := $localImage -}}
+    {{- if gt $localImage.Width 1200 -}}
+      {{- $resized = $localImage.Resize "1200x" -}}
     {{- end -}}
+    <img
+      src="{{ $resized.RelPermalink }}"
+      {{- if .Get "alt" -}}
+        alt="{{ .Get "alt" }}"
+      {{- end -}}
+      loading="lazy"
+    />
+    {{/* If no local image but we have CDN data */}}
+  {{- else if $thisimg -}}
+    <img
+      src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
+      {{- if or (.Get "alt") $thisimg.alt -}}
+        alt="{{- with .Get "alt" -}}
+          {{- . -}}
+        {{- else -}}
+          {{- $thisimg.alt -}}
+        {{- end -}}"
+      {{- end -}}
+      loading="lazy"
+    />
+    {{/* Fallback to direct source */}}
   {{- else -}}
-    {{- if or (eq $imgExt "jpg") (eq $imgExt "jpeg") (eq $imgExt "png") -}}
-      <img
-        src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-        {{- if or (.Get "alt") $thisimg.alt -}}
-          alt="{{- with .Get "alt" -}}
-            {{- . -}}
-          {{- else -}}
-            {{- $thisimg.alt -}}
-          {{- end -}}"
-        {{- end -}}
-      />
-    {{- else -}}
-      <img
-        src="{{- $imgBaseCDN -}}.{{- $imgExt -}}"
-        {{- if or (.Get "alt") $thisimg.alt -}}
-          alt="{{- with .Get "alt" -}}
-            {{- . -}}
-          {{- else -}}
-            {{- $thisimg.alt -}}
-          {{- end -}}"
-        {{- end -}}
-      />
-    {{- end -}}
+    <img
+      src="{{ $thisuid }}"
+      {{- if .Get "alt" -}}
+        alt="{{ .Get "alt" }}"
+      {{- end -}}
+      loading="lazy"
+    />
   {{- end -}}
+
   {{- if and $thisimg (or $imgCaption $imgCredit) -}}
     <p>
       {{- $imgCaption | markdownify -}}
