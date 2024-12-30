@@ -8,7 +8,7 @@ slug: "digital-service-delivery"
 title: "Digital Service Delivery"
 deck: "Make it easier for the public to access the information and services that they count on each and every day."
 
-summary: "For millions, access to digital services isn’t a luxury—it’s critical. The public’s experiences using government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food can dramatically affect how they feel about the government. Digital service delivery is the primary subject of 21st Century IDEA, and its policy guidance in OMB M-23-22, which requires federal agencies to enact best practices."
+summary: "For millions, access to digital services is critical. The public uses government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food. Providing easy-to-use access to these services online is a priority of the federal government. Improving digital service delivery is the primary subject of 21st Century IDEA, and its policy guidance in OMB M-23-22, which requires federal agencies to enact best practices."
 
 aliases:
   - /topics/21st-century-idea/
