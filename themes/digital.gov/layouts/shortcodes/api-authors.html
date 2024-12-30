@@ -18,10 +18,10 @@
 {{ range $index, $author := $list -}}
   {{ with $author }}
     {
-      {{- partial "api/author-profile.html" . -}}
-      {{- partial "api/metadata.html" . -}}
-      {{- partial "api/aliases.html" . -}}
-      {{- partial "api/slug.html" . -}}
+    {{- partial "api/author-profile.html" . -}}
+    {{- partial "api/metadata.html" . -}}
+    {{- partial "api/aliases.html" . -}}
+    {{- partial "api/slug.html" . -}}
     }
     {{- $.Scratch.Add "i" 1 -}}
     {{- $iterator := $.Scratch.Get "i" -}}

@@ -15,12 +15,12 @@
 
       {{/* Set the count for this community_list to 1 */}}
       {{- $.Scratch.Set "sub_count" 1 -}}
-        "members" : "{{- $list.members -}}",
-        "subscribe_email_subject" : "{{- $list.subscribe_email_subject -}}"
+      "members" : "{{- $list.members -}}", "subscribe_email_subject" :
+      "{{- $list.subscribe_email_subject -}}"
       {{/* Loop through the elements in this community_list */}}
 
       {{- if eq $count $length -}}
-      }
+        }
       {{- else -}}
         ,
       {{- end -}}{{- $.Scratch.Add "count" 1 -}}

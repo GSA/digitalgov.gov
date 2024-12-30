@@ -12,8 +12,8 @@
     {{ else }}
       {{ $path = .Path }}
     {{ end }}
-    "title" : "{{- .Title -}}",
-    "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
+    "title" : "{{- .Title -}}", "summary" :
+    "{{- replace .Params.summary "\n" "\\n" -}}",
     {{- partial "api/aliases.html" . -}}
     {{- if .Params.weight -}}
       "weight" : "{{- .Params.weight -}}",
