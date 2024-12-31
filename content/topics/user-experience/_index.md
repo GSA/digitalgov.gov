@@ -4,7 +4,7 @@
 slug: ""
 
 # Topic Title
-title: "User Experience"
+title: "User experience"
 deck: "User experience involves every interaction a user has with an agency."
 
 summary: "Websites and digital services provide better results when they are designed and delivered with the user in mind. In the current digital landscape, it is critical to adopt a user-centered approach to understand and respond to the individual needs of users. By evaluating the user experience on federal websites and digital services, agencies can increase customer satisfaction, build public trust, and reduce burden on the public."
@@ -21,7 +21,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "21st Century IDEA & M-23-22"
+  title: "21st Century Integrated Digital Experience Act and OMB M-23-22"
   link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
 # Featured resource to display at the top of the page
