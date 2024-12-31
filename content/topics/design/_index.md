@@ -6,7 +6,7 @@ slug: "design"
 
 # Topic Title
 title: "Design"
-deck: "Understand how and why design impacts user experience"
+deck: "Understand how and why design impacts user experience."
 
 summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
 
@@ -31,7 +31,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "21st Century Integrated Digital Experience Act"
+  title: "21st Century Integrated Digital Experience Act and OMB M-23-22"
   link: "/resources/21st-century-integrated-digital-experience-act/"
 
 # Featured resource to display at the top of the page
@@ -55,7 +55,7 @@ featured_links:
       summary: "How to design government websites that meet customer needs, work well on any device, and follow federal web requirements."
       href: "https://digital.gov/resources/an-introduction-to-design/"
     - title: "An introduction to design systems"
-      summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
+      summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch."
       href: "https://digital.gov/resources/introduction-to-design-systems/"
     - title: "USWDS design principles"
       summary: "Earn trust by following consistent design principles."
@@ -63,7 +63,4 @@ featured_links:
     - title: "Understanding design in 10 questions"
       summary: "Learn how the discipline of design can help your agency improve customer experience."
       href: "https://digital.gov/2023/03/03/understanding-design-in-10-questions/"
-    - title: "Bringing design in-house"
-      summary: "What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative."
-      href: "https://digital.gov/2023/01/27/bringing-design-in-house/"
 ---

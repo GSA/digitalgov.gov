@@ -21,7 +21,7 @@ weight: 1
 
 ---
 
-Website analytics are great for monitoring visits to the content that your team has spent time and resources working on. Are people finding this important content? Which parts of the content are people using the most 
+Website analytics are great for monitoring visits to the content that your team has spent time and resources working on. Are people finding this important content? Which parts of the content are people using the most? 
 
 However, website analytics are also important for tracking the performance of the web pages that you *don’t want people to visit*. These are pages that you would expect to be associated with bad experiences and frustration. Most commonly, I’m talking about error pages, but there are other negative page visits that could be measured on your site, too.
 
