@@ -6,6 +6,7 @@ summary: "In a recent governmentwide community discussion, we shared tips to rem
 
 # See all authors at https://digital.gov/authors
 authors:
+  - annette-super
   - dmccleskey
 
 # See all topics at https://digital.gov/topics
