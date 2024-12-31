@@ -13,7 +13,7 @@ topics:
   - accessibility
   - design
   - user-experience
-  -content-strategy
+  - content-strategy
 
 slug: reduce-remove-remediate-pdfs-and-government-websites
 
