@@ -5,10 +5,10 @@
 slug: "digital-service-delivery"
 
 # Topic Title
-title: "Digital Service Delivery"
+title: "Digital service delivery"
 deck: "Make it easier for the public to access the information and services that they count on each and every day."
 
-summary: "For millions, access to digital services is critical. The public uses government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food. Providing easy-to-use access to these services online is a priority of the federal government. Improving digital service delivery is the primary subject of 21st Century IDEA, and its policy guidance in OMB M-23-22, which requires federal agencies to enact best practices."
+summary: "For millions, access to digital services is critical. The public uses government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food. Providing easy-to-use access to these services online is a priority of the federal government. Improving digital service delivery is the primary subject of 21st Century Integrated Digital Experience Act, and its policy guidance in OMB M-23-22, which requires federal agencies to enact best practices."
 
 aliases:
   - /topics/21st-century-idea/
@@ -311,7 +311,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22"
+  title: "21st Century Integrated Digital Experience Act and OMB M-23-22"
   link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
 # Featured resource at the top of the page
@@ -345,7 +345,4 @@ featured_links:
   - title: "An introduction to digital governance"
     summary: "Digital governance refers to the internal systems and processes we use to manage our digital presence. Learn why governance is essential to digital service delivery."
     href: "https://digital.gov/resources/an-introduction-to-digital-governance/"
-  - title: "Test websites for accessibility"
-    summary: "Design and deliver digital services with everyone in mind. Use both manual and automated testing methods to create accessible websites."
-    href: "https://digital.gov/resources/how-test-websites-for-accessibility/"
 ---
