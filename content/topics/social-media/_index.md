@@ -5,7 +5,7 @@
 slug: "social-media"
 
 # Topic Title
-title: "Social Media"
+title: "Social media"
 deck: "Use social media to effectively communicate with your audience."
 
 summary: "By using social media, agencies can strengthen their connection with the public, promote transparency, and respond to their audience’s needs. Social media meets customers where they are, and it is a great place to communicate with them — making it an essential tool for communications during emergencies."
@@ -33,7 +33,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (PDF, 103 KB, 9 pages, June 2010)"
+  title: "OMB M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (PDF, 103 KB, 9 pages)"
   link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf"
 
 # Featured community to display at the top of the page
