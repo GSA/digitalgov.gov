@@ -46,11 +46,11 @@ featured_links:
   - title: "Customer experience tools from the Department of Homeland Security"
     summary: "Explore resources to support establishing a customer centric mindset in the federal government."
     href: "https://www.dhs.gov/cx/resources/guides-kits"
+  - title: "Follow time-tested steps from the Department of Veterans Affairs"
+    summary: "Explore the Customer Experience Cookbook and other resources to support building customer experience capabilities."
+    href: "https://department.va.gov/veterans-experience/"
   - title: "Understanding the Digital Analytics Program"
     summary: "The Digital Analytics Program offers advanced, easy web analytics for federal agencies."
     href: "https://digital.gov/guides/dap/"
-  - title: "Follow time-tested steps from the VA Customer Experience Cookbook"
-    summary: "The Department of Veterans Affairs (VA) Customer Experience Cookbook provides a guide for other government agencies looking to build customer experience capabilities."
-    href: "https://news.va.gov/81288/va-releases-customer-experience-cookbook-federal-agencies/"
 
 ---
