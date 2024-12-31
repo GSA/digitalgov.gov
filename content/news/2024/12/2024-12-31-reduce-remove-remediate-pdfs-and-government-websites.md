@@ -18,7 +18,7 @@ topics:
 
 slug: reduce-remove-remediate-pdfs-and-government-websites
 
-primary_image: ""
+primary_image: "documents-mykyta-dolmatov-istock-getty-images-1179640294"
 
 # Controls how this page appears across the site
 # 0 -- hidden
