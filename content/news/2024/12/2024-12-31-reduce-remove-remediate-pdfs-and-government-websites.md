@@ -30,7 +30,7 @@ Members of the Digital.gov [Web Managers Community](https://digital.gov/communit
 
 The word is definitely out — we need to reconsider our use of PDFs. But the history of using PDFs to share content runs deep. And while it’s true that there are still some valid use cases for PDFs, most of what currently exists would be better delivered using HTML as a standard webpage.  After all, Office of Management and Budget (OMB) Memo M-23-22, Delivering a Digital-first Public Experience, encourages us to default to HTML.
 
-{{< ring title=”Understand the policy framework” >}}
+{{< ring title="Understand the policy framework">}}
 
 [Explore 21st Century Integrated Digital Experience Act and OMB M-23-22](https://digital.gov/resources/delivering-digital-first-public-experience/).
 
