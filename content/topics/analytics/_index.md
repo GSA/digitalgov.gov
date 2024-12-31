@@ -24,7 +24,7 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "Executive Order 14058 and OMB Circular A-11 Section 280"
+  title: "Executive Order 14058 and OMB Circular A-11, Section 280"
   link: "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/" 
 
 # Featured resource to display at the top of the page
@@ -53,9 +53,6 @@ featured_links:
   - title: "An introduction to search"
     summary: "Follow search engine optimization (SEO) best practices to help search engines discover your content."
     href: "https://digital.gov/resources/an-introduction-to-search/"
-  - title: "How to use web analytics to uncover cybersecurity incidents: A USAGov case study"
-    summary: "Learn how you can take a deep dive into analytics and uncover phishing attempts or other improper use of your agency’s content, logo, or brand."
-    href: "https://digital.gov/2020/10/26/true-crime-detectives-how-we-used-free-web-metrics-tools-to-uncover-a-cybersecurity-incident/"
   - title: "How to track performance"
     summary: "Use this step-by-step guide to choose metrics & tools, set budgets & goals, and add site tracking on your website."
     href: "https://designsystem.digital.gov/performance/how/"
