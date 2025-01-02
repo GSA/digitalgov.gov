@@ -96,14 +96,13 @@ Our goal was to retain and then optimize only the content that was highly releva
 
 To kick-start the decision-making process, our team built a Project Clean Slate metrics dashboard for CDC staff. The dashboard included data on page views, referrers, and search rank. This helped our health communicators and subject matter experts understand what could easily fall into the “keep” and “retire” categories. It also allowed content owners to apply qualitative criteria and make their own final decisions. 
 
-{{< quote-block text="By May 2024, roughly 65 percent of existing content on CDC.gov was reduced or removed. This allowed us to direct our time and resources toward improving the quality and accessibility of the remaining content on our site." >}}
-
+{{< box >}} By May 2024, roughly 65 percent of existing content on CDC.gov was reduced or removed. This allowed us to direct our time and resources toward improving the quality and accessibility of the remaining content on our site. {{< /box >}}
 
 ### Lesson 4. Use open communication channels to support change management.
 
 Recognize that a website redesign can bring about significant changes for staff members involved in managing or creating content. Provide training programs, support channels, and clear guidelines to facilitate smooth transitions and ensure buy-in from internal stakeholders.
 
-{{< quote-block text="In addition to our communication and training efforts, we provided multiple avenues for feedback and questions. This included in-person presentations, a centralized email box, help ticket logs, and weekly consults for communicators across the agency on web strategy and technical issues." >}}
+{{< box >}} In addition to our communication and training efforts, we provided multiple avenues for feedback and questions. This included in-person presentations, a centralized email box, help ticket logs, and weekly consults for communicators across the agency on web strategy and technical issues. {{< /box >}}
 
 We also created several options to archive and preserve content on the site that was slated for removal. Some archived content is publicly available at [archive.CDC.gov](https://archive.CDC.gov), and additional content removed from public view is still accessible internally. As a fail-safe, we also provided a temporary public snapshot of the old CDC.gov at [snapshot2024.CDC.gov](https://web.archive.org/web/20240515235738/https://snapshot2024.cdc.gov/), though this site was decommissioned at the end of 2024. 
 
