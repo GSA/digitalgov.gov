@@ -18,7 +18,7 @@ topics:
 
 slug: rebuilding-cdc-gov
 
-primary_image: ""
+primary_image: "hands-website-design-sensvector-istock-getty-images-1356139194"
 
 # Controls how this page appears across the site
 # 0 -- hidden
