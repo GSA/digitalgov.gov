@@ -67,8 +67,8 @@ CDC gathered feedback from more than 6,000 users over the last two years. We wer
 
 In early 2024, we hosted a beta preview of the new CDC.gov. We received input from more than 3,000 people during testing and survey feedback before launching the new site. 
 
-{{< note variant="action" >}}
-**Advice for small teams**
+{{< note variant="action" >}}**Advice for small teams**
+
 If your team does not have the support to launch a beta site, there are other ways to conduct thorough [research](https://digital.gov/topics/research/), [user testing](https://www.dhs.gov/cx/resources/guides-kits/dhs-usability-testing-kit), and [collect feedback](https://digital.gov/resources/an-introduction-to-customer-experience/) to inform your design decisions. Use [web analytics](https://digital.gov/resources/an-introduction-to-analytics/) tools like the [Digital Analytics Program](https://digital.gov/guides/dap/) to gain insights into user behavior, engagement metrics, popular search terms, and other relevant data points. Use this data to inform decision-making regarding navigation improvements, content optimization, or performance enhancements.
 
 {{< /note >}}
