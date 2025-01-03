@@ -9,6 +9,8 @@ summary: Use data visualization to communicate insights, tell a story, and share
 authors:
   - katie-chan
 
+primary_image: "charts-graphs-bestforbet-istock-getty-images-2154975217"
+
 topics:
   - data-visualization
   - design
