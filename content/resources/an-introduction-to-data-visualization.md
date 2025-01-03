@@ -31,9 +31,9 @@ Data visualization can facilitate shared understanding. Visualizing data support
 
 There are no firm or set rules for how to create or design data visualizations, but there are recommendations and best practices that can help ensure a visualization communicates effectively. [Effective data visualizations](https://nces.ed.gov/forum/pub_2017016.asp) are:
 
-- **Appropriate** for the intended audience.
-- **Accurate** in the presentation of data and its meaning.
-- **Actionable**, because the information is clarifying or useful.
+- **Appropriate** for the intended audience
+- **Accurate** in the presentation of data and its meaning
+- **Actionable**, because the information is clarifying or useful
 
 ## How can I create data visualizations?
 
