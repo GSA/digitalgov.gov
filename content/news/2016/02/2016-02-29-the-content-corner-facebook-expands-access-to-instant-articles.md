@@ -29,108 +29,87 @@ The format is also built on an open format utilizing HTML5 which helps ensure yo
 Another feature that helped me change my opinion about the dangers of Instant Articles is the ability to [use your own RSS feed to create and publish articles](https://developers.facebook.com/blog/post/2015/09/22/instant-articles-from-CMS/). You do have to make sure the RSS feed meets the formatting requirements of Instant Articles, but your CMS may be able to easily accommodate this depending on its flexibility.
 
 <table>
-  <th>
-    Element
-  </th>
-  
-  <th>
-    Description
-  </th>
-  
-  <th>
-    Required
-  </th>
-  
+  <tr>
+    <th scope="col">
+      Element
+    </th>
+    <th scope="col">
+      Description
+    </th>
+    <th scope="col">
+      Required
+    </th>
+  </tr>
   <tr>
     <td>
-      <code style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;title></code>
+      <code style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;title></code>
     </td>
-    
     <td>
       The headline of the article.
     </td>
-    
     <td>
       Yes
     </td>
   </tr>
-  
   <tr style="background-color: #f6f7f8">
     <td>
-      <code style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;link></code>
+      <code style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;link></code>
     </td>
-    
     <td>
       The canonical URL for this article on your site.
     </td>
-    
     <td>
       Yes
     </td>
   </tr>
-  
   <tr>
     <td>
-      <code style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;content:encoded></code>
+      <code style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;content:encoded></code>
     </td>
-    
     <td>
       The full content of your article, in HTML form. Remember to escape all HTML content by wrapping it within a <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCDATA&h=UAQHD5Fhs&s=1" target="_blank" rel="nofollow">CDATA section.</a>
     </td>
-    
     <td>
       Yes
     </td>
   </tr>
-  
   <tr style="background-color: #f6f7f8">
     <td>
-      <code style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;guid></code>
+      <code style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;guid></code>
     </td>
-    
     <td>
       A string that provides a unique identifier for this article in your feed.
     </td>
-    
     <td>
     </td>
   </tr>
-  
   <tr>
     <td>
-      <code style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;description></code>
+      <code style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;description></code>
     </td>
-    
     <td>
       A summary of your article, in plain text form.
     </td>
-    
     <td>
     </td>
   </tr>
-  
   <tr style="background-color: #f6f7f8">
     <td>
-      <code style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;pubDate></code>
+      <code style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;pubDate></code>
     </td>
-    
     <td>
       The date of the article’s publication, in <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FISO_8601&h=LAQG6Dy_D&s=1" target="_blank" rel="nofollow">ISO-8601 format.</a>
     </td>
-    
     <td>
     </td>
   </tr>
-  
   <tr>
     <td>
-      <code style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;author></code>
+      <code style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace">&lt;author></code>
     </td>
-    
     <td>
-      Name of the person who wrote the article. Use multiple <span style="color: #52bb5d;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace;font-size: smaller"><author></span> elements for multiple authors.
+      Name of the person who wrote the article. Use multiple <span style="color: #007A33;border: 0pt;padding: 0pt;background-color: none;background: none;font-family: Menlo, Monaco, Andale Mono, Courier New, monospace;font-size: smaller"><author></span> elements for multiple authors.
     </td>
-    
     <td>
     </td>
   </tr>
