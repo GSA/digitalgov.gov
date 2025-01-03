@@ -5,7 +5,7 @@
 slug: "terms-of-service"
 
 # Topic Title
-title: "Terms of Service"
+title: "Terms of service"
 
 # description — keep it short and clear
 deck: "Agreements negotiated between the federal government and vendors who offer digital tools and services."

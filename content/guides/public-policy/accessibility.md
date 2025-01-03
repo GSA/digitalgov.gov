@@ -3,6 +3,9 @@ date: 2024-06-14 09:00:00 -0500
 title: "Accessibility"
 deck: ""
 summary: "An introduction to Section 508 of the Rehabilitation Act of 1973, and related laws and policies."
+
+expirydate: "2025-01-02"
+
 guide: public-policy
 primary_image: guide-public-policy
 
