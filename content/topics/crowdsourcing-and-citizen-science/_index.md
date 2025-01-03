@@ -5,7 +5,7 @@
 slug: "crowdsourcing-and-citizen-science"
 
 # Topic Title
-title: "Crowdsourcing and Citizen Science"
+title: "Crowdsourcing and citizen science"
 
 # description — keep it short and clear
 deck: "Crowdsourcing and citizen science can accelerate discovery across the U.S. government."
