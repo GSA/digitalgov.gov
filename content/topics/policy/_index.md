@@ -13,12 +13,12 @@ deck: "The relevant laws and policies for delivering better digital services."
 summary: "Public policy plays a vital role in how federal programs serve the public. More than 100 laws, memos, and other policies impact federal websites, covering topics such as accessibility, privacy, security, design, and user experience. It is important for web and digital practitioners to understand the policy framework."
 
 aliases:
-- content/guides/public-policy/
-- content/guides/public-policy/accessibility
-- content/guides/public-policy/conclusion
-- content/guides/public-policy/information-collection
-- content/guides/public-policy/policy-types
-- content/guides/public-policy/privacy-and-security
+- /guides/public-policy/
+- /guides/public-policy/accessibility
+- /guides/public-policy/conclusion
+- /guides/public-policy/information-collection
+- /guides/public-policy/policy-types
+- /guides/public-policy/privacy-and-security
 
 # Weight
 weight: 2
