@@ -3,6 +3,9 @@ date: 2024-06-14 09:00:00 -0500
 title: "Policy types"
 deck: ""
 summary: "Learn about different types of public policy, and explore the policy framing for Findsupport.gov as a case study."
+
+expirydate: "2025-01-02"
+
 guide: public-policy
 primary_image: guide-public-policy
 
