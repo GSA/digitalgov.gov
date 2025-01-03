@@ -22,7 +22,7 @@ weight: 2
 # Set the legislation card title and link
 legislation:
   title: "Executive Order 13166, Attorney General memorandum, and Title VI of the Civil Rights Act"
-  link: "/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/"
+  link: "https://digital.gov/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/"
 
 # Featured resource to display at the top of the page
 featured_resources:

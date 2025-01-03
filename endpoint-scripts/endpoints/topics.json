@@ -4,7 +4,7 @@
    "type": "list",
    "title": "Topics |Digital.gov",
    "home_page_url": "http://localhost:1313/",
-   "count": "54",
+   "count": "51",
    "items": [
       {
          "title": "Accessibility",
@@ -183,11 +183,17 @@
          "url": "http://localhost:1313/topics/contact-centers/"
       },
       {
+         "title": "Content",
+         "summary": "",
+         "filename": "lkajsdf",
+         "filepath": "lkajdf",
+         "url": "http://localhost:1313/topics/content/"
+      },
+      {
          "title": "Content Strategy",
          "summary": "Content strategy involves planning, creating, delivering, and governing content that meets the needs of its users and achieves an organization's goals. Content strategy is an essential element of effective digital web services and communication for government agencies.",
          "aliases": [
             "https://digital.gov/topics/blog/",
-            "https://digital.gov/topics/content/",
             "https://digital.gov/topics/content-management-system/",
             "https://digital.gov/topics/content-models/",
             "https://digital.gov/topics/content-syndication/",
@@ -838,13 +844,6 @@
          "url": "http://localhost:1313/topics/policy/"
       },
       {
-         "title": "Policies and Regulations",
-         "summary": "",
-         "filename": ,
-         "filepath": ,
-         "url": "http://localhost:1313/topics/policies-and-regulations/"
-      },
-      {
          "title": "Privacy",
          "summary": "For the public to have trust in government institutions, they need to know that their personal information is secure, and will be used only for legitimate purposes. Privacy violations can put people at risk for identity theft, financial fraud, discrimination, harassment, or even physical harm. By following federal rules and regulations regarding the collection, use, and disclosure of personal information, agencies can mitigate such risks to their customers.",
          "aliases": [
@@ -1028,13 +1027,6 @@
          "filepath": "topics/software-engineering/_index.md",
          "slug": "software-engineering",
          "url": "http://localhost:1313/topics/software-engineering/"
-      },
-      {
-         "title": "Strategy",
-         "summary": "",
-         "filename": ,
-         "filepath": ,
-         "url": "http://localhost:1313/topics/strategy/"
       },
       {
          "title": "Terms of Service",

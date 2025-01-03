@@ -1,0 +1,68 @@
+{{- if .Params.legislation -}}
+  "legislation_title" : "{{- .Params.legislation.title -}}", "legislation_link"
+  : "{{- .Params.legislation.link -}}",
+{{- end -}}
+{{- if (isset .Params "featured_communities") -}}
+  {{- $_featured_communities := .Params.featured_communities -}}
+  {{- $length := $_featured_communities | len -}}
+  "featured_communities" : [
+  {{- range $i, $e := $_featured_communities -}}
+    {{- with $e -}}
+      {{- if lt (add $i 1) $length -}}
+        "{{- . -}}",
+      {{- else -}}
+        "{{- . -}}"
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  ],
+{{- end -}}
+{{- if (isset .Params "featured_resources") -}}
+  {{- range .Params.featured_resources.resources -}}
+    {{ if .link }}
+      "featured_resource_link": "{{- .link -}}",
+    {{ end }}
+    {{ if .title }}
+      "featured_resource_title": "{{- .title -}}",
+    {{ end }}
+    {{ if .summary }}
+      "featured_resource_summary": "{{- .summary -}}",
+    {{ end }}
+  {{- end -}}
+{{- end -}}
+{{- if (isset .Params "featured_links") -}}
+  "featured_links_title": "{{- .Params.featured_links.title -}}",
+  "featured_links": [
+  {{- $_featured_links := .Params.featured_links.resources -}}
+  {{- $featured_links_length := $_featured_links | len -}}
+  {{- range $i, $e := $_featured_links -}}
+    {{- with $e -}}
+      {{- if lt (add $i 1) $featured_links_length -}}
+        {
+        {{ if .title }}
+          "title": "{{- .title -}}",
+        {{ end }}
+        {{ if .title }}
+          "summary": "{{- .summary -}}",
+        {{ end }}
+        {{ if .summary }}
+          "href": "{{- .href -}}"
+        {{ end }}
+        },
+      {{- else -}}
+        {
+        {{ if .title }}
+          "title": "{{- .title -}}",
+        {{ end }}
+        {{ if .title }}
+          "summary": "{{- .summary -}}",
+        {{ end }}
+        {{ if .summary }}
+          "href": "{{- .href -}}"
+        {{ end }}
+        }
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  ],
+{{- end -}}

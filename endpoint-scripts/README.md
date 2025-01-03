@@ -35,11 +35,12 @@
 | short post   | layouts/shortcodes/api-shortposts.html | http://localhost:1313/short-posts/v1/json/    | valid |
 | events       | layouts/events/list.json.json          | http://localhost:1313/events/index.json       | valid |
 | communities  | communities/list.json.json             | http://localhost:1313/communities/index.json  | valid |
-| guides       | default/list.json.json                 |                                               | wait  |
+| guides       | default/list.json.json                 |                                               | wip   |
 | resources    | layouts/resources/list.json.json       | http://localhost:1313/resources/index.json    | valid |
-| topics       | topics/v1/json                         |                                               |       |
-| sources      | sources/list.json.json                 |                                               |       |
+| topics       | topics/v1/json                         | http://localhost:1313/topics/v1/json/         | wip   |
+| sources      | sources/list.json.json                 | http://localhost:1313/sources/index.json      | valid |
 | ~~services~~ | ~~default/list.json.json~~             | ~~yes~~                                       |       |
+| redirects    | default/list.json.json                 |                                               | wip   |
   
 
 ## create shortposts

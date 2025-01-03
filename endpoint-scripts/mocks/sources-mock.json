@@ -1,0 +1,15 @@
+{
+    "items": [
+        {
+            "summary": "10x funds, supports, and develops ideas from federal employees about how technology can improve the public’s experience with the government.",
+            "date_modified": "2024-04-04T16:00:08-04:00",
+            "weight": "1",
+            "name": "10x",
+            "domain": "https://10x.gsa.gov",
+            "filename": "source_10x.md",
+            "filepath": "sources/source_10x.md",
+            "slug": "10x",
+            "url": "http://localhost:1313/sources/10x/"
+        }
+    ]
+}

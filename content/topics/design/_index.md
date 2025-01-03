@@ -32,7 +32,7 @@ weight: 2
 # Set the legislation card title and link
 legislation:
   title: "21st Century Integrated Digital Experience Act"
-  link: "/resources/21st-century-integrated-digital-experience-act/"
+  link: "https://digital.gov/resources/21st-century-integrated-digital-experience-act/"
 
 # Featured resource to display at the top of the page
 featured_resources:

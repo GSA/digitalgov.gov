@@ -1,0 +1,53 @@
+{
+    "items": [
+        {
+            "title": "User Experience",
+            "summary": "Websites and digital services provide better results when they are designed and delivered with the user in mind. In the current digital landscape, it is critical to adopt a user-centered approach to understand and respond to the individual needs of users. By evaluating the user experience on federal websites and digital services, agencies can increase customer satisfaction, build public trust, and reduce burden on the public.",
+            "aliases": [
+                "https://digital.gov/topics/aoi/",
+                "https://digital.gov/topics/community-ux/",
+                "https://digital.gov/topics/digitalgov-user-experience-program/",
+                "https://digital.gov/topics/federal-user-experience-community/",
+                "https://digital.gov/topics/user-experience-community-of-practice/"
+            ],
+            "weight": "2",
+            "legislation_title": "21st Century IDEA & M-23-22",
+            "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
+            "featured_communities": [
+                "user-experience"
+            ],
+            "featured_resource_link": "/guides/hcd/",
+            "featured_links_title": "User experience: Essential knowledge",
+            "featured_links": [
+                {
+                    "title": "How to apply user experience principles and methodologies to deliver results",
+                    "summary": "Learn from case studies and best practices from federal UX practitioners to drive innovation through inclusion.",
+                    "href": "https://digital.gov/event/2023/06/14/2023-government-ux-summit/"
+                },
+                {
+                    "title": "An introduction to design",
+                    "summary": "Understand how and why design impacts user experience.",
+                    "href": "https://digital.gov/resources/an-introduction-to-design/"
+                },
+                {
+                    "title": "DHS usability testing kit",
+                    "summary": "Use the kit’s guidelines and templates to test the usability of your services and solutions.",
+                    "href": "https://digital.gov/event/2022/09/27/dhs-usability-testing-kit-so-easy-anyone-can-do-it/"
+                },
+                {
+                    "title": "U.S. Web Design System: Design principles",
+                    "summary": "Align on common goals and drive better user experiences on government websites.",
+                    "href": "https://designsystem.digital.gov/design-principles/"
+                },
+                {
+                    "title": "18F Methods: Human-centered design tools",
+                    "summary": "Use this collection of tools to put human-centered design into practice. They are focused on digital services, but can also be adapted to non-technical projects.",
+                    "href": "https://methods.18f.gov/"
+                }
+            ],
+            "filename": "_index.md",
+            "filepath": "topics/user-experience/_index.md",
+            "url": "http://localhost:1313/topics/user-experience/"
+        }
+    ]
+}

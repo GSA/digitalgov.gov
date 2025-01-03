@@ -18,6 +18,7 @@
     {{- if .Params.weight -}}
       "weight" : "{{- .Params.weight -}}",
     {{- end -}}
+    {{- partial "api/topics-metadata.html" . }}
     {{- partial "api/file-info.html" . }}
     {{- partial "api/slug.html" . }}
     }
