@@ -5,7 +5,7 @@
 slug: "software-engineering"
 
 # Topic Title
-title: "Software Engineering"
+title: "Software engineering"
 deck: "Develop  websites and services that are secure, reliable, and easy to maintain."
 
 summary: "Federal websites are essential tools for unifying and communicating government information with the public in a timely manner. A well-developed website builds public trust in government and provides users with access to information when they need it.
