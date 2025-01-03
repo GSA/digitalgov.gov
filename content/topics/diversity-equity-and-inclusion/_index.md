@@ -38,10 +38,11 @@ featured_links:
   - title: "An introduction to pronouns"
     summary: "Understand how and why to use pronouns."
     href: "https://digital.gov/resources/an-introduction-to-pronouns/"
-    - title: "An introduction to self-description"
+  - title: "An introduction to self-description"
     summary: "Understand how and why to use self-descriptions when introducing yourself during events and presentations."
     href: "https://digital.gov/resources/introduction-to-self-description/"
   - title: "Diversity, equity, and inclusion resources from the Office of Personnel Management (OPM)"
     summary: "Strategies and actions for agency teams to meet their diversity, equity, and inclusion goals."
     href: "https://www.opm.gov/services-for-agencies/diversity-equity-inclusion-and-accessibility/"
 ---
+
