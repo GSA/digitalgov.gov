@@ -32,11 +32,11 @@ community_list:
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     terms: "Only federal employees are eligible to join."
     members: 1118
-  - platform: listserv
-    type: public
-    subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone is eligible to join."
-    members: 357
+  # - platform: listserv
+  #   type: public
+  #   subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
+  #   terms: "Anyone is eligible to join."
+  #   members: 357
 
 ---
 

@@ -19,13 +19,10 @@ aliases:
 weight: 1
 
 topics:
-  - web-content-managers-forum
   - design
   - content
   - social-media
   - content-strategy
-  - strategy
-  - customer-service
   - multilingual
   - communication
 

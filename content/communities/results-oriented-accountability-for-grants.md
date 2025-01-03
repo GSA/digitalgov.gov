@@ -20,12 +20,12 @@ community_list:
     subscribe_email_subject: "Federal Join: Results-Oriented Accountability for Grants Community of Practice"
     members: 539
     emails_per_week: .3
-  - platform: "listserv"
-    type: public
-    subscribe_email: grantscommunity-subscribe-request@listserv.gsa.gov
-    subscribe_email_subject: "Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice"
-    members:
-    emails_per_week:
+  # - platform: "listserv"
+  #   type: public
+  #   subscribe_email: grantscommunity-subscribe-request@listserv.gsa.gov
+  #   subscribe_email_subject: "Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice"
+  #   members:
+  #   emails_per_week:
 
 ---
 

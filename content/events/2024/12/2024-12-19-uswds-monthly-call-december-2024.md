@@ -15,7 +15,6 @@ topics:
   - usability
   - user-experience
   - open-government
-  - policies and regulations
 
 slug: uswds-monthly-call-december-2024
 

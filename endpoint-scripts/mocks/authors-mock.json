@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "aaron-meyers": {
+                "display_name": "Aaron Meyers",
+                "first_name": "Aaron",
+                "last_name": "Meyers",
+                "slug": "aaron-meyers",
+                "agency": "GSA",
+                "agency_full_name": "U.S. General Services Administration",
+                "github": "AKM399",
+                "branch": "main",
+                "filepath": "authors/aaron-meyers/_index.md",
+                "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/authors/aaron-meyers/_index.md",
+                "url": "http://localhost:1313/authors/aaron-meyers/"
+            }
+        }
+    ]
+}

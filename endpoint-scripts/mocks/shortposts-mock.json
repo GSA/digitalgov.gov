@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "content_type": "news",
+            "title": "10x Fiscal Year 2023 Impact Report",
+            "deck": "In FY23, 10x doubled down on its commitment to creating solutions that serve the American public by investing in projects that aligned with the themes: Digital Foundations and Equity in Delivery. The team celebrated key wins with projects like Automated Security Authorization Processing (ASAP), and are very hopeful that newer projects, such as Digital Access to Justice, will make a difference. Explore what they did, where they’re going next — and what was learned along the way.",
+            "summary": "In FY23, 10x doubled down on its commitment to creating solutions that serve the American public by investing in projects that aligned with the themes: Digital Foundations and Equity in Delivery. The team celebrated key wins with projects like Automated Security Authorization Processing (ASAP), and are very hopeful that newer projects, such as Digital Access to Justice, will make a difference. Explore what they did, where they’re going next — and what was learned along the way.",
+            "date": "2024-05-15T00:00:00-0500",
+            "date_modified": "2024-05-17T21:12:14-04:00",
+            "weight": "1",
+            "source_url": "https://10x.gsa.gov/impact/fy23-report/",
+            "source": "10x",
+            "topics": [
+                "innovation"
+            ],
+            "filename": "2024-05-18-10x-fiscal-year-2023-impact-report.md",
+            "filepath": "news/2024/05/2024-05-18-10x-fiscal-year-2023-impact-report.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/%!s(\u003cnil\u003e)/content/news/2024/05/2024-05-18-10x-fiscal-year-2023-impact-report.md",
+            "slug": "10x-fiscal-year-2023-impact-report",
+            "url": "http://localhost:1313/2024/05/15/10x-fiscal-year-2023-impact-report/",
+        },
+        {
+            "content_type": "resources",
+            "title": "Tips for capturing the best data from user interviews",
+            "deck": "How to ensure the most useful information makes its way back to your team for further analysis",
+            "summary": "How to ensure the most useful information makes its way back to your team for further analysis",
+            "date": "2020-01-03T17:00:00-0500",
+            "date_modified": "2024-01-22T09:41:02-05:00",
+            "source_url": "https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/",
+            "source": "18f",
+            "authors": [
+                "ryan-sibley"
+            ],
+            "topics": [
+                "research"
+            ],
+            "filename": "capturing-best-data-from-user-interviews.md",
+            "filepath": "resources/capturing-best-data-from-user-interviews.md",
+            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/%!s(\u003cnil\u003e)/content/resources/capturing-best-data-from-user-interviews.md",
+            "slug": "capturing-best-data-from-user-interviews",
+            "url": "http://localhost:1313/resources/capturing-best-data-from-user-interviews/",
+        },
+    ]
+}

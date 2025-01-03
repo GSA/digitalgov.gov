@@ -1,3 +1,6 @@
 {{- with .Params.slug -}}
   "slug" : "{{- . -}}",
 {{- end -}}
+{{- if .Permalink -}}
+  "url" : "{{- .Permalink -}}"
+{{- end -}}

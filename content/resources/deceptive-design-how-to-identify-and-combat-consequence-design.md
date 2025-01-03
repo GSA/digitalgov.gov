@@ -1,7 +1,6 @@
 ---
 date: 2020-12-01 14:10:00 -0500
 # Originally published at the following URL
-source_url: ""
 title: "Deceptive Design: How to Identify and Combat Consequence Design"
 deck: ""
 summary: Consequence design is part of everyday life. Techniques like “deceptive patterns” and “hostile design” trick people into taking unintended actions — learn how to prevent them from sneaking into our design work.

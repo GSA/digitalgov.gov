@@ -13,8 +13,8 @@
     "items" : [
     {{- range $index, $element := $list -}}
     {
-        {{- partial "api/slug.html" . -}}
 
+        {{- partial "api/metadata" . -}}
         {{- if (isset .Params "name") -}}
         "name" : "{{- .Params.name | markdownify -}}",
         {{- end -}}
@@ -30,37 +30,9 @@
         {{- if (isset .Params "weight") -}}
         "weight" : "{{- .Params.weight -}}",
         {{- end -}}
-        {{- if (isset .Params "topics") -}}
-          "topics" : {
-          {{/* Sets the taxonomy we're pulling here */}}
-          {{- $taxonomy := "topics" -}}
-          {{- $topics := .Param $taxonomy -}}
-          {{/* Gets the number of topics that are applied */}}
-          {{- $length := $topics | len -}}
-
-          {{/* For each of the topics,... */}}
-          {{- range $i, $e := sort $topics -}}
-            {{- $slug := . -}}
-            {{/* Gets the Topics page */}}
-            {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
-              {{ if lt (add $i 1) $length }}
-              "{{- $slug -}}" : "{{- .Title }}",
-              {{- else }}
-              "{{- $slug -}}" : "{{- .Title }}"
-              {{ end }}
-            {{- end -}}
-
-          {{- end -}}
-          },
-        {{- end -}}
-
-        "branch" : {{ $.Scratch.Get "branch" | jsonify }},
-        "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
-        {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-        "filepath" : {{- with .File -}}{{- $path | jsonify -}}{{- end -}},
-        "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
-        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
-        "url" : "{{- .Permalink -}}"
+        {{- partial "api/topics" . -}}
+        {{- partial "api/file-info.html" . -}}
+        {{- partial "api/slug.html" . -}}
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]

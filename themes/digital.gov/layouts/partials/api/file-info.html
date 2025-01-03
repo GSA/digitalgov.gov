@@ -1,0 +1,7 @@
+"filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+"filepath" : {{- with .File -}}{{- $path | jsonify -}}{{- end -}},

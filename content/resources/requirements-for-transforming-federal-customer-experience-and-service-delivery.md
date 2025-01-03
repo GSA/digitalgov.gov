@@ -57,7 +57,7 @@ In 2023, the Office of Management and Budget (OMB) updated [OMB Circular A-11 Se
 
 This update simplified structures for transaction surveys and data collection, and outlined leading practices for effective management of customer experience. It also identified connections between customer research efforts and the [Paperwork Reduction Act](https://pra.digital.gov/), and additional detail on the collection of digital [analytics](https://digital.gov/topics/analytics/) data to augment transactional surveys.
 
-OMB’s policy guidance in OMB Circular A-11 Section 280: Managing Customer Experience and Improving Service Delivery says, “All agencies should apply the guidance provided in this section for annual customer experience management and planning, as well as the design of feedback surveys and measurement strategies for the performance of [f]ederal services.” 
+OMB’s policy guidance in OMB Circular A-11 Section 280: Managing Customer Experience and Improving Service Delivery says, “All agencies should apply the guidance provided in this section for annual customer experience management and planning, as well as the design of feedback surveys and measurement strategies for the performance of [f]ederal services.”
 
 {{< ring title="OMB Circular A-11">}}
 [Explore OMB Circular A-11 Section 280: Managing Customer Experience and Service Delivery (PDF, 376 KB, 14 pages)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)
