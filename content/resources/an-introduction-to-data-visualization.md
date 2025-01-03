@@ -6,6 +6,9 @@ deck: Understand how to tell a story using data and design
 summary: Use data visualization to communicate insights, tell a story, and share actionable information.
 # See all topics at https://digital.gov/topics
 
+authors:
+  - katie-chan
+
 topics:
   - data-visualization
   - design
