@@ -6,8 +6,6 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
-
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -20,7 +18,7 @@
     - Communicators
     - Plain Language
 
-- title: Chief Digital Officer
+- title: CHIEF DIGITAL OFFICER
   department: Other Agencies and Independent Organizations
   location: College Park, Maryland
   description: >
@@ -42,3 +40,47 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825946700
   cop_topics:
     - Communicators
+
+- title: Patents Customer Experience Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). The Patents business unit supports the Department's strategic goal to foster a more innovative US economy that is better at inventing, improving, and commercializing products and technologies that lead to higher productivity and competitiveness.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826032100
+  cop_topics:
+    - User Experience
+
+- title: Patents Customer Experience Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). The Patents business unit supports the Department's strategic goal to foster a more innovative US economy that is better at inventing, improving, and commercializing products and technologies that lead to higher productivity and competitiveness.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826032000
+  cop_topics:
+    - User Experience
+
+- title: Human-Centered Design Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). This position supports the Patents Customer Experience (CX) unit in OPSE in engaging the Patents organization to improve understanding of customer needs and drive customer-focused business decisions.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826031800
+  cop_topics:
+    - User Experience
+
+- title: Human-Centered Design Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). This position supports the Patents Customer Experience (CX) unit in OPSE in engaging the Patents organization to improve understanding of customer needs and drive customer-focused business decisions.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826031900
+  cop_topics:
+    - User Experience
