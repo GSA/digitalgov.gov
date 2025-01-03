@@ -9,6 +9,8 @@ title: "Hurricane Milton guidance for U.S. government websites and social media"
 deck: "Addressing web and digital communications related to Hurricane Milton"
 summary: "Addressing web and digital communications related to Hurricane Milton"
 
+expirydate: "2025-01-01"
+
 aliases:
   - /hurricane-milton/
 
