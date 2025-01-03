@@ -30,7 +30,7 @@ primary_image: 2024-uswds-monthly-call-dec-title-card
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for December 2024" icon="content_copy" >}} **Slide 1.** Thanks Kate, and welcome, everyone, to the U.S. Web Design System monthly call for December 2024. Today the USWDS logo is in a classic wreath form for the holiday season, with evergreen panels and a bright poinsettia-red segment like a bow.
 
-**Slide 2.** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt, glasses —today I'm wearing a red checked collared shirt and a blue workshirt. And bright green socks, for luck.
+**Slide 2.** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt, glasses — today I'm wearing a red checked collared shirt and a blue workshirt. And bright green socks, for luck.
 
 As Kate mentioned, we are recording this call, and I'm happy to say we're able to share the recordings of these monthly calls publicly. You can find pretty much everything back to January 2023 on our website, at [**designsystem.digital.gov/about/monthly-calls**](http://designsystem.digital.gov/about/monthly-calls). We typically post videos shortly after the monthly call and we also link out to the slides and the script, hosted at Digital.gov. We've posted a link to our monthly calls page in the chat.
 
@@ -56,7 +56,7 @@ Well, first we'll check out a handful of product updates. Then we'll hear from t
 - We also made a couple updates based on community contributions. **We fixed the display of focus outlines in the identifier.** Now, focus outlines don’t get clipped when they appear in some locations in the identifier's list of required links.
 - And finally, **we added a more modern CSS reset**. We're left some of the older IE11-constrained reset techniques behind and moved to a slimmer reset.
 
-[And that's USWDS 3.11.0](https://www.google.com/url?q=https://github.com/uswds/uswds/releases/tag/v3.11.0&sa=D&source=docs&ust=1735663244394200&usg=AOvVaw3W0afwmnr0C9MqAS_utR2G).
+[And that's USWDS 3.11.0](https://github.com/uswds/uswds/releases/tag/v3.11.0).
 
 **Slide 7.** We've also released a good quality-of-life update to USWDS Compile, in USWDS Compile 1.2.1.
 
@@ -89,7 +89,7 @@ Next in the queue are Date picker, Date range picker, Alert, and Site alert, com
 **Slide 10.** There are three public discussions to highlight this month:
 
 - The first is an active discussion about [providing support for user preferences](https://github.com/uswds/uswds/discussions/5798). The original discussion topic raises a few user browser preferences: **prefers-color-scheme**, **prefers-contrast**, and **prefers-reduced-motion**. USWDS has done a lot of work over the last year in supporting high contrast and forced color mode, though this is through the mechanism of the **forced-colors** media query and not via **prefers-contrast**. We also prefer solutions with reduced motion, so we haven't spent much time investigating reduced motion solutions, but **prefers-color-scheme** is a media query–speak for supporting Dark Mode, and that's a place where we could use some more opinions. If you want to support dark mode, or have tried to implement support for a dark mode scheme inside of USWDS or not, we'd be interested in hearing from you in this discussion.
-- Beyond dark mode, we'd also like to direct folks to this month's Accessibility discussion: on [**HTML titles and accessibility**](https://github.com/uswds/uswds/discussions/6243). Providing good HTML titles is also one of the new draft federal website standards, which we'll hear more about later in this call, so I think folks would benefit from more discussion about what's working when it comes to the accessibility and usability of titles.
+- Beyond dark mode, we'd also like to direct folks to this month's Accessibility discussion: on [HTML titles and accessibility](https://github.com/uswds/uswds/discussions/6243). Providing good HTML titles is also one of the new draft federal website standards, which we'll hear more about later in this call, so I think folks would benefit from more discussion about what's working when it comes to the accessibility and usability of titles.
 - And finally, we've posted a public version of last month's monthly call Q&A in discussions as well. You can check that out via [the link in the chat](https://github.com/uswds/uswds/discussions/6252) if you missed last month's call.
 
 **Slide 11.** We're also moving ahead in the world of pattern and component proposals.
@@ -130,7 +130,7 @@ We also wanted to leave some space for a discussion about how USWDS and the Fede
 
 **Slide 23.** And only 2% of federal forms have been digitized for the web.
 
-**Slide 24.** Back in 2018, 21st Century Integrated Digital Experience Act commonly known as 21st Century IDEA passed. It requires all agencies to modernize their public-facing websites and digital services, digitize services and forms, accelerate use of e-signatures, improve customer experience and standardize and transition to centralized shared services.
+**Slide 24.** Back in 2018, 21st Century Integrated Digital Experience Act, commonly known as 21st Century IDEA, passed. It requires all agencies to modernize their public-facing websites and digital services, digitize services and forms, accelerate use of e-signatures, improve customer experience and standardize and transition to centralized shared services.
 
 **Slide 25.** It meant that digital services should be:
 
@@ -163,7 +163,7 @@ We did user research with the public and with agencies and desk research about i
 
 **Slide 31.** We defined standards as actions that will help agencies meet the public’s evolving expectations for digital experiences. The standards are evidence-based, auditable and lead to a consistent digital experience.
 
-**Slide 32.** We launched our website ([standards.digital.gov](http://standards.digital.gov)) with 3 pending standards that will be tracked for compliance at some point in the future.
+**Slide 32.** We launched our website ([standards.digital.gov](http://standards.digital.gov)) with three pending standards that will be tracked for compliance at some point in the future.
 
 The government banner which has the line “this is a federal government website”, with the flag, and the "this is how you know" dropdown, which is an item we found the public looks for to know if they can trust the website.
 
