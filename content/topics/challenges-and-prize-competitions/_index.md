@@ -5,7 +5,7 @@
 slug: "challenges-and-prize-competitions"
 
 # Topic Title
-title: "Challenges & Prize Competitions"
+title: "Challenges and prize competitions"
 
 # description — keep it short and clear
 deck: "Prize competitions can advance the missions of federal agencies."
