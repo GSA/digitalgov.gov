@@ -9,7 +9,7 @@ aliases:
 
 # Topic Title
 title: "Diversity, equity, and inclusion"
-deck: "Find out how to incorporate diversity, equity, inclusion, and accessibility (DEIA) into digital experiences."
+deck: "Find out how to incorporate diversity, equity, and inclusion into digital experiences."
 summary: "When digital experiences are designed to be inclusive, they are accessible to all — people with diverse abilities, people who speak different languages, and people from diverse cultural, ethnic, and economic backgrounds. Inclusion creates a better user experience for everyone."
 
 # Weight
@@ -27,13 +27,13 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Diversity, equity, inclusion, and accessibility: Essential knowledge"
+  title: "Diversity, equity, and inclusion: Essential knowledge"
   resources:
   - title: "Accessibility for teams"
     summary: "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow."
     href: "https://accessibility.digital.gov"
-  - title: "Inclusive design patterns"
-    summary: "Read the U.S. Web Design System’s research report and explore a library of guidance and examples focused on key digital interactions that foster effective, inclusive, and equitable digital experiences."
+  - title: "Inclusive design patterns from the U.S. Web Design System"
+    summary: "Explore a library of guidance and examples focused on key digital interactions that foster effective, inclusive, and equitable digital experiences."
     href: "https://designsystem.digital.gov/together/"
   - title: "An introduction to pronouns"
     summary: "Understand how and why to use pronouns."
@@ -41,8 +41,8 @@ featured_links:
   - title: "An introduction to self-description"
     summary: "Understand how and why to use self-descriptions when introducing yourself during events and presentations."
     href: "https://digital.gov/resources/introduction-to-self-description/"
-  - title: "Diversity, equity, and inclusion resources from the Office of Personnel Management (OPM)"
-    summary: "Strategies and actions for agency teams to meet their diversity, equity, and inclusion goals."
+  - title: "Diversity, equity, and inclusion resources from the Office of Personnel Management"
+    summary: "Explore strategies and actions for agencies to meet their diversity, equity, and inclusion goals."
     href: "https://www.opm.gov/services-for-agencies/diversity-equity-inclusion-and-accessibility/"
 ---
 
