@@ -41,7 +41,7 @@ There are no firm or set rules for how to create or design data visualizations, 
 
 When you create a data visualization, your goal should be to transform data into actionable information. This process can take many forms, but making a visualization typically involves the following seven steps.
 
-### Step 1. Establish and understand the research question.
+### Step 1. Establish and understand the research question
 
 A clear, focused [research question](https://guides.18f.gov/ux-guide/research/plan/#research-questions) will guide the scope of your analysis. You may need to break down your research question into multiple components, which may be more clear to address in more than one visualization.
 
@@ -49,25 +49,27 @@ A clear, focused [research question](https://guides.18f.gov/ux-guide/research/pl
   [The 18F User Experience Guide](https://guides.18f.gov/ux-guide/research/plan/#research-questions) provides examples of research questions. While centered on user research, you can use the definition and principles to guide your own brainstorming.
 {{< /note >}}
 
-### Step 2. Identify data sources.
+### Step 2. Identify data sources
 
 Determine if you can get data that will address your question. You may need to use multiple data sources to validate and cross-check, to get a holistic view of the subject.
-### Step 3. Clean and explore your data.
+
+### Step 3. Clean and explore your data
 
 Verify your data is complete, consistent, and standardized. To ensure consistency, establish clear data strategies and governance, use standardized procedures and data dictionaries, and invest in data quality tools. This will allow you to carry out a comprehensive analysis.
 
-### Step 4. Analyze the data and choose a visual.
+### Step 4. Analyze the data and choose a visual
 
 The chart type you use should support your research goal and fit the type of data you are showing. For example, pie charts are useful to emphasize proportions between a few categories that are parts of a whole. [Bar charts](https://designsystem.digital.gov/components/data-visualizations/#bar-charts-2), meanwhile, are ideal for displaying data in categories and effective at showing comparisons across multiple categories.
-### Step 5. Check your visualization for bias.
+
+### Step 5. Check your visualization for bias
 
 Identify any limitations in the way the data was collected. Approaching visualization with [a lens of empathy and equity](https://www.nnlm.gov/training/class/do-no-harm-data-viz) can ensure visualizations are more well-justified, accurate, and impactful. 
 
-### Step 6. Ensure that your data is accessible.
+### Step 6. Ensure that your data is accessible
 
 Carefully consider the [language, icons, colors, and category order](https://www.nnlm.gov/training/class/do-no-harm-data-viz) you use. Design your visualization with a focus on [accessibility](https://digital.gov/resources/an-introduction-to-accessibility/) from the start to ensure everyone can understand and navigate your data.
 
-### Step 7. Identify and customize your message or story based on your audience — and get feedback.
+### Step 7. Identify and customize your message or story based on your audience — and get feedback
 
 Help your audience understand your intent by including enough metadata (such as title, caption, and labels) for them to follow the information in your visualization. Use [plain language](https://digital.gov/resources/an-introduction-to-plain-language/) for clarity. You can also test your visualization: ask someone from your intended audience (preferably) or a colleague (if needed, or with early drafts) to review your visualization. Gathering feedback can help you understand if people will be able to grasp the story you are trying to tell.
 
