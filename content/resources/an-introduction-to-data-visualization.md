@@ -43,10 +43,10 @@ When you create a data visualization, your goal should be to transform data into
 
 ### Step 1. Establish and understand the research question
 
-A clear, focused [research question](https://guides.18f.gov/ux-guide/research/plan/#research-questions) will guide the scope of your analysis. You may need to break down your research question into multiple components, which may be more clear to address in more than one visualization.
+A clear, focused research question will guide the scope of your analysis. You may need to break down your research question into multiple components, which may be more clear to address in more than one visualization.
 
 {{< note >}} 
-  [The 18F User Experience Guide](https://guides.18f.gov/ux-guide/research/plan/#research-questions) provides examples of research questions. While centered on user research, you can use the definition and principles to guide your own brainstorming.
+  The 18F User Experience Guide provides [examples of research questions](https://guides.18f.gov/ux-guide/research/plan/#research-questions). While centered on user research, you can use the definition and principles to guide your own brainstorming.
 {{< /note >}}
 
 ### Step 2. Identify data sources
