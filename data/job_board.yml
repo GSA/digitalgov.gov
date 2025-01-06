@@ -6,61 +6,81 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
   description: >
           6-month non-reimbursable assignment with the possibility of extension. Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Community Outreach Specialist Series Requested: 0301 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-09-03
-  close_date: 2024-12-18
+  close_date: 2025-01-27
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
   cop_topics:
     - Communicators
     - Plain Language
 
-- title: IT Project Manager (SYSANALYSIS)
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
+- title: CHIEF DIGITAL OFFICER
+  department: Other Agencies and Independent Organizations
+  location: College Park, Maryland
   description: >
-          As an IT Project Manager (SYSANALYSIS), you will serve as a Contact Center Modernization Lead. In this role, you will oversee cooperative critical Contact Center modernization efforts between the Centers of Excellence (CoE) and partnering agencies. These efforts will allow you to guide and improve the initial point of contact between the American public and federal agencies while facing some of the most complex and impactful challenges in public service.
-  open_date: 2024-12-03
-  close_date: 2024-12-13
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821822400
-  cop_topics:
-    - Contact Center
-
-- title: Head, Communications and Outreach Section
-  department: Legislative Branch
-  location: Washington, District of Columbia
-  description: >
-          The position serves as the Head, Communications and Outreach Section in the National Library for the Blind and Print Disabled (NLS) within the Library Collections and Services Group (LCSG) at the Library of Congress. The position description number for this position is 061543. The incumbent of this position will work a flextime work schedule. This is a supervisory, non-bargaining unit position. Relocation expenses will not be authorized for the person selected under this vacancy announcement.
-  open_date: 2024-12-03
-  close_date: 2025-01-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821979900
-  cop_topics:
-    - Communicators
-
-- title: DIGITAL SERVICES SPECIALIST
-  department: Department of the Interior
-  location: Location Negotiable After Selection
-  description: >
-          The final determination of the duty station for this position will be made by the selecting official at the time of the job offer. Flexibilities to work remotely in a virtual posture may be considered under the guidance of ONRR's remote work policy which will be provided as necessary based on duty station determination. Physical worksite locations: Lakewood, CO; Washington, D.C.; Dallas, TX; Houston, TX; Oklahoma City, OK; Tulsa, OK; Farmington, NM
-  open_date: 2024-12-10
-  close_date: 2024-12-16
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/822750900
-  cop_topics:
-    - User Experience
-
-- title: Director, Solution Delivery & Support
-  department: Department of Transportation
-  location: Washington, District of Columbia
-  description: >
-          This position is located in the U.S. Department of Transportation (DOT), Office of the Chief Information Officer (OCIO), Application and Digital Solutions (S86) organization. The federal team is responsible for delivering simple, seamless, and secure digital experiences to customers within the Office of the Secretary of Transportation and agency wide. The Director of Solution Delivery & Support leads a team of Application Developers.
-  open_date: 2024-12-10
-  close_date: 2024-12-16
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/823237800
+          This position is part of the National Archives and Records Administration, Information Services. As a Chief Digital Officer, you will serve as the agency's chief technologist and oversees all elements of digital transformation and technology management.
+  open_date: 2024-12-20
+  close_date: 2025-01-08
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825217500
   cop_topics:
     - User Experience
     - Web Managers
 
+- title: Public Affairs Specialist
+  department: Department of Commerce
+  location: Boulder, Colorado
+  description: >
+          The Department of Commerce ranked top 5 in the 2023 Best Places to Work in the Federal Government amongst large agencies for the 12th year in a row! The ranking showcases the Department's continued commitment to increasing our employee engagement, employee satisfaction, and positive perceptions towards diversity, equity, accessibility, and inclusion. Come join our team!
+  open_date: 2024-12-30
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825946700
+  cop_topics:
+    - Communicators
+
+- title: Patents Customer Experience Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). The Patents business unit supports the Department's strategic goal to foster a more innovative US economy that is better at inventing, improving, and commercializing products and technologies that lead to higher productivity and competitiveness.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826032100
+  cop_topics:
+    - User Experience
+
+- title: Patents Customer Experience Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). The Patents business unit supports the Department's strategic goal to foster a more innovative US economy that is better at inventing, improving, and commercializing products and technologies that lead to higher productivity and competitiveness.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826032000
+  cop_topics:
+    - User Experience
+
+- title: Human-Centered Design Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). This position supports the Patents Customer Experience (CX) unit in OPSE in engaging the Patents organization to improve understanding of customer needs and drive customer-focused business decisions.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826031800
+  cop_topics:
+    - User Experience
+
+- title: Human-Centered Design Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). This position supports the Patents Customer Experience (CX) unit in OPSE in engaging the Patents organization to improve understanding of customer needs and drive customer-focused business decisions.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826031900
+  cop_topics:
+    - User Experience
