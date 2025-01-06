@@ -1,6 +1,6 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/policy
+# https://digital.gov/topics/public-policy
 
 slug: "public-policy"
 
