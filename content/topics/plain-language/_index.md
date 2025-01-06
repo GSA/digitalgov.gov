@@ -10,7 +10,7 @@ aliases:
 slug: "plain-language"
 
 # Topic Title
-title: "Plain Language"
+title: "Plain language"
 
 # description — keep it short and clear
 summary: "Plain language is communication that is clear and easy to understand for your target audience, regardless of the medium used to deliver it. It is communication your audience can understand the first time they encounter it. Using plain language on government websites is one of the best ways to reach your target audience. A clear, concise message builds trust with users because they can understand your call to action and complete their tasks and meet their needs."

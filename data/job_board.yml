@@ -6,8 +6,6 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
-
-
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -20,63 +18,69 @@
     - Communicators
     - Plain Language
 
-- title: Head, Communications and Outreach Section
-  department: Legislative Branch
-  location: Washington, District of Columbia
-  description: >
-          The position serves as the Head, Communications and Outreach Section in the National Library for the Blind and Print Disabled (NLS) within the Library Collections and Services Group (LCSG) at the Library of Congress. The position description number for this position is 061543. The incumbent of this position will work a flextime work schedule. This is a supervisory, non-bargaining unit position. Relocation expenses will not be authorized for the person selected under this vacancy announcement.
-  open_date: 2024-12-03
-  close_date: 2025-01-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821979900
-  cop_topics:
-    - Communicators
-
-- title: Chief Digital Officer
+- title: CHIEF DIGITAL OFFICER
   department: Other Agencies and Independent Organizations
   location: College Park, Maryland
   description: >
           This position is part of the National Archives and Records Administration, Information Services. As a Chief Digital Officer, you will serve as the agency's chief technologist and oversees all elements of digital transformation and technology management.
   open_date: 2024-12-20
-  close_date: 2025-01-02
+  close_date: 2025-01-08
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825217500
   cop_topics:
     - User Experience
     - Web Managers
 
-- title: Marketing Communications Program Manager
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
+- title: Public Affairs Specialist
+  department: Department of Commerce
+  location: Boulder, Colorado
   description: >
-          As a Marketing Communications Program Manager, you will work for the Marketing & Communications Division (QCBB) within the Office of Integrated Marketing (QCB) for Customer and Stakeholder Engagement (CASE), managing worldwide tactics and marketing communications for assigned accounts. Location of Position: This is a virtual position and duty location of this position will be determined upon selection. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-12-17
-  close_date: 2024-12-27
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/824528700
-  cop_topics:
-    - Communicators
-    - Web Managers
-
-- title: Supervisory Public Affairs Specialist
-  department: Department of Health and Human Services
-  location: Washington, District of Columbia
-  description: >
-          This position is located in the Department of Health and Human Services, Administration for Strategic Preparedness and Response, headquartered in Washington, District of Columbia. This announcement has an applicant limit of 100. Once the first 100 applicants have been reached, the announcement will no longer be available to apply.
-  open_date: 2024-12-20
-  close_date: 2024-12-29
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825125300
+          The Department of Commerce ranked top 5 in the 2023 Best Places to Work in the Federal Government amongst large agencies for the 12th year in a row! The ranking showcases the Department's continued commitment to increasing our employee engagement, employee satisfaction, and positive perceptions towards diversity, equity, accessibility, and inclusion. Come join our team!
+  open_date: 2024-12-30
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825946700
   cop_topics:
     - Communicators
 
-- title: Program Manager
-  department: General Services Administration
-  location: Washington DC, District of Columbia
+- title: Patents Customer Experience Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
   description: >
-          As a Program Manager, you will manage the Performance Management Line of Business (PMLoB), a program to standardize and present government-wide federal performance data related to agencies' strategic plans. Location of position: GSA, Office of Government-wide Policy, Office of Shared Solutions and Performance Improvement, Washington, DC. We are currently filling one vacancy, but additional vacancies may be filled as needed.
-  open_date: 2024-12-20
-  close_date: 2024-12-27
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825089000
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). The Patents business unit supports the Department's strategic goal to foster a more innovative US economy that is better at inventing, improving, and commercializing products and technologies that lead to higher productivity and competitiveness.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826032100
   cop_topics:
-    - Communicators
-    - Web Managers
+    - User Experience
 
+- title: Patents Customer Experience Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). The Patents business unit supports the Department's strategic goal to foster a more innovative US economy that is better at inventing, improving, and commercializing products and technologies that lead to higher productivity and competitiveness.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826032000
+  cop_topics:
+    - User Experience
 
+- title: Human-Centered Design Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). This position supports the Patents Customer Experience (CX) unit in OPSE in engaging the Patents organization to improve understanding of customer needs and drive customer-focused business decisions.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826031800
+  cop_topics:
+    - User Experience
 
+- title: Human-Centered Design Specialist
+  department: Department of Commerce
+  location: Alexandria, Virginia
+  description: >
+          Are you up for an exciting challenge to work in the Office of Patents Stakeholder Experience. This position is located in the Office of the Commissioner for Patents (5), Office of Patents Stakeholder Experience (OPSE), Customer Experience Division (CX). This position supports the Patents Customer Experience (CX) unit in OPSE in engaging the Patents organization to improve understanding of customer needs and drive customer-focused business decisions.
+  open_date: 2024-12-27
+  close_date: 2025-01-13
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826031900
+  cop_topics:
+    - User Experience
