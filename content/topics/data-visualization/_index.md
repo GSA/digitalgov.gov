@@ -39,11 +39,11 @@ featured_links:
     - title: "resources.data.gov"
       summary: "Explore policies, tools, case studies, and other resources supporting the use of data in government."
       href: "https://resources.data.gov/"
-    - title: "Involving end users at all stages to create actionable science products for complex, real-world issues"
-      summary: "Understand how to use co-production methods to increase the usefulness of scientific results, products, and tools."
-      href: "https://digital.gov/2021/08/13/involving-end-users-at-all-stages-to-create-actionable-science-products-for-complex-real-world-issues/"
     - title: "Understanding the Digital Analytics Program"
       summary: "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies."
       href: "https://digital.gov/guides/dap/"
+    - title: "Involving end users at all stages to create actionable science products for complex, real-world issues"
+      summary: "Understand how to use co-production methods to increase the usefulness of scientific results, products, and tools."
+      href: "https://digital.gov/2021/08/13/involving-end-users-at-all-stages-to-create-actionable-science-products-for-complex-real-world-issues/"
       
 ---
