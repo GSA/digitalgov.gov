@@ -8,7 +8,7 @@ slug: "public-policy"
 title: "Public policy"
 
 # description — keep it short and clear
-deck: "The relevant laws and policies for delivering better digital services."
+deck: "The relevant laws and policies for delivering better digital services"
 
 summary: "Public policy plays a vital role in how federal programs serve the public. More than 100 laws, memos, and other policies impact federal websites, covering topics such as accessibility, privacy, security, design, and user experience. It is important for web and digital practitioners to understand the policy framework."
 
