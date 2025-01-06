@@ -18,7 +18,7 @@ The Digital Government Strategy complements several initiatives aimed at buildin
 
 The Digital Government Strategy incorporates a broad range of input from government practitioners, the public, and private-sector experts. Two cross-governmental working groups – the Mobility Strategy and Web Reform Task Forces – provided guidance and recommendations for building a digital government.
 
-<a class="button" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html">View the Digital Government Strategy of 2012</a>
+{{< button href="https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html" text="View the Digital Government Strategy of 2012" >}}
 
 ## Related Resources
 

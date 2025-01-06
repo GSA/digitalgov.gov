@@ -24,7 +24,6 @@ In September 2009, the President released his Strategy for American Innovation, 
 - [OMB M-10-06, Open Government Directive (December 2009)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf)
 - [View all Open Government policies on whitehouse.gov](https://obamawhitehouse.archives.gov/open)
 
-
 ---
 
 See more [DigitalGov Resources]({{< ref "/resources" >}})

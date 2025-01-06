@@ -8,11 +8,12 @@ topics:
   - policy
 authors:
   - apiazza
+
 ---
 
 The Plain Language Action and Information Network (PLAIN) put together federal guidelines to help implement the Plain Language Act of 2010.
 
-[View Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/)
+{{< button href="https://www.plainlanguage.gov/guidelines/" text="View the Plain Language Guidelines" >}}
 
 ## Related Resources:
 

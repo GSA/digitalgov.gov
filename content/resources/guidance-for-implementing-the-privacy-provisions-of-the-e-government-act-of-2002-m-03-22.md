@@ -8,13 +8,14 @@ topics:
   - policy
 authors:
   - apiazza
+
 ---
 
 This guidance provides information to agencies on implementing the privacy provisions of the E-Government Act of 2002.
 
 It addresses privacy protections when Americans interact with their government. The guidance directs agencies to conduct reviews of how information about individuals is handled within their agency when they use information technology (IT) to collect new information, or when agencies develop or buy new IT systems to handle collections of personally identifiable information. Agencies are also directed to describe how the government handles information that individuals provide electronically, so that the American public has assurances that personal information is protected.
 
-[View M-03-22: Guidance for Implementing the Privacy Provisions of the E-Gov Act (PDF, 165 kb, 16 pages, September 2003)](https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf)
+{{< button href="https://www.whitehouse.gov/wp-content/uploads/2017/11/203-M-03-22-OMB-Guidance-for-Implementing-the-Privacy-Provisions-of-the-E-Government-Act-of-2002-1.pdf" text="View M-03-22: Guidance for Implementing the Privacy Provisions of the E-Gov Act (PDF, 165 kb, 16 pages, September 2003)" >}}
 
 ## Related Resources
 
