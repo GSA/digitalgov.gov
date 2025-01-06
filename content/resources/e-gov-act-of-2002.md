@@ -4,7 +4,7 @@ date: 2015-09-29 10:04:09 -0400
 title: E-Gov Act of 2002
 summary: "The purpose of the E-Government Act of 2002 includes improving the management and promotion of electronic government services and processes, and establishing a framework of measures that require using Internet-based information technology to improve citizen access to government information and services."
 topics:
-  - policy
+  - public-policy
 authors:
   - andreanocesigritz
 

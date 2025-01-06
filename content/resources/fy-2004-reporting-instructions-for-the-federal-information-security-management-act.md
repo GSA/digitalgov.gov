@@ -4,7 +4,7 @@ date: 2015-11-23 4:06:49 -0400
 title: FY 2004 Reporting Instructions for the Federal Information Security Management Act
 summary: "This memorandum provides updated instructions for agency reporting under the Federal Information Security Management Act of 2002 (FISMA)."
 topics:
-  - policy
+  - public-policy
 authors:
   - andreanocesigritz
 

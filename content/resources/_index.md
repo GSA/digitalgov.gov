@@ -69,7 +69,7 @@ resource_topics:
     - diversity-equity-and-inclusion
     - governance
     - innovation
-    - policy
+    - public-policy
     - professional-development
   technology:
     - application-programming-interface

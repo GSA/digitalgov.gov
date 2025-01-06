@@ -6,7 +6,7 @@ summary: "The Freedom of Information Act (FOIA) is the law that gives anyone the
 
 topics:
   - open-government
-  - policy
+  - public-policy
 
 authors:
   - apiazza
