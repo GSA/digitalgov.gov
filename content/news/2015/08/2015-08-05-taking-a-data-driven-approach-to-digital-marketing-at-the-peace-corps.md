@@ -30,7 +30,7 @@ We ran an A/B/n test that included eight variations, testing four messaging fram
 ## The Campaign
 
   * The campaign ran from May to June 2015 and included sponsored content on Buzzfeed, Spotify, as well as paid social, search and display ads.
-  * Our publishers were given [UTM codes](http://www.launchdigitalmarketing.com/seo-definitions/what-are-utm-codes/) that tracked the source of visitors to our [campaign landing page](http://www.peacecorps.gov/volunteer/learn/clp/findyourconnection/) that directed them to our experiment, which randomly selected which page variation they saw and acted on.
+  * Our publishers were given UTM codes that tracked the source of visitors to our [campaign landing page](http://www.peacecorps.gov/volunteer/learn/clp/findyourconnection/) that directed them to our experiment, which randomly selected which page variation they saw and acted on.
   * The publishers themselves were optimizing the ad copy on their end, so our experiment was focused on what we could control and optimize (i.e., the campaign landing page itself).
 
 ## The Findings
@@ -47,4 +47,4 @@ When taking a data-driven approach, it is important not to lose the forest for t
   * Run the test long enough to collect a statistically significant sample.
   * Make sure repeat visitors see the same variation.
 
-Our experiment was focused on changes to our campaign landing page, but this approach can be applied to other channels, including advertising copy, email content, etc. Remember, there are limitations to these types of experiments, but as long as you are cognizant of the [limitations](http://www.qubit.com/sites/default/files/pdf/mostwinningabtestresultsareillusory_0.pdf) and cautious, you can start making incremental steps to making your agency data-driven._Chris Rottler leads digital analytics at the Peace Corps._
+Our experiment was focused on changes to our campaign landing page, but this approach can be applied to other channels, including advertising copy, email content, etc. Remember, there are limitations to these types of experiments, but as long as you are cognizant of the limitations and cautious, you can start making incremental steps to making your agency data-driven._Chris Rottler leads digital analytics at the Peace Corps._
