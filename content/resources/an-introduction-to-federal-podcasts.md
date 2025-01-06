@@ -3,13 +3,15 @@ date: 2025-01-06
 source: ""
 title: An introduction to federal podcasts
 deck: Understand why and how to start a federal podcast
-summary: 
+summary: Explore the basics of creating a podcast and determine if creating a federal podcast is right for your agency. 
 # See all topics at https://digital.gov/topics
 
 primary_image: "microphones-nadya-ustyuzhantseva-istock-getty-images-1365614872"
 
 topics:
   - podcast
+  - communication
+  - social-media
 
 # Controls how this page appears across the site
 # 0 -- hidden
