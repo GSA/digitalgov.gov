@@ -6,7 +6,7 @@ deck: Understand why and how to start a federal podcast
 summary: 
 # See all topics at https://digital.gov/topics
 
-primary_image: ""
+primary_image: "microphones-nadya-ustyuzhantseva-istock-getty-images-1365614872"
 
 topics:
   - podcast
