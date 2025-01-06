@@ -1,9 +1,9 @@
 ---
 date: 2025-01-06
 source: ""
-title: An introduction to federal podcasts
-deck: Understand why and how to start a federal podcast
-summary: Explore the basics of creating a podcast and determine if creating a federal podcast is right for your agency. 
+title: An introduction to podcasts
+deck: Understand why and how to start podcasting
+summary: Explore the basics of launching a podcast and determine if creating a podcast is right for your agency. 
 # See all topics at https://digital.gov/topics
 
 primary_image: "microphones-nadya-ustyuzhantseva-istock-getty-images-1365614872"
@@ -29,7 +29,7 @@ A podcast is similar to a radio talk show, except it is online and pre-recorded.
 
 But they may not be right in every context, and they’re a lot of work to create and maintain. Before using this format, be sure to ask yourself: why do I need a podcast?
 
-## How do I get started with a federal podcast?
+## How do I start podcasting?
 
 If you decide that podcasts are right for your agency and you have buy-in from leadership, here are four steps to get you started.
 
