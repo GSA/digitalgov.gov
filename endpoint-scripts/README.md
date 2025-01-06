@@ -16,7 +16,15 @@
 - rename aliases to redirects
 - only need the uid for the primary image
 - setup endpoint for all redirects that are not short posts
-	- if a resource is redirected, remove from the resources endpoint
+- if a resource is redirected, remove from the resources endpoint
+- use relative filepath for unique id, move shortposts to own content/short-posts
+- prefer filepath not the abs url for each item record
+- update make svg path abs
+- https://github.com/GSA/digitalgov.gov/pull/7840/files implement?
+- update fields to machine name
+- separate redirects by external, internal, 301s
+- to page should be abs path, from can be filepath
+  - "public_page": "/topics/usability/"
 
 ## notes
 
@@ -25,6 +33,7 @@
 3. add missing fields for completeness for each type
 4. add content to json output
 5. create endpoints for short-post
+
 
 
 
@@ -78,8 +87,8 @@ content/authors/abigail-abby-bowman/_index.md
 ## Communities
 
 What data from community lists do we need, check with drupal form.
-
 Match field names to drupal fields.
+
 
 ### Issues
 
