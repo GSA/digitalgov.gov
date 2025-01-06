@@ -2,7 +2,7 @@
 # This topic lives at
 # https://digital.gov/topics/policy
 
-slug: "policy"
+slug: "public-policy"
 
 # Topic Title
 title: "Public policy"
@@ -19,6 +19,7 @@ aliases:
 - /guides/public-policy/information-collection
 - /guides/public-policy/policy-types
 - /guides/public-policy/privacy-and-security
+- /topics/policy/
 
 # Weight
 weight: 2
