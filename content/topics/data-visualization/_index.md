@@ -25,7 +25,7 @@ legislation:
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-  - link: "/guides/dap"
+  - link: "/resources/an-introduction-to-data-visualization/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -42,4 +42,8 @@ featured_links:
     - title: "Involving end users at all stages to create actionable science products for complex, real-world issues"
       summary: "Understand how to use co-production methods to increase the usefulness of scientific results, products, and tools."
       href: "https://digital.gov/2021/08/13/involving-end-users-at-all-stages-to-create-actionable-science-products-for-complex-real-world-issues/"
+    - title: "Understanding the Digital Analytics Program"
+      summary: "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies."
+      href: "https://digital.gov/guides/dap/"
+      
 ---
