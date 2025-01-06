@@ -1,17 +1,22 @@
 ---
 slug: digital-millennium-copyright-act
 date: 2015-12-01 9:02:15 -0400
-title: Digital Millennium Copyright Act
-summary: The Digital Millennium Copyright Act (DMCA) is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). Passed on October 12, 1998, the DMCA amended Title 17 of the United States Code to extend the reach of copyright, while limiting the liability of the providers of online services
+title: "Digital Millennium Copyright Act"
+summary: "The Digital Millennium Copyright Act (DMCA) is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO)."
+
 topics:
   - policy
+
 authors:
   - apiazza
+
 ---
 
 The Digital Millennium Copyright Act (DMCA) is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). Passed on October 12, 1998, the DMCA amended Title 17 of the United States Code to extend the reach of copyright, while limiting the liability of the providers of online services for copyright infringement by their users.
 
-<a class="button" style="color: #000000" href="http://www.gpo.gov/fdsys/pkg/PLAW-105publ304/pdf/PLAW-105publ304.pdf">View Digital Millennium Copyright Act</a>
+<a class="button" style="color: #000000" href=""></a>
+
+{{< button href="http://www.gpo.gov/fdsys/pkg/PLAW-105publ304/pdf/PLAW-105publ304.pdf" text="View Digital Millennium Copyright Act (PDF)" >}}
 
 ## Related Resources
 

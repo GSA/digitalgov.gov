@@ -18,7 +18,7 @@ authors:
 
 Making information resources accessible, discoverable, and usable by the public can help fuel entrepreneurship, innovation, and scientific discovery- all of which improve Americans&#8217; lives and contribute significantly to job creation. This Memorandum establishes a framework to help institutionalize the principles of effective information management at each stage of the information&#8217;s life cycle to promote interoperability and openness. Whether or not particular information can be made public, agencies can apply this framework to all information resources to promote efficiency and produce value.
 
-[View M-13-13: Open Data Policy (PDF, 6.1 MB, 12 pages)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf)
+{{< button href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-13.pdf" text="View M-13-13: Open Data Policy (PDF, 6.1 MB, 12 pages)" >}}
 
 ## Related Resources
 
