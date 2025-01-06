@@ -19,7 +19,7 @@ topics:
   - customer-experience
   - user-experience
   - product-and-project-management
-  - policy
+  - public-policy
   - design
   - innovation
   - information-collection

@@ -6,7 +6,7 @@ summary: "Executive Order 13571 requires agencies that provide significant servi
 
 topics:
   - customer-experience
-  - policy
+  - public-policy
 
 authors:
   - andreanocesigritz

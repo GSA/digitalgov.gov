@@ -4,7 +4,7 @@ date: 2015-12-01 8:42:48 -0400
 title: U.S. Trademark Law
 summary: "United States trademark law is mainly governed by the Lanham Act."
 topics:
-  - policy
+  - public-policy
 authors:
   - apiazza
 

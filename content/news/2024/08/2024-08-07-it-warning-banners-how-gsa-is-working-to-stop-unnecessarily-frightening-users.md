@@ -6,7 +6,7 @@ summary: "OMB Memo M-23-22 discourages the use of pop-ups and modals. GSA IT upd
 
 # See all topics at https://digital.gov/topics
 topics:
-  - policy
+  - public-policy
   - security
   - human-centered-design
   - terms-of-service

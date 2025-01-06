@@ -35,7 +35,7 @@ logo: congressgov
 # Topics that best describe this product or service
 topics:
   - product-and-project-management
-  - policy
+  - public-policy
 
 # Make it better ♥
 
