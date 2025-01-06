@@ -7,14 +7,14 @@ topics:
   - policy
 authors:
   - andreanocesigritz
+
 ---
 
 This Memorandum requires Federal agencies to take specific steps to protect individual privacy whenever they use third-party websites and applications to engage with the public.
 
-<a class="button" style="color: #000000" href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf">View Guidance for Agency Use of Third-Party Websites and Applications</a>
+{{< button href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf" text="View Guidance for Agency Use of Third-Party Websites and Applications (PDF)" >}}
 
 ## Related Links
-
 
 - [President’s Memorandum on Transparency and Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2009/m09-12.pdf)
 - [Open Government Directive]({{< ref "open-government-directive.md" >}})
