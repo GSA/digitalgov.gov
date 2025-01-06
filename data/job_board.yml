@@ -6,6 +6,8 @@
 # Jobs with a close date before the current date will automatically be omitted
 
 
+
+
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -18,7 +20,7 @@
     - Communicators
     - Plain Language
 
-- title: CHIEF DIGITAL OFFICER
+- title: Chief Digital Officer
   department: Other Agencies and Independent Organizations
   location: College Park, Maryland
   description: >
@@ -84,3 +86,16 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826031900
   cop_topics:
     - User Experience
+
+- title: Writer-Editor
+  department: Department of the Interior
+  location: Lakewood, Colorado
+  description: >
+          Explore a new career with the BLM - where our people are our most precious resource. This position is located in the National Operations Center (NOC) in Lakewood, Colorado. Information about Lakewood, Colorado and the surrounding area can be found at West Metro Chamber of Commerce We expect to fill 1 (one) vacancy at this time; however, additional positions may be filled from this announcement if they become available.
+  open_date: 2024-12-21
+  close_date: 2025-01-08
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825526600
+  cop_topics:
+    - Communicators
+    - Plain Language
+
