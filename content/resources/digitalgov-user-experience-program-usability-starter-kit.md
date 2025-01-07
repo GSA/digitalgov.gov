@@ -25,7 +25,6 @@ Here are some tools and templates to help you create better user experiences. If
    - [Usability Report Template](http://www.slideshare.net/DigitalGov/usability-testing-report-template "Usability Test Report Template") 1 (PowerPoint presentation, 373 KB, 8 slides, May 2014)
    - [Usability Report Template 2](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/EmployeeExpressfinalreport-2.docx) (Word document, 20 KB, 6 pages, May 2014)
    - [System Usability Scale / Post-Test Questions](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/SUS-Universal.docx) (Word document, 500 KB, 1 page, Dec. 2014)
-   - [Usability Test Plan Template](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Fhow-to-and-tools%2Fresources%2Ftemplates%2Fusability-test-plan-template.html&sa=D&sntz=1&usg=AFQjCNGDQT0Ec_nhB2NuiWv4HdPLPsMUwA) (from usability.gov)
    - [Usability Test Report Template](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Fsites%2Fdefault%2Ffiles%2Fusability-test-report.docx&sa=D&sntz=1&usg=AFQjCNEPnHnai2tEMgnsmOGnIyBz1q3Xug) (from usability.gov)
 
 3. **Focus Group**:
