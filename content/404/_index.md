@@ -6,7 +6,7 @@ summary: "We're sorry, but the page you're seeking does not exist. Please verify
 # type: 404
 
 aliases:
-  - /2010/10/22/tell-compelling-stories-with-data-visualization/
+
   - /2011/11/28/battle-royale-mobile-web-versus-mobile-apps/
   - /2011/06/21/making-mobile-gov-project/
   - /2012/10/01/automated-translation-good-solution-or-not/
