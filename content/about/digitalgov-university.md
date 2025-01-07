@@ -3,6 +3,9 @@ url: /digitalgov-university/
 date: 2013-11-17 11:11:43 -0400
 title: Digital.gov Events
 summary: 'Digital.gov helps agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops, and connect with each other.'
+
+expirydate: "2025-01-05"
+
 aliases:
   - /digitalgov-university/digitalgov-university-event-and-training-request-form/
   - /2015/02/03/let-us-share-your-events/
