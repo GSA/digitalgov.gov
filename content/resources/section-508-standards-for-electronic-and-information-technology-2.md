@@ -8,7 +8,7 @@ source_url: "https://www.access-board.gov/ict/"
 
 topics:
   - accessibility
-  - policy
+  - public-policy
 
 authors:
   - apiazza

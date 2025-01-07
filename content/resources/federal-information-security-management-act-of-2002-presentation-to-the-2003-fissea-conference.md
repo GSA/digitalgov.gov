@@ -6,7 +6,7 @@ summary: "The head of the agency delegates to the CIO a number of information se
 
 topics:
   - security
-  - policy
+  - public-policy
 
 authors:
 - andreanocesigritz

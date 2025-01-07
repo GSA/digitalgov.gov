@@ -17,7 +17,7 @@ topics:
   - plain-language
   - communication
   - professional-development
-  - policy
+  - public-policy
 # See all authors at https://digital.gov/authors
 authors:
   - bethany-blakey

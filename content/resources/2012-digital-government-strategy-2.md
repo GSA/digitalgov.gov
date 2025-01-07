@@ -8,7 +8,7 @@ title: 2012 Digital Government Strategy
 summary: "The Digital Government Strategy complements several initiatives aimed at building a 21st century government that works better for the American people."
 
 topics:
-  - policy
+  - public-policy
 authors:
   - apiazza
 

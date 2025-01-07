@@ -20,7 +20,7 @@ topics:
   - design
   - innovation
   - content-strategy
-  - policy
+  - public-policy
 
 slug: progress-towards-delivering-a-digital-first-public-experience
 

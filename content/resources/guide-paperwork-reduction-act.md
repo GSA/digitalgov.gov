@@ -15,7 +15,7 @@ topics:
   - customer-experience
   - information-collection
   - research
-  - policy
+  - public-policy
 
 # see all authors at https://digital.gov/authors
 authors:
