@@ -3,17 +3,21 @@ slug: antideficiency-act-implications-of-rtain-online-terms-of-service-agreement
 date: 2015-11-24 9:43:26 -0400
 title: Antideficiency Act Implications of Certain Online Terms of Service Agreements
 summary: "This memo contains the opinion by the Office of Legal Counsel (OLC) of the Department of Justice (DOJ) and sheds light on specific, problematic terms of use in social media products."
+
+expirydate: "2023-11-21"
+
 topics:
   - terms-of-service
   - public-policy
+
 authors:
   - andreanocesigritz
-expirydate: "2023-11-21"
+
 ---
 
 This memo contains the opinion by the Office of Legal Counsel (OLC) of the Department of Justice (DOJ) and sheds light on specific, problematic terms of use in social media products. The OLC Memorandum concludes that in certain circumstances, a Federal employee with contracting authority violates the Antideficiency Act when he or she opens an agency account for a social media application that is governed by Terms of Service (TOS) that include an open-ended indemnification clause. An Antideficiency Act violation may occur in such a situation because an agency&#8217;s agreement to an open-ended indemnification clause could result in the agency&#8217;s legal liability for an amount in excess of the agency&#8217;s appropriation.
 
-<a class="button" style="color: #000000" href="http://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf">View Antideficiency Act Implications of Certain Online Terms of Service Agreements</a>
+{{< button href="http://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf" text="View Antideficiency Act Implications of Certain Online Terms of Service Agreements (PDF)" >}}
 
 ## Related Links
 
