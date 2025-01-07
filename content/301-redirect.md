@@ -1,0 +1,71 @@
+---
+title: "301 Redirect"
+deck: "The page you're looking for is no longer available."
+url: /301
+layout: redirect
+
+aliases:
+  - /2011/11/28/battle-royale-mobile-web-versus-mobile-apps/
+  - /2011/06/21/making-mobile-gov-project/
+  - /2012/10/01/automated-translation-good-solution-or-not/
+  - /2012/12/18/analytics-apis-and-open-content-resources/
+  - /2012/08/06/how-kids-search/
+  - /2012/07/11/aids-gov-responsive-design/
+  - /2012/11/30/socialgov-summit-highlights-accessibility-challenges/
+  - /2012/12/17/sam-gov-usability-test-study/
+  - /2012/10/15/gsa-fedramp-usability-case-study/
+  - /2012/12/14/irs-usability-case-study/
+  - /2012/10/15/gsa-intranet-insite-usability-case-study/
+  - /2012/10/15/office-of-natural-resources-revenue-usability-case-study/
+  - /2012/11/05/nsf-gov-usability-case-study/
+  - /2012/12/06/weather-gov-usability-case-study/
+  - /2012/02/24/epas-mobile-access-review-committee/
+  - /2012/02/22/dol-labor-stats-app/
+  - /2012/02/22/my-tsa-mobile-app/
+  - /2012/02/22/epa-indoor-airplus-app/
+  - /2012/08/29/digital-government-strategy-milestones-report/
+  - /2012/06/20/medlineplus-mobile-evaluation/
+  - /2012/08/21/sms-or-short-message-service/
+  - /2012/07/11/faa-mobile-site/
+  - /2012/07/11/government-video-laws/
+  - /2012/07/09/how-to-improve-an-apps-challenge/
+  - /2012/07/09/how-to-implement-an-apps-challenge/
+  - /2012/07/02/mobile-webinar-series-recap-responsive-design/
+  - /2012/06/29/mobile-strategy-at-the-smithsonian/
+  - /2012/06/27/hitting-the-ground-running-with-the-digital-strategy/
+  - /2012/06/08/usdas-ask-karen/
+  - /2012/05/31/eyenote/
+  - /2012/05/16/rimblackberry-mobile-development-webinar-recap/
+  - /2012/05/12/national-contact-centers-text-message-program/
+  - /2012/05/07/find-free-video-stock-footage/
+  - /2012/04/26/noaas-release-mako-app/
+  - /2012/04/25/naras-docsteach/
+  - /2012/04/10/usa-gov-mobile-apps-gallery/
+  - /2012/03/05/myds-web-app/
+  - /2012/12/21/mobile-gov-resources-for-2013/
+  - /2012/11/30/using-gamification-in-federal-projects/
+  - /2012/11/21/how-the-department-of-education-automated-publication-of-press-releases/
+  - /2012/11/21/how-nasa-chose-a-new-content-management-system/
+  - /2012/11/19/case-study-how-dol-created-software-development-kits-sdks/
+  - /2012/11/19/case-study-how-gsa-launched-social-media-registry/
+  - /2012/11/13/government-as-an-information-franchise/
+  - /2012/11/05/centers-for-disease-control-content-syndication/
+  - /2012/10/25/gsas-child-care-information-portal/
+  - /2012/10/19/feds-shed-light-on-dark-social/
+  - /2012/09/13/medicare-gov-responsive-redesign/
+  - /2012/08/22/agency-digital-strategy-pages/
+  - /2012/08/12/agile-sprinting-to-digital-governance-recommendations/
+  - /2012/08/03/mobile-first-webinar-recap/
+  - /2012/08/01/accessibility-editorial-guidelines-for-youtube/
+  - /2012/07/26/introduction-to-apis/
+  - /2012/07/16/healthfinder-gov-api/
+  - /2012/07/13/osha-heat-safety-tool-app/
+  - /2012/02/19/social-data-unlocked-next-generation-services/
+  - /2012/07/13/next-in-our-mobile-webinar-series-mobile-first/
+  - /2012/07/12/bia-wikithon/
+  - /2012/12/18/norad-tracks-santa-app/
+  - /2012/11/20/smart-traveler-app/
+  - /2012/10/24/mobile-apps-life-cycle-webinar/
+  - /2012/10/02/taking-cancer-gov-mobile/
+  - /2012/07/13/irs2go-app/
+---
