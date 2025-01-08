@@ -1,17 +1,20 @@
 ---
 slug: childrens-online-privacy-protection-rule-coppa
 date: 2015-11-23 3:03:09 -0400
-title: "Children&#8217;s Online Privacy Protection Rule (&#8220;COPPA&#8221;)"
-summary: "The Children&#8217;s Online Privacy Protection Rule,imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age."
+title: "Children's Online Privacy Protection Rule (COPPA Rule)"
+summary: "The Rule imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age."
+
 topics:
-  - policy
+  - public-policy
+
 authors:
   - andreanocesigritz
+
 ---
 
-The Children&#8217;s Online Privacy Protection Rule,imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.
+The Children's Online Privacy Protection Rule (COPPA Rulle) imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.
 
-<a class="button" style="color: #000000" href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule">View Children&#8217;s Online Privacy Protection Rule (&#8220;COPPA&#8221;)</a>
+{{< button href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule" text="View Children's Online Privacy Protection Rule: Final Rule Amendments" >}}
 
 ## Related Links
 

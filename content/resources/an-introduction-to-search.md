@@ -13,7 +13,7 @@ topics:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 7
+weight: 1
 
 slug: an-introduction-to-search
 

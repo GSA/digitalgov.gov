@@ -12,7 +12,7 @@ authors:
 topics:
   - product-and-project-management
   - governance
-  - policy
+  - public-policy
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

@@ -33,7 +33,7 @@ topics:
   - multimedia
   - multilingual
   - mobile
-  - policy
+  - public-policy
   - information-architecture
   - social-media
   - privacy

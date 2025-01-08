@@ -4,14 +4,15 @@ date: 2015-12-01 12:12:10 -0400
 title: Making Open and Machine Readable the New Default for Government Information
 summary: "Openness in government strengthens our democracy, promotes the delivery of efficient and effective services to the public, and contributes to economic growth. As one vital benefit of open government, making information resources easy to find, accessible, and usable can fuel entrepreneurship, innovation, and scientific discovery that improves Americans&#8217; lives and contributes significantly to job creation."
 topics:
-  - policy
+  - public-policy
 authors:
   - apiazza
+
 ---
 
 Openness in government strengthens our democracy, promotes the delivery of efficient and effective services to the public, and contributes to economic growth. As one vital benefit of open government, making information resources easy to find, accessible, and usable can fuel entrepreneurship, innovation, and scientific discovery that improves Americans&#8217; lives and contributes significantly to job creation.
 
-[View Executive Order on Making Open and Machine Readable the Default](https://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
+{{< button href="https://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-" text="View Executive Order on Making Open and Machine Readable the Default" >}}
 
 ## Related Resources
 
