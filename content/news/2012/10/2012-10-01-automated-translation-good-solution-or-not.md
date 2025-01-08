@@ -13,6 +13,7 @@ topics:
   - product-and-project-management
   - multilingual
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2012/10/600-x-400-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Keyboard key conceptualizes accessible translation" caption="Tashatuvango/iStock/Thinkstock" >}} 
