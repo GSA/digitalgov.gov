@@ -1,40 +1,37 @@
 {{- define "content" -}}
-  <main role="main" id="main-content" class="404-page">
-    <article>
-      <header>
-        <div class="grid-container grid-container-desktop">
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}}</h1>
+  {{- with site.GetPage "/404" -}}
+    <main role="main" id="main-content">
+      <article>
+        <header>
+          <div class="grid-container grid-container-desktop">
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}}</h1>
 
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-          {{- end -}}
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+              <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
 
-          {{/* Summary */}}
-          {{- if .Params.summary -}}
-            <div class="summary">{{- .Params.summary | markdownify -}}</div>
-          {{- end -}}
-        </div>
-      </header>
+            {{/* Summary */}}
+            {{- if .Params.summary -}}
+              <div class="summary">{{- .Params.summary | markdownify -}}</div>
+            {{- end -}}
+          </div>
+        </header>
 
-      <section>
-        <div class="grid-container grid-container-desktop">
-          <div class="grid-row">
-            <div class="grid-col-12 tablet:grid-col-9">
-              {{/* Content */}}
-              <div class="content">
-                {{- .Content -}}
+        <section>
+          <div class="grid-container grid-container-desktop">
+            <div class="grid-row">
+              <div class="grid-col-12 tablet:grid-col-9">
+                {{/* Content */}}
+                <div class="content">
+                  {{- .Content -}}
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </section>
-    </article>
-  </main>
-  <script type="text/javascript">
-    let breadcrumb_nav = document.querySelector(".usa-breadcrumb");
-    console.log(breadcrumb);
-    breadcrumb_nav.style.display = "none";
-  </script>
+        </section>
+      </article>
+    </main>
+  {{- end -}}
 {{- end -}}
