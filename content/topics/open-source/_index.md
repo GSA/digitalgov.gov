@@ -5,7 +5,7 @@
 slug: "open-source"
 
 # Topic Title
-title: "Open Source"
+title: "Open source"
 
 # description — keep it short and clear
 summary: ""
