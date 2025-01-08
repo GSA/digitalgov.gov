@@ -8,7 +8,7 @@ summary: Best practices for security administration of control systems and their
 topics:
   - security
   - open-source
-  - policy
+  - public-policy
 
 # See all authors at https://digital.gov/authors
 authors:

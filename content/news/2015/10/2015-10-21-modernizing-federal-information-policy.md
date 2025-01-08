@@ -11,7 +11,7 @@ authors:
 
 topics:
   - product-and-project-management
-  - policy
+  - public-policy
 
 ---
 

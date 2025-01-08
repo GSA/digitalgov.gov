@@ -19,7 +19,7 @@ end_date: 2019-09-18 16:00:00 -0500
 # see all topics at https://digital.gov/topics
 topics: 
   - product-and-project-management
-  - policy
+  - public-policy
 
 # see all authors at https://digital.gov/authors
 authors: 

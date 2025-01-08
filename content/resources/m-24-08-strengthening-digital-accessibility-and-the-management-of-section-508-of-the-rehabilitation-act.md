@@ -9,7 +9,7 @@ summary: Provides requirements and recommendations to support agency integration
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - policy
+  - public-policy
 slug: m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act
 # Controls how this page appears across the site
 # 0 -- hidden
