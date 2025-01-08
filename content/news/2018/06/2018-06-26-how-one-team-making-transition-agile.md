@@ -6,7 +6,7 @@ summary: 'A hybrid approach of waterfall and agile practices is helping the USGS
 authors:
   - andrew-j-stauffer
 topics:
-  - policy
+  - public-policy
   - software-engineering
   - content-strategy
   - research

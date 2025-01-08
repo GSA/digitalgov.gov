@@ -5,7 +5,7 @@
 slug: "content-strategy"
 
 # Topic Title
-title: "Content Strategy"
+title: "Content strategy"
 deck: "Make use of content strategy to deliver great digital experiences."
 
 summary: "Content strategy involves planning, creating, delivering, and governing content that meets the needs of its users and achieves an organization's goals. Content strategy is an essential element of effective digital web services and communication for government agencies."

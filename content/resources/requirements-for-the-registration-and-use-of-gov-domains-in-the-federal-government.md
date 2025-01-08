@@ -16,7 +16,7 @@ authors:
 topics:
   - domain-management
   - governance
-  - policy
+  - public-policy
 
 primary_image: 
 
