@@ -28,7 +28,7 @@ topics:
   - content-strategy
   - human-centered-design
   - user-centered-design
-  - policy
+  - public-policy
 slug: the-department-of-justice-recognizes-anniversary-of-executive-order-13166-improving-access-to-services-for-persons-with-limited-english-proficiency
 # Controls how this page appears across the site
 # 0 -- hidden

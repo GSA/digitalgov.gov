@@ -15,7 +15,7 @@ topics:
   - human-centered-design
   - digital-service-delivery
   - best-practices
-  - policy
+  - public-policy
 slug: user-research-and-the-paperwork-reduction-act
 # Controls how this page appears across the site
 # 0 -- hidden

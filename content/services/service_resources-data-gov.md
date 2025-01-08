@@ -35,7 +35,7 @@ topics:
   - software-engineering
   - open-source
   - open-data
-  - policy
+  - public-policy
 
 ---
 

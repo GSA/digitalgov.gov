@@ -70,7 +70,6 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 - [18F Content Guide](https://content-guide.18f.gov/)
 - [PlainLanguage.gov](https://www.plainlanguage.gov/)
-- [USAGov Bilingual Style Guide: Table of Contents](https://www.usa.gov/style-guide/table-of-contents)
 
 **U.S. Government Publishing Office (GPO)**
 

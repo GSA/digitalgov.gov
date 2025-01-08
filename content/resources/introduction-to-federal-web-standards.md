@@ -2,7 +2,7 @@
 date: 2024-11-26 10:12:00 -0500
 title: "An introduction to federal website standards"
 deck: "Understand how and why to use the federal website standards"
-summary: "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices."
+summary: "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone."
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -23,7 +23,7 @@ primary_image: "hands-puzzle-pieces-girafchik123-istock-getty-images-2091035051"
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 1
+weight: 7
 
 ---
 

@@ -7,7 +7,7 @@ summary: A quick-start user guide for information technology professionals to be
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - policy
+  - public-policy
 # See all authors at https://digital.gov/authors
 authors:
   - michael-marin

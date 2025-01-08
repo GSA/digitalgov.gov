@@ -11,7 +11,7 @@ authors:
   - sharon-mar
   - jeremyzilar
 topics:
-  - policy
+  - public-policy
   - information-collection
 
 featured_image:
