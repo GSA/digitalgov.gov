@@ -5,7 +5,7 @@ title: An introduction to podcasts
 deck: Understand why and how to start podcasting
 summary: Explore the basics of launching a podcast and determine if creating a podcast is right for your agency. 
 
-alias:
+aliases:
 - /resources/how-to-start-and-sustain-a-federal-podcast/
 
 # See all topics at https://digital.gov/topics
