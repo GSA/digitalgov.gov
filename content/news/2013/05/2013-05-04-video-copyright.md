@@ -11,6 +11,7 @@ topics:
   - content-strategy
   - multimedia
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2013/12/b7-copyright-pic.jpg" alt="A picture of the copyright symbol" >}}

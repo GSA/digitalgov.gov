@@ -14,6 +14,7 @@ topics:
   - emerging-tech
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products.

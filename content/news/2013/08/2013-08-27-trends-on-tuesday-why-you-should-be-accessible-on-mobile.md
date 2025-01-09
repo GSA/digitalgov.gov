@@ -10,6 +10,7 @@ topics:
   - mobile
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 [MobileMarketingWatch](http://www.mobilemarketingwatch.com/) released an article explaining why it is important for the workplace to be making the move to mobile. When it comes to marketing, it is essential to understand your customer and be easily discoverable or else your product will go unseen. It is all about “place, place, place.” It is no secret the use of smartphones and tablets is increasing all the time, so being easily discoverable on these devices is absolutely essential.

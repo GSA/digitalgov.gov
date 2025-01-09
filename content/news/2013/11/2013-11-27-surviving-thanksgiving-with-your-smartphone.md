@@ -7,6 +7,7 @@ authors:
   - genevieve-contey
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 Oh, Thanksgiving!
