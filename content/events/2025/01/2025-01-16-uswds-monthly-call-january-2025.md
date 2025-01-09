@@ -6,8 +6,8 @@ summary: Learn the U.S. Web Design System basics, how to get started with the de
 host: Dan Williams
 event_organizer: Digital.gov
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdO2rrD8uGwZHMv_sapSs3li8yvD9vkI
-date: 2025-01-16 13:00:00 -0500
-end_date: 2025-01-16 14:00:00 -0500
+date: 2025-01-16 14:00:00 -0500
+end_date: 2025-01-16 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - Design
