@@ -18,7 +18,7 @@ weight: 2
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "how-to-start-and-sustain-a-federal-podcast"
+    - link: "an-introduction-to-podcasts"
 
 # Featured community to display at the top of the page
 featured_communities:
