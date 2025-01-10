@@ -17,7 +17,8 @@ data:
   is_emergency: false
   has_icon: true
   is_slim: false
-  header: "California wildfires guidance for U.S. government websites and social media"
+  header: "Guidance for U.S. government websites and social media"
   alerts:
-    - "[digital.gov/california-wildfires](/hurricane-helene)"
+    - "[digital.gov/california-wildfires](/california-wildfires)"
+    - "[digital.gov/hurricane-helene](/hurricane-helene)"
   
