@@ -1,0 +1,21 @@
+
+  # https://s3.amazonaws.com/digitalgov/california-wildfires-esf-15-guidance.png
+  # Image shortcode: {{< img src="california-wildfires-esf-15-guidance" >}}'
+  date     :  2025-01-10 21:37:19 -0400
+  uid      :  california-wildfires-esf-15-guidance
+  width    :  1200
+  height   :  628
+  format   :  png
+
+  # REQUIRED alternative text for accessibility.
+  # Keep within 150 characters. https://capitalizemytitle.com/character-counter/ will count characters.
+  alt      :  ""
+
+  # Caption text appears below the image; usually the attribution for stock images.
+  # Must be different from the alt text.
+  caption  :  ""
+
+  # Credit text appears after the caption text, separated by an m-dash.
+  # Example https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/ 
+  credit   :  ""
+  
