@@ -1,8 +1,8 @@
 ---
 slug: celebrating-the-18th-anniversary-of-section-508-rehabilitation-act
 date: 2016-08-15 11:00:03 -0400
-title: Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act
-summary: 'August 8, 2016, marks the 18th anniversary of the amendment to the Section 508 Rehabilitation Act of 1973, which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. As amended, the Act requires: &#8230;access'
+title: "Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act"
+summary: "August 8, 2016, marks the 18th anniversary of the amendment to the Section 508 Rehabilitation Act of 1973. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape."
 authors:
   - apiazza
 topics:
@@ -12,7 +12,9 @@ topics:
   - accessibility
 ---
 
-August 8, 2016, marks the 18th anniversary of the amendment to the [Section 508 Rehabilitation Act of 1973](http://www.section508.gov/section-508-of-the-rehabilitation-act "Section 508 Rehabilitation Act of 1973"), which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. {{< legacy-img src="2016/08/600-x-400-18th-Cake-robynmac-iStock-Thinkstock-105487856.jpg" alt="A red, white, and blue celebration cake with two lit candles, a one and an eight, for the number 18." caption="" >}} 
+August 8, 2016, marks the 18th anniversary of the amendment to the [Section 508 Rehabilitation Act of 1973](http://www.section508.gov/section-508-of-the-rehabilitation-act "Section 508 Rehabilitation Act of 1973"), which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape.
+
+{{< legacy-img src="2016/08/600-x-400-18th-Cake-robynmac-iStock-Thinkstock-105487856.jpg" alt="A red, white, and blue celebration cake with two lit candles, a one and an eight, for the number 18." caption="robynmac/iStock/Thinkstock" >}} 
 
 As amended, the Act requires:
 
@@ -33,392 +35,298 @@ The Dept. of Health and Human Services shares their Section 508 plans and milest
     <th style="text-align: center" scope="col">
       Agency<br /> Name
     </th>
-    
     <th style="text-align: center" scope="col">
       Feb<br /> 2016
     </th>
-    
     <th style="text-align: center" scope="col">
       Mar<br /> 2016
     </th>
-    
     <th style="text-align: center" scope="col">
       Apr<br /> 2016
     </th>
-    
     <th style="text-align: center" scope="col">
       May<br /> 2016
     </th>
-    
     <th style="text-align: center" scope="col">
       Jun<br /> 2016
     </th>
-    
     <th style="text-align: center" scope="col">
       Jul<br /> 2016
     </th>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       ACF
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       94.59%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.19%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.66%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       93.88%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       93.47%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.41%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       ACL
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       99.13%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       99.13%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       99.18%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       99.34%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       99.25%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       98.99%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       AHRQ
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       94.32%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.15%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.24%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.93%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.64%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.86%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       CDC
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       97.44%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       97.13%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.30%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.45%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.21%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.49%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       CMS
     </th>
-    
     <td style="background: #fffca6;text-align: right">
       86.55%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       86.52%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       84.66%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       87.69%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       89.09%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       89.26%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       FDA
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       95.55%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.62%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.14%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.56%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.61%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.53%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       HRSA
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       94.51%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.12%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.75%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.07%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       93.93%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.10%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       IHS
     </th>
-    
     <td style="background: #fffca6;text-align: right">
       82.51%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       82.47%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       84.25%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       81.32%
     </td>
-    
     <td style="background: #ffdcdb;text-align: right">
       72.18%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       75.64%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       NIH
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       93.52%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.15%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.30%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.45%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       93.39%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       90.66%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       OS<br /> (includes PRIORITY)
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       95.17%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.14%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.36%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.71%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.32%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       92.41%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       OS<br /> PRIORITY<br /> (break-out)
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       96.76%
     </td>
-    
-    <td style="background: #c4f8af;text-align: right">
-      96.50%
-    </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.25%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.81%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       95.73%
     </td>
-    
     <td style="background: #c4f8af;text-align: right">
       94.02%
     </td>
   </tr>
-  
   <tr>
     <th scope="row" align="left">
       SAMHSA
     </th>
-    
     <td style="background: #c4f8af;text-align: right">
       91.86%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       89.18%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       89.63%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       88.75%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       81.21%
     </td>
-    
     <td style="background: #fffca6;text-align: right">
       79.24%
     </td>
   </tr>
-  
   <tr>
     <th colspan="7" scope="row" align="left">
       <em>* This is partial data for the last 6 months; please <a title="View 508 Compliance Leaderboards" href="http://www.hhs.gov/web/section-508/compliance-and-remediation/leaderboards/index.html">visit HHS’s site</a> for the full year, August 2015 to July 2016.</em>
