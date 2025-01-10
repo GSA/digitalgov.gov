@@ -523,8 +523,6 @@ Each character and its code is listed below:
 ## Sources
 
 - [El Diccionario de la Real Academia Española](http://www.rae.es/).
-
 - National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)
-
 - [Glosas, órgano informativo de la Comisión de Traducciones de la Academia Norteamericana de la Lengua Española](https://glosas.anle.us/)
 - [Errores ortotipográficos en la traducción al español](http://www.certifiedchinesetranslation.com/Spanish/ortotipo.html). Xosé Castro Roig y Lucía Rodríguez Corral, c.1999
