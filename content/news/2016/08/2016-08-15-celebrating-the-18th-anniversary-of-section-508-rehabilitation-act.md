@@ -1,8 +1,8 @@
 ---
 slug: celebrating-the-18th-anniversary-of-section-508-rehabilitation-act
 date: 2016-08-15 11:00:03 -0400
-title: Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act
-summary: 'August 8, 2016, marks the 18th anniversary of the amendment to the Section 508 Rehabilitation Act of 1973, which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. As amended, the Act requires: &#8230;access'
+title: "Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act"
+summary: "August 8, 2016, marks the 18th anniversary of the amendment to the Section 508 Rehabilitation Act of 1973. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape."
 authors:
   - apiazza
 topics:
@@ -12,7 +12,9 @@ topics:
   - accessibility
 ---
 
-August 8, 2016, marks the 18th anniversary of the amendment to the [Section 508 Rehabilitation Act of 1973](http://www.section508.gov/section-508-of-the-rehabilitation-act "Section 508 Rehabilitation Act of 1973"), which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. {{< legacy-img src="2016/08/600-x-400-18th-Cake-robynmac-iStock-Thinkstock-105487856.jpg" alt="A red, white, and blue celebration cake with two lit candles, a one and an eight, for the number 18." caption="" >}} 
+August 8, 2016, marks the 18th anniversary of the amendment to the [Section 508 Rehabilitation Act of 1973](http://www.section508.gov/section-508-of-the-rehabilitation-act "Section 508 Rehabilitation Act of 1973"), which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape.
+
+{{< legacy-img src="2016/08/600-x-400-18th-Cake-robynmac-iStock-Thinkstock-105487856.jpg" alt="A red, white, and blue celebration cake with two lit candles, a one and an eight, for the number 18." caption="robynmac/iStock/Thinkstock" >}} 
 
 As amended, the Act requires:
 
