@@ -25,8 +25,6 @@ Here are some tools and templates to help you create better user experiences. If
    - [Usability Report Template](http://www.slideshare.net/DigitalGov/usability-testing-report-template "Usability Test Report Template") 1 (PowerPoint presentation, 373 KB, 8 slides, May 2014)
    - [Usability Report Template 2](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/EmployeeExpressfinalreport-2.docx) (Word document, 20 KB, 6 pages, May 2014)
    - [System Usability Scale / Post-Test Questions](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/SUS-Universal.docx) (Word document, 500 KB, 1 page, Dec. 2014)
-   - [Usability Test Plan Template](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Fhow-to-and-tools%2Fresources%2Ftemplates%2Fusability-test-plan-template.html&sa=D&sntz=1&usg=AFQjCNGDQT0Ec_nhB2NuiWv4HdPLPsMUwA) (from usability.gov)
-   - [Usability Test Report Template](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Fsites%2Fdefault%2Ffiles%2Fusability-test-report.docx&sa=D&sntz=1&usg=AFQjCNEPnHnai2tEMgnsmOGnIyBz1q3Xug) (from usability.gov)
 
 3. **Focus Group**:
 
@@ -66,7 +64,6 @@ Here are some tools and templates to help you create better user experiences. If
    - [PRA Primer &#8211; OMB Guidance](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/PRAPrimer_04072010-2.pdf) (PDF, 98 KB, 8 pages, April 2010)
    - [PRA Fast Track FAQ](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/PRA_Fast_Track_FAQs-1.pdf) (PDF, 143 KB, 8 pages, Dec. 2014)
    - [Article explaining PRA and FastTrack](https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/)
-   - [Fast-Track Clearance Process &#8211; Usability.gov](http://www.usability.gov/how-to-and-tools/guidance/fast-track-clearance-process.html)
    - [How To Create PRA Supporting Statements](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/How-To-Create-a-Supporting-Statement.doc) (Word document, 70 KB, 7 pages, Oct. 2014)
    - [PRA Information Collection Guide](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/PRAInformationCollectionManual.pdf), via OPM (PDF, 1.1 MB, 50 pages, Oct. 2014)
 
