@@ -66,7 +66,7 @@ FEMA has established a landing page on FEMA.gov with the latest information from
 *English*: [https://www.usa.gov/california-wildfires](https://www.usa.gov/california-wildfires)<br/>
 *Spanish*: [https://usa.gov/es/california-incendios-forestales](https://usa.gov/es/california-incendios-forestales)
 
-GSA has created a landing page on USA.gov for government-wide information related to the California wildfire activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email [usagovemergency@gsa.gov](usagovemergency@gsa.gov) and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/california-wildfires](https://www.usa.gov/california-wildfires), and the Spanish page is at [https://usa.gov/es/california-incendios-forestales](https://usa.gov/es/california-incendios-forestales).
+GSA has created a landing page on USA.gov for government-wide information related to the California wildfire activities. The page is being populated now — if you have materials from your agency that need to be added to the page, please email [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov) and they will coordinate posting. USA.gov can support both English and Spanish content. The page is located at [https://www.usa.gov/california-wildfires](https://www.usa.gov/california-wildfires), and the Spanish page is at [https://usa.gov/es/california-incendios-forestales](https://usa.gov/es/california-incendios-forestales).
 
 {{< note "action" >}}
 Send the title and URL for any California wildfires-related materials posted on your agency website to [usagovemergency@gsa.gov](mailto:usagovemergency@gsa.gov).
