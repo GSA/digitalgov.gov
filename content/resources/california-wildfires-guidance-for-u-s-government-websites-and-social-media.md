@@ -1,25 +1,32 @@
 ---
 date: 2025-01-10 00:00:00 -0500
-source: ""
 title: California wildfires guidance for U.S. government websites and social media
 deck: Addressing web and digital communications related to the California wildfires
 summary: Addressing web and digital communications related to the California wildfires.
+
 # See all topics at https://digital.gov/topics
 topics:
   - design
+  - web-content-managers-forum
+  - content
   - social-media
   - content-strategy
   - multilingual
   - communication
-  - customer-experience
+  - customer-service
+
 slug: california-wildfires-guidance-for-u-s-government-websites-and-social-media
-primary_image: 10x-funded-cover
+
+primary_image: 
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+
 ---
+
 In response to the California wildfires, the U.S. Department of Homeland Security (DHS) is issuing guidance for the coordination of federal web and social media communications related to this incident.
 
 The authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response#esf) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response) where, during incidents of national significance, DHS has the authority to coordinate all U.S. government communications.
