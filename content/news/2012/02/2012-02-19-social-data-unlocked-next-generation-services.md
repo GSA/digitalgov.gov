@@ -14,7 +14,7 @@ topics:
   - software-engineering
   - social-media
   - application-programming-interface
-
+expirydate: 2025-01-01
 ---
 
 Today at the [#SocialGov Summit for Social Media Week DC](http://socialmediaweek.org/washingtondc/events/?id=54458#.URwVBKVlFus), we’ll showcase two new initiatives for citizens, agencies and small businesses that help unlock the full potential of social data for the next generation of government services and engagement. Leading innovators in government will also be on hand to show how social data is empowering them to improve federal programs.

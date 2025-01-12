@@ -9,7 +9,7 @@ topics:
   - content-strategy
   - user-experience
   - multimedia
-
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2012/05/b8-stock-footage-250x199.jpg" alt="A black and white image of people under a tent." >}}
