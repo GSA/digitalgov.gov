@@ -133,7 +133,7 @@
   cop_topics:
     - Web Analytics
 
-- title: IT Specialist (INET) - Open to applicants with Federal status
+- title: IT Specialist (INET) - Open to applicants with Federal Status
   department: Department of Justice
   location: Washington, District of Columbia
   description: >
@@ -143,5 +143,41 @@
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827003300
   cop_topics:
     - Web Analytics
+
+- title: Supervisory Public Affairs Specialist
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          This position is located in the U.S. Department of Justice (DOJ), Office of Justice Programs (OJP), Office of Communications (OC), Media Affairs Division (MAD). The incumbent of this position is responsibile for leading a team in developing and implementing strategic communication plans, managing media relations and public outreach, handling crisis communication, and ensuring compliance with policies and ethical standards.
+  open_date: 2025-01-11
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827646600
+  cop_topics:
+    - Communicators
+
+- title: Writer-Editor
+  department: Department of Veterans Affairs
+  location: Multiple Locations
+  description: >
+          OIG is organized into seven operational units: the Immediate Office of the Inspector General, Office of the Counselor, Office of Audits and Evaluations, Office of Healthcare Inspections, Office of Investigations, Office of Management and Administration, and Office of Special Reviews. In addition to the Washington, DC, headquarters, OIG has offices located in more than 60 locations throughout the country.
+  open_date: 2025-01-07
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826960800
+  cop_topics:
+    - Communicators
+    - Plain Language
+
+- title: Writer-Editor
+  department: Department of Veterans Affairs
+  location: Multiple Locations
+  description: >
+          OIG is organized into seven operational units: the Immediate Office of the Inspector General, Office of the Counselor, Office of Audits and Evaluations, Office of Healthcare Inspections, Office of Investigations, Office of Management and Administration, and Office of Special Reviews. In addition to the Washington, DC, headquarters, OIG has offices located in more than 60 locations throughout the country.
+  open_date: 2025-01-07
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826960700
+  cop_topics:
+    - Communicators
+    - Plain Language
+
 
 
