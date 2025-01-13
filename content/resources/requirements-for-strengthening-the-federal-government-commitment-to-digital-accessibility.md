@@ -74,6 +74,17 @@ OMB’s policy guidance in M-24-08 outlines six areas for agencies to focus on t
 5. Evaluate, monitor, and collect feedback to improve accessibility
 6. Cultivate a positive culture of digital accessibility
 
+{{< note >}}
+
+M-24-08 rescinds following four OMB memos:
+
+1. The Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act (published by OMB on January 24, 2013)
+2. Improving the Accessibility of Government Information (published by OMB on July 19, 2010)
+3. Ensuring the Accessibility of Federal Electronic and Information Technologies Procured by Federal Agencies (published by OMB on November 6, 2007)
+4. Buying Accessible Electronic and Information Technology and Complying with Section 508 of the Rehabilitation Act (published by OMB on August 11, 2005)
+
+{{< /note >}}
+
 ### Agency reporting actions
 
 OMB’s policy guidance in M-24-08 also requires agencies to complete a series of actions after the memo’s issuance on December 21, 2023.
@@ -91,12 +102,7 @@ OMB’s policy guidance in M-24-08 also requires agencies to complete a series o
 {{< /ring >}}
 
 {{< note >}}
+Digital.gov provides information and resources for federal agencies related to web and digital policies.  However, we cannot interpret the statutes or specific requirements.
 
-M-24-08 rescinds following four OMB memos:
-
-1. The Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act (published by OMB on January 24, 2013)
-2. Improving the Accessibility of Government Information (published by OMB on July 19, 2010)
-3. Ensuring the Accessibility of Federal Electronic and Information Technologies Procured by Federal Agencies (published by OMB on November 6, 2007)
-4. Buying Accessible Electronic and Information Technology and Complying with Section 508 of the Rehabilitation Act (published by OMB on August 11, 2005)
-
+Contact OMB’s Office of the Federal CIO at [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) with any questions about interpretations of the law and guidance, which collectively establish a framework and the requirements for a digital-first public experience.
 {{< /note >}}
