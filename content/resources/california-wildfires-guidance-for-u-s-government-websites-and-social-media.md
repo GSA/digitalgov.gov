@@ -1,8 +1,14 @@
 ---
 date: 2025-01-10 00:00:00 -0500
-title: California wildfires guidance for U.S. government websites and social media
-deck: Addressing web and digital communications related to the California wildfires
-summary: Addressing web and digital communications related to the California wildfires.
+title: "California wildfires guidance for U.S. government websites and social media"
+deck: "Addressing web and digital communications related to the California wildfires"
+summary: "Addressing web and digital communications related to the California wildfires."
+
+aliases:
+  - /california-wildfires/
+
+# Archive - see Trello board
+# expirydate: "YYYY-MM-DD"
 
 # See all topics at https://digital.gov/topics
 topics:
@@ -17,7 +23,7 @@ topics:
 
 slug: california-wildfires-guidance-for-u-s-government-websites-and-social-media
 
-primary_image: 
+primary_image: "california-wildfires-esf-15-guidance"
 
 # Controls how this page appears across the site
 # 0 -- hidden
