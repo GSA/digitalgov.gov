@@ -8,6 +8,7 @@
 
 
 
+
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
@@ -19,18 +20,6 @@
   cop_topics:
     - Communicators
     - Plain Language
-
-- title: Chief Digital Officer
-  department: Other Agencies and Independent Organizations
-  location: College Park, Maryland
-  description: >
-          This position is part of the National Archives and Records Administration, Information Services. As a Chief Digital Officer, you will serve as the agency's chief technologist and oversees all elements of digital transformation and technology management.
-  open_date: 2024-12-20
-  close_date: 2025-01-08
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825217500
-  cop_topics:
-    - User Experience
-    - Web Managers
 
 - title: Public Affairs Specialist
   department: Department of Commerce
@@ -87,15 +76,72 @@
   cop_topics:
     - User Experience
 
-- title: Writer-Editor
-  department: Department of the Interior
-  location: Lakewood, Colorado
+- title: Public Affairs Specialist- MP
+  department: Other Agencies and Independent Organizations
+  location: Washington, District of Columbia
   description: >
-          Explore a new career with the BLM - where our people are our most precious resource. This position is located in the National Operations Center (NOC) in Lakewood, Colorado. Information about Lakewood, Colorado and the surrounding area can be found at West Metro Chamber of Commerce We expect to fill 1 (one) vacancy at this time; however, additional positions may be filled from this announcement if they become available.
-  open_date: 2024-12-21
-  close_date: 2025-01-08
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/825526600
+          This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy & External Affairs (OPEA), Communications Outreach & Legislative Affairs Department (COLAD). CONCURRENT ANNOUNCEMENT: THIS POSITION IS ALSO BEING ADVERTISED UNDER DELEGATED EXAMINING PROCEDURES UNDER ANNOUNCEMENT NUMBER OPEA-2025-0006. IF YOU WISH TO BE CONSIDERED UNDER THAT ANNOUNCEMENT, PLEASE REVIEW TO DETERMINE IF YOU QUALIFY. More than one selection may be made from this vacancy announcement.
+  open_date: 2025-01-06
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826882500
   cop_topics:
     - Communicators
-    - Plain Language
+
+- title: Public Affairs Specialist- DE
+  department: Other Agencies and Independent Organizations
+  location: Washington, District of Columbia
+  description: >
+          This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy & External Affairs (OPEA), Communications Outreach & Legislative Affairs Department (COLAD). CONCURRENT ANNOUNCEMENT: THIS POSITION IS ALSO BEING ADVERTISED UNDER MERIT PROMOTION PROCEDURES UNDER ANNOUNCEMENT NUMBER OPEA-2025-0007. IF YOU WISH TO BE CONSIDERED UNDER THAT ANNOUNCEMENT, PLEASE REVIEW TO DETERMINE IF YOU QUALIFY. More than one selection may be made from this vacancy announcement.
+  open_date: 2025-01-06
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826883000
+  cop_topics:
+    - Communicators
+
+- title: IT Specialist (APPSW) - Open to all applicants
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826800000
+  cop_topics:
+    - User Experience
+    - Web Analytics
+
+- title: IT Specialist (APPSW) - Open to applicants with Federal status
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826801800
+  cop_topics:
+    - User Experience
+    - Web Analytics
+
+- title: IT Specialist (INET) - Open to all applicants
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent has primary responsibility as web content and accessibility specialist for maintenance of internal websites/web applications and multiple DOJ domains.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827002500
+  cop_topics:
+    - Web Analytics
+
+- title: IT Specialist (INET) - Open to applicants with Federal status
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent has primary responsibility as web content and accessibility specialist for maintenance of internal websites/web applications and multiple DOJ domains.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827003300
+  cop_topics:
+    - Web Analytics
+
 
