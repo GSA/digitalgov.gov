@@ -10,6 +10,7 @@ topics:
   - mobile
   - product-and-project-management
   - professional-development
+expirydate: 2025-01-01
 ---
 
 Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the [Open Opportunities program](https://openopps.usajobs.gov/).

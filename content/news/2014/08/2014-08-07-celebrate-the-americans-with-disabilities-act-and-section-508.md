@@ -9,6 +9,7 @@ topics:
   - accessibility
   - user-experience
   - accessibility
+expirydate: 2025-01-01
 ---
 
 Happy anniversary, baby!
