@@ -19,7 +19,8 @@ slug: uswds-monthly-call-january-2025
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
-primary_image: 2025-uswds-monthly-call-january-title-card
+primary_image: "uswds-monthly-call-january-2025"
+
 ---
 
 This month, join the U.S. Web Design System (USWDS) team to revisit design system basics.
