@@ -21,7 +21,7 @@ slug: uswds-monthly-call-december-2024
 
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
-youtube_id:Aa0gqEcK2G4
+youtube_id: Aa0gqEcK2G4
 Youtube_title: "Introducing the federal website standards"
 
 primary_image: 2024-uswds-monthly-call-dec-title-card
