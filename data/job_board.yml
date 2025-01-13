@@ -54,6 +54,7 @@
   cop_topics:
     - User Experience
     - Web Analytics
+    - Web Managers
 
 - title: IT Specialist (APPSW) - Open to applicants with Federal status
   department: Department of Justice
@@ -66,6 +67,7 @@
   cop_topics:
     - User Experience
     - Web Analytics
+    - Web Managers
 
 - title: IT Specialist (INET) - Open to all applicants
   department: Department of Justice
@@ -76,7 +78,9 @@
   close_date: 2025-01-17
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827002500
   cop_topics:
+    - Communicators
     - Web Analytics
+    - Web Managers
 
 - title: IT Specialist (INET) - Open to applicants with Federal Status
   department: Department of Justice
@@ -87,7 +91,9 @@
   close_date: 2025-01-17
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827003300
   cop_topics:
+    - Communicators
     - Web Analytics
+    - Web Managers
 
 - title: Supervisory Public Affairs Specialist
   department: Department of Justice
