@@ -7,10 +7,11 @@
   align-items: center;
   background-color: color("gray-10");
   height: units(10);
-  justify-content: center;
+  justify-content: left;
   position: sticky;
   top: -1px;
   white-space: nowrap;
+  padding-left: calc(50vw - 32rem);
 
   @include at-media("mobile-lg") {
     display: flex;
@@ -31,10 +32,9 @@
 
   &-links {
     // Fade out overflowing items when scrolling
-    mask: linear-gradient(90deg, #0000, #000 5% 95%, #0000);
+    mask: linear-gradient(90deg, #0000, #000 1rem 95%, #0000);
     overflow-x: scroll;
     overflow-y: hidden;
-    padding: 0 units(3);
     scrollbar-width: none;
   }
 
@@ -60,8 +60,6 @@
   }
 
   &.sticky {
-    justify-content: space-evenly;
-
     .dg-guide__menu-bar-image-container {
       align-items: flex-end;
       display: flex;
