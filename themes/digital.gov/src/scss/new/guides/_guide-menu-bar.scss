@@ -1,25 +1,28 @@
 @use "uswds-core" as *;
 
+// nav
+
 // Styles the desktop horizontal menu bar
 .dg-guide__menu-bar {
   @include u-border-y("1px", "gray-cool-30", "solid");
   @include u-z(200);
-  align-items: center;
+  // align-items: center;
   background-color: color("gray-10");
   height: units(10);
-  justify-content: left;
+  // justify-content: left;
   position: sticky;
   top: -1px;
   white-space: nowrap;
-  padding-left: calc(50vw - 32rem);
+  // padding-left: calc(50vw - 32rem);
 
   @include at-media("mobile-lg") {
-    display: flex;
+    // display: flex;
   }
 
   &-image-container {
     flex-shrink: 0;
-    margin: 0 units(3);
+    margin-left: units(3);
+    margin-right: units(3);
 
     a {
       text-decoration: none;
@@ -31,6 +34,11 @@
   }
 
   &-links {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    justify-content: flex-start;
     // Fade out overflowing items when scrolling
     mask: linear-gradient(90deg, #0000, #000 1rem 95%, #0000);
     overflow-x: scroll;
@@ -43,10 +51,11 @@
   }
 
   .dg-guide__menu-bar-link {
+    border-bottom: units(0.5) solid transparent;
     color: color("ink");
     font-size: size("sans", "md");
     font-weight: font-weight("light");
-    margin: 0 units(3);
+    margin-right: units(5);
     text-decoration: none;
 
     &:hover {
@@ -60,6 +69,11 @@
   }
 
   &.sticky {
+    @include at-media("mobile-lg") {
+      align-items: center;
+      display: flex;
+      justify-content: left;
+    }
     .dg-guide__menu-bar-image-container {
       align-items: flex-end;
       display: flex;

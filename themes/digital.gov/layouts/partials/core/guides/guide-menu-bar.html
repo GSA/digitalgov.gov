@@ -45,7 +45,10 @@
       </button>
     {{- end -}}
   </div>
-  <nav class="dg-guide__menu-bar-links" aria-label="Secondary menu bar">
+  <nav
+    class="dg-guide__menu-bar-links grid-container grid-container-desktop"
+    aria-label="Secondary menu bar"
+  >
     {{ partial "core/guides/guide-menu-links.html" (dict "guideData" $guideData "currentPage" $currentPage "pageScope" .) }}
   </nav>
 </div>
