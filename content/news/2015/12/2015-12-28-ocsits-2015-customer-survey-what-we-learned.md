@@ -13,6 +13,7 @@ topics:
   - terms-of-service
   - information-collection
 
+expirydate: 2025-01-01
 ---
 
 Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to [design a system]({{< ref "2013-07-18-how-to-create-a-customer-experience-index.md" >}}) to consistently measure customer satisfaction across our office. We were inspired by the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), which tasks agencies to adopt a customer-centric approach to service delivery.

@@ -9,6 +9,7 @@ topics:
   - analytics
   - content-strategy
   - search
+expirydate: 2025-01-01
 ---
 
 Top tasks matter. Visitors come to your website with specific goals in mind. Using a [top-task methodology](https://digital.gov/2014/07/02/using-top-tasks-to-be-top-notch-federal-reserve-board-usability-case-study/) can be particularly useful when redesigning your homepage. But, top tasks aren’t the whole story.

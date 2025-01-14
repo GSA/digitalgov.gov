@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/600-x-340-UK-mobile-chart-Andreessen-Horowitz-source-Ofcom.jpg" alt="Pie chart showing that almost 2/3 of smartphone users use the internet on their phone both at home and out of the home." caption="" >}} 

@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - usability
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-434-no-shadow-Smartphones-and-wrong-and-right-icons-frikota-iStock-Thinkstock-500886657-500886437.jpg" alt="Two smart phones; one with a red x wrong icon on the screen, and the other with a green check mark right icon on the screen." caption="" >}} 

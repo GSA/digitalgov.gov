@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - customer-experience
   - contact-centers
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-230-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-chat-and-group-icons-from-NiroDesign-175617593.jpg" alt="Contact icons: envelope, handset, cell phone, at symbol, chat bubbles, group of figures" caption="" >}} 

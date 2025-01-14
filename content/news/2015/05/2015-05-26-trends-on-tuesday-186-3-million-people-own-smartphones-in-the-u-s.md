@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Gadgets-cellphones-with-touch-screens-over-white-Arsgera-iStpck-Thinkstock-177350893.jpg" alt="Multiple cell phones on a light background" caption="" >}} 

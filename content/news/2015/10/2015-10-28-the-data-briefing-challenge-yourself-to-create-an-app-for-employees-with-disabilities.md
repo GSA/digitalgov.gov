@@ -10,6 +10,7 @@ topics:
   - accessibility
   - application-programming-interface
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." caption="" >}} 
@@ -28,6 +29,7 @@ I also chose these three examples to pitch a call to action for developers. <a h
 
 Employees with disabilities want to work, and there are many examples of people with disabilities who have made amazing contributions to the world. President Franklin Roosevelt. Dr. Stephen Hawkings. Helen Keller. President Abraham Lincoln. A mobile app is a relatively small investment to make in helping employees with disabilities contribute their talents and knowledge, especially when those with disabilities are capable of such profound good for the workplace and American society.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

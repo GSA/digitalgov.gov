@@ -10,6 +10,7 @@ authors:
 topics:
   - product-and-project-management
 
+expirydate: 2025-01-01
 ---
 
 Digital innovators from across government were asked to think of technology as digital service for their country at today&#8217;s [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/).

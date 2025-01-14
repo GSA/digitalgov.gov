@@ -12,6 +12,7 @@ topics:
   - customer-experience
   - customer-experience
 
+expirydate: 2025-01-01
 ---
 
 [Cross-Agency Priority (CAP) Goals](http://www.performance.gov/node/3400/view?view=public#overview) prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP) was launched in early 2015.

@@ -7,6 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/02/250-x-203-Sales-Thermometer-Rising-Past-Great-Levels-qoncept-iStock-Thinkstock-139918115.jpg" alt="A rising sales concept graphic of an old-fashioned thermometer" caption="" >}} 
