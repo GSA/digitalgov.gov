@@ -7,60 +7,128 @@
 
 
 
+
+
 - title: Community Outreach Specialist
   department: Department of Homeland Security
   location: Anywhere in the U.S. (remote job)
   description: >
           6-month non-reimbursable assignment with the possibility of extension. Office of the Citizenship and Immigration Services Ombudsman (CIS Ombudsman) Community Outreach Specialist Series Requested: 0301 Security Clearance: None Virtual/Remote: Yes Only current, full-time federal employees are eligible. Resumes are reviewed every 30 days until selection/closing date. This is a Detail, not a Developmental Rotation. Supervisory approval form must be signed.
   open_date: 2024-09-03
-  close_date: 2024-12-18
+  close_date: 2025-01-27
   apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/807704100
   cop_topics:
     - Communicators
     - Plain Language
 
-- title: IT Project Manager (SYSANALYSIS)
-  department: General Services Administration
-  location: Anywhere in the U.S. (remote job)
-  description: >
-          As an IT Project Manager (SYSANALYSIS), you will serve as a Contact Center Modernization Lead. In this role, you will oversee cooperative critical Contact Center modernization efforts between the Centers of Excellence (CoE) and partnering agencies. These efforts will allow you to guide and improve the initial point of contact between the American public and federal agencies while facing some of the most complex and impactful challenges in public service.
-  open_date: 2024-12-03
-  close_date: 2024-12-13
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821822400
-  cop_topics:
-    - Contact Center
-
-- title: Head, Communications and Outreach Section
-  department: Legislative Branch
+- title: Public Affairs Specialist- MP
+  department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
   description: >
-          The position serves as the Head, Communications and Outreach Section in the National Library for the Blind and Print Disabled (NLS) within the Library Collections and Services Group (LCSG) at the Library of Congress. The position description number for this position is 061543. The incumbent of this position will work a flextime work schedule. This is a supervisory, non-bargaining unit position. Relocation expenses will not be authorized for the person selected under this vacancy announcement.
-  open_date: 2024-12-03
-  close_date: 2025-01-02
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/821979900
+          This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy & External Affairs (OPEA), Communications Outreach & Legislative Affairs Department (COLAD). CONCURRENT ANNOUNCEMENT: THIS POSITION IS ALSO BEING ADVERTISED UNDER DELEGATED EXAMINING PROCEDURES UNDER ANNOUNCEMENT NUMBER OPEA-2025-0006. IF YOU WISH TO BE CONSIDERED UNDER THAT ANNOUNCEMENT, PLEASE REVIEW TO DETERMINE IF YOU QUALIFY. More than one selection may be made from this vacancy announcement.
+  open_date: 2025-01-06
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826882500
   cop_topics:
     - Communicators
 
-- title: DIGITAL SERVICES SPECIALIST
-  department: Department of the Interior
-  location: Location Negotiable After Selection
-  description: >
-          The final determination of the duty station for this position will be made by the selecting official at the time of the job offer. Flexibilities to work remotely in a virtual posture may be considered under the guidance of ONRR's remote work policy which will be provided as necessary based on duty station determination. Physical worksite locations: Lakewood, CO; Washington, D.C.; Dallas, TX; Houston, TX; Oklahoma City, OK; Tulsa, OK; Farmington, NM
-  open_date: 2024-12-10
-  close_date: 2024-12-16
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/822750900
-  cop_topics:
-    - User Experience
-
-- title: Director, Solution Delivery & Support
-  department: Department of Transportation
+- title: Public Affairs Specialist- DE
+  department: Other Agencies and Independent Organizations
   location: Washington, District of Columbia
   description: >
-          This position is located in the U.S. Department of Transportation (DOT), Office of the Chief Information Officer (OCIO), Application and Digital Solutions (S86) organization. The federal team is responsible for delivering simple, seamless, and secure digital experiences to customers within the Office of the Secretary of Transportation and agency wide. The Director of Solution Delivery & Support leads a team of Application Developers.
-  open_date: 2024-12-10
-  close_date: 2024-12-16
-  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/823237800
+          This position is located in the Pension Benefit Guaranty Corporation's (PBGC), Office of Policy & External Affairs (OPEA), Communications Outreach & Legislative Affairs Department (COLAD). CONCURRENT ANNOUNCEMENT: THIS POSITION IS ALSO BEING ADVERTISED UNDER MERIT PROMOTION PROCEDURES UNDER ANNOUNCEMENT NUMBER OPEA-2025-0007. IF YOU WISH TO BE CONSIDERED UNDER THAT ANNOUNCEMENT, PLEASE REVIEW TO DETERMINE IF YOU QUALIFY. More than one selection may be made from this vacancy announcement.
+  open_date: 2025-01-06
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826883000
+  cop_topics:
+    - Communicators
+
+- title: IT Specialist (APPSW) - Open to all applicants
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826800000
   cop_topics:
     - User Experience
+    - Web Analytics
     - Web Managers
+
+- title: IT Specialist (APPSW) - Open to applicants with Federal status
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent is responsible for the front-end development and user experience (UX) of websites and web applications.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826801800
+  cop_topics:
+    - User Experience
+    - Web Analytics
+    - Web Managers
+
+- title: IT Specialist (INET) - Open to all applicants
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent has primary responsibility as web content and accessibility specialist for maintenance of internal websites/web applications and multiple DOJ domains.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827002500
+  cop_topics:
+    - Communicators
+    - Web Analytics
+    - Web Managers
+
+- title: IT Specialist (INET) - Open to applicants with Federal Status
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          The Office of Information Management provides innovative business process automation, data management, content management, software application, and consultative services to the Division and external stakeholders. The office comprises back-end application development, data management, business analysis, and visual design experts. The incumbent has primary responsibility as web content and accessibility specialist for maintenance of internal websites/web applications and multiple DOJ domains.
+  open_date: 2025-01-07
+  close_date: 2025-01-17
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827003300
+  cop_topics:
+    - Communicators
+    - Web Analytics
+    - Web Managers
+
+- title: Supervisory Public Affairs Specialist
+  department: Department of Justice
+  location: Washington, District of Columbia
+  description: >
+          This position is located in the U.S. Department of Justice (DOJ), Office of Justice Programs (OJP), Office of Communications (OC), Media Affairs Division (MAD). The incumbent of this position is responsibile for leading a team in developing and implementing strategic communication plans, managing media relations and public outreach, handling crisis communication, and ensuring compliance with policies and ethical standards.
+  open_date: 2025-01-11
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/827646600
+  cop_topics:
+    - Communicators
+
+- title: Writer-Editor
+  department: Department of Veterans Affairs
+  location: Multiple Locations
+  description: >
+          OIG is organized into seven operational units: the Immediate Office of the Inspector General, Office of the Counselor, Office of Audits and Evaluations, Office of Healthcare Inspections, Office of Investigations, Office of Management and Administration, and Office of Special Reviews. In addition to the Washington, DC, headquarters, OIG has offices located in more than 60 locations throughout the country.
+  open_date: 2025-01-07
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826960800
+  cop_topics:
+    - Communicators
+    - Plain Language
+
+- title: Writer-Editor
+  department: Department of Veterans Affairs
+  location: Multiple Locations
+  description: >
+          OIG is organized into seven operational units: the Immediate Office of the Inspector General, Office of the Counselor, Office of Audits and Evaluations, Office of Healthcare Inspections, Office of Investigations, Office of Management and Administration, and Office of Special Reviews. In addition to the Washington, DC, headquarters, OIG has offices located in more than 60 locations throughout the country.
+  open_date: 2025-01-07
+  close_date: 2025-01-21
+  apply_link: https://www.usajobs.gov:443/GetJob/ViewDetails/826960700
+  cop_topics:
+    - Communicators
+    - Plain Language
+
+
 

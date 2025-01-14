@@ -14,7 +14,7 @@ topics:
   - accessibility
   - governance
   - human-centered-design
-  - policy
+  - public-policy
 
 slug: requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility
 primary_image: 
