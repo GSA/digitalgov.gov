@@ -23,6 +23,9 @@
 - https://github.com/GSA/digitalgov.gov/pull/7840/files implement?
 - update fields to machine name
 - separate redirects by external, internal, 301s
+- 301 redirect
+- redirect external
+- redirect existing internal, there should be a property on the data endpoint
 - to page should be abs path, from can be filepath
   - "public_page": "/topics/usability/"
 
