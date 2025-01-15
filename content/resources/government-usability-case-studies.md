@@ -7,6 +7,9 @@ summary:
   mobile apps and other products become more effective, more coherent and more
   usable by focusing on the User Experience of their customers. Want to be
   featured here? Just email us. National Cancer Institute Persona"
+
+expirydate: "2025-01-14"
+  
 topics:
   - user-experience
   - usability
