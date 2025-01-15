@@ -16,7 +16,7 @@ summary: The public increasingly interacts with federal services digitally.
   Performance.gov explores the current metrics used for tracking the performance
   of  federal digital services since the Office of Management and Budget (OMB)
   released guidance on Delivering a Digital-First Public Experience in September
-  2023.  Emphasizing the need for improved website performance in areas like
+  2023. Emphasizing the need for improved website performance in areas like
   accessibility, mobile-friendliness, and search optimization, this resource
   highlights how far the government’s digital presence has come and where there
   is room to grow.
