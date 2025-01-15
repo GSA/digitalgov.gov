@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - open-data
 
+expirydate: 2025-01-01
 ---
 
 Since the launch of [Next.Data.gov](https://next.data.gov/), your help and ideas have made it possible to make two updates to the site. We&#8217;re naming these biweekly releases after the presidents so the one that launched this week is the Adams Release.

@@ -8,6 +8,7 @@ authors:
 topics:
   - governance
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 <p style="text-align: left">

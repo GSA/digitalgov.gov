@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - analytics
   - social-media
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/09/goUSAgov-image.jpg" alt="Go.USA.gov logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/goUSAgov-image.jpg)A few weeks ago, the [Go.USA.gov](https://go.usa.gov/) URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links.

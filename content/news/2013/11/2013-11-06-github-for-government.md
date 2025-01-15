@@ -8,6 +8,7 @@ authors:
 topics:
   - software-engineering
   - open-source
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/11/github-octocat-233x250.jpg" alt="Animation of a cat and an octopus." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/github-octocat.jpg)Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology.

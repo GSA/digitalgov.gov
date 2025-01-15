@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - mobile
   - innovation
+expirydate: 2025-01-01
 ---
 
 <p>

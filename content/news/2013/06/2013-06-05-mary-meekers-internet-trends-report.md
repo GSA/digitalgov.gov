@@ -12,6 +12,7 @@ topics:
   - mobile
   - social-media
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2013/06/2011_02_21_meeker_3012_final.jpg" alt="Mary Meeker stands with her arms folded. She has short, light brown hair and is wearing a brown outfit and colorful scarf." >}}

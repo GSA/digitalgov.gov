@@ -9,6 +9,7 @@ topics:
   - mobile
   - application-programming-interface
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/09/Mobileusersearch.jpg" alt="Mobile User Search Habits Graph" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/Mobileusersearch.jpg)

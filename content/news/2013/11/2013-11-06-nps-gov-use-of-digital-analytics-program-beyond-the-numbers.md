@@ -8,6 +8,7 @@ authors:
 topics:
   - analytics
 
+expirydate: 2025-01-01
 ---
 
 The National Park Service website, [NPS.gov](http://www.nps.gov/), is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov receives nearly 50 million page views per month during the peak summer season, when visitors are planning their vacations.

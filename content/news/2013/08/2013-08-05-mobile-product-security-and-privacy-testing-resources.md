@@ -12,6 +12,7 @@ topics:
   - software-engineering
   - privacy
   - security
+expirydate: 2025-01-01
 ---
 
 Security testing is used to ensure that a mobile product does not pose a threat to agency IT systems and databases. In addition, privacy testing ensures that an app does not put the user’s personally identifiable information into a compromisable position.

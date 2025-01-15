@@ -10,7 +10,7 @@ authors:
   - andreanocesigritz
 aliases:
   - /resources/digitalgov-user-experience-program/
-
+expirydate: 2025-01-01
 ---
 
 We want to help you make better digital products. We believe that a little user research makes government a lot better.

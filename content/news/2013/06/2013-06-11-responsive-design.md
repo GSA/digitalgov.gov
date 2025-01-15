@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Responsive Web design refers to a fluidly constructed Web page layout that scales from handheld device displays to large, high-resolution computer displays using flexible typography, flexible images, fluid grids, and <a href="http://www.w3.org/TR/css3-mediaqueries/" rel="nofollow">CSS3 media queries</a>.

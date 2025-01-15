@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - innovation
   - mobile
+expirydate: 2025-01-01
 ---
 
 <span style="font-size: 13px;">Recruiting the right judges, writing clear rules, and ensuring the public can find your apps challenge online will help ensure success.</span>

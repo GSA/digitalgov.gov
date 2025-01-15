@@ -10,6 +10,7 @@ topics:
   - social-media
   - customer-experience
   - user-experience
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/09/CX-is.jpg" alt="arms holding a sign that says the customer experience is..." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/CX-is.jpg)While we think about the audience, we don’t often map out the experience we want them to have when using our services. This is critical information for the design. In other cases, we may not have the data to analyze existing customers’ needs&#8211;or worse&#8211;may not consider who the potential customers are.

@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - multimedia
 
+expirydate: 2025-01-01
 ---
 
 It is undeniable the reach of online video into our modern lives. From <a title="Cat in shark constume rides Roomba on YouTube" href="http://www.youtube.com/watch?v=Of2HU3LGdbo" target="_blank">cats in shark costumes riding on Roombas</a> to the 2.1 million people live streaming the 2012 Super Bowl. Online video inspires us with TED talks and allows us to feel the rush of Felix Baumgartner jumping from space. With online video so embedded (online video geek pun) in our lives, it makes perfect sense for Government to use online video to engage its citizens.

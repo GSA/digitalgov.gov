@@ -12,6 +12,7 @@ topics:
   - social-media
   - usability
 
+expirydate: 2025-01-01
 ---
 
 Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.

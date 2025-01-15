@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems—whether technical, scientific, or creative. One type of competition is software and apps challenges, where solvers are asked to develop specific software or other code-based technical solutions, such as websites, mobile applications, or algorithms.

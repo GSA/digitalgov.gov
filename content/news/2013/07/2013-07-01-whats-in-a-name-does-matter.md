@@ -14,6 +14,7 @@ topics:
   - multilingual
 primary_image: "habla-espanol-maridav-istock-getty-images-plus-142396534"
 
+expirydate: 2025-01-01
 ---
 
 Can you imagine how frustrating and confusing it would be to find several variations of the same agency name on different sites or even different pages or documents on the same site? This is what happens everyday to Spanish-speaking customers accessing the Spanish names of some federal agencies. They try to navigate the website to perform important tasks like applying for benefits, accessing health information, doing business over the Internet or filling out forms. How can they be sure they are on the official government site? Until now there was no consistency or standards for how to translate the names of federal agencies. And sometimes the translated names misrepresented agencies’ missions and services.

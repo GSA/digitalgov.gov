@@ -10,6 +10,7 @@ topics:
   - software-engineering
   - application-programming-interface
   - social-media
+expirydate: 2025-01-01
 ---
 
 In September, the General Services Administration (GSA) launched a registry of all federally-managed social media accounts. We want to explain a little of the history behind the registry and talk about a few things that make it a truly remarkable innovation from GSA.
