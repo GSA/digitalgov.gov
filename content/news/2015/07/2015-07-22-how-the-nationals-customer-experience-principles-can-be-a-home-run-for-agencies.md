@@ -10,6 +10,7 @@ authors:
 
 topics:
   - customer-experience
+expirydate: 2025-01-01
 ---
 
 In June, the new [Customer Experience Community of Practice](https://digital.gov/communities/customer-experience/) (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared.

@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 

@@ -18,6 +18,7 @@ authors:
 # 0 -- hidden
 # 1 -- visible
 weight: 1
+expirydate: 2025-01-01
 ---
 Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs.
 

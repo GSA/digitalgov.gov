@@ -7,6 +7,7 @@ authors:
   - jim-wilson
 topics:
   - analytics
+expirydate: 2025-01-01
 ---
 
 Even on a “slow” day, NASA is a pretty cool place to work, but the cool factor gets cranked way up when the whole world joins in the adventure.

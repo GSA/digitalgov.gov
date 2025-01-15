@@ -10,6 +10,7 @@ topics:
   - design
   - product-and-project-management
   - mobile
+expirydate: 2025-01-01
 ---
 
 GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users.

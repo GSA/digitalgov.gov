@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" caption="scyther5/iStock/Thinkstock" >}} 

@@ -8,6 +8,7 @@ authors:
 topics:
   - analytics
 
+expirydate: 2025-01-01
 ---
 
 Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report.

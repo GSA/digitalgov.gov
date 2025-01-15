@@ -13,6 +13,7 @@ topics:
   - mobile
   - plain-language
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}

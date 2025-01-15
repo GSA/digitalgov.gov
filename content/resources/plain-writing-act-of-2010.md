@@ -9,6 +9,7 @@ topics:
 authors:
   - apiazza
 
+expirydate: 2025-01-01
 ---
 
 [The Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 kb, 3 pages, September 2010) was enacted to enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly.

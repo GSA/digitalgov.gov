@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/06/Government-Just-Beginning.jpg)

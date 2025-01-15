@@ -7,6 +7,7 @@ authors:
   - hhs-digital-analytics-team
 topics:
   - analytics
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/08/600-x-389-MobyGames-39699\_Pitfall-by-David-Crane\_Atari-2600-screenshot-swinging-over-some-alligators.jpg" alt="Video game character, Pitfall Harry, leaps over alligators in the 1982 Atari game, Pitfall!, created by David Crane, distributed by Activision, Inc." caption="" >}} 

@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/594-x-347-CIO-Open-Data-Prioritization-Toolkit-figure-1.jpg" alt="Shown in Figure 1, the Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets. It also shows alignment to support tools designed to help your agency throughout each phase. The provided tools are sample templates to guide agencies as they examine datasets and customize them based on their unique requirements." >}}

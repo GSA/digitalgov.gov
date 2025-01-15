@@ -7,6 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/02/250-x-385-IRS2Go\_phone\_2.jpg" alt="New IRS2Go app design" >}}The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their [IRS2Go app](http://www.irs.gov/uac/IRS2GoApp) to provide multi-symptom relief for tax anxiety this year.

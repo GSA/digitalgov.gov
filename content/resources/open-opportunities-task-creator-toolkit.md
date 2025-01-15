@@ -7,6 +7,7 @@ topics:
   - professional-development
 authors:
   - lnelson
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/12/Open-Opportunities-Task-Creator-Process1.pdf) (PDF, 391 KB, 1 page) Click the image to download your own copy of this chart for reference.

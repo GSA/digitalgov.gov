@@ -7,6 +7,7 @@ authors:
   - courtney-greenley
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-200-Day-50.jpg" alt="Day 50 banner" >}}{{< legacy-img src="2015/07/600-x-200-Tally-Graphic.jpg" alt="Leaderboard Tally" >}}

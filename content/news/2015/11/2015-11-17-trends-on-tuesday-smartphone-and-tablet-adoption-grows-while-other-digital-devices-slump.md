@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Pew released a [recent report tracking trends in digital device ownership](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/) and found smartphones and tablets have continued to grow in recent years, while other devices have stalled.

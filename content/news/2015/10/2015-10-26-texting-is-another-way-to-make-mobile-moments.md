@@ -7,6 +7,7 @@ authors:
   - ktrebon
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-450-Modern-conversation-social-network-community-logo-icon-maximillion_studio-iStock-Thinkstock-485896583.jpg" alt="Modern conversation social network community logo icon" caption="" >}} 

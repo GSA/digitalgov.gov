@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 I noticed recently that I have spent a decent amount of time discussing or [referencing content workflow](http://find.digitalgov.gov/search?utf8=%E2%9C%93&affiliate=digitalgov&query=workflow), but I haven’t spent much time on how to actually create or use workflows. Developing content workflows can be a fairly painless process that can make your regular content creation a much smoother and efficient process. {{< legacy-img src="2015/12/600-x-450-Flow-Chart-Diagram-Concept-Infografx-iStock-Thinkstock-490245946.jpg" alt="Flow Chart Diagram Concept" caption="" >}} 

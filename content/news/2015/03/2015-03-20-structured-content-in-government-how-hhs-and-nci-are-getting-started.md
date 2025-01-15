@@ -10,6 +10,7 @@ topics:
   - open-data
   - mobile
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 Metadata, tagging, content modeling … they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed.

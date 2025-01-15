@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - customer-experience
   - contact-centers
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Chairs-computers-and-headset-in-a-modern-office-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-486481879.jpg" alt="Chairs, computers, and headsets in a modern office" caption="" >}} 

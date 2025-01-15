@@ -11,6 +11,7 @@ topics:
   - social-media
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Good customer service includes user-centered design. For one digital team at the Department of Veterans Affairs, creating a veterans-centered experience started with one word: explore.

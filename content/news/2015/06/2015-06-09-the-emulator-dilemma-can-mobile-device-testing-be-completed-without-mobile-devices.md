@@ -10,6 +10,7 @@ topics:
   - mobile
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Government agencies have created a [variety of apps to meet the needs of the public]({{< ref "/topics/mobile" >}}). As you join in on the [mobile first trend]({{< ref "2013-09-30-mobile-first.md" >}}) and begin developing your shiny new mobile application, you will need to test it.

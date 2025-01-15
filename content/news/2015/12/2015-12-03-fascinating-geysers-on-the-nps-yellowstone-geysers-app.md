@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
+expirydate: 2025-01-01
 ---
 
 Geological phenomena such as steaming mud craters, bubbling mud pools, hot springs and geysers are some of the exhilarating features of a geo-thermal wonderland. Old Faithful in Yellowstone National Park falls into this category.

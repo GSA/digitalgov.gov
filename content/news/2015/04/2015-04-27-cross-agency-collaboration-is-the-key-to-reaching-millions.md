@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - product-and-project-management
   - multilingual
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-450-USA-Flag-Puzzle-Alex-Slobodkin-iStock-Thinkstock-ThinkstockPhotos-121266219.jpg" alt="USA Flag Puzzle" caption="" >}} 

@@ -11,6 +11,7 @@ topics:
   - customer-experience
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 In honor of [World Usability Day](http://www.worldusabilityday.org/), which happened on November 12, we’d like to demystify two extremely important and oft-confusing acronyms—CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery.

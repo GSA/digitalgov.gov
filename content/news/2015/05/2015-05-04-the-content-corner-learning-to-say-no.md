@@ -7,6 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Businessman-choosing-no-instead-yes-button-BernardaSv-iStock-Thinktock-516619561.jpg" alt="Businessman choosing no instead yes button" caption="" >}} 

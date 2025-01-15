@@ -1,4 +1,5 @@
 
+expirydate: 2025-01-01
 ---
 slug: web-metadata-publishing-using-xml
 date: 2015-03-23 11:00:18 -0400
@@ -11,6 +12,7 @@ topics:
   - content-strategy
   - open-data
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}}

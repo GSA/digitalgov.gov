@@ -8,6 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - security
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/FDAgov-API-Key.jpg" alt="FDAgov-API-Key" >}}

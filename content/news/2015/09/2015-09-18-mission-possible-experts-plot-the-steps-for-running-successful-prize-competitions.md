@@ -7,6 +7,7 @@ authors:
   - judy-romano
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}}

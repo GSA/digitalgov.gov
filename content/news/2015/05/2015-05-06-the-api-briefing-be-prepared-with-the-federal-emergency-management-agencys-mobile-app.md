@@ -9,6 +9,7 @@ topics:
   - application-programming-interface
   - mobile
   - open-data
+expirydate: 2025-01-01
 ---
 
 Before coming to DC in late 2008, I lived in Louisville, Kentucky. Louisville is in the Ohio Valley Region, which meteorologists euphemistically call “weather-rich.” With spring came the beautiful flowers and the Kentucky Derby. Spring also brought flooding, tornadoes, severe thunderstorms, and windstorms. This is why I had several emergency weather radios that also doubled as flashlights and cell phone chargers.

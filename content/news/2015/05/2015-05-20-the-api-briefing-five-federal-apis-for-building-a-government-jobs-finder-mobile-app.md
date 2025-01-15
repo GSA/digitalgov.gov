@@ -9,6 +9,7 @@ topics:
   - search
   - mobile
   - application-programming-interface
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}} 
@@ -27,6 +28,7 @@ The fifth API is the <a href="http://jobcenter.usa.gov/apis" target="_blank">Ame
 
 So, as you can see, my proposed government jobs finder mobile app would take the job seeker through the whole job seeking process. Users start by learning more about their career interests and use that information to help narrow down their search on USAJOBS and the Jobs API. Once users have found federal agencies they are interested in, they can obtain agency contact information and even map the directions to the job interview. Job seekers can then augment their search by using social media and be assured that they are viewing only official social media accounts for federal agencies. All this from the convenience of the jobseeker’s smartphone or tablet.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

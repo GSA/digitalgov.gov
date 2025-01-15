@@ -7,6 +7,7 @@ authors:
   - peter-rhee
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-342-USDA-New-Farmers-homepage.jpg" alt="USDA New Farmers homepage screen shot" >}}

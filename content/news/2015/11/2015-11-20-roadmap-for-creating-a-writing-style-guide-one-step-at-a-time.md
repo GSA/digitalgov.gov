@@ -8,6 +8,7 @@ authors:
 topics:
   - communication
   - plain-language
+expirydate: 2025-01-01
 ---
 
 So, you’re tired of seeing little (or big!) errors on your agency’s website, and you flinch at the random writing styles. You feel like your agency’s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency’s communication and credibility. {{< legacy-img src="2015/11/600-x-400-Fill-it-Procy_ab-iStock-Thinkstock-167459454.jpg" alt="A wooden Manikin figure gesturing toward a blank spiral notebook" caption="" >}} 

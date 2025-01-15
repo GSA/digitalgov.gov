@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Pinterest-Homepage-seewhatmitchsee-iStock-Editorial-Thinkstock-458705111.jpg" alt="Pinterest Homepage" caption="" >}} 

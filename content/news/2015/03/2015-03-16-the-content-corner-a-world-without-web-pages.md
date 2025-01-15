@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-415-Global-Communication-and-Data-Concept-Symbols-Robert-Churchill-iStock-Thinkstock-493540889.jpg" alt="Global Communication and Data Concept Symbols" caption="" >}} 

@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - software-engineering
   - open-data
+expirydate: 2025-01-01
 ---
 
 > _The National Day of Civic Hacking was born when some of the nation’s leaders in civic engagement decided to rally around a common goal on one weekend._

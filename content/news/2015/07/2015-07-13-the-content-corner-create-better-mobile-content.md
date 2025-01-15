@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - mobile
   - data-visualization
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-436-Mobile-phone-Nik_Merkulov-iStock-Thinkstock-466186589.jpg" alt="Mobile devices with question marks on the screens" caption="" >}} 

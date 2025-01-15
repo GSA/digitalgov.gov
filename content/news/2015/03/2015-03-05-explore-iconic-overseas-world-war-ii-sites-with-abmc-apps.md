@@ -9,6 +9,7 @@ topics:
   - mobile
   - content-strategy
  
+expirydate: 2025-01-01
 ---
 
 <div class="testimonial small">

@@ -8,6 +8,7 @@ authors:
 topics:
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 I (virtually) attended the Third Annual Safety Datapalooza last Thursday and was greatly impressed by the projects and initiatives for public safety. This was a great event, and I am glad that live streaming was provided for those who could not attend in person but have a great interest in using government data for disaster preparedness. If you have not already visited <a href="http://www.data.gov/disasters/" target="_blank">disasters.data.gov</a>, please do. It is a great portal for data, apps, and tools for developers who want to help build vitally-needed public safety resources. {{< legacy-img src="2015/11/600-x-402-Colorful-tablets-with-capsules-ulkan-iStock-Thinkstock-467982355.jpg" alt="Various colorful pills." caption="" >}} 
@@ -24,6 +25,7 @@ As you can see, there is much technical information contained in this applicatio
 
 If you know R (and there are plenty of free online training resources if you want to learn R), then you can build similar Shiny applications. Applications such as Shiny, <a href="http://www.tableau.com/" target="_blank">Tableau</a>, [BIRT](http://www.eclipse.org/birt/), or similar data visualization tools can make federal government data more useful for citizens by providing visually-attractive search interfaces and ad-hoc report building either through a website or in a mobile app. Helping to make safety data easier to access and use is a great way to help the American be prepared for disasters.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

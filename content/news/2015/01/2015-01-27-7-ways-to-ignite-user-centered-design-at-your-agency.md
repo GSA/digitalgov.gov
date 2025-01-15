@@ -10,6 +10,7 @@ topics:
   - research
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Light-bulb-with-drawing-graph-Jannoon028-iStock-Thinkstock-515705127.jpg" alt="Light bulb with drawing graph" caption="" >}} 
@@ -98,6 +99,7 @@ Once you have people excited about UCD, it’s time to build an infrastructure t
 
 For some additional information on introducing UCD to your organization, here is a presentation I gave at the 2014 DC User Focus conference—[ Igniting User-Centered Design Thinking at the Department of Energy](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/UXPA-DC-2014-Wendy-Littman.pptx) (PowerPoint presentation, 5.7 MB, 14 slides). 
 
+expirydate: 2025-01-01
 ---
 
 _**Wendy Littman** is a UX researcher who contracted to DOE’s Office Energy Efficiency and Renewable Energy for 13 years._

@@ -12,6 +12,7 @@ topics:
   - search-engine-optimization
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Audit. It&#8217;s a word that generally has no positive connotations whatsoever. We hear the word audit and we think of tax audits or timesheet audits, etc. The word normally strikes fear or dread in the hearts of most mortals. But it is also a task that all websites will need to perform from time to time, and hopefully after reading today&#8217;s column you can view content audits as positive opportunities and not as dreadful chores.
