@@ -7,6 +7,7 @@ authors:
   - ktrebon
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/03/featured-questions-a-consultant-can-help-you-answer.jpg" alt="Questions and Answers signpost" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/featured-questions-a-consultant-can-help-you-answer.jpg)I&#8217;m sure many of you have heard the expression &#8220;there&#8217;s an app for that.&#8221; Well, now you can say &#8220;there&#8217;s a schedule for that&#8221; as you plan [challenge and prize competitions]({{< ref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Link to What is a Challenge on DigitalGov.gov") with your colleagues.

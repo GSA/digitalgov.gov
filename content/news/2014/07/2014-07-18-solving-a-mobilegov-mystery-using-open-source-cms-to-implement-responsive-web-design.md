@@ -9,6 +9,7 @@ authors:
 topics:
   - content-strategy
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" >}}

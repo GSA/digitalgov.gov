@@ -7,6 +7,7 @@ topics:
   - mobile
   - customer-experience
   - user-experience
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg" alt="NOAA's National Ocean Service was the first line office within NOAA to launch a homepage that incorporates responsive design. Now, the office's nautical charts and tides and currents information are within easy reach to mariners and boaters of all kinds." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg)

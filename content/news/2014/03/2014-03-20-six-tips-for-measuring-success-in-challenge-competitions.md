@@ -10,6 +10,7 @@ topics:
   - open-data
   - innovation
 
+expirydate: 2025-01-01
 ---
 
 You&#8217;ve run a [challenge and prize competition]({{< ref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Post that defines challenge and prize competition"), selected your winners, and distributed the prizes. If you think you&#8217;re done, guess again. There&#8217;s much more to challenge and prize competition success than getting a solution that solves your problem or meets the criteria.

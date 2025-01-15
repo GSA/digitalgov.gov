@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - mobile
   - open-data
+expirydate: 2025-01-01
 ---
 
 We’ve written a few times about the changes that we’ve been working on for Data.gov to make it easier for users to find, understand, and use government data. Today you’ll notice even more changes to Data.gov – here’s a quick rundown of some of the main changes you’ll see, and why.{{< legacy-img src="2014/01/data.gov-7_NEW.jpg" alt="Two smartphones showing the old Data.gov looking like a a shrunken desktop version, next to the new Data.gov look, showing a welcome message that fills the screen" >}}

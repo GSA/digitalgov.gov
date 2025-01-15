@@ -7,6 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" >}}

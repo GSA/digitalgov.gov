@@ -10,6 +10,7 @@ topics:
   - customer-experience
   - search
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 ## Slowness Hurts Web Pages[{{< legacy-img src="2014/03/speed-dial.png" alt="speed dial" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/speed-dial.png)

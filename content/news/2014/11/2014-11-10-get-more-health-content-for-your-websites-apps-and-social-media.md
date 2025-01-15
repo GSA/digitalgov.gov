@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - mobile
   - multimedia
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." caption="" >}}

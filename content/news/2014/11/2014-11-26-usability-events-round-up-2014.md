@@ -8,6 +8,7 @@ authors:
 topics:
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 This past year DigitalGov University has hosted at least one Usability event per month and we thought we&#8217;d give you a round-up of those events. After all, November 13th was [World Usability Day]({{< ref "2014-11-13-world-usability-day-engagement.md" >}} "World Usability Day 2014 theme: Engagement").

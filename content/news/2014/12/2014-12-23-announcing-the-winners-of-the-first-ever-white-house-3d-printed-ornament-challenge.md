@@ -8,6 +8,7 @@ authors:
   - ryan-xue
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 This year, innovative technologies like 3D printing are playing a role in creating a unique and interactive holiday experience at the White House.

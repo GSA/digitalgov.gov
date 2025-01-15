@@ -8,6 +8,7 @@ authors:
 topics:
   - customer-experience
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/600-x-250-UX-monthly-theme-slider-by-Jessica-Skretch-FTCgov.jpg" alt="UX monthly theme slider image" caption="By Jessica Skretch, FTC" >}}

@@ -10,6 +10,7 @@ topics:
   - social-media
   - analytics
   - multimedia
+expirydate: 2025-01-01
 ---
 
 &#8220;Content is king&#8221; is a generally accepted truth for those of us who produce digital media. But once you have compelling content, how to best present it to your audience becomes the next challenge. In recent years, Web innovators started emphasizing the effectiveness of &#8220;digital storytelling,&#8221; or content focused on individual, human experiences using compelling and engaging formats to convey information.

@@ -11,6 +11,7 @@ topics:
   - social-media
   - crowdsourcing-and-citizen-science
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 

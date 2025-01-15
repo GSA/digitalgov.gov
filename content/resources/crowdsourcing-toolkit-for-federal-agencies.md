@@ -7,6 +7,7 @@ topics:
   - crowdsourcing-and-citizen-science
 authors:
   - andreanocesigritz
+expirydate: 2025-01-01
 ---
 
 ## What is a Challenge?

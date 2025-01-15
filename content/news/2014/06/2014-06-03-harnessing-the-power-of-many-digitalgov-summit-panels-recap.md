@@ -14,6 +14,7 @@ topics:
   - mobile
   - social-media
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}}

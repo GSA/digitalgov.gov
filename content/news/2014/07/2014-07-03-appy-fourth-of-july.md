@@ -6,6 +6,7 @@ summary: 'Washington. You can say a lot of things about this town, but one thing
 topics:
   - mobile
  
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/07/600-x-410-July-4th-Fireworks-Washington-DC-by-Carol-M-Highsmith-2007-04460a.jpg" alt="Fireworks over Washington, D.C., July 4, 2007 by Carol M. Highsmith" caption="" >}}

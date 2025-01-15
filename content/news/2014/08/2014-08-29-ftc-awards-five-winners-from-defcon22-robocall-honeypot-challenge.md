@@ -7,6 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/08/600-x-408-Golden-honey-bee-rvbox-iStock-Thinkstock-162847094.jpg" alt="Honey dipper and pot" caption="" >}} 

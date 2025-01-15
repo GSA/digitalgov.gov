@@ -5,6 +5,7 @@ title: Sample Position Descriptions for Digital Government Jobs
 summary: Use and customize these sample position descriptions to hire your own digital gov team. Position descriptions, as defined by the Office of Personnel Management (OPM), include an official series, title, and grade based on the results of a classification determination. Accessibility Web Development and Accessibility Specialist (Word document, 22 KB, 1 page, September 2012) Analytics
 authors:
   - rflagg
+expirydate: 2025-01-01
 ---
 
 Use and customize these sample position descriptions to hire your own digital gov team. Position descriptions, as defined by the [Office of Personnel Management](http://www.opm.gov/html/glossary.asp#P) (OPM), include an official series, title, and grade based on the results of a classification determination.

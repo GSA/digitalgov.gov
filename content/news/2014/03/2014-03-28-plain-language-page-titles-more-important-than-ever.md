@@ -10,6 +10,7 @@ topics:
   - communication
   - analytics
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 Government Web pages are found mainly through search engines. Google recently [redesigned its search results page](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web) and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed. 

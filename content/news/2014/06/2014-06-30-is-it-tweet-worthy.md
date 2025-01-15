@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - social-media
   - plain-language
+expirydate: 2025-01-01
 ---
 
 The Web now contains over 1.51 **billion** pages of content, according to [WorldWideWebSize.com](http://www.worldwidewebsize.com/). That’s a lot of reading material, and a lot of content competing with yours for attention.

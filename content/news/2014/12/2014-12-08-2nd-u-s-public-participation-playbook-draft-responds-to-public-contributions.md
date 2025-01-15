@@ -8,6 +8,7 @@ authors:
 topics:
   - social-media
   - open-government
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}
@@ -196,7 +197,5 @@ Scott Horvath, U.S. Geological Survey
 Scott Prince, National Institutes of Health
 
 Veronica Wendt, National Defense University
-
----
 
 _Justin Herman is the <a href="{{< ref "communities/social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>._

@@ -8,6 +8,7 @@ authors:
   - todd-park
 topics:
   - open-data
+expirydate: 2025-01-01
 ---
 
 One year ago today, President Obama signed an [executive order](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) that made open and machine-readable data the new default for government information. This [historic step](http://www.whitehouse.gov/the-press-office/2013/05/09/obama-administration-releases-historic-open-data-rules-enhance-governmen) is helping to make government-held data more accessible to the public and to entrepreneurs while appropriately safeguarding sensitive information and rigorously protecting privacy.

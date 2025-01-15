@@ -10,6 +10,7 @@ topics:
   - mobile
   - emerging-tech
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}}

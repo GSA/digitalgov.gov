@@ -10,6 +10,7 @@ topics:
   - product-and-project-management
   - social-media
   - crowdsourcing-and-citizen-science
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/600-x-450-Magnifying-Glass-Concept-Tashatuvango-iStock-Thinkstock-459962367.jpg" alt="Magnifying Glass Concept" caption="" >}} 

@@ -8,6 +8,7 @@ authors:
 topics:
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 There are many buzzwords thrown around in the digital government universe, but the most impactful ideas are rooted in one action: engagement. Whether it is a tweet, a mobile app, or a community of practitioners, every digital program or service requires interaction between an organization and its customer.

@@ -6,6 +6,7 @@ summary: 'Ask, and you shall receive. That was the strategy behind the new homep
 topics:
   - design
   - mobile
+expirydate: 2025-01-01
 ---
 
 Ask, and you shall receive.

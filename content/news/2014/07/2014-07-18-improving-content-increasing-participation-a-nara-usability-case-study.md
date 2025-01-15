@@ -12,6 +12,7 @@ topics:
   - user-experience
   - analytics
   - professional-development
+expirydate: 2025-01-01
 ---
 
 Over the years, the staff intranet at the National Archives and Records Administration (NARA) had become increasingly difficult to use. Old, irrelevant content routinely bubbled to the top of search results, and essential employee tools were hard to find.

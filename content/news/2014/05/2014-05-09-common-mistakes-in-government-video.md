@@ -7,6 +7,7 @@ authors:
   - jini-ryan
 topics:
   - multimedia
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/05/600-x-400-Video-Shoot-Common-Mistakes-in-Government-Video.jpg" alt="Outdoor Video Shoot example for Common Mistakes in Government Video" >}}

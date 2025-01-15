@@ -6,6 +6,7 @@ summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And a
 topics:
   - design
   - mobile
+expirydate: 2025-01-01
 ---
 
 **{{< legacy-img src="2014/05/250-x-444-DFAS-menu-Responsive-Screenshot.jpg" alt="DFAS menu Responsive Screenshot" >}}Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day.**

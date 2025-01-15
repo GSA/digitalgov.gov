@@ -10,6 +10,7 @@ topics:
   - user-experience
   - usability
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 In 2012, the [Federal Reserve Board](http://www.federalreserve.gov/) used the _Top-task_ methodology to redesign our intranet, called _Inside the Board_, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project was wildly successful. Task completion ratings rose to more than 90% after the redesign, from 58% on the legacy site—drastically increasing the productivity of the Board’s employees.
@@ -66,8 +67,6 @@ One of the great things about this process is how repeatable it is. As we know, 
 
 The top-task process is easy to learn, execute, and repeat. It involves your users at every step of the way to create a website that features a menu structure your users will find intuitive and easy to use. In short, it helps your users complete the tasks that are most important to them in the shortest amount of time, leading to happy users and happy clients!
 
-
----
 
 _**Ben Rosset**, PMP is the Accessibility Project Manager at the Federal Reserve Board._
 

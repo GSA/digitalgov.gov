@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - open-source
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/05/250-x-296-National-Defense-University-Center-for-Technology-and-National-Security-Policy-shield-logo.jpg" alt="National Defense University - Center for Technology and National Security Policy shield logo" >}}The National Defense University (NDU) is hosting a conference call Friday, May 23, to spread the word about the <a title="disaster apps challenge competition" href="http://disasterapps.challengepost.com/" target="_blank">Disaster Apps Challenge Competition</a>, which opened yesterday.

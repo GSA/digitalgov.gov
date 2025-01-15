@@ -7,6 +7,7 @@ authors:
   - richard-easterbrook
 topics:
   - open-data
+expirydate: 2025-01-01
 ---
 
 In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara National Wildlife Refuge, observed:

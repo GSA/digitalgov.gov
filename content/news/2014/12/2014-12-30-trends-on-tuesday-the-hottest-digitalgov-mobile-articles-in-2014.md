@@ -10,6 +10,7 @@ topics:
   - mobile
   - application-programming-interface
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 QR codes, apps about whales, bullying and railroad crossings, challenges of responsive Web design and mobilizing charts and tables were the things you were most interested in this year.

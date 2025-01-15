@@ -8,6 +8,7 @@ authors:
 topics:
   - analytics
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/05/250-x-176-Google-Analytics-for-Government-2nd-Edition-May-2014.jpg" alt="The cover image for the title, Google Analytics for Government, 2nd Edition, May 2014" >}}

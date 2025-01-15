@@ -11,6 +11,7 @@ authors:
 topics:
   - contact-centers
 
+expirydate: 2025-01-01
 ---
 
 ## What is a Contact Center? {#what}

@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/07/250-x-417-ABMC-American-Battle-Monument-Commission-app-home.jpg" alt="250 x 417 ABMC American Battle Monument Commission app home" >}}The job of the [American Battle Monument Commission](http://www.abmc.gov/) (AMBC) is to manage all overseas cemeteries and memorials from WWI and WWII. There are over 200,000 veterans who are buried or memorialized at these cemeteries. When ABMC began thinking about releasing a native mobile application, they had two primary objectives:
