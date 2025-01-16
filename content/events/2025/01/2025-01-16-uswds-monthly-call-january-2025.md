@@ -23,6 +23,8 @@ primary_image: "uswds-monthly-call-january-2025"
 
 ---
 
+{{< asset-static file="uswds-monthly-call-january-2025.pptx" label="uswds-monthly-call-january-2025 (PowerPoint presentation, 12.7 MB, 89 slides)" >}}
+
 This month, join the U.S. Web Design System (USWDS) team to revisit design system basics.
 
 In this session, you’ll learn about: 
