@@ -4,6 +4,7 @@ deck: The USWDS essentials
 kicker: USWDS
 summary: Learn the U.S. Web Design System basics, how to get started with the design system, and what’s coming next for USWDS in 2025.
 event_organizer: Digital.gov
+host: U.S. Web Design System
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdO2rrD8uGwZHMv_sapSs3li8yvD9vkI
 date: 2025-01-16 14:00:00 -0500
 end_date: 2025-01-16 15:00:00 -0500
