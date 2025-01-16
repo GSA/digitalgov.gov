@@ -3,19 +3,22 @@ title: USWDS Monthly Call - January 2025
 deck: The USWDS essentials 
 kicker: USWDS
 summary: Learn the U.S. Web Design System basics, how to get started with the design system, and what’s coming next for USWDS in 2025.
-host: USWDS
 event_organizer: Digital.gov
+host: U.S. Web Design System
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdO2rrD8uGwZHMv_sapSs3li8yvD9vkI
 date: 2025-01-16 14:00:00 -0500
 end_date: 2025-01-16 15:00:00 -0500
+
 # See all topics at https://digital.gov/topics
 topics:
-  - Design
-  - User experience
-  - Usability
-  - Human-centered design
-  - Best practices
+  - design
+  - user-experience
+  - usability
+  - human-centered-design
+  - best-practices
+
 slug: uswds-monthly-call-january-2025
+
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 
