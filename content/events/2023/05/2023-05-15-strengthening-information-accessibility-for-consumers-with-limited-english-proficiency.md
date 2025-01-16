@@ -20,7 +20,7 @@ topics:
   - user-experience
   - customer-experience
   - plain-language
-  - policy
+  - public-policy
 
 slug: strengthening-information-accessibility-for-consumers-with-limited-english-proficiency
 

@@ -7,7 +7,7 @@ summary: This 2019 memorandum sets forth the federal government's Identity, Cred
 # See all topics at https://digital.gov/topics
 topics:
   - security
-  - policy
+  - public-policy
 
 # Controls how this page appears across the site
 # 0 -- hidden
@@ -36,7 +36,7 @@ OMB rescinds the following with the release of this memorandum:
 1. M-04-04, E-Authentication Guidance for Federal Agencies
 2. M-05-05, Electronic Signatures: How to Mitigate the Risk ofCommercial Managed Services
 3. M-06-18, Acquisition ofProducts and Services for Implementation of HSPD-12
-4. M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors
+4. M-11-11, Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - public-policy for a Common Identification Standard for Federal Employees and Contractors
 5. OMB Memorandum, Requirements/or Accepting Externally-Issued Identity Credentials, October 6, 2011
 
 ## Policy Assistance

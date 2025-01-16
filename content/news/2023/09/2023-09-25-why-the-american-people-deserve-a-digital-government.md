@@ -31,7 +31,7 @@ topics:
   - budgeting-and-performance
   - best-practices
   - usability
-  - policy
+  - public-policy
 
 slug: why-the-american-people-deserve-a-digital-government
 

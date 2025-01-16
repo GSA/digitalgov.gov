@@ -26,7 +26,7 @@ topics:
   - privacy
   - security
   - best-practices
-  - policy
+  - public-policy
 slug: fedramp-governance
 # Controls how this page appears across the site
 # 0 -- hidden

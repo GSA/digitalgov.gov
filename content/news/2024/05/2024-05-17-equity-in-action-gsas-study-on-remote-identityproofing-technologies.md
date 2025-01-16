@@ -16,7 +16,7 @@ topics:
   - design
   - human-centered-design
   - information-collection
-  - policy
+  - public-policy
   - research
   - user-experience
 

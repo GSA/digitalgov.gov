@@ -18,7 +18,7 @@ authors:
 topics:
   - multilingual
   - governance
-  - policy
+  - public-policy
 
 slug: requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep
 
