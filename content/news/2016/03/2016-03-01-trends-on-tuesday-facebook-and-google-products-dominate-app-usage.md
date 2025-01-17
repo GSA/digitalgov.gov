@@ -1,4 +1,3 @@
-
 ---
 slug: trends-on-tuesday-facebook-and-google-products-dominate-app-usage
 date: 2016-03-01 10:00:13 -0400
@@ -9,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Comscore released new data this month about trends in the smartphone space. The data showed that the [Android platform grew in market percentage](http://www.comscore.com/Insights/Market-Rankings/comScore-Reports-December-2015-US-Smartphone-Subscriber-Market-Share) (when combining all Android manufacturers).

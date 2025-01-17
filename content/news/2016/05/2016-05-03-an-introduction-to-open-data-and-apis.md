@@ -9,6 +9,7 @@ topics:
   - application-programming-interface
   - software-engineering
   - open-data
+expirydate: 2025-01-01
 ---
 
 The federal workplace is abuzz these days with talk about open data and how agencies can leverage that data through APIs. According to the federal [Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf), data should be managed as an information asset, and making it discoverable and usable (in other words, open).

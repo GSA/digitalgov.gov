@@ -14,6 +14,7 @@ topics:
   - social-media
   - terms-of-service
 
+expirydate: 2025-01-01
 ---
 
 Hi there, DigitalGov!
@@ -82,6 +83,7 @@ In 2018, Cole and Naples did an hour-long follow-up workshop with DPLA, Advanced
 
 Cheers! {{< legacy-img src="https://media2.giphy.com/media/3o6ZtfLJXFkJEROJSU/giphy.gif" alt="Animated gif of a man drinking wine." caption="" >}}
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

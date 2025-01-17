@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - artificial intelligence
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 You have probably read about the recent release of the [White House’s report on using artificial intelligence (AI)](https://www.whitehouse.gov/blog/2016/10/12/administrations-report-future-artificial-intelligence). As with previous technologies, AI holds much promise in the areas of education, commerce, criminal justice, the environment—almost all aspects of the American public’s life. AI also poses a danger if it is not properly managed and controlled. This is why the [report advises](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf) that “[a]s the technology of AI continues to develop, practitioners must ensure that AI-enabled systems are governable; that they are open, transparent, and understandable; that they can work effectively with people; and that their operation will remain consistent with human values and aspirations.”

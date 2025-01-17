@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 __Phablets, once mocked for their large size, may be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. {{< legacy-img src="2016/01/600-x-468-Flurry-Chart-for-Distribution-of-New-Devices-by-Form-Factor-and-Operating-System-December-19th-to-25th-2015.jpg" alt="A Flurry Analytics chart covering Android and i O S data from December 19 to 25, 2015 that is titled, Distribution of New Devices by Form Factor and Operating System." caption="" >}} 
