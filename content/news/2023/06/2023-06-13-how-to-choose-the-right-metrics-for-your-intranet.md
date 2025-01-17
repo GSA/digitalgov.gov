@@ -81,7 +81,7 @@ These metrics can reveal how well your intranet fosters communication and collab
 * **Customer loyalty score**: A measure of how likely users are to recommend the intranet to their colleagues.
 * **Customer effort score**: A measure of how easy it is for users to complete tasks on the intranet.
 
-Collecting and analyzing these metrics can ensure your intranet meets user expectations, contributing to higher satisfaction and engagement. [Common Metrics: Guidance, Best Practices, and Tools](https://digital.gov/2013/07/15/digital-metrics-for-federal-agencies/#part-1) is also worth a read.
+Collecting and analyzing these metrics can ensure your intranet meets user expectations, contributing to higher satisfaction and engagement.
 
 ## Aligning objectives with metrics
 
