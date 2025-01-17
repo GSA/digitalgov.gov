@@ -5,6 +5,9 @@ input_file="redirects/slugs.txt"
 sort_file="redirects/slugs_sort.txt"
 clean_file="redirects/slugs_clean.txt"
 
+> "$sort_file"
+> "$clean_file"
+
 # sort by date
 cat "$input_file" | sort > "$sort_file"
 
