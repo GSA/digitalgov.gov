@@ -74,7 +74,7 @@ These metrics can reveal how well your intranet fosters communication and collab
 
 ### Satisfaction metrics
 
-[Satisfaction metrics](https://digital.gov/2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx/) measure users' perceptions and experiences with your intranet. They include:
+Satisfaction metrics measure users' perceptions and experiences with your intranet. They include:
 
 * **Survey results**: Regular surveys can gauge user satisfaction, gather feedback, and identify areas for improvement.
 * **Feedback**: Regular feedback collection can offer qualitative insights into user satisfaction and highlight potential issues.
