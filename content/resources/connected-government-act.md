@@ -191,4 +191,4 @@ When you are building an app or creating a mobile-friendly site, there are certa
 
 ### U.S. Digital Registry
 
-Resource to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites: [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)
+Resource to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites: [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry)

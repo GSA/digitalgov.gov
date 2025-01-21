@@ -47,7 +47,7 @@ In June, the White House released a report that cited Data.gov, Challenge.gov, a
 
 ## Top Articles
 
-Last year, most users searched DigitalGov to find information on: Terms of Service (TOS) agreements, plain language, webinars and training, our services ([Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP), [U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/), [DigitalGov Search](https://www.digitalgov.gov/services/search/)), social media best practices, web and mobile content strategies, accessibility and user experience (UX), analytics, agile practices, governance, policy, surveys and customer experience (CX), APIs, data, and security.
+Last year, most users searched DigitalGov to find information on: Terms of Service (TOS) agreements, plain language, webinars and training, our services ([Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP), [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry), [DigitalGov Search](https://www.digitalgov.gov/services/search/)), social media best practices, web and mobile content strategies, accessibility and user experience (UX), analytics, agile practices, governance, policy, surveys and customer experience (CX), APIs, data, and security.
 
 {{< img src="top-10-cards-lights-elinedesignservices-istock-getty-images-470951074-full" alt="" >}}
 

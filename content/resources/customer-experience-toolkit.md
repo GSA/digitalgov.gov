@@ -318,7 +318,7 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
 - Publish open, structured content
     - [Finding the Best Mobile Moment for Anytime, Anywhere Government](https://digital.gov/2015/06/01/finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government/)
 - Coordinate across all channels (web, social, mobile, etc.)
-    - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/)
+    - [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry/)
     - [Join the Social Media Community of Practice](https://digital.gov/communities/social-media/)
 
 ### Communicate clearly
