@@ -1,5 +1,7 @@
+@use "uswds-core" as *;
+
 .dg-redirect {
-  background-color: #0b4778;
+  background-color: color("primary-dark");
   display: flex;
   justify-content: center;
 
@@ -7,38 +9,54 @@
     display: flex;
     flex-direction: column;
     margin-bottom: 0;
-    padding: 3rem;
+    padding: units(2);
     width: 100%;
+
+    @include at-media("mobile-lg") {
+      padding: units(6);
+    }
   }
 
   &__header {
     color: white;
     display: flex;
-    // justify-content: center;
     margin-bottom: 0;
 
     h2 {
-      font-weight: 400;
+      font-weight: font-weight(400);
     }
   }
 
   &__body {
     align-items: center;
     background-color: white;
-    border-radius: 0.75rem;
+    border-radius: units(1.5);
     display: flex;
     flex-direction: column;
     justify-content: center;
     min-height: 20rem;
+    padding: units(2);
+
+    @include at-media("mobile-lg") {
+      padding: units(2);
+    }
 
     h2 {
-      color: #124670;
-      font-weight: 400;
+      color: color("primary-dark");
+      font-weight: font-weight(400);
     }
   }
 
+  &__body-links li {
+    margin-top: units(1);
+  }
+
   &__body-buttons {
-    padding-top: 1rem;
+    padding-top: units(2);
+
+    a:first-child {
+      margin-bottom: units(2);
+    }
   }
 
   &__touchpoints {
