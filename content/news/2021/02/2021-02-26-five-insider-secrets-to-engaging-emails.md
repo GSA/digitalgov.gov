@@ -113,7 +113,7 @@ As part of our send strategy, we’ve also looked at **how our readers consume t
 
 ## Tip #5: Test & Try New Things!
 
-One of the best parts of being in a comms organization is we get to try out new things and see how our readers react. We use [A/B testing](https://digital.gov/2014/08/11/the-power-of-email-marketing/) to learn from our readers and what they do.
+One of the best parts of being in a comms organization is we get to try out new things and see how our readers react. We use A/B testing to learn from our readers and what they do.
 
 A/B testing is the process of comparing two versions of an email or other marketing asset and measuring the difference in performance.
 
