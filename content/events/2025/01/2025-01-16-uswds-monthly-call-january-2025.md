@@ -3,7 +3,7 @@ title: USWDS Monthly Call - January 2025
 deck: The USWDS essentials 
 kicker: USWDS
 summary: Learn the U.S. Web Design System basics, how to get started with the design system, and what’s coming next for USWDS in 2025.
-host: Dan Williams
+host: USWDS
 event_organizer: Digital.gov
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdO2rrD8uGwZHMv_sapSs3li8yvD9vkI
 date: 2025-01-16 14:00:00 -0500
@@ -22,6 +22,8 @@ event_platform: zoom
 primary_image: "uswds-monthly-call-january-2025"
 
 ---
+
+{{< asset-static file="uswds-monthly-call-january-2025.pptx" label="View the slides (PowerPoint presentation, 12.7 MB, 89 slides)" >}}
 
 This month, join the U.S. Web Design System (USWDS) team to revisit design system basics.
 
