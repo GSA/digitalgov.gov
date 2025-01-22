@@ -1,15 +1,17 @@
 // Uses manual breakpoints because USWDS breakpoints are not accessible within JS
 const deviceBreakpoint = 480;
-const menuBarScrollOffsetMobile = 150;
-const menuBarScrollOffsetFull = 320;
-const menuBarScrollOffsetDefault = 30;
+const menuBarScrollOffsetMobile = 600;
+const menuBarScrollOffsetFull = 600;
+const menuBarScrollOffsetDefault = 600;
 let menuBarLinks = null;
 let menuBarImage = null;
+let menuBarContainer = null;
 
 const menuBar = document.querySelector(".dg-guide__menu-bar");
 if (menuBar) {
   menuBarLinks = menuBar.querySelector(".dg-guide__menu-bar-links");
   menuBarImage = menuBar.querySelector(".dg-guide__menu-bar-image-container");
+  menuBarContainer = menuBar.querySelector(".dg-guide__menu-bar-container");
 }
 
 // Scroll the guide menu bar so that the currently selected item is in view
@@ -24,6 +26,10 @@ function intersection(e) {
   // Check if menu bar intersected the top of the page
   if (!e.isIntersecting && e.boundingClientRect.top < 1) {
     menuBar.classList.add("sticky");
+    menuBarContainer.classList.remove(
+      "grid-container",
+      "grid-container-desktop"
+    );
     menuBarImage.removeAttribute("hidden");
     menuBarImage.setAttribute("tabindex", "0");
 
@@ -38,6 +44,7 @@ function intersection(e) {
     menuBarImage.setAttribute("hidden", "");
     menuBarImage.setAttribute("tabindex", "-1");
     menuBar.classList.remove("sticky");
+    menuBarContainer.classList.add("grid-container", "grid-container-desktop");
     scrollMenuBar(menuBarScrollOffsetDefault);
   }
 }
