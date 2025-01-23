@@ -23,7 +23,6 @@ expirydate: "2025-01-22"
 topics:
   - artificial-intelligence
   - emerging-tech
-  - diversity-equity-and-inclusion
 slug: fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence
 # Controls how this page appears across the site
 # 0 -- hidden
