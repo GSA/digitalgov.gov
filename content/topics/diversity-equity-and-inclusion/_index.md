@@ -12,6 +12,8 @@ title: "Diversity, equity, and inclusion"
 deck: "Find out how to incorporate diversity, equity, and inclusion into digital experiences."
 summary: "When digital experiences are designed to be inclusive, they are accessible to all — people with diverse abilities, people who speak different languages, and people from diverse cultural, ethnic, and economic backgrounds. Inclusion creates a better user experience for everyone."
 
+expirydate: "2025-01-22"
+
 # Weight
 weight: 2
 
