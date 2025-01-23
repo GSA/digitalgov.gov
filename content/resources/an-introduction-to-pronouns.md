@@ -4,7 +4,7 @@ title: An introduction to pronouns
 deck: Understand how and why to use pronouns
 summary: A guide for government employees and contractors to understand and use pronouns in the workplace.
 
-expirydate: "2025-22-01"
+expirydate: "2025-01-22"
 
 # See all topics at https://digital.gov/topics
 topics:
