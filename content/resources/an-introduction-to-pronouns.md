@@ -6,7 +6,6 @@ summary: A guide for government employees and contractors to understand and use
   pronouns in the workplace.
 
   expirydate: "2025-22-01"
-  
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery
