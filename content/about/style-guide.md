@@ -328,7 +328,6 @@ _Best Practices for Attribution_ (with examples):
 
 Examples on Digital.gov:
 
-* [Social Media: Accessibility Issues and Solutions](https://digital.gov/2014/06/30/social-media-accessibility-issues-and-solutions/)
 * [Celebrating Black History at TTS: Reflections on the Challenges of the Past and Present](https://digital.gov/2022/03/14/celebrating-black-history-at-tts-reflections-on-the-challenges-of-the-past-and-present/)
 
 4. **flickr** photos

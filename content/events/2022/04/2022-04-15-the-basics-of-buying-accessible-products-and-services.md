@@ -3,6 +3,8 @@ title: The Basics of Buying Accessible Products and Services
 kicker: Inclusive Acquisitions
 summary: A discussion with members of the U.S. General Services Administration (GSA) and U.S. Access Board (USAB) on best practices for buying information and communications technology and services that can be used by anyone.
 
+expirydate: "2025-01-22"
+
 host: GSA Government-wide IT Accessibility Program
 event_organizer: Digital.gov
 

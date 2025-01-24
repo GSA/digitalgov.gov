@@ -2,6 +2,9 @@
 date: 2022-06-09 08:58:00 -0500
 title: 10x Announces 25 New Projects Launching This Fiscal Year
 summary: Starting with a pool of nearly 200 ideas, 10x is excited to announce new projects to be funded at the Phase One Investigation level for FY22. Here’s how we got there, some observations made, and next steps.
+
+expirydate: "2025-01-22"
+
 # See all authors at https://digital.gov/authors
 authors:
   - will-cahoe

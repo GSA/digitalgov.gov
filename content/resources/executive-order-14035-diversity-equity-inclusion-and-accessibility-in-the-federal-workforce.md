@@ -7,6 +7,8 @@ source: nara
 title: "Executive Order 14035"
 summary: "Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce"
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery

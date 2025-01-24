@@ -4,6 +4,9 @@ source_url: https://www.section508.gov/manage/deia-guidance/
 source: section508gov
 date: 2021-12-20 14:37:00 -0500
 title: "New on Section508.gov: Integrating Accessibility into DEIA Implementation Plans"
+
+expirydate: "2025-01-22"
+
 deck: |
   **New on Section508.gov: Integrating Accessibility into DEIA Implementation Plans** &mdash; Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity and inclusion for people with disabilities. Without accessibility, we cannot truly achieve the others.
 
