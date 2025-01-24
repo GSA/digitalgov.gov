@@ -38,10 +38,18 @@ word-for-word{{< /checkbox-sublist-item >}}
 {{< /checklist-sublist >}}
 
 {{< /checklist >}}
-
 */}}
+{{/* If no border field is set, hugo resolves it to nil which should be false */}}
+{{ $showBorder := .Get "border" }}
+{{ if eq $showBorder nil }}
+  {{ $showBorder = true }}
+{{ end }}
+
+{{/* Add the --no-border class to hide the top border */}}
+{{ $checklistClasses := slice "dg-checklist" (print (cond $showBorder "" "dg-checklist--no-border" )) }}
+
 {{- if .Inner -}}
-  <ul class="dg-checklist">
+  <ul class="{{ delimit $checklistClasses " " }}">
     {{- .Inner | markdownify -}}
   </ul>
 {{- end -}}

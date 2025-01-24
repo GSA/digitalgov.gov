@@ -60,8 +60,11 @@ This checklist is for people preparing to present at a Digital.gov event. You ma
 
   {{< /checklist-sublist >}}
 
+{{</ checklist >}}
+
 Watch these [presentations training videos](https://www.section508.gov/create/presentations/training-videos) for more information on creating accessible presentations.
 
+{{< checklist border=false >}}
   {{< checkbox >}}Link to government websites by default.{{< /checkbox >}}
   {{< checkbox >}}Follow the [GSA Linking Policy](https://www.gsa.gov/website-information/website-policies#linking) if you link to any non-government sites; all non-government links will require additional review and approval.{{< /checkbox >}}
   {{< checkbox >}}Recommend and link to books, papers, or studies published by the federal government only. Do not recommend or link to content published by other organizations.{{< /checkbox >}}

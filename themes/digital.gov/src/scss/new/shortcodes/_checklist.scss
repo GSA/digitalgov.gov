@@ -5,6 +5,10 @@
   @include u-margin-top(0, "!important");
   @include u-border-top("2px", "gray-cool-10", "solid");
 
+  &--no-border {
+    border-top: none;
+  }
+
   &__item {
     list-style-type: none;
 
