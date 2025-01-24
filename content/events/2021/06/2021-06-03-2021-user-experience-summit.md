@@ -31,7 +31,7 @@ When registering, please select the days you would like to attend directly on th
 
 Please find descriptions and agendas for the summit sessions below:
 
-{{< accordion kicker="Day 1" title="Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
+{{< accordion kicker="Day 1" title="Tuesday, June 22, 2021" icon="content_copy" >}}
 
 
 ## Keynote: The Future of Design Must Be Trauma-Informed (11:00 am - 12:00 pm, ET)
@@ -92,22 +92,7 @@ In this session you will hear from the following speakers:
 
 ---
 
-{{< accordion kicker="Day 2" title="Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
-
-## Equity-Centered Design: Challenges in Government (11:00 am - 12:00 pm, ET)
-
-18F’s research practice is evolving from user-centered design toward equity-centered design, an approach that addresses power imbalances between researchers and participants. Equity-centered design seeks to provide value back to participants. It provides mechanisms to identify potential hazards and harms in the services and products we create. Prioritizing equity can result in safer, more equitable access to government services for everyone, including those in marginalized groups. In this session we’ll share our vision of a more equitable 18F research practice, how we’re overcoming government-specific hurdles to engage in better collaboration with research participants and communities, and tips you can incorporate into your practice.
-
-{{< asset-static file="equity-centered-design-revised.pptx" label="View the slides (PowerPoint presentation, 3.54 MB, 44 pages)" >}}
-
-In this session you will hear from the following speakers:
-
-* **Ben Peterson** &mdash; 18F, GSA
-* **Julie Strothman** &mdash; 18F, GSA
-
-{{< youtube id="j1ZJO8maV7s" title="UX Summit 2021: Equity-Centered Design: Challenges in Government" >}}
-
-- - -
+{{< accordion kicker="Day 2" title="Wednesday, June 23, 2021" icon="content_copy" >}}
 
 ## Building Empathy Remotely (12:30 pm - 12:50 pm, ET)
 
@@ -185,7 +170,7 @@ In this session you will hear from the following speakers:
 
 ---
 
-{{< accordion kicker="Day 3" title="Thursday, June 24, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
+{{< accordion kicker="Day 3" title="Thursday, June 24, 2021" icon="content_copy" >}}
 
 ## Conscious Uncoupling: Innovative Ways To Separate User Habits From User Needs (11:00 am - 12:00 pm, ET)
 
