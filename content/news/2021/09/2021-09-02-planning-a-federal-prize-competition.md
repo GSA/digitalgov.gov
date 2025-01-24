@@ -1,6 +1,5 @@
 ---
 date: 2021-09-02 13:49:00 -0500
-expirydate: "2021-09-02"
 kicker: Challenge.gov
 title: "Planning a Federal Prize Competition"
 deck: A Spotlight Chat with members of the Lab to Market Inclusive Innovation Ecosystem Prize Competition.
