@@ -169,7 +169,7 @@ In this session we heard from the following speakers:
 
 ## Conscious Uncoupling: Innovative Ways To Separate User Habits From User Needs (11:00 am - 12:00 pm, ET)
 
-We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
+We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We shared creative ways to get to the root of behavior and uncover what users really need.
 
 {{< asset-static file="conscious-uncoupling-uxsummit-revised.pptx" label="View the slides (PowerPoint presentation, 5.72 MB, 39 pages)" >}}
 
@@ -183,7 +183,7 @@ In this session we heard from the following speakers:
 
 ## Patient-Powered Innovations: Framing Problems Into Opportunities With Health+ (12:30 pm - 12:50 pm, ET)
 
-As designers and technologists in government, how can we put the American people first, listening and learning from them every step of the way? In this talk, you'll hear about how the [Health+](https://www.hhs.gov/cto/initiatives/digital-services/health-plus/index.html) methodology at the Department of Health and Human Services (HHS) facilitates patient-centered innovations as part of the [LymeX](https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html) public-private partnership. You'll learn about the playbook we've created to frame problems effectively, starting first and foremost with your stakeholders that are experts in their lived experiences. You'll also learn about how to apply these human-centered design methods in your own projects.
+As designers and technologists in government, how can we put the American people first, listening and learning from them every step of the way? In this talk, we heard about how the [Health+](https://www.hhs.gov/cto/initiatives/digital-services/health-plus/index.html) methodology at the Department of Health and Human Services (HHS) facilitates patient-centered innovations as part of the [LymeX](https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html) public-private partnership. We learned about the playbook we've created to frame problems effectively, starting first and foremost with your stakeholders that are experts in their lived experiences. We also learned about how to apply these human-centered design methods in your own projects.
 
 In this session we heard from the following speaker:
 
