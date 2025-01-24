@@ -10,6 +10,8 @@ title: "How Serving in Government Made Me a Better Designer and Product Manager"
 deck: "Working in U.S. government sharpened all of my product skills. Here are four practices that techies in any sector can use to build empathetic, effective products."
 summary: "Working in U.S. government sharpened all of my product skills. Here are four practices that techies in any sector can use to build empathetic, effective products."
 
+expirydate: "2025-01-22"
+
 # see all topics at https://digital.gov/topics
 topics: 
   - design
