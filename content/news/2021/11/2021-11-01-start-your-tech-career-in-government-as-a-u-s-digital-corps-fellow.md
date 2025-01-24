@@ -45,9 +45,9 @@ Working at TTS, I learned that a key conversation across the federal space had b
 
 I was also pleasantly surprised to learn what a tight-knit community I entered into as a fellow. The PIF program provided cohort activities and events for us to engage in, such as weekly PIF small group discussions and social hours (even remotely!). Additionally, the fellows were directly plugged into the broader TTS community, including some of my favorite programming:
 
-* **Diversity Guild** and **Accessibility Guild**: revolving themes of discussion around DEIA (diversity, equity, inclusion, and accessibility)
+* **Guild presentations**: revolving discussions around topics of shared interest
 * **Stretch Sessions**: stretch with yoga mat or blanket to end the work day on a high note
-* **Someone Talks About Something**: fun presentations about random & interesting topics from employees
+* **Someone Talks About Something**: fun presentations about random and interesting topics from employees
 
 As a U.S. Digital Corps Fellow, you will similarly be a part of a diverse cohort of early-career technologists working on high-impact innovative projects, and be plugged into a community of like-minded mission-driven individuals.
 
