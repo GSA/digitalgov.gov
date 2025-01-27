@@ -1,6 +1,7 @@
+"uid": "{{ .Type }}-{{ default .Name .Params.slug }}",
 {{- with .Params.slug -}}
   "slug" : "{{- . -}}",
 {{- end -}}
 {{- if .Permalink -}}
-  "url" : "{{- .Permalink -}}"
+  "url" : "{{- .RelPermalink -}}"
 {{- end -}}
