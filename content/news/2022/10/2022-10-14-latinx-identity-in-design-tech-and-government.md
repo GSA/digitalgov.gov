@@ -6,7 +6,6 @@ summary: "TTS highlights Latinx employees in civic tech by outlining how ethnici
 
 expirydate: "2025-01-26"
 
-
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
