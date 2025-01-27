@@ -19,7 +19,7 @@ summary: "In FY23, 10x doubled down on its commitment to creating solutions that
   will make a difference. Explore what they did, where they're going next — and
   what was learned along the way."
 
-expirydate: "2025-01-21"
+expirydate: "2025-01-26"
 
 # See all topics at https://digital.gov/topics
 topics:
