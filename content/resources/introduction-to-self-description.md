@@ -4,7 +4,7 @@ title: "Introduction to self-description"
 deck: "How and why to create self-descriptions when you introduce yourself during events and presentations"
 summary: "Help create inclusive digital spaces with these tips for using self-descriptions in virtual meetings or conference calls."
 
-expirydate: "2025-01-21"
+expirydate: "2025-01-26"
 
 # See all topics at https://digital.gov/topics
 topics:
