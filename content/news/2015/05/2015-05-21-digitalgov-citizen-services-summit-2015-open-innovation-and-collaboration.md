@@ -21,29 +21,23 @@ The theme of this year&#8217;s Summit was "open." The agenda was packed with pre
 Megan Smith, U.S. Chief Technology Officer, opened the Summit, challenging all techies in government to help solve problems and be part of decision-making at the highest levels of government.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en">@uscto Lots of different talents are shifting and moving to solve the real problems of today <a href="https://x.com/hashtag/digitalgov15">#digitalgov15</a>></p>
+<p lang="en">@uscto Lots of different talents are shifting and moving to solve the real problems of today <a href="https://x.com/hashtag/digitalgov15">#digitalgov15</a>></p>
   
-  <p>&mdash; Janet S (@JanetBS) <a href="https://twitter.com/JanetBS/status/601376122086039552">May 21, 2015</a></p>
+<p>&mdash; Janet S (@JanetBS) May 21, 2015</p>
 </blockquote>
-
 
 She also said that young people have found ways to serve their country through the Peace Corps and Teach for America and invited the group to think how they could serve digitally.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en">Megan Smith, US CTO suggests more virtual public service can be enabled by tech <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> &#8211; more talent working on problems <a href="https://twitter.com/hashtag/citizen2015?src=hash">#citizen2015</a></p>
+<p lang="en">Megan Smith, US CTO suggests more virtual public service can be enabled by tech <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> &#8211; more talent working on problems <a href="https://twitter.com/hashtag/citizen2015?src=hash">#citizen2015</a></p>
   
-  <p>&mdash; Jeffrey Peel (@JeffreyPeel) <a href="https://twitter.com/JeffreyPeel/status/601376300264202240">May 21, 2015</a></p>
+<p>&mdash; Jeffrey Peel (@JeffreyPeel) May 21, 2015</p>
 </blockquote>
 
-
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en">.@uscto promoting intersection of tech and service: "How about a Virtual 
-@PeaceCorps?" <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>
-  </p>
+<p lang="en">.@uscto promoting intersection of tech and service: "How about a Virtual @PeaceCorps?" <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a></p>
 
-  <p>
-    &mdash; Sheila Campbell (@sheiladcusa) <a href="https://twitter.com/sheiladcusa/status/601376671036485632">May 21, 2015</a>
-  </p>
+<p>&mdash; Sheila Campbell (@sheiladcusa) <a href="https://twitter.com/sheiladcusa/status/601376671036485632">May 21, 2015</a></p>
 </blockquote>
 
 Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
@@ -53,13 +47,9 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
 This dependency on technology will generate new issues, he warned.
 
 <blockquote class="twitter-tweet" data-width="500">
-  <p lang="en">
-    Listening to <a href="https://twitter.com/fcc_cio">@fcc_cio</a> discuss Internet of things. Fascinating! He asks who in public service will keep things safe? <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a>
-  </p>
+<p lang="en">Listening to <a href="https://twitter.com/fcc_cio">@fcc_cio</a> discuss Internet of things. Fascinating! He asks who in public service will keep things safe? <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a></p>
   
-  <p>
-    &mdash; Jeffrey Levy (@levyj413) <a href="https://twitter.com/levyj413/status/601380177067773955">May 21, 2015</a>
-  </p>
+<p>&mdash; Jeffrey Levy (@levyj413) May 21, 2015</p>
 </blockquote>
 
 The Summit attracted over <del>500</del> 1,100 attendees, both in-person at GSA headquarters in Washington, DC, and via our Summit live stream. Summit speakers and expo table participants represented 30 federal agencies, and the Twitter handle for the event, [#DigitalGov15](https://twitter.com/search?q=%23DigitalGov15), was trending nationwide throughout the Summit.
