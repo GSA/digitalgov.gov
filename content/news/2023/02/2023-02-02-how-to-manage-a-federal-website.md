@@ -115,7 +115,6 @@ Make sure that your website complies with all federal rules and regulations. Che
 * [9 Web resolutions to jump-start 2023](https://digital.gov/2023/01/31/9-web-resolutions-to-jump-start-2023/) — Digital.gov
 * [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) — Digital.gov
 * [Meet your Federal Web Council](https://digital.gov/2019/11/12/meet-your-federal-web-council/) — Digital.gov
-* [Customer experience toolkit](https://digital.gov/resources/customer-experience-toolkit/) — Digital.gov
 
 {{< note >}}*The **Web Managers Community of Practice** is a group of government employees who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers community](https://digital.gov/communities/web-content-managers/) today.*{{< /note >}}
 
