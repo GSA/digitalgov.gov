@@ -62,7 +62,6 @@ Storytelling will get your audience engaged; it will help them see where they fi
 Check out these examples and articles to see storytelling in action at the government level and awaken your own inner storyteller:
 
 * [Government of New Zealand, Foreign Affairs & Trade - Our Story](https://www.mfat.govt.nz/en/about-us/mfat75/75-our-story/)
-* [Digital.gov: Multimedia storytelling in government - Ghazni Towers Documentation Project](https://digital.gov/2014/10/03/multimedia-storytelling-in-government-ghazni-towers-documentation-project/)
 * [U.S. Department of Interior – Instagram](https://www.instagram.com/usinterior/)
 * [National Park Service - Instagram](https://www.instagram.com/nationalparkservice/)
 * [Government of Canada – Agriculture and Agri-Food – Good News Grows](https://agriculture.canada.ca/en/agri-info/good-news-grows)

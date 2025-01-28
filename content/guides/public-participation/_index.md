@@ -28,7 +28,7 @@ This is only the beginning, however, and we hope the plays will quickly expand a
 
 ## How was the playbook developed?
 
-The U.S. Public Participation Playbook was created in an unprecedented collaboration of seventy federal managers from more than three dozen federal programs with more than a dozen citizen engagement experts from organizations including the OpenGov Foundation, the National Coalition for Dialogue & Deliberation, World Bank, Deliberative Democracy Consortium and the Sunlight Foundation. It was created in [an open, transparent process](https://www.digitalgov.gov/2014/12/17/3rd-u-s-public-participation-playbook-draft-released-this-month/) that included three public comment periods.
+The U.S. Public Participation Playbook was created in an unprecedented collaboration of seventy federal managers from more than three dozen federal programs with more than a dozen citizen engagement experts from organizations including the OpenGov Foundation, the National Coalition for Dialogue & Deliberation, World Bank, Deliberative Democracy Consortium and the Sunlight Foundation. It was created in an open, transparent process that included three public comment periods.
 
 While the playbook was developed for federal managers to use initially, we see immediate benefit in expanding and enriching the content with the perspectives and experiences of all levels of public service, both offline and digital &#8212; we invite you to help achieve this.
 
