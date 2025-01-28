@@ -151,7 +151,6 @@ resource_topics:
 
 - [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 - [Eight Principles of Mobile-Friendliness](https://digital.gov/resources/mobile/principles/)
-- [A Guide to Creating Mobile-Friendly Websites](https://digital.gov/resources/guide-create-mobile-friendly-websites/)
 - [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}})
     - [Mobile Code Sharing Catalog]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
 - [Mobile Development Strategies](https://digital.gov/resources/mobile-development-strategies/)

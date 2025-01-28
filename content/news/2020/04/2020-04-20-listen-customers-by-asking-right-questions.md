@@ -97,11 +97,6 @@ When we listen, we learn. We’d like your help in learning what actions federal
 
 We’ll be taking your answers and using them to create content on Digital.gov to provide you with the guidance and tools you need.
 
-## Up Next
-
-- April 23, 2020: Learn about [the basics of the Digital Analytics Program (DAP)](https://digital.gov/event/2020/04/23/dap-learning-series-an-introduction-basics/)—the interface, common terminology, and basic reports in Google Analytics.
-- May 27, 2020: Become a [DAP Certified Analyst](https://digital.gov/event/2020/05/27/dap-learning-series-become-a-dap/)! Join the DAP team to learn about the DAP exam and how you can use it to demonstrate your analytics mastery.
-
 ## From the Field
 
 > Be a person. Don't be a drone or some person in this big office building. Say, ‘my name is Tim and I am a Marine Corps veteran as well.’ That is empathy and about connecting with your customer. —Tim Hudak, communications lead for the [Veterans Experience Office](https://www.va.gov/ve/).
