@@ -46,7 +46,7 @@ It can be tough to get your organization to prioritize UX, but the right documen
 
 There are lots of UX documents out there—your goal is to choose the ones that help you tell your user’s story, address pain points, and get the team on board with your UX improvement recommendations. It helps if your documentation establishes a clear business case (costs avoided, money saved, potential increases in revenue) for those improvements, but don’t speculate if you don’t have the numbers to back it up.
 
-**[Personas](https://digital.gov/2015/01/09/personas-101/)** are normally represented visually as a cluster of mocked-up “user” profiles that can help teams understand user needs, behaviors, and use context. You may have seen personas that use funny photos or unnecessary details—don’t do this. It distracts and detracts from the purpose of a persona: to act as a stand-in for a real user and help the team design toward real user needs. Personas should be created early in the project so your team can better target your designs and content.
+**[Personas](https://digital.gov/2023/05/19/personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs/)** are normally represented visually as a cluster of mocked-up “user” profiles that can help teams understand user needs, behaviors, and use context. You may have seen personas that use funny photos or unnecessary details—don’t do this. It distracts and detracts from the purpose of a persona: to act as a stand-in for a real user and help the team design toward real user needs. Personas should be created early in the project so your team can better target your designs and content.
 
 **Good for**: framing design and content around users and their needs
 
