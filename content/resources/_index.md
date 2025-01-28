@@ -66,7 +66,6 @@ resource_topics:
   strategic_development:
     - best-practices
     - challenges-and-prize-competitions
-    - diversity-equity-and-inclusion
     - governance
     - innovation
     - public-policy

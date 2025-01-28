@@ -4,6 +4,9 @@ title: Challenge and Prize Community Spotlight Chat with the Small Business
 deck: 
 kicker: Spotlight Chat
 summary: A discussion of lessons learned from implementing the Lab-to-Market (L2M) Inclusive Innovation Ecosystem prize competition with members of the prize planning committee, including the White House Office of Science and Technology Policy (OSTP), the U.S. Small Business Administration (SBA), and the Science and Technology Policy Institute (STPI)-- one of three federally funded research and development centers of the Institute for Defense Analyses (IDA), a non-profit corporation that assists the federal government in addressing national security issues.
+
+expirydate: "2025-01-22"
+
 host: Challenge & Prize Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/challenge-prize-community-spotlight-chat-registration-156270187337

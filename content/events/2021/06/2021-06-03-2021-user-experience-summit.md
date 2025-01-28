@@ -23,22 +23,18 @@ primary_image: ux-summit-2021
 
 ---
 
-On **June 22, June 23, and June 24, 2021**, the [User Experience (UX) Community of Practice (CoP)](https://digital.gov/communities/user-experience/) will bring together experts to share their experiences as UX practitioners in the federal government.
-
-Each session will begin at 11:00 am, ET, and conclude at 4:00 pm, ET each day of the summit. There will be a 15-minute break after each presentation.
-
-When registering, please select the days you would like to attend directly on the registration page to receive the correct Zoom for Government links and conference details.
+On **June 22, June 23, and June 24, 2021**, the [User Experience (UX) Community of Practice (CoP)](https://digital.gov/communities/user-experience/) brought together experts to share their experiences as UX practitioners in the federal government.
 
 Please find descriptions and agendas for the summit sessions below:
 
-{{< accordion kicker="Day 1" title="Tuesday, June 22, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
+{{< accordion kicker="Day 1" title="Tuesday, June 22, 2021" icon="content_copy" >}}
 
 
 ## Keynote: The Future of Design Must Be Trauma-Informed (11:00 am - 12:00 pm, ET)
 
-After more than a year of living through a pandemic, we are all experiencing new normals, new ways of being, and new traumas. Rachael Dietkus will talk about her journey from an [AmeriCorps](https://americorps.gov/) member in 1998, to her time as a federal employee from 2010 - 2016, and her current work as a social worker and design researcher focused on trauma in design.
+After more than a year of living through a pandemic, we were are all experiencing new normals, new ways of being, and new traumas. Rachael Dietkus talked about her journey from an [AmeriCorps](https://americorps.gov/) member in 1998, to her time as a federal employee from 2010 - 2016, and her work as a social worker and design researcher focused on trauma in design.
 
-In this session you will hear from the following speaker:
+In this session we heard from the following speaker:
 
 * **Rachael Dietkus**
 
@@ -46,12 +42,12 @@ In this session you will hear from the following speaker:
 
 ## Designing With People of All Abilities (12:30 pm - 1:30 pm, ET)
 
-When it comes to accessibility more needs to be done to understand how we can best design with people of all abilities. At the [U.S. General Services Administration (GSA)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services), teams such as [18F](https://18f.gsa.gov/), the Technology Transformation Services (TTS) Research Guild, and the TTS Accessibility Guild have been spearheading work to help define best practices. This presentation will highlight approaches to incorporate accessibility in your design practice.
+When it comes to accessibility more needs to be done to understand how we can best design with people of all abilities. At the [U.S. General Services Administration (GSA)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services), teams such as [18F](https://18f.gsa.gov/), the Technology Transformation Services (TTS) Research Guild, and the TTS Accessibility Guild have been spearheading work to help define best practices. This presentation highlighted approaches to incorporate accessibility in your design practice.
 
 {{< asset-static file="2021-ux-summit-designing-with-people-of-all-abilities.pptx" label="View the slides (PowerPoint presentation, 14.9 MB, 61 pages)" >}}
 
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Robert Jolly** &mdash; 18F, GSA TTS
 * **Ben Peterson** &mdash; GSA
@@ -63,11 +59,11 @@ In this session you will hear from the following speakers:
 
 ## Engaging Employees: A Critical Step To Improving the Customer Experience (CX) (1:45 pm - 2: 45 pm, ET)
 
-Improving the customer experience (CX) starts with improving the employee experience. Leaders that actively empower and engage their employees know that they alone can’t holistically improve their customers’ experiences. They understand that it’s critical for their employees to feel valued and engaged in order for them to want to provide outstanding service and create positive customer experiences. Learn how one government agency discovered the vital behaviors that lead to engaged employees and replicate it at your agency.
+Improving the customer experience (CX) starts with improving the employee experience. Leaders that actively empower and engage their employees know that they alone can’t holistically improve their customers’ experiences. They understand that it’s critical for their employees to feel valued and engaged in order for them to want to provide outstanding service and create positive customer experiences. We learned how one government agency discovered the vital behaviors that lead to engaged employees and replicate it at your agency.
 
 {{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint presentation, 3.06 MB, 27 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Airis Gill** &mdash; U.S. Department of Veterans Affairs (VA)
 * **Morgan Montes**, Washington State Department of Revenue
@@ -81,7 +77,7 @@ UX practitioners value data and evidence. But who determines 1) what data matter
 
 {{< asset-static file="ux-summit-humanizing-data-and-success-metrics-accessible.pptx" label="View the slides (PowerPoint presentation, 7.4 MB, 35 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Felipe Flores** &mdash; Office of Personnel Management (OPM)
 * **Marc Hebert** &mdash; City and County of San Francisco, Human Services Agency
@@ -92,22 +88,7 @@ In this session you will hear from the following speakers:
 
 ---
 
-{{< accordion kicker="Day 2" title="Wednesday, June 23, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
-
-## Equity-Centered Design: Challenges in Government (11:00 am - 12:00 pm, ET)
-
-18F’s research practice is evolving from user-centered design toward equity-centered design, an approach that addresses power imbalances between researchers and participants. Equity-centered design seeks to provide value back to participants. It provides mechanisms to identify potential hazards and harms in the services and products we create. Prioritizing equity can result in safer, more equitable access to government services for everyone, including those in marginalized groups. In this session we’ll share our vision of a more equitable 18F research practice, how we’re overcoming government-specific hurdles to engage in better collaboration with research participants and communities, and tips you can incorporate into your practice.
-
-{{< asset-static file="equity-centered-design-revised.pptx" label="View the slides (PowerPoint presentation, 3.54 MB, 44 pages)" >}}
-
-In this session you will hear from the following speakers:
-
-* **Ben Peterson** &mdash; 18F, GSA
-* **Julie Strothman** &mdash; 18F, GSA
-
-{{< youtube id="j1ZJO8maV7s" title="UX Summit 2021: Equity-Centered Design: Challenges in Government" >}}
-
-- - -
+{{< accordion kicker="Day 2" title="Wednesday, June 23, 2021" icon="content_copy" >}}
 
 ## Building Empathy Remotely (12:30 pm - 12:50 pm, ET)
 
@@ -115,7 +96,7 @@ Remote design research presents a myriad of challenges, and one of the more abst
 
 {{< asset-static file="remote-empathy-revised.pptx" label="View the slides (PowerPoint presentation, 24.3 MB, 20 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Alexander Hoover** &mdash; U.S. Department of Homeland Security (DHS)
 * **Elyse Voegeli** &mdash; New York City Mayor's Office of the Chief Technology Officer
@@ -130,8 +111,7 @@ When user research and usability face tightening deadlines, deadlines usually wi
 
 
 {{< asset-static file="engaging-employees-cx.pptx" label="View the slides (PowerPoint presentation, 3.06 MB, 27 pages)" >}}
-In this session yo
-u will hear from the following speaker:
+In this session we heard from the following speaker:
 
 * **Tait Chamberlain** &mdash; U.S. Department of Education (ED)
 
@@ -141,11 +121,11 @@ u will hear from the following speaker:
 
 ## Discovery Research for Government Application Programming Interfaces (APIs): Why and How (1:10 pm - 1:30 pm, ET)
 
-Why invest in discovery research to design APIs for government services? What methods to use and what questions to ask? This presentation will share learnings from the U.S. Department of Veterans Affairs (VA) API platform, [VA Lighthouse APIs](https://developer.va.gov/). We conduct discovery research to design API functionality that enables Veterans to apply for and appeal benefits. In line with a human-centered design approach to APIs, we use an ethnography framework to approach problems from the perspective of the people who use and manage these benefits, and make sure we’re designing APIs that answer Veterans’ questions and address their needs.
+Why invest in discovery research to design APIs for government services? What methods to use and what questions to ask? This presentation shared learnings from the U.S. Department of Veterans Affairs (VA) API platform, [VA Lighthouse APIs](https://developer.va.gov/). We conduct discovery research to design API functionality that enables Veterans to apply for and appeal benefits. In line with a human-centered design approach to APIs, we use an ethnography framework to approach problems from the perspective of the people who use and manage these benefits, and make sure we’re designing APIs that answer Veterans’ questions and address their needs.
 
 {{< asset-static file="va-oit-gov-ux-summit.pptx" label="View the slides (PowerPoint presentation, 1.21 MB, 36 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Andrew Fichter** &mdash; U.S. Department of Veterans Affairs (VA)
 * **Maria Vidart-Delgado** &mdash; Contractor, U.S. Department of Veterans Affairs (VA)
@@ -161,7 +141,7 @@ Have you ever wanted to conduct a card sort or tree test, but didn’t have the 
 {{< asset-static file="open-source-information-architecture-rev.pptx" label="View the slides (PowerPoint presentation, 24.1 MB, 60 pages)" >}}
 
 
-In this session you will hear from the following speaker:
+In this session we heard from the following speaker:
 
 * **Shannon McHarg** &mdash; Office of Natural Resources Revenue (ONRR)
 
@@ -174,7 +154,7 @@ Learn how [journey mapping](https://en.wikipedia.org/wiki/User_journey) can help
 {{< asset-static file="journey-mapping-access-to-justice.pptx" label="View the slides (PowerPoint presentation, 2.64 MB, 13 pages)" >}}
 
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Crystal Sprage** &mdash; Wyandotte County, KS
 * **Daniel Yi** &mdash; U.S. Department of Justice (DOJ)
@@ -185,15 +165,15 @@ In this session you will hear from the following speakers:
 
 ---
 
-{{< accordion kicker="Day 3" title="Thursday, June 24, 2021 11:00 AM – 4:00 PM ET" icon="content_copy" >}}
+{{< accordion kicker="Day 3" title="Thursday, June 24, 2021" icon="content_copy" >}}
 
 ## Conscious Uncoupling: Innovative Ways To Separate User Habits From User Needs (11:00 am - 12:00 pm, ET)
 
-We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We'll share creative ways to get to the root of behavior and uncover what users really need.
+We all do things out of habit, whether it’s thawing chicken in the microwave or instinctively clicking the farthest right button to submit a form. But what happens when your users don’t understand why they’re doing things a certain way, when behavior is so ingrained that they can’t differentiate the what from the why? At the U.S. Tax Court, we encountered such habitual thinking while modernizing a decades-old legacy system, where behaviors were unwittingly shaped by technical limitations, systematic training issues, and “that’s just how it is” thinking. We shared creative ways to get to the root of behavior and uncover what users really need.
 
 {{< asset-static file="conscious-uncoupling-uxsummit-revised.pptx" label="View the slides (PowerPoint presentation, 5.72 MB, 39 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Natalie Kurz** &mdash; Contractor, U.S. Tax Court
 * **Kristen Lohman** &mdash; Contractor, U.S. Tax Court
@@ -203,9 +183,9 @@ In this session you will hear from the following speakers:
 
 ## Patient-Powered Innovations: Framing Problems Into Opportunities With Health+ (12:30 pm - 12:50 pm, ET)
 
-As designers and technologists in government, how can we put the American people first, listening and learning from them every step of the way? In this talk, you'll hear about how the [Health+](https://www.hhs.gov/cto/initiatives/digital-services/health-plus/index.html) methodology at the Department of Health and Human Services (HHS) facilitates patient-centered innovations as part of the [LymeX](https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html) public-private partnership. You'll learn about the playbook we've created to frame problems effectively, starting first and foremost with your stakeholders that are experts in their lived experiences. You'll also learn about how to apply these human-centered design methods in your own projects.
+As designers and technologists in government, how can we put the American people first, listening and learning from them every step of the way? In this talk, we heard about how the [Health+](https://www.hhs.gov/cto/initiatives/digital-services/health-plus/index.html) methodology at the Department of Health and Human Services (HHS) facilitates patient-centered innovations as part of the [LymeX](https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html) public-private partnership. We learned about the playbook we've created to frame problems effectively, starting first and foremost with your stakeholders that are experts in their lived experiences. We also learned about how to apply these human-centered design methods in your own projects.
 
-In this session you will hear from the following speaker:
+In this session we heard from the following speaker:
 
 * **Alex Wilson** &mdash; HHS
 
@@ -213,13 +193,13 @@ In this session you will hear from the following speaker:
 
 ## Overturning Precedent, Applying Human-Centered Design to Legal Matters (12:50 pm - 1:10 pm, ET)
 
-Designers across government must build rapport with subject matter experts (SMEs) in economics, policy, and other fields who often bring an analytical approach that clashes with the creative methods of design. How do we build bridges across disciplines? This case study will share insights on the application of a human-centered design approach to the [Equal Employment Opportunity process at the Consumer Financial Protection Bureau](https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/) (CFPB). Learn about ways to develop frameworks for co-creation with SMEs, navigating differences between legalese, service design, and plain language, as well as how to move from procedural actions to intentional interactions.
+Designers across government must build rapport with subject matter experts (SMEs) in economics, policy, and other fields who often bring an analytical approach that clashes with the creative methods of design. How do we build bridges across disciplines? This case study shared insights on the application of a human-centered design approach to the [Equal Employment Opportunity process at the Consumer Financial Protection Bureau](https://www.consumerfinance.gov/office-civil-rights/eeo-policy-and-reports/) (CFPB). Learn about ways to develop frameworks for co-creation with SMEs, navigating differences between legalese, service design, and plain language, as well as how to move from procedural actions to intentional interactions.
 
 [View the slides](overturning-precedent-alexis-finalrev.pptx) (PowerPoint presentation, 412 KB, 10 pages)
 
 
 
-In this session you will hear from the following speaker:
+In this session we heard from the following speaker:
 
 * **Alexis Schilf** &mdash; CFPB
 
@@ -233,7 +213,7 @@ In order to improve customer experience at the Nuclear Regulatory Commission (NR
 
 {{< asset-static file="nrc-cxslides-second.pptx" label="View the slides, part 2 (PowerPoint presentation, 12.1 MB, 5 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Sarah Bever** &mdash; Contractor
 * **Scott Flanders** &mdash; NRC
@@ -249,7 +229,7 @@ State-level digital service teams are still a relatively new entity in the civic
 
 {{< asset-static file="iterating-on-a-state-level-colorado.pptx" label="View the slides (PowerPoint presentation, 1.30 MB, 22 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Stephanie Cain** &mdash; Colorado Digital Service
 * **Randy Hart** &mdash; 18F, GSA TTS
@@ -265,7 +245,7 @@ Human-centered design is critical to the success of building modern services. Es
 
 {{< asset-static file="you-human-centered-designer-ux-summit.pptx" label="View the slides (PowerPoint presentation, 12.8 MB, 38 pages)" >}}
 
-In this session you will hear from the following speakers:
+In this session we heard from the following speakers:
 
 * **Alberto Colon Viera** &mdash; CMS
 * **Nicole Pham** &mdash; CMS
@@ -275,4 +255,4 @@ In this session you will hear from the following speakers:
 
 ---
 
-_The 2021 Government UX Summit is sponsored by the [User Experience (UX) Community of Practice (CoP)](https://digital.gov/communities/user-experience/) and Digital.gov._
+_The 2021 Government UX Summit wes sponsored by the [User Experience (UX) Community of Practice (CoP)](https://digital.gov/communities/user-experience/) and Digital.gov._

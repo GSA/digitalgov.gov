@@ -13,6 +13,9 @@ summary: In 2015, TTS created a Slack bot to help us use more inclusive
   language. Over time, we found this bot could use some improvements. So
   starting in 2019, we began conducting research and iterating on our bot to
   further our goal of a welcoming, inclusive culture.
+
+expirydate: "2025-01-22"
+
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

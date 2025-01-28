@@ -14,7 +14,11 @@ topics:
 
 The second annual [DigitalGov Citizen Services Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.
 
-{{< tweet user="BernettaReese" id="601377952014696449" >}}
+<blockquote class="twitter-tweet" data-width="500">
+<p lang="en">We've kicked off the <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> Summit with @USCTO <a href="https://twitter.com/jakegab">@jakegab</a> <a href="https://twitter.com/gwynnek">@gwynnek</a> @PSChrousos! Hope you are tuned in!</p>
+  
+<p>&mdash; Bernetta Reese (@BernettaReese) May 21, 2015</p>
+</blockquote>
 
 {{< tweet user="Digital_Gov" id="601116228015542273" >}}
 
@@ -34,7 +38,11 @@ Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technolo
 
 Dr. David Bray, Chief Information Officer for the Federal Communications Commission and 2015 Eisenhower Fellow, talked about going exponential and the Internet of Everything, and encouraged federal employees to become #ChangeAgents.
 
-{{< tweet user="BernettaReese" id="601102824252936193" >}}
+<blockquote class="twitter-tweet" data-width="500">
+<p lang="en">Counting down till the <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a> Summit tomorrow! In person or online, we'll see you soon! <a href="https://twitter.com/gwynnek">@gwynnek</a> <a href="https://twitter.com/CorinaDuBois">@CorinaDuBois</a> <a href="https://twitter.com/JustinHerman">@JustinHerman</a> <a href="https://twitter.com/jakegab">@jakegab</a></p>
+  
+<p>&mdash; Bernetta Reese (@BernettaReese) May 20, 2015</p>
+</blockquote>
 
 {{< tweet user="alyciap1" id="601392825348050944" >}}
 
@@ -60,9 +68,11 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make &#35;DigitalGov15 such a success!
 
-{{< tweet user="BernettaReese" id="601102824252936193" >}}
-
-{{< tweet user="BernettaReese" id="601385199994327040" >}}
+<blockquote class="twitter-tweet" data-width="500">
+<p lang="en">We are trending in the US! You all rock! Keep the tweets coming! #DigitalGov15 <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a></p>
+  
+<p>&mdash; Bernetta Reese (@BernettaReese) May 21, 2015</p>
+</blockquote>
 
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
