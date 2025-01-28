@@ -79,8 +79,5 @@ featured_links:
   - title: "How to track performance"
     summary: "A step-by-step guide to picking metrics and tools for tracking performance on your site."
     href: "https://designsystem.digital.gov/performance/how/"
-  - title: "How to contract for mobile development services"
-    summary: "Find out how to structure a Statement of Work (SOW) for the development of mobile products."
-    href: "https://digital.gov/resources/mobile-sow-and-developer-qualifications/"
 
 ---
