@@ -14,8 +14,6 @@ topics:
 
 Digital innovators from across government were asked to think of technology as digital service for their country at today&#8217;s [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/).
 
-[metaslider id=274602]
-
 The theme of this year&#8217;s Summit was "open." The agenda was packed with presentations about how "opening" data, content, contracts, and talent makes digital citizen services better, more effective or even cheaper. A diverse array of topics were addressed, including privacy and identity management, 3D printing, and agile methodology.
 
 Megan Smith, U.S. Chief Technology Officer, opened the Summit, challenging all techies in government to help solve problems and be part of decision-making at the highest levels of government.
