@@ -4,6 +4,8 @@ title: "Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection
 deck: "Members of the Latinx employee resource group share their stories of public service."
 summary: "In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service."
 
+expirydate: "2025-01-26"
+
 # See all topics at https://digital.gov/topics
 topics:
   - diversity-equity-and-inclusion
