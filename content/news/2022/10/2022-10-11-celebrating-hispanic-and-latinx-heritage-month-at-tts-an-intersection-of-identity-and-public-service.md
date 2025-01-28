@@ -4,6 +4,8 @@ title: "Celebrating Hispanic (and Latinx) Heritage Month at TTS: An Intersection
 deck: "Members of the Latinx employee resource group share their stories of public service."
 summary: "In this blog, six Technology Transformation Services (TTS) employees share stories of identity and their paths into public service."
 
+expirydate: "2025-01-26"
+
 # See all topics at https://digital.gov/topics
 topics:
   - diversity-equity-and-inclusion
@@ -23,7 +25,7 @@ weight: 1
 
 At the U.S. General Services Administration (GSA), the Technology Transformation Services (TTS) mission is to design and deliver a digital government by, with, and for the public. TTS has several grassroots-led employee resource groups that create space to share things with one another outside of day-to-day project work, including one for Latinx employees.
 
-To advance and increase the understanding of [Latinx identity in design, tech, and government](https://digital.gov/2022/10/14/latinx-identity-in-design-tech-and-government/) as an inseparable part of American identity, we interviewed colleagues across TTS. We recently asked members of the TTS Latinx employee resource group to talk about identity and why they choose public service. Keep reading to hear what they have to say.
+To advance and increase the understanding of Latinx identity in design, tech, and government as an inseparable part of American identity, we interviewed colleagues across TTS. We recently asked members of the TTS Latinx employee resource group to talk about identity and why they choose public service. Keep reading to hear what they have to say.
 
 <hr width="75%">
 
@@ -236,8 +238,6 @@ In the beginning, I wondered if my accent and background would be seen as a weak
 Using my communications and marketing skills to ensure underrepresented communities in government and tech learn about the [U.S. Digital Corps](https://digitalcorps.gsa.gov/). I am proud of the work we did to recruit and hire the first cohort of fellows from 19 states and territories&mdash;83% of whom are first-time federal employees. I am also proud of the recruitment work we are currently doing for the 2023 cohort by having a presence at events focusing on diversity in tech and government, like the [League of United Latin American Citizens](https://lulac.org/convention22/), the [Tapia](https://tapiaconference.cmd-it.org/) conference, and [Lesbians Who Tech](https://lesbianswhotech.org/sanfrancisco2022/).{{< /note >}}
 
 <hr width="75%">
-
-{{< note >}} Read part two: [Latinx Identity in Design, Tech, and Government: The TTS Latinx employee resource group shares definitions, data, and the importance of representation in civic tech](https://digital.gov/2022/10/14/latinx-identity-in-design-tech-and-government/). {{< /note >}}
 
 ## Join our team
 
