@@ -7,9 +7,9 @@
     {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
     {{- with $author -}}
       {{- if lt (add $i 1) $length -}}
-        "{{ .Type }}-{{- $uid -}}",
+        "{{- $uid -}}",
       {{- else -}}
-        "{{ .Type }}-{{- $uid -}}"
+        "{{- $uid -}}"
       {{- end -}}
     {{- end -}}
   {{- end -}}

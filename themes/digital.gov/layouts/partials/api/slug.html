@@ -1,4 +1,4 @@
-"uid": "{{ .Type }}-{{ default .Name .Params.slug }}",
+"uid": "{{ default .Name .Params.slug }}",
 {{- with .Params.slug -}}
   "slug" : "{{- . -}}",
 {{- end -}}
