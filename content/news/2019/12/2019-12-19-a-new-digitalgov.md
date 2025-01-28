@@ -9,6 +9,8 @@ title: "Welcome to the NEW Digital.gov"
 deck: "It's now easier to find the tools and resources you need to make digital services better, and see examples of problems being solved across government."
 summary: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
 
+expirydate: "2025-01-27"
+
 topics:
   - digital-service-delivery
   - design
