@@ -136,7 +136,5 @@ We hope that soon, it becomes standard practice to meaningfully incorporate the 
 {{< /accordion >}}
 
 ## About the Authors
-
-{{< author-bio "lashanda-hodge" >}}
-
-{{< author-bio "aaron-stienstra" >}}
+### Lashanda Hodge&nbsp;|&nbsp;U.S. General Services Administration
+### Aaron Stienstra&nbsp;|&nbsp;U.S. General Services Administration
