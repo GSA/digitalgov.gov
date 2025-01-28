@@ -1,0 +1,22 @@
+{{- $guidesPages := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- if strings.HasPrefix .File.Path "guides/" -}}
+    {{- $guidesPages = $guidesPages | append . -}}
+  {{- end -}}
+{{- end -}}
+
+{
+  "content": "guides",
+  "items": [
+    {{- $lastIndex := sub (len $guidesPages) 1 -}}
+    {{- range $index, $page := $guidesPages -}}
+    {
+      "title": "{{ $page.Title | safeJS }}",
+      "description": "{{ $page.Params.description | default "" | safeJS }}",
+      "date": "{{ $page.Date | safeJS }}",
+      "permalink": "{{ $page.Permalink | safeJS }}",
+      "relativePermalink": "{{ $page.RelPermalink | safeJS }}"
+    }{{ if lt $index $lastIndex }},{{ end }}
+    {{- end -}}
+  ]
+}
