@@ -8,6 +8,7 @@ summary: Guidance on implementing Executive Order (14035) on Diversity, Equity,
   Inclusion, and Accessibility in the Federal Workforce; specifically, elements
   of the Accessibility Roadmap outlined in the Government-wide DEIA Strategic
   Plan.
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility

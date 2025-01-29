@@ -12,6 +12,8 @@ title: "Diversity, equity, and inclusion"
 deck: "Find out how to incorporate diversity, equity, and inclusion into digital experiences."
 summary: "When digital experiences are designed to be inclusive, they are accessible to all — people with diverse abilities, people who speak different languages, and people from diverse cultural, ethnic, and economic backgrounds. Inclusion creates a better user experience for everyone."
 
+expirydate: "2025-01-22"
+
 # Weight
 weight: 2
 
@@ -38,9 +40,6 @@ featured_links:
   - title: "An introduction to pronouns"
     summary: "Understand how and why to use pronouns."
     href: "https://digital.gov/resources/an-introduction-to-pronouns/"
-  - title: "An introduction to self-description"
-    summary: "Understand how and why to use self-descriptions when introducing yourself during events and presentations."
-    href: "https://digital.gov/resources/introduction-to-self-description/"
   - title: "Diversity, equity, and inclusion resources from the Office of Personnel Management"
     summary: "Explore strategies and actions for agencies to meet their diversity, equity, and inclusion goals."
     href: "https://www.opm.gov/services-for-agencies/diversity-equity-inclusion-and-accessibility/"
