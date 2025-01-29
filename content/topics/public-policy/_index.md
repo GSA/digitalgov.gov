@@ -20,6 +20,7 @@ aliases:
   - /guides/public-policy/policy-types
   - /guides/public-policy/privacy-and-security
   - /topics/policy/
+  - /resources/omb-memos-circulars-executive-orders-and-other-policies/
 
 
 # Weight
