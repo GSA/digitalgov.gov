@@ -19,6 +19,9 @@ summary: "10x funds ideas by federal employees on a wide range of topics related
   creative ways to solve problems? Do you see opportunities where others see
   challenges? Submit an idea&mdash;just 1 to 3 sentences&mdash;by **November
   30**. "
+
+expirydate: "2025-01-26"
+
 # See all topics at https://digital.gov/topics
 topics:
   - innovation

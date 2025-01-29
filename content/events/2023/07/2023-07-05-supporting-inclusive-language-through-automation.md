@@ -3,6 +3,9 @@ title: Supporting inclusive language through automation
 kicker: Communicators
 summary: "Join us as we learn about our Inclusion Bot and how it helps to create an inclusive culture in the workplace."
 host: Communicators Community of Practice
+
+expirydate: "2025-01-22"
+
 event_organizer: Digital.gov
 registration_url: "https://gsa.zoomgov.com/webinar/register/WN_K_Q-mZ0URjypymxmVl8OMA"
 date: 2023-07-19 13:00:00 -0500
@@ -11,7 +14,6 @@ end_date: 2023-07-19 14:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery
-  - diversity-equity-and-inclusion
   - communication
   - open-data
   - open-source
