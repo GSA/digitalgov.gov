@@ -137,7 +137,6 @@ U.S. government websites should provide regular web metrics, search, and custome
 
 ### Additional Resources
 
-* [Digital metrics for federal agencies](https://digital.gov/2013/07/15/digital-metrics-for-federal-agencies/) — Digital.gov
 * [The U.S. government's web traffic](https://analytics.usa.gov/) — Analytics.USA.gov
 * [Research report on web accessibility metrics](https://www.w3.org/TR/accessibility-metrics-report/) — W3.org
 * [Shifting your metrics mindset](https://www.youtube.com/watch?v=JFIEXzJfFlM&list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba&index=7)  — Digital.gov video

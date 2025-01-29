@@ -27,7 +27,6 @@ Enable broad participation by offering responsive, accessible, intuitive, mobile
 
 - The White House [Engage website](http://www.whitehouse.gov/engage "Engage website") allows citizens to submit questions and comments, join online events, and engage with government via social media.
 - USDA.gov underwent a major redesign to improve participant experience and usability. They used analytics and lessons learned from prior redesigns to determine popular content and participant preferences. This [blog entry](http://blogs.usda.gov/2013/07/24/streamlined-design-and-new-features-for-usda-gov/ "blog entry") provides an overview of their redesign process.
-- The [NOAA Release Mako Mobile App](https://www.digitalgov.gov/2013/11/14/noaa-release-mako-now-on-ios/ "NOAA Release Mako Mobile App") allows fishermen to report their releases of Shortfin Mako sharks while in the water. The app uses a device’s built-in GPS to fill in exact location coordinates.
 
 ### Resources
 
