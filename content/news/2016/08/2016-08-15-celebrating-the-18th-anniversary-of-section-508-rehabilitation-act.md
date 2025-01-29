@@ -328,9 +328,9 @@ The Dept. of Health and Human Services shares their Section 508 plans and milest
     </td>
   </tr>
   <tr>
-    <th colspan="7" scope="row" align="left">
+    <td colspan="7" scope="row" align="left">
       <em>* This is partial data for the last 6 months; please <a title="View 508 Compliance Leaderboards" href="http://www.hhs.gov/web/section-508/compliance-and-remediation/leaderboards/index.html">visit HHS’s site</a> for the full year, August 2015 to July 2016.</em>
-    </th>
+    </td>
   </tr>
 </table>
 
