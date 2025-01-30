@@ -18,7 +18,7 @@ aliases:
   - /topics/customer-satisfaction/
   - /topics/customer-service/
   - /topics/cx/
-  - /resources/customer-experience-toolkit/
+  - /resources/government-customer-service-policies-requirements-1993-to-present/
 
 # Weight
 weight: 2
