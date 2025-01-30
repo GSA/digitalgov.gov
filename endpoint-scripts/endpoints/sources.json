@@ -1,718 +1,607 @@
 {
-    "version":"https://jsonfeed.org/version/1",
-    "content":"sources",
-    "type":"list",
-    "home_page_url":"http://localhost:1313/",
-    "count":"53",
-    "feed_url":"http://localhost:1313/sources/index.json",
-    "items":[
-       {
-          "slug":"10x",
-          "name":"10x",
-          "summary":"10x funds, supports, and develops ideas from federal employees about how technology can improve the public’s experience with the government.",
-          "domain":"https://10x.gsa.gov",
-          "weight":"1",
-          "branch":"main",
-          "filename":"source_10x.md",
-          "filepath":"sources/source_10x.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_10x.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_10x.md",
-          "url":"http://localhost:1313/sources/10x/"
-       },
-       {
-          "slug":"dap",
-          "name":"Digital Analytics Program",
-          "summary":"DAP is a free analytics tool for measuring digital services in the federal government.",
-          "domain":"https://digital.gov/guides/dap",
-          "weight":"1",
-          "topics":{
-             "analytics":"Analytics"
-          },
-          "branch":"main",
-          "filename":"source_dap.md",
-          "filepath":"sources/source_dap.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_dap.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_dap.md",
-          "url":"http://localhost:1313/sources/dap/"
-       },
-       {
-          "slug":"dotgov",
-          "name":"DotGov Registry",
-          "summary":"We make it easy to register and manage a .gov domain for U.S.-based government organizations.",
-          "domain":"https://home.dotgov.gov",
-          "weight":"1",
-          "branch":"main",
-          "filename":"source_dotgov.md",
-          "filepath":"sources/source_dotgov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_dotgov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_dotgov.md",
-          "url":"http://localhost:1313/sources/dotgov/"
-       },
-       {
-          "slug":"logingov",
-          "name":"Login.gov",
-          "summary":"Login.gov provides a simple, secure, and private way for the public to access government websites.",
-          "domain":"https://www.login.gov",
-          "weight":"1",
-          "topics":{
-             "content-strategy":"Content Strategy",
-             "product-and-project-management":"Product and project management",
-             "security":"Security"
-          },
-          "branch":"main",
-          "filename":"source_logingov.md",
-          "filepath":"sources/source_logingov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_logingov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_logingov.md",
-          "url":"http://localhost:1313/sources/logingov/"
-       },
-       {
-          "slug":"open-opps",
-          "name":"Open Opportunities",
-          "summary":"Discover opportunities across government that will help you build and make connections.",
-          "domain":"https://openopps.usajobs.gov",
-          "weight":"1",
-          "topics":{
-             "professional-development":"Professional Development"
-          },
-          "branch":"main",
-          "filename":"source_open-opps.md",
-          "filepath":"sources/source_open-opps.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_open-opps.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_open-opps.md",
-          "url":"http://localhost:1313/sources/open-opps/"
-       },
-       {
-          "slug":"18f",
-          "name":"18F",
-          "summary":"",
-          "domain":"https://18f.gsa.gov",
-          "branch":"main",
-          "filename":"source_18f.md",
-          "filepath":"sources/source_18f.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_18f.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_18f.md",
-          "url":"http://localhost:1313/sources/18f/"
-       },
-       {
-          "slug":"ai-gov",
-          "name":"AI.gov",
-          "summary":"AI.gov connects the American people with information on federal government activities advancing the design, development, and responsible use of trustworthy artificial intelligence.",
-          "domain":"https://www.ai.gov/",
-          "topics":{
-             "artificial-intelligence":"Artificial intelligence"
-          },
-          "branch":"main",
-          "filename":"source_ai-gov.md",
-          "filepath":"sources/source_ai-gov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_ai-gov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_ai-gov.md",
-          "url":"http://localhost:1313/sources/ai-gov/"
-       },
-       {
-          "slug":"aousc",
-          "name":"Administrative Office of the U.S. Courts",
-          "summary":"The AOUSC provides staff support and counsel to the Judicial Conference and its committees.",
-          "domain":"https://www.uscourts.gov",
-          "branch":"main",
-          "filename":"source_aousc.md",
-          "filepath":"sources/source_aousc.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_aousc.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_aousc.md",
-          "url":"http://localhost:1313/sources/aousc/"
-       },
-       {
-          "slug":"cdc",
-          "name":"CDC",
-          "summary":"",
-          "domain":"https://www.cdc.gov/",
-          "branch":"main",
-          "filename":"source_cdc.md",
-          "filepath":"sources/source_cdc.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_cdc.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_cdc.md",
-          "url":"http://localhost:1313/sources/cdc/"
-       },
-       {
-          "slug":"census",
-          "name":"Census Bureau",
-          "summary":"The Census Bureau's mission is to serve as the nation's leading provider of quality data about its people and economy.",
-          "domain":"https://www.census.gov",
-          "branch":"main",
-          "filename":"source_census.md",
-          "filepath":"sources/source_census.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_census.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_census.md",
-          "url":"http://localhost:1313/sources/census/"
-       },
-       {
-          "slug":"cfpb",
-          "name":"Consumer Financial Protection Bureau",
-          "summary":"Implements and enforces federal consumer financial law, and ensures that markets for consumer financial products are fair, transparent, and competitive.",
-          "domain":"https://www.consumerfinance.gov/",
-          "branch":"main",
-          "filename":"source_cfpb.md",
-          "filepath":"sources/source_cfpb.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_cfpb.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_cfpb.md",
-          "url":"http://localhost:1313/sources/cfpb/"
-       },
-       {
-          "slug":"challengegov",
-          "name":"Challenge.gov",
-          "summary":"",
-          "domain":"https://www.challenge.gov",
-          "branch":"main",
-          "filename":"source_challengegov.md",
-          "filepath":"sources/source_challengegov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_challengegov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_challengegov.md",
-          "url":"http://localhost:1313/sources/challengegov/"
-       },
-       {
-          "slug":"cio-council",
-          "name":"CIO Council",
-          "summary":"The U.S. Chief Information Officer (CIO) and the CIO Council establish standards against which the success of all agency programs can be measured.",
-          "domain":"https://www.cio.gov",
-          "topics":{
-             "acquisition":"Acquisition",
-             "best-practices":"Best practices",
-             "budgeting-and-performance":"Budgeting and performance",
-             "design":"Design",
-             "governance":"Governance",
-             "policy":"Policies and Regulations"
-          },
-          "branch":"main",
-          "filename":"source_cio-council.md",
-          "filepath":"sources/source_cio-council.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_cio-council.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_cio-council.md",
-          "url":"http://localhost:1313/sources/cio-council/"
-       },
-       {
-          "slug":"cisa",
-          "name":"Cybersecurity and Infrastructure Security Agency CISA",
-          "summary":"CISA works with partners to defend against today’s threats and collaborate to build a more secure and resilient infrastructure for the future.",
-          "domain":"https://www.cisa.gov/",
-          "topics":{
-             "security":"Security"
-          },
-          "branch":"main",
-          "filename":"source_cisa.md",
-          "filepath":"sources/source_cisa.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_cisa.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_cisa.md",
-          "url":"http://localhost:1313/sources/cisa/"
-       },
-       {
-          "slug":"citizensciencegov",
-          "name":"CitizenScience.gov",
-          "summary":"CitizenScience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government.",
-          "domain":"https://www.citizenscience.gov",
-          "branch":"main",
-          "filename":"source_citizensciencegov.md",
-          "filepath":"sources/source_citizensciencegov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_citizensciencegov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_citizensciencegov.md",
-          "url":"http://localhost:1313/sources/citizensciencegov/"
-       },
-       {
-          "slug":"cloudgov",
-          "name":"Cloud.gov",
-          "summary":"cloud.gov is a secure and compliant Platform as a Service (PaaS).",
-          "domain":"https://www.cloud.gov",
-          "branch":"main",
-          "filename":"source_cloudgov.md",
-          "filepath":"sources/source_cloudgov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_cloudgov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_cloudgov.md",
-          "url":"http://localhost:1313/sources/cloudgov/"
-       },
-       {
-          "slug":"codegov",
-          "name":"Code.gov",
-          "summary":"Code.gov is the federal government's platform for sharing America's open source software.",
-          "domain":"https://www.code.gov",
-          "branch":"main",
-          "filename":"source_codegov.md",
-          "filepath":"sources/source_codegov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_codegov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_codegov.md",
-          "url":"http://localhost:1313/sources/codegov/"
-       },
-       {
-          "slug":"coe",
-          "name":"The Centers of Excellence",
-          "summary":"Leading federal government technology modernization by helping agencies innovate from within.",
-          "domain":"https://coe.gsa.gov/",
-          "branch":"main",
-          "filename":"source_coe.md",
-          "filepath":"sources/source_coe.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_coe.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_coe.md",
-          "url":"http://localhost:1313/sources/coe/"
-       },
-       {
-          "slug":"congressgov",
-          "name":"Congress.gov",
-          "summary":"Congress.gov, developed and maintained by the Library of Congress, is the official website for U.S. federal legislative information.",
-          "domain":"https://www.congress.gov",
-          "topics":{
-             "policy":"Policies and Regulations",
-             "product-and-project-management":"Product and project management"
-          },
-          "branch":"main",
-          "filename":"source_congressgov.md",
-          "filepath":"sources/source_congressgov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_congressgov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_congressgov.md",
-          "url":"http://localhost:1313/sources/congressgov/"
-       },
-       {
-          "slug":"datagov",
-          "name":"Data.gov",
-          "summary":"The home of the U.S. government's open data. Find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.",
-          "domain":"https://www.data.gov",
-          "topics":{
-             "open-data":"Open data"
-          },
-          "branch":"main",
-          "filename":"source_datagov.md",
-          "filepath":"sources/source_datagov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_datagov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_datagov.md",
-          "url":"http://localhost:1313/sources/datagov/"
-       },
-       {
-          "slug":"dhs",
-          "name":"Department of Homeland Security",
-          "summary":"The mission of the Department of Homeland Security is to secure the nation from the many threats we face.",
-          "domain":"https://www.dhs.gov/",
-          "topics":{
-             "security":"Security"
-          },
-          "branch":"main",
-          "filename":"source_dhs.md",
-          "filepath":"sources/source_dhs.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_dhs.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_dhs.md",
-          "url":"http://localhost:1313/sources/dhs/"
-       },
-       {
-          "slug":"digitalgov",
-          "name":"Digital.gov",
-          "summary":"Digital.gov provides guidance on building better websites and digital services for better government.",
-          "domain":"https://digital.gov",
-          "branch":"main",
-          "filename":"source_digitalgov.md",
-          "filepath":"sources/source_digitalgov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_digitalgov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_digitalgov.md",
-          "url":"http://localhost:1313/sources/digitalgov/"
-       },
-       {
-          "slug":"doi-revenuedata",
-          "name":"Office of Natural Resources Revenue",
-          "summary":"The ONRR collects payments from companies that produce energy and minerals on federal lands, Native American lands, and the Outer Continental Shelf, and distributes them to federal and local governments and Native Americans.",
-          "domain":"https://revenuedata.doi.gov",
-          "topics":{
-             "open-data":"Open data"
-          },
-          "branch":"main",
-          "filename":"source_doi-revenuedata.md",
-          "filepath":"sources/source_doi-revenuedata.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_doi-revenuedata.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_doi-revenuedata.md",
-          "url":"http://localhost:1313/sources/doi-revenuedata/"
-       },
-       {
-          "slug":"doj",
-          "name":"Department of Justice",
-          "summary":"The mission of the Justice Department is to uphold the rule of law, to keep our country safe, and to protect civil rights.",
-          "domain":"https://www.justice.gov",
-          "topics":{
-             "digital-service-delivery":"Digital Service Delivery"
-          },
-          "branch":"main",
-          "filename":"source_doj.md",
-          "filepath":"sources/source_doj.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_doj.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_doj.md",
-          "url":"http://localhost:1313/sources/doj/"
-       },
-       {
-          "slug":"dol",
-          "name":"Department of Labor",
-          "summary":"Their mission is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.",
-          "domain":"https://www.dol.gov",
-          "branch":"main",
-          "filename":"source_dol.md",
-          "filepath":"sources/source_dol.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_dol.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_dol.md",
-          "url":"http://localhost:1313/sources/dol/"
-       },
-       {
-          "slug":"fcc",
-          "name":"Federal Communications Commission",
-          "summary":"The FCC regulates interstate and international communications by radio, television, wire, satellite and cable in all 50 states, the District of Columbia, and U.S. territories.",
-          "domain":"https://www.fcc.gov",
-          "branch":"main",
-          "filename":"source_fcc.md",
-          "filepath":"sources/source_fcc.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_fcc.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_fcc.md",
-          "url":"http://localhost:1313/sources/fcc/"
-       },
-       {
-          "slug":"federal-it-dashboard",
-          "name":"Federal IT Dashboard",
-          "summary":"Enables agencies and the public to understand the health of IT investments.",
-          "domain":"https://www.itdashboard.gov/",
-          "branch":"main",
-          "filename":"source_federalitdashboard.md",
-          "filepath":"sources/source_federalitdashboard.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_federalitdashboard.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_federalitdashboard.md",
-          "url":"http://localhost:1313/sources/federal-it-dashboard/"
-       },
-       {
-          "slug":"fedramp",
-          "name":"FedRAMP",
-          "summary":"The Federal Risk and Authorization Management Program (FedRAMP) promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment for cloud technologies and federal agencies.",
-          "domain":"https://www.fedramp.gov",
-          "topics":{
-             "security":"Security"
-          },
-          "branch":"main",
-          "filename":"source_fedramp.md",
-          "filepath":"sources/source_fedramp.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_fedramp.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_fedramp.md",
-          "url":"http://localhost:1313/sources/fedramp/"
-       },
-       {
-          "slug":"fema",
-          "name":"Federal Emergency Management Agency",
-          "summary":"The Federal Emergency Management Agency supports American citizens in disaster response, recovery, preparedness and hazard mitigation.",
-          "domain":"https://www.fema.gov/",
-          "branch":"main",
-          "filename":"source_fema.md",
-          "filepath":"sources/source_fema.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_fema.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_fema.md",
-          "url":"http://localhost:1313/sources/fema/"
-       },
-       {
-          "slug":"gao",
-          "name":"Government Accountability Office",
-          "summary":"GAO, an independent, nonpartisan agency, provides Congress and federal agencies with objective, reliable information to help the government save money and work more efficiently.",
-          "domain":"https://www.gao.gov",
-          "branch":"main",
-          "filename":"source_gao.md",
-          "filepath":"sources/source_gao.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_gao.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_gao.md",
-          "url":"http://localhost:1313/sources/gao/"
-       },
-       {
-          "slug":"gov-uk",
-          "name":"GOV.UK",
-          "summary":"",
-          "domain":"https://www.gov.uk",
-          "branch":"main",
-          "filename":"source_gov-uk.md",
-          "filepath":"sources/source_gov-uk.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_gov-uk.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_gov-uk.md",
-          "url":"http://localhost:1313/sources/gov-uk/"
-       },
-       {
-          "slug":"gsa",
-          "name":"General Services Administration",
-          "summary":"",
-          "domain":"https://www.gsa.gov",
-          "branch":"main",
-          "filename":"source_gsa.md",
-          "filepath":"sources/source_gsa.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_gsa.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_gsa.md",
-          "url":"http://localhost:1313/sources/gsa/"
-       },
-       {
-          "slug":"hhs",
-          "name":"U.S. Department of Health and Human Services",
-          "summary":"The mission of the U.S. Department of Health and Human Services (HHS) is to enhance the health and well-being of all Americans, by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.",
-          "domain":"https://www.hhs.gov",
-          "branch":"main",
-          "filename":"source_hhs.md",
-          "filepath":"sources/source_hhs.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_hhs.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_hhs.md",
-          "url":"http://localhost:1313/sources/hhs/"
-       },
-       {
-          "slug":"indian-health-service",
-          "name":"Indian Health Service",
-          "summary":"The Indian Health Service, an agency within the Department of Health and Human Services, is responsible for providing federal health services to American Indians and Alaska Natives.",
-          "domain":"https://www.ihs.gov/",
-          "topics":{
-             "innovation":"Innovation"
-          },
-          "branch":"main",
-          "filename":"source_indian-health-service.md",
-          "filepath":"sources/source_indian-health-service.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_indian-health-service.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_indian-health-service.md",
-          "url":"http://localhost:1313/sources/indian-health-service/"
-       },
-       {
-          "slug":"it-dashboard",
-          "name":"IT Dashboard",
-          "summary":"IT Dashboard enables agencies, OMB, Congress, GAO, and the public to understand the value of their federal IT portfolios, manage the health of their IT investments, and make better IT planning decisions.",
-          "domain":"https://www.itdashboard.gov/",
-          "topics":{
-             "analytics":"Analytics"
-          },
-          "branch":"main",
-          "filename":"source_it-dashboard.md",
-          "filepath":"sources/source_it-dashboard.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_it-dashboard.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_it-dashboard.md",
-          "url":"http://localhost:1313/sources/it-dashboard/"
-       },
-       {
-          "slug":"nara",
-          "name":"National Archives and Records Administration",
-          "summary":"NARA's mission is to drive openness, cultivate public participation, and strengthen our nation’s democracy through equitable public access to high-value government records.",
-          "domain":"https://www.archives.gov",
-          "topics":{
-             "records-management":"Records management"
-          },
-          "branch":"main",
-          "filename":"source_nara.md",
-          "filepath":"sources/source_nara.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_nara.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_nara.md",
-          "url":"http://localhost:1313/sources/nara/"
-       },
-       {
-          "slug":"nasa",
-          "name":"National Aeronautics and Space Administration",
-          "summary":"The National Aeronautics and Space Administration is America’s civil space program and the global leader in space exploration.",
-          "domain":"https://www.nasa.gov",
-          "branch":"main",
-          "filename":"source_nasa.md",
-          "filepath":"sources/source_nasa.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_nasa.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_nasa.md",
-          "url":"http://localhost:1313/sources/nasa/"
-       },
-       {
-          "slug":"national-telecommunications-and-information-administration",
-          "name":"National Telecommunications and Information Administration",
-          "summary":"The National Telecommunications and Information Administration (NTIA) is the Executive Branch agency that is principally responsible by law for advising the President on telecommunications and information policy issues.",
-          "domain":"https://www.ntia.gov/",
-          "branch":"main",
-          "filename":"source_national-telecommunications-and-information-administration.md",
-          "filepath":"sources/source_national-telecommunications-and-information-administration.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_national-telecommunications-and-information-administration.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_national-telecommunications-and-information-administration.md",
-          "url":"http://localhost:1313/sources/national-telecommunications-and-information-administration/"
-       },
-       {
-          "slug":"nih",
-          "name":"National Institutes of Health",
-          "summary":"The National Institutes of Health (NIH), a part of the U.S. Department of Health and Human Services, is the nation’s medical research agency.",
-          "domain":"https://www.nih.gov",
-          "branch":"main",
-          "filename":"source_nih.md",
-          "filepath":"sources/source_nih.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_nih.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_nih.md",
-          "url":"http://localhost:1313/sources/nih/"
-       },
-       {
-          "name":"The Lab at OPM",
-          "summary":"Enables and engages public sector employees to transform their programs, processes, and people through human-centered design.",
-          "domain":"https://lab.opm.gov/",
-          "branch":"main",
-          "filename":"source_opm-labs.md",
-          "filepath":"sources/source_opm-labs.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_opm-labs.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_opm-labs.md",
-          "url":"http://localhost:1313/sources/source_opm-labs/"
-       },
-       {
-          "slug":"opm",
-          "name":"Office of Personnel Management",
-          "summary":"",
-          "domain":"https://www.opm.gov",
-          "branch":"main",
-          "filename":"source_opm.md",
-          "filepath":"sources/source_opm.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_opm.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_opm.md",
-          "url":"http://localhost:1313/sources/opm/"
-       },
-       {
-          "slug":"performancegov",
-          "name":"Performance.gov",
-          "summary":"A window into federal agencies’ efforts to deliver a smarter, leaner, and more effective government.",
-          "domain":"https://www.performance.gov",
-          "branch":"main",
-          "filename":"source_performancegov.md",
-          "filepath":"sources/source_performancegov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_performancegov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_performancegov.md",
-          "url":"http://localhost:1313/sources/performancegov/"
-       },
-       {
-          "slug":"pif",
-          "name":"Presidential Innovation Fellows",
-          "summary":"",
-          "domain":"https://www.presidentialinnovationfellows.gov",
-          "branch":"main",
-          "filename":"source_pif.md",
-          "filepath":"sources/source_pif.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_pif.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_pif.md",
-          "url":"http://localhost:1313/sources/pif/"
-       },
-       {
-          "slug":"plain-language",
-          "name":"PlainLanguage.gov",
-          "summary":"A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010.",
-          "domain":"https://www.plainlanguage.gov",
-          "topics":{
-             "accessibility":"Accessibility",
-             "communication":"Communication",
-             "plain-language":"Plain Language"
-          },
-          "branch":"main",
-          "filename":"source_plain-language.md",
-          "filepath":"sources/source_plain-language.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_plain-language.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_plain-language.md",
-          "url":"http://localhost:1313/sources/plain-language/"
-       },
-       {
-          "slug":"pra-guide",
-          "name":"The Guide to the Paperwork Reduction Act",
-          "summary":"A guide to navigating the Paperwork Reduction Act.",
-          "domain":"https://pra.digital.gov",
-          "topics":{
-             "information-collection":"Information collection"
-          },
-          "branch":"main",
-          "filename":"source_pra-guide.md",
-          "filepath":"sources/source_pra-guide.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_pra-guide.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_pra-guide.md",
-          "url":"http://localhost:1313/sources/pra-guide/"
-       },
-       {
-          "slug":"searchgov",
-          "name":"Search.gov",
-          "summary":"A free search engine by and for the federal government.",
-          "domain":"https://www.search.gov",
-          "branch":"main",
-          "filename":"source_searchgov.md",
-          "filepath":"sources/source_searchgov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_searchgov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_searchgov.md",
-          "url":"http://localhost:1313/sources/searchgov/"
-       },
-       {
-          "slug":"section508gov",
-          "name":"Section508.gov",
-          "summary":"Guidance to Federal agency staff who play a role in IT accessibility.",
-          "domain":"https://www.section508.gov",
-          "topics":{
-             "accessibility":"Accessibility"
-          },
-          "branch":"main",
-          "filename":"source_section508gov.md",
-          "filepath":"sources/source_section508gov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_section508gov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_section508gov.md",
-          "url":"http://localhost:1313/sources/section508gov/"
-       },
-       {
-          "slug":"usagov",
-          "name":"USA.gov",
-          "summary":"",
-          "domain":"https://www.usa.gov",
-          "branch":"main",
-          "filename":"source_usagov.md",
-          "filepath":"sources/source_usagov.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_usagov.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_usagov.md",
-          "url":"http://localhost:1313/sources/usagov/"
-       },
-       {
-          "slug":"usdc",
-          "name":"U.S. Digital Corps",
-          "summary":"A two-year fellowship for early-career technologists to start careers in public service, with professional development and mentorship.",
-          "domain":"https://digitalcorps.gsa.gov/",
-          "branch":"main",
-          "filename":"source_usdc.md",
-          "filepath":"sources/source_usdc.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_usdc.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_usdc.md",
-          "url":"http://localhost:1313/sources/usdc/"
-       },
-       {
-          "slug":"usds",
-          "name":"U.S. Digital Service",
-          "summary":"",
-          "domain":"https://www.usds.gov",
-          "branch":"main",
-          "filename":"source_usds.md",
-          "filepath":"sources/source_usds.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_usds.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_usds.md",
-          "url":"http://localhost:1313/sources/usds/"
-       },
-       {
-          "slug":"uswds",
-          "name":"U.S. Web Design System",
-          "summary":"A design system for the federal government.",
-          "domain":"https://designsystem.digital.gov",
-          "topics":{
-             "design":"Design",
-             "digital-service-delivery":"Digital Service Delivery"
-          },
-          "branch":"main",
-          "filename":"source_uswds.md",
-          "filepath":"sources/source_uswds.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_uswds.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_uswds.md",
-          "url":"http://localhost:1313/sources/uswds/"
-       },
-       {
-          "slug":"va",
-          "name":"U.S. Department of Veterans Affairs",
-          "summary":"VA's mission is to care for those who have served in our nation’s military and for their families, caregivers, and survivors.",
-          "domain":"https://www.va.gov",
-          "branch":"main",
-          "filename":"source_va.md",
-          "filepath":"sources/source_va.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_va.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_va.md",
-          "url":"http://localhost:1313/sources/va/"
-       },
-       {
-          "slug":"whitehouse",
-          "name":"The White House",
-          "summary":"",
-          "domain":"https://whitehouse.gov",
-          "branch":"main",
-          "filename":"source_whitehouse.md",
-          "filepath":"sources/source_whitehouse.md",
-          "filepathURL":"https://github.com/GSA/digitalgov.gov/blob/main/content/sources/source_whitehouse.md",
-          "editpathURL":"https://github.com/GSA/digitalgov.gov/edit/main/content/sources/source_whitehouse.md",
-          "url":"http://localhost:1313/sources/whitehouse/"
-       }
-    ]
- }
+   "content": "sources",
+   "items": [
+      {
+         "field_summary": "10x funds, supports, and develops ideas from federal employees about how technology can improve the public’s experience with the government.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_page_weight": "1",
+         "field_name": "10x",
+         "field_domain": "https://10x.gsa.gov",
+         "field_logo": "10x",
+         "filepath": "/content/sources/source_10x.md",
+         "slug": "10x",
+         "url": "http://localhost:1313/sources/10x/"
+      },
+      {
+         "field_summary": "DAP is a free analytics tool for measuring digital services in the federal government.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_page_weight": "1",
+         "field_name": "Digital Analytics Program",
+         "field_domain": "https://digital.gov/guides/dap",
+         "field_logo": "dap",
+         "field_topics": [
+            "analytics"
+         ],
+         "filepath": "/content/sources/source_dap.md",
+         "slug": "dap",
+         "url": "http://localhost:1313/sources/dap/"
+      },
+      {
+         "field_summary": "We make it easy to register and manage a .gov domain for U.S.-based government organizations.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_page_weight": "1",
+         "field_name": "DotGov Registry",
+         "field_domain": "https://home.dotgov.gov",
+         "field_logo": "dotgov",
+         "filepath": "/content/sources/source_dotgov.md",
+         "slug": "dotgov",
+         "url": "http://localhost:1313/sources/dotgov/"
+      },
+      {
+         "field_summary": "Login.gov provides a simple, secure, and private way for the public to access government websites.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_page_weight": "1",
+         "field_name": "Login.gov",
+         "field_domain": "https://www.login.gov",
+         "field_logo": "logingov",
+         "field_topics": [
+            "content-strategy",
+            "product-and-project-management",
+            "security"
+         ],
+         "filepath": "/content/sources/source_logingov.md",
+         "slug": "logingov",
+         "url": "http://localhost:1313/sources/logingov/"
+      },
+      {
+         "field_summary": "Discover opportunities across government that will help you build and make connections.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_page_weight": "1",
+         "field_name": "Open Opportunities",
+         "field_domain": "https://openopps.usajobs.gov",
+         "field_logo": "open-opps",
+         "field_topics": [
+            "professional-development"
+         ],
+         "filepath": "/content/sources/source_open-opps.md",
+         "slug": "open-opps",
+         "url": "http://localhost:1313/sources/open-opps/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "18F",
+         "field_domain": "https://18f.gsa.gov",
+         "field_logo": "18f",
+         "filepath": "/content/sources/source_18f.md",
+         "slug": "18f",
+         "url": "http://localhost:1313/sources/18f/"
+      },
+      {
+         "field_summary": "AI.gov connects the American people with information on federal government activities advancing the design, development, and responsible use of trustworthy artificial intelligence.",
+         "date_modified": "2024-05-23T19:31:34-04:00",
+         "field_name": "AI.gov",
+         "field_domain": "https://www.ai.gov/",
+         "field_logo": "aigov",
+         "field_topics": [
+            "artificial-intelligence"
+         ],
+         "filepath": "/content/sources/source_ai-gov.md",
+         "slug": "ai-gov",
+         "url": "http://localhost:1313/sources/ai-gov/"
+      },
+      {
+         "field_summary": "The AOUSC provides staff support and counsel to the Judicial Conference and its committees.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Administrative Office of the U.S. Courts",
+         "field_domain": "https://www.uscourts.gov",
+         "field_logo": "aousc",
+         "filepath": "/content/sources/source_aousc.md",
+         "slug": "aousc",
+         "url": "http://localhost:1313/sources/aousc/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "CDC",
+         "field_domain": "https://www.cdc.gov/",
+         "field_logo": "cdc",
+         "filepath": "/content/sources/source_cdc.md",
+         "slug": "cdc",
+         "url": "http://localhost:1313/sources/cdc/"
+      },
+      {
+         "field_summary": "The Census Bureau&rsquo;s mission is to serve as the nation&rsquo;s leading provider of quality data about its people and economy.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Census Bureau",
+         "field_domain": "https://www.census.gov",
+         "field_logo": "census",
+         "filepath": "/content/sources/source_census.md",
+         "slug": "census",
+         "url": "http://localhost:1313/sources/census/"
+      },
+      {
+         "field_summary": "Implements and enforces federal consumer financial law, and ensures that markets for consumer financial products are fair, transparent, and competitive.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Consumer Financial Protection Bureau",
+         "field_domain": "https://www.consumerfinance.gov/",
+         "field_logo": "cfpb",
+         "filepath": "/content/sources/source_cfpb.md",
+         "slug": "cfpb",
+         "url": "http://localhost:1313/sources/cfpb/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Challenge.gov",
+         "field_domain": "https://www.challenge.gov",
+         "field_logo": "challengegov",
+         "filepath": "/content/sources/source_challengegov.md",
+         "slug": "challengegov",
+         "url": "http://localhost:1313/sources/challengegov/"
+      },
+      {
+         "field_summary": "The U.S. Chief Information Officer (CIO) and the CIO Council establish standards against which the success of all agency programs can be measured.",
+         "date_modified": "2024-05-14T17:11:53-04:00",
+         "field_name": "CIO Council",
+         "field_domain": "https://www.cio.gov",
+         "field_logo": "ciocouncil",
+         "field_topics": [
+            "acquisition",
+            "best-practices",
+            "budgeting-and-performance",
+            "design",
+            "governance",
+            "policy"
+         ],
+         "filepath": "/content/sources/source_cio-council.md",
+         "slug": "cio-council",
+         "url": "http://localhost:1313/sources/cio-council/"
+      },
+      {
+         "field_summary": "CISA works with partners to defend against today’s threats and collaborate to build a more secure and resilient infrastructure for the future.",
+         "date_modified": "2024-05-23T19:31:34-04:00",
+         "field_name": "Cybersecurity and Infrastructure Security Agency CISA",
+         "field_domain": "https://www.cisa.gov/",
+         "field_logo": "cisa",
+         "field_topics": [
+            "security"
+         ],
+         "filepath": "/content/sources/source_cisa.md",
+         "slug": "cisa",
+         "url": "http://localhost:1313/sources/cisa/"
+      },
+      {
+         "field_summary": "CitizenScience.gov is an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "CitizenScience.gov",
+         "field_domain": "https://www.citizenscience.gov",
+         "field_logo": "citizensciencegov",
+         "filepath": "/content/sources/source_citizensciencegov.md",
+         "slug": "citizensciencegov",
+         "url": "http://localhost:1313/sources/citizensciencegov/"
+      },
+      {
+         "field_summary": "cloud.gov is a secure and compliant Platform as a Service (PaaS).",
+         "date_modified": "2024-05-23T19:31:34-04:00",
+         "field_name": "Cloud.gov",
+         "field_domain": "https://www.cloud.gov",
+         "field_logo": "cloudgov",
+         "filepath": "/content/sources/source_cloudgov.md",
+         "slug": "cloudgov",
+         "url": "http://localhost:1313/sources/cloudgov/"
+      },
+      {
+         "field_summary": "Code.gov is the federal government&rsquo;s platform for sharing America&rsquo;s open source software.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Code.gov",
+         "field_domain": "https://www.code.gov",
+         "field_logo": "codegov",
+         "filepath": "/content/sources/source_codegov.md",
+         "slug": "codegov",
+         "url": "http://localhost:1313/sources/codegov/"
+      },
+      {
+         "field_summary": "Leading federal government technology modernization by helping agencies innovate from within.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "The Centers of Excellence",
+         "field_domain": "https://coe.gsa.gov/",
+         "field_logo": "coe",
+         "filepath": "/content/sources/source_coe.md",
+         "slug": "coe",
+         "url": "http://localhost:1313/sources/coe/"
+      },
+      {
+         "field_summary": "Congress.gov, developed and maintained by the Library of Congress, is the official website for U.S. federal legislative information.",
+         "date_modified": "2024-04-05T18:57:12-04:00",
+         "field_name": "Congress.gov",
+         "field_domain": "https://www.congress.gov",
+         "field_logo": "congressgov",
+         "field_topics": [
+            "policy",
+            "product-and-project-management"
+         ],
+         "filepath": "/content/sources/source_congressgov.md",
+         "slug": "congressgov",
+         "url": "http://localhost:1313/sources/congressgov/"
+      },
+      {
+         "field_summary": "The home of the U.S. government&rsquo;s open data. Find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Data.gov",
+         "field_domain": "https://www.data.gov",
+         "field_logo": "datagov",
+         "field_topics": [
+            "open-data"
+         ],
+         "filepath": "/content/sources/source_datagov.md",
+         "slug": "datagov",
+         "url": "http://localhost:1313/sources/datagov/"
+      },
+      {
+         "field_summary": "The mission of the Department of Homeland Security is to secure the nation from the many threats we face.",
+         "date_modified": "2024-05-31T18:01:42-04:00",
+         "field_name": "Department of Homeland Security",
+         "field_domain": "https://www.dhs.gov/",
+         "field_logo": "dhs",
+         "field_topics": [
+            "security"
+         ],
+         "filepath": "/content/sources/source_dhs.md",
+         "slug": "dhs",
+         "url": "http://localhost:1313/sources/dhs/"
+      },
+      {
+         "field_summary": "Digital.gov provides guidance on building better websites and digital services for better government.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Digital.gov",
+         "field_domain": "https://digital.gov",
+         "field_logo": "digitalgov",
+         "filepath": "/content/sources/source_digitalgov.md",
+         "slug": "digitalgov",
+         "url": "http://localhost:1313/sources/digitalgov/"
+      },
+      {
+         "field_summary": "The ONRR collects payments from companies that produce energy and minerals on federal lands, Native American lands, and the Outer Continental Shelf, and distributes them to federal and local governments and Native Americans.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Office of Natural Resources Revenue",
+         "field_domain": "https://revenuedata.doi.gov",
+         "field_logo": "doi-revenuedata",
+         "field_topics": [
+            "open-data"
+         ],
+         "filepath": "/content/sources/source_doi-revenuedata.md",
+         "slug": "doi-revenuedata",
+         "url": "http://localhost:1313/sources/doi-revenuedata/"
+      },
+      {
+         "field_summary": "The mission of the Justice Department is to uphold the rule of law, to keep our country safe, and to protect civil rights.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Department of Justice",
+         "field_domain": "https://www.justice.gov",
+         "field_logo": "doj",
+         "field_topics": [
+            "digital-service-delivery"
+         ],
+         "filepath": "/content/sources/source_doj.md",
+         "slug": "doj",
+         "url": "http://localhost:1313/sources/doj/"
+      },
+      {
+         "field_summary": "Their mission is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Department of Labor",
+         "field_domain": "https://www.dol.gov",
+         "field_logo": "dol",
+         "filepath": "/content/sources/source_dol.md",
+         "slug": "dol",
+         "url": "http://localhost:1313/sources/dol/"
+      },
+      {
+         "field_summary": "The FCC regulates interstate and international communications by radio, television, wire, satellite and cable in all 50 states, the District of Columbia, and U.S. territories.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Federal Communications Commission",
+         "field_domain": "https://www.fcc.gov",
+         "field_logo": "fcc",
+         "filepath": "/content/sources/source_fcc.md",
+         "slug": "fcc",
+         "url": "http://localhost:1313/sources/fcc/"
+      },
+      {
+         "field_summary": "Enables agencies and the public to understand the health of IT investments.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Federal IT Dashboard",
+         "field_domain": "https://www.itdashboard.gov/",
+         "field_logo": "federal-it-dashboard",
+         "filepath": "/content/sources/source_federalitdashboard.md",
+         "slug": "federal-it-dashboard",
+         "url": "http://localhost:1313/sources/federal-it-dashboard/"
+      },
+      {
+         "field_summary": "The Federal Risk and Authorization Management Program (FedRAMP) promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment for cloud technologies and federal agencies.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "FedRAMP",
+         "field_domain": "https://www.fedramp.gov",
+         "field_logo": "fedramp",
+         "field_topics": [
+            "security"
+         ],
+         "filepath": "/content/sources/source_fedramp.md",
+         "slug": "fedramp",
+         "url": "http://localhost:1313/sources/fedramp/"
+      },
+      {
+         "field_summary": "The Federal Emergency Management Agency supports American citizens in disaster response, recovery, preparedness and hazard mitigation.",
+         "date_modified": "2024-05-31T11:58:19-04:00",
+         "field_name": "Federal Emergency Management Agency",
+         "field_domain": "https://www.fema.gov/",
+         "field_logo": "fema",
+         "filepath": "/content/sources/source_fema.md",
+         "slug": "fema",
+         "url": "http://localhost:1313/sources/fema/"
+      },
+      {
+         "field_summary": "GAO, an independent, nonpartisan agency, provides Congress and federal agencies with objective, reliable information to help the government save money and work more efficiently.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Government Accountability Office",
+         "field_domain": "https://www.gao.gov",
+         "field_logo": "gao",
+         "filepath": "/content/sources/source_gao.md",
+         "slug": "gao",
+         "url": "http://localhost:1313/sources/gao/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "GOV.UK",
+         "field_domain": "https://www.gov.uk",
+         "field_logo": "gov-uk",
+         "filepath": "/content/sources/source_gov-uk.md",
+         "slug": "gov-uk",
+         "url": "http://localhost:1313/sources/gov-uk/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "General Services Administration",
+         "field_domain": "https://www.gsa.gov",
+         "field_logo": "gsa",
+         "filepath": "/content/sources/source_gsa.md",
+         "slug": "gsa",
+         "url": "http://localhost:1313/sources/gsa/"
+      },
+      {
+         "field_summary": "The mission of the U.S. Department of Health and Human Services (HHS) is to enhance the health and well-being of all Americans, by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "U.S. Department of Health and Human Services",
+         "field_domain": "https://www.hhs.gov",
+         "field_logo": "hhs",
+         "filepath": "/content/sources/source_hhs.md",
+         "slug": "hhs",
+         "url": "http://localhost:1313/sources/hhs/"
+      },
+      {
+         "field_summary": "The Indian Health Service, an agency within the Department of Health and Human Services, is responsible for providing federal health services to American Indians and Alaska Natives.",
+         "date_modified": "2024-01-08T12:53:00-05:00",
+         "field_name": "Indian Health Service",
+         "field_domain": "https://www.ihs.gov/",
+         "field_logo": "ihs",
+         "field_topics": [
+            "innovation"
+         ],
+         "filepath": "/content/sources/source_indian-health-service.md",
+         "slug": "indian-health-service",
+         "url": "http://localhost:1313/sources/indian-health-service/"
+      },
+      {
+         "field_summary": "IT Dashboard enables agencies, OMB, Congress, GAO, and the public to understand the value of their federal IT portfolios, manage the health of their IT investments, and make better IT planning decisions.",
+         "date_modified": "2024-01-17T17:01:46-05:00",
+         "field_name": "IT Dashboard",
+         "field_domain": "https://www.itdashboard.gov/",
+         "field_logo": "itdash",
+         "field_topics": [
+            "analytics"
+         ],
+         "filepath": "/content/sources/source_it-dashboard.md",
+         "slug": "it-dashboard",
+         "url": "http://localhost:1313/sources/it-dashboard/"
+      },
+      {
+         "field_summary": "NARA&rsquo;s mission is to drive openness, cultivate public participation, and strengthen our nation’s democracy through equitable public access to high-value government records.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "National Archives and Records Administration",
+         "field_domain": "https://www.archives.gov",
+         "field_logo": "nara",
+         "field_topics": [
+            "records-management"
+         ],
+         "filepath": "/content/sources/source_nara.md",
+         "slug": "nara",
+         "url": "http://localhost:1313/sources/nara/"
+      },
+      {
+         "field_summary": "The National Aeronautics and Space Administration is America’s civil space program and the global leader in space exploration.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "National Aeronautics and Space Administration",
+         "field_domain": "https://www.nasa.gov",
+         "field_logo": "nasa",
+         "filepath": "/content/sources/source_nasa.md",
+         "slug": "nasa",
+         "url": "http://localhost:1313/sources/nasa/"
+      },
+      {
+         "field_summary": "The National Telecommunications and Information Administration (NTIA) is the Executive Branch agency that is principally responsible by law for advising the President on telecommunications and information policy issues.",
+         "date_modified": "2023-10-12T11:27:31-04:00",
+         "field_name": "National Telecommunications and Information Administration",
+         "field_domain": "https://www.ntia.gov/",
+         "field_logo": "ntia",
+         "filepath": "/content/sources/source_national-telecommunications-and-information-administration.md",
+         "slug": "national-telecommunications-and-information-administration",
+         "url": "http://localhost:1313/sources/national-telecommunications-and-information-administration/"
+      },
+      {
+         "field_summary": "The National Institutes of Health (NIH), a part of the U.S. Department of Health and Human Services, is the nation’s medical research agency.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "National Institutes of Health",
+         "field_domain": "https://www.nih.gov",
+         "field_logo": "nih",
+         "filepath": "/content/sources/source_nih.md",
+         "slug": "nih",
+         "url": "http://localhost:1313/sources/nih/"
+      },
+      {
+         "field_summary": "Enables and engages public sector employees to transform their programs, processes, and people through human-centered design.",
+         "date_modified": "2024-01-08T12:53:00-05:00",
+         "field_name": "The Lab at OPM",
+         "field_domain": "https://lab.opm.gov/",
+         "field_logo": "opm",
+         "filepath": "/content/sources/source_opm-labs.md",
+         "url": "http://localhost:1313/sources/source_opm-labs/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Office of Personnel Management",
+         "field_domain": "https://www.opm.gov",
+         "field_logo": "opm",
+         "filepath": "/content/sources/source_opm.md",
+         "slug": "opm",
+         "url": "http://localhost:1313/sources/opm/"
+      },
+      {
+         "field_summary": "A window into federal agencies’ efforts to deliver a smarter, leaner, and more effective government.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Performance.gov",
+         "field_domain": "https://www.performance.gov",
+         "field_logo": "performancegov",
+         "filepath": "/content/sources/source_performancegov.md",
+         "slug": "performancegov",
+         "url": "http://localhost:1313/sources/performancegov/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Presidential Innovation Fellows",
+         "field_domain": "https://www.presidentialinnovationfellows.gov",
+         "field_logo": "pif",
+         "filepath": "/content/sources/source_pif.md",
+         "slug": "pif",
+         "url": "http://localhost:1313/sources/pif/"
+      },
+      {
+         "field_summary": "A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010.",
+         "date_modified": "2024-05-23T19:31:34-04:00",
+         "field_name": "PlainLanguage.gov",
+         "field_domain": "https://www.plainlanguage.gov",
+         "field_logo": "plainlanguage",
+         "field_topics": [
+            "accessibility",
+            "communication",
+            "plain-language"
+         ],
+         "filepath": "/content/sources/source_plain-language.md",
+         "slug": "plain-language",
+         "url": "http://localhost:1313/sources/plain-language/"
+      },
+      {
+         "field_summary": "A guide to navigating the Paperwork Reduction Act.",
+         "date_modified": "2024-09-25T11:24:18-04:00",
+         "field_name": "The Guide to the Paperwork Reduction Act",
+         "field_domain": "https://pra.digital.gov",
+         "field_logo": "pra-guide",
+         "field_topics": [
+            "information-collection"
+         ],
+         "filepath": "/content/sources/source_pra-guide.md",
+         "slug": "pra-guide",
+         "url": "http://localhost:1313/sources/pra-guide/"
+      },
+      {
+         "field_summary": "A free search engine by and for the federal government.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Search.gov",
+         "field_domain": "https://www.search.gov",
+         "field_logo": "searchgov",
+         "filepath": "/content/sources/source_searchgov.md",
+         "slug": "searchgov",
+         "url": "http://localhost:1313/sources/searchgov/"
+      },
+      {
+         "field_summary": "Guidance to Federal agency staff who play a role in IT accessibility.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "Section508.gov",
+         "field_domain": "https://www.section508.gov",
+         "field_logo": "gsa",
+         "field_topics": [
+            "accessibility"
+         ],
+         "filepath": "/content/sources/source_section508gov.md",
+         "slug": "section508gov",
+         "url": "http://localhost:1313/sources/section508gov/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "USA.gov",
+         "field_domain": "https://www.usa.gov",
+         "field_logo": "usagov",
+         "filepath": "/content/sources/source_usagov.md",
+         "slug": "usagov",
+         "url": "http://localhost:1313/sources/usagov/"
+      },
+      {
+         "field_summary": "A two-year fellowship for early-career technologists to start careers in public service, with professional development and mentorship.",
+         "date_modified": "2024-09-23T18:16:42-04:00",
+         "field_name": "U.S. Digital Corps",
+         "field_domain": "https://digitalcorps.gsa.gov/",
+         "field_logo": "usdc",
+         "filepath": "/content/sources/source_usdc.md",
+         "slug": "usdc",
+         "url": "http://localhost:1313/sources/usdc/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "U.S. Digital Service",
+         "field_domain": "https://www.usds.gov",
+         "field_logo": "usds",
+         "filepath": "/content/sources/source_usds.md",
+         "slug": "usds",
+         "url": "http://localhost:1313/sources/usds/"
+      },
+      {
+         "field_summary": "A design system for the federal government.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "U.S. Web Design System",
+         "field_domain": "https://designsystem.digital.gov",
+         "field_logo": "uswds",
+         "field_topics": [
+            "design",
+            "digital-service-delivery"
+         ],
+         "filepath": "/content/sources/source_uswds.md",
+         "slug": "uswds",
+         "url": "http://localhost:1313/sources/uswds/"
+      },
+      {
+         "field_summary": "VA&rsquo;s mission is to care for those who have served in our nation’s military and for their families, caregivers, and survivors.",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "U.S. Department of Veterans Affairs",
+         "field_domain": "https://www.va.gov",
+         "field_logo": "va",
+         "filepath": "/content/sources/source_va.md",
+         "slug": "va",
+         "url": "http://localhost:1313/sources/va/"
+      },
+      {
+         "field_summary": "",
+         "date_modified": "2024-04-04T16:00:08-04:00",
+         "field_name": "The White House",
+         "field_domain": "https://whitehouse.gov",
+         "field_logo": "whitehouse",
+         "filepath": "/content/sources/source_whitehouse.md",
+         "slug": "whitehouse",
+         "url": "http://localhost:1313/sources/whitehouse/"
+      }
+   ]
+}

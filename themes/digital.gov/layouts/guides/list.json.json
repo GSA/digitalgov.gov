@@ -7,28 +7,22 @@
 
 {
   "content": "guides",
+  "count": {{ len $guidesPages }},
   "items": [
     {{- $lastIndex := sub (len $guidesPages) 1 -}}
     {{- range $index, $page := $guidesPages -}}
     {
-      "field_title": "{{ $page.Title | safeJS }}",
-      "field_kicker": "{{ $page.Params.kicker | safeJS }}",
-      "field_deck": "{{ $page.Params.deck | safeJS }}",
-      "field_summary_box": "TRUE/FALSE",
-      "field_summary": "{{ $page.Params.summary }}",
-      "field_date": "{{ $page.Date | safeJS }}",
+      {{- partial "api/metadata.html" $page -}}
       "field_guide_nav_ref": "{{ $page.Params.guide | safeJS }}",
+      "field_guide_nav_title": "Optional override field",
       "field_glossary": "{{ $page.Params.glossary | safeJS }}",
-      "field_guide_nav_title": "???",
-      "field_page_weight": "{{ $page.Weight | safeJS }}",
       "field_guide_weight": "{{ $page.Params.guide_weight | safeJS }}",
       "field_primary_image": "{{ $page.Params.primary_image | safeJS }}",
       "field_image": "{{ $page.Params.image | safeJS }}",
       {{- partial "api/topics.html" $page -}}
       {{- partial "api/aliases.html" $page -}}
       {{- partial "api/file-info.html" $page -}}
-      "permalink": "{{ $page.Permalink | safeJS }}",
-      "field_url": "{{ $page.RelPermalink | safeJS }}"
+      "url": "{{ $page.RelPermalink | safeJS }}"
     }{{ if lt $index $lastIndex }},{{ end }}
     {{- end -}}
   ]

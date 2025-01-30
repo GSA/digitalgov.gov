@@ -1,35 +1,27 @@
 {
-   "version": "https://jsonfeed.org/version/1",
-   "content": "communities",
-   "type": "list",
-   "title": "Digital.gov Communities of Practice |Digital.gov",
-   "description": "Digital.gov Communities of Practice",
-   "home_page_url": "http://localhost:1313/",
+   "content": "Communities",
    "count": "34",
-   "feed_url": "http://localhost:1313/communities/index.json",
-   "section": "communities",
    "items": [
       {
-         "kicker": "Communities of practice",
-         "title": "Join the Contact Center",
-         "deck": "Share and learn with contact center practitioners.",
-         "summary": "Explore methods of service delivery that improve customer experience in government contact centers.",
-         "date": "2024-06-28T16:36:00-0500",
+         "field_kicker": "Communities of practice",
+         "field_title": "Join the Contact Center",
+         "field_deck": "Share and learn with contact center practitioners.",
+         "field_summary": "Explore methods of service delivery that improve customer experience in government contact centers.",
+         "field_date": "2024-06-28T16:36:00-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "topics": [
             "contact-centers",
             "customer-experience"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "Contact Center",
-         "dg_acronym": "CC",
-         "dg_logo": "communities-contact-center.svg",
-         "member_count": "410",
-         "subscribe_email_subject": "Join the Contact Center Community",
-         "primary_image": "communities-card-contact-center",
-         "filename": "contact-center.md",
-         "filepath": "communities/contact-center.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Contact Center",
+         "field_dg_acronym": "CC",
+         "field_dg_logo": "communities-contact-center.svg",
+         "field_members": "410",
+         "field_subscribe_email_subject": "Join the Contact Center Community",
+         "field_primary_image": "communities-card-contact-center",
+         "filepath": "/content/communities/contact-center.md",
          "aliases": [
             "https://digital.gov/communities/government-contact-center-council-g3c/",
             "https://digital.gov/communities/government-contact-center-council/"
@@ -38,91 +30,85 @@
          "url": "http://localhost:1313/communities/contact-center/"
       },
       {
-         "title": "Records management",
-         "summary": "These communities of interest are for federal staff seeking to improve records management across the government.",
-         "date": "2024-04-16T00:00:00-0500",
+         "field_title": "Records management",
+         "field_summary": "These communities of interest are for federal staff seeking to improve records management across the government.",
+         "field_date": "2024-04-16T00:00:00-0500",
          "date_modified": "2024-04-16T08:59:34-04:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "topics": [
             "records-management"
          ],
-         "filename": "records-management.md",
-         "filepath": "communities/records-management.md",
+         "filepath": "/content/communities/records-management.md",
          "slug": "records-management",
          "url": "http://localhost:1313/communities/records-management/"
       },
       {
-         "title": "Federal Information Security Educators (FISSEA)",
-         "summary": "The organization, formerly known as the Federal Information Systems Security Educators Association (or FISSEA), serves as a professional forum for federal government information security professionals to assist agencies in strengthening their employee cybersecurity awareness and training programs. FISSEA also holds an annual conference.",
-         "date": "2024-04-10T00:00:00-0500",
+         "field_title": "Federal Information Security Educators (FISSEA)",
+         "field_summary": "The organization, formerly known as the Federal Information Systems Security Educators Association (or FISSEA), serves as a professional forum for federal government information security professionals to assist agencies in strengthening their employee cybersecurity awareness and training programs. FISSEA also holds an annual conference.",
+         "field_date": "2024-04-10T00:00:00-0500",
          "date_modified": "2024-04-11T18:15:49-04:00",
-         "weight": "1",
-         "filename": "federal-information-security-educators-fissea.md",
-         "filepath": "communities/federal-information-security-educators-fissea.md",
+         "field_page_weight": "1",
+         "filepath": "/content/communities/federal-information-security-educators-fissea.md",
          "slug": "federal-information-security-educators-fissea",
          "url": "http://localhost:1313/communities/federal-information-security-educators-fissea/"
       },
       {
-         "title": "Federal Evidence and Evaluation",
-         "deck": "",
-         "summary": "For federal executive branch staff interested in evaluation and evidence-building. Connect with peers, share information, access resources and trainings, and sign up for events. Features content to support federal agencies as they implement the Evidence Act.",
-         "date": "2023-12-28T21:48:00-0500",
+         "field_title": "Federal Evidence and Evaluation",
+         "field_deck": "",
+         "field_summary": "For federal executive branch staff interested in evaluation and evidence-building. Connect with peers, share information, access resources and trainings, and sign up for events. Features content to support federal agencies as they implement the Evidence Act.",
+         "field_date": "2023-12-28T21:48:00-0500",
          "date_modified": "2024-01-08T12:53:00-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "topics": [
             "open-data"
          ],
-         "filename": "federal-evidence-and-evaluation.md",
-         "filepath": "communities/federal-evidence-and-evaluation.md",
+         "filepath": "/content/communities/federal-evidence-and-evaluation.md",
          "slug": "federal-evidence-and-evaluation",
          "url": "http://localhost:1313/communities/federal-evidence-and-evaluation/"
       },
       {
-         "title": "Federal Program and Project Management (FedPM)",
-         "summary": "The Federal Program and Project Management (FedPM) Community of Practice is the central source for the sharing of program and project management expertise across the entire federal government.",
-         "date": "2023-11-16T12:16:00-0500",
+         "field_title": "Federal Program and Project Management (FedPM)",
+         "field_summary": "The Federal Program and Project Management (FedPM) Community of Practice is the central source for the sharing of program and project management expertise across the entire federal government.",
+         "field_date": "2023-11-16T12:16:00-0500",
          "date_modified": "2023-11-16T12:51:16-05:00",
-         "weight": "1",
-         "filename": "federal-program-and-project-management-fedpm.md",
-         "filepath": "communities/federal-program-and-project-management-fedpm.md",
+         "field_page_weight": "1",
+         "filepath": "/content/communities/federal-program-and-project-management-fedpm.md",
          "slug": "federal-program-and-project-management-fedpm",
          "url": "http://localhost:1313/communities/federal-program-and-project-management-fedpm/"
       },
       {
-         "title": "Mindful FED",
-         "summary": "A community that offers guided meditations, team trainings, and curated digital resources for federal employees to boost mindfulness, and cultivate wellbeing and resilience in the workplace.",
-         "date": "2023-11-06T15:40:00-0500",
+         "field_title": "Mindful FED",
+         "field_summary": "A community that offers guided meditations, team trainings, and curated digital resources for federal employees to boost mindfulness, and cultivate wellbeing and resilience in the workplace.",
+         "field_date": "2023-11-06T15:40:00-0500",
          "date_modified": "2023-11-07T09:53:10-05:00",
-         "weight": "1",
-         "filename": "mindful-fed.md",
-         "filepath": "communities/mindful-fed.md",
+         "field_page_weight": "1",
+         "filepath": "/content/communities/mindful-fed.md",
          "slug": "mindful-fed",
          "url": "http://localhost:1313/communities/mindful-fed/"
       },
       {
-         "title": "TechAcq",
-         "summary": "IT acquisitions are at the heart of federal IT modernization efforts. They support agencies in delivering modern, digital services to the public more effectively and efficiently.",
-         "date": "2022-11-16T17:21:00-0500",
+         "field_title": "TechAcq",
+         "field_summary": "IT acquisitions are at the heart of federal IT modernization efforts. They support agencies in delivering modern, digital services to the public more effectively and efficiently.",
+         "field_date": "2022-11-16T17:21:00-0500",
          "date_modified": "2023-02-10T14:36:53-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "topics": [
             "acquisition"
          ],
-         "member_count": "",
-         "subscribe_email_subject": "",
-         "filename": "it-acquisition.md",
-         "filepath": "communities/it-acquisition.md",
+         "field_members": "",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/it-acquisition.md",
          "slug": "it-acquisition",
          "url": "http://localhost:1313/communities/it-acquisition/"
       },
       {
-         "kicker": "Communities of Practice",
-         "title": "Join the Web Analytics",
-         "deck": "Share and learn with web analytics and optimization practitioners.",
-         "summary": "Make better decisions using web analytics and other optimization strategies.",
-         "date": "2021-07-07T09:13:00-0500",
+         "field_kicker": "Communities of Practice",
+         "field_title": "Join the Web Analytics",
+         "field_deck": "Share and learn with web analytics and optimization practitioners.",
+         "field_summary": "Make better decisions using web analytics and other optimization strategies.",
+         "field_date": "2021-07-07T09:13:00-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "tlowden"
          ],
@@ -134,15 +120,14 @@
             "usability",
             "user-experience"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "Web Analytics",
-         "dg_acronym": "WAO",
-         "dg_logo": "communities-web-analytics.svg",
-         "member_count": "1,146",
-         "subscribe_email_subject": "Join the Web Analytics Community",
-         "primary_image": "communities-card-analytics",
-         "filename": "web-analytics-and-optimization.md",
-         "filepath": "communities/web-analytics-and-optimization.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Web Analytics",
+         "field_dg_acronym": "WAO",
+         "field_dg_logo": "communities-web-analytics.svg",
+         "field_members": "1,146",
+         "field_subscribe_email_subject": "Join the Web Analytics Community",
+         "field_primary_image": "communities-card-analytics",
+         "filepath": "/content/communities/web-analytics-and-optimization.md",
          "aliases": [
             "https://digital.gov/communities/a-b-testing-community",
             "https://digital.gov/communities/a-b-testing"
@@ -151,11 +136,11 @@
          "url": "http://localhost:1313/communities/web-analytics-and-optimization/"
       },
       {
-         "title": "Innovation Adoption",
-         "summary": "Our purpose is to build innovation and intrapreneurship capacity across government by investing in and nurturing innovation, intrapreneurship capabilities, and the innovation experience.",
-         "date": "2021-06-24T10:30:00-0500",
+         "field_title": "Innovation Adoption",
+         "field_summary": "Our purpose is to build innovation and intrapreneurship capacity across government by investing in and nurturing innovation, intrapreneurship capabilities, and the innovation experience.",
+         "field_date": "2021-06-24T10:30:00-0500",
          "date_modified": "2024-04-04T16:45:17-04:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "bethany-blakey",
             "brooke-dine",
@@ -168,21 +153,20 @@
             "innovation",
             "product-and-project-management"
          ],
-         "member_count": "",
-         "subscribe_email_subject": "",
-         "filename": "innovation-adoption.md",
-         "filepath": "communities/innovation-adoption.md",
+         "field_members": "",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/innovation-adoption.md",
          "slug": "innovation-adoption",
          "url": "http://localhost:1313/communities/innovation-adoption/"
       },
       {
-         "kicker": "Communities of Practice",
-         "title": "Join the Communicators",
-         "deck": "Share and learn with communications and public affairs practitioners.",
-         "summary": "Improve written and verbal communication to make government more effective.",
-         "date": "2021-02-24T18:49:00-0500",
+         "field_kicker": "Communities of Practice",
+         "field_title": "Join the Communicators",
+         "field_deck": "Share and learn with communications and public affairs practitioners.",
+         "field_summary": "Improve written and verbal communication to make government more effective.",
+         "field_date": "2021-02-24T18:49:00-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "deanna-mccray-james",
             "josie-anderson"
@@ -194,26 +178,25 @@
             "plain-language",
             "social-media"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "Communicators",
-         "dg_acronym": "FCN",
-         "dg_logo": "communities-communicators.svg",
-         "member_count": "2,554",
-         "subscribe_email_subject": "Join the Communicators Community",
-         "filename": "communicators.md",
-         "filepath": "communities/communicators.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Communicators",
+         "field_dg_acronym": "FCN",
+         "field_dg_logo": "communities-communicators.svg",
+         "field_members": "2,554",
+         "field_subscribe_email_subject": "Join the Communicators Community",
+         "filepath": "/content/communities/communicators.md",
          "aliases": [
             "https://digital.gov/communities/federal-communicators-network/"
          ],
          "url": "http://localhost:1313/communities/communicators/"
       },
       {
-         "title": "Federal Technology Investment Management",
-         "deck": "Working to achieve greater government efficiency in the management of federal IT resources and assets.",
-         "summary": "We share best practices and lessons learned to improve IT cost transparency across government.",
-         "date": "2020-04-30T17:00:00-0500",
+         "field_title": "Federal Technology Investment Management",
+         "field_deck": "Working to achieve greater government efficiency in the management of federal IT resources and assets.",
+         "field_summary": "We share best practices and lessons learned to improve IT cost transparency across government.",
+         "field_date": "2020-04-30T17:00:00-0500",
          "date_modified": "2022-02-07T13:44:11-07:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "shonna-evansthompson",
             "laura-szakmary",
@@ -222,10 +205,9 @@
          "topics": [
             "acquisition"
          ],
-         "member_count": "518",
-         "subscribe_email_subject": "",
-         "filename": "federal-technology-investment-management.md",
-         "filepath": "communities/federal-technology-investment-management.md",
+         "field_members": "518",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/federal-technology-investment-management.md",
          "aliases": [
             "https://digital.gov/communities/federal-technology-investment-management-community/"
          ],
@@ -233,13 +215,13 @@
          "url": "http://localhost:1313/communities/federal-technology-investment-management/"
       },
       {
-         "kicker": "Join the Cloud and Infrastructure Community",
-         "title": "Cloud and Infrastructure",
-         "deck": "We connect data center and cloud colleagues to share insights and knowledge.",
-         "summary": "A community for those who support their agency’s IT modernization efforts, and want to learn about application rationalization, data center optimization, and federal cloud computing.",
-         "date": "2020-04-30T10:00:00-0500",
+         "field_kicker": "Join the Cloud and Infrastructure Community",
+         "field_title": "Cloud and Infrastructure",
+         "field_deck": "We connect data center and cloud colleagues to share insights and knowledge.",
+         "field_summary": "A community for those who support their agency’s IT modernization efforts, and want to learn about application rationalization, data center optimization, and federal cloud computing.",
+         "field_date": "2020-04-30T10:00:00-0500",
          "date_modified": "2024-06-12T12:48:22-04:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "thomas-santucci",
             "guy-cavallo"
@@ -247,10 +229,9 @@
          "topics": [
             "cloud-and-infrastructure"
          ],
-         "member_count": "900",
-         "subscribe_email_subject": "Join: Cloud &amp; Infrastructure Community",
-         "filename": "cloud-infrastructure.md",
-         "filepath": "communities/cloud-infrastructure.md",
+         "field_members": "900",
+         "field_subscribe_email_subject": "Join: Cloud &amp; Infrastructure Community",
+         "filepath": "/content/communities/cloud-infrastructure.md",
          "aliases": [
             "https://digital.gov/communities/cloud-infrastructure-community/"
          ],
@@ -258,53 +239,51 @@
          "url": "http://localhost:1313/communities/cloud-infrastructure/"
       },
       {
-         "title": "Federal Leadership and Professional Development",
-         "deck": "Providing federal employees with seminars on leadership, professional development, and strategy.",
-         "summary": "Providing federal employees with seminars on leadership, professional development, and strategy.",
-         "date": "2020-03-10T16:00:00-0500",
+         "field_title": "Federal Leadership and Professional Development",
+         "field_deck": "Providing federal employees with seminars on leadership, professional development, and strategy.",
+         "field_summary": "Providing federal employees with seminars on leadership, professional development, and strategy.",
+         "field_date": "2020-03-10T16:00:00-0500",
          "date_modified": "2024-01-12T13:32:26-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "topics": [
             "innovation",
             "product-and-project-management",
             "professional-development"
          ],
-         "member_count": "4660",
-         "subscribe_email_subject": "",
-         "filename": "federal-leadership-professional-development.md",
-         "filepath": "communities/federal-leadership-professional-development.md",
+         "field_members": "4660",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/federal-leadership-professional-development.md",
          "slug": "federal-leadership-professional-development",
          "url": "http://localhost:1313/communities/federal-leadership-professional-development/"
       },
       {
-         "kicker": "Join the Artificial Intelligence Community",
-         "title": "Artificial Intelligence (AI)",
-         "deck": "",
-         "summary": "Supporting and coordinating the use of artificial intelligence technologies in federal agencies.",
-         "date": "2019-12-31T19:03:00-0500",
-         "date_modified": "2024-06-10T18:58:39-04:00",
-         "weight": "1",
+         "field_kicker": "Join the Artificial Intelligence Community",
+         "field_title": "Artificial Intelligence (AI)",
+         "field_deck": "",
+         "field_summary": "Supporting and coordinating the use of artificial intelligence technologies in federal agencies.",
+         "field_date": "2019-12-31T19:03:00-0500",
+         "date_modified": "2024-12-30T16:19:11-05:00",
+         "field_page_weight": "1",
          "authors": [
             "eric-ewing"
          ],
          "topics": [
             "artificial-intelligence"
          ],
-         "member_count": "1118",
-         "subscribe_email_subject": "",
-         "filename": "artificial-intelligence.md",
-         "filepath": "communities/artificial-intelligence.md",
+         "field_members": "1118",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/artificial-intelligence.md",
          "slug": "artificial-intelligence",
          "url": "http://localhost:1313/communities/artificial-intelligence/"
       },
       {
-         "kicker": "Communities of Practice",
-         "title": "Join the Social Media",
-         "deck": "Share and learn with social media practitioners.",
-         "summary": "Improve social media outreach and performance.",
-         "date": "2019-12-12T19:00:00-0500",
+         "field_kicker": "Communities of Practice",
+         "field_title": "Join the Social Media",
+         "field_deck": "Share and learn with social media practitioners.",
+         "field_summary": "Improve social media outreach and performance.",
+         "field_date": "2019-12-12T19:00:00-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "laura-larrimore",
             "catie-miller"
@@ -312,24 +291,23 @@
          "topics": [
             "social-media"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "Social Media",
-         "dg_acronym": "SM",
-         "dg_logo": "communities-social-media.svg",
-         "member_count": "1,596",
-         "subscribe_email_subject": "Join the Social Media Community",
-         "primary_image": "communities-card-sm",
-         "filename": "social-media.md",
-         "filepath": "communities/social-media.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Social Media",
+         "field_dg_acronym": "SM",
+         "field_dg_logo": "communities-social-media.svg",
+         "field_members": "1,596",
+         "field_subscribe_email_subject": "Join the Social Media Community",
+         "field_primary_image": "communities-card-sm",
+         "filepath": "/content/communities/social-media.md",
          "slug": "social-media",
          "url": "http://localhost:1313/communities/social-media/"
       },
       {
-         "title": "Robotic Process Automation (RPA)",
-         "summary": "A collaborative body designed to rapidly accelerate the adoption of Robotic Process Automation (RPA) technology across the federal government.",
-         "date": "2019-12-12T19:00:00-0500",
+         "field_title": "Robotic Process Automation (RPA)",
+         "field_summary": "A collaborative body designed to rapidly accelerate the adoption of Robotic Process Automation (RPA) technology across the federal government.",
+         "field_date": "2019-12-12T19:00:00-0500",
          "date_modified": "2024-01-30T16:43:43-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "gabrielle-perret"
          ],
@@ -337,20 +315,19 @@
             "emerging-tech",
             "robotic-process-automation"
          ],
-         "member_count": "1175",
-         "subscribe_email_subject": "",
-         "filename": "rpa-community.md",
-         "filepath": "communities/rpa-community.md",
+         "field_members": "1175",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/rpa-community.md",
          "slug": "rpa",
          "url": "http://localhost:1313/communities/rpa/"
       },
       {
-         "title": "U.S. Web Design System",
-         "deck": "Making it easier to build accessible, mobile-friendly government websites for the public.",
-         "summary": "A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project.",
-         "date": "2019-12-12T19:00:00-0500",
+         "field_title": "U.S. Web Design System",
+         "field_deck": "Making it easier to build accessible, mobile-friendly government websites for the public.",
+         "field_summary": "A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project.",
+         "field_date": "2019-12-12T19:00:00-0500",
          "date_modified": "2024-01-12T13:32:26-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "dan-williams"
          ],
@@ -362,20 +339,19 @@
             "software-engineering",
             "user-experience"
          ],
-         "member_count": "108",
-         "subscribe_email_subject": "Join USWDS Slack",
-         "filename": "uswds.md",
-         "filepath": "communities/uswds.md",
+         "field_members": "108",
+         "field_subscribe_email_subject": "Join USWDS Slack",
+         "filepath": "/content/communities/uswds.md",
          "slug": "uswds",
          "url": "http://localhost:1313/communities/uswds/"
       },
       {
-         "title": "Section 508 IT Accessibility",
-         "deck": "",
-         "summary": "To support people working to enhance access to federal information technology (IT), we identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards.",
-         "date": "2018-10-05T13:00:00-0500",
+         "field_title": "Section 508 IT Accessibility",
+         "field_deck": "",
+         "field_summary": "To support people working to enhance access to federal information technology (IT), we identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards.",
+         "field_date": "2018-10-05T13:00:00-0500",
          "date_modified": "2024-04-04T10:41:00-04:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "avis-ryan",
             "yvette-gibson"
@@ -387,10 +363,9 @@
             "plain-language",
             "user-experience"
          ],
-         "member_count": "939",
-         "subscribe_email_subject": "Join: Accessibility / Section 508",
-         "filename": "it-accessibility-section-508.md",
-         "filepath": "communities/it-accessibility-section-508.md",
+         "field_members": "939",
+         "field_subscribe_email_subject": "Join: Accessibility / Section 508",
+         "filepath": "/content/communities/it-accessibility-section-508.md",
          "aliases": [
             "https://digital.gov/communities/accessibility/"
          ],
@@ -398,16 +373,15 @@
          "url": "http://localhost:1313/communities/it-accessibility-section-508/"
       },
       {
-         "title": "OpenGov",
-         "summary": "The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.",
-         "date": "2017-08-24T03:30:00-0500",
+         "field_title": "OpenGov",
+         "field_summary": "The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.",
+         "field_date": "2017-08-24T03:30:00-0500",
          "date_modified": "2023-01-06T13:58:05-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "topics": [
             "open-source"
          ],
-         "filename": "open-gov.md",
-         "filepath": "communities/open-gov.md",
+         "filepath": "/content/communities/open-gov.md",
          "aliases": [
             "https://digital.gov/communities/open-government-opengov-community-of-practice/",
             "https://digital.gov/communities/open-government/"
@@ -416,11 +390,11 @@
          "url": "http://localhost:1313/communities/open-gov/"
       },
       {
-         "title": "Video Production Pros",
-         "summary": "Video Production Pros brings together passionate storytellers, artists, social media experts, strategists, and video production experts from across the U.S. government.",
-         "date": "2016-07-08T01:19:06-0500",
+         "field_title": "Video Production Pros",
+         "field_summary": "Video Production Pros brings together passionate storytellers, artists, social media experts, strategists, and video production experts from across the U.S. government.",
+         "field_date": "2016-07-08T01:19:06-0500",
          "date_modified": "2024-10-21T13:50:26-04:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "bryan-drenning",
             "todd-folts"
@@ -428,10 +402,9 @@
          "topics": [
             "multimedia"
          ],
-         "member_count": "510",
-         "subscribe_email_subject": "",
-         "filename": "video.md",
-         "filepath": "communities/video.md",
+         "field_members": "510",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/video.md",
          "aliases": [
             "https://digital.gov/communities/video-production-pros-community-of-practice/",
             "https://digital.gov/communities/digital-audio-video-community-of-practice/"
@@ -440,13 +413,13 @@
          "url": "http://localhost:1313/communities/video-production/"
       },
       {
-         "kicker": "Communities of practice",
-         "title": "Join the Plain Language",
-         "deck": "Share and learn with plain language practitioners.",
-         "summary": "Promote the use of plain language to provide better service to the public.",
-         "date": "2016-02-03T10:58:53-0500",
+         "field_kicker": "Communities of practice",
+         "field_title": "Join the Plain Language",
+         "field_deck": "Share and learn with plain language practitioners.",
+         "field_summary": "Promote the use of plain language to provide better service to the public.",
+         "field_date": "2016-02-03T10:58:53-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "katherine-spivey",
             "katina-stapleton",
@@ -459,15 +432,14 @@
             "content-strategy",
             "plain-language"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "Plain Language",
-         "dg_acronym": "PL",
-         "dg_logo": "communities-plain-language.svg",
-         "member_count": "2,550",
-         "subscribe_email_subject": "Join the Plain Language Community",
-         "primary_image": "communities-card-pl",
-         "filename": "plain-language-community-of-practice.md",
-         "filepath": "communities/plain-language-community-of-practice.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Plain Language",
+         "field_dg_acronym": "PL",
+         "field_dg_logo": "communities-plain-language.svg",
+         "field_members": "2,550",
+         "field_subscribe_email_subject": "Join the Plain Language Community",
+         "field_primary_image": "communities-card-pl",
+         "filepath": "/content/communities/plain-language-community-of-practice.md",
          "aliases": [
             "https://digital.gov/communities/plain-language-community-of-practice/"
          ],
@@ -475,13 +447,13 @@
          "url": "http://localhost:1313/communities/plain-language/"
       },
       {
-         "kicker": "Join the Crowdsourcing and Citizen Science Community",
-         "title": "Crowdsourcing and Citizen Science",
-         "deck": "",
-         "summary": "We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.",
-         "date": "2015-09-29T02:17:00-0500",
+         "field_kicker": "Join the Crowdsourcing and Citizen Science Community",
+         "field_title": "Crowdsourcing and Citizen Science",
+         "field_deck": "",
+         "field_summary": "We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.",
+         "field_date": "2015-09-29T02:17:00-0500",
          "date_modified": "2024-06-12T08:56:15-04:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "jay-benforado",
             "sophia-b-liu",
@@ -491,10 +463,9 @@
             "challenges-and-prize-competitions",
             "crowdsourcing-and-citizen-science"
          ],
-         "member_count": "427",
-         "subscribe_email_subject": "subscribe FCPCCS",
-         "filename": "crowdsourcing-and-citizen-science.md",
-         "filepath": "communities/crowdsourcing-and-citizen-science.md",
+         "field_members": "427",
+         "field_subscribe_email_subject": "subscribe FCPCCS",
+         "filepath": "/content/communities/crowdsourcing-and-citizen-science.md",
          "aliases": [
             "https://digital.gov/federal-crowdsourcing-and-citizen-science/",
             "https://digital.gov/communities/federal-crowdsourcing-and-citizen-science/"
@@ -503,28 +474,27 @@
          "url": "http://localhost:1313/communities/crowdsourcing-citizen-science/"
       },
       {
-         "title": "Customer Experience",
-         "summary": "We are an interagency group of customer experience practitioners.",
-         "date": "2015-07-08T10:30:37-0500",
+         "field_title": "Customer Experience",
+         "field_summary": "We are an interagency group of customer experience practitioners.",
+         "field_date": "2015-07-08T10:30:37-0500",
          "date_modified": "2023-11-17T15:13:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "topics": [
             "customer-experience"
          ],
-         "member_count": "1147",
-         "subscribe_email_subject": "CX LISTSERV",
-         "filename": "customer-experience.md",
-         "filepath": "communities/customer-experience.md",
+         "field_members": "1147",
+         "field_subscribe_email_subject": "CX LISTSERV",
+         "filepath": "/content/communities/customer-experience.md",
          "slug": "customer-experience",
          "url": "http://localhost:1313/communities/customer-experience/"
       },
       {
-         "kicker": "Communities of practice",
-         "title": "Open Data",
-         "summary": "A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.",
-         "date": "2015-07-08T10:30:37-0500",
+         "field_kicker": "Communities of practice",
+         "field_title": "Open Data",
+         "field_summary": "A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.",
+         "field_date": "2015-07-08T10:30:37-0500",
          "date_modified": "2024-11-19T10:56:18-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "pashlock",
             "hyon-kim"
@@ -532,10 +502,9 @@
          "topics": [
             "open-data"
          ],
-         "member_count": "925",
-         "subscribe_email_subject": "",
-         "filename": "open-data.md",
-         "filepath": "communities/open-data.md",
+         "field_members": "925",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/open-data.md",
          "aliases": [
             "https://digital.gov/communities/open-data-community-of-practice/"
          ],
@@ -543,13 +512,13 @@
          "url": "http://localhost:1313/communities/open-data/"
       },
       {
-         "kicker": "Communities of practice",
-         "title": "Join the Multilingual",
-         "deck": "Share and learn with multilingual practitioners.",
-         "summary": "Expand and improve digital content in languages other than English.",
-         "date": "2014-02-21T04:58:10-0500",
+         "field_kicker": "Communities of practice",
+         "field_title": "Join the Multilingual",
+         "field_deck": "Share and learn with multilingual practitioners.",
+         "field_summary": "Expand and improve digital content in languages other than English.",
+         "field_date": "2014-02-21T04:58:10-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "lgodfrey",
             "fedora-braverman"
@@ -559,15 +528,14 @@
             "multilingual",
             "user-experience"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "Multilingual",
-         "dg_acronym": "ML",
-         "dg_logo": "communities-multilingual.svg",
-         "member_count": "765",
-         "subscribe_email_subject": "Join the Multilingual Community",
-         "primary_image": "communities-card-ml",
-         "filename": "multilingual.md",
-         "filepath": "communities/multilingual.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Multilingual",
+         "field_dg_acronym": "ML",
+         "field_dg_logo": "communities-multilingual.svg",
+         "field_members": "765",
+         "field_subscribe_email_subject": "Join the Multilingual Community",
+         "field_primary_image": "communities-card-ml",
+         "filepath": "/content/communities/multilingual.md",
          "aliases": [
             "https://digital.gov/government-multilingual-websites-community/"
          ],
@@ -575,28 +543,27 @@
          "url": "http://localhost:1313/communities/multilingual/"
       },
       {
-         "kicker": "Communities of Practice",
-         "title": "Join the User Experience",
-         "deck": "Share and learn with user experience and design practitioners.",
-         "summary": "Create better user-centered products for the public.",
-         "date": "2014-01-13T02:35:36-0500",
+         "field_kicker": "Communities of Practice",
+         "field_title": "Join the User Experience",
+         "field_deck": "Share and learn with user experience and design practitioners.",
+         "field_summary": "Create better user-centered products for the public.",
+         "field_date": "2014-01-13T02:35:36-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "jean-fox"
          ],
          "topics": [
             "user-experience"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "User Experience",
-         "dg_acronym": "UX",
-         "dg_logo": "communities-user-experience.svg",
-         "member_count": "2,363",
-         "subscribe_email_subject": "Join the User Experience Community",
-         "primary_image": "communities-card-ux",
-         "filename": "user-experience.md",
-         "filepath": "communities/user-experience.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "User Experience",
+         "field_dg_acronym": "UX",
+         "field_dg_logo": "communities-user-experience.svg",
+         "field_members": "2,363",
+         "field_subscribe_email_subject": "Join the User Experience Community",
+         "field_primary_image": "communities-card-ux",
+         "filepath": "/content/communities/user-experience.md",
          "aliases": [
             "https://digital.gov/federal-user-experience-community-of-practice/"
          ],
@@ -604,13 +571,13 @@
          "url": "http://localhost:1313/communities/user-experience/"
       },
       {
-         "kicker": "Join the Challenge &amp; Prize Community",
-         "title": "Challenge & Prize",
-         "deck": "",
-         "summary": "We encourage public participation in crowdsourcing competitions to find innovative government solutions.",
-         "date": "2013-12-05T10:46:00-0500",
+         "field_kicker": "Join the Challenge &amp; Prize Community",
+         "field_title": "Challenge & Prize",
+         "field_deck": "",
+         "field_summary": "We encourage public participation in crowdsourcing competitions to find innovative government solutions.",
+         "field_date": "2013-12-05T10:46:00-0500",
          "date_modified": "2024-06-12T14:11:27-04:00",
-         "weight": "1",
+         "field_page_weight": "1",
          "authors": [
             "jarah-meador"
          ],
@@ -618,10 +585,9 @@
             "challenges-and-prize-competitions",
             "crowdsourcing-and-citizen-science"
          ],
-         "member_count": "800",
-         "subscribe_email_subject": "",
-         "filename": "challenges-prizes.md",
-         "filepath": "communities/challenges-prizes.md",
+         "field_members": "800",
+         "field_subscribe_email_subject": "",
+         "filepath": "/content/communities/challenges-prizes.md",
          "aliases": [
             "https://digital.gov/challenges-prizes-community/"
          ],
@@ -629,13 +595,13 @@
          "url": "http://localhost:1313/communities/challenges-prizes/"
       },
       {
-         "kicker": "Communities of Practice",
-         "title": "Join the Web Managers",
-         "deck": "Share and learn with web and digital services practitioners.",
-         "summary": "Create a better online experience for the public alongside government web content managers.",
-         "date": "2013-11-21T02:31:00-0500",
+         "field_kicker": "Communities of Practice",
+         "field_title": "Join the Web Managers",
+         "field_deck": "Share and learn with web and digital services practitioners.",
+         "field_summary": "Create a better online experience for the public alongside government web content managers.",
+         "field_date": "2013-11-21T02:31:00-0500",
          "date_modified": "2024-11-21T15:52:37-05:00",
-         "weight": "2",
+         "field_page_weight": "2",
          "authors": [
             "toni-bonitto",
             "tori-garten",
@@ -666,15 +632,14 @@
             "usability",
             "user-experience"
          ],
-         "dg_highlight": "true",
-         "dg_shortname": "Web Managers",
-         "dg_acronym": "WCM",
-         "dg_logo": "communities-web-managers.svg",
-         "member_count": "2,225",
-         "subscribe_email_subject": "Join the Web Managers Community",
-         "primary_image": "communities-card-web-mgrs",
-         "filename": "web-managers-forum.md",
-         "filepath": "communities/web-managers-forum.md",
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Web Managers",
+         "field_dg_acronym": "WCM",
+         "field_dg_logo": "communities-web-managers.svg",
+         "field_members": "2,225",
+         "field_subscribe_email_subject": "Join the Web Managers Community",
+         "field_primary_image": "communities-card-web-mgrs",
+         "filepath": "/content/communities/web-managers-forum.md",
          "aliases": [
             "https://digital.gov/communities/web-managers-forum/",
             "https://digital.gov/communities/web-managers-forum/web-content-managers-listserv/"
@@ -683,30 +648,28 @@
          "url": "http://localhost:1313/communities/web-content-managers/"
       },
       {
-         "title": "Identity, Credential, and Access Management Subcommittee (ICAMSC)",
-         "summary": "The Identity, Credential, and Access Management Subcommittee (ICAMSC) is the principal interagency forum for identity management, secure access, authentication, authorization, credentials, privileges, and access lifecycle management.",
-         "date": "2022-05-25T16:38:00-0500",
+         "field_title": "Identity, Credential, and Access Management Subcommittee (ICAMSC)",
+         "field_summary": "The Identity, Credential, and Access Management Subcommittee (ICAMSC) is the principal interagency forum for identity management, secure access, authentication, authorization, credentials, privileges, and access lifecycle management.",
+         "field_date": "2022-05-25T16:38:00-0500",
          "date_modified": "2024-12-02T10:00:37-05:00",
-         "filename": "identity-credential-and-access-management-icam.md",
-         "filepath": "communities/identity-credential-and-access-management-icam.md",
+         "filepath": "/content/communities/identity-credential-and-access-management-icam.md",
          "slug": "identity-credential-and-access-management-icam",
          "url": "http://localhost:1313/communities/identity-credential-and-access-management-icam/"
       },
       {
-         "title": "IT Buyers",
-         "summary": "The Information Technology (IT) Buyers Community of Practice (ITB CoP) brings together acquisition programs, contract vehicle programs, and procurement specialists to create a community of federal IT buyers who share their experiences and scale their expertise across government.",
-         "date": "2022-03-24T14:36:00-0500",
+         "field_title": "IT Buyers",
+         "field_summary": "The Information Technology (IT) Buyers Community of Practice (ITB CoP) brings together acquisition programs, contract vehicle programs, and procurement specialists to create a community of federal IT buyers who share their experiences and scale their expertise across government.",
+         "field_date": "2022-03-24T14:36:00-0500",
          "date_modified": "2024-11-29T13:14:08-05:00",
-         "filename": "it-buyers.md",
-         "filepath": "communities/it-buyers.md",
+         "filepath": "/content/communities/it-buyers.md",
          "slug": "it-buyers",
          "url": "http://localhost:1313/communities/it-buyers/"
       },
       {
-         "title": "DevOps",
-         "deck": "Operating rapidly changing resilient systems at scale",
-         "summary": "The practice of operations and development staff participating in the entire service lifecycle to operate rapidly changing resilient systems at scale.",
-         "date": "2019-12-12T19:00:00-0500",
+         "field_title": "DevOps",
+         "field_deck": "Operating rapidly changing resilient systems at scale",
+         "field_summary": "The practice of operations and development staff participating in the entire service lifecycle to operate rapidly changing resilient systems at scale.",
+         "field_date": "2019-12-12T19:00:00-0500",
          "date_modified": "2024-11-29T13:14:48-05:00",
          "authors": [
             "ken-kato",
@@ -715,30 +678,28 @@
          "topics": [
             "software-engineering"
          ],
-         "member_count": "",
-         "subscribe_email_subject": "Subscribe to DevOps",
-         "filename": "devops.md",
-         "filepath": "communities/devops.md",
+         "field_members": "",
+         "field_subscribe_email_subject": "Subscribe to DevOps",
+         "filepath": "/content/communities/devops.md",
          "slug": "devops",
          "url": "http://localhost:1313/communities/devops/"
       },
       {
-         "title": "Results-Oriented Accountability for Grants",
-         "summary": "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal.",
-         "date": "2018-05-31T12:00:00-0500",
-         "date_modified": "2024-11-29T13:17:44-05:00",
-         "member_count": "539",
-         "subscribe_email_subject": "Federal Join: Results-Oriented Accountability for Grants Community of Practice",
-         "filename": "results-oriented-accountability-for-grants.md",
-         "filepath": "communities/results-oriented-accountability-for-grants.md",
+         "field_title": "Results-Oriented Accountability for Grants",
+         "field_summary": "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal.",
+         "field_date": "2018-05-31T12:00:00-0500",
+         "date_modified": "2024-12-30T16:19:11-05:00",
+         "field_members": "539",
+         "field_subscribe_email_subject": "Federal Join: Results-Oriented Accountability for Grants Community of Practice",
+         "filepath": "/content/communities/results-oriented-accountability-for-grants.md",
          "slug": "results-oriented-accountability-for-grants",
          "url": "http://localhost:1313/communities/results-oriented-accountability-for-grants/"
       },
       {
-         "title": "Application Programming Interfaces (APIs)",
-         "deck": "Working to advance the cause of APIs in the federal government",
-         "summary": "Working to advance the cause of APIs in the federal government.",
-         "date": "2018-03-29T03:30:00-0500",
+         "field_title": "Application Programming Interfaces (APIs)",
+         "field_deck": "Working to advance the cause of APIs in the federal government",
+         "field_summary": "Working to advance the cause of APIs in the federal government.",
+         "field_date": "2018-03-29T03:30:00-0500",
          "date_modified": "2024-11-29T13:17:17-05:00",
          "authors": [
             "gray-brooks"
@@ -748,18 +709,16 @@
             "open-source",
             "software-engineering"
          ],
-         "filename": "apis.md",
-         "filepath": "communities/apis.md",
+         "filepath": "/content/communities/apis.md",
          "slug": "apis",
          "url": "http://localhost:1313/communities/apis/"
       },
       {
-         "title": "Digital.gov Community Guidelines",
-         "deck": "Ground rules to create a safe, inclusive, respectful, and welcoming environment",
-         "summary": "GSA supports many communities of practice by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.",
+         "field_title": "Digital.gov Community Guidelines",
+         "field_deck": "Ground rules to create a safe, inclusive, respectful, and welcoming environment",
+         "field_summary": "GSA supports many communities of practice by hosting Listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.",
          "date_modified": "2024-01-19T17:52:33-05:00",
-         "filename": "manage-listserv-subscription.md",
-         "filepath": "communities/manage-listserv-subscription.md",
+         "filepath": "/content/communities/manage-listserv-subscription.md",
          "aliases": [
             "https://digital.gov/manage-your-listserv-subscription/",
             "https://digital.gov/communities/manage-your-subscription/",

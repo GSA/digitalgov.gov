@@ -1,0 +1,31 @@
+{
+    "items": [
+      {
+         "field_kicker": "Communities of practice",
+         "field_title": "Join the Contact Center",
+         "field_deck": "Share and learn with contact center practitioners.",
+         "field_summary": "Explore methods of service delivery that improve customer experience in government contact centers.",
+         "field_date": "2024-06-28T16:36:00-0500",
+         "date_modified": "2024-11-21T15:52:37-05:00",
+         "field_page_weight": "1",
+         "topics": [
+            "contact-centers",
+            "customer-experience"
+         ],
+         "field_dg_highlight": "true",
+         "field_dg_shortname": "Contact Center",
+         "field_dg_acronym": "CC",
+         "field_dg_logo": "communities-contact-center.svg",
+         "field_members": "410",
+         "field_subscribe_email_subject": "Join the Contact Center Community",
+         "field_primary_image": "communities-card-contact-center",
+         "filepath": "/content/communities/contact-center.md",
+         "aliases": [
+            "https://digital.gov/communities/government-contact-center-council-g3c/",
+            "https://digital.gov/communities/government-contact-center-council/"
+         ],
+         "slug": "contact-center",
+         "url": "http://localhost:1313/communities/contact-center/"
+      }
+    ]
+}

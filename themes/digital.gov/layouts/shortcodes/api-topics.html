@@ -1,9 +1,7 @@
 {{- partial "core/set-env.html" . -}}
 {{- $list := (where .Site.Pages "Section" "topics") -}}
 {{- $length := len $list -}}
-{ "version" : "https://jsonfeed.org/version/1", "content" : "topics", "type" :
-"list", "title" : "Topics | {{- .Site.Title -}}", "home_page_url" :
-"{{- .Site.BaseURL -}}", "count" : "{{- $length -}}", "items" : [
+{ "content" : "topics", "count" : "{{- $length -}}", "items" : [
 {{- range $topic := $list.ByTitle -}}
   {{- with $topic -}}
     {
@@ -12,13 +10,9 @@
     {{ else }}
       {{ $path = .Path }}
     {{ end }}
-    "title" : "{{- .Title -}}", "summary" :
-    "{{- replace .Params.summary "\n" "\\n" -}}",
-    {{- partial "api/aliases.html" . -}}
-    {{- if .Params.weight -}}
-      "weight" : "{{- .Params.weight -}}",
-    {{- end -}}
+    {{- partial "api/metadata.html" . -}}
     {{- partial "api/topics-metadata.html" . }}
+    {{- partial "api/aliases.html" . -}}
     {{- partial "api/file-info.html" . }}
     {{- partial "api/slug.html" . }}
     }

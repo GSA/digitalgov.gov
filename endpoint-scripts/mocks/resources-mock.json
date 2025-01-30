@@ -1,28 +1,26 @@
 {
     "items": [
         {
-            "title": "An introduction to federal website standards",
-            "deck": "Understand how and why to use the federal website standards",
-            "summary": "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices.",
-            "date": "2024-11-26T10:12:00-0500",
-            "date_modified": "2024-12-16T13:07:25-05:00",
-            "weight": "1",
-            "authors": [
-                "michelle-rago"
+            "field_title": "Requirements for transforming federal customer experience and service delivery",
+            "field_deck": "Understand the policy framework: Executive Order 14058 and OMB Circular A-11 Section 280",
+            "field_summary": "Learn how to strengthen customer experience and service delivery within your federal agency.",
+            "field_date": "2024-12-04T00:00:00-0500",
+            "date_modified": "2024-12-30T16:22:48-05:00",
+            "field_page_weight": "1",
+            "field_authors": [
+                "cathryn-camenzind"
             ],
-            "topics": [
-                "content-strategy",
-                "design",
-                "digital-service-delivery",
+            "field_topics": [
+                "customer-experience",
                 "governance",
-                "product-and-project-management"
+                "human-centered-design",
+                "information-collection",
+                "policy",
+                "trust"
             ],
-            "primary_image": "hands-puzzle-pieces-girafchik123-istock-getty-images-2091035051",
-            "filename": "introduction-to-federal-web-standards.md",
-            "filepath": "resources/introduction-to-federal-web-standards.md",
-            "filepathURL": "https://github.com/GSA/digitalgov.gov/blob/main/content/resources/introduction-to-federal-web-standards.md",
-            "slug": "introduction-to-federal-web-standards",
-            "url": "http://localhost:1313/resources/introduction-to-federal-web-standards/"
+            "filepath": "/content/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery.md",
+            "slug": "requirements-for-transforming-federal-customer-experience-and-service-delivery",
+            "url": "http://localhost:1313/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/"
         }
     ]
 }

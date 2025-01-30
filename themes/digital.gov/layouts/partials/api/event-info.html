@@ -1,0 +1,53 @@
+{{ $data := $.Site.Data.events }}
+{{ if (isset .Params "event_type") }}
+  {{ $_eventtype := .Params.event_type }}
+  {{ $length := $_eventtype | len }}
+  "field_event_type" : [
+  {{ range $i, $e := $_eventtype }}
+    {{ $etype := index $data $e }}
+    {{- if lt (add $i 1) $length -}}
+      "{{- $e -}}",
+    {{- else -}}
+      "{{- $e -}}"
+    {{- end -}}
+  {{ end }}
+  ],
+{{ end }}
+{{ if (isset .Params "event_cop") }}
+  {{ $_eventtype := .Params.event_cop }}
+  {{ $length := $_eventtype | len }}
+  "field_event_cop" : [
+  {{ range $i, $e := $_eventtype }}
+    {{ $etype := index $data $e }}
+    {{- if lt (add $i 1) $length -}}
+      "{{- $e -}}",
+    {{- else -}}
+      "{{- $e -}}"
+    {{- end -}}
+  {{ end }}
+  ],
+{{ end }}
+{{- if (isset .Params "event_organizer") -}}
+  "field_event_organizer" : "{{- .Params.event_organizer -}}",
+{{- end -}}
+{{- if (isset .Params "host") -}}
+  "field_host" : "{{- .Params.host -}}",
+{{- end -}}
+{{- if (isset .Params "registration_url") -}}
+  "field_registration_url" : "{{- .Params.registration_url -}}",
+{{- end -}}
+{{- with .Params.captions -}}
+  "field_captions" : "{{- . -}}",
+{{- end -}}
+{{- if (isset .Params "zoom_id") -}}
+  "zoom_id" : "{{- .Params.zoom_id -}}",
+{{- end -}}
+{{- with .Params.youtube_id -}}
+  "youtube_id" : "{{- . -}}",
+{{- end -}}
+{{- with .Params.youtube_title -}}
+  "youtube_title" : "{{- . -}}",
+{{- end -}}
+{{- with .Params.venue -}}
+  "field_venue" : "{{- . -}}",
+{{- end -}}

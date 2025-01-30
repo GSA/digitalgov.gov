@@ -1,32 +1,35 @@
 {{- if (isset .Params "kicker") -}}
-  "kicker" : "{{- .Params.kicker -}}",
+  "field_kicker" : "{{- .Params.kicker -}}",
 {{- end -}}
 {{- if .Title -}}
-  "title" : {{- .Title | jsonify -}},
+  "field_title" : {{- .Title | jsonify -}},
 {{- end -}}
 {{- if (isset .Params "deck") -}}
-  "deck" : "{{- .Params.deck | markdownify -}}",
+  "field_deck" : "{{- .Params.deck | markdownify -}}",
 {{- end -}}
 {{- if (isset .Params "summary") -}}
-  "summary" : "{{- .Params.summary | markdownify -}}",
+  "field_summary" : "{{- .Params.summary | markdownify -}}",
 {{- end -}}
 {{- if (isset .Params "date") -}}
-  "date" : "{{- .Date.Format "2006-01-02T15:04:05" -}}-0500",
+  "field_date" : "{{- .Date.Format "2006-01-02T15:04:05" -}}-0500",
+{{- end -}}
+{{- with .Params.end_date -}}
+  "field_end_date" : "{{ . | dateFormat "2006-01-02T15:04:05Z07:00" }}",
 {{- end -}}
 {{- if .Lastmod -}}
   "date_modified" : "{{- .Lastmod.Format "2006-01-02T15:04:05Z07:00" -}}",
 {{- else -}}
   "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
 {{- end -}}
+{{- if (isset .Params "image") -}}
+  "field_image" : "{{- .Params.image -}}",
+{{- end -}}
 {{- if (isset .Params "guide") -}}
-  "guide" : "{{- .Params.guide -}}",
+  "field_guide" : "{{- .Params.guide -}}",
 {{- end -}}
 {{- if (isset .Params "guide_weight") -}}
-  "guide_weight" : "{{- .Params.guide_weight -}}",
-{{- end -}}
-{{- if (isset .Params "image") -}}
-  "image" : "{{- .Params.image -}}",
+  "field_guide_weight" : "{{- .Params.guide_weight -}}",
 {{- end -}}
 {{- if .Params.weight -}}
-  "weight" : "{{- .Params.weight -}}",
+  "field_page_weight" : "{{- .Params.weight -}}",
 {{- end -}}

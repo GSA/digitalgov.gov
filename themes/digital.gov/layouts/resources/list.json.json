@@ -2,46 +2,18 @@
 {{- $list := where .Data.Pages "Params.source_url" "eq" nil -}}
 {{- $length := (len $list) -}}
 {
-    "version" : "https://jsonfeed.org/version/1",
-    "content" : "{{- .Type -}}",
-    "type" : "list",
-    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
-    "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
-    "home_page_url" : "{{- .Site.BaseURL -}}",
+    "content" : "resources",
     "count" : "{{- $length -}}",
-    {{- with .OutputFormats.Get "JSON" -}}
-    "feed_url" : "{{- .Permalink -}}",
-    {{- end -}}
-    {{- with $.Param "icon" -}}
-    "icon" : "{{- . | absURL -}}",
-    {{- end -}}
-    {{- with $.Param "favicon" -}}
-    "favicon" : "{{- . | absURL -}}",
-    {{- end -}}
-    {{- with .Site.Author.name -}}
-    "author" : {
-        "name" : "{{- . -}}"{{- with $.Site.Author.Params.url -}},
-        "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
-        "avatar": "{{- . | absURL -}}"{{- end -}}
-    },
-    {{- end -}}
-    {{ with .Section }}
-    "section" : "{{ . }}",
-    {{ end }}
-    {{ with eq .Kind  "taxonomy"}}
-    "taxonomy" : "{{ $.Data.Singular }}",
-    "term" : "{{ $.Data.Term }}",
-    {{ end }}
     "items" : [
     {{- range $index, $element := $list -}}
     {
       {{- partial "api/metadata.html" . -}}
-      {{- partial "api/authors.html" . -}}
-      {{- partial "api/topics.html" . -}}
       {{- partial "api/primary_image.html" . -}}
       {{- partial "api/featured_image.html" . -}}
-      {{- partial "api/file-info.html" . -}}
       {{- partial "api/aliases.html" . -}}
+      {{- partial "api/authors.html" . -}}
+      {{- partial "api/topics.html" . -}}
+      {{- partial "api/file-info.html" . -}}
       {{- partial "api/slug.html" . -}}
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}

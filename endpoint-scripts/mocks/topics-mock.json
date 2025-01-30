@@ -1,53 +1,61 @@
 {
     "items": [
         {
-            "title": "User Experience",
-            "summary": "Websites and digital services provide better results when they are designed and delivered with the user in mind. In the current digital landscape, it is critical to adopt a user-centered approach to understand and respond to the individual needs of users. By evaluating the user experience on federal websites and digital services, agencies can increase customer satisfaction, build public trust, and reduce burden on the public.",
+            "field_title": "Accessibility",
+            "field_deck": "The design of products, devices, services, or environments for people with disabilities",
+            "field_summary": "Accessibility isn’t just the right thing to do; it’s the law. The guidance, resources, and community you find here will help you deliver accessible digital products and services in the federal government.",
+            "date_modified": "2024-10-25T14:26:09-04:00",
+            "field_page_weight": "2",
+            "field_legislation": "https://www.section508.gov/manage/laws-and-policies/",
+            "legislation_title": "Section 508 of the Rehabilitation Act of 1973",
+            "legislation_link": "https://www.section508.gov/manage/laws-and-policies/",
+            "field_featured_communities": [
+               "web-managers-forum"
+            ],
+            "field_featured_resource": "an-introduction-to-accessibility",
+            "field_featured_resource_link": "an-introduction-to-accessibility",
+            "field_featured_links_title": "Accessibility: Essential knowledge",
+            "field_featured_links": [
+               {
+                  "title": "Federal website standards",
+                  "summary": "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices.",
+                  "href": "https://standards.digital.gov"
+               },
+               {
+                  "title": "Section508.gov",
+                  "summary": "This site provides guidance for federal agencies on several topics in IT accessibility, including creating accessible websites and documents, accessibility testing, accessibility training, and accessibility in contracting and procurement.",
+                  "href": "https://www.section508.gov"
+               },
+               {
+                  "title": "Best practices for writing for the accessible web",
+                  "summary": "Tips for making online information accessible for those with auditory and visual needs.",
+                  "href": "https://digital.gov/resources/best-practices-writing-for-accessible-web"
+               },
+               {
+                  "title": "An advanced approach to accessibility",
+                  "summary": "Accessibility is one of the most important values underlying all the work that we do. This is a deeper look into accessibility: what to do, how to do it, and why it matters, especially in government.",
+                  "href": "https://digital.gov/resources/advanced-accessibility"
+               },
+               {
+                  "title": "Accessibility: Usability for every ability",
+                  "summary": "Incorporate accessibility from the start and celebrate accessibility guidelines that help build better products and services for all users.",
+                  "href": "https://designsystem.digital.gov/documentation/accessibility/#what-project-teams-should-do"
+               },
+               {
+                  "title": "Accessibility for Teams",
+                  "summary": "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow.",
+                  "href": "https://digital.gov/guides/accessibility-for-teams"
+               }
+            ],
             "aliases": [
-                "https://digital.gov/topics/aoi/",
-                "https://digital.gov/topics/community-ux/",
-                "https://digital.gov/topics/digitalgov-user-experience-program/",
-                "https://digital.gov/topics/federal-user-experience-community/",
-                "https://digital.gov/topics/user-experience-community-of-practice/"
+               "https://digital.gov/topics/us-access-board/",
+               "https://digital.gov/topics/508/",
+               "https://digital.gov/topics/americans-with-disabilities-act/",
+               "https://digital.gov/topics/section-508/"
             ],
-            "weight": "2",
-            "legislation_title": "21st Century IDEA & M-23-22",
-            "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-            "featured_communities": [
-                "user-experience"
-            ],
-            "featured_resource_link": "/guides/hcd/",
-            "featured_links_title": "User experience: Essential knowledge",
-            "featured_links": [
-                {
-                    "title": "How to apply user experience principles and methodologies to deliver results",
-                    "summary": "Learn from case studies and best practices from federal UX practitioners to drive innovation through inclusion.",
-                    "href": "https://digital.gov/event/2023/06/14/2023-government-ux-summit/"
-                },
-                {
-                    "title": "An introduction to design",
-                    "summary": "Understand how and why design impacts user experience.",
-                    "href": "https://digital.gov/resources/an-introduction-to-design/"
-                },
-                {
-                    "title": "DHS usability testing kit",
-                    "summary": "Use the kit’s guidelines and templates to test the usability of your services and solutions.",
-                    "href": "https://digital.gov/event/2022/09/27/dhs-usability-testing-kit-so-easy-anyone-can-do-it/"
-                },
-                {
-                    "title": "U.S. Web Design System: Design principles",
-                    "summary": "Align on common goals and drive better user experiences on government websites.",
-                    "href": "https://designsystem.digital.gov/design-principles/"
-                },
-                {
-                    "title": "18F Methods: Human-centered design tools",
-                    "summary": "Use this collection of tools to put human-centered design into practice. They are focused on digital services, but can also be adapted to non-technical projects.",
-                    "href": "https://methods.18f.gov/"
-                }
-            ],
-            "filename": "_index.md",
-            "filepath": "topics/user-experience/_index.md",
-            "url": "http://localhost:1313/topics/user-experience/"
-        }
+            "filepath": "/content/topics/accessibility/_index.md",
+            "slug": "accessibility",
+            "url": "http://localhost:1313/topics/accessibility/"
+         }
     ]
 }

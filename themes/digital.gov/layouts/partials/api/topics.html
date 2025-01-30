@@ -1,5 +1,5 @@
 {{- if (isset .Params "topics") -}}
-  "topics":
+  "field_topics":
   {{- $taxonomy := "topics" -}}
   {{- $topics := .Param $taxonomy -}}
   {{- $topicLinks := slice -}}

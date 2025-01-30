@@ -2,12 +2,7 @@
 {{- $list := .Data.Pages -}}
 {{- $length := (len $list) -}}
 {
-    "version" : "https://jsonfeed.org/version/1",
-    "content" : "{{- .Type -}}",
-    "type" : "list",
-    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
-    "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
-    "home_page_url" : "{{- .Site.BaseURL -}}",
+    "content" : "Authors",
     "count" : "{{- $length -}}",
     {{ with .Section }}
     "section" : "{{ . }}",
@@ -20,8 +15,8 @@
     {{- range $index, $element := $list -}}
     {
       {{- partial "api/author-profile.html" . -}}
-      {{- partial "api/metadata.html" . -}}
       {{- partial "api/aliases.html" . -}}
+      {{- partial "api/file-info.html" . -}}
       {{- partial "api/slug.html" . -}}
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}

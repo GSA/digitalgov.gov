@@ -2,25 +2,14 @@
 {{- $list := where .Site.Pages "Section" "authors" -}}
 {{- $list := where $list "with .File.Path" "ne" "authors/_index.md" -}}
 {{- $length := len $list -}}
-{ "version" : "https://jsonfeed.org/version/1", "content" : "authors", "type" :
-"list", "title" : "Authors | {{ .Site.Title }}", "home_page_url" :
-"{{- .Site.BaseURL -}}", "count" : "{{- $length }}",
-{{ with .Site.Author.name -}}
-  "author" : { "name" :
-  "{{- . -}}"{{- with $.Site.Author.Params.url -}}
-    , "url": "{{- . -}}"
-  {{- end -}}{{- with $.Site.Author.avatar -}}
-    , "avatar": "{{- . | absURL -}}"
-  {{- end -}}
-  },
-{{- end -}}
-"items" : [
+{ "content" : "authors", "count" : "{{- $length }}", "items" : [
 {{ range $index, $author := $list -}}
   {{ with $author }}
     {
     {{- partial "api/author-profile.html" . -}}
     {{- partial "api/metadata.html" . -}}
     {{- partial "api/aliases.html" . -}}
+    {{- partial "api/file-info.html" . -}}
     {{- partial "api/slug.html" . -}}
     }
     {{- $.Scratch.Add "i" 1 -}}

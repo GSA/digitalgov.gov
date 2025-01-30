@@ -1,4 +1,4 @@
 {{- if .Params.primary_image -}}
   {{- $thisimg := index $.Site.Data.images (default ($.Scratch.Get "defaultimg") .Params.primary_image | lower) -}}
-  "primary_image" : "{{- .Params.primary_image -}}",
+  "field_primary_image" : "{{- .Params.primary_image -}}",
 {{- end -}}

@@ -4,7 +4,6 @@ deck: Introducing the federal website standards
 kicker: USWDS
 summary: The U.S. Web Design System team is joined by the Federal Website Standards team to share more about the standards, their origin, the research backing them, and what standards are coming next.
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItfuitrT4pElUXm-Ua7iPb7LTizb8Sve4
 date: 2024-12-19 14:00:00 -0500
 end_date: 2024-12-19 15:00:00 -0500
