@@ -1,17 +1,7 @@
 {{- if .Params.aliases -}}
-  "aliases" : [
-  {{- $aliaslen := .Params.aliases | len -}}
-  {{- $.Scratch.Set "aliascount" 1 -}}
-  {{- range $i, $e := .Params.aliases -}}
-    {{- with $e -}}
-      {{- $aliascount := $.Scratch.Get "aliascount" -}}
-      {{- if eq $aliascount $aliaslen -}}
-        "https://digital.gov{{- $e -}}"
-      {{- else -}}
-        "https://digital.gov{{- $e -}}",
-      {{- end -}}
-      {{- $.Scratch.Add "aliascount" 1 -}}
-    {{- end -}}
+  "redirects" : [
+  {{- if .Params.aliases -}}
+    "{{ delimit .Params.aliases "\", \"" }}"
   {{- end -}}
   ],
 {{- end -}}
