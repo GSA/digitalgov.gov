@@ -5,7 +5,7 @@
 slug: "domain-management"
 
 # Topic Title
-title: "Domain Management"
+title: "Domain management"
 deck: "Clear and consistent use of .gov and .mil domains is essential to maintaining public trust."
 
 summary: "It should be easy to identify government websites on the internet. Using a .gov or .mil domain increases security, trust, and accountability, while ensuring the public can clearly identify official government services and information."

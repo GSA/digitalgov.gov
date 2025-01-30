@@ -2,16 +2,17 @@
 slug: fy-2004-reporting-instructions-for-the-federal-information-security-management-act
 date: 2015-11-23 4:06:49 -0400
 title: FY 2004 Reporting Instructions for the Federal Information Security Management Act
-summary: "This memorandum provides updated instructions for agency reporting under the Federal Information Security Management Act of 2002 (FISMA). Agency Chief Information Officers and Inspectors General have also received a copy of the attached instructions. View FY 2004 Reporting Instructions for the Federal Information Security Management Act Related Links OMB M-04-15 Reporting Instructions for the"
+summary: "This memorandum provides updated instructions for agency reporting under the Federal Information Security Management Act of 2002 (FISMA)."
 topics:
-  - policy
+  - public-policy
 authors:
   - andreanocesigritz
+
 ---
 
 This memorandum provides updated instructions for agency reporting under the Federal Information Security Management Act of 2002 (FISMA). Agency Chief Information Officers and Inspectors General have also received a copy of the attached instructions.
 
-<a class="button" style="color: #000000" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-25.pdf">View FY 2004 Reporting Instructions for the Federal Information Security Management<br /> Act</a>
+{{< button href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-25.pdf" text="View FY 2004 Reporting Instructions for the Federal Information Security Management Act (PDF)" >}}
 
 ## Related Links
 

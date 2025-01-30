@@ -15,8 +15,8 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "21st Century IDEA & M-23-22"
-  link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
+  title: "21st Century Integrated Digital Experience Act and OMB M-23-22"
+  link: "/resources/delivering-digital-first-public-experience/"
 
 
 # Featured community to display at the top of the page
@@ -33,12 +33,9 @@ featured_links:
   - title: "An introduction to digital governance"
     summary: "Get an overview of the internal systems and processes used to manage digital presence."
     href: "https://digital.gov/resources/an-introduction-to-digital-governance/"
-  - title: "What are agency reporting requirements?"
-    summary: "Learn what the Office of Management and Budget (OMB) requires federal executive agencies to complete by September 2024; one year after  M-23-22 issuance."
-    href: "https://digital.gov/resources/21st-century-integrated-digital-experience-act/#what-are-the-agency-reporting-requirements"
-  - title: "Who’s on your digital dream team?"
-    summary: "Learn about the various roles your agency could include on your web teams."
-    href: "https://digital.gov/2020/05/27/whos-on-your-digital-dream-team/"
+  - title: "An introduction to decommissioning sites"
+    summary: "Learn how to decommission a federal agency website when it no longer provides value or meets user needs."
+    href: "https://digital.gov/resources/an-introduction-to-decommissioning-sites/"
   - title: "Required web content and links"
     summary: "For executive branch websites, various policies require us to provide certain content, and provide links to content from specific places."
     href: "https://digital.gov/resources/required-web-content-and-links/"

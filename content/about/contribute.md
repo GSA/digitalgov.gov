@@ -9,6 +9,7 @@ aliases:
   - /about/join/
   - /join/
   - /contribute/
+  - /digitalgov-university/
 
 ---
 Digital.gov provides guidance on building better digital services in government. Do you have a case study or success story to share? Did your team recently accomplish something noteworthy?

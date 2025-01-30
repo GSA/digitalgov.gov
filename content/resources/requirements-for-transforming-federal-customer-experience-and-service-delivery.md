@@ -15,7 +15,7 @@ topics:
   - governance
   - human-centered-design
   - information-collection
-  - policy
+  - public-policy
   - trust
 
 slug: requirements-for-transforming-federal-customer-experience-and-service-delivery

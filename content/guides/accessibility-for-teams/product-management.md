@@ -51,7 +51,7 @@ Consider how everyone will use the product.
 ### Steps to take
 
 1. **Don’t assume that your users don’t have accessibility needs.** Even if your product serves a small subset of users, any one individual may experience disabilities that are situational (working in a loud environment) or temporary (having an arm in a cast), or develop a permanent one.
-2. **Consider inclusion in your research and usability testing with a range of people** across ages, races, locations, devices, interests, abilities, languages, English proficiency, gender identities, sexual orientations, and access to reliable internet.
+2. **Engage with various perspectives** in your research and in usability testing, considering a range of experiences and abilities.
 3. **Consider testing your product with people in their own context**, such as people who use alternative reading devices, have color blindness impairments, or motor impairments.
 4. **Set a regular cadence** for testing accessibility scenarios.
 

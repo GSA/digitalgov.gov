@@ -3,6 +3,9 @@ date: 2024-06-14 09:00:00 -0500
 title: "Building by the rules: A crash course for federal technologists"
 deck: ""
 summary: "A guide for web and digital practitioners on why public policy matters."
+
+expirydate: "2025-01-02"
+
 guide: public-policy
 image: guide-public-policy
 primary_image: guide-public-policy
@@ -16,7 +19,7 @@ topics:
   - customer-experience
   - user-experience
   - product-and-project-management
-  - policy
+  - public-policy
   - design
   - innovation
   - information-collection
