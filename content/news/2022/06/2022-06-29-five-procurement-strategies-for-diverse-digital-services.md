@@ -4,13 +4,14 @@ title: Five Procurement Strategies for Diverse Digital Services
 summary: Modern digital services require a close connection between federal agencies and contractors, as well as customers and other stakeholders. Use these five practical tips to attract and empower contractors who value diversity, equity, inclusion, and accessibility.
 deck: 
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - acquisition
   - accessibility
   - digital-service-delivery
-  - diversity-equity-and-inclusion
-  - policy
+  - public-policy
 
 # See all authors at https://digital.gov/authors
 authors:

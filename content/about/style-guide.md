@@ -15,17 +15,6 @@ Below you’ll find guidance for voice and tone, author bios and photos, brandin
 
 Articles for Digital.gov—written by employees from across the federal government—use an informal, conversational tone.
 
-### Conscious inclusivity
-
-Not everyone who uses government services or engages with federal agencies are U.S. citizens. When appropriate, use phrases or words such as: the public, users, people, or folks.
-
-Additionally, where possible:
-
-* Avoid using gendered pronouns; instead, use they or their.
-* Avoid age-related descriptions of people unless absolutely necessary for the content; in those cases, try using `older people` or `older person` &mdash; instead of _elderly_ or _senior_.
-
-See the **18F Content Guide** for more on inclusive language: https://content-guide.18f.gov/inclusive-language/.
-
 ## Grammar and spelling
 
 In general, we follow [AP Style](https://www.apstylebook.com/). Use [plain language](https://www.plainlanguage.gov/) in your writing for clarity. Avoid using acronyms or [jargon](https://www.digitalgov.gov/2014/08/15/get-out-of-the-jargon-trap-plain-language-training-can-help/) that may be unfamiliar to the general public or those outside your agency.
@@ -312,14 +301,18 @@ Please do not use images of text; we can highlight text in call-out box, an acco
 * Getty Images Content License Agreement: https://www.gettyimages.com/eula &mdash; Section 6 has intellectual property rights and how to properly format attribution for an image.
 
 Example:
-* [10 Hiring Tips for Attracting Underrepresented Digital Services Talent to Serve](https://digital.gov/2022/03/16/ten-hiring-tips-attracting-underrepresented-digital-services-talent-to-serve/)
-* [10 Tips to Create, Maintain, and Present Non-English Digital Content: A Q&A with Michael Mulé](https://digital.gov/2022/05/23/10-tips-to-create-maintain-and-present-non-english-digital-content-a-qa-with-michael-mule/)
+
+{{< img src="website-audit-control-panel-olivier-le-moal-istock-getty-images-693699396-comp" >}}
 
 2. **iStock.com photos (formerly Thinkstock)**
 
 * iStock Content License Agreement: https://www.istockphoto.com/legal/license-agreement &mdash; Section 3 covers restricted uses, and Section 7 has intellectual property rights and how to properly format attribution for an image.
 * Using iStock files: https://www.istockphoto.com/faq/using-files
 * Frequently Asked Questions: https://www.istockphoto.com/faq
+
+Example:
+
+{{< img src="agile-flow-600" >}}
 
 3. **Creative Commons** (CC)
 
@@ -328,15 +321,16 @@ _Best Practices for Attribution_ (with examples):
 
 Examples on Digital.gov:
 
-* [Social Media: Accessibility Issues and Solutions](https://digital.gov/2014/06/30/social-media-accessibility-issues-and-solutions/)
-* [Celebrating Black History at TTS: Reflections on the Challenges of the Past and Present](https://digital.gov/2022/03/14/celebrating-black-history-at-tts-reflections-on-the-challenges-of-the-past-and-present/)
+{{< img src="accessibility-disability-see" >}}
 
 4. **flickr** photos
 
 Many Flickr users have chosen to offer their work under a Creative Commons license.
 https://www.flickr.com/creativecommons/
 
-[Digital.gov example](https://digital.gov/2014/06/30/social-media-accessibility-issues-and-solutions/)
+Example
+
+{{< legacy-img src="2014/02/InnovationChalkboard1.jpg" alt="The word innovation written in all-caps, inside a thought bubble, on a chalkboard." caption="Missy Schmidt, Flickr, CC BY 2.0" >}}
 
 Give attribution to photographers with CC license
 https://help.yahoo.com/kb/flickr/SLN7674.html

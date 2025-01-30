@@ -15,7 +15,7 @@ topics:
   - accessibility
   - user-experience
   - communication
-  - policy
+  - public-policy
 slug: the-plain-language-tie-to-translating-digital-content
 captions: https://www.streamtext.net/player/?event=BIS-GSA-1589
 # zoom, youtube_live, adobe_connect, google

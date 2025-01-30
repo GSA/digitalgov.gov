@@ -37,7 +37,4 @@ featured_links:
     - title: "Presidential Innovation Fellows"
       summary: "Get an overview of a program embedding seasoned technologists and innovators within federal agencies."
       href: "https://presidentialinnovationfellows.gov/"
-    - title: "Prioritizing equity in government-led innovation programs"
-      summary: "Learn how the Census Open Innovation Labs team supports the next generation of technologists and designers."
-      href: "https://digital.gov/2021/10/25/prioritizing-equity-in-government-led-innovation-programs/"
 ---

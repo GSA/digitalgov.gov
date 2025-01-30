@@ -9,7 +9,7 @@ topics:
   - design
   - software-engineering
   - cloud-and-infrastructure
-  - policy
+  - public-policy
 authors:
   - jeremyzilar
 

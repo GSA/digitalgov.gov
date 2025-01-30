@@ -8,7 +8,7 @@ authors:
 topics:
   - content-strategy
   - governance
-  - policy
+  - public-policy
 
 ---
 

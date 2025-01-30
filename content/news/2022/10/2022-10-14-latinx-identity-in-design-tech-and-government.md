@@ -4,11 +4,12 @@ title: "Latinx Identity in Design, Tech, and Government"
 deck: "The TTS Latinx employee resource group shares definitions, data, and the importance of representation in civic tech."
 summary: "TTS highlights Latinx employees in civic tech by outlining how ethnicity is defined and reported, and its importance in designing better products and services."
 
+expirydate: "2025-01-26"
+
 # See all topics at https://digital.gov/topics
 topics:
   - multilingual
   - design
-  - diversity-equity-and-inclusion
 
 # See all authors at https://digital.gov/authors
 authors:

@@ -76,7 +76,7 @@ This month, we’re focusing on large group meetings: divisional Town Halls or o
 
 <p>Some conferencing platforms offer breakout rooms, which provide an excellent option for “get to know your colleagues” sessions or small group brainstorming.</p>
 
-<p>Include short educational or learning sessions in the agenda. For example, the TTS Diversity Guild (one of our working groups) has done guest presentations at TTS team meetings to share information about inclusion topics, provide updates about current initiatives, and encourage colleagues to get involved.</p>
+<p>Include short educational or learning sessions in the agenda.</p>
 
 <p>Lastly, consider closing the meeting with an action item or an open question that brings the whole “meal” together and leaves people feeling satisfied and included. Open your next Town Hall with insights from the action item or question from the previous Town Hall. For example, we encouraged our colleagues to reach out and tell someone why they appreciate them.</p>
 

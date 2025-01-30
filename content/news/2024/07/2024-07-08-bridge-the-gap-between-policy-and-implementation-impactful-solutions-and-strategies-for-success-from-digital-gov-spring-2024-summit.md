@@ -11,7 +11,7 @@ topics:
   - communication
   - content-strategy
   - human-centered-design
-  - policy
+  - public-policy
   - best-practices
 # See all authors at https://digital.gov/authors
 authors:

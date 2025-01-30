@@ -5,6 +5,9 @@ title: "TTS Reflects: Why I Continue To Serve"
 summary: For Veterans Day 2021, we asked members of TTS’s Veterans affinity
   group to write one or two paragraphs in response to the question, “Why do I
   continue to serve?”
+
+expirydate: "2025-01-26"
+
 # See all topics at https://digital.gov/topics
 topics:
   - software-engineering

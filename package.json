@@ -21,7 +21,7 @@
     "prettier:js:fix": "npx prettier -w 'themes/digital.gov/src/js/*.js' 'config/typescript/**/*.ts'",
     "prettier:templates": "npx prettier -c ./themes/**/*.html",
     "prettier:templates:fix": "npx prettier -w ./themes/**/*.html",
-    "start": "npm-run-all --parallel local-build hugo workflow",
+    "start": "concurrently \"npm run local-build\" \"npm run hugo\" \"npm run workflow\"",
     "test:htmlproofer": "htmlproofer ./public --allow-hash-href --check-html --empty-alt-ignore --disable-external",
     "test:pa11y": "npx pa11y-ci --config .pa11yci --sitemap https://digital.gov/sitemap.xml --sitemap-find https://digital.gov --sitemap-replace localhost:1313 --sitemap-exclude '/201*|styleguide|images|img|join|apis'",
     "workflow": "npx netlify-cms-proxy-server",
@@ -44,7 +44,7 @@
     "@prantlf/jsonlint": "^14.0.3",
     "@uswds/uswds": "^3.9.0",
     "autoprefixer": "^10.4.16",
-    "del": "^6.1.1",
+    "concurrently": "^9.1.0",
     "dotenv": "^16.3.1",
     "eslint": "^8.56.0",
     "gulp": "^5.0.0",
@@ -57,12 +57,11 @@
     "gulp-uglify": "^3.0.2",
     "list.js": "^2.3.1",
     "mime-types": "^2.1.35",
-    "npm-run-all": "^4.1.5",
     "postcss-csso": "^6.0.1",
     "s3fs": "^2.5.0",
     "sass": "^1.69.7",
     "sass-embedded": "^1.69.7",
-    "sharp": "^0.33.3",
+    "sharp": "^0.33.5",
     "terser-webpack-plugin": "^5.3.10",
     "webpack-stream": "^7.0.0"
   },
@@ -96,7 +95,8 @@
     },
     "glob-parent": "6.0.2",
     "eslint": {
-      "file-entry-cache": "8.x"
+      "file-entry-cache": "8.x",
+      "cross-spawn": "7.0.6"
     },
     "aws-sdk": {
       "xml2js": "^0.5.0",
@@ -108,9 +108,6 @@
     },
     "xmlbuilder": {
       "lodash": "^4.17.21"
-    },
-    "npm-run-all": {
-      "cross-spawn": "7.0.6"
     },
     "xml2js": "^0.5.0",
     "lodash": "^4.17.21"

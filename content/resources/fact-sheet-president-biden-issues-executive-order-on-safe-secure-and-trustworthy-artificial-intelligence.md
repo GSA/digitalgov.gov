@@ -16,11 +16,13 @@ summary: "Summarizes the eight sections of the Executive Order: New Standards
   Supporting Workers; Promoting Innovation and Competition; Advancing American
   Leadership Abroad; and Ensuring Responsible and Effective Government Use of
   AI."
+
+expirydate: "2025-01-22"
+  
 # See all topics at https://digital.gov/topics
 topics:
   - artificial-intelligence
   - emerging-tech
-  - diversity-equity-and-inclusion
 slug: fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence
 # Controls how this page appears across the site
 # 0 -- hidden

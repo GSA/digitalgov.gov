@@ -8,7 +8,7 @@ summary: "Guidance on meeting security requirements for federal websites."
 topics:
   - security
   - digital-service-delivery
-  - policy
+  - public-policy
 
 # Controls how this page appears across the site
 # 0 -- hidden
