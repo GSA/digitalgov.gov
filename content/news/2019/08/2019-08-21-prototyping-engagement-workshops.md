@@ -14,7 +14,7 @@ topics:
   - design
   - customer-experience
   - artificial-intelligence
-  - policy
+  - public-policy
 featured_image:
   uid: pif-prototyping-engagement-01
   alt: ''

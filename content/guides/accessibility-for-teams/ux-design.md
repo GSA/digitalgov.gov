@@ -24,7 +24,7 @@ Accessibility is usability for people who interact with products differently. Yo
 
 ## Inclusive design
 
-Adopt an [inclusive design](https://inclusivedesignprinciples.org/) mentality
+Adopt an inclusive design mentality
 
 1. Celebrate accessibility requirements as a set of design constraints that help you create a better product for all users.
 2. Gain a basic understanding of the main categories of disabilities, limitations, or constraints that affect how people use digital services:

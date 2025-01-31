@@ -4,6 +4,8 @@ date: 2015-12-29 1:10:12 -0400
 title: "18F Reflects on Their Most Meaningful Projects in 2015"
 summary: "2015 was a big year for 18F. We almost doubled in size, worked with 28 different agency partners, and released products ranging from Design Method Cards to cloud.gov. Internally, we improved onboarding and our documentation by releasing guides on topics as diverse as content, accessibility, and creating good open source projects."
 
+expirydate: "2025-01-22"
+
 authors:
   - melody-kramer
 

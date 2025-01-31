@@ -3,6 +3,9 @@ date: 2024-06-14 09:00:00 -0500
 title: "Information collection"
 deck: ""
 summary: "The Paperwork Reduction Act (PRA) is a key federal statute. Learn when and how it applies."
+
+expirydate: "2025-01-02"
+
 guide: public-policy
 primary_image: guide-public-policy
 
