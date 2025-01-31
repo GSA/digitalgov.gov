@@ -4,6 +4,7 @@ title: "Evaluate and report"
 deck: ""
 summary: "Learn the importance of being transparent when reporting public participation."
 guide: public-participation
+field_guide_nav_title: "Evaluate and report"
 primary_image: guide-public-participation
 ---
 

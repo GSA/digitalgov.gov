@@ -4,6 +4,7 @@ title: "Configure your tool’s settings carefully"
 deck: ""
 summary: "Be cautious when configuring your tool to maximize insights while minimizing inaccuracies."
 guide: web-analytics-playbook
+field_guide_nav_title: "Configure"
 primary_image: guide-web-analytics-playbook
 aliases:
 ---

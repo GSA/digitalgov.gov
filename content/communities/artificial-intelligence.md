@@ -12,6 +12,7 @@ deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
 
 redirectto: https://coe.gsa.gov/communities/ai.html
+source_url: https://coe.gsa.gov/communities/ai.html
 
 # see all topics at https://digital.gov/topics
 topics:

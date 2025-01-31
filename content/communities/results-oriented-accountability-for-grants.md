@@ -7,6 +7,7 @@ date: 2018-05-31 12:00:00 -0400
 title: 'Results-Oriented Accountability for Grants'
 summary: "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal."
 redirectto: https://www.cfo.gov/financial-assistance/
+source_url: https://www.cfo.gov/financial-assistance/
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden

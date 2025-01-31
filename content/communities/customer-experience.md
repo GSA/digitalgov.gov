@@ -9,6 +9,7 @@ title: "Customer Experience"
 summary: We are an interagency group of customer experience practitioners.
 
 redirectto: https://coe.gsa.gov/communities/cx.html
+source_url: https://coe.gsa.gov/communities/cx.html
 
 # see all topics at https://digital.gov/topics
 topics:

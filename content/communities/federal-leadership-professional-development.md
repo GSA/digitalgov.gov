@@ -8,6 +8,7 @@ title: "Federal Leadership and Professional Development"
 deck: "Providing federal employees with seminars on leadership, professional development, and strategy."
 summary: "Providing federal employees with seminars on leadership, professional development, and strategy."
 redirectto: https://community.max.gov/x/bWSvgQ
+source_url: https://community.max.gov/x/bWSvgQ
 
 # see all topics at https://digital.gov/topics
 topics:

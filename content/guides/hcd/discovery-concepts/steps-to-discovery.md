@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Steps to discovery"
 summary: "Each step in the discovery cycle happens either before, during, or after conducting research."
 guide: hcd-discovery-concepts
+field_guide_nav_title: "Steps to discovery"
 primary_image: hcd-discovery-concepts
 ---
 

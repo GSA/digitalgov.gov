@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Team building"
 summary: "Buiilding the right team is critical to the success of your project."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Team building"
 primary_image: hcd-discovery-operations
 ---
 

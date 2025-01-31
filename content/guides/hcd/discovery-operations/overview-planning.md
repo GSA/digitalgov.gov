@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Overview planning"
 summary: "Problem framing defines the scope of your project, and overview planning is where you make a realistic plan to reach your goal. "
 guide: hcd-discovery-operations
+field_guide_nav_title: "Planning"
 primary_image: hcd-discovery-operations
 ---
 

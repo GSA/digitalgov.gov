@@ -4,6 +4,7 @@ title: "State of Federal RPA Report"
 deck: ""
 summary: "This report provides a comprehensive analysis of the adoption and impact of RPA in the Federal Government."
 guide: rpa
+field_guide_nav_title: "State of Federal RPA Report"
 primary_image: "guide-rpa"
 aliases: 
 

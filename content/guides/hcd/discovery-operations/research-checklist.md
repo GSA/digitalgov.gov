@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Research checklist"
 summary: "Use this checklist as you move through the research phase of your project."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Research checklist"
 primary_image: hcd-discovery-operations
 ---
 <div style="margin-left: 20px">

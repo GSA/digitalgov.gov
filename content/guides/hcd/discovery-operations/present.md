@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Present"
 summary: "How to communicate findings and deliverables."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Up next"
 primary_image: hcd-discovery-operations
 ---
 

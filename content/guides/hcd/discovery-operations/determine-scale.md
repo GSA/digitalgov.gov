@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Determine scale"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Determine scale"
 primary_image: hcd-discovery-operations
 ---
 In this guide, we refer to the project’s conceptual constraints as the project frame (scope), and the operations and logistical constraints as the project scale.

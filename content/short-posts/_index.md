@@ -1,4 +1,4 @@
 ---
-title: "Short Posts"
-summary: "External news posts"
+title: "Short posts"
+summary: ''
 ---

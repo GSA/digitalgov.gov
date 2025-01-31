@@ -1,0 +1,13 @@
+{{- if (isset .Params "source_url") -}}
+  "field_external_url" : "{{- .Params.source_url -}}",
+{{- end -}}
+{{- if (isset .Params "source") -}}
+  "field_source" : "{{- .Params.source -}}",
+{{- end -}}
+{{ if eq .Type "communities"}}
+  "field_short_post_type" : "Community",
+{{ else if eq .Type "resources" }}
+  "field_short_post_type" : "Resource",
+{{ else if eq .Type "news" }}
+  "field_short_post_type" : "News",
+{{ end }}

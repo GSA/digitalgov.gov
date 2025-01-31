@@ -5,6 +5,7 @@ deck: "A set of daily scans of the federal web presence."
 summary: "This program is available to automatically generate data about the health and best practices of federal websites."
 
 guide: site-scanning
+field_guide_nav_title: "Overview"
 image: guide-site-scanning
 layout: single
 guide_weight: 3

@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Research by week and day"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Research by week and day"
 primary_image: hcd-discovery-operations
 ---
 Research weeks are often quite full with all that you’re hearing, seeing, and experiencing. Research week snapshots provide you a guide for how you can space out your interviews/observations. Include: 

@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Framing"
 summary: "How to define and redefine your frame of reference"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Framing"
 primary_image: hcd-discovery-operations
 ---
 {{< img src=hcd-discovery-operations-1 >}}

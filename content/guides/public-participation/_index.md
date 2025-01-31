@@ -5,6 +5,7 @@ deck: "Build better services through public participation"
 summary: "A resource for government managers to effectively evaluate and build better services through public participation"
 summary_box: true 
 guide: public-participation
+field_guide_nav_title: "Overview"
 aliases:
 image: guide-public-participation
 primary_image: guide-public-participation

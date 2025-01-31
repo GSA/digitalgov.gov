@@ -5,6 +5,7 @@ title: "Discovery concepts guide"
 deck: "Explains the “why” behind conducting discovery research"
 summary: "Explains the “why” behind conducting discovery research"
 guide: hcd-discovery-concepts
+field_guide_nav_title: "Observation"
 glossary: hcd-glossary.json
 image: hcd-discovery-concepts
 primary_image: hcd-discovery-concepts

@@ -4,6 +4,7 @@ date: 2018-10-09 12:30:00 -0500
 title: "JavaScript is really cool, when used with care"
 summary: "Week one of our series covers the benefits of using JavaScript."
 guide: mobile-principles
+field_guide_nav_title: "Javascript"
 primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/javascript

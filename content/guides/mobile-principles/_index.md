@@ -4,6 +4,7 @@ title: "Eight principles of mobile-friendliness"
 deck: "How to improve a site's accessibility to mobile devices"
 summary: "We're sharing eight principles of mobile-friendliness to help you improve your sites."
 guide: mobile-principles
+field_guide_nav_title: "Overview"
 layout: single
 
 aliases:

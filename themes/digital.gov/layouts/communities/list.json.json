@@ -1,5 +1,5 @@
 {{- partial "core/set-env.html" . -}}
-{{- $list := .Data.Pages -}}
+{{- $list := where .Data.Pages "Params.source_url" "eq" nil -}}
 {{- $length := (len $list) -}}
 {
     "content" : "Communities",

@@ -17,6 +17,7 @@ authors:
   - hyon-kim
 
 redirectto: https://resources.data.gov/open-data/
+source_url: https://resources.data.gov/open-data/
 
 # see all topics at https://digital.gov/topics
 topics:

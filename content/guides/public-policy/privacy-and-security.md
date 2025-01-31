@@ -7,6 +7,7 @@ summary: "Public policy influences technology projects as a force both for and a
 expirydate: "2025-01-02"
 
 guide: public-policy
+field_guide_nav_title: "Privacy and security"
 primary_image: guide-public-policy
 
 ---
