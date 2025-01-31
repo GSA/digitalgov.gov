@@ -1,7 +1,7 @@
 {{- if .Params.legislation -}}
-  "field_legislation": "{{ .Params.legislation.link }}", "legislation_title" :
-  "{{- .Params.legislation.title -}}", "legislation_link" :
-  "{{- .Params.legislation.link -}}",
+  "field_legislation": "{{ .Params.legislation.link }}",
+  "legislation_title" : "{{- .Params.legislation.title -}}",
+  "legislation_link" : "{{- .Params.legislation.link -}}",
 {{- end -}}
 {{- if (isset .Params "featured_communities") -}}
   {{- $_featured_communities := .Params.featured_communities -}}
@@ -20,7 +20,7 @@
 {{- end -}}
 {{- if (isset .Params "featured_resources") -}}
   {{- range .Params.featured_resources.resources -}}
-    "field_featured_resource": "{{ .link }}",
+      "field_featured_resource": "{{ .link }}",
     {{ if .link }}
       "field_featured_resource_link": "{{- .link -}}",
     {{ end }}
