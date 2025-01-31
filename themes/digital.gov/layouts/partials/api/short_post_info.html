@@ -4,7 +4,7 @@
 {{- if (isset .Params "source") -}}
   "field_source" : "{{- .Params.source -}}",
 {{- end -}}
-{{ if eq .Type "communities"}}
+{{ if eq .Type "communities" }}
   "field_short_post_type" : "Community",
 {{ else if eq .Type "resources" }}
   "field_short_post_type" : "Resource",
