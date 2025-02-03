@@ -33,7 +33,7 @@ The TTS Diversity guild and the TTS’ Working While Black (WWB) affinity group 
 
 The TTS Outreach team also created social media campaigns focused on highlighting what Black History Month meant for our Black colleagues. We reached out to them and gathered content and feedback to create a social media campaign that not only provided our Black employees an opportunity to share their voice, but also showcase their outstanding work and expertise.
 
-<center>{{< tweet user="GSA_TTS" id="1359893539526746117" >}}
+<center>
 
 <hr width="75%">
 
