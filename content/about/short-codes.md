@@ -16,17 +16,9 @@ Another line in the accordion body.
 
 {{< /accordion >}}
 
-## Asset Image:
-
-{{< asset-img path="img/digitalgov-logo-white.png" alt="" width="220" bg="dark" >}}
-
-Asset Static:
+## Asset Static:
 
 {{< asset-static file="ep2-challengegov.pdf" label="View the slides from this presentation (PDF, 4.4 MB, 39 pages)." >}}
-
-## Author-bio:
-
-{{< author-bio "dan-williams" >}}
 
 ## Box:
 
@@ -104,7 +96,7 @@ Watch these [presentations training videos](https://www.section508.gov/create/pr
 
 ## Featured Resource:
 
-{{< featured-resource link="/guides/hcd/discovery-concepts" >}}
+{{< featured-resource link="guides/hcd" >}}
 
 ## Highlight:
 
@@ -151,17 +143,9 @@ To request other free U.S. government publications, visit the U.S. Government Pu
 Create an interview/conversation guide with a list of keywords or themes you want to cover with each participant. This does not need to be formal, but all researchers should use it so as to create continuity across the interviews.
 {{< /ring >}}
 
-## TOS Compatible
-
-{{< termsofservice-compatible >}}
-
-## TOS Inactive
-
-{{< termsofservice-inactive >}}
-
 ## Youtube:
 
-{{< youtube id="5vyAlqOEsuM" title="U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media" >}}
+{{< youtube id="hfgllf1L9_4" title="U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media" >}}
 
 ## Ref:
 
