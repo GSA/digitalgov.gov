@@ -5,7 +5,7 @@ title: "Digital Millennium Copyright Act"
 summary: "The Digital Millennium Copyright Act (DMCA) is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO)."
 
 topics:
-  - policy
+  - public-policy
 
 authors:
   - apiazza

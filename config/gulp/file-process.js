@@ -2,7 +2,6 @@ const { series } = require("gulp");
 const sharp = require("sharp");
 const fs = require("fs");
 const path = require("path");
-const del = require("del");
 
 /**
  * Set input and output directories for image processing
@@ -136,7 +135,7 @@ async function processImages() {
         const imageToProcess = getImageDetails(image);
         return Promise.all([
           processImageOriginal(imageToProcess),
-          processImageVariants(imageToProcess)
+          processImageVariants(imageToProcess),
         ]);
       });
 
@@ -156,12 +155,17 @@ async function processImages() {
  */
 function removeProcessedImage() {
   return new Promise((resolve, reject) => {
-    const imageDir = "content/uploads/_working-images/processed";
-
-    if (fs.existsSync(imageDir) && fs.readdirSync(imageDir).length > 0) {
-      return del([
-        "content/uploads/_working-images/to-process",
-      ]).then(() => resolve()).catch((err) => reject(err));
+    if (
+      fs.existsSync(processedImagesDirectory) &&
+      fs.readdirSync(processedImagesDirectory).length > 0
+    ) {
+      fs.rmdir(processImagesDirectory, { recursive: true }, (err) => {
+        if (err) {
+          reject(err);
+        } else {
+          resolve();
+        }
+      });
     } else {
       resolve();
     }

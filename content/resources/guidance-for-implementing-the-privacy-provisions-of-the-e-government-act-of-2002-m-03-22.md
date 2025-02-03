@@ -5,7 +5,7 @@ title: Guidance for Implementing the Privacy Provisions of the E–Government Ac
 summary: "This guidance provides information to agencies on implementing the privacy provisions of the E-Government Act of 2002. It addresses privacy protections when Americans interact with their government."
 topics:
   - privacy
-  - policy
+  - public-policy
 authors:
   - apiazza
 

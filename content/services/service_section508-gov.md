@@ -29,6 +29,6 @@ topics:
   - product-and-project-management
   - accessibility
   - governance
-  - policy
+  - public-policy
 
 ---
