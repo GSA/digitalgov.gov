@@ -71,7 +71,6 @@ The IT Acq CoP unites federal employees to improve the IT acquisition experien
 
 * [Federal Acquisition Regulation (FAR)](https://www.gsa.gov/policy-regulations/regulations/federal-acquisition-regulation-far) — The primary regulation for use by all executive agencies in their acquisition of supplies and services with appropriated funds. The FAR also contains standard solicitation provisions and contract clauses and the various agency FAR supplements.
 * [FAR Updated to Add Revised Section 508 Standards for Information and Communication Technology](https://www.section508.gov/blog/far-update-adds-revised-508-standards/) November 2021
-* [Five Procurement Strategies for Diverse Digital Services](https://digital.gov/2022/06/30/five-procurement-strategies-for-diverse-digital-services/) June 2022
 * [Find Your Section 508 Program Manager](https://www.section508.gov/tools/coordinator-listing/) — Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility.
 * [Accessibility Requirements Tool (ART)](https://www.section508.gov/art/) — ART is a multifaceted tool that offers interactive, step-by-step guidance on how to determine applicable accessibility requirements.
 * [18F De-risking Guides](https://derisking-guide.18f.gov/) — The Federal Field Guide to De-risk Government Technology offers guidance to federal agencies on how to structure software development teams, write contracts, and oversee agile software activities to reduce risks and improve outcomes for end-users.
