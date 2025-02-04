@@ -30,6 +30,7 @@ function intersection(e) {
       "grid-container",
       "grid-container-desktop"
     );
+    menuBarLinks.style.paddingLeft = "calc(50vw - 45.2rem)";
     menuBarImage.removeAttribute("hidden");
     menuBarImage.setAttribute("tabindex", "0");
 
@@ -43,6 +44,7 @@ function intersection(e) {
   } else {
     menuBarImage.setAttribute("hidden", "");
     menuBarImage.setAttribute("tabindex", "-1");
+    menuBarLinks.style.paddingLeft = 0;
     menuBar.classList.remove("sticky");
     menuBarContainer.classList.add("grid-container", "grid-container-desktop");
     scrollMenuBar(menuBarScrollOffsetDefault);
