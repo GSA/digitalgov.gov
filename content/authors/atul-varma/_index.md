@@ -12,6 +12,8 @@ slug: atul-varma
 # See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.
 github: ""
 
+expirydate: 2025-02-05
+
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
