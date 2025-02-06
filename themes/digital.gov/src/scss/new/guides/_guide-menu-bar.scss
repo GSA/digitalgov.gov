@@ -43,6 +43,10 @@
     overflow-x: scroll;
     overflow-y: hidden;
     scrollbar-width: none;
+
+    @media (max-width: 87.5rem) {
+      padding-left: calc(50vw - 36rem);
+    }
   }
 
   &-links::-webkit-scrollbar {
