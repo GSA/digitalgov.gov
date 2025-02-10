@@ -32,6 +32,7 @@ function scrollMenuBar(offset) {
  * in alignment with dg-guide__content and HCD guides dg-guide__container
  * */
 function adjustMenuPadding() {
+  console.log("calling resize");
   let container = null;
   if (guideSideNav) {
     container = guideContainer;
@@ -67,8 +68,8 @@ function intersection(e) {
       "grid-container",
       "grid-container-desktop"
     );
-
-    adjustMenuPadding();
+    
+    window.addEventListener("resize", adjustMenuPadding);
     menuBarImage.removeAttribute("hidden");
     menuBarImage.setAttribute("tabindex", "0");
     // Check if viewing on mobile device
@@ -83,6 +84,7 @@ function intersection(e) {
     menuBarImage.setAttribute("tabindex", "-1");
     menuBarLinks.style.paddingLeft = 0;
     menuBar.classList.remove("sticky");
+    window.removeEventListener("resize", adjustMenuPadding);
     menuBarContainer.classList.add("grid-container", "grid-container-desktop");
     scrollMenuBar(menuBarScrollOffsetDefault);
   }
@@ -103,4 +105,3 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // Adjust padding when the window resizes
-window.addEventListener("resize", adjustMenuPadding);
