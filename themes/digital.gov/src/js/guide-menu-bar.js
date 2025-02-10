@@ -1,7 +1,4 @@
 // Uses manual breakpoints because USWDS breakpoints are not accessible within JS
-const deviceBreakpoint = 480;
-const menuBarScrollOffsetMobile = 600;
-const menuBarScrollOffsetFull = 600;
 const menuBarScrollOffsetDefault = 600;
 let menuBarLinks = null;
 let menuBarImage = null;
@@ -32,7 +29,6 @@ function scrollMenuBar(offset) {
  * in alignment with dg-guide__content and HCD guides dg-guide__container
  * */
 function adjustMenuPadding() {
-  console.log("calling resize");
   let container = null;
   if (guideSideNav) {
     container = guideContainer;
@@ -68,16 +64,12 @@ function intersection(e) {
       "grid-container",
       "grid-container-desktop"
     );
-    
-    window.addEventListener("resize", adjustMenuPadding);
+
     menuBarImage.removeAttribute("hidden");
     menuBarImage.setAttribute("tabindex", "0");
-    // Check if viewing on mobile device
-    if (window.innerWidth < deviceBreakpoint) {
-      scrollMenuBar(menuBarScrollOffsetMobile);
-    } else {
-      scrollMenuBar(menuBarScrollOffsetFull);
-    }
+    // call function to reset the menubar when menuBarImage is displayed
+    adjustMenuPadding();
+    window.addEventListener("resize", adjustMenuPadding);
     // Menu bar is no longer intersecting
   } else {
     menuBarImage.setAttribute("hidden", "");
