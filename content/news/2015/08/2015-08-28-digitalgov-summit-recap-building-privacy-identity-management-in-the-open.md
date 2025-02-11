@@ -12,7 +12,7 @@ topics:
 
 ---
 
-How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the [2015 DigitalGov Citizen Services Summit]({{< ref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}).
+How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the [2015 DigitalGov Citizen Services Summit](https://digital.gov/2015/06/12/digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available/).
 
 {{< legacy-img src="2015/08/600-x-400-Cyber-Attack-A01-Matej-Moderc-iStock-Thinkstock-479801072.jpg" alt="Data and identity security concept of cyber attack warning messages on a computer screen." caption="Matej Moderc/iStock/Thinkstock" >}}
 
