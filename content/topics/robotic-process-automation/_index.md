@@ -9,7 +9,7 @@ title: "Robotic process automation"
 deck: "Leverage more efficient, modernized technology in government"
 
 # description — keep it short and clear
-summary: "Robotics process automation (RPA) technologies can automate repetitive, rules-based tasks. They can be used to rapidly design, test, and deploy automations and reduce low-value work in an organization."
+summary: "Robotic process automation (RPA) technologies can automate repetitive, rules-based tasks. They can be used to rapidly design, test, and deploy automations and reduce low-value work in an organization."
 
 aliases:
   - /topics/rpa/
@@ -29,7 +29,7 @@ featured_communities:
 
 # Curated list of content, can be internal or external links
 featured_links:
-  title: "Robotics process automation: Essential knowledge"
+  title: "Robotic process automation: Essential knowledge"
   resources:
   - title: "5 tips for implementing citizen development in your RPA program"
     summary: "Explore best practices for federal robotic process automation programs looking to operationalize citizen developers."
