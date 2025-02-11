@@ -51,7 +51,7 @@ featured_links:
     href: "https://guides.18f.gov/ux-guide/research/"
   - title: "A guide to the Paperwork Reduction Act"
     summary: "Explore common questions related to the Paperwork Reduction Act, a law governing how federal agencies collect information from the public."
-    href: "https://pra.digital.gov "
+    href: "https://pra.digital.gov"
   - title: "Uncovering impactful solutions through user research"
     summary: "Understand the needs and behaviors of your users so you can develop a product or service that supports them."
     href: "https://digital.gov/2024/10/04/uncovering-impactful-solutions-through-user-research/ "
