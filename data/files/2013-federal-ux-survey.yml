@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/2013-federal-ux-survey.pptx
+  # File shortcode: {{< asset-static file="2013-federal-ux-survey.pptx" label="2013-federal-ux-survey (PDF, 4 pages, 2MB)" >}}
+  date     :  2025-02-12 09:20:34 -0400
+  uid      :  2013-federal-ux-survey
+  format   :  pptx
+  

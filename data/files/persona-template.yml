@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/persona-template.pptx
+  # File shortcode: {{< asset-static file="persona-template.pptx" label="persona-template (PDF, 4 pages, 2MB)" >}}
+  date     :  2025-02-12 09:20:34 -0400
+  uid      :  persona-template
+  format   :  pptx
+  

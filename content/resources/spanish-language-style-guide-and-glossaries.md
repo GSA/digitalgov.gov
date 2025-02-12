@@ -15,7 +15,7 @@ Spanish language style guides are resources for government employees, translator
 
 The guides below were peer reviewed by [Leticia Molinero](https://www.anle.us/nuestra-academia/miembros/academicos-de-numero/leticia-molinero/), Maria Cornelio, and [Jack Segura](https://www.anle.us/nuestra-academia/miembros/academicos-de-honor/joaquin-segura/), members of the North American Academy of the Spanish Language (ANLE).
 
-[The 2014 GSA/ANLE Agreement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf) (PDF, 214 KB, 4 pages)
+[The 2014 GSA/ANLE Agreement](https://s3.amazonaws.com/digitalgov/static/2014-ANLE-Agreement.pdf) (PDF, 214 KB, 4 pages)
 
 **Please Note**: We continue to make improvements to these guides, so please send any comments or suggestions for additional resources to [Laura Godfrey](mailto:laura.godfrey@gsa.gov), Lead, [Multilingual Community of Practice](https://digital.gov/communities/multilingual/).
 

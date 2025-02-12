@@ -9,7 +9,7 @@ topics:
   - professional-development
 ---
 
-Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {{< legacy-img src="2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" caption="MacXever/iStock/Thinkstock" >}}
+Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {{< img src="scrum-collage-concepts-macxever-istock-thinkstock-471756405" alt="A word cloud of Agile Scrum concepts" caption="MacXever/iStock/Thinkstock" >}}
 
 Transitioning to agile development has benefited [Open Opportunities](https://openopps.digitalgov.gov/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
 
