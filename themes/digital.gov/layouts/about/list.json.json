@@ -1,17 +1,17 @@
-{{- $guidesPages := slice -}}
+{{- $aboutPages := slice -}}
 {{- range .Site.Pages -}} 
-  {{- if and (.File) (strings.Contains .File.Path "guides/") (strings.HasSuffix .File.Path ".md") -}}
-    {{- $guidesPages = $guidesPages | append . -}}
+  {{- if and (.File) (strings.Contains .File.Path "about/") (strings.HasSuffix .File.Path ".md") -}}
+    {{- $aboutPages = $aboutPages | append . -}}
   {{- end -}}
 {{- end -}}
 
 
 {
-  "content": "guides",
-  "count": {{ len $guidesPages }},
+  "content": "about",
+  "count": {{ len $aboutPages }},
   "items": [
-    {{- $lastIndex := sub (len $guidesPages) 1 -}}
-    {{- range $index, $page := $guidesPages -}}
+    {{- $lastIndex := sub (len $aboutPages) 1 -}}
+    {{- range $index, $page := $aboutPages -}}
     {
       {{- partial "api/metadata.html" $page -}}
       "field_guide_nav_ref": "{{ $page.Params.guide | safeJS }}",
@@ -24,7 +24,7 @@
       {{- partial "api/topics.html" $page -}}
       {{- partial "api/aliases.html" $page -}}
       {{- partial "api/file-info.html" $page -}}
-      {{- partial "api/slug.html" $page -}}
+      "url": "{{ $page.RelPermalink | safeJS }}"
     }{{ if lt $index $lastIndex }},{{ end }}
     {{- end -}}
   ]

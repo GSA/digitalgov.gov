@@ -1,0 +1,14 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range $file := sort $.Site.Data.files ".date" "desc" -}}
+  {{- if (and .uid $file.format) }}
+    {{- $sourceURL := printf "https://s3.amazonaws.com/digitalgov/static/%s.%s" $file.uid $file.format -}}
+    {{- $.Scratch.Add "index" (dict
+      "uid" $file.uid
+      "date" $file.date
+      "format" $file.format
+      "source" $sourceURL
+      )
+    -}}
+  {{- end }}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

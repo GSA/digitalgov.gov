@@ -20,7 +20,6 @@
 {{- end -}}
 {{- if (isset .Params "featured_resources") -}}
   {{- range .Params.featured_resources.resources -}}
-    "field_featured_resource": "{{ .link }}",
     {{ if .link }}
       "field_featured_resource_link": "{{- .link -}}",
     {{ end }}
